@@ -1,6 +1,6 @@
-#### [针对大型语言模型，本研究案例展示了如何高效地以最小化人工投入的方式快速构建高质量的指令数据集及评估基准，此方法特别适用于日语场景。](https://arxiv.org/abs/2403.03690)
+# [针对大型语言模型，本研究案例展示了如何高效地以最小化人工投入的方式快速构建高质量的指令数据集及评估基准，此方法特别适用于日语场景。](https://arxiv.org/abs/2403.03690)
 
-#### Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese
+> Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese
 
 发布时间：2024年03月06日
 
@@ -8,4 +8,4 @@
 
 > The creation of instruction data and evaluation benchmarks for serving Large language models often involves enormous human annotation. This issue becomes particularly pronounced when rapidly developing such resources for a non-English language like Japanese. Instead of following the popular practice of directly translating existing English resources into Japanese (e.g., Japanese-Alpaca), we propose an efficient self-instruct method based on GPT-4. We first translate a small amount of English instructions into Japanese and post-edit them to obtain native-level quality. GPT-4 then utilizes them as demonstrations to automatically generate Japanese instruction data. We also construct an evaluation benchmark containing 80 questions across 8 categories, using GPT-4 to automatically assess the response quality of LLMs without human references. The empirical results suggest that the models fine-tuned on our GPT-4 self-instruct data significantly outperformed the Japanese-Alpaca across all three base pre-trained models. Our GPT-4 self-instruct data allowed the LLaMA 13B model to defeat GPT-3.5 (Davinci-003) with a 54.37\% win-rate. The human evaluation exhibits the consistency between GPT-4's assessments and human preference. Our high-quality instruction data and evaluation benchmark have been released here.
 
-LLM应用
+`LLM应用`

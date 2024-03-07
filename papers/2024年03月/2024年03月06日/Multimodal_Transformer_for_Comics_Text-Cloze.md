@@ -1,6 +1,6 @@
-#### [针对漫画文本完形填空任务，我们采用多模态 Transformer 技术，旨在整合图像与文本信息，以提升模型在理解漫画情境并准确完成文本完形填空方面的性能。](https://arxiv.org/abs/2403.03719)
+# [针对漫画文本完形填空任务，我们采用多模态 Transformer 技术，旨在整合图像与文本信息，以提升模型在理解漫画情境并准确完成文本完形填空方面的性能。](https://arxiv.org/abs/2403.03719)
 
-#### Multimodal Transformer for Comics Text-Cloze
+> Multimodal Transformer for Comics Text-Cloze
 
 发布时间：2024年03月06日
 
@@ -8,4 +8,4 @@
 
 > This work explores a closure task in comics, a medium where visual and textual elements are intricately intertwined. Specifically, Text-cloze refers to the task of selecting the correct text to use in a comic panel, given its neighboring panels. Traditional methods based on recurrent neural networks have struggled with this task due to limited OCR accuracy and inherent model limitations. We introduce a novel Multimodal Large Language Model (Multimodal-LLM) architecture, specifically designed for Text-cloze, achieving a 10% improvement over existing state-of-the-art models in both its easy and hard variants. Central to our approach is a Domain-Adapted ResNet-50 based visual encoder, fine-tuned to the comics domain in a self-supervised manner using SimCLR. This encoder delivers comparable results to more complex models with just one-fifth of the parameters. Additionally, we release new OCR annotations for this dataset, enhancing model input quality and resulting in another 1% improvement. Finally, we extend the task to a generative format, establishing new baselines and expanding the research possibilities in the field of comics analysis.
 
-LLM应用
+`LLM应用`

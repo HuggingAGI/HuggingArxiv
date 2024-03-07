@@ -1,6 +1,6 @@
-#### [面向电商领域的 General2Specialized LLMs 翻译技术](https://arxiv.org/abs/2403.03689)
+# [面向电商领域的 General2Specialized LLMs 翻译技术](https://arxiv.org/abs/2403.03689)
 
-#### General2Specialized LLMs Translation for E-commerce
+> General2Specialized LLMs Translation for E-commerce
 
 发布时间：2024年03月06日
 
@@ -8,4 +8,4 @@
 
 > Existing Neural Machine Translation (NMT) models mainly handle translation in the general domain, while overlooking domains with special writing formulas, such as e-commerce and legal documents. Taking e-commerce as an example, the texts usually include amounts of domain-related words and have more grammar problems, which leads to inferior performances of current NMT methods. To address these problems, we collect two domain-related resources, including a set of term pairs (aligned Chinese-English bilingual terms) and a parallel corpus annotated for the e-commerce domain. Furthermore, we propose a two-step fine-tuning paradigm (named G2ST) with self-contrastive semantic enhancement to transfer one general NMT model to the specialized NMT model for e-commerce. The paradigm can be used for the NMT models based on Large language models (LLMs). Extensive evaluations on real e-commerce titles demonstrate the superior translation quality and robustness of our G2ST approach, as compared with state-of-the-art NMT models such as LLaMA, Qwen, GPT-3.5, and even GPT-4.
 
-LLM应用
+`LLM应用`
