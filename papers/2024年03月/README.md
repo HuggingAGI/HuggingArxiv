@@ -963,3 +963,203 @@
 - [A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation](2024年03月06日/A_Knowledge_Plug-and-Play_Test_Bed_for_Open-domain_Dialogue_Generation.md)
 
     - [翻译: 我们构建了一个针对开放领域对话生成的“知识即插即用”测试平台，旨在便捷地探究和验证各类知识在对话生成任务中的应用效果。](2024年03月06日/A_Knowledge_Plug-and-Play_Test_Bed_for_Open-domain_Dialogue_Generation.md)
+
+- [Aligners: Decoupling LLMs and Alignment](2024年03月06日/Aligners_Decoupling_LLMs_and_Alignment.md)
+
+    - [翻译: 本文探讨“对齐器”，旨在将大型语言模型（LLM）与其对齐机制分离。通过这种方法，我们深入研究如何独立优化LLM的性能与对其行为和输出的可控性，以实现更好的对齐效果。](2024年03月06日/Aligners_Decoupling_LLMs_and_Alignment.md)
+
+- [Self-Evaluation of Large Language Model based on Glass-box Features](2024年03月06日/Self-Evaluation_of_Large_Language_Model_based_on_Glass-box_Features.md)
+
+    - [翻译: 针对大型语言模型，本研究采用 Glass-box 特征进行自我评估，旨在通过解析模型内部透明可见的特征来评价其性能表现。](2024年03月06日/Self-Evaluation_of_Large_Language_Model_based_on_Glass-box_Features.md)
+
+- [Large Language Models are In-Context Molecule Learners](2024年03月06日/Large_Language_Models_are_In-Context_Molecule_Learners.md)
+
+    - [翻译: 大型语言模型擅长于在上下文中学习分子知识（注：由于原文标题简洁且具有一定的专业性，从准确性和生动性角度考虑，在翻译时保留了“上下文”这一术语，并将“learner”译为更符合中文表达习惯的“学习者”，同时也强调了其在分子领域的学习能力。）](2024年03月06日/Large_Language_Models_are_In-Context_Molecule_Learners.md)
+
+- [Generative AI for Synthetic Data Generation: Methods, Challenges and the Future](2024年03月06日/Generative_AI_for_Synthetic_Data_Generation_Methods,_Challenges_and_the_Future.md)
+
+    - [翻译: 探究生成式AI在合成数据创造中的方法论、面临的挑战及其未来趋势](2024年03月06日/Generative_AI_for_Synthetic_Data_Generation_Methods,_Challenges_and_the_Future.md)
+
+- [Metric-aware LLM inference](2024年03月06日/Metric-aware_LLM_inference.md)
+
+    - [翻译: 面向指标的 LLM 推理技术](2024年03月06日/Metric-aware_LLM_inference.md)
+
+- [Improving Retrieval in Theme-specific Applications using a Corpus Topical Taxonomy](2024年03月06日/Improving_Retrieval_in_Theme-specific_Applications_using_a_Corpus_Topical_Taxonomy.md)
+
+    - [翻译: 通过构建和运用基于语料库的主题分类体系，本研究致力于提升各类特定主题应用中的检索效果。](2024年03月06日/Improving_Retrieval_in_Theme-specific_Applications_using_a_Corpus_Topical_Taxonomy.md)
+
+- [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](2024年03月06日/Chatbot_Arena_An_Open_Platform_for_Evaluating_LLMs_by_Human_Preference.md)
+
+    - [翻译: Chatbot Arena——一个通过人类偏好评判LLMs表现的公开平台，旨在为各类大型语言模型提供公正、直观的人性化评估环境。](2024年03月06日/Chatbot_Arena_An_Open_Platform_for_Evaluating_LLMs_by_Human_Preference.md)
+
+- [Privacy-preserving Fine-tuning of Large Language Models through Flatness](2024年03月06日/Privacy-preserving_Fine-tuning_of_Large_Language_Models_through_Flatness.md)
+
+    - [翻译: 针对大型语言模型，我们提出了一种基于“平坦性”的隐私保护微调方法。该方法旨在在保持模型性能的同时，有效保障用户数据隐私，特别是在对大型语言模型进行针对性优化时。](2024年03月06日/Privacy-preserving_Fine-tuning_of_Large_Language_Models_through_Flatness.md)
+
+- [Exploring LLM-based Agents for Root Cause Analysis](2024年03月06日/Exploring_LLM-based_Agents_for_Root_Cause_Analysis.md)
+
+    - [翻译: 本研究致力于探究基于大型语言模型（LLM）的智能体在根因分析任务中的应用与潜力。](2024年03月06日/Exploring_LLM-based_Agents_for_Root_Cause_Analysis.md)
+
+- [Can Large Language Models Reason and Plan?](2024年03月06日/Can_Large_Language_Models_Reason_and_Plan.md)
+
+    - [翻译: 探究大型语言模型能否进行推理与规划步骤解释：](2024年03月06日/Can_Large_Language_Models_Reason_and_Plan.md)
+
+- [Artificial Intelligence Exploring the Patent Field](2024年03月06日/Artificial_Intelligence_Exploring_the_Patent_Field.md)
+
+    - [翻译: 人工智能涉足专利界，正不断探寻其中的创新疆域。](2024年03月06日/Artificial_Intelligence_Exploring_the_Patent_Field.md)
+
+- [Can Large Language Models do Analytical Reasoning?](2024年03月06日/Can_Large_Language_Models_do_Analytical_Reasoning.md)
+
+    - [翻译: 大型语言模型是否具备进行分析推理的能力呢？](2024年03月06日/Can_Large_Language_Models_do_Analytical_Reasoning.md)
+
+- [Enhancing chest X-ray datasets with privacy-preserving large language models and multi-type annotations: a data-driven approach for improved classification](2024年03月06日/Enhancing_chest_X-ray_datasets_with_privacy-preserving_large_language_models_and_multi-type_annotations_a_data-driven_approach_for_improved_classification.md)
+
+    - [翻译: 我们提出了一种数据驱动的方案，利用隐私保护的大规模语言模型及多元注解技术来提升胸部X射线数据集的质量，从而实现更精确的分类效果。](2024年03月06日/Enhancing_chest_X-ray_datasets_with_privacy-preserving_large_language_models_and_multi-type_annotations_a_data-driven_approach_for_improved_classification.md)
+
+- [iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries](2024年03月07日/iScore_Visual_Analytics_for_Interpreting_How_Language_Models_Automatically_Score_Summaries.md)
+
+    - [翻译: iScore 是一款可视化的分析工具，专门用于揭示语言模型如何自动评估和打分摘要内容，助力理解其内在评分机制。](2024年03月07日/iScore_Visual_Analytics_for_Interpreting_How_Language_Models_Automatically_Score_Summaries.md)
+
+- [KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts](2024年03月07日/KnowledgeVIS_Interpreting_Language_Models_by_Comparing_Fill-in-the-Blank_Prompts.md)
+
+    - [翻译: 知识可视化（KnowledgeVIS）：一种通过对比填空式提示，深入解读语言模型的新方法。](2024年03月07日/KnowledgeVIS_Interpreting_Language_Models_by_Comparing_Fill-in-the-Blank_Prompts.md)
+
+- [LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error](2024年03月07日/LLMs_in_the_Imaginarium_Tool_Learning_through_Simulated_Trial_and_Error.md)
+
+    - [翻译: 在“想象工坊”场景下，LLMs 通过模拟试验与错误的方式习得工具使用技巧。](2024年03月07日/LLMs_in_the_Imaginarium_Tool_Learning_through_Simulated_Trial_and_Error.md)
+
+- [Common 7B Language Models Already Possess Strong Math Capabilities](2024年03月07日/Common_7B_Language_Models_Already_Possess_Strong_Math_Capabilities.md)
+
+    - [翻译: 现今的主流70亿参数语言模型普遍展现出强劲的数学处理能力。](2024年03月07日/Common_7B_Language_Models_Already_Possess_Strong_Math_Capabilities.md)
+
+- [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](2024年03月07日/ObjectCompose_Evaluating_Resilience_of_Vision-Based_Models_on_Object-to-Background_Compositional_Changes.md)
+
+    - [翻译: ObjectCompose 项目旨在评测视觉模型在面临对象与背景组合变化时的抗干扰能力。](2024年03月07日/ObjectCompose_Evaluating_Resilience_of_Vision-Based_Models_on_Object-to-Background_Compositional_Changes.md)
+
+- [Fact-Checking the Output of Large Language Models via Token-Level Uncertainty Quantification](2024年03月07日/Fact-Checking_the_Output_of_Large_Language_Models_via_Token-Level_Uncertainty_Quantification.md)
+
+    - [翻译: 针对大型语言模型的输出，我们采用Token级别不确定性量化方法进行深度事实核查。](2024年03月07日/Fact-Checking_the_Output_of_Large_Language_Models_via_Token-Level_Uncertainty_Quantification.md)
+
+- [Telecom Language Models: Must They Be Large?](2024年03月07日/Telecom_Language_Models_Must_They_Be_Large.md)
+
+    - [翻译: 电信领域的语言模型是否必须具备大模型特性？](2024年03月07日/Telecom_Language_Models_Must_They_Be_Large.md)
+
+- [Teaching Large Language Models to Reason with Reinforcement Learning](2024年03月07日/Teaching_Large_Language_Models_to_Reason_with_Reinforcement_Learning.md)
+
+    - [翻译: 运用强化学习策略，训练大型语言模型掌握推理技能](2024年03月07日/Teaching_Large_Language_Models_to_Reason_with_Reinforcement_Learning.md)
+
+- [CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios](2024年03月07日/CAT_Enhancing_Multimodal_Large_Language_Model_to_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios.md)
+
+    - [翻译: CAT研究致力于提升大型多模态语言模型，在充满变化的音视频场景下解答问题的能力。](2024年03月07日/CAT_Enhancing_Multimodal_Large_Language_Model_to_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios.md)
+
+- [Strong Priority and Determinacy in Timed CCS](2024年03月07日/Strong_Priority_and_Determinacy_in_Timed_CCS.md)
+
+    - [翻译: 针对定时进程演算（Timed CCS）中体现的强优先级与确定性进行深入探讨，揭示其内在机制与影响。步骤 1 翻译：Strong Priority and Determinacy in Timed Calculus of Communicating Systems (CCS)步骤 2 翻译：在通信系统计时演算（Timed CCS）中，强优先级与确定性的概念具有重要价值。本研究致力于阐述并剖析这两个特性在处理实时交互过程中的作用及其对系统行为的深刻影响。](2024年03月07日/Strong_Priority_and_Determinacy_in_Timed_CCS.md)
+
+- [A Detailed Audio-Text Data Simulation Pipeline using Single-Event Sounds](2024年03月07日/A_Detailed_Audio-Text_Data_Simulation_Pipeline_using_Single-Event_Sounds.md)
+
+    - [翻译: 我们构建了一种基于单个事件声音的精细音频文本数据仿真流程，旨在高效生成高质量的模拟数据。](2024年03月07日/A_Detailed_Audio-Text_Data_Simulation_Pipeline_using_Single-Event_Sounds.md)
+
+- [Embodied Understanding of Driving Scenarios](2024年03月07日/Embodied_Understanding_of_Driving_Scenarios.md)
+
+    - [翻译: 深入探究驾驶场景中的具身认知](2024年03月07日/Embodied_Understanding_of_Driving_Scenarios.md)
+
+- [Wiki-TabNER:Advancing Table Interpretation Through Named Entity Recognition](2024年03月07日/Wiki-TabNERAdvancing_Table_Interpretation_Through_Named_Entity_Recognition.md)
+
+    - [翻译: Wiki-TabNER项目致力于借助命名实体识别技术提升表格理解能力，从而推动表格信息的有效解读。](2024年03月07日/Wiki-TabNERAdvancing_Table_Interpretation_Through_Named_Entity_Recognition.md)
+
+- [Where does In-context Translation Happen in Large Language Models](2024年03月07日/Where_does_In-context_Translation_Happen_in_Large_Language_Models.md)
+
+    - [翻译: 在大型语言模型内部，上下文翻译究竟如何运作呢？](2024年03月07日/Where_does_In-context_Translation_Happen_in_Large_Language_Models.md)
+
+- [GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability](2024年03月07日/GraphInstruct_Empowering_Large_Language_Models_with_Graph_Understanding_and_Reasoning_Capability.md)
+
+    - [翻译: GraphInstruct 是一项技术，它赋予大型语言模型强大的图理解和推理能力。](2024年03月07日/GraphInstruct_Empowering_Large_Language_Models_with_Graph_Understanding_and_Reasoning_Capability.md)
+
+- [Do Large Language Model Understand Multi-Intent Spoken Language ?](2024年03月07日/Do_Large_Language_Model_Understand_Multi-Intent_Spoken_Language_.md)
+
+    - [翻译: 大型语言模型是否能洞悉多意图口语？](2024年03月07日/Do_Large_Language_Model_Understand_Multi-Intent_Spoken_Language_.md)
+
+- [Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset](2024年03月07日/Pearl_A_Review-driven_Persona-Knowledge_Grounded_Conversational_Recommendation_Dataset.md)
+
+    - [翻译: Pearl 是一个独特的对话式推荐数据集，它以评论为驱动，并紧密结合了人格知识。该数据集致力于提供更加情境化和个性化的对话推荐服务。](2024年03月07日/Pearl_A_Review-driven_Persona-Knowledge_Grounded_Conversational_Recommendation_Dataset.md)
+
+- [Low-Resource Court Judgment Summarization for Common Law Systems](2024年03月07日/Low-Resource_Court_Judgment_Summarization_for_Common_Law_Systems.md)
+
+    - [翻译: 致力于普通法系环境下的低资源法院判决摘要生成，本研究关注在有限数据条件下，如何高效地为法院判决文档创建精炼、准确的摘要。](2024年03月07日/Low-Resource_Court_Judgment_Summarization_for_Common_Law_Systems.md)
+
+- [Membership Inference Attacks and Privacy in Topic Modeling](2024年03月07日/Membership_Inference_Attacks_and_Privacy_in_Topic_Modeling.md)
+
+    - [翻译: 针对主题模型的成员身份推断攻击及其对隐私保护的影响](2024年03月07日/Membership_Inference_Attacks_and_Privacy_in_Topic_Modeling.md)
+
+- [Feedback-Generation for Programming Exercises With GPT-4](2024年03月07日/Feedback-Generation_for_Programming_Exercises_With_GPT-4.md)
+
+    - [翻译: GPT-4 在编程练习中助力生成针对性反馈](2024年03月07日/Feedback-Generation_for_Programming_Exercises_With_GPT-4.md)
+
+- [Sentiment-driven prediction of financial returns: a Bayesian-enhanced FinBERT approach](2024年03月07日/Sentiment-driven_prediction_of_financial_returns_a_Bayesian-enhanced_FinBERT_approach.md)
+
+    - [翻译: 运用贝叶斯增强技术优化的FinBERT模型，针对情感驱动的金融收益预测展开研究。](2024年03月07日/Sentiment-driven_prediction_of_financial_returns_a_Bayesian-enhanced_FinBERT_approach.md)
+
+- [SGNet: Folding Symmetrical Protein Complex with Deep Learning](2024年03月07日/SGNet_Folding_Symmetrical_Protein_Complex_with_Deep_Learning.md)
+
+    - [翻译: SGNet 是一个运用深度学习技术来高效折叠对称蛋白质复合体的方法。](2024年03月07日/SGNet_Folding_Symmetrical_Protein_Complex_with_Deep_Learning.md)
+
+- [Acceleron: A Tool to Accelerate Research Ideation](2024年03月07日/Acceleron_A_Tool_to_Accelerate_Research_Ideation.md)
+
+    - [翻译: Acceleron，一款致力于提升研究构思速度的有效工具](2024年03月07日/Acceleron_A_Tool_to_Accelerate_Research_Ideation.md)
+
+- [ProMoAI: Process Modeling with Generative AI](2024年03月07日/ProMoAI_Process_Modeling_with_Generative_AI.md)
+
+    - [翻译: ProMoAI——利用生成式人工智能技术进行流程模型构建](2024年03月07日/ProMoAI_Process_Modeling_with_Generative_AI.md)
+
+- [Measuring Meaning Composition in the Human Brain with Composition Scores from Large Language Models](2024年03月07日/Measuring_Meaning_Composition_in_the_Human_Brain_with_Composition_Scores_from_Large_Language_Models.md)
+
+    - [翻译: 本研究借助大型语言模型计算出的意义组合得分，探索人类大脑中意义组合的量化衡量方法。](2024年03月07日/Measuring_Meaning_Composition_in_the_Human_Brain_with_Composition_Scores_from_Large_Language_Models.md)
+
+- [Discriminative Probing and Tuning for Text-to-Image Generation](2024年03月07日/Discriminative_Probing_and_Tuning_for_Text-to-Image_Generation.md)
+
+    - [翻译: 针对文本到图像生成任务，我们采用鉴别性探查和调整技术，以深入探究模型内部机制，并优化其生成效果。](2024年03月07日/Discriminative_Probing_and_Tuning_for_Text-to-Image_Generation.md)
+
+- [Online Adaptation of Language Models with a Memory of Amortized Contexts](2024年03月07日/Online_Adaptation_of_Language_Models_with_a_Memory_of_Amortized_Contexts.md)
+
+    - [翻译: 通过运用对上下文进行平均化的记忆技术，在线优化语言模型以适应不同场景。](2024年03月07日/Online_Adaptation_of_Language_Models_with_a_Memory_of_Amortized_Contexts.md)
+
+- [Can Your Model Tell a Negation from an Implicature? Unravelling Challenges With Intent Encoders](2024年03月07日/Can_Your_Model_Tell_a_Negation_from_an_Implicature_Unravelling_Challenges_With_Intent_Encoders.md)
+
+    - [翻译: 探究模型是否能够有效区分否定表达与蕴含含义，同时揭示在构建意图编码器过程中所遇到的难题。](2024年03月07日/Can_Your_Model_Tell_a_Negation_from_an_Implicature_Unravelling_Challenges_With_Intent_Encoders.md)
+
+- [HaluEval-Wild: Evaluating Hallucinations of Language Models in the Wild](2024年03月07日/HaluEval-Wild_Evaluating_Hallucinations_of_Language_Models_in_the_Wild.md)
+
+    - [翻译: HaluEval-Wild 是一项针对真实环境中的语言模型所生成的幻觉内容进行评估的研究项目。](2024年03月07日/HaluEval-Wild_Evaluating_Hallucinations_of_Language_Models_in_the_Wild.md)
+
+- [Effectiveness Assessment of Recent Large Vision-Language Models](2024年03月07日/Effectiveness_Assessment_of_Recent_Large_Vision-Language_Models.md)
+
+    - [翻译: 本研究致力于评估最新大型视觉-语言模型的实际效果，探究其在各类跨模态任务中的表现与价值。](2024年03月07日/Effectiveness_Assessment_of_Recent_Large_Vision-Language_Models.md)
+
+- [Proxy-RLHF: Decoupling Generation and Alignment in Large Language Model with Proxy](2024年03月07日/Proxy-RLHF_Decoupling_Generation_and_Alignment_in_Large_Language_Model_with_Proxy.md)
+
+    - [翻译: Proxy-RLHF 是一种创新方法，它在大型语言模型中巧妙地运用“代理”手段，成功实现了生成能力与对齐目标的解耦合，尤其适用于提升语言模型在保持高质量文本生成的同时，更好地满足预设规范和要求。](2024年03月07日/Proxy-RLHF_Decoupling_Generation_and_Alignment_in_Large_Language_Model_with_Proxy.md)
+
+- [Advancing Biomedical Text Mining with Community Challenges](2024年03月07日/Advancing_Biomedical_Text_Mining_with_Community_Challenges.md)
+
+    - [翻译: 社区挑战驱动生物医学文本挖掘的进步与突破](2024年03月07日/Advancing_Biomedical_Text_Mining_with_Community_Challenges.md)
+
+- [Can Small Language Models be Good Reasoners for Sequential Recommendation?](2024年03月07日/Can_Small_Language_Models_be_Good_Reasoners_for_Sequential_Recommendation.md)
+
+    - [翻译: 小型语言模型能否在序列推荐任务上展现出色的推理能力呢？](2024年03月07日/Can_Small_Language_Models_be_Good_Reasoners_for_Sequential_Recommendation.md)
+
+- [Towards Robustness Analysis of E-Commerce Ranking System](2024年03月07日/Towards_Robustness_Analysis_of_E-Commerce_Ranking_System.md)
+
+    - [翻译: 本研究致力于深入探究电子商务排名系统的鲁棒性，旨在全面分析和提升该系统在复杂环境下的稳定性和可靠性。](2024年03月07日/Towards_Robustness_Analysis_of_E-Commerce_Ranking_System.md)
+
+- [Federated Recommendation via Hybrid Retrieval Augmented Generation](2024年03月07日/Federated_Recommendation_via_Hybrid_Retrieval_Augmented_Generation.md)
+
+    - [翻译: 我们提出了一种混合检索增强生成方法，以实现联邦推荐系统。该方法巧妙结合了检索和生成技术，在保护用户数据隐私的同时，有效提升了推荐系统的性能和准确性。步骤 1：联邦推荐是通过混合检索增强生成技术实现的。步骤 2：在保证用户数据隐私的前提下，一种名为“混合检索增强生成”的创新技术被应用于联邦推荐场景中，旨在融合检索与生成策略，以优化推荐效果并保障数据安全性。](2024年03月07日/Federated_Recommendation_via_Hybrid_Retrieval_Augmented_Generation.md)
+
+- [UltraWiki: Ultra-fine-grained Entity Set Expansion with Negative Seed Entities](2024年03月07日/UltraWiki_Ultra-fine-grained_Entity_Set_Expansion_with_Negative_Seed_Entities.md)
+
+    - [翻译: UltraWiki项目致力于通过引入负向种子实体，实现对实体集进行超精细的扩展探索。](2024年03月07日/UltraWiki_Ultra-fine-grained_Entity_Set_Expansion_with_Negative_Seed_Entities.md)
+
+- [DEEP-ICL: Definition-Enriched Experts for Language Model In-Context Learning](2024年03月07日/DEEP-ICL_Definition-Enriched_Experts_for_Language_Model_In-Context_Learning.md)
+
+    - [翻译: DEEP-ICL：致力于为语言模型的上下文学习注入更多定义性知识的专家系统](2024年03月07日/DEEP-ICL_Definition-Enriched_Experts_for_Language_Model_In-Context_Learning.md)
