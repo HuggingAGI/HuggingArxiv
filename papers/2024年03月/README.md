@@ -168,6 +168,10 @@
 
     - [翻译: 让 LLM 学会“垂钓”隐私：探究如何从语言模型中获取敏感信息](2024年03月01日/Teach_LLMs_to_Phish_Stealing_Private_Information_from_Language_Models.md)
 
+- [Open Assistant Toolkit -- version 2](2024年03月01日/Open_Assistant_Toolkit_--_version_2.md)
+
+    - [翻译: Open Assistant Toolkit 第二版](2024年03月01日/Open_Assistant_Toolkit_--_version_2.md)
+
 - [Accelerating Greedy Coordinate Gradient via Probe Sampling](2024年03月02日/Accelerating_Greedy_Coordinate_Gradient_via_Probe_Sampling.md)
 
     - [翻译: 我们提出了一种利用探针采样技术来提升贪婪坐标梯度法的效率，即“加速贪婪坐标梯度探针采样方法”，尤其在处理大规模优化问题时，有效提高了算法的运行速度与性能。](2024年03月02日/Accelerating_Greedy_Coordinate_Gradient_via_Probe_Sampling.md)
@@ -391,6 +395,14 @@
 - [Transformers for Supervised Online Continual Learning](2024年03月03日/Transformers_for_Supervised_Online_Continual_Learning.md)
 
     - [翻译: 面向监督在线连续学习的 Transformer 模型研究](2024年03月03日/Transformers_for_Supervised_Online_Continual_Learning.md)
+
+- [Citation-Enhanced Generation for LLM-based Chatbots](2024年03月03日/Citation-Enhanced_Generation_for_LLM-based_Chatbots.md)
+
+    - [翻译: 为基于大型语言模型（LLM）的聊天机器人引入引文增强生成技术，旨在提升其对话内容的准确性和可信度。](2024年03月03日/Citation-Enhanced_Generation_for_LLM-based_Chatbots.md)
+
+- [Query Augmentation by Decoding Semantics from Brain Signals](2024年03月03日/Query_Augmentation_by_Decoding_Semantics_from_Brain_Signals.md)
+
+    - [翻译: 本研究探讨了一种创新方法，通过解读大脑信号中的语义信息来丰富和增强查询，实现与用户思维更深层次的交互。](2024年03月03日/Query_Augmentation_by_Decoding_Semantics_from_Brain_Signals.md)
 
 - [Automated Generation of Multiple-Choice Cloze Questions for Assessing English Vocabulary Using GPT-turbo 3.5](2024年03月04日/Automated_Generation_of_Multiple-Choice_Cloze_Questions_for_Assessing_English_Vocabulary_Using_GPT-turbo_3.5.md)
 
@@ -1015,6 +1027,18 @@
 - [Enhancing chest X-ray datasets with privacy-preserving large language models and multi-type annotations: a data-driven approach for improved classification](2024年03月06日/Enhancing_chest_X-ray_datasets_with_privacy-preserving_large_language_models_and_multi-type_annotations_a_data-driven_approach_for_improved_classification.md)
 
     - [翻译: 我们提出了一种数据驱动的方案，利用隐私保护的大规模语言模型及多元注解技术来提升胸部X射线数据集的质量，从而实现更精确的分类效果。](2024年03月06日/Enhancing_chest_X-ray_datasets_with_privacy-preserving_large_language_models_and_multi-type_annotations_a_data-driven_approach_for_improved_classification.md)
+
+- [FaaF: Facts as a Function for the evaluation of RAG systems](2024年03月06日/FaaF_Facts_as_a_Function_for_the_evaluation_of_RAG_systems.md)
+
+    - [翻译: FaaF：提出“事实即函数”方法，用于评估 RAG 系统的表现。](2024年03月06日/FaaF_Facts_as_a_Function_for_the_evaluation_of_RAG_systems.md)
+
+- [Neural Exec: Learning (and Learning from) Execution Triggers for Prompt Injection Attacks](2024年03月06日/Neural_Exec_Learning_(and_Learning_from)_Execution_Triggers_for_Prompt_Injection_Attacks.md)
+
+    - [翻译: Neural Exec：针对提示注入攻击，研究并借鉴执行触发器的学习机制](2024年03月06日/Neural_Exec_Learning_(and_Learning_from)_Execution_Triggers_for_Prompt_Injection_Attacks.md)
+
+- [MeaCap: Memory-Augmented Zero-shot Image Captioning](2024年03月06日/MeaCap_Memory-Augmented_Zero-shot_Image_Captioning.md)
+
+    - [翻译: MeaCap 是一种“记忆增强型零样本图像描述”技术，它利用记忆机制提升在未见过的图像上进行自动描述的能力。](2024年03月06日/MeaCap_Memory-Augmented_Zero-shot_Image_Captioning.md)
 
 - [iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries](2024年03月07日/iScore_Visual_Analytics_for_Interpreting_How_Language_Models_Automatically_Score_Summaries.md)
 

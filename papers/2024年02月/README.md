@@ -1,8 +1,104 @@
 # 2024年02月
 
+- [Improving Assessment of Tutoring Practices using Retrieval-Augmented Generation](2024年02月04日/Improving_Assessment_of_Tutoring_Practices_using_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 借助于“检索增强生成”技术，我们旨在提升对辅导实践效果的精准评估。](2024年02月04日/Improving_Assessment_of_Tutoring_Practices_using_Retrieval-Augmented_Generation.md)
+
+- [Enhancing Retrieval Processes for Language Generation with Augmented Queries](2024年02月06日/Enhancing_Retrieval_Processes_for_Language_Generation_with_Augmented_Queries.md)
+
+    - [翻译: 我们提出了一种增强查询方法，旨在改进语言生成任务中的检索过程，从而提高整体性能和效果。](2024年02月06日/Enhancing_Retrieval_Processes_for_Language_Generation_with_Augmented_Queries.md)
+
+- [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](2024年02月21日/Assisting_in_Writing_Wikipedia-like_Articles_From_Scratch_with_Large_Language_Models.md)
+
+    - [翻译: 本研究探讨如何借助大型语言模型，助力用户从头创作出类似维基百科风格的文章。](2024年02月21日/Assisting_in_Writing_Wikipedia-like_Articles_From_Scratch_with_Large_Language_Models.md)
+
+- [MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning](2024年02月21日/MORE_Multi-mOdal_REtrieval_Augmented_Generative_Commonsense_Reasoning.md)
+
+    - [翻译: MORE，一种创新方法，通过引入多模态检索增强技术，提升生成性常识推理的表现力和准确性。](2024年02月21日/MORE_Multi-mOdal_REtrieval_Augmented_Generative_Commonsense_Reasoning.md)
+
+- [ActiveRAG: Revealing the Treasures of Knowledge via Active Learning](2024年02月21日/ActiveRAG_Revealing_the_Treasures_of_Knowledge_via_Active_Learning.md)
+
+    - [翻译: ActiveRAG——借助主动学习挖掘知识宝库](2024年02月21日/ActiveRAG_Revealing_the_Treasures_of_Knowledge_via_Active_Learning.md)
+
+- [ARL2: Aligning Retrievers for Black-box Large Language Models via Self-guided Adaptive Relevance Labeling](2024年02月21日/ARL2_Aligning_Retrievers_for_Black-box_Large_Language_Models_via_Self-guided_Adaptive_Relevance_Labeling.md)
+
+    - [翻译: ARL2 方法旨在通过自我指导适应性相关性标注技术，实现对黑盒式大型语言模型检索器的精准对齐，以提升其性能。](2024年02月21日/ARL2_Aligning_Retrievers_for_Black-box_Large_Language_Models_via_Self-guided_Adaptive_Relevance_Labeling.md)
+
+- [Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation](2024年02月22日/Large_Language_Models_as_Urban_Residents_An_LLM_Agent_Framework_for_Personal_Mobility_Generation.md)
+
+    - [翻译: 将大型语言模型视为都市生活者，我们提出了一种全新的LLM代理框架，应用于个性化出行方案生成。](2024年02月22日/Large_Language_Models_as_Urban_Residents_An_LLM_Agent_Framework_for_Personal_Mobility_Generation.md)
+
+- [UFO: a Unified and Flexible Framework for Evaluating Factuality of Large Language Models](2024年02月22日/UFO_a_Unified_and_Flexible_Framework_for_Evaluating_Factuality_of_Large_Language_Models.md)
+
+    - [翻译: UFO，作为一款统一且颇具灵活性的框架，专注于对大型语言模型的事实性进行精准评估。](2024年02月22日/UFO_a_Unified_and_Flexible_Framework_for_Evaluating_Factuality_of_Large_Language_Models.md)
+
+- [MeTMaP: Metamorphic Testing for Detecting False Vector Matching Problems in LLM Augmented Generation](2024年02月22日/MeTMaP_Metamorphic_Testing_for_Detecting_False_Vector_Matching_Problems_in_LLM_Augmented_Generation.md)
+
+    - [翻译: MeTMaP是一种应用于LLM增强生成场景的变形测试技术，旨在有效发现并解决其中的虚假向量匹配问题。](2024年02月22日/MeTMaP_Metamorphic_Testing_for_Detecting_False_Vector_Matching_Problems_in_LLM_Augmented_Generation.md)
+
+- [Assessing generalization capability of text ranking models in Polish](2024年02月22日/Assessing_generalization_capability_of_text_ranking_models_in_Polish.md)
+
+    - [翻译: 本研究旨在深入探讨波兰语环境下文本排名模型的泛化性能，以期对其在不同场景下的适用性有更全面的理解和评价。](2024年02月22日/Assessing_generalization_capability_of_text_ranking_models_in_Polish.md)
+
+- [The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](2024年02月23日/The_Good_and_The_Bad_Exploring_Privacy_Issues_in_Retrieval-Augmented_Generation_(RAG).md)
+
+    - [翻译: 深入剖析 RAG 中的隐私议题，既揭示其优点也关注存在的隐患。](2024年02月23日/The_Good_and_The_Bad_Exploring_Privacy_Issues_in_Retrieval-Augmented_Generation_(RAG).md)
+
+- [Causal Graph Discovery with Retrieval-Augmented Generation based Large Language Models](2024年02月23日/Causal_Graph_Discovery_with_Retrieval-Augmented_Generation_based_Large_Language_Models.md)
+
+    - [翻译: 借助大规模检索增强型生成语言模型，探索和揭示因果图结构](2024年02月23日/Causal_Graph_Discovery_with_Retrieval-Augmented_Generation_based_Large_Language_Models.md)
+
+- [CFRet-DVQA: Coarse-to-Fine Retrieval and Efficient Tuning for Document Visual Question Answering](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
+
+    - [翻译: CFRet-DVQA 是一种创新的方法，应用于文档视觉问答任务中，通过粗到细的检索策略和高效的模型微调技术，旨在提升问题解答的准确性和效率。](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
+
+- [Retrieval Augmented Generation Systems: Automatic Dataset Creation, Evaluation and Boolean Agent Setup](2024年02月26日/Retrieval_Augmented_Generation_Systems_Automatic_Dataset_Creation,_Evaluation_and_Boolean_Agent_Setup.md)
+
+    - [翻译: 检索增强生成系统通过自动构建数据集、进行系统评估及配置布尔代理，助力提升模型性能。](2024年02月26日/Retrieval_Augmented_Generation_Systems_Automatic_Dataset_Creation,_Evaluation_and_Boolean_Agent_Setup.md)
+
+- [Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models](2024年02月26日/Fact-and-Reflection_(FaR)_Improves_Confidence_Calibration_of_Large_Language_Models.md)
+
+    - [翻译: FaR 策略能够有效提升大型语言模型在输出时的信心校准度，让模型对自身预测的准确性有更好的把握。](2024年02月26日/Fact-and-Reflection_(FaR)_Improves_Confidence_Calibration_of_Large_Language_Models.md)
+
+- [A Fine-tuning Enhanced RAG System with Quantized Influence Measure as AI Judge](2024年02月26日/A_Fine-tuning_Enhanced_RAG_System_with_Quantized_Influence_Measure_as_AI_Judge.md)
+
+    - [翻译: 我们提出了一种改进版的RAG系统，通过Fine-tuning技术加强，并引入了量化影响力指标作为智能评判机制。](2024年02月26日/A_Fine-tuning_Enhanced_RAG_System_with_Quantized_Influence_Measure_as_AI_Judge.md)
+
+- [GISTEmbed: Guided In-sample Selection of Training Negatives for Text Embedding Fine-tuning](2024年02月26日/GISTEmbed_Guided_In-sample_Selection_of_Training_Negatives_for_Text_Embedding_Fine-tuning.md)
+
+    - [翻译: GISTEmbed 是一种创新方法，旨在通过引导式的样本内负例选择策略优化文本嵌入微调过程。该技术专为提升文本embedding在训练阶段的效果而设计，尤其关注有效筛选和利用训练集中内在的负样本。](2024年02月26日/GISTEmbed_Guided_In-sample_Selection_of_Training_Negatives_for_Text_Embedding_Fine-tuning.md)
+
+- [Long-Context Language Modeling with Parallel Context Encoding](2024年02月26日/Long-Context_Language_Modeling_with_Parallel_Context_Encoding.md)
+
+    - [翻译: 通过并行上下文编码技术实现长文本上下文的语言模型构建](2024年02月26日/Long-Context_Language_Modeling_with_Parallel_Context_Encoding.md)
+
+- [RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering](2024年02月26日/RetrievalQA_Assessing_Adaptive_Retrieval-Augmented_Generation_for_Short-form_Open-Domain_Question_Answering.md)
+
+    - [翻译: RetrievalQA 项目旨在测评适应性检索增强技术在短篇开放领域问答任务上的表现。这项研究关注于利用检索技术提升生成式模型解答问题的能力，在开放式问题回答场景下，探索检索增强生成的有效性和适用性。](2024年02月26日/RetrievalQA_Assessing_Adaptive_Retrieval-Augmented_Generation_for_Short-form_Open-Domain_Question_Answering.md)
+
+- [From RAGs to riches: Using large language models to write documents for clinical trials](2024年02月26日/From_RAGs_to_riches_Using_large_language_models_to_write_documents_for_clinical_trials.md)
+
+    - [翻译: 通过运用大型语言模型，我们开启了从 RAGs 迈向丰富内容的旅程，致力于借助这一技术为临床试验撰写高质量文档。](2024年02月26日/From_RAGs_to_riches_Using_large_language_models_to_write_documents_for_clinical_trials.md)
+
 - [Prioritizing Informative Features and Examples for Deep Learning from Noisy Data](2024年02月27日/Prioritizing_Informative_Features_and_Examples_for_Deep_Learning_from_Noisy_Data.md)
 
     - [翻译: 在嘈杂数据中进行深度学习时，我们致力于优先挖掘并利用富含信息的特征及代表性示例。](2024年02月27日/Prioritizing_Informative_Features_and_Examples_for_Deep_Learning_from_Noisy_Data.md)
+
+- [Follow My Instruction and Spill the Beans: Scalable Data Extraction from Retrieval-Augmented Generation Systems](2024年02月27日/Follow_My_Instruction_and_Spill_the_Beans_Scalable_Data_Extraction_from_Retrieval-Augmented_Generation_Systems.md)
+
+    - [翻译: 跟随我的指引，揭开谜底：在检索增强型生成系统中实现大规模数据抽取](2024年02月27日/Follow_My_Instruction_and_Spill_the_Beans_Scalable_Data_Extraction_from_Retrieval-Augmented_Generation_Systems.md)
+
+- [Evaluating Very Long-Term Conversational Memory of LLM Agents](2024年02月27日/Evaluating_Very_Long-Term_Conversational_Memory_of_LLM_Agents.md)
+
+    - [翻译: 本研究致力于考察LLM（大型语言模型）在对话场景下的非常长期记忆能力。](2024年02月27日/Evaluating_Very_Long-Term_Conversational_Memory_of_LLM_Agents.md)
+
+- [REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering](2024年02月27日/REAR_A_Relevance-Aware_Retrieval-Augmented_Framework_for_Open-Domain_Question_Answering.md)
+
+    - [翻译: REAR 是一个专为解决开放领域问题而设计的智能框架，它融合了相关性感知检索技术以增强其功能。这个新颖的框架通过利用相关性意识提升信息检索能力，在开放领域问题回答任务中展现出卓越性能。](2024年02月27日/REAR_A_Relevance-Aware_Retrieval-Augmented_Framework_for_Open-Domain_Question_Answering.md)
+
+- [Deep Learning Based Named Entity Recognition Models for Recipes](2024年02月27日/Deep_Learning_Based_Named_Entity_Recognition_Models_for_Recipes.md)
+
+    - [翻译: 本研究探讨了利用深度学习技术构建的食谱命名实体识别模型，以实现对食谱中各类实体信息的精准识别与提取。](2024年02月27日/Deep_Learning_Based_Named_Entity_Recognition_Models_for_Recipes.md)
 
 - [Enhancing Steganographic Text Extraction: Evaluating the Impact of NLP Models on Accuracy and Semantic Coherence](2024年02月28日/Enhancing_Steganographic_Text_Extraction_Evaluating_the_Impact_of_NLP_Models_on_Accuracy_and_Semantic_Coherence.md)
 
@@ -39,6 +135,22 @@
 - [MedAide: Leveraging Large Language Models for On-Premise Medical Assistance on Edge Devices](2024年02月28日/MedAide_Leveraging_Large_Language_Models_for_On-Premise_Medical_Assistance_on_Edge_Devices.md)
 
     - [翻译: MedAide项目旨在利用大型语言模型，在边缘设备上实现即时的本地医疗辅助功能。](2024年02月28日/MedAide_Leveraging_Large_Language_Models_for_On-Premise_Medical_Assistance_on_Edge_Devices.md)
+
+- [Grounding Language Models for Visual Entity Recognition](2024年02月28日/Grounding_Language_Models_for_Visual_Entity_Recognition.md)
+
+    - [翻译: 为视觉实体识别而进行的语言模型接地技术，旨在探究如何使语言模型更好地理解和利用视觉信息，从而提升识别图像中特定实体的能力。](2024年02月28日/Grounding_Language_Models_for_Visual_Entity_Recognition.md)
+
+- [Approaching Human-Level Forecasting with Language Models](2024年02月28日/Approaching_Human-Level_Forecasting_with_Language_Models.md)
+
+    - [翻译: 运用语言模型以期在预测能力上接近人类水准](2024年02月28日/Approaching_Human-Level_Forecasting_with_Language_Models.md)
+
+- [Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models](2024年02月28日/Cutting_Off_the_Head_Ends_the_Conflict_A_Mechanism_for_Interpreting_and_Mitigating_Knowledge_Conflicts_in_Language_Models.md)
+
+    - [翻译: 斩断“首因”，化解冲突：探寻语言模型中知识冲突的解读与调和机制](2024年02月28日/Cutting_Off_the_Head_Ends_the_Conflict_A_Mechanism_for_Interpreting_and_Mitigating_Knowledge_Conflicts_in_Language_Models.md)
+
+- [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](2024年02月28日/Unsupervised_Information_Refinement_Training_of_Large_Language_Models_for_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 针对增强检索式生成任务，我们对大型语言模型进行无监督的信息提炼训练，旨在提升其从海量数据中自动提炼关键信息的能力，并将其应用于生成过程以提高输出质量。](2024年02月28日/Unsupervised_Information_Refinement_Training_of_Large_Language_Models_for_Retrieval-Augmented_Generation.md)
 
 - [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World](2024年02月29日/The_All-Seeing_Project_V2_Towards_General_Relation_Comprehension_of_the_Open_World.md)
 
@@ -303,3 +415,15 @@
 - [EyeGPT: Ophthalmic Assistant with Large Language Models](2024年02月29日/EyeGPT_Ophthalmic_Assistant_with_Large_Language_Models.md)
 
     - [翻译: EyeGPT——借助大型语言模型打造的眼科智能助手](2024年02月29日/EyeGPT_Ophthalmic_Assistant_with_Large_Language_Models.md)
+
+- [Retrieval-Augmented Generation for AI-Generated Content: A Survey](2024年02月29日/Retrieval-Augmented_Generation_for_AI-Generated_Content_A_Survey.md)
+
+    - [翻译: 本篇综述聚焦于“检索增强生成”这一技术在AI生成内容领域的应用与发展，深度剖析了该技术如何通过整合检索与生成过程，提升AI内容创作的质量与智能性。](2024年02月29日/Retrieval-Augmented_Generation_for_AI-Generated_Content_A_Survey.md)
+
+- [RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval](2024年02月29日/RNNs_are_not_Transformers_(Yet)_The_Key_Bottleneck_on_In-context_Retrieval.md)
+
+    - [翻译: RNN 仍未进化为 Transformers：揭示 In-context 检索面临的核心难题](2024年02月29日/RNNs_are_not_Transformers_(Yet)_The_Key_Bottleneck_on_In-context_Retrieval.md)
+
+- [Retrieval is Accurate Generation](2024年02月29日/Retrieval_is_Accurate_Generation.md)
+
+    - [翻译: 检索，实现精准生成](2024年02月29日/Retrieval_is_Accurate_Generation.md)
