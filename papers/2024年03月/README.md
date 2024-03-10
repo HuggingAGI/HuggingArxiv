@@ -1040,10 +1040,6 @@
 
     - [翻译: MeaCap 是一种“记忆增强型零样本图像描述”技术，它利用记忆机制提升在未见过的图像上进行自动描述的能力。](2024年03月06日/MeaCap_Memory-Augmented_Zero-shot_Image_Captioning.md)
 
-- [iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries](2024年03月07日/iScore_Visual_Analytics_for_Interpreting_How_Language_Models_Automatically_Score_Summaries.md)
-
-    - [翻译: iScore 是一款可视化的分析工具，专门用于揭示语言模型如何自动评估和打分摘要内容，助力理解其内在评分机制。](2024年03月07日/iScore_Visual_Analytics_for_Interpreting_How_Language_Models_Automatically_Score_Summaries.md)
-
 - [KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts](2024年03月07日/KnowledgeVIS_Interpreting_Language_Models_by_Comparing_Fill-in-the-Blank_Prompts.md)
 
     - [翻译: 知识可视化（KnowledgeVIS）：一种通过对比填空式提示，深入解读语言模型的新方法。](2024年03月07日/KnowledgeVIS_Interpreting_Language_Models_by_Comparing_Fill-in-the-Blank_Prompts.md)
@@ -1187,3 +1183,7 @@
 - [DEEP-ICL: Definition-Enriched Experts for Language Model In-Context Learning](2024年03月07日/DEEP-ICL_Definition-Enriched_Experts_for_Language_Model_In-Context_Learning.md)
 
     - [翻译: DEEP-ICL：致力于为语言模型的上下文学习注入更多定义性知识的专家系统](2024年03月07日/DEEP-ICL_Definition-Enriched_Experts_for_Language_Model_In-Context_Learning.md)
+
+- [iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries](2024年03月07日/iScore_Visual_Analytics_for_Interpreting_How_Language_Models_Automatically_Score_Summaries.md)
+
+    - [翻译: iScore 是一款可视化分析工具，它帮助我们理解语言模型如何自动评估和打分摘要内容。](2024年03月07日/iScore_Visual_Analytics_for_Interpreting_How_Language_Models_Automatically_Score_Summaries.md)
