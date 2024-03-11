@@ -578,11 +578,11 @@
 
 - [Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding](2024年03月04日/Found_in_the_Middle_How_Language_Models_Use_Long_Contexts_Better_via_Plug-and-Play_Positional_Encoding.md)
 
-    - [翻译: 标题翻译：“巧用位置编码，解锁语言模型对长距离上下文的理解”正文翻译：研究表明，语言模型可通过创新的“即插即用”位置编码技术，显著提升其理解和利用长上下文信息的能力。](2024年03月04日/Found_in_the_Middle_How_Language_Models_Use_Long_Contexts_Better_via_Plug-and-Play_Positional_Encoding.md)
+    - [翻译: 研究揭示，借助“即插即用”位置编码，语言模型能够更有效地利用长篇幅的上下文信息。](2024年03月04日/Found_in_the_Middle_How_Language_Models_Use_Long_Contexts_Better_via_Plug-and-Play_Positional_Encoding.md)
 
 - [Large Language Models in Fire Engineering: An Examination of Technical Questions Against Domain Knowledge](2024年03月04日/Large_Language_Models_in_Fire_Engineering_An_Examination_of_Technical_Questions_Against_Domain_Knowledge.md)
 
-    - [翻译: 本研究探讨了大型语言模型在消防工程领域的应用，通过对照领域专业知识来检验其解答技术问题的能力。](2024年03月04日/Large_Language_Models_in_Fire_Engineering_An_Examination_of_Technical_Questions_Against_Domain_Knowledge.md)
+    - [翻译: 探究大型语言模型如何应用于火灾工程领域，通过对比领域专业知识来审视其解决技术问题的能力。](2024年03月04日/Large_Language_Models_in_Fire_Engineering_An_Examination_of_Technical_Questions_Against_Domain_Knowledge.md)
 
 - [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](2024年03月05日/The_WMDP_Benchmark_Measuring_and_Reducing_Malicious_Use_With_Unlearning.md)
 
@@ -1050,11 +1050,11 @@
 
 - [Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models](2024年03月06日/Quantifying_Contamination_in_Evaluating_Code_Generation_Capabilities_of_Language_Models.md)
 
-    - [翻译: 在衡量语言模型进行代码生成的能力时，本研究专注于量化其中的“污染”因素，以准确评估其真实性能。](2024年03月06日/Quantifying_Contamination_in_Evaluating_Code_Generation_Capabilities_of_Language_Models.md)
+    - [翻译: 在衡量语言模型代码生成能力的过程中，本研究致力于量化评估中的“污染”问题，以更准确地了解模型的真实效能。](2024年03月06日/Quantifying_Contamination_in_Evaluating_Code_Generation_Capabilities_of_Language_Models.md)
 
 - [WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off](2024年03月06日/WaterMax_breaking_the_LLM_watermark_detectability-robustness-quality_trade-off.md)
 
-    - [翻译: WaterMax 技术突破了 LLM 水印在可检测性、鲁棒性和质量间的传统折衷困境。](2024年03月06日/WaterMax_breaking_the_LLM_watermark_detectability-robustness-quality_trade-off.md)
+    - [翻译: WaterMax 技术突破了 LLM 水印在可检测性、鲁棒性和生成文本质量间的固有折衷，实现了三者的兼顾优化。](2024年03月06日/WaterMax_breaking_the_LLM_watermark_detectability-robustness-quality_trade-off.md)
 
 - [KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts](2024年03月07日/KnowledgeVIS_Interpreting_Language_Models_by_Comparing_Fill-in-the-Blank_Prompts.md)
 
@@ -1266,7 +1266,7 @@
 
 - [Evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks](2024年03月07日/Evaluation_of_LLMs_on_Syntax-Aware_Code_Fill-in-the-Middle_Tasks.md)
 
-    - [翻译: 我们对LLMs在处理具有语法敏感性的代码中间填充任务时的表现进行评估，以深入探究其理解和生成代码结构的能力。](2024年03月07日/Evaluation_of_LLMs_on_Syntax-Aware_Code_Fill-in-the-Middle_Tasks.md)
+    - [翻译: 本研究专注于评估LLMs在处理具有语法感知能力的代码中间填充任务时的表现。](2024年03月07日/Evaluation_of_LLMs_on_Syntax-Aware_Code_Fill-in-the-Middle_Tasks.md)
 
 - [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](2024年03月08日/Gemini_1.5_Unlocking_multimodal_understanding_across_millions_of_tokens_of_context.md)
 
