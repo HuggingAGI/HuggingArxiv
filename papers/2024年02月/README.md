@@ -48,6 +48,14 @@
 
     - [翻译: 借助大规模检索增强型生成语言模型，探索和揭示因果图结构](2024年02月23日/Causal_Graph_Discovery_with_Retrieval-Augmented_Generation_based_Large_Language_Models.md)
 
+- [Bootstrapping Cognitive Agents with a Large Language Model](2024年02月24日/Bootstrapping_Cognitive_Agents_with_a_Large_Language_Model.md)
+
+    - [翻译: 通过运用大型语言模型，实现认知智能体的自举学习之旅](2024年02月24日/Bootstrapping_Cognitive_Agents_with_a_Large_Language_Model.md)
+
+- [Enhanced User Interaction in Operating Systems through Machine Learning Language Models](2024年02月24日/Enhanced_User_Interaction_in_Operating_Systems_through_Machine_Learning_Language_Models.md)
+
+    - [翻译: 运用机器学习语言模型优化操作系统，以增强用户互动性](2024年02月24日/Enhanced_User_Interaction_in_Operating_Systems_through_Machine_Learning_Language_Models.md)
+
 - [CFRet-DVQA: Coarse-to-Fine Retrieval and Efficient Tuning for Document Visual Question Answering](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
 
     - [翻译: CFRet-DVQA 是一种创新的方法，应用于文档视觉问答任务中，通过粗到细的检索策略和高效的模型微调技术，旨在提升问题解答的准确性和效率。](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
@@ -100,6 +108,18 @@
 
     - [翻译: 本研究探讨了利用深度学习技术构建的食谱命名实体识别模型，以实现对食谱中各类实体信息的精准识别与提取。](2024年02月27日/Deep_Learning_Based_Named_Entity_Recognition_Models_for_Recipes.md)
 
+- [Self-Refinement of Language Models from External Proxy Metrics Feedback](2024年02月27日/Self-Refinement_of_Language_Models_from_External_Proxy_Metrics_Feedback.md)
+
+    - [翻译: 通过利用外部代理指标的反馈，语言模型能够实现自我优化和提升。](2024年02月27日/Self-Refinement_of_Language_Models_from_External_Proxy_Metrics_Feedback.md)
+
+- [MEGAnno+: A Human-LLM Collaborative Annotation System](2024年02月27日/MEGAnno+_A_Human-LLM_Collaborative_Annotation_System.md)
+
+    - [翻译: MEGAnno+ 是一款创新的人类与大型语言模型协同标注工具，旨在通过整合人类智慧与先进AI技术的力量，共同提升数据标注效率与质量。](2024年02月27日/MEGAnno+_A_Human-LLM_Collaborative_Annotation_System.md)
+
+- [Pragmatic Instruction Following and Goal Assistance via Cooperative Language-Guided Inverse Planning](2024年02月27日/Pragmatic_Instruction_Following_and_Goal_Assistance_via_Cooperative_Language-Guided_Inverse_Planning.md)
+
+    - [翻译: 借助于合作性的、以语言指导的逆向规划方法，我们能够实现对实用指令的有效遵循及目标辅助功能。](2024年02月27日/Pragmatic_Instruction_Following_and_Goal_Assistance_via_Cooperative_Language-Guided_Inverse_Planning.md)
+
 - [Enhancing Steganographic Text Extraction: Evaluating the Impact of NLP Models on Accuracy and Semantic Coherence](2024年02月28日/Enhancing_Steganographic_Text_Extraction_Evaluating_the_Impact_of_NLP_Models_on_Accuracy_and_Semantic_Coherence.md)
 
     - [翻译: 提升隐写文本抽取效果：通过探究NLP模型对抽取准确度及语义连贯性的影响，本研究旨在优化隐写文本提取技术。](2024年02月28日/Enhancing_Steganographic_Text_Extraction_Evaluating_the_Impact_of_NLP_Models_on_Accuracy_and_Semantic_Coherence.md)
@@ -151,6 +171,14 @@
 - [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](2024年02月28日/Unsupervised_Information_Refinement_Training_of_Large_Language_Models_for_Retrieval-Augmented_Generation.md)
 
     - [翻译: 针对增强检索式生成任务，我们对大型语言模型进行无监督的信息提炼训练，旨在提升其从海量数据中自动提炼关键信息的能力，并将其应用于生成过程以提高输出质量。](2024年02月28日/Unsupervised_Information_Refinement_Training_of_Large_Language_Models_for_Retrieval-Augmented_Generation.md)
+
+- [FOFO: A Benchmark to Evaluate LLMs' Format-Following Capability](2024年02月28日/FOFO_A_Benchmark_to_Evaluate_LLMs'_Format-Following_Capability.md)
+
+    - [翻译: FOFO 是一个专门针对大型语言模型（LLMs）格式跟随能力评估的基准测试工具，旨在衡量和比较不同模型在遵循预设格式要求方面的表现。](2024年02月28日/FOFO_A_Benchmark_to_Evaluate_LLMs'_Format-Following_Capability.md)
+
+- [Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication](2024年02月28日/Beyond_Natural_Language_LLMs_Leveraging_Alternative_Formats_for_Enhanced_Reasoning_and_Communication.md)
+
+    - [翻译: 不止步于自然语言，LLMs 正探索利用其他格式以提升推理与沟通表现步骤 1 翻译：在自然语言之外：大型语言模型 (LLMs) 利用替代格式来增强推理和交流的能力步骤 2 优化： LLMS 不再局限于自然语言范畴，而是开始借助其他格式资源以提升其推理和沟通效率。](2024年02月28日/Beyond_Natural_Language_LLMs_Leveraging_Alternative_Formats_for_Enhanced_Reasoning_and_Communication.md)
 
 - [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World](2024年02月29日/The_All-Seeing_Project_V2_Towards_General_Relation_Comprehension_of_the_Open_World.md)
 
@@ -427,3 +455,7 @@
 - [Retrieval is Accurate Generation](2024年02月29日/Retrieval_is_Accurate_Generation.md)
 
     - [翻译: 检索，实现精准生成](2024年02月29日/Retrieval_is_Accurate_Generation.md)
+
+- [Language Models Represent Beliefs of Self and Others](2024年02月29日/Language_Models_Represent_Beliefs_of_Self_and_Others.md)
+
+    - [翻译: 语言模型能够体现自身及他人观念](2024年02月29日/Language_Models_Represent_Beliefs_of_Self_and_Others.md)
