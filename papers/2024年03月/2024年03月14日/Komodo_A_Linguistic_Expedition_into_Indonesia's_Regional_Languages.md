@@ -1,31 +1,31 @@
-# [Komodo项目：一场对印尼地区语言的深度语言学探索之旅](https://arxiv.org/abs/2403.09362)
+# [Komodo项目：一场探索印尼区域语言的深度语言学之旅](https://arxiv.org/abs/2403.09362)
 
 发布时间：2024年03月14日
 
 `LLM应用`
 
-``
+`小语种`
 
-`语言模型`
+``
 
 > Komodo: A Linguistic Expedition into Indonesia's Regional Languages
 
-> 近期LLMs的重大进展多集中于资源丰富、易于获取的语言，例如英语，而对公共资源匮乏的语言关注不足。为此，我们研发了Komodo-7B——一款70亿参数级别的大型语言模型家族，专门针对这一问题，实现印尼语、英语以及印尼境内11种地区性语言间的无缝切换。Komodo-7B家族包括Komodo-7B-Base与Komodo-7B-Instruct两款模型，其中Komodo-7B-Instruct尤为出色，它在各类任务和语言测试中刷新纪录，超越了GPT-3.5、Aya-101等一系列业界基准。这款模型不仅在特定语言评测和综合性能上表现出色，还展现出卓越的语言多样性处理能力。我们不断拓展语言模型的研发边界，致力于弥补资源有限语言的短板。值得一提的是，Komodo-7B-Instruct强大的跨语言理解能力有助于缓解印尼国内的教育不均衡状况，其提供的从英语直译至11种地方语言的服务相较于现有翻译服务有了大幅提升。总之，Komodo-7B是朝着更加包容和高效的语言模型迈出的关键一步，旨在满足多样化的社区语言需求。
+> 近年来LLMs的重大进展大多聚焦于资源充足易得的语言，例如英语；但针对公开领域内资源匮乏的语言，尤其是诸多小语种，技术进步的步伐尚有较大空间。为此，我们推出了Komodo-7B——一款70亿参数的大型语言模型，旨在跨越印尼语、英语及印度尼西亚境内的11种地方语言，无缝衔接并填补这一领域的空白。Komodo-7B系列包括Komodo-7B-Base和Komodo-7B-Instruct两款模型，其中后者以卓越性能在多项任务和多种语言测试中崭露头角，成功超越了OpenAI的GPT-3.5、Cohere的Aya-101等诸多业界标杆。这款模型不仅在单个语言及综合评测中表现出类拔萃，更展现出强大的跨语言适应力。我们持续致力于推动语言模型发展，力求惠及更多资源有限的小语种。尤为值得一提的是，Komodo-7B-Instruct强化了跨语言理解功能，助力缩小印度尼西亚教育领域的差异，可直接实现从英语到11种地方语言的一站式翻译，与现有翻译服务相比，这一特性无疑是一大飞跃。总而言之，Komodo-7B标志着语言模型在包容性与实用性上的重大进步，切实服务于多元化的语言社群需求。
 
 > The recent breakthroughs in Large Language Models (LLMs) have mostly focused on languages with easily available and sufficient resources, such as English. However, there remains a significant gap for languages that lack sufficient linguistic resources in the public domain. Our work introduces Komodo-7B, 7-billion-parameter Large Language Models designed to address this gap by seamlessly operating across Indonesian, English, and 11 regional languages in Indonesia. Komodo-7B is a family of LLMs that consist of Komodo-7B-Base and Komodo-7B-Instruct. Komodo-7B-Instruct stands out by achieving state-of-the-art performance in various tasks and languages, outperforming the benchmarks set by OpenAI's GPT-3.5, Cohere's Aya-101, Llama-2-Chat-13B, Mixtral-8x7B-Instruct-v0.1, Gemma-7B-it , and many more. This model not only demonstrates superior performance in both language-specific and overall assessments but also highlights its capability to excel in linguistic diversity. Our commitment to advancing language models extends beyond well-resourced languages, aiming to bridge the gap for those with limited linguistic assets. Additionally, Komodo-7B-Instruct's better cross-language understanding contributes to addressing educational disparities in Indonesia, offering direct translations from English to 11 regional languages, a significant improvement compared to existing language translation services. Komodo-7B represents a crucial step towards inclusivity and effectiveness in language models, providing to the linguistic needs of diverse communities.
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/x1.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/x1.png)
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/chart-8.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/chart-8.png)
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/x2.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/x2.png)
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/x3.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/x3.png)
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/merged_heatmaps.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/merged_heatmaps.png)
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/chart-3-1.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/chart-3-1.png)
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/manual_instructions.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/manual_instructions.png)
 
-![Komodo项目：一场对印尼地区语言的深度语言学探索之旅](../../../paper_images/2403.09362/x4.png)
+![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/x4.png)
