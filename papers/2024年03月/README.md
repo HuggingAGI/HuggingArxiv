@@ -2247,3 +2247,231 @@
 - [Empowering Robotics with Large Language Models: osmAG Map Comprehension with LLMs](2024年03月13日/Empowering_Robotics_with_Large_Language_Models_osmAG_Map_Comprehension_with_LLMs.md)
 
     - [翻译: 借助大型语言模型的力量，我们正在革新机器人技术领域，特别是在运用LLMs实现对osmAG地图的深度理解方面。](2024年03月13日/Empowering_Robotics_with_Large_Language_Models_osmAG_Map_Comprehension_with_LLMs.md)
+
+- [Large Language Models are Parallel Multilingual Learners](2024年03月13日/Large_Language_Models_are_Parallel_Multilingual_Learners.md)
+
+    - [翻译: 大型语言模型能够实现并行多语言学习，揭示了其在多种语言环境中同步掌握知识的能力。](2024年03月13日/Large_Language_Models_are_Parallel_Multilingual_Learners.md)
+
+- [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](2024年03月13日/UniCode_Learning_a_Unified_Codebook_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: UniCode项目致力于为多模态大型语言模型打造一个统一的码本，旨在整合和优化不同模态数据在模型中的表示与处理。](2024年03月13日/UniCode_Learning_a_Unified_Codebook_for_Multimodal_Large_Language_Models.md)
+
+- [Query Rewriting via Large Language Models](2024年03月13日/Query_Rewriting_via_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型实现查询改写技术](2024年03月13日/Query_Rewriting_via_Large_Language_Models.md)
+
+- [RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems](2024年03月13日/RAGGED_Towards_Informed_Design_of_Retrieval_Augmented_Generation_Systems.md)
+
+    - [翻译: RAGGED：致力于实现知情设计的检索增强生成系统研究，旨在深入理解并改进此类系统的构建方式。](2024年03月13日/RAGGED_Towards_Informed_Design_of_Retrieval_Augmented_Generation_Systems.md)
+
+- [Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics](2024年03月13日/Detecting_Hallucination_and_Coverage_Errors_in_Retrieval_Augmented_Generation_for_Controversial_Topics.md)
+
+    - [翻译: 针对争议性话题的检索增强生成技术，本研究致力于揭示其中的幻觉现象与覆盖错误，并对其进行有效检测。](2024年03月13日/Detecting_Hallucination_and_Coverage_Errors_in_Retrieval_Augmented_Generation_for_Controversial_Topics.md)
+
+- [VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework](2024年03月13日/VisionGPT_Vision-Language_Understanding_Agent_Using_Generalized_Multimodal_Framework.md)
+
+    - [翻译: VisionGPT 是一款基于通用多模态框架构建的视觉-语言理解利器，旨在高效融合视觉与语言信息，实现深度理解。](2024年03月13日/VisionGPT_Vision-Language_Understanding_Agent_Using_Generalized_Multimodal_Framework.md)
+
+- [AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents](2024年03月13日/AutoGuide_Automated_Generation_and_Selection_of_State-Aware_Guidelines_for_Large_Language_Model_Agents.md)
+
+    - [翻译: AutoGuide 是一项技术，它能自动为大型语言模型智能体生成并优选具备状态感知能力的操作指南。](2024年03月13日/AutoGuide_Automated_Generation_and_Selection_of_State-Aware_Guidelines_for_Large_Language_Model_Agents.md)
+
+- [Cultural evolution in populations of Large Language Models](2024年03月13日/Cultural_evolution_in_populations_of_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型群体中文化演进的现象](2024年03月13日/Cultural_evolution_in_populations_of_Large_Language_Models.md)
+
+- [TINA: Think, Interaction, and Action Framework for Zero-Shot Vision Language Navigation](2024年03月13日/TINA_Think,_Interaction,_and_Action_Framework_for_Zero-Shot_Vision_Language_Navigation.md)
+
+    - [翻译: TINA 是一个专为零样本视觉语言导航设计的框架，涵盖了思考（Think）、交互（Interaction）和行动（Action）三个关键维度。](2024年03月13日/TINA_Think,_Interaction,_and_Action_Framework_for_Zero-Shot_Vision_Language_Navigation.md)
+
+- [GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping](2024年03月14日/GaussianGrasper_3D_Language_Gaussian_Splatting_for_Open-vocabulary_Robotic_Grasping.md)
+
+    - [翻译: GaussianGrasper 是一项创新技术，通过三维语言高斯扩散方法赋予机器人以开放式词汇理解能力，从而实现更灵活精准的物体抓取。](2024年03月14日/GaussianGrasper_3D_Language_Gaussian_Splatting_for_Open-vocabulary_Robotic_Grasping.md)
+
+- [Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](2024年03月14日/Dynamic_Memory_Compression_Retrofitting_LLMs_for_Accelerated_Inference.md)
+
+    - [翻译: 动态内存压缩技术应用于LLMs，旨在实现快速推理优化。这项技术是对大型语言模型进行改造升级，以适应更高效的推理需求。](2024年03月14日/Dynamic_Memory_Compression_Retrofitting_LLMs_for_Accelerated_Inference.md)
+
+- [3D-VLA: A 3D Vision-Language-Action Generative World Model](2024年03月14日/3D-VLA_A_3D_Vision-Language-Action_Generative_World_Model.md)
+
+    - [翻译: 3D-VLA，一款创新的三维视觉-语言-动作生成世界模型，它将三维视觉信息、自然语言理解和执行动作的能力整合于一体。](2024年03月14日/3D-VLA_A_3D_Vision-Language-Action_Generative_World_Model.md)
+
+- [PosSAM: Panoptic Open-vocabulary Segment Anything](2024年03月14日/PosSAM_Panoptic_Open-vocabulary_Segment_Anything.md)
+
+    - [翻译: PosSAM：一款能够对任意目标进行泛视觉、开词汇表的全方位分割技术](2024年03月14日/PosSAM_Panoptic_Open-vocabulary_Segment_Anything.md)
+
+- [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](2024年03月14日/MM1_Methods,_Analysis_&_Insights_from_Multimodal_LLM_Pre-training.md)
+
+    - [翻译: MM1 探究了多模态 LLM 预训练中的方法策略、深度分析及其带来的独到见解。](2024年03月14日/MM1_Methods,_Analysis_&_Insights_from_Multimodal_LLM_Pre-training.md)
+
+- [Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey](2024年03月14日/Large_Language_Models_and_Causal_Inference_in_Collaboration_A_Comprehensive_Survey.md)
+
+    - [翻译: 针对大型语言模型在协作场景下的因果推断应用，本研究提供了一份详尽的综述。](2024年03月14日/Large_Language_Models_and_Causal_Inference_in_Collaboration_A_Comprehensive_Survey.md)
+
+- [Logical Discrete Graphical Models Must Supplement Large Language Models for Information Synthesis](2024年03月14日/Logical_Discrete_Graphical_Models_Must_Supplement_Large_Language_Models_for_Information_Synthesis.md)
+
+    - [翻译: 为了实现有效信息综合，在处理大型语言模型时，逻辑离散图形模型不可或缺。它们能够辅助和增强LLM在整合信息方面的表现。](2024年03月14日/Logical_Discrete_Graphical_Models_Must_Supplement_Large_Language_Models_for_Information_Synthesis.md)
+
+- [ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models](2024年03月14日/ExploRLLM_Guiding_Exploration_in_Reinforcement_Learning_with_Large_Language_Models.md)
+
+    - [翻译: ExploRLLM 是一项研究，旨在利用大型语言模型（LLMs）来引导强化学习过程中的有效探索。](2024年03月14日/ExploRLLM_Guiding_Exploration_in_Reinforcement_Learning_with_Large_Language_Models.md)
+
+- [Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation](2024年03月14日/Eyes_Closed,_Safety_On_Protecting_Multimodal_LLMs_via_Image-to-Text_Transformation.md)
+
+    - [翻译: 在“闭眼”状态下保障安全：探索利用图像转文本技术来保护多模态大型语言模型（LLMs）的方案](2024年03月14日/Eyes_Closed,_Safety_On_Protecting_Multimodal_LLMs_via_Image-to-Text_Transformation.md)
+
+- [Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models](2024年03月14日/Enhancing_Trust_in_Autonomous_Agents_An_Architecture_for_Accountability_and_Explainability_through_Blockchain_and_Large_Language_Models.md)
+
+    - [翻译: 为提升对自主智能体的信任，我们提出了一种结合区块链技术和大型语言模型的新型架构，旨在实现自主智能体的责任追溯与可解释性。](2024年03月14日/Enhancing_Trust_in_Autonomous_Agents_An_Architecture_for_Accountability_and_Explainability_through_Blockchain_and_Large_Language_Models.md)
+
+- [Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models](2024年03月14日/Welcome_Your_New_AI_Teammate_On_Safety_Analysis_by_Leashing_Large_Language_Models.md)
+
+    - [翻译: 向您介绍您的新晋AI队友，它将通过约束大型语言模型的方式助力安全分析工作。](2024年03月14日/Welcome_Your_New_AI_Teammate_On_Safety_Analysis_by_Leashing_Large_Language_Models.md)
+
+- [Less is More: Data Value Estimation for Visual Instruction Tuning](2024年03月14日/Less_is_More_Data_Value_Estimation_for_Visual_Instruction_Tuning.md)
+
+    - [翻译: 在视觉指令微调中，我们提出“少即是多”的理念，专注于对数据价值的精准估算。这项研究旨在探讨和挖掘少量高质量数据在优化视觉指令模型性能方面的重要作用。](2024年03月14日/Less_is_More_Data_Value_Estimation_for_Visual_Instruction_Tuning.md)
+
+- [Logits of API-Protected LLMs Leak Proprietary Information](2024年03月14日/Logits_of_API-Protected_LLMs_Leak_Proprietary_Information.md)
+
+    - [翻译: 研究表明，受 API 保护的大规模语言模型（LLMs）的 logits 输出可能泄露其内部所包含的专有信息。](2024年03月14日/Logits_of_API-Protected_LLMs_Leak_Proprietary_Information.md)
+
+- [VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding](2024年03月14日/VisionGPT-3D_A_Generalized_Multimodal_Agent_for_Enhanced_3D_Vision_Understanding.md)
+
+    - [翻译: VisionGPT-3D：一款强大而全面的多模态智能体，旨在提升三维视觉理解能力](2024年03月14日/VisionGPT-3D_A_Generalized_Multimodal_Agent_for_Enhanced_3D_Vision_Understanding.md)
+
+- [WavCraft: Audio Editing and Generation with Natural Language Prompts](2024年03月14日/WavCraft_Audio_Editing_and_Generation_with_Natural_Language_Prompts.md)
+
+    - [翻译: WavCraft——通过自然语言指令实现音频编辑与生成](2024年03月14日/WavCraft_Audio_Editing_and_Generation_with_Natural_Language_Prompts.md)
+
+- [MT-PATCHER: Selective and Extendable Knowledge Distillation from Large Language Models for Machine Translation](2024年03月14日/MT-PATCHER_Selective_and_Extendable_Knowledge_Distillation_from_Large_Language_Models_for_Machine_Translation.md)
+
+    - [翻译: MT-PATCHER：针对机器翻译任务，该技术实现了从大型语言模型中进行选择性且可扩展的知识蒸馏，旨在提炼和有效利用大规模模型中的宝贵知识。](2024年03月14日/MT-PATCHER_Selective_and_Extendable_Knowledge_Distillation_from_Large_Language_Models_for_Machine_Translation.md)
+
+- [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](2024年03月14日/AdaShield_Safeguarding_Multimodal_Large_Language_Models_from_Structure-based_Attack_via_Adaptive_Shield_Prompting.md)
+
+    - [翻译: AdaShield方案：针对多模态大型语言模型，利用自适应防护提示技术有效抵御基于结构的攻击威胁。](2024年03月14日/AdaShield_Safeguarding_Multimodal_Large_Language_Models_from_Structure-based_Attack_via_Adaptive_Shield_Prompting.md)
+
+- [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](2024年03月14日/From_Skepticism_to_Acceptance_Simulating_the_Attitude_Dynamics_Toward_Fake_News.md)
+
+    - [翻译: 本研究模拟了人们对假新闻从怀疑到接受这一态度转变的动态过程。](2024年03月14日/From_Skepticism_to_Acceptance_Simulating_the_Attitude_Dynamics_Toward_Fake_News.md)
+
+- [Anomaly Detection by Adapting a pre-trained Vision Language Model](2024年03月14日/Anomaly_Detection_by_Adapting_a_pre-trained_Vision_Language_Model.md)
+
+    - [翻译: 我们采用预训练的视觉语言模型并对其进行适应性调整，以实现对异常的有效检测。](2024年03月14日/Anomaly_Detection_by_Adapting_a_pre-trained_Vision_Language_Model.md)
+
+- [Rectifying Demonstration Shortcut in In-Context Learning](2024年03月14日/Rectifying_Demonstration_Shortcut_in_In-Context_Learning.md)
+
+    - [翻译: 本研究致力于纠正ICL中的“演示捷径”问题，探讨如何改进上下文学习方法，以消除对示例的过度依赖，并提升其在各类任务中的泛化性能。](2024年03月14日/Rectifying_Demonstration_Shortcut_in_In-Context_Learning.md)
+
+- [LLM-based agents for automating the enhancement of user story quality: An early report](2024年03月14日/LLM-based_agents_for_automating_the_enhancement_of_user_story_quality_An_early_report.md)
+
+    - [翻译: 一份早期报告显示，利用 LLM 技术开发的智能代理能够实现用户故事质量的自动化优化。](2024年03月14日/LLM-based_agents_for_automating_the_enhancement_of_user_story_quality_An_early_report.md)
+
+- [GPT on a Quantum Computer](2024年03月14日/GPT_on_a_Quantum_Computer.md)
+
+    - [翻译: GPT 与量子计算的邂逅：探究 GPT 在量子计算机环境下的表现与应用](2024年03月14日/GPT_on_a_Quantum_Computer.md)
+
+- [OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments](2024年03月14日/OpenGraph_Open-Vocabulary_Hierarchical_3D_Graph_Representation_in_Large-Scale_Outdoor_Environments.md)
+
+    - [翻译: OpenGraph是一种在大规模户外环境中实现开放词汇、分层三维图形表达的方法。](2024年03月14日/OpenGraph_Open-Vocabulary_Hierarchical_3D_Graph_Representation_in_Large-Scale_Outdoor_Environments.md)
+
+- [XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization](2024年03月14日/XCoOp_Explainable_Prompt_Learning_for_Computer-Aided_Diagnosis_via_Concept-guided_Context_Optimization.md)
+
+    - [翻译: XCoOp：借助于概念指导下的上下文优化技术，实现对计算机辅助诊断任务具有可解释性的提示学习。](2024年03月14日/XCoOp_Explainable_Prompt_Learning_for_Computer-Aided_Diagnosis_via_Concept-guided_Context_Optimization.md)
+
+- ["Like a Nesting Doll": Analyzing Recursion Analogies Generated by CS Students using Large Language Models](2024年03月14日/Like_a_Nesting_Doll_Analyzing_Recursion_Analogies_Generated_by_CS_Students_using_Large_Language_Models.md)
+
+    - [翻译: 本研究以“套娃”为喻，借助大型语言模型，深入剖析了计算机科学学生在运用大型语言模型时所创造出的递归类比实例。](2024年03月14日/Like_a_Nesting_Doll_Analyzing_Recursion_Analogies_Generated_by_CS_Students_using_Large_Language_Models.md)
+
+- [An Extensible Framework for Architecture-Based Data Flow Analysis for Information Security](2024年03月14日/An_Extensible_Framework_for_Architecture-Based_Data_Flow_Analysis_for_Information_Security.md)
+
+    - [翻译: 为探究信息安全中的数据流动规律，我们提出了一种灵活可扩展的架构导向数据流分析框架。](2024年03月14日/An_Extensible_Framework_for_Architecture-Based_Data_Flow_Analysis_for_Information_Security.md)
+
+- [GiT: Towards Generalist Vision Transformer through Universal Language Interface](2024年03月14日/GiT_Towards_Generalist_Vision_Transformer_through_Universal_Language_Interface.md)
+
+    - [翻译: GiT项目致力于打造一款全能型视觉Transformer，借助统一语言接口实现这一目标。](2024年03月14日/GiT_Towards_Generalist_Vision_Transformer_through_Universal_Language_Interface.md)
+
+- [Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks](2024年03月14日/Introducing_Routing_Functions_to_Vision-Language_Parameter-Efficient_Fine-Tuning_with_Low-Rank_Bottlenecks.md)
+
+    - [翻译: 为了提升视觉-语言模型的参数效率与微调性能，我们提出在具有低秩瓶颈的视觉-语言模型微调过程中引入路由函数技术。](2024年03月14日/Introducing_Routing_Functions_to_Vision-Language_Parameter-Efficient_Fine-Tuning_with_Low-Rank_Bottlenecks.md)
+
+- [Komodo: A Linguistic Expedition into Indonesia's Regional Languages](2024年03月14日/Komodo_A_Linguistic_Expedition_into_Indonesia's_Regional_Languages.md)
+
+    - [翻译: Komodo项目：一场探索印尼区域语言的深度语言学之旅](2024年03月14日/Komodo_A_Linguistic_Expedition_into_Indonesia's_Regional_Languages.md)
+
+- [BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences](2024年03月14日/BurstAttention_An_Efficient_Distributed_Attention_Framework_for_Extremely_Long_Sequences.md)
+
+    - [翻译: BurstAttention 是专为处理超长序列而设计的一种高效分布式注意力机制架构。](2024年03月14日/BurstAttention_An_Efficient_Distributed_Attention_Framework_for_Extremely_Long_Sequences.md)
+
+- [AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](2024年03月14日/AVIBench_Towards_Evaluating_the_Robustness_of_Large_Vision-Language_Model_on_Adversarial_Visual-Instructions.md)
+
+    - [翻译: AVIBench 是一个专注于评估大型视觉-语言模型在面对对抗性视觉指令时的稳健性的研究项目，旨在揭示模型在此挑战性场景下的表现和适应能力。](2024年03月14日/AVIBench_Towards_Evaluating_the_Robustness_of_Large_Vision-Language_Model_on_Adversarial_Visual-Instructions.md)
+
+- [Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring](2024年03月14日/Griffon_v2_Advancing_Multimodal_Perception_with_High-Resolution_Scaling_and_Visual-Language_Co-Referring.md)
+
+    - [翻译: Griffon v2 引领进步，利用高分辨率缩放与视觉-语言共指技术提升多模态感知能力](2024年03月14日/Griffon_v2_Advancing_Multimodal_Perception_with_High-Resolution_Scaling_and_Visual-Language_Co-Referring.md)
+
+- [Enabling Waypoint Generation for Collaborative Robots using LLMs and Mixed Reality](2024年03月14日/Enabling_Waypoint_Generation_for_Collaborative_Robots_using_LLMs_and_Mixed_Reality.md)
+
+    - [翻译: 借助 LLM 和混合现实技术，我们能够为协作机器人赋予路径点自动生成能力，让其在协同工作中更加智能化和灵活。](2024年03月14日/Enabling_Waypoint_Generation_for_Collaborative_Robots_using_LLMs_and_Mixed_Reality.md)
+
+- [Annotation Free Semantic Segmentation with Vision Foundation Models](2024年03月14日/Annotation_Free_Semantic_Segmentation_with_Vision_Foundation_Models.md)
+
+    - [翻译: 利用视觉基础模型实现无需标注的语义分割技术](2024年03月14日/Annotation_Free_Semantic_Segmentation_with_Vision_Foundation_Models.md)
+
+- [Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models](2024年03月14日/Select_and_Distill_Selective_Dual-Teacher_Knowledge_Transfer_for_Continual_Learning_on_Vision-Language_Models.md)
+
+    - [翻译: 为了解决视觉-语言模型在连续学习中的挑战，我们提出了一种名为“选择并提炼”的方法，通过精心设计的双教师机制进行知识转移。这种方法旨在有选择性地从先前任务中萃取关键知识，并将其高效融入后续任务的学习过程中，从而促进视觉-语言模型在不断学习新任务时保持和提升旧任务的表现。](2024年03月14日/Select_and_Distill_Selective_Dual-Teacher_Knowledge_Transfer_for_Continual_Learning_on_Vision-Language_Models.md)
+
+- [VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos](2024年03月14日/VIVID_Human-AI_Collaborative_Authoring_of_Vicarious_Dialogues_from_Lecture_Videos.md)
+
+    - [翻译: VIVID项目致力于实现人机协作，共同从讲座视频中创作生动的、身临其境的对话内容。](2024年03月14日/VIVID_Human-AI_Collaborative_Authoring_of_Vicarious_Dialogues_from_Lecture_Videos.md)
+
+- [Dial-insight: Fine-tuning Large Language Models with High-Quality Domain-Specific Data Preventing Capability Collapse](2024年03月14日/Dial-insight_Fine-tuning_Large_Language_Models_with_High-Quality_Domain-Specific_Data_Preventing_Capability_Collapse.md)
+
+    - [翻译: Dial-insight 方法，通过采用高质量的特定领域数据对大型语言模型进行微调，有效防止模型能力退化。](2024年03月14日/Dial-insight_Fine-tuning_Large_Language_Models_with_High-Quality_Domain-Specific_Data_Preventing_Capability_Collapse.md)
+
+- [Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge](2024年03月14日/Exploring_the_Comprehension_of_ChatGPT_in_Traditional_Chinese_Medicine_Knowledge.md)
+
+    - [翻译: 本研究致力于探究ChatGPT在理解中医知识方面的表现，深入探索其对于传统中医药学领域知识的掌握和应用能力。](2024年03月14日/Exploring_the_Comprehension_of_ChatGPT_in_Traditional_Chinese_Medicine_Knowledge.md)
+
+- [Caveat Lector: Large Language Models in Legal Practice](2024年03月14日/Caveat_Lector_Large_Language_Models_in_Legal_Practice.md)
+
+    - [翻译: 审慎阅读：大型语言模型在法律实务领域的探索与应用](2024年03月14日/Caveat_Lector_Large_Language_Models_in_Legal_Practice.md)
+
+- [Unveiling the Generalization Power of Fine-Tuned Large Language Models](2024年03月14日/Unveiling_the_Generalization_Power_of_Fine-Tuned_Large_Language_Models.md)
+
+    - [翻译: 探究微调后大型语言模型的普遍适用性力量](2024年03月14日/Unveiling_the_Generalization_Power_of_Fine-Tuned_Large_Language_Models.md)
+
+- [Evaluating LLMs for Gender Disparities in Notable Persons](2024年03月14日/Evaluating_LLMs_for_Gender_Disparities_in_Notable_Persons.md)
+
+    - [翻译: 本研究旨在评估大型语言模型（LLMs）在描述著名人物时是否存在性别差异问题。](2024年03月14日/Evaluating_LLMs_for_Gender_Disparities_in_Notable_Persons.md)
+
+- [USimAgent: Large Language Models for Simulating Search Users](2024年03月14日/USimAgent_Large_Language_Models_for_Simulating_Search_Users.md)
+
+    - [翻译: USimAgent 是一款专门针对模拟搜索用户而设计的大规模语言模型，它利用强大的自然语言处理能力来仿真用户的搜索行为与意图。](2024年03月14日/USimAgent_Large_Language_Models_for_Simulating_Search_Users.md)
+
+- [Towards Proactive Interactions for In-Vehicle Conversational Assistants Utilizing Large Language Models](2024年03月14日/Towards_Proactive_Interactions_for_In-Vehicle_Conversational_Assistants_Utilizing_Large_Language_Models.md)
+
+    - [翻译: 本研究致力于借助大型语言模型，开发能够主动发起互动的车载对话助手，提升车内交互体验。](2024年03月14日/Towards_Proactive_Interactions_for_In-Vehicle_Conversational_Assistants_Utilizing_Large_Language_Models.md)
+
+- [ProSwitch: Knowledge-Guided Language Model Fine-Tuning to Generate Professional and Non-Professional Styled Text](2024年03月14日/ProSwitch_Knowledge-Guided_Language_Model_Fine-Tuning_to_Generate_Professional_and_Non-Professional_Styled_Text.md)
+
+    - [翻译: ProSwitch 是一种创新方法，它运用知识指导对语言模型进行精细调整，旨在实现生成兼具专业和非专业写作风格的文本。](2024年03月14日/ProSwitch_Knowledge-Guided_Language_Model_Fine-Tuning_to_Generate_Professional_and_Non-Professional_Styled_Text.md)
+
+- [Exploring the Capabilities and Limitations of Large Language Models in the Electric Energy Sector](2024年03月14日/Exploring_the_Capabilities_and_Limitations_of_Large_Language_Models_in_the_Electric_Energy_Sector.md)
+
+    - [翻译: 本研究致力于揭示大型语言模型在电力能源行业的潜力与局限，深入探讨其在该领域的表现特征及应用场景。](2024年03月14日/Exploring_the_Capabilities_and_Limitations_of_Large_Language_Models_in_the_Electric_Energy_Sector.md)
+
+- [AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning](2024年03月14日/AutoLoRA_Automatically_Tuning_Matrix_Ranks_in_Low-Rank_Adaptation_Based_on_Meta_Learning.md)
+
+    - [翻译: AutoLoRA 是一种创新方法，它运用元学习技术，在低秩适应过程中自动化地优化矩阵的秩。这项研究旨在解决在模型适应时对矩阵秩高效且智能调节的问题。](2024年03月14日/AutoLoRA_Automatically_Tuning_Matrix_Ranks_in_Low-Rank_Adaptation_Based_on_Meta_Learning.md)
+
+- [Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance](2024年03月14日/Meaningful_Learning_Advancing_Abstract_Reasoning_in_Large_Language_Models_via_Generic_Fact_Guidance.md)
+
+    - [翻译: 借助通用事实引导，促进大型语言模型在抽象推理方面的提升——“有意义学习”崭新探索](2024年03月14日/Meaningful_Learning_Advancing_Abstract_Reasoning_in_Large_Language_Models_via_Generic_Fact_Guidance.md)
+
+- [Retrieval augmented text-to-SQL generation for epidemiological question answering using electronic health records](2024年03月14日/Retrieval_augmented_text-to-SQL_generation_for_epidemiological_question_answering_using_electronic_health_records.md)
+
+    - [翻译: 本研究专注于利用电子健康记录，通过增强检索技术改进文本转SQL生成方法，应用于流行病学问题解答。](2024年03月14日/Retrieval_augmented_text-to-SQL_generation_for_epidemiological_question_answering_using_electronic_health_records.md)
