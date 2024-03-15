@@ -2043,3 +2043,207 @@
 - [Data Interpreter: An LLM Agent For Data Science](2024年03月12日/Data_Interpreter_An_LLM_Agent_For_Data_Science.md)
 
     - [翻译: 数据解释员：一款专为数据科学打造的 LLM 智能助手](2024年03月12日/Data_Interpreter_An_LLM_Agent_For_Data_Science.md)
+
+- [Can Large Language Models Identify Authorship?](2024年03月12日/Can_Large_Language_Models_Identify_Authorship.md)
+
+    - [翻译: 大型语言模型是否具备鉴别文本作者的能力？](2024年03月12日/Can_Large_Language_Models_Identify_Authorship.md)
+
+- [Large Language Models are Contrastive Reasoners](2024年03月12日/Large_Language_Models_are_Contrastive_Reasoners.md)
+
+    - [翻译: 大型语言模型展现出了显著的对比推理能力](2024年03月12日/Large_Language_Models_are_Contrastive_Reasoners.md)
+
+- [MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension](2024年03月12日/MoleculeQA_A_Dataset_to_Evaluate_Factual_Accuracy_in_Molecular_Comprehension.md)
+
+    - [翻译: MoleculeQA 是专为检验分子理解领域中事实准确性而设计的数据集，旨在助力科研人员评测模型在解析分子信息时的精准度。](2024年03月12日/MoleculeQA_A_Dataset_to_Evaluate_Factual_Accuracy_in_Molecular_Comprehension.md)
+
+- [Embedded Translations for Low-resource Automated Glossing](2024年03月12日/Embedded_Translations_for_Low-resource_Automated_Glossing.md)
+
+    - [翻译: 为解决低资源环境下自动术语注解问题，我们提出嵌入式翻译方法。该方法旨在利用嵌入技术，高效实现对稀有语言或词汇的精准翻译和注解。](2024年03月12日/Embedded_Translations_for_Low-resource_Automated_Glossing.md)
+
+- [VANP: Learning Where to See for Navigation with Self-Supervised Vision-Action Pre-Training](2024年03月12日/VANP_Learning_Where_to_See_for_Navigation_with_Self-Supervised_Vision-Action_Pre-Training.md)
+
+    - [翻译: VANP 方法利用自我监督的视觉-动作预训练技术，教导模型在进行导航时学会自主发现关键观察点，从而提升导航能力。](2024年03月12日/VANP_Learning_Where_to_See_for_Navigation_with_Self-Supervised_Vision-Action_Pre-Training.md)
+
+- [Generating Clarification Questions for Disambiguating Contracts](2024年03月12日/Generating_Clarification_Questions_for_Disambiguating_Contracts.md)
+
+    - [翻译: 为解决合同中的歧义，我们致力于生成有针对性的澄清问题。](2024年03月12日/Generating_Clarification_Questions_for_Disambiguating_Contracts.md)
+
+- [Simple and Scalable Strategies to Continually Pre-train Large Language Models](2024年03月13日/Simple_and_Scalable_Strategies_to_Continually_Pre-train_Large_Language_Models.md)
+
+    - [翻译: 本研究提出了一种简洁且易于扩展的方法，用于持续预训练大型语言模型，旨在提升模型在不断变化的数据环境中的适应性和性能。](2024年03月13日/Simple_and_Scalable_Strategies_to_Continually_Pre-train_Large_Language_Models.md)
+
+- [DAM: Dynamic Adapter Merging for Continual Video QA Learning](2024年03月13日/DAM_Dynamic_Adapter_Merging_for_Continual_Video_QA_Learning.md)
+
+    - [翻译: DAM 技术，即动态适配器融合，旨在解决连续视频问答学习场景下的问题，通过整合并适时调整适配器模块以适应不断变化的学习需求。](2024年03月13日/DAM_Dynamic_Adapter_Merging_for_Continual_Video_QA_Learning.md)
+
+- [Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework](2024年03月13日/Steering_LLMs_Towards_Unbiased_Responses_A_Causality-Guided_Debiasing_Framework.md)
+
+    - [翻译: 为了引导 LLM 输出公正无偏的答案，我们提出了一种基于因果关系指导的去偏见框架。](2024年03月13日/Steering_LLMs_Towards_Unbiased_Responses_A_Causality-Guided_Debiasing_Framework.md)
+
+- [The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models](2024年03月13日/The_Garden_of_Forking_Paths_Observing_Dynamic_Parameters_Distribution_in_Large_Language_Models.md)
+
+    - [翻译: 在“分叉路径的花园”中，我们深入探究大型语言模型内部的动态参数分布，揭示其内在变化规律与特性。](2024年03月13日/The_Garden_of_Forking_Paths_Observing_Dynamic_Parameters_Distribution_in_Large_Language_Models.md)
+
+- [Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization](2024年03月13日/Strengthening_Multimodal_Large_Language_Model_with_Bootstrapped_Preference_Optimization.md)
+
+    - [翻译: 运用引导式偏好优化策略，提升多模态大型语言模型的表现力和效能。](2024年03月13日/Strengthening_Multimodal_Large_Language_Model_with_Bootstrapped_Preference_Optimization.md)
+
+- [SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language Agents](2024年03月13日/SOTOPIA-$π$_Interactive_Learning_of_Socially_Intelligent_Language_Agents.md)
+
+    - [翻译: SOTOPIA-$π$项目致力于研究如何通过交互式学习培养具备社交智能的语言代理。](2024年03月13日/SOTOPIA-$π$_Interactive_Learning_of_Socially_Intelligent_Language_Agents.md)
+
+- [Review of Generative AI Methods in Cybersecurity](2024年03月13日/Review_of_Generative_AI_Methods_in_Cybersecurity.md)
+
+    - [翻译: 本文将对应用于网络安全领域的生成式人工智能方法进行全面探讨和评析。](2024年03月13日/Review_of_Generative_AI_Methods_in_Cybersecurity.md)
+
+- [TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning](2024年03月13日/TeaMs-RL_Teaching_LLMs_to_Teach_Themselves_Better_Instructions_via_Reinforcement_Learning.md)
+
+    - [翻译: TeaMs-RL项目利用强化学习，让大型语言模型（LLMs）学会自我优化和改进指令。这项研究旨在通过RL机制使LLMs能够更有效地进行自我教学，不断提升其理解与生成高质量指令的能力。](2024年03月13日/TeaMs-RL_Teaching_LLMs_to_Teach_Themselves_Better_Instructions_via_Reinforcement_Learning.md)
+
+- [Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages](2024年03月13日/Do_Language_Models_Care_About_Text_Quality_Evaluating_Web-Crawled_Corpora_Across_11_Languages.md)
+
+    - [翻译: 语言模型对文本质量有多在意？我们针对 11 种语言的网络抓取语料库进行评估，以探究其对文本质量的关注程度。](2024年03月13日/Do_Language_Models_Care_About_Text_Quality_Evaluating_Web-Crawled_Corpora_Across_11_Languages.md)
+
+- [Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records](2024年03月13日/Zero-shot_and_Few-shot_Generation_Strategies_for_Artificial_Clinical_Records.md)
+
+    - [翻译: 针对人工临床记录，我们探讨了零样本与少量样本生成策略，旨在实现更高效、精准的模拟数据生成。](2024年03月13日/Zero-shot_and_Few-shot_Generation_Strategies_for_Artificial_Clinical_Records.md)
+
+- [An Efficient End-to-End Approach to Noise Invariant Speech Features via Multi-Task Learning](2024年03月13日/An_Efficient_End-to-End_Approach_to_Noise_Invariant_Speech_Features_via_Multi-Task_Learning.md)
+
+    - [翻译: 本研究提出了一种新颖高效的端到端解决方案，利用多任务学习技术来提取对噪声具有鲁棒性的语音特征。](2024年03月13日/An_Efficient_End-to-End_Approach_to_Noise_Invariant_Speech_Features_via_Multi-Task_Learning.md)
+
+- [Human Alignment of Large Language Models through Online Preference Optimisation](2024年03月13日/Human_Alignment_of_Large_Language_Models_through_Online_Preference_Optimisation.md)
+
+    - [翻译: 借助在线偏好优化技术，本研究探讨如何实现大型语言模型与人类需求的精准对齐。](2024年03月13日/Human_Alignment_of_Large_Language_Models_through_Online_Preference_Optimisation.md)
+
+- [MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models](2024年03月13日/MedInsight_A_Multi-Source_Context_Augmentation_Framework_for_Generating_Patient-Centric_Medical_Responses_using_Large_Language_Models.md)
+
+    - [翻译: MedInsight：针对大型语言模型，我们提出了一种创新的多源上下文增强框架，旨在借助该框架为生成个性化、以患者为中心的医疗回复提供有力支持。](2024年03月13日/MedInsight_A_Multi-Source_Context_Augmentation_Framework_for_Generating_Patient-Centric_Medical_Responses_using_Large_Language_Models.md)
+
+- [Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation](2024年03月13日/Language-Grounded_Dynamic_Scene_Graphs_for_Interactive_Object_Search_with_Mobile_Manipulation.md)
+
+    - [翻译: 为实现结合移动操作的交互式物体搜索，我们提出了一种基于语言引导的动态场景图方法。该方法利用语言信息构建动态场景图，以高效指导机器人在复杂环境中进行目标物体搜索和交互。](2024年03月13日/Language-Grounded_Dynamic_Scene_Graphs_for_Interactive_Object_Search_with_Mobile_Manipulation.md)
+
+- [DevBench: A Comprehensive Benchmark for Software Development](2024年03月13日/DevBench_A_Comprehensive_Benchmark_for_Software_Development.md)
+
+    - [翻译: DevBench 是一款综合全面的软件开发基准测试平台，旨在为开发者提供衡量和比较不同开发环境、工具及实践效果的标准参照。](2024年03月13日/DevBench_A_Comprehensive_Benchmark_for_Software_Development.md)
+
+- [Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments](2024年03月13日/Call_Me_When_Necessary_LLMs_can_Efficiently_and_Faithfully_Reason_over_Structured_Environments.md)
+
+    - [翻译: 无论是处理结构化环境还是应对复杂需求，LLMs 都能以高效而精准的方式进行推理。不妨视其为“必要时随时呼叫”的可靠智能工具。](2024年03月13日/Call_Me_When_Necessary_LLMs_can_Efficiently_and_Faithfully_Reason_over_Structured_Environments.md)
+
+- [Non-discrimination Criteria for Generative Language Models](2024年03月13日/Non-discrimination_Criteria_for_Generative_Language_Models.md)
+
+    - [翻译: 针对生成式语言模型，探究其应遵循的非歧视性准则。](2024年03月13日/Non-discrimination_Criteria_for_Generative_Language_Models.md)
+
+- [AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models](2024年03月13日/AIGCs_Confuse_AI_Too_Investigating_and_Explaining_Synthetic_Image-induced_Hallucinations_in_Large_Vision-Language_Models.md)
+
+    - [翻译: AIGC 生成的内容同样能迷惑 AI，我们正致力于探究大型视觉-语言模型在面对合成图像时产生的幻觉现象，并对其进行深入解析。](2024年03月13日/AIGCs_Confuse_AI_Too_Investigating_and_Explaining_Synthetic_Image-induced_Hallucinations_in_Large_Vision-Language_Models.md)
+
+- [Masked Generative Story Transformer with Character Guidance and Caption Augmentation](2024年03月13日/Masked_Generative_Story_Transformer_with_Character_Guidance_and_Caption_Augmentation.md)
+
+    - [翻译: 通过采用字符引导与标题增强技术，我们提出了一种掩码生成故事Transformer模型。该模型在生成连贯故事的同时，能够借助字符级别的指引以及标题信息的补充，以提升文本生成质量和叙事逻辑性。](2024年03月13日/Masked_Generative_Story_Transformer_with_Character_Guidance_and_Caption_Augmentation.md)
+
+- [Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator](2024年03月13日/Automatic_Interactive_Evaluation_for_Large_Language_Models_with_State_Aware_Patient_Simulator.md)
+
+    - [翻译: 针对大型语言模型，我们提出了一种结合了状态感知病人模拟器的自动交互评估方法。这种方法能够模拟真实世界中病人的复杂状态变化，从而对大型语言模型进行深入细致的互动性评估。](2024年03月13日/Automatic_Interactive_Evaluation_for_Large_Language_Models_with_State_Aware_Patient_Simulator.md)
+
+- [Rich Semantic Knowledge Enhanced Large Language Models for Few-shot Chinese Spell Checking](2024年03月13日/Rich_Semantic_Knowledge_Enhanced_Large_Language_Models_for_Few-shot_Chinese_Spell_Checking.md)
+
+    - [翻译: 通过融入丰富语义知识以提升大型语言模型能力，我们致力于实现针对少量样本的高效中文拼写纠错。](2024年03月13日/Rich_Semantic_Knowledge_Enhanced_Large_Language_Models_for_Few-shot_Chinese_Spell_Checking.md)
+
+- [Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning](2024年03月13日/Data-oriented_Dynamic_Fine-tuning_Parameter_Selection_Strategy_for_FISH_Mask_based_Efficient_Fine-tuning.md)
+
+    - [翻译: 本研究提出一种面向数据的动态微调参数选取策略，专为FISH Mask高效微调设计。该策略旨在针对不同的数据集特性，智能地选取并调整FISH Mask模型的微调参数，以实现更高效、精准的模型优化。](2024年03月13日/Data-oriented_Dynamic_Fine-tuning_Parameter_Selection_Strategy_for_FISH_Mask_based_Efficient_Fine-tuning.md)
+
+- [SoK: Reducing the Vulnerability of Fine-tuned Language Models to Membership Inference Attacks](2024年03月13日/SoK_Reducing_the_Vulnerability_of_Fine-tuned_Language_Models_to_Membership_Inference_Attacks.md)
+
+    - [翻译: SoK（系统化知识）：致力于降低微调语言模型遭受成员推断攻击的风险步骤 1 翻译：SoK（Systematization of Knowledge）探究了如何减少微调语言模型在面对成员推断攻击时所表现出的脆弱性问题。步骤 2 翻译优化：本文为 SoK（系统化知识）研究，专注于解决微调语言模型对成员推断攻击的易感性问题，旨在提出有效方法以降低此类模型在此类安全威胁下的风险。](2024年03月13日/SoK_Reducing_the_Vulnerability_of_Fine-tuned_Language_Models_to_Membership_Inference_Attacks.md)
+
+- [Authorship Verification based on the Likelihood Ratio of Grammar Models](2024年03月13日/Authorship_Verification_based_on_the_Likelihood_Ratio_of_Grammar_Models.md)
+
+    - [翻译: 通过对语法模型的似然比分析进行作者身份验证的研究](2024年03月13日/Authorship_Verification_based_on_the_Likelihood_Ratio_of_Grammar_Models.md)
+
+- [Search-based Optimisation of LLM Learning Shots for Story Point Estimation](2024年03月13日/Search-based_Optimisation_of_LLM_Learning_Shots_for_Story_Point_Estimation.md)
+
+    - [翻译: 针对故事点估算任务，我们提出了一种通过搜索策略优化大型语言模型（LLM）学习次数的方法，旨在提升其估算效能。](2024年03月13日/Search-based_Optimisation_of_LLM_Learning_Shots_for_Story_Point_Estimation.md)
+
+- [Software Vulnerability and Functionality Assessment using LLMs](2024年03月13日/Software_Vulnerability_and_Functionality_Assessment_using_LLMs.md)
+
+    - [翻译: 运用大型语言模型（LLMs）对软件的脆弱性及功能进行全面评估](2024年03月13日/Software_Vulnerability_and_Functionality_Assessment_using_LLMs.md)
+
+- [Tastle: Distract Large Language Models for Automatic Jailbreak Attack](2024年03月13日/Tastle_Distract_Large_Language_Models_for_Automatic_Jailbreak_Attack.md)
+
+    - [翻译: Tastle 是一种技术，通过干扰大型语言模型以实现针对目标系统的自动越狱攻击。](2024年03月13日/Tastle_Distract_Large_Language_Models_for_Automatic_Jailbreak_Attack.md)
+
+- [System for systematic literature review using multiple AI agents: Concept and an empirical evaluation](2024年03月13日/System_for_systematic_literature_review_using_multiple_AI_agents_Concept_and_an_empirical_evaluation.md)
+
+    - [翻译: 本研究提出了一种采用多个AI代理进行系统性文献综述的创新系统，并对其进行了深入的概念阐述和严谨的实证评估。](2024年03月13日/System_for_systematic_literature_review_using_multiple_AI_agents_Concept_and_an_empirical_evaluation.md)
+
+- [A Picture Is Worth a Thousand Words: Exploring Diagram and Video-Based OOP Exercises to Counter LLM Over-Reliance](2024年03月13日/A_Picture_Is_Worth_a_Thousand_Words_Exploring_Diagram_and_Video-Based_OOP_Exercises_to_Counter_LLM_Over-Reliance.md)
+
+    - [翻译: 在对抗大型语言模型过度依赖的过程中，我们发现“一图胜千言”。为此，我们探索了利用图表和视频进行面向对象编程练习的新途径，以减轻LLM过度依赖现象。](2024年03月13日/A_Picture_Is_Worth_a_Thousand_Words_Exploring_Diagram_and_Video-Based_OOP_Exercises_to_Counter_LLM_Over-Reliance.md)
+
+- [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](2024年03月13日/CoIN_A_Benchmark_of_Continual_Instruction_tuNing_for_Multimodel_Large_Language_Model.md)
+
+    - [翻译: CoIN 是一个针对多模态大型语言模型的连续指令优化基准，旨在衡量和推进此类模型在不断学习和适应新指令任务中的性能。](2024年03月13日/CoIN_A_Benchmark_of_Continual_Instruction_tuNing_for_Multimodel_Large_Language_Model.md)
+
+- [From human experts to machines: An LLM supported approach to ontology and knowledge graph construction](2024年03月13日/From_human_experts_to_machines_An_LLM_supported_approach_to_ontology_and_knowledge_graph_construction.md)
+
+    - [翻译: 跃迁至机器智能：运用大型语言模型助力本体与知识图谱构建之旅](2024年03月13日/From_human_experts_to_machines_An_LLM_supported_approach_to_ontology_and_knowledge_graph_construction.md)
+
+- [LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments](2024年03月13日/LLM-Assisted_Light_Leveraging_Large_Language_Model_Capabilities_for_Human-Mimetic_Traffic_Signal_Control_in_Complex_Urban_Environments.md)
+
+    - [翻译: 在复杂的城市环境中，我们提出了一项利用大型语言模型（LLM）能力来实现仿真人智能的交通信号控制系统——LLM辅助式智慧信号灯，以应对复杂的交通环境挑战。](2024年03月13日/LLM-Assisted_Light_Leveraging_Large_Language_Model_Capabilities_for_Human-Mimetic_Traffic_Signal_Control_in_Complex_Urban_Environments.md)
+
+- [Positive Lynden-Bell derivative as a ticket to the bar trap?](2024年03月13日/Positive_Lynden-Bell_derivative_as_a_ticket_to_the_bar_trap.md)
+
+    - [翻译: 正值的Lynden-Bell导数，是否意味着通往“粒子陷阱”酒吧的入场券？](2024年03月13日/Positive_Lynden-Bell_derivative_as_a_ticket_to_the_bar_trap.md)
+
+- [Knowledge Conflicts for LLMs: A Survey](2024年03月13日/Knowledge_Conflicts_for_LLMs_A_Survey.md)
+
+    - [翻译: 针对 LLMs 的知识冲突研究概述](2024年03月13日/Knowledge_Conflicts_for_LLMs_A_Survey.md)
+
+- [Is Context Helpful for Chat Translation Evaluation?](2024年03月13日/Is_Context_Helpful_for_Chat_Translation_Evaluation.md)
+
+    - [翻译: 在聊天翻译评估中，引入上下文真的能起到积极作用吗？](2024年03月13日/Is_Context_Helpful_for_Chat_Translation_Evaluation.md)
+
+- [StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses](2024年03月13日/StreamingDialogue_Prolonged_Dialogue_Learning_via_Long_Context_Compression_with_Minimal_Losses.md)
+
+    - [翻译: StreamingDialogue 方法借助于最小损失的长上下文高效压缩技术，实现了对话模型对长时间、连续对话的深入学习。](2024年03月13日/StreamingDialogue_Prolonged_Dialogue_Learning_via_Long_Context_Compression_with_Minimal_Losses.md)
+
+- [HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback](2024年03月13日/HRLAIF_Improvements_in_Helpfulness_and_Harmlessness_in_Open-domain_Reinforcement_Learning_From_AI_Feedback.md)
+
+    - [翻译: HRLAIF 是一种创新方法，它利用 AI 反馈，在开放域强化学习中显著提升了模型的有用性和减少潜在危害。该研究致力于优化人工智能在复杂环境下的决策行为，确保其更加有益且无害。](2024年03月13日/HRLAIF_Improvements_in_Helpfulness_and_Harmlessness_in_Open-domain_Reinforcement_Learning_From_AI_Feedback.md)
+
+- [Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform](2024年03月13日/Towards_Personalized_Evaluation_of_Large_Language_Models_with_An_Anonymous_Crowd-Sourcing_Platform.md)
+
+    - [翻译: 本研究利用匿名众包平台，旨在探索针对大型语言模型的个性化评估方法。](2024年03月13日/Towards_Personalized_Evaluation_of_Large_Language_Models_with_An_Anonymous_Crowd-Sourcing_Platform.md)
+
+- [CleanAgent: Automating Data Standardization with LLM-based Agents](2024年03月13日/CleanAgent_Automating_Data_Standardization_with_LLM-based_Agents.md)
+
+    - [翻译: CleanAgent是一款利用大型语言模型（LLM）构建的数据标准化自动化工具，它借助LLM智能代理技术，实现高效、自动化的数据清洗与标准化。](2024年03月13日/CleanAgent_Automating_Data_Standardization_with_LLM-based_Agents.md)
+
+- [Mastering Text, Code and Math Simultaneously via Fusing Highly Specialized Language Models](2024年03月13日/Mastering_Text,_Code_and_Math_Simultaneously_via_Fusing_Highly_Specialized_Language_Models.md)
+
+    - [翻译: 通过深度融合各领域的高度专业化语言模型，实现对文本、代码与数学的同时精通](2024年03月13日/Mastering_Text,_Code_and_Math_Simultaneously_via_Fusing_Highly_Specialized_Language_Models.md)
+
+- [Efficient Prompt Tuning of Large Vision-Language Model for Fine-Grained Ship Classification](2024年03月13日/Efficient_Prompt_Tuning_of_Large_Vision-Language_Model_for_Fine-Grained_Ship_Classification.md)
+
+    - [翻译: 在细粒度船舶分类任务上，我们提出了一种高效的方法来对大型视觉-语言模型进行提示调优，以提升其性能表现。](2024年03月13日/Efficient_Prompt_Tuning_of_Large_Vision-Language_Model_for_Fine-Grained_Ship_Classification.md)
+
+- [Emergence of Social Norms in Large Language Model-based Agent Societies](2024年03月13日/Emergence_of_Social_Norms_in_Large_Language_Model-based_Agent_Societies.md)
+
+    - [翻译: 探究大型语言模型驱动的智能体社会中社会规范如何自然形成与发展](2024年03月13日/Emergence_of_Social_Norms_in_Large_Language_Model-based_Agent_Societies.md)
+
+- [Continuous Object State Recognition for Cooking Robots Using Pre-Trained Vision-Language Models and Black-box Optimization](2024年03月13日/Continuous_Object_State_Recognition_for_Cooking_Robots_Using_Pre-Trained_Vision-Language_Models_and_Black-box_Optimization.md)
+
+    - [翻译: 本研究运用预训练的视觉-语言模型与黑盒优化方法，助力烹饪机器人实现对连续物体状态的精准识别。](2024年03月13日/Continuous_Object_State_Recognition_for_Cooking_Robots_Using_Pre-Trained_Vision-Language_Models_and_Black-box_Optimization.md)
+
+- [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](2024年03月13日/Boosting_Disfluency_Detection_with_Large_Language_Model_as_Disfluency_Generator.md)
+
+    - [翻译: 通过将大型语言模型用作不流畅生成器，我们能够显著提升对不流畅性的检测效果。这项研究旨在借助LLM的力量，探索其在模拟和识别语言表达中的不流畅性方面的潜力，从而改进不流畅检测技术。](2024年03月13日/Boosting_Disfluency_Detection_with_Large_Language_Model_as_Disfluency_Generator.md)
+
+- [Empowering Robotics with Large Language Models: osmAG Map Comprehension with LLMs](2024年03月13日/Empowering_Robotics_with_Large_Language_Models_osmAG_Map_Comprehension_with_LLMs.md)
+
+    - [翻译: 借助大型语言模型的力量，我们正在革新机器人技术领域，特别是在运用LLMs实现对osmAG地图的深度理解方面。](2024年03月13日/Empowering_Robotics_with_Large_Language_Models_osmAG_Map_Comprehension_with_LLMs.md)
