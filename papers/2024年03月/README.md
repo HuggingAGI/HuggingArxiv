@@ -300,6 +300,14 @@
 
     - [翻译: AutoDefense：一款针对越狱攻击设计的多智能体防御方案，专门用于保护大型语言模型（LLM）的安全。](2024年03月02日/AutoDefense_Multi-Agent_LLM_Defense_against_Jailbreak_Attacks.md)
 
+- [A Cross-Modal Approach to Silent Speech with LLM-Enhanced Recognition](2024年03月02日/A_Cross-Modal_Approach_to_Silent_Speech_with_LLM-Enhanced_Recognition.md)
+
+    - [翻译: 我们提出了一种创新的跨模态方法，借助 LLM 强化技术来提升无声语音的识别能力。](2024年03月02日/A_Cross-Modal_Approach_to_Silent_Speech_with_LLM-Enhanced_Recognition.md)
+
+- [Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data](2024年03月02日/Large_Language_Multimodal_Models_for_5-Year_Chronic_Disease_Cohort_Prediction_Using_EHR_Data.md)
+
+    - [翻译: 本研究采用大规模多模态语言模型，利用电子健康记录数据来预测五年内慢性疾病队列的发展趋势。](2024年03月02日/Large_Language_Multimodal_Models_for_5-Year_Chronic_Disease_Cohort_Prediction_Using_EHR_Data.md)
+
 - [GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](2024年03月03日/GuardT2I_Defending_Text-to-Image_Models_from_Adversarial_Prompts.md)
 
     - [翻译: GuardT2I：针对对抗性文本提示对文本到图像模型的防御机制](2024年03月03日/GuardT2I_Defending_Text-to-Image_Models_from_Adversarial_Prompts.md)
@@ -1080,6 +1088,10 @@
 
     - [翻译: WaterMax 技术突破了 LLM 水印在可检测性、鲁棒性和生成文本质量间的固有折衷，实现了三者的兼顾优化。](2024年03月06日/WaterMax_breaking_the_LLM_watermark_detectability-robustness-quality_trade-off.md)
 
+- [Human I/O: Towards a Unified Approach to Detecting Situational Impairments](2024年03月06日/Human_IO_Towards_a_Unified_Approach_to_Detecting_Situational_Impairments.md)
+
+    - [翻译: Human I/O：致力于构建一种用于识别情境性功能障碍的综合方法](2024年03月06日/Human_IO_Towards_a_Unified_Approach_to_Detecting_Situational_Impairments.md)
+
 - [KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts](2024年03月07日/KnowledgeVIS_Interpreting_Language_Models_by_Comparing_Fill-in-the-Blank_Prompts.md)
 
     - [翻译: 知识可视化（KnowledgeVIS）：一种通过对比填空式提示，深入解读语言模型的新方法。](2024年03月07日/KnowledgeVIS_Interpreting_Language_Models_by_Comparing_Fill-in-the-Blank_Prompts.md)
@@ -1292,6 +1304,22 @@
 
     - [翻译: 本研究专注于评估LLMs在处理具有语法感知能力的代码中间填充任务时的表现。](2024年03月07日/Evaluation_of_LLMs_on_Syntax-Aware_Code_Fill-in-the-Middle_Tasks.md)
 
+- [Ducho 2.0: Towards a More Up-to-Date Feature Extraction and Processing Framework for Multimodal Recommendation](2024年03月07日/Ducho_2.0_Towards_a_More_Up-to-Date_Feature_Extraction_and_Processing_Framework_for_Multimodal_Recommendation.md)
+
+    - [翻译: Ducho 2.0，旨在构建一个面向最新技术的多模态推荐特征抽取与处理框架，力求在该领域实现更先进、更实时的性能提升。](2024年03月07日/Ducho_2.0_Towards_a_More_Up-to-Date_Feature_Extraction_and_Processing_Framework_for_Multimodal_Recommendation.md)
+
+- [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](2024年03月07日/TextMonkey_An_OCR-Free_Large_Multimodal_Model_for_Understanding_Document.md)
+
+    - [翻译: TextMonkey——一款突破性 OCR 限制的大型多模态模型，致力于深入理解和解析各类文档内容。](2024年03月07日/TextMonkey_An_OCR-Free_Large_Multimodal_Model_for_Understanding_Document.md)
+
+- [CoTBal: Comprehensive Task Balancing for Multi-Task Visual Instruction Tuning](2024年03月07日/CoTBal_Comprehensive_Task_Balancing_for_Multi-Task_Visual_Instruction_Tuning.md)
+
+    - [翻译: CoTBal 是一种针对多任务视觉指令调优的全新方法，致力于实现全面的任务平衡，以优化模型在不同视觉指令任务中的综合表现。](2024年03月07日/CoTBal_Comprehensive_Task_Balancing_for_Multi-Task_Visual_Instruction_Tuning.md)
+
+- [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](2024年03月07日/Towards_General_Computer_Control_A_Multimodal_Agent_for_Red_Dead_Redemption_II_as_a_Case_Study.md)
+
+    - [翻译: 为了探索通用计算机控制的可能性，我们以《荒野大镖客2》为例，设计并研发了一个多模态智能体进行深度探究。通过该游戏作为案例研究，旨在揭示多模态智能体在复杂环境下的控制能力与适应性。](2024年03月07日/Towards_General_Computer_Control_A_Multimodal_Agent_for_Red_Dead_Redemption_II_as_a_Case_Study.md)
+
 - [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](2024年03月08日/Gemini_1.5_Unlocking_multimodal_understanding_across_millions_of_tokens_of_context.md)
 
     - [翻译: Gemini 1.5 开启新篇章，跨过数百万个上下文标记，释放强大的多模态理解潜力](2024年03月08日/Gemini_1.5_Unlocking_multimodal_understanding_across_millions_of_tokens_of_context.md)
@@ -1464,6 +1492,10 @@
 
     - [翻译: 大型语言模型能否涉足游戏领域？我们通过一项以自我对弈法为切入点的案例研究，探索这一可能性。](2024年03月08日/Can_Large_Language_Models_Play_Games_A_Case_Study_of_A_Self-Play_Approach.md)
 
+- [Context-Based Multimodal Fusion](2024年03月08日/Context-Based_Multimodal_Fusion.md)
+
+    - [翻译: 情境化多模态融合技术，是指将不同模态的信息在特定语境下进行有效整合的过程。](2024年03月08日/Context-Based_Multimodal_Fusion.md)
+
 - [FrameQuant: Flexible Low-Bit Quantization for Transformers](2024年03月09日/FrameQuant_Flexible_Low-Bit_Quantization_for_Transformers.md)
 
     - [翻译: FrameQuant是一种针对Transformer设计的弹性低比特量化方案。](2024年03月09日/FrameQuant_Flexible_Low-Bit_Quantization_for_Transformers.md)
@@ -1611,6 +1643,14 @@
 - [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](2024年03月10日/RepoHyper_Better_Context_Retrieval_Is_All_You_Need_for_Repository-Level_Code_Completion.md)
 
     - [翻译: RepoHyper 提出，在仓库级别实现高效的代码补全，关键在于提升上下文检索能力，仅此一项改进就能满足需求。](2024年03月10日/RepoHyper_Better_Context_Retrieval_Is_All_You_Need_for_Repository-Level_Code_Completion.md)
+
+- [Can LLMs' Tuning Methods Work in Medical Multimodal Domain?](2024年03月10日/Can_LLMs'_Tuning_Methods_Work_in_Medical_Multimodal_Domain.md)
+
+    - [翻译: LLMs 的微调技术是否能在医学多模态领域奏效呢？](2024年03月10日/Can_LLMs'_Tuning_Methods_Work_in_Medical_Multimodal_Domain.md)
+
+- [Amharic LLaMA and LLaVA: Multimodal LLMs for Low Resource Languages](2024年03月10日/Amharic_LLaMA_and_LLaVA_Multimodal_LLMs_for_Low_Resource_Languages.md)
+
+    - [翻译: 针对低资源语言，我们推出了 Amharic LLaMA 和 LLaVA 多模态大型语言模型。这两个模型旨在为资源匮乏的语言提供强大的自然语言理解和生成能力，通过整合多种模态信息以提升性能表现。](2024年03月10日/Amharic_LLaMA_and_LLaVA_Multimodal_LLMs_for_Low_Resource_Languages.md)
 
 - [Development of a Reliable and Accessible Caregiving Language Model (CaLM)](2024年03月11日/Development_of_a_Reliable_and_Accessible_Caregiving_Language_Model_(CaLM).md)
 
@@ -1844,6 +1884,14 @@
 
     - [翻译: 本研究致力于在不依赖物体识别的前提下，精准描绘室内环境中的高层语义区域分布。](2024年03月11日/Mapping_High-level_Semantic_Regions_in_Indoor_Environments_without_Object_Recognition.md)
 
+- [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](2024年03月11日/The_Dawn_of_AI-Native_EDA_Promises_and_Challenges_of_Large_Circuit_Models.md)
+
+    - [翻译: 随着AI原生EDA时代的来临，大型电路模型展现出了诱人前景和艰巨挑战。本研究探讨这一新兴领域中大型电路模型带来的承诺以及所面临的难题。](2024年03月11日/The_Dawn_of_AI-Native_EDA_Promises_and_Challenges_of_Large_Circuit_Models.md)
+
+- [GuideGen: A Text-guided Framework for Joint CT Volume and Anatomical structure Generation](2024年03月11日/GuideGen_A_Text-guided_Framework_for_Joint_CT_Volume_and_Anatomical_structure_Generation.md)
+
+    - [翻译: GuideGen，一款创新的文本导向框架，专为协同生成CT体积数据与解剖结构而设计。](2024年03月11日/GuideGen_A_Text-guided_Framework_for_Joint_CT_Volume_and_Anatomical_structure_Generation.md)
+
 - [Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations](2024年03月12日/Transforming_Competition_into_Collaboration_The_Revolutionary_Role_of_Multi-Agent_Systems_and_Language_Models_in_Modern_Organizations.md)
 
     - [翻译: 在现代组织中，多智能体系统与语言模型正发挥着革命性的作用，它们能够巧妙地将竞争关系转变为协作模式。](2024年03月12日/Transforming_Competition_into_Collaboration_The_Revolutionary_Role_of_Multi-Agent_Systems_and_Language_Models_in_Modern_Organizations.md)
@@ -2067,6 +2115,10 @@
 - [Generating Clarification Questions for Disambiguating Contracts](2024年03月12日/Generating_Clarification_Questions_for_Disambiguating_Contracts.md)
 
     - [翻译: 为解决合同中的歧义，我们致力于生成有针对性的澄清问题。](2024年03月12日/Generating_Clarification_Questions_for_Disambiguating_Contracts.md)
+
+- [Training Small Multimodal Models to Bridge Biomedical Competency Gap: A Case Study in Radiology Imaging](2024年03月12日/Training_Small_Multimodal_Models_to_Bridge_Biomedical_Competency_Gap_A_Case_Study_in_Radiology_Imaging.md)
+
+    - [翻译: 为缩小生物医学领域的能力差距，我们进行了一项针对放射影像学的案例研究，通过训练小巧而强大的多模态模型来实现这一目标。](2024年03月12日/Training_Small_Multimodal_Models_to_Bridge_Biomedical_Competency_Gap_A_Case_Study_in_Radiology_Imaging.md)
 
 - [Simple and Scalable Strategies to Continually Pre-train Large Language Models](2024年03月13日/Simple_and_Scalable_Strategies_to_Continually_Pre-train_Large_Language_Models.md)
 
@@ -2475,3 +2527,7 @@
 - [Retrieval augmented text-to-SQL generation for epidemiological question answering using electronic health records](2024年03月14日/Retrieval_augmented_text-to-SQL_generation_for_epidemiological_question_answering_using_electronic_health_records.md)
 
     - [翻译: 本研究专注于利用电子健康记录，通过增强检索技术改进文本转SQL生成方法，应用于流行病学问题解答。](2024年03月14日/Retrieval_augmented_text-to-SQL_generation_for_epidemiological_question_answering_using_electronic_health_records.md)
+
+- [BjTT: A Large-scale Multimodal Dataset for Traffic Prediction](2024年03月14日/BjTT_A_Large-scale_Multimodal_Dataset_for_Traffic_Prediction.md)
+
+    - [翻译: BjTT 是一个专为交通预测打造的大规模多模态数据集，通过整合多元信息助力提升预测准确性。](2024年03月14日/BjTT_A_Large-scale_Multimodal_Dataset_for_Traffic_Prediction.md)
