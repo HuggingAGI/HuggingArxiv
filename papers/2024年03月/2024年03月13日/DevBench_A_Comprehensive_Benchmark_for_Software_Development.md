@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `软件开发` ``
+`LLM应用` `软件开发`
 
 > DevBench: A Comprehensive Benchmark for Software Development
 

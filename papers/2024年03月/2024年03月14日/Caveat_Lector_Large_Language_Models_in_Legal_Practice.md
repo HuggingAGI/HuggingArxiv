@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM理论` `` ``
+`LLM理论`
 
 > Caveat Lector: Large Language Models in Legal Practice
 

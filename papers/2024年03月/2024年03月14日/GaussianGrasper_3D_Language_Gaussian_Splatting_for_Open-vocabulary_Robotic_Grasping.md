@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `机器人` ``
+`Agent` `机器人`
 
 > GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping
 

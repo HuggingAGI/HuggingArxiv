@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `` `虚假信息检测`
+`LLM应用` `虚假信息检测`
 
 > Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors
 

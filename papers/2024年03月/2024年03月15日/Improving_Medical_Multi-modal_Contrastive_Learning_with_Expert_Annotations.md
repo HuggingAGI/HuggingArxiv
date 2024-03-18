@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `` `医学影像分析`
+`LLM应用` `医学影像分析`
 
 > Improving Medical Multi-modal Contrastive Learning with Expert Annotations
 

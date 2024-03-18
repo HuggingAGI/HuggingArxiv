@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM理论` `` `逻辑推理`
+`LLM理论` `逻辑推理`
 
 > Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance
 

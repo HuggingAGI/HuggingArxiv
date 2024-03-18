@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `社交机器人` ``
+`Agent` `社交机器人`
 
 > SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language Agents
 

@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM理论` `` `分布式计算`
+`LLM理论` `分布式计算`
 
 > BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences
 

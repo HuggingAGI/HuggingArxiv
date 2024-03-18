@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `搜索引擎` ``
+`LLM应用` `搜索引擎`
 
 > A Thorough Comparison of Cross-Encoders and LLMs for Reranking SPLADE
 

@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `音频处理` ``
+`LLM应用` `音频处理`
 
 > WavCraft: Audio Editing and Generation with Natural Language Prompts
 

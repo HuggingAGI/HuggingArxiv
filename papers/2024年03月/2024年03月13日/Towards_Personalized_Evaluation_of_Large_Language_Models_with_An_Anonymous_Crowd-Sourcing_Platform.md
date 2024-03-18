@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `` `模型评估`
+`Agent` `模型评估`
 
 > Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform
 

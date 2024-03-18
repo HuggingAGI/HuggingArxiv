@@ -2,7 +2,7 @@
 
 发布时间：2024年01月18日
 
-`LLM应用` `` ``
+`LLM应用`
 
 > Veagle: Advancements in Multimodal Representation Learning
 

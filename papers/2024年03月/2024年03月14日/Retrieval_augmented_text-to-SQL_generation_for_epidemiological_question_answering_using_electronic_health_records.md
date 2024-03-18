@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`RAG` `` `流行病学`
+`RAG` `流行病学`
 
 > Retrieval augmented text-to-SQL generation for epidemiological question answering using electronic health records
 

@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `` `计算机视觉` `异常检测`
+`Agent` `计算机视觉` `异常检测`
 
 > Anomaly Detection by Adapting a pre-trained Vision Language Model
 

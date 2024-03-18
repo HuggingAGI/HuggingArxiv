@@ -2,7 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用` `` `预训练模型`
+`LLM应用` `预训练模型`
 
 > Large Language Models are Contrastive Reasoners
 

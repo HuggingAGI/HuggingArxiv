@@ -2,7 +2,7 @@
 
 发布时间：2024年03月02日
 
-`LLM应用` `` `慢性疾病诊断`
+`LLM应用` `慢性疾病诊断`
 
 > Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data
 

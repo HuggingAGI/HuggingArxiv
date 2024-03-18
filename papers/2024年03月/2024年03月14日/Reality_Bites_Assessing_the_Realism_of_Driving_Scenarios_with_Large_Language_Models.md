@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `自动驾驶` ``
+`LLM应用` `自动驾驶`
 
 > Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models
 

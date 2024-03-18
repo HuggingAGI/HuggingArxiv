@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `计算机视觉` ``
+`Agent` `计算机视觉`
 
 > EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba
 

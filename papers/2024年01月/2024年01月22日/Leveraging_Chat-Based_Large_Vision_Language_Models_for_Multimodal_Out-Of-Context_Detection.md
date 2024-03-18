@@ -2,7 +2,7 @@
 
 发布时间：2024年01月22日
 
-`LLM应用` `图像识别` ``
+`LLM应用` `图像识别`
 
 > Leveraging Chat-Based Large Vision Language Models for Multimodal Out-Of-Context Detection
 

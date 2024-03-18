@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` `问答系统`
+`LLM应用` `问答系统`
 
 > Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge
 

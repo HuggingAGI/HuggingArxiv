@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `` ``
+`Agent`
 
 > TINA: Think, Interaction, and Action Framework for Zero-Shot Vision Language Navigation
 

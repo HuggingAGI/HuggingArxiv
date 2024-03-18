@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `` ``
+`Agent`
 
 > Sabiá-2: A New Generation of Portuguese Large Language Models
 

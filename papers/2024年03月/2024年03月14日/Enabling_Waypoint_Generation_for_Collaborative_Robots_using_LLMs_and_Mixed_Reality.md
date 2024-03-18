@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `机器人` ``
+`Agent` `机器人`
 
 > Enabling Waypoint Generation for Collaborative Robots using LLMs and Mixed Reality
 

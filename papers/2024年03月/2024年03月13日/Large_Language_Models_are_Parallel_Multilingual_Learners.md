@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `` `多语种模型`
+`LLM应用` `多语种模型`
 
 > Large Language Models are Parallel Multilingual Learners
 

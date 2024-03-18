@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `动画制作` ``
+`LLM应用` `动画制作`
 
 > Masked Generative Story Transformer with Character Guidance and Caption Augmentation
 

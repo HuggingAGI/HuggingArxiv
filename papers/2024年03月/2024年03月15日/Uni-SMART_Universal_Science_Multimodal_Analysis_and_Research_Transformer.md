@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `` `多模态分析`
+`LLM应用` `多模态分析`
 
 > Uni-SMART: Universal Science Multimodal Analysis and Research Transformer
 

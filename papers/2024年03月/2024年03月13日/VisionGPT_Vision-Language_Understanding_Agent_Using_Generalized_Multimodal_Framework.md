@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `计算机视觉` ``
+`LLM应用` `计算机视觉`
 
 > VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework
 

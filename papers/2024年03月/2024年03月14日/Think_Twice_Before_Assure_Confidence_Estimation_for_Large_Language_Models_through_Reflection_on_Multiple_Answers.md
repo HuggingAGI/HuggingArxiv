@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` `模型信任度评估`
+`LLM应用` `模型信任度评估`
 
 > Think Twice Before Assure: Confidence Estimation for Large Language Models through Reflection on Multiple Answers
 

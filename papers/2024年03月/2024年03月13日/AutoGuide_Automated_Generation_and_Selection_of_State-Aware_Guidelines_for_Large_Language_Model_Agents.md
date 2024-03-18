@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `智能体` ``
+`Agent` `智能体`
 
 > AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents
 

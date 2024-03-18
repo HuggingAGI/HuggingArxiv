@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM理论` `` ``
+`LLM理论`
 
 > The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models
 

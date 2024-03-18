@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `地理信息系统` ``
+`LLM应用` `地理信息系统`
 
 > Language to Map: Topological map generation from natural language path instructions
 

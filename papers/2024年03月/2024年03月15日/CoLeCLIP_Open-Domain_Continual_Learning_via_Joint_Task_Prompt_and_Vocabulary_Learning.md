@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent` `视觉识别` ``
+`Agent` `视觉识别`
 
 > CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning
 

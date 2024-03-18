@@ -2,7 +2,7 @@
 
 发布时间：2024年03月07日
 
-`Agent` `` `人工智能`
+`Agent` `人工智能`
 
 > Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study
 

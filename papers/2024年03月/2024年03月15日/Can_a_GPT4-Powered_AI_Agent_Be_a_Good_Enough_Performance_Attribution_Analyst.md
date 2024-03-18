@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent` `` `投资组合管理`
+`Agent` `投资组合管理`
 
 > Can a GPT4-Powered AI Agent Be a Good Enough Performance Attribution Analyst?
 

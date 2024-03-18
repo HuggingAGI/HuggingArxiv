@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `` ``
+`LLM应用`
 
 > MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models
 

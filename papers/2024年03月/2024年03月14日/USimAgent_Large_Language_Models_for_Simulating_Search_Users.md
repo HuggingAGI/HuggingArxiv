@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `信息检索` ``
+`Agent` `信息检索`
 
 > USimAgent: Large Language Models for Simulating Search Users
 

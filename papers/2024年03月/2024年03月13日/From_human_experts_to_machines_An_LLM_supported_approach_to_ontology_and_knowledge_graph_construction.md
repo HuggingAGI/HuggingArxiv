@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `知识图谱` ``
+`LLM应用` `知识图谱`
 
 > From human experts to machines: An LLM supported approach to ontology and knowledge graph construction
 

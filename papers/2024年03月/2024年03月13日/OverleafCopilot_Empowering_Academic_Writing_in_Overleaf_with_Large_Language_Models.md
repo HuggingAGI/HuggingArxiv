@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `学术写作` ``
+`LLM应用` `学术写作`
 
 > OverleafCopilot: Empowering Academic Writing in Overleaf with Large Language Models
 

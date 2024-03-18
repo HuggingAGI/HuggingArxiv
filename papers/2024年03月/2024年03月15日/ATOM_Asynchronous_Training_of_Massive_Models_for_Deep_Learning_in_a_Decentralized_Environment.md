@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent` `` `分布式系统`
+`Agent` `分布式系统`
 
 > ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment
 

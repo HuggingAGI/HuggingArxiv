@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` `量子计算`
+`LLM应用` `量子计算`
 
 > GPT on a Quantum Computer
 

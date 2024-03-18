@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` ``
+`LLM应用`
 
 > Comparing Rationality Between Large Language Models and Humans: Insights and Open Questions
 

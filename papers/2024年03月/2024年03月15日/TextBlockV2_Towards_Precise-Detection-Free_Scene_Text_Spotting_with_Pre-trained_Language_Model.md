@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `图像处理` ``
+`LLM应用` `图像处理`
 
 > TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model
 

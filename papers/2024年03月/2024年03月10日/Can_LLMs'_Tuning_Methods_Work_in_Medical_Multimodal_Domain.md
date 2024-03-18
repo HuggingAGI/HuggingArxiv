@@ -2,7 +2,7 @@
 
 发布时间：2024年03月10日
 
-`LLM应用` `` `迁移学习`
+`LLM应用` `迁移学习`
 
 > Can LLMs' Tuning Methods Work in Medical Multimodal Domain?
 

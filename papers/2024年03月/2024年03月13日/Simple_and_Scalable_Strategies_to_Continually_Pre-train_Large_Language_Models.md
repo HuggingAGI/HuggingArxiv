@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `` `持续学习`
+`LLM应用` `持续学习`
 
 > Simple and Scalable Strategies to Continually Pre-train Large Language Models
 

@@ -2,7 +2,7 @@
 
 发布时间：2024年03月12日
 
-`RAG` `知识系统` ``
+`RAG` `知识系统`
 
 > Investigating the performance of Retrieval-Augmented Generation and fine-tuning for the development of AI-driven knowledge-based systems
 

@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM理论` `` `模型解释`
+`LLM理论` `模型解释`
 
 > A Question on the Explainability of Large Language Models and the Word-Level Univariate First-Order Plausibility Assumption
 

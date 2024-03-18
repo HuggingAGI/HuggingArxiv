@@ -2,7 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用` `` `问答系统`
+`LLM应用` `问答系统`
 
 > MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension
 

@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `数据库` ``
+`LLM应用` `数据库`
 
 > Query Rewriting via Large Language Models
 

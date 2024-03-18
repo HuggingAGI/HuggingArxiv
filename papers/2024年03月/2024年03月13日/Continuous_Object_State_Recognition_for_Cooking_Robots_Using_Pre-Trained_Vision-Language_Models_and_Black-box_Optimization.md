@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `` `机器人技术`
+`Agent` `机器人技术`
 
 > Continuous Object State Recognition for Cooking Robots Using Pre-Trained Vision-Language Models and Black-box Optimization
 

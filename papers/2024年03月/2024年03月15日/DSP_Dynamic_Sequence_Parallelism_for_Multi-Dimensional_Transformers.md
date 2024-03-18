@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent` `` `视频处理`
+`Agent` `视频处理`
 
 > DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers
 

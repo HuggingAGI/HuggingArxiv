@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `小语种` ``
+`LLM应用` `小语种`
 
 > Komodo: A Linguistic Expedition into Indonesia's Regional Languages
 

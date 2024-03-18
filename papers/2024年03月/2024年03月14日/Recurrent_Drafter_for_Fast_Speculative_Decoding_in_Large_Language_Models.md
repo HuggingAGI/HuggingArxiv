@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `` `模型优化`
+`Agent` `模型优化`
 
 > Recurrent Drafter for Fast Speculative Decoding in Large Language Models
 

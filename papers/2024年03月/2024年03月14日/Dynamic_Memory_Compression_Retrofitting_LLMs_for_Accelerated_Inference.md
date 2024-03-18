@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` `计算机硬件（GPU）`
+`LLM应用` `计算机硬件（GPU）`
 
 > Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference
 

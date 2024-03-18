@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `` `船舶识别`
+`Agent` `船舶识别`
 
 > Efficient Prompt Tuning of Large Vision-Language Model for Fine-Grained Ship Classification
 

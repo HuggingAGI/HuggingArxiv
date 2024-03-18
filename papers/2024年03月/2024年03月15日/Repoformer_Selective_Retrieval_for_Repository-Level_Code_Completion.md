@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`RAG` `软件开发` ``
+`RAG` `软件开发`
 
 > Repoformer: Selective Retrieval for Repository-Level Code Completion
 

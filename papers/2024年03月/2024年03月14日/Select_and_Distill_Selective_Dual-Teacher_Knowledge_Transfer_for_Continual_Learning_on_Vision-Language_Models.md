@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` `持续学习`
+`LLM应用` `持续学习`
 
 > Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models
 

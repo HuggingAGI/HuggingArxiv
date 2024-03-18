@@ -2,7 +2,7 @@
 
 发布时间：2024年03月10日
 
-`LLM应用` `` `多模态` `低资源语言`
+`LLM应用` `多模态` `低资源语言`
 
 > Amharic LLaMA and LLaVA: Multimodal LLMs for Low Resource Languages
 

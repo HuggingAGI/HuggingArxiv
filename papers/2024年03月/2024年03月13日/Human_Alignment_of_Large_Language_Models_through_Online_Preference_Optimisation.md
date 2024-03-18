@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM理论` `` `人工智能安全`
+`LLM理论` `人工智能安全`
 
 > Human Alignment of Large Language Models through Online Preference Optimisation
 

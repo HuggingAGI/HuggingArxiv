@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `` ``
+`Agent`
 
 > HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback
 

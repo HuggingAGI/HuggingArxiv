@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` `安全与隐私保护`
+`LLM应用` `安全与隐私保护`
 
 > Logits of API-Protected LLMs Leak Proprietary Information
 

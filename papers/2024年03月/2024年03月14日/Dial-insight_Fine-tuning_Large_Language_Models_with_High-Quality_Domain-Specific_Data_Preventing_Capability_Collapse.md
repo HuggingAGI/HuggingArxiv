@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `房地产` ``
+`LLM应用` `房地产`
 
 > Dial-insight: Fine-tuning Large Language Models with High-Quality Domain-Specific Data Preventing Capability Collapse
 

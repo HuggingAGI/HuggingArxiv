@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `` ``
+`Agent`
 
 > TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning
 

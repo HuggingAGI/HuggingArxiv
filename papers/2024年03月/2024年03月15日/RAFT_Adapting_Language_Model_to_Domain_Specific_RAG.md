@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`RAG` `` `预训练模型`
+`RAG` `预训练模型`
 
 > RAFT: Adapting Language Model to Domain Specific RAG
 

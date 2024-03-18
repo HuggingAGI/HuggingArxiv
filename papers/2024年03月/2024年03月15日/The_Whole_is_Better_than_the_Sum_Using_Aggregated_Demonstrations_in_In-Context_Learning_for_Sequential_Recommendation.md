@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `推荐系统` ``
+`LLM应用` `推荐系统`
 
 > The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation
 

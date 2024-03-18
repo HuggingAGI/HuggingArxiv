@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `` `模型加速`
+`LLM应用` `模型加速`
 
 > Optimal Block-Level Draft Verification for Accelerating Speculative Decoding
 

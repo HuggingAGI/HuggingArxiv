@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `多模态` ``
+`LLM应用` `多模态`
 
 > MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training
 

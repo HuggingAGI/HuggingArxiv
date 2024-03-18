@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `` `性别偏见`
+`LLM应用` `性别偏见`
 
 > Evaluating LLMs for Gender Disparities in Notable Persons
 

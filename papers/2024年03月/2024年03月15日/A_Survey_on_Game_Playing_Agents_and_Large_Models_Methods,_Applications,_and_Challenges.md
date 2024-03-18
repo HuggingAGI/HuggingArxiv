@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent` `` `人工智能`
+`Agent` `人工智能`
 
 > A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges
 

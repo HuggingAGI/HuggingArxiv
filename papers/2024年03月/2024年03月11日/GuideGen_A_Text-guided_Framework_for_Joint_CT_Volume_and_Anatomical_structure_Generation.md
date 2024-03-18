@@ -2,7 +2,7 @@
 
 发布时间：2024年03月11日
 
-`Agent` `` `医学影像`
+`Agent` `医学影像`
 
 > GuideGen: A Text-guided Framework for Joint CT Volume and Anatomical structure Generation
 

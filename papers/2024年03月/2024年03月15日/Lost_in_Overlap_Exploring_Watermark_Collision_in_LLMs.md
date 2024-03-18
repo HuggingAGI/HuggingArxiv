@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `版权保护` ``
+`LLM应用` `版权保护`
 
 > Lost in Overlap: Exploring Watermark Collision in LLMs
 

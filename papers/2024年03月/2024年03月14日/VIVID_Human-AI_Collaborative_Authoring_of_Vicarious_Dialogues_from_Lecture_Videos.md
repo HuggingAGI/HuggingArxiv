@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用` `在线教育` ``
+`LLM应用` `在线教育`
 
 > VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos
 

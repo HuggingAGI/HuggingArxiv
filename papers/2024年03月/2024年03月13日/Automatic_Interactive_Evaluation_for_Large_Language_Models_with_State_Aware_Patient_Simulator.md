@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用` `` ``
+`LLM应用`
 
 > Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator
 

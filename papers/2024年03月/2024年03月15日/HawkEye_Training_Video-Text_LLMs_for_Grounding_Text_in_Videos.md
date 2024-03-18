@@ -2,7 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用` `视频理解` ``
+`LLM应用` `视频理解`
 
 > HawkEye: Training Video-Text LLMs for Grounding Text in Videos
 

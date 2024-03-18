@@ -2,7 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent` `` `智能交通系统`
+`Agent` `智能交通系统`
 
 > BjTT: A Large-scale Multimodal Dataset for Traffic Prediction
 

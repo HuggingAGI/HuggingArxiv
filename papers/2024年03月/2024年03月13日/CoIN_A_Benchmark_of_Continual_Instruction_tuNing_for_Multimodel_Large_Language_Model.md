@@ -2,7 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent` `` `持续学习`
+`Agent` `持续学习`
 
 > CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model
 
