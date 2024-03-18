@@ -2,11 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用`
-
-`语言学`
-
-`机器翻译`
+`LLM应用` `语言学` `机器翻译`
 
 > Embedded Translations for Low-resource Automated Glossing
 
@@ -29,3 +25,5 @@
 ![为解决低资源环境下自动术语注解问题，我们提出嵌入式翻译方法。该方法旨在利用嵌入技术，高效实现对稀有语言或词汇的精准翻译和注解。](../../../paper_images/2403.08189/attn-ddo2.drawio.png)
 
 ![为解决低资源环境下自动术语注解问题，我们提出嵌入式翻译方法。该方法旨在利用嵌入技术，高效实现对稀有语言或词汇的精准翻译和注解。](../../../paper_images/2403.08189/attention-usp2.drawio.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08189)

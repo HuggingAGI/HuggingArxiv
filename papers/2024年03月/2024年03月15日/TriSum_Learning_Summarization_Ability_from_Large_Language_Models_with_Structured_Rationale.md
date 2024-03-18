@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`文本摘要`
-
-`隐私保护`
+`LLM应用` `文本摘要` `隐私保护`
 
 > TriSum: Learning Summarization Ability from Large Language Models with Structured Rationale
 
@@ -33,3 +29,5 @@
 ![TriSum 方法致力于在大型语言模型中汲取摘要能力，借助结构化的推理方式实现这一目标。进一步细化步骤2的翻译：TriSum 是一项研究，它探索如何利用大型语言模型中的结构化推理机制来培养和提升文本摘要能力。](../../../paper_images/2403.10351/x9.png)
 
 ![TriSum 方法致力于在大型语言模型中汲取摘要能力，借助结构化的推理方式实现这一目标。进一步细化步骤2的翻译：TriSum 是一项研究，它探索如何利用大型语言模型中的结构化推理机制来培养和提升文本摘要能力。](../../../paper_images/2403.10351/x10.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10351)

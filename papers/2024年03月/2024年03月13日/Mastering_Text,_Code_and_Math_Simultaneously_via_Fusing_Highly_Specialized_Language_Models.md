@@ -2,13 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-``
-
-`多模态`
-
-`模型融合`
+`LLM应用` `` `多模态` `模型融合`
 
 > Mastering Text, Code and Math Simultaneously via Fusing Highly Specialized Language Models
 
@@ -61,3 +55,5 @@
 ![通过深度融合各领域的高度专业化语言模型，实现对文本、代码与数学的同时精通](../../../paper_images/2403.08281/x24.png)
 
 ![通过深度融合各领域的高度专业化语言模型，实现对文本、代码与数学的同时精通](../../../paper_images/2403.08281/x25.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08281)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`社交网络`
-
-`新闻传播`
+`Agent` `社交网络` `新闻传播`
 
 > From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News
 
@@ -23,3 +19,5 @@
 ![本研究模拟了人们对假新闻从怀疑到接受这一态度转变的动态过程。](../../../paper_images/2403.09498/x4.png)
 
 ![本研究模拟了人们对假新闻从怀疑到接受这一态度转变的动态过程。](../../../paper_images/2403.09498/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09498)

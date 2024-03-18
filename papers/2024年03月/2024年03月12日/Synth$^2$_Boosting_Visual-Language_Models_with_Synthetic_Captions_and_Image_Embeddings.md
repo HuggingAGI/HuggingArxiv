@@ -21,3 +21,5 @@
 ![Synth$^2$：借助于合成的图片说明和图像嵌入技术，有力地增强了视觉-语言模型的功能与性能。](../../../paper_images/2403.07750/hist_diversity.png)
 
 ![Synth$^2$：借助于合成的图片说明和图像嵌入技术，有力地增强了视觉-语言模型的功能与性能。](../../../paper_images/2403.07750/figure4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07750)

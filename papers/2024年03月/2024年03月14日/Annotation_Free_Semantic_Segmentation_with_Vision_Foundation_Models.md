@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`计算机视觉`
-
-``
+`Agent` `计算机视觉` ``
 
 > Annotation Free Semantic Segmentation with Vision Foundation Models
 
@@ -25,3 +21,5 @@
 ![利用视觉基础模型实现无需标注的语义分割技术](../../../paper_images/2403.09307/x5.png)
 
 ![利用视觉基础模型实现无需标注的语义分割技术](../../../paper_images/2403.09307/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09307)

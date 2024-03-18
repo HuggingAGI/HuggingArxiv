@@ -27,3 +27,5 @@
 ![本研究探讨人类和大型语言模型（LLMs）如何对视觉对象进行命名、细致描述以及量化处理。](../../../paper_images/2403.06935/frequency_quantifiers_2.png)
 
 ![本研究探讨人类和大型语言模型（LLMs）如何对视觉对象进行命名、细致描述以及量化处理。](../../../paper_images/2403.06935/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06935)

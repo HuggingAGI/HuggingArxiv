@@ -23,3 +23,5 @@
 ![ACLSum —— 专为科研论文打造的全新方面式摘要数据集](../../../paper_images/2403.05303/x6.png)
 
 ![ACLSum —— 专为科研论文打造的全新方面式摘要数据集](../../../paper_images/2403.05303/inception.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05303)

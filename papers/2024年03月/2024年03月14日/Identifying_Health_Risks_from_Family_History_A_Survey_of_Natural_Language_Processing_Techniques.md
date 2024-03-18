@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-``
+`LLM应用` `` ``
 
 > Identifying Health Risks from Family History: A Survey of Natural Language Processing Techniques
 
@@ -22,3 +18,5 @@
 ![本研究针对通过家庭史识别健康风险这一主题，对自然语言处理技术进行了全面梳理和探讨。](../../../paper_images/2403.09997/x3.png)
 
 ![本研究针对通过家庭史识别健康风险这一主题，对自然语言处理技术进行了全面梳理和探讨。](../../../paper_images/2403.09997/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09997)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`对话系统`
-
-`多模态`
+`LLM应用` `对话系统` `多模态`
 
 > Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization
 
@@ -27,3 +23,5 @@
 ![运用引导式偏好优化策略，提升多模态大型语言模型的表现力和效能。](../../../paper_images/2403.08730/curves.jpg)
 
 ![运用引导式偏好优化策略，提升多模态大型语言模型的表现力和效能。](../../../paper_images/2403.08730/sizes.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.08730)

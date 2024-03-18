@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`量子计算`
+`LLM应用` `` `量子计算`
 
 > GPT on a Quantum Computer
 
@@ -41,3 +37,5 @@
 ![GPT 与量子计算的邂逅：探究 GPT 在量子计算机环境下的表现与应用](../../../paper_images/2403.09418/x13.png)
 
 ![GPT 与量子计算的邂逅：探究 GPT 在量子计算机环境下的表现与应用](../../../paper_images/2403.09418/x14.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09418)

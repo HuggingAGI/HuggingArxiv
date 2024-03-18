@@ -47,3 +47,5 @@
 ![为了在单个GPU上有效且高效地进行百亿模型的微调，我们引入了NVMe SSD技术。这一举措旨在助力并大幅提升大型模型在单一GPU环境下的微调速度。](../../../paper_images/2403.06504/throughput_dollars.png)
 
 ![为了在单个GPU上有效且高效地进行百亿模型的微调，我们引入了NVMe SSD技术。这一举措旨在助力并大幅提升大型模型在单一GPU环境下的微调速度。](../../../paper_images/2403.06504/throughput_dollars_full.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06504)

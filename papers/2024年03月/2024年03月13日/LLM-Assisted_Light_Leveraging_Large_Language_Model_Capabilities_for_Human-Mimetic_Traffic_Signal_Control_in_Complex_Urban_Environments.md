@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`交通管理`
-
-`信号控制`
+`LLM应用` `交通管理` `信号控制`
 
 > LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments
 
@@ -39,3 +35,5 @@
 ![在复杂的城市环境中，我们提出了一项利用大型语言模型（LLM）能力来实现仿真人智能的交通信号控制系统——LLM辅助式智慧信号灯，以应对复杂的交通环境挑战。](../../../paper_images/2403.08337/x12.png)
 
 ![在复杂的城市环境中，我们提出了一项利用大型语言模型（LLM）能力来实现仿真人智能的交通信号控制系统——LLM辅助式智慧信号灯，以应对复杂的交通环境挑战。](../../../paper_images/2403.08337/x13.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08337)

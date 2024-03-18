@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`视频理解`
-
-``
+`LLM应用` `视频理解` ``
 
 > HawkEye: Training Video-Text LLMs for Grounding Text in Videos
 
@@ -33,3 +29,5 @@
 ![HawkEye项目致力于训练能够将文本内容有效定位到对应视频片段的视频-文本大型语言模型。](../../../paper_images/2403.10228/x10.png)
 
 ![HawkEye项目致力于训练能够将文本内容有效定位到对应视频片段的视频-文本大型语言模型。](../../../paper_images/2403.10228/x11.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10228)

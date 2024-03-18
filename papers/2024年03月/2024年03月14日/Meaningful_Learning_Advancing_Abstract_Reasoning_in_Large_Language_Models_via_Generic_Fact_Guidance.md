@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM理论`
-
-``
-
-`逻辑推理`
+`LLM理论` `` `逻辑推理`
 
 > Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance
 
@@ -21,3 +17,5 @@
 ![借助通用事实引导，促进大型语言模型在抽象推理方面的提升——“有意义学习”崭新探索](../../../paper_images/2403.09085/x3.png)
 
 ![借助通用事实引导，促进大型语言模型在抽象推理方面的提升——“有意义学习”崭新探索](../../../paper_images/2403.09085/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09085)

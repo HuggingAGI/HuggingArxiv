@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`图像处理`
-
-``
+`LLM应用` `图像处理` ``
 
 > TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model
 
@@ -29,3 +25,5 @@
 ![TextBlockV2：迈向基于预训练语言模型、无需精细检测的精准场景文字识别技术](../../../paper_images/2403.10047/x7.png)
 
 ![TextBlockV2：迈向基于预训练语言模型、无需精细检测的精准场景文字识别技术](../../../paper_images/2403.10047/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10047)

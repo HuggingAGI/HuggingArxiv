@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-``
-
-`模型微调`
+`LLM应用` `` `模型微调`
 
 > Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning
 
@@ -23,3 +19,5 @@
 ![本研究提出一种面向数据的动态微调参数选取策略，专为FISH Mask高效微调设计。该策略旨在针对不同的数据集特性，智能地选取并调整FISH Mask模型的微调参数，以实现更高效、精准的模型优化。](../../../paper_images/2403.08484/x4.png)
 
 ![本研究提出一种面向数据的动态微调参数选取策略，专为FISH Mask高效微调设计。该策略旨在针对不同的数据集特性，智能地选取并调整FISH Mask模型的微调参数，以实现更高效、精准的模型优化。](../../../paper_images/2403.08484/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08484)

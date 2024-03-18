@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`性别偏见`
-
-`生成式AI`
+`LLM应用` `性别偏见` `生成式AI`
 
 > Non-discrimination Criteria for Generative Language Models
 
@@ -23,3 +19,5 @@
 ![针对生成式语言模型，探究其应遵循的非歧视性准则。](../../../paper_images/2403.08564/x3.png)
 
 ![针对生成式语言模型，探究其应遵循的非歧视性准则。](../../../paper_images/2403.08564/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08564)

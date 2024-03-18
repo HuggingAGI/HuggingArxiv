@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`机器人`
-
-`地图理解`
+`Agent` `机器人` `地图理解`
 
 > Empowering Robotics with Large Language Models: osmAG Map Comprehension with LLMs
 
@@ -29,3 +25,5 @@
 ![借助大型语言模型的力量，我们正在革新机器人技术领域，特别是在运用LLMs实现对osmAG地图的深度理解方面。](../../../paper_images/2403.08228/x3.png)
 
 ![借助大型语言模型的力量，我们正在革新机器人技术领域，特别是在运用LLMs实现对osmAG地图的深度理解方面。](../../../paper_images/2403.08228/loss.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08228)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-``
+`LLM应用` `` ``
 
 > Comparing Rationality Between Large Language Models and Humans: Insights and Open Questions
 
@@ -15,3 +11,5 @@
 > This paper delves into the dynamic landscape of artificial intelligence, specifically focusing on the burgeoning prominence of large language models (LLMs). We underscore the pivotal role of Reinforcement Learning from Human Feedback (RLHF) in augmenting LLMs' rationality and decision-making prowess. By meticulously examining the intricate relationship between human interaction and LLM behavior, we explore questions surrounding rationality and performance disparities between humans and LLMs, with particular attention to the Chat Generative Pre-trained Transformer. Our research employs comprehensive comparative analysis and delves into the inherent challenges of irrationality in LLMs, offering valuable insights and actionable strategies for enhancing their rationality. These findings hold significant implications for the widespread adoption of LLMs across diverse domains and applications, underscoring their potential to catalyze advancements in artificial intelligence.
 
 ![探究大型语言模型与人类在理性层面的对比，揭示其中的深刻洞见与亟待解答的问题。](../../../paper_images/2403.09798/COM.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09798)

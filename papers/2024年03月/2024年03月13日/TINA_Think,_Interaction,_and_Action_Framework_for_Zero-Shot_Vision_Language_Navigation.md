@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-``
-
-``
+`Agent` `` ``
 
 > TINA: Think, Interaction, and Action Framework for Zero-Shot Vision Language Navigation
 
@@ -23,3 +19,5 @@
 ![TINA 是一个专为零样本视觉语言导航设计的框架，涵盖了思考（Think）、交互（Interaction）和行动（Action）三个关键维度。](../../../paper_images/2403.08833/prompt.png)
 
 ![TINA 是一个专为零样本视觉语言导航设计的框架，涵盖了思考（Think）、交互（Interaction）和行动（Action）三个关键维度。](../../../paper_images/2403.08833/qaivis2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08833)

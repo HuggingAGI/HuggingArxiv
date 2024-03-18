@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`知识图谱`
-
-``
+`LLM应用` `知识图谱` ``
 
 > From human experts to machines: An LLM supported approach to ontology and knowledge graph construction
 
@@ -17,3 +13,5 @@
 ![跃迁至机器智能：运用大型语言模型助力本体与知识图谱构建之旅](../../../paper_images/2403.08345/x1.png)
 
 ![跃迁至机器智能：运用大型语言模型助力本体与知识图谱构建之旅](../../../paper_images/2403.08345/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08345)

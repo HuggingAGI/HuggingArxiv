@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`社会学`
-
-`人工智能`
+`Agent` `社会学` `人工智能`
 
 > Emergence of Social Norms in Large Language Model-based Agent Societies
 
@@ -57,3 +53,5 @@
 ![探究大型语言模型驱动的智能体社会中社会规范如何自然形成与发展](../../../paper_images/2403.08251/x21.png)
 
 ![探究大型语言模型驱动的智能体社会中社会规范如何自然形成与发展](../../../paper_images/2403.08251/x22.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08251)

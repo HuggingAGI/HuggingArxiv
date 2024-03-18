@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM理论`
-
-``
-
-`人工智能安全`
+`LLM理论` `` `人工智能安全`
 
 > Human Alignment of Large Language Models through Online Preference Optimisation
 
@@ -26,3 +22,5 @@
 ![借助在线偏好优化技术，本研究探讨如何实现大型语言模型与人类需求的精准对齐。](../../../paper_images/2403.08635/IPO-MD-Mixture-sweep-20k.png)
 
 ![借助在线偏好优化技术，本研究探讨如何实现大型语言模型与人类需求的精准对齐。](../../../paper_images/2403.08635/x1.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08635)

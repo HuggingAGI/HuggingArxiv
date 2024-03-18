@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`计算机视觉`
-
-``
+`LLM应用` `计算机视觉` ``
 
 > VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework
 
@@ -87,3 +83,5 @@
 ![VisionGPT 是一款基于通用多模态框架构建的视觉-语言理解利器，旨在高效融合视觉与语言信息，实现深度理解。](../../../paper_images/2403.09027/G_sky_src.jpg)
 
 ![VisionGPT 是一款基于通用多模态框架构建的视觉-语言理解利器，旨在高效融合视觉与语言信息，实现深度理解。](../../../paper_images/2403.09027/G_sky_res.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.09027)

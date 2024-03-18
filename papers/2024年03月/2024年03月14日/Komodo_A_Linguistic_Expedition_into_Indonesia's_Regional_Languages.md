@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`小语种`
-
-``
+`LLM应用` `小语种` ``
 
 > Komodo: A Linguistic Expedition into Indonesia's Regional Languages
 
@@ -29,3 +25,5 @@
 ![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/manual_instructions.png)
 
 ![Komodo项目：一场探索印尼区域语言的深度语言学之旅](../../../paper_images/2403.09362/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09362)

@@ -23,3 +23,5 @@
 ![探索大型语言模型在过程建模中的应用](../../../paper_images/2403.07541/hotel_gemini_model_1_feedback_1.png)
 
 ![探索大型语言模型在过程建模中的应用](../../../paper_images/2403.07541/TA_hotel_model.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07541)

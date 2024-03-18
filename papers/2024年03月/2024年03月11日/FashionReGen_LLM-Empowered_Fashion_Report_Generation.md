@@ -15,3 +15,5 @@
 ![FashionReGen：借助LLM力量，革新时尚报告自动生成领域](../../../paper_images/2403.06660/x2.png)
 
 ![FashionReGen：借助LLM力量，革新时尚报告自动生成领域](../../../paper_images/2403.06660/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06660)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`天体物理`
-
-`数值模拟`
+`Agent` `天体物理` `数值模拟`
 
 > Positive Lynden-Bell derivative as a ticket to the bar trap?
 
@@ -101,3 +97,5 @@
 ![正值的Lynden-Bell导数，是否意味着通往“粒子陷阱”酒吧的入场券？](../../../paper_images/2403.08326/Lz_omega-kappa_2_normabnorm_400.png)
 
 ![正值的Lynden-Bell导数，是否意味着通往“粒子陷阱”酒吧的入场券？](../../../paper_images/2403.08326/xyxz_normal_abnormal_t400_0.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08326)

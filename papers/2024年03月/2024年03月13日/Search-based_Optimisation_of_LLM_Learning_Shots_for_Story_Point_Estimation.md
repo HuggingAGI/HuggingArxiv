@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`软件工程`
-
-`敏捷开发`
+`LLM应用` `软件工程` `敏捷开发`
 
 > Search-based Optimisation of LLM Learning Shots for Story Point Estimation
 
@@ -19,3 +15,5 @@
 ![针对故事点估算任务，我们提出了一种通过搜索策略优化大型语言模型（LLM）学习次数的方法，旨在提升其估算效能。](../../../paper_images/2403.08430/x2.png)
 
 ![针对故事点估算任务，我们提出了一种通过搜索策略优化大型语言模型（LLM）学习次数的方法，旨在提升其估算效能。](../../../paper_images/2403.08430/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08430)

@@ -13,3 +13,5 @@
 ![通过利用外部代理指标的反馈，语言模型能够实现自我优化和提升。](../../../paper_images/2403.00827/schematic.png)
 
 ![通过利用外部代理指标的反馈，语言模型能够实现自我优化和提升。](../../../paper_images/2403.00827/gpt4-as-a-judge-updated-ppt.png)
+
+[Arxiv](https://arxiv.org/abs/2403.00827)

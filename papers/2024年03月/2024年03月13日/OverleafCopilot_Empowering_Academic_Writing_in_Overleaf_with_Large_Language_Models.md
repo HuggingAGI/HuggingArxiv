@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`学术写作`
-
-``
+`LLM应用` `学术写作` ``
 
 > OverleafCopilot: Empowering Academic Writing in Overleaf with Large Language Models
 
@@ -19,3 +15,5 @@
 ![OverleafCopilot：借助大型语言模型的力量，让 Overleaf 上的学术写作如虎添翼步骤详解：](../../../paper_images/2403.09733/pub-sub.png)
 
 ![OverleafCopilot：借助大型语言模型的力量，让 Overleaf 上的学术写作如虎添翼步骤详解：](../../../paper_images/2403.09733/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09733)

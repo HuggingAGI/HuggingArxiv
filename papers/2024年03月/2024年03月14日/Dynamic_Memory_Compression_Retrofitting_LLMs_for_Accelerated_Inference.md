@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`计算机硬件（GPU）`
+`LLM应用` `` `计算机硬件（GPU）`
 
 > Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference
 
@@ -51,3 +47,5 @@
 ![动态内存压缩技术应用于LLMs，旨在实现快速推理优化。这项技术是对大型语言模型进行改造升级，以适应更高效的推理需求。](../../../paper_images/2403.09636/x18.png)
 
 ![动态内存压缩技术应用于LLMs，旨在实现快速推理优化。这项技术是对大型语言模型进行改造升级，以适应更高效的推理需求。](../../../paper_images/2403.09636/x19.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09636)

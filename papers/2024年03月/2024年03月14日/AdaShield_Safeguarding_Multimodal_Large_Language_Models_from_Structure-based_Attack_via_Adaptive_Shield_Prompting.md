@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`人工智能安全`
-
-`多模态模型`
+`LLM应用` `人工智能安全` `多模态模型`
 
 > AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting
 
@@ -25,3 +21,5 @@
 ![AdaShield方案：针对多模态大型语言模型，利用自适应防护提示技术有效抵御基于结构的攻击威胁。](../../../paper_images/2403.09513/x5.png)
 
 ![AdaShield方案：针对多模态大型语言模型，利用自适应防护提示技术有效抵御基于结构的攻击威胁。](../../../paper_images/2403.09513/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09513)

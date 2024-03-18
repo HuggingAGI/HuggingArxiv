@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM理论`
-
-``
-
-`数据挖掘`
+`LLM理论` `` `数据挖掘`
 
 > Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages
 
@@ -17,3 +13,5 @@
 ![语言模型对文本质量有多在意？我们针对 11 种语言的网络抓取语料库进行评估，以探究其对文本质量的关注程度。](../../../paper_images/2403.08693/x1.png)
 
 ![语言模型对文本质量有多在意？我们针对 11 种语言的网络抓取语料库进行评估，以探究其对文本质量的关注程度。](../../../paper_images/2403.08693/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08693)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月12日
 
-`RAG`
-
-`知识系统`
-
-``
+`RAG` `知识系统` ``
 
 > Investigating the performance of Retrieval-Augmented Generation and fine-tuning for the development of AI-driven knowledge-based systems
 
@@ -21,3 +17,5 @@
 ![本研究探讨了检索增强生成与微调技术在构建AI驱动的知识系统中的性能表现，旨在深入理解并提升相关系统的效能。](../../../paper_images/2403.09727/fig54_de_urbanm_result.png)
 
 ![本研究探讨了检索增强生成与微调技术在构建AI驱动的知识系统中的性能表现，旨在深入理解并提升相关系统的效能。](../../../paper_images/2403.09727/fig51_de_process.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09727)

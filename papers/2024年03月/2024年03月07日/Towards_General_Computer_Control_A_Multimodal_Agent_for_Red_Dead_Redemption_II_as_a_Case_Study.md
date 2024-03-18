@@ -2,11 +2,7 @@
 
 发布时间：2024年03月07日
 
-`Agent`
-
-``
-
-`人工智能`
+`Agent` `` `人工智能`
 
 > Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study
 
@@ -87,3 +83,5 @@
 ![为了探索通用计算机控制的可能性，我们以《荒野大镖客2》为例，设计并研发了一个多模态智能体进行深度探究。通过该游戏作为案例研究，旨在揭示多模态智能体在复杂环境下的控制能力与适应性。](../../../paper_images/2403.03186/23_Talk_to_shopkeeper.jpeg)
 
 ![为了探索通用计算机控制的可能性，我们以《荒野大镖客2》为例，设计并研发了一个多模态智能体进行深度探究。通过该游戏作为案例研究，旨在揭示多模态智能体在复杂环境下的控制能力与适应性。](../../../paper_images/2403.03186/24_Buy_target_product.jpeg)
+
+[Arxiv](https://arxiv.org/abs/2403.03186)

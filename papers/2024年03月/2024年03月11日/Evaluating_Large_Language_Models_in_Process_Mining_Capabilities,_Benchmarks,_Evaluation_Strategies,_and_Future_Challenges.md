@@ -11,3 +11,5 @@
 > Using Large Language Models (LLMs) for Process Mining (PM) tasks is becoming increasingly essential, and initial approaches yield promising results. However, little attention has been given to developing strategies for evaluating and benchmarking the utility of incorporating LLMs into PM tasks. This paper reviews the current implementations of LLMs in PM and reflects on three different questions. 1) What is the minimal set of capabilities required for PM on LLMs? 2) Which benchmark strategies help choose optimal LLMs for PM? 3) How do we evaluate the output of LLMs on specific PM tasks? The answer to these questions is fundamental to the development of comprehensive process mining benchmarks on LLMs covering different tasks and implementation paradigms.
 
 ![本研究探讨了大型语言模型在流程挖掘领域的表现，内容涵盖其功能特性、基准测试、评估策略以及未来所面临的挑战。](../../../paper_images/2403.06749/paper_outline2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06749)

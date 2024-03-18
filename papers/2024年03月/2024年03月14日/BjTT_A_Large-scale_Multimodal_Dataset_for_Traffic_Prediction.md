@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-``
-
-`智能交通系统`
+`Agent` `` `智能交通系统`
 
 > BjTT: A Large-scale Multimodal Dataset for Traffic Prediction
 
@@ -29,3 +25,5 @@
 ![BjTT 是一个专为交通预测打造的大规模多模态数据集，通过整合多元信息助力提升预测准确性。](../../../paper_images/2403.05029/x7.png)
 
 ![BjTT 是一个专为交通预测打造的大规模多模态数据集，通过整合多元信息助力提升预测准确性。](../../../paper_images/2403.05029/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05029)

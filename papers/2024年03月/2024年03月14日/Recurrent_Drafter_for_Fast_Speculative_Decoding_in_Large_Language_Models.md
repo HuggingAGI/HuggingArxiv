@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-``
-
-`模型优化`
+`Agent` `` `模型优化`
 
 > Recurrent Drafter for Fast Speculative Decoding in Large Language Models
 
@@ -29,3 +25,5 @@
 ![针对大型语言模型，一种名为“循环草稿器”的技术被应用于快速推测性解码过程。](../../../paper_images/2403.09919/x7.png)
 
 ![针对大型语言模型，一种名为“循环草稿器”的技术被应用于快速推测性解码过程。](../../../paper_images/2403.09919/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09919)

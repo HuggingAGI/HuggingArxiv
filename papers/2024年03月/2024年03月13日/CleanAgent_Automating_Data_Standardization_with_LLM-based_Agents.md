@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`数据科学`
-
-``
+`Agent` `数据科学` ``
 
 > CleanAgent: Automating Data Standardization with LLM-based Agents
 
@@ -21,3 +17,5 @@
 ![CleanAgent是一款利用大型语言模型（LLM）构建的数据标准化自动化工具，它借助LLM智能代理技术，实现高效、自动化的数据清洗与标准化。](../../../paper_images/2403.08291/x3.png)
 
 ![CleanAgent是一款利用大型语言模型（LLM）构建的数据标准化自动化工具，它借助LLM智能代理技术，实现高效、自动化的数据清洗与标准化。](../../../paper_images/2403.08291/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08291)

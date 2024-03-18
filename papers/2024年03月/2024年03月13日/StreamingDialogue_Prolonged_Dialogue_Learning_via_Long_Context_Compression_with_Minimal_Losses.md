@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`对话系统`
-
-``
+`LLM应用` `对话系统` ``
 
 > StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses
 
@@ -33,3 +29,5 @@
 ![StreamingDialogue 方法借助于最小损失的长上下文高效压缩技术，实现了对话模型对长时间、连续对话的深入学习。](../../../paper_images/2403.08312/x9.png)
 
 ![StreamingDialogue 方法借助于最小损失的长上下文高效压缩技术，实现了对话模型对长时间、连续对话的深入学习。](../../../paper_images/2403.08312/x10.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08312)

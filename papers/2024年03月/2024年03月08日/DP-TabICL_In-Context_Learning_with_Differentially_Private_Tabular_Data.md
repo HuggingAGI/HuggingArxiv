@@ -15,3 +15,5 @@
 ![DP-TabICL：探索在带有差分隐私保护的表格数据环境中进行上下文学习的能力](../../../paper_images/2403.05681/gdp-tabicl-ablation-adult-13b.png)
 
 ![DP-TabICL：探索在带有差分隐私保护的表格数据环境中进行上下文学习的能力](../../../paper_images/2403.05681/gdp-tabicl-ablation-heart-13b.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05681)

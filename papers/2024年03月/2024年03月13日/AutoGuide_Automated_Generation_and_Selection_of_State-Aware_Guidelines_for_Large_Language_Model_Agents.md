@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`智能体`
-
-``
+`Agent` `智能体` ``
 
 > AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents
 
@@ -43,3 +39,5 @@
 ![AutoGuide 是一项技术，它能自动为大型语言模型智能体生成并优选具备状态感知能力的操作指南。](../../../paper_images/2403.08978/x14.png)
 
 ![AutoGuide 是一项技术，它能自动为大型语言模型智能体生成并优选具备状态感知能力的操作指南。](../../../paper_images/2403.08978/x15.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08978)

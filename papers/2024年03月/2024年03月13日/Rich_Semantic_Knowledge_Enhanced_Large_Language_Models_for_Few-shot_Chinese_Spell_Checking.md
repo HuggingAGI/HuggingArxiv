@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`语音识别`
-
-`光学字符识别`
+`LLM应用` `语音识别` `光学字符识别`
 
 > Rich Semantic Knowledge Enhanced Large Language Models for Few-shot Chinese Spell Checking
 
@@ -39,3 +35,5 @@
 ![通过融入丰富语义知识以提升大型语言模型能力，我们致力于实现针对少量样本的高效中文拼写纠错。](../../../paper_images/2403.08492/x12.png)
 
 ![通过融入丰富语义知识以提升大型语言模型能力，我们致力于实现针对少量样本的高效中文拼写纠错。](../../../paper_images/2403.08492/x13.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08492)

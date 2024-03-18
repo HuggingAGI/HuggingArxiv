@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-``
-
-`持续学习`
+`Agent` `` `持续学习`
 
 > CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model
 
@@ -17,3 +13,5 @@
 ![CoIN 是一个针对多模态大型语言模型的连续指令优化基准，旨在衡量和推进此类模型在不断学习和适应新指令任务中的性能。](../../../paper_images/2403.08350/x1.png)
 
 ![CoIN 是一个针对多模态大型语言模型的连续指令优化基准，旨在衡量和推进此类模型在不断学习和适应新指令任务中的性能。](../../../paper_images/2403.08350/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08350)

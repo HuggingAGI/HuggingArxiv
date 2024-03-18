@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`机器人`
-
-`导航系统`
+`Agent` `机器人` `导航系统`
 
 > Advancing Object Goal Navigation Through LLM-enhanced Object Affinities Transfer
 
@@ -29,3 +25,5 @@
 ![本研究借助LLM强化的对象亲和力转移技术，推进物体目标导航的发展。](../../../paper_images/2403.09971/x7.png)
 
 ![本研究借助LLM强化的对象亲和力转移技术，推进物体目标导航的发展。](../../../paper_images/2403.09971/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09971)

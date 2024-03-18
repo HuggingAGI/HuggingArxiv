@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`软件工程`
-
-`安全性分析`
+`Agent` `软件工程` `安全性分析`
 
 > An Extensible Framework for Architecture-Based Data Flow Analysis for Information Security
 
@@ -25,3 +21,5 @@
 ![为探究信息安全中的数据流动规律，我们提出了一种灵活可扩展的架构导向数据流分析框架。](../../../paper_images/2403.09402/x4.png)
 
 ![为探究信息安全中的数据流动规律，我们提出了一种灵活可扩展的架构导向数据流分析框架。](../../../paper_images/2403.09402/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09402)

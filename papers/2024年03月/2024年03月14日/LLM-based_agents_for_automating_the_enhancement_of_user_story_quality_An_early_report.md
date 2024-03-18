@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`敏捷开发`
-
-`人工智能`
+`Agent` `敏捷开发` `人工智能`
 
 > LLM-based agents for automating the enhancement of user story quality: An early report
 
@@ -23,3 +19,5 @@
 ![一份早期报告显示，利用 LLM 技术开发的智能代理能够实现用户故事质量的自动化优化。](../../../paper_images/2403.09442/ALAS_implementation.png)
 
 ![一份早期报告显示，利用 LLM 技术开发的智能代理能够实现用户故事质量的自动化优化。](../../../paper_images/2403.09442/ratings_of_7_quality_statements.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09442)

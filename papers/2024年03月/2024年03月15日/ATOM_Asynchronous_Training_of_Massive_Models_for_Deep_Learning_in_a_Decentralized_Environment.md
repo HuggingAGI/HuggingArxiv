@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-``
-
-`分布式系统`
+`Agent` `` `分布式系统`
 
 > ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment
 
@@ -61,3 +57,5 @@
 ![ATOM 技术专为去中心化环境中的深度学习设计，实现了大规模模型的异步训练，赋予其高效处理能力。](../../../paper_images/2403.10504/x23.png)
 
 ![ATOM 技术专为去中心化环境中的深度学习设计，实现了大规模模型的异步训练，赋予其高效处理能力。](../../../paper_images/2403.10504/x24.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10504)

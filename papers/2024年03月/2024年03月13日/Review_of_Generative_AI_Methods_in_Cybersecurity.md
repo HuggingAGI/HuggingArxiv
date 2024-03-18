@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`网络安全`
-
-`人工智能`
+`LLM应用` `网络安全` `人工智能`
 
 > Review of Generative AI Methods in Cybersecurity
 
@@ -47,3 +43,5 @@
 ![本文将对应用于网络安全领域的生成式人工智能方法进行全面探讨和评析。](../../../paper_images/2403.08701/rootkit.png)
 
 ![本文将对应用于网络安全领域的生成式人工智能方法进行全面探讨和评析。](../../../paper_images/2403.08701/dataex.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08701)

@@ -21,3 +21,5 @@
 ![AutoDefense：一款针对越狱攻击设计的多智能体防御方案，专门用于保护大型语言模型（LLM）的安全。](../../../paper_images/2403.04783/x5.png)
 
 ![AutoDefense：一款针对越狱攻击设计的多智能体防御方案，专门用于保护大型语言模型（LLM）的安全。](../../../paper_images/2403.04783/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04783)

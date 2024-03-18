@@ -13,3 +13,5 @@
 ![HILL，一款专为大型语言模型设计的幻觉检测工具。](../../../paper_images/2403.06710/x1.png)
 
 ![HILL，一款专为大型语言模型设计的幻觉检测工具。](../../../paper_images/2403.06710/Screenshot_Prototype_1.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06710)

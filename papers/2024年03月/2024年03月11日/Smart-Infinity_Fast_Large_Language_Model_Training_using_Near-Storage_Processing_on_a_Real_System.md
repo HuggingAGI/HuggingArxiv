@@ -43,3 +43,5 @@
 ![Smart-Infinity：通过在真实系统中应用近存储处理技术，实现大型语言模型的高效快速训练](../../../paper_images/2403.06664/x16.png)
 
 ![Smart-Infinity：通过在真实系统中应用近存储处理技术，实现大型语言模型的高效快速训练](../../../paper_images/2403.06664/x17.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06664)

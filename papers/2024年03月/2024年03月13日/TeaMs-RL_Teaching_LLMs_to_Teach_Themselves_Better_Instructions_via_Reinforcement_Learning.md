@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-``
-
-``
+`Agent` `` ``
 
 > TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning
 
@@ -25,3 +21,5 @@
 ![TeaMs-RL项目利用强化学习，让大型语言模型（LLMs）学会自我优化和改进指令。这项研究旨在通过RL机制使LLMs能够更有效地进行自我教学，不断提升其理解与生成高质量指令的能力。](../../../paper_images/2403.08694/x5.png)
 
 ![TeaMs-RL项目利用强化学习，让大型语言模型（LLMs）学会自我优化和改进指令。这项研究旨在通过RL机制使LLMs能够更有效地进行自我教学，不断提升其理解与生成高质量指令的能力。](../../../paper_images/2403.08694/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08694)

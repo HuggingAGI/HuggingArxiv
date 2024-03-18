@@ -2,11 +2,7 @@
 
 发布时间：2024年03月07日
 
-`Agent`
-
-`推荐系统`
-
-`多模态`
+`Agent` `推荐系统` `多模态`
 
 > Ducho 2.0: Towards a More Up-to-Date Feature Extraction and Processing Framework for Multimodal Recommendation
 
@@ -15,3 +11,5 @@
 > In this work, we introduce Ducho 2.0, the latest stable version of our framework. Differently from Ducho, Ducho 2.0 offers a more personalized user experience with the definition and import of custom extraction models fine-tuned on specific tasks and datasets. Moreover, the new version is capable of extracting and processing features through multimodal-by-design large models. Notably, all these new features are supported by optimized data loading and storing to the local memory. To showcase the capabilities of Ducho 2.0, we demonstrate a complete multimodal recommendation pipeline, from the extraction/processing to the final recommendation. The idea is to provide practitioners and experienced scholars with a ready-to-use tool that, put on top of any multimodal recommendation framework, may permit them to run extensive benchmarking analyses. All materials are accessible at: \url{https://github.com/sisinflab/Ducho}.
 
 ![Ducho 2.0，旨在构建一个面向最新技术的多模态推荐特征抽取与处理框架，力求在该领域实现更先进、更实时的性能提升。](../../../paper_images/2403.04503/x1.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04503)

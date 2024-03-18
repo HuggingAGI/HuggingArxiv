@@ -45,3 +45,5 @@
 ![ContextGPT：巧妙融合LLMs知识至神经符号活动识别模型中，提升模型性能与智能性](../../../paper_images/2403.06586/domino_inclusion.png)
 
 ![ContextGPT：巧妙融合LLMs知识至神经符号活动识别模型中，提升模型性能与智能性](../../../paper_images/2403.06586/extrasensory_inclusion.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06586)

@@ -21,3 +21,5 @@
 ![LookupFFN：为CPU推理打造更轻巧的Transformer计算结构](../../../paper_images/2403.07221/x5.png)
 
 ![LookupFFN：为CPU推理打造更轻巧的Transformer计算结构](../../../paper_images/2403.07221/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07221)

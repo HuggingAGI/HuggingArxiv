@@ -23,3 +23,5 @@
 ![本研究专注于探究上下文相关健康问题中潜在的偏见，并对其进行深入评估。](../../../paper_images/2403.04858/location_instructions.png)
 
 ![本研究专注于探究上下文相关健康问题中潜在的偏见，并对其进行深入评估。](../../../paper_images/2403.04858/location_example.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04858)

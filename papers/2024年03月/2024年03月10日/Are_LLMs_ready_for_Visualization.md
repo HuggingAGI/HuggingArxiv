@@ -39,3 +39,5 @@
 ![LLMs 在可视化领域是否已整装待发？](../../../paper_images/2403.06158/VisualVariablesScatterBubble2.png)
 
 ![LLMs 在可视化领域是否已整装待发？](../../../paper_images/2403.06158/VisualVariablesScatterBubble4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06158)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`性别偏见`
+`LLM应用` `` `性别偏见`
 
 > Evaluating LLMs for Gender Disparities in Notable Persons
 
@@ -39,3 +35,5 @@
 ![本研究旨在评估大型语言模型（LLMs）在描述著名人物时是否存在性别差异问题。](../../../paper_images/2403.09148/industry_wv_gpt35.png)
 
 ![本研究旨在评估大型语言模型（LLMs）在描述著名人物时是否存在性别差异问题。](../../../paper_images/2403.09148/industry_wv_gpt4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09148)

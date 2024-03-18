@@ -15,3 +15,5 @@
 ![我们运用大型语言模型与混合NLP技术，高效解析医师笔记中的丰富信息，实现高通量表型特征提取。](../../../paper_images/2403.05920/paresthesias.jpg)
 
 ![我们运用大型语言模型与混合NLP技术，高效解析医师笔记中的丰富信息，实现高通量表型特征提取。](../../../paper_images/2403.05920/Simclins_explorer_screenshot.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.05920)

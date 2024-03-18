@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`软件工程`
-
-`文献综述`
+`Agent` `软件工程` `文献综述`
 
 > System for systematic literature review using multiple AI agents: Concept and an empirical evaluation
 
@@ -25,3 +21,5 @@
 ![本研究提出了一种采用多个AI代理进行系统性文献综述的创新系统，并对其进行了深入的概念阐述和严谨的实证评估。](../../../paper_images/2403.08399/Data-Extraction-by-RQs.jpg)
 
 ![本研究提出了一种采用多个AI代理进行系统性文献综述的创新系统，并对其进行了深入的概念阐述和严谨的实证评估。](../../../paper_images/2403.08399/Abstract-and-Intro-Summary.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.08399)

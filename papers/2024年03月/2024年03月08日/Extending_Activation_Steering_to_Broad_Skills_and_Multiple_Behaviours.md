@@ -31,3 +31,5 @@
 ![我们将 Activation Steering 技术推广到更广泛的技能领域和多元行为表现，旨在探究其在不同能力和情境下的应用效果。](../../../paper_images/2403.05767/activation_distribution_layer_15.png)
 
 ![我们将 Activation Steering 技术推广到更广泛的技能领域和多元行为表现，旨在探究其在不同能力和情境下的应用效果。](../../../paper_images/2403.05767/multi_steering_activation_distributions.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05767)

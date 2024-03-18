@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM理论`
-
-``
-
-``
+`LLM理论` `` ``
 
 > The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models
 
@@ -37,3 +33,5 @@
 ![在“分叉路径的花园”中，我们深入探究大型语言模型内部的动态参数分布，揭示其内在变化规律与特性。](../../../paper_images/2403.08739/x11.png)
 
 ![在“分叉路径的花园”中，我们深入探究大型语言模型内部的动态参数分布，揭示其内在变化规律与特性。](../../../paper_images/2403.08739/x12.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08739)

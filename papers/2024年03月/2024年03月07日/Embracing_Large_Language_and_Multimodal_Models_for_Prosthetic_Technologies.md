@@ -11,3 +11,5 @@
 > This article presents a vision for the future of prosthetic devices, leveraging the advancements in large language models (LLMs) and Large Multimodal Models (LMMs) to revolutionize the interaction between humans and assistive technologies. Unlike traditional prostheses, which rely on limited and predefined commands, this approach aims to develop intelligent prostheses that understand and respond to users' needs through natural language and multimodal inputs. The realization of this vision involves developing a control system capable of understanding and translating a wide array of natural language and multimodal inputs into actionable commands for prosthetic devices. This includes the creation of models that can extract and interpret features from both textual and multimodal data, ensuring devices not only follow user commands but also respond intelligently to the environment and user intent, thus marking a significant leap forward in prosthetic technology.
 
 ![积极采用大型语言及多模态模型赋能假体技术发展](../../../paper_images/2403.04974/Overview.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04974)

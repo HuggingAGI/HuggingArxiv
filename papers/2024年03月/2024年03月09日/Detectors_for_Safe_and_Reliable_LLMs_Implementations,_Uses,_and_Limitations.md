@@ -25,3 +25,5 @@
 ![为确保LLMs的安全与可靠性，本文探讨了相关探测器的实现方法、应用场景及其局限性。](../../../paper_images/2403.06009/x5.png)
 
 ![为确保LLMs的安全与可靠性，本文探讨了相关探测器的实现方法、应用场景及其局限性。](../../../paper_images/2403.06009/detector_with_edit.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06009)

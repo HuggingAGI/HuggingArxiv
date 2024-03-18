@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-``
-
-``
+`LLM应用` `` ``
 
 > Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework
 
@@ -25,3 +21,5 @@
 ![为了引导 LLM 输出公正无偏的答案，我们提出了一种基于因果关系指导的去偏见框架。](../../../paper_images/2403.08743/x3.png)
 
 ![为了引导 LLM 输出公正无偏的答案，我们提出了一种基于因果关系指导的去偏见框架。](../../../paper_images/2403.08743/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08743)

@@ -19,3 +19,5 @@
 ![BoostER 技术巧妙运用大型语言模型，以强化实体解析效能。](../../../paper_images/2403.06434/page2.jpg)
 
 ![BoostER 技术巧妙运用大型语言模型，以强化实体解析效能。](../../../paper_images/2403.06434/page3.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.06434)

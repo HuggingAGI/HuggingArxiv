@@ -19,3 +19,5 @@
 ![GPT 和 Donut 引领未来，革新了文档索引领域，以崭新的方式重塑目录处理技术。](../../../paper_images/2403.07553/tocprompt.png)
 
 ![GPT 和 Donut 引领未来，革新了文档索引领域，以崭新的方式重塑目录处理技术。](../../../paper_images/2403.07553/prompt.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07553)

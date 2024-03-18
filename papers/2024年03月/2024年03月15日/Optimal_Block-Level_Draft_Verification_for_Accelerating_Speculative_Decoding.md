@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-``
-
-`模型加速`
+`LLM应用` `` `模型加速`
 
 > Optimal Block-Level Draft Verification for Accelerating Speculative Decoding
 
@@ -17,3 +13,5 @@
 ![为加快推测性解码的速度，我们提出了一种针对块级草稿的最优验证方法。](../../../paper_images/2403.10444/x1.png)
 
 ![为加快推测性解码的速度，我们提出了一种针对块级草稿的最优验证方法。](../../../paper_images/2403.10444/bernoulli.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10444)

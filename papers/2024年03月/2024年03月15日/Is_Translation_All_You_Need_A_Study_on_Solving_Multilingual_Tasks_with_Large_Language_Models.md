@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`多语言处理`
-
-`自然语言理解`
+`LLM应用` `多语言处理` `自然语言理解`
 
 > Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models
 
@@ -31,3 +27,5 @@
 ![是否只需运用翻译即可应对各类多语言任务？本研究探讨了通过大型语言模型解决此类任务的可能性。](../../../paper_images/2403.10258/x8.png)
 
 ![是否只需运用翻译即可应对各类多语言任务？本研究探讨了通过大型语言模型解决此类任务的可能性。](../../../paper_images/2403.10258/x9.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10258)

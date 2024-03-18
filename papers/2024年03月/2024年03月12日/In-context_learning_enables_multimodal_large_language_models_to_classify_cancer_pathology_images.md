@@ -19,3 +19,5 @@
 ![ICL 技术赋能多模态 LLM，使其能够对癌症病理图片进行精准分类](../../../paper_images/2403.07407/x5.png)
 
 ![ICL 技术赋能多模态 LLM，使其能够对癌症病理图片进行精准分类](../../../paper_images/2403.07407/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07407)

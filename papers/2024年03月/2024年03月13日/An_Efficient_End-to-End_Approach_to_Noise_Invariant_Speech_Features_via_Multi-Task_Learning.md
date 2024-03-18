@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`语音识别`
-
-`知识蒸馏`
+`Agent` `语音识别` `知识蒸馏`
 
 > An Efficient End-to-End Approach to Noise Invariant Speech Features via Multi-Task Learning
 
@@ -23,3 +19,5 @@
 ![本研究提出了一种新颖高效的端到端解决方案，利用多任务学习技术来提取对噪声具有鲁棒性的语音特征。](../../../paper_images/2403.08654/x4.png)
 
 ![本研究提出了一种新颖高效的端到端解决方案，利用多任务学习技术来提取对噪声具有鲁棒性的语音特征。](../../../paper_images/2403.08654/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08654)

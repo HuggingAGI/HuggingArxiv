@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`在线教育`
-
-``
+`LLM应用` `在线教育` ``
 
 > VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos
 
@@ -49,3 +45,5 @@
 ![VIVID项目致力于实现人机协作，共同从讲座视频中创作生动的、身临其境的对话内容。](../../../paper_images/2403.09168/dialogue_3.png)
 
 ![VIVID项目致力于实现人机协作，共同从讲座视频中创作生动的、身临其境的对话内容。](../../../paper_images/2403.09168/dialogue_4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09168)

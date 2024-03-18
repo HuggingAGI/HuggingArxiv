@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`文化进化`
-
-`人工智能`
+`Agent` `文化进化` `人工智能`
 
 > Cultural evolution in populations of Large Language Models
 
@@ -53,3 +49,5 @@
 ![探究大型语言模型群体中文化演进的现象](../../../paper_images/2403.08882/x18.png)
 
 ![探究大型语言模型群体中文化演进的现象](../../../paper_images/2403.08882/rotated_wordchains.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08882)

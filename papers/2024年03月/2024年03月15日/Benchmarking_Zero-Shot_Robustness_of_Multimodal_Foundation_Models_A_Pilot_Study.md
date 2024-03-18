@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`图像识别`
-
-`鲁棒性分析`
+`Agent` `图像识别` `鲁棒性分析`
 
 > Benchmarking Zero-Shot Robustness of Multimodal Foundation Models: A Pilot Study
 
@@ -83,3 +79,5 @@
 ![本研究作为一项先导性探索，致力于对多模态基础模型在零样本条件下的鲁棒性进行基准评估。](../../../paper_images/2403.10499/x29.png)
 
 ![本研究作为一项先导性探索，致力于对多模态基础模型在零样本条件下的鲁棒性进行基准评估。](../../../paper_images/2403.10499/x30.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10499)

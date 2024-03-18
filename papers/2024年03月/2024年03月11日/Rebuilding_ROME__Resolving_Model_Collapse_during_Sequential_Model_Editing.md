@@ -35,3 +35,5 @@
 ![本研究致力于“重建 ROME”，旨在解决在对模型进行连续编辑时出现的模型坍塌问题。](../../../paper_images/2403.07175/gpt2xl_f1_ours.png)
 
 ![本研究致力于“重建 ROME”，旨在解决在对模型进行连续编辑时出现的模型坍塌问题。](../../../paper_images/2403.07175/gpt2xl_distance_ours.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07175)

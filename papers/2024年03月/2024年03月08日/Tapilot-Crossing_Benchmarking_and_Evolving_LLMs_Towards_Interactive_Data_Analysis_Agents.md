@@ -53,3 +53,5 @@
 ![Tapilot-Crossing 是一个专注于推动大型语言模型（LLMs）向交互式数据分析代理演进的基准测试项目，旨在评测并提升 LLMS 在此领域的能力。](../../../paper_images/2403.05307/x18.png)
 
 ![Tapilot-Crossing 是一个专注于推动大型语言模型（LLMs）向交互式数据分析代理演进的基准测试项目，旨在评测并提升 LLMS 在此领域的能力。](../../../paper_images/2403.05307/x19.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05307)

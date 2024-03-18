@@ -27,3 +27,5 @@
 ![StableToolBench项目旨在为大型语言模型的工具学习提供一个稳定且具备大规模基准测试能力的平台。](../../../paper_images/2403.07714/x8.png)
 
 ![StableToolBench项目旨在为大型语言模型的工具学习提供一个稳定且具备大规模基准测试能力的平台。](../../../paper_images/2403.07714/x9.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07714)

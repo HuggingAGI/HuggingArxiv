@@ -2,15 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`GUI界面理解`
-
-``
-
-`目标检测`
-
-`物体识别`
+`Agent` `GUI界面理解` `` `目标检测` `物体识别`
 
 > Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring
 
@@ -27,3 +19,5 @@
 ![Griffon v2 引领进步，利用高分辨率缩放与视觉-语言共指技术提升多模态感知能力](../../../paper_images/2403.09333/x3.png)
 
 ![Griffon v2 引领进步，利用高分辨率缩放与视觉-语言共指技术提升多模态感知能力](../../../paper_images/2403.09333/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09333)

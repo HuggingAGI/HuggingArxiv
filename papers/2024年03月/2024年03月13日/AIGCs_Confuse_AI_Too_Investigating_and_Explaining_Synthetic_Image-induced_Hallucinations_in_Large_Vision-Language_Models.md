@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`人工智能`
-
-`计算机视觉`
+`LLM应用` `人工智能` `计算机视觉`
 
 > AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models
 
@@ -21,3 +17,5 @@
 ![AIGC 生成的内容同样能迷惑 AI，我们正致力于探究大型视觉-语言模型在面对合成图像时产生的幻觉现象，并对其进行深入解析。](../../../paper_images/2403.08542/caption-revision_01.jpg)
 
 ![AIGC 生成的内容同样能迷惑 AI，我们正致力于探究大型视觉-语言模型在面对合成图像时产生的幻觉现象，并对其进行深入解析。](../../../paper_images/2403.08542/Redar.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.08542)

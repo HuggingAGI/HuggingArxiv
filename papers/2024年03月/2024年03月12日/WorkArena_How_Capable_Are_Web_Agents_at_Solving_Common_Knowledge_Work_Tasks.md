@@ -31,3 +31,5 @@
 ![WorkArena 探究：Web 代理在处理日常知识工作任务时，其能力表现究竟如何？](../../../paper_images/2403.07718/x9.png)
 
 ![WorkArena 探究：Web 代理在处理日常知识工作任务时，其能力表现究竟如何？](../../../paper_images/2403.07718/x10.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07718)

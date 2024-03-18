@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM理论`
-
-``
-
-`模型微调`
+`LLM理论` `` `模型微调`
 
 > Unveiling the Generalization Power of Fine-Tuned Large Language Models
 
@@ -27,3 +23,5 @@
 ![探究微调后大型语言模型的普遍适用性力量](../../../paper_images/2403.09162/x6.png)
 
 ![探究微调后大型语言模型的普遍适用性力量](../../../paper_images/2403.09162/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09162)

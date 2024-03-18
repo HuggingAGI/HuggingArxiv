@@ -2,11 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用`
-
-``
-
-``
+`LLM应用` `` ``
 
 > Generating Clarification Questions for Disambiguating Contracts
 
@@ -19,3 +15,5 @@
 ![为解决合同中的歧义，我们致力于生成有针对性的澄清问题。](../../../paper_images/2403.08053/x2.png)
 
 ![为解决合同中的歧义，我们致力于生成有针对性的澄清问题。](../../../paper_images/2403.08053/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08053)

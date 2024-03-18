@@ -21,3 +21,5 @@
 ![SeeGULL Multilingual 数据集，专门收录了具有地理文化情境的刻板印象实例。](../../../paper_images/2403.05696/x1.png)
 
 ![SeeGULL Multilingual 数据集，专门收录了具有地理文化情境的刻板印象实例。](../../../paper_images/2403.05696/plot_full_v8_feb15th.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05696)

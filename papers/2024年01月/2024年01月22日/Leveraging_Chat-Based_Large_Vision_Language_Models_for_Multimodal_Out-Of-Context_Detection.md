@@ -2,11 +2,7 @@
 
 发布时间：2024年01月22日
 
-`LLM应用`
-
-`图像识别`
-
-``
+`LLM应用` `图像识别` ``
 
 > Leveraging Chat-Based Large Vision Language Models for Multimodal Out-Of-Context Detection
 
@@ -25,3 +21,5 @@
 ![我们借助于聊天驱动的大型视觉语言模型，致力于探索其在多模态情境缺失检测任务中的应用。](../../../paper_images/2403.08776/MiniGPT4_result.png)
 
 ![我们借助于聊天驱动的大型视觉语言模型，致力于探索其在多模态情境缺失检测任务中的应用。](../../../paper_images/2403.08776/vlm.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08776)

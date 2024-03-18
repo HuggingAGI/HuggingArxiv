@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-``
-
-``
+`Agent` `` ``
 
 > Sabiá-2: A New Generation of Portuguese Large Language Models
 
@@ -25,3 +21,5 @@
 ![Sabiá-2：引领潮流的全新一代葡萄牙大型语言模型](../../../paper_images/2403.09887/pricing_vs_performance.png)
 
 ![Sabiá-2：引领潮流的全新一代葡萄牙大型语言模型](../../../paper_images/2403.09887/Results_for_Conversation_Benchmark.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09887)

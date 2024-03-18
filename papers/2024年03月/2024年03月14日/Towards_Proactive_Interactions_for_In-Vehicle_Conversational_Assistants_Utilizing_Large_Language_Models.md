@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`智能汽车`
-
-`人机交互`
+`Agent` `智能汽车` `人机交互`
 
 > Towards Proactive Interactions for In-Vehicle Conversational Assistants Utilizing Large Language Models
 
@@ -25,3 +21,5 @@
 ![本研究致力于借助大型语言模型，开发能够主动发起互动的车载对话助手，提升车内交互体验。](../../../paper_images/2403.09135/x5.png)
 
 ![本研究致力于借助大型语言模型，开发能够主动发起互动的车载对话助手，提升车内交互体验。](../../../paper_images/2403.09135/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09135)

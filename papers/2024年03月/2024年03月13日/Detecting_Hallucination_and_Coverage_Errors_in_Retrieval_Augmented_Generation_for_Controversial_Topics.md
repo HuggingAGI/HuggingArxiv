@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`聊天机器人`
-
-`文本生成`
+`Agent` `聊天机器人` `文本生成`
 
 > Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics
 
@@ -25,3 +21,5 @@
 ![针对争议性话题的检索增强生成技术，本研究致力于揭示其中的幻觉现象与覆盖错误，并对其进行有效检测。](../../../paper_images/2403.08904/x5.png)
 
 ![针对争议性话题的检索增强生成技术，本研究致力于揭示其中的幻觉现象与覆盖错误，并对其进行有效检测。](../../../paper_images/2403.08904/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08904)

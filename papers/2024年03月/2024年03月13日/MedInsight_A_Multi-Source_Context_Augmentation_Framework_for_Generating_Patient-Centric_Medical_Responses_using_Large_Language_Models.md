@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-``
-
-``
+`LLM应用` `` ``
 
 > MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models
 
@@ -33,3 +29,5 @@
 ![MedInsight：针对大型语言模型，我们提出了一种创新的多源上下文增强框架，旨在借助该框架为生成个性化、以患者为中心的医疗回复提供有力支持。](../../../paper_images/2403.08607/ragas_1_mistral.png)
 
 ![MedInsight：针对大型语言模型，我们提出了一种创新的多源上下文增强框架，旨在借助该框架为生成个性化、以患者为中心的医疗回复提供有力支持。](../../../paper_images/2403.08607/ragas_2_mistral.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08607)

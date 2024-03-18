@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`视频理解`
-
-`计算机视觉`
+`Agent` `视频理解` `计算机视觉`
 
 > VideoAgent: Long-form Video Understanding with Large Language Model as Agent
 
@@ -25,3 +21,5 @@
 ![VideoAgent 是一项通过运用大型语言模型作为智能代理，实现对长格式视频内容深度理解的技术方案。](../../../paper_images/2403.10517/x3.png)
 
 ![VideoAgent 是一项通过运用大型语言模型作为智能代理，实现对长格式视频内容深度理解的技术方案。](../../../paper_images/2403.10517/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10517)

@@ -49,3 +49,5 @@
 ![PipeRAG 是一种创新方法，借助算法与系统协同设计的策略，高效实现了检索增强生成。这一技术旨在显著提升文本生成的速度，并在保持高质量的同时，充分融合检索与生成的优势。](../../../paper_images/2403.05676/performance_ppl_stale_vs_RETRO_same_interval_eval_realnews_chunk31_1K_db_c4_chunk_0_to_999.png)
 
 ![PipeRAG 是一种创新方法，借助算法与系统协同设计的策略，高效实现了检索增强生成。这一技术旨在显著提升文本生成的速度，并在保持高质量的同时，充分融合检索与生成的优势。](../../../paper_images/2403.05676/performance_ppl_stale_vs_RETRO_same_interval_eval_c4_chunk1023_1K_db_c4_chunk_0_to_999.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05676)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`软件工程`
-
-`故障定位`
+`Agent` `软件工程` `故障定位`
 
 > Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization
 
@@ -32,3 +28,5 @@
 ![通过 LLM 逐步揭秘错误代码，提供可理解的故障定位机制步骤 1：利用 LLM 解析错误代码：针对可解释性故障定位的逐层深入分析步骤 2：本研究借助 LLM，对错误代码进行逐行剖析和逻辑解读，致力于实现可解释的故障定位过程。](../../../paper_images/2403.10507/error_type.png)
 
 ![通过 LLM 逐步揭秘错误代码，提供可理解的故障定位机制步骤 1：利用 LLM 解析错误代码：针对可解释性故障定位的逐层深入分析步骤 2：本研究借助 LLM，对错误代码进行逐行剖析和逻辑解读，致力于实现可解释的故障定位过程。](../../../paper_images/2403.10507/RQ2_error_type.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10507)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`机器人`
-
-``
+`Agent` `机器人` ``
 
 > GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping
 
@@ -25,3 +21,5 @@
 ![GaussianGrasper 是一项创新技术，通过三维语言高斯扩散方法赋予机器人以开放式词汇理解能力，从而实现更灵活精准的物体抓取。](../../../paper_images/2403.09637/x5.png)
 
 ![GaussianGrasper 是一项创新技术，通过三维语言高斯扩散方法赋予机器人以开放式词汇理解能力，从而实现更灵活精准的物体抓取。](../../../paper_images/2403.09637/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09637)

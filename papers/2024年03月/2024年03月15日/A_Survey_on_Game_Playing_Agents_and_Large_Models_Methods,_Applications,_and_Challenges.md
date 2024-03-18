@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-``
-
-`人工智能`
+`Agent` `` `人工智能`
 
 > A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges
 
@@ -17,3 +13,5 @@
 ![本研究综述了游戏智能体和大型模型的研究进展，探讨了各类方法、应用场景以及面临的挑战。](../../../paper_images/2403.10249/x1.png)
 
 ![本研究综述了游戏智能体和大型模型的研究进展，探讨了各类方法、应用场景以及面临的挑战。](../../../paper_images/2403.10249/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10249)

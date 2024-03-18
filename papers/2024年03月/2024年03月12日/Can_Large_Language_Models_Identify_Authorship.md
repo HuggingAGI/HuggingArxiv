@@ -2,11 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用`
-
-`文本分析`
-
-`作者身份验证`
+`LLM应用` `文本分析` `作者身份验证`
 
 > Can Large Language Models Identify Authorship?
 
@@ -23,3 +19,5 @@
 ![大型语言模型是否具备鉴别文本作者的能力？](../../../paper_images/2403.08213/word_cloud_verify_blog.png)
 
 ![大型语言模型是否具备鉴别文本作者的能力？](../../../paper_images/2403.08213/word_cloud_aa_blog.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08213)

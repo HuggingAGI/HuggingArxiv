@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`模型压缩`
+`LLM应用` `` `模型压缩`
 
 > AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning
 
@@ -19,3 +15,5 @@
 ![AutoLoRA 是一种创新方法，它运用元学习技术，在低秩适应过程中自动化地优化矩阵的秩。这项研究旨在解决在模型适应时对矩阵秩高效且智能调节的问题。](../../../paper_images/2403.09113/large.png)
 
 ![AutoLoRA 是一种创新方法，它运用元学习技术，在低秩适应过程中自动化地优化矩阵的秩。这项研究旨在解决在模型适应时对矩阵秩高效且智能调节的问题。](../../../paper_images/2403.09113/rank.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09113)

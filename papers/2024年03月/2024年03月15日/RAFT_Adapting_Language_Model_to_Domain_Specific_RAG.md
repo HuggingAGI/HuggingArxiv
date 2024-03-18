@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`RAG`
-
-``
-
-`预训练模型`
+`RAG` `` `预训练模型`
 
 > RAFT: Adapting Language Model to Domain Specific RAG
 
@@ -27,3 +23,5 @@
 ![RAFT 方法致力于让语言模型更好地适应特定领域的 RAG。](../../../paper_images/2403.10131/x5.png)
 
 ![RAFT 方法致力于让语言模型更好地适应特定领域的 RAG。](../../../paper_images/2403.10131/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10131)

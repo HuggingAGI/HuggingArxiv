@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`电力能源`
-
-`聊天机器人`
+`LLM应用` `电力能源` `聊天机器人`
 
 > Exploring the Capabilities and Limitations of Large Language Models in the Electric Energy Sector
 
@@ -21,3 +17,5 @@
 ![本研究致力于揭示大型语言模型在电力能源行业的潜力与局限，深入探讨其在该领域的表现特征及应用场景。](../../../paper_images/2403.09125/x2.png)
 
 ![本研究致力于揭示大型语言模型在电力能源行业的潜力与局限，深入探讨其在该领域的表现特征及应用场景。](../../../paper_images/2403.09125/wildfire.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09125)

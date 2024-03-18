@@ -15,3 +15,5 @@
 ![Med3DInsight项目利用2D多模态大型语言模型的力量，提升三维医学图像的深入理解和分析能力。](../../../paper_images/2403.05141/x2.png)
 
 ![Med3DInsight项目利用2D多模态大型语言模型的力量，提升三维医学图像的深入理解和分析能力。](../../../paper_images/2403.05141/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05141)

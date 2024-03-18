@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`自动驾驶`
-
-`安全工程`
+`LLM应用` `自动驾驶` `安全工程`
 
 > Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models
 
@@ -16,3 +12,5 @@
   Our objective is to systematically assess their potential for application in the field of safety engineering. To that end, we propose a framework to support a higher degree of automation of HARA with LLMs. Despite our endeavors to automate as much of the process as possible, expert review remains crucial to ensure the validity and correctness of the analysis results, with necessary modifications made accordingly.
 
 ![向您介绍您的新晋AI队友，它将通过约束大型语言模型的方式助力安全分析工作。](../../../paper_images/2403.09565/HARA_Pipeline.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09565)

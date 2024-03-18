@@ -2,11 +2,7 @@
 
 发布时间：2024年03月06日
 
-`Agent`
-
-`人机交互`
-
-`可穿戴设备`
+`Agent` `人机交互` `可穿戴设备`
 
 > Human I/O: Towards a Unified Approach to Detecting Situational Impairments
 
@@ -35,3 +31,5 @@
 ![Human I/O：致力于构建一种用于识别情境性功能障碍的综合方法](../../../paper_images/2403.04008/x10.png)
 
 ![Human I/O：致力于构建一种用于识别情境性功能障碍的综合方法](../../../paper_images/2403.04008/x11.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04008)

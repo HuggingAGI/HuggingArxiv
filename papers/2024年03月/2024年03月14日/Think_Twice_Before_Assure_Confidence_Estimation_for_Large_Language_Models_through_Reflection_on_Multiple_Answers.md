@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`模型信任度评估`
+`LLM应用` `` `模型信任度评估`
 
 > Think Twice Before Assure: Confidence Estimation for Large Language Models through Reflection on Multiple Answers
 
@@ -25,3 +21,5 @@
 ![面对大型语言模型，请审慎决策，我们提出了一种方法，通过对多个答案的反思实现对模型输出的信心度评估。](../../../paper_images/2403.09972/x5.png)
 
 ![面对大型语言模型，请审慎决策，我们提出了一种方法，通过对多个答案的反思实现对模型输出的信心度评估。](../../../paper_images/2403.09972/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09972)

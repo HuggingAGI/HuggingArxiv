@@ -2,11 +2,7 @@
 
 发布时间：2024年03月08日
 
-`Agent`
-
-`多模态`
-
-`机器学习`
+`Agent` `多模态` `机器学习`
 
 > Context-Based Multimodal Fusion
 
@@ -21,3 +17,5 @@
 ![情境化多模态融合技术，是指将不同模态的信息在特定语境下进行有效整合的过程。](../../../paper_images/2403.04650/bahdanau_score.png)
 
 ![情境化多模态融合技术，是指将不同模态的信息在特定语境下进行有效整合的过程。](../../../paper_images/2403.04650/retrieval.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04650)

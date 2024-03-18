@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`软件开发`
-
-``
+`LLM应用` `软件开发` ``
 
 > DevBench: A Comprehensive Benchmark for Software Development
 
@@ -23,3 +19,5 @@
 ![DevBench 是一款综合全面的软件开发基准测试平台，旨在为开发者提供衡量和比较不同开发环境、工具及实践效果的标准参照。](../../../paper_images/2403.08604/x4.png)
 
 ![DevBench 是一款综合全面的软件开发基准测试平台，旨在为开发者提供衡量和比较不同开发环境、工具及实践效果的标准参照。](../../../paper_images/2403.08604/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08604)

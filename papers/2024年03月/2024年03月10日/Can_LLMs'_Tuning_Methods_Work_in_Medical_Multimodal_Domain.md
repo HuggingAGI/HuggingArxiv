@@ -2,11 +2,7 @@
 
 发布时间：2024年03月10日
 
-`LLM应用`
-
-``
-
-`迁移学习`
+`LLM应用` `` `迁移学习`
 
 > Can LLMs' Tuning Methods Work in Medical Multimodal Domain?
 
@@ -21,3 +17,5 @@
 ![LLMs 的微调技术是否能在医学多模态领域奏效呢？](../../../paper_images/2403.06407/Instruction_Template.png)
 
 ![LLMs 的微调技术是否能在医学多模态领域奏效呢？](../../../paper_images/2403.06407/ins_examples.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06407)

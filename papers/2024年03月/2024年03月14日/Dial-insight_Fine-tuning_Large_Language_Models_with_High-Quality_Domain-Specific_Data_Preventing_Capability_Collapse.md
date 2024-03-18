@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`房地产`
-
-``
+`LLM应用` `房地产` ``
 
 > Dial-insight: Fine-tuning Large Language Models with High-Quality Domain-Specific Data Preventing Capability Collapse
 
@@ -19,3 +15,5 @@
 ![Dial-insight 方法，通过采用高质量的特定领域数据对大型语言模型进行微调，有效防止模型能力退化。](../../../paper_images/2403.09167/x2.png)
 
 ![Dial-insight 方法，通过采用高质量的特定领域数据对大型语言模型进行微调，有效防止模型能力退化。](../../../paper_images/2403.09167/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09167)

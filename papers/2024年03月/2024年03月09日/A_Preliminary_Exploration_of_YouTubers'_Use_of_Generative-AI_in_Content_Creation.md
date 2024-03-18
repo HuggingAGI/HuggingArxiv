@@ -15,3 +15,5 @@
 ![本研究初步探究了YouTubers在制作视频内容时运用生成式AI技术的情况](../../../paper_images/2403.06039/GenAIRQ1.png)
 
 ![本研究初步探究了YouTubers在制作视频内容时运用生成式AI技术的情况](../../../paper_images/2403.06039/GenAIRQ3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06039)

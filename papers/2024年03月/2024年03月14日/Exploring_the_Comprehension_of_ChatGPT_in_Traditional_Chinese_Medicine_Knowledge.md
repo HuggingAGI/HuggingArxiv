@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`问答系统`
+`LLM应用` `` `问答系统`
 
 > Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge
 
@@ -23,3 +19,5 @@
 ![本研究致力于探究ChatGPT在理解中医知识方面的表现，深入探索其对于传统中医药学领域知识的掌握和应用能力。](../../../paper_images/2403.09164/x4.png)
 
 ![本研究致力于探究ChatGPT在理解中医知识方面的表现，深入探索其对于传统中医药学领域知识的掌握和应用能力。](../../../paper_images/2403.09164/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09164)

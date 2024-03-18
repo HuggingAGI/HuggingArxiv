@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`知识图谱`
-
-`问答系统`
+`LLM应用` `知识图谱` `问答系统`
 
 > Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments
 
@@ -29,3 +25,5 @@
 ![无论是处理结构化环境还是应对复杂需求，LLMs 都能以高效而精准的方式进行推理。不妨视其为“必要时随时呼叫”的可靠智能工具。](../../../paper_images/2403.08593/radar_gpt35.png)
 
 ![无论是处理结构化环境还是应对复杂需求，LLMs 都能以高效而精准的方式进行推理。不妨视其为“必要时随时呼叫”的可靠智能工具。](../../../paper_images/2403.08593/efficient_bar_gpt35.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08593)

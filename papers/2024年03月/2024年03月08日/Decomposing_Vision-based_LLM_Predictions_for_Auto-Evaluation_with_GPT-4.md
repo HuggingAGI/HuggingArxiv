@@ -19,3 +19,5 @@
 ![利用GPT-4对基于视觉的LLM预测进行拆解，实现自动评估目标](../../../paper_images/2403.05680/x4.png)
 
 ![利用GPT-4对基于视觉的LLM预测进行拆解，实现自动评估目标](../../../paper_images/2403.05680/scores.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05680)

@@ -27,3 +27,5 @@
 ![DriveDreamer-2 是一款基于 LLM 强化的世界模型，专门用于创新且多样的驾驶视频生成任务。](../../../paper_images/2403.06845/x8.png)
 
 ![DriveDreamer-2 是一款基于 LLM 强化的世界模型，专门用于创新且多样的驾驶视频生成任务。](../../../paper_images/2403.06845/x9.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06845)

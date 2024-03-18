@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`健康信息检索`
-
-`人工智能`
+`Agent` `健康信息检索` `人工智能`
 
 > Trusting the Search: Unraveling Human Trust in Health Information from Google and ChatGPT
 
@@ -21,3 +17,5 @@
 ![探究搜索背后的信任——深入理解人们在使用谷歌和ChatGPT获取健康信息时的信任构建机制](../../../paper_images/2403.09987/mean-difference-3.png)
 
 ![探究搜索背后的信任——深入理解人们在使用谷歌和ChatGPT获取健康信息时的信任构建机制](../../../paper_images/2403.09987/correlation-2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09987)

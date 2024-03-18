@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`推荐系统`
-
-``
+`LLM应用` `推荐系统` ``
 
 > The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation
 
@@ -33,3 +29,5 @@
 ![整体胜于局部：本研究探讨将聚合演示应用于序列推荐任务的上下文学习，以期实现超越单个示例之和的效果。](../../../paper_images/2403.10135/sec_53.jpg)
 
 ![整体胜于局部：本研究探讨将聚合演示应用于序列推荐任务的上下文学习，以期实现超越单个示例之和的效果。](../../../paper_images/2403.10135/few_shot_prompt.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10135)

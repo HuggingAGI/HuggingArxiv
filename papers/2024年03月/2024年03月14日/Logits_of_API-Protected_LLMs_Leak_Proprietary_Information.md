@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`安全与隐私保护`
+`LLM应用` `` `安全与隐私保护`
 
 > Logits of API-Protected LLMs Leak Proprietary Information
 
@@ -31,3 +27,5 @@
 ![研究表明，受 API 保护的大规模语言模型（LLMs）的 logits 输出可能泄露其内部所包含的专有信息。](../../../paper_images/2403.09539/x8.png)
 
 ![研究表明，受 API 保护的大规模语言模型（LLMs）的 logits 输出可能泄露其内部所包含的专有信息。](../../../paper_images/2403.09539/x9.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09539)

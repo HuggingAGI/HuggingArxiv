@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`RAG`
-
-`数据库问答`
-
-`语言模型`
+`RAG` `数据库问答` `语言模型`
 
 > RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems
 
@@ -29,3 +25,5 @@
 ![RAGGED：致力于实现知情设计的检索增强生成系统研究，旨在深入理解并改进此类系统的构建方式。](../../../paper_images/2403.09040/x7.png)
 
 ![RAGGED：致力于实现知情设计的检索增强生成系统研究，旨在深入理解并改进此类系统的构建方式。](../../../paper_images/2403.09040/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09040)

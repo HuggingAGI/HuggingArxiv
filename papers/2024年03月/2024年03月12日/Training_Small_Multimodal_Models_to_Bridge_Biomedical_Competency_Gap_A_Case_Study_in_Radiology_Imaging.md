@@ -2,11 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用`
-
-`生物医学`
-
-`放射影像`
+`LLM应用` `生物医学` `放射影像`
 
 > Training Small Multimodal Models to Bridge Biomedical Competency Gap: A Case Study in Radiology Imaging
 
@@ -35,3 +31,5 @@
 ![为缩小生物医学领域的能力差距，我们进行了一项针对放射影像学的案例研究，通过训练小巧而强大的多模态模型来实现这一目标。](../../../paper_images/2403.08002/x10.png)
 
 ![为缩小生物医学领域的能力差距，我们进行了一项针对放射影像学的案例研究，通过训练小巧而强大的多模态模型来实现这一目标。](../../../paper_images/2403.08002/x11.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08002)

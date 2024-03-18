@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`计算机视觉`
-
-`多模态`
+`Agent` `计算机视觉` `多模态`
 
 > VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding
 
@@ -28,3 +24,5 @@
 ![VisionGPT-3D：一款强大而全面的多模态智能体，旨在提升三维视觉理解能力](../../../paper_images/2403.09530/x5.png)
 
 ![VisionGPT-3D：一款强大而全面的多模态智能体，旨在提升三维视觉理解能力](../../../paper_images/2403.09530/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09530)

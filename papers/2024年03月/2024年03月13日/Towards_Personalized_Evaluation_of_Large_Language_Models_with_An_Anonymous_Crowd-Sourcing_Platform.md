@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-``
-
-`模型评估`
+`Agent` `` `模型评估`
 
 > Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform
 
@@ -21,3 +17,5 @@
 ![本研究利用匿名众包平台，旨在探索针对大型语言模型的个性化评估方法。](../../../paper_images/2403.08305/x3.png)
 
 ![本研究利用匿名众包平台，旨在探索针对大型语言模型的个性化评估方法。](../../../paper_images/2403.08305/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08305)

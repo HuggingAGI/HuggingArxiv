@@ -25,3 +25,5 @@
 ![通过质量多样性提升 6 自由度抓取采样的效率](../../../paper_images/2403.06173/visual_comparison_qd_without_qd_img_2_crop_bis.png)
 
 ![通过质量多样性提升 6 自由度抓取采样的效率](../../../paper_images/2403.06173/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06173)

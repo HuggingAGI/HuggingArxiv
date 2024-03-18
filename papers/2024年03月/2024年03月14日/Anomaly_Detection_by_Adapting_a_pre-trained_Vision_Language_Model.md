@@ -2,13 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-``
-
-`计算机视觉`
-
-`异常检测`
+`Agent` `` `计算机视觉` `异常检测`
 
 > Anomaly Detection by Adapting a pre-trained Vision Language Model
 
@@ -27,3 +21,5 @@
 ![我们采用预训练的视觉语言模型并对其进行适应性调整，以实现对异常的有效检测。](../../../paper_images/2403.09493/x5.png)
 
 ![我们采用预训练的视觉语言模型并对其进行适应性调整，以实现对异常的有效检测。](../../../paper_images/2403.09493/datascale3.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.09493)

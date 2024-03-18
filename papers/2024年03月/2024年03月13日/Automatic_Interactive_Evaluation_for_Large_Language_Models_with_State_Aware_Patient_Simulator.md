@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-``
-
-``
+`LLM应用` `` ``
 
 > Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator
 
@@ -23,3 +19,5 @@
 ![针对大型语言模型，我们提出了一种结合了状态感知病人模拟器的自动交互评估方法。这种方法能够模拟真实世界中病人的复杂状态变化，从而对大型语言模型进行深入细致的互动性评估。](../../../paper_images/2403.08495/x4.png)
 
 ![针对大型语言模型，我们提出了一种结合了状态感知病人模拟器的自动交互评估方法。这种方法能够模拟真实世界中病人的复杂状态变化，从而对大型语言模型进行深入细致的互动性评估。](../../../paper_images/2403.08495/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08495)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`地理信息系统`
-
-``
+`LLM应用` `地理信息系统` ``
 
 > Language to Map: Topological map generation from natural language path instructions
 
@@ -23,3 +19,5 @@
 ![将语言指令转化为地图：探究如何从自然语言路径指示中生成拓扑地图](../../../paper_images/2403.10008/prompt_rev.png)
 
 ![将语言指令转化为地图：探究如何从自然语言路径指示中生成拓扑地图](../../../paper_images/2403.10008/jh_map.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.10008)

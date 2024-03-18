@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`多模态`
-
-`语言模型`
+`LLM应用` `多模态` `语言模型`
 
 > UniCode: Learning a Unified Codebook for Multimodal Large Language Models
 
@@ -23,3 +19,5 @@
 ![UniCode项目致力于为多模态大型语言模型打造一个统一的码本，旨在整合和优化不同模态数据在模型中的表示与处理。](../../../paper_images/2403.09072/x5.png)
 
 ![UniCode项目致力于为多模态大型语言模型打造一个统一的码本，旨在整合和优化不同模态数据在模型中的表示与处理。](../../../paper_images/2403.09072/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09072)

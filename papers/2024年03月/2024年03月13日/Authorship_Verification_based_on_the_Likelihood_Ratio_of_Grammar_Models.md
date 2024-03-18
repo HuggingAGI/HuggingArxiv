@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM理论`
-
-`司法鉴定`
-
-`作者身份验证`
+`LLM理论` `司法鉴定` `作者身份验证`
 
 > Authorship Verification based on the Likelihood Ratio of Grammar Models
 
@@ -19,3 +15,5 @@
 ![通过对语法模型的似然比分析进行作者身份验证的研究](../../../paper_images/2403.08462/x2.png)
 
 ![通过对语法模型的似然比分析进行作者身份验证的研究](../../../paper_images/2403.08462/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08462)

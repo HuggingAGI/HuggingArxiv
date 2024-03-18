@@ -13,3 +13,5 @@
 ![「宪法专家」模型：通过融合原则性提示进行训练，旨在提升模型在处理宪法相关问题时的专业性和准确性。](../../../paper_images/2403.04894/alt-method-overview-v1.png)
 
 ![「宪法专家」模型：通过融合原则性提示进行训练，旨在提升模型在处理宪法相关问题时的专业性和准确性。](../../../paper_images/2403.04894/full-method-slimmest.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04894)

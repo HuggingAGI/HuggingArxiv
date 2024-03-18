@@ -37,3 +37,5 @@
 ![从大型语言模型的角度出发，我们是否能断言人类对话具有某种特殊性呢？](../../../paper_images/2403.05045/example-code-entropy-by-token-37-4.png)
 
 ![从大型语言模型的角度出发，我们是否能断言人类对话具有某种特殊性呢？](../../../paper_images/2403.05045/example-math-entropy-by-token-37-4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05045)

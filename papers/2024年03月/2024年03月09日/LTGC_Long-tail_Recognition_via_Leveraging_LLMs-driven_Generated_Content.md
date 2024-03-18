@@ -31,3 +31,5 @@
 ![LTGC 方法借助LLMs驱动生成的内容，有效应对长尾识别问题。](../../../paper_images/2403.05854/x4.png)
 
 ![LTGC 方法借助LLMs驱动生成的内容，有效应对长尾识别问题。](../../../paper_images/2403.05854/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05854)

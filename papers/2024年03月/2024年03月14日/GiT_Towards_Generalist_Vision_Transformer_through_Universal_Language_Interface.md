@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`计算机视觉`
-
-`Transformer`
+`LLM应用` `计算机视觉` `Transformer`
 
 > GiT: Towards Generalist Vision Transformer through Universal Language Interface
 
@@ -35,3 +31,5 @@
 ![GiT项目致力于打造一款全能型视觉Transformer，借助统一语言接口实现这一目标。](../../../paper_images/2403.09394/x9.png)
 
 ![GiT项目致力于打造一款全能型视觉Transformer，借助统一语言接口实现这一目标。](../../../paper_images/2403.09394/x10.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09394)

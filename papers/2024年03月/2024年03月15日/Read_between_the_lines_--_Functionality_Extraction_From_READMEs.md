@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`软件工程`
-
-`代码理解`
+`LLM应用` `软件工程` `代码理解`
 
 > Read between the lines -- Functionality Extraction From READMEs
 
@@ -21,3 +17,5 @@
 ![深入研读README，挖掘其中隐含的功能信息](../../../paper_images/2403.10205/x1.png)
 
 ![深入研读README，挖掘其中隐含的功能信息](../../../paper_images/2403.10205/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10205)

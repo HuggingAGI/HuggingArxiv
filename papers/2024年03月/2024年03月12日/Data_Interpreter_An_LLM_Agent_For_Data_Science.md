@@ -41,3 +41,5 @@
 ![数据解释员：一款专为数据科学打造的 LLM 智能助手](../../../paper_images/2402.18679/output_task_2.png)
 
 ![数据解释员：一款专为数据科学打造的 LLM 智能助手](../../../paper_images/2402.18679/visual.png)
+
+[Arxiv](https://arxiv.org/abs/2402.18679)

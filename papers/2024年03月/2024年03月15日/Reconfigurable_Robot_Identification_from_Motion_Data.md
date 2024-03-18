@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`机器人`
-
-`自我建模`
+`Agent` `机器人` `自我建模`
 
 > Reconfigurable Robot Identification from Motion Data
 
@@ -27,3 +23,5 @@
 ![通过对运动数据的分析，本研究致力于识别和解析可重构机器人的特性。](../../../paper_images/2403.10496/simulation_100acc.png)
 
 ![通过对运动数据的分析，本研究致力于识别和解析可重构机器人的特性。](../../../paper_images/2403.10496/real_experiment_compress.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10496)

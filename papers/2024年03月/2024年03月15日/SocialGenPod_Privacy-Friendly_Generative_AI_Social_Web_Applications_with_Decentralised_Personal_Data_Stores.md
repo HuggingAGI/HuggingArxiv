@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`隐私保护`
-
-`人工智能`
+`Agent` `隐私保护` `人工智能`
 
 > SocialGenPod: Privacy-Friendly Generative AI Social Web Applications with Decentralised Personal Data Stores
 
@@ -25,3 +21,5 @@
 ![SocialGenPod 是一款注重隐私保护的生成式 AI 社交网络应用，它利用去中心化的个人数据存储技术。这款应用致力于在保障用户隐私的同时，提供基于 AI 的创新社交体验。](../../../paper_images/2403.10408/socialgenpod-setup.png)
 
 ![SocialGenPod 是一款注重隐私保护的生成式 AI 社交网络应用，它利用去中心化的个人数据存储技术。这款应用致力于在保障用户隐私的同时，提供基于 AI 的创新社交体验。](../../../paper_images/2403.10408/socialgenpod-models.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10408)

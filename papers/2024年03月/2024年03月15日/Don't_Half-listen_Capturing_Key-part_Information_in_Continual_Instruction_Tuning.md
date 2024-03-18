@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-``
-
-`持续学习`
+`LLM应用` `` `持续学习`
 
 > Don't Half-listen: Capturing Key-part Information in Continual Instruction Tuning
 
@@ -21,3 +17,5 @@
 ![切勿一知半解：在连续指令调优过程中精准捕获关键信息要素](../../../paper_images/2403.10056/x3.png)
 
 ![切勿一知半解：在连续指令调优过程中精准捕获关键信息要素](../../../paper_images/2403.10056/info_gain.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10056)

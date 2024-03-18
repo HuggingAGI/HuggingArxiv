@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`视觉识别`
-
-``
+`Agent` `视觉识别` ``
 
 > CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning
 
@@ -17,3 +13,5 @@
 ![CoLeCLIP 是一种创新方法，通过结合任务提示与词汇学习技术，在开放领域内实现持续学习能力。](../../../paper_images/2403.10245/x1.png)
 
 ![CoLeCLIP 是一种创新方法，通过结合任务提示与词汇学习技术，在开放领域内实现持续学习能力。](../../../paper_images/2403.10245/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10245)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-``
-
-`医学影像分析`
+`LLM应用` `` `医学影像分析`
 
 > Improving Medical Multi-modal Contrastive Learning with Expert Annotations
 
@@ -31,3 +27,5 @@
 ![借助专家标注优化医疗多模态对比学习技术，提升模型性能和准确性。](../../../paper_images/2403.10153/expert-clip-cosine-similarities.png)
 
 ![借助专家标注优化医疗多模态对比学习技术，提升模型性能和准确性。](../../../paper_images/2403.10153/embedding_qualitative.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10153)

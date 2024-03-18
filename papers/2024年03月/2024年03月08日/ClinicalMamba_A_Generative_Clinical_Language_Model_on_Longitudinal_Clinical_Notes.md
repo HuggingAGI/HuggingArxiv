@@ -15,3 +15,5 @@
 ![ClinicalMamba——一款在连续性临床笔记上训练出的生成式临床语言模型，专门针对纵向临床记录进行设计和构建。](../../../paper_images/2403.05795/prompt.png)
 
 ![ClinicalMamba——一款在连续性临床笔记上训练出的生成式临床语言模型，专门针对纵向临床记录进行设计和构建。](../../../paper_images/2403.05795/lendist.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05795)

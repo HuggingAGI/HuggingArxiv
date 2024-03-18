@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`RAG`
-
-`软件开发`
-
-``
+`RAG` `软件开发` ``
 
 > Repoformer: Selective Retrieval for Repository-Level Code Completion
 
@@ -41,3 +37,5 @@
 ![Repoformer，一种专为仓库级别代码补全设计的选择性检索技术，旨在提升代码补全任务的效果和精准度。](../../../paper_images/2403.10059/plot_11_v2_merged_bigcode_starcoderbase_7b.png)
 
 ![Repoformer，一种专为仓库级别代码补全设计的选择性检索技术，旨在提升代码补全任务的效果和精准度。](../../../paper_images/2403.10059/plot_11_v2_merged_bigcode_starcoder.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10059)

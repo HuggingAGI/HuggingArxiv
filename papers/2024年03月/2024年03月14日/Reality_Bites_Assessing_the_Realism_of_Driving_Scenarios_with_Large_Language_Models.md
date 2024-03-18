@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`自动驾驶`
-
-``
+`LLM应用` `自动驾驶` ``
 
 > Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models
 
@@ -23,3 +19,5 @@
 ![面对现实：借助大型语言模型深入探究驾驶场景的真实程度](../../../paper_images/2403.09906/x4.png)
 
 ![面对现实：借助大型语言模型深入探究驾驶场景的真实程度](../../../paper_images/2403.09906/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09906)

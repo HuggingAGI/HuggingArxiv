@@ -13,3 +13,5 @@
 ![CKERC项目通过将大型语言模型与常识知识库相结合，旨在提升对话情境中情绪识别的能力。](../../../paper_images/2403.07260/figure1.1.png)
 
 ![CKERC项目通过将大型语言模型与常识知识库相结合，旨在提升对话情境中情绪识别的能力。](../../../paper_images/2403.07260/figure_change.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07260)

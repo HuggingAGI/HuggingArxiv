@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`机器翻译`
-
-`知识蒸馏`
+`LLM应用` `机器翻译` `知识蒸馏`
 
 > MT-PATCHER: Selective and Extendable Knowledge Distillation from Large Language Models for Machine Translation
 
@@ -25,3 +21,5 @@
 ![MT-PATCHER：针对机器翻译任务，该技术实现了从大型语言模型中进行选择性且可扩展的知识蒸馏，旨在提炼和有效利用大规模模型中的宝贵知识。](../../../paper_images/2403.09522/variants.png)
 
 ![MT-PATCHER：针对机器翻译任务，该技术实现了从大型语言模型中进行选择性且可扩展的知识蒸馏，旨在提炼和有效利用大规模模型中的宝贵知识。](../../../paper_images/2403.09522/testset_flowchart.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09522)

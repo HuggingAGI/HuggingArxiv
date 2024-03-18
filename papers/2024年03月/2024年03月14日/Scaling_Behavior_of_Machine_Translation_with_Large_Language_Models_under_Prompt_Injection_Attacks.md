@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`机器翻译`
-
-`语言模型安全`
+`LLM应用` `机器翻译` `语言模型安全`
 
 > Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks
 
@@ -209,3 +205,5 @@
 ![面对提示注入攻击，探究大规模语言模型应用于机器翻译任务时的性能变化规律](../../../paper_images/2403.09832/bleu_en_ro.jpg)
 
 ![面对提示注入攻击，探究大规模语言模型应用于机器翻译任务时的性能变化规律](../../../paper_images/2403.09832/bleu_ru_en.jpg)
+
+[Arxiv](https://arxiv.org/abs/2403.09832)

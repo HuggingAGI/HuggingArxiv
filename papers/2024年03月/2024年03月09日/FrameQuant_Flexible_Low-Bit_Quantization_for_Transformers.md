@@ -49,3 +49,5 @@
 ![FrameQuant是一种针对Transformer设计的弹性低比特量化方案。](../../../paper_images/2403.06082/llama_wikitext2_wthFullPress2.png)
 
 ![FrameQuant是一种针对Transformer设计的弹性低比特量化方案。](../../../paper_images/2403.06082/llama_c4_wthFullPress2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06082)

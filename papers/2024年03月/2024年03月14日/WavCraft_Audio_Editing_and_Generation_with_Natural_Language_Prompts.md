@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`音频处理`
-
-``
+`LLM应用` `音频处理` ``
 
 > WavCraft: Audio Editing and Generation with Natural Language Prompts
 
@@ -17,3 +13,5 @@
 ![WavCraft——通过自然语言指令实现音频编辑与生成](../../../paper_images/2403.09527/x1.png)
 
 ![WavCraft——通过自然语言指令实现音频编辑与生成](../../../paper_images/2403.09527/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09527)

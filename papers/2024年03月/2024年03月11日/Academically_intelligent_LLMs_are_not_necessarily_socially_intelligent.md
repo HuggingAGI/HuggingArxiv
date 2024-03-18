@@ -31,3 +31,5 @@
 ![LLMs 即便在学术智能上表现出色，却未必具有社交智能。](../../../paper_images/2403.06591/construction_2.png)
 
 ![LLMs 即便在学术智能上表现出色，却未必具有社交智能。](../../../paper_images/2403.06591/construction_3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.06591)

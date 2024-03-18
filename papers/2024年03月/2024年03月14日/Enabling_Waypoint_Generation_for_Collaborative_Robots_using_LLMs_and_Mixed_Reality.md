@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`机器人`
-
-``
+`Agent` `机器人` ``
 
 > Enabling Waypoint Generation for Collaborative Robots using LLMs and Mixed Reality
 
@@ -21,3 +17,5 @@
 ![借助 LLM 和混合现实技术，我们能够为协作机器人赋予路径点自动生成能力，让其在协同工作中更加智能化和灵活。](../../../paper_images/2403.09308/x3.png)
 
 ![借助 LLM 和混合现实技术，我们能够为协作机器人赋予路径点自动生成能力，让其在协同工作中更加智能化和灵活。](../../../paper_images/2403.09308/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09308)

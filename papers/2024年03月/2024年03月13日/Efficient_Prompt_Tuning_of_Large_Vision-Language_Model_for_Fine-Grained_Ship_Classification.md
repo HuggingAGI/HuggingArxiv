@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-``
-
-`船舶识别`
+`Agent` `` `船舶识别`
 
 > Efficient Prompt Tuning of Large Vision-Language Model for Fine-Grained Ship Classification
 
@@ -29,3 +25,5 @@
 ![在细粒度船舶分类任务上，我们提出了一种高效的方法来对大型视觉-语言模型进行提示调优，以提升其性能表现。](../../../paper_images/2403.08271/figure5-c.png)
 
 ![在细粒度船舶分类任务上，我们提出了一种高效的方法来对大型视觉-语言模型进行提示调优，以提升其性能表现。](../../../paper_images/2403.08271/figure5-d.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08271)

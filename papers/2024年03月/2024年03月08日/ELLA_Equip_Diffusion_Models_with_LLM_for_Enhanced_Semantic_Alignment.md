@@ -31,3 +31,5 @@
 ![ELLA项目通过将LLM与扩散模型相结合，旨在提升模型的语义对齐性能。](../../../paper_images/2403.05135/x7.png)
 
 ![ELLA项目通过将LLM与扩散模型相结合，旨在提升模型的语义对齐性能。](../../../paper_images/2403.05135/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05135)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM理论`
-
-``
-
-`大型语言模型`
+`LLM理论` `` `大型语言模型`
 
 > Knowledge Conflicts for LLMs: A Survey
 
@@ -87,3 +83,5 @@
 ![针对 LLMs 的知识冲突研究概述](../../../paper_images/2403.08319/yellowpin.png)
 
 ![针对 LLMs 的知识冲突研究概述](../../../paper_images/2403.08319/redpin.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08319)

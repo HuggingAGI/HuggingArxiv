@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`机器人`
-
-`地图构建`
+`Agent` `机器人` `地图构建`
 
 > OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments
 
@@ -27,3 +23,5 @@
 ![OpenGraph是一种在大规模户外环境中实现开放词汇、分层三维图形表达的方法。](../../../paper_images/2403.09412/x6.png)
 
 ![OpenGraph是一种在大规模户外环境中实现开放词汇、分层三维图形表达的方法。](../../../paper_images/2403.09412/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09412)

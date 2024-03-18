@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`机器翻译`
-
-`聊天对话`
+`LLM应用` `机器翻译` `聊天对话`
 
 > Is Context Helpful for Chat Translation Evaluation?
 
@@ -37,3 +33,5 @@
 ![在聊天翻译评估中，引入上下文真的能起到积极作用吗？](../../../paper_images/2403.08314/error_severity_google.png)
 
 ![在聊天翻译评估中，引入上下文真的能起到积极作用吗？](../../../paper_images/2403.08314/en_de_ls20.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08314)

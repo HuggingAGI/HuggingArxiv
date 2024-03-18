@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`动画制作`
-
-``
+`LLM应用` `动画制作` ``
 
 > Masked Generative Story Transformer with Character Guidance and Caption Augmentation
 
@@ -31,3 +27,5 @@
 ![通过采用字符引导与标题增强技术，我们提出了一种掩码生成故事Transformer模型。该模型在生成连贯故事的同时，能够借助字符级别的指引以及标题信息的补充，以提升文本生成质量和叙事逻辑性。](../../../paper_images/2403.08502/x5.png)
 
 ![通过采用字符引导与标题增强技术，我们提出了一种掩码生成故事Transformer模型。该模型在生成连贯故事的同时，能够借助字符级别的指引以及标题信息的补充，以提升文本生成质量和叙事逻辑性。](../../../paper_images/2403.08502/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08502)

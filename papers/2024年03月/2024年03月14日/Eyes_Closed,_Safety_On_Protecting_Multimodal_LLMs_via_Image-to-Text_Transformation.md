@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`人工智能安全`
-
-`多模态模型`
+`LLM应用` `人工智能安全` `多模态模型`
 
 > Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation
 
@@ -55,3 +51,5 @@
 ![在“闭眼”状态下保障安全：探索利用图像转文本技术来保护多模态大型语言模型（LLMs）的方案](../../../paper_images/2403.09572/x21.png)
 
 ![在“闭眼”状态下保障安全：探索利用图像转文本技术来保护多模态大型语言模型（LLMs）的方案](../../../paper_images/2403.09572/x22.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09572)

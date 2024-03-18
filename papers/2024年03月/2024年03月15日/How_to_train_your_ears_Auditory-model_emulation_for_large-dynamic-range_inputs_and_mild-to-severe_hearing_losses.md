@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`听力学`
-
-`信号处理`
+`Agent` `听力学` `信号处理`
 
 > How to train your ears: Auditory-model emulation for large-dynamic-range inputs and mild-to-severe hearing losses
 
@@ -31,3 +27,5 @@
 ![本研究探讨如何通过模拟听觉模型，有效提升对大动态范围声音输入以及应对轻度至重度听力损失情况下的听力理解能力。](../../../paper_images/2403.10428/x8.png)
 
 ![本研究探讨如何通过模拟听觉模型，有效提升对大动态范围声音输入以及应对轻度至重度听力损失情况下的听力理解能力。](../../../paper_images/2403.10428/x9.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10428)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`集成电路`
-
-`软件测试`
+`LLM应用` `集成电路` `软件测试`
 
 > Large Language Models to Generate System-Level Test Programs Targeting Non-functional Properties
 
@@ -15,3 +11,5 @@
 > System-Level Test (SLT) has been a part of the test flow for integrated circuits for over a decade and still gains importance. However, no systematic approaches exist for test program generation, especially targeting non-functional properties of the Device under Test (DUT). Currently, test engineers manually compose test suites from off-the-shelf software, approximating the end-user environment of the DUT. This is a challenging and tedious task that does not guarantee sufficient control over non-functional properties. This paper proposes Large Language Models (LLMs) to generate test programs. We take a first glance at how pre-trained LLMs perform in test program generation to optimize non-functional properties of the DUT. Therefore, we write a prompt to generate C code snippets that maximize the instructions per cycle of a super-scalar, out-of-order architecture in simulation. Additionally, we apply prompt and hyperparameter optimization to achieve the best possible results without further training.
 
 ![我们探索利用大型语言模型来创作针对非功能性属性的系统级测试程序，旨在通过智能化手段提升软件质量保障效能。](../../../paper_images/2403.10086/x1.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10086)

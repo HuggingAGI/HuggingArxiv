@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`人工智能`
-
-`安全防护`
+`Agent` `人工智能` `安全防护`
 
 > AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions
 
@@ -25,3 +21,5 @@
 ![AVIBench 是一个专注于评估大型视觉-语言模型在面对对抗性视觉指令时的稳健性的研究项目，旨在揭示模型在此挑战性场景下的表现和适应能力。](../../../paper_images/2403.09346/x6.png)
 
 ![AVIBench 是一个专注于评估大型视觉-语言模型在面对对抗性视觉指令时的稳健性的研究项目，旨在揭示模型在此挑战性场景下的表现和适应能力。](../../../paper_images/2403.09346/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09346)

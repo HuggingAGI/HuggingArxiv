@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-`数据库`
-
-``
+`LLM应用` `数据库` ``
 
 > Query Rewriting via Large Language Models
 
@@ -18,3 +14,5 @@
 ![利用大型语言模型实现查询改写技术](../../../paper_images/2403.09060/workflow.1.png)
 
 ![利用大型语言模型实现查询改写技术](../../../paper_images/2403.09060/baseline_comparison.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09060)

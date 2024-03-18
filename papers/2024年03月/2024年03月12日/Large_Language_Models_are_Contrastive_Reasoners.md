@@ -2,11 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用`
-
-``
-
-`预训练模型`
+`LLM应用` `` `预训练模型`
 
 > Large Language Models are Contrastive Reasoners
 
@@ -51,3 +47,5 @@
 ![大型语言模型展现出了显著的对比推理能力](../../../paper_images/2403.08211/x18.png)
 
 ![大型语言模型展现出了显著的对比推理能力](../../../paper_images/2403.08211/x19.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08211)

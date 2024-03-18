@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-``
-
-`视频处理`
+`Agent` `` `视频处理`
 
 > DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers
 
@@ -19,3 +15,5 @@
 ![DSP技术为多维变换器引入了动态序列并行机制，旨在优化处理效率和性能。](../../../paper_images/2403.10266/x2.png)
 
 ![DSP技术为多维变换器引入了动态序列并行机制，旨在优化处理效率和性能。](../../../paper_images/2403.10266/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10266)

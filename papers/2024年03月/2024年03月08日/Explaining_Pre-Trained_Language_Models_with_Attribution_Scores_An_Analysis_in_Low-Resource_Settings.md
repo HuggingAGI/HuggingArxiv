@@ -39,3 +39,5 @@
 ![针对低资源场景，本研究通过归因分数深入剖析预训练语言模型的工作原理。](../../../paper_images/2403.05338/model_faith_tse.png)
 
 ![针对低资源场景，本研究通过归因分数深入剖析预训练语言模型的工作原理。](../../../paper_images/2403.05338/model_faith_esnli.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05338)

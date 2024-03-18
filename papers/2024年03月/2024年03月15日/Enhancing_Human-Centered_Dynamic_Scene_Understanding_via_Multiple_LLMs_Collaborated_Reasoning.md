@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`Agent`
-
-`机器人`
-
-`自动驾驶`
+`Agent` `机器人` `自动驾驶`
 
 > Enhancing Human-Centered Dynamic Scene Understanding via Multiple LLMs Collaborated Reasoning
 
@@ -21,3 +17,5 @@
 ![通过多台 LLM（大型语言模型）协同推理的方式，提升对以人类为中心的动态场景理解能力进一步优化后的](../../../paper_images/2403.10107/F3_agent.png)
 
 ![通过多台 LLM（大型语言模型）协同推理的方式，提升对以人类为中心的动态场景理解能力进一步优化后的](../../../paper_images/2403.10107/F5_vis.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10107)

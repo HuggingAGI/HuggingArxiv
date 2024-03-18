@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-``
-
-`事实核查`
+`LLM应用` `` `事实核查`
 
 > Team Trifecta at Factify5WQA: Setting the Standard in Fact Verification with Fine-Tuning
 
@@ -19,3 +15,5 @@
 ![Team Trifecta 在 Factify5WQA 项目中以微调技术树立了事实核查的新标杆](../../../paper_images/2403.10281/FakeNet_2.png)
 
 ![Team Trifecta 在 Factify5WQA 项目中以微调技术树立了事实核查的新标杆](../../../paper_images/2403.10281/confusion_matrix_h.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10281)

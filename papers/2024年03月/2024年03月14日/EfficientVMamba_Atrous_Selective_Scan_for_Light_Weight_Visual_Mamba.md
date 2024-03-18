@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`计算机视觉`
-
-``
+`Agent` `计算机视觉` ``
 
 > EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba
 
@@ -19,3 +15,5 @@
 ![EfficientVMamba，一种专为轻量级视觉Mamba设计的创新技术，通过采用空洞选择性扫描机制，实现高效处理。](../../../paper_images/2403.09977/scan.png)
 
 ![EfficientVMamba，一种专为轻量级视觉Mamba设计的创新技术，通过采用空洞选择性扫描机制，实现高效处理。](../../../paper_images/2403.09977/arch.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09977)

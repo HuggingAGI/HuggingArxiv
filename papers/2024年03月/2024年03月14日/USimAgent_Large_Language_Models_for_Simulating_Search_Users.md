@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`信息检索`
-
-``
+`Agent` `信息检索` ``
 
 > USimAgent: Large Language Models for Simulating Search Users
 
@@ -17,3 +13,5 @@
 ![USimAgent 是一款专门针对模拟搜索用户而设计的大规模语言模型，它利用强大的自然语言处理能力来仿真用户的搜索行为与意图。](../../../paper_images/2403.09142/x1.png)
 
 ![USimAgent 是一款专门针对模拟搜索用户而设计的大规模语言模型，它利用强大的自然语言处理能力来仿真用户的搜索行为与意图。](../../../paper_images/2403.09142/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09142)

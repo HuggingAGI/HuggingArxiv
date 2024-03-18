@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-`文本生成`
-
-`语言模型`
+`LLM应用` `文本生成` `语言模型`
 
 > ProSwitch: Knowledge-Guided Language Model Fine-Tuning to Generate Professional and Non-Professional Styled Text
 
@@ -19,3 +15,5 @@
 ![ProSwitch 是一种创新方法，它运用知识指导对语言模型进行精细调整，旨在实现生成兼具专业和非专业写作风格的文本。](../../../paper_images/2403.09131/x2.png)
 
 ![ProSwitch 是一种创新方法，它运用知识指导对语言模型进行精细调整，旨在实现生成兼具专业和非专业写作风格的文本。](../../../paper_images/2403.09131/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09131)

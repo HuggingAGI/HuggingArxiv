@@ -2,11 +2,7 @@
 
 发布时间：2024年03月07日
 
-`Agent`
-
-`文档处理`
-
-`多模态人工智能`
+`Agent` `文档处理` `多模态人工智能`
 
 > TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
 
@@ -29,3 +25,5 @@
 ![TextMonkey——一款突破性 OCR 限制的大型多模态模型，致力于深入理解和解析各类文档内容。](../../../paper_images/2403.04473/x3.png)
 
 ![TextMonkey——一款突破性 OCR 限制的大型多模态模型，致力于深入理解和解析各类文档内容。](../../../paper_images/2403.04473/x4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04473)

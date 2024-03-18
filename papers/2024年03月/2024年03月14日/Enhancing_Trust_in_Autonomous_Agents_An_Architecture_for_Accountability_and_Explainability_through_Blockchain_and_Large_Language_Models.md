@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`自主机器人`
-
-`可追溯性与可解释性`
+`Agent` `自主机器人` `可追溯性与可解释性`
 
 > Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models
 
@@ -55,3 +51,5 @@
 ![为提升对自主智能体的信任，我们提出了一种结合区块链技术和大型语言模型的新型架构，旨在实现自主智能体的责任追溯与可解释性。](../../../paper_images/2403.09567/criteria_evaluation_cat_scn2.png)
 
 ![为提升对自主智能体的信任，我们提出了一种结合区块链技术和大型语言模型的新型架构，旨在实现自主智能体的责任追溯与可解释性。](../../../paper_images/2403.09567/criteria_evaluation_cat_scn3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09567)

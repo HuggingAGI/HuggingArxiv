@@ -2,13 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`跨模态`
-
-`视觉-语言`
-
-`模型优化`
+`Agent` `跨模态` `视觉-语言` `模型优化`
 
 > Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks
 
@@ -33,3 +27,5 @@
 ![为了提升视觉-语言模型的参数效率与微调性能，我们提出在具有低秩瓶颈的视觉-语言模型微调过程中引入路由函数技术。](../../../paper_images/2403.09377/x8.png)
 
 ![为了提升视觉-语言模型的参数效率与微调性能，我们提出在具有低秩瓶颈的视觉-语言模型微调过程中引入路由函数技术。](../../../paper_images/2403.09377/x9.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09377)

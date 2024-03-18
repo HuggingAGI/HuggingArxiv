@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`语言识别`
-
-`社交媒体`
+`Agent` `语言识别` `社交媒体`
 
 > Geographically-Informed Language Identification
 
@@ -15,3 +11,5 @@
 > This paper develops an approach to language identification in which the set of languages considered by the model depends on the geographic origin of the text in question. Given that many digital corpora can be geo-referenced at the country level, this paper formulates 16 region-specific models, each of which contains the languages expected to appear in countries within that region. These regional models also each include 31 widely-spoken international languages in order to ensure coverage of these linguae francae regardless of location. An upstream evaluation using traditional language identification testing data shows an improvement in f-score ranging from 1.7 points (Southeast Asia) to as much as 10.4 points (North Africa). A downstream evaluation on social media data shows that this improved performance has a significant impact on the language labels which are applied to large real-world corpora. The result is a highly-accurate model that covers 916 languages at a sample size of 50 characters, the performance improved by incorporating geographic information into the model.
 
 ![基于地理位置的语言识别技术](../../../paper_images/2403.09892/map.agreement.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09892)

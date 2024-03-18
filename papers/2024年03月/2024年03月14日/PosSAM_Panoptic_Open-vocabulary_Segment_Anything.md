@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`计算机视觉`
-
-``
+`Agent` `计算机视觉` ``
 
 > PosSAM: Panoptic Open-vocabulary Segment Anything
 
@@ -31,3 +27,5 @@
 ![PosSAM：一款能够对任意目标进行泛视觉、开词汇表的全方位分割技术](../../../paper_images/2403.09620/x5.png)
 
 ![PosSAM：一款能够对任意目标进行泛视觉、开词汇表的全方位分割技术](../../../paper_images/2403.09620/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09620)

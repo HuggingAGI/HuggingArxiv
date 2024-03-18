@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-``
-
-`机器人技术`
+`Agent` `` `机器人技术`
 
 > Continuous Object State Recognition for Cooking Robots Using Pre-Trained Vision-Language Models and Black-box Optimization
 
@@ -33,3 +29,5 @@
 ![本研究运用预训练的视觉-语言模型与黑盒优化方法，助力烹饪机器人实现对连续物体状态的精准识别。](../../../paper_images/2403.08239/x9.png)
 
 ![本研究运用预训练的视觉-语言模型与黑盒优化方法，助力烹饪机器人实现对连续物体状态的精准识别。](../../../paper_images/2403.08239/x10.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08239)

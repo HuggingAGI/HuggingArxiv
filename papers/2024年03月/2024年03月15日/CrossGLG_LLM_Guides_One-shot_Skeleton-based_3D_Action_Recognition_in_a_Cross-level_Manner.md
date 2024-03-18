@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`动作识别`
-
-`骨架编码`
+`LLM应用` `动作识别` `骨架编码`
 
 > CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner
 
@@ -27,3 +23,5 @@
 ![CrossGLG 是一种创新方法，利用大型语言模型（LLM）以跨层次的方式实现仅通过一次示例就能指导基于骨架的3D动作识别。](../../../paper_images/2403.10082/x6.png)
 
 ![CrossGLG 是一种创新方法，利用大型语言模型（LLM）以跨层次的方式实现仅通过一次示例就能指导基于骨架的3D动作识别。](../../../paper_images/2403.10082/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10082)

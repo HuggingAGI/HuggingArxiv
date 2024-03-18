@@ -2,11 +2,7 @@
 
 发布时间：2024年03月11日
 
-`Agent`
-
-`电子设计自动化`
-
-`人工智能`
+`Agent` `电子设计自动化` `人工智能`
 
 > The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models
 
@@ -28,3 +24,5 @@
 ![随着AI原生EDA时代的来临，大型电路模型展现出了诱人前景和艰巨挑战。本研究探讨这一新兴领域中大型电路模型带来的承诺以及所面临的难题。](../../../paper_images/2403.07257/x6.png)
 
 ![随着AI原生EDA时代的来临，大型电路模型展现出了诱人前景和艰巨挑战。本研究探讨这一新兴领域中大型电路模型带来的承诺以及所面临的难题。](../../../paper_images/2403.07257/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07257)

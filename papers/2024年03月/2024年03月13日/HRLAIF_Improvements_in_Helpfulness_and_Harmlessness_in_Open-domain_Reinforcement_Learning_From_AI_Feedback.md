@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-``
-
-``
+`Agent` `` ``
 
 > HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback
 
@@ -43,3 +39,5 @@
 ![HRLAIF 是一种创新方法，它利用 AI 反馈，在开放域强化学习中显著提升了模型的有用性和减少潜在危害。该研究致力于优化人工智能在复杂环境下的决策行为，确保其更加有益且无害。](../../../paper_images/2403.08309/case.png)
 
 ![HRLAIF 是一种创新方法，它利用 AI 反馈，在开放域强化学习中显著提升了模型的有用性和减少潜在危害。该研究致力于优化人工智能在复杂环境下的决策行为，确保其更加有益且无害。](../../../paper_images/2403.08309/code.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08309)

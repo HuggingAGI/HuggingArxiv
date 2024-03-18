@@ -17,3 +17,5 @@
 ![GPT-4 是否具备运行经典游戏 DOOM 的能力？](../../../paper_images/2403.05468/E1M1_walkthrough_w_human.png)
 
 ![GPT-4 是否具备运行经典游戏 DOOM 的能力？](../../../paper_images/2403.05468/E1M1_all_trajectories.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05468)

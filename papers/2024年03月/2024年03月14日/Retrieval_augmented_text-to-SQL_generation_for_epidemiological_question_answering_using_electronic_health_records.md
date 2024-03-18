@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`RAG`
-
-``
-
-`流行病学`
+`RAG` `` `流行病学`
 
 > Retrieval augmented text-to-SQL generation for epidemiological question answering using electronic health records
 
@@ -15,3 +11,5 @@
 > Electronic health records (EHR) and claims data are rich sources of real-world data that reflect patient health status and healthcare utilization. Querying these databases to answer epidemiological questions is challenging due to the intricacy of medical terminology and the need for complex SQL queries. Here, we introduce an end-to-end methodology that combines text-to-SQL generation with retrieval augmented generation (RAG) to answer epidemiological questions using EHR and claims data. We show that our approach, which integrates a medical coding step into the text-to-SQL process, significantly improves the performance over simple prompting. Our findings indicate that although current language models are not yet sufficiently accurate for unsupervised use, RAG offers a promising direction for improving their capabilities, as shown in a realistic industry setting.
 
 ![本研究专注于利用电子健康记录，通过增强检索技术改进文本转SQL生成方法，应用于流行病学问题解答。](../../../paper_images/2403.09226/workflow.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09226)

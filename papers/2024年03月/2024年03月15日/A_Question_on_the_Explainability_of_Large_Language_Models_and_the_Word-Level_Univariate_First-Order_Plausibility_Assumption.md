@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM理论`
-
-``
-
-`模型解释`
+`LLM理论` `` `模型解释`
 
 > A Question on the Explainability of Large Language Models and the Word-Level Univariate First-Order Plausibility Assumption
 
@@ -33,3 +29,5 @@
 ![探究大型语言模型的可解释性难题，及其涉及词级别的单变量一阶合理性假设](../../../paper_images/2403.10275/Signal_C_long.png)
 
 ![探究大型语言模型的可解释性难题，及其涉及词级别的单变量一阶合理性假设](../../../paper_images/2403.10275/SNR_C_long.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10275)

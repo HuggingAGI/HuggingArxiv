@@ -2,11 +2,7 @@
 
 发布时间：2024年03月11日
 
-`Agent`
-
-``
-
-`医学影像`
+`Agent` `` `医学影像`
 
 > GuideGen: A Text-guided Framework for Joint CT Volume and Anatomical structure Generation
 
@@ -17,3 +13,5 @@
 ![GuideGen，一款创新的文本导向框架，专为协同生成CT体积数据与解剖结构而设计。](../../../paper_images/2403.07247/x1.png)
 
 ![GuideGen，一款创新的文本导向框架，专为协同生成CT体积数据与解剖结构而设计。](../../../paper_images/2403.07247/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07247)

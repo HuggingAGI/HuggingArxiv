@@ -2,11 +2,7 @@
 
 发布时间：2024年03月07日
 
-`Agent`
-
-`多模态模型`
-
-`计算机视觉`
+`Agent` `多模态模型` `计算机视觉`
 
 > CoTBal: Comprehensive Task Balancing for Multi-Task Visual Instruction Tuning
 
@@ -23,3 +19,5 @@
 ![CoTBal 是一种针对多任务视觉指令调优的全新方法，致力于实现全面的任务平衡，以优化模型在不同视觉指令任务中的综合表现。](../../../paper_images/2403.04343/x4.png)
 
 ![CoTBal 是一种针对多任务视觉指令调优的全新方法，致力于实现全面的任务平衡，以优化模型在不同视觉指令任务中的综合表现。](../../../paper_images/2403.04343/x5.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04343)

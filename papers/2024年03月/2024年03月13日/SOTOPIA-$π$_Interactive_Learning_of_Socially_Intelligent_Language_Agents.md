@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`Agent`
-
-`社交机器人`
-
-``
+`Agent` `社交机器人` ``
 
 > SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language Agents
 
@@ -41,3 +37,5 @@
 ![SOTOPIA-$π$项目致力于研究如何通过交互式学习培养具备社交智能的语言代理。](../../../paper_images/2403.08715/mmlu_accs2.png)
 
 ![SOTOPIA-$π$项目致力于研究如何通过交互式学习培养具备社交智能的语言代理。](../../../paper_images/2403.08715/mmlu_accs3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08715)

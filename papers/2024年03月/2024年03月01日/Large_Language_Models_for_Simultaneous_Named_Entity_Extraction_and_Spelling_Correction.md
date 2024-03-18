@@ -12,3 +12,5 @@
   In this paper, we hypothesise that decoder-only Large Language Models (LLMs) can also be used generatively to extract both the NE, as well as potentially recover the correct surface form of the NE, where any spelling errors that were present in the input text get automatically corrected.
   We fine-tune two BERT LMs as baselines, as well as eight open-source LLMs, on the task of producing NEs from text that was obtained by applying Optical Character Recognition (OCR) to images of Japanese shop receipts; in this work, we do not attempt to find or evaluate the location of NEs in the text.
   We show that the best fine-tuned LLM performs as well as, or slightly better than, the best fine-tuned BERT LM, although the differences are not significant. However, the best LLM is also shown to correct OCR errors in some cases, as initially hypothesised.
+
+[Arxiv](https://arxiv.org/abs/2403.00528)

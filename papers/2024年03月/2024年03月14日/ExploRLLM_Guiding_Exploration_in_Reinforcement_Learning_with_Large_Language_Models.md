@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`Agent`
-
-`机器人`
-
-``
+`Agent` `机器人` ``
 
 > ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models
 
@@ -39,3 +35,5 @@
 ![ExploRLLM 是一项研究，旨在利用大型语言模型（LLMs）来引导强化学习过程中的有效探索。](../../../paper_images/2403.09583/robot.png)
 
 ![ExploRLLM 是一项研究，旨在利用大型语言模型（LLMs）来引导强化学习过程中的有效探索。](../../../paper_images/2403.09583/x9.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09583)

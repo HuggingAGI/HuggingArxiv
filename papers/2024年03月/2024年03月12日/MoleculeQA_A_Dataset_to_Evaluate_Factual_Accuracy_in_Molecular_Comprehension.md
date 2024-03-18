@@ -2,11 +2,7 @@
 
 发布时间：2024年03月12日
 
-`LLM应用`
-
-``
-
-`问答系统`
+`LLM应用` `` `问答系统`
 
 > MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension
 
@@ -29,3 +25,5 @@
 ![MoleculeQA 是专为检验分子理解领域中事实准确性而设计的数据集，旨在助力科研人员评测模型在解析分子信息时的精准度。](../../../paper_images/2403.08192/x7.png)
 
 ![MoleculeQA 是专为检验分子理解领域中事实准确性而设计的数据集，旨在助力科研人员评测模型在解析分子信息时的精准度。](../../../paper_images/2403.08192/x8.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08192)

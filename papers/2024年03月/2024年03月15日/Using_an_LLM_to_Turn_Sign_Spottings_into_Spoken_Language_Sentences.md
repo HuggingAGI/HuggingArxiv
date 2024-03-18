@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`手语翻译`
-
-`视频处理`
+`LLM应用` `手语翻译` `视频处理`
 
 > Using an LLM to Turn Sign Spottings into Spoken Language Sentences
 
@@ -17,3 +13,5 @@
 ![通过运用 LLM 技术，我们可以将手语识别直接转化为流畅的口语句子。](../../../paper_images/2403.10434/fig1_blur.png)
 
 ![通过运用 LLM 技术，我们可以将手语识别直接转化为流畅的口语句子。](../../../paper_images/2403.10434/fig2_blur.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10434)

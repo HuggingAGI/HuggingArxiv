@@ -20,3 +20,5 @@
 ![InjecAgent 是一个针对工具整合型大型语言模型代理的基准测试项目，专注于探究间接提示注入技术的效果。](../../../paper_images/2403.02691/valid_rate.png)
 
 ![InjecAgent 是一个针对工具整合型大型语言模型代理的基准测试项目，专注于探究间接提示注入技术的效果。](../../../paper_images/2403.02691/rational_ASR.png)
+
+[Arxiv](https://arxiv.org/abs/2403.02691)

@@ -39,3 +39,5 @@
 ![Branch-Train-MiX 技术，旨在将多个专家级大型语言模型融合为一个混合型专家 LLM，通过该方法，各专家模型的优势得以有机结合，共同提升整体性能。](../../../paper_images/2403.07816/BTX_top2_math_3.png)
 
 ![Branch-Train-MiX 技术，旨在将多个专家级大型语言模型融合为一个混合型专家 LLM，通过该方法，各专家模型的优势得以有机结合，共同提升整体性能。](../../../paper_images/2403.07816/BTX_top2_reasoning_3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07816)

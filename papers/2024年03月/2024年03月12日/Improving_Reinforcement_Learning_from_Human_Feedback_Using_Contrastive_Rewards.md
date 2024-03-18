@@ -15,3 +15,5 @@
 ![利用对比性奖励优化基于人类反馈的强化学习方法，以提升其效果。](../../../paper_images/2403.07708/reward_diff_distribution.png)
 
 ![利用对比性奖励优化基于人类反馈的强化学习方法，以提升其效果。](../../../paper_images/2403.07708/x2.png)
+
+[Arxiv](https://arxiv.org/abs/2403.07708)

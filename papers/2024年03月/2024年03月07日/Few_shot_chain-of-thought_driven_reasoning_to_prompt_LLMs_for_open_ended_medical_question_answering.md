@@ -25,3 +25,5 @@
 ![针对开放式医疗问题解答，我们采用少量示例的链式思考驱动方式来激活LLM的强大推理能力。](../../../paper_images/2403.04890/noopt_llama7B.png)
 
 ![针对开放式医疗问题解答，我们采用少量示例的链式思考驱动方式来激活LLM的强大推理能力。](../../../paper_images/2403.04890/noopt_llama70B.png)
+
+[Arxiv](https://arxiv.org/abs/2403.04890)

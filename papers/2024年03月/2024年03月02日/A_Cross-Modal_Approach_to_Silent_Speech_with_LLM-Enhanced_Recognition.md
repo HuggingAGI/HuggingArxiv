@@ -2,11 +2,7 @@
 
 发布时间：2024年03月02日
 
-`Agent`
-
-`人机交互`
-
-`语音识别`
+`Agent` `人机交互` `语音识别`
 
 > A Cross-Modal Approach to Silent Speech with LLM-Enhanced Recognition
 
@@ -21,3 +17,5 @@
 ![我们提出了一种创新的跨模态方法，借助 LLM 强化技术来提升无声语音的识别能力。](../../../paper_images/2403.05583/val-wer_5000beams.png)
 
 ![我们提出了一种创新的跨模态方法，借助 LLM 强化技术来提升无声语音的识别能力。](../../../paper_images/2403.05583/wer_ctc-by-epoch.png)
+
+[Arxiv](https://arxiv.org/abs/2403.05583)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM理论`
-
-``
-
-`分布式计算`
+`LLM理论` `` `分布式计算`
 
 > BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences
 
@@ -27,3 +23,5 @@
 ![BurstAttention 是专为处理超长序列而设计的一种高效分布式注意力机制架构。](../../../paper_images/2403.09347/x6.png)
 
 ![BurstAttention 是专为处理超长序列而设计的一种高效分布式注意力机制架构。](../../../paper_images/2403.09347/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09347)

@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`LLM应用`
-
-`版权保护`
-
-``
+`LLM应用` `版权保护` ``
 
 > Lost in Overlap: Exploring Watermark Collision in LLMs
 
@@ -19,3 +15,5 @@
 ![探究 LLMS 中的水印碰撞现象，揭示隐藏在模型重叠区域的奥秘。](../../../paper_images/2403.10020/x2.png)
 
 ![探究 LLMS 中的水印碰撞现象，揭示隐藏在模型重叠区域的奥秘。](../../../paper_images/2403.10020/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10020)

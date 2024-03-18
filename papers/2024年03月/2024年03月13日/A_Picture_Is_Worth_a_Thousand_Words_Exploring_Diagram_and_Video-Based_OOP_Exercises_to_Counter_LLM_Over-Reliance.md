@@ -2,11 +2,7 @@
 
 发布时间：2024年03月13日
 
-`LLM应用`
-
-``
-
-`编程教育`
+`LLM应用` `` `编程教育`
 
 > A Picture Is Worth a Thousand Words: Exploring Diagram and Video-Based OOP Exercises to Counter LLM Over-Reliance
 
@@ -31,3 +27,5 @@
 ![在对抗大型语言模型过度依赖的过程中，我们发现“一图胜千言”。为此，我们探索了利用图表和视频进行面向对象编程练习的新途径，以减轻LLM过度依赖现象。](../../../paper_images/2403.08396/table3.png)
 
 ![在对抗大型语言模型过度依赖的过程中，我们发现“一图胜千言”。为此，我们探索了利用图表和视频进行面向对象编程练习的新途径，以减轻LLM过度依赖现象。](../../../paper_images/2403.08396/table4.png)
+
+[Arxiv](https://arxiv.org/abs/2403.08396)

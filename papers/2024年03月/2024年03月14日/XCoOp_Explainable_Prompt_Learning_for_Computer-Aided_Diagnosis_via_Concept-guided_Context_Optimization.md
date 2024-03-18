@@ -2,11 +2,7 @@
 
 发布时间：2024年03月14日
 
-`LLM应用`
-
-``
-
-`可解释人工智能`
+`LLM应用` `` `可解释人工智能`
 
 > XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization
 
@@ -23,3 +19,5 @@
 ![XCoOp：借助于概念指导下的上下文优化技术，实现对计算机辅助诊断任务具有可解释性的提示学习。](../../../paper_images/2403.09410/x5.png)
 
 ![XCoOp：借助于概念指导下的上下文优化技术，实现对计算机辅助诊断任务具有可解释性的提示学习。](../../../paper_images/2403.09410/x6.png)
+
+[Arxiv](https://arxiv.org/abs/2403.09410)

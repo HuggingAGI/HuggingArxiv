@@ -2,11 +2,7 @@
 
 发布时间：2024年03月15日
 
-`RAG`
-
-`行业领域自然语言处理`
-
-`信息检索`
+`RAG` `行业领域自然语言处理` `信息检索`
 
 > Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations: A Case Study on Domain-Specific Queries in Private Knowledge-Bases
 
@@ -21,3 +17,5 @@
 ![为解决LLM在处理特定领域查询时可能出现的虚构问题，本研究运用RAG技术提升其在私有知识库上的事实准确性，并进行了深入案例分析。](../../../paper_images/2403.10446/rag_pipeline.png)
 
 ![为解决LLM在处理特定领域查询时可能出现的虚构问题，本研究运用RAG技术提升其在私有知识库上的事实准确性，并进行了深入案例分析。](../../../paper_images/2403.10446/radar_plot.png)
+
+[Arxiv](https://arxiv.org/abs/2403.10446)
