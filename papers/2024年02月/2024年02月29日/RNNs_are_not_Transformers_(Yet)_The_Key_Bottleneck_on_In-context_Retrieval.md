@@ -1,4 +1,4 @@
-# [RNN 仍未进化为 Transformers：揭示 In-context 检索面临的核心难题](https://arxiv.org/abs/2402.18510)
+# [RNN 仍未进化为 Transformers：揭示 In-context 检索面临的核心难题]
 
 发布时间：2024年02月29日
 

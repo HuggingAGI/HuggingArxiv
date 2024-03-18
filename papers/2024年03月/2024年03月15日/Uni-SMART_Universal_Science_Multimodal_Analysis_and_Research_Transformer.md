@@ -1,4 +1,4 @@
-# [Uni-SMART 是一款致力于科学领域多模态数据分析与研究的通用Transformer模型。步骤解释：1. 直译：Uni-SMART 这个术语保持不变，"Universal Science Multimodal Analysis and Research Transformer" 翻译为“通用科学多模态分析与研究Transformer”，确保了专业术语的准确传达。2. 优化：在直译的基础上，简化并调整语序以符合中文表达习惯，使整体表述更加流畅、易懂，同时强调了Uni-SMART模型在科学领域多模态数据分析与研究方面的应用特点。](https://arxiv.org/abs/2403.10301)
+# [Uni-SMART 是一款致力于科学领域多模态数据分析与研究的通用Transformer模型。步骤解释：1. 直译：Uni-SMART 这个术语保持不变，"Universal Science Multimodal Analysis and Research Transformer" 翻译为“通用科学多模态分析与研究Transformer”，确保了专业术语的准确传达。2. 优化：在直译的基础上，简化并调整语序以符合中文表达习惯，使整体表述更加流畅、易懂，同时强调了Uni-SMART模型在科学领域多模态数据分析与研究方面的应用特点。]
 
 发布时间：2024年03月15日
 

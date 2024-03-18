@@ -1,4 +1,4 @@
-# [FashionReGen：借助LLM力量，革新时尚报告自动生成领域](https://arxiv.org/abs/2403.06660)
+# [FashionReGen：借助LLM力量，革新时尚报告自动生成领域]
 
 发布时间：2024年03月11日
 

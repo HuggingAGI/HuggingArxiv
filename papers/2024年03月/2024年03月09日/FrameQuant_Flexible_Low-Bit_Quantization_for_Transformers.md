@@ -1,4 +1,4 @@
-# [FrameQuant是一种针对Transformer设计的弹性低比特量化方案。](https://arxiv.org/abs/2403.06082)
+# [FrameQuant是一种针对Transformer设计的弹性低比特量化方案。]
 
 发布时间：2024年03月09日
 

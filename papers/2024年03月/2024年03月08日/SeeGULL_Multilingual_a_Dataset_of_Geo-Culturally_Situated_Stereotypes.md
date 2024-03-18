@@ -1,4 +1,4 @@
-# [SeeGULL Multilingual 数据集，专门收录了具有地理文化情境的刻板印象实例。](https://arxiv.org/abs/2403.05696)
+# [SeeGULL Multilingual 数据集，专门收录了具有地理文化情境的刻板印象实例。]
 
 发布时间：2024年03月08日
 

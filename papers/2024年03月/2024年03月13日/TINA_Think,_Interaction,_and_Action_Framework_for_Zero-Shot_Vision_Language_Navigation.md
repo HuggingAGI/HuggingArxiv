@@ -1,4 +1,4 @@
-# [TINA 是一个专为零样本视觉语言导航设计的框架，涵盖了思考（Think）、交互（Interaction）和行动（Action）三个关键维度。](https://arxiv.org/abs/2403.08833)
+# [TINA 是一个专为零样本视觉语言导航设计的框架，涵盖了思考（Think）、交互（Interaction）和行动（Action）三个关键维度。]
 
 发布时间：2024年03月13日
 

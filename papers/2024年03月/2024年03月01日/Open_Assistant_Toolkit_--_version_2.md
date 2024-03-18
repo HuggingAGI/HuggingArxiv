@@ -1,4 +1,4 @@
-# [Open Assistant Toolkit 第二版](https://arxiv.org/abs/2403.00586)
+# [Open Assistant Toolkit 第二版]
 
 发布时间：2024年03月01日
 

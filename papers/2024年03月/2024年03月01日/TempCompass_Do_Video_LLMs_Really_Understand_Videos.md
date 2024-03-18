@@ -1,4 +1,4 @@
-# [TempCompass——探究视频 LLM 是否真正具备理解视频内容的能力。](https://arxiv.org/abs/2403.00476)
+# [TempCompass——探究视频 LLM 是否真正具备理解视频内容的能力。]
 
 发布时间：2024年03月01日
 

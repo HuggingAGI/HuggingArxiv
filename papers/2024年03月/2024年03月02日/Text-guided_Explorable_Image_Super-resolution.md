@@ -1,4 +1,4 @@
-# [Text-guided Explorable Image Super-resolution，即借助文本引导实现可交互式探索的图像超分辨率技术。](https://arxiv.org/abs/2403.01124)
+# [Text-guided Explorable Image Super-resolution，即借助文本引导实现可交互式探索的图像超分辨率技术。]
 
 发布时间：2024年03月02日
 

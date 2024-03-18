@@ -1,4 +1,4 @@
-# [面向监督在线连续学习的 Transformer 模型研究](https://arxiv.org/abs/2403.01554)
+# [面向监督在线连续学习的 Transformer 模型研究]
 
 发布时间：2024年03月03日
 

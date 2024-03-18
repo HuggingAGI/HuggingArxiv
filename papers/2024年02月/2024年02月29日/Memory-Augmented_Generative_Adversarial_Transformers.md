@@ -1,4 +1,4 @@
-# [记忆强化的生成对抗Transformer模型](https://arxiv.org/abs/2402.19218)
+# [记忆强化的生成对抗Transformer模型]
 
 发布时间：2024年02月29日
 

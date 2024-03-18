@@ -1,4 +1,4 @@
-# [针对定时进程演算（Timed CCS）中体现的强优先级与确定性进行深入探讨，揭示其内在机制与影响。步骤 1 翻译：Strong Priority and Determinacy in Timed Calculus of Communicating Systems (CCS)步骤 2 翻译：在通信系统计时演算（Timed CCS）中，强优先级与确定性的概念具有重要价值。本研究致力于阐述并剖析这两个特性在处理实时交互过程中的作用及其对系统行为的深刻影响。](https://arxiv.org/abs/2403.04618)
+# [针对定时进程演算（Timed CCS）中体现的强优先级与确定性进行深入探讨，揭示其内在机制与影响。步骤 1 翻译：Strong Priority and Determinacy in Timed Calculus of Communicating Systems (CCS)步骤 2 翻译：在通信系统计时演算（Timed CCS）中，强优先级与确定性的概念具有重要价值。本研究致力于阐述并剖析这两个特性在处理实时交互过程中的作用及其对系统行为的深刻影响。]
 
 发布时间：2024年03月07日
 

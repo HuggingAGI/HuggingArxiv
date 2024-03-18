@@ -1,4 +1,4 @@
-# [Emojinize项目致力于为任意文本增添生动有趣的Emoji表达，实现文本内容的emoji化增强。](https://arxiv.org/abs/2403.03857)
+# [Emojinize项目致力于为任意文本增添生动有趣的Emoji表达，实现文本内容的emoji化增强。]
 
 发布时间：2024年03月06日
 

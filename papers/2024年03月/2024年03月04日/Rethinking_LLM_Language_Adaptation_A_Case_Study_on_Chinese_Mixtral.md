@@ -1,4 +1,4 @@
-# [对LLM的语言适应性进行再思考——以“Chinese Mixtral”为例的深度探究](https://arxiv.org/abs/2403.01851)
+# [对LLM的语言适应性进行再思考——以“Chinese Mixtral”为例的深度探究]
 
 发布时间：2024年03月04日
 
