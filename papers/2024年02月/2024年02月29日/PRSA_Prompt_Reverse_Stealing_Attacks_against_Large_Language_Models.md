@@ -1,4 +1,4 @@
-# [PRSA：一种针对大型语言模型的新型攻击手段——Prompt Reverse Stealing，通过逆向窃取提示信息对LLM发起挑战。]
+# PRSA：一种针对大型语言模型的新型攻击手段——Prompt Reverse Stealing，通过逆向窃取提示信息对LLM发起挑战。
 
 发布时间：2024年02月29日
 

@@ -1,4 +1,4 @@
-# [ViTCN 是一种视觉Transformer对比网络，专为推理任务设计。]
+# ViTCN 是一种视觉Transformer对比网络，专为推理任务设计。
 
 发布时间：2024年03月14日
 

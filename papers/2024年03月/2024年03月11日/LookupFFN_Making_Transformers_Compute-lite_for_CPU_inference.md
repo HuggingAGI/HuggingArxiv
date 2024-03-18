@@ -1,4 +1,4 @@
-# [LookupFFN：为CPU推理打造更轻巧的Transformer计算结构]
+# LookupFFN：为CPU推理打造更轻巧的Transformer计算结构
 
 发布时间：2024年03月11日
 

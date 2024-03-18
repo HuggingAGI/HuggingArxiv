@@ -1,4 +1,4 @@
-# [Team Trifecta 在 Factify5WQA 项目中以微调技术树立了事实核查的新标杆]
+# Team Trifecta 在 Factify5WQA 项目中以微调技术树立了事实核查的新标杆
 
 发布时间：2024年03月15日
 

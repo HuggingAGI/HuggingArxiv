@@ -1,4 +1,4 @@
-# [面向电商领域的 General2Specialized LLMs 翻译技术]
+# 面向电商领域的 General2Specialized LLMs 翻译技术
 
 发布时间：2024年03月06日
 

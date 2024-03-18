@@ -1,4 +1,4 @@
-# [StarCoder 2 与 The Stack v2：引领下一代创新潮流]
+# StarCoder 2 与 The Stack v2：引领下一代创新潮流
 
 发布时间：2024年02月29日
 

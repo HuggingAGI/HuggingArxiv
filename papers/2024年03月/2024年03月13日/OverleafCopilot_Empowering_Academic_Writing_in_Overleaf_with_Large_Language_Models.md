@@ -1,4 +1,4 @@
-# [OverleafCopilot：借助大型语言模型的力量，让 Overleaf 上的学术写作如虎添翼步骤详解：]
+# OverleafCopilot：借助大型语言模型的力量，让 Overleaf 上的学术写作如虎添翼步骤详解：
 
 发布时间：2024年03月13日
 

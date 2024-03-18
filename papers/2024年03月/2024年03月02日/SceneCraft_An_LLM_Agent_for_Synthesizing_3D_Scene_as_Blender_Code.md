@@ -1,4 +1,4 @@
-# [SceneCraft——专为生成Blender代码而设计的3D场景构建LLM智能体]
+# SceneCraft——专为生成Blender代码而设计的3D场景构建LLM智能体
 
 发布时间：2024年03月02日
 
