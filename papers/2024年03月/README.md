@@ -2755,3 +2755,259 @@
 - [Emotion-Aware Multimodal Fusion for Meme Emotion Detection](2024年03月15日/Emotion-Aware_Multimodal_Fusion_for_Meme_Emotion_Detection.md)
 
     - [翻译: 为了提升表情包情感检测的准确性，我们提出了一种情绪感知的多模态融合方法，通过深度融合图像与文本信息，精准捕捉表情包中蕴含的情感色彩。](2024年03月15日/Emotion-Aware_Multimodal_Fusion_for_Meme_Emotion_Detection.md)
+
+- [S3LLM: Large-Scale Scientific Software Understanding with LLMs using Source, Metadata, and Document](2024年03月15日/S3LLM_Large-Scale_Scientific_Software_Understanding_with_LLMs_using_Source,_Metadata,_and_Document.md)
+
+    - [翻译: S3LLM项目借助LLMs的力量，整合了源代码、元数据与相关文档资源，以实现对大型科学软件深层次、全方位的理解。](2024年03月15日/S3LLM_Large-Scale_Scientific_Software_Understanding_with_LLMs_using_Source,_Metadata,_and_Document.md)
+
+- [GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment](2024年03月16日/GOMA_Proactive_Embodied_Cooperative_Communication_via_Goal-Oriented_Mental_Alignment.md)
+
+    - [翻译: GOMA 是一种创新方法，通过目标导向的心理对齐机制实现积极主动的具身化合作沟通。](2024年03月16日/GOMA_Proactive_Embodied_Cooperative_Communication_via_Goal-Oriented_Mental_Alignment.md)
+
+- [Fine-Grained Engine Fault Sound Event Detection Using Multimodal Signals](2024年03月16日/Fine-Grained_Engine_Fault_Sound_Event_Detection_Using_Multimodal_Signals.md)
+
+    - [翻译: 针对发动机故障声音事件的精准识别，本研究采用多模态信号技术，旨在实现对各类微小故障声音细节的敏锐捕捉与精确判断。](2024年03月16日/Fine-Grained_Engine_Fault_Sound_Event_Detection_Using_Multimodal_Signals.md)
+
+- [MIntRec2.0: A Large-scale Benchmark Dataset for Multimodal Intent Recognition and Out-of-scope Detection in Conversations](2024年03月16日/MIntRec2.0_A_Large-scale_Benchmark_Dataset_for_Multimodal_Intent_Recognition_and_Out-of-scope_Detection_in_Conversations.md)
+
+    - [翻译: MIntRec2.0 是专为对话场景打造的大规模基准数据集，它聚焦于多模态意图识别及范围外检测两大挑战性任务。](2024年03月16日/MIntRec2.0_A_Large-scale_Benchmark_Dataset_for_Multimodal_Intent_Recognition_and_Out-of-scope_Detection_in_Conversations.md)
+
+- [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](2024年03月16日/A_Comprehensive_Study_of_Multimodal_Large_Language_Models_for_Image_Quality_Assessment.md)
+
+    - [翻译: 本研究全方位探究了应用于图像质量评估任务的多模态大型语言模型，旨在深入理解此类模型在该领域的性能与潜力。](2024年03月16日/A_Comprehensive_Study_of_Multimodal_Large_Language_Models_for_Image_Quality_Assessment.md)
+
+- [LLM Guided Evolution - The Automation of Models Advancing Models](2024年03月17日/LLM_Guided_Evolution_-_The_Automation_of_Models_Advancing_Models.md)
+
+    - [翻译: 在LLM引导下，模型驱动模型自动演进的新范式](2024年03月17日/LLM_Guided_Evolution_-_The_Automation_of_Models_Advancing_Models.md)
+
+- [StyleChat: Learning Recitation-Augmented Memory in LLMs for Stylized Dialogue Generation](2024年03月17日/StyleChat_Learning_Recitation-Augmented_Memory_in_LLMs_for_Stylized_Dialogue_Generation.md)
+
+    - [翻译: StyleChat 是一项研究，通过在大型语言模型中融入强化记忆技术，旨在提升模型进行风格化对话生成的能力。](2024年03月17日/StyleChat_Learning_Recitation-Augmented_Memory_in_LLMs_for_Stylized_Dialogue_Generation.md)
+
+- [InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with Instructions](2024年03月17日/InsCL_A_Data-efficient_Continual_Learning_Paradigm_for_Fine-tuning_Large_Language_Models_with_Instructions.md)
+
+    - [翻译: InsCL 是一种新型的数据高效持续学习方法，专门针对大型语言模型进行指令引导的微调过程。这一范式有助于在节省数据的前提下，提升大型语言模型应对不断变化任务的学习能力。](2024年03月17日/InsCL_A_Data-efficient_Continual_Learning_Paradigm_for_Fine-tuning_Large_Language_Models_with_Instructions.md)
+
+- [A Novel Paradigm Boosting Translation Capabilities of Large Language Models](2024年03月17日/A_Novel_Paradigm_Boosting_Translation_Capabilities_of_Large_Language_Models.md)
+
+    - [翻译: 一种创新范式助力大型语言模型提升翻译效能](2024年03月17日/A_Novel_Paradigm_Boosting_Translation_Capabilities_of_Large_Language_Models.md)
+
+- [Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure](2024年03月17日/Narrative_Feature_or_Structured_Feature_A_Study_of_Large_Language_Models_to_Identify_Cancer_Patients_at_Risk_of_Heart_Failure.md)
+
+    - [翻译: 探究大型语言模型在识别心脏病风险癌症患者方面，究竟是叙事特征更具优势，还是结构化特征更胜一筹。本研究针对这一问题，对大型语言模型进行深入分析，旨在揭示其在处理不同类型特征时，在识别癌症患者并发心力衰竭风险上的效能差异。](2024年03月17日/Narrative_Feature_or_Structured_Feature_A_Study_of_Large_Language_Models_to_Identify_Cancer_Patients_at_Risk_of_Heart_Failure.md)
+
+- [FastDecode: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines](2024年03月17日/FastDecode_High-Throughput_GPU-Efficient_LLM_Serving_using_Heterogeneous_Pipelines.md)
+
+    - [翻译: FastDecode是一种利用异构流水线技术，大幅提升GPU效率以实现大规模语言模型（LLM）高速服务的方法。](2024年03月17日/FastDecode_High-Throughput_GPU-Efficient_LLM_Serving_using_Heterogeneous_Pipelines.md)
+
+- [Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning](2024年03月17日/Scene-LLM_Extending_Language_Model_for_3D_Visual_Understanding_and_Reasoning.md)
+
+    - [翻译: Scene-LLM：致力于增强语言模型能力，使其能够理解和推理三维视觉场景，从而开启全新的三维视觉智能应用领域。](2024年03月17日/Scene-LLM_Extending_Language_Model_for_3D_Visual_Understanding_and_Reasoning.md)
+
+- [X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment](2024年03月17日/X-LLaVA_Optimizing_Bilingual_Large_Vision-Language_Alignment.md)
+
+    - [翻译: X-LLaVA：致力于优化双语环境下大型视觉与语言模型的深度对齐能力](2024年03月17日/X-LLaVA_Optimizing_Bilingual_Large_Vision-Language_Alignment.md)
+
+- [Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot](2024年03月17日/Can_LLM-Augmented_autonomous_agents_cooperate,_An_evaluation_of_their_cooperative_capabilities_through_Melting_Pot.md)
+
+    - [翻译: 在 Melting Pot 环境中检验 LLMA（大型语言模型增强）自主代理能否有效合作？本研究通过一系列实验评估其合作能力。注：这里我将 "Can LLM-Augmented autonomous agents cooperate?" 翻译为“LLM 增强型自主代理能否有效合作？”以更符合中文口语表达，并将 "An evaluation of their cooperative capabilities through Melting Pot" 翻译为“本研究通过一系列 Melting Pot 实验评估其合作能力”，以更贴合中文阅读习惯，同时保持原句主旨。](2024年03月17日/Can_LLM-Augmented_autonomous_agents_cooperate,_An_evaluation_of_their_cooperative_capabilities_through_Melting_Pot.md)
+
+- [What Makes Math Word Problems Challenging for LLMs?](2024年03月17日/What_Makes_Math_Word_Problems_Challenging_for_LLMs.md)
+
+    - [翻译: 究竟为何数学文本题目会对 LLMs 造成困扰呢？](2024年03月17日/What_Makes_Math_Word_Problems_Challenging_for_LLMs.md)
+
+- [Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems](2024年03月17日/Dynamic_Contexts_for_Generating_Suggestion_Questions_in_RAG_Based_Conversational_Systems.md)
+
+    - [翻译: 本研究探讨了如何在以 RAG 为核心的对话系统中利用动态上下文来生成更具启发性的建议性问题，以提升交互体验和信息检索效率。](2024年03月17日/Dynamic_Contexts_for_Generating_Suggestion_Questions_in_RAG_Based_Conversational_Systems.md)
+
+- [JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning](2024年03月17日/JORA_JAX_Tensor-Parallel_LoRA_Library_for_Retrieval_Augmented_Fine-Tuning.md)
+
+    - [翻译: JORA 是一个专为提升检索增强微调效果而设计的 JAX 张量并行 LoRA 库。它利用张量并行技术，优化了在检索增强场景下对模型进行细调时的计算效率和性能表现。](2024年03月17日/JORA_JAX_Tensor-Parallel_LoRA_Library_for_Retrieval_Augmented_Fine-Tuning.md)
+
+- [Beyond Static Evaluation: A Dynamic Approach to Assessing AI Assistants' API Invocation Capabilities](2024年03月17日/Beyond_Static_Evaluation_A_Dynamic_Approach_to_Assessing_AI_Assistants'_API_Invocation_Capabilities.md)
+
+    - [翻译: 不仅限于静态评测，本研究提出了一种新颖的动态方法，用于深入探究和评估 AI 助手调用 API 的能力。](2024年03月17日/Beyond_Static_Evaluation_A_Dynamic_Approach_to_Assessing_AI_Assistants'_API_Invocation_Capabilities.md)
+
+- [Few-Shot VQA with Frozen LLMs: A Tale of Two Approaches](2024年03月17日/Few-Shot_VQA_with_Frozen_LLMs_A_Tale_of_Two_Approaches.md)
+
+    - [翻译: 在“少量样本 VQA 与冻结 LLM：两种方法的探析”中，我们探讨了如何利用冻结的大型语言模型，在仅提供少量样本的情况下解决视觉问答（VQA）任务，通过对比两种不同策略来揭示其潜力和特点。](2024年03月17日/Few-Shot_VQA_with_Frozen_LLMs_A_Tale_of_Two_Approaches.md)
+
+- [ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models](2024年03月17日/ManipVQA_Injecting_Robotic_Affordance_and_Physically_Grounded_Information_into_Multi-Modal_Large_Language_Models.md)
+
+    - [翻译: ManipVQA项目致力于将机器人操作性及物理实证信息巧妙地融入到多模态大型语言模型中，以增强其理解与推理能力。](2024年03月17日/ManipVQA_Injecting_Robotic_Affordance_and_Physically_Grounded_Information_into_Multi-Modal_Large_Language_Models.md)
+
+- [Correcting misinformation on social media with a large language model](2024年03月17日/Correcting_misinformation_on_social_media_with_a_large_language_model.md)
+
+    - [翻译: 本研究探讨如何运用大型语言模型有效纠正社交媒体上流传的误导性信息。](2024年03月17日/Correcting_misinformation_on_social_media_with_a_large_language_model.md)
+
+- [MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control](2024年03月18日/MineDreamer_Learning_to_Follow_Instructions_via_Chain-of-Imagination_for_Simulated-World_Control.md)
+
+    - [翻译: MineDreamer，一种创新方法，通过“链式想象”机制，在模拟世界的控制情境中实现对指令的精准跟随。](2024年03月18日/MineDreamer_Learning_to_Follow_Instructions_via_Chain-of-Imagination_for_Simulated-World_Control.md)
+
+- [ROUTERBENCH: A Benchmark for Multi-LLM Routing System](2024年03月18日/ROUTERBENCH_A_Benchmark_for_Multi-LLM_Routing_System.md)
+
+    - [翻译: ROUTERBENCH：专为多大型语言模型（Multi-LLM）路由系统设计的一套权威基准测试方案](2024年03月18日/ROUTERBENCH_A_Benchmark_for_Multi-LLM_Routing_System.md)
+
+- [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](2024年03月18日/From_Pixels_to_Insights_A_Survey_on_Automatic_Chart_Understanding_in_the_Era_of_Large_Foundation_Models.md)
+
+    - [翻译: 在大型基础模型盛行的时代，这篇综述文章带领我们探索从原始像素出发，深入理解自动图表解析的历程。](2024年03月18日/From_Pixels_to_Insights_A_Survey_on_Automatic_Chart_Understanding_in_the_Era_of_Large_Foundation_Models.md)
+
+- [FlexCap: Generating Rich, Localized, and Flexible Captions in Images](2024年03月18日/FlexCap_Generating_Rich,_Localized,_and_Flexible_Captions_in_Images.md)
+
+    - [翻译: FlexCap：致力于在图像中生成既丰富多样、定位精准又具备灵活性的标题](2024年03月18日/FlexCap_Generating_Rich,_Localized,_and_Flexible_Captions_in_Images.md)
+
+- [A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models](2024年03月18日/A_Toolbox_for_Surfacing_Health_Equity_Harms_and_Biases_in_Large_Language_Models.md)
+
+    - [翻译: 针对大型语言模型中的健康公平性损害与偏见问题，我们推出一款专门的工具箱，旨在深度挖掘并揭示其中存在的相关问题。](2024年03月18日/A_Toolbox_for_Surfacing_Health_Equity_Harms_and_Biases_in_Large_Language_Models.md)
+
+- [Supervised Fine-Tuning as Inverse Reinforcement Learning](2024年03月18日/Supervised_Fine-Tuning_as_Inverse_Reinforcement_Learning.md)
+
+    - [翻译: 将监督微调视为逆向强化学习，这一新颖视角揭示了预训练模型在特定任务上微调的潜在机制。通过借鉴强化学习中的逆向方法，我们尝试理解并解析在有监督环境下对大型预训练模型进行调整以优化其在特定下游任务性能背后的“奖励”信号。](2024年03月18日/Supervised_Fine-Tuning_as_Inverse_Reinforcement_Learning.md)
+
+- [EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents](2024年03月18日/EnvGen_Generating_and_Adapting_Environments_via_LLMs_for_Training_Embodied_Agents.md)
+
+    - [翻译: EnvGen 是一项利用 LLM 技术，针对具身智能体训练而设计的环境生成与适应方法。它能够动态创建并调整适宜的虚拟环境，以满足具身智能体的学习需求。](2024年03月18日/EnvGen_Generating_and_Adapting_Environments_via_LLMs_for_Training_Embodied_Agents.md)
+
+- [The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing](2024年03月18日/The_Value,_Benefits,_and_Concerns_of_Generative_AI-Powered_Assistance_in_Writing.md)
+
+    - [翻译: 探究生成式AI在写作辅助中的价值与优势，同时分析由此引发的关注和挑战。](2024年03月18日/The_Value,_Benefits,_and_Concerns_of_Generative_AI-Powered_Assistance_in_Writing.md)
+
+- [Using Generative Text Models to Create Qualitative Codebooks for Student Evaluations of Teaching](2024年03月18日/Using_Generative_Text_Models_to_Create_Qualitative_Codebooks_for_Student_Evaluations_of_Teaching.md)
+
+    - [翻译: 利用生成式文本模型的力量，我们致力于为学生教学评估构建一套详尽的定性编码手册，以提升评估过程的准确性和深度。](2024年03月18日/Using_Generative_Text_Models_to_Create_Qualitative_Codebooks_for_Student_Evaluations_of_Teaching.md)
+
+- [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment](2024年03月18日/Subjective-Aligned_Dateset_and_Metric_for_Text-to-Video_Quality_Assessment.md)
+
+    - [翻译: 为文本转视频质量评估构建了主观对齐的数据集及相应评估指标。](2024年03月18日/Subjective-Aligned_Dateset_and_Metric_for_Text-to-Video_Quality_Assessment.md)
+
+- [Larimar: Large Language Models with Episodic Memory Control](2024年03月18日/Larimar_Large_Language_Models_with_Episodic_Memory_Control.md)
+
+    - [翻译: Larimar 是一种具备情境记忆控制功能的大型语言模型，它能够在处理和生成文本时利用情境记忆进行更精准、灵活和上下文相关的操作。](2024年03月18日/Larimar_Large_Language_Models_with_Episodic_Memory_Control.md)
+
+- [Investigating Markers and Drivers of Gender Bias in Machine Translations](2024年03月18日/Investigating_Markers_and_Drivers_of_Gender_Bias_in_Machine_Translations.md)
+
+    - [翻译: 本研究深入探究了机器翻译系统中存在的性别偏见标记及其产生原因，旨在揭示驱动这一现象的背后因素。](2024年03月18日/Investigating_Markers_and_Drivers_of_Gender_Bias_in_Machine_Translations.md)
+
+- [SuperLoRA: Parameter-Efficient Unified Adaptation of Multi-Layer Attention Modules](2024年03月18日/SuperLoRA_Parameter-Efficient_Unified_Adaptation_of_Multi-Layer_Attention_Modules.md)
+
+    - [翻译: SuperLoRA：一种针对多层注意力模块的参数高效统一调适技术](2024年03月18日/SuperLoRA_Parameter-Efficient_Unified_Adaptation_of_Multi-Layer_Attention_Modules.md)
+
+- [QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction](2024年03月18日/QueryAgent_A_Reliable_and_Efficient_Reasoning_Framework_with_Environmental_Feedback_based_Self-Correction.md)
+
+    - [翻译: QueryAgent 是一个创新的推理框架，它借助环境反馈实现自我校正，既保证了推理过程的可靠性，又提升了效率。步骤详解：](2024年03月18日/QueryAgent_A_Reliable_and_Efficient_Reasoning_Framework_with_Environmental_Feedback_based_Self-Correction.md)
+
+- [Context-aware LLM-based Safe Control Against Latent Risks](2024年03月18日/Context-aware_LLM-based_Safe_Control_Against_Latent_Risks.md)
+
+    - [翻译: 针对隐性风险，本研究探讨了利用上下文感知的大型语言模型进行安全控制的方法。](2024年03月18日/Context-aware_LLM-based_Safe_Control_Against_Latent_Risks.md)
+
+- [GPT-4 as Evaluator: Evaluating Large Language Models on Pest Management in Agriculture](2024年03月18日/GPT-4_as_Evaluator_Evaluating_Large_Language_Models_on_Pest_Management_in_Agriculture.md)
+
+    - [翻译: GPT-4 担纲评估员角色，针对农业害虫管理领域对大型语言模型进行深入测评。](2024年03月18日/GPT-4_as_Evaluator_Evaluating_Large_Language_Models_on_Pest_Management_in_Agriculture.md)
+
+- [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](2024年03月18日/Ensuring_Safe_and_High-Quality_Outputs_A_Guideline_Library_Approach_for_Language_Models.md)
+
+    - [翻译: 为确保语言模型产出既安全又高质量，我们提出一种基于指南库的方法。通过构建一套详尽的指南库策略，本研究致力于引导和规范语言模型的输出行为。](2024年03月18日/Ensuring_Safe_and_High-Quality_Outputs_A_Guideline_Library_Approach_for_Language_Models.md)
+
+- [Agent3D-Zero: An Agent for Zero-shot 3D Understanding](2024年03月18日/Agent3D-Zero_An_Agent_for_Zero-shot_3D_Understanding.md)
+
+    - [翻译: Agent3D-Zero，一款专为实现零样本三维理解而设计的智能代理](2024年03月18日/Agent3D-Zero_An_Agent_for_Zero-shot_3D_Understanding.md)
+
+- [Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics](2024年03月18日/Evaluating_Text_to_Image_Synthesis_Survey_and_Taxonomy_of_Image_Quality_Metrics.md)
+
+    - [翻译: 探究文本生成图像的质量评估：本研究对图像质量度量进行详尽梳理，并构建了一套针对文本到图像合成任务的度量指标分类体系。](2024年03月18日/Evaluating_Text_to_Image_Synthesis_Survey_and_Taxonomy_of_Image_Quality_Metrics.md)
+
+- [TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions](2024年03月18日/TCNet_Continuous_Sign_Language_Recognition_from_Trajectories_and_Correlated_Regions.md)
+
+    - [翻译: TCNet 是一种用于连续手语识别的模型，它能从手势运动轨迹以及相关联的关键区域中捕捉并解析信息。](2024年03月18日/TCNet_Continuous_Sign_Language_Recognition_from_Trajectories_and_Correlated_Regions.md)
+
+- [Metaphor Understanding Challenge Dataset for LLMs](2024年03月18日/Metaphor_Understanding_Challenge_Dataset_for_LLMs.md)
+
+    - [翻译: LLMs 隐喻理解挑战数据集，专为检验大型语言模型对复杂隐喻的理解能力而设计](2024年03月18日/Metaphor_Understanding_Challenge_Dataset_for_LLMs.md)
+
+- [How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments](2024年03月18日/How_Far_Are_We_on_the_Decision-Making_of_LLMs_Evaluating_LLMs'_Gaming_Ability_in_Multi-Agent_Environments.md)
+
+    - [翻译: 面对多智能体环境下的决策制定，我们对LLMs（大型语言模型）的能力探索到了何种程度？此研究致力于评估LLMs在游戏中展现的多智能体交互决策能力。](2024年03月18日/How_Far_Are_We_on_the_Decision-Making_of_LLMs_Evaluating_LLMs'_Gaming_Ability_in_Multi-Agent_Environments.md)
+
+- [Counting-Stars: A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models](2024年03月18日/Counting-Stars_A_Simple,_Efficient,_and_Reasonable_Strategy_for_Evaluating_Long-Context_Large_Language_Models.md)
+
+    - [翻译: Counting-Stars——我们提出了一种简洁高效的方案，用以评估长上下文大型语言模型，该策略在评估过程中兼顾了合理性和准确性。](2024年03月18日/Counting-Stars_A_Simple,_Efficient,_and_Reasonable_Strategy_for_Evaluating_Long-Context_Large_Language_Models.md)
+
+- [Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus](2024年03月18日/Reasoning_Abilities_of_Large_Language_Models_In-Depth_Analysis_on_the_Abstraction_and_Reasoning_Corpus.md)
+
+    - [翻译: 深度探究大型语言模型在抽象与推理方面的表现，基于详尽的“抽象和推理语料库”进行分析。](2024年03月18日/Reasoning_Abilities_of_Large_Language_Models_In-Depth_Analysis_on_the_Abstraction_and_Reasoning_Corpus.md)
+
+- [Construction of Hyper-Relational Knowledge Graphs Using Pre-Trained Large Language Models](2024年03月18日/Construction_of_Hyper-Relational_Knowledge_Graphs_Using_Pre-Trained_Large_Language_Models.md)
+
+    - [翻译: 本研究探讨如何运用预训练的大型语言模型构建超关系知识图谱，以期在知识表示和推理领域取得新的突破。](2024年03月18日/Construction_of_Hyper-Relational_Knowledge_Graphs_Using_Pre-Trained_Large_Language_Models.md)
+
+- [Modality-Agnostic fMRI Decoding of Vision and Language](2024年03月18日/Modality-Agnostic_fMRI_Decoding_of_Vision_and_Language.md)
+
+    - [翻译: 跨模态fMRI解码技术应用于视觉与语言研究，实现对不同感知模态信息的有效解码。](2024年03月18日/Modality-Agnostic_fMRI_Decoding_of_Vision_and_Language.md)
+
+- [Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs](2024年03月18日/Meta-Prompting_for_Automating_Zero-shot_Visual_Recognition_with_LLMs.md)
+
+    - [翻译: 运用元提示方法，借助LLMs自动实现零样本视觉识别任务的高效处理。](2024年03月18日/Meta-Prompting_for_Automating_Zero-shot_Visual_Recognition_with_LLMs.md)
+
+- [Revisiting The Classics: A Study on Identifying and Rectifying Gender Stereotypes in Rhymes and Poems](2024年03月18日/Revisiting_The_Classics_A_Study_on_Identifying_and_Rectifying_Gender_Stereotypes_in_Rhymes_and_Poems.md)
+
+    - [翻译: 本研究重读经典，专注于识别并修正儿歌及诗歌中的性别刻板印象，旨在引导读者深入理解并重塑文学作品中的性别表达。](2024年03月18日/Revisiting_The_Classics_A_Study_on_Identifying_and_Rectifying_Gender_Stereotypes_in_Rhymes_and_Poems.md)
+
+- [HDLdebugger: Streamlining HDL debugging with Large Language Models](2024年03月18日/HDLdebugger_Streamlining_HDL_debugging_with_Large_Language_Models.md)
+
+    - [翻译: HDLdebugger——利用大型语言模型实现HDL调试过程的高效化和简化](2024年03月18日/HDLdebugger_Streamlining_HDL_debugging_with_Large_Language_Models.md)
+
+- [Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model](2024年03月18日/Let's_Focus_on_Neuron_Neuron-Level_Supervised_Fine-tuning_for_Large_Language_Model.md)
+
+    - [翻译: 本文将关注大型语言模型的神经元层级监督微调技术，旨在通过细致到神经元级别的调整，提升其性能表现。](2024年03月18日/Let's_Focus_on_Neuron_Neuron-Level_Supervised_Fine-tuning_for_Large_Language_Model.md)
+
+- [Linguacodus: A Synergistic Framework for Transformative Code Generation in Machine Learning Pipelines](2024年03月18日/Linguacodus_A_Synergistic_Framework_for_Transformative_Code_Generation_in_Machine_Learning_Pipelines.md)
+
+    - [翻译: Linguacodus 是一个专为机器学习流水线设计的协同式框架，致力于实现革命性的代码生成过程。](2024年03月18日/Linguacodus_A_Synergistic_Framework_for_Transformative_Code_Generation_in_Machine_Learning_Pipelines.md)
+
+- [EffiVED:Efficient Video Editing via Text-instruction Diffusion Models](2024年03月18日/EffiVEDEfficient_Video_Editing_via_Text-instruction_Diffusion_Models.md)
+
+    - [翻译: EffiVED 是一种创新技术，借助于文本指令扩散模型，能够高效地进行视频编辑操作。](2024年03月18日/EffiVEDEfficient_Video_Editing_via_Text-instruction_Diffusion_Models.md)
+
+- [Reinforcement Learning with Token-level Feedback for Controllable Text Generation](2024年03月18日/Reinforcement_Learning_with_Token-level_Feedback_for_Controllable_Text_Generation.md)
+
+    - [翻译: 针对可控文本生成任务，我们采用强化学习方法并引入Token级别的精细反馈机制，以实现对文本生成过程的精准控制与优化。](2024年03月18日/Reinforcement_Learning_with_Token-level_Feedback_for_Controllable_Text_Generation.md)
+
+- [LLM^3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning](2024年03月18日/LLM^3Large_Language_Model-based_Task_and_Motion_Planning_with_Motion_Failure_Reasoning.md)
+
+    - [翻译: LLM^3 是一种将大型语言模型应用于任务与运动规划的方法，并融入了对运动失败原因的深入推理。这一技术旨在利用 LLM 的强大能力，为复杂任务与运动规划提供智能解决方案，同时能够理解和解释可能发生的运动失败原因。](2024年03月18日/LLM^3Large_Language_Model-based_Task_and_Motion_Planning_with_Motion_Failure_Reasoning.md)
+
+- [Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters](2024年03月18日/Boosting_Continual_Learning_of_Vision-Language_Models_via_Mixture-of-Experts_Adapters.md)
+
+    - [翻译: 利用混合专家适配器技术，我们成功地增强了视觉-语言模型在连续学习任务中的性能。这一方法旨在通过精心设计的适配器结构，有效促进视觉和语言信息融合的模型在不断学习新知识的过程中保持并提升其原有能力。](2024年03月18日/Boosting_Continual_Learning_of_Vision-Language_Models_via_Mixture-of-Experts_Adapters.md)
+
+- [DEE: Dual-stage Explainable Evaluation Method for Text Generation](2024年03月18日/DEE_Dual-stage_Explainable_Evaluation_Method_for_Text_Generation.md)
+
+    - [翻译: DEE 是一种创新的双阶段可解释评估方案，专为评估和解析文本生成任务的效果而设计。](2024年03月18日/DEE_Dual-stage_Explainable_Evaluation_Method_for_Text_Generation.md)
+
+- [Do CLIPs Always Generalize Better than ImageNet Models?](2024年03月18日/Do_CLIPs_Always_Generalize_Better_than_ImageNet_Models.md)
+
+    - [翻译: CLIP 是否总能胜过 ImageNet 模型，展现出更强的泛化性能？](2024年03月18日/Do_CLIPs_Always_Generalize_Better_than_ImageNet_Models.md)
+
+- [VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding](2024年03月18日/VideoAgent_A_Memory-augmented_Multimodal_Agent_for_Video_Understanding.md)
+
+    - [翻译: VideoAgent，一款搭载记忆增强技术的多模态智能体，专为深入理解视频内容而设计。](2024年03月18日/VideoAgent_A_Memory-augmented_Multimodal_Agent_for_Video_Understanding.md)
+
+- [Generative Motion Stylization within Canonical Motion Space](2024年03月18日/Generative_Motion_Stylization_within_Canonical_Motion_Space.md)
+
+    - [翻译: 我们专注于在规范化运动空间中进行生成式运动风格化研究，旨在探索如何在这个框架内实现和控制各种动态运动的风格表现。](2024年03月18日/Generative_Motion_Stylization_within_Canonical_Motion_Space.md)
+
+- [HateCOT: An Explanation-Enhanced Dataset for Generalizable Offensive Speech Detection via Large Language Models](2024年03月18日/HateCOT_An_Explanation-Enhanced_Dataset_for_Generalizable_Offensive_Speech_Detection_via_Large_Language_Models.md)
+
+    - [翻译: HateCOT 数据集：针对大型语言模型，提供丰富解释以提升对各类攻击性言论检测的泛化能力](2024年03月18日/HateCOT_An_Explanation-Enhanced_Dataset_for_Generalizable_Offensive_Speech_Detection_via_Large_Language_Models.md)
+
+- [Embedded Named Entity Recognition using Probing Classifiers](2024年03月18日/Embedded_Named_Entity_Recognition_using_Probing_Classifiers.md)
+
+    - [翻译: 探查分类器在嵌入式命名实体识别技术中的应用，旨在通过该方法对文本中嵌入的实体进行精准识别。](2024年03月18日/Embedded_Named_Entity_Recognition_using_Probing_Classifiers.md)
+
+- [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](2024年03月18日/LLaVA-UHD_an_LMM_Perceiving_Any_Aspect_Ratio_and_High-Resolution_Images.md)
+
+    - [翻译: LLaVA-UHD，一款能够灵活处理任意纵横比、高清图像的 LMM 模型。](2024年03月18日/LLaVA-UHD_an_LMM_Perceiving_Any_Aspect_Ratio_and_High-Resolution_Images.md)
+
+- [Diffusion-Based Environment-Aware Trajectory Prediction](2024年03月18日/Diffusion-Based_Environment-Aware_Trajectory_Prediction.md)
+
+    - [翻译: 扩散模型驱动的环境敏感轨迹预测技术](2024年03月18日/Diffusion-Based_Environment-Aware_Trajectory_Prediction.md)
