@@ -60,6 +60,10 @@
 
     - [翻译: CFRet-DVQA 是一种创新的方法，应用于文档视觉问答任务中，通过粗到细的检索策略和高效的模型微调技术，旨在提升问题解答的准确性和效率。](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
 
+- [Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions](2024年02月25日/Evaluating_Robustness_of_Generative_Search_Engine_on_Adversarial_Factual_Questions.md)
+
+    - [翻译: 本研究针对生成式搜索引擎，探讨其在面对具有挑战性的对抗性事实问题时的鲁棒性表现。](2024年02月25日/Evaluating_Robustness_of_Generative_Search_Engine_on_Adversarial_Factual_Questions.md)
+
 - [Retrieval Augmented Generation Systems: Automatic Dataset Creation, Evaluation and Boolean Agent Setup](2024年02月26日/Retrieval_Augmented_Generation_Systems_Automatic_Dataset_Creation,_Evaluation_and_Boolean_Agent_Setup.md)
 
     - [翻译: 检索增强生成系统通过自动构建数据集、进行系统评估及配置布尔代理，助力提升模型性能。](2024年02月26日/Retrieval_Augmented_Generation_Systems_Automatic_Dataset_Creation,_Evaluation_and_Boolean_Agent_Setup.md)
