@@ -1,4 +1,4 @@
-# 面对大型语言模型的安全挑战，本文探讨了潜在的威胁和漏洞，并提出了实施负责任安全实践的重要性。
+# 面对大型语言模型的安全挑战，本文将探讨其存在的威胁与潜在漏洞，并提出一系列负责任的防护实践。
 
 发布时间：2024年03月19日
 
@@ -6,10 +6,10 @@
 
 > Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices
 
-> LLMs在NLP领域掀起了一场变革，对多样化的任务产生深远影响，颠覆了我们对语言理解与生成的传统认知。但同时，它们也带来了不容忽视的安全与风险问题。为实现负责任的部署并防范潜在隐患，有必要细致探究这些问题。本文全面审视了LLMs从五个核心视角所涉及的安全与隐私议题，包括对抗攻击下的弱点、LLMs误用可能引发的危害，以及当前应对策略的局限性，并在此基础上提出改进措施。最终，本文建议未来的研究应聚焦于哪些途径，以增强LLMs的安全防护与风险管理能力。
+> LLMs在NLP领域引发了深刻变革，广泛渗透于各类任务中，革新了语言理解和生成的方法论。然而，LLMs在展现强大功能的同时，也带来了不容忽视的安全风险问题。为确保安全部署和防范隐患，有必要深入剖析这些挑战。该研究论文系统地从五个核心视角探讨了LLMs的安全与隐私顾虑，包括对抗攻击下的弱点、LLMs误用可能导致的危害，以及在揭示现有策略局限性的基础上提出的缓解策略。此外，本文还前瞻性地建议了未来的研究方向，以期提升LLMs的安全管理和风险防控能力。
 
 > Large language models (LLMs) have significantly transformed the landscape of Natural Language Processing (NLP). Their impact extends across a diverse spectrum of tasks, revolutionizing how we approach language understanding and generations. Nevertheless, alongside their remarkable utility, LLMs introduce critical security and risk considerations. These challenges warrant careful examination to ensure responsible deployment and safeguard against potential vulnerabilities. This research paper thoroughly investigates security and privacy concerns related to LLMs from five thematic perspectives: security and privacy concerns, vulnerabilities against adversarial attacks, potential harms caused by misuses of LLMs, mitigation strategies to address these challenges while identifying limitations of current strategies. Lastly, the paper recommends promising avenues for future research to enhance the security and risk management of LLMs.
 
-![面对大型语言模型的安全挑战，本文探讨了潜在的威胁和漏洞，并提出了实施负责任安全实践的重要性。](../../../paper_images/2403.12503/x1.png)
+![面对大型语言模型的安全挑战，本文将探讨其存在的威胁与潜在漏洞，并提出一系列负责任的防护实践。](../../../paper_images/2403.12503/x1.png)
 
 [Arxiv](https://arxiv.org/abs/2403.12503)
