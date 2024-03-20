@@ -62,7 +62,7 @@
 
 - [Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions](2024年02月25日/Evaluating_Robustness_of_Generative_Search_Engine_on_Adversarial_Factual_Questions.md)
 
-    - [翻译: 本研究针对生成式搜索引擎，探讨其在面对具有挑战性的对抗性事实问题时的鲁棒性表现。](2024年02月25日/Evaluating_Robustness_of_Generative_Search_Engine_on_Adversarial_Factual_Questions.md)
+    - [翻译: 本研究致力于评估生成式搜索引擎在应对具有挑战性的对抗性事实问题时的稳定性和可靠性。](2024年02月25日/Evaluating_Robustness_of_Generative_Search_Engine_on_Adversarial_Factual_Questions.md)
 
 - [Retrieval Augmented Generation Systems: Automatic Dataset Creation, Evaluation and Boolean Agent Setup](2024年02月26日/Retrieval_Augmented_Generation_Systems_Automatic_Dataset_Creation,_Evaluation_and_Boolean_Agent_Setup.md)
 

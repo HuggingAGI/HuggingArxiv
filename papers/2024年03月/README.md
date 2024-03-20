@@ -3014,47 +3014,47 @@
 
 - [NovelQA: A Benchmark for Long-Range Novel Question Answering](2024年03月18日/NovelQA_A_Benchmark_for_Long-Range_Novel_Question_Answering.md)
 
-    - [翻译: NovelQA，一项专注于长篇文本中复杂新颖问题解答能力的权威基准测试](2024年03月18日/NovelQA_A_Benchmark_for_Long-Range_Novel_Question_Answering.md)
+    - [翻译: NovelQA：针对长篇文本新颖问题回答的基准测试，旨在衡量模型在解答复杂、需要理解全文信息的问题上的表现。](2024年03月18日/NovelQA_A_Benchmark_for_Long-Range_Novel_Question_Answering.md)
 
 - [VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation](2024年03月18日/VisionGPT_LLM-Assisted_Real-Time_Anomaly_Detection_for_Safe_Visual_Navigation.md)
 
-    - [翻译: VisionGPT：借助 LLM 实现实时视觉异常检测，助力安全导航决策](2024年03月18日/VisionGPT_LLM-Assisted_Real-Time_Anomaly_Detection_for_Safe_Visual_Navigation.md)
+    - [翻译: VisionGPT：运用大型语言模型助力实时视觉导航异常检测，以保障安全行驶](2024年03月18日/VisionGPT_LLM-Assisted_Real-Time_Anomaly_Detection_for_Safe_Visual_Navigation.md)
 
 - [Towards Interpretable Hate Speech Detection using Large Language Model-extracted Rationales](2024年03月18日/Towards_Interpretable_Hate_Speech_Detection_using_Large_Language_Model-extracted_Rationales.md)
 
-    - [翻译: 本研究致力于借助大型语言模型提取的关键理由实现对仇恨言论的可解释性检测，以揭示其内在逻辑并提高检测准确性。](2024年03月18日/Towards_Interpretable_Hate_Speech_Detection_using_Large_Language_Model-extracted_Rationales.md)
+    - [翻译: 致力于借助大型语言模型提取的理据实现对仇恨言论检测的可解释性研究](2024年03月18日/Towards_Interpretable_Hate_Speech_Detection_using_Large_Language_Model-extracted_Rationales.md)
 
 - [OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation](2024年03月18日/OV9D_Open-Vocabulary_Category-Level_9D_Object_Pose_and_Size_Estimation.md)
 
-    - [翻译: OV9D 是一种针对开放词汇类别物体的 9 维姿态与尺寸估计方法，旨在精准估算各类物体在三维空间中的位置、方向及大小信息。](2024年03月18日/OV9D_Open-Vocabulary_Category-Level_9D_Object_Pose_and_Size_Estimation.md)
+    - [翻译: OV9D 是一项针对开放词汇类别级的 9 维物体姿态与尺寸估算技术，旨在无需预先训练所有类别的样本，即可准确推断各类物体的位置、方向及大小信息。](2024年03月18日/OV9D_Open-Vocabulary_Category-Level_9D_Object_Pose_and_Size_Estimation.md)
 
 - [Dr3: Ask Large Language Models Not to Give Off-Topic Answers in Open Domain Multi-Hop Question Answering](2024年03月18日/Dr3_Ask_Large_Language_Models_Not_to_Give_Off-Topic_Answers_in_Open_Domain_Multi-Hop_Question_Answering.md)
 
-    - [翻译: 针对开放领域多跳问题回答任务，Dr3研究提出让大型语言模型避免提供离题答案的策略。](2024年03月18日/Dr3_Ask_Large_Language_Models_Not_to_Give_Off-Topic_Answers_in_Open_Domain_Multi-Hop_Question_Answering.md)
+    - [翻译: Dr3 提议，在处理开放领域多跳问题回答时，应引导大语言模型避免提供与主题无关的答案。](2024年03月18日/Dr3_Ask_Large_Language_Models_Not_to_Give_Off-Topic_Answers_in_Open_Domain_Multi-Hop_Question_Answering.md)
 
 - [Interpretable User Satisfaction Estimation for Conversational Systems with Large Language Models](2024年03月18日/Interpretable_User_Satisfaction_Estimation_for_Conversational_Systems_with_Large_Language_Models.md)
 
-    - [翻译: 本研究致力于为基于大型语言模型的对话系统开发可解释的用户满意度评估技术，旨在深入理解并准确预测用户的使用体验。](2024年03月18日/Interpretable_User_Satisfaction_Estimation_for_Conversational_Systems_with_Large_Language_Models.md)
+    - [翻译: 研究如何利用大型语言模型对对话系统进行用户满意度的可解释性估计](2024年03月18日/Interpretable_User_Satisfaction_Estimation_for_Conversational_Systems_with_Large_Language_Models.md)
 
 - [Improving Generalizability of Extracting Social Determinants of Health Using Large Language Models through Prompt-tuning](2024年03月18日/Improving_Generalizability_of_Extracting_Social_Determinants_of_Health_Using_Large_Language_Models_through_Prompt-tuning.md)
 
-    - [翻译: 通过优化提示调优，我们致力于提升大型语言模型在挖掘健康社会决定因素时的泛化性能，以期在各类情境下更为准确、稳定地识别与健康相关的社会因素。](2024年03月18日/Improving_Generalizability_of_Extracting_Social_Determinants_of_Health_Using_Large_Language_Models_through_Prompt-tuning.md)
+    - [翻译: 借助Prompt微调技术提升大型语言模型在挖掘健康社会决定因素时的泛化性能](2024年03月18日/Improving_Generalizability_of_Extracting_Social_Determinants_of_Health_Using_Large_Language_Models_through_Prompt-tuning.md)
 
 - [RankPrompt: Step-by-Step Comparisons Make Language Models Better Reasoners](2024年03月18日/RankPrompt_Step-by-Step_Comparisons_Make_Language_Models_Better_Reasoners.md)
 
-    - [翻译: RankPrompt技术通过步步对比，助力提升语言模型的推理能力](2024年03月18日/RankPrompt_Step-by-Step_Comparisons_Make_Language_Models_Better_Reasoners.md)
+    - [翻译: RankPrompt方法通过步步对比提升语言模型推理能力步骤 1 翻译：RankPrompt 是一种技术，通过逐级比较的方式使语言模型在推理能力上得到显著提升。步骤 2 翻译：RankPrompt 利用逐步对比机制，助力语言模型提升推理效能。](2024年03月18日/RankPrompt_Step-by-Step_Comparisons_Make_Language_Models_Better_Reasoners.md)
 
 - [Learning Transferable Time Series Classifier with Cross-Domain Pre-training from Language Model](2024年03月18日/Learning_Transferable_Time_Series_Classifier_with_Cross-Domain_Pre-training_from_Language_Model.md)
 
-    - [翻译: 本研究提出了一种方法，利用语言模型在多个领域进行预训练，以习得能够跨不同领域有效迁移的时间序列分类器。](2024年03月18日/Learning_Transferable_Time_Series_Classifier_with_Cross-Domain_Pre-training_from_Language_Model.md)
+    - [翻译: 本研究提出利用语言模型进行跨域预训练，以构建能够应用于不同领域的、具有强迁移能力的时间序列分类器。](2024年03月18日/Learning_Transferable_Time_Series_Classifier_with_Cross-Domain_Pre-training_from_Language_Model.md)
 
 - [Characteristic AI Agents via Large Language Models](2024年03月18日/Characteristic_AI_Agents_via_Large_Language_Models.md)
 
-    - [翻译: 运用大型语言模型打造特性化的 AI 代理](2024年03月18日/Characteristic_AI_Agents_via_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型打造特色AI智能体](2024年03月18日/Characteristic_AI_Agents_via_Large_Language_Models.md)
 
 - [Multimodal Human-Autonomous Agents Interaction Using Pre-Trained Language and Visual Foundation Models](2024年03月18日/Multimodal_Human-Autonomous_Agents_Interaction_Using_Pre-Trained_Language_and_Visual_Foundation_Models.md)
 
-    - [翻译: 借助预先训练好的语言和视觉底层模型，探索多模态下人类与自主智能体的互动方式](2024年03月18日/Multimodal_Human-Autonomous_Agents_Interaction_Using_Pre-Trained_Language_and_Visual_Foundation_Models.md)
+    - [翻译: 借助预训练的语言与视觉模型，探究多模态环境下人类与自主智能体的交互机制](2024年03月18日/Multimodal_Human-Autonomous_Agents_Interaction_Using_Pre-Trained_Language_and_Visual_Foundation_Models.md)
 
 - [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](2024年03月19日/LLMLingua-2_Data_Distillation_for_Efficient_and_Faithful_Task-Agnostic_Prompt_Compression.md)
 
@@ -3198,32 +3198,32 @@
 
 - [Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices](2024年03月19日/Securing_Large_Language_Models_Threats,_Vulnerabilities_and_Responsible_Practices.md)
 
-    - [翻译: 面对大型语言模型的安全挑战，本文探讨了潜在的威胁和漏洞，并提出了实施负责任安全实践的重要性。](2024年03月19日/Securing_Large_Language_Models_Threats,_Vulnerabilities_and_Responsible_Practices.md)
+    - [翻译: 面对大型语言模型的安全挑战，本文将探讨其存在的威胁与潜在漏洞，并提出一系列负责任的防护实践。](2024年03月19日/Securing_Large_Language_Models_Threats,_Vulnerabilities_and_Responsible_Practices.md)
 
 - [DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM](2024年03月19日/DetToolChain_A_New_Prompting_Paradigm_to_Unleash_Detection_Ability_of_MLLM.md)
 
-    - [翻译: DetToolChain 是一项创新的提示策略，旨在充分发掘 MLLM 的检测潜能。](2024年03月19日/DetToolChain_A_New_Prompting_Paradigm_to_Unleash_Detection_Ability_of_MLLM.md)
+    - [翻译: DetToolChain 是一种创新的提示策略，致力于充分挖掘 MLLM 的检测潜能。](2024年03月19日/DetToolChain_A_New_Prompting_Paradigm_to_Unleash_Detection_Ability_of_MLLM.md)
 
 - [Embodied LLM Agents Learn to Cooperate in Organized Teams](2024年03月19日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
 
-    - [翻译: 具身化的大规模语言模型智能体已在有序团队环境中学会合作。](2024年03月19日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
+    - [翻译: 具备实体形态的大型语言模型智能体已能在结构化的团队环境中学会协同合作。（注：由于原始句子较短且语义明确，从直译到优化的过程并未进行大幅度调整，保持了原句的核心含义和生动性。）](2024年03月19日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
 
 - [CrossTune: Black-Box Few-Shot Classification with Label Enhancement](2024年03月19日/CrossTune_Black-Box_Few-Shot_Classification_with_Label_Enhancement.md)
 
-    - [翻译: CrossTune：一种通过标签增强技术实现在黑盒环境下对少量样本进行高效分类的方法。](2024年03月19日/CrossTune_Black-Box_Few-Shot_Classification_with_Label_Enhancement.md)
+    - [翻译: CrossTune —— 引入标签增强技术，针对黑盒环境下的少量样本分类任务提供解决方案](2024年03月19日/CrossTune_Black-Box_Few-Shot_Classification_with_Label_Enhancement.md)
 
 - [INSIGHT: End-to-End Neuro-Symbolic Visual Reinforcement Learning with Language Explanations](2024年03月19日/INSIGHT_End-to-End_Neuro-Symbolic_Visual_Reinforcement_Learning_with_Language_Explanations.md)
 
-    - [翻译: 洞见：通过引入语言解释，实现从感知至决策的端到端神经符号视觉强化学习](2024年03月19日/INSIGHT_End-to-End_Neuro-Symbolic_Visual_Reinforcement_Learning_with_Language_Explanations.md)
+    - [翻译: 洞见：通过引入语言解释，实现从感知到决策的端对端神经符号视觉强化学习步骤 1 翻译：INSIGHT: 端到端结合神经网络与符号处理的视觉强化学习，并辅以语言解释说明步骤 2 简洁优雅翻译：洞察：研究提出了一种创新方法，即采用端到端神经符号视觉强化学习技术，并融合语言解释元素，旨在深入理解并优化智能体在视觉强化学习过程中的决策机制。](2024年03月19日/INSIGHT_End-to-End_Neuro-Symbolic_Visual_Reinforcement_Learning_with_Language_Explanations.md)
 
 - [On the effectiveness of Large Language Models for GitHub Workflows](2024年03月19日/On_the_effectiveness_of_Large_Language_Models_for_GitHub_Workflows.md)
 
-    - [翻译: 探究大型语言模型在优化 GitHub 工作流程上的效能步骤 1 翻译：关于大型语言模型对 GitHub 工作流程有效性的研究步骤 2 优化：本研究探讨大型语言模型如何有效地赋能 GitHub 工作流程，以提升其性能和效率。](2024年03月19日/On_the_effectiveness_of_Large_Language_Models_for_GitHub_Workflows.md)
+    - [翻译: 探究大型语言模型在优化GitHub工作流程方面的成效](2024年03月19日/On_the_effectiveness_of_Large_Language_Models_for_GitHub_Workflows.md)
 
 - [TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation](2024年03月19日/TexDreamer_Towards_Zero-Shot_High-Fidelity_3D_Human_Texture_Generation.md)
 
-    - [翻译: TexDreamer，旨在实现无需预先训练、高保真度的三维人体纹理生成技术，直指零样本场景下的高品质表现。](2024年03月19日/TexDreamer_Towards_Zero-Shot_High-Fidelity_3D_Human_Texture_Generation.md)
+    - [翻译: TexDreamer——面向零样本高保真三维人体纹理生成技术，旨在无需训练样本的情况下实现逼真生动的三维人体纹理创作。](2024年03月19日/TexDreamer_Towards_Zero-Shot_High-Fidelity_3D_Human_Texture_Generation.md)
 
 - [VisualCritic: Making LMMs Perceive Visual Quality Like Humans](2024年03月19日/VisualCritic_Making_LMMs_Perceive_Visual_Quality_Like_Humans.md)
 
-    - [翻译: VisualCritic——助力 LMMs 仿照人类精准判断视觉品质](2024年03月19日/VisualCritic_Making_LMMs_Perceive_Visual_Quality_Like_Humans.md)
+    - [翻译: VisualCritic，这一创新技术致力于使大型多模态模型（LMMs）能够像人类一样敏锐地评估和理解视觉质量。](2024年03月19日/VisualCritic_Making_LMMs_Perceive_Visual_Quality_Like_Humans.md)
