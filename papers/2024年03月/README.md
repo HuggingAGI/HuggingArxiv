@@ -3583,3 +3583,127 @@
 - [LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding](2024年03月21日/LayoutLLM_Large_Language_Model_Instruction_Tuning_for_Visually_Rich_Document_Understanding.md)
 
     - [翻译: LayoutLLM 是一种为提升对富含视觉元素文档理解能力而设计的大型语言模型指令调优方案。](2024年03月21日/LayoutLLM_Large_Language_Model_Instruction_Tuning_for_Visually_Rich_Document_Understanding.md)
+
+- [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](2024年03月21日/MathVerse_Does_Your_Multi-modal_LLM_Truly_See_the_Diagrams_in_Visual_Math_Problems.md)
+
+    - [翻译: MathVerse：探究多模态LLM在解决视觉数学问题时，是否真能洞悉其中的图表信息。](2024年03月21日/MathVerse_Does_Your_Multi-modal_LLM_Truly_See_the_Diagrams_in_Visual_Math_Problems.md)
+
+- [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](2024年03月21日/Parameter-Efficient_Fine-Tuning_for_Large_Models_A_Comprehensive_Survey.md)
+
+    - [翻译: 全面探讨大型模型参数高效微调技术](2024年03月21日/Parameter-Efficient_Fine-Tuning_for_Large_Models_A_Comprehensive_Survey.md)
+
+- [MyVLM: Personalizing VLMs for User-Specific Queries](2024年03月21日/MyVLM_Personalizing_VLMs_for_User-Specific_Queries.md)
+
+    - [翻译: MyVLM：针对个性化的用户查询，定制视觉语言模型](2024年03月21日/MyVLM_Personalizing_VLMs_for_User-Specific_Queries.md)
+
+- [PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model](2024年03月21日/PSALM_Pixelwise_SegmentAtion_with_Large_Multi-Modal_Model.md)
+
+    - [翻译: PSALM，一项创新技术，利用强大的大型多模态模型实现像素级别的精确分割。](2024年03月21日/PSALM_Pixelwise_SegmentAtion_with_Large_Multi-Modal_Model.md)
+
+- [Large Language Models for Multi-Choice Question Classification of Medical Subjects](2024年03月21日/Large_Language_Models_for_Multi-Choice_Question_Classification_of_Medical_Subjects.md)
+
+    - [翻译: 针对医学主题的多选题分类问题，本研究探讨了大型语言模型的有效应用。](2024年03月21日/Large_Language_Models_for_Multi-Choice_Question_Classification_of_Medical_Subjects.md)
+
+- [RAmBLA: A Framework for Evaluating the Reliability of LLMs as Assistants in the Biomedical Domain](2024年03月21日/RAmBLA_A_Framework_for_Evaluating_the_Reliability_of_LLMs_as_Assistants_in_the_Biomedical_Domain.md)
+
+    - [翻译: RAmBLA 是一个专注于评估大型语言模型（LLM）在生物医学领域作为助手时可靠性的评估框架。](2024年03月21日/RAmBLA_A_Framework_for_Evaluating_the_Reliability_of_LLMs_as_Assistants_in_the_Biomedical_Domain.md)
+
+- [A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science](2024年03月21日/A_Chain-of-Thought_Prompting_Approach_with_LLMs_for_Evaluating_Students'_Formative_Assessment_Responses_in_Science.md)
+
+    - [翻译: 我们提出了一种运用LLMs实现的链式思考提示法，专门针对科学学科中学生形成性评价反馈的精准评估。](2024年03月21日/A_Chain-of-Thought_Prompting_Approach_with_LLMs_for_Evaluating_Students'_Formative_Assessment_Responses_in_Science.md)
+
+- [The Era of Semantic Decoding](2024年03月21日/The_Era_of_Semantic_Decoding.md)
+
+    - [翻译: 步入语义解码时代](2024年03月21日/The_Era_of_Semantic_Decoding.md)
+
+- [EDT: Improving Large Language Models' Generation by Entropy-based Dynamic Temperature Sampling](2024年03月21日/EDT_Improving_Large_Language_Models'_Generation_by_Entropy-based_Dynamic_Temperature_Sampling.md)
+
+    - [翻译: EDT 方法利用熵为基础的动态温度采样技术，有效优化大型语言模型在文本生成任务上的表现。](2024年03月21日/EDT_Improving_Large_Language_Models'_Generation_by_Entropy-based_Dynamic_Temperature_Sampling.md)
+
+- [The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)](2024年03月21日/The_Ethics_of_ChatGPT_in_Medicine_and_Healthcare_A_Systematic_Review_on_Large_Language_Models_(LLMs).md)
+
+    - [翻译: 本研究通过系统性回顾，探讨了 ChatGPT 在医学和健康照护领域应用中所涉及的伦理议题，尤其聚焦于大型语言模型 LLMS。](2024年03月21日/The_Ethics_of_ChatGPT_in_Medicine_and_Healthcare_A_Systematic_Review_on_Large_Language_Models_(LLMs).md)
+
+- [Detoxifying Large Language Models via Knowledge Editing](2024年03月21日/Detoxifying_Large_Language_Models_via_Knowledge_Editing.md)
+
+    - [翻译: 运用知识编辑技术净化大型语言模型，旨在消除潜在有害内容，提升模型输出的安全性和准确性。](2024年03月21日/Detoxifying_Large_Language_Models_via_Knowledge_Editing.md)
+
+- [ChatGPT Alternative Solutions: Large Language Models Survey](2024年03月21日/ChatGPT_Alternative_Solutions_Large_Language_Models_Survey.md)
+
+    - [翻译: ChatGPT 的替代方案探究：大型语言模型综览](2024年03月21日/ChatGPT_Alternative_Solutions_Large_Language_Models_Survey.md)
+
+- [Towards Single-System Illusion in Software-Defined Vehicles -- Automated, AI-Powered Workflow](2024年03月21日/Towards_Single-System_Illusion_in_Software-Defined_Vehicles_--_Automated,_AI-Powered_Workflow.md)
+
+    - [翻译: 致力于实现软件定义车辆的单体系统化体验，借助自动化与人工智能赋能工作流程，旨在营造一体化的智能操作环境。](2024年03月21日/Towards_Single-System_Illusion_in_Software-Defined_Vehicles_--_Automated,_AI-Powered_Workflow.md)
+
+- [gTBLS: Generating Tables from Text by Conditional Question Answering](2024年03月21日/gTBLS_Generating_Tables_from_Text_by_Conditional_Question_Answering.md)
+
+    - [翻译: gTBLS 是一种利用条件问题回答技术，从文本中自动生成表格的方法。](2024年03月21日/gTBLS_Generating_Tables_from_Text_by_Conditional_Question_Answering.md)
+
+- [Locating and Mitigating Gender Bias in Large Language Models](2024年03月21日/Locating_and_Mitigating_Gender_Bias_in_Large_Language_Models.md)
+
+    - [翻译: 本研究致力于在大型语言模型内部定位并有效减轻性别偏见问题。](2024年03月21日/Locating_and_Mitigating_Gender_Bias_in_Large_Language_Models.md)
+
+- [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](2024年03月21日/Adaptive-RAG_Learning_to_Adapt_Retrieval-Augmented_Large_Language_Models_through_Question_Complexity.md)
+
+    - [翻译: Adaptive-RAG，一种能够通过识别问题复杂度来自适应调整的检索增强型大型语言模型学习技术。](2024年03月21日/Adaptive-RAG_Learning_to_Adapt_Retrieval-Augmented_Large_Language_Models_through_Question_Complexity.md)
+
+- [Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination](2024年03月21日/Pensieve_Retrospect-then-Compare_Mitigates_Visual_Hallucination.md)
+
+    - [翻译: Pensieve 研究提出“先回顾后比较”的策略，有效缓解了视觉幻觉问题。](2024年03月21日/Pensieve_Retrospect-then-Compare_Mitigates_Visual_Hallucination.md)
+
+- [Building Accurate Translation-Tailored LLMs with Language Aware Instruction Tuning](2024年03月21日/Building_Accurate_Translation-Tailored_LLMs_with_Language_Aware_Instruction_Tuning.md)
+
+    - [翻译: 运用语言感知指令微调技术，我们致力于构建针对翻译任务特别优化、精度更高的LLMs。步骤2改进后：通过“语言感知指令调优”技术，我们专注于打造针对翻译任务精准定制、性能优越的大型语言模型（LLMs）。](2024年03月21日/Building_Accurate_Translation-Tailored_LLMs_with_Language_Aware_Instruction_Tuning.md)
+
+- [Regularized Adaptive Momentum Dual Averaging with an Efficient Inexact Subproblem Solver for Training Structured Neural Network](2024年03月21日/Regularized_Adaptive_Momentum_Dual_Averaging_with_an_Efficient_Inexact_Subproblem_Solver_for_Training_Structured_Neural_Network.md)
+
+    - [翻译: 为优化结构化神经网络训练，我们提出了一种正则化的自适应动量双重平均算法，并配备了高效解决近似子问题的求解器。](2024年03月21日/Regularized_Adaptive_Momentum_Dual_Averaging_with_an_Efficient_Inexact_Subproblem_Solver_for_Training_Structured_Neural_Network.md)
+
+- [From Large to Tiny: Distilling and Refining Mathematical Expertise for Math Word Problems with Weakly Supervision](2024年03月21日/From_Large_to_Tiny_Distilling_and_Refining_Mathematical_Expertise_for_Math_Word_Problems_with_Weakly_Supervision.md)
+
+    - [翻译: 在弱监督下，我们将大型模型中蕴含的数学专业知识浓缩并精细化，应用于解决数学问题，实现从小型模型中高效提取数学专长解决数学词题。](2024年03月21日/From_Large_to_Tiny_Distilling_and_Refining_Mathematical_Expertise_for_Math_Word_Problems_with_Weakly_Supervision.md)
+
+- [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](2024年03月21日/On_the_Conversational_Persuasiveness_of_Large_Language_Models_A_Randomized_Controlled_Trial.md)
+
+    - [翻译: 针对大型语言模型（LLM）对话中的说服力，本研究采用随机对照试验方法进行深入探究。](2024年03月21日/On_the_Conversational_Persuasiveness_of_Large_Language_Models_A_Randomized_Controlled_Trial.md)
+
+- [WikiFactDiff: A Large, Realistic, and Temporally Adaptable Dataset for Atomic Factual Knowledge Update in Causal Language Models](2024年03月21日/WikiFactDiff_A_Large,_Realistic,_and_Temporally_Adaptable_Dataset_for_Atomic_Factual_Knowledge_Update_in_Causal_Language_Models.md)
+
+    - [翻译: WikiFactDiff 是专为探究因果语言模型中原子事实知识更新而设计的大型、真实且随时间动态适应的数据集。](2024年03月21日/WikiFactDiff_A_Large,_Realistic,_and_Temporally_Adaptable_Dataset_for_Atomic_Factual_Knowledge_Update_in_Causal_Language_Models.md)
+
+- [Less but Better: Enabling Generalized Zero-shot Learning Towards Unseen Domains by Intrinsic Learning from Redundant LLM Semantics](2024年03月21日/Less_but_Better_Enabling_Generalized_Zero-shot_Learning_Towards_Unseen_Domains_by_Intrinsic_Learning_from_Redundant_LLM_Semantics.md)
+
+    - [翻译: 精简而高效：从冗余的 LLM 语义中提取本质，赋能针对未知领域的泛化零样本学习](2024年03月21日/Less_but_Better_Enabling_Generalized_Zero-shot_Learning_Towards_Unseen_Domains_by_Intrinsic_Learning_from_Redundant_LLM_Semantics.md)
+
+- [Exploring the Potential of Large Language Models in Graph Generation](2024年03月21日/Exploring_the_Potential_of_Large_Language_Models_in_Graph_Generation.md)
+
+    - [翻译: 本研究致力于揭示大型语言模型在图生成领域的可能性，深入探究其在构建和生成图形结构中的能力。](2024年03月21日/Exploring_the_Potential_of_Large_Language_Models_in_Graph_Generation.md)
+
+- [$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning](2024年03月21日/$\nabla_τ$_Gradient-based_and_Task-Agnostic_machine_Unlearning.md)
+
+    - [翻译: $\nabla τ$ 代表一种基于梯度且与任务无关的机器遗忘方法，该技术旨在实现对机器学习模型中已学内容的有效擦除。](2024年03月21日/$\nabla_τ$_Gradient-based_and_Task-Agnostic_machine_Unlearning.md)
+
+- [ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting](2024年03月21日/ChainLM_Empowering_Large_Language_Models_with_Improved_Chain-of-Thought_Prompting.md)
+
+    - [翻译: ChainLM 引入了改良的链式思维提示法，以提升大型语言模型的表现力。这项技术致力于优化大型语言模型在面对复杂任务时的推理能力，通过加强其链式思考过程的引导，实现更高效、精准的自然语言处理。](2024年03月21日/ChainLM_Empowering_Large_Language_Models_with_Improved_Chain-of-Thought_Prompting.md)
+
+- [From Perils to Possibilities: Understanding how Human (and AI) Biases affect Online Fora](2024年03月21日/From_Perils_to_Possibilities_Understanding_how_Human_(and_AI)_Biases_affect_Online_Fora.md)
+
+    - [翻译: 洞悉偏见的力量：探讨人类与AI的偏见如何塑造在线论坛的可能性与挑战](2024年03月21日/From_Perils_to_Possibilities_Understanding_how_Human_(and_AI)_Biases_affect_Online_Fora.md)
+
+- [Large Language Models for Blockchain Security: A Systematic Literature Review](2024年03月21日/Large_Language_Models_for_Blockchain_Security_A_Systematic_Literature_Review.md)
+
+    - [翻译: 本研究对应用于区块链安全领域的大型语言模型进行了深入的系统性文献回顾。](2024年03月21日/Large_Language_Models_for_Blockchain_Security_A_Systematic_Literature_Review.md)
+
+- [Multi-role Consensus through LLMs Discussions for Vulnerability Detection](2024年03月21日/Multi-role_Consensus_through_LLMs_Discussions_for_Vulnerability_Detection.md)
+
+    - [翻译: 为提升漏洞检测能力，我们提出利用 LLMs 进行多角色讨论并达成共识的方法。](2024年03月21日/Multi-role_Consensus_through_LLMs_Discussions_for_Vulnerability_Detection.md)
+
+- [LLM-based Extraction of Contradictions from Patents](2024年03月21日/LLM-based_Extraction_of_Contradictions_from_Patents.md)
+
+    - [翻译: 本研究致力于运用大型语言模型（LLM）技术从专利文本中高效抽取矛盾信息，以揭示潜在的问题与矛盾点。](2024年03月21日/LLM-based_Extraction_of_Contradictions_from_Patents.md)
+
+- [K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression](2024年03月21日/K-Act2Emo_Korean_Commonsense_Knowledge_Graph_for_Indirect_Emotional_Expression.md)
+
+    - [翻译: K-Act2Emo 是一款专为解析间接情绪表达而构建的韩语文档常识知识图谱。它通过整合与情绪表达相关的各类情境行为，为理解和推断复杂情感线索提供了有力支持。](2024年03月21日/K-Act2Emo_Korean_Commonsense_Knowledge_Graph_for_Indirect_Emotional_Expression.md)
