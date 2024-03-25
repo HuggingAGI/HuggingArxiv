@@ -56,6 +56,10 @@
 
     - [翻译: 运用机器学习语言模型优化操作系统，以增强用户互动性](2024年02月24日/Enhanced_User_Interaction_in_Operating_Systems_through_Machine_Learning_Language_Models.md)
 
+- [MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation](2024年02月24日/MemeCraft_Contextual_and_Stance-Driven_Multimodal_Meme_Generation.md)
+
+    - [翻译: MemeCraft 是一种创新的方法，它利用上下文信息和特定立场指导，专注于生成具有多模态特性的表情包内容。进一步精炼后：](2024年02月24日/MemeCraft_Contextual_and_Stance-Driven_Multimodal_Meme_Generation.md)
+
 - [CFRet-DVQA: Coarse-to-Fine Retrieval and Efficient Tuning for Document Visual Question Answering](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
 
     - [翻译: CFRet-DVQA 是一种创新的方法，应用于文档视觉问答任务中，通过粗到细的检索策略和高效的模型微调技术，旨在提升问题解答的准确性和效率。](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
