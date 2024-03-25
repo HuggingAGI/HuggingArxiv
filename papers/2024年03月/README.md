@@ -3927,3 +3927,7 @@
 - [Multimodal Fusion with Pre-Trained Model Features in Affective Behaviour Analysis In-the-wild](2024年03月22日/Multimodal_Fusion_with_Pre-Trained_Model_Features_in_Affective_Behaviour_Analysis_In-the-wild.md)
 
     - [翻译: 针对真实场景下的情感行为分析，本研究探索了预训练模型特征在多模态融合中的应用，以揭示和整合多种感官信息对情感识别的影响。](2024年03月22日/Multimodal_Fusion_with_Pre-Trained_Model_Features_in_Affective_Behaviour_Analysis_In-the-wild.md)
+
+- [CoLLEGe: Concept Embedding Generation for Large Language Models](2024年03月22日/CoLLEGe_Concept_Embedding_Generation_for_Large_Language_Models.md)
+
+    - [翻译: CoLLEGe 是一种专为大型语言模型设计的概念嵌入生成方法，致力于提升模型对各类概念的理解与表达能力。](2024年03月22日/CoLLEGe_Concept_Embedding_Generation_for_Large_Language_Models.md)
