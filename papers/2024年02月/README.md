@@ -58,7 +58,7 @@
 
 - [MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation](2024年02月24日/MemeCraft_Contextual_and_Stance-Driven_Multimodal_Meme_Generation.md)
 
-    - [翻译: MemeCraft 是一种创新的方法，它利用上下文信息和特定立场指导，专注于生成具有多模态特性的表情包内容。进一步精炼后：](2024年02月24日/MemeCraft_Contextual_and_Stance-Driven_Multimodal_Meme_Generation.md)
+    - [翻译: MemeCraft 是一种融合了上下文理解和立场驱动机制的多模态表情包生成方法。](2024年02月24日/MemeCraft_Contextual_and_Stance-Driven_Multimodal_Meme_Generation.md)
 
 - [CFRet-DVQA: Coarse-to-Fine Retrieval and Efficient Tuning for Document Visual Question Answering](2024年02月25日/CFRet-DVQA_Coarse-to-Fine_Retrieval_and_Efficient_Tuning_for_Document_Visual_Question_Answering.md)
 

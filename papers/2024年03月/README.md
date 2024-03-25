@@ -310,7 +310,7 @@
 
 - [SyllabusQA: A Course Logistics Question Answering Dataset](2024年03月02日/SyllabusQA_A_Course_Logistics_Question_Answering_Dataset.md)
 
-    - [翻译: SyllabusQA——面向课程后勤问题回答的全新数据集](2024年03月02日/SyllabusQA_A_Course_Logistics_Question_Answering_Dataset.md)
+    - [翻译: SyllabusQA——一个专注于课程运行事务问答的数据集](2024年03月02日/SyllabusQA_A_Course_Logistics_Question_Answering_Dataset.md)
 
 - [GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](2024年03月03日/GuardT2I_Defending_Text-to-Image_Models_from_Adversarial_Prompts.md)
 
