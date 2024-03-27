@@ -8,6 +8,10 @@
 
     - [翻译: 我们提出了一种增强查询方法，旨在改进语言生成任务中的检索过程，从而提高整体性能和效果。](2024年02月06日/Enhancing_Retrieval_Processes_for_Language_Generation_with_Augmented_Queries.md)
 
+- [Continual Learning for Large Language Models: A Survey](2024年02月07日/Continual_Learning_for_Large_Language_Models_A_Survey.md)
+
+    - [翻译: 针对大型语言模型的持续学习，本文进行了全面调查。](2024年02月07日/Continual_Learning_for_Large_Language_Models_A_Survey.md)
+
 - [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](2024年02月21日/Assisting_in_Writing_Wikipedia-like_Articles_From_Scratch_with_Large_Language_Models.md)
 
     - [翻译: 本研究探讨如何借助大型语言模型，助力用户从头创作出类似维基百科风格的文章。](2024年02月21日/Assisting_in_Writing_Wikipedia-like_Articles_From_Scratch_with_Large_Language_Models.md)
