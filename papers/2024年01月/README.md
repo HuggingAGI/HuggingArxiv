@@ -1,5 +1,7 @@
 # 2024年01月
 
+2023年11月30日
+
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](2024年01月04日/Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey.md)
 
     - [翻译: 大型语言模型中的检索增强生成技术：全面调查研究](2024年01月04日/Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey.md)

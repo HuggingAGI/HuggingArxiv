@@ -1,5 +1,7 @@
 # 2024年03月
 
+2024年01月22日
+
 - [Hierarchical Indexing for Retrieval-Augmented Opinion Summarization](2024年03月01日/Hierarchical_Indexing_for_Retrieval-Augmented_Opinion_Summarization.md)
 
     - [翻译: 为提升检索增强型观点摘要的效果，我们引入了层次化索引技术。该方法旨在通过构建多层次的索引结构，有效组织和检索相关文本信息，从而优化观点总结的质量与效率。](2024年03月01日/Hierarchical_Indexing_for_Retrieval-Augmented_Opinion_Summarization.md)
