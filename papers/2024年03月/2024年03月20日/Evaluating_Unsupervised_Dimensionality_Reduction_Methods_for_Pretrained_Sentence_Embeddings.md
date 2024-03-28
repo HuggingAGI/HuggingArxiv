@@ -6,6 +6,8 @@
 
 > Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings
 
+# 摘要
+
 > PLM产生的句子嵌入凭借其在众多下游应用中的卓越表现而备受NLP界青睐，但面对内存或计算力有限的设备处理大量句子时，其高维度特性却成为挑战。为此，我们探讨了采用无监督降维方法来压缩PLM生成的句子嵌入维度。实验揭示，PCA等简洁算法可有效将句子嵌入维度削减约一半，且在多个下游任务中几乎不损失性能；更有趣的是，在特定任务中，对部分PLM生成的句子嵌入进一步降维后，其性能竟优于原始高维版本。
 
 > Sentence embeddings produced by Pretrained Language Models (PLMs) have received wide attention from the NLP community due to their superior performance when representing texts in numerous downstream applications. However, the high dimensionality of the sentence embeddings produced by PLMs is problematic when representing large numbers of sentences in memory- or compute-constrained devices. As a solution, we evaluate unsupervised dimensionality reduction methods to reduce the dimensionality of sentence embeddings produced by PLMs. Our experimental results show that simple methods such as Principal Component Analysis (PCA) can reduce the dimensionality of sentence embeddings by almost $50\%$, without incurring a significant loss in performance in multiple downstream tasks. Surprisingly, reducing the dimensionality further improves performance over the original high-dimensional versions for the sentence embeddings produced by some PLMs in some tasks.

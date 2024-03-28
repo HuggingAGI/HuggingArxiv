@@ -6,6 +6,8 @@
 
 > INSIGHT: End-to-End Neuro-Symbolic Visual Reinforcement Learning with Language Explanations
 
+# 摘要
+
 > NS-RL作为可解释性决策的新星，以其符号策略的可理解性著称。然而，在涉及视觉观察的任务中，虽然NS-RL要求构建状态的结构化表示，但以往算法因效率不足，无法有效结合奖励信号优化这些结构化状态，且现有符号策略往往依赖深厚的专业知识解读。本文提出的框架巧妙地解决了这一难题，它能同时学习结构化的状态和符号策略，核心在于借助视觉基础模型提取出高效感知模块以突破瓶颈。此外，我们还构建了一条流水线，利用大型语言模型生成简明易懂的策略和决策语言解释。在针对九项Atari任务的实验中，我们新方法相较于已有NSRL技术实现了显著性能提升，并生动展示了策略与决策背后的解释。
 
 > Neuro-symbolic reinforcement learning (NS-RL) has emerged as a promising paradigm for explainable decision-making, characterized by the interpretability of symbolic policies. For tasks with visual observations, NS-RL entails structured representations for states, but previous algorithms are unable to refine the structured states with reward signals due to a lack of efficiency. Accessibility is also an issue, as extensive domain knowledge is required to interpret current symbolic policies. In this paper, we present a framework that is capable of learning structured states and symbolic policies simultaneously, whose key idea is to overcome the efficiency bottleneck by distilling vision foundation models into a scalable perception module. Moreover, we design a pipeline that uses large language models to generate concise and readable language explanations for policies and decisions. In experiments on nine Atari tasks, our approach demonstrates substantial performance gains over existing NSRL methods. We also showcase explanations for policies and decisions.

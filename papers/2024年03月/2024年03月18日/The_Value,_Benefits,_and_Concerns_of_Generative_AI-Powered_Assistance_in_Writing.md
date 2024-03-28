@@ -6,6 +6,8 @@
 
 > The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing
 
+# 摘要
+
 > 近期大型语言模型等生成式AI技术的进步引发热议，人们既对人机共创写作的未来充满期待又心存顾虑。为探究人们对AI助力写作的真实态度与体验，本研究通过实验深入挖掘了人们在何种程度上看重AI辅助，以及AI在写作流程中的融入如何影响人们的写作感受与成效。研究结果显示，面对能提供直接内容生成建议、尤其适用于高度创新写作任务的AI助手，人们宁愿舍弃经济报酬。AI驱动的生成式辅助显著提升了人们的写作效率和自信，但同时AI直接生成内容的功能也可能带来隐患，如减弱写作者的责任感和作品多样性。最后，我们将讨论这些发现的重要启示。
 
 > Recent advances in generative AI technologies like large language models raise both excitement and concerns about the future of human-AI co-creation in writing. To unpack people's attitude towards and experience with generative AI-powered writing assistants, in this paper, we conduct an experiment to understand whether and how much value people attach to AI assistance, and how the incorporation of AI assistance in writing workflows changes people's writing perceptions and performance. Our results suggest that people are willing to forgo financial payments to receive writing assistance from AI, especially if AI can provide direct content generation assistance and the writing task is highly creative. Generative AI-powered assistance is found to offer benefits in increasing people's productivity and confidence in writing. However, direct content generation assistance offered by AI also comes with risks, including decreasing people's sense of accountability and diversity in writing. We conclude by discussing the implications of our findings.

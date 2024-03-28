@@ -6,6 +6,8 @@
 
 > RakutenAI-7B: Extending Large Language Models for Japanese
 
+# 摘要
+
 > 我们带来了一套专为日语设计的大型语言模型——RakutenAI-7B，它在开源的70亿参数模型中，在日本LM Harness基准测试上傲视群雄。同时，我们遵循Apache 2.0许可证，发布了针对指令理解和聊天交互优化的两款模型，分别是RakutenAI-7B-instruct和RakutenAI-7B-chat。
 
 > We introduce RakutenAI-7B, a suite of Japanese-oriented large language models that achieve the best performance on the Japanese LM Harness benchmarks among the open 7B models. Along with the foundation model, we release instruction- and chat-tuned models, RakutenAI-7B-instruct and RakutenAI-7B-chat respectively, under the Apache 2.0 license.

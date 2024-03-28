@@ -6,6 +6,8 @@
 
 > Calibrating Large Language Models Using Their Generations Only
 
+# 摘要
+
 > 随着LLMs在各类用户应用中的普及，准确评估模型预测信心以确保安全性和可信度变得至关重要。但目前面临的难题是，在仅能通过模型生成文本与之互动的情况下，如何有效地对其进行校准。为此，我们创新提出了一种名为APRICOT的方法，它专注于辅助预测LLM的信心目标，即训练一个额外的模型，仅依据LLM的输入输出文本预测其预测信心。此方法简洁易懂，无需访问模型内部结构，不影响语言生成过程，而且具有广泛的应用潜力，如明确表述预测信心等级或基于信心调整答案。实验结果显示，无论是在白盒还是黑盒LLM中，在封闭型问题回答任务上判断LLM答案正确与否时，APRICOT方法在校准误差上的表现均相当出色。
 
 > As large language models (LLMs) are increasingly deployed in user-facing applications, building trust and maintaining safety by accurately quantifying a model's confidence in its prediction becomes even more important. However, finding effective ways to calibrate LLMs - especially when the only interface to the models is their generated text - remains a challenge. We propose APRICOT (auxiliary prediction of confidence targets): A method to set confidence targets and train an additional model that predicts an LLM's confidence based on its textual input and output alone. This approach has several advantages: It is conceptually simple, does not require access to the target model beyond its output, does not interfere with the language generation, and has a multitude of potential usages, for instance by verbalizing the predicted confidence or adjusting the given answer based on the confidence. We show how our approach performs competitively in terms of calibration error for white-box and black-box LLMs on closed-book question-answering to detect incorrect LLM answers.

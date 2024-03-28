@@ -6,6 +6,8 @@
 
 > InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
 
+# 摘要
+
 > 近期研究让LLMs化身智能代理，能够使用工具、执行动作并与其它外部内容互动（如邮件或网站）。但这也带来了间接提示注入（IPI）攻击的风险，恶意指令会潜藏在LLMs处理的外部内容中，以操控这些代理对用户发起危害行动。鉴于此类攻击可能造成的严重影响，建立评估与防范此类风险的标准显得尤为紧迫。为此，我们推出了名为InjecAgent的基准测试，用于检测整合了各类工具的LLM代理面对IPI攻击的脆弱程度。该基准包含1054个涵盖17种用户工具及62种攻击工具的测试案例，将攻击目的归纳为两类：直接伤害用户和窃取私人信息。我们对30款不同的LLM代理进行了测试，结果显示，包括使用ReAct-prompt技术的GPT-4在内的代理均存在遭受IPI攻击的漏洞，其中ReAct-prompt的GPT-4约有24%的概率会被攻破。在更深入的研究中，当攻击者指令借助黑客提示得以强化后，其成功率进一步提高，对ReAct-prompt的GPT-4的成功攻击率几乎翻了一番。这一发现无疑对LLM代理的大规模部署提出了疑问。现在您可以在https://github.com/uiuc-kang-lab/InjecAgent上获取我们的基准测试资源。
 
 > Recent work has embodied LLMs as agents, allowing them to access tools, perform actions, and interact with external content (e.g., emails or websites). However, external content introduces the risk of indirect prompt injection (IPI) attacks, where malicious instructions are embedded within the content processed by LLMs, aiming to manipulate these agents into executing detrimental actions against users. Given the potentially severe consequences of such attacks, establishing benchmarks to assess and mitigate these risks is imperative.

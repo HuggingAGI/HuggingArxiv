@@ -6,6 +6,8 @@
 
 > AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models
 
+# 摘要
+
 > 本次研究旨在打造一款名为 AutoRD 的全流程自动化系统，它可以高效地从有关罕见疾病的临床文本中提取关键信息。我们针对 AutoRD 进行了多方位测试，并在此文中详述了其实力与局限性。运用大规模语言模型和基于开源医学本体论构建的医学知识图谱，我们搭建了 AutoRD 系统，它涵盖了数据预处理、实体识别、关系抽取、实体校准等多个环节，并最终构建知识图谱。我们对其进行定量评测，涉及实体识别、关系抽取和整体知识图谱构建效果等方面。结果显示，AutoRD 总体 F1 分数达到了47.3%，比基础 LLM 提升了14.4个百分点。在细节方面，AutoRD 的实体识别综合 F1 得分为56.1%（罕见疾病识别率高达83.5%，疾病识别率为35.8%，症状和体征识别率为46.1%，代词识别率为67.5%）；关系抽取综合 F1 得分为38.6%（如“引发”关系为34.7%，“增加患病风险”关系为12.4%等）。同时，定性实验表明，AutoRD 在构建知识图谱方面的表现可圈可点。AutoRD 的出色表现为 LLM 在罕见病识别领域的应用开辟了新的可能，其中显著提升得益于融入了本体强化的 LLM 技术。总结来说，AutoRD 是一款能自动从文本中抽提罕见疾病信息以构建知识图谱的端到端解决方案，它借助本体强化的 LLM 构建起强大的医学知识体系。经由实验证明，AutoRD 的卓越性能充分展现了 LLM 在医疗健康行业的巨大应用潜力。
 
 > Objectives Our objective is to create an end-to-end system called AutoRD, which automates extracting information from clinical text about rare diseases. We have conducted various tests to evaluate the performance of AutoRD and highlighted its strengths and limitations in this paper.

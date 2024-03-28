@@ -6,6 +6,8 @@
 
 > Hallmarks of Optimization Trajectories in Neural Networks and LLMs: The Lengths, Bends, and Dead Ends
 
+# 摘要
+
 > 我们创新性地通过剖析神经网络内部优化轨迹中蕴含的丰富参数结构，深入解读其工作机制。为此，我们定义了一系列定性与定量相结合的优化轨迹复杂度概念，揭示了动量、权重衰减、批次大小等不同优化策略之间的微妙互动关系。借助这些新概念，我们成功揭示了深度神经网络优化过程的本质特征——何时能稳健推进，何时会陷入困境。从轨迹角度出发，我们还发现了动量和权重衰减间相互促进探索方向的作用机制，以及其他一些有助于定向正则化的特性。为了验证我们方法的有效性，我们在大规模视觉和语言任务上进行实验，涵盖了最多拥有120亿参数的大规模语言模型（LLMs）。
 
 > We propose a fresh take on understanding the mechanisms of neural networks by analyzing the rich structure of parameters contained within their optimization trajectories. Towards this end, we introduce some natural notions of the complexity of optimization trajectories, both qualitative and quantitative, which reveal the inherent nuance and interplay involved between various optimization choices, such as momentum, weight decay, and batch size. We use them to provide key hallmarks about the nature of optimization in deep neural networks: when it goes right, and when it finds itself in a dead end. Further, thanks to our trajectory perspective, we uncover an intertwined behaviour of momentum and weight decay that promotes directional exploration, as well as a directional regularization behaviour of some others. We perform experiments over large-scale vision and language settings, including large language models (LLMs) with up to 12 billion parameters, to demonstrate the value of our approach.

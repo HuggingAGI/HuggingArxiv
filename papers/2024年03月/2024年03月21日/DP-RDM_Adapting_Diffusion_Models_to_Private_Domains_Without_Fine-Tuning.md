@@ -6,6 +6,8 @@
 
 > DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning
 
+# 摘要
+
 > 文本转图像扩散模型存在记忆特定样本的问题，可能再现训练中接触过的完美图像复制品，这带来一定风险。为此，我们创新研发了首个具有差异隐私（DP）保护功能的增强检索生成算法，它不仅能够在确保严格隐私保障的同时产出高质量图像样本，而且无需对目标领域内的检索数据集进行微调。我们借助已训练好的小型公开数据集上的文本到图像扩散模型，并精心设计了DP检索机制，将来自私有检索数据集中的样本与文本提示相结合。这个名为“DP-RDM”的差异隐私增强检索扩散模型，可以利用最前沿的生成模型技术，在严格遵守DP规范的基础上生成高品质图像样本。实际应用中，在MS-COCO数据集上测试显示，即使面对高达$10,000$次查询请求，DP-RDM在隐私预算为$ε=10$的情况下仍然能够生成图像样本，并且相较于仅依赖公开检索数据集的方法，其FID得分提高了3.5点。
 
 > Text-to-image diffusion models have been shown to suffer from sample-level memorization, possibly reproducing near-perfect replica of images that they are trained on, which may be undesirable. To remedy this issue, we develop the first differentially private (DP) retrieval-augmented generation algorithm that is capable of generating high-quality image samples while providing provable privacy guarantees. Specifically, we assume access to a text-to-image diffusion model trained on a small amount of public data, and design a DP retrieval mechanism to augment the text prompt with samples retrieved from a private retrieval dataset. Our \emph{differentially private retrieval-augmented diffusion model} (DP-RDM) requires no fine-tuning on the retrieval dataset to adapt to another domain, and can use state-of-the-art generative models to generate high-quality image samples while satisfying rigorous DP guarantees. For instance, when evaluated on MS-COCO, our DP-RDM can generate samples with a privacy budget of $ε=10$, while providing a $3.5$ point improvement in FID compared to public-only retrieval for up to $10,000$ queries.

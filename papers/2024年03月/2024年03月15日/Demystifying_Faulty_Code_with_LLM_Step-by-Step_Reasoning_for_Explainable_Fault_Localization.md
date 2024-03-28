@@ -6,6 +6,8 @@
 
 > Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization
 
+# 摘要
+
 > 故障定位是识别引发程序失败的关键环节，涉及确定特定的类、方法或语句等代码元素，而人工完成这一任务极其耗时。面对这一挑战，一系列故障定位工具应运而生，它们能够生成可疑代码元素的优先级列表。然而，单纯依赖排名列表不足以解决问题，先前研究指出自动故障定位应具备提供推理依据的能力。本研究致力于深入探究可解释故障定位的分步推理机制，并发掘大型语言模型（LLM）辅助开发者解析代码的潜能。我们创新性地提出FuseFL方案，将光谱故障定位结果、测试用例运行情况及代码描述（即对代码目的的解释）等多种信息整合，以优化LLM的表现。通过运用Refactory数据集中带有缺陷的代码样本，我们首先检验了自动化故障定位的效能，并发现FuseFL在Top-1位置成功定位的故障数相较于基准提升了超过30%。为了验证FuseFL生成的解释质量，我们构建了一个包含324个含有故障代码文件及其对应600条故障行的人工推理解释数据集。此外，我们还组织了人为评测实验，结果显示，在随机选取的30个案例中，FuseFL为其中22个案例准确地生成了符合逻辑的解释。
 
 > Fault localization is a critical process that involves identifying specific program elements responsible for program failures. Manually pinpointing these elements, such as classes, methods, or statements, which are associated with a fault is laborious and time-consuming. To overcome this challenge, various fault localization tools have been developed. These tools typically generate a ranked list of suspicious program elements. However, this information alone is insufficient. A prior study emphasized that automated fault localization should offer a rationale.

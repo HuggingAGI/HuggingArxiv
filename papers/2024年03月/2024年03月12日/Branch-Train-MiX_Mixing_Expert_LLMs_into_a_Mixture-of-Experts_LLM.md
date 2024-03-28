@@ -6,6 +6,8 @@
 
 > Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
 
+# 摘要
+
 > 本研究探索了一种高效训练LLMs的方法——BTX，旨在让模型同时具备编程、数学推理及世界知识等多领域的专业技能。BTX从基础模型出发，通过高效并行方式分化训练各个领域专家，减少通讯开销且提高处理速度。在各专家完成异步训练后，BTX巧妙地将他们的前馈参数融入MoE层作为专家集合，并对剩余参数做平均化处理，随后进行MoE精细化调整以学习令牌级别的路径选择。BTX包括两个特例：不涉及路由学习的Branch-Train-Merge方法，以及跳过异步训练专家步骤的稀疏升级方法。相比其他方法，BTX在准确度与效率之间找到了最优平衡点。
 
 > We investigate efficient methods for training Large Language Models (LLMs) to possess capabilities in multiple specialized domains, such as coding, math reasoning and world knowledge. Our method, named Branch-Train-MiX (BTX), starts from a seed model, which is branched to train experts in embarrassingly parallel fashion with high throughput and reduced communication cost. After individual experts are asynchronously trained, BTX brings together their feedforward parameters as experts in Mixture-of-Expert (MoE) layers and averages the remaining parameters, followed by an MoE-finetuning stage to learn token-level routing. BTX generalizes two special cases, the Branch-Train-Merge method, which does not have the MoE finetuning stage to learn routing, and sparse upcycling, which omits the stage of training experts asynchronously. Compared to alternative approaches, BTX achieves the best accuracy-efficiency tradeoff.

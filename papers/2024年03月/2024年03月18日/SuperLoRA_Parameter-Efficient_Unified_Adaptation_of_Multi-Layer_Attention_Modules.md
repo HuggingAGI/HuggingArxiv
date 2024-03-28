@@ -6,6 +6,8 @@
 
 > SuperLoRA: Parameter-Efficient Unified Adaptation of Multi-Layer Attention Modules
 
+# 摘要
+
 > 广泛应用于诸如NLP领域的大型语言模型及CV中的扩散模型等微调任务的低秩适应（LoRA）及其多种变体，如今被一种称为SuperLoRA的新型通用框架所整合与拓展。该框架能够在不同超参数配置下实现各种LoRA变体，并创新性地融入了分组、折叠、混洗、投影以及张量分解机制，从而赋予其相比其他同类方法更高的灵活度。尤其在极端少量参数的场景下，SuperLoRA在迁移学习任务上展现出卓越的表现。
 
 > Low-rank adaptation (LoRA) and its variants are widely employed in fine-tuning large models, including large language models for natural language processing and diffusion models for computer vision. This paper proposes a generalized framework called SuperLoRA that unifies and extends different LoRA variants, which can be realized under different hyper-parameter settings. Introducing grouping, folding, shuffling, projecting, and tensor factoring, SuperLoRA offers high flexibility compared with other LoRA variants and demonstrates superior performance for transfer learning tasks especially in the extremely few-parameter regimes.

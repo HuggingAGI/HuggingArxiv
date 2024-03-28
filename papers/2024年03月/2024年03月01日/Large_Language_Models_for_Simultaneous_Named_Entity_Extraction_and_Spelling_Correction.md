@@ -6,6 +6,8 @@
 
 > Large Language Models for Simultaneous Named Entity Extraction and Spelling Correction
 
+# 摘要
+
 > 研究发现，BERT 等语言模型在识别文本中命名实体（NE）方面表现出色，常被当作分类器来划分文本标记或标记序列的类别归属。本文进一步推测，仅包含解码器部分的大型语言模型（LLMs）不仅能够自动生成 NE，还可能矫正输入文本中原有的拼写错误，从而还原 NE 的正确形态。我们在本研究中对两组 BERT LMs 做了微调作为对照，并对另外八种开源 LLMs 进行了针对日本店铺收据图片经 OCR 转换后文本提取 NE 的微调任务，但并未涉及定位 NE 在文本中的具体位置。实验结果显示，在此任务上，最优微调后的 LLM 表现略优于最优微调后的 BERT LM，尽管差距不明显，但正如预期所设想的那样，该最优 LLM 在特定情况下确实能有效纠正 OCR 引入的错误。
 
 > Language Models (LMs) such as BERT, have been shown to perform well on the task of identifying Named Entities (NE) in text. A BERT LM is typically used as a classifier to classify individual tokens in the input text, or to classify spans of tokens, as belonging to one of a set of possible NE categories.

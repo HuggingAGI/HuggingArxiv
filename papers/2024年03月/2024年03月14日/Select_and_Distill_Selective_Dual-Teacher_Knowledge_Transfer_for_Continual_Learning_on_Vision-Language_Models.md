@@ -6,6 +6,8 @@
 
 > Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models
 
+# 摘要
+
 > 大规模VLMs在处理未知领域数据时表现出卓越的零样本泛化能力，但在连续适应下游任务时，易遗忘已学知识并削弱其零样本分类性能。为此，我们创新性地提出了“选择性双教师知识迁移”框架，它借助最近微调的VLM和原始预训练VLM作为双重教师，分别维护旧知识与零样本能力。只利用无标签参考数据集，此框架通过衡量来自双教师VLM的特征差异实施选择性知识提炼。这样一来，这种选择性双教师知识提炼机制能够在保护预训练VLM零样本能力的同时，缓解对已学知识的灾难性遗忘问题。我们在多个基准数据集上进行了广泛实验，结果显示，相较于现有最先进的持续学习方法，本框架在防止灾难性遗忘及零样本性能衰退方面表现更为优秀。
 
 > Large-scale vision-language models (VLMs) have shown a strong zero-shot generalization capability on unseen-domain data. However, when adapting pre-trained VLMs to a sequence of downstream tasks, they are prone to forgetting previously learned knowledge and degrade their zero-shot classification capability. To tackle this problem, we propose a unique Selective Dual-Teacher Knowledge Transfer framework that leverages the most recent fine-tuned and the original pre-trained VLMs as dual teachers to preserve the previously learned knowledge and zero-shot capabilities, respectively. With only access to an unlabeled reference dataset, our proposed framework performs a selective knowledge distillation mechanism by measuring the feature discrepancy from the dual teacher VLMs. Consequently, our selective dual-teacher knowledge distillation would mitigate catastrophic forgetting of previously learned knowledge while preserving the zero-shot capabilities from pre-trained VLMs. Through extensive experiments on benchmark datasets, we show that our proposed framework is favorable against state-of-the-art continual learning approaches for preventing catastrophic forgetting and zero-shot degradation.
