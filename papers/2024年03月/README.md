@@ -342,35 +342,35 @@
 
 - [CAUSE: Counterfactual Assessment of User Satisfaction Estimation in Task-Oriented Dialogue Systems](2024年03月27日/CAUSE_Counterfactual_Assessment_of_User_Satisfaction_Estimation_in_Task-Oriented_Dialogue_Systems.md)
 
-    - [翻译: ](2024年03月27日/CAUSE_Counterfactual_Assessment_of_User_Satisfaction_Estimation_in_Task-Oriented_Dialogue_Systems.md)
+    - [翻译: CAUSE：在任务导向对话系统中，对用户满意度进行反事实评估的研究](2024年03月27日/CAUSE_Counterfactual_Assessment_of_User_Satisfaction_Estimation_in_Task-Oriented_Dialogue_Systems.md)
 
 - [LITA: Language Instructed Temporal-Localization Assistant](2024年03月27日/LITA_Language_Instructed_Temporal-Localization_Assistant.md)
 
-    - [翻译: ](2024年03月27日/LITA_Language_Instructed_Temporal-Localization_Assistant.md)
+    - [翻译: LITA：受语言指令驱动的时间定位辅助工具](2024年03月27日/LITA_Language_Instructed_Temporal-Localization_Assistant.md)
 
 - [Evaluating Large Language Models for Health-Related Text Classification Tasks with Public Social Media Data](2024年03月27日/Evaluating_Large_Language_Models_for_Health-Related_Text_Classification_Tasks_with_Public_Social_Media_Data.md)
 
-    - [翻译: ](2024年03月27日/Evaluating_Large_Language_Models_for_Health-Related_Text_Classification_Tasks_with_Public_Social_Media_Data.md)
+    - [翻译: 本研究利用公共社交媒体数据，对大型语言模型在健康相关文本分类任务中的表现进行评估。](2024年03月27日/Evaluating_Large_Language_Models_for_Health-Related_Text_Classification_Tasks_with_Public_Social_Media_Data.md)
 
 - [Towards LLM-RecSys Alignment with Textual ID Learning](2024年03月27日/Towards_LLM-RecSys_Alignment_with_Textual_ID_Learning.md)
 
-    - [翻译: ](2024年03月27日/Towards_LLM-RecSys_Alignment_with_Textual_ID_Learning.md)
+    - [翻译: 探索文本ID学习以实现大型语言模型与推荐系统的融合](2024年03月27日/Towards_LLM-RecSys_Alignment_with_Textual_ID_Learning.md)
 
 - [Resource Allocation in Large Language Model Integrated 6G Vehicular Networks](2024年03月27日/Resource_Allocation_in_Large_Language_Model_Integrated_6G_Vehicular_Networks.md)
 
-    - [翻译: ](2024年03月27日/Resource_Allocation_in_Large_Language_Model_Integrated_6G_Vehicular_Networks.md)
+    - [翻译: 在融合了大型语言模型的6G车联网中，探究资源配置策略。](2024年03月27日/Resource_Allocation_in_Large_Language_Model_Integrated_6G_Vehicular_Networks.md)
 
 - [Cross--domain Fiber Cluster Shape Analysis for Language Performance Cognitive Score Prediction](2024年03月27日/Cross--domain_Fiber_Cluster_Shape_Analysis_for_Language_Performance_Cognitive_Score_Prediction.md)
 
-    - [翻译: ](2024年03月27日/Cross--domain_Fiber_Cluster_Shape_Analysis_for_Language_Performance_Cognitive_Score_Prediction.md)
+    - [翻译: 跨领域纤维束形态分析在语言性能认知评分预测中的应用](2024年03月27日/Cross--domain_Fiber_Cluster_Shape_Analysis_for_Language_Performance_Cognitive_Score_Prediction.md)
 
 - [TextCraftor: Your Text Encoder Can be Image Quality Controller](2024年03月27日/TextCraftor_Your_Text_Encoder_Can_be_Image_Quality_Controller.md)
 
-    - [翻译: ](2024年03月27日/TextCraftor_Your_Text_Encoder_Can_be_Image_Quality_Controller.md)
+    - [翻译: TextCraftor：用文本编码器掌控图像品质](2024年03月27日/TextCraftor_Your_Text_Encoder_Can_be_Image_Quality_Controller.md)
 
 - [CPR: Retrieval Augmented Generation for Copyright Protection](2024年03月27日/CPR_Retrieval_Augmented_Generation_for_Copyright_Protection.md)
 
-    - [翻译: ](2024年03月27日/CPR_Retrieval_Augmented_Generation_for_Copyright_Protection.md)
+    - [翻译: CPR：结合检索技术的生成模型，助力版权保护](2024年03月27日/CPR_Retrieval_Augmented_Generation_for_Copyright_Protection.md)
 
 2024年03月26日
 
