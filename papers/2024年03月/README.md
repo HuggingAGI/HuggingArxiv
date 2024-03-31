@@ -1,5 +1,147 @@
 # 2024年03月
 
+2024年03月28日
+
+- [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](2024年03月28日/InterDreamer_Zero-Shot_Text_to_3D_Dynamic_Human-Object_Interaction.md)
+
+    - [翻译: InterDreamer：零样本学习实现文本描述至三维动态人与物体互动的转化。](2024年03月28日/InterDreamer_Zero-Shot_Text_to_3D_Dynamic_Human-Object_Interaction.md)
+
+- [MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions](2024年03月28日/MagicLens_Self-Supervised_Image_Retrieval_with_Open-Ended_Instructions.md)
+
+    - [翻译: MagicLens：借助开放式指令实现自监督图像搜索](2024年03月28日/MagicLens_Self-Supervised_Image_Retrieval_with_Open-Ended_Instructions.md)
+
+- [Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning](2024年03月28日/Change-Agent_Towards_Interactive_Comprehensive_Change_Interpretation_and_Analysis_from_Change_Detection_and_Change_Captioning.md)
+
+    - [翻译: 变革先锋：探索通过变化侦测与变化描述实现交互式、全面的变革解读与分析。](2024年03月28日/Change-Agent_Towards_Interactive_Comprehensive_Change_Interpretation_and_Analysis_from_Change_Detection_and_Change_Captioning.md)
+
+- [Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models](2024年03月28日/Retrieval-Enhanced_Knowledge_Editing_for_Multi-Hop_Question_Answering_in_Language_Models.md)
+
+    - [翻译: 本文介绍了一种结合检索增强和知识编辑的方法，用于语言模型中的多跳问答任务，旨在提高问题解答的准确性和效率。](2024年03月28日/Retrieval-Enhanced_Knowledge_Editing_for_Multi-Hop_Question_Answering_in_Language_Models.md)
+
+- [WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models](2024年03月28日/WaterJudge_Quality-Detection_Trade-off_when_Watermarking_Large_Language_Models.md)
+
+    - [翻译: WaterJudge：为大型语言模型添加水印时，质量与检测之间的权衡。](2024年03月28日/WaterJudge_Quality-Detection_Trade-off_when_Watermarking_Large_Language_Models.md)
+
+- [LLMs as Academic Reading Companions: Extending HCI Through Synthetic Personae](2024年03月28日/LLMs_as_Academic_Reading_Companions_Extending_HCI_Through_Synthetic_Personae.md)
+
+    - [翻译: 将大型语言模型视作学术阅读的良伴，我们能够通过构建合成人格来丰富人机交互的体验。](2024年03月28日/LLMs_as_Academic_Reading_Companions_Extending_HCI_Through_Synthetic_Personae.md)
+
+- [Evolving Assembly Code in an Adversarial Environment](2024年03月28日/Evolving_Assembly_Code_in_an_Adversarial_Environment.md)
+
+    - [翻译: 在充满挑战的环境中，汇编代码不断进化以适应和提升性能。](2024年03月28日/Evolving_Assembly_Code_in_an_Adversarial_Environment.md)
+
+- [JDocQA: Japanese Document Question Answering Dataset for Generative Language Models](2024年03月28日/JDocQA_Japanese_Document_Question_Answering_Dataset_for_Generative_Language_Models.md)
+
+    - [翻译: JDocQA：面向生成式语言模型的日文文档问答数据集](2024年03月28日/JDocQA_Japanese_Document_Question_Answering_Dataset_for_Generative_Language_Models.md)
+
+- [Mixed Preference Optimization: Reinforcement Learning with Data Selection and Better Reference Model](2024年03月28日/Mixed_Preference_Optimization_Reinforcement_Learning_with_Data_Selection_and_Better_Reference_Model.md)
+
+    - [翻译: 在强化学习领域，通过结合数据选择和优化参考模型，我们提出了一种混合偏好优化方法，旨在提升学习效率和决策质量。](2024年03月28日/Mixed_Preference_Optimization_Reinforcement_Learning_with_Data_Selection_and_Better_Reference_Model.md)
+
+- [OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion](2024年03月28日/OAKINK2_A_Dataset_of_Bimanual_Hands-Object_Manipulation_in_Complex_Task_Completion.md)
+
+    - [翻译: OAKINK2：一个涵盖双手协同操作物体以完成复杂任务的数据集](2024年03月28日/OAKINK2_A_Dataset_of_Bimanual_Hands-Object_Manipulation_in_Complex_Task_Completion.md)
+
+- [BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation](2024年03月28日/BP4ER_Bootstrap_Prompting_for_Explicit_Reasoning_in_Medical_Dialogue_Generation.md)
+
+    - [翻译: BP4ER：一种针对医疗对话生成的自举式明确推理提示方法。](2024年03月28日/BP4ER_Bootstrap_Prompting_for_Explicit_Reasoning_in_Medical_Dialogue_Generation.md)
+
+- [Checkpoint Merging via Bayesian Optimization in LLM Pretraining](2024年03月28日/Checkpoint_Merging_via_Bayesian_Optimization_in_LLM_Pretraining.md)
+
+    - [翻译: 在大型语言模型预训练阶段，我们采用贝叶斯优化技术来实现检查点的融合。](2024年03月28日/Checkpoint_Merging_via_Bayesian_Optimization_in_LLM_Pretraining.md)
+
+- [RAIL: Robot Affordance Imagination with Large Language Models](2024年03月28日/RAIL_Robot_Affordance_Imagination_with_Large_Language_Models.md)
+
+    - [翻译: RAIL：借助大型语言模型，探索机器人的可操作性想象](2024年03月28日/RAIL_Robot_Affordance_Imagination_with_Large_Language_Models.md)
+
+- [Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors](2024年03月28日/Breaking_the_Length_Barrier_LLM-Enhanced_CTR_Prediction_in_Long_Textual_User_Behaviors.md)
+
+    - [翻译: 突破长度限制：利用大型语言模型提升长文本用户行为的点击率预测能力](2024年03月28日/Breaking_the_Length_Barrier_LLM-Enhanced_CTR_Prediction_in_Long_Textual_User_Behaviors.md)
+
+- [Large Language Models Are Unconscious of Unreasonability in Math Problems](2024年03月28日/Large_Language_Models_Are_Unconscious_of_Unreasonability_in_Math_Problems.md)
+
+    - [翻译: 大型语言模型处理数学问题时，往往未察觉其不合理性。](2024年03月28日/Large_Language_Models_Are_Unconscious_of_Unreasonability_in_Math_Problems.md)
+
+- [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](2024年03月28日/Dataverse_Open-Source_ETL_(Extract,_Transform,_Load)_Pipeline_for_Large_Language_Models.md)
+
+    - [翻译: Dataverse 项目推出了一款开源的 ETL 管道，旨在为大型语言模型提供数据提取、转换和加载的服务。](2024年03月28日/Dataverse_Open-Source_ETL_(Extract,_Transform,_Load)_Pipeline_for_Large_Language_Models.md)
+
+- [IVLMap: Instance-Aware Visual Language Grounding for Consumer Robot Navigation](2024年03月28日/IVLMap_Instance-Aware_Visual_Language_Grounding_for_Consumer_Robot_Navigation.md)
+
+    - [翻译: IVLMap：为消费者机器人导航设计的实例感知视觉与语言互动定位系统。](2024年03月28日/IVLMap_Instance-Aware_Visual_Language_Grounding_for_Consumer_Robot_Navigation.md)
+
+- [Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models](2024年03月28日/Plug-and-Play_Grounding_of_Reasoning_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型中的推理基础定位，通过即插即用的方式实现了卓越的性能。](2024年03月28日/Plug-and-Play_Grounding_of_Reasoning_in_Multimodal_Large_Language_Models.md)
+
+- [TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios](2024年03月28日/TableLLM_Enabling_Tabular_Data_Manipulation_by_LLMs_in_Real_Office_Usage_Scenarios.md)
+
+    - [翻译: TableLLM：让大型语言模型在真实办公环境中灵活操控表格数据](2024年03月28日/TableLLM_Enabling_Tabular_Data_Manipulation_by_LLMs_in_Real_Office_Usage_Scenarios.md)
+
+- [MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation](2024年03月28日/MATEval_A_Multi-Agent_Discussion_Framework_for_Advancing_Open-Ended_Text_Evaluation.md)
+
+    - [翻译: MATEval：促进开放式文本评估的多智能体讨论新框架](2024年03月28日/MATEval_A_Multi-Agent_Discussion_Framework_for_Advancing_Open-Ended_Text_Evaluation.md)
+
+- [Generate then Retrieve: Conversational Response Retrieval Using LLMs as Answer and Query Generators](2024年03月28日/Generate_then_Retrieve_Conversational_Response_Retrieval_Using_LLMs_as_Answer_and_Query_Generators.md)
+
+    - [翻译: ](2024年03月28日/Generate_then_Retrieve_Conversational_Response_Retrieval_Using_LLMs_as_Answer_and_Query_Generators.md)
+
+- [CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios](2024年03月28日/CoderUJB_An_Executable_and_Unified_Java_Benchmark_for_Practical_Programming_Scenarios.md)
+
+    - [翻译: ](2024年03月28日/CoderUJB_An_Executable_and_Unified_Java_Benchmark_for_Practical_Programming_Scenarios.md)
+
+- [Going Beyond Word Matching: Syntax Improves In-context Example Selection for Machine Translation](2024年03月28日/Going_Beyond_Word_Matching_Syntax_Improves_In-context_Example_Selection_for_Machine_Translation.md)
+
+    - [翻译: ](2024年03月28日/Going_Beyond_Word_Matching_Syntax_Improves_In-context_Example_Selection_for_Machine_Translation.md)
+
+- [Ungrammatical-syntax-based In-context Example Selection for Grammatical Error Correction](2024年03月28日/Ungrammatical-syntax-based_In-context_Example_Selection_for_Grammatical_Error_Correction.md)
+
+    - [翻译: ](2024年03月28日/Ungrammatical-syntax-based_In-context_Example_Selection_for_Grammatical_Error_Correction.md)
+
+- [Fine-Tuning Language Models with Reward Learning on Policy](2024年03月28日/Fine-Tuning_Language_Models_with_Reward_Learning_on_Policy.md)
+
+    - [翻译: ](2024年03月28日/Fine-Tuning_Language_Models_with_Reward_Learning_on_Policy.md)
+
+- [sDPO: Don't Use Your Data All at Once](2024年03月28日/sDPO_Don't_Use_Your_Data_All_at_Once.md)
+
+    - [翻译: ](2024年03月28日/sDPO_Don't_Use_Your_Data_All_at_Once.md)
+
+- [Sine Activated Low-Rank Matrices for Parameter Efficient Learning](2024年03月28日/Sine_Activated_Low-Rank_Matrices_for_Parameter_Efficient_Learning.md)
+
+    - [翻译: ](2024年03月28日/Sine_Activated_Low-Rank_Matrices_for_Parameter_Efficient_Learning.md)
+
+- [Are Large Language Models Good at Utility Judgments?](2024年03月28日/Are_Large_Language_Models_Good_at_Utility_Judgments.md)
+
+    - [翻译: ](2024年03月28日/Are_Large_Language_Models_Good_at_Utility_Judgments.md)
+
+- [Dual-Personalizing Adapter for Federated Foundation Models](2024年03月28日/Dual-Personalizing_Adapter_for_Federated_Foundation_Models.md)
+
+    - [翻译: ](2024年03月28日/Dual-Personalizing_Adapter_for_Federated_Foundation_Models.md)
+
+- [Text Data-Centric Image Captioning with Interactive Prompts](2024年03月28日/Text_Data-Centric_Image_Captioning_with_Interactive_Prompts.md)
+
+    - [翻译: ](2024年03月28日/Text_Data-Centric_Image_Captioning_with_Interactive_Prompts.md)
+
+- [Make Large Language Model a Better Ranker](2024年03月28日/Make_Large_Language_Model_a_Better_Ranker.md)
+
+    - [翻译: ](2024年03月28日/Make_Large_Language_Model_a_Better_Ranker.md)
+
+- [Mitigating Misleading Chain-of-Thought Reasoning with Selective Filtering](2024年03月28日/Mitigating_Misleading_Chain-of-Thought_Reasoning_with_Selective_Filtering.md)
+
+    - [翻译: ](2024年03月28日/Mitigating_Misleading_Chain-of-Thought_Reasoning_with_Selective_Filtering.md)
+
+- [Disentangling Length from Quality in Direct Preference Optimization](2024年03月28日/Disentangling_Length_from_Quality_in_Direct_Preference_Optimization.md)
+
+    - [翻译: ](2024年03月28日/Disentangling_Length_from_Quality_in_Direct_Preference_Optimization.md)
+
+- [Compressing Large Language Models by Streamlining the Unimportant Layer](2024年03月28日/Compressing_Large_Language_Models_by_Streamlining_the_Unimportant_Layer.md)
+
+    - [翻译: ](2024年03月28日/Compressing_Large_Language_Models_by_Streamlining_the_Unimportant_Layer.md)
+
+- [Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation](2024年03月28日/Img2Loc_Revisiting_Image_Geolocalization_using_Multi-modality_Foundation_Models_and_Image-based_Retrieval-Augmented_Generation.md)
+
+    - [翻译: ](2024年03月28日/Img2Loc_Revisiting_Image_Geolocalization_using_Multi-modality_Foundation_Models_and_Image-based_Retrieval-Augmented_Generation.md)
+
 2024年03月27日
 
 - [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](2024年03月27日/Mini-Gemini_Mining_the_Potential_of_Multi-modality_Vision_Language_Models.md)
@@ -161,6 +303,74 @@
 - [Evaluation of Semantic Search and its Role in Retrieved-Augmented-Generation (RAG) for Arabic Language](2024年03月27日/Evaluation_of_Semantic_Search_and_its_Role_in_Retrieved-Augmented-Generation_(RAG)_for_Arabic_Language.md)
 
     - [翻译: 评估语义搜索在阿拉伯语检索增强生成（RAG）中的作用，探究其对提升生成质量的贡献。](2024年03月27日/Evaluation_of_Semantic_Search_and_its_Role_in_Retrieved-Augmented-Generation_(RAG)_for_Arabic_Language.md)
+
+- [OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition](2024年03月27日/OmniParser_A_Unified_Framework_for_Text_Spotting,_Key_Information_Extraction_and_Table_Recognition.md)
+
+    - [翻译: ](2024年03月27日/OmniParser_A_Unified_Framework_for_Text_Spotting,_Key_Information_Extraction_and_Table_Recognition.md)
+
+- [Code Comparison Tuning for Code Large Language Models](2024年03月27日/Code_Comparison_Tuning_for_Code_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月27日/Code_Comparison_Tuning_for_Code_Large_Language_Models.md)
+
+- [MFORT-QA: Multi-hop Few-shot Open Rich Table Question Answering](2024年03月27日/MFORT-QA_Multi-hop_Few-shot_Open_Rich_Table_Question_Answering.md)
+
+    - [翻译: ](2024年03月27日/MFORT-QA_Multi-hop_Few-shot_Open_Rich_Table_Question_Answering.md)
+
+- [HiRoPE: Length Extrapolation for Code Models](2024年03月27日/HiRoPE_Length_Extrapolation_for_Code_Models.md)
+
+    - [翻译: ](2024年03月27日/HiRoPE_Length_Extrapolation_for_Code_Models.md)
+
+- [FACTOID: FACtual enTailment fOr hallucInation Detection](2024年03月27日/FACTOID_FACtual_enTailment_fOr_hallucInation_Detection.md)
+
+    - [翻译: ](2024年03月27日/FACTOID_FACtual_enTailment_fOr_hallucInation_Detection.md)
+
+- [Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation](2024年03月27日/Automated_Black-box_Prompt_Engineering_for_Personalized_Text-to-Image_Generation.md)
+
+    - [翻译: ](2024年03月27日/Automated_Black-box_Prompt_Engineering_for_Personalized_Text-to-Image_Generation.md)
+
+- [SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection](2024年03月27日/SCALE_Constructing_Structured_Natural_Language_Comment_Trees_for_Software_Vulnerability_Detection.md)
+
+    - [翻译: ](2024年03月27日/SCALE_Constructing_Structured_Natural_Language_Comment_Trees_for_Software_Vulnerability_Detection.md)
+
+- [Learning From Correctness Without Prompting Makes LLM Efficient Reasoner](2024年03月27日/Learning_From_Correctness_Without_Prompting_Makes_LLM_Efficient_Reasoner.md)
+
+    - [翻译: ](2024年03月27日/Learning_From_Correctness_Without_Prompting_Makes_LLM_Efficient_Reasoner.md)
+
+- [Instruction-based Hypergraph Pretraining](2024年03月27日/Instruction-based_Hypergraph_Pretraining.md)
+
+    - [翻译: ](2024年03月27日/Instruction-based_Hypergraph_Pretraining.md)
+
+- [CAUSE: Counterfactual Assessment of User Satisfaction Estimation in Task-Oriented Dialogue Systems](2024年03月27日/CAUSE_Counterfactual_Assessment_of_User_Satisfaction_Estimation_in_Task-Oriented_Dialogue_Systems.md)
+
+    - [翻译: ](2024年03月27日/CAUSE_Counterfactual_Assessment_of_User_Satisfaction_Estimation_in_Task-Oriented_Dialogue_Systems.md)
+
+- [LITA: Language Instructed Temporal-Localization Assistant](2024年03月27日/LITA_Language_Instructed_Temporal-Localization_Assistant.md)
+
+    - [翻译: ](2024年03月27日/LITA_Language_Instructed_Temporal-Localization_Assistant.md)
+
+- [Evaluating Large Language Models for Health-Related Text Classification Tasks with Public Social Media Data](2024年03月27日/Evaluating_Large_Language_Models_for_Health-Related_Text_Classification_Tasks_with_Public_Social_Media_Data.md)
+
+    - [翻译: ](2024年03月27日/Evaluating_Large_Language_Models_for_Health-Related_Text_Classification_Tasks_with_Public_Social_Media_Data.md)
+
+- [Towards LLM-RecSys Alignment with Textual ID Learning](2024年03月27日/Towards_LLM-RecSys_Alignment_with_Textual_ID_Learning.md)
+
+    - [翻译: ](2024年03月27日/Towards_LLM-RecSys_Alignment_with_Textual_ID_Learning.md)
+
+- [Resource Allocation in Large Language Model Integrated 6G Vehicular Networks](2024年03月27日/Resource_Allocation_in_Large_Language_Model_Integrated_6G_Vehicular_Networks.md)
+
+    - [翻译: ](2024年03月27日/Resource_Allocation_in_Large_Language_Model_Integrated_6G_Vehicular_Networks.md)
+
+- [Cross--domain Fiber Cluster Shape Analysis for Language Performance Cognitive Score Prediction](2024年03月27日/Cross--domain_Fiber_Cluster_Shape_Analysis_for_Language_Performance_Cognitive_Score_Prediction.md)
+
+    - [翻译: ](2024年03月27日/Cross--domain_Fiber_Cluster_Shape_Analysis_for_Language_Performance_Cognitive_Score_Prediction.md)
+
+- [TextCraftor: Your Text Encoder Can be Image Quality Controller](2024年03月27日/TextCraftor_Your_Text_Encoder_Can_be_Image_Quality_Controller.md)
+
+    - [翻译: ](2024年03月27日/TextCraftor_Your_Text_Encoder_Can_be_Image_Quality_Controller.md)
+
+- [CPR: Retrieval Augmented Generation for Copyright Protection](2024年03月27日/CPR_Retrieval_Augmented_Generation_for_Copyright_Protection.md)
+
+    - [翻译: ](2024年03月27日/CPR_Retrieval_Augmented_Generation_for_Copyright_Protection.md)
 
 2024年03月26日
 
