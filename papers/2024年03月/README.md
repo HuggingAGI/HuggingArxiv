@@ -536,35 +536,35 @@
 
 - [LLMs in HCI Data Work: Bridging the Gap Between Information Retrieval and Responsible Research Practices](2024年03月26日/LLMs_in_HCI_Data_Work_Bridging_the_Gap_Between_Information_Retrieval_and_Responsible_Research_Practices.md)
 
-    - [翻译: ](2024年03月26日/LLMs_in_HCI_Data_Work_Bridging_the_Gap_Between_Information_Retrieval_and_Responsible_Research_Practices.md)
+    - [翻译: 大型语言模型在人机交互数据领域中扮演着桥梁角色，连接信息检索与负责任的研究实践，助力数据工作的高效与可持续发展。](2024年03月26日/LLMs_in_HCI_Data_Work_Bridging_the_Gap_Between_Information_Retrieval_and_Responsible_Research_Practices.md)
 
 - [A Study of Three Influencer Archetypes for the Control of Opinion Spread in Time-Varying Social Networks](2024年03月26日/A_Study_of_Three_Influencer_Archetypes_for_the_Control_of_Opinion_Spread_in_Time-Varying_Social_Networks.md)
 
-    - [翻译: ](2024年03月26日/A_Study_of_Three_Influencer_Archetypes_for_the_Control_of_Opinion_Spread_in_Time-Varying_Social_Networks.md)
+    - [翻译: 本研究探讨了时间变化社交网络中影响意见扩散的三种影响者典型角色。](2024年03月26日/A_Study_of_Three_Influencer_Archetypes_for_the_Control_of_Opinion_Spread_in_Time-Varying_Social_Networks.md)
 
 - [Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models](2024年03月26日/Oh!_We_Freeze_Improving_Quantized_Knowledge_Distillation_via_Signal_Propagation_Analysis_for_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月26日/Oh!_We_Freeze_Improving_Quantized_Knowledge_Distillation_via_Signal_Propagation_Analysis_for_Large_Language_Models.md)
+    - [翻译: 哎呀！冻结啦：探究信号传播分析提升大型语言模型量化知识蒸馏效果之道](2024年03月26日/Oh!_We_Freeze_Improving_Quantized_Knowledge_Distillation_via_Signal_Propagation_Analysis_for_Large_Language_Models.md)
 
 - [Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency](2024年03月26日/Large_Language_Models_as_Financial_Data_Annotators_A_Study_on_Effectiveness_and_Efficiency.md)
 
-    - [翻译: ](2024年03月26日/Large_Language_Models_as_Financial_Data_Annotators_A_Study_on_Effectiveness_and_Efficiency.md)
+    - [翻译: 探究大型语言模型在金融数据标注上的有效性与效率](2024年03月26日/Large_Language_Models_as_Financial_Data_Annotators_A_Study_on_Effectiveness_and_Efficiency.md)
 
 - [Large Language Models Produce Responses Perceived to be Empathic](2024年03月26日/Large_Language_Models_Produce_Responses_Perceived_to_be_Empathic.md)
 
-    - [翻译: ](2024年03月26日/Large_Language_Models_Produce_Responses_Perceived_to_be_Empathic.md)
+    - [翻译: 大型语言模型能够产生让人感觉富有同理心的回应。](2024年03月26日/Large_Language_Models_Produce_Responses_Perceived_to_be_Empathic.md)
 
 - [Juru: Legal Brazilian Large Language Model from Reputable Sources](2024年03月26日/Juru_Legal_Brazilian_Large_Language_Model_from_Reputable_Sources.md)
 
-    - [翻译: ](2024年03月26日/Juru_Legal_Brazilian_Large_Language_Model_from_Reputable_Sources.md)
+    - [翻译: Juru，一款汇集权威资料的巴西法律领域大型语言模型。](2024年03月26日/Juru_Legal_Brazilian_Large_Language_Model_from_Reputable_Sources.md)
 
 - [For those who don't know (how) to ask: Building a dataset of technology questions for digital newcomers](2024年03月26日/For_those_who_don't_know_(how)_to_ask_Building_a_dataset_of_technology_questions_for_digital_newcomers.md)
 
-    - [翻译: ](2024年03月26日/For_those_who_don't_know_(how)_to_ask_Building_a_dataset_of_technology_questions_for_digital_newcomers.md)
+    - [翻译: 不知如何提问？为科技新手打造技术问题数据库](2024年03月26日/For_those_who_don't_know_(how)_to_ask_Building_a_dataset_of_technology_questions_for_digital_newcomers.md)
 
 - [ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness](2024年03月26日/ChatGPT_Role-play_Dataset_Analysis_of_User_Motives_and_Model_Naturalness.md)
 
-    - [翻译: ](2024年03月26日/ChatGPT_Role-play_Dataset_Analysis_of_User_Motives_and_Model_Naturalness.md)
+    - [翻译: 探究ChatGPT角色扮演数据集：揭示用户动机与模型的自然表现](2024年03月26日/ChatGPT_Role-play_Dataset_Analysis_of_User_Motives_and_Model_Naturalness.md)
 
 2024年03月25日
 
