@@ -326,35 +326,35 @@
 
 - [Developing Healthcare Language Model Embedding Spaces](2024年03月28日/Developing_Healthcare_Language_Model_Embedding_Spaces.md)
 
-    - [翻译: ](2024年03月28日/Developing_Healthcare_Language_Model_Embedding_Spaces.md)
+    - [翻译: 构建医疗领域语言模型的嵌入向量空间](2024年03月28日/Developing_Healthcare_Language_Model_Embedding_Spaces.md)
 
 - [Bespoke Large Language Models for Digital Triage Assistance in Mental Health Care](2024年03月28日/Bespoke_Large_Language_Models_for_Digital_Triage_Assistance_in_Mental_Health_Care.md)
 
-    - [翻译: ](2024年03月28日/Bespoke_Large_Language_Models_for_Digital_Triage_Assistance_in_Mental_Health_Care.md)
+    - [翻译: 在心理健康护理领域，我们专门打造的大型语言模型，旨在为数字分流提供智能辅助。](2024年03月28日/Bespoke_Large_Language_Models_for_Digital_Triage_Assistance_in_Mental_Health_Care.md)
 
 - [AlloyBERT: Alloy Property Prediction with Large Language Models](2024年03月28日/AlloyBERT_Alloy_Property_Prediction_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月28日/AlloyBERT_Alloy_Property_Prediction_with_Large_Language_Models.md)
+    - [翻译: AlloyBERT：借助大型语言模型预测合金特性](2024年03月28日/AlloyBERT_Alloy_Property_Prediction_with_Large_Language_Models.md)
 
 - [IDP-Bert: Predicting Properties of Intrinsically Disordered Proteins (IDP) Using Large Language Models](2024年03月28日/IDP-Bert_Predicting_Properties_of_Intrinsically_Disordered_Proteins_(IDP)_Using_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月28日/IDP-Bert_Predicting_Properties_of_Intrinsically_Disordered_Proteins_(IDP)_Using_Large_Language_Models.md)
+    - [翻译: IDP-Bert：借助大型语言模型预测内在无序蛋白特性](2024年03月28日/IDP-Bert_Predicting_Properties_of_Intrinsically_Disordered_Proteins_(IDP)_Using_Large_Language_Models.md)
 
 - [Enhancing Anomaly Detection in Financial Markets with an LLM-based Multi-Agent Framework](2024年03月28日/Enhancing_Anomaly_Detection_in_Financial_Markets_with_an_LLM-based_Multi-Agent_Framework.md)
 
-    - [翻译: ](2024年03月28日/Enhancing_Anomaly_Detection_in_Financial_Markets_with_an_LLM-based_Multi-Agent_Framework.md)
+    - [翻译: 借助基于大型语言模型的多智能体框架，提升金融市场异常检测的能力。](2024年03月28日/Enhancing_Anomaly_Detection_in_Financial_Markets_with_an_LLM-based_Multi-Agent_Framework.md)
 
 - [A Benchmark Evaluation of Clinical Named Entity Recognition in French](2024年03月28日/A_Benchmark_Evaluation_of_Clinical_Named_Entity_Recognition_in_French.md)
 
-    - [翻译: ](2024年03月28日/A_Benchmark_Evaluation_of_Clinical_Named_Entity_Recognition_in_French.md)
+    - [翻译: 本文通过基准测试，对法语临床命名实体识别进行了深入评估。](2024年03月28日/A_Benchmark_Evaluation_of_Clinical_Named_Entity_Recognition_in_French.md)
 
 - [MUGC: Machine Generated versus User Generated Content Detection](2024年03月28日/MUGC_Machine_Generated_versus_User_Generated_Content_Detection.md)
 
-    - [翻译: ](2024年03月28日/MUGC_Machine_Generated_versus_User_Generated_Content_Detection.md)
+    - [翻译: MUGC：区分机器创作与用户创作的内容](2024年03月28日/MUGC_Machine_Generated_versus_User_Generated_Content_Detection.md)
 
 - [FairRAG: Fair Human Generation via Fair Retrieval Augmentation](2024年03月28日/FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation.md)
 
-    - [翻译: ](2024年03月28日/FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation.md)
+    - [翻译: FairRAG：借助公平检索扩展，实现公正的人工智能人物创作](2024年03月28日/FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation.md)
 
 2024年03月27日
 
@@ -588,7 +588,7 @@
 
 - [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](2024年03月27日/HGT_Leveraging_Heterogeneous_Graph-enhanced_Large_Language_Models_for_Few-shot_Complex_Table_Understanding.md)
 
-    - [翻译: ](2024年03月27日/HGT_Leveraging_Heterogeneous_Graph-enhanced_Large_Language_Models_for_Few-shot_Complex_Table_Understanding.md)
+    - [翻译: HGT：借助异构图强化的大型语言模型，实现对复杂表格的少样本精准解读。](2024年03月27日/HGT_Leveraging_Heterogeneous_Graph-enhanced_Large_Language_Models_for_Few-shot_Complex_Table_Understanding.md)
 
 2024年03月26日
 
@@ -1060,7 +1060,7 @@
 
 - [Hierarchical Recurrent Adapters for Efficient Multi-Task Adaptation of Large Speech Models](2024年03月25日/Hierarchical_Recurrent_Adapters_for_Efficient_Multi-Task_Adaptation_of_Large_Speech_Models.md)
 
-    - [翻译: ](2024年03月25日/Hierarchical_Recurrent_Adapters_for_Efficient_Multi-Task_Adaptation_of_Large_Speech_Models.md)
+    - [翻译: 通过采用层级循环适配器，我们能够高效地调整大型语音模型，以应对多种任务的需求。](2024年03月25日/Hierarchical_Recurrent_Adapters_for_Efficient_Multi-Task_Adaptation_of_Large_Speech_Models.md)
 
 2024年03月24日
 
@@ -1272,7 +1272,7 @@
 
 - [AttentionStore: Cost-effective Attention Reuse across Multi-turn Conversations in Large Language Model Serving](2024年03月23日/AttentionStore_Cost-effective_Attention_Reuse_across_Multi-turn_Conversations_in_Large_Language_Model_Serving.md)
 
-    - [翻译: ](2024年03月23日/AttentionStore_Cost-effective_Attention_Reuse_across_Multi-turn_Conversations_in_Large_Language_Model_Serving.md)
+    - [翻译: AttentionStore 通过在大型语言模型的多轮对话中实现注意力机制的高效重用，降低了成本。](2024年03月23日/AttentionStore_Cost-effective_Attention_Reuse_across_Multi-turn_Conversations_in_Large_Language_Model_Serving.md)
 
 2024年03月22日
 
