@@ -84,47 +84,47 @@
 
 - [Gecko: Versatile Text Embeddings Distilled from Large Language Models](2024年03月29日/Gecko_Versatile_Text_Embeddings_Distilled_from_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月29日/Gecko_Versatile_Text_Embeddings_Distilled_from_Large_Language_Models.md)
+    - [翻译: Gecko：灵活多样，从大型语言模型中提炼出文本嵌入技术](2024年03月29日/Gecko_Versatile_Text_Embeddings_Distilled_from_Large_Language_Models.md)
 
 - [Convolutional Prompting meets Language Models for Continual Learning](2024年03月29日/Convolutional_Prompting_meets_Language_Models_for_Continual_Learning.md)
 
-    - [翻译: ](2024年03月29日/Convolutional_Prompting_meets_Language_Models_for_Continual_Learning.md)
+    - [翻译: 卷积式提示技术与语言模型相融合，以实现持续学习的目标。](2024年03月29日/Convolutional_Prompting_meets_Language_Models_for_Continual_Learning.md)
 
 - [Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations](2024年03月29日/Learn_No_to_Say_Yes_Better_Improving_Vision-Language_Models_via_Negations.md)
 
-    - [翻译: ](2024年03月29日/Learn_No_to_Say_Yes_Better_Improving_Vision-Language_Models_via_Negations.md)
+    - [翻译: 掌握拒绝，优化应允：利用否定策略提升视觉-语言模型性能](2024年03月29日/Learn_No_to_Say_Yes_Better_Improving_Vision-Language_Models_via_Negations.md)
 
 - [Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference](2024年03月29日/Towards_Greener_LLMs_Bringing_Energy-Efficiency_to_the_Forefront_of_LLM_Inference.md)
 
-    - [翻译: ](2024年03月29日/Towards_Greener_LLMs_Bringing_Energy-Efficiency_to_the_Forefront_of_LLM_Inference.md)
+    - [翻译: 迈向绿色LLM：将能效置于LLM推理的核心。](2024年03月29日/Towards_Greener_LLMs_Bringing_Energy-Efficiency_to_the_Forefront_of_LLM_Inference.md)
 
 - [Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain](2024年03月29日/Can_LLMs_Correct_Physicians,_Yet_Investigating_Effective_Interaction_Methods_in_the_Medical_Domain.md)
 
-    - [翻译: ](2024年03月29日/Can_LLMs_Correct_Physicians,_Yet_Investigating_Effective_Interaction_Methods_in_the_Medical_Domain.md)
+    - [翻译: 大型语言模型能否为医生纠错？探究医学领域内的有效互动方式。](2024年03月29日/Can_LLMs_Correct_Physicians,_Yet_Investigating_Effective_Interaction_Methods_in_the_Medical_Domain.md)
 
 - [LayerNorm: A key component in parameter-efficient fine-tuning](2024年03月29日/LayerNorm_A_key_component_in_parameter-efficient_fine-tuning.md)
 
-    - [翻译: ](2024年03月29日/LayerNorm_A_key_component_in_parameter-efficient_fine-tuning.md)
+    - [翻译: LayerNorm 是在进行参数高效微调时的一个核心要素。](2024年03月29日/LayerNorm_A_key_component_in_parameter-efficient_fine-tuning.md)
 
 - [LUQ: Long-text Uncertainty Quantification for LLMs](2024年03月29日/LUQ_Long-text_Uncertainty_Quantification_for_LLMs.md)
 
-    - [翻译: ](2024年03月29日/LUQ_Long-text_Uncertainty_Quantification_for_LLMs.md)
+    - [翻译: LUQ：为大型语言模型量身打造的长文本不确定性评估方法](2024年03月29日/LUQ_Long-text_Uncertainty_Quantification_for_LLMs.md)
 
 - [Latxa: An Open Language Model and Evaluation Suite for Basque](2024年03月29日/Latxa_An_Open_Language_Model_and_Evaluation_Suite_for_Basque.md)
 
-    - [翻译: ](2024年03月29日/Latxa_An_Open_Language_Model_and_Evaluation_Suite_for_Basque.md)
+    - [翻译: Latxa：巴斯克语的开源语言模型与评估工具集](2024年03月29日/Latxa_An_Open_Language_Model_and_Evaluation_Suite_for_Basque.md)
 
 - [ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models](2024年03月29日/ELITR-Bench_A_Meeting_Assistant_Benchmark_for_Long-Context_Language_Models.md)
 
-    - [翻译: ](2024年03月29日/ELITR-Bench_A_Meeting_Assistant_Benchmark_for_Long-Context_Language_Models.md)
+    - [翻译: ELITR-Bench：为长文本上下文语言模型设计的会议助手性能评估标准。](2024年03月29日/ELITR-Bench_A_Meeting_Assistant_Benchmark_for_Long-Context_Language_Models.md)
 
 - [Using LLMs to Model the Beliefs and Preferences of Targeted Populations](2024年03月29日/Using_LLMs_to_Model_the_Beliefs_and_Preferences_of_Targeted_Populations.md)
 
-    - [翻译: ](2024年03月29日/Using_LLMs_to_Model_the_Beliefs_and_Preferences_of_Targeted_Populations.md)
+    - [翻译: 借助大型语言模型，捕捉目标群体的信念与偏好。](2024年03月29日/Using_LLMs_to_Model_the_Beliefs_and_Preferences_of_Targeted_Populations.md)
 
 - [H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](2024年03月29日/H2RSVLM_Towards_Helpful_and_Honest_Remote_Sensing_Large_Vision_Language_Model.md)
 
-    - [翻译: ](2024年03月29日/H2RSVLM_Towards_Helpful_and_Honest_Remote_Sensing_Large_Vision_Language_Model.md)
+    - [翻译: H2RSVLM：探索有益且真实的遥感领域的大型视觉语言模型](2024年03月29日/H2RSVLM_Towards_Helpful_and_Honest_Remote_Sensing_Large_Vision_Language_Model.md)
 
 2024年03月28日
 
@@ -270,59 +270,59 @@
 
 - [Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
 
-    - [翻译: ](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
+    - [翻译: 通过调整策略和采用多分支推理方法，我们可以有效提升低参数大型语言模型的通用性能力。](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
 
 - [Are LLMs Effective Backbones for Fine-tuning? An Experimental Investigation of Supervised LLMs on Chinese Short Text Matching](2024年03月28日/Are_LLMs_Effective_Backbones_for_Fine-tuning_An_Experimental_Investigation_of_Supervised_LLMs_on_Chinese_Short_Text_Matching.md)
 
-    - [翻译: ](2024年03月28日/Are_LLMs_Effective_Backbones_for_Fine-tuning_An_Experimental_Investigation_of_Supervised_LLMs_on_Chinese_Short_Text_Matching.md)
+    - [翻译: 大型语言模型（LLM）能否成为精准调优的有效支撑？通过一项针对中文短文本匹配任务的监督LLM的实验探索，我们来一探究竟。](2024年03月28日/Are_LLMs_Effective_Backbones_for_Fine-tuning_An_Experimental_Investigation_of_Supervised_LLMs_on_Chinese_Short_Text_Matching.md)
 
 - [DiJiang: Efficient Large Language Models through Compact Kernelization](2024年03月28日/DiJiang_Efficient_Large_Language_Models_through_Compact_Kernelization.md)
 
-    - [翻译: ](2024年03月28日/DiJiang_Efficient_Large_Language_Models_through_Compact_Kernelization.md)
+    - [翻译: DiJiang：通过精巧核化技术，打造高效的大型语言模型](2024年03月28日/DiJiang_Efficient_Large_Language_Models_through_Compact_Kernelization.md)
 
 - [MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large Language Models](2024年03月28日/MANGO_A_Benchmark_for_Evaluating_Mapping_and_Navigation_Abilities_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月28日/MANGO_A_Benchmark_for_Evaluating_Mapping_and_Navigation_Abilities_of_Large_Language_Models.md)
+    - [翻译: MANGO：衡量大型语言模型在映射和导航任务上能力的行业标准。](2024年03月28日/MANGO_A_Benchmark_for_Evaluating_Mapping_and_Navigation_Abilities_of_Large_Language_Models.md)
 
 - [Towards a Robust Retrieval-Based Summarization System](2024年03月28日/Towards_a_Robust_Retrieval-Based_Summarization_System.md)
 
-    - [翻译: ](2024年03月28日/Towards_a_Robust_Retrieval-Based_Summarization_System.md)
+    - [翻译: 我们正致力于开发一个更加稳定可靠的基于检索技术的自动摘要系统。](2024年03月28日/Towards_a_Robust_Retrieval-Based_Summarization_System.md)
 
 - [Jamba: A Hybrid Transformer-Mamba Language Model](2024年03月28日/Jamba_A_Hybrid_Transformer-Mamba_Language_Model.md)
 
-    - [翻译: ](2024年03月28日/Jamba_A_Hybrid_Transformer-Mamba_Language_Model.md)
+    - [翻译: Jamba：融合变压器与曼巴特性的创新型语言模型](2024年03月28日/Jamba_A_Hybrid_Transformer-Mamba_Language_Model.md)
 
 - [Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks](2024年03月28日/Vision-Language_Synthetic_Data_Enhances_Echocardiography_Downstream_Tasks.md)
 
-    - [翻译: ](2024年03月28日/Vision-Language_Synthetic_Data_Enhances_Echocardiography_Downstream_Tasks.md)
+    - [翻译: 通过视觉-语言合成数据，我们提升了超声心动图相关下游任务的效能。](2024年03月28日/Vision-Language_Synthetic_Data_Enhances_Echocardiography_Downstream_Tasks.md)
 
 - ["I'm categorizing LLM as a productivity tool": Examining ethics of LLM use in HCI research practices](2024年03月28日/I'm_categorizing_LLM_as_a_productivity_tool_Examining_ethics_of_LLM_use_in_HCI_research_practices.md)
 
-    - [翻译: ](2024年03月28日/I'm_categorizing_LLM_as_a_productivity_tool_Examining_ethics_of_LLM_use_in_HCI_research_practices.md)
+    - [翻译: 将](2024年03月28日/I'm_categorizing_LLM_as_a_productivity_tool_Examining_ethics_of_LLM_use_in_HCI_research_practices.md)
 
 - [LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces](2024年03月28日/LLMSense_Harnessing_LLMs_for_High-level_Reasoning_Over_Spatiotemporal_Sensor_Traces.md)
 
-    - [翻译: ](2024年03月28日/LLMSense_Harnessing_LLMs_for_High-level_Reasoning_Over_Spatiotemporal_Sensor_Traces.md)
+    - [翻译: LLMSense: 运用大型语言模型实现对时空传感器数据的深度分析](2024年03月28日/LLMSense_Harnessing_LLMs_for_High-level_Reasoning_Over_Spatiotemporal_Sensor_Traces.md)
 
 - [Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving](2024年03月28日/Multi-Frame,_Lightweight_&_Efficient_Vision-Language_Models_for_Question_Answering_in_Autonomous_Driving.md)
 
-    - [翻译: ](2024年03月28日/Multi-Frame,_Lightweight_&_Efficient_Vision-Language_Models_for_Question_Answering_in_Autonomous_Driving.md)
+    - [翻译: 为自动驾驶中的问题解答，我们研发了多帧、轻巧高效的视语模型。](2024年03月28日/Multi-Frame,_Lightweight_&_Efficient_Vision-Language_Models_for_Question_Answering_in_Autonomous_Driving.md)
 
 - [Concept-based Analysis of Neural Networks via Vision-Language Models](2024年03月28日/Concept-based_Analysis_of_Neural_Networks_via_Vision-Language_Models.md)
 
-    - [翻译: ](2024年03月28日/Concept-based_Analysis_of_Neural_Networks_via_Vision-Language_Models.md)
+    - [翻译: 借助视觉-语言模型，我们对神经网络进行基于概念的深入分析。](2024年03月28日/Concept-based_Analysis_of_Neural_Networks_via_Vision-Language_Models.md)
 
 - [Target Span Detection for Implicit Harmful Content](2024年03月28日/Target_Span_Detection_for_Implicit_Harmful_Content.md)
 
-    - [翻译: ](2024年03月28日/Target_Span_Detection_for_Implicit_Harmful_Content.md)
+    - [翻译: 针对隐性有害内容的目标跨度识别](2024年03月28日/Target_Span_Detection_for_Implicit_Harmful_Content.md)
 
 - [ChatTracer: Large Language Model Powered Real-time Bluetooth Device Tracking System](2024年03月28日/ChatTracer_Large_Language_Model_Powered_Real-time_Bluetooth_Device_Tracking_System.md)
 
-    - [翻译: ](2024年03月28日/ChatTracer_Large_Language_Model_Powered_Real-time_Bluetooth_Device_Tracking_System.md)
+    - [翻译: ChatTracer：借助强大语言模型实现的实时蓝牙设备追踪系统](2024年03月28日/ChatTracer_Large_Language_Model_Powered_Real-time_Bluetooth_Device_Tracking_System.md)
 
 - [X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization](2024年03月28日/X-MIC_Cross-Modal_Instance_Conditioning_for_Egocentric_Action_Generalization.md)
 
-    - [翻译: ](2024年03月28日/X-MIC_Cross-Modal_Instance_Conditioning_for_Egocentric_Action_Generalization.md)
+    - [翻译: X-MIC：跨模态实例调控以实现自我中心动作的泛化推广](2024年03月28日/X-MIC_Cross-Modal_Instance_Conditioning_for_Egocentric_Action_Generalization.md)
 
 - [Developing Healthcare Language Model Embedding Spaces](2024年03月28日/Developing_Healthcare_Language_Model_Embedding_Spaces.md)
 
