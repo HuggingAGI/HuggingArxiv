@@ -74,6 +74,58 @@
 
     - [翻译: 绘图理解：通过视觉提示，让混合多模态大型语言模型（MLLMs）明白你的意图。](2024年03月29日/Draw-and-Understand_Leveraging_Visual_Prompts_to_Enable_MLLMs_to_Comprehend_What_You_Want.md)
 
+- [Are We on the Right Way for Evaluating Large Vision-Language Models?](2024年03月29日/Are_We_on_the_Right_Way_for_Evaluating_Large_Vision-Language_Models.md)
+
+    - [翻译: 我们评估大型视觉-语言模型的方向是否正确？](2024年03月29日/Are_We_on_the_Right_Way_for_Evaluating_Large_Vision-Language_Models.md)
+
+- [ReALM: Reference Resolution As Language Modeling](2024年03月29日/ReALM_Reference_Resolution_As_Language_Modeling.md)
+
+    - [翻译: ReALM：把参考解析视作语言建模的一部分](2024年03月29日/ReALM_Reference_Resolution_As_Language_Modeling.md)
+
+- [Gecko: Versatile Text Embeddings Distilled from Large Language Models](2024年03月29日/Gecko_Versatile_Text_Embeddings_Distilled_from_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月29日/Gecko_Versatile_Text_Embeddings_Distilled_from_Large_Language_Models.md)
+
+- [Convolutional Prompting meets Language Models for Continual Learning](2024年03月29日/Convolutional_Prompting_meets_Language_Models_for_Continual_Learning.md)
+
+    - [翻译: ](2024年03月29日/Convolutional_Prompting_meets_Language_Models_for_Continual_Learning.md)
+
+- [Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations](2024年03月29日/Learn_No_to_Say_Yes_Better_Improving_Vision-Language_Models_via_Negations.md)
+
+    - [翻译: ](2024年03月29日/Learn_No_to_Say_Yes_Better_Improving_Vision-Language_Models_via_Negations.md)
+
+- [Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference](2024年03月29日/Towards_Greener_LLMs_Bringing_Energy-Efficiency_to_the_Forefront_of_LLM_Inference.md)
+
+    - [翻译: ](2024年03月29日/Towards_Greener_LLMs_Bringing_Energy-Efficiency_to_the_Forefront_of_LLM_Inference.md)
+
+- [Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain](2024年03月29日/Can_LLMs_Correct_Physicians,_Yet_Investigating_Effective_Interaction_Methods_in_the_Medical_Domain.md)
+
+    - [翻译: ](2024年03月29日/Can_LLMs_Correct_Physicians,_Yet_Investigating_Effective_Interaction_Methods_in_the_Medical_Domain.md)
+
+- [LayerNorm: A key component in parameter-efficient fine-tuning](2024年03月29日/LayerNorm_A_key_component_in_parameter-efficient_fine-tuning.md)
+
+    - [翻译: ](2024年03月29日/LayerNorm_A_key_component_in_parameter-efficient_fine-tuning.md)
+
+- [LUQ: Long-text Uncertainty Quantification for LLMs](2024年03月29日/LUQ_Long-text_Uncertainty_Quantification_for_LLMs.md)
+
+    - [翻译: ](2024年03月29日/LUQ_Long-text_Uncertainty_Quantification_for_LLMs.md)
+
+- [Latxa: An Open Language Model and Evaluation Suite for Basque](2024年03月29日/Latxa_An_Open_Language_Model_and_Evaluation_Suite_for_Basque.md)
+
+    - [翻译: ](2024年03月29日/Latxa_An_Open_Language_Model_and_Evaluation_Suite_for_Basque.md)
+
+- [ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models](2024年03月29日/ELITR-Bench_A_Meeting_Assistant_Benchmark_for_Long-Context_Language_Models.md)
+
+    - [翻译: ](2024年03月29日/ELITR-Bench_A_Meeting_Assistant_Benchmark_for_Long-Context_Language_Models.md)
+
+- [Using LLMs to Model the Beliefs and Preferences of Targeted Populations](2024年03月29日/Using_LLMs_to_Model_the_Beliefs_and_Preferences_of_Targeted_Populations.md)
+
+    - [翻译: ](2024年03月29日/Using_LLMs_to_Model_the_Beliefs_and_Preferences_of_Targeted_Populations.md)
+
+- [H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](2024年03月29日/H2RSVLM_Towards_Helpful_and_Honest_Remote_Sensing_Large_Vision_Language_Model.md)
+
+    - [翻译: ](2024年03月29日/H2RSVLM_Towards_Helpful_and_Honest_Remote_Sensing_Large_Vision_Language_Model.md)
+
 2024年03月28日
 
 - [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](2024年03月28日/InterDreamer_Zero-Shot_Text_to_3D_Dynamic_Human-Object_Interaction.md)
@@ -218,7 +270,7 @@
 
 - [Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
 
-    - [翻译: 通过精细调优和多路径推理，提升低参数大型语言模型的泛化能力。](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
+    - [翻译: ](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
 
 - [Are LLMs Effective Backbones for Fine-tuning? An Experimental Investigation of Supervised LLMs on Chinese Short Text Matching](2024年03月28日/Are_LLMs_Effective_Backbones_for_Fine-tuning_An_Experimental_Investigation_of_Supervised_LLMs_on_Chinese_Short_Text_Matching.md)
 
