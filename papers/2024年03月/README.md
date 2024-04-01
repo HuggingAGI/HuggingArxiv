@@ -1,5 +1,79 @@
 # 2024年03月
 
+2024年03月29日
+
+- [Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science](2024年03月29日/Unleashing_the_Potential_of_Large_Language_Models_for_Predictive_Tabular_Tasks_in_Data_Science.md)
+
+    - [翻译: 挖掘大型语言模型在数据科学预测表格任务中的潜在力量。](2024年03月29日/Unleashing_the_Potential_of_Large_Language_Models_for_Predictive_Tabular_Tasks_in_Data_Science.md)
+
+- [The Future of Combating Rumors? Retrieval, Discrimination, and Generation](2024年03月29日/The_Future_of_Combating_Rumors_Retrieval,_Discrimination,_and_Generation.md)
+
+    - [翻译: 未来如何对抗谣言？通过检索、辨识和生成技术来实现。](2024年03月29日/The_Future_of_Combating_Rumors_Retrieval,_Discrimination,_and_Generation.md)
+
+- [ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models](2024年03月29日/ConvBench_A_Multi-Turn_Conversation_Evaluation_Benchmark_with_Hierarchical_Capability_for_Large_Vision-Language_Models.md)
+
+    - [翻译: ConvBench：为大型视觉-语言模型设计的多轮对话评估基准，具备层级分析能力。](2024年03月29日/ConvBench_A_Multi-Turn_Conversation_Evaluation_Benchmark_with_Hierarchical_Capability_for_Large_Vision-Language_Models.md)
+
+- [Measuring Taiwanese Mandarin Language Understanding](2024年03月29日/Measuring_Taiwanese_Mandarin_Language_Understanding.md)
+
+    - [翻译: 探究台湾普通话的语言理解能力](2024年03月29日/Measuring_Taiwanese_Mandarin_Language_Understanding.md)
+
+- [ChatGPT v.s. Media Bias: A Comparative Study of GPT-3.5 and Fine-tuned Language Models](2024年03月29日/ChatGPT_v.s._Media_Bias_A_Comparative_Study_of_GPT-3.5_and_Fine-tuned_Language_Models.md)
+
+    - [翻译: ChatGPT 抗衡媒体偏见：探究 GPT-3.5 与精细调校语言模型的差异](2024年03月29日/ChatGPT_v.s._Media_Bias_A_Comparative_Study_of_GPT-3.5_and_Fine-tuned_Language_Models.md)
+
+- [IndiBias: A Benchmark Dataset to Measure Social Biases in Language Models for Indian Context](2024年03月29日/IndiBias_A_Benchmark_Dataset_to_Measure_Social_Biases_in_Language_Models_for_Indian_Context.md)
+
+    - [翻译: IndiBias：衡量印度语言模型社会偏见的基准数据集](2024年03月29日/IndiBias_A_Benchmark_Dataset_to_Measure_Social_Biases_in_Language_Models_for_Indian_Context.md)
+
+- [Fine-tuning Large Language Models for Automated Diagnostic Screening Summaries](2024年03月29日/Fine-tuning_Large_Language_Models_for_Automated_Diagnostic_Screening_Summaries.md)
+
+    - [翻译: 在自动生成诊断摘要方面，通过微调大型语言模型以提升其性能。](2024年03月29日/Fine-tuning_Large_Language_Models_for_Automated_Diagnostic_Screening_Summaries.md)
+
+- [User Modeling Challenges in Interactive AI Assistant Systems](2024年03月29日/User_Modeling_Challenges_in_Interactive_AI_Assistant_Systems.md)
+
+    - [翻译: 在互动AI助手系统中，用户建模面临着诸多挑战。](2024年03月29日/User_Modeling_Challenges_in_Interactive_AI_Assistant_Systems.md)
+
+- [The Impact of Prompts on Zero-Shot Detection of AI-Generated Text](2024年03月29日/The_Impact_of_Prompts_on_Zero-Shot_Detection_of_AI-Generated_Text.md)
+
+    - [翻译: 在零-shot检测AI生成文本的过程中，提示的作用不容忽视。本文将探讨不同提示对检测效果的具体影响，以及如何优化提示以提高检测准确性。](2024年03月29日/The_Impact_of_Prompts_on_Zero-Shot_Detection_of_AI-Generated_Text.md)
+
+- [ITCMA: A Generative Agent Based on a Computational Consciousness Structure](2024年03月29日/ITCMA_A_Generative_Agent_Based_on_a_Computational_Consciousness_Structure.md)
+
+    - [翻译: ITCMA：一种构建于计算意识框架之上的生成性智能体](2024年03月29日/ITCMA_A_Generative_Agent_Based_on_a_Computational_Consciousness_Structure.md)
+
+- [An Efficient Approach for Studying Cross-Lingual Transfer in Multilingual Language Models](2024年03月29日/An_Efficient_Approach_for_Studying_Cross-Lingual_Transfer_in_Multilingual_Language_Models.md)
+
+    - [翻译: 本文提出了一种高效的途径，用于探究多语言模型中的跨语言传递效应。](2024年03月29日/An_Efficient_Approach_for_Studying_Cross-Lingual_Transfer_in_Multilingual_Language_Models.md)
+
+- [Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets](2024年03月29日/Cross-Lingual_Transfer_Robustness_to_Lower-Resource_Languages_on_Adversarial_Datasets.md)
+
+    - [翻译: 本研究探讨了在对抗性数据集中，跨语言迁移对于低资源语言的稳健性问题。](2024年03月29日/Cross-Lingual_Transfer_Robustness_to_Lower-Resource_Languages_on_Adversarial_Datasets.md)
+
+- [Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs](2024年03月29日/Transformer-Lite_High-efficiency_Deployment_of_Large_Language_Models_on_Mobile_Phone_GPUs.md)
+
+    - [翻译: 轻量级变换器：将大型语言模型高效部署至手机GPU](2024年03月29日/Transformer-Lite_High-efficiency_Deployment_of_Large_Language_Models_on_Mobile_Phone_GPUs.md)
+
+- [PURPLE: Making a Large Language Model a Better SQL Writer](2024年03月29日/PURPLE_Making_a_Large_Language_Model_a_Better_SQL_Writer.md)
+
+    - [翻译: PURPLE：打造更优秀的SQL编程的大型语言模型](2024年03月29日/PURPLE_Making_a_Large_Language_Model_a_Better_SQL_Writer.md)
+
+- [On Large Language Models' Hallucination with Regard to Known Facts](2024年03月29日/On_Large_Language_Models'_Hallucination_with_Regard_to_Known_Facts.md)
+
+    - [翻译: 大型语言模型在处理已知事实时的幻想现象](2024年03月29日/On_Large_Language_Models'_Hallucination_with_Regard_to_Known_Facts.md)
+
+- [Large Language Model based Situational Dialogues for Second Language Learning](2024年03月29日/Large_Language_Model_based_Situational_Dialogues_for_Second_Language_Learning.md)
+
+    - [翻译: 借助大型语言模型，我们能够创建情景对话，以助力第二语言的学习。](2024年03月29日/Large_Language_Model_based_Situational_Dialogues_for_Second_Language_Learning.md)
+
+- [3D-Speaker-Toolkit: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization](2024年03月29日/3D-Speaker-Toolkit_An_Open_Source_Toolkit_for_Multi-modal_Speaker_Verification_and_Diarization.md)
+
+    - [翻译: 3D-Speaker-Toolkit：一款开源的多模态说话人识别与分离工具集。](2024年03月29日/3D-Speaker-Toolkit_An_Open_Source_Toolkit_for_Multi-modal_Speaker_Verification_and_Diarization.md)
+
+- [Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want](2024年03月29日/Draw-and-Understand_Leveraging_Visual_Prompts_to_Enable_MLLMs_to_Comprehend_What_You_Want.md)
+
+    - [翻译: 绘图理解：通过视觉提示，让混合多模态大型语言模型（MLLMs）明白你的意图。](2024年03月29日/Draw-and-Understand_Leveraging_Visual_Prompts_to_Enable_MLLMs_to_Comprehend_What_You_Want.md)
+
 2024年03月28日
 
 - [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](2024年03月28日/InterDreamer_Zero-Shot_Text_to_3D_Dynamic_Human-Object_Interaction.md)
@@ -141,6 +215,94 @@
 - [Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation](2024年03月28日/Img2Loc_Revisiting_Image_Geolocalization_using_Multi-modality_Foundation_Models_and_Image-based_Retrieval-Augmented_Generation.md)
 
     - [翻译: Img2Loc: 利用多模态基础模型与图像检索增强生成技术，再次探讨图像的地理定位问题。](2024年03月28日/Img2Loc_Revisiting_Image_Geolocalization_using_Multi-modality_Foundation_Models_and_Image-based_Retrieval-Augmented_Generation.md)
+
+- [Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
+
+    - [翻译: 通过精细调优和多路径推理，提升低参数大型语言模型的泛化能力。](2024年03月28日/Enhancing_the_General_Agent_Capabilities_of_Low-Parameter_LLMs_through_Tuning_and_Multi-Branch_Reasoning.md)
+
+- [Are LLMs Effective Backbones for Fine-tuning? An Experimental Investigation of Supervised LLMs on Chinese Short Text Matching](2024年03月28日/Are_LLMs_Effective_Backbones_for_Fine-tuning_An_Experimental_Investigation_of_Supervised_LLMs_on_Chinese_Short_Text_Matching.md)
+
+    - [翻译: ](2024年03月28日/Are_LLMs_Effective_Backbones_for_Fine-tuning_An_Experimental_Investigation_of_Supervised_LLMs_on_Chinese_Short_Text_Matching.md)
+
+- [DiJiang: Efficient Large Language Models through Compact Kernelization](2024年03月28日/DiJiang_Efficient_Large_Language_Models_through_Compact_Kernelization.md)
+
+    - [翻译: ](2024年03月28日/DiJiang_Efficient_Large_Language_Models_through_Compact_Kernelization.md)
+
+- [MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large Language Models](2024年03月28日/MANGO_A_Benchmark_for_Evaluating_Mapping_and_Navigation_Abilities_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月28日/MANGO_A_Benchmark_for_Evaluating_Mapping_and_Navigation_Abilities_of_Large_Language_Models.md)
+
+- [Towards a Robust Retrieval-Based Summarization System](2024年03月28日/Towards_a_Robust_Retrieval-Based_Summarization_System.md)
+
+    - [翻译: ](2024年03月28日/Towards_a_Robust_Retrieval-Based_Summarization_System.md)
+
+- [Jamba: A Hybrid Transformer-Mamba Language Model](2024年03月28日/Jamba_A_Hybrid_Transformer-Mamba_Language_Model.md)
+
+    - [翻译: ](2024年03月28日/Jamba_A_Hybrid_Transformer-Mamba_Language_Model.md)
+
+- [Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks](2024年03月28日/Vision-Language_Synthetic_Data_Enhances_Echocardiography_Downstream_Tasks.md)
+
+    - [翻译: ](2024年03月28日/Vision-Language_Synthetic_Data_Enhances_Echocardiography_Downstream_Tasks.md)
+
+- ["I'm categorizing LLM as a productivity tool": Examining ethics of LLM use in HCI research practices](2024年03月28日/I'm_categorizing_LLM_as_a_productivity_tool_Examining_ethics_of_LLM_use_in_HCI_research_practices.md)
+
+    - [翻译: ](2024年03月28日/I'm_categorizing_LLM_as_a_productivity_tool_Examining_ethics_of_LLM_use_in_HCI_research_practices.md)
+
+- [LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces](2024年03月28日/LLMSense_Harnessing_LLMs_for_High-level_Reasoning_Over_Spatiotemporal_Sensor_Traces.md)
+
+    - [翻译: ](2024年03月28日/LLMSense_Harnessing_LLMs_for_High-level_Reasoning_Over_Spatiotemporal_Sensor_Traces.md)
+
+- [Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving](2024年03月28日/Multi-Frame,_Lightweight_&_Efficient_Vision-Language_Models_for_Question_Answering_in_Autonomous_Driving.md)
+
+    - [翻译: ](2024年03月28日/Multi-Frame,_Lightweight_&_Efficient_Vision-Language_Models_for_Question_Answering_in_Autonomous_Driving.md)
+
+- [Concept-based Analysis of Neural Networks via Vision-Language Models](2024年03月28日/Concept-based_Analysis_of_Neural_Networks_via_Vision-Language_Models.md)
+
+    - [翻译: ](2024年03月28日/Concept-based_Analysis_of_Neural_Networks_via_Vision-Language_Models.md)
+
+- [Target Span Detection for Implicit Harmful Content](2024年03月28日/Target_Span_Detection_for_Implicit_Harmful_Content.md)
+
+    - [翻译: ](2024年03月28日/Target_Span_Detection_for_Implicit_Harmful_Content.md)
+
+- [ChatTracer: Large Language Model Powered Real-time Bluetooth Device Tracking System](2024年03月28日/ChatTracer_Large_Language_Model_Powered_Real-time_Bluetooth_Device_Tracking_System.md)
+
+    - [翻译: ](2024年03月28日/ChatTracer_Large_Language_Model_Powered_Real-time_Bluetooth_Device_Tracking_System.md)
+
+- [X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization](2024年03月28日/X-MIC_Cross-Modal_Instance_Conditioning_for_Egocentric_Action_Generalization.md)
+
+    - [翻译: ](2024年03月28日/X-MIC_Cross-Modal_Instance_Conditioning_for_Egocentric_Action_Generalization.md)
+
+- [Developing Healthcare Language Model Embedding Spaces](2024年03月28日/Developing_Healthcare_Language_Model_Embedding_Spaces.md)
+
+    - [翻译: ](2024年03月28日/Developing_Healthcare_Language_Model_Embedding_Spaces.md)
+
+- [Bespoke Large Language Models for Digital Triage Assistance in Mental Health Care](2024年03月28日/Bespoke_Large_Language_Models_for_Digital_Triage_Assistance_in_Mental_Health_Care.md)
+
+    - [翻译: ](2024年03月28日/Bespoke_Large_Language_Models_for_Digital_Triage_Assistance_in_Mental_Health_Care.md)
+
+- [AlloyBERT: Alloy Property Prediction with Large Language Models](2024年03月28日/AlloyBERT_Alloy_Property_Prediction_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月28日/AlloyBERT_Alloy_Property_Prediction_with_Large_Language_Models.md)
+
+- [IDP-Bert: Predicting Properties of Intrinsically Disordered Proteins (IDP) Using Large Language Models](2024年03月28日/IDP-Bert_Predicting_Properties_of_Intrinsically_Disordered_Proteins_(IDP)_Using_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月28日/IDP-Bert_Predicting_Properties_of_Intrinsically_Disordered_Proteins_(IDP)_Using_Large_Language_Models.md)
+
+- [Enhancing Anomaly Detection in Financial Markets with an LLM-based Multi-Agent Framework](2024年03月28日/Enhancing_Anomaly_Detection_in_Financial_Markets_with_an_LLM-based_Multi-Agent_Framework.md)
+
+    - [翻译: ](2024年03月28日/Enhancing_Anomaly_Detection_in_Financial_Markets_with_an_LLM-based_Multi-Agent_Framework.md)
+
+- [A Benchmark Evaluation of Clinical Named Entity Recognition in French](2024年03月28日/A_Benchmark_Evaluation_of_Clinical_Named_Entity_Recognition_in_French.md)
+
+    - [翻译: ](2024年03月28日/A_Benchmark_Evaluation_of_Clinical_Named_Entity_Recognition_in_French.md)
+
+- [MUGC: Machine Generated versus User Generated Content Detection](2024年03月28日/MUGC_Machine_Generated_versus_User_Generated_Content_Detection.md)
+
+    - [翻译: ](2024年03月28日/MUGC_Machine_Generated_versus_User_Generated_Content_Detection.md)
+
+- [FairRAG: Fair Human Generation via Fair Retrieval Augmentation](2024年03月28日/FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation.md)
+
+    - [翻译: ](2024年03月28日/FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation.md)
 
 2024年03月27日
 
@@ -371,6 +533,10 @@
 - [CPR: Retrieval Augmented Generation for Copyright Protection](2024年03月27日/CPR_Retrieval_Augmented_Generation_for_Copyright_Protection.md)
 
     - [翻译: CPR：结合检索技术的生成模型，助力版权保护](2024年03月27日/CPR_Retrieval_Augmented_Generation_for_Copyright_Protection.md)
+
+- [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](2024年03月27日/HGT_Leveraging_Heterogeneous_Graph-enhanced_Large_Language_Models_for_Few-shot_Complex_Table_Understanding.md)
+
+    - [翻译: ](2024年03月27日/HGT_Leveraging_Heterogeneous_Graph-enhanced_Large_Language_Models_for_Few-shot_Complex_Table_Understanding.md)
 
 2024年03月26日
 
@@ -840,6 +1006,10 @@
 
     - [翻译: RepairAgent：一款利用大型语言模型技术的自动程序修复智能代理。](2024年03月25日/RepairAgent_An_Autonomous,_LLM-Based_Agent_for_Program_Repair.md)
 
+- [Hierarchical Recurrent Adapters for Efficient Multi-Task Adaptation of Large Speech Models](2024年03月25日/Hierarchical_Recurrent_Adapters_for_Efficient_Multi-Task_Adaptation_of_Large_Speech_Models.md)
+
+    - [翻译: ](2024年03月25日/Hierarchical_Recurrent_Adapters_for_Efficient_Multi-Task_Adaptation_of_Large_Speech_Models.md)
+
 2024年03月24日
 
 - [Can Language Models Pretend Solvers? Logic Code Simulation with LLMs](2024年03月24日/Can_Language_Models_Pretend_Solvers_Logic_Code_Simulation_with_LLMs.md)
@@ -1047,6 +1217,10 @@
 - [EDDA: A Encoder-Decoder Data Augmentation Framework for Zero-Shot Stance Detection](2024年03月23日/EDDA_A_Encoder-Decoder_Data_Augmentation_Framework_for_Zero-Shot_Stance_Detection.md)
 
     - [翻译: EDDA 是一个专为零样本立场检测设计的编码器-解码器数据增强方案。它通过创新的数据增强策略，致力于提升模型在未见过的立场检测任务上的性能表现。](2024年03月23日/EDDA_A_Encoder-Decoder_Data_Augmentation_Framework_for_Zero-Shot_Stance_Detection.md)
+
+- [AttentionStore: Cost-effective Attention Reuse across Multi-turn Conversations in Large Language Model Serving](2024年03月23日/AttentionStore_Cost-effective_Attention_Reuse_across_Multi-turn_Conversations_in_Large_Language_Model_Serving.md)
+
+    - [翻译: ](2024年03月23日/AttentionStore_Cost-effective_Attention_Reuse_across_Multi-turn_Conversations_in_Large_Language_Model_Serving.md)
 
 2024年03月22日
 
