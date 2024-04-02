@@ -128,7 +128,7 @@
 
 - [M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models](2024年03月31日/M3D_Advancing_3D_Medical_Image_Analysis_with_Multi-Modal_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月31日/M3D_Advancing_3D_Medical_Image_Analysis_with_Multi-Modal_Large_Language_Models.md)
+    - [翻译: M3D：借助多模态大型语言模型，推动三维医学图像分析技术向前发展。](2024年03月31日/M3D_Advancing_3D_Medical_Image_Analysis_with_Multi-Modal_Large_Language_Models.md)
 
 2024年03月30日
 
@@ -384,31 +384,31 @@
 
 - [EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs](2024年03月29日/EventGround_Narrative_Reasoning_by_Grounding_to_Eventuality-centric_Knowledge_Graphs.md)
 
-    - [翻译: ](2024年03月29日/EventGround_Narrative_Reasoning_by_Grounding_to_Eventuality-centric_Knowledge_Graphs.md)
+    - [翻译: EventGround：通过关联事件中心化知识图谱进行叙事逻辑推理](2024年03月29日/EventGround_Narrative_Reasoning_by_Grounding_to_Eventuality-centric_Knowledge_Graphs.md)
 
 - [Conceptual and Unbiased Reasoning in Language Models](2024年03月29日/Conceptual_and_Unbiased_Reasoning_in_Language_Models.md)
 
-    - [翻译: ](2024年03月29日/Conceptual_and_Unbiased_Reasoning_in_Language_Models.md)
+    - [翻译: 在语言模型中，我们追求概念性的理解和无偏见的推理能力。](2024年03月29日/Conceptual_and_Unbiased_Reasoning_in_Language_Models.md)
 
 - [GPTA: Generative Prompt Tuning Assistant for Synergistic Downstream Neural Network Enhancement with LLMs](2024年03月29日/GPTA_Generative_Prompt_Tuning_Assistant_for_Synergistic_Downstream_Neural_Network_Enhancement_with_LLMs.md)
 
-    - [翻译: ](2024年03月29日/GPTA_Generative_Prompt_Tuning_Assistant_for_Synergistic_Downstream_Neural_Network_Enhancement_with_LLMs.md)
+    - [翻译: GPTA：携手大型语言模型，助力下游神经网络的生成式提示调优助手。](2024年03月29日/GPTA_Generative_Prompt_Tuning_Assistant_for_Synergistic_Downstream_Neural_Network_Enhancement_with_LLMs.md)
 
 - [DataAgent: Evaluating Large Language Models' Ability to Answer Zero-Shot, Natural Language Queries](2024年03月29日/DataAgent_Evaluating_Large_Language_Models'_Ability_to_Answer_Zero-Shot,_Natural_Language_Queries.md)
 
-    - [翻译: ](2024年03月29日/DataAgent_Evaluating_Large_Language_Models'_Ability_to_Answer_Zero-Shot,_Natural_Language_Queries.md)
+    - [翻译: DataAgent：探究大型语言模型回应自然语言零-shot查询的效能](2024年03月29日/DataAgent_Evaluating_Large_Language_Models'_Ability_to_Answer_Zero-Shot,_Natural_Language_Queries.md)
 
 - [The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks](2024年03月29日/The_LSCD_Benchmark_a_Testbed_for_Diachronic_Word_Meaning_Tasks.md)
 
-    - [翻译: ](2024年03月29日/The_LSCD_Benchmark_a_Testbed_for_Diachronic_Word_Meaning_Tasks.md)
+    - [翻译: LSCD 基准：探究词义演变的理想试验场](2024年03月29日/The_LSCD_Benchmark_a_Testbed_for_Diachronic_Word_Meaning_Tasks.md)
 
 - [Uncovering Bias in Large Vision-Language Models with Counterfactuals](2024年03月29日/Uncovering_Bias_in_Large_Vision-Language_Models_with_Counterfactuals.md)
 
-    - [翻译: ](2024年03月29日/Uncovering_Bias_in_Large_Vision-Language_Models_with_Counterfactuals.md)
+    - [翻译: 本文通过构建反事实场景，揭示了大型视觉-语言模型中潜藏的偏见问题，旨在推动对这些模型公平性和透明度的深入理解。](2024年03月29日/Uncovering_Bias_in_Large_Vision-Language_Models_with_Counterfactuals.md)
 
 - [Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections](2024年03月29日/Classifying_Conspiratorial_Narratives_At_Scale_False_Alarms_and_Erroneous_Connections.md)
 
-    - [翻译: ](2024年03月29日/Classifying_Conspiratorial_Narratives_At_Scale_False_Alarms_and_Erroneous_Connections.md)
+    - [翻译: 大规模识别阴谋论叙事：避免误报与错误的关联](2024年03月29日/Classifying_Conspiratorial_Narratives_At_Scale_False_Alarms_and_Erroneous_Connections.md)
 
 2024年03月28日
 
@@ -1070,7 +1070,7 @@
 
 - [PerOS: Personalized Self-Adapting Operating Systems in the Cloud](2024年03月26日/PerOS_Personalized_Self-Adapting_Operating_Systems_in_the_Cloud.md)
 
-    - [翻译: ](2024年03月26日/PerOS_Personalized_Self-Adapting_Operating_Systems_in_the_Cloud.md)
+    - [翻译: PerOS 研究了云计算环境中的个性化操作系统，这些操作系统能够根据用户需求和行为模式自我调整和优化。](2024年03月26日/PerOS_Personalized_Self-Adapting_Operating_Systems_in_the_Cloud.md)
 
 2024年03月25日
 
@@ -2266,7 +2266,7 @@
 
 - [LLMs as Writing Assistants: Exploring Perspectives on Sense of Ownership and Reasoning](2024年03月20日/LLMs_as_Writing_Assistants_Exploring_Perspectives_on_Sense_of_Ownership_and_Reasoning.md)
 
-    - [翻译: ](2024年03月20日/LLMs_as_Writing_Assistants_Exploring_Perspectives_on_Sense_of_Ownership_and_Reasoning.md)
+    - [翻译: 大型语言模型（LLM）充当写作助手时，我们深入探讨了人们对作品所有权和逻辑推理的看法。](2024年03月20日/LLMs_as_Writing_Assistants_Exploring_Perspectives_on_Sense_of_Ownership_and_Reasoning.md)
 
 2024年03月19日
 
@@ -2496,7 +2496,7 @@
 
 - [Can AI Outperform Human Experts in Creating Social Media Creatives?](2024年03月19日/Can_AI_Outperform_Human_Experts_in_Creating_Social_Media_Creatives.md)
 
-    - [翻译: ](2024年03月19日/Can_AI_Outperform_Human_Experts_in_Creating_Social_Media_Creatives.md)
+    - [翻译: AI是否能够在制作社交媒体创意方面超越人类专家呢？](2024年03月19日/Can_AI_Outperform_Human_Experts_in_Creating_Social_Media_Creatives.md)
 
 2024年03月18日
 
