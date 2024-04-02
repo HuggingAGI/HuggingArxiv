@@ -116,15 +116,15 @@
 
 - [AI Act and Large Language Models (LLMs): When critical issues and privacy impact require human and ethical oversight](2024年03月31日/AI_Act_and_Large_Language_Models_(LLMs)_When_critical_issues_and_privacy_impact_require_human_and_ethical_oversight.md)
 
-    - [翻译: ](2024年03月31日/AI_Act_and_Large_Language_Models_(LLMs)_When_critical_issues_and_privacy_impact_require_human_and_ethical_oversight.md)
+    - [翻译: 面对关键问题和隐私风险，人工智能法案和大型语言模型需纳入人性与伦理审视。](2024年03月31日/AI_Act_and_Large_Language_Models_(LLMs)_When_critical_issues_and_privacy_impact_require_human_and_ethical_oversight.md)
 
 - [EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories](2024年03月31日/EvoCodeBench_An_Evolving_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
 
-    - [翻译: ](2024年03月31日/EvoCodeBench_An_Evolving_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
+    - [翻译: EvoCodeBench：一款与时俱进、与真实代码库同步的代码生成基准测试工具。](2024年03月31日/EvoCodeBench_An_Evolving_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
 
 - [Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing](2024年03月31日/Harnessing_the_Power_of_Large_Language_Model_for_Uncertainty_Aware_Graph_Processing.md)
 
-    - [翻译: ](2024年03月31日/Harnessing_the_Power_of_Large_Language_Model_for_Uncertainty_Aware_Graph_Processing.md)
+    - [翻译: 借助大型语言模型的能力，实现对图处理中不确定性的感知与应对。](2024年03月31日/Harnessing_the_Power_of_Large_Language_Model_for_Uncertainty_Aware_Graph_Processing.md)
 
 - [M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models](2024年03月31日/M3D_Advancing_3D_Medical_Image_Analysis_with_Multi-Modal_Large_Language_Models.md)
 
