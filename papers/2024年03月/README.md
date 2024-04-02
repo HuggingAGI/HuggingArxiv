@@ -1,10 +1,200 @@
 # 2024年03月
 
+2024年03月31日
+
+- [Observations on Building RAG Systems for Technical Documents](2024年03月31日/Observations_on_Building_RAG_Systems_for_Technical_Documents.md)
+
+    - [翻译: 构建技术文档的 RAG 系统：观察与洞见](2024年03月31日/Observations_on_Building_RAG_Systems_for_Technical_Documents.md)
+
+- [RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation](2024年03月31日/RQ-RAG_Learning_to_Refine_Queries_for_Retrieval_Augmented_Generation.md)
+
+    - [翻译: RQ-RAG：探究如何精炼查询以提升检索辅助生成的效果](2024年03月31日/RQ-RAG_Learning_to_Refine_Queries_for_Retrieval_Augmented_Generation.md)
+
+- [Algorithmic Collusion by Large Language Models](2024年03月31日/Algorithmic_Collusion_by_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型的算法共谋问题](2024年03月31日/Algorithmic_Collusion_by_Large_Language_Models.md)
+
+- [An Abundance of Katherines: The Game Theory of Baby Naming](2024年03月31日/An_Abundance_of_Katherines_The_Game_Theory_of_Baby_Naming.md)
+
+    - [翻译: 《宝宝命名大作战：游戏理论视角下的凯瑟琳现象》](2024年03月31日/An_Abundance_of_Katherines_The_Game_Theory_of_Baby_Naming.md)
+
+- ["My agent understands me better": Integrating Dynamic Human-like Memory Recall and Consolidation in LLM-Based Agents](2024年03月31日/My_agent_understands_me_better_Integrating_Dynamic_Human-like_Memory_Recall_and_Consolidation_in_LLM-Based_Agents.md)
+
+    - [翻译: "我的代理更懂我了"：将动态仿人类记忆的回顾与巩固功能融入大型语言模型驱动的智能代理中。](2024年03月31日/My_agent_understands_me_better_Integrating_Dynamic_Human-like_Memory_Recall_and_Consolidation_in_LLM-Based_Agents.md)
+
+- [WavLLM: Towards Robust and Adaptive Speech Large Language Model](2024年03月31日/WavLLM_Towards_Robust_and_Adaptive_Speech_Large_Language_Model.md)
+
+    - [翻译: WavLLM：探索构建强大且能自动调整的语音语言模型](2024年03月31日/WavLLM_Towards_Robust_and_Adaptive_Speech_Large_Language_Model.md)
+
+- [A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)](2024年03月31日/A_Review_of_Modern_Recommender_Systems_Using_Generative_Models_(Gen-RecSys).md)
+
+    - [翻译: 现代推荐系统通过运用生成模型 (Gen-RecSys) 已经取得了显著进展。本文将对这些系统进行深入评述，探讨它们如何通过创新的方式提升个性化推荐的准确性和用户体验。](2024年03月31日/A_Review_of_Modern_Recommender_Systems_Using_Generative_Models_(Gen-RecSys).md)
+
+- [Towards Practical Requirement Analysis and Verification: A Case Study on Software IP Components in Aerospace Embedded Systems](2024年03月31日/Towards_Practical_Requirement_Analysis_and_Verification_A_Case_Study_on_Software_IP_Components_in_Aerospace_Embedded_Systems.md)
+
+    - [翻译: ](2024年03月31日/Towards_Practical_Requirement_Analysis_and_Verification_A_Case_Study_on_Software_IP_Components_in_Aerospace_Embedded_Systems.md)
+
+- [Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification](2024年03月31日/Enchanting_Program_Specification_Synthesis_by_Large_Language_Models_using_Static_Analysis_and_Program_Verification.md)
+
+    - [翻译: ](2024年03月31日/Enchanting_Program_Specification_Synthesis_by_Large_Language_Models_using_Static_Analysis_and_Program_Verification.md)
+
+- [Recover: A Neuro-Symbolic Framework for Failure Detection and Recovery](2024年03月31日/Recover_A_Neuro-Symbolic_Framework_for_Failure_Detection_and_Recovery.md)
+
+    - [翻译: ](2024年03月31日/Recover_A_Neuro-Symbolic_Framework_for_Failure_Detection_and_Recovery.md)
+
+- [Can Language Models Recognize Convincing Arguments?](2024年03月31日/Can_Language_Models_Recognize_Convincing_Arguments.md)
+
+    - [翻译: ](2024年03月31日/Can_Language_Models_Recognize_Convincing_Arguments.md)
+
+- [The Larger the Better? Improved LLM Code-Generation via Budget Reallocation](2024年03月31日/The_Larger_the_Better_Improved_LLM_Code-Generation_via_Budget_Reallocation.md)
+
+    - [翻译: ](2024年03月31日/The_Larger_the_Better_Improved_LLM_Code-Generation_via_Budget_Reallocation.md)
+
+- [Tired of Plugins? Large Language Models Can Be End-To-End Recommenders](2024年03月31日/Tired_of_Plugins_Large_Language_Models_Can_Be_End-To-End_Recommenders.md)
+
+    - [翻译: ](2024年03月31日/Tired_of_Plugins_Large_Language_Models_Can_Be_End-To-End_Recommenders.md)
+
+- [Training-Free Semantic Segmentation via LLM-Supervision](2024年03月31日/Training-Free_Semantic_Segmentation_via_LLM-Supervision.md)
+
+    - [翻译: ](2024年03月31日/Training-Free_Semantic_Segmentation_via_LLM-Supervision.md)
+
+- [How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library](2024年03月31日/How_Much_are_LLMs_Contaminated_A_Comprehensive_Survey_and_the_LLMSanitize_Library.md)
+
+    - [翻译: ](2024年03月31日/How_Much_are_LLMs_Contaminated_A_Comprehensive_Survey_and_the_LLMSanitize_Library.md)
+
+- [Scaling Properties of Speech Language Models](2024年03月31日/Scaling_Properties_of_Speech_Language_Models.md)
+
+    - [翻译: ](2024年03月31日/Scaling_Properties_of_Speech_Language_Models.md)
+
+- [CoUDA: Coherence Evaluation via Unified Data Augmentation](2024年03月31日/CoUDA_Coherence_Evaluation_via_Unified_Data_Augmentation.md)
+
+    - [翻译: ](2024年03月31日/CoUDA_Coherence_Evaluation_via_Unified_Data_Augmentation.md)
+
+- [LLM meets Vision-Language Models for Zero-Shot One-Class Classification](2024年03月31日/LLM_meets_Vision-Language_Models_for_Zero-Shot_One-Class_Classification.md)
+
+    - [翻译: ](2024年03月31日/LLM_meets_Vision-Language_Models_for_Zero-Shot_One-Class_Classification.md)
+
+- [Deep Instruction Tuning for Segment Anything Model](2024年03月31日/Deep_Instruction_Tuning_for_Segment_Anything_Model.md)
+
+    - [翻译: ](2024年03月31日/Deep_Instruction_Tuning_for_Segment_Anything_Model.md)
+
+- [Face It Yourselves: An LLM-Based Two-Stage Strategy to Localize Configuration Errors via Logs](2024年03月31日/Face_It_Yourselves_An_LLM-Based_Two-Stage_Strategy_to_Localize_Configuration_Errors_via_Logs.md)
+
+    - [翻译: ](2024年03月31日/Face_It_Yourselves_An_LLM-Based_Two-Stage_Strategy_to_Localize_Configuration_Errors_via_Logs.md)
+
+- [Learning to Plan for Language Modeling from Unlabeled Data](2024年03月31日/Learning_to_Plan_for_Language_Modeling_from_Unlabeled_Data.md)
+
+    - [翻译: ](2024年03月31日/Learning_to_Plan_for_Language_Modeling_from_Unlabeled_Data.md)
+
+- [Extensive Self-Contrast Enables Feedback-Free Language Model Alignment](2024年03月31日/Extensive_Self-Contrast_Enables_Feedback-Free_Language_Model_Alignment.md)
+
+    - [翻译: ](2024年03月31日/Extensive_Self-Contrast_Enables_Feedback-Free_Language_Model_Alignment.md)
+
+- [AI Act and Large Language Models (LLMs): When critical issues and privacy impact require human and ethical oversight](2024年03月31日/AI_Act_and_Large_Language_Models_(LLMs)_When_critical_issues_and_privacy_impact_require_human_and_ethical_oversight.md)
+
+    - [翻译: ](2024年03月31日/AI_Act_and_Large_Language_Models_(LLMs)_When_critical_issues_and_privacy_impact_require_human_and_ethical_oversight.md)
+
+- [EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories](2024年03月31日/EvoCodeBench_An_Evolving_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
+
+    - [翻译: ](2024年03月31日/EvoCodeBench_An_Evolving_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
+
 2024年03月30日
 
 - [MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text](2024年03月30日/MaGRITTe_Manipulative_and_Generative_3D_Realization_from_Image,_Topview_and_Text.md)
 
     - [翻译: MaGRITTe：结合图像、顶视图和文本，实现三维世界的操控与创造](2024年03月30日/MaGRITTe_Manipulative_and_Generative_3D_Realization_from_Image,_Topview_and_Text.md)
+
+- [Do Vision-Language Models Understand Compound Nouns?](2024年03月30日/Do_Vision-Language_Models_Understand_Compound_Nouns.md)
+
+    - [翻译: 视觉与语言模型真的懂得复合名词吗？](2024年03月30日/Do_Vision-Language_Models_Understand_Compound_Nouns.md)
+
+- [CoDa: Constrained Generation based Data Augmentation for Low-Resource NLP](2024年03月30日/CoDa_Constrained_Generation_based_Data_Augmentation_for_Low-Resource_NLP.md)
+
+    - [翻译: CoDa：针对低资源NLP的约束生成数据增强技术](2024年03月30日/CoDa_Constrained_Generation_based_Data_Augmentation_for_Low-Resource_NLP.md)
+
+- [Language Models are Spacecraft Operators](2024年03月30日/Language_Models_are_Spacecraft_Operators.md)
+
+    - [翻译: 语言模型充当航天器操作者的角色。](2024年03月30日/Language_Models_are_Spacecraft_Operators.md)
+
+- [An Analysis of BPE Vocabulary Trimming in Neural Machine Translation](2024年03月30日/An_Analysis_of_BPE_Vocabulary_Trimming_in_Neural_Machine_Translation.md)
+
+    - [翻译: 探究神经机器翻译中BPE词汇削减的效果与影响](2024年03月30日/An_Analysis_of_BPE_Vocabulary_Trimming_in_Neural_Machine_Translation.md)
+
+- [Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks](2024年03月30日/Small_Language_Models_Learn_Enhanced_Reasoning_Skills_from_Medical_Textbooks.md)
+
+    - [翻译: 医学教科书助力小型语言模型提升推理能力](2024年03月30日/Small_Language_Models_Learn_Enhanced_Reasoning_Skills_from_Medical_Textbooks.md)
+
+- [Controllable and Diverse Data Augmentation with Large Language Model for Low-Resource Open-Domain Dialogue Generation](2024年03月30日/Controllable_and_Diverse_Data_Augmentation_with_Large_Language_Model_for_Low-Resource_Open-Domain_Dialogue_Generation.md)
+
+    - [翻译: 在低资源开放领域对话生成中，通过大型语言模型实现可控性和多样性的数据增强。](2024年03月30日/Controllable_and_Diverse_Data_Augmentation_with_Large_Language_Model_for_Low-Resource_Open-Domain_Dialogue_Generation.md)
+
+- [Can LLMs Master Math? Investigating Large Language Models on Math Stack Exchange](2024年03月30日/Can_LLMs_Master_Math_Investigating_Large_Language_Models_on_Math_Stack_Exchange.md)
+
+    - [翻译: ](2024年03月30日/Can_LLMs_Master_Math_Investigating_Large_Language_Models_on_Math_Stack_Exchange.md)
+
+- [Commonsense Scene Graph-based Target Localization for Object Search](2024年03月30日/Commonsense_Scene_Graph-based_Target_Localization_for_Object_Search.md)
+
+    - [翻译: ](2024年03月30日/Commonsense_Scene_Graph-based_Target_Localization_for_Object_Search.md)
+
+- [CLIP-driven Outliers Synthesis for few-shot OOD detection](2024年03月30日/CLIP-driven_Outliers_Synthesis_for_few-shot_OOD_detection.md)
+
+    - [翻译: ](2024年03月30日/CLIP-driven_Outliers_Synthesis_for_few-shot_OOD_detection.md)
+
+- [Exploring Unseen Environments with Robots using Large Language and Vision Models through a Procedurally Generated 3D Scene Representation](2024年03月30日/Exploring_Unseen_Environments_with_Robots_using_Large_Language_and_Vision_Models_through_a_Procedurally_Generated_3D_Scene_Representation.md)
+
+    - [翻译: ](2024年03月30日/Exploring_Unseen_Environments_with_Robots_using_Large_Language_and_Vision_Models_through_a_Procedurally_Generated_3D_Scene_Representation.md)
+
+- [Bayesian Exploration of Pre-trained Models for Low-shot Image Classification](2024年03月30日/Bayesian_Exploration_of_Pre-trained_Models_for_Low-shot_Image_Classification.md)
+
+    - [翻译: ](2024年03月30日/Bayesian_Exploration_of_Pre-trained_Models_for_Low-shot_Image_Classification.md)
+
+- [ST-LLM: Large Language Models Are Effective Temporal Learners](2024年03月30日/ST-LLM_Large_Language_Models_Are_Effective_Temporal_Learners.md)
+
+    - [翻译: ](2024年03月30日/ST-LLM_Large_Language_Models_Are_Effective_Temporal_Learners.md)
+
+- [A Comprehensive Study on NLP Data Augmentation for Hate Speech Detection: Legacy Methods, BERT, and LLMs](2024年03月30日/A_Comprehensive_Study_on_NLP_Data_Augmentation_for_Hate_Speech_Detection_Legacy_Methods,_BERT,_and_LLMs.md)
+
+    - [翻译: ](2024年03月30日/A_Comprehensive_Study_on_NLP_Data_Augmentation_for_Hate_Speech_Detection_Legacy_Methods,_BERT,_and_LLMs.md)
+
+- [An Empirical Study of Automated Vulnerability Localization with Large Language Models](2024年03月30日/An_Empirical_Study_of_Automated_Vulnerability_Localization_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月30日/An_Empirical_Study_of_Automated_Vulnerability_Localization_with_Large_Language_Models.md)
+
+- [Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods](2024年03月30日/Survey_on_Large_Language_Model-Enhanced_Reinforcement_Learning_Concept,_Taxonomy,_and_Methods.md)
+
+    - [翻译: ](2024年03月30日/Survey_on_Large_Language_Model-Enhanced_Reinforcement_Learning_Concept,_Taxonomy,_and_Methods.md)
+
+- [Instruction-Driven Game Engines on Large Language Models](2024年03月30日/Instruction-Driven_Game_Engines_on_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月30日/Instruction-Driven_Game_Engines_on_Large_Language_Models.md)
+
+- [Secret Keepers: The Impact of LLMs on Linguistic Markers of Personal Traits](2024年03月30日/Secret_Keepers_The_Impact_of_LLMs_on_Linguistic_Markers_of_Personal_Traits.md)
+
+    - [翻译: ](2024年03月30日/Secret_Keepers_The_Impact_of_LLMs_on_Linguistic_Markers_of_Personal_Traits.md)
+
+- [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](2024年03月30日/DiLM_Distilling_Dataset_into_Language_Model_for_Text-level_Dataset_Distillation.md)
+
+    - [翻译: ](2024年03月30日/DiLM_Distilling_Dataset_into_Language_Model_for_Text-level_Dataset_Distillation.md)
+
+- [Your Co-Workers Matter: Evaluating Collaborative Capabilities of Language Models in Blocks World](2024年03月30日/Your_Co-Workers_Matter_Evaluating_Collaborative_Capabilities_of_Language_Models_in_Blocks_World.md)
+
+    - [翻译: ](2024年03月30日/Your_Co-Workers_Matter_Evaluating_Collaborative_Capabilities_of_Language_Models_in_Blocks_World.md)
+
+- [Aligning Large Language Models with Recommendation Knowledge](2024年03月30日/Aligning_Large_Language_Models_with_Recommendation_Knowledge.md)
+
+    - [翻译: ](2024年03月30日/Aligning_Large_Language_Models_with_Recommendation_Knowledge.md)
+
+- [DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference](2024年03月30日/DeFT_Flash_Tree-attention_with_IO-Awareness_for_Efficient_Tree-search-based_LLM_Inference.md)
+
+    - [翻译: ](2024年03月30日/DeFT_Flash_Tree-attention_with_IO-Awareness_for_Efficient_Tree-search-based_LLM_Inference.md)
+
+- [Dialectical Alignment: Resolving the Tension of 3H and Security Threats of LLMs](2024年03月30日/Dialectical_Alignment_Resolving_the_Tension_of_3H_and_Security_Threats_of_LLMs.md)
+
+    - [翻译: ](2024年03月30日/Dialectical_Alignment_Resolving_the_Tension_of_3H_and_Security_Threats_of_LLMs.md)
+
+- [LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion](2024年03月30日/LAKE-RED_Camouflaged_Images_Generation_by_Latent_Background_Knowledge_Retrieval-Augmented_Diffusion.md)
+
+    - [翻译: ](2024年03月30日/LAKE-RED_Camouflaged_Images_Generation_by_Latent_Background_Knowledge_Retrieval-Augmented_Diffusion.md)
 
 2024年03月29日
 
@@ -131,6 +321,62 @@
 - [H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](2024年03月29日/H2RSVLM_Towards_Helpful_and_Honest_Remote_Sensing_Large_Vision_Language_Model.md)
 
     - [翻译: H2RSVLM：探索有益且真实的遥感领域的大型视觉语言模型](2024年03月29日/H2RSVLM_Towards_Helpful_and_Honest_Remote_Sensing_Large_Vision_Language_Model.md)
+
+- [Enhancing Content-based Recommendation via Large Language Model](2024年03月29日/Enhancing_Content-based_Recommendation_via_Large_Language_Model.md)
+
+    - [翻译: ](2024年03月29日/Enhancing_Content-based_Recommendation_via_Large_Language_Model.md)
+
+- [A Survey of using Large Language Models for Generating Infrastructure as Code](2024年03月29日/A_Survey_of_using_Large_Language_Models_for_Generating_Infrastructure_as_Code.md)
+
+    - [翻译: ](2024年03月29日/A_Survey_of_using_Large_Language_Models_for_Generating_Infrastructure_as_Code.md)
+
+- [Heterogeneous Contrastive Learning for Foundation Models and Beyond](2024年03月29日/Heterogeneous_Contrastive_Learning_for_Foundation_Models_and_Beyond.md)
+
+    - [翻译: ](2024年03月29日/Heterogeneous_Contrastive_Learning_for_Foundation_Models_and_Beyond.md)
+
+- [Is Factuality Decoding a Free Lunch for LLMs? Evaluation on Knowledge Editing Benchmark](2024年03月29日/Is_Factuality_Decoding_a_Free_Lunch_for_LLMs_Evaluation_on_Knowledge_Editing_Benchmark.md)
+
+    - [翻译: ](2024年03月29日/Is_Factuality_Decoding_a_Free_Lunch_for_LLMs_Evaluation_on_Knowledge_Editing_Benchmark.md)
+
+- [Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning](2024年03月29日/Injecting_New_Knowledge_into_Large_Language_Models_via_Supervised_Fine-Tuning.md)
+
+    - [翻译: ](2024年03月29日/Injecting_New_Knowledge_into_Large_Language_Models_via_Supervised_Fine-Tuning.md)
+
+- [Multi-Conditional Ranking with Large Language Models](2024年03月29日/Multi-Conditional_Ranking_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月29日/Multi-Conditional_Ranking_with_Large_Language_Models.md)
+
+- [Socially Aware Robot Navigation through Scoring Using Vision-Language Models](2024年03月29日/Socially_Aware_Robot_Navigation_through_Scoring_Using_Vision-Language_Models.md)
+
+    - [翻译: ](2024年03月29日/Socially_Aware_Robot_Navigation_through_Scoring_Using_Vision-Language_Models.md)
+
+- [EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs](2024年03月29日/EventGround_Narrative_Reasoning_by_Grounding_to_Eventuality-centric_Knowledge_Graphs.md)
+
+    - [翻译: ](2024年03月29日/EventGround_Narrative_Reasoning_by_Grounding_to_Eventuality-centric_Knowledge_Graphs.md)
+
+- [Conceptual and Unbiased Reasoning in Language Models](2024年03月29日/Conceptual_and_Unbiased_Reasoning_in_Language_Models.md)
+
+    - [翻译: ](2024年03月29日/Conceptual_and_Unbiased_Reasoning_in_Language_Models.md)
+
+- [GPTA: Generative Prompt Tuning Assistant for Synergistic Downstream Neural Network Enhancement with LLMs](2024年03月29日/GPTA_Generative_Prompt_Tuning_Assistant_for_Synergistic_Downstream_Neural_Network_Enhancement_with_LLMs.md)
+
+    - [翻译: ](2024年03月29日/GPTA_Generative_Prompt_Tuning_Assistant_for_Synergistic_Downstream_Neural_Network_Enhancement_with_LLMs.md)
+
+- [DataAgent: Evaluating Large Language Models' Ability to Answer Zero-Shot, Natural Language Queries](2024年03月29日/DataAgent_Evaluating_Large_Language_Models'_Ability_to_Answer_Zero-Shot,_Natural_Language_Queries.md)
+
+    - [翻译: ](2024年03月29日/DataAgent_Evaluating_Large_Language_Models'_Ability_to_Answer_Zero-Shot,_Natural_Language_Queries.md)
+
+- [The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks](2024年03月29日/The_LSCD_Benchmark_a_Testbed_for_Diachronic_Word_Meaning_Tasks.md)
+
+    - [翻译: ](2024年03月29日/The_LSCD_Benchmark_a_Testbed_for_Diachronic_Word_Meaning_Tasks.md)
+
+- [Uncovering Bias in Large Vision-Language Models with Counterfactuals](2024年03月29日/Uncovering_Bias_in_Large_Vision-Language_Models_with_Counterfactuals.md)
+
+    - [翻译: ](2024年03月29日/Uncovering_Bias_in_Large_Vision-Language_Models_with_Counterfactuals.md)
+
+- [Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections](2024年03月29日/Classifying_Conspiratorial_Narratives_At_Scale_False_Alarms_and_Erroneous_Connections.md)
+
+    - [翻译: ](2024年03月29日/Classifying_Conspiratorial_Narratives_At_Scale_False_Alarms_and_Erroneous_Connections.md)
 
 2024年03月28日
 
@@ -789,6 +1035,10 @@
 - [ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness](2024年03月26日/ChatGPT_Role-play_Dataset_Analysis_of_User_Motives_and_Model_Naturalness.md)
 
     - [翻译: 探究ChatGPT角色扮演数据集：揭示用户动机与模型的自然表现](2024年03月26日/ChatGPT_Role-play_Dataset_Analysis_of_User_Motives_and_Model_Naturalness.md)
+
+- [PerOS: Personalized Self-Adapting Operating Systems in the Cloud](2024年03月26日/PerOS_Personalized_Self-Adapting_Operating_Systems_in_the_Cloud.md)
+
+    - [翻译: ](2024年03月26日/PerOS_Personalized_Self-Adapting_Operating_Systems_in_the_Cloud.md)
 
 2024年03月25日
 
@@ -1982,6 +2232,10 @@
 
     - [翻译: Vi-Mistral-X项目致力于构建一个经过高级持续预训练技术优化的越南语语言模型，以提升其性能和适用性。进一步精炼后的](2024年03月20日/Vi-Mistral-X_Building_a_Vietnamese_Language_Model_with_Advanced_Continual_Pre-training.md)
 
+- [LLMs as Writing Assistants: Exploring Perspectives on Sense of Ownership and Reasoning](2024年03月20日/LLMs_as_Writing_Assistants_Exploring_Perspectives_on_Sense_of_Ownership_and_Reasoning.md)
+
+    - [翻译: ](2024年03月20日/LLMs_as_Writing_Assistants_Exploring_Perspectives_on_Sense_of_Ownership_and_Reasoning.md)
+
 2024年03月19日
 
 - [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](2024年03月19日/LLMLingua-2_Data_Distillation_for_Efficient_and_Faithful_Task-Agnostic_Prompt_Compression.md)
@@ -2207,6 +2461,10 @@
 - [LLMs-based Few-Shot Disease Predictions using EHR: A Novel Approach Combining Predictive Agent Reasoning and Critical Agent Instruction](2024年03月19日/LLMs-based_Few-Shot_Disease_Predictions_using_EHR_A_Novel_Approach_Combining_Predictive_Agent_Reasoning_and_Critical_Agent_Instruction.md)
 
     - [翻译: 创新运用 EHR 数据，结合预测性智能体推理与关键指令策略，提出了一种基于 LLMs 的少样本疾病预测新方法。](2024年03月19日/LLMs-based_Few-Shot_Disease_Predictions_using_EHR_A_Novel_Approach_Combining_Predictive_Agent_Reasoning_and_Critical_Agent_Instruction.md)
+
+- [Can AI Outperform Human Experts in Creating Social Media Creatives?](2024年03月19日/Can_AI_Outperform_Human_Experts_in_Creating_Social_Media_Creatives.md)
+
+    - [翻译: ](2024年03月19日/Can_AI_Outperform_Human_Experts_in_Creating_Social_Media_Creatives.md)
 
 2024年03月18日
 
