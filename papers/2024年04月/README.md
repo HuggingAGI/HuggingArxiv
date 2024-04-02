@@ -180,12 +180,12 @@
 
 - [Chat Modeling: Natural Language-based Procedural Modeling of Biological Structures without Training](2024年04月01日/Chat_Modeling_Natural_Language-based_Procedural_Modeling_of_Biological_Structures_without_Training.md)
 
-    - [翻译: ](2024年04月01日/Chat_Modeling_Natural_Language-based_Procedural_Modeling_of_Biological_Structures_without_Training.md)
+    - [翻译: 聊天建模：利用自然语言进行生物结构的程序化设计，无需经过训练过程。](2024年04月01日/Chat_Modeling_Natural_Language-based_Procedural_Modeling_of_Biological_Structures_without_Training.md)
 
 - [Regularized Best-of-N Sampling to Mitigate Reward Hacking for Language Model Alignment](2024年04月01日/Regularized_Best-of-N_Sampling_to_Mitigate_Reward_Hacking_for_Language_Model_Alignment.md)
 
-    - [翻译: ](2024年04月01日/Regularized_Best-of-N_Sampling_to_Mitigate_Reward_Hacking_for_Language_Model_Alignment.md)
+    - [翻译: 为确保语言模型对齐，我们采用正则化的最优 N 选一抽样策略，以降低奖励操纵行为的风险。](2024年04月01日/Regularized_Best-of-N_Sampling_to_Mitigate_Reward_Hacking_for_Language_Model_Alignment.md)
 
 - [Can LLMs get help from other LLMs without revealing private information?](2024年04月01日/Can_LLMs_get_help_from_other_LLMs_without_revealing_private_information.md)
 
-    - [翻译: ](2024年04月01日/Can_LLMs_get_help_from_other_LLMs_without_revealing_private_information.md)
+    - [翻译: 大型语言模型能否在保护隐私的前提下互相协助？](2024年04月01日/Can_LLMs_get_help_from_other_LLMs_without_revealing_private_information.md)

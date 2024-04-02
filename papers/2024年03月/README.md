@@ -32,87 +32,87 @@
 
 - [TM-TREK at SemEval-2024 Task 8: Towards LLM-Based Automatic Boundary Detection for Human-Machine Mixed Text](2024年03月31日/TM-TREK_at_SemEval-2024_Task_8_Towards_LLM-Based_Automatic_Boundary_Detection_for_Human-Machine_Mixed_Text.md)
 
-    - [翻译: ](2024年03月31日/TM-TREK_at_SemEval-2024_Task_8_Towards_LLM-Based_Automatic_Boundary_Detection_for_Human-Machine_Mixed_Text.md)
+    - [翻译: SemEval-2024 任务 8 的 TM-TREK：探索利用大型语言模型实现人机混合文本自动边界识别。](2024年03月31日/TM-TREK_at_SemEval-2024_Task_8_Towards_LLM-Based_Automatic_Boundary_Detection_for_Human-Machine_Mixed_Text.md)
 
 - [Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models](2024年03月31日/Self-Demos_Eliciting_Out-of-Demonstration_Generalizability_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月31日/Self-Demos_Eliciting_Out-of-Demonstration_Generalizability_in_Large_Language_Models.md)
+    - [翻译: Self-Demos：激发大型语言模型超越示范的泛化力](2024年03月31日/Self-Demos_Eliciting_Out-of-Demonstration_Generalizability_in_Large_Language_Models.md)
 
 - [Bailong: Bilingual Transfer Learning based on QLoRA and Zip-tie Embedding](2024年03月31日/Bailong_Bilingual_Transfer_Learning_based_on_QLoRA_and_Zip-tie_Embedding.md)
 
-    - [翻译: ](2024年03月31日/Bailong_Bilingual_Transfer_Learning_based_on_QLoRA_and_Zip-tie_Embedding.md)
+    - [翻译: Bailong：借助 QLoRA 与 Zip-tie 嵌入技术的双语迁移学习新方法](2024年03月31日/Bailong_Bilingual_Transfer_Learning_based_on_QLoRA_and_Zip-tie_Embedding.md)
 
 - [Lipsum-FT: Robust Fine-Tuning of Zero-Shot Models Using Random Text Guidance](2024年03月31日/Lipsum-FT_Robust_Fine-Tuning_of_Zero-Shot_Models_Using_Random_Text_Guidance.md)
 
-    - [翻译: ](2024年03月31日/Lipsum-FT_Robust_Fine-Tuning_of_Zero-Shot_Models_Using_Random_Text_Guidance.md)
+    - [翻译: Lipsum-FT：借助随机文本引导，实现零-shot模型的稳健微调](2024年03月31日/Lipsum-FT_Robust_Fine-Tuning_of_Zero-Shot_Models_Using_Random_Text_Guidance.md)
 
 - [PID Control-Based Self-Healing to Improve the Robustness of Large Language Models](2024年03月31日/PID_Control-Based_Self-Healing_to_Improve_the_Robustness_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月31日/PID_Control-Based_Self-Healing_to_Improve_the_Robustness_of_Large_Language_Models.md)
+    - [翻译: 采用基于PID控制的自我修复策略，增强大型语言模型的稳健性。](2024年03月31日/PID_Control-Based_Self-Healing_to_Improve_the_Robustness_of_Large_Language_Models.md)
 
 - [Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods](2024年03月31日/Extracting_Social_Determinants_of_Health_from_Pediatric_Patient_Notes_Using_Large_Language_Models_Novel_Corpus_and_Methods.md)
 
-    - [翻译: ](2024年03月31日/Extracting_Social_Determinants_of_Health_from_Pediatric_Patient_Notes_Using_Large_Language_Models_Novel_Corpus_and_Methods.md)
+    - [翻译: 借助大型语言模型，本文提出了一种新颖的语料库和方法，用以从儿科病历中挖掘健康社会决定因素。](2024年03月31日/Extracting_Social_Determinants_of_Health_from_Pediatric_Patient_Notes_Using_Large_Language_Models_Novel_Corpus_and_Methods.md)
 
 - [Towards Practical Requirement Analysis and Verification: A Case Study on Software IP Components in Aerospace Embedded Systems](2024年03月31日/Towards_Practical_Requirement_Analysis_and_Verification_A_Case_Study_on_Software_IP_Components_in_Aerospace_Embedded_Systems.md)
 
-    - [翻译: ](2024年03月31日/Towards_Practical_Requirement_Analysis_and_Verification_A_Case_Study_on_Software_IP_Components_in_Aerospace_Embedded_Systems.md)
+    - [翻译: 实现实用的需求分析与验证：以航空航天嵌入式软件IP组件为例的案例分析](2024年03月31日/Towards_Practical_Requirement_Analysis_and_Verification_A_Case_Study_on_Software_IP_Components_in_Aerospace_Embedded_Systems.md)
 
 - [Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification](2024年03月31日/Enchanting_Program_Specification_Synthesis_by_Large_Language_Models_using_Static_Analysis_and_Program_Verification.md)
 
-    - [翻译: ](2024年03月31日/Enchanting_Program_Specification_Synthesis_by_Large_Language_Models_using_Static_Analysis_and_Program_Verification.md)
+    - [翻译: 大型语言模型借助静态分析和程序验证，探索了程序规范的迷人合成方法。](2024年03月31日/Enchanting_Program_Specification_Synthesis_by_Large_Language_Models_using_Static_Analysis_and_Program_Verification.md)
 
 - [Recover: A Neuro-Symbolic Framework for Failure Detection and Recovery](2024年03月31日/Recover_A_Neuro-Symbolic_Framework_for_Failure_Detection_and_Recovery.md)
 
-    - [翻译: ](2024年03月31日/Recover_A_Neuro-Symbolic_Framework_for_Failure_Detection_and_Recovery.md)
+    - [翻译: Recover：一种用于故障侦测与复原的神经符号整合框架](2024年03月31日/Recover_A_Neuro-Symbolic_Framework_for_Failure_Detection_and_Recovery.md)
 
 - [Can Language Models Recognize Convincing Arguments?](2024年03月31日/Can_Language_Models_Recognize_Convincing_Arguments.md)
 
-    - [翻译: ](2024年03月31日/Can_Language_Models_Recognize_Convincing_Arguments.md)
+    - [翻译: 语言模型真的能辨识出令人信服的论证吗？](2024年03月31日/Can_Language_Models_Recognize_Convincing_Arguments.md)
 
 - [The Larger the Better? Improved LLM Code-Generation via Budget Reallocation](2024年03月31日/The_Larger_the_Better_Improved_LLM_Code-Generation_via_Budget_Reallocation.md)
 
-    - [翻译: ](2024年03月31日/The_Larger_the_Better_Improved_LLM_Code-Generation_via_Budget_Reallocation.md)
+    - [翻译: 越大越好？通过合理分配资源，优化大型语言模型的代码生成能力。](2024年03月31日/The_Larger_the_Better_Improved_LLM_Code-Generation_via_Budget_Reallocation.md)
 
 - [Tired of Plugins? Large Language Models Can Be End-To-End Recommenders](2024年03月31日/Tired_of_Plugins_Large_Language_Models_Can_Be_End-To-End_Recommenders.md)
 
-    - [翻译: ](2024年03月31日/Tired_of_Plugins_Large_Language_Models_Can_Be_End-To-End_Recommenders.md)
+    - [翻译: 厌倦了不断安装插件吗？大型语言模型能够直接作为端到端的推荐系统。](2024年03月31日/Tired_of_Plugins_Large_Language_Models_Can_Be_End-To-End_Recommenders.md)
 
 - [Training-Free Semantic Segmentation via LLM-Supervision](2024年03月31日/Training-Free_Semantic_Segmentation_via_LLM-Supervision.md)
 
-    - [翻译: ](2024年03月31日/Training-Free_Semantic_Segmentation_via_LLM-Supervision.md)
+    - [翻译: 借助大型语言模型的指导，我们可以实现无需额外训练的语义分割技术。](2024年03月31日/Training-Free_Semantic_Segmentation_via_LLM-Supervision.md)
 
 - [How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library](2024年03月31日/How_Much_are_LLMs_Contaminated_A_Comprehensive_Survey_and_the_LLMSanitize_Library.md)
 
-    - [翻译: ](2024年03月31日/How_Much_are_LLMs_Contaminated_A_Comprehensive_Survey_and_the_LLMSanitize_Library.md)
+    - [翻译: 深度探究大型语言模型的污染问题及LLMSanitize库的全面解决方案](2024年03月31日/How_Much_are_LLMs_Contaminated_A_Comprehensive_Survey_and_the_LLMSanitize_Library.md)
 
 - [Scaling Properties of Speech Language Models](2024年03月31日/Scaling_Properties_of_Speech_Language_Models.md)
 
-    - [翻译: ](2024年03月31日/Scaling_Properties_of_Speech_Language_Models.md)
+    - [翻译: 在探讨语音语言模型时，我们关注的是其随着规模扩大而展现出的特性。](2024年03月31日/Scaling_Properties_of_Speech_Language_Models.md)
 
 - [CoUDA: Coherence Evaluation via Unified Data Augmentation](2024年03月31日/CoUDA_Coherence_Evaluation_via_Unified_Data_Augmentation.md)
 
-    - [翻译: ](2024年03月31日/CoUDA_Coherence_Evaluation_via_Unified_Data_Augmentation.md)
+    - [翻译: CoUDA：利用统一的数据增强方法进行文本连贯性评估](2024年03月31日/CoUDA_Coherence_Evaluation_via_Unified_Data_Augmentation.md)
 
 - [LLM meets Vision-Language Models for Zero-Shot One-Class Classification](2024年03月31日/LLM_meets_Vision-Language_Models_for_Zero-Shot_One-Class_Classification.md)
 
-    - [翻译: ](2024年03月31日/LLM_meets_Vision-Language_Models_for_Zero-Shot_One-Class_Classification.md)
+    - [翻译: 大型语言模型携手视觉-语言模型，共同应对零样本单类识别挑战。](2024年03月31日/LLM_meets_Vision-Language_Models_for_Zero-Shot_One-Class_Classification.md)
 
 - [Deep Instruction Tuning for Segment Anything Model](2024年03月31日/Deep_Instruction_Tuning_for_Segment_Anything_Model.md)
 
-    - [翻译: ](2024年03月31日/Deep_Instruction_Tuning_for_Segment_Anything_Model.md)
+    - [翻译: 通过深度指令调整技术，实现对任何部分模型的精准分割。](2024年03月31日/Deep_Instruction_Tuning_for_Segment_Anything_Model.md)
 
 - [Face It Yourselves: An LLM-Based Two-Stage Strategy to Localize Configuration Errors via Logs](2024年03月31日/Face_It_Yourselves_An_LLM-Based_Two-Stage_Strategy_to_Localize_Configuration_Errors_via_Logs.md)
 
-    - [翻译: ](2024年03月31日/Face_It_Yourselves_An_LLM-Based_Two-Stage_Strategy_to_Localize_Configuration_Errors_via_Logs.md)
+    - [翻译: 直面问题：利用大型语言模型实施的分两步策略，通过日志来精确识别配置错误。](2024年03月31日/Face_It_Yourselves_An_LLM-Based_Two-Stage_Strategy_to_Localize_Configuration_Errors_via_Logs.md)
 
 - [Learning to Plan for Language Modeling from Unlabeled Data](2024年03月31日/Learning_to_Plan_for_Language_Modeling_from_Unlabeled_Data.md)
 
-    - [翻译: ](2024年03月31日/Learning_to_Plan_for_Language_Modeling_from_Unlabeled_Data.md)
+    - [翻译: 在无标注数据的基础上，掌握为语言建模规划的技能](2024年03月31日/Learning_to_Plan_for_Language_Modeling_from_Unlabeled_Data.md)
 
 - [Extensive Self-Contrast Enables Feedback-Free Language Model Alignment](2024年03月31日/Extensive_Self-Contrast_Enables_Feedback-Free_Language_Model_Alignment.md)
 
-    - [翻译: ](2024年03月31日/Extensive_Self-Contrast_Enables_Feedback-Free_Language_Model_Alignment.md)
+    - [翻译: 通过广泛的自对比学习，我们可以在不依赖反馈的情况下实现语言模型的精准对齐。](2024年03月31日/Extensive_Self-Contrast_Enables_Feedback-Free_Language_Model_Alignment.md)
 
 - [AI Act and Large Language Models (LLMs): When critical issues and privacy impact require human and ethical oversight](2024年03月31日/AI_Act_and_Large_Language_Models_(LLMs)_When_critical_issues_and_privacy_impact_require_human_and_ethical_oversight.md)
 
