@@ -30,6 +30,30 @@
 
     - [翻译: 现代推荐系统通过运用生成模型 (Gen-RecSys) 已经取得了显著进展。本文将对这些系统进行深入评述，探讨它们如何通过创新的方式提升个性化推荐的准确性和用户体验。](2024年03月31日/A_Review_of_Modern_Recommender_Systems_Using_Generative_Models_(Gen-RecSys).md)
 
+- [TM-TREK at SemEval-2024 Task 8: Towards LLM-Based Automatic Boundary Detection for Human-Machine Mixed Text](2024年03月31日/TM-TREK_at_SemEval-2024_Task_8_Towards_LLM-Based_Automatic_Boundary_Detection_for_Human-Machine_Mixed_Text.md)
+
+    - [翻译: ](2024年03月31日/TM-TREK_at_SemEval-2024_Task_8_Towards_LLM-Based_Automatic_Boundary_Detection_for_Human-Machine_Mixed_Text.md)
+
+- [Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models](2024年03月31日/Self-Demos_Eliciting_Out-of-Demonstration_Generalizability_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月31日/Self-Demos_Eliciting_Out-of-Demonstration_Generalizability_in_Large_Language_Models.md)
+
+- [Bailong: Bilingual Transfer Learning based on QLoRA and Zip-tie Embedding](2024年03月31日/Bailong_Bilingual_Transfer_Learning_based_on_QLoRA_and_Zip-tie_Embedding.md)
+
+    - [翻译: ](2024年03月31日/Bailong_Bilingual_Transfer_Learning_based_on_QLoRA_and_Zip-tie_Embedding.md)
+
+- [Lipsum-FT: Robust Fine-Tuning of Zero-Shot Models Using Random Text Guidance](2024年03月31日/Lipsum-FT_Robust_Fine-Tuning_of_Zero-Shot_Models_Using_Random_Text_Guidance.md)
+
+    - [翻译: ](2024年03月31日/Lipsum-FT_Robust_Fine-Tuning_of_Zero-Shot_Models_Using_Random_Text_Guidance.md)
+
+- [PID Control-Based Self-Healing to Improve the Robustness of Large Language Models](2024年03月31日/PID_Control-Based_Self-Healing_to_Improve_the_Robustness_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月31日/PID_Control-Based_Self-Healing_to_Improve_the_Robustness_of_Large_Language_Models.md)
+
+- [Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods](2024年03月31日/Extracting_Social_Determinants_of_Health_from_Pediatric_Patient_Notes_Using_Large_Language_Models_Novel_Corpus_and_Methods.md)
+
+    - [翻译: ](2024年03月31日/Extracting_Social_Determinants_of_Health_from_Pediatric_Patient_Notes_Using_Large_Language_Models_Novel_Corpus_and_Methods.md)
+
 - [Towards Practical Requirement Analysis and Verification: A Case Study on Software IP Components in Aerospace Embedded Systems](2024年03月31日/Towards_Practical_Requirement_Analysis_and_Verification_A_Case_Study_on_Software_IP_Components_in_Aerospace_Embedded_Systems.md)
 
     - [翻译: ](2024年03月31日/Towards_Practical_Requirement_Analysis_and_Verification_A_Case_Study_on_Software_IP_Components_in_Aerospace_Embedded_Systems.md)
@@ -98,6 +122,14 @@
 
     - [翻译: ](2024年03月31日/EvoCodeBench_An_Evolving_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
 
+- [Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing](2024年03月31日/Harnessing_the_Power_of_Large_Language_Model_for_Uncertainty_Aware_Graph_Processing.md)
+
+    - [翻译: ](2024年03月31日/Harnessing_the_Power_of_Large_Language_Model_for_Uncertainty_Aware_Graph_Processing.md)
+
+- [M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models](2024年03月31日/M3D_Advancing_3D_Medical_Image_Analysis_with_Multi-Modal_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月31日/M3D_Advancing_3D_Medical_Image_Analysis_with_Multi-Modal_Large_Language_Models.md)
+
 2024年03月30日
 
 - [MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text](2024年03月30日/MaGRITTe_Manipulative_and_Generative_3D_Realization_from_Image,_Topview_and_Text.md)
@@ -130,71 +162,71 @@
 
 - [Can LLMs Master Math? Investigating Large Language Models on Math Stack Exchange](2024年03月30日/Can_LLMs_Master_Math_Investigating_Large_Language_Models_on_Math_Stack_Exchange.md)
 
-    - [翻译: ](2024年03月30日/Can_LLMs_Master_Math_Investigating_Large_Language_Models_on_Math_Stack_Exchange.md)
+    - [翻译: 大型语言模型能否驾驭数学？深入探索 LLM 在数学领域的 Stack Exchange 互动表现。](2024年03月30日/Can_LLMs_Master_Math_Investigating_Large_Language_Models_on_Math_Stack_Exchange.md)
 
 - [Commonsense Scene Graph-based Target Localization for Object Search](2024年03月30日/Commonsense_Scene_Graph-based_Target_Localization_for_Object_Search.md)
 
-    - [翻译: ](2024年03月30日/Commonsense_Scene_Graph-based_Target_Localization_for_Object_Search.md)
+    - [翻译: 通过常识场景图实现目标定位，以优化对象搜索过程。](2024年03月30日/Commonsense_Scene_Graph-based_Target_Localization_for_Object_Search.md)
 
 - [CLIP-driven Outliers Synthesis for few-shot OOD detection](2024年03月30日/CLIP-driven_Outliers_Synthesis_for_few-shot_OOD_detection.md)
 
-    - [翻译: ](2024年03月30日/CLIP-driven_Outliers_Synthesis_for_few-shot_OOD_detection.md)
+    - [翻译: 借助CLIP技术，我们提出了一种针对少量样本的异常检测方法，通过合成异常值来实现。](2024年03月30日/CLIP-driven_Outliers_Synthesis_for_few-shot_OOD_detection.md)
 
 - [Exploring Unseen Environments with Robots using Large Language and Vision Models through a Procedurally Generated 3D Scene Representation](2024年03月30日/Exploring_Unseen_Environments_with_Robots_using_Large_Language_and_Vision_Models_through_a_Procedurally_Generated_3D_Scene_Representation.md)
 
-    - [翻译: ](2024年03月30日/Exploring_Unseen_Environments_with_Robots_using_Large_Language_and_Vision_Models_through_a_Procedurally_Generated_3D_Scene_Representation.md)
+    - [翻译: 借助程序化生成的三维场景，利用大型语言和视觉模型，探索机器人所面临的未知环境。](2024年03月30日/Exploring_Unseen_Environments_with_Robots_using_Large_Language_and_Vision_Models_through_a_Procedurally_Generated_3D_Scene_Representation.md)
 
 - [Bayesian Exploration of Pre-trained Models for Low-shot Image Classification](2024年03月30日/Bayesian_Exploration_of_Pre-trained_Models_for_Low-shot_Image_Classification.md)
 
-    - [翻译: ](2024年03月30日/Bayesian_Exploration_of_Pre-trained_Models_for_Low-shot_Image_Classification.md)
+    - [翻译: 通过贝叶斯方法探索预训练模型在低样本图像分类任务中的应用，旨在提高分类准确性和效率。](2024年03月30日/Bayesian_Exploration_of_Pre-trained_Models_for_Low-shot_Image_Classification.md)
 
 - [ST-LLM: Large Language Models Are Effective Temporal Learners](2024年03月30日/ST-LLM_Large_Language_Models_Are_Effective_Temporal_Learners.md)
 
-    - [翻译: ](2024年03月30日/ST-LLM_Large_Language_Models_Are_Effective_Temporal_Learners.md)
+    - [翻译: ST-LLM：大型语言模型展现出作为时间学习者的有效性](2024年03月30日/ST-LLM_Large_Language_Models_Are_Effective_Temporal_Learners.md)
 
 - [A Comprehensive Study on NLP Data Augmentation for Hate Speech Detection: Legacy Methods, BERT, and LLMs](2024年03月30日/A_Comprehensive_Study_on_NLP_Data_Augmentation_for_Hate_Speech_Detection_Legacy_Methods,_BERT,_and_LLMs.md)
 
-    - [翻译: ](2024年03月30日/A_Comprehensive_Study_on_NLP_Data_Augmentation_for_Hate_Speech_Detection_Legacy_Methods,_BERT,_and_LLMs.md)
+    - [翻译: 本研究深入探讨了自然语言处理领域中仇恨言论检测的数据增强技术，涵盖了传统方法、BERT 以及大型语言模型（LLMs）的应用。](2024年03月30日/A_Comprehensive_Study_on_NLP_Data_Augmentation_for_Hate_Speech_Detection_Legacy_Methods,_BERT,_and_LLMs.md)
 
 - [An Empirical Study of Automated Vulnerability Localization with Large Language Models](2024年03月30日/An_Empirical_Study_of_Automated_Vulnerability_Localization_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月30日/An_Empirical_Study_of_Automated_Vulnerability_Localization_with_Large_Language_Models.md)
+    - [翻译: 本实证研究探讨了利用大型语言模型进行自动化漏洞定位的方法。](2024年03月30日/An_Empirical_Study_of_Automated_Vulnerability_Localization_with_Large_Language_Models.md)
 
 - [Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods](2024年03月30日/Survey_on_Large_Language_Model-Enhanced_Reinforcement_Learning_Concept,_Taxonomy,_and_Methods.md)
 
-    - [翻译: ](2024年03月30日/Survey_on_Large_Language_Model-Enhanced_Reinforcement_Learning_Concept,_Taxonomy,_and_Methods.md)
+    - [翻译: 探究大型语言模型助力强化学习的研究：理念、体系和策略](2024年03月30日/Survey_on_Large_Language_Model-Enhanced_Reinforcement_Learning_Concept,_Taxonomy,_and_Methods.md)
 
 - [Instruction-Driven Game Engines on Large Language Models](2024年03月30日/Instruction-Driven_Game_Engines_on_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月30日/Instruction-Driven_Game_Engines_on_Large_Language_Models.md)
+    - [翻译: 在大型语言模型上，通过指令驱动的游戏引擎展现出了新的可能性。](2024年03月30日/Instruction-Driven_Game_Engines_on_Large_Language_Models.md)
 
 - [Secret Keepers: The Impact of LLMs on Linguistic Markers of Personal Traits](2024年03月30日/Secret_Keepers_The_Impact_of_LLMs_on_Linguistic_Markers_of_Personal_Traits.md)
 
-    - [翻译: ](2024年03月30日/Secret_Keepers_The_Impact_of_LLMs_on_Linguistic_Markers_of_Personal_Traits.md)
+    - [翻译: 揭秘守护者：大型语言模型如何塑造个人特质的语言标识](2024年03月30日/Secret_Keepers_The_Impact_of_LLMs_on_Linguistic_Markers_of_Personal_Traits.md)
 
 - [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](2024年03月30日/DiLM_Distilling_Dataset_into_Language_Model_for_Text-level_Dataset_Distillation.md)
 
-    - [翻译: ](2024年03月30日/DiLM_Distilling_Dataset_into_Language_Model_for_Text-level_Dataset_Distillation.md)
+    - [翻译: DiLM：将数据集转化为语言模型，实现文本级别的数据集提炼](2024年03月30日/DiLM_Distilling_Dataset_into_Language_Model_for_Text-level_Dataset_Distillation.md)
 
 - [Your Co-Workers Matter: Evaluating Collaborative Capabilities of Language Models in Blocks World](2024年03月30日/Your_Co-Workers_Matter_Evaluating_Collaborative_Capabilities_of_Language_Models_in_Blocks_World.md)
 
-    - [翻译: ](2024年03月30日/Your_Co-Workers_Matter_Evaluating_Collaborative_Capabilities_of_Language_Models_in_Blocks_World.md)
+    - [翻译: 同事的影响力：探究语言模型在积木世界协作任务中的表现](2024年03月30日/Your_Co-Workers_Matter_Evaluating_Collaborative_Capabilities_of_Language_Models_in_Blocks_World.md)
 
 - [Aligning Large Language Models with Recommendation Knowledge](2024年03月30日/Aligning_Large_Language_Models_with_Recommendation_Knowledge.md)
 
-    - [翻译: ](2024年03月30日/Aligning_Large_Language_Models_with_Recommendation_Knowledge.md)
+    - [翻译: 大型语言模型与推荐知识的融合](2024年03月30日/Aligning_Large_Language_Models_with_Recommendation_Knowledge.md)
 
 - [DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference](2024年03月30日/DeFT_Flash_Tree-attention_with_IO-Awareness_for_Efficient_Tree-search-based_LLM_Inference.md)
 
-    - [翻译: ](2024年03月30日/DeFT_Flash_Tree-attention_with_IO-Awareness_for_Efficient_Tree-search-based_LLM_Inference.md)
+    - [翻译: DeFT：一种结合输入输出敏感性的闪速树注意力机制，旨在提升大型语言模型树搜索推理的效率。](2024年03月30日/DeFT_Flash_Tree-attention_with_IO-Awareness_for_Efficient_Tree-search-based_LLM_Inference.md)
 
 - [Dialectical Alignment: Resolving the Tension of 3H and Security Threats of LLMs](2024年03月30日/Dialectical_Alignment_Resolving_the_Tension_of_3H_and_Security_Threats_of_LLMs.md)
 
-    - [翻译: ](2024年03月30日/Dialectical_Alignment_Resolving_the_Tension_of_3H_and_Security_Threats_of_LLMs.md)
+    - [翻译: 辩证对齐：平衡人类福祉、人类价值和大型语言模型的安全风险](2024年03月30日/Dialectical_Alignment_Resolving_the_Tension_of_3H_and_Security_Threats_of_LLMs.md)
 
 - [LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion](2024年03月30日/LAKE-RED_Camouflaged_Images_Generation_by_Latent_Background_Knowledge_Retrieval-Augmented_Diffusion.md)
 
-    - [翻译: ](2024年03月30日/LAKE-RED_Camouflaged_Images_Generation_by_Latent_Background_Knowledge_Retrieval-Augmented_Diffusion.md)
+    - [翻译: LAKE-RED：利用潜在背景知识检索技术，扩散模型打造隐蔽伪装图像](2024年03月30日/LAKE-RED_Camouflaged_Images_Generation_by_Latent_Background_Knowledge_Retrieval-Augmented_Diffusion.md)
 
 2024年03月29日
 
@@ -324,31 +356,31 @@
 
 - [Enhancing Content-based Recommendation via Large Language Model](2024年03月29日/Enhancing_Content-based_Recommendation_via_Large_Language_Model.md)
 
-    - [翻译: ](2024年03月29日/Enhancing_Content-based_Recommendation_via_Large_Language_Model.md)
+    - [翻译: 借助大型语言模型，提升基于内容的推荐系统](2024年03月29日/Enhancing_Content-based_Recommendation_via_Large_Language_Model.md)
 
 - [A Survey of using Large Language Models for Generating Infrastructure as Code](2024年03月29日/A_Survey_of_using_Large_Language_Models_for_Generating_Infrastructure_as_Code.md)
 
-    - [翻译: ](2024年03月29日/A_Survey_of_using_Large_Language_Models_for_Generating_Infrastructure_as_Code.md)
+    - [翻译: 本文综述了运用大型语言模型来生成基础设施即代码（Infrastructure as Code, IaC）的技术与应用。](2024年03月29日/A_Survey_of_using_Large_Language_Models_for_Generating_Infrastructure_as_Code.md)
 
 - [Heterogeneous Contrastive Learning for Foundation Models and Beyond](2024年03月29日/Heterogeneous_Contrastive_Learning_for_Foundation_Models_and_Beyond.md)
 
-    - [翻译: ](2024年03月29日/Heterogeneous_Contrastive_Learning_for_Foundation_Models_and_Beyond.md)
+    - [翻译: 异构对比学习：为构建基础模型及其拓展提供支持](2024年03月29日/Heterogeneous_Contrastive_Learning_for_Foundation_Models_and_Beyond.md)
 
 - [Is Factuality Decoding a Free Lunch for LLMs? Evaluation on Knowledge Editing Benchmark](2024年03月29日/Is_Factuality_Decoding_a_Free_Lunch_for_LLMs_Evaluation_on_Knowledge_Editing_Benchmark.md)
 
-    - [翻译: ](2024年03月29日/Is_Factuality_Decoding_a_Free_Lunch_for_LLMs_Evaluation_on_Knowledge_Editing_Benchmark.md)
+    - [翻译: 大型语言模型的事实性解码真的是不劳而获的吗？通过知识编辑基准测试来验证。](2024年03月29日/Is_Factuality_Decoding_a_Free_Lunch_for_LLMs_Evaluation_on_Knowledge_Editing_Benchmark.md)
 
 - [Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning](2024年03月29日/Injecting_New_Knowledge_into_Large_Language_Models_via_Supervised_Fine-Tuning.md)
 
-    - [翻译: ](2024年03月29日/Injecting_New_Knowledge_into_Large_Language_Models_via_Supervised_Fine-Tuning.md)
+    - [翻译: 本文探讨了如何通过监督式微调方法，将新知识融入大型语言模型中，以提升模型性能。](2024年03月29日/Injecting_New_Knowledge_into_Large_Language_Models_via_Supervised_Fine-Tuning.md)
 
 - [Multi-Conditional Ranking with Large Language Models](2024年03月29日/Multi-Conditional_Ranking_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月29日/Multi-Conditional_Ranking_with_Large_Language_Models.md)
+    - [翻译: 在大型语言模型中实现多条件排序](2024年03月29日/Multi-Conditional_Ranking_with_Large_Language_Models.md)
 
 - [Socially Aware Robot Navigation through Scoring Using Vision-Language Models](2024年03月29日/Socially_Aware_Robot_Navigation_through_Scoring_Using_Vision-Language_Models.md)
 
-    - [翻译: ](2024年03月29日/Socially_Aware_Robot_Navigation_through_Scoring_Using_Vision-Language_Models.md)
+    - [翻译: 利用视觉-语言模型进行评分，实现机器人的社交意识导航。](2024年03月29日/Socially_Aware_Robot_Navigation_through_Scoring_Using_Vision-Language_Models.md)
 
 - [EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs](2024年03月29日/EventGround_Narrative_Reasoning_by_Grounding_to_Eventuality-centric_Knowledge_Graphs.md)
 
