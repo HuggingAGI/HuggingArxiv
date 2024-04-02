@@ -1,5 +1,11 @@
 # 2024年03月
 
+2024年03月30日
+
+- [MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text](2024年03月30日/MaGRITTe_Manipulative_and_Generative_3D_Realization_from_Image,_Topview_and_Text.md)
+
+    - [翻译: MaGRITTe：结合图像、顶视图和文本，实现三维世界的操控与创造](2024年03月30日/MaGRITTe_Manipulative_and_Generative_3D_Realization_from_Image,_Topview_and_Text.md)
+
 2024年03月29日
 
 - [Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science](2024年03月29日/Unleashing_the_Potential_of_Large_Language_Models_for_Predictive_Tabular_Tasks_in_Data_Science.md)
