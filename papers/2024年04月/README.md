@@ -88,95 +88,95 @@
 
 - [LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models](2024年04月01日/LLM_as_a_Mastermind_A_Survey_of_Strategic_Reasoning_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月01日/LLM_as_a_Mastermind_A_Survey_of_Strategic_Reasoning_with_Large_Language_Models.md)
+    - [翻译: 大型语言模型：策略性推理的探索之旅](2024年04月01日/LLM_as_a_Mastermind_A_Survey_of_Strategic_Reasoning_with_Large_Language_Models.md)
 
 - [Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward](2024年04月01日/Direct_Preference_Optimization_of_Video_Large_Multimodal_Models_from_Language_Model_Reward.md)
 
-    - [翻译: ](2024年04月01日/Direct_Preference_Optimization_of_Video_Large_Multimodal_Models_from_Language_Model_Reward.md)
+    - [翻译: 通过语言模型奖励，直接对视频大型多模态模型进行偏好优化。](2024年04月01日/Direct_Preference_Optimization_of_Video_Large_Multimodal_Models_from_Language_Model_Reward.md)
 
 - [LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models](2024年04月01日/LITE_Modeling_Environmental_Ecosystems_with_Multimodal_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月01日/LITE_Modeling_Environmental_Ecosystems_with_Multimodal_Large_Language_Models.md)
+    - [翻译: LITE：借助多模态大型语言模型，构建环境生态系统模型](2024年04月01日/LITE_Modeling_Environmental_Ecosystems_with_Multimodal_Large_Language_Models.md)
 
 - [Prompt Learning for Oriented Power Transmission Tower Detection in High-Resolution SAR Images](2024年04月01日/Prompt_Learning_for_Oriented_Power_Transmission_Tower_Detection_in_High-Resolution_SAR_Images.md)
 
-    - [翻译: ](2024年04月01日/Prompt_Learning_for_Oriented_Power_Transmission_Tower_Detection_in_High-Resolution_SAR_Images.md)
+    - [翻译: 针对高分辨率SAR图像中的定向输电塔检测，本研究采用提示学习方法进行探索。](2024年04月01日/Prompt_Learning_for_Oriented_Power_Transmission_Tower_Detection_in_High-Resolution_SAR_Images.md)
 
 - [Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models](2024年04月01日/Towards_Safety_and_Helpfulness_Balanced_Responses_via_Controllable_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月01日/Towards_Safety_and_Helpfulness_Balanced_Responses_via_Controllable_Large_Language_Models.md)
+    - [翻译: 本研究致力于通过可调控的大型语言模型，实现既安全又有益的智能回应。](2024年04月01日/Towards_Safety_and_Helpfulness_Balanced_Responses_via_Controllable_Large_Language_Models.md)
 
 - [Large Language Models are Capable of Offering Cognitive Reappraisal, if Guided](2024年04月01日/Large_Language_Models_are_Capable_of_Offering_Cognitive_Reappraisal,_if_Guided.md)
 
-    - [翻译: ](2024年04月01日/Large_Language_Models_are_Capable_of_Offering_Cognitive_Reappraisal,_if_Guided.md)
+    - [翻译: 在适当的引导下，大型语言模型具备进行认知重估的能力。](2024年04月01日/Large_Language_Models_are_Capable_of_Offering_Cognitive_Reappraisal,_if_Guided.md)
 
 - [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](2024年04月01日/TWIN-GPT_Digital_Twins_for_Clinical_Trials_via_Large_Language_Model.md)
 
-    - [翻译: ](2024年04月01日/TWIN-GPT_Digital_Twins_for_Clinical_Trials_via_Large_Language_Model.md)
+    - [翻译: TWIN-GPT：借助大型语言模型，为临床试验打造数字孪生技术](2024年04月01日/TWIN-GPT_Digital_Twins_for_Clinical_Trials_via_Large_Language_Model.md)
 
 - [Mapping the Increasing Use of LLMs in Scientific Papers](2024年04月01日/Mapping_the_Increasing_Use_of_LLMs_in_Scientific_Papers.md)
 
-    - [翻译: ](2024年04月01日/Mapping_the_Increasing_Use_of_LLMs_in_Scientific_Papers.md)
+    - [翻译: 科学论文中大型语言模型（LLM）使用频率的增长已被详细记录。](2024年04月01日/Mapping_the_Increasing_Use_of_LLMs_in_Scientific_Papers.md)
 
 - [FABLES: Evaluating faithfulness and content selection in book-length summarization](2024年04月01日/FABLES_Evaluating_faithfulness_and_content_selection_in_book-length_summarization.md)
 
-    - [翻译: ](2024年04月01日/FABLES_Evaluating_faithfulness_and_content_selection_in_book-length_summarization.md)
+    - [翻译: FABLES：探究书籍摘要的真实度与内容筛选](2024年04月01日/FABLES_Evaluating_faithfulness_and_content_selection_in_book-length_summarization.md)
 
 - [UniArk: Improving Generalisation and Consistency for Factual Knowledge Extraction through Debiasing](2024年04月01日/UniArk_Improving_Generalisation_and_Consistency_for_Factual_Knowledge_Extraction_through_Debiasing.md)
 
-    - [翻译: ](2024年04月01日/UniArk_Improving_Generalisation_and_Consistency_for_Factual_Knowledge_Extraction_through_Debiasing.md)
+    - [翻译: UniArk 通过去偏技术，增强了事实知识提取的泛化与一致性，提升了整体性能。](2024年04月01日/UniArk_Improving_Generalisation_and_Consistency_for_Factual_Knowledge_Extraction_through_Debiasing.md)
 
 - [A Statistical Framework of Watermarks for Large Language Models: Pivot, Detection Efficiency and Optimal Rules](2024年04月01日/A_Statistical_Framework_of_Watermarks_for_Large_Language_Models_Pivot,_Detection_Efficiency_and_Optimal_Rules.md)
 
-    - [翻译: ](2024年04月01日/A_Statistical_Framework_of_Watermarks_for_Large_Language_Models_Pivot,_Detection_Efficiency_and_Optimal_Rules.md)
+    - [翻译: 针对大型语言模型，本文提出了一个水印的统计学框架，探讨了水印的枢纽作用、检测效率以及如何制定最优规则。](2024年04月01日/A_Statistical_Framework_of_Watermarks_for_Large_Language_Models_Pivot,_Detection_Efficiency_and_Optimal_Rules.md)
 
 - [Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models](2024年04月01日/Privacy_Backdoors_Enhancing_Membership_Inference_through_Poisoning_Pre-trained_Models.md)
 
-    - [翻译: ](2024年04月01日/Privacy_Backdoors_Enhancing_Membership_Inference_through_Poisoning_Pre-trained_Models.md)
+    - [翻译: 通过在预训练模型中植入污染信息，我们能够增强对模型成员身份的推断能力，从而打开隐私保护的后门。](2024年04月01日/Privacy_Backdoors_Enhancing_Membership_Inference_through_Poisoning_Pre-trained_Models.md)
 
 - [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](2024年04月01日/Machine_Unlearning_for_Traditional_Models_and_Large_Language_Models_A_Short_Survey.md)
 
-    - [翻译: ](2024年04月01日/Machine_Unlearning_for_Traditional_Models_and_Large_Language_Models_A_Short_Survey.md)
+    - [翻译: 本综述简要探讨了传统模型与大型语言模型中的机器去学习技术。](2024年04月01日/Machine_Unlearning_for_Traditional_Models_and_Large_Language_Models_A_Short_Survey.md)
 
 - [The Fine Line: Navigating Large Language Model Pretraining with Down-streaming Capability Analysis](2024年04月01日/The_Fine_Line_Navigating_Large_Language_Model_Pretraining_with_Down-streaming_Capability_Analysis.md)
 
-    - [翻译: ](2024年04月01日/The_Fine_Line_Navigating_Large_Language_Model_Pretraining_with_Down-streaming_Capability_Analysis.md)
+    - [翻译: 《探寻平衡：借助下游能力分析来引导大型语言模型的预训练》](2024年04月01日/The_Fine_Line_Navigating_Large_Language_Model_Pretraining_with_Down-streaming_Capability_Analysis.md)
 
 - [Getting it Right: Improving Spatial Consistency in Text-to-Image Models](2024年04月01日/Getting_it_Right_Improving_Spatial_Consistency_in_Text-to-Image_Models.md)
 
-    - [翻译: ](2024年04月01日/Getting_it_Right_Improving_Spatial_Consistency_in_Text-to-Image_Models.md)
+    - [翻译: 精准把握：提升文本转图像模型的空间连贯性](2024年04月01日/Getting_it_Right_Improving_Spatial_Consistency_in_Text-to-Image_Models.md)
 
 - [Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training](2024年04月01日/Green_AI_Exploring_Carbon_Footprints,_Mitigation_Strategies,_and_Trade_Offs_in_Large_Language_Model_Training.md)
 
-    - [翻译: ](2024年04月01日/Green_AI_Exploring_Carbon_Footprints,_Mitigation_Strategies,_and_Trade_Offs_in_Large_Language_Model_Training.md)
+    - [翻译: 绿色AI：研究大型语言模型训练过程中的碳排放、减排措施及其平衡之道。](2024年04月01日/Green_AI_Exploring_Carbon_Footprints,_Mitigation_Strategies,_and_Trade_Offs_in_Large_Language_Model_Training.md)
 
 - [SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining](2024年04月01日/SyncMask_Synchronized_Attentional_Masking_for_Fashion-centric_Vision-Language_Pretraining.md)
 
-    - [翻译: ](2024年04月01日/SyncMask_Synchronized_Attentional_Masking_for_Fashion-centric_Vision-Language_Pretraining.md)
+    - [翻译: SyncMask：为时尚导向视觉-语言预训练设计的同步注意力屏蔽技术](2024年04月01日/SyncMask_Synchronized_Attentional_Masking_for_Fashion-centric_Vision-Language_Pretraining.md)
 
 - [Do LLMs Find Human Answers To Fact-Driven Questions Perplexing? A Case Study on Reddit](2024年04月01日/Do_LLMs_Find_Human_Answers_To_Fact-Driven_Questions_Perplexing_A_Case_Study_on_Reddit.md)
 
-    - [翻译: ](2024年04月01日/Do_LLMs_Find_Human_Answers_To_Fact-Driven_Questions_Perplexing_A_Case_Study_on_Reddit.md)
+    - [翻译: 在Reddit上的案例研究：大型语言模型真的搞不懂人类对事实问题的答案吗？](2024年04月01日/Do_LLMs_Find_Human_Answers_To_Fact-Driven_Questions_Perplexing_A_Case_Study_on_Reddit.md)
 
 - [Enhancing Reasoning Capacity of SLM using Cognitive Enhancement](2024年04月01日/Enhancing_Reasoning_Capacity_of_SLM_using_Cognitive_Enhancement.md)
 
-    - [翻译: ](2024年04月01日/Enhancing_Reasoning_Capacity_of_SLM_using_Cognitive_Enhancement.md)
+    - [翻译: 通过认知增强技术，我们能够提升小型语言模型（SLM）的推理能力。](2024年04月01日/Enhancing_Reasoning_Capacity_of_SLM_using_Cognitive_Enhancement.md)
 
 - [Structured Information Matters: Incorporating Abstract Meaning Representation into LLMs for Improved Open-Domain Dialogue Evaluation](2024年04月01日/Structured_Information_Matters_Incorporating_Abstract_Meaning_Representation_into_LLMs_for_Improved_Open-Domain_Dialogue_Evaluation.md)
 
-    - [翻译: ](2024年04月01日/Structured_Information_Matters_Incorporating_Abstract_Meaning_Representation_into_LLMs_for_Improved_Open-Domain_Dialogue_Evaluation.md)
+    - [翻译: 结构化信息至关重要：在大型语言模型中整合抽象意义表示，以优化开放领域对话的评估效果。](2024年04月01日/Structured_Information_Matters_Incorporating_Abstract_Meaning_Representation_into_LLMs_for_Improved_Open-Domain_Dialogue_Evaluation.md)
 
 - [What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety](2024年04月01日/What's_in_Your_Safe_Data_Identifying_Benign_Data_that_Breaks_Safety.md)
 
-    - [翻译: ](2024年04月01日/What's_in_Your_Safe_Data_Identifying_Benign_Data_that_Breaks_Safety.md)
+    - [翻译: 揭秘“安全”数据：发现看似无害却危害安全的数据。](2024年04月01日/What's_in_Your_Safe_Data_Identifying_Benign_Data_that_Breaks_Safety.md)
 
 - [Enabling Memory Safety of C Programs using LLMs](2024年04月01日/Enabling_Memory_Safety_of_C_Programs_using_LLMs.md)
 
-    - [翻译: ](2024年04月01日/Enabling_Memory_Safety_of_C_Programs_using_LLMs.md)
+    - [翻译: 通过大型语言模型 (LLM) 保障 C 程序的内存安全。](2024年04月01日/Enabling_Memory_Safety_of_C_Programs_using_LLMs.md)
 
 - [Efficient Prompting Methods for Large Language Models: A Survey](2024年04月01日/Efficient_Prompting_Methods_for_Large_Language_Models_A_Survey.md)
 
-    - [翻译: ](2024年04月01日/Efficient_Prompting_Methods_for_Large_Language_Models_A_Survey.md)
+    - [翻译: 大型语言模型的高效提示技巧：全面调查研究](2024年04月01日/Efficient_Prompting_Methods_for_Large_Language_Models_A_Survey.md)
 
 - [Chat Modeling: Natural Language-based Procedural Modeling of Biological Structures without Training](2024年04月01日/Chat_Modeling_Natural_Language-based_Procedural_Modeling_of_Biological_Structures_without_Training.md)
 
