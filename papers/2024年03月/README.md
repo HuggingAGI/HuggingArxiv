@@ -140,7 +140,7 @@
 
 - [DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model](2024年03月31日/DiffAgent_Fast_and_Accurate_Text-to-Image_API_Selection_with_Large_Language_Model.md)
 
-    - [翻译: ](2024年03月31日/DiffAgent_Fast_and_Accurate_Text-to-Image_API_Selection_with_Large_Language_Model.md)
+    - [翻译: DiffAgent：借助大型语言模型，实现高效精准的文本到图像API匹配](2024年03月31日/DiffAgent_Fast_and_Accurate_Text-to-Image_API_Selection_with_Large_Language_Model.md)
 
 2024年03月30日
 
@@ -242,7 +242,7 @@
 
 - [Augmenting NER Datasets with LLMs: Towards Automated and Refined Annotation](2024年03月30日/Augmenting_NER_Datasets_with_LLMs_Towards_Automated_and_Refined_Annotation.md)
 
-    - [翻译: ](2024年03月30日/Augmenting_NER_Datasets_with_LLMs_Towards_Automated_and_Refined_Annotation.md)
+    - [翻译: 借助大型语言模型，我们能够扩充命名实体识别数据集，迈向自动化且更为精细的注释工作。](2024年03月30日/Augmenting_NER_Datasets_with_LLMs_Towards_Automated_and_Refined_Annotation.md)
 
 2024年03月29日
 
@@ -428,11 +428,11 @@
 
 - [Wait, It's All Token Noise? Always Has Been: Interpreting LLM Behavior Using Shapley Value](2024年03月29日/Wait,_It's_All_Token_Noise_Always_Has_Been_Interpreting_LLM_Behavior_Using_Shapley_Value.md)
 
-    - [翻译: ](2024年03月29日/Wait,_It's_All_Token_Noise_Always_Has_Been_Interpreting_LLM_Behavior_Using_Shapley_Value.md)
+    - [翻译: 等等，难道这一切仅仅是标记噪声？从始至终都是如此：通过 Shapley 值来解读大型语言模型（LLM）的行为特征。](2024年03月29日/Wait,_It's_All_Token_Noise_Always_Has_Been_Interpreting_LLM_Behavior_Using_Shapley_Value.md)
 
 - [LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact Language Model](2024年03月29日/LLaVA-Gemma_Accelerating_Multimodal_Foundation_Models_with_a_Compact_Language_Model.md)
 
-    - [翻译: ](2024年03月29日/LLaVA-Gemma_Accelerating_Multimodal_Foundation_Models_with_a_Compact_Language_Model.md)
+    - [翻译: LLaVA-Gemma：借助轻量级语言模型，快速推进多模态基础模型发展](2024年03月29日/LLaVA-Gemma_Accelerating_Multimodal_Foundation_Models_with_a_Compact_Language_Model.md)
 
 2024年03月28日
 
@@ -666,7 +666,7 @@
 
 - [A Review of Multi-Modal Large Language and Vision Models](2024年03月28日/A_Review_of_Multi-Modal_Large_Language_and_Vision_Models.md)
 
-    - [翻译: ](2024年03月28日/A_Review_of_Multi-Modal_Large_Language_and_Vision_Models.md)
+    - [翻译: 本文综述了多模态大型语言和视觉模型，探讨了它们在理解和处理多种信息类型方面的能力和应用。](2024年03月28日/A_Review_of_Multi-Modal_Large_Language_and_Vision_Models.md)
 
 2024年03月27日
 
@@ -904,11 +904,11 @@
 
 - [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](2024年03月27日/JailbreakBench_An_Open_Robustness_Benchmark_for_Jailbreaking_Large_Language_Models.md)
 
-    - [翻译: ](2024年03月27日/JailbreakBench_An_Open_Robustness_Benchmark_for_Jailbreaking_Large_Language_Models.md)
+    - [翻译: JailbreakBench：为破解大型语言模型而设立的开放性鲁棒性评估标准。](2024年03月27日/JailbreakBench_An_Open_Robustness_Benchmark_for_Jailbreaking_Large_Language_Models.md)
 
 - [Intelligent Learning Rate Distribution to reduce Catastrophic Forgetting in Transformers](2024年03月27日/Intelligent_Learning_Rate_Distribution_to_reduce_Catastrophic_Forgetting_in_Transformers.md)
 
-    - [翻译: ](2024年03月27日/Intelligent_Learning_Rate_Distribution_to_reduce_Catastrophic_Forgetting_in_Transformers.md)
+    - [翻译: 为了减轻变换器中的灾难性遗忘问题，本文提出了一种智能学习率分配策略。](2024年03月27日/Intelligent_Learning_Rate_Distribution_to_reduce_Catastrophic_Forgetting_in_Transformers.md)
 
 2024年03月26日
 
