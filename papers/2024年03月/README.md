@@ -132,11 +132,11 @@
 
 - [Fairness in Large Language Models: A Taxonomic Survey](2024年03月31日/Fairness_in_Large_Language_Models_A_Taxonomic_Survey.md)
 
-    - [翻译: ](2024年03月31日/Fairness_in_Large_Language_Models_A_Taxonomic_Survey.md)
+    - [翻译: 在大型语言模型中探讨公平性问题：一项系统性综述](2024年03月31日/Fairness_in_Large_Language_Models_A_Taxonomic_Survey.md)
 
 - [CHOPS: CHat with custOmer Profile Systems for Customer Service with LLMs](2024年03月31日/CHOPS_CHat_with_custOmer_Profile_Systems_for_Customer_Service_with_LLMs.md)
 
-    - [翻译: ](2024年03月31日/CHOPS_CHat_with_custOmer_Profile_Systems_for_Customer_Service_with_LLMs.md)
+    - [翻译: CHOPS：借助客户档案系统，与大型语言模型 (LLM) 展开高效客户服务对话](2024年03月31日/CHOPS_CHat_with_custOmer_Profile_Systems_for_Customer_Service_with_LLMs.md)
 
 - [DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model](2024年03月31日/DiffAgent_Fast_and_Accurate_Text-to-Image_API_Selection_with_Large_Language_Model.md)
 

@@ -450,28 +450,28 @@
 
 - [Position-Aware Parameter Efficient Fine-Tuning Approach for Reducing Positional Bias in LLMs](2024年04月01日/Position-Aware_Parameter_Efficient_Fine-Tuning_Approach_for_Reducing_Positional_Bias_in_LLMs.md)
 
-    - [翻译: ](2024年04月01日/Position-Aware_Parameter_Efficient_Fine-Tuning_Approach_for_Reducing_Positional_Bias_in_LLMs.md)
+    - [翻译: 为了降低大型语言模型中的位置偏见，我们采用了一种位置感知的高效微调策略。](2024年04月01日/Position-Aware_Parameter_Efficient_Fine-Tuning_Approach_for_Reducing_Positional_Bias_in_LLMs.md)
 
 - [A Preliminary Roadmap for LLMs as Assistants in Exploring, Analyzing, and Visualizing Knowledge Graphs](2024年04月01日/A_Preliminary_Roadmap_for_LLMs_as_Assistants_in_Exploring,_Analyzing,_and_Visualizing_Knowledge_Graphs.md)
 
-    - [翻译: ](2024年04月01日/A_Preliminary_Roadmap_for_LLMs_as_Assistants_in_Exploring,_Analyzing,_and_Visualizing_Knowledge_Graphs.md)
+    - [翻译: 探索、分析及可视化知识图谱的大型语言模型助手的初步指南。](2024年04月01日/A_Preliminary_Roadmap_for_LLMs_as_Assistants_in_Exploring,_Analyzing,_and_Visualizing_Knowledge_Graphs.md)
 
 - [OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation](2024年04月01日/OVFoodSeg_Elevating_Open-Vocabulary_Food_Image_Segmentation_via_Image-Informed_Textual_Representation.md)
 
-    - [翻译: ](2024年04月01日/OVFoodSeg_Elevating_Open-Vocabulary_Food_Image_Segmentation_via_Image-Informed_Textual_Representation.md)
+    - [翻译: OVFoodSeg: 利用图像信息增强文本表达，提升食品图像的开放词汇量分割技术](2024年04月01日/OVFoodSeg_Elevating_Open-Vocabulary_Food_Image_Segmentation_via_Image-Informed_Textual_Representation.md)
 
 - [Developing Safe and Responsible Large Language Models -- A Comprehensive Framework](2024年04月01日/Developing_Safe_and_Responsible_Large_Language_Models_--_A_Comprehensive_Framework.md)
 
-    - [翻译: ](2024年04月01日/Developing_Safe_and_Responsible_Large_Language_Models_--_A_Comprehensive_Framework.md)
+    - [翻译: 构建安全可靠的大型语言模型：全方位框架探究](2024年04月01日/Developing_Safe_and_Responsible_Large_Language_Models_--_A_Comprehensive_Framework.md)
 
 - [Prompt-prompted Mixture of Experts for Efficient LLM Generation](2024年04月01日/Prompt-prompted_Mixture_of_Experts_for_Efficient_LLM_Generation.md)
 
-    - [翻译: ](2024年04月01日/Prompt-prompted_Mixture_of_Experts_for_Efficient_LLM_Generation.md)
+    - [翻译: 通过专家混合的提示-提示策略，我们能够有效地生成大型语言模型。](2024年04月01日/Prompt-prompted_Mixture_of_Experts_for_Efficient_LLM_Generation.md)
 
 - [LLM Attributor: Interactive Visual Attribution for LLM Generation](2024年04月01日/LLM_Attributor_Interactive_Visual_Attribution_for_LLM_Generation.md)
 
-    - [翻译: ](2024年04月01日/LLM_Attributor_Interactive_Visual_Attribution_for_LLM_Generation.md)
+    - [翻译: LLM 属性归因器：为大型语言模型生成提供交互式视觉归因功能。](2024年04月01日/LLM_Attributor_Interactive_Visual_Attribution_for_LLM_Generation.md)
 
 - [Leveraging YOLO-World and GPT-4V LMMs for Zero-Shot Person Detection and Action Recognition in Drone Imagery](2024年04月01日/Leveraging_YOLO-World_and_GPT-4V_LMMs_for_Zero-Shot_Person_Detection_and_Action_Recognition_in_Drone_Imagery.md)
 
-    - [翻译: ](2024年04月01日/Leveraging_YOLO-World_and_GPT-4V_LMMs_for_Zero-Shot_Person_Detection_and_Action_Recognition_in_Drone_Imagery.md)
+    - [翻译: 通过运用 YOLO-World 与 GPT-4V 语言模型，实现无人机图像中的零-shot 人员探测与行为识别。](2024年04月01日/Leveraging_YOLO-World_and_GPT-4V_LMMs_for_Zero-Shot_Person_Detection_and_Action_Recognition_in_Drone_Imagery.md)
