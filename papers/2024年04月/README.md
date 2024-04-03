@@ -156,47 +156,47 @@
 
 - [Deconstructing In-Context Learning: Understanding Prompts via Corruption](2024年04月02日/Deconstructing_In-Context_Learning_Understanding_Prompts_via_Corruption.md)
 
-    - [翻译: ](2024年04月02日/Deconstructing_In-Context_Learning_Understanding_Prompts_via_Corruption.md)
+    - [翻译: 探究上下文学习之谜：通过干扰手段剖析提示的本质](2024年04月02日/Deconstructing_In-Context_Learning_Understanding_Prompts_via_Corruption.md)
 
 - [MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages](2024年04月02日/MultiParaDetox_Extending_Text_Detoxification_with_Parallel_Data_to_New_Languages.md)
 
-    - [翻译: ](2024年04月02日/MultiParaDetox_Extending_Text_Detoxification_with_Parallel_Data_to_New_Languages.md)
+    - [翻译: MultiParaDetox：利用并行文本数据，将文本净化技术推广至更多语言。](2024年04月02日/MultiParaDetox_Extending_Text_Detoxification_with_Parallel_Data_to_New_Languages.md)
 
 - [MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving](2024年04月02日/MuxServe_Flexible_Multiplexing_for_Efficient_Multiple_LLM_Serving.md)
 
-    - [翻译: ](2024年04月02日/MuxServe_Flexible_Multiplexing_for_Efficient_Multiple_LLM_Serving.md)
+    - [翻译: MuxServe 通过灵活的多路复用技术，为多个大型语言模型（LLM）提供高效服务。](2024年04月02日/MuxServe_Flexible_Multiplexing_for_Efficient_Multiple_LLM_Serving.md)
 
 - [HyperCLOVA X Technical Report](2024年04月02日/HyperCLOVA_X_Technical_Report.md)
 
-    - [翻译: ](2024年04月02日/HyperCLOVA_X_Technical_Report.md)
+    - [翻译: 《超能CLOVA X》技术研究报告](2024年04月02日/HyperCLOVA_X_Technical_Report.md)
 
 - [Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation](2024年04月02日/Towards_Better_Understanding_of_Cybercrime_The_Role_of_Fine-Tuned_LLMs_in_Translation.md)
 
-    - [翻译: ](2024年04月02日/Towards_Better_Understanding_of_Cybercrime_The_Role_of_Fine-Tuned_LLMs_in_Translation.md)
+    - [翻译: 探索网络犯罪的深层含义：精细化调整的大型语言模型在翻译工作中的角色。](2024年04月02日/Towards_Better_Understanding_of_Cybercrime_The_Role_of_Fine-Tuned_LLMs_in_Translation.md)
 
 - [SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation](2024年04月02日/SGSH_Stimulate_Large_Language_Models_with_Skeleton_Heuristics_for_Knowledge_Base_Question_Generation.md)
 
-    - [翻译: ](2024年04月02日/SGSH_Stimulate_Large_Language_Models_with_Skeleton_Heuristics_for_Knowledge_Base_Question_Generation.md)
+    - [翻译: SGSH：运用骨架启发式策略激活大型语言模型，助力知识库提问生成。](2024年04月02日/SGSH_Stimulate_Large_Language_Models_with_Skeleton_Heuristics_for_Knowledge_Base_Question_Generation.md)
 
 - [Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack](2024年04月02日/Humanizing_Machine-Generated_Content_Evading_AI-Text_Detection_through_Adversarial_Attack.md)
 
-    - [翻译: ](2024年04月02日/Humanizing_Machine-Generated_Content_Evading_AI-Text_Detection_through_Adversarial_Attack.md)
+    - [翻译: 机器内容拟人化：通过对抗性策略规避AI文本识别技术。](2024年04月02日/Humanizing_Machine-Generated_Content_Evading_AI-Text_Detection_through_Adversarial_Attack.md)
 
 - [Minimize Quantization Output Error with Bias Compensation](2024年04月02日/Minimize_Quantization_Output_Error_with_Bias_Compensation.md)
 
-    - [翻译: ](2024年04月02日/Minimize_Quantization_Output_Error_with_Bias_Compensation.md)
+    - [翻译: 采用偏差校正法降低量化输出误差](2024年04月02日/Minimize_Quantization_Output_Error_with_Bias_Compensation.md)
 
 - [Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](2024年04月02日/Beyond_Accuracy_Evaluating_the_Reasoning_Behavior_of_Large_Language_Models_--_A_Survey.md)
 
-    - [翻译: ](2024年04月02日/Beyond_Accuracy_Evaluating_the_Reasoning_Behavior_of_Large_Language_Models_--_A_Survey.md)
+    - [翻译: 探究大型语言模型的推理表现：准确性之外的评估视角 -- 一项全面调查](2024年04月02日/Beyond_Accuracy_Evaluating_the_Reasoning_Behavior_of_Large_Language_Models_--_A_Survey.md)
 
 - [Poro 34B and the Blessing of Multilinguality](2024年04月02日/Poro_34B_and_the_Blessing_of_Multilinguality.md)
 
-    - [翻译: ](2024年04月02日/Poro_34B_and_the_Blessing_of_Multilinguality.md)
+    - [翻译: 探索 Poro 34B：多语言能力的优势与挑战](2024年04月02日/Poro_34B_and_the_Blessing_of_Multilinguality.md)
 
 - [Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation](2024年04月02日/Where_to_Move_Next_Zero-shot_Generalization_of_LLMs_for_Next_POI_Recommendation.md)
 
-    - [翻译: ](2024年04月02日/Where_to_Move_Next_Zero-shot_Generalization_of_LLMs_for_Next_POI_Recommendation.md)
+    - [翻译: 下一站去哪儿：大型语言模型的零-shot 泛化技术助力下一个热门景点推荐](2024年04月02日/Where_to_Move_Next_Zero-shot_Generalization_of_LLMs_for_Next_POI_Recommendation.md)
 
 2024年04月01日
 
@@ -390,63 +390,63 @@
 
 - [LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models](2024年04月01日/LLM-ABR_Designing_Adaptive_Bitrate_Algorithms_via_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月01日/LLM-ABR_Designing_Adaptive_Bitrate_Algorithms_via_Large_Language_Models.md)
+    - [翻译: LLM-ABR：借助大型语言模型打造智能自适应码率算法](2024年04月01日/LLM-ABR_Designing_Adaptive_Bitrate_Algorithms_via_Large_Language_Models.md)
 
 - [Transforming LLMs into Cross-modal and Cross-lingual RetrievalSystems](2024年04月01日/Transforming_LLMs_into_Cross-modal_and_Cross-lingual_RetrievalSystems.md)
 
-    - [翻译: ](2024年04月01日/Transforming_LLMs_into_Cross-modal_and_Cross-lingual_RetrievalSystems.md)
+    - [翻译: 将大型语言模型打造成跨界的检索系统，实现跨模态与跨语言的无缝对接。](2024年04月01日/Transforming_LLMs_into_Cross-modal_and_Cross-lingual_RetrievalSystems.md)
 
 - [Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game](2024年04月01日/Helmsman_of_the_Masses_Evaluate_the_Opinion_Leadership_of_Large_Language_Models_in_the_Werewolf_Game.md)
 
-    - [翻译: ](2024年04月01日/Helmsman_of_the_Masses_Evaluate_the_Opinion_Leadership_of_Large_Language_Models_in_the_Werewolf_Game.md)
+    - [翻译: 引领民意？探究大型语言模型在狼人游戏中的舆论引导作用。](2024年04月01日/Helmsman_of_the_Masses_Evaluate_the_Opinion_Leadership_of_Large_Language_Models_in_the_Werewolf_Game.md)
 
 - [Classifying Cancer Stage with Open-Source Clinical Large Language Models](2024年04月01日/Classifying_Cancer_Stage_with_Open-Source_Clinical_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月01日/Classifying_Cancer_Stage_with_Open-Source_Clinical_Large_Language_Models.md)
+    - [翻译: 本研究探讨了运用开源临床大型语言模型对癌症阶段进行精确分类的方法。](2024年04月01日/Classifying_Cancer_Stage_with_Open-Source_Clinical_Large_Language_Models.md)
 
 - [Hallucination Diversity-Aware Active Learning for Text Summarization](2024年04月01日/Hallucination_Diversity-Aware_Active_Learning_for_Text_Summarization.md)
 
-    - [翻译: ](2024年04月01日/Hallucination_Diversity-Aware_Active_Learning_for_Text_Summarization.md)
+    - [翻译: 在文本摘要中，我们采用一种幻觉多样性感知的主动学习方法。](2024年04月01日/Hallucination_Diversity-Aware_Active_Learning_for_Text_Summarization.md)
 
 - [Evaluating Large Language Models Using Contrast Sets: An Experimental Approach](2024年04月01日/Evaluating_Large_Language_Models_Using_Contrast_Sets_An_Experimental_Approach.md)
 
-    - [翻译: ](2024年04月01日/Evaluating_Large_Language_Models_Using_Contrast_Sets_An_Experimental_Approach.md)
+    - [翻译: 通过对比集对大型语言模型进行评估：探索性实验途径](2024年04月01日/Evaluating_Large_Language_Models_Using_Contrast_Sets_An_Experimental_Approach.md)
 
 - [Automated User Story Generation with Test Case Specification Using Large Language Model](2024年04月01日/Automated_User_Story_Generation_with_Test_Case_Specification_Using_Large_Language_Model.md)
 
-    - [翻译: ](2024年04月01日/Automated_User_Story_Generation_with_Test_Case_Specification_Using_Large_Language_Model.md)
+    - [翻译: 借助大型语言模型，实现自动化的用户故事创建，并配备测试用例规范。](2024年04月01日/Automated_User_Story_Generation_with_Test_Case_Specification_Using_Large_Language_Model.md)
 
 - [Octopus: On-device language model for function calling of software APIs](2024年04月01日/Octopus_On-device_language_model_for_function_calling_of_software_APIs.md)
 
-    - [翻译: ](2024年04月01日/Octopus_On-device_language_model_for_function_calling_of_software_APIs.md)
+    - [翻译: 章鱼：一款适用于软件API功能调用的设备端语言模型](2024年04月01日/Octopus_On-device_language_model_for_function_calling_of_software_APIs.md)
 
 - [Syntactic Robustness for LLM-based Code Generation](2024年04月01日/Syntactic_Robustness_for_LLM-based_Code_Generation.md)
 
-    - [翻译: ](2024年04月01日/Syntactic_Robustness_for_LLM-based_Code_Generation.md)
+    - [翻译: 在大型语言模型（LLM）支持下，代码生成的句法鲁棒性研究](2024年04月01日/Syntactic_Robustness_for_LLM-based_Code_Generation.md)
 
 - [Set-Aligning Framework for Auto-Regressive Event Temporal Graph Generation](2024年04月01日/Set-Aligning_Framework_for_Auto-Regressive_Event_Temporal_Graph_Generation.md)
 
-    - [翻译: ](2024年04月01日/Set-Aligning_Framework_for_Auto-Regressive_Event_Temporal_Graph_Generation.md)
+    - [翻译: 自回归事件时序图的生成采用集合对齐框架](2024年04月01日/Set-Aligning_Framework_for_Auto-Regressive_Event_Temporal_Graph_Generation.md)
 
 - [A Study on Scaling Up Multilingual News Framing Analysis](2024年04月01日/A_Study_on_Scaling_Up_Multilingual_News_Framing_Analysis.md)
 
-    - [翻译: ](2024年04月01日/A_Study_on_Scaling_Up_Multilingual_News_Framing_Analysis.md)
+    - [翻译: 本研究探讨了如何扩展多语言新闻框架分析的规模，旨在提高跨语言和文化背景下新闻报道的理解和分析能力。](2024年04月01日/A_Study_on_Scaling_Up_Multilingual_News_Framing_Analysis.md)
 
 - [TraveLER: A Multi-LMM Agent Framework for Video Question-Answering](2024年04月01日/TraveLER_A_Multi-LMM_Agent_Framework_for_Video_Question-Answering.md)
 
-    - [翻译: ](2024年04月01日/TraveLER_A_Multi-LMM_Agent_Framework_for_Video_Question-Answering.md)
+    - [翻译: TraveLER：面向视频问答任务的多语言模型代理框架](2024年04月01日/TraveLER_A_Multi-LMM_Agent_Framework_for_Video_Question-Answering.md)
 
 - [Are large language models superhuman chemists?](2024年04月01日/Are_large_language_models_superhuman_chemists.md)
 
-    - [翻译: ](2024年04月01日/Are_large_language_models_superhuman_chemists.md)
+    - [翻译: 大型语言模型能否媲美超级化学家？](2024年04月01日/Are_large_language_models_superhuman_chemists.md)
 
 - [Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs](2024年04月01日/Will_the_Real_Linda_Please_Stand_up...to_Large_Language_Models_Examining_the_Representativeness_Heuristic_in_LLMs.md)
 
-    - [翻译: ](2024年04月01日/Will_the_Real_Linda_Please_Stand_up...to_Large_Language_Models_Examining_the_Representativeness_Heuristic_in_LLMs.md)
+    - [翻译: 琳达能否勇敢地面对大型语言模型？探究LLMs中的代表性启发式原理。](2024年04月01日/Will_the_Real_Linda_Please_Stand_up...to_Large_Language_Models_Examining_the_Representativeness_Heuristic_in_LLMs.md)
 
 - [Unveiling Divergent Inductive Biases of LLMs on Temporal Data](2024年04月01日/Unveiling_Divergent_Inductive_Biases_of_LLMs_on_Temporal_Data.md)
 
-    - [翻译: ](2024年04月01日/Unveiling_Divergent_Inductive_Biases_of_LLMs_on_Temporal_Data.md)
+    - [翻译: 探究大型语言模型处理时间数据时的多样化归纳偏好](2024年04月01日/Unveiling_Divergent_Inductive_Biases_of_LLMs_on_Temporal_Data.md)
 
 - [Position-Aware Parameter Efficient Fine-Tuning Approach for Reducing Positional Bias in LLMs](2024年04月01日/Position-Aware_Parameter_Efficient_Fine-Tuning_Approach_for_Reducing_Positional_Bias_in_LLMs.md)
 
