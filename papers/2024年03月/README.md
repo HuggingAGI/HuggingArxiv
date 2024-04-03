@@ -130,6 +130,18 @@
 
     - [翻译: M3D：借助多模态大型语言模型，推动三维医学图像分析技术向前发展。](2024年03月31日/M3D_Advancing_3D_Medical_Image_Analysis_with_Multi-Modal_Large_Language_Models.md)
 
+- [Fairness in Large Language Models: A Taxonomic Survey](2024年03月31日/Fairness_in_Large_Language_Models_A_Taxonomic_Survey.md)
+
+    - [翻译: ](2024年03月31日/Fairness_in_Large_Language_Models_A_Taxonomic_Survey.md)
+
+- [CHOPS: CHat with custOmer Profile Systems for Customer Service with LLMs](2024年03月31日/CHOPS_CHat_with_custOmer_Profile_Systems_for_Customer_Service_with_LLMs.md)
+
+    - [翻译: ](2024年03月31日/CHOPS_CHat_with_custOmer_Profile_Systems_for_Customer_Service_with_LLMs.md)
+
+- [DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model](2024年03月31日/DiffAgent_Fast_and_Accurate_Text-to-Image_API_Selection_with_Large_Language_Model.md)
+
+    - [翻译: ](2024年03月31日/DiffAgent_Fast_and_Accurate_Text-to-Image_API_Selection_with_Large_Language_Model.md)
+
 2024年03月30日
 
 - [MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text](2024年03月30日/MaGRITTe_Manipulative_and_Generative_3D_Realization_from_Image,_Topview_and_Text.md)
@@ -227,6 +239,10 @@
 - [LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion](2024年03月30日/LAKE-RED_Camouflaged_Images_Generation_by_Latent_Background_Knowledge_Retrieval-Augmented_Diffusion.md)
 
     - [翻译: LAKE-RED：利用潜在背景知识检索技术，扩散模型打造隐蔽伪装图像](2024年03月30日/LAKE-RED_Camouflaged_Images_Generation_by_Latent_Background_Knowledge_Retrieval-Augmented_Diffusion.md)
+
+- [Augmenting NER Datasets with LLMs: Towards Automated and Refined Annotation](2024年03月30日/Augmenting_NER_Datasets_with_LLMs_Towards_Automated_and_Refined_Annotation.md)
+
+    - [翻译: ](2024年03月30日/Augmenting_NER_Datasets_with_LLMs_Towards_Automated_and_Refined_Annotation.md)
 
 2024年03月29日
 
@@ -409,6 +425,14 @@
 - [Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections](2024年03月29日/Classifying_Conspiratorial_Narratives_At_Scale_False_Alarms_and_Erroneous_Connections.md)
 
     - [翻译: 大规模识别阴谋论叙事：避免误报与错误的关联](2024年03月29日/Classifying_Conspiratorial_Narratives_At_Scale_False_Alarms_and_Erroneous_Connections.md)
+
+- [Wait, It's All Token Noise? Always Has Been: Interpreting LLM Behavior Using Shapley Value](2024年03月29日/Wait,_It's_All_Token_Noise_Always_Has_Been_Interpreting_LLM_Behavior_Using_Shapley_Value.md)
+
+    - [翻译: ](2024年03月29日/Wait,_It's_All_Token_Noise_Always_Has_Been_Interpreting_LLM_Behavior_Using_Shapley_Value.md)
+
+- [LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact Language Model](2024年03月29日/LLaVA-Gemma_Accelerating_Multimodal_Foundation_Models_with_a_Compact_Language_Model.md)
+
+    - [翻译: ](2024年03月29日/LLaVA-Gemma_Accelerating_Multimodal_Foundation_Models_with_a_Compact_Language_Model.md)
 
 2024年03月28日
 
@@ -639,6 +663,10 @@
 - [FairRAG: Fair Human Generation via Fair Retrieval Augmentation](2024年03月28日/FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation.md)
 
     - [翻译: FairRAG：借助公平检索扩展，实现公正的人工智能人物创作](2024年03月28日/FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation.md)
+
+- [A Review of Multi-Modal Large Language and Vision Models](2024年03月28日/A_Review_of_Multi-Modal_Large_Language_and_Vision_Models.md)
+
+    - [翻译: ](2024年03月28日/A_Review_of_Multi-Modal_Large_Language_and_Vision_Models.md)
 
 2024年03月27日
 
@@ -873,6 +901,14 @@
 - [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](2024年03月27日/HGT_Leveraging_Heterogeneous_Graph-enhanced_Large_Language_Models_for_Few-shot_Complex_Table_Understanding.md)
 
     - [翻译: HGT：借助异构图强化的大型语言模型，实现对复杂表格的少样本精准解读。](2024年03月27日/HGT_Leveraging_Heterogeneous_Graph-enhanced_Large_Language_Models_for_Few-shot_Complex_Table_Understanding.md)
+
+- [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](2024年03月27日/JailbreakBench_An_Open_Robustness_Benchmark_for_Jailbreaking_Large_Language_Models.md)
+
+    - [翻译: ](2024年03月27日/JailbreakBench_An_Open_Robustness_Benchmark_for_Jailbreaking_Large_Language_Models.md)
+
+- [Intelligent Learning Rate Distribution to reduce Catastrophic Forgetting in Transformers](2024年03月27日/Intelligent_Learning_Rate_Distribution_to_reduce_Catastrophic_Forgetting_in_Transformers.md)
+
+    - [翻译: ](2024年03月27日/Intelligent_Learning_Rate_Distribution_to_reduce_Catastrophic_Forgetting_in_Transformers.md)
 
 2024年03月26日
 
