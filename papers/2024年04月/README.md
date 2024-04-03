@@ -76,43 +76,127 @@
 
 - [InsightLens: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis](2024年04月02日/InsightLens_Discovering_and_Exploring_Insights_from_Conversational_Contexts_in_Large-Language-Model-Powered_Data_Analysis.md)
 
-    - [翻译: InsightLens：在大型语言模型支持的数据分析中，挖掘并探索对话语境的深层见解。](2024年04月02日/InsightLens_Discovering_and_Exploring_Insights_from_Conversational_Contexts_in_Large-Language-Model-Powered_Data_Analysis.md)
+    - [翻译: InsightLens：在大型语言模型支持的数据分析中，挖掘并探究对话语境的深层见解。](2024年04月02日/InsightLens_Discovering_and_Exploring_Insights_from_Conversational_Contexts_in_Large-Language-Model-Powered_Data_Analysis.md)
 
 - [Voice EHR: Introducing Multimodal Audio Data for Health](2024年04月02日/Voice_EHR_Introducing_Multimodal_Audio_Data_for_Health.md)
 
-    - [翻译: ](2024年04月02日/Voice_EHR_Introducing_Multimodal_Audio_Data_for_Health.md)
+    - [翻译: 语音电子健康记录（Voice EHR）：为健康领域带来多模态音频数据的新探索。](2024年04月02日/Voice_EHR_Introducing_Multimodal_Audio_Data_for_Health.md)
 
 - [CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems](2024年04月02日/CLAPNQ_Cohesive_Long-form_Answers_from_Passages_in_Natural_Questions_for_RAG_systems.md)
 
-    - [翻译: ](2024年04月02日/CLAPNQ_Cohesive_Long-form_Answers_from_Passages_in_Natural_Questions_for_RAG_systems.md)
+    - [翻译: CLAPNQ：针对RAG系统，从自然语言问题中提取段落，打造连贯且详尽的长篇幅回答。](2024年04月02日/CLAPNQ_Cohesive_Long-form_Answers_from_Passages_in_Natural_Questions_for_RAG_systems.md)
 
 - [Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts](2024年04月02日/Improving_Retrieval_Augmented_Open-Domain_Question-Answering_with_Vectorized_Contexts.md)
 
-    - [翻译: ](2024年04月02日/Improving_Retrieval_Augmented_Open-Domain_Question-Answering_with_Vectorized_Contexts.md)
+    - [翻译: 利用向量化上下文技术，我们旨在提升开放领域问答系统中的检索增强功能。](2024年04月02日/Improving_Retrieval_Augmented_Open-Domain_Question-Answering_with_Vectorized_Contexts.md)
 
 - [Towards Better Generalization in Open-Domain Question Answering by Mitigating Context Memorization](2024年04月02日/Towards_Better_Generalization_in_Open-Domain_Question_Answering_by_Mitigating_Context_Memorization.md)
 
-    - [翻译: ](2024年04月02日/Towards_Better_Generalization_in_Open-Domain_Question_Answering_by_Mitigating_Context_Memorization.md)
+    - [翻译: 为了在开放领域问答中获得更佳的泛化效果，本研究致力于减轻上下文记忆的影响。](2024年04月02日/Towards_Better_Generalization_in_Open-Domain_Question_Answering_by_Mitigating_Context_Memorization.md)
 
 - [Iterated Learning Improves Compositionality in Large Vision-Language Models](2024年04月02日/Iterated_Learning_Improves_Compositionality_in_Large_Vision-Language_Models.md)
 
-    - [翻译: ](2024年04月02日/Iterated_Learning_Improves_Compositionality_in_Large_Vision-Language_Models.md)
+    - [翻译: 通过迭代学习，大型视觉-语言模型的组合能力得到了显著提升。](2024年04月02日/Iterated_Learning_Improves_Compositionality_in_Large_Vision-Language_Models.md)
 
 - [A Survey on Large Language Model-Based Game Agents](2024年04月02日/A_Survey_on_Large_Language_Model-Based_Game_Agents.md)
 
-    - [翻译: ](2024年04月02日/A_Survey_on_Large_Language_Model-Based_Game_Agents.md)
+    - [翻译: 本文综述了基于大型语言模型的游戏代理的研究现状。](2024年04月02日/A_Survey_on_Large_Language_Model-Based_Game_Agents.md)
 
 - [Large Language Models for Orchestrating Bimanual Robots](2024年04月02日/Large_Language_Models_for_Orchestrating_Bimanual_Robots.md)
 
-    - [翻译: ](2024年04月02日/Large_Language_Models_for_Orchestrating_Bimanual_Robots.md)
+    - [翻译: 通过大型语言模型，我们能够精准地指挥双手机器人的协同工作。](2024年04月02日/Large_Language_Models_for_Orchestrating_Bimanual_Robots.md)
 
 - [Segment Any 3D Object with Language](2024年04月02日/Segment_Any_3D_Object_with_Language.md)
 
-    - [翻译: ](2024年04月02日/Segment_Any_3D_Object_with_Language.md)
+    - [翻译: 通过语言指令，轻松分割任意三维物体](2024年04月02日/Segment_Any_3D_Object_with_Language.md)
 
 - [Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks](2024年04月02日/Bridging_Language,_Vision_and_Action_Multimodal_VAEs_in_Robotic_Manipulation_Tasks.md)
 
-    - [翻译: ](2024年04月02日/Bridging_Language,_Vision_and_Action_Multimodal_VAEs_in_Robotic_Manipulation_Tasks.md)
+    - [翻译: 多模态变分自编码器（VAEs）在机器人操控任务中架起了语言、视觉与动作之间的桥梁。尽管如此，我们对于这些多模态VAEs在现实操作中的表现及其成效仍知之甚少。](2024年04月02日/Bridging_Language,_Vision_and_Action_Multimodal_VAEs_in_Robotic_Manipulation_Tasks.md)
+
+- [Topic-based Watermarks for LLM-Generated Text](2024年04月02日/Topic-based_Watermarks_for_LLM-Generated_Text.md)
+
+    - [翻译: 本文介绍了一种为大型语言模型（LLM）生成的文本设计的主题水印方法。](2024年04月02日/Topic-based_Watermarks_for_LLM-Generated_Text.md)
+
+- [ViTamin: Designing Scalable Vision Models in the Vision-Language Era](2024年04月02日/ViTamin_Designing_Scalable_Vision_Models_in_the_Vision-Language_Era.md)
+
+    - [翻译: ViTamin: 为视觉-语言时代打造可伸缩的视觉模型](2024年04月02日/ViTamin_Designing_Scalable_Vision_Models_in_the_Vision-Language_Era.md)
+
+- [FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning](2024年04月02日/FLawN-T5_An_Empirical_Examination_of_Effective_Instruction-Tuning_Data_Mixtures_for_Legal_Reasoning.md)
+
+    - [翻译: FLawN-T5：探究法律推理中高效指令调整数据组合的实证分析](2024年04月02日/FLawN-T5_An_Empirical_Examination_of_Effective_Instruction-Tuning_Data_Mixtures_for_Legal_Reasoning.md)
+
+- [Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models](2024年04月02日/Exploring_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_via_Large_Language_Models.md)
+
+    - [翻译: 本研究利用大型语言模型，探索自动生成数学多项选择题干扰项的方法。](2024年04月02日/Exploring_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_via_Large_Language_Models.md)
+
+- [Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners](2024年04月02日/Pre-trained_Vision_and_Language_Transformers_Are_Few-Shot_Incremental_Learners.md)
+
+    - [翻译: 预先训练好的视觉与语言转换器，能够作为少量样本的逐步学习器。](2024年04月02日/Pre-trained_Vision_and_Language_Transformers_Are_Few-Shot_Incremental_Learners.md)
+
+- [GINopic: Topic Modeling with Graph Isomorphism Network](2024年04月02日/GINopic_Topic_Modeling_with_Graph_Isomorphism_Network.md)
+
+    - [翻译: GINopic：借助图同构网络进行主题挖掘与分析](2024年04月02日/GINopic_Topic_Modeling_with_Graph_Isomorphism_Network.md)
+
+- [CameraCtrl: Enabling Camera Control for Text-to-Video Generation](2024年04月02日/CameraCtrl_Enabling_Camera_Control_for_Text-to-Video_Generation.md)
+
+    - [翻译: CameraCtrl：实现文本输入到视频输出的相机操控功能](2024年04月02日/CameraCtrl_Enabling_Camera_Control_for_Text-to-Video_Generation.md)
+
+- [Advancing LLM Reasoning Generalists with Preference Trees](2024年04月02日/Advancing_LLM_Reasoning_Generalists_with_Preference_Trees.md)
+
+    - [翻译: 借助偏好树，我们能够增强大型语言模型的推理能力，使其在处理各种问题时表现得更加全面。](2024年04月02日/Advancing_LLM_Reasoning_Generalists_with_Preference_Trees.md)
+
+- [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](2024年04月02日/Digital_Forgetting_in_Large_Language_Models_A_Survey_of_Unlearning_Methods.md)
+
+    - [翻译: 大型语言模型中的数字遗忘：对遗忘方法的综述。](2024年04月02日/Digital_Forgetting_in_Large_Language_Models_A_Survey_of_Unlearning_Methods.md)
+
+- [Long-context LLMs Struggle with Long In-context Learning](2024年04月02日/Long-context_LLMs_Struggle_with_Long_In-context_Learning.md)
+
+    - [翻译: 长篇幅的语境对于大型语言模型来说，在进行长距离的情境学习时显得颇为棘手。](2024年04月02日/Long-context_LLMs_Struggle_with_Long_In-context_Learning.md)
+
+- [Deconstructing In-Context Learning: Understanding Prompts via Corruption](2024年04月02日/Deconstructing_In-Context_Learning_Understanding_Prompts_via_Corruption.md)
+
+    - [翻译: ](2024年04月02日/Deconstructing_In-Context_Learning_Understanding_Prompts_via_Corruption.md)
+
+- [MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages](2024年04月02日/MultiParaDetox_Extending_Text_Detoxification_with_Parallel_Data_to_New_Languages.md)
+
+    - [翻译: ](2024年04月02日/MultiParaDetox_Extending_Text_Detoxification_with_Parallel_Data_to_New_Languages.md)
+
+- [MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving](2024年04月02日/MuxServe_Flexible_Multiplexing_for_Efficient_Multiple_LLM_Serving.md)
+
+    - [翻译: ](2024年04月02日/MuxServe_Flexible_Multiplexing_for_Efficient_Multiple_LLM_Serving.md)
+
+- [HyperCLOVA X Technical Report](2024年04月02日/HyperCLOVA_X_Technical_Report.md)
+
+    - [翻译: ](2024年04月02日/HyperCLOVA_X_Technical_Report.md)
+
+- [Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation](2024年04月02日/Towards_Better_Understanding_of_Cybercrime_The_Role_of_Fine-Tuned_LLMs_in_Translation.md)
+
+    - [翻译: ](2024年04月02日/Towards_Better_Understanding_of_Cybercrime_The_Role_of_Fine-Tuned_LLMs_in_Translation.md)
+
+- [SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation](2024年04月02日/SGSH_Stimulate_Large_Language_Models_with_Skeleton_Heuristics_for_Knowledge_Base_Question_Generation.md)
+
+    - [翻译: ](2024年04月02日/SGSH_Stimulate_Large_Language_Models_with_Skeleton_Heuristics_for_Knowledge_Base_Question_Generation.md)
+
+- [Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack](2024年04月02日/Humanizing_Machine-Generated_Content_Evading_AI-Text_Detection_through_Adversarial_Attack.md)
+
+    - [翻译: ](2024年04月02日/Humanizing_Machine-Generated_Content_Evading_AI-Text_Detection_through_Adversarial_Attack.md)
+
+- [Minimize Quantization Output Error with Bias Compensation](2024年04月02日/Minimize_Quantization_Output_Error_with_Bias_Compensation.md)
+
+    - [翻译: ](2024年04月02日/Minimize_Quantization_Output_Error_with_Bias_Compensation.md)
+
+- [Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](2024年04月02日/Beyond_Accuracy_Evaluating_the_Reasoning_Behavior_of_Large_Language_Models_--_A_Survey.md)
+
+    - [翻译: ](2024年04月02日/Beyond_Accuracy_Evaluating_the_Reasoning_Behavior_of_Large_Language_Models_--_A_Survey.md)
+
+- [Poro 34B and the Blessing of Multilinguality](2024年04月02日/Poro_34B_and_the_Blessing_of_Multilinguality.md)
+
+    - [翻译: ](2024年04月02日/Poro_34B_and_the_Blessing_of_Multilinguality.md)
+
+- [Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation](2024年04月02日/Where_to_Move_Next_Zero-shot_Generalization_of_LLMs_for_Next_POI_Recommendation.md)
+
+    - [翻译: ](2024年04月02日/Where_to_Move_Next_Zero-shot_Generalization_of_LLMs_for_Next_POI_Recommendation.md)
 
 2024年04月01日
 
