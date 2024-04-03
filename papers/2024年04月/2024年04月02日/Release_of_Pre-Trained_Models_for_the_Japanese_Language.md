@@ -2,13 +2,13 @@
 
 发布时间：2024年04月02日
 
-`LLM应用` `日语处理` `人工智能普及`
+`LLM应用` `人工智能` `多语言处理`
 
 > Release of Pre-Trained Models for the Japanese Language
 
 # 摘要
 
-> 人工智能的普及目标是让每个人都能轻松使用AI技术。许多研究机构为了让研究成果惠及大众，做出了巨大努力。尤其是那些基于海量数据训练的大型预训练模型，展现了惊人的潜力，它们的推出对社会产生了深远的影响。然而，目前大多数模型都偏重于英语，导致非英语区域在AI普及上的步伐相对缓慢。为了缩小这一差距，我们推出了日语版本的GPT、CLIP、稳定扩散模型和HuBERT等预训练模型。这些模型让使用者能够与贴近日本文化、保护日本文化特色的AI无缝互动，进而推动AI在日本的普及。实验也证明，这些专为日语定制的预训练模型在日本相关任务上能够带来丰富的成果。
+> 我们致力于构建一个人人都能享受人工智能红利的世界。为此，许多研究机构努力将研究成果公之于众。尤其是那些基于海量数据训练的大型预训练模型，展现了巨大的潜力，它们的面世对社会产生了深远的影响。然而，目前大多数模型都偏重英语，导致非英语区域在享受人工智能成果上相对滞后。为了缩小这一差距，我们推出了日语版本的生成预训练变换器（GPT）、对比语言和图像预训练（CLIP）、稳定扩散和隐藏单元双向编码器表示（HuBERT）。这些模型的推出，让用户能够无障碍地与符合日本文化特色的人工智能互动，确保了日本文化的传承，进一步推动了人工智能的普及。实验也证明，这些专为日语定制的预训练模型，在处理日语任务时能够带来丰富的成果。
 
 > AI democratization aims to create a world in which the average person can utilize AI techniques. To achieve this goal, numerous research institutes have attempted to make their results accessible to the public. In particular, large pre-trained models trained on large-scale data have shown unprecedented potential, and their release has had a significant impact. However, most of the released models specialize in the English language, and thus, AI democratization in non-English-speaking communities is lagging significantly. To reduce this gap in AI access, we released Generative Pre-trained Transformer (GPT), Contrastive Language and Image Pre-training (CLIP), Stable Diffusion, and Hidden-unit Bidirectional Encoder Representations from Transformers (HuBERT) pre-trained in Japanese. By providing these models, users can freely interface with AI that aligns with Japanese cultural values and ensures the identity of Japanese culture, thus enhancing the democratization of AI. Additionally, experiments showed that pre-trained models specialized for Japanese can efficiently achieve high performance in Japanese tasks.
 
