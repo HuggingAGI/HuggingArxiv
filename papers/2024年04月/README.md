@@ -382,79 +382,79 @@
 
 - [What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases](2024年04月02日/What_Are_We_Measuring_When_We_Evaluate_Large_Vision-Language_Models_An_Analysis_of_Latent_Factors_and_Biases.md)
 
-    - [翻译: ](2024年04月02日/What_Are_We_Measuring_When_We_Evaluate_Large_Vision-Language_Models_An_Analysis_of_Latent_Factors_and_Biases.md)
+    - [翻译: 评估大型视觉-语言模型时，我们究竟关注哪些指标？本文深入探讨了其中的潜在因素与偏见问题。](2024年04月02日/What_Are_We_Measuring_When_We_Evaluate_Large_Vision-Language_Models_An_Analysis_of_Latent_Factors_and_Biases.md)
 
 - [Exploring Backdoor Vulnerabilities of Chat Models](2024年04月02日/Exploring_Backdoor_Vulnerabilities_of_Chat_Models.md)
 
-    - [翻译: ](2024年04月02日/Exploring_Backdoor_Vulnerabilities_of_Chat_Models.md)
+    - [翻译: 深入研究聊天机器人的安全漏洞](2024年04月02日/Exploring_Backdoor_Vulnerabilities_of_Chat_Models.md)
 
 - [Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT](2024年04月02日/Benchmarking_Large_Language_Models_for_Persian_A_Preliminary_Study_Focusing_on_ChatGPT.md)
 
-    - [翻译: ](2024年04月02日/Benchmarking_Large_Language_Models_for_Persian_A_Preliminary_Study_Focusing_on_ChatGPT.md)
+    - [翻译: 探索波斯语大型语言模型：以ChatGPT为焦点的初步研究](2024年04月02日/Benchmarking_Large_Language_Models_for_Persian_A_Preliminary_Study_Focusing_on_ChatGPT.md)
 
 - [Token Trails: Navigating Contextual Depths in Conversational AI with ChatLLM](2024年04月02日/Token_Trails_Navigating_Contextual_Depths_in_Conversational_AI_with_ChatLLM.md)
 
-    - [翻译: ](2024年04月02日/Token_Trails_Navigating_Contextual_Depths_in_Conversational_AI_with_ChatLLM.md)
+    - [翻译: Token Trails: 利用ChatLLM探索会话AI中的语境深度](2024年04月02日/Token_Trails_Navigating_Contextual_Depths_in_Conversational_AI_with_ChatLLM.md)
 
 - [Low-resource neural machine translation with morphological modeling](2024年04月02日/Low-resource_neural_machine_translation_with_morphological_modeling.md)
 
-    - [翻译: ](2024年04月02日/Low-resource_neural_machine_translation_with_morphological_modeling.md)
+    - [翻译: 在资源有限的情况下，通过形态建模来提升神经机器翻译的性能。](2024年04月02日/Low-resource_neural_machine_translation_with_morphological_modeling.md)
 
 - [On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL](2024年04月02日/On_Linearizing_Structured_Data_in_Encoder-Decoder_Language_Models_Insights_from_Text-to-SQL.md)
 
-    - [翻译: ](2024年04月02日/On_Linearizing_Structured_Data_in_Encoder-Decoder_Language_Models_Insights_from_Text-to-SQL.md)
+    - [翻译: 探究编码器-解码器语言模型中结构化数据的线性化处理：文本转换为SQL的洞见。](2024年04月02日/On_Linearizing_Structured_Data_in_Encoder-Decoder_Language_Models_Insights_from_Text-to-SQL.md)
 
 - [Two Heads are Better than One: Nested PoE for Robust Defense Against Multi-Backdoors](2024年04月02日/Two_Heads_are_Better_than_One_Nested_PoE_for_Robust_Defense_Against_Multi-Backdoors.md)
 
-    - [翻译: ](2024年04月02日/Two_Heads_are_Better_than_One_Nested_PoE_for_Robust_Defense_Against_Multi-Backdoors.md)
+    - [翻译: 双脑并用，胜于单机：采用嵌套PoE策略，构筑抵御多重后门攻击的坚实防线。](2024年04月02日/Two_Heads_are_Better_than_One_Nested_PoE_for_Robust_Defense_Against_Multi-Backdoors.md)
 
 - [Multi-BERT: Leveraging Adapters and Prompt Tuning for Low-Resource Multi-Domain Adaptation](2024年04月02日/Multi-BERT_Leveraging_Adapters_and_Prompt_Tuning_for_Low-Resource_Multi-Domain_Adaptation.md)
 
-    - [翻译: ](2024年04月02日/Multi-BERT_Leveraging_Adapters_and_Prompt_Tuning_for_Low-Resource_Multi-Domain_Adaptation.md)
+    - [翻译: Multi-BERT：借助适配器与提示调优，实现低资源条件下的多领域适配。](2024年04月02日/Multi-BERT_Leveraging_Adapters_and_Prompt_Tuning_for_Low-Resource_Multi-Domain_Adaptation.md)
 
 - [Comparative Study of Domain Driven Terms Extraction Using Large Language Models](2024年04月02日/Comparative_Study_of_Domain_Driven_Terms_Extraction_Using_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月02日/Comparative_Study_of_Domain_Driven_Terms_Extraction_Using_Large_Language_Models.md)
+    - [翻译: 本研究通过大型语言模型，对领域驱动的术语提取进行了比较分析。](2024年04月02日/Comparative_Study_of_Domain_Driven_Terms_Extraction_Using_Large_Language_Models.md)
 
 - [Heat Death of Generative Models in Closed-Loop Learning](2024年04月02日/Heat_Death_of_Generative_Models_in_Closed-Loop_Learning.md)
 
-    - [翻译: ](2024年04月02日/Heat_Death_of_Generative_Models_in_Closed-Loop_Learning.md)
+    - [翻译: 闭环学习中生成模型的热寂困境](2024年04月02日/Heat_Death_of_Generative_Models_in_Closed-Loop_Learning.md)
 
 - [Toward Informal Language Processing: Knowledge of Slang in Large Language Models](2024年04月02日/Toward_Informal_Language_Processing_Knowledge_of_Slang_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月02日/Toward_Informal_Language_Processing_Knowledge_of_Slang_in_Large_Language_Models.md)
+    - [翻译: 迈向非正式语言处理：探究大型语言模型中的俚语理解](2024年04月02日/Toward_Informal_Language_Processing_Knowledge_of_Slang_in_Large_Language_Models.md)
 
 - [Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization](2024年04月02日/Prompts_As_Programs_A_Structure-Aware_Approach_to_Efficient_Compile-Time_Prompt_Optimization.md)
 
-    - [翻译: ](2024年04月02日/Prompts_As_Programs_A_Structure-Aware_Approach_to_Efficient_Compile-Time_Prompt_Optimization.md)
+    - [翻译: 将提示视作程序，本研究提出了一种结构感知的方法，用以在编译时期高效地优化提示。](2024年04月02日/Prompts_As_Programs_A_Structure-Aware_Approach_to_Efficient_Compile-Time_Prompt_Optimization.md)
 
 - [ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models](2024年04月02日/ZeroCAP_Zero-Shot_Multi-Robot_Context_Aware_Pattern_Formation_via_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月02日/ZeroCAP_Zero-Shot_Multi-Robot_Context_Aware_Pattern_Formation_via_Large_Language_Models.md)
+    - [翻译: ZeroCAP 利用大型语言模型，实现了零-shot学习下的多机器人系统能够感知上下文并进行模式形成。](2024年04月02日/ZeroCAP_Zero-Shot_Multi-Robot_Context_Aware_Pattern_Formation_via_Large_Language_Models.md)
 
 - [Constrained Robotic Navigation on Preferred Terrains Using LLMs and Speech Instruction: Exploiting the Power of Adverbs](2024年04月02日/Constrained_Robotic_Navigation_on_Preferred_Terrains_Using_LLMs_and_Speech_Instruction_Exploiting_the_Power_of_Adverbs.md)
 
-    - [翻译: ](2024年04月02日/Constrained_Robotic_Navigation_on_Preferred_Terrains_Using_LLMs_and_Speech_Instruction_Exploiting_the_Power_of_Adverbs.md)
+    - [翻译: 借助副词的威力，通过大型语言模型和语音指令实现机器人在理想地形上的精准导航。](2024年04月02日/Constrained_Robotic_Navigation_on_Preferred_Terrains_Using_LLMs_and_Speech_Instruction_Exploiting_the_Power_of_Adverbs.md)
 
 - [LLMs in the Loop: Leveraging Large Language Model Annotations for Active Learning in Low-Resource Languages](2024年04月02日/LLMs_in_the_Loop_Leveraging_Large_Language_Model_Annotations_for_Active_Learning_in_Low-Resource_Languages.md)
 
-    - [翻译: ](2024年04月02日/LLMs_in_the_Loop_Leveraging_Large_Language_Model_Annotations_for_Active_Learning_in_Low-Resource_Languages.md)
+    - [翻译: 大型语言模型（LLM）循环应用：借助其注释功能，为低资源语言的主动学习提供支持。](2024年04月02日/LLMs_in_the_Loop_Leveraging_Large_Language_Model_Annotations_for_Active_Learning_in_Low-Resource_Languages.md)
 
 - [: A Simple Society of Language Models Solves Complex Reasoning](2024年04月02日/_A_Simple_Society_of_Language_Models_Solves_Complex_Reasoning.md)
 
-    - [翻译: ](2024年04月02日/_A_Simple_Society_of_Language_Models_Solves_Complex_Reasoning.md)
+    - [翻译: 简单的语言模型集合轻松应对复杂推理挑战](2024年04月02日/_A_Simple_Society_of_Language_Models_Solves_Complex_Reasoning.md)
 
 - [Exploring How Multiple Levels of GPT-Generated Programming Hints Support or Disappoint Novices](2024年04月02日/Exploring_How_Multiple_Levels_of_GPT-Generated_Programming_Hints_Support_or_Disappoint_Novices.md)
 
-    - [翻译: ](2024年04月02日/Exploring_How_Multiple_Levels_of_GPT-Generated_Programming_Hints_Support_or_Disappoint_Novices.md)
+    - [翻译: 研究多层次 GPT 编程提示对新手的助力与挫败感。](2024年04月02日/Exploring_How_Multiple_Levels_of_GPT-Generated_Programming_Hints_Support_or_Disappoint_Novices.md)
 
 - [Emergent Abilities in Reduced-Scale Generative Language Models](2024年04月02日/Emergent_Abilities_in_Reduced-Scale_Generative_Language_Models.md)
 
-    - [翻译: ](2024年04月02日/Emergent_Abilities_in_Reduced-Scale_Generative_Language_Models.md)
+    - [翻译: 在简化版的生成型语言模型中，涌现出了一些新的能力。](2024年04月02日/Emergent_Abilities_in_Reduced-Scale_Generative_Language_Models.md)
 
 - [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](2024年04月02日/Self-Organized_Agents_A_LLM_Multi-Agent_Framework_toward_Ultra_Large-Scale_Code_Generation_and_Optimization.md)
 
-    - [翻译: ](2024年04月02日/Self-Organized_Agents_A_LLM_Multi-Agent_Framework_toward_Ultra_Large-Scale_Code_Generation_and_Optimization.md)
+    - [翻译: 自组织的智能代理：构建面向极大规模代码生成与优化的多代理大型语言模型框架。](2024年04月02日/Self-Organized_Agents_A_LLM_Multi-Agent_Framework_toward_Ultra_Large-Scale_Code_Generation_and_Optimization.md)
 
 2024年04月01日
 
