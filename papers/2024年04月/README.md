@@ -80,95 +80,95 @@
 
 - [Measuring Social Norms of Large Language Models](2024年04月03日/Measuring_Social_Norms_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月03日/Measuring_Social_Norms_of_Large_Language_Models.md)
+    - [翻译: 探究大型语言模型的社会规范认知](2024年04月03日/Measuring_Social_Norms_of_Large_Language_Models.md)
 
 - [Prompting for Numerical Sequences: A Case Study on Market Comment Generation](2024年04月03日/Prompting_for_Numerical_Sequences_A_Case_Study_on_Market_Comment_Generation.md)
 
-    - [翻译: ](2024年04月03日/Prompting_for_Numerical_Sequences_A_Case_Study_on_Market_Comment_Generation.md)
+    - [翻译: 数字序列提示：市场评论生成案例分析](2024年04月03日/Prompting_for_Numerical_Sequences_A_Case_Study_on_Market_Comment_Generation.md)
 
 - [PhonologyBench: Evaluating Phonological Skills of Large Language Models](2024年04月03日/PhonologyBench_Evaluating_Phonological_Skills_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月03日/PhonologyBench_Evaluating_Phonological_Skills_of_Large_Language_Models.md)
+    - [翻译: PhonologyBench：探究大型语言模型的音系能力](2024年04月03日/PhonologyBench_Evaluating_Phonological_Skills_of_Large_Language_Models.md)
 
 - [Task Agnostic Architecture for Algorithm Induction via Implicit Composition](2024年04月03日/Task_Agnostic_Architecture_for_Algorithm_Induction_via_Implicit_Composition.md)
 
-    - [翻译: ](2024年04月03日/Task_Agnostic_Architecture_for_Algorithm_Induction_via_Implicit_Composition.md)
+    - [翻译: 这种架构能够通过隐式组合的方式，适用于各种任务的算法归纳，不受特定任务的限制。](2024年04月03日/Task_Agnostic_Architecture_for_Algorithm_Induction_via_Implicit_Composition.md)
 
 - [Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison](2024年04月03日/Retrieving_Examples_from_Memory_for_Retrieval_Augmented_Neural_Machine_Translation_A_Systematic_Comparison.md)
 
-    - [翻译: ](2024年04月03日/Retrieving_Examples_from_Memory_for_Retrieval_Augmented_Neural_Machine_Translation_A_Systematic_Comparison.md)
+    - [翻译: 为了提升神经机器翻译的检索性能，本研究系统地比较了从记忆中检索示例的方法。](2024年04月03日/Retrieving_Examples_from_Memory_for_Retrieval_Augmented_Neural_Machine_Translation_A_Systematic_Comparison.md)
 
 - [uTeBC-NLP at SemEval-2024 Task 9: Can LLMs be Lateral Thinkers?](2024年04月03日/uTeBC-NLP_at_SemEval-2024_Task_9_Can_LLMs_be_Lateral_Thinkers.md)
 
-    - [翻译: ](2024年04月03日/uTeBC-NLP_at_SemEval-2024_Task_9_Can_LLMs_be_Lateral_Thinkers.md)
+    - [翻译: uTeBC-NLP 参与 SemEval-2024 的第 9 项任务，探讨大型语言模型是否能够进行横向思考。](2024年04月03日/uTeBC-NLP_at_SemEval-2024_Task_9_Can_LLMs_be_Lateral_Thinkers.md)
 
 - [I-Design: Personalized LLM Interior Designer](2024年04月03日/I-Design_Personalized_LLM_Interior_Designer.md)
 
-    - [翻译: ](2024年04月03日/I-Design_Personalized_LLM_Interior_Designer.md)
+    - [翻译: I-Design：打造个性化空间，您的专属 LLM 室内设计师。](2024年04月03日/I-Design_Personalized_LLM_Interior_Designer.md)
 
 - [Empowering Biomedical Discovery with AI Agents](2024年04月03日/Empowering_Biomedical_Discovery_with_AI_Agents.md)
 
-    - [翻译: ](2024年04月03日/Empowering_Biomedical_Discovery_with_AI_Agents.md)
+    - [翻译: 借助人工智能代理，推动生物医学研究的新发现](2024年04月03日/Empowering_Biomedical_Discovery_with_AI_Agents.md)
 
 - [ALOHa: A New Measure for Hallucination in Captioning Models](2024年04月03日/ALOHa_A_New_Measure_for_Hallucination_in_Captioning_Models.md)
 
-    - [翻译: ](2024年04月03日/ALOHa_A_New_Measure_for_Hallucination_in_Captioning_Models.md)
+    - [翻译: ALOHa：字幕模型幻觉现象的新衡量标准](2024年04月03日/ALOHa_A_New_Measure_for_Hallucination_in_Captioning_Models.md)
 
 - [MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment](2024年04月03日/MatAtlas_Text-driven_Consistent_Geometry_Texturing_and_Material_Assignment.md)
 
-    - [翻译: ](2024年04月03日/MatAtlas_Text-driven_Consistent_Geometry_Texturing_and_Material_Assignment.md)
+    - [翻译: MatAtlas：通过文本驱动，实现一致的几何纹理和材质赋予](2024年04月03日/MatAtlas_Text-driven_Consistent_Geometry_Texturing_and_Material_Assignment.md)
 
 - [ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline](2024年04月03日/ChatGLM-Math_Improving_Math_Problem-Solving_in_Large_Language_Models_with_a_Self-Critique_Pipeline.md)
 
-    - [翻译: ](2024年04月03日/ChatGLM-Math_Improving_Math_Problem-Solving_in_Large_Language_Models_with_a_Self-Critique_Pipeline.md)
+    - [翻译: ChatGLM-Math：运用自我批评机制，提升大型语言模型解决数学问题的能力](2024年04月03日/ChatGLM-Math_Improving_Math_Problem-Solving_in_Large_Language_Models_with_a_Self-Critique_Pipeline.md)
 
 - [Linear Attention Sequence Parallelism](2024年04月03日/Linear_Attention_Sequence_Parallelism.md)
 
-    - [翻译: ](2024年04月03日/Linear_Attention_Sequence_Parallelism.md)
+    - [翻译: 通过线性方法实现注意力机制的序列并行处理](2024年04月03日/Linear_Attention_Sequence_Parallelism.md)
 
 - [Integrating Explanations in Learning LTL Specifications from Demonstrations](2024年04月03日/Integrating_Explanations_in_Learning_LTL_Specifications_from_Demonstrations.md)
 
-    - [翻译: ](2024年04月03日/Integrating_Explanations_in_Learning_LTL_Specifications_from_Demonstrations.md)
+    - [翻译: 在学习LTL规范的过程中融合解释](2024年04月03日/Integrating_Explanations_in_Learning_LTL_Specifications_from_Demonstrations.md)
 
 - [Toward Inference-optimal Mixture-of-Expert Large Language Models](2024年04月03日/Toward_Inference-optimal_Mixture-of-Expert_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月03日/Toward_Inference-optimal_Mixture-of-Expert_Large_Language_Models.md)
+    - [翻译: 为实现最优化推理性能，我们探索了专家混合型大型语言模型的构建。](2024年04月03日/Toward_Inference-optimal_Mixture-of-Expert_Large_Language_Models.md)
 
 - [Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models](2024年04月03日/Cherry_on_Top_Parameter_Heterogeneity_and_Quantization_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月03日/Cherry_on_Top_Parameter_Heterogeneity_and_Quantization_in_Large_Language_Models.md)
+    - [翻译: 锦上添花：探究大型语言模型中的参数多样性与量化技术](2024年04月03日/Cherry_on_Top_Parameter_Heterogeneity_and_Quantization_in_Large_Language_Models.md)
 
 - [BAdam: A Memory Efficient Full Parameter Training Method for Large Language Models](2024年04月03日/BAdam_A_Memory_Efficient_Full_Parameter_Training_Method_for_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月03日/BAdam_A_Memory_Efficient_Full_Parameter_Training_Method_for_Large_Language_Models.md)
+    - [翻译: BAdam 为大型语言模型提供了一种内存占用小且高效的全参数训练方式。](2024年04月03日/BAdam_A_Memory_Efficient_Full_Parameter_Training_Method_for_Large_Language_Models.md)
 
 - [Conifer: Improving Complex Constrained Instruction-Following Ability of Large Language Models](2024年04月03日/Conifer_Improving_Complex_Constrained_Instruction-Following_Ability_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月03日/Conifer_Improving_Complex_Constrained_Instruction-Following_Ability_of_Large_Language_Models.md)
+    - [翻译: Conifer：增强大型语言模型执行复杂指令的能力](2024年04月03日/Conifer_Improving_Complex_Constrained_Instruction-Following_Ability_of_Large_Language_Models.md)
 
 - [A Survey of Optimization-based Task and Motion Planning: From Classical To Learning Approaches](2024年04月03日/A_Survey_of_Optimization-based_Task_and_Motion_Planning_From_Classical_To_Learning_Approaches.md)
 
-    - [翻译: ](2024年04月03日/A_Survey_of_Optimization-based_Task_and_Motion_Planning_From_Classical_To_Learning_Approaches.md)
+    - [翻译: 本综述探讨了从传统到现代基于优化的任务和运动规划方法，特别关注学习方法的应用和发展。](2024年04月03日/A_Survey_of_Optimization-based_Task_and_Motion_Planning_From_Classical_To_Learning_Approaches.md)
 
 - [The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers](2024年04月03日/The_RealHumanEval_Evaluating_Large_Language_Models'_Abilities_to_Support_Programmers.md)
 
-    - [翻译: ](2024年04月03日/The_RealHumanEval_Evaluating_Large_Language_Models'_Abilities_to_Support_Programmers.md)
+    - [翻译: RealHumanEval：探究大型语言模型在辅助编程方面的实际效能](2024年04月03日/The_RealHumanEval_Evaluating_Large_Language_Models'_Abilities_to_Support_Programmers.md)
 
 - [Efficient Multi-Vector Dense Retrieval Using Bit Vectors](2024年04月03日/Efficient_Multi-Vector_Dense_Retrieval_Using_Bit_Vectors.md)
 
-    - [翻译: ](2024年04月03日/Efficient_Multi-Vector_Dense_Retrieval_Using_Bit_Vectors.md)
+    - [翻译: 通过位向量实现的多向量密集检索，既高效又精准。](2024年04月03日/Efficient_Multi-Vector_Dense_Retrieval_Using_Bit_Vectors.md)
 
 - [AI and personalized learning: bridging the gap with modern educational goals](2024年04月03日/AI_and_personalized_learning_bridging_the_gap_with_modern_educational_goals.md)
 
-    - [翻译: ](2024年04月03日/AI_and_personalized_learning_bridging_the_gap_with_modern_educational_goals.md)
+    - [翻译: 通过现代教育目标，人工智能与个性化学习之间的鸿沟得以桥接。](2024年04月03日/AI_and_personalized_learning_bridging_the_gap_with_modern_educational_goals.md)
 
 - [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](2024年04月03日/CLaM-TTS_Improving_Neural_Codec_Language_Model_for_Zero-Shot_Text-to-Speech.md)
 
-    - [翻译: ](2024年04月03日/CLaM-TTS_Improving_Neural_Codec_Language_Model_for_Zero-Shot_Text-to-Speech.md)
+    - [翻译: CLaM-TTS：优化神经编解码器语言模型，提升零-shot 文本到语音的转换效果](2024年04月03日/CLaM-TTS_Improving_Neural_Codec_Language_Model_for_Zero-Shot_Text-to-Speech.md)
 
 - [FPT: Feature Prompt Tuning for Few-shot Readability Assessment](2024年04月03日/FPT_Feature_Prompt_Tuning_for_Few-shot_Readability_Assessment.md)
 
-    - [翻译: ](2024年04月03日/FPT_Feature_Prompt_Tuning_for_Few-shot_Readability_Assessment.md)
+    - [翻译: FPT，即特征提示调整技术，旨在提升少样本情境下的文本可读性评估效果。](2024年04月03日/FPT_Feature_Prompt_Tuning_for_Few-shot_Readability_Assessment.md)
 
 2024年04月02日
 
@@ -370,15 +370,15 @@
 
 - [RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation](2024年04月02日/RESSA_Repair_Sparse_Vision-Language_Models_via_Sparse_Cross-Modality_Adaptation.md)
 
-    - [翻译: ](2024年04月02日/RESSA_Repair_Sparse_Vision-Language_Models_via_Sparse_Cross-Modality_Adaptation.md)
+    - [翻译: RESSA：通过稀疏交叉模态适配技术，完善视觉-语言模型的稀疏性问题。](2024年04月02日/RESSA_Repair_Sparse_Vision-Language_Models_via_Sparse_Cross-Modality_Adaptation.md)
 
 - [Enhancing Low-Resource LLMs Classification with PEFT and Synthetic Data](2024年04月02日/Enhancing_Low-Resource_LLMs_Classification_with_PEFT_and_Synthetic_Data.md)
 
-    - [翻译: ](2024年04月02日/Enhancing_Low-Resource_LLMs_Classification_with_PEFT_and_Synthetic_Data.md)
+    - [翻译: 通过 PEFT 和合成数据提升低资源大型语言模型的分类表现。](2024年04月02日/Enhancing_Low-Resource_LLMs_Classification_with_PEFT_and_Synthetic_Data.md)
 
 - [Revisiting subword tokenization: A case study on affixal negation in large language models](2024年04月02日/Revisiting_subword_tokenization_A_case_study_on_affixal_negation_in_large_language_models.md)
 
-    - [翻译: ](2024年04月02日/Revisiting_subword_tokenization_A_case_study_on_affixal_negation_in_large_language_models.md)
+    - [翻译: 深入探讨子词切分：以大型语言模型中的词缀否定现象为例](2024年04月02日/Revisiting_subword_tokenization_A_case_study_on_affixal_negation_in_large_language_models.md)
 
 - [What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases](2024年04月02日/What_Are_We_Measuring_When_We_Evaluate_Large_Vision-Language_Models_An_Analysis_of_Latent_Factors_and_Biases.md)
 
