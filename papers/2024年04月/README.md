@@ -134,6 +134,34 @@
 
     - [翻译: ](2024年04月04日/nicolay-r_at_SemEval-2024_Task_3_Using_Flan-T5_for_Reasoning_Emotion_Cause_in_Conversations_with_Chain-of-Thought_on_Emotion_States.md)
 
+- [Towards Pareto Optimal Throughput in Small Language Model Serving](2024年04月04日/Towards_Pareto_Optimal_Throughput_in_Small_Language_Model_Serving.md)
+
+    - [翻译: ](2024年04月04日/Towards_Pareto_Optimal_Throughput_in_Small_Language_Model_Serving.md)
+
+- [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](2024年04月04日/How_Easily_do_Irrelevant_Inputs_Skew_the_Responses_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/How_Easily_do_Irrelevant_Inputs_Skew_the_Responses_of_Large_Language_Models.md)
+
+- [Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics](2024年04月04日/Probing_Large_Language_Models_for_Scalar_Adjective_Lexical_Semantics_and_Scalar_Diversity_Pragmatics.md)
+
+    - [翻译: ](2024年04月04日/Probing_Large_Language_Models_for_Scalar_Adjective_Lexical_Semantics_and_Scalar_Diversity_Pragmatics.md)
+
+- [DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models](2024年04月04日/DELTA_Decomposed_Efficient_Long-Term_Robot_Task_Planning_using_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/DELTA_Decomposed_Efficient_Long-Term_Robot_Task_Planning_using_Large_Language_Models.md)
+
+- [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](2024年04月04日/RALL-E_Robust_Codec_Language_Modeling_with_Chain-of-Thought_Prompting_for_Text-to-Speech_Synthesis.md)
+
+    - [翻译: ](2024年04月04日/RALL-E_Robust_Codec_Language_Modeling_with_Chain-of-Thought_Prompting_for_Text-to-Speech_Synthesis.md)
+
+- [Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers](2024年04月04日/Do_Large_Language_Models_Rank_Fairly_An_Empirical_Study_on_the_Fairness_of_LLMs_as_Rankers.md)
+
+    - [翻译: ](2024年04月04日/Do_Large_Language_Models_Rank_Fairly_An_Empirical_Study_on_the_Fairness_of_LLMs_as_Rankers.md)
+
+- [The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models](2024年04月04日/The_Probabilities_Also_Matter_A_More_Faithful_Metric_for_Faithfulness_of_Free-Text_Explanations_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/The_Probabilities_Also_Matter_A_More_Faithful_Metric_for_Faithfulness_of_Free-Text_Explanations_in_Large_Language_Models.md)
+
 2024年04月03日
 
 - [DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement](2024年04月03日/DIBS_Enhancing_Dense_Video_Captioning_with_Unlabeled_Videos_via_Pseudo_Boundary_Enrichment_and_Online_Refinement.md)
@@ -303,6 +331,18 @@
 - [FPT: Feature Prompt Tuning for Few-shot Readability Assessment](2024年04月03日/FPT_Feature_Prompt_Tuning_for_Few-shot_Readability_Assessment.md)
 
     - [翻译: FPT，即特征提示调整技术，旨在提升少样本情境下的文本可读性评估效果。](2024年04月03日/FPT_Feature_Prompt_Tuning_for_Few-shot_Readability_Assessment.md)
+
+- [UniAV: Unified Audio-Visual Perception for Multi-Task Video Localization](2024年04月03日/UniAV_Unified_Audio-Visual_Perception_for_Multi-Task_Video_Localization.md)
+
+    - [翻译: ](2024年04月03日/UniAV_Unified_Audio-Visual_Perception_for_Multi-Task_Video_Localization.md)
+
+- [Multi-modal Learning for WebAssembly Reverse Engineering](2024年04月03日/Multi-modal_Learning_for_WebAssembly_Reverse_Engineering.md)
+
+    - [翻译: ](2024年04月03日/Multi-modal_Learning_for_WebAssembly_Reverse_Engineering.md)
+
+- [Diverse and Tailored Image Generation for Zero-shot Multi-label Classification](2024年04月03日/Diverse_and_Tailored_Image_Generation_for_Zero-shot_Multi-label_Classification.md)
+
+    - [翻译: ](2024年04月03日/Diverse_and_Tailored_Image_Generation_for_Zero-shot_Multi-label_Classification.md)
 
 2024年04月02日
 
