@@ -102,6 +102,38 @@
 
     - [翻译: ](2024年04月04日/Reevaluating_Bias_Detection_in_Language_Models_The_Role_of_Implicit_Norm.md)
 
+- [Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions](2024年04月04日/Scaffolding_Language_Learning_via_Multi-modal_Tutoring_Systems_with_Pedagogical_Instructions.md)
+
+    - [翻译: ](2024年04月04日/Scaffolding_Language_Learning_via_Multi-modal_Tutoring_Systems_with_Pedagogical_Instructions.md)
+
+- [Edisum: Summarizing and Explaining Wikipedia Edits at Scale](2024年04月04日/Edisum_Summarizing_and_Explaining_Wikipedia_Edits_at_Scale.md)
+
+    - [翻译: ](2024年04月04日/Edisum_Summarizing_and_Explaining_Wikipedia_Edits_at_Scale.md)
+
+- [Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought](2024年04月04日/Can_Small_Language_Models_Help_Large_Language_Models_Reason_Better_LM-Guided_Chain-of-Thought.md)
+
+    - [翻译: ](2024年04月04日/Can_Small_Language_Models_Help_Large_Language_Models_Reason_Better_LM-Guided_Chain-of-Thought.md)
+
+- [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](2024年04月04日/MiniGPT4-Video_Advancing_Multimodal_LLMs_for_Video_Understanding_with_Interleaved_Visual-Textual_Tokens.md)
+
+    - [翻译: ](2024年04月04日/MiniGPT4-Video_Advancing_Multimodal_LLMs_for_Video_Understanding_with_Interleaved_Visual-Textual_Tokens.md)
+
+- [Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](2024年04月04日/Red_Teaming_GPT-4V_Are_GPT-4V_Safe_Against_UniMulti-Modal_Jailbreak_Attacks.md)
+
+    - [翻译: ](2024年04月04日/Red_Teaming_GPT-4V_Are_GPT-4V_Safe_Against_UniMulti-Modal_Jailbreak_Attacks.md)
+
+- [Scaling Up Video Summarization Pretraining with Large Language Models](2024年04月04日/Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models.md)
+
+- [LongVLM: Efficient Long Video Understanding via Large Language Models](2024年04月04日/LongVLM_Efficient_Long_Video_Understanding_via_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/LongVLM_Efficient_Long_Video_Understanding_via_Large_Language_Models.md)
+
+- [nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States](2024年04月04日/nicolay-r_at_SemEval-2024_Task_3_Using_Flan-T5_for_Reasoning_Emotion_Cause_in_Conversations_with_Chain-of-Thought_on_Emotion_States.md)
+
+    - [翻译: ](2024年04月04日/nicolay-r_at_SemEval-2024_Task_3_Using_Flan-T5_for_Reasoning_Emotion_Cause_in_Conversations_with_Chain-of-Thought_on_Emotion_States.md)
+
 2024年04月03日
 
 - [DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement](2024年04月03日/DIBS_Enhancing_Dense_Video_Captioning_with_Unlabeled_Videos_via_Pseudo_Boundary_Enrichment_and_Online_Refinement.md)
