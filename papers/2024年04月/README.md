@@ -4,47 +4,47 @@
 
 - [OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views](2024年04月04日/OpenNeRF_Open_Set_3D_Neural_Scene_Segmentation_with_Pixel-Wise_Features_and_Rendered_Novel_Views.md)
 
-    - [翻译: ](2024年04月04日/OpenNeRF_Open_Set_3D_Neural_Scene_Segmentation_with_Pixel-Wise_Features_and_Rendered_Novel_Views.md)
+    - [翻译: OpenNeRF 通过利用像素级别的细节特征和渲染出全新的视角，实现了对3D场景的开放集神经分割，为三维场景理解提供了一种全新的方法。](2024年04月04日/OpenNeRF_Open_Set_3D_Neural_Scene_Segmentation_with_Pixel-Wise_Features_and_Rendered_Novel_Views.md)
 
 - [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](2024年04月04日/AutoWebGLM_Bootstrap_And_Reinforce_A_Large_Language_Model-based_Web_Navigating_Agent.md)
 
-    - [翻译: ](2024年04月04日/AutoWebGLM_Bootstrap_And_Reinforce_A_Large_Language_Model-based_Web_Navigating_Agent.md)
+    - [翻译: AutoWebGLM：利用自助法和强化策略，打造一款基于大型语言模型的智能网络浏览助手。](2024年04月04日/AutoWebGLM_Bootstrap_And_Reinforce_A_Large_Language_Model-based_Web_Navigating_Agent.md)
 
 - [Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra](2024年04月04日/Capabilities_of_Large_Language_Models_in_Control_Engineering_A_Benchmark_Study_on_GPT-4,_Claude_3_Opus,_and_Gemini_1.0_Ultra.md)
 
-    - [翻译: ](2024年04月04日/Capabilities_of_Large_Language_Models_in_Control_Engineering_A_Benchmark_Study_on_GPT-4,_Claude_3_Opus,_and_Gemini_1.0_Ultra.md)
+    - [翻译: 大型语言模型在控制工程领域的能力探究：对 GPT-4、Claude 3 Opus 及 Gemini 1.0 Ultra 进行的基准比较研究。](2024年04月04日/Capabilities_of_Large_Language_Models_in_Control_Engineering_A_Benchmark_Study_on_GPT-4,_Claude_3_Opus,_and_Gemini_1.0_Ultra.md)
 
 - [Training LLMs over Neurally Compressed Text](2024年04月04日/Training_LLMs_over_Neurally_Compressed_Text.md)
 
-    - [翻译: ](2024年04月04日/Training_LLMs_over_Neurally_Compressed_Text.md)
+    - [翻译: 通过对神经网络压缩的文本进行训练，提升了大型语言模型（LLM）的能力。](2024年04月04日/Training_LLMs_over_Neurally_Compressed_Text.md)
 
 - [Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph](2024年04月04日/Unveiling_LLMs_The_Evolution_of_Latent_Representations_in_a_Temporal_Knowledge_Graph.md)
 
-    - [翻译: ](2024年04月04日/Unveiling_LLMs_The_Evolution_of_Latent_Representations_in_a_Temporal_Knowledge_Graph.md)
+    - [翻译: 探究大型语言模型：时间知识库中潜在表达的进化之旅](2024年04月04日/Unveiling_LLMs_The_Evolution_of_Latent_Representations_in_a_Temporal_Knowledge_Graph.md)
 
 - [Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](2024年04月04日/Visualization-of-Thought_Elicits_Spatial_Reasoning_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/Visualization-of-Thought_Elicits_Spatial_Reasoning_in_Large_Language_Models.md)
+    - [翻译: 在大型语言模型中，通过思维可视化能够激发空间推理能力。](2024年04月04日/Visualization-of-Thought_Elicits_Spatial_Reasoning_in_Large_Language_Models.md)
 
 - [DeViDe: Faceted medical knowledge for improved medical vision-language pre-training](2024年04月04日/DeViDe_Faceted_medical_knowledge_for_improved_medical_vision-language_pre-training.md)
 
-    - [翻译: ](2024年04月04日/DeViDe_Faceted_medical_knowledge_for_improved_medical_vision-language_pre-training.md)
+    - [翻译: DeViDe：面向医学视觉-语言预训练的全方位医学知识架构](2024年04月04日/DeViDe_Faceted_medical_knowledge_for_improved_medical_vision-language_pre-training.md)
 
 - [Sailor: Open Language Models for South-East Asia](2024年04月04日/Sailor_Open_Language_Models_for_South-East_Asia.md)
 
-    - [翻译: ](2024年04月04日/Sailor_Open_Language_Models_for_South-East_Asia.md)
+    - [翻译: Sailor：面向东南亚地区的开放语言模型](2024年04月04日/Sailor_Open_Language_Models_for_South-East_Asia.md)
 
 - [Evaluating LLMs at Detecting Errors in LLM Responses](2024年04月04日/Evaluating_LLMs_at_Detecting_Errors_in_LLM_Responses.md)
 
-    - [翻译: ](2024年04月04日/Evaluating_LLMs_at_Detecting_Errors_in_LLM_Responses.md)
+    - [翻译: 探究大型语言模型识别自身回应错误的能力](2024年04月04日/Evaluating_LLMs_at_Detecting_Errors_in_LLM_Responses.md)
 
 - [Intent Detection and Entity Extraction from BioMedical Literature](2024年04月04日/Intent_Detection_and_Entity_Extraction_from_BioMedical_Literature.md)
 
-    - [翻译: ](2024年04月04日/Intent_Detection_and_Entity_Extraction_from_BioMedical_Literature.md)
+    - [翻译: 在生物医学文献中识别意图与抽取关键信息](2024年04月04日/Intent_Detection_and_Entity_Extraction_from_BioMedical_Literature.md)
 
 - [ReFT: Representation Finetuning for Language Models](2024年04月04日/ReFT_Representation_Finetuning_for_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/ReFT_Representation_Finetuning_for_Language_Models.md)
+    - [翻译: ReFT 代表「表示微调」，是一种针对语言模型的优化技术。](2024年04月04日/ReFT_Representation_Finetuning_for_Language_Models.md)
 
 - [SemGrasp: Semantic Grasp Generation via Language Aligned Discretization](2024年04月04日/SemGrasp_Semantic_Grasp_Generation_via_Language_Aligned_Discretization.md)
 
@@ -343,6 +343,38 @@
 - [Diverse and Tailored Image Generation for Zero-shot Multi-label Classification](2024年04月03日/Diverse_and_Tailored_Image_Generation_for_Zero-shot_Multi-label_Classification.md)
 
     - [翻译: ](2024年04月03日/Diverse_and_Tailored_Image_Generation_for_Zero-shot_Multi-label_Classification.md)
+
+- [Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](2024年04月03日/Robust_Pronoun_Use_Fidelity_with_English_LLMs_Are_they_Reasoning,_Repeating,_or_Just_Biased.md)
+
+    - [翻译: ](2024年04月03日/Robust_Pronoun_Use_Fidelity_with_English_LLMs_Are_they_Reasoning,_Repeating,_or_Just_Biased.md)
+
+- [Towards Standards-Compliant Assistive Technology Product Specifications via LLMs](2024年04月03日/Towards_Standards-Compliant_Assistive_Technology_Product_Specifications_via_LLMs.md)
+
+    - [翻译: ](2024年04月03日/Towards_Standards-Compliant_Assistive_Technology_Product_Specifications_via_LLMs.md)
+
+- [LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models](2024年04月03日/LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models.md)
+
+    - [翻译: ](2024年04月03日/LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models.md)
+
+- [Testing the Effect of Code Documentation on Large Language Model Code Understanding](2024年04月03日/Testing_the_Effect_of_Code_Documentation_on_Large_Language_Model_Code_Understanding.md)
+
+    - [翻译: ](2024年04月03日/Testing_the_Effect_of_Code_Documentation_on_Large_Language_Model_Code_Understanding.md)
+
+- [Auditing the Use of Language Models to Guide Hiring Decisions](2024年04月03日/Auditing_the_Use_of_Language_Models_to_Guide_Hiring_Decisions.md)
+
+    - [翻译: ](2024年04月03日/Auditing_the_Use_of_Language_Models_to_Guide_Hiring_Decisions.md)
+
+- [Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model](2024年04月03日/Construction_of_Functional_Materials_Knowledge_Graph_in_Multidisciplinary_Materials_Science_via_Large_Language_Model.md)
+
+    - [翻译: ](2024年04月03日/Construction_of_Functional_Materials_Knowledge_Graph_in_Multidisciplinary_Materials_Science_via_Large_Language_Model.md)
+
+- [Mai Ho'omāuna i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian](2024年04月03日/Mai_Ho'omāuna_i_ka_'Ai_Language_Models_Improve_Automatic_Speech_Recognition_in_Hawaiian.md)
+
+    - [翻译: ](2024年04月03日/Mai_Ho'omāuna_i_ka_'Ai_Language_Models_Improve_Automatic_Speech_Recognition_in_Hawaiian.md)
+
+- [JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](2024年04月03日/JailBreakV-28K_A_Benchmark_for_Assessing_the_Robustness_of_MultiModal_Large_Language_Models_against_Jailbreak_Attacks.md)
+
+    - [翻译: ](2024年04月03日/JailBreakV-28K_A_Benchmark_for_Assessing_the_Robustness_of_MultiModal_Large_Language_Models_against_Jailbreak_Attacks.md)
 
 2024年04月02日
 
