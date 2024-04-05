@@ -1,5 +1,107 @@
 # 2024年04月
 
+2024年04月04日
+
+- [OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views](2024年04月04日/OpenNeRF_Open_Set_3D_Neural_Scene_Segmentation_with_Pixel-Wise_Features_and_Rendered_Novel_Views.md)
+
+    - [翻译: ](2024年04月04日/OpenNeRF_Open_Set_3D_Neural_Scene_Segmentation_with_Pixel-Wise_Features_and_Rendered_Novel_Views.md)
+
+- [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](2024年04月04日/AutoWebGLM_Bootstrap_And_Reinforce_A_Large_Language_Model-based_Web_Navigating_Agent.md)
+
+    - [翻译: ](2024年04月04日/AutoWebGLM_Bootstrap_And_Reinforce_A_Large_Language_Model-based_Web_Navigating_Agent.md)
+
+- [Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra](2024年04月04日/Capabilities_of_Large_Language_Models_in_Control_Engineering_A_Benchmark_Study_on_GPT-4,_Claude_3_Opus,_and_Gemini_1.0_Ultra.md)
+
+    - [翻译: ](2024年04月04日/Capabilities_of_Large_Language_Models_in_Control_Engineering_A_Benchmark_Study_on_GPT-4,_Claude_3_Opus,_and_Gemini_1.0_Ultra.md)
+
+- [Training LLMs over Neurally Compressed Text](2024年04月04日/Training_LLMs_over_Neurally_Compressed_Text.md)
+
+    - [翻译: ](2024年04月04日/Training_LLMs_over_Neurally_Compressed_Text.md)
+
+- [Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph](2024年04月04日/Unveiling_LLMs_The_Evolution_of_Latent_Representations_in_a_Temporal_Knowledge_Graph.md)
+
+    - [翻译: ](2024年04月04日/Unveiling_LLMs_The_Evolution_of_Latent_Representations_in_a_Temporal_Knowledge_Graph.md)
+
+- [Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](2024年04月04日/Visualization-of-Thought_Elicits_Spatial_Reasoning_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/Visualization-of-Thought_Elicits_Spatial_Reasoning_in_Large_Language_Models.md)
+
+- [DeViDe: Faceted medical knowledge for improved medical vision-language pre-training](2024年04月04日/DeViDe_Faceted_medical_knowledge_for_improved_medical_vision-language_pre-training.md)
+
+    - [翻译: ](2024年04月04日/DeViDe_Faceted_medical_knowledge_for_improved_medical_vision-language_pre-training.md)
+
+- [Sailor: Open Language Models for South-East Asia](2024年04月04日/Sailor_Open_Language_Models_for_South-East_Asia.md)
+
+    - [翻译: ](2024年04月04日/Sailor_Open_Language_Models_for_South-East_Asia.md)
+
+- [Evaluating LLMs at Detecting Errors in LLM Responses](2024年04月04日/Evaluating_LLMs_at_Detecting_Errors_in_LLM_Responses.md)
+
+    - [翻译: ](2024年04月04日/Evaluating_LLMs_at_Detecting_Errors_in_LLM_Responses.md)
+
+- [Intent Detection and Entity Extraction from BioMedical Literature](2024年04月04日/Intent_Detection_and_Entity_Extraction_from_BioMedical_Literature.md)
+
+    - [翻译: ](2024年04月04日/Intent_Detection_and_Entity_Extraction_from_BioMedical_Literature.md)
+
+- [ReFT: Representation Finetuning for Language Models](2024年04月04日/ReFT_Representation_Finetuning_for_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/ReFT_Representation_Finetuning_for_Language_Models.md)
+
+- [SemGrasp: Semantic Grasp Generation via Language Aligned Discretization](2024年04月04日/SemGrasp_Semantic_Grasp_Generation_via_Language_Aligned_Discretization.md)
+
+    - [翻译: ](2024年04月04日/SemGrasp_Semantic_Grasp_Generation_via_Language_Aligned_Discretization.md)
+
+- [Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models](2024年04月04日/Untangle_the_KNOT_Interweaving_Conflicting_Knowledge_and_Reasoning_Skills_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/Untangle_the_KNOT_Interweaving_Conflicting_Knowledge_and_Reasoning_Skills_in_Large_Language_Models.md)
+
+- [Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity](2024年04月04日/Embodied_AI_with_Two_Arms_Zero-shot_Learning,_Safety_and_Modularity.md)
+
+    - [翻译: ](2024年04月04日/Embodied_AI_with_Two_Arms_Zero-shot_Learning,_Safety_and_Modularity.md)
+
+- [Personalized LLM Response Generation with Parameterized Memory Injection](2024年04月04日/Personalized_LLM_Response_Generation_with_Parameterized_Memory_Injection.md)
+
+    - [翻译: ](2024年04月04日/Personalized_LLM_Response_Generation_with_Parameterized_Memory_Injection.md)
+
+- [Select and Summarize: Scene Saliency for Movie Script Summarization](2024年04月04日/Select_and_Summarize_Scene_Saliency_for_Movie_Script_Summarization.md)
+
+    - [翻译: ](2024年04月04日/Select_and_Summarize_Scene_Saliency_for_Movie_Script_Summarization.md)
+
+- [How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes](2024年04月04日/How_does_Multi-Task_Training_Affect_Transformer_In-Context_Capabilities_Investigations_with_Function_Classes.md)
+
+    - [翻译: ](2024年04月04日/How_does_Multi-Task_Training_Affect_Transformer_In-Context_Capabilities_Investigations_with_Function_Classes.md)
+
+- [CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](2024年04月04日/CodeEditorBench_Evaluating_Code_Editing_Capability_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月04日/CodeEditorBench_Evaluating_Code_Editing_Capability_of_Large_Language_Models.md)
+
+- [Evaluating Generative Language Models in Information Extraction as Subjective Question Correction](2024年04月04日/Evaluating_Generative_Language_Models_in_Information_Extraction_as_Subjective_Question_Correction.md)
+
+    - [翻译: ](2024年04月04日/Evaluating_Generative_Language_Models_in_Information_Extraction_as_Subjective_Question_Correction.md)
+
+- [Learn When (not) to Trust Language Models: A Privacy-Centric Adaptive Model-Aware Approach](2024年04月04日/Learn_When_(not)_to_Trust_Language_Models_A_Privacy-Centric_Adaptive_Model-Aware_Approach.md)
+
+    - [翻译: ](2024年04月04日/Learn_When_(not)_to_Trust_Language_Models_A_Privacy-Centric_Adaptive_Model-Aware_Approach.md)
+
+- [AI and the Problem of Knowledge Collapse](2024年04月04日/AI_and_the_Problem_of_Knowledge_Collapse.md)
+
+    - [翻译: ](2024年04月04日/AI_and_the_Problem_of_Knowledge_Collapse.md)
+
+- [Integrating Large Language Models with Multimodal Virtual Reality Interfaces to Support Collaborative Human-Robot Construction Work](2024年04月04日/Integrating_Large_Language_Models_with_Multimodal_Virtual_Reality_Interfaces_to_Support_Collaborative_Human-Robot_Construction_Work.md)
+
+    - [翻译: ](2024年04月04日/Integrating_Large_Language_Models_with_Multimodal_Virtual_Reality_Interfaces_to_Support_Collaborative_Human-Robot_Construction_Work.md)
+
+- [A Cause-Effect Look at Alleviating Hallucination of Knowledge-grounded Dialogue Generation](2024年04月04日/A_Cause-Effect_Look_at_Alleviating_Hallucination_of_Knowledge-grounded_Dialogue_Generation.md)
+
+    - [翻译: ](2024年04月04日/A_Cause-Effect_Look_at_Alleviating_Hallucination_of_Knowledge-grounded_Dialogue_Generation.md)
+
+- [Generative AI and Teachers - For Us or Against Us? A Case Study](2024年04月04日/Generative_AI_and_Teachers_-_For_Us_or_Against_Us_A_Case_Study.md)
+
+    - [翻译: ](2024年04月04日/Generative_AI_and_Teachers_-_For_Us_or_Against_Us_A_Case_Study.md)
+
+- [Reevaluating Bias Detection in Language Models: The Role of Implicit Norm](2024年04月04日/Reevaluating_Bias_Detection_in_Language_Models_The_Role_of_Implicit_Norm.md)
+
+    - [翻译: ](2024年04月04日/Reevaluating_Bias_Detection_in_Language_Models_The_Role_of_Implicit_Norm.md)
+
 2024年04月03日
 
 - [DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement](2024年04月03日/DIBS_Enhancing_Dense_Video_Captioning_with_Unlabeled_Videos_via_Pseudo_Boundary_Enrichment_and_Online_Refinement.md)
