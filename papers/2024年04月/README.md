@@ -84,83 +84,83 @@
 
 - [AI and the Problem of Knowledge Collapse](2024年04月04日/AI_and_the_Problem_of_Knowledge_Collapse.md)
 
-    - [翻译: ](2024年04月04日/AI_and_the_Problem_of_Knowledge_Collapse.md)
+    - [翻译: 人工智能面临的知识崩溃挑战](2024年04月04日/AI_and_the_Problem_of_Knowledge_Collapse.md)
 
 - [Integrating Large Language Models with Multimodal Virtual Reality Interfaces to Support Collaborative Human-Robot Construction Work](2024年04月04日/Integrating_Large_Language_Models_with_Multimodal_Virtual_Reality_Interfaces_to_Support_Collaborative_Human-Robot_Construction_Work.md)
 
-    - [翻译: ](2024年04月04日/Integrating_Large_Language_Models_with_Multimodal_Virtual_Reality_Interfaces_to_Support_Collaborative_Human-Robot_Construction_Work.md)
+    - [翻译: 融合大型语言模型和多模态虚拟现实接口，助力人机协作建筑任务。](2024年04月04日/Integrating_Large_Language_Models_with_Multimodal_Virtual_Reality_Interfaces_to_Support_Collaborative_Human-Robot_Construction_Work.md)
 
 - [A Cause-Effect Look at Alleviating Hallucination of Knowledge-grounded Dialogue Generation](2024年04月04日/A_Cause-Effect_Look_at_Alleviating_Hallucination_of_Knowledge-grounded_Dialogue_Generation.md)
 
-    - [翻译: ](2024年04月04日/A_Cause-Effect_Look_at_Alleviating_Hallucination_of_Knowledge-grounded_Dialogue_Generation.md)
+    - [翻译: 本文通过因果分析，探讨了如何减轻知识引导对话生成中的知识幻觉问题。](2024年04月04日/A_Cause-Effect_Look_at_Alleviating_Hallucination_of_Knowledge-grounded_Dialogue_Generation.md)
 
 - [Generative AI and Teachers - For Us or Against Us? A Case Study](2024年04月04日/Generative_AI_and_Teachers_-_For_Us_or_Against_Us_A_Case_Study.md)
 
-    - [翻译: ](2024年04月04日/Generative_AI_and_Teachers_-_For_Us_or_Against_Us_A_Case_Study.md)
+    - [翻译: 生成性人工智能：助力教育还是竞争者？案例分析揭秘](2024年04月04日/Generative_AI_and_Teachers_-_For_Us_or_Against_Us_A_Case_Study.md)
 
 - [Reevaluating Bias Detection in Language Models: The Role of Implicit Norm](2024年04月04日/Reevaluating_Bias_Detection_in_Language_Models_The_Role_of_Implicit_Norm.md)
 
-    - [翻译: ](2024年04月04日/Reevaluating_Bias_Detection_in_Language_Models_The_Role_of_Implicit_Norm.md)
+    - [翻译: 重新审视语言模型中的偏见识别：探究隐性规范的角色](2024年04月04日/Reevaluating_Bias_Detection_in_Language_Models_The_Role_of_Implicit_Norm.md)
 
 - [Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions](2024年04月04日/Scaffolding_Language_Learning_via_Multi-modal_Tutoring_Systems_with_Pedagogical_Instructions.md)
 
-    - [翻译: ](2024年04月04日/Scaffolding_Language_Learning_via_Multi-modal_Tutoring_Systems_with_Pedagogical_Instructions.md)
+    - [翻译: 利用融入教学指导的多模态辅导系统，为语言学习提供有效支撑。](2024年04月04日/Scaffolding_Language_Learning_via_Multi-modal_Tutoring_Systems_with_Pedagogical_Instructions.md)
 
 - [Edisum: Summarizing and Explaining Wikipedia Edits at Scale](2024年04月04日/Edisum_Summarizing_and_Explaining_Wikipedia_Edits_at_Scale.md)
 
-    - [翻译: ](2024年04月04日/Edisum_Summarizing_and_Explaining_Wikipedia_Edits_at_Scale.md)
+    - [翻译: Edisum：面向大规模的维基百科编辑，实现内容概括与阐释。](2024年04月04日/Edisum_Summarizing_and_Explaining_Wikipedia_Edits_at_Scale.md)
 
 - [Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought](2024年04月04日/Can_Small_Language_Models_Help_Large_Language_Models_Reason_Better_LM-Guided_Chain-of-Thought.md)
 
-    - [翻译: ](2024年04月04日/Can_Small_Language_Models_Help_Large_Language_Models_Reason_Better_LM-Guided_Chain-of-Thought.md)
+    - [翻译: 小型语言模型能否助力大型语言模型提升推理能力？——通过LM引导的思维链条探究](2024年04月04日/Can_Small_Language_Models_Help_Large_Language_Models_Reason_Better_LM-Guided_Chain-of-Thought.md)
 
 - [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](2024年04月04日/MiniGPT4-Video_Advancing_Multimodal_LLMs_for_Video_Understanding_with_Interleaved_Visual-Textual_Tokens.md)
 
-    - [翻译: ](2024年04月04日/MiniGPT4-Video_Advancing_Multimodal_LLMs_for_Video_Understanding_with_Interleaved_Visual-Textual_Tokens.md)
+    - [翻译: MiniGPT4-Video：利用交错的视觉与文本元素，推动多模态大型语言模型在视频理解方面的发展。](2024年04月04日/MiniGPT4-Video_Advancing_Multimodal_LLMs_for_Video_Understanding_with_Interleaved_Visual-Textual_Tokens.md)
 
 - [Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](2024年04月04日/Red_Teaming_GPT-4V_Are_GPT-4V_Safe_Against_UniMulti-Modal_Jailbreak_Attacks.md)
 
-    - [翻译: ](2024年04月04日/Red_Teaming_GPT-4V_Are_GPT-4V_Safe_Against_UniMulti-Modal_Jailbreak_Attacks.md)
+    - [翻译: 针对 GPT-4V 的红队测试：这款 AI 能否抵御单模态或多模态的攻击逃逸？](2024年04月04日/Red_Teaming_GPT-4V_Are_GPT-4V_Safe_Against_UniMulti-Modal_Jailbreak_Attacks.md)
 
 - [Scaling Up Video Summarization Pretraining with Large Language Models](2024年04月04日/Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models.md)
+    - [翻译: 借助大型语言模型，我们正在扩大视频摘要预训练的规模。](2024年04月04日/Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models.md)
 
 - [LongVLM: Efficient Long Video Understanding via Large Language Models](2024年04月04日/LongVLM_Efficient_Long_Video_Understanding_via_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/LongVLM_Efficient_Long_Video_Understanding_via_Large_Language_Models.md)
+    - [翻译: LongVLM 通过运用大型语言模型，高效地解读长视频内容。](2024年04月04日/LongVLM_Efficient_Long_Video_Understanding_via_Large_Language_Models.md)
 
 - [nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States](2024年04月04日/nicolay-r_at_SemEval-2024_Task_3_Using_Flan-T5_for_Reasoning_Emotion_Cause_in_Conversations_with_Chain-of-Thought_on_Emotion_States.md)
 
-    - [翻译: ](2024年04月04日/nicolay-r_at_SemEval-2024_Task_3_Using_Flan-T5_for_Reasoning_Emotion_Cause_in_Conversations_with_Chain-of-Thought_on_Emotion_States.md)
+    - [翻译: 在 SemEval-2024 的第三项任务中，nicolay-r 利用 Flan-T5 模型，通过情绪状态的思维链推理对话中的情绪成因。](2024年04月04日/nicolay-r_at_SemEval-2024_Task_3_Using_Flan-T5_for_Reasoning_Emotion_Cause_in_Conversations_with_Chain-of-Thought_on_Emotion_States.md)
 
 - [Towards Pareto Optimal Throughput in Small Language Model Serving](2024年04月04日/Towards_Pareto_Optimal_Throughput_in_Small_Language_Model_Serving.md)
 
-    - [翻译: ](2024年04月04日/Towards_Pareto_Optimal_Throughput_in_Small_Language_Model_Serving.md)
+    - [翻译: 追求在小型语言模型服务中的帕累托最优吞吐量](2024年04月04日/Towards_Pareto_Optimal_Throughput_in_Small_Language_Model_Serving.md)
 
 - [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](2024年04月04日/How_Easily_do_Irrelevant_Inputs_Skew_the_Responses_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/How_Easily_do_Irrelevant_Inputs_Skew_the_Responses_of_Large_Language_Models.md)
+    - [翻译: 大型语言模型对无关输入的敏感程度如何？](2024年04月04日/How_Easily_do_Irrelevant_Inputs_Skew_the_Responses_of_Large_Language_Models.md)
 
 - [Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics](2024年04月04日/Probing_Large_Language_Models_for_Scalar_Adjective_Lexical_Semantics_and_Scalar_Diversity_Pragmatics.md)
 
-    - [翻译: ](2024年04月04日/Probing_Large_Language_Models_for_Scalar_Adjective_Lexical_Semantics_and_Scalar_Diversity_Pragmatics.md)
+    - [翻译: 深入研究大型语言模型中的标量形容词词义和标量多样性语用现象。](2024年04月04日/Probing_Large_Language_Models_for_Scalar_Adjective_Lexical_Semantics_and_Scalar_Diversity_Pragmatics.md)
 
 - [DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models](2024年04月04日/DELTA_Decomposed_Efficient_Long-Term_Robot_Task_Planning_using_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/DELTA_Decomposed_Efficient_Long-Term_Robot_Task_Planning_using_Large_Language_Models.md)
+    - [翻译: DELTA：借助大型语言模型，实现高效分解的机器人长期任务规划](2024年04月04日/DELTA_Decomposed_Efficient_Long-Term_Robot_Task_Planning_using_Large_Language_Models.md)
 
 - [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](2024年04月04日/RALL-E_Robust_Codec_Language_Modeling_with_Chain-of-Thought_Prompting_for_Text-to-Speech_Synthesis.md)
 
-    - [翻译: ](2024年04月04日/RALL-E_Robust_Codec_Language_Modeling_with_Chain-of-Thought_Prompting_for_Text-to-Speech_Synthesis.md)
+    - [翻译: RALL-E：采用链式思维引导的编解码器语言模型，增强文本至语音合成的鲁棒性](2024年04月04日/RALL-E_Robust_Codec_Language_Modeling_with_Chain-of-Thought_Prompting_for_Text-to-Speech_Synthesis.md)
 
 - [Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers](2024年04月04日/Do_Large_Language_Models_Rank_Fairly_An_Empirical_Study_on_the_Fairness_of_LLMs_as_Rankers.md)
 
-    - [翻译: ](2024年04月04日/Do_Large_Language_Models_Rank_Fairly_An_Empirical_Study_on_the_Fairness_of_LLMs_as_Rankers.md)
+    - [翻译: 大型语言模型的排名是否公正？一项针对LLMs作为排名器的公平性经验性研究](2024年04月04日/Do_Large_Language_Models_Rank_Fairly_An_Empirical_Study_on_the_Fairness_of_LLMs_as_Rankers.md)
 
 - [The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models](2024年04月04日/The_Probabilities_Also_Matter_A_More_Faithful_Metric_for_Faithfulness_of_Free-Text_Explanations_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/The_Probabilities_Also_Matter_A_More_Faithful_Metric_for_Faithfulness_of_Free-Text_Explanations_in_Large_Language_Models.md)
+    - [翻译: 概率的权重：构建更精确衡量大型语言模型自由文本解释准确性的指标](2024年04月04日/The_Probabilities_Also_Matter_A_More_Faithful_Metric_for_Faithfulness_of_Free-Text_Explanations_in_Large_Language_Models.md)
 
 2024年04月03日
 
@@ -334,47 +334,47 @@
 
 - [UniAV: Unified Audio-Visual Perception for Multi-Task Video Localization](2024年04月03日/UniAV_Unified_Audio-Visual_Perception_for_Multi-Task_Video_Localization.md)
 
-    - [翻译: ](2024年04月03日/UniAV_Unified_Audio-Visual_Perception_for_Multi-Task_Video_Localization.md)
+    - [翻译: UniAV：集视听感知于一体，实现多任务视频精准定位](2024年04月03日/UniAV_Unified_Audio-Visual_Perception_for_Multi-Task_Video_Localization.md)
 
 - [Multi-modal Learning for WebAssembly Reverse Engineering](2024年04月03日/Multi-modal_Learning_for_WebAssembly_Reverse_Engineering.md)
 
-    - [翻译: ](2024年04月03日/Multi-modal_Learning_for_WebAssembly_Reverse_Engineering.md)
+    - [翻译: 通过多模态学习方法，探索WebAssembly逆向工程的新途径。](2024年04月03日/Multi-modal_Learning_for_WebAssembly_Reverse_Engineering.md)
 
 - [Diverse and Tailored Image Generation for Zero-shot Multi-label Classification](2024年04月03日/Diverse_and_Tailored_Image_Generation_for_Zero-shot_Multi-label_Classification.md)
 
-    - [翻译: ](2024年04月03日/Diverse_and_Tailored_Image_Generation_for_Zero-shot_Multi-label_Classification.md)
+    - [翻译: 为零-shot多标签分类打造多样化且针对性的图像生成方法。](2024年04月03日/Diverse_and_Tailored_Image_Generation_for_Zero-shot_Multi-label_Classification.md)
 
 - [Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](2024年04月03日/Robust_Pronoun_Use_Fidelity_with_English_LLMs_Are_they_Reasoning,_Repeating,_or_Just_Biased.md)
 
-    - [翻译: ](2024年04月03日/Robust_Pronoun_Use_Fidelity_with_English_LLMs_Are_they_Reasoning,_Repeating,_or_Just_Biased.md)
+    - [翻译: 英语大型语言模型的代词使用准确度：它们真的在进行逻辑推理，还是仅仅在重复或受到偏见的驱使？](2024年04月03日/Robust_Pronoun_Use_Fidelity_with_English_LLMs_Are_they_Reasoning,_Repeating,_or_Just_Biased.md)
 
 - [Towards Standards-Compliant Assistive Technology Product Specifications via LLMs](2024年04月03日/Towards_Standards-Compliant_Assistive_Technology_Product_Specifications_via_LLMs.md)
 
-    - [翻译: ](2024年04月03日/Towards_Standards-Compliant_Assistive_Technology_Product_Specifications_via_LLMs.md)
+    - [翻译: 借助大型语言模型（LLMs），迈向符合标准的辅助技术产品规范。](2024年04月03日/Towards_Standards-Compliant_Assistive_Technology_Product_Specifications_via_LLMs.md)
 
 - [LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models](2024年04月03日/LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models.md)
 
-    - [翻译: ](2024年04月03日/LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models.md)
+    - [翻译: LVLM-解读：为大型视觉-语言模型打造的可解释性工具](2024年04月03日/LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models.md)
 
 - [Testing the Effect of Code Documentation on Large Language Model Code Understanding](2024年04月03日/Testing_the_Effect_of_Code_Documentation_on_Large_Language_Model_Code_Understanding.md)
 
-    - [翻译: ](2024年04月03日/Testing_the_Effect_of_Code_Documentation_on_Large_Language_Model_Code_Understanding.md)
+    - [翻译: 探究代码注释在提升大型语言模型对代码理解方面的作用](2024年04月03日/Testing_the_Effect_of_Code_Documentation_on_Large_Language_Model_Code_Understanding.md)
 
 - [Auditing the Use of Language Models to Guide Hiring Decisions](2024年04月03日/Auditing_the_Use_of_Language_Models_to_Guide_Hiring_Decisions.md)
 
-    - [翻译: ](2024年04月03日/Auditing_the_Use_of_Language_Models_to_Guide_Hiring_Decisions.md)
+    - [翻译: 本文探讨了运用语言模型辅助招聘决策的实践，并评估其有效性与潜在影响。](2024年04月03日/Auditing_the_Use_of_Language_Models_to_Guide_Hiring_Decisions.md)
 
 - [Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model](2024年04月03日/Construction_of_Functional_Materials_Knowledge_Graph_in_Multidisciplinary_Materials_Science_via_Large_Language_Model.md)
 
-    - [翻译: ](2024年04月03日/Construction_of_Functional_Materials_Knowledge_Graph_in_Multidisciplinary_Materials_Science_via_Large_Language_Model.md)
+    - [翻译: 借助大型语言模型，跨学科材料科学领域正致力于构建功能材料的知识图谱。](2024年04月03日/Construction_of_Functional_Materials_Knowledge_Graph_in_Multidisciplinary_Materials_Science_via_Large_Language_Model.md)
 
 - [Mai Ho'omāuna i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian](2024年04月03日/Mai_Ho'omāuna_i_ka_'Ai_Language_Models_Improve_Automatic_Speech_Recognition_in_Hawaiian.md)
 
-    - [翻译: ](2024年04月03日/Mai_Ho'omāuna_i_ka_'Ai_Language_Models_Improve_Automatic_Speech_Recognition_in_Hawaiian.md)
+    - [翻译: 借助语言模型，夏威夷语的自动语音识别技术得到提升](2024年04月03日/Mai_Ho'omāuna_i_ka_'Ai_Language_Models_Improve_Automatic_Speech_Recognition_in_Hawaiian.md)
 
 - [JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](2024年04月03日/JailBreakV-28K_A_Benchmark_for_Assessing_the_Robustness_of_MultiModal_Large_Language_Models_against_Jailbreak_Attacks.md)
 
-    - [翻译: ](2024年04月03日/JailBreakV-28K_A_Benchmark_for_Assessing_the_Robustness_of_MultiModal_Large_Language_Models_against_Jailbreak_Attacks.md)
+    - [翻译: JailBreakV-28K：针对越狱攻击，评估多模态大型语言模型鲁棒性的基准测试。](2024年04月03日/JailBreakV-28K_A_Benchmark_for_Assessing_the_Robustness_of_MultiModal_Large_Language_Models_against_Jailbreak_Attacks.md)
 
 2024年04月02日
 
