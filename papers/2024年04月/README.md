@@ -52,35 +52,35 @@
 
 - [Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models](2024年04月04日/Untangle_the_KNOT_Interweaving_Conflicting_Knowledge_and_Reasoning_Skills_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/Untangle_the_KNOT_Interweaving_Conflicting_Knowledge_and_Reasoning_Skills_in_Large_Language_Models.md)
+    - [翻译: 拨乱反正：大型语言模型中融合知识冲突与推理能力的交织艺术](2024年04月04日/Untangle_the_KNOT_Interweaving_Conflicting_Knowledge_and_Reasoning_Skills_in_Large_Language_Models.md)
 
 - [Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity](2024年04月04日/Embodied_AI_with_Two_Arms_Zero-shot_Learning,_Safety_and_Modularity.md)
 
-    - [翻译: ](2024年04月04日/Embodied_AI_with_Two_Arms_Zero-shot_Learning,_Safety_and_Modularity.md)
+    - [翻译: 双臂机器人的具身人工智能：探索零-shot 学习能力、安全性能与模块化设计。](2024年04月04日/Embodied_AI_with_Two_Arms_Zero-shot_Learning,_Safety_and_Modularity.md)
 
 - [Personalized LLM Response Generation with Parameterized Memory Injection](2024年04月04日/Personalized_LLM_Response_Generation_with_Parameterized_Memory_Injection.md)
 
-    - [翻译: ](2024年04月04日/Personalized_LLM_Response_Generation_with_Parameterized_Memory_Injection.md)
+    - [翻译: 通过参数化记忆注入，实现大型语言模型（LLM）的个性化响应生成。](2024年04月04日/Personalized_LLM_Response_Generation_with_Parameterized_Memory_Injection.md)
 
 - [Select and Summarize: Scene Saliency for Movie Script Summarization](2024年04月04日/Select_and_Summarize_Scene_Saliency_for_Movie_Script_Summarization.md)
 
-    - [翻译: ](2024年04月04日/Select_and_Summarize_Scene_Saliency_for_Movie_Script_Summarization.md)
+    - [翻译: 精选与概述：电影剧本摘要中的场景焦点](2024年04月04日/Select_and_Summarize_Scene_Saliency_for_Movie_Script_Summarization.md)
 
 - [How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes](2024年04月04日/How_does_Multi-Task_Training_Affect_Transformer_In-Context_Capabilities_Investigations_with_Function_Classes.md)
 
-    - [翻译: ](2024年04月04日/How_does_Multi-Task_Training_Affect_Transformer_In-Context_Capabilities_Investigations_with_Function_Classes.md)
+    - [翻译: 多任务训练对变换器模型的上下文理解能力有何影响？本研究通过探索不同函数类别，深入探讨了这一问题。](2024年04月04日/How_does_Multi-Task_Training_Affect_Transformer_In-Context_Capabilities_Investigations_with_Function_Classes.md)
 
 - [CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](2024年04月04日/CodeEditorBench_Evaluating_Code_Editing_Capability_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月04日/CodeEditorBench_Evaluating_Code_Editing_Capability_of_Large_Language_Models.md)
+    - [翻译: CodeEditorBench：探究大型语言模型在代码编辑方面的表现](2024年04月04日/CodeEditorBench_Evaluating_Code_Editing_Capability_of_Large_Language_Models.md)
 
 - [Evaluating Generative Language Models in Information Extraction as Subjective Question Correction](2024年04月04日/Evaluating_Generative_Language_Models_in_Information_Extraction_as_Subjective_Question_Correction.md)
 
-    - [翻译: ](2024年04月04日/Evaluating_Generative_Language_Models_in_Information_Extraction_as_Subjective_Question_Correction.md)
+    - [翻译: 在信息提取领域，探究生成型语言模型在主观问题纠正任务中的表现。](2024年04月04日/Evaluating_Generative_Language_Models_in_Information_Extraction_as_Subjective_Question_Correction.md)
 
 - [Learn When (not) to Trust Language Models: A Privacy-Centric Adaptive Model-Aware Approach](2024年04月04日/Learn_When_(not)_to_Trust_Language_Models_A_Privacy-Centric_Adaptive_Model-Aware_Approach.md)
 
-    - [翻译: ](2024年04月04日/Learn_When_(not)_to_Trust_Language_Models_A_Privacy-Centric_Adaptive_Model-Aware_Approach.md)
+    - [翻译: 探索信任与否：一种以隐私为核心，适应性的语言模型感知策略](2024年04月04日/Learn_When_(not)_to_Trust_Language_Models_A_Privacy-Centric_Adaptive_Model-Aware_Approach.md)
 
 - [AI and the Problem of Knowledge Collapse](2024年04月04日/AI_and_the_Problem_of_Knowledge_Collapse.md)
 
