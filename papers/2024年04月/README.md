@@ -48,7 +48,7 @@
 
 - [SemGrasp: Semantic Grasp Generation via Language Aligned Discretization](2024年04月04日/SemGrasp_Semantic_Grasp_Generation_via_Language_Aligned_Discretization.md)
 
-    - [翻译: ](2024年04月04日/SemGrasp_Semantic_Grasp_Generation_via_Language_Aligned_Discretization.md)
+    - [翻译: SemGrasp：利用语言对齐离散化技术实现语义抓取的生成](2024年04月04日/SemGrasp_Semantic_Grasp_Generation_via_Language_Aligned_Discretization.md)
 
 - [Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models](2024年04月04日/Untangle_the_KNOT_Interweaving_Conflicting_Knowledge_and_Reasoning_Skills_in_Large_Language_Models.md)
 
