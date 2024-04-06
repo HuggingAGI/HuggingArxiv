@@ -478,6 +478,10 @@
 
     - [翻译: ARL2 方法旨在通过自我指导适应性相关性标注技术，实现对黑盒式大型语言模型检索器的精准对齐，以提升其性能。](2024年02月21日/ARL2_Aligning_Retrievers_for_Black-box_Large_Language_Models_via_Self-guided_Adaptive_Relevance_Labeling.md)
 
+- [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](2024年02月21日/CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing.md)
+
+    - [翻译: ](2024年02月21日/CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing.md)
+
 2024年02月07日
 
 - [Continual Learning for Large Language Models: A Survey](2024年02月07日/Continual_Learning_for_Large_Language_Models_A_Survey.md)
