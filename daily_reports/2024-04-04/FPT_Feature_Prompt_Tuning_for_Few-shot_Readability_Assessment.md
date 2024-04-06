@@ -14,3 +14,5 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.02772/colorBar.png)
 
 [https://wx.zsxq.com/dweb2/index/topic_detail/2855814415548811](https://wx.zsxq.com/dweb2/index/topic_detail/2855814415548811)
+
+[https://arxiv.org/abs/2404.02772](https://arxiv.org/abs/2404.02772)

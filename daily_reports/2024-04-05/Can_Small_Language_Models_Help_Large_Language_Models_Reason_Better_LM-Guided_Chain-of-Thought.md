@@ -8,3 +8,5 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.03414/barplot_annotation.png)
 
 [https://wx.zsxq.com/dweb2/index/topic_detail/5122188251251414](https://wx.zsxq.com/dweb2/index/topic_detail/5122188251251414)
+
+[https://arxiv.org/abs/2404.03414](https://arxiv.org/abs/2404.03414)

@@ -8,3 +8,5 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.03598/data_ablation_binder_pubmedbert.png)
 
 [https://wx.zsxq.com/dweb2/index/topic_detail/1522588254811142](https://wx.zsxq.com/dweb2/index/topic_detail/1522588254811142)
+
+[https://arxiv.org/abs/2404.03598](https://arxiv.org/abs/2404.03598)

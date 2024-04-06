@@ -9,3 +9,5 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.03080/fmkg-matkg.jpg)
 
 [https://wx.zsxq.com/dweb2/index/topic_detail/4844811451551588](https://wx.zsxq.com/dweb2/index/topic_detail/4844811451551588)
+
+[https://arxiv.org/abs/2404.03080](https://arxiv.org/abs/2404.03080)
