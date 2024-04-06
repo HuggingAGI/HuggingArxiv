@@ -480,7 +480,7 @@
 
 - [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](2024年02月21日/CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing.md)
 
-    - [翻译: ](2024年02月21日/CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing.md)
+    - [翻译: CRITIC 研究：大型语言模型能通过与工具的互动批评实现自我修正。](2024年02月21日/CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing.md)
 
 2024年02月07日
 
