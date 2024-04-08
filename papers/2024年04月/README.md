@@ -1,5 +1,75 @@
 # 2024年04月
 
+2024年04月05日
+
+- [Physical Property Understanding from Language-Embedded Feature Fields](2024年04月05日/Physical_Property_Understanding_from_Language-Embedded_Feature_Fields.md)
+
+    - [翻译: 通过语言嵌入的特征场来掌握物理属性理解](2024年04月05日/Physical_Property_Understanding_from_Language-Embedded_Feature_Fields.md)
+
+- [Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents](2024年04月05日/Cleared_for_Takeoff_Compositional_&_Conditional_Reasoning_may_be_the_Achilles_Heel_to_(Flight-Booking)_Language_Agents.md)
+
+    - [翻译: 起飞在即？组合与条件推理或许会成为机票预订语言助手的软肋。](2024年04月05日/Cleared_for_Takeoff_Compositional_&_Conditional_Reasoning_may_be_the_Achilles_Heel_to_(Flight-Booking)_Language_Agents.md)
+
+- [Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation](2024年04月05日/Unlocking_Parameter-Efficient_Fine-Tuning_for_Low-Resource_Language_Translation.md)
+
+    - [翻译: 探索低资源语言翻译的高效参数微调方法](2024年04月05日/Unlocking_Parameter-Efficient_Fine-Tuning_for_Low-Resource_Language_Translation.md)
+
+- [Social Skill Training with Large Language Models](2024年04月05日/Social_Skill_Training_with_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型开展社交技巧培训](2024年04月05日/Social_Skill_Training_with_Large_Language_Models.md)
+
+- [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](2024年04月05日/Chinese_Tiny_LLM_Pretraining_a_Chinese-Centric_Large_Language_Model.md)
+
+    - [翻译: 中文迷你巨模：打造一个专注于中文的超大语言预训练模型](2024年04月05日/Chinese_Tiny_LLM_Pretraining_a_Chinese-Centric_Large_Language_Model.md)
+
+- [Large language models as oracles for instantiating ontologies with domain-specific knowledge](2024年04月05日/Large_language_models_as_oracles_for_instantiating_ontologies_with_domain-specific_knowledge.md)
+
+    - [翻译: 大型语言模型充当领域专业知识本体的即插即用式智能顾问。](2024年04月05日/Large_language_models_as_oracles_for_instantiating_ontologies_with_domain-specific_knowledge.md)
+
+- [Robust Preference Optimization with Provable Noise Tolerance for LLMs](2024年04月05日/Robust_Preference_Optimization_with_Provable_Noise_Tolerance_for_LLMs.md)
+
+    - [翻译: 在大型语言模型中，我们研发了一种鲁棒偏好优化算法，它能够有效抵御噪声干扰，确保了算法的稳定性和可靠性。](2024年04月05日/Robust_Preference_Optimization_with_Provable_Noise_Tolerance_for_LLMs.md)
+
+- [Assessing the quality of information extraction](2024年04月05日/Assessing_the_quality_of_information_extraction.md)
+
+    - [翻译: 对信息提取品质进行评定](2024年04月05日/Assessing_the_quality_of_information_extraction.md)
+
+- [CLUE: A Clinical Language Understanding Evaluation for LLMs](2024年04月05日/CLUE_A_Clinical_Language_Understanding_Evaluation_for_LLMs.md)
+
+    - [翻译: CLUE：一套针对大型语言模型的临床级语言理解评估体系](2024年04月05日/CLUE_A_Clinical_Language_Understanding_Evaluation_for_LLMs.md)
+
+- [VoicePilot: Harnessing LLMs as Speech Interfaces for Physically Assistive Robots](2024年04月05日/VoicePilot_Harnessing_LLMs_as_Speech_Interfaces_for_Physically_Assistive_Robots.md)
+
+    - [翻译: VoicePilot：将大型语言模型 (LLM) 作为物理辅助机器人的语音交互界面](2024年04月05日/VoicePilot_Harnessing_LLMs_as_Speech_Interfaces_for_Physically_Assistive_Robots.md)
+
+- [A Comparison of Methods for Evaluating Generative IR](2024年04月05日/A_Comparison_of_Methods_for_Evaluating_Generative_IR.md)
+
+    - [翻译: 本研究对比了不同的生成式信息检索评估方法。](2024年04月05日/A_Comparison_of_Methods_for_Evaluating_Generative_IR.md)
+
+- [Teaching Llama a New Language Through Cross-Lingual Knowledge Transfer](2024年04月05日/Teaching_Llama_a_New_Language_Through_Cross-Lingual_Knowledge_Transfer.md)
+
+    - [翻译: 借助跨语言知识迁移，教会 Llama 掌握新的语言技能。](2024年04月05日/Teaching_Llama_a_New_Language_Through_Cross-Lingual_Knowledge_Transfer.md)
+
+- [BuDDIE: A Business Document Dataset for Multi-task Information Extraction](2024年04月05日/BuDDIE_A_Business_Document_Dataset_for_Multi-task_Information_Extraction.md)
+
+    - [翻译: BuDDIE：专为多任务信息提取打造的商业文档数据集](2024年04月05日/BuDDIE_A_Business_Document_Dataset_for_Multi-task_Information_Extraction.md)
+
+- [SEME at SemEval-2024 Task 2: Comparing Masked and Generative Language Models on Natural Language Inference for Clinical Trials](2024年04月05日/SEME_at_SemEval-2024_Task_2_Comparing_Masked_and_Generative_Language_Models_on_Natural_Language_Inference_for_Clinical_Trials.md)
+
+    - [翻译: SemEval-2024 任务 2 探讨了 SEME，通过对比遮蔽式和生成式语言模型在临床试验自然语言推理任务上的效果。](2024年04月05日/SEME_at_SemEval-2024_Task_2_Comparing_Masked_and_Generative_Language_Models_on_Natural_Language_Inference_for_Clinical_Trials.md)
+
+- [Simple Techniques for Enhancing Sentence Embeddings in Generative Language Models](2024年04月05日/Simple_Techniques_for_Enhancing_Sentence_Embeddings_in_Generative_Language_Models.md)
+
+    - [翻译: 生成型语言模型中，提升句子嵌入的简易技巧。](2024年04月05日/Simple_Techniques_for_Enhancing_Sentence_Embeddings_in_Generative_Language_Models.md)
+
+- [Can only LLMs do Reasoning?: Potential of Small Language Models in Task Planning](2024年04月05日/Can_only_LLMs_do_Reasoning_Potential_of_Small_Language_Models_in_Task_Planning.md)
+
+    - [翻译: 难道只有大型语言模型才具备推理能力吗？其实不然，小型语言模型在任务规划领域同样拥有不可忽视的潜力。](2024年04月05日/Can_only_LLMs_do_Reasoning_Potential_of_Small_Language_Models_in_Task_Planning.md)
+
+- [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](2024年04月05日/SAAS_Solving_Ability_Amplification_Strategy_for_Enhanced_Mathematical_Reasoning_in_Large_Language_Models.md)
+
+    - [翻译: SAAS：为大型语言模型注入数学推理的强化策略](2024年04月05日/SAAS_Solving_Ability_Amplification_Strategy_for_Enhanced_Mathematical_Reasoning_in_Large_Language_Models.md)
+
 2024年04月04日
 
 - [OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views](2024年04月04日/OpenNeRF_Open_Set_3D_Neural_Scene_Segmentation_with_Pixel-Wise_Features_and_Rendered_Novel_Views.md)
@@ -161,6 +231,50 @@
 - [The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models](2024年04月04日/The_Probabilities_Also_Matter_A_More_Faithful_Metric_for_Faithfulness_of_Free-Text_Explanations_in_Large_Language_Models.md)
 
     - [翻译: 概率的权重：构建更精确衡量大型语言模型自由文本解释准确性的指标](2024年04月04日/The_Probabilities_Also_Matter_A_More_Faithful_Metric_for_Faithfulness_of_Free-Text_Explanations_in_Large_Language_Models.md)
+
+- [Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction](2024年04月04日/Extract,_Define,_Canonicalize_An_LLM-based_Framework_for_Knowledge_Graph_Construction.md)
+
+    - [翻译: 基于大型语言模型，构建知识图谱的新框架：提取信息、明确定义、统一规范。](2024年04月04日/Extract,_Define,_Canonicalize_An_LLM-based_Framework_for_Knowledge_Graph_Construction.md)
+
+- [FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping](2024年04月04日/FFN-SkipLLM_A_Hidden_Gem_for_Autoregressive_Decoding_with_Adaptive_Feed_Forward_Skipping.md)
+
+    - [翻译: FFN-SkipLLM：自回归解码的隐秘利器，通过灵活的前馈网络跳过技术实现。](2024年04月04日/FFN-SkipLLM_A_Hidden_Gem_for_Autoregressive_Decoding_with_Adaptive_Feed_Forward_Skipping.md)
+
+- [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](2024年04月04日/Verifiable_by_Design_Aligning_Language_Models_to_Quote_from_Pre-Training_Data.md)
+
+    - [翻译: 设计之初即验证：确保语言模型能够引用预训练数据](2024年04月04日/Verifiable_by_Design_Aligning_Language_Models_to_Quote_from_Pre-Training_Data.md)
+
+- [PARIS3D: Reasoning-based 3D Part Segmentation Using Large Multimodal Model](2024年04月04日/PARIS3D_Reasoning-based_3D_Part_Segmentation_Using_Large_Multimodal_Model.md)
+
+    - [翻译: PARIS3D：借助庞大的多模态模型，实现基于推理的三维部件识别。](2024年04月04日/PARIS3D_Reasoning-based_3D_Part_Segmentation_Using_Large_Multimodal_Model.md)
+
+- [An Investigation into Misuse of Java Security APIs by Large Language Models](2024年04月04日/An_Investigation_into_Misuse_of_Java_Security_APIs_by_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型不当使用 Java 安全接口问题](2024年04月04日/An_Investigation_into_Misuse_of_Java_Security_APIs_by_Large_Language_Models.md)
+
+- [Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges](2024年04月04日/Understanding_Language_Modeling_Paradigm_Adaptations_in_Recommender_Systems_Lessons_Learned_and_Open_Challenges.md)
+
+    - [翻译: 深入探索推荐系统内语言建模范式的调整：吸取的经验与待解难题](2024年04月04日/Understanding_Language_Modeling_Paradigm_Adaptations_in_Recommender_Systems_Lessons_Learned_and_Open_Challenges.md)
+
+- [GenQREnsemble: Zero-Shot LLM Ensemble Prompting for Generative Query Reformulation](2024年04月04日/GenQREnsemble_Zero-Shot_LLM_Ensemble_Prompting_for_Generative_Query_Reformulation.md)
+
+    - [翻译: ](2024年04月04日/GenQREnsemble_Zero-Shot_LLM_Ensemble_Prompting_for_Generative_Query_Reformulation.md)
+
+- [Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations](2024年04月04日/Fakes_of_Varying_Shades_How_Warning_Affects_Human_Perception_and_Engagement_Regarding_LLM_Hallucinations.md)
+
+    - [翻译: ](2024年04月04日/Fakes_of_Varying_Shades_How_Warning_Affects_Human_Perception_and_Engagement_Regarding_LLM_Hallucinations.md)
+
+- [SHROOM-INDElab at SemEval-2024 Task 6: Zero- and Few-Shot LLM-Based Classification for Hallucination Detection](2024年04月04日/SHROOM-INDElab_at_SemEval-2024_Task_6_Zero-_and_Few-Shot_LLM-Based_Classification_for_Hallucination_Detection.md)
+
+    - [翻译: ](2024年04月04日/SHROOM-INDElab_at_SemEval-2024_Task_6_Zero-_and_Few-Shot_LLM-Based_Classification_for_Hallucination_Detection.md)
+
+- [Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences](2024年04月04日/Direct_Nash_Optimization_Teaching_Language_Models_to_Self-Improve_with_General_Preferences.md)
+
+    - [翻译: ](2024年04月04日/Direct_Nash_Optimization_Teaching_Language_Models_to_Self-Improve_with_General_Preferences.md)
+
+- [No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance](2024年04月04日/No_Zero-Shot_Without_Exponential_Data_Pretraining_Concept_Frequency_Determines_Multimodal_Model_Performance.md)
+
+    - [翻译: ](2024年04月04日/No_Zero-Shot_Without_Exponential_Data_Pretraining_Concept_Frequency_Determines_Multimodal_Model_Performance.md)
 
 2024年04月03日
 

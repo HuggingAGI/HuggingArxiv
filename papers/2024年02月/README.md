@@ -482,6 +482,18 @@
 
     - [翻译: CRITIC 研究：大型语言模型能通过与工具的互动批评实现自我修正。](2024年02月21日/CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing.md)
 
+2024年02月16日
+
+- [LLMs in the Heart of Differential Testing: A Case Study on a Medical Rule Engine](2024年02月16日/LLMs_in_the_Heart_of_Differential_Testing_A_Case_Study_on_a_Medical_Rule_Engine.md)
+
+    - [翻译: ](2024年02月16日/LLMs_in_the_Heart_of_Differential_Testing_A_Case_Study_on_a_Medical_Rule_Engine.md)
+
+2024年02月15日
+
+- [X-lifecycle Learning for Cloud Incident Management using LLMs](2024年02月15日/X-lifecycle_Learning_for_Cloud_Incident_Management_using_LLMs.md)
+
+    - [翻译: ](2024年02月15日/X-lifecycle_Learning_for_Cloud_Incident_Management_using_LLMs.md)
+
 2024年02月07日
 
 - [Continual Learning for Large Language Models: A Survey](2024年02月07日/Continual_Learning_for_Large_Language_Models_A_Survey.md)
