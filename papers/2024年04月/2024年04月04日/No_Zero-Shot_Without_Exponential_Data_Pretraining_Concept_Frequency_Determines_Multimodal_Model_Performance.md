@@ -1,0 +1,69 @@
+# 脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。
+
+发布时间：2024年04月04日
+
+`LLM应用` `多模态` `机器学习`
+
+> No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance
+
+# 摘要
+
+> 网络爬取的预训练数据集为多模态模型（例如CLIP用于分类/检索，Stable-Diffusion用于图像生成）的“零次”评估性能提供了坚实基础。然而，这类模型的“零次”泛化意义尚不明确，因为目前还不清楚它们的预训练数据集在多大程度上覆盖了“零次”评估期间的目标下游概念。本研究探讨了一个关键问题：多模态模型对下游概念的性能如何受到这些概念在预训练数据集中出现频率的影响？我们对34个模型和五个主要的预训练数据集（CC-3M、CC-12M、YFCC-15M、LAION-400M、LAION-Aesthetics）进行了全面分析，产生了超过300GB的数据成果。研究结果一致表明，多模态模型并未展现出“零次”泛化能力，而是需要指数级增长的数据量才能在下游“零次”性能上取得线性进步，呈现出一种样本效率低下的对数线性增长趋势。这种趋势在控制了预训练与下游数据集样本相似性，并在纯合成数据分布上进行测试后依然存在。此外，通过对长尾数据进行基准测试，我们发现多模态模型整体表现欠佳。我们为这一长尾测试集命名为“让它摇摆！”基准，旨在推动相关研究的深入。综合我们的研究结果，揭示了对训练数据的指数级需求，表明实现大规模训练环境下“零次”泛化能力的关键尚待发掘。
+
+> Web-crawled pretraining datasets underlie the impressive "zero-shot" evaluation performance of multimodal models, such as CLIP for classification/retrieval and Stable-Diffusion for image generation. However, it is unclear how meaningful the notion of "zero-shot" generalization is for such multimodal models, as it is not known to what extent their pretraining datasets encompass the downstream concepts targeted for during "zero-shot" evaluation. In this work, we ask: How is the performance of multimodal models on downstream concepts influenced by the frequency of these concepts in their pretraining datasets? We comprehensively investigate this question across 34 models and five standard pretraining datasets (CC-3M, CC-12M, YFCC-15M, LAION-400M, LAION-Aesthetics), generating over 300GB of data artifacts. We consistently find that, far from exhibiting "zero-shot" generalization, multimodal models require exponentially more data to achieve linear improvements in downstream "zero-shot" performance, following a sample inefficient log-linear scaling trend. This trend persists even when controlling for sample-level similarity between pretraining and downstream datasets, and testing on purely synthetic data distributions. Furthermore, upon benchmarking models on long-tailed data sampled based on our analysis, we demonstrate that multimodal models across the board perform poorly. We contribute this long-tail test set as the "Let it Wag!" benchmark to further research in this direction. Taken together, our study reveals an exponential need for training data which implies that the key to "zero-shot" generalization capabilities under large-scale training paradigms remains to be found.
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x1.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x2.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x3.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x4.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x5.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x6.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x7.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x9.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x10.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x11.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x12.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x13.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x14.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x15.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x16.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x17.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/clip_count_v1all_hsof.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x18.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x19.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x20.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x21.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x22.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/x23.png)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/eccv_supp_qual1.jpg)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/eccv_supp_qual2.jpg)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/eccv_supp_qual3.jpg)
+
+![脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](../../../paper_images/2404.04125/eccv_supp_qual4.jpg)
+
+[Arxiv](https://arxiv.org/abs/2404.04125)
