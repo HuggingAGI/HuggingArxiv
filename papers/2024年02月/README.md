@@ -486,13 +486,13 @@
 
 - [LLMs in the Heart of Differential Testing: A Case Study on a Medical Rule Engine](2024年02月16日/LLMs_in_the_Heart_of_Differential_Testing_A_Case_Study_on_a_Medical_Rule_Engine.md)
 
-    - [翻译: ](2024年02月16日/LLMs_in_the_Heart_of_Differential_Testing_A_Case_Study_on_a_Medical_Rule_Engine.md)
+    - [翻译: 大型语言模型成为差异测试的核心：探索医学规则引擎的案例分析](2024年02月16日/LLMs_in_the_Heart_of_Differential_Testing_A_Case_Study_on_a_Medical_Rule_Engine.md)
 
 2024年02月15日
 
 - [X-lifecycle Learning for Cloud Incident Management using LLMs](2024年02月15日/X-lifecycle_Learning_for_Cloud_Incident_Management_using_LLMs.md)
 
-    - [翻译: ](2024年02月15日/X-lifecycle_Learning_for_Cloud_Incident_Management_using_LLMs.md)
+    - [翻译: 通过大型语言模型实现云事件管理的全生命周期学习策略。](2024年02月15日/X-lifecycle_Learning_for_Cloud_Incident_Management_using_LLMs.md)
 
 2024年02月07日
 

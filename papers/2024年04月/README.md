@@ -258,23 +258,23 @@
 
 - [GenQREnsemble: Zero-Shot LLM Ensemble Prompting for Generative Query Reformulation](2024年04月04日/GenQREnsemble_Zero-Shot_LLM_Ensemble_Prompting_for_Generative_Query_Reformulation.md)
 
-    - [翻译: ](2024年04月04日/GenQREnsemble_Zero-Shot_LLM_Ensemble_Prompting_for_Generative_Query_Reformulation.md)
+    - [翻译: GenQREnsemble：零-shot 技术打造的大型语言模型集成，为生成式查询改写而生。](2024年04月04日/GenQREnsemble_Zero-Shot_LLM_Ensemble_Prompting_for_Generative_Query_Reformulation.md)
 
 - [Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations](2024年04月04日/Fakes_of_Varying_Shades_How_Warning_Affects_Human_Perception_and_Engagement_Regarding_LLM_Hallucinations.md)
 
-    - [翻译: ](2024年04月04日/Fakes_of_Varying_Shades_How_Warning_Affects_Human_Perception_and_Engagement_Regarding_LLM_Hallucinations.md)
+    - [翻译: 虚假的多样性：警示如何改变人们对大型语言模型幻觉的认知和互动](2024年04月04日/Fakes_of_Varying_Shades_How_Warning_Affects_Human_Perception_and_Engagement_Regarding_LLM_Hallucinations.md)
 
 - [SHROOM-INDElab at SemEval-2024 Task 6: Zero- and Few-Shot LLM-Based Classification for Hallucination Detection](2024年04月04日/SHROOM-INDElab_at_SemEval-2024_Task_6_Zero-_and_Few-Shot_LLM-Based_Classification_for_Hallucination_Detection.md)
 
-    - [翻译: ](2024年04月04日/SHROOM-INDElab_at_SemEval-2024_Task_6_Zero-_and_Few-Shot_LLM-Based_Classification_for_Hallucination_Detection.md)
+    - [翻译: SHROOM-INDElab 参与 SemEval-2024 第六任务：基于大型语言模型的零样本和少样本分类技术，以检测文本中的虚构信息。](2024年04月04日/SHROOM-INDElab_at_SemEval-2024_Task_6_Zero-_and_Few-Shot_LLM-Based_Classification_for_Hallucination_Detection.md)
 
 - [Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences](2024年04月04日/Direct_Nash_Optimization_Teaching_Language_Models_to_Self-Improve_with_General_Preferences.md)
 
-    - [翻译: ](2024年04月04日/Direct_Nash_Optimization_Teaching_Language_Models_to_Self-Improve_with_General_Preferences.md)
+    - [翻译: 通过直接纳什优化方法，我们引导语言模型学会根据普遍偏好进行自我优化和提升。](2024年04月04日/Direct_Nash_Optimization_Teaching_Language_Models_to_Self-Improve_with_General_Preferences.md)
 
 - [No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance](2024年04月04日/No_Zero-Shot_Without_Exponential_Data_Pretraining_Concept_Frequency_Determines_Multimodal_Model_Performance.md)
 
-    - [翻译: ](2024年04月04日/No_Zero-Shot_Without_Exponential_Data_Pretraining_Concept_Frequency_Determines_Multimodal_Model_Performance.md)
+    - [翻译: 脱离大量数据谈"零-shot"不现实：预训练中概念的出现频率是提升多模态模型表现的关键因素。](2024年04月04日/No_Zero-Shot_Without_Exponential_Data_Pretraining_Concept_Frequency_Determines_Multimodal_Model_Performance.md)
 
 2024年04月03日
 
