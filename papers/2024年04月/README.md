@@ -1,5 +1,15 @@
 # 2024年04月
 
+2024年04月09日
+
+- [Text-Based Reasoning About Vector Graphics](2024年04月09日/Text-Based_Reasoning_About_Vector_Graphics.md)
+
+    - [翻译: 通过文本解读矢量图形的逻辑推理](2024年04月09日/Text-Based_Reasoning_About_Vector_Graphics.md)
+
+- [VISION2UI: A Real-World Dataset with Layout for Code Generation from UI Designs](2024年04月09日/VISION2UI_A_Real-World_Dataset_with_Layout_for_Code_Generation_from_UI_Designs.md)
+
+    - [翻译: VISION2UI：一个包含布局信息的真实世界数据集，用于从UI设计生成代码。](2024年04月09日/VISION2UI_A_Real-World_Dataset_with_Layout_for_Code_Generation_from_UI_Designs.md)
+
 2024年04月08日
 
 - [A Large-Scale Exploration of $μ$-Transfer](2024年04月08日/A_Large-Scale_Exploration_of_$μ$-Transfer.md)
