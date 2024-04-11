@@ -80,71 +80,71 @@
 
 - [GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications](2024年04月10日/GoEX_Perspectives_and_Designs_Towards_a_Runtime_for_Autonomous_LLM_Applications.md)
 
-    - [翻译: ](2024年04月10日/GoEX_Perspectives_and_Designs_Towards_a_Runtime_for_Autonomous_LLM_Applications.md)
+    - [翻译: GoEX：探索构建自主大型语言模型应用运行时的视角与设计理念](2024年04月10日/GoEX_Perspectives_and_Designs_Towards_a_Runtime_for_Autonomous_LLM_Applications.md)
 
 - [HRVDA: High-Resolution Visual Document Assistant](2024年04月10日/HRVDA_High-Resolution_Visual_Document_Assistant.md)
 
-    - [翻译: ](2024年04月10日/HRVDA_High-Resolution_Visual_Document_Assistant.md)
+    - [翻译: HRVDA：高清视觉文档辅助工具](2024年04月10日/HRVDA_High-Resolution_Visual_Document_Assistant.md)
 
 - [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](2024年04月10日/Superposition_Prompting_Improving_and_Accelerating_Retrieval-Augmented_Generation.md)
 
-    - [翻译: ](2024年04月10日/Superposition_Prompting_Improving_and_Accelerating_Retrieval-Augmented_Generation.md)
+    - [翻译: 超位置提示技术：提升并加快检索辅助生成的效果](2024年04月10日/Superposition_Prompting_Improving_and_Accelerating_Retrieval-Augmented_Generation.md)
 
 - [SARA: Smart AI Reading Assistant for Reading Comprehension](2024年04月10日/SARA_Smart_AI_Reading_Assistant_for_Reading_Comprehension.md)
 
-    - [翻译: ](2024年04月10日/SARA_Smart_AI_Reading_Assistant_for_Reading_Comprehension.md)
+    - [翻译: SARA：智能AI阅读助手，助力阅读理解](2024年04月10日/SARA_Smart_AI_Reading_Assistant_for_Reading_Comprehension.md)
 
 - [Vision-Language Model-based Physical Reasoning for Robot Liquid Perception](2024年04月10日/Vision-Language_Model-based_Physical_Reasoning_for_Robot_Liquid_Perception.md)
 
-    - [翻译: ](2024年04月10日/Vision-Language_Model-based_Physical_Reasoning_for_Robot_Liquid_Perception.md)
+    - [翻译: 利用视觉-语言模型，实现机器人对液体的物理识别与推理。](2024年04月10日/Vision-Language_Model-based_Physical_Reasoning_for_Robot_Liquid_Perception.md)
 
 - [Beyond Random Inputs: A Novel ML-Based Hardware Fuzzing](2024年04月10日/Beyond_Random_Inputs_A_Novel_ML-Based_Hardware_Fuzzing.md)
 
-    - [翻译: ](2024年04月10日/Beyond_Random_Inputs_A_Novel_ML-Based_Hardware_Fuzzing.md)
+    - [翻译: 除了随机输入，我们还探索了一种基于机器学习的创新硬件模糊测试方法。](2024年04月10日/Beyond_Random_Inputs_A_Novel_ML-Based_Hardware_Fuzzing.md)
 
 - [Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge](2024年04月10日/Does_Mapo_Tofu_Contain_Coffee_Probing_LLMs_for_Food-related_Cultural_Knowledge.md)
 
-    - [翻译: ](2024年04月10日/Does_Mapo_Tofu_Contain_Coffee_Probing_LLMs_for_Food-related_Cultural_Knowledge.md)
+    - [翻译: 麻婆豆腐是否含有咖啡成分？深挖大型语言模型对食物文化知识的掌握](2024年04月10日/Does_Mapo_Tofu_Contain_Coffee_Probing_LLMs_for_Food-related_Cultural_Knowledge.md)
 
 - [Not All Contexts Are Equal: Teaching LLMs Credibility-aware Generation](2024年04月10日/Not_All_Contexts_Are_Equal_Teaching_LLMs_Credibility-aware_Generation.md)
 
-    - [翻译: ](2024年04月10日/Not_All_Contexts_Are_Equal_Teaching_LLMs_Credibility-aware_Generation.md)
+    - [翻译: 上下文并非一视同仁：引导大型语言模型（LLM）进行可信度敏感的内容生成。](2024年04月10日/Not_All_Contexts_Are_Equal_Teaching_LLMs_Credibility-aware_Generation.md)
 
 - [MedRG: Medical Report Grounding with Multi-modal Large Language Model](2024年04月10日/MedRG_Medical_Report_Grounding_with_Multi-modal_Large_Language_Model.md)
 
-    - [翻译: ](2024年04月10日/MedRG_Medical_Report_Grounding_with_Multi-modal_Large_Language_Model.md)
+    - [翻译: MedRG：借助多模态大型语言模型实现医学报告的精准定位](2024年04月10日/MedRG_Medical_Report_Grounding_with_Multi-modal_Large_Language_Model.md)
 
 - [Adapting LLaMA Decoder to Vision Transformer](2024年04月10日/Adapting_LLaMA_Decoder_to_Vision_Transformer.md)
 
-    - [翻译: ](2024年04月10日/Adapting_LLaMA_Decoder_to_Vision_Transformer.md)
+    - [翻译: 适配 LLaMA 解码器至视觉变换网络](2024年04月10日/Adapting_LLaMA_Decoder_to_Vision_Transformer.md)
 
 - [Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems](2024年04月10日/Personality-aware_Student_Simulation_for_Conversational_Intelligent_Tutoring_Systems.md)
 
-    - [翻译: ](2024年04月10日/Personality-aware_Student_Simulation_for_Conversational_Intelligent_Tutoring_Systems.md)
+    - [翻译: 为了会话式智能辅导系统，我们开发了一种能够感知学生个性的模拟技术。](2024年04月10日/Personality-aware_Student_Simulation_for_Conversational_Intelligent_Tutoring_Systems.md)
 
 - [Language Generation in the Limit](2024年04月10日/Language_Generation_in_the_Limit.md)
 
-    - [翻译: ](2024年04月10日/Language_Generation_in_the_Limit.md)
+    - [翻译: 极限下的语言生成](2024年04月10日/Language_Generation_in_the_Limit.md)
 
 - [Frontier AI Ethics: Anticipating and Evaluating the Societal Impacts of Generative Agents](2024年04月10日/Frontier_AI_Ethics_Anticipating_and_Evaluating_the_Societal_Impacts_of_Generative_Agents.md)
 
-    - [翻译: ](2024年04月10日/Frontier_AI_Ethics_Anticipating_and_Evaluating_the_Societal_Impacts_of_Generative_Agents.md)
+    - [翻译: 探索AI伦理新境界：洞悉并评估生成性智能体对社会的深远影响](2024年04月10日/Frontier_AI_Ethics_Anticipating_and_Evaluating_the_Societal_Impacts_of_Generative_Agents.md)
 
 - [Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking](2024年04月10日/Transferable_and_Efficient_Non-Factual_Content_Detection_via_Probe_Training_with_Offline_Consistency_Checking.md)
 
-    - [翻译: ](2024年04月10日/Transferable_and_Efficient_Non-Factual_Content_Detection_via_Probe_Training_with_Offline_Consistency_Checking.md)
+    - [翻译: 本研究通过探针训练结合离线一致性检查，提出了一种可迁移且高效的非事实内容检测方法。](2024年04月10日/Transferable_and_Efficient_Non-Factual_Content_Detection_via_Probe_Training_with_Offline_Consistency_Checking.md)
 
 - [Accuracy of a Large Language Model in Distinguishing Anti- And Pro-vaccination Messages on Social Media: The Case of Human Papillomavirus Vaccination](2024年04月10日/Accuracy_of_a_Large_Language_Model_in_Distinguishing_Anti-_And_Pro-vaccination_Messages_on_Social_Media_The_Case_of_Human_Papillomavirus_Vaccination.md)
 
-    - [翻译: ](2024年04月10日/Accuracy_of_a_Large_Language_Model_in_Distinguishing_Anti-_And_Pro-vaccination_Messages_on_Social_Media_The_Case_of_Human_Papillomavirus_Vaccination.md)
+    - [翻译: 社交媒体上，大型语言模型识别反疫苗与支持疫苗信息的准确度探究：以人乳头瘤病毒疫苗为案例分析。](2024年04月10日/Accuracy_of_a_Large_Language_Model_in_Distinguishing_Anti-_And_Pro-vaccination_Messages_on_Social_Media_The_Case_of_Human_Papillomavirus_Vaccination.md)
 
 - [Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability](2024年04月10日/Towards_Robustness_of_Text-to-Visualization_Translation_against_Lexical_and_Phrasal_Variability.md)
 
-    - [翻译: ](2024年04月10日/Towards_Robustness_of_Text-to-Visualization_Translation_against_Lexical_and_Phrasal_Variability.md)
+    - [翻译: 为提升文本至可视化翻译的稳定性，本研究致力于应对词汇与短语多样性所带来的挑战。](2024年04月10日/Towards_Robustness_of_Text-to-Visualization_Translation_against_Lexical_and_Phrasal_Variability.md)
 
 - [GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models](2024年04月10日/GoodDrag_Towards_Good_Practices_for_Drag_Editing_with_Diffusion_Models.md)
 
-    - [翻译: ](2024年04月10日/GoodDrag_Towards_Good_Practices_for_Drag_Editing_with_Diffusion_Models.md)
+    - [翻译: GoodDrag：探索扩散模型在拖拽编辑中的优良实践方法](2024年04月10日/GoodDrag_Towards_Good_Practices_for_Drag_Editing_with_Diffusion_Models.md)
 
 2024年04月09日
 
@@ -322,63 +322,63 @@
 
 - [Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness](2024年04月09日/Llama-VITS_Enhancing_TTS_Synthesis_with_Semantic_Awareness.md)
 
-    - [翻译: ](2024年04月09日/Llama-VITS_Enhancing_TTS_Synthesis_with_Semantic_Awareness.md)
+    - [翻译: Llama-VITS：借助语义理解提升TTS语音合成效果](2024年04月09日/Llama-VITS_Enhancing_TTS_Synthesis_with_Semantic_Awareness.md)
 
 - [MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education](2024年04月09日/MathVC_An_LLM-Simulated_Multi-Character_Virtual_Classroom_for_Mathematics_Education.md)
 
-    - [翻译: ](2024年04月09日/MathVC_An_LLM-Simulated_Multi-Character_Virtual_Classroom_for_Mathematics_Education.md)
+    - [翻译: MathVC：借助大型语言模型打造的多角色虚拟教室，致力于提升数学教学效果。](2024年04月09日/MathVC_An_LLM-Simulated_Multi-Character_Virtual_Classroom_for_Mathematics_Education.md)
 
 - [CQIL: Inference Latency Optimization with Concurrent Computation of Quasi-Independent Layers](2024年04月09日/CQIL_Inference_Latency_Optimization_with_Concurrent_Computation_of_Quasi-Independent_Layers.md)
 
-    - [翻译: ](2024年04月09日/CQIL_Inference_Latency_Optimization_with_Concurrent_Computation_of_Quasi-Independent_Layers.md)
+    - [翻译: CQIL技术：通过同时处理准独立层次以减少推理过程的延迟](2024年04月09日/CQIL_Inference_Latency_Optimization_with_Concurrent_Computation_of_Quasi-Independent_Layers.md)
 
 - [Onco-Retriever: Generative Classifier for Retrieval of EHR Records in Oncology](2024年04月09日/Onco-Retriever_Generative_Classifier_for_Retrieval_of_EHR_Records_in_Oncology.md)
 
-    - [翻译: ](2024年04月09日/Onco-Retriever_Generative_Classifier_for_Retrieval_of_EHR_Records_in_Oncology.md)
+    - [翻译: Onco-Retriever：一种创新的生成式分类器，专门用于在肿瘤学领域快速准确地检索电子健康记录（EHR）。](2024年04月09日/Onco-Retriever_Generative_Classifier_for_Retrieval_of_EHR_Records_in_Oncology.md)
 
 - [Toward Cross-Layer Energy Optimizations in Machine Learning Systems](2024年04月09日/Toward_Cross-Layer_Energy_Optimizations_in_Machine_Learning_Systems.md)
 
-    - [翻译: ](2024年04月09日/Toward_Cross-Layer_Energy_Optimizations_in_Machine_Learning_Systems.md)
+    - [翻译: 探索机器学习系统中的跨层能源优化](2024年04月09日/Toward_Cross-Layer_Energy_Optimizations_in_Machine_Learning_Systems.md)
 
 - [CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge](2024年04月09日/CulturalTeaming_AI-Assisted_Interactive_Red-Teaming_for_Challenging_LLMs'_(Lack_of)_Multicultural_Knowledge.md)
 
-    - [翻译: ](2024年04月09日/CulturalTeaming_AI-Assisted_Interactive_Red-Teaming_for_Challenging_LLMs'_(Lack_of)_Multicultural_Knowledge.md)
+    - [翻译: CulturalTeaming：借助人工智能的互动红队策略，挑战大型语言模型在多元文化知识方面的不足。](2024年04月09日/CulturalTeaming_AI-Assisted_Interactive_Red-Teaming_for_Challenging_LLMs'_(Lack_of)_Multicultural_Knowledge.md)
 
 - [RULER: What's the Real Context Size of Your Long-Context Language Models?](2024年04月09日/RULER_What's_the_Real_Context_Size_of_Your_Long-Context_Language_Models.md)
 
-    - [翻译: ](2024年04月09日/RULER_What's_the_Real_Context_Size_of_Your_Long-Context_Language_Models.md)
+    - [翻译: RULER: 长语境语言模型的实际上下文容量究竟有多大？](2024年04月09日/RULER_What's_the_Real_Context_Size_of_Your_Long-Context_Language_Models.md)
 
 - [GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks](2024年04月09日/GenCHiP_Generating_Robot_Policy_Code_for_High-Precision_and_Contact-Rich_Manipulation_Tasks.md)
 
-    - [翻译: ](2024年04月09日/GenCHiP_Generating_Robot_Policy_Code_for_High-Precision_and_Contact-Rich_Manipulation_Tasks.md)
+    - [翻译: GenCHiP：针对精密操作和丰富接触任务，自动编写机器人策略代码](2024年04月09日/GenCHiP_Generating_Robot_Policy_Code_for_High-Precision_and_Contact-Rich_Manipulation_Tasks.md)
 
 - [Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?](2024年04月09日/Khayyam_Challenge_(PersianMMLU)_Is_Your_LLM_Truly_Wise_to_The_Persian_Language.md)
 
-    - [翻译: ](2024年04月09日/Khayyam_Challenge_(PersianMMLU)_Is_Your_LLM_Truly_Wise_to_The_Persian_Language.md)
+    - [翻译: Khayyam挑战赛（PersianMMLU）：你的LLM真的精通波斯语吗？](2024年04月09日/Khayyam_Challenge_(PersianMMLU)_Is_Your_LLM_Truly_Wise_to_The_Persian_Language.md)
 
 - [Perplexed: Understanding When Large Language Models are Confused](2024年04月09日/Perplexed_Understanding_When_Large_Language_Models_are_Confused.md)
 
-    - [翻译: ](2024年04月09日/Perplexed_Understanding_When_Large_Language_Models_are_Confused.md)
+    - [翻译: 探究困惑：揭秘大型语言模型何时陷入迷茫](2024年04月09日/Perplexed_Understanding_When_Large_Language_Models_are_Confused.md)
 
 - [What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models](2024年04月09日/What_is_Your_Favorite_Gender,_MLM_Gender_Bias_Evaluation_in_Multilingual_Masked_Language_Models.md)
 
-    - [翻译: ](2024年04月09日/What_is_Your_Favorite_Gender,_MLM_Gender_Bias_Evaluation_in_Multilingual_Masked_Language_Models.md)
+    - [翻译: MLM，你偏好的性别是什么？探究多语言掩码语言模型中的性别歧视问题](2024年04月09日/What_is_Your_Favorite_Gender,_MLM_Gender_Bias_Evaluation_in_Multilingual_Masked_Language_Models.md)
 
 - [Less is More for Improving Automatic Evaluation of Factual Consistency](2024年04月09日/Less_is_More_for_Improving_Automatic_Evaluation_of_Factual_Consistency.md)
 
-    - [翻译: ](2024年04月09日/Less_is_More_for_Improving_Automatic_Evaluation_of_Factual_Consistency.md)
+    - [翻译: 简化方法更有助于提升事实一致性的自动评估效果。](2024年04月09日/Less_is_More_for_Improving_Automatic_Evaluation_of_Factual_Consistency.md)
 
 - [Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery](2024年04月09日/Building_A_Knowledge_Graph_to_Enrich_ChatGPT_Responses_in_Manufacturing_Service_Discovery.md)
 
-    - [翻译: ](2024年04月09日/Building_A_Knowledge_Graph_to_Enrich_ChatGPT_Responses_in_Manufacturing_Service_Discovery.md)
+    - [翻译: 打造知识图谱，提升ChatGPT在制造服务业发现中的答复质量。](2024年04月09日/Building_A_Knowledge_Graph_to_Enrich_ChatGPT_Responses_in_Manufacturing_Service_Discovery.md)
 
 - [Deep Generative Data Assimilation in Multimodal Setting](2024年04月09日/Deep_Generative_Data_Assimilation_in_Multimodal_Setting.md)
 
-    - [翻译: ](2024年04月09日/Deep_Generative_Data_Assimilation_in_Multimodal_Setting.md)
+    - [翻译: 深度生成式数据融合技术在多模态环境下的应用](2024年04月09日/Deep_Generative_Data_Assimilation_in_Multimodal_Setting.md)
 
 - [Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation](2024年04月09日/Training-Free_Open-Vocabulary_Segmentation_with_Offline_Diffusion-Augmented_Prototype_Generation.md)
 
-    - [翻译: ](2024年04月09日/Training-Free_Open-Vocabulary_Segmentation_with_Offline_Diffusion-Augmented_Prototype_Generation.md)
+    - [翻译: 通过离线扩散技术增强原型生成，实现无需训练的开放词汇文本分割。](2024年04月09日/Training-Free_Open-Vocabulary_Segmentation_with_Offline_Diffusion-Augmented_Prototype_Generation.md)
 
 2024年04月08日
 
