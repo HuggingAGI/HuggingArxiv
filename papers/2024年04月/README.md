@@ -1,5 +1,151 @@
 # 2024年04月
 
+2024年04月10日
+
+- [UMBRAE: Unified Multimodal Decoding of Brain Signals](2024年04月10日/UMBRAE_Unified_Multimodal_Decoding_of_Brain_Signals.md)
+
+    - [翻译: UMBRAE：一种整合多种模式的脑信号解读技术](2024年04月10日/UMBRAE_Unified_Multimodal_Decoding_of_Brain_Signals.md)
+
+- [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](2024年04月10日/Leave_No_Context_Behind_Efficient_Infinite_Context_Transformers_with_Infini-attention.md)
+
+    - [翻译: 全面覆盖：搭载无限注意力机制的高效无限上下文变换器，让每个细节都得到关注。](2024年04月10日/Leave_No_Context_Behind_Efficient_Infinite_Context_Transformers_with_Infini-attention.md)
+
+- [What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation](2024年04月10日/What_needs_to_go_right_for_an_induction_head_A_mechanistic_study_of_in-context_learning_circuits_and_their_formation.md)
+
+    - [翻译: 要让感应头部发挥作用，需要哪些关键因素？本文通过机械性研究，深入探讨了上下文学习电路及其形成过程。](2024年04月10日/What_needs_to_go_right_for_an_induction_head_A_mechanistic_study_of_in-context_learning_circuits_and_their_formation.md)
+
+- [Continuous Language Model Interpolation for Dynamic and Controllable Text Generation](2024年04月10日/Continuous_Language_Model_Interpolation_for_Dynamic_and_Controllable_Text_Generation.md)
+
+    - [翻译: 通过连续性的语言模型融合技术，实现文本生成的动态调整与精准控制。](2024年04月10日/Continuous_Language_Model_Interpolation_for_Dynamic_and_Controllable_Text_Generation.md)
+
+- [From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications](2024年04月10日/From_Model-centered_to_Human-Centered_Revision_Distance_as_a_Metric_for_Text_Evaluation_in_LLMs-based_Applications.md)
+
+    - [翻译: 将视角从模型转向人类，修订距离被提出作为评估基于大型语言模型（LLMs）应用中文本质量的新指标。](2024年04月10日/From_Model-centered_to_Human-Centered_Revision_Distance_as_a_Metric_for_Text_Evaluation_in_LLMs-based_Applications.md)
+
+- [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](2024年04月10日/Graph_Chain-of-Thought_Augmenting_Large_Language_Models_by_Reasoning_on_Graphs.md)
+
+    - [翻译: 图链思考：借助图谱推理，提升大型语言模型的智能水平。](2024年04月10日/Graph_Chain-of-Thought_Augmenting_Large_Language_Models_by_Reasoning_on_Graphs.md)
+
+- [Dynamic Generation of Personalities with Large Language Models](2024年04月10日/Dynamic_Generation_of_Personalities_with_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型，实现个性化人格的动态塑造](2024年04月10日/Dynamic_Generation_of_Personalities_with_Large_Language_Models.md)
+
+- [VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning](2024年04月10日/VLLMs_Provide_Better_Context_for_Emotion_Understanding_Through_Common_Sense_Reasoning.md)
+
+    - [翻译: 借助常识推理，超大型语言模型（VLLMs）能够更精准地把握情感理解的脉络。](2024年04月10日/VLLMs_Provide_Better_Context_for_Emotion_Understanding_Through_Common_Sense_Reasoning.md)
+
+- [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](2024年04月10日/Exploring_Concept_Depth_How_Large_Language_Models_Acquire_Knowledge_at_Different_Layers.md)
+
+    - [翻译: 深入概念探究：大型语言模型是如何在各自的层次上吸收知识的呢？](2024年04月10日/Exploring_Concept_Depth_How_Large_Language_Models_Acquire_Knowledge_at_Different_Layers.md)
+
+- [Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study](2024年04月10日/Groundedness_in_Retrieval-augmented_Long-form_Generation_An_Empirical_Study.md)
+
+    - [翻译: 本实证研究深入探讨了检索辅助长篇文章生成中的 Groundedness 问题。](2024年04月10日/Groundedness_in_Retrieval-augmented_Long-form_Generation_An_Empirical_Study.md)
+
+- [ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling](2024年04月10日/ORacle_Large_Vision-Language_Models_for_Knowledge-Guided_Holistic_OR_Domain_Modeling.md)
+
+    - [翻译: ORacle：面向整体OR领域建模的知识引导型大型视觉-语言模型](2024年04月10日/ORacle_Large_Vision-Language_Models_for_Knowledge-Guided_Holistic_OR_Domain_Modeling.md)
+
+- [A Mathematical Theory for Learning Semantic Languages by Abstract Learners](2024年04月10日/A_Mathematical_Theory_for_Learning_Semantic_Languages_by_Abstract_Learners.md)
+
+    - [翻译: 抽象学习者学习语义语言的数学理论探究](2024年04月10日/A_Mathematical_Theory_for_Learning_Semantic_Languages_by_Abstract_Learners.md)
+
+- [WordDecipher: Enhancing Digital Workspace Communication with Explainable AI for Non-native English Speakers](2024年04月10日/WordDecipher_Enhancing_Digital_Workspace_Communication_with_Explainable_AI_for_Non-native_English_Speakers.md)
+
+    - [翻译: WordDecipher：借助可解释AI技术，提升非英语母语者在数字工作空间的沟通体验](2024年04月10日/WordDecipher_Enhancing_Digital_Workspace_Communication_with_Explainable_AI_for_Non-native_English_Speakers.md)
+
+- [LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models](2024年04月10日/LM_Transparency_Tool_Interactive_Tool_for_Analyzing_Transformer_Language_Models.md)
+
+    - [翻译: LM 透明度工具：深入剖析 Transformer 语言模型的互动利器](2024年04月10日/LM_Transparency_Tool_Interactive_Tool_for_Analyzing_Transformer_Language_Models.md)
+
+- [Event Grounded Criminal Court View Generation withCooperative (Large) Language Models](2024年04月10日/Event_Grounded_Criminal_Court_View_Generation_withCooperative_(Large)_Language_Models.md)
+
+    - [翻译: 刑事法庭视角生成：基于事件的合作大型语言模型应用](2024年04月10日/Event_Grounded_Criminal_Court_View_Generation_withCooperative_(Large)_Language_Models.md)
+
+- [Hybrid Multi-stage Decoding for Few-shot NER with Entity-aware Contrastive Learning](2024年04月10日/Hybrid_Multi-stage_Decoding_for_Few-shot_NER_with_Entity-aware_Contrastive_Learning.md)
+
+    - [翻译: 本文提出了一种结合实体感知对比学习的方法，用于少样本命名实体识别（NER）的混合多阶段解码策略。](2024年04月10日/Hybrid_Multi-stage_Decoding_for_Few-shot_NER_with_Entity-aware_Contrastive_Learning.md)
+
+- [Advancing Real-time Pandemic Forecasting Using Large Language Models: A COVID-19 Case Study](2024年04月10日/Advancing_Real-time_Pandemic_Forecasting_Using_Large_Language_Models_A_COVID-19_Case_Study.md)
+
+    - [翻译: 借助大型语言模型，提升实时疫情预测的准确性：以COVID-19为例的深入分析](2024年04月10日/Advancing_Real-time_Pandemic_Forecasting_Using_Large_Language_Models_A_COVID-19_Case_Study.md)
+
+- [Accelerating Inference in Large Language Models with a Unified Layer Skipping Strategy](2024年04月10日/Accelerating_Inference_in_Large_Language_Models_with_a_Unified_Layer_Skipping_Strategy.md)
+
+    - [翻译: 通过统一的层跳过技巧，我们能够加快大型语言模型的推理速度。](2024年04月10日/Accelerating_Inference_in_Large_Language_Models_with_a_Unified_Layer_Skipping_Strategy.md)
+
+- [MetaCheckGPT -- A Multi-task Hallucination Detection Using LLM Uncertainty and Meta-models](2024年04月10日/MetaCheckGPT_--_A_Multi-task_Hallucination_Detection_Using_LLM_Uncertainty_and_Meta-models.md)
+
+    - [翻译: MetaCheckGPT —— 通过 LLM 的不确定性和元模型实现多任务幻觉检测](2024年04月10日/MetaCheckGPT_--_A_Multi-task_Hallucination_Detection_Using_LLM_Uncertainty_and_Meta-models.md)
+
+- [GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications](2024年04月10日/GoEX_Perspectives_and_Designs_Towards_a_Runtime_for_Autonomous_LLM_Applications.md)
+
+    - [翻译: ](2024年04月10日/GoEX_Perspectives_and_Designs_Towards_a_Runtime_for_Autonomous_LLM_Applications.md)
+
+- [HRVDA: High-Resolution Visual Document Assistant](2024年04月10日/HRVDA_High-Resolution_Visual_Document_Assistant.md)
+
+    - [翻译: ](2024年04月10日/HRVDA_High-Resolution_Visual_Document_Assistant.md)
+
+- [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](2024年04月10日/Superposition_Prompting_Improving_and_Accelerating_Retrieval-Augmented_Generation.md)
+
+    - [翻译: ](2024年04月10日/Superposition_Prompting_Improving_and_Accelerating_Retrieval-Augmented_Generation.md)
+
+- [SARA: Smart AI Reading Assistant for Reading Comprehension](2024年04月10日/SARA_Smart_AI_Reading_Assistant_for_Reading_Comprehension.md)
+
+    - [翻译: ](2024年04月10日/SARA_Smart_AI_Reading_Assistant_for_Reading_Comprehension.md)
+
+- [Vision-Language Model-based Physical Reasoning for Robot Liquid Perception](2024年04月10日/Vision-Language_Model-based_Physical_Reasoning_for_Robot_Liquid_Perception.md)
+
+    - [翻译: ](2024年04月10日/Vision-Language_Model-based_Physical_Reasoning_for_Robot_Liquid_Perception.md)
+
+- [Beyond Random Inputs: A Novel ML-Based Hardware Fuzzing](2024年04月10日/Beyond_Random_Inputs_A_Novel_ML-Based_Hardware_Fuzzing.md)
+
+    - [翻译: ](2024年04月10日/Beyond_Random_Inputs_A_Novel_ML-Based_Hardware_Fuzzing.md)
+
+- [Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge](2024年04月10日/Does_Mapo_Tofu_Contain_Coffee_Probing_LLMs_for_Food-related_Cultural_Knowledge.md)
+
+    - [翻译: ](2024年04月10日/Does_Mapo_Tofu_Contain_Coffee_Probing_LLMs_for_Food-related_Cultural_Knowledge.md)
+
+- [Not All Contexts Are Equal: Teaching LLMs Credibility-aware Generation](2024年04月10日/Not_All_Contexts_Are_Equal_Teaching_LLMs_Credibility-aware_Generation.md)
+
+    - [翻译: ](2024年04月10日/Not_All_Contexts_Are_Equal_Teaching_LLMs_Credibility-aware_Generation.md)
+
+- [MedRG: Medical Report Grounding with Multi-modal Large Language Model](2024年04月10日/MedRG_Medical_Report_Grounding_with_Multi-modal_Large_Language_Model.md)
+
+    - [翻译: ](2024年04月10日/MedRG_Medical_Report_Grounding_with_Multi-modal_Large_Language_Model.md)
+
+- [Adapting LLaMA Decoder to Vision Transformer](2024年04月10日/Adapting_LLaMA_Decoder_to_Vision_Transformer.md)
+
+    - [翻译: ](2024年04月10日/Adapting_LLaMA_Decoder_to_Vision_Transformer.md)
+
+- [Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems](2024年04月10日/Personality-aware_Student_Simulation_for_Conversational_Intelligent_Tutoring_Systems.md)
+
+    - [翻译: ](2024年04月10日/Personality-aware_Student_Simulation_for_Conversational_Intelligent_Tutoring_Systems.md)
+
+- [Language Generation in the Limit](2024年04月10日/Language_Generation_in_the_Limit.md)
+
+    - [翻译: ](2024年04月10日/Language_Generation_in_the_Limit.md)
+
+- [Frontier AI Ethics: Anticipating and Evaluating the Societal Impacts of Generative Agents](2024年04月10日/Frontier_AI_Ethics_Anticipating_and_Evaluating_the_Societal_Impacts_of_Generative_Agents.md)
+
+    - [翻译: ](2024年04月10日/Frontier_AI_Ethics_Anticipating_and_Evaluating_the_Societal_Impacts_of_Generative_Agents.md)
+
+- [Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking](2024年04月10日/Transferable_and_Efficient_Non-Factual_Content_Detection_via_Probe_Training_with_Offline_Consistency_Checking.md)
+
+    - [翻译: ](2024年04月10日/Transferable_and_Efficient_Non-Factual_Content_Detection_via_Probe_Training_with_Offline_Consistency_Checking.md)
+
+- [Accuracy of a Large Language Model in Distinguishing Anti- And Pro-vaccination Messages on Social Media: The Case of Human Papillomavirus Vaccination](2024年04月10日/Accuracy_of_a_Large_Language_Model_in_Distinguishing_Anti-_And_Pro-vaccination_Messages_on_Social_Media_The_Case_of_Human_Papillomavirus_Vaccination.md)
+
+    - [翻译: ](2024年04月10日/Accuracy_of_a_Large_Language_Model_in_Distinguishing_Anti-_And_Pro-vaccination_Messages_on_Social_Media_The_Case_of_Human_Papillomavirus_Vaccination.md)
+
+- [Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability](2024年04月10日/Towards_Robustness_of_Text-to-Visualization_Translation_against_Lexical_and_Phrasal_Variability.md)
+
+    - [翻译: ](2024年04月10日/Towards_Robustness_of_Text-to-Visualization_Translation_against_Lexical_and_Phrasal_Variability.md)
+
+- [GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models](2024年04月10日/GoodDrag_Towards_Good_Practices_for_Drag_Editing_with_Diffusion_Models.md)
+
+    - [翻译: ](2024年04月10日/GoodDrag_Towards_Good_Practices_for_Drag_Editing_with_Diffusion_Models.md)
+
 2024年04月09日
 
 - [Text-Based Reasoning About Vector Graphics](2024年04月09日/Text-Based_Reasoning_About_Vector_Graphics.md)
@@ -173,6 +319,66 @@
 - [AiSAQ: All-in-Storage ANNS with Product Quantization for DRAM-free Information Retrieval](2024年04月09日/AiSAQ_All-in-Storage_ANNS_with_Product_Quantization_for_DRAM-free_Information_Retrieval.md)
 
     - [翻译: AiSAQ: 采用产品量化技术的全存储式近似最近邻搜索（ANNS），为无需DRAM的信息检索提供解决方案。](2024年04月09日/AiSAQ_All-in-Storage_ANNS_with_Product_Quantization_for_DRAM-free_Information_Retrieval.md)
+
+- [Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness](2024年04月09日/Llama-VITS_Enhancing_TTS_Synthesis_with_Semantic_Awareness.md)
+
+    - [翻译: ](2024年04月09日/Llama-VITS_Enhancing_TTS_Synthesis_with_Semantic_Awareness.md)
+
+- [MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education](2024年04月09日/MathVC_An_LLM-Simulated_Multi-Character_Virtual_Classroom_for_Mathematics_Education.md)
+
+    - [翻译: ](2024年04月09日/MathVC_An_LLM-Simulated_Multi-Character_Virtual_Classroom_for_Mathematics_Education.md)
+
+- [CQIL: Inference Latency Optimization with Concurrent Computation of Quasi-Independent Layers](2024年04月09日/CQIL_Inference_Latency_Optimization_with_Concurrent_Computation_of_Quasi-Independent_Layers.md)
+
+    - [翻译: ](2024年04月09日/CQIL_Inference_Latency_Optimization_with_Concurrent_Computation_of_Quasi-Independent_Layers.md)
+
+- [Onco-Retriever: Generative Classifier for Retrieval of EHR Records in Oncology](2024年04月09日/Onco-Retriever_Generative_Classifier_for_Retrieval_of_EHR_Records_in_Oncology.md)
+
+    - [翻译: ](2024年04月09日/Onco-Retriever_Generative_Classifier_for_Retrieval_of_EHR_Records_in_Oncology.md)
+
+- [Toward Cross-Layer Energy Optimizations in Machine Learning Systems](2024年04月09日/Toward_Cross-Layer_Energy_Optimizations_in_Machine_Learning_Systems.md)
+
+    - [翻译: ](2024年04月09日/Toward_Cross-Layer_Energy_Optimizations_in_Machine_Learning_Systems.md)
+
+- [CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge](2024年04月09日/CulturalTeaming_AI-Assisted_Interactive_Red-Teaming_for_Challenging_LLMs'_(Lack_of)_Multicultural_Knowledge.md)
+
+    - [翻译: ](2024年04月09日/CulturalTeaming_AI-Assisted_Interactive_Red-Teaming_for_Challenging_LLMs'_(Lack_of)_Multicultural_Knowledge.md)
+
+- [RULER: What's the Real Context Size of Your Long-Context Language Models?](2024年04月09日/RULER_What's_the_Real_Context_Size_of_Your_Long-Context_Language_Models.md)
+
+    - [翻译: ](2024年04月09日/RULER_What's_the_Real_Context_Size_of_Your_Long-Context_Language_Models.md)
+
+- [GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks](2024年04月09日/GenCHiP_Generating_Robot_Policy_Code_for_High-Precision_and_Contact-Rich_Manipulation_Tasks.md)
+
+    - [翻译: ](2024年04月09日/GenCHiP_Generating_Robot_Policy_Code_for_High-Precision_and_Contact-Rich_Manipulation_Tasks.md)
+
+- [Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?](2024年04月09日/Khayyam_Challenge_(PersianMMLU)_Is_Your_LLM_Truly_Wise_to_The_Persian_Language.md)
+
+    - [翻译: ](2024年04月09日/Khayyam_Challenge_(PersianMMLU)_Is_Your_LLM_Truly_Wise_to_The_Persian_Language.md)
+
+- [Perplexed: Understanding When Large Language Models are Confused](2024年04月09日/Perplexed_Understanding_When_Large_Language_Models_are_Confused.md)
+
+    - [翻译: ](2024年04月09日/Perplexed_Understanding_When_Large_Language_Models_are_Confused.md)
+
+- [What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models](2024年04月09日/What_is_Your_Favorite_Gender,_MLM_Gender_Bias_Evaluation_in_Multilingual_Masked_Language_Models.md)
+
+    - [翻译: ](2024年04月09日/What_is_Your_Favorite_Gender,_MLM_Gender_Bias_Evaluation_in_Multilingual_Masked_Language_Models.md)
+
+- [Less is More for Improving Automatic Evaluation of Factual Consistency](2024年04月09日/Less_is_More_for_Improving_Automatic_Evaluation_of_Factual_Consistency.md)
+
+    - [翻译: ](2024年04月09日/Less_is_More_for_Improving_Automatic_Evaluation_of_Factual_Consistency.md)
+
+- [Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery](2024年04月09日/Building_A_Knowledge_Graph_to_Enrich_ChatGPT_Responses_in_Manufacturing_Service_Discovery.md)
+
+    - [翻译: ](2024年04月09日/Building_A_Knowledge_Graph_to_Enrich_ChatGPT_Responses_in_Manufacturing_Service_Discovery.md)
+
+- [Deep Generative Data Assimilation in Multimodal Setting](2024年04月09日/Deep_Generative_Data_Assimilation_in_Multimodal_Setting.md)
+
+    - [翻译: ](2024年04月09日/Deep_Generative_Data_Assimilation_in_Multimodal_Setting.md)
+
+- [Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation](2024年04月09日/Training-Free_Open-Vocabulary_Segmentation_with_Offline_Diffusion-Augmented_Prototype_Generation.md)
+
+    - [翻译: ](2024年04月09日/Training-Free_Open-Vocabulary_Segmentation_with_Offline_Diffusion-Augmented_Prototype_Generation.md)
 
 2024年04月08日
 
