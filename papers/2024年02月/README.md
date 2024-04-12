@@ -482,6 +482,12 @@
 
     - [翻译: CRITIC 研究：大型语言模型能通过与工具的互动批评实现自我修正。](2024年02月21日/CRITIC_Large_Language_Models_Can_Self-Correct_with_Tool-Interactive_Critiquing.md)
 
+2024年02月20日
+
+- [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](2024年02月20日/Exploring_the_Frontier_of_Vision-Language_Models_A_Survey_of_Current_Methodologies_and_Future_Directions.md)
+
+    - [翻译: 本文综述了视觉-语言模型的研究现状，探讨了各种方法论，并展望了未来的发展方向。](2024年02月20日/Exploring_the_Frontier_of_Vision-Language_Models_A_Survey_of_Current_Methodologies_and_Future_Directions.md)
+
 2024年02月16日
 
 - [LLMs in the Heart of Differential Testing: A Case Study on a Medical Rule Engine](2024年02月16日/LLMs_in_the_Heart_of_Differential_Testing_A_Case_Study_on_a_Medical_Rule_Engine.md)

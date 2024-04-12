@@ -1598,6 +1598,10 @@
 
     - [翻译: AttentionStore 通过在大型语言模型的多轮对话中实现注意力机制的高效重用，降低了成本。](2024年03月23日/AttentionStore_Cost-effective_Attention_Reuse_across_Multi-turn_Conversations_in_Large_Language_Model_Serving.md)
 
+- [EduAgent: Generative Student Agents in Learning](2024年03月23日/EduAgent_Generative_Student_Agents_in_Learning.md)
+
+    - [翻译: EduAgent：学习领域中的创造性学生代表](2024年03月23日/EduAgent_Generative_Student_Agents_in_Learning.md)
+
 2024年03月22日
 
 - [Sphere Neural-Networks for Rational Reasoning](2024年03月22日/Sphere_Neural-Networks_for_Rational_Reasoning.md)
@@ -1795,6 +1799,14 @@
 - [Evaluating GPT-4 with Vision on Detection of Radiological Findings on Chest Radiographs](2024年03月22日/Evaluating_GPT-4_with_Vision_on_Detection_of_Radiological_Findings_on_Chest_Radiographs.md)
 
     - [翻译: 在胸部X线片放射学发现检测任务中，我们运用视力评估了 GPT-4 的表现能力。进一步优化后的](2024年03月22日/Evaluating_GPT-4_with_Vision_on_Detection_of_Radiological_Findings_on_Chest_Radiographs.md)
+
+- [Improving Retrieval for RAG based Question Answering Models on Financial Documents](2024年03月22日/Improving_Retrieval_for_RAG_based_Question_Answering_Models_on_Financial_Documents.md)
+
+    - [翻译: 针对金融文件的问答，优化RAG模型的检索效果](2024年03月22日/Improving_Retrieval_for_RAG_based_Question_Answering_Models_on_Financial_Documents.md)
+
+- [Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers](2024年03月22日/Blended_RAG_Improving_RAG_(Retriever-Augmented_Generation)_Accuracy_with_Semantic_Search_and_Hybrid_Query-Based_Retrievers.md)
+
+    - [翻译: Blended RAG：融合语义搜索与混合型查询检索，精进RAG技术的准确度](2024年03月22日/Blended_RAG_Improving_RAG_(Retriever-Augmented_Generation)_Accuracy_with_Semantic_Search_and_Hybrid_Query-Based_Retrievers.md)
 
 2024年03月21日
 
@@ -2053,6 +2065,10 @@
 - [Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors](2024年03月21日/Multi-Level_Feedback_Generation_with_Large_Language_Models_for_Empowering_Novice_Peer_Counselors.md)
 
     - [翻译: 为了助力新手同伴咨询师，我们采用大型语言模型实现多层级反馈生成技术，以期提升其咨询服务效能。](2024年03月21日/Multi-Level_Feedback_Generation_with_Large_Language_Models_for_Empowering_Novice_Peer_Counselors.md)
+
+- [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)
+
+    - [翻译: 通过多智能体大型语言模型，实现内容知识的精准识别。](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)
 
 2024年03月20日
 
@@ -4071,6 +4087,10 @@
 - [Amharic LLaMA and LLaVA: Multimodal LLMs for Low Resource Languages](2024年03月10日/Amharic_LLaMA_and_LLaVA_Multimodal_LLMs_for_Low_Resource_Languages.md)
 
     - [翻译: 针对低资源语言，我们推出了 Amharic LLaMA 和 LLaVA 多模态大型语言模型。这两个模型旨在为资源匮乏的语言提供强大的自然语言理解和生成能力，通过整合多种模态信息以提升性能表现。](2024年03月10日/Amharic_LLaMA_and_LLaVA_Multimodal_LLMs_for_Low_Resource_Languages.md)
+
+- [InfiCoder-Eval: Systematically Evaluating the Question-Answering Capabilities of Code Large Language Models](2024年03月10日/InfiCoder-Eval_Systematically_Evaluating_the_Question-Answering_Capabilities_of_Code_Large_Language_Models.md)
+
+    - [翻译: InfiCoder-Eval：全面检验大型代码语言模型的解答问题能力](2024年03月10日/InfiCoder-Eval_Systematically_Evaluating_the_Question-Answering_Capabilities_of_Code_Large_Language_Models.md)
 
 2024年03月09日
 
