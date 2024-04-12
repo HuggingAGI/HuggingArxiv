@@ -486,7 +486,7 @@
 
 - [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](2024年02月20日/Exploring_the_Frontier_of_Vision-Language_Models_A_Survey_of_Current_Methodologies_and_Future_Directions.md)
 
-    - [翻译: 本文综述了视觉-语言模型的研究现状，探讨了各种方法论，并展望了未来的发展方向。](2024年02月20日/Exploring_the_Frontier_of_Vision-Language_Models_A_Survey_of_Current_Methodologies_and_Future_Directions.md)
+    - [翻译: 本文综述了视觉-语言模型的最新研究方法，并展望了未来的发展趋势。通过深入分析，我们旨在揭示这一领域的潜力与挑战，为未来的研究提供方向。](2024年02月20日/Exploring_the_Frontier_of_Vision-Language_Models_A_Survey_of_Current_Methodologies_and_Future_Directions.md)
 
 2024年02月16日
 

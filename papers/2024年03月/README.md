@@ -1802,7 +1802,7 @@
 
 - [Improving Retrieval for RAG based Question Answering Models on Financial Documents](2024年03月22日/Improving_Retrieval_for_RAG_based_Question_Answering_Models_on_Financial_Documents.md)
 
-    - [翻译: 针对金融文件的问答，优化RAG模型的检索效果](2024年03月22日/Improving_Retrieval_for_RAG_based_Question_Answering_Models_on_Financial_Documents.md)
+    - [翻译: 针对金融文件的问答，优化RAG模型的检索能力](2024年03月22日/Improving_Retrieval_for_RAG_based_Question_Answering_Models_on_Financial_Documents.md)
 
 - [Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers](2024年03月22日/Blended_RAG_Improving_RAG_(Retriever-Augmented_Generation)_Accuracy_with_Semantic_Search_and_Hybrid_Query-Based_Retrievers.md)
 
@@ -2068,7 +2068,7 @@
 
 - [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)
 
-    - [翻译: 通过多智能体大型语言模型，实现内容知识的精准识别。](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)
+    - [翻译: 通过多智能体大型语言模型实现内容知识的精准识别。](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)
 
 2024年03月20日
 

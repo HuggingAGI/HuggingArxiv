@@ -132,23 +132,23 @@
 
 - [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](2024年04月11日/From_Words_to_Numbers_Your_Large_Language_Model_Is_Secretly_A_Capable_Regressor_When_Given_In-Context_Examples.md)
 
-    - [翻译: 大型语言模型，在你提供上下文示例的情况下，其实是位隐秘的回归高手。](2024年04月11日/From_Words_to_Numbers_Your_Large_Language_Model_Is_Secretly_A_Capable_Regressor_When_Given_In-Context_Examples.md)
+    - [翻译: 单词变身数字：揭示大型语言模型在上下文示例辅助下的隐秘回归能力。](2024年04月11日/From_Words_to_Numbers_Your_Large_Language_Model_Is_Secretly_A_Capable_Regressor_When_Given_In-Context_Examples.md)
 
 - [Best Practices and Lessons Learned on Synthetic Data for Language Models](2024年04月11日/Best_Practices_and_Lessons_Learned_on_Synthetic_Data_for_Language_Models.md)
 
-    - [翻译: 在语言模型的合成数据应用中，我们总结了一些最佳实践和宝贵的经验。](2024年04月11日/Best_Practices_and_Lessons_Learned_on_Synthetic_Data_for_Language_Models.md)
+    - [翻译: 在语言模型的合成数据应用中，我们总结了一些最佳实践和所汲取的教训。](2024年04月11日/Best_Practices_and_Lessons_Learned_on_Synthetic_Data_for_Language_Models.md)
 
 - [Can Large Language Models Assess Serendipity in Recommender Systems?](2024年04月11日/Can_Large_Language_Models_Assess_Serendipity_in_Recommender_Systems.md)
 
-    - [翻译: 大型语言模型能否对推荐系统中的意外发现进行评估？](2024年04月11日/Can_Large_Language_Models_Assess_Serendipity_in_Recommender_Systems.md)
+    - [翻译: 大型语言模型能否对推荐系统里的惊喜元素进行评价？](2024年04月11日/Can_Large_Language_Models_Assess_Serendipity_in_Recommender_Systems.md)
 
 - [Neural Fault Injection: Generating Software Faults from Natural Language](2024年04月11日/Neural_Fault_Injection_Generating_Software_Faults_from_Natural_Language.md)
 
-    - [翻译: 神经故障注入技术：利用自然语言制造软件缺陷](2024年04月11日/Neural_Fault_Injection_Generating_Software_Faults_from_Natural_Language.md)
+    - [翻译: 神经故障注入技术：利用自然语言创建软件缺陷](2024年04月11日/Neural_Fault_Injection_Generating_Software_Faults_from_Natural_Language.md)
 
 - [Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios](2024年04月11日/Multimodal_Emotion_Recognition_by_Fusing_Video_Semantic_in_MOOC_Learning_Scenarios.md)
 
-    - [翻译: 在MOOC学习环境中，通过结合视频内容的语义信息，实现对学习者情感的多维度识别。](2024年04月11日/Multimodal_Emotion_Recognition_by_Fusing_Video_Semantic_in_MOOC_Learning_Scenarios.md)
+    - [翻译: 在大规模在线开放课程（MOOC）的学习环境中，通过整合视频中的语义信息，实现对学习者情感的多维度识别。](2024年04月11日/Multimodal_Emotion_Recognition_by_Fusing_Video_Semantic_in_MOOC_Learning_Scenarios.md)
 
 - [Scalable Language Model with Generalized Continual Learning](2024年04月11日/Scalable_Language_Model_with_Generalized_Continual_Learning.md)
 
@@ -302,35 +302,35 @@
 
 - ["Confidently Nonsensical?'': A Critical Survey on the Perspectives and Challenges of 'Hallucinations' in NLP](2024年04月10日/Confidently_Nonsensical''_A_Critical_Survey_on_the_Perspectives_and_Challenges_of_'Hallucinations'_in_NLP.md)
 
-    - [翻译: 《自信还是荒谬？——自然语言处理中“幻觉”现象的批判性审视与挑战探讨》](2024年04月10日/Confidently_Nonsensical''_A_Critical_Survey_on_the_Perspectives_and_Challenges_of_'Hallucinations'_in_NLP.md)
+    - [翻译: 《荒谬与否？——自然语言处理中“幻觉”现象的批判性审视与挑战探讨》](2024年04月10日/Confidently_Nonsensical''_A_Critical_Survey_on_the_Perspectives_and_Challenges_of_'Hallucinations'_in_NLP.md)
 
 - [WESE: Weak Exploration to Strong Exploitation for LLM Agents](2024年04月10日/WESE_Weak_Exploration_to_Strong_Exploitation_for_LLM_Agents.md)
 
-    - [翻译: WESE：实现 LLM 代理从初步探索到深度利用的跃升](2024年04月10日/WESE_Weak_Exploration_to_Strong_Exploitation_for_LLM_Agents.md)
+    - [翻译: WESE：为大型语言模型代理实现从浅尝辄止到深度挖掘的转变](2024年04月10日/WESE_Weak_Exploration_to_Strong_Exploitation_for_LLM_Agents.md)
 
 - [RiskLabs: Predicting Financial Risk Using Large Language Model Based on Multi-Sources Data](2024年04月10日/RiskLabs_Predicting_Financial_Risk_Using_Large_Language_Model_Based_on_Multi-Sources_Data.md)
 
-    - [翻译: RiskLabs 项目：运用融合多源数据的大型语言模型来预测金融风险](2024年04月10日/RiskLabs_Predicting_Financial_Risk_Using_Large_Language_Model_Based_on_Multi-Sources_Data.md)
+    - [翻译: RiskLabs 项目利用大型语言模型，结合多源数据，旨在预测金融风险。](2024年04月10日/RiskLabs_Predicting_Financial_Risk_Using_Large_Language_Model_Based_on_Multi-Sources_Data.md)
 
 - [Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs](2024年04月10日/Learning_to_Localize_Objects_Improves_Spatial_Reasoning_in_Visual-LLMs.md)
 
-    - [翻译: 通过学习识别物体的位置，视觉型大型语言模型在空间推理方面的表现得到了显著提升。](2024年04月10日/Learning_to_Localize_Objects_Improves_Spatial_Reasoning_in_Visual-LLMs.md)
+    - [翻译: 通过学习识别物体的位置，视觉-大型语言模型在空间推理方面的表现得到了显著提升。](2024年04月10日/Learning_to_Localize_Objects_Improves_Spatial_Reasoning_in_Visual-LLMs.md)
 
 - [Transferable and Principled Efficiency for Open-Vocabulary Segmentation](2024年04月10日/Transferable_and_Principled_Efficiency_for_Open-Vocabulary_Segmentation.md)
 
-    - [翻译: 开放词汇分割的通用与高效原则](2024年04月10日/Transferable_and_Principled_Efficiency_for_Open-Vocabulary_Segmentation.md)
+    - [翻译: 开放词汇分割的可迁移性和原则性高效性](2024年04月10日/Transferable_and_Principled_Efficiency_for_Open-Vocabulary_Segmentation.md)
 
 - [Data-Driven Portfolio Management for Motion Pictures Industry: A New Data-Driven Optimization Methodology Using a Large Language Model as the Expert](2024年04月10日/Data-Driven_Portfolio_Management_for_Motion_Pictures_Industry_A_New_Data-Driven_Optimization_Methodology_Using_a_Large_Language_Model_as_the_Expert.md)
 
-    - [翻译: 电影产业采用数据驱动策略：借助大型语言模型的专业力量，开创投资组合管理的优化新方法。](2024年04月10日/Data-Driven_Portfolio_Management_for_Motion_Pictures_Industry_A_New_Data-Driven_Optimization_Methodology_Using_a_Large_Language_Model_as_the_Expert.md)
+    - [翻译: 电影产业采用数据驱动策略：借助大型语言模型的专业知识，探索一种创新的数据驱动优化方法。](2024年04月10日/Data-Driven_Portfolio_Management_for_Motion_Pictures_Industry_A_New_Data-Driven_Optimization_Methodology_Using_a_Large_Language_Model_as_the_Expert.md)
 
 - [AdaDemo: Data-Efficient Demonstration Expansion for Generalist Robotic Agent](2024年04月10日/AdaDemo_Data-Efficient_Demonstration_Expansion_for_Generalist_Robotic_Agent.md)
 
-    - [翻译: AdaDemo 旨在为通用机器人代理扩展演示数据，实现数据高效。](2024年04月10日/AdaDemo_Data-Efficient_Demonstration_Expansion_for_Generalist_Robotic_Agent.md)
+    - [翻译: AdaDemo 通过数据高效的方式扩展通用机器人代理的演示，助力其更好地学习和适应多样化任务。](2024年04月10日/AdaDemo_Data-Efficient_Demonstration_Expansion_for_Generalist_Robotic_Agent.md)
 
 - [CopilotCAD: Empowering Radiologists with Report Completion Models and Quantitative Evidence from Medical Image Foundation Models](2024年04月10日/CopilotCAD_Empowering_Radiologists_with_Report_Completion_Models_and_Quantitative_Evidence_from_Medical_Image_Foundation_Models.md)
 
-    - [翻译: CopilotCAD：借助医学影像基础模型的报告完善功能及定量分析，为放射科医师提供强大支持](2024年04月10日/CopilotCAD_Empowering_Radiologists_with_Report_Completion_Models_and_Quantitative_Evidence_from_Medical_Image_Foundation_Models.md)
+    - [翻译: CopilotCAD：借助医学影像基础模型的报告完成模型和定量证据，提升放射科医生的工作效率](2024年04月10日/CopilotCAD_Empowering_Radiologists_with_Report_Completion_Models_and_Quantitative_Evidence_from_Medical_Image_Foundation_Models.md)
 
 - [JetMoE: Reaching Llama2 Performance with 0.1M Dollars](2024年04月10日/JetMoE_Reaching_Llama2_Performance_with_0.1M_Dollars.md)
 
@@ -338,7 +338,7 @@
 
 - [LLMs in Biomedicine: A study on clinical Named Entity Recognition](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
 
-    - [翻译: 在生物医学领域，LLMs 致力于临床命名实体识别的研究。](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
+    - [翻译: 在生物医学领域，LLMs的应用：探究临床命名实体识别的研究成果](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
 
 2024年04月09日
 
