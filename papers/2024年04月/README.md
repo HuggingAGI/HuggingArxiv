@@ -70,6 +70,10 @@
 
     - [翻译: 探索低资源语言的神经机器翻译：以巴伐利亚语为案例研究](2024年04月12日/Investigating_Neural_Machine_Translation_for_Low-Resource_Languages_Using_Bavarian_as_a_Case_Study.md)
 
+- [Pre-training Small Base LMs with Fewer Tokens](2024年04月12日/Pre-training_Small_Base_LMs_with_Fewer_Tokens.md)
+
+    - [翻译: 在预训练小型基础语言模型时，采用更少的标记。](2024年04月12日/Pre-training_Small_Base_LMs_with_Fewer_Tokens.md)
+
 2024年04月11日
 
 - [OpenBias: Open-set Bias Detection in Text-to-Image Generative Models](2024年04月11日/OpenBias_Open-set_Bias_Detection_in_Text-to-Image_Generative_Models.md)
