@@ -1,5 +1,15 @@
 # 2024年04月
 
+2024年04月14日
+
+- [A Survey on Integration of Large Language Models with Intelligent Robots](2024年04月14日/A_Survey_on_Integration_of_Large_Language_Models_with_Intelligent_Robots.md)
+
+    - [翻译: 本文综述了大型语言模型与智能机器人的融合应用，探讨了两者结合的潜力与挑战。](2024年04月14日/A_Survey_on_Integration_of_Large_Language_Models_with_Intelligent_Robots.md)
+
+- [TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models](2024年04月14日/TextHawk_Exploring_Efficient_Fine-Grained_Perception_of_Multimodal_Large_Language_Models.md)
+
+    - [翻译: TextHawk：高效精准感知多模态大型语言模型的新探索](2024年04月14日/TextHawk_Exploring_Efficient_Fine-Grained_Perception_of_Multimodal_Large_Language_Models.md)
+
 2024年04月12日
 
 - [Enhancing Visual Question Answering through Question-Driven Image Captions as Prompts](2024年04月12日/Enhancing_Visual_Question_Answering_through_Question-Driven_Image_Captions_as_Prompts.md)
