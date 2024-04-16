@@ -16,7 +16,7 @@
 
 - [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](2024年01月10日/Personal_LLM_Agents_Insights_and_Survey_about_the_Capability,_Efficiency_and_Security.md)
 
-    - [翻译: ](2024年01月10日/Personal_LLM_Agents_Insights_and_Survey_about_the_Capability,_Efficiency_and_Security.md)
+    - [翻译: 个人化大型语言模型（LLM）代理：深入探讨其能力、效率与安全性](2024年01月10日/Personal_LLM_Agents_Insights_and_Survey_about_the_Capability,_Efficiency_and_Security.md)
 
 2024年01月08日
 
@@ -26,7 +26,7 @@
 
 - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](2024年01月08日/If_LLM_Is_the_Wizard,_Then_Code_Is_the_Wand_A_Survey_on_How_Code_Empowers_Large_Language_Models_to_Serve_as_Intelligent_Agents.md)
 
-    - [翻译: ](2024年01月08日/If_LLM_Is_the_Wizard,_Then_Code_Is_the_Wand_A_Survey_on_How_Code_Empowers_Large_Language_Models_to_Serve_as_Intelligent_Agents.md)
+    - [翻译: 将大型语言模型（LLM）比作巫师，代码则是其施展魔法的魔杖。本文综述了代码如何赋予LLM以智能代理的能力。](2024年01月08日/If_LLM_Is_the_Wizard,_Then_Code_Is_the_Wand_A_Survey_on_How_Code_Empowers_Large_Language_Models_to_Serve_as_Intelligent_Agents.md)
 
 2024年01月04日
 
