@@ -520,4 +520,4 @@
 
 - [Understanding the planning of LLM agents: A survey](2024年02月04日/Understanding_the_planning_of_LLM_agents_A_survey.md)
 
-    - [翻译: ](2024年02月04日/Understanding_the_planning_of_LLM_agents_A_survey.md)
+    - [翻译: 探索大型语言模型代理的策略规划：一项全面调研](2024年02月04日/Understanding_the_planning_of_LLM_agents_A_survey.md)
