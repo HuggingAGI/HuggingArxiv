@@ -517,3 +517,7 @@
 - [Improving Assessment of Tutoring Practices using Retrieval-Augmented Generation](2024年02月04日/Improving_Assessment_of_Tutoring_Practices_using_Retrieval-Augmented_Generation.md)
 
     - [翻译: 借助于“检索增强生成”技术，我们旨在提升对辅导实践效果的精准评估。](2024年02月04日/Improving_Assessment_of_Tutoring_Practices_using_Retrieval-Augmented_Generation.md)
+
+- [Understanding the planning of LLM agents: A survey](2024年02月04日/Understanding_the_planning_of_LLM_agents_A_survey.md)
+
+    - [翻译: ](2024年02月04日/Understanding_the_planning_of_LLM_agents_A_survey.md)
