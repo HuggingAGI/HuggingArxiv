@@ -246,63 +246,63 @@
 
 - [Assessing Economic Viability: A Comparative Analysis of Total Cost of Ownership for Domain-Adapted Large Language Models versus State-of-the-art Counterparts in Chip Design Coding Assistance](2024年04月12日/Assessing_Economic_Viability_A_Comparative_Analysis_of_Total_Cost_of_Ownership_for_Domain-Adapted_Large_Language_Models_versus_State-of-the-art_Counterparts_in_Chip_Design_Coding_Assistance.md)
 
-    - [翻译: ](2024年04月12日/Assessing_Economic_Viability_A_Comparative_Analysis_of_Total_Cost_of_Ownership_for_Domain-Adapted_Large_Language_Models_versus_State-of-the-art_Counterparts_in_Chip_Design_Coding_Assistance.md)
+    - [翻译: 探究经济价值：比较分析领域定制大型语言模型与芯片设计编码辅助领域中尖端技术的总成本拥有情况。](2024年04月12日/Assessing_Economic_Viability_A_Comparative_Analysis_of_Total_Cost_of_Ownership_for_Domain-Adapted_Large_Language_Models_versus_State-of-the-art_Counterparts_in_Chip_Design_Coding_Assistance.md)
 
 - [Experimental Design for Active Transductive Inference in Large Language Models](2024年04月12日/Experimental_Design_for_Active_Transductive_Inference_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月12日/Experimental_Design_for_Active_Transductive_Inference_in_Large_Language_Models.md)
+    - [翻译: 本文探讨了大型语言模型中主动归纳推理的实验设计方案。](2024年04月12日/Experimental_Design_for_Active_Transductive_Inference_in_Large_Language_Models.md)
 
 - ["Don't forget to put the milk back!" Dataset for Enabling Embodied Agents to Detect Anomalous Situations](2024年04月12日/Don't_forget_to_put_the_milk_back!_Dataset_for_Enabling_Embodied_Agents_to_Detect_Anomalous_Situations.md)
 
-    - [翻译: ](2024年04月12日/Don't_forget_to_put_the_milk_back!_Dataset_for_Enabling_Embodied_Agents_to_Detect_Anomalous_Situations.md)
+    - [翻译: "记得把牛奶归位哦！" 这个数据集旨在帮助具身智能体识别不寻常的场景。](2024年04月12日/Don't_forget_to_put_the_milk_back!_Dataset_for_Enabling_Embodied_Agents_to_Detect_Anomalous_Situations.md)
 
 - [Inverse Kinematics for Neuro-Robotic Grasping with Humanoid Embodied Agents](2024年04月12日/Inverse_Kinematics_for_Neuro-Robotic_Grasping_with_Humanoid_Embodied_Agents.md)
 
-    - [翻译: ](2024年04月12日/Inverse_Kinematics_for_Neuro-Robotic_Grasping_with_Humanoid_Embodied_Agents.md)
+    - [翻译: 本文探讨了逆运动学在人形机器人抓取任务中的应用，特别是针对具有人形体现的神经机器人代理。](2024年04月12日/Inverse_Kinematics_for_Neuro-Robotic_Grasping_with_Humanoid_Embodied_Agents.md)
 
 - [The Illusion of State in State-Space Models](2024年04月12日/The_Illusion_of_State_in_State-Space_Models.md)
 
-    - [翻译: ](2024年04月12日/The_Illusion_of_State_in_State-Space_Models.md)
+    - [翻译: 状态空间模型中的状态幻觉](2024年04月12日/The_Illusion_of_State_in_State-Space_Models.md)
 
 - [Evaluating the Quality of Answers in Political Q&A Sessions with Large Language Models](2024年04月12日/Evaluating_the_Quality_of_Answers_in_Political_Q&A_Sessions_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月12日/Evaluating_the_Quality_of_Answers_in_Political_Q&A_Sessions_with_Large_Language_Models.md)
+    - [翻译: 借助大型语言模型，我们探讨了政治问答环节中答案的质量评估问题。](2024年04月12日/Evaluating_the_Quality_of_Answers_in_Political_Q&A_Sessions_with_Large_Language_Models.md)
 
 - [Reducing the Barriers to Entry for Foundation Model Training](2024年04月12日/Reducing_the_Barriers_to_Entry_for_Foundation_Model_Training.md)
 
-    - [翻译: ](2024年04月12日/Reducing_the_Barriers_to_Entry_for_Foundation_Model_Training.md)
+    - [翻译: 本文旨在探讨如何减少进入基础模型训练领域的障碍，以便更多的研究人员和开发者能够参与并推动这一领域的进步。](2024年04月12日/Reducing_the_Barriers_to_Entry_for_Foundation_Model_Training.md)
 
 - [CreativEval: Evaluating Creativity of LLM-Based Hardware Code Generation](2024年04月12日/CreativEval_Evaluating_Creativity_of_LLM-Based_Hardware_Code_Generation.md)
 
-    - [翻译: ](2024年04月12日/CreativEval_Evaluating_Creativity_of_LLM-Based_Hardware_Code_Generation.md)
+    - [翻译: CreativEval：探究大型语言模型在硬件代码创造中的表现](2024年04月12日/CreativEval_Evaluating_Creativity_of_LLM-Based_Hardware_Code_Generation.md)
 
 - [JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](2024年04月12日/JailbreakLens_Visual_Analysis_of_Jailbreak_Attacks_Against_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月12日/JailbreakLens_Visual_Analysis_of_Jailbreak_Attacks_Against_Large_Language_Models.md)
+    - [翻译: JailbreakLens：揭秘大型语言模型面临的越狱攻击的视觉解析](2024年04月12日/JailbreakLens_Visual_Analysis_of_Jailbreak_Attacks_Against_Large_Language_Models.md)
 
 - [LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning](2024年04月12日/LLM-Seg_Bridging_Image_Segmentation_and_Large_Language_Model_Reasoning.md)
 
-    - [翻译: ](2024年04月12日/LLM-Seg_Bridging_Image_Segmentation_and_Large_Language_Model_Reasoning.md)
+    - [翻译: LLM-Seg：融合图像分割与大型语言模型的推理能力](2024年04月12日/LLM-Seg_Bridging_Image_Segmentation_and_Large_Language_Model_Reasoning.md)
 
 - [CATS: Contextually-Aware Thresholding for Sparsity in Large Language Models](2024年04月12日/CATS_Contextually-Aware_Thresholding_for_Sparsity_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月12日/CATS_Contextually-Aware_Thresholding_for_Sparsity_in_Large_Language_Models.md)
+    - [翻译: CATS：针对大型语言模型的稀疏性，采用情境感知的阈值策略](2024年04月12日/CATS_Contextually-Aware_Thresholding_for_Sparsity_in_Large_Language_Models.md)
 
 - [The Generation Gap:Exploring Age Bias in Large Language Models](2024年04月12日/The_Generation_GapExploring_Age_Bias_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月12日/The_Generation_GapExploring_Age_Bias_in_Large_Language_Models.md)
+    - [翻译: 探究大型语言模型中的年龄偏见：揭秘生成差距](2024年04月12日/The_Generation_GapExploring_Age_Bias_in_Large_Language_Models.md)
 
 - [Training a Vision Language Model as Smartphone Assistant](2024年04月12日/Training_a_Vision_Language_Model_as_Smartphone_Assistant.md)
 
-    - [翻译: ](2024年04月12日/Training_a_Vision_Language_Model_as_Smartphone_Assistant.md)
+    - [翻译: 将视觉语言模型打造成智能手机助理。](2024年04月12日/Training_a_Vision_Language_Model_as_Smartphone_Assistant.md)
 
 - [VizGroup: An AI-Assisted Event-Driven System for Real-Time Collaborative Programming Learning Analytics](2024年04月12日/VizGroup_An_AI-Assisted_Event-Driven_System_for_Real-Time_Collaborative_Programming_Learning_Analytics.md)
 
-    - [翻译: ](2024年04月12日/VizGroup_An_AI-Assisted_Event-Driven_System_for_Real-Time_Collaborative_Programming_Learning_Analytics.md)
+    - [翻译: VizGroup：一款人工智能驱动的实时协作编程学习分析系统，采用事件触发机制。](2024年04月12日/VizGroup_An_AI-Assisted_Event-Driven_System_for_Real-Time_Collaborative_Programming_Learning_Analytics.md)
 
 - [Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases](2024年04月12日/Can_LLMs_substitute_SQL_Comparing_Resource_Utilization_of_Querying_LLMs_versus_Traditional_Relational_Databases.md)
 
-    - [翻译: ](2024年04月12日/Can_LLMs_substitute_SQL_Comparing_Resource_Utilization_of_Querying_LLMs_versus_Traditional_Relational_Databases.md)
+    - [翻译: 大型语言模型能否取代SQL？探究在查询过程中，LLMs与传统关系型数据库在资源消耗方面的对比。](2024年04月12日/Can_LLMs_substitute_SQL_Comparing_Resource_Utilization_of_Querying_LLMs_versus_Traditional_Relational_Databases.md)
 
 2024年04月11日
 
@@ -504,7 +504,7 @@
 
 - [MM-PhyQA: Multimodal Physics Question-Answering With Multi-Image CoT Prompting](2024年04月11日/MM-PhyQA_Multimodal_Physics_Question-Answering_With_Multi-Image_CoT_Prompting.md)
 
-    - [翻译: ](2024年04月11日/MM-PhyQA_Multimodal_Physics_Question-Answering_With_Multi-Image_CoT_Prompting.md)
+    - [翻译: MM-PhyQA：运用多张图片的 CoT 提示技术，实现多模态物理问答功能。](2024年04月11日/MM-PhyQA_Multimodal_Physics_Question-Answering_With_Multi-Image_CoT_Prompting.md)
 
 2024年04月10日
 
@@ -698,11 +698,11 @@
 
 - [Is Your LLM Outdated? Benchmarking LLMs & Alignment Algorithms for Time-Sensitive Knowledge](2024年04月10日/Is_Your_LLM_Outdated_Benchmarking_LLMs_&_Alignment_Algorithms_for_Time-Sensitive_Knowledge.md)
 
-    - [翻译: ](2024年04月10日/Is_Your_LLM_Outdated_Benchmarking_LLMs_&_Alignment_Algorithms_for_Time-Sensitive_Knowledge.md)
+    - [翻译: 你的大型语言模型（LLM）落伍了吗？本文旨在评估适用于时效性知识的 LLM 和对齐算法的性能基准。](2024年04月10日/Is_Your_LLM_Outdated_Benchmarking_LLMs_&_Alignment_Algorithms_for_Time-Sensitive_Knowledge.md)
 
 - [Enhancing Question Answering for Enterprise Knowledge Bases using Large Language Models](2024年04月10日/Enhancing_Question_Answering_for_Enterprise_Knowledge_Bases_using_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月10日/Enhancing_Question_Answering_for_Enterprise_Knowledge_Bases_using_Large_Language_Models.md)
+    - [翻译: 通过运用大型语言模型，我们能够提升企业知识库中的问答体验。](2024年04月10日/Enhancing_Question_Answering_for_Enterprise_Knowledge_Bases_using_Large_Language_Models.md)
 
 2024年04月09日
 
@@ -944,7 +944,7 @@
 
 - [Apollonion: Profile-centric Dialog Agent](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
 
-    - [翻译: ](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
+    - [翻译: Apollonion：以用户画像为核心的智能对话助手。](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
 
 2024年04月08日
 
@@ -1216,7 +1216,7 @@
 
 - [Information Retrieval with Entity Linking](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
 
-    - [翻译: ](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
+    - [翻译: 通过实体链接进行信息检索](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
 
 2024年04月06日
 
@@ -1262,7 +1262,7 @@
 
 - [PMG : Personalized Multimodal Generation with Large Language Models](2024年04月06日/PMG__Personalized_Multimodal_Generation_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月06日/PMG__Personalized_Multimodal_Generation_with_Large_Language_Models.md)
+    - [翻译: PMG：借助大型语言模型实现定制化的多模态创意生成](2024年04月06日/PMG__Personalized_Multimodal_Generation_with_Large_Language_Models.md)
 
 2024年04月05日
 
