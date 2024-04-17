@@ -1,5 +1,87 @@
 # 2024年04月
 
+2024年04月16日
+
+- [Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
+
+    - [翻译: ](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
+
+- [Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning](2024年04月16日/Unveiling_the_Misuse_Potential_of_Base_Large_Language_Models_via_In-Context_Learning.md)
+
+    - [翻译: ](2024年04月16日/Unveiling_the_Misuse_Potential_of_Base_Large_Language_Models_via_In-Context_Learning.md)
+
+- [CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity](2024年04月16日/CoTAR_Chain-of-Thought_Attribution_Reasoning_with_Multi-level_Granularity.md)
+
+    - [翻译: ](2024年04月16日/CoTAR_Chain-of-Thought_Attribution_Reasoning_with_Multi-level_Granularity.md)
+
+- [White Men Lead, Black Women Help: Uncovering Gender, Racial, and Intersectional Bias in Language Agency](2024年04月16日/White_Men_Lead,_Black_Women_Help_Uncovering_Gender,_Racial,_and_Intersectional_Bias_in_Language_Agency.md)
+
+    - [翻译: ](2024年04月16日/White_Men_Lead,_Black_Women_Help_Uncovering_Gender,_Racial,_and_Intersectional_Bias_in_Language_Agency.md)
+
+- [When Emotional Stimuli meet Prompt Designing: An Auto-Prompt Graphical Paradigm](2024年04月16日/When_Emotional_Stimuli_meet_Prompt_Designing_An_Auto-Prompt_Graphical_Paradigm.md)
+
+    - [翻译: ](2024年04月16日/When_Emotional_Stimuli_meet_Prompt_Designing_An_Auto-Prompt_Graphical_Paradigm.md)
+
+- [Spiral of Silences: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering](2024年04月16日/Spiral_of_Silences_How_is_Large_Language_Model_Killing_Information_Retrieval_--_A_Case_Study_on_Open_Domain_Question_Answering.md)
+
+    - [翻译: ](2024年04月16日/Spiral_of_Silences_How_is_Large_Language_Model_Killing_Information_Retrieval_--_A_Case_Study_on_Open_Domain_Question_Answering.md)
+
+- [DESTEIN: Navigating Detoxification of Language Models via Universal Steering Pairs and Head-wise Activation Fusion](2024年04月16日/DESTEIN_Navigating_Detoxification_of_Language_Models_via_Universal_Steering_Pairs_and_Head-wise_Activation_Fusion.md)
+
+    - [翻译: ](2024年04月16日/DESTEIN_Navigating_Detoxification_of_Language_Models_via_Universal_Steering_Pairs_and_Head-wise_Activation_Fusion.md)
+
+- [MEEL: Multi-Modal Event Evolution Learning](2024年04月16日/MEEL_Multi-Modal_Event_Evolution_Learning.md)
+
+    - [翻译: ](2024年04月16日/MEEL_Multi-Modal_Event_Evolution_Learning.md)
+
+- [VDTuner: Automated Performance Tuning for Vector Data Management Systems](2024年04月16日/VDTuner_Automated_Performance_Tuning_for_Vector_Data_Management_Systems.md)
+
+    - [翻译: ](2024年04月16日/VDTuner_Automated_Performance_Tuning_for_Vector_Data_Management_Systems.md)
+
+- [Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering](2024年04月16日/Reasoning_on_Efficient_Knowledge_PathsKnowledge_Graph_Guides_Large_Language_Model_for_Domain_Question_Answering.md)
+
+    - [翻译: ](2024年04月16日/Reasoning_on_Efficient_Knowledge_PathsKnowledge_Graph_Guides_Large_Language_Model_for_Domain_Question_Answering.md)
+
+- [Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards](2024年04月16日/Self-Explore_to_Avoid_the_Pit_Improving_the_Reasoning_Capabilities_of_Language_Models_with_Fine-grained_Rewards.md)
+
+    - [翻译: ](2024年04月16日/Self-Explore_to_Avoid_the_Pit_Improving_the_Reasoning_Capabilities_of_Language_Models_with_Fine-grained_Rewards.md)
+
+- [Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models](2024年04月16日/Efficiently_Adversarial_Examples_Generation_for_Visual-Language_Models_under_Targeted_Transfer_Scenarios_using_Diffusion_Models.md)
+
+    - [翻译: ](2024年04月16日/Efficiently_Adversarial_Examples_Generation_for_Visual-Language_Models_under_Targeted_Transfer_Scenarios_using_Diffusion_Models.md)
+
+- [Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning](2024年04月16日/Prescribing_the_Right_Remedy_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Targeted_Instruction_Tuning.md)
+
+    - [翻译: ](2024年04月16日/Prescribing_the_Right_Remedy_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Targeted_Instruction_Tuning.md)
+
+- [Towards Complex Ontology Alignment using Large Language Models](2024年04月16日/Towards_Complex_Ontology_Alignment_using_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月16日/Towards_Complex_Ontology_Alignment_using_Large_Language_Models.md)
+
+- [Exact and Efficient Unlearning for Large Language Model-based Recommendation](2024年04月16日/Exact_and_Efficient_Unlearning_for_Large_Language_Model-based_Recommendation.md)
+
+    - [翻译: ](2024年04月16日/Exact_and_Efficient_Unlearning_for_Large_Language_Model-based_Recommendation.md)
+
+- [LLMs4OM: Matching Ontologies with Large Language Models](2024年04月16日/LLMs4OM_Matching_Ontologies_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月16日/LLMs4OM_Matching_Ontologies_with_Large_Language_Models.md)
+
+- [Enhancing Confidence Expression in Large Language Models Through Learning from Past Experience](2024年04月16日/Enhancing_Confidence_Expression_in_Large_Language_Models_Through_Learning_from_Past_Experience.md)
+
+    - [翻译: ](2024年04月16日/Enhancing_Confidence_Expression_in_Large_Language_Models_Through_Learning_from_Past_Experience.md)
+
+- [Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs](2024年04月16日/Hierarchical_Context_Merging_Better_Long_Context_Understanding_for_Pre-trained_LLMs.md)
+
+    - [翻译: ](2024年04月16日/Hierarchical_Context_Merging_Better_Long_Context_Understanding_for_Pre-trained_LLMs.md)
+
+- [Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model](2024年04月16日/Balancing_Speciality_and_Versatility_a_Coarse_to_Fine_Framework_for_Supervised_Fine-tuning_Large_Language_Model.md)
+
+    - [翻译: ](2024年04月16日/Balancing_Speciality_and_Versatility_a_Coarse_to_Fine_Framework_for_Supervised_Fine-tuning_Large_Language_Model.md)
+
+- [LLM-Powered Test Case Generation for Detecting Tricky Bugs](2024年04月16日/LLM-Powered_Test_Case_Generation_for_Detecting_Tricky_Bugs.md)
+
+    - [翻译: ](2024年04月16日/LLM-Powered_Test_Case_Generation_for_Detecting_Tricky_Bugs.md)
+
 2024年04月15日
 
 - [Harnessing GPT-4V(ision) for Insurance: A Preliminary Exploration](2024年04月15日/Harnessing_GPT-4V(ision)_for_Insurance_A_Preliminary_Exploration.md)
@@ -197,6 +279,30 @@
 - [TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding](2024年04月15日/TextCoT_Zoom_In_for_Enhanced_Multimodal_Text-Rich_Image_Understanding.md)
 
     - [翻译: TextCoT：深入探索，提升图文融合的多模态理解](2024年04月15日/TextCoT_Zoom_In_for_Enhanced_Multimodal_Text-Rich_Image_Understanding.md)
+
+- [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](2024年04月15日/Uncovering_Latent_Arguments_in_Social_Media_Messaging_by_Employing_LLMs-in-the-Loop_Strategy.md)
+
+    - [翻译: ](2024年04月15日/Uncovering_Latent_Arguments_in_Social_Media_Messaging_by_Employing_LLMs-in-the-Loop_Strategy.md)
+
+- [MoE-TinyMed: Mixture of Experts for Tiny Medical Large Vision-Language Models](2024年04月15日/MoE-TinyMed_Mixture_of_Experts_for_Tiny_Medical_Large_Vision-Language_Models.md)
+
+    - [翻译: ](2024年04月15日/MoE-TinyMed_Mixture_of_Experts_for_Tiny_Medical_Large_Vision-Language_Models.md)
+
+- [Generative Text Steganography with Large Language Model](2024年04月15日/Generative_Text_Steganography_with_Large_Language_Model.md)
+
+    - [翻译: ](2024年04月15日/Generative_Text_Steganography_with_Large_Language_Model.md)
+
+- [Find The Gap: Knowledge Base Reasoning For Visual Question Answering](2024年04月15日/Find_The_Gap_Knowledge_Base_Reasoning_For_Visual_Question_Answering.md)
+
+    - [翻译: ](2024年04月15日/Find_The_Gap_Knowledge_Base_Reasoning_For_Visual_Question_Answering.md)
+
+- [Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models](2024年04月15日/Demonstration_of_DB-GPT_Next_Generation_Data_Interaction_System_Empowered_by_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月15日/Demonstration_of_DB-GPT_Next_Generation_Data_Interaction_System_Empowered_by_Large_Language_Models.md)
+
+- [TEL'M: Test and Evaluation of Language Models](2024年04月15日/TEL'M_Test_and_Evaluation_of_Language_Models.md)
+
+    - [翻译: ](2024年04月15日/TEL'M_Test_and_Evaluation_of_Language_Models.md)
 
 2024年04月14日
 
