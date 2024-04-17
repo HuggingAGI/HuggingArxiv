@@ -4,83 +4,127 @@
 
 - [Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
 
-    - [翻译: ](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
+    - [翻译: 本研究旨在通过持续预训练的方法，打造一款专门针对金融领域的日语大型语言模型。](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
 
 - [Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning](2024年04月16日/Unveiling_the_Misuse_Potential_of_Base_Large_Language_Models_via_In-Context_Learning.md)
 
-    - [翻译: ](2024年04月16日/Unveiling_the_Misuse_Potential_of_Base_Large_Language_Models_via_In-Context_Learning.md)
+    - [翻译: 借助上下文学习，探究基础大型语言模型潜在的滥用风险](2024年04月16日/Unveiling_the_Misuse_Potential_of_Base_Large_Language_Models_via_In-Context_Learning.md)
 
 - [CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity](2024年04月16日/CoTAR_Chain-of-Thought_Attribution_Reasoning_with_Multi-level_Granularity.md)
 
-    - [翻译: ](2024年04月16日/CoTAR_Chain-of-Thought_Attribution_Reasoning_with_Multi-level_Granularity.md)
+    - [翻译: CoTAR：采用多级细节的思考路径归因分析](2024年04月16日/CoTAR_Chain-of-Thought_Attribution_Reasoning_with_Multi-level_Granularity.md)
 
 - [White Men Lead, Black Women Help: Uncovering Gender, Racial, and Intersectional Bias in Language Agency](2024年04月16日/White_Men_Lead,_Black_Women_Help_Uncovering_Gender,_Racial,_and_Intersectional_Bias_in_Language_Agency.md)
 
-    - [翻译: ](2024年04月16日/White_Men_Lead,_Black_Women_Help_Uncovering_Gender,_Racial,_and_Intersectional_Bias_in_Language_Agency.md)
+    - [翻译: 白人男性主导，黑人女性助力：揭秘语言代理中的性别、种族及交叉性偏见。](2024年04月16日/White_Men_Lead,_Black_Women_Help_Uncovering_Gender,_Racial,_and_Intersectional_Bias_in_Language_Agency.md)
 
 - [When Emotional Stimuli meet Prompt Designing: An Auto-Prompt Graphical Paradigm](2024年04月16日/When_Emotional_Stimuli_meet_Prompt_Designing_An_Auto-Prompt_Graphical_Paradigm.md)
 
-    - [翻译: ](2024年04月16日/When_Emotional_Stimuli_meet_Prompt_Designing_An_Auto-Prompt_Graphical_Paradigm.md)
+    - [翻译: 情感刺激与提示设计相遇：探索自动生成提示的图形化方法](2024年04月16日/When_Emotional_Stimuli_meet_Prompt_Designing_An_Auto-Prompt_Graphical_Paradigm.md)
 
 - [Spiral of Silences: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering](2024年04月16日/Spiral_of_Silences_How_is_Large_Language_Model_Killing_Information_Retrieval_--_A_Case_Study_on_Open_Domain_Question_Answering.md)
 
-    - [翻译: ](2024年04月16日/Spiral_of_Silences_How_is_Large_Language_Model_Killing_Information_Retrieval_--_A_Case_Study_on_Open_Domain_Question_Answering.md)
+    - [翻译: 沉默螺旋：大型语言模型如何影响信息检索？以开放领域问答为案例进行探讨。](2024年04月16日/Spiral_of_Silences_How_is_Large_Language_Model_Killing_Information_Retrieval_--_A_Case_Study_on_Open_Domain_Question_Answering.md)
 
 - [DESTEIN: Navigating Detoxification of Language Models via Universal Steering Pairs and Head-wise Activation Fusion](2024年04月16日/DESTEIN_Navigating_Detoxification_of_Language_Models_via_Universal_Steering_Pairs_and_Head-wise_Activation_Fusion.md)
 
-    - [翻译: ](2024年04月16日/DESTEIN_Navigating_Detoxification_of_Language_Models_via_Universal_Steering_Pairs_and_Head-wise_Activation_Fusion.md)
+    - [翻译: DESTEIN：利用通用指令对和逐步激活整合技术引导语言模型净化之旅](2024年04月16日/DESTEIN_Navigating_Detoxification_of_Language_Models_via_Universal_Steering_Pairs_and_Head-wise_Activation_Fusion.md)
 
 - [MEEL: Multi-Modal Event Evolution Learning](2024年04月16日/MEEL_Multi-Modal_Event_Evolution_Learning.md)
 
-    - [翻译: ](2024年04月16日/MEEL_Multi-Modal_Event_Evolution_Learning.md)
+    - [翻译: MEEL 代表多模态事件演化学习，这是一种结合多种数据形式以更好地理解和学习事件发展过程的方法。](2024年04月16日/MEEL_Multi-Modal_Event_Evolution_Learning.md)
 
 - [VDTuner: Automated Performance Tuning for Vector Data Management Systems](2024年04月16日/VDTuner_Automated_Performance_Tuning_for_Vector_Data_Management_Systems.md)
 
-    - [翻译: ](2024年04月16日/VDTuner_Automated_Performance_Tuning_for_Vector_Data_Management_Systems.md)
+    - [翻译: VDTuner：自动优化向量数据管理系统的性能](2024年04月16日/VDTuner_Automated_Performance_Tuning_for_Vector_Data_Management_Systems.md)
 
 - [Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering](2024年04月16日/Reasoning_on_Efficient_Knowledge_PathsKnowledge_Graph_Guides_Large_Language_Model_for_Domain_Question_Answering.md)
 
-    - [翻译: ](2024年04月16日/Reasoning_on_Efficient_Knowledge_PathsKnowledge_Graph_Guides_Large_Language_Model_for_Domain_Question_Answering.md)
+    - [翻译: 高效知识路径推理：知识图谱助力大型语言模型解答领域问题](2024年04月16日/Reasoning_on_Efficient_Knowledge_PathsKnowledge_Graph_Guides_Large_Language_Model_for_Domain_Question_Answering.md)
 
 - [Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards](2024年04月16日/Self-Explore_to_Avoid_the_Pit_Improving_the_Reasoning_Capabilities_of_Language_Models_with_Fine-grained_Rewards.md)
 
-    - [翻译: ](2024年04月16日/Self-Explore_to_Avoid_the_Pit_Improving_the_Reasoning_Capabilities_of_Language_Models_with_Fine-grained_Rewards.md)
+    - [翻译: 探索自救，远离陷阱：利用精细奖励机制增强语言模型的推理能力](2024年04月16日/Self-Explore_to_Avoid_the_Pit_Improving_the_Reasoning_Capabilities_of_Language_Models_with_Fine-grained_Rewards.md)
 
 - [Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models](2024年04月16日/Efficiently_Adversarial_Examples_Generation_for_Visual-Language_Models_under_Targeted_Transfer_Scenarios_using_Diffusion_Models.md)
 
-    - [翻译: ](2024年04月16日/Efficiently_Adversarial_Examples_Generation_for_Visual-Language_Models_under_Targeted_Transfer_Scenarios_using_Diffusion_Models.md)
+    - [翻译: 针对特定目标转移情境，本研究利用扩散模型，探索了一种高效的生成视觉-语言模型对抗样本的方法。](2024年04月16日/Efficiently_Adversarial_Examples_Generation_for_Visual-Language_Models_under_Targeted_Transfer_Scenarios_using_Diffusion_Models.md)
 
 - [Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning](2024年04月16日/Prescribing_the_Right_Remedy_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Targeted_Instruction_Tuning.md)
 
-    - [翻译: ](2024年04月16日/Prescribing_the_Right_Remedy_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Targeted_Instruction_Tuning.md)
+    - [翻译: 对症下药：通过针对性指令调整，缓解大型视觉-语言模型中的幻觉问题](2024年04月16日/Prescribing_the_Right_Remedy_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Targeted_Instruction_Tuning.md)
 
 - [Towards Complex Ontology Alignment using Large Language Models](2024年04月16日/Towards_Complex_Ontology_Alignment_using_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月16日/Towards_Complex_Ontology_Alignment_using_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型实现复杂本体的精准对齐](2024年04月16日/Towards_Complex_Ontology_Alignment_using_Large_Language_Models.md)
 
 - [Exact and Efficient Unlearning for Large Language Model-based Recommendation](2024年04月16日/Exact_and_Efficient_Unlearning_for_Large_Language_Model-based_Recommendation.md)
 
-    - [翻译: ](2024年04月16日/Exact_and_Efficient_Unlearning_for_Large_Language_Model-based_Recommendation.md)
+    - [翻译: 在大型语言模型驱动的推荐系统中，实现精确而高效的“忘却”机制显得尤为关键。](2024年04月16日/Exact_and_Efficient_Unlearning_for_Large_Language_Model-based_Recommendation.md)
 
 - [LLMs4OM: Matching Ontologies with Large Language Models](2024年04月16日/LLMs4OM_Matching_Ontologies_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月16日/LLMs4OM_Matching_Ontologies_with_Large_Language_Models.md)
+    - [翻译: LLMs4OM：借助大型语言模型实现本体匹配](2024年04月16日/LLMs4OM_Matching_Ontologies_with_Large_Language_Models.md)
 
 - [Enhancing Confidence Expression in Large Language Models Through Learning from Past Experience](2024年04月16日/Enhancing_Confidence_Expression_in_Large_Language_Models_Through_Learning_from_Past_Experience.md)
 
-    - [翻译: ](2024年04月16日/Enhancing_Confidence_Expression_in_Large_Language_Models_Through_Learning_from_Past_Experience.md)
+    - [翻译: 本研究探讨了如何通过借鉴历史经验，增强大型语言模型在表达信心方面的能力。](2024年04月16日/Enhancing_Confidence_Expression_in_Large_Language_Models_Through_Learning_from_Past_Experience.md)
 
 - [Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs](2024年04月16日/Hierarchical_Context_Merging_Better_Long_Context_Understanding_for_Pre-trained_LLMs.md)
 
-    - [翻译: ](2024年04月16日/Hierarchical_Context_Merging_Better_Long_Context_Understanding_for_Pre-trained_LLMs.md)
+    - [翻译: 通过层级上下文融合，我们能够提升预训练大型语言模型对长篇幅上下文的把握与理解能力。](2024年04月16日/Hierarchical_Context_Merging_Better_Long_Context_Understanding_for_Pre-trained_LLMs.md)
 
 - [Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model](2024年04月16日/Balancing_Speciality_and_Versatility_a_Coarse_to_Fine_Framework_for_Supervised_Fine-tuning_Large_Language_Model.md)
 
-    - [翻译: ](2024年04月16日/Balancing_Speciality_and_Versatility_a_Coarse_to_Fine_Framework_for_Supervised_Fine-tuning_Large_Language_Model.md)
+    - [翻译: 为了兼顾专业性与通用性，本文提出了一种由粗到细的监督微调框架，旨在优化大型语言模型的性能。](2024年04月16日/Balancing_Speciality_and_Versatility_a_Coarse_to_Fine_Framework_for_Supervised_Fine-tuning_Large_Language_Model.md)
 
 - [LLM-Powered Test Case Generation for Detecting Tricky Bugs](2024年04月16日/LLM-Powered_Test_Case_Generation_for_Detecting_Tricky_Bugs.md)
 
-    - [翻译: ](2024年04月16日/LLM-Powered_Test_Case_Generation_for_Detecting_Tricky_Bugs.md)
+    - [翻译: 借助大型语言模型（LLM）的力量，我们能够生成测试用例来捕捉那些难以发现的软件缺陷。](2024年04月16日/LLM-Powered_Test_Case_Generation_for_Detecting_Tricky_Bugs.md)
+
+- [Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback](2024年04月16日/Nearly_Optimal_Algorithms_for_Contextual_Dueling_Bandits_from_Adversarial_Feedback.md)
+
+    - [翻译: 通过对抗性反馈优化的情境对决强盗算法接近最优解](2024年04月16日/Nearly_Optimal_Algorithms_for_Contextual_Dueling_Bandits_from_Adversarial_Feedback.md)
+
+- [Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification](2024年04月16日/Deep_Learning_and_LLM-based_Methods_Applied_to_Stellar_Lightcurve_Classification.md)
+
+    - [翻译: 深度学习与基于大型语言模型的技术在恒星光变曲线的分类上得到了应用。](2024年04月16日/Deep_Learning_and_LLM-based_Methods_Applied_to_Stellar_Lightcurve_Classification.md)
+
+- [Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study](2024年04月16日/Is_DPO_Superior_to_PPO_for_LLM_Alignment_A_Comprehensive_Study.md)
+
+    - [翻译: 在大型语言模型 (LLM) 对齐方面，DPO 是否超越了 PPO？本研究进行了深入全面的比较分析。](2024年04月16日/Is_DPO_Superior_to_PPO_for_LLM_Alignment_A_Comprehensive_Study.md)
+
+- [An empirical study on code review activity prediction in practice](2024年04月16日/An_empirical_study_on_code_review_activity_prediction_in_practice.md)
+
+    - [翻译: 实际应用中对代码审查活动进行预测的经验性研究](2024年04月16日/An_empirical_study_on_code_review_activity_prediction_in_practice.md)
+
+- [Automating REST API Postman Test Cases Using LLM](2024年04月16日/Automating_REST_API_Postman_Test_Cases_Using_LLM.md)
+
+    - [翻译: 借助大型语言模型 (LLM)，我们可以实现 REST API Postman 测试用例的自动化，从而提高测试效率和准确性。](2024年04月16日/Automating_REST_API_Postman_Test_Cases_Using_LLM.md)
+
+- [ViTextVQA: A Large-Scale Visual Question Answering Dataset for Evaluating Vietnamese Text Comprehension in Images](2024年04月16日/ViTextVQA_A_Large-Scale_Visual_Question_Answering_Dataset_for_Evaluating_Vietnamese_Text_Comprehension_in_Images.md)
+
+    - [翻译: ViTextVQA：一套大型视觉问答数据集，旨在评估图像中的越南文理解能力。](2024年04月16日/ViTextVQA_A_Large-Scale_Visual_Question_Answering_Dataset_for_Evaluating_Vietnamese_Text_Comprehension_in_Images.md)
+
+- [Self-playing Adversarial Language Game Enhances LLM Reasoning](2024年04月16日/Self-playing_Adversarial_Language_Game_Enhances_LLM_Reasoning.md)
+
+    - [翻译: 通过自我对弈的对抗性语言游戏，有效提升了大型语言模型的推理水平。](2024年04月16日/Self-playing_Adversarial_Language_Game_Enhances_LLM_Reasoning.md)
+
+- [HLAT: High-quality Large Language Model Pre-trained on AWS Trainium](2024年04月16日/HLAT_High-quality_Large_Language_Model_Pre-trained_on_AWS_Trainium.md)
+
+    - [翻译: HLAT：依托 AWS Trainium 打造的高品质大型语言模型](2024年04月16日/HLAT_High-quality_Large_Language_Model_Pre-trained_on_AWS_Trainium.md)
+
+- [Private Attribute Inference from Images with Vision-Language Models](2024年04月16日/Private_Attribute_Inference_from_Images_with_Vision-Language_Models.md)
+
+    - [翻译: 通过视觉-语言模型从图像中推断个人隐私属性](2024年04月16日/Private_Attribute_Inference_from_Images_with_Vision-Language_Models.md)
+
+- [Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases](2024年04月16日/Automated_Evaluation_of_Large_Vision-Language_Models_on_Self-driving_Corner_Cases.md)
+
+    - [翻译: 本文探讨了如何对大型视觉-语言模型在自动驾驶领域的边缘案例中进行自动化评估。](2024年04月16日/Automated_Evaluation_of_Large_Vision-Language_Models_on_Self-driving_Corner_Cases.md)
+
+- [MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents](2024年04月16日/MiniCheck_Efficient_Fact-Checking_of_LLMs_on_Grounding_Documents.md)
+
+    - [翻译: MiniCheck：一种高效的事实核查工具，专为在基础文档上验证大型语言模型（LLMs）的准确性而设计。](2024年04月16日/MiniCheck_Efficient_Fact-Checking_of_LLMs_on_Grounding_Documents.md)
 
 2024年04月15日
 
@@ -282,27 +326,75 @@
 
 - [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](2024年04月15日/Uncovering_Latent_Arguments_in_Social_Media_Messaging_by_Employing_LLMs-in-the-Loop_Strategy.md)
 
-    - [翻译: ](2024年04月15日/Uncovering_Latent_Arguments_in_Social_Media_Messaging_by_Employing_LLMs-in-the-Loop_Strategy.md)
+    - [翻译: 利用LLM参与策略，挖掘社交媒体通讯中的隐性争议。](2024年04月15日/Uncovering_Latent_Arguments_in_Social_Media_Messaging_by_Employing_LLMs-in-the-Loop_Strategy.md)
 
 - [MoE-TinyMed: Mixture of Experts for Tiny Medical Large Vision-Language Models](2024年04月15日/MoE-TinyMed_Mixture_of_Experts_for_Tiny_Medical_Large_Vision-Language_Models.md)
 
-    - [翻译: ](2024年04月15日/MoE-TinyMed_Mixture_of_Experts_for_Tiny_Medical_Large_Vision-Language_Models.md)
+    - [翻译: MoE-TinyMed：面向小型医疗领域的大型视觉-语言模型的专家融合方法](2024年04月15日/MoE-TinyMed_Mixture_of_Experts_for_Tiny_Medical_Large_Vision-Language_Models.md)
 
 - [Generative Text Steganography with Large Language Model](2024年04月15日/Generative_Text_Steganography_with_Large_Language_Model.md)
 
-    - [翻译: ](2024年04月15日/Generative_Text_Steganography_with_Large_Language_Model.md)
+    - [翻译: 借助大型语言模型，探索生成性文本隐写技术。](2024年04月15日/Generative_Text_Steganography_with_Large_Language_Model.md)
 
 - [Find The Gap: Knowledge Base Reasoning For Visual Question Answering](2024年04月15日/Find_The_Gap_Knowledge_Base_Reasoning_For_Visual_Question_Answering.md)
 
-    - [翻译: ](2024年04月15日/Find_The_Gap_Knowledge_Base_Reasoning_For_Visual_Question_Answering.md)
+    - [翻译: 揭秘背后：视觉问答中的知识库逻辑推理](2024年04月15日/Find_The_Gap_Knowledge_Base_Reasoning_For_Visual_Question_Answering.md)
 
 - [Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models](2024年04月15日/Demonstration_of_DB-GPT_Next_Generation_Data_Interaction_System_Empowered_by_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月15日/Demonstration_of_DB-GPT_Next_Generation_Data_Interaction_System_Empowered_by_Large_Language_Models.md)
+    - [翻译: DB-GPT 演示：下一代数据交互系统，由先进的大型语言模型赋能。](2024年04月15日/Demonstration_of_DB-GPT_Next_Generation_Data_Interaction_System_Empowered_by_Large_Language_Models.md)
 
 - [TEL'M: Test and Evaluation of Language Models](2024年04月15日/TEL'M_Test_and_Evaluation_of_Language_Models.md)
 
-    - [翻译: ](2024年04月15日/TEL'M_Test_and_Evaluation_of_Language_Models.md)
+    - [翻译: TEL'M：对语言模型进行测试与评价的研究](2024年04月15日/TEL'M_Test_and_Evaluation_of_Language_Models.md)
+
+- [CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting](2024年04月15日/CULTURE-GEN_Revealing_Global_Cultural_Perception_in_Language_Models_through_Natural_Language_Prompting.md)
+
+    - [翻译: CULTURE-GEN：透过自然语言提示，探究语言模型中的全球文化认知](2024年04月15日/CULTURE-GEN_Revealing_Global_Cultural_Perception_in_Language_Models_through_Natural_Language_Prompting.md)
+
+- [How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior](2024年04月15日/How_faithful_are_RAG_models_Quantifying_the_tug-of-war_between_RAG_and_LLMs'_internal_prior.md)
+
+    - [翻译: RAG模型的准确性有多高？探究RAG与大型语言模型内在先验之间的相互制衡。](2024年04月15日/How_faithful_are_RAG_models_Quantifying_the_tug-of-war_between_RAG_and_LLMs'_internal_prior.md)
+
+- [Numerical Attributes Learning for Cardiac Failure Diagnostic from Clinical Narratives - A LESA-CamemBERT-bio Approach](2024年04月15日/Numerical_Attributes_Learning_for_Cardiac_Failure_Diagnostic_from_Clinical_Narratives_-_A_LESA-CamemBERT-bio_Approach.md)
+
+    - [翻译: 利用 LESA-CamemBERT-bio 方法，通过临床叙述学习数值属性以诊断心脏衰竭](2024年04月15日/Numerical_Attributes_Learning_for_Cardiac_Failure_Diagnostic_from_Clinical_Narratives_-_A_LESA-CamemBERT-bio_Approach.md)
+
+- [Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced Bias Detection and Mitigation](2024年04月15日/Deceiving_to_Enlighten_Coaxing_LLMs_to_Self-Reflection_for_Enhanced_Bias_Detection_and_Mitigation.md)
+
+    - [翻译: 启迪而非欺骗：引导大型语言模型（LLM）自我审视，提升偏见识别与减缓能力。](2024年04月15日/Deceiving_to_Enlighten_Coaxing_LLMs_to_Self-Reflection_for_Enhanced_Bias_Detection_and_Mitigation.md)
+
+- [Quality Assessment of Prompts Used in Code Generation](2024年04月15日/Quality_Assessment_of_Prompts_Used_in_Code_Generation.md)
+
+    - [翻译: 评估代码生成中提示的质量](2024年04月15日/Quality_Assessment_of_Prompts_Used_in_Code_Generation.md)
+
+- [TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition](2024年04月15日/TabSQLify_Enhancing_Reasoning_Capabilities_of_LLMs_Through_Table_Decomposition.md)
+
+    - [翻译: TabSQLify：通过表格解构，提升大型语言模型的推理技能](2024年04月15日/TabSQLify_Enhancing_Reasoning_Capabilities_of_LLMs_Through_Table_Decomposition.md)
+
+- [Cross-Modal Self-Training: Aligning Images and Pointclouds to Learn Classification without Labels](2024年04月15日/Cross-Modal_Self-Training_Aligning_Images_and_Pointclouds_to_Learn_Classification_without_Labels.md)
+
+    - [翻译: 通过跨模态自训练，我们能够将图像与点云数据对齐，从而在无需标签的情况下学习分类，这一方法为无监督学习开辟了新的可能性。](2024年04月15日/Cross-Modal_Self-Training_Aligning_Images_and_Pointclouds_to_Learn_Classification_without_Labels.md)
+
+- [ANCHOR: LLM-driven News Subject Conditioning for Text-to-Image Synthesis](2024年04月15日/ANCHOR_LLM-driven_News_Subject_Conditioning_for_Text-to-Image_Synthesis.md)
+
+    - [翻译: 锚定：借助大型语言模型实现文本至图像合成中的新闻主题条件设置](2024年04月15日/ANCHOR_LLM-driven_News_Subject_Conditioning_for_Text-to-Image_Synthesis.md)
+
+- [Language Model Cascades: Token-level uncertainty and beyond](2024年04月15日/Language_Model_Cascades_Token-level_uncertainty_and_beyond.md)
+
+    - [翻译: 语言模型级联：探究Token层级的不确定性及其更深层次的影响](2024年04月15日/Language_Model_Cascades_Token-level_uncertainty_and_beyond.md)
+
+- [PRODIS - a speech database and a phoneme-based language model for the study of predictability effects in Polish](2024年04月15日/PRODIS_-_a_speech_database_and_a_phoneme-based_language_model_for_the_study_of_predictability_effects_in_Polish.md)
+
+    - [翻译: PRODIS 是一个语音数据库，它配备了基于音素的语言模型，专门用于探究波兰语中的可预测性效应。](2024年04月15日/PRODIS_-_a_speech_database_and_a_phoneme-based_language_model_for_the_study_of_predictability_effects_in_Polish.md)
+
+- [LLM-based Test-driven Interactive Code Generation: User Study and Empirical Evaluation](2024年04月15日/LLM-based_Test-driven_Interactive_Code_Generation_User_Study_and_Empirical_Evaluation.md)
+
+    - [翻译: 基于大型语言模型的测试驱动交互式代码生成：用户研究与实证评估探究](2024年04月15日/LLM-based_Test-driven_Interactive_Code_Generation_User_Study_and_Empirical_Evaluation.md)
+
+- [LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model](2024年04月15日/LegalPro-BERT_Classification_of_Legal_Provisions_by_fine-tuning_BERT_Large_Language_Model.md)
+
+    - [翻译: LegalPro-BERT：借助 BERT 大型语言模型的微调技术，实现对法律条文的精准分类。](2024年04月15日/LegalPro-BERT_Classification_of_Legal_Provisions_by_fine-tuning_BERT_Large_Language_Model.md)
 
 2024年04月14日
 
@@ -365,6 +457,10 @@
 - [Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software Verification and Falsification Approaches](2024年04月14日/Tasks_People_Prompt_A_Taxonomy_of_LLM_Downstream_Tasks_in_Software_Verification_and_Falsification_Approaches.md)
 
     - [翻译: 任务人员提示：对大型语言模型在软件验证与错误检测方法中的下游任务进行分类](2024年04月14日/Tasks_People_Prompt_A_Taxonomy_of_LLM_Downstream_Tasks_in_Software_Verification_and_Falsification_Approaches.md)
+
+- [Can AI Understand Our Universe? Test of Fine-Tuning GPT by Astrophysical Data](2024年04月14日/Can_AI_Understand_Our_Universe_Test_of_Fine-Tuning_GPT_by_Astrophysical_Data.md)
+
+    - [翻译: 人工智能能否洞悉宇宙之谜？本研究通过天体物理数据对GPT模型进行精细调整，以测试其理解宇宙的能力。](2024年04月14日/Can_AI_Understand_Our_Universe_Test_of_Fine-Tuning_GPT_by_Astrophysical_Data.md)
 
 2024年04月13日
 

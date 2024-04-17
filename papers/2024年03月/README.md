@@ -910,6 +910,10 @@
 
     - [翻译: 为了减轻变换器中的灾难性遗忘问题，本文提出了一种智能学习率分配策略。](2024年03月27日/Intelligent_Learning_Rate_Distribution_to_reduce_Catastrophic_Forgetting_in_Transformers.md)
 
+- [What are human values, and how do we align AI to them?](2024年03月27日/What_are_human_values,_and_how_do_we_align_AI_to_them.md)
+
+    - [翻译: 人类价值观指的是人类普遍认同的道德和伦理准则。要将人工智能与这些价值观相协调，我们需要确保AI系统在设计和执行过程中能够理解和尊重这些准则，从而促进其在符合人类利益和道德标准的前提下发展和应用。](2024年03月27日/What_are_human_values,_and_how_do_we_align_AI_to_them.md)
+
 2024年03月26日
 
 - [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](2024年03月26日/MAGIS_LLM-Based_Multi-Agent_Framework_for_GitHub_Issue_Resolution.md)
