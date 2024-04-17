@@ -1,0 +1,18 @@
+# in2IN：借助个体信息打造真实人际互动体验
+`多模态大模型`
+> 通过文本描述激发人与人互动的运动生成，在机器人、游戏、动画乃至元宇宙等众多领域大有裨益。然而，这种建模的实用性也带来了模拟复杂人际动态的难题。捕捉每个个体间互动的多样性同样充满挑战。现有方法因数据集和条件策略的局限，导致生成的互动在个体内部动态上缺乏多样性。为此，我们推出了in2IN，这是一种创新的扩散模型，不仅依据整体互动的文本描述，还包括每个参与者行动的个体描述，共同指导运动生成。我们利用大型语言模型扩充InterHuman数据集，增添个体化描述，使得in2IN在该数据集上的表现达到顶尖水平。进一步地，为了提升现有互动数据集的个体多样性，我们提出了DualMDM模型组合技术，它融合了in2IN生成的多人互动和基于HumanML3D预训练的单人运动先验生成的运动。由此，DualMDM不仅提高了个体多样性，更在保持人际互动连贯性的基础上，增强了对个体内部动态的操控能力。
+
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/architecture.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/x1.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/x2.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/275_in2IN.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/140_in2IN.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/001_DualMDM.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/1304_in2IN.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/002_DualMDM.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/3311_in2IN.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.09988/003_DualMDM.png)
+
+[https://wx.zsxq.com/dweb2/index/topic_detail/4844584281884528](https://wx.zsxq.com/dweb2/index/topic_detail/4844584281884528)
+
+[https://arxiv.org/abs/2404.09988](https://arxiv.org/abs/2404.09988)
