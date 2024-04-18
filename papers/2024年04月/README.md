@@ -334,63 +334,63 @@
 
 - [Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models](2024年04月16日/Procedural_Dilemma_Generation_for_Evaluating_Moral_Reasoning_in_Humans_and_Language_Models.md)
 
-    - [翻译: ](2024年04月16日/Procedural_Dilemma_Generation_for_Evaluating_Moral_Reasoning_in_Humans_and_Language_Models.md)
+    - [翻译: 生成程序性道德困境，以评估人类和语言模型的道德推理能力。](2024年04月16日/Procedural_Dilemma_Generation_for_Evaluating_Moral_Reasoning_in_Humans_and_Language_Models.md)
 
 - [Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations](2024年04月16日/Uncertainty-Based_Abstention_in_LLMs_Improves_Safety_and_Reduces_Hallucinations.md)
 
-    - [翻译: ](2024年04月16日/Uncertainty-Based_Abstention_in_LLMs_Improves_Safety_and_Reduces_Hallucinations.md)
+    - [翻译: 在大型语言模型（LLM）中，采纳基于不确定性的策略可以显著提升模型的安全性，同时有效减少错误信息的产生，即所谓的“幻觉”现象。](2024年04月16日/Uncertainty-Based_Abstention_in_LLMs_Improves_Safety_and_Reduces_Hallucinations.md)
 
 - [Shears: Unstructured Sparsity with Neural Low-rank Adapter Search](2024年04月16日/Shears_Unstructured_Sparsity_with_Neural_Low-rank_Adapter_Search.md)
 
-    - [翻译: ](2024年04月16日/Shears_Unstructured_Sparsity_with_Neural_Low-rank_Adapter_Search.md)
+    - [翻译: Shears：利用神经网络低秩适配器搜索技术，实现模型的非结构化稀疏化。](2024年04月16日/Shears_Unstructured_Sparsity_with_Neural_Low-rank_Adapter_Search.md)
 
 - [LLMem: Estimating GPU Memory Usage for Fine-Tuning Pre-Trained LLMs](2024年04月16日/LLMem_Estimating_GPU_Memory_Usage_for_Fine-Tuning_Pre-Trained_LLMs.md)
 
-    - [翻译: ](2024年04月16日/LLMem_Estimating_GPU_Memory_Usage_for_Fine-Tuning_Pre-Trained_LLMs.md)
+    - [翻译: LLMem：为预训练的大型语言模型（LLM）的微调过程估算 GPU 内存需求。](2024年04月16日/LLMem_Estimating_GPU_Memory_Usage_for_Fine-Tuning_Pre-Trained_LLMs.md)
 
 - [Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training](2024年04月16日/Teaching_a_Multilingual_Large_Language_Model_to_Understand_Multilingual_Speech_via_Multi-Instructional_Training.md)
 
-    - [翻译: ](2024年04月16日/Teaching_a_Multilingual_Large_Language_Model_to_Understand_Multilingual_Speech_via_Multi-Instructional_Training.md)
+    - [翻译: 本文介绍了一种多指令训练方法，旨在提升多语言大型语言模型对多语言语音的理解能力。通过这种方法，模型能够更准确地识别和处理不同语言的语音输入，从而在多语言语音识别和理解方面取得更好的性能。](2024年04月16日/Teaching_a_Multilingual_Large_Language_Model_to_Understand_Multilingual_Speech_via_Multi-Instructional_Training.md)
 
 - [From a Lossless (~1.5:1) Compression Algorithm for Llama2 7B Weights to Variable Precision, Variable Range, Compressed Numeric Data Types for CNNs and LLMs](2024年04月16日/From_a_Lossless_(~1.51)_Compression_Algorithm_for_Llama2_7B_Weights_to_Variable_Precision,_Variable_Range,_Compressed_Numeric_Data_Types_for_CNNs_and_LLMs.md)
 
-    - [翻译: ](2024年04月16日/From_a_Lossless_(~1.51)_Compression_Algorithm_for_Llama2_7B_Weights_to_Variable_Precision,_Variable_Range,_Compressed_Numeric_Data_Types_for_CNNs_and_LLMs.md)
+    - [翻译: 我们提出了一种无损压缩算法，专为 Llama2 7B 模型的权重设计，压缩比接近1.5:1。此外，我们还开发了一种适用于卷积神经网络和大型语言模型的新型压缩数值数据类型，这些数据类型具备可变精度和可变范围的特性。](2024年04月16日/From_a_Lossless_(~1.51)_Compression_Algorithm_for_Llama2_7B_Weights_to_Variable_Precision,_Variable_Range,_Compressed_Numeric_Data_Types_for_CNNs_and_LLMs.md)
 
 - [Exploring Augmentation and Cognitive Strategies for AI based Synthetic Personae](2024年04月16日/Exploring_Augmentation_and_Cognitive_Strategies_for_AI_based_Synthetic_Personae.md)
 
-    - [翻译: ](2024年04月16日/Exploring_Augmentation_and_Cognitive_Strategies_for_AI_based_Synthetic_Personae.md)
+    - [翻译: 本文旨在探讨如何通过增强和认知策略，提升基于人工智能合成人物角色的性能。](2024年04月16日/Exploring_Augmentation_and_Cognitive_Strategies_for_AI_based_Synthetic_Personae.md)
 
 - [Course Recommender Systems Need to Consider the Job Market](2024年04月16日/Course_Recommender_Systems_Need_to_Consider_the_Job_Market.md)
 
-    - [翻译: ](2024年04月16日/Course_Recommender_Systems_Need_to_Consider_the_Job_Market.md)
+    - [翻译: 课程推荐系统在设计时必须顾及就业市场的需求。](2024年04月16日/Course_Recommender_Systems_Need_to_Consider_the_Job_Market.md)
 
 - [A Dataset for Large Language Model-Driven AI Accelerator Generation](2024年04月16日/A_Dataset_for_Large_Language_Model-Driven_AI_Accelerator_Generation.md)
 
-    - [翻译: ](2024年04月16日/A_Dataset_for_Large_Language_Model-Driven_AI_Accelerator_Generation.md)
+    - [翻译: 为大型语言模型所驱动的人工智能加速器生成而设计的数据集。](2024年04月16日/A_Dataset_for_Large_Language_Model-Driven_AI_Accelerator_Generation.md)
 
 - [Vocabulary-free Image Classification and Semantic Segmentation](2024年04月16日/Vocabulary-free_Image_Classification_and_Semantic_Segmentation.md)
 
-    - [翻译: ](2024年04月16日/Vocabulary-free_Image_Classification_and_Semantic_Segmentation.md)
+    - [翻译: 无需词汇的图像分类与语义分割技术](2024年04月16日/Vocabulary-free_Image_Classification_and_Semantic_Segmentation.md)
 
 - [Forcing Diffuse Distributions out of Language Models](2024年04月16日/Forcing_Diffuse_Distributions_out_of_Language_Models.md)
 
-    - [翻译: ](2024年04月16日/Forcing_Diffuse_Distributions_out_of_Language_Models.md)
+    - [翻译: 从语言模型中驱逐扩散分布](2024年04月16日/Forcing_Diffuse_Distributions_out_of_Language_Models.md)
 
 - [D3CODE: Disentangling Disagreements in Data across Cultures on Offensiveness Detection and Evaluation](2024年04月16日/D3CODE_Disentangling_Disagreements_in_Data_across_Cultures_on_Offensiveness_Detection_and_Evaluation.md)
 
-    - [翻译: ](2024年04月16日/D3CODE_Disentangling_Disagreements_in_Data_across_Cultures_on_Offensiveness_Detection_and_Evaluation.md)
+    - [翻译: D3CODE：揭示跨文化数据中关于冒犯性识别与评估的分歧。](2024年04月16日/D3CODE_Disentangling_Disagreements_in_Data_across_Cultures_on_Offensiveness_Detection_and_Evaluation.md)
 
 - [Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Representation Learning](2024年04月16日/Dynamic_Self-adaptive_Multiscale_Distillation_from_Pre-trained_Multimodal_Large_Model_for_Efficient_Cross-modal_Representation_Learning.md)
 
-    - [翻译: ](2024年04月16日/Dynamic_Self-adaptive_Multiscale_Distillation_from_Pre-trained_Multimodal_Large_Model_for_Efficient_Cross-modal_Representation_Learning.md)
+    - [翻译: 本研究提出了一种动态自适应的多尺度蒸馏方法，该方法源自预训练的多模态大型模型，旨在实现高效的跨模态表示学习。通过这种方法，我们能够从大规模多模态数据中提取深层次的特征，进而提升模型在不同模态任务上的表现。](2024年04月16日/Dynamic_Self-adaptive_Multiscale_Distillation_from_Pre-trained_Multimodal_Large_Model_for_Efficient_Cross-modal_Representation_Learning.md)
 
 - [Fewer Truncations Improve Language Modeling](2024年04月16日/Fewer_Truncations_Improve_Language_Modeling.md)
 
-    - [翻译: ](2024年04月16日/Fewer_Truncations_Improve_Language_Modeling.md)
+    - [翻译: 减少截断，优化语言模型性能](2024年04月16日/Fewer_Truncations_Improve_Language_Modeling.md)
 
 - [Multi-Task Multi-Modal Self-Supervised Learning for Facial Expression Recognition](2024年04月16日/Multi-Task_Multi-Modal_Self-Supervised_Learning_for_Facial_Expression_Recognition.md)
 
-    - [翻译: ](2024年04月16日/Multi-Task_Multi-Modal_Self-Supervised_Learning_for_Facial_Expression_Recognition.md)
+    - [翻译: 多模态自监督学习在面部表情识别任务中实现了多任务处理能力。](2024年04月16日/Multi-Task_Multi-Modal_Self-Supervised_Learning_for_Facial_Expression_Recognition.md)
 
 2024年04月15日
 

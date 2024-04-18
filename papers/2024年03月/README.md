@@ -1608,7 +1608,7 @@
 
 - [Fine Tuning LLM for Enterprise: Practical Guidelines and Recommendations](2024年03月23日/Fine_Tuning_LLM_for_Enterprise_Practical_Guidelines_and_Recommendations.md)
 
-    - [翻译: ](2024年03月23日/Fine_Tuning_LLM_for_Enterprise_Practical_Guidelines_and_Recommendations.md)
+    - [翻译: 企业级大型语言模型（LLM）的微调：实用指南与建议](2024年03月23日/Fine_Tuning_LLM_for_Enterprise_Practical_Guidelines_and_Recommendations.md)
 
 2024年03月22日
 
