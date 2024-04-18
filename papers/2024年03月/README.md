@@ -1606,6 +1606,10 @@
 
     - [翻译: EduAgent：学习领域中的创造性学生代表](2024年03月23日/EduAgent_Generative_Student_Agents_in_Learning.md)
 
+- [Fine Tuning LLM for Enterprise: Practical Guidelines and Recommendations](2024年03月23日/Fine_Tuning_LLM_for_Enterprise_Practical_Guidelines_and_Recommendations.md)
+
+    - [翻译: ](2024年03月23日/Fine_Tuning_LLM_for_Enterprise_Practical_Guidelines_and_Recommendations.md)
+
 2024年03月22日
 
 - [Sphere Neural-Networks for Rational Reasoning](2024年03月22日/Sphere_Neural-Networks_for_Rational_Reasoning.md)
