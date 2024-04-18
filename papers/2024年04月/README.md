@@ -1,5 +1,15 @@
 # 2024年04月
 
+2024年04月17日
+
+- [Single-temporal Supervised Remote Change Detection for Domain Generalization](2024年04月17日/Single-temporal_Supervised_Remote_Change_Detection_for_Domain_Generalization.md)
+
+    - [翻译: 在领域泛化中，单时相的遥感变化检测技术得到了监督学习的应用。](2024年04月17日/Single-temporal_Supervised_Remote_Change_Detection_for_Domain_Generalization.md)
+
+- [Exploring the Transferability of Visual Prompting for Multimodal Large Language Models](2024年04月17日/Exploring_the_Transferability_of_Visual_Prompting_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 本文旨在探究多模态大型语言模型中视觉提示的迁移能力。](2024年04月17日/Exploring_the_Transferability_of_Visual_Prompting_for_Multimodal_Large_Language_Models.md)
+
 2024年04月16日
 
 - [Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
