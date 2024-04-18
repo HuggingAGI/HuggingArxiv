@@ -110,6 +110,66 @@
 
     - [翻译: 大型语言模型在开放式战争游戏中的运用](2024年04月17日/Open-Ended_Wargames_with_Large_Language_Models.md)
 
+- [VG4D: Vision-Language Model Goes 4D Video Recognition](2024年04月17日/VG4D_Vision-Language_Model_Goes_4D_Video_Recognition.md)
+
+    - [翻译: VG4D：视觉与语言模型跨入四维视频识别的新纪元](2024年04月17日/VG4D_Vision-Language_Model_Goes_4D_Video_Recognition.md)
+
+- [A Deep Dive into Large Language Models for Automated Bug Localization and Repair](2024年04月17日/A_Deep_Dive_into_Large_Language_Models_for_Automated_Bug_Localization_and_Repair.md)
+
+    - [翻译: 本文深入剖析了大型语言模型在自动化缺陷定位与修复领域的应用。](2024年04月17日/A_Deep_Dive_into_Large_Language_Models_for_Automated_Bug_Localization_and_Repair.md)
+
+- [LLMTune: Accelerate Database Knob Tuning with Large Language Models](2024年04月17日/LLMTune_Accelerate_Database_Knob_Tuning_with_Large_Language_Models.md)
+
+    - [翻译: LLMTune：借助大型语言模型，让数据库参数调优更高效。](2024年04月17日/LLMTune_Accelerate_Database_Knob_Tuning_with_Large_Language_Models.md)
+
+- [On the Scalability of GNNs for Molecular Graphs](2024年04月17日/On_the_Scalability_of_GNNs_for_Molecular_Graphs.md)
+
+    - [翻译: 图神经网络（GNN）在处理分子图时的扩展性研究](2024年04月17日/On_the_Scalability_of_GNNs_for_Molecular_Graphs.md)
+
+- [MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation](2024年04月17日/MoA_Mixture-of-Attention_for_Subject-Context_Disentanglement_in_Personalized_Image_Generation.md)
+
+    - [翻译: MoA：一种注意力混合机制，专为个性化图像生成中的主体与上下文解耦而设计。](2024年04月17日/MoA_Mixture-of-Attention_for_Subject-Context_Disentanglement_in_Personalized_Image_Generation.md)
+
+- [Quantifying Multilingual Performance of Large Language Models Across Languages](2024年04月17日/Quantifying_Multilingual_Performance_of_Large_Language_Models_Across_Languages.md)
+
+    - [翻译: 本文旨在量化并分析大型语言模型在跨语言应用中的多语言表现。](2024年04月17日/Quantifying_Multilingual_Performance_of_Large_Language_Models_Across_Languages.md)
+
+- [A Lean Simulation Framework for Stress Testing IoT Cloud Systems](2024年04月17日/A_Lean_Simulation_Framework_for_Stress_Testing_IoT_Cloud_Systems.md)
+
+    - [翻译: 本文提出了一个精益的模拟框架，专为物联网云系统的压力测试而设计。](2024年04月17日/A_Lean_Simulation_Framework_for_Stress_Testing_IoT_Cloud_Systems.md)
+
+- [Select and Reorder: A Novel Approach for Neural Sign Language Production](2024年04月17日/Select_and_Reorder_A_Novel_Approach_for_Neural_Sign_Language_Production.md)
+
+    - [翻译: 新颖方法：选择与重组，开启神经手语生成的新篇章](2024年04月17日/Select_and_Reorder_A_Novel_Approach_for_Neural_Sign_Language_Production.md)
+
+- [Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization](2024年04月17日/Pack_of_LLMs_Model_Fusion_at_Test-Time_via_Perplexity_Optimization.md)
+
+    - [翻译: 大型语言模型集群：在测试阶段通过优化困惑度实现模型融合。](2024年04月17日/Pack_of_LLMs_Model_Fusion_at_Test-Time_via_Perplexity_Optimization.md)
+
+- [Embedding Privacy in Computational Social Science and Artificial Intelligence Research](2024年04月17日/Embedding_Privacy_in_Computational_Social_Science_and_Artificial_Intelligence_Research.md)
+
+    - [翻译: 将隐私保护融入计算社会科学与人工智能研究的实践](2024年04月17日/Embedding_Privacy_in_Computational_Social_Science_and_Artificial_Intelligence_Research.md)
+
+- [Towards Coarse-to-Fine Evaluation of Inference Efficiency for Large Language Models](2024年04月17日/Towards_Coarse-to-Fine_Evaluation_of_Inference_Efficiency_for_Large_Language_Models.md)
+
+    - [翻译: 本研究提出了一种从宏观到微观的评估框架，用以细致考察大型语言模型在推理效率方面的表现。](2024年04月17日/Towards_Coarse-to-Fine_Evaluation_of_Inference_Efficiency_for_Large_Language_Models.md)
+
+- [Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models](2024年04月17日/Paraphrase_and_Solve_Exploring_and_Exploiting_the_Impact_of_Surface_Form_on_Mathematical_Reasoning_in_Large_Language_Models.md)
+
+    - [翻译: 重构与求解：深入探究并发挥语言表层形式对大型语言模型数学推理能力的影响](2024年04月17日/Paraphrase_and_Solve_Exploring_and_Exploiting_the_Impact_of_Surface_Form_on_Mathematical_Reasoning_in_Large_Language_Models.md)
+
+- [A Federated Learning Approach to Privacy Preserving Offensive Language Identification](2024年04月17日/A_Federated_Learning_Approach_to_Privacy_Preserving_Offensive_Language_Identification.md)
+
+    - [翻译: 本文提出了一种保护隐私的联邦学习方法，用于识别攻击性语言，旨在在不侵犯用户隐私的前提下，提高对网络攻击性言论的识别能力。](2024年04月17日/A_Federated_Learning_Approach_to_Privacy_Preserving_Offensive_Language_Identification.md)
+
+- [Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models](2024年04月17日/Unifying_Bias_and_Unfairness_in_Information_Retrieval_A_Survey_of_Challenges_and_Opportunities_with_Large_Language_Models.md)
+
+    - [翻译: 探索信息检索中的偏见与不公：大型语言模型面临的挑战与机遇综述](2024年04月17日/Unifying_Bias_and_Unfairness_in_Information_Retrieval_A_Survey_of_Challenges_and_Opportunities_with_Large_Language_Models.md)
+
+- [AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts](2024年04月17日/AI-Enhanced_Cognitive_Behavioral_Therapy_Deep_Learning_and_Large_Language_Models_for_Extracting_Cognitive_Pathways_from_Social_Media_Texts.md)
+
+    - [翻译: 利用AI提升认知行为疗法：结合深度学习和大型语言模型，从社交媒体文本中挖掘认知路径。](2024年04月17日/AI-Enhanced_Cognitive_Behavioral_Therapy_Deep_Learning_and_Large_Language_Models_for_Extracting_Cognitive_Pathways_from_Social_Media_Texts.md)
+
 2024年04月16日
 
 - [Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
@@ -262,15 +322,15 @@
 
 - [OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding](2024年04月16日/OVAL-Prompt_Open-Vocabulary_Affordance_Localization_for_Robot_Manipulation_through_LLM_Affordance-Grounding.md)
 
-    - [翻译: ](2024年04月16日/OVAL-Prompt_Open-Vocabulary_Affordance_Localization_for_Robot_Manipulation_through_LLM_Affordance-Grounding.md)
+    - [翻译: OVAL-Prompt：一种开放式词汇的可操作性定位方法，利用大型语言模型（LLM）为机器人操控提供支持。](2024年04月16日/OVAL-Prompt_Open-Vocabulary_Affordance_Localization_for_Robot_Manipulation_through_LLM_Affordance-Grounding.md)
 
 - [Automating Personalized Parsons Problems with Customized Contexts and Concepts](2024年04月16日/Automating_Personalized_Parsons_Problems_with_Customized_Contexts_and_Concepts.md)
 
-    - [翻译: ](2024年04月16日/Automating_Personalized_Parsons_Problems_with_Customized_Contexts_and_Concepts.md)
+    - [翻译: 通过定制上下文和概念，实现个性化帕森斯问题的自动化解决方案。](2024年04月16日/Automating_Personalized_Parsons_Problems_with_Customized_Contexts_and_Concepts.md)
 
 - [A Survey on Retrieval-Augmented Text Generation for Large Language Models](2024年04月16日/A_Survey_on_Retrieval-Augmented_Text_Generation_for_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月16日/A_Survey_on_Retrieval-Augmented_Text_Generation_for_Large_Language_Models.md)
+    - [翻译: 针对大型语言模型，本文进行了一项关于检索增强文本生成的研究调查。](2024年04月16日/A_Survey_on_Retrieval-Augmented_Text_Generation_for_Large_Language_Models.md)
 
 - [Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models](2024年04月16日/Procedural_Dilemma_Generation_for_Evaluating_Moral_Reasoning_in_Humans_and_Language_Models.md)
 
