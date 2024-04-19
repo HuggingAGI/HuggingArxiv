@@ -1,5 +1,195 @@
 # 2024年04月
 
+2024年04月18日
+
+- [BLINK: Multimodal Large Language Models Can See but Not Perceive](2024年04月18日/BLINK_Multimodal_Large_Language_Models_Can_See_but_Not_Perceive.md)
+
+    - [翻译: BLINK：多模态的大型语言模型具备视觉识别能力，但却无法实现深层次的感知理解。](2024年04月18日/BLINK_Multimodal_Large_Language_Models_Can_See_but_Not_Perceive.md)
+
+- [MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale](2024年04月18日/MedThink_Explaining_Medical_Visual_Question_Answering_via_Multimodal_Decision-Making_Rationale.md)
+
+    - [翻译: MedThink：揭示医学视觉问答背后的多模态决策推理过程](2024年04月18日/MedThink_Explaining_Medical_Visual_Question_Answering_via_Multimodal_Decision-Making_Rationale.md)
+
+- [When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes](2024年04月18日/When_LLMs_are_Unfit_Use_FastFit_Fast_and_Effective_Text_Classification_with_Many_Classes.md)
+
+    - [翻译: 在大型语言模型（LLMs）不适宜的情况下，不妨试试 FastFit，这是一种高效且迅速的文本分类技术，尤其适用于多类别场景。](2024年04月18日/When_LLMs_are_Unfit_Use_FastFit_Fast_and_Effective_Text_Classification_with_Many_Classes.md)
+
+- [Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation](2024年04月18日/Towards_a_Foundation_Model_for_Partial_Differential_Equation_Multi-Operator_Learning_and_Extrapolation.md)
+
+    - [翻译: 迈向构建偏微分方程基础模型之路：探究多操作符学习与外推技术](2024年04月18日/Towards_a_Foundation_Model_for_Partial_Differential_Equation_Multi-Operator_Learning_and_Extrapolation.md)
+
+- [V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning](2024年04月18日/V2Xum-LLM_Cross-Modal_Video_Summarization_with_Temporal_Prompt_Instruction_Tuning.md)
+
+    - [翻译: V2Xum-LLM：利用时间提示指令优化的跨模态视频摘要技术](2024年04月18日/V2Xum-LLM_Cross-Modal_Video_Summarization_with_Temporal_Prompt_Instruction_Tuning.md)
+
+- [Point-In-Context: Understanding Point Cloud via In-Context Learning](2024年04月18日/Point-In-Context_Understanding_Point_Cloud_via_In-Context_Learning.md)
+
+    - [翻译: 点云上下文理解：通过情境学习深入洞察点云数据](2024年04月18日/Point-In-Context_Understanding_Point_Cloud_via_In-Context_Learning.md)
+
+- [Large Language Models in Targeted Sentiment Analysis](2024年04月18日/Large_Language_Models_in_Targeted_Sentiment_Analysis.md)
+
+    - [翻译: 在针对性情感分析领域，大型语言模型发挥着重要作用。](2024年04月18日/Large_Language_Models_in_Targeted_Sentiment_Analysis.md)
+
+- [Normative Requirements Operationalization with Large Language Models](2024年04月18日/Normative_Requirements_Operationalization_with_Large_Language_Models.md)
+
+    - [翻译: 通过大型语言模型，将规范性要求转化为可操作的标准。](2024年04月18日/Normative_Requirements_Operationalization_with_Large_Language_Models.md)
+
+- [Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems](2024年04月18日/Large_Language_Models_for_Synthetic_Participatory_Planning_of_Shared_Automated_Electric_Mobility_Systems.md)
+
+    - [翻译: 大型语言模型在共享自动电动移动系统综合参与式规划中的应用。](2024年04月18日/Large_Language_Models_for_Synthetic_Participatory_Planning_of_Shared_Automated_Electric_Mobility_Systems.md)
+
+- [Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair](2024年04月18日/Simultaneous_Interpretation_Corpus_Construction_by_Large_Language_Models_in_Distant_Language_Pair.md)
+
+    - [翻译: 利用大型语言模型打造远距离语言对的同声传译语料库。](2024年04月18日/Simultaneous_Interpretation_Corpus_Construction_by_Large_Language_Models_in_Distant_Language_Pair.md)
+
+- [Augmenting emotion features in irony detection with Large language modeling](2024年04月18日/Augmenting_emotion_features_in_irony_detection_with_Large_language_modeling.md)
+
+    - [翻译: 利用大型语言模型增强情感特征，提升讽刺检测的准确性](2024年04月18日/Augmenting_emotion_features_in_irony_detection_with_Large_language_modeling.md)
+
+- [Enhancing Embedding Performance through Large Language Model-based Text Enrichment and Rewriting](2024年04月18日/Enhancing_Embedding_Performance_through_Large_Language_Model-based_Text_Enrichment_and_Rewriting.md)
+
+    - [翻译: 利用大型语言模型对文本进行丰富和改写，可以有效提升嵌入技术的表现。](2024年04月18日/Enhancing_Embedding_Performance_through_Large_Language_Model-based_Text_Enrichment_and_Rewriting.md)
+
+- [Advancing the Robustness of Large Language Models through Self-Denoised Smoothing](2024年04月18日/Advancing_the_Robustness_of_Large_Language_Models_through_Self-Denoised_Smoothing.md)
+
+    - [翻译: 本文探讨了一种提升大型语言模型鲁棒性的方法——自我去噪平滑技术。通过这种技术，我们能够有效地增强模型在面对噪声干扰时的稳定性和可靠性。](2024年04月18日/Advancing_the_Robustness_of_Large_Language_Models_through_Self-Denoised_Smoothing.md)
+
+- [FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom](2024年04月18日/FedEval-LLM_Federated_Evaluation_of_Large_Language_Models_on_Downstream_Tasks_with_Collective_Wisdom.md)
+
+    - [翻译: FedEval-LLM：借助集体智慧，对大型语言模型在下游任务中的性能进行联合评估。](2024年04月18日/FedEval-LLM_Federated_Evaluation_of_Large_Language_Models_on_Downstream_Tasks_with_Collective_Wisdom.md)
+
+- [Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences](2024年04月18日/Who_Validates_the_Validators_Aligning_LLM-Assisted_Evaluation_of_LLM_Outputs_with_Human_Preferences.md)
+
+    - [翻译: 谁来校验校验者？将大型语言模型（LLM）辅助的输出评估与人类偏好相协调](2024年04月18日/Who_Validates_the_Validators_Aligning_LLM-Assisted_Evaluation_of_LLM_Outputs_with_Human_Preferences.md)
+
+- [Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM](2024年04月18日/Concept_Induction_Analyzing_Unstructured_Text_with_High-Level_Concepts_Using_LLooM.md)
+
+    - [翻译: 概念归纳：运用高级概念对非结构化文本进行分析的 LLooM技术](2024年04月18日/Concept_Induction_Analyzing_Unstructured_Text_with_High-Level_Concepts_Using_LLooM.md)
+
+- [DeepLocalization: Using change point detection for Temporal Action Localization](2024年04月18日/DeepLocalization_Using_change_point_detection_for_Temporal_Action_Localization.md)
+
+    - [翻译: DeepLocalization：运用变点检测技术实现动作的时序定位](2024年04月18日/DeepLocalization_Using_change_point_detection_for_Temporal_Action_Localization.md)
+
+- [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](2024年04月18日/Toward_Self-Improvement_of_LLMs_via_Imagination,_Searching,_and_Criticizing.md)
+
+    - [翻译: 探索大型语言模型自我完善的路径：借助想象、搜索与批判。](2024年04月18日/Toward_Self-Improvement_of_LLMs_via_Imagination,_Searching,_and_Criticizing.md)
+
+- [De-DSI: Decentralised Differentiable Search Index](2024年04月18日/De-DSI_Decentralised_Differentiable_Search_Index.md)
+
+    - [翻译: De-DSI：分布式可微搜索索引](2024年04月18日/De-DSI_Decentralised_Differentiable_Search_Index.md)
+
+- [Aligning Actions and Walking to LLM-Generated Textual Descriptions](2024年04月18日/Aligning_Actions_and_Walking_to_LLM-Generated_Textual_Descriptions.md)
+
+    - [翻译: 将行动和行走与大型语言模型（LLM）生成的文本描述进行匹配。](2024年04月18日/Aligning_Actions_and_Walking_to_LLM-Generated_Textual_Descriptions.md)
+
+- [Stance Detection on Social Media with Fine-Tuned Large Language Models](2024年04月18日/Stance_Detection_on_Social_Media_with_Fine-Tuned_Large_Language_Models.md)
+
+    - [翻译: 通过精心调校的大型语言模型，我们在社交媒体上开展立场检测。](2024年04月18日/Stance_Detection_on_Social_Media_with_Fine-Tuned_Large_Language_Models.md)
+
+- [AccidentBlip2: Accident Detection With Multi-View MotionBlip2](2024年04月18日/AccidentBlip2_Accident_Detection_With_Multi-View_MotionBlip2.md)
+
+    - [翻译: AccidentBlip2：运用多视角 MotionBlip2 技术进行事故识别。](2024年04月18日/AccidentBlip2_Accident_Detection_With_Multi-View_MotionBlip2.md)
+
+- [From Form(s) to Meaning: Probing the Semantic Depths of Language Models Using Multisense Consistency](2024年04月18日/From_Form(s)_to_Meaning_Probing_the_Semantic_Depths_of_Language_Models_Using_Multisense_Consistency.md)
+
+    - [翻译: 由表及里：透过多义一致性，深入挖掘语言模型的语义内涵。](2024年04月18日/From_Form(s)_to_Meaning_Probing_the_Semantic_Depths_of_Language_Models_Using_Multisense_Consistency.md)
+
+- [Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?](2024年04月18日/Character_is_Destiny_Can_Large_Language_Models_Simulate_Persona-Driven_Decisions_in_Role-Playing.md)
+
+    - [翻译: 性格决定命运：大型语言模型能否在角色扮演游戏中模拟出由角色个性所驱动的决策过程？](2024年04月18日/Character_is_Destiny_Can_Large_Language_Models_Simulate_Persona-Driven_Decisions_in_Role-Playing.md)
+
+- [mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture](2024年04月18日/mABC_multi-Agent_Blockchain-Inspired_Collaboration_for_root_cause_analysis_in_micro-services_architecture.md)
+
+    - [翻译: mABC：一种受区块链启发的多代理协作机制，专为微服务架构中的根本原因分析而设计。](2024年04月18日/mABC_multi-Agent_Blockchain-Inspired_Collaboration_for_root_cause_analysis_in_micro-services_architecture.md)
+
+- [RAGAR, Your Falsehood RADAR: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](2024年04月18日/RAGAR,_Your_Falsehood_RADAR_RAG-Augmented_Reasoning_for_Political_Fact-Checking_using_Multimodal_Large_Language_Models.md)
+
+    - [翻译: RAGAR，您的虚假信息侦测器：一种利用多模态大型语言模型增强推理能力，专为政治事实核查而设计的方法。](2024年04月18日/RAGAR,_Your_Falsehood_RADAR_RAG-Augmented_Reasoning_for_Political_Fact-Checking_using_Multimodal_Large_Language_Models.md)
+
+- [Can We Catch the Elephant? The Evolvement of Hallucination Evaluation on Natural Language Generation: A Survey](2024年04月18日/Can_We_Catch_the_Elephant_The_Evolvement_of_Hallucination_Evaluation_on_Natural_Language_Generation_A_Survey.md)
+
+    - [翻译: 能否捕捉巨象？自然语言生成中幻觉评估的发展综述](2024年04月18日/Can_We_Catch_the_Elephant_The_Evolvement_of_Hallucination_Evaluation_on_Natural_Language_Generation_A_Survey.md)
+
+- [Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector](2024年04月18日/Uncovering_Safety_Risks_in_Open-source_LLMs_through_Concept_Activation_Vector.md)
+
+    - [翻译: 利用概念激活向量技术，深入挖掘开源大型语言模型（LLM）中潜藏的安全风险。](2024年04月18日/Uncovering_Safety_Risks_in_Open-source_LLMs_through_Concept_Activation_Vector.md)
+
+- [Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration](2024年04月18日/Parallel_Decoding_via_Hidden_Transfer_for_Lossless_Large_Language_Model_Acceleration.md)
+
+    - [翻译: 采用隐藏层传输技术，实现大型语言模型的并行解码，从而加速模型的无损运行。](2024年04月18日/Parallel_Decoding_via_Hidden_Transfer_for_Lossless_Large_Language_Model_Acceleration.md)
+
+- [What does CLIP know about peeling a banana?](2024年04月18日/What_does_CLIP_know_about_peeling_a_banana.md)
+
+    - [翻译: CLIP 对于如何剥香蕉有何认知？](2024年04月18日/What_does_CLIP_know_about_peeling_a_banana.md)
+
+- [ParaFusion: A Large-Scale LLM-Driven English Paraphrase Dataset Infused with High-Quality Lexical and Syntactic Diversity](2024年04月18日/ParaFusion_A_Large-Scale_LLM-Driven_English_Paraphrase_Dataset_Infused_with_High-Quality_Lexical_and_Syntactic_Diversity.md)
+
+    - [翻译: ParaFusion 是一个由大型语言模型（LLM）驱动的英语释义数据集，它注入了丰富的词汇和句法多样性，为语言模型的训练和评估提供了高质量的语料。](2024年04月18日/ParaFusion_A_Large-Scale_LLM-Driven_English_Paraphrase_Dataset_Infused_with_High-Quality_Lexical_and_Syntactic_Diversity.md)
+
+- [Token-level Direct Preference Optimization](2024年04月18日/Token-level_Direct_Preference_Optimization.md)
+
+    - [翻译: 直接偏好优化（DPO）是一种在生成模型中针对用户偏好进行优化的策略，该策略通过微调模型产出的每个语义单元（标记）来精准实现。](2024年04月18日/Token-level_Direct_Preference_Optimization.md)
+
+- [EVIT: Event-Oriented Instruction Tuning for Event Reasoning](2024年04月18日/EVIT_Event-Oriented_Instruction_Tuning_for_Event_Reasoning.md)
+
+    - [翻译: EVIT：针对事件推理的事件驱动指令优化](2024年04月18日/EVIT_Event-Oriented_Instruction_Tuning_for_Event_Reasoning.md)
+
+- [Large Language Models: From Notes to Musical Form](2024年04月18日/Large_Language_Models_From_Notes_to_Musical_Form.md)
+
+    - [翻译: 大型语言模型：将笔记转化为音乐篇章](2024年04月18日/Large_Language_Models_From_Notes_to_Musical_Form.md)
+
+- [Exploring the landscape of large language models: Foundations, techniques, and challenges](2024年04月18日/Exploring_the_landscape_of_large_language_models_Foundations,_techniques,_and_challenges.md)
+
+    - [翻译: 深入探究大型语言模型的疆域：从基础理论到技术应用，再到面临的挑战。](2024年04月18日/Exploring_the_landscape_of_large_language_models_Foundations,_techniques,_and_challenges.md)
+
+- [Aligning Language Models to Explicitly Handle Ambiguity](2024年04月18日/Aligning_Language_Models_to_Explicitly_Handle_Ambiguity.md)
+
+    - [翻译: 对齐语言模型以明确处理歧义](2024年04月18日/Aligning_Language_Models_to_Explicitly_Handle_Ambiguity.md)
+
+- [From Language Models to Practical Self-Improving Computer Agents](2024年04月18日/From_Language_Models_to_Practical_Self-Improving_Computer_Agents.md)
+
+    - [翻译: 语言模型向实用自我进化计算机代理的转变](2024年04月18日/From_Language_Models_to_Practical_Self-Improving_Computer_Agents.md)
+
+- [Generating Diverse Criteria On-the-Fly to Improve Point-wise LLM Rankers](2024年04月18日/Generating_Diverse_Criteria_On-the-Fly_to_Improve_Point-wise_LLM_Rankers.md)
+
+    - [翻译: 动态生成多样化评判标准，以提升大型语言模型的逐点排名性能。](2024年04月18日/Generating_Diverse_Criteria_On-the-Fly_to_Improve_Point-wise_LLM_Rankers.md)
+
+- [Sketch-guided Image Inpainting with Partial Discrete Diffusion Process](2024年04月18日/Sketch-guided_Image_Inpainting_with_Partial_Discrete_Diffusion_Process.md)
+
+    - [翻译: 草图引导的图像修复技术，借助部分离散扩散过程实现](2024年04月18日/Sketch-guided_Image_Inpainting_with_Partial_Discrete_Diffusion_Process.md)
+
+- [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](2024年04月18日/AgentCoord_Visually_Exploring_Coordination_Strategy_for_LLM-based_Multi-Agent_Collaboration.md)
+
+    - [翻译: AgentCoord：探索基于大型语言模型的多智能体协作的视觉协调策略](2024年04月18日/AgentCoord_Visually_Exploring_Coordination_Strategy_for_LLM-based_Multi-Agent_Collaboration.md)
+
+- [CrossIn: An Efficient Instruction Tuning Approach for Cross-Lingual Knowledge Alignment](2024年04月18日/CrossIn_An_Efficient_Instruction_Tuning_Approach_for_Cross-Lingual_Knowledge_Alignment.md)
+
+    - [翻译: CrossIn：一种高效指令调优策略，专为跨语言知识对齐而设计](2024年04月18日/CrossIn_An_Efficient_Instruction_Tuning_Approach_for_Cross-Lingual_Knowledge_Alignment.md)
+
+- [TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding](2024年04月18日/TriForce_Lossless_Acceleration_of_Long_Sequence_Generation_with_Hierarchical_Speculative_Decoding.md)
+
+    - [翻译: TriForce：采用分层推测解码技术，实现长序列生成的高效无损加速。](2024年04月18日/TriForce_Lossless_Acceleration_of_Long_Sequence_Generation_with_Hierarchical_Speculative_Decoding.md)
+
+- [Enhancing Financial Inclusion and Regulatory Challenges: A Critical Analysis of Digital Banks and Alternative Lenders Through Digital Platforms, Machine Learning, and Large Language Models Integration](2024年04月18日/Enhancing_Financial_Inclusion_and_Regulatory_Challenges_A_Critical_Analysis_of_Digital_Banks_and_Alternative_Lenders_Through_Digital_Platforms,_Machine_Learning,_and_Large_Language_Models_Integration.md)
+
+    - [翻译: 提升金融普惠与应对监管难题：深入剖析数字银行及替代性贷款机构如何通过整合数字平台、机器学习技术以及大型语言模型来应对挑战。](2024年04月18日/Enhancing_Financial_Inclusion_and_Regulatory_Challenges_A_Critical_Analysis_of_Digital_Banks_and_Alternative_Lenders_Through_Digital_Platforms,_Machine_Learning,_and_Large_Language_Models_Integration.md)
+
+- [Large Language Models Can Plan Your Travels Rigorously with Formal Verification Tools](2024年04月18日/Large_Language_Models_Can_Plan_Your_Travels_Rigorously_with_Formal_Verification_Tools.md)
+
+    - [翻译: 利用形式化验证工具，大型语言模型（LLMs）能够为您的旅行提供严谨的规划。](2024年04月18日/Large_Language_Models_Can_Plan_Your_Travels_Rigorously_with_Formal_Verification_Tools.md)
+
+- [iRAG: An Incremental Retrieval Augmented Generation System for Videos](2024年04月18日/iRAG_An_Incremental_Retrieval_Augmented_Generation_System_for_Videos.md)
+
+    - [翻译: iRAG：一种为视频内容设计的渐进式检索增强生成系统](2024年04月18日/iRAG_An_Incremental_Retrieval_Augmented_Generation_System_for_Videos.md)
+
+- [Sequential Compositional Generalization in Multimodal Models](2024年04月18日/Sequential_Compositional_Generalization_in_Multimodal_Models.md)
+
+    - [翻译: 多模态模型中的顺序组合泛化研究](2024年04月18日/Sequential_Compositional_Generalization_in_Multimodal_Models.md)
+
+- [Deep and Dynamic Metabolic and Structural Imaging in Living Tissues](2024年04月18日/Deep_and_Dynamic_Metabolic_and_Structural_Imaging_in_Living_Tissues.md)
+
+    - [翻译: 深入探索活体组织，实现动态代谢与结构成像。](2024年04月18日/Deep_and_Dynamic_Metabolic_and_Structural_Imaging_in_Living_Tissues.md)
+
 2024年04月17日
 
 - [Single-temporal Supervised Remote Change Detection for Domain Generalization](2024年04月17日/Single-temporal_Supervised_Remote_Change_Detection_for_Domain_Generalization.md)
@@ -169,6 +359,50 @@
 - [AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts](2024年04月17日/AI-Enhanced_Cognitive_Behavioral_Therapy_Deep_Learning_and_Large_Language_Models_for_Extracting_Cognitive_Pathways_from_Social_Media_Texts.md)
 
     - [翻译: 利用AI提升认知行为疗法：结合深度学习和大型语言模型，从社交媒体文本中挖掘认知路径。](2024年04月17日/AI-Enhanced_Cognitive_Behavioral_Therapy_Deep_Learning_and_Large_Language_Models_for_Extracting_Cognitive_Pathways_from_Social_Media_Texts.md)
+
+- [Concept Induction using LLMs: a user experiment for assessment](2024年04月17日/Concept_Induction_using_LLMs_a_user_experiment_for_assessment.md)
+
+    - [翻译: 通过大型语言模型实现概念归纳：一项旨在评估的用户实验](2024年04月17日/Concept_Induction_using_LLMs_a_user_experiment_for_assessment.md)
+
+- [From Image to Video, what do we need in multimodal LLMs?](2024年04月17日/From_Image_to_Video,_what_do_we_need_in_multimodal_LLMs.md)
+
+    - [翻译: 在多模态的大型语言模型（LLMs）中，我们应如何从图像迈向视频？](2024年04月17日/From_Image_to_Video,_what_do_we_need_in_multimodal_LLMs.md)
+
+- [CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models](2024年04月17日/CAUS_A_Dataset_for_Question_Generation_based_on_Human_Cognition_Leveraging_Large_Language_Models.md)
+
+    - [翻译: CAUS：一个依托于人类认知，利用大型语言模型来生成问题的数据集。](2024年04月17日/CAUS_A_Dataset_for_Question_Generation_based_on_Human_Cognition_Leveraging_Large_Language_Models.md)
+
+- [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](2024年04月17日/AdvisorQA_Towards_Helpful_and_Harmless_Advice-seeking_Question_Answering_with_Collective_Intelligence.md)
+
+    - [翻译: AdvisorQA：借助集体智慧，迈向提供有益且无害的建议型问答系统](2024年04月17日/AdvisorQA_Towards_Helpful_and_Harmless_Advice-seeking_Question_Answering_with_Collective_Intelligence.md)
+
+- [When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery](2024年04月17日/When_are_Foundation_Models_Effective_Understanding_the_Suitability_for_Pixel-Level_Classification_Using_Multispectral_Imagery.md)
+
+    - [翻译: 何时基础模型更有效？深入探究其在多光谱图像像素级分类任务中的适用性。](2024年04月17日/When_are_Foundation_Models_Effective_Understanding_the_Suitability_for_Pixel-Level_Classification_Using_Multispectral_Imagery.md)
+
+- [Automated Social Science: Language Models as Scientist and Subjects](2024年04月17日/Automated_Social_Science_Language_Models_as_Scientist_and_Subjects.md)
+
+    - [翻译: 自动化社会科学：语言模型的双重角色——科学家与研究主体](2024年04月17日/Automated_Social_Science_Language_Models_as_Scientist_and_Subjects.md)
+
+- [Enhancing Q&A with Domain-Specific Fine-Tuning and Iterative Reasoning: A Comparative Study](2024年04月17日/Enhancing_Q&A_with_Domain-Specific_Fine-Tuning_and_Iterative_Reasoning_A_Comparative_Study.md)
+
+    - [翻译: 通过针对特定领域的精细调整和循环推理，提升问答系统的性能：一项对比分析研究](2024年04月17日/Enhancing_Q&A_with_Domain-Specific_Fine-Tuning_and_Iterative_Reasoning_A_Comparative_Study.md)
+
+- [Retrieval-Augmented Embodied Agents](2024年04月17日/Retrieval-Augmented_Embodied_Agents.md)
+
+    - [翻译: 增强检索的具身智能代理](2024年04月17日/Retrieval-Augmented_Embodied_Agents.md)
+
+- [MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory](2024年04月17日/MemLLM_Finetuning_LLMs_to_Use_An_Explicit_Read-Write_Memory.md)
+
+    - [翻译: MemLLM：为大型语言模型（LLM）定制优化，引入明确的读写记忆功能。](2024年04月17日/MemLLM_Finetuning_LLMs_to_Use_An_Explicit_Read-Write_Memory.md)
+
+- [3D object quality prediction for Metal Jet Printer with Multimodal thermal encoder](2024年04月17日/3D_object_quality_prediction_for_Metal_Jet_Printer_with_Multimodal_thermal_encoder.md)
+
+    - [翻译: 采用多模态热编码器技术，对金属喷墨打印机的3D打印对象质量进行精准预测。](2024年04月17日/3D_object_quality_prediction_for_Metal_Jet_Printer_with_Multimodal_thermal_encoder.md)
+
+- [Pretraining Billion-scale Geospatial Foundational Models on Frontier](2024年04月17日/Pretraining_Billion-scale_Geospatial_Foundational_Models_on_Frontier.md)
+
+    - [翻译: 我们正致力于在前沿科技领域预训练规模达十亿级的地理空间基础模型。](2024年04月17日/Pretraining_Billion-scale_Geospatial_Foundational_Models_on_Frontier.md)
 
 2024年04月16日
 
