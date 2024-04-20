@@ -488,6 +488,12 @@
 
     - [翻译: 本文综述了视觉-语言模型的最新研究方法，并展望了未来的发展趋势。通过深入分析，我们旨在揭示这一领域的潜力与挑战，为未来的研究提供方向。](2024年02月20日/Exploring_the_Frontier_of_Vision-Language_Models_A_Survey_of_Current_Methodologies_and_Future_Directions.md)
 
+2024年02月18日
+
+- [An Empirical Categorization of Prompting Techniques for Large Language Models: A Practitioner's Guide](2024年02月18日/An_Empirical_Categorization_of_Prompting_Techniques_for_Large_Language_Models_A_Practitioner's_Guide.md)
+
+    - [翻译: 实证分类大型语言模型的提示技巧：一份实践者指南](2024年02月18日/An_Empirical_Categorization_of_Prompting_Techniques_for_Large_Language_Models_A_Practitioner's_Guide.md)
+
 2024年02月16日
 
 - [LLMs in the Heart of Differential Testing: A Case Study on a Medical Rule Engine](2024年02月16日/LLMs_in_the_Heart_of_Differential_Testing_A_Case_Study_on_a_Medical_Rule_Engine.md)
@@ -511,6 +517,12 @@
 - [Enhancing Retrieval Processes for Language Generation with Augmented Queries](2024年02月06日/Enhancing_Retrieval_Processes_for_Language_Generation_with_Augmented_Queries.md)
 
     - [翻译: 我们提出了一种增强查询方法，旨在改进语言生成任务中的检索过程，从而提高整体性能和效果。](2024年02月06日/Enhancing_Retrieval_Processes_for_Language_Generation_with_Augmented_Queries.md)
+
+2024年02月05日
+
+- [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](2024年02月05日/A_Systematic_Survey_of_Prompt_Engineering_in_Large_Language_Models_Techniques_and_Applications.md)
+
+    - [翻译: 本文系统性地审视了大型语言模型中的提示工程，涵盖了相关技术和应用。](2024年02月05日/A_Systematic_Survey_of_Prompt_Engineering_in_Large_Language_Models_Techniques_and_Applications.md)
 
 2024年02月04日
 
