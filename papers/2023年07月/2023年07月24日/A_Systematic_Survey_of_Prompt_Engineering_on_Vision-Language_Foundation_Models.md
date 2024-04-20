@@ -1,0 +1,15 @@
+# 本文系统地调研了视觉-语言基础模型中的提示工程策略。
+
+发布时间：2023年07月24日
+
+`LLM应用` `视觉-语言建模`
+
+> A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models
+
+# 摘要
+
+> 提示工程通过添加特定任务的提示来优化大型预训练模型，使其能够适应新任务。这些提示可以是手工编写的自然语言指令，也可以是自动生成的语言或向量表示。这种方法允许我们在不调整模型参数的情况下，仅通过提示来进行预测，从而简化了将大型预训练模型应用于实际任务的过程。尽管提示工程在自然语言处理领域已被广泛研究，但其在视觉-语言建模领域的应用仍是一个新兴的研究热点。目前，对于预训练视觉-语言模型的提示工程还缺乏系统性的综述。本文旨在填补这一空白，全面梳理了三种视觉-语言模型——多模态到文本生成模型（如Flamingo）、图像-文本匹配模型（如CLIP）和文本到图像生成模型（如Stable Diffusion）——在提示工程方面的前沿研究。文章不仅概述了每种模型的基本框架、提示方法、应用案例，还探讨了相关的责任和诚信问题。同时，对比分析了视觉-语言模型、语言模型和视觉模型在提示应用上的异同，并总结了当前面临的挑战、未来的研究方向以及潜在的研究机会，以期推动该领域的进一步发展。
+
+> Prompt engineering is a technique that involves augmenting a large pre-trained model with task-specific hints, known as prompts, to adapt the model to new tasks. Prompts can be created manually as natural language instructions or generated automatically as either natural language instructions or vector representations. Prompt engineering enables the ability to perform predictions based solely on prompts without updating model parameters, and the easier application of large pre-trained models in real-world tasks. In past years, Prompt engineering has been well-studied in natural language processing. Recently, it has also been intensively studied in vision-language modeling. However, there is currently a lack of a systematic overview of prompt engineering on pre-trained vision-language models. This paper aims to provide a comprehensive survey of cutting-edge research in prompt engineering on three types of vision-language models: multimodal-to-text generation models (e.g. Flamingo), image-text matching models (e.g. CLIP), and text-to-image generation models (e.g. Stable Diffusion). For each type of model, a brief model summary, prompting methods, prompting-based applications, and the corresponding responsibility and integrity issues are summarized and discussed. Furthermore, the commonalities and differences between prompting on vision-language models, language models, and vision models are also discussed. The challenges, future directions, and research opportunities are summarized to foster future research on this topic.
+
+[Arxiv](https://arxiv.org/abs/2307.12980)
