@@ -1,5 +1,15 @@
 # 2024年04月
 
+2024年04月19日
+
+- [Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models](2024年04月19日/Eyes_Can_Deceive_Benchmarking_Counterfactual_Reasoning_Abilities_of_Multi-modal_Large_Language_Models.md)
+
+    - [翻译: 眼见未必为实：多模态大型语言模型反事实推理能力的评估基准](2024年04月19日/Eyes_Can_Deceive_Benchmarking_Counterfactual_Reasoning_Abilities_of_Multi-modal_Large_Language_Models.md)
+
+- [How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](2024年04月19日/How_Does_the_Textual_Information_Affect_the_Retrieval_of_Multimodal_In-Context_Learning.md)
+
+    - [翻译: 文本信息对多模态上下文内学习的信息检索有何影响？](2024年04月19日/How_Does_the_Textual_Information_Affect_the_Retrieval_of_Multimodal_In-Context_Learning.md)
+
 2024年04月18日
 
 - [BLINK: Multimodal Large Language Models Can See but Not Perceive](2024年04月18日/BLINK_Multimodal_Large_Language_Models_Can_See_but_Not_Perceive.md)
