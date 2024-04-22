@@ -10,6 +10,114 @@
 
     - [翻译: 文本信息对多模态上下文内学习的信息检索有何影响？](2024年04月19日/How_Does_the_Textual_Information_Affect_the_Retrieval_of_Multimodal_In-Context_Learning.md)
 
+- [Rethinking the Evaluation of Dialogue Systems: Effects of User Feedback on Crowdworkers and LLMs](2024年04月19日/Rethinking_the_Evaluation_of_Dialogue_Systems_Effects_of_User_Feedback_on_Crowdworkers_and_LLMs.md)
+
+    - [翻译: 对话系统评估新视角：用户反馈如何影响众包工作者与大型语言模型。](2024年04月19日/Rethinking_the_Evaluation_of_Dialogue_Systems_Effects_of_User_Feedback_on_Crowdworkers_and_LLMs.md)
+
+- [FineRec:Exploring Fine-grained Sequential Recommendation](2024年04月19日/FineRecExploring_Fine-grained_Sequential_Recommendation.md)
+
+    - [翻译: FineRec：深入挖掘细粒度的序列化推荐技术](2024年04月19日/FineRecExploring_Fine-grained_Sequential_Recommendation.md)
+
+- [Towards Reliable Latent Knowledge Estimation in LLMs: In-Context Learning vs. Prompting Based Factual Knowledge Extraction](2024年04月19日/Towards_Reliable_Latent_Knowledge_Estimation_in_LLMs_In-Context_Learning_vs._Prompting_Based_Factual_Knowledge_Extraction.md)
+
+    - [翻译: 探索大型语言模型中可靠的潜在知识评估：比较了情境学习与基于提示的事实知识抽取方法。](2024年04月19日/Towards_Reliable_Latent_Knowledge_Estimation_in_LLMs_In-Context_Learning_vs._Prompting_Based_Factual_Knowledge_Extraction.md)
+
+- [Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models](2024年04月19日/Physical_Backdoor_Attack_can_Jeopardize_Driving_with_Vision-Large-Language_Models.md)
+
+    - [翻译: 物理后门攻击可能对采用视觉技术的大规模语言模型的驾驶安全构成威胁。](2024年04月19日/Physical_Backdoor_Attack_can_Jeopardize_Driving_with_Vision-Large-Language_Models.md)
+
+- [Large Language Models for Networking: Workflow, Advances and Challenges](2024年04月19日/Large_Language_Models_for_Networking_Workflow,_Advances_and_Challenges.md)
+
+    - [翻译: 探索网络领域中的大规模语言模型：工作流程、最新进展与面临的挑战。](2024年04月19日/Large_Language_Models_for_Networking_Workflow,_Advances_and_Challenges.md)
+
+- [Enabling Natural Zero-Shot Prompting on Encoder Models via Statement-Tuning](2024年04月19日/Enabling_Natural_Zero-Shot_Prompting_on_Encoder_Models_via_Statement-Tuning.md)
+
+    - [翻译: 通过声明调优技术，实现了在编码器模型上的自然零样本提示功能。](2024年04月19日/Enabling_Natural_Zero-Shot_Prompting_on_Encoder_Models_via_Statement-Tuning.md)
+
+- [Unlocking Multi-View Insights in Knowledge-Dense Retrieval-Augmented Generation](2024年04月19日/Unlocking_Multi-View_Insights_in_Knowledge-Dense_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 探索知识密集型检索增强生成中的多视角洞察。](2024年04月19日/Unlocking_Multi-View_Insights_in_Knowledge-Dense_Retrieval-Augmented_Generation.md)
+
+- [LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency](2024年04月19日/LLM-R2_A_Large_Language_Model_Enhanced_Rule-based_Rewrite_System_for_Boosting_Query_Efficiency.md)
+
+    - [翻译: LLM-R2：一款搭载强化规则重写系统的大型语言模型，旨在提升查询性能。](2024年04月19日/LLM-R2_A_Large_Language_Model_Enhanced_Rule-based_Rewrite_System_for_Boosting_Query_Efficiency.md)
+
+- [Towards Logically Consistent Language Models via Probabilistic Reasoning](2024年04月19日/Towards_Logically_Consistent_Language_Models_via_Probabilistic_Reasoning.md)
+
+    - [翻译: 通过概率推理方法，推动语言模型向逻辑一致性方向发展。](2024年04月19日/Towards_Logically_Consistent_Language_Models_via_Probabilistic_Reasoning.md)
+
+- [ECOR: Explainable CLIP for Object Recognition](2024年04月19日/ECOR_Explainable_CLIP_for_Object_Recognition.md)
+
+    - [翻译: ECOR：为对象识别提供可解释性的 CLIP](2024年04月19日/ECOR_Explainable_CLIP_for_Object_Recognition.md)
+
+- [How Far Can We Go with Practical Function-Level Program Repair?](2024年04月19日/How_Far_Can_We_Go_with_Practical_Function-Level_Program_Repair.md)
+
+    - [翻译: 实用的函数级程序修复能带我们走多远？](2024年04月19日/How_Far_Can_We_Go_with_Practical_Function-Level_Program_Repair.md)
+
+- [LiMe: a Latin Corpus of Late Medieval Criminal Sentences](2024年04月19日/LiMe_a_Latin_Corpus_of_Late_Medieval_Criminal_Sentences.md)
+
+    - [翻译: LiMe：一部汇集了中世纪晚期刑事判决案例的拉丁文语料库。](2024年04月19日/LiMe_a_Latin_Corpus_of_Late_Medieval_Criminal_Sentences.md)
+
+- [TextSquare: Scaling up Text-Centric Visual Instruction Tuning](2024年04月19日/TextSquare_Scaling_up_Text-Centric_Visual_Instruction_Tuning.md)
+
+    - [翻译: TextSquare：提升文本导向视觉指令调优的规模](2024年04月19日/TextSquare_Scaling_up_Text-Centric_Visual_Instruction_Tuning.md)
+
+- [Generating Test Scenarios from NL Requirements using Retrieval-Augmented LLMs: An Industrial Study](2024年04月19日/Generating_Test_Scenarios_from_NL_Requirements_using_Retrieval-Augmented_LLMs_An_Industrial_Study.md)
+
+    - [翻译: 本工业研究探讨了如何利用增强检索功能的大型语言模型，从自然语言需求中生成测试场景。](2024年04月19日/Generating_Test_Scenarios_from_NL_Requirements_using_Retrieval-Augmented_LLMs_An_Industrial_Study.md)
+
+- [AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation](2024年04月19日/AutoCrawler_A_Progressive_Understanding_Web_Agent_for_Web_Crawler_Generation.md)
+
+    - [翻译: AutoCrawler：一种渐进式理解的网络代理，专为网络爬虫生成而设计。](2024年04月19日/AutoCrawler_A_Progressive_Understanding_Web_Agent_for_Web_Crawler_Generation.md)
+
+- [Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches](2024年04月19日/Beyond_Human_Norms_Unveiling_Unique_Values_of_Large_Language_Models_through_Interdisciplinary_Approaches.md)
+
+    - [翻译: 跨越人类常规，透过跨学科视角，揭开大型语言模型的独特价值。](2024年04月19日/Beyond_Human_Norms_Unveiling_Unique_Values_of_Large_Language_Models_through_Interdisciplinary_Approaches.md)
+
+- [The Solution for the CVPR2024 NICE Image Captioning Challenge](2024年04月19日/The_Solution_for_the_CVPR2024_NICE_Image_Captioning_Challenge.md)
+
+    - [翻译: CVPR2024 NICE图像标题挑战赛的解决之道](2024年04月19日/The_Solution_for_the_CVPR2024_NICE_Image_Captioning_Challenge.md)
+
+- [LLM App Store Analysis: A Vision and Roadmap](2024年04月19日/LLM_App_Store_Analysis_A_Vision_and_Roadmap.md)
+
+    - [翻译: 大型语言模型应用商店解析：展望与规划蓝图](2024年04月19日/LLM_App_Store_Analysis_A_Vision_and_Roadmap.md)
+
+- [Large Language Model Supply Chain: A Research Agenda](2024年04月19日/Large_Language_Model_Supply_Chain_A_Research_Agenda.md)
+
+    - [翻译: 探索大型语言模型的供应链：制定研究路线图](2024年04月19日/Large_Language_Model_Supply_Chain_A_Research_Agenda.md)
+
+- [Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?](2024年04月19日/Relevant_or_Random_Can_LLMs_Truly_Perform_Analogical_Reasoning.md)
+
+    - [翻译: 关联性抑或随机性：大型语言模型（LLM）是否真正具备类比推理的能力？](2024年04月19日/Relevant_or_Random_Can_LLMs_Truly_Perform_Analogical_Reasoning.md)
+
+- [Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works](2024年04月19日/Evaluating_Character_Understanding_of_Large_Language_Models_via_Character_Profiling_from_Fictional_Works.md)
+
+    - [翻译: 通过分析虚构作品中的角色档案，我们对大型语言模型在角色理解方面的能力进行了评估。](2024年04月19日/Evaluating_Character_Understanding_of_Large_Language_Models_via_Character_Profiling_from_Fictional_Works.md)
+
+- [Enabling Ensemble Learning for Heterogeneous Large Language Models with Deep Parallel Collaboration](2024年04月19日/Enabling_Ensemble_Learning_for_Heterogeneous_Large_Language_Models_with_Deep_Parallel_Collaboration.md)
+
+    - [翻译: 通过深度并行合作，实现异构大型语言模型的集成学习。](2024年04月19日/Enabling_Ensemble_Learning_for_Heterogeneous_Large_Language_Models_with_Deep_Parallel_Collaboration.md)
+
+- [Can LLMs Understand Computer Networks? Towards a Virtual System Administrator](2024年04月19日/Can_LLMs_Understand_Computer_Networks_Towards_a_Virtual_System_Administrator.md)
+
+    - [翻译: 大型语言模型能否洞悉计算机网络的奥秘？探索成为虚拟系统管理员之路。](2024年04月19日/Can_LLMs_Understand_Computer_Networks_Towards_a_Virtual_System_Administrator.md)
+
+- [SOS-1K: A Fine-grained Suicide Risk Classification Dataset for Chinese Social Media Analysis](2024年04月19日/SOS-1K_A_Fine-grained_Suicide_Risk_Classification_Dataset_for_Chinese_Social_Media_Analysis.md)
+
+    - [翻译: SOS-1K：专为中文社交媒体分析设计的细致自杀风险分类数据集](2024年04月19日/SOS-1K_A_Fine-grained_Suicide_Risk_Classification_Dataset_for_Chinese_Social_Media_Analysis.md)
+
+- [Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs](2024年04月19日/Multi-Objective_Fine-Tuning_for_Enhanced_Program_Repair_with_LLMs.md)
+
+    - [翻译: 通过多目标微调，我们提升了利用大型语言模型进行程序修复的能力。](2024年04月19日/Multi-Objective_Fine-Tuning_for_Enhanced_Program_Repair_with_LLMs.md)
+
+- [MoVA: Adapting Mixture of Vision Experts to Multimodal Context](2024年04月19日/MoVA_Adapting_Mixture_of_Vision_Experts_to_Multimodal_Context.md)
+
+    - [翻译: MoVA：将视觉专家的混合模型适配至多模态环境](2024年04月19日/MoVA_Adapting_Mixture_of_Vision_Experts_to_Multimodal_Context.md)
+
+- [Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models](2024年04月19日/Groma_Localized_Visual_Tokenization_for_Grounding_Multimodal_Large_Language_Models.md)
+
+    - [翻译: Groma：为多模态大型语言模型提供精准定位的视觉标记化技术](2024年04月19日/Groma_Localized_Visual_Tokenization_for_Grounding_Multimodal_Large_Language_Models.md)
+
 2024年04月18日
 
 - [BLINK: Multimodal Large Language Models Can See but Not Perceive](2024年04月18日/BLINK_Multimodal_Large_Language_Models_Can_See_but_Not_Perceive.md)
@@ -199,6 +307,54 @@
 - [Deep and Dynamic Metabolic and Structural Imaging in Living Tissues](2024年04月18日/Deep_and_Dynamic_Metabolic_and_Structural_Imaging_in_Living_Tissues.md)
 
     - [翻译: 深入探索活体组织，实现动态代谢与结构成像。](2024年04月18日/Deep_and_Dynamic_Metabolic_and_Structural_Imaging_in_Living_Tissues.md)
+
+- [Parameter Efficient Diverse Paraphrase Generation Using Sequence-Level Knowledge Distillation](2024年04月18日/Parameter_Efficient_Diverse_Paraphrase_Generation_Using_Sequence-Level_Knowledge_Distillation.md)
+
+    - [翻译: 通过序列层级的知识蒸馏技术，实现参数高效且多样化的释义生成。](2024年04月18日/Parameter_Efficient_Diverse_Paraphrase_Generation_Using_Sequence-Level_Knowledge_Distillation.md)
+
+- [Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL](2024年04月18日/Dubo-SQL_Diverse_Retrieval-Augmented_Generation_and_Fine_Tuning_for_Text-to-SQL.md)
+
+    - [翻译: Dubo-SQL：为文本到SQL任务，引入多样化的检索增强生成技术与精细调优方法。](2024年04月18日/Dubo-SQL_Diverse_Retrieval-Augmented_Generation_and_Fine_Tuning_for_Text-to-SQL.md)
+
+- [Just Like Me: The Role of Opinions and Personal Experiences in The Perception of Explanations in Subjective Decision-Making](2024年04月18日/Just_Like_Me_The_Role_of_Opinions_and_Personal_Experiences_in_The_Perception_of_Explanations_in_Subjective_Decision-Making.md)
+
+    - [翻译: 《与我相似：观点与个人经历在主观决策中对解释感知的影响》](2024年04月18日/Just_Like_Me_The_Role_of_Opinions_and_Personal_Experiences_in_The_Perception_of_Explanations_in_Subjective_Decision-Making.md)
+
+- [Cocoon: Semantic Table Profiling Using Large Language Models](2024年04月18日/Cocoon_Semantic_Table_Profiling_Using_Large_Language_Models.md)
+
+    - [翻译: Cocoon：运用大型语言模型进行语义化表格剖析](2024年04月18日/Cocoon_Semantic_Table_Profiling_Using_Large_Language_Models.md)
+
+- ["If the Machine Is As Good As Me, Then What Use Am I?" -- How the Use of ChatGPT Changes Young Professionals' Perception of Productivity and Accomplishment](2024年04月18日/If_the_Machine_Is_As_Good_As_Me,_Then_What_Use_Am_I_--_How_the_Use_of_ChatGPT_Changes_Young_Professionals'_Perception_of_Productivity_and_Accomplishment.md)
+
+    - [翻译: 机器若能与我匹敌，我的价值何在？——探讨 ChatGPT 如何重塑年轻职场人士对效率与成就的认知](2024年04月18日/If_the_Machine_Is_As_Good_As_Me,_Then_What_Use_Am_I_--_How_the_Use_of_ChatGPT_Changes_Young_Professionals'_Perception_of_Productivity_and_Accomplishment.md)
+
+- [HalluciBot: Is There No Such Thing as a Bad Question?](2024年04月18日/HalluciBot_Is_There_No_Such_Thing_as_a_Bad_Question.md)
+
+    - [翻译: HalluciBot：世上真有所谓的“坏问题”吗？](2024年04月18日/HalluciBot_Is_There_No_Such_Thing_as_a_Bad_Question.md)
+
+- [Towards Large Language Models as Copilots for Theorem Proving in Lean](2024年04月18日/Towards_Large_Language_Models_as_Copilots_for_Theorem_Proving_in_Lean.md)
+
+    - [翻译: 探索大型语言模型作为 Lean 定理证明的智能辅助工具](2024年04月18日/Towards_Large_Language_Models_as_Copilots_for_Theorem_Proving_in_Lean.md)
+
+- [UIClip: A Data-driven Model for Assessing User Interface Design](2024年04月18日/UIClip_A_Data-driven_Model_for_Assessing_User_Interface_Design.md)
+
+    - [翻译: UIClip：一种数据驱动的模型，专为评估用户界面设计而设计](2024年04月18日/UIClip_A_Data-driven_Model_for_Assessing_User_Interface_Design.md)
+
+- [BIRD: A Trustworthy Bayesian Inference Framework for Large Language Models](2024年04月18日/BIRD_A_Trustworthy_Bayesian_Inference_Framework_for_Large_Language_Models.md)
+
+    - [翻译: BIRD：为大型语言模型量身打造的可信贝叶斯推断框架](2024年04月18日/BIRD_A_Trustworthy_Bayesian_Inference_Framework_for_Large_Language_Models.md)
+
+- [NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models](2024年04月18日/NORMAD_A_Benchmark_for_Measuring_the_Cultural_Adaptability_of_Large_Language_Models.md)
+
+    - [翻译: NORMAD：衡量大型语言模型文化适应性的基准测试。](2024年04月18日/NORMAD_A_Benchmark_for_Measuring_the_Cultural_Adaptability_of_Large_Language_Models.md)
+
+- [NLP-enabled trajectory map-matching in urban road networks using transformer sequence-to-sequence model](2024年04月18日/NLP-enabled_trajectory_map-matching_in_urban_road_networks_using_transformer_sequence-to-sequence_model.md)
+
+    - [翻译: 利用变换器序列对序列模型，实现城市路网中基于自然语言处理（NLP）的轨迹地图匹配技术。](2024年04月18日/NLP-enabled_trajectory_map-matching_in_urban_road_networks_using_transformer_sequence-to-sequence_model.md)
+
+- [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](2024年04月18日/RAGCache_Efficient_Knowledge_Caching_for_Retrieval-Augmented_Generation.md)
+
+    - [翻译: RAGCache：为检索增强型生成提供高效的知识缓存解决方案](2024年04月18日/RAGCache_Efficient_Knowledge_Caching_for_Retrieval-Augmented_Generation.md)
 
 2024年04月17日
 
@@ -905,6 +1061,10 @@
 - [LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model](2024年04月15日/LegalPro-BERT_Classification_of_Legal_Provisions_by_fine-tuning_BERT_Large_Language_Model.md)
 
     - [翻译: LegalPro-BERT：借助 BERT 大型语言模型的微调技术，实现对法律条文的精准分类。](2024年04月15日/LegalPro-BERT_Classification_of_Legal_Provisions_by_fine-tuning_BERT_Large_Language_Model.md)
+
+- [Group-wise Prompting for Synthetic Tabular Data Generation using Large Language Models](2024年04月15日/Group-wise_Prompting_for_Synthetic_Tabular_Data_Generation_using_Large_Language_Models.md)
+
+    - [翻译: 本文介绍了一种利用大型语言模型进行合成表格数据生成的策略，即通过组内提示来实现。](2024年04月15日/Group-wise_Prompting_for_Synthetic_Tabular_Data_Generation_using_Large_Language_Models.md)
 
 2024年04月14日
 
