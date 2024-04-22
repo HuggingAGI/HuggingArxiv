@@ -118,6 +118,26 @@
 
     - [翻译: Groma：为多模态大型语言模型提供精准定位的视觉标记化技术](2024年04月19日/Groma_Localized_Visual_Tokenization_for_Grounding_Multimodal_Large_Language_Models.md)
 
+- [Unified Scene Representation and Reconstruction for 3D Large Language Models](2024年04月19日/Unified_Scene_Representation_and_Reconstruction_for_3D_Large_Language_Models.md)
+
+    - [翻译: 为3D大型语言模型提供统一的场景表示与重建。](2024年04月19日/Unified_Scene_Representation_and_Reconstruction_for_3D_Large_Language_Models.md)
+
+- [Data Alignment for Zero-Shot Concept Generation in Dermatology AI](2024年04月19日/Data_Alignment_for_Zero-Shot_Concept_Generation_in_Dermatology_AI.md)
+
+    - [翻译: 为皮肤科AI中的零样本概念生成实现数据对齐。](2024年04月19日/Data_Alignment_for_Zero-Shot_Concept_Generation_in_Dermatology_AI.md)
+
+- [Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs](2024年04月19日/Sample_Design_Engineering_An_Empirical_Study_of_What_Makes_Good_Downstream_Fine-Tuning_Samples_for_LLMs.md)
+
+    - [翻译: 样本设计工程：探究何种样本能成为大型语言模型（LLM）下游微调的优质选择的实证研究](2024年04月19日/Sample_Design_Engineering_An_Empirical_Study_of_What_Makes_Good_Downstream_Fine-Tuning_Samples_for_LLMs.md)
+
+- [When Life gives you LLMs, make LLM-ADE: Large Language Models with Adaptive Data Engineering](2024年04月19日/When_Life_gives_you_LLMs,_make_LLM-ADE_Large_Language_Models_with_Adaptive_Data_Engineering.md)
+
+    - [翻译: 生活赋予你大型语言模型（LLMs），便创造 LLM-ADE：融入自适应数据工程的先进语言模型。](2024年04月19日/When_Life_gives_you_LLMs,_make_LLM-ADE_Large_Language_Models_with_Adaptive_Data_Engineering.md)
+
+- [Stronger Random Baselines for In-Context Learning](2024年04月19日/Stronger_Random_Baselines_for_In-Context_Learning.md)
+
+    - [翻译: 为上下文内学习构建更强大的随机基线](2024年04月19日/Stronger_Random_Baselines_for_In-Context_Learning.md)
+
 2024年04月18日
 
 - [BLINK: Multimodal Large Language Models Can See but Not Perceive](2024年04月18日/BLINK_Multimodal_Large_Language_Models_Can_See_but_Not_Perceive.md)
