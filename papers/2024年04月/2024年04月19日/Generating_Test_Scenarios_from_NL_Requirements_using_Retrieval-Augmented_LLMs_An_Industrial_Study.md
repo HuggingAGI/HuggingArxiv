@@ -1,0 +1,15 @@
+# 本工业研究探讨了如何利用增强检索功能的大型语言模型，从自然语言需求中生成测试场景。
+
+发布时间：2024年04月19日
+
+`LLM应用` `软件测试` `自动化`
+
+> Generating Test Scenarios from NL Requirements using Retrieval-Augmented LLMs: An Industrial Study
+
+# 摘要
+
+> 测试场景作为测试用例的具体应用，详细说明了如何通过一系列动作来验证软件的特定功能。它们通过设定软件运行的条件和预期成果，确保软件功能得到全面综合的测试。在多变的测试条件下，包括极端情况，测试场景对于发现潜在缺陷、确保软件的全面性能和可靠性至关重要。然而，制定这些场景既繁琐又复杂，它不仅需要深入理解软件的功能和相关领域知识，还需要投入大量的时间和精力，这对于资源有限的项目团队来说是个挑战。本文提出了一种名为RAGTAG的自动化测试场景生成方法，该方法结合了检索增强生成（RAG）技术和大型语言模型（LLM），以实现特定领域知识的整合和生成能力的提升。我们在奥地利邮政的两个采用德英双语需求的工业项目中对RAGTAG进行了评估。通过与四位专家就相关性、覆盖度、准确性、连贯性和可行性五个方面进行的访谈调查，我们的结果证实了RAGTAG在自动化生成测试场景方面的潜力。尽管面对分析双语需求的挑战，RAGTAG仍能生成与原始需求高度契合、全面覆盖预期功能各个方面的测试场景。这些场景不仅易于专家理解，也适合在项目环境中进行测试。尽管整体的正确性得到了认可，但在捕捉精确的动作序列和领域细节方面仍有改进空间，这表明在运用LLM时，领域专家的知识至关重要。
+
+> Test scenarios are specific instances of test cases that describe actions to validate a particular software functionality. By outlining the conditions under which the software operates and the expected outcomes, test scenarios ensure that the software functionality is tested in an integrated manner. Test scenarios are crucial for systematically testing an application under various conditions, including edge cases, to identify potential issues and guarantee overall performance and reliability. Specifying test scenarios is tedious and requires a deep understanding of software functionality and the underlying domain. It further demands substantial effort and investment from already time- and budget-constrained requirements engineers and testing teams. This paper presents an automated approach (RAGTAG) for test scenario generation using Retrieval-Augmented Generation (RAG) with Large Language Models (LLMs). RAG allows the integration of specific domain knowledge with LLMs' generation capabilities. We evaluate RAGTAG on two industrial projects from Austrian Post with bilingual requirements in German and English. Our results from an interview survey conducted with four experts on five dimensions -- relevance, coverage, correctness, coherence and feasibility, affirm the potential of RAGTAG in automating test scenario generation. Specifically, our results indicate that, despite the difficult task of analyzing bilingual requirements, RAGTAG is able to produce scenarios that are well-aligned with the underlying requirements and provide coverage of different aspects of the intended functionality. The generated scenarios are easily understandable to experts and feasible for testing in the project environment. The overall correctness is deemed satisfactory; however, gaps in capturing exact action sequences and domain nuances remain, underscoring the need for domain expertise when applying LLMs.
+
+[Arxiv](https://arxiv.org/abs/2404.12772)
