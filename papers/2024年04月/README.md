@@ -272,43 +272,43 @@
 
 - [Retrieval-Augmented Generation-based Relation Extraction](2024年04月20日/Retrieval-Augmented_Generation-based_Relation_Extraction.md)
 
-    - [翻译: 检索增强型生成关系抽取](2024年04月20日/Retrieval-Augmented_Generation-based_Relation_Extraction.md)
+    - [翻译: 检索增强型生成式关系提取](2024年04月20日/Retrieval-Augmented_Generation-based_Relation_Extraction.md)
 
 - [Movie101v2: Improved Movie Narration Benchmark](2024年04月20日/Movie101v2_Improved_Movie_Narration_Benchmark.md)
 
-    - [翻译: Movie101v2：提升版电影叙事基准](2024年04月20日/Movie101v2_Improved_Movie_Narration_Benchmark.md)
+    - [翻译: Movie101v2：提升版的电影叙事基准](2024年04月20日/Movie101v2_Improved_Movie_Narration_Benchmark.md)
 
 - [Generating Daylight-driven Architectural Design via Diffusion Models](2024年04月20日/Generating_Daylight-driven_Architectural_Design_via_Diffusion_Models.md)
 
-    - [翻译: 利用扩散模型打造日光驱动的建筑设计理念。](2024年04月20日/Generating_Daylight-driven_Architectural_Design_via_Diffusion_Models.md)
+    - [翻译: 利用扩散模型打造以日光为驱动力的建筑设计。](2024年04月20日/Generating_Daylight-driven_Architectural_Design_via_Diffusion_Models.md)
 
 - [UnibucLLM: Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions](2024年04月20日/UnibucLLM_Harnessing_LLMs_for_Automated_Prediction_of_Item_Difficulty_and_Response_Time_for_Multiple-Choice_Questions.md)
 
-    - [翻译: UnibucLLM：发挥大型语言模型的潜力，实现对多项选择题难度及答题时间的自动预测。](2024年04月20日/UnibucLLM_Harnessing_LLMs_for_Automated_Prediction_of_Item_Difficulty_and_Response_Time_for_Multiple-Choice_Questions.md)
+    - [翻译: UnibucLLM：运用大型语言模型（LLM）智能预测多选题的难度与答题时长。](2024年04月20日/UnibucLLM_Harnessing_LLMs_for_Automated_Prediction_of_Item_Difficulty_and_Response_Time_for_Multiple-Choice_Questions.md)
 
 - [Large Language Models as Test Case Generators: Performance Evaluation and Enhancement](2024年04月20日/Large_Language_Models_as_Test_Case_Generators_Performance_Evaluation_and_Enhancement.md)
 
-    - [翻译: 以大型语言模型为测试用例生成器：探究性能评估与提升之道](2024年04月20日/Large_Language_Models_as_Test_Case_Generators_Performance_Evaluation_and_Enhancement.md)
+    - [翻译: 将大型语言模型用作测试用例生成器：对性能进行评估并探索提升之道。](2024年04月20日/Large_Language_Models_as_Test_Case_Generators_Performance_Evaluation_and_Enhancement.md)
 
 - [FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models](2024年04月20日/FakeBench_Uncover_the_Achilles'_Heels_of_Fake_Images_with_Large_Multimodal_Models.md)
 
-    - [翻译: FakeBench：借力大型多模态模型，洞悉伪造图像的软肋](2024年04月20日/FakeBench_Uncover_the_Achilles'_Heels_of_Fake_Images_with_Large_Multimodal_Models.md)
+    - [翻译: FakeBench：借助大型多模态模型，揭开假图像的阿喀琉斯之踵。](2024年04月20日/FakeBench_Uncover_the_Achilles'_Heels_of_Fake_Images_with_Large_Multimodal_Models.md)
 
 - [PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition](2024年04月20日/PCQA_A_Strong_Baseline_for_AIGC_Quality_Assessment_Based_on_Prompt_Condition.md)
 
-    - [翻译: PCQA：基于提示设置的AI生成内容质量评估的坚实基准](2024年04月20日/PCQA_A_Strong_Baseline_for_AIGC_Quality_Assessment_Based_on_Prompt_Condition.md)
+    - [翻译: PCQA：一种基于提示条件的AIGC（人工智能生成内容）质量评估的强有力基准模型](2024年04月20日/PCQA_A_Strong_Baseline_for_AIGC_Quality_Assessment_Based_on_Prompt_Condition.md)
 
 - [Augmented Object Intelligence: Making the Analog World Interactable with XR-Objects](2024年04月20日/Augmented_Object_Intelligence_Making_the_Analog_World_Interactable_with_XR-Objects.md)
 
-    - [翻译: 增强型对象智能：借助XR对象，让模拟世界触手可及](2024年04月20日/Augmented_Object_Intelligence_Making_the_Analog_World_Interactable_with_XR-Objects.md)
+    - [翻译: 增强型对象智能：借助 XR-Objects，让现实世界可与扩展现实技术互动](2024年04月20日/Augmented_Object_Intelligence_Making_the_Analog_World_Interactable_with_XR-Objects.md)
 
 - [Multi-Cell Decoder and Mutual Learning for Table Structure and Character Recognition](2024年04月20日/Multi-Cell_Decoder_and_Mutual_Learning_for_Table_Structure_and_Character_Recognition.md)
 
-    - [翻译: 本文介绍了一种多单元解码器技术，结合互学习机制，旨在提升表格结构识别和字符识别的准确性。](2024年04月20日/Multi-Cell_Decoder_and_Mutual_Learning_for_Table_Structure_and_Character_Recognition.md)
+    - [翻译: 采用多单元解码器结合互学习技术，提升表格结构和字符识别的准确性。](2024年04月20日/Multi-Cell_Decoder_and_Mutual_Learning_for_Table_Structure_and_Character_Recognition.md)
 
 - [Demystify Adult Learning: A Social Network and Large Language Model Assisted Approach](2024年04月20日/Demystify_Adult_Learning_A_Social_Network_and_Large_Language_Model_Assisted_Approach.md)
 
-    - [翻译: 揭秘成人学习：借助社交网络与大型语言模型的策略](2024年04月20日/Demystify_Adult_Learning_A_Social_Network_and_Large_Language_Model_Assisted_Approach.md)
+    - [翻译: 揭秘成人学习：结合社交网络与大型语言模型的辅助策略](2024年04月20日/Demystify_Adult_Learning_A_Social_Network_and_Large_Language_Model_Assisted_Approach.md)
 
 2024年04月19日
 
@@ -450,7 +450,7 @@
 
 - [Personalized Wireless Federated Learning for Large Language Models](2024年04月19日/Personalized_Wireless_Federated_Learning_for_Large_Language_Models.md)
 
-    - [翻译: 为大型语言模型量身定制的无线联合学习](2024年04月19日/Personalized_Wireless_Federated_Learning_for_Large_Language_Models.md)
+    - [翻译: 为大型语言模型量身定制的无线联合学习技术](2024年04月19日/Personalized_Wireless_Federated_Learning_for_Large_Language_Models.md)
 
 - [LLMChain: Blockchain-based Reputation System for Sharing and Evaluating Large Language Models](2024年04月19日/LLMChain_Blockchain-based_Reputation_System_for_Sharing_and_Evaluating_Large_Language_Models.md)
 
@@ -458,23 +458,23 @@
 
 - [STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases](2024年04月19日/STaRK_Benchmarking_LLM_Retrieval_on_Textual_and_Relational_Knowledge_Bases.md)
 
-    - [翻译: STaRK：为大型语言模型在文本与关系知识库检索方面设立的基准测试。](2024年04月19日/STaRK_Benchmarking_LLM_Retrieval_on_Textual_and_Relational_Knowledge_Bases.md)
+    - [翻译: STaRK：为大型语言模型在文本与关系知识库检索上设立的基准测试。](2024年04月19日/STaRK_Benchmarking_LLM_Retrieval_on_Textual_and_Relational_Knowledge_Bases.md)
 
 - [Action Contextualization: Adaptive Task Planning and Action Tuning using Large Language Models](2024年04月19日/Action_Contextualization_Adaptive_Task_Planning_and_Action_Tuning_using_Large_Language_Models.md)
 
-    - [翻译: 动作情境化：利用大型语言模型实现任务规划的智能适应与动作细节的精准调整。](2024年04月19日/Action_Contextualization_Adaptive_Task_Planning_and_Action_Tuning_using_Large_Language_Models.md)
+    - [翻译: 动作情境化：利用大型语言模型实现任务规划与动作调节的智能适应。](2024年04月19日/Action_Contextualization_Adaptive_Task_Planning_and_Action_Tuning_using_Large_Language_Models.md)
 
 - [CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models](2024年04月19日/CyberSecEval_2_A_Wide-Ranging_Cybersecurity_Evaluation_Suite_for_Large_Language_Models.md)
 
-    - [翻译: CyberSecEval 2：一套全面覆盖的大型语言模型网络安全评估工具集。](2024年04月19日/CyberSecEval_2_A_Wide-Ranging_Cybersecurity_Evaluation_Suite_for_Large_Language_Models.md)
+    - [翻译: CyberSecEval 2：为大型语言模型量身打造的全面网络安全评估工具集。](2024年04月19日/CyberSecEval_2_A_Wide-Ranging_Cybersecurity_Evaluation_Suite_for_Large_Language_Models.md)
 
 - [Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](2024年04月19日/Beyond_Self-Consistency_Ensemble_Reasoning_Boosts_Consistency_and_Accuracy_of_LLMs_in_Cancer_Staging.md)
 
-    - [翻译: 超越单一自洽：通过集成推理，大型语言模型在癌症分期任务中的一致性和准确性得到显著提升。](2024年04月19日/Beyond_Self-Consistency_Ensemble_Reasoning_Boosts_Consistency_and_Accuracy_of_LLMs_in_Cancer_Staging.md)
+    - [翻译: 超越单一自洽：通过集成推理，我们提升了大型语言模型在癌症分期任务中的一致性和准确度。](2024年04月19日/Beyond_Self-Consistency_Ensemble_Reasoning_Boosts_Consistency_and_Accuracy_of_LLMs_in_Cancer_Staging.md)
 
 - [Mathify: Evaluating Large Language Models on Mathematical Problem Solving Tasks](2024年04月19日/Mathify_Evaluating_Large_Language_Models_on_Mathematical_Problem_Solving_Tasks.md)
 
-    - [翻译: Mathify：探究大型语言模型在数学解题任务上的表现](2024年04月19日/Mathify_Evaluating_Large_Language_Models_on_Mathematical_Problem_Solving_Tasks.md)
+    - [翻译: Mathify：探究大型语言模型在数学问题解决任务上的应用与效能](2024年04月19日/Mathify_Evaluating_Large_Language_Models_on_Mathematical_Problem_Solving_Tasks.md)
 
 2024年04月18日
 
@@ -930,7 +930,7 @@
 
 - [TREACLE: Thrifty Reasoning via Context-Aware LLM and Prompt Selection](2024年04月17日/TREACLE_Thrifty_Reasoning_via_Context-Aware_LLM_and_Prompt_Selection.md)
 
-    - [翻译: TREACLE：一种经济高效的推理方法，它利用了对上下文敏感的大型语言模型和精心挑选的提示。](2024年04月17日/TREACLE_Thrifty_Reasoning_via_Context-Aware_LLM_and_Prompt_Selection.md)
+    - [翻译: TREACLE：一种通过考虑上下文的大型语言模型和精心选择的提示来实现高效推理的方法。](2024年04月17日/TREACLE_Thrifty_Reasoning_via_Context-Aware_LLM_and_Prompt_Selection.md)
 
 2024年04月16日
 
@@ -1156,7 +1156,7 @@
 
 - [SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs](2024年04月16日/SuRe_Summarizing_Retrievals_using_Answer_Candidates_for_Open-domain_QA_of_LLMs.md)
 
-    - [翻译: SuRe：为大型语言模型（LLMs）的开放域问答任务，通过候选答案对检索结果进行智能总结。](2024年04月16日/SuRe_Summarizing_Retrievals_using_Answer_Candidates_for_Open-domain_QA_of_LLMs.md)
+    - [翻译: SuRe：为大型语言模型（LLMs）的开放域问答任务，通过候选答案对检索结果进行精炼总结。](2024年04月16日/SuRe_Summarizing_Retrievals_using_Answer_Candidates_for_Open-domain_QA_of_LLMs.md)
 
 2024年04月15日
 
@@ -1434,7 +1434,7 @@
 
 - [Improving the Capabilities of Large Language Model Based Marketing Analytics Copilots With Semantic Search And Fine-Tuning](2024年04月15日/Improving_the_Capabilities_of_Large_Language_Model_Based_Marketing_Analytics_Copilots_With_Semantic_Search_And_Fine-Tuning.md)
 
-    - [翻译: 利用语义搜索和微调技术，我们能够显著提升基于大型语言模型的营销分析辅助系统的性能。](2024年04月15日/Improving_the_Capabilities_of_Large_Language_Model_Based_Marketing_Analytics_Copilots_With_Semantic_Search_And_Fine-Tuning.md)
+    - [翻译: 利用语义搜索和微调技术，增强大型语言模型在营销分析领域的应用能力。](2024年04月15日/Improving_the_Capabilities_of_Large_Language_Model_Based_Marketing_Analytics_Copilots_With_Semantic_Search_And_Fine-Tuning.md)
 
 - [LLM Evaluators Recognize and Favor Their Own Generations](2024年04月15日/LLM_Evaluators_Recognize_and_Favor_Their_Own_Generations.md)
 
@@ -1442,11 +1442,11 @@
 
 - [Towards Compositionally Generalizable Semantic Parsing in Large Language Models: A Survey](2024年04月15日/Towards_Compositionally_Generalizable_Semantic_Parsing_in_Large_Language_Models_A_Survey.md)
 
-    - [翻译: 探索大型语言模型中的组合泛化语义解析：一项综述研究](2024年04月15日/Towards_Compositionally_Generalizable_Semantic_Parsing_in_Large_Language_Models_A_Survey.md)
+    - [翻译: 探索大型语言模型中的组合泛化语义解析：综述研究](2024年04月15日/Towards_Compositionally_Generalizable_Semantic_Parsing_in_Large_Language_Models_A_Survey.md)
 
 - [Modeling Emotions and Ethics with Large Language Models](2024年04月15日/Modeling_Emotions_and_Ethics_with_Large_Language_Models.md)
 
-    - [翻译: 在大型语言模型中，情感与伦理的模拟是一个重要的研究领域。](2024年04月15日/Modeling_Emotions_and_Ethics_with_Large_Language_Models.md)
+    - [翻译: 在大型语言模型中，情感与伦理的建模是一个重要议题。](2024年04月15日/Modeling_Emotions_and_Ethics_with_Large_Language_Models.md)
 
 2024年04月14日
 
@@ -1516,7 +1516,7 @@
 
 - [Evidence from counterfactual tasks supports emergent analogical reasoning in large language models](2024年04月14日/Evidence_from_counterfactual_tasks_supports_emergent_analogical_reasoning_in_large_language_models.md)
 
-    - [翻译: 反事实任务的证据表明，在大型语言模型中，类比推理的能力正在逐渐显现。](2024年04月14日/Evidence_from_counterfactual_tasks_supports_emergent_analogical_reasoning_in_large_language_models.md)
+    - [翻译: 反事实任务的证据表明，大型语言模型能够展现出类比推理的能力。](2024年04月14日/Evidence_from_counterfactual_tasks_supports_emergent_analogical_reasoning_in_large_language_models.md)
 
 2024年04月13日
 
@@ -1598,7 +1598,7 @@
 
 - [Towards Efficient Resume Understanding: A Multi-Granularity Multi-Modal Pre-Training Approach](2024年04月13日/Towards_Efficient_Resume_Understanding_A_Multi-Granularity_Multi-Modal_Pre-Training_Approach.md)
 
-    - [翻译: 迈向高效简历解析：采用多粒度多模态预训练技术](2024年04月13日/Towards_Efficient_Resume_Understanding_A_Multi-Granularity_Multi-Modal_Pre-Training_Approach.md)
+    - [翻译: 迈向高效简历解析：采用多粒度多模态的预训练策略](2024年04月13日/Towards_Efficient_Resume_Understanding_A_Multi-Granularity_Multi-Modal_Pre-Training_Approach.md)
 
 2024年04月12日
 
