@@ -932,6 +932,10 @@
 
     - [翻译: TREACLE：一种通过考虑上下文的大型语言模型和精心选择的提示来实现高效推理的方法。](2024年04月17日/TREACLE_Thrifty_Reasoning_via_Context-Aware_LLM_and_Prompt_Selection.md)
 
+- [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](2024年04月17日/The_Landscape_of_Emerging_AI_Agent_Architectures_for_Reasoning,_Planning,_and_Tool_Calling_A_Survey.md)
+
+    - [翻译: 探索新兴AI代理架构：推理、规划与工具调用的全景调查](2024年04月17日/The_Landscape_of_Emerging_AI_Agent_Architectures_for_Reasoning,_Planning,_and_Tool_Calling_A_Survey.md)
+
 2024年04月16日
 
 - [Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training](2024年04月16日/Construction_of_Domain-specified_Japanese_Large_Language_Model_for_Finance_through_Continual_Pre-training.md)
