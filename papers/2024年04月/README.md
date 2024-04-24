@@ -1,5 +1,11 @@
 # 2024年04月
 
+2024年04月23日
+
+- [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](2024年04月23日/Multimodal_Large_Language_Model_is_a_Human-Aligned_Annotator_for_Text-to-Image_Generation.md)
+
+    - [翻译: 多模态大型语言模型，作为文本到图像生成任务的人类对齐注释器，展现出卓越的性能。](2024年04月23日/Multimodal_Large_Language_Model_is_a_Human-Aligned_Annotator_for_Text-to-Image_Generation.md)
+
 2024年04月22日
 
 - [Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals](2024年04月22日/Surveying_Attitudinal_Alignment_Between_Large_Language_Models_Vs._Humans_Towards_17_Sustainable_Development_Goals.md)
