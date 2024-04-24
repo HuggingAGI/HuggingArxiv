@@ -6,6 +6,138 @@
 
     - [翻译: 多模态大型语言模型，作为文本到图像生成任务的人类对齐注释器，展现出卓越的性能。](2024年04月23日/Multimodal_Large_Language_Model_is_a_Human-Aligned_Annotator_for_Text-to-Image_Generation.md)
 
+- [XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts](2024年04月23日/XFT_Unlocking_the_Power_of_Code_Instruction_Tuning_by_Simply_Merging_Upcycled_Mixture-of-Experts.md)
+
+    - [翻译: XFT：轻松融合再利用的专家混合模型，释放代码指令优化的强大能量。](2024年04月23日/XFT_Unlocking_the_Power_of_Code_Instruction_Tuning_by_Simply_Merging_Upcycled_Mixture-of-Experts.md)
+
+- [Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models](2024年04月23日/Revisiting_Unnaturalness_for_Automated_Program_Repair_in_the_Era_of_Large_Language_Models.md)
+
+    - [翻译: 在大型语言模型盛行的当下，我们有必要重新探讨自动化程序修复领域中的“不自然性”问题。](2024年04月23日/Revisiting_Unnaturalness_for_Automated_Program_Repair_in_the_Era_of_Large_Language_Models.md)
+
+- [Re-Thinking Inverse Graphics With Large Language Models](2024年04月23日/Re-Thinking_Inverse_Graphics_With_Large_Language_Models.md)
+
+    - [翻译: 在大型语言模型的辅助下，逆向图形学领域正经历着一场思维革新。尽管如此，LLMs 在图像生成任务上的表现和效率，依旧是一个备受争议的话题。](2024年04月23日/Re-Thinking_Inverse_Graphics_With_Large_Language_Models.md)
+
+- [Setting up the Data Printer with Improved English to Ukrainian Machine Translation](2024年04月23日/Setting_up_the_Data_Printer_with_Improved_English_to_Ukrainian_Machine_Translation.md)
+
+    - [翻译: 配置数据打印设备，以提升英语至乌克兰语的机器翻译质量。](2024年04月23日/Setting_up_the_Data_Printer_with_Improved_English_to_Ukrainian_Machine_Translation.md)
+
+- [Regressive Side Effects of Training Language Models to Mimic Student Misconceptions](2024年04月23日/Regressive_Side_Effects_of_Training_Language_Models_to_Mimic_Student_Misconceptions.md)
+
+    - [翻译: 训练语言模型以模仿学生的错误认知可能导致回归的副作用。](2024年04月23日/Regressive_Side_Effects_of_Training_Language_Models_to_Mimic_Student_Misconceptions.md)
+
+- [Bias patterns in the application of LLMs for clinical decision support: A comprehensive study](2024年04月23日/Bias_patterns_in_the_application_of_LLMs_for_clinical_decision_support_A_comprehensive_study.md)
+
+    - [翻译: 探究大型语言模型在临床决策支持应用中的偏见模式：一项深入的综合研究。](2024年04月23日/Bias_patterns_in_the_application_of_LLMs_for_clinical_decision_support_A_comprehensive_study.md)
+
+- [Rethinking LLM Memorization through the Lens of Adversarial Compression](2024年04月23日/Rethinking_LLM_Memorization_through_the_Lens_of_Adversarial_Compression.md)
+
+    - [翻译: 透过对抗性压缩的透镜，我们重新审视大型语言模型的记忆力。](2024年04月23日/Rethinking_LLM_Memorization_through_the_Lens_of_Adversarial_Compression.md)
+
+- [MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning](2024年04月23日/MedDr_Diagnosis-Guided_Bootstrapping_for_Large-Scale_Medical_Vision-Language_Learning.md)
+
+    - [翻译: MedDr：一种诊断导向的自举策略，专为大规模医学视觉与语言学习而设计。](2024年04月23日/MedDr_Diagnosis-Guided_Bootstrapping_for_Large-Scale_Medical_Vision-Language_Learning.md)
+
+- [A Short Review for Ontology Learning from Text: Stride from Shallow Learning, Deep Learning to Large Language Models Trend](2024年04月23日/A_Short_Review_for_Ontology_Learning_from_Text_Stride_from_Shallow_Learning,_Deep_Learning_to_Large_Language_Models_Trend.md)
+
+    - [翻译: 文本本体学习简评：浅学、深学至大型语言模型的演进趋势](2024年04月23日/A_Short_Review_for_Ontology_Learning_from_Text_Stride_from_Shallow_Learning,_Deep_Learning_to_Large_Language_Models_Trend.md)
+
+- [Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case](2024年04月23日/Social_Media_and_Artificial_Intelligence_for_Sustainable_Cities_and_Societies_A_Water_Quality_Analysis_Use-case.md)
+
+    - [翻译: 社交媒体与人工智能在推动可持续城市与社会发展中的应用：以水质分析为例](2024年04月23日/Social_Media_and_Artificial_Intelligence_for_Sustainable_Cities_and_Societies_A_Water_Quality_Analysis_Use-case.md)
+
+- [Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction](2024年04月23日/Vision_Beyond_Boundaries_An_Initial_Design_Space_of_Domain-specific_Large_Vision_Models_in_Human-robot_Interaction.md)
+
+    - [翻译: 视野无界：人机互动领域定制大型视觉模型的初步设计探索。](2024年04月23日/Vision_Beyond_Boundaries_An_Initial_Design_Space_of_Domain-specific_Large_Vision_Models_in_Human-robot_Interaction.md)
+
+- [Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners](2024年04月23日/Achieving_97%_on_GSM8K_Deeply_Understanding_the_Problems_Makes_LLMs_Perfect_Reasoners.md)
+
+    - [翻译: 在 GSM8K 测试中突破 97% 的高标：深入剖析问题，让大型语言模型化身为卓越的推理专家。](2024年04月23日/Achieving_97%_on_GSM8K_Deeply_Understanding_the_Problems_Makes_LLMs_Perfect_Reasoners.md)
+
+- [StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations](2024年04月23日/StoryTTS_A_Highly_Expressive_Text-to-Speech_Dataset_with_Rich_Textual_Expressiveness_Annotations.md)
+
+    - [翻译: StoryTTS：一款极具表现力的文本到语音数据集，配备了详尽的文本表达性标注。](2024年04月23日/StoryTTS_A_Highly_Expressive_Text-to-Speech_Dataset_with_Rich_Textual_Expressiveness_Annotations.md)
+
+- [Graph Machine Learning in the Era of Large Language Models (LLMs)](2024年04月23日/Graph_Machine_Learning_in_the_Era_of_Large_Language_Models_(LLMs).md)
+
+    - [翻译: 在大型语言模型（LLMs）盛行的时代，图机器学习正发挥着重要作用。](2024年04月23日/Graph_Machine_Learning_in_the_Era_of_Large_Language_Models_(LLMs).md)
+
+- [Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models](2024年04月23日/Pillars_of_Grammatical_Error_Correction_Comprehensive_Inspection_Of_Contemporary_Approaches_In_The_Era_of_Large_Language_Models.md)
+
+    - [翻译: 语法错误修正的基石：深入审视大型语言模型时代下的现代方法。](2024年04月23日/Pillars_of_Grammatical_Error_Correction_Comprehensive_Inspection_Of_Contemporary_Approaches_In_The_Era_of_Large_Language_Models.md)
+
+- [Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice](2024年04月23日/Beyond_Code_Generation_An_Observational_Study_of_ChatGPT_Usage_in_Software_Engineering_Practice.md)
+
+    - [翻译: 探索代码生成之外：ChatGPT 在软件工程实践中的应用观察研究](2024年04月23日/Beyond_Code_Generation_An_Observational_Study_of_ChatGPT_Usage_in_Software_Engineering_Practice.md)
+
+- [Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models](2024年04月23日/Beyond_the_Speculative_Game_A_Survey_of_Speculative_Execution_in_Large_Language_Models.md)
+
+    - [翻译: 超越猜测游戏：深入探究大型语言模型中的推测性执行机制](2024年04月23日/Beyond_the_Speculative_Game_A_Survey_of_Speculative_Execution_in_Large_Language_Models.md)
+
+- [Language in Vivo vs. in Silico: Size Matters but Larger Language Models Still Do Not Comprehend Language on a Par with Humans](2024年04月23日/Language_in_Vivo_vs._in_Silico_Size_Matters_but_Larger_Language_Models_Still_Do_Not_Comprehend_Language_on_a_Par_with_Humans.md)
+
+    - [翻译: 活体语言与模拟语言：规模至关重要，然而即便是更庞大的语言模型，其对语言的理解也未能与人类相提并论。](2024年04月23日/Language_in_Vivo_vs._in_Silico_Size_Matters_but_Larger_Language_Models_Still_Do_Not_Comprehend_Language_on_a_Par_with_Humans.md)
+
+- [Automated Commit Message Generation with Large Language Models: An Empirical Study and Beyond](2024年04月23日/Automated_Commit_Message_Generation_with_Large_Language_Models_An_Empirical_Study_and_Beyond.md)
+
+    - [翻译: 大型语言模型在自动生成提交信息方面的应用：一项实证研究及其更深远的探讨](2024年04月23日/Automated_Commit_Message_Generation_with_Large_Language_Models_An_Empirical_Study_and_Beyond.md)
+
+- [Pattern-Aware Chain-of-Thought Prompting in Large Language Models](2024年04月23日/Pattern-Aware_Chain-of-Thought_Prompting_in_Large_Language_Models.md)
+
+    - [翻译: 在大型语言模型中，引入了一种模式感知的思考链路提示方法。](2024年04月23日/Pattern-Aware_Chain-of-Thought_Prompting_in_Large_Language_Models.md)
+
+- [A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications](2024年04月23日/A_Survey_of_Large_Language_Models_on_Generative_Graph_Analytics_Query,_Learning,_and_Applications.md)
+
+    - [翻译: 大型语言模型在生成图分析领域的研究综述：探讨查询、学习和应用。](2024年04月23日/A_Survey_of_Large_Language_Models_on_Generative_Graph_Analytics_Query,_Learning,_and_Applications.md)
+
+- [DesignProbe: A Graphic Design Benchmark for Multimodal Large Language Models](2024年04月23日/DesignProbe_A_Graphic_Design_Benchmark_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: DesignProbe：为多模态大型语言模型量身打造的图形设计基准测试工具](2024年04月23日/DesignProbe_A_Graphic_Design_Benchmark_for_Multimodal_Large_Language_Models.md)
+
+- [Talk Too Much: Poisoning Large Language Models under Token Limit](2024年04月23日/Talk_Too_Much_Poisoning_Large_Language_Models_under_Token_Limit.md)
+
+    - [翻译: 言多必失：在令牌限制条件下对大型语言模型进行数据污染](2024年04月23日/Talk_Too_Much_Poisoning_Large_Language_Models_under_Token_Limit.md)
+
+- [LLM-Enhanced Causal Discovery in Temporal Domain from Interventional Data](2024年04月23日/LLM-Enhanced_Causal_Discovery_in_Temporal_Domain_from_Interventional_Data.md)
+
+    - [翻译: 通过干预数据，大型语言模型（LLM）在时间领域的因果发现能力得到了增强。](2024年04月23日/LLM-Enhanced_Causal_Discovery_in_Temporal_Domain_from_Interventional_Data.md)
+
+- [Med42 -- Evaluating Fine-Tuning Strategies for Medical LLMs: Full-Parameter vs. Parameter-Efficient Approaches](2024年04月23日/Med42_--_Evaluating_Fine-Tuning_Strategies_for_Medical_LLMs_Full-Parameter_vs._Parameter-Efficient_Approaches.md)
+
+    - [翻译: Med42 -- 探讨医学领域大型语言模型的微调技巧：全面参数调整与高效参数利用策略的对决](2024年04月23日/Med42_--_Evaluating_Fine-Tuning_Strategies_for_Medical_LLMs_Full-Parameter_vs._Parameter-Efficient_Approaches.md)
+
+- [CT-Agent: Clinical Trial Multi-Agent with Large Language Model-based Reasoning](2024年04月23日/CT-Agent_Clinical_Trial_Multi-Agent_with_Large_Language_Model-based_Reasoning.md)
+
+    - [翻译: CT-Agent：融合大型语言模型推理能力的临床试验多智能体系统](2024年04月23日/CT-Agent_Clinical_Trial_Multi-Agent_with_Large_Language_Model-based_Reasoning.md)
+
+- [Contrastive Quantization based Semantic Code for Generative Recommendation](2024年04月23日/Contrastive_Quantization_based_Semantic_Code_for_Generative_Recommendation.md)
+
+    - [翻译: 对比量化语义编码技术在生成推荐系统中的应用](2024年04月23日/Contrastive_Quantization_based_Semantic_Code_for_Generative_Recommendation.md)
+
+- [Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models](2024年04月23日/Simulating_Task-Oriented_Dialogues_with_State_Transition_Graphs_and_Large_Language_Models.md)
+
+    - [翻译: 通过状态转移图和先进的大型语言模型，我们能够模拟出面向特定任务的对话场景。](2024年04月23日/Simulating_Task-Oriented_Dialogues_with_State_Transition_Graphs_and_Large_Language_Models.md)
+
+- [Retrieval Augmented Generation for Domain-specific Question Answering](2024年04月23日/Retrieval_Augmented_Generation_for_Domain-specific_Question_Answering.md)
+
+    - [翻译: 为特定领域的问题回答，采用检索增强的生成技术。](2024年04月23日/Retrieval_Augmented_Generation_for_Domain-specific_Question_Answering.md)
+
+- [TAAT: Think and Act from Arbitrary Texts in Text2Motion](2024年04月23日/TAAT_Think_and_Act_from_Arbitrary_Texts_in_Text2Motion.md)
+
+    - [翻译: TAAT：在 Text2Motion 技术中，任意文本触发思考与行动](2024年04月23日/TAAT_Think_and_Act_from_Arbitrary_Texts_in_Text2Motion.md)
+
+- [Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering](2024年04月23日/Generate-on-Graph_Treat_LLM_as_both_Agent_and_KG_in_Incomplete_Knowledge_Graph_Question_Answering.md)
+
+    - [翻译: 在不完整的知识图谱问答任务中，我们将大型语言模型（LLM）视作既是行动者也是知识库。](2024年04月23日/Generate-on-Graph_Treat_LLM_as_both_Agent_and_KG_in_Incomplete_Knowledge_Graph_Question_Answering.md)
+
+- [From Matching to Generation: A Survey on Generative Information Retrieval](2024年04月23日/From_Matching_to_Generation_A_Survey_on_Generative_Information_Retrieval.md)
+
+    - [翻译: 探索信息检索的创新路径：从匹配到生成的生成式信息检索综述](2024年04月23日/From_Matching_to_Generation_A_Survey_on_Generative_Information_Retrieval.md)
+
+- [Aligning LLM Agents by Learning Latent Preference from User Edits](2024年04月23日/Aligning_LLM_Agents_by_Learning_Latent_Preference_from_User_Edits.md)
+
+    - [翻译: 通过分析用户编辑，我们能够学习到用户的潜在偏好，进而调整大型语言模型（LLM）代理的行为，使之更好地符合用户的需求。](2024年04月23日/Aligning_LLM_Agents_by_Learning_Latent_Preference_from_User_Edits.md)
+
 2024年04月22日
 
 - [Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals](2024年04月22日/Surveying_Attitudinal_Alignment_Between_Large_Language_Models_Vs._Humans_Towards_17_Sustainable_Development_Goals.md)
@@ -180,6 +312,78 @@
 
     - [翻译: 提炼客户评论，创作引人入胜且真实的文案](2024年04月22日/Generating_Attractive_and_Authentic_Copywriting_from_Customer_Reviews.md)
 
+- [Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication](2024年04月22日/Pixels_and_Predictions_Potential_of_GPT-4V_in_Meteorological_Imagery_Analysis_and_Forecast_Communication.md)
+
+    - [翻译: 像素与预测：探索 GPT-4V 在气象图像分析及预报传达中的潜在能力](2024年04月22日/Pixels_and_Predictions_Potential_of_GPT-4V_in_Meteorological_Imagery_Analysis_and_Forecast_Communication.md)
+
+- [Expert Router: Orchestrating Efficient Language Model Inference through Prompt Classification](2024年04月22日/Expert_Router_Orchestrating_Efficient_Language_Model_Inference_through_Prompt_Classification.md)
+
+    - [翻译: 专家路由器：通过精准的提示分类，优化语言模型的推理效率。](2024年04月22日/Expert_Router_Orchestrating_Efficient_Language_Model_Inference_through_Prompt_Classification.md)
+
+- [Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks](2024年04月22日/Insights_into_Alignment_Evaluating_DPO_and_its_Variants_Across_Multiple_Tasks.md)
+
+    - [翻译: 深入对齐之洞察：跨多任务评估 DPO 及其衍生模型的表现](2024年04月22日/Insights_into_Alignment_Evaluating_DPO_and_its_Variants_Across_Multiple_Tasks.md)
+
+- [Bayesian Example Selection Improves In-Context Learning for Speech, Text, and Visual Modalities](2024年04月22日/Bayesian_Example_Selection_Improves_In-Context_Learning_for_Speech,_Text,_and_Visual_Modalities.md)
+
+    - [翻译: 采用贝叶斯方法精选示例，显著提升了语音、文本和视觉模式的情境学习效果。](2024年04月22日/Bayesian_Example_Selection_Improves_In-Context_Learning_for_Speech,_Text,_and_Visual_Modalities.md)
+
+- [FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction](2024年04月22日/FINEMATCH_Aspect-based_Fine-grained_Image_and_Text_Mismatch_Detection_and_Correction.md)
+
+    - [翻译: FINEMATCH：面向细粒度的图像与文本不匹配问题的检测与校正技术，专注于基于方面的精准识别与修正。](2024年04月22日/FINEMATCH_Aspect-based_Fine-grained_Image_and_Text_Mismatch_Detection_and_Correction.md)
+
+- [Think-Program-reCtify: 3D Situated Reasoning with Large Language Models](2024年04月22日/Think-Program-reCtify_3D_Situated_Reasoning_with_Large_Language_Models.md)
+
+    - [翻译: 思考、编程、纠正：运用大型语言模型实现三维情境推理](2024年04月22日/Think-Program-reCtify_3D_Situated_Reasoning_with_Large_Language_Models.md)
+
+- [FlashSpeech: Efficient Zero-Shot Speech Synthesis](2024年04月22日/FlashSpeech_Efficient_Zero-Shot_Speech_Synthesis.md)
+
+    - [翻译: FlashSpeech：零次拍摄下的高效语音合成](2024年04月22日/FlashSpeech_Efficient_Zero-Shot_Speech_Synthesis.md)
+
+- [Uncovering Name-Based Biases in Large Language Models Through Simulated Trust Game](2024年04月22日/Uncovering_Name-Based_Biases_in_Large_Language_Models_Through_Simulated_Trust_Game.md)
+
+    - [翻译: 我们通过模拟信任游戏的方式，揭露了大型语言模型中潜藏的基于姓名的偏见。](2024年04月22日/Uncovering_Name-Based_Biases_in_Large_Language_Models_Through_Simulated_Trust_Game.md)
+
+- [Automated Multi-Language to English Machine Translation Using Generative Pre-Trained Transformers](2024年04月22日/Automated_Multi-Language_to_English_Machine_Translation_Using_Generative_Pre-Trained_Transformers.md)
+
+    - [翻译: 利用生成式预训练变换器实现的自动化多语言至英语机器翻译。](2024年04月22日/Automated_Multi-Language_to_English_Machine_Translation_Using_Generative_Pre-Trained_Transformers.md)
+
+- [3DBench: A Scalable 3D Benchmark and Instruction-Tuning Dataset](2024年04月22日/3DBench_A_Scalable_3D_Benchmark_and_Instruction-Tuning_Dataset.md)
+
+    - [翻译: 3DBench：一个可扩展的三维基准测试及指令微调数据集](2024年04月22日/3DBench_A_Scalable_3D_Benchmark_and_Instruction-Tuning_Dataset.md)
+
+- [DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance](2024年04月22日/DreamPBR_Text-driven_Generation_of_High-resolution_SVBRDF_with_Multi-modal_Guidance.md)
+
+    - [翻译: DreamPBR：一种文本驱动的高分辨率SVBRDF生成技术，辅以多模态引导功能。](2024年04月22日/DreamPBR_Text-driven_Generation_of_High-resolution_SVBRDF_with_Multi-modal_Guidance.md)
+
+- [NExT: Teaching Large Language Models to Reason about Code Execution](2024年04月22日/NExT_Teaching_Large_Language_Models_to_Reason_about_Code_Execution.md)
+
+    - [翻译: NExT：引导大型语言模型理解代码执行的逻辑](2024年04月22日/NExT_Teaching_Large_Language_Models_to_Reason_about_Code_Execution.md)
+
+- [Exploring and Unleashing the Power of Large Language Models in Automated Code Translation](2024年04月22日/Exploring_and_Unleashing_the_Power_of_Large_Language_Models_in_Automated_Code_Translation.md)
+
+    - [翻译: 深入挖掘并充分发挥大型语言模型在自动化代码翻译领域的潜力。](2024年04月22日/Exploring_and_Unleashing_the_Power_of_Large_Language_Models_in_Automated_Code_Translation.md)
+
+- [Learning Word Embedding with Better Distance Weighting and Window Size Scheduling](2024年04月22日/Learning_Word_Embedding_with_Better_Distance_Weighting_and_Window_Size_Scheduling.md)
+
+    - [翻译: 采用优化的距离权重和窗口大小调整策略，提升词嵌入学习效果。](2024年04月22日/Learning_Word_Embedding_with_Better_Distance_Weighting_and_Window_Size_Scheduling.md)
+
+- [Tree of Reviews: A Tree-based Dynamic Iterative Retrieval Framework for Multi-hop Question Answering](2024年04月22日/Tree_of_Reviews_A_Tree-based_Dynamic_Iterative_Retrieval_Framework_for_Multi-hop_Question_Answering.md)
+
+    - [翻译: 《树状评论：构建基于树的动态迭代检索框架，以应对多跳问答挑战》](2024年04月22日/Tree_of_Reviews_A_Tree-based_Dynamic_Iterative_Retrieval_Framework_for_Multi-hop_Question_Answering.md)
+
+- ["Where am I?" Scene Retrieval with Language](2024年04月22日/Where_am_I_Scene_Retrieval_with_Language.md)
+
+    - [翻译: 我身在何方？用语言探索场景检索](2024年04月22日/Where_am_I_Scene_Retrieval_with_Language.md)
+
+- [Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training](2024年04月22日/Describe-then-Reason_Improving_Multimodal_Mathematical_Reasoning_through_Visual_Comprehension_Training.md)
+
+    - [翻译: 通过视觉理解训练提升多模态数学推理：先描述，再推理](2024年04月22日/Describe-then-Reason_Improving_Multimodal_Mathematical_Reasoning_through_Visual_Comprehension_Training.md)
+
+- [WangLab at MEDIQA-M3G 2024: Multimodal Medical Answer Generation using Large Language Models](2024年04月22日/WangLab_at_MEDIQA-M3G_2024_Multimodal_Medical_Answer_Generation_using_Large_Language_Models.md)
+
+    - [翻译: 2024年，WangLab 在 MEDIQA-M3G 竞赛中展示了他们的成果：利用大型语言模型，实现了多模态医学答案的生成。](2024年04月22日/WangLab_at_MEDIQA-M3G_2024_Multimodal_Medical_Answer_Generation_using_Large_Language_Models.md)
+
 2024年04月21日
 
 - [Understanding the role of FFNs in driving multilingual behaviour in LLMs](2024年04月21日/Understanding_the_role_of_FFNs_in_driving_multilingual_behaviour_in_LLMs.md)
@@ -257,6 +461,18 @@
 - [General Item Representation Learning for Cold-start Content Recommendations](2024年04月21日/General_Item_Representation_Learning_for_Cold-start_Content_Recommendations.md)
 
     - [翻译: 为冷启动内容推荐而设计的通用物品表示学习](2024年04月21日/General_Item_Representation_Learning_for_Cold-start_Content_Recommendations.md)
+
+- [MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA based Mixture of Experts](2024年04月21日/MixLoRA_Enhancing_Large_Language_Models_Fine-Tuning_with_LoRA_based_Mixture_of_Experts.md)
+
+    - [翻译: MixLoRA：借助 LoRA 技术，通过专家混合策略提升大型语言模型的微调效果。](2024年04月21日/MixLoRA_Enhancing_Large_Language_Models_Fine-Tuning_with_LoRA_based_Mixture_of_Experts.md)
+
+- [FASTTRACK: Fast and Accurate Fact Tracing for LLMs](2024年04月21日/FASTTRACK_Fast_and_Accurate_Fact_Tracing_for_LLMs.md)
+
+    - [翻译: FASTTRACK：一种为大型语言模型（LLMs）量身定制的高效精准事实追踪技术。](2024年04月21日/FASTTRACK_Fast_and_Accurate_Fact_Tracing_for_LLMs.md)
+
+- [Interpreting COVID Lateral Flow Tests' Results with Foundation Models](2024年04月21日/Interpreting_COVID_Lateral_Flow_Tests'_Results_with_Foundation_Models.md)
+
+    - [翻译: 借助基础模型，我们能够更准确地解读 COVID 侧向流动测试的结果。](2024年04月21日/Interpreting_COVID_Lateral_Flow_Tests'_Results_with_Foundation_Models.md)
 
 2024年04月20日
 
@@ -2405,6 +2621,10 @@
 - [Apollonion: Profile-centric Dialog Agent](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
 
     - [翻译: Apollonion：以用户画像为核心的智能对话助手。](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
+
+- [Text2Grasp: Grasp synthesis by text prompts of object grasping parts](2024年04月09日/Text2Grasp_Grasp_synthesis_by_text_prompts_of_object_grasping_parts.md)
+
+    - [翻译: Text2Grasp：通过文字描述物体的抓握部位来实现抓取动作的合成](2024年04月09日/Text2Grasp_Grasp_synthesis_by_text_prompts_of_object_grasping_parts.md)
 
 2024年04月08日
 
