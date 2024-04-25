@@ -126,6 +126,18 @@
 
     - [翻译: MMT-Bench 是一套全面的多模态基准测试工具，旨在评估大型视觉-语言模型在迈向多任务通用人工智能（AGI）进程中的性能。](2024年04月24日/MMT-Bench_A_Comprehensive_Multimodal_Benchmark_for_Evaluating_Large_Vision-Language_Models_Towards_Multitask_AGI.md)
 
+- [The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](2024年04月24日/The_PRISM_Alignment_Project_What_Participatory,_Representative_and_Individualised_Human_Feedback_Reveals_About_the_Subjective_and_Multicultural_Alignment_of_Large_Language_Models.md)
+
+    - [翻译: PRISM 对齐计划：透过参与式、具代表性及个性化的人类反馈，我们得以洞察大型语言模型在主观感受与多元文化适配方面的深层意义。](2024年04月24日/The_PRISM_Alignment_Project_What_Participatory,_Representative_and_Individualised_Human_Feedback_Reveals_About_the_Subjective_and_Multicultural_Alignment_of_Large_Language_Models.md)
+
+- [Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach](2024年04月24日/Uncertainty_Estimation_and_Quantification_for_LLMs_A_Simple_Supervised_Approach.md)
+
+    - [翻译: 为大型语言模型（LLMs）进行不确定性的评估与量化：一种简洁的监督式途径。](2024年04月24日/Uncertainty_Estimation_and_Quantification_for_LLMs_A_Simple_Supervised_Approach.md)
+
+- [Sequence can Secretly Tell You What to Discard](2024年04月24日/Sequence_can_Secretly_Tell_You_What_to_Discard.md)
+
+    - [翻译: 序列能够悄无声息地指引你哪些信息可以舍弃。](2024年04月24日/Sequence_can_Secretly_Tell_You_What_to_Discard.md)
+
 2024年04月23日
 
 - [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](2024年04月23日/Multimodal_Large_Language_Model_is_a_Human-Aligned_Annotator_for_Text-to-Image_Generation.md)
