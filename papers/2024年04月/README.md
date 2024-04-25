@@ -332,6 +332,10 @@
 
     - [翻译: PRISM：利用大型语言模型，对患者病历进行深入解读，以实现语义化的临床试验匹配。](2024年04月23日/PRISM_Patient_Records_Interpretation_for_Semantic_Clinical_Trial_Matching_using_Large_Language_Models.md)
 
+- [BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis](2024年04月23日/BattleAgent_Multi-modal_Dynamic_Emulation_on_Historical_Battles_to_Complement_Historical_Analysis.md)
+
+    - [翻译: BattleAgent：通过在历史战役上的多模态动态仿真，为历史分析提供补充。](2024年04月23日/BattleAgent_Multi-modal_Dynamic_Emulation_on_Historical_Battles_to_Complement_Historical_Analysis.md)
+
 2024年04月22日
 
 - [Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals](2024年04月22日/Surveying_Attitudinal_Alignment_Between_Large_Language_Models_Vs._Humans_Towards_17_Sustainable_Development_Goals.md)
