@@ -54,6 +54,78 @@
 
     - [翻译: 借助大型语言模型，我们能够开展多模态搜索，这一方法能够有效地整合和检索来自不同模态的信息。](2024年04月24日/Leveraging_Large_Language_Models_for_Multimodal_Search.md)
 
+- [Assessing The Potential Of Mid-Sized Language Models For Clinical QA](2024年04月24日/Assessing_The_Potential_Of_Mid-Sized_Language_Models_For_Clinical_QA.md)
+
+    - [翻译: 探讨中等规模语言模型在临床问答领域的应用潜力。](2024年04月24日/Assessing_The_Potential_Of_Mid-Sized_Language_Models_For_Clinical_QA.md)
+
+- [Semantic Routing for Enhanced Performance of LLM-Assisted Intent-Based 5G Core Network Management and Orchestration](2024年04月24日/Semantic_Routing_for_Enhanced_Performance_of_LLM-Assisted_Intent-Based_5G_Core_Network_Management_and_Orchestration.md)
+
+    - [翻译: 通过引入语义路由技术，我们旨在提升大型语言模型（LLM）在辅助实现基于意图的5G核心网络管理和编排方面的性能。](2024年04月24日/Semantic_Routing_for_Enhanced_Performance_of_LLM-Assisted_Intent-Based_5G_Core_Network_Management_and_Orchestration.md)
+
+- [Porting Large Language Models to Mobile Devices for Question Answering](2024年04月24日/Porting_Large_Language_Models_to_Mobile_Devices_for_Question_Answering.md)
+
+    - [翻译: 将大型语言模型迁移至移动设备，以实现问答功能](2024年04月24日/Porting_Large_Language_Models_to_Mobile_Devices_for_Question_Answering.md)
+
+- [Detecting Conceptual Abstraction in LLMs](2024年04月24日/Detecting_Conceptual_Abstraction_in_LLMs.md)
+
+    - [翻译: 探索大型语言模型中的概念抽象识别](2024年04月24日/Detecting_Conceptual_Abstraction_in_LLMs.md)
+
+- [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](2024年04月24日/From_Complex_to_Simple_Enhancing_Multi-Constraint_Complex_Instruction_Following_Ability_of_Large_Language_Models.md)
+
+    - [翻译: 化繁为简：提升大型语言模型执行多约束复杂指令的能力](2024年04月24日/From_Complex_to_Simple_Enhancing_Multi-Constraint_Complex_Instruction_Following_Ability_of_Large_Language_Models.md)
+
+- [Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation](2024年04月24日/Exploring_LLM_Prompting_Strategies_for_Joint_Essay_Scoring_and_Feedback_Generation.md)
+
+    - [翻译: 本研究旨在探索大型语言模型在论文评分与反馈生成任务中的提示策略，以期提高评分的准确性和反馈的有效性。](2024年04月24日/Exploring_LLM_Prompting_Strategies_for_Joint_Essay_Scoring_and_Feedback_Generation.md)
+
+- [GeckOpt: LLM System Efficiency via Intent-Based Tool Selection](2024年04月24日/GeckOpt_LLM_System_Efficiency_via_Intent-Based_Tool_Selection.md)
+
+    - [翻译: GeckOpt：通过意图驱动的工具选择优化大型语言模型的系统效能。](2024年04月24日/GeckOpt_LLM_System_Efficiency_via_Intent-Based_Tool_Selection.md)
+
+- [Towards the relationship between AIGC in manuscript writing and author profiles: evidence from preprints in LLMs](2024年04月24日/Towards_the_relationship_between_AIGC_in_manuscript_writing_and_author_profiles_evidence_from_preprints_in_LLMs.md)
+
+    - [翻译: 探讨手稿撰写中人工智能生成内容（AIGC）与作者个人资料之间的联系：以大型语言模型（LLMs）的预印本为研究依据。](2024年04月24日/Towards_the_relationship_between_AIGC_in_manuscript_writing_and_author_profiles_evidence_from_preprints_in_LLMs.md)
+
+- [Large Language Models as In-context AI Generators for Quality-Diversity](2024年04月24日/Large_Language_Models_as_In-context_AI_Generators_for_Quality-Diversity.md)
+
+    - [翻译: 大型语言模型，作为质量多样性的上下文AI生成器。](2024年04月24日/Large_Language_Models_as_In-context_AI_Generators_for_Quality-Diversity.md)
+
+- [Risk or Chance? Large Language Models and Reproducibility in Human-Computer Interaction Research](2024年04月24日/Risk_or_Chance_Large_Language_Models_and_Reproducibility_in_Human-Computer_Interaction_Research.md)
+
+    - [翻译: 风险还是机遇？探讨大型语言模型在人机交互研究中对可复制性的影响。](2024年04月24日/Risk_or_Chance_Large_Language_Models_and_Reproducibility_in_Human-Computer_Interaction_Research.md)
+
+- [BASS: Batched Attention-optimized Speculative Sampling](2024年04月24日/BASS_Batched_Attention-optimized_Speculative_Sampling.md)
+
+    - [翻译: BASS：批量优化的注意力驱动推测抽样](2024年04月24日/BASS_Batched_Attention-optimized_Speculative_Sampling.md)
+
+- [A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry](2024年04月24日/A_Comprehensive_Survey_on_Evaluating_Large_Language_Model_Applications_in_the_Medical_Industry.md)
+
+    - [翻译: 全面审视医疗领域大型语言模型的应用评估](2024年04月24日/A_Comprehensive_Survey_on_Evaluating_Large_Language_Model_Applications_in_the_Medical_Industry.md)
+
+- [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts](2024年04月24日/Studying_Large_Language_Model_Behaviors_Under_Realistic_Knowledge_Conflicts.md)
+
+    - [翻译: 探究大型语言模型在现实知识冲突场景下的表现](2024年04月24日/Studying_Large_Language_Model_Behaviors_Under_Realistic_Knowledge_Conflicts.md)
+
+- [Telco-RAG: Navigating the Challenges of Retrieval-Augmented Language Models for Telecommunications](2024年04月24日/Telco-RAG_Navigating_the_Challenges_of_Retrieval-Augmented_Language_Models_for_Telecommunications.md)
+
+    - [翻译: Telco-RAG：在电信行业中，检索增强型语言模型面临诸多挑战，本文旨在探讨并应对这些挑战。](2024年04月24日/Telco-RAG_Navigating_the_Challenges_of_Retrieval-Augmented_Language_Models_for_Telecommunications.md)
+
+- [A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples](2024年04月24日/A_Human-Computer_Collaborative_Tool_for_Training_a_Single_Large_Language_Model_Agent_into_a_Network_through_Few_Examples.md)
+
+    - [翻译: 一款人机协作工具，通过少量示例，将单一的大型语言模型代理培养成为网络的一部分。](2024年04月24日/A_Human-Computer_Collaborative_Tool_for_Training_a_Single_Large_Language_Model_Agent_into_a_Network_through_Few_Examples.md)
+
+- [KGValidator: A Framework for Automatic Validation of Knowledge Graph Construction](2024年04月24日/KGValidator_A_Framework_for_Automatic_Validation_of_Knowledge_Graph_Construction.md)
+
+    - [翻译: KGValidator：自动化验证知识图谱构建的框架。](2024年04月24日/KGValidator_A_Framework_for_Automatic_Validation_of_Knowledge_Graph_Construction.md)
+
+- [Cantor: Inspiring Multimodal Chain-of-Thought of MLLM](2024年04月24日/Cantor_Inspiring_Multimodal_Chain-of-Thought_of_MLLM.md)
+
+    - [翻译: Cantor：激发机器学习大型语言模型的多模态思维链](2024年04月24日/Cantor_Inspiring_Multimodal_Chain-of-Thought_of_MLLM.md)
+
+- [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](2024年04月24日/MMT-Bench_A_Comprehensive_Multimodal_Benchmark_for_Evaluating_Large_Vision-Language_Models_Towards_Multitask_AGI.md)
+
+    - [翻译: MMT-Bench 是一套全面的多模态基准测试工具，旨在评估大型视觉-语言模型在迈向多任务通用人工智能（AGI）进程中的性能。](2024年04月24日/MMT-Bench_A_Comprehensive_Multimodal_Benchmark_for_Evaluating_Large_Vision-Language_Models_Towards_Multitask_AGI.md)
+
 2024年04月23日
 
 - [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](2024年04月23日/Multimodal_Large_Language_Model_is_a_Human-Aligned_Annotator_for_Text-to-Image_Generation.md)
