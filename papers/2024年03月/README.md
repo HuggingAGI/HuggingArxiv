@@ -2328,6 +2328,10 @@
 
     - [翻译: 大型语言模型（LLM）充当写作助手时，我们深入探讨了人们对作品所有权和逻辑推理的看法。](2024年03月20日/LLMs_as_Writing_Assistants_Exploring_Perspectives_on_Sense_of_Ownership_and_Reasoning.md)
 
+- [EEGDiR: Electroencephalogram denoising network for temporal information storage and global modeling through Retentive Network](2024年03月20日/EEGDiR_Electroencephalogram_denoising_network_for_temporal_information_storage_and_global_modeling_through_Retentive_Network.md)
+
+    - [翻译: ](2024年03月20日/EEGDiR_Electroencephalogram_denoising_network_for_temporal_information_storage_and_global_modeling_through_Retentive_Network.md)
+
 2024年03月19日
 
 - [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](2024年03月19日/LLMLingua-2_Data_Distillation_for_Efficient_and_Faithful_Task-Agnostic_Prompt_Compression.md)

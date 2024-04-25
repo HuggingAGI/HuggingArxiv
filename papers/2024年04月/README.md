@@ -138,6 +138,42 @@
 
     - [翻译: 通过分析用户编辑，我们能够学习到用户的潜在偏好，进而调整大型语言模型（LLM）代理的行为，使之更好地符合用户的需求。](2024年04月23日/Aligning_LLM_Agents_by_Learning_Latent_Preference_from_User_Edits.md)
 
+- [Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models](2024年04月23日/Towards_Systematic_Evaluation_of_Logical_Reasoning_Ability_of_Large_Language_Models.md)
+
+    - [翻译: 迈向对大型语言模型逻辑推理能力进行系统评估的探索](2024年04月23日/Towards_Systematic_Evaluation_of_Logical_Reasoning_Ability_of_Large_Language_Models.md)
+
+- [Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval](2024年04月23日/Visual_Delta_Generator_with_Large_Multi-modal_Models_for_Semi-supervised_Composed_Image_Retrieval.md)
+
+    - [翻译: 视觉增量生成器结合大型多模态模型，为半监督的组合图像检索任务提供支持。](2024年04月23日/Visual_Delta_Generator_with_Large_Multi-modal_Models_for_Semi-supervised_Composed_Image_Retrieval.md)
+
+- [ToM-LM: Delegating Theory Of Mind Reasoning to External Symbolic Executors in Large Language Models](2024年04月23日/ToM-LM_Delegating_Theory_Of_Mind_Reasoning_to_External_Symbolic_Executors_in_Large_Language_Models.md)
+
+    - [翻译: ToM-LM：将心理理论推理外包给大型语言模型中的外部符号执行器](2024年04月23日/ToM-LM_Delegating_Theory_Of_Mind_Reasoning_to_External_Symbolic_Executors_in_Large_Language_Models.md)
+
+- [IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents](2024年04月23日/IryoNLP_at_MEDIQA-CORR_2024_Tackling_the_Medical_Error_Detection_&_Correction_Task_On_the_Shoulders_of_Medical_Agents.md)
+
+    - [翻译: 在 2024 年 MEDIQA-CORR 竞赛中，IryoNLP 项目借助医疗代理的力量，致力于攻克医疗错误检测与纠正的挑战。](2024年04月23日/IryoNLP_at_MEDIQA-CORR_2024_Tackling_the_Medical_Error_Detection_&_Correction_Task_On_the_Shoulders_of_Medical_Agents.md)
+
+- [Large Language Models Spot Phishing Emails with Surprising Accuracy: A Comparative Analysis of Performance](2024年04月23日/Large_Language_Models_Spot_Phishing_Emails_with_Surprising_Accuracy_A_Comparative_Analysis_of_Performance.md)
+
+    - [翻译: 大型语言模型（LLM）展现出令人惊叹的精准度，能够识别钓鱼邮件。本文通过比较分析，深入探讨了这些模型在性能上的差异。](2024年04月23日/Large_Language_Models_Spot_Phishing_Emails_with_Surprising_Accuracy_A_Comparative_Analysis_of_Performance.md)
+
+- [Can Large Language Models Learn the Physics of Metamaterials? An Empirical Study with ChatGPT](2024年04月23日/Can_Large_Language_Models_Learn_the_Physics_of_Metamaterials_An_Empirical_Study_with_ChatGPT.md)
+
+    - [翻译: ](2024年04月23日/Can_Large_Language_Models_Learn_the_Physics_of_Metamaterials_An_Empirical_Study_with_ChatGPT.md)
+
+- [FL-TAC: Enhanced Fine-Tuning in Federated Learning via Low-Rank, Task-Specific Adapter Clustering](2024年04月23日/FL-TAC_Enhanced_Fine-Tuning_in_Federated_Learning_via_Low-Rank,_Task-Specific_Adapter_Clustering.md)
+
+    - [翻译: ](2024年04月23日/FL-TAC_Enhanced_Fine-Tuning_in_Federated_Learning_via_Low-Rank,_Task-Specific_Adapter_Clustering.md)
+
+- [Feature Distribution Shift Mitigation with Contrastive Pretraining for Intrusion Detection](2024年04月23日/Feature_Distribution_Shift_Mitigation_with_Contrastive_Pretraining_for_Intrusion_Detection.md)
+
+    - [翻译: ](2024年04月23日/Feature_Distribution_Shift_Mitigation_with_Contrastive_Pretraining_for_Intrusion_Detection.md)
+
+- [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
+
+    - [翻译: ](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
+
 2024年04月22日
 
 - [Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals](2024年04月22日/Surveying_Attitudinal_Alignment_Between_Large_Language_Models_Vs._Humans_Towards_17_Sustainable_Development_Goals.md)
@@ -1744,6 +1780,10 @@
 
     - [翻译: 反事实任务的证据表明，大型语言模型能够展现出类比推理的能力。](2024年04月14日/Evidence_from_counterfactual_tasks_supports_emergent_analogical_reasoning_in_large_language_models.md)
 
+- [Integrating Physiological Data with Large Language Models for Empathic Human-AI Interaction](2024年04月14日/Integrating_Physiological_Data_with_Large_Language_Models_for_Empathic_Human-AI_Interaction.md)
+
+    - [翻译: ](2024年04月14日/Integrating_Physiological_Data_with_Large_Language_Models_for_Empathic_Human-AI_Interaction.md)
+
 2024年04月13日
 
 - [Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions](2024年04月13日/Unveiling_LLM_Evaluation_Focused_on_Metrics_Challenges_and_Solutions.md)
@@ -3240,6 +3280,10 @@
 
     - [翻译: CBR-RAG：案例推理辅助生成，提升大型语言模型在法律问答中的检索能力](2024年04月04日/CBR-RAG_Case-Based_Reasoning_for_Retrieval_Augmented_Generation_in_LLMs_for_Legal_Question_Answering.md)
 
+- [Using Large Language Models to Enrich the Documentation of Datasets for Machine Learning](2024年04月04日/Using_Large_Language_Models_to_Enrich_the_Documentation_of_Datasets_for_Machine_Learning.md)
+
+    - [翻译: ](2024年04月04日/Using_Large_Language_Models_to_Enrich_the_Documentation_of_Datasets_for_Machine_Learning.md)
+
 2024年04月03日
 
 - [DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement](2024年04月03日/DIBS_Enhancing_Dense_Video_Captioning_with_Unlabeled_Videos_via_Pseudo_Boundary_Enrichment_and_Online_Refinement.md)
@@ -3465,6 +3509,10 @@
 - [MIMIR: A Streamlined Platform for Personalized Agent Tuning in Domain Expertise](2024年04月03日/MIMIR_A_Streamlined_Platform_for_Personalized_Agent_Tuning_in_Domain_Expertise.md)
 
     - [翻译: MIMIR：领域专家专用，打造个性化智能代理的高效平台](2024年04月03日/MIMIR_A_Streamlined_Platform_for_Personalized_Agent_Tuning_in_Domain_Expertise.md)
+
+- [Concept-Guided LLM Agents for Human-AI Safety Codesign](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
+
+    - [翻译: ](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
 
 2024年04月02日
 
@@ -4033,3 +4081,7 @@
 - [Leveraging YOLO-World and GPT-4V LMMs for Zero-Shot Person Detection and Action Recognition in Drone Imagery](2024年04月01日/Leveraging_YOLO-World_and_GPT-4V_LMMs_for_Zero-Shot_Person_Detection_and_Action_Recognition_in_Drone_Imagery.md)
 
     - [翻译: 通过运用 YOLO-World 与 GPT-4V 语言模型，实现无人机图像中的零-shot 人员探测与行为识别。](2024年04月01日/Leveraging_YOLO-World_and_GPT-4V_LMMs_for_Zero-Shot_Person_Detection_and_Action_Recognition_in_Drone_Imagery.md)
+
+- [Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
+
+    - [翻译: ](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
