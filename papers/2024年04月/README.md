@@ -1,5 +1,43 @@
 # 2024年04月
 
+2024年04月24日
+
+- [Automated Creation of Source Code Variants of a Cryptographic Hash Function Implementation Using Generative Pre-Trained Transformer Models](2024年04月24日/Automated_Creation_of_Source_Code_Variants_of_a_Cryptographic_Hash_Function_Implementation_Using_Generative_Pre-Trained_Transformer_Models.md)
+
+    - [翻译: 利用生成式预训练变换模型，自动化生成加密哈希函数实现的源代码变种。](2024年04月24日/Automated_Creation_of_Source_Code_Variants_of_a_Cryptographic_Hash_Function_Implementation_Using_Generative_Pre-Trained_Transformer_Models.md)
+
+- [Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs](2024年04月24日/Beyond_Chain-of-Thought_A_Survey_of_Chain-of-X_Paradigms_for_LLMs.md)
+
+    - [翻译: 探索思维链之外：对大型语言模型链式X范式的全面调查](2024年04月24日/Beyond_Chain-of-Thought_A_Survey_of_Chain-of-X_Paradigms_for_LLMs.md)
+
+- [Hi-Gen: Generative Retrieval For Large-Scale Personalized E-commerce Search](2024年04月24日/Hi-Gen_Generative_Retrieval_For_Large-Scale_Personalized_E-commerce_Search.md)
+
+    - [翻译: Hi-Gen：个性化电商搜索的创新生成式检索解决方案](2024年04月24日/Hi-Gen_Generative_Retrieval_For_Large-Scale_Personalized_E-commerce_Search.md)
+
+- [The Promise and Challenges of Using LLMs to Accelerate the Screening Process of Systematic Reviews](2024年04月24日/The_Promise_and_Challenges_of_Using_LLMs_to_Accelerate_the_Screening_Process_of_Systematic_Reviews.md)
+
+    - [翻译: 大型语言模型（LLMs）在加速系统性综述筛选流程中的应用前景广阔，但也面临诸多挑战。](2024年04月24日/The_Promise_and_Challenges_of_Using_LLMs_to_Accelerate_the_Screening_Process_of_Systematic_Reviews.md)
+
+- [KS-LLM: Knowledge Selection of Large Language Models with Evidence Document for Question Answering](2024年04月24日/KS-LLM_Knowledge_Selection_of_Large_Language_Models_with_Evidence_Document_for_Question_Answering.md)
+
+    - [翻译: ](2024年04月24日/KS-LLM_Knowledge_Selection_of_Large_Language_Models_with_Evidence_Document_for_Question_Answering.md)
+
+- [Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering](2024年04月24日/Multi-Modal_Proxy_Learning_Towards_Personalized_Visual_Multiple_Clustering.md)
+
+    - [翻译: ](2024年04月24日/Multi-Modal_Proxy_Learning_Towards_Personalized_Visual_Multiple_Clustering.md)
+
+- [Return of EM: Entity-driven Answer Set Expansion for QA Evaluation](2024年04月24日/Return_of_EM_Entity-driven_Answer_Set_Expansion_for_QA_Evaluation.md)
+
+    - [翻译: ](2024年04月24日/Return_of_EM_Entity-driven_Answer_Set_Expansion_for_QA_Evaluation.md)
+
+- [CodeIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code](2024年04月24日/CodeIP_A_Grammar-Guided_Multi-Bit_Watermark_for_Large_Language_Models_of_Code.md)
+
+    - [翻译: ](2024年04月24日/CodeIP_A_Grammar-Guided_Multi-Bit_Watermark_for_Large_Language_Models_of_Code.md)
+
+- [What Makes Multimodal In-Context Learning Work?](2024年04月24日/What_Makes_Multimodal_In-Context_Learning_Work.md)
+
+    - [翻译: ](2024年04月24日/What_Makes_Multimodal_In-Context_Learning_Work.md)
+
 2024年04月23日
 
 - [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](2024年04月23日/Multimodal_Large_Language_Model_is_a_Human-Aligned_Annotator_for_Text-to-Image_Generation.md)
