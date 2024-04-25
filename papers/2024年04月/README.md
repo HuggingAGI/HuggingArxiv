@@ -20,23 +20,39 @@
 
 - [KS-LLM: Knowledge Selection of Large Language Models with Evidence Document for Question Answering](2024年04月24日/KS-LLM_Knowledge_Selection_of_Large_Language_Models_with_Evidence_Document_for_Question_Answering.md)
 
-    - [翻译: ](2024年04月24日/KS-LLM_Knowledge_Selection_of_Large_Language_Models_with_Evidence_Document_for_Question_Answering.md)
+    - [翻译: KS-LLM：一种为问答任务设计的，能够从证据文档中选择知识的大规模语言模型。](2024年04月24日/KS-LLM_Knowledge_Selection_of_Large_Language_Models_with_Evidence_Document_for_Question_Answering.md)
 
 - [Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering](2024年04月24日/Multi-Modal_Proxy_Learning_Towards_Personalized_Visual_Multiple_Clustering.md)
 
-    - [翻译: ](2024年04月24日/Multi-Modal_Proxy_Learning_Towards_Personalized_Visual_Multiple_Clustering.md)
+    - [翻译: 多模态代理学习：迈向个性化视觉的多聚类技术。](2024年04月24日/Multi-Modal_Proxy_Learning_Towards_Personalized_Visual_Multiple_Clustering.md)
 
 - [Return of EM: Entity-driven Answer Set Expansion for QA Evaluation](2024年04月24日/Return_of_EM_Entity-driven_Answer_Set_Expansion_for_QA_Evaluation.md)
 
-    - [翻译: ](2024年04月24日/Return_of_EM_Entity-driven_Answer_Set_Expansion_for_QA_Evaluation.md)
+    - [翻译: EM 回归：以实体为驱动力，为问答评估扩展答案集](2024年04月24日/Return_of_EM_Entity-driven_Answer_Set_Expansion_for_QA_Evaluation.md)
 
 - [CodeIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code](2024年04月24日/CodeIP_A_Grammar-Guided_Multi-Bit_Watermark_for_Large_Language_Models_of_Code.md)
 
-    - [翻译: ](2024年04月24日/CodeIP_A_Grammar-Guided_Multi-Bit_Watermark_for_Large_Language_Models_of_Code.md)
+    - [翻译: CodeIP：一种语法引导的多比特水印技术，专为大型代码语言模型设计。](2024年04月24日/CodeIP_A_Grammar-Guided_Multi-Bit_Watermark_for_Large_Language_Models_of_Code.md)
 
 - [What Makes Multimodal In-Context Learning Work?](2024年04月24日/What_Makes_Multimodal_In-Context_Learning_Work.md)
 
-    - [翻译: ](2024年04月24日/What_Makes_Multimodal_In-Context_Learning_Work.md)
+    - [翻译: 是什么让多模态的上下文内学习得以发挥作用？](2024年04月24日/What_Makes_Multimodal_In-Context_Learning_Work.md)
+
+- [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](2024年04月24日/Let's_Think_Dot_by_Dot_Hidden_Computation_in_Transformer_Language_Models.md)
+
+    - [翻译: 让我们一点一滴地思考：探索 Transformer 语言模型中的隐式计算。](2024年04月24日/Let's_Think_Dot_by_Dot_Hidden_Computation_in_Transformer_Language_Models.md)
+
+- [Annotator-Centric Active Learning for Subjective NLP Tasks](2024年04月24日/Annotator-Centric_Active_Learning_for_Subjective_NLP_Tasks.md)
+
+    - [翻译: 以标注者为中心的主动学习策略，应用于主观性自然语言处理任务。](2024年04月24日/Annotator-Centric_Active_Learning_for_Subjective_NLP_Tasks.md)
+
+- [Nyonic Technical Report](2024年04月24日/Nyonic_Technical_Report.md)
+
+    - [翻译: Nyonic 技术报告](2024年04月24日/Nyonic_Technical_Report.md)
+
+- [Leveraging Large Language Models for Multimodal Search](2024年04月24日/Leveraging_Large_Language_Models_for_Multimodal_Search.md)
+
+    - [翻译: 借助大型语言模型，我们能够开展多模态搜索，这一方法能够有效地整合和检索来自不同模态的信息。](2024年04月24日/Leveraging_Large_Language_Models_for_Multimodal_Search.md)
 
 2024年04月23日
 
