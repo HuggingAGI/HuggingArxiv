@@ -160,19 +160,39 @@
 
 - [Can Large Language Models Learn the Physics of Metamaterials? An Empirical Study with ChatGPT](2024年04月23日/Can_Large_Language_Models_Learn_the_Physics_of_Metamaterials_An_Empirical_Study_with_ChatGPT.md)
 
-    - [翻译: ](2024年04月23日/Can_Large_Language_Models_Learn_the_Physics_of_Metamaterials_An_Empirical_Study_with_ChatGPT.md)
+    - [翻译: 大型语言模型能否掌握超材料的物理原理？一项基于ChatGPT的实证探索](2024年04月23日/Can_Large_Language_Models_Learn_the_Physics_of_Metamaterials_An_Empirical_Study_with_ChatGPT.md)
 
 - [FL-TAC: Enhanced Fine-Tuning in Federated Learning via Low-Rank, Task-Specific Adapter Clustering](2024年04月23日/FL-TAC_Enhanced_Fine-Tuning_in_Federated_Learning_via_Low-Rank,_Task-Specific_Adapter_Clustering.md)
 
-    - [翻译: ](2024年04月23日/FL-TAC_Enhanced_Fine-Tuning_in_Federated_Learning_via_Low-Rank,_Task-Specific_Adapter_Clustering.md)
+    - [翻译: FL-TAC：在联合学习框架下，通过低秩矩阵和任务定制的适配器聚类技术，实现了更高效的微调过程。](2024年04月23日/FL-TAC_Enhanced_Fine-Tuning_in_Federated_Learning_via_Low-Rank,_Task-Specific_Adapter_Clustering.md)
 
 - [Feature Distribution Shift Mitigation with Contrastive Pretraining for Intrusion Detection](2024年04月23日/Feature_Distribution_Shift_Mitigation_with_Contrastive_Pretraining_for_Intrusion_Detection.md)
 
-    - [翻译: ](2024年04月23日/Feature_Distribution_Shift_Mitigation_with_Contrastive_Pretraining_for_Intrusion_Detection.md)
+    - [翻译: 采用对比预训练策略，减轻特征分布变化对入侵检测的影响](2024年04月23日/Feature_Distribution_Shift_Mitigation_with_Contrastive_Pretraining_for_Intrusion_Detection.md)
 
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
 
-    - [翻译: ](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
+    - [翻译: Wiki-LLaVA：为多模态大型语言模型注入分层检索增强的生成能力](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
+
+- [Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data](2024年04月23日/Hybrid_LLMRule-based_Approaches_to_Business_Insights_Generation_from_Structured_Data.md)
+
+    - [翻译: 结合大型语言模型与规则基础方法，从结构化数据中提炼商业洞察。](2024年04月23日/Hybrid_LLMRule-based_Approaches_to_Business_Insights_Generation_from_Structured_Data.md)
+
+- [ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction](2024年04月23日/ImplicitAVE_An_Open-Source_Dataset_and_Multimodal_LLMs_Benchmark_for_Implicit_Attribute_Value_Extraction.md)
+
+    - [翻译: ImplicitAVE 是一个开放源代码的数据集，它为隐式属性值提取提供了一个多模态的大型语言模型（LLMs）的基准测试平台。](2024年04月23日/ImplicitAVE_An_Open-Source_Dataset_and_Multimodal_LLMs_Benchmark_for_Implicit_Attribute_Value_Extraction.md)
+
+- [Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?](2024年04月23日/Can_Foundational_Large_Language_Models_Assist_with_Conducting_Pharmaceuticals_Manufacturing_Investigations.md)
+
+    - [翻译: 基础性的大型语言模型是否能够帮助开展制药制造业的调查研究？](2024年04月23日/Can_Foundational_Large_Language_Models_Assist_with_Conducting_Pharmaceuticals_Manufacturing_Investigations.md)
+
+- [Retrieval Head Mechanistically Explains Long-Context Factuality](2024年04月23日/Retrieval_Head_Mechanistically_Explains_Long-Context_Factuality.md)
+
+    - [翻译: 检索头技术深入阐释了长篇文本上下文的真实性](2024年04月23日/Retrieval_Head_Mechanistically_Explains_Long-Context_Factuality.md)
+
+- [PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models](2024年04月23日/PRISM_Patient_Records_Interpretation_for_Semantic_Clinical_Trial_Matching_using_Large_Language_Models.md)
+
+    - [翻译: PRISM：利用大型语言模型，对患者病历进行深入解读，以实现语义化的临床试验匹配。](2024年04月23日/PRISM_Patient_Records_Interpretation_for_Semantic_Clinical_Trial_Matching_using_Large_Language_Models.md)
 
 2024年04月22日
 
@@ -1782,7 +1802,7 @@
 
 - [Integrating Physiological Data with Large Language Models for Empathic Human-AI Interaction](2024年04月14日/Integrating_Physiological_Data_with_Large_Language_Models_for_Empathic_Human-AI_Interaction.md)
 
-    - [翻译: ](2024年04月14日/Integrating_Physiological_Data_with_Large_Language_Models_for_Empathic_Human-AI_Interaction.md)
+    - [翻译: 融合生理信息与先进的语言模型，打造更具同理心的人机交互体验。](2024年04月14日/Integrating_Physiological_Data_with_Large_Language_Models_for_Empathic_Human-AI_Interaction.md)
 
 2024年04月13日
 
@@ -3282,7 +3302,7 @@
 
 - [Using Large Language Models to Enrich the Documentation of Datasets for Machine Learning](2024年04月04日/Using_Large_Language_Models_to_Enrich_the_Documentation_of_Datasets_for_Machine_Learning.md)
 
-    - [翻译: ](2024年04月04日/Using_Large_Language_Models_to_Enrich_the_Documentation_of_Datasets_for_Machine_Learning.md)
+    - [翻译: 利用大型语言模型为机器学习数据集的文档增色添彩。](2024年04月04日/Using_Large_Language_Models_to_Enrich_the_Documentation_of_Datasets_for_Machine_Learning.md)
 
 2024年04月03日
 
@@ -3512,7 +3532,7 @@
 
 - [Concept-Guided LLM Agents for Human-AI Safety Codesign](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
 
-    - [翻译: ](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
+    - [翻译: 概念驱动的大型语言模型（LLM）代理：助力人机协同设计安全准则](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
 
 2024年04月02日
 
@@ -4084,4 +4104,4 @@
 
 - [Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
 
-    - [翻译: ](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
+    - [翻译: 通过融合多模态情感特征及ChatGPT技术，实现对课堂鼓励与温馨氛围的自动化评估。](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)

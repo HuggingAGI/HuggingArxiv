@@ -2330,7 +2330,7 @@
 
 - [EEGDiR: Electroencephalogram denoising network for temporal information storage and global modeling through Retentive Network](2024年03月20日/EEGDiR_Electroencephalogram_denoising_network_for_temporal_information_storage_and_global_modeling_through_Retentive_Network.md)
 
-    - [翻译: ](2024年03月20日/EEGDiR_Electroencephalogram_denoising_network_for_temporal_information_storage_and_global_modeling_through_Retentive_Network.md)
+    - [翻译: EEGDiR：一种脑电图去噪网络，旨在存储时间信息并通过 Retentive 网络实现全局建模。](2024年03月20日/EEGDiR_Electroencephalogram_denoising_network_for_temporal_information_storage_and_global_modeling_through_Retentive_Network.md)
 
 2024年03月19日
 
