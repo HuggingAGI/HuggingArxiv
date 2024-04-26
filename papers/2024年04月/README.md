@@ -1,5 +1,27 @@
 # 2024年04月
 
+2024年04月25日
+
+- [Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials](2024年04月25日/Make-it-Real_Unleashing_Large_Multimodal_Model's_Ability_for_Painting_3D_Objects_with_Realistic_Materials.md)
+
+    - [翻译: 实现真实：激发大型多模态模型的潜力，以逼真材质绘制三维物体。](2024年04月25日/Make-it-Real_Unleashing_Large_Multimodal_Model's_Ability_for_Painting_3D_Objects_with_Realistic_Materials.md)
+
+- [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](2024年04月25日/How_Far_Are_We_to_GPT-4V_Closing_the_Gap_to_Commercial_Multimodal_Models_with_Open-Source_Suites.md)
+
+    - [翻译: 我们距离 GPT-4V 还有多远？通过开源工具集，我们正逐步缩小与商业多模态模型之间的差距。](2024年04月25日/How_Far_Are_We_to_GPT-4V_Closing_the_Gap_to_Commercial_Multimodal_Models_with_Open-Source_Suites.md)
+
+- [SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension](2024年04月25日/SEED-Bench-2-Plus_Benchmarking_Multimodal_Large_Language_Models_with_Text-Rich_Visual_Comprehension.md)
+
+    - [翻译: SEED-Bench-2-Plus：以文本为中心的视觉理解，为多模态大型语言模型设立新基准](2024年04月25日/SEED-Bench-2-Plus_Benchmarking_Multimodal_Large_Language_Models_with_Text-Rich_Visual_Comprehension.md)
+
+- [RadGenome-Chest CT: A Grounded Vision-Language Dataset for Chest CT Analysis](2024年04月25日/RadGenome-Chest_CT_A_Grounded_Vision-Language_Dataset_for_Chest_CT_Analysis.md)
+
+    - [翻译: RadGenome-Chest CT：一个为胸部 CT 影像分析量身定制的视觉与语言结合的数据集](2024年04月25日/RadGenome-Chest_CT_A_Grounded_Vision-Language_Dataset_for_Chest_CT_Analysis.md)
+
+- [TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning](2024年04月25日/TinyChart_Efficient_Chart_Understanding_with_Visual_Token_Merging_and_Program-of-Thoughts_Learning.md)
+
+    - [翻译: TinyChart：采用视觉令牌融合与思维程序学习方法，实现图表理解的高效性。](2024年04月25日/TinyChart_Efficient_Chart_Understanding_with_Visual_Token_Merging_and_Program-of-Thoughts_Learning.md)
+
 2024年04月24日
 
 - [Automated Creation of Source Code Variants of a Cryptographic Hash Function Implementation Using Generative Pre-Trained Transformer Models](2024年04月24日/Automated_Creation_of_Source_Code_Variants_of_a_Cryptographic_Hash_Function_Implementation_Using_Generative_Pre-Trained_Transformer_Models.md)
