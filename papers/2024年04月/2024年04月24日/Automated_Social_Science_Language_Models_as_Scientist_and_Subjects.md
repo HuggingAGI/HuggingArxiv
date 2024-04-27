@@ -4,13 +4,13 @@
 
 `分类：LLM应用
 
-这篇论文讨论了如何利用大型语言模型（LLM）来生成和验证社会科学假说。它强调了结构因果模型在提出假说、构建基于LLM的智能体、设计实验和规划数据分析中的作用。通过在多个场景中展示这一方法，论文证明了LLM在社会互动模拟中的潜力。尽管LLM在直接询问时可能无法获得某些洞察，但通过拟合的结构因果模型，LLM能够更准确地预测估计效应的方向。因此，这篇论文属于LLM应用类别，因为它展示了如何将LLM应用于社会科学研究。` `社会科学` `自动化方法`
+这篇论文介绍了一种利用大型语言模型（LLM）来自动化生成和验证社会科学假设的新方法。通过运用结构因果模型，这些模型不仅为假设的陈述提供了框架，还为构建基于LLM的智能体、设计实验和规划数据分析提供了指导。这篇论文展示了LLM在社会科学领域的应用，特别是在模拟社会互动和验证因果关系方面。因此，这篇论文应该归类为LLM应用。` `社会科学` `人工智能`
 
 > Automated Social Science: Language Models as Scientist and Subjects
 
 # 摘要
 
-> 本研究介绍了一种自动化方法，用于在计算机模拟环境中生成并验证社会科学假说。这一进步依托于大型语言模型（LLM）的最新发展，关键在于采用了结构因果模型。这些模型不仅为提出假说提供了一种表述方式，也为构建基于LLM的智能体、设计实验和规划数据分析提供了指导。经过拟合的结构因果模型成为了预测或规划后续实验的有力工具。我们通过多个场景——谈判、保释听证、工作面试和拍卖——来展示这一方法。在这些场景中，系统能够提出并验证因果关系，为某些关系找到支持，而对其他关系则未能找到。研究显示，这些对社会互动模拟的洞察并非LLM通过直接询问就能获得的。在为每个场景提供其结构因果模型后，LLM能够准确预测估计效应的方向，但对效应大小的预测则不够可靠。特别是在拍卖实验中，模拟结果与拍卖理论的预测高度吻合，但LLM直接引出的清算价格预测却存在偏差。不过，如果LLM能够依据拟合的结构因果模型进行条件判断，其预测的准确性将大幅提升。简而言之，LLM的内在知识远超过其直接表达的能力。
+> 本文介绍了一种自动化生成和验证社会科学假设的新方法，该方法通过大型语言模型（LLM）的最新进展得以实现，其核心在于运用结构因果模型。这些模型不仅为假设的陈述提供了框架，也为构建基于LLM的智能体、设计实验和规划数据分析提供了指导。经过拟合的结构因果模型可以用于预测或规划后续实验。我们通过多个场景——谈判、保释听证、工作面试和拍卖——来展示这一方法，系统在这些场景中提出并验证了因果关系，发现了一些关系的证据，而对其他关系则未能找到。研究表明，这些社会互动模拟所揭示的洞察力，并非LLM通过直接查询就能获得。尽管LLM能够根据给定的结构因果模型预测估计效应的正负，但它无法准确预测这些效应的大小。特别是在拍卖实验中，硅基模拟的结果与拍卖理论的预测高度吻合，但LLM直接引出的清算价格预测却不够准确。然而，如果LLM能够参考拟合的结构因果模型，其预测的准确性将大幅提升。简而言之，LLM所知远超其直接表达的能力。
 
 > We present an approach for automatically generating and testing, in silico, social scientific hypotheses. This automation is made possible by recent advances in large language models (LLM), but the key feature of the approach is the use of structural causal models. Structural causal models provide a language to state hypotheses, a blueprint for constructing LLM-based agents, an experimental design, and a plan for data analysis. The fitted structural causal model becomes an object available for prediction or the planning of follow-on experiments. We demonstrate the approach with several scenarios: a negotiation, a bail hearing, a job interview, and an auction. In each case, causal relationships are both proposed and tested by the system, finding evidence for some and not others. We provide evidence that the insights from these simulations of social interactions are not available to the LLM purely through direct elicitation. When given its proposed structural causal model for each scenario, the LLM is good at predicting the signs of estimated effects, but it cannot reliably predict the magnitudes of those estimates. In the auction experiment, the in silico simulation results closely match the predictions of auction theory, but elicited predictions of the clearing prices from the LLM are inaccurate. However, the LLM's predictions are dramatically improved if the model can condition on the fitted structural causal model. In short, the LLM knows more than it can (immediately) tell.
 
