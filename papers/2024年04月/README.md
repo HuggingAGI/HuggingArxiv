@@ -726,22 +726,22 @@
 
 - [Information Retrieval with Entity Linking](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
 
-    - [翻译: ](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
+    - [翻译: 通过实体链接进行信息检索](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
 
 2024年04月04日
 
 - [Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
 
-    - [翻译: ](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
+    - [翻译: Elicitron：一款基于大型语言模型（LLM）的代理仿真框架，专为设计需求的挖掘而设计。](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
 
 2024年04月03日
 
 - [Concept-Guided LLM Agents for Human-AI Safety Codesign](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
 
-    - [翻译: ](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
+    - [翻译: 概念驱动的大型语言模型（LLM）代理助力人类与AI安全协同设计](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
 
 2024年04月01日
 
 - [Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
 
-    - [翻译: ](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
+    - [翻译: 通过融合多模态情感特征与ChatGPT技术，实现对课堂中鼓励与温暖的自动化评估。](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
