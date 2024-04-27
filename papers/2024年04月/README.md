@@ -710,13 +710,13 @@
 
 - [LLMs in Biomedicine: A study on clinical Named Entity Recognition](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
 
-    - [翻译: ](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
+    - [翻译: 在生物医学领域，大型语言模型（LLM）的研究：专注于临床命名实体识别的探讨。](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
 
 2024年04月09日
 
 - [Apollonion: Profile-centric Dialog Agent](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
 
-    - [翻译: ](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
+    - [翻译: Apollonion：专注于个人资料的对话代理](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
 
 - [GUIDE: Graphical User Interface Data for Execution](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
 
