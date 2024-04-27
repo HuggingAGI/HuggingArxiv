@@ -2,13 +2,13 @@
 
 发布时间：2024年04月25日
 
-`LLM应用` `时间序列分析` `多领域应用`
+`LLM应用` `时间序列分析` `自动化报告`
 
 > Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark
 
 # 摘要
 
-> 大型语言模型（LLMs）展现了在自动进行时间序列分析与报告方面的潜力，这对于医疗、金融、气候、能源等多个领域都至关重要。本文提出了一套严格评估LLMs时间序列理解能力的方法框架，覆盖了单变量和多变量的时间序列。我们引入了一个全面的时间序列特征分类体系，这一体系详细划分了时间序列数据的多种内在特性。基于此分类体系，我们设计并构建了一个包含多样特征的时间序列数据集，为测试LLMs的时间序列理解能力提供了坚实的基准。实验结果显示了当前最先进LLMs在时间序列理解方面的优势与局限，指出了这些模型能够轻松理解的特征以及它们的不足之处。同时，我们还发现了LLMs对于数据格式、查询点位置以及时间序列长度等因素的敏感度。
+> 大型语言模型（LLMs）开启了自动化时间序列分析与报告的新可能，这对于医疗、金融、气候、能源等多个领域都至关重要。本文提出了一个严格评估LLMs时间序列理解能力的方法框架，覆盖了单变量和多变量时间序列。我们引入了一套全面的时间序列特征分类体系，明确了时间序列数据的多种内在特性。基于这一体系，我们设计并构建了一个包含丰富特征的时间序列数据集，为测试LLMs的时间序列理解能力提供了坚实基础。实验结果揭示了当前最先进LLMs在时间序列理解上的强项与短板，指出了这些模型能够高效理解的特征以及它们的不足之处。同时，我们还发现了LLMs对数据格式、查询点位置以及时间序列长度等因素的敏感度。
 
 > Large Language Models (LLMs) offer the potential for automatic time series analysis and reporting, which is a critical task across many domains, spanning healthcare, finance, climate, energy, and many more. In this paper, we propose a framework for rigorously evaluating the capabilities of LLMs on time series understanding, encompassing both univariate and multivariate forms. We introduce a comprehensive taxonomy of time series features, a critical framework that delineates various characteristics inherent in time series data. Leveraging this taxonomy, we have systematically designed and synthesized a diverse dataset of time series, embodying the different outlined features. This dataset acts as a solid foundation for assessing the proficiency of LLMs in comprehending time series. Our experiments shed light on the strengths and limitations of state-of-the-art LLMs in time series understanding, revealing which features these models readily comprehend effectively and where they falter. In addition, we uncover the sensitivity of LLMs to factors including the formatting of the data, the position of points queried within a series and the overall time series length.
 

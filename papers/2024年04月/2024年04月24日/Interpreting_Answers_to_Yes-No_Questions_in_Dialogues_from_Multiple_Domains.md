@@ -1,4 +1,4 @@
-# 在跨领域的对话中，解读针对是非问题的答复
+# 跨领域对话中，对是非问题答案的解读
 
 发布时间：2024年04月24日
 
@@ -8,7 +8,7 @@
 
 # 摘要
 
-> 人们在回答是非题时，往往不会直接使用“是”、“否”等极端词汇。对于大型语言模型而言，解读这些含蓄的回答颇为棘手。本文针对这一难题，通过分析多个领域的对话数据进行了探讨。我们为三个迥异的领域——电影剧本、网球访谈和航空公司客服——设立了新的评估标准。我们介绍了一种基于远程监督与混合训练的方法，旨在迅速适应新的对话领域。实验结果显示，这种方法不仅无害，还能显著提升 F1 分数，提升幅度在 11% 至 34% 之间。
+> 人们在回答是非问题时，往往不直接使用“是”、“否”或其他极性关键词，这种间接回答的解读对于大型语言模型而言颇具难度。本文针对这一挑战，通过分析多个领域的对话，提出了新的基准测试，涵盖电影剧本、网球访谈和航空客户服务等多样化场景。我们介绍了一种基于远程监督和混合训练的方法，旨在迅速适应新的对话领域。实验结果显示，这种方法不仅无害，还能显著提升F1分数，提升幅度在11%到34%之间。
 
 > People often answer yes-no questions without explicitly saying yes, no, or similar polar keywords. Figuring out the meaning of indirect answers is challenging, even for large language models. In this paper, we investigate this problem working with dialogues from multiple domains. We present new benchmarks in three diverse domains: movie scripts, tennis interviews, and airline customer service. We present an approach grounded on distant supervision and blended training to quickly adapt to a new dialogue domain. Experimental results show that our approach is never detrimental and yields F1 improvements as high as 11-34%.
 
