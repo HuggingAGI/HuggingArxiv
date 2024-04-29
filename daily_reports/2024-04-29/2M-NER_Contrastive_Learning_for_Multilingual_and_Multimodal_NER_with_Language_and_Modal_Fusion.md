@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
 # 2M-NER：一种采用对比学习方法，针对多语言和多模态命名实体识别任务，实现语言与模态融合的技术。
 发布时间：2024年04月25日
 

@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
 # BattleAgent：通过在历史战场上进行多模态动态模拟，为历史研究提供补充分析。
 发布时间：2024年04月23日
 

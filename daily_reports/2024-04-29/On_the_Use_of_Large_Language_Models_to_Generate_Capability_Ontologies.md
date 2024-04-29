@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
 # 探讨如何利用大型语言模型来构建能力本体的实践
 发布时间：2024年04月26日
 

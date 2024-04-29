@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
 # 本研究旨在探究在多轮大型语言模型互动中出现的提示泄露现象，以及为这种交互模式设计的黑箱防御机制。
 发布时间：2024年04月24日
 
