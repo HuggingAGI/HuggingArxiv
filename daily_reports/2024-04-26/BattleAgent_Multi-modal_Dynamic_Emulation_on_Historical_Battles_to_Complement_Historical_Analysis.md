@@ -21,4 +21,4 @@
 
 [https://arxiv.org/abs/2404.15532](https://arxiv.org/abs/2404.15532)
 
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.gif)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png)
