@@ -8,3 +8,5 @@
 
 
 [https://arxiv.org/abs/2404.17017](https://arxiv.org/abs/2404.17017)
+
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.gif)

@@ -10,3 +10,5 @@
 
 
 [https://arxiv.org/abs/2404.16248](https://arxiv.org/abs/2404.16248)
+
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.gif)
