@@ -11,4 +11,4 @@
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png)
-<img src="https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png" width="50%" style="margin: auto;" />
+<img src="https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode2.png" width="50%" style="margin: auto;" />
