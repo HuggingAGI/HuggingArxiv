@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 本研究探索了利用大型语言模型将自然语言自动转换为数据可视化的过程。
 发布时间：2024年04月25日
 

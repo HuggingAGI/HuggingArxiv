@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # AutoGenesisAgent：一种自生成多智能体系统，专为解决复杂任务而设计。
 发布时间：2024年04月25日
 

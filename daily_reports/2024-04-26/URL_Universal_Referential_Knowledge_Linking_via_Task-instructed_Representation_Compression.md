@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # URL：通过任务驱动的表示压缩技术，实现知识的普遍引用链接。
 发布时间：2024年04月24日
 

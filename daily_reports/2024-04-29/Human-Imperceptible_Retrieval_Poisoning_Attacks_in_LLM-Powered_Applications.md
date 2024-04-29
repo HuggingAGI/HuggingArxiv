@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 在大型语言模型（LLM）支持的应用程序中，悄然兴起了一种难以为人所察觉的检索投毒攻击。
 发布时间：2024年04月26日
 

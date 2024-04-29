@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow.gif)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 通过上下文学习，提升大型语言模型在常识生成任务中的多样性表现。
 发布时间：2024年04月25日
 
