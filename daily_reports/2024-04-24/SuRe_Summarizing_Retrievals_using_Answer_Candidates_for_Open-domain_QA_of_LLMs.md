@@ -26,5 +26,6 @@
 
 
 [https://arxiv.org/abs/2404.13081](https://arxiv.org/abs/2404.13081)
+欢迎Star[https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png)

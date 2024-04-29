@@ -8,5 +8,6 @@
 
 
 [https://arxiv.org/abs/2404.17122](https://arxiv.org/abs/2404.17122)
+欢迎Star[https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png)
