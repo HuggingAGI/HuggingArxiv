@@ -16,6 +16,5 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.15532/battle_field.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.15532/x1.png)
 
-[https://wx.zsxq.com/dweb2/index/topic_detail/4844555481148888](https://wx.zsxq.com/dweb2/index/topic_detail/4844555481148888)
 
 [https://arxiv.org/abs/2404.15532](https://arxiv.org/abs/2404.15532)

@@ -6,6 +6,5 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.16248/x1.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.16248/x2.png)
 
-[https://wx.zsxq.com/dweb2/index/topic_detail/8855222255445512](https://wx.zsxq.com/dweb2/index/topic_detail/8855222255445512)
 
 [https://arxiv.org/abs/2404.16248](https://arxiv.org/abs/2404.16248)

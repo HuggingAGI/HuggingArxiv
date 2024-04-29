@@ -22,6 +22,5 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.13081/x17.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2404.13081/x18.png)
 
-[https://wx.zsxq.com/dweb2/index/topic_detail/5122514148522414](https://wx.zsxq.com/dweb2/index/topic_detail/5122514148522414)
 
 [https://arxiv.org/abs/2404.13081](https://arxiv.org/abs/2404.13081)
