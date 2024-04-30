@@ -10,4 +10,4 @@
 - 论文原文 [https://arxiv.org/abs/2404.17524](https://arxiv.org/abs/2404.17524)
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode3.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png)
