@@ -6622,6 +6622,101 @@
     ]
   },
   {
+    "title": "Is Mamba Capable of In-Context Learning?",
+    "submit_datetime": "2024年04月24日",
+    "abstract": "State of the art foundation models such as GPT-4 perform surprisingly well at in-context learning (ICL), a variant of meta-learning concerning the learned ability to solve tasks during a neural network forward pass, exploiting contextual information provided as input to the model. This useful ability emerges as a side product of the foundation model's massive pretraining. While transformer models are currently the state of the art in ICL, this work provides empirical evidence that Mamba, a newly proposed state space model which scales better than transformers w.r.t. the input sequence length, has similar ICL capabilities. We evaluated Mamba on tasks involving simple function approximation as well as more complex natural language processing problems. Our results demonstrate that, across both categories of tasks, Mamba closely matches the performance of transformer models for ICL. Further analysis reveals that, like transformers, Mamba appears to solve ICL problems by incrementally optimizing its internal representations. Overall, our work suggests that Mamba can be an efficient alternative to transformers for ICL tasks involving long input sequences. This is an exciting finding in meta-learning and may enable generalizations of in-context learned AutoML algorithms (like TabPFN or Optformer) to long input sequences.",
+    "pdf_link": "https://arxiv.org/abs/2402.03170",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x16.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x17.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x18.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x19.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.03170v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.03170/x20.png"
+      }
+    ],
+    "abstract_cn": "当前领先的基础模型例如 GPT-4 在上下文学习（ICL）方面展现出惊人的能力，ICL 是一种元学习形式，它涉及在神经网络的前向传播过程中学习解决问题，同时利用输入给模型的上下文信息。这种能力是基础模型在大规模预训练过程中的一个额外收获。尽管目前变换器模型在 ICL 领域占据领先地位，但我们的研究提供了实证证据，表明新提出的 Mamba 模型在处理输入序列长度方面比变换器模型更具扩展性，并且在 ICL 能力上与变换器相当。我们在简单函数逼近和更复杂的自然语言处理问题上对 Mamba 进行了评估，结果显示 Mamba 在这两类任务的 ICL 性能上与变换器模型不相上下。深入分析发现，Mamba 与变换器模型一样，似乎通过逐步优化其内部表示来解决 ICL 问题。总的来说，我们的研究指出 Mamba 可能是变换器模型在处理长输入序列的 ICL 任务上的一个高效替代选择。这一发现在元学习领域令人振奋，并可能推动像 TabPFN 或 Optformer 这样的上下文学习 AutoML 算法扩展到更长的输入序列。",
+    "title_cn": "曼巴是否具备情境学习的能力？",
+    "tags": [
+      "分类：LLM理论",
+      "机器学习",
+      ""
+    ]
+  },
+  {
     "title": "Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs",
     "submit_datetime": "2024年04月23日",
     "abstract": "Multimodal LLMs are the natural evolution of LLMs, and enlarge their capabilities so as to work beyond the pure textual modality. As research is being carried out to design novel architectures and vision-and-language adapters, in this paper we concentrate on endowing such models with the capability of answering questions that require external knowledge. Our approach, termed Wiki-LLaVA, aims at integrating an external knowledge source of multimodal documents, which is accessed through a hierarchical retrieval pipeline. Relevant passages, using this approach, are retrieved from the external knowledge source and employed as additional context for the LLM, augmenting the effectiveness and precision of generated dialogues. We conduct extensive experiments on datasets tailored for visual question answering with external data and demonstrate the appropriateness of our approach.",
@@ -7285,6 +7380,20 @@
       "Agent",
       "交通系统",
       "通信技术"
+    ]
+  },
+  {
+    "title": "Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?",
+    "submit_datetime": "2024年04月23日",
+    "abstract": "General purpose Large Language Models (LLM) such as the Generative Pretrained Transformer (GPT) and Large Language Model Meta AI (LLaMA) have attracted much attention in recent years. There is strong evidence that these models can perform remarkably well in various natural language processing tasks. However, how to leverage them to approach domain-specific use cases and drive value remains an open question. In this work, we focus on a specific use case, pharmaceutical manufacturing investigations, and propose that leveraging historical records of manufacturing incidents and deviations in an organization can be beneficial for addressing and closing new cases, or de-risking new manufacturing campaigns. Using a small but diverse dataset of real manufacturing deviations selected from different product lines, we evaluate and quantify the power of three general purpose LLMs (GPT-3.5, GPT-4, and Claude-2) in performing tasks related to the above goal. In particular, (1) the ability of LLMs in automating the process of extracting specific information such as root cause of a case from unstructured data, as well as (2) the possibility of identifying similar or related deviations by performing semantic search on the database of historical records are examined. While our results point to the high accuracy of GPT-4 and Claude-2 in the information extraction task, we discuss cases of complex interplay between the apparent reasoning and hallucination behavior of LLMs as a risk factor. Furthermore, we show that semantic search on vector embedding of deviation descriptions can be used to identify similar records, such as those with a similar type of defect, with a high level of accuracy. We discuss further improvements to enhance the accuracy of similar record identification.",
+    "pdf_link": "https://arxiv.org/abs/2404.15578",
+    "graphs": [],
+    "abstract_cn": "近年来，诸如生成预训练变换器（GPT）和大型语言模型元人工智能（LLaMA）等通用大型语言模型（LLM）备受瞩目，并在自然语言处理任务中展现出卓越性能。但如何有效利用这些模型以适应特定领域的应用场景，仍是一个待解之谜。本研究着眼于制药制造业调查这一特定用例，提出通过利用企业中制造事故和偏差的历史档案，有助于处理新案例或降低新生产活动的潜在风险。我们选取了来自不同生产线的真实制造偏差数据，虽规模不大但类型多样，以此评估了三款主流LLM（GPT-3.5、GPT-4和Claude-2）在相关任务上的表现。研究特别关注了：（1）LLM自动从非结构化数据中提取关键信息，如案例根本原因的能力；（2）通过语义搜索历史记录数据库，识别相似或相关偏差的可能性。GPT-4和Claude-2在信息提取任务上的高准确率表现引人注目，同时我们也探讨了LLM在推理与幻觉行为间的复杂互动，及其作为风险因素的考量。此外，我们还展示了通过向量嵌入进行语义搜索，能够高效识别具有相似缺陷类型的相关记录。文章进一步讨论了如何提升识别相似记录的准确性的潜在改进措施。",
+    "title_cn": "基础性的大型语言模型是否能够帮助我们开展药品制造业的调查研究？",
+    "tags": [
+      "LLM应用",
+      "制药制造",
+      ""
     ]
   },
   {
@@ -8860,6 +8969,76 @@
     ]
   },
   {
+    "title": "CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models",
+    "submit_datetime": "2024年04月19日",
+    "abstract": "Large language models (LLMs) introduce new security risks, but there are few comprehensive evaluation suites to measure and reduce these risks. We present BenchmarkName, a novel benchmark to quantify LLM security risks and capabilities. We introduce two new areas for testing: prompt injection and code interpreter abuse. We evaluated multiple state-of-the-art (SOTA) LLMs, including GPT-4, Mistral, Meta Llama 3 70B-Instruct, and Code Llama. Our results show that conditioning away risk of attack remains an unsolved problem; for example, all tested models showed between 26% and 41% successful prompt injection tests. We further introduce the safety-utility tradeoff: conditioning an LLM to reject unsafe prompts can cause the LLM to falsely reject answering benign prompts, which lowers utility. We propose quantifying this tradeoff using False Refusal Rate (FRR). As an illustration, we introduce a novel test set to quantify FRR for cyberattack helpfulness risk. We find many LLMs able to successfully comply with \"borderline\" benign requests while still rejecting most unsafe requests. Finally, we quantify the utility of LLMs for automating a core cybersecurity task, that of exploiting software vulnerabilities. This is important because the offensive capabilities of LLMs are of intense interest; we quantify this by creating novel test sets for four representative problems. We find that models with coding capabilities perform better than those without, but that further work is needed for LLMs to become proficient at exploit generation. Our code is open source and can be used to evaluate other LLMs.",
+    "pdf_link": "https://arxiv.org/abs/2404.13161",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/cyberattack_compliance_v5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/llm_perf_ffr_tradeoff_v5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/prompt_inject_eval_v5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/prompt_injection_logic_vs_security_v5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/code_exp_eval_v5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/code_interp_scores_v6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/bof_v3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/string_constraint_example_v3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13161v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13161/sqli_example_v3.png"
+      }
+    ],
+    "abstract_cn": "大型语言模型（LLMs）带来了前所未有的安全挑战，尽管目前缺乏全面的评估工具来衡量和缓解这些风险。我们推出了一个创新的基准测试——BenchmarkName，旨在量化LLMs的安全风险和防护能力。本研究开拓了两个新的测试维度：提示注入和代码解释器滥用。我们对一系列业界领先的（SOTA）LLMs进行了评估，包括GPT-4、Mistral、Meta Llama 3 70B-Instruct和Code Llama。评估结果显示，防御攻击的风险仍是一个难题；例如，所有受测模型在提示注入测试中的成功率介于26%至41%之间。此外，我们提出了安全性与实用性的平衡问题：LLMs在被调整以拒绝危险提示的同时，也可能错误地拒绝回答无害的提示，从而降低了其实用性。我们提出通过错误拒绝率（FRR）来衡量这一权衡。为了具体说明，我们设计了一个新的测试集，用以量化网络攻击帮助性风险的FRR。研究发现，许多LLMs能够在拒绝大多数危险请求的同时，成功响应“边缘性”的无害请求。此外，我们还评估了LLMs在自动化软件漏洞利用这一核心网络安全任务中的效用。鉴于LLMs的攻击潜力备受关注，我们通过创建针对四个代表性问题的新型测试集来量化这一能力。结果显示，具备编码功能的模型在性能上优于那些没有编码功能的模型，但LLMs要想在漏洞利用生成方面达到高水准，仍需进一步的研究和开发。我们的代码已开源，可供其他LLMs的评估使用。",
+    "title_cn": "CyberSecEval 2：为大型语言模型量身打造的全面网络安全评估工具集。",
+    "tags": [
+      "LLM应用",
+      "网络安全",
+      "人工智能安全"
+    ]
+  },
+  {
+    "title": "Data Alignment for Zero-Shot Concept Generation in Dermatology AI",
+    "submit_datetime": "2024年04月19日",
+    "abstract": "AI in dermatology is evolving at a rapid pace but the major limitation to training trustworthy classifiers is the scarcity of data with ground-truth concept level labels, which are meta-labels semantically meaningful to humans. Foundation models like CLIP providing zero-shot capabilities can help alleviate this challenge by leveraging vast amounts of image-caption pairs available on the internet. CLIP can be fine-tuned using domain specific image-caption pairs to improve classification performance. However, CLIP's pre-training data is not well-aligned with the medical jargon that clinicians use to perform diagnoses. The development of large language models (LLMs) in recent years has led to the possibility of leveraging the expressive nature of these models to generate rich text. Our goal is to use these models to generate caption text that aligns well with both the clinical lexicon and with the natural human language used in CLIP's pre-training data. Starting with captions used for images in PubMed articles, we extend them by passing the raw captions through an LLM fine-tuned on the field's several textbooks. We find that using captions generated by an expressive fine-tuned LLM like GPT-3.5 improves downstream zero-shot concept classification performance.",
+    "pdf_link": "https://arxiv.org/abs/2404.13043",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.13043v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13043/text.png"
+      }
+    ],
+    "abstract_cn": "AI在皮肤科的应用正迅速进步，但高质量数据的匮乏仍是训练可靠分类器的瓶颈。这些数据需要具备对人类有意义的、精确到概念层面的标签。CLIP等基础模型凭借其零样本功能，通过利用网络上海量的图像与标题配对，为这一难题提供了解决方案。通过特定领域的图像与标题配对对CLIP进行微调，可以有效提升分类准确度。尽管如此，CLIP的预训练数据与医生诊断时使用的医学术语并不完全吻合。幸运的是，近年来大型语言模型（LLM）的兴起，让我们看到了利用这些模型的强大表达力来创造丰富文本的希望。我们计划利用这些模型生成既贴近临床词汇，又符合CLIP预训练数据中自然人类语言习惯的标题文本。具体来说，我们首先选取PubMed文献中的图像标题，然后通过在该领域教科书上微调的LLM对这些原始标题进行扩展。实验结果表明，使用经过微调的表达力强的LLM，如GPT-3.5，生成的标题能够显著提升零样本概念分类的性能。",
+    "title_cn": "为皮肤科学AI中的零样本概念生成进行数据对齐。",
+    "tags": [
+      "LLM应用",
+      "皮肤科",
+      "人工智能"
+    ]
+  },
+  {
     "title": "Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL",
     "submit_datetime": "2024年04月18日",
     "abstract": "The current state-of-the-art (SOTA) for automated text-to-SQL still falls well short of expert human performance as measured by execution accuracy (EX) on the BIRD-SQL benchmark. The most accurate methods are also slow and expensive. To advance the SOTA for text-to-SQL while reducing cost and improving speed, we explore the combination of low-cost fine tuning, novel methods for diverse retrieval-augmented generation (RAG) and new input and output formats that help large language models (LLMs) achieve higher EX. We introduce two new methods, Dubo-SQL v1 and v2. Dubo-SQL v1 sets a new record for EX on the holdout test set of BIRD-SQL. Dubo-SQL v2 achieves even higher performance on the BIRD-SQL dev set. Dubo-SQL v1 relies on LLMs from OpenAI, but uses the low-cost GPT-3.5 Turbo while exceeding the performance of the next-best model using OpenAI, which instead uses the more expensive GPT-4. Dubo-SQL v1 exceeds the performance of the next-best model using GPT-3.5 by over 20%. Dubo-SQL v2 uses GPT-4 Turbo and RAG in place of fine tuning to push EX higher.",
@@ -10405,6 +10584,20 @@
     ]
   },
   {
+    "title": "Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity, Bias and Propensity for Hallucinations",
+    "submit_datetime": "2024年04月15日",
+    "abstract": "This paper introduces fourteen novel datasets for the evaluation of Large Language Models' safety in the context of enterprise tasks. A method was devised to evaluate a model's safety, as determined by its ability to follow instructions and output factual, unbiased, grounded, and appropriate content. In this research, we used OpenAI GPT as point of comparison since it excels at all levels of safety. On the open-source side, for smaller models, Meta Llama2 performs well at factuality and toxicity but has the highest propensity for hallucination. Mistral hallucinates the least but cannot handle toxicity well. It performs well in a dataset mixing several tasks and safety vectors in a narrow vertical domain. Gemma, the newly introduced open-source model based on Google Gemini, is generally balanced but trailing behind. When engaging in back-and-forth conversation (multi-turn prompts), we find that the safety of open-source models degrades significantly. Aside from OpenAI's GPT, Mistral is the only model that still performed well in multi-turn tests.",
+    "pdf_link": "https://arxiv.org/abs/2404.09785",
+    "graphs": [],
+    "abstract_cn": "本论文推出了十四个创新数据集，旨在评估大型语言模型（LLM）在企业任务中的安全性。我们开发了一种评估模型安全性的方法，即模型遵循指令、输出真实、公正、有根据且恰当内容的能力。研究中，我们将 OpenAI GPT 作为安全性能的标杆，因为它在安全性的各个层面上都表现出色。在开源小型模型中，Meta Llama2 在真实性和有害性方面表现优异，但容易产生幻觉。相比之下，Mistral 最少产生幻觉，但对有害内容的处理能力较弱。它在融合了多种任务和安全要素的特定垂直领域的数据集中表现良好。新推出的基于 Google Gemini 的开源模型 Gemma 整体表现均衡，但仍有提升空间。在多轮对话测试中，我们注意到开源模型的安全性显著降低。除了 OpenAI 的 GPT，Mistral 是唯一在多轮对话中仍保持良好表现的模型。",
+    "title_cn": "对 Llama2、Mistral、Gemma 以及 GPT 进行性能评估，主要考察它们在事实准确性、有害内容产生、偏见以及产生幻觉的倾向等多个维度上的表现。",
+    "tags": [
+      "LLM应用",
+      "企业安全",
+      "人工智能安全"
+    ]
+  },
+  {
     "title": "Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT",
     "submit_datetime": "2024年04月14日",
     "abstract": "In today's rapidly evolving landscape of Artificial Intelligence, large language models (LLMs) have emerged as a vibrant research topic. LLMs find applications in various fields and contribute significantly. Despite their powerful language capabilities, similar to pre-trained language models (PLMs), LLMs still face challenges in remembering events, incorporating new information, and addressing domain-specific issues or hallucinations. To overcome these limitations, researchers have proposed Retrieval-Augmented Generation (RAG) techniques, some others have proposed the integration of LLMs with Knowledge Graphs (KGs) to provide factual context, thereby improving performance and delivering more accurate feedback to user queries.\n  Education plays a crucial role in human development and progress. With the technology transformation, traditional education is being replaced by digital or blended education. Therefore, educational data in the digital environment is increasing day by day. Data in higher education institutions are diverse, comprising various sources such as unstructured/structured text, relational databases, web/app-based API access, etc. Constructing a Knowledge Graph from these cross-data sources is not a simple task. This article proposes a method for automatically constructing a Knowledge Graph from multiple data sources and discusses some initial applications (experimental trials) of KG in conjunction with LLMs for question-answering tasks.",
@@ -10520,6 +10713,113 @@
       "Agent",
       "人工智能",
       ""
+    ]
+  },
+  {
+    "title": "Trajeglish: Traffic Modeling as Next-Token Prediction",
+    "submit_datetime": "2024年04月14日",
+    "abstract": "A longstanding challenge for self-driving development is simulating dynamic driving scenarios seeded from recorded driving logs. In pursuit of this functionality, we apply tools from discrete sequence modeling to model how vehicles, pedestrians and cyclists interact in driving scenarios. Using a simple data-driven tokenization scheme, we discretize trajectories to centimeter-level resolution using a small vocabulary. We then model the multi-agent sequence of discrete motion tokens with a GPT-like encoder-decoder that is autoregressive in time and takes into account intra-timestep interaction between agents. Scenarios sampled from our model exhibit state-of-the-art realism; our model tops the Waymo Sim Agents Benchmark, surpassing prior work along the realism meta metric by 3.3% and along the interaction metric by 9.9%. We ablate our modeling choices in full autonomy and partial autonomy settings, and show that the representations learned by our model can quickly be adapted to improve performance on nuScenes. We additionally evaluate the scalability of our model with respect to parameter count and dataset size, and use density estimates from our model to quantify the saliency of context length and intra-timestep interaction for the traffic modeling task.",
+    "pdf_link": "https://arxiv.org/abs/2312.04535",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/demoplot.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/demoplot3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/manytrial.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/diagram.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/demoplot2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/demoplot4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/compare0004.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/compare0005.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/compare0007.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.04535v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.04535/compare0016.png"
+      }
+    ],
+    "abstract_cn": "自动驾驶技术发展中的一项长期挑战是如何基于记录的驾驶日志模拟动态驾驶情境。为此，我们采用了离散序列建模的工具来模拟车辆、行人和骑行者在驾驶情境中的相互作用。通过一个简洁的数据驱动标记化方法，我们将轨迹细化至厘米级精度，并利用有限的词汇库进行编码。接着，我们利用类似GPT的编码器-解码器架构，对离散运动标记的序列进行建模，该架构在时间上具有自回归特性，并能够捕捉智能体间的时间步内互动。我们模型生成的情境在真实感上达到了先进水平；在Waymo Sim Agents基准测试中，我们的模型超越了先前的研究，在真实感指标上提升了3.3%，在交互指标上提升了9.9%。我们还全面探讨了在完全自动驾驶和部分自动驾驶环境下的建模决策，并证明了我们模型学习到的表征能够迅速适应并提升在nuScenes上的表现。此外，我们还评估了模型在参数数量和数据集规模上的扩展性，并利用模型的密度估计来量化交通建模任务中上下文长度和时间步内交互的重要性。",
+    "title_cn": "Trajeglish：视交通建模为继绀令牌预测的艺术",
+    "tags": [
+      "Agent",
+      "自动驾驶",
+      "交通模拟"
     ]
   },
   {
@@ -10720,6 +11020,20 @@
       "Agent",
       "人工智能",
       "决策过程"
+    ]
+  },
+  {
+    "title": "X-Eval: Generalizable Multi-aspect Text Evaluation via Augmented Instruction Tuning with Auxiliary Evaluation Aspects",
+    "submit_datetime": "2024年04月13日",
+    "abstract": "Natural Language Generation (NLG) typically involves evaluating the generated text in various aspects (e.g., consistency and naturalness) to obtain a comprehensive assessment. However, multi-aspect evaluation remains challenging as it may require the evaluator to generalize to any given evaluation aspect even if it's absent during training. In this paper, we introduce X-Eval, a two-stage instruction tuning framework to evaluate the text in both seen and unseen aspects customized by end users. X-Eval consists of two learning stages: the vanilla instruction tuning stage that improves the model's ability to follow evaluation instructions, and an enhanced instruction tuning stage that exploits the connections between fine-grained evaluation aspects to better assess text quality. To support the training of X-Eval, we collect AspectInstruct, the first instruction tuning dataset tailored for multi-aspect NLG evaluation spanning 27 diverse evaluation aspects with 65 tasks. To enhance task diversity, we devise an augmentation strategy that converts human rating annotations into diverse forms of NLG evaluation tasks, including scoring, comparison, ranking, and Boolean question answering. Extensive experiments across three essential categories of NLG tasks: dialogue generation, summarization, and data-to-text coupled with 21 aspects in meta-evaluation, demonstrate that our X-Eval enables even a lightweight language model to achieve a comparable if not higher correlation with human judgments compared to the state-of-the-art NLG evaluators, such as GPT-4.",
+    "pdf_link": "https://arxiv.org/abs/2311.08788",
+    "graphs": [],
+    "abstract_cn": "自然语言生成（NLG）任务的评估往往需要从多个维度（如文本的连贯性和自然度）对生成的文本进行综合考量。但这种多维度的评估方法颇具挑战，因为它要求评估者即使在训练阶段未接触到某些评估维度，也需对其进行泛化评估。本文提出了X-Eval，这是一个分两阶段的指令调优框架，旨在评估文本在用户自定义的已知和未知维度上的表现。X-Eval包含两个学习阶段：基础的指令调优阶段，旨在提升模型遵循评估指令的能力；以及进阶的指令调优阶段，通过挖掘细粒度评估维度之间的联系，更准确地评估文本质量。为训练X-Eval，我们创建了AspectInstruct数据集，这是首个专为多维度NLG评估设计的指令调优数据集，覆盖了27个不同的评估维度和65个任务。为增加任务多样性，我们采用了一种增强策略，将人工评分注释转换成多样的NLG评估任务形式，包括评分、比较、排序和布尔问题解答。通过在对话生成、摘要和数据到文本这三个关键NLG任务类别上的广泛实验，以及元评估中的21个维度，我们证明了X-Eval能够使即使是轻量级语言模型也能与最先进的NLG评估器（例如GPT-4）相媲美，甚至在与人类判断的相关性上更胜一筹。",
+    "title_cn": "X-Eval：一种通过增强指令调整和辅助评估维度，实现文本多方面评估的通用方法。",
+    "tags": [
+      "LLM应用",
+      "",
+      "评估框架"
     ]
   },
   {
@@ -11550,6 +11864,61 @@
     ]
   },
   {
+    "title": "METAL: Towards Multilingual Meta-Evaluation",
+    "submit_datetime": "2024年04月02日",
+    "abstract": "With the rising human-like precision of Large Language Models (LLMs) in numerous tasks, their utilization in a variety of real-world applications is becoming more prevalent. Several studies have shown that LLMs excel on many standard NLP benchmarks. However, it is challenging to evaluate LLMs due to test dataset contamination and the limitations of traditional metrics. Since human evaluations are difficult to collect, there is a growing interest in the community to use LLMs themselves as reference-free evaluators for subjective metrics. However, past work has shown that LLM-based evaluators can exhibit bias and have poor alignment with human judgments. In this study, we propose a framework for an end-to-end assessment of LLMs as evaluators in multilingual scenarios. We create a carefully curated dataset, covering 10 languages containing native speaker judgments for the task of summarization. This dataset is created specifically to evaluate LLM-based evaluators, which we refer to as meta-evaluation (METAL). We compare the performance of LLM-based evaluators created using GPT-3.5-Turbo, GPT-4, and PaLM2. Our results indicate that LLM-based evaluators based on GPT-4 perform the best across languages, while GPT-3.5-Turbo performs poorly. Additionally, we perform an analysis of the reasoning provided by LLM-based evaluators and find that it often does not match the reasoning provided by human judges.",
+    "pdf_link": "https://arxiv.org/abs/2404.01667",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.01667v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.01667/x10.png"
+      }
+    ],
+    "abstract_cn": "随着大型语言模型（LLMs）在各种任务中精准度的不断提升，它们在现实世界应用中的运用也日益广泛。多项研究证实，LLMs在众多标准的自然语言处理（NLP）基准测试中表现优异。然而，由于测试数据集的污染问题和传统评估标准的局限，对LLMs的评估变得复杂。鉴于收集人类评估的难度，社区越来越倾向于利用LLMs作为主观度量的无参考评估工具。但先前研究指出，基于LLM的评估器可能存在偏见，且与人类判断的契合度不高。本研究提出了一个用于全面评估多语言环境下LLMs作为评估器的框架。我们构建了一个精心设计的数据集，覆盖10种语言，包含了母语者对摘要任务的评估。该数据集专为评估基于LLM的评估器而设计，我们称之为元评估（METAL）。我们对比了采用GPT-3.5-Turbo、GPT-4和PaLM2构建的基于LLM的评估器的性能。研究发现，基于GPT-4的评估器在跨语言评估中表现最佳，而GPT-3.5-Turbo的表现不尽人意。此外，我们对基于LLM的评估器提供的推理分析表明，其推理往往与人类裁判的推理不一致。",
+    "title_cn": "METAL：探索多语言元评估的新境界",
+    "tags": [
+      "LLM应用",
+      "",
+      "评估工具"
+    ]
+  },
+  {
     "title": "Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT",
     "submit_datetime": "2024年04月01日",
     "abstract": "Classroom observation protocols standardize the assessment of teaching effectiveness and facilitate comprehension of classroom interactions. Whereas these protocols offer teachers specific feedback on their teaching practices, the manual coding by human raters is resource-intensive and often unreliable. This has sparked interest in developing AI-driven, cost-effective methods for automating such holistic coding. Our work explores a multimodal approach to automatically estimating encouragement and warmth in classrooms, a key component of the Global Teaching Insights (GTI) study's observation protocol. To this end, we employed facial and speech emotion recognition with sentiment analysis to extract interpretable features from video, audio, and transcript data. The prediction task involved both classification and regression methods. Additionally, in light of recent large language models' remarkable text annotation capabilities, we evaluated ChatGPT's zero-shot performance on this scoring task based on transcripts. We demonstrated our approach on the GTI dataset, comprising 367 16-minute video segments from 92 authentic lesson recordings. The inferences of GPT-4 and the best-trained model yielded correlations of r = .341 and r = .441 with human ratings, respectively. Combining estimates from both models through averaging, an ensemble approach achieved a correlation of r = .513, comparable to human inter-rater reliability. Our model explanation analysis indicated that text sentiment features were the primary contributors to the trained model's decisions. Moreover, GPT-4 could deliver logical and concrete reasoning as potential teacher guidelines. Our findings provide insights into using advanced, multimodal techniques for automated classroom observation, aiming to foster teacher training through frequent and valuable feedback.",
@@ -11582,6 +11951,20 @@
       "LLM应用",
       "",
       "人工智能"
+    ]
+  },
+  {
+    "title": "Meta Prompting for AI Systems",
+    "submit_datetime": "2024年04月01日",
+    "abstract": "In this work, we present a comprehensive study of Meta Prompting (MP), an innovative technique reshaping the utilization of language models (LMs) and AI systems in problem-solving and data interaction. Grounded in type theory and category theory, Meta Prompting emphasizes the structure and syntax of information over traditional content-centric methods. The paper explores the formal definitions of Meta Prompting, sets it apart from few-shot prompting, and underlines its effectiveness in various AI applications. A key focus is applying Meta Prompting for complex reasoning tasks, showing how it effectively deconstructs intricate problems into simpler sub-problems, enhancing token efficiency, and enabling more equitable problem-solving comparisons, especially against few-shot prompting methods. Additionally, the paper introduces Meta Prompting for prompting tasks, allowing LLMs to self-generate new prompts in a recursive, metaprogramming-like manner. Empirical experiments, including using a Qwen-72B base language model equipped with meta prompt without instruction-tuning to solve MATH problems with accuracy at 46.3%, which surpass the supervised fine-tuned counterpart trained with extensive mathematical QA instruction pairs and even the initial version of GPT-4, solving GSM8K problems with 83.5% accuracy with zero-shot meta-prompted Qwen-72B base language model, and solving the Game of 24 tasks with a 100% success rate using GPT-4, demonstrate the meta prompting's efficacy in achieving high accuracy and efficiency, showcasing Meta Prompting's transformative impact on AI problem-solving. The code is available at https://github.com/meta-prompting/meta-prompting.",
+    "pdf_link": "https://arxiv.org/abs/2311.11482",
+    "graphs": [],
+    "abstract_cn": "本研究深入探讨了元提示（Meta Prompting，MP），这是一种革新性技术，正在改变语言模型和AI系统在问题解决与数据交互方面的应用。MP立足于类型理论和范畴理论，更注重信息的结构与语法，而非仅仅关注内容。文章详细阐述了MP的形式定义，阐明了其与少量示例提示的区别，并突出了其在多样AI应用中的显著效能。特别地，研究着重于将MP应用于复杂的推理任务，揭示了它如何高效地将难题拆解为简易子问题，提升令牌效率，并促进了更为公正的问题解决对比，尤其是与少量示例提示相比较。文章还介绍了MP在提示任务上的创新应用，使大型语言模型能够自我生成新提示，呈现出一种递归且类似元编程的新方式。通过一系列实证实验，如使用未经指令调整的Qwen-72B基础语言模型解决数学问题，准确度达到46.3%，超越了经过大量数学问答指令对训练的监督微调模型，甚至超过了GPT-4的初始版本；以及使用零样本元提示的Qwen-72B基础语言模型解决GSM8K问题，准确率达到83.5%；还有使用GPT-4以100%的成功率解决24点游戏任务，充分证明了MP在提升AI问题解决精度与效率方面的卓越能力，彰显了其在AI问题解决领域的革命性影响。相关代码已在 https://github.com/meta-prompting/meta-prompting 上公开。",
+    "title_cn": "探索元提示技术在人工智能系统中的运用",
+    "tags": [
+      "LLM应用",
+      "人工智能",
+      "问题解决"
     ]
   },
   {
@@ -11703,6 +12086,68 @@
     ]
   },
   {
+    "title": "LlamBERT: Large-scale low-cost data annotation in NLP",
+    "submit_datetime": "2024年03月23日",
+    "abstract": "Large Language Models (LLMs), such as GPT-4 and Llama 2, show remarkable proficiency in a wide range of natural language processing (NLP) tasks. Despite their effectiveness, the high costs associated with their use pose a challenge. We present LlamBERT, a hybrid approach that leverages LLMs to annotate a small subset of large, unlabeled databases and uses the results for fine-tuning transformer encoders like BERT and RoBERTa. This strategy is evaluated on two diverse datasets: the IMDb review dataset and the UMLS Meta-Thesaurus. Our results indicate that the LlamBERT approach slightly compromises on accuracy while offering much greater cost-effectiveness.",
+    "pdf_link": "https://arxiv.org/abs/2403.15938",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2403.15938v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15938/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.15938v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15938/x2.png"
+      }
+    ],
+    "abstract_cn": "诸如 GPT-4 和 Llama 2 这样的大型语言模型在多样的自然语言处理任务上展现了卓越的能力。然而，它们的高效能也伴随着高昂的经济成本，这无疑是一个难题。我们介绍了 LlamBERT，这是一种创新的混合策略，它通过利用大型语言模型对大量未标记数据库的一小部分进行注释，并以此为基础对 BERT 和 RoBERTa 等变换器编码器进行精细调整。该方法在 IMDb 影评数据集和 UMLS 元词库两大迥异的数据集上进行了测试。测试结果显示，尽管 LlamBERT 在精确度上略有牺牲，但其性价比却显著提升。",
+    "title_cn": "LlamBERT：自然语言处理领域的大规模低成本数据标注解决方案",
+    "tags": [
+      "LLM应用",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Using Large Language Models for OntoClean-based Ontology Refinement",
+    "submit_datetime": "2024年03月23日",
+    "abstract": "This paper explores the integration of Large Language Models (LLMs) such as GPT-3.5 and GPT-4 into the ontology refinement process, specifically focusing on the OntoClean methodology. OntoClean, critical for assessing the metaphysical quality of ontologies, involves a two-step process of assigning meta-properties to classes and verifying a set of constraints. Manually conducting the first step proves difficult in practice, due to the need for philosophical expertise and lack of consensus among ontologists. By employing LLMs with two prompting strategies, the study demonstrates that high accuracy in the labelling process can be achieved. The findings suggest the potential for LLMs to enhance ontology refinement, proposing the development of plugin software for ontology tools to facilitate this integration.",
+    "pdf_link": "https://arxiv.org/abs/2403.15864",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2403.15864v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15864/process_pipeline.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.15864v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15864/representations.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.15864v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15864/zero-3.5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.15864v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15864/zero-4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.15864v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15864/few-3.5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.15864v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.15864/few-4.png"
+      }
+    ],
+    "abstract_cn": "本研究着眼于将如 GPT-3.5 和 GPT-4 这样的大型语言模型融入到本体论的精细化流程中，尤其聚焦于 OntoClean 方法。OntoClean 在评估本体论的哲学质量方面发挥关键作用，它包括为类别分配元属性和检验一系列约束的两个步骤。实际操作中，由于需要深厚的哲学背景和本体论专家之间的意见分歧，手动执行第一步颇为棘手。研究通过采用两种不同的提示策略，利用 LLMs 展示了在标记过程中能够达到高准确度。这些发现揭示了 LLMs 在提升本体论精细化方面的潜力，并提出了开发插件软件以促进本体论工具与 LLMs 融合的构想。",
+    "title_cn": "本文探讨了如何利用大型语言模型对基于 OntoClean 方法论的本体进行精细化处理。",
+    "tags": [
+      "LLM应用",
+      "本体论",
+      "人工智能"
+    ]
+  },
+  {
     "title": "Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)",
     "submit_datetime": "2024年03月21日",
     "abstract": "Teachers' mathematical content knowledge (CK) is of vital importance and need in teacher professional development (PD) programs. Computer-aided asynchronous PD systems are the most recent proposed PD techniques, which aim to help teachers improve their PD equally with fewer concerns about costs and limitations of time or location. However, current automatic CK identification methods, which serve as one of the core techniques of asynchronous PD systems, face challenges such as diversity of user responses, scarcity of high-quality annotated data, and low interpretability of the predictions. To tackle these challenges, we propose a Multi-Agent LLMs-based framework, LLMAgent-CK, to assess the user responses' coverage of identified CK learning goals without human annotations. By taking advantage of multi-agent LLMs in strong generalization ability and human-like discussions, our proposed LLMAgent-CK presents promising CK identifying performance on a real-world mathematical CK dataset MaCKT. Moreover, our case studies further demonstrate the working of the multi-agent framework.",
@@ -11714,6 +12159,242 @@
       "Agent",
       "",
       "人工智能"
+    ]
+  },
+  {
+    "title": "AutoMix: Automatically Mixing Language Models",
+    "submit_datetime": "2024年03月20日",
+    "abstract": "Large language models (LLMs) are now available from cloud API providers in various sizes and configurations. While this diversity offers a broad spectrum of choices, effectively leveraging the options to optimize computational cost and performance remains challenging. In this work, we present AutoMix, an approach that strategically routes queries to larger LMs, based on the approximate correctness of outputs from a smaller LM. Central to AutoMix is a few-shot self-verification mechanism, which estimates the reliability of its own outputs without requiring training. Given that verifications can be noisy, we employ a meta-verifier in AutoMix to refine the accuracy of these assessments. Our experiments using LLAMA2-13B and GPT-4, on five context-grounded reasoning datasets demonstrate that AutoMix surpasses established baselines, improving the incremental benefit per cost by up to 86%. Our code and data are available at https://github.com/automix-llm/automix.",
+    "pdf_link": "https://arxiv.org/abs/2310.12963",
+    "graphs": [],
+    "abstract_cn": "如今，多种规模和配置的大型语言模型（LLMs）可通过云API轻松获取。尽管选择众多，但要高效利用这些资源以优化计算成本和性能并非易事。本研究介绍了AutoMix，这是一种智能路由查询至更大型语言模型的方法，依据是较小语言模型输出的正确性。AutoMix的精髓在于一种少量样本自我验证机制，它能够在无需训练的情况下评估自身输出的可信度。鉴于自我验证可能存在误差，AutoMix采用了元验证器来进一步提升评估的精确度。通过在五个基于上下文的推理数据集上的测试，我们发现AutoMix在提升性价比方面，相比现有基准提升了高达86%的增量效益。相关代码和数据已在 https://github.com/automix-llm/automix 上公开。",
+    "title_cn": "AutoMix：智能融合语言模型，实现自动混编",
+    "tags": [
+      "LLM应用",
+      "云计算",
+      ""
+    ]
+  },
+  {
+    "title": "Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs",
+    "submit_datetime": "2024年03月19日",
+    "abstract": "Prompt ensembling of Large Language Model (LLM) generated category-specific prompts has emerged as an effective method to enhance zero-shot recognition ability of Vision-Language Models (VLMs). To obtain these category-specific prompts, the present methods rely on hand-crafting the prompts to the LLMs for generating VLM prompts for the downstream tasks. However, this requires manually composing these task-specific prompts and still, they might not cover the diverse set of visual concepts and task-specific styles associated with the categories of interest. To effectively take humans out of the loop and completely automate the prompt generation process for zero-shot recognition, we propose Meta-Prompting for Visual Recognition (MPVR). Taking as input only minimal information about the target task, in the form of its short natural language description, and a list of associated class labels, MPVR automatically produces a diverse set of category-specific prompts resulting in a strong zero-shot classifier. MPVR generalizes effectively across various popular zero-shot image recognition benchmarks belonging to widely different domains when tested with multiple LLMs and VLMs. For example, MPVR obtains a zero-shot recognition improvement over CLIP by up to 19.8% and 18.2% (5.0% and 4.5% on average over 20 datasets) leveraging GPT and Mixtral LLMs, respectively",
+    "pdf_link": "https://arxiv.org/abs/2403.11755",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2403.11755v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.11755/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.11755v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.11755/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.11755v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.11755/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.11755v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.11755/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.11755v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.11755/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.11755v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.11755/x6.png"
+      }
+    ],
+    "abstract_cn": "大型语言模型（LLM）生成的类别特定提示的集成化，已成为提升视觉-语言模型（VLM）零样本识别能力的有效手段。现行方法通过手工为LLM定制提示来生成VLM的下游任务提示，但这种方法不仅需要人工编写任务特定的提示，而且可能无法全面覆盖与目标类别相关的多样化视觉概念和任务风格。为了彻底实现零样本识别中提示生成过程的自动化，避免人工干预，我们提出了一种新方法——视觉识别的元提示（MPVR）。MPVR仅需目标任务的简短自然语言描述及其类别标签列表，便能自动产出一系列多样化的类别特定提示，构建出强大的零样本分类器。在多个流行的零样本图像识别基准测试中，MPVR展现出良好的泛化能力，这些测试覆盖了截然不同的领域。例如，MPVR在使用GPT和Mixtral LLM时，相较于CLIP在零样本识别上分别实现了最多19.8%和18.2%的提升（在20个数据集上平均提升了5.0%和4.5%）。",
+    "title_cn": "本文探讨了如何利用大型语言模型（LLMs）通过元提示技术，实现零样本视觉识别任务的自动化，以期提高模型在未见类别上的识别能力。",
+    "tags": [
+      "分类：LLM应用",
+      "视觉识别",
+      ""
+    ]
+  },
+  {
+    "title": "MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning",
+    "submit_datetime": "2024年03月12日",
+    "abstract": "Large Language models (LLMs) have demonstrated impressive in-context learning (ICL) capabilities, where a LLM makes predictions for a given test input together with a few input-output pairs (demonstrations). Nevertheless, the inclusion of demonstrations leads to a quadratic increase in the computational overhead of the self-attention mechanism. Existing solutions attempt to distill lengthy demonstrations into compact vectors. However, they often require task-specific retraining or compromise LLM's in-context learning performance. To mitigate these challenges, we present Meta dEmonstratioN Distillation (MEND), where a language model learns to distill any lengthy demonstrations into vectors without retraining for a new downstream task. We exploit the knowledge distillation to enhance alignment between MEND and LLM, achieving both efficiency and effectiveness simultaneously. MEND is endowed with the meta-knowledge of distilling demonstrations through a two-stage training process, which includes meta-distillation pretraining and fine-tuning. Comprehensive evaluations across seven diverse ICL task partitions using decoder-only (GPT-2) and encoder-decoder (T5) attest to MEND's prowess. It not only matches but often outperforms the Vanilla ICL as well as other state-of-the-art distillation models, while significantly reducing the computational demands. This innovation promises enhanced scalability and efficiency for the practical deployment of large language models",
+    "pdf_link": "https://arxiv.org/abs/2403.06914",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.06914v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.06914/x12.png"
+      }
+    ],
+    "abstract_cn": "大型语言模型（LLMs）在上下文学习（ICL）方面展现出了卓越的能力，能够结合少量输入输出对（示例）对特定测试输入进行预测。但引入示例会使自注意力机制的计算成本呈指数级增长。现有方法试图将复杂的示例简化为简洁的向量，却往往需要特定任务的重新训练或以牺牲模型的ICL性能为代价。为了应对这些挑战，我们引入了Meta dEmonstratioN Distillation（MEND）技术，这是一种无需针对新任务重新训练即可将长示例转化为向量的语言模型。MEND利用知识蒸馏技术，增强了与LLM的一致性，实现了效率与效果的双赢。通过包含元蒸馏预训练和微调的两阶段训练流程，MEND获得了蒸馏示例的元知识。在七个多样化的ICL任务领域的全面评估中，无论是使用仅解码器模型（GPT-2）还是编码器-解码器模型（T5），MEND都展现了其强大的性能。它不仅能够匹敌传统的ICL，常常还能超越其他尖端的蒸馏模型，并且在大幅度降低计算需求的同时，为大型语言模型的实际应用提供了更好的可扩展性和效率。",
+    "title_cn": "MEND：通过元示范展示的蒸馏技术，实现高效且有效的情境内学习。",
+    "tags": [
+      "LLM应用",
+      "人工智能",
+      ""
+    ]
+  },
+  {
+    "title": "LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation",
+    "submit_datetime": "2024年03月10日",
+    "abstract": "Large language models (LLMs) are a new and powerful tool for a wide span of applications involving natural language and demonstrate impressive code generation abilities. The goal of this work is to automatically generate tests and use these tests to validate and verify compiler implementations of a directive-based parallel programming paradigm, OpenACC. To do so, in this paper, we explore the capabilities of state-of-the-art LLMs, including open-source LLMs -- Meta Codellama, Phind fine-tuned version of Codellama, Deepseek Deepseek Coder and closed-source LLMs -- OpenAI GPT-3.5-Turbo and GPT-4-Turbo. We further fine-tuned the open-source LLMs and GPT-3.5-Turbo using our own testsuite dataset along with using the OpenACC specification. We also explored these LLMs using various prompt engineering techniques that include code template, template with retrieval-augmented generation (RAG), one-shot example, one-shot with RAG, expressive prompt with code template and RAG. This paper highlights our findings from over 5000 tests generated via all the above mentioned methods. Our contributions include: (a) exploring the capabilities of the latest and relevant LLMs for code generation, (b) investigating fine-tuning and prompt methods, and (c) analyzing the outcome of LLMs generated tests including manually analysis of representative set of tests. We found the LLM Deepseek-Coder-33b-Instruct produced the most passing tests followed by GPT-4-Turbo.",
+    "pdf_link": "https://arxiv.org/abs/2310.04963",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）作为处理自然语言相关应用的强有力新工具，展现出卓越的代码生成才能。本研究旨在自动化生成测试用例，以验证并确认OpenACC这一基于指令的并行编程范式的编译器实现。在本论文中，我们深入探讨了包括开源模型如Meta Codellama、Codellama的Phind微调版、Deepseek Deepseek Coder，以及闭源模型如OpenAI的GPT-3.5-Turbo和GPT-4-Turbo在内的尖端LLMs的潜力。利用自有的测试套件数据集和OpenACC规范，我们对这些开源和GPT-3.5-Turbo模型进行了进一步的微调。此外，我们还尝试了多种提示工程技术，包括代码模板、RAG（检索增强生成）辅助模板、单次示例、RAG辅助单次示例、以及包含代码模板和RAG的表达性提示。本文汇总了通过上述方法生成的逾5000个测试的研究成果。我们的研究成果包括：（a）探究当前相关LLMs在代码生成上的能力，（b）调研微调与提示技巧，以及（c）分析LLMs生成测试的结果，并对一组代表性测试进行了手动分析。研究发现，Deepseek-Coder-33b-Instruct模型生成的通过测试数量最多，紧随其后的是GPT-4-Turbo。",
+    "title_cn": "LLM4VV：构建基于大型语言模型的编译器验证测试集",
+    "tags": [
+      "LLM应用",
+      "软件工程",
+      "并行计算"
+    ]
+  },
+  {
+    "title": "An In-depth Evaluation of GPT-4 in Sentence Simplification with Error-based Human Assessment",
+    "submit_datetime": "2024年03月07日",
+    "abstract": "Sentence simplification, which rewrites a sentence to be easier to read and understand, is a promising technique to help people with various reading difficulties. With the rise of advanced large language models (LLMs), evaluating their performance in sentence simplification has become imperative. Recent studies have used both automatic metrics and human evaluations to assess the simplification abilities of LLMs. However, the suitability of existing evaluation methodologies for LLMs remains in question. First, the suitability of current automatic metrics on LLMs' simplification evaluation is still uncertain. Second, current human evaluation approaches in sentence simplification often fall into two extremes: they are either too superficial, failing to offer a clear understanding of the models' performance, or overly detailed, making the annotation process complex and prone to inconsistency, which in turn affects the evaluation's reliability. To address these problems, this study provides in-depth insights into LLMs' performance while ensuring the reliability of the evaluation. We design an error-based human annotation framework to assess the GPT-4's simplification capabilities. Results show that GPT-4 generally generates fewer erroneous simplification outputs compared to the current state-of-the-art. However, LLMs have their limitations, as seen in GPT-4's struggles with lexical paraphrasing. Furthermore, we conduct meta-evaluations on widely used automatic metrics using our human annotations. We find that while these metrics are effective for significant quality differences, they lack sufficient sensitivity to assess the overall high-quality simplification by GPT-4.",
+    "pdf_link": "https://arxiv.org/abs/2403.04963",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2403.04963v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2403.04963/x9.png"
+      }
+    ],
+    "abstract_cn": "句子简化技术，通过简化句子以提高其可读性，对于阅读有障碍的人群来说是一个充满希望的解决方案。随着大型语言模型（LLMs）的发展，准确评估它们在简化句子方面的性能变得尤为重要。近期研究综合运用了自动化指标和人工评估两种方式来衡量LLMs的简化技巧。然而，现有的评估方法是否适用于LLMs仍有待商榷。一方面，目前自动化指标在评估LLMs简化能力方面的适用性尚未明确；另一方面，现有的人工评估方法往往过于简单或过于复杂，无法准确反映模型的真实表现，且易导致评估结果的不一致性。为了克服这些挑战，本研究深入分析了LLMs在句子简化任务上的表现，并提出了一种基于错误的人工注释框架来评估GPT-4的简化效果。研究发现，GPT-4在生成错误简化输出方面通常优于当前的最先进技术。尽管如此，LLMs在词汇释义方面仍有局限，GPT-4在这方面的表现就是一个例证。此外，我们还对常用的自动化指标进行了元评估，发现这些指标虽然能够识别明显的质量差异，但对于评估GPT-4的整体高水准简化效果却不够敏感。",
+    "title_cn": "深入剖析 GPT-4 在句子简化任务上的表现，并通过基于错误的人工评估来衡量。",
+    "tags": [
+      "LLM应用",
+      "阅读辅助",
+      ""
+    ]
+  },
+  {
+    "title": "Exploring the psychology of LLMs' Moral and Legal Reasoning",
+    "submit_datetime": "2024年03月04日",
+    "abstract": "Large language models (LLMs) exhibit expert-level performance in tasks across a wide range of different domains. Ethical issues raised by LLMs and the need to align future versions makes it important to know how state of the art models reason about moral and legal issues. In this paper, we employ the methods of experimental psychology to probe into this question. We replicate eight studies from the experimental literature with instances of Google's Gemini Pro, Anthropic's Claude 2.1, OpenAI's GPT-4, and Meta's Llama 2 Chat 70b. We find that alignment with human responses shifts from one experiment to another, and that models differ amongst themselves as to their overall alignment, with GPT-4 taking a clear lead over all other models we tested. Nonetheless, even when LLM-generated responses are highly correlated to human responses, there are still systematic differences, with a tendency for models to exaggerate effects that are present among humans, in part by reducing variance. This recommends caution with regards to proposals of replacing human participants with current state-of-the-art LLMs in psychological research and highlights the need for further research about the distinctive aspects of machine psychology.",
+    "pdf_link": "https://arxiv.org/abs/2308.01264",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）在众多领域的任务上展现了专家级的能力。鉴于LLMs可能引发的伦理争议，以及未来版本需与人类价值观保持一致，探究这些尖端模型是如何处理道德和法律议题的变得尤为关键。本文借鉴实验心理学的手法，深入探讨了这一课题。我们复现了八项来自实验心理学文献的研究，涉及谷歌的Gemini Pro、Anthropic的Claude 2.1、OpenAI的GPT-4以及Meta的Llama 2 Chat 70b等模型。研究发现，模型与人类回应的契合度在不同实验间波动，且各模型在整体契合度上也互有差异，其中GPT-4在所有测试模型中表现最为突出。然而，即便LLM生成的回应与人类高度吻合，仍存在一些系统性差异，模型有时会放大人类反应中的效果，部分原因是通过降低变异性实现的。这提醒我们，在心理学研究中用当前的LLMs替代人类参与者需谨慎行事，并凸显了对机器心理学特有方面进行更深入研究的必要。",
+    "title_cn": "本研究旨在深入探讨大型语言模型在道德和法律推理方面的心理学机制。",
+    "tags": [
+      "LLM应用",
+      "人工智能伦理",
+      "心理学"
+    ]
+  },
+  {
+    "title": "Killer Apps: Low-Speed, Large-Scale AI Weapons",
+    "submit_datetime": "2024年03月01日",
+    "abstract": "The accelerating advancements in Artificial Intelligence (AI) and Machine Learning (ML), highlighted by the development of cutting-edge Generative Pre-trained Transformer (GPT) models by organizations such as OpenAI, Meta, and Anthropic, present new challenges and opportunities in warfare and security. Much of the current focus is on AI's integration within weapons systems and its role in rapid decision-making in kinetic conflict. However, an equally important but often overlooked aspect is the potential of AI-based psychological manipulation at internet scales within the information domain. These capabilities could pose significant threats to individuals, organizations, and societies globally. This paper explores the concept of AI weapons, their deployment, detection, and potential countermeasures.",
+    "pdf_link": "https://arxiv.org/abs/2402.01663",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2402.01663v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.01663/ContextExplorerSabotage.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.01663v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.01663/original_email.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.01663v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.01663/modified_email.png"
+      }
+    ],
+    "abstract_cn": "随着 OpenAI、Meta 和 Anthropic 等机构开发的尖端生成预训练变换器（GPT）模型的问世，人工智能（AI）和机器学习（ML）的迅猛发展为战争与安全领域带来了前所未有的挑战与机遇。当前的研究热点多聚焦于AI在武器系统中的应用及其在快速决策中的作用。然而，一个同样关键却常被忽略的议题是AI在信息领域进行心理操控的潜力，这在全球范围内对个人、组织乃至整个社会都可能构成严重威胁。本文深入探讨了AI武器的概念，包括它们的部署、侦测以及可能的应对策略。",
+    "title_cn": "杀手级应用：大规模低速的AI武器",
+    "tags": [
+      "分类：Agent",
+      "战争与安全",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates",
+    "submit_datetime": "2024年02月28日",
+    "abstract": "Public LLMs such as the Llama 2-Chat have driven huge activity in LLM research. These models underwent alignment training and were considered safe. Recently Qi et al. (2023) reported that even benign fine-tuning (e.g., on seemingly safe datasets) can give rise to unsafe behaviors in the models. The current paper is about methods and best practices to mitigate such loss of alignment. Through extensive experiments on several chat models (Meta's Llama 2-Chat, Mistral AI's Mistral 7B Instruct v0.2, and OpenAI's GPT-3.5 Turbo), this paper uncovers that the prompt templates used during fine-tuning and inference play a crucial role in preserving safety alignment, and proposes the \"Pure Tuning, Safe Testing\" (PTST) principle -- fine-tune models without a safety prompt, but include it at test time. Fine-tuning experiments on GSM8K, ChatDoctor, and OpenOrca show that PTST significantly reduces the rise of unsafe behaviors, and even almost eliminates them in some cases.",
+    "pdf_link": "https://arxiv.org/abs/2402.18540",
+    "graphs": [],
+    "abstract_cn": "公共大型语言模型（LLMs），例如 Llama 2-Chat，极大地激发了 LLM 研究领域的活跃度。这些模型经过了对齐训练，被认为安全性较高。然而，Qi 等研究者在 2023 年指出，即使是基于看似安全的数据库进行的良性微调，也可能引发模型的不安全行为。本文旨在探讨减少此类对齐偏差的方法和最佳实践。通过对多种聊天模型（包括 Meta 的 Llama 2-Chat、Mistral AI 的 Mistral 7B Instruct v0.2 和 OpenAI 的 GPT-3.5 Turbo）进行广泛的实验，我们发现微调和推理过程中使用的提示模板对于维持模型的安全对齐至关重要，并提出了“纯净微调，安全测试”（PTST）原则，即在没有安全提示的情况下进行模型微调，但在测试阶段加入安全提示。在 GSM8K、ChatDoctor 和 OpenOrca 上的微调实验结果表明，PTST 方法显著降低了不安全行为的发生，并在某些情况下几乎完全避免了这类问题。",
+    "title_cn": "微调之后，如何确保大型语言模型保持其原有的校准状态？关键在于巧妙设计的提示模板。",
+    "tags": [
+      "分类：LLM应用",
+      "人工智能安全",
+      "聊天机器人"
     ]
   },
   {
@@ -11752,6 +12433,252 @@
     ]
   },
   {
+    "title": "Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts",
+    "submit_datetime": "2024年02月23日",
+    "abstract": "One of the most important yet onerous tasks in the academic peer-reviewing process is composing meta-reviews, which involves understanding the core contributions, strengths, and weaknesses of a scholarly manuscript based on peer-review narratives from multiple experts and then summarizing those multiple experts' perspectives into a concise holistic overview. Given the latest major developments in generative AI, especially Large Language Models (LLMs), it is very compelling to rigorously study the utility of LLMs in generating such meta-reviews in an academic peer-review setting. In this paper, we perform a case study with three popular LLMs, i.e., GPT-3.5, LLaMA2, and PaLM2, to automatically generate meta-reviews by prompting them with different types/levels of prompts based on the recently proposed TELeR taxonomy. Finally, we perform a detailed qualitative study of the meta-reviews generated by the LLMs and summarize our findings and recommendations for prompting LLMs for this complex task.",
+    "pdf_link": "https://arxiv.org/abs/2402.15589",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/Prompt_taxonomy.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CC-PR-P1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CC-PR-P2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CC-PR-P3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CC-PR-P4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CC-PR-P1-4-A.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CC-PR-P1-4-AL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CC-PR-P1-4-ALL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CS-PR-P1-4-A.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CS-PR-P1-4-AL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CW-PR-P1-4-A.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CW-PR-P1-4-AL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CSu-PR-P1-4-A.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CSu-PR-P1-4-AL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/MR-PR-P1-4-A.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/MR-PR-P1-4-AL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CS-PR-P1-4-ALL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CW-PR-P1-4-ALL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CSu-PR-P1-4-ALL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/MR-PR-P1-4-ALL.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CS-PR-P1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CS-PR-P2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CS-PR-P3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CS-PR-P4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CW-PR-P1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CW-PR-P2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CW-PR-P3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CW-PR-P4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CSu-PR-P1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CSu-PR-P2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CSu-PR-P3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/CSu-PR-P4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/MR-PR-P1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/MR-PR-P2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/MR-PR-P3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/MR-PR-P4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/Form2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/Form3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.15589v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.15589/Form1.png"
+      }
+    ],
+    "abstract_cn": "学术同行评审中，撰写元评审是一项至关重要且颇为艰巨的工作，它要求我们基于众多专家的评审意见，深入理解一篇学术论文的核心贡献、优势与不足，并将其综合为一份精炼的全面概述。随着生成性人工智能，尤其是大型语言模型（LLMs）的飞速发展，探索LLMs在学术评审中撰写元评审的潜力变得尤为引人入胜。本文通过三个广受欢迎的LLMs——GPT-3.5、LLaMA2和PaLM2——进行了一项案例研究，我们利用基于TELeR分类法设计的不同类型和层次的提示，引导这些模型自动生成元评审。最终，我们对这些LLMs生成的元评审进行了深入的定性分析，并归纳了我们的发现和建议，为如何有效地引导LLMs完成这一复杂任务提供了指导。",
+    "title_cn": "引导大型语言模型（LLM）基于学术手稿的同行评审叙述，撰写出元评论的初稿。",
+    "tags": [
+      "LLM应用",
+      "学术评审",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement",
+    "submit_datetime": "2024年02月19日",
+    "abstract": "Although Large Language Models (LLMs) have demonstrated strong performance on a wide range of tasks, they still face reliability challenges such as hallucination. Previous studies reveal that highly capable LLMs like GPT-4 are effective in judging the reliability of individual responses, while less capable ones are often tuned to evaluate the relative reliability of responses to the same query. To enable less capable LLMs to effectively judge the reliability of individual responses, we propose a novel method named $\\textit{Meta}$ $\\textit{Ranking}$ (MR). Unlike previous methods, which assess the response directly, we achieve the judgement by comparing the target query-response pair with reference query-response pairs. We found its remarkable effectiveness in error detection for LLM responses on reasoning tasks, where less capable LLMs could outperform strong baselines, even without fine-tuning. We further demonstrate that MR can be used to enhance the performance of LLMs in two practical applications: query routing and iterative training data filtering. The former achieves GPT-4-turbo comparable performance with less than half the token consumption, while the latter makes the instruction-tuned LLaMA-7B and Phi-2, a 2.7B model, significantly surpass Alpaca-13B over fewer training samples, underscoring the high potential of our proposed method.",
+    "pdf_link": "https://arxiv.org/abs/2402.12146",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）虽然在众多任务上表现卓越，但仍存在可靠性问题，如产生幻觉。研究表明，像 GPT-4 这样的高效能 LLMs 能有效评估单个回答的可信度，而低效能 LLMs 则常被优化以评估同一问题下不同回答的相对可信度。为此，我们引入了一种创新方法——元排序（Meta Ranking，MR），它不是直接评价回答，而是通过比较目标查询-回答对与参考查询-回答对来进行判断。MR 在推理任务中对 LLM 回答的错误检测展现出了显著效果，即便是低效能 LLMs，在无需微调的情况下也能超越优秀基准。此外，MR 还被证实能提升 LLMs 在查询路由和迭代训练数据筛选两个实际应用中的性能。在查询路由方面，MR 以不到 GPT-4-turbo 一半的令牌消耗实现了相似的性能；在迭代训练数据筛选方面，MR 助力经过指令调整的 LLaMA-7B 和 Phi-2（2.7B 模型）在较少训练样本的情况下显著超越了 Alpaca-13B，彰显了我们方法的巨大潜力。",
+    "title_cn": "元排名机制表明，即便是能力相对较弱的语言模型，在进行单一响应判断时也表现出了足够的能力。",
+    "tags": [
+      "LLM应用",
+      "人工智能",
+      ""
+    ]
+  },
+  {
+    "title": "SPML: A DSL for Defending Language Models Against Prompt Attacks",
+    "submit_datetime": "2024年02月18日",
+    "abstract": "Large language models (LLMs) have profoundly transformed natural language applications, with a growing reliance on instruction-based definitions for designing chatbots. However, post-deployment the chatbot definitions are fixed and are vulnerable to attacks by malicious users, emphasizing the need to prevent unethical applications and financial losses. Existing studies explore user prompts' impact on LLM-based chatbots, yet practical methods to contain attacks on application-specific chatbots remain unexplored. This paper presents System Prompt Meta Language (SPML), a domain-specific language for refining prompts and monitoring the inputs to the LLM-based chatbots. SPML actively checks attack prompts, ensuring user inputs align with chatbot definitions to prevent malicious execution on the LLM backbone, optimizing costs. It also streamlines chatbot definition crafting with programming language capabilities, overcoming natural language design challenges. Additionally, we introduce a groundbreaking benchmark with 1.8k system prompts and 20k user inputs, offering the inaugural language and benchmark for chatbot definition evaluation. Experiments across datasets demonstrate SPML's proficiency in understanding attacker prompts, surpassing models like GPT-4, GPT-3.5, and LLAMA. Our data and codes are publicly available at: https://prompt-compiler.github.io/SPML/.",
+    "pdf_link": "https://arxiv.org/abs/2402.11755",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）彻底革新了自然语言处理应用，尤其在基于指令的设计上，聊天机器人的依赖日益增加。但部署后的聊天机器人定义变得僵化，易受恶意用户攻击，这凸显了防范不当应用和避免财务损失的重要性。尽管现有研究已探讨用户输入对LLM驱动的聊天机器人的影响，但如何有效防御特定应用聊天机器人的攻击仍是一个未解之谜。本文提出了系统提示元语言（SPML），这是一门专为优化聊天机器人提示和监控输入而设计的语言。SPML能够主动识别并阻止攻击性输入，确保用户操作与机器人预设的定义相匹配，从而在LLM基础上防止恶意操作，同时降低成本。它还利用编程语言的特性，简化了聊天机器人的定义过程，解决了自然语言设计的难题。文章还首次提出了一个包含1800个系统提示和20000个用户输入的创新基准测试，为聊天机器人定义的评估提供了新的语言和标准。跨多个数据集的实验证明，SPML在识别攻击性输入方面的能力超过了GPT-4、GPT-3.5和LLAMA等模型。相关数据和代码已在 https://prompt-compiler.github.io/SPML/ 公开发布。",
+    "title_cn": "SPML：一种专为抵御提示攻击而设计的领域特定语言，用于保护语言模型的安全。",
+    "tags": [
+      "LLM应用",
+      "",
+      "网络安全"
+    ]
+  },
+  {
+    "title": "MADA: Meta-Adaptive Optimizers through hyper-gradient Descent",
+    "submit_datetime": "2024年02月15日",
+    "abstract": "Since Adam was introduced, several novel adaptive optimizers for deep learning have been proposed. These optimizers typically excel in some tasks but may not outperform Adam uniformly across all tasks. In this work, we introduce Meta-Adaptive Optimizers (MADA), a unified optimizer framework that can generalize several known optimizers and dynamically learn the most suitable one during training. The key idea in MADA is to parameterize the space of optimizers and search through it using hyper-gradient descent. We compare MADA to other popular optimizers empirically on vision and language tasks to train CNN, ResNet and GPT-2 models. Results suggest that MADA is robust against sub-optimally tuned hyper-parameters, and consistently outperforms Adam and other popular optimizers. We find that MADA gives $3\\times$ the validation performance gain over Adam that other popular optimizers do on GPT-2 training. We also propose AVGrad, a modification of AMSGrad that replaces the maximum operator with averaging, that is suitable for hyper-gradient optimization framework. Finally, we provide a convergence analysis to show that interpolation of optimizers can improve their error bounds (up to constants), hinting at an advantage for meta-optimizers.",
+    "pdf_link": "https://arxiv.org/abs/2401.08893",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.08893v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.08893/x8.png"
+      }
+    ],
+    "abstract_cn": "自从 Adam 算法问世后，便涌现出多款创新的深度学习自适应优化器。尽管这些优化器在特定任务上表现优异，但并非总能在所有任务上超越 Adam。本研究提出了一种名为元自适应优化器（MADA）的全新统一优化框架，它能够整合多种已知优化器，并在训练过程中智能选择最合适的算法。MADA 的核心策略在于对优化器参数空间进行建模，并通过超梯度下降法进行搜索。我们对 MADA 进行了广泛的实验，包括视觉和语言任务，以及 CNN、ResNet 和 GPT-2 模型的训练，与其他主流优化器相比，MADA 在超参数调整不佳的情况下仍展现出强大的鲁棒性，并持续超越了 Adam 及其他流行优化器。实验结果显示，在 GPT-2 训练过程中，MADA 带来的验证性能提升是其他优化器的三倍。此外，我们还提出了 AVGrad，这是对 AMSGrad 的一种改进，它通过平均而非最大操作来适应超梯度优化框架。最终，我们还进行了收敛性分析，证实了优化器的插值方法能够提升其误差界限（至多常数倍），这为元优化器的优势提供了有力证据。",
+    "title_cn": "MADA：一种通过超梯度下降实现的元自适应优化器技术",
+    "tags": [
+      "LLM理论",
+      "",
+      "优化算法"
+    ]
+  },
+  {
     "title": "HaLo-NeRF: Learning Geometry-Guided Semantics for Exploring Unconstrained Photo Collections",
     "submit_datetime": "2024年02月14日",
     "abstract": "Internet image collections containing photos captured by crowds of photographers show promise for enabling digital exploration of large-scale tourist landmarks. However, prior works focus primarily on geometric reconstruction and visualization, neglecting the key role of language in providing a semantic interface for navigation and fine-grained understanding. In constrained 3D domains, recent methods have leveraged vision-and-language models as a strong prior of 2D visual semantics. While these models display an excellent understanding of broad visual semantics, they struggle with unconstrained photo collections depicting such tourist landmarks, as they lack expert knowledge of the architectural domain. In this work, we present a localization system that connects neural representations of scenes depicting large-scale landmarks with text describing a semantic region within the scene, by harnessing the power of SOTA vision-and-language models with adaptations for understanding landmark scene semantics. To bolster such models with fine-grained knowledge, we leverage large-scale Internet data containing images of similar landmarks along with weakly-related textual information. Our approach is built upon the premise that images physically grounded in space can provide a powerful supervision signal for localizing new concepts, whose semantics may be unlocked from Internet textual metadata with large language models. We use correspondences between views of scenes to bootstrap spatial understanding of these semantics, providing guidance for 3D-compatible segmentation that ultimately lifts to a volumetric scene representation. Our results show that HaLo-NeRF can accurately localize a variety of semantic concepts related to architectural landmarks, surpassing the results of other 3D models as well as strong 2D segmentation baselines. Our project page is at https://tau-vailab.github.io/HaLo-NeRF/.",
@@ -11766,6 +12693,140 @@
     ]
   },
   {
+    "title": "Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy",
+    "submit_datetime": "2024年02月13日",
+    "abstract": "Background: Large language models (LLMs) such as OpenAI's GPT-4 or Google's PaLM 2 are proposed as viable diagnostic support tools or even spoken of as replacements for \"curbside consults\". However, even LLMs specifically trained on medical topics may lack sufficient diagnostic accuracy for real-life applications.\n  Methods: Using collective intelligence methods and a dataset of 200 clinical vignettes of real-life cases, we assessed and compared the accuracy of differential diagnoses obtained by asking individual commercial LLMs (OpenAI GPT-4, Google PaLM 2, Cohere Command, Meta Llama 2) against the accuracy of differential diagnoses synthesized by aggregating responses from combinations of the same LLMs.\n  Results: We find that aggregating responses from multiple, various LLMs leads to more accurate differential diagnoses (average accuracy for 3 LLMs: $75.3\\%\\pm 1.6pp$) compared to the differential diagnoses produced by single LLMs (average accuracy for single LLMs: $59.0\\%\\pm 6.1pp$).\n  Discussion: The use of collective intelligence methods to synthesize differential diagnoses combining the responses of different LLMs achieves two of the necessary steps towards advancing acceptance of LLMs as a diagnostic support tool: (1) demonstrate high diagnostic accuracy and (2) eliminate dependence on a single commercial vendor.",
+    "pdf_link": "https://arxiv.org/abs/2402.08806",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2402.08806v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.08806/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.08806v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.08806/x2.png"
+      }
+    ],
+    "abstract_cn": "背景：大型语言模型（LLM），如 OpenAI 的 GPT-4 或 Google 的 PaLM 2，被提议作为诊断辅助工具，甚至可能取代现场咨询。但即便是专门训练于医学领域的 LLM，其诊断精确度也未必能满足实际应用的需求。方法：我们利用群体智能技术，结合200个真实临床案例的资料集，对比了单独商业化LLM（包括OpenAI GPT-4、Google PaLM 2、Cohere Command、Meta Llama 2）的个体诊断准确性，以及通过整合这些LLM的响应得出的综合诊断准确性。结果：研究发现，整合多个不同LLM的响应得到的诊断准确性更高（三个LLM的平均准确度为75.3% ± 1.6pp），相比于单一LLM的诊断结果（单一LLM的平均准确度为59.0% ± 6.1pp）。讨论：通过群体智能技术整合不同LLM的响应以形成综合诊断，有助于推动LLM作为诊断辅助工具的接受度，这包括两个关键步骤：（1）证明其高度的诊断准确性；（2）减少对单一商业供应商的依赖。",
+    "title_cn": "融合多个大型语言模型的洞见，能够显著提升诊断的精确度。",
+    "tags": [
+      "LLM应用",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension",
+    "submit_datetime": "2024年02月12日",
+    "abstract": "Recently, instruction-following audio-language models have received broad attention for human-audio interaction. However, the absence of benchmarks capable of evaluating audio-centric interaction capabilities has impeded advancements in this field. Previous models primarily focus on assessing different fundamental tasks, such as Automatic Speech Recognition (ASR), and lack an assessment of the open-ended generative capabilities centered around audio. Thus, it is challenging to track the progression in the Large Audio-Language Models (LALMs) domain and to provide guidance for future improvement. In this paper, we introduce AIR-Bench (\\textbf{A}udio \\textbf{I}nst\\textbf{R}uction \\textbf{Bench}mark), the first benchmark designed to evaluate the ability of LALMs to understand various types of audio signals (including human speech, natural sounds, and music), and furthermore, to interact with humans in the textual format. AIR-Bench encompasses two dimensions: \\textit{foundation} and \\textit{chat} benchmarks. The former consists of 19 tasks with approximately 19k single-choice questions, intending to inspect the basic single-task ability of LALMs. The latter one contains 2k instances of open-ended question-and-answer data, directly assessing the comprehension of the model on complex audio and its capacity to follow instructions. Both benchmarks require the model to generate hypotheses directly. We design a unified framework that leverages advanced language models, such as GPT-4, to evaluate the scores of generated hypotheses given the meta-information of the audio. Experimental results demonstrate a high level of consistency between GPT-4-based evaluation and human evaluation. By revealing the limitations of existing LALMs through evaluation results, AIR-Bench can provide insights into the direction of future research.",
+    "pdf_link": "https://arxiv.org/abs/2402.07729",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2402.07729v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.07729/main_figure.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.07729v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.07729/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.07729v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.07729/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.07729v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.07729/three_figures.png"
+      }
+    ],
+    "abstract_cn": "近期，用于人声音频互动的指令遵循型音频-语言模型受到了广泛关注。但目前缺少评估音频交互能力的基准测试，这限制了该领域的进一步发展。以往的研究主要集中在基础任务如自动语音识别（ASR）上，而忽略了对音频中心的开放式生成能力的评估。这使得追踪大型音频-语言模型（LALMs）的发展和指导未来改进变得困难。本文提出了AIR-Bench（音频指令基准测试），这是首个旨在评估LALMs理解多种音频信号并进行文本交互能力的基准。AIR-Bench包含基础和聊天两个维度，前者包含19个任务，约19k个单选问题，用以检验LALMs的基本单任务能力；后者则包含2k个开放式问答实例，直接测试模型对复杂音频的理解和指令遵循能力。两个基准测试都要求模型直接生成假设。我们构建了一个统一框架，使用如GPT-4这样的高级语言模型来评估基于音频元信息生成的假设得分。实验结果显示，基于GPT-4的评估与人类评估具有高度一致性。AIR-Bench通过评估结果揭示了现有LALMs的不足，为未来研究方向提供了指导。",
+    "title_cn": "AIR-Bench：通过创造性理解对大型音频-语言模型进行性能评估。",
+    "tags": [
+      "LLM应用",
+      "音频处理",
+      ""
+    ]
+  },
+  {
+    "title": "Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper",
+    "submit_datetime": "2024年02月09日",
+    "abstract": "With the release of OpenAI's ChatGPT, the field of large language models (LLM) saw an increase of academic interest in GPT based chat assistants. In the next few months multiple accesible large language models were released that included Meta's LLama models and Mistral AI's Mistral and Mixtral MoE models. These models are available openly for a wide array of purposes with a wide spectrum of licenses. These LLMs have found their use in a different number of fields like code development, SQL generation etc. In this work we propose our plan to explore the applicability of large language model in the domain of network security. We plan to create Sentinel, a LLM, to analyse network packet contents and pass a judgment on it's threat level. This work is a preliminary report that will lay our plan for our future endeavors.",
+    "pdf_link": "https://arxiv.org/abs/2402.07950",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2402.07950v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.07950/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.07950v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.07950/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.07950v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.07950/x4.png"
+      }
+    ],
+    "abstract_cn": "OpenAI 的 ChatGPT 问世后，学术界对基于 GPT 的大型语言模型（LLM）聊天助手的兴趣激增。随后数月，多款大型语言模型相继问世，包括 Meta 的 LLama 系列和 Mistral AI 的 Mistral 及 Mixtral MoE 模型。这些模型以多种许可证形式，开放用于广泛的用途，如编程、SQL 创建等。本研究旨在探讨大型语言模型在网络安全领域的应用潜力。我们计划开发一款名为 Sentinel 的 LLM，用于分析网络数据包内容，并评估其潜在威胁。本报告为初步研究，旨在为未来的研究工作奠定基础。",
+    "title_cn": "《流之守望：利用大型语言模型实现软件定义网络中的动态数据包分类》——立场论文",
+    "tags": [
+      "分类：LLM应用",
+      "网络安全",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "RedCoast: A Lightweight Tool to Automate Distributed Training of LLMs on Any GPU/TPUs",
+    "submit_datetime": "2024年02月08日",
+    "abstract": "The recent progress of AI can be largely attributed to large language models (LLMs). However, their escalating memory requirements introduce challenges for machine learning (ML) researchers and engineers. Addressing this requires developers to partition a large model to distribute it across multiple GPUs or TPUs. This necessitates considerable coding and intricate configuration efforts with existing model parallel tools, such as Megatron-LM, DeepSpeed, and Alpa. These tools require users' expertise in machine learning systems (MLSys), creating a bottleneck in LLM development, particularly for developers without MLSys background. In this work, we present RedCoast(Redco), a lightweight and user-friendly tool crafted to automate distributed training and inference for LLMs, as well as to simplify ML pipeline development. The design of Redco emphasizes two key aspects. Firstly, to automate model parallism, our study identifies two straightforward rules to generate tensor parallel strategies for any given LLM. Integrating these rules into Redco facilitates effortless distributed LLM training and inference, eliminating the need of additional coding or complex configurations. We demonstrate the effectiveness by applying Redco on a set of LLM architectures, such as GPT-J, LLaMA, T5, and OPT, up to the size of 66B. Secondly, we propose a mechanism that allows for the customization of diverse ML pipelines through the definition of merely three functions, avoiding redundant and formulaic code like multi-host related processing. This mechanism proves adaptable across a spectrum of ML algorithms, from foundational language modeling to complex algorithms like meta-learning and reinforcement learning. Consequently, Redco implementations exhibit much fewer code lines compared to their official counterparts.",
+    "pdf_link": "https://arxiv.org/abs/2310.16355",
+    "graphs": [],
+    "abstract_cn": "人工智能的最新突破在很大程度上得益于大型语言模型（LLMs）的发展。但这些模型日益增长的内存需求对机器学习（ML）的研究者和工程师构成了挑战。为了应对这一挑战，开发者必须将大型模型拆分，以便跨多个GPU或TPU进行分配。这一过程需要开发者使用Megatron-LM、DeepSpeed和Apla等现有的模型并行工具进行大量的编程和复杂的配置。这些工具的使用需要用户具备深厚的机器学习系统（MLSys）知识，这在LLM的开发过程中，对于没有MLSys背景的开发者来说，无疑是一个难题。为了解决这一问题，我们开发了RedCoast（简称Redco），这是一个轻量级且易于使用的工具，它能够自动化LLM的分布式训练和推理，并简化了ML流程的开发。Redco的设计突出了两个核心要素：首先，通过自动化模型并行化，我们的研究提出了两条简单的规则，为任何特定的LLM生成张量并行策略。将这些规则整合到Redco中，极大地简化了分布式LLM的训练和推理过程，无需额外编程或复杂配置。我们通过在GPT-J、LLaMA、T5和OPT等一系列LLM架构上应用Redco，证明了其有效性，这些模型的规模高达66B参数。其次，我们设计了一种机制，用户只需定义三个函数，即可定制多样化的ML流程，避免了编写冗长和刻板的多主机相关代码。这一机制在各种ML算法中都显示出了良好的适应性，从基础的语言模型到复杂的元学习和强化学习算法。因此，Redco的实现在代码行数上大大少于官方版本。",
+    "title_cn": "RedCoast：一款轻量级工具，旨在简化在各种 GPU 或 TPU 上进行大型语言模型的分布式训练过程。",
+    "tags": [
+      "LLM应用",
+      "机器学习",
+      "系统开发"
+    ]
+  },
+  {
+    "title": "MR-GSM8K: A Meta-Reasoning Revolution in Large Language Model Evaluation",
+    "submit_datetime": "2024年02月06日",
+    "abstract": "In this work, we introduce a novel evaluation paradigm for Large Language Models, one that challenges them to engage in meta-reasoning. This approach addresses critical shortcomings in existing math problem-solving benchmarks, traditionally used to evaluate the cognitive capabilities of agents. Our paradigm shifts the focus from result-oriented assessments, which often overlook the reasoning process, to a more holistic evaluation that effectively differentiates the cognitive capabilities among models. For example, in our benchmark, GPT-4 demonstrates a performance five times better than GPT3-5. The significance of this new paradigm lies in its ability to reveal potential cognitive deficiencies in LLMs that current benchmarks, such as GSM8K, fail to uncover due to their saturation and lack of effective differentiation among varying reasoning abilities. Our comprehensive analysis includes several state-of-the-art math models from both open-source and closed-source communities, uncovering fundamental deficiencies in their training and evaluation approaches. This paper not only advocates for a paradigm shift in the assessment of LLMs but also contributes to the ongoing discourse on the trajectory towards Artificial General Intelligence (AGI). By promoting the adoption of meta-reasoning evaluation methods similar to ours, we aim to facilitate a more accurate assessment of the true cognitive abilities of LLMs.",
+    "pdf_link": "https://arxiv.org/abs/2312.17080",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2312.17080v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.17080/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.17080v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.17080/reasoning_paths2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.17080v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.17080/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.17080v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.17080/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.17080v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.17080/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.17080v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.17080/x5.png"
+      }
+    ],
+    "abstract_cn": "本研究提出了一种针对大型语言模型（LLMs）的创新评估框架，旨在推动模型进行深层次的元推理。这一方法克服了传统数学问题解决基准测试的局限，这些测试通常只评估代理的最终结果，而忽略了推理过程本身。我们的评估框架更加全面，能够更有效地衡量不同模型之间的认知差异。以我们的测试为例，GPT-4的解题能力是GPT3-5的五倍。这种新框架的关键在于其揭示了现有评估标准（如GSM8K）无法察觉的LLMs潜在认知缺陷，这些缺陷因现有标准的饱和度和对不同推理能力的区分不足而被掩盖。我们的深入分析涵盖了来自开源和闭源社区的多种尖端数学模型，发现了它们在训练和评估方法上的根本性不足。本文不仅呼吁对LLMs的评估方法进行根本性的变革，也为关于实现人工通用智能（AGI）的路径的讨论提供了新的视角。我们提倡采用类似于我们的元推理评估方法，以期对LLMs的真实认知能力进行更精确的评估。",
+    "title_cn": "MR-GSM8K：引领大型语言模型评估领域的元推理革新。",
+    "tags": [
+      "LLM理论",
+      "人工智能",
+      "认知科学"
+    ]
+  },
+  {
     "title": "Machine Unlearning in Large Language Models",
     "submit_datetime": "2024年02月03日",
     "abstract": "Recently, large language models (LLMs) have emerged as a notable field, attracting significant attention for its ability to automatically generate intelligent contents for various application domains. However, LLMs still suffer from significant security and privacy issues. For example, LLMs might expose user privacy from hacking attacks or targeted prompts. To address this problem, this paper introduces a novel machine unlearning framework into LLMs. Our objectives are to make LLMs not produce harmful, hallucinatory, or privacy-compromising responses, while retaining their standard output capabilities. To accomplish this, we use an evaluative model to pinpoint dialogues needing unlearning. We also establish a distance loss to function as the model's negative loss, diverting it from previous undesirable outputs. Furthermore, we determine the expected output's cluster mean to formulate a positive loss, directing the model's outputs toward preferable outcomes without compromising its reasoning abilities and performance. Experimental results show that our approach effectively meets unlearning objectives without substantially compromising model performance.",
@@ -11777,6 +12838,337 @@
       "LLM应用",
       "人工智能安全",
       "隐私保护"
+    ]
+  },
+  {
+    "title": "\"Medium\" LMs of Code in the Era of LLMs: Lessons From StackOverflow",
+    "submit_datetime": "2024年01月24日",
+    "abstract": "Large pre-trained neural language models have brought immense progress to both NLP and software engineering. Models in OpenAI's GPT series now dwarf Google's BERT and Meta's RoBERTa, which previously set new benchmarks on a wide range of NLP applications. These models are trained on massive corpora of heterogeneous data from web crawls, which enables them to learn general language patterns and semantic relationships. However, the largest models are both expensive to train and deploy and are often closed-source, so we lack access to their data and design decisions. We argue that this trend towards large, general-purpose models should be complemented with single-purpose, more modestly sized pre-trained models. In this work, we take StackOverflow (SO) as a domain example in which large volumes of rich aligned code and text data is available. We adopt standard practices for pre-training large language models, including using a very large context size (2,048 tokens), batch size (0.5M tokens) and training set (27B tokens), coupled with a powerful toolkit (Megatron-LM), to train two models: SOBertBase, with 109M parameters, and SOBertLarge with 762M parameters, at a budget of just $\\$187$ and $\\$800$ each. We compare the performance of our models with both the previous SOTA model trained on SO data exclusively as well general-purpose BERT models and OpenAI's ChatGPT on four SO-specific downstream tasks - question quality prediction, closed question prediction, named entity recognition and obsoletion prediction (a new task we introduce). Not only do our models consistently outperform all baselines, the smaller model is often sufficient for strong results. Both models are released to the public. These results demonstrate that pre-training both extensively and properly on in-domain data can yield a powerful and affordable alternative to leveraging closed-source general-purpose models.",
+    "pdf_link": "https://arxiv.org/abs/2306.03268",
+    "graphs": [],
+    "abstract_cn": "大型预训练神经语言模型极大地推动了自然语言处理和软件工程的发展。OpenAI的GPT系列模型超越了Google的BERT和Meta的RoBERTa，后者曾刷新了多项NLP应用的性能记录。这些模型通过海量网络爬取的多样化数据进行训练，从而掌握了通用的语言模式和语义联系。尽管如此，最大规模的模型不仅训练成本高昂，而且往往是闭源的，限制了我们对其数据和设计选择的了解。我们认为，对于这种大型通用模型的依赖应当辅以特定用途、规模适中的预训练模型。本研究以StackOverflow（SO）为案例，利用其丰富的代码和文本数据进行研究。我们遵循预训练大型语言模型的常规方法，采用大上下文尺寸（2,048个标记）、大批量尺寸（0.5M个标记）和庞大的训练集（27B个标记），并结合Megatron-LM这一强大工具，训练了两个模型：SOBertBase（109M参数）和SOBertLarge（762M参数），每个模型的预算分别仅为187美元和800美元。我们对这两个模型在四个SO特定的下游任务上的表现进行了评估，包括问题质量预测、封闭式问题预测、命名实体识别和过时预测（我们新引入的任务）。我们的模型在所有比较中均优于现有基准，且较小的模型已足够取得优异成绩。目前，这两个模型均已公开发布。这些成果证明了在特定领域数据上进行全面且恰当的预训练，可以成为利用闭源通用模型的有力且经济的替代方案。",
+    "title_cn": "在大型语言模型（LLMs）盛行的时代，我们探讨了“中等规模”的代码语言模型（\"Medium\" LMs of Code），并从 StackOverflow 的经验中汲取教训。",
+    "tags": [
+      "LLM应用",
+      "",
+      "软件工程"
+    ]
+  },
+  {
+    "title": "Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study",
+    "submit_datetime": "2024年01月23日",
+    "abstract": "Lab results are often confusing and hard to understand. Large language models (LLMs) such as ChatGPT have opened a promising avenue for patients to get their questions answered. We aim to assess the feasibility of using LLMs to generate relevant, accurate, helpful, and unharmful responses to lab test-related questions asked by patients and to identify potential issues that can be mitigated with augmentation approaches. We first collected lab test results related question and answer data from Yahoo! Answers and selected 53 QA pairs for this study. Using the LangChain framework and ChatGPT web portal, we generated responses to the 53 questions from four LLMs including GPT-4, Meta LLaMA 2, MedAlpaca, and ORCA_mini. We first assessed the similarity of their answers using standard QA similarity-based evaluation metrics including ROUGE, BLEU, METEOR, BERTScore. We also utilized an LLM-based evaluator to judge whether a target model has higher quality in terms of relevance, correctness, helpfulness, and safety than the baseline model. Finally, we performed a manual evaluation with medical experts for all the responses to seven selected questions on the same four aspects. The results of Win Rate and medical expert evaluation both showed that GPT-4's responses achieved better scores than all the other LLM responses and human responses on all four aspects (relevance, correctness, helpfulness, and safety). However, LLM responses occasionally also suffer from a lack of interpretation in one's medical context, incorrect statements, and lack of references. We find that compared to other three LLMs and human answer from the Q&A website, GPT-4's responses are more accurate, helpful, relevant, and safer. However, there are cases which GPT-4 responses are inaccurate and not individualized. We identified a number of ways to improve the quality of LLM responses.",
+    "pdf_link": "https://arxiv.org/abs/2402.01693",
+    "graphs": [],
+    "abstract_cn": "实验室报告常常令人费解，但大型语言模型（LLMs）如 ChatGPT 为患者提供了一个获取答案的新途径。本研究旨在探讨利用 LLMs 为患者提出的实验室检测相关问题生成精准、有用且安全回答的可行性，并指出可通过增强策略减轻的潜在问题。我们从 Yahoo! Answers 搜集了实验室检测相关问题和答案，精选出 53 对问答对进行分析。利用 LangChain 框架及 ChatGPT 网络接口，我们从 GPT-4、Meta LLaMA 2、MedAlpaca 和 ORCA_mini 四款 LLMs 中为这 53 个问题生成了回答。我们首先采用标准的 QA 相似度评估指标，如 ROUGE、BLEU、METEOR、BERTScore，来评估答案之间的相似度。同时，我们还运用基于 LLM 的评估工具，判断目标模型在相关性、准确性、有用性和安全性方面是否优于基线模型。最终，我们邀请医学专家对七个选定问题的答复进行了人工评审，同样从四个维度进行评估。结果显示，无论是在胜率还是医学专家的评审中，GPT-4 的答复在相关性、准确性、有用性和安全性四个方面均优于其他 LLMs 和人类答复。尽管如此，LLMs 的答复有时仍缺乏对医疗背景的解释，存在错误陈述和缺少参考文献。与其他三款 LLMs 和人类回答相比，GPT-4 的答复更为精确、有益、贴切且安全。然而，GPT-4 的答复也存在不准确和缺乏个性化的情况。我们提出了多种提升 LLMs 答复质量的方法。",
+    "title_cn": "生成式大型语言模型与病友在解读普通患者实验室检测结果时答案质量的比较：一项评估研究",
+    "tags": [
+      "LLM应用",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding",
+    "submit_datetime": "2024年01月23日",
+    "abstract": "We introduce meta-prompting, an effective scaffolding technique designed to enhance the functionality of language models (LMs). This approach transforms a single LM into a multi-faceted conductor, adept at managing and integrating multiple independent LM queries. By employing high-level instructions, meta-prompting guides the LM to break down complex tasks into smaller, more manageable subtasks. These subtasks are then handled by distinct \"expert\" instances of the same LM, each operating under specific, tailored instructions. Central to this process is the LM itself, in its role as the conductor, which ensures seamless communication and effective integration of the outputs from these expert models. It additionally employs its inherent critical thinking and robust verification processes to refine and authenticate the end result. This collaborative prompting approach empowers a single LM to simultaneously act as a comprehensive orchestrator and a panel of diverse experts, significantly enhancing its performance across a wide array of tasks. The zero-shot, task-agnostic nature of meta-prompting greatly simplifies user interaction by obviating the need for detailed, task-specific instructions. Furthermore, our research demonstrates the seamless integration of external tools, such as a Python interpreter, into the meta-prompting framework, thereby broadening its applicability and utility. Through rigorous experimentation with GPT-4, we establish the superiority of meta-prompting over conventional scaffolding methods: When averaged across all tasks, including the Game of 24, Checkmate-in-One, and Python Programming Puzzles, meta-prompting, augmented with a Python interpreter functionality, surpasses standard prompting by 17.1%, expert (dynamic) prompting by 17.3%, and multipersona prompting by 15.2%.",
+    "pdf_link": "https://arxiv.org/abs/2401.12954",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2401.12954v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.12954/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2401.12954v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2401.12954/x2.png"
+      }
+    ],
+    "abstract_cn": "本文提出了一种创新的元提示技术，用以提升语言模型（LMs）的多任务处理能力。该技术将单一的语言模型塑造成一位多才多艺的指挥家，能够巧妙地协调和整合多个独立的语言模型查询。通过高级指令的引导，语言模型能够将复杂任务细化为易于管理的小任务，由不同“专家”角色的同一模型分别处理，每个角色都遵循特定的定制化指令。在这个过程中，语言模型作为指挥家，确保了专家模型输出之间的无缝交流与有效整合，同时运用其内在的批判性思维和严谨的验证流程，对最终结果进行精细化处理和认证。这种协作式的提示方法赋予了单个语言模型以全面的策划者和多样化专家团队的双重角色，显著提升了其在广泛任务类型上的表现。元提示的零样本、任务通用性特点，通过省略对具体任务指令的详细需求，极大地简化了用户操作。研究还展示了将Python解释器等外部工具无缝集成至元提示框架的可能性，进一步扩展了其应用范围和实用性。通过在GPT-4上的严谨实验，我们证明了元提示在包括24点游戏、一击制胜和Python编程谜题等任务上，相较于传统支撑方法的优越性：平均而言，元提示结合Python解释器功能，比标准提示提升了17.1%，比动态专家提示提升了17.3%，比多角色提示提升了15.2%。",
+    "title_cn": "元提示：为语言模型注入通用性支撑，提升其性能",
+    "tags": [
+      "LLM应用",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "KwaiAgents: Generalized Information-seeking Agent System with Large Language Models",
+    "submit_datetime": "2024年01月10日",
+    "abstract": "Driven by curiosity, humans have continually sought to explore and understand the world around them, leading to the invention of various tools to satiate this inquisitiveness. Despite not having the capacity to process and memorize vast amounts of information in their brains, humans excel in critical thinking, planning, reflection, and harnessing available tools to interact with and interpret the world, enabling them to find answers efficiently. The recent advancements in large language models (LLMs) suggest that machines might also possess the aforementioned human-like capabilities, allowing them to exhibit powerful abilities even with a constrained parameter count. In this paper, we introduce KwaiAgents, a generalized information-seeking agent system based on LLMs. Within KwaiAgents, we propose an agent system that employs LLMs as its cognitive core, which is capable of understanding a user's query, behavior guidelines, and referencing external documents. The agent can also update and retrieve information from its internal memory, plan and execute actions using a time-aware search-browse toolkit, and ultimately provide a comprehensive response. We further investigate the system's performance when powered by LLMs less advanced than GPT-4, and introduce the Meta-Agent Tuning (MAT) framework, designed to ensure even an open-sourced 7B or 13B model performs well among many agent systems. We exploit both benchmark and human evaluations to systematically validate these capabilities. Extensive experiments show the superiority of our agent system compared to other autonomous agents and highlight the enhanced generalized agent-abilities of our fine-tuned LLMs.",
+    "pdf_link": "https://arxiv.org/abs/2312.04889",
+    "graphs": [],
+    "abstract_cn": "人类因好奇心的驱使，不懈地探索和理解周遭世界，发明了众多工具以满足这份求知欲。尽管人脑无法处理和记忆海量信息，人类却在批判性思维、规划、反思和利用工具与世界互动方面表现出色，有效地寻找解答。大型语言模型（LLMs）的进展预示着机器可能也能展现出类似的人类特质，即便参数受限，也能发挥强大功能。本文介绍了KwaiAgents，这是一个基于LLMs构建的通用信息搜寻代理系统。该系统中的代理利用LLMs作为认知核心，不仅能够理解用户查询和行为准则，还能查阅外部文档。代理能够更新和检索内部信息，运用时间感知的搜索浏览工具规划和执行动作，最终提供全面回答。我们还探讨了该系统在搭载低于GPT-4水平的LLMs时的表现，并提出了元代理调整（MAT）框架，旨在让开源的7B或13B模型在众多代理系统中也能表现出色。通过基准测试和人类评估，我们系统地验证了这些能力。广泛的实验显示，我们的代理系统相较于其他自主代理具有优势，并突显了我们精细调整后的LLMs在通用代理能力上的提升。",
+    "title_cn": "KwaiAgents：结合大型语言模型的全能信息搜寻代理系统",
+    "tags": [
+      "Agent",
+      "信息检索",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset",
+    "submit_datetime": "2024年01月03日",
+    "abstract": "Document-based Question-Answering (QA) tasks are crucial for precise information retrieval. While some existing work focus on evaluating large language models performance on retrieving and answering questions from documents, assessing the LLMs performance on QA types that require exact answer selection from predefined options and numerical extraction is yet to be fully assessed. In this paper, we specifically focus on this underexplored context and conduct empirical analysis of LLMs (GPT-4 and GPT-3.5) on question types, including single-choice, yes-no, multiple-choice, and number extraction questions from documents in zero-shot setting. We use the CogTale dataset for evaluation, which provide human expert-tagged responses, offering a robust benchmark for precision and factual grounding. We found that LLMs, particularly GPT-4, can precisely answer many single-choice and yes-no questions given relevant context, demonstrating their efficacy in information retrieval tasks. However, their performance diminishes when confronted with multiple-choice and number extraction formats, lowering the overall performance of the model on this task, indicating that these models may not yet be sufficiently reliable for the task. This limits the applications of LLMs on applications demanding precise information extraction from documents, such as meta-analysis tasks. These findings hinge on the assumption that the retrievers furnish pertinent context necessary for accurate responses, emphasizing the need for further research. Our work offers a framework for ongoing dataset evaluation, ensuring that LLM applications for information retrieval and document analysis continue to meet evolving standards.",
+    "pdf_link": "https://arxiv.org/abs/2311.07878",
+    "graphs": [],
+    "abstract_cn": "文档型问答任务在精准信息检索中扮演着关键角色。尽管现有研究多聚焦于评估大型语言模型（LLM）在文档问答上的表现，但对于需要从预设选项中精确挑选答案或进行数值抽取的问答类型，LLM的性能尚待全面评估。本文专注于这一未被充分研究的领域，对LLM（包括GPT-4和GPT-3.5）在零样本环境下处理单选、是非、多选和数字抽取等类型问题进行了实证分析。我们采用CogTale数据集作为评估基准，该数据集包含专家标记的答案，为精确度和事实依据提供了坚实的参考。研究发现，特别是GPT-4，在给定相关上下文的情况下，能够准确回答许多单选和是非问题，证明了LLM在信息检索任务上的有效性。然而，面对多选和数字抽取问题时，其性能有所下降，影响了模型在这类任务上的整体表现，暗示这些模型可能尚未足够成熟以胜任此类任务。这限制了LLM在需要精确信息抽取的文档应用场景，如元分析任务中的使用。研究结果强调了检索器提供准确响应所需相关上下文的重要性，并指出了进一步研究的必要性。我们的研究为持续的数据集评估提供了框架，确保LLM在信息检索和文档分析领域的应用能够不断适应并满足新的标准。",
+    "title_cn": "本文探讨了如何利用 Cogtale 数据集对大型语言模型进行基于文档的问答能力的评估，包括精确答案的选择和数值信息的提取。",
+    "tags": [
+      "LLM应用",
+      "信息检索",
+      ""
+    ]
+  },
+  {
+    "title": "The Cambridge Law Corpus: A Dataset for Legal AI Research",
+    "submit_datetime": "2024年01月01日",
+    "abstract": "We introduce the Cambridge Law Corpus (CLC), a dataset for legal AI research. It consists of over 250 000 court cases from the UK. Most cases are from the 21st century, but the corpus includes cases as old as the 16th century. This paper presents the first release of the corpus, containing the raw text and meta-data. Together with the corpus, we provide annotations on case outcomes for 638 cases, done by legal experts. Using our annotated data, we have trained and evaluated case outcome extraction with GPT-3, GPT-4 and RoBERTa models to provide benchmarks. We include an extensive legal and ethical discussion to address the potentially sensitive nature of this material. As a consequence, the corpus will only be released for research purposes under certain restrictions.",
+    "pdf_link": "https://arxiv.org/abs/2309.12269",
+    "graphs": [],
+    "abstract_cn": "本文向您呈现剑桥法律语料库（CLC），这是一个专为法律AI研究设计的数据集，涵盖了英国超过25万个法庭案例，时间跨度从16世纪至21世纪。首次发布的语料库包含了案例的原始文本与元数据，并且我们提供了638个案例的判决结果注释，这些注释是由法律专家完成的。基于这些注释，我们训练并测试了GPT-3、GPT-4和RoBERTa模型，以进行案例结果提取，并设立了性能基准。鉴于材料的敏感性，我们还展开了深入的法律与伦理讨论。因此，该语料库将仅在特定条件下，为研究目的提供。",
+    "title_cn": "剑桥法律语料库：为法律AI研究提供的数据集。",
+    "tags": [
+      "LLM应用",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "From system models to class models: An in-context learning paradigm",
+    "submit_datetime": "2023年12月20日",
+    "abstract": "Is it possible to understand the intricacies of a dynamical system not solely from its input/output pattern, but also by observing the behavior of other systems within the same class? This central question drives the study presented in this paper.\n  In response to this query, we introduce a novel paradigm for system identification, addressing two primary tasks: one-step-ahead prediction and multi-step simulation. Unlike conventional methods, we do not directly estimate a model for the specific system. Instead, we learn a meta model that represents a class of dynamical systems. This meta model is trained on a potentially infinite stream of synthetic data, generated by simulators whose settings are randomly extracted from a probability distribution. When provided with a context from a new system-specifically, an input/output sequence-the meta model implicitly discerns its dynamics, enabling predictions of its behavior.\n  The proposed approach harnesses the power of Transformers, renowned for their \\emph{in-context learning} capabilities. For one-step prediction, a GPT-like decoder-only architecture is utilized, whereas the simulation problem employs an encoder-decoder structure. Initial experimental results affirmatively answer our foundational question, opening doors to fresh research avenues in system identification.",
+    "pdf_link": "https://arxiv.org/abs/2308.13380",
+    "graphs": [],
+    "abstract_cn": "能否通过观察同类系统中其他系统的行为，而不仅仅是输入/输出模式，来洞悉一个动态系统的奥妙？本论文的研究正是基于这一核心问题。为解答此问，我们提出了一种创新的系统识别新范式，旨在解决一步预测和多步模拟两大核心任务。与传统方法不同，我们不直接对特定系统建模，而是构建一个能够代表一类动态系统的元模型。该元模型通过从概率分布中随机抽取设置的模拟器生成的无限合成数据流进行训练。当输入新系统的上下文，例如输入/输出序列时，元模型能够隐式识别其动态特性，实现对其行为的预测。本方法借助了变换器的“上下文学习”能力，一步预测采用了类似 GPT 的仅解码器架构，而多步模拟则使用了编码器-解码器结构。初步的实验结果积极地回应了我们的基本问题，为系统识别研究开辟了新的路径。",
+    "title_cn": "探索系统模型至类别模型的转变：在上下文中学习的新模式",
+    "tags": [
+      "LLM理论",
+      "动态系统",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language",
+    "submit_datetime": "2023年12月15日",
+    "abstract": "Large Language Models represent state-of-the-art linguistic models designed to equip computers with the ability to comprehend natural language. With its exceptional capacity to capture complex contextual relationships, the LLaMA (Large Language Model Meta AI) family represents a novel advancement in the field of natural language processing by releasing foundational models designed to improve the natural language understanding abilities of the transformer architecture thanks to their large amount of trainable parameters (7, 13, and 70 billion parameters). In many natural language understanding tasks, these models obtain the same performances as private company models such as OpenAI Chat-GPT with the advantage to make publicly available weights and code for research and commercial uses. In this work, we investigate the possibility of Language Adaptation for LLaMA models, explicitly focusing on addressing the challenge of Italian Language coverage. Adopting an open science approach, we explore various tuning approaches to ensure a high-quality text generated in Italian suitable for common tasks in this underrepresented language in the original models' datasets. We aim to release effective text generation models with strong linguistic properties for many tasks that seem challenging using multilingual or general-purpose LLMs. By leveraging an open science philosophy, this study contributes to Language Adaptation strategies for the Italian language by introducing the novel LLaMAntino family of Italian LLMs.",
+    "pdf_link": "https://arxiv.org/abs/2312.09993",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2312.09993v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.09993/SFT.png"
+      }
+    ],
+    "abstract_cn": "大型语言模型（LLM）是当前语言模型的前沿，它们旨在让计算机掌握自然语言的理解。LLaMA系列以其出色的上下文关系捕捉能力，通过推出基于大量可训练参数（7亿、13亿和70亿参数）的基础模型，为自然语言处理领域带来了创新，显著提升了变换器架构的自然语言理解性能。这些模型在多种自然语言理解任务上的表现与OpenAI Chat-GPT等私营公司的模型不相上下，并且具有公开权重和代码的优势，便于研究和商业使用。本研究专注于LLaMA模型对意大利语的适应性，旨在解决这一语言在原始模型数据集中代表性不足的问题。我们采用开放科学的策略，尝试多种调优方法，以生成适合意大利语的高质量文本，满足这一语言在常见任务中的需求。我们致力于推出具有强大语言特性的文本生成模型，以应对使用多语言或通用LLM时面临的挑战。本研究通过引入LLaMAntino家族——一系列新型的意大利语LLM，为意大利语的语言适应提供了新的策略，进一步推动了开放科学在语言适应领域的贡献。",
+    "title_cn": "LLaMAntino：LLaMA 2 模型，专为意大利语高效文本生成而设计。",
+    "tags": [
+      "LLM应用",
+      "",
+      "语言模型"
+    ]
+  },
+  {
+    "title": "A Survey on Large Language Models for Personalized and Explainable Recommendations",
+    "submit_datetime": "2023年11月20日",
+    "abstract": "In recent years, Recommender Systems(RS) have witnessed a transformative shift with the advent of Large Language Models(LLMs) in the field of Natural Language Processing(NLP). These models such as OpenAI's GPT-3.5/4, Llama from Meta, have demonstrated unprecedented capabilities in understanding and generating human-like text. This has led to a paradigm shift in the realm of personalized and explainable recommendations, as LLMs offer a versatile toolset for processing vast amounts of textual data to enhance user experiences. To provide a comprehensive understanding of the existing LLM-based recommendation systems, this survey aims to analyze how RS can benefit from LLM-based methodologies. Furthermore, we describe major challenges in Personalized Explanation Generating(PEG) tasks, which are cold-start problems, unfairness and bias problems in RS.",
+    "pdf_link": "https://arxiv.org/abs/2311.12338",
+    "graphs": [],
+    "abstract_cn": "近年来，自然语言处理（NLP）领域的大型语言模型（LLM）为推荐系统（RS）带来了革命性的变化。以OpenAI的GPT-3.5/4和Meta的Llama为代表的这些模型，在理解和创造类人文本方面展现了惊人的能力，引发了个性化和可解释推荐领域的新浪潮。本篇综述旨在深入探讨基于LLM的推荐系统如何助力RS，以及如何利用这些强大的文本处理工具来提升用户体验。同时，我们也详细讨论了个性化解释生成（PEG）任务面临的主要挑战，包括RS中的冷启动难题、以及不公平和偏见问题。",
+    "title_cn": "本文综述了用于个性化和可解释推荐的各类大型语言模型。",
+    "tags": [
+      "分类：LLM应用\n\n这篇论文摘要讨论了大型语言模型（LLM）在自然语言处理（NLP）领域的应用，特别是在推荐系统（RS）中的应用。它提到了这些模型在理解和创造类人文本方面的能力，以及它们如何助力个性化和可解释推荐领域的发展。此外，论文还讨论了个性化解释生成（PEG）任务面临的挑战，如冷启动问题、不公平和偏见问题。这些内容都与LLM在实际应用中的使用有关，因此将其归类为LLM应用。",
+      "推荐系统",
+      ""
+    ]
+  },
+  {
+    "title": "UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework",
+    "submit_datetime": "2023年11月16日",
+    "abstract": "In the current landscape of artificial intelligence, foundation models serve as the bedrock for advancements in both language and vision domains. OpenAI GPT-4 has emerged as the pinnacle in large language models (LLMs), while the computer vision (CV) domain boasts a plethora of state-of-the-art (SOTA) models such as Meta's SAM and DINO, and YOLOS. However, the financial and computational burdens of training new models from scratch remain a significant barrier to progress. In response to this challenge, we introduce UnifiedVisionGPT, a novel framework designed to consolidate and automate the integration of SOTA vision models, thereby facilitating the development of vision-oriented AI. UnifiedVisionGPT distinguishes itself through four key features: (1) provides a versatile multimodal framework adaptable to a wide range of applications, building upon the strengths of multimodal foundation models; (2) seamlessly integrates various SOTA vision models to create a comprehensive multimodal platform, capitalizing on the best components of each model; (3) prioritizes vision-oriented AI, ensuring a more rapid progression in the CV domain compared to the current trajectory of LLMs; and (4) introduces automation in the selection of SOTA vision models, generating optimal results based on diverse multimodal inputs such as text prompts and images. This paper outlines the architecture and capabilities of UnifiedVisionGPT, demonstrating its potential to revolutionize the field of computer vision through enhanced efficiency, versatility, generalization, and performance. Our implementation, along with the unified multimodal framework and comprehensive dataset, is made publicly available at https://github.com/LHBuilder/SA-Segment-Anything.",
+    "pdf_link": "https://arxiv.org/abs/2311.10125",
+    "graphs": [],
+    "abstract_cn": "在当今人工智能的版图中，基础模型是推动语言和视觉技术发展的核心。OpenAI GPT-4 已在大型语言模型（LLMs）中独占鳌头，而计算机视觉（CV）领域则有 Meta 的 SAM、DINO 和 YOLOS 等众多前沿模型。尽管如此，从头开始训练新模型所需的财务和计算成本仍是技术进步的一大障碍。为解决这一难题，我们推出了 UnifiedVisionGPT，这是一个创新框架，旨在整合并自动化集成顶尖视觉模型，以加速视觉导向的人工智能开发。UnifiedVisionGPT 以其四项核心优势而著称：（1）构建于多模态基础模型之上，提供灵活的多模态框架，适用于多种应用场景；（2）无缝融合多种前沿视觉模型，打造全面的多模态平台，汇聚各个模型的精华；（3）专注于视觉人工智能，力求在 CV 领域实现超越现有 LLMs 发展轨迹的快速进步；（4）引入自动化选择前沿视觉模型，根据不同的多模态输入如文本和图像，产生最佳结果。本文详细介绍了 UnifiedVisionGPT 的架构和功能，证明了它在提升计算机视觉领域的效率、多样性、泛化能力和性能方面的革命性潜力。我们的实现，包括统一的多模态框架和全面的数据集，已在 https://github.com/LHBuilder/SA-Segment-Anything 向公众开放。",
+    "title_cn": "UnifiedVisionGPT：采用广义多模态框架，优化视觉导向的人工智能流程",
+    "tags": [
+      "LLM应用",
+      "计算机视觉",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "A Simple yet Efficient Ensemble Approach for AI-generated Text Detection",
+    "submit_datetime": "2023年11月07日",
+    "abstract": "Recent Large Language Models (LLMs) have demonstrated remarkable capabilities in generating text that closely resembles human writing across wide range of styles and genres. However, such capabilities are prone to potential abuse, such as fake news generation, spam email creation, and misuse in academic assignments. Hence, it is essential to build automated approaches capable of distinguishing between artificially generated text and human-authored text. In this paper, we propose a simple yet efficient solution to this problem by ensembling predictions from multiple constituent LLMs. Compared to previous state-of-the-art approaches, which are perplexity-based or uses ensembles with a number of LLMs, our condensed ensembling approach uses only two constituent LLMs to achieve comparable performance. Experiments conducted on four benchmark datasets for generative text classification show performance improvements in the range of 0.5 to 100\\% compared to previous state-of-the-art approaches. We also study the influence that the training data from individual LLMs have on model performance. We found that substituting commercially-restrictive Generative Pre-trained Transformer (GPT) data with data generated from other open language models such as Falcon, Large Language Model Meta AI (LLaMA2), and Mosaic Pretrained Transformers (MPT) is a feasible alternative when developing generative text detectors. Furthermore, to demonstrate zero-shot generalization, we experimented with an English essays dataset, and results suggest that our ensembling approach can handle new data effectively.",
+    "pdf_link": "https://arxiv.org/abs/2311.03084",
+    "graphs": [],
+    "abstract_cn": "近期的大型语言模型（LLMs）在模仿多种风格和类型的人类写作方面展现出了卓越的文本生成能力。然而，这种能力也容易被滥用，比如制造假新闻、垃圾邮件的编写，以及在学术作业中的不恰当使用。因此，开发能够辨别人工生成文本与人类创作文本的自动化工具显得尤为重要。本文提出了一种简洁高效的解决方案，即通过整合多个子LLMs的预测结果。相较于之前基于困惑度或多模型集成的方法，我们的精简集成方法仅用两个子LLMs就实现了相当的性能。在四个文本生成分类的基准数据集上的实验表明，与先前最先进方法相比，我们的性能提升了0.5%至100%。我们还探讨了不同LLMs的训练数据对模型性能的影响，并发现使用Falcon、LLaMA2、MPT等开放语言模型生成的数据替代商业限制的GPT数据是一个可行的方案。此外，为了验证零样本泛化能力，我们在英语论文数据集上进行了测试，结果表明我们的集成方法能够有效处理新数据。",
+    "title_cn": "一种简洁高效的集成策略，用于辨识 AI 创作的文本",
+    "tags": [
+      "LLM应用",
+      "文本生成",
+      "内容识别"
+    ]
+  },
+  {
+    "title": "The Foundation Model Transparency Index",
+    "submit_datetime": "2023年10月19日",
+    "abstract": "Foundation models have rapidly permeated society, catalyzing a wave of generative AI applications spanning enterprise and consumer-facing contexts. While the societal impact of foundation models is growing, transparency is on the decline, mirroring the opacity that has plagued past digital technologies (e.g. social media). Reversing this trend is essential: transparency is a vital precondition for public accountability, scientific innovation, and effective governance. To assess the transparency of the foundation model ecosystem and help improve transparency over time, we introduce the Foundation Model Transparency Index. The Foundation Model Transparency Index specifies 100 fine-grained indicators that comprehensively codify transparency for foundation models, spanning the upstream resources used to build a foundation model (e.g data, labor, compute), details about the model itself (e.g. size, capabilities, risks), and the downstream use (e.g. distribution channels, usage policies, affected geographies). We score 10 major foundation model developers (e.g. OpenAI, Google, Meta) against the 100 indicators to assess their transparency. To facilitate and standardize assessment, we score developers in relation to their practices for their flagship foundation model (e.g. GPT-4 for OpenAI, PaLM 2 for Google, Llama 2 for Meta). We present 10 top-level findings about the foundation model ecosystem: for example, no developer currently discloses significant information about the downstream impact of its flagship model, such as the number of users, affected market sectors, or how users can seek redress for harm. Overall, the Foundation Model Transparency Index establishes the level of transparency today to drive progress on foundation model governance via industry standards and regulatory intervention.",
+    "pdf_link": "https://arxiv.org/abs/2310.12941",
+    "graphs": [],
+    "abstract_cn": "基础模型已经迅速融入社会，引发了一场涵盖企业和消费者领域的生成性人工智能应用的浪潮。随着这些模型的社会影响力日益增强，透明度却在减少，这与过去数字技术（如社交媒体）的不透明性相呼应。要改变这一趋势，透明度是实现公共问责、科学创新和有效治理的关键前提。为此，我们推出了基础模型透明度指数，旨在评估并提升基础模型生态系统的透明度。该指数包含100个精细指标，全面量化了从构建基础模型所使用的资源（如数据、劳动力、计算资源），到模型本身的特性（如规模、功能、风险），再到模型的下游应用（如分发渠道、使用政策、影响地区）的透明度。我们对10家主要的基础模型开发商（如OpenAI、Google、Meta）进行了评估，依据100个指标来衡量他们的透明度。为了便于评估和标准化，我们根据这些开发商对其主要模型（如OpenAI的GPT-4、Google的PaLM 2、Meta的Llama 2）的做法进行评分。我们的研究揭示了关于基础模型生态系统的10个关键发现：例如，目前没有任何开发商公开其主要模型的下游影响的详细信息，包括用户数量、影响的市场领域，或用户如何寻求损害赔偿。总体来看，基础模型透明度指数旨在确立当前的透明度水平，并通过行业标准和监管措施推动基础模型治理的进步。",
+    "title_cn": "基础模型透明度指标",
+    "tags": [
+      "LLM应用",
+      "人工智能",
+      "社会影响"
+    ]
+  },
+  {
+    "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+    "submit_datetime": "2023年10月05日",
+    "abstract": "Optimizing large language models (LLMs) for downstream use cases often involves the customization of pre-trained LLMs through further fine-tuning. Meta's open release of Llama models and OpenAI's APIs for fine-tuning GPT-3.5 Turbo on custom datasets also encourage this practice. But, what are the safety costs associated with such custom fine-tuning? We note that while existing safety alignment infrastructures can restrict harmful behaviors of LLMs at inference time, they do not cover safety risks when fine-tuning privileges are extended to end-users. Our red teaming studies find that the safety alignment of LLMs can be compromised by fine-tuning with only a few adversarially designed training examples. For instance, we jailbreak GPT-3.5 Turbo's safety guardrails by fine-tuning it on only 10 such examples at a cost of less than $0.20 via OpenAI's APIs, making the model responsive to nearly any harmful instructions. Disconcertingly, our research also reveals that, even without malicious intent, simply fine-tuning with benign and commonly used datasets can also inadvertently degrade the safety alignment of LLMs, though to a lesser extent. These findings suggest that fine-tuning aligned LLMs introduces new safety risks that current safety infrastructures fall short of addressing -- even if a model's initial safety alignment is impeccable, it is not necessarily to be maintained after custom fine-tuning. We outline and critically analyze potential mitigations and advocate for further research efforts toward reinforcing safety protocols for the custom fine-tuning of aligned LLMs.",
+    "pdf_link": "https://arxiv.org/abs/2310.03693",
+    "graphs": [],
+    "abstract_cn": "优化大型语言模型（LLMs）以适应特定应用场景，通常需要对这些预训练模型进行定制化微调。Meta的Llama模型发布和OpenAI提供的GPT-3.5 Turbo自定义数据集微调API都在推动这一趋势。然而，这种个性化微调背后的安全代价是什么？现有安全机制虽然能在推理阶段限制模型的不当行为，但一旦将微调权限开放给终端用户，这些机制便无法覆盖相应的安全风险。我们的研究发现，仅需少量针对性设计的训练样本，就足以破坏LLMs的安全校准。例如，我们仅通过10个这样的样本，以不到0.20美元的代价，通过OpenAI的API绕过了GPT-3.5 Turbo的安全限制，使模型能够响应几乎所有有害指令。更令人担忧的是，即便没有恶意，仅使用普通且看似无害的数据集进行微调，也可能无意中削弱模型的安全校准，尽管影响较小。这些发现提示我们，微调过程为LLMs带来了新的安全风险，而现有的安全设施并未能充分应对。即使模型最初的安全校准无可击，定制化微调后也难以保证。我们提出了可能的缓解措施，并对其进行了深入分析，同时呼吁对加强定制微调LLMs的安全协议进行更多研究。",
+    "title_cn": "微调对齐的语言模型可能会不安全，哪怕用户并无此意。",
+    "tags": [
+      "LLM应用",
+      "网络安全",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Generative AI in the Construction Industry: Opportunities & Challenges",
+    "submit_datetime": "2023年09月19日",
+    "abstract": "In the last decade, despite rapid advancements in artificial intelligence (AI) transforming many industry practices, construction largely lags in adoption. Recently, the emergence and rapid adoption of advanced large language models (LLM) like OpenAI's GPT, Google's PaLM, and Meta's Llama have shown great potential and sparked considerable global interest. However, the current surge lacks a study investigating the opportunities and challenges of implementing Generative AI (GenAI) in the construction sector, creating a critical knowledge gap for researchers and practitioners. This underlines the necessity to explore the prospects and complexities of GenAI integration. Bridging this gap is fundamental to optimizing GenAI's early-stage adoption within the construction sector. Given GenAI's unprecedented capabilities to generate human-like content based on learning from existing content, we reflect on two guiding questions: What will the future bring for GenAI in the construction industry? What are the potential opportunities and challenges in implementing GenAI in the construction industry? This study delves into reflected perception in literature, analyzes the industry perception using programming-based word cloud and frequency analysis, and integrates authors' opinions to answer these questions. This paper recommends a conceptual GenAI implementation framework, provides practical recommendations, summarizes future research questions, and builds foundational literature to foster subsequent research expansion in GenAI within the construction and its allied architecture & engineering domains.",
+    "pdf_link": "https://arxiv.org/abs/2310.04427",
+    "graphs": [],
+    "abstract_cn": "近十年来，尽管人工智能（AI）的迅猛进展已经革新了众多行业，但建筑业的采纳步伐却相对缓慢。最近，诸如 OpenAI 的 GPT、Google 的 PaLM 和 Meta 的 Llama 等高级大型语言模型（LLM）的兴起和快速普及，展现了巨大的潜力，引起了全球的广泛关注。然而，目前对于在建筑业中应用生成性人工智能（GenAI）的机遇与挑战的研究尚显不足，这为学术界和业界留下了一个重要的知识空白。探索 GenAI 融合的可能性和复杂性变得尤为迫切。填补这一空白对于建筑业早期采纳 GenAI 至关重要。鉴于 GenAI 能够基于现有内容学习生成类似人类的文本，我们提出了两个关键问题：GenAI 将如何塑造建筑业的未来？在建筑业中实施 GenAI 存在哪些潜在的机遇与挑战？本研究通过文献回顾、编程生成的词云和频率分析，以及作者的观点，深入分析了这些问题。本文提出了一个概念性的 GenAI 实施框架，给出了实用的建议，概述了未来的研究方向，并为促进 GenAI 在建筑及其相关建筑和工程领域的研究发展奠定了基础。",
+    "title_cn": "建筑行业中的生成性人工智能：机遇与挑战并存",
+    "tags": [
+      "LLM应用",
+      "建筑业",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Large Language Models as Data Preprocessors",
+    "submit_datetime": "2023年08月30日",
+    "abstract": "Large Language Models (LLMs), typified by OpenAI's GPT series and Meta's LLaMA variants, have marked a significant advancement in artificial intelligence. Trained on vast amounts of text data, LLMs are capable of understanding and generating human-like text across a diverse range of topics. This study expands on the applications of LLMs, exploring their potential in data preprocessing, a critical stage in data mining and analytics applications. We delve into the applicability of state-of-the-art LLMs such as GPT-3.5, GPT-4, and Vicuna-13B for error detection, data imputation, schema matching, and entity matching tasks. Alongside showcasing the inherent capabilities of LLMs, we highlight their limitations, particularly in terms of computational expense and inefficiency. We propose an LLM-based framework for data preprocessing, which integrates cutting-edge prompt engineering techniques, coupled with traditional methods like contextualization and feature selection, to improve the performance and efficiency of these models. The effectiveness of LLMs in data preprocessing is evaluated through an experimental study spanning 12 datasets. GPT-4 emerged as a standout, achieving 100\\% accuracy or F1 score on 4 datasets, suggesting LLMs' immense potential in these tasks. Despite certain limitations, our study underscores the promise of LLMs in this domain and anticipates future developments to overcome current hurdles.",
+    "pdf_link": "https://arxiv.org/abs/2308.16361",
+    "graphs": [],
+    "abstract_cn": "以 OpenAI 的 GPT 系列和 Meta 的 LLaMA 变种为代表的大型语言模型（LLMs）在人工智能领域取得了显著突破。这些模型经过海量文本数据的训练，能够理解并生成多样化话题的类人文本。本研究进一步探讨了 LLMs 在数据预处理——数据挖掘和分析应用的关键环节——中的应用潜力。我们深入分析了 GPT-3.5、GPT-4 和 Vicuna-13B 等尖端 LLMs 在错误检测、数据填充、模式匹配和实体匹配等任务中的适用性。研究不仅展示了 LLMs 的内在能力，也指出了它们在计算成本和效率上的局限。我们提出了一个融合尖端提示工程技术与传统方法，如情境化和特征选择的 LLM 基础数据预处理框架，旨在提升模型的性能与效率。通过 12 个数据集的广泛实验，我们评估了 LLMs 在数据预处理方面的效能，其中 GPT-4 在 4 个数据集上实现了 100% 的准确率或 F1 分数，彰显了 LLMs 在这些任务上的卓越潜力。尽管存在一些限制，但本研究凸显了 LLMs 在此领域的希望，并展望了未来的发展将如何克服现有挑战。",
+    "title_cn": "语言巨擘，数据预处理的新利器",
+    "tags": [
+      "LLM应用",
+      "人工智能",
+      "数据预处理"
+    ]
+  },
+  {
+    "title": "Adaptive Low Rank Adaptation of Segment Anything to Salient Object Detection",
+    "submit_datetime": "2023年08月10日",
+    "abstract": "Foundation models, such as OpenAI's GPT-3 and GPT-4, Meta's LLaMA, and Google's PaLM2, have revolutionized the field of artificial intelligence. A notable paradigm shift has been the advent of the Segment Anything Model (SAM), which has exhibited a remarkable capability to segment real-world objects, trained on 1 billion masks and 11 million images. Although SAM excels in general object segmentation, it lacks the intrinsic ability to detect salient objects, resulting in suboptimal performance in this domain. To address this challenge, we present the Segment Salient Object Model (SSOM), an innovative approach that adaptively fine-tunes SAM for salient object detection by harnessing the low-rank structure inherent in deep learning. Comprehensive qualitative and quantitative evaluations across five challenging RGB benchmark datasets demonstrate the superior performance of our approach, surpassing state-of-the-art methods.",
+    "pdf_link": "https://arxiv.org/abs/2308.05426",
+    "graphs": [],
+    "abstract_cn": "诸如 OpenAI 的 GPT-3、GPT-4，Meta 的 LLaMA，以及 Google 的 PaLM2 等基础模型，引领了人工智能领域的革新。特别值得一提的是 Segment Anything Model (SAM) 的引入，它在经过 10 亿个遮罩和 1100 万张图像的训练后，展现出了分割现实世界物体的非凡能力。尽管 SAM 在常规物体分割任务上表现优异，但它在识别关键物体方面存在不足，影响了其在该领域的性能。为了解决这一问题，我们引入了 Segment Salient Object Model (SSOM)，这是一种创新的解决方案，它通过深度学习中的低秩结构，对 SAM 进行自适应微调，以提高显著物体检测的准确性。在五个颇具挑战性的 RGB 基准数据集上的全面评估显示，SSOM 在性能上超越了现有的顶尖技术。",
+    "title_cn": "本文介绍了一种自适应低秩调整技术，旨在将“任何片段”模型适配到显著目标检测任务中，以提升检测性能。",
+    "tags": [
+      "分类：RAG",
+      "人工智能",
+      "图像处理"
+    ]
+  },
+  {
+    "title": "Is Pre-training Truly Better Than Meta-Learning?",
+    "submit_datetime": "2023年06月23日",
+    "abstract": "In the context of few-shot learning, it is currently believed that a fixed pre-trained (PT) model, along with fine-tuning the final layer during evaluation, outperforms standard meta-learning algorithms. We re-evaluate these claims under an in-depth empirical examination of an extensive set of formally diverse datasets and compare PT to Model Agnostic Meta-Learning (MAML). Unlike previous work, we emphasize a fair comparison by using: the same architecture, the same optimizer, and all models trained to convergence. Crucially, we use a more rigorous statistical tool -- the effect size (Cohen's d) -- to determine the practical significance of the difference between a model trained with PT vs. a MAML. We then use a previously proposed metric -- the diversity coefficient -- to compute the average formal diversity of a dataset. Using this analysis, we demonstrate the following: 1. when the formal diversity of a data set is low, PT beats MAML on average and 2. when the formal diversity is high, MAML beats PT on average. The caveat is that the magnitude of the average difference between a PT vs. MAML using the effect size is low (according to classical statistical thresholds) -- less than 0.2. Nevertheless, this observation is contrary to the currently held belief that a pre-trained model is always better than a meta-learning model. Our extensive experiments consider 21 few-shot learning benchmarks, including the large-scale few-shot learning dataset Meta-Data set. We also show no significant difference between a MAML model vs. a PT model with GPT-2 on Openwebtext. We, therefore, conclude that a pre-trained model does not always beat a meta-learned model and that the formal diversity of a dataset is a driving factor.",
+    "pdf_link": "https://arxiv.org/abs/2306.13841",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/micod_resnet12_learning_curve.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/mds_learning_curve_resnet50.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/res12_fc100_learning_curve_pt_maml.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/res12_aircraft_learning_curve_pt_maml.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/res12_hdb8_learning_curve_pt_maml.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/res12_hdb9_learning_curve_pt_maml.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/hdb8_maml_vs_sl_val_loss.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/dtd_maml_vs_sl_val_loss.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2306.13841v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2306.13841/maml_PT_comparison.png"
+      }
+    ],
+    "abstract_cn": "在少量样本学习领域，普遍观点认为，固定预训练模型辅以评估时对最终层的微调，性能会超过传统元学习算法。本研究通过深入分析多样化数据集，重新审视了这一观点，并将预训练模型与模型无关的元学习（MAML）进行了对比。我们采用了相同的架构、优化器，并确保所有模型都经过充分训练，以实现公平比较。关键地，我们引入了效应量（Cohen's d）这一统计工具，以评估PT模型与MAML模型性能差异的实际重要性。此外，我们还利用多样性系数这一指标，量化了数据集的形式多样性。研究发现：在数据集形式多样性较低时，预训练模型通常优于MAML；而在多样性较高时，MAML则占据优势。尽管如此，根据经典统计标准，PT与MAML之间的平均性能差异并不显著（小于0.2）。这一发现挑战了预训练模型始终优于元学习模型的传统认知。我们的实验涵盖了21个少量样本学习基准，包括大规模的Meta-Data数据集，并未发现MAML与PT模型在Openwebtext上存在显著差异。因此，我们得出结论，预训练模型并非总是胜过元学习模型，数据集的形式多样性是影响性能的关键因素。",
+    "title_cn": "预训练是否确实优于元学习？",
+    "tags": [
+      "LLM理论",
+      "机器学习",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Assessing the Effectiveness of GPT-3 in Detecting False Political Statements: A Case Study on the LIAR Dataset",
+    "submit_datetime": "2023年06月13日",
+    "abstract": "The detection of political fake statements is crucial for maintaining information integrity and preventing the spread of misinformation in society. Historically, state-of-the-art machine learning models employed various methods for detecting deceptive statements. These methods include the use of metadata (W. Wang et al., 2018), n-grams analysis (Singh et al., 2021), and linguistic (Wu et al., 2022) and stylometric (Islam et al., 2020) features. Recent advancements in large language models, such as GPT-3 (Brown et al., 2020) have achieved state-of-the-art performance on a wide range of tasks. In this study, we conducted experiments with GPT-3 on the LIAR dataset (W. Wang et al., 2018) and achieved higher accuracy than state-of-the-art models without using any additional meta or linguistic features. Additionally, we experimented with zero-shot learning using a carefully designed prompt and achieved near state-of-the-art performance. An advantage of this approach is that the model provided evidence for its decision, which adds transparency to the model's decision-making and offers a chance for users to verify the validity of the evidence provided.",
+    "pdf_link": "https://arxiv.org/abs/2306.08190",
+    "graphs": [],
+    "abstract_cn": "识别政治谎言对于保持信息的纯洁性和防止虚假信息在社会中蔓延具有重要意义。传统上，尖端的机器学习模型采取了多种策略来识别虚假陈述，包括利用元数据、n-gram分析、语言特性以及文体学特征。随着大型语言模型如GPT-3的出现，我们在多项任务上见证了前所未有的性能提升。本研究中，我们在LIAR数据集上运用GPT-3进行实验，无需额外的元数据或语言特征，便超越了现有最先进模型的准确度。我们还尝试了零样本学习，通过精心构造的提示，达到了接近顶尖的成绩。这种方法的优势在于模型为其判断提供了依据，不仅增强了决策过程的透明度，也让用户有机会检验所提供证据的真实性。",
+    "title_cn": "探究 GPT-3 识别虚假政治言论的能力：基于 LIAR 数据集的案例分析",
+    "tags": [
+      "LLM应用",
+      "政治分析",
+      "信息安全"
+    ]
+  },
+  {
+    "title": "Lost in Translation: Large Language Models in Non-English Content Analysis",
+    "submit_datetime": "2023年06月12日",
+    "abstract": "In recent years, large language models (e.g., Open AI's GPT-4, Meta's LLaMa, Google's PaLM) have become the dominant approach for building AI systems to analyze and generate language online. However, the automated systems that increasingly mediate our interactions online -- such as chatbots, content moderation systems, and search engines -- are primarily designed for and work far more effectively in English than in the world's other 7,000 languages. Recently, researchers and technology companies have attempted to extend the capabilities of large language models into languages other than English by building what are called multilingual language models.\n  In this paper, we explain how these multilingual language models work and explore their capabilities and limits. Part I provides a simple technical explanation of how large language models work, why there is a gap in available data between English and other languages, and how multilingual language models attempt to bridge that gap. Part II accounts for the challenges of doing content analysis with large language models in general and multilingual language models in particular. Part III offers recommendations for companies, researchers, and policymakers to keep in mind when considering researching, developing and deploying large and multilingual language models.",
+    "pdf_link": "https://arxiv.org/abs/2306.07377",
+    "graphs": [],
+    "abstract_cn": "近期，诸如Open AI的GPT-4、Meta的LLaMa、Google的PaLM等大型语言模型，已成为在线分析和生成语言的AI系统建设的主流方法。但这些日益增多的自动化系统，如聊天机器人、内容审核系统和搜索引擎，主要针对英语设计，其效果远超过其他7000种语言。技术企业和研究者正尝试通过创建多语言语言模型，将这些大型模型的应用扩展到英语之外。本文将阐述多语言语言模型的运作机制及其能力与局限。第一部分简明扼要地解释了大型语言模型的工作原理，英语与其他语言在数据获取上的差异，以及多语言模型如何努力缩小这一差距。第二部分讨论了使用大型语言模型，尤其是多语言模型进行内容分析时面临的挑战。第三部分则为有意研究、开发和部署大型及多语言语言模型的公司、研究者和政策制定者提供了实用的建议。",
+    "title_cn": "在非英语内容分析中，大型语言模型的应用有时会遇到“翻译中的迷失”。",
+    "tags": [
+      "分类：LLM应用",
+      "人工智能",
+      "语言处理"
+    ]
+  },
+  {
+    "title": "Large language models and (non-)linguistic recursion",
+    "submit_datetime": "2023年06月12日",
+    "abstract": "Recursion is one of the hallmarks of human language. While many design features of language have been shown to exist in animal communication systems, recursion has not. Previous research shows that GPT-4 is the first large language model (LLM) to exhibit metalinguistic abilities (Beguš, Dąbkowski, and Rhodes 2023). Here, we propose several prompt designs aimed at eliciting and analyzing recursive behavior in LLMs, both linguistic and non-linguistic. We demonstrate that when explicitly prompted, GPT-4 can both produce and analyze recursive structures. Thus, we present one of the first studies investigating whether meta-linguistic awareness of recursion -- a uniquely human cognitive property -- can emerge in transformers with a high number of parameters such as GPT-4.",
+    "pdf_link": "https://arxiv.org/abs/2306.07195",
+    "graphs": [],
+    "abstract_cn": "递归是语言的显著特征，尽管动物的交流系统展现出语言的多种设计特征，但递归却不在其中。研究指出，GPT-4是首个展现元语言能力的超大型语言模型（LLM）（Beguš, Dąbkowski, 和 Rhodes 2023）。本文提出了几种提示设计，用以激发并分析LLMs在语言和非语言层面上的递归行为。我们证实，在明确引导下，GPT-4能够生成和解析递归结构。因此，本研究首次探讨了具有大量参数的变换器，如GPT-4，是否能够发展出对递归的元语言意识——这一人类独有的认知特性。",
+    "title_cn": "大型语言模型与语言的递归性（及其缺失）",
+    "tags": [
+      "分类：LLM理论\n\n这篇论文探讨了大型语言模型（LLM）在语言和非语言层面上的递归行为，特别是GPT-4模型的元语言能力。它涉及到对LLM的认知特性的研究，因此属于LLM理论分类。",
+      "人工智能",
+      "认知科学"
     ]
   },
   {
