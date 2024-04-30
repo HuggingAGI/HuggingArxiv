@@ -770,6 +770,335 @@
     ]
   },
   {
+    "title": "Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty",
+    "submit_datetime": "2024年04月29日",
+    "abstract": "To overcome the sim-to-real gap in reinforcement learning (RL), learned policies must maintain robustness against environmental uncertainties. While robust RL has been widely studied in single-agent regimes, in multi-agent environments, the problem remains understudied -- despite the fact that the problems posed by environmental uncertainties are often exacerbated by strategic interactions. This work focuses on learning in distributionally robust Markov games (RMGs), a robust variant of standard Markov games, wherein each agent aims to learn a policy that maximizes its own worst-case performance when the deployed environment deviates within its own prescribed uncertainty set. This results in a set of robust equilibrium strategies for all agents that align with classic notions of game-theoretic equilibria. Assuming a non-adaptive sampling mechanism from a generative model, we propose a sample-efficient model-based algorithm (DRNVI) with finite-sample complexity guarantees for learning robust variants of various notions of game-theoretic equilibria. We also establish an information-theoretic lower bound for solving RMGs, which confirms the near-optimal sample complexity of DRNVI with respect to problem-dependent factors such as the size of the state space, the target accuracy, and the horizon length.",
+    "pdf_link": "https://arxiv.org/abs/2404.18909",
+    "graphs": [],
+    "abstract_cn": "为了弥合强化学习中的仿真与现实之间的鸿沟，所学习到的策略必须对环境的不确定性具有鲁棒性。尽管在单一智能体情境下，鲁棒性强化学习已受到广泛关注，但在多智能体情境中，这一问题尚未得到充分研究，尤其是在环境不确定性因策略互动而加剧的情况下。本研究着眼于分布鲁棒马尔可夫博弈（RMGs）的学习，这是一种鲁棒性增强的马尔可夫博弈，每个智能体都旨在学习一种策略，以确保在部署环境在其预设的不确定性范围内发生偏离时，自身的最坏情况性能达到最大化。这将形成一套与经典博弈论均衡理念相符的鲁棒均衡策略。在假设生成模型采用非自适应抽样机制的前提下，我们提出了一种样本高效的基于模型算法（DRNVI），并为学习不同博弈论均衡概念的鲁棒变体提供了有限样本复杂度的保证。此外，我们还建立了解决RMGs的信息论下界，证实了DRNVI在样本复杂度上接近最优，这与问题依赖因素（如状态空间大小、目标精度和时间范围）有关。",
+    "title_cn": "面对环境的不确定性，本研究提出了一种样本高效且鲁棒的多智能体强化学习方法。",
+    "tags": [
+      "分类：Agent",
+      "",
+      "多智能体系统"
+    ]
+  },
+  {
+    "title": "Multi-Agent Synchronization Tasks",
+    "submit_datetime": "2024年04月29日",
+    "abstract": "In multi-agent reinforcement learning (MARL), coordination plays a crucial role in enhancing agents' performance beyond what they could achieve through cooperation alone. The interdependence of agents' actions, coupled with the need for communication, leads to a domain where effective coordination is crucial. In this paper, we introduce and define $\\textit{Multi-Agent Synchronization Tasks}$ (MSTs), a novel subset of multi-agent tasks. We describe one MST, that we call $\\textit{Synchronized Predator-Prey}$, offering a detailed description that will serve as the basis for evaluating a selection of recent state-of-the-art (SOTA) MARL algorithms explicitly designed to address coordination challenges through the use of communication strategies. Furthermore, we present empirical evidence that reveals the limitations of the algorithms assessed to solve MSTs, demonstrating their inability to scale effectively beyond 2-agent coordination tasks in scenarios where communication is a requisite component. Finally, the results raise questions about the applicability of recent SOTA approaches for complex coordination tasks (i.e. MSTs) and prompt further exploration into the underlying causes of their limitations in this context.",
+    "pdf_link": "https://arxiv.org/abs/2404.18798",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.18798v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18798/synchronized_pred-prey_w_3_catcher.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18798v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18798/Combined_Payoff_Represenation.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18798v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18798/penalty-full-all_conditions.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18798v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18798/penalty-full_v_empty-2_agents.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18798v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18798/no_penalty-full-all_conditions.png"
+      }
+    ],
+    "abstract_cn": "在多智能体强化学习领域，协调是提升智能体协作效果的关键。本文提出了“多智能体同步任务”（MSTs）这一新概念，并以“同步捕食者-猎物”为例，详细阐述了其特点。这些特点将用于评估一系列专为解决协调问题而设计的先进MARL算法。研究还展示了这些算法在处理超过两个智能体的协调任务时的局限性，尤其是在沟通至关重要的情况下。最终，这些发现对于当前顶尖方法在处理复杂协调任务时的适用性提出了质疑，并激发了对这些算法局限性背后原因的深入研究。",
+    "title_cn": "多智能体同步作业",
+    "tags": [
+      "Agent",
+      "人工智能",
+      "多智能体系统"
+    ]
+  },
+  {
+    "title": "Fast Swarming of UAVs in GNSS-denied Feature-poor Environments without Explicit Communication",
+    "submit_datetime": "2024年04月29日",
+    "abstract": "A decentralized swarm approach for the fast cooperative flight of Unmanned Aerial Vehicles (UAVs) in feature-poor environments without any external localization and communication is introduced in this paper.\n  A novel model of a UAV neighborhood is proposed to achieve robust onboard mutual perception and flocking state feedback control, which is designed to decrease the inter-agent oscillations common in standard reactive swarm models employed in fast collective motion.\n  The novel swarming methodology is supplemented with an enhanced Multi-Robot State Estimation (MRSE) strategy to increase the reliability of the purely onboard localization, which may be unreliable in real environments.\n  Although MRSE and the neighborhood model may rely on information exchange between agents, we introduce a communication-less version of the swarming framework based on estimating communicated states to decrease dependence on the often unreliable communication networks of large swarms.\n  The proposed solution has been verified by a set of complex real-world experiments to demonstrate its overall capability in different conditions, including a UAV interception-motivated task with a group velocity reaching the physical limits of the individual hardware platforms.",
+    "pdf_link": "https://arxiv.org/abs/2404.18729",
+    "graphs": [],
+    "abstract_cn": "本文提出了一种分散式无人机群体飞行的新方法，适用于缺乏特征的环境中，无需外部定位和通信。我们设计了一种新型的无人机邻近区域模型，以增强无人机之间的相互感知和群体状态的反馈控制，有效减少了快速集体运动中常见的无人机间振荡。此外，我们还引入了一种改进的多机器人状态估计（MRSE）策略，以提升仅依赖机载定位的可靠性。尽管MRSE和邻近区域模型可能需要无人机间的信息交流，但我们开发了一种无需通信的群体框架，通过估算通信状态来降低对大型群体通信网络的依赖。该方案已通过一系列复杂的实际实验得到验证，展示了其在多变条件下的卓越性能，包括一项以无人机拦截为模拟目标的任务，其群体速度达到了单个无人机硬件平台的物理极限。",
+    "title_cn": "在缺乏全球导航卫星系统信号且特征稀缺的环境中，无人机能够实现无需明确通信的快速集群飞行。",
+    "tags": [
+      "Agent",
+      "无人机",
+      "机器人"
+    ]
+  },
+  {
+    "title": "A geometric approach for stability analysis of delay systems: Applications to network dynamics",
+    "submit_datetime": "2024年04月29日",
+    "abstract": "Investigating the network stability or synchronization dynamics of multi-agent systems with time delays is of significant importance in numerous real-world applications. Such investigations often rely on solving the transcendental characteristic equations (TCEs) obtained from linearization of the considered systems around specific solutions. While stability results based on the TCEs with real-valued coefficients induced by symmetric networks in time-delayed models have been extensively explored in the literature, there remains a notable gap in stability analysis for the TCEs with complexvalued coefficients arising from asymmetric networked dynamics with time delays. To address this challenge comprehensively, we propose a rigorously geometric approach. By identifying and studying the stability crossing curves in the complex plane, we are able to determine the stability region of these systems. This approach is not only suitable for analyzing the stability of models with discrete time delays but also for models with various types of delays, including distributed time delays. Additionally, it can also handle random networks. We demonstrate the efficacy of this approach in designing delayed control strategies for car-following systems, mechanical systems, and deep brain stimulation modeling, where involved are complex-valued TCEs or/and different types of delays. All these therefore highlight the broad applicability of our approach across diverse domains.",
+    "pdf_link": "https://arxiv.org/abs/2404.18704",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/fig7.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/fig9.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/fig12.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18704v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18704/x16.png"
+      }
+    ],
+    "abstract_cn": "探究具有时间延迟的多智能体系统的稳定性与同步行为对于现实世界中的众多应用至关重要。此类研究通常需要求解从特定解出发对系统进行线性化后得到的超越特征方程（TCEs）。尽管关于由对称网络在时间延迟模型中引起的实系数TCEs的稳定性研究已广泛开展，但对于由非对称网络动态引起的复值系数TCEs的稳定性分析尚存在明显缺口。为全面应对这一挑战，我们提出了一种严谨的几何分析方法。通过分析复平面上的稳定性临界曲线，我们得以界定这些系统的稳定区域。此方法不仅适用于离散时间延迟模型，也适用于包含分布式延迟等多种延迟类型的模型，并且能够处理随机网络。我们通过为汽车跟随系统、机械系统和深脑刺激模型设计延迟控制策略，证明了该方法在处理复值TCEs或不同类型延迟时的有效性，从而突显了该方法在多个领域的广泛适用性。",
+    "title_cn": "本文介绍了一种新颖的几何方法，用于分析具有延迟的系统的稳定性，并将其应用于网络动态的研究。",
+    "tags": [
+      "Agent",
+      "智能体系统",
+      "控制理论"
+    ]
+  },
+  {
+    "title": "MRIC: Model-Based Reinforcement-Imitation Learning with Mixture-of-Codebooks for Autonomous Driving Simulation",
+    "submit_datetime": "2024年04月29日",
+    "abstract": "Accurately simulating diverse behaviors of heterogeneous agents in various scenarios is fundamental to autonomous driving simulation. This task is challenging due to the multi-modality of behavior distribution, the high-dimensionality of driving scenarios, distribution shift, and incomplete information. Our first insight is to leverage state-matching through differentiable simulation to provide meaningful learning signals and achieve efficient credit assignment for the policy. This is demonstrated by revealing the existence of gradient highways and interagent gradient pathways. However, the issues of gradient explosion and weak supervision in low-density regions are discovered. Our second insight is that these issues can be addressed by applying dual policy regularizations to narrow the function space. Further considering diversity, our third insight is that the behaviors of heterogeneous agents in the dataset can be effectively compressed as a series of prototype vectors for retrieval. These lead to our model-based reinforcement-imitation learning framework with temporally abstracted mixture-of-codebooks (MRIC). MRIC introduces the open-loop modelbased imitation learning regularization to stabilize training, and modelbased reinforcement learning (RL) regularization to inject domain knowledge. The RL regularization involves differentiable Minkowskidifference-based collision avoidance and projection-based on-road and traffic rule compliance rewards. A dynamic multiplier mechanism is further proposed to eliminate the interference from the regularizations while ensuring their effectiveness. Experimental results using the largescale Waymo open motion dataset show that MRIC outperforms state-ofthe-art baselines on diversity, behavioral realism, and distributional realism, with large margins on some key metrics (e.g., collision rate, minSADE, and time-to-collision JSD).",
+    "pdf_link": "https://arxiv.org/abs/2404.18464",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x16.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x17.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x18.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x19.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x20.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x21.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x22.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x23.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x24.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x25.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x26.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x27.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x28.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x29.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x30.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x31.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x32.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x33.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x34.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x35.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x36.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x37.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x38.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x39.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18464v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18464/x40.png"
+      }
+    ],
+    "abstract_cn": "精确地模拟各种情境下异构智能体的多样行为对于自动驾驶仿真至关重要。这一任务因行为分布的多样性、驾驶情境的高维度、分布偏移和信息缺失等因素而充满挑战。我们首先洞察到，通过可微仿真实现的状态匹配，能够提供有益的学习信号，为策略高效分配信用。这一点通过发现梯度高速公路和智能体间的梯度路径而得到证实。然而，我们也发现了梯度爆炸和低密度区域中的弱监督问题。我们的第二个洞察是，这些问题可以通过双重策略正则化来解决，以此缩小功能空间。考虑到多样性，我们的第三个洞察是，数据集中异构智能体的行为可以被有效压缩成一系列原型向量，以便于检索。这些洞察催生了我们的基于模型的强化模仿学习框架——时间抽象的混合码本（MRIC）。MRIC引入了开环模型基模仿学习正则化以稳定训练，并融入了基于模型的强化学习（RL）正则化以注入领域知识。RL正则化包括了基于可微分的Minkowski差异的避碰机制，以及基于投影的遵守道路和交通规则的奖励。此外，我们还提出了一种动态乘数机制，以消除正则化间的干扰并确保其效果。在大规模Waymo开放运动数据集上的实验结果显示，MRIC在多样性、行为真实性和分布真实性方面均超越了现有的最先进基线，尤其在关键指标（如碰撞率、最小SADE和碰撞时间JSD）上取得了显著优势。",
+    "title_cn": "MRIC：一种融合码本混合技术的模型驱动强化模仿学习方法，专为自动驾驶模拟设计。",
+    "tags": [
+      "分类：Agent",
+      "自动驾驶",
+      "仿真技术"
+    ]
+  },
+  {
     "title": "Mixture-of-Instructions: Comprehensive Alignment of a Large Language Model through the Mixture of Diverse System Prompting Instructions",
     "submit_datetime": "2024年04月28日",
     "abstract": "With the proliferation of large language models (LLMs), the comprehensive alignment of such models across multiple tasks has emerged as a critical area of research. Existing alignment methodologies primarily address single task, such as multi-turn dialogue, coding, mathematical problem-solving, and tool usage. However, AI-driven products that leverage language models usually necessitate a fusion of these abilities to function effectively in real-world scenarios. Moreover, the considerable computational resources required for proper alignment of LLMs underscore the need for a more robust, efficient, and encompassing approach to multi-task alignment, ensuring improved generative performance. In response to these challenges, we introduce a novel technique termed Mixture-of-Instructions (MoI), which employs a strategy of instruction concatenation combined with diverse system prompts to boost the alignment efficiency of language models. We have also compiled a diverse set of seven benchmark datasets to rigorously evaluate the alignment efficacy of the MoI-enhanced language model. Our methodology was applied to the open-source Qwen-7B-chat model, culminating in the development of Qwen-SFT-MoI. This enhanced model demonstrates significant advancements in generative capabilities across coding, mathematics, and tool use tasks.",
@@ -1660,6 +1989,81 @@
     ]
   },
   {
+    "title": "Using Deep Q-Learning to Dynamically Toggle between Push/Pull Actions in Computational Trust Mechanisms",
+    "submit_datetime": "2024年04月28日",
+    "abstract": "Recent work on decentralized computational trust models for open Multi Agent Systems has resulted in the development of CA, a biologically inspired model which focuses on the trustee's perspective. This new model addresses a serious unresolved problem in existing trust and reputation models, namely the inability to handle constantly changing behaviors and agents' continuous entry and exit from the system. In previous work, we compared CA to FIRE, a well-known trust and reputation model, and found that CA is superior when the trustor population changes, whereas FIRE is more resilient to the trustee population changes. Thus, in this paper, we investigate how the trustors can detect the presence of several dynamic factors in their environment and then decide which trust model to employ in order to maximize utility. We frame this problem as a machine learning problem in a partially observable environment, where the presence of several dynamic factors is not known to the trustor and we describe how an adaptable trustor can rely on a few measurable features so as to assess the current state of the environment and then use Deep Q Learning (DQN), in a single-agent Reinforcement Learning setting, to learn how to adapt to a changing environment. We ran a series of simulation experiments to compare the performance of the adaptable trustor with the performance of trustors using only one model (FIRE or CA) and we show that an adaptable agent is indeed capable of learning when to use each model and, thus, perform consistently in dynamic environments.",
+    "pdf_link": "https://arxiv.org/abs/2404.18296",
+    "graphs": [],
+    "abstract_cn": "近期研究在开放多智能体系统的去中心化计算信任模型方面取得了进展，特别是开发了一种名为 CA 的生物启发模型，该模型从受托人的角度出发。这一新模型针对现有信任和声誉模型中的一个难题——如何处理智能体行为的不断变化以及智能体进出系统的连续性——提供了解决方案。在先前的研究中，我们对比了 CA 与另一个著名的信任和声誉模型 FIRE，并发现在信任者群体变动时，CA 的性能更佳，而 FIRE 在受托者群体变动时更具韧性。本论文进一步探讨了信任者如何识别环境中的多个动态因素，并据此选择最合适的信任模型以优化效用。我们将这一问题设定为部分可观测环境中的机器学习挑战，信任者无法预知多个动态因素的存在。文章描述了信任者如何利用一些可测量的特征来评估环境现状，并采用深度 Q 学习（DQN）在单智能体强化学习框架下学习如何适应环境变化。通过一系列模拟实验，我们比较了适应性信任者与仅使用单一模型（FIRE 或 CA）的信任者的性能，结果表明适应性智能体确实能够学习何时应用每种模型，从而在动态环境中实现稳定的表现。",
+    "title_cn": "本文探讨了如何利用深度Q-学习技术，在计算信任机制中实现推/拉动作的动态切换。",
+    "tags": [
+      "Agent",
+      "多智能体系统",
+      "机器学习"
+    ]
+  },
+  {
+    "title": "ATR-Mapping: Asymmetric Topological Representation based Mapping Framework for Multi-Robot Environment Exploration",
+    "submit_datetime": "2024年04月28日",
+    "abstract": "In recent years, the widespread application of multi-robot systems in areas such as power inspection, autonomous vehicle fleets has made multi-robot technology a research hotspot in the field of robotics. This paper investigates multi-robot cooperative exploration in unknown environments, proposing a training framework and decision strategy based on multi-agent reinforcement learning. Specifically we propose a Asymmetric Topological Representation based mapping framework (ATR-Mapping), combining the advantages of methods based on raw grid maps and methods based on topology, the structural information from the raw grid maps is extracted and combined with a topological graph constructed based on geometric distance information for decision-making. Leveraging this topological graph representation, we employs a decision network based on topological graph matching to assign corresponding boundary points to each robot as long-term target points for decision-making. We conducts testing and application of the proposed algorithms in real world scenarios using the Gazebo and Gibson simulation environments. It validates that the proposed method, when compared to existing methods, achieves a certain degree of performance improvement.",
+    "pdf_link": "https://arxiv.org/abs/2404.18089",
+    "graphs": [],
+    "abstract_cn": "近期，多机器人系统在电力巡查、自动驾驶车队等众多领域的广泛应用，让其成为机器人学界的研究焦点。本研究着眼于多机器人在未知环境中的协作探索问题，提出了一种基于多智能体强化学习的训练框架与决策策略。我们创新性地设计了一种非对称拓扑表示映射框架（ATR-Mapping），它融合了原始网格图方法与拓扑方法的优势，通过从原始网格图中抽取结构信息，并结合基于几何距离构建的拓扑图，以辅助决策制定。依托这一拓扑图表示，我们构建了一个基于拓扑图匹配的决策网络，为每个机器人指定了边界点作为长期决策目标。通过在 Gazebo 和 Gibson 仿真环境中对现实世界场景的测试与应用，证实了我们的方法相较于现有技术在性能上实现了显著提升。",
+    "title_cn": "ATR-Mapping：一种创新的非对称拓扑表示映射框架，专为多机器人环境探索而设计。",
+    "tags": [
+      "Agent",
+      "机器人学",
+      "自动驾驶"
+    ]
+  },
+  {
+    "title": "ComposerX: Multi-Agent Symbolic Music Composition with LLMs",
+    "submit_datetime": "2024年04月28日",
+    "abstract": "Music composition represents the creative side of humanity, and itself is a complex task that requires abilities to understand and generate information with long dependency and harmony constraints. While demonstrating impressive capabilities in STEM subjects, current LLMs easily fail in this task, generating ill-written music even when equipped with modern techniques like In-Context-Learning and Chain-of-Thoughts. To further explore and enhance LLMs' potential in music composition by leveraging their reasoning ability and the large knowledge base in music history and theory, we propose ComposerX, an agent-based symbolic music generation framework. We find that applying a multi-agent approach significantly improves the music composition quality of GPT-4. The results demonstrate that ComposerX is capable of producing coherent polyphonic music compositions with captivating melodies, while adhering to user instructions.",
+    "pdf_link": "https://arxiv.org/abs/2404.18081",
+    "graphs": [],
+    "abstract_cn": "音乐创作展现了人类的创造天赋，它是一项需要深刻理解和创作长期依赖与和谐限制信息的复杂任务。尽管在科学、技术、工程和数学（STEM）领域取得了显著成就，但现有的大型语言模型（LLMs）在音乐创作上仍易遭遇挫折，即便借助了如上下文学习（In-Context-Learning）和思维链（Chain-of-Thoughts）等先进技术，也难以创作出流畅悦耳的音乐。为了深入挖掘并提升LLMs在音乐创作上的潜力，同时发挥其推理能力和丰富的音乐历史与理论知识，我们设计了ComposerX——一个基于代理的符号化音乐生成框架。实践证明，采用多代理策略显著提升了GPT-4的音乐创作水准。ComposerX不仅能够创作出旋律优美、和声丰富的复调音乐作品，还能准确遵循用户的创作指导。",
+    "title_cn": "ComposerX：借助大型语言模型（LLMs），实现多代理参与的符号化音乐创作。",
+    "tags": [
+      "Agent",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot",
+    "submit_datetime": "2024年04月28日",
+    "abstract": "Autonomous virtual agents are often limited by their singular mode of interaction with real-world environments, restricting their versatility. To address this, we propose the Multi-Modal Agent Collaboration framework (MMAC-Copilot), a framework utilizes the collective expertise of diverse agents to enhance interaction ability with operating systems. The framework introduces a team collaboration chain, enabling each participating agent to contribute insights based on their specific domain knowledge, effectively reducing the hallucination associated with knowledge domain gaps. To evaluate the performance of MMAC-Copilot, we conducted experiments using both the GAIA benchmark and our newly introduced Visual Interaction Benchmark (VIBench). VIBench focuses on non-API-interactable applications across various domains, including 3D gaming, recreation, and office scenarios. MMAC-Copilot achieved exceptional performance on GAIA, with an average improvement of 6.8\\% over existing leading systems. Furthermore, it demonstrated remarkable capability on VIBench, particularly in managing various methods of interaction within systems and applications. These results underscore MMAC-Copilot's potential in advancing the field of autonomous virtual agents through its innovative approach to agent collaboration.",
+    "pdf_link": "https://arxiv.org/abs/2404.18074",
+    "graphs": [],
+    "abstract_cn": "自主虚拟代理的多才多艺往往受限于它们与现实世界单一的交互模式。为突破这一局限，我们设计了多模态代理协作框架MMAC-Copilot，该框架汇聚了多样化代理的集体智慧，以提升与操作系统的交互效能。框架通过团队协作链路，让每位代理都能依据其领域专长提供洞见，有效降低了知识盲区所带来的误判。我们通过GAIA基准测试和新推出的可视化交互基准测试VIBench对MMAC-Copilot进行了性能评估。VIBench专注于非API交互式应用，覆盖3D游戏、娱乐和办公等多个领域。MMAC-Copilot在GAIA基准测试中表现卓越，相比现有顶尖系统平均提升了6.8%的效能。在VIBench测试中，它在处理系统和应用内多样化交互方式方面展现了非凡能力。这些成果凸显了MMAC-Copilot在推动自主虚拟代理领域发展上的潜力，其创新的协作机制功不可没。",
+    "title_cn": "MMAC-Copilot：协同操作系统的多模态代理合作伴侣",
+    "tags": [
+      "Agent",
+      "虚拟代理",
+      "操作系统"
+    ]
+  },
+  {
+    "title": "Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems",
+    "submit_datetime": "2024年04月28日",
+    "abstract": "The rapidly changing architecture and functionality of electrical networks and the increasing penetration of renewable and distributed energy resources have resulted in various technological and managerial challenges. These have rendered traditional centralized energy-market paradigms insufficient due to their inability to support the dynamic and evolving nature of the network. This survey explores how multi-agent reinforcement learning (MARL) can support the decentralization and decarbonization of energy networks and mitigate the associated challenges. This is achieved by specifying key computational challenges in managing energy networks, reviewing recent research progress on addressing them, and highlighting open challenges that may be addressed using MARL.",
+    "pdf_link": "https://arxiv.org/abs/2404.15583",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.15583v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15583/x1.png"
+      }
+    ],
+    "abstract_cn": "随着电气网络架构和功能的快速演变，以及可再生与分布式能源资源的日益普及，我们面临着众多技术和管理挑战。这些挑战使得传统的集中式能源市场模式不再适用，因其无法适应网络的动态性和不断演变的需求。本篇综述文章深入探讨了多智能体强化学习（MARL）如何助力能源网络实现去中心化和低碳化，同时应对这些挑战。文章通过明确管理能源网络时面临的主要计算难题，回顾了近期在解决这些问题上的研究进展，并指出了未来可能通过MARL来解决的开放性问题。",
+    "title_cn": "多智能体强化学习在能源网络领域的应用面临诸多计算挑战，尽管已有进展，但仍存在一些未解决的问题。",
+    "tags": [
+      "Agent",
+      "能源管理",
+      ""
+    ]
+  },
+  {
     "title": "Efficient LLM Inference with Kcache",
     "submit_datetime": "2024年04月27日",
     "abstract": "Large Language Models(LLMs) have had a profound impact on AI applications, particularly in the domains of long-text comprehension and generation. KV Cache technology is one of the most widely used techniques in the industry. It ensures efficient sequence generation by caching previously computed KV states. However, it also introduces significant memory overhead. We discovered that KV Cache is not necessary and proposed a novel KCache technique to alleviate the memory bottleneck issue during the LLMs inference process. KCache can be used directly for inference without any training process, Our evaluations show that KCache improves the throughput of popular LLMs by 40% with the baseline, while keeping accuracy.",
@@ -2271,6 +2675,188 @@
     ]
   },
   {
+    "title": "Swarm-based gradient descent meets simulated annealing",
+    "submit_datetime": "2024年04月27日",
+    "abstract": "We introduce a novel method for non-convex optimization which is at the interface between the swarm-based gradient-descent (SBGD) [J. Lu et. al., ArXiv:2211.17157; E.Tadmor and A. Zenginoglu, Acta Applicandae Math., 190, 2024] and Simulated Annealing (SA) [V. Cerny, J. optimization theory and appl., 45:41-51, 1985; S.Kirkpatrick et. al., Science, 220(4598):671-680, 1983; S. Geman and C.-R. Hwang, SIAM J. Control and Optimization, 24(5):1031-1043, 1986]. We follow the methodology of SBGD in which a swarm of agents, each identified with a position, ${\\mathbf x}$ and mass $m$, explores the ambient space. The agents proceed in gradient descent direction, and are subject to Brownian motion with annealing-rate dictated by a decreasing function of their mass. Thus, instead of the SA protocol for time-decreasing temperature, we let the swarm decide how to `cool down' agents, depending on their accumulated mass over time. The dynamics of masses is coupled with the dynamics of positions: agents at higher ground transfer (part of) their mass to those at lower ground. Consequently, the swarm is dynamically divided between heavier, cooler agents viewed as `leaders' and lighter, warmer agents viewed as `explorers'. Mean-field convergence analysis and benchmark optimizations demonstrate the effectiveness of the swarm-based method as a multi-dimensional global optimizer.",
+    "pdf_link": "https://arxiv.org/abs/2404.18015",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x16.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x17.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x18.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x19.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x20.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.18015v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18015/x21.png"
+      }
+    ],
+    "abstract_cn": "本文提出了一种创新的非凸优化技术，它融合了群体梯度下降（SBGD）与模拟退火（SA）的精髓。在这种方法中，一群具有特定位置和质量的代理在空间中探索，它们顺着梯度下降的方向移动，并受到与其质量相关的退火率影响的布朗运动。不同于 SA 中随时间递减的温度规则，这里我们让群体根据代理随时间累积的质量来自主决定“降温”策略。代理的质量变化与位置变化相互关联：位于能量较高位置的代理会将其部分质量转移给能量较低位置的代理。这样的机制使得群体自动分化为“领导者”和“探索者”两种角色，前者质量较大、温度较低，后者则相反。通过平均场收敛分析和一系列基准优化测试，我们证实了这种基于群体的优化方法在多维全局优化问题上的强大性能。",
+    "title_cn": "群体梯度下降与模拟退火的结合。",
+    "tags": [
+      "分类：Agent",
+      "优化算法",
+      "计算科学"
+    ]
+  },
+  {
+    "title": "VIEW: Visual Imitation Learning with Waypoints",
+    "submit_datetime": "2024年04月27日",
+    "abstract": "Robots can use Visual Imitation Learning (VIL) to learn everyday tasks from video demonstrations. However, translating visual observations into actionable robot policies is challenging due to the high-dimensional nature of video data. This challenge is further exacerbated by the morphological differences between humans and robots, especially when the video demonstrations feature humans performing tasks. To address these problems we introduce Visual Imitation lEarning with Waypoints (VIEW), an algorithm that significantly enhances the sample efficiency of human-to-robot VIL. VIEW achieves this efficiency using a multi-pronged approach: extracting a condensed prior trajectory that captures the demonstrator's intent, employing an agent-agnostic reward function for feedback on the robot's actions, and utilizing an exploration algorithm that efficiently samples around waypoints in the extracted trajectory. VIEW also segments the human trajectory into grasp and task phases to further accelerate learning efficiency. Through comprehensive simulations and real-world experiments, VIEW demonstrates improved performance compared to current state-of-the-art VIL methods. VIEW enables robots to learn a diverse range of manipulation tasks involving multiple objects from arbitrarily long video demonstrations. Additionally, it can learn standard manipulation tasks such as pushing or moving objects from a single video demonstration in under 30 minutes, with fewer than 20 real-world rollouts. Code and videos here: https://collab.me.vt.edu/view/",
+    "pdf_link": "https://arxiv.org/abs/2404.17906",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/front.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/method.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/prior.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/exploration_bb.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/exploration_sampling.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/sim_tasks.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/sim_noise.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/sim_no_squishe.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/sim_exploration.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/sim_residual.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/exp_single_object.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/exp_multi_object.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/exp_residual.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/objects.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17906v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17906/whirl_issues.png"
+      }
+    ],
+    "abstract_cn": "机器人利用视觉模仿学习（VIL）能通过视频示范掌握日常任务。但将视觉信息转化为机器人可执行策略面临挑战，尤其是当涉及人类与机器人形态差异时。为应对这些难题，我们推出了一种名为“带有关键点的视觉模仿学习（VIEW）”的算法，它显著提升了从人类到机器人的VIL样本效率。VIEW通过精炼的先验轨迹捕捉示范意图、采用通用奖励函数对机器人行为进行反馈，以及利用探索算法在轨迹关键点周围高效采样，实现了这一效率。此外，VIEW将人类示范划分为抓取和执行阶段，以加快学习进程。经过广泛的模拟和现实世界测试，VIEW在性能上超越了现有的VIL技术。它使得机器人能够从任意长度的视频示范中学习多样化的操控任务。而且，VIEW还能在30分钟内，通过不到20次实际操作，学会如推或移动物体等标准操控任务。相关代码和视频在此链接：https://collab.me.vt.edu/view/",
+    "title_cn": "VIEW：一种基于关键节点的视觉模仿学习方法",
+    "tags": [
+      "Agent",
+      "机器人技术",
+      "视觉模仿学习"
+    ]
+  },
+  {
     "title": "Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo",
     "submit_datetime": "2024年04月26日",
     "abstract": "Numerous capability and safety techniques of Large Language Models (LLMs), including RLHF, automated red-teaming, prompt engineering, and infilling, can be cast as sampling from an unnormalized target distribution defined by a given reward or potential function over the full sequence. In this work, we leverage the rich toolkit of Sequential Monte Carlo (SMC) for these probabilistic inference problems. In particular, we use learned twist functions to estimate the expected future value of the potential at each timestep, which enables us to focus inference-time computation on promising partial sequences. We propose a novel contrastive method for learning the twist functions, and establish connections with the rich literature of soft reinforcement learning. As a complementary application of our twisted SMC framework, we present methods for evaluating the accuracy of language model inference techniques using novel bidirectional SMC bounds on the log partition function. These bounds can be used to estimate the KL divergence between the inference and target distributions in both directions. We apply our inference evaluation techniques to show that twisted SMC is effective for sampling undesirable outputs from a pretrained model (a useful component of harmlessness training and automated red-teaming), generating reviews with varied sentiment, and performing infilling tasks.",
@@ -2744,6 +3330,140 @@
       "分类：LLM应用",
       "",
       "人工智能"
+    ]
+  },
+  {
+    "title": "Learning Manipulation Tasks in Dynamic and Shared 3D Spaces",
+    "submit_datetime": "2024年04月26日",
+    "abstract": "Automating the segregation process is a need for every sector experiencing a high volume of materials handling, repetitive and exhaustive operations, in addition to risky exposures. Learning automated pick-and-place operations can be efficiently done by introducing collaborative autonomous systems (e.g. manipulators) in the workplace and among human operators. In this paper, we propose a deep reinforcement learning strategy to learn the place task of multi-categorical items from a shared workspace between dual-manipulators and to multi-goal destinations, assuming the pick has been already completed. The learning strategy leverages first a stochastic actor-critic framework to train an agent's policy network, and second, a dynamic 3D Gym environment where both static and dynamic obstacles (e.g. human factors and robot mate) constitute the state space of a Markov decision process. Learning is conducted in a Gazebo simulator and experiments show an increase in cumulative reward function for the agent further away from human factors. Future investigations will be conducted to enhance the task performance for both agents simultaneously.",
+    "pdf_link": "https://arxiv.org/abs/2404.17673",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/sampled_pointcloud.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/predicted_pointcloud.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/pipeline_with_links.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/robot1_training.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17673v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17673/robot2_training.png"
+      }
+    ],
+    "abstract_cn": "对于任何面临大量物料处理、重复性操作和潜在风险的行业而言，实现分离流程的自动化是迫切需求。通过引入协作式自主系统，如机械臂，可以高效地掌握自动化的拣选与放置操作。本文提出了一种深度强化学习策略，旨在教导代理如何在双机械手共享的工作空间中识别多类物品，并将它们放置到多个预定目标地点，前提是拣选动作已经完成。该策略首先采用随机演员-评论家框架来训练代理的策略网络，然后利用一个包含静态和动态障碍物（如人为因素和机器人伙伴）的动态3D Gym环境，构建马尔可夫决策过程的状态空间。在Gazebo模拟器中进行的学习实验显示，远离人为因素的代理累积奖励函数有所提升。未来的研究将进一步探索，以同步提升两个代理的任务执行效率。",
+    "title_cn": "探索在动态且共享的三维空间里执行操控任务的学习过程。",
+    "tags": [
+      "Agent",
+      "工业自动化",
+      "机器人技术"
+    ]
+  },
+  {
+    "title": "Impact of Traffic-Following on Order of Autonomous Airspace Operations",
+    "submit_datetime": "2024年04月26日",
+    "abstract": "In this paper, we investigate the dynamic emergence of traffic order in a distributed multi-agent system, aiming to minimize inefficiencies that stem from unnecessary structural impositions. We introduce a methodology for developing a dynamically-updating traffic pattern map of the airspace by leveraging information about the consistency and frequency of flow directions used by current as well as preceding traffic. Informed by this map, an agent can discern the degree to which it is advantageous to follow traffic by trading off utilities such as time and order. We show that for the traffic levels studied, for low degrees of traffic-following behavior, there is minimal penalty in terms of aircraft travel times while improving the overall orderliness of the airspace. On the other hand, heightened traffic-following behavior may result in increased aircraft travel times, while marginally reducing the overall entropy of the airspace. Ultimately, the methods and metrics presented in this paper can be used to optimally and dynamically adjust an agent's traffic-following behavior based on these trade-offs.",
+    "pdf_link": "https://arxiv.org/abs/2404.17627",
+    "graphs": [],
+    "abstract_cn": "本文深入探讨了在分布式多智能体系统中，如何通过最小化不必要的结构性限制来动态形成交通秩序。我们提出了一种创新的方法，通过分析当前和历史交通流向的一致性与频率，构建并实时更新空域的交通模式图。借助这一地图，智能体能够评估遵循交通流的效益，从而在时间和秩序之间做出权衡。研究表明，在低度遵循交通行为的情况下，飞机的旅行时间几乎不受影响，却能显著提升空域的有序性。然而，过度的交通跟随可能会增加飞行时间，尽管如此，它也能在一定程度上降低空域的总体混乱度。本研究提出的方法和评价指标，将有助于智能体基于这些权衡，进行最优和动态的交通行为调整。",
+    "title_cn": "交通跟随行为对自动空中管制序列的影响",
+    "tags": [
+      "Agent",
+      "交通管理",
+      "智能体系统"
+    ]
+  },
+  {
+    "title": "Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks",
+    "submit_datetime": "2024年04月26日",
+    "abstract": "Quantum machine learning (QML) as combination of quantum computing with machine learning (ML) is a promising direction to explore, in particular due to the advances in realizing quantum computers and the hoped-for quantum advantage. A field within QML that is only little approached is quantum multi-agent reinforcement learning (QMARL), despite having shown to be potentially attractive for addressing industrial applications such as factory management, cellular access and mobility cooperation. This paper presents an aerial communication use case and introduces a hybrid quantum-classical (HQC) ML algorithm to solve it. This use case intends to increase the connectivity of flying ad-hoc networks and is solved by an HQC multi-agent proximal policy optimization algorithm in which the core of the centralized critic is replaced with a data reuploading variational quantum circuit. Results show a slight increase in performance for the quantum-enhanced solution with respect to a comparable classical algorithm, earlier reaching convergence, as well as the scalability of such a solution: an increase in the size of the ansatz, and thus also in the number of trainable parameters, leading to better outcomes. These promising results show the potential of QMARL to industrially-relevant complex use cases.",
+    "pdf_link": "https://arxiv.org/abs/2404.17499",
+    "graphs": [],
+    "abstract_cn": "量子机器学习（QML），作为量子计算与机器学习（ML）结合的前沿领域，因其在量子计算机实现和量子优势预期方面的进展而备受瞩目。然而，QML中的一个较少被触及的子领域——量子多智能体强化学习（QMARL），尽管其在处理如工厂管理、蜂窝接入和移动性合作等工业应用方面显示出巨大潜力。本文通过一个空中通信的实例，引入了一种混合量子-经典（HQC）机器学习算法来应对挑战。该实例的目标是提升飞行自组织网络的连接性，通过HQC多智能体近端策略优化算法实现，该算法将集中式批评器核心替换为数据重新上传的变分量子电路。研究结果显示，量子增强解决方案在性能上略有提升，更快达到收敛，并且展现出良好的可扩展性：随着ansatz大小的增加，即训练参数数量的增加，可以获得更优的结果。这些充满希望的成果揭示了QMARL在解决工业界复杂应用场景中的潜力。",
+    "title_cn": "本文探讨了量子多智能体强化学习在构建空中临时网络中的应用。",
+    "tags": [
+      "Agent",
+      "量子计算",
+      "工业自动化"
+    ]
+  },
+  {
+    "title": "A multi-agent model of hierarchical decision dynamics",
+    "submit_datetime": "2024年04月26日",
+    "abstract": "Decision making can be difficult when there are many actors (or agents) who may be coordinating or competing to achieve their various ideas of the optimum outcome. Here I present a simple decision making model with an explicitly hierarchical binary-tree structure, and evaluate how this might cooperate to take actions that match its various evaluations of the uncertain state of the world. Key features of agent behaviour are (a) the separation of its decision making process into three distinct steps: observation, judgement, and action; and (b) the evolution of coordination by the sharing of judgements.",
+    "pdf_link": "https://arxiv.org/abs/2404.17477",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17477v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17477/x10.png"
+      }
+    ],
+    "abstract_cn": "在众多参与者可能追求各自最优结果而需协调或竞争的情境下，做出决策可能颇具挑战。本文介绍了一种结构清晰的分层二叉树决策模型，并探讨了该模型如何通过合作来采取与其对世界不确定性状态的不同评估相匹配的行动。该代理行为的显著特点包括：（a）决策过程被划分为观察、判断和行动三个独立阶段；（b）通过共享判断来促进协调机制的发展。",
+    "title_cn": "一个分层决策过程的多智能体模型",
+    "tags": [
+      "Agent",
+      "决策模型",
+      "协调机制"
     ]
   },
   {
@@ -4728,6 +5448,151 @@
     ]
   },
   {
+    "title": "Evaluating Collaborative Autonomy in Opposed Environments using Maritime Capture-the-Flag Competitions",
+    "submit_datetime": "2024年04月25日",
+    "abstract": "The objective of this work is to evaluate multi-agent artificial intelligence methods when deployed on teams of unmanned surface vehicles (USV) in an adversarial environment. Autonomous agents were evaluated in real-world scenarios using the Aquaticus test-bed, which is a Capture-the-Flag (CTF) style competition involving teams of USV systems. Cooperative teaming algorithms of various foundations in behavior-based optimization and deep reinforcement learning (RL) were deployed on these USV systems in two versus two teams and tested against each other during a competition period in the fall of 2023. Deep reinforcement learning applied to USV agents was achieved via the Pyquaticus test bed, a lightweight gymnasium environment that allows simulated CTF training in a low-level environment. The results of the experiment demonstrate that rule-based cooperation for behavior-based agents outperformed those trained in Deep-reinforcement learning paradigms as implemented in these competitions. Further integration of the Pyquaticus gymnasium environment for RL with MOOS-IvP in terms of configuration and control schema will allow for more competitive CTF games in future studies. As the development of experimental deep RL methods continues, the authors expect that the competitive gap between behavior-based autonomy and deep RL will be reduced. As such, this report outlines the overall competition, methods, and results with an emphasis on future works such as reward shaping and sim-to-real methodologies and extending rule-based cooperation among agents to react to safety and security events in accordance with human experts intent/rules for executing safety and security processes.",
+    "pdf_link": "https://arxiv.org/abs/2404.17038",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/Boats.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/NEARLINEZOOM.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/AUS_Game_Picture.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/MOOSIVP.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/PAV01.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/bhv_strategies_modetree.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/pyquaticus_image_mod.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.17038v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.17038/KEVIN04.png"
+      }
+    ],
+    "abstract_cn": "本研究旨在探讨在对抗性环境中，多智能体人工智能方法在无人水面船只（USV）团队中的应用效果。通过Aquaticus测试平台，我们在现实场景中对自主智能体进行了评估，该平台采用Capture-the-Flag（CTF）风格的竞赛形式，涉及USV系统的团队对抗。我们部署了基于行为优化和深度强化学习（RL）的多种合作算法于USV系统，并在2023年秋季的比赛中进行了两两对抗的测试。利用Pyquaticus测试平台，我们实现了USV智能体的深度强化学习，该平台是一个轻量级的仿真环境，支持在低层次环境中进行CTF训练。实验结果显示，基于规则的合作策略在行为基础智能体中表现更佳，超越了深度强化学习训练的智能体。未来，我们计划将Pyquaticus环境与MOOS-IvP在配置和控制架构上进一步整合，以提升CTF游戏的竞争力。随着深度RL方法的不断进步，我们预计行为基础自主性与深度RL之间的性能差距将逐步缩小。本报告总结了比赛的整体情况、所采用的方法以及实验结果，并对未来的工作重点，如奖励机制设计、仿真到现实技术，以及如何扩展基于规则的智能体合作以响应安全和安全事件，根据人类专家的意图和规则执行安全和防护流程进行了展望。",
+    "title_cn": "通过海上“夺旗”竞赛，评估在对抗环境中的协同自主性",
+    "tags": [
+      "Agent",
+      "无人船只",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Samsung Research China-Beijing at SemEval-2024 Task 3: A multi-stage framework for Emotion-Cause Pair Extraction in Conversations",
+    "submit_datetime": "2024年04月25日",
+    "abstract": "In human-computer interaction, it is crucial for agents to respond to human by understanding their emotions. Unraveling the causes of emotions is more challenging. A new task named Multimodal Emotion-Cause Pair Extraction in Conversations is responsible for recognizing emotion and identifying causal expressions. In this study, we propose a multi-stage framework to generate emotion and extract the emotion causal pairs given the target emotion. In the first stage, Llama-2-based InstructERC is utilized to extract the emotion category of each utterance in a conversation. After emotion recognition, a two-stream attention model is employed to extract the emotion causal pairs given the target emotion for subtask 2 while MuTEC is employed to extract causal span for subtask 1. Our approach achieved first place for both of the two subtasks in the competition.",
+    "pdf_link": "https://arxiv.org/abs/2404.16905",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.16905v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16905/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16905v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16905/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16905v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16905/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16905v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16905/face_framework.png"
+      }
+    ],
+    "abstract_cn": "在人机互动领域，理解并回应人类情感对于智能代理来说极为关键，而探究情感背后的成因则更为复杂。本研究提出了一项名为“对话中多模态情感-原因对抽取”的新任务，旨在识别情感并找出其成因。我们设计了一个分阶段的框架，旨在生成情感并针对特定目标情感抽取情感因果对。首先，利用基于 Llama-2 的 InstructERC 来识别对话中每句话的情感类型。情感识别完成后，我们采用双流注意力模型来抽取针对目标情感的情感因果对，以完成子任务 2；同时，使用 MuTEC 来抽取子任务 1 的因果跨度。在竞赛中，我们的方案在两个子任务上均荣获第一名。",
+    "title_cn": "三星中国研究院北京分部在 SemEval-2024 竞赛的第三项任务中提出了一种多阶段框架，专门用于在对话中提取情感及其成因的配对。",
+    "tags": [
+      "Agent",
+      "人机交互",
+      "情感分析"
+    ]
+  },
+  {
+    "title": "Neural Interaction Energy for Multi-Agent Trajectory Prediction",
+    "submit_datetime": "2024年04月25日",
+    "abstract": "Maintaining temporal stability is crucial in multi-agent trajectory prediction. Insufficient regularization to uphold this stability often results in fluctuations in kinematic states, leading to inconsistent predictions and the amplification of errors. In this study, we introduce a framework called Multi-Agent Trajectory prediction via neural interaction Energy (MATE). This framework assesses the interactive motion of agents by employing neural interaction energy, which captures the dynamics of interactions and illustrates their influence on the future trajectories of agents. To bolster temporal stability, we introduce two constraints: inter-agent interaction constraint and intra-agent motion constraint. These constraints work together to ensure temporal stability at both the system and agent levels, effectively mitigating prediction fluctuations inherent in multi-agent systems. Comparative evaluations against previous methods on four diverse datasets highlight the superior prediction accuracy and generalization capabilities of our model.",
+    "pdf_link": "https://arxiv.org/abs/2404.16579",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.16579v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16579/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16579v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16579/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16579v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16579/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16579v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16579/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16579v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16579/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.16579v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.16579/x6.png"
+      }
+    ],
+    "abstract_cn": "在多智能体轨迹预测领域，确保时间稳定性是关键。缺乏足够的正则化可能导致运动状态的波动，进而引发预测不一致和误差累积。本研究提出了一个名为MATE（通过神经交互能量进行多智能体轨迹预测）的框架，它利用神经交互能量来分析智能体间的互动运动，从而揭示这些互动对未来轨迹的影响。为增强时间稳定性，我们引入了两项约束：一是智能体间的交互约束，二是智能体内部的运动约束。这两项约束协同作用，确保了系统和个体层面的时间稳定性，有效减少了多智能体系统中的预测波动。在四个多样化数据集上的比较评估显示，我们的模型在预测准确性和泛化能力方面均优于现有方法。",
+    "title_cn": "本文介绍了一种新颖的方法——神经交互能量，用于预测多智能体的行动轨迹。",
+    "tags": [
+      "Agent",
+      "智能体轨迹预测",
+      "多智能体系统"
+    ]
+  },
+  {
+    "title": "Distributed Matrix Pencil Formulations for Prescribed-Time Leader-Following Consensus of MASs with Unknown Sensor Sensitivity",
+    "submit_datetime": "2024年04月25日",
+    "abstract": "In this paper, we address the problem of prescribed-time leader-following consensus of heterogeneous multi-agent systems (MASs) in the presence of unknown sensor sensitivity. Under a connected undirected topology, we propose a time-varying dual observer/controller design framework that makes use of regular local and inaccurate feedback to achieve consensus tracking within a prescribed time. In particular, the developed analysis framework is applicable to MASs equipped with sensors of different sensitivities. One of the design innovations involves constructing a distributed matrix pencil formulation based on worst-case sensors, yielding control parameters with sufficient robustness yet relatively low conservatism. Another novelty is the construction of the control gains, which consists of the product of a proportional coefficient obtained from the matrix pencil formulation and a classic time-varying function that grows to infinity or a novel bounded time-varying function. Furthermore, it is possible to extend the prescribed-time distributed protocol to infinite time domain by introducing the bounded time-varying gain technique without sacrificing the ultimate control accuracy, and the corresponding technical proof is comprehensive. The effectiveness of the method is demonstrated through a group of 5 single-link robot manipulators.",
+    "pdf_link": "https://arxiv.org/abs/2404.16412",
+    "graphs": [],
+    "abstract_cn": "本文探讨了在未知传感器灵敏度条件下，异构多智能体系统（MASs）实现预定时间领导者-跟随者共识的问题。我们提出了一个时变双观测器/控制器设计框架，该框架在无向连接拓扑下，通过常规局部和不完全反馈实现预定时间内的共识追踪。这一框架特别适用于装备了不同灵敏度传感器的MASs。设计上的创新包括基于最坏情况传感器构建分布式矩阵铅笔公式，以获得既足够鲁棒又不太保守的控制参数。控制增益的构建也是一个亮点，它由矩阵铅笔公式得到的比例系数与一个趋向无穷大的经典时变函数或一个新颖的有界时变函数相乘而成。此外，通过引入有界时变增益技术，我们可以在不损失最终控制精度的前提下，将预定时间分布式协议扩展到无限时间域，技术证明也十分全面。通过5个单连杆机器人操纵器的实验，验证了该方法的有效性。",
+    "title_cn": "本文提出了一种分布式矩阵铅笔公式，用于解决多智能体系统（MASs）在未知传感器灵敏度条件下，实现预定时间领导者-跟随者共识的问题。",
+    "tags": [
+      "分类：Agent",
+      "机器人技术",
+      "控制系统"
+    ]
+  },
+  {
+    "title": "Optimal and Bounded Suboptimal Any-Angle Multi-agent Pathfinding",
+    "submit_datetime": "2024年04月25日",
+    "abstract": "Multi-agent pathfinding (MAPF) is the problem of finding a set of conflict-free paths for a set of agents. Typically, the agents' moves are limited to a pre-defined graph of possible locations and allowed transitions between them, e.g. a 4-neighborhood grid. We explore how to solve MAPF problems when each agent can move between any pair of possible locations as long as traversing the line segment connecting them does not lead to the collision with the obstacles. This is known as any-angle pathfinding. We present the first optimal any-angle multi-agent pathfinding algorithm. Our planner is based on the Continuous Conflict-based Search (CCBS) algorithm and an optimal any-angle variant of the Safe Interval Path Planning (TO-AA-SIPP). The straightforward combination of those, however, scales poorly since any-angle path finding induces search trees with a very large branching factor. To mitigate this, we adapt two techniques from classical MAPF to the any-angle setting, namely Disjoint Splitting and Multi-Constraints. Experimental results on different combinations of these techniques show they enable solving over 30% more problems than the vanilla combination of CCBS and TO-AA-SIPP. In addition, we present a bounded-suboptimal variant of our algorithm, that enables trading runtime for solution cost in a controlled manner.",
+    "pdf_link": "https://arxiv.org/abs/2404.16379",
+    "graphs": [],
+    "abstract_cn": "多智能体路径规划（MAPF）旨在为一群智能体规划出互不冲突的路径集合。在这一问题中，智能体的行动通常限制在预设的、包含可能位置和它们之间允许转换的图上，例如4邻接网格。本研究探讨了在智能体能够在任意两个可能位置间移动而不与障碍物发生碰撞的情况下，如何进行MAPF问题的求解，这被称作任意角度路径规划。我们首次提出了一个最优的任意角度多智能体路径规划算法，该算法基于连续冲突搜索（CCBS）算法和安全间隔路径规划（TO-AA-SIPP）的最优任意角度变种。然而，这两种算法的直接结合在扩展性上表现不佳，因为任意角度路径规划会导致搜索树的分支因子极大。为了解决这个问题，我们从传统MAPF中借鉴了两种技术，并将其适配到任意角度路径规划中，分别是不相交分割和多约束技术。实验结果显示，这些技术的结合使用能够比CCBS和TO-AA-SIPP的标准组合多解决超过30%的问题。此外，我们还提出了算法的一个有界次优变体，它允许在运行时间和解决方案成本之间进行可控的权衡。",
+    "title_cn": "探索最优与有界次优的多智能体任意角度路径规划",
+    "tags": [
+      "Agent",
+      "机器人技术",
+      "路径规划"
+    ]
+  },
+  {
     "title": "WorldValuesBench: A Large-Scale Benchmark Dataset for Multi-Cultural Value Awareness of Language Models",
     "submit_datetime": "2024年04月24日",
     "abstract": "The awareness of multi-cultural human values is critical to the ability of language models (LMs) to generate safe and personalized responses. However, this awareness of LMs has been insufficiently studied, since the computer science community lacks access to the large-scale real-world data about multi-cultural values. In this paper, we present WorldValuesBench, a globally diverse, large-scale benchmark dataset for the multi-cultural value prediction task, which requires a model to generate a rating response to a value question based on demographic contexts. Our dataset is derived from an influential social science project, World Values Survey (WVS), that has collected answers to hundreds of value questions (e.g., social, economic, ethical) from 94,728 participants worldwide. We have constructed more than 20 million examples of the type \"(demographic attributes, value question) $\\rightarrow$ answer\" from the WVS responses. We perform a case study using our dataset and show that the task is challenging for strong open and closed-source models. On merely $11.1\\%$, $25.0\\%$, $72.2\\%$, and $75.0\\%$ of the questions, Alpaca-7B, Vicuna-7B-v1.5, Mixtral-8x7B-Instruct-v0.1, and GPT-3.5 Turbo can respectively achieve $<0.2$ Wasserstein 1-distance from the human normalized answer distributions. WorldValuesBench opens up new research avenues in studying limitations and opportunities in multi-cultural value awareness of LMs.",
@@ -5704,6 +6569,59 @@
     ]
   },
   {
+    "title": "Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities",
+    "submit_datetime": "2024年04月24日",
+    "abstract": "Multi-Agent Path Finding (MAPF) is the problem of moving multiple agents from starts to goals without collisions. Lifelong MAPF (LMAPF) extends MAPF by continuously assigning new goals to agents. We present our winning approach to the 2023 League of Robot Runners LMAPF competition, which leads us to several interesting research challenges and future directions. In this paper, we outline three main research challenges. The first challenge is to search for high-quality LMAPF solutions within a limited planning time (e.g., 1s per step) for a large number of agents (e.g., 10,000) or extremely high agent density (e.g., 97.7%). We present future directions such as developing more competitive rule-based and anytime MAPF algorithms and parallelizing state-of-the-art MAPF algorithms. The second challenge is to alleviate congestion and the effect of myopic behaviors in LMAPF algorithms. We present future directions, such as developing moving guidance and traffic rules to reduce congestion, incorporating future prediction and real-time search, and determining the optimal agent number. The third challenge is to bridge the gaps between the LMAPF models used in the literature and real-world applications. We present future directions, such as dealing with more realistic kinodynamic models, execution uncertainty, and evolving systems.",
+    "pdf_link": "https://arxiv.org/abs/2404.16162",
+    "graphs": [],
+    "abstract_cn": "多智能体路径规划（MAPF）旨在解决多个智能体从起点到终点的无碰撞移动问题。终身MAPF（LMAPF）进一步发展，通过不断为智能体设定新目标。本文介绍了我们在2023年机器人跑者联盟LMAPF竞赛中的获胜策略，该策略引发了若干研究挑战和未来研究的新方向。我们首先指出了三大研究难题：第一，如何在有限的规划时间内（如每秒一步）为成千上万的智能体或极高密度的智能体群体（如密度达97.7%）寻找优质的LMAPF解决方案；第二，如何缓解LMAPF算法中的拥堵问题及短视行为的影响；第三，如何缩小文献中的LMAPF模型与现实世界应用之间的差异。针对这些挑战，我们提出了未来研究的方向，包括开发更具竞争力的基于规则和即时MAPF算法，实现现有MAPF算法的并行化，制定动态引导和交通规则以减少拥堵，整合预测未来和实时搜索的技术，以及确定最优智能体数量。同时，我们还考虑了如何处理更真实的运动学模型、执行不确定性和动态系统等问题。",
+    "title_cn": "探索将终身多智能体路径规划技术应用于更贴近现实场景的可能性：面临的研究挑战与机遇并存。",
+    "tags": [
+      "Agent",
+      "机器人技术",
+      "智能交通系统"
+    ]
+  },
+  {
+    "title": "Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement",
+    "submit_datetime": "2024年04月24日",
+    "abstract": "Cooperative Adaptive Cruise Control (CACC) represents a quintessential control strategy for orchestrating vehicular platoon movement within Connected and Automated Vehicle (CAV) systems, significantly enhancing traffic efficiency and reducing energy consumption. In recent years, the data-driven methods, such as reinforcement learning (RL), have been employed to address this task due to their significant advantages in terms of efficiency and flexibility. However, the delay issue, which often arises in real-world CACC systems, is rarely taken into account by current RL-based approaches. To tackle this problem, we propose a Delay-Aware Multi-Agent Reinforcement Learning (DAMARL) framework aimed at achieving safe and stable control for CACC. We model the entire decision-making process using a Multi-Agent Delay-Aware Markov Decision Process (MADA-MDP) and develop a centralized training with decentralized execution (CTDE) MARL framework for distributed control of CACC platoons. An attention mechanism-integrated policy network is introduced to enhance the performance of CAV communication and decision-making. Additionally, a velocity optimization model-based action filter is incorporated to further ensure the stability of the platoon. Experimental results across various delay conditions and platoon sizes demonstrate that our approach consistently outperforms baseline methods in terms of platoon safety, stability and overall performance.",
+    "pdf_link": "https://arxiv.org/abs/2404.15696",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.15696v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15696/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15696v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15696/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15696v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15696/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15696v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15696/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15696v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15696/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15696v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15696/x6.png"
+      }
+    ],
+    "abstract_cn": "协同自适应巡航控制（CACC）作为智能网联和自动驾驶车辆（CAV）系统中车队协同运动的关键控制策略，有效提升了交通流畅度并降低了能耗。近年来，数据驱动技术，尤其是强化学习（RL），因其高效和灵活的特点，被广泛应用于此类任务。然而，现有RL方法往往忽略了现实CACC系统中常见的通信延迟问题。为应对这一挑战，我们设计了一种延迟感知的多智能体强化学习（DAMARL）框架，以实现CACC的安全性与稳定性控制。该框架采用多智能体延迟感知马尔可夫决策过程（MADA-MDP）对决策过程进行全面建模，并构建了集中式训练与分布式执行（CTDE）的多智能体强化学习（MARL）体系，以优化CACC车队的控制。此外，引入了融合注意力机制的策略网络，以提升CAV间的通信和决策效率。同时，通过整合基于速度优化模型的动作过滤器，进一步确保了车队的行驶稳定性。在不同延迟情境和车队规模下的实验结果显示，我们的方案在提升车队的安全性、稳定性以及整体表现方面，均显著优于传统基线方法。",
+    "title_cn": "本文介绍了一种新颖的多智能体强化学习方法，旨在实现具有模型基础稳定性增强功能的合作自适应巡航控制（CACC）。该方法特别关注了通信延迟对系统性能的影响，通过智能体之间的协同学习，优化了在存在延迟情况下的控制策略，从而提高了整体系统的稳定性和响应速度。",
+    "tags": [
+      "Agent",
+      "自动驾驶",
+      "交通控制"
+    ]
+  },
+  {
     "title": "Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs",
     "submit_datetime": "2024年04月23日",
     "abstract": "Multimodal LLMs are the natural evolution of LLMs, and enlarge their capabilities so as to work beyond the pure textual modality. As research is being carried out to design novel architectures and vision-and-language adapters, in this paper we concentrate on endowing such models with the capability of answering questions that require external knowledge. Our approach, termed Wiki-LLaVA, aims at integrating an external knowledge source of multimodal documents, which is accessed through a hierarchical retrieval pipeline. Relevant passages, using this approach, are retrieved from the external knowledge source and employed as additional context for the LLM, augmenting the effectiveness and precision of generated dialogues. We conduct extensive experiments on datasets tailored for visual question answering with external data and demonstrate the appropriateness of our approach.",
@@ -6178,6 +7096,198 @@
     ]
   },
   {
+    "title": "Decentralized Multi-Agent Trajectory Planning in Dynamic Environments with Spatiotemporal Occupancy Grid Maps",
+    "submit_datetime": "2024年04月23日",
+    "abstract": "This paper proposes a decentralized trajectory planning framework for the collision avoidance problem of multiple micro aerial vehicles (MAVs) in environments with static and dynamic obstacles. The framework utilizes spatiotemporal occupancy grid maps (SOGM), which forecast the occupancy status of neighboring space in the near future, as the environment representation. Based on this representation, we extend the kinodynamic A* and the corridor-constrained trajectory optimization algorithms to efficiently tackle static and dynamic obstacles with arbitrary shapes. Collision avoidance between communicating robots is integrated by sharing planned trajectories and projecting them onto the SOGM. The simulation results show that our method achieves competitive performance against state-of-the-art methods in dynamic environments with different numbers and shapes of obstacles. Finally, the proposed method is validated in real experiments.",
+    "pdf_link": "https://arxiv.org/abs/2404.15602",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/case0_arrow.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/case3_arrow.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/case4_arrow.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/header_figure.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15602v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15602/real_drone_exp_2100.png"
+      }
+    ],
+    "abstract_cn": "本研究提出了一种分散式轨迹规划架构，专为多台微型空中机器人（MAVs）在充满静态及动态障碍物的环境中实现避碰设计。该架构采用预测性时空占用网格图（SOGM），以预测未来邻近区域的空间占用情况，作为环境的映射方式。在此基础上，我们对运动动力学A*搜索算法和走廊约束轨迹优化算法进行了扩展，有效应对了各种形状的静态和动态障碍物。通过机器人间共享规划轨迹并将其映射至SOGM，实现了通信机器人的避碰整合。仿真结果显示，该方法在包含不同数量和形状障碍物的动态环境中，性能与当前最先进技术相当。最终，该方法在实际实验中得到了成功验证。",
+    "title_cn": "本文探讨了在动态环境中，利用时空占用网格图进行分散式多智能体的轨迹规划问题。",
+    "tags": [
+      "Agent",
+      "机器人技术",
+      ""
+    ]
+  },
+  {
+    "title": "GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL",
+    "submit_datetime": "2024年04月23日",
+    "abstract": "Spiking neural networks (SNNs) are widely applied in various fields due to their energy-efficient and fast-inference capabilities. Applying SNNs to reinforcement learning (RL) can significantly reduce the computational resource requirements for agents and improve the algorithm's performance under resource-constrained conditions. However, in current spiking reinforcement learning (SRL) algorithms, the simulation results of multiple time steps can only correspond to a single-step decision in RL. This is quite different from the real temporal dynamics in the brain and also fails to fully exploit the capacity of SNNs to process temporal data. In order to address this temporal mismatch issue and further take advantage of the inherent temporal dynamics of spiking neurons, we propose a novel temporal alignment paradigm (TAP) that leverages the single-step update of spiking neurons to accumulate historical state information in RL and introduces gated units to enhance the memory capacity of spiking neurons. Experimental results show that our method can solve partially observable Markov decision processes (POMDPs) and multi-agent cooperation problems with similar performance as recurrent neural networks (RNNs) but with about 50% power consumption.",
+    "pdf_link": "https://arxiv.org/abs/2404.15597",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.15597v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15597/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15597v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15597/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15597v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15597/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15597v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15597/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15597v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15597/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15597v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15597/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15597v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15597/x7.png"
+      }
+    ],
+    "abstract_cn": "尖峰神经网络（SNNs）以其高效节能和迅速推理的特性，在众多领域得到广泛应用。应用于强化学习（RL）的 SNNs 能够显著降低智能体的计算资源需求，并在资源受限的环境下优化算法表现。不过，现有尖峰强化学习（SRL）算法中存在一个问题：多时间步的模拟结果仅能对应于 RL 中的一个决策步骤，这与大脑的真实时间动态差异显著，也未能充分发挥 SNNs 在处理时间序列数据方面的潜力。为解决这一时序不匹配问题，并进一步挖掘尖峰神经元的时间动态特性，我们提出了一种创新的时序对齐范式（TAP），该范式通过尖峰神经元的单步更新机制来积累 RL 中的历史状态信息，并通过引入门控单元来提升尖峰神经元的记忆容量。实验结果显示，该方法在解决部分可观测马尔可夫决策过程（POMDPs）和多智能体协作问题上，能够达到与循环神经网络（RNNs）相当的性能，同时功耗降低了大约 50%。",
+    "title_cn": "GRSN：为 POMDP 和 MARL 打造的门控循环脉冲神经网络",
+    "tags": [
+      "Agent",
+      "",
+      "神经网络"
+    ]
+  },
+  {
+    "title": "GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots",
+    "submit_datetime": "2024年04月23日",
+    "abstract": "Geospatial Copilots unlock unprecedented potential for performing Earth Observation (EO) applications through natural language instructions. However, existing agents rely on overly simplified single tasks and template-based prompts, creating a disconnect with real-world scenarios. In this work, we present GeoLLM-Engine, an environment for tool-augmented agents with intricate tasks routinely executed by analysts on remote sensing platforms. We enrich our environment with geospatial API tools, dynamic maps/UIs, and external multimodal knowledge bases to properly gauge an agent's proficiency in interpreting realistic high-level natural language commands and its functional correctness in task completions. By alleviating overheads typically associated with human-in-the-loop benchmark curation, we harness our massively parallel engine across 100 GPT-4-Turbo nodes, scaling to over half a million diverse multi-tool tasks and across 1.1 million satellite images. By moving beyond traditional single-task image-caption paradigms, we investigate state-of-the-art agents and prompting techniques against long-horizon prompts.",
+    "pdf_link": "https://arxiv.org/abs/2404.15500",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.15500v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15500/geo_engine.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15500v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15500/rs_datasets.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15500v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15500/combined_plots.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.15500v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15500/combined_pies.png"
+      }
+    ],
+    "abstract_cn": "地理空间副驾驶利用自然语言指令，为地球观测应用开辟了巨大潜力。但目前的技术依赖于简化的单一任务和模板化指令，与现实应用场景存在差异。本研究介绍了GeoLLM-Engine，这是一个为复杂任务设计的工具辅助代理环境，这些任务通常由分析师在遥感平台上执行。我们通过集成地理空间API、动态地图界面和多模态知识库，增强了环境的功能性，以准确评估代理对高级自然语言指令的理解和任务执行的准确性。我们的大规模并行引擎在100个GPT-4-Turbo节点上运行，处理了超过五十万个多工具任务和110万张卫星图像，减少了人工参与的基准测试策划的负担。我们超越了传统的单任务图像描述模式，探索了最先进的代理和提示技术在长期提示下的表现。",
+    "title_cn": "GeoLLM-Engine：打造地理空间领域智能副驾驶的现实平台",
+    "tags": [
+      "Agent",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Adaptive Mechanism Design using Multi-Agent Revealed Preferences",
+    "submit_datetime": "2024年04月23日",
+    "abstract": "This paper constructs an algorithmic framework for adaptively achieving the mechanism design objective, finding a mechanism inducing socially optimal Nash equilibria, without knowledge of the utility functions of the agents. We consider a probing scheme where the designer can iteratively enact mechanisms and observe Nash equilibria responses. We first derive necessary and sufficient conditions, taking the form of linear program feasibility, for the existence of utility functions under which the empirical Nash equilibria responses are socially optimal. Then, we utilize this to construct a loss function with respect to the mechanism, and show that its global minimization occurs at mechanisms under which Nash equilibria system responses are also socially optimal. We develop a simulated annealing-based gradient algorithm, and prove that it converges in probability to this set of global minima, thus achieving adaptive mechanism design.",
+    "pdf_link": "https://arxiv.org/abs/2404.15391",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.15391v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.15391/x1.png"
+      }
+    ],
+    "abstract_cn": "本研究提出了一种算法架构，旨在灵活实现机制设计目标，即寻找能够激发社会最优纳什均衡的机制，而无需事先知晓参与者的效用函数。通过一种探测方案，设计者可以逐步实施机制并观察所引发的纳什均衡反应。我们首先确定了一组必要且充分的条件，这些条件以线性规划的可行性形式呈现，确保在这些条件下，实证纳什均衡反应能够达到社会最优。接着，我们基于这些条件构建了一个损失函数，并证明了当机制使得纳什均衡系统反应达到社会最优时，该损失函数能够实现全局最小化。我们进一步开发了一种基于模拟退火的梯度算法，并通过证明其以概率收敛到全局最小值集，从而完成了自适应机制设计的构想。",
+    "title_cn": "本文探讨了一种基于多智能体揭示偏好的自适应机制设计方法，旨在优化智能体间的交互和决策过程。",
+    "tags": [
+      "分类：Agent",
+      "经济学",
+      "算法设计"
+    ]
+  },
+  {
+    "title": "From Space-Time to Space-Order: Directly Planning a Temporal Planning Graph by Redefining CBS",
+    "submit_datetime": "2024年04月23日",
+    "abstract": "The majority of multi-agent path finding (MAPF) methods compute collision-free space-time paths which require agents to be at a specific location at a specific discretized timestep. However, executing these space-time paths directly on robotic systems is infeasible due to real-time execution differences (e.g. delays) which can lead to collisions. To combat this, current methods translate the space-time paths into a temporal plan graph (TPG) that only requires that agents observe the order in which they navigate through locations where their paths cross. However, planning space-time paths and then post-processing them into a TPG does not reduce the required agent-to-agent coordination, which is fixed once the space-time paths are computed. To that end, we propose a novel algorithm Space-Order CBS that can directly plan a TPG and explicitly minimize coordination. Our main theoretical insight is our novel perspective on viewing a TPG as a set of space-visitation order paths where agents visit locations in relative orders (e.g. 1st vs 2nd) as opposed to specific timesteps. We redefine unique conflicts and constraints for adapting CBS for space-order planning. We experimentally validate how Space-Order CBS can return TPGs which significantly reduce coordination, thus subsequently reducing the amount of agent-agent communication and leading to more robustness to delays during execution.",
+    "pdf_link": "https://arxiv.org/abs/2404.15137",
+    "graphs": [],
+    "abstract_cn": "多智能体路径规划（MAPF）的主流方法旨在计算出避免碰撞的空间-时间路径，规定智能体需在特定时间点位于特定位置。但这些路径直接应用于机器人系统并不现实，因为实时执行中的各种差异（如延迟）可能引发碰撞。为解决这一问题，现有技术将这些路径转化为时间规划图（TPG），智能体只需遵循它们通过交叉点的顺序。不过，这种先将路径规划出来再转换成TPG的做法，并未能简化智能体间的协调需求。针对这一点，我们提出了一种创新算法——Space-Order CBS，它能够直接规划出TPG，并且有效减少所需的协调。我们的创新之处在于重新定义了TPG，将其视为一系列空间访问顺序路径，智能体根据相对顺序而非固定时间点来访问位置。我们为适应空间顺序规划重新定义了冲突和约束。实验结果表明，Space-Order CBS能够生成TPG，显著降低智能体间的协调需求，减少通信量，并提高对执行过程中延迟的适应性。",
+    "title_cn": "由时空转至时序：重新定义 CBS 以直接构建时间规划图。",
+    "tags": [
+      "Agent",
+      "机器人技术",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Multi-Objective Deep Reinforcement Learning for 5G Base Station Placement to Support Localisation for Future Sustainable Traffic",
+    "submit_datetime": "2024年04月23日",
+    "abstract": "Millimeter-wave (mmWave) is a key enabler for next-generation transportation systems. However, in an urban city scenario, mmWave is highly susceptible to blockages and shadowing. Therefore, base station (BS) placement is a crucial task in the infrastructure design where coverage requirements need to be met while simultaneously supporting localisation. This work assumes a pre-deployed BS and another BS is required to be added to support both localisation accuracy and coverage rate in an urban city scenario. To solve this complex multi-objective optimisation problem, we utilise deep reinforcement learning (DRL). Concretely, this work proposes: 1) a three-layered grid for state representation as the input of the DRL, which enables it to adapt to the changes in the wireless environment represented by changing the position of the pre-deployed BS, and 2) the design of a suitable reward function for the DRL agent to solve the multi-objective problem. Numerical analysis shows that the proposed deep Q-network (DQN) model can learn/adapt from the complex radio environment represented by the terrain map and provides the same/similar solution to the exhaustive search, which is used as a benchmark. In addition, we show that an exclusive optimisation of coverage rate does not result in improved localisation accuracy, and thus there is a trade-off between the two solutions.",
+    "pdf_link": "https://arxiv.org/abs/2404.14954",
+    "graphs": [],
+    "abstract_cn": "毫米波通信技术在推动未来交通系统的发展中扮演着至关重要的角色。但在城市场景中，它极易受到遮挡和阴影效应的影响。因此，精心规划基站的布局，以满足覆盖需求并辅助定位功能，成为了基础设施设计中的一个关键环节。本研究在已有基站的基础上，探讨了如何利用深度强化学习方法，进一步部署一个新的基站以提升城市环境中的定位精度和信号覆盖。研究提出了一种三层网格状态表示法，作为深度强化学习模型的输入，使其能够灵活应对无线环境的变化。同时，设计了一个合适的奖励函数，以解决多目标优化问题。通过数值分析，证实了所提出的深度Q网络模型能够有效适应复杂多变的无线电环境，并与穷举搜索方法相比，提供了同样高效或类似的解决方案。此外，研究还发现，单纯追求覆盖率的优化并不能提升定位精度，从而揭示了两者之间存在的权衡关系。",
+    "title_cn": "采用多目标深度强化学习方法，优化5G基站布局，以支持未来交通的可持续发展和精确定位。",
+    "tags": [
+      "Agent",
+      "交通系统",
+      "通信技术"
+    ]
+  },
+  {
     "title": "Tree of Reviews: A Tree-based Dynamic Iterative Retrieval Framework for Multi-hop Question Answering",
     "submit_datetime": "2024年04月22日",
     "abstract": "Multi-hop question answering is a knowledge-intensive complex problem. Large Language Models (LLMs) use their Chain of Thoughts (CoT) capability to reason complex problems step by step, and retrieval-augmentation can effectively alleviate factual errors caused by outdated and unknown knowledge in LLMs. Recent works have introduced retrieval-augmentation in the CoT reasoning to solve multi-hop question answering. However, these chain methods have the following problems: 1) Retrieved irrelevant paragraphs may mislead the reasoning; 2) An error in the chain structure may lead to a cascade of errors.\n  In this paper, we propose a dynamic retrieval framework called Tree of Reviews (ToR), where the root node is the question, and the other nodes are paragraphs from retrieval, extending different reasoning paths from the root node to other nodes. Our framework dynamically decides to initiate a new search, reject, or accept based on the paragraphs on the reasoning paths. Compared to related work, we introduce a tree structure to handle each retrieved paragraph separately, alleviating the misleading effect of irrelevant paragraphs on the reasoning path; the diversity of reasoning path extension reduces the impact of a single reasoning error on the whole. We conducted experiments on three different multi-hop question answering datasets. The results show that compared to the baseline methods, ToR achieves state-of-the-art performance in both retrieval and response generation. In addition, we propose two tree-based search optimization strategies, pruning and effective expansion, to reduce time overhead and increase the diversity of path extension. We will release our code.",
@@ -6468,6 +7578,382 @@
       "Agent",
       "智能交通",
       "事故检测"
+    ]
+  },
+  {
+    "title": "Adaptive Collaboration Strategy for LLMs in Medical Decision Making",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "Foundation models have become invaluable in advancing the medical field. Despite their promise, the strategic deployment of LLMs for effective utility in complex medical tasks remains an open question. Our novel framework, Medical Decision-making Agents (MDAgents) aims to address this gap by automatically assigning the effective collaboration structure for LLMs. Assigned solo or group collaboration structure is tailored to the complexity of the medical task at hand, emulating real-world medical decision making processes. We evaluate our framework and baseline methods with state-of-the-art LLMs across a suite of challenging medical benchmarks: MedQA, MedMCQA, PubMedQA, DDXPlus, PMC-VQA, Path-VQA, and MedVidQA, achieving the best performance in 5 out of 7 benchmarks that require an understanding of multi-modal medical reasoning. Ablation studies reveal that MDAgents excels in adapting the number of collaborating agents to optimize efficiency and accuracy, showcasing its robustness in diverse scenarios. We also explore the dynamics of group consensus, offering insights into how collaborative agents could behave in complex clinical team dynamics. Our code can be found at https://github.com/mitmedialab/MDAgents.",
+    "pdf_link": "https://arxiv.org/abs/2404.15155",
+    "graphs": [],
+    "abstract_cn": "基础模型已成为推动医学进步的宝贵工具。然而，如何高效地部署大型语言模型（LLMs）以应对复杂的医疗任务，仍是一个悬而未决的问题。我们提出的创新框架——医疗决策代理（MDAgents）——通过自动配置LLMs的有效协作结构，致力于填补这一空白。无论是单独还是团队合作，其协作模式都根据具体医疗任务的复杂度量身打造，以此模拟现实世界中的医疗决策流程。在一系列高难度的医学基准测试中，我们对MDAgents框架和基线方法进行了评估，包括MedQA、MedMCQA、PubMedQA、DDXPlus、PMC-VQA、Path-VQA和MedVidQA，其中在需要掌握多模态医学推理的七个基准测试中，MDAgents在五个测试中均取得了最佳成绩。消融研究显示，MDAgents在调整协作代理数量以提高效率和准确性方面表现出色，证明了其在多种情况下的强大适应性。我们还深入探讨了团队共识的形成过程，为理解复杂临床团队中协作代理的行为提供了洞见。相关代码已在 https://github.com/mitmedialab/MDAgents 上公开。",
+    "title_cn": "在医学决策领域，大型语言模型采用自适应协作策略，以提升决策效率和准确性。",
+    "tags": [
+      "Agent",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Bi-CL: A Reinforcement Learning Framework for Robots Coordination Through Bi-level Optimization",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "In multi-robot systems, achieving coordinated missions remains a significant challenge due to the coupled nature of coordination behaviors and the lack of global information for individual robots. To mitigate these challenges, this paper introduces a novel approach, Bi-level Coordination Learning (Bi-CL), that leverages a bi-level optimization structure within a centralized training and decentralized execution paradigm. Our bi-level reformulation decomposes the original problem into a reinforcement learning level with reduced action space, and an imitation learning level that gains demonstrations from a global optimizer. Both levels contribute to improved learning efficiency and scalability. We note that robots' incomplete information leads to mismatches between the two levels of learning models. To address this, Bi-CL further integrates an alignment penalty mechanism, aiming to minimize the discrepancy between the two levels without degrading their training efficiency. We introduce a running example to conceptualize the problem formulation and apply Bi-CL to two variations of this example: route-based and graph-based scenarios. Simulation results demonstrate that Bi-CL can learn more efficiently and achieve comparable performance with traditional multi-agent reinforcement learning baselines for multi-robot coordination.",
+    "pdf_link": "https://arxiv.org/abs/2404.14649",
+    "graphs": [],
+    "abstract_cn": "在多机器人系统中，协调任务的实现因行为的相互依赖和机器人缺少全局信息而面临重大挑战。为应对这些难题，本研究提出了一种创新的双层次协调学习（Bi-CL）方法，该方法采用集中式训练与分布式执行的双重优化架构。我们的双重层次重构策略将原始问题拆分为简化动作空间的强化学习层和从全局优化器获取示范的模仿学习层，两者共同提升了学习效率和系统的可扩展性。我们指出，由于机器人信息的不完整性，学习模型的两个层次之间存在差异。为此，Bi-CL引入了对齐惩罚机制，以减少层次间差异，同时保持训练效率。我们通过一个运行实例来阐释问题设定，并将Bi-CL应用于该实例的两种情形：基于路径和基于图的场景。模拟结果显示，Bi-CL不仅学习效率更高，而且在多机器人协调任务中与传统的多智能体强化学习方法相比，性能毫不逊色。",
+    "title_cn": "Bi-CL：一种采用双层优化策略的强化学习框架，旨在提升机器人间的协调能力。",
+    "tags": [
+      "Agent",
+      "机器人技术",
+      "多智能体系统"
+    ]
+  },
+  {
+    "title": "Fairness Incentives in Response to Unfair Dynamic Pricing",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "The use of dynamic pricing by profit-maximizing firms gives rise to demand fairness concerns, measured by discrepancies in consumer groups' demand responses to a given pricing strategy. Notably, dynamic pricing may result in buyer distributions unreflective of those of the underlying population, which can be problematic in markets where fair representation is socially desirable. To address this, policy makers might leverage tools such as taxation and subsidy to adapt policy mechanisms dependent upon their social objective. In this paper, we explore the potential for AI methods to assist such intervention strategies. To this end, we design a basic simulated economy, wherein we introduce a dynamic social planner (SP) to generate corporate taxation schedules geared to incentivizing firms towards adopting fair pricing behaviours, and to use the collected tax budget to subsidize consumption among underrepresented groups. To cover a range of possible policy scenarios, we formulate our social planner's learning problem as a multi-armed bandit, a contextual bandit and finally as a full reinforcement learning (RL) problem, evaluating welfare outcomes from each case. To alleviate the difficulty in retaining meaningful tax rates that apply to less frequently occurring brackets, we introduce FairReplayBuffer, which ensures that our RL agent samples experiences uniformly across a discretized fairness space. We find that, upon deploying a learned tax and redistribution policy, social welfare improves on that of the fairness-agnostic baseline, and approaches that of the analytically optimal fairness-aware baseline for the multi-armed and contextual bandit settings, and surpassing it by 13.19% in the full RL setting.",
+    "pdf_link": "https://arxiv.org/abs/2404.14620",
+    "graphs": [],
+    "abstract_cn": "追求最大化利润的企业采用动态定价策略，这可能引发消费者需求公平性的问题，即不同消费群体对特定定价策略的反应差异。动态定价有时会导致购买者分布与总体人口分布不一致，这在需要公平代表性的市场中尤为突出。为了应对这一挑战，政策制定者可以使用税收和补贴等手段，根据社会目标调整政策机制。本文旨在探讨人工智能方法在辅助政策干预策略方面的潜力。我们构建了一个模拟经济模型，并引入了一个动态社会规划者（SP），该规划者设计企业税收计划，旨在鼓励企业采取公平定价策略，同时利用税收预算补贴那些代表性不足的消费群体。为了全面考虑各种可能的政策情境，我们将社会规划者的学习问题构建为多臂老虎机、上下文老虎机，最终形成完整的强化学习（RL）问题，并对每种情境下的福利结果进行评估。为了解决在较少发生的税收档次中保持有意义税率的难题，我们引入了 FairReplayBuffer，确保 RL 代理能够在离散化的公平性空间中均匀地抽取经验。研究结果显示，实施了学习型税收和再分配政策后，社会福利得到了提升，不仅超越了不考虑公平性的基线，而且在多臂和上下文老虎机情境下接近了理论上最优化的公平感知基线，在完全的 RL 情境下更是超出了 13.19%。",
+    "title_cn": "面对不公平的动态定价，我们探讨了如何通过激励措施来提升交易的公平性。",
+    "tags": [
+      "Agent",
+      "经济学",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Constrained multi-cluster game: Distributed Nash equilibrium seeking over directed graphs",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "Motivated by the complex dynamics of cooperative and competitive interactions within networked agent systems, multi-cluster games provide a framework for modeling the interconnected goals of self-interested clusters of agents. For this setup, the existing literature lacks comprehensive gradient-based solutions that simultaneously consider constraint sets and directed communication networks, both of which are crucial for many practical applications. To address this gap, this paper proposes a distributed Nash equilibrium seeking algorithm that integrates consensus-based methods and gradient-tracking techniques, where inter-cluster and intra-cluster communications only use row- and column-stochastic weight matrices, respectively. To handle constraints, we introduce an averaging procedure, which can effectively address the complications associated with projections. In turn, we can show linear convergence of our algorithm, focusing on the contraction property of the optimality gap. We demonstrate the efficacy of the proposed algorithm through a microgrid energy management application.",
+    "pdf_link": "https://arxiv.org/abs/2404.14554",
+    "graphs": [],
+    "abstract_cn": "受网络化代理系统中的合作与竞争互动的复杂性启发，多集群博弈为模拟自利代理集群的互联目标提供了建模框架。然而，现有研究在提供全面考虑约束集和有向通信网络的梯度基解决方案方面存在不足，这两者对于实际应用极为关键。为填补这一空白，本文提出了一种分布式纳什均衡搜索算法，该算法融合了基于共识的方法与梯度追踪技术，其中集群间的通信采用行随机权重矩阵，集群内的通信则使用列随机权重矩阵。为应对约束挑战，引入了一种平均化过程，有效解决了投影相关的复杂问题。我们的算法展示了线性收敛性，重点分析了最优性差距的收缩特性。通过微电网能源管理的应用案例，验证了所提算法的高效性。",
+    "title_cn": "受限多集群博弈：在有向图上寻找分布式纳什均衡",
+    "tags": [
+      "Agent",
+      "能源管理",
+      "分布式算法"
+    ]
+  },
+  {
+    "title": "Multi-Agent Hybrid SAC for Joint SS-DSA in CRNs",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "Opportunistic spectrum access has the potential to increase the efficiency of spectrum utilization in cognitive radio networks (CRNs). In CRNs, both spectrum sensing and resource allocation (SSRA) are critical to maximizing system throughput while minimizing collisions of secondary users with the primary network. However, many works in dynamic spectrum access do not consider the impact of imperfect sensing information such as mis-detected channels, which the additional information available in joint SSRA can help remediate. In this work, we examine joint SSRA as an optimization which seeks to maximize a CRN's net communication rate subject to constraints on channel sensing, channel access, and transmit power. Given the non-trivial nature of the problem, we leverage multi-agent reinforcement learning to enable a network of secondary users to dynamically access unoccupied spectrum via only local test statistics, formulated under the energy detection paradigm of spectrum sensing. In doing so, we develop a novel multi-agent implementation of hybrid soft actor critic, MHSAC, based on the QMIX mixing scheme. Through experiments, we find that our SSRA algorithm, HySSRA, is successful in maximizing the CRN's utilization of spectrum resources while also limiting its interference with the primary network, and outperforms the current state-of-the-art by a wide margin. We also explore the impact of wireless variations such as coherence time on the efficacy of the system.",
+    "pdf_link": "https://arxiv.org/abs/2404.14319",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/timing_diagram.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/hybrid_sac.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/ctde_diagram.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/channel_realizations.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/ct_exp_occ_usage_rate.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/need_for_test_stats.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/combined.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/combined.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/n16_plots.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14319v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14319/combined.png"
+      }
+    ],
+    "abstract_cn": "机会频谱接入有望提升认知无线电网络的频谱使用效率。在这些网络中，频谱感知与资源分配（SSRA）是提高系统吞吐量、减少次要用户与主网络冲突的关键。尽管如此，动态频谱接入领域的多数研究忽略了感知误差等不完美信息的影响，而联合SSRA能够利用额外信息对此进行改善。本研究将联合SSRA作为优化问题，目标是在信道感知、接入和传输功率限制下最大化CRN的净通信速率。考虑到问题的复杂性，我们采用多智能体强化学习方法，使次要用户网络能够在仅依赖局部测试统计信息的情况下，动态地接入空闲频谱，这一方法基于频谱感知的能量检测框架。在此基础上，我们提出了一种新颖的多智能体混合软演员-评论家（MHSAC）实现方法，并基于QMIX混合策略。实验结果表明，我们的SSRA算法HySSRA不仅有效提升了CRN的频谱资源利用率，还成功控制了对主网络的干扰，性能显著优于现有技术。此外，我们还研究了无线环境变化，如相干时间，对系统效果的影响。",
+    "title_cn": "在认知无线电网络（CRN）中，采用多智能体混合同步优势策略（SAC）进行联合半静态分频指配（SS-DSA）。",
+    "tags": [
+      "Agent",
+      "通信网络",
+      ""
+    ]
+  },
+  {
+    "title": "Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "Cell-free (CF) massive multiple-input multiple-output (mMIMO) is a promising technique for achieving high spectral efficiency (SE) using multiple distributed access points (APs). However, harsh propagation environments often lead to significant communication performance degradation due to high penetration loss. To overcome this issue, we introduce the reconfigurable intelligent surface (RIS) into the CF mMIMO system as a low-cost and power-efficient solution. In this paper, we focus on optimizing the joint precoding design of the RIS-aided CF mMIMO system to maximize the sum SE. This involves optimizing the precoding matrix at the APs and the reflection coefficients at the RIS. To tackle this problem, we propose a fully distributed multi-agent reinforcement learning (MARL) algorithm that incorporates fuzzy logic (FL). Unlike conventional approaches that rely on alternating optimization techniques, our FL-based MARL algorithm only requires local channel state information, which reduces the need for high backhaul capacity. Simulation results demonstrate that our proposed FL-MARL algorithm effectively reduces computational complexity while achieving similar performance as conventional MARL methods.",
+    "pdf_link": "https://arxiv.org/abs/2404.14092",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.14092v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14092/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14092v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14092/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14092v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14092/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14092v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14092/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14092v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14092/x5.png"
+      }
+    ],
+    "abstract_cn": "无单元（CF）大规模多输入多输出（mMIMO）技术，通过部署多个分布式接入点（APs），展现出提升频谱效率（SE）的巨大潜力。然而，恶劣的传播条件，如高穿透损耗，往往会严重影响通信质量。为了应对这一挑战，本研究将可重构智能表面（RIS）集成到CF mMIMO系统中，作为一种经济高效的解决方案。文章的核心在于对RIS辅助CF mMIMO系统进行联合预编码优化，目标是提升系统的整体SE。这包括对APs的预编码矩阵和RIS的反射系数进行调优。为攻克这一难题，我们提出了一种融合了模糊逻辑（FL）的全分布式多代理强化学习（MARL）算法。与传统的交替优化方法不同，该算法仅需局部信道状态信息，有效降低了对高带宽后端的需求。模拟实验结果证明，该FL-MARL算法在简化计算复杂度的同时，能够达到与常规MARL方法相媲美的性能。",
+    "title_cn": "本文探讨了一种基于多智能体强化学习的方法，用于联合优化 RIS 辅助的无蜂窝大规模 MIMO 系统中的预编码和相位偏移，以提升系统性能。",
+    "tags": [
+      "Agent",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Multi-view Disentanglement for Reinforcement Learning with Multiple Cameras",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "The performance of image-based Reinforcement Learning (RL) agents can vary depending on the position of the camera used to capture the images. Training on multiple cameras simultaneously, including a first-person egocentric camera, can leverage information from different camera perspectives to improve the performance of RL. However, hardware constraints may limit the availability of multiple cameras in real-world deployment. Additionally, cameras may become damaged in the real-world preventing access to all cameras that were used during training. To overcome these hardware constraints, we propose Multi-View Disentanglement (MVD), which uses multiple cameras to learn a policy that achieves zero-shot generalisation to any single camera from the training set. Our approach is a self-supervised auxiliary task for RL that learns a disentangled representation from multiple cameras, with a shared representation that is aligned across all cameras to allow generalisation to a single camera, and a private representation that is camera-specific. We show experimentally that an RL agent trained on a single third-person camera is unable to learn an optimal policy in many control tasks; but, our approach, benefiting from multiple cameras during training, is able to solve the task using only the same single third-person camera.",
+    "pdf_link": "https://arxiv.org/abs/2404.14064",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/soccer_first_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/soccer_third_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_camera2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_camera0.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_camera1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x16.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x17.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x18.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x19.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x20.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x21.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x22.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x23.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x24.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x25.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x26.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x27.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x28.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/x29.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_camera2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_camera0.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_camera1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_cube_cam2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_cube_cam0.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/panda_cube_cam1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/soccer_first_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/soccer_third_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/basketball_first_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/basketball_third_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/pick_place_first_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/pick_place_third_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/peg_first_person.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.14064v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.14064/peg_third_person.png"
+      }
+    ],
+    "abstract_cn": "图像驱动的强化学习（RL）智能体的表现会随着捕捉图像的相机位置不同而波动。通过同时在多个相机上进行训练，例如采用第一人称视角的相机，可以整合多样的视角信息，从而提升RL的表现。但现实中，硬件的限制可能会影响到多相机配置的可行性。此外，现实环境中的相机损坏也可能导致无法使用训练时的全部相机。为了解决这些硬件上的限制，我们引入了多视角解耦（MVD）技术，它能够利用多个相机学习出一种策略，实现对训练集中任一单一相机的零样本泛化能力。这种方法为RL提供了一个自监督的辅助学习任务，通过多相机学习解耦的表征，共享的表征在所有相机间保持一致，以便实现单相机的泛化，同时还有专属于特定相机的私有表征。实验结果证明，仅使用单一第三人称相机训练的RL智能体在许多控制任务中难以掌握最优策略；相比之下，我们的方法在训练时利用了多个相机的信息，最终能够仅依靠同一单一第三人称相机完成任务。",
+    "title_cn": "在多摄像头环境下，强化学习中的多视角解耦技术。",
+    "tags": [
+      "Agent",
+      "",
+      "计算机视觉"
+    ]
+  },
+  {
+    "title": "Liquid-Graph Time-Constant Network for Multi-Agent Systems Control",
+    "submit_datetime": "2024年04月22日",
+    "abstract": "In this paper, we propose the Liquid-Graph Time-constant (LGTC) network, a continuous graph neural network(GNN) model for control of multi-agent systems based on therecent Liquid Time Constant (LTC) network. We analyse itsstability leveraging contraction analysis and propose a closed-form model that preserves the model contraction rate and doesnot require solving an ODE at each iteration. Compared todiscrete models like Graph Gated Neural Networks (GGNNs),the higher expressivity of the proposed model guaranteesremarkable performance while reducing the large amountof communicated variables normally required by GNNs. Weevaluate our model on a distributed multi-agent control casestudy (flocking) taking into account variable communicationrange and scalability under non-instantaneous communication",
+    "pdf_link": "https://arxiv.org/abs/2404.13982",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2404.13982v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13982/flocking_example.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2404.13982v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.13982/flocking_stb_lgtc.png"
+      }
+    ],
+    "abstract_cn": "本文介绍了一种新型连续图神经网络（GNN）模型——液态图时间常数（LGTC）网络，用于多智能体系统的控制，该模型基于最新的液态时间常数（LTC）网络。通过收缩性分析，我们确保了模型的稳定性，并设计了一个封闭形式的模型，它不仅维持了模型的收缩特性，还避免了在每次迭代中求解常微分方程（ODE）的需要。相较于传统的图门控神经网络（GGNNs）等离散模型，LGTC网络的高表达力在减少通信变量的同时，提供了卓越的性能。我们还通过一个分布式多智能体控制的案例研究——群体行为，评估了模型在不同通信范围和非即时通信条件下的可扩展性。",
+    "title_cn": "液态图时域常数网络在多智能体系统控制中的应用",
+    "tags": [
+      "Agent",
+      "智能体系统",
+      "图神经网络"
     ]
   },
   {
@@ -8901,6 +10387,20 @@
     "tags": [
       "LLM应用",
       "人工智能",
+      ""
+    ]
+  },
+  {
+    "title": "Measuring Diversity of Game Scenarios",
+    "submit_datetime": "2024年04月15日",
+    "abstract": "This survey comprehensively reviews the multi-dimensionality of game scenario diversity, spotlighting the innovative use of procedural content generation and other fields as cornerstones for enriching player experiences through diverse game scenarios. By traversing a wide array of disciplines, from affective modeling and multi-agent systems to psychological studies, our research underscores the importance of diverse game scenarios in gameplay and education. Through a taxonomy of diversity metrics and evaluation methods, we aim to bridge the current gaps in literature and practice, offering insights into effective strategies for measuring and integrating diversity in game scenarios. Our analysis highlights the necessity for a unified taxonomy to aid developers and researchers in crafting more engaging and varied game worlds. This survey not only charts a path for future research in diverse game scenarios but also serves as a handbook for industry practitioners seeking to leverage diversity as a key component of game design and development.",
+    "pdf_link": "https://arxiv.org/abs/2404.15192",
+    "graphs": [],
+    "abstract_cn": "本篇综述深入探讨了游戏情境多样性的多个层面，特别强调了程序化内容生成等创新技术在丰富玩家体验中的关键作用。研究跨越了情感建模、多智能体系统、心理学等多个领域，凸显了游戏情境多样性对于提升游戏体验和教育价值的重要性。通过建立多样性度量的分类体系和评估方法，本研究旨在填补文献与实践之间的空白，为如何有效衡量和融合游戏情境多样性提供策略性见解。分析指出，统一的分类体系对于帮助开发者和研究者创造更具吸引力和变化性的游戏世界至关重要。这项调查不仅为未来游戏情境多样性的研究指明了方向，也为游戏设计和开发行业实践者提供了一本利用多样性作为核心要素的指南。",
+    "title_cn": "探索游戏情境的多样性维度",
+    "tags": [
+      "分类：Agent",
+      "游戏设计",
       ""
     ]
   },
