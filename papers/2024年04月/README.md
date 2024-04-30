@@ -34,6 +34,134 @@
 
     - [翻译: ChatGPT、DALL-E 3 和 Sora 等生成性人工智能技术，已经如何重塑了数字人文学科的研究方向和服务模式？](2024年04月29日/From_ChatGPT,_DALL-E_3_to_Sora_How_has_Generative_AI_Changed_Digital_Humanities_Research_and_Services.md)
 
+- [DPO Meets PPO: Reinforced Token Optimization for RLHF](2024年04月29日/DPO_Meets_PPO_Reinforced_Token_Optimization_for_RLHF.md)
+
+    - [翻译: DPO 邂逅 PPO：在强化学习框架下，为人类偏好的令牌优化注入动力](2024年04月29日/DPO_Meets_PPO_Reinforced_Token_Optimization_for_RLHF.md)
+
+- [TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation](2024年04月29日/TheaterGen_Character_Management_with_LLM_for_Consistent_Multi-turn_Image_Generation.md)
+
+    - [翻译: TheaterGen：运用大型语言模型精心管理角色，打造连贯的多轮次图像生成体验](2024年04月29日/TheaterGen_Character_Management_with_LLM_for_Consistent_Multi-turn_Image_Generation.md)
+
+- [Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting](2024年04月29日/Kangaroo_Lossless_Self-Speculative_Decoding_via_Double_Early_Exiting.md)
+
+    - [翻译: 袋鼠：一种无损自我推测解码技术，采用双重早期退出机制。](2024年04月29日/Kangaroo_Lossless_Self-Speculative_Decoding_via_Double_Early_Exiting.md)
+
+- [Human-in-the-Loop Synthetic Text Data Inspection with Provenance Tracking](2024年04月29日/Human-in-the-Loop_Synthetic_Text_Data_Inspection_with_Provenance_Tracking.md)
+
+    - [翻译: 人工参与的合成文本数据审查，配备有追踪溯源功能](2024年04月29日/Human-in-the-Loop_Synthetic_Text_Data_Inspection_with_Provenance_Tracking.md)
+
+- [More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness](2024年04月29日/More_RLHF,_More_Trust_On_The_Impact_of_Human_Preference_Alignment_On_Language_Model_Trustworthiness.md)
+
+    - [翻译: 偏好更贴近人类，信任更深厚？探讨人类偏好对齐如何提升语言模型的可信性](2024年04月29日/More_RLHF,_More_Trust_On_The_Impact_of_Human_Preference_Alignment_On_Language_Model_Trustworthiness.md)
+
+- [Truth-value judgment in language models: belief directions are context sensitive](2024年04月29日/Truth-value_judgment_in_language_models_belief_directions_are_context_sensitive.md)
+
+    - [翻译: 在语言模型中进行真值判断时，信仰的方向会随着上下文的不同而变化。](2024年04月29日/Truth-value_judgment_in_language_models_belief_directions_are_context_sensitive.md)
+
+- [Performance-Aligned LLMs for Generating Fast Code](2024年04月29日/Performance-Aligned_LLMs_for_Generating_Fast_Code.md)
+
+    - [翻译: 为了快速生成代码，我们对大型语言模型进行了性能优化，确保它们在编码任务中的表现与预期目标精准对齐。](2024年04月29日/Performance-Aligned_LLMs_for_Generating_Fast_Code.md)
+
+- [VERT: Verified Equivalent Rust Transpilation with Few-Shot Learning](2024年04月29日/VERT_Verified_Equivalent_Rust_Transpilation_with_Few-Shot_Learning.md)
+
+    - [翻译: VERT：运用少量学习验证 Rust 语言的等价转译](2024年04月29日/VERT_Verified_Equivalent_Rust_Transpilation_with_Few-Shot_Learning.md)
+
+- [It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments](2024年04月29日/It's_Difficult_to_be_Neutral_--_Human_and_LLM-based_Sentiment_Annotation_of_Patient_Comments.md)
+
+    - [翻译: 保持中立并非易事 —— 人类与基于大型语言模型的病患评论情感分析](2024年04月29日/It's_Difficult_to_be_Neutral_--_Human_and_LLM-based_Sentiment_Annotation_of_Patient_Comments.md)
+
+- [Benchmarking Benchmark Leakage in Large Language Models](2024年04月29日/Benchmarking_Benchmark_Leakage_in_Large_Language_Models.md)
+
+    - [翻译: 在大型语言模型中，对基准测试泄露问题进行评估](2024年04月29日/Benchmarking_Benchmark_Leakage_in_Large_Language_Models.md)
+
+- [AppPoet: Large Language Model based Android malware detection via multi-view prompt engineering](2024年04月29日/AppPoet_Large_Language_Model_based_Android_malware_detection_via_multi-view_prompt_engineering.md)
+
+    - [翻译: AppPoet：利用大型语言模型进行 Android 恶意软件检测，通过精心设计的多视角提示实现。](2024年04月29日/AppPoet_Large_Language_Model_based_Android_malware_detection_via_multi-view_prompt_engineering.md)
+
+- [Efficiency-Effectiveness Tradeoff of Probabilistic Structured Queries for Cross-Language Information Retrieval](2024年04月29日/Efficiency-Effectiveness_Tradeoff_of_Probabilistic_Structured_Queries_for_Cross-Language_Information_Retrieval.md)
+
+    - [翻译: 在跨语言信息检索领域，概率结构化查询的效率与效果之间存在一种权衡。](2024年04月29日/Efficiency-Effectiveness_Tradeoff_of_Probabilistic_Structured_Queries_for_Cross-Language_Information_Retrieval.md)
+
+- [Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models](2024年04月29日/Replacing_Judges_with_Juries_Evaluating_LLM_Generations_with_a_Panel_of_Diverse_Models.md)
+
+    - [翻译: 以多元模型小组评判，取代传统法官角色：深入评估大型语言模型的创作成果](2024年04月29日/Replacing_Judges_with_Juries_Evaluating_LLM_Generations_with_a_Panel_of_Diverse_Models.md)
+
+- [PECC: Problem Extraction and Coding Challenges](2024年04月29日/PECC_Problem_Extraction_and_Coding_Challenges.md)
+
+    - [翻译: PECC：问题抽取与编码的挑战](2024年04月29日/PECC_Problem_Extraction_and_Coding_Challenges.md)
+
+- [Transitive Vision-Language Prompt Learning for Domain Generalization](2024年04月29日/Transitive_Vision-Language_Prompt_Learning_for_Domain_Generalization.md)
+
+    - [翻译: 在领域泛化领域，传递式的视觉-语言提示学习方法展现出了其独特的优势。](2024年04月29日/Transitive_Vision-Language_Prompt_Learning_for_Domain_Generalization.md)
+
+- [Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models](2024年04月29日/Enhancing_Interactive_Image_Retrieval_With_Query_Rewriting_Using_Large_Language_Models_and_Vision_Language_Models.md)
+
+    - [翻译: 借助大型语言模型和视觉语言模型，通过查询重写技术，我们能够提升交互式图像检索的效能。](2024年04月29日/Enhancing_Interactive_Image_Retrieval_With_Query_Rewriting_Using_Large_Language_Models_and_Vision_Language_Models.md)
+
+- [LLMClean: Context-Aware Tabular Data Cleaning via LLM-Generated OFDs](2024年04月29日/LLMClean_Context-Aware_Tabular_Data_Cleaning_via_LLM-Generated_OFDs.md)
+
+    - [翻译: LLMClean：一种利用大型语言模型（LLM）生成的OFD（开放性功能需求）进行上下文感知的表格数据清洗方法。](2024年04月29日/LLMClean_Context-Aware_Tabular_Data_Cleaning_via_LLM-Generated_OFDs.md)
+
+- [Assessing Cybersecurity Vulnerabilities in Code Large Language Models](2024年04月29日/Assessing_Cybersecurity_Vulnerabilities_in_Code_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型代码中的网络安全薄弱环节](2024年04月29日/Assessing_Cybersecurity_Vulnerabilities_in_Code_Large_Language_Models.md)
+
+- [LangBiTe: A Platform for Testing Bias in Large Language Models](2024年04月29日/LangBiTe_A_Platform_for_Testing_Bias_in_Large_Language_Models.md)
+
+    - [翻译: LangBiTe：大型语言模型偏见检测的实验平台](2024年04月29日/LangBiTe_A_Platform_for_Testing_Bias_in_Large_Language_Models.md)
+
+- [Can GPT-4 do L2 analytic assessment?](2024年04月29日/Can_GPT-4_do_L2_analytic_assessment.md)
+
+    - [翻译: GPT-4 是否能够胜任 L2 级别的分析性评估？](2024年04月29日/Can_GPT-4_do_L2_analytic_assessment.md)
+
+- [ir_explain: a Python Library of Explainable IR Methods](2024年04月29日/ir_explain_a_Python_Library_of_Explainable_IR_Methods.md)
+
+    - [翻译: ir_explain：一款用于信息检索的可解释性方法的 Python 库](2024年04月29日/ir_explain_a_Python_Library_of_Explainable_IR_Methods.md)
+
+- [Time Machine GPT](2024年04月29日/Time_Machine_GPT.md)
+
+    - [翻译: 时光机器 GPT](2024年04月29日/Time_Machine_GPT.md)
+
+- [OAEI Machine Learning Dataset for Online Model Generation](2024年04月29日/OAEI_Machine_Learning_Dataset_for_Online_Model_Generation.md)
+
+    - [翻译: OAEI 为在线模型生成提供了一个机器学习数据集。](2024年04月29日/OAEI_Machine_Learning_Dataset_for_Online_Model_Generation.md)
+
+- [Evaluating and Mitigating Linguistic Discrimination in Large Language Models](2024年04月29日/Evaluating_and_Mitigating_Linguistic_Discrimination_in_Large_Language_Models.md)
+
+    - [翻译: 本文旨在探讨并缓解大型语言模型中存在的语言学歧视问题。](2024年04月29日/Evaluating_and_Mitigating_Linguistic_Discrimination_in_Large_Language_Models.md)
+
+- [Evaluating Readability and Faithfulness of Concept-based Explanations](2024年04月29日/Evaluating_Readability_and_Faithfulness_of_Concept-based_Explanations.md)
+
+    - [翻译: 探讨概念驱动解释的易读性与准确性。](2024年04月29日/Evaluating_Readability_and_Faithfulness_of_Concept-based_Explanations.md)
+
+- [ChatGPT as an inventor: Eliciting the strengths and weaknesses of current large language models against humans in engineering design](2024年04月29日/ChatGPT_as_an_inventor_Eliciting_the_strengths_and_weaknesses_of_current_large_language_models_against_humans_in_engineering_design.md)
+
+    - [翻译: ChatGPT：工程设计领域的创新者——揭示当前大型语言模型与人类相比的优劣所在。](2024年04月29日/ChatGPT_as_an_inventor_Eliciting_the_strengths_and_weaknesses_of_current_large_language_models_against_humans_in_engineering_design.md)
+
+- [HFT: Half Fine-Tuning for Large Language Models](2024年04月29日/HFT_Half_Fine-Tuning_for_Large_Language_Models.md)
+
+    - [翻译: HFT：为大型语言模型量身定制的半微调技术](2024年04月29日/HFT_Half_Fine-Tuning_for_Large_Language_Models.md)
+
+- [Ethical Reasoning and Moral Value Alignment of LLMs Depend on the Language we Prompt them in](2024年04月29日/Ethical_Reasoning_and_Moral_Value_Alignment_of_LLMs_Depend_on_the_Language_we_Prompt_them_in.md)
+
+    - [翻译: 大型语言模型（LLM）的道德推理与价值观念的一致性，取决于我们如何用语言引导它们。](2024年04月29日/Ethical_Reasoning_and_Moral_Value_Alignment_of_LLMs_Depend_on_the_Language_we_Prompt_them_in.md)
+
+- [Chameleon: A Data-Efficient Generalist for Dense Visual Prediction in the Wild](2024年04月29日/Chameleon_A_Data-Efficient_Generalist_for_Dense_Visual_Prediction_in_the_Wild.md)
+
+    - [翻译: 变色龙：一种在野外环境中进行密集视觉预测的数据高效多面手。](2024年04月29日/Chameleon_A_Data-Efficient_Generalist_for_Dense_Visual_Prediction_in_the_Wild.md)
+
+- [BMRetriever: Tuning Large Language Models as Better Biomedical Text Retrievers](2024年04月29日/BMRetriever_Tuning_Large_Language_Models_as_Better_Biomedical_Text_Retrievers.md)
+
+    - [翻译: BMRetriever：优化大型语言模型，提升其在生物医学文本检索方面的性能。](2024年04月29日/BMRetriever_Tuning_Large_Language_Models_as_Better_Biomedical_Text_Retrievers.md)
+
+- [Geospatial Big Data: Survey and Challenges](2024年04月29日/Geospatial_Big_Data_Survey_and_Challenges.md)
+
+    - [翻译: 地理空间大数据：一项全面调查及其面临的挑战](2024年04月29日/Geospatial_Big_Data_Survey_and_Challenges.md)
+
+- [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](2024年04月29日/PromptReps_Prompting_Large_Language_Models_to_Generate_Dense_and_Sparse_Representations_for_Zero-Shot_Document_Retrieval.md)
+
+    - [翻译: PromptReps：激发大型语言模型的潜能，为零样本文档检索任务生成既密集又稀疏的表示方法。](2024年04月29日/PromptReps_Prompting_Large_Language_Models_to_Generate_Dense_and_Sparse_Representations_for_Zero-Shot_Document_Retrieval.md)
+
 2024年04月28日
 
 - [Mixture-of-Instructions: Comprehensive Alignment of a Large Language Model through the Mixture of Diverse System Prompting Instructions](2024年04月28日/Mixture-of-Instructions_Comprehensive_Alignment_of_a_Large_Language_Model_through_the_Mixture_of_Diverse_System_Prompting_Instructions.md)
@@ -220,11 +348,11 @@
 
 - [VANER: Leveraging Large Language Model for Versatile and Adaptive Biomedical Named Entity Recognition](2024年04月27日/VANER_Leveraging_Large_Language_Model_for_Versatile_and_Adaptive_Biomedical_Named_Entity_Recognition.md)
 
-    - [翻译: VANER：借助大型语言模型，实现多样化且具有适应性的生物医学命名实体识别。](2024年04月27日/VANER_Leveraging_Large_Language_Model_for_Versatile_and_Adaptive_Biomedical_Named_Entity_Recognition.md)
+    - [翻译: VANER：借助大型语言模型，实现生物医学领域的多用途和自适应命名实体识别。](2024年04月27日/VANER_Leveraging_Large_Language_Model_for_Versatile_and_Adaptive_Biomedical_Named_Entity_Recognition.md)
 
 - [Testing and Understanding Erroneous Planning in LLM Agents through Synthesized User Inputs](2024年04月27日/Testing_and_Understanding_Erroneous_Planning_in_LLM_Agents_through_Synthesized_User_Inputs.md)
 
-    - [翻译: 通过合成的用户输入，我们对大型语言模型（LLM）代理中的错误规划进行了测试与理解。](2024年04月27日/Testing_and_Understanding_Erroneous_Planning_in_LLM_Agents_through_Synthesized_User_Inputs.md)
+    - [翻译: 通过合成用户输入，我们对大型语言模型（LLM）代理中的错误规划进行了测试与理解。](2024年04月27日/Testing_and_Understanding_Erroneous_Planning_in_LLM_Agents_through_Synthesized_User_Inputs.md)
 
 - [Evaluation of Few-Shot Learning for Classification Tasks in the Polish Language](2024年04月27日/Evaluation_of_Few-Shot_Learning_for_Classification_Tasks_in_the_Polish_Language.md)
 
@@ -232,15 +360,15 @@
 
 - [Recall, Retrieve and Reason: Towards Better In-Context Relation Extraction](2024年04月27日/Recall,_Retrieve_and_Reason_Towards_Better_In-Context_Relation_Extraction.md)
 
-    - [翻译: 记忆、检索、推理——探索更佳的语境内关系抽取之道。](2024年04月27日/Recall,_Retrieve_and_Reason_Towards_Better_In-Context_Relation_Extraction.md)
+    - [翻译: 回顾、检索、推理：迈向更高效的语境内关系抽取](2024年04月27日/Recall,_Retrieve_and_Reason_Towards_Better_In-Context_Relation_Extraction.md)
 
 - [Meta In-Context Learning Makes Large Language Models Better Zero and Few-Shot Relation Extractors](2024年04月27日/Meta_In-Context_Learning_Makes_Large_Language_Models_Better_Zero_and_Few-Shot_Relation_Extractors.md)
 
-    - [翻译: 引入元上下文学习技术，大型语言模型在零样本和少样本关系抽取任务上的表现得到显著提升。](2024年04月27日/Meta_In-Context_Learning_Makes_Large_Language_Models_Better_Zero_and_Few-Shot_Relation_Extractors.md)
+    - [翻译: 引入元上下文学习技术，大型语言模型在零样本和少样本关系抽取任务上的表现得到了显著提升。](2024年04月27日/Meta_In-Context_Learning_Makes_Large_Language_Models_Better_Zero_and_Few-Shot_Relation_Extractors.md)
 
 - [Verco: Learning Coordinated Verbal Communication for Multi-agent Reinforcement Learning](2024年04月27日/Verco_Learning_Coordinated_Verbal_Communication_for_Multi-agent_Reinforcement_Learning.md)
 
-    - [翻译: Verco：探索多智能体强化学习中的协调性口头沟通技巧](2024年04月27日/Verco_Learning_Coordinated_Verbal_Communication_for_Multi-agent_Reinforcement_Learning.md)
+    - [翻译: Verco：探索多智能体强化学习中的协同口头沟通技巧](2024年04月27日/Verco_Learning_Coordinated_Verbal_Communication_for_Multi-agent_Reinforcement_Learning.md)
 
 - [Medical Vision-Language Pre-Training for Brain Abnormalities](2024年04月27日/Medical_Vision-Language_Pre-Training_for_Brain_Abnormalities.md)
 
@@ -310,19 +438,19 @@
 
 - [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](2024年04月26日/Retrieval-Augmented_Generation_with_Knowledge_Graphs_for_Customer_Service_Question_Answering.md)
 
-    - [翻译: 通过知识图谱辅助检索，提升客户服务中的问答生成能力](2024年04月26日/Retrieval-Augmented_Generation_with_Knowledge_Graphs_for_Customer_Service_Question_Answering.md)
+    - [翻译: 利用知识图谱提升检索生成技术，优化客户服务中的问答环节。](2024年04月26日/Retrieval-Augmented_Generation_with_Knowledge_Graphs_for_Customer_Service_Question_Answering.md)
 
 - [CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving](2024年04月26日/CoMM_Collaborative_Multi-Agent,_Multi-Reasoning-Path_Prompting_for_Complex_Problem_Solving.md)
 
-    - [翻译: CoMM：协同多智能体与多推理路径提示，助力解决复杂问题。](2024年04月26日/CoMM_Collaborative_Multi-Agent,_Multi-Reasoning-Path_Prompting_for_Complex_Problem_Solving.md)
+    - [翻译: CoMM：协同多智能体，多路径推理提示，助力解决复杂问题。](2024年04月26日/CoMM_Collaborative_Multi-Agent,_Multi-Reasoning-Path_Prompting_for_Complex_Problem_Solving.md)
 
 - [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](2024年04月26日/PLAYER_Enhancing_LLM-based_Multi-Agent_Communication_and_Interaction_in_Murder_Mystery_Games.md)
 
-    - [翻译: PLAYER*：提升大型语言模型支持下的多角色在推理侦探游戏中的沟通与互动](2024年04月26日/PLAYER_Enhancing_LLM-based_Multi-Agent_Communication_and_Interaction_in_Murder_Mystery_Games.md)
+    - [翻译: PLAYER*：提升基于大型语言模型的多智能体在谋杀谜题游戏中的沟通与互动](2024年04月26日/PLAYER_Enhancing_LLM-based_Multi-Agent_Communication_and_Interaction_in_Murder_Mystery_Games.md)
 
 - [UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis](2024年04月26日/UMass-BioNLP_at_MEDIQA-M3G_2024_DermPrompt_--_A_Systematic_Exploration_of_Prompt_Engineering_with_GPT-4V_for_Dermatological_Diagnosis.md)
 
-    - [翻译: UMass-BioNLP 团队在 2024 年 MEDIQA-M3G 竞赛中推出的 DermPrompt，是一项对 GPT-4V 进行提示工程系统性探索的成果，旨在提升皮肤科疾病的诊断能力。](2024年04月26日/UMass-BioNLP_at_MEDIQA-M3G_2024_DermPrompt_--_A_Systematic_Exploration_of_Prompt_Engineering_with_GPT-4V_for_Dermatological_Diagnosis.md)
+    - [翻译: UMass-BioNLP 团队在 2024 年 MEDIQA-M3G 竞赛中推出了 DermPrompt，这是一个针对皮肤科诊断的系统化提示工程探索项目，利用 GPT-4V 技术深入挖掘和优化诊断流程。](2024年04月26日/UMass-BioNLP_at_MEDIQA-M3G_2024_DermPrompt_--_A_Systematic_Exploration_of_Prompt_Engineering_with_GPT-4V_for_Dermatological_Diagnosis.md)
 
 2024年04月25日
 
@@ -1120,7 +1248,7 @@
 
 - [The Future of Scientific Publishing: Automated Article Generation](2024年04月11日/The_Future_of_Scientific_Publishing_Automated_Article_Generation.md)
 
-    - [翻译: 探索科学出版新纪元：文章自动生成技术](2024年04月11日/The_Future_of_Scientific_Publishing_Automated_Article_Generation.md)
+    - [翻译: 科学出版新纪元：文章自动撰写技术](2024年04月11日/The_Future_of_Scientific_Publishing_Automated_Article_Generation.md)
 
 2024年04月10日
 
