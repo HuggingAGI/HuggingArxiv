@@ -12,7 +12,8 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2401.17464/x5.png)
 
 
-- 论文原文 [https://arxiv.org/abs/2401.17464](https://arxiv.org/abs/2401.17464)
+- 论文原文: [https://arxiv.org/abs/2401.17464](https://arxiv.org/abs/2401.17464)
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
+- 加入社群，+v: iamxxn886
 
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png)
