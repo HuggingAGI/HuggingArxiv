@@ -1,16 +1,76 @@
 # 2024年02月
 
+2024年02月28日
+
+- [Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](2024年02月28日/Keeping_LLMs_Aligned_After_Fine-tuning_The_Crucial_Role_of_Prompt_Templates.md)
+
+    - [翻译: 微调之后，如何确保大型语言模型保持其原有的校准状态？关键在于巧妙设计的提示模板。](2024年02月28日/Keeping_LLMs_Aligned_After_Fine-tuning_The_Crucial_Role_of_Prompt_Templates.md)
+
 2024年02月26日
 
 - [Efficient Tool Use with Chain-of-Abstraction Reasoning](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
 
     - [翻译: 通过抽象层次链推理实现高效工具运用](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
 
+2024年02月23日
+
+- [Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts](2024年02月23日/Prompting_LLMs_to_Compose_Meta-Review_Drafts_from_Peer-Review_Narratives_of_Scholarly_Manuscripts.md)
+
+    - [翻译: 引导大型语言模型（LLM）基于学术手稿的同行评审叙述，撰写出元评论的初稿。](2024年02月23日/Prompting_LLMs_to_Compose_Meta-Review_Drafts_from_Peer-Review_Narratives_of_Scholarly_Manuscripts.md)
+
+2024年02月19日
+
+- [Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
+
+    - [翻译: 元排名机制表明，即便是能力相对较弱的语言模型，在进行单一响应判断时也表现出了足够的能力。](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
+
+2024年02月18日
+
+- [SPML: A DSL for Defending Language Models Against Prompt Attacks](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
+
+    - [翻译: SPML：一种专为抵御提示攻击而设计的领域特定语言，用于保护语言模型的安全。](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
+
+2024年02月15日
+
+- [MADA: Meta-Adaptive Optimizers through hyper-gradient Descent](2024年02月15日/MADA_Meta-Adaptive_Optimizers_through_hyper-gradient_Descent.md)
+
+    - [翻译: MADA：一种通过超梯度下降实现的元自适应优化器技术](2024年02月15日/MADA_Meta-Adaptive_Optimizers_through_hyper-gradient_Descent.md)
+
 2024年02月14日
 
 - [HaLo-NeRF: Learning Geometry-Guided Semantics for Exploring Unconstrained Photo Collections](2024年02月14日/HaLo-NeRF_Learning_Geometry-Guided_Semantics_for_Exploring_Unconstrained_Photo_Collections.md)
 
     - [翻译: HaLo-NeRF：探索自由式照片集的几何引导语义学习。](2024年02月14日/HaLo-NeRF_Learning_Geometry-Guided_Semantics_for_Exploring_Unconstrained_Photo_Collections.md)
+
+2024年02月13日
+
+- [Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy](2024年02月13日/Combining_Insights_From_Multiple_Large_Language_Models_Improves_Diagnostic_Accuracy.md)
+
+    - [翻译: 融合多个大型语言模型的洞见，能够显著提升诊断的精确度。](2024年02月13日/Combining_Insights_From_Multiple_Large_Language_Models_Improves_Diagnostic_Accuracy.md)
+
+2024年02月12日
+
+- [AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension](2024年02月12日/AIR-Bench_Benchmarking_Large_Audio-Language_Models_via_Generative_Comprehension.md)
+
+    - [翻译: AIR-Bench：通过创造性理解对大型音频-语言模型进行性能评估。](2024年02月12日/AIR-Bench_Benchmarking_Large_Audio-Language_Models_via_Generative_Comprehension.md)
+
+2024年02月09日
+
+- [Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper](2024年02月09日/Sentinels_of_the_Stream_Unleashing_Large_Language_Models_for_Dynamic_Packet_Classification_in_Software_Defined_Networks_--_Position_Paper.md)
+
+    - [翻译: 《流之守望：利用大型语言模型实现软件定义网络中的动态数据包分类》——立场论文](2024年02月09日/Sentinels_of_the_Stream_Unleashing_Large_Language_Models_for_Dynamic_Packet_Classification_in_Software_Defined_Networks_--_Position_Paper.md)
+
+2024年02月08日
+
+- [RedCoast: A Lightweight Tool to Automate Distributed Training of LLMs on Any GPU/TPUs](2024年02月08日/RedCoast_A_Lightweight_Tool_to_Automate_Distributed_Training_of_LLMs_on_Any_GPUTPUs.md)
+
+    - [翻译: RedCoast：一款轻量级工具，旨在简化在各种 GPU 或 TPU 上进行大型语言模型的分布式训练过程。](2024年02月08日/RedCoast_A_Lightweight_Tool_to_Automate_Distributed_Training_of_LLMs_on_Any_GPUTPUs.md)
+
+2024年02月06日
+
+- [MR-GSM8K: A Meta-Reasoning Revolution in Large Language Model Evaluation](2024年02月06日/MR-GSM8K_A_Meta-Reasoning_Revolution_in_Large_Language_Model_Evaluation.md)
+
+    - [翻译: MR-GSM8K：引领大型语言模型评估领域的元推理革新。](2024年02月06日/MR-GSM8K_A_Meta-Reasoning_Revolution_in_Large_Language_Model_Evaluation.md)
 
 2024年02月03日
 

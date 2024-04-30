@@ -1,35 +1,35 @@
 # 2024年01月
 
-2024年01月22日
+2024年01月24日
 
-- [Leveraging Chat-Based Large Vision Language Models for Multimodal Out-Of-Context Detection](2024年01月22日/Leveraging_Chat-Based_Large_Vision_Language_Models_for_Multimodal_Out-Of-Context_Detection.md)
+- ["Medium" LMs of Code in the Era of LLMs: Lessons From StackOverflow](2024年01月24日/Medium_LMs_of_Code_in_the_Era_of_LLMs_Lessons_From_StackOverflow.md)
 
-    - [翻译: 我们借助于聊天驱动的大型视觉语言模型，致力于探索其在多模态情境缺失检测任务中的应用。](2024年01月22日/Leveraging_Chat-Based_Large_Vision_Language_Models_for_Multimodal_Out-Of-Context_Detection.md)
+    - [翻译: 在大型语言模型（LLMs）盛行的时代，我们探讨了“中等规模”的代码语言模型（"Medium" LMs of Code），并从 StackOverflow 的经验中汲取教训。](2024年01月24日/Medium_LMs_of_Code_in_the_Era_of_LLMs_Lessons_From_StackOverflow.md)
 
-2024年01月18日
+2024年01月23日
 
-- [Veagle: Advancements in Multimodal Representation Learning](2024年01月18日/Veagle_Advancements_in_Multimodal_Representation_Learning.md)
+- [Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study](2024年01月23日/Quality_of_Answers_of_Generative_Large_Language_Models_vs_Peer_Patients_for_Interpreting_Lab_Test_Results_for_Lay_Patients_Evaluation_Study.md)
 
-    - [翻译: Veagle——探索多模态表示学习新前沿](2024年01月18日/Veagle_Advancements_in_Multimodal_Representation_Learning.md)
+    - [翻译: 生成式大型语言模型与病友在解读普通患者实验室检测结果时答案质量的比较：一项评估研究](2024年01月23日/Quality_of_Answers_of_Generative_Large_Language_Models_vs_Peer_Patients_for_Interpreting_Lab_Test_Results_for_Lay_Patients_Evaluation_Study.md)
+
+- [Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](2024年01月23日/Meta-Prompting_Enhancing_Language_Models_with_Task-Agnostic_Scaffolding.md)
+
+    - [翻译: 元提示：为语言模型注入通用性支撑，提升其性能](2024年01月23日/Meta-Prompting_Enhancing_Language_Models_with_Task-Agnostic_Scaffolding.md)
 
 2024年01月10日
 
-- [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](2024年01月10日/Personal_LLM_Agents_Insights_and_Survey_about_the_Capability,_Efficiency_and_Security.md)
+- [KwaiAgents: Generalized Information-seeking Agent System with Large Language Models](2024年01月10日/KwaiAgents_Generalized_Information-seeking_Agent_System_with_Large_Language_Models.md)
 
-    - [翻译: 个人化大型语言模型（LLM）代理：深入探讨其能力、效率与安全性](2024年01月10日/Personal_LLM_Agents_Insights_and_Survey_about_the_Capability,_Efficiency_and_Security.md)
+    - [翻译: KwaiAgents：结合大型语言模型的全能信息搜寻代理系统](2024年01月10日/KwaiAgents_Generalized_Information-seeking_Agent_System_with_Large_Language_Models.md)
 
-2024年01月08日
+2024年01月03日
 
-- [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](2024年01月08日/A_Comprehensive_Survey_of_Hallucination_Mitigation_Techniques_in_Large_Language_Models.md)
+- [Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset](2024年01月03日/Evaluating_LLMs_on_Document-Based_QA_Exact_Answer_Selection_and_Numerical_Extraction_using_Cogtale_dataset.md)
 
-    - [翻译: 本文全面审视了大型语言模型中的幻觉缓解策略，旨在探索如何有效减少模型生成不真实或不恰当内容的风险。](2024年01月08日/A_Comprehensive_Survey_of_Hallucination_Mitigation_Techniques_in_Large_Language_Models.md)
+    - [翻译: 本文探讨了如何利用 Cogtale 数据集对大型语言模型进行基于文档的问答能力的评估，包括精确答案的选择和数值信息的提取。](2024年01月03日/Evaluating_LLMs_on_Document-Based_QA_Exact_Answer_Selection_and_Numerical_Extraction_using_Cogtale_dataset.md)
 
-- [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](2024年01月08日/If_LLM_Is_the_Wizard,_Then_Code_Is_the_Wand_A_Survey_on_How_Code_Empowers_Large_Language_Models_to_Serve_as_Intelligent_Agents.md)
+2024年01月01日
 
-    - [翻译: 将大型语言模型（LLM）比作巫师，代码则是其施展魔法的魔杖。本文综述了代码如何赋予LLM以智能代理的能力。](2024年01月08日/If_LLM_Is_the_Wizard,_Then_Code_Is_the_Wand_A_Survey_on_How_Code_Empowers_Large_Language_Models_to_Serve_as_Intelligent_Agents.md)
+- [The Cambridge Law Corpus: A Dataset for Legal AI Research](2024年01月01日/The_Cambridge_Law_Corpus_A_Dataset_for_Legal_AI_Research.md)
 
-2024年01月04日
-
-- [Retrieval-Augmented Generation for Large Language Models: A Survey](2024年01月04日/Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 大型语言模型中的检索增强生成技术：全面调查研究](2024年01月04日/Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey.md)
+    - [翻译: 剑桥法律语料库：为法律AI研究提供的数据集。](2024年01月01日/The_Cambridge_Law_Corpus_A_Dataset_for_Legal_AI_Research.md)

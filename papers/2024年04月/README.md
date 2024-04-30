@@ -892,6 +892,10 @@
 
     - [翻译: 本文介绍了一种新颖的多智能体强化学习方法，旨在实现具有模型基础稳定性增强功能的合作自适应巡航控制（CACC）。该方法特别关注了通信延迟对系统性能的影响，通过智能体之间的协同学习，优化了在存在延迟情况下的控制策略，从而提高了整体系统的稳定性和响应速度。](2024年04月24日/Delay-Aware_Multi-Agent_Reinforcement_Learning_for_Cooperative_Adaptive_Cruise_Control_with_Model-based_Stability_Enhancement.md)
 
+- [Is Mamba Capable of In-Context Learning?](2024年04月24日/Is_Mamba_Capable_of_In-Context_Learning.md)
+
+    - [翻译: 曼巴是否具备情境学习的能力？](2024年04月24日/Is_Mamba_Capable_of_In-Context_Learning.md)
+
 2024年04月23日
 
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
@@ -989,6 +993,10 @@
 - [Multi-Objective Deep Reinforcement Learning for 5G Base Station Placement to Support Localisation for Future Sustainable Traffic](2024年04月23日/Multi-Objective_Deep_Reinforcement_Learning_for_5G_Base_Station_Placement_to_Support_Localisation_for_Future_Sustainable_Traffic.md)
 
     - [翻译: 采用多目标深度强化学习方法，优化5G基站布局，以支持未来交通的可持续发展和精确定位。](2024年04月23日/Multi-Objective_Deep_Reinforcement_Learning_for_5G_Base_Station_Placement_to_Support_Localisation_for_Future_Sustainable_Traffic.md)
+
+- [Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?](2024年04月23日/Can_Foundational_Large_Language_Models_Assist_with_Conducting_Pharmaceuticals_Manufacturing_Investigations.md)
+
+    - [翻译: 基础性的大型语言模型是否能够帮助我们开展药品制造业的调查研究？](2024年04月23日/Can_Foundational_Large_Language_Models_Assist_with_Conducting_Pharmaceuticals_Manufacturing_Investigations.md)
 
 2024年04月22日
 
@@ -1174,6 +1182,14 @@
 
     - [翻译: 探索大型语言模型的供应链：制定研究路线图](2024年04月19日/Large_Language_Model_Supply_Chain_A_Research_Agenda.md)
 
+- [CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models](2024年04月19日/CyberSecEval_2_A_Wide-Ranging_Cybersecurity_Evaluation_Suite_for_Large_Language_Models.md)
+
+    - [翻译: CyberSecEval 2：为大型语言模型量身打造的全面网络安全评估工具集。](2024年04月19日/CyberSecEval_2_A_Wide-Ranging_Cybersecurity_Evaluation_Suite_for_Large_Language_Models.md)
+
+- [Data Alignment for Zero-Shot Concept Generation in Dermatology AI](2024年04月19日/Data_Alignment_for_Zero-Shot_Concept_Generation_in_Dermatology_AI.md)
+
+    - [翻译: 为皮肤科学AI中的零样本概念生成进行数据对齐。](2024年04月19日/Data_Alignment_for_Zero-Shot_Concept_Generation_in_Dermatology_AI.md)
+
 2024年04月18日
 
 - [Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL](2024年04月18日/Dubo-SQL_Diverse_Retrieval-Augmented_Generation_and_Fine_Tuning_for_Text-to-SQL.md)
@@ -1326,6 +1342,10 @@
 
     - [翻译: 探索游戏情境的多样性维度](2024年04月15日/Measuring_Diversity_of_Game_Scenarios.md)
 
+- [Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity, Bias and Propensity for Hallucinations](2024年04月15日/Benchmarking_Llama2,_Mistral,_Gemma_and_GPT_for_Factuality,_Toxicity,_Bias_and_Propensity_for_Hallucinations.md)
+
+    - [翻译: 对 Llama2、Mistral、Gemma 以及 GPT 进行性能评估，主要考察它们在事实准确性、有害内容产生、偏见以及产生幻觉的倾向等多个维度上的表现。](2024年04月15日/Benchmarking_Llama2,_Mistral,_Gemma_and_GPT_for_Factuality,_Toxicity,_Bias_and_Propensity_for_Hallucinations.md)
+
 2024年04月14日
 
 - [Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT](2024年04月14日/Cross-Data_Knowledge_Graph_Construction_for_LLM-enabled_Educational_Question-Answering_System_A~Case~Study~at~HCMUT.md)
@@ -1335,6 +1355,10 @@
 - [Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts](2024年04月14日/Knowledgeable_Agents_by_Offline_Reinforcement_Learning_from_Large_Language_Model_Rollouts.md)
 
     - [翻译: 通过利用大型语言模型的离线强化学习，我们培育出了见多识广的智能代理。](2024年04月14日/Knowledgeable_Agents_by_Offline_Reinforcement_Learning_from_Large_Language_Model_Rollouts.md)
+
+- [Trajeglish: Traffic Modeling as Next-Token Prediction](2024年04月14日/Trajeglish_Traffic_Modeling_as_Next-Token_Prediction.md)
+
+    - [翻译: Trajeglish：视交通建模为继绀令牌预测的艺术](2024年04月14日/Trajeglish_Traffic_Modeling_as_Next-Token_Prediction.md)
 
 2024年04月13日
 
@@ -1353,6 +1377,10 @@
 - [Do LLMs Play Dice? Exploring Probability Distribution Sampling in Large Language Models for Behavioral Simulation](2024年04月13日/Do_LLMs_Play_Dice_Exploring_Probability_Distribution_Sampling_in_Large_Language_Models_for_Behavioral_Simulation.md)
 
     - [翻译: 大型语言模型（LLM）是否遵循随机性原则？本文深入探讨了在这些模型中运用概率分布抽样技术以进行行为模拟的可能性。](2024年04月13日/Do_LLMs_Play_Dice_Exploring_Probability_Distribution_Sampling_in_Large_Language_Models_for_Behavioral_Simulation.md)
+
+- [X-Eval: Generalizable Multi-aspect Text Evaluation via Augmented Instruction Tuning with Auxiliary Evaluation Aspects](2024年04月13日/X-Eval_Generalizable_Multi-aspect_Text_Evaluation_via_Augmented_Instruction_Tuning_with_Auxiliary_Evaluation_Aspects.md)
+
+    - [翻译: X-Eval：一种通过增强指令调整和辅助评估维度，实现文本多方面评估的通用方法。](2024年04月13日/X-Eval_Generalizable_Multi-aspect_Text_Evaluation_via_Augmented_Instruction_Tuning_with_Auxiliary_Evaluation_Aspects.md)
 
 2024年04月12日
 
@@ -1440,8 +1468,18 @@
 
     - [翻译: 概念驱动的大型语言模型（LLM）代理助力人类与AI安全协同设计](2024年04月03日/Concept-Guided_LLM_Agents_for_Human-AI_Safety_Codesign.md)
 
+2024年04月02日
+
+- [METAL: Towards Multilingual Meta-Evaluation](2024年04月02日/METAL_Towards_Multilingual_Meta-Evaluation.md)
+
+    - [翻译: METAL：探索多语言元评估的新境界](2024年04月02日/METAL_Towards_Multilingual_Meta-Evaluation.md)
+
 2024年04月01日
 
 - [Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
 
     - [翻译: 通过融合多模态情感特征与ChatGPT技术，实现对课堂中鼓励与温暖的自动化评估。](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
+
+- [Meta Prompting for AI Systems](2024年04月01日/Meta_Prompting_for_AI_Systems.md)
+
+    - [翻译: 探索元提示技术在人工智能系统中的运用](2024年04月01日/Meta_Prompting_for_AI_Systems.md)
