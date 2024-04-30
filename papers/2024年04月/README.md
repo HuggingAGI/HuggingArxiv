@@ -162,6 +162,26 @@
 
     - [翻译: PromptReps：激发大型语言模型的潜能，为零样本文档检索任务生成既密集又稀疏的表示方法。](2024年04月29日/PromptReps_Prompting_Large_Language_Models_to_Generate_Dense_and_Sparse_Representations_for_Zero-Shot_Document_Retrieval.md)
 
+- [Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty](2024年04月29日/Sample-Efficient_Robust_Multi-Agent_Reinforcement_Learning_in_the_Face_of_Environmental_Uncertainty.md)
+
+    - [翻译: 面对环境的不确定性，本研究提出了一种样本高效且鲁棒的多智能体强化学习方法。](2024年04月29日/Sample-Efficient_Robust_Multi-Agent_Reinforcement_Learning_in_the_Face_of_Environmental_Uncertainty.md)
+
+- [Multi-Agent Synchronization Tasks](2024年04月29日/Multi-Agent_Synchronization_Tasks.md)
+
+    - [翻译: 多智能体同步作业](2024年04月29日/Multi-Agent_Synchronization_Tasks.md)
+
+- [Fast Swarming of UAVs in GNSS-denied Feature-poor Environments without Explicit Communication](2024年04月29日/Fast_Swarming_of_UAVs_in_GNSS-denied_Feature-poor_Environments_without_Explicit_Communication.md)
+
+    - [翻译: 在缺乏全球导航卫星系统信号且特征稀缺的环境中，无人机能够实现无需明确通信的快速集群飞行。](2024年04月29日/Fast_Swarming_of_UAVs_in_GNSS-denied_Feature-poor_Environments_without_Explicit_Communication.md)
+
+- [A geometric approach for stability analysis of delay systems: Applications to network dynamics](2024年04月29日/A_geometric_approach_for_stability_analysis_of_delay_systems_Applications_to_network_dynamics.md)
+
+    - [翻译: 本文介绍了一种新颖的几何方法，用于分析具有延迟的系统的稳定性，并将其应用于网络动态的研究。](2024年04月29日/A_geometric_approach_for_stability_analysis_of_delay_systems_Applications_to_network_dynamics.md)
+
+- [MRIC: Model-Based Reinforcement-Imitation Learning with Mixture-of-Codebooks for Autonomous Driving Simulation](2024年04月29日/MRIC_Model-Based_Reinforcement-Imitation_Learning_with_Mixture-of-Codebooks_for_Autonomous_Driving_Simulation.md)
+
+    - [翻译: MRIC：一种融合码本混合技术的模型驱动强化模仿学习方法，专为自动驾驶模拟设计。](2024年04月29日/MRIC_Model-Based_Reinforcement-Imitation_Learning_with_Mixture-of-Codebooks_for_Autonomous_Driving_Simulation.md)
+
 2024年04月28日
 
 - [Mixture-of-Instructions: Comprehensive Alignment of a Large Language Model through the Mixture of Diverse System Prompting Instructions](2024年04月28日/Mixture-of-Instructions_Comprehensive_Alignment_of_a_Large_Language_Model_through_the_Mixture_of_Diverse_System_Prompting_Instructions.md)
@@ -276,6 +296,26 @@
 
     - [翻译: 低碳物联网领域的生成型人工智能应用](2024年04月28日/Generative_AI_for_Low-Carbon_Artificial_Intelligence_of_Things.md)
 
+- [Using Deep Q-Learning to Dynamically Toggle between Push/Pull Actions in Computational Trust Mechanisms](2024年04月28日/Using_Deep_Q-Learning_to_Dynamically_Toggle_between_PushPull_Actions_in_Computational_Trust_Mechanisms.md)
+
+    - [翻译: 本文探讨了如何利用深度Q-学习技术，在计算信任机制中实现推/拉动作的动态切换。](2024年04月28日/Using_Deep_Q-Learning_to_Dynamically_Toggle_between_PushPull_Actions_in_Computational_Trust_Mechanisms.md)
+
+- [ATR-Mapping: Asymmetric Topological Representation based Mapping Framework for Multi-Robot Environment Exploration](2024年04月28日/ATR-Mapping_Asymmetric_Topological_Representation_based_Mapping_Framework_for_Multi-Robot_Environment_Exploration.md)
+
+    - [翻译: ATR-Mapping：一种创新的非对称拓扑表示映射框架，专为多机器人环境探索而设计。](2024年04月28日/ATR-Mapping_Asymmetric_Topological_Representation_based_Mapping_Framework_for_Multi-Robot_Environment_Exploration.md)
+
+- [ComposerX: Multi-Agent Symbolic Music Composition with LLMs](2024年04月28日/ComposerX_Multi-Agent_Symbolic_Music_Composition_with_LLMs.md)
+
+    - [翻译: ComposerX：借助大型语言模型（LLMs），实现多代理参与的符号化音乐创作。](2024年04月28日/ComposerX_Multi-Agent_Symbolic_Music_Composition_with_LLMs.md)
+
+- [MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot](2024年04月28日/MMAC-Copilot_Multi-modal_Agent_Collaboration_Operating_System_Copilot.md)
+
+    - [翻译: MMAC-Copilot：协同操作系统的多模态代理合作伴侣](2024年04月28日/MMAC-Copilot_Multi-modal_Agent_Collaboration_Operating_System_Copilot.md)
+
+- [Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems](2024年04月28日/Multi-Agent_Reinforcement_Learning_for_Energy_Networks_Computational_Challenges,_Progress_and_Open_Problems.md)
+
+    - [翻译: 多智能体强化学习在能源网络领域的应用面临诸多计算挑战，尽管已有进展，但仍存在一些未解决的问题。](2024年04月28日/Multi-Agent_Reinforcement_Learning_for_Energy_Networks_Computational_Challenges,_Progress_and_Open_Problems.md)
+
 2024年04月27日
 
 - [Efficient LLM Inference with Kcache](2024年04月27日/Efficient_LLM_Inference_with_Kcache.md)
@@ -374,6 +414,14 @@
 
     - [翻译: 医学视觉与语言预训练：探索脑部异常识别](2024年04月27日/Medical_Vision-Language_Pre-Training_for_Brain_Abnormalities.md)
 
+- [Swarm-based gradient descent meets simulated annealing](2024年04月27日/Swarm-based_gradient_descent_meets_simulated_annealing.md)
+
+    - [翻译: 群体梯度下降与模拟退火的结合。](2024年04月27日/Swarm-based_gradient_descent_meets_simulated_annealing.md)
+
+- [VIEW: Visual Imitation Learning with Waypoints](2024年04月27日/VIEW_Visual_Imitation_Learning_with_Waypoints.md)
+
+    - [翻译: VIEW：一种基于关键节点的视觉模仿学习方法](2024年04月27日/VIEW_Visual_Imitation_Learning_with_Waypoints.md)
+
 2024年04月26日
 
 - [Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo](2024年04月26日/Probabilistic_Inference_in_Language_Models_via_Twisted_Sequential_Monte_Carlo.md)
@@ -451,6 +499,22 @@
 - [UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis](2024年04月26日/UMass-BioNLP_at_MEDIQA-M3G_2024_DermPrompt_--_A_Systematic_Exploration_of_Prompt_Engineering_with_GPT-4V_for_Dermatological_Diagnosis.md)
 
     - [翻译: UMass-BioNLP 团队在 2024 年 MEDIQA-M3G 竞赛中推出了 DermPrompt，这是一个针对皮肤科诊断的系统化提示工程探索项目，利用 GPT-4V 技术深入挖掘和优化诊断流程。](2024年04月26日/UMass-BioNLP_at_MEDIQA-M3G_2024_DermPrompt_--_A_Systematic_Exploration_of_Prompt_Engineering_with_GPT-4V_for_Dermatological_Diagnosis.md)
+
+- [Learning Manipulation Tasks in Dynamic and Shared 3D Spaces](2024年04月26日/Learning_Manipulation_Tasks_in_Dynamic_and_Shared_3D_Spaces.md)
+
+    - [翻译: 探索在动态且共享的三维空间里执行操控任务的学习过程。](2024年04月26日/Learning_Manipulation_Tasks_in_Dynamic_and_Shared_3D_Spaces.md)
+
+- [Impact of Traffic-Following on Order of Autonomous Airspace Operations](2024年04月26日/Impact_of_Traffic-Following_on_Order_of_Autonomous_Airspace_Operations.md)
+
+    - [翻译: 交通跟随行为对自动空中管制序列的影响](2024年04月26日/Impact_of_Traffic-Following_on_Order_of_Autonomous_Airspace_Operations.md)
+
+- [Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks](2024年04月26日/Quantum_Multi-Agent_Reinforcement_Learning_for_Aerial_Ad-hoc_Networks.md)
+
+    - [翻译: 本文探讨了量子多智能体强化学习在构建空中临时网络中的应用。](2024年04月26日/Quantum_Multi-Agent_Reinforcement_Learning_for_Aerial_Ad-hoc_Networks.md)
+
+- [A multi-agent model of hierarchical decision dynamics](2024年04月26日/A_multi-agent_model_of_hierarchical_decision_dynamics.md)
+
+    - [翻译: 一个分层决策过程的多智能体模型](2024年04月26日/A_multi-agent_model_of_hierarchical_decision_dynamics.md)
 
 2024年04月25日
 
@@ -674,6 +738,26 @@
 
     - [翻译: 量化感知训练中非对称量化区间的参数化方法](2024年04月25日/How_to_Parameterize_Asymmetric_Quantization_Ranges_for_Quantization-Aware_Training.md)
 
+- [Evaluating Collaborative Autonomy in Opposed Environments using Maritime Capture-the-Flag Competitions](2024年04月25日/Evaluating_Collaborative_Autonomy_in_Opposed_Environments_using_Maritime_Capture-the-Flag_Competitions.md)
+
+    - [翻译: 通过海上“夺旗”竞赛，评估在对抗环境中的协同自主性](2024年04月25日/Evaluating_Collaborative_Autonomy_in_Opposed_Environments_using_Maritime_Capture-the-Flag_Competitions.md)
+
+- [Samsung Research China-Beijing at SemEval-2024 Task 3: A multi-stage framework for Emotion-Cause Pair Extraction in Conversations](2024年04月25日/Samsung_Research_China-Beijing_at_SemEval-2024_Task_3_A_multi-stage_framework_for_Emotion-Cause_Pair_Extraction_in_Conversations.md)
+
+    - [翻译: 三星中国研究院北京分部在 SemEval-2024 竞赛的第三项任务中提出了一种多阶段框架，专门用于在对话中提取情感及其成因的配对。](2024年04月25日/Samsung_Research_China-Beijing_at_SemEval-2024_Task_3_A_multi-stage_framework_for_Emotion-Cause_Pair_Extraction_in_Conversations.md)
+
+- [Neural Interaction Energy for Multi-Agent Trajectory Prediction](2024年04月25日/Neural_Interaction_Energy_for_Multi-Agent_Trajectory_Prediction.md)
+
+    - [翻译: 本文介绍了一种新颖的方法——神经交互能量，用于预测多智能体的行动轨迹。](2024年04月25日/Neural_Interaction_Energy_for_Multi-Agent_Trajectory_Prediction.md)
+
+- [Distributed Matrix Pencil Formulations for Prescribed-Time Leader-Following Consensus of MASs with Unknown Sensor Sensitivity](2024年04月25日/Distributed_Matrix_Pencil_Formulations_for_Prescribed-Time_Leader-Following_Consensus_of_MASs_with_Unknown_Sensor_Sensitivity.md)
+
+    - [翻译: 本文提出了一种分布式矩阵铅笔公式，用于解决多智能体系统（MASs）在未知传感器灵敏度条件下，实现预定时间领导者-跟随者共识的问题。](2024年04月25日/Distributed_Matrix_Pencil_Formulations_for_Prescribed-Time_Leader-Following_Consensus_of_MASs_with_Unknown_Sensor_Sensitivity.md)
+
+- [Optimal and Bounded Suboptimal Any-Angle Multi-agent Pathfinding](2024年04月25日/Optimal_and_Bounded_Suboptimal_Any-Angle_Multi-agent_Pathfinding.md)
+
+    - [翻译: 探索最优与有界次优的多智能体任意角度路径规划](2024年04月25日/Optimal_and_Bounded_Suboptimal_Any-Angle_Multi-agent_Pathfinding.md)
+
 2024年04月24日
 
 - [WorldValuesBench: A Large-Scale Benchmark Dataset for Multi-Cultural Value Awareness of Language Models](2024年04月24日/WorldValuesBench_A_Large-Scale_Benchmark_Dataset_for_Multi-Cultural_Value_Awareness_of_Language_Models.md)
@@ -800,6 +884,14 @@
 
     - [翻译: 针对大型语言模型第三方接口的攻击](2024年04月24日/Attacks_on_Third-Party_APIs_of_Large_Language_Models.md)
 
+- [Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities](2024年04月24日/Scaling_Lifelong_Multi-Agent_Path_Finding_to_More_Realistic_Settings_Research_Challenges_and_Opportunities.md)
+
+    - [翻译: 探索将终身多智能体路径规划技术应用于更贴近现实场景的可能性：面临的研究挑战与机遇并存。](2024年04月24日/Scaling_Lifelong_Multi-Agent_Path_Finding_to_More_Realistic_Settings_Research_Challenges_and_Opportunities.md)
+
+- [Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement](2024年04月24日/Delay-Aware_Multi-Agent_Reinforcement_Learning_for_Cooperative_Adaptive_Cruise_Control_with_Model-based_Stability_Enhancement.md)
+
+    - [翻译: 本文介绍了一种新颖的多智能体强化学习方法，旨在实现具有模型基础稳定性增强功能的合作自适应巡航控制（CACC）。该方法特别关注了通信延迟对系统性能的影响，通过智能体之间的协同学习，优化了在存在延迟情况下的控制策略，从而提高了整体系统的稳定性和响应速度。](2024年04月24日/Delay-Aware_Multi-Agent_Reinforcement_Learning_for_Cooperative_Adaptive_Cruise_Control_with_Model-based_Stability_Enhancement.md)
+
 2024年04月23日
 
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
@@ -874,6 +966,30 @@
 
     - [翻译: 本文综述了以数据为核心的时间序列分析方法，涵盖了样本选择、特征提取和周期划分等关键方面。](2024年04月23日/Review_of_Data-centric_Time_Series_Analysis_from_Sample,_Feature,_and_Period.md)
 
+- [Decentralized Multi-Agent Trajectory Planning in Dynamic Environments with Spatiotemporal Occupancy Grid Maps](2024年04月23日/Decentralized_Multi-Agent_Trajectory_Planning_in_Dynamic_Environments_with_Spatiotemporal_Occupancy_Grid_Maps.md)
+
+    - [翻译: 本文探讨了在动态环境中，利用时空占用网格图进行分散式多智能体的轨迹规划问题。](2024年04月23日/Decentralized_Multi-Agent_Trajectory_Planning_in_Dynamic_Environments_with_Spatiotemporal_Occupancy_Grid_Maps.md)
+
+- [GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL](2024年04月23日/GRSN_Gated_Recurrent_Spiking_Neurons_for_POMDPs_and_MARL.md)
+
+    - [翻译: GRSN：为 POMDP 和 MARL 打造的门控循环脉冲神经网络](2024年04月23日/GRSN_Gated_Recurrent_Spiking_Neurons_for_POMDPs_and_MARL.md)
+
+- [GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots](2024年04月23日/GeoLLM-Engine_A_Realistic_Environment_for_Building_Geospatial_Copilots.md)
+
+    - [翻译: GeoLLM-Engine：打造地理空间领域智能副驾驶的现实平台](2024年04月23日/GeoLLM-Engine_A_Realistic_Environment_for_Building_Geospatial_Copilots.md)
+
+- [Adaptive Mechanism Design using Multi-Agent Revealed Preferences](2024年04月23日/Adaptive_Mechanism_Design_using_Multi-Agent_Revealed_Preferences.md)
+
+    - [翻译: 本文探讨了一种基于多智能体揭示偏好的自适应机制设计方法，旨在优化智能体间的交互和决策过程。](2024年04月23日/Adaptive_Mechanism_Design_using_Multi-Agent_Revealed_Preferences.md)
+
+- [From Space-Time to Space-Order: Directly Planning a Temporal Planning Graph by Redefining CBS](2024年04月23日/From_Space-Time_to_Space-Order_Directly_Planning_a_Temporal_Planning_Graph_by_Redefining_CBS.md)
+
+    - [翻译: 由时空转至时序：重新定义 CBS 以直接构建时间规划图。](2024年04月23日/From_Space-Time_to_Space-Order_Directly_Planning_a_Temporal_Planning_Graph_by_Redefining_CBS.md)
+
+- [Multi-Objective Deep Reinforcement Learning for 5G Base Station Placement to Support Localisation for Future Sustainable Traffic](2024年04月23日/Multi-Objective_Deep_Reinforcement_Learning_for_5G_Base_Station_Placement_to_Support_Localisation_for_Future_Sustainable_Traffic.md)
+
+    - [翻译: 采用多目标深度强化学习方法，优化5G基站布局，以支持未来交通的可持续发展和精确定位。](2024年04月23日/Multi-Objective_Deep_Reinforcement_Learning_for_5G_Base_Station_Placement_to_Support_Localisation_for_Future_Sustainable_Traffic.md)
+
 2024年04月22日
 
 - [Tree of Reviews: A Tree-based Dynamic Iterative Retrieval Framework for Multi-hop Question Answering](2024年04月22日/Tree_of_Reviews_A_Tree-based_Dynamic_Iterative_Retrieval_Framework_for_Multi-hop_Question_Answering.md)
@@ -923,6 +1039,38 @@
 - [AccidentBlip2: Accident Detection With Multi-View MotionBlip2](2024年04月22日/AccidentBlip2_Accident_Detection_With_Multi-View_MotionBlip2.md)
 
     - [翻译: AccidentBlip2：融合多视角 MotionBlip2 技术，精准捕捉事故瞬间](2024年04月22日/AccidentBlip2_Accident_Detection_With_Multi-View_MotionBlip2.md)
+
+- [Adaptive Collaboration Strategy for LLMs in Medical Decision Making](2024年04月22日/Adaptive_Collaboration_Strategy_for_LLMs_in_Medical_Decision_Making.md)
+
+    - [翻译: 在医学决策领域，大型语言模型采用自适应协作策略，以提升决策效率和准确性。](2024年04月22日/Adaptive_Collaboration_Strategy_for_LLMs_in_Medical_Decision_Making.md)
+
+- [Bi-CL: A Reinforcement Learning Framework for Robots Coordination Through Bi-level Optimization](2024年04月22日/Bi-CL_A_Reinforcement_Learning_Framework_for_Robots_Coordination_Through_Bi-level_Optimization.md)
+
+    - [翻译: Bi-CL：一种采用双层优化策略的强化学习框架，旨在提升机器人间的协调能力。](2024年04月22日/Bi-CL_A_Reinforcement_Learning_Framework_for_Robots_Coordination_Through_Bi-level_Optimization.md)
+
+- [Fairness Incentives in Response to Unfair Dynamic Pricing](2024年04月22日/Fairness_Incentives_in_Response_to_Unfair_Dynamic_Pricing.md)
+
+    - [翻译: 面对不公平的动态定价，我们探讨了如何通过激励措施来提升交易的公平性。](2024年04月22日/Fairness_Incentives_in_Response_to_Unfair_Dynamic_Pricing.md)
+
+- [Constrained multi-cluster game: Distributed Nash equilibrium seeking over directed graphs](2024年04月22日/Constrained_multi-cluster_game_Distributed_Nash_equilibrium_seeking_over_directed_graphs.md)
+
+    - [翻译: 受限多集群博弈：在有向图上寻找分布式纳什均衡](2024年04月22日/Constrained_multi-cluster_game_Distributed_Nash_equilibrium_seeking_over_directed_graphs.md)
+
+- [Multi-Agent Hybrid SAC for Joint SS-DSA in CRNs](2024年04月22日/Multi-Agent_Hybrid_SAC_for_Joint_SS-DSA_in_CRNs.md)
+
+    - [翻译: 在认知无线电网络（CRN）中，采用多智能体混合同步优势策略（SAC）进行联合半静态分频指配（SS-DSA）。](2024年04月22日/Multi-Agent_Hybrid_SAC_for_Joint_SS-DSA_in_CRNs.md)
+
+- [Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems](2024年04月22日/Multi-agent_Reinforcement_Learning-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems.md)
+
+    - [翻译: 本文探讨了一种基于多智能体强化学习的方法，用于联合优化 RIS 辅助的无蜂窝大规模 MIMO 系统中的预编码和相位偏移，以提升系统性能。](2024年04月22日/Multi-agent_Reinforcement_Learning-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems.md)
+
+- [Multi-view Disentanglement for Reinforcement Learning with Multiple Cameras](2024年04月22日/Multi-view_Disentanglement_for_Reinforcement_Learning_with_Multiple_Cameras.md)
+
+    - [翻译: 在多摄像头环境下，强化学习中的多视角解耦技术。](2024年04月22日/Multi-view_Disentanglement_for_Reinforcement_Learning_with_Multiple_Cameras.md)
+
+- [Liquid-Graph Time-Constant Network for Multi-Agent Systems Control](2024年04月22日/Liquid-Graph_Time-Constant_Network_for_Multi-Agent_Systems_Control.md)
+
+    - [翻译: 液态图时域常数网络在多智能体系统控制中的应用](2024年04月22日/Liquid-Graph_Time-Constant_Network_for_Multi-Agent_Systems_Control.md)
 
 2024年04月21日
 
@@ -1173,6 +1321,10 @@
 - [Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation](2024年04月15日/Confidence_Calibration_and_Rationalization_for_LLMs_via_Multi-Agent_Deliberation.md)
 
     - [翻译: 通过多智能体协商机制，实现大型语言模型的置信度校准与合理化解释](2024年04月15日/Confidence_Calibration_and_Rationalization_for_LLMs_via_Multi-Agent_Deliberation.md)
+
+- [Measuring Diversity of Game Scenarios](2024年04月15日/Measuring_Diversity_of_Game_Scenarios.md)
+
+    - [翻译: 探索游戏情境的多样性维度](2024年04月15日/Measuring_Diversity_of_Game_Scenarios.md)
 
 2024年04月14日
 
