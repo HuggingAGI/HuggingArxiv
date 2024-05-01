@@ -854,6 +854,13 @@
         "url": "https://arxiv.org/html/2404.19622v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19622/x2.png"
       }
+    ],
+    "abstract_cn": "人类在面对面交流时，不仅通过言语，还通过非言语方式进行沟通。然而，将文本同步转换成语音和伴随的3D手势动作的技术仍处于起步阶段。尽管这类技术有望实现更自然、高效、富有表现力且稳健的人工合成交流，但目前由于缺乏大规模数据集而受限。现有的技术需要依赖所有相关模态的并行数据进行训练。借鉴师生学习方法，我们提出了一种简单有效的解决方案：通过合成额外的训练材料来扩充数据。具体而言，我们利用在大型数据集上训练的单模态合成模型生成多模态但合成的并行训练数据，并在此基础之上预训练一个联合合成模型。此外，我们还提出了一种新的合成架构，它在现有最先进方法的基础上增强了韵律建模的能力，使其更加精准和可控。实验结果表明，利用大量合成数据进行预训练能够显著提升多模态模型合成语音和动作的质量，而新架构在预训练过程中进一步优化了合成效果。更多示例成果，可访问 https://shivammehta25.github.io/MAGI/ 查看。",
+    "title_cn": "以假乱真：借助合成数据填补联合多模态语音及手势合成的数据缺口。",
+    "tags": [
+      "分类：Agent",
+      "人机交互",
+      "人工智能"
     ]
   },
   {
@@ -1960,14 +1967,28 @@
     "submit_datetime": "2024年04月29日",
     "abstract": "Knowledge graphs (KGs) are large datasets with specific structures representing large knowledge bases (KB) where each node represents a key entity and relations amongst them are typed edges. Natural language queries formed to extract information from a KB entail starting from specific nodes and reasoning over multiple edges of the corresponding KG to arrive at the correct set of answer nodes. Traditional approaches of question answering on KG are based on (a) semantic parsing (SP), where a logical form (e.g., S-expression, SPARQL query, etc.) is generated using node and edge embeddings and then reasoning over these representations or tuning language models to generate the final answer directly, or (b) information-retrieval based that works by extracting entities and relations sequentially. In this work, we evaluate the capability of (LLMs) to answer questions over KG that involve multiple hops. We show that depending upon the size and nature of the KG we need different approaches to extract and feed the relevant information to an LLM since every LLM comes with a fixed context window. We evaluate our approach on six KGs with and without the availability of example-specific sub-graphs and show that both the IR and SP-based methods can be adopted by LLMs resulting in an extremely competitive performance.",
     "pdf_link": "https://arxiv.org/abs/2404.19234",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "知识图谱（KGs）是结构化的海量数据集，它们构成了庞大的知识库（KB），每个节点代表一个核心实体，实体间的关系则以类型化的边来表示。要从KB中提取信息，自然语言查询需要从特定节点出发，沿着KG的多条边进行推理，以找到正确的答案节点集。在KG上的问答传统方法包括：（a）语义解析（SP），通过节点和边的嵌入生成逻辑形式（如S表达式、SPARQL查询等），然后在这些表示上进行推理，或调整语言模型以直接生成最终答案；（b）基于信息检索的方法，它通过顺序提取实体和关系来实现。本研究评估了大型语言模型（LLMs）在处理涉及多跳推理的KG问答任务上的能力。我们发现，根据不同KG的规模和特点，我们需要采取不同的策略来提取并向LLM提供相关信息，因为每个LLM都有一个固定的上下文窗口。我们在六个KG上进行了评估，包括有和没有特定子图的示例，结果表明，无论是基于信息检索（IR）还是语义解析（SP）的方法，LLMs都能采纳并展现出极其有竞争力的性能。",
+    "title_cn": "利用大型语言模型，实现在知识图谱上的多步推理问答。",
+    "tags": [
+      "LLM应用",
+      "知识图谱",
+      "问答系统"
+    ]
   },
   {
     "title": "Espresso: Robust Concept Filtering in Text-to-Image Models",
     "submit_datetime": "2024年04月29日",
     "abstract": "Diffusion-based text-to-image (T2I) models generate high-fidelity images for given textual prompts. They are trained on large datasets scraped from the Internet, potentially containing unacceptable concepts (e.g., copyright infringing or unsafe). Retraining T2I models after filtering out unacceptable concepts in the training data is inefficient and degrades utility. Hence, there is a need for concept removal techniques (CRTs) which are effective in removing unacceptable concepts, utility-preserving on acceptable concepts, and robust against evasion with adversarial prompts. None of the prior filtering and fine-tuning CRTs satisfy all these requirements simultaneously.\n  We introduce Espresso, the first robust concept filter based on Contrastive Language-Image Pre-Training (CLIP). It identifies unacceptable concepts by projecting the generated image's embedding onto the vector connecting unacceptable and acceptable concepts in the joint text-image embedding space. This ensures robustness by restricting the adversary to adding noise only along this vector, in the direction of the acceptable concept. Further fine-tuning Espresso to separate embeddings of acceptable and unacceptable concepts, while preserving their pairing with image embeddings, ensures both effectiveness and utility. We evaluate Espresso on eleven concepts to show that it is effective (~5% CLIP accuracy on unacceptable concepts), utility-preserving (~93% normalized CLIP score on acceptable concepts), and robust (~4% CLIP accuracy on adversarial prompts for unacceptable concepts). Finally, we present theoretical bounds for the certified robustness of Espresso against adversarial prompts, and an empirical analysis.",
     "pdf_link": "https://arxiv.org/abs/2404.19227",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "基于扩散原理的文本到图像（T2I）模型能够根据文本提示生成高清晰度的图像，这些模型通常在互联网上搜集的大型数据集上进行训练，但这些数据集可能潜藏不当内容，如侵权或不适宜的内容。在剔除了训练数据中的不当概念后，重新训练T2I模型不仅效率低下，还会影响其功能性。因此，迫切需要一种能够有效移除不当概念、保留适当概念的实用性，并且能够抵御对抗性提示的概念移除技术（CRTs）。目前，尚无现有的过滤和微调CRTs能够完全满足这些需求。我们在此推出Espresso，这是首个基于对比性语言-图像预训练（CLIP）的鲁棒性概念过滤器。Espresso通过将生成图像的嵌入向量投影到联合文本-图像嵌入空间中，连接不可接受与可接受概念的向量上，来辨识出不当概念。这种方法通过限制对手只能在该向量上，朝向可接受概念的方向添加噪声，从而确保了系统的鲁棒性。Espresso进一步经过微调，以区分可接受与不可接受概念的嵌入，同时保持它们与图像嵌入的对应关系，这样既保证了效果也兼顾了实用性。我们在11个概念上对Espresso进行了评估，结果表明其具有高效果（在不可接受概念上的CLIP准确率约为5%），实用性（在可接受概念上的CLIP得分约为93%），以及鲁棒性（在对抗性提示的不可接受概念上的CLIP准确率约为4%）。最后，我们为Espresso面对对抗性提示的认证鲁棒性提供了理论界限，并进行了实证分析。",
+    "title_cn": "Espresso：文本到图像模型中的稳健概念筛选",
+    "tags": [
+      "LLM应用",
+      "图像生成",
+      "内容过滤"
+    ]
   },
   {
     "title": "Transcrib3D: 3D Referring Expression Resolution through Large Language Models",
@@ -2011,6 +2032,13 @@
         "url": "https://arxiv.org/html/2404.19221v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19221/This_door_is_open_and_has_nothing_blocking_it.png"
       }
+    ],
+    "abstract_cn": "为了让机器人与人类协同高效工作，它们必须能够理解其三维环境中物体的自然语言指引。解析三维指示性表达是一项挑战性任务，它不仅需要解析场景的三维结构，还需要在干扰和杂乱的环境中准确理解自由形式的语言。我们推出了Transcrib3D，这是一种融合了三维检测技术和大型语言模型（LLMs）的新兴推理能力的方法。Transcrib3D采用文本作为统一的交互媒介，巧妙地规避了学习多模态输入之间共享表示的需求，这通常需要大量的标注三维数据。在实际效果展示上，Transcrib3D在三维参考解析基准测试中取得了行业领先的成绩，与以往的多模态基准相比，性能有了显著提升。为了进一步提升零样本性能并实现在边缘计算设备和机器人上的本地部署，我们提出了一种自我校正的微调方法，用于训练更小型的模型，使得性能接近大型模型的水平。我们证明了该方法能够使真实机器人在面对包含复杂指示性表达的查询时，成功执行拣选和放置任务。项目详情请访问 https://ripl.github.io/Transcrib3D。",
+    "title_cn": "Transcrib3D：借助大型语言模型，实现三维引用表达的精准解析。",
+    "tags": [
+      "分类：Agent",
+      "机器人技术",
+      ""
     ]
   },
   {
@@ -2018,14 +2046,28 @@
     "submit_datetime": "2024年04月29日",
     "abstract": "In this paper, we establish a benchmark for table visual question answering, referred to as the TableVQA-Bench, derived from pre-existing table question-answering (QA) and table structure recognition datasets. It is important to note that existing datasets have not incorporated images or QA pairs, which are two crucial components of TableVQA. As such, the primary objective of this paper is to obtain these necessary components. Specifically, images are sourced either through the application of a \\textit{stylesheet} or by employing the proposed table rendering system. QA pairs are generated by exploiting the large language model (LLM) where the input is a text-formatted table. Ultimately, the completed TableVQA-Bench comprises 1,500 QA pairs. We comprehensively compare the performance of various multi-modal large language models (MLLMs) on TableVQA-Bench. GPT-4V achieves the highest accuracy among commercial and open-sourced MLLMs from our experiments. Moreover, we discover that the number of vision queries plays a significant role in TableVQA performance. To further analyze the capabilities of MLLMs in comparison to their LLM backbones, we investigate by presenting image-formatted tables to MLLMs and text-formatted tables to LLMs, respectively. Our findings suggest that processing visual inputs is more challenging than text inputs, as evidenced by the lower performance of MLLMs, despite generally requiring higher computational costs than LLMs. The proposed TableVQA-Bench and evaluation codes are available at \\href{https://github.com/naver-ai/tablevqabench}{https://github.com/naver-ai/tablevqabench}.",
     "pdf_link": "https://arxiv.org/abs/2404.19205",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "本文提出了一个名为 TableVQA-Bench 的表格视觉问答基准测试，该基准基于现有的表格问答和结构识别数据集。现有数据集尚未整合图像或问答对，而这两者对于表格视觉问答至关重要。本文旨在补充这些关键元素。图像来源可以是应用样式表或采用我们提出的表格渲染系统。问答对则是通过大型语言模型（LLM）生成，输入为文本格式的表格。构建完成的 TableVQA-Bench 包含了 1,500 组问答对。我们还对多种多模态大型语言模型（MLLMs）在该基准上的表现进行了全面比较，发现 GPT-4V 在商业和开源 MLLMs 中准确度最高。此外，视觉查询的数量对性能有显著影响。为了深入分析 MLLMs 与其基础 LLMs 的能力差异，我们分别向 MLLMs 和 LLMs 展示了图像格式和文本格式的表格。研究结果表明，处理视觉输入相较于文本输入更具挑战性，尽管 MLLMs 通常需要更高的计算资源，但其性能却低于 LLMs。我们提供的 TableVQA-Bench 基准测试和评估代码可在 GitHub 上找到。",
+    "title_cn": "TableVQA-Bench：多表格领域的视觉问答基准测试",
+    "tags": [
+      "LLM应用",
+      "视觉问答",
+      "数据科学"
+    ]
   },
   {
     "title": "PEVA-Net: Prompt-Enhanced View Aggregation Network for Zero/Few-Shot Multi-View 3D Shape Recognition",
     "submit_datetime": "2024年04月29日",
     "abstract": "Large vision-language models have impressively promote the performance of 2D visual recognition under zero/few-shot scenarios. In this paper, we focus on exploiting the large vision-language model, i.e., CLIP, to address zero/few-shot 3D shape recognition based on multi-view representations. The key challenge for both tasks is to generate a discriminative descriptor of the 3D shape represented by multiple view images under the scenarios of either without explicit training (zero-shot 3D shape recognition) or training with a limited number of data (few-shot 3D shape recognition). We analyze that both tasks are relevant and can be considered simultaneously. Specifically, leveraging the descriptor which is effective for zero-shot inference to guide the tuning of the aggregated descriptor under the few-shot training can significantly improve the few-shot learning efficacy. Hence, we propose Prompt-Enhanced View Aggregation Network (PEVA-Net) to simultaneously address zero/few-shot 3D shape recognition. Under the zero-shot scenario, we propose to leverage the prompts built up from candidate categories to enhance the aggregation process of multiple view-associated visual features. The resulting aggregated feature serves for effective zero-shot recognition of the 3D shapes. Under the few-shot scenario, we first exploit a transformer encoder to aggregate the view-associated visual features into a global descriptor. To tune the encoder, together with the main classification loss, we propose a self-distillation scheme via a feature distillation loss by treating the zero-shot descriptor as the guidance signal for the few-shot descriptor. This scheme can significantly enhance the few-shot learning efficacy.",
     "pdf_link": "https://arxiv.org/abs/2404.19168",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "大型视觉-语言模型显著提升了二维视觉识别在零样本/少样本场景下的性能。本文着眼于运用大型视觉-语言模型CLIP，针对基于多视图表示的零样本/少样本三维形状识别进行研究。核心挑战在于生成能够代表三维形状的多视图图像的区分性描述符，无论是在完全没有显式训练（零样本三维形状识别）还是只有少量数据训练（少样本三维形状识别）的情况下。我们发现这两个任务不仅相关，而且可以一并处理。具体而言，利用对零样本推断有效的描述符来指导少样本训练中的聚合描述符的调整，可以有效提升少样本学习的效果。因此，我们提出了增强型视图聚合网络（PEVA-Net），以同时应对零样本/少样本三维形状识别的挑战。在零样本场景下，我们提出利用候选类别构建的提示来增强多视图相关视觉特征的聚合。这样聚合得到的特征能够有效地用于零样本三维形状识别。而在少样本场景下，我们首先使用变换器编码器将视图相关视觉特征整合成全局描述符，并通过自我蒸馏策略，结合零样本描述符作为引导信号，通过特征蒸馏损失来调整编码器，从而显著提升少样本学习的效果。",
+    "title_cn": "PEVA-Net：一种用于零样本或少样本多视角3D形状识别的增强提示视图聚合网络。",
+    "tags": [
+      "分类：LLM应用",
+      "计算机视觉",
+      "机器学习"
+    ]
   },
   {
     "title": "What Drives Performance in Multilingual Language Models?",
@@ -2053,6 +2095,13 @@
         "url": "https://arxiv.org/html/2404.19159v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19159/script.png"
       }
+    ],
+    "abstract_cn": "本研究深入探讨了影响多语言大型语言模型（MLLMs）在多种语言中表现的各种因素。通过对六种不同的MLLMs进行分析，包括掩蔽语言模型、自回归模型和经过指令调整的LLMs，我们利用涵盖204种语言的SIB-200主题分类数据集进行了研究。研究区分了三种不同的语言场景：所有语言、预训练数据中出现过的“已见语言”，以及从未出现或未被记录的“未见语言”。我们评估了预训练数据规模、资源普遍可用性、语言系属和文字类型等因素对模型效能的影响。决策树分析显示，对于“已见语言”，预训练数据的规模是最关键的影响因素。然而，对于“未见语言”，文字类型和语言系属显得尤为重要，这强调了跨语言迁移学习的关键作用。值得注意的一点是，模型的大小和架构并不显著影响识别出的主要特征。这些发现不仅揭示了当前MLLMs的优势和局限，而且为未来更高效、更公平的多语言自然语言处理系统的发展提供了指导。",
+    "title_cn": "驱动多语言语言模型性能的因素是什么？",
+    "tags": [
+      "分类：LLM理论",
+      "",
+      "机器学习"
     ]
   },
   {
@@ -2073,6 +2122,13 @@
         "url": "https://arxiv.org/html/2404.19146v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19146/cased.png"
       }
+    ],
+    "abstract_cn": "知识图谱在问答和智能对话系统等任务中应用广泛，但现有知识图谱在信息细节和即时性上存在不足，尤其在专业研究和快速变化的情境如突发新闻追踪中，这些不足严重影响了知识的检索与分析。为此，我们提出了一个针对特定主题的知识图谱（ThemeKG），并设计了一个无监督的构建框架（TKGCon）。该框架能够从特定主题的原始语料库中提炼出包含关键实体和关系的高质量知识图谱。我们首先利用维基百科中的实体本体作为起点，然后利用大型语言模型（LLMs）探索候选关系，形成关系本体。在处理主题语料库的文档时，我们将实体对与本体映射，筛选出候选关系。最终，结合上下文和本体，我们巩固了实体对之间的关系。我们发现，直接向GPT-4查询特定主题的知识图谱会导致实体识别不准确，关系描述模糊或错误。而我们的模型通过逐步构建主题知识图谱，在准确性上超越了GPT-4。实验结果显示，我们的框架在各项评估中均优于传统知识图谱构建方法。",
+    "title_cn": "自动化构建针对性主题的知识图谱",
+    "tags": [
+      "分类：LLM应用",
+      "问答系统",
+      "知识图谱"
     ]
   },
   {
@@ -2097,6 +2153,13 @@
         "url": "https://arxiv.org/html/2404.19124v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19124/granite_graphs.png"
       }
+    ],
+    "abstract_cn": "本篇技术报告详细介绍了一种创新的推测性解码草案模型的设计与训练过程，目的在于提升大型语言模型在生产环境下的推理效率。我们的方法是通过结合上下文向量和采样标记来训练模型，使其能够高效地预测出高质量的n-gram序列，随后基础模型将决定是否采纳这些预测结果。这一策略显著提升了优化后的基础模型的推理速度，加速比达到了2至3倍。报告中还讨论了初步成果，并对未来的改进方向进行了展望。",
+    "title_cn": "结合令牌与嵌入预测器，我们能够加速大型语言模型的生产流程。",
+    "tags": [
+      "LLM应用",
+      "",
+      "机器学习"
     ]
   },
   {
@@ -2117,6 +2180,13 @@
         "url": "https://arxiv.org/html/2404.19097v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19097/retrieval.png"
       }
+    ],
+    "abstract_cn": "数据可视化是洞察数据集的利器，但要深入挖掘这些洞见，需将宏观目标细化为微观分析任务，这一过程可能因个人数据理解能力和经验的差异而变得颇具挑战。近期，大型语言模型（LLMs）的进展为简化用户执行编码等任务的难度带来了希望。作为数据可视化中常用的基于文本的图像格式，可缩放矢量图形（SVG）与基于变换器的LLMs的文本序列处理能力相得益彰。本文旨在探讨LLMs在SVG可视化基础上执行Amar、Eagan和Stasko定义的微观视觉分析任务的能力。我们利用零次拍摄提示，引导模型根据特定的可视化结果提供反馈或调整SVG代码。研究结果显示，LLMs能够高效地为特定任务（如聚类）修改SVG可视化，但在需要连续数学运算的任务上表现欠佳。此外，我们还发现LLMs的表现受到数据点数量、值标签的有无以及图表类型的不同影响。这些发现不仅为我们评估LLMs的通用能力提供了参考，也突显了进一步探索和发展的必要性，以便更好地发挥它们在视觉分析任务中的辅助作用。",
+    "title_cn": "本文旨在探究大型语言模型在处理SVG数据可视化时，执行基础视觉分析任务的潜力。",
+    "tags": [
+      "LLM应用",
+      "数据可视化",
+      ""
     ]
   },
   {
@@ -2173,6 +2243,13 @@
         "url": "https://arxiv.org/html/2404.19094v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19094/keijzer_seedonly.png"
       }
+    ],
+    "abstract_cn": "符号回归（SR）目标是从一系列经验数据中提炼出相应的数学表达式。目前，基于Transformer的模型在SR领域的性能领先，但大型语言模型（LLMs）在SR中的应用尚未被充分挖掘。本研究探讨了将预训练的LLMs整合到SR流程中，通过迭代优化函数形式，直至预测误差在观测集上达到最小并收敛。我们利用LLMs强大的预训练知识，提出基于观测数据的初始函数集，然后通过模型自身和外部优化器对这些函数及其系数进行迭代细化。在结果令人满意之前，这一过程将持续进行。此外，我们还研究了视觉-语言模型在SR中的表现，特别是通过将图表作为视觉输入来辅助优化过程。研究发现，LLMs在恢复与给定数据相匹配的高质量符号方程方面表现出色，性能超过了基于遗传编程的SR基线，且在输入中加入图像对于解决最复杂的基准测试显示出了积极的成效。",
+    "title_cn": "利用语言模型进行函数发现：探索上下文符号回归。",
+    "tags": [
+      "LLM应用",
+      "科学计算",
+      "自动化设计"
     ]
   },
   {
@@ -2221,6 +2298,13 @@
         "url": "https://arxiv.org/html/2404.19093v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19093/x10.png"
       }
+    ],
+    "abstract_cn": "本研究在线实地实验中，从用户视角出发，探究了运用大型语言模型（LLMs）进行个性化电影推荐的效能。研究结合了受试者间的提示与历史消费评估，以及受试者内的推荐场景评价。通过对160位活跃用户的对话和调查反馈进行分析，我们发现LLMs在推荐解释性上表现出色，但在个性化、多样性和赢得用户信任方面尚有欠缺。研究还发现，不同的个性化提示手法并未显著提升用户对推荐质量的感知，而用户观影数量的多少则更为关键。此外，LLMs在推荐知名度较低或小众电影方面更具优势。通过深入的定性分析，我们揭示了与用户互动体验正负面相关的主要对话模式，并得出结论，提供个性化的背景和实例对于从LLMs获得优质推荐至关重要。",
+    "title_cn": "大型语言模型：对话式电影推荐的用户研究",
+    "tags": [
+      "LLM应用",
+      "",
+      "个性化推荐"
     ]
   },
   {
@@ -2228,7 +2312,14 @@
     "submit_datetime": "2024年04月29日",
     "abstract": "Recent research on instructable agents has used memory-augmented Large Language Models (LLMs) as task planners, a technique that retrieves language-program examples relevant to the input instruction and uses them as in-context examples in the LLM prompt to improve the performance of the LLM in inferring the correct action and task plans. In this technical report, we extend the capabilities of HELPER, by expanding its memory with a wider array of examples and prompts, and by integrating additional APIs for asking questions. This simple expansion of HELPER into a shared memory enables the agent to work across the domains of executing plans from dialogue, natural language instruction following, active question asking, and commonsense room reorganization. We evaluate the agent on four diverse interactive visual-language embodied agent benchmarks: ALFRED, TEACh, DialFRED, and the Tidy Task. HELPER-X achieves few-shot, state-of-the-art performance across these benchmarks using a single agent, without requiring in-domain training, and remains competitive with agents that have undergone in-domain training.",
     "pdf_link": "https://arxiv.org/abs/2404.19065",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "最新研究利用具备增强记忆功能的大型语言模型（LLMs）作为任务规划器，通过检索与输入指令紧密相关的语言程序实例，并将其作为上下文示例嵌入LLM的提示中，从而提升了LLM在推导正确行动和任务规划方面的性能。本技术报告进一步扩展了HELPER的功能，不仅扩充了其记忆库，加入了更多样的示例和提示，还整合了更多API以支持提问。这一扩展使得HELPER能够在多个领域内发挥作用，包括从对话中执行计划、遵循自然语言指令、主动提问以及基于常识的房间重组。我们在四个多样化的交互式视觉-语言体现代理基准测试中对代理进行了评估：ALFRED、TEACh、DialFRED和Tidy Task。HELPER-X在这些测试中展现了少量样本学习下的顶尖性能，且无需特定领域训练即可与经过领域训练的代理相媲美。",
+    "title_cn": "HELPER-X：一款集成的可指导实体代理，搭载记忆增强型语言模型，旨在攻克四大交互式视觉-语言领域的挑战。",
+    "tags": [
+      "Agent",
+      "人工智能",
+      "任务规划"
+    ]
   },
   {
     "title": "SuperCLUE-Fin: Graded Fine-Grained Analysis of Chinese LLMs on Diverse Financial Tasks and Applications",
@@ -2260,6 +2351,13 @@
         "url": "https://arxiv.org/html/2404.19063v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19063/x6.png"
       }
+    ],
+    "abstract_cn": "SuperCLUE-Fin（SC-Fin）基准框架，专为中文金融领域的大型语言模型（FLMs）量身打造，涵盖了六大金融应用领域和二十五项专业任务，包括合规、风险管理和投资分析等理论与实践相结合的应用。该框架通过模拟真实情境的多轮开放式对话，对模型进行多维度评估，包括金融知识理解、逻辑推理、表达清晰度、计算效率、商业洞察力、风险意识及遵守中国法规等。在一项包含逾千题的严格评估中，SC-Fin揭示了性能排名，国内模型如GLM-4和MoonShot-v1-128k以A级成绩领先，显示了将理论知识转化为实际金融解决方案的巨大潜力。此基准工具对于在中国金融背景下优化FLMs、提升金融知识库、统一金融解释标准以及推动模型在合规、风险管理和安全实践方面的优先发展至关重要。我们构建了这一全面且具针对性的基准，旨在推动中国金融领域人工智能的发展。SC-Fin不仅促进了FLMs的进步和负责任的应用，还为提升模型在中国市场的个人和机构用户的性能和可用性提供了深刻见解。~\\footnote{更多关于我们的基准信息，请访问 \\url{https://www.CLUEbenchmarks.com}}。",
+    "title_cn": "SuperCLUE-Fin：深入剖析中国大型语言模型在多元金融任务及应用中的细致分级表现。",
+    "tags": [
+      "LLM应用",
+      "",
+      "人工智能"
     ]
   },
   {
@@ -2267,7 +2365,14 @@
     "submit_datetime": "2024年04月29日",
     "abstract": "While language models (LMs) offer significant capability in zero-shot reasoning tasks across a wide range of domains, they do not perform satisfactorily in problems which requires multi-step reasoning. Previous approaches to mitigate this involves breaking a larger, multi-step task into sub-tasks and asking the language model to generate proposals (\"thoughts\") for each sub-task and using exhaustive planning approaches such as DFS to compose a solution. In this work, we leverage this idea to introduce two new contributions: first, we formalize a planning-based approach to perform multi-step problem solving with LMs via Partially Observable Markov Decision Processes (POMDPs), with the LM's own reflections about the value of a state used as a search heuristic; second, leveraging the online POMDP solver POMCP, we demonstrate a superior success rate of 89.4% on the Game of 24 task as compared to existing approaches while also offering better anytime performance characteristics than fixed tree-search which is used previously. Taken together, these contributions allow modern LMs to decompose and solve larger-scale reasoning tasks more effectively.",
     "pdf_link": "https://arxiv.org/abs/2404.19055",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "语言模型在众多领域的零样本推理任务中展现出强大的能力，但面对需要连续推理的问题时，它们的表现尚有不足。传统解决方案是将复杂任务拆解为多个子任务，让语言模型为每个子任务提出方案，并采用深度优先搜索等策略来整合答案。本研究在此基础上提出了两项创新：一是将基于规划的方法应用于LMs的多步问题解决，通过部分可观测马尔可夫决策过程（POMDPs），并以LM对状态价值的自我评估作为搜索策略；二是借助在线POMDP求解器POMCP，在24点游戏中实现了89.4%的高解决率，超越了现有技术，并在随时性能上优于以往的固定树搜索方法。这些贡献使得现代语言模型能够更高效地分解和处理更复杂的推理任务。",
+    "title_cn": "思维蓝图：借助大型语言模型实现启发式问题解决策略",
+    "tags": [
+      "分类：LLM应用\n\n这篇论文讨论了语言模型在零样本推理任务中的应用，特别是针对需要连续推理的问题。作者提出了一种基于规划的方法，通过部分可观测马尔可夫决策过程（POMDPs）和在线POMDP求解器POMCP来提高语言模型在复杂推理任务中的表现。这篇论文的研究重点在于提高语言模型在特定任务上的应用效果，因此可以归类为LLM应用。",
+      "人工智能",
+      ""
+    ]
   },
   {
     "title": "A Framework for Real-time Safeguarding the Text Generation of Large Language",
@@ -2287,6 +2392,13 @@
         "url": "https://arxiv.org/html/2404.19048v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19048/x3.png"
       }
+    ],
+    "abstract_cn": "大型语言模型（LLMs）在自然语言处理（NLP）领域取得了显著进步，但同时也因其可能产生有害内容而引发伦理和社会责任问题。为应对这一挑战，已开发出多种方法来防止LLMs生成危险内容。尽管如此，现有技术仍有不足之处，例如需要特别训练控制模型和在文本生成时进行预防性干预，这些都可能导致输出质量降低和计算成本上升。针对这些限制，我们设计了LLMSafeGuard——一个轻量级的实时文本生成保护框架。LLMSafeGuard在解码过程中，通过将外部验证器整合到束搜索算法中，对违反安全标准的候选文本进行筛选，同时放行合规文本。我们提出了一种基于相似度的验证方法，简化了安全约束的设置，并且避免了控制模型的训练需求。此外，LLMSafeGuard还采用了一种上下文感知的时机选择策略，仅在必要时对LLMs进行干预。我们在文本净化和版权保护两个任务上对LLMSafeGuard进行了评估，结果表明其性能超越了现有的最先进基线。例如，在文本净化任务中，LLMSafeGuard将LLM输出的平均有害性评分降低了29.7%，与自然输出的语言质量不相上下。在版权保护任务中，LLMSafeGuard将最长公共子序列（LCS）的比率降低了56.2%。同时，我们的上下文感知时机选择策略至少减少了24%的推理时间，而有效性却不打折扣。LLMSafeGuard还提供了可调节参数，以便在有效性和效率之间取得平衡。",
+    "title_cn": "构建了一个实时保障大型语言模型文本生成安全的框架。",
+    "tags": [
+      "LLM应用",
+      "",
+      "伦理合规"
     ]
   },
   {
@@ -2331,6 +2443,13 @@
         "url": "https://arxiv.org/html/2404.19024v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19024/case00_a.png"
       }
+    ],
+    "abstract_cn": "文档作为承载书面交流的二维平台，解读它们需融合文本与视觉信息，采取多模态策略。正因如此，文档视觉问答（Document VQA）在文档理解与自然语言处理领域备受关注。尽管现有的单页文档 VQA 技术表现出色，但在处理多页文档时却力有未逮，常需将多页合并为一，以适应处理需求，这对 GPU 资源的消耗甚大。本研究提出了一种创新的多页文档 VQA 方法和高效的训练策略。我们引入了一种视觉主导的文档表达方式，借助文档理解模型 Pix2Struct 中的编码器，并通过自注意力机制为文档各页打分，筛选出关键页面。这种方法让我们得以在评估时不受页面数量限制地将单页模型扩展至多页场景，同时大幅降低了对 GPU 资源的依赖。实验结果表明，我们的方法不仅在无需光学字符识别（OCR）的情况下达到了业界领先水平，而且在处理接近 800 页的文档时仍能保持性能，远超 MP-DocVQA 数据集中最多 20 页的极限。相关代码已在 \\url{https://github.com/leitro/SelfAttnScoring-MPDocVQA} 上开源。",
+    "title_cn": "利用自注意力评分机制进行多页文档的视觉问答解答",
+    "tags": [
+      "分类：Agent",
+      "文档理解",
+      ""
     ]
   },
   {
@@ -2371,6 +2490,13 @@
         "url": "https://arxiv.org/html/2404.18978v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.18978/conversation.png"
       }
+    ],
+    "abstract_cn": "教育领域内，人们越来越关注开发学习者模型以提升学习和教学体验。但目前的研究多集中于结构化环境，依赖于精心设计的任务表示，这限制了智能体跨任务泛化技能的能力。本文旨在通过融合强化学习（RL）与大型语言模型（LLMs），提升智能体在开放性文本学习环境中的泛化能力。我们探讨了三种智能体：（i）利用自然语言进行状态和动作表示的RL型智能体，寻找最佳互动策略；（ii）通过提示运用模型的通用知识和推理的LLM型智能体；（iii）结合这两种策略以提升性能和泛化能力的混合LLM辅助RL型智能体。为促进这些智能体的发展和评估，我们提出了PharmaSimText，这是一个新的基准测试，源自用于练习诊断对话的PharmaSim虚拟药房环境。研究结果显示，RL型智能体在任务完成方面表现优异，但在提出高质量诊断问题上有所欠缺。而LLM型智能体在提出诊断问题上表现更佳，但完成任务的能力不足。最终，混合LLM辅助RL型智能体使我们能够突破这些局限，展现了结合RL与LLMs以开发开放式学习环境高性能智能体的巨大潜力。",
+    "title_cn": "探索文本教育环境中的通用化智能体：研究强化学习与大型语言模型融合的实践",
+    "tags": [
+      "Agent",
+      "",
+      "人工智能"
     ]
   },
   {
@@ -2378,14 +2504,28 @@
     "submit_datetime": "2024年04月29日",
     "abstract": "Building multisensory AI systems that learn from multiple sensory inputs such as text, speech, video, real-world sensors, wearable devices, and medical data holds great promise for impact in many scientific areas with practical benefits, such as in supporting human health and well-being, enabling multimedia content processing, and enhancing real-world autonomous agents. By synthesizing a range of theoretical frameworks and application domains, this thesis aims to advance the machine learning foundations of multisensory AI. In the first part, we present a theoretical framework formalizing how modalities interact with each other to give rise to new information for a task. These interactions are the basic building blocks in all multimodal problems, and their quantification enables users to understand their multimodal datasets, design principled approaches to learn these interactions, and analyze whether their model has succeeded in learning. In the second part, we study the design of practical multimodal foundation models that generalize over many modalities and tasks, which presents a step toward grounding large language models to real-world sensory modalities. We introduce MultiBench, a unified large-scale benchmark across a wide range of modalities, tasks, and research areas, followed by the cross-modal attention and multimodal transformer architectures that now underpin many of today's multimodal foundation models. Scaling these architectures on MultiBench enables the creation of general-purpose multisensory AI systems, and we discuss our collaborative efforts in applying these models for real-world impact in affective computing, mental health, cancer prognosis, and robotics. Finally, we conclude this thesis by discussing how future work can leverage these ideas toward more general, interactive, and safe multisensory AI.",
     "pdf_link": "https://arxiv.org/abs/2404.18976",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "本研究致力于开发能够整合文本、语音、视频、传感器数据等多种感官信息的多感官人工智能系统，这些系统在促进人类健康、处理多媒体内容以及提升自主智能体性能等多个科学领域具有重要应用价值。本文首先构建了一个理论框架，阐释了不同感官模态如何相互交互以生成新信息，这些交互是解决多模态问题的关键，有助于深入理解数据集、设计学习交互的方法，并评估模型学习效果。接着，研究了一种实用的多模态基础模型，它能够跨越多种感官和任务，为大型语言模型与现实世界感官模态的结合提供了新途径。我们提出了MultiBench，一个覆盖广泛模态、任务和研究领域的大规模统一基准，以及支撑当前许多多模态基础模型的跨模态注意力和多模态变换器架构。通过在MultiBench上扩展这些架构，我们能够构建出通用的多感官AI系统，并探讨了如何将这些模型应用于情感计算、心理健康、癌症预后和机器人技术等领域，以实现现实世界的影响。最后，论文以讨论如何利用这些研究成果推动多感官AI向更通用、互动和安全方向发展作为结尾。",
+    "title_cn": "多感官人工智能之基石",
+    "tags": [
+      "分类：Agent",
+      "人工智能",
+      "多模态交互"
+    ]
   },
   {
     "title": "The Convergence of AI and Synthetic Biology: The Looming Deluge",
     "submit_datetime": "2024年04月29日",
     "abstract": "The convergence of artificial intelligence (AI) and synthetic biology is rapidly accelerating the pace of biological discovery and engineering. AI techniques, such as large language models and biological design tools, are enabling the automated design, build, test, and learning cycles for engineered biological systems. This convergence promises to democratize synthetic biology and unlock novel applications across domains from medicine to environmental sustainability. However, it also poses significant risks around reliability, dual use, and governance. The opacity of AI models, the deskilling of workforces, and the outdated nature of current regulatory frameworks present challenges in ensuring responsible development. Urgent attention is needed to update governance structures, integrate human oversight into increasingly automated workflows, and foster a culture of responsibility among the growing community of bioengineers. Only by proactively addressing these issues can we realize the transformative potential of AI-driven synthetic biology while mitigating its risks.",
     "pdf_link": "https://arxiv.org/abs/2404.18973",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "AI与合成生物学的结合正推动生物探索和工程领域飞速发展。借助大型语言模型和生物设计工具等AI技术，我们能够自动化地设计、构建、测试并学习工程生物系统。这一趋势预示着合成生物学的普及化，并将在医疗、环保等多个领域带来创新应用。但同时，它也引发了一系列关于可靠性、双重用途和治理的重大风险。AI模型的不透明性、劳动力技能降低以及现行监管框架的不适应性，都对负责任的技术开发构成了挑战。迫切需要对治理结构进行更新，将人工监督融入日益自动化的工作流程，并在生物工程领域培养起责任感。唯有积极应对这些挑战，我们才能在降低风险的同时，充分挖掘AI驱动合成生物学的变革性潜力。",
+    "title_cn": "人工智能与合成生物学的结合：迫在眉睫的洪流。",
+    "tags": [
+      "分类：Agent\n\n这篇论文讨论了AI技术，特别是大型语言模型在合成生物学领域的应用，以及这些技术带来的挑战和风险。它涉及到AI代理（Agent）在自动化设计、构建、测试和学习工程生物系统方面的作用，以及对这些代理进行治理和监管的必要性。因此，这篇论文最符合Agent分类。",
+      "合成生物学",
+      "人工智能"
+    ]
   },
   {
     "title": "GRAMMAR: Grounded and Modular Evaluation of Domain-Specific Retrieval-Augmented Language Models",
@@ -2409,6 +2549,13 @@
         "url": "https://arxiv.org/html/2404.19232v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2404.19232/db_schema_aurp_no_location.png"
       }
+    ],
+    "abstract_cn": "检索增强生成（RAG）系统在各行业被广泛研究和应用，主要针对特定领域的知识库查询。但评估这些系统时，由于缺乏特定领域的查询和真实答案，以及缺少系统化诊断失败原因的方法，面临不少挑战。为此，我们提出了GRAMMAR（一种评估RAG的有根据且模块化的方法），它包含两个核心部分：首先是一个数据生成流程，它结合关系数据库和大型语言模型（LLMs）来高效产出可扩展的查询-答案对，这种方法有助于将查询逻辑与语言变化分离，从而提升调试效率；其次是一个评估框架，它能够区分知识缺陷和系统鲁棒性问题，并识别出有问题的模块。我们的实证研究结果揭示了现有无参照评估方法的不足，并证明了GRAMMAR在准确识别模型弱点方面的可靠性。",
+    "title_cn": "《语法：领域特定检索增强语言模型的实证与模块化评估》",
+    "tags": [
+      "RAG",
+      "数据库管理",
+      "人工智能"
     ]
   },
   {
