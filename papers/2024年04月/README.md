@@ -132,7 +132,7 @@
 
 - [Fake it to make it: Using synthetic data to remedy the data shortage in joint multimodal speech-and-gesture synthesis](2024年04月30日/Fake_it_to_make_it_Using_synthetic_data_to_remedy_the_data_shortage_in_joint_multimodal_speech-and-gesture_synthesis.md)
 
-    - [翻译: ](2024年04月30日/Fake_it_to_make_it_Using_synthetic_data_to_remedy_the_data_shortage_in_joint_multimodal_speech-and-gesture_synthesis.md)
+    - [翻译: 以假乱真：借助合成数据填补联合多模态语音及手势合成的数据缺口。](2024年04月30日/Fake_it_to_make_it_Using_synthetic_data_to_remedy_the_data_shortage_in_joint_multimodal_speech-and-gesture_synthesis.md)
 
 2024年04月29日
 
@@ -318,83 +318,83 @@
 
 - [Multi-hop Question Answering over Knowledge Graphs using Large Language Models](2024年04月29日/Multi-hop_Question_Answering_over_Knowledge_Graphs_using_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月29日/Multi-hop_Question_Answering_over_Knowledge_Graphs_using_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型，实现在知识图谱上的多步推理问答。](2024年04月29日/Multi-hop_Question_Answering_over_Knowledge_Graphs_using_Large_Language_Models.md)
 
 - [Espresso: Robust Concept Filtering in Text-to-Image Models](2024年04月29日/Espresso_Robust_Concept_Filtering_in_Text-to-Image_Models.md)
 
-    - [翻译: ](2024年04月29日/Espresso_Robust_Concept_Filtering_in_Text-to-Image_Models.md)
+    - [翻译: Espresso：文本到图像模型中的稳健概念筛选](2024年04月29日/Espresso_Robust_Concept_Filtering_in_Text-to-Image_Models.md)
 
 - [Transcrib3D: 3D Referring Expression Resolution through Large Language Models](2024年04月29日/Transcrib3D_3D_Referring_Expression_Resolution_through_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月29日/Transcrib3D_3D_Referring_Expression_Resolution_through_Large_Language_Models.md)
+    - [翻译: Transcrib3D：借助大型语言模型，实现三维引用表达的精准解析。](2024年04月29日/Transcrib3D_3D_Referring_Expression_Resolution_through_Large_Language_Models.md)
 
 - [TableVQA-Bench: A Visual Question Answering Benchmark on Multiple Table Domains](2024年04月29日/TableVQA-Bench_A_Visual_Question_Answering_Benchmark_on_Multiple_Table_Domains.md)
 
-    - [翻译: ](2024年04月29日/TableVQA-Bench_A_Visual_Question_Answering_Benchmark_on_Multiple_Table_Domains.md)
+    - [翻译: TableVQA-Bench：多表格领域的视觉问答基准测试](2024年04月29日/TableVQA-Bench_A_Visual_Question_Answering_Benchmark_on_Multiple_Table_Domains.md)
 
 - [PEVA-Net: Prompt-Enhanced View Aggregation Network for Zero/Few-Shot Multi-View 3D Shape Recognition](2024年04月29日/PEVA-Net_Prompt-Enhanced_View_Aggregation_Network_for_ZeroFew-Shot_Multi-View_3D_Shape_Recognition.md)
 
-    - [翻译: ](2024年04月29日/PEVA-Net_Prompt-Enhanced_View_Aggregation_Network_for_ZeroFew-Shot_Multi-View_3D_Shape_Recognition.md)
+    - [翻译: PEVA-Net：一种用于零样本或少样本多视角3D形状识别的增强提示视图聚合网络。](2024年04月29日/PEVA-Net_Prompt-Enhanced_View_Aggregation_Network_for_ZeroFew-Shot_Multi-View_3D_Shape_Recognition.md)
 
 - [What Drives Performance in Multilingual Language Models?](2024年04月29日/What_Drives_Performance_in_Multilingual_Language_Models.md)
 
-    - [翻译: ](2024年04月29日/What_Drives_Performance_in_Multilingual_Language_Models.md)
+    - [翻译: 驱动多语言语言模型性能的因素是什么？](2024年04月29日/What_Drives_Performance_in_Multilingual_Language_Models.md)
 
 - [Automated Construction of Theme-specific Knowledge Graphs](2024年04月29日/Automated_Construction_of_Theme-specific_Knowledge_Graphs.md)
 
-    - [翻译: ](2024年04月29日/Automated_Construction_of_Theme-specific_Knowledge_Graphs.md)
+    - [翻译: 自动化构建针对性主题的知识图谱](2024年04月29日/Automated_Construction_of_Theme-specific_Knowledge_Graphs.md)
 
 - [Accelerating Production LLMs with Combined Token/Embedding Speculators](2024年04月29日/Accelerating_Production_LLMs_with_Combined_TokenEmbedding_Speculators.md)
 
-    - [翻译: ](2024年04月29日/Accelerating_Production_LLMs_with_Combined_TokenEmbedding_Speculators.md)
+    - [翻译: 结合令牌与嵌入预测器，我们能够加速大型语言模型的生产流程。](2024年04月29日/Accelerating_Production_LLMs_with_Combined_TokenEmbedding_Speculators.md)
 
 - [Exploring the Capability of LLMs in Performing Low-Level Visual Analytic Tasks on SVG Data Visualizations](2024年04月29日/Exploring_the_Capability_of_LLMs_in_Performing_Low-Level_Visual_Analytic_Tasks_on_SVG_Data_Visualizations.md)
 
-    - [翻译: ](2024年04月29日/Exploring_the_Capability_of_LLMs_in_Performing_Low-Level_Visual_Analytic_Tasks_on_SVG_Data_Visualizations.md)
+    - [翻译: 本文旨在探究大型语言模型在处理SVG数据可视化时，执行基础视觉分析任务的潜力。](2024年04月29日/Exploring_the_Capability_of_LLMs_in_Performing_Low-Level_Visual_Analytic_Tasks_on_SVG_Data_Visualizations.md)
 
 - [In-Context Symbolic Regression: Leveraging Language Models for Function Discovery](2024年04月29日/In-Context_Symbolic_Regression_Leveraging_Language_Models_for_Function_Discovery.md)
 
-    - [翻译: ](2024年04月29日/In-Context_Symbolic_Regression_Leveraging_Language_Models_for_Function_Discovery.md)
+    - [翻译: 利用语言模型进行函数发现：探索上下文符号回归。](2024年04月29日/In-Context_Symbolic_Regression_Leveraging_Language_Models_for_Function_Discovery.md)
 
 - [Large Language Models as Conversational Movie Recommenders: A User Study](2024年04月29日/Large_Language_Models_as_Conversational_Movie_Recommenders_A_User_Study.md)
 
-    - [翻译: ](2024年04月29日/Large_Language_Models_as_Conversational_Movie_Recommenders_A_User_Study.md)
+    - [翻译: 大型语言模型：对话式电影推荐的用户研究](2024年04月29日/Large_Language_Models_as_Conversational_Movie_Recommenders_A_User_Study.md)
 
 - [HELPER-X: A Unified Instructable Embodied Agent to Tackle Four Interactive Vision-Language Domains with Memory-Augmented Language Models](2024年04月29日/HELPER-X_A_Unified_Instructable_Embodied_Agent_to_Tackle_Four_Interactive_Vision-Language_Domains_with_Memory-Augmented_Language_Models.md)
 
-    - [翻译: ](2024年04月29日/HELPER-X_A_Unified_Instructable_Embodied_Agent_to_Tackle_Four_Interactive_Vision-Language_Domains_with_Memory-Augmented_Language_Models.md)
+    - [翻译: HELPER-X：一款集成的可指导实体代理，搭载记忆增强型语言模型，旨在攻克四大交互式视觉-语言领域的挑战。](2024年04月29日/HELPER-X_A_Unified_Instructable_Embodied_Agent_to_Tackle_Four_Interactive_Vision-Language_Domains_with_Memory-Augmented_Language_Models.md)
 
 - [SuperCLUE-Fin: Graded Fine-Grained Analysis of Chinese LLMs on Diverse Financial Tasks and Applications](2024年04月29日/SuperCLUE-Fin_Graded_Fine-Grained_Analysis_of_Chinese_LLMs_on_Diverse_Financial_Tasks_and_Applications.md)
 
-    - [翻译: ](2024年04月29日/SuperCLUE-Fin_Graded_Fine-Grained_Analysis_of_Chinese_LLMs_on_Diverse_Financial_Tasks_and_Applications.md)
+    - [翻译: SuperCLUE-Fin：深入剖析中国大型语言模型在多元金融任务及应用中的细致分级表现。](2024年04月29日/SuperCLUE-Fin_Graded_Fine-Grained_Analysis_of_Chinese_LLMs_on_Diverse_Financial_Tasks_and_Applications.md)
 
 - [Plan of Thoughts: Heuristic-Guided Problem Solving with Large Language Models](2024年04月29日/Plan_of_Thoughts_Heuristic-Guided_Problem_Solving_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月29日/Plan_of_Thoughts_Heuristic-Guided_Problem_Solving_with_Large_Language_Models.md)
+    - [翻译: 思维蓝图：借助大型语言模型实现启发式问题解决策略](2024年04月29日/Plan_of_Thoughts_Heuristic-Guided_Problem_Solving_with_Large_Language_Models.md)
 
 - [A Framework for Real-time Safeguarding the Text Generation of Large Language](2024年04月29日/A_Framework_for_Real-time_Safeguarding_the_Text_Generation_of_Large_Language.md)
 
-    - [翻译: ](2024年04月29日/A_Framework_for_Real-time_Safeguarding_the_Text_Generation_of_Large_Language.md)
+    - [翻译: 构建了一个实时保障大型语言模型文本生成安全的框架。](2024年04月29日/A_Framework_for_Real-time_Safeguarding_the_Text_Generation_of_Large_Language.md)
 
 - [Multi-Page Document Visual Question Answering using Self-Attention Scoring Mechanism](2024年04月29日/Multi-Page_Document_Visual_Question_Answering_using_Self-Attention_Scoring_Mechanism.md)
 
-    - [翻译: ](2024年04月29日/Multi-Page_Document_Visual_Question_Answering_using_Self-Attention_Scoring_Mechanism.md)
+    - [翻译: 利用自注意力评分机制进行多页文档的视觉问答解答](2024年04月29日/Multi-Page_Document_Visual_Question_Answering_using_Self-Attention_Scoring_Mechanism.md)
 
 - [Towards Generalizable Agents in Text-Based Educational Environments: A Study of Integrating RL with LLMs](2024年04月29日/Towards_Generalizable_Agents_in_Text-Based_Educational_Environments_A_Study_of_Integrating_RL_with_LLMs.md)
 
-    - [翻译: ](2024年04月29日/Towards_Generalizable_Agents_in_Text-Based_Educational_Environments_A_Study_of_Integrating_RL_with_LLMs.md)
+    - [翻译: 探索文本教育环境中的通用化智能体：研究强化学习与大型语言模型融合的实践](2024年04月29日/Towards_Generalizable_Agents_in_Text-Based_Educational_Environments_A_Study_of_Integrating_RL_with_LLMs.md)
 
 - [Foundations of Multisensory Artificial Intelligence](2024年04月29日/Foundations_of_Multisensory_Artificial_Intelligence.md)
 
-    - [翻译: ](2024年04月29日/Foundations_of_Multisensory_Artificial_Intelligence.md)
+    - [翻译: 多感官人工智能之基石](2024年04月29日/Foundations_of_Multisensory_Artificial_Intelligence.md)
 
 - [The Convergence of AI and Synthetic Biology: The Looming Deluge](2024年04月29日/The_Convergence_of_AI_and_Synthetic_Biology_The_Looming_Deluge.md)
 
-    - [翻译: ](2024年04月29日/The_Convergence_of_AI_and_Synthetic_Biology_The_Looming_Deluge.md)
+    - [翻译: 人工智能与合成生物学的结合：迫在眉睫的洪流。](2024年04月29日/The_Convergence_of_AI_and_Synthetic_Biology_The_Looming_Deluge.md)
 
 - [GRAMMAR: Grounded and Modular Evaluation of Domain-Specific Retrieval-Augmented Language Models](2024年04月29日/GRAMMAR_Grounded_and_Modular_Evaluation_of_Domain-Specific_Retrieval-Augmented_Language_Models.md)
 
-    - [翻译: ](2024年04月29日/GRAMMAR_Grounded_and_Modular_Evaluation_of_Domain-Specific_Retrieval-Augmented_Language_Models.md)
+    - [翻译: 《语法：领域特定检索增强语言模型的实证与模块化评估》](2024年04月29日/GRAMMAR_Grounded_and_Modular_Evaluation_of_Domain-Specific_Retrieval-Augmented_Language_Models.md)
 
 2024年04月28日
 
