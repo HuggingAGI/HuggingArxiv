@@ -200,7 +200,7 @@
 
 - [Creative Beam Search](2024年04月30日/Creative_Beam_Search.md)
 
-    - [翻译: 创意束搜索是一种新颖的搜索策略，它在保持搜索效率的同时，增加了结果的多样性和创新性。](2024年04月30日/Creative_Beam_Search.md)
+    - [翻译: 创意束搜索](2024年04月30日/Creative_Beam_Search.md)
 
 2024年04月29日
 
