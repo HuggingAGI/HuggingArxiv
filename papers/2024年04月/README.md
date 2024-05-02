@@ -134,6 +134,74 @@
 
     - [翻译: 以假乱真：借助合成数据填补联合多模态语音及手势合成的数据缺口。](2024年04月30日/Fake_it_to_make_it_Using_synthetic_data_to_remedy_the_data_shortage_in_joint_multimodal_speech-and-gesture_synthesis.md)
 
+- [Generating Feedback-Ladders for Logical Errors in Programming using Large Language Models](2024年04月30日/Generating_Feedback-Ladders_for_Logical_Errors_in_Programming_using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型为编程中的逻辑错误构建反馈梯度。](2024年04月30日/Generating_Feedback-Ladders_for_Logical_Errors_in_Programming_using_Large_Language_Models.md)
+
+- [LITO: Learnable Intervention for Truthfulness Optimization](2024年04月30日/LITO_Learnable_Intervention_for_Truthfulness_Optimization.md)
+
+    - [翻译: LITO：为真实性优化而设计的可学习干预机制](2024年04月30日/LITO_Learnable_Intervention_for_Truthfulness_Optimization.md)
+
+- [How Can I Improve? Using GPT to Highlight the Desired and Undesired Parts of Open-ended Responses](2024年04月30日/How_Can_I_Improve_Using_GPT_to_Highlight_the_Desired_and_Undesired_Parts_of_Open-ended_Responses.md)
+
+    - [翻译: 如何提升自我？利用 GPT 技术凸显开放式回答中的期望与非期望要素。](2024年04月30日/How_Can_I_Improve_Using_GPT_to_Highlight_the_Desired_and_Undesired_Parts_of_Open-ended_Responses.md)
+
+- [Adversarial Attacks and Defense for Conversation Entailment Task](2024年04月30日/Adversarial_Attacks_and_Defense_for_Conversation_Entailment_Task.md)
+
+    - [翻译: 对话蕴含任务的对抗性攻击与防御策略](2024年04月30日/Adversarial_Attacks_and_Defense_for_Conversation_Entailment_Task.md)
+
+- [Social Life Simulation for Non-Cognitive Skills Learning](2024年04月30日/Social_Life_Simulation_for_Non-Cognitive_Skills_Learning.md)
+
+    - [翻译: 社交生活模拟：非认知技能学习的新途径](2024年04月30日/Social_Life_Simulation_for_Non-Cognitive_Skills_Learning.md)
+
+- [Clover: Regressive Lightweight Speculative Decoding with Sequential Knowledge](2024年04月30日/Clover_Regressive_Lightweight_Speculative_Decoding_with_Sequential_Knowledge.md)
+
+    - [翻译: Clover：一种结合顺序知识，采用回归式轻量级推测性解码的方法。](2024年04月30日/Clover_Regressive_Lightweight_Speculative_Decoding_with_Sequential_Knowledge.md)
+
+- [Principled RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation](2024年04月30日/Principled_RLHF_from_Heterogeneous_Feedback_via_Personalization_and_Preference_Aggregation.md)
+
+    - [翻译: 本文探讨了如何通过个性化定制和偏好聚合的方式，从多样化的反馈中提炼出原则性的人类引导强化学习（RLHF）策略。](2024年04月30日/Principled_RLHF_from_Heterogeneous_Feedback_via_Personalization_and_Preference_Aggregation.md)
+
+- [CodeHalu: Code Hallucinations in LLMs Driven by Execution-based Verification](2024年04月30日/CodeHalu_Code_Hallucinations_in_LLMs_Driven_by_Execution-based_Verification.md)
+
+    - [翻译: CodeHalu：在执行驱动验证的助力下，大型语言模型中产生的代码幻觉现象。](2024年04月30日/CodeHalu_Code_Hallucinations_in_LLMs_Driven_by_Execution-based_Verification.md)
+
+- [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](2024年04月30日/SemantiCodec_An_Ultra_Low_Bitrate_Semantic_Audio_Codec_for_General_Sound.md)
+
+    - [翻译: SemantiCodec：一款为各类声音设计的超低码率语义音频编解码器。](2024年04月30日/SemantiCodec_An_Ultra_Low_Bitrate_Semantic_Audio_Codec_for_General_Sound.md)
+
+- [Aptly: Making Mobile Apps from Natural Language](2024年04月30日/Aptly_Making_Mobile_Apps_from_Natural_Language.md)
+
+    - [翻译: Aptly：将自然语言转化为移动应用的利器](2024年04月30日/Aptly_Making_Mobile_Apps_from_Natural_Language.md)
+
+- [Constrained Decoding for Secure Code Generation](2024年04月30日/Constrained_Decoding_for_Secure_Code_Generation.md)
+
+    - [翻译: 采用受限解码技术，致力于生成安全的代码。](2024年04月30日/Constrained_Decoding_for_Secure_Code_Generation.md)
+
+- [General Purpose Verification for Chain of Thought Prompting](2024年04月30日/General_Purpose_Verification_for_Chain_of_Thought_Prompting.md)
+
+    - [翻译: 针对思维链提示的通用验证方法](2024年04月30日/General_Purpose_Verification_for_Chain_of_Thought_Prompting.md)
+
+- [SPAFIT: Stratified Progressive Adaptation Fine-tuning for Pre-trained Large Language Models](2024年04月30日/SPAFIT_Stratified_Progressive_Adaptation_Fine-tuning_for_Pre-trained_Large_Language_Models.md)
+
+    - [翻译: SPAFIT：为预训练的大型语言模型量身定制的分层渐进式微调策略](2024年04月30日/SPAFIT_Stratified_Progressive_Adaptation_Fine-tuning_for_Pre-trained_Large_Language_Models.md)
+
+- [In-Context Learning with Long-Context Models: An In-Depth Exploration](2024年04月30日/In-Context_Learning_with_Long-Context_Models_An_In-Depth_Exploration.md)
+
+    - [翻译: 深入探索长文本上下文模型中的上下文内学习](2024年04月30日/In-Context_Learning_with_Long-Context_Models_An_In-Depth_Exploration.md)
+
+- [Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models](2024年04月30日/Towards_a_Search_Engine_for_Machines_Unified_Ranking_for_Multiple_Retrieval-Augmented_Large_Language_Models.md)
+
+    - [翻译: 探索机器的搜索引擎：实现多种增强检索的大型语言模型的统一排名机制](2024年04月30日/Towards_a_Search_Engine_for_Machines_Unified_Ranking_for_Multiple_Retrieval-Augmented_Large_Language_Models.md)
+
+- [GUing: A Mobile GUI Search Engine using a Vision-Language Model](2024年04月30日/GUing_A_Mobile_GUI_Search_Engine_using_a_Vision-Language_Model.md)
+
+    - [翻译: GUing：一款运用视觉-语言模型的移动界面图形搜索引擎。](2024年04月30日/GUing_A_Mobile_GUI_Search_Engine_using_a_Vision-Language_Model.md)
+
+- [Creative Beam Search](2024年04月30日/Creative_Beam_Search.md)
+
+    - [翻译: 创意束搜索是一种新颖的搜索策略，它在保持搜索效率的同时，增加了结果的多样性和创新性。](2024年04月30日/Creative_Beam_Search.md)
+
 2024年04月29日
 
 - [ECC Analyzer: Extract Trading Signal from Earnings Conference Calls using Large Language Model for Stock Performance Prediction](2024年04月29日/ECC_Analyzer_Extract_Trading_Signal_from_Earnings_Conference_Calls_using_Large_Language_Model_for_Stock_Performance_Prediction.md)
