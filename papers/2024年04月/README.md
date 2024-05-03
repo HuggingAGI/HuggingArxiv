@@ -598,6 +598,10 @@
 
     - [翻译: 多智能体强化学习在能源网络领域的应用面临诸多计算挑战，尽管已有进展，但仍存在一些未解决的问题。](2024年04月28日/Multi-Agent_Reinforcement_Learning_for_Energy_Networks_Computational_Challenges,_Progress_and_Open_Problems.md)
 
+- [Learnable Linguistic Watermarks for Tracing Model Extraction Attacks on Large Language Models](2024年04月28日/Learnable_Linguistic_Watermarks_for_Tracing_Model_Extraction_Attacks_on_Large_Language_Models.md)
+
+    - [翻译: 为大型语言模型量身定制的可学习语言水印技术，旨在有效追踪并防范模型提取攻击。](2024年04月28日/Learnable_Linguistic_Watermarks_for_Tracing_Model_Extraction_Attacks_on_Large_Language_Models.md)
+
 2024年04月27日
 
 - [Efficient LLM Inference with Kcache](2024年04月27日/Efficient_LLM_Inference_with_Kcache.md)
@@ -1280,6 +1284,10 @@
 
     - [翻译: 基础性的大型语言模型是否能够帮助我们开展药品制造业的调查研究？](2024年04月23日/Can_Foundational_Large_Language_Models_Assist_with_Conducting_Pharmaceuticals_Manufacturing_Investigations.md)
 
+- [Evaluating Tool-Augmented Agents in Remote Sensing Platforms](2024年04月23日/Evaluating_Tool-Augmented_Agents_in_Remote_Sensing_Platforms.md)
+
+    - [翻译: 在遥感平台上，对工具辅助代理的评估](2024年04月23日/Evaluating_Tool-Augmented_Agents_in_Remote_Sensing_Platforms.md)
+
 2024年04月22日
 
 - [Tree of Reviews: A Tree-based Dynamic Iterative Retrieval Framework for Multi-hop Question Answering](2024年04月22日/Tree_of_Reviews_A_Tree-based_Dynamic_Iterative_Retrieval_Framework_for_Multi-hop_Question_Answering.md)
@@ -1693,6 +1701,10 @@
 - [Strategic Interactions between Large Language Models-based Agents in Beauty Contests](2024年04月12日/Strategic_Interactions_between_Large_Language_Models-based_Agents_in_Beauty_Contests.md)
 
     - [翻译: 在选美比赛中，基于大型语言模型的智能体之间的策略互动。](2024年04月12日/Strategic_Interactions_between_Large_Language_Models-based_Agents_in_Beauty_Contests.md)
+
+- [LLMSat: A Large Language Model-Based Goal-Oriented Agent for Autonomous Space Exploration](2024年04月12日/LLMSat_A_Large_Language_Model-Based_Goal-Oriented_Agent_for_Autonomous_Space_Exploration.md)
+
+    - [翻译: LLMSat，一款基于大型语言模型的智能代理，专为自主太空探索任务而设计。](2024年04月12日/LLMSat_A_Large_Language_Model-Based_Goal-Oriented_Agent_for_Autonomous_Space_Exploration.md)
 
 2024年04月11日
 
