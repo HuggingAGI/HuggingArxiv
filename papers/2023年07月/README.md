@@ -10,4 +10,4 @@
 
 - [Wireless Multi-Agent Generative AI: From Connected Intelligence to Collective Intelligence](2023年07月05日/Wireless_Multi-Agent_Generative_AI_From_Connected_Intelligence_to_Collective_Intelligence.md)
 
-    - [翻译: 无线多智能体生成AI：迈向集体智慧的智能互联。](2023年07月05日/Wireless_Multi-Agent_Generative_AI_From_Connected_Intelligence_to_Collective_Intelligence.md)
+    - [翻译: 无线多智能体生成性AI：迈向集体智慧的智能互联](2023年07月05日/Wireless_Multi-Agent_Generative_AI_From_Connected_Intelligence_to_Collective_Intelligence.md)
