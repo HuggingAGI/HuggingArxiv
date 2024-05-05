@@ -1182,6 +1182,10 @@
 
     - [翻译: 曼巴是否具备情境学习的能力？](2024年04月24日/Is_Mamba_Capable_of_In-Context_Learning.md)
 
+- [CleanAgent: Automating Data Standardization with LLM-based Agents](2024年04月24日/CleanAgent_Automating_Data_Standardization_with_LLM-based_Agents.md)
+
+    - [翻译: CleanAgent：利用基于大型语言模型的智能代理，实现数据标准化流程的自动化。](2024年04月24日/CleanAgent_Automating_Data_Standardization_with_LLM-based_Agents.md)
+
 2024年04月23日
 
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
@@ -1546,6 +1550,10 @@
 
     - [翻译: 活体组织中的深度与动态代谢及结构成像技术。](2024年04月18日/Deep_and_Dynamic_Metabolic_and_Structural_Imaging_in_Living_Tissues.md)
 
+- [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](2024年04月18日/Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.md)
+
+    - [翻译: 大型语言模型驱动的多智能体研究：进展与挑战综述](2024年04月18日/Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.md)
+
 2024年04月17日
 
 - [Retrieval-Augmented Embodied Agents](2024年04月17日/Retrieval-Augmented_Embodied_Agents.md)
@@ -1734,6 +1742,10 @@
 
     - [翻译: 生物医学领域的大型语言模型：专注于临床命名实体识别的深入研究](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
 
+- [WESE: Weak Exploration to Strong Exploitation for LLM Agents](2024年04月10日/WESE_Weak_Exploration_to_Strong_Exploitation_for_LLM_Agents.md)
+
+    - [翻译: WESE：从初步探索到深度利用——为大型语言模型代理量身定制的策略](2024年04月10日/WESE_Weak_Exploration_to_Strong_Exploitation_for_LLM_Agents.md)
+
 2024年04月09日
 
 - [Apollonion: Profile-centric Dialog Agent](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
@@ -1743,6 +1755,12 @@
 - [GUIDE: Graphical User Interface Data for Execution](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
 
     - [翻译: GUIDE：图形用户界面数据执行指南](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
+
+2024年04月08日
+
+- [360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System](2024年04月08日/360°REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)
+
+    - [翻译: 360°REA：迈向为多智能体系统打造可复用的经验累积，辅以全方位的评估。](2024年04月08日/360°REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)
 
 2024年04月07日
 
@@ -1767,6 +1785,14 @@
 - [METAL: Towards Multilingual Meta-Evaluation](2024年04月02日/METAL_Towards_Multilingual_Meta-Evaluation.md)
 
     - [翻译: METAL：探索多语言元评估的新境界](2024年04月02日/METAL_Towards_Multilingual_Meta-Evaluation.md)
+
+- [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](2024年04月02日/Self-Organized_Agents_A_LLM_Multi-Agent_Framework_toward_Ultra_Large-Scale_Code_Generation_and_Optimization.md)
+
+    - [翻译: 自组织智能体：构建超大规模代码生成与优化的大型语言模型多智能体框架。](2024年04月02日/Self-Organized_Agents_A_LLM_Multi-Agent_Framework_toward_Ultra_Large-Scale_Code_Generation_and_Optimization.md)
+
+- [LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models](2024年04月02日/LLM-Coordination_Evaluating_and_Analyzing_Multi-agent_Coordination_Abilities_in_Large_Language_Models.md)
+
+    - [翻译: LLM-协调：探究大型语言模型内多代理协作能力的综合评估与深入分析](2024年04月02日/LLM-Coordination_Evaluating_and_Analyzing_Multi-agent_Coordination_Abilities_in_Large_Language_Models.md)
 
 2024年04月01日
 

@@ -126,6 +126,10 @@
 
     - [翻译: 利用人工智能助手，根据人物角色创造用户体验](2024年05月02日/Generating_User_Experience_Based_on_Personas_with_AI_Assistants.md)
 
+- [Causal Influence in Federated Edge Inference](2024年05月02日/Causal_Influence_in_Federated_Edge_Inference.md)
+
+    - [翻译: 在联合边缘推理领域，因果关系的影响是一个关键因素。](2024年05月02日/Causal_Influence_in_Federated_Edge_Inference.md)
+
 2024年05月01日
 
 - [Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3](2024年05月01日/Is_Bigger_Edit_Batch_Size_Always_Better_--_An_Empirical_Study_on_Model_Editing_with_Llama-3.md)

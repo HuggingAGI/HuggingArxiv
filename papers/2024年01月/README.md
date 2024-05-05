@@ -16,6 +16,12 @@
 
     - [翻译: 元提示：为语言模型注入通用性支撑，提升其性能](2024年01月23日/Meta-Prompting_Enhancing_Language_Models_with_Task-Agnostic_Scaffolding.md)
 
+2024年01月11日
+
+- [Designing Heterogeneous LLM Agents for Financial Sentiment Analysis](2024年01月11日/Designing_Heterogeneous_LLM_Agents_for_Financial_Sentiment_Analysis.md)
+
+    - [翻译: 本文旨在探讨如何设计多样化的大型语言模型代理，以提升金融情绪分析的准确性和效率。](2024年01月11日/Designing_Heterogeneous_LLM_Agents_for_Financial_Sentiment_Analysis.md)
+
 2024年01月10日
 
 - [KwaiAgents: Generalized Information-seeking Agent System with Large Language Models](2024年01月10日/KwaiAgents_Generalized_Information-seeking_Agent_System_with_Large_Language_Models.md)
@@ -27,6 +33,12 @@
 - [Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset](2024年01月03日/Evaluating_LLMs_on_Document-Based_QA_Exact_Answer_Selection_and_Numerical_Extraction_using_Cogtale_dataset.md)
 
     - [翻译: 本文探讨了如何利用 Cogtale 数据集对大型语言模型进行基于文档的问答能力的评估，包括精确答案的选择和数值信息的提取。](2024年01月03日/Evaluating_LLMs_on_Document-Based_QA_Exact_Answer_Selection_and_Numerical_Extraction_using_Cogtale_dataset.md)
+
+2024年01月02日
+
+- [LLM Harmony: Multi-Agent Communication for Problem Solving](2024年01月02日/LLM_Harmony_Multi-Agent_Communication_for_Problem_Solving.md)
+
+    - [翻译: LLM Harmony：协同多代理通信，助力问题解决](2024年01月02日/LLM_Harmony_Multi-Agent_Communication_for_Problem_Solving.md)
 
 2024年01月01日
 

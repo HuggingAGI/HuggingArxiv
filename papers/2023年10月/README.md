@@ -1,5 +1,11 @@
 # 2023年10月
 
+2023年10月24日
+
+- [Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation](2023年10月24日/Avalon's_Game_of_Thoughts_Battle_Against_Deception_through_Recursive_Contemplation.md)
+
+    - [翻译: 阿瓦隆的思维之战：借助递归沉思，与欺骗进行较量。](2023年10月24日/Avalon's_Game_of_Thoughts_Battle_Against_Deception_through_Recursive_Contemplation.md)
+
 2023年10月19日
 
 - [The Foundation Model Transparency Index](2023年10月19日/The_Foundation_Model_Transparency_Index.md)
@@ -11,3 +17,13 @@
 - [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](2023年10月05日/Fine-tuning_Aligned_Language_Models_Compromises_Safety,_Even_When_Users_Do_Not_Intend_To!.md)
 
     - [翻译: 微调对齐的语言模型可能会不安全，哪怕用户并无此意。](2023年10月05日/Fine-tuning_Aligned_Language_Models_Compromises_Safety,_Even_When_Users_Do_Not_Intend_To!.md)
+
+2023年10月03日
+
+- [An evolutionary model of personality traits related to cooperative behavior using a large language model](2023年10月03日/An_evolutionary_model_of_personality_traits_related_to_cooperative_behavior_using_a_large_language_model.md)
+
+    - [翻译: 借助大型语言模型，构建了一个关于与合作行为相关个性特征的进化模型。](2023年10月03日/An_evolutionary_model_of_personality_traits_related_to_cooperative_behavior_using_a_large_language_model.md)
+
+- [Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization](2023年10月03日/Dynamic_LLM-Agent_Network_An_LLM-agent_Collaboration_Framework_with_Agent_Team_Optimization.md)
+
+    - [翻译: 动态大型语言模型代理网络（Dynamic LLM-Agent Network）：构建了一个大型语言模型与代理之间的协作框架，并通过优化代理团队来提升整体性能。](2023年10月03日/Dynamic_LLM-Agent_Network_An_LLM-agent_Collaboration_Framework_with_Agent_Team_Optimization.md)

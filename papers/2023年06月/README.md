@@ -21,3 +21,9 @@
 - [Large language models and (non-)linguistic recursion](2023年06月12日/Large_language_models_and_(non-)linguistic_recursion.md)
 
     - [翻译: 大型语言模型与语言的递归性（及其缺失）](2023年06月12日/Large_language_models_and_(non-)linguistic_recursion.md)
+
+2023年06月05日
+
+- [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](2023年06月05日/Multi-Agent_Collaboration_Harnessing_the_Power_of_Intelligent_LLM_Agents.md)
+
+    - [翻译: 多智能体协作：发挥智能大型语言模型（LLM）代理的潜力](2023年06月05日/Multi-Agent_Collaboration_Harnessing_the_Power_of_Intelligent_LLM_Agents.md)

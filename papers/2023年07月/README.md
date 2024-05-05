@@ -1,7 +1,13 @@
 # 2023年07月
 
-2023年07月24日
+2023年07月12日
 
-- [A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models](2023年07月24日/A_Systematic_Survey_of_Prompt_Engineering_on_Vision-Language_Foundation_Models.md)
+- [Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems](2023年07月12日/Self-Adaptive_Large_Language_Model_(LLM)-Based_Multiagent_Systems.md)
 
-    - [翻译: 本文系统地调研了视觉-语言基础模型中的提示工程策略。](2023年07月24日/A_Systematic_Survey_of_Prompt_Engineering_on_Vision-Language_Foundation_Models.md)
+    - [翻译: 自适应大型语言模型（LLM）驱动的多智能体系统](2023年07月12日/Self-Adaptive_Large_Language_Model_(LLM)-Based_Multiagent_Systems.md)
+
+2023年07月05日
+
+- [Wireless Multi-Agent Generative AI: From Connected Intelligence to Collective Intelligence](2023年07月05日/Wireless_Multi-Agent_Generative_AI_From_Connected_Intelligence_to_Collective_Intelligence.md)
+
+    - [翻译: 无线多智能体生成AI：迈向集体智慧的智能互联。](2023年07月05日/Wireless_Multi-Agent_Generative_AI_From_Connected_Intelligence_to_Collective_Intelligence.md)
