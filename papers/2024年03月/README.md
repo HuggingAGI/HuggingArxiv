@@ -10,6 +10,10 @@
 
     - [翻译: GPT-4 对其在一项基于美国医学执照考试的案例研究中的表现进行了评估。](2024年03月26日/GPT-4's_assessment_of_its_performance_in_a_USMLE-based_case_study.md)
 
+- [Untangling Knots: Leveraging LLM for Error Resolution in Computational Notebooks](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
+
+    - [翻译: 解开难题：运用大型语言模型 (LLM) 助力计算笔记本错误修正](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
+
 2024年03月25日
 
 - [Generation of Asset Administration Shell with Large Language Model Agents: Interoperability in Digital Twins with Semantic Node](2024年03月25日/Generation_of_Asset_Administration_Shell_with_Large_Language_Model_Agents_Interoperability_in_Digital_Twins_with_Semantic_Node.md)

@@ -1,5 +1,119 @@
 # 2024年05月
 
+2024年05月03日
+
+- [Structural Pruning of Pre-trained Language Models via Neural Architecture Search](2024年05月03日/Structural_Pruning_of_Pre-trained_Language_Models_via_Neural_Architecture_Search.md)
+
+    - [翻译: 利用神经架构搜索技术对预训练的语言模型进行结构化精简。](2024年05月03日/Structural_Pruning_of_Pre-trained_Language_Models_via_Neural_Architecture_Search.md)
+
+- [On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?](2024年05月03日/On_the_test-time_zero-shot_generalization_of_vision-language_models_Do_we_really_need_prompt_learning.md)
+
+    - [翻译: 探讨视觉-语言模型在测试阶段的零样本泛化能力：提示学习是否真的不可或缺？](2024年05月03日/On_the_test-time_zero-shot_generalization_of_vision-language_models_Do_we_really_need_prompt_learning.md)
+
+- [Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows](2024年05月03日/Leveraging_Large_Language_Models_to_Enhance_Domain_Expert_Inclusion_in_Data_Science_Workflows.md)
+
+    - [翻译: 通过运用大型语言模型，我们能够提升数据科学流程中领域专家的参与度和包容性。](2024年05月03日/Leveraging_Large_Language_Models_to_Enhance_Domain_Expert_Inclusion_in_Data_Science_Workflows.md)
+
+- [What matters when building vision-language models?](2024年05月03日/What_matters_when_building_vision-language_models.md)
+
+    - [翻译: 构建视觉-语言模型时，关键因素有哪些？](2024年05月03日/What_matters_when_building_vision-language_models.md)
+
+- [REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs](2024年05月03日/REASONS_A_benchmark_for_REtrieval_and_Automated_citationS_Of_scieNtific_Sentences_using_Public_and_Proprietary_LLMs.md)
+
+    - [翻译: REASONS：一个基准测试，旨在利用公共及私有的大型语言模型（LLMs）检索并自动引用科学文献中的句子。](2024年05月03日/REASONS_A_benchmark_for_REtrieval_and_Automated_citationS_Of_scieNtific_Sentences_using_Public_and_Proprietary_LLMs.md)
+
+- [FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems](2024年05月03日/FairEvalLLM._A_Comprehensive_Framework_for_Benchmarking_Fairness_in_Large_Language_Model_Recommender_Systems.md)
+
+    - [翻译: FairEvalLLM，为大型语言模型推荐系统公平性评估提供了一个全面的基准框架。](2024年05月03日/FairEvalLLM._A_Comprehensive_Framework_for_Benchmarking_Fairness_in_Large_Language_Model_Recommender_Systems.md)
+
+- [Automatic Programming: Large Language Models and Beyond](2024年05月03日/Automatic_Programming_Large_Language_Models_and_Beyond.md)
+
+    - [翻译: 自动编程：探索大型语言模型及其更广阔领域](2024年05月03日/Automatic_Programming_Large_Language_Models_and_Beyond.md)
+
+- [Assessing and Verifying Task Utility in LLM-Powered Applications](2024年05月03日/Assessing_and_Verifying_Task_Utility_in_LLM-Powered_Applications.md)
+
+    - [翻译: 探索大型语言模型（LLM）支持的应用程序中任务实用性的评估与验证。](2024年05月03日/Assessing_and_Verifying_Task_Utility_in_LLM-Powered_Applications.md)
+
+- [EEG2TEXT: Open Vocabulary EEG-to-Text Decoding with EEG Pre-Training and Multi-View Transformer](2024年05月03日/EEG2TEXT_Open_Vocabulary_EEG-to-Text_Decoding_with_EEG_Pre-Training_and_Multi-View_Transformer.md)
+
+    - [翻译: EEG2TEXT：采用 EEG 预训练和多视角变换技术，实现开放词汇表的 EEG 到文本的转换。](2024年05月03日/EEG2TEXT_Open_Vocabulary_EEG-to-Text_Decoding_with_EEG_Pre-Training_and_Multi-View_Transformer.md)
+
+- [The AI Review Lottery: Widespread AI-Assisted Peer Reviews Boost Paper Scores and Acceptance Rates](2024年05月03日/The_AI_Review_Lottery_Widespread_AI-Assisted_Peer_Reviews_Boost_Paper_Scores_and_Acceptance_Rates.md)
+
+    - [翻译: AI评审的幸运抽奖：当人工智能辅助的同行评审变得普遍时，它显著提升了论文的评分和被接受的概率。](2024年05月03日/The_AI_Review_Lottery_Widespread_AI-Assisted_Peer_Reviews_Boost_Paper_Scores_and_Acceptance_Rates.md)
+
+- [MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain](2024年05月03日/MedReadMe_A_Systematic_Study_for_Fine-grained_Sentence_Readability_in_Medical_Domain.md)
+
+    - [翻译: MedReadMe：深入探究医学领域内句子细粒度可读性的系统性研究](2024年05月03日/MedReadMe_A_Systematic_Study_for_Fine-grained_Sentence_Readability_in_Medical_Domain.md)
+
+- [Optimising Calls to Large Language Models with Uncertainty-Based Two-Tier Selection](2024年05月03日/Optimising_Calls_to_Large_Language_Models_with_Uncertainty-Based_Two-Tier_Selection.md)
+
+    - [翻译: 通过不确定性驱动的双层筛选机制，提升对大型语言模型调用的优化效果。](2024年05月03日/Optimising_Calls_to_Large_Language_Models_with_Uncertainty-Based_Two-Tier_Selection.md)
+
+- [Unveiling the Potential of LLM-Based ASR on Chinese Open-Source Datasets](2024年05月03日/Unveiling_the_Potential_of_LLM-Based_ASR_on_Chinese_Open-Source_Datasets.md)
+
+    - [翻译: 探索基于大型语言模型的自动语音识别技术在中文开源数据集中的应用潜力。](2024年05月03日/Unveiling_the_Potential_of_LLM-Based_ASR_on_Chinese_Open-Source_Datasets.md)
+
+- [Single and Multi-Hop Question-Answering Datasets for Reticular Chemistry with GPT-4-Turbo](2024年05月03日/Single_and_Multi-Hop_Question-Answering_Datasets_for_Reticular_Chemistry_with_GPT-4-Turbo.md)
+
+    - [翻译: 为 Reticular Chemistry 领域设计的单跳与多跳问答数据集，特别适配 GPT-4-Turbo 模型](2024年05月03日/Single_and_Multi-Hop_Question-Answering_Datasets_for_Reticular_Chemistry_with_GPT-4-Turbo.md)
+
+- [Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph](2024年05月03日/Evaluating_Large_Language_Models_for_Structured_Science_Summarization_in_the_Open_Research_Knowledge_Graph.md)
+
+    - [翻译: 本文旨在探讨大型语言模型在开放研究知识图谱框架下进行结构化科学摘要的表现。](2024年05月03日/Evaluating_Large_Language_Models_for_Structured_Science_Summarization_in_the_Open_Research_Knowledge_Graph.md)
+
+- [Argumentative Large Language Models for Explainable and Contestable Decision-Making](2024年05月03日/Argumentative_Large_Language_Models_for_Explainable_and_Contestable_Decision-Making.md)
+
+    - [翻译: 构建论辩型大型语言模型，旨在实现决策过程的可解释性和可争议性。](2024年05月03日/Argumentative_Large_Language_Models_for_Explainable_and_Contestable_Decision-Making.md)
+
+- [Large Multimodal Model based Standardisation of Pathology Reports with Confidence and their Prognostic Significance](2024年05月03日/Large_Multimodal_Model_based_Standardisation_of_Pathology_Reports_with_Confidence_and_their_Prognostic_Significance.md)
+
+    - [翻译: 利用大型多模态模型对病理报告进行标准化处理，同时评估其置信度和对疾病预后的影响。](2024年05月03日/Large_Multimodal_Model_based_Standardisation_of_Pathology_Reports_with_Confidence_and_their_Prognostic_Significance.md)
+
+- [Analyzing Narrative Processing in Large Language Models (LLMs): Using GPT4 to test BERT](2024年05月03日/Analyzing_Narrative_Processing_in_Large_Language_Models_(LLMs)_Using_GPT4_to_test_BERT.md)
+
+    - [翻译: 探索大型语言模型中的叙事处理能力：以 GPT-4 作为工具，对 BERT 进行测试分析](2024年05月03日/Analyzing_Narrative_Processing_in_Large_Language_Models_(LLMs)_Using_GPT4_to_test_BERT.md)
+
+- [Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo](2024年05月03日/Exploring_Combinatorial_Problem_Solving_with_Large_Language_Models_A_Case_Study_on_the_Travelling_Salesman_Problem_Using_GPT-3.5_Turbo.md)
+
+    - [翻译: 本研究深入探讨了大型语言模型在解决组合问题上的能力，特别是以 GPT-3.5 Turbo 为工具，对旅行商问题进行了一项案例研究。](2024年05月03日/Exploring_Combinatorial_Problem_Solving_with_Large_Language_Models_A_Case_Study_on_the_Travelling_Salesman_Problem_Using_GPT-3.5_Turbo.md)
+
+- [Conformal Prediction for Natural Language Processing: A Survey](2024年05月03日/Conformal_Prediction_for_Natural_Language_Processing_A_Survey.md)
+
+    - [翻译: 一致性预测在自然语言处理领域的应用：综述研究](2024年05月03日/Conformal_Prediction_for_Natural_Language_Processing_A_Survey.md)
+
+- [Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models](2024年05月03日/Dependency-Aware_Semi-Structured_Sparsity_of_GLU_Variants_in_Large_Language_Models.md)
+
+    - [翻译: 在大型语言模型中，GLU 变种的依赖感知半结构化稀疏性研究](2024年05月03日/Dependency-Aware_Semi-Structured_Sparsity_of_GLU_Variants_in_Large_Language_Models.md)
+
+- [Which Identities Are Mobilized: Towards an automated detection of social group appeals in political texts](2024年05月03日/Which_Identities_Are_Mobilized_Towards_an_automated_detection_of_social_group_appeals_in_political_texts.md)
+
+    - [翻译: 身份动员探析：政治文本中社会群体呼吁的自动化识别研究](2024年05月03日/Which_Identities_Are_Mobilized_Towards_an_automated_detection_of_social_group_appeals_in_political_texts.md)
+
+- [Aloe: A Family of Fine-tuned Open Healthcare LLMs](2024年05月03日/Aloe_A_Family_of_Fine-tuned_Open_Healthcare_LLMs.md)
+
+    - [翻译: Aloe：一套经过精细调整的开放医疗大型语言模型家族](2024年05月03日/Aloe_A_Family_of_Fine-tuned_Open_Healthcare_LLMs.md)
+
+- [DALLMi: Domain Adaption for LLM-based Multi-label Classifier](2024年05月03日/DALLMi_Domain_Adaption_for_LLM-based_Multi-label_Classifier.md)
+
+    - [翻译: DALLMi：为基于大型语言模型的多标签分类任务量身定制的领域适应技术。](2024年05月03日/DALLMi_Domain_Adaption_for_LLM-based_Multi-label_Classifier.md)
+
+- [Automated Control Logic Test Case Generation using Large Language Models](2024年05月03日/Automated_Control_Logic_Test_Case_Generation_using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型实现控制逻辑测试用例的自动生成](2024年05月03日/Automated_Control_Logic_Test_Case_Generation_using_Large_Language_Models.md)
+
+- [Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems](2024年05月03日/Incorporating_External_Knowledge_and_Goal_Guidance_for_LLM-based_Conversational_Recommender_Systems.md)
+
+    - [翻译: 为基于大型语言模型的对话式推荐系统融入外部知识并引入目标导向。](2024年05月03日/Incorporating_External_Knowledge_and_Goal_Guidance_for_LLM-based_Conversational_Recommender_Systems.md)
+
+- [SUKHSANDESH: An Avatar Therapeutic Question Answering Platform for Sexual Education in Rural India](2024年05月03日/SUKHSANDESH_An_Avatar_Therapeutic_Question_Answering_Platform_for_Sexual_Education_in_Rural_India.md)
+
+    - [翻译: SUKHSANDESH：一个面向印度农村地区的性教育虚拟治疗问答平台。](2024年05月03日/SUKHSANDESH_An_Avatar_Therapeutic_Question_Answering_Platform_for_Sexual_Education_in_Rural_India.md)
+
+- [SGHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Singapore](2024年05月03日/SGHateCheck_Functional_Tests_for_Detecting_Hate_Speech_in_Low-Resource_Languages_of_Singapore.md)
+
+    - [翻译: SGHateCheck：一种功能性测试工具，旨在识别新加坡低资源语言中的仇恨言论。](2024年05月03日/SGHateCheck_Functional_Tests_for_Detecting_Hate_Speech_in_Low-Resource_Languages_of_Singapore.md)
+
 2024年05月02日
 
 - [Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks](2024年05月02日/Plan-Seq-Learn_Language_Model_Guided_RL_for_Solving_Long_Horizon_Robotics_Tasks.md)
@@ -129,6 +243,86 @@
 - [Causal Influence in Federated Edge Inference](2024年05月02日/Causal_Influence_in_Federated_Edge_Inference.md)
 
     - [翻译: 在联合边缘推理领域，因果关系的影响是一个关键因素。](2024年05月02日/Causal_Influence_in_Federated_Edge_Inference.md)
+
+- [Improving Concept Alignment in Vision-Language Concept Bottleneck Models](2024年05月02日/Improving_Concept_Alignment_in_Vision-Language_Concept_Bottleneck_Models.md)
+
+    - [翻译: 提升视觉-语言概念瓶颈模型中的概念一致性](2024年05月02日/Improving_Concept_Alignment_in_Vision-Language_Concept_Bottleneck_Models.md)
+
+- [Efficient and Economic Large Language Model Inference with Attention Offloading](2024年05月02日/Efficient_and_Economic_Large_Language_Model_Inference_with_Attention_Offloading.md)
+
+    - [翻译: 通过注意力卸载实现大型语言模型的高效经济推理](2024年05月02日/Efficient_and_Economic_Large_Language_Model_Inference_with_Attention_Offloading.md)
+
+- [Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features](2024年05月02日/Exploiting_ChatGPT_for_Diagnosing_Autism-Associated_Language_Disorders_and_Identifying_Distinct_Features.md)
+
+    - [翻译: 通过 ChatGPT 来识别自闭症相关的语言障碍，并挖掘其独特的特征。](2024年05月02日/Exploiting_ChatGPT_for_Diagnosing_Autism-Associated_Language_Disorders_and_Identifying_Distinct_Features.md)
+
+- [Towards Neural Synthesis for SMT-Assisted Proof-Oriented Programming](2024年05月02日/Towards_Neural_Synthesis_for_SMT-Assisted_Proof-Oriented_Programming.md)
+
+    - [翻译: 探索神经合成技术，助力 SMT 支持的面向证明编程发展](2024年05月02日/Towards_Neural_Synthesis_for_SMT-Assisted_Proof-Oriented_Programming.md)
+
+- [A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law](2024年05月02日/A_Survey_on_Large_Language_Models_for_Critical_Societal_Domains_Finance,_Healthcare,_and_Law.md)
+
+    - [翻译: 一项针对金融、医疗保健和法律等关键社会领域内大型语言模型的综述研究](2024年05月02日/A_Survey_on_Large_Language_Models_for_Critical_Societal_Domains_Finance,_Healthcare,_and_Law.md)
+
+- [CoS: Enhancing Personalization and Mitigating Bias with Context Steering](2024年05月02日/CoS_Enhancing_Personalization_and_Mitigating_Bias_with_Context_Steering.md)
+
+    - [翻译: CoS技术：借助上下文导航，提升个性化体验，同时有效降低偏见风险。](2024年05月02日/CoS_Enhancing_Personalization_and_Mitigating_Bias_with_Context_Steering.md)
+
+- [Large Language Models for UAVs: Current State and Pathways to the Future](2024年05月02日/Large_Language_Models_for_UAVs_Current_State_and_Pathways_to_the_Future.md)
+
+    - [翻译: 无人机领域的大型语言模型：现状与未来展望。](2024年05月02日/Large_Language_Models_for_UAVs_Current_State_and_Pathways_to_the_Future.md)
+
+- [ALCM: Autonomous LLM-Augmented Causal Discovery Framework](2024年05月02日/ALCM_Autonomous_LLM-Augmented_Causal_Discovery_Framework.md)
+
+    - [翻译: ALCM：独立增强型大型语言模型因果探索框架](2024年05月02日/ALCM_Autonomous_LLM-Augmented_Causal_Discovery_Framework.md)
+
+- [Question Suggestion for Conversational Shopping Assistants Using Product Metadata](2024年05月02日/Question_Suggestion_for_Conversational_Shopping_Assistants_Using_Product_Metadata.md)
+
+    - [翻译: 利用产品元数据，为对话式购物助手提供问题建议](2024年05月02日/Question_Suggestion_for_Conversational_Shopping_Assistants_Using_Product_Metadata.md)
+
+- [Large Language Models are Inconsistent and Biased Evaluators](2024年05月02日/Large_Language_Models_are_Inconsistent_and_Biased_Evaluators.md)
+
+    - [翻译: 大型语言模型作为评估工具，存在不一致性和偏见问题。](2024年05月02日/Large_Language_Models_are_Inconsistent_and_Biased_Evaluators.md)
+
+- [FSM Builder: A Tool for Writing Autograded Finite Automata Questions](2024年05月02日/FSM_Builder_A_Tool_for_Writing_Autograded_Finite_Automata_Questions.md)
+
+    - [翻译: FSM Builder：一款编写自动评分有限自动机习题的工具](2024年05月02日/FSM_Builder_A_Tool_for_Writing_Autograded_Finite_Automata_Questions.md)
+
+- [Requirements-driven Slicing of Simulink Models Using LLMs](2024年05月02日/Requirements-driven_Slicing_of_Simulink_Models_Using_LLMs.md)
+
+    - [翻译: 运用大型语言模型 (LLMs) 实施对 Simulink 模型的基于需求的切片操作。](2024年05月02日/Requirements-driven_Slicing_of_Simulink_Models_Using_LLMs.md)
+
+- [Language-Enhanced Latent Representations for Out-of-Distribution Detection in Autonomous Driving](2024年05月02日/Language-Enhanced_Latent_Representations_for_Out-of-Distribution_Detection_in_Autonomous_Driving.md)
+
+    - [翻译: 为了在自动驾驶领域识别那些超出常规分布的异常情况，我们采用了一种语言增强的潜在表示方法。](2024年05月02日/Language-Enhanced_Latent_Representations_for_Out-of-Distribution_Detection_in_Autonomous_Driving.md)
+
+- [Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models](2024年05月02日/Automatically_Extracting_Numerical_Results_from_Randomized_Controlled_Trials_with_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型，我们能够自动地从随机对照试验中抽取出数值数据。](2024年05月02日/Automatically_Extracting_Numerical_Results_from_Randomized_Controlled_Trials_with_Large_Language_Models.md)
+
+- [Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language](2024年05月02日/Leveraging_Prompt-Learning_for_Structured_Information_Extraction_from_Crohn's_Disease_Radiology_Reports_in_a_Low-Resource_Language.md)
+
+    - [翻译: 通过提示学习技术，我们能够从克罗恩病的放射学报告中高效提取结构化信息，即便在资源匮乏的语言环境中也表现出色。](2024年05月02日/Leveraging_Prompt-Learning_for_Structured_Information_Extraction_from_Crohn's_Disease_Radiology_Reports_in_a_Low-Resource_Language.md)
+
+- [Generative AI in Cybersecurity](2024年05月02日/Generative_AI_in_Cybersecurity.md)
+
+    - [翻译: 在网络安全领域，生成性人工智能的应用正日益显现其重要性。](2024年05月02日/Generative_AI_in_Cybersecurity.md)
+
+- [WitheredLeaf: Finding Entity-Inconsistency Bugs with LLMs](2024年05月02日/WitheredLeaf_Finding_Entity-Inconsistency_Bugs_with_LLMs.md)
+
+    - [翻译: WitheredLeaf：利用大型语言模型挖掘实体不一致性缺陷](2024年05月02日/WitheredLeaf_Finding_Entity-Inconsistency_Bugs_with_LLMs.md)
+
+- [Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit's Showerthoughts](2024年05月02日/Investigating_Wit,_Creativity,_and_Detectability_of_Large_Language_Models_in_Domain-Specific_Writing_Style_Adaptation_of_Reddit's_Showerthoughts.md)
+
+    - [翻译: 本研究旨在探究大型语言模型在 Reddit Showerthoughts 社区特定写作风格适应中的机智、创造力及其可被察觉的程度。](2024年05月02日/Investigating_Wit,_Creativity,_and_Detectability_of_Large_Language_Models_in_Domain-Specific_Writing_Style_Adaptation_of_Reddit's_Showerthoughts.md)
+
+- [Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning](2024年05月02日/Improving_Complex_Reasoning_over_Knowledge_Graph_with_Logic-Aware_Curriculum_Tuning.md)
+
+    - [翻译: 本文探讨了如何通过逻辑感知的课程调整方法，提升在知识图谱上进行复杂推理的性能。](2024年05月02日/Improving_Complex_Reasoning_over_Knowledge_Graph_with_Logic-Aware_Curriculum_Tuning.md)
+
+- [Automating the Analysis of Public Saliency and Attitudes towards Biodiversity from Digital Media](2024年05月02日/Automating_the_Analysis_of_Public_Saliency_and_Attitudes_towards_Biodiversity_from_Digital_Media.md)
+
+    - [翻译: 自动化地从数字媒体中分析公众对生物多样性的关注点和态度](2024年05月02日/Automating_the_Analysis_of_Public_Saliency_and_Attitudes_towards_Biodiversity_from_Digital_Media.md)
 
 2024年05月01日
 

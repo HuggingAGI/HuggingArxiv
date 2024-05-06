@@ -202,6 +202,10 @@
 
     - [翻译: 创意束搜索](2024年04月30日/Creative_Beam_Search.md)
 
+- [Large Language Model Agent for Fake News Detection](2024年04月30日/Large_Language_Model_Agent_for_Fake_News_Detection.md)
+
+    - [翻译: 大型语言模型代理：假新闻侦测利器](2024年04月30日/Large_Language_Model_Agent_for_Fake_News_Detection.md)
+
 2024年04月29日
 
 - [ECC Analyzer: Extract Trading Signal from Earnings Conference Calls using Large Language Model for Stock Performance Prediction](2024年04月29日/ECC_Analyzer_Extract_Trading_Signal_from_Earnings_Conference_Calls_using_Large_Language_Model_for_Stock_Performance_Prediction.md)
@@ -464,6 +468,10 @@
 
     - [翻译: 《语法：领域特定检索增强语言模型的实证与模块化评估》](2024年04月29日/GRAMMAR_Grounded_and_Modular_Evaluation_of_Domain-Specific_Retrieval-Augmented_Language_Models.md)
 
+- [Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model](2024年04月29日/Simplifying_Multimodality_Unimodal_Approach_to_Multimodal_Challenges_in_Radiology_with_General-Domain_Large_Language_Model.md)
+
+    - [翻译: 化繁为简：在放射学领域，运用通用的大型语言模型，以单模态策略应对多模态挑战。](2024年04月29日/Simplifying_Multimodality_Unimodal_Approach_to_Multimodal_Challenges_in_Radiology_with_General-Domain_Large_Language_Model.md)
+
 2024年04月28日
 
 - [Mixture-of-Instructions: Comprehensive Alignment of a Large Language Model through the Mixture of Diverse System Prompting Instructions](2024年04月28日/Mixture-of-Instructions_Comprehensive_Alignment_of_a_Large_Language_Model_through_the_Mixture_of_Diverse_System_Prompting_Instructions.md)
@@ -601,6 +609,10 @@
 - [Learnable Linguistic Watermarks for Tracing Model Extraction Attacks on Large Language Models](2024年04月28日/Learnable_Linguistic_Watermarks_for_Tracing_Model_Extraction_Attacks_on_Large_Language_Models.md)
 
     - [翻译: 为大型语言模型量身定制的可学习语言水印技术，旨在有效追踪并防范模型提取攻击。](2024年04月28日/Learnable_Linguistic_Watermarks_for_Tracing_Model_Extraction_Attacks_on_Large_Language_Models.md)
+
+- [Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications](2024年04月28日/Tabular_Embedding_Model_(TEM)_Finetuning_Embedding_Models_For_Tabular_RAG_Applications.md)
+
+    - [翻译: 表格嵌入模型（TEM）：针对表格 RAG 应用场景，对嵌入模型进行精细化调整。](2024年04月28日/Tabular_Embedding_Model_(TEM)_Finetuning_Embedding_Models_For_Tabular_RAG_Applications.md)
 
 2024年04月27日
 
@@ -1771,6 +1783,12 @@
 - [Information Retrieval with Entity Linking](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
 
     - [翻译: 通过实体链接进行信息检索](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)
+
+2024年04月05日
+
+- [Prioritizing Software Requirements Using Large Language Models](2024年04月05日/Prioritizing_Software_Requirements_Using_Large_Language_Models.md)
+
+    - [翻译: 运用大型语言模型来优化软件需求的优先级排序](2024年04月05日/Prioritizing_Software_Requirements_Using_Large_Language_Models.md)
 
 2024年04月04日
 
