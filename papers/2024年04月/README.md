@@ -1554,6 +1554,10 @@
 
     - [翻译: 大型语言模型驱动的多智能体研究：进展与挑战综述](2024年04月18日/Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.md)
 
+- [Characterizing LLM Abstention Behavior in Science QA with Context Perturbations](2024年04月18日/Characterizing_LLM_Abstention_Behavior_in_Science_QA_with_Context_Perturbations.md)
+
+    - [翻译: 本文通过上下文扰动的方法，探讨了在科学问答领域中大型语言模型的弃权行为特征。](2024年04月18日/Characterizing_LLM_Abstention_Behavior_in_Science_QA_with_Context_Perturbations.md)
+
 2024年04月17日
 
 - [Retrieval-Augmented Embodied Agents](2024年04月17日/Retrieval-Augmented_Embodied_Agents.md)
