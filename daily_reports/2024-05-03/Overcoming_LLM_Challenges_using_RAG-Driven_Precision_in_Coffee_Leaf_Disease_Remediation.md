@@ -13,5 +13,3 @@
 - 论文原文: [https://arxiv.org/abs/2405.01310](https://arxiv.org/abs/2405.01310)
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 - 加入社群，+v: iamxxn886
-
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/qrcode.png)
