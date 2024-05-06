@@ -1788,7 +1788,7 @@
 
 - [Prioritizing Software Requirements Using Large Language Models](2024年04月05日/Prioritizing_Software_Requirements_Using_Large_Language_Models.md)
 
-    - [翻译: 运用大型语言模型来优化软件需求的优先级排序](2024年04月05日/Prioritizing_Software_Requirements_Using_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型对软件需求进行优先级排序](2024年04月05日/Prioritizing_Software_Requirements_Using_Large_Language_Models.md)
 
 2024年04月04日
 

@@ -12,7 +12,7 @@
 
 - [Untangling Knots: Leveraging LLM for Error Resolution in Computational Notebooks](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
 
-    - [翻译: 解开难题：运用大型语言模型 (LLM) 助力计算笔记本错误修正](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
+    - [翻译: 解开纠结：借助大型语言模型（LLM）之力，为计算型笔记本中的错误解析提供解决方案。](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
 
 2024年03月25日
 
