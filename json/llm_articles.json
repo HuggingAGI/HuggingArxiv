@@ -21396,6 +21396,85 @@
     ]
   },
   {
+    "title": "Data Interpreter: An LLM Agent For Data Science",
+    "submit_datetime": "2024年03月12日",
+    "abstract": "Large Language Model (LLM)-based agents have demonstrated remarkable effectiveness. However, their performance can be compromised in data science scenarios that require real-time data adjustment, expertise in optimization due to complex dependencies among various tasks, and the ability to identify logical errors for precise reasoning. In this study, we introduce the Data Interpreter, a solution designed to solve with code that emphasizes three pivotal techniques to augment problem-solving in data science: 1) dynamic planning with hierarchical graph structures for real-time data adaptability;2) tool integration dynamically to enhance code proficiency during execution, enriching the requisite expertise;3) logical inconsistency identification in feedback, and efficiency enhancement through experience recording. We evaluate the Data Interpreter on various data science and real-world tasks. Compared to open-source baselines, it demonstrated superior performance, exhibiting significant improvements in machine learning tasks, increasing from 0.86 to 0.95. Additionally, it showed a 26% increase in the MATH dataset and a remarkable 112% improvement in open-ended tasks. The solution will be released at https://github.com/geekan/MetaGPT.",
+    "pdf_link": "https://arxiv.org/abs/2402.18679",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/fig1-comp_1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/fig2-task-graph-new.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/tools_deployment.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/ace-example_2_1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/MATH-resize-color.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/llms_radar_chart.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/task_node_1.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/output-opentask-1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/output_task_2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2402.18679v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2402.18679/visual.png"
+      }
+    ],
+    "abstract_cn": "基于LLM的代理在数据科学领域表现出色，但在需要实时数据调整、复杂任务依赖优化以及精确推理逻辑错误识别的场景中，其性能可能受限。为此，我们提出了数据解释器，这一方案通过三种关键技术提升数据科学问题解决能力：1）利用分层图结构实现动态规划，以适应实时数据变化；2）动态整合工具，提升执行中的代码熟练度，增强专业技能；3）识别反馈中的逻辑不一致，并通过经验记录提高效率。在多项数据科学和实际任务测试中，数据解释器相比开源基准表现更优，机器学习任务性能从0.86提升至0.95，MATH数据集性能提升26%，开放式任务性能更是惊人地提升了112%。该解决方案将在GitHub上发布，网址为https://github.com/geekan/MetaGPT。",
+    "title_cn": "数据解码者：大型语言模型驱动的数据科学智能助手",
+    "tags": [
+      "Agent\n\n这篇论文介绍了一种基于大型语言模型（LLM）的代理——数据解释器，它专门设计来提升在数据科学领域中的性能，特别是在需要实时数据调整、复杂任务依赖优化以及精确推理逻辑错误识别的场景中。数据解释器通过三种关键技术来实现这一目标，包括分层图结构的动态规划、动态整合工具以提升代码熟练度，以及识别并纠正逻辑不一致。这些特性使得数据解释器在多项测试中表现出色，显著优于现有的开源基准。因此，这篇论文属于Agent分类，因为它描述了一个具体的LLM应用实例，即一个能够执行数据科学任务的智能代理。",
+      "数据科学",
+      "机器学习"
+    ]
+  },
+  {
     "title": "LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation",
     "submit_datetime": "2024年03月10日",
     "abstract": "Large language models (LLMs) are a new and powerful tool for a wide span of applications involving natural language and demonstrate impressive code generation abilities. The goal of this work is to automatically generate tests and use these tests to validate and verify compiler implementations of a directive-based parallel programming paradigm, OpenACC. To do so, in this paper, we explore the capabilities of state-of-the-art LLMs, including open-source LLMs -- Meta Codellama, Phind fine-tuned version of Codellama, Deepseek Deepseek Coder and closed-source LLMs -- OpenAI GPT-3.5-Turbo and GPT-4-Turbo. We further fine-tuned the open-source LLMs and GPT-3.5-Turbo using our own testsuite dataset along with using the OpenACC specification. We also explored these LLMs using various prompt engineering techniques that include code template, template with retrieval-augmented generation (RAG), one-shot example, one-shot with RAG, expressive prompt with code template and RAG. This paper highlights our findings from over 5000 tests generated via all the above mentioned methods. Our contributions include: (a) exploring the capabilities of the latest and relevant LLMs for code generation, (b) investigating fine-tuning and prompt methods, and (c) analyzing the outcome of LLMs generated tests including manually analysis of representative set of tests. We found the LLM Deepseek-Coder-33b-Instruct produced the most passing tests followed by GPT-4-Turbo.",
@@ -21912,6 +21991,81 @@
     ]
   },
   {
+    "title": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use",
+    "submit_datetime": "2024年02月23日",
+    "abstract": "Large language models (LLMs) have garnered significant attention due to their impressive natural language processing (NLP) capabilities. Recently, many studies have focused on the tool utilization ability of LLMs. They primarily investigated how LLMs effectively collaborate with given specific tools. However, in scenarios where LLMs serve as intelligent agents, as seen in applications like AutoGPT and MetaGPT, LLMs are expected to engage in intricate decision-making processes that involve deciding whether to employ a tool and selecting the most suitable tool(s) from a collection of available tools to fulfill user requests. Therefore, in this paper, we introduce MetaTool, a benchmark designed to evaluate whether LLMs have tool usage awareness and can correctly choose tools. Specifically, we create a dataset called ToolE within the benchmark. This dataset contains various types of user queries in the form of prompts that trigger LLMs to use tools, including both single-tool and multi-tool scenarios. Subsequently, we set the tasks for both tool usage awareness and tool selection. We define four subtasks from different perspectives in tool selection, including tool selection with similar choices, tool selection in specific scenarios, tool selection with possible reliability issues, and multi-tool selection. We conduct experiments involving eight popular LLMs and find that the majority of them still struggle to effectively select tools, highlighting the existing gaps between LLMs and genuine intelligent agents. However, through the error analysis, we found there is still significant room for improvement. Finally, we conclude with insights for tool developers -- we strongly recommend that tool developers choose an appropriate rewrite model for generating new descriptions based on the downstream LLM the tool will apply to. Our code is in https://github.com/HowieHwong/MetaTool.",
+    "pdf_link": "https://arxiv.org/abs/2310.03128",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/interface.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/ToolE_embedding.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/radar_awareness.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2310.03128v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2310.03128/radar_selection.png"
+      }
+    ],
+    "abstract_cn": "大型语言模型（LLMs）因其卓越的自然语言处理能力而备受瞩目。近期研究聚焦于LLMs的工具使用能力，探究它们如何与特定工具高效协作。但在智能代理应用中，如AutoGPT和MetaGPT，LLMs需进行复杂决策，决定是否使用工具及如何从众多工具中挑选最合适的以响应用户需求。为此，我们提出了MetaTool基准，旨在测试LLMs是否具备工具使用意识及正确选择工具的能力。我们构建了ToolE数据集，包含多种触发LLMs使用工具的用户查询，涵盖单工具与多工具情境。我们设定了工具使用意识和工具选择的任务，并从不同角度细分为四个子任务。实验涵盖了八种主流LLMs，结果显示多数LLMs在工具选择上仍显不足，揭示了与真正智能代理的差距。尽管如此，错误分析表明改进空间巨大。最后，我们建议工具开发者为下游LLM选择合适的重写模型，以生成适用于其工具的新描述。我们的代码已公开在GitHub上。",
+    "title_cn": "大型语言模型的MetaTool基准：抉择工具之用与选择之道",
+    "tags": [
+      "Agent\n\n这篇论文主要探讨了大型语言模型（LLMs）在智能代理应用中的工具使用能力，特别是在AutoGPT和MetaGPT等系统中，LLMs如何进行复杂决策以选择和使用工具来响应用户需求。论文提出了MetaTool基准和ToolE数据集，用于测试LLMs的工具使用意识和选择能力，并进行了实验分析。这与智能代理（Agent）的概念紧密相关，因为智能代理需要具备自主决策和执行任务的能力，包括选择和使用工具。因此，这篇论文应归类于Agent分类。",
+      "智能代理",
+      ""
+    ]
+  },
+  {
     "title": "ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs",
     "submit_datetime": "2024年02月21日",
     "abstract": "Large Language Models (LLMs) still struggle with natural language reasoning tasks. Motivated by the society of minds (Minsky, 1988), we propose ReConcile, a multi-model multiagent framework designed as a round table conference among diverse LLM agents. ReConcile enhances collaborative reasoning between LLM agents via multiple rounds of discussion, learning to convince other agents to improve their answers, and employing a confidence-weighted voting mechanism that leads to a better consensus. In each round, ReConcile initiates discussion between agents via a 'discussion prompt' that consists of (a) grouped answers and explanations generated by each agent in the previous round, (b) their confidence scores, and (c) demonstrations of answer-rectifying human explanations, used for convincing other agents. Experiments on seven benchmarks demonstrate that ReConcile significantly improves LLMs' reasoning -- both individually and as a team -- surpassing prior single-agent and multi-agent baselines by up to 11.4% and even outperforming GPT-4 on three datasets. ReConcile also flexibly incorporates different combinations of agents, including API-based, open-source, and domain-specific models, leading to an 8% improvement on MATH. Finally, we analyze the individual components of ReConcile, demonstrating that the diversity originating from different models is critical to its superior performance. Code: https://github.com/dinobby/ReConcile",
@@ -22318,6 +22472,20 @@
     ]
   },
   {
+    "title": "Evil Geniuses: Delving into the Safety of LLM-based Agents",
+    "submit_datetime": "2024年02月02日",
+    "abstract": "Rapid advancements in large language models (LLMs) have revitalized in LLM-based agents, exhibiting impressive human-like behaviors and cooperative capabilities in various scenarios. However, these agents also bring some exclusive risks, stemming from the complexity of interaction environments and the usability of tools. This paper delves into the safety of LLM-based agents from three perspectives: agent quantity, role definition, and attack level. Specifically, we initially propose to employ a template-based attack strategy on LLM-based agents to find the influence of agent quantity. In addition, to address interaction environment and role specificity issues, we introduce Evil Geniuses (EG), an effective attack method that autonomously generates prompts related to the original role to examine the impact across various role definitions and attack levels. EG leverages Red-Blue exercises, significantly improving the generated prompt aggressiveness and similarity to original roles. Our evaluations on CAMEL, Metagpt and ChatDev based on GPT-3.5 and GPT-4, demonstrate high success rates. Extensive evaluation and discussion reveal that these agents are less robust, prone to more harmful behaviors, and capable of generating stealthier content than LLMs, highlighting significant safety challenges and guiding future research. Our code is available at https://github.com/T1aNS1R/Evil-Geniuses.",
+    "pdf_link": "https://arxiv.org/abs/2311.11855",
+    "graphs": [],
+    "abstract_cn": "随着大型语言模型的飞速发展，基于LLM的代理展现出逼真的人类行为和协作能力，但同时也带来了源自交互环境复杂性和工具可用性的独特风险。本文从代理数量、角色定义和攻击级别三个维度深入探讨了LLM代理的安全性。我们首创性地采用基于模板的攻击策略，探究代理数量对LLM的影响。针对交互环境和角色特异性问题，我们提出了“邪恶天才”（EG）攻击方法，该方法能自动生成与原始角色相关的提示，以评估不同角色定义和攻击级别的影响。EG通过红蓝对抗演习，大幅提升了提示的攻击性和与原始角色的相似度。我们在GPT-3.5和GPT-4基础上的CAMEL、Metagpt和ChatDev的评估中，取得了高成功率。广泛的评估和讨论揭示了这些代理的脆弱性，它们更容易产生有害行为，并能生成比LLMs更隐蔽的内容，凸显了安全挑战，并为未来研究指明了方向。我们的代码已公开在https://github.com/T1aNS1R/Evil-Geniuses。",
+    "title_cn": "恶才探秘：剖析基于LLM的智能体安全之谜在",
+    "tags": [
+      "Agent\n\n这篇论文主要探讨了基于大型语言模型（LLM）的代理（Agent）的安全性问题，特别是代理数量、角色定义和攻击级别对LLM代理安全性的影响。论文提出了新的攻击策略和方法，并通过实验评估了这些策略和方法在不同代理系统中的效果。因此，这篇论文更符合Agent分类，因为它专注于代理系统的安全性和攻击性评估，而不是LLM的理论研究或应用开发。",
+      "人工智能安全",
+      "社会工程学"
+    ]
+  },
+  {
     "title": "\"Medium\" LMs of Code in the Era of LLMs: Lessons From StackOverflow",
     "submit_datetime": "2024年01月24日",
     "abstract": "Large pre-trained neural language models have brought immense progress to both NLP and software engineering. Models in OpenAI's GPT series now dwarf Google's BERT and Meta's RoBERTa, which previously set new benchmarks on a wide range of NLP applications. These models are trained on massive corpora of heterogeneous data from web crawls, which enables them to learn general language patterns and semantic relationships. However, the largest models are both expensive to train and deploy and are often closed-source, so we lack access to their data and design decisions. We argue that this trend towards large, general-purpose models should be complemented with single-purpose, more modestly sized pre-trained models. In this work, we take StackOverflow (SO) as a domain example in which large volumes of rich aligned code and text data is available. We adopt standard practices for pre-training large language models, including using a very large context size (2,048 tokens), batch size (0.5M tokens) and training set (27B tokens), coupled with a powerful toolkit (Megatron-LM), to train two models: SOBertBase, with 109M parameters, and SOBertLarge with 762M parameters, at a budget of just $\\$187$ and $\\$800$ each. We compare the performance of our models with both the previous SOTA model trained on SO data exclusively as well general-purpose BERT models and OpenAI's ChatGPT on four SO-specific downstream tasks - question quality prediction, closed question prediction, named entity recognition and obsoletion prediction (a new task we introduce). Not only do our models consistently outperform all baselines, the smaller model is often sufficient for strong results. Both models are released to the public. These results demonstrate that pre-training both extensively and properly on in-domain data can yield a powerful and affordable alternative to leveraging closed-source general-purpose models.",
@@ -22466,6 +22634,201 @@
     ]
   },
   {
+    "title": "Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach",
+    "submit_datetime": "2023年12月19日",
+    "abstract": "StarCraft II is a challenging benchmark for AI agents due to the necessity of both precise micro level operations and strategic macro awareness. Previous works, such as Alphastar and SCC, achieve impressive performance on tackling StarCraft II , however, still exhibit deficiencies in long term strategic planning and strategy interpretability. Emerging large language model (LLM) agents, such as Voyage and MetaGPT, presents the immense potential in solving intricate tasks. Motivated by this, we aim to validate the capabilities of LLMs on StarCraft II, a highly complex RTS game.To conveniently take full advantage of LLMs` reasoning abilities, we first develop textual StratCraft II environment, called TextStarCraft II, which LLM agent can interact. Secondly, we propose a Chain of Summarization method, including single frame summarization for processing raw observations and multi frame summarization for analyzing game information, providing command recommendations, and generating strategic decisions. Our experiment consists of two parts: first, an evaluation by human experts, which includes assessing the LLMs`s mastery of StarCraft II knowledge and the performance of LLM agents in the game; second, the in game performance of LLM agents, encompassing aspects like win rate and the impact of Chain of Summarization.Experiment results demonstrate that: 1. LLMs possess the relevant knowledge and complex planning abilities needed to address StarCraft II scenarios; 2. Human experts consider the performance of LLM agents to be close to that of an average player who has played StarCraft II for eight years; 3. LLM agents are capable of defeating the built in AI at the Harder(Lv5) difficulty level. We have open sourced the code and released demo videos of LLM agent playing StarCraft II.",
+    "pdf_link": "https://arxiv.org/abs/2312.11865",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x16.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x17.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x18.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x19.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x20.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x21.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x22.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x23.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x24.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x25.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x26.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x27.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x28.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x29.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x30.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x31.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x32.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x33.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x34.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x35.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x36.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x37.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x38.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x39.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x40.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x41.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x42.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x43.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x44.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2312.11865v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2312.11865/x45.png"
+      }
+    ],
+    "abstract_cn": "星际争霸II因其对微操作和宏观战略的双重要求，成为AI代理的严峻考验。尽管Alphastar和SCC等先驱在星际争霸II上取得了显著成就，但它们在长期战略规划和策略透明度方面仍有欠缺。大型语言模型（LLM）如Voyage和MetaGPT的出现，为解决复杂问题带来了新的希望。基于此，我们探索LLM在星际争霸II这一复杂RTS游戏中的潜力。我们首先创建了TextStarCraft II，一个文本化的游戏环境，以便LLM代理能够发挥其推理能力。接着，我们提出了链式总结方法，通过单帧总结处理观察，多帧总结分析信息、提出建议并制定战略。实验分为两部分：人类专家评估LLM的知识掌握和游戏表现，以及LLM代理的游戏胜率和链式总结的影响。结果显示：LLM具备应对星际争霸II挑战的知识和规划能力；专家认为LLM代理接近八年经验的玩家水平；LLM代理能在Harder难度下战胜内置AI。我们已公开代码，并分享了LLM代理的游戏演示。",
+    "title_cn": "大型语言模型在星际争霸II中的应用：基准测试与摘要链策略探索在翻译过程中，我首先确保原文的核心内容被准确传达，即大型语言模型在星际争霸II游戏中的应用，以及相关的基准测试和一种称为“摘要链”的方法。在第二步中，我调整了语言风格，使其更加符合中文的表达习惯，同时保持了原文的生动性和简洁性。通过使用“应用”、“探索”等词汇，增强了文章的吸引力和可读性。",
+    "tags": [
+      "Agent\n\n这篇论文探讨了大型语言模型（LLM）在星际争霸II这一复杂实时战略游戏（RTS）中的应用，特别是如何利用LLM的推理能力来提高AI代理的游戏表现。论文提出了一个文本化的游戏环境TextStarCraft II，并介绍了链式总结方法来处理游戏观察和制定战略。实验结果表明，LLM代理具备应对游戏挑战的能力，并且能够接近人类玩家的水平。因此，这篇论文属于Agent分类，因为它专注于开发和评估一个特定任务（星际争霸II游戏）中的AI代理。",
+      "电子竞技",
+      "人工智能"
+    ]
+  },
+  {
     "title": "LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language",
     "submit_datetime": "2023年12月15日",
     "abstract": "Large Language Models represent state-of-the-art linguistic models designed to equip computers with the ability to comprehend natural language. With its exceptional capacity to capture complex contextual relationships, the LLaMA (Large Language Model Meta AI) family represents a novel advancement in the field of natural language processing by releasing foundational models designed to improve the natural language understanding abilities of the transformer architecture thanks to their large amount of trainable parameters (7, 13, and 70 billion parameters). In many natural language understanding tasks, these models obtain the same performances as private company models such as OpenAI Chat-GPT with the advantage to make publicly available weights and code for research and commercial uses. In this work, we investigate the possibility of Language Adaptation for LLaMA models, explicitly focusing on addressing the challenge of Italian Language coverage. Adopting an open science approach, we explore various tuning approaches to ensure a high-quality text generated in Italian suitable for common tasks in this underrepresented language in the original models' datasets. We aim to release effective text generation models with strong linguistic properties for many tasks that seem challenging using multilingual or general-purpose LLMs. By leveraging an open science philosophy, this study contributes to Language Adaptation strategies for the Italian language by introducing the novel LLaMAntino family of Italian LLMs.",
@@ -22555,6 +22918,20 @@
       "LLM应用",
       "文本生成",
       "内容识别"
+    ]
+  },
+  {
+    "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+    "submit_datetime": "2023年11月06日",
+    "abstract": "Remarkable progress has been made on automated problem solving through societies of agents based on large language models (LLMs). Existing LLM-based multi-agent systems can already solve simple dialogue tasks. Solutions to more complex tasks, however, are complicated through logic inconsistencies due to cascading hallucinations caused by naively chaining LLMs. Here we introduce MetaGPT, an innovative meta-programming framework incorporating efficient human workflows into LLM-based multi-agent collaborations. MetaGPT encodes Standardized Operating Procedures (SOPs) into prompt sequences for more streamlined workflows, thus allowing agents with human-like domain expertise to verify intermediate results and reduce errors. MetaGPT utilizes an assembly line paradigm to assign diverse roles to various agents, efficiently breaking down complex tasks into subtasks involving many agents working together. On collaborative software engineering benchmarks, MetaGPT generates more coherent solutions than previous chat-based multi-agent systems. Our project can be found at https://github.com/geekan/MetaGPT",
+    "pdf_link": "https://arxiv.org/abs/2308.00352",
+    "graphs": [],
+    "abstract_cn": "基于大型语言模型的代理社会在自动问题解决领域取得了显著进步，但面对复杂任务时，由于幻觉连锁导致的逻辑不一致，解决方案变得复杂。为此，我们推出了MetaGPT，一种创新的元编程框架，它将人类工作流程的高效性融入到多代理协作中。MetaGPT通过将标准化操作程序编码为提示序列，优化了工作流程，使得具备人类领域专业知识的代理能够验证中间结果，减少错误。采用装配线模式，MetaGPT为不同代理分配特定角色，将复杂任务分解为多个子任务，促进多代理协同工作。在协作软件工程的测试中，MetaGPT展现出了比以往基于聊天的多代理系统更为连贯的解决方案。欲了解更多信息，请访问我们的GitHub项目页面：https://github.com/geekan/MetaGPT。",
+    "title_cn": "MetaGPT：多代理协作框架的元编程之光在人工智能的星辰大海中，MetaGPT如同一颗璀璨的星辰，以其独特的元编程技术，为多代理协作框架注入了新的活力。它不仅仅是一个编程工具，更是一个智慧的交汇点，让不同的代理能够协同工作，共同编织出复杂而精妙的解决方案。MetaGPT的出现，预示着智能系统合作的新纪元，它将引领我们探索更加广阔的智能协作领域。",
+    "tags": [
+      "Agent\n\n这篇论文介绍了一种名为MetaGPT的元编程框架，它旨在通过多代理协作来提高自动问题解决的效率和准确性。MetaGPT通过模拟人类工作流程，将任务分解为子任务，并分配给不同的代理，以促进协同工作。这种方法特别适用于复杂任务，因为它减少了由于幻觉连锁导致的逻辑不一致问题。论文中提到的MetaGPT在协作软件工程中的应用，以及它如何优化工作流程和提高解决方案的连贯性，表明这是一个关于代理系统的应用研究。因此，它属于Agent分类。",
+      "软件工程",
+      "多代理系统"
     ]
   },
   {
