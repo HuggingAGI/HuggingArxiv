@@ -86,6 +86,10 @@
 
     - [翻译: MEND：通过元示范展示的蒸馏技术，实现高效且有效的情境内学习。](2024年03月12日/MEND_Meta_dEmonstratioN_Distillation_for_Efficient_and_Effective_In-Context_Learning.md)
 
+- [Data Interpreter: An LLM Agent For Data Science](2024年03月12日/Data_Interpreter_An_LLM_Agent_For_Data_Science.md)
+
+    - [翻译: 数据解码者：大型语言模型驱动的数据科学智能助手](2024年03月12日/Data_Interpreter_An_LLM_Agent_For_Data_Science.md)
+
 2024年03月10日
 
 - [LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation](2024年03月10日/LLM4VV_Developing_LLM-Driven_Testsuite_for_Compiler_Validation.md)

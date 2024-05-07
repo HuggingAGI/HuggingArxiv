@@ -44,6 +44,10 @@
 
     - [翻译: AgentLite：一款轻量级库，旨在构建并提升面向任务的LLM代理系统。](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
 
+- [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](2024年02月23日/MetaTool_Benchmark_for_Large_Language_Models_Deciding_Whether_to_Use_Tools_and_Which_to_Use.md)
+
+    - [翻译: 大型语言模型的MetaTool基准：抉择工具之用与选择之道](2024年02月23日/MetaTool_Benchmark_for_Large_Language_Models_Deciding_Whether_to_Use_Tools_and_Which_to_Use.md)
+
 2024年02月21日
 
 - [ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs](2024年02月21日/ReConcile_Round-Table_Conference_Improves_Reasoning_via_Consensus_among_Diverse_LLMs.md)
@@ -147,3 +151,9 @@
 - [Machine Unlearning in Large Language Models](2024年02月03日/Machine_Unlearning_in_Large_Language_Models.md)
 
     - [翻译: 机器忘却在大型语言模型领域备受关注，这一话题在学术界和工业界都引起了广泛的讨论。](2024年02月03日/Machine_Unlearning_in_Large_Language_Models.md)
+
+2024年02月02日
+
+- [Evil Geniuses: Delving into the Safety of LLM-based Agents](2024年02月02日/Evil_Geniuses_Delving_into_the_Safety_of_LLM-based_Agents.md)
+
+    - [翻译: 恶才探秘：剖析基于LLM的智能体安全之谜在](2024年02月02日/Evil_Geniuses_Delving_into_the_Safety_of_LLM-based_Agents.md)
