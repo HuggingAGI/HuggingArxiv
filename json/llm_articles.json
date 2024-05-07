@@ -2104,10 +2104,10 @@
     "abstract": "Knowledge Graphs have been widely used to represent facts in a structured format. Due to their large scale applications, knowledge graphs suffer from being incomplete. The relation prediction task obtains knowledge graph completion by assigning one or more possible relations to each pair of nodes. In this work, we make use of the knowledge graph node names to fine-tune a large language model for the relation prediction task. By utilizing the node names only we enable our model to operate sufficiently in the inductive settings. Our experiments show that we accomplish new scores on a widely used knowledge graph benchmark.",
     "pdf_link": "https://arxiv.org/abs/2405.02738",
     "graphs": [],
-    "abstract_cn": "知识图谱作为一种结构化呈现事实的工具，已被广泛应用于多个领域。然而，大规模应用的知识图谱常因信息不全而受限。关系预测任务旨在通过为节点对分配可能的关系来补全知识图谱。本研究中，我们通过知识图谱的节点名称来优化一个大型语言模型，以提升关系预测的性能。这种方法使我们的模型在归纳学习场景下表现出色。实验结果揭示了我们的模型在一项知名知识图谱基准测试中刷新了得分记录。",
-    "title_cn": "本文探讨了利用大型语言模型来预测知识图谱补全中的关系。",
+    "abstract_cn": "知识图谱作为一种结构化表示事实的工具，已被广泛应用于多个领域。然而，大规模应用的知识图谱往往存在信息不完整的问题。为了补全知识图谱，关系预测任务需要为节点对分配可能的关系。本研究中，我们通过知识图谱的节点名称来优化大型语言模型，以提高关系预测的准确性。我们的方法仅依赖于节点名称，使得模型在归纳推理场景下也能表现出色。实验结果表明，我们的方法在一项广泛认可的知识图谱基准测试中刷新了评分记录。",
+    "title_cn": "本研究探讨了如何利用大型语言模型来预测知识图谱补全中的关系。",
     "tags": [
-      "分类：LLM应用\n\n这篇论文讨论了如何通过优化大型语言模型来提升知识图谱中的关系预测性能。这属于LLM应用的范畴，因为它探讨了如何将大型语言模型应用于特定的任务（关系预测），并展示了实验结果和性能提升。",
+      "分类：LLM应用",
       "知识图谱",
       "关系预测"
     ]
@@ -2131,11 +2131,11 @@
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.02732/x2.png"
       }
     ],
-    "abstract_cn": "文本关系提取的方法通常追求高精确度，却牺牲了召回率。但要构建与特定主题相关联的长对象实体列表，高召回率是必不可少的。在长篇文本的多个段落中可能散布着相关对象的线索，这增加了从长文本中抽取长列表的难度。我们提出了L3X方法，它通过两个阶段来应对这一问题：首先，利用大型语言模型（LLM）进行注重召回的生成，并巧妙地增强检索技术；其次，进行注重精确度的审查，以确认或筛选候选项。我们的L3X方法在性能上显著超越了仅依赖LLM的生成方法。",
+    "abstract_cn": "文本中的关系提取方法通常追求高精准度，却牺牲了召回率。但要构建与特定主题相关联的长对象实体列表，高召回率是不可或缺的。在长篇文本中，相关对象的提示可能分散于多个段落。这挑战了我们如何从长篇文本中抽取出长列表的能力。我们提出了L3X方法，它通过两个阶段来应对这一问题：首先，利用大型语言模型（LLM）进行以召回率为主导的生成，并巧妙地增强检索技术；其次，进行以精确度为主导的审查，以确认或筛选候选对象。我们的L3X方法在性能上显著超越了仅依赖LLM的生成方法。",
     "title_cn": "全面召回：增强检索的语言模型，专为从长篇文档中抽取长列表对象而设计。",
     "tags": [
       "LLM应用",
-      "文本挖掘",
+      "文本分析",
       "信息检索"
     ]
   },
@@ -2166,11 +2166,11 @@
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.02659/x5.png"
       }
     ],
-    "abstract_cn": "增强型大型语言模型（LLMs）通过检索系统获取的相关内容来生成准确响应，以解决幻觉问题。然而，现有方法往往忽略了检索文档与LLMs之间细微语义结构的互动，尤其是在处理附加了长篇文档的输入提示时，LLMs常常无法准确生成中间内容。为此，本研究提出了一种新的流程——“增强检索-重排序-响应”（R^4），以优化LLMs的文档排序，提升其文本生成能力，同时保持模型参数不变。该流程包含两个阶段：文档顺序调整和文档表示增强。文档顺序调整通过图注意力学习，根据响应质量的增强奖励，将文档排序优化为最佳顺序。而文档表示增强则利用文档级梯度对抗学习，针对质量不佳的响应进一步细化文档表示。大量实验证明，该流程在知识密集型任务上的事实问答性能优于多个强基线。相关源代码和训练模型将在论文发表后公开。",
-    "title_cn": "R4：强化检索-重排-响应框架，专为提升大型语言模型的检索能力而设计。",
+    "abstract_cn": "检索增强的大型语言模型（LLMs）通过利用信息检索系统获取的相关内容来生成准确回应，以解决幻觉问题。但现有方法在执行文本生成任务时，往往简单地将相关文档附加到LLMs的提示中，忽略了检索文档与LLMs之间细微语义结构的相互作用。尤其是在处理附加了长篇文档的输入提示时，LLMs常常会在生成过程中“中断思路”。为了解决这一问题，本研究提出了一种新的工作流程——“加强检索器-重排序-响应器”（R^4），旨在为检索增强的LLMs学习文档排序，提升其生成能力而不改变其庞大参数集。该学习过程分为两个阶段：文档顺序调整和文档表示增强。文档顺序调整通过图注意力学习，根据响应质量的加强奖励，将检索文档排序优化为开始、中间和结束的不同位置。而文档表示增强则通过文档级梯度对抗学习，针对质量较差的响应进一步细化检索文档的表示。大量实验证明，我们的流程在知识密集型任务上的事实问题回答性能优于多个强基线。相关源代码和训练模型将在论文发表后公开。",
+    "title_cn": "R4：强化版检索-重排-响应机制，专为检索增强型大型语言模型设计。",
     "tags": [
       "LLM应用",
-      "人工智能",
+      "信息检索",
       ""
     ]
   },
@@ -2180,12 +2180,12 @@
     "abstract": "With recent advances in large language models (LLMs), this paper explores the potential of leveraging state-of-the-art LLMs, such as GPT-4, to transfer existing human-written properties (e.g., those from Certora auditing reports) and automatically generate customized properties for unknown code. To this end, we embed existing properties into a vector database and retrieve a reference property for LLM-based in-context learning to generate a new prop- erty for a given code. While this basic process is relatively straight- forward, ensuring that the generated properties are (i) compilable, (ii) appropriate, and (iii) runtime-verifiable presents challenges. To address (i), we use the compilation and static analysis feedback as an external oracle to guide LLMs in iteratively revising the generated properties. For (ii), we consider multiple dimensions of similarity to rank the properties and employ a weighted algorithm to identify the top-K properties as the final result. For (iii), we design a dedicated prover to formally verify the correctness of the generated prop- erties. We have implemented these strategies into a novel system called PropertyGPT, with 623 human-written properties collected from 23 Certora projects. Our experiments show that PropertyGPT can generate comprehensive and high-quality properties, achieving an 80% recall compared to the ground truth. It successfully detected 26 CVEs/attack incidents out of 37 tested and also uncovered 12 zero-day vulnerabilities, resulting in $8,256 bug bounty rewards.",
     "pdf_link": "https://arxiv.org/abs/2405.02580",
     "graphs": [],
-    "abstract_cn": "本文借助大型语言模型（LLMs）的前沿进展，研究了如何利用如GPT-4这样的先进模型，将人类编写的属性（如Certora审计报告中的属性）进行转移，自动为未知代码创建定制属性。我们通过将现有属性嵌入向量数据库并检索参考属性，利用基于LLM的上下文学习生成新属性。尽管基本流程简单明了，但确保生成的属性既（i）可编译，（ii）合适，又（iii）可运行时验证，却颇具挑战。为此，我们利用编译和静态分析反馈作为外部指导，帮助LLMs逐步改进属性生成。在评估属性合适性时，我们从多个相似性维度进行排名，并采用加权算法筛选出前K个最佳属性。对于属性的运行时验证，我们开发了专门的证明器来形式化验证其正确性。这些策略已被集成到一个创新的系统中，名为PropertyGPT，它收集了23个Certora项目中的623个人类编写的属性。实验结果表明，PropertyGPT能够产出全面且优质的属性，与基准真值的召回率达到80%。该系统成功识别了37个测试中的26个CVE/攻击事件，并挖掘出12个零日漏洞，赢得了总计8256美元的漏洞赏金。",
-    "title_cn": "PropertyGPT：利用大型语言模型（LLM）进行智能合约的形式化验证，通过增强检索的属性生成技术实现。",
+    "abstract_cn": "本文着眼于大型语言模型（LLMs）的最新发展，研究了如何利用尖端的LLMs，如GPT-4，来转化现有的人工编写属性（例如Certora审计报告中的属性），并为未知代码自动创建定制属性。我们通过将现有属性嵌入向量数据库并检索参考属性，利用基于LLM的in-context learning来生成新属性。尽管这一基本流程较为简单，但要确保生成的属性不仅（i）可编译，（ii）恰当，且（iii）能在运行时验证，却面临诸多挑战。为此，我们利用编译和静态分析反馈作为外部参考，指导LLMs逐步改进属性生成。在评估属性的恰当性时，我们从多个相似性维度进行排名，并采用加权算法筛选出前K个属性作为最终输出。至于属性的可验证性，我们专门设计了一个证明器来形式化验证属性的正确性。我们将这些方法集成到一个创新的系统中，名为PropertyGPT，该系统收录了来自23个Certora项目的623个人工编写的属性。实验结果表明，PropertyGPT能够产生全面且高品质的属性，其召回率达到了80%。此外，PropertyGPT成功识别了37个测试中的26个CVE/攻击事件，并揭露了12个零日漏洞，赢得了总计8256美元的漏洞赏金。",
+    "title_cn": "PropertyGPT，一种利用大型语言模型（LLM）进行智能合约形式化验证的创新方法，通过增强检索的属性生成技术，为智能合约的安全性分析提供了新的视角。",
     "tags": [
-      "分类：LLM应用\n\n这篇论文的摘要描述了如何利用大型语言模型（LLMs）来自动生成定制属性，这是一个典型的LLM应用场景。论文中提到了使用GPT-4这样的先进模型，并通过编译和静态分析反馈来改进属性生成，这些都是LLM应用的具体实践。此外，论文还介绍了一个名为PropertyGPT的系统，该系统在实验中表现出了良好的性能，这也是LLM应用的一个例子。因此，将这篇论文归类为LLM应用是合适的。",
+      "LLM应用",
       "软件工程",
-      "程序验证"
+      ""
     ]
   },
   {
@@ -2219,12 +2219,12 @@
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.02637/x5.png"
       }
     ],
-    "abstract_cn": "近年来，随着大型语言模型（LLMs）的兴起，会话信息检索领域迅速进步，使得对用户请求的理解和回应更加贴近自然交流。TREC交互式知识辅助赛道（iKAT）的扩展版本旨在帮助研究者测试和评估他们的会话搜索代理（CSA）。该数据集包含36段个性化对话，覆盖20个不同话题，每个话题都配有个人文本知识库（PTKB），用以塑造独特的用户角色。共提供344轮对话，约26,000段文本，用以评估信息的相关性，以及在四个主要维度上对生成的回应进行评估：相关性、完整性、依据性和自然性。该数据集要求CSA能够高效地处理多样化的个人情境，挖掘关键的人物信息，并利用上下文进行恰当的对话。个人文本知识库的融合以及对决策性搜索任务的重视，使得这个数据集具有独特性，成为推动会话交互式知识辅助研究不可或缺的基准。",
-    "title_cn": "TREC iKAT 2023：专为评价对话式及互动式知识助理性能而设计的测试集。",
+    "abstract_cn": "近年来，随着大型语言模型（LLMs）的兴起，会话信息检索领域迅速进步，使得对用户请求的理解和回应更加贴近自然交流。TREC交互式知识辅助赛道（iKAT）的扩展版旨在为研究人员提供一个平台，用以测试和评估他们的会话搜索代理（CSA）。该数据集包含36段个性化对话，覆盖20个不同主题，每个主题都配备了定义个性化用户角色的个人文本知识库（PTKB）。总共提供了344个对话轮次，约26,000个段落，用以评估信息的相关性，以及对生成回应的四个关键维度进行额外评估：相关性、完整性、依据性和自然性。这一数据集要求CSA能够高效地处理多样化的个人情境，挖掘关键的人物信息，并利用这些信息进行恰当的对话。个人文本知识库的融合以及对决策性搜索任务的重视，使得这一测试集合具有独特性，对于推动会话式和交互式知识辅助领域的研究具有重要意义。",
+    "title_cn": "TREC iKAT 2023：评估对话式和互动式知识助手性能的测试集",
     "tags": [
       "Agent",
-      "会话信息检索",
-      "知识辅助"
+      "信息检索",
+      "对话系统"
     ]
   },
   {
@@ -4668,12 +4668,12 @@
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.02355/x4.png"
       }
     ],
-    "abstract_cn": "大型语言模型在代码生成领域的应用，为软件开发带来了革命性的前景。尽管这些模型已经表现出了一定的智能，但在特定于代码生成的任务上，它们的表现还有待提升，这主要是由于自然语言与编程语言之间的语法差异和词汇不匹配。编程语言的内在逻辑性和复杂性也增加了正确生成代码的难度。目前，为了寻找更优的解决方案，研究者们通常需要向语言模型提供多个提示，但这种方法成本较高。本文提出了一种新的模型——语法图检索增强的代码生成（CodeGRAG），旨在提升大型语言模型在单轮代码生成任务中的表现。CodeGRAG 能够提炼并概括代码块的控制流和数据流，弥补了编程语言与自然语言之间的差异。这种提炼出的外部结构知识不仅帮助模型更深入地理解代码的语法结构，还能作为不同编程语言之间的桥梁。CodeGRAG 显著增强了语言模型的代码生成能力，甚至在跨语言生成，如将 Python 代码转换为 C++ 代码时，也能实现性能的提升。",
-    "title_cn": "CodeGRAF：为增强检索的跨语言代码生成提取合成语法图。",
+    "abstract_cn": "运用大型语言模型来生成代码，在软件开发领域呈现出革命性的前景。尽管这些通用的大型语言模型已经展现出了一定的智能，但在代码生成的特定领域，它们的表现仍有提升空间，这主要是由于自然语言与编程语言之间的语法差异和词汇不匹配。编程语言的逻辑性和复杂性也增加了正确生成代码的难度。目前，为了寻找更优的解决方案，通常需要对大型语言模型进行多次提示，这不仅成本高昂。本文提出了一种名为“语法图检索增强的代码生成”（CodeGRAG）的新方法，旨在提升大型语言模型在单轮代码生成任务中的表现。CodeGRAG 能够提取并概括代码块的控制流和数据流，弥合编程语言与自然语言之间的鸿沟。这种方法提炼出的外部结构知识不仅模拟了代码块的内在流程，还能帮助大型语言模型更深入地理解代码的语法结构，并在不同编程语言之间架起沟通的桥梁。CodeGRAG 显著增强了大型语言模型的代码生成能力，甚至在跨语言代码生成方面也展现出了性能提升，比如能够将 Python 代码转换成 C++。",
+    "title_cn": "CodeGRAF：为增强检索的跨语言代码生成提取复合语法图。",
     "tags": [
       "LLM应用",
       "软件开发",
-      ""
+      "人工智能"
     ]
   },
   {
