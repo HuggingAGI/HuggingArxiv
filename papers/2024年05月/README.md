@@ -332,7 +332,7 @@
 
 - [Relations Prediction for Knowledge Graph Completion using Large Language Models](2024年05月04日/Relations_Prediction_for_Knowledge_Graph_Completion_using_Large_Language_Models.md)
 
-    - [翻译: 本文探讨了利用大型语言模型来预测知识图谱补全中的关系。](2024年05月04日/Relations_Prediction_for_Knowledge_Graph_Completion_using_Large_Language_Models.md)
+    - [翻译: 本研究探讨了如何利用大型语言模型来预测知识图谱补全中的关系。](2024年05月04日/Relations_Prediction_for_Knowledge_Graph_Completion_using_Large_Language_Models.md)
 
 - [Recall Them All: Retrieval-Augmented Language Models for Long Object List Extraction from Long Documents](2024年05月04日/Recall_Them_All_Retrieval-Augmented_Language_Models_for_Long_Object_List_Extraction_from_Long_Documents.md)
 
@@ -340,15 +340,15 @@
 
 - [R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models](2024年05月04日/R4_Reinforced_Retriever-Reorder-Responder_for_Retrieval-Augmented_Large_Language_Models.md)
 
-    - [翻译: R4：强化检索-重排-响应框架，专为提升大型语言模型的检索能力而设计。](2024年05月04日/R4_Reinforced_Retriever-Reorder-Responder_for_Retrieval-Augmented_Large_Language_Models.md)
+    - [翻译: R4：强化版检索-重排-响应机制，专为检索增强型大型语言模型设计。](2024年05月04日/R4_Reinforced_Retriever-Reorder-Responder_for_Retrieval-Augmented_Large_Language_Models.md)
 
 - [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](2024年05月04日/PropertyGPT_LLM-driven_Formal_Verification_of_Smart_Contracts_through_Retrieval-Augmented_Property_Generation.md)
 
-    - [翻译: PropertyGPT：利用大型语言模型（LLM）进行智能合约的形式化验证，通过增强检索的属性生成技术实现。](2024年05月04日/PropertyGPT_LLM-driven_Formal_Verification_of_Smart_Contracts_through_Retrieval-Augmented_Property_Generation.md)
+    - [翻译: PropertyGPT，一种利用大型语言模型（LLM）进行智能合约形式化验证的创新方法，通过增强检索的属性生成技术，为智能合约的安全性分析提供了新的视角。](2024年05月04日/PropertyGPT_LLM-driven_Formal_Verification_of_Smart_Contracts_through_Retrieval-Augmented_Property_Generation.md)
 
 - [TREC iKAT 2023: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants](2024年05月04日/TREC_iKAT_2023_A_Test_Collection_for_Evaluating_Conversational_and_Interactive_Knowledge_Assistants.md)
 
-    - [翻译: TREC iKAT 2023：专为评价对话式及互动式知识助理性能而设计的测试集。](2024年05月04日/TREC_iKAT_2023_A_Test_Collection_for_Evaluating_Conversational_and_Interactive_Knowledge_Assistants.md)
+    - [翻译: TREC iKAT 2023：评估对话式和互动式知识助手性能的测试集](2024年05月04日/TREC_iKAT_2023_A_Test_Collection_for_Evaluating_Conversational_and_Interactive_Knowledge_Assistants.md)
 
 2024年05月03日
 
@@ -676,7 +676,7 @@
 
 - [CodeGRAG: Extracting Composed Syntax Graphs for Retrieval Augmented Cross-Lingual Code Generation](2024年05月02日/CodeGRAG_Extracting_Composed_Syntax_Graphs_for_Retrieval_Augmented_Cross-Lingual_Code_Generation.md)
 
-    - [翻译: CodeGRAF：为增强检索的跨语言代码生成提取合成语法图。](2024年05月02日/CodeGRAG_Extracting_Composed_Syntax_Graphs_for_Retrieval_Augmented_Cross-Lingual_Code_Generation.md)
+    - [翻译: CodeGRAF：为增强检索的跨语言代码生成提取复合语法图。](2024年05月02日/CodeGRAG_Extracting_Composed_Syntax_Graphs_for_Retrieval_Augmented_Cross-Lingual_Code_Generation.md)
 
 2024年05月01日
 
