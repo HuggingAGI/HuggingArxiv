@@ -14,6 +14,7 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2405.02814/x3.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2405.02814/x4.png)
 
+<hr />
 
 - 论文原文: [https://arxiv.org/abs/2405.02814](https://arxiv.org/abs/2405.02814)
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
