@@ -23,3 +23,9 @@
 - [Adaptive Low Rank Adaptation of Segment Anything to Salient Object Detection](2023年08月10日/Adaptive_Low_Rank_Adaptation_of_Segment_Anything_to_Salient_Object_Detection.md)
 
     - [翻译: 本文介绍了一种自适应低秩调整技术，旨在将“任何片段”模型适配到显著目标检测任务中，以提升检测性能。](2023年08月10日/Adaptive_Low_Rank_Adaptation_of_Segment_Anything_to_Salient_Object_Detection.md)
+
+2023年08月08日
+
+- [Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference](2023年08月08日/Cost-Effective_Hyperparameter_Optimization_for_Large_Language_Model_Generation_Inference.md)
+
+    - [翻译: 高效优化大型语言模型推理的超参数，以降低成本在翻译过程中，我首先确保了原文意思的准确传达，然后根据中文的表达习惯，对翻译进行了调整，使其更加简洁、优雅，并保持了原文的生动性。](2023年08月08日/Cost-Effective_Hyperparameter_Optimization_for_Large_Language_Model_Generation_Inference.md)

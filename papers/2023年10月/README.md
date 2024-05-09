@@ -27,3 +27,7 @@
 - [Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization](2023年10月03日/Dynamic_LLM-Agent_Network_An_LLM-agent_Collaboration_Framework_with_Agent_Team_Optimization.md)
 
     - [翻译: 动态大型语言模型代理网络（Dynamic LLM-Agent Network）：构建了一个大型语言模型与代理之间的协作框架，并通过优化代理团队来提升整体性能。](2023年10月03日/Dynamic_LLM-Agent_Network_An_LLM-agent_Collaboration_Framework_with_Agent_Team_Optimization.md)
+
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](2023年10月03日/AutoGen_Enabling_Next-Gen_LLM_Applications_via_Multi-Agent_Conversation.md)
+
+    - [翻译: AutoGen：借助多代理对话，开启大型语言模型应用的新篇章](2023年10月03日/AutoGen_Enabling_Next-Gen_LLM_Applications_via_Multi-Agent_Conversation.md)
