@@ -25881,6 +25881,20 @@
     ]
   },
   {
+    "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+    "submit_datetime": "2023年10月03日",
+    "abstract": "AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks. AutoGen agents are customizable, conversable, and can operate in various modes that employ combinations of LLMs, human inputs, and tools. Using AutoGen, developers can also flexibly define agent interaction behaviors. Both natural language and computer code can be used to program flexible conversation patterns for different applications. AutoGen serves as a generic infrastructure to build diverse applications of various complexities and LLM capacities. Empirical studies demonstrate the effectiveness of the framework in many example applications, with domains ranging from mathematics, coding, question answering, operations research, online decision-making, entertainment, etc.",
+    "pdf_link": "https://arxiv.org/abs/2308.08155",
+    "graphs": [],
+    "abstract_cn": "AutoGen，这一开源框架，赋予开发者以多代理对话协作之力，构建大型语言模型应用。其代理，既可定制又善对话，游刃于LLM、人类智慧与工具之交融模式。借助AutoGen，开发者得以巧妙定义代理间的互动艺术。自然语言与代码，皆可编织对话之网，适应各类应用之需。AutoGen，如同一座桥梁，连接着复杂多变的应用世界与LLM的无限潜能。实证研究已见证其在数学、编程、问答、运筹、在线决策乃至娱乐等领域的卓越表现。",
+    "title_cn": "AutoGen：借助多代理对话，开启大型语言模型应用的新篇章",
+    "tags": [
+      "Agent\n\n这篇论文摘要描述了一个名为AutoGen的开源框架，它专注于多代理对话协作，用于构建大型语言模型（LLM）应用。这里的“代理”指的是能够与LLM、人类智慧和工具交互的智能实体，它们可以定制并参与对话。AutoGen框架允许开发者定义这些代理之间的交互，无论是通过自然语言还是代码。这种多代理系统的概念与“Agent”分类相符，因为它涉及到了智能代理的设计和应用。此外，论文中提到的实证研究展示了AutoGen在多个领域的应用，这进一步强调了其作为Agent系统在实际应用中的潜力。",
+      "人工智能",
+      "软件开发"
+    ]
+  },
+  {
     "title": "Generative AI in the Construction Industry: Opportunities & Challenges",
     "submit_datetime": "2023年09月19日",
     "abstract": "In the last decade, despite rapid advancements in artificial intelligence (AI) transforming many industry practices, construction largely lags in adoption. Recently, the emergence and rapid adoption of advanced large language models (LLM) like OpenAI's GPT, Google's PaLM, and Meta's Llama have shown great potential and sparked considerable global interest. However, the current surge lacks a study investigating the opportunities and challenges of implementing Generative AI (GenAI) in the construction sector, creating a critical knowledge gap for researchers and practitioners. This underlines the necessity to explore the prospects and complexities of GenAI integration. Bridging this gap is fundamental to optimizing GenAI's early-stage adoption within the construction sector. Given GenAI's unprecedented capabilities to generate human-like content based on learning from existing content, we reflect on two guiding questions: What will the future bring for GenAI in the construction industry? What are the potential opportunities and challenges in implementing GenAI in the construction industry? This study delves into reflected perception in literature, analyzes the industry perception using programming-based word cloud and frequency analysis, and integrates authors' opinions to answer these questions. This paper recommends a conceptual GenAI implementation framework, provides practical recommendations, summarizes future research questions, and builds foundational literature to foster subsequent research expansion in GenAI within the construction and its allied architecture & engineering domains.",
@@ -25976,6 +25990,20 @@
       "分类：RAG",
       "人工智能",
       "图像处理"
+    ]
+  },
+  {
+    "title": "Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference",
+    "submit_datetime": "2023年08月08日",
+    "abstract": "Large Language Models (LLMs) have sparked significant interest in their generative capabilities, leading to the development of various commercial applications. The high cost of using the models drives application builders to maximize the value of generation under a limited inference budget. This paper presents a study of optimizing inference hyperparameters such as the number of responses, temperature and max tokens, which significantly affects the utility/cost of text generation. We design a framework named EcoOptiGen which leverages economical hyperparameter optimization and cost-based pruning. Experiments with the GPT-3.5/GPT-4 models on a variety of tasks verify its effectiveness. EcoOptiGen is implemented in the `autogen' package of the FLAML library: \\url{https://aka.ms/autogen}.",
+    "pdf_link": "https://arxiv.org/abs/2303.04673",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）的生成能力激发了广泛的商业应用开发。然而，高昂的使用成本迫使开发者在一个有限的推理预算下寻求最大化生成价值的方法。本文探讨了优化推理超参数（如响应数量、温度和最大令牌数）的重要性，这些参数对文本生成的成本效益有着显著影响。我们提出了一个名为EcoOptiGen的框架，它通过经济型超参数优化和基于成本的剪枝策略，有效降低了成本。在GPT-3.5/GPT-4模型上进行的多样化任务实验证明了EcoOptiGen的有效性。该框架已在FLAML库的`autogen'包中实现，详情请访问：\\url{https://aka.ms/autogen}。",
+    "title_cn": "高效优化大型语言模型推理的超参数，以降低成本在翻译过程中，我首先确保了原文意思的准确传达，然后根据中文的表达习惯，对翻译进行了调整，使其更加简洁、优雅，并保持了原文的生动性。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了在有限的推理预算下最大化大型语言模型（LLMs）生成价值的方法，提出了一个名为EcoOptiGen的框架，用于优化推理超参数以降低成本。这与LLM的应用层面相关，因为它关注的是如何在实际应用中更有效地使用LLMs，而不是探讨LLMs的理论基础或Agent的设计。因此，它属于LLM应用分类。",
+      "",
+      "成本优化"
     ]
   },
   {
