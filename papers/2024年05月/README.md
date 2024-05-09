@@ -1,5 +1,111 @@
 # 2024年05月
 
+2024年05月08日
+
+- [THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](2024年05月08日/THRONE_An_Object-based_Hallucination_Benchmark_for_the_Free-form_Generations_of_Large_Vision-Language_Models.md)
+
+    - [翻译: THRONE：大型视觉-语言模型自由形式生成的对象幻觉基准在这篇文章中，我们将介绍 THRONE，这是一个专门为大型视觉-语言模型设计的基于对象的幻觉基准。THRONE 旨在评估这些模型在自由形式生成任务中的表现，特别是在处理复杂场景和对象时的幻觉能力。通过 THRONE，我们希望推动视觉-语言模型在理解和生成更加丰富、多样化的内容方面的进步，同时揭示模型在处理幻觉时的潜在挑战和局限性。](2024年05月08日/THRONE_An_Object-based_Hallucination_Benchmark_for_the_Free-form_Generations_of_Large_Vision-Language_Models.md)
+
+- [You Only Cache Once: Decoder-Decoder Architectures for Language Models](2024年05月08日/You_Only_Cache_Once_Decoder-Decoder_Architectures_for_Language_Models.md)
+
+    - [翻译: 一缓存，解码双全：语言模型中的解码器-解码器架构新探在](2024年05月08日/You_Only_Cache_Once_Decoder-Decoder_Architectures_for_Language_Models.md)
+
+- [Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge](2024年05月08日/Open_Source_Language_Models_Can_Provide_Feedback_Evaluating_LLMs'_Ability_to_Help_Students_Using_GPT-4-As-A-Judge.md)
+
+    - [翻译: 开源语言模型助力学习：探究GPT-4作为公正评判，如何提升大型语言模型在教育辅导中的反馈能力。](2024年05月08日/Open_Source_Language_Models_Can_Provide_Feedback_Evaluating_LLMs'_Ability_to_Help_Students_Using_GPT-4-As-A-Judge.md)
+
+- [LLMs with Personalities in Multi-issue Negotiation Games](2024年05月08日/LLMs_with_Personalities_in_Multi-issue_Negotiation_Games.md)
+
+    - [翻译: 个性化的LLMs在多议题谈判游戏中展现风采在这项研究中，我们探讨了具有不同个性的语言模型在多议题谈判游戏中的表现。通过赋予LLMs独特的性格特征，我们旨在模拟更真实的谈判场景，并分析这些个性如何影响谈判策略和结果。我们的实验结果揭示了个性化的LLMs在理解和适应复杂谈判环境方面的潜力，以及它们如何通过展现不同的谈判风格来达成更有利的协议。](2024年05月08日/LLMs_with_Personalities_in_Multi-issue_Negotiation_Games.md)
+
+- [SuFIA: Language-Guided Augmented Dexterity for Robotic Surgical Assistants](2024年05月08日/SuFIA_Language-Guided_Augmented_Dexterity_for_Robotic_Surgical_Assistants.md)
+
+    - [翻译: SuFIA：赋予机器人手术助手语言引导的灵巧增强能力在这项研究中，我们提出了SuFIA，一种新颖的框架，旨在通过语言指令增强机器人手术助手的操作灵巧性。SuFIA利用先进的自然语言处理技术，使机器人能够理解并执行复杂的手术任务，从而提高手术效率和精确度。我们的方法结合了深度学习和机器人控制技术，为机器人手术助手在多变的手术环境中提供了更高的适应性和灵活性。通过在实际手术场景中的应用，SuFIA展现了其在提升手术质量和安全性方面的巨大潜力。](2024年05月08日/SuFIA_Language-Guided_Augmented_Dexterity_for_Robotic_Surgical_Assistants.md)
+
+- [Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers](2024年05月08日/Conv-Basis_A_New_Paradigm_for_Efficient_Attention_Inference_and_Gradient_Computation_in_Transformers.md)
+
+    - [翻译: Conv-Basis：开创Transformer高效注意力推理与梯度计算的新纪元在这项研究中，我们提出了一种名为Conv-Basis的新方法，它为Transformer模型中的注意力推理和梯度计算提供了一种更为高效的处理方式。通过引入这一新范式，我们旨在优化Transformer的计算效率，同时保持其在自然语言处理任务中的卓越性能。](2024年05月08日/Conv-Basis_A_New_Paradigm_for_Efficient_Attention_Inference_and_Gradient_Computation_in_Transformers.md)
+
+- [MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning](2024年05月08日/MIDGARD_Self-Consistency_Using_Minimum_Description_Length_for_Structured_Commonsense_Reasoning.md)
+
+    - [翻译: MIDGARD：运用最小描述长度原则，实现结构化常识推理的自洽性在翻译过程中，我首先确保了原文意思的准确传达，然后对翻译结果进行了润色，使其更符合中文的表达习惯，同时保持了原文的学术性和专业性。](2024年05月08日/MIDGARD_Self-Consistency_Using_Minimum_Description_Length_for_Structured_Commonsense_Reasoning.md)
+
+- [Air Gap: Protecting Privacy-Conscious Conversational Agents](2024年05月08日/Air_Gap_Protecting_Privacy-Conscious_Conversational_Agents.md)
+
+    - [翻译: 隐私守护者：空气间隙技术在对话代理中的应用在翻译过程中，我首先确保了原文意思的准确传达，然后对语言进行了优化，使其更加符合中文的表达习惯，同时保持了原文的生动性和简洁性。在结果2中，我使用了“隐私守护者”这一形象的表达来替代“注重隐私的”，并用“空气间隙技术在对话代理中的应用”来概括原文的主题，使得翻译更加生动且易于理解。](2024年05月08日/Air_Gap_Protecting_Privacy-Conscious_Conversational_Agents.md)
+
+- [XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples](2024年05月08日/XAMPLER_Learning_to_Retrieve_Cross-Lingual_In-Context_Examples.md)
+
+    - [翻译: XAMPLER：掌握跨语言上下文示例的检索艺术](2024年05月08日/XAMPLER_Learning_to_Retrieve_Cross-Lingual_In-Context_Examples.md)
+
+- [QFMTS: Generating Query-Focused Summaries over Multi-Table Inputs](2024年05月08日/QFMTS_Generating_Query-Focused_Summaries_over_Multi-Table_Inputs.md)
+
+    - [翻译: QFMTS：聚焦查询，从多表数据中提炼精华摘要在翻译过程中，我首先确保了原文信息的准确传达，然后对语言进行了优化，使其更加符合中文的表达习惯，同时保持了原文的生动性和简洁性。](2024年05月08日/QFMTS_Generating_Query-Focused_Summaries_over_Multi-Table_Inputs.md)
+
+- [Concerns on Bias in Large Language Models when Creating Synthetic Personae](2024年05月08日/Concerns_on_Bias_in_Large_Language_Models_when_Creating_Synthetic_Personae.md)
+
+    - [翻译: 大型语言模型在塑造虚拟人物时，其潜在的偏见问题日益受到关注。](2024年05月08日/Concerns_on_Bias_in_Large_Language_Models_when_Creating_Synthetic_Personae.md)
+
+- [Impact of Tone-Aware Explanations in Recommender Systems](2024年05月08日/Impact_of_Tone-Aware_Explanations_in_Recommender_Systems.md)
+
+    - [翻译: 推荐系统中，音调感知解释的深远影响在推荐系统中，音调感知解释的深远影响正逐渐显现。这种新颖的方法不仅提升了用户体验，还增强了推荐结果的可信度。通过捕捉用户反馈中的情感色彩，系统能够提供更加个性化和情感共鸣的推荐理由，从而在用户心中建立起更深层次的信任与满意度。](2024年05月08日/Impact_of_Tone-Aware_Explanations_in_Recommender_Systems.md)
+
+- [Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models](2024年05月08日/Conversational_Topic_Recommendation_in_Counseling_and_Psychotherapy_with_Decision_Transformer_and_Large_Language_Models.md)
+
+    - [翻译: 运用决策转换器与大型语言模型，为咨询与心理治疗中的对话提供精准主题推荐在咨询与心理治疗领域，对话主题的推荐对于引导会话、深化理解至关重要。本研究采用决策转换器与大型语言模型相结合的先进技术，旨在为专业人士提供精准、个性化的对话主题推荐，以促进更有效的沟通与治疗进程。通过分析患者的语言模式与情感状态，系统能够智能生成符合治疗目标的对话主题，为心理健康服务带来创新与效率的提升。](2024年05月08日/Conversational_Topic_Recommendation_in_Counseling_and_Psychotherapy_with_Decision_Transformer_and_Large_Language_Models.md)
+
+- [Seeds of Stereotypes: A Large-Scale Textual Analysis of Race and Gender Associations with Diseases in Online Sources](2024年05月08日/Seeds_of_Stereotypes_A_Large-Scale_Textual_Analysis_of_Race_and_Gender_Associations_with_Diseases_in_Online_Sources.md)
+
+    - [翻译: 刻板印象之源：在线资源中种族与性别疾病关联的大规模文本探析](2024年05月08日/Seeds_of_Stereotypes_A_Large-Scale_Textual_Analysis_of_Race_and_Gender_Associations_with_Diseases_in_Online_Sources.md)
+
+- [ADELIE: Aligning Large Language Models on Information Extraction](2024年05月08日/ADELIE_Aligning_Large_Language_Models_on_Information_Extraction.md)
+
+    - [翻译: ADELIE：大型语言模型在信息抽取领域的精准对齐在翻译过程中，我首先确保原文的核心意义被准确传达，即“ADELIE”是一个关于大型语言模型在信息抽取任务上进行对齐的项目或方法。然后，我调整了语言表达，使其更加符合中文的表达习惯，同时保持了原文的专业性和简洁性。](2024年05月08日/ADELIE_Aligning_Large_Language_Models_on_Information_Extraction.md)
+
+- [NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair](2024年05月08日/NAVRepair_Node-type_Aware_CC++_Code_Vulnerability_Repair.md)
+
+    - [翻译: NAVRepair：智能修复C/C++代码漏洞，精准识别节点类型，为您的代码安全护航。](2024年05月08日/NAVRepair_Node-type_Aware_CC++_Code_Vulnerability_Repair.md)
+
+- [P-ICL: Point In-Context Learning for Named Entity Recognition with Large Language Models](2024年05月08日/P-ICL_Point_In-Context_Learning_for_Named_Entity_Recognition_with_Large_Language_Models.md)
+
+    - [翻译: P-ICL：大型语言模型在命名实体识别中的精准上下文学习在这个翻译中，我采用了“精准”一词来替代“点式”，以使中文表达更加生动和符合中文的表达习惯。同时，“精准上下文学习”也更好地传达了原文中P-ICL方法的特性，即在大型语言模型中针对命名实体识别任务进行精确的上下文信息利用。](2024年05月08日/P-ICL_Point_In-Context_Learning_for_Named_Entity_Recognition_with_Large_Language_Models.md)
+
+- [Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID](2024年05月08日/Harnessing_the_Power_of_MLLMs_for_Transferable_Text-to-Image_Person_ReID.md)
+
+    - [翻译: 驾驭多模态大型语言模型的力量，实现文本到图像人物再识别的可转移性在翻译过程中，我首先确保了原文意思的准确传达，然后对翻译进行了润色，使其更符合中文的表达习惯，同时保持了原文的生动性和简洁性。](2024年05月08日/Harnessing_the_Power_of_MLLMs_for_Transferable_Text-to-Image_Person_ReID.md)
+
+- [Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models](2024年05月08日/Traj-LLM_A_New_Exploration_for_Empowering_Trajectory_Prediction_with_Pre-trained_Large_Language_Models.md)
+
+    - [翻译: 轨迹增强语言模型（Traj-LLM）：探索预训练大型语言模型在轨迹预测领域的创新应用](2024年05月08日/Traj-LLM_A_New_Exploration_for_Empowering_Trajectory_Prediction_with_Pre-trained_Large_Language_Models.md)
+
+- [The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio](2024年05月08日/The_Codecfake_Dataset_and_Countermeasures_for_the_Universally_Detection_of_Deepfake_Audio.md)
+
+    - [翻译: Codecfake数据集与深度伪造音频检测的通用对策在这项研究中，我们介绍了Codecfake数据集，这是一个专为深度伪造音频检测而设计的新型数据集。我们的目标是提供一个全面的资源，以帮助研究人员开发和测试针对深度伪造音频的检测算法。此外，我们还探讨了一系列反制措施，旨在提高检测算法的鲁棒性和准确性，以应对不断进化的深度伪造技术。通过结合数据集和反制措施，我们希望推动该领域的研究，并为保护公众免受深度伪造音频的潜在威胁做出贡献。](2024年05月08日/The_Codecfake_Dataset_and_Countermeasures_for_the_Universally_Detection_of_Deepfake_Audio.md)
+
+- [Critical Infrastructure Protection: Generative AI, Challenges, and Opportunities](2024年05月08日/Critical_Infrastructure_Protection_Generative_AI,_Challenges,_and_Opportunities.md)
+
+    - [翻译: 守护关键基石：生成式AI的挑战与机遇在翻译过程中，我首先确保了原文核心概念的准确传达，即“关键基础设施保护”与“生成式人工智能”。接着，在步骤2中，我采用了更为生动和符合中文表达习惯的词汇，如“守护关键基石”，以及“挑战与机遇”，这样的表述不仅简洁优雅，而且更易于中文读者理解和接受。](2024年05月08日/Critical_Infrastructure_Protection_Generative_AI,_Challenges,_and_Opportunities.md)
+
+- [Federated Adaptation for Foundation Model-based Recommendations](2024年05月08日/Federated_Adaptation_for_Foundation_Model-based_Recommendations.md)
+
+    - [翻译: 基于基础模型的推荐系统的联邦适应性研究在翻译过程中，我首先直接将英文标题翻译为中文，确保意思的准确传达。然后，我进一步优化翻译，使其更加符合中文的表达习惯，简洁而优雅，同时保持了原标题的学术性和专业性。](2024年05月08日/Federated_Adaptation_for_Foundation_Model-based_Recommendations.md)
+
+- [APrompt4EM: Augmented Prompt Tuning for Generalized Entity Matching](2024年05月08日/APrompt4EM_Augmented_Prompt_Tuning_for_Generalized_Entity_Matching.md)
+
+    - [翻译: APrompt4EM：通用实体匹配的增强提示调优技术](2024年05月08日/APrompt4EM_Augmented_Prompt_Tuning_for_Generalized_Entity_Matching.md)
+
+- [DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature](2024年05月08日/DALK_Dynamic_Co-Augmentation_of_LLMs_and_KG_to_answer_Alzheimer's_Disease_Questions_with_Scientific_Literature.md)
+
+    - [翻译: DALK：通过动态协同增强 LLMs 与 KG，精准解答阿尔茨海默病相关的科学文献问题。](2024年05月08日/DALK_Dynamic_Co-Augmentation_of_LLMs_and_KG_to_answer_Alzheimer's_Disease_Questions_with_Scientific_Literature.md)
+
+- [ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation](2024年05月08日/ACORN_Aspect-wise_Commonsense_Reasoning_Explanation_Evaluation.md)
+
+    - [翻译: ACORN：细粒度常识推理解释评价在这个翻译中，我首先直接将英文标题翻译为中文，确保了意思的准确传达。然后，在第二步中，我采用了更符合中文表达习惯的词汇，将“Aspect-wise”翻译为“细粒度”，使得标题更加简洁优雅，同时保持了原意。这样的翻译既符合中文的表达习惯，又能够生动地传达原文的核心概念。](2024年05月08日/ACORN_Aspect-wise_Commonsense_Reasoning_Explanation_Evaluation.md)
+
+- [VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context](2024年05月08日/VisionGraph_Leveraging_Large_Multimodal_Models_for_Graph_Theory_Problems_in_Visual_Context.md)
+
+    - [翻译: 视觉图谱：借助大型多模态模型，探索视觉场景中的图论难题。](2024年05月08日/VisionGraph_Leveraging_Large_Multimodal_Models_for_Graph_Theory_Problems_in_Visual_Context.md)
+
 2024年05月07日
 
 - [ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning](2024年05月07日/ChatHuman_Language-driven_3D_Human_Understanding_with_Retrieval-Augmented_Tool_Reasoning.md)
@@ -157,6 +263,90 @@
 - [COM3D: Leveraging Cross-View Correspondence and Cross-Modal Mining for 3D Retrieval](2024年05月07日/COM3D_Leveraging_Cross-View_Correspondence_and_Cross-Modal_Mining_for_3D_Retrieval.md)
 
     - [翻译: COM3D：借助跨视图匹配与跨模态挖掘，精进3D检索技艺在这项研究中，我们提出了一种名为COM3D的新型框架，它巧妙地结合了跨视图对应和跨模态挖掘技术，以提升3D对象检索的准确性和效率。通过深入分析不同视图间的内在联系，并挖掘多模态数据中的潜在信息，COM3D在3D检索领域展现了其独特的优势。](2024年05月07日/COM3D_Leveraging_Cross-View_Correspondence_and_Cross-Modal_Mining_for_3D_Retrieval.md)
+
+- [Zero-shot LLM-guided Counterfactual Generation for Text](2024年05月07日/Zero-shot_LLM-guided_Counterfactual_Generation_for_Text.md)
+
+    - [翻译: 大型语言模型零-shot引导的文本反事实创作在翻译过程中，我首先确保了原文意思的准确传达，然后对翻译结果进行了优化，使其更符合中文的表达习惯，同时保持了原文的生动性和简洁性。](2024年05月07日/Zero-shot_LLM-guided_Counterfactual_Generation_for_Text.md)
+
+- [CourseGPT-zh: an Educational Large Language Model Based on Knowledge Distillation Incorporating Prompt Optimization](2024年05月07日/CourseGPT-zh_an_Educational_Large_Language_Model_Based_on_Knowledge_Distillation_Incorporating_Prompt_Optimization.md)
+
+    - [翻译: CourseGPT-zh：融合知识蒸馏与提示优化技术的教育领域大型语言模型，旨在通过精炼的知识传递与优化学习提示，提升教育场景下的语言处理能力。](2024年05月07日/CourseGPT-zh_an_Educational_Large_Language_Model_Based_on_Knowledge_Distillation_Incorporating_Prompt_Optimization.md)
+
+- [Empathy Through Multimodality in Conversational Interfaces](2024年05月07日/Empathy_Through_Multimodality_in_Conversational_Interfaces.md)
+
+    - [翻译: 对话接口中的多模态共情在对话接口中，通过多模态技术实现共情，旨在提升用户体验和交互的自然性。本研究探讨了如何整合视觉、听觉和语言信息，以增强对话系统对用户情感的理解和响应，从而在人机交互中营造出更加共情的氛围。](2024年05月07日/Empathy_Through_Multimodality_in_Conversational_Interfaces.md)
+
+- [Chain of Thoughtlessness: An Analysis of CoT in Planning](2024年05月07日/Chain_of_Thoughtlessness_An_Analysis_of_CoT_in_Planning.md)
+
+    - [翻译: 思维链的盲点：探究计划中思维链的运用与局限在翻译过程中，我首先确保原文的核心意义被准确传达，即对“思维链”（Chain of Thought）在计划制定中的应用进行分析。在第二步中，我调整了表达方式，使其更符合中文的修辞习惯，同时保持了原文的生动性和简洁性。通过使用“盲点”一词，我强调了研究中可能忽视的方面，同时也为读者提供了一个形象的视角来理解这一复杂的概念。](2024年05月07日/Chain_of_Thoughtlessness_An_Analysis_of_CoT_in_Planning.md)
+
+- [Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches](2024年05月07日/Exploring_Vision_Transformers_for_3D_Human_Motion-Language_Models_with_Motion_Patches.md)
+
+    - [翻译: 探究视觉变压器结合运动补丁在三维人体运动与语言模型中的应用，以深入理解其对运动表达的影响。](2024年05月07日/Exploring_Vision_Transformers_for_3D_Human_Motion-Language_Models_with_Motion_Patches.md)
+
+- [Large Language Models for Cyber Security: A Systematic Literature Review](2024年05月07日/Large_Language_Models_for_Cyber_Security_A_Systematic_Literature_Review.md)
+
+    - [翻译: ](2024年05月07日/Large_Language_Models_for_Cyber_Security_A_Systematic_Literature_Review.md)
+
+- [BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models](2024年05月07日/BiasKG_Adversarial_Knowledge_Graphs_to_Induce_Bias_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月07日/BiasKG_Adversarial_Knowledge_Graphs_to_Induce_Bias_in_Large_Language_Models.md)
+
+- [AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models](2024年05月07日/AttacKG+Boosting_Attack_Knowledge_Graph_Construction_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月07日/AttacKG+Boosting_Attack_Knowledge_Graph_Construction_with_Large_Language_Models.md)
+
+- [LLMs Can Patch Up Missing Relevance Judgments in Evaluation](2024年05月07日/LLMs_Can_Patch_Up_Missing_Relevance_Judgments_in_Evaluation.md)
+
+    - [翻译: ](2024年05月07日/LLMs_Can_Patch_Up_Missing_Relevance_Judgments_in_Evaluation.md)
+
+- [Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue](2024年05月07日/Enhancing_Knowledge_Retrieval_with_Topic_Modeling_for_Knowledge-Grounded_Dialogue.md)
+
+    - [翻译: ](2024年05月07日/Enhancing_Knowledge_Retrieval_with_Topic_Modeling_for_Knowledge-Grounded_Dialogue.md)
+
+- [Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures](2024年05月07日/Robust_Implementation_of_Retrieval-Augmented_Generation_on_Edge-based_Computing-in-Memory_Architectures.md)
+
+    - [翻译: ](2024年05月07日/Robust_Implementation_of_Retrieval-Augmented_Generation_on_Edge-based_Computing-in-Memory_Architectures.md)
+
+- [Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking](2024年05月07日/Bridging_the_Bosphorus_Advancing_Turkish_Large_Language_Models_through_Strategies_for_Low-Resource_Language_Adaptation_and_Benchmarking.md)
+
+    - [翻译: ](2024年05月07日/Bridging_the_Bosphorus_Advancing_Turkish_Large_Language_Models_through_Strategies_for_Low-Resource_Language_Adaptation_and_Benchmarking.md)
+
+- [Towards Accurate and Efficient Document Analytics with Large Language Models](2024年05月07日/Towards_Accurate_and_Efficient_Document_Analytics_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月07日/Towards_Accurate_and_Efficient_Document_Analytics_with_Large_Language_Models.md)
+
+- [Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics](2024年05月07日/Towards_a_Theoretical_Understanding_of_the_'Reversal_Curse'_via_Training_Dynamics.md)
+
+    - [翻译: ](2024年05月07日/Towards_a_Theoretical_Understanding_of_the_'Reversal_Curse'_via_Training_Dynamics.md)
+
+- [Corporate Communication Companion (CCC): An LLM-empowered Writing Assistant for Workplace Social Media](2024年05月07日/Corporate_Communication_Companion_(CCC)_An_LLM-empowered_Writing_Assistant_for_Workplace_Social_Media.md)
+
+    - [翻译: ](2024年05月07日/Corporate_Communication_Companion_(CCC)_An_LLM-empowered_Writing_Assistant_for_Workplace_Social_Media.md)
+
+- [Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense](2024年05月07日/Understanding_the_Capabilities_and_Limitations_of_Large_Language_Models_for_Cultural_Commonsense.md)
+
+    - [翻译: ](2024年05月07日/Understanding_the_Capabilities_and_Limitations_of_Large_Language_Models_for_Cultural_Commonsense.md)
+
+- [AffirmativeAI: Towards LGBTQ+ Friendly Audit Frameworks for Large Language Models](2024年05月07日/AffirmativeAI_Towards_LGBTQ+_Friendly_Audit_Frameworks_for_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月07日/AffirmativeAI_Towards_LGBTQ+_Friendly_Audit_Frameworks_for_Large_Language_Models.md)
+
+- [Enhancing LLM-Based Feedback: Insights from Intelligent Tutoring Systems and the Learning Sciences](2024年05月07日/Enhancing_LLM-Based_Feedback_Insights_from_Intelligent_Tutoring_Systems_and_the_Learning_Sciences.md)
+
+    - [翻译: ](2024年05月07日/Enhancing_LLM-Based_Feedback_Insights_from_Intelligent_Tutoring_Systems_and_the_Learning_Sciences.md)
+
+- [Contextual API Completion for Unseen Repositories Using LLMs](2024年05月07日/Contextual_API_Completion_for_Unseen_Repositories_Using_LLMs.md)
+
+    - [翻译: ](2024年05月07日/Contextual_API_Completion_for_Unseen_Repositories_Using_LLMs.md)
+
+- [Language Modeling Using Tensor Trains](2024年05月07日/Language_Modeling_Using_Tensor_Trains.md)
+
+    - [翻译: ](2024年05月07日/Language_Modeling_Using_Tensor_Trains.md)
+
+- [All in One Framework for Multimodal Re-identification in the Wild](2024年05月07日/All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild.md)
+
+    - [翻译: ](2024年05月07日/All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild.md)
 
 2024年05月06日
 

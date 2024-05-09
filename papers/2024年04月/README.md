@@ -472,6 +472,10 @@
 
     - [翻译: 化繁为简：在放射学领域，运用通用的大型语言模型，以单模态策略应对多模态挑战。](2024年04月29日/Simplifying_Multimodality_Unimodal_Approach_to_Multimodal_Challenges_in_Radiology_with_General-Domain_Large_Language_Model.md)
 
+- [PoPE: Legendre Orthogonal Polynomials Based Position Encoding for Large Language Models](2024年04月29日/PoPE_Legendre_Orthogonal_Polynomials_Based_Position_Encoding_for_Large_Language_Models.md)
+
+    - [翻译: ](2024年04月29日/PoPE_Legendre_Orthogonal_Polynomials_Based_Position_Encoding_for_Large_Language_Models.md)
+
 2024年04月28日
 
 - [Mixture-of-Instructions: Comprehensive Alignment of a Large Language Model through the Mixture of Diverse System Prompting Instructions](2024年04月28日/Mixture-of-Instructions_Comprehensive_Alignment_of_a_Large_Language_Model_through_the_Mixture_of_Diverse_System_Prompting_Instructions.md)
@@ -1198,6 +1202,14 @@
 
     - [翻译: CleanAgent：利用基于大型语言模型的智能代理，实现数据标准化流程的自动化。](2024年04月24日/CleanAgent_Automating_Data_Standardization_with_LLM-based_Agents.md)
 
+- [Lessons from the Use of Natural Language Inference (NLI) in Requirements Engineering Tasks](2024年04月24日/Lessons_from_the_Use_of_Natural_Language_Inference_(NLI)_in_Requirements_Engineering_Tasks.md)
+
+    - [翻译: ](2024年04月24日/Lessons_from_the_Use_of_Natural_Language_Inference_(NLI)_in_Requirements_Engineering_Tasks.md)
+
+- [Enhancing Deep Knowledge Tracing via Diffusion Models for Personalized Adaptive Learning](2024年04月24日/Enhancing_Deep_Knowledge_Tracing_via_Diffusion_Models_for_Personalized_Adaptive_Learning.md)
+
+    - [翻译: ](2024年04月24日/Enhancing_Deep_Knowledge_Tracing_via_Diffusion_Models_for_Personalized_Adaptive_Learning.md)
+
 2024年04月23日
 
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
@@ -1570,6 +1582,10 @@
 
     - [翻译: 本文通过上下文扰动的方法，探讨了在科学问答领域中大型语言模型的弃权行为特征。](2024年04月18日/Characterizing_LLM_Abstention_Behavior_in_Science_QA_with_Context_Perturbations.md)
 
+- [Improving Automated Distractor Generation for Math Multiple-choice Questions with Overgenerate-and-rank](2024年04月18日/Improving_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_with_Overgenerate-and-rank.md)
+
+    - [翻译: ](2024年04月18日/Improving_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_with_Overgenerate-and-rank.md)
+
 2024年04月17日
 
 - [Retrieval-Augmented Embodied Agents](2024年04月17日/Retrieval-Augmented_Embodied_Agents.md)
@@ -1795,6 +1811,10 @@
 - [Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
 
     - [翻译: Elicitron：一款基于大型语言模型（LLM）的代理仿真框架，专为设计需求的挖掘而设计。](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
+
+- [GP-MoLFormer: A Foundation Model For Molecular Generation](2024年04月04日/GP-MoLFormer_A_Foundation_Model_For_Molecular_Generation.md)
+
+    - [翻译: ](2024年04月04日/GP-MoLFormer_A_Foundation_Model_For_Molecular_Generation.md)
 
 2024年04月03日
 
