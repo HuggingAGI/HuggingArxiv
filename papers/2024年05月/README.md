@@ -286,67 +286,67 @@
 
 - [Large Language Models for Cyber Security: A Systematic Literature Review](2024年05月07日/Large_Language_Models_for_Cyber_Security_A_Systematic_Literature_Review.md)
 
-    - [翻译: ](2024年05月07日/Large_Language_Models_for_Cyber_Security_A_Systematic_Literature_Review.md)
+    - [翻译: 网络安全领域的大型语言模型：系统性文献综述探索在本次系统性文献综述中，我们将深入探讨大型语言模型在网络安全领域的应用，分析其在识别威胁、预测攻击模式以及自动化响应策略等方面的潜力与挑战。通过对现有文献的综合梳理，我们旨在揭示这些先进技术如何助力网络安全专家构筑更为坚固的数字防线。](2024年05月07日/Large_Language_Models_for_Cyber_Security_A_Systematic_Literature_Review.md)
 
 - [BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models](2024年05月07日/BiasKG_Adversarial_Knowledge_Graphs_to_Induce_Bias_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月07日/BiasKG_Adversarial_Knowledge_Graphs_to_Induce_Bias_in_Large_Language_Models.md)
+    - [翻译: 偏见图谱BiasKG：塑造大型语言模型的对抗性知识网络，旨在引入并研究模型中的偏见现象。](2024年05月07日/BiasKG_Adversarial_Knowledge_Graphs_to_Induce_Bias_in_Large_Language_Models.md)
 
 - [AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models](2024年05月07日/AttacKG+Boosting_Attack_Knowledge_Graph_Construction_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月07日/AttacKG+Boosting_Attack_Knowledge_Graph_Construction_with_Large_Language_Models.md)
+    - [翻译: AttacKG+：借助大型语言模型，强化攻击知识图谱的构建能力](2024年05月07日/AttacKG+Boosting_Attack_Knowledge_Graph_Construction_with_Large_Language_Models.md)
 
 - [LLMs Can Patch Up Missing Relevance Judgments in Evaluation](2024年05月07日/LLMs_Can_Patch_Up_Missing_Relevance_Judgments_in_Evaluation.md)
 
-    - [翻译: ](2024年05月07日/LLMs_Can_Patch_Up_Missing_Relevance_Judgments_in_Evaluation.md)
+    - [翻译: 大型语言模型（LLMs）具备修补评估中缺失相关性判断的能力，为评估体系的完善提供了新的可能性。](2024年05月07日/LLMs_Can_Patch_Up_Missing_Relevance_Judgments_in_Evaluation.md)
 
 - [Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue](2024年05月07日/Enhancing_Knowledge_Retrieval_with_Topic_Modeling_for_Knowledge-Grounded_Dialogue.md)
 
-    - [翻译: ](2024年05月07日/Enhancing_Knowledge_Retrieval_with_Topic_Modeling_for_Knowledge-Grounded_Dialogue.md)
+    - [翻译: 利用主题建模提升知识检索，助力基于知识的对话系统更上一层楼。](2024年05月07日/Enhancing_Knowledge_Retrieval_with_Topic_Modeling_for_Knowledge-Grounded_Dialogue.md)
 
 - [Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures](2024年05月07日/Robust_Implementation_of_Retrieval-Augmented_Generation_on_Edge-based_Computing-in-Memory_Architectures.md)
 
-    - [翻译: ](2024年05月07日/Robust_Implementation_of_Retrieval-Augmented_Generation_on_Edge-based_Computing-in-Memory_Architectures.md)
+    - [翻译: 在内存计算架构的边缘计算环境中，增强检索生成的稳健实现解释：在](2024年05月07日/Robust_Implementation_of_Retrieval-Augmented_Generation_on_Edge-based_Computing-in-Memory_Architectures.md)
 
 - [Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking](2024年05月07日/Bridging_the_Bosphorus_Advancing_Turkish_Large_Language_Models_through_Strategies_for_Low-Resource_Language_Adaptation_and_Benchmarking.md)
 
-    - [翻译: ](2024年05月07日/Bridging_the_Bosphorus_Advancing_Turkish_Large_Language_Models_through_Strategies_for_Low-Resource_Language_Adaptation_and_Benchmarking.md)
+    - [翻译: 博斯普鲁斯之桥：借助低资源语言适应与基准测试策略，推动土耳其大型语言模型的进步。](2024年05月07日/Bridging_the_Bosphorus_Advancing_Turkish_Large_Language_Models_through_Strategies_for_Low-Resource_Language_Adaptation_and_Benchmarking.md)
 
 - [Towards Accurate and Efficient Document Analytics with Large Language Models](2024年05月07日/Towards_Accurate_and_Efficient_Document_Analytics_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月07日/Towards_Accurate_and_Efficient_Document_Analytics_with_Large_Language_Models.md)
+    - [翻译: 大型语言模型助力精准高效文档分析](2024年05月07日/Towards_Accurate_and_Efficient_Document_Analytics_with_Large_Language_Models.md)
 
 - [Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics](2024年05月07日/Towards_a_Theoretical_Understanding_of_the_'Reversal_Curse'_via_Training_Dynamics.md)
 
-    - [翻译: ](2024年05月07日/Towards_a_Theoretical_Understanding_of_the_'Reversal_Curse'_via_Training_Dynamics.md)
+    - [翻译: 探索训练动态，揭开“逆转诅咒”的理论之谜在翻译过程中，我首先确保了原文意思的准确传达，然后对直译的中文进行了优化，使其更加符合中文的表达习惯，同时保持了原文的学术性和专业性。通过使用“探索”和“揭开”等动词，以及“理论之谜”这样的形象化表达，使得翻译后的中文更加生动活泼，简洁优雅。](2024年05月07日/Towards_a_Theoretical_Understanding_of_the_'Reversal_Curse'_via_Training_Dynamics.md)
 
 - [Corporate Communication Companion (CCC): An LLM-empowered Writing Assistant for Workplace Social Media](2024年05月07日/Corporate_Communication_Companion_(CCC)_An_LLM-empowered_Writing_Assistant_for_Workplace_Social_Media.md)
 
-    - [翻译: ](2024年05月07日/Corporate_Communication_Companion_(CCC)_An_LLM-empowered_Writing_Assistant_for_Workplace_Social_Media.md)
+    - [翻译: 职场社交写作良伴（CCC）：一款由先进 LLM 技术驱动的智能助手，专为提升企业沟通效率而生。](2024年05月07日/Corporate_Communication_Companion_(CCC)_An_LLM-empowered_Writing_Assistant_for_Workplace_Social_Media.md)
 
 - [Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense](2024年05月07日/Understanding_the_Capabilities_and_Limitations_of_Large_Language_Models_for_Cultural_Commonsense.md)
 
-    - [翻译: ](2024年05月07日/Understanding_the_Capabilities_and_Limitations_of_Large_Language_Models_for_Cultural_Commonsense.md)
+    - [翻译: 探究大型语言模型在文化常识领域的潜能与边界](2024年05月07日/Understanding_the_Capabilities_and_Limitations_of_Large_Language_Models_for_Cultural_Commonsense.md)
 
 - [AffirmativeAI: Towards LGBTQ+ Friendly Audit Frameworks for Large Language Models](2024年05月07日/AffirmativeAI_Towards_LGBTQ+_Friendly_Audit_Frameworks_for_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月07日/AffirmativeAI_Towards_LGBTQ+_Friendly_Audit_Frameworks_for_Large_Language_Models.md)
+    - [翻译: AffirmativeAI：迈向大型语言模型的LGBTQ+友好审计框架。](2024年05月07日/AffirmativeAI_Towards_LGBTQ+_Friendly_Audit_Frameworks_for_Large_Language_Models.md)
 
 - [Enhancing LLM-Based Feedback: Insights from Intelligent Tutoring Systems and the Learning Sciences](2024年05月07日/Enhancing_LLM-Based_Feedback_Insights_from_Intelligent_Tutoring_Systems_and_the_Learning_Sciences.md)
 
-    - [翻译: ](2024年05月07日/Enhancing_LLM-Based_Feedback_Insights_from_Intelligent_Tutoring_Systems_and_the_Learning_Sciences.md)
+    - [翻译: 提升大型语言模型反馈：智能辅导系统与学习科学的启示](2024年05月07日/Enhancing_LLM-Based_Feedback_Insights_from_Intelligent_Tutoring_Systems_and_the_Learning_Sciences.md)
 
 - [Contextual API Completion for Unseen Repositories Using LLMs](2024年05月07日/Contextual_API_Completion_for_Unseen_Repositories_Using_LLMs.md)
 
-    - [翻译: ](2024年05月07日/Contextual_API_Completion_for_Unseen_Repositories_Using_LLMs.md)
+    - [翻译: 借助大型语言模型，我们能够为未曾涉猎的代码库提供精准的上下文API自动补全功能。](2024年05月07日/Contextual_API_Completion_for_Unseen_Repositories_Using_LLMs.md)
 
 - [Language Modeling Using Tensor Trains](2024年05月07日/Language_Modeling_Using_Tensor_Trains.md)
 
-    - [翻译: ](2024年05月07日/Language_Modeling_Using_Tensor_Trains.md)
+    - [翻译: 张量列车语言建模：探索语言的深层结构在翻译过程中，我首先确保了原文的核心概念“张量列车”和“语言建模”被准确传达。然后，在第二步中，我采用了更加生动和符合中文表达习惯的措辞，将“使用张量列车进行语言建模”转化为“张量列车语言建模：探索语言的深层结构”，这样的表述不仅简洁优雅，而且能够激发读者对这一技术主题的兴趣。](2024年05月07日/Language_Modeling_Using_Tensor_Trains.md)
 
 - [All in One Framework for Multimodal Re-identification in the Wild](2024年05月07日/All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild.md)
 
-    - [翻译: ](2024年05月07日/All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild.md)
+    - [翻译: 一体式框架：野外多模态身份再识别的全面解决方案](2024年05月07日/All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild.md)
 
 2024年05月06日
 

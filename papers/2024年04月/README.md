@@ -474,7 +474,7 @@
 
 - [PoPE: Legendre Orthogonal Polynomials Based Position Encoding for Large Language Models](2024年04月29日/PoPE_Legendre_Orthogonal_Polynomials_Based_Position_Encoding_for_Large_Language_Models.md)
 
-    - [翻译: ](2024年04月29日/PoPE_Legendre_Orthogonal_Polynomials_Based_Position_Encoding_for_Large_Language_Models.md)
+    - [翻译: 勒让德正交编码：为大型语言模型量身定制的位置编码新篇章在翻译过程中，我首先确保了原文核心概念的准确传达，即“PoPE”和“勒让德正交多项式”作为位置编码方法在大型语言模型中的应用。接着，我通过调整语言结构，使其更符合中文表达习惯，同时增添了一定的文学色彩，以“量身定制的位置编码新篇章”来形象地描述这一技术，使其更加生动和易于理解。](2024年04月29日/PoPE_Legendre_Orthogonal_Polynomials_Based_Position_Encoding_for_Large_Language_Models.md)
 
 2024年04月28日
 
@@ -1204,11 +1204,11 @@
 
 - [Lessons from the Use of Natural Language Inference (NLI) in Requirements Engineering Tasks](2024年04月24日/Lessons_from_the_Use_of_Natural_Language_Inference_(NLI)_in_Requirements_Engineering_Tasks.md)
 
-    - [翻译: ](2024年04月24日/Lessons_from_the_Use_of_Natural_Language_Inference_(NLI)_in_Requirements_Engineering_Tasks.md)
+    - [翻译: 自然语言推理（NLI）在需求工程中的应用经验谈](2024年04月24日/Lessons_from_the_Use_of_Natural_Language_Inference_(NLI)_in_Requirements_Engineering_Tasks.md)
 
 - [Enhancing Deep Knowledge Tracing via Diffusion Models for Personalized Adaptive Learning](2024年04月24日/Enhancing_Deep_Knowledge_Tracing_via_Diffusion_Models_for_Personalized_Adaptive_Learning.md)
 
-    - [翻译: ](2024年04月24日/Enhancing_Deep_Knowledge_Tracing_via_Diffusion_Models_for_Personalized_Adaptive_Learning.md)
+    - [翻译: 借助扩散模型，深度知识追踪得以强化，为个性化适应性学习开辟了新径。](2024年04月24日/Enhancing_Deep_Knowledge_Tracing_via_Diffusion_Models_for_Personalized_Adaptive_Learning.md)
 
 2024年04月23日
 
@@ -1584,7 +1584,7 @@
 
 - [Improving Automated Distractor Generation for Math Multiple-choice Questions with Overgenerate-and-rank](2024年04月18日/Improving_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_with_Overgenerate-and-rank.md)
 
-    - [翻译: ](2024年04月18日/Improving_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_with_Overgenerate-and-rank.md)
+    - [翻译: 借助Overgenerate-and-rank策略，我们优化了数学多项选择题的自动干扰项生成，提升了题目的质量和难度。](2024年04月18日/Improving_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_with_Overgenerate-and-rank.md)
 
 2024年04月17日
 
@@ -1814,7 +1814,7 @@
 
 - [GP-MoLFormer: A Foundation Model For Molecular Generation](2024年04月04日/GP-MoLFormer_A_Foundation_Model_For_Molecular_Generation.md)
 
-    - [翻译: ](2024年04月04日/GP-MoLFormer_A_Foundation_Model_For_Molecular_Generation.md)
+    - [翻译: GP-MoLFormer：分子生成的奠基之作在这篇文章中，我们将介绍GP-MoLFormer，这是一种开创性的基础模型，专为分子生成而设计。它通过深度学习和先进的算法，为药物发现和材料科学领域带来了革命性的变革。GP-MoLFormer不仅能够高效地生成新颖的分子结构，还能确保这些结构在化学上可行且具有潜在的应用价值。随着我们对这一模型的深入探讨，我们将揭示它是如何成为分子设计领域的一块重要基石，以及它如何推动科学探索的边界。](2024年04月04日/GP-MoLFormer_A_Foundation_Model_For_Molecular_Generation.md)
 
 2024年04月03日
 
