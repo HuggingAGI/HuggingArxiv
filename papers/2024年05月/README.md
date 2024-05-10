@@ -290,11 +290,11 @@
 
 - [Benchmarking Educational Program Repair](2024年05月08日/Benchmarking_Educational_Program_Repair.md)
 
-    - [翻译: ](2024年05月08日/Benchmarking_Educational_Program_Repair.md)
+    - [翻译: 教育程序修复的基准评估在这篇文章中，我们将探讨如何通过基准测试来评估和改进教育程序的修复策略。我们将分析不同的修复方法，并探讨它们在提高教育软件质量和效率方面的潜力。通过这一过程，我们旨在为教育技术领域的专业人士提供有价值的见解，帮助他们更好地理解和优化教育程序的修复工作。](2024年05月08日/Benchmarking_Educational_Program_Repair.md)
 
 - [KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation](2024年05月08日/KV-Runahead_Scalable_Causal_LLM_Inference_by_Parallel_Key-Value_Cache_Generation.md)
 
-    - [翻译: ](2024年05月08日/KV-Runahead_Scalable_Causal_LLM_Inference_by_Parallel_Key-Value_Cache_Generation.md)
+    - [翻译: KV-Runahead：并行生成键值缓存，解锁因果LLM推理的扩展潜能在这项研究中，我们提出了KV-Runahead方法，这是一种新颖的技术，通过并行生成键值缓存来提高大型语言模型（LLM）的因果推理效率。我们的方法解决了传统推理方法中的瓶颈问题，实现了更快的推理速度和更好的可扩展性。通过实验验证，KV-Runahead在保持推理质量的同时，显著提升了LLM的性能。](2024年05月08日/KV-Runahead_Scalable_Causal_LLM_Inference_by_Parallel_Key-Value_Cache_Generation.md)
 
 2024年05月07日
 
@@ -540,7 +540,7 @@
 
 - [Generative AI as a metacognitive agent: A comparative mixed-method study with human participants on ICF-mimicking exam performance](2024年05月07日/Generative_AI_as_a_metacognitive_agent_A_comparative_mixed-method_study_with_human_participants_on_ICF-mimicking_exam_performance.md)
 
-    - [翻译: ](2024年05月07日/Generative_AI_as_a_metacognitive_agent_A_comparative_mixed-method_study_with_human_participants_on_ICF-mimicking_exam_performance.md)
+    - [翻译: 生成式AI：元认知代理的比较研究——探究其在ICF模拟考试中与人类参与者的表现差异在这次比较混合方法研究中，我们探讨了生成式人工智能作为元认知代理在ICF模拟考试中的表现，并与人类参与者的表现进行了对比。通过这种方法，我们旨在揭示生成式AI在模拟考试环境中的潜力和局限性，以及它与人类认知过程的异同。](2024年05月07日/Generative_AI_as_a_metacognitive_agent_A_comparative_mixed-method_study_with_human_participants_on_ICF-mimicking_exam_performance.md)
 
 2024年05月06日
 
