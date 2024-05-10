@@ -1,0 +1,17 @@
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
+# 推荐系统中，音调感知解释的深远影响在推荐系统中，音调感知解释的深远影响正逐渐显现。这种新颖的方法不仅提升了用户体验，还增强了推荐结果的可信度。通过捕捉用户反馈中的情感色彩，系统能够提供更加个性化和情感共鸣的推荐理由，从而在用户心中建立起更深层次的信任与满意度。
+发布时间：2024年05月08日
+
+`推荐系统`
+> Impact of Tone-Aware Explanations in Recommender Systems
+>
+> 在推荐系统中，解释的呈现对于用户的决策至关重要。尽管研究多聚焦于解释内容的透明度和说服力，但解释的表达方式——如语气——却鲜有关注。语气，无论是正式还是幽默，都是沟通中的关键元素。然而，推荐系统中语气对解释影响的研究尚不充分。本研究通过在线用户调查，探讨了语气在感知效果、领域差异和用户属性三个方面的影响。我们利用大型语言模型生成了电影、酒店和家居产品领域的虚构项目及多种语气的解释。数据分析显示，不同领域对语气的感知效果各异，且用户的年龄和个性特征也会影响语气的效果。这项研究强调了在推荐系统中，关注语气对于提升用户体验的重要性。
+>
+> https://arxiv.org/abs/2405.05061
+
+
+<hr />
+
+- 论文原文: [https://arxiv.org/abs/2405.05061](https://arxiv.org/abs/2405.05061)
+- 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
+- 加入社群，+v: iamxxn886
