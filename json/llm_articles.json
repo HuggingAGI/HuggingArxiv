@@ -1697,6 +1697,13 @@
         "url": "https://arxiv.org/html/2405.05347v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.05347/x1.png"
       }
+    ],
+    "abstract_cn": "大型语言模型（LLMs）因其广泛的教育应用潜力而备受瞩目。在编程教育中，LLMs已被用于创造学习材料、优化错误提示和提供代码指导。然而，研究中使用的定制数据集和评估标准不一，导致研究成果难以直接对比。因此，我们急需标准化和评估基准，以便公平地比较不同方法。LLMs在程序修复任务中展现出巨大潜力，可为学生提供调试帮助和学习提示。本文提出了一项创新的教育程序修复基准，精选了两个公开的高质量编程数据集，并引入了一种新的评估指标rouge@k来衡量修复质量，同时评估了五种近期模型以确立性能基线。",
+    "title_cn": "教育程序修复的基准评估在这篇文章中，我们将探讨如何通过基准测试来评估和改进教育程序的修复策略。我们将分析不同的修复方法，并探讨它们在提高教育软件质量和效率方面的潜力。通过这一过程，我们旨在为教育技术领域的专业人士提供有价值的见解，帮助他们更好地理解和优化教育程序的修复工作。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了大型语言模型（LLMs）在编程教育中的应用，特别是在程序修复任务中的潜力。它提出了一项新的教育程序修复基准，并引入了新的评估指标，旨在标准化和评估LLMs在教育领域的应用。这与LLM的理论研究不同，因为它关注的是实际应用和评估方法，而不是模型本身的理论基础。同时，它也不属于Agent或RAG分类，因为这些通常指的是特定类型的智能代理或检索增强生成模型，而本文的重点是LLM在教育中的应用。",
+      "编程教育",
+      "教育技术"
     ]
   },
   {
@@ -1837,6 +1844,13 @@
         "url": "https://arxiv.org/html/2405.05329v1",
         "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.05329/kva_8gpu_sidecar_var.png"
       }
+    ],
+    "abstract_cn": "大型语言模型推理分为提示阶段和扩展阶段，前者输出首个令牌，后者生成后续令牌。我们提出的KV-Runahead并行化方案，通过多进程协同填充键值缓存，显著加速了提示阶段，缩短了首个令牌的生成时间。该方案巧妙利用了因果注意力图，减少了计算量，且易于实施。我们还引入了上下文级负载均衡，以应对因果注意力导致的缓存生成不均，进一步优化了首个令牌的生成时间。与传统并行化方法相比，KV-Runahead在Llama 7B和Falcon 7B模型上分别实现了1.4倍和1.6倍的速度提升，展现了其高效性。",
+    "title_cn": "KV-Runahead：并行生成键值缓存，解锁因果LLM推理的扩展潜能在这项研究中，我们提出了KV-Runahead方法，这是一种新颖的技术，通过并行生成键值缓存来提高大型语言模型（LLM）的因果推理效率。我们的方法解决了传统推理方法中的瓶颈问题，实现了更快的推理速度和更好的可扩展性。通过实验验证，KV-Runahead在保持推理质量的同时，显著提升了LLM的性能。",
+    "tags": [
+      "LLM理论\n\n这篇论文主要探讨了大型语言模型（LLM）推理过程中的优化技术，特别是提出了KV-Runahead并行化方案来加速提示阶段，即首个令牌的生成时间。这种优化方法涉及对模型内部机制的深入理解和改进，属于对LLM理论层面的研究。因此，它更适合归类于LLM理论这一分类。",
+      "",
+      "高性能计算"
     ]
   },
   {
@@ -3596,7 +3610,14 @@
     "submit_datetime": "2024年05月07日",
     "abstract": "This study investigates the metacognitive capabilities of Large Language Models relative to human metacognition in the context of the International Coaching Federation ICF mimicking exam, a situational judgment test related to coaching competencies. Using a mixed method approach, we assessed the metacognitive performance, including sensitivity, accuracy in probabilistic predictions, and bias, of human participants and five advanced LLMs (GPT-4, Claude-3-Opus 3, Mistral Large, Llama 3, and Gemini 1.5 Pro). The results indicate that LLMs outperformed humans across all metacognitive metrics, particularly in terms of reduced overconfidence, compared to humans. However, both LLMs and humans showed less adaptability in ambiguous scenarios, adhering closely to predefined decision frameworks. The study suggests that Generative AI can effectively engage in human-like metacognitive processing without conscious awareness. Implications of the study are discussed in relation to development of AI simulators that scaffold cognitive and metacognitive aspects of mastering coaching competencies. More broadly, implications of these results are discussed in relation to development of metacognitive modules that lead towards more autonomous and intuitive AI systems.",
     "pdf_link": "https://arxiv.org/abs/2405.05285",
-    "graphs": []
+    "graphs": [],
+    "abstract_cn": "本研究深入探讨了大型语言模型在模拟ICF考试中的元认知能力，该考试是一项考验教练能力的情景判断测试。通过综合分析，我们对比了人类与五大顶尖语言模型（GPT-4、Claude-3、Mistral、Llama、Gemini）在元认知上的表现，涵盖敏感度、预测准确性及偏见。研究发现，这些模型在减少过度自信方面超越了人类，但在面对模糊情境时，它们和人类一样，都显得缺乏灵活性，固守既定决策模式。这表明，尽管缺乏意识，生成式AI仍能模拟人类的元认知过程。研究不仅为开发辅助教练能力学习的AI工具提供了洞见，也为构建更自主、直觉的AI系统奠定了基础，尤其是在元认知模块的开发上。",
+    "title_cn": "生成式AI：元认知代理的比较研究——探究其在ICF模拟考试中与人类参与者的表现差异在这次比较混合方法研究中，我们探讨了生成式人工智能作为元认知代理在ICF模拟考试中的表现，并与人类参与者的表现进行了对比。通过这种方法，我们旨在揭示生成式AI在模拟考试环境中的潜力和局限性，以及它与人类认知过程的异同。",
+    "tags": [
+      "Agent\n\n这篇论文探讨了大型语言模型在模拟ICF考试中的元认知能力，这是一个特定领域的应用，涉及模型如何模拟人类的元认知过程，以及它们在特定任务上的表现。虽然这涉及到LLM的应用，但它的重点在于模型如何作为一个智能体（Agent）来执行任务，特别是在元认知方面的表现，而不是专注于LLM的理论研究或RAG（Retrieval-Augmented Generation）框架。因此，将其归类为Agent更为合适。",
+      "教育培训",
+      "人工智能辅助学习"
+    ]
   },
   {
     "title": "Federated Reinforcement Learning with Constraint Heterogeneity",
