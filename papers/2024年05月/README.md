@@ -88,35 +88,35 @@
 
 - [Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM](2024年05月09日/Chain_of_Attack_a_Semantic-Driven_Contextual_Multi-Turn_attacker_for_LLM.md)
 
-    - [翻译: ](2024年05月09日/Chain_of_Attack_a_Semantic-Driven_Contextual_Multi-Turn_attacker_for_LLM.md)
+    - [翻译: 语义驱动攻击链：针对大型语言模型的多轮上下文攻击策略在](2024年05月09日/Chain_of_Attack_a_Semantic-Driven_Contextual_Multi-Turn_attacker_for_LLM.md)
 
 - [Can We Use Large Language Models to Fill Relevance Judgment Holes?](2024年05月09日/Can_We_Use_Large_Language_Models_to_Fill_Relevance_Judgment_Holes.md)
 
-    - [翻译: ](2024年05月09日/Can_We_Use_Large_Language_Models_to_Fill_Relevance_Judgment_Holes.md)
+    - [翻译: 大型语言模型能否填补相关性判断的空白？这一问题引发了我们对人工智能在信息检索领域潜力的深思。](2024年05月09日/Can_We_Use_Large_Language_Models_to_Fill_Relevance_Judgment_Holes.md)
 
 - [OpenFactCheck: A Unified Framework for Factuality Evaluation of LLMs](2024年05月09日/OpenFactCheck_A_Unified_Framework_for_Factuality_Evaluation_of_LLMs.md)
 
-    - [翻译: ](2024年05月09日/OpenFactCheck_A_Unified_Framework_for_Factuality_Evaluation_of_LLMs.md)
+    - [翻译: OpenFactCheck：大型语言模型事实性评估的统一框架在翻译过程中，我首先确保了原文意思的准确传达，然后对翻译结果进行了润色，使其更符合中文的表达习惯，同时保持了原文的简洁性和优雅性。](2024年05月09日/OpenFactCheck_A_Unified_Framework_for_Factuality_Evaluation_of_LLMs.md)
 
 - [One vs. Many: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations](2024年05月09日/One_vs._Many_Comprehending_Accurate_Information_from_Multiple_Erroneous_and_Inconsistent_AI_Generations.md)
 
-    - [翻译: ](2024年05月09日/One_vs._Many_Comprehending_Accurate_Information_from_Multiple_Erroneous_and_Inconsistent_AI_Generations.md)
+    - [翻译: 辨真伪于众说纷纭：从错综复杂的人工智能生成中提炼真知在众多人工智能生成的信息中，我们面临着辨别真伪的挑战。这些信息可能充满错误，且相互之间存在不一致。本研究旨在探索如何在这样复杂的环境中，准确地提取和理解信息，确保我们能够从人工智能的众多声音中，捕捉到最真实、最可靠的知识。](2024年05月09日/One_vs._Many_Comprehending_Accurate_Information_from_Multiple_Erroneous_and_Inconsistent_AI_Generations.md)
 
 - [From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](2024年05月09日/From_Human_Judgements_to_Predictive_Models_Unravelling_Acceptability_in_Code-Mixed_Sentences.md)
 
-    - [翻译: ](2024年05月09日/From_Human_Judgements_to_Predictive_Models_Unravelling_Acceptability_in_Code-Mixed_Sentences.md)
+    - [翻译: 解码人类判断，构建预测模型：探索代码混合语言的可接受性之谜](2024年05月09日/From_Human_Judgements_to_Predictive_Models_Unravelling_Acceptability_in_Code-Mixed_Sentences.md)
 
 - [Investigating Interaction Modes and User Agency in Human-LLM Collaboration for Domain-Specific Data Analysis](2024年05月09日/Investigating_Interaction_Modes_and_User_Agency_in_Human-LLM_Collaboration_for_Domain-Specific_Data_Analysis.md)
 
-    - [翻译: ](2024年05月09日/Investigating_Interaction_Modes_and_User_Agency_in_Human-LLM_Collaboration_for_Domain-Specific_Data_Analysis.md)
+    - [翻译: 探究在特定领域数据分析中，人类与LLM协作的交互方式及用户自主权在翻译过程中，我首先确保了原文意思的准确传达，然后对语言进行了优化，使其更加符合中文的表达习惯，同时保持了原文的生动性和简洁性。](2024年05月09日/Investigating_Interaction_Modes_and_User_Agency_in_Human-LLM_Collaboration_for_Domain-Specific_Data_Analysis.md)
 
 - [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](2024年05月09日/Lumina-T2X_Transforming_Text_into_Any_Modality,_Resolution,_and_Duration_via_Flow-based_Large_Diffusion_Transformers.md)
 
-    - [翻译: ](2024年05月09日/Lumina-T2X_Transforming_Text_into_Any_Modality,_Resolution,_and_Duration_via_Flow-based_Large_Diffusion_Transformers.md)
+    - [翻译: Lumina-T2X：借助基于流的巨型扩散变换器，将文本灵活转换为多样化的模态、高分辨率及任意时长，开启文本表达的新纪元。](2024年05月09日/Lumina-T2X_Transforming_Text_into_Any_Modality,_Resolution,_and_Duration_via_Flow-based_Large_Diffusion_Transformers.md)
 
 - [Transformer Architecture for NetsDB](2024年05月09日/Transformer_Architecture_for_NetsDB.md)
 
-    - [翻译: ](2024年05月09日/Transformer_Architecture_for_NetsDB.md)
+    - [翻译: NetsDB 采用 Transformer 架构，该架构在自然语言处理领域展现了卓越的性能，为数据处理和分析提供了强大的支持。](2024年05月09日/Transformer_Architecture_for_NetsDB.md)
 
 2024年05月08日
 
@@ -226,63 +226,63 @@
 
 - [Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview](2024年05月08日/Benchmarking_Neural_Radiance_Fields_for_Autonomous_Robots_An_Overview.md)
 
-    - [翻译: ](2024年05月08日/Benchmarking_Neural_Radiance_Fields_for_Autonomous_Robots_An_Overview.md)
+    - [翻译: 自主机器人神经辐射场性能基准：全面概览](2024年05月08日/Benchmarking_Neural_Radiance_Fields_for_Autonomous_Robots_An_Overview.md)
 
 - [Redefining Information Retrieval of Structured Database via Large Language Models](2024年05月08日/Redefining_Information_Retrieval_of_Structured_Database_via_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月08日/Redefining_Information_Retrieval_of_Structured_Database_via_Large_Language_Models.md)
+    - [翻译: 大型语言模型重塑结构化数据库信息检索新篇章](2024年05月08日/Redefining_Information_Retrieval_of_Structured_Database_via_Large_Language_Models.md)
 
 - [Cross-Care: Assessing the Healthcare Implications of Pre-training Data on Language Model Bias](2024年05月08日/Cross-Care_Assessing_the_Healthcare_Implications_of_Pre-training_Data_on_Language_Model_Bias.md)
 
-    - [翻译: ](2024年05月08日/Cross-Care_Assessing_the_Healthcare_Implications_of_Pre-training_Data_on_Language_Model_Bias.md)
+    - [翻译: 跨医疗关怀：探究预训练数据如何塑造语言模型偏见，及其对医疗领域的深远影响在这项研究中，我们将深入探讨预训练数据如何影响语言模型的偏见，并分析这些偏见如何渗透到医疗决策中，从而对患者的护理产生潜在影响。我们的目标是揭示这些偏见的根源，并提出策略以减轻其对医疗保健系统的负面影响。](2024年05月08日/Cross-Care_Assessing_the_Healthcare_Implications_of_Pre-training_Data_on_Language_Model_Bias.md)
 
 - [Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis](2024年05月08日/Boosting_Large_Language_Models_with_Continual_Learning_for_Aspect-based_Sentiment_Analysis.md)
 
-    - [翻译: ](2024年05月08日/Boosting_Large_Language_Models_with_Continual_Learning_for_Aspect-based_Sentiment_Analysis.md)
+    - [翻译: 借助持续学习，强化大型语言模型在基于方面的情感分析领域的应用在翻译过程中，我首先确保原文的核心意义被准确传达，即“通过持续学习提升大型语言模型在基于方面的情感分析中的性能”。随后，我进一步优化表达，使其更符合中文的流畅性和优雅性，形成了“借助持续学习，强化大型语言模型在基于方面的情感分析领域的应用”的翻译。这样的翻译既保留了原文的技术性，又增添了中文表达的生动性和简洁性。](2024年05月08日/Boosting_Large_Language_Models_with_Continual_Learning_for_Aspect-based_Sentiment_Analysis.md)
 
 - [PLLM-CS: Pre-trained Large Language Model (LLM) for Cyber Threat Detection in Satellite Networks](2024年05月08日/PLLM-CS_Pre-trained_Large_Language_Model_(LLM)_for_Cyber_Threat_Detection_in_Satellite_Networks.md)
 
-    - [翻译: ](2024年05月08日/PLLM-CS_Pre-trained_Large_Language_Model_(LLM)_for_Cyber_Threat_Detection_in_Satellite_Networks.md)
+    - [翻译: PLLM-CS：专为卫星网络安全威胁检测而设计的预训练大型语言模型，旨在通过先进的语言处理技术，提升对潜在网络风险的识别与防御能力。](2024年05月08日/PLLM-CS_Pre-trained_Large_Language_Model_(LLM)_for_Cyber_Threat_Detection_in_Satellite_Networks.md)
 
 - [Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals](2024年05月08日/Poser_Unmasking_Alignment_Faking_LLMs_by_Manipulating_Their_Internals.md)
 
-    - [翻译: ](2024年05月08日/Poser_Unmasking_Alignment_Faking_LLMs_by_Manipulating_Their_Internals.md)
+    - [翻译: 揭秘者：操纵LLMs内部机制，揭示其伪装对齐的真相](2024年05月08日/Poser_Unmasking_Alignment_Faking_LLMs_by_Manipulating_Their_Internals.md)
 
 - [Vidur: A Large-Scale Simulation Framework For LLM Inference](2024年05月08日/Vidur_A_Large-Scale_Simulation_Framework_For_LLM_Inference.md)
 
-    - [翻译: ](2024年05月08日/Vidur_A_Large-Scale_Simulation_Framework_For_LLM_Inference.md)
+    - [翻译: Vidur：大型语言模型推理的大型规模模拟框架在翻译过程中，我首先确保了原文意思的准确传达，然后对翻译进行了优化，使其更符合中文的表达习惯，同时保持了原文的简洁和优雅。](2024年05月08日/Vidur_A_Large-Scale_Simulation_Framework_For_LLM_Inference.md)
 
 - [Automated Program Repair: Emerging trends pose and expose problems for benchmarks](2024年05月08日/Automated_Program_Repair_Emerging_trends_pose_and_expose_problems_for_benchmarks.md)
 
-    - [翻译: ](2024年05月08日/Automated_Program_Repair_Emerging_trends_pose_and_expose_problems_for_benchmarks.md)
+    - [翻译: 自动化程序修复领域的新兴趋势不仅挑战了现有的基准测试，还揭示了其潜在的局限性。](2024年05月08日/Automated_Program_Repair_Emerging_trends_pose_and_expose_problems_for_benchmarks.md)
 
 - [Large Language Model Enhanced Machine Learning Estimators for Classification](2024年05月08日/Large_Language_Model_Enhanced_Machine_Learning_Estimators_for_Classification.md)
 
-    - [翻译: ](2024年05月08日/Large_Language_Model_Enhanced_Machine_Learning_Estimators_for_Classification.md)
+    - [翻译: 大型语言模型赋能的机器学习分类器：精准估计新境界](2024年05月08日/Large_Language_Model_Enhanced_Machine_Learning_Estimators_for_Classification.md)
 
 - [Evaluating Students' Open-ended Written Responses with LLMs: Using the RAG Framework for GPT-3.5, GPT-4, Claude-3, and Mistral-Large](2024年05月08日/Evaluating_Students'_Open-ended_Written_Responses_with_LLMs_Using_the_RAG_Framework_for_GPT-3.5,_GPT-4,_Claude-3,_and_Mistral-Large.md)
 
-    - [翻译: ](2024年05月08日/Evaluating_Students'_Open-ended_Written_Responses_with_LLMs_Using_the_RAG_Framework_for_GPT-3.5,_GPT-4,_Claude-3,_and_Mistral-Large.md)
+    - [翻译: 借助RAG框架，我们评估了GPT-3.5、GPT-4、Claude-3和Mistral-Large在评价学生开放式书面回答方面的表现。本研究旨在探索这些大型语言模型在教育评估中的应用潜力。](2024年05月08日/Evaluating_Students'_Open-ended_Written_Responses_with_LLMs_Using_the_RAG_Framework_for_GPT-3.5,_GPT-4,_Claude-3,_and_Mistral-Large.md)
 
 - [Information Extraction from Historical Well Records Using A Large Language Model](2024年05月08日/Information_Extraction_from_Historical_Well_Records_Using_A_Large_Language_Model.md)
 
-    - [翻译: ](2024年05月08日/Information_Extraction_from_Historical_Well_Records_Using_A_Large_Language_Model.md)
+    - [翻译: 大型语言模型助力历史井记录信息抽取在上述翻译过程中，首先直接将英文标题翻译为中文，确保意思的准确传达。接着，对直译结果进行优化，使其更加符合中文的表达习惯，同时保持简洁优雅，并增添了一丝生动性。](2024年05月08日/Information_Extraction_from_Historical_Well_Records_Using_A_Large_Language_Model.md)
 
 - [Mitigating Exaggerated Safety in Large Language Models](2024年05月08日/Mitigating_Exaggerated_Safety_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月08日/Mitigating_Exaggerated_Safety_in_Large_Language_Models.md)
+    - [翻译: 大型语言模型的安全性问题亟待解决，我们致力于减轻其夸大风险，以确保技术的稳健发展。](2024年05月08日/Mitigating_Exaggerated_Safety_in_Large_Language_Models.md)
 
 - [Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language Models](2024年05月08日/Fishing_for_Magikarp_Automatically_Detecting_Under-trained_Tokens_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月08日/Fishing_for_Magikarp_Automatically_Detecting_Under-trained_Tokens_in_Large_Language_Models.md)
+    - [翻译: 《捕捉未熟之鳞：自动识别大型语言模型中的欠训练标记》](2024年05月08日/Fishing_for_Magikarp_Automatically_Detecting_Under-trained_Tokens_in_Large_Language_Models.md)
 
 - ["They are uncultured": Unveiling Covert Harms and Social Threats in LLM Generated Conversations](2024年05月08日/They_are_uncultured_Unveiling_Covert_Harms_and_Social_Threats_in_LLM_Generated_Conversations.md)
 
-    - [翻译: ](2024年05月08日/They_are_uncultured_Unveiling_Covert_Harms_and_Social_Threats_in_LLM_Generated_Conversations.md)
+    - [翻译: "粗俗之言"：揭示大型语言模型对话背后的隐秘伤害与社会风险](2024年05月08日/They_are_uncultured_Unveiling_Covert_Harms_and_Social_Threats_in_LLM_Generated_Conversations.md)
 
 - [Enhancing Holonic Architecture with Natural Language Processing for System of Systems](2024年05月08日/Enhancing_Holonic_Architecture_with_Natural_Language_Processing_for_System_of_Systems.md)
 
-    - [翻译: ](2024年05月08日/Enhancing_Holonic_Architecture_with_Natural_Language_Processing_for_System_of_Systems.md)
+    - [翻译: 借助自然语言处理，我们优化了整体架构，以提升系统之系统的协同效率。](2024年05月08日/Enhancing_Holonic_Architecture_with_Natural_Language_Processing_for_System_of_Systems.md)
 
 - [The Effect of Model Size on LLM Post-hoc Explainability via LIME](2024年05月08日/The_Effect_of_Model_Size_on_LLM_Post-hoc_Explainability_via_LIME.md)
 
