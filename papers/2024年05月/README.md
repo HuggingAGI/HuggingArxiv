@@ -286,7 +286,7 @@
 
 - [The Effect of Model Size on LLM Post-hoc Explainability via LIME](2024年05月08日/The_Effect_of_Model_Size_on_LLM_Post-hoc_Explainability_via_LIME.md)
 
-    - [翻译: ](2024年05月08日/The_Effect_of_Model_Size_on_LLM_Post-hoc_Explainability_via_LIME.md)
+    - [翻译: 在探索大型语言模型的奥秘时，模型的大小扮演着至关重要的角色。通过 LIME 这一工具，我们能够揭开 LLM 的可解释性之谜。本研究将深入探讨模型大小如何影响 LLM 的可解释性，为理解这些复杂系统的内在工作机制提供新的视角。](2024年05月08日/The_Effect_of_Model_Size_on_LLM_Post-hoc_Explainability_via_LIME.md)
 
 - [Benchmarking Educational Program Repair](2024年05月08日/Benchmarking_Educational_Program_Repair.md)
 
