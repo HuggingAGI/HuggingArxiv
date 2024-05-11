@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 本文探讨了如何通过逻辑感知的课程调整方法，提升在知识图谱上进行复杂推理的性能。
 发布时间：2024年05月02日
 

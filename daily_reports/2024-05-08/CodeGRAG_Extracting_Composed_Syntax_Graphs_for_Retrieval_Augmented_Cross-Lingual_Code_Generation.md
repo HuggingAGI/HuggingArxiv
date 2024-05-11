@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # CodeGRAF：为增强检索的跨语言代码生成提取复合语法图。
 发布时间：2024年05月02日
 

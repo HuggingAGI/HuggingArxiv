@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 智能副驾：一款基于视觉语言模型的自动驾驶辅助系统，它模仿人类驾驶员的行为，并能深刻理解复杂多变的道路环境。
 发布时间：2024年05月09日
 

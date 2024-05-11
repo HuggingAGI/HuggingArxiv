@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 一项针对金融、医疗保健和法律等关键社会领域内大型语言模型的综述研究
 发布时间：2024年05月02日
 

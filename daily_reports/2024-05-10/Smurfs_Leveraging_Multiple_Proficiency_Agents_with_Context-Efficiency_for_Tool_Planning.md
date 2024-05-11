@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 蓝精灵策略：借助高效利用上下文的多技能代理，实现工具规划的优化在翻译过程中，我首先确保原文的核心概念和术语被准确地转换成中文，如“Smurfs”、“Multiple Proficiency Agents”和“Context-Efficiency”。接着，我调整了语言风格，使其更加符合中文的表达习惯，同时保持了原文的生动性和简洁性。通过这种方式，翻译既忠实于原文，又易于中文读者理解。
 发布时间：2024年05月09日
 

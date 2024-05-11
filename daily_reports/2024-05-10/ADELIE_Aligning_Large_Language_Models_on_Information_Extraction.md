@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # ADELIE：大型语言模型在信息抽取领域的精准对齐在翻译过程中，我首先确保原文的核心意义被准确传达，即“ADELIE”是一个关于大型语言模型在信息抽取任务上进行对齐的项目或方法。然后，我调整了语言表达，使其更加符合中文的表达习惯，同时保持了原文的专业性和简洁性。
 发布时间：2024年05月08日
 

@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 利用产品元数据，为对话式购物助手提供问题建议
 发布时间：2024年05月02日
 

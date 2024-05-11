@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 微调 LLMs 以吸收新知，是否会催生幻觉？
 发布时间：2024年05月09日
 

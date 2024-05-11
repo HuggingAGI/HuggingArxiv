@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 借助RAG框架，我们评估了GPT-3.5、GPT-4、Claude-3和Mistral-Large在评价学生开放式书面回答方面的表现。本研究旨在探索这些大型语言模型在教育评估中的应用潜力。
 发布时间：2024年05月08日
 

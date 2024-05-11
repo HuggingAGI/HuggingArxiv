@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 自动化地从数字媒体中分析公众对生物多样性的关注点和态度
 发布时间：2024年05月02日
 

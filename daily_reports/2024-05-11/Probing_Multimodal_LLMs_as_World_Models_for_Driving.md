@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 探索大型语言模型的多模态潜能，将其作为驾驶场景的智能世界模型。
 发布时间：2024年05月09日
 

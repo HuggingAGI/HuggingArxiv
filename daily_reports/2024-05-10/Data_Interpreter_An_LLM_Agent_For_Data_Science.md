@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 数据解码者：大型语言模型驱动的数据科学智能助手
 发布时间：2024年03月12日
 

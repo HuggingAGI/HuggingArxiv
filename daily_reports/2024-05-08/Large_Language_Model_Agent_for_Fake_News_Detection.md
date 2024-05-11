@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 大型语言模型代理：假新闻侦测利器
 发布时间：2024年04月30日
 

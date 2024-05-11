@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # 为基于大型语言模型的对话式推荐系统融入外部知识并引入目标导向。
 发布时间：2024年05月03日
 

@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/imgs/follow2.gif)
 # CoS技术：借助上下文导航，提升个性化体验，同时有效降低偏见风险。
 发布时间：2024年05月02日
 
