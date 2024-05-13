@@ -1,5 +1,99 @@
 # 2024年05月
 
+2024年05月10日
+
+- [Linearizing Large Language Models](2024年05月10日/Linearizing_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型的线性化](2024年05月10日/Linearizing_Large_Language_Models.md)
+
+- [Value Augmented Sampling for Language Model Alignment and Personalization](2024年05月10日/Value_Augmented_Sampling_for_Language_Model_Alignment_and_Personalization.md)
+
+    - [翻译: 语言模型的价值增强采样：对齐与个性化之道](2024年05月10日/Value_Augmented_Sampling_for_Language_Model_Alignment_and_Personalization.md)
+
+- [Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models](2024年05月10日/Characterizing_the_Accuracy_-_Efficiency_Trade-off_of_Low-rank_Decomposition_in_Language_Models.md)
+
+    - [翻译: 语言模型中低秩分解的精效平衡探析](2024年05月10日/Characterizing_the_Accuracy_-_Efficiency_Trade-off_of_Low-rank_Decomposition_in_Language_Models.md)
+
+- [What Can Natural Language Processing Do for Peer Review?](2024年05月10日/What_Can_Natural_Language_Processing_Do_for_Peer_Review.md)
+
+    - [翻译: 自然语言处理如何助力同行评审？](2024年05月10日/What_Can_Natural_Language_Processing_Do_for_Peer_Review.md)
+
+- [Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval](2024年05月10日/Mitigating_Hallucinations_in_Large_Language_Models_via_Self-Refinement-Enhanced_Knowledge_Retrieval.md)
+
+    - [翻译: 借助自精细化知识检索，大型语言模型幻觉得以缓解](2024年05月10日/Mitigating_Hallucinations_in_Large_Language_Models_via_Self-Refinement-Enhanced_Knowledge_Retrieval.md)
+
+- [Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts](2024年05月10日/Prompting_Large_Language_Models_with_Knowledge_Graphs_for_Question_Answering_Involving_Long-tail_Facts.md)
+
+    - [翻译: 借助知识图谱，激发大型语言模型解答长尾事实相关问题](2024年05月10日/Prompting_Large_Language_Models_with_Knowledge_Graphs_for_Question_Answering_Involving_Long-tail_Facts.md)
+
+- [UniDM: A Unified Framework for Data Manipulation with Large Language Models](2024年05月10日/UniDM_A_Unified_Framework_for_Data_Manipulation_with_Large_Language_Models.md)
+
+    - [翻译: UniDM：大型语言模型数据操作的统一之桥在人工智能的浩瀚星空中，UniDM犹如一座横跨数据与智慧的桥梁，以其统一之姿，将大型语言模型的数据操作能力汇聚于一点。它不仅是一套框架，更是一种艺术，一种将数据的纷繁复杂转化为模型智慧的精湛技艺。在这个框架下，数据的每一次舞动，都仿佛在诉说着与模型深度对话的故事，引领我们探索数据科学的无限可能。](2024年05月10日/UniDM_A_Unified_Framework_for_Data_Manipulation_with_Large_Language_Models.md)
+
+- [Storypark: Leveraging Large Language Models to Enhance Children Story Learning Through Child-AI collaboration Storytelling](2024年05月10日/Storypark_Leveraging_Large_Language_Models_to_Enhance_Children_Story_Learning_Through_Child-AI_collaboration_Storytelling.md)
+
+    - [翻译: Storypark：借助大型语言模型的力量，通过儿童与AI的协作讲故事，提升儿童的故事学习体验。](2024年05月10日/Storypark_Leveraging_Large_Language_Models_to_Enhance_Children_Story_Learning_Through_Child-AI_collaboration_Storytelling.md)
+
+- [ProCIS: A Benchmark for Proactive Retrieval in Conversations](2024年05月10日/ProCIS_A_Benchmark_for_Proactive_Retrieval_in_Conversations.md)
+
+    - [翻译: ProCIS：对话主动检索的标杆在这篇文章中，我们将介绍ProCIS，这是一个专为对话中主动检索设计的基准。它旨在评估和推动对话系统在主动检索信息方面的能力，以提高交互的自然性和效率。通过ProCIS，研究者可以更好地理解和改进对话系统在处理复杂查询和提供即时信息时的表现。](2024年05月10日/ProCIS_A_Benchmark_for_Proactive_Retrieval_in_Conversations.md)
+
+- [Improving Instruction Following in Language Models through Proxy-Based Uncertainty Estimation](2024年05月10日/Improving_Instruction_Following_in_Language_Models_through_Proxy-Based_Uncertainty_Estimation.md)
+
+    - [翻译: 借助代理辅助的不确定性评估，精进语言模型的指令执行艺术](2024年05月10日/Improving_Instruction_Following_in_Language_Models_through_Proxy-Based_Uncertainty_Estimation.md)
+
+- [Can Large Language Models Replicate ITS Feedback on Open-Ended Math Questions?](2024年05月10日/Can_Large_Language_Models_Replicate_ITS_Feedback_on_Open-Ended_Math_Questions.md)
+
+    - [翻译: 大型语言模型是否具备复制智能教学系统对开放式数学问题反馈的能力？](2024年05月10日/Can_Large_Language_Models_Replicate_ITS_Feedback_on_Open-Ended_Math_Questions.md)
+
+- [Potential and Limitations of LLMs in Capturing Structured Semantics: A Case Study on SRL](2024年05月10日/Potential_and_Limitations_of_LLMs_in_Capturing_Structured_Semantics_A_Case_Study_on_SRL.md)
+
+    - [翻译: 大型语言模型在揭示结构化语义的奥秘上既有潜力也有限制，本研究以语义角色标注为切入点，深入探讨了这一议题。](2024年05月10日/Potential_and_Limitations_of_LLMs_in_Capturing_Structured_Semantics_A_Case_Study_on_SRL.md)
+
+- [Program Synthesis using Inductive Logic Programming for the Abstraction and Reasoning Corpus](2024年05月10日/Program_Synthesis_using_Inductive_Logic_Programming_for_the_Abstraction_and_Reasoning_Corpus.md)
+
+    - [翻译: 归纳逻辑编程助力程序合成，探索抽象与推理语料库之奥秘](2024年05月10日/Program_Synthesis_using_Inductive_Logic_Programming_for_the_Abstraction_and_Reasoning_Corpus.md)
+
+- [LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play](2024年05月10日/LLM_Discussion_Enhancing_the_Creativity_of_Large_Language_Models_via_Discussion_Framework_and_Role-Play.md)
+
+    - [翻译: 大型语言模型创造力提升：探讨框架与角色扮演的融合之道](2024年05月10日/LLM_Discussion_Enhancing_the_Creativity_of_Large_Language_Models_via_Discussion_Framework_and_Role-Play.md)
+
+- [DP-DyLoRA: Fine-Tuning Transformer-Based Models On-Device under Differentially Private Federated Learning using Dynamic Low-Rank Adaptation](2024年05月10日/DP-DyLoRA_Fine-Tuning_Transformer-Based_Models_On-Device_under_Differentially_Private_Federated_Learning_using_Dynamic_Low-Rank_Adaptation.md)
+
+    - [翻译: DP-DyLoRA：在隐私保护联邦学习框架下，采用动态低秩适应技术，对基于变换器的模型进行设备端精细调整，以实现数据隐私与模型性能的平衡。](2024年05月10日/DP-DyLoRA_Fine-Tuning_Transformer-Based_Models_On-Device_under_Differentially_Private_Federated_Learning_using_Dynamic_Low-Rank_Adaptation.md)
+
+- [Correlation Dimension of Natural Language in a Statistical Manifold](2024年05月10日/Correlation_Dimension_of_Natural_Language_in_a_Statistical_Manifold.md)
+
+    - [翻译: 自然语言在统计空间中的相关维度探索](2024年05月10日/Correlation_Dimension_of_Natural_Language_in_a_Statistical_Manifold.md)
+
+- [FedGCS: A Generative Framework for Efficient Client Selection in Federated Learning via Gradient-based Optimization](2024年05月10日/FedGCS_A_Generative_Framework_for_Efficient_Client_Selection_in_Federated_Learning_via_Gradient-based_Optimization.md)
+
+    - [翻译: FedGCS：梯度优化驱动的高效联邦学习客户端选择生成框架](2024年05月10日/FedGCS_A_Generative_Framework_for_Efficient_Client_Selection_in_Federated_Learning_via_Gradient-based_Optimization.md)
+
+- [Pruning as a Domain-specific LLM Extractor](2024年05月10日/Pruning_as_a_Domain-specific_LLM_Extractor.md)
+
+    - [翻译: 修剪技术：特定领域的大型语言模型精炼者](2024年05月10日/Pruning_as_a_Domain-specific_LLM_Extractor.md)
+
+- [XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare](2024年05月10日/XAI4LLM._Let_Machine_Learning_Models_and_LLMs_Collaborate_for_Enhanced_In-Context_Learning_in_Healthcare.md)
+
+    - [翻译: XAI4LLM：携手机器学习与大型语言模型，共铸医疗领域上下文学习的辉煌。](2024年05月10日/XAI4LLM._Let_Machine_Learning_Models_and_LLMs_Collaborate_for_Enhanced_In-Context_Learning_in_Healthcare.md)
+
+- [Automatic Generation of Model and Data Cards: A Step Towards Responsible AI](2024年05月10日/Automatic_Generation_of_Model_and_Data_Cards_A_Step_Towards_Responsible_AI.md)
+
+    - [翻译: 自动创建模型与数据卡片：引领人工智能走向责任之道](2024年05月10日/Automatic_Generation_of_Model_and_Data_Cards_A_Step_Towards_Responsible_AI.md)
+
+- [SaudiBERT: A Large Language Model Pretrained on Saudi Dialect Corpora](2024年05月10日/SaudiBERT_A_Large_Language_Model_Pretrained_on_Saudi_Dialect_Corpora.md)
+
+    - [翻译: 沙特方言之光：SaudiBERT——专为沙特语境定制的大型预训练语言模型](2024年05月10日/SaudiBERT_A_Large_Language_Model_Pretrained_on_Saudi_Dialect_Corpora.md)
+
+- [Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation](2024年05月10日/Risks_of_Practicing_Large_Language_Models_in_Smart_Grid_Threat_Modeling_and_Validation.md)
+
+    - [翻译: 智能电网中应用大型语言模型的潜在风险：威胁建模与验证探索在智能电网领域，大型语言模型的应用虽带来便利，但其潜在风险不容忽视。本文将深入探讨这些风险，并通过威胁建模与验证，揭示其对智能电网安全的影响。](2024年05月10日/Risks_of_Practicing_Large_Language_Models_in_Smart_Grid_Threat_Modeling_and_Validation.md)
+
+- [ExoplANETS-A: A VO database for host stars and planetary systems: The effect of XUV on planet atmospheres](2024年05月10日/ExoplANETS-A_A_VO_database_for_host_stars_and_planetary_systems_The_effect_of_XUV_on_planet_atmospheres.md)
+
+    - [翻译: ExoplANETS-A：探索宿主星与行星系统的宝库，揭示XUV辐射如何塑造遥远世界的大气层。](2024年05月10日/ExoplANETS-A_A_VO_database_for_host_stars_and_planetary_systems_The_effect_of_XUV_on_planet_atmospheres.md)
+
 2024年05月09日
 
 - [Natural Language Processing RELIES on Linguistics](2024年05月09日/Natural_Language_Processing_RELIES_on_Linguistics.md)
@@ -117,6 +211,70 @@
 - [Transformer Architecture for NetsDB](2024年05月09日/Transformer_Architecture_for_NetsDB.md)
 
     - [翻译: NetsDB 采用 Transformer 架构，该架构在自然语言处理领域展现了卓越的性能，为数据处理和分析提供了强大的支持。](2024年05月09日/Transformer_Architecture_for_NetsDB.md)
+
+- [SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models](2024年05月09日/SKVQ_Sliding-window_Key_and_Value_Cache_Quantization_for_Large_Language_Models.md)
+
+    - [翻译: SKVQ：大型语言模型的滑动窗口键值缓存量化技术，通过精妙的量化策略，优化了模型的缓存效率，为语言模型的性能提升开辟了新的道路。](2024年05月09日/SKVQ_Sliding-window_Key_and_Value_Cache_Quantization_for_Large_Language_Models.md)
+
+- [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](2024年05月09日/A_Survey_on_RAG_Meets_LLMs_Towards_Retrieval-Augmented_Large_Language_Models.md)
+
+    - [翻译: 《RAG与大型语言模型：探索检索增强型LLM之路》调研报告](2024年05月09日/A_Survey_on_RAG_Meets_LLMs_Towards_Retrieval-Augmented_Large_Language_Models.md)
+
+- [VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks](2024年05月09日/VLSM-Adapter_Finetuning_Vision-Language_Segmentation_Efficiently_with_Lightweight_Blocks.md)
+
+    - [翻译: VLSM-Adapter：以轻巧之姿，高效微调视觉与语言的分割艺术](2024年05月09日/VLSM-Adapter_Finetuning_Vision-Language_Segmentation_Efficiently_with_Lightweight_Blocks.md)
+
+- [Muting Whisper: A Universal Acoustic Adversarial Attack on Speech Foundation Models](2024年05月09日/Muting_Whisper_A_Universal_Acoustic_Adversarial_Attack_on_Speech_Foundation_Models.md)
+
+    - [翻译: 《沉默之声：对语音基础模型发起的通用声学对抗攻击》](2024年05月09日/Muting_Whisper_A_Universal_Acoustic_Adversarial_Attack_on_Speech_Foundation_Models.md)
+
+- [Transforming the Bootstrap: Using Transformers to Compute Scattering Amplitudes in Planar N = 4 Super Yang-Mills Theory](2024年05月09日/Transforming_the_Bootstrap_Using_Transformers_to_Compute_Scattering_Amplitudes_in_Planar_N_=_4_Super_Yang-Mills_Theory.md)
+
+    - [翻译: 变压器的引入为平面N = 4超杨-米尔斯理论中的散射振幅计算带来了革新，打破了传统引导程序的局限。](2024年05月09日/Transforming_the_Bootstrap_Using_Transformers_to_Compute_Scattering_Amplitudes_in_Planar_N_=_4_Super_Yang-Mills_Theory.md)
+
+- [Can Perplexity Reflect Large Language Model's Ability in Long Text Understanding?](2024年05月09日/Can_Perplexity_Reflect_Large_Language_Model's_Ability_in_Long_Text_Understanding.md)
+
+    - [翻译: 大型语言模型的困惑度是否是其长文本理解能力的晴雨表？](2024年05月09日/Can_Perplexity_Reflect_Large_Language_Model's_Ability_in_Long_Text_Understanding.md)
+
+- [Selective Fine-tuning on LLM-labeled Data May Reduce Reliance on Human Annotation: A Case Study Using Schedule-of-Event Table Detection](2024年05月09日/Selective_Fine-tuning_on_LLM-labeled_Data_May_Reduce_Reliance_on_Human_Annotation_A_Case_Study_Using_Schedule-of-Event_Table_Detection.md)
+
+    - [翻译: 通过在LLM标注数据上进行精准微调，我们或许能减少对人工标注的依赖，正如我们在事件时间表检测案例研究中所探索的。这一策略不仅提升了效率，也为自动化标注开辟了新途径。](2024年05月09日/Selective_Fine-tuning_on_LLM-labeled_Data_May_Reduce_Reliance_on_Human_Annotation_A_Case_Study_Using_Schedule-of-Event_Table_Detection.md)
+
+- [Believing Anthropomorphism: Examining the Role of Anthropomorphic Cues on Trust in Large Language Models](2024年05月09日/Believing_Anthropomorphism_Examining_the_Role_of_Anthropomorphic_Cues_on_Trust_in_Large_Language_Models.md)
+
+    - [翻译: 拟人化信任：揭示大语言模型中拟人化线索对信任的影响在这项研究中，我们将深入探讨拟人化线索如何塑造用户对大型语言模型的信任感，揭示这一现象背后的心理机制，并探索如何优化模型设计以增强用户信任。](2024年05月09日/Believing_Anthropomorphism_Examining_the_Role_of_Anthropomorphic_Cues_on_Trust_in_Large_Language_Models.md)
+
+- [HMT: Hierarchical Memory Transformer for Long Context Language Processing](2024年05月09日/HMT_Hierarchical_Memory_Transformer_for_Long_Context_Language_Processing.md)
+
+    - [翻译: 层次记忆变压器（HMT）：专为长篇语言处理而设计在这篇文章中，我们将探讨层次记忆变压器（HMT），这是一种创新的技术，旨在处理长篇语言上下文，以提升自然语言处理任务的性能。HMT通过其独特的层次结构记忆机制，能够捕捉和处理更广泛的语言上下文信息，从而在处理复杂语言任务时展现出卓越的能力。](2024年05月09日/HMT_Hierarchical_Memory_Transformer_for_Long_Context_Language_Processing.md)
+
+- [LLMs for XAI: Future Directions for Explaining Explanations](2024年05月09日/LLMs_for_XAI_Future_Directions_for_Explaining_Explanations.md)
+
+    - [翻译: 大型语言模型在可解释人工智能中的应用：探索解释解释的未来发展路径](2024年05月09日/LLMs_for_XAI_Future_Directions_for_Explaining_Explanations.md)
+
+- [Supporting Physical Activity Behavior Change with LLM-Based Conversational Agents](2024年05月09日/Supporting_Physical_Activity_Behavior_Change_with_LLM-Based_Conversational_Agents.md)
+
+    - [翻译: 借助大型语言模型（LLM）赋能的对话伙伴，助力身体活动行为转变在这篇文章中，我们将探讨如何利用大型语言模型（LLM）开发的智能对话代理，来激励和支持人们改变他们的身体活动习惯。这些智能伙伴能够理解用户的意图，提供个性化的建议，并在用户追求更健康生活方式的过程中提供持续的鼓励和指导。](2024年05月09日/Supporting_Physical_Activity_Behavior_Change_with_LLM-Based_Conversational_Agents.md)
+
+- [Large Language Models Show Human-like Social Desirability Biases in Survey Responses](2024年05月09日/Large_Language_Models_Show_Human-like_Social_Desirability_Biases_in_Survey_Responses.md)
+
+    - [翻译: 大型语言模型在调查回复中显露出与人类相似的社会期望倾向，这表明它们在模拟人类社会行为方面取得了显著进展。然而，这种偏差的存在也引发了对模型在处理敏感问题时可能产生的误导性影响的担忧。](2024年05月09日/Large_Language_Models_Show_Human-like_Social_Desirability_Biases_in_Survey_Responses.md)
+
+- [Time complexity for deterministic string machines](2024年05月09日/Time_complexity_for_deterministic_string_machines.md)
+
+    - [翻译: 确定性字符串机器的运算效率分析](2024年05月09日/Time_complexity_for_deterministic_string_machines.md)
+
+- [Binary Hypothesis Testing for Softmax Models and Leverage Score Models](2024年05月09日/Binary_Hypothesis_Testing_for_Softmax_Models_and_Leverage_Score_Models.md)
+
+    - [翻译: Softmax模型与杠杆分数模型的二元假设检验探索](2024年05月09日/Binary_Hypothesis_Testing_for_Softmax_Models_and_Leverage_Score_Models.md)
+
+- [LLM-QBench: A Benchmark Towards the Best Practice for Post-training Quantization of Large Language Models](2024年05月09日/LLM-QBench_A_Benchmark_Towards_the_Best_Practice_for_Post-training_Quantization_of_Large_Language_Models.md)
+
+    - [翻译: LLM-QBench：大型语言模型后训练量化实践的标杆在这项研究中，我们提出了 LLM-QBench，这是一个旨在为大型语言模型的后训练量化提供最佳实践的基准。通过 LLM-QBench，我们旨在探索和评估不同量化策略对模型性能的影响，从而为实际应用中的模型优化提供指导。](2024年05月09日/LLM-QBench_A_Benchmark_Towards_the_Best_Practice_for_Post-training_Quantization_of_Large_Language_Models.md)
+
+- [LLMPot: Automated LLM-based Industrial Protocol and Physical Process Emulation for ICS Honeypots](2024年05月09日/LLMPot_Automated_LLM-based_Industrial_Protocol_and_Physical_Process_Emulation_for_ICS_Honeypots.md)
+
+    - [翻译: LLMPot：利用LLM自动化模拟工业协议与物理过程，为ICS蜜罐打造智能防护盾解释：在结果2中，我采用了更加生动和形象的表达方式，将“自动化模拟”比喻为“打造智能防护盾”，使得翻译更加符合中文的表达习惯，同时也增强了语言的吸引力和表现力。](2024年05月09日/LLMPot_Automated_LLM-based_Industrial_Protocol_and_Physical_Process_Emulation_for_ICS_Honeypots.md)
 
 2024年05月08日
 
@@ -295,6 +453,10 @@
 - [KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation](2024年05月08日/KV-Runahead_Scalable_Causal_LLM_Inference_by_Parallel_Key-Value_Cache_Generation.md)
 
     - [翻译: KV-Runahead：并行生成键值缓存，解锁因果LLM推理的扩展潜能在这项研究中，我们提出了KV-Runahead方法，这是一种新颖的技术，通过并行生成键值缓存来提高大型语言模型（LLM）的因果推理效率。我们的方法解决了传统推理方法中的瓶颈问题，实现了更快的推理速度和更好的可扩展性。通过实验验证，KV-Runahead在保持推理质量的同时，显著提升了LLM的性能。](2024年05月08日/KV-Runahead_Scalable_Causal_LLM_Inference_by_Parallel_Key-Value_Cache_Generation.md)
+
+- [Special Characters Attack: Toward Scalable Training Data Extraction From Large Language Models](2024年05月08日/Special_Characters_Attack_Toward_Scalable_Training_Data_Extraction_From_Large_Language_Models.md)
+
+    - [翻译: 特殊字符攻击：揭秘大型语言模型训练数据的提取之谜在这项研究中，我们探讨了一种新颖的攻击手段——特殊字符攻击，它旨在从大型语言模型中提取训练数据。通过精心设计的特殊字符组合，我们能够揭示模型背后的知识库，为数据隐私和安全带来新的挑战。](2024年05月08日/Special_Characters_Attack_Toward_Scalable_Training_Data_Extraction_From_Large_Language_Models.md)
 
 2024年05月07日
 
