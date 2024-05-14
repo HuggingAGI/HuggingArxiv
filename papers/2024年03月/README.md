@@ -102,6 +102,12 @@
 
     - [翻译: 深入剖析 GPT-4 在句子简化任务上的表现，并通过基于错误的人工评估来衡量。](2024年03月07日/An_In-depth_Evaluation_of_GPT-4_in_Sentence_Simplification_with_Error-based_Human_Assessment.md)
 
+2024年03月06日
+
+- [Levels of AI Agents: from Rules to Large Language Models](2024年03月06日/Levels_of_AI_Agents_from_Rules_to_Large_Language_Models.md)
+
+    - [翻译: AI智能体的演进：从基于规则的系统到大型语言模型的飞跃](2024年03月06日/Levels_of_AI_Agents_from_Rules_to_Large_Language_Models.md)
+
 2024年03月04日
 
 - [Exploring the psychology of LLMs' Moral and Legal Reasoning](2024年03月04日/Exploring_the_psychology_of_LLMs'_Moral_and_Legal_Reasoning.md)

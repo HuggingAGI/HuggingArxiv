@@ -158,6 +158,10 @@
 
     - [翻译: TANQ：探索开放领域，揭秘表格之谜——一个专为回答问题而生的数据集。](2024年05月13日/TANQ_An_open_domain_dataset_of_table_answered_questions.md)
 
+- [HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](2024年05月13日/HoneyBee_A_Scalable_Modular_Framework_for_Creating_Multimodal_Oncology_Datasets_with_Foundational_Embedding_Models.md)
+
+    - [翻译: 蜜蜂计划：一个基于基础嵌入模型的可扩展模块化框架，专为构建多模态肿瘤学数据集而设计。](2024年05月13日/HoneyBee_A_Scalable_Modular_Framework_for_Creating_Multimodal_Oncology_Datasets_with_Foundational_Embedding_Models.md)
+
 2024年05月12日
 
 - [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
@@ -574,6 +578,14 @@
 
     - [翻译: LLMPot：利用LLM自动化模拟工业协议与物理过程，为ICS蜜罐打造智能防护盾解释：在结果2中，我采用了更加生动和形象的表达方式，将“自动化模拟”比喻为“打造智能防护盾”，使得翻译更加符合中文的表达习惯，同时也增强了语言的吸引力和表现力。](2024年05月09日/LLMPot_Automated_LLM-based_Industrial_Protocol_and_Physical_Process_Emulation_for_ICS_Honeypots.md)
 
+- [Unveiling the Competitive Dynamics: A Comparative Evaluation of American and Chinese LLMs](2024年05月09日/Unveiling_the_Competitive_Dynamics_A_Comparative_Evaluation_of_American_and_Chinese_LLMs.md)
+
+    - [翻译: 揭秘中美大型语言模型的较量：一场深入的比较评估在这次深入的比较评估中，我们将揭示美国和中国大型语言模型之间的竞争动态，探索它们在性能、创新和应用方面的差异与共性，以及它们如何塑造全球人工智能的未来。](2024年05月09日/Unveiling_the_Competitive_Dynamics_A_Comparative_Evaluation_of_American_and_Chinese_LLMs.md)
+
+- [Exploring the Capabilities of Large Multimodal Models on Dense Text](2024年05月09日/Exploring_the_Capabilities_of_Large_Multimodal_Models_on_Dense_Text.md)
+
+    - [翻译: 探究大型多模态模型在处理密集文本时的潜能](2024年05月09日/Exploring_the_Capabilities_of_Large_Multimodal_Models_on_Dense_Text.md)
+
 2024年05月08日
 
 - [THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](2024年05月08日/THRONE_An_Object-based_Hallucination_Benchmark_for_the_Free-form_Generations_of_Large_Vision-Language_Models.md)
@@ -759,6 +771,10 @@
 - [Automated Conversion of Static to Dynamic Scheduler via Natural Language](2024年05月08日/Automated_Conversion_of_Static_to_Dynamic_Scheduler_via_Natural_Language.md)
 
     - [翻译: 自然语言助力，静态调度器智能升级为动态调度器，自动化转换一触即发。](2024年05月08日/Automated_Conversion_of_Static_to_Dynamic_Scheduler_via_Natural_Language.md)
+
+- [LLM-Augmented Agent-Based Modelling for Social Simulations: Challenges and Opportunities](2024年05月08日/LLM-Augmented_Agent-Based_Modelling_for_Social_Simulations_Challenges_and_Opportunities.md)
+
+    - [翻译: 大型语言模型赋能的代理建模在社交模拟中的探索：挑战与新机遇在大型语言模型的助力下，基于代理的建模技术在社交模拟领域展现出新的挑战与机遇。这种结合不仅为模拟复杂社会动态提供了更强大的工具，也开启了探索人类行为与社会结构的新篇章。然而，这一领域的深入发展仍需面对模型复杂性、数据准确性以及伦理考量等多重挑战。](2024年05月08日/LLM-Augmented_Agent-Based_Modelling_for_Social_Simulations_Challenges_and_Opportunities.md)
 
 2024年05月07日
 
@@ -1005,6 +1021,10 @@
 - [Generative AI as a metacognitive agent: A comparative mixed-method study with human participants on ICF-mimicking exam performance](2024年05月07日/Generative_AI_as_a_metacognitive_agent_A_comparative_mixed-method_study_with_human_participants_on_ICF-mimicking_exam_performance.md)
 
     - [翻译: 生成式AI：元认知代理的比较研究——探究其在ICF模拟考试中与人类参与者的表现差异在这次比较混合方法研究中，我们探讨了生成式人工智能作为元认知代理在ICF模拟考试中的表现，并与人类参与者的表现进行了对比。通过这种方法，我们旨在揭示生成式AI在模拟考试环境中的潜力和局限性，以及它与人类认知过程的异同。](2024年05月07日/Generative_AI_as_a_metacognitive_agent_A_comparative_mixed-method_study_with_human_participants_on_ICF-mimicking_exam_performance.md)
+
+- [Fleet of Agents: Coordinated Problem Solving with Large Language Models using Genetic Particle Filtering](2024年05月07日/Fleet_of_Agents_Coordinated_Problem_Solving_with_Large_Language_Models_using_Genetic_Particle_Filtering.md)
+
+    - [翻译: 遗传粒子滤波驱动的大型语言模型代理舰队：协同解决复杂问题的新策略](2024年05月07日/Fleet_of_Agents_Coordinated_Problem_Solving_with_Large_Language_Models_using_Genetic_Particle_Filtering.md)
 
 2024年05月06日
 
@@ -1349,6 +1369,10 @@
 - [Leveraging Lecture Content for Improved Feedback: Explorations with GPT-4 and Retrieval Augmented Generation](2024年05月05日/Leveraging_Lecture_Content_for_Improved_Feedback_Explorations_with_GPT-4_and_Retrieval_Augmented_Generation.md)
 
     - [翻译: 借助GPT-4与检索增强生成技术，我们探索了如何利用讲座内容来提升反馈的精准度，旨在为教育领域带来更深层次的互动与改进。](2024年05月05日/Leveraging_Lecture_Content_for_Improved_Feedback_Explorations_with_GPT-4_and_Retrieval_Augmented_Generation.md)
+
+- [Self-Reflection in LLM Agents: Effects on Problem-Solving Performance](2024年05月05日/Self-Reflection_in_LLM_Agents_Effects_on_Problem-Solving_Performance.md)
+
+    - [翻译: 大型语言模型代理的自我审视：探索其对问题解决能力的提升作用](2024年05月05日/Self-Reflection_in_LLM_Agents_Effects_on_Problem-Solving_Performance.md)
 
 2024年05月04日
 
