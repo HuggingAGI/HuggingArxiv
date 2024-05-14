@@ -46,6 +46,118 @@
 
     - [翻译: MCS-SQL：借助多重提示与选择题机制，精妙演绎文本至SQL的生成艺术](2024年05月13日/MCS-SQL_Leveraging_Multiple_Prompts_and_Multiple-Choice_Selection_For_Text-to-SQL_Generation.md)
 
+- [Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots](2024年05月13日/Plot2Code_A_Comprehensive_Benchmark_for_Evaluating_Multi-modal_Large_Language_Models_in_Code_Generation_from_Scientific_Plots.md)
+
+    - [翻译: Plot2Code：科学图表至代码生成的多模态大型语言模型全面评估基准](2024年05月13日/Plot2Code_A_Comprehensive_Benchmark_for_Evaluating_Multi-modal_Large_Language_Models_in_Code_Generation_from_Scientific_Plots.md)
+
+- [A Generalist Learner for Multifaceted Medical Image Interpretation](2024年05月13日/A_Generalist_Learner_for_Multifaceted_Medical_Image_Interpretation.md)
+
+    - [翻译: 医学图像解读的全能学习者](2024年05月13日/A_Generalist_Learner_for_Multifaceted_Medical_Image_Interpretation.md)
+
+- [PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation](2024年05月13日/PyZoBot_A_Platform_for_Conversational_Information_Extraction_and_Synthesis_from_Curated_Zotero_Reference_Libraries_through_Advanced_Retrieval-Augmented_Generation.md)
+
+    - [翻译: PyZoBot：一个利用高级检索增强生成技术的平台，专为从精心管理的Zotero文献库中提取和整合对话式信息而设计。](2024年05月13日/PyZoBot_A_Platform_for_Conversational_Information_Extraction_and_Synthesis_from_Curated_Zotero_Reference_Libraries_through_Advanced_Retrieval-Augmented_Generation.md)
+
+- [AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments](2024年05月13日/AgentClinic_a_multimodal_agent_benchmark_to_evaluate_AI_in_simulated_clinical_environments.md)
+
+    - [翻译: AgentClinic：多模态代理基准，专为评估AI在模拟临床环境中的表现而设计。](2024年05月13日/AgentClinic_a_multimodal_agent_benchmark_to_evaluate_AI_in_simulated_clinical_environments.md)
+
+- [EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning](2024年05月13日/EconLogicQA_A_Question-Answering_Benchmark_for_Evaluating_Large_Language_Models_in_Economic_Sequential_Reasoning.md)
+
+    - [翻译: 经济逻辑问答：大型语言模型经济序列推理能力评估的问答基准](2024年05月13日/EconLogicQA_A_Question-Answering_Benchmark_for_Evaluating_Large_Language_Models_in_Economic_Sequential_Reasoning.md)
+
+- [PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition](2024年05月13日/PARDEN,_Can_You_Repeat_That_Defending_against_Jailbreaks_via_Repetition.md)
+
+    - [翻译: PARDEN，请再说一次？——以重复为盾，抵御越狱之矛](2024年05月13日/PARDEN,_Can_You_Repeat_That_Defending_against_Jailbreaks_via_Repetition.md)
+
+- [Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?](2024年05月13日/Can_Better_Text_Semantics_in_Prompt_Tuning_Improve_VLM_Generalization.md)
+
+    - [翻译: 优化提示调整中的文本语义，是否能增强视觉语言模型的泛化能力？这一问题引发了研究者的浓厚兴趣。](2024年05月13日/Can_Better_Text_Semantics_in_Prompt_Tuning_Improve_VLM_Generalization.md)
+
+- [A Systematic Investigation of Distilling Large Language Models into Cross-Encoders for Passage Re-ranking](2024年05月13日/A_Systematic_Investigation_of_Distilling_Large_Language_Models_into_Cross-Encoders_for_Passage_Re-ranking.md)
+
+    - [翻译: 系统探索：将大型语言模型精炼为跨编码器，以优化段落排序策略](2024年05月13日/A_Systematic_Investigation_of_Distilling_Large_Language_Models_into_Cross-Encoders_for_Passage_Re-ranking.md)
+
+- [RLHF Workflow: From Reward Modeling to Online RLHF](2024年05月13日/RLHF_Workflow_From_Reward_Modeling_to_Online_RLHF.md)
+
+    - [翻译: 强化学习与人类反馈（RLHF）的工作流程：从奖励模型构建到在线RLHF应用，这一流程展示了如何将人类偏好融入机器学习模型中，以优化其行为。](2024年05月13日/RLHF_Workflow_From_Reward_Modeling_to_Online_RLHF.md)
+
+- [Can LLMs Help Predict Elections? (Counter)Evidence from the World's Largest Democracy](2024年05月13日/Can_LLMs_Help_Predict_Elections_(Counter)Evidence_from_the_World's_Largest_Democracy.md)
+
+    - [翻译: 大型语言模型能否洞悉选举风云？世界最大民主国家的实证与反证](2024年05月13日/Can_LLMs_Help_Predict_Elections_(Counter)Evidence_from_the_World's_Largest_Democracy.md)
+
+- [A View of How Language Models Will Transform Law](2024年05月13日/A_View_of_How_Language_Models_Will_Transform_Law.md)
+
+    - [翻译: 语言模型变革法律的展望在这篇文章中，我们将探讨语言模型如何重塑法律领域，分析其潜在的影响和挑战，以及法律专业人士如何适应这一技术变革。](2024年05月13日/A_View_of_How_Language_Models_Will_Transform_Law.md)
+
+- [FreeVA: Offline MLLM as Training-Free Video Assistant](2024年05月13日/FreeVA_Offline_MLLM_as_Training-Free_Video_Assistant.md)
+
+    - [翻译: FreeVA：即刻启用的离线视频助手，基于无需额外训练的多模态大型语言模型技术。](2024年05月13日/FreeVA_Offline_MLLM_as_Training-Free_Video_Assistant.md)
+
+- [Generating Human Motion in 3D Scenes from Text Descriptions](2024年05月13日/Generating_Human_Motion_in_3D_Scenes_from_Text_Descriptions.md)
+
+    - [翻译: 通过文本描述赋予3D场景生命，创造逼真的人体动作。](2024年05月13日/Generating_Human_Motion_in_3D_Scenes_from_Text_Descriptions.md)
+
+- [Synthetic Test Collections for Retrieval Evaluation](2024年05月13日/Synthetic_Test_Collections_for_Retrieval_Evaluation.md)
+
+    - [翻译: 检索评估的合成测试集](2024年05月13日/Synthetic_Test_Collections_for_Retrieval_Evaluation.md)
+
+- [LLM4ED: Large Language Models for Automatic Equation Discovery](2024年05月13日/LLM4ED_Large_Language_Models_for_Automatic_Equation_Discovery.md)
+
+    - [翻译: 大型语言模型助力自动方程发现：LLM4ED在这项研究中，我们探索了大型语言模型（LLM）在自动方程发现（AED）领域的应用，旨在利用LLM的强大能力来辅助科学家和工程师在复杂系统中发现潜在的数学模型。通过深入分析LLM在处理数学表达式和逻辑推理方面的优势，我们提出了一种新颖的框架，该框架能够有效地从数据中提取规律，并生成描述这些规律的数学方程。我们的方法不仅提高了AED的自动化水平，还为解决实际问题提供了新的视角。](2024年05月13日/LLM4ED_Large_Language_Models_for_Automatic_Equation_Discovery.md)
+
+- [LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language](2024年05月13日/LlamaTurk_Adapting_Open-Source_Generative_Large_Language_Models_for_Low-Resource_Language.md)
+
+    - [翻译: 骆驼骑士：让开源巨型语言模型适应低资源语言的挑战](2024年05月13日/LlamaTurk_Adapting_Open-Source_Generative_Large_Language_Models_for_Low-Resource_Language.md)
+
+- [OpenLLM-Ro -- Technical Report on Open-source Romanian LLMs trained starting from Llama 2](2024年05月13日/OpenLLM-Ro_--_Technical_Report_on_Open-source_Romanian_LLMs_trained_starting_from_Llama_2.md)
+
+    - [翻译: OpenLLM-Ro技术报告：探索从Llama 2启程的罗马尼亚语开源大型语言模型之旅在这份技术报告中，我们将深入探讨如何从Llama 2这一起点出发，训练出适用于罗马尼亚语的开源大型语言模型。我们将详细分析训练过程中的技术挑战、创新方法以及最终模型的性能表现，旨在为罗马尼亚语的自然语言处理领域带来新的突破。](2024年05月13日/OpenLLM-Ro_--_Technical_Report_on_Open-source_Romanian_LLMs_trained_starting_from_Llama_2.md)
+
+- [Age-Dependent Analysis and Stochastic Generation of Child-Directed Speech](2024年05月13日/Age-Dependent_Analysis_and_Stochastic_Generation_of_Child-Directed_Speech.md)
+
+    - [翻译: 针对儿童言语的年龄相关分析与随机生成在这项研究中，我们探讨了儿童言语的年龄依赖性特征，并开发了一种随机生成模型，旨在更自然地模拟儿童导向的交流方式。通过深入分析不同年龄段儿童的言语特点，我们的模型能够生成更符合儿童理解和接受能力的语言，为儿童语言学习和交流提供了新的工具。](2024年05月13日/Age-Dependent_Analysis_and_Stochastic_Generation_of_Child-Directed_Speech.md)
+
+- [Backdoor Removal for Generative Large Language Models](2024年05月13日/Backdoor_Removal_for_Generative_Large_Language_Models.md)
+
+    - [翻译: 清除生成式大型语言模型的后门隐患](2024年05月13日/Backdoor_Removal_for_Generative_Large_Language_Models.md)
+
+- [DoLLM: How Large Language Models Understanding Network Flow Data to Detect Carpet Bombing DDoS](2024年05月13日/DoLLM_How_Large_Language_Models_Understanding_Network_Flow_Data_to_Detect_Carpet_Bombing_DDoS.md)
+
+    - [翻译: DoLLM：大型语言模型洞察网络流量，精准侦测地毯式轰炸DDoS攻击在这项研究中，我们将探讨大型语言模型（LLM）如何通过分析网络流量数据来识别和防御地毯式轰炸分布式拒绝服务（DDoS）攻击。通过深入研究LLM在处理复杂网络数据时的能力，我们旨在揭示其对于此类攻击模式的识别和响应机制，从而为网络安全领域提供新的防御策略。](2024年05月13日/DoLLM_How_Large_Language_Models_Understanding_Network_Flow_Data_to_Detect_Carpet_Bombing_DDoS.md)
+
+- [AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models](2024年05月13日/AnomalyLLM_Few-shot_Anomaly_Edge_Detection_for_Dynamic_Graphs_using_Large_Language_Models.md)
+
+    - [翻译: AnomalyLLM：大型语言模型助力动态图的少样本异常边缘精准捕捉](2024年05月13日/AnomalyLLM_Few-shot_Anomaly_Edge_Detection_for_Dynamic_Graphs_using_Large_Language_Models.md)
+
+- [COBias and Debias: Minimizing Language Model Pairwise Accuracy Bias via Nonlinear Integer Programming](2024年05月13日/COBias_and_Debias_Minimizing_Language_Model_Pairwise_Accuracy_Bias_via_Nonlinear_Integer_Programming.md)
+
+    - [翻译: 纠偏与去偏：运用非线性整数规划策略，精准校正语言模型中的成对准确性偏差](2024年05月13日/COBias_and_Debias_Minimizing_Language_Model_Pairwise_Accuracy_Bias_via_Nonlinear_Integer_Programming.md)
+
+- [ViWikiFC: Fact-Checking for Vietnamese Wikipedia-Based Textual Knowledge Source](2024年05月13日/ViWikiFC_Fact-Checking_for_Vietnamese_Wikipedia-Based_Textual_Knowledge_Source.md)
+
+    - [翻译: 越南维基事实核查：为越南语维基百科文本知识源提供精准事实检验](2024年05月13日/ViWikiFC_Fact-Checking_for_Vietnamese_Wikipedia-Based_Textual_Knowledge_Source.md)
+
+- [DynLLM: When Large Language Models Meet Dynamic Graph Recommendation](2024年05月13日/DynLLM_When_Large_Language_Models_Meet_Dynamic_Graph_Recommendation.md)
+
+    - [翻译: 动态巨型语言模型：大型语言模型与动态图推荐之交融](2024年05月13日/DynLLM_When_Large_Language_Models_Meet_Dynamic_Graph_Recommendation.md)
+
+- [Coding historical causes of death data with Large Language Models](2024年05月13日/Coding_historical_causes_of_death_data_with_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型，我们能够对历史死亡数据进行精细编码，揭示过去岁月中生命消逝的种种原因。这一过程不仅是对数据的整理，更是对历史的一次深刻回望。](2024年05月13日/Coding_historical_causes_of_death_data_with_Large_Language_Models.md)
+
+- [MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning](2024年05月13日/MuMath-Code_Combining_Tool-Use_Large_Language_Models_with_Multi-perspective_Data_Augmentation_for_Mathematical_Reasoning.md)
+
+    - [翻译: MuMath-Code：融合大型语言模型的工具运用与多角度数据扩充，以提升数学推理能力](2024年05月13日/MuMath-Code_Combining_Tool-Use_Large_Language_Models_with_Multi-perspective_Data_Augmentation_for_Mathematical_Reasoning.md)
+
+- [EMS-SD: Efficient Multi-sample Speculative Decoding for Accelerating Large Language Models](2024年05月13日/EMS-SD_Efficient_Multi-sample_Speculative_Decoding_for_Accelerating_Large_Language_Models.md)
+
+    - [翻译: EMS-SD：加速大型语言模型的利器——高效多样本推测解码技术](2024年05月13日/EMS-SD_Efficient_Multi-sample_Speculative_Decoding_for_Accelerating_Large_Language_Models.md)
+
+- [TANQ: An open domain dataset of table answered questions](2024年05月13日/TANQ_An_open_domain_dataset_of_table_answered_questions.md)
+
+    - [翻译: TANQ：探索开放领域，揭秘表格之谜——一个专为回答问题而生的数据集。](2024年05月13日/TANQ_An_open_domain_dataset_of_table_answered_questions.md)
+
 2024年05月12日
 
 - [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
@@ -103,6 +215,10 @@
 - [Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](2024年05月12日/Learning_Reward_for_Robot_Skills_Using_Large_Language_Models_via_Self-Alignment.md)
 
     - [翻译: 借助大型语言模型的自我对齐，我们探索了如何为机器人技能学习赋予奖励，这一创新方法旨在提升机器人在复杂任务中的自主学习能力。](2024年05月12日/Learning_Reward_for_Robot_Skills_Using_Large_Language_Models_via_Self-Alignment.md)
+
+- [Evaluation of Retrieval-Augmented Generation: A Survey](2024年05月12日/Evaluation_of_Retrieval-Augmented_Generation_A_Survey.md)
+
+    - [翻译: 检索增强生成评估综述：本调查旨在深入探讨检索增强生成技术的评估方法，分析其在不同应用场景下的表现，并探讨如何优化这一技术以提升生成内容的质量和相关性。](2024年05月12日/Evaluation_of_Retrieval-Augmented_Generation_A_Survey.md)
 
 2024年05月11日
 
@@ -640,6 +756,10 @@
 
     - [翻译: 特殊字符攻击：揭秘大型语言模型训练数据的提取之谜在这项研究中，我们探讨了一种新颖的攻击手段——特殊字符攻击，它旨在从大型语言模型中提取训练数据。通过精心设计的特殊字符组合，我们能够揭示模型背后的知识库，为数据隐私和安全带来新的挑战。](2024年05月08日/Special_Characters_Attack_Toward_Scalable_Training_Data_Extraction_From_Large_Language_Models.md)
 
+- [Automated Conversion of Static to Dynamic Scheduler via Natural Language](2024年05月08日/Automated_Conversion_of_Static_to_Dynamic_Scheduler_via_Natural_Language.md)
+
+    - [翻译: 自然语言助力，静态调度器智能升级为动态调度器，自动化转换一触即发。](2024年05月08日/Automated_Conversion_of_Static_to_Dynamic_Scheduler_via_Natural_Language.md)
+
 2024年05月07日
 
 - [ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning](2024年05月07日/ChatHuman_Language-driven_3D_Human_Understanding_with_Retrieval-Augmented_Tool_Reasoning.md)
@@ -1100,6 +1220,10 @@
 
     - [翻译: 运用Transformer架构的大型语言模型，精准识别反犹太仇恨言论，本研究深入探讨了该模型在敏感话题识别上的应用与挑战。](2024年05月06日/Detecting_Anti-Semitic_Hate_Speech_using_Transformer-based_Large_Language_Models.md)
 
+- [ERAGent: Enhancing Retrieval-Augmented Language Models with Improved Accuracy, Efficiency, and Personalization](2024年05月06日/ERAGent_Enhancing_Retrieval-Augmented_Language_Models_with_Improved_Accuracy,_Efficiency,_and_Personalization.md)
+
+    - [翻译: ERAGent：提升语言模型的检索增强能力，实现更精准、高效且个性化的语言处理](2024年05月06日/ERAGent_Enhancing_Retrieval-Augmented_Language_Models_with_Improved_Accuracy,_Efficiency,_and_Personalization.md)
+
 2024年05月05日
 
 - [Quantifying the Capabilities of LLMs across Scale and Precision](2024年05月05日/Quantifying_the_Capabilities_of_LLMs_across_Scale_and_Precision.md)
@@ -1221,6 +1345,10 @@
 - [ATAT: Astronomical Transformer for time series And Tabular data](2024年05月05日/ATAT_Astronomical_Transformer_for_time_series_And_Tabular_data.md)
 
     - [翻译: ATAT：一种专为时间序列和表格数据设计的天文变换模型](2024年05月05日/ATAT_Astronomical_Transformer_for_time_series_And_Tabular_data.md)
+
+- [Leveraging Lecture Content for Improved Feedback: Explorations with GPT-4 and Retrieval Augmented Generation](2024年05月05日/Leveraging_Lecture_Content_for_Improved_Feedback_Explorations_with_GPT-4_and_Retrieval_Augmented_Generation.md)
+
+    - [翻译: 借助GPT-4与检索增强生成技术，我们探索了如何利用讲座内容来提升反馈的精准度，旨在为教育领域带来更深层次的互动与改进。](2024年05月05日/Leveraging_Lecture_Content_for_Improved_Feedback_Explorations_with_GPT-4_and_Retrieval_Augmented_Generation.md)
 
 2024年05月04日
 
