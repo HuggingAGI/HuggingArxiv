@@ -715,6 +715,20 @@
     ]
   },
   {
+    "title": "HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "Developing accurate machine learning models for oncology requires large-scale, high-quality multimodal datasets. However, creating such datasets remains challenging due to the complexity and heterogeneity of medical data. To address this challenge, we introduce HoneyBee, a scalable modular framework for building multimodal oncology datasets that leverages foundational models to generate representative embeddings. HoneyBee integrates various data modalities, including clinical records, imaging data, and patient outcomes. It employs data preprocessing techniques and transformer-based architectures to generate embeddings that capture the essential features and relationships within the raw medical data. The generated embeddings are stored in a structured format using Hugging Face datasets and PyTorch dataloaders for accessibility. Vector databases enable efficient querying and retrieval for machine learning applications. We demonstrate the effectiveness of HoneyBee through experiments assessing the quality and representativeness of the embeddings. The framework is designed to be extensible to other medical domains and aims to accelerate oncology research by providing high-quality, machine learning-ready datasets. HoneyBee is an ongoing open-source effort, and the code, datasets, and models are available at the project repository.",
+    "pdf_link": "https://arxiv.org/abs/2405.07460",
+    "graphs": [],
+    "abstract_cn": "为了开发精准的肿瘤学机器学习模型，我们需要大规模且高质量的多模态数据集。然而，由于医学数据的复杂性和多样性，创建这样的数据集颇具挑战。为此，我们推出了HoneyBee，一个可扩展的模块化框架，它利用基础模型来生成代表性嵌入，从而构建多模态肿瘤学数据集。HoneyBee融合了临床记录、影像数据和患者结果等多种数据类型，并通过数据预处理和基于变压器的架构来捕捉原始医学数据的关键特征和关联。这些嵌入以结构化形式存储，便于使用Hugging Face数据集和PyTorch数据加载器进行访问。向量数据库则支持机器学习应用的高效查询和检索。我们通过实验验证了HoneyBee生成的嵌入的质量和代表性，证明了其有效性。该框架不仅可扩展至其他医学领域，而且旨在通过提供高质量、即刻可用于机器学习的数据集来推动肿瘤学研究的发展。HoneyBee是一个持续发展的开源项目，其代码、数据集和模型均可在项目仓库中获取。",
+    "title_cn": "蜜蜂计划：一个基于基础嵌入模型的可扩展模块化框架，专为构建多模态肿瘤学数据集而设计。",
+    "tags": [
+      "Agent\n\n理由：这篇论文介绍了一个名为HoneyBee的框架，它是一个可扩展的模块化系统，用于生成多模态肿瘤学数据集的嵌入。这个框架可以被视为一个智能代理（Agent），因为它能够处理复杂的医学数据，生成有用的嵌入，并支持机器学习应用。它通过融合多种数据类型并利用基础模型来生成代表性嵌入，从而在医学领域内执行特定的任务，这与Agent的概念相符。此外，HoneyBee的设计目的是为了推动肿瘤学研究的发展，这表明它是一个专注于特定应用领域的Agent。",
+      "肿瘤学",
+      "机器学习"
+    ]
+  },
+  {
     "title": "CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering",
     "submit_datetime": "2024年05月12日",
     "abstract": "While vision-language pretrained models (VLMs) excel in various multimodal understanding tasks, their potential in fine-grained audio-visual reasoning, particularly for audio-visual question answering (AVQA), remains largely unexplored. AVQA presents specific challenges for VLMs due to the requirement of visual understanding at the region level and seamless integration with audio modality. Previous VLM-based AVQA methods merely used CLIP as a feature encoder but underutilized its knowledge, and mistreated audio and video as separate entities in a dual-stream framework as most AVQA methods. This paper proposes a new CLIP-powered target-aware single-stream (TASS) network for AVQA using the image-text matching knowledge of the pretrained model through the audio-visual matching characteristic of nature. It consists of two key components: the target-aware spatial grounding module (TSG+) and the single-stream joint temporal grounding module (JTG). Specifically, we propose a TSG+ module to transfer the image-text matching knowledge from CLIP models to our region-text matching process without corresponding ground-truth labels. Moreover, unlike previous separate dual-stream networks that still required an additional audio-visual fusion module, JTG unifies audio-visual fusion and question-aware temporal grounding in a simplified single-stream architecture. It treats audio and video as a cohesive entity and further extends the pretrained image-text knowledge to audio-text matching by preserving their temporal correlation with our proposed cross-modal synchrony (CMS) loss. Extensive experiments conducted on the MUSIC-AVQA benchmark verified the effectiveness of our proposed method over existing state-of-the-art methods.",
@@ -2876,6 +2890,59 @@
     ]
   },
   {
+    "title": "Unveiling the Competitive Dynamics: A Comparative Evaluation of American and Chinese LLMs",
+    "submit_datetime": "2024年05月09日",
+    "abstract": "The strategic significance of Large Language Models (LLMs) in economic expansion, innovation, societal development, and national security has been increasingly recognized since the advent of ChatGPT. This study provides a comprehensive comparative evaluation of American and Chinese LLMs in both English and Chinese contexts. We proposed a comprehensive evaluation framework that encompasses natural language proficiency, disciplinary expertise, and safety and responsibility, and systematically assessed 16 prominent models from the US and China under various operational tasks and scenarios. Our key findings show that GPT 4-Turbo is at the forefront in English contexts, whereas Ernie-Bot 4 stands out in Chinese contexts. The study also highlights disparities in LLM performance across languages and tasks, stressing the necessity for linguistically and culturally nuanced model development. The complementary strengths of American and Chinese LLMs point to the value of Sino-US collaboration in advancing LLM technology. The research presents the current LLM competition landscape and offers valuable insights for policymakers and businesses regarding strategic LLM investments and development. Future work will expand on this framework to include emerging LLM multimodal capabilities and business application assessments.",
+    "pdf_link": "https://arxiv.org/abs/2405.06713",
+    "graphs": [],
+    "abstract_cn": "随着ChatGPT的问世，大型语言模型（LLMs）在推动经济、创新、社会进步的国策中扮演的角色日益凸显。本研究深入比较了中美两国在英汉双语环境下的LLMs表现。我们构建了一个综合评估体系，涵盖语言能力、专业知识、安全责任三大维度，并对美中16款顶尖模型在多任务多场景中进行了详尽测评。研究发现，GPT 4-Turbo在英语领域独领风骚，而Ernie-Bot 4在中文领域崭露头角。研究同时揭示了LLMs在跨语言和任务中的性能差异，强调了开发具有语言文化敏感性的模型的迫切性。中美LLMs的互补优势为两国在LLM技术领域的合作提供了新的契机。本研究不仅描绘了LLM竞争的全景，也为政策制定者和企业提供了关于LLM战略投资和发展的深刻洞见。未来研究将进一步拓展这一评估框架，纳入新兴LLM的多模态功能和商业应用分析。",
+    "title_cn": "揭秘中美大型语言模型的较量：一场深入的比较评估在这次深入的比较评估中，我们将揭示美国和中国大型语言模型之间的竞争动态，探索它们在性能、创新和应用方面的差异与共性，以及它们如何塑造全球人工智能的未来。",
+    "tags": [
+      "LLM应用\n\n这篇论文聚焦于大型语言模型（LLMs）在中美两国英汉双语环境下的表现比较，构建了一个综合评估体系，并对顶尖模型进行了详尽测评。虽然它涉及到了模型的性能和应用，但并没有特别强调Agent的行为、RAG（检索增强生成）的机制，或者LLM的理论基础。因此，最合适的分类是LLM应用，因为它主要关注的是LLMs在实际应用中的表现和评估，以及这些发现对政策制定者和企业的实际意义。",
+      "人工智能",
+      "语言模型"
+    ]
+  },
+  {
+    "title": "Exploring the Capabilities of Large Multimodal Models on Dense Text",
+    "submit_datetime": "2024年05月09日",
+    "abstract": "While large multi-modal models (LMM) have shown notable progress in multi-modal tasks, their capabilities in tasks involving dense textual content remains to be fully explored. Dense text, which carries important information, is often found in documents, tables, and product descriptions. Understanding dense text enables us to obtain more accurate information, assisting in making better decisions. To further explore the capabilities of LMM in complex text tasks, we propose the DT-VQA dataset, with 170k question-answer pairs. In this paper, we conduct a comprehensive evaluation of GPT4V, Gemini, and various open-source LMMs on our dataset, revealing their strengths and weaknesses. Furthermore, we evaluate the effectiveness of two strategies for LMM: prompt engineering and downstream fine-tuning. We find that even with automatically labeled training datasets, significant improvements in model performance can be achieved. We hope that this research will promote the study of LMM in dense text tasks. Code will be released at https://github.com/Yuliang-Liu/MultimodalOCR.",
+    "pdf_link": "https://arxiv.org/abs/2405.06706",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.06706v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06706/error.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06706v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06706/pipeline.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06706v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06706/data.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06706v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06706/prompt_finetune_model.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06706v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06706/prompt_finetune.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06706v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06706/compareLMMs.jpg"
+      }
+    ],
+    "abstract_cn": "大型多模态模型（LMM）在多模态任务中表现出色，但在处理密集文本内容方面仍有巨大潜力待挖掘。密集文本蕴含关键信息，常见于各类文档中。深入理解这类文本，有助于我们获取精准信息，从而做出更明智的决策。为此，我们推出了包含17万问答对的DT-VQA数据集，旨在深入探究LMM在复杂文本任务中的表现。本文对GPT4V、Gemini及多款开源LMMs进行了详尽评估，揭示了各自的优势与短板。同时，我们探讨了提示工程与下游微调两种策略对LMM性能的影响，发现即便使用自动标注数据集，模型性能亦能大幅提升。我们期待这项研究能够激发更多关于LMM在密集文本任务上的探索。相关代码将在https://github.com/Yuliang-Liu/MultimodalOCR公开。",
+    "title_cn": "探究大型多模态模型在处理密集文本时的潜能",
+    "tags": [
+      "LLM应用\n\n这篇论文关注的是大型多模态模型（LMM）在处理密集文本内容方面的应用，特别是通过引入DT-VQA数据集来评估和提升LMM在复杂文本任务中的表现。论文中提到了对GPT4V、Gemini等模型的评估，以及提示工程和下游微调对模型性能的影响。这些内容更偏向于大型语言模型（LLM）的实际应用，而不是Agent或RAG的特定研究，也不是LLM的理论探讨。因此，将其归类为LLM应用是合适的。",
+      "文档理解",
+      "问答系统"
+    ]
+  },
+  {
     "title": "THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models",
     "submit_datetime": "2024年05月08日",
     "abstract": "Mitigating hallucinations in large vision-language models (LVLMs) remains an open problem. Recent benchmarks do not address hallucinations in open-ended free-form responses, which we term \"Type I hallucinations\". Instead, they focus on hallucinations responding to very specific question formats -- typically a multiple-choice response regarding a particular object or attribute -- which we term \"Type II hallucinations\". Additionally, such benchmarks often require external API calls to models which are subject to change. In practice, we observe that a reduction in Type II hallucinations does not lead to a reduction in Type I hallucinations but rather that the two forms of hallucinations are often anti-correlated. To address this, we propose THRONE, a novel object-based automatic framework for quantitatively evaluating Type I hallucinations in LVLM free-form outputs. We use public language models (LMs) to identify hallucinations in LVLM responses and compute informative metrics. By evaluating a large selection of recent LVLMs using public datasets, we show that an improvement in existing metrics do not lead to a reduction in Type I hallucinations, and that established benchmarks for measuring Type I hallucinations are incomplete. Finally, we provide a simple and effective data augmentation method to reduce Type I and Type II hallucinations as a strong baseline.",
@@ -4059,6 +4126,20 @@
       "RAG\n\n这篇论文探讨了大型语言模型（LLMs）在自动为动态调度问题建模和编码方面的应用，特别是提出了一种基于检索增强生成（RAG）的模型——RAGDyS。该模型旨在自动实施动态调度的约束，减少对专家优化的依赖，并简化建模过程。因此，它属于RAG分类，因为它专注于使用RAG技术来增强LLM在特定应用场景（动态调度问题）中的能力。",
       "调度优化",
       "自动化建模"
+    ]
+  },
+  {
+    "title": "LLM-Augmented Agent-Based Modelling for Social Simulations: Challenges and Opportunities",
+    "submit_datetime": "2024年05月08日",
+    "abstract": "As large language models (LLMs) continue to make significant strides, their better integration into agent-based simulations offers a transformational potential for understanding complex social systems. However, such integration is not trivial and poses numerous challenges. Based on this observation, in this paper, we explore architectures and methods to systematically develop LLM-augmented social simulations and discuss potential research directions in this field. We conclude that integrating LLMs with agent-based simulations offers a powerful toolset for researchers and scientists, allowing for more nuanced, realistic, and comprehensive models of complex systems and human behaviours.",
+    "pdf_link": "https://arxiv.org/abs/2405.06700",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）的进步将它们融入基于代理的模拟，为洞察复杂社会系统开辟了新天地。但这一过程充满挑战。本文深入探讨了如何系统地开发LLM增强的社会模拟，并展望了该领域的未来研究。我们坚信，这种融合为研究者提供了强有力的工具，能够塑造更为精细、逼真的复杂系统和人类行为模型。",
+    "title_cn": "大型语言模型赋能的代理建模在社交模拟中的探索：挑战与新机遇在大型语言模型的助力下，基于代理的建模技术在社交模拟领域展现出新的挑战与机遇。这种结合不仅为模拟复杂社会动态提供了更强大的工具，也开启了探索人类行为与社会结构的新篇章。然而，这一领域的深入发展仍需面对模型复杂性、数据准确性以及伦理考量等多重挑战。",
+    "tags": [
+      "Agent\n\n这篇论文探讨了大型语言模型（LLMs）在基于代理的模拟中的应用，特别是在社会系统的复杂性研究中。它关注的是如何系统地开发LLM增强的社会模拟，并展望了该领域的未来研究。这与Agent分类相符，因为它涉及使用LLMs来增强代理（Agent）的行为和模拟，从而更好地理解和模拟复杂的社会系统。",
+      "社会模拟",
+      "人工智能"
     ]
   },
   {
@@ -5825,6 +5906,25 @@
       "Agent\n\n这篇论文探讨了大型语言模型在模拟ICF考试中的元认知能力，这是一个特定领域的应用，涉及模型如何模拟人类的元认知过程，以及它们在特定任务上的表现。虽然这涉及到LLM的应用，但它的重点在于模型如何作为一个智能体（Agent）来执行任务，特别是在元认知方面的表现，而不是专注于LLM的理论研究或RAG（Retrieval-Augmented Generation）框架。因此，将其归类为Agent更为合适。",
       "教育培训",
       "人工智能辅助学习"
+    ]
+  },
+  {
+    "title": "Fleet of Agents: Coordinated Problem Solving with Large Language Models using Genetic Particle Filtering",
+    "submit_datetime": "2024年05月07日",
+    "abstract": "Large language models (LLMs) have significantly evolved, moving from simple output generation to complex reasoning and from stand-alone usage to being embedded into broader frameworks. In this paper, we introduce \\emph{Fleet of Agents (FoA)}, a novel framework utilizing LLMs as agents to navigate through dynamic tree searches, employing a genetic-type particle filtering approach. FoA spawns a multitude of agents, each exploring autonomously, followed by a selection phase where resampling based on a heuristic value function optimizes the balance between exploration and exploitation. This mechanism enables dynamic branching, adapting the exploration strategy based on discovered solutions. We experimentally validate FoA using two benchmark tasks, \"Game of 24\" and \"Mini-Crosswords\". FoA outperforms the previously proposed Tree-of-Thoughts method in terms of efficacy and efficiency: it significantly decreases computational costs (by calling the value function less frequently) while preserving comparable or even superior accuracy.",
+    "pdf_link": "https://arxiv.org/abs/2405.06691",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.06691v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06691/x1.png"
+      }
+    ],
+    "abstract_cn": "大型语言模型（LLMs）已从简单输出跃升至复杂推理，并从单打独斗融入至更宏大的框架。本文揭晓“Agent舰队（FoA）”，一项创新框架，以LLMs为智能体，在动态树搜索中航行，运用遗传式粒子滤波策略。FoA孕育众多自主探索的智能体，随后通过启发式值函数的选择阶段进行重采样，巧妙平衡探索与利用。此机制赋予动态分支能力，根据发现调整探索策略。我们通过“24点游戏”与“迷你填字游戏”两项基准测试验证FoA，其效能与效率均超越“思维树”方法：大幅削减计算开支（减少值函数调用频率），同时保持同等或更卓越的准确性。",
+    "title_cn": "遗传粒子滤波驱动的大型语言模型代理舰队：协同解决复杂问题的新策略",
+    "tags": [
+      "Agent\n\n这篇论文介绍了一个名为“Agent舰队（FoA）”的创新框架，该框架利用大型语言模型（LLMs）作为智能体，在动态树搜索中应用遗传式粒子滤波策略。这个框架通过启发式值函数的选择阶段进行重采样，平衡探索与利用，并赋予智能体动态分支能力。论文通过基准测试验证了FoA的效能和效率，表明其在减少计算开支的同时，能够保持同等或更卓越的准确性。因此，这篇论文更符合Agent分类，因为它主要关注的是将LLMs作为智能体在特定框架中的应用。",
+      "人工智能",
+      "游戏开发"
     ]
   },
   {
@@ -8023,6 +8123,37 @@
       "RAG\n\n这篇论文主要探讨了检索增强生成（RAG）技术在提升大型语言模型GPT-4在编程教学中的反馈质量方面的应用。它详细描述了如何通过RAG技术使GPT-4访问外部知识，如讲座录音转录，以生成更准确和专业的反馈。此外，论文还介绍了RAG技术在实际教学平台上的应用，以及学生对这种增强反馈的评估。因此，这篇论文更符合RAG分类，因为它专注于RAG技术的应用和效果评估。",
       "编程教育",
       "人工智能辅助教学"
+    ]
+  },
+  {
+    "title": "Self-Reflection in LLM Agents: Effects on Problem-Solving Performance",
+    "submit_datetime": "2024年05月05日",
+    "abstract": "In this study, we investigated the effects of self-reflection in large language models (LLMs) on problem-solving performance. We instructed nine popular LLMs to answer a series of multiple-choice questions to provide a performance baseline. For each incorrectly answered question, we instructed eight types of self-reflecting LLM agents to reflect on their mistakes and provide themselves with guidance to improve problem-solving. Then, using this guidance, each self-reflecting agent attempted to re-answer the same questions. Our results indicate that LLM agents are able to significantly improve their problem-solving performance through self-reflection ($p < 0.001$). In addition, we compared the various types of self-reflection to determine their individual contribution to performance. All code and data are available on GitHub at https://github.com/matthewrenze/self-reflection",
+    "pdf_link": "https://arxiv.org/abs/2405.06682",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.06682v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06682/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06682v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06682/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06682v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06682/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.06682v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.06682/x4.png"
+      }
+    ],
+    "abstract_cn": "本研究探讨了大型语言模型中的自我反思如何提升问题解决能力。我们让九款知名LLM回答一系列选择题，以此作为性能的起点。每当答案出错，我们便引导八种不同的自我反思型LLM代理，反思其错误并给出改进建议。随后，这些代理依据建议再次尝试解答，结果显示，通过自我反思，LLM代理的问题解决能力有了显著提升（$p < 0.001$）。我们还分析了不同自我反思方式对性能的具体影响。研究中使用的所有代码和数据已公开在GitHub上，链接为https://github.com/matthewrenze/self-reflection。",
+    "title_cn": "大型语言模型代理的自我审视：探索其对问题解决能力的提升作用",
+    "tags": [
+      "Agent\n\n这篇论文探讨了大型语言模型（LLM）中的自我反思机制如何通过代理（Agent）的方式提升问题解决能力。研究中使用了九款知名的LLM，并通过引导它们进行自我反思来改进错误答案，从而提高了解决问题的能力。这种方法涉及到了代理的概念，即LLM作为能够进行自我反思和改进的智能体，因此将其归类为Agent。同时，这项研究也展示了LLM在实际应用中的性能提升，但主要关注的是模型内部的自我反思机制，而不是LLM在特定应用场景下的表现，因此不归类为LLM应用。此外，虽然研究涉及LLM的性能提升，但重点在于自我反思这一机制的实证分析，而非LLM的理论基础，因此也不归类为LLM理论。最后，由于研究内容不涉及检索增强生成（RAG）技术，因此也不归类为RAG。",
+      "人工智能",
+      "教育技术"
     ]
   },
   {
@@ -18400,6 +18531,20 @@
     ]
   },
   {
+    "title": "Language Interaction Network for Clinical Trial Approval Estimation",
+    "submit_datetime": "2024年04月26日",
+    "abstract": "Clinical trial outcome prediction seeks to estimate the likelihood that a clinical trial will successfully reach its intended endpoint. This process predominantly involves the development of machine learning models that utilize a variety of data sources such as descriptions of the clinical trials, characteristics of the drug molecules, and specific disease conditions being targeted. Accurate predictions of trial outcomes are crucial for optimizing trial planning and prioritizing investments in a drug portfolio. While previous research has largely concentrated on small-molecule drugs, there is a growing need to focus on biologics-a rapidly expanding category of therapeutic agents that often lack the well-defined molecular properties associated with traditional drugs. Additionally, applying conventional methods like graph neural networks to biologics data proves challenging due to their complex nature. To address these challenges, we introduce the Language Interaction Network (LINT), a novel approach that predicts trial outcomes using only the free-text descriptions of the trials. We have rigorously tested the effectiveness of LINT across three phases of clinical trials, where it achieved ROC-AUC scores of 0.770, 0.740, and 0.748 for phases I, II, and III, respectively, specifically concerning trials involving biologic interventions.",
+    "pdf_link": "https://arxiv.org/abs/2405.06662",
+    "graphs": [],
+    "abstract_cn": "临床试验结果预测旨在评估试验成功达成目标的可能性，这通常依赖于机器学习模型，它们分析临床试验描述、药物分子特征和疾病条件等多种数据。准确预测对优化试验设计和投资决策至关重要。尽管以往研究多聚焦于小分子药物，但生物制剂——这一迅速增长的背景下治疗剂类别，因其缺乏传统药物的明确分子特性而日益受到关注。生物制剂的复杂性使得传统方法如图形神经网络的应用变得困难。为此，我们提出了语言交互网络（LINT），一种仅基于试验文本描述的新颖预测方法。经过三阶段临床试验的严格测试，LINT在生物干预试验中分别取得了0.770、0.740和0.748的ROC-AUC分数，展现了其在临床试验预测中的有效性。",
+    "title_cn": "临床试验批准预测的语言互动网络在这项研究中，我们提出了一种新颖的语言交互网络，旨在预测临床试验的批准情况。该网络通过分析临床试验申请中的语言交互模式，来评估其获得批准的可能性。我们的方法结合了自然语言处理和机器学习技术，以识别和量化申请文本中的关键因素，这些因素可能影响监管机构的决策过程。通过这种方式，我们希望能够为研究人员和临床试验申请者提供一个有价值的工具，帮助他们更好地理解和准备他们的申请材料，从而提高获得批准的机会。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了临床试验结果预测的问题，特别是针对生物制剂这一复杂治疗剂类别。它提出了一种名为语言交互网络（LINT）的新颖预测方法，该方法仅基于试验文本描述，并在生物干预试验中展示了良好的预测性能。虽然论文中没有直接提到大型语言模型（LLM），但考虑到LINT方法依赖于文本描述，并且其性能评估使用了ROC-AUC分数，这表明它可能涉及某种形式的语言模型或文本分析技术。因此，将这篇论文归类为“LLM应用”是合适的，因为它展示了语言模型在特定应用领域（即临床试验结果预测）的实际应用和效果。",
+      "临床试验",
+      "生物制剂"
+    ]
+  },
+  {
     "title": "Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials",
     "submit_datetime": "2024年04月25日",
     "abstract": "Physically realistic materials are pivotal in augmenting the realism of 3D assets across various applications and lighting conditions. However, existing 3D assets and generative models often lack authentic material properties. Manual assignment of materials using graphic software is a tedious and time-consuming task. In this paper, we exploit advancements in Multimodal Large Language Models (MLLMs), particularly GPT-4V, to present a novel approach, Make-it-Real: 1) We demonstrate that GPT-4V can effectively recognize and describe materials, allowing the construction of a detailed material library. 2) Utilizing a combination of visual cues and hierarchical text prompts, GPT-4V precisely identifies and aligns materials with the corresponding components of 3D objects. 3) The correctly matched materials are then meticulously applied as reference for the new SVBRDF material generation according to the original diffuse map, significantly enhancing their visual authenticity. Make-it-Real offers a streamlined integration into the 3D content creation workflow, showcasing its utility as an essential tool for developers of 3D assets.",
@@ -27987,6 +28132,20 @@
       "LLM应用",
       "阅读辅助",
       ""
+    ]
+  },
+  {
+    "title": "Levels of AI Agents: from Rules to Large Language Models",
+    "submit_datetime": "2024年03月06日",
+    "abstract": "AI agents are defined as artificial entities to perceive the environment, make decisions and take actions. Inspired by the 6 levels of autonomous driving by Society of Automotive Engineers, the AI agents are also categorized based on utilities and strongness, as the following levels: L0, no AI, with tools taking into account perception plus actions; L1, using rule-based AI; L2, making rule-based AI replaced by IL/RL-based AI, with additional reasoning & decision making; L3, applying LLM-based AI instead of IL/RL-based AI, additionally setting up memory & reflection; L4, based on L3, facilitating autonomous learning & generalization; L5, based on L4, appending personality of emotion and character and collaborative behavior with multi-agents.",
+    "pdf_link": "https://arxiv.org/abs/2405.06643",
+    "graphs": [],
+    "abstract_cn": "AI代理是能够感知环境、做出决策并采取行动的人工实体。借鉴汽车工程师学会的6级自动驾驶分类，AI代理也被划分为不同级别，从无AI的L0到具备情感、性格和多代理协作能力的L5。L1级使用基于规则的AI，而L2级则引入基于IL/RL的AI，增加推理和决策能力。L3级采用基于LLM的AI，并具备记忆和反思功能。L4级在L3的基础上，实现了自主学习和泛化能力。最终，L5级AI代理不仅拥有个性化的情感和性格，还能与其他AI代理协同工作。",
+    "title_cn": "AI智能体的演进：从基于规则的系统到大型语言模型的飞跃",
+    "tags": [
+      "Agent\n\n解释：这篇论文讨论了AI代理的不同级别，从基于规则的AI到具备情感、性格和多代理协作能力的AI。这些级别描述了AI代理的能力和复杂性，与Agent的分类相符，因为它们关注的是AI代理的功能和行为，而不是LLM的理论研究或特定应用。因此，这篇论文属于Agent分类。",
+      "自动驾驶",
+      "人工智能代理"
     ]
   },
   {
