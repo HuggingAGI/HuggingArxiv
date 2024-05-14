@@ -1,5 +1,183 @@
 # 2024年05月
 
+2024年05月13日
+
+- [Prompt-based Code Completion via Multi-Retrieval Augmented Generation](2024年05月13日/Prompt-based_Code_Completion_via_Multi-Retrieval_Augmented_Generation.md)
+
+    - [翻译: ](2024年05月13日/Prompt-based_Code_Completion_via_Multi-Retrieval_Augmented_Generation.md)
+
+- [MS MARCO Web Search: a Large-scale Information-rich Web Dataset with Millions of Real Click Labels](2024年05月13日/MS_MARCO_Web_Search_a_Large-scale_Information-rich_Web_Dataset_with_Millions_of_Real_Click_Labels.md)
+
+    - [翻译: ](2024年05月13日/MS_MARCO_Web_Search_a_Large-scale_Information-rich_Web_Dataset_with_Millions_of_Real_Click_Labels.md)
+
+- [SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts](2024年05月13日/SambaNova_SN40L_Scaling_the_AI_Memory_Wall_with_Dataflow_and_Composition_of_Experts.md)
+
+    - [翻译: ](2024年05月13日/SambaNova_SN40L_Scaling_the_AI_Memory_Wall_with_Dataflow_and_Composition_of_Experts.md)
+
+- [Fine-tuning the SwissBERT Encoder Model for Embedding Sentences and Documents](2024年05月13日/Fine-tuning_the_SwissBERT_Encoder_Model_for_Embedding_Sentences_and_Documents.md)
+
+    - [翻译: ](2024年05月13日/Fine-tuning_the_SwissBERT_Encoder_Model_for_Embedding_Sentences_and_Documents.md)
+
+- [PromptLink: Leveraging Large Language Models for Cross-Source Biomedical Concept Linking](2024年05月13日/PromptLink_Leveraging_Large_Language_Models_for_Cross-Source_Biomedical_Concept_Linking.md)
+
+    - [翻译: ](2024年05月13日/PromptLink_Leveraging_Large_Language_Models_for_Cross-Source_Biomedical_Concept_Linking.md)
+
+- [Oedipus: LLM-enchanced Reasoning CAPTCHA Solver](2024年05月13日/Oedipus_LLM-enchanced_Reasoning_CAPTCHA_Solver.md)
+
+    - [翻译: ](2024年05月13日/Oedipus_LLM-enchanced_Reasoning_CAPTCHA_Solver.md)
+
+- [MacBehaviour: An R package for behavioural experimentation on large language models](2024年05月13日/MacBehaviour_An_R_package_for_behavioural_experimentation_on_large_language_models.md)
+
+    - [翻译: ](2024年05月13日/MacBehaviour_An_R_package_for_behavioural_experimentation_on_large_language_models.md)
+
+- [Strategic Data Ordering: Enhancing Large Language Model Performance through Curriculum Learning](2024年05月13日/Strategic_Data_Ordering_Enhancing_Large_Language_Model_Performance_through_Curriculum_Learning.md)
+
+    - [翻译: ](2024年05月13日/Strategic_Data_Ordering_Enhancing_Large_Language_Model_Performance_through_Curriculum_Learning.md)
+
+- [Integrating Intent Understanding and Optimal Behavior Planning for Behavior Tree Generation from Human Instructions](2024年05月13日/Integrating_Intent_Understanding_and_Optimal_Behavior_Planning_for_Behavior_Tree_Generation_from_Human_Instructions.md)
+
+    - [翻译: ](2024年05月13日/Integrating_Intent_Understanding_and_Optimal_Behavior_Planning_for_Behavior_Tree_Generation_from_Human_Instructions.md)
+
+- [Evaluating large language models in medical applications: a survey](2024年05月13日/Evaluating_large_language_models_in_medical_applications_a_survey.md)
+
+    - [翻译: ](2024年05月13日/Evaluating_large_language_models_in_medical_applications_a_survey.md)
+
+- [MCS-SQL: Leveraging Multiple Prompts and Multiple-Choice Selection For Text-to-SQL Generation](2024年05月13日/MCS-SQL_Leveraging_Multiple_Prompts_and_Multiple-Choice_Selection_For_Text-to-SQL_Generation.md)
+
+    - [翻译: ](2024年05月13日/MCS-SQL_Leveraging_Multiple_Prompts_and_Multiple-Choice_Selection_For_Text-to-SQL_Generation.md)
+
+2024年05月12日
+
+- [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
+
+    - [翻译: ](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
+
+- [From traces to measures: Large language models as a tool for psychological measurement from text](2024年05月12日/From_traces_to_measures_Large_language_models_as_a_tool_for_psychological_measurement_from_text.md)
+
+    - [翻译: ](2024年05月12日/From_traces_to_measures_Large_language_models_as_a_tool_for_psychological_measurement_from_text.md)
+
+- [Can Language Models Explain Their Own Classification Behavior?](2024年05月12日/Can_Language_Models_Explain_Their_Own_Classification_Behavior.md)
+
+    - [翻译: ](2024年05月12日/Can_Language_Models_Explain_Their_Own_Classification_Behavior.md)
+
+- [Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference](2024年05月12日/Don't_Chase_Your_Tail!_Missing_Key_Aspects_Augmentation_in_Textual_Vulnerability_Descriptions_of_Long-tail_Software_through_Feature_Inference.md)
+
+    - [翻译: ](2024年05月12日/Don't_Chase_Your_Tail!_Missing_Key_Aspects_Augmentation_in_Textual_Vulnerability_Descriptions_of_Long-tail_Software_through_Feature_Inference.md)
+
+- [Identifying Hate Speech Peddlers in Online Platforms. A Bayesian Social Learning Approach for Large Language Model Driven Decision-Makers](2024年05月12日/Identifying_Hate_Speech_Peddlers_in_Online_Platforms._A_Bayesian_Social_Learning_Approach_for_Large_Language_Model_Driven_Decision-Makers.md)
+
+    - [翻译: ](2024年05月12日/Identifying_Hate_Speech_Peddlers_in_Online_Platforms._A_Bayesian_Social_Learning_Approach_for_Large_Language_Model_Driven_Decision-Makers.md)
+
+- [MedConceptsQA -- Open Source Medical Concepts QA Benchmark](2024年05月12日/MedConceptsQA_--_Open_Source_Medical_Concepts_QA_Benchmark.md)
+
+    - [翻译: ](2024年05月12日/MedConceptsQA_--_Open_Source_Medical_Concepts_QA_Benchmark.md)
+
+- [Learnable Tokenizer for LLM-based Generative Recommendation](2024年05月12日/Learnable_Tokenizer_for_LLM-based_Generative_Recommendation.md)
+
+    - [翻译: ](2024年05月12日/Learnable_Tokenizer_for_LLM-based_Generative_Recommendation.md)
+
+- [Human-interpretable clustering of short-text using large language models](2024年05月12日/Human-interpretable_clustering_of_short-text_using_large_language_models.md)
+
+    - [翻译: ](2024年05月12日/Human-interpretable_clustering_of_short-text_using_large_language_models.md)
+
+- [Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis](2024年05月12日/Limited_Ability_of_LLMs_to_Simulate_Human_Psychological_Behaviours_a_Psychometric_Analysis.md)
+
+    - [翻译: ](2024年05月12日/Limited_Ability_of_LLMs_to_Simulate_Human_Psychological_Behaviours_a_Psychometric_Analysis.md)
+
+- [MM-InstructEval: Zero-Shot Evaluation of (Multimodal) Large Language Models on Multimodal Reasoning Tasks](2024年05月12日/MM-InstructEval_Zero-Shot_Evaluation_of_(Multimodal)_Large_Language_Models_on_Multimodal_Reasoning_Tasks.md)
+
+    - [翻译: ](2024年05月12日/MM-InstructEval_Zero-Shot_Evaluation_of_(Multimodal)_Large_Language_Models_on_Multimodal_Reasoning_Tasks.md)
+
+- [Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective](2024年05月12日/Enhancing_Decision-Making_in_Optimization_through_LLM-Assisted_Inference_A_Neural_Networks_Perspective.md)
+
+    - [翻译: ](2024年05月12日/Enhancing_Decision-Making_in_Optimization_through_LLM-Assisted_Inference_A_Neural_Networks_Perspective.md)
+
+- [Unified Video-Language Pre-training with Synchronized Audio](2024年05月12日/Unified_Video-Language_Pre-training_with_Synchronized_Audio.md)
+
+    - [翻译: ](2024年05月12日/Unified_Video-Language_Pre-training_with_Synchronized_Audio.md)
+
+- [Differentiable Model Scaling using Differentiable Topk](2024年05月12日/Differentiable_Model_Scaling_using_Differentiable_Topk.md)
+
+    - [翻译: ](2024年05月12日/Differentiable_Model_Scaling_using_Differentiable_Topk.md)
+
+- [Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](2024年05月12日/Learning_Reward_for_Robot_Skills_Using_Large_Language_Models_via_Self-Alignment.md)
+
+    - [翻译: ](2024年05月12日/Learning_Reward_for_Robot_Skills_Using_Large_Language_Models_via_Self-Alignment.md)
+
+2024年05月11日
+
+- [Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization](2024年05月11日/Edge_Intelligence_Optimization_for_Large_Language_Model_Inference_with_Batching_and_Quantization.md)
+
+    - [翻译: ](2024年05月11日/Edge_Intelligence_Optimization_for_Large_Language_Model_Inference_with_Batching_and_Quantization.md)
+
+- [Combining multiple post-training techniques to achieve most efficient quantized LLMs](2024年05月11日/Combining_multiple_post-training_techniques_to_achieve_most_efficient_quantized_LLMs.md)
+
+    - [翻译: ](2024年05月11日/Combining_multiple_post-training_techniques_to_achieve_most_efficient_quantized_LLMs.md)
+
+- [Designing and Evaluating Dialogue LLMs for Co-Creative Improvised Theatre](2024年05月11日/Designing_and_Evaluating_Dialogue_LLMs_for_Co-Creative_Improvised_Theatre.md)
+
+    - [翻译: ](2024年05月11日/Designing_and_Evaluating_Dialogue_LLMs_for_Co-Creative_Improvised_Theatre.md)
+
+- [Advanced Natural-based interaction for the ITAlian language: LLaMAntino-3-ANITA](2024年05月11日/Advanced_Natural-based_interaction_for_the_ITAlian_language_LLaMAntino-3-ANITA.md)
+
+    - [翻译: ](2024年05月11日/Advanced_Natural-based_interaction_for_the_ITAlian_language_LLaMAntino-3-ANITA.md)
+
+- [MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling](2024年05月11日/MUD_Towards_a_Large-Scale_and_Noise-Filtered_UI_Dataset_for_Modern_Style_UI_Modeling.md)
+
+    - [翻译: ](2024年05月11日/MUD_Towards_a_Large-Scale_and_Noise-Filtered_UI_Dataset_for_Modern_Style_UI_Modeling.md)
+
+- [SonifyAR: Context-Aware Sound Generation in Augmented Reality](2024年05月11日/SonifyAR_Context-Aware_Sound_Generation_in_Augmented_Reality.md)
+
+    - [翻译: ](2024年05月11日/SonifyAR_Context-Aware_Sound_Generation_in_Augmented_Reality.md)
+
+- [Integrating Emotional and Linguistic Models for Ethical Compliance in Large Language Models](2024年05月11日/Integrating_Emotional_and_Linguistic_Models_for_Ethical_Compliance_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月11日/Integrating_Emotional_and_Linguistic_Models_for_Ethical_Compliance_in_Large_Language_Models.md)
+
+- [LogoMotion: Visually Grounded Code Generation for Content-Aware Animation](2024年05月11日/LogoMotion_Visually_Grounded_Code_Generation_for_Content-Aware_Animation.md)
+
+    - [翻译: ](2024年05月11日/LogoMotion_Visually_Grounded_Code_Generation_for_Content-Aware_Animation.md)
+
+- [LLMs and the Future of Chip Design: Unveiling Security Risks and Building Trust](2024年05月11日/LLMs_and_the_Future_of_Chip_Design_Unveiling_Security_Risks_and_Building_Trust.md)
+
+    - [翻译: ](2024年05月11日/LLMs_and_the_Future_of_Chip_Design_Unveiling_Security_Risks_and_Building_Trust.md)
+
+- [Memory-Maze: Scenario Driven Benchmark and Visual Language Navigation Model for Guiding Blind People](2024年05月11日/Memory-Maze_Scenario_Driven_Benchmark_and_Visual_Language_Navigation_Model_for_Guiding_Blind_People.md)
+
+    - [翻译: ](2024年05月11日/Memory-Maze_Scenario_Driven_Benchmark_and_Visual_Language_Navigation_Model_for_Guiding_Blind_People.md)
+
+- [Retrieval Enhanced Zero-Shot Video Captioning](2024年05月11日/Retrieval_Enhanced_Zero-Shot_Video_Captioning.md)
+
+    - [翻译: ](2024年05月11日/Retrieval_Enhanced_Zero-Shot_Video_Captioning.md)
+
+- [A Turkish Educational Crossword Puzzle](2024年05月11日/A_Turkish_Educational_Crossword_Puzzle.md)
+
+    - [翻译: ](2024年05月11日/A_Turkish_Educational_Crossword_Puzzle.md)
+
+- [Evaluating Task-based Effectiveness of MLLMs on Charts](2024年05月11日/Evaluating_Task-based_Effectiveness_of_MLLMs_on_Charts.md)
+
+    - [翻译: ](2024年05月11日/Evaluating_Task-based_Effectiveness_of_MLLMs_on_Charts.md)
+
+- [Large Language Model-aided Edge Learning in Distribution System State Estimation](2024年05月11日/Large_Language_Model-aided_Edge_Learning_in_Distribution_System_State_Estimation.md)
+
+    - [翻译: ](2024年05月11日/Large_Language_Model-aided_Edge_Learning_in_Distribution_System_State_Estimation.md)
+
+- [Quite Good, but Not Enough: Nationality Bias in Large Language Models -- A Case Study of ChatGPT](2024年05月11日/Quite_Good,_but_Not_Enough_Nationality_Bias_in_Large_Language_Models_--_A_Case_Study_of_ChatGPT.md)
+
+    - [翻译: ](2024年05月11日/Quite_Good,_but_Not_Enough_Nationality_Bias_in_Large_Language_Models_--_A_Case_Study_of_ChatGPT.md)
+
+- [Identifying Key Terms in Prompts for Relevance Evaluation with GPT Models](2024年05月11日/Identifying_Key_Terms_in_Prompts_for_Relevance_Evaluation_with_GPT_Models.md)
+
+    - [翻译: ](2024年05月11日/Identifying_Key_Terms_in_Prompts_for_Relevance_Evaluation_with_GPT_Models.md)
+
+- [Automating Thematic Analysis: How LLMs Analyse Controversial Topics](2024年05月11日/Automating_Thematic_Analysis_How_LLMs_Analyse_Controversial_Topics.md)
+
+    - [翻译: ](2024年05月11日/Automating_Thematic_Analysis_How_LLMs_Analyse_Controversial_Topics.md)
+
+- [CoRE: LLM as Interpreter for Natural Language Programming, Pseudo-Code Programming, and Flow Programming of AI Agents](2024年05月11日/CoRE_LLM_as_Interpreter_for_Natural_Language_Programming,_Pseudo-Code_Programming,_and_Flow_Programming_of_AI_Agents.md)
+
+    - [翻译: ](2024年05月11日/CoRE_LLM_as_Interpreter_for_Natural_Language_Programming,_Pseudo-Code_Programming,_and_Flow_Programming_of_AI_Agents.md)
+
 2024年05月10日
 
 - [Linearizing Large Language Models](2024年05月10日/Linearizing_Large_Language_Models.md)
@@ -93,6 +271,10 @@
 - [ExoplANETS-A: A VO database for host stars and planetary systems: The effect of XUV on planet atmospheres](2024年05月10日/ExoplANETS-A_A_VO_database_for_host_stars_and_planetary_systems_The_effect_of_XUV_on_planet_atmospheres.md)
 
     - [翻译: ExoplANETS-A：探索宿主星与行星系统的宝库，揭示XUV辐射如何塑造遥远世界的大气层。](2024年05月10日/ExoplANETS-A_A_VO_database_for_host_stars_and_planetary_systems_The_effect_of_XUV_on_planet_atmospheres.md)
+
+- [TacoERE: Cluster-aware Compression for Event Relation Extraction](2024年05月10日/TacoERE_Cluster-aware_Compression_for_Event_Relation_Extraction.md)
+
+    - [翻译: ](2024年05月10日/TacoERE_Cluster-aware_Compression_for_Event_Relation_Extraction.md)
 
 2024年05月09日
 
