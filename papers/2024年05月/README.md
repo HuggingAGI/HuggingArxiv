@@ -4,179 +4,179 @@
 
 - [Prompt-based Code Completion via Multi-Retrieval Augmented Generation](2024年05月13日/Prompt-based_Code_Completion_via_Multi-Retrieval_Augmented_Generation.md)
 
-    - [翻译: ](2024年05月13日/Prompt-based_Code_Completion_via_Multi-Retrieval_Augmented_Generation.md)
+    - [翻译: 基于提示的多重检索增强生成实现代码补全](2024年05月13日/Prompt-based_Code_Completion_via_Multi-Retrieval_Augmented_Generation.md)
 
 - [MS MARCO Web Search: a Large-scale Information-rich Web Dataset with Millions of Real Click Labels](2024年05月13日/MS_MARCO_Web_Search_a_Large-scale_Information-rich_Web_Dataset_with_Millions_of_Real_Click_Labels.md)
 
-    - [翻译: ](2024年05月13日/MS_MARCO_Web_Search_a_Large-scale_Information-rich_Web_Dataset_with_Millions_of_Real_Click_Labels.md)
+    - [翻译: MS MARCO网络搜索：一个汇聚数百万真实用户点击数据的大规模网络信息宝库在](2024年05月13日/MS_MARCO_Web_Search_a_Large-scale_Information-rich_Web_Dataset_with_Millions_of_Real_Click_Labels.md)
 
 - [SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts](2024年05月13日/SambaNova_SN40L_Scaling_the_AI_Memory_Wall_with_Dataflow_and_Composition_of_Experts.md)
 
-    - [翻译: ](2024年05月13日/SambaNova_SN40L_Scaling_the_AI_Memory_Wall_with_Dataflow_and_Composition_of_Experts.md)
+    - [翻译: SambaNova SN40L：以数据流与专家组合之力，突破AI内存壁垒](2024年05月13日/SambaNova_SN40L_Scaling_the_AI_Memory_Wall_with_Dataflow_and_Composition_of_Experts.md)
 
 - [Fine-tuning the SwissBERT Encoder Model for Embedding Sentences and Documents](2024年05月13日/Fine-tuning_the_SwissBERT_Encoder_Model_for_Embedding_Sentences_and_Documents.md)
 
-    - [翻译: ](2024年05月13日/Fine-tuning_the_SwissBERT_Encoder_Model_for_Embedding_Sentences_and_Documents.md)
+    - [翻译: 优化瑞士BERT模型，精炼句与文嵌入之艺](2024年05月13日/Fine-tuning_the_SwissBERT_Encoder_Model_for_Embedding_Sentences_and_Documents.md)
 
 - [PromptLink: Leveraging Large Language Models for Cross-Source Biomedical Concept Linking](2024年05月13日/PromptLink_Leveraging_Large_Language_Models_for_Cross-Source_Biomedical_Concept_Linking.md)
 
-    - [翻译: ](2024年05月13日/PromptLink_Leveraging_Large_Language_Models_for_Cross-Source_Biomedical_Concept_Linking.md)
+    - [翻译: PromptLink：借助大型语言模型实现跨源生物医学概念的精准链接](2024年05月13日/PromptLink_Leveraging_Large_Language_Models_for_Cross-Source_Biomedical_Concept_Linking.md)
 
 - [Oedipus: LLM-enchanced Reasoning CAPTCHA Solver](2024年05月13日/Oedipus_LLM-enchanced_Reasoning_CAPTCHA_Solver.md)
 
-    - [翻译: ](2024年05月13日/Oedipus_LLM-enchanced_Reasoning_CAPTCHA_Solver.md)
+    - [翻译: 俄狄浦斯：大型语言模型加持的推理验证码破解者](2024年05月13日/Oedipus_LLM-enchanced_Reasoning_CAPTCHA_Solver.md)
 
 - [MacBehaviour: An R package for behavioural experimentation on large language models](2024年05月13日/MacBehaviour_An_R_package_for_behavioural_experimentation_on_large_language_models.md)
 
-    - [翻译: ](2024年05月13日/MacBehaviour_An_R_package_for_behavioural_experimentation_on_large_language_models.md)
+    - [翻译: MacBehaviour：专为大型语言模型行为实验设计的R包，旨在深入探索语言模型的行为模式与实验应用。](2024年05月13日/MacBehaviour_An_R_package_for_behavioural_experimentation_on_large_language_models.md)
 
 - [Strategic Data Ordering: Enhancing Large Language Model Performance through Curriculum Learning](2024年05月13日/Strategic_Data_Ordering_Enhancing_Large_Language_Model_Performance_through_Curriculum_Learning.md)
 
-    - [翻译: ](2024年05月13日/Strategic_Data_Ordering_Enhancing_Large_Language_Model_Performance_through_Curriculum_Learning.md)
+    - [翻译: 策略性数据排序：借助课程学习提升大型语言模型的效能在这项研究中，我们探讨了通过精心设计的数据排序策略，即课程学习，来增强大型语言模型性能的方法。课程学习是一种模仿人类教育过程的机器学习方法，它通过逐步增加任务难度来训练模型，从而使模型能够更有效地学习复杂的概念。我们的研究结果表明，合理安排数据顺序可以显著提高模型在各种语言任务中的表现，为优化大型语言模型的训练提供了新的视角。](2024年05月13日/Strategic_Data_Ordering_Enhancing_Large_Language_Model_Performance_through_Curriculum_Learning.md)
 
 - [Integrating Intent Understanding and Optimal Behavior Planning for Behavior Tree Generation from Human Instructions](2024年05月13日/Integrating_Intent_Understanding_and_Optimal_Behavior_Planning_for_Behavior_Tree_Generation_from_Human_Instructions.md)
 
-    - [翻译: ](2024年05月13日/Integrating_Intent_Understanding_and_Optimal_Behavior_Planning_for_Behavior_Tree_Generation_from_Human_Instructions.md)
+    - [翻译: 融合意图洞察与行为规划，精妙演绎人类指令至行为树之生成](2024年05月13日/Integrating_Intent_Understanding_and_Optimal_Behavior_Planning_for_Behavior_Tree_Generation_from_Human_Instructions.md)
 
 - [Evaluating large language models in medical applications: a survey](2024年05月13日/Evaluating_large_language_models_in_medical_applications_a_survey.md)
 
-    - [翻译: ](2024年05月13日/Evaluating_large_language_models_in_medical_applications_a_survey.md)
+    - [翻译: 大型语言模型在医疗领域的应用评估：一份综述在这份综述中，我们将探讨大型语言模型在医疗领域中的应用，并评估其在不同医疗场景下的表现。通过深入分析，我们旨在揭示这些模型在提升医疗服务质量和效率方面的潜力，以及它们在实际应用中可能面临的挑战。](2024年05月13日/Evaluating_large_language_models_in_medical_applications_a_survey.md)
 
 - [MCS-SQL: Leveraging Multiple Prompts and Multiple-Choice Selection For Text-to-SQL Generation](2024年05月13日/MCS-SQL_Leveraging_Multiple_Prompts_and_Multiple-Choice_Selection_For_Text-to-SQL_Generation.md)
 
-    - [翻译: ](2024年05月13日/MCS-SQL_Leveraging_Multiple_Prompts_and_Multiple-Choice_Selection_For_Text-to-SQL_Generation.md)
+    - [翻译: MCS-SQL：借助多重提示与选择题机制，精妙演绎文本至SQL的生成艺术](2024年05月13日/MCS-SQL_Leveraging_Multiple_Prompts_and_Multiple-Choice_Selection_For_Text-to-SQL_Generation.md)
 
 2024年05月12日
 
 - [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
 
-    - [翻译: ](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
+    - [翻译: CLIP赋能的TASS：一种专为视听问答设计的目标感知单流网络，它巧妙地融合了视觉和听觉信息，以精准解答跨模态问题。](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
 
 - [From traces to measures: Large language models as a tool for psychological measurement from text](2024年05月12日/From_traces_to_measures_Large_language_models_as_a_tool_for_psychological_measurement_from_text.md)
 
-    - [翻译: ](2024年05月12日/From_traces_to_measures_Large_language_models_as_a_tool_for_psychological_measurement_from_text.md)
+    - [翻译: 大型语言模型：文本心理测量的利器，从细微痕迹到精准测量。](2024年05月12日/From_traces_to_measures_Large_language_models_as_a_tool_for_psychological_measurement_from_text.md)
 
 - [Can Language Models Explain Their Own Classification Behavior?](2024年05月12日/Can_Language_Models_Explain_Their_Own_Classification_Behavior.md)
 
-    - [翻译: ](2024年05月12日/Can_Language_Models_Explain_Their_Own_Classification_Behavior.md)
+    - [翻译: 语言模型是否具备自我解释其分类决策的能力？这一问题引发了对于模型透明度和可解释性的深入探讨。](2024年05月12日/Can_Language_Models_Explain_Their_Own_Classification_Behavior.md)
 
 - [Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference](2024年05月12日/Don't_Chase_Your_Tail!_Missing_Key_Aspects_Augmentation_in_Textual_Vulnerability_Descriptions_of_Long-tail_Software_through_Feature_Inference.md)
 
-    - [翻译: ](2024年05月12日/Don't_Chase_Your_Tail!_Missing_Key_Aspects_Augmentation_in_Textual_Vulnerability_Descriptions_of_Long-tail_Software_through_Feature_Inference.md)
+    - [翻译: 别做无用功！通过特征推断填补长尾软件漏洞描述中的空白，揭示关键缺失要素。](2024年05月12日/Don't_Chase_Your_Tail!_Missing_Key_Aspects_Augmentation_in_Textual_Vulnerability_Descriptions_of_Long-tail_Software_through_Feature_Inference.md)
 
 - [Identifying Hate Speech Peddlers in Online Platforms. A Bayesian Social Learning Approach for Large Language Model Driven Decision-Makers](2024年05月12日/Identifying_Hate_Speech_Peddlers_in_Online_Platforms._A_Bayesian_Social_Learning_Approach_for_Large_Language_Model_Driven_Decision-Makers.md)
 
-    - [翻译: ](2024年05月12日/Identifying_Hate_Speech_Peddlers_in_Online_Platforms._A_Bayesian_Social_Learning_Approach_for_Large_Language_Model_Driven_Decision-Makers.md)
+    - [翻译: 利用大型语言模型，采用贝叶斯社会学习策略，精准识别网络平台上的仇恨言论传播者，为决策者提供有力支持。](2024年05月12日/Identifying_Hate_Speech_Peddlers_in_Online_Platforms._A_Bayesian_Social_Learning_Approach_for_Large_Language_Model_Driven_Decision-Makers.md)
 
 - [MedConceptsQA -- Open Source Medical Concepts QA Benchmark](2024年05月12日/MedConceptsQA_--_Open_Source_Medical_Concepts_QA_Benchmark.md)
 
-    - [翻译: ](2024年05月12日/MedConceptsQA_--_Open_Source_Medical_Concepts_QA_Benchmark.md)
+    - [翻译: MedConceptsQA - 开源医学概念问答标杆，旨在为医学领域的知识问答提供一个公开、可验证的评估平台。](2024年05月12日/MedConceptsQA_--_Open_Source_Medical_Concepts_QA_Benchmark.md)
 
 - [Learnable Tokenizer for LLM-based Generative Recommendation](2024年05月12日/Learnable_Tokenizer_for_LLM-based_Generative_Recommendation.md)
 
-    - [翻译: ](2024年05月12日/Learnable_Tokenizer_for_LLM-based_Generative_Recommendation.md)
+    - [翻译: 大型语言模型生成推荐的可学习分词器](2024年05月12日/Learnable_Tokenizer_for_LLM-based_Generative_Recommendation.md)
 
 - [Human-interpretable clustering of short-text using large language models](2024年05月12日/Human-interpretable_clustering_of_short-text_using_large_language_models.md)
 
-    - [翻译: ](2024年05月12日/Human-interpretable_clustering_of_short-text_using_large_language_models.md)
+    - [翻译: 大型语言模型助力短文本聚类，实现人类可理解的分析](2024年05月12日/Human-interpretable_clustering_of_short-text_using_large_language_models.md)
 
 - [Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis](2024年05月12日/Limited_Ability_of_LLMs_to_Simulate_Human_Psychological_Behaviours_a_Psychometric_Analysis.md)
 
-    - [翻译: ](2024年05月12日/Limited_Ability_of_LLMs_to_Simulate_Human_Psychological_Behaviours_a_Psychometric_Analysis.md)
+    - [翻译: 大型语言模型在模拟人类心理行为方面显露局限：心理测量视角下的深度剖析](2024年05月12日/Limited_Ability_of_LLMs_to_Simulate_Human_Psychological_Behaviours_a_Psychometric_Analysis.md)
 
 - [MM-InstructEval: Zero-Shot Evaluation of (Multimodal) Large Language Models on Multimodal Reasoning Tasks](2024年05月12日/MM-InstructEval_Zero-Shot_Evaluation_of_(Multimodal)_Large_Language_Models_on_Multimodal_Reasoning_Tasks.md)
 
-    - [翻译: ](2024年05月12日/MM-InstructEval_Zero-Shot_Evaluation_of_(Multimodal)_Large_Language_Models_on_Multimodal_Reasoning_Tasks.md)
+    - [翻译: MM-InstructEval：大型多模态语言模型在多模态推理任务上的零-shot性能评估在这项研究中，我们引入了 MM-InstructEval，这是一个用于评估大型多模态语言模型在多模态推理任务上的零-shot性能的框架。通过这个框架，我们旨在探索这些模型在无需额外训练的情况下，如何理解和处理结合了文本和视觉信息的多模态输入，并执行复杂的推理任务。我们的目标是提供一个全面的评估工具，以揭示这些先进模型在多模态环境下的实际能力和潜在局限性。](2024年05月12日/MM-InstructEval_Zero-Shot_Evaluation_of_(Multimodal)_Large_Language_Models_on_Multimodal_Reasoning_Tasks.md)
 
 - [Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective](2024年05月12日/Enhancing_Decision-Making_in_Optimization_through_LLM-Assisted_Inference_A_Neural_Networks_Perspective.md)
 
-    - [翻译: ](2024年05月12日/Enhancing_Decision-Making_in_Optimization_through_LLM-Assisted_Inference_A_Neural_Networks_Perspective.md)
+    - [翻译: 借助大型语言模型辅助推理，优化决策更上一层楼：神经网络视角下的探索](2024年05月12日/Enhancing_Decision-Making_in_Optimization_through_LLM-Assisted_Inference_A_Neural_Networks_Perspective.md)
 
 - [Unified Video-Language Pre-training with Synchronized Audio](2024年05月12日/Unified_Video-Language_Pre-training_with_Synchronized_Audio.md)
 
-    - [翻译: ](2024年05月12日/Unified_Video-Language_Pre-training_with_Synchronized_Audio.md)
+    - [翻译: 同步音频下的视频与语言一体化预训练](2024年05月12日/Unified_Video-Language_Pre-training_with_Synchronized_Audio.md)
 
 - [Differentiable Model Scaling using Differentiable Topk](2024年05月12日/Differentiable_Model_Scaling_using_Differentiable_Topk.md)
 
-    - [翻译: ](2024年05月12日/Differentiable_Model_Scaling_using_Differentiable_Topk.md)
+    - [翻译: 利用可微分Topk实现模型参数的灵活缩放，这一技术为模型优化提供了新的维度，使得模型在保持性能的同时，能够更加适应不同的计算资源和应用场景。](2024年05月12日/Differentiable_Model_Scaling_using_Differentiable_Topk.md)
 
 - [Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](2024年05月12日/Learning_Reward_for_Robot_Skills_Using_Large_Language_Models_via_Self-Alignment.md)
 
-    - [翻译: ](2024年05月12日/Learning_Reward_for_Robot_Skills_Using_Large_Language_Models_via_Self-Alignment.md)
+    - [翻译: 借助大型语言模型的自我对齐，我们探索了如何为机器人技能学习赋予奖励，这一创新方法旨在提升机器人在复杂任务中的自主学习能力。](2024年05月12日/Learning_Reward_for_Robot_Skills_Using_Large_Language_Models_via_Self-Alignment.md)
 
 2024年05月11日
 
 - [Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization](2024年05月11日/Edge_Intelligence_Optimization_for_Large_Language_Model_Inference_with_Batching_and_Quantization.md)
 
-    - [翻译: ](2024年05月11日/Edge_Intelligence_Optimization_for_Large_Language_Model_Inference_with_Batching_and_Quantization.md)
+    - [翻译: 大型语言模型推理的边缘智能优化：通过批处理与量化技术提升效率。](2024年05月11日/Edge_Intelligence_Optimization_for_Large_Language_Model_Inference_with_Batching_and_Quantization.md)
 
 - [Combining multiple post-training techniques to achieve most efficient quantized LLMs](2024年05月11日/Combining_multiple_post-training_techniques_to_achieve_most_efficient_quantized_LLMs.md)
 
-    - [翻译: ](2024年05月11日/Combining_multiple_post-training_techniques_to_achieve_most_efficient_quantized_LLMs.md)
+    - [翻译: 融合多重后训练技艺，铸就量化大型语言模型的极致效能](2024年05月11日/Combining_multiple_post-training_techniques_to_achieve_most_efficient_quantized_LLMs.md)
 
 - [Designing and Evaluating Dialogue LLMs for Co-Creative Improvised Theatre](2024年05月11日/Designing_and_Evaluating_Dialogue_LLMs_for_Co-Creative_Improvised_Theatre.md)
 
-    - [翻译: ](2024年05月11日/Designing_and_Evaluating_Dialogue_LLMs_for_Co-Creative_Improvised_Theatre.md)
+    - [翻译: 打造与评测共创即兴戏剧的对话式LLM](2024年05月11日/Designing_and_Evaluating_Dialogue_LLMs_for_Co-Creative_Improvised_Theatre.md)
 
 - [Advanced Natural-based interaction for the ITAlian language: LLaMAntino-3-ANITA](2024年05月11日/Advanced_Natural-based_interaction_for_the_ITAlian_language_LLaMAntino-3-ANITA.md)
 
-    - [翻译: ](2024年05月11日/Advanced_Natural-based_interaction_for_the_ITAlian_language_LLaMAntino-3-ANITA.md)
+    - [翻译: 意大利语的先进自然交互技术：LLaMAntino-3-ANITA](2024年05月11日/Advanced_Natural-based_interaction_for_the_ITAlian_language_LLaMAntino-3-ANITA.md)
 
 - [MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling](2024年05月11日/MUD_Towards_a_Large-Scale_and_Noise-Filtered_UI_Dataset_for_Modern_Style_UI_Modeling.md)
 
-    - [翻译: ](2024年05月11日/MUD_Towards_a_Large-Scale_and_Noise-Filtered_UI_Dataset_for_Modern_Style_UI_Modeling.md)
+    - [翻译: MUD：构建大规模且去噪的现代风格UI模型数据集在这项研究中，我们提出了MUD，一个旨在为现代风格UI模型提供大规模且经过噪声过滤的UI数据集。通过精心设计的去噪机制，MUD确保了数据的质量，为UI模型的训练和评估提供了坚实的基础。我们的目标是推动UI设计领域的进步，使得模型能够更好地理解和生成符合现代审美的用户界面。](2024年05月11日/MUD_Towards_a_Large-Scale_and_Noise-Filtered_UI_Dataset_for_Modern_Style_UI_Modeling.md)
 
 - [SonifyAR: Context-Aware Sound Generation in Augmented Reality](2024年05月11日/SonifyAR_Context-Aware_Sound_Generation_in_Augmented_Reality.md)
 
-    - [翻译: ](2024年05月11日/SonifyAR_Context-Aware_Sound_Generation_in_Augmented_Reality.md)
+    - [翻译: SonifyAR：在增强现实中，声音生成技术能够感知并适应环境，为用户带来沉浸式的听觉体验。](2024年05月11日/SonifyAR_Context-Aware_Sound_Generation_in_Augmented_Reality.md)
 
 - [Integrating Emotional and Linguistic Models for Ethical Compliance in Large Language Models](2024年05月11日/Integrating_Emotional_and_Linguistic_Models_for_Ethical_Compliance_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月11日/Integrating_Emotional_and_Linguistic_Models_for_Ethical_Compliance_in_Large_Language_Models.md)
+    - [翻译: 融合情感与语言模型，确保大型语言模型的伦理遵循在这项研究中，我们探讨了如何将情感分析与语言处理技术相结合，以提升大型语言模型在伦理合规方面的表现。通过这种整合，我们旨在确保人工智能在交流时不仅传达准确的信息，而且能够体现出对用户情感的敏感性和尊重，从而在伦理层面上达到更高的标准。](2024年05月11日/Integrating_Emotional_and_Linguistic_Models_for_Ethical_Compliance_in_Large_Language_Models.md)
 
 - [LogoMotion: Visually Grounded Code Generation for Content-Aware Animation](2024年05月11日/LogoMotion_Visually_Grounded_Code_Generation_for_Content-Aware_Animation.md)
 
-    - [翻译: ](2024年05月11日/LogoMotion_Visually_Grounded_Code_Generation_for_Content-Aware_Animation.md)
+    - [翻译: LogoMotion：视觉启发的代码生成，赋予动画内容感知能力](2024年05月11日/LogoMotion_Visually_Grounded_Code_Generation_for_Content-Aware_Animation.md)
 
 - [LLMs and the Future of Chip Design: Unveiling Security Risks and Building Trust](2024年05月11日/LLMs_and_the_Future_of_Chip_Design_Unveiling_Security_Risks_and_Building_Trust.md)
 
-    - [翻译: ](2024年05月11日/LLMs_and_the_Future_of_Chip_Design_Unveiling_Security_Risks_and_Building_Trust.md)
+    - [翻译: 大型语言模型与芯片设计未来：揭秘安全隐忧，构筑信任基石](2024年05月11日/LLMs_and_the_Future_of_Chip_Design_Unveiling_Security_Risks_and_Building_Trust.md)
 
 - [Memory-Maze: Scenario Driven Benchmark and Visual Language Navigation Model for Guiding Blind People](2024年05月11日/Memory-Maze_Scenario_Driven_Benchmark_and_Visual_Language_Navigation_Model_for_Guiding_Blind_People.md)
 
-    - [翻译: ](2024年05月11日/Memory-Maze_Scenario_Driven_Benchmark_and_Visual_Language_Navigation_Model_for_Guiding_Blind_People.md)
+    - [翻译: 记忆迷宫：专为盲人设计的情景驱动基准与视觉语言导航模型，旨在通过模拟真实环境挑战，提升导航辅助技术的精准性与实用性。](2024年05月11日/Memory-Maze_Scenario_Driven_Benchmark_and_Visual_Language_Navigation_Model_for_Guiding_Blind_People.md)
 
 - [Retrieval Enhanced Zero-Shot Video Captioning](2024年05月11日/Retrieval_Enhanced_Zero-Shot_Video_Captioning.md)
 
-    - [翻译: ](2024年05月11日/Retrieval_Enhanced_Zero-Shot_Video_Captioning.md)
+    - [翻译: 零-shot视频字幕生成通过检索增强技术得到提升，本研究探索了如何利用检索机制来优化视频内容的自动描述过程。](2024年05月11日/Retrieval_Enhanced_Zero-Shot_Video_Captioning.md)
 
 - [A Turkish Educational Crossword Puzzle](2024年05月11日/A_Turkish_Educational_Crossword_Puzzle.md)
 
-    - [翻译: ](2024年05月11日/A_Turkish_Educational_Crossword_Puzzle.md)
+    - [翻译: 土耳其益智教育填字游戏解释：在](2024年05月11日/A_Turkish_Educational_Crossword_Puzzle.md)
 
 - [Evaluating Task-based Effectiveness of MLLMs on Charts](2024年05月11日/Evaluating_Task-based_Effectiveness_of_MLLMs_on_Charts.md)
 
-    - [翻译: ](2024年05月11日/Evaluating_Task-based_Effectiveness_of_MLLMs_on_Charts.md)
+    - [翻译: 探究多模态大型语言模型在图表任务中的实际效能。](2024年05月11日/Evaluating_Task-based_Effectiveness_of_MLLMs_on_Charts.md)
 
 - [Large Language Model-aided Edge Learning in Distribution System State Estimation](2024年05月11日/Large_Language_Model-aided_Edge_Learning_in_Distribution_System_State_Estimation.md)
 
-    - [翻译: ](2024年05月11日/Large_Language_Model-aided_Edge_Learning_in_Distribution_System_State_Estimation.md)
+    - [翻译: 借助大型语言模型，边缘学习在配电系统状态估计中展现出新的活力，为电力系统的智能化管理提供了强有力的技术支撑。](2024年05月11日/Large_Language_Model-aided_Edge_Learning_in_Distribution_System_State_Estimation.md)
 
 - [Quite Good, but Not Enough: Nationality Bias in Large Language Models -- A Case Study of ChatGPT](2024年05月11日/Quite_Good,_but_Not_Enough_Nationality_Bias_in_Large_Language_Models_--_A_Case_Study_of_ChatGPT.md)
 
-    - [翻译: ](2024年05月11日/Quite_Good,_but_Not_Enough_Nationality_Bias_in_Large_Language_Models_--_A_Case_Study_of_ChatGPT.md)
+    - [翻译: 尚可但不足：探究大型语言模型中的国籍偏见——以ChatGPT为例](2024年05月11日/Quite_Good,_but_Not_Enough_Nationality_Bias_in_Large_Language_Models_--_A_Case_Study_of_ChatGPT.md)
 
 - [Identifying Key Terms in Prompts for Relevance Evaluation with GPT Models](2024年05月11日/Identifying_Key_Terms_in_Prompts_for_Relevance_Evaluation_with_GPT_Models.md)
 
-    - [翻译: ](2024年05月11日/Identifying_Key_Terms_in_Prompts_for_Relevance_Evaluation_with_GPT_Models.md)
+    - [翻译: 在利用GPT模型评估相关性时，精准捕捉提示中的关键术语至关重要。本研究聚焦于如何有效地识别这些关键术语，以提升模型在相关性评估中的准确性和效率。](2024年05月11日/Identifying_Key_Terms_in_Prompts_for_Relevance_Evaluation_with_GPT_Models.md)
 
 - [Automating Thematic Analysis: How LLMs Analyse Controversial Topics](2024年05月11日/Automating_Thematic_Analysis_How_LLMs_Analyse_Controversial_Topics.md)
 
-    - [翻译: ](2024年05月11日/Automating_Thematic_Analysis_How_LLMs_Analyse_Controversial_Topics.md)
+    - [翻译: 大型语言模型在争议话题分析中的自动化探索在上述翻译过程中，](2024年05月11日/Automating_Thematic_Analysis_How_LLMs_Analyse_Controversial_Topics.md)
 
 - [CoRE: LLM as Interpreter for Natural Language Programming, Pseudo-Code Programming, and Flow Programming of AI Agents](2024年05月11日/CoRE_LLM_as_Interpreter_for_Natural_Language_Programming,_Pseudo-Code_Programming,_and_Flow_Programming_of_AI_Agents.md)
 
-    - [翻译: ](2024年05月11日/CoRE_LLM_as_Interpreter_for_Natural_Language_Programming,_Pseudo-Code_Programming,_and_Flow_Programming_of_AI_Agents.md)
+    - [翻译: CoRE：大型语言模型——AI代理自然语言编程、伪代码编程与流程编程的智慧之钥](2024年05月11日/CoRE_LLM_as_Interpreter_for_Natural_Language_Programming,_Pseudo-Code_Programming,_and_Flow_Programming_of_AI_Agents.md)
 
 2024年05月10日
 
@@ -274,7 +274,7 @@
 
 - [TacoERE: Cluster-aware Compression for Event Relation Extraction](2024年05月10日/TacoERE_Cluster-aware_Compression_for_Event_Relation_Extraction.md)
 
-    - [翻译: ](2024年05月10日/TacoERE_Cluster-aware_Compression_for_Event_Relation_Extraction.md)
+    - [翻译: TacoERE：事件关系抽取的集群感知压缩技术](2024年05月10日/TacoERE_Cluster-aware_Compression_for_Event_Relation_Extraction.md)
 
 2024年05月09日
 
