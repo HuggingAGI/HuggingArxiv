@@ -14,6 +14,82 @@
 
     - [翻译: 医学领域大型语言模型与多模态模型的全面综述](2024年05月14日/A_Comprehensive_Survey_of_Large_Language_Models_and_Multimodal_Large_Language_Models_in_Medicine.md)
 
+- [Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs](2024年05月14日/Towards_Enhanced_RAC_Accessibility_Leveraging_Datasets_and_LLMs.md)
+
+    - [翻译: 迈向提升RAC可及性：借助数据集与大型语言模型之力在这篇文章中，我们将探讨如何通过整合数据集和大型语言模型（LLMs）来提高RAC（可能是某种技术或系统的缩写）的可访问性。我们将深入分析这些工具如何协同工作，以简化复杂任务的执行，并使更多人能够利用这些先进的技术。通过这种方式，我们不仅能够推动技术的普及，还能促进创新，让更多人受益于这些强大的资源。](2024年05月14日/Towards_Enhanced_RAC_Accessibility_Leveraging_Datasets_and_LLMs.md)
+
+- [Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring](2024年05月14日/Incorporating_Clinical_Guidelines_through_Adapting_Multi-modal_Large_Language_Model_for_Prostate_Cancer_PI-RADS_Scoring.md)
+
+    - [翻译: 融合临床指南：多模态大型语言模型在前列腺癌PI-RADS评分中的应用](2024年05月14日/Incorporating_Clinical_Guidelines_through_Adapting_Multi-modal_Large_Language_Model_for_Prostate_Cancer_PI-RADS_Scoring.md)
+
+- [Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs](2024年05月14日/Is_the_Pope_Catholic_Yes,_the_Pope_is_Catholic._Generative_Evaluation_of_Intent_Resolution_in_LLMs.md)
+
+    - [翻译: 教皇当然是天主教的，这无需多言。本文聚焦于大型语言模型中意图解析的生成式评估，探讨其在理解用户意图方面的深度与广度。](2024年05月14日/Is_the_Pope_Catholic_Yes,_the_Pope_is_Catholic._Generative_Evaluation_of_Intent_Resolution_in_LLMs.md)
+
+- [Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach](2024年05月14日/Distributed_Threat_Intelligence_at_the_Edge_Devices_A_Large_Language_Model-Driven_Approach.md)
+
+    - [翻译: 大型语言模型驱动的边缘设备分布式威胁情报策略在边缘设备上，分布式威胁情报的收集与分析正成为网络安全的新前沿。本文提出了一种基于大型语言模型的创新方法，旨在提升威胁情报的实时处理能力，并增强网络防御的智能化水平。通过这种方法，我们能够更有效地识别和响应潜在的安全威胁，确保网络环境的安全稳定。](2024年05月14日/Distributed_Threat_Intelligence_at_the_Edge_Devices_A_Large_Language_Model-Driven_Approach.md)
+
+- [Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research](2024年05月14日/Promoting_AI_Equity_in_Science_Generalized_Domain_Prompt_Learning_for_Accessible_VLM_Research.md)
+
+    - [翻译: 推动科学领域的AI公平：普及视觉语言模型研究的泛化领域提示学习方法](2024年05月14日/Promoting_AI_Equity_in_Science_Generalized_Domain_Prompt_Learning_for_Accessible_VLM_Research.md)
+
+- [Thinking Tokens for Language Modeling](2024年05月14日/Thinking_Tokens_for_Language_Modeling.md)
+
+    - [翻译: 语言模型中的思维标记在语言模型中引入思维标记，旨在增强模型的理解和推理能力，使其在处理复杂语言任务时更加精准和高效。这些标记如同智慧的火花，在模型的计算过程中闪烁，引导其深入思考，从而提升了解决问题的能力。](2024年05月14日/Thinking_Tokens_for_Language_Modeling.md)
+
+- [ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation](2024年05月14日/ALMol_Aligned_Language-Molecule_Translation_LLMs_through_Offline_Preference_Contrastive_Optimisation.md)
+
+    - [翻译: ALMol：借助离线偏好对比优化，实现语言与分子间精准翻译的大型语言模型](2024年05月14日/ALMol_Aligned_Language-Molecule_Translation_LLMs_through_Offline_Preference_Contrastive_Optimisation.md)
+
+- [EVDA: Evolving Deepfake Audio Detection Continual Learning Benchmark](2024年05月14日/EVDA_Evolving_Deepfake_Audio_Detection_Continual_Learning_Benchmark.md)
+
+    - [翻译: EVDA：深度伪造音频检测的进化持续学习基准在结果2中，我采用了更加简洁优雅的表达方式，将“Evolving Deepfake Audio Detection Continual Learning Benchmark”翻译为“深度伪造音频检测的进化持续学习基准”，这样的翻译更加符合中文的表达习惯，同时也保持了原文的意思。](2024年05月14日/EVDA_Evolving_Deepfake_Audio_Detection_Continual_Learning_Benchmark.md)
+
+- [Falcon 7b for Software Mention Detection in Scholarly Documents](2024年05月14日/Falcon_7b_for_Software_Mention_Detection_in_Scholarly_Documents.md)
+
+    - [翻译: Falcon 7b：学术文档中软件提及的精准侦测者在学术文档的浩瀚海洋中，Falcon 7b 如同一位敏锐的侦探，专门负责捕捉那些关于软件的微妙提及。它的任务不仅仅是识别，更是深入理解，确保每一条软件相关的信息都能被准确无误地捕获。](2024年05月14日/Falcon_7b_for_Software_Mention_Detection_in_Scholarly_Documents.md)
+
+- [Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure](2024年05月14日/Archimedes-AUEB_at_SemEval-2024_Task_5_LLM_explains_Civil_Procedure.md)
+
+    - [翻译: Archimedes-AUEB 团队在 SemEval-2024 的第五项任务中，运用大型语言模型（LLM）对民法程序进行了解释。本研究聚焦于利用 LLM 的强大功能，深入剖析民法程序的复杂性，并探索其在法律领域的应用潜力。](2024年05月14日/Archimedes-AUEB_at_SemEval-2024_Task_5_LLM_explains_Civil_Procedure.md)
+
+- [Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models](2024年05月14日/Enhancing_Gender-Inclusive_Machine_Translation_with_Neomorphemes_and_Large_Language_Models.md)
+
+    - [翻译: 借助新形态素与大型语言模型，提升机器翻译的性别包容性](2024年05月14日/Enhancing_Gender-Inclusive_Machine_Translation_with_Neomorphemes_and_Large_Language_Models.md)
+
+- [Challenges and Opportunities in Text Generation Explainability](2024年05月14日/Challenges_and_Opportunities_in_Text_Generation_Explainability.md)
+
+    - [翻译: 探索文本生成之谜：挑战与机遇并存](2024年05月14日/Challenges_and_Opportunities_in_Text_Generation_Explainability.md)
+
+- [Evaluating LLMs at Evaluating Temporal Generalization](2024年05月14日/Evaluating_LLMs_at_Evaluating_Temporal_Generalization.md)
+
+    - [翻译: 探究大型语言模型在时间泛化评估中的表现力](2024年05月14日/Evaluating_LLMs_at_Evaluating_Temporal_Generalization.md)
+
+- [Understanding the performance gap between online and offline alignment algorithms](2024年05月14日/Understanding_the_performance_gap_between_online_and_offline_alignment_algorithms.md)
+
+    - [翻译: 探究在线与离线对齐算法性能差异之谜](2024年05月14日/Understanding_the_performance_gap_between_online_and_offline_alignment_algorithms.md)
+
+- [Stylometric Watermarks for Large Language Models](2024年05月14日/Stylometric_Watermarks_for_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型风格水印：为LLM嵌入独特标识，确保内容来源的可追溯性与安全性。](2024年05月14日/Stylometric_Watermarks_for_Large_Language_Models.md)
+
+- [PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles](2024年05月14日/PromptMind_Team_at_MEDIQA-CORR_2024_Improving_Clinical_Text_Correction_with_Error_Categorization_and_LLM_Ensembles.md)
+
+    - [翻译: PromptMind 团队在 MEDIQA-CORR 2024 大会上，采用错误分类与大型语言模型集成技术，显著提升了临床文本修正的精准度。](2024年05月14日/PromptMind_Team_at_MEDIQA-CORR_2024_Improving_Clinical_Text_Correction_with_Error_Categorization_and_LLM_Ensembles.md)
+
+- [Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark](2024年05月14日/Seal-Tools_Self-Instruct_Tool_Learning_Dataset_for_Agent_Tuning_and_Detailed_Benchmark.md)
+
+    - [翻译: 海豹工具集：专为智能体自适应调优与精准基准测试而设计的自指导工具学习数据集](2024年05月14日/Seal-Tools_Self-Instruct_Tool_Learning_Dataset_for_Agent_Tuning_and_Detailed_Benchmark.md)
+
+- [Could Chemical LLMs benefit from Message Passing](2024年05月14日/Could_Chemical_LLMs_benefit_from_Message_Passing.md)
+
+    - [翻译: 化学领域的 LLMs 是否能通过消息传递机制获得性能上的提升？这一问题引发了研究者们的广泛兴趣。消息传递作为一种信息交流的方式，在化学模型中可能扮演着关键角色，影响着模型的理解和预测能力。](2024年05月14日/Could_Chemical_LLMs_benefit_from_Message_Passing.md)
+
+- [SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](2024年05月14日/SpeechGuard_Exploring_the_Adversarial_Robustness_of_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 语音卫士：揭秘多模态大型语言模型在对抗攻击下的坚固防线](2024年05月14日/SpeechGuard_Exploring_the_Adversarial_Robustness_of_Multimodal_Large_Language_Models.md)
+
 2024年05月13日
 
 - [Prompt-based Code Completion via Multi-Retrieval Augmented Generation](2024年05月13日/Prompt-based_Code_Completion_via_Multi-Retrieval_Augmented_Generation.md)
@@ -176,6 +252,54 @@
 
     - [翻译: 蜜蜂计划：一个基于基础嵌入模型的可扩展模块化框架，专为构建多模态肿瘤学数据集而设计。](2024年05月13日/HoneyBee_A_Scalable_Modular_Framework_for_Creating_Multimodal_Oncology_Datasets_with_Foundational_Embedding_Models.md)
 
+- [SpeechVerse: A Large-scale Generalizable Audio Language Model](2024年05月13日/SpeechVerse_A_Large-scale_Generalizable_Audio_Language_Model.md)
+
+    - [翻译: SpeechVerse：一款大规模且具备广泛适用性的语音语言模型](2024年05月13日/SpeechVerse_A_Large-scale_Generalizable_Audio_Language_Model.md)
+
+- [VS-Assistant: Versatile Surgery Assistant on the Demand of Surgeons](2024年05月13日/VS-Assistant_Versatile_Surgery_Assistant_on_the_Demand_of_Surgeons.md)
+
+    - [翻译: VS助手：外科医生的得力助手，满足多样化的手术需求](2024年05月13日/VS-Assistant_Versatile_Surgery_Assistant_on_the_Demand_of_Surgeons.md)
+
+- [Compositional Text-to-Image Generation with Dense Blob Representations](2024年05月13日/Compositional_Text-to-Image_Generation_with_Dense_Blob_Representations.md)
+
+    - [翻译: 利用密集斑点表示实现文本至图像的组合生成](2024年05月13日/Compositional_Text-to-Image_Generation_with_Dense_Blob_Representations.md)
+
+- [Silver-Tongued and Sundry: Exploring Intersectional Pronouns with ChatGPT](2024年05月13日/Silver-Tongued_and_Sundry_Exploring_Intersectional_Pronouns_with_ChatGPT.md)
+
+    - [翻译: 巧舌如银，代词交织：与ChatGPT一同探索多元身份的代词世界](2024年05月13日/Silver-Tongued_and_Sundry_Exploring_Intersectional_Pronouns_with_ChatGPT.md)
+
+- [An information-theoretic model of shallow and deep language comprehension](2024年05月13日/An_information-theoretic_model_of_shallow_and_deep_language_comprehension.md)
+
+    - [翻译: 浅层与深层语言理解的信息理论模型](2024年05月13日/An_information-theoretic_model_of_shallow_and_deep_language_comprehension.md)
+
+- [Toward Automated Programming for Robotic Assembly Using ChatGPT](2024年05月13日/Toward_Automated_Programming_for_Robotic_Assembly_Using_ChatGPT.md)
+
+    - [翻译: 借助ChatGPT，探索机器人装配编程的自动化之路](2024年05月13日/Toward_Automated_Programming_for_Robotic_Assembly_Using_ChatGPT.md)
+
+- [Interpreting Latent Student Knowledge Representations in Programming Assignments](2024年05月13日/Interpreting_Latent_Student_Knowledge_Representations_in_Programming_Assignments.md)
+
+    - [翻译: 揭示编程作业中学生潜在知识的内在表征](2024年05月13日/Interpreting_Latent_Student_Knowledge_Representations_in_Programming_Assignments.md)
+
+- [LLM Theory of Mind and Alignment: Opportunities and Risks](2024年05月13日/LLM_Theory_of_Mind_and_Alignment_Opportunities_and_Risks.md)
+
+    - [翻译: 大型语言模型（LLM）的心智理论与对齐：探索机遇与警惕风险](2024年05月13日/LLM_Theory_of_Mind_and_Alignment_Opportunities_and_Risks.md)
+
+- [Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness](2024年05月13日/Benchmarking_Retrieval-Augmented_Large_Language_Models_in_Biomedical_NLP_Application,_Robustness,_and_Self-Awareness.md)
+
+    - [翻译: 生物医学 NLP 中检索增强 LLM 的基准测试：应用、鲁棒性与自我认知在生物医学自然语言处理领域，检索增强的大型语言模型（LLM）正逐渐成为研究的热点。这些模型通过结合检索机制，能够更有效地处理和理解复杂的生物医学信息。本文将探讨这些模型在实际应用中的表现，以及它们在面对不同数据集和任务时的鲁棒性。此外，我们还将研究这些模型如何通过自我意识机制来评估和优化其性能，从而在生物医学 NLP 领域中发挥更大的作用。](2024年05月13日/Benchmarking_Retrieval-Augmented_Large_Language_Models_in_Biomedical_NLP_Application,_Robustness,_and_Self-Awareness.md)
+
+- [Many-Shot Regurgitation (MSR) Prompting](2024年05月13日/Many-Shot_Regurgitation_(MSR)_Prompting.md)
+
+    - [翻译: 多示例复述（MSR）提示法](2024年05月13日/Many-Shot_Regurgitation_(MSR)_Prompting.md)
+
+- [From Questions to Insightful Answers: Building an Informed Chatbot for University Resources](2024年05月13日/From_Questions_to_Insightful_Answers_Building_an_Informed_Chatbot_for_University_Resources.md)
+
+    - [翻译: 打造智慧之桥：构建一款洞悉大学资源的智能聊天机器人，将疑问转化为深刻解答。](2024年05月13日/From_Questions_to_Insightful_Answers_Building_an_Informed_Chatbot_for_University_Resources.md)
+
+- [Layout Generation Agents with Large Language Models](2024年05月13日/Layout_Generation_Agents_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型赋能的布局生成智能体](2024年05月13日/Layout_Generation_Agents_with_Large_Language_Models.md)
+
 2024年05月12日
 
 - [CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering](2024年05月12日/CLIP-Powered_TASS_Target-Aware_Single-Stream_Network_for_Audio-Visual_Question_Answering.md)
@@ -237,6 +361,18 @@
 - [Evaluation of Retrieval-Augmented Generation: A Survey](2024年05月12日/Evaluation_of_Retrieval-Augmented_Generation_A_Survey.md)
 
     - [翻译: 检索增强生成评估综述：本调查旨在深入探讨检索增强生成技术的评估方法，分析其在不同应用场景下的表现，并探讨如何优化这一技术以提升生成内容的质量和相关性。](2024年05月12日/Evaluation_of_Retrieval-Augmented_Generation_A_Survey.md)
+
+- [A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems](2024年05月12日/A_LLM-based_Controllable,_Scalable,_Human-Involved_User_Simulator_Framework_for_Conversational_Recommender_Systems.md)
+
+    - [翻译: 大型语言模型驱动的对话推荐系统用户模拟器框架：可控、可扩展且融入人类智慧在](2024年05月12日/A_LLM-based_Controllable,_Scalable,_Human-Involved_User_Simulator_Framework_for_Conversational_Recommender_Systems.md)
+
+- [Medical Research as a Productivity Indicator](2024年05月12日/Medical_Research_as_a_Productivity_Indicator.md)
+
+    - [翻译: 医学研究：衡量生产力的标尺](2024年05月12日/Medical_Research_as_a_Productivity_Indicator.md)
+
+- [ExplainableDetector: Exploring Transformer-based Language Modeling Approach for SMS Spam Detection with Explainability Analysis](2024年05月12日/ExplainableDetector_Exploring_Transformer-based_Language_Modeling_Approach_for_SMS_Spam_Detection_with_Explainability_Analysis.md)
+
+    - [翻译: 可解释性检测器：探究基于Transformer的语言模型在短信垃圾邮件检测中的应用，并结合可解释性分析，以揭示模型决策的内在机制。](2024年05月12日/ExplainableDetector_Exploring_Transformer-based_Language_Modeling_Approach_for_SMS_Spam_Detection_with_Explainability_Analysis.md)
 
 2024年05月11日
 
@@ -311,6 +447,10 @@
 - [CoRE: LLM as Interpreter for Natural Language Programming, Pseudo-Code Programming, and Flow Programming of AI Agents](2024年05月11日/CoRE_LLM_as_Interpreter_for_Natural_Language_Programming,_Pseudo-Code_Programming,_and_Flow_Programming_of_AI_Agents.md)
 
     - [翻译: CoRE：大型语言模型——AI代理自然语言编程、伪代码编程与流程编程的智慧之钥](2024年05月11日/CoRE_LLM_as_Interpreter_for_Natural_Language_Programming,_Pseudo-Code_Programming,_and_Flow_Programming_of_AI_Agents.md)
+
+- [Translating Expert Intuition into Quantifiable Features: Encode Investigator Domain Knowledge via LLM for Enhanced Predictive Analytics](2024年05月11日/Translating_Expert_Intuition_into_Quantifiable_Features_Encode_Investigator_Domain_Knowledge_via_LLM_for_Enhanced_Predictive_Analytics.md)
+
+    - [翻译: 借助 LLM，我们将专家的直觉转化为精确的量化特征，从而将调查员的领域知识融入预测分析，进一步提升其精准度。](2024年05月11日/Translating_Expert_Intuition_into_Quantifiable_Features_Encode_Investigator_Domain_Knowledge_via_LLM_for_Enhanced_Predictive_Analytics.md)
 
 2024年05月10日
 
@@ -409,6 +549,10 @@
 - [TacoERE: Cluster-aware Compression for Event Relation Extraction](2024年05月10日/TacoERE_Cluster-aware_Compression_for_Event_Relation_Extraction.md)
 
     - [翻译: TacoERE：事件关系抽取的集群感知压缩技术](2024年05月10日/TacoERE_Cluster-aware_Compression_for_Event_Relation_Extraction.md)
+
+- [A Survey of Large Language Models for Graphs](2024年05月10日/A_Survey_of_Large_Language_Models_for_Graphs.md)
+
+    - [翻译: 大型语言模型在图领域的综述](2024年05月10日/A_Survey_of_Large_Language_Models_for_Graphs.md)
 
 2024年05月09日
 
