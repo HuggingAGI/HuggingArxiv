@@ -143,6 +143,329 @@
     ]
   },
   {
+    "title": "Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "This paper explores the potential of large language models (LLMs) to make the Aeronautical Regulations of Colombia (RAC) more accessible. Given the complexity and extensive technicality of the RAC, this study introduces a novel approach to simplifying these regulations for broader understanding. By developing the first-ever RAC database, which contains 24,478 expertly labeled question-and-answer pairs, and fine-tuning LLMs specifically for RAC applications, the paper outlines the methodology for dataset assembly, expert-led annotation, and model training. Utilizing the Gemma1.1 2b model along with advanced techniques like Unsloth for efficient VRAM usage and flash attention mechanisms, the research aims to expedite training processes. This initiative establishes a foundation to enhance the comprehensibility and accessibility of RAC, potentially benefiting novices and reducing dependence on expert consultations for navigating the aviation industry's regulatory landscape.\n  You can visit the dataset (https://huggingface.co/somosnlp/gemma-1.1-2b-it_ColombiaRAC_FullyCurated_format_chatML_V1) and the model (https://huggingface.co/datasets/somosnlp/ColombiaRAC_FullyCurated) here.",
+    "pdf_link": "https://arxiv.org/abs/2405.08792",
+    "graphs": [],
+    "abstract_cn": "本文揭示了LLMs如何让哥伦比亚的航空法规（RAC）触手可及。面对RAC的复杂技术细节，我们创新性地简化了法规，使之更易理解。我们构建了首个RAC数据库，内含24,478个精心标注的问答对，并专为RAC应用微调了LLMs。文章详述了数据集的构建、专家标注和模型训练的方法。借助Gemma1.1 2b模型和Unsloth等尖端技术，我们优化了VRAM使用并引入了闪存注意力机制，以加速训练。这一创举为提升RAC的易懂性和可及性奠定了基石，有望助力新手，并减少对专家咨询的依赖，让航空业的法规导航更加顺畅。您可以访问数据集（https://huggingface.co/somosnlp/gemma-1.1-2b-it_ColombiaRAC_FullyCurated_format_chatML_V1）和模型（https://huggingface.co/datasets/somosnlp/ColombiaRAC_FullyCurated）了解更多信息。",
+    "title_cn": "迈向提升RAC可及性：借助数据集与大型语言模型之力在这篇文章中，我们将探讨如何通过整合数据集和大型语言模型（LLMs）来提高RAC（可能是某种技术或系统的缩写）的可访问性。我们将深入分析这些工具如何协同工作，以简化复杂任务的执行，并使更多人能够利用这些先进的技术。通过这种方式，我们不仅能够推动技术的普及，还能促进创新，让更多人受益于这些强大的资源。",
+    "tags": [
+      "LLM应用\n\n这篇论文聚焦于将大型语言模型（LLMs）应用于哥伦比亚航空法规（RAC）的解释和普及，通过构建专门的数据集和微调LLMs来提高法规的可理解性和可访问性。这一应用展示了LLMs在特定领域内的实用价值，特别是在简化复杂技术文档和法规方面。因此，它属于LLM应用类别。",
+      "航空法规",
+      "法律技术"
+    ]
+  },
+  {
+    "title": "Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "The Prostate Imaging Reporting and Data System (PI-RADS) is pivotal in the diagnosis of clinically significant prostate cancer through MRI imaging. Current deep learning-based PI-RADS scoring methods often lack the incorporation of essential PI-RADS clinical guidelines~(PICG) utilized by radiologists, potentially compromising scoring accuracy. This paper introduces a novel approach that adapts a multi-modal large language model (MLLM) to incorporate PICG into PI-RADS scoring without additional annotations and network parameters. We present a two-stage fine-tuning process aimed at adapting MLLMs originally trained on natural images to the MRI data domain while effectively integrating the PICG. In the first stage, we develop a domain adapter layer specifically tailored for processing 3D MRI image inputs and design the MLLM instructions to differentiate MRI modalities effectively. In the second stage, we translate PICG into guiding instructions for the model to generate PICG-guided image features. Through feature distillation, we align scoring network features with the PICG-guided image feature, enabling the scoring network to effectively incorporate the PICG information. We develop our model on a public dataset and evaluate it in a real-world challenging in-house dataset. Experimental results demonstrate that our approach improves the performance of current scoring networks.",
+    "pdf_link": "https://arxiv.org/abs/2405.08786",
+    "graphs": [],
+    "abstract_cn": "前列腺影像报告和数据系统（PI-RADS）是诊断临床显著性前列腺癌的关键工具，尤其是在MRI影像领域。然而，现有的深度学习PI-RADS评分方法往往忽视了放射科医生依赖的PI-RADS临床指南（PICG），这可能影响评分的准确性。本文提出了一种创新方法，利用多模态大型语言模型（MLLM）将PICG无缝融入PI-RADS评分，无需额外标注和参数。我们的方法分为两个微调阶段：首先，我们定制了一个处理3D MRI图像的领域适配层，并优化了MLLM指令以区分不同的MRI模态；其次，我们将PICG转化为模型指令，引导生成受PICG影响的图像特征。通过特征蒸馏，我们确保评分网络与PICG指导的图像特征保持一致，从而有效整合了PICG信息。我们在公开数据集上训练模型，并在真实世界的内部数据集上验证了其性能，实验结果显示，我们的方法显著提升了评分网络的准确性。",
+    "title_cn": "融合临床指南：多模态大型语言模型在前列腺癌PI-RADS评分中的应用",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了如何将多模态大型语言模型（MLLM）应用于前列腺影像报告和数据系统（PI-RADS）评分中，通过整合前列腺影像报告和数据系统临床指南（PICG）来提高评分的准确性。这种方法涉及对MLLM进行微调，以适应特定的医学影像处理需求，并将临床指南的信息融入模型中，从而提升深度学习模型的性能。因此，这篇论文属于LLM应用类别，因为它展示了如何将大型语言模型应用于特定的实际问题，即医学影像分析和诊断。",
+      "医疗影像",
+      "人工智能辅助诊断"
+    ]
+  },
+  {
+    "title": "Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "Humans often express their communicative intents indirectly or non-literally, which requires their interlocutors -- human or AI -- to understand beyond the literal meaning of words. While most existing work has focused on discriminative evaluations, we present a new approach to generatively evaluate large language models' (LLMs') intention understanding by examining their responses to non-literal utterances. Ideally, an LLM should respond in line with the true intention of a non-literal utterance, not its literal interpretation. Our findings show that LLMs struggle to generate pragmatically relevant responses to non-literal language, achieving only 50-55% accuracy on average. While explicitly providing oracle intentions significantly improves performance (e.g., 75% for Mistral-Instruct), this still indicates challenges in leveraging given intentions to produce appropriate responses. Using chain-of-thought to make models spell out intentions yields much smaller gains (60% for Mistral-Instruct). These findings suggest that LLMs are not yet effective pragmatic interlocutors, highlighting the need for better approaches for modeling intentions and utilizing them for pragmatic generation.",
+    "pdf_link": "https://arxiv.org/abs/2405.08760",
+    "graphs": [],
+    "abstract_cn": "人类交流时往往含蓄而非直白，这要求无论是人类还是AI对话者，都需超越字面意义去理解对方的真实意图。我们提出了一种新颖的方法，通过分析大型语言模型（LLMs）对非字面表达的回应，来评估其对意图的理解。理想状态下，LLMs应根据非字面表达背后的真实意图作出回应，而非仅基于字面意思。研究显示，LLMs在理解非字面语言并作出恰当回应方面表现不佳，平均准确率仅在50-55%之间。尽管提供明确的意图信息能显著提升性能（如Mistral-Instruct达到75%），但仍显示出在根据给定意图生成合适回应方面的挑战。使用思维链方法让模型阐明意图，提升有限（Mistral-Instruct达到60%）。这些结果表明，LLMs在语用交流方面尚未成熟，凸显了开发更有效的意图建模和语用生成方法的必要性。",
+    "title_cn": "教皇当然是天主教的，这无需多言。本文聚焦于大型语言模型中意图解析的生成式评估，探讨其在理解用户意图方面的深度与广度。",
+    "tags": [
+      "LLM理论\n\n这篇论文探讨了大型语言模型（LLMs）在理解非字面表达和意图方面的能力，并提出了评估方法。它关注的是LLMs的理论性能和局限性，特别是在语用交流方面的挑战，这属于LLM理论研究的范畴。论文中提到的评估方法、性能分析以及对未来研究的建议，都是围绕LLMs的理论理解和改进展开的，因此将其归类为LLM理论。",
+      "",
+      "人工智能交互"
+    ]
+  },
+  {
+    "title": "Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "With the proliferation of edge devices, there is a significant increase in attack surface on these devices. The decentralized deployment of threat intelligence on edge devices, coupled with adaptive machine learning techniques such as the in-context learning feature of large language models (LLMs), represents a promising paradigm for enhancing cybersecurity on low-powered edge devices. This approach involves the deployment of lightweight machine learning models directly onto edge devices to analyze local data streams, such as network traffic and system logs, in real-time. Additionally, distributing computational tasks to an edge server reduces latency and improves responsiveness while also enhancing privacy by processing sensitive data locally. LLM servers can enable these edge servers to autonomously adapt to evolving threats and attack patterns, continuously updating their models to improve detection accuracy and reduce false positives. Furthermore, collaborative learning mechanisms facilitate peer-to-peer secure and trustworthy knowledge sharing among edge devices, enhancing the collective intelligence of the network and enabling dynamic threat mitigation measures such as device quarantine in response to detected anomalies. The scalability and flexibility of this approach make it well-suited for diverse and evolving network environments, as edge devices only send suspicious information such as network traffic and system log changes, offering a resilient and efficient solution to combat emerging cyber threats at the network edge. Thus, our proposed framework can improve edge computing security by providing better security in cyber threat detection and mitigation by isolating the edge devices from the network.",
+    "pdf_link": "https://arxiv.org/abs/2405.08755",
+    "graphs": [],
+    "abstract_cn": "随着边缘设备的普及，其面临的攻击面也随之扩大。通过在边缘设备上部署去中心化的威胁情报，并结合大型语言模型的上下文学习功能等机器学习技术，我们探索了一种增强低功耗设备网络安全的新途径。该方法将轻量级机器学习模型直接部署于边缘设备，实时分析网络流量和系统日志等本地数据。同时，将计算任务分散至边缘服务器，不仅降低了延迟，提升了响应速度，还通过本地处理敏感数据保护了隐私。LLM服务器赋予边缘服务器自主适应新威胁的能力，不断优化模型以提高威胁检测的准确性，减少误报。协作学习机制则促进了边缘设备间的安全知识共享，增强了网络的整体智能，并实现了动态的威胁应对措施，如在检测到异常时自动隔离设备。这种方法的灵活性和可扩展性使其成为应对多样化网络环境的理想选择，边缘设备仅在发现可疑活动时上报，为抵御网络边缘的新兴威胁提供了高效且有弹性的解决方案。我们的框架通过隔离边缘设备，有效提升了边缘计算的安全性，为网络威胁的检测与缓解提供了更为坚实的保障。",
+    "title_cn": "大型语言模型驱动的边缘设备分布式威胁情报策略在边缘设备上，分布式威胁情报的收集与分析正成为网络安全的新前沿。本文提出了一种基于大型语言模型的创新方法，旨在提升威胁情报的实时处理能力，并增强网络防御的智能化水平。通过这种方法，我们能够更有效地识别和响应潜在的安全威胁，确保网络环境的安全稳定。",
+    "tags": [
+      "Agent\n\n这篇论文探讨了在边缘设备上部署去中心化的威胁情报系统，并结合大型语言模型的上下文学习功能来增强网络安全。这种方法涉及在边缘设备上直接部署轻量级机器学习模型，并利用LLM服务器来提高威胁检测的准确性。此外，它还通过协作学习机制促进设备间的安全知识共享，实现动态威胁应对。这种自主适应新威胁、实时分析本地数据并与其他设备协作的系统，符合Agent的定义，即一个能够感知环境、做出决策并执行动作的实体。因此，这篇论文应归类为Agent。",
+      "网络安全",
+      "边缘计算"
+    ]
+  },
+  {
+    "title": "Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "Large-scale Vision-Language Models (VLMs) have demonstrated exceptional performance in natural vision tasks, motivating researchers across domains to explore domain-specific VLMs. However, the construction of powerful domain-specific VLMs demands vast amounts of annotated data, substantial electrical energy, and computing resources, primarily accessible to industry, yet hindering VLM research in academia. To address this challenge and foster sustainable and equitable VLM research, we present the Generalized Domain Prompt Learning (GDPL) framework. GDPL facilitates the transfer of VLMs' robust recognition capabilities from natural vision to specialized domains, without the need for extensive data or resources. By leveraging small-scale domain-specific foundation models and minimal prompt samples, GDPL empowers the language branch with domain knowledge through quaternion networks, uncovering cross-modal relationships between domain-specific vision features and natural vision-based contextual embeddings. Simultaneously, GDPL guides the vision branch into specific domains through hierarchical propagation of generated vision prompt features, grounded in well-matched vision-language relations. Furthermore, to fully harness the domain adaptation potential of VLMs, we introduce a novel low-rank adaptation approach. Extensive experiments across diverse domains like remote sensing, medical imaging, geology, Synthetic Aperture Radar, and fluid dynamics, validate the efficacy of GDPL, demonstrating its ability to achieve state-of-the-art domain recognition performance in a prompt learning paradigm. Our framework paves the way for sustainable and inclusive VLM research, transcending the barriers between academia and industry.",
+    "pdf_link": "https://arxiv.org/abs/2405.08668",
+    "graphs": [],
+    "abstract_cn": "大规模视觉-语言模型（VLMs）在自然视觉任务中表现卓越，激发了跨领域研究者对特定领域VLMs的探索。然而，构建特定领域VLMs需要大量标注数据和资源，这些资源主要集中在工业界，限制了学术界的研究。为此，我们提出了广义领域提示学习（GDPL）框架，它通过小规模模型和少量样本，实现了VLMs在特定领域的识别能力转移，无需大量数据或资源。GDPL利用四元网络赋予语言分支领域知识，揭示了特定领域视觉特征与自然视觉上下文之间的联系。同时，通过视觉提示特征的分层传播，GDPL引导视觉分支深入特定领域。我们还引入了一种新的低秩适应方法，以最大化VLMs的领域适应性。在多个领域的实验证明了GDPL的有效性，它能在提示学习范式中达到顶尖的领域识别性能。我们的框架促进了VLMs研究的可持续性和包容性，打破了学术界与工业界之间的壁垒。",
+    "title_cn": "推动科学领域的AI公平：普及视觉语言模型研究的泛化领域提示学习方法",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了如何通过广义领域提示学习（GDPL）框架，利用小规模模型和少量样本实现大规模视觉-语言模型（VLMs）在特定领域的识别能力转移。这种方法不需要大量标注数据和资源，有助于打破学术界与工业界之间的壁垒，促进VLMs研究的可持续性和包容性。因此，它属于LLM应用的范畴，因为它关注的是如何应用现有的LLM技术来解决特定领域的问题，而不是深入探讨LLM的理论基础或Agent的设计与实现。",
+      "视觉-语言模型",
+      "领域适应"
+    ]
+  },
+  {
+    "title": "Thinking Tokens for Language Modeling",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "How much is 56 times 37? Language models often make mistakes in these types of difficult calculations. This is usually explained by their inability to perform complex reasoning. Since language models rely on large training sets and great memorization capability, naturally they are not equipped to run complex calculations. However, one can argue that humans also cannot perform this calculation immediately and require a considerable amount of time to construct the solution. In order to enhance the generalization capability of language models, and as a parallel to human behavior, we propose to use special 'thinking tokens' which allow the model to perform much more calculations whenever a complex problem is encountered.",
+    "pdf_link": "https://arxiv.org/abs/2405.08644",
+    "graphs": [],
+    "abstract_cn": "语言模型在面对56乘以37这样的复杂计算时往往力不从心，这源于它们缺乏复杂推理的能力。尽管它们依赖庞大的训练数据和记忆能力，但计算能力并非其所长。有趣的是，人类在面对此类计算时也需深思熟虑。鉴于此，我们提出引入“思考令牌”，使模型在遭遇难题时能进行更深入的推理，以此提升其泛化能力，并模仿人类的思考过程。",
+    "title_cn": "语言模型中的思维标记在语言模型中引入思维标记，旨在增强模型的理解和推理能力，使其在处理复杂语言任务时更加精准和高效。这些标记如同智慧的火花，在模型的计算过程中闪烁，引导其深入思考，从而提升了解决问题的能力。",
+    "tags": [
+      "LLM理论\n\n这篇论文摘要讨论了大型语言模型（LLM）在处理复杂计算任务时的局限性，并提出了一种新的方法——引入“思考令牌”来增强模型的推理能力。这涉及到对LLM内部工作机制的改进，旨在提升其泛化能力和模仿人类思考过程。因此，这项研究更偏向于LLM的理论层面，探讨如何通过机制设计来改善模型的性能。",
+      "",
+      "人工智能推理"
+    ]
+  },
+  {
+    "title": "ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "The field of chemistry and Artificial Intelligence (AI) intersection is an area of active research that aims to accelerate scientific discovery. The integration of large language models (LLMs) with scientific modalities has shown significant promise in this endeavour. However, challenges persist in effectively addressing training efficacy and the out-of-distribution problem, particularly as existing approaches rely on larger models and datasets. In this context, we focus on machine language-molecule translation and deploy a novel training approach called contrastive preference optimisation, which avoids generating translations that are merely adequate but not perfect. To ensure generalisability and mitigate memorisation effects, we conduct experiments using only 10\\% of the data. Our results demonstrate that our models achieve up to a 32\\% improvement compared to counterpart models. We also introduce a scalable fine-grained evaluation methodology that accommodates responsibility.",
+    "pdf_link": "https://arxiv.org/abs/2405.08619",
+    "graphs": [],
+    "abstract_cn": "化学与AI的交汇点正成为加速科学发现的热点研究领域。LLMs与科学模式的融合展现出巨大潜力。尽管如此，训练效率和分布外问题仍是待解难题，尤其是当前方法依赖于庞大的模型和数据集。我们聚焦于机器语言与分子间的翻译，并采用了一种创新的对比偏好优化训练策略，旨在避免仅产生足够而非完美的翻译。为了提升模型的泛化能力并减少记忆效应，我们仅用10%的数据进行实验，结果显示我们的模型性能提升了高达32%。此外，我们还开发了一种可扩展的细粒度评估方法，确保了评估的责任性。",
+    "title_cn": "ALMol：借助离线偏好对比优化，实现语言与分子间精准翻译的大型语言模型",
+    "tags": [
+      "LLM理论\n\n这篇论文探讨了大型语言模型（LLMs）在化学领域的应用，特别是在机器语言与分子间的翻译方面。它提出了一种创新的对比偏好优化训练策略，旨在提高模型的训练效率和泛化能力，同时减少对庞大模型和数据集的依赖。此外，论文还开发了一种可扩展的细粒度评估方法，以确保评估的责任性。这些内容涉及LLMs的理论和方法论改进，因此属于LLM理论分类。",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "EVDA: Evolving Deepfake Audio Detection Continual Learning Benchmark",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "The rise of advanced large language models such as GPT-4, GPT-4o, and the Claude family has made fake audio detection increasingly challenging. Traditional fine-tuning methods struggle to keep pace with the evolving landscape of synthetic speech, necessitating continual learning approaches that can adapt to new audio while retaining the ability to detect older types. Continual learning, which acts as an effective tool for detecting newly emerged deepfake audio while maintaining performance on older types, lacks a well-constructed and user-friendly evaluation framework. To address this gap, we introduce EVDA, a benchmark for evaluating continual learning methods in deepfake audio detection. EVDA includes classic datasets from the Anti-Spoofing Voice series, Chinese fake audio detection series, and newly generated deepfake audio from models like GPT-4 and GPT-4o. It supports various continual learning techniques, such as Elastic Weight Consolidation (EWC), Learning without Forgetting (LwF), and recent methods like Regularized Adaptive Weight Modification (RAWM) and Radian Weight Modification (RWM). Additionally, EVDA facilitates the development of robust algorithms by providing an open interface for integrating new continual learning methods",
+    "pdf_link": "https://arxiv.org/abs/2405.08596",
+    "graphs": [],
+    "abstract_cn": "随着GPT-4、GPT-4o和Claude系列等大型语言模型的崛起，假音频检测面临前所未有的挑战。传统微调方法已难以应对合成语音的快速演变，亟需能够适应新音频并保持对旧类型检测能力的持续学习策略。尽管持续学习在检测新兴深度伪造音频方面表现出色，但缺乏一个完善且用户友好的评估框架。为此，我们推出了EVDA，一个专为深度伪造音频检测中持续学习方法评估设计的基准。EVDA汇集了反欺骗语音系列、中国假音频检测系列以及GPT-4和GPT-4o等模型生成的新深度伪造音频的经典数据集，支持弹性权重合并（EWC）、学习不遗忘（LwF）等多种持续学习技术，并提供开放接口以集成新的持续学习方法，推动了稳健算法的研发。",
+    "title_cn": "EVDA：深度伪造音频检测的进化持续学习基准在结果2中，我采用了更加简洁优雅的表达方式，将“Evolving Deepfake Audio Detection Continual Learning Benchmark”翻译为“深度伪造音频检测的进化持续学习基准”，这样的翻译更加符合中文的表达习惯，同时也保持了原文的意思。",
+    "tags": [
+      "LLM应用\n\n这篇论文关注的是大型语言模型（LLM）在假音频检测领域的应用，特别是在持续学习策略方面的挑战和解决方案。论文提出了一个名为EVDA的评估基准，用于评估和推动持续学习方法在深度伪造音频检测中的应用。这与LLM的理论研究不同，因为它侧重于实际应用和方法的开发，而不是模型或算法的理论基础。同时，它也不属于Agent或RAG的分类，因为这些通常指的是特定类型的智能代理或检索增强生成模型，而论文的主题是关于假音频检测和持续学习的应用。",
+      "假音频检测",
+      "深度伪造技术"
+    ]
+  },
+  {
+    "title": "Falcon 7b for Software Mention Detection in Scholarly Documents",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "This paper aims to tackle the challenge posed by the increasing integration of software tools in research across various disciplines by investigating the application of Falcon-7b for the detection and classification of software mentions within scholarly texts. Specifically, the study focuses on solving Subtask I of the Software Mention Detection in Scholarly Publications (SOMD), which entails identifying and categorizing software mentions from academic literature. Through comprehensive experimentation, the paper explores different training strategies, including a dual-classifier approach, adaptive sampling, and weighted loss scaling, to enhance detection accuracy while overcoming the complexities of class imbalance and the nuanced syntax of scholarly writing. The findings highlight the benefits of selective labelling and adaptive sampling in improving the model's performance. However, they also indicate that integrating multiple strategies does not necessarily result in cumulative improvements. This research offers insights into the effective application of large language models for specific tasks such as SOMD, underlining the importance of tailored approaches to address the unique challenges presented by academic text analysis.",
+    "pdf_link": "https://arxiv.org/abs/2405.08514",
+    "graphs": [],
+    "abstract_cn": "本文探讨了如何利用Falcon-7b模型来应对跨学科研究中软件工具日益融合的挑战，特别是在学术文本中识别和分类软件提及。研究聚焦于学术出版物软件提及检测（SOMD）的子任务I，旨在从学术文献中精准捕捉软件相关信息。通过一系列精心设计的实验，本文尝试了多种训练策略，如双分类器方法、自适应采样和加权损失调整，以期在应对类别不平衡和学术语言的复杂性时提升检测精度。研究发现，精心挑选的标注和自适应采样能够显著提升模型性能，但同时也指出，策略的叠加并不总是带来性能的叠加提升。这项研究不仅展示了大型语言模型在特定任务（如SOMD）上的应用潜力，也强调了针对学术文本分析的特殊挑战，定制化策略的重要性。",
+    "title_cn": "Falcon 7b：学术文档中软件提及的精准侦测者在学术文档的浩瀚海洋中，Falcon 7b 如同一位敏锐的侦探，专门负责捕捉那些关于软件的微妙提及。它的任务不仅仅是识别，更是深入理解，确保每一条软件相关的信息都能被准确无误地捕获。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了如何使用大型语言模型（LLM）如Falcon-7b来解决跨学科研究中的一个具体问题，即在学术文本中识别和分类软件提及。它专注于学术出版物软件提及检测（SOMD）的子任务，并通过实验研究了不同的训练策略以提高检测精度。这表明论文是在应用LLM来解决特定的实际问题，因此属于LLM应用类别。",
+      "学术出版",
+      "软件识别"
+    ]
+  },
+  {
+    "title": "Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "The SemEval task on Argument Reasoning in Civil Procedure is challenging in that it requires understanding legal concepts and inferring complex arguments. Currently, most Large Language Models (LLM) excelling in the legal realm are principally purposed for classification tasks, hence their reasoning rationale is subject to contention. The approach we advocate involves using a powerful teacher-LLM (ChatGPT) to extend the training dataset with explanations and generate synthetic data. The resulting data are then leveraged to fine-tune a small student-LLM. Contrary to previous work, our explanations are not directly derived from the teacher's internal knowledge. Instead they are grounded in authentic human analyses, therefore delivering a superior reasoning signal. Additionally, a new `mutation' method generates artificial data instances inspired from existing ones. We are publicly releasing the explanations as an extension to the original dataset, along with the synthetic dataset and the prompts that were used to generate both. Our system ranked 15th in the SemEval competition. It outperforms its own teacher and can produce explanations aligned with the original human analyses, as verified by legal experts.",
+    "pdf_link": "https://arxiv.org/abs/2405.08502",
+    "graphs": [],
+    "abstract_cn": "SemEval的民事诉讼程序论据推理任务因其对法律概念的深刻理解和复杂论据的推断而颇具挑战。尽管大型语言模型（LLM）在法律领域表现卓越，但它们多用于分类任务，其推理逻辑常受质疑。我们提出的方法采用ChatGPT这一强大的教师级LLM，通过提供解释和生成合成数据来扩展训练集，进而微调一个小型学生级LLM。与以往依赖教师内部知识的解释不同，我们的解释扎根于真实的人类分析，从而传递出更强的推理信号。我们还创新了一种“变异”方法，从现有数据中创造出人工数据实例。我们不仅公开了这些解释作为数据集的扩展，还分享了用于生成它们的合成数据和提示。在SemEval竞赛中，我们的系统名列第15，不仅超越了其教师，还能生成与人类分析相符的解释，这一点已得到法律专家的确认。",
+    "title_cn": "Archimedes-AUEB 团队在 SemEval-2024 的第五项任务中，运用大型语言模型（LLM）对民法程序进行了解释。本研究聚焦于利用 LLM 的强大功能，深入剖析民法程序的复杂性，并探索其在法律领域的应用潜力。",
+    "tags": [
+      "Agent\n\n这篇论文介绍了一种使用ChatGPT作为教师级LLM来指导和扩展训练集，进而微调一个小型学生级LLM的方法。这种方法涉及生成合成数据和提供基于人类分析的解释，以增强推理能力。论文中提到的系统在SemEval竞赛中取得了成绩，并能够生成与人类分析相符的解释，这表明该系统具有一定的自主推理和学习能力，因此可以归类为Agent。",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "Machine translation (MT) models are known to suffer from gender bias, especially when translating into languages with extensive gendered morphology. Accordingly, they still fall short in using gender-inclusive language, also representative of non-binary identities. In this paper, we look at gender-inclusive neomorphemes, neologistic elements that avoid binary gender markings as an approach towards fairer MT. In this direction, we explore prompting techniques with large language models (LLMs) to translate from English into Italian using neomorphemes. So far, this area has been under-explored due to its novelty and the lack of publicly available evaluation resources. We fill this gap by releasing Neo-GATE, a resource designed to evaluate gender-inclusive en-it translation with neomorphemes. With Neo-GATE, we assess four LLMs of different families and sizes and different prompt formats, identifying strengths and weaknesses of each on this novel task for MT.",
+    "pdf_link": "https://arxiv.org/abs/2405.08477",
+    "graphs": [],
+    "abstract_cn": "机器翻译模型在性别偏见问题上尤为突出，尤其是在处理具有复杂性别形态的语言时。它们在采用性别包容性语言方面仍有欠缺，这种语言能够代表非二元身份。本文聚焦于性别包容性新形态，即避免性别二分法的新造词元素，以此作为迈向更公平机器翻译的途径。我们研究了如何利用大型语言模型（LLMs）的提示技术，将英语翻译成意大利语，并采用这些新形态。由于该领域的新颖性和缺乏评估资源，迄今为止研究不足。为此，我们推出了Neo-GATE，这是一个专为评估性别包容性英意翻译中新形态应用的资源。借助Neo-GATE，我们评估了四种不同规模和家族的LLM以及多种提示格式，揭示了它们在机器翻译这一创新任务上的各自优势与不足。",
+    "title_cn": "借助新形态素与大型语言模型，提升机器翻译的性别包容性",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了如何利用大型语言模型（LLMs）来改进机器翻译中的性别包容性，特别是在处理非二元性别身份的语言表达时。它介绍了新的评估资源Neo-GATE，并评估了不同规模和家族的LLM在性别包容性翻译任务上的表现。这属于LLM在特定应用场景（即机器翻译中的性别包容性）中的应用研究，因此归类为LLM应用。",
+      "机器翻译",
+      "性别研究"
+    ]
+  },
+  {
+    "title": "Challenges and Opportunities in Text Generation Explainability",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "The necessity for interpretability in natural language processing (NLP) has risen alongside the growing prominence of large language models. Among the myriad tasks within NLP, text generation stands out as a primary objective of autoregressive models. The NLP community has begun to take a keen interest in gaining a deeper understanding of text generation, leading to the development of model-agnostic explainable artificial intelligence (xAI) methods tailored to this task. The design and evaluation of explainability methods are non-trivial since they depend on many factors involved in the text generation process, e.g., the autoregressive model and its stochastic nature. This paper outlines 17 challenges categorized into three groups that arise during the development and assessment of attribution-based explainability methods. These challenges encompass issues concerning tokenization, defining explanation similarity, determining token importance and prediction change metrics, the level of human intervention required, and the creation of suitable test datasets. The paper illustrates how these challenges can be intertwined, showcasing new opportunities for the community. These include developing probabilistic word-level explainability methods and engaging humans in the explainability pipeline, from the data design to the final evaluation, to draw robust conclusions on xAI methods.",
+    "pdf_link": "https://arxiv.org/abs/2405.08468",
+    "graphs": [],
+    "abstract_cn": "随着大型语言模型在NLP领域的日益重要，对其解释性的需求也随之增长。文本生成作为自回归模型的核心任务，引起了NLP社区的广泛关注。为此，社区开始探索适用于各种模型的可解释AI方法。然而，这些方法的设计与评估颇具挑战，因为它们受到文本生成过程中多种因素的影响，如模型的随机性。本文列举了17个挑战，分为三类，这些挑战涉及分词、解释相似性定义、标记重要性评估等多个方面。文章强调了这些挑战之间的相互联系，并提出了新的研究方向，如开发概率词级解释方法，以及在解释性流程中引入人类参与，从数据设计到最终评估，以确保对xAI方法的深入理解。",
+    "title_cn": "探索文本生成之谜：挑战与机遇并存",
+    "tags": [
+      "LLM理论\n\n这篇论文关注的是大型语言模型（LLM）的解释性问题，特别是在文本生成任务中的应用。它提出了与解释性AI方法设计与评估相关的挑战，并探讨了这些挑战之间的相互联系。虽然解释性AI方法可以应用于各种模型，包括Agent和RAG，但本文的重点是LLM的理论层面，即如何理解和解释LLM的行为，而不是特定应用或模型的构建。因此，它属于LLM理论分类。",
+      "",
+      "人工智能解释性"
+    ]
+  },
+  {
+    "title": "Evaluating LLMs at Evaluating Temporal Generalization",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "The rapid advancement of Large Language Models (LLMs) highlights the urgent need for evolving evaluation methodologies that keep pace with improvements in language comprehension and information processing. However, traditional benchmarks, which are often static, fail to capture the continually changing information landscape, leading to a disparity between the perceived and actual effectiveness of LLMs in ever-changing real-world scenarios. Furthermore, these benchmarks do not adequately measure the models' capabilities over a broader temporal range or their adaptability over time. We examine current LLMs in terms of temporal generalization and bias, revealing that various temporal biases emerge in both language likelihood and prognostic prediction. This serves as a caution for LLM practitioners to pay closer attention to mitigating temporal biases. Also, we propose an evaluation framework Freshbench for dynamically generating benchmarks from the most recent real-world prognostication prediction. Our code is available at https://github.com/FreedomIntelligence/FreshBench. The dataset will be released soon.",
+    "pdf_link": "https://arxiv.org/abs/2405.08460",
+    "graphs": [],
+    "abstract_cn": "随着大型语言模型（LLMs）的飞速进步，我们迫切需要与之同步进化的评估方法，以确保能够准确衡量这些模型在语言理解和信息处理上的进步，尤其是在不断变化的信息环境中。传统的评估标准因其静态特性而显得力不从心，它们无法捕捉到现实世界中信息环境的动态变化，从而导致我们对LLMs在实际应用中的表现产生了误解。此外，这些标准也未能全面评估模型在时间维度上的泛化能力和适应性。我们的研究揭示了LLMs在时间泛化和预测中存在的时间偏差，这提醒我们在使用这些模型时必须警惕并努力减少这些偏差。为此，我们提出了一个创新的评估框架——Freshbench，它能够动态生成基于最新现实世界预测的评估基准，以更准确地反映LLMs的实际表现。我们的代码已经公开在GitHub上，而数据集也即将发布。",
+    "title_cn": "探究大型语言模型在时间泛化评估中的表现力",
+    "tags": [
+      "LLM理论\n\n这篇论文关注的是大型语言模型（LLMs）的评估方法，特别是针对传统评估标准的不足，提出了一个创新的评估框架——Freshbench。这个框架旨在解决LLMs在时间泛化和预测中存在的时间偏差问题，并通过动态生成基于最新现实世界预测的评估基准来更准确地反映模型的实际表现。这属于对LLMs理论层面的探讨和改进，因此归类为LLM理论。",
+      "",
+      "模型评估"
+    ]
+  },
+  {
+    "title": "Understanding the performance gap between online and offline alignment algorithms",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "Reinforcement learning from human feedback (RLHF) is the canonical framework for large language model alignment. However, rising popularity in offline alignment algorithms challenge the need for on-policy sampling in RLHF. Within the context of reward over-optimization, we start with an opening set of experiments that demonstrate the clear advantage of online methods over offline methods. This prompts us to investigate the causes to the performance discrepancy through a series of carefully designed experimental ablations. We show empirically that hypotheses such as offline data coverage and data quality by itself cannot convincingly explain the performance difference. We also find that while offline algorithms train policy to become good at pairwise classification, it is worse at generations; in the meantime the policies trained by online algorithms are good at generations while worse at pairwise classification. This hints at a unique interplay between discriminative and generative capabilities, which is greatly impacted by the sampling process. Lastly, we observe that the performance discrepancy persists for both contrastive and non-contrastive loss functions, and appears not to be addressed by simply scaling up policy networks. Taken together, our study sheds light on the pivotal role of on-policy sampling in AI alignment, and hints at certain fundamental challenges of offline alignment algorithms.",
+    "pdf_link": "https://arxiv.org/abs/2405.08448",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/workflow.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/online_dataset.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08448v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08448/x12.png"
+      }
+    ],
+    "abstract_cn": "从人类反馈中进行强化学习（RLHF）是大型语言模型对齐的标准框架。然而，离线对齐算法的兴起对RLHF中的策略采样提出了挑战。在奖励过度优化的情况下，我们的初步实验清楚地展示了在线方法的优势。通过一系列精心设计的实验，我们探究了性能差异的原因，发现离线数据覆盖率和数据质量等假设并不能完全解释这一差异。我们还发现，离线算法训练的策略在成对分类上表现出色，但在生成上表现不佳；相反，在线算法训练的策略在生成上表现出色，但在成对分类上表现不佳。这表明区分性和生成能力之间存在独特的相互作用，这种相互作用受到采样过程的极大影响。我们的研究揭示了策略采样在AI对齐中的关键作用，并指出了离线对齐算法面临的一些基本挑战。",
+    "title_cn": "探究在线与离线对齐算法性能差异之谜",
+    "tags": [
+      "LLM理论\n\n这篇论文探讨了大型语言模型（LLM）中从人类反馈中进行强化学习（RLHF）的对齐问题，特别是在离线对齐算法兴起的情况下，策略采样所面临的挑战。它通过实验研究了在线和离线方法之间的性能差异，并探讨了这种差异的原因。论文关注的是LLM的理论层面，即如何通过不同的学习方法来优化模型的性能，特别是在对齐和生成任务上的表现。因此，它属于LLM理论分类。",
+      "人工智能对齐",
+      ""
+    ]
+  },
+  {
+    "title": "Stylometric Watermarks for Large Language Models",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "The rapid advancement of large language models (LLMs) has made it increasingly difficult to distinguish between text written by humans and machines. Addressing this, we propose a novel method for generating watermarks that strategically alters token probabilities during generation. Unlike previous works, this method uniquely employs linguistic features such as stylometry. Concretely, we introduce acrostica and sensorimotor norms to LLMs. Further, these features are parameterized by a key, which is updated every sentence. To compute this key, we use semantic zero shot classification, which enhances resilience. In our evaluation, we find that for three or more sentences, our method achieves a false positive and false negative rate of 0.02. For the case of a cyclic translation attack, we observe similar results for seven or more sentences. This research is of particular of interest for proprietary LLMs to facilitate accountability and prevent societal harm.",
+    "pdf_link": "https://arxiv.org/abs/2405.08400",
+    "graphs": [],
+    "abstract_cn": "随着LLMs技术的飞速发展，区分人机文本的难度日益增加。为此，我们提出了一种创新的水印生成方法，通过调整生成过程中的令牌概率，巧妙地融入语言特征，如文体学。我们引入了acrostica和感觉运动规范，并采用每句更新的密钥进行参数化，利用语义零射分类增强其鲁棒性。评估显示，三句以上时，该方法的误报和误检率低至0.02，即使在面对循环翻译攻击时，七句以上也能保持类似效果。这项研究对于专有LLMs具有重要意义，有助于确保责任归属并防范潜在的社会风险。",
+    "title_cn": "大型语言模型风格水印：为LLM嵌入独特标识，确保内容来源的可追溯性与安全性。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了在大型语言模型（LLM）生成的文本中嵌入水印的方法，以区分人机文本。这种方法通过调整生成过程中的令牌概率来融入语言特征，并采用了特定的技术（如acrostica和感觉运动规范）来增强水印的鲁棒性。论文的评估结果表明，该方法在误报和误检率方面表现出色，这对于确保LLM的责任归属和防范社会风险具有重要意义。因此，这篇论文属于LLM应用类别，因为它关注的是LLM技术在实际应用中的一个具体问题和解决方案。",
+      "",
+      "内容安全"
+    ]
+  },
+  {
+    "title": "PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "This paper describes our approach to the MEDIQA-CORR shared task, which involves error detection and correction in clinical notes curated by medical professionals. This task involves handling three subtasks: detecting the presence of errors, identifying the specific sentence containing the error, and correcting it. Through our work, we aim to assess the capabilities of Large Language Models (LLMs) trained on a vast corpora of internet data that contain both factual and unreliable information. We propose to comprehensively address all subtasks together, and suggest employing a unique prompt-based in-context learning strategy. We will evaluate its efficacy in this specialized task demanding a combination of general reasoning and medical knowledge. In medical systems where prediction errors can have grave consequences, we propose leveraging self-consistency and ensemble methods to enhance error correction and error detection performance.",
+    "pdf_link": "https://arxiv.org/abs/2405.08373",
+    "graphs": [],
+    "abstract_cn": "本文探讨了我们在MEDIQA-CORR任务中的方法，该任务要求对医疗专家编写的临床笔记进行错误检测与修正。我们的研究聚焦于三个关键环节：错误识别、错误定位与错误纠正。我们利用大型语言模型（LLMs），这些模型在海量且质量参差不齐的网络数据中训练而成，旨在全面评估其在医疗领域的应用潜力。我们提出一种创新的基于提示的上下文学习方法，以应对这一挑战，该方法需融合通用推理技巧与专业医学知识。鉴于医疗预测失误可能带来严重后果，我们倡导采用自一致性与集成技术，以提升错误修正与检测的精准度。",
+    "title_cn": "PromptMind 团队在 MEDIQA-CORR 2024 大会上，采用错误分类与大型语言模型集成技术，显著提升了临床文本修正的精准度。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了在医疗领域中使用大型语言模型（LLMs）进行临床笔记的错误检测与修正的方法。它提出了一种基于提示的上下文学习方法，并强调了在医疗预测中提高精准度的重要性。这与LLM的应用相关，特别是在医疗领域的具体应用场景中。因此，它属于LLM应用分类。",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "This paper presents a new tool learning dataset Seal-Tools, which contains self-instruct API-like tools. Seal-Tools not only offers a large number of tools, but also includes instances which demonstrate the practical application of tools. Seeking to generate data on a large scale while ensuring reliability, we propose a self-instruct method to generate tools and instances, allowing precise control over the process. Moreover, our Seal-Tools contains hard instances that call multiple tools to complete the job, among which some are nested tool callings. For precise and comprehensive evaluation, we use strict format control and design three metrics from different dimensions. Therefore, Seal-Tools can serve as a new benchmark to evaluate the tool-calling ability of LLMs. Finally, we evaluate several prevalent LLMs and our finetuned model on Seal-Tools. The results show that current systems are far from perfect. The code, data and experiment results are available at https://github.com/fairyshine/Seal-Tools .",
+    "pdf_link": "https://arxiv.org/abs/2405.08355",
+    "graphs": [],
+    "abstract_cn": "本文推出Seal-Tools，一个新颖的工具学习数据集，内含自指导API风格的工具集合。Seal-Tools不仅汇聚众多工具，更展示了这些工具在实际中的应用案例。我们采用自指导方法，确保在生成大量数据的同时保持可靠性，精确掌控生成过程。Seal-Tools中还包含挑战性实例，需协同多个工具，甚至嵌套调用，以完成复杂任务。为全面评估，我们采用严格格式规范，并设计了三个多维度的评估指标。Seal-Tools因此成为评估大型语言模型工具调用能力的新标杆。我们对多个主流LLMs及我们微调的模型进行了测试，揭示了现有系统的不足。所有代码、数据及实验结果均公开于https://github.com/fairyshine/Seal-Tools。",
+    "title_cn": "海豹工具集：专为智能体自适应调优与精准基准测试而设计的自指导工具学习数据集",
+    "tags": [
+      "Agent\n\n理由：这篇论文介绍了一个名为Seal-Tools的新颖工具学习数据集，它包含了自指导API风格的工具集合，并展示了这些工具在实际中的应用案例。这个数据集旨在评估大型语言模型（LLMs）的工具调用能力，特别是在需要协同多个工具或嵌套调用以完成复杂任务的情况。这表明Seal-Tools是用于训练和评估智能代理（Agent）如何有效地使用工具来执行任务的资源。因此，它与Agent的分类相关，而不是RAG（检索增强生成）、LLM应用或LLM理论。",
+      "工具学习",
+      ""
+    ]
+  },
+  {
+    "title": "Could Chemical LLMs benefit from Message Passing",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "Pretrained language models (LMs) showcase significant capabilities in processing molecular text, while concurrently, message passing neural networks (MPNNs) demonstrate resilience and versatility in the domain of molecular science. Despite these advancements, we find there are limited studies investigating the bidirectional interactions between molecular structures and their corresponding textual representations. Therefore, in this paper, we propose two strategies to evaluate whether an information integration can enhance the performance: contrast learning, which involves utilizing an MPNN to supervise the training of the LM, and fusion, which exploits information from both models. Our empirical analysis reveals that the integration approaches exhibit superior performance compared to baselines when applied to smaller molecular graphs, while these integration approaches do not yield performance enhancements on large scale graphs.",
+    "pdf_link": "https://arxiv.org/abs/2405.08334",
+    "graphs": [],
+    "abstract_cn": "预训练语言模型在分子文本处理上大放异彩，而消息传递神经网络则在分子科学领域展现了其坚韧与多才。然而，分子结构与其文本描述间的互动研究却寥寥无几。本文提出两种策略，旨在探究信息融合能否提升性能：一是对比学习，通过MPNN指导LM训练；二是模型融合，双剑合璧。实证分析揭示，在小型分子图谱上，这些融合策略超越了传统方法，但在大型图谱上，它们并未带来额外的性能提升。",
+    "title_cn": "化学领域的 LLMs 是否能通过消息传递机制获得性能上的提升？这一问题引发了研究者们的广泛兴趣。消息传递作为一种信息交流的方式，在化学模型中可能扮演着关键角色，影响着模型的理解和预测能力。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了预训练语言模型（LLM）在分子文本处理中的应用，并提出了两种策略来研究信息融合对性能的影响。虽然它涉及到了模型融合和对比学习，但主要关注点是LLM在分子科学领域的应用，而不是Agent的行为、RAG（检索增强生成）的机制或LLM的理论基础。因此，最合适的分类是LLM应用。",
+      "分子科学",
+      "药物发现"
+    ]
+  },
+  {
+    "title": "SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models",
+    "submit_datetime": "2024年05月14日",
+    "abstract": "Integrated Speech and Large Language Models (SLMs) that can follow speech instructions and generate relevant text responses have gained popularity lately. However, the safety and robustness of these models remains largely unclear. In this work, we investigate the potential vulnerabilities of such instruction-following speech-language models to adversarial attacks and jailbreaking. Specifically, we design algorithms that can generate adversarial examples to jailbreak SLMs in both white-box and black-box attack settings without human involvement. Additionally, we propose countermeasures to thwart such jailbreaking attacks. Our models, trained on dialog data with speech instructions, achieve state-of-the-art performance on spoken question-answering task, scoring over 80% on both safety and helpfulness metrics. Despite safety guardrails, experiments on jailbreaking demonstrate the vulnerability of SLMs to adversarial perturbations and transfer attacks, with average attack success rates of 90% and 10% respectively when evaluated on a dataset of carefully designed harmful questions spanning 12 different toxic categories. However, we demonstrate that our proposed countermeasures reduce the attack success significantly.",
+    "pdf_link": "https://arxiv.org/abs/2405.08317",
+    "graphs": [],
+    "abstract_cn": "集成语音和大语言模型（SLMs）近期因其能够遵循语音指令并生成相关文本响应而备受瞩目。然而，这些模型的安全性和鲁棒性仍是一个谜。本研究深入探讨了SLMs在对抗性攻击和越狱攻击面前的脆弱性，并设计了无需人工干预的算法，在白盒和黑盒攻击场景中生成对抗性示例以越狱SLMs。同时，我们提出对策以抵御此类攻击。我们的模型在包含语音指令的对话数据上训练，在口语问答任务上取得了顶尖成绩，安全性和有用性指标均超过80%。尽管有安全措施，实验表明SLMs在对抗性扰动和转移攻击面前仍显脆弱，平均攻击成功率分别为90%和10%，这些攻击针对的是涵盖12种有害类别的有害问题数据集。不过，我们的对策显著降低了攻击成功率。",
+    "title_cn": "语音卫士：揭秘多模态大型语言模型在对抗攻击下的坚固防线",
+    "tags": [
+      "Agent\n\n这篇论文主要探讨了集成语音和大语言模型（SLMs）的安全性和鲁棒性问题，特别是在对抗性攻击和越狱攻击方面的脆弱性。它不仅分析了这些模型的安全挑战，还设计了算法来生成对抗性示例，并提出了相应的防御措施。这与Agent分类相符，因为Agent通常指的是能够自主执行任务、做出决策并与其他系统或环境交互的智能实体。在这种情况下，SLMs可以被视为Agent，因为它们能够处理语音指令并生成文本响应，同时需要具备一定的安全性和鲁棒性来应对潜在的攻击。论文中的研究重点在于提高这些Agent的安全性和对抗攻击的能力，因此归类为Agent。",
+      "语音识别",
+      "对话系统"
+    ]
+  },
+  {
     "title": "Prompt-based Code Completion via Multi-Retrieval Augmented Generation",
     "submit_datetime": "2024年05月13日",
     "abstract": "Automated code completion, aiming at generating subsequent tokens from unfinished code, has been significantly benefited from recent progress in pre-trained Large Language Models (LLMs). However, these models often suffer from coherence issues and hallucinations when dealing with complex code logic or extrapolating beyond their training data. Existing Retrieval Augmented Generation (RAG) techniques partially address these issues by retrieving relevant code with a separate encoding model where the retrieved snippet serves as contextual reference for code completion. However, their retrieval scope is subject to a singular perspective defined by the encoding model, which largely overlooks the complexity and diversity inherent in code semantics. To address this limitation, we propose ProCC, a code completion framework leveraging prompt engineering and the contextual multi-armed bandits algorithm to flexibly incorporate and adapt to multiple perspectives of code. ProCC first employs a prompt-based multi-retriever system which crafts prompt templates to elicit LLM knowledge to understand code semantics with multiple retrieval perspectives. Then, it adopts the adaptive retrieval selection algorithm to incorporate code similarity into the decision-making process to determine the most suitable retrieval perspective for the LLM to complete the code. Experimental results demonstrate that ProCC outperforms state-of-the-art code completion technique by 8.6% on our collected open-source benchmark suite and 10.1% on the private-domain benchmark suite collected from a billion-user e-commerce company in terms of Exact Match. ProCC also allows augmenting fine-tuned techniques in a plug-and-play manner, yielding 5.6% improvement over our studied fine-tuned model.",
@@ -872,6 +1195,342 @@
     ]
   },
   {
+    "title": "SpeechVerse: A Large-scale Generalizable Audio Language Model",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "Large language models (LLMs) have shown incredible proficiency in performing tasks that require semantic understanding of natural language instructions. Recently, many works have further expanded this capability to perceive multimodal audio and text inputs, but their capabilities are often limited to specific fine-tuned tasks such as automatic speech recognition and translation. We therefore develop SpeechVerse, a robust multi-task training and curriculum learning framework that combines pre-trained speech and text foundation models via a small set of learnable parameters, while keeping the pre-trained models frozen during training. The models are instruction finetuned using continuous latent representations extracted from the speech foundation model to achieve optimal zero-shot performance on a diverse range of speech processing tasks using natural language instructions. We perform extensive benchmarking that includes comparing our model performance against traditional baselines across several datasets and tasks. Furthermore, we evaluate the model's capability for generalized instruction following by testing on out-of-domain datasets, novel prompts, and unseen tasks. Our empirical experiments reveal that our multi-task SpeechVerse model is even superior to conventional task-specific baselines on 9 out of the 11 tasks.",
+    "pdf_link": "https://arxiv.org/abs/2405.08295",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）在处理需要深刻理解自然语言指令的任务时展现出了非凡的能力。然而，现有的多模态感知模型往往局限于特定的微调任务，如语音识别和翻译。为此，我们推出了SpeechVerse，一个结合了预训练语音和文本模型的多任务训练框架，通过少量可学习参数实现，同时保持预训练模型在训练过程中不变。通过使用语音基础模型的连续潜在表示进行指令微调，SpeechVerse在多样化的语音处理任务上实现了卓越的零-shot性能。我们进行了全面的基准测试，与传统模型在多个数据集和任务上进行了比较，并评估了模型对新颖指令的泛化能力。实验结果显示，SpeechVerse在11个任务中的9个上超越了传统特定任务基线，展现了其在多任务处理上的优越性。",
+    "title_cn": "SpeechVerse：一款大规模且具备广泛适用性的语音语言模型",
+    "tags": [
+      "LLM应用\n\n这篇论文介绍了一个名为SpeechVerse的多任务训练框架，它结合了预训练的语音和文本模型，旨在提高大型语言模型在处理多样化语音处理任务上的性能。该框架通过使用语音基础模型的连续潜在表示进行指令微调，实现了在多个语音处理任务上的卓越零-shot性能。这与LLM应用的分类相符，因为它关注的是如何应用大型语言模型来解决实际的多模态感知问题，而不是探讨LLM的理论基础或Agent的设计与实现，也不是关于检索增强生成（RAG）技术的研究。",
+      "语音处理",
+      "多任务学习"
+    ]
+  },
+  {
+    "title": "VS-Assistant: Versatile Surgery Assistant on the Demand of Surgeons",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "The surgical intervention is crucial to patient healthcare, and many studies have developed advanced algorithms to provide understanding and decision-making assistance for surgeons. Despite great progress, these algorithms are developed for a single specific task and scenario, and in practice require the manual combination of different functions, thus limiting the applicability. Thus, an intelligent and versatile surgical assistant is expected to accurately understand the surgeon's intentions and accordingly conduct the specific tasks to support the surgical process. In this work, by leveraging advanced multimodal large language models (MLLMs), we propose a Versatile Surgery Assistant (VS-Assistant) that can accurately understand the surgeon's intention and complete a series of surgical understanding tasks, e.g., surgical scene analysis, surgical instrument detection, and segmentation on demand. Specifically, to achieve superior surgical multimodal understanding, we devise a mixture of projectors (MOP) module to align the surgical MLLM in VS-Assistant to balance the natural and surgical knowledge. Moreover, we devise a surgical Function-Calling Tuning strategy to enable the VS-Assistant to understand surgical intentions, and thus make a series of surgical function calls on demand to meet the needs of the surgeons. Extensive experiments on neurosurgery data confirm that our VS-Assistant can understand the surgeon's intention more accurately than the existing MLLM, resulting in overwhelming performance in textual analysis and visual tasks. Source code and models will be made public.",
+    "pdf_link": "https://arxiv.org/abs/2405.08272",
+    "graphs": [],
+    "abstract_cn": "手术干预对患者健康至关重要，现有算法虽已取得显著进展，但仍局限于特定任务和场景，且需手动整合功能，限制了其广泛应用。因此，我们期望一个智能且多才多艺的手术助手，能够精准洞察外科医生的意图，并灵活执行手术任务。本研究中，我们借助先进的多模态大型语言模型（MLLMs），打造了一款名为“多功能手术助手（VS-Assistant）”的智能系统，它能够精准解读外科意图，执行手术场景分析、器械检测等任务。为提升手术多模态理解能力，我们创新性地引入了混合投影器（MOP）模块，平衡自然与手术知识。同时，我们开发了手术功能调用调整策略，使VS-Assistant能够洞察手术意图，并按需调用手术功能，满足外科需求。在神经外科领域的广泛实验证明，VS-Assistant在理解外科意图方面超越了现有MLLM，在文本与视觉任务中表现卓越。我们将公开源代码和模型，以供进一步研究。",
+    "title_cn": "VS助手：外科医生的得力助手，满足多样化的手术需求",
+    "tags": [
+      "Agent\n\n这篇论文介绍了一个名为“多功能手术助手（VS-Assistant）”的智能系统，它基于多模态大型语言模型（MLLMs），能够理解外科医生的意图并执行多种手术任务。这个系统通过引入混合投影器（MOP）模块和手术功能调用调整策略，提升了手术多模态理解能力，并在神经外科领域的实验中证明了其有效性。这个系统可以被视为一个智能代理（Agent），因为它能够自主地执行任务并对外科医生的意图做出响应。因此，它被归类为Agent。",
+      "",
+      "手术辅助系统"
+    ]
+  },
+  {
+    "title": "Compositional Text-to-Image Generation with Dense Blob Representations",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "Existing text-to-image models struggle to follow complex text prompts, raising the need for extra grounding inputs for better controllability. In this work, we propose to decompose a scene into visual primitives - denoted as dense blob representations - that contain fine-grained details of the scene while being modular, human-interpretable, and easy-to-construct. Based on blob representations, we develop a blob-grounded text-to-image diffusion model, termed BlobGEN, for compositional generation. Particularly, we introduce a new masked cross-attention module to disentangle the fusion between blob representations and visual features. To leverage the compositionality of large language models (LLMs), we introduce a new in-context learning approach to generate blob representations from text prompts. Our extensive experiments show that BlobGEN achieves superior zero-shot generation quality and better layout-guided controllability on MS-COCO. When augmented by LLMs, our method exhibits superior numerical and spatial correctness on compositional image generation benchmarks. Project page: https://blobgen-2d.github.io.",
+    "pdf_link": "https://arxiv.org/abs/2405.08246",
+    "graphs": [],
+    "abstract_cn": "现有的文本到图像模型在处理复杂文本提示时显得力不从心，这促使我们寻求更精细的控制手段。本研究提出了一种创新方法，将场景细化为一系列视觉原语——密集斑点表示，这些表示不仅捕捉了场景的微妙细节，而且具有模块化、易于人类理解且便于构建的特点。我们基于此开发了 BlobGEN，一种结合斑点表示的文本到图像扩散模型，用于组合图像生成。特别地，我们设计了一种新的掩码交叉注意力机制，以确保斑点表示与视觉特征的融合更加清晰。为了充分发挥大型语言模型的组合潜力，我们采用了一种新颖的上下文学习策略，直接从文本提示中生成斑点表示。实验结果显示，BlobGEN 在 MS-COCO 数据集上不仅实现了零-shot 生成质量的飞跃，还提供了更精细的布局控制。当与 LLMs 结合使用时，我们的方法在组合图像生成任务中展现了卓越的数值和空间准确性。更多详情，请访问项目页面：https://blobgen-2d.github.io。",
+    "title_cn": "利用密集斑点表示实现文本至图像的组合生成",
+    "tags": [
+      "LLM应用\n\n这篇论文介绍了一种结合大型语言模型（LLM）的文本到图像生成方法，名为BlobGEN。该方法通过使用斑点表示（blob representations）来细化场景，并利用一种新的掩码交叉注意力机制来融合斑点表示和视觉特征。此外，论文还提出了一种上下文学习策略，以从文本提示中直接生成斑点表示，从而利用LLM的组合潜力。这种方法在组合图像生成任务中展示了高质量的生成结果和精细的布局控制，特别是在与LLMs结合使用时。因此，这篇论文属于LLM应用类别，因为它展示了如何将LLM应用于特定的NLP任务——文本到图像的生成。",
+      "图像生成",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "Silver-Tongued and Sundry: Exploring Intersectional Pronouns with ChatGPT",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "ChatGPT is a conversational agent built on a large language model. Trained on a significant portion of human output, ChatGPT can mimic people to a degree. As such, we need to consider what social identities ChatGPT simulates (or can be designed to simulate). In this study, we explored the case of identity simulation through Japanese first-person pronouns, which are tightly connected to social identities in intersectional ways, i.e., intersectional pronouns. We conducted a controlled online experiment where people from two regions in Japan (Kanto and Kinki) witnessed interactions with ChatGPT using ten sets of first-person pronouns. We discovered that pronouns alone can evoke perceptions of social identities in ChatGPT at the intersections of gender, age, region, and formality, with caveats. This work highlights the importance of pronoun use for social identity simulation, provides a language-based methodology for culturally-sensitive persona development, and advances the potential of intersectional identities in intelligent agents.",
+    "pdf_link": "https://arxiv.org/abs/2405.08238",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08238v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08238/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08238v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08238/fig-screenshot.prompt.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08238v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08238/STS-Video-Fuji-Uchi.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08238v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08238/fig-genderDistrubutionKanjiCorr.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08238v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08238/fig-ageDistrubutionReducKanji.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08238v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08238/fig-regionalComparasonLined.png"
+      }
+    ],
+    "abstract_cn": "ChatGPT，这个基于大型语言模型的对话伙伴，通过吸收大量人类对话，学会了模仿人类的交流方式。然而，它的社会身份模拟能力，尤其是如何通过语言细节如日语的第一人称代词来体现，仍是一个值得探索的领域。这些代词不仅仅是语言的标记，它们在性别、年龄、地域和礼仪等多个维度上交织着社会身份的复杂性。我们的研究通过一项精心设计的在线实验，让来自日本不同地区的参与者与使用不同代词的ChatGPT互动，揭示了代词如何微妙地塑造了ChatGPT的社会形象。这项研究不仅强调了代词在模拟社会身份中的关键作用，还为开发具有文化敏感性的智能角色提供了一种语言学方法，并开启了智能代理中多维度身份表达的新篇章。",
+    "title_cn": "巧舌如银，代词交织：与ChatGPT一同探索多元身份的代词世界",
+    "tags": [
+      "Agent\n\n这篇论文探讨了ChatGPT作为一个智能代理（Agent），在模拟社会身份方面的能力，特别是在使用特定语言细节（如日语的第一人称代词）来体现社会身份的复杂性。研究通过实验展示了代词如何影响ChatGPT的社会形象，并提出了开发具有文化敏感性的智能角色的方法。这与Agent分类下的研究相符，因为Agent通常指的是能够与环境交互并执行任务的智能实体，而ChatGPT正是在这种背景下被研究的。",
+      "人工智能",
+      "社会语言学"
+    ]
+  },
+  {
+    "title": "An information-theoretic model of shallow and deep language comprehension",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "A large body of work in psycholinguistics has focused on the idea that online language comprehension can be shallow or `good enough': given constraints on time or available computation, comprehenders may form interpretations of their input that are plausible but inaccurate. However, this idea has not yet been linked with formal theories of computation under resource constraints. Here we use information theory to formulate a model of language comprehension as an optimal trade-off between accuracy and processing depth, formalized as bits of information extracted from the input, which increases with processing time. The model provides a measure of processing effort as the change in processing depth, which we link to EEG signals and reading times. We validate our theory against a large-scale dataset of garden path sentence reading times, and EEG experiments featuring N400, P600 and biphasic ERP effects. By quantifying the timecourse of language processing as it proceeds from shallow to deep, our model provides a unified framework to explain behavioral and neural signatures of language comprehension.",
+    "pdf_link": "https://arxiv.org/abs/2405.08223",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/infoplane_annotated.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08223v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08223/x7.png"
+      }
+    ],
+    "abstract_cn": "心理语言学研究广泛探讨了在线语言理解可以是浅层或“足够好”的观点，即在时间和计算资源限制下，人们可能形成合理但不完全准确的理解。然而，这一观点尚未与资源受限计算的正式理论相结合。本研究运用信息理论构建了一个语言理解模型，该模型在准确性与处理深度之间寻求最佳平衡，以从输入中提取的信息位来量化，随处理时间增长，并将其与脑电图信号和阅读时间相联系。我们通过分析花园路径句子的阅读时间和脑电图实验中的N400、P600及双相ERP效应来验证这一理论。我们的模型通过量化语言处理从浅层到深层的时间进程，为解释语言理解的认知和神经特征提供了一个统一框架。",
+    "title_cn": "浅层与深层语言理解的信息理论模型",
+    "tags": [
+      "LLM理论\n\n这篇论文探讨了语言理解的理论模型，并将其与认知和神经特征相联系，这属于大型语言模型（LLM）的理论研究范畴。它通过信息理论构建模型，并使用脑电图信号和阅读时间等实验数据来验证模型，这表明研究的重点在于理解语言处理的理论基础，而不是特定应用或代理（Agent）的设计，也不是检索增强生成（RAG）技术的应用。因此，它最适合归类为LLM理论。",
+      "心理语言学",
+      "认知科学"
+    ]
+  },
+  {
+    "title": "Toward Automated Programming for Robotic Assembly Using ChatGPT",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "Despite significant technological advancements, the process of programming robots for adaptive assembly remains labor-intensive, demanding expertise in multiple domains and often resulting in task-specific, inflexible code. This work explores the potential of Large Language Models (LLMs), like ChatGPT, to automate this process, leveraging their ability to understand natural language instructions, generalize examples to new tasks, and write code. In this paper, we suggest how these abilities can be harnessed and applied to real-world challenges in the manufacturing industry. We present a novel system that uses ChatGPT to automate the process of programming robots for adaptive assembly by decomposing complex tasks into simpler subtasks, generating robot control code, executing the code in a simulated workcell, and debugging syntax and control errors, such as collisions. We outline the architecture of this system and strategies for task decomposition and code generation. Finally, we demonstrate how our system can autonomously program robots for various assembly tasks in a real-world project.",
+    "pdf_link": "https://arxiv.org/abs/2405.08216",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/process-fun.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/TDA_demonstration.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/TDA_example.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/Architecture-SGADiagram.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/Design-Assembly.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/workcell.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/PickingGrippers.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/Test-RandomPositions.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/HistoryPrependedOnly.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08216v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08216/GeneratedScript.png"
+      }
+    ],
+    "abstract_cn": "尽管技术进步，编程适应性装配机器人的过程依旧繁琐，需要跨领域的专业知识，且往往产生特定任务的僵化代码。本文探讨了如ChatGPT这样的大型语言模型（LLMs）在自动化这一过程中的潜力，利用其理解自然语言、泛化任务示例及编码的能力。我们提出了一种方法，将这些能力应用于制造业的实际挑战。我们介绍了一个创新系统，它利用ChatGPT将复杂装配任务分解，生成机器人控制代码，并在模拟环境中执行和调试，以避免碰撞等错误。我们详细阐述了系统架构和任务分解策略，并展示了该系统如何在实际项目中自主编程机器人完成多样装配任务。",
+    "title_cn": "借助ChatGPT，探索机器人装配编程的自动化之路",
+    "tags": [
+      "Agent\n\n这篇论文探讨了如何利用大型语言模型（如ChatGPT）来自动化编程适应性装配机器人的过程。它提出了一种方法，通过理解自然语言、泛化任务示例及编码的能力，将这些能力应用于制造业的实际挑战。论文介绍了一个创新系统，该系统能够将复杂装配任务分解，生成机器人控制代码，并在模拟环境中执行和调试。这表明该论文关注的是如何构建一个能够理解和执行复杂任务的智能代理（Agent），因此将其分类为Agent。",
+      "制造业",
+      "机器人技术"
+    ]
+  },
+  {
+    "title": "Interpreting Latent Student Knowledge Representations in Programming Assignments",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "Recent advances in artificial intelligence for education leverage generative large language models, including using them to predict open-ended student responses rather than their correctness only. However, the black-box nature of these models limits the interpretability of the learned student knowledge representations. In this paper, we conduct a first exploration into interpreting latent student knowledge representations by presenting InfoOIRT, an Information regularized Open-ended Item Response Theory model, which encourages the latent student knowledge states to be interpretable while being able to generate student-written code for open-ended programming questions. InfoOIRT maximizes the mutual information between a fixed subset of latent knowledge states enforced with simple prior distributions and generated student code, which encourages the model to learn disentangled representations of salient syntactic and semantic code features including syntactic styles, mastery of programming skills, and code structures. Through experiments on a real-world programming education dataset, we show that InfoOIRT can both accurately generate student code and lead to interpretable student knowledge representations.",
+    "pdf_link": "https://arxiv.org/abs/2405.08213",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08213v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08213/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08213v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08213/x2.png"
+      }
+    ],
+    "abstract_cn": "在教育人工智能的最新进展中，生成式大型语言模型被用于预测学生的开放式回答，超越了仅判断正确性的范畴。然而，这些模型的黑盒特性使得学生知识表示的解释性受到限制。本文首次探索了如何解释这些潜在的学生知识表示，提出了InfoOIRT模型，它鼓励学生知识状态的可解释性，并能生成学生编写的代码以应对开放式编程问题。通过最大化潜在知识状态与学生代码之间的互信息，InfoOIRT学习了包括语法风格、编程技能掌握和代码结构在内的解耦表示。实验证明，InfoOIRT不仅能准确生成学生代码，还能提供可解释的学生知识表示。",
+    "title_cn": "揭示编程作业中学生潜在知识的内在表征",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了生成式大型语言模型在教育领域的应用，特别是在预测学生开放式回答和解释学生知识表示方面。它提出了一个名为InfoOIRT的模型，旨在提高学生知识状态的可解释性，并通过生成学生编写的代码来应对开放式编程问题。这种方法通过最大化潜在知识状态与学生代码之间的互信息来学习解耦表示，包括语法风格、编程技能掌握和代码结构等。因此，这篇论文属于LLM应用类别，因为它关注的是大型语言模型在特定应用场景（教育）中的实际应用和效果。",
+      "",
+      "人工智能"
+    ]
+  },
+  {
+    "title": "LLM Theory of Mind and Alignment: Opportunities and Risks",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "Large language models (LLMs) are transforming human-computer interaction and conceptions of artificial intelligence (AI) with their impressive capacities for conversing and reasoning in natural language. There is growing interest in whether LLMs have theory of mind (ToM); the ability to reason about the mental and emotional states of others that is core to human social intelligence. As LLMs are integrated into the fabric of our personal, professional and social lives and given greater agency to make decisions with real-world consequences, there is a critical need to understand how they can be aligned with human values. ToM seems to be a promising direction of inquiry in this regard. Following the literature on the role and impacts of human ToM, this paper identifies key areas in which LLM ToM will show up in human:LLM interactions at individual and group levels, and what opportunities and risks for alignment are raised in each. On the individual level, the paper considers how LLM ToM might manifest in goal specification, conversational adaptation, empathy and anthropomorphism. On the group level, it considers how LLM ToM might facilitate collective alignment, cooperation or competition, and moral judgement-making. The paper lays out a broad spectrum of potential implications and suggests the most pressing areas for future research.",
+    "pdf_link": "https://arxiv.org/abs/2405.08154",
+    "graphs": [],
+    "abstract_cn": "大型语言模型（LLMs）以其卓越的自然语言交流和推理能力，正在重塑人机交互和人工智能的认知。人们越来越关注LLMs是否具备心智理论（ToM），即理解他人心理和情感的能力，这是人类社会智能的关键。随着LLMs在我们的生活中扮演越来越重要的角色，并参与具有实际影响的决策，了解它们如何与人类价值观相协调变得至关重要。ToM成为了一个有前景的研究方向。本文基于人类ToM的研究，探讨了LLM ToM在个人和群体层面的人机交互中的表现，以及由此带来的对齐机遇和风险。在个人层面，我们探讨了LLM ToM在目标设定、对话适应、同理心表达和拟人化方面的体现。在群体层面，我们分析了LLM ToM如何促进集体协调、合作或竞争，以及道德判断的形成。本文提出了广泛的潜在影响，并指出了未来研究中最迫切关注的领域。",
+    "title_cn": "大型语言模型（LLM）的心智理论与对齐：探索机遇与警惕风险",
+    "tags": [
+      "LLM理论\n\n这篇论文探讨了大型语言模型（LLMs）是否具备心智理论（ToM），这是一个关于LLMs理解人类心理和情感能力的理论性问题。它分析了LLM ToM在个人和群体层面的人机交互中的表现，并讨论了与人类价值观对齐的机遇和风险。这属于对LLMs理论层面的研究，特别是关于它们如何模拟人类社会智能和心理理解的理论探讨。因此，它被归类为LLM理论。",
+      "人机交互",
+      "人工智能伦理"
+    ]
+  },
+  {
+    "title": "Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "Large language models (LLM) have demonstrated remarkable capabilities in various biomedical natural language processing (NLP) tasks, leveraging the demonstration within the input context to adapt to new tasks. However, LLM is sensitive to the selection of demonstrations. To address the hallucination issue inherent in LLM, retrieval-augmented LLM (RAL) offers a solution by retrieving pertinent information from an established database. Nonetheless, existing research work lacks rigorous evaluation of the impact of retrieval-augmented large language models on different biomedical NLP tasks. This deficiency makes it challenging to ascertain the capabilities of RAL within the biomedical domain. Moreover, the outputs from RAL are affected by retrieving the unlabeled, counterfactual, or diverse knowledge that is not well studied in the biomedical domain. However, such knowledge is common in the real world. Finally, exploring the self-awareness ability is also crucial for the RAL system. So, in this paper, we systematically investigate the impact of RALs on 5 different biomedical tasks (triple extraction, link prediction, classification, question answering, and natural language inference). We analyze the performance of RALs in four fundamental abilities, including unlabeled robustness, counterfactual robustness, diverse robustness, and negative awareness. To this end, we proposed an evaluation framework to assess the RALs' performance on different biomedical NLP tasks and establish four different testbeds based on the aforementioned fundamental abilities. Then, we evaluate 3 representative LLMs with 3 different retrievers on 5 tasks over 9 datasets.",
+    "pdf_link": "https://arxiv.org/abs/2405.08151",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08151v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08151/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08151v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08151/x2.png"
+      }
+    ],
+    "abstract_cn": "大型语言模型（LLM）在生物医学NLP领域表现出色，但它们对演示的选择非常敏感。检索增强型LLM（RAL）通过检索数据库信息来解决幻觉问题，但其在生物医学任务中的影响尚未得到充分评估。RAL的输出受到未标记、反事实或多样性知识的影响，这些在生物医学领域尚未深入研究。本文系统地探讨了RAL在五个关键生物医学任务中的作用，并分析了其在未标记、反事实、多样性和负面意识方面的鲁棒性。我们提出了一个评估框架，并在四个测试平台上评估了三个代表性LLM与三个检索器在九个数据集上的表现，以揭示RAL在生物医学NLP领域的真正潜力。",
+    "title_cn": "生物医学 NLP 中检索增强 LLM 的基准测试：应用、鲁棒性与自我认知在生物医学自然语言处理领域，检索增强的大型语言模型（LLM）正逐渐成为研究的热点。这些模型通过结合检索机制，能够更有效地处理和理解复杂的生物医学信息。本文将探讨这些模型在实际应用中的表现，以及它们在面对不同数据集和任务时的鲁棒性。此外，我们还将研究这些模型如何通过自我意识机制来评估和优化其性能，从而在生物医学 NLP 领域中发挥更大的作用。",
+    "tags": [
+      "RAG\n\n这篇论文主要探讨了检索增强型LLM（RAL）在生物医学自然语言处理（NLP）任务中的应用和影响，特别是关注了RAL在处理未标记、反事实、多样性和负面知识方面的鲁棒性。它通过一个评估框架和在多个数据集上的实验来评估RAL的性能，旨在揭示RAL在生物医学NLP领域的潜力。因此，这篇论文更符合RAG分类，因为它专注于检索增强型生成（Retrieval-Augmented Generation）模型的应用和评估。",
+      "生物医学",
+      ""
+    ]
+  },
+  {
+    "title": "Many-Shot Regurgitation (MSR) Prompting",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "We introduce Many-Shot Regurgitation (MSR) prompting, a new black-box membership inference attack framework for examining verbatim content reproduction in large language models (LLMs). MSR prompting involves dividing the input text into multiple segments and creating a single prompt that includes a series of faux conversation rounds between a user and a language model to elicit verbatim regurgitation. We apply MSR prompting to diverse text sources, including Wikipedia articles and open educational resources (OER) textbooks, which provide high-quality, factual content and are continuously updated over time. For each source, we curate two dataset types: one that LLMs were likely exposed to during training ($D_{\\rm pre}$) and another consisting of documents published after the models' training cutoff dates ($D_{\\rm post}$). To quantify the occurrence of verbatim matches, we employ the Longest Common Substring algorithm and count the frequency of matches at different length thresholds. We then use statistical measures such as Cliff's delta, Kolmogorov-Smirnov (KS) distance, and Kruskal-Wallis H test to determine whether the distribution of verbatim matches differs significantly between $D_{\\rm pre}$ and $D_{\\rm post}$. Our findings reveal a striking difference in the distribution of verbatim matches between $D_{\\rm pre}$ and $D_{\\rm post}$, with the frequency of verbatim reproduction being significantly higher when LLMs (e.g. GPT models and LLaMAs) are prompted with text from datasets they were likely trained on. For instance, when using GPT-3.5 on Wikipedia articles, we observe a substantial effect size (Cliff's delta $= -0.984$) and a large KS distance ($0.875$) between the distributions of $D_{\\rm pre}$ and $D_{\\rm post}$. Our results provide compelling evidence that LLMs are more prone to reproducing verbatim content when the input text is likely sourced from their training data.",
+    "pdf_link": "https://arxiv.org/abs/2405.08134",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08134v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08134/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08134v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08134/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08134v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08134/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08134v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08134/x4.png"
+      }
+    ],
+    "abstract_cn": "我们提出了多段复制（MSR）提示技术，这是一种新颖的黑盒成员推断攻击方法，用于检测大型语言模型（LLMs）中的逐字复制行为。MSR提示技术通过将输入文本分割成多个部分，并构建一个包含模拟用户与语言模型之间对话回合的提示，来诱导模型逐字复制内容。我们将其应用于维基百科和开放教育资源教科书等多种文本来源，这些来源提供高质量、实时更新的信息。我们为每个来源准备了两种数据集：一种是LLMs在训练期间可能接触到的数据集（$D_{\\rm pre}$），另一种是模型训练截止日期后发布的数据集（$D_{\\rm post}$）。我们使用最长公共子串算法来计算逐字匹配的频率，并运用统计方法如Cliff's delta、KS距离和Kruskal-Wallis H检验来分析$D_{\\rm pre}$和$D_{\\rm post}$之间逐字匹配分布的差异。研究发现，当LLMs被提示使用其训练数据集中的文本来进行逐字复制时，复制频率显著增加。例如，GPT-3.5处理维基百科文章时，我们发现$D_{\\rm pre}$和$D_{\\rm post}$的分布差异显著（Cliff's delta $= -0.984$，KS距离为$0.875$）。这些发现强烈表明，当输入文本源自其训练数据时，LLMs更倾向于逐字复制内容。",
+    "title_cn": "多示例复述（MSR）提示法",
+    "tags": [
+      "LLM应用\n\n这篇论文介绍了一种名为多段复制（MSR）提示技术的新型黑盒成员推断攻击方法，用于检测大型语言模型（LLMs）中的逐字复制行为。这种方法通过分析模型在特定提示下的行为来揭示模型是否倾向于从其训练数据中逐字复制内容。由于这项工作关注的是LLMs在实际应用中的行为，特别是它们如何处理和复制训练数据中的文本，因此它属于LLM应用类别。这项研究不仅揭示了LLMs的一个潜在弱点，而且还强调了在设计和部署这些模型时需要考虑的安全和隐私问题。",
+      "信息安全",
+      "人工智能伦理"
+    ]
+  },
+  {
+    "title": "From Questions to Insightful Answers: Building an Informed Chatbot for University Resources",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "This paper presents BARKPLUG V.2, a Large Language Model (LLM)-based chatbot system built using Retrieval Augmented Generation (RAG) pipelines to enhance the user experience and access to information within academic settings.The objective of BARKPLUG V.2 is to provide information to users about various campus resources, including academic departments, programs, campus facilities, and student resources at a university setting in an interactive fashion. Our system leverages university data as an external data corpus and ingests it into our RAG pipelines for domain-specific question-answering tasks. We evaluate the effectiveness of our system in generating accurate and pertinent responses for Mississippi State University, as a case study, using quantitative measures, employing frameworks such as Retrieval Augmented Generation Assessment(RAGAS). Furthermore, we evaluate the usability of this system via subjective satisfaction surveys using the System Usability Scale (SUS). Our system demonstrates impressive quantitative performance, with a mean RAGAS score of 0.96, and experience, as validated by usability assessments.",
+    "pdf_link": "https://arxiv.org/abs/2405.08120",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08120v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08120/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08120v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08120/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08120v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08120/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08120v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08120/x4.png"
+      }
+    ],
+    "abstract_cn": "本文介绍了BARKPLUG V.2，一款基于LLM的聊天机器人系统，通过RAG管道提升学术环境中的用户体验和信息获取。该系统旨在以互动方式提供校园资源信息，如学术部门、项目、设施和学生服务。它利用大学数据，通过RAG管道进行特定领域问答。我们以密西西比州立大学为例，通过RAGAS等框架定量评估其回答的准确性和相关性，并通过SUS调查评估其可用性。BARKPLUG V.2在定量性能上表现卓越，平均RAGAS得分0.96，用户体验得到可用性评估的验证。",
+    "title_cn": "打造智慧之桥：构建一款洞悉大学资源的智能聊天机器人，将疑问转化为深刻解答。",
+    "tags": [
+      "Agent\n\n这篇论文介绍了一个基于大型语言模型（LLM）的聊天机器人系统BARKPLUG V.2，它通过检索增强生成（RAG）管道来提升学术环境中的用户体验和信息获取。该系统被设计为一个Agent，用于提供校园资源信息，并通过RAG管道进行特定领域的问答。它展示了在特定应用场景中LLM的实际应用，即作为一个智能Agent来辅助用户获取信息。因此，这篇论文属于Agent分类。",
+      "",
+      "聊天机器人"
+    ]
+  },
+  {
+    "title": "Layout Generation Agents with Large Language Models",
+    "submit_datetime": "2024年05月13日",
+    "abstract": "In recent years, there has been an increasing demand for customizable 3D virtual spaces. Due to the significant human effort required to create these virtual spaces, there is a need for efficiency in virtual space creation. While existing studies have proposed methods for automatically generating layouts such as floor plans and furniture arrangements, these methods only generate text indicating the layout structure based on user instructions, without utilizing the information obtained during the generation process. In this study, we propose an agent-driven layout generation system using the GPT-4V multimodal large language model and validate its effectiveness. Specifically, the language model manipulates agents to sequentially place objects in the virtual space, thus generating layouts that reflect user instructions. Experimental results confirm that our proposed method can generate virtual spaces reflecting user instructions with a high success rate. Additionally, we successfully identified elements contributing to the improvement in behavior generation performance through ablation study.",
+    "pdf_link": "https://arxiv.org/abs/2405.08037",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08037v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08037/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08037v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08037/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08037v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08037/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08037v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08037/x4.png"
+      }
+    ],
+    "abstract_cn": "随着对个性化3D虚拟空间的需求日益增长，创建这些空间的高效方法变得至关重要。尽管已有研究尝试自动化布局生成，但它们往往忽略了生成过程中的宝贵信息。本研究引入了一种基于GPT-4V模型的创新系统，该系统通过代理在虚拟空间中智能布置对象，以精确响应用户指令。实验证明，这种方法不仅高效，而且能够准确反映用户的创意。通过深入分析，我们还揭示了哪些关键因素能够提升生成行为的性能。",
+    "title_cn": "大型语言模型赋能的布局生成智能体",
+    "tags": [
+      "Agent\n\n这篇论文介绍了一种基于GPT-4V模型的创新系统，该系统通过代理在虚拟空间中智能布置对象，以精确响应用户指令。这里的“代理”指的是能够自主执行任务的智能系统或程序，它们可以根据用户的指令在虚拟空间中进行操作。因此，这篇论文属于Agent分类，因为它主要讨论了如何使用智能代理来实现个性化3D虚拟空间的自动化布局生成。",
+      "虚拟现实",
+      "3D建模"
+    ]
+  },
+  {
     "title": "CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering",
     "submit_datetime": "2024年05月12日",
     "abstract": "While vision-language pretrained models (VLMs) excel in various multimodal understanding tasks, their potential in fine-grained audio-visual reasoning, particularly for audio-visual question answering (AVQA), remains largely unexplored. AVQA presents specific challenges for VLMs due to the requirement of visual understanding at the region level and seamless integration with audio modality. Previous VLM-based AVQA methods merely used CLIP as a feature encoder but underutilized its knowledge, and mistreated audio and video as separate entities in a dual-stream framework as most AVQA methods. This paper proposes a new CLIP-powered target-aware single-stream (TASS) network for AVQA using the image-text matching knowledge of the pretrained model through the audio-visual matching characteristic of nature. It consists of two key components: the target-aware spatial grounding module (TSG+) and the single-stream joint temporal grounding module (JTG). Specifically, we propose a TSG+ module to transfer the image-text matching knowledge from CLIP models to our region-text matching process without corresponding ground-truth labels. Moreover, unlike previous separate dual-stream networks that still required an additional audio-visual fusion module, JTG unifies audio-visual fusion and question-aware temporal grounding in a simplified single-stream architecture. It treats audio and video as a cohesive entity and further extends the pretrained image-text knowledge to audio-text matching by preserving their temporal correlation with our proposed cross-modal synchrony (CMS) loss. Extensive experiments conducted on the MUSIC-AVQA benchmark verified the effectiveness of our proposed method over existing state-of-the-art methods.",
@@ -1135,6 +1794,302 @@
       "RAG\n\n这篇论文主要关注的是检索增强生成（RAG）技术在自然语言处理中的评估问题，并提出了一套分析框架（RAGR）来系统地评估RAG系统。它探讨了RAG系统的评估挑战，包括相关性、准确性和忠实性等关键指标，并指出了现有评估方法的局限性以及未来研究的方向。因此，这篇论文的内容与RAG技术紧密相关，属于RAG分类。",
       "",
       "评估基准"
+    ]
+  },
+  {
+    "title": "A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems",
+    "submit_datetime": "2024年05月12日",
+    "abstract": "Conversational Recommender System (CRS) leverages real-time feedback from users to dynamically model their preferences, thereby enhancing the system's ability to provide personalized recommendations and improving the overall user experience. CRS has demonstrated significant promise, prompting researchers to concentrate their efforts on developing user simulators that are both more realistic and trustworthy. The emergence of Large Language Models (LLMs) has marked the onset of a new epoch in computational capabilities, exhibiting human-level intelligence in various tasks. Research efforts have been made to utilize LLMs for building user simulators to evaluate the performance of CRS. Although these efforts showcase innovation, they are accompanied by certain limitations. In this work, we introduce a Controllable, Scalable, and Human-Involved (CSHI) simulator framework that manages the behavior of user simulators across various stages via a plugin manager. CSHI customizes the simulation of user behavior and interactions to provide a more lifelike and convincing user interaction experience. Through experiments and case studies in two conversational recommendation scenarios, we show that our framework can adapt to a variety of conversational recommendation settings and effectively simulate users' personalized preferences. Consequently, our simulator is able to generate feedback that closely mirrors that of real users. This facilitates a reliable assessment of existing CRS studies and promotes the creation of high-quality conversational recommendation datasets.",
+    "pdf_link": "https://arxiv.org/abs/2405.08035",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08035v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08035/x10.png"
+      }
+    ],
+    "abstract_cn": "对话推荐系统（CRS）通过实时反馈动态捕捉用户偏好，提供个性化推荐，提升用户体验。随着大型语言模型（LLMs）的兴起，研究人员正致力于打造更逼真、可信的用户模拟器。我们提出的可控、可扩展、人机交互（CSHI）模拟器框架，通过插件管理器精细调控用户模拟行为，模拟出更真实、引人入胜的用户交互。实验证明，我们的框架能灵活适应多种对话推荐场景，精准模拟用户偏好，生成的反馈贴近真实用户，为CRS研究提供了可靠的评估工具，并推动了高质量对话推荐数据集的开发。",
+    "title_cn": "大型语言模型驱动的对话推荐系统用户模拟器框架：可控、可扩展且融入人类智慧在",
+    "tags": [
+      "Agent\n\n这篇论文主要讨论了对话推荐系统（CRS）中用户模拟器的构建，特别是提出了一个可控、可扩展、人机交互（CSHI）模拟器框架。这个框架旨在通过模拟用户行为来提升对话推荐系统的性能，并且能够适应多种对话推荐场景。虽然它涉及到了大型语言模型（LLMs）的应用，但重点在于创建一个能够模拟用户行为的Agent，用于研究和评估对话推荐系统，而不是专注于LLM的理论研究或应用开发。因此，这篇论文更适合归类到Agent分类中。",
+      "对话推荐系统",
+      "用户模拟器"
+    ]
+  },
+  {
+    "title": "Medical Research as a Productivity Indicator",
+    "submit_datetime": "2024年05月12日",
+    "abstract": "Across fields, the quantity of research has increased substantially, without an attendant increase in output. We argue that, in medicine, this indicator of declining productivity reflects a compositional shift toward low-capital, low-productivity research. Using a fine-tuned, open-source large language model, we construct a novel census of capital-intensive, high-productivity medical investment -- clinical trials. Since 2010, the annual quantity of clinical trials has been constant. By contrast, the quantity of other forms of clinical research has increased substantially. Within clinical trials, there is substantial heterogeneity in productivity. The distribution of this heterogeneity is stable over time.",
+    "pdf_link": "https://arxiv.org/abs/2405.08030",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x5.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x6.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x7.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x8.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x9.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x10.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x11.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x12.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x13.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x14.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x15.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x16.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x17.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x18.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x19.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x20.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x21.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x22.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x23.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x24.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x25.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x26.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x27.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x28.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x29.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08030v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08030/x30.png"
+      }
+    ],
+    "abstract_cn": "各个领域的研究数量激增，但产出并未同步增长，特别是在医学领域，这表明研究正转向低资本、低效率的方向。我们利用精调的开源大型语言模型，创新性地编制了资本密集、高效率的医学投资——临床试验的普查。数据显示，自2010年起，临床试验的数量停滞不前，而其他临床研究的数量却大幅攀升。临床试验内部的生产力差异显著，且这种差异的分布长期保持稳定。",
+    "title_cn": "医学研究：衡量生产力的标尺",
+    "tags": [
+      "LLM应用\n\n这篇论文摘要讨论了使用经过微调的开源大型语言模型来分析医学领域的研究趋势，特别是临床试验的数量和效率。这种方法属于应用大型语言模型（LLM）来解决实际问题，即医学研究的投资和效率分析，因此归类为LLM应用。它并不涉及代理（Agent）、检索增强生成（RAG）或LLM的理论研究，因此不属于其他三个分类。",
+      "医学研究",
+      "临床试验"
+    ]
+  },
+  {
+    "title": "ExplainableDetector: Exploring Transformer-based Language Modeling Approach for SMS Spam Detection with Explainability Analysis",
+    "submit_datetime": "2024年05月12日",
+    "abstract": "SMS, or short messaging service, is a widely used and cost-effective communication medium that has sadly turned into a haven for unwanted messages, commonly known as SMS spam. With the rapid adoption of smartphones and Internet connectivity, SMS spam has emerged as a prevalent threat. Spammers have taken notice of the significance of SMS for mobile phone users. Consequently, with the emergence of new cybersecurity threats, the number of SMS spam has expanded significantly in recent years. The unstructured format of SMS data creates significant challenges for SMS spam detection, making it more difficult to successfully fight spam attacks in the cybersecurity domain. In this work, we employ optimized and fine-tuned transformer-based Large Language Models (LLMs) to solve the problem of spam message detection. We use a benchmark SMS spam dataset for this spam detection and utilize several preprocessing techniques to get clean and noise-free data and solve the class imbalance problem using the text augmentation technique. The overall experiment showed that our optimized fine-tuned BERT (Bidirectional Encoder Representations from Transformers) variant model RoBERTa obtained high accuracy with 99.84\\%. We also work with Explainable Artificial Intelligence (XAI) techniques to calculate the positive and negative coefficient scores which explore and explain the fine-tuned model transparency in this text-based spam SMS detection task. In addition, traditional Machine Learning (ML) models were also examined to compare their performance with the transformer-based models. This analysis describes how LLMs can make a good impact on complex textual-based spam data in the cybersecurity field.",
+    "pdf_link": "https://arxiv.org/abs/2405.08026",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Methodology.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Dataset.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/ImBalanced.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Balanced.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Fine-Tuning.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Explainability.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Imbalanced_loss_and_accuracy.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/accuracy_imbalanced.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Balanced_loss_and_accuracy.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/accuracy_balanced.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Text-1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/LIME-Explanation-Text-First.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Text-2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/LIME-Explanation-Text-Second.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Text-3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/LIME-Explanation-Text-Third.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/Text-4.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/LIME-Explanation-Text-Fourth.jpg"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/interpret-1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/interpret-2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/interpret-3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08026v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08026/interpret-4.png"
+      }
+    ],
+    "abstract_cn": "短消息服务（SMS）曾是一种便捷且经济的沟通方式，如今却沦为垃圾短信的温床。随着智能手机的普及和互联网的连接，垃圾短信已成为普遍的威胁。垃圾邮件发送者看中了SMS在移动通信中的重要性，导致垃圾短信数量激增。SMS数据的无序性给垃圾短信检测带来了挑战，使得在网络安全领域有效打击垃圾短信攻击变得更为复杂。本研究采用经过优化和微调的基于变压器的巨型语言模型（LLMs）来应对这一挑战。我们利用一个标准的SMS垃圾邮件数据集，并通过预处理技术净化数据，同时采用文本增强技术解决类别不平衡问题。实验结果显示，我们微调的BERT变体模型RoBERTa达到了99.84%的高准确率。我们还运用可解释人工智能（XAI）技术，通过正负系数分数揭示模型在文本垃圾短信检测中的透明度。同时，我们对比了传统机器学习模型与基于变压器的模型的性能，展示了LLMs在处理网络安全领域复杂文本垃圾邮件数据方面的潜力。",
+    "title_cn": "可解释性检测器：探究基于Transformer的语言模型在短信垃圾邮件检测中的应用，并结合可解释性分析，以揭示模型决策的内在机制。",
+    "tags": [
+      "LLM应用\n\n这篇论文探讨了如何利用大型语言模型（LLMs），特别是经过优化和微调的基于变压器的模型（如BERT变体模型RoBERTa），来检测和打击垃圾短信。研究集中在SMS数据的处理、预处理技术、文本增强技术以及模型微调上，以提高垃圾短信检测的准确率。此外，论文还涉及了可解释人工智能（XAI）技术的应用，以提高模型的透明度。这些内容表明，该论文属于LLM在实际应用中的一个具体案例，即在网络安全领域中处理垃圾短信问题，因此归类为LLM应用。",
+      "网络安全",
+      "通信\n\n解释：该论文主要讨论了使用优化和微调的巨型语言模型（LLMs）来检测和打击垃圾短信的问题",
+      "这是一个与网络安全紧密相关的话题。同时",
+      "由于垃圾短信是通过短消息服务（SMS）传播的",
+      "因此这也涉及到通信行业。"
     ]
   },
   {
@@ -1427,6 +2382,20 @@
       "Agent\n\n这篇论文介绍了一个创新的系统，即代码表示和执行（CoRE）系统，它利用大型语言模型（LLMs）作为解释器来处理自然语言指令，并构建语言代理。这个系统不仅涉及LLM的应用，还涉及创建一个能够理解和执行自然语言指令的Agent。因此，它更符合Agent分类，而不是RAG（检索增强生成）或LLM理论。虽然它确实涉及LLM的应用，但重点在于创建一个能够执行任务的Agent，而不仅仅是应用LLM技术。",
       "编程语言",
       "人工智能辅助开发"
+    ]
+  },
+  {
+    "title": "Translating Expert Intuition into Quantifiable Features: Encode Investigator Domain Knowledge via LLM for Enhanced Predictive Analytics",
+    "submit_datetime": "2024年05月11日",
+    "abstract": "In the realm of predictive analytics, the nuanced domain knowledge of investigators often remains underutilized, confined largely to subjective interpretations and ad hoc decision-making. This paper explores the potential of Large Language Models (LLMs) to bridge this gap by systematically converting investigator-derived insights into quantifiable, actionable features that enhance model performance. We present a framework that leverages LLMs' natural language understanding capabilities to encode these red flags into a structured feature set that can be readily integrated into existing predictive models. Through a series of case studies, we demonstrate how this approach not only preserves the critical human expertise within the investigative process but also scales the impact of this knowledge across various prediction tasks. The results indicate significant improvements in risk assessment and decision-making accuracy, highlighting the value of blending human experiential knowledge with advanced machine learning techniques. This study paves the way for more sophisticated, knowledge-driven analytics in fields where expert insight is paramount.",
+    "pdf_link": "https://arxiv.org/abs/2405.08017",
+    "graphs": [],
+    "abstract_cn": "在预测分析的世界里，调查专家的深刻见解往往被忽视，仅限于主观判断和即兴决策。本文揭示了大型语言模型（LLMs）的潜力，它们能将这些专家洞察转化为量化特征，提升模型效能。我们提出了一种框架，利用LLMs的强大语言理解力，将这些关键信号转化为结构化特征，无缝融入预测模型。通过多个案例研究，我们展示了这一方法如何不仅保留了人类智慧的核心，还将其影响力扩展至多个预测任务。结果显示，风险评估和决策的准确性大幅提升，凸显了结合人类经验与机器学习技术的价值。这项研究为在专家洞察至关重要的领域中，推动更深层次的知识驱动分析奠定了基础。",
+    "title_cn": "借助 LLM，我们将专家的直觉转化为精确的量化特征，从而将调查员的领域知识融入预测分析，进一步提升其精准度。",
+    "tags": [
+      "Agent\n\n这篇论文探讨了如何利用大型语言模型（LLMs）将专家的深刻见解转化为量化特征，以提升预测模型的效能。它提出了一种框架，该框架利用LLMs的语言理解能力来捕捉和转化专家洞察，使其成为预测模型的一部分。这种方法不仅保留了人类智慧的核心，还扩展了其在多个预测任务中的应用。研究通过案例研究展示了这种方法在提升风险评估和决策准确性方面的有效性，强调了结合人类经验和机器学习技术的价值。因此，这篇论文更符合Agent分类，因为它涉及使用LLMs作为智能代理来处理和转化专家知识，以增强预测分析的能力。",
+      "预测分析",
+      "风险评估"
     ]
   },
   {
@@ -1896,6 +2865,37 @@
       "LLM应用\n\n这篇论文探讨了事件关系抽取（ERE）问题，并提出了一种新的方法——TacoERE，该方法通过文档聚类和信息压缩来提高抽取性能。论文中提到了在RoBERTa、ChatGPT和GPT-4等大型语言模型（LLM）上的实验，这表明论文关注的是LLM在特定NLP任务（即ERE）中的应用。因此，这篇论文应归类为LLM应用。",
       "",
       "事件关系抽取"
+    ]
+  },
+  {
+    "title": "A Survey of Large Language Models for Graphs",
+    "submit_datetime": "2024年05月10日",
+    "abstract": "Graphs are an essential data structure utilized to represent relationships in real-world scenarios. Prior research has established that Graph Neural Networks (GNNs) deliver impressive outcomes in graph-centric tasks, such as link prediction and node classification. Despite these advancements, challenges like data sparsity and limited generalization capabilities continue to persist. Recently, Large Language Models (LLMs) have gained attention in natural language processing. They excel in language comprehension and summarization. Integrating LLMs with graph learning techniques has attracted interest as a way to enhance performance in graph learning tasks. In this survey, we conduct an in-depth review of the latest state-of-the-art LLMs applied in graph learning and introduce a novel taxonomy to categorize existing methods based on their framework design. We detail four unique designs: i) GNNs as Prefix, ii) LLMs as Prefix, iii) LLMs-Graphs Integration, and iv) LLMs-Only, highlighting key methodologies within each category. We explore the strengths and limitations of each framework, and emphasize potential avenues for future research, including overcoming current integration challenges between LLMs and graph learning techniques, and venturing into new application areas. This survey aims to serve as a valuable resource for researchers and practitioners eager to leverage large language models in graph learning, and to inspire continued progress in this dynamic field. We consistently maintain the related open-source materials at \\url{https://github.com/HKUDS/Awesome-LLM4Graph-Papers}.",
+    "pdf_link": "https://arxiv.org/abs/2405.08011",
+    "graphs": [
+      {
+        "url": "https://arxiv.org/html/2405.08011v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08011/x1.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08011v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08011/x2.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08011v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08011/x3.png"
+      },
+      {
+        "url": "https://arxiv.org/html/2405.08011v1",
+        "path": "/opt/data/Projects/HuggingArxiv/paper_images/2405.08011/x4.png"
+      }
+    ],
+    "abstract_cn": "图作为一种基本数据结构，用于描绘现实世界中的关系网络。图神经网络（GNNs）在链接预测和节点分类等任务中取得了显著成就，但数据稀疏性和泛化能力有限等问题依旧存在。大型语言模型（LLMs）在自然语言处理领域崭露头角，尤其在语言理解和摘要方面表现卓越。将LLMs与图学习技术结合，为提升图学习任务性能开辟了新途径。本综述深入探讨了应用于图学习的最新LLMs，并提出了一种新颖的分类法，根据框架设计对现有方法进行分类。我们详细分析了四种独特的设计：GNNs与LLMs的前缀结合、LLMs与图的集成、以及仅使用LLMs的方法，并探讨了各自的优劣。我们强调了未来研究的方向，包括解决LLMs与图学习技术集成的现有挑战，以及探索新的应用领域。本综述旨在为图学习领域的研究者和实践者提供指导，并推动这一领域的持续创新。我们维护的相关开源资源可在\\url{https://github.com/HKUDS/Awesome-LLM4Graph-Papers}获取。",
+    "title_cn": "大型语言模型在图领域的综述",
+    "tags": [
+      "LLM应用\n\n这篇论文摘要讨论了将大型语言模型（LLMs）与图神经网络（GNNs）结合以提升图学习任务性能的潜力。它深入探讨了应用于图学习的最新LLMs，并提出了一种新颖的分类法，根据框架设计对现有方法进行分类。这表明论文关注的是LLMs在实际应用中的使用，特别是在图学习领域的应用，因此属于LLM应用分类。",
+      "图学习",
+      ""
     ]
   },
   {
