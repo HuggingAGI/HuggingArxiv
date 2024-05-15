@@ -1,5 +1,19 @@
 # 2024年05月
 
+2024年05月14日
+
+- [SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure Interpretation](2024年05月14日/SciFIBench_Benchmarking_Large_Multimodal_Models_for_Scientific_Figure_Interpretation.md)
+
+    - [翻译: SciFIBench：大型多模态模型在科学图表解读领域的性能标杆在科学研究中，图表是传达复杂数据和发现的关键工具。SciFIBench 作为一个创新的基准测试平台，旨在评估和推动大型多模态模型在解读科学图表方面的能力，从而为科学界提供更精准、高效的数据解读工具。](2024年05月14日/SciFIBench_Benchmarking_Large_Multimodal_Models_for_Scientific_Figure_Interpretation.md)
+
+- [Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding](2024年05月14日/Hunyuan-DiT_A_Powerful_Multi-Resolution_Diffusion_Transformer_with_Fine-Grained_Chinese_Understanding.md)
+
+    - [翻译: Hunyuan-DiT：一款强大的多分辨率扩散Transformer，专为精细中文理解而设计](2024年05月14日/Hunyuan-DiT_A_Powerful_Multi-Resolution_Diffusion_Transformer_with_Fine-Grained_Chinese_Understanding.md)
+
+- [A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine](2024年05月14日/A_Comprehensive_Survey_of_Large_Language_Models_and_Multimodal_Large_Language_Models_in_Medicine.md)
+
+    - [翻译: 医学领域大型语言模型与多模态模型的全面综述](2024年05月14日/A_Comprehensive_Survey_of_Large_Language_Models_and_Multimodal_Large_Language_Models_in_Medicine.md)
+
 2024年05月13日
 
 - [Prompt-based Code Completion via Multi-Retrieval Augmented Generation](2024年05月13日/Prompt-based_Code_Completion_via_Multi-Retrieval_Augmented_Generation.md)
