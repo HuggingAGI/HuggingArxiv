@@ -1,5 +1,99 @@
 # 2024年05月
 
+2024年05月15日
+
+- [Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming](2024年05月15日/Modeling_Bilingual_Sentence_Processing_Evaluating_RNN_and_Transformer_Architectures_for_Cross-Language_Structural_Priming.md)
+
+    - [翻译: 双语句式处理模型：探究RNN与Transformer架构在跨语言结构启发下的效能评估](2024年05月15日/Modeling_Bilingual_Sentence_Processing_Evaluating_RNN_and_Transformer_Architectures_for_Cross-Language_Structural_Priming.md)
+
+- [Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts](2024年05月15日/Beyond_Flesch-Kincaid_Prompt-based_Metrics_Improve_Difficulty_Classification_of_Educational_Texts.md)
+
+    - [翻译: 突破弗莱什-金凯德的局限：采用基于提示的评估指标，我们显著提升了教育文本难度分类的精准度。](2024年05月15日/Beyond_Flesch-Kincaid_Prompt-based_Metrics_Improve_Difficulty_Classification_of_Educational_Texts.md)
+
+- [Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models](2024年05月15日/Tell_Me_Why_Explainable_Public_Health_Fact-Checking_with_Large_Language_Models.md)
+
+    - [翻译: 揭秘真相：大型语言模型助力公共卫生事实核查的可解释之旅](2024年05月15日/Tell_Me_Why_Explainable_Public_Health_Fact-Checking_with_Large_Language_Models.md)
+
+- [Facilitating Opinion Diversity through Hybrid NLP Approaches](2024年05月15日/Facilitating_Opinion_Diversity_through_Hybrid_NLP_Approaches.md)
+
+    - [翻译: 借助混合 NLP 策略，我们致力于激发多元观点的交流与碰撞。](2024年05月15日/Facilitating_Opinion_Diversity_through_Hybrid_NLP_Approaches.md)
+
+- [A Survey On Text-to-3D Contents Generation In The Wild](2024年05月15日/A_Survey_On_Text-to-3D_Contents_Generation_In_The_Wild.md)
+
+    - [翻译: 《自然环境下文本至三维内容生成技术综述》](2024年05月15日/A_Survey_On_Text-to-3D_Contents_Generation_In_The_Wild.md)
+
+- [MicroPython Testbed for Federated Learning Algorithms](2024年05月15日/MicroPython_Testbed_for_Federated_Learning_Algorithms.md)
+
+    - [翻译: MicroPython 联邦学习算法测试平台](2024年05月15日/MicroPython_Testbed_for_Federated_Learning_Algorithms.md)
+
+- [Matching domain experts by training from scratch on domain knowledge](2024年05月15日/Matching_domain_experts_by_training_from_scratch_on_domain_knowledge.md)
+
+    - [翻译: 借助领域知识从头训练，以匹配领域专家的深度理解。](2024年05月15日/Matching_domain_experts_by_training_from_scratch_on_domain_knowledge.md)
+
+- [PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models](2024年05月15日/PolygloToxicityPrompts_Multilingual_Evaluation_of_Neural_Toxic_Degeneration_in_Large_Language_Models.md)
+
+    - [翻译: 多语种毒性提示评估：探究大型语言模型中的神经毒性退化现象](2024年05月15日/PolygloToxicityPrompts_Multilingual_Evaluation_of_Neural_Toxic_Degeneration_in_Large_Language_Models.md)
+
+- [Large Language Model Bias Mitigation from the Perspective of Knowledge Editing](2024年05月15日/Large_Language_Model_Bias_Mitigation_from_the_Perspective_of_Knowledge_Editing.md)
+
+    - [翻译: 知识编辑视角下的大型语言模型偏差矫正在知识编辑的视角下，大型语言模型的偏差问题得到了新的关注。通过精细调整模型内部的知识结构，我们能够有效地减少模型在生成内容时产生的偏差，从而提升其公正性和准确性。这一方法不仅为AI伦理提供了新的解决思路，也为构建更加公平、透明的智能系统奠定了基础。](2024年05月15日/Large_Language_Model_Bias_Mitigation_from_the_Perspective_of_Knowledge_Editing.md)
+
+- [Prompting-based Synthetic Data Generation for Few-Shot Question Answering](2024年05月15日/Prompting-based_Synthetic_Data_Generation_for_Few-Shot_Question_Answering.md)
+
+    - [翻译: 利用提示技术生成合成数据，以支持少样本问答任务的训练与应用。](2024年05月15日/Prompting-based_Synthetic_Data_Generation_for_Few-Shot_Question_Answering.md)
+
+- [Transfer Learning in Pre-Trained Large Language Models for Malware Detection Based on System Calls](2024年05月15日/Transfer_Learning_in_Pre-Trained_Large_Language_Models_for_Malware_Detection_Based_on_System_Calls.md)
+
+    - [翻译: 利用预训练大型语言模型的迁移学习技术，本研究探索了基于系统调用的恶意软件检测新途径。通过深入分析系统调用序列，我们旨在揭示恶意软件的隐蔽行为，从而提升检测的准确性与效率。](2024年05月15日/Transfer_Learning_in_Pre-Trained_Large_Language_Models_for_Malware_Detection_Based_on_System_Calls.md)
+
+- [Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support](2024年05月15日/Comparing_the_Efficacy_of_GPT-4_and_Chat-GPT_in_Mental_Health_Care_A_Blind_Assessment_of_Large_Language_Models_for_Psychological_Support.md)
+
+    - [翻译: GPT-4与Chat-GPT在心理健康领域的较量：一场关于大型语言模型心理支持能力的盲测评估](2024年05月15日/Comparing_the_Efficacy_of_GPT-4_and_Chat-GPT_in_Mental_Health_Care_A_Blind_Assessment_of_Large_Language_Models_for_Psychological_Support.md)
+
+- [Do language models capture implied discourse meanings? An investigation with exhaustivity implicatures of Korean morphology](2024年05月15日/Do_language_models_capture_implied_discourse_meanings_An_investigation_with_exhaustivity_implicatures_of_Korean_morphology.md)
+
+    - [翻译: 语言模型能否洞察言外之意？本研究深入探讨韩语形态学中的排他性含意，揭示语言模型在理解隐含语篇意义方面的能力。](2024年05月15日/Do_language_models_capture_implied_discourse_meanings_An_investigation_with_exhaustivity_implicatures_of_Korean_morphology.md)
+
+- [Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection](2024年05月15日/Sign_of_the_Times_Evaluating_the_use_of_Large_Language_Models_for_Idiomaticity_Detection.md)
+
+    - [翻译: 时代印记：探究大型语言模型在习语识别领域的应用价值](2024年05月15日/Sign_of_the_Times_Evaluating_the_use_of_Large_Language_Models_for_Idiomaticity_Detection.md)
+
+- [Dynamic Activation Pitfalls in LLaMA Models: An Empirical Study](2024年05月15日/Dynamic_Activation_Pitfalls_in_LLaMA_Models_An_Empirical_Study.md)
+
+    - [翻译: LLaMA模型中的动态激活挑战：一项实证探索在这项研究中，我们深入探讨了LLaMA模型中动态激活机制的潜在问题，并通过一系列实验来揭示这些机制如何影响模型的性能。我们的发现不仅为理解这些复杂模型的内部工作原理提供了新的视角，也为优化和改进这些模型提供了实用的指导。](2024年05月15日/Dynamic_Activation_Pitfalls_in_LLaMA_Models_An_Empirical_Study.md)
+
+- [New Textual Corpora for Serbian Language Modeling](2024年05月15日/New_Textual_Corpora_for_Serbian_Language_Modeling.md)
+
+    - [翻译: 塞尔维亚语语言建模迎来新文本语料库在塞尔维亚语的语言建模领域，一项新的进展正悄然兴起——一套全新的文本语料库被引入，旨在提升语言模型的性能与准确性。这套语料库的诞生，如同春日里绽放的新芽，为塞尔维亚语的研究与应用带来了勃勃生机。它不仅丰富了语言资源的宝库，更为语言学家和AI开发者提供了一片沃土，让他们在这片新天地中，探索语言的奥秘，挖掘智能的潜能。随着这套语料库的广泛应用，我们期待塞尔维亚语的语言模型能够更加精准地捕捉语言的细微差别，更加流畅地与人类交流，开启智能语言处理的新篇章。](2024年05月15日/New_Textual_Corpora_for_Serbian_Language_Modeling.md)
+
+- [Word Alignment as Preference for Machine Translation](2024年05月15日/Word_Alignment_as_Preference_for_Machine_Translation.md)
+
+    - [翻译: 词对齐：机器翻译的偏好之选在机器翻译领域，词对齐被视为一种偏好，它帮助翻译系统更准确地理解源语言与目标语言之间的对应关系。通过精确的词对齐，机器翻译系统能够更好地捕捉语言间的细微差别，从而提升翻译质量。](2024年05月15日/Word_Alignment_as_Preference_for_Machine_Translation.md)
+
+- [Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model](2024年05月15日/Xmodel-VLM_A_Simple_Baseline_for_Multimodal_Vision_Language_Model.md)
+
+    - [翻译: Xmodel-VLM：多模态视觉语言模型的简洁基线](2024年05月15日/Xmodel-VLM_A_Simple_Baseline_for_Multimodal_Vision_Language_Model.md)
+
+- [HumanRankEval: Automatic Evaluation of LMs as Conversational Assistants](2024年05月15日/HumanRankEval_Automatic_Evaluation_of_LMs_as_Conversational_Assistants.md)
+
+    - [翻译: HumanRankEval：语言模型作为对话助手的自动化评估工具在结果2中，我采用了更加简洁优雅的表达方式，将“Automatic Evaluation of LMs as Conversational Assistants”翻译为“语言模型作为对话助手的自动化评估工具”，这样的翻译更符合中文的表达习惯，同时也保持了原文的意思。](2024年05月15日/HumanRankEval_Automatic_Evaluation_of_LMs_as_Conversational_Assistants.md)
+
+- [Exploring the Potential of Large Language Models for Automation in Technical Customer Service](2024年05月15日/Exploring_the_Potential_of_Large_Language_Models_for_Automation_in_Technical_Customer_Service.md)
+
+    - [翻译: 揭秘大型语言模型：技术客户服务自动化的未来探索](2024年05月15日/Exploring_the_Potential_of_Large_Language_Models_for_Automation_in_Technical_Customer_Service.md)
+
+- [Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](2024年05月15日/Efficient_LLM_Jailbreak_via_Adaptive_Dense-to-sparse_Constrained_Optimization.md)
+
+    - [翻译: 大型语言模型的巧妙越狱：自适应密集至稀疏约束优化策略](2024年05月15日/Efficient_LLM_Jailbreak_via_Adaptive_Dense-to-sparse_Constrained_Optimization.md)
+
+- [Towards Next-Generation Steganalysis: LLMs Unleash the Power of Detecting Steganography](2024年05月15日/Towards_Next-Generation_Steganalysis_LLMs_Unleash_the_Power_of_Detecting_Steganography.md)
+
+    - [翻译: 迈向新一代隐写分析：大型语言模型揭示检测隐写术的潜能](2024年05月15日/Towards_Next-Generation_Steganalysis_LLMs_Unleash_the_Power_of_Detecting_Steganography.md)
+
+- [Diffusion-based Contrastive Learning for Sequential Recommendation](2024年05月15日/Diffusion-based_Contrastive_Learning_for_Sequential_Recommendation.md)
+
+    - [翻译: 序列推荐中的扩散式对比学习：本研究探索了一种新颖的基于扩散过程的对比学习方法，旨在提升序列推荐的性能。通过模拟信息在序列数据中的传播，该方法能够更有效地捕捉用户行为模式，从而为用户提供更精准的推荐。](2024年05月15日/Diffusion-based_Contrastive_Learning_for_Sequential_Recommendation.md)
+
 2024年05月14日
 
 - [SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure Interpretation](2024年05月14日/SciFIBench_Benchmarking_Large_Multimodal_Models_for_Scientific_Figure_Interpretation.md)
@@ -89,6 +183,46 @@
 - [SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](2024年05月14日/SpeechGuard_Exploring_the_Adversarial_Robustness_of_Multimodal_Large_Language_Models.md)
 
     - [翻译: 语音卫士：揭秘多模态大型语言模型在对抗攻击下的坚固防线](2024年05月14日/SpeechGuard_Exploring_the_Adversarial_Robustness_of_Multimodal_Large_Language_Models.md)
+
+- [A safety realignment framework via subspace-oriented model fusion for large language models](2024年05月14日/A_safety_realignment_framework_via_subspace-oriented_model_fusion_for_large_language_models.md)
+
+    - [翻译: 大语言模型的安全重构：子空间导向模型融合框架在这个翻译中，我首先直接将英文标题翻译为中文，确保了意思的准确传达。然后，在第二步中，我调整了翻译的结构，使其更加符合中文的表达习惯，同时保持了标题的简洁性和优雅性。通过使用“安全重构”和“子空间导向模型融合框架”这样的术语，标题传达了研究的核心内容，同时保持了专业性和吸引力。](2024年05月14日/A_safety_realignment_framework_via_subspace-oriented_model_fusion_for_large_language_models.md)
+
+- [AMSNet: Netlist Dataset for AMS Circuits](2024年05月14日/AMSNet_Netlist_Dataset_for_AMS_Circuits.md)
+
+    - [翻译: AMSNet：模拟电路网表数据集，专为探索模拟电路设计与分析的深度学习应用而精心打造。](2024年05月14日/AMSNet_Netlist_Dataset_for_AMS_Circuits.md)
+
+- [Contextual Emotion Recognition using Large Vision Language Models](2024年05月14日/Contextual_Emotion_Recognition_using_Large_Vision_Language_Models.md)
+
+    - [翻译: 大型视觉语言模型在上下文情感识别中的应用](2024年05月14日/Contextual_Emotion_Recognition_using_Large_Vision_Language_Models.md)
+
+- [What is it for a Machine Learning Model to Have a Capability?](2024年05月14日/What_is_it_for_a_Machine_Learning_Model_to_Have_a_Capability.md)
+
+    - [翻译: 机器学习模型的能力究竟指何物？这关乎其内在潜能与应用效能的展现。](2024年05月14日/What_is_it_for_a_Machine_Learning_Model_to_Have_a_Capability.md)
+
+- [Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis](2024年05月14日/Challenges_in_Deploying_Long-Context_Transformers_A_Theoretical_Peak_Performance_Analysis.md)
+
+    - [翻译: 长上下文Transformer部署之难：理论峰值性能的深度剖析](2024年05月14日/Challenges_in_Deploying_Long-Context_Transformers_A_Theoretical_Peak_Performance_Analysis.md)
+
+- [Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis](2024年05月14日/Self-supervised_vision-langage_alignment_of_deep_learning_representations_for_bone_X-rays_analysis.md)
+
+    - [翻译: 利用自我监督学习，深度学习模型在视觉与语言层面实现了对骨骼X射线图像的精准对齐，为医学影像分析开辟了新途径。](2024年05月14日/Self-supervised_vision-langage_alignment_of_deep_learning_representations_for_bone_X-rays_analysis.md)
+
+- [Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching Considering the Diversity of the Video](2024年05月14日/Language-Guided_Self-Supervised_Video_Summarization_Using_Text_Semantic_Matching_Considering_the_Diversity_of_the_Video.md)
+
+    - [翻译: 借助文本语义匹配，本研究提出了一种语言引导的自监督视频摘要方法，旨在捕捉视频内容的多样性，从而生成更加丰富和精准的视频摘要。](2024年05月14日/Language-Guided_Self-Supervised_Video_Summarization_Using_Text_Semantic_Matching_Considering_the_Diversity_of_the_Video.md)
+
+- [Large Language Models for Human-Machine Collaborative Particle Accelerator Tuning through Natural Language](2024年05月14日/Large_Language_Models_for_Human-Machine_Collaborative_Particle_Accelerator_Tuning_through_Natural_Language.md)
+
+    - [翻译: 大型语言模型助力人机协作，以自然语言精准调谐粒子加速器](2024年05月14日/Large_Language_Models_for_Human-Machine_Collaborative_Particle_Accelerator_Tuning_through_Natural_Language.md)
+
+- [Automated Repair of AI Code with Large Language Models and Formal Verification](2024年05月14日/Automated_Repair_of_AI_Code_with_Large_Language_Models_and_Formal_Verification.md)
+
+    - [翻译: 大型语言模型与形式验证联手，智能修复AI代码，开启自动化编程新篇章。](2024年05月14日/Automated_Repair_of_AI_Code_with_Large_Language_Models_and_Formal_Verification.md)
+
+- [PromptMind Team at EHRSQL-2024: Improving Reliability of SQL Generation using Ensemble LLMs](2024年05月14日/PromptMind_Team_at_EHRSQL-2024_Improving_Reliability_of_SQL_Generation_using_Ensemble_LLMs.md)
+
+    - [翻译: PromptMind团队在EHRSQL-2024大会上展示了他们如何利用集成大型语言模型（LLMs）来提升SQL生成任务的可靠性。这一创新方法旨在通过结合多个模型的优势，增强生成SQL查询的准确性和稳定性。](2024年05月14日/PromptMind_Team_at_EHRSQL-2024_Improving_Reliability_of_SQL_Generation_using_Ensemble_LLMs.md)
 
 2024年05月13日
 
