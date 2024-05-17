@@ -1,5 +1,43 @@
 # 2024年05月
 
+2024年05月16日
+
+- [Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning](2024年05月16日/Fine-Tuning_Large_Vision-Language_Models_as_Decision-Making_Agents_via_Reinforcement_Learning.md)
+
+    - [翻译: 借助强化学习，微调大型视觉-语言模型，使其化身为智能决策代理](2024年05月16日/Fine-Tuning_Large_Vision-Language_Models_as_Decision-Making_Agents_via_Reinforcement_Learning.md)
+
+- [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](2024年05月16日/When_LLMs_step_into_the_3D_World_A_Survey_and_Meta-Analysis_of_3D_Tasks_via_Multi-modal_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型探索3D世界：多模态大型语言模型在3D任务领域的调查与深度分析](2024年05月16日/When_LLMs_step_into_the_3D_World_A_Survey_and_Meta-Analysis_of_3D_Tasks_via_Multi-modal_Large_Language_Models.md)
+
+- [Speaker Verification in Agent-Generated Conversations](2024年05月16日/Speaker_Verification_in_Agent-Generated_Conversations.md)
+
+    - [翻译: 代理对话中的说话人验证技术在代理生成的对话中，说话人验证技术扮演着至关重要的角色。它不仅确保了对话的真实性和安全性，还提升了用户体验。然而，这项技术的实现面临着多重挑战，包括语音识别的准确性、环境噪声的干扰以及不同说话人声音的相似性。本研究将深入探讨这些挑战，并提出创新的解决方案，以期在代理对话领域推动说话人验证技术的发展。](2024年05月16日/Speaker_Verification_in_Agent-Generated_Conversations.md)
+
+- [Libra: Building Decoupled Vision System on Large Language Models](2024年05月16日/Libra_Building_Decoupled_Vision_System_on_Large_Language_Models.md)
+
+    - [翻译: 天秤座：打造大型语言模型上的视觉系统解耦架构](2024年05月16日/Libra_Building_Decoupled_Vision_System_on_Large_Language_Models.md)
+
+- [Distilling Implicit Multimodal Knowledge into LLMs for Zero-Resource Dialogue Generation](2024年05月16日/Distilling_Implicit_Multimodal_Knowledge_into_LLMs_for_Zero-Resource_Dialogue_Generation.md)
+
+    - [翻译: 提炼隐式多模态智慧，赋能大型语言模型零资源对话生成之旅](2024年05月16日/Distilling_Implicit_Multimodal_Knowledge_into_LLMs_for_Zero-Resource_Dialogue_Generation.md)
+
+- [Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models](2024年05月16日/Listen_Again_and_Choose_the_Right_Answer_A_New_Paradigm_for_Automatic_Speech_Recognition_with_Large_Language_Models.md)
+
+    - [翻译: 重听选答：大型语言模型驱动的新一代自动语音识别技术在这个新范式中，我们提出了一种基于大型语言模型的自动语音识别方法，该方法通过让模型“再次聆听”并自主选择最合适的转录答案，显著提高了识别的准确性和鲁棒性。这种方法不仅充分利用了大型语言模型的强大语义理解能力，还通过引入选择机制，使得模型能够更好地适应复杂的语音环境和多样化的说话风格。](2024年05月16日/Listen_Again_and_Choose_the_Right_Answer_A_New_Paradigm_for_Automatic_Speech_Recognition_with_Large_Language_Models.md)
+
+- [ROCOv2: Radiology Objects in COntext Version 2, an Updated Multimodal Image Dataset](2024年05月16日/ROCOv2_Radiology_Objects_in_COntext_Version_2,_an_Updated_Multimodal_Image_Dataset.md)
+
+    - [翻译: ROCOv2：升级版放射学对象多模态图像数据集，旨在提供更丰富的上下文信息，以促进医学影像领域的研究与应用。](2024年05月16日/ROCOv2_Radiology_Objects_in_COntext_Version_2,_an_Updated_Multimodal_Image_Dataset.md)
+
+- [Adversarial Robustness for Visual Grounding of Multimodal Large Language Models](2024年05月16日/Adversarial_Robustness_for_Visual_Grounding_of_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型的视觉定位需要对抗性鲁棒性的保障。](2024年05月16日/Adversarial_Robustness_for_Visual_Grounding_of_Multimodal_Large_Language_Models.md)
+
+- [Many-Shot In-Context Learning in Multimodal Foundation Models](2024年05月16日/Many-Shot_In-Context_Learning_in_Multimodal_Foundation_Models.md)
+
+    - [翻译: 多模态基础模型中的多重上下文学习探索](2024年05月16日/Many-Shot_In-Context_Learning_in_Multimodal_Foundation_Models.md)
+
 2024年05月15日
 
 - [Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming](2024年05月15日/Modeling_Bilingual_Sentence_Processing_Evaluating_RNN_and_Transformer_Architectures_for_Cross-Language_Structural_Priming.md)
@@ -93,6 +131,10 @@
 - [Diffusion-based Contrastive Learning for Sequential Recommendation](2024年05月15日/Diffusion-based_Contrastive_Learning_for_Sequential_Recommendation.md)
 
     - [翻译: 序列推荐中的扩散式对比学习：本研究探索了一种新颖的基于扩散过程的对比学习方法，旨在提升序列推荐的性能。通过模拟信息在序列数据中的传播，该方法能够更有效地捕捉用户行为模式，从而为用户提供更精准的推荐。](2024年05月15日/Diffusion-based_Contrastive_Learning_for_Sequential_Recommendation.md)
+
+- [When AI Eats Itself: On the Caveats of Data Pollution in the Era of Generative AI](2024年05月15日/When_AI_Eats_Itself_On_the_Caveats_of_Data_Pollution_in_the_Era_of_Generative_AI.md)
+
+    - [翻译: AI自噬之忧：生成式AI时代的数据污染警示](2024年05月15日/When_AI_Eats_Itself_On_the_Caveats_of_Data_Pollution_in_the_Era_of_Generative_AI.md)
 
 2024年05月14日
 
