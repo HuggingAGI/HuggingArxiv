@@ -38,6 +38,110 @@
 
     - [翻译: 多模态基础模型中的多重上下文学习探索](2024年05月16日/Many-Shot_In-Context_Learning_in_Multimodal_Foundation_Models.md)
 
+- [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](2024年05月16日/UniRAG_Universal_Retrieval_Augmentation_for_Multi-Modal_Large_Language_Models.md)
+
+    - [翻译: UniRAG：赋能多模态大语言模型，实现通用检索增强在这项研究中，我们提出了UniRAG，这是一种创新的方法，旨在通过通用检索增强技术来提升多模态大型语言模型的性能。UniRAG不仅能够处理文本信息，还能够整合图像、视频等多种模态的数据，从而在理解和生成任务中展现出更强的能力。我们的方法通过智能检索和整合多源信息，使得模型能够更好地理解复杂的上下文，并在多模态环境中提供更准确的响应。](2024年05月16日/UniRAG_Universal_Retrieval_Augmentation_for_Multi-Modal_Large_Language_Models.md)
+
+- [4D Panoptic Scene Graph Generation](2024年05月16日/4D_Panoptic_Scene_Graph_Generation.md)
+
+    - [翻译: 四维全景场景图构建](2024年05月16日/4D_Panoptic_Scene_Graph_Generation.md)
+
+- [HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models](2024年05月16日/HW-GPT-Bench_Hardware-Aware_Architecture_Benchmark_for_Language_Models.md)
+
+    - [翻译: HW-GPT-Bench：专为语言模型设计的硬件感知架构评测平台解释：在](2024年05月16日/HW-GPT-Bench_Hardware-Aware_Architecture_Benchmark_for_Language_Models.md)
+
+- [Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction](2024年05月16日/Timeline-based_Sentence_Decomposition_with_In-Context_Learning_for_Temporal_Fact_Extraction.md)
+
+    - [翻译: 运用上下文学习的时间线句子分解技术，助力时间事实提取在这项研究中，我们提出了一种新颖的方法，即基于时间线的句子分解结合上下文学习，用于提取文本中的时间相关事实。通过这种方法，我们能够更准确地捕捉和理解文本中的时间信息，从而提高时间事实提取的效率和准确性。](2024年05月16日/Timeline-based_Sentence_Decomposition_with_In-Context_Learning_for_Temporal_Fact_Extraction.md)
+
+- [Revisiting OPRO: The Limitations of Small-Scale LLMs as Optimizers](2024年05月16日/Revisiting_OPRO_The_Limitations_of_Small-Scale_LLMs_as_Optimizers.md)
+
+    - [翻译: 再探OPRO：小规模LLM作为优化器的局限性](2024年05月16日/Revisiting_OPRO_The_Limitations_of_Small-Scale_LLMs_as_Optimizers.md)
+
+- [A Tale of Two Languages: Large-Vocabulary Continuous Sign Language Recognition from Spoken Language Supervision](2024年05月16日/A_Tale_of_Two_Languages_Large-Vocabulary_Continuous_Sign_Language_Recognition_from_Spoken_Language_Supervision.md)
+
+    - [翻译: 双语奇缘：口语监督下的连续手语大词汇识别之旅](2024年05月16日/A_Tale_of_Two_Languages_Large-Vocabulary_Continuous_Sign_Language_Recognition_from_Spoken_Language_Supervision.md)
+
+- [Keep It Private: Unsupervised Privatization of Online Text](2024年05月16日/Keep_It_Private_Unsupervised_Privatization_of_Online_Text.md)
+
+    - [翻译: 守护隐私：在线文本的无监督保密处理](2024年05月16日/Keep_It_Private_Unsupervised_Privatization_of_Online_Text.md)
+
+- [A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks](2024年05月16日/A_Systematic_Evaluation_of_Large_Language_Models_for_Natural_Language_Generation_Tasks.md)
+
+    - [翻译: 大型语言模型在自然语言生成任务上的系统性评估研究](2024年05月16日/A_Systematic_Evaluation_of_Large_Language_Models_for_Natural_Language_Generation_Tasks.md)
+
+- [IntelliExplain: Enhancing Interactive Code Generation through Natural Language Explanations for Non-Professional Programmers](2024年05月16日/IntelliExplain_Enhancing_Interactive_Code_Generation_through_Natural_Language_Explanations_for_Non-Professional_Programmers.md)
+
+    - [翻译: IntelliExplain：为非专业程序员提供自然语言解释，以增强交互式代码生成的智能解释系统](2024年05月16日/IntelliExplain_Enhancing_Interactive_Code_Generation_through_Natural_Language_Explanations_for_Non-Professional_Programmers.md)
+
+- [DocuMint: Docstring Generation for Python using Small Language Models](2024年05月16日/DocuMint_Docstring_Generation_for_Python_using_Small_Language_Models.md)
+
+    - [翻译: DocuMint：小型语言模型助力Python文档字符串生成在这项研究中，我们介绍了DocuMint，一种利用小型语言模型为Python代码生成文档字符串的工具。尽管大型语言模型在自然语言处理任务中表现出色，但小型模型在资源受限的环境中具有显著优势。DocuMint通过精心设计的提示和上下文信息，能够生成准确且信息丰富的文档字符串，从而提高代码的可读性和可维护性。我们的实验结果表明，DocuMint在生成文档字符串方面具有很高的准确性和效率，为Python开发者提供了一个实用的辅助工具。](2024年05月16日/DocuMint_Docstring_Generation_for_Python_using_Small_Language_Models.md)
+
+- [CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations](2024年05月16日/CPsyExam_A_Chinese_Benchmark_for_Evaluating_Psychology_using_Examinations.md)
+
+    - [翻译: CPsyExam：中文心理学评估基准，通过考试精准衡量心理学的应用与理解。](2024年05月16日/CPsyExam_A_Chinese_Benchmark_for_Evaluating_Psychology_using_Examinations.md)
+
+- [LFED: A Literary Fiction Evaluation Dataset for Large Language Models](2024年05月16日/LFED_A_Literary_Fiction_Evaluation_Dataset_for_Large_Language_Models.md)
+
+    - [翻译: LFED：大型语言模型的文学小说评鉴数据集](2024年05月16日/LFED_A_Literary_Fiction_Evaluation_Dataset_for_Large_Language_Models.md)
+
+- [StyloAI: Distinguishing AI-Generated Content with Stylometric Analysis](2024年05月16日/StyloAI_Distinguishing_AI-Generated_Content_with_Stylometric_Analysis.md)
+
+    - [翻译: StyloAI：以文体分析之眼，辨识AI创作之迹](2024年05月16日/StyloAI_Distinguishing_AI-Generated_Content_with_Stylometric_Analysis.md)
+
+- [Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks](2024年05月16日/Generating_Coherent_Sequences_of_Visual_Illustrations_for_Real-World_Manual_Tasks.md)
+
+    - [翻译: 绘制现实世界任务手册的连贯视觉插图序列](2024年05月16日/Generating_Coherent_Sequences_of_Visual_Illustrations_for_Real-World_Manual_Tasks.md)
+
+- [When Large Language Model Meets Optimization](2024年05月16日/When_Large_Language_Model_Meets_Optimization.md)
+
+    - [翻译: 大型语言模型与优化相遇](2024年05月16日/When_Large_Language_Model_Meets_Optimization.md)
+
+- [SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection](2024年05月16日/SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection.md)
+
+    - [翻译: SHiNe：开放词汇对象检测的语义层级纽带在这项研究中，我们提出了SHiNe，一种新颖的框架，旨在通过构建语义层次结构的纽带来提升开放词汇对象检测的能力。SHiNe不仅能够识别已知类别中的对象，还能够通过其层次结构推理机制，对未知类别进行合理的分类和检测。我们的方法通过整合不同层次的语义信息，实现了对复杂场景中对象的更准确理解和分类。通过一系列实验，我们证明了SHiNe在开放词汇对象检测任务中的有效性和优越性。](2024年05月16日/SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection.md)
+
+- [MarkLLM: An Open-Source Toolkit for LLM Watermarking](2024年05月16日/MarkLLM_An_Open-Source_Toolkit_for_LLM_Watermarking.md)
+
+    - [翻译: MarkLLM：大型语言模型水印的开源利器在人工智能的浪潮中，大型语言模型（LLM）如璀璨星辰，引领着智能对话的潮流。然而，星辰虽美，却需标记以辨真伪。MarkLLM，这一开源工具包，便是为LLM添上独特水印的巧匠，确保每一段智能对话的纯净与真实。它不仅是一套工具，更是一把钥匙，解锁了LLM安全与信任的新篇章。](2024年05月16日/MarkLLM_An_Open-Source_Toolkit_for_LLM_Watermarking.md)
+
+- [SynthesizRR: Generating Diverse Datasets with Retrieval Augmentation](2024年05月16日/SynthesizRR_Generating_Diverse_Datasets_with_Retrieval_Augmentation.md)
+
+    - [翻译: SynthesizRR：借助检索增强技术，打造多样化数据集的生成器](2024年05月16日/SynthesizRR_Generating_Diverse_Datasets_with_Retrieval_Augmentation.md)
+
+- [Leveraging Large Language Models for Automated Web-Form-Test Generation: An Empirical Study](2024年05月16日/Leveraging_Large_Language_Models_for_Automated_Web-Form-Test_Generation_An_Empirical_Study.md)
+
+    - [翻译: 大型语言模型助力自动化网页表单测试生成：实证探索之旅在这项研究中，我们探索了如何利用大型语言模型（LLMs）的强大能力，自动化生成网页表单测试。通过一系列实证分析，我们揭示了LLMs在提高测试效率和准确性方面的潜力，为软件测试领域带来了新的视角和可能性。](2024年05月16日/Leveraging_Large_Language_Models_for_Automated_Web-Form-Test_Generation_An_Empirical_Study.md)
+
+- [SciQAG: A Framework for Auto-Generated Scientific Question Answering Dataset with Fine-grained Evaluation](2024年05月16日/SciQAG_A_Framework_for_Auto-Generated_Scientific_Question_Answering_Dataset_with_Fine-grained_Evaluation.md)
+
+    - [翻译: SciQAG：细粒度评估下的自动生成科学问答数据集框架在](2024年05月16日/SciQAG_A_Framework_for_Auto-Generated_Scientific_Question_Answering_Dataset_with_Fine-grained_Evaluation.md)
+
+- ["Hunt Takes Hare": Theming Games Through Game-Word Vector Translation](2024年05月16日/Hunt_Takes_Hare_Theming_Games_Through_Game-Word_Vector_Translation.md)
+
+    - [翻译: “猎兔行动”：运用游戏与词向量翻译的艺术，为游戏注入独特主题。](2024年05月16日/Hunt_Takes_Hare_Theming_Games_Through_Game-Word_Vector_Translation.md)
+
+- [Rethinking Multi-User Semantic Communications with Deep Generative Models](2024年05月16日/Rethinking_Multi-User_Semantic_Communications_with_Deep_Generative_Models.md)
+
+    - [翻译: 深度生成模型下的多用户语义通信再探在深度生成模型的引领下，我们对多用户语义通信的认知正经历一场深刻的反思。这一领域的发展，不仅拓宽了通信技术的边界，更在多用户交互的语义层面上，开启了全新的探索之旅。](2024年05月16日/Rethinking_Multi-User_Semantic_Communications_with_Deep_Generative_Models.md)
+
+- [IGOT: Information Gain Optimized Tokenizer on Domain Adaptive Pretraining](2024年05月16日/IGOT_Information_Gain_Optimized_Tokenizer_on_Domain_Adaptive_Pretraining.md)
+
+    - [翻译: IGOT：领域自适应预训练中的信息增益优化分词器在这项研究中，我们提出了IGOT，一种新颖的分词器，它通过最大化信息增益来优化领域自适应预训练过程。IGOT不仅提高了模型在特定领域任务上的性能，还增强了模型对领域内语言特性的捕捉能力。通过实验验证，IGOT在多个领域适应场景中均展现出了显著的性能提升。](2024年05月16日/IGOT_Information_Gain_Optimized_Tokenizer_on_Domain_Adaptive_Pretraining.md)
+
+- [SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks](2024年05月16日/SEEK_Semantic_Reasoning_for_Object_Goal_Navigation_in_Real_World_Inspection_Tasks.md)
+
+    - [翻译: 探索语义推理：在现实世界的检查任务中，引领物体目标导航的新篇章在这项研究中，我们探索了语义推理在现实世界检查任务中对物体目标导航的作用。通过深入分析，我们揭示了语义推理如何帮助智能体在复杂环境中精准定位目标物体，从而提高导航效率和准确性。这一发现为智能导航技术的发展开辟了新的道路，预示着未来在各种检查任务中，智能体将能够更加智能、高效地完成任务。](2024年05月16日/SEEK_Semantic_Reasoning_for_Object_Goal_Navigation_in_Real_World_Inspection_Tasks.md)
+
+- [Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis](2024年05月16日/Semantic_Gesticulator_Semantics-Aware_Co-Speech_Gesture_Synthesis.md)
+
+    - [翻译: 语义手势创造者：融合语义的共语手势生成艺术](2024年05月16日/Semantic_Gesticulator_Semantics-Aware_Co-Speech_Gesture_Synthesis.md)
+
+- [FinTextQA: A Dataset for Long-form Financial Question Answering](2024年05月16日/FinTextQA_A_Dataset_for_Long-form_Financial_Question_Answering.md)
+
+    - [翻译: FinTextQA：长篇金融问答的全新数据集，旨在深入探索金融领域的复杂问题解答。](2024年05月16日/FinTextQA_A_Dataset_for_Long-form_Financial_Question_Answering.md)
+
 2024年05月15日
 
 - [Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming](2024年05月15日/Modeling_Bilingual_Sentence_Processing_Evaluating_RNN_and_Transformer_Architectures_for_Cross-Language_Structural_Priming.md)
@@ -135,6 +239,50 @@
 - [When AI Eats Itself: On the Caveats of Data Pollution in the Era of Generative AI](2024年05月15日/When_AI_Eats_Itself_On_the_Caveats_of_Data_Pollution_in_the_Era_of_Generative_AI.md)
 
     - [翻译: AI自噬之忧：生成式AI时代的数据污染警示](2024年05月15日/When_AI_Eats_Itself_On_the_Caveats_of_Data_Pollution_in_the_Era_of_Generative_AI.md)
+
+- [Synthesizing Proteins on the Graphics Card. Protein Folding and the Limits of Critical AI Studies](2024年05月15日/Synthesizing_Proteins_on_the_Graphics_Card._Protein_Folding_and_the_Limits_of_Critical_AI_Studies.md)
+
+    - [翻译: 图形卡上的蛋白质合成：探索蛋白质折叠与人工智能研究的关键极限。](2024年05月15日/Synthesizing_Proteins_on_the_Graphics_Card._Protein_Folding_and_the_Limits_of_Critical_AI_Studies.md)
+
+- [LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery](2024年05月15日/LLM_and_Simulation_as_Bilevel_Optimizers_A_New_Paradigm_to_Advance_Physical_Scientific_Discovery.md)
+
+    - [翻译: 大型语言模型与模拟技术联手，成为双层优化的新引擎，引领物理科学探索迈入创新纪元。](2024年05月15日/LLM_and_Simulation_as_Bilevel_Optimizers_A_New_Paradigm_to_Advance_Physical_Scientific_Discovery.md)
+
+- [Harmonizing Generalization and Personalization in Federated Prompt Learning](2024年05月15日/Harmonizing_Generalization_and_Personalization_in_Federated_Prompt_Learning.md)
+
+    - [翻译: 在联邦提示学习中，我们致力于平衡模型的泛化能力与个性化需求，以实现更高效的学习策略。](2024年05月15日/Harmonizing_Generalization_and_Personalization_in_Federated_Prompt_Learning.md)
+
+- [Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3)](2024年05月15日/Optimization_Techniques_for_Sentiment_Analysis_Based_on_LLM_(GPT-3).md)
+
+    - [翻译: GPT-3驱动下的情感分析：优化技术探秘在人工智能的浪潮中，GPT-3如一颗璀璨的星辰，以其强大的语言模型能力引领着情感分析的航向。然而，如何在这片星海中航行得更远、更精准，成为了我们探索的焦点。本文将深入探讨基于GPT-3的情感分析优化技术，旨在揭示那些隐藏在数据海洋中的情感波澜，让我们的分析之舟乘风破浪，直达情感的彼岸。](2024年05月15日/Optimization_Techniques_for_Sentiment_Analysis_Based_on_LLM_(GPT-3).md)
+
+- [Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model](2024年05月15日/Evaluating_Text-to-Speech_Synthesis_from_a_Large_Discrete_Token-based_Speech_Language_Model.md)
+
+    - [翻译: 大型离散令牌语音语言模型的文本转语音合成评估](2024年05月15日/Evaluating_Text-to-Speech_Synthesis_from_a_Large_Discrete_Token-based_Speech_Language_Model.md)
+
+- [NIFTY Financial News Headlines Dataset](2024年05月15日/NIFTY_Financial_News_Headlines_Dataset.md)
+
+    - [翻译: NIFTY财经新闻头条数据集解释：在](2024年05月15日/NIFTY_Financial_News_Headlines_Dataset.md)
+
+- [Spectral Editing of Activations for Large Language Model Alignment](2024年05月15日/Spectral_Editing_of_Activations_for_Large_Language_Model_Alignment.md)
+
+    - [翻译: 大型语言模型的激活光谱编辑对齐技术](2024年05月15日/Spectral_Editing_of_Activations_for_Large_Language_Model_Alignment.md)
+
+- [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](2024年05月15日/SOK-Bench_A_Situated_Video_Reasoning_Benchmark_with_Aligned_Open-World_Knowledge.md)
+
+    - [翻译: SOK-Bench：融合开放世界知识的情境视频推理新基准在这个翻译中，我保留了原英文标题的核心概念“Situated Video Reasoning Benchmark”和“Aligned Open-World Knowledge”，同时通过调整语序和用词，使得中文标题更加符合中文表达习惯，简洁而富有吸引力。](2024年05月15日/SOK-Bench_A_Situated_Video_Reasoning_Benchmark_with_Aligned_Open-World_Knowledge.md)
+
+- [Simulating Policy Impacts: Developing a Generative Scenario Writing Method to Evaluate the Perceived Effects of Regulation](2024年05月15日/Simulating_Policy_Impacts_Developing_a_Generative_Scenario_Writing_Method_to_Evaluate_the_Perceived_Effects_of_Regulation.md)
+
+    - [翻译: 政策影响模拟：创新生成式情景写作，洞察法规效应。本研究旨在通过构建情景，深入评估法规对公众感知的实际影响。](2024年05月15日/Simulating_Policy_Impacts_Developing_a_Generative_Scenario_Writing_Method_to_Evaluate_the_Perceived_Effects_of_Regulation.md)
+
+- [LoRA Learns Less and Forgets Less](2024年05月15日/LoRA_Learns_Less_and_Forgets_Less.md)
+
+    - [翻译: LoRA 模型以其高效的学习和记忆保持能力著称，它学得精简，忘得缓慢。](2024年05月15日/LoRA_Learns_Less_and_Forgets_Less.md)
+
+- [Elements of World Knowledge (EWOK): A cognition-inspired framework for evaluating basic world knowledge in language models](2024年05月15日/Elements_of_World_Knowledge_(EWOK)_A_cognition-inspired_framework_for_evaluating_basic_world_knowledge_in_language_models.md)
+
+    - [翻译: 认知启发的世界知识元素（EWOK）框架，专为评估语言模型中的基础世界知识而设计。](2024年05月15日/Elements_of_World_Knowledge_(EWOK)_A_cognition-inspired_framework_for_evaluating_basic_world_knowledge_in_language_models.md)
 
 2024年05月14日
 
@@ -1109,6 +1257,10 @@
 - [LLM-Augmented Agent-Based Modelling for Social Simulations: Challenges and Opportunities](2024年05月08日/LLM-Augmented_Agent-Based_Modelling_for_Social_Simulations_Challenges_and_Opportunities.md)
 
     - [翻译: 大型语言模型赋能的代理建模在社交模拟中的探索：挑战与新机遇在大型语言模型的助力下，基于代理的建模技术在社交模拟领域展现出新的挑战与机遇。这种结合不仅为模拟复杂社会动态提供了更强大的工具，也开启了探索人类行为与社会结构的新篇章。然而，这一领域的深入发展仍需面对模型复杂性、数据准确性以及伦理考量等多重挑战。](2024年05月08日/LLM-Augmented_Agent-Based_Modelling_for_Social_Simulations_Challenges_and_Opportunities.md)
+
+- [Optimizing Tensor Contraction Paths: A Greedy Algorithm Approach With Improved Cost Functions](2024年05月08日/Optimizing_Tensor_Contraction_Paths_A_Greedy_Algorithm_Approach_With_Improved_Cost_Functions.md)
+
+    - [翻译: 张量收缩路径优化：贪婪算法结合精进成本函数的新途径在这项研究中，我们提出了一种基于贪婪算法的优化方法，旨在寻找张量收缩操作的最优路径。通过引入一系列改进的成本函数，我们的方法能够在计算复杂度与性能之间找到平衡点，从而在处理大规模张量网络时提高效率。这种方法不仅适用于量子计算和机器学习领域，也为其他需要高效张量操作的科学计算问题提供了新的解决方案。](2024年05月08日/Optimizing_Tensor_Contraction_Paths_A_Greedy_Algorithm_Approach_With_Improved_Cost_Functions.md)
 
 2024年05月07日
 
