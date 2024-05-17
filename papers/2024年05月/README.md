@@ -136,11 +136,11 @@
 
 - [Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis](2024年05月16日/Semantic_Gesticulator_Semantics-Aware_Co-Speech_Gesture_Synthesis.md)
 
-    - [翻译: 语义手势创造者：融合语义的共语手势生成艺术](2024年05月16日/Semantic_Gesticulator_Semantics-Aware_Co-Speech_Gesture_Synthesis.md)
+    - [翻译: 语义手势者：一种能够感知语义并同步生成语言手势的系统](2024年05月16日/Semantic_Gesticulator_Semantics-Aware_Co-Speech_Gesture_Synthesis.md)
 
 - [FinTextQA: A Dataset for Long-form Financial Question Answering](2024年05月16日/FinTextQA_A_Dataset_for_Long-form_Financial_Question_Answering.md)
 
-    - [翻译: FinTextQA：长篇金融问答的全新数据集，旨在深入探索金融领域的复杂问题解答。](2024年05月16日/FinTextQA_A_Dataset_for_Long-form_Financial_Question_Answering.md)
+    - [翻译: FinTextQA：专为长篇金融问答而设计的数据集在这个翻译过程中，我首先直接将英文标题翻译为中文，确保了意思的准确传达。然后，我对直译的中文进行了优化，使其更加符合中文的语言表达习惯，同时保持了简洁和优雅的风格。](2024年05月16日/FinTextQA_A_Dataset_for_Long-form_Financial_Question_Answering.md)
 
 2024年05月15日
 
@@ -242,23 +242,23 @@
 
 - [Synthesizing Proteins on the Graphics Card. Protein Folding and the Limits of Critical AI Studies](2024年05月15日/Synthesizing_Proteins_on_the_Graphics_Card._Protein_Folding_and_the_Limits_of_Critical_AI_Studies.md)
 
-    - [翻译: 图形卡上的蛋白质合成：探索蛋白质折叠与人工智能研究的关键极限。](2024年05月15日/Synthesizing_Proteins_on_the_Graphics_Card._Protein_Folding_and_the_Limits_of_Critical_AI_Studies.md)
+    - [翻译: 图形卡上的蛋白质合成：探索蛋白质折叠与人工智能研究的关键极限。本文将深入探讨利用图形处理单元（GPU）进行蛋白质合成的潜力，以及这一过程如何挑战我们对人工智能在生物科学领域应用的理解。](2024年05月15日/Synthesizing_Proteins_on_the_Graphics_Card._Protein_Folding_and_the_Limits_of_Critical_AI_Studies.md)
 
 - [LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery](2024年05月15日/LLM_and_Simulation_as_Bilevel_Optimizers_A_New_Paradigm_to_Advance_Physical_Scientific_Discovery.md)
 
-    - [翻译: 大型语言模型与模拟技术联手，成为双层优化的新引擎，引领物理科学探索迈入创新纪元。](2024年05月15日/LLM_and_Simulation_as_Bilevel_Optimizers_A_New_Paradigm_to_Advance_Physical_Scientific_Discovery.md)
+    - [翻译: 大型语言模型与模拟携手，成为双层优化的新引擎，正开启物理科学探索的崭新篇章。](2024年05月15日/LLM_and_Simulation_as_Bilevel_Optimizers_A_New_Paradigm_to_Advance_Physical_Scientific_Discovery.md)
 
 - [Harmonizing Generalization and Personalization in Federated Prompt Learning](2024年05月15日/Harmonizing_Generalization_and_Personalization_in_Federated_Prompt_Learning.md)
 
-    - [翻译: 在联邦提示学习中，我们致力于平衡模型的泛化能力与个性化需求，以实现更高效的学习策略。](2024年05月15日/Harmonizing_Generalization_and_Personalization_in_Federated_Prompt_Learning.md)
+    - [翻译: 在联邦提示学习中寻求泛化与个性化的和谐共舞](2024年05月15日/Harmonizing_Generalization_and_Personalization_in_Federated_Prompt_Learning.md)
 
 - [Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3)](2024年05月15日/Optimization_Techniques_for_Sentiment_Analysis_Based_on_LLM_(GPT-3).md)
 
-    - [翻译: GPT-3驱动下的情感分析：优化技术探秘在人工智能的浪潮中，GPT-3如一颗璀璨的星辰，以其强大的语言模型能力引领着情感分析的航向。然而，如何在这片星海中航行得更远、更精准，成为了我们探索的焦点。本文将深入探讨基于GPT-3的情感分析优化技术，旨在揭示那些隐藏在数据海洋中的情感波澜，让我们的分析之舟乘风破浪，直达情感的彼岸。](2024年05月15日/Optimization_Techniques_for_Sentiment_Analysis_Based_on_LLM_(GPT-3).md)
+    - [翻译: 大型语言模型（GPT-3）情感分析的精进之道](2024年05月15日/Optimization_Techniques_for_Sentiment_Analysis_Based_on_LLM_(GPT-3).md)
 
 - [Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model](2024年05月15日/Evaluating_Text-to-Speech_Synthesis_from_a_Large_Discrete_Token-based_Speech_Language_Model.md)
 
-    - [翻译: 大型离散令牌语音语言模型的文本转语音合成评估](2024年05月15日/Evaluating_Text-to-Speech_Synthesis_from_a_Large_Discrete_Token-based_Speech_Language_Model.md)
+    - [翻译: 评测大型离散令牌语音模型下的文本转语音合成技术](2024年05月15日/Evaluating_Text-to-Speech_Synthesis_from_a_Large_Discrete_Token-based_Speech_Language_Model.md)
 
 - [NIFTY Financial News Headlines Dataset](2024年05月15日/NIFTY_Financial_News_Headlines_Dataset.md)
 
@@ -266,23 +266,23 @@
 
 - [Spectral Editing of Activations for Large Language Model Alignment](2024年05月15日/Spectral_Editing_of_Activations_for_Large_Language_Model_Alignment.md)
 
-    - [翻译: 大型语言模型的激活光谱编辑对齐技术](2024年05月15日/Spectral_Editing_of_Activations_for_Large_Language_Model_Alignment.md)
+    - [翻译: 大型语言模型的激活光谱编辑：对齐之道](2024年05月15日/Spectral_Editing_of_Activations_for_Large_Language_Model_Alignment.md)
 
 - [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](2024年05月15日/SOK-Bench_A_Situated_Video_Reasoning_Benchmark_with_Aligned_Open-World_Knowledge.md)
 
-    - [翻译: SOK-Bench：融合开放世界知识的情境视频推理新基准在这个翻译中，我保留了原英文标题的核心概念“Situated Video Reasoning Benchmark”和“Aligned Open-World Knowledge”，同时通过调整语序和用词，使得中文标题更加符合中文表达习惯，简洁而富有吸引力。](2024年05月15日/SOK-Bench_A_Situated_Video_Reasoning_Benchmark_with_Aligned_Open-World_Knowledge.md)
+    - [翻译: SOK-Bench：融合开放世界知识的情景视频推理新标杆](2024年05月15日/SOK-Bench_A_Situated_Video_Reasoning_Benchmark_with_Aligned_Open-World_Knowledge.md)
 
 - [Simulating Policy Impacts: Developing a Generative Scenario Writing Method to Evaluate the Perceived Effects of Regulation](2024年05月15日/Simulating_Policy_Impacts_Developing_a_Generative_Scenario_Writing_Method_to_Evaluate_the_Perceived_Effects_of_Regulation.md)
 
-    - [翻译: 政策影响模拟：创新生成式情景写作，洞察法规效应。本研究旨在通过构建情景，深入评估法规对公众感知的实际影响。](2024年05月15日/Simulating_Policy_Impacts_Developing_a_Generative_Scenario_Writing_Method_to_Evaluate_the_Perceived_Effects_of_Regulation.md)
+    - [翻译: 政策效应模拟：创新生成式情景写作法，深度洞察法规影响](2024年05月15日/Simulating_Policy_Impacts_Developing_a_Generative_Scenario_Writing_Method_to_Evaluate_the_Perceived_Effects_of_Regulation.md)
 
 - [LoRA Learns Less and Forgets Less](2024年05月15日/LoRA_Learns_Less_and_Forgets_Less.md)
 
-    - [翻译: LoRA 模型以其高效的学习和记忆保持能力著称，它学得精简，忘得缓慢。](2024年05月15日/LoRA_Learns_Less_and_Forgets_Less.md)
+    - [翻译: LoRA 精简学习，记忆更牢](2024年05月15日/LoRA_Learns_Less_and_Forgets_Less.md)
 
 - [Elements of World Knowledge (EWOK): A cognition-inspired framework for evaluating basic world knowledge in language models](2024年05月15日/Elements_of_World_Knowledge_(EWOK)_A_cognition-inspired_framework_for_evaluating_basic_world_knowledge_in_language_models.md)
 
-    - [翻译: 认知启发的世界知识元素（EWOK）框架，专为评估语言模型中的基础世界知识而设计。](2024年05月15日/Elements_of_World_Knowledge_(EWOK)_A_cognition-inspired_framework_for_evaluating_basic_world_knowledge_in_language_models.md)
+    - [翻译: 认知启发的世界知识元素（EWOK）框架，专为评估语言模型中基础世界知识的掌握程度而设计。](2024年05月15日/Elements_of_World_Knowledge_(EWOK)_A_cognition-inspired_framework_for_evaluating_basic_world_knowledge_in_language_models.md)
 
 2024年05月14日
 
@@ -1260,7 +1260,7 @@
 
 - [Optimizing Tensor Contraction Paths: A Greedy Algorithm Approach With Improved Cost Functions](2024年05月08日/Optimizing_Tensor_Contraction_Paths_A_Greedy_Algorithm_Approach_With_Improved_Cost_Functions.md)
 
-    - [翻译: 张量收缩路径优化：贪婪算法结合精进成本函数的新途径在这项研究中，我们提出了一种基于贪婪算法的优化方法，旨在寻找张量收缩操作的最优路径。通过引入一系列改进的成本函数，我们的方法能够在计算复杂度与性能之间找到平衡点，从而在处理大规模张量网络时提高效率。这种方法不仅适用于量子计算和机器学习领域，也为其他需要高效张量操作的科学计算问题提供了新的解决方案。](2024年05月08日/Optimizing_Tensor_Contraction_Paths_A_Greedy_Algorithm_Approach_With_Improved_Cost_Functions.md)
+    - [翻译: 张量收缩路径的优化：贪婪算法与精进成本函数的双重奏](2024年05月08日/Optimizing_Tensor_Contraction_Paths_A_Greedy_Algorithm_Approach_With_Improved_Cost_Functions.md)
 
 2024年05月07日
 
