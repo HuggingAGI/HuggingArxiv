@@ -112,19 +112,19 @@
 
 - [Benchmarking Large Language Models on CFLUE -- A Chinese Financial Language Understanding Evaluation Dataset](2024年05月17日/Benchmarking_Large_Language_Models_on_CFLUE_--_A_Chinese_Financial_Language_Understanding_Evaluation_Dataset.md)
 
-    - [翻译: ](2024年05月17日/Benchmarking_Large_Language_Models_on_CFLUE_--_A_Chinese_Financial_Language_Understanding_Evaluation_Dataset.md)
+    - [翻译: 大型语言模型在中文金融语言理解评估数据集CFLUE上的性能基准测试。](2024年05月17日/Benchmarking_Large_Language_Models_on_CFLUE_--_A_Chinese_Financial_Language_Understanding_Evaluation_Dataset.md)
 
 - [Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors](2024年05月17日/Safeguarding_Vision-Language_Models_Against_Patched_Visual_Prompt_Injectors.md)
 
-    - [翻译: ](2024年05月17日/Safeguarding_Vision-Language_Models_Against_Patched_Visual_Prompt_Injectors.md)
+    - [翻译: 防御视觉-语言模型，抵御补丁式视觉提示注入威胁](2024年05月17日/Safeguarding_Vision-Language_Models_Against_Patched_Visual_Prompt_Injectors.md)
 
 - [Smart Expert System: Large Language Models as Text Classifiers](2024年05月17日/Smart_Expert_System_Large_Language_Models_as_Text_Classifiers.md)
 
-    - [翻译: ](2024年05月17日/Smart_Expert_System_Large_Language_Models_as_Text_Classifiers.md)
+    - [翻译: 智能专家系统：利用大型语言模型进行文本分类](2024年05月17日/Smart_Expert_System_Large_Language_Models_as_Text_Classifiers.md)
 
 - [A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model](2024年05月17日/A_Versatile_Framework_for_Analyzing_Galaxy_Image_Data_by_Implanting_Human-in-the-loop_on_a_Large_Vision_Model.md)
 
-    - [翻译: ](2024年05月17日/A_Versatile_Framework_for_Analyzing_Galaxy_Image_Data_by_Implanting_Human-in-the-loop_on_a_Large_Vision_Model.md)
+    - [翻译: 本研究提出了一种灵活的框架，通过在大规模视觉模型中引入人机交互，以分析星系图像数据。](2024年05月17日/A_Versatile_Framework_for_Analyzing_Galaxy_Image_Data_by_Implanting_Human-in-the-loop_on_a_Large_Vision_Model.md)
 
 2024年05月16日
 
@@ -270,35 +270,35 @@
 
 - [Language Models can Evaluate Themselves via Probability Discrepancy](2024年05月16日/Language_Models_can_Evaluate_Themselves_via_Probability_Discrepancy.md)
 
-    - [翻译: ](2024年05月16日/Language_Models_can_Evaluate_Themselves_via_Probability_Discrepancy.md)
+    - [翻译: 语言模型利用概率差异进行自我评估。](2024年05月16日/Language_Models_can_Evaluate_Themselves_via_Probability_Discrepancy.md)
 
 - [Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers](2024年05月16日/Lean_Attention_Hardware-Aware_Scalable_Attention_Mechanism_for_the_Decode-Phase_of_Transformers.md)
 
-    - [翻译: ](2024年05月16日/Lean_Attention_Hardware-Aware_Scalable_Attention_Mechanism_for_the_Decode-Phase_of_Transformers.md)
+    - [翻译: 精益注意力：Transformer解码阶段中，一种兼顾硬件性能的可扩展注意力机制](2024年05月16日/Lean_Attention_Hardware-Aware_Scalable_Attention_Mechanism_for_the_Decode-Phase_of_Transformers.md)
 
 - [Rethinking ChatGPT's Success: Usability and Cognitive Behaviors Enabled by Auto-regressive LLMs' Prompting](2024年05月16日/Rethinking_ChatGPT's_Success_Usability_and_Cognitive_Behaviors_Enabled_by_Auto-regressive_LLMs'_Prompting.md)
 
-    - [翻译: ](2024年05月16日/Rethinking_ChatGPT's_Success_Usability_and_Cognitive_Behaviors_Enabled_by_Auto-regressive_LLMs'_Prompting.md)
+    - [翻译: 反思 ChatGPT 的成功：自回归 LLM 提示技术如何激发可用性与认知行为](2024年05月16日/Rethinking_ChatGPT's_Success_Usability_and_Cognitive_Behaviors_Enabled_by_Auto-regressive_LLMs'_Prompting.md)
 
 - [Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction](2024年05月16日/Dynamic_In-context_Learning_with_Conversational_Models_for_Data_Extraction_and_Materials_Property_Prediction.md)
 
-    - [翻译: ](2024年05月16日/Dynamic_In-context_Learning_with_Conversational_Models_for_Data_Extraction_and_Materials_Property_Prediction.md)
+    - [翻译: 对话模型中的动态上下文学习：数据提取与材料属性预测的新途径](2024年05月16日/Dynamic_In-context_Learning_with_Conversational_Models_for_Data_Extraction_and_Materials_Property_Prediction.md)
 
 - [Simultaneous Masking, Not Prompting Optimization: A Paradigm Shift in Fine-tuning LLMs for Simultaneous Translation](2024年05月16日/Simultaneous_Masking,_Not_Prompting_Optimization_A_Paradigm_Shift_in_Fine-tuning_LLMs_for_Simultaneous_Translation.md)
 
-    - [翻译: ](2024年05月16日/Simultaneous_Masking,_Not_Prompting_Optimization_A_Paradigm_Shift_in_Fine-tuning_LLMs_for_Simultaneous_Translation.md)
+    - [翻译: 掩蔽而非优化提示：微调 LLMs 进行同时翻译的新范式](2024年05月16日/Simultaneous_Masking,_Not_Prompting_Optimization_A_Paradigm_Shift_in_Fine-tuning_LLMs_for_Simultaneous_Translation.md)
 
 - [Retrieving and Refining: A Hybrid Framework with Large Language Models for Rare Disease Identification](2024年05月16日/Retrieving_and_Refining_A_Hybrid_Framework_with_Large_Language_Models_for_Rare_Disease_Identification.md)
 
-    - [翻译: ](2024年05月16日/Retrieving_and_Refining_A_Hybrid_Framework_with_Large_Language_Models_for_Rare_Disease_Identification.md)
+    - [翻译: 检索与精炼：大型语言模型助力罕见疾病识别的混合框架](2024年05月16日/Retrieving_and_Refining_A_Hybrid_Framework_with_Large_Language_Models_for_Rare_Disease_Identification.md)
 
 - [Grounded 3D-LLM with Referent Tokens](2024年05月16日/Grounded_3D-LLM_with_Referent_Tokens.md)
 
-    - [翻译: ](2024年05月16日/Grounded_3D-LLM_with_Referent_Tokens.md)
+    - [翻译: 基于参照令牌的3D语言模型接地化](2024年05月16日/Grounded_3D-LLM_with_Referent_Tokens.md)
 
 - [SMP Challenge: An Overview and Analysis of Social Media Prediction Challenge](2024年05月16日/SMP_Challenge_An_Overview_and_Analysis_of_Social_Media_Prediction_Challenge.md)
 
-    - [翻译: ](2024年05月16日/SMP_Challenge_An_Overview_and_Analysis_of_Social_Media_Prediction_Challenge.md)
+    - [翻译: 社交媒体预测挑战综述与分析：探索SMP挑战的深度与广度。](2024年05月16日/SMP_Challenge_An_Overview_and_Analysis_of_Social_Media_Prediction_Challenge.md)
 
 2024年05月15日
 
