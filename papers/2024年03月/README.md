@@ -14,6 +14,10 @@
 
     - [翻译: 解开纠结：借助大型语言模型（LLM）之力，为计算型笔记本中的错误解析提供解决方案。](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
 
+- [Multimodal CLIP Inference for Meta-Few-Shot Image Classification](2024年03月26日/Multimodal_CLIP_Inference_for_Meta-Few-Shot_Image_Classification.md)
+
+    - [翻译: 利用多模态CLIP推理进行元少样本图像分类研究](2024年03月26日/Multimodal_CLIP_Inference_for_Meta-Few-Shot_Image_Classification.md)
+
 2024年03月25日
 
 - [Generation of Asset Administration Shell with Large Language Model Agents: Interoperability in Digital Twins with Semantic Node](2024年03月25日/Generation_of_Asset_Administration_Shell_with_Large_Language_Model_Agents_Interoperability_in_Digital_Twins_with_Semantic_Node.md)
@@ -47,6 +51,10 @@
 - [CACA Agent: Capability Collaboration based AI Agent](2024年03月22日/CACA_Agent_Capability_Collaboration_based_AI_Agent.md)
 
     - [翻译: CACA 智能代理：一种依托能力协同的人工智能代理](2024年03月22日/CACA_Agent_Capability_Collaboration_based_AI_Agent.md)
+
+- [Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery](2024年03月22日/Surgical-LVLM_Learning_to_Adapt_Large_Vision-Language_Model_for_Grounded_Visual_Question_Answering_in_Robotic_Surgery.md)
+
+    - [翻译: Surgical-LVLM：掌握大型视觉-语言模型，为机器人手术中的视觉问答任务提供精准适应性](2024年03月22日/Surgical-LVLM_Learning_to_Adapt_Large_Vision-Language_Model_for_Grounded_Visual_Question_Answering_in_Robotic_Surgery.md)
 
 2024年03月21日
 
