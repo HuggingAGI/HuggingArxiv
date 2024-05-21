@@ -16,7 +16,7 @@
 
 - [Multimodal CLIP Inference for Meta-Few-Shot Image Classification](2024年03月26日/Multimodal_CLIP_Inference_for_Meta-Few-Shot_Image_Classification.md)
 
-    - [翻译: 利用多模态CLIP推理进行元少样本图像分类研究](2024年03月26日/Multimodal_CLIP_Inference_for_Meta-Few-Shot_Image_Classification.md)
+    - [翻译: 利用多模态CLIP进行元少样本图像分类的推理](2024年03月26日/Multimodal_CLIP_Inference_for_Meta-Few-Shot_Image_Classification.md)
 
 2024年03月25日
 

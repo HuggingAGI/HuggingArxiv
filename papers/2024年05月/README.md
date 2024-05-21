@@ -292,7 +292,7 @@
 
 - [Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts](2024年05月18日/Uni-MoE_Scaling_Unified_Multimodal_LLMs_with_Mixture_of_Experts.md)
 
-    - [翻译: Uni-MoE：融合专家混合，扩展统一多模态大型语言模型](2024年05月18日/Uni-MoE_Scaling_Unified_Multimodal_LLMs_with_Mixture_of_Experts.md)
+    - [翻译: Uni-MoE：借助专家混合技术，扩展统一多模态大型语言模型](2024年05月18日/Uni-MoE_Scaling_Unified_Multimodal_LLMs_with_Mixture_of_Experts.md)
 
 - [EnviroExam: Benchmarking Environmental Science Knowledge of Large Language Models](2024年05月18日/EnviroExam_Benchmarking_Environmental_Science_Knowledge_of_Large_Language_Models.md)
 
@@ -300,7 +300,7 @@
 
 - [WisPerMed at "Discharge Me!": Advancing Text Generation in Healthcare with Large Language Models, Dynamic Expert Selection, and Priming Techniques on MIMIC-IV](2024年05月18日/WisPerMed_at_Discharge_Me!_Advancing_Text_Generation_in_Healthcare_with_Large_Language_Models,_Dynamic_Expert_Selection,_and_Priming_Techniques_on_MIMIC-IV.md)
 
-    - [翻译: WisPerMed 在“出院吧！”项目中，通过大型语言模型、动态专家选择及预处理技术，在 MIMIC-IV 数据集上推动了医疗文本生成的进步。](2024年05月18日/WisPerMed_at_Discharge_Me!_Advancing_Text_Generation_in_Healthcare_with_Large_Language_Models,_Dynamic_Expert_Selection,_and_Priming_Techniques_on_MIMIC-IV.md)
+    - [翻译: WisPerMed 参与“Discharge Me!”项目，通过大型语言模型、动态专家选择及预处理技术，在 MIMIC-IV 数据库上推动医疗文本生成的进步。](2024年05月18日/WisPerMed_at_Discharge_Me!_Advancing_Text_Generation_in_Healthcare_with_Large_Language_Models,_Dynamic_Expert_Selection,_and_Priming_Techniques_on_MIMIC-IV.md)
 
 - [The Power of Active Multi-Task Learning in Reinforcement Learning from Human Feedback](2024年05月18日/The_Power_of_Active_Multi-Task_Learning_in_Reinforcement_Learning_from_Human_Feedback.md)
 
@@ -312,7 +312,7 @@
 
 - [Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments](2024年05月18日/Automating_PTSD_Diagnostics_in_Clinical_Interviews_Leveraging_Large_Language_Models_for_Trauma_Assessments.md)
 
-    - [翻译: 临床访谈中的 PTSD 诊断自动化：借助大型语言模型深化创伤评估](2024年05月18日/Automating_PTSD_Diagnostics_in_Clinical_Interviews_Leveraging_Large_Language_Models_for_Trauma_Assessments.md)
+    - [翻译: 利用大型语言模型自动化 PTSD 诊断，优化临床访谈中的创伤评估流程。](2024年05月18日/Automating_PTSD_Diagnostics_in_Clinical_Interviews_Leveraging_Large_Language_Models_for_Trauma_Assessments.md)
 
 2024年05月17日
 
@@ -450,7 +450,7 @@
 
 - [LG AI Research & KAIST at EHRSQL 2024: Self-Training Large Language Models with Pseudo-Labeled Unanswerable Questions for a Reliable Text-to-SQL System on EHRs](2024年05月17日/LG_AI_Research_&_KAIST_at_EHRSQL_2024_Self-Training_Large_Language_Models_with_Pseudo-Labeled_Unanswerable_Questions_for_a_Reliable_Text-to-SQL_System_on_EHRs.md)
 
-    - [翻译: LG AI Research 携手 KAIST 在 EHRSQL 2024 展示：通过伪标记的不可回答问题，自我训练大型语言模型，旨在打造一个高效可靠的电子健康记录文本至 SQL 系统。](2024年05月17日/LG_AI_Research_&_KAIST_at_EHRSQL_2024_Self-Training_Large_Language_Models_with_Pseudo-Labeled_Unanswerable_Questions_for_a_Reliable_Text-to-SQL_System_on_EHRs.md)
+    - [翻译: LG AI Research 携手 KAIST 在 EHRSQL 2024 展示：通过利用伪标记的不可回答问题，自我训练大型语言模型，旨在打造一个高效可靠的电子健康记录文本至 SQL 转换系统。](2024年05月17日/LG_AI_Research_&_KAIST_at_EHRSQL_2024_Self-Training_Large_Language_Models_with_Pseudo-Labeled_Unanswerable_Questions_for_a_Reliable_Text-to-SQL_System_on_EHRs.md)
 
 - [Towards Modular LLMs by Building and Reusing a Library of LoRAs](2024年05月17日/Towards_Modular_LLMs_by_Building_and_Reusing_a_Library_of_LoRAs.md)
 
@@ -458,7 +458,7 @@
 
 - [Revisiting the Robust Generalization of Adversarial Prompt Tuning](2024年05月17日/Revisiting_the_Robust_Generalization_of_Adversarial_Prompt_Tuning.md)
 
-    - [翻译: 再探对抗性提示调优的鲁棒泛化之谜](2024年05月17日/Revisiting_the_Robust_Generalization_of_Adversarial_Prompt_Tuning.md)
+    - [翻译: 再次探讨对抗性提示调优的鲁棒泛化问题](2024年05月17日/Revisiting_the_Robust_Generalization_of_Adversarial_Prompt_Tuning.md)
 
 - [CC-GPX: Extracting High-Quality Annotated Geospatial Data from Common Crawl](2024年05月17日/CC-GPX_Extracting_High-Quality_Annotated_Geospatial_Data_from_Common_Crawl.md)
 
