@@ -1,5 +1,21 @@
 # 2024年05月
 
+2024年05月20日
+
+- [TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models](2024年05月20日/TinyLLaVA_Factory_A_Modularized_Codebase_for_Small-scale_Large_Multimodal_Models.md)
+
+    - [翻译: TinyLLaVA工厂：专为小型大规模多模态模型设计的模块化代码库](2024年05月20日/TinyLLaVA_Factory_A_Modularized_Codebase_for_Small-scale_Large_Multimodal_Models.md)
+
+- [General bounds on the quality of Bayesian coresets](2024年05月20日/General_bounds_on_the_quality_of_Bayesian_coresets.md)
+
+    - [翻译: 贝叶斯核心集质量的通用上限](2024年05月20日/General_bounds_on_the_quality_of_Bayesian_coresets.md)
+
+2024年05月19日
+
+- [Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning](2024年05月19日/Inquire,_Interact,_and_Integrate_A_Proactive_Agent_Collaborative_Framework_for_Zero-Shot_Multimodal_Medical_Reasoning.md)
+
+    - [翻译: 主动探询、互动与融合：零-shot 多模态医学推理的协作代理框架](2024年05月19日/Inquire,_Interact,_and_Integrate_A_Proactive_Agent_Collaborative_Framework_for_Zero-Shot_Multimodal_Medical_Reasoning.md)
+
 2024年05月17日
 
 - [Observational Scaling Laws and the Predictability of Language Model Performance](2024年05月17日/Observational_Scaling_Laws_and_the_Predictability_of_Language_Model_Performance.md)
@@ -125,6 +141,10 @@
 - [A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model](2024年05月17日/A_Versatile_Framework_for_Analyzing_Galaxy_Image_Data_by_Implanting_Human-in-the-loop_on_a_Large_Vision_Model.md)
 
     - [翻译: 本研究提出了一种灵活的框架，通过在大规模视觉模型中引入人机交互，以分析星系图像数据。](2024年05月17日/A_Versatile_Framework_for_Analyzing_Galaxy_Image_Data_by_Implanting_Human-in-the-loop_on_a_Large_Vision_Model.md)
+
+- [LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions](2024年05月17日/LLM-based_Multi-Agent_Reinforcement_Learning_Current_and_Future_Directions.md)
+
+    - [翻译: 大型语言模型驱动的多智能体强化学习：现状与未来展望](2024年05月17日/LLM-based_Multi-Agent_Reinforcement_Learning_Current_and_Future_Directions.md)
 
 2024年05月16日
 
