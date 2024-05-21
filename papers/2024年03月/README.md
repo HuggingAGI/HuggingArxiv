@@ -54,7 +54,7 @@
 
 - [Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery](2024年03月22日/Surgical-LVLM_Learning_to_Adapt_Large_Vision-Language_Model_for_Grounded_Visual_Question_Answering_in_Robotic_Surgery.md)
 
-    - [翻译: Surgical-LVLM：掌握大型视觉-语言模型，为机器人手术中的视觉问答任务提供精准适应性](2024年03月22日/Surgical-LVLM_Learning_to_Adapt_Large_Vision-Language_Model_for_Grounded_Visual_Question_Answering_in_Robotic_Surgery.md)
+    - [翻译: Surgical-LVLM：掌握大型视觉-语言模型，助力机器人手术中的场景化视觉问答](2024年03月22日/Surgical-LVLM_Learning_to_Adapt_Large_Vision-Language_Model_for_Grounded_Visual_Question_Answering_in_Robotic_Surgery.md)
 
 2024年03月21日
 
