@@ -4,13 +4,13 @@
 
 `RAG
 
-理由：这篇论文主要关注的是图像-文本匹配问题，并提出了一种新型的哈希方法（DEMO）来提升匹配效率。这种方法涉及到语义理解、无监督学习以及哈希技术的应用，这些都是检索增强生成（RAG）领域的关键技术。虽然论文中没有直接提到大型语言模型（LLM），但其研究内容与RAG领域中处理大规模数据和优化语义相似性框架的方法紧密相关。因此，将其归类为RAG是合适的。` `图像-文本匹配` `无监督学习`
+理由：这篇论文主要关注的是图像-文本匹配问题，并提出了一种新型的哈希方法（DEMO）来优化这一过程。这种方法涉及多视角增强视图捕捉图像的内在语义分布，并采用非参数分布差异来确保相似性结构的精确与稳健。这与RAG（Retrieval-Augmented Generation）的概念相符，因为RAG通常涉及通过检索增强来改进文本生成或匹配任务。此外，论文中提到的协同一致性学习机制和在汉明空间中维持相似性结构的方法，进一步强调了其在信息检索和语义匹配领域的应用，这是RAG方法的核心应用场景。因此，将这篇论文分类为RAG是合适的。` `图像-文本匹配` `无监督学习`
 
 > DEMO: A Statistical Perspective for Efficient Image-Text Matching
 
 # 摘要
 
-> 图像-文本匹配问题旨在通过语义理解桥接视觉与语言。近期，由于能处理大规模原始数据，无监督哈希方法备受瞩目。这些方法利用自然距离构建语义相似性框架，进而指导模型优化。但语义分布边界处的偏差可能导致优化过程中的错误累积。为此，我们提出了一种新型哈希方法——基于分布结构的挖掘与一致性学习（DEMO），以提升图像-文本匹配效率。DEMO从统计视角出发，通过多重视角增强来刻画图像，视作其内在语义分布的样本。我们采用非参数分布差异确保相似性结构的稳健与精确。同时，引入协同一致性学习，既在汉明空间中保持相似性结构，又以自监督方式促进不同方向检索分布的一致性。在三个图像-文本匹配基准数据集上的实验表明，DEMO的性能超越了许多现有技术。
+> 图像-文本匹配问题旨在通过语义理解桥接视觉与语言，而基于无监督哈希的方法因其处理大规模数据的能力而崭露头角。这些方法利用自然距离构建语义相似性框架，进而引导模型优化。但语义分布边缘的偏差可能导致优化过程中的错误累积。为此，我们提出了一种名为DEMO的新型哈希方法，它通过多视角增强视图捕捉图像的内在语义分布，并采用非参数分布差异确保相似性结构的精确与稳健。此外，协同一致性学习机制在汉明空间中维持相似性结构的同时，还促进了不同检索方向间的自监督一致性。实验证明，DEMO在多个图像-文本匹配基准数据集上超越了众多顶尖方法。
 
 > Image-text matching has been a long-standing problem, which seeks to connect vision and language through semantic understanding. Due to the capability to manage large-scale raw data, unsupervised hashing-based approaches have gained prominence recently. They typically construct a semantic similarity structure using the natural distance, which subsequently provides guidance to the model optimization process. However, the similarity structure could be biased at the boundaries of semantic distributions, causing error accumulation during sequential optimization. To tackle this, we introduce a novel hashing approach termed Distribution-based Structure Mining with Consistency Learning (DEMO) for efficient image-text matching. From a statistical view, DEMO characterizes each image using multiple augmented views, which are considered as samples drawn from its intrinsic semantic distribution. Then, we employ a non-parametric distribution divergence to ensure a robust and precise similarity structure. In addition, we introduce collaborative consistency learning which not only preserves the similarity structure in the Hamming space but also encourages consistency between retrieval distribution from different directions in a self-supervised manner. Through extensive experiments on three benchmark image-text matching datasets, we demonstrate that DEMO achieves superior performance compared with many state-of-the-art methods.
 
