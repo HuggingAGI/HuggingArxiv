@@ -4,163 +4,163 @@
 
 - [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)
 
-    - [翻译: ](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)
+    - [翻译: 利用跨层注意力优化Transformer键值缓存尺寸](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)
 
 - [BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once](2024年05月21日/BiomedParse_a_biomedical_foundation_model_for_image_parsing_of_everything_everywhere_all_at_once.md)
 
-    - [翻译: ](2024年05月21日/BiomedParse_a_biomedical_foundation_model_for_image_parsing_of_everything_everywhere_all_at_once.md)
+    - [翻译: BiomedParse：一款生物医学领域的全能图像解析基础模型，实现万物一瞬解析。](2024年05月21日/BiomedParse_a_biomedical_foundation_model_for_image_parsing_of_everything_everywhere_all_at_once.md)
 
 - [Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale](2024年05月21日/Energy_Rank_Alignment_Using_Preference_Optimization_to_Search_Chemical_Space_at_Scale.md)
 
-    - [翻译: ](2024年05月21日/Energy_Rank_Alignment_Using_Preference_Optimization_to_Search_Chemical_Space_at_Scale.md)
+    - [翻译: 能量秩对齐：通过偏好优化，我们在广阔的化学空间中探索新领域。](2024年05月21日/Energy_Rank_Alignment_Using_Preference_Optimization_to_Search_Chemical_Space_at_Scale.md)
 
 - [Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models](2024年05月21日/Aggregation_of_Reasoning_A_Hierarchical_Framework_for_Enhancing_Answer_Selection_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月21日/Aggregation_of_Reasoning_A_Hierarchical_Framework_for_Enhancing_Answer_Selection_in_Large_Language_Models.md)
+    - [翻译: 推理聚合：构建层次框架，提升大型语言模型答案选择的精准度](2024年05月21日/Aggregation_of_Reasoning_A_Hierarchical_Framework_for_Enhancing_Answer_Selection_in_Large_Language_Models.md)
 
 - [Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs](2024年05月21日/Skin-in-the-Game_Decision_Making_via_Multi-Stakeholder_Alignment_in_LLMs.md)
 
-    - [翻译: ](2024年05月21日/Skin-in-the-Game_Decision_Making_via_Multi-Stakeholder_Alignment_in_LLMs.md)
+    - [翻译: 利益共担：在大型语言模型中通过多方利益协调实现决策](2024年05月21日/Skin-in-the-Game_Decision_Making_via_Multi-Stakeholder_Alignment_in_LLMs.md)
 
 - [Code-mixed Sentiment and Hate-speech Prediction](2024年05月21日/Code-mixed_Sentiment_and_Hate-speech_Prediction.md)
 
-    - [翻译: ](2024年05月21日/Code-mixed_Sentiment_and_Hate-speech_Prediction.md)
+    - [翻译: 混合编码情感与仇恨言论识别](2024年05月21日/Code-mixed_Sentiment_and_Hate-speech_Prediction.md)
 
 - [Streamlining Software Reviews: Efficient Predictive Modeling with Minimal Examples](2024年05月21日/Streamlining_Software_Reviews_Efficient_Predictive_Modeling_with_Minimal_Examples.md)
 
-    - [翻译: ](2024年05月21日/Streamlining_Software_Reviews_Efficient_Predictive_Modeling_with_Minimal_Examples.md)
+    - [翻译: 精简软件评审：以极简示例实现高效预测建模](2024年05月21日/Streamlining_Software_Reviews_Efficient_Predictive_Modeling_with_Minimal_Examples.md)
 
 - [G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation](2024年05月21日/G-DIG_Towards_Gradient-based_DIverse_and_hiGh-quality_Instruction_Data_Selection_for_Machine_Translation.md)
 
-    - [翻译: ](2024年05月21日/G-DIG_Towards_Gradient-based_DIverse_and_hiGh-quality_Instruction_Data_Selection_for_Machine_Translation.md)
+    - [翻译: G-DIG：探索基于梯度的方法，以实现机器翻译中多样化且高质量的指令数据选择](2024年05月21日/G-DIG_Towards_Gradient-based_DIverse_and_hiGh-quality_Instruction_Data_Selection_for_Machine_Translation.md)
 
 - [An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation](2024年05月21日/An_Empirical_Study_and_Analysis_of_Text-to-Image_Generation_Using_Large_Language_Model-Powered_Textual_Representation.md)
 
-    - [翻译: ](2024年05月21日/An_Empirical_Study_and_Analysis_of_Text-to-Image_Generation_Using_Large_Language_Model-Powered_Textual_Representation.md)
+    - [翻译: 大型语言模型驱动文本表示在文本到图像生成中的实证研究与分析](2024年05月21日/An_Empirical_Study_and_Analysis_of_Text-to-Image_Generation_Using_Large_Language_Model-Powered_Textual_Representation.md)
 
 - [Topic Modelling Case Law Using a Large Language Model and a New Taxonomy for UK Law: AI Insights into Summary Judgment](2024年05月21日/Topic_Modelling_Case_Law_Using_a_Large_Language_Model_and_a_New_Taxonomy_for_UK_Law_AI_Insights_into_Summary_Judgment.md)
 
-    - [翻译: ](2024年05月21日/Topic_Modelling_Case_Law_Using_a_Large_Language_Model_and_a_New_Taxonomy_for_UK_Law_AI_Insights_into_Summary_Judgment.md)
+    - [翻译: 借助大型语言模型与英国法律新分类法，探索案例法律主题建模：人工智能视角下的简易判决解析](2024年05月21日/Topic_Modelling_Case_Law_Using_a_Large_Language_Model_and_a_New_Taxonomy_for_UK_Law_AI_Insights_into_Summary_Judgment.md)
 
 - [Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents](2024年05月21日/Adversarial_DPO_Harnessing_Harmful_Data_for_Reducing_Toxicity_with_Minimal_Impact_on_Coherence_and_Evasiveness_in_Dialogue_Agents.md)
 
-    - [翻译: ](2024年05月21日/Adversarial_DPO_Harnessing_Harmful_Data_for_Reducing_Toxicity_with_Minimal_Impact_on_Coherence_and_Evasiveness_in_Dialogue_Agents.md)
+    - [翻译: 对抗性DPO策略：巧妙利用有害数据，以最小化对对话代理连贯性和逃避性的影响，有效降低其毒性。](2024年05月21日/Adversarial_DPO_Harnessing_Harmful_Data_for_Reducing_Toxicity_with_Minimal_Impact_on_Coherence_and_Evasiveness_in_Dialogue_Agents.md)
 
 - [Investigating Persuasion Techniques in Arabic: An Empirical Study Leveraging Large Language Models](2024年05月21日/Investigating_Persuasion_Techniques_in_Arabic_An_Empirical_Study_Leveraging_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月21日/Investigating_Persuasion_Techniques_in_Arabic_An_Empirical_Study_Leveraging_Large_Language_Models.md)
+    - [翻译: 探索阿拉伯语中的说服艺术：一项基于大型语言模型的实证研究](2024年05月21日/Investigating_Persuasion_Techniques_in_Arabic_An_Empirical_Study_Leveraging_Large_Language_Models.md)
 
 - [LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language](2024年05月21日/LLM_Processes_Numerical_Predictive_Distributions_Conditioned_on_Natural_Language.md)
 
-    - [翻译: ](2024年05月21日/LLM_Processes_Numerical_Predictive_Distributions_Conditioned_on_Natural_Language.md)
+    - [翻译: 大型语言模型处理：自然语言条件下的数值预测分布](2024年05月21日/LLM_Processes_Numerical_Predictive_Distributions_Conditioned_on_Natural_Language.md)
 
 - [OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models](2024年05月21日/OpenCarbonEval_A_Unified_Carbon_Emission_Estimation_Framework_in_Large-Scale_AI_Models.md)
 
-    - [翻译: ](2024年05月21日/OpenCarbonEval_A_Unified_Carbon_Emission_Estimation_Framework_in_Large-Scale_AI_Models.md)
+    - [翻译: OpenCarbonEval：大型AI模型中的统一碳排放评估框架](2024年05月21日/OpenCarbonEval_A_Unified_Carbon_Emission_Estimation_Framework_in_Large-Scale_AI_Models.md)
 
 - [SmartFlow: Robotic Process Automation using LLMs](2024年05月21日/SmartFlow_Robotic_Process_Automation_using_LLMs.md)
 
-    - [翻译: ](2024年05月21日/SmartFlow_Robotic_Process_Automation_using_LLMs.md)
+    - [翻译: 智能流：借助大型语言模型实现机器人流程自动化](2024年05月21日/SmartFlow_Robotic_Process_Automation_using_LLMs.md)
 
 - [Large Language Models Meet NLP: A Survey](2024年05月21日/Large_Language_Models_Meet_NLP_A_Survey.md)
 
-    - [翻译: ](2024年05月21日/Large_Language_Models_Meet_NLP_A_Survey.md)
+    - [翻译: 大型语言模型与NLP的交汇：一份综述](2024年05月21日/Large_Language_Models_Meet_NLP_A_Survey.md)
 
 - [Transformer in Touch: A Survey](2024年05月21日/Transformer_in_Touch_A_Survey.md)
 
-    - [翻译: ](2024年05月21日/Transformer_in_Touch_A_Survey.md)
+    - [翻译: 《触碰 Transformer：综述》](2024年05月21日/Transformer_in_Touch_A_Survey.md)
 
 - [Test Oracle Automation in the era of LLMs](2024年05月21日/Test_Oracle_Automation_in_the_era_of_LLMs.md)
 
-    - [翻译: ](2024年05月21日/Test_Oracle_Automation_in_the_era_of_LLMs.md)
+    - [翻译: 大型语言模型时代中的测试预言自动化探索](2024年05月21日/Test_Oracle_Automation_in_the_era_of_LLMs.md)
 
 - [C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning](2024年05月21日/C3L_Content_Correlated_Vision-Language_Instruction_Tuning_Data_Generation_via_Contrastive_Learning.md)
 
-    - [翻译: ](2024年05月21日/C3L_Content_Correlated_Vision-Language_Instruction_Tuning_Data_Generation_via_Contrastive_Learning.md)
+    - [翻译: C3L：借助对比学习，打造内容关联的视觉-语言指令调优数据生成方法](2024年05月21日/C3L_Content_Correlated_Vision-Language_Instruction_Tuning_Data_Generation_via_Contrastive_Learning.md)
 
 - [Generative AI and Large Language Models for Cyber Security: All Insights You Need](2024年05月21日/Generative_AI_and_Large_Language_Models_for_Cyber_Security_All_Insights_You_Need.md)
 
-    - [翻译: ](2024年05月21日/Generative_AI_and_Large_Language_Models_for_Cyber_Security_All_Insights_You_Need.md)
+    - [翻译: 探索生成式AI与大型语言模型在网络安全领域的深度应用：一网打尽您所需的所有洞见。](2024年05月21日/Generative_AI_and_Large_Language_Models_for_Cyber_Security_All_Insights_You_Need.md)
 
 - [SPO: Multi-Dimensional Preference Sequential Alignment With Implicit Reward Modeling](2024年05月21日/SPO_Multi-Dimensional_Preference_Sequential_Alignment_With_Implicit_Reward_Modeling.md)
 
-    - [翻译: ](2024年05月21日/SPO_Multi-Dimensional_Preference_Sequential_Alignment_With_Implicit_Reward_Modeling.md)
+    - [翻译: SPO：隐式奖励建模下的多维偏好序列对齐](2024年05月21日/SPO_Multi-Dimensional_Preference_Sequential_Alignment_With_Implicit_Reward_Modeling.md)
 
 - [RecGPT: Generative Pre-training for Text-based Recommendation](2024年05月21日/RecGPT_Generative_Pre-training_for_Text-based_Recommendation.md)
 
-    - [翻译: ](2024年05月21日/RecGPT_Generative_Pre-training_for_Text-based_Recommendation.md)
+    - [翻译: RecGPT：文本推荐领域的生成式预训练新篇章](2024年05月21日/RecGPT_Generative_Pre-training_for_Text-based_Recommendation.md)
 
 - [Multimodal Adaptive Inference for Document Image Classification with Anytime Early Exiting](2024年05月21日/Multimodal_Adaptive_Inference_for_Document_Image_Classification_with_Anytime_Early_Exiting.md)
 
-    - [翻译: ](2024年05月21日/Multimodal_Adaptive_Inference_for_Document_Image_Classification_with_Anytime_Early_Exiting.md)
+    - [翻译: 文档图像分类中的多模态自适应推理：随时早期退出策略的应用](2024年05月21日/Multimodal_Adaptive_Inference_for_Document_Image_Classification_with_Anytime_Early_Exiting.md)
 
 - [OLAPH: Improving Factuality in Biomedical Long-form Question Answering](2024年05月21日/OLAPH_Improving_Factuality_in_Biomedical_Long-form_Question_Answering.md)
 
-    - [翻译: ](2024年05月21日/OLAPH_Improving_Factuality_in_Biomedical_Long-form_Question_Answering.md)
+    - [翻译: OLAPH：提升生物医学长篇问答的事实性](2024年05月21日/OLAPH_Improving_Factuality_in_Biomedical_Long-form_Question_Answering.md)
 
 - [Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction](2024年05月21日/Retrieval-Augmented_Language_Model_for_Extreme_Multi-Label_Knowledge_Graph_Link_Prediction.md)
 
-    - [翻译: ](2024年05月21日/Retrieval-Augmented_Language_Model_for_Extreme_Multi-Label_Knowledge_Graph_Link_Prediction.md)
+    - [翻译: 检索增强型语言模型：应对极端多标签知识图谱链接预测挑战](2024年05月21日/Retrieval-Augmented_Language_Model_for_Extreme_Multi-Label_Knowledge_Graph_Link_Prediction.md)
 
 - [Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?](2024年05月21日/Fight_Fire_with_Fire_How_Much_Can_We_Trust_ChatGPT_on_Source_Code-Related_Tasks.md)
 
-    - [翻译: ](2024年05月21日/Fight_Fire_with_Fire_How_Much_Can_We_Trust_ChatGPT_on_Source_Code-Related_Tasks.md)
+    - [翻译: 以火攻火：ChatGPT 在源代码任务上的可信度究竟有多高？](2024年05月21日/Fight_Fire_with_Fire_How_Much_Can_We_Trust_ChatGPT_on_Source_Code-Related_Tasks.md)
 
 - [Exploration of Masked and Causal Language Modelling for Text Generation](2024年05月21日/Exploration_of_Masked_and_Causal_Language_Modelling_for_Text_Generation.md)
 
-    - [翻译: ](2024年05月21日/Exploration_of_Masked_and_Causal_Language_Modelling_for_Text_Generation.md)
+    - [翻译: 探究掩码与因果语言建模在文本生成领域的应用](2024年05月21日/Exploration_of_Masked_and_Causal_Language_Modelling_for_Text_Generation.md)
 
 - [Quantifying Emergence in Large Language Models](2024年05月21日/Quantifying_Emergence_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月21日/Quantifying_Emergence_in_Large_Language_Models.md)
+    - [翻译: 探究大型语言模型中涌现现象的量化方法](2024年05月21日/Quantifying_Emergence_in_Large_Language_Models.md)
 
 - [Tagengo: A Multilingual Chat Dataset](2024年05月21日/Tagengo_A_Multilingual_Chat_Dataset.md)
 
-    - [翻译: ](2024年05月21日/Tagengo_A_Multilingual_Chat_Dataset.md)
+    - [翻译: Tagengo：多语言聊天数据集](2024年05月21日/Tagengo_A_Multilingual_Chat_Dataset.md)
 
 - [Tiny Refinements Elicit Resilience: Toward Efficient Prefix-Model Against LLM Red-Teaming](2024年05月21日/Tiny_Refinements_Elicit_Resilience_Toward_Efficient_Prefix-Model_Against_LLM_Red-Teaming.md)
 
-    - [翻译: ](2024年05月21日/Tiny_Refinements_Elicit_Resilience_Toward_Efficient_Prefix-Model_Against_LLM_Red-Teaming.md)
+    - [翻译: 细微调整，韧性倍增：探索高效前缀模型，抵御大型语言模型红队挑战](2024年05月21日/Tiny_Refinements_Elicit_Resilience_Toward_Efficient_Prefix-Model_Against_LLM_Red-Teaming.md)
 
 - [Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression](2024年05月21日/Unlocking_Data-free_Low-bit_Quantization_with_Matrix_Decomposition_for_KV_Cache_Compression.md)
 
-    - [翻译: ](2024年05月21日/Unlocking_Data-free_Low-bit_Quantization_with_Matrix_Decomposition_for_KV_Cache_Compression.md)
+    - [翻译: 利用矩阵分解技术，实现无需原始数据支持的低比特量化，以优化KV缓存压缩效率](2024年05月21日/Unlocking_Data-free_Low-bit_Quantization_with_Matrix_Decomposition_for_KV_Cache_Compression.md)
 
 - [Is Dataset Quality Still a Concern in Diagnosis Using Large Foundation Model?](2024年05月21日/Is_Dataset_Quality_Still_a_Concern_in_Diagnosis_Using_Large_Foundation_Model.md)
 
-    - [翻译: ](2024年05月21日/Is_Dataset_Quality_Still_a_Concern_in_Diagnosis_Using_Large_Foundation_Model.md)
+    - [翻译: 大型基础模型在诊断应用中，数据集质量是否仍是心头之患？](2024年05月21日/Is_Dataset_Quality_Still_a_Concern_in_Diagnosis_Using_Large_Foundation_Model.md)
 
 - [ProtT3: Protein-to-Text Generation for Text-based Protein Understanding](2024年05月21日/ProtT3_Protein-to-Text_Generation_for_Text-based_Protein_Understanding.md)
 
-    - [翻译: ](2024年05月21日/ProtT3_Protein-to-Text_Generation_for_Text-based_Protein_Understanding.md)
+    - [翻译: ProtT3：蛋白质至文本生成，助力基于文本的蛋白质理解](2024年05月21日/ProtT3_Protein-to-Text_Generation_for_Text-based_Protein_Understanding.md)
 
 - [DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](2024年05月21日/DrHouse_An_LLM-empowered_Diagnostic_Reasoning_System_through_Harnessing_Outcomes_from_Sensor_Data_and_Expert_Knowledge.md)
 
-    - [翻译: ](2024年05月21日/DrHouse_An_LLM-empowered_Diagnostic_Reasoning_System_through_Harnessing_Outcomes_from_Sensor_Data_and_Expert_Knowledge.md)
+    - [翻译: DrHouse：结合传感器数据与专家知识，由LLM驱动的智能诊断推理系统](2024年05月21日/DrHouse_An_LLM-empowered_Diagnostic_Reasoning_System_through_Harnessing_Outcomes_from_Sensor_Data_and_Expert_Knowledge.md)
 
 - [Context-Enhanced Video Moment Retrieval with Large Language Models](2024年05月21日/Context-Enhanced_Video_Moment_Retrieval_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月21日/Context-Enhanced_Video_Moment_Retrieval_with_Large_Language_Models.md)
+    - [翻译: 大型语言模型助力上下文增强的视频时刻检索](2024年05月21日/Context-Enhanced_Video_Moment_Retrieval_with_Large_Language_Models.md)
 
 - [PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference](2024年05月21日/PyramidInfer_Pyramid_KV_Cache_Compression_for_High-throughput_LLM_Inference.md)
 
-    - [翻译: ](2024年05月21日/PyramidInfer_Pyramid_KV_Cache_Compression_for_High-throughput_LLM_Inference.md)
+    - [翻译: PyramidInfer：高效 LLM 推理的 Pyramid KV 缓存压缩技术](2024年05月21日/PyramidInfer_Pyramid_KV_Cache_Compression_for_High-throughput_LLM_Inference.md)
 
 - [SirLLM: Streaming Infinite Retentive LLM](2024年05月21日/SirLLM_Streaming_Infinite_Retentive_LLM.md)
 
-    - [翻译: ](2024年05月21日/SirLLM_Streaming_Infinite_Retentive_LLM.md)
+    - [翻译: SirLLM：大型语言模型的流式无限记忆技术](2024年05月21日/SirLLM_Streaming_Infinite_Retentive_LLM.md)
 
 - [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](2024年05月21日/Single_Image_Unlearning_Efficient_Machine_Unlearning_in_Multimodal_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月21日/Single_Image_Unlearning_Efficient_Machine_Unlearning_in_Multimodal_Large_Language_Models.md)
+    - [翻译: 单图遗忘术：多模态大语言模型中的高效遗忘机制](2024年05月21日/Single_Image_Unlearning_Efficient_Machine_Unlearning_in_Multimodal_Large_Language_Models.md)
 
 - [Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models](2024年05月21日/Sparse_Autoencoders_Enable_Scalable_and_Reliable_Circuit_Identification_in_Language_Models.md)
 
-    - [翻译: ](2024年05月21日/Sparse_Autoencoders_Enable_Scalable_and_Reliable_Circuit_Identification_in_Language_Models.md)
+    - [翻译: 稀疏自编码器为语言模型中的电路识别提供了可扩展且可靠的解决方案。](2024年05月21日/Sparse_Autoencoders_Enable_Scalable_and_Reliable_Circuit_Identification_in_Language_Models.md)
 
 - [Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection](2024年05月21日/Time_Matters_Enhancing_Pre-trained_News_Recommendation_Models_with_Robust_User_Dwell_Time_Injection.md)
 
-    - [翻译: ](2024年05月21日/Time_Matters_Enhancing_Pre-trained_News_Recommendation_Models_with_Robust_User_Dwell_Time_Injection.md)
+    - [翻译: 时间因素不容忽视：强化预训练新闻推荐模型，引入用户停留时间的稳健注入](2024年05月21日/Time_Matters_Enhancing_Pre-trained_News_Recommendation_Models_with_Robust_User_Dwell_Time_Injection.md)
 
 2024年05月20日
 
@@ -306,39 +306,39 @@
 
 - [PLM4Traj: Cognizing Movement Patterns and Travel Purposes from Trajectories with Pre-trained Language Models](2024年05月20日/PLM4Traj_Cognizing_Movement_Patterns_and_Travel_Purposes_from_Trajectories_with_Pre-trained_Language_Models.md)
 
-    - [翻译: ](2024年05月20日/PLM4Traj_Cognizing_Movement_Patterns_and_Travel_Purposes_from_Trajectories_with_Pre-trained_Language_Models.md)
+    - [翻译: PLM4Traj：借助预训练语言模型，从轨迹数据中洞察移动模式与旅行目的](2024年05月20日/PLM4Traj_Cognizing_Movement_Patterns_and_Travel_Purposes_from_Trajectories_with_Pre-trained_Language_Models.md)
 
 - [Mutual Information Analysis in Multimodal Learning Systems](2024年05月20日/Mutual_Information_Analysis_in_Multimodal_Learning_Systems.md)
 
-    - [翻译: ](2024年05月20日/Mutual_Information_Analysis_in_Multimodal_Learning_Systems.md)
+    - [翻译: 探究多模态学习系统中互信息的作用](2024年05月20日/Mutual_Information_Analysis_in_Multimodal_Learning_Systems.md)
 
 - [PathOCL: Path-Based Prompt Augmentation for OCL Generation with GPT-4](2024年05月20日/PathOCL_Path-Based_Prompt_Augmentation_for_OCL_Generation_with_GPT-4.md)
 
-    - [翻译: ](2024年05月20日/PathOCL_Path-Based_Prompt_Augmentation_for_OCL_Generation_with_GPT-4.md)
+    - [翻译: PathOCL：利用 GPT-4，通过路径增强提示，精准生成 OCL](2024年05月20日/PathOCL_Path-Based_Prompt_Augmentation_for_OCL_Generation_with_GPT-4.md)
 
 - [Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation](2024年05月20日/Learning_Structure_and_Knowledge_Aware_Representation_with_Large_Language_Models_for_Concept_Recommendation.md)
 
-    - [翻译: ](2024年05月20日/Learning_Structure_and_Knowledge_Aware_Representation_with_Large_Language_Models_for_Concept_Recommendation.md)
+    - [翻译: 借助大型语言模型，探索结构与知识融合的表示学习，以精准推荐概念](2024年05月20日/Learning_Structure_and_Knowledge_Aware_Representation_with_Large_Language_Models_for_Concept_Recommendation.md)
 
 - [Resolving Word Vagueness with Scenario-guided Adapter for Natural Language Inference](2024年05月20日/Resolving_Word_Vagueness_with_Scenario-guided_Adapter_for_Natural_Language_Inference.md)
 
-    - [翻译: ](2024年05月20日/Resolving_Word_Vagueness_with_Scenario-guided_Adapter_for_Natural_Language_Inference.md)
+    - [翻译: 借助场景引导适配器，破解自然语言推理中的词语模糊难题](2024年05月20日/Resolving_Word_Vagueness_with_Scenario-guided_Adapter_for_Natural_Language_Inference.md)
 
 - [LLM+Reasoning+Planning for supporting incomplete user queries in presence of APIs](2024年05月20日/LLM+Reasoning+Planning_for_supporting_incomplete_user_queries_in_presence_of_APIs.md)
 
-    - [翻译: ](2024年05月20日/LLM+Reasoning+Planning_for_supporting_incomplete_user_queries_in_presence_of_APIs.md)
+    - [翻译: 大型语言模型（LLM）通过推理与规划，巧妙应对API环境下用户查询的不完整性。](2024年05月20日/LLM+Reasoning+Planning_for_supporting_incomplete_user_queries_in_presence_of_APIs.md)
 
 - [Question-Based Retrieval using Atomic Units for Enterprise RAG](2024年05月20日/Question-Based_Retrieval_using_Atomic_Units_for_Enterprise_RAG.md)
 
-    - [翻译: ](2024年05月20日/Question-Based_Retrieval_using_Atomic_Units_for_Enterprise_RAG.md)
+    - [翻译: 企业RAG中基于问题的检索采用原子单元进行优化](2024年05月20日/Question-Based_Retrieval_using_Atomic_Units_for_Enterprise_RAG.md)
 
 - [Self-HWDebug: Automation of LLM Self-Instructing for Hardware Security Verification](2024年05月20日/Self-HWDebug_Automation_of_LLM_Self-Instructing_for_Hardware_Security_Verification.md)
 
-    - [翻译: ](2024年05月20日/Self-HWDebug_Automation_of_LLM_Self-Instructing_for_Hardware_Security_Verification.md)
+    - [翻译: Self-HWDebug：利用LLM自我指导实现硬件安全验证的自动化](2024年05月20日/Self-HWDebug_Automation_of_LLM_Self-Instructing_for_Hardware_Security_Verification.md)
 
 - [Directed Metric Structures arising in Large Language Models](2024年05月20日/Directed_Metric_Structures_arising_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月20日/Directed_Metric_Structures_arising_in_Large_Language_Models.md)
+    - [翻译: 大规模语言模型中的定向度量结构探索](2024年05月20日/Directed_Metric_Structures_arising_in_Large_Language_Models.md)
 
 2024年05月19日
 
