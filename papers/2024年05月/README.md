@@ -162,6 +162,14 @@
 
     - [翻译: 时间因素不容忽视：强化预训练新闻推荐模型，引入用户停留时间的稳健注入](2024年05月21日/Time_Matters_Enhancing_Pre-trained_News_Recommendation_Models_with_Robust_User_Dwell_Time_Injection.md)
 
+- [Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images](2024年05月21日/Diffusion-RSCC_Diffusion_Probabilistic_Model_for_Change_Captioning_in_Remote_Sensing_Images.md)
+
+    - [翻译: 扩散-RSCC：遥感图像变化描述的扩散概率模型](2024年05月21日/Diffusion-RSCC_Diffusion_Probabilistic_Model_for_Change_Captioning_in_Remote_Sensing_Images.md)
+
+- [Weakly supervised alignment and registration of MR-CT for cervical cancer radiotherapy](2024年05月21日/Weakly_supervised_alignment_and_registration_of_MR-CT_for_cervical_cancer_radiotherapy.md)
+
+    - [翻译: 宫颈癌放疗中，通过弱监督方法实现MR与CT图像的对齐与注册。](2024年05月21日/Weakly_supervised_alignment_and_registration_of_MR-CT_for_cervical_cancer_radiotherapy.md)
+
 2024年05月20日
 
 - [TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models](2024年05月20日/TinyLLaVA_Factory_A_Modularized_Codebase_for_Small-scale_Large_Multimodal_Models.md)
