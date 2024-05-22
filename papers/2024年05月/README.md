@@ -514,7 +514,7 @@
 
 - [A Method on Searching Better Activation Functions](2024年05月18日/A_Method_on_Searching_Better_Activation_Functions.md)
 
-    - [翻译: ](2024年05月18日/A_Method_on_Searching_Better_Activation_Functions.md)
+    - [翻译: 探索更优激活函数的新途径](2024年05月18日/A_Method_on_Searching_Better_Activation_Functions.md)
 
 2024年05月17日
 
