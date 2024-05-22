@@ -1,5 +1,167 @@
 # 2024年05月
 
+2024年05月21日
+
+- [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)
+
+    - [翻译: ](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)
+
+- [BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once](2024年05月21日/BiomedParse_a_biomedical_foundation_model_for_image_parsing_of_everything_everywhere_all_at_once.md)
+
+    - [翻译: ](2024年05月21日/BiomedParse_a_biomedical_foundation_model_for_image_parsing_of_everything_everywhere_all_at_once.md)
+
+- [Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale](2024年05月21日/Energy_Rank_Alignment_Using_Preference_Optimization_to_Search_Chemical_Space_at_Scale.md)
+
+    - [翻译: ](2024年05月21日/Energy_Rank_Alignment_Using_Preference_Optimization_to_Search_Chemical_Space_at_Scale.md)
+
+- [Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models](2024年05月21日/Aggregation_of_Reasoning_A_Hierarchical_Framework_for_Enhancing_Answer_Selection_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月21日/Aggregation_of_Reasoning_A_Hierarchical_Framework_for_Enhancing_Answer_Selection_in_Large_Language_Models.md)
+
+- [Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs](2024年05月21日/Skin-in-the-Game_Decision_Making_via_Multi-Stakeholder_Alignment_in_LLMs.md)
+
+    - [翻译: ](2024年05月21日/Skin-in-the-Game_Decision_Making_via_Multi-Stakeholder_Alignment_in_LLMs.md)
+
+- [Code-mixed Sentiment and Hate-speech Prediction](2024年05月21日/Code-mixed_Sentiment_and_Hate-speech_Prediction.md)
+
+    - [翻译: ](2024年05月21日/Code-mixed_Sentiment_and_Hate-speech_Prediction.md)
+
+- [Streamlining Software Reviews: Efficient Predictive Modeling with Minimal Examples](2024年05月21日/Streamlining_Software_Reviews_Efficient_Predictive_Modeling_with_Minimal_Examples.md)
+
+    - [翻译: ](2024年05月21日/Streamlining_Software_Reviews_Efficient_Predictive_Modeling_with_Minimal_Examples.md)
+
+- [G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation](2024年05月21日/G-DIG_Towards_Gradient-based_DIverse_and_hiGh-quality_Instruction_Data_Selection_for_Machine_Translation.md)
+
+    - [翻译: ](2024年05月21日/G-DIG_Towards_Gradient-based_DIverse_and_hiGh-quality_Instruction_Data_Selection_for_Machine_Translation.md)
+
+- [An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation](2024年05月21日/An_Empirical_Study_and_Analysis_of_Text-to-Image_Generation_Using_Large_Language_Model-Powered_Textual_Representation.md)
+
+    - [翻译: ](2024年05月21日/An_Empirical_Study_and_Analysis_of_Text-to-Image_Generation_Using_Large_Language_Model-Powered_Textual_Representation.md)
+
+- [Topic Modelling Case Law Using a Large Language Model and a New Taxonomy for UK Law: AI Insights into Summary Judgment](2024年05月21日/Topic_Modelling_Case_Law_Using_a_Large_Language_Model_and_a_New_Taxonomy_for_UK_Law_AI_Insights_into_Summary_Judgment.md)
+
+    - [翻译: ](2024年05月21日/Topic_Modelling_Case_Law_Using_a_Large_Language_Model_and_a_New_Taxonomy_for_UK_Law_AI_Insights_into_Summary_Judgment.md)
+
+- [Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents](2024年05月21日/Adversarial_DPO_Harnessing_Harmful_Data_for_Reducing_Toxicity_with_Minimal_Impact_on_Coherence_and_Evasiveness_in_Dialogue_Agents.md)
+
+    - [翻译: ](2024年05月21日/Adversarial_DPO_Harnessing_Harmful_Data_for_Reducing_Toxicity_with_Minimal_Impact_on_Coherence_and_Evasiveness_in_Dialogue_Agents.md)
+
+- [Investigating Persuasion Techniques in Arabic: An Empirical Study Leveraging Large Language Models](2024年05月21日/Investigating_Persuasion_Techniques_in_Arabic_An_Empirical_Study_Leveraging_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月21日/Investigating_Persuasion_Techniques_in_Arabic_An_Empirical_Study_Leveraging_Large_Language_Models.md)
+
+- [LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language](2024年05月21日/LLM_Processes_Numerical_Predictive_Distributions_Conditioned_on_Natural_Language.md)
+
+    - [翻译: ](2024年05月21日/LLM_Processes_Numerical_Predictive_Distributions_Conditioned_on_Natural_Language.md)
+
+- [OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models](2024年05月21日/OpenCarbonEval_A_Unified_Carbon_Emission_Estimation_Framework_in_Large-Scale_AI_Models.md)
+
+    - [翻译: ](2024年05月21日/OpenCarbonEval_A_Unified_Carbon_Emission_Estimation_Framework_in_Large-Scale_AI_Models.md)
+
+- [SmartFlow: Robotic Process Automation using LLMs](2024年05月21日/SmartFlow_Robotic_Process_Automation_using_LLMs.md)
+
+    - [翻译: ](2024年05月21日/SmartFlow_Robotic_Process_Automation_using_LLMs.md)
+
+- [Large Language Models Meet NLP: A Survey](2024年05月21日/Large_Language_Models_Meet_NLP_A_Survey.md)
+
+    - [翻译: ](2024年05月21日/Large_Language_Models_Meet_NLP_A_Survey.md)
+
+- [Transformer in Touch: A Survey](2024年05月21日/Transformer_in_Touch_A_Survey.md)
+
+    - [翻译: ](2024年05月21日/Transformer_in_Touch_A_Survey.md)
+
+- [Test Oracle Automation in the era of LLMs](2024年05月21日/Test_Oracle_Automation_in_the_era_of_LLMs.md)
+
+    - [翻译: ](2024年05月21日/Test_Oracle_Automation_in_the_era_of_LLMs.md)
+
+- [C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning](2024年05月21日/C3L_Content_Correlated_Vision-Language_Instruction_Tuning_Data_Generation_via_Contrastive_Learning.md)
+
+    - [翻译: ](2024年05月21日/C3L_Content_Correlated_Vision-Language_Instruction_Tuning_Data_Generation_via_Contrastive_Learning.md)
+
+- [Generative AI and Large Language Models for Cyber Security: All Insights You Need](2024年05月21日/Generative_AI_and_Large_Language_Models_for_Cyber_Security_All_Insights_You_Need.md)
+
+    - [翻译: ](2024年05月21日/Generative_AI_and_Large_Language_Models_for_Cyber_Security_All_Insights_You_Need.md)
+
+- [SPO: Multi-Dimensional Preference Sequential Alignment With Implicit Reward Modeling](2024年05月21日/SPO_Multi-Dimensional_Preference_Sequential_Alignment_With_Implicit_Reward_Modeling.md)
+
+    - [翻译: ](2024年05月21日/SPO_Multi-Dimensional_Preference_Sequential_Alignment_With_Implicit_Reward_Modeling.md)
+
+- [RecGPT: Generative Pre-training for Text-based Recommendation](2024年05月21日/RecGPT_Generative_Pre-training_for_Text-based_Recommendation.md)
+
+    - [翻译: ](2024年05月21日/RecGPT_Generative_Pre-training_for_Text-based_Recommendation.md)
+
+- [Multimodal Adaptive Inference for Document Image Classification with Anytime Early Exiting](2024年05月21日/Multimodal_Adaptive_Inference_for_Document_Image_Classification_with_Anytime_Early_Exiting.md)
+
+    - [翻译: ](2024年05月21日/Multimodal_Adaptive_Inference_for_Document_Image_Classification_with_Anytime_Early_Exiting.md)
+
+- [OLAPH: Improving Factuality in Biomedical Long-form Question Answering](2024年05月21日/OLAPH_Improving_Factuality_in_Biomedical_Long-form_Question_Answering.md)
+
+    - [翻译: ](2024年05月21日/OLAPH_Improving_Factuality_in_Biomedical_Long-form_Question_Answering.md)
+
+- [Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction](2024年05月21日/Retrieval-Augmented_Language_Model_for_Extreme_Multi-Label_Knowledge_Graph_Link_Prediction.md)
+
+    - [翻译: ](2024年05月21日/Retrieval-Augmented_Language_Model_for_Extreme_Multi-Label_Knowledge_Graph_Link_Prediction.md)
+
+- [Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?](2024年05月21日/Fight_Fire_with_Fire_How_Much_Can_We_Trust_ChatGPT_on_Source_Code-Related_Tasks.md)
+
+    - [翻译: ](2024年05月21日/Fight_Fire_with_Fire_How_Much_Can_We_Trust_ChatGPT_on_Source_Code-Related_Tasks.md)
+
+- [Exploration of Masked and Causal Language Modelling for Text Generation](2024年05月21日/Exploration_of_Masked_and_Causal_Language_Modelling_for_Text_Generation.md)
+
+    - [翻译: ](2024年05月21日/Exploration_of_Masked_and_Causal_Language_Modelling_for_Text_Generation.md)
+
+- [Quantifying Emergence in Large Language Models](2024年05月21日/Quantifying_Emergence_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月21日/Quantifying_Emergence_in_Large_Language_Models.md)
+
+- [Tagengo: A Multilingual Chat Dataset](2024年05月21日/Tagengo_A_Multilingual_Chat_Dataset.md)
+
+    - [翻译: ](2024年05月21日/Tagengo_A_Multilingual_Chat_Dataset.md)
+
+- [Tiny Refinements Elicit Resilience: Toward Efficient Prefix-Model Against LLM Red-Teaming](2024年05月21日/Tiny_Refinements_Elicit_Resilience_Toward_Efficient_Prefix-Model_Against_LLM_Red-Teaming.md)
+
+    - [翻译: ](2024年05月21日/Tiny_Refinements_Elicit_Resilience_Toward_Efficient_Prefix-Model_Against_LLM_Red-Teaming.md)
+
+- [Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression](2024年05月21日/Unlocking_Data-free_Low-bit_Quantization_with_Matrix_Decomposition_for_KV_Cache_Compression.md)
+
+    - [翻译: ](2024年05月21日/Unlocking_Data-free_Low-bit_Quantization_with_Matrix_Decomposition_for_KV_Cache_Compression.md)
+
+- [Is Dataset Quality Still a Concern in Diagnosis Using Large Foundation Model?](2024年05月21日/Is_Dataset_Quality_Still_a_Concern_in_Diagnosis_Using_Large_Foundation_Model.md)
+
+    - [翻译: ](2024年05月21日/Is_Dataset_Quality_Still_a_Concern_in_Diagnosis_Using_Large_Foundation_Model.md)
+
+- [ProtT3: Protein-to-Text Generation for Text-based Protein Understanding](2024年05月21日/ProtT3_Protein-to-Text_Generation_for_Text-based_Protein_Understanding.md)
+
+    - [翻译: ](2024年05月21日/ProtT3_Protein-to-Text_Generation_for_Text-based_Protein_Understanding.md)
+
+- [DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](2024年05月21日/DrHouse_An_LLM-empowered_Diagnostic_Reasoning_System_through_Harnessing_Outcomes_from_Sensor_Data_and_Expert_Knowledge.md)
+
+    - [翻译: ](2024年05月21日/DrHouse_An_LLM-empowered_Diagnostic_Reasoning_System_through_Harnessing_Outcomes_from_Sensor_Data_and_Expert_Knowledge.md)
+
+- [Context-Enhanced Video Moment Retrieval with Large Language Models](2024年05月21日/Context-Enhanced_Video_Moment_Retrieval_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月21日/Context-Enhanced_Video_Moment_Retrieval_with_Large_Language_Models.md)
+
+- [PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference](2024年05月21日/PyramidInfer_Pyramid_KV_Cache_Compression_for_High-throughput_LLM_Inference.md)
+
+    - [翻译: ](2024年05月21日/PyramidInfer_Pyramid_KV_Cache_Compression_for_High-throughput_LLM_Inference.md)
+
+- [SirLLM: Streaming Infinite Retentive LLM](2024年05月21日/SirLLM_Streaming_Infinite_Retentive_LLM.md)
+
+    - [翻译: ](2024年05月21日/SirLLM_Streaming_Infinite_Retentive_LLM.md)
+
+- [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](2024年05月21日/Single_Image_Unlearning_Efficient_Machine_Unlearning_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月21日/Single_Image_Unlearning_Efficient_Machine_Unlearning_in_Multimodal_Large_Language_Models.md)
+
+- [Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models](2024年05月21日/Sparse_Autoencoders_Enable_Scalable_and_Reliable_Circuit_Identification_in_Language_Models.md)
+
+    - [翻译: ](2024年05月21日/Sparse_Autoencoders_Enable_Scalable_and_Reliable_Circuit_Identification_in_Language_Models.md)
+
+- [Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection](2024年05月21日/Time_Matters_Enhancing_Pre-trained_News_Recommendation_Models_with_Robust_User_Dwell_Time_Injection.md)
+
+    - [翻译: ](2024年05月21日/Time_Matters_Enhancing_Pre-trained_News_Recommendation_Models_with_Robust_User_Dwell_Time_Injection.md)
+
 2024年05月20日
 
 - [TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models](2024年05月20日/TinyLLaVA_Factory_A_Modularized_Codebase_for_Small-scale_Large_Multimodal_Models.md)
@@ -141,6 +303,42 @@
 - [xFinder: Robust and Pinpoint Answer Extraction for Large Language Models](2024年05月20日/xFinder_Robust_and_Pinpoint_Answer_Extraction_for_Large_Language_Models.md)
 
     - [翻译: xFinder：大型语言模型中精准答案提取的稳健之选](2024年05月20日/xFinder_Robust_and_Pinpoint_Answer_Extraction_for_Large_Language_Models.md)
+
+- [PLM4Traj: Cognizing Movement Patterns and Travel Purposes from Trajectories with Pre-trained Language Models](2024年05月20日/PLM4Traj_Cognizing_Movement_Patterns_and_Travel_Purposes_from_Trajectories_with_Pre-trained_Language_Models.md)
+
+    - [翻译: ](2024年05月20日/PLM4Traj_Cognizing_Movement_Patterns_and_Travel_Purposes_from_Trajectories_with_Pre-trained_Language_Models.md)
+
+- [Mutual Information Analysis in Multimodal Learning Systems](2024年05月20日/Mutual_Information_Analysis_in_Multimodal_Learning_Systems.md)
+
+    - [翻译: ](2024年05月20日/Mutual_Information_Analysis_in_Multimodal_Learning_Systems.md)
+
+- [PathOCL: Path-Based Prompt Augmentation for OCL Generation with GPT-4](2024年05月20日/PathOCL_Path-Based_Prompt_Augmentation_for_OCL_Generation_with_GPT-4.md)
+
+    - [翻译: ](2024年05月20日/PathOCL_Path-Based_Prompt_Augmentation_for_OCL_Generation_with_GPT-4.md)
+
+- [Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation](2024年05月20日/Learning_Structure_and_Knowledge_Aware_Representation_with_Large_Language_Models_for_Concept_Recommendation.md)
+
+    - [翻译: ](2024年05月20日/Learning_Structure_and_Knowledge_Aware_Representation_with_Large_Language_Models_for_Concept_Recommendation.md)
+
+- [Resolving Word Vagueness with Scenario-guided Adapter for Natural Language Inference](2024年05月20日/Resolving_Word_Vagueness_with_Scenario-guided_Adapter_for_Natural_Language_Inference.md)
+
+    - [翻译: ](2024年05月20日/Resolving_Word_Vagueness_with_Scenario-guided_Adapter_for_Natural_Language_Inference.md)
+
+- [LLM+Reasoning+Planning for supporting incomplete user queries in presence of APIs](2024年05月20日/LLM+Reasoning+Planning_for_supporting_incomplete_user_queries_in_presence_of_APIs.md)
+
+    - [翻译: ](2024年05月20日/LLM+Reasoning+Planning_for_supporting_incomplete_user_queries_in_presence_of_APIs.md)
+
+- [Question-Based Retrieval using Atomic Units for Enterprise RAG](2024年05月20日/Question-Based_Retrieval_using_Atomic_Units_for_Enterprise_RAG.md)
+
+    - [翻译: ](2024年05月20日/Question-Based_Retrieval_using_Atomic_Units_for_Enterprise_RAG.md)
+
+- [Self-HWDebug: Automation of LLM Self-Instructing for Hardware Security Verification](2024年05月20日/Self-HWDebug_Automation_of_LLM_Self-Instructing_for_Hardware_Security_Verification.md)
+
+    - [翻译: ](2024年05月20日/Self-HWDebug_Automation_of_LLM_Self-Instructing_for_Hardware_Security_Verification.md)
+
+- [Directed Metric Structures arising in Large Language Models](2024年05月20日/Directed_Metric_Structures_arising_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月20日/Directed_Metric_Structures_arising_in_Large_Language_Models.md)
 
 2024年05月19日
 
@@ -313,6 +511,10 @@
 - [Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments](2024年05月18日/Automating_PTSD_Diagnostics_in_Clinical_Interviews_Leveraging_Large_Language_Models_for_Trauma_Assessments.md)
 
     - [翻译: 利用大型语言模型自动化 PTSD 诊断，优化临床访谈中的创伤评估流程。](2024年05月18日/Automating_PTSD_Diagnostics_in_Clinical_Interviews_Leveraging_Large_Language_Models_for_Trauma_Assessments.md)
+
+- [A Method on Searching Better Activation Functions](2024年05月18日/A_Method_on_Searching_Better_Activation_Functions.md)
+
+    - [翻译: ](2024年05月18日/A_Method_on_Searching_Better_Activation_Functions.md)
 
 2024年05月17日
 
