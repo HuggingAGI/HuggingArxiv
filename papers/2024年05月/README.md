@@ -1,5 +1,19 @@
 # 2024年05月
 
+2024年05月22日
+
+- [Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models](2024年05月22日/Image-of-Thought_Prompting_for_Visual_Reasoning_Refinement_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型中视觉推理细化的“思想图像”提示法](2024年05月22日/Image-of-Thought_Prompting_for_Visual_Reasoning_Refinement_in_Multimodal_Large_Language_Models.md)
+
+- [Dense Connector for MLLMs](2024年05月22日/Dense_Connector_for_MLLMs.md)
+
+    - [翻译: 多语言大型语言模型的密集连接器](2024年05月22日/Dense_Connector_for_MLLMs.md)
+
+- [CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models](2024年05月22日/CrossCheckGPT_Universal_Hallucination_Ranking_for_Multimodal_Foundation_Models.md)
+
+    - [翻译: CrossCheckGPT：多模态基础模型幻觉评估的通用排名系统](2024年05月22日/CrossCheckGPT_Universal_Hallucination_Ranking_for_Multimodal_Foundation_Models.md)
+
 2024年05月21日
 
 - [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)
