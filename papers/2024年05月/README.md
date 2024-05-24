@@ -32,139 +32,139 @@
 
 - [Range-Limited Heaps' Law for Functional DNA Words in the Human Genome](2024年05月22日/Range-Limited_Heaps'_Law_for_Functional_DNA_Words_in_the_Human_Genome.md)
 
-    - [翻译: ](2024年05月22日/Range-Limited_Heaps'_Law_for_Functional_DNA_Words_in_the_Human_Genome.md)
+    - [翻译: 人类基因组中功能性DNA词汇的有限范围堆法研究](2024年05月22日/Range-Limited_Heaps'_Law_for_Functional_DNA_Words_in_the_Human_Genome.md)
 
 - [Towards Comprehensive and Efficient Post Safety Alignment of Large Language Models via Safety Patching](2024年05月22日/Towards_Comprehensive_and_Efficient_Post_Safety_Alignment_of_Large_Language_Models_via_Safety_Patching.md)
 
-    - [翻译: ](2024年05月22日/Towards_Comprehensive_and_Efficient_Post_Safety_Alignment_of_Large_Language_Models_via_Safety_Patching.md)
+    - [翻译: 利用安全补丁，全面高效地对大型语言模型进行后安全对齐](2024年05月22日/Towards_Comprehensive_and_Efficient_Post_Safety_Alignment_of_Large_Language_Models_via_Safety_Patching.md)
 
 - [Thermodynamic Natural Gradient Descent](2024年05月22日/Thermodynamic_Natural_Gradient_Descent.md)
 
-    - [翻译: ](2024年05月22日/Thermodynamic_Natural_Gradient_Descent.md)
+    - [翻译: 热力学自然梯度下降法](2024年05月22日/Thermodynamic_Natural_Gradient_Descent.md)
 
 - [Large Language Models are Good Spontaneous Multilingual Learners: Is the Multilingual Annotated Data Necessary?](2024年05月22日/Large_Language_Models_are_Good_Spontaneous_Multilingual_Learners_Is_the_Multilingual_Annotated_Data_Necessary.md)
 
-    - [翻译: ](2024年05月22日/Large_Language_Models_are_Good_Spontaneous_Multilingual_Learners_Is_the_Multilingual_Annotated_Data_Necessary.md)
+    - [翻译: 大型语言模型展现出卓越的自发性多语言学习能力，这引发了一个问题：我们是否真的需要多语言标注数据？](2024年05月22日/Large_Language_Models_are_Good_Spontaneous_Multilingual_Learners_Is_the_Multilingual_Annotated_Data_Necessary.md)
 
 - [Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](2024年05月22日/Slaves_to_the_Law_of_Large_Numbers_An_Asymptotic_Equipartition_Property_for_Perplexity_in_Generative_Language_Models.md)
 
-    - [翻译: ](2024年05月22日/Slaves_to_the_Law_of_Large_Numbers_An_Asymptotic_Equipartition_Property_for_Perplexity_in_Generative_Language_Models.md)
+    - [翻译: 大数定律下的奴隶：生成语言模型中困惑度的渐近等分特性](2024年05月22日/Slaves_to_the_Law_of_Large_Numbers_An_Asymptotic_Equipartition_Property_for_Perplexity_in_Generative_Language_Models.md)
 
 - [Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation](2024年05月22日/Do_Language_Models_Enjoy_Their_Own_Stories_Prompting_Large_Language_Models_for_Automatic_Story_Evaluation.md)
 
-    - [翻译: ](2024年05月22日/Do_Language_Models_Enjoy_Their_Own_Stories_Prompting_Large_Language_Models_for_Automatic_Story_Evaluation.md)
+    - [翻译: 大型语言模型是否自得其乐于其编织的故事？探索利用这些模型进行自动故事评估的潜力。](2024年05月22日/Do_Language_Models_Enjoy_Their_Own_Stories_Prompting_Large_Language_Models_for_Automatic_Story_Evaluation.md)
 
 - [CG-FedLLM: How to Compress Gradients in Federated Fune-tuning for Large Language Models](2024年05月22日/CG-FedLLM_How_to_Compress_Gradients_in_Federated_Fune-tuning_for_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月22日/CG-FedLLM_How_to_Compress_Gradients_in_Federated_Fune-tuning_for_Large_Language_Models.md)
+    - [翻译: CG-FedLLM：大型语言模型联邦微调中的梯度压缩策略](2024年05月22日/CG-FedLLM_How_to_Compress_Gradients_in_Federated_Fune-tuning_for_Large_Language_Models.md)
 
 - [Mining Action Rules for Defect Reduction Planning](2024年05月22日/Mining_Action_Rules_for_Defect_Reduction_Planning.md)
 
-    - [翻译: ](2024年05月22日/Mining_Action_Rules_for_Defect_Reduction_Planning.md)
+    - [翻译: 挖掘行动规则，助力缺陷减少规划](2024年05月22日/Mining_Action_Rules_for_Defect_Reduction_Planning.md)
 
 - [Knowledge Graph Reasoning with Self-supervised Reinforcement Learning](2024年05月22日/Knowledge_Graph_Reasoning_with_Self-supervised_Reinforcement_Learning.md)
 
-    - [翻译: ](2024年05月22日/Knowledge_Graph_Reasoning_with_Self-supervised_Reinforcement_Learning.md)
+    - [翻译: 利用自监督强化学习进行知识图谱推理](2024年05月22日/Knowledge_Graph_Reasoning_with_Self-supervised_Reinforcement_Learning.md)
 
 - [Automated Evaluation of Retrieval-Augmented Language Models with Task-Specific Exam Generation](2024年05月22日/Automated_Evaluation_of_Retrieval-Augmented_Language_Models_with_Task-Specific_Exam_Generation.md)
 
-    - [翻译: ](2024年05月22日/Automated_Evaluation_of_Retrieval-Augmented_Language_Models_with_Task-Specific_Exam_Generation.md)
+    - [翻译: 通过任务特定考试生成，自动化评估检索增强型语言模型](2024年05月22日/Automated_Evaluation_of_Retrieval-Augmented_Language_Models_with_Task-Specific_Exam_Generation.md)
 
 - [From the evolution of public data ecosystems to the evolving horizons of the forward-looking intelligent public data ecosystem empowered by emerging technologies](2024年05月22日/From_the_evolution_of_public_data_ecosystems_to_the_evolving_horizons_of_the_forward-looking_intelligent_public_data_ecosystem_empowered_by_emerging_technologies.md)
 
-    - [翻译: ](2024年05月22日/From_the_evolution_of_public_data_ecosystems_to_the_evolving_horizons_of_the_forward-looking_intelligent_public_data_ecosystem_empowered_by_emerging_technologies.md)
+    - [翻译: 公共数据生态系统正经历着从演进到新兴技术推动的前瞻性智能化的转变，其视野不断扩展。](2024年05月22日/From_the_evolution_of_public_data_ecosystems_to_the_evolving_horizons_of_the_forward-looking_intelligent_public_data_ecosystem_empowered_by_emerging_technologies.md)
 
 - [Safety Alignment for Vision Language Models](2024年05月22日/Safety_Alignment_for_Vision_Language_Models.md)
 
-    - [翻译: ](2024年05月22日/Safety_Alignment_for_Vision_Language_Models.md)
+    - [翻译: 视觉语言模型的安全对齐研究](2024年05月22日/Safety_Alignment_for_Vision_Language_Models.md)
 
 - [ConTrans: Weak-to-Strong Alignment Engineering via Concept Transplantation](2024年05月22日/ConTrans_Weak-to-Strong_Alignment_Engineering_via_Concept_Transplantation.md)
 
-    - [翻译: ](2024年05月22日/ConTrans_Weak-to-Strong_Alignment_Engineering_via_Concept_Transplantation.md)
+    - [翻译: ConTrans：借助概念移植，实现从弱到强的对齐工程优化](2024年05月22日/ConTrans_Weak-to-Strong_Alignment_Engineering_via_Concept_Transplantation.md)
 
 - [FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research](2024年05月22日/FlashRAG_A_Modular_Toolkit_for_Efficient_Retrieval-Augmented_Generation_Research.md)
 
-    - [翻译: ](2024年05月22日/FlashRAG_A_Modular_Toolkit_for_Efficient_Retrieval-Augmented_Generation_Research.md)
+    - [翻译: FlashRAG：高效检索增强生成研究的模块化利器](2024年05月22日/FlashRAG_A_Modular_Toolkit_for_Efficient_Retrieval-Augmented_Generation_Research.md)
 
 - [AI-Assisted Assessment of Coding Practices in Modern Code Review](2024年05月22日/AI-Assisted_Assessment_of_Coding_Practices_in_Modern_Code_Review.md)
 
-    - [翻译: ](2024年05月22日/AI-Assisted_Assessment_of_Coding_Practices_in_Modern_Code_Review.md)
+    - [翻译: AI助力现代代码审查中的编码实践评估](2024年05月22日/AI-Assisted_Assessment_of_Coding_Practices_in_Modern_Code_Review.md)
 
 - [Navigating User Experience of ChatGPT-based Conversational Recommender Systems: The Effects of Prompt Guidance and Recommendation Domain](2024年05月22日/Navigating_User_Experience_of_ChatGPT-based_Conversational_Recommender_Systems_The_Effects_of_Prompt_Guidance_and_Recommendation_Domain.md)
 
-    - [翻译: ](2024年05月22日/Navigating_User_Experience_of_ChatGPT-based_Conversational_Recommender_Systems_The_Effects_of_Prompt_Guidance_and_Recommendation_Domain.md)
+    - [翻译: 探索基于ChatGPT的对话推荐系统用户体验：提示引导与推荐领域之影响](2024年05月22日/Navigating_User_Experience_of_ChatGPT-based_Conversational_Recommender_Systems_The_Effects_of_Prompt_Guidance_and_Recommendation_Domain.md)
 
 - [Large Language Models are Effective Priors for Causal Graph Discovery](2024年05月22日/Large_Language_Models_are_Effective_Priors_for_Causal_Graph_Discovery.md)
 
-    - [翻译: ](2024年05月22日/Large_Language_Models_are_Effective_Priors_for_Causal_Graph_Discovery.md)
+    - [翻译: 大型语言模型作为因果图发现的先验，展现出其有效性。](2024年05月22日/Large_Language_Models_are_Effective_Priors_for_Causal_Graph_Discovery.md)
 
 - [ECLIPSE: Semantic Entropy-LCS for Cross-Lingual Industrial Log Parsing](2024年05月22日/ECLIPSE_Semantic_Entropy-LCS_for_Cross-Lingual_Industrial_Log_Parsing.md)
 
-    - [翻译: ](2024年05月22日/ECLIPSE_Semantic_Entropy-LCS_for_Cross-Lingual_Industrial_Log_Parsing.md)
+    - [翻译: ECLIPSE：跨语言工业日志解析的语义熵-最长公共子序列方法](2024年05月22日/ECLIPSE_Semantic_Entropy-LCS_for_Cross-Lingual_Industrial_Log_Parsing.md)
 
 - [HighwayLLM: Decision-Making and Navigation in Highway Driving with RL-Informed Language Model](2024年05月22日/HighwayLLM_Decision-Making_and_Navigation_in_Highway_Driving_with_RL-Informed_Language_Model.md)
 
-    - [翻译: ](2024年05月22日/HighwayLLM_Decision-Making_and_Navigation_in_Highway_Driving_with_RL-Informed_Language_Model.md)
+    - [翻译: HighwayLLM：借助强化学习启发的语言模型，实现高速公路驾驶中的智能决策与导航](2024年05月22日/HighwayLLM_Decision-Making_and_Navigation_in_Highway_Driving_with_RL-Informed_Language_Model.md)
 
 - [Annotation-Efficient Preference Optimization for Language Model Alignment](2024年05月22日/Annotation-Efficient_Preference_Optimization_for_Language_Model_Alignment.md)
 
-    - [翻译: ](2024年05月22日/Annotation-Efficient_Preference_Optimization_for_Language_Model_Alignment.md)
+    - [翻译: 优化语言模型偏好：高效注释策略](2024年05月22日/Annotation-Efficient_Preference_Optimization_for_Language_Model_Alignment.md)
 
 - [PerSense: Personalized Instance Segmentation in Dense Images](2024年05月22日/PerSense_Personalized_Instance_Segmentation_in_Dense_Images.md)
 
-    - [翻译: ](2024年05月22日/PerSense_Personalized_Instance_Segmentation_in_Dense_Images.md)
+    - [翻译: PerSense：密集图像中的个性化实例分割技术](2024年05月22日/PerSense_Personalized_Instance_Segmentation_in_Dense_Images.md)
 
 - [WaterPool: A Watermark Mitigating Trade-offs among Imperceptibility, Efficacy and Robustness](2024年05月22日/WaterPool_A_Watermark_Mitigating_Trade-offs_among_Imperceptibility,_Efficacy_and_Robustness.md)
 
-    - [翻译: ](2024年05月22日/WaterPool_A_Watermark_Mitigating_Trade-offs_among_Imperceptibility,_Efficacy_and_Robustness.md)
+    - [翻译: WaterPool：平衡水印的隐秘性、效能与稳健性的创新方案](2024年05月22日/WaterPool_A_Watermark_Mitigating_Trade-offs_among_Imperceptibility,_Efficacy_and_Robustness.md)
 
 - [LIRE: listwise reward enhancement for preference alignment](2024年05月22日/LIRE_listwise_reward_enhancement_for_preference_alignment.md)
 
-    - [翻译: ](2024年05月22日/LIRE_listwise_reward_enhancement_for_preference_alignment.md)
+    - [翻译: LIRE：通过列表级奖励增强优化偏好对齐](2024年05月22日/LIRE_listwise_reward_enhancement_for_preference_alignment.md)
 
 - [Adapting Multi-modal Large Language Model to Concept Drift in the Long-tailed Open World](2024年05月22日/Adapting_Multi-modal_Large_Language_Model_to_Concept_Drift_in_the_Long-tailed_Open_World.md)
 
-    - [翻译: ](2024年05月22日/Adapting_Multi-modal_Large_Language_Model_to_Concept_Drift_in_the_Long-tailed_Open_World.md)
+    - [翻译: 多模态大型语言模型在长尾开放世界中应对概念漂移的适应性调整](2024年05月22日/Adapting_Multi-modal_Large_Language_Model_to_Concept_Drift_in_the_Long-tailed_Open_World.md)
 
 - [Distilling Instruction-following Abilities of Large Language Models with Task-aware Curriculum Planning](2024年05月22日/Distilling_Instruction-following_Abilities_of_Large_Language_Models_with_Task-aware_Curriculum_Planning.md)
 
-    - [翻译: ](2024年05月22日/Distilling_Instruction-following_Abilities_of_Large_Language_Models_with_Task-aware_Curriculum_Planning.md)
+    - [翻译: 利用任务感知的课程规划，精炼大型语言模型的指令遵循能力](2024年05月22日/Distilling_Instruction-following_Abilities_of_Large_Language_Models_with_Task-aware_Curriculum_Planning.md)
 
 - [Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction](2024年05月22日/Disperse-Then-Merge_Pushing_the_Limits_of_Instruction_Tuning_via_Alignment_Tax_Reduction.md)
 
-    - [翻译: ](2024年05月22日/Disperse-Then-Merge_Pushing_the_Limits_of_Instruction_Tuning_via_Alignment_Tax_Reduction.md)
+    - [翻译: 分散再融合：通过降低对齐成本，拓展指令调优的边界](2024年05月22日/Disperse-Then-Merge_Pushing_the_Limits_of_Instruction_Tuning_via_Alignment_Tax_Reduction.md)
 
 - [TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](2024年05月22日/TrojanRAG_Retrieval-Augmented_Generation_Can_Be_Backdoor_Driver_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月22日/TrojanRAG_Retrieval-Augmented_Generation_Can_Be_Backdoor_Driver_in_Large_Language_Models.md)
+    - [翻译: TrojanRAG：大型语言模型中的检索增强生成可能潜藏后门风险](2024年05月22日/TrojanRAG_Retrieval-Augmented_Generation_Can_Be_Backdoor_Driver_in_Large_Language_Models.md)
 
 - [Unsupervised Pre-training with Language-Vision Prompts for Low-Data Instance Segmentation](2024年05月22日/Unsupervised_Pre-training_with_Language-Vision_Prompts_for_Low-Data_Instance_Segmentation.md)
 
-    - [翻译: ](2024年05月22日/Unsupervised_Pre-training_with_Language-Vision_Prompts_for_Low-Data_Instance_Segmentation.md)
+    - [翻译: 借助语言-视觉提示，实现低数据场景下的实例分割无监督预训练](2024年05月22日/Unsupervised_Pre-training_with_Language-Vision_Prompts_for_Low-Data_Instance_Segmentation.md)
 
 - [VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding](2024年05月22日/VTG-LLM_Integrating_Timestamp_Knowledge_into_Video_LLMs_for_Enhanced_Video_Temporal_Grounding.md)
 
-    - [翻译: ](2024年05月22日/VTG-LLM_Integrating_Timestamp_Knowledge_into_Video_LLMs_for_Enhanced_Video_Temporal_Grounding.md)
+    - [翻译: VTG-LLM：融合时间戳知识于视频LLMs，提升视频时间定位能力](2024年05月22日/VTG-LLM_Integrating_Timestamp_Knowledge_into_Video_LLMs_for_Enhanced_Video_Temporal_Grounding.md)
 
 - [Lusifer: LLM-based User SImulated Feedback Environment for online Recommender systems](2024年05月22日/Lusifer_LLM-based_User_SImulated_Feedback_Environment_for_online_Recommender_systems.md)
 
-    - [翻译: ](2024年05月22日/Lusifer_LLM-based_User_SImulated_Feedback_Environment_for_online_Recommender_systems.md)
+    - [翻译: Lusifer：大型语言模型驱动的用户模拟反馈环境，专为在线推荐系统设计](2024年05月22日/Lusifer_LLM-based_User_SImulated_Feedback_Environment_for_online_Recommender_systems.md)
 
 - [AdpQ: A Zero-shot Calibration Free Adaptive Post Training Quantization Method for LLMs](2024年05月22日/AdpQ_A_Zero-shot_Calibration_Free_Adaptive_Post_Training_Quantization_Method_for_LLMs.md)
 
-    - [翻译: ](2024年05月22日/AdpQ_A_Zero-shot_Calibration_Free_Adaptive_Post_Training_Quantization_Method_for_LLMs.md)
+    - [翻译: AdpQ：大型语言模型无需校准的零-shot自适应后训练量化新方法](2024年05月22日/AdpQ_A_Zero-shot_Calibration_Free_Adaptive_Post_Training_Quantization_Method_for_LLMs.md)
 
 - [Large Language Models (LLMs) Assisted Wireless Network Deployment in Urban Settings](2024年05月22日/Large_Language_Models_(LLMs)_Assisted_Wireless_Network_Deployment_in_Urban_Settings.md)
 
-    - [翻译: ](2024年05月22日/Large_Language_Models_(LLMs)_Assisted_Wireless_Network_Deployment_in_Urban_Settings.md)
+    - [翻译: 城市环境中，大型语言模型（LLMs）助力无线网络部署，本研究探讨了 LLMs 如何优化网络布局，提升城市通信效率。](2024年05月22日/Large_Language_Models_(LLMs)_Assisted_Wireless_Network_Deployment_in_Urban_Settings.md)
 
 - [SIGGesture: Generalized Co-Speech Gesture Synthesis via Semantic Injection with Large-Scale Pre-Training Diffusion Models](2024年05月22日/SIGGesture_Generalized_Co-Speech_Gesture_Synthesis_via_Semantic_Injection_with_Large-Scale_Pre-Training_Diffusion_Models.md)
 
-    - [翻译: ](2024年05月22日/SIGGesture_Generalized_Co-Speech_Gesture_Synthesis_via_Semantic_Injection_with_Large-Scale_Pre-Training_Diffusion_Models.md)
+    - [翻译: SIGGesture：借助大规模预训练扩散模型注入语义，实现通用共语手势的合成](2024年05月22日/SIGGesture_Generalized_Co-Speech_Gesture_Synthesis_via_Semantic_Injection_with_Large-Scale_Pre-Training_Diffusion_Models.md)
 
 - [Mosaic IT: Enhancing Instruction Tuning with Data Mosaics](2024年05月22日/Mosaic_IT_Enhancing_Instruction_Tuning_with_Data_Mosaics.md)
 
-    - [翻译: ](2024年05月22日/Mosaic_IT_Enhancing_Instruction_Tuning_with_Data_Mosaics.md)
+    - [翻译: Mosaic IT：通过数据马赛克提升指令调优效果](2024年05月22日/Mosaic_IT_Enhancing_Instruction_Tuning_with_Data_Mosaics.md)
 
 2024年05月21日
 
@@ -338,39 +338,39 @@
 
 - [A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings](2024年05月21日/A_Survey_of_Robotic_Language_Grounding_Tradeoffs_Between_Symbols_and_Embeddings.md)
 
-    - [翻译: ](2024年05月21日/A_Survey_of_Robotic_Language_Grounding_Tradeoffs_Between_Symbols_and_Embeddings.md)
+    - [翻译: 机器人语言基础研究综述：探讨符号与嵌入之间的取舍](2024年05月21日/A_Survey_of_Robotic_Language_Grounding_Tradeoffs_Between_Symbols_and_Embeddings.md)
 
 - [Dataset Decomposition: Faster LLM Training with Variable Sequence Length Curriculum](2024年05月21日/Dataset_Decomposition_Faster_LLM_Training_with_Variable_Sequence_Length_Curriculum.md)
 
-    - [翻译: ](2024年05月21日/Dataset_Decomposition_Faster_LLM_Training_with_Variable_Sequence_Length_Curriculum.md)
+    - [翻译: 数据集分解：利用可变序列长度课程加速大型语言模型训练](2024年05月21日/Dataset_Decomposition_Faster_LLM_Training_with_Variable_Sequence_Length_Curriculum.md)
 
 - [How Reliable AI Chatbots are for Disease Prediction from Patient Complaints?](2024年05月21日/How_Reliable_AI_Chatbots_are_for_Disease_Prediction_from_Patient_Complaints.md)
 
-    - [翻译: ](2024年05月21日/How_Reliable_AI_Chatbots_are_for_Disease_Prediction_from_Patient_Complaints.md)
+    - [翻译: 人工智能聊天机器人在从患者投诉中预测疾病方面的可靠性如何？](2024年05月21日/How_Reliable_AI_Chatbots_are_for_Disease_Prediction_from_Patient_Complaints.md)
 
 - [Equipping Transformer with Random-Access Reading for Long-Context Understanding](2024年05月21日/Equipping_Transformer_with_Random-Access_Reading_for_Long-Context_Understanding.md)
 
-    - [翻译: ](2024年05月21日/Equipping_Transformer_with_Random-Access_Reading_for_Long-Context_Understanding.md)
+    - [翻译: 赋予Transformer随机访问阅读能力，深化长上下文理解](2024年05月21日/Equipping_Transformer_with_Random-Access_Reading_for_Long-Context_Understanding.md)
 
 - [Investigating Symbolic Capabilities of Large Language Models](2024年05月21日/Investigating_Symbolic_Capabilities_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月21日/Investigating_Symbolic_Capabilities_of_Large_Language_Models.md)
+    - [翻译: 探究大型语言模型的符号处理能力](2024年05月21日/Investigating_Symbolic_Capabilities_of_Large_Language_Models.md)
 
 - [Identity-free Artificial Emotional Intelligence via Micro-Gesture Understanding](2024年05月21日/Identity-free_Artificial_Emotional_Intelligence_via_Micro-Gesture_Understanding.md)
 
-    - [翻译: ](2024年05月21日/Identity-free_Artificial_Emotional_Intelligence_via_Micro-Gesture_Understanding.md)
+    - [翻译: 微动作理解驱动的匿名人工情感智能](2024年05月21日/Identity-free_Artificial_Emotional_Intelligence_via_Micro-Gesture_Understanding.md)
 
 - [Modeling Real-Time Interactive Conversations as Timed Diarized Transcripts](2024年05月21日/Modeling_Real-Time_Interactive_Conversations_as_Timed_Diarized_Transcripts.md)
 
-    - [翻译: ](2024年05月21日/Modeling_Real-Time_Interactive_Conversations_as_Timed_Diarized_Transcripts.md)
+    - [翻译: 实时互动对话的建模：时间戳标注转录文本](2024年05月21日/Modeling_Real-Time_Interactive_Conversations_as_Timed_Diarized_Transcripts.md)
 
 - [Comparative Analysis of Different Efficient Fine Tuning Methods of Large Language Models (LLMs) in Low-Resource Setting](2024年05月21日/Comparative_Analysis_of_Different_Efficient_Fine_Tuning_Methods_of_Large_Language_Models_(LLMs)_in_Low-Resource_Setting.md)
 
-    - [翻译: ](2024年05月21日/Comparative_Analysis_of_Different_Efficient_Fine_Tuning_Methods_of_Large_Language_Models_(LLMs)_in_Low-Resource_Setting.md)
+    - [翻译: 低资源环境下，大型语言模型（LLMs）高效微调方法的比较研究](2024年05月21日/Comparative_Analysis_of_Different_Efficient_Fine_Tuning_Methods_of_Large_Language_Models_(LLMs)_in_Low-Resource_Setting.md)
 
 - [A Workbench for Autograding Retrieve/Generate Systems](2024年05月21日/A_Workbench_for_Autograding_RetrieveGenerate_Systems.md)
 
-    - [翻译: ](2024年05月21日/A_Workbench_for_Autograding_RetrieveGenerate_Systems.md)
+    - [翻译: 检索/生成系统自动评分工作台](2024年05月21日/A_Workbench_for_Autograding_RetrieveGenerate_Systems.md)
 
 2024年05月20日
 
