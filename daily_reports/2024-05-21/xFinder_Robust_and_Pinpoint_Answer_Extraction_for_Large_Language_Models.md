@@ -38,4 +38,3 @@
 - 论文原文: [https://arxiv.org/abs/2405.11874](https://arxiv.org/abs/2405.11874)
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 - 加入社群，+v: iamxxn886
-- 公众号回复关键词获取论文原文： 4844515844225128
