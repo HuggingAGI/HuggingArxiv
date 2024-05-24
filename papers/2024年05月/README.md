@@ -160,79 +160,79 @@
 
 - [Exploring the use of a Large Language Model for data extraction in systematic reviews: a rapid feasibility study](2024年05月23日/Exploring_the_use_of_a_Large_Language_Model_for_data_extraction_in_systematic_reviews_a_rapid_feasibility_study.md)
 
-    - [翻译: ](2024年05月23日/Exploring_the_use_of_a_Large_Language_Model_for_data_extraction_in_systematic_reviews_a_rapid_feasibility_study.md)
+    - [翻译: 本研究旨在快速评估大型语言模型在系统评价数据提取中的应用潜力。](2024年05月23日/Exploring_the_use_of_a_Large_Language_Model_for_data_extraction_in_systematic_reviews_a_rapid_feasibility_study.md)
 
 - [Combining Denoising Autoencoders with Contrastive Learning to fine-tune Transformer Models](2024年05月23日/Combining_Denoising_Autoencoders_with_Contrastive_Learning_to_fine-tune_Transformer_Models.md)
 
-    - [翻译: ](2024年05月23日/Combining_Denoising_Autoencoders_with_Contrastive_Learning_to_fine-tune_Transformer_Models.md)
+    - [翻译: 融合去噪自编码器与对比学习，精调Transformer模型](2024年05月23日/Combining_Denoising_Autoencoders_with_Contrastive_Learning_to_fine-tune_Transformer_Models.md)
 
 - [RaFe: Ranking Feedback Improves Query Rewriting for RAG](2024年05月23日/RaFe_Ranking_Feedback_Improves_Query_Rewriting_for_RAG.md)
 
-    - [翻译: ](2024年05月23日/RaFe_Ranking_Feedback_Improves_Query_Rewriting_for_RAG.md)
+    - [翻译: RaFe：通过排名反馈优化RAG的查询重写策略](2024年05月23日/RaFe_Ranking_Feedback_Improves_Query_Rewriting_for_RAG.md)
 
 - [Mitigating Quantization Errors Due to Activation Spikes in GLU-Based LLMs](2024年05月23日/Mitigating_Quantization_Errors_Due_to_Activation_Spikes_in_GLU-Based_LLMs.md)
 
-    - [翻译: ](2024年05月23日/Mitigating_Quantization_Errors_Due_to_Activation_Spikes_in_GLU-Based_LLMs.md)
+    - [翻译: 缓解基于GLU的LLMs中激活尖峰导致的量化误差问题](2024年05月23日/Mitigating_Quantization_Errors_Due_to_Activation_Spikes_in_GLU-Based_LLMs.md)
 
 - [Large Language Models for Explainable Decisions in Dynamic Digital Twins](2024年05月23日/Large_Language_Models_for_Explainable_Decisions_in_Dynamic_Digital_Twins.md)
 
-    - [翻译: ](2024年05月23日/Large_Language_Models_for_Explainable_Decisions_in_Dynamic_Digital_Twins.md)
+    - [翻译: 大型语言模型助力动态数字孪生实现决策透明化](2024年05月23日/Large_Language_Models_for_Explainable_Decisions_in_Dynamic_Digital_Twins.md)
 
 - [Explainable Few-shot Knowledge Tracing](2024年05月23日/Explainable_Few-shot_Knowledge_Tracing.md)
 
-    - [翻译: ](2024年05月23日/Explainable_Few-shot_Knowledge_Tracing.md)
+    - [翻译: 可解释的少量样本知识追踪研究](2024年05月23日/Explainable_Few-shot_Knowledge_Tracing.md)
 
 - [Evaluation of the Programming Skills of Large Language Models](2024年05月23日/Evaluation_of_the_Programming_Skills_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月23日/Evaluation_of_the_Programming_Skills_of_Large_Language_Models.md)
+    - [翻译: 大型语言模型编程能力的评测](2024年05月23日/Evaluation_of_the_Programming_Skills_of_Large_Language_Models.md)
 
 - [Emotion Identification for French in Written Texts: Considering their Modes of Expression as a Step Towards Text Complexity Analysis](2024年05月23日/Emotion_Identification_for_French_in_Written_Texts_Considering_their_Modes_of_Expression_as_a_Step_Towards_Text_Complexity_Analysis.md)
 
-    - [翻译: ](2024年05月23日/Emotion_Identification_for_French_in_Written_Texts_Considering_their_Modes_of_Expression_as_a_Step_Towards_Text_Complexity_Analysis.md)
+    - [翻译: 探索法语书面文本的情感识别：以表达方式为切入点，迈向文本复杂性分析的新篇章](2024年05月23日/Emotion_Identification_for_French_in_Written_Texts_Considering_their_Modes_of_Expression_as_a_Step_Towards_Text_Complexity_Analysis.md)
 
 - [Perception of Knowledge Boundary for Large Language Models through Semi-open-ended Question Answering](2024年05月23日/Perception_of_Knowledge_Boundary_for_Large_Language_Models_through_Semi-open-ended_Question_Answering.md)
 
-    - [翻译: ](2024年05月23日/Perception_of_Knowledge_Boundary_for_Large_Language_Models_through_Semi-open-ended_Question_Answering.md)
+    - [翻译: 借助半开放式问答探索大型语言模型的知识界限](2024年05月23日/Perception_of_Knowledge_Boundary_for_Large_Language_Models_through_Semi-open-ended_Question_Answering.md)
 
 - [Can Large Language Models Create New Knowledge for Spatial Reasoning Tasks?](2024年05月23日/Can_Large_Language_Models_Create_New_Knowledge_for_Spatial_Reasoning_Tasks.md)
 
-    - [翻译: ](2024年05月23日/Can_Large_Language_Models_Create_New_Knowledge_for_Spatial_Reasoning_Tasks.md)
+    - [翻译: 大型语言模型是否具备为空间推理任务创造新知识的能力？](2024年05月23日/Can_Large_Language_Models_Create_New_Knowledge_for_Spatial_Reasoning_Tasks.md)
 
 - [CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive Tensor Optimization](2024年05月23日/CoMERA_Computing-_and_Memory-Efficient_Training_via_Rank-Adaptive_Tensor_Optimization.md)
 
-    - [翻译: ](2024年05月23日/CoMERA_Computing-_and_Memory-Efficient_Training_via_Rank-Adaptive_Tensor_Optimization.md)
+    - [翻译: CoMERA：利用秩自适应张量优化，实现高效计算与内存的训练方法](2024年05月23日/CoMERA_Computing-_and_Memory-Efficient_Training_via_Rank-Adaptive_Tensor_Optimization.md)
 
 - [A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image Analysis](2024年05月23日/A_Textbook_Remedy_for_Domain_Shifts_Knowledge_Priors_for_Medical_Image_Analysis.md)
 
-    - [翻译: ](2024年05月23日/A_Textbook_Remedy_for_Domain_Shifts_Knowledge_Priors_for_Medical_Image_Analysis.md)
+    - [翻译: 应对领域转移的经典策略：利用知识先验优化医学图像分析](2024年05月23日/A_Textbook_Remedy_for_Domain_Shifts_Knowledge_Priors_for_Medical_Image_Analysis.md)
 
 - [G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models](2024年05月23日/G3_An_Effective_and_Adaptive_Framework_for_Worldwide_Geolocalization_Using_Large_Multi-Modality_Models.md)
 
-    - [翻译: ](2024年05月23日/G3_An_Effective_and_Adaptive_Framework_for_Worldwide_Geolocalization_Using_Large_Multi-Modality_Models.md)
+    - [翻译: G3：利用大型多模态模型，打造全球地理定位的高效自适应框架](2024年05月23日/G3_An_Effective_and_Adaptive_Framework_for_Worldwide_Geolocalization_Using_Large_Multi-Modality_Models.md)
 
 - [Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration](2024年05月23日/Towards_Efficient_LLM_Grounding_for_Embodied_Multi-Agent_Collaboration.md)
 
-    - [翻译: ](2024年05月23日/Towards_Efficient_LLM_Grounding_for_Embodied_Multi-Agent_Collaboration.md)
+    - [翻译: 构建高效的大型语言模型基础，促进具身多智能体协同合作](2024年05月23日/Towards_Efficient_LLM_Grounding_for_Embodied_Multi-Agent_Collaboration.md)
 
 - [Agent Planning with World Knowledge Model](2024年05月23日/Agent_Planning_with_World_Knowledge_Model.md)
 
-    - [翻译: ](2024年05月23日/Agent_Planning_with_World_Knowledge_Model.md)
+    - [翻译: 基于世界知识模型的智能代理规划](2024年05月23日/Agent_Planning_with_World_Knowledge_Model.md)
 
 - [Identity Inference from CLIP Models using Only Textual Data](2024年05月23日/Identity_Inference_from_CLIP_Models_using_Only_Textual_Data.md)
 
-    - [翻译: ](2024年05月23日/Identity_Inference_from_CLIP_Models_using_Only_Textual_Data.md)
+    - [翻译: 仅凭文本数据，揭秘CLIP模型中的身份推断之谜](2024年05月23日/Identity_Inference_from_CLIP_Models_using_Only_Textual_Data.md)
 
 - [From Text to Pixel: Advancing Long-Context Understanding in MLLMs](2024年05月23日/From_Text_to_Pixel_Advancing_Long-Context_Understanding_in_MLLMs.md)
 
-    - [翻译: ](2024年05月23日/From_Text_to_Pixel_Advancing_Long-Context_Understanding_in_MLLMs.md)
+    - [翻译: 文本至像素：深化多模态大型语言模型中的长上下文理解](2024年05月23日/From_Text_to_Pixel_Advancing_Long-Context_Understanding_in_MLLMs.md)
 
 - [GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices](2024年05月23日/GLaD_Synergizing_Molecular_Graphs_and_Language_Descriptors_for_Enhanced_Power_Conversion_Efficiency_Prediction_in_Organic_Photovoltaic_Devices.md)
 
-    - [翻译: ](2024年05月23日/GLaD_Synergizing_Molecular_Graphs_and_Language_Descriptors_for_Enhanced_Power_Conversion_Efficiency_Prediction_in_Organic_Photovoltaic_Devices.md)
+    - [翻译: GLaD：融合分子图与语言描述，提升有机光伏设备功率转换效率预测精度](2024年05月23日/GLaD_Synergizing_Molecular_Graphs_and_Language_Descriptors_for_Enhanced_Power_Conversion_Efficiency_Prediction_in_Organic_Photovoltaic_Devices.md)
 
 - [Awesome Multi-modal Object Tracking](2024年05月23日/Awesome_Multi-modal_Object_Tracking.md)
 
-    - [翻译: ](2024年05月23日/Awesome_Multi-modal_Object_Tracking.md)
+    - [翻译: 精彩纷呈的多模态追踪技术](2024年05月23日/Awesome_Multi-modal_Object_Tracking.md)
 
 2024年05月22日
 
@@ -402,35 +402,35 @@
 
 - [xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token](2024年05月22日/xRAG_Extreme_Context_Compression_for_Retrieval-augmented_Generation_with_One_Token.md)
 
-    - [翻译: ](2024年05月22日/xRAG_Extreme_Context_Compression_for_Retrieval-augmented_Generation_with_One_Token.md)
+    - [翻译: xRAG：单令牌驱动，极致压缩上下文，助力检索增强生成](2024年05月22日/xRAG_Extreme_Context_Compression_for_Retrieval-augmented_Generation_with_One_Token.md)
 
 - [ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation](2024年05月22日/ALI-Agent_Assessing_LLMs'_Alignment_with_Human_Values_via_Agent-based_Evaluation.md)
 
-    - [翻译: ](2024年05月22日/ALI-Agent_Assessing_LLMs'_Alignment_with_Human_Values_via_Agent-based_Evaluation.md)
+    - [翻译: ALI-Agent：基于代理评估大型语言模型与人类价值观的契合度](2024年05月22日/ALI-Agent_Assessing_LLMs'_Alignment_with_Human_Values_via_Agent-based_Evaluation.md)
 
 - [ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles](2024年05月22日/ChatScene_Knowledge-Enabled_Safety-Critical_Scenario_Generation_for_Autonomous_Vehicles.md)
 
-    - [翻译: ](2024年05月22日/ChatScene_Knowledge-Enabled_Safety-Critical_Scenario_Generation_for_Autonomous_Vehicles.md)
+    - [翻译: ChatScene：赋能自动驾驶车辆，打造知识驱动的安全关键场景生成](2024年05月22日/ChatScene_Knowledge-Enabled_Safety-Critical_Scenario_Generation_for_Autonomous_Vehicles.md)
 
 - [On the Brittle Foundations of ReAct Prompting for Agentic Large Language Models](2024年05月22日/On_the_Brittle_Foundations_of_ReAct_Prompting_for_Agentic_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月22日/On_the_Brittle_Foundations_of_ReAct_Prompting_for_Agentic_Large_Language_Models.md)
+    - [翻译: 代理型大型语言模型中ReAct提示的基础尚显脆弱](2024年05月22日/On_the_Brittle_Foundations_of_ReAct_Prompting_for_Agentic_Large_Language_Models.md)
 
 - [TOPA: Extend Large Language Models for Video Understanding via Text-Only Pre-Alignment](2024年05月22日/TOPA_Extend_Large_Language_Models_for_Video_Understanding_via_Text-Only_Pre-Alignment.md)
 
-    - [翻译: ](2024年05月22日/TOPA_Extend_Large_Language_Models_for_Video_Understanding_via_Text-Only_Pre-Alignment.md)
+    - [翻译: TOPA：借助文本预对齐技术，扩展大型语言模型以增强视频理解能力](2024年05月22日/TOPA_Extend_Large_Language_Models_for_Video_Understanding_via_Text-Only_Pre-Alignment.md)
 
 - [Imagery as Inquiry: Exploring A Multimodal Dataset for Conversational Recommendation](2024年05月22日/Imagery_as_Inquiry_Exploring_A_Multimodal_Dataset_for_Conversational_Recommendation.md)
 
-    - [翻译: ](2024年05月22日/Imagery_as_Inquiry_Exploring_A_Multimodal_Dataset_for_Conversational_Recommendation.md)
+    - [翻译: 图像探究：深入多模态数据集，助力对话推荐研究](2024年05月22日/Imagery_as_Inquiry_Exploring_A_Multimodal_Dataset_for_Conversational_Recommendation.md)
 
 - [AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability](2024年05月22日/AlignGPT_Multi-modal_Large_Language_Models_with_Adaptive_Alignment_Capability.md)
 
-    - [翻译: ](2024年05月22日/AlignGPT_Multi-modal_Large_Language_Models_with_Adaptive_Alignment_Capability.md)
+    - [翻译: AlignGPT：一款具备自适应对齐功能的多模态大型语言模型，能够灵活适应不同模态间的信息对齐需求。](2024年05月22日/AlignGPT_Multi-modal_Large_Language_Models_with_Adaptive_Alignment_Capability.md)
 
 - [A New Era in Human Factors Engineering: A Survey of the Applications and Prospects of Large Multimodal Models](2024年05月22日/A_New_Era_in_Human_Factors_Engineering_A_Survey_of_the_Applications_and_Prospects_of_Large_Multimodal_Models.md)
 
-    - [翻译: ](2024年05月22日/A_New_Era_in_Human_Factors_Engineering_A_Survey_of_the_Applications_and_Prospects_of_Large_Multimodal_Models.md)
+    - [翻译: 人类因素工程迈入新时代：探索大型多模态模型的应用与未来展望](2024年05月22日/A_New_Era_in_Human_Factors_Engineering_A_Survey_of_the_Applications_and_Prospects_of_Large_Multimodal_Models.md)
 
 2024年05月21日
 
@@ -640,15 +640,15 @@
 
 - [RAG-RLRC-LaySum at BioLaySumm: Integrating Retrieval-Augmented Generation and Readability Control for Layman Summarization of Biomedical Texts](2024年05月21日/RAG-RLRC-LaySum_at_BioLaySumm_Integrating_Retrieval-Augmented_Generation_and_Readability_Control_for_Layman_Summarization_of_Biomedical_Texts.md)
 
-    - [翻译: ](2024年05月21日/RAG-RLRC-LaySum_at_BioLaySumm_Integrating_Retrieval-Augmented_Generation_and_Readability_Control_for_Layman_Summarization_of_Biomedical_Texts.md)
+    - [翻译: RAG-RLRC-LaySum 在 BioLaySumm 挑战中大放异彩，通过巧妙融合检索增强生成与可读性控制技术，为生物医学领域的专业文本打造出通俗易懂的摘要。](2024年05月21日/RAG-RLRC-LaySum_at_BioLaySumm_Integrating_Retrieval-Augmented_Generation_and_Readability_Control_for_Layman_Summarization_of_Biomedical_Texts.md)
 
 - [Towards Retrieval-Augmented Architectures for Image Captioning](2024年05月21日/Towards_Retrieval-Augmented_Architectures_for_Image_Captioning.md)
 
-    - [翻译: ](2024年05月21日/Towards_Retrieval-Augmented_Architectures_for_Image_Captioning.md)
+    - [翻译: 探索检索增强架构在图像描述生成中的应用](2024年05月21日/Towards_Retrieval-Augmented_Architectures_for_Image_Captioning.md)
 
 - [The 2nd FutureDial Challenge: Dialog Systems with Retrieval Augmented Generation (FutureDial-RAG)](2024年05月21日/The_2nd_FutureDial_Challenge_Dialog_Systems_with_Retrieval_Augmented_Generation_(FutureDial-RAG).md)
 
-    - [翻译: ](2024年05月21日/The_2nd_FutureDial_Challenge_Dialog_Systems_with_Retrieval_Augmented_Generation_(FutureDial-RAG).md)
+    - [翻译: 第二届FutureDial挑战：探索检索增强生成技术在对话系统中的应用（FutureDial-RAG）](2024年05月21日/The_2nd_FutureDial_Challenge_Dialog_Systems_with_Retrieval_Augmented_Generation_(FutureDial-RAG).md)
 
 2024年05月20日
 
@@ -830,7 +830,7 @@
 
 - [Can Github issues be solved with Tree Of Thoughts?](2024年05月20日/Can_Github_issues_be_solved_with_Tree_Of_Thoughts.md)
 
-    - [翻译: ](2024年05月20日/Can_Github_issues_be_solved_with_Tree_Of_Thoughts.md)
+    - [翻译: 思维树能否解开 Github 问题的谜团？](2024年05月20日/Can_Github_issues_be_solved_with_Tree_Of_Thoughts.md)
 
 2024年05月19日
 
@@ -936,7 +936,7 @@
 
 - [Human-Centered LLM-Agent User Interface: A Position Paper](2024年05月19日/Human-Centered_LLM-Agent_User_Interface_A_Position_Paper.md)
 
-    - [翻译: ](2024年05月19日/Human-Centered_LLM-Agent_User_Interface_A_Position_Paper.md)
+    - [翻译: 聚焦人本的LLM-Agent界面设计：立场阐述](2024年05月19日/Human-Centered_LLM-Agent_User_Interface_A_Position_Paper.md)
 
 2024年05月18日
 
@@ -1338,15 +1338,15 @@
 
 - [Can formal argumentative reasoning enhance LLMs performances?](2024年05月16日/Can_formal_argumentative_reasoning_enhance_LLMs_performances.md)
 
-    - [翻译: ](2024年05月16日/Can_formal_argumentative_reasoning_enhance_LLMs_performances.md)
+    - [翻译: 论证推理能否助力大型语言模型（LLMs）性能飞跃？](2024年05月16日/Can_formal_argumentative_reasoning_enhance_LLMs_performances.md)
 
 - [SIGMA: An Open-Source Interactive System for Mixed-Reality Task Assistance Research](2024年05月16日/SIGMA_An_Open-Source_Interactive_System_for_Mixed-Reality_Task_Assistance_Research.md)
 
-    - [翻译: ](2024年05月16日/SIGMA_An_Open-Source_Interactive_System_for_Mixed-Reality_Task_Assistance_Research.md)
+    - [翻译: SIGMA：开源交互系统，专为混合现实任务辅助研究而设计](2024年05月16日/SIGMA_An_Open-Source_Interactive_System_for_Mixed-Reality_Task_Assistance_Research.md)
 
 - [Autonomous Workflow for Multimodal Fine-Grained Training Assistants Towards Mixed Reality](2024年05月16日/Autonomous_Workflow_for_Multimodal_Fine-Grained_Training_Assistants_Towards_Mixed_Reality.md)
 
-    - [翻译: ](2024年05月16日/Autonomous_Workflow_for_Multimodal_Fine-Grained_Training_Assistants_Towards_Mixed_Reality.md)
+    - [翻译: 混合现实环境下的自主多模态细粒度训练助手工作流程](2024年05月16日/Autonomous_Workflow_for_Multimodal_Fine-Grained_Training_Assistants_Towards_Mixed_Reality.md)
 
 2024年05月15日
 
@@ -1492,7 +1492,7 @@
 
 - [IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues](2024年05月15日/IM-RAG_Multi-Round_Retrieval-Augmented_Generation_Through_Learning_Inner_Monologues.md)
 
-    - [翻译: ](2024年05月15日/IM-RAG_Multi-Round_Retrieval-Augmented_Generation_Through_Learning_Inner_Monologues.md)
+    - [翻译: IM-RAG：借助内心独白学习，实现多轮检索增强生成](2024年05月15日/IM-RAG_Multi-Round_Retrieval-Augmented_Generation_Through_Learning_Inner_Monologues.md)
 
 2024年05月14日
 
@@ -1836,11 +1836,11 @@
 
 - [Control Token with Dense Passage Retrieval](2024年05月13日/Control_Token_with_Dense_Passage_Retrieval.md)
 
-    - [翻译: ](2024年05月13日/Control_Token_with_Dense_Passage_Retrieval.md)
+    - [翻译: 通过密集段落检索优化令牌控制](2024年05月13日/Control_Token_with_Dense_Passage_Retrieval.md)
 
 - [METAREFLECTION: Learning Instructions for Language Agents using Past Reflections](2024年05月13日/METAREFLECTION_Learning_Instructions_for_Language_Agents_using_Past_Reflections.md)
 
-    - [翻译: ](2024年05月13日/METAREFLECTION_Learning_Instructions_for_Language_Agents_using_Past_Reflections.md)
+    - [翻译: METAREFLECTION：借助过往反思，精炼语言代理指令](2024年05月13日/METAREFLECTION_Learning_Instructions_for_Language_Agents_using_Past_Reflections.md)
 
 2024年05月12日
 
@@ -1918,7 +1918,7 @@
 
 - [DuetRAG: Collaborative Retrieval-Augmented Generation](2024年05月12日/DuetRAG_Collaborative_Retrieval-Augmented_Generation.md)
 
-    - [翻译: ](2024年05月12日/DuetRAG_Collaborative_Retrieval-Augmented_Generation.md)
+    - [翻译: DuetRAG：协同检索增强生成技术](2024年05月12日/DuetRAG_Collaborative_Retrieval-Augmented_Generation.md)
 
 2024年05月11日
 
