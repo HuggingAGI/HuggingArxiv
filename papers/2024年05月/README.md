@@ -1,5 +1,27 @@
 # 2024年05月
 
+2024年05月24日
+
+- [Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models](2024年05月24日/Chain-of-Thought_Prompting_for_Demographic_Inference_with_Large_Multimodal_Models.md)
+
+    - [翻译: 借助思维链提示，大型多模态模型在人口统计推断上展现新潜力](2024年05月24日/Chain-of-Thought_Prompting_for_Demographic_Inference_with_Large_Multimodal_Models.md)
+
+- [Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models](2024年05月24日/Prompt-Aware_Adapter_Towards_Learning_Adaptive_Visual_Tokens_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 提示感知适配器：探索为多模态大型语言模型学习适应性视觉标记的新途径](2024年05月24日/Prompt-Aware_Adapter_Towards_Learning_Adaptive_Visual_Tokens_for_Multimodal_Large_Language_Models.md)
+
+- [What Do You See? Enhancing Zero-Shot Image Classification with Multimodal Large Language Models](2024年05月24日/What_Do_You_See_Enhancing_Zero-Shot_Image_Classification_with_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 你所见为何？借助多模态大型语言模型，提升零-shot图像分类能力](2024年05月24日/What_Do_You_See_Enhancing_Zero-Shot_Image_Classification_with_Multimodal_Large_Language_Models.md)
+
+- [M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models](2024年05月24日/M4U_Evaluating_Multilingual_Understanding_and_Reasoning_for_Large_Multimodal_Models.md)
+
+    - [翻译: M4U：探究大型多模态模型在多语言理解和推理上的能力评估](2024年05月24日/M4U_Evaluating_Multilingual_Understanding_and_Reasoning_for_Large_Multimodal_Models.md)
+
+- [Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models](2024年05月24日/Meteor_Mamba-based_Traversal_of_Rationale_for_Large_Language_and_Vision_Models.md)
+
+    - [翻译: Meteor：探索大规模语言与视觉模型中基于Mamba的推理路径](2024年05月24日/Meteor_Mamba-based_Traversal_of_Rationale_for_Large_Language_and_Vision_Models.md)
+
 2024年05月23日
 
 - [A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns](2024年05月23日/A_Nurse_is_Blue_and_Elephant_is_Rugby_Cross_Domain_Alignment_in_Large_Language_Models_Reveal_Human-like_Patterns.md)
