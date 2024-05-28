@@ -56,23 +56,23 @@
 
 - [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](2024年05月27日/MultiOOD_Scaling_Out-of-Distribution_Detection_for_Multiple_Modalities.md)
 
-    - [翻译: MultiOOD：多模态分布外检测的扩展研究](2024年05月27日/MultiOOD_Scaling_Out-of-Distribution_Detection_for_Multiple_Modalities.md)
+    - [翻译: MultiOOD：多模态分布外检测的扩展探索](2024年05月27日/MultiOOD_Scaling_Out-of-Distribution_Detection_for_Multiple_Modalities.md)
 
 - [RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness](2024年05月27日/RLAIF-V_Aligning_MLLMs_through_Open-Source_AI_Feedback_for_Super_GPT-4V_Trustworthiness.md)
 
-    - [翻译: RLAIF-V：借助开源AI反馈，确保多模态大型语言模型（MLLMs）与Super GPT-4V的可信度保持一致](2024年05月27日/RLAIF-V_Aligning_MLLMs_through_Open-Source_AI_Feedback_for_Super_GPT-4V_Trustworthiness.md)
+    - [翻译: RLAIF-V：利用开源AI反馈，确保多模态大型语言模型与Super GPT-4V的可信度保持一致](2024年05月27日/RLAIF-V_Aligning_MLLMs_through_Open-Source_AI_Feedback_for_Super_GPT-4V_Trustworthiness.md)
 
 - [LLM-Optic: Unveiling the Capabilities of Large Language Models for Universal Visual Grounding](2024年05月27日/LLM-Optic_Unveiling_the_Capabilities_of_Large_Language_Models_for_Universal_Visual_Grounding.md)
 
-    - [翻译: LLM-Optic：探索大型语言模型在通用视觉定位领域的无限潜能](2024年05月27日/LLM-Optic_Unveiling_the_Capabilities_of_Large_Language_Models_for_Universal_Visual_Grounding.md)
+    - [翻译: LLM-Optic：探索大型语言模型在通用视觉基础任务中的潜能](2024年05月27日/LLM-Optic_Unveiling_the_Capabilities_of_Large_Language_Models_for_Universal_Visual_Grounding.md)
 
 - [MotionLLM: Multimodal Motion-Language Learning with Large Language Models](2024年05月27日/MotionLLM_Multimodal_Motion-Language_Learning_with_Large_Language_Models.md)
 
-    - [翻译: MotionLLM：借助大型语言模型，探索多模态运动与语言的深度学习](2024年05月27日/MotionLLM_Multimodal_Motion-Language_Learning_with_Large_Language_Models.md)
+    - [翻译: MotionLLM：融合大型语言模型的多模态运动与语言学习](2024年05月27日/MotionLLM_Multimodal_Motion-Language_Learning_with_Large_Language_Models.md)
 
 - [Multilingual Diversity Improves Vision-Language Representations](2024年05月27日/Multilingual_Diversity_Improves_Vision-Language_Representations.md)
 
-    - [翻译: 多语言多样性增强视觉-语言表征](2024年05月27日/Multilingual_Diversity_Improves_Vision-Language_Representations.md)
+    - [翻译: 多语言的丰富性增强了视觉与语言的表达能力](2024年05月27日/Multilingual_Diversity_Improves_Vision-Language_Representations.md)
 
 - [NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models](2024年05月27日/NV-Embed_Improved_Techniques_for_Training_LLMs_as_Generalist_Embedding_Models.md)
 
@@ -80,19 +80,19 @@
 
 - [MindMerger: Efficient Boosting LLM Reasoning in non-English Languages](2024年05月27日/MindMerger_Efficient_Boosting_LLM_Reasoning_in_non-English_Languages.md)
 
-    - [翻译: MindMerger：提升非英语语言中大型语言模型的推理效率](2024年05月27日/MindMerger_Efficient_Boosting_LLM_Reasoning_in_non-English_Languages.md)
+    - [翻译: MindMerger：非英语语言中大型语言模型推理能力的高效增强](2024年05月27日/MindMerger_Efficient_Boosting_LLM_Reasoning_in_non-English_Languages.md)
 
 - [ReMoDetect: Reward Models Recognize Aligned LLM's Generations](2024年05月27日/ReMoDetect_Reward_Models_Recognize_Aligned_LLM's_Generations.md)
 
-    - [翻译: ReMoDetect：奖励模型洞察大型语言模型的生成对齐](2024年05月27日/ReMoDetect_Reward_Models_Recognize_Aligned_LLM's_Generations.md)
+    - [翻译: ReMoDetect：奖励模型辨识与大型语言模型生成对齐](2024年05月27日/ReMoDetect_Reward_Models_Recognize_Aligned_LLM's_Generations.md)
 
 - [RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects](2024年05月27日/RTL-Repo_A_Benchmark_for_Evaluating_LLMs_on_Large-Scale_RTL_Design_Projects.md)
 
-    - [翻译: RTL-Repo：大型语言模型在大型RTL设计项目上的评估基准](2024年05月27日/RTL-Repo_A_Benchmark_for_Evaluating_LLMs_on_Large-Scale_RTL_Design_Projects.md)
+    - [翻译: RTL-Repo：大型语言模型在大型RTL设计项目上的性能评估基准](2024年05月27日/RTL-Repo_A_Benchmark_for_Evaluating_LLMs_on_Large-Scale_RTL_Design_Projects.md)
 
 - [Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients](2024年05月27日/Federating_Dynamic_Models_using_Early-Exit_Architectures_for_Automatic_Speech_Recognition_on_Heterogeneous_Clients.md)
 
-    - [翻译: 利用早期退出架构，联合动态模型以优化异构客户端上的自动语音识别性能](2024年05月27日/Federating_Dynamic_Models_using_Early-Exit_Architectures_for_Automatic_Speech_Recognition_on_Heterogeneous_Clients.md)
+    - [翻译: 利用早期退出架构，实现异构客户端上动态模型的自动语音识别联合优化](2024年05月27日/Federating_Dynamic_Models_using_Early-Exit_Architectures_for_Automatic_Speech_Recognition_on_Heterogeneous_Clients.md)
 
 - [Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models](2024年05月27日/Navigating_the_Safety_Landscape_Measuring_Risks_in_Finetuning_Large_Language_Models.md)
 
@@ -108,11 +108,11 @@
 
 - [Cost-efficient Knowledge-based Question Answering with Large Language Models](2024年05月27日/Cost-efficient_Knowledge-based_Question_Answering_with_Large_Language_Models.md)
 
-    - [翻译: 大型语言模型在知识驱动问答中的成本效益应用](2024年05月27日/Cost-efficient_Knowledge-based_Question_Answering_with_Large_Language_Models.md)
+    - [翻译: 高效成本的大型语言模型知识问答](2024年05月27日/Cost-efficient_Knowledge-based_Question_Answering_with_Large_Language_Models.md)
 
 - [On the Noise Robustness of In-Context Learning for Text Generation](2024年05月27日/On_the_Noise_Robustness_of_In-Context_Learning_for_Text_Generation.md)
 
-    - [翻译: 探究文本生成任务中，情境学习对噪声干扰的稳健性](2024年05月27日/On_the_Noise_Robustness_of_In-Context_Learning_for_Text_Generation.md)
+    - [翻译: 探究文本生成中情境学习对噪声的抗干扰能力](2024年05月27日/On_the_Noise_Robustness_of_In-Context_Learning_for_Text_Generation.md)
 
 - [$\textit{Trans-LoRA}$: towards data-free Transferable Parameter Efficient Finetuning](2024年05月27日/$\textit{Trans-LoRA}$_towards_data-free_Transferable_Parameter_Efficient_Finetuning.md)
 
@@ -144,7 +144,7 @@
 
 - [Phase Transitions in the Output Distribution of Large Language Models](2024年05月27日/Phase_Transitions_in_the_Output_Distribution_of_Large_Language_Models.md)
 
-    - [翻译: 大型语言模型输出分布中的相变现象研究](2024年05月27日/Phase_Transitions_in_the_Output_Distribution_of_Large_Language_Models.md)
+    - [翻译: 大型语言模型输出分布的相变现象](2024年05月27日/Phase_Transitions_in_the_Output_Distribution_of_Large_Language_Models.md)
 
 - [Tokenization Matters! Degrading Large Language Models through Challenging Their Tokenization](2024年05月27日/Tokenization_Matters!_Degrading_Large_Language_Models_through_Challenging_Their_Tokenization.md)
 
@@ -156,23 +156,23 @@
 
 - [SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself](2024年05月27日/SelfCP_Compressing_Long_Prompt_to_112_Using_the_Frozen_Large_Language_Model_Itself.md)
 
-    - [翻译: SelfCP技术：借助冻结的大型语言模型，将冗长提示精简至原长的十二分之一。](2024年05月27日/SelfCP_Compressing_Long_Prompt_to_112_Using_the_Frozen_Large_Language_Model_Itself.md)
+    - [翻译: SelfCP：借助冻结的大型语言模型，将冗长提示精简至原长的1/12](2024年05月27日/SelfCP_Compressing_Long_Prompt_to_112_Using_the_Frozen_Large_Language_Model_Itself.md)
 
 - [Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models](2024年05月27日/Generation_and_human-expert_evaluation_of_interesting_research_ideas_using_knowledge_graphs_and_large_language_models.md)
 
-    - [翻译: 借助知识图谱与大型语言模型，我们探索并评估了新颖的研究想法，这些想法经过人类专家的严格审视。](2024年05月27日/Generation_and_human-expert_evaluation_of_interesting_research_ideas_using_knowledge_graphs_and_large_language_models.md)
+    - [翻译: 借助知识图谱与大型语言模型，我们探索并评估了新颖的研究想法，这一过程得到了人类专家的审慎评价。](2024年05月27日/Generation_and_human-expert_evaluation_of_interesting_research_ideas_using_knowledge_graphs_and_large_language_models.md)
 
 - [BWArea Model: Learning World Model, Inverse Dynamics, and Policy for Controllable Language Generation](2024年05月27日/BWArea_Model_Learning_World_Model,_Inverse_Dynamics,_and_Policy_for_Controllable_Language_Generation.md)
 
-    - [翻译: BWArea模型：探索世界模型、逆向动力学与策略，以精妙掌控语言生成之艺术](2024年05月27日/BWArea_Model_Learning_World_Model,_Inverse_Dynamics,_and_Policy_for_Controllable_Language_Generation.md)
+    - [翻译: BWArea模型：探索世界模型、逆向动力学与策略，助力可控语言生成之艺术](2024年05月27日/BWArea_Model_Learning_World_Model,_Inverse_Dynamics,_and_Policy_for_Controllable_Language_Generation.md)
 
 - [Exploring the LLM Journey from Cognition to Expression with Linear Representations](2024年05月27日/Exploring_the_LLM_Journey_from_Cognition_to_Expression_with_Linear_Representations.md)
 
-    - [翻译: 通过线性表示，探索大型语言模型从认知到表达的演进之旅](2024年05月27日/Exploring_the_LLM_Journey_from_Cognition_to_Expression_with_Linear_Representations.md)
+    - [翻译: 通过线性表示，探索大型语言模型从认知到表达的演变之旅](2024年05月27日/Exploring_the_LLM_Journey_from_Cognition_to_Expression_with_Linear_Representations.md)
 
 - [Do Vision-Language Transformers Exhibit Visual Commonsense? An Empirical Study of VCR](2024年05月27日/Do_Vision-Language_Transformers_Exhibit_Visual_Commonsense_An_Empirical_Study_of_VCR.md)
 
-    - [翻译: 视觉-语言 Transformer 是否具备视觉常识？本研究通过实证分析 VCR 任务，探讨这一问题。](2024年05月27日/Do_Vision-Language_Transformers_Exhibit_Visual_Commonsense_An_Empirical_Study_of_VCR.md)
+    - [翻译: 视觉-语言 Transformer 是否具备视觉常识？一项针对 VCR 的实证研究揭示了这一问题。](2024年05月27日/Do_Vision-Language_Transformers_Exhibit_Visual_Commonsense_An_Empirical_Study_of_VCR.md)
 
 - [VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models](2024年05月27日/VoCoT_Unleashing_Visually_Grounded_Multi-Step_Reasoning_in_Large_Multi-Modal_Models.md)
 
@@ -180,7 +180,7 @@
 
 - [The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective](2024年05月27日/The_Uncanny_Valley_Exploring_Adversarial_Robustness_from_a_Flatness_Perspective.md)
 
-    - [翻译: 《探索不和谐谷：从平坦度视角审视对抗性鲁棒性》](2024年05月27日/The_Uncanny_Valley_Exploring_Adversarial_Robustness_from_a_Flatness_Perspective.md)
+    - [翻译: 《诡异谷效应：从平坦度视角探究对抗性鲁棒性》](2024年05月27日/The_Uncanny_Valley_Exploring_Adversarial_Robustness_from_a_Flatness_Perspective.md)
 
 - [Can Large Language Models Faithfully Express Their Intrinsic Uncertainty in Words?](2024年05月27日/Can_Large_Language_Models_Faithfully_Express_Their_Intrinsic_Uncertainty_in_Words.md)
 
@@ -188,7 +188,7 @@
 
 - [Hawk: Learning to Understand Open-World Video Anomalies](2024年05月27日/Hawk_Learning_to_Understand_Open-World_Video_Anomalies.md)
 
-    - [翻译: 鹰眼探秘：解锁开放世界视频异常的洞察力](2024年05月27日/Hawk_Learning_to_Understand_Open-World_Video_Anomalies.md)
+    - [翻译: Hawk：洞察开放世界视频中的异常现象](2024年05月27日/Hawk_Learning_to_Understand_Open-World_Video_Anomalies.md)
 
 - [Match, Compare, or Select? An Investigation of Large Language Models for Entity Matching](2024年05月27日/Match,_Compare,_or_Select_An_Investigation_of_Large_Language_Models_for_Entity_Matching.md)
 
@@ -196,7 +196,7 @@
 
 - [TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction](2024年05月27日/TokenUnify_Scalable_Autoregressive_Visual_Pre-training_with_Mixture_Token_Prediction.md)
 
-    - [翻译: TokenUnify：一种利用混合令牌预测进行高效自回归视觉预训练的新方法，旨在提升模型的可扩展性。](2024年05月27日/TokenUnify_Scalable_Autoregressive_Visual_Pre-training_with_Mixture_Token_Prediction.md)
+    - [翻译: TokenUnify：一种利用混合令牌预测进行高效自回归视觉预训练的扩展方法](2024年05月27日/TokenUnify_Scalable_Autoregressive_Visual_Pre-training_with_Mixture_Token_Prediction.md)
 
 - [Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models](2024年05月27日/Safe_LoRA_the_Silver_Lining_of_Reducing_Safety_Risks_when_Fine-tuning_Large_Language_Models.md)
 
@@ -222,7 +222,7 @@
 
 - [Triple Preference Optimization: Achieving Better Alignment with Less Data in a Single Step Optimization](2024年05月26日/Triple_Preference_Optimization_Achieving_Better_Alignment_with_Less_Data_in_a_Single_Step_Optimization.md)
 
-    - [翻译: 一步优化，三重偏好：以更少数据实现精准对齐](2024年05月26日/Triple_Preference_Optimization_Achieving_Better_Alignment_with_Less_Data_in_a_Single_Step_Optimization.md)
+    - [翻译: 三重偏好优化：一步到位，以更少数据实现精准对齐](2024年05月26日/Triple_Preference_Optimization_Achieving_Better_Alignment_with_Less_Data_in_a_Single_Step_Optimization.md)
 
 - [RLSF: Reinforcement Learning via Symbolic Feedback](2024年05月26日/RLSF_Reinforcement_Learning_via_Symbolic_Feedback.md)
 
@@ -234,19 +234,19 @@
 
 - [Attaining Human`s Desirable Outcomes in Human-AI Interaction via Structural Causal Games](2024年05月26日/Attaining_Human`s_Desirable_Outcomes_in_Human-AI_Interaction_via_Structural_Causal_Games.md)
 
-    - [翻译: 借助结构因果游戏，优化人机交互，实现人类期望的成果](2024年05月26日/Attaining_Human`s_Desirable_Outcomes_in_Human-AI_Interaction_via_Structural_Causal_Games.md)
+    - [翻译: 借助结构因果游戏，优化人机交互，以达成人类期望的成果](2024年05月26日/Attaining_Human`s_Desirable_Outcomes_in_Human-AI_Interaction_via_Structural_Causal_Games.md)
 
 - [Cost-Effective Online Multi-LLM Selection with Versatile Reward Models](2024年05月26日/Cost-Effective_Online_Multi-LLM_Selection_with_Versatile_Reward_Models.md)
 
-    - [翻译: 高效在线多LLM选择：结合多功能奖励模型实现成本效益最大化](2024年05月26日/Cost-Effective_Online_Multi-LLM_Selection_with_Versatile_Reward_Models.md)
+    - [翻译: 高效经济的在线多大型语言模型选择策略，结合多功能奖励模型优化性能。](2024年05月26日/Cost-Effective_Online_Multi-LLM_Selection_with_Versatile_Reward_Models.md)
 
 - [On Bits and Bandits: Quantifying the Regret-Information Trade-off](2024年05月26日/On_Bits_and_Bandits_Quantifying_the_Regret-Information_Trade-off.md)
 
-    - [翻译: 比特与强盗之间：探索后悔与信息间的微妙平衡](2024年05月26日/On_Bits_and_Bandits_Quantifying_the_Regret-Information_Trade-off.md)
+    - [翻译: 比特与强盗之间：探索后悔与信息之间的微妙平衡](2024年05月26日/On_Bits_and_Bandits_Quantifying_the_Regret-Information_Trade-off.md)
 
 - [Automatically Generating Numerous Context-Driven SFT Data for LLMs across Diverse Granularity](2024年05月26日/Automatically_Generating_Numerous_Context-Driven_SFT_Data_for_LLMs_across_Diverse_Granularity.md)
 
-    - [翻译: 自动为LLMs生成多样粒度下的丰富上下文驱动SFT数据](2024年05月26日/Automatically_Generating_Numerous_Context-Driven_SFT_Data_for_LLMs_across_Diverse_Granularity.md)
+    - [翻译: 自动为大型语言模型（LLMs）生成多样粒度下的丰富上下文驱动SFT数据](2024年05月26日/Automatically_Generating_Numerous_Context-Driven_SFT_Data_for_LLMs_across_Diverse_Granularity.md)
 
 - [A Preliminary Empirical Study on Prompt-based Unsupervised Keyphrase Extraction](2024年05月26日/A_Preliminary_Empirical_Study_on_Prompt-based_Unsupervised_Keyphrase_Extraction.md)
 
@@ -254,19 +254,19 @@
 
 - [Automatic Jailbreaking of the Text-to-Image Generative AI Systems](2024年05月26日/Automatic_Jailbreaking_of_the_Text-to-Image_Generative_AI_Systems.md)
 
-    - [翻译: AI系统自动解锁文本至图像生成能力](2024年05月26日/Automatic_Jailbreaking_of_the_Text-to-Image_Generative_AI_Systems.md)
+    - [翻译: AI系统自动解锁文本至图像生成潜能](2024年05月26日/Automatic_Jailbreaking_of_the_Text-to-Image_Generative_AI_Systems.md)
 
 - [SED: Self-Evaluation Decoding Enhances Large Language Models for Better Generation](2024年05月26日/SED_Self-Evaluation_Decoding_Enhances_Large_Language_Models_for_Better_Generation.md)
 
-    - [翻译: SED：通过自我评估解码，大型语言模型的生成能力得到显著提升](2024年05月26日/SED_Self-Evaluation_Decoding_Enhances_Large_Language_Models_for_Better_Generation.md)
+    - [翻译: SED：自评估解码技术提升大型语言模型，助力更优质的生成效果](2024年05月26日/SED_Self-Evaluation_Decoding_Enhances_Large_Language_Models_for_Better_Generation.md)
 
 - [Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration](2024年05月26日/Cocktail_A_Comprehensive_Information_Retrieval_Benchmark_with_LLM-Generated_Documents_Integration.md)
 
-    - [翻译: Cocktail：大型语言模型生成文档的综合信息检索基准](2024年05月26日/Cocktail_A_Comprehensive_Information_Retrieval_Benchmark_with_LLM-Generated_Documents_Integration.md)
+    - [翻译: 鸡尾酒：集成 LLM 生成文档的综合信息检索基准](2024年05月26日/Cocktail_A_Comprehensive_Information_Retrieval_Benchmark_with_LLM-Generated_Documents_Integration.md)
 
 - [Chain of Tools: Large Language Model is an Automatic Multi-tool Learner](2024年05月26日/Chain_of_Tools_Large_Language_Model_is_an_Automatic_Multi-tool_Learner.md)
 
-    - [翻译: 工具链：大型语言模型，自动掌握多工具的学习者](2024年05月26日/Chain_of_Tools_Large_Language_Model_is_an_Automatic_Multi-tool_Learner.md)
+    - [翻译: 大型语言模型：自动化的多工具学习专家](2024年05月26日/Chain_of_Tools_Large_Language_Model_is_an_Automatic_Multi-tool_Learner.md)
 
 - [LoQT: Low Rank Adapters for Quantized Training](2024年05月26日/LoQT_Low_Rank_Adapters_for_Quantized_Training.md)
 
@@ -278,7 +278,7 @@
 
 - [DarijaBanking: A New Resource for Overcoming Language Barriers in Banking Intent Detection for Moroccan Arabic Speakers](2024年05月26日/DarijaBanking_A_New_Resource_for_Overcoming_Language_Barriers_in_Banking_Intent_Detection_for_Moroccan_Arabic_Speakers.md)
 
-    - [翻译: DarijaBanking：打破语言壁垒，助力摩洛哥阿拉伯语用户在银行意图检测中的新资源](2024年05月26日/DarijaBanking_A_New_Resource_for_Overcoming_Language_Barriers_in_Banking_Intent_Detection_for_Moroccan_Arabic_Speakers.md)
+    - [翻译: DarijaBanking：助力摩洛哥阿拉伯语用户跨越银行意图检测的语言鸿沟的新工具](2024年05月26日/DarijaBanking_A_New_Resource_for_Overcoming_Language_Barriers_in_Banking_Intent_Detection_for_Moroccan_Arabic_Speakers.md)
 
 - [M$^3$CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](2024年05月26日/M$^3$CoT_A_Novel_Benchmark_for_Multi-Domain_Multi-step_Multi-modal_Chain-of-Thought.md)
 
@@ -286,7 +286,7 @@
 
 - [On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference Collapse and Matching Regularization](2024年05月26日/On_the_Algorithmic_Bias_of_Aligning_Large_Language_Models_with_RLHF_Preference_Collapse_and_Matching_Regularization.md)
 
-    - [翻译: 大型语言模型与RLHF对齐中的算法偏差：偏好崩溃与匹配正则化之探析](2024年05月26日/On_the_Algorithmic_Bias_of_Aligning_Large_Language_Models_with_RLHF_Preference_Collapse_and_Matching_Regularization.md)
+    - [翻译: 大型语言模型与RLHF对齐中的算法偏差：偏好崩溃与匹配正则化探讨](2024年05月26日/On_the_Algorithmic_Bias_of_Aligning_Large_Language_Models_with_RLHF_Preference_Collapse_and_Matching_Regularization.md)
 
 - [Synthesizing Programmatic Reinforcement Learning Policies with Large Language Model Guided Search](2024年05月26日/Synthesizing_Programmatic_Reinforcement_Learning_Policies_with_Large_Language_Model_Guided_Search.md)
 
@@ -298,7 +298,7 @@
 
 - [Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer](2024年05月26日/Provably_Mitigating_Overoptimization_in_RLHF_Your_SFT_Loss_is_Implicitly_an_Adversarial_Regularizer.md)
 
-    - [翻译: 在RLHF中，我们通过证明性地减轻过度优化，揭示了SFT损失实际上扮演着一种隐式的对抗性正则化器的角色。](2024年05月26日/Provably_Mitigating_Overoptimization_in_RLHF_Your_SFT_Loss_is_Implicitly_an_Adversarial_Regularizer.md)
+    - [翻译: 在RLHF中，通过证明性方法减轻过度优化：SFT损失实际上起到了一种隐式对抗性正则化的作用。](2024年05月26日/Provably_Mitigating_Overoptimization_in_RLHF_Your_SFT_Loss_is_Implicitly_an_Adversarial_Regularizer.md)
 
 - [The Importance of Directional Feedback for LLM-based Optimizers](2024年05月26日/The_Importance_of_Directional_Feedback_for_LLM-based_Optimizers.md)
 
@@ -306,7 +306,7 @@
 
 - [CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling](2024年05月26日/CPsyCoun_A_Report-based_Multi-turn_Dialogue_Reconstruction_and_Evaluation_Framework_for_Chinese_Psychological_Counseling.md)
 
-    - [翻译: CPsyCoun：中文心理咨询领域中，基于报告的多轮对话重建与评估框架，旨在提升对话质量和效果。](2024年05月26日/CPsyCoun_A_Report-based_Multi-turn_Dialogue_Reconstruction_and_Evaluation_Framework_for_Chinese_Psychological_Counseling.md)
+    - [翻译: CPsyCoun：中文心理咨询领域中，一种基于报告的多轮对话重建与评估框架，旨在提升咨询对话的质量与效果。](2024年05月26日/CPsyCoun_A_Report-based_Multi-turn_Dialogue_Reconstruction_and_Evaluation_Framework_for_Chinese_Psychological_Counseling.md)
 
 - [M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions](2024年05月26日/M-RAG_Reinforcing_Large_Language_Model_Performance_through_Retrieval-Augmented_Generation_with_Multiple_Partitions.md)
 
@@ -330,11 +330,11 @@
 
 - [NoteLLM-2: Multimodal Large Representation Models for Recommendation](2024年05月26日/NoteLLM-2_Multimodal_Large_Representation_Models_for_Recommendation.md)
 
-    - [翻译: NoteLLM-2：融合多模态的大型推荐系统模型](2024年05月26日/NoteLLM-2_Multimodal_Large_Representation_Models_for_Recommendation.md)
+    - [翻译: NoteLLM-2：融合多模态的大型推荐模型](2024年05月26日/NoteLLM-2_Multimodal_Large_Representation_Models_for_Recommendation.md)
 
 - [Entity Alignment with Noisy Annotations from Large Language Models](2024年05月26日/Entity_Alignment_with_Noisy_Annotations_from_Large_Language_Models.md)
 
-    - [翻译: 利用大型语言模型噪声标注实现实体对齐](2024年05月26日/Entity_Alignment_with_Noisy_Annotations_from_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型中的噪声标注进行实体对齐](2024年05月26日/Entity_Alignment_with_Noisy_Annotations_from_Large_Language_Models.md)
 
 2024年05月25日
 
@@ -344,15 +344,15 @@
 
 - [SpinQuant -- LLM quantization with learned rotations](2024年05月25日/SpinQuant_--_LLM_quantization_with_learned_rotations.md)
 
-    - [翻译: SpinQuant -- 通过学习旋转优化大型语言模型量化](2024年05月25日/SpinQuant_--_LLM_quantization_with_learned_rotations.md)
+    - [翻译: SpinQuant - 利用学习旋转技术优化大型语言模型的量化过程](2024年05月25日/SpinQuant_--_LLM_quantization_with_learned_rotations.md)
 
 - [Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level](2024年05月25日/Intruding_with_Words_Towards_Understanding_Graph_Injection_Attacks_at_the_Text_Level.md)
 
-    - [翻译: 文字之侵：探索文本层面的图注入攻击理解之路](2024年05月25日/Intruding_with_Words_Towards_Understanding_Graph_Injection_Attacks_at_the_Text_Level.md)
+    - [翻译: 文字侵袭：探索文本层面的图注入攻击理解之道](2024年05月25日/Intruding_with_Words_Towards_Understanding_Graph_Injection_Attacks_at_the_Text_Level.md)
 
 - [Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions](2024年05月25日/Assessing_Empathy_in_Large_Language_Models_with_Real-World_Physician-Patient_Interactions.md)
 
-    - [翻译: 在真实医患互动中评估大型语言模型的同理心](2024年05月25日/Assessing_Empathy_in_Large_Language_Models_with_Real-World_Physician-Patient_Interactions.md)
+    - [翻译: 借助真实医生与患者互动，探究大型语言模型中的同理心表现](2024年05月25日/Assessing_Empathy_in_Large_Language_Models_with_Real-World_Physician-Patient_Interactions.md)
 
 - [Multi-Reference Preference Optimization for Large Language Models](2024年05月25日/Multi-Reference_Preference_Optimization_for_Large_Language_Models.md)
 
@@ -380,15 +380,15 @@
 
 - [LoGAH: Predicting 774-Million-Parameter Transformers using Graph HyperNetworks with 1/100 Parameters](2024年05月25日/LoGAH_Predicting_774-Million-Parameter_Transformers_using_Graph_HyperNetworks_with_1100_Parameters.md)
 
-    - [翻译: LoGAH：利用仅占1/100参数的图超网络，精准预测77400万参数的变压器模型](2024年05月25日/LoGAH_Predicting_774-Million-Parameter_Transformers_using_Graph_HyperNetworks_with_1100_Parameters.md)
+    - [翻译: LoGAH：以百分之一的参数量，图超网络精准预测7.74亿参数的Transformer](2024年05月25日/LoGAH_Predicting_774-Million-Parameter_Transformers_using_Graph_HyperNetworks_with_1100_Parameters.md)
 
 - [Generating clickbait spoilers with an ensemble of large language models](2024年05月25日/Generating_clickbait_spoilers_with_an_ensemble_of_large_language_models.md)
 
-    - [翻译: 利用大型语言模型集合揭秘点击诱饵内容](2024年05月25日/Generating_clickbait_spoilers_with_an_ensemble_of_large_language_models.md)
+    - [翻译: 大型语言模型集合助力揭秘点击诱饵背后的秘密](2024年05月25日/Generating_clickbait_spoilers_with_an_ensemble_of_large_language_models.md)
 
 - [Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models](2024年05月25日/Confidence_Under_the_Hood_An_Investigation_into_the_Confidence-Probability_Alignment_in_Large_Language_Models.md)
 
-    - [翻译: 《探秘信心之源：大型语言模型中信心与概率匹配度的深度探究》](2024年05月25日/Confidence_Under_the_Hood_An_Investigation_into_the_Confidence-Probability_Alignment_in_Large_Language_Models.md)
+    - [翻译: 《探秘信心之源：大型语言模型中信心与概率匹配度的深度剖析》](2024年05月25日/Confidence_Under_the_Hood_An_Investigation_into_the_Confidence-Probability_Alignment_in_Large_Language_Models.md)
 
 - [ConStat: Performance-Based Contamination Detection in Large Language Models](2024年05月25日/ConStat_Performance-Based_Contamination_Detection_in_Large_Language_Models.md)
 
@@ -396,11 +396,11 @@
 
 - [Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge](2024年05月25日/Picturing_Ambiguity_A_Visual_Twist_on_the_Winograd_Schema_Challenge.md)
 
-    - [翻译: 模糊之美：Winograd Schema Challenge 的视觉新解](2024年05月25日/Picturing_Ambiguity_A_Visual_Twist_on_the_Winograd_Schema_Challenge.md)
+    - [翻译: 模糊之图：Winograd Schema Challenge 的视觉新解](2024年05月25日/Picturing_Ambiguity_A_Visual_Twist_on_the_Winograd_Schema_Challenge.md)
 
 - [Mechanism Design for LLM Fine-tuning with Multiple Reward Models](2024年05月25日/Mechanism_Design_for_LLM_Fine-tuning_with_Multiple_Reward_Models.md)
 
-    - [翻译: 多奖励模型驱动的大型语言模型微调机制设计](2024年05月25日/Mechanism_Design_for_LLM_Fine-tuning_with_Multiple_Reward_Models.md)
+    - [翻译: 利用多奖励模型优化大型语言模型微调机制设计](2024年05月25日/Mechanism_Design_for_LLM_Fine-tuning_with_Multiple_Reward_Models.md)
 
 - [$M^3$GPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation](2024年05月25日/$M^3$GPT_An_Advanced_Multimodal,_Multitask_Framework_for_Motion_Comprehension_and_Generation.md)
 
@@ -408,7 +408,7 @@
 
 - [MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time](2024年05月25日/MindStar_Enhancing_Math_Reasoning_in_Pre-trained_LLMs_at_Inference_Time.md)
 
-    - [翻译: MindStar：提升预训练大型语言模型在推理阶段的数学推理能力](2024年05月25日/MindStar_Enhancing_Math_Reasoning_in_Pre-trained_LLMs_at_Inference_Time.md)
+    - [翻译: MindStar：提升预训练LLMs在推理阶段的数学推理能力](2024年05月25日/MindStar_Enhancing_Math_Reasoning_in_Pre-trained_LLMs_at_Inference_Time.md)
 
 - [AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning](2024年05月25日/AutoManual_Generating_Instruction_Manuals_by_LLM_Agents_via_Interactive_Environmental_Learning.md)
 
@@ -420,7 +420,7 @@
 
 - [A statistical framework for weak-to-strong generalization](2024年05月25日/A_statistical_framework_for_weak-to-strong_generalization.md)
 
-    - [翻译: 统计框架：从弱泛化到强泛化的桥梁](2024年05月25日/A_statistical_framework_for_weak-to-strong_generalization.md)
+    - [翻译: 构建从弱到强泛化的统计框架](2024年05月25日/A_statistical_framework_for_weak-to-strong_generalization.md)
 
 - [No Two Devils Alike: Unveiling Distinct Mechanisms of Fine-tuning Attacks](2024年05月25日/No_Two_Devils_Alike_Unveiling_Distinct_Mechanisms_of_Fine-tuning_Attacks.md)
 
@@ -428,7 +428,7 @@
 
 - [GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases](2024年05月25日/GeneAgent_Self-verification_Language_Agent_for_Gene_Set_Knowledge_Discovery_using_Domain_Databases.md)
 
-    - [翻译: GeneAgent：利用专业数据库，自主验证基因集知识的语言智能助手](2024年05月25日/GeneAgent_Self-verification_Language_Agent_for_Gene_Set_Knowledge_Discovery_using_Domain_Databases.md)
+    - [翻译: GeneAgent：利用专业数据库，自主验证基因集知识发现的语言智能助手](2024年05月25日/GeneAgent_Self-verification_Language_Agent_for_Gene_Set_Knowledge_Discovery_using_Domain_Databases.md)
 
 - [Evolutionary Large Language Model for Automated Feature Transformation](2024年05月25日/Evolutionary_Large_Language_Model_for_Automated_Feature_Transformation.md)
 
@@ -440,7 +440,7 @@
 
 - [SynthAI: A Multi Agent Generative AI Framework for Automated Modular HLS Design Generation](2024年05月25日/SynthAI_A_Multi_Agent_Generative_AI_Framework_for_Automated_Modular_HLS_Design_Generation.md)
 
-    - [翻译: SynthAI：一款多代理生成式AI框架，专为自动化模块化高层次综合设计而生。](2024年05月25日/SynthAI_A_Multi_Agent_Generative_AI_Framework_for_Automated_Modular_HLS_Design_Generation.md)
+    - [翻译: SynthAI：一款专为自动化模块化高层次综合设计而生的多代理生成式AI框架，旨在通过智能代理协同工作，推动设计流程的自动化与优化。](2024年05月25日/SynthAI_A_Multi_Agent_Generative_AI_Framework_for_Automated_Modular_HLS_Design_Generation.md)
 
 - [C3LLM: Conditional Multimodal Content Generation Using Large Language Models](2024年05月25日/C3LLM_Conditional_Multimodal_Content_Generation_Using_Large_Language_Models.md)
 
@@ -3690,7 +3690,7 @@
 
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](2024年05月06日/SWE-agent_Agent-Computer_Interfaces_Enable_Automated_Software_Engineering.md)
 
-    - [翻译: SWE-agent：借助代理-计算机接口，软件工程自动化得以实现](2024年05月06日/SWE-agent_Agent-Computer_Interfaces_Enable_Automated_Software_Engineering.md)
+    - [翻译: SWE-agent：通过代理-计算机接口，软件工程自动化得以实现](2024年05月06日/SWE-agent_Agent-Computer_Interfaces_Enable_Automated_Software_Engineering.md)
 
 2024年05月05日
 
