@@ -82,6 +82,10 @@
 
     - [翻译: 具象化的 LLM 代理学会了在有组织的团队中协同合作。](2024年03月19日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
 
+- [AI Robots and Humanoid AI: Review, Perspectives and Directions](2024年03月19日/AI_Robots_and_Humanoid_AI_Review,_Perspectives_and_Directions.md)
+
+    - [翻译: 人工智能机器人与人形AI：回顾与展望](2024年03月19日/AI_Robots_and_Humanoid_AI_Review,_Perspectives_and_Directions.md)
+
 2024年03月15日
 
 - [Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations](2024年03月15日/Transforming_Competition_into_Collaboration_The_Revolutionary_Role_of_Multi-Agent_Systems_and_Language_Models_in_Modern_Organizations.md)

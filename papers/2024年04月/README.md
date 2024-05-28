@@ -618,6 +618,10 @@
 
     - [翻译: 表格嵌入模型（TEM）：针对表格 RAG 应用场景，对嵌入模型进行精细化调整。](2024年04月28日/Tabular_Embedding_Model_(TEM)_Finetuning_Embedding_Models_For_Tabular_RAG_Applications.md)
 
+- [CLARINET: Augmenting Language Models to Ask Clarification Questions for Retrieval](2024年04月28日/CLARINET_Augmenting_Language_Models_to_Ask_Clarification_Questions_for_Retrieval.md)
+
+    - [翻译: CLARINET：赋能语言模型，通过提问澄清问题来优化信息检索](2024年04月28日/CLARINET_Augmenting_Language_Models_to_Ask_Clarification_Questions_for_Retrieval.md)
+
 2024年04月27日
 
 - [Efficient LLM Inference with Kcache](2024年04月27日/Efficient_LLM_Inference_with_Kcache.md)
