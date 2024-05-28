@@ -2,15 +2,15 @@
 
 发布时间：2024年05月26日
 
-`LLM应用
+`LLM理论
 
-这篇论文主要探讨了预训练的大型语言模型在关键词提取任务中如何通过不同的提示设计来影响性能。研究内容涉及提示工程的实践和效果评估，这是在特定应用场景（关键词提取）中对LLM的具体应用和优化。因此，它属于LLM应用分类。` `关键词提取`
+理由：这篇论文主要探讨了预训练大型语言模型在关键词提取任务中对不同提示的响应和效果，这涉及到模型对输入提示的理解和处理机制，属于对大型语言模型理论层面的研究。虽然实验部分涉及具体应用（关键词提取），但核心关注点在于提示设计对模型性能的影响，这是对LLM理论的深入探讨。` `关键词提取`
 
 > A Preliminary Empirical Study on Prompt-based Unsupervised Keyphrase Extraction
 
 # 摘要
 
-> 预训练的大型语言模型依赖人类设计的提示来执行自然语言处理任务，但这种方法往往需要繁琐的“提示工程”，通过试错手工制作提示，并依赖人类的专业知识。特别是在构建关键词提取方法时，这一挑战尤为突出。我们研究了不同提示在关键词提取任务中的效果，以探索精心设计的提示如何影响提取性能。实验结果显示，在多个数据集和模型上，(1) 复杂提示未必优于简单提示；(2) 提示中的个别关键词变化能显著影响性能；(3) 面对长文档，复杂提示表现更佳。
+> 预训练的大型语言模型依赖人类设计的提示来执行自然语言处理任务，但提示设计常需繁琐的“提示工程”，依赖人工试错和专业介入。在关键词提取任务中，我们探讨了不同提示的有效性，并发现：(1) 复杂提示未必优于简单提示；(2) 提示中个别关键词的变动能影响整体效果；(3) 面对长文档，复杂提示表现更佳。实验涵盖了六个数据集和多种模型，验证了这些发现。
 
 > Pre-trained large language models can perform natural language processing downstream tasks by conditioning on human-designed prompts. However, a prompt-based approach often requires "prompt engineering" to design different prompts, primarily hand-crafted through laborious trial and error, requiring human intervention and expertise. It is a challenging problem when constructing a prompt-based keyphrase extraction method. Therefore, we investigate and study the effectiveness of different prompts on the keyphrase extraction task to verify the impact of the cherry-picked prompts on the performance of extracting keyphrases. Extensive experimental results on six benchmark keyphrase extraction datasets and different pre-trained large language models demonstrate that (1) designing complex prompts may not necessarily be more effective than designing simple prompts; (2) individual keyword changes in the designed prompts can affect the overall performance; (3) designing complex prompts achieve better performance than designing simple prompts when facing long documents.
 
