@@ -1,5 +1,19 @@
 # 2024年05月
 
+2024年05月26日
+
+- [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](2024年05月26日/Diffusion4D_Fast_Spatial-temporal_Consistent_4D_Generation_via_Video_Diffusion_Models.md)
+
+    - [翻译: 时空一致，速成4D：Diffusion4D利用视频扩散模型，快速生成高质量的4D内容。](2024年05月26日/Diffusion4D_Fast_Spatial-temporal_Consistent_4D_Generation_via_Video_Diffusion_Models.md)
+
+- [A Survey of Multimodal Large Language Model from A Data-centric Perspective](2024年05月26日/A_Survey_of_Multimodal_Large_Language_Model_from_A_Data-centric_Perspective.md)
+
+    - [翻译: 多模态大型语言模型综述：数据视角的探索](2024年05月26日/A_Survey_of_Multimodal_Large_Language_Model_from_A_Data-centric_Perspective.md)
+
+- [CapS-Adapter: Caption-based MultiModal Adapter in Zero-Shot Classification](2024年05月26日/CapS-Adapter_Caption-based_MultiModal_Adapter_in_Zero-Shot_Classification.md)
+
+    - [翻译: CapS-Adapter：零-shot分类中的标题驱动多模态适配器](2024年05月26日/CapS-Adapter_Caption-based_MultiModal_Adapter_in_Zero-Shot_Classification.md)
+
 2024年05月24日
 
 - [Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models](2024年05月24日/Chain-of-Thought_Prompting_for_Demographic_Inference_with_Large_Multimodal_Models.md)
