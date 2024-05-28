@@ -416,11 +416,11 @@
 
 - [FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference](2024年05月25日/FastQuery_Communication-efficient_Embedding_Table_Query_for_Private_LLM_Inference.md)
 
-    - [翻译: FastQuery：高效通信的嵌入表查询，专为私有 LLM 推理优化](2024年05月25日/FastQuery_Communication-efficient_Embedding_Table_Query_for_Private_LLM_Inference.md)
+    - [翻译: FastQuery：提升私有LLM推理效率的通信优化嵌入表查询技术](2024年05月25日/FastQuery_Communication-efficient_Embedding_Table_Query_for_Private_LLM_Inference.md)
 
 - [A statistical framework for weak-to-strong generalization](2024年05月25日/A_statistical_framework_for_weak-to-strong_generalization.md)
 
-    - [翻译: 构建从弱至强泛化的统计框架](2024年05月25日/A_statistical_framework_for_weak-to-strong_generalization.md)
+    - [翻译: 统计框架：从弱泛化到强泛化的桥梁](2024年05月25日/A_statistical_framework_for_weak-to-strong_generalization.md)
 
 - [No Two Devils Alike: Unveiling Distinct Mechanisms of Fine-tuning Attacks](2024年05月25日/No_Two_Devils_Alike_Unveiling_Distinct_Mechanisms_of_Fine-tuning_Attacks.md)
 
@@ -428,7 +428,7 @@
 
 - [GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases](2024年05月25日/GeneAgent_Self-verification_Language_Agent_for_Gene_Set_Knowledge_Discovery_using_Domain_Databases.md)
 
-    - [翻译: GeneAgent：利用专业数据库，探索基因集知识的自我验证语言助手](2024年05月25日/GeneAgent_Self-verification_Language_Agent_for_Gene_Set_Knowledge_Discovery_using_Domain_Databases.md)
+    - [翻译: GeneAgent：利用专业数据库，自主验证基因集知识的语言智能助手](2024年05月25日/GeneAgent_Self-verification_Language_Agent_for_Gene_Set_Knowledge_Discovery_using_Domain_Databases.md)
 
 - [Evolutionary Large Language Model for Automated Feature Transformation](2024年05月25日/Evolutionary_Large_Language_Model_for_Automated_Feature_Transformation.md)
 
@@ -440,11 +440,11 @@
 
 - [SynthAI: A Multi Agent Generative AI Framework for Automated Modular HLS Design Generation](2024年05月25日/SynthAI_A_Multi_Agent_Generative_AI_Framework_for_Automated_Modular_HLS_Design_Generation.md)
 
-    - [翻译: SynthAI：多代理生成式AI框架，专为自动化模块化高层次综合设计而生](2024年05月25日/SynthAI_A_Multi_Agent_Generative_AI_Framework_for_Automated_Modular_HLS_Design_Generation.md)
+    - [翻译: SynthAI：一款多代理生成式AI框架，专为自动化模块化高层次综合设计而生。](2024年05月25日/SynthAI_A_Multi_Agent_Generative_AI_Framework_for_Automated_Modular_HLS_Design_Generation.md)
 
 - [C3LLM: Conditional Multimodal Content Generation Using Large Language Models](2024年05月25日/C3LLM_Conditional_Multimodal_Content_Generation_Using_Large_Language_Models.md)
 
-    - [翻译: C3LLM：利用大型语言模型实现条件多模态内容创作](2024年05月25日/C3LLM_Conditional_Multimodal_Content_Generation_Using_Large_Language_Models.md)
+    - [翻译: C3LLM：大型语言模型下的条件多模态内容创作](2024年05月25日/C3LLM_Conditional_Multimodal_Content_Generation_Using_Large_Language_Models.md)
 
 2024年05月24日
 
@@ -3690,7 +3690,7 @@
 
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](2024年05月06日/SWE-agent_Agent-Computer_Interfaces_Enable_Automated_Software_Engineering.md)
 
-    - [翻译: SWE-agent：通过代理-计算机接口，自动化软件工程得以实现](2024年05月06日/SWE-agent_Agent-Computer_Interfaces_Enable_Automated_Software_Engineering.md)
+    - [翻译: SWE-agent：借助代理-计算机接口，软件工程自动化得以实现](2024年05月06日/SWE-agent_Agent-Computer_Interfaces_Enable_Automated_Software_Engineering.md)
 
 2024年05月05日
 
@@ -3886,7 +3886,7 @@
 
 - [IQLS: Framework for leveraging Metadata to enable Large Language Model based queries to complex, versatile Data](2024年05月04日/IQLS_Framework_for_leveraging_Metadata_to_enable_Large_Language_Model_based_queries_to_complex,_versatile_Data.md)
 
-    - [翻译: IQLS：元数据驱动框架，赋能大型语言模型，轻松驾驭复杂多变的数据查询](2024年05月04日/IQLS_Framework_for_leveraging_Metadata_to_enable_Large_Language_Model_based_queries_to_complex,_versatile_Data.md)
+    - [翻译: IQLS框架：借助元数据，让大型语言模型轻松驾驭复杂多变的数据查询](2024年05月04日/IQLS_Framework_for_leveraging_Metadata_to_enable_Large_Language_Model_based_queries_to_complex,_versatile_Data.md)
 
 2024年05月03日
 
