@@ -6,6 +6,10 @@
 
     - [翻译: 微调之后，如何确保大型语言模型保持其原有的校准状态？关键在于巧妙设计的提示模板。](2024年02月28日/Keeping_LLMs_Aligned_After_Fine-tuning_The_Crucial_Role_of_Prompt_Templates.md)
 
+- [Chaining text-to-image and large language model: A novel approach for generating personalized e-commerce banners](2024年02月28日/Chaining_text-to-image_and_large_language_model_A_novel_approach_for_generating_personalized_e-commerce_banners.md)
+
+    - [翻译: 结合文本到图像技术与大型语言模型，我们开创了一种新颖的方法，用以生成定制化的电子商务横幅。](2024年02月28日/Chaining_text-to-image_and_large_language_model_A_novel_approach_for_generating_personalized_e-commerce_banners.md)
+
 2024年02月27日
 
 - [Language Agents as Optimizable Graphs](2024年02月27日/Language_Agents_as_Optimizable_Graphs.md)
@@ -78,6 +82,10 @@
 
     - [翻译: SPML：一种专为抵御提示攻击而设计的领域特定语言，用于保护语言模型的安全。](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
 
+- [Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network](2024年02月18日/Large_Language_Model-driven_Meta-structure_Discovery_in_Heterogeneous_Information_Network.md)
+
+    - [翻译: 利用大型语言模型探索异构信息网络中的元结构](2024年02月18日/Large_Language_Model-driven_Meta-structure_Discovery_in_Heterogeneous_Information_Network.md)
+
 2024年02月17日
 
 - [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](2024年02月17日/TrustAgent_Towards_Safe_and_Trustworthy_LLM-based_Agents_through_Agent_Constitution.md)
@@ -124,6 +132,10 @@
 
     - [翻译: 《流之守望：利用大型语言模型实现软件定义网络中的动态数据包分类》——立场论文](2024年02月09日/Sentinels_of_the_Stream_Unleashing_Large_Language_Models_for_Dynamic_Packet_Classification_in_Software_Defined_Networks_--_Position_Paper.md)
 
+- [Factuality of Large Language Models in the Year 2024](2024年02月09日/Factuality_of_Large_Language_Models_in_the_Year_2024.md)
+
+    - [翻译: 2024年大型语言模型的信息准确性](2024年02月09日/Factuality_of_Large_Language_Models_in_the_Year_2024.md)
+
 2024年02月08日
 
 - [RedCoast: A Lightweight Tool to Automate Distributed Training of LLMs on Any GPU/TPUs](2024年02月08日/RedCoast_A_Lightweight_Tool_to_Automate_Distributed_Training_of_LLMs_on_Any_GPUTPUs.md)
@@ -151,6 +163,10 @@
 - [Machine Unlearning in Large Language Models](2024年02月03日/Machine_Unlearning_in_Large_Language_Models.md)
 
     - [翻译: 机器忘却在大型语言模型领域备受关注，这一话题在学术界和工业界都引起了广泛的讨论。](2024年02月03日/Machine_Unlearning_in_Large_Language_Models.md)
+
+- [Language-conditioned Learning for Robotic Manipulation: A Survey](2024年02月03日/Language-conditioned_Learning_for_Robotic_Manipulation_A_Survey.md)
+
+    - [翻译: 机器人操作中的语言条件学习：综述探索](2024年02月03日/Language-conditioned_Learning_for_Robotic_Manipulation_A_Survey.md)
 
 2024年02月02日
 

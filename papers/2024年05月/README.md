@@ -1462,6 +1462,10 @@
 
     - [翻译: 借助多模态深度学习，我们将医学影像与临床报告融合，以深入分析疾病，探索更深层次的医疗洞察。](2024年05月22日/Integrating_Medical_Imaging_and_Clinical_Reports_Using_Multimodal_Deep_Learning_for_Advanced_Disease_Analysis.md)
 
+- [A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry](2024年05月22日/A_Comprehensive_Survey_on_Evaluating_Large_Language_Model_Applications_in_the_Medical_Industry.md)
+
+    - [翻译: 医疗行业大型语言模型应用评估综述](2024年05月22日/A_Comprehensive_Survey_on_Evaluating_Large_Language_Model_Applications_in_the_Medical_Industry.md)
+
 2024年05月21日
 
 - [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)

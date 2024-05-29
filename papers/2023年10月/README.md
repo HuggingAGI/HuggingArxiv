@@ -12,6 +12,12 @@
 
     - [翻译: 基础模型透明度指标](2023年10月19日/The_Foundation_Model_Transparency_Index.md)
 
+2023年10月16日
+
+- [Opportunities and Challenges for ChatGPT and Large Language Models in Biomedicine and Health](2023年10月16日/Opportunities_and_Challenges_for_ChatGPT_and_Large_Language_Models_in_Biomedicine_and_Health.md)
+
+    - [翻译: ChatGPT 与大型语言模型在生物医学与健康领域的机遇与挑战](2023年10月16日/Opportunities_and_Challenges_for_ChatGPT_and_Large_Language_Models_in_Biomedicine_and_Health.md)
+
 2023年10月05日
 
 - [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](2023年10月05日/Fine-tuning_Aligned_Language_Models_Compromises_Safety,_Even_When_Users_Do_Not_Intend_To!.md)
