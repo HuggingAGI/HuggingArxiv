@@ -148,7 +148,7 @@
 
 - [Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models](2024年05月28日/Long_Context_is_Not_Long_at_All_A_Prospector_of_Long-Dependency_Data_for_Large_Language_Models.md)
 
-    - [翻译: 探索长依赖：大型语言模型的新视角](2024年05月28日/Long_Context_is_Not_Long_at_All_A_Prospector_of_Long-Dependency_Data_for_Large_Language_Models.md)
+    - [翻译: 长依赖并非遥不可及：探索大型语言模型中的长上下文数据](2024年05月28日/Long_Context_is_Not_Long_at_All_A_Prospector_of_Long-Dependency_Data_for_Large_Language_Models.md)
 
 - [Boosting Protein Language Models with Negative Sample Mining](2024年05月28日/Boosting_Protein_Language_Models_with_Negative_Sample_Mining.md)
 
@@ -156,7 +156,7 @@
 
 - [Arithmetic Reasoning with LLM: Prolog Generation & Permutation](2024年05月28日/Arithmetic_Reasoning_with_LLM_Prolog_Generation_&_Permutation.md)
 
-    - [翻译: 大型语言模型（LLM）在算术推理中的应用：Prolog生成与排列探索](2024年05月28日/Arithmetic_Reasoning_with_LLM_Prolog_Generation_&_Permutation.md)
+    - [翻译: 利用LLM进行算术推理：探索Prolog生成与排列的奥秘](2024年05月28日/Arithmetic_Reasoning_with_LLM_Prolog_Generation_&_Permutation.md)
 
 - [SLMRec: Empowering Small Language Models for Sequential Recommendation](2024年05月28日/SLMRec_Empowering_Small_Language_Models_for_Sequential_Recommendation.md)
 
@@ -164,7 +164,7 @@
 
 - [I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models](2024年05月28日/I-LLM_Efficient_Integer-Only_Inference_for_Fully-Quantized_Low-Bit_Large_Language_Models.md)
 
-    - [翻译: I-LLM：高效整数推理，助力全量化低比特大型语言模型](2024年05月28日/I-LLM_Efficient_Integer-Only_Inference_for_Fully-Quantized_Low-Bit_Large_Language_Models.md)
+    - [翻译: I-LLM：全量化低比特大型语言模型的整数推理优化](2024年05月28日/I-LLM_Efficient_Integer-Only_Inference_for_Fully-Quantized_Low-Bit_Large_Language_Models.md)
 
 - [Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs](2024年05月28日/Safety_Control_of_Service_Robots_with_LLMs_and_Embodied_Knowledge_Graphs.md)
 
@@ -176,23 +176,23 @@
 
 - [More Than Catastrophic Forgetting: Integrating General Capabilities For Domain-Specific LLMs](2024年05月28日/More_Than_Catastrophic_Forgetting_Integrating_General_Capabilities_For_Domain-Specific_LLMs.md)
 
-    - [翻译: 超越灾难性遗忘：为特定领域LLMs融合通用能力](2024年05月28日/More_Than_Catastrophic_Forgetting_Integrating_General_Capabilities_For_Domain-Specific_LLMs.md)
+    - [翻译: 超越灾难性遗忘：为特定领域LLMs注入通用能力](2024年05月28日/More_Than_Catastrophic_Forgetting_Integrating_General_Capabilities_For_Domain-Specific_LLMs.md)
 
 - [Conv-CoA: Improving Open-domain Question Answering in Large Language Models via Conversational Chain-of-Action](2024年05月28日/Conv-CoA_Improving_Open-domain_Question_Answering_in_Large_Language_Models_via_Conversational_Chain-of-Action.md)
 
-    - [翻译: Conv-CoA：借助对话链式行动优化大型语言模型中的开放域问答性能](2024年05月28日/Conv-CoA_Improving_Open-domain_Question_Answering_in_Large_Language_Models_via_Conversational_Chain-of-Action.md)
+    - [翻译: Conv-CoA：借助对话链式行动优化大型语言模型中的开放领域问答性能](2024年05月28日/Conv-CoA_Improving_Open-domain_Question_Answering_in_Large_Language_Models_via_Conversational_Chain-of-Action.md)
 
 - [RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs](2024年05月28日/RITUAL_Random_Image_Transformations_as_a_Universal_Anti-hallucination_Lever_in_LVLMs.md)
 
-    - [翻译: RITUAL：大型视觉语言模型中的随机图像变换，作为对抗幻觉的通用工具](2024年05月28日/RITUAL_Random_Image_Transformations_as_a_Universal_Anti-hallucination_Lever_in_LVLMs.md)
+    - [翻译: RITUAL：大型视觉语言模型中的随机图像变换——一种通用的抗幻觉策略](2024年05月28日/RITUAL_Random_Image_Transformations_as_a_Universal_Anti-hallucination_Lever_in_LVLMs.md)
 
 - [Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models](2024年05月28日/Don't_Miss_the_Forest_for_the_Trees_Attentional_Vision_Calibration_for_Large_Vision_Language_Models.md)
 
-    - [翻译: 勿因树木失森林：大型视觉语言模型的注意力视觉校准](2024年05月28日/Don't_Miss_the_Forest_for_the_Trees_Attentional_Vision_Calibration_for_Large_Vision_Language_Models.md)
+    - [翻译: 勿因树木而失森林：大型视觉语言模型的注意力视觉校准](2024年05月28日/Don't_Miss_the_Forest_for_the_Trees_Attentional_Vision_Calibration_for_Large_Vision_Language_Models.md)
 
 - [Detection-Correction Structure via General Language Model for Grammatical Error Correction](2024年05月28日/Detection-Correction_Structure_via_General_Language_Model_for_Grammatical_Error_Correction.md)
 
-    - [翻译: 基于通用语言模型的语法错误修正：检测与修正结构](2024年05月28日/Detection-Correction_Structure_via_General_Language_Model_for_Grammatical_Error_Correction.md)
+    - [翻译: 利用通用语言模型构建的语法错误检测与修正框架](2024年05月28日/Detection-Correction_Structure_via_General_Language_Model_for_Grammatical_Error_Correction.md)
 
 - [Don't Forget to Connect! Improving RAG with Graph-based Reranking](2024年05月28日/Don't_Forget_to_Connect!_Improving_RAG_with_Graph-based_Reranking.md)
 
@@ -200,19 +200,63 @@
 
 - [Bridging the Gap: Dynamic Learning Strategies for Improving Multilingual Performance in LLMs](2024年05月28日/Bridging_the_Gap_Dynamic_Learning_Strategies_for_Improving_Multilingual_Performance_in_LLMs.md)
 
-    - [翻译: 跨越鸿沟：运用动态学习策略提升大型语言模型在多语言环境下的表现](2024年05月28日/Bridging_the_Gap_Dynamic_Learning_Strategies_for_Improving_Multilingual_Performance_in_LLMs.md)
+    - [翻译: 跨越鸿沟：采用动态学习策略提升大型语言模型在多语言环境下的表现](2024年05月28日/Bridging_the_Gap_Dynamic_Learning_Strategies_for_Improving_Multilingual_Performance_in_LLMs.md)
 
 - [MMCTAgent: Multi-modal Critical Thinking Agent Framework for Complex Visual Reasoning](2024年05月28日/MMCTAgent_Multi-modal_Critical_Thinking_Agent_Framework_for_Complex_Visual_Reasoning.md)
 
-    - [翻译: MMCTAgent：复杂视觉推理的多模态批判性思维框架，旨在通过多模态输入提升批判性思维能力。](2024年05月28日/MMCTAgent_Multi-modal_Critical_Thinking_Agent_Framework_for_Complex_Visual_Reasoning.md)
+    - [翻译: MMCTAgent：复杂视觉推理的多模态批判性思维框架，专为提升代理的深度思考能力而设计。](2024年05月28日/MMCTAgent_Multi-modal_Critical_Thinking_Agent_Framework_for_Complex_Visual_Reasoning.md)
 
 - [Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning](2024年05月28日/Empowering_Source-Free_Domain_Adaptation_with_MLLM-driven_Curriculum_Learning.md)
 
-    - [翻译: 借助多语言大型语言模型驱动的课程学习，提升源无关域适应能力](2024年05月28日/Empowering_Source-Free_Domain_Adaptation_with_MLLM-driven_Curriculum_Learning.md)
+    - [翻译: 借助多语言大型语言模型驱动的课程学习，提升源自由域适应能力](2024年05月28日/Empowering_Source-Free_Domain_Adaptation_with_MLLM-driven_Curriculum_Learning.md)
 
 - [Multi-modal Generation via Cross-Modal In-Context Learning](2024年05月28日/Multi-modal_Generation_via_Cross-Modal_In-Context_Learning.md)
 
     - [翻译: 跨模态上下文学习驱动多模态内容生成](2024年05月28日/Multi-modal_Generation_via_Cross-Modal_In-Context_Learning.md)
+
+- [Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning](2024年05月28日/Instruct-MusicGen_Unlocking_Text-to-Music_Editing_for_Music_Language_Models_via_Instruction_Tuning.md)
+
+    - [翻译: Instruct-MusicGen：借助指令调谐，开启音乐语言模型的文本至音乐编辑新篇章](2024年05月28日/Instruct-MusicGen_Unlocking_Text-to-Music_Editing_for_Music_Language_Models_via_Instruction_Tuning.md)
+
+- [OwLore: Outlier-weighed Layerwise Sampled Low-Rank Projection for Memory-Efficient LLM Fine-tuning](2024年05月28日/OwLore_Outlier-weighed_Layerwise_Sampled_Low-Rank_Projection_for_Memory-Efficient_LLM_Fine-tuning.md)
+
+    - [翻译: OwLore：一种针对 LLM 微调的内存高效方法，通过异常值加权层级采样实现低秩投影。](2024年05月28日/OwLore_Outlier-weighed_Layerwise_Sampled_Low-Rank_Projection_for_Memory-Efficient_LLM_Fine-tuning.md)
+
+- [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](2024年05月28日/LLaMA-NAS_Efficient_Neural_Architecture_Search_for_Large_Language_Models.md)
+
+    - [翻译: LLaMA-NAS：大型语言模型的精妙神经架构探索](2024年05月28日/LLaMA-NAS_Efficient_Neural_Architecture_Search_for_Large_Language_Models.md)
+
+- [Thai Winograd Schemas: A Benchmark for Thai Commonsense Reasoning](2024年05月28日/Thai_Winograd_Schemas_A_Benchmark_for_Thai_Commonsense_Reasoning.md)
+
+    - [翻译: 泰国Winograd模式：泰国常识推理的新基准](2024年05月28日/Thai_Winograd_Schemas_A_Benchmark_for_Thai_Commonsense_Reasoning.md)
+
+- [PromptWizard: Task-Aware Agent-driven Prompt Optimization Framework](2024年05月28日/PromptWizard_Task-Aware_Agent-driven_Prompt_Optimization_Framework.md)
+
+    - [翻译: PromptWizard：基于任务感知的代理驱动提示优化框架](2024年05月28日/PromptWizard_Task-Aware_Agent-driven_Prompt_Optimization_Framework.md)
+
+- [Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?](2024年05月28日/Is_a_3D-Tokenized_LLM_the_Key_to_Reliable_Autonomous_Driving.md)
+
+    - [翻译: 3D-Token化的大型语言模型是否是解锁可靠自动驾驶之门的钥匙？](2024年05月28日/Is_a_3D-Tokenized_LLM_the_Key_to_Reliable_Autonomous_Driving.md)
+
+- [Faithful Logical Reasoning via Symbolic Chain-of-Thought](2024年05月28日/Faithful_Logical_Reasoning_via_Symbolic_Chain-of-Thought.md)
+
+    - [翻译: 借助符号链式思维，精准演绎逻辑推理](2024年05月28日/Faithful_Logical_Reasoning_via_Symbolic_Chain-of-Thought.md)
+
+- [Universal and Extensible Language-Vision Models for Organ Segmentation and Tumor Detection from Abdominal Computed Tomography](2024年05月28日/Universal_and_Extensible_Language-Vision_Models_for_Organ_Segmentation_and_Tumor_Detection_from_Abdominal_Computed_Tomography.md)
+
+    - [翻译: 针对腹部CT扫描的器官分割与肿瘤检测，我们开发了一种通用且可扩展的语言-视觉模型。](2024年05月28日/Universal_and_Extensible_Language-Vision_Models_for_Organ_Segmentation_and_Tumor_Detection_from_Abdominal_Computed_Tomography.md)
+
+- [Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation](2024年05月28日/Intelligent_Clinical_Documentation_Harnessing_Generative_AI_for_Patient-Centric_Clinical_Note_Generation.md)
+
+    - [翻译: 智能临床文档：借助生成式AI，我们能够创造以患者为中心的临床笔记，提升医疗记录的智能化水平。](2024年05月28日/Intelligent_Clinical_Documentation_Harnessing_Generative_AI_for_Patient-Centric_Clinical_Note_Generation.md)
+
+- [The Battle of LLMs: A Comparative Study in Conversational QA Tasks](2024年05月28日/The_Battle_of_LLMs_A_Comparative_Study_in_Conversational_QA_Tasks.md)
+
+    - [翻译: 语言模型大比拼：对话问答任务的深度对比研究](2024年05月28日/The_Battle_of_LLMs_A_Comparative_Study_in_Conversational_QA_Tasks.md)
+
+- [Frustratingly Easy Test-Time Adaptation of Vision-Language Models](2024年05月28日/Frustratingly_Easy_Test-Time_Adaptation_of_Vision-Language_Models.md)
+
+    - [翻译: 视觉-语言模型的测试时间适应性，简单到令人沮丧](2024年05月28日/Frustratingly_Easy_Test-Time_Adaptation_of_Vision-Language_Models.md)
 
 2024年05月27日
 
@@ -430,7 +474,7 @@
 
 - [Instruct-ReID++: Towards Universal Purpose Instruction-Guided Person Re-identification](2024年05月27日/Instruct-ReID++_Towards_Universal_Purpose_Instruction-Guided_Person_Re-identification.md)
 
-    - [翻译: Instruct-ReID++：探索通用指令引导下的人员再识别技术](2024年05月27日/Instruct-ReID++_Towards_Universal_Purpose_Instruction-Guided_Person_Re-identification.md)
+    - [翻译: Instruct-ReID++：探索通用指令引导下的人物再识别技术](2024年05月27日/Instruct-ReID++_Towards_Universal_Purpose_Instruction-Guided_Person_Re-identification.md)
 
 - [Linguistic Collapse: Neural Collapse in (Large) Language Models](2024年05月27日/Linguistic_Collapse_Neural_Collapse_in_(Large)_Language_Models.md)
 
@@ -442,7 +486,7 @@
 
 - [RAGSys: Item-Cold-Start Recommender as RAG System](2024年05月27日/RAGSys_Item-Cold-Start_Recommender_as_RAG_System.md)
 
-    - [翻译: RAGSys：将物品冷启动推荐系统模拟为检索与生成相结合的智能系统](2024年05月27日/RAGSys_Item-Cold-Start_Recommender_as_RAG_System.md)
+    - [翻译: RAGSys：将物品冷启动推荐系统化身为RAG系统](2024年05月27日/RAGSys_Item-Cold-Start_Recommender_as_RAG_System.md)
 
 - [ORLM: Training Large Language Models for Optimization Modeling](2024年05月27日/ORLM_Training_Large_Language_Models_for_Optimization_Modeling.md)
 
@@ -3476,7 +3520,7 @@
 
 - [An Overview of Machine Learning-Enabled Optimization for Reconfigurable Intelligent Surfaces-Aided 6G Networks: From Reinforcement Learning to Large Language Models](2024年05月08日/An_Overview_of_Machine_Learning-Enabled_Optimization_for_Reconfigurable_Intelligent_Surfaces-Aided_6G_Networks_From_Reinforcement_Learning_to_Large_Language_Models.md)
 
-    - [翻译: 探索6G网络中可重构智能表面的优化：机器学习从强化学习到大语言模型的应用概览](2024年05月08日/An_Overview_of_Machine_Learning-Enabled_Optimization_for_Reconfigurable_Intelligent_Surfaces-Aided_6G_Networks_From_Reinforcement_Learning_to_Large_Language_Models.md)
+    - [翻译: 6G网络中可重构智能表面的机器学习优化综述：从强化学习到大语言模型的演进](2024年05月08日/An_Overview_of_Machine_Learning-Enabled_Optimization_for_Reconfigurable_Intelligent_Surfaces-Aided_6G_Networks_From_Reinforcement_Learning_to_Large_Language_Models.md)
 
 2024年05月07日
 
