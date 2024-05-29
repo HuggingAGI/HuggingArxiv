@@ -1,5 +1,31 @@
 # 2024年05月
 
+2024年05月28日
+
+- [Facilitating Multi-Role and Multi-Behavior Collaboration of Large Language Models for Online Job Seeking and Recruiting](2024年05月28日/Facilitating_Multi-Role_and_Multi-Behavior_Collaboration_of_Large_Language_Models_for_Online_Job_Seeking_and_Recruiting.md)
+
+    - [翻译: 助力大型语言模型实现在线求职与招聘的多角色多行为协同](2024年05月28日/Facilitating_Multi-Role_and_Multi-Behavior_Collaboration_of_Large_Language_Models_for_Online_Job_Seeking_and_Recruiting.md)
+
+- [ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator](2024年05月28日/ATM_Adversarial_Tuning_Multi-agent_System_Makes_a_Robust_Retrieval-Augmented_Generator.md)
+
+    - [翻译: ATM：通过对抗性调整的多代理系统，打造了一个更为稳健的检索增强生成器](2024年05月28日/ATM_Adversarial_Tuning_Multi-agent_System_Makes_a_Robust_Retrieval-Augmented_Generator.md)
+
+- [LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins](2024年05月28日/LLM_experiments_with_simulation_Large_Language_Model_Multi-Agent_System_for_Process_Simulation_Parametrization_in_Digital_Twins.md)
+
+    - [翻译: 大型语言模型多代理系统：探索数字孪生中的过程模拟参数化](2024年05月28日/LLM_experiments_with_simulation_Large_Language_Model_Multi-Agent_System_for_Process_Simulation_Parametrization_in_Digital_Twins.md)
+
+- [White-box Multimodal Jailbreaks Against Large Vision-Language Models](2024年05月28日/White-box_Multimodal_Jailbreaks_Against_Large_Vision-Language_Models.md)
+
+    - [翻译: 大型视觉-语言模型面临的白盒多模态越狱挑战](2024年05月28日/White-box_Multimodal_Jailbreaks_Against_Large_Vision-Language_Models.md)
+
+- [Full-Stack Allreduce on Multi-Rail Networks](2024年05月28日/Full-Stack_Allreduce_on_Multi-Rail_Networks.md)
+
+    - [翻译: 多轨网络上的全栈 Allreduce 技术](2024年05月28日/Full-Stack_Allreduce_on_Multi-Rail_Networks.md)
+
+- [Visual Anchors Are Strong Information Aggregators For Multimodal Large Language Model](2024年05月28日/Visual_Anchors_Are_Strong_Information_Aggregators_For_Multimodal_Large_Language_Model.md)
+
+    - [翻译: 视觉锚点在多模态大型语言模型中扮演着强大的信息聚合角色。](2024年05月28日/Visual_Anchors_Are_Strong_Information_Aggregators_For_Multimodal_Large_Language_Model.md)
+
 2024年05月27日
 
 - [Large Language Models (LLMs): Deployment, Tokenomics and Sustainability](2024年05月27日/Large_Language_Models_(LLMs)_Deployment,_Tokenomics_and_Sustainability.md)
@@ -205,6 +231,10 @@
 - [Perturbation-Restrained Sequential Model Editing](2024年05月27日/Perturbation-Restrained_Sequential_Model_Editing.md)
 
     - [翻译: 序列模型编辑中的扰动抑制](2024年05月27日/Perturbation-Restrained_Sequential_Model_Editing.md)
+
+- [Video Enriched Retrieval Augmented Generation Using Aligned Video Captions](2024年05月27日/Video_Enriched_Retrieval_Augmented_Generation_Using_Aligned_Video_Captions.md)
+
+    - [翻译: 利用对齐视频字幕，实现视频内容的丰富检索与增强生成](2024年05月27日/Video_Enriched_Retrieval_Augmented_Generation_Using_Aligned_Video_Captions.md)
 
 2024年05月26日
 
@@ -1167,6 +1197,10 @@
 - [AutoCoder: Enhancing Code Large Language Model with \textsc{AIEV-Instruct}](2024年05月22日/AutoCoder_Enhancing_Code_Large_Language_Model_with_\textsc{AIEV-Instruct}.md)
 
     - [翻译: AutoCoder：借助 \textsc{AIEV-Instruct} 提升大型语言模型的编程能力](2024年05月22日/AutoCoder_Enhancing_Code_Large_Language_Model_with_\textsc{AIEV-Instruct}.md)
+
+- [Integrating Medical Imaging and Clinical Reports Using Multimodal Deep Learning for Advanced Disease Analysis](2024年05月22日/Integrating_Medical_Imaging_and_Clinical_Reports_Using_Multimodal_Deep_Learning_for_Advanced_Disease_Analysis.md)
+
+    - [翻译: 借助多模态深度学习，我们将医学影像与临床报告融合，以深入分析疾病，探索更深层次的医疗洞察。](2024年05月22日/Integrating_Medical_Imaging_and_Clinical_Reports_Using_Multimodal_Deep_Learning_for_Advanced_Disease_Analysis.md)
 
 2024年05月21日
 
