@@ -4,13 +4,13 @@
 
 `Agent
 
-理由：这篇论文主要介绍了一种新的视觉语言导航（VLN）代理CONSOLE，它利用大型模型ChatGPT和CLIP来实现精确的地标发现和导航。论文的核心在于提出并实现了一个新的代理模型，用于解决VLN中的具体问题，即在未探索场景中实现精确的模态对齐。因此，这篇论文更符合Agent分类，因为它专注于开发和应用一个具体的代理系统来解决特定的导航问题。` `机器人导航` `视觉语言处理`
+理由：这篇论文主要讨论了在视觉-语言导航（VLN）任务中，如何通过创新的系统CONSOLE来提高代理在遵循语言指令导航至目标点的能力。CONSOLE系统利用了ChatGPT和CLIP模型来增强地标发现和导航的准确性，这在本质上是一个Agent的应用，因为它涉及到了一个智能代理在特定任务（导航）中的行为和决策过程。此外，论文中提到的系统设计和实验结果都强调了代理在开放世界环境中的性能提升，这进一步支持了其分类为Agent。` `机器人导航`
 
 > Correctable Landmark Discovery via Large Models for Vision-Language Navigation
 
 # 摘要
 
-> 视觉语言导航（VLN）中，代理需遵循语言指令抵达目标位置，关键在于将指令中的地标与视觉观察精准对齐。然而，以往的VLN代理在未探索场景中难以实现精确模态对齐，因其依赖有限数据且缺乏开放世界对齐知识。为此，我们提出了CONSOLE——一种新的VLN范式，它通过大型模型ChatGPT和CLIP实现可校正的地标发现。CONSOLE将VLN视为开放世界的顺序地标发现问题，利用ChatGPT提供的地标共现常识，结合CLIP进行地标发现，并通过可学习的共现评分模块减少视觉约束不足带来的噪声，确保地标发现的准确性。此外，我们还设计了观察增强策略，将CONSOLE与不同VLN代理优雅结合，利用校正后的地标特征提升观察质量，辅助动作决策。在多个VLN基准测试中，CONSOLE的表现显著超越了现有基线，尤其在未见场景中的R2R和R4R上刷新了记录。代码已公开于https://github.com/expectorlin/CONSOLE。
+> 视觉-语言导航（VLN）中，代理需遵循语言指令抵达目标点。关键在于将指令中的隐含地标与视觉观察精准对齐。以往的VLN系统因依赖有限数据且缺乏开放世界知识，在未知环境中对齐表现不佳。为此，我们创新性地提出了CONSOLE——一种基于ChatGPT和CLIP两大模型的可纠正地标发现新范式。CONSOLE将VLN视为开放世界的顺序地标发现挑战，利用ChatGPT丰富地标共现常识，并通过CLIP进行地标发现。针对先验知识中的视觉约束不足，我们开发了可学习的共现评分机制，根据实际观察调整共现权重，确保地标发现的准确性。此外，我们还设计了观察增强策略，将CONSOLE与各类VLN系统无缝集成，通过校正后的地标特征提升观察质量，辅助决策。在R2R、REVERIE、R4R、RxR等VLN基准上的实验表明，CONSOLE显著超越现有技术，尤其在未知场景中刷新了R2R和R4R的记录。项目代码已公开于https://github.com/expectorlin/CONSOLE。
 
 > Vision-Language Navigation (VLN) requires the agent to follow language instructions to reach a target position. A key factor for successful navigation is to align the landmarks implied in the instruction with diverse visual observations. However, previous VLN agents fail to perform accurate modality alignment especially in unexplored scenes, since they learn from limited navigation data and lack sufficient open-world alignment knowledge. In this work, we propose a new VLN paradigm, called COrrectable LaNdmark DiScOvery via Large ModEls (CONSOLE). In CONSOLE, we cast VLN as an open-world sequential landmark discovery problem, by introducing a novel correctable landmark discovery scheme based on two large models ChatGPT and CLIP. Specifically, we use ChatGPT to provide rich open-world landmark cooccurrence commonsense, and conduct CLIP-driven landmark discovery based on these commonsense priors. To mitigate the noise in the priors due to the lack of visual constraints, we introduce a learnable cooccurrence scoring module, which corrects the importance of each cooccurrence according to actual observations for accurate landmark discovery. We further design an observation enhancement strategy for an elegant combination of our framework with different VLN agents, where we utilize the corrected landmark features to obtain enhanced observation features for action decision. Extensive experimental results on multiple popular VLN benchmarks (R2R, REVERIE, R4R, RxR) show the significant superiority of CONSOLE over strong baselines. Especially, our CONSOLE establishes the new state-of-the-art results on R2R and R4R in unseen scenarios. Code is available at https://github.com/expectorlin/CONSOLE.
 

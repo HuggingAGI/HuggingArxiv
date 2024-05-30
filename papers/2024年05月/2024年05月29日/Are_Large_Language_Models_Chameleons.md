@@ -4,13 +4,13 @@
 
 `LLM理论
 
-这篇论文探讨了大型语言模型（LLMs）的世界观和个性倾向，并通过模拟实验与真实社会调查数据进行对比，分析了模型偏差和变异性的影响因素。研究内容涉及模型的内部机制和行为表现，属于对LLMs理论层面的深入探讨。因此，将其归类为LLM理论。` `社会科学` `人工智能`
+这篇论文探讨了大型语言模型（LLMs）在回答主观问题时表现出的文化、年龄和性别偏见，并研究了这些偏见如何受输入提示的影响。此外，论文还提出了新的度量方法来量化LLMs与真实数据之间的差异。这些内容主要关注LLMs的理论特性和行为分析，因此属于LLM理论分类。` `社会科学` `人工智能`
 
 > Are Large Language Models Chameleons?
 
 # 摘要
 
-> 大型语言模型（LLMs）是否具备独特的世界观和个性倾向？通过超过百万次的模拟实验，我们让LLMs回答主观问题，并将它们的回答与欧洲社会调查（ESS）的真实数据进行对比。结果显示，提示对模型偏差和变异性的影响至关重要，揭示了显著的文化、年龄和性别偏见。我们探讨了如何衡量LLMs与调查数据之间的差异，包括计算加权平均和借鉴Jaccard相似性的新度量方法。最终，我们强调在使用LLMs模拟个体或集体行为之前，必须深入分析提示的稳定性和变异性，因为它们的模仿能力仅能达到近似水平。
+> 大型语言模型（LLMs）是否拥有独特的世界观和个性倾向？通过超过100万次的模拟实验，我们发现LLMs在回答主观问题时，其回答与欧洲社会调查（ESS）的真实数据相比，显示出显著的文化、年龄和性别偏见。这些偏见主要受输入提示的影响。为了量化LLMs与真实数据之间的差异，我们探讨了包括加权平均和基于Jaccard相似性的新度量方法。研究结果强调，在利用LLMs模拟个体或集体行为之前，必须深入分析提示的稳定性和变异性，因为LLMs的模仿能力仅能达到近似水平。
 
 > Do large language models (LLMs) have their own worldviews and personality tendencies? Simulations in which an LLM was asked to answer subjective questions were conducted more than 1 million times. Comparison of the responses from different LLMs with real data from the European Social Survey (ESS) suggests that the effect of prompts on bias and variability is fundamental, highlighting major cultural, age, and gender biases. Methods for measuring the difference between LLMs and survey data are discussed, such as calculating weighted means and a new proposed measure inspired by Jaccard similarity. We conclude that it is important to analyze the robustness and variability of prompts before using LLMs to model individual decisions or collective behavior, as their imitation abilities are approximate at best.
 
