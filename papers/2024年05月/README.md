@@ -172,7 +172,7 @@
 
 - [Large Language Model Watermark Stealing With Mixed Integer Programming](2024年05月30日/Large_Language_Model_Watermark_Stealing_With_Mixed_Integer_Programming.md)
 
-    - [翻译: 混合整数规划在大型语言模型水印窃取中的应用](2024年05月30日/Large_Language_Model_Watermark_Stealing_With_Mixed_Integer_Programming.md)
+    - [翻译: 混合整数规划在大型语言模型中窃取水印的策略](2024年05月30日/Large_Language_Model_Watermark_Stealing_With_Mixed_Integer_Programming.md)
 
 - [Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use](2024年05月30日/Retrieval_Augmented_Structured_Generation_Business_Document_Information_Extraction_As_Tool_Use.md)
 
@@ -200,15 +200,15 @@
 
 - [CausalQuest: Collecting Natural Causal Questions for AI Agents](2024年05月30日/CausalQuest_Collecting_Natural_Causal_Questions_for_AI_Agents.md)
 
-    - [翻译: 因果探索：为AI代理搜集自然因果问题](2024年05月30日/CausalQuest_Collecting_Natural_Causal_Questions_for_AI_Agents.md)
+    - [翻译: 因果探索：为AI代理搜集自然因果问题集](2024年05月30日/CausalQuest_Collecting_Natural_Causal_Questions_for_AI_Agents.md)
 
 - [ANAH: Analytical Annotation of Hallucinations in Large Language Models](2024年05月30日/ANAH_Analytical_Annotation_of_Hallucinations_in_Large_Language_Models.md)
 
-    - [翻译: ANAH：大型语言模型幻觉的精细分析注释](2024年05月30日/ANAH_Analytical_Annotation_of_Hallucinations_in_Large_Language_Models.md)
+    - [翻译: ANAH：大型语言模型幻觉的深度解析](2024年05月30日/ANAH_Analytical_Annotation_of_Hallucinations_in_Large_Language_Models.md)
 
 - [Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation](2024年05月30日/Sequence-Augmented_SE(3)-Flow_Matching_For_Conditional_Protein_Backbone_Generation.md)
 
-    - [翻译: 利用序列增强的SE(3)-流匹配技术，实现条件性蛋白质骨架的精准生成](2024年05月30日/Sequence-Augmented_SE(3)-Flow_Matching_For_Conditional_Protein_Backbone_Generation.md)
+    - [翻译: 条件性蛋白质骨架生成中的序列增强SE(3)-流匹配](2024年05月30日/Sequence-Augmented_SE(3)-Flow_Matching_For_Conditional_Protein_Backbone_Generation.md)
 
 - [Large Language Models Can Self-Improve At Web Agent Tasks](2024年05月30日/Large_Language_Models_Can_Self-Improve_At_Web_Agent_Tasks.md)
 
@@ -216,11 +216,11 @@
 
 - [Can't make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models](2024年05月30日/Can't_make_an_Omelette_without_Breaking_some_Eggs_Plausible_Action_Anticipation_using_Large_Video-Language_Models.md)
 
-    - [翻译: 欲制煎蛋卷，必先破蛋壳：借助大型视频-语言模型，精准预见动作之可能。](2024年05月30日/Can't_make_an_Omelette_without_Breaking_some_Eggs_Plausible_Action_Anticipation_using_Large_Video-Language_Models.md)
+    - [翻译: 欲制煎蛋，必先破蛋：借助大型视频-语言模型，精准预见动作之可能。](2024年05月30日/Can't_make_an_Omelette_without_Breaking_some_Eggs_Plausible_Action_Anticipation_using_Large_Video-Language_Models.md)
 
 - [Group Robust Preference Optimization in Reward-free RLHF](2024年05月30日/Group_Robust_Preference_Optimization_in_Reward-free_RLHF.md)
 
-    - [翻译: 在无奖励环境下的强化学习中，优化群体的鲁棒偏好](2024年05月30日/Group_Robust_Preference_Optimization_in_Reward-free_RLHF.md)
+    - [翻译: 在无奖励强化学习中，优化群体的鲁棒偏好](2024年05月30日/Group_Robust_Preference_Optimization_in_Reward-free_RLHF.md)
 
 - [Who Writes the Review, Human or AI?](2024年05月30日/Who_Writes_the_Review,_Human_or_AI.md)
 
@@ -232,7 +232,7 @@
 
 - [Towards Hierarchical Multi-Agent Workflows for Zero-Shot Prompt Optimization](2024年05月30日/Towards_Hierarchical_Multi-Agent_Workflows_for_Zero-Shot_Prompt_Optimization.md)
 
-    - [翻译: 探索分层多代理工作流程以优化零-shot提示](2024年05月30日/Towards_Hierarchical_Multi-Agent_Workflows_for_Zero-Shot_Prompt_Optimization.md)
+    - [翻译: 探索零-shot提示优化的高层次多代理工作流程](2024年05月30日/Towards_Hierarchical_Multi-Agent_Workflows_for_Zero-Shot_Prompt_Optimization.md)
 
 - [Context Injection Attacks on Large Language Models](2024年05月30日/Context_Injection_Attacks_on_Large_Language_Models.md)
 
@@ -240,7 +240,7 @@
 
 - [TS-Align: A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models](2024年05月30日/TS-Align_A_Teacher-Student_Collaborative_Framework_for_Scalable_Iterative_Finetuning_of_Large_Language_Models.md)
 
-    - [翻译: TS-Align：一种教师-学生协作框架，专为大型语言模型的可扩展迭代微调设计](2024年05月30日/TS-Align_A_Teacher-Student_Collaborative_Framework_for_Scalable_Iterative_Finetuning_of_Large_Language_Models.md)
+    - [翻译: TS-Align：教师-学生协作框架，专为大型语言模型的迭代微调而设计，旨在实现规模化优化。](2024年05月30日/TS-Align_A_Teacher-Student_Collaborative_Framework_for_Scalable_Iterative_Finetuning_of_Large_Language_Models.md)
 
 - [One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](2024年05月30日/One_QuantLLM_for_ALL_Fine-tuning_Quantized_LLMs_Once_for_Efficient_Deployments.md)
 
@@ -248,19 +248,19 @@
 
 - [Using Large Language Models for Humanitarian Frontline Negotiation: Opportunities and Considerations](2024年05月30日/Using_Large_Language_Models_for_Humanitarian_Frontline_Negotiation_Opportunities_and_Considerations.md)
 
-    - [翻译: 大型语言模型在人道前线谈判中的应用：机遇与审慎考量](2024年05月30日/Using_Large_Language_Models_for_Humanitarian_Frontline_Negotiation_Opportunities_and_Considerations.md)
+    - [翻译: 大型语言模型在人道主义前线谈判中的应用：机遇与深思](2024年05月30日/Using_Large_Language_Models_for_Humanitarian_Frontline_Negotiation_Opportunities_and_Considerations.md)
 
 - [TAIA: Large Language Models are Out-of-Distribution Data Learners](2024年05月30日/TAIA_Large_Language_Models_are_Out-of-Distribution_Data_Learners.md)
 
-    - [翻译: TAIA：大型语言模型擅长学习分布外数据](2024年05月30日/TAIA_Large_Language_Models_are_Out-of-Distribution_Data_Learners.md)
+    - [翻译: TAIA: 大型语言模型擅长学习分布外数据](2024年05月30日/TAIA_Large_Language_Models_are_Out-of-Distribution_Data_Learners.md)
 
 - [Nadine: An LLM-driven Intelligent Social Robot with Affective Capabilities and Human-like Memory](2024年05月30日/Nadine_An_LLM-driven_Intelligent_Social_Robot_with_Affective_Capabilities_and_Human-like_Memory.md)
 
-    - [翻译: Nadine：一款搭载LLM技术的智能社交机器人，拥有情感交互能力与类人记忆系统](2024年05月30日/Nadine_An_LLM-driven_Intelligent_Social_Robot_with_Affective_Capabilities_and_Human-like_Memory.md)
+    - [翻译: Nadine：一款搭载LLM的智能社交机器人，具备情感交互能力与类人记忆系统](2024年05月30日/Nadine_An_LLM-driven_Intelligent_Social_Robot_with_Affective_Capabilities_and_Human-like_Memory.md)
 
 - [Generating Query Recommendations via LLMs](2024年05月30日/Generating_Query_Recommendations_via_LLMs.md)
 
-    - [翻译: 利用大型语言模型生成查询推荐](2024年05月30日/Generating_Query_Recommendations_via_LLMs.md)
+    - [翻译: 利用大型语言模型打造智能查询推荐](2024年05月30日/Generating_Query_Recommendations_via_LLMs.md)
 
 2024年05月29日
 
@@ -518,47 +518,47 @@
 
 - [AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization](2024年05月29日/AutoBreach_Universal_and_Adaptive_Jailbreaking_with_Efficient_Wordplay-Guided_Optimization.md)
 
-    - [翻译: AutoBreach：一种通用且自适应的越狱技术，通过高效的文字游戏策略进行优化，旨在提升越狱效率和适应性。](2024年05月29日/AutoBreach_Universal_and_Adaptive_Jailbreaking_with_Efficient_Wordplay-Guided_Optimization.md)
+    - [翻译: AutoBreach：一种通用且自适应的越狱方法，通过高效的文字游戏策略进行优化，旨在突破各种限制。](2024年05月29日/AutoBreach_Universal_and_Adaptive_Jailbreaking_with_Efficient_Wordplay-Guided_Optimization.md)
 
 - [PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals](2024年05月29日/PATIENT-Ψ_Using_Large_Language_Models_to_Simulate_Patients_for_Training_Mental_Health_Professionals.md)
 
-    - [翻译: ](2024年05月29日/PATIENT-Ψ_Using_Large_Language_Models_to_Simulate_Patients_for_Training_Mental_Health_Professionals.md)
+    - [翻译: PATIENT-Ψ计划：借助大型语言模型，模拟患者情境，以精进心理健康专业人员的培训。](2024年05月29日/PATIENT-Ψ_Using_Large_Language_Models_to_Simulate_Patients_for_Training_Mental_Health_Professionals.md)
 
 - [SysCaps: Language Interfaces for Simulation Surrogates of Complex Systems](2024年05月29日/SysCaps_Language_Interfaces_for_Simulation_Surrogates_of_Complex_Systems.md)
 
-    - [翻译: ](2024年05月29日/SysCaps_Language_Interfaces_for_Simulation_Surrogates_of_Complex_Systems.md)
+    - [翻译: SysCaps：复杂系统模拟代理的语言交互界面](2024年05月29日/SysCaps_Language_Interfaces_for_Simulation_Surrogates_of_Complex_Systems.md)
 
 - [Detecting Hallucinations in Large Language Model Generation: A Token Probability Approach](2024年05月29日/Detecting_Hallucinations_in_Large_Language_Model_Generation_A_Token_Probability_Approach.md)
 
-    - [翻译: ](2024年05月29日/Detecting_Hallucinations_in_Large_Language_Model_Generation_A_Token_Probability_Approach.md)
+    - [翻译: 检测大规模语言模型生成中的幻觉：基于词元概率的新途径](2024年05月29日/Detecting_Hallucinations_in_Large_Language_Model_Generation_A_Token_Probability_Approach.md)
 
 - [Creating Language-driven Spatial Variations of Icon Images](2024年05月29日/Creating_Language-driven_Spatial_Variations_of_Icon_Images.md)
 
-    - [翻译: ](2024年05月29日/Creating_Language-driven_Spatial_Variations_of_Icon_Images.md)
+    - [翻译: 利用语言驱动图标图像的空间多样性](2024年05月29日/Creating_Language-driven_Spatial_Variations_of_Icon_Images.md)
 
 - [GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment](2024年05月29日/GKT_A_Novel_Guidance-Based_Knowledge_Transfer_Framework_For_Efficient_Cloud-edge_Collaboration_LLM_Deployment.md)
 
-    - [翻译: ](2024年05月29日/GKT_A_Novel_Guidance-Based_Knowledge_Transfer_Framework_For_Efficient_Cloud-edge_Collaboration_LLM_Deployment.md)
+    - [翻译: GKT：一种创新的指导式知识转移框架，旨在优化云与边缘间的协作，以实现大型语言模型的高效部署。](2024年05月29日/GKT_A_Novel_Guidance-Based_Knowledge_Transfer_Framework_For_Efficient_Cloud-edge_Collaboration_LLM_Deployment.md)
 
 - [Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations](2024年05月29日/Keyword-driven_Retrieval-Augmented_Large_Language_Models_for_Cold-start_User_Recommendations.md)
 
-    - [翻译: ](2024年05月29日/Keyword-driven_Retrieval-Augmented_Large_Language_Models_for_Cold-start_User_Recommendations.md)
+    - [翻译: 利用关键词驱动检索增强的大型语言模型，为冷启动用户提供精准推荐](2024年05月29日/Keyword-driven_Retrieval-Augmented_Large_Language_Models_for_Cold-start_User_Recommendations.md)
 
 - [Unlearning Climate Misinformation in Large Language Models](2024年05月29日/Unlearning_Climate_Misinformation_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年05月29日/Unlearning_Climate_Misinformation_in_Large_Language_Models.md)
+    - [翻译: 清除大型语言模型中的气候错误信息](2024年05月29日/Unlearning_Climate_Misinformation_in_Large_Language_Models.md)
 
 - [Two-layer retrieval augmented generation framework for low-resource medical question-answering: proof of concept using Reddit data](2024年05月29日/Two-layer_retrieval_augmented_generation_framework_for_low-resource_medical_question-answering_proof_of_concept_using_Reddit_data.md)
 
-    - [翻译: ](2024年05月29日/Two-layer_retrieval_augmented_generation_framework_for_low-resource_medical_question-answering_proof_of_concept_using_Reddit_data.md)
+    - [翻译: 双层检索增强生成框架：在低资源医疗问答中，通过 Reddit 数据验证其概念。](2024年05月29日/Two-layer_retrieval_augmented_generation_framework_for_low-resource_medical_question-answering_proof_of_concept_using_Reddit_data.md)
 
 - [An Automated Startup Evaluation Pipeline: Startup Success Forecasting Framework (SSFF)](2024年05月29日/An_Automated_Startup_Evaluation_Pipeline_Startup_Success_Forecasting_Framework_(SSFF).md)
 
-    - [翻译: ](2024年05月29日/An_Automated_Startup_Evaluation_Pipeline_Startup_Success_Forecasting_Framework_(SSFF).md)
+    - [翻译: 创业成功预测框架（SSFF）：一套自动化评估创业潜力的流程。](2024年05月29日/An_Automated_Startup_Evaluation_Pipeline_Startup_Success_Forecasting_Framework_(SSFF).md)
 
 - [Adaptive In-conversation Team Building for Language Model Agents](2024年05月29日/Adaptive_In-conversation_Team_Building_for_Language_Model_Agents.md)
 
-    - [翻译: ](2024年05月29日/Adaptive_In-conversation_Team_Building_for_Language_Model_Agents.md)
+    - [翻译: 语言模型代理的自适应对话团队构建](2024年05月29日/Adaptive_In-conversation_Team_Building_for_Language_Model_Agents.md)
 
 2024年05月28日
 
@@ -860,7 +860,7 @@
 
 - [Multi-modal Mood Reader: Pre-trained Model Empowers Cross-Subject Emotion Recognition](2024年05月28日/Multi-modal_Mood_Reader_Pre-trained_Model_Empowers_Cross-Subject_Emotion_Recognition.md)
 
-    - [翻译: ](2024年05月28日/Multi-modal_Mood_Reader_Pre-trained_Model_Empowers_Cross-Subject_Emotion_Recognition.md)
+    - [翻译: 多模态情绪解读器：预训练模型助力跨主题情感识别](2024年05月28日/Multi-modal_Mood_Reader_Pre-trained_Model_Empowers_Cross-Subject_Emotion_Recognition.md)
 
 2024年05月27日
 
@@ -1232,7 +1232,7 @@
 
 - [ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text](2024年05月26日/ECG_Semantic_Integrator_(ESI)_A_Foundation_ECG_Model_Pretrained_with_LLM-Enhanced_Cardiological_Text.md)
 
-    - [翻译: ](2024年05月26日/ECG_Semantic_Integrator_(ESI)_A_Foundation_ECG_Model_Pretrained_with_LLM-Enhanced_Cardiological_Text.md)
+    - [翻译: ECG 语义整合器 (ESI)：一款基于 LLM 增强的心脏病学文本预训练的 ECG 基础模型，旨在深度整合 ECG 数据与医学知识。](2024年05月26日/ECG_Semantic_Integrator_(ESI)_A_Foundation_ECG_Model_Pretrained_with_LLM-Enhanced_Cardiological_Text.md)
 
 2024年05月25日
 
