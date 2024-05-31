@@ -1,5 +1,27 @@
 # 2024年05月
 
+2024年05月30日
+
+- [Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf](2024年05月30日/Learning_to_Discuss_Strategically_A_Case_Study_on_One_Night_Ultimate_Werewolf.md)
+
+    - [翻译: 策略性讨论学习：《一夜终极狼人》案例分析](2024年05月30日/Learning_to_Discuss_Strategically_A_Case_Study_on_One_Night_Ultimate_Werewolf.md)
+
+- [Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals](2024年05月30日/Uncovering_Bias_in_Large_Vision-Language_Models_at_Scale_with_Counterfactuals.md)
+
+    - [翻译: 通过大规模反事实分析，揭示大型视觉-语言模型中的偏见现象](2024年05月30日/Uncovering_Bias_in_Large_Vision-Language_Models_at_Scale_with_Counterfactuals.md)
+
+- [Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models](2024年05月30日/Typography_Leads_Semantic_Diversifying_Amplifying_Adversarial_Transferability_across_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 排版艺术激发语义多样性，提升多模态大型语言模型间的对抗迁移能力。](2024年05月30日/Typography_Leads_Semantic_Diversifying_Amplifying_Adversarial_Transferability_across_Multimodal_Large_Language_Models.md)
+
+- [NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models](2024年05月30日/NoiseBoost_Alleviating_Hallucination_with_Noise_Perturbation_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: NoiseBoost：借助噪声扰动，缓解多模态大型语言模型中的幻觉现象](2024年05月30日/NoiseBoost_Alleviating_Hallucination_with_Noise_Perturbation_for_Multimodal_Large_Language_Models.md)
+
+- [Efficient LLM-Jailbreaking by Introducing Visual Modality](2024年05月30日/Efficient_LLM-Jailbreaking_by_Introducing_Visual_Modality.md)
+
+    - [翻译: 借助视觉模态，巧妙解锁大型语言模型的潜能](2024年05月30日/Efficient_LLM-Jailbreaking_by_Introducing_Visual_Modality.md)
+
 2024年05月29日
 
 - [Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation](2024年05月29日/Towards_Next-Generation_Urban_Decision_Support_Systems_through_AI-Powered_Generation_of_Scientific_Ontology_using_Large_Language_Models_--_A_Case_in_Optimizing_Intermodal_Freight_Transportation.md)
