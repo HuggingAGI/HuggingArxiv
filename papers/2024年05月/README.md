@@ -22,6 +22,162 @@
 
     - [翻译: 借助视觉模态，巧妙解锁大型语言模型的潜能](2024年05月30日/Efficient_LLM-Jailbreaking_by_Introducing_Visual_Modality.md)
 
+- [A Survey Study on the State of the Art of Programming Exercise Generation using Large Language Models](2024年05月30日/A_Survey_Study_on_the_State_of_the_Art_of_Programming_Exercise_Generation_using_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月30日/A_Survey_Study_on_the_State_of_the_Art_of_Programming_Exercise_Generation_using_Large_Language_Models.md)
+
+- [Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning CodeLLMs](2024年05月30日/Robo-Instruct_Simulator-Augmented_Instruction_Alignment_For_Finetuning_CodeLLMs.md)
+
+    - [翻译: ](2024年05月30日/Robo-Instruct_Simulator-Augmented_Instruction_Alignment_For_Finetuning_CodeLLMs.md)
+
+- [InstructionCP: A fast approach to transfer Large Language Models into target language](2024年05月30日/InstructionCP_A_fast_approach_to_transfer_Large_Language_Models_into_target_language.md)
+
+    - [翻译: ](2024年05月30日/InstructionCP_A_fast_approach_to_transfer_Large_Language_Models_into_target_language.md)
+
+- [Reasoning about concepts with LLMs: Inconsistencies abound](2024年05月30日/Reasoning_about_concepts_with_LLMs_Inconsistencies_abound.md)
+
+    - [翻译: ](2024年05月30日/Reasoning_about_concepts_with_LLMs_Inconsistencies_abound.md)
+
+- [GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning](2024年05月30日/GNN-RAG_Graph_Neural_Retrieval_for_Large_Language_Model_Reasoning.md)
+
+    - [翻译: ](2024年05月30日/GNN-RAG_Graph_Neural_Retrieval_for_Large_Language_Model_Reasoning.md)
+
+- [LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics](2024年05月30日/LLaMEA_A_Large_Language_Model_Evolutionary_Algorithm_for_Automatically_Generating_Metaheuristics.md)
+
+    - [翻译: ](2024年05月30日/LLaMEA_A_Large_Language_Model_Evolutionary_Algorithm_for_Automatically_Generating_Metaheuristics.md)
+
+- [Language Models Need Inductive Biases to Count Inductively](2024年05月30日/Language_Models_Need_Inductive_Biases_to_Count_Inductively.md)
+
+    - [翻译: ](2024年05月30日/Language_Models_Need_Inductive_Biases_to_Count_Inductively.md)
+
+- [Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](2024年05月30日/Defensive_Prompt_Patch_A_Robust_and_Interpretable_Defense_of_LLMs_against_Jailbreak_Attacks.md)
+
+    - [翻译: ](2024年05月30日/Defensive_Prompt_Patch_A_Robust_and_Interpretable_Defense_of_LLMs_against_Jailbreak_Attacks.md)
+
+- [Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation](2024年05月30日/Divide-and-Conquer_Meets_Consensus_Unleashing_the_Power_of_Functions_in_Code_Generation.md)
+
+    - [翻译: ](2024年05月30日/Divide-and-Conquer_Meets_Consensus_Unleashing_the_Power_of_Functions_in_Code_Generation.md)
+
+- [The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities](2024年05月30日/The_Fine-Tuning_Paradox_Boosting_Translation_Quality_Without_Sacrificing_LLM_Abilities.md)
+
+    - [翻译: ](2024年05月30日/The_Fine-Tuning_Paradox_Boosting_Translation_Quality_Without_Sacrificing_LLM_Abilities.md)
+
+- [Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning](2024年05月30日/Student_Answer_Forecasting_Transformer-Driven_Answer_Choice_Prediction_for_Language_Learning.md)
+
+    - [翻译: ](2024年05月30日/Student_Answer_Forecasting_Transformer-Driven_Answer_Choice_Prediction_for_Language_Learning.md)
+
+- [Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities](2024年05月30日/Kernel_Language_Entropy_Fine-grained_Uncertainty_Quantification_for_LLMs_from_Semantic_Similarities.md)
+
+    - [翻译: ](2024年05月30日/Kernel_Language_Entropy_Fine-grained_Uncertainty_Quantification_for_LLMs_from_Semantic_Similarities.md)
+
+- [Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts](2024年05月30日/Similarity_is_Not_All_You_Need_Endowing_Retrieval_Augmented_Generation_with_Multi_Layered_Thoughts.md)
+
+    - [翻译: ](2024年05月30日/Similarity_is_Not_All_You_Need_Endowing_Retrieval_Augmented_Generation_with_Multi_Layered_Thoughts.md)
+
+- [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](2024年05月30日/Parrot_Efficient_Serving_of_LLM-based_Applications_with_Semantic_Variable.md)
+
+    - [翻译: ](2024年05月30日/Parrot_Efficient_Serving_of_LLM-based_Applications_with_Semantic_Variable.md)
+
+- [From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems](2024年05月30日/From_Words_to_Actions_Unveiling_the_Theoretical_Underpinnings_of_LLM-Driven_Autonomous_Systems.md)
+
+    - [翻译: ](2024年05月30日/From_Words_to_Actions_Unveiling_the_Theoretical_Underpinnings_of_LLM-Driven_Autonomous_Systems.md)
+
+- [KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models](2024年05月30日/KNOW_A_Real-World_Ontology_for_Knowledge_Capture_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月30日/KNOW_A_Real-World_Ontology_for_Knowledge_Capture_with_Large_Language_Models.md)
+
+- [DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories](2024年05月30日/DevEval_A_Manually-Annotated_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
+
+    - [翻译: ](2024年05月30日/DevEval_A_Manually-Annotated_Code_Generation_Benchmark_Aligned_with_Real-World_Code_Repositories.md)
+
+- [Deciphering Human Mobility: Inferring Semantics of Trajectories with Large Language Models](2024年05月30日/Deciphering_Human_Mobility_Inferring_Semantics_of_Trajectories_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月30日/Deciphering_Human_Mobility_Inferring_Semantics_of_Trajectories_with_Large_Language_Models.md)
+
+- [Quest: Query-centric Data Synthesis Approach for Long-context Scaling of Large Language Model](2024年05月30日/Quest_Query-centric_Data_Synthesis_Approach_for_Long-context_Scaling_of_Large_Language_Model.md)
+
+    - [翻译: ](2024年05月30日/Quest_Query-centric_Data_Synthesis_Approach_for_Long-context_Scaling_of_Large_Language_Model.md)
+
+- [Improve Student's Reasoning Generalizability through Cascading Decomposed CoTs Distillation](2024年05月30日/Improve_Student's_Reasoning_Generalizability_through_Cascading_Decomposed_CoTs_Distillation.md)
+
+    - [翻译: ](2024年05月30日/Improve_Student's_Reasoning_Generalizability_through_Cascading_Decomposed_CoTs_Distillation.md)
+
+- [WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark](2024年05月30日/WebUOT-1M_Advancing_Deep_Underwater_Object_Tracking_with_A_Million-Scale_Benchmark.md)
+
+    - [翻译: ](2024年05月30日/WebUOT-1M_Advancing_Deep_Underwater_Object_Tracking_with_A_Million-Scale_Benchmark.md)
+
+- [Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models](2024年05月30日/Exploring_the_Robustness_of_Decision-Level_Through_Adversarial_Attacks_on_LLM-Based_Embodied_Models.md)
+
+    - [翻译: ](2024年05月30日/Exploring_the_Robustness_of_Decision-Level_Through_Adversarial_Attacks_on_LLM-Based_Embodied_Models.md)
+
+- [Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation](2024年05月30日/Unsupervised_Mutual_Learning_of_Dialogue_Discourse_Parsing_and_Topic_Segmentation.md)
+
+    - [翻译: ](2024年05月30日/Unsupervised_Mutual_Learning_of_Dialogue_Discourse_Parsing_and_Topic_Segmentation.md)
+
+- [SLM as Guardian: Pioneering AI Safety with Small Language Models](2024年05月30日/SLM_as_Guardian_Pioneering_AI_Safety_with_Small_Language_Models.md)
+
+    - [翻译: ](2024年05月30日/SLM_as_Guardian_Pioneering_AI_Safety_with_Small_Language_Models.md)
+
+- [From Symbolic Tasks to Code Generation: Diversification Yields Better Task Performers](2024年05月30日/From_Symbolic_Tasks_to_Code_Generation_Diversification_Yields_Better_Task_Performers.md)
+
+    - [翻译: ](2024年05月30日/From_Symbolic_Tasks_to_Code_Generation_Diversification_Yields_Better_Task_Performers.md)
+
+- [Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion](2024年05月30日/Dataflow-Guided_Retrieval_Augmentation_for_Repository-Level_Code_Completion.md)
+
+    - [翻译: ](2024年05月30日/Dataflow-Guided_Retrieval_Augmentation_for_Repository-Level_Code_Completion.md)
+
+- [VQA Training Sets are Self-play Environments for Generating Few-shot Pools](2024年05月30日/VQA_Training_Sets_are_Self-play_Environments_for_Generating_Few-shot_Pools.md)
+
+    - [翻译: ](2024年05月30日/VQA_Training_Sets_are_Self-play_Environments_for_Generating_Few-shot_Pools.md)
+
+- [Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding](2024年05月30日/Enhancing_Reinforcement_Learning_with_Label-Sensitive_Reward_for_Natural_Language_Understanding.md)
+
+    - [翻译: ](2024年05月30日/Enhancing_Reinforcement_Learning_with_Label-Sensitive_Reward_for_Natural_Language_Understanding.md)
+
+- [X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions](2024年05月30日/X-Instruction_Aligning_Language_Model_in_Low-resource_Languages_with_Self-curated_Cross-lingual_Instructions.md)
+
+    - [翻译: ](2024年05月30日/X-Instruction_Aligning_Language_Model_in_Low-resource_Languages_with_Self-curated_Cross-lingual_Instructions.md)
+
+- [PertEval: Unveiling Real Knowledge Capacity of LLMs with Knowledge-Invariant Perturbations](2024年05月30日/PertEval_Unveiling_Real_Knowledge_Capacity_of_LLMs_with_Knowledge-Invariant_Perturbations.md)
+
+    - [翻译: ](2024年05月30日/PertEval_Unveiling_Real_Knowledge_Capacity_of_LLMs_with_Knowledge-Invariant_Perturbations.md)
+
+- [Beyond Imitation: Learning Key Reasoning Steps from Dual Chain-of-Thoughts in Reasoning Distillation](2024年05月30日/Beyond_Imitation_Learning_Key_Reasoning_Steps_from_Dual_Chain-of-Thoughts_in_Reasoning_Distillation.md)
+
+    - [翻译: ](2024年05月30日/Beyond_Imitation_Learning_Key_Reasoning_Steps_from_Dual_Chain-of-Thoughts_in_Reasoning_Distillation.md)
+
+- [Two Optimizers Are Better Than One: LLM Catalyst for Enhancing Gradient-Based Optimization](2024年05月30日/Two_Optimizers_Are_Better_Than_One_LLM_Catalyst_for_Enhancing_Gradient-Based_Optimization.md)
+
+    - [翻译: ](2024年05月30日/Two_Optimizers_Are_Better_Than_One_LLM_Catalyst_for_Enhancing_Gradient-Based_Optimization.md)
+
+- [Research on Foundation Model for Spatial Data Intelligence: China's 2024 White Paper on Strategic Development of Spatial Data Intelligence](2024年05月30日/Research_on_Foundation_Model_for_Spatial_Data_Intelligence_China's_2024_White_Paper_on_Strategic_Development_of_Spatial_Data_Intelligence.md)
+
+    - [翻译: ](2024年05月30日/Research_on_Foundation_Model_for_Spatial_Data_Intelligence_China's_2024_White_Paper_on_Strategic_Development_of_Spatial_Data_Intelligence.md)
+
+- [Enhancing Large Vision Language Models with Self-Training on Image Comprehension](2024年05月30日/Enhancing_Large_Vision_Language_Models_with_Self-Training_on_Image_Comprehension.md)
+
+    - [翻译: ](2024年05月30日/Enhancing_Large_Vision_Language_Models_with_Self-Training_on_Image_Comprehension.md)
+
+- [SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths](2024年05月30日/SpecDec++_Boosting_Speculative_Decoding_via_Adaptive_Candidate_Lengths.md)
+
+    - [翻译: ](2024年05月30日/SpecDec++_Boosting_Speculative_Decoding_via_Adaptive_Candidate_Lengths.md)
+
+- [Grade Like a Human: Rethinking Automated Assessment with Large Language Models](2024年05月30日/Grade_Like_a_Human_Rethinking_Automated_Assessment_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月30日/Grade_Like_a_Human_Rethinking_Automated_Assessment_with_Large_Language_Models.md)
+
+- [Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback](2024年05月30日/Knowledge_Graph_Tuning_Real-time_Large_Language_Model_Personalization_based_on_Human_Feedback.md)
+
+    - [翻译: ](2024年05月30日/Knowledge_Graph_Tuning_Real-time_Large_Language_Model_Personalization_based_on_Human_Feedback.md)
+
+- [Large Language Model Watermark Stealing With Mixed Integer Programming](2024年05月30日/Large_Language_Model_Watermark_Stealing_With_Mixed_Integer_Programming.md)
+
+    - [翻译: ](2024年05月30日/Large_Language_Model_Watermark_Stealing_With_Mixed_Integer_Programming.md)
+
+- [Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use](2024年05月30日/Retrieval_Augmented_Structured_Generation_Business_Document_Information_Extraction_As_Tool_Use.md)
+
+    - [翻译: ](2024年05月30日/Retrieval_Augmented_Structured_Generation_Business_Document_Information_Extraction_As_Tool_Use.md)
+
 2024年05月29日
 
 - [Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation](2024年05月29日/Towards_Next-Generation_Urban_Decision_Support_Systems_through_AI-Powered_Generation_of_Scientific_Ontology_using_Large_Language_Models_--_A_Case_in_Optimizing_Intermodal_Freight_Transportation.md)
@@ -271,6 +427,34 @@
 - [Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models](2024年05月29日/Weak-to-Strong_Search_Align_Large_Language_Models_via_Searching_over_Small_Language_Models.md)
 
     - [翻译: 从弱至强搜索：借助小语言模型探索，实现大型语言模型的精准对齐](2024年05月29日/Weak-to-Strong_Search_Align_Large_Language_Models_via_Searching_over_Small_Language_Models.md)
+
+- [One Token Can Help! Learning Scalable and Pluggable Virtual Tokens for Retrieval-Augmented Large Language Models](2024年05月29日/One_Token_Can_Help!_Learning_Scalable_and_Pluggable_Virtual_Tokens_for_Retrieval-Augmented_Large_Language_Models.md)
+
+    - [翻译: ](2024年05月29日/One_Token_Can_Help!_Learning_Scalable_and_Pluggable_Virtual_Tokens_for_Retrieval-Augmented_Large_Language_Models.md)
+
+- [AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization](2024年05月29日/AutoBreach_Universal_and_Adaptive_Jailbreaking_with_Efficient_Wordplay-Guided_Optimization.md)
+
+    - [翻译: ](2024年05月29日/AutoBreach_Universal_and_Adaptive_Jailbreaking_with_Efficient_Wordplay-Guided_Optimization.md)
+
+- [PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals](2024年05月29日/PATIENT-Ψ_Using_Large_Language_Models_to_Simulate_Patients_for_Training_Mental_Health_Professionals.md)
+
+    - [翻译: ](2024年05月29日/PATIENT-Ψ_Using_Large_Language_Models_to_Simulate_Patients_for_Training_Mental_Health_Professionals.md)
+
+- [SysCaps: Language Interfaces for Simulation Surrogates of Complex Systems](2024年05月29日/SysCaps_Language_Interfaces_for_Simulation_Surrogates_of_Complex_Systems.md)
+
+    - [翻译: ](2024年05月29日/SysCaps_Language_Interfaces_for_Simulation_Surrogates_of_Complex_Systems.md)
+
+- [Detecting Hallucinations in Large Language Model Generation: A Token Probability Approach](2024年05月29日/Detecting_Hallucinations_in_Large_Language_Model_Generation_A_Token_Probability_Approach.md)
+
+    - [翻译: ](2024年05月29日/Detecting_Hallucinations_in_Large_Language_Model_Generation_A_Token_Probability_Approach.md)
+
+- [Creating Language-driven Spatial Variations of Icon Images](2024年05月29日/Creating_Language-driven_Spatial_Variations_of_Icon_Images.md)
+
+    - [翻译: ](2024年05月29日/Creating_Language-driven_Spatial_Variations_of_Icon_Images.md)
+
+- [GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment](2024年05月29日/GKT_A_Novel_Guidance-Based_Knowledge_Transfer_Framework_For_Efficient_Cloud-edge_Collaboration_LLM_Deployment.md)
+
+    - [翻译: ](2024年05月29日/GKT_A_Novel_Guidance-Based_Knowledge_Transfer_Framework_For_Efficient_Cloud-edge_Collaboration_LLM_Deployment.md)
 
 2024年05月28日
 
