@@ -13,3 +13,9 @@
 - [MindAgent: Emergent Gaming Interaction](2023年09月19日/MindAgent_Emergent_Gaming_Interaction.md)
 
     - [翻译: MindAgent：探索游戏互动的新境界](2023年09月19日/MindAgent_Emergent_Gaming_Interaction.md)
+
+2023年09月18日
+
+- [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](2023年09月18日/Multimodal_Foundation_Models_From_Specialists_to_General-Purpose_Assistants.md)
+
+    - [翻译: 多模态基础模型：从专业领域专家到全能助手](2023年09月18日/Multimodal_Foundation_Models_From_Specialists_to_General-Purpose_Assistants.md)

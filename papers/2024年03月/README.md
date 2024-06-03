@@ -56,6 +56,10 @@
 
     - [翻译: Surgical-LVLM：掌握大型视觉-语言模型，助力机器人手术中的场景化视觉问答](2024年03月22日/Surgical-LVLM_Learning_to_Adapt_Large_Vision-Language_Model_for_Grounded_Visual_Question_Answering_in_Robotic_Surgery.md)
 
+- [Generative AI in Education: A Study of Educators' Awareness, Sentiments, and Influencing Factors](2024年03月22日/Generative_AI_in_Education_A_Study_of_Educators'_Awareness,_Sentiments,_and_Influencing_Factors.md)
+
+    - [翻译: 教育领域中的生成式AI：探究教育者对其认知、情感态度及影响因素的研究](2024年03月22日/Generative_AI_in_Education_A_Study_of_Educators'_Awareness,_Sentiments,_and_Influencing_Factors.md)
+
 2024年03月21日
 
 - [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)

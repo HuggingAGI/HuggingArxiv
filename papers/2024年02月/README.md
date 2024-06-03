@@ -52,6 +52,10 @@
 
     - [翻译: 大型语言模型的MetaTool基准：抉择工具之用与选择之道](2024年02月23日/MetaTool_Benchmark_for_Large_Language_Models_Deciding_Whether_to_Use_Tools_and_Which_to_Use.md)
 
+- [Mathematical Language Models: A Survey](2024年02月23日/Mathematical_Language_Models_A_Survey.md)
+
+    - [翻译: 数学语言模型综览：探索与洞察](2024年02月23日/Mathematical_Language_Models_A_Survey.md)
+
 2024年02月21日
 
 - [ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs](2024年02月21日/ReConcile_Round-Table_Conference_Improves_Reasoning_via_Consensus_among_Diverse_LLMs.md)

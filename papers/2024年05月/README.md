@@ -1322,6 +1322,10 @@
 
     - [翻译: 揭秘大型语言模型决策中的后门攻击之谜](2024年05月27日/Exploring_Backdoor_Attacks_against_Large_Language_Model-based_Decision_Making.md)
 
+- [A Survey on Large Language Models from Concept to Implementation](2024年05月27日/A_Survey_on_Large_Language_Models_from_Concept_to_Implementation.md)
+
+    - [翻译: 大型语言模型：从概念到实践的全面考察](2024年05月27日/A_Survey_on_Large_Language_Models_from_Concept_to_Implementation.md)
+
 2024年05月26日
 
 - [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](2024年05月26日/Diffusion4D_Fast_Spatial-temporal_Consistent_4D_Generation_via_Video_Diffusion_Models.md)
@@ -2526,6 +2530,10 @@
 
     - [翻译: 第二届FutureDial挑战：探索检索增强生成技术在对话系统中的应用（FutureDial-RAG）](2024年05月21日/The_2nd_FutureDial_Challenge_Dialog_Systems_with_Retrieval_Augmented_Generation_(FutureDial-RAG).md)
 
+- [Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice](2024年05月21日/Beyond_Code_Generation_An_Observational_Study_of_ChatGPT_Usage_in_Software_Engineering_Practice.md)
+
+    - [翻译: 探索ChatGPT在软件工程实践中的多面应用：一项观察性研究](2024年05月21日/Beyond_Code_Generation_An_Observational_Study_of_ChatGPT_Usage_in_Software_Engineering_Practice.md)
+
 2024年05月20日
 
 - [TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models](2024年05月20日/TinyLLaVA_Factory_A_Modularized_Codebase_for_Small-scale_Large_Multimodal_Models.md)
@@ -3503,6 +3511,10 @@
 - [When Large Language Models Meet Optical Networks: Paving the Way for Automation](2024年05月14日/When_Large_Language_Models_Meet_Optical_Networks_Paving_the_Way_for_Automation.md)
 
     - [翻译: 大型语言模型与光网络的结合：开启自动化新篇章](2024年05月14日/When_Large_Language_Models_Meet_Optical_Networks_Paving_the_Way_for_Automation.md)
+
+- [Comuniqa : Exploring Large Language Models for improving speaking skills](2024年05月14日/Comuniqa__Exploring_Large_Language_Models_for_improving_speaking_skills.md)
+
+    - [翻译: Comuniqa：借助大型语言模型，探索口语技能的提升之道](2024年05月14日/Comuniqa__Exploring_Large_Language_Models_for_improving_speaking_skills.md)
 
 2024年05月13日
 

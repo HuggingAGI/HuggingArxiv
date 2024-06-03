@@ -18,11 +18,23 @@
 
     - [翻译: GPT 循环：为多智能体系统打造自适应决策机制](2023年08月20日/GPT-in-the-Loop_Adaptive_Decision-Making_for_Multiagent_Systems.md)
 
+2023年08月18日
+
+- [A Survey on Large Language Models for Recommendation](2023年08月18日/A_Survey_on_Large_Language_Models_for_Recommendation.md)
+
+    - [翻译: 大型语言模型推荐应用综述](2023年08月18日/A_Survey_on_Large_Language_Models_for_Recommendation.md)
+
 2023年08月10日
 
 - [Adaptive Low Rank Adaptation of Segment Anything to Salient Object Detection](2023年08月10日/Adaptive_Low_Rank_Adaptation_of_Segment_Anything_to_Salient_Object_Detection.md)
 
     - [翻译: 本文介绍了一种自适应低秩调整技术，旨在将“任何片段”模型适配到显著目标检测任务中，以提升检测性能。](2023年08月10日/Adaptive_Low_Rank_Adaptation_of_Segment_Anything_to_Salient_Object_Detection.md)
+
+2023年08月09日
+
+- [MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model](2023年08月09日/MetRoBERTa_Leveraging_Traditional_Customer_Relationship_Management_Data_to_Develop_a_Transit-Topic-Aware_Language_Model.md)
+
+    - [翻译: MetRoBERTa：借助传统CRM数据，打造交通主题敏感的语言模型](2023年08月09日/MetRoBERTa_Leveraging_Traditional_Customer_Relationship_Management_Data_to_Develop_a_Transit-Topic-Aware_Language_Model.md)
 
 2023年08月08日
 

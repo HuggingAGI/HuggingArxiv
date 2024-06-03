@@ -206,6 +206,10 @@
 
     - [翻译: 大型语言模型代理：假新闻侦测利器](2024年04月30日/Large_Language_Model_Agent_for_Fake_News_Detection.md)
 
+- [ChatGPT in Data Visualization Education: A Student Perspective](2024年04月30日/ChatGPT_in_Data_Visualization_Education_A_Student_Perspective.md)
+
+    - [翻译: ChatGPT 在数据可视化教育中的学生视角探索](2024年04月30日/ChatGPT_in_Data_Visualization_Education_A_Student_Perspective.md)
+
 2024年04月29日
 
 - [ECC Analyzer: Extract Trading Signal from Earnings Conference Calls using Large Language Model for Stock Performance Prediction](2024年04月29日/ECC_Analyzer_Extract_Trading_Signal_from_Earnings_Conference_Calls_using_Large_Language_Model_for_Stock_Performance_Prediction.md)
@@ -1516,6 +1520,10 @@
 
     - [翻译: 为皮肤科学AI中的零样本概念生成进行数据对齐。](2024年04月19日/Data_Alignment_for_Zero-Shot_Concept_Generation_in_Dermatology_AI.md)
 
+- [Evaluation of LLM Chatbots for OSINT-based Cyber Threat Awareness](2024年04月19日/Evaluation_of_LLM_Chatbots_for_OSINT-based_Cyber_Threat_Awareness.md)
+
+    - [翻译: 大型语言模型聊天机器人在开源情报驱动的网络威胁意识评估](2024年04月19日/Evaluation_of_LLM_Chatbots_for_OSINT-based_Cyber_Threat_Awareness.md)
+
 2024年04月18日
 
 - [Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL](2024年04月18日/Dubo-SQL_Diverse_Retrieval-Augmented_Generation_and_Fine_Tuning_for_Text-to-SQL.md)
@@ -1814,6 +1822,10 @@
 
     - [翻译: 利用大型语言模型对软件需求进行优先级排序](2024年04月05日/Prioritizing_Software_Requirements_Using_Large_Language_Models.md)
 
+- [AI-Tutoring in Software Engineering Education](2024年04月05日/AI-Tutoring_in_Software_Engineering_Education.md)
+
+    - [翻译: 软件工程教育中的人工智能辅导](2024年04月05日/AI-Tutoring_in_Software_Engineering_Education.md)
+
 2024年04月04日
 
 - [Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
@@ -1853,3 +1865,7 @@
 - [Meta Prompting for AI Systems](2024年04月01日/Meta_Prompting_for_AI_Systems.md)
 
     - [翻译: 探索元提示技术在人工智能系统中的运用](2024年04月01日/Meta_Prompting_for_AI_Systems.md)
+
+- [Large Language Models for Education: A Survey and Outlook](2024年04月01日/Large_Language_Models_for_Education_A_Survey_and_Outlook.md)
+
+    - [翻译: 教育领域的大型语言模型：调查与未来展望](2024年04月01日/Large_Language_Models_for_Education_A_Survey_and_Outlook.md)

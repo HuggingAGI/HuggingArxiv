@@ -16,6 +16,12 @@
 
     - [翻译: 元提示：为语言模型注入通用性支撑，提升其性能](2024年01月23日/Meta-Prompting_Enhancing_Language_Models_with_Task-Agnostic_Scaffolding.md)
 
+2024年01月12日
+
+- [NHANES-GCP: Leveraging the Google Cloud Platform and BigQuery ML for reproducible machine learning with data from the National Health and Nutrition Examination Survey](2024年01月12日/NHANES-GCP_Leveraging_the_Google_Cloud_Platform_and_BigQuery_ML_for_reproducible_machine_learning_with_data_from_the_National_Health_and_Nutrition_Examination_Survey.md)
+
+    - [翻译: NHANES-GCP：借助Google Cloud Platform与BigQuery ML，我们能够对国家健康与营养检查调查的数据进行高效且可重复的机器学习。](2024年01月12日/NHANES-GCP_Leveraging_the_Google_Cloud_Platform_and_BigQuery_ML_for_reproducible_machine_learning_with_data_from_the_National_Health_and_Nutrition_Examination_Survey.md)
+
 2024年01月11日
 
 - [Designing Heterogeneous LLM Agents for Financial Sentiment Analysis](2024年01月11日/Designing_Heterogeneous_LLM_Agents_for_Financial_Sentiment_Analysis.md)
