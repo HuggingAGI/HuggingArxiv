@@ -1,5 +1,15 @@
 # 2024年05月
 
+2024年05月31日
+
+- [DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models](2024年05月31日/DeCo_Decoupling_Token_Compression_from_Semantic_Abstraction_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: DeCo：解耦多模态大型语言模型中的令牌压缩与语义抽象](2024年05月31日/DeCo_Decoupling_Token_Compression_from_Semantic_Abstraction_in_Multimodal_Large_Language_Models.md)
+
+- [Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning](2024年05月31日/Retrieval_Meets_Reasoning_Even_High-school_Textbook_Knowledge_Benefits_Multimodal_Reasoning.md)
+
+    - [翻译: 知识检索与推理的结合：高中课本知识亦能助力多模态推理的深化](2024年05月31日/Retrieval_Meets_Reasoning_Even_High-school_Textbook_Knowledge_Benefits_Multimodal_Reasoning.md)
+
 2024年05月30日
 
 - [Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf](2024年05月30日/Learning_to_Discuss_Strategically_A_Case_Study_on_One_Night_Ultimate_Werewolf.md)
