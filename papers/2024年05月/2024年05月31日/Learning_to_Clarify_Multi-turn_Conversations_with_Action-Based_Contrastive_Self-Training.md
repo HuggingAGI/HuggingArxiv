@@ -1,0 +1,23 @@
+# 学会澄清：通过基于动作的对比自我训练进行多轮对话交流
+
+发布时间：2024年05月31日
+
+`Agent
+
+理由：这篇论文主要讨论了通过人类反馈强化学习（RLHF）调整的大型语言模型（LLMs）在构建智能对话助手中的应用，并提出了一种新的算法ACT来优化对话策略。这涉及到对话代理的能力，特别是在处理对话中的歧义时的表现。因此，这篇论文更符合Agent分类，因为它关注的是如何通过算法改进语言模型在对话任务中的代理行为。` `对话系统` `问答系统`
+
+> Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training
+
+# 摘要
+
+> 通过人类反馈强化学习（RLHF）调整的大型语言模型（LLMs）迅速成为构建智能对话助手的主流方法。尽管这些模型在多项测试中表现优异，但它们在处理对话中的歧义时，往往选择保守猜测而非主动澄清，这限制了它们在特定任务中的表现。为此，我们提出了一种名为ACT的新算法，它基于直接偏好优化（DPO），能够在多轮对话中高效学习对话策略。我们在三个挑战性任务中验证了ACT的效果，包括基于表格的问答、机器阅读理解和AmbigSQL任务，后者专门用于解决文本到SQL生成中的歧义问题。此外，我们通过评估LLMs是否能识别并处理对话中的歧义，来衡量其作为对话代理的潜力。ACT在对话建模方面相比传统方法有了显著提升。
+
+> Large language models (LLMs) aligned through reinforcement learning from human feedback (RLHF) have quickly become one of the dominant paradigms for building intelligent conversational assistant agents. However, despite their strong performance across many benchmarks, LLM-based agents still lack conversational skills such as disambiguation: when generalized assistants are faced with ambiguity, they often overhedge or implicitly guess users' ground-truth intents rather than asking clarification questions, and under task-specific settings, high-quality conversation samples are often limited, affecting models' ability to learn optimal dialogue action policies. We propose Action-Based Contrastive Self-Training (henceforth ACT), a quasi-online preference optimization algorithm based on Direct Preference Optimization (DPO) which allows for sample-efficient dialogue policy learning in multi-turn conversation. We demonstrate ACT's efficacy under sample-efficient conditions in three difficult conversational tasks: tabular-grounded question-answering, machine reading comprehension, and AmbigSQL, a novel task for disambiguating information-seeking requests for text-to-SQL generation. Additionally, we propose evaluating LLMs' ability to function as conversational agents by examining whether they can implicitly recognize and reason about ambiguity in conversation. ACT demonstrates substantial conversation modeling improvements over standard approaches to supervised fine-tuning and DPO.
+
+![学会澄清：通过基于动作的对比自我训练进行多轮对话交流](../../../paper_images/2406.00222/x1.png)
+
+![学会澄清：通过基于动作的对比自我训练进行多轮对话交流](../../../paper_images/2406.00222/x2.png)
+
+![学会澄清：通过基于动作的对比自我训练进行多轮对话交流](../../../paper_images/2406.00222/x3.png)
+
+[Arxiv](https://arxiv.org/abs/2406.00222)
