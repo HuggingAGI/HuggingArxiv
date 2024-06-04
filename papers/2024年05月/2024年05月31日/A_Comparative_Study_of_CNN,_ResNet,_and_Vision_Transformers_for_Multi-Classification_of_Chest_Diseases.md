@@ -4,13 +4,13 @@
 
 `LLM应用
 
-理由：这篇论文探讨了大型语言模型（特别是基于Transformer架构的Vision Transformers）在医学图像处理领域的应用，具体是在胸部X光图像的多标签分类任务中。论文通过实验比较了不同模型的性能，并展示了预训练的ViT模型在诊断肺部疾病方面的潜力。这属于LLM在特定应用领域的实际应用研究，因此归类为LLM应用。` `图像处理`
+这篇论文探讨了基于Transformer架构的大型语言模型在图像处理领域的应用，特别是通过视觉Transformer（ViT）模型在医学图像分析中的应用。论文通过对比ViT模型与其他传统模型（如CNNs和ResNet）在胸部X光图像的多标签分类任务中的表现，展示了ViT模型在特定任务上的优越性。这属于大型语言模型（LLM）的应用范畴，因为它展示了LLM架构在非文本数据处理中的实际应用和效果。` `图像处理`
 
 > A Comparative Study of CNN, ResNet, and Vision Transformers for Multi-Classification of Chest Diseases
 
 # 摘要
 
-> 大型语言模型，尤其是基于Transformer架构的，因其强大的数据处理能力和可扩展性而成为重要工具。Dosovitskiy等人的Vision Transformers（ViT）进一步扩展了这一架构，使其适用于图像处理。基于此，我们利用NIH胸部X光数据集（包含100,000多张X光图像）对两种ViT模型进行了微调：一种基于ImageNet预训练，另一种全新训练。研究中，我们将这些模型与CNNs和ResNet在14种疾病的多标签分类任务中进行比较，并通过精确的准确性评估发现，预训练的ViT模型表现更佳，显示出其在胸部X光图像中准确诊断多种肺部疾病的潜力。
+> 得益于其可扩展性和处理大量数据的能力，采用Transformer架构的大型语言模型已成为强大的工具。Dosovitskiy等人进一步发展了这一架构，推出了视觉Transformer（ViT），使其能够应用于图像处理。基于这一创新，我们针对包含超过10万张正面X光图像的NIH胸部X光数据集，对两种ViT模型进行了微调：一种基于ImageNet预训练，另一种全新训练。我们的研究对比了这些模型与CNNs和ResNet在14种疾病多标签分类任务中的表现。经过严格的准确性评估，我们发现预训练的ViT模型在这一任务中表现优于其他模型，显示出其在胸部X光图像中准确诊断多种肺部疾病的潜力。
 
 > Large language models, notably utilizing Transformer architectures, have emerged as powerful tools due to their scalability and ability to process large amounts of data. Dosovitskiy et al. expanded this architecture to introduce Vision Transformers (ViT), extending its applicability to image processing tasks. Motivated by this advancement, we fine-tuned two variants of ViT models, one pre-trained on ImageNet and another trained from scratch, using the NIH Chest X-ray dataset containing over 100,000 frontal-view X-ray images. Our study evaluates the performance of these models in the multi-label classification of 14 distinct diseases, while using Convolutional Neural Networks (CNNs) and ResNet architectures as baseline models for comparison. Through rigorous assessment based on accuracy metrics, we identify that the pre-trained ViT model surpasses CNNs and ResNet in this multilabel classification task, highlighting its potential for accurate diagnosis of various lung conditions from chest X-ray images.
 
