@@ -154,6 +154,10 @@
 
     - [翻译: FineRadScore：一种创新的放射学报告评估方法，通过逐行分析并提供修正建议，同时附带严重性评分，以提升报告质量。](2024年05月31日/FineRadScore_A_Radiology_Report_Line-by-Line_Evaluation_Technique_Generating_Corrections_with_Severity_Scores.md)
 
+- [Artemis: Towards Referential Understanding in Complex Videos](2024年05月31日/Artemis_Towards_Referential_Understanding_in_Complex_Videos.md)
+
+    - [翻译: Artemis：探索复杂视频中的指称理解能力](2024年05月31日/Artemis_Towards_Referential_Understanding_in_Complex_Videos.md)
+
 2024年05月30日
 
 - [Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf](2024年05月30日/Learning_to_Discuss_Strategically_A_Case_Study_on_One_Night_Ultimate_Werewolf.md)
