@@ -4,13 +4,13 @@
 
 `Agent
 
-理由：这篇论文介绍了一种新的方法，通过利用视觉对象向量引导大型语言模型，以实现对象级推理的可控性，并提升训练效率。这种方法涉及创建一个能够理解和处理视觉信息的智能Agent，该Agent能够在新对象出现时迅速适应，无需额外训练。这与Agent的定义相符，即一个能够感知环境并采取行动以达到目标的系统。此外，论文中提到的“全能视觉-语言模型（VLMs）”和“对象级推理”等概念，进一步强调了其在Agent领域的应用。因此，这篇论文应归类为Agent。` `计算机视觉`
+这篇论文主要介绍了一种创新的方法，通过引入视觉物体向量至大型语言模型，以实现更精准的物体级推理。这种方法不仅避免了传统的图像块特征融合的繁琐过程，还提高了训练效率。此外，论文还开发了一种基于物体表示的区域级检索技术，使模型能够快速适应新的视觉概念，无需额外的训练。这些特性使得该模型在物体分类与描述任务中表现出色，并展现出零样本泛化能力和对复杂视觉环境的强鲁棒性。因此，这篇论文更符合Agent分类，因为它描述了一种能够自主进行推理和适应新环境的智能系统。` `计算机视觉`
 
 > OLIVE: Object Level In-Context Visual Embeddings
 
 # 摘要
 
-> 全能视觉-语言模型（VLMs）虽在多模态任务中展现出卓越的推理能力，但在细粒度对象理解和定位上仍显不足。现有模型将文本与图像块隐式对齐，这不仅未能有效实现同粒度嵌入对齐，还引入了背景噪声。此外，面对未知的视觉概念，这些模型表现不佳，未经微调难以胜任特定领域任务。为此，我们创新性地利用视觉对象向量引导大型语言模型，实现了对象级推理的可控性，避免了图像块特征的冗长融合，大幅提升了训练效率。我们还引入了基于对象表示的区域级检索，使得模型能够迅速适应新对象，无需额外训练。实验结果显示，我们的方法在对象分类和描述任务中表现出色，同时具备零样本泛化能力和在复杂视觉环境中的稳健性。
+> 全能视觉-语言模型（VLMs）近期在多模态任务中展现了卓越的推理能力，但在细粒度的物体理解和定位上仍显不足。现有模型通过隐式对齐文本与图像块，未能有效实现同粒度嵌入对齐，且引入了背景噪声。此外，面对未知的视觉概念，这些模型泛化能力有限，特定领域任务中未经微调则可靠性不足。为此，我们创新性地引入视觉物体向量至大型语言模型，实现精准的物体级推理，避免了繁琐的图像块特征融合，大幅提升训练效率。我们还开发了基于物体表示的区域级检索技术，使模型能迅速适应新物体，无需额外训练。实验证明，我们的方法在物体分类与描述任务中表现优异，同时具备零样本泛化能力及对复杂视觉环境的强鲁棒性。
 
 > Recent generalist vision-language models (VLMs) have demonstrated impressive reasoning capabilities across diverse multimodal tasks. However, these models still struggle with fine-grained object-level understanding and grounding. In terms of modeling, existing VLMs implicitly align text tokens with image patch tokens, which is ineffective for embedding alignment at the same granularity and inevitably introduces noisy spurious background features. Additionally, these models struggle when generalizing to unseen visual concepts and may not be reliable for domain-specific tasks without further fine-tuning. To address these limitations, we propose a novel method to prompt large language models with in-context visual object vectors, thereby enabling controllable object-level reasoning. This eliminates the necessity of fusing a lengthy array of image patch features and significantly speeds up training. Furthermore, we propose region-level retrieval using our object representations, facilitating rapid adaptation to new objects without additional training. Our experiments reveal that our method achieves competitive referring object classification and captioning performance, while also offering zero-shot generalization and robustness to visually challenging contexts.
 

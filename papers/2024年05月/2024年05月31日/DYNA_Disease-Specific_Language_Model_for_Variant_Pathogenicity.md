@@ -4,13 +4,13 @@
 
 `Agent
 
-理由：该论文介绍了一种名为DYNA的技术，它利用孪生神经网络对基因组基础模型进行疾病特异性微调，以提升在特定疾病环境下的变异效应预测能力。这种技术可以被视为一个智能代理（Agent），因为它能够针对特定任务（区分致病性与良性遗传变异）进行优化，并在临床遗传学领域中发挥作用。此外，DYNA的设计和应用强调了其在处理特定问题时的适应性和效率，这与Agent的概念相符，即一个能够自主执行任务并适应环境的系统。` `遗传学`
+理由：该论文介绍了一种名为DYNA的技术，它通过孪生神经网络对基因组基础模型进行疾病特异性微调，以提升特定疾病环境下的变异效应预测能力。这种技术可以被视为一个智能代理（Agent），因为它能够针对特定任务（区分致病性与良性遗传变异）进行优化，并在临床遗传学领域中发挥作用。此外，DYNA的开发和应用涉及到对预训练模型的微调和特定任务的优化，这与Agent在特定环境中执行任务的概念相符。因此，将该论文归类为Agent是合适的。` `遗传学`
 
 > DYNA: Disease-Specific Language Model for Variant Pathogenicity
 
 # 摘要
 
-> 在临床遗传学领域，区分致病性与良性遗传变异的分类仍是一大挑战。基因组基础模型的出现，通过弱监督或无监督训练提升了通用变异效应预测（VEP）的准确性，但这些VEP缺乏疾病特异性，限制了其在临床实践中的应用。为此，我们开发了DYNA：一种利用孪生神经网络对所有基因组基础模型进行疾病特异性微调的技术，旨在提升疾病特异性环境下的变异效应预测能力。我们在两个与疾病紧密相关的任务中测试了DYNA的效果。对于编码VEP，我们专注于多种心血管疾病，其中基因与疾病的关系（功能丧失与功能获得）是疾病特异性VEP的关键。对于非编码VEP，DYNA被应用于RNA剪接的关键转录后调控轴，这是临床VEP指南中最常见的非编码致病机制。在这两种情况下，DYNA都对预先训练的基因组基础模型在罕见变异集上进行了微调。DYNA微调的模型在罕见变异测试集上表现出色，并在ClinVAR中的大型临床相关变异注释中得到了验证。因此，DYNA不仅在基因内泛化方面表现卓越，还能有效泛化到未见的遗传变异，对于疾病关联研究和临床应用具有重要价值。
+> 在临床遗传学领域，区分致病性与良性遗传变异的分类仍是一大挑战。基因组基础模型的出现，通过弱监督或无监督训练提升了通用变异效应预测（VEP）的准确性，但这些VEP缺乏疾病特异性，限制了其在临床实践中的应用。为此，我们开发了DYNA：一种利用孪生神经网络对所有基因组基础模型进行疾病特异性微调的技术，旨在提升疾病特异性环境下的变异效应预测能力。我们在两个与疾病紧密相关的任务中测试了DYNA的效果。对于编码VEP，我们专注于多种心血管疾病，其中基因与疾病的关系（功能丧失与功能获得）是疾病特异性VEP的关键。对于非编码VEP，DYNA被应用于RNA剪接的关键转录后调控机制，这是临床VEP指南中最常见的非编码致病途径。在这两种情况下，DYNA都对预先训练的基因组基础模型在罕见变异集上进行了微调。DYNA微调的模型在罕见变异测试集上表现出色，并在ClinVAR的大型临床相关变异注释中得到了验证。因此，DYNA不仅在基因内泛化方面表现卓越，还能有效泛化到未见的遗传变异，对于疾病关联研究和临床应用具有极高的价值。
 
 > Clinical variant classification of pathogenic versus benign genetic variants remains a challenge in clinical genetics. Recently, the proposition of genomic foundation models has improved the generic variant effect prediction (VEP) accuracy via weakly-supervised or unsupervised training. However, these VEPs are not disease-specific, limiting their adaptation at the point of care. To address this problem, we propose DYNA: Disease-specificity fine-tuning via a Siamese neural network broadly applicable to all genomic foundation models for more effective variant effect predictions in disease-specific contexts. We evaluate DYNA in two distinct disease-relevant tasks. For coding VEPs, we focus on various cardiovascular diseases, where gene-disease relationships of loss-of-function vs. gain-of-function dictate disease-specific VEP. For non-coding VEPs, we apply DYNA to an essential post-transcriptional regulatory axis of RNA splicing, the most common non-coding pathogenic mechanism in established clinical VEP guidelines. In both cases, DYNA fine-tunes various pre-trained genomic foundation models on small, rare variant sets. The DYNA fine-tuned models show superior performance in the held-out rare variant testing set and are further replicated in large, clinically-relevant variant annotations in ClinVAR. Thus, DYNA offers a potent disease-specific variant effect prediction method, excelling in intra-gene generalization and generalization to unseen genetic variants, making it particularly valuable for disease associations and clinical applicability.
 
