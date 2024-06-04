@@ -196,15 +196,15 @@
 
 - [Impact of Generative AI (Large Language Models) on the PRA model construction and maintenance, observations](2024年06月03日/Impact_of_Generative_AI_(Large_Language_Models)_on_the_PRA_model_construction_and_maintenance,_observations.md)
 
-    - [翻译: 大型语言模型在生成式人工智能领域的应用，对PRA模型的构建与维护产生了深远影响，值得我们深入观察与探讨。](2024年06月03日/Impact_of_Generative_AI_(Large_Language_Models)_on_the_PRA_model_construction_and_maintenance,_observations.md)
+    - [翻译: 大型语言模型在生成式人工智能领域的应用，正深刻影响着PRA模型的构建与维护，其影响值得我们深入观察与探讨。](2024年06月03日/Impact_of_Generative_AI_(Large_Language_Models)_on_the_PRA_model_construction_and_maintenance,_observations.md)
 
 - [TCMBench: A Comprehensive Benchmark for Evaluating Large Language Models in Traditional Chinese Medicine](2024年06月03日/TCMBench_A_Comprehensive_Benchmark_for_Evaluating_Large_Language_Models_in_Traditional_Chinese_Medicine.md)
 
-    - [翻译: TCMBench：传统中医学领域大型语言模型的综合评估基准](2024年06月03日/TCMBench_A_Comprehensive_Benchmark_for_Evaluating_Large_Language_Models_in_Traditional_Chinese_Medicine.md)
+    - [翻译: TCMBench：传统中医领域大型语言模型的全面评估基准](2024年06月03日/TCMBench_A_Comprehensive_Benchmark_for_Evaluating_Large_Language_Models_in_Traditional_Chinese_Medicine.md)
 
 - [Latent Logic Tree Extraction for Event Sequence Explanation from LLMs](2024年06月03日/Latent_Logic_Tree_Extraction_for_Event_Sequence_Explanation_from_LLMs.md)
 
-    - [翻译: 从大型语言模型中提取潜在逻辑树，揭示事件序列背后的逻辑结构](2024年06月03日/Latent_Logic_Tree_Extraction_for_Event_Sequence_Explanation_from_LLMs.md)
+    - [翻译: 从大型语言模型中提取潜在逻辑树，揭示事件序列的内在逻辑](2024年06月03日/Latent_Logic_Tree_Extraction_for_Event_Sequence_Explanation_from_LLMs.md)
 
 - [Synergizing Unsupervised and Supervised Learning: A Hybrid Approach for Accurate Natural Language Task Modeling](2024年06月03日/Synergizing_Unsupervised_and_Supervised_Learning_A_Hybrid_Approach_for_Accurate_Natural_Language_Task_Modeling.md)
 
@@ -216,7 +216,7 @@
 
 - [Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-Choice Selectors](2024年06月03日/Strengthened_Symbol_Binding_Makes_Large_Language_Models_Reliable_Multiple-Choice_Selectors.md)
 
-    - [翻译: 通过增强符号绑定，大型语言模型得以提升为精准的多项选择筛选工具。](2024年06月03日/Strengthened_Symbol_Binding_Makes_Large_Language_Models_Reliable_Multiple-Choice_Selectors.md)
+    - [翻译: 通过增强符号绑定，大型语言模型得以转变为精准的多项选择筛选工具。](2024年06月03日/Strengthened_Symbol_Binding_Makes_Large_Language_Models_Reliable_Multiple-Choice_Selectors.md)
 
 - [CLIP-Guided Attribute Aware Pretraining for Generalizable Image Quality Assessment](2024年06月03日/CLIP-Guided_Attribute_Aware_Pretraining_for_Generalizable_Image_Quality_Assessment.md)
 
@@ -224,11 +224,35 @@
 
 - [An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation](2024年06月03日/An_Information_Bottleneck_Perspective_for_Effective_Noise_Filtering_on_Retrieval-Augmented_Generation.md)
 
-    - [翻译: 在检索增强生成过程中，从信息瓶颈视角出发，有效过滤噪声是提升效果的关键。](2024年06月03日/An_Information_Bottleneck_Perspective_for_Effective_Noise_Filtering_on_Retrieval-Augmented_Generation.md)
+    - [翻译: 在检索增强生成过程中，信息瓶颈视角揭示了有效噪声过滤的重要性。](2024年06月03日/An_Information_Bottleneck_Perspective_for_Effective_Noise_Filtering_on_Retrieval-Augmented_Generation.md)
 
 - [PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning](2024年06月03日/PlanAgent_A_Multi-modal_Large_Language_Agent_for_Closed-loop_Vehicle_Motion_Planning.md)
 
     - [翻译: PlanAgent：专为闭环车辆运动规划设计的多模态大型语言智能代理](2024年06月03日/PlanAgent_A_Multi-modal_Large_Language_Agent_for_Closed-loop_Vehicle_Motion_Planning.md)
+
+- [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](2024年06月03日/MMLU-Pro_A_More_Robust_and_Challenging_Multi-Task_Language_Understanding_Benchmark.md)
+
+    - [翻译: MMLU-Pro：打造更稳健、更具挑战性的多任务语言理解新标杆](2024年06月03日/MMLU-Pro_A_More_Robust_and_Challenging_Multi-Task_Language_Understanding_Benchmark.md)
+
+- [Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs](2024年06月03日/Helix_Distributed_Serving_of_Large_Language_Models_via_Max-Flow_on_Heterogeneous_GPUs.md)
+
+    - [翻译: Helix：异构GPU上最大流技术助力大型语言模型分布式服务](2024年06月03日/Helix_Distributed_Serving_of_Large_Language_Models_via_Max-Flow_on_Heterogeneous_GPUs.md)
+
+- [LoFiT: Localized Fine-tuning on LLM Representations](2024年06月03日/LoFiT_Localized_Fine-tuning_on_LLM_Representations.md)
+
+    - [翻译: LoFiT：针对LLM表示的局部精细调整](2024年06月03日/LoFiT_Localized_Fine-tuning_on_LLM_Representations.md)
+
+- [What Are Large Language Models Mapping to in the Brain? A Case Against Over-Reliance on Brain Scores](2024年06月03日/What_Are_Large_Language_Models_Mapping_to_in_the_Brain_A_Case_Against_Over-Reliance_on_Brain_Scores.md)
+
+    - [翻译: 大型语言模型在人脑中的映射究竟是什么？本文质疑了过度依赖脑部评分的现象。](2024年06月03日/What_Are_Large_Language_Models_Mapping_to_in_the_Brain_A_Case_Against_Over-Reliance_on_Brain_Scores.md)
+
+- [Decoupled Alignment for Robust Plug-and-Play Adaptation](2024年06月03日/Decoupled_Alignment_for_Robust_Plug-and-Play_Adaptation.md)
+
+    - [翻译: 实现稳健即插即用适应的解耦对齐策略](2024年06月03日/Decoupled_Alignment_for_Robust_Plug-and-Play_Adaptation.md)
+
+- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](2024年06月03日/The_Geometry_of_Categorical_and_Hierarchical_Concepts_in_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型中分类与层次概念的几何探索](2024年06月03日/The_Geometry_of_Categorical_and_Hierarchical_Concepts_in_Large_Language_Models.md)
 
 2024年06月02日
 
@@ -266,11 +290,11 @@
 
 - [Are you still on track!? Catching LLM Task Drift with Activations](2024年06月02日/Are_you_still_on_track!_Catching_LLM_Task_Drift_with_Activations.md)
 
-    - [翻译: 你的大型语言模型是否偏离了正轨？通过激活监测，我们能及时捕捉到任务漂移的迹象。](2024年06月02日/Are_you_still_on_track!_Catching_LLM_Task_Drift_with_Activations.md)
+    - [翻译: 你是否还在正轨？利用激活监测大型语言模型的任务漂移。](2024年06月02日/Are_you_still_on_track!_Catching_LLM_Task_Drift_with_Activations.md)
 
 - [COS-Mix: Cosine Similarity and Distance Fusion for Improved Information Retrieval](2024年06月02日/COS-Mix_Cosine_Similarity_and_Distance_Fusion_for_Improved_Information_Retrieval.md)
 
-    - [翻译: COS-Mix：融合余弦相似度与距离，提升信息检索效能](2024年06月02日/COS-Mix_Cosine_Similarity_and_Distance_Fusion_for_Improved_Information_Retrieval.md)
+    - [翻译: COS-Mix：融合余弦相似度与距离，优化信息检索性能](2024年06月02日/COS-Mix_Cosine_Similarity_and_Distance_Fusion_for_Improved_Information_Retrieval.md)
 
 - [OLIVE: Object Level In-Context Visual Embeddings](2024年06月02日/OLIVE_Object_Level_In-Context_Visual_Embeddings.md)
 
@@ -292,7 +316,7 @@
 
 - [LLMs Could Autonomously Learn Without External Supervision](2024年06月01日/LLMs_Could_Autonomously_Learn_Without_External_Supervision.md)
 
-    - [翻译: 大型语言模型（LLMs）无需外部监督，便能自主学习。](2024年06月01日/LLMs_Could_Autonomously_Learn_Without_External_Supervision.md)
+    - [翻译: 大型语言模型（LLMs）具备无监督自主学习的能力。](2024年06月01日/LLMs_Could_Autonomously_Learn_Without_External_Supervision.md)
 
 - [LongSkywork: A Training Recipe for Efficiently Extending Context Length in Large Language Models](2024年06月01日/LongSkywork_A_Training_Recipe_for_Efficiently_Extending_Context_Length_in_Large_Language_Models.md)
 
@@ -304,7 +328,7 @@
 
 - [Artificial General Intelligence (AGI) for the oil and gas industry: a review](2024年06月01日/Artificial_General_Intelligence_(AGI)_for_the_oil_and_gas_industry_a_review.md)
 
-    - [翻译: 石油与天然气行业中的人工智能通用智能（AGI）：综述探索](2024年06月01日/Artificial_General_Intelligence_(AGI)_for_the_oil_and_gas_industry_a_review.md)
+    - [翻译: 石油与天然气行业中的AGI：一次深度探索](2024年06月01日/Artificial_General_Intelligence_(AGI)_for_the_oil_and_gas_industry_a_review.md)
 
 - [A Blueprint Architecture of Compound AI Systems for Enterprise](2024年06月01日/A_Blueprint_Architecture_of_Compound_AI_Systems_for_Enterprise.md)
 
@@ -312,11 +336,11 @@
 
 - [Guiding and Diversifying LLM-Based Story Generation via Answer Set Programming](2024年06月01日/Guiding_and_Diversifying_LLM-Based_Story_Generation_via_Answer_Set_Programming.md)
 
-    - [翻译: 利用答案集编程，引导并丰富基于大型语言模型的故事创作](2024年06月01日/Guiding_and_Diversifying_LLM-Based_Story_Generation_via_Answer_Set_Programming.md)
+    - [翻译: 利用答案集编程，引导并丰富大型语言模型生成故事的多样性](2024年06月01日/Guiding_and_Diversifying_LLM-Based_Story_Generation_via_Answer_Set_Programming.md)
 
 - [LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models](2024年06月01日/LIDAO_Towards_Limited_Interventions_for_Debiasing_(Large)_Language_Models.md)
 
-    - [翻译: LIDAO：探索有限干预策略，以纠正大型语言模型的偏见](2024年06月01日/LIDAO_Towards_Limited_Interventions_for_Debiasing_(Large)_Language_Models.md)
+    - [翻译: LIDAO：探索有限干预策略，以减少大型语言模型的偏见](2024年06月01日/LIDAO_Towards_Limited_Interventions_for_Debiasing_(Large)_Language_Models.md)
 
 - [Wav2Prompt: End-to-End Speech Prompt Generation and Tuning For LLM in Zero and Few-shot Learning](2024年06月01日/Wav2Prompt_End-to-End_Speech_Prompt_Generation_and_Tuning_For_LLM_in_Zero_and_Few-shot_Learning.md)
 
@@ -324,15 +348,15 @@
 
 - [A Survey on Large Language Models for Code Generation](2024年06月01日/A_Survey_on_Large_Language_Models_for_Code_Generation.md)
 
-    - [翻译: 大型语言模型在代码生成领域的应用综述](2024年06月01日/A_Survey_on_Large_Language_Models_for_Code_Generation.md)
+    - [翻译: 大型语言模型在代码生成领域的综述](2024年06月01日/A_Survey_on_Large_Language_Models_for_Code_Generation.md)
 
 - [Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection](2024年06月01日/Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_Object_Detection.md)
 
-    - [翻译: 探索背景提示，揭示开放词汇对象检测中的隐含知识](2024年06月01日/Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_Object_Detection.md)
+    - [翻译: 探索背景提示，解锁开放词汇对象检测中的隐含知识宝库](2024年06月01日/Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_Object_Detection.md)
 
 - [Prompt Chaining or Stepwise Prompt? Refinement in Text Summarization](2024年06月01日/Prompt_Chaining_or_Stepwise_Prompt_Refinement_in_Text_Summarization.md)
 
-    - [翻译: 是采用提示链还是逐步提示？探讨文本摘要中的细化策略。](2024年06月01日/Prompt_Chaining_or_Stepwise_Prompt_Refinement_in_Text_Summarization.md)
+    - [翻译: 是采用提示链还是逐步提示？探讨文本摘要中的细化策略](2024年06月01日/Prompt_Chaining_or_Stepwise_Prompt_Refinement_in_Text_Summarization.md)
 
 - [Effectiveness of Vision Language Models for Open-world Single Image Test Time Adaptation](2024年06月01日/Effectiveness_of_Vision_Language_Models_for_Open-world_Single_Image_Test_Time_Adaptation.md)
 
@@ -348,15 +372,15 @@
 
 - [The Best of Both Worlds: Toward an Honest and Helpful Large Language Model](2024年06月01日/The_Best_of_Both_Worlds_Toward_an_Honest_and_Helpful_Large_Language_Model.md)
 
-    - [翻译: 《双全其美：打造既真诚又实用的大型语言模型》](2024年06月01日/The_Best_of_Both_Worlds_Toward_an_Honest_and_Helpful_Large_Language_Model.md)
+    - [翻译: 《双赢之道：打造既诚实又实用的大型语言模型》](2024年06月01日/The_Best_of_Both_Worlds_Toward_an_Honest_and_Helpful_Large_Language_Model.md)
 
 - [Beyond Metrics: Evaluating LLMs' Effectiveness in Culturally Nuanced, Low-Resource Real-World Scenarios](2024年06月01日/Beyond_Metrics_Evaluating_LLMs'_Effectiveness_in_Culturally_Nuanced,_Low-Resource_Real-World_Scenarios.md)
 
-    - [翻译: 超越传统指标：探究大型语言模型在文化细腻且资源有限的真实世界情境中的实际效能](2024年06月01日/Beyond_Metrics_Evaluating_LLMs'_Effectiveness_in_Culturally_Nuanced,_Low-Resource_Real-World_Scenarios.md)
+    - [翻译: 深入文化细微之处：探索大型语言模型在资源有限的真实世界场景中的实际效能](2024年06月01日/Beyond_Metrics_Evaluating_LLMs'_Effectiveness_in_Culturally_Nuanced,_Low-Resource_Real-World_Scenarios.md)
 
 - [A Practice-Friendly Two-Stage LLM-Enhanced Paradigm in Sequential Recommendation](2024年06月01日/A_Practice-Friendly_Two-Stage_LLM-Enhanced_Paradigm_in_Sequential_Recommendation.md)
 
-    - [翻译: 序列推荐中的实践友好型两阶段LLM增强范式](2024年06月01日/A_Practice-Friendly_Two-Stage_LLM-Enhanced_Paradigm_in_Sequential_Recommendation.md)
+    - [翻译: 一种便于实践的两阶段大型语言模型增强序列推荐模式](2024年06月01日/A_Practice-Friendly_Two-Stage_LLM-Enhanced_Paradigm_in_Sequential_Recommendation.md)
 
 - [Creative Text-to-Audio Generation via Synthesizer Programming](2024年06月01日/Creative_Text-to-Audio_Generation_via_Synthesizer_Programming.md)
 
@@ -364,7 +388,7 @@
 
 - [SPAGHETTI: Open-Domain Question Answering from Heterogeneous Data Sources with Retrieval and Semantic Parsing](2024年06月01日/SPAGHETTI_Open-Domain_Question_Answering_from_Heterogeneous_Data_Sources_with_Retrieval_and_Semantic_Parsing.md)
 
-    - [翻译: SPAGHETTI：融合检索与语义解析，从多元数据源中解锁开放域问答之谜](2024年06月01日/SPAGHETTI_Open-Domain_Question_Answering_from_Heterogeneous_Data_Sources_with_Retrieval_and_Semantic_Parsing.md)
+    - [翻译: SPAGHETTI：融合检索与语义解析，从多元数据源中解锁开放域问答的奥秘](2024年06月01日/SPAGHETTI_Open-Domain_Question_Answering_from_Heterogeneous_Data_Sources_with_Retrieval_and_Semantic_Parsing.md)
 
 - [Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation](2024年06月01日/Mix-of-Granularity_Optimize_the_Chunking_Granularity_for_Retrieval-Augmented_Generation.md)
 
