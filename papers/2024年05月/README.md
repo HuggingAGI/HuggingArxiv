@@ -160,15 +160,15 @@
 
 - [A Closer Look at Logical Reasoning with LLMs: The Choice of Tool Matters](2024年05月31日/A_Closer_Look_at_Logical_Reasoning_with_LLMs_The_Choice_of_Tool_Matters.md)
 
-    - [翻译: 探究LLMs逻辑推理：工具选择的重要性](2024年05月31日/A_Closer_Look_at_Logical_Reasoning_with_LLMs_The_Choice_of_Tool_Matters.md)
+    - [翻译: 探究LLMs在逻辑推理中的应用：工具的选择是关键。](2024年05月31日/A_Closer_Look_at_Logical_Reasoning_with_LLMs_The_Choice_of_Tool_Matters.md)
 
 - [Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning? An Extensive Investigation into the Capabilities and Limitations of LVLMs](2024年05月31日/Are_Large_Vision_Language_Models_up_to_the_Challenge_of_Chart_Comprehension_and_Reasoning_An_Extensive_Investigation_into_the_Capabilities_and_Limitations_of_LVLMs.md)
 
-    - [翻译: 大型视觉语言模型能否破解图表理解和推理的难题？本研究深入探讨了LVLMs的能力与局限。](2024年05月31日/Are_Large_Vision_Language_Models_up_to_the_Challenge_of_Chart_Comprehension_and_Reasoning_An_Extensive_Investigation_into_the_Capabilities_and_Limitations_of_LVLMs.md)
+    - [翻译: 大型视觉语言模型能否胜任图表理解和推理的重任？本研究深入探讨了LVLMs的能力与局限，旨在全面评估其在复杂任务中的表现。](2024年05月31日/Are_Large_Vision_Language_Models_up_to_the_Challenge_of_Chart_Comprehension_and_Reasoning_An_Extensive_Investigation_into_the_Capabilities_and_Limitations_of_LVLMs.md)
 
 - [Multi-Modal and Multi-Agent Systems Meet Rationality: A Survey](2024年05月31日/Multi-Modal_and_Multi-Agent_Systems_Meet_Rationality_A_Survey.md)
 
-    - [翻译: 理性视角下的多模态与多智能体系统：综合评述](2024年05月31日/Multi-Modal_and_Multi-Agent_Systems_Meet_Rationality_A_Survey.md)
+    - [翻译: 理性视角下的多模态与多智能体系统：综合调查](2024年05月31日/Multi-Modal_and_Multi-Agent_Systems_Meet_Rationality_A_Survey.md)
 
 - [Large Language Models for Relevance Judgment in Product Search](2024年05月31日/Large_Language_Models_for_Relevance_Judgment_in_Product_Search.md)
 
@@ -176,7 +176,7 @@
 
 - [Controlling Large Language Model Agents with Entropic Activation Steering](2024年05月31日/Controlling_Large_Language_Model_Agents_with_Entropic_Activation_Steering.md)
 
-    - [翻译: 通过熵激活引导驾驭大型语言模型代理](2024年05月31日/Controlling_Large_Language_Model_Agents_with_Entropic_Activation_Steering.md)
+    - [翻译: 通过熵激活引导操控大型语言模型代理](2024年05月31日/Controlling_Large_Language_Model_Agents_with_Entropic_Activation_Steering.md)
 
 - [Exploring Vulnerabilities and Protections in Large Language Models: A Survey](2024年05月31日/Exploring_Vulnerabilities_and_Protections_in_Large_Language_Models_A_Survey.md)
 
@@ -188,7 +188,7 @@
 
 - [LLM-RankFusion: Mitigating Intrinsic Inconsistency in LLM-based Ranking](2024年05月31日/LLM-RankFusion_Mitigating_Intrinsic_Inconsistency_in_LLM-based_Ranking.md)
 
-    - [翻译: LLM-RankFusion：调和基于大型语言模型的排序系统中的内在矛盾](2024年05月31日/LLM-RankFusion_Mitigating_Intrinsic_Inconsistency_in_LLM-based_Ranking.md)
+    - [翻译: LLM-RankFusion：调和基于大型语言模型的排序系统中的内在不一致性](2024年05月31日/LLM-RankFusion_Mitigating_Intrinsic_Inconsistency_in_LLM-based_Ranking.md)
 
 - [Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training](2024年05月31日/Learning_to_Clarify_Multi-turn_Conversations_with_Action-Based_Contrastive_Self-Training.md)
 
@@ -204,31 +204,31 @@
 
 - [Long-Span Question-Answering: Automatic Question Generation and QA-System Ranking via Side-by-Side Evaluation](2024年05月31日/Long-Span_Question-Answering_Automatic_Question_Generation_and_QA-System_Ranking_via_Side-by-Side_Evaluation.md)
 
-    - [翻译: 长跨度问答：通过并排对比评估，实现自动问题生成与问答系统排名优化](2024年05月31日/Long-Span_Question-Answering_Automatic_Question_Generation_and_QA-System_Ranking_via_Side-by-Side_Evaluation.md)
+    - [翻译: 长跨度问答：并排评估助力自动问题生成与问答系统排名优化](2024年05月31日/Long-Span_Question-Answering_Automatic_Question_Generation_and_QA-System_Ranking_via_Side-by-Side_Evaluation.md)
 
 - [DYNA: Disease-Specific Language Model for Variant Pathogenicity](2024年05月31日/DYNA_Disease-Specific_Language_Model_for_Variant_Pathogenicity.md)
 
-    - [翻译: DYNA：专为疾病变异致病性分析而设计的语言模型](2024年05月31日/DYNA_Disease-Specific_Language_Model_for_Variant_Pathogenicity.md)
+    - [翻译: DYNA：专为变异致病性分析设计的疾病特异性语言模型](2024年05月31日/DYNA_Disease-Specific_Language_Model_for_Variant_Pathogenicity.md)
 
 - [Query2CAD: Generating CAD models using natural language queries](2024年05月31日/Query2CAD_Generating_CAD_models_using_natural_language_queries.md)
 
-    - [翻译: Query2CAD：通过自然语言查询创造CAD模型](2024年05月31日/Query2CAD_Generating_CAD_models_using_natural_language_queries.md)
+    - [翻译: Query2CAD：通过自然语言查询轻松生成CAD模型](2024年05月31日/Query2CAD_Generating_CAD_models_using_natural_language_queries.md)
 
 - [QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation](2024年05月31日/QuanTA_Efficient_High-Rank_Fine-Tuning_of_LLMs_with_Quantum-Informed_Tensor_Adaptation.md)
 
-    - [翻译: QuanTA：借助量子信息优化的矩阵适应技术，实现大型语言模型的高效高秩微调](2024年05月31日/QuanTA_Efficient_High-Rank_Fine-Tuning_of_LLMs_with_Quantum-Informed_Tensor_Adaptation.md)
+    - [翻译: QuanTA：量子启发的矩阵适应技术，实现大型语言模型的高效高秩微调](2024年05月31日/QuanTA_Efficient_High-Rank_Fine-Tuning_of_LLMs_with_Quantum-Informed_Tensor_Adaptation.md)
 
 - [How In-Context Learning Emerges from Training on Unstructured Data: On the Role of Co-Occurrence, Positional Information, and Noise Structures](2024年05月31日/How_In-Context_Learning_Emerges_from_Training_on_Unstructured_Data_On_the_Role_of_Co-Occurrence,_Positional_Information,_and_Noise_Structures.md)
 
-    - [翻译: 情境学习如何在非结构化数据训练中显现：探讨共现、位置信息及噪声结构的影响](2024年05月31日/How_In-Context_Learning_Emerges_from_Training_on_Unstructured_Data_On_the_Role_of_Co-Occurrence,_Positional_Information,_and_Noise_Structures.md)
+    - [翻译: 非结构化数据训练如何孕育情境学习：共现、位置信息与噪声结构的奥秘](2024年05月31日/How_In-Context_Learning_Emerges_from_Training_on_Unstructured_Data_On_the_Role_of_Co-Occurrence,_Positional_Information,_and_Noise_Structures.md)
 
 - [Towards LLM-Powered Verilog RTL Assistant: Self-Verification and Self-Correction](2024年05月31日/Towards_LLM-Powered_Verilog_RTL_Assistant_Self-Verification_and_Self-Correction.md)
 
-    - [翻译: 探索大型语言模型驱动的Verilog RTL助手：实现自我验证与自我修正](2024年05月31日/Towards_LLM-Powered_Verilog_RTL_Assistant_Self-Verification_and_Self-Correction.md)
+    - [翻译: 探索大型语言模型驱动的Verilog RTL助手：实现自我验证与自我修正功能](2024年05月31日/Towards_LLM-Powered_Verilog_RTL_Assistant_Self-Verification_and_Self-Correction.md)
 
 - [Scalable Bayesian Learning with posteriors](2024年05月31日/Scalable_Bayesian_Learning_with_posteriors.md)
 
-    - [翻译: 利用后验进行规模化的贝叶斯学习](2024年05月31日/Scalable_Bayesian_Learning_with_posteriors.md)
+    - [翻译: 利用后验分布实现贝叶斯学习的可扩展性](2024年05月31日/Scalable_Bayesian_Learning_with_posteriors.md)
 
 2024年05月30日
 
@@ -856,15 +856,15 @@
 
 - [Unlocking the Potential of Large Language Models for Clinical Text Anonymization: A Comparative Study](2024年05月29日/Unlocking_the_Potential_of_Large_Language_Models_for_Clinical_Text_Anonymization_A_Comparative_Study.md)
 
-    - [翻译: 探索大型语言模型在临床文本匿名化中的应用潜力：一项比较研究](2024年05月29日/Unlocking_the_Potential_of_Large_Language_Models_for_Clinical_Text_Anonymization_A_Comparative_Study.md)
+    - [翻译: 探索大型语言模型在临床文本匿名化中的潜能：一场比较研究的探索之旅](2024年05月29日/Unlocking_the_Potential_of_Large_Language_Models_for_Clinical_Text_Anonymization_A_Comparative_Study.md)
 
 - [Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](2024年05月29日/Conveyor_Efficient_Tool-aware_LLM_Serving_with_Tool_Partial_Execution.md)
 
-    - [翻译: Conveyor：采用工具部分执行的高效大型语言模型服务，实现工具感知。](2024年05月29日/Conveyor_Efficient_Tool-aware_LLM_Serving_with_Tool_Partial_Execution.md)
+    - [翻译: Conveyor：一种高效的大型语言模型服务系统，专为工具感知设计，支持工具的部分执行，以提升服务效率。](2024年05月29日/Conveyor_Efficient_Tool-aware_LLM_Serving_with_Tool_Partial_Execution.md)
 
 - [Toward Conversational Agents with Context and Time Sensitive Long-term Memory](2024年05月29日/Toward_Conversational_Agents_with_Context_and_Time_Sensitive_Long-term_Memory.md)
 
-    - [翻译: 构建具备上下文感知与时间敏感长期记忆的对话系统](2024年05月29日/Toward_Conversational_Agents_with_Context_and_Time_Sensitive_Long-term_Memory.md)
+    - [翻译: 构建具备上下文感知与时间敏感长期记忆的对话机器人](2024年05月29日/Toward_Conversational_Agents_with_Context_and_Time_Sensitive_Long-term_Memory.md)
 
 2024年05月28日
 
@@ -1424,11 +1424,11 @@
 
 - [Aligning LLMs through Multi-perspective User Preference Ranking-based Feedback for Programming Question Answering](2024年05月27日/Aligning_LLMs_through_Multi-perspective_User_Preference_Ranking-based_Feedback_for_Programming_Question_Answering.md)
 
-    - [翻译: 基于多视角用户偏好排名的反馈，优化大型语言模型以精准解答编程问题](2024年05月27日/Aligning_LLMs_through_Multi-perspective_User_Preference_Ranking-based_Feedback_for_Programming_Question_Answering.md)
+    - [翻译: 利用多视角用户偏好排名反馈，优化大型语言模型，提升编程问题解答的精准度。](2024年05月27日/Aligning_LLMs_through_Multi-perspective_User_Preference_Ranking-based_Feedback_for_Programming_Question_Answering.md)
 
 - [EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling](2024年05月27日/EMERGE_Integrating_RAG_for_Improved_Multimodal_EHR_Predictive_Modeling.md)
 
-    - [翻译: EMERGE：融合RAG技术，优化多模态电子健康记录的预测模型](2024年05月27日/EMERGE_Integrating_RAG_for_Improved_Multimodal_EHR_Predictive_Modeling.md)
+    - [翻译: EMERGE：融合 RAG 技术，优化多模态电子健康记录的预测模型](2024年05月27日/EMERGE_Integrating_RAG_for_Improved_Multimodal_EHR_Predictive_Modeling.md)
 
 2024年05月26日
 
@@ -1942,7 +1942,7 @@
 
 - [Embedding-Aligned Language Models](2024年05月24日/Embedding-Aligned_Language_Models.md)
 
-    - [翻译: 语言模型与嵌入精准对齐](2024年05月24日/Embedding-Aligned_Language_Models.md)
+    - [翻译: 语言模型嵌入对齐](2024年05月24日/Embedding-Aligned_Language_Models.md)
 
 2024年05月23日
 
