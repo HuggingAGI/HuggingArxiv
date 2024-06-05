@@ -1,5 +1,15 @@
 # 2024年06月
 
+2024年06月04日
+
+- [MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset](2024年06月04日/MARS_Benchmarking_the_Metaphysical_Reasoning_Abilities_of_Language_Models_with_a_Multi-task_Evaluation_Dataset.md)
+
+    - [翻译: MARS：通过多任务评估数据集，衡量语言模型在形而上学推理上的能力](2024年06月04日/MARS_Benchmarking_the_Metaphysical_Reasoning_Abilities_of_Language_Models_with_a_Multi-task_Evaluation_Dataset.md)
+
+- [Multimodal Reasoning with Multimodal Knowledge Graph](2024年06月04日/Multimodal_Reasoning_with_Multimodal_Knowledge_Graph.md)
+
+    - [翻译: 融合多模态知识图谱的推理探索](2024年06月04日/Multimodal_Reasoning_with_Multimodal_Knowledge_Graph.md)
+
 2024年06月03日
 
 - [Superhuman performance in urology board questions by an explainable large language model enabled for context integration of the European Association of Urology guidelines: the UroBot study](2024年06月03日/Superhuman_performance_in_urology_board_questions_by_an_explainable_large_language_model_enabled_for_context_integration_of_the_European_Association_of_Urology_guidelines_the_UroBot_study.md)
@@ -299,6 +309,10 @@
 - [OLIVE: Object Level In-Context Visual Embeddings](2024年06月02日/OLIVE_Object_Level_In-Context_Visual_Embeddings.md)
 
     - [翻译: OLIVE：对象级上下文视觉嵌入，一种新颖的视觉表示方法，旨在通过对象级别的上下文信息来增强视觉嵌入的表达能力。](2024年06月02日/OLIVE_Object_Level_In-Context_Visual_Embeddings.md)
+
+- [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](2024年06月02日/Teams_of_LLM_Agents_can_Exploit_Zero-Day_Vulnerabilities.md)
+
+    - [翻译: LLM 代理团队具备利用零日漏洞的能力。](2024年06月02日/Teams_of_LLM_Agents_can_Exploit_Zero-Day_Vulnerabilities.md)
 
 2024年06月01日
 
