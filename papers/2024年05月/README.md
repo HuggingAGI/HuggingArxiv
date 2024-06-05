@@ -1430,6 +1430,10 @@
 
     - [翻译: EMERGE：融合 RAG 技术，优化多模态电子健康记录的预测模型构建](2024年05月27日/EMERGE_Integrating_RAG_for_Improved_Multimodal_EHR_Predictive_Modeling.md)
 
+- [Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark](2024年05月27日/Recent_advances_in_text_embedding_A_Comprehensive_Review_of_Top-Performing_Methods_on_the_MTEB_Benchmark.md)
+
+    - [翻译: ](2024年05月27日/Recent_advances_in_text_embedding_A_Comprehensive_Review_of_Top-Performing_Methods_on_the_MTEB_Benchmark.md)
+
 2024年05月26日
 
 - [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](2024年05月26日/Diffusion4D_Fast_Spatial-temporal_Consistent_4D_Generation_via_Video_Diffusion_Models.md)
