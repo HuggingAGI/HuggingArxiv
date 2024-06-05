@@ -146,6 +146,86 @@
 
     - [翻译: ](2024年06月04日/GrootVL_Tree_Topology_is_All_You_Need_in_State_Space_Model.md)
 
+- [Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks](2024年06月04日/Learning_to_grok_Emergence_of_in-context_learning_and_skill_composition_in_modular_arithmetic_tasks.md)
+
+    - [翻译: ](2024年06月04日/Learning_to_grok_Emergence_of_in-context_learning_and_skill_composition_in_modular_arithmetic_tasks.md)
+
+- [To Believe or Not to Believe Your LLM](2024年06月04日/To_Believe_or_Not_to_Believe_Your_LLM.md)
+
+    - [翻译: ](2024年06月04日/To_Believe_or_Not_to_Believe_Your_LLM.md)
+
+- [Loki: Low-Rank Keys for Efficient Sparse Attention](2024年06月04日/Loki_Low-Rank_Keys_for_Efficient_Sparse_Attention.md)
+
+    - [翻译: ](2024年06月04日/Loki_Low-Rank_Keys_for_Efficient_Sparse_Attention.md)
+
+- [Mitigate Position Bias in Large Language Models via Scaling a Single Dimension](2024年06月04日/Mitigate_Position_Bias_in_Large_Language_Models_via_Scaling_a_Single_Dimension.md)
+
+    - [翻译: ](2024年06月04日/Mitigate_Position_Bias_in_Large_Language_Models_via_Scaling_a_Single_Dimension.md)
+
+- [SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices](2024年06月04日/SpecExec_Massively_Parallel_Speculative_Decoding_for_Interactive_LLM_Inference_on_Consumer_Devices.md)
+
+    - [翻译: ](2024年06月04日/SpecExec_Massively_Parallel_Speculative_Decoding_for_Interactive_LLM_Inference_on_Consumer_Devices.md)
+
+- [Scalable MatMul-free Language Modeling](2024年06月04日/Scalable_MatMul-free_Language_Modeling.md)
+
+    - [翻译: ](2024年06月04日/Scalable_MatMul-free_Language_Modeling.md)
+
+- [CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks](2024年06月04日/CheckEmbed_Effective_Verification_of_LLM_Solutions_to_Open-Ended_Tasks.md)
+
+    - [翻译: ](2024年06月04日/CheckEmbed_Effective_Verification_of_LLM_Solutions_to_Open-Ended_Tasks.md)
+
+- [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](2024年06月04日/RoboCasa_Large-Scale_Simulation_of_Everyday_Tasks_for_Generalist_Robots.md)
+
+    - [翻译: ](2024年06月04日/RoboCasa_Large-Scale_Simulation_of_Everyday_Tasks_for_Generalist_Robots.md)
+
+- [Demystifying the Compression of Mixture-of-Experts Through a Unified Framework](2024年06月04日/Demystifying_the_Compression_of_Mixture-of-Experts_Through_a_Unified_Framework.md)
+
+    - [翻译: ](2024年06月04日/Demystifying_the_Compression_of_Mixture-of-Experts_Through_a_Unified_Framework.md)
+
+- [Hiding Text in Large Language Models: Introducing Unconditional Token Forcing Confusion](2024年06月04日/Hiding_Text_in_Large_Language_Models_Introducing_Unconditional_Token_Forcing_Confusion.md)
+
+    - [翻译: ](2024年06月04日/Hiding_Text_in_Large_Language_Models_Introducing_Unconditional_Token_Forcing_Confusion.md)
+
+- [Meta-Designing Quantum Experiments with Language Models](2024年06月04日/Meta-Designing_Quantum_Experiments_with_Language_Models.md)
+
+    - [翻译: ](2024年06月04日/Meta-Designing_Quantum_Experiments_with_Language_Models.md)
+
+- [Representations as Language: An Information-Theoretic Framework for Interpretability](2024年06月04日/Representations_as_Language_An_Information-Theoretic_Framework_for_Interpretability.md)
+
+    - [翻译: ](2024年06月04日/Representations_as_Language_An_Information-Theoretic_Framework_for_Interpretability.md)
+
+- [Generative Active Learning for Long-tailed Instance Segmentation](2024年06月04日/Generative_Active_Learning_for_Long-tailed_Instance_Segmentation.md)
+
+    - [翻译: ](2024年06月04日/Generative_Active_Learning_for_Long-tailed_Instance_Segmentation.md)
+
+- [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](2024年06月04日/Seed-TTS_A_Family_of_High-Quality_Versatile_Speech_Generation_Models.md)
+
+    - [翻译: ](2024年06月04日/Seed-TTS_A_Family_of_High-Quality_Versatile_Speech_Generation_Models.md)
+
+- [Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data](2024年06月04日/Multiple_Choice_Questions_and_Large_Languages_Models_A_Case_Study_with_Fictional_Medical_Data.md)
+
+    - [翻译: ](2024年06月04日/Multiple_Choice_Questions_and_Large_Languages_Models_A_Case_Study_with_Fictional_Medical_Data.md)
+
+- [On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept](2024年06月04日/On_the_Intrinsic_Self-Correction_Capability_of_LLMs_Uncertainty_and_Latent_Concept.md)
+
+    - [翻译: ](2024年06月04日/On_the_Intrinsic_Self-Correction_Capability_of_LLMs_Uncertainty_and_Latent_Concept.md)
+
+- [XRec: Large Language Models for Explainable Recommendation](2024年06月04日/XRec_Large_Language_Models_for_Explainable_Recommendation.md)
+
+    - [翻译: ](2024年06月04日/XRec_Large_Language_Models_for_Explainable_Recommendation.md)
+
+- [Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs](2024年06月04日/Retaining_Key_Information_under_High_Compression_Ratios_Query-Guided_Compressor_for_LLMs.md)
+
+    - [翻译: ](2024年06月04日/Retaining_Key_Information_under_High_Compression_Ratios_Query-Guided_Compressor_for_LLMs.md)
+
+- [Large Language Models Make Sample-Efficient Recommender Systems](2024年06月04日/Large_Language_Models_Make_Sample-Efficient_Recommender_Systems.md)
+
+    - [翻译: ](2024年06月04日/Large_Language_Models_Make_Sample-Efficient_Recommender_Systems.md)
+
+- [Language Models Do Hard Arithmetic Tasks Easily and Hardly Do Easy Arithmetic Tasks](2024年06月04日/Language_Models_Do_Hard_Arithmetic_Tasks_Easily_and_Hardly_Do_Easy_Arithmetic_Tasks.md)
+
+    - [翻译: ](2024年06月04日/Language_Models_Do_Hard_Arithmetic_Tasks_Easily_and_Hardly_Do_Easy_Arithmetic_Tasks.md)
+
 2024年06月03日
 
 - [Superhuman performance in urology board questions by an explainable large language model enabled for context integration of the European Association of Urology guidelines: the UroBot study](2024年06月03日/Superhuman_performance_in_urology_board_questions_by_an_explainable_large_language_model_enabled_for_context_integration_of_the_European_Association_of_Urology_guidelines_the_UroBot_study.md)
@@ -537,6 +617,10 @@
 - [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](2024年06月02日/Teams_of_LLM_Agents_can_Exploit_Zero-Day_Vulnerabilities.md)
 
     - [翻译: LLM 代理团队具备利用零日漏洞的能力。](2024年06月02日/Teams_of_LLM_Agents_can_Exploit_Zero-Day_Vulnerabilities.md)
+
+- [Applying Fine-Tuned LLMs for Reducing Data Needs in Load Profile Analysis](2024年06月02日/Applying_Fine-Tuned_LLMs_for_Reducing_Data_Needs_in_Load_Profile_Analysis.md)
+
+    - [翻译: ](2024年06月02日/Applying_Fine-Tuned_LLMs_for_Reducing_Data_Needs_in_Load_Profile_Analysis.md)
 
 2024年06月01日
 
