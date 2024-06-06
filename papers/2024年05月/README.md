@@ -1172,6 +1172,10 @@
 
     - [翻译: 针对安全对齐的 LLMs，我们提升了对抗样本的生成技术。](2024年05月28日/Improved_Generation_of_Adversarial_Examples_Against_Safety-aligned_LLMs.md)
 
+- [The Impossibility of Fair LLMs](2024年05月28日/The_Impossibility_of_Fair_LLMs.md)
+
+    - [翻译: ](2024年05月28日/The_Impossibility_of_Fair_LLMs.md)
+
 2024年05月27日
 
 - [Large Language Models (LLMs): Deployment, Tokenomics and Sustainability](2024年05月27日/Large_Language_Models_(LLMs)_Deployment,_Tokenomics_and_Sustainability.md)
@@ -1947,6 +1951,10 @@
 - [Embedding-Aligned Language Models](2024年05月24日/Embedding-Aligned_Language_Models.md)
 
     - [翻译: 语言模型嵌入对齐](2024年05月24日/Embedding-Aligned_Language_Models.md)
+
+- [Bayesian WeakS-to-Strong from Text Classification to Generation](2024年05月24日/Bayesian_WeakS-to-Strong_from_Text_Classification_to_Generation.md)
+
+    - [翻译: ](2024年05月24日/Bayesian_WeakS-to-Strong_from_Text_Classification_to_Generation.md)
 
 2024年05月23日
 
