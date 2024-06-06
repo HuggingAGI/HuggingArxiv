@@ -178,6 +178,58 @@
 
     - [翻译: ](2024年06月05日/Wings_Learning_Multimodal_LLMs_without_Text-only_Forgetting.md)
 
+- [Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training](2024年06月05日/Seq1F1B_Efficient_Sequence-Level_Pipeline_Parallelism_for_Large_Language_Model_Training.md)
+
+    - [翻译: ](2024年06月05日/Seq1F1B_Efficient_Sequence-Level_Pipeline_Parallelism_for_Large_Language_Model_Training.md)
+
+- [Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends](2024年06月05日/Analyzing_LLM_Behavior_in_Dialogue_Summarization_Unveiling_Circumstantial_Hallucination_Trends.md)
+
+    - [翻译: ](2024年06月05日/Analyzing_LLM_Behavior_in_Dialogue_Summarization_Unveiling_Circumstantial_Hallucination_Trends.md)
+
+- [BIPED: Pedagogically Informed Tutoring System for ESL Education](2024年06月05日/BIPED_Pedagogically_Informed_Tutoring_System_for_ESL_Education.md)
+
+    - [翻译: ](2024年06月05日/BIPED_Pedagogically_Informed_Tutoring_System_for_ESL_Education.md)
+
+- [Does your data spark joy? Performance gains from domain upsampling at the end of training](2024年06月05日/Does_your_data_spark_joy_Performance_gains_from_domain_upsampling_at_the_end_of_training.md)
+
+    - [翻译: ](2024年06月05日/Does_your_data_spark_joy_Performance_gains_from_domain_upsampling_at_the_end_of_training.md)
+
+- [What is the Best Way for ChatGPT to Translate Poetry?](2024年06月05日/What_is_the_Best_Way_for_ChatGPT_to_Translate_Poetry.md)
+
+    - [翻译: ](2024年06月05日/What_is_the_Best_Way_for_ChatGPT_to_Translate_Poetry.md)
+
+- [Pre-trained Large Language Models Use Fourier Features to Compute Addition](2024年06月05日/Pre-trained_Large_Language_Models_Use_Fourier_Features_to_Compute_Addition.md)
+
+    - [翻译: ](2024年06月05日/Pre-trained_Large_Language_Models_Use_Fourier_Features_to_Compute_Addition.md)
+
+- [Cycles of Thought: Measuring LLM Confidence through Stable Explanations](2024年06月05日/Cycles_of_Thought_Measuring_LLM_Confidence_through_Stable_Explanations.md)
+
+    - [翻译: ](2024年06月05日/Cycles_of_Thought_Measuring_LLM_Confidence_through_Stable_Explanations.md)
+
+- [Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach](2024年06月05日/Interactive_Text-to-Image_Retrieval_with_Large_Language_Models_A_Plug-and-Play_Approach.md)
+
+    - [翻译: ](2024年06月05日/Interactive_Text-to-Image_Retrieval_with_Large_Language_Models_A_Plug-and-Play_Approach.md)
+
+- [Automating Turkish Educational Quiz Generation Using Large Language Models](2024年06月05日/Automating_Turkish_Educational_Quiz_Generation_Using_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月05日/Automating_Turkish_Educational_Quiz_Generation_Using_Large_Language_Models.md)
+
+- [Log Parsing with Self-Generated In-Context Learning and Self-Correction](2024年06月05日/Log_Parsing_with_Self-Generated_In-Context_Learning_and_Self-Correction.md)
+
+    - [翻译: ](2024年06月05日/Log_Parsing_with_Self-Generated_In-Context_Learning_and_Self-Correction.md)
+
+- [IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](2024年06月05日/IrokoBench_A_New_Benchmark_for_African_Languages_in_the_Age_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月05日/IrokoBench_A_New_Benchmark_for_African_Languages_in_the_Age_of_Large_Language_Models.md)
+
+- [CLMASP: Coupling Large Language Models with Answer Set Programming for Robotic Task Planning](2024年06月05日/CLMASP_Coupling_Large_Language_Models_with_Answer_Set_Programming_for_Robotic_Task_Planning.md)
+
+    - [翻译: ](2024年06月05日/CLMASP_Coupling_Large_Language_Models_with_Answer_Set_Programming_for_Robotic_Task_Planning.md)
+
+- [LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback](2024年06月05日/LLM-based_Rewriting_of_Inappropriate_Argumentation_using_Reinforcement_Learning_from_Machine_Feedback.md)
+
+    - [翻译: ](2024年06月05日/LLM-based_Rewriting_of_Inappropriate_Argumentation_using_Reinforcement_Learning_from_Machine_Feedback.md)
+
 2024年06月04日
 
 - [MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset](2024年06月04日/MARS_Benchmarking_the_Metaphysical_Reasoning_Abilities_of_Language_Models_with_a_Multi-task_Evaluation_Dataset.md)
@@ -447,6 +499,10 @@
 - [RATT: AThought Structure for Coherent and Correct LLMReasoning](2024年06月04日/RATT_AThought_Structure_for_Coherent_and_Correct_LLMReasoning.md)
 
     - [翻译: ](2024年06月04日/RATT_AThought_Structure_for_Coherent_and_Correct_LLMReasoning.md)
+
+- [ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation](2024年06月04日/ST-DPGAN_A_Privacy-preserving_Framework_for_Spatiotemporal_Data_Generation.md)
+
+    - [翻译: ](2024年06月04日/ST-DPGAN_A_Privacy-preserving_Framework_for_Spatiotemporal_Data_Generation.md)
 
 2024年06月03日
 
