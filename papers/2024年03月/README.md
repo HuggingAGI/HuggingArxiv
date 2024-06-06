@@ -70,6 +70,10 @@
 
     - [翻译: 通过多代理大型语言模型（LLMs）实现内容知识的精准识别。](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)
 
+- [BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP](2024年03月21日/BadCLIP_Trigger-Aware_Prompt_Learning_for_Backdoor_Attacks_on_CLIP.md)
+
+    - [翻译: ](2024年03月21日/BadCLIP_Trigger-Aware_Prompt_Learning_for_Backdoor_Attacks_on_CLIP.md)
+
 2024年03月20日
 
 - [AutoMix: Automatically Mixing Language Models](2024年03月20日/AutoMix_Automatically_Mixing_Language_Models.md)
@@ -99,6 +103,12 @@
 - [Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations](2024年03月15日/Transforming_Competition_into_Collaboration_The_Revolutionary_Role_of_Multi-Agent_Systems_and_Language_Models_in_Modern_Organizations.md)
 
     - [翻译: 将竞争转化为合作：多智能体系统与语言模型在现代组织中的革新性角色。](2024年03月15日/Transforming_Competition_into_Collaboration_The_Revolutionary_Role_of_Multi-Agent_Systems_and_Language_Models_in_Modern_Organizations.md)
+
+2024年03月14日
+
+- [Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks](2024年03月14日/Scaling_Behavior_of_Machine_Translation_with_Large_Language_Models_under_Prompt_Injection_Attacks.md)
+
+    - [翻译: ](2024年03月14日/Scaling_Behavior_of_Machine_Translation_with_Large_Language_Models_under_Prompt_Injection_Attacks.md)
 
 2024年03月12日
 
@@ -133,6 +143,16 @@
 - [Exploring the psychology of LLMs' Moral and Legal Reasoning](2024年03月04日/Exploring_the_psychology_of_LLMs'_Moral_and_Legal_Reasoning.md)
 
     - [翻译: 本研究旨在深入探讨大型语言模型在道德和法律推理方面的心理学机制。](2024年03月04日/Exploring_the_psychology_of_LLMs'_Moral_and_Legal_Reasoning.md)
+
+2024年03月02日
+
+- [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
+
+    - [翻译: ](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
+
+- [Prompt Injection attack against LLM-integrated Applications](2024年03月02日/Prompt_Injection_attack_against_LLM-integrated_Applications.md)
+
+    - [翻译: ](2024年03月02日/Prompt_Injection_attack_against_LLM-integrated_Applications.md)
 
 2024年03月01日
 

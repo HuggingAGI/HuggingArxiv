@@ -124,6 +124,10 @@
 
     - [翻译: AIR-Bench：通过创造性理解对大型音频-语言模型进行性能评估。](2024年02月12日/AIR-Bench_Benchmarking_Large_Audio-Language_Models_via_Generative_Comprehension.md)
 
+- [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
+
 2024年02月10日
 
 - [OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning](2024年02月10日/OpenFedLLM_Training_Large_Language_Models_on_Decentralized_Private_Data_via_Federated_Learning.md)
@@ -145,6 +149,10 @@
 - [RedCoast: A Lightweight Tool to Automate Distributed Training of LLMs on Any GPU/TPUs](2024年02月08日/RedCoast_A_Lightweight_Tool_to_Automate_Distributed_Training_of_LLMs_on_Any_GPUTPUs.md)
 
     - [翻译: RedCoast：一款轻量级工具，旨在简化在各种 GPU 或 TPU 上进行大型语言模型的分布式训练过程。](2024年02月08日/RedCoast_A_Lightweight_Tool_to_Automate_Distributed_Training_of_LLMs_on_Any_GPUTPUs.md)
+
+- [In-Context Learning Can Re-learn Forbidden Tasks](2024年02月08日/In-Context_Learning_Can_Re-learn_Forbidden_Tasks.md)
+
+    - [翻译: ](2024年02月08日/In-Context_Learning_Can_Re-learn_Forbidden_Tasks.md)
 
 2024年02月06日
 

@@ -12,6 +12,12 @@
 
     - [翻译: 基础模型透明度指标](2023年10月19日/The_Foundation_Model_Transparency_Index.md)
 
+2023年10月17日
+
+- [Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning](2023年10月17日/Last_One_Standing_A_Comparative_Analysis_of_Security_and_Privacy_of_Soft_Prompt_Tuning,_LoRA,_and_In-Context_Learning.md)
+
+    - [翻译: ](2023年10月17日/Last_One_Standing_A_Comparative_Analysis_of_Security_and_Privacy_of_Soft_Prompt_Tuning,_LoRA,_and_In-Context_Learning.md)
+
 2023年10月16日
 
 - [Opportunities and Challenges for ChatGPT and Large Language Models in Biomedicine and Health](2023年10月16日/Opportunities_and_Challenges_for_ChatGPT_and_Large_Language_Models_in_Biomedicine_and_Health.md)

@@ -1,5 +1,11 @@
 # 2023年11月
 
+2023年11月24日
+
+- [Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection](2023年11月24日/Evaluating_the_Instruction-Following_Robustness_of_Large_Language_Models_to_Prompt_Injection.md)
+
+    - [翻译: ](2023年11月24日/Evaluating_the_Instruction-Following_Robustness_of_Large_Language_Models_to_Prompt_Injection.md)
+
 2023年11月20日
 
 - [A Survey on Large Language Models for Personalized and Explainable Recommendations](2023年11月20日/A_Survey_on_Large_Language_Models_for_Personalized_and_Explainable_Recommendations.md)
