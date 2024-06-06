@@ -60,6 +60,10 @@
 
     - [翻译: 教育领域中的生成式AI：探究教育者对其认知、情感态度及影响因素的研究](2024年03月22日/Generative_AI_in_Education_A_Study_of_Educators'_Awareness,_Sentiments,_and_Influencing_Factors.md)
 
+- [Hear Me, See Me, Understand Me: Audio-Visual Autism Behavior Recognition](2024年03月22日/Hear_Me,_See_Me,_Understand_Me_Audio-Visual_Autism_Behavior_Recognition.md)
+
+    - [翻译: ](2024年03月22日/Hear_Me,_See_Me,_Understand_Me_Audio-Visual_Autism_Behavior_Recognition.md)
+
 2024年03月21日
 
 - [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](2024年03月21日/Content_Knowledge_Identification_with_Multi-Agent_Large_Language_Models_(LLMs).md)

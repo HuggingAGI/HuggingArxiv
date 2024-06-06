@@ -1,5 +1,35 @@
 # 2024年06月
 
+2024年06月05日
+
+- [The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games](2024年06月05日/The_Good,_the_Bad,_and_the_Hulk-like_GPT_Analyzing_Emotional_Decisions_of_Large_Language_Models_in_Cooperation_and_Bargaining_Games.md)
+
+    - [翻译: ](2024年06月05日/The_Good,_the_Bad,_and_the_Hulk-like_GPT_Analyzing_Emotional_Decisions_of_Large_Language_Models_in_Cooperation_and_Bargaining_Games.md)
+
+- [Identification of Stone Deterioration Patterns with Large Multimodal Models](2024年06月05日/Identification_of_Stone_Deterioration_Patterns_with_Large_Multimodal_Models.md)
+
+    - [翻译: ](2024年06月05日/Identification_of_Stone_Deterioration_Patterns_with_Large_Multimodal_Models.md)
+
+- [Foundation Models for Geophysics: Reviews and Perspectives](2024年06月05日/Foundation_Models_for_Geophysics_Reviews_and_Perspectives.md)
+
+    - [翻译: ](2024年06月05日/Foundation_Models_for_Geophysics_Reviews_and_Perspectives.md)
+
+- [Exploiting LMM-based knowledge for image classification tasks](2024年06月05日/Exploiting_LMM-based_knowledge_for_image_classification_tasks.md)
+
+    - [翻译: ](2024年06月05日/Exploiting_LMM-based_knowledge_for_image_classification_tasks.md)
+
+- [Enhancing Multimodal Large Language Models with Multi-instance Visual Prompt Generator for Visual Representation Enrichment](2024年06月05日/Enhancing_Multimodal_Large_Language_Models_with_Multi-instance_Visual_Prompt_Generator_for_Visual_Representation_Enrichment.md)
+
+    - [翻译: ](2024年06月05日/Enhancing_Multimodal_Large_Language_Models_with_Multi-instance_Visual_Prompt_Generator_for_Visual_Representation_Enrichment.md)
+
+- [Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models](2024年06月05日/Docs2KG_Unified_Knowledge_Graph_Construction_from_Heterogeneous_Documents_Assisted_by_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月05日/Docs2KG_Unified_Knowledge_Graph_Construction_from_Heterogeneous_Documents_Assisted_by_Large_Language_Models.md)
+
+- [ChatDev: Communicative Agents for Software Development](2024年06月05日/ChatDev_Communicative_Agents_for_Software_Development.md)
+
+    - [翻译: ](2024年06月05日/ChatDev_Communicative_Agents_for_Software_Development.md)
+
 2024年06月04日
 
 - [MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset](2024年06月04日/MARS_Benchmarking_the_Metaphysical_Reasoning_Abilities_of_Language_Models_with_a_Multi-task_Evaluation_Dataset.md)
@@ -715,3 +745,7 @@
 - [Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation](2024年06月01日/Mix-of-Granularity_Optimize_the_Chunking_Granularity_for_Retrieval-Augmented_Generation.md)
 
     - [翻译: 粒度混合优化：提升检索增强生成中的分块效率](2024年06月01日/Mix-of-Granularity_Optimize_the_Chunking_Granularity_for_Retrieval-Augmented_Generation.md)
+
+- [Multimodal Deep Learning for Low-Resource Settings: A Vector Embedding Alignment Approach for Healthcare Applications](2024年06月01日/Multimodal_Deep_Learning_for_Low-Resource_Settings_A_Vector_Embedding_Alignment_Approach_for_Healthcare_Applications.md)
+
+    - [翻译: ](2024年06月01日/Multimodal_Deep_Learning_for_Low-Resource_Settings_A_Vector_Embedding_Alignment_Approach_for_Healthcare_Applications.md)
