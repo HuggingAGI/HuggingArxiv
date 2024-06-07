@@ -1,5 +1,23 @@
 # 2024年06月
 
+2024年06月06日
+
+- [AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](2024年06月06日/AgentGym_Evolving_Large_Language_Model-based_Agents_across_Diverse_Environments.md)
+
+    - [翻译: ](2024年06月06日/AgentGym_Evolving_Large_Language_Model-based_Agents_across_Diverse_Environments.md)
+
+- [A Survey of Language-Based Communication in Robotics](2024年06月06日/A_Survey_of_Language-Based_Communication_in_Robotics.md)
+
+    - [翻译: ](2024年06月06日/A_Survey_of_Language-Based_Communication_in_Robotics.md)
+
+- [BLSP-Emo: Towards Empathetic Large Speech-Language Models](2024年06月06日/BLSP-Emo_Towards_Empathetic_Large_Speech-Language_Models.md)
+
+    - [翻译: ](2024年06月06日/BLSP-Emo_Towards_Empathetic_Large_Speech-Language_Models.md)
+
+- [MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition](2024年06月06日/MuJo_Multimodal_Joint_Feature_Space_Learning_for_Human_Activity_Recognition.md)
+
+    - [翻译: ](2024年06月06日/MuJo_Multimodal_Joint_Feature_Space_Learning_for_Human_Activity_Recognition.md)
+
 2024年06月05日
 
 - [The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games](2024年06月05日/The_Good,_the_Bad,_and_the_Hulk-like_GPT_Analyzing_Emotional_Decisions_of_Large_Language_Models_in_Cooperation_and_Bargaining_Games.md)
