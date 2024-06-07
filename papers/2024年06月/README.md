@@ -190,6 +190,86 @@
 
     - [翻译: ](2024年06月06日/Morpho-Photometric_Classification_of_KiDS_DR5_Sources_Based_on_Neural_Networks_A_Comprehensive_Star-Quasar-Galaxy_Catalog.md)
 
+- [Verbalized Machine Learning: Revisiting Machine Learning with Language Models](2024年06月06日/Verbalized_Machine_Learning_Revisiting_Machine_Learning_with_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Verbalized_Machine_Learning_Revisiting_Machine_Learning_with_Language_Models.md)
+
+- [Learning 1D Causal Visual Representation with De-focus Attention Networks](2024年06月06日/Learning_1D_Causal_Visual_Representation_with_De-focus_Attention_Networks.md)
+
+    - [翻译: ](2024年06月06日/Learning_1D_Causal_Visual_Representation_with_De-focus_Attention_Networks.md)
+
+- [Coherent Zero-Shot Visual Instruction Generation](2024年06月06日/Coherent_Zero-Shot_Visual_Instruction_Generation.md)
+
+    - [翻译: ](2024年06月06日/Coherent_Zero-Shot_Visual_Instruction_Generation.md)
+
+- [PaCE: Parsimonious Concept Engineering for Large Language Models](2024年06月06日/PaCE_Parsimonious_Concept_Engineering_for_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/PaCE_Parsimonious_Concept_Engineering_for_Large_Language_Models.md)
+
+- [ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](2024年06月06日/ShareGPT4Video_Improving_Video_Understanding_and_Generation_with_Better_Captions.md)
+
+    - [翻译: ](2024年06月06日/ShareGPT4Video_Improving_Video_Understanding_and_Generation_with_Better_Captions.md)
+
+- [Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step](2024年06月06日/Step-aware_Preference_Optimization_Aligning_Preference_with_Denoising_Performance_at_Each_Step.md)
+
+    - [翻译: ](2024年06月06日/Step-aware_Preference_Optimization_Aligning_Preference_with_Denoising_Performance_at_Each_Step.md)
+
+- [Semantically Diverse Language Generation for Uncertainty Estimation in Language Models](2024年06月06日/Semantically_Diverse_Language_Generation_for_Uncertainty_Estimation_in_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Semantically_Diverse_Language_Generation_for_Uncertainty_Estimation_in_Language_Models.md)
+
+- [Quixer: A Quantum Transformer Model](2024年06月06日/Quixer_A_Quantum_Transformer_Model.md)
+
+    - [翻译: ](2024年06月06日/Quixer_A_Quantum_Transformer_Model.md)
+
+- [Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models](2024年06月06日/Text-to-Drive_Diverse_Driving_Behavior_Synthesis_via_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Text-to-Drive_Diverse_Driving_Behavior_Synthesis_via_Large_Language_Models.md)
+
+- [What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages](2024年06月06日/What_Languages_are_Easy_to_Language-Model_A_Perspective_from_Learning_Probabilistic_Regular_Languages.md)
+
+    - [翻译: ](2024年06月06日/What_Languages_are_Easy_to_Language-Model_A_Perspective_from_Learning_Probabilistic_Regular_Languages.md)
+
+- [Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People](2024年06月06日/Characterizing_Similarities_and_Divergences_in_Conversational_Tones_in_Humans_and_LLMs_by_Sampling_with_People.md)
+
+    - [翻译: ](2024年06月06日/Characterizing_Similarities_and_Divergences_in_Conversational_Tones_in_Humans_and_LLMs_by_Sampling_with_People.md)
+
+- [Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks](2024年06月06日/Generative_AI-in-the-loop_Integrating_LLMs_and_GPTs_into_the_Next_Generation_Networks.md)
+
+    - [翻译: ](2024年06月06日/Generative_AI-in-the-loop_Integrating_LLMs_and_GPTs_into_the_Next_Generation_Networks.md)
+
+- [Self-Play with Adversarial Critic: Provable and Scalable Offline Alignment for Language Models](2024年06月06日/Self-Play_with_Adversarial_Critic_Provable_and_Scalable_Offline_Alignment_for_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Self-Play_with_Adversarial_Critic_Provable_and_Scalable_Offline_Alignment_for_Language_Models.md)
+
+- [Transformers need glasses! Information over-squashing in language tasks](2024年06月06日/Transformers_need_glasses!_Information_over-squashing_in_language_tasks.md)
+
+    - [翻译: ](2024年06月06日/Transformers_need_glasses!_Information_over-squashing_in_language_tasks.md)
+
+- [A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation](2024年06月06日/A_Survey_on_3D_Human_Avatar_Modeling_--_From_Reconstruction_to_Generation.md)
+
+    - [翻译: ](2024年06月06日/A_Survey_on_3D_Human_Avatar_Modeling_--_From_Reconstruction_to_Generation.md)
+
+- [Benchmark Data Contamination of Large Language Models: A Survey](2024年06月06日/Benchmark_Data_Contamination_of_Large_Language_Models_A_Survey.md)
+
+    - [翻译: ](2024年06月06日/Benchmark_Data_Contamination_of_Large_Language_Models_A_Survey.md)
+
+- [Understanding Information Storage and Transfer in Multi-modal Large Language Models](2024年06月06日/Understanding_Information_Storage_and_Transfer_in_Multi-modal_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Understanding_Information_Storage_and_Transfer_in_Multi-modal_Large_Language_Models.md)
+
+- [BEADs: Bias Evaluation Across Domains](2024年06月06日/BEADs_Bias_Evaluation_Across_Domains.md)
+
+    - [翻译: ](2024年06月06日/BEADs_Bias_Evaluation_Across_Domains.md)
+
+- [What Do Language Models Learn in Context? The Structured Task Hypothesis](2024年06月06日/What_Do_Language_Models_Learn_in_Context_The_Structured_Task_Hypothesis.md)
+
+    - [翻译: ](2024年06月06日/What_Do_Language_Models_Learn_in_Context_The_Structured_Task_Hypothesis.md)
+
+- [ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models](2024年06月06日/ValueBench_Towards_Comprehensively_Evaluating_Value_Orientations_and_Understanding_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/ValueBench_Towards_Comprehensively_Evaluating_Value_Orientations_and_Understanding_of_Large_Language_Models.md)
+
 2024年06月05日
 
 - [The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games](2024年06月05日/The_Good,_the_Bad,_and_the_Hulk-like_GPT_Analyzing_Emotional_Decisions_of_Large_Language_Models_in_Cooperation_and_Bargaining_Games.md)
