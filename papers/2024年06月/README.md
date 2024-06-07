@@ -18,6 +18,178 @@
 
     - [翻译: ](2024年06月06日/MuJo_Multimodal_Joint_Feature_Space_Learning_for_Human_Activity_Recognition.md)
 
+- [Legal Documents Drafting with Fine-Tuned Pre-Trained Large Language Model](2024年06月06日/Legal_Documents_Drafting_with_Fine-Tuned_Pre-Trained_Large_Language_Model.md)
+
+    - [翻译: ](2024年06月06日/Legal_Documents_Drafting_with_Fine-Tuned_Pre-Trained_Large_Language_Model.md)
+
+- [DICE: Detecting In-distribution Contamination in LLM's Fine-tuning Phase for Math Reasoning](2024年06月06日/DICE_Detecting_In-distribution_Contamination_in_LLM's_Fine-tuning_Phase_for_Math_Reasoning.md)
+
+    - [翻译: ](2024年06月06日/DICE_Detecting_In-distribution_Contamination_in_LLM's_Fine-tuning_Phase_for_Math_Reasoning.md)
+
+- [Confabulation: The Surprising Value of Large Language Model Hallucinations](2024年06月06日/Confabulation_The_Surprising_Value_of_Large_Language_Model_Hallucinations.md)
+
+    - [翻译: ](2024年06月06日/Confabulation_The_Surprising_Value_of_Large_Language_Model_Hallucinations.md)
+
+- [Pointer-Guided Pre-Training: Infusing Large Language Models with Paragraph-Level Contextual Awareness](2024年06月06日/Pointer-Guided_Pre-Training_Infusing_Large_Language_Models_with_Paragraph-Level_Contextual_Awareness.md)
+
+    - [翻译: ](2024年06月06日/Pointer-Guided_Pre-Training_Infusing_Large_Language_Models_with_Paragraph-Level_Contextual_Awareness.md)
+
+- [Every Answer Matters: Evaluating Commonsense with Probabilistic Measures](2024年06月06日/Every_Answer_Matters_Evaluating_Commonsense_with_Probabilistic_Measures.md)
+
+    - [翻译: ](2024年06月06日/Every_Answer_Matters_Evaluating_Commonsense_with_Probabilistic_Measures.md)
+
+- [Do Language Models Understand Morality? Towards a Robust Detection of Moral Content](2024年06月06日/Do_Language_Models_Understand_Morality_Towards_a_Robust_Detection_of_Moral_Content.md)
+
+    - [翻译: ](2024年06月06日/Do_Language_Models_Understand_Morality_Towards_a_Robust_Detection_of_Moral_Content.md)
+
+- [STraDa: A Singer Traits Dataset](2024年06月06日/STraDa_A_Singer_Traits_Dataset.md)
+
+    - [翻译: ](2024年06月06日/STraDa_A_Singer_Traits_Dataset.md)
+
+- [Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts](2024年06月06日/Legal_Judgment_Reimagined_PredEx_and_the_Rise_of_Intelligent_AI_Interpretation_in_Indian_Courts.md)
+
+    - [翻译: ](2024年06月06日/Legal_Judgment_Reimagined_PredEx_and_the_Rise_of_Intelligent_AI_Interpretation_in_Indian_Courts.md)
+
+- [Uncovering Limitations of Large Language Models in Information Seeking from Tables](2024年06月06日/Uncovering_Limitations_of_Large_Language_Models_in_Information_Seeking_from_Tables.md)
+
+    - [翻译: ](2024年06月06日/Uncovering_Limitations_of_Large_Language_Models_in_Information_Seeking_from_Tables.md)
+
+- [Scaling and evaluating sparse autoencoders](2024年06月06日/Scaling_and_evaluating_sparse_autoencoders.md)
+
+    - [翻译: ](2024年06月06日/Scaling_and_evaluating_sparse_autoencoders.md)
+
+- [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](2024年06月06日/Federated_TrustChain_Blockchain-Enhanced_LLM_Training_and_Unlearning.md)
+
+    - [翻译: ](2024年06月06日/Federated_TrustChain_Blockchain-Enhanced_LLM_Training_and_Unlearning.md)
+
+- [Ask LLMs Directly, "What shapes your bias?": Measuring Social Bias in Large Language Models](2024年06月06日/Ask_LLMs_Directly,_What_shapes_your_bias_Measuring_Social_Bias_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Ask_LLMs_Directly,_What_shapes_your_bias_Measuring_Social_Bias_in_Large_Language_Models.md)
+
+- [ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints](2024年06月06日/ActionReasoningBench_Reasoning_about_Actions_with_and_without_Ramification_Constraints.md)
+
+    - [翻译: ](2024年06月06日/ActionReasoningBench_Reasoning_about_Actions_with_and_without_Ramification_Constraints.md)
+
+- [Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](2024年06月06日/Jailbreak_Vision_Language_Models_via_Bi-Modal_Adversarial_Prompt.md)
+
+    - [翻译: ](2024年06月06日/Jailbreak_Vision_Language_Models_via_Bi-Modal_Adversarial_Prompt.md)
+
+- [Assessing LLMs for Zero-shot Abstractive Summarization Through the Lens of Relevance Paraphrasing](2024年06月06日/Assessing_LLMs_for_Zero-shot_Abstractive_Summarization_Through_the_Lens_of_Relevance_Paraphrasing.md)
+
+    - [翻译: ](2024年06月06日/Assessing_LLMs_for_Zero-shot_Abstractive_Summarization_Through_the_Lens_of_Relevance_Paraphrasing.md)
+
+- [On The Persona-based Summarization of Domain-Specific Documents](2024年06月06日/On_The_Persona-based_Summarization_of_Domain-Specific_Documents.md)
+
+    - [翻译: ](2024年06月06日/On_The_Persona-based_Summarization_of_Domain-Specific_Documents.md)
+
+- [A + B: A General Generator-Reader Framework for Optimizing LLMs to Unleash Synergy Potential](2024年06月06日/A_+_B_A_General_Generator-Reader_Framework_for_Optimizing_LLMs_to_Unleash_Synergy_Potential.md)
+
+    - [翻译: ](2024年06月06日/A_+_B_A_General_Generator-Reader_Framework_for_Optimizing_LLMs_to_Unleash_Synergy_Potential.md)
+
+- [UltraMedical: Building Specialized Generalists in Biomedicine](2024年06月06日/UltraMedical_Building_Specialized_Generalists_in_Biomedicine.md)
+
+    - [翻译: ](2024年06月06日/UltraMedical_Building_Specialized_Generalists_in_Biomedicine.md)
+
+- [HeSum: a Novel Dataset for Abstractive Text Summarization in Hebrew](2024年06月06日/HeSum_a_Novel_Dataset_for_Abstractive_Text_Summarization_in_Hebrew.md)
+
+    - [翻译: ](2024年06月06日/HeSum_a_Novel_Dataset_for_Abstractive_Text_Summarization_in_Hebrew.md)
+
+- [Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models](2024年06月06日/Spontaneous_Speech-Based_Suicide_Risk_Detection_Using_Whisper_and_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Spontaneous_Speech-Based_Suicide_Risk_Detection_Using_Whisper_and_Large_Language_Models.md)
+
+- [LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model](2024年06月06日/LLplace_The_3D_Indoor_Scene_Layout_Generation_and_Editing_via_Large_Language_Model.md)
+
+    - [翻译: ](2024年06月06日/LLplace_The_3D_Indoor_Scene_Layout_Generation_and_Editing_via_Large_Language_Model.md)
+
+- [Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As](2024年06月06日/Performance_of_large_language_models_in_numerical_vs._semantic_medical_knowledge_Benchmarking_on_evidence-based_Q&As.md)
+
+    - [翻译: ](2024年06月06日/Performance_of_large_language_models_in_numerical_vs._semantic_medical_knowledge_Benchmarking_on_evidence-based_Q&As.md)
+
+- [Speculative Decoding via Early-exiting for Faster LLM Inference with Thompson Sampling Control Mechanism](2024年06月06日/Speculative_Decoding_via_Early-exiting_for_Faster_LLM_Inference_with_Thompson_Sampling_Control_Mechanism.md)
+
+    - [翻译: ](2024年06月06日/Speculative_Decoding_via_Early-exiting_for_Faster_LLM_Inference_with_Thompson_Sampling_Control_Mechanism.md)
+
+- [Lean Workbook: A large-scale Lean problem set formalized from natural language math problems](2024年06月06日/Lean_Workbook_A_large-scale_Lean_problem_set_formalized_from_natural_language_math_problems.md)
+
+    - [翻译: ](2024年06月06日/Lean_Workbook_A_large-scale_Lean_problem_set_formalized_from_natural_language_math_problems.md)
+
+- [POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models](2024年06月06日/POEM_Interactive_Prompt_Optimization_for_Enhancing_Multimodal_Reasoning_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/POEM_Interactive_Prompt_Optimization_for_Enhancing_Multimodal_Reasoning_of_Large_Language_Models.md)
+
+- [PCART: Automated Repair of Python API Parameter Compatibility Issues](2024年06月06日/PCART_Automated_Repair_of_Python_API_Parameter_Compatibility_Issues.md)
+
+    - [翻译: ](2024年06月06日/PCART_Automated_Repair_of_Python_API_Parameter_Compatibility_Issues.md)
+
+- [Chaos with Keywords: Exposing Large Language Models Sycophancy to Misleading Keywords and Evaluating Defense Strategies](2024年06月06日/Chaos_with_Keywords_Exposing_Large_Language_Models_Sycophancy_to_Misleading_Keywords_and_Evaluating_Defense_Strategies.md)
+
+    - [翻译: ](2024年06月06日/Chaos_with_Keywords_Exposing_Large_Language_Models_Sycophancy_to_Misleading_Keywords_and_Evaluating_Defense_Strategies.md)
+
+- [Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering](2024年06月06日/Tool-Planner_Dynamic_Solution_Tree_Planning_for_Large_Language_Model_with_Tool_Clustering.md)
+
+    - [翻译: ](2024年06月06日/Tool-Planner_Dynamic_Solution_Tree_Planning_for_Large_Language_Model_with_Tool_Clustering.md)
+
+- [AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens](2024年06月06日/AutoJailbreak_Exploring_Jailbreak_Attacks_and_Defenses_through_a_Dependency_Lens.md)
+
+    - [翻译: ](2024年06月06日/AutoJailbreak_Exploring_Jailbreak_Attacks_and_Defenses_through_a_Dependency_Lens.md)
+
+- [Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning](2024年06月06日/Light-PEFT_Lightening_Parameter-Efficient_Fine-Tuning_via_Early_Pruning.md)
+
+    - [翻译: ](2024年06月06日/Light-PEFT_Lightening_Parameter-Efficient_Fine-Tuning_via_Early_Pruning.md)
+
+- [Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices](2024年06月06日/Empirical_Guidelines_for_Deploying_LLMs_onto_Resource-constrained_Edge_Devices.md)
+
+    - [翻译: ](2024年06月06日/Empirical_Guidelines_for_Deploying_LLMs_onto_Resource-constrained_Edge_Devices.md)
+
+- [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](2024年06月06日/XL-HeadTags_Leveraging_Multimodal_Retrieval_Augmentation_for_the_Multilingual_Generation_of_News_Headlines_and_Tags.md)
+
+    - [翻译: ](2024年06月06日/XL-HeadTags_Leveraging_Multimodal_Retrieval_Augmentation_for_the_Multilingual_Generation_of_News_Headlines_and_Tags.md)
+
+- [Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective](2024年06月06日/Enhancing_In-Context_Learning_Performance_with_just_SVD-Based_Weight_Pruning_A_Theoretical_Perspective.md)
+
+    - [翻译: ](2024年06月06日/Enhancing_In-Context_Learning_Performance_with_just_SVD-Based_Weight_Pruning_A_Theoretical_Perspective.md)
+
+- [RoboCoder: Robotic Learning from Basic Skills to General Tasks with Large Language Models](2024年06月06日/RoboCoder_Robotic_Learning_from_Basic_Skills_to_General_Tasks_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/RoboCoder_Robotic_Learning_from_Basic_Skills_to_General_Tasks_with_Large_Language_Models.md)
+
+- [VisLTR: Visualization-in-the-Loop Table Reasoning](2024年06月06日/VisLTR_Visualization-in-the-Loop_Table_Reasoning.md)
+
+    - [翻译: ](2024年06月06日/VisLTR_Visualization-in-the-Loop_Table_Reasoning.md)
+
+- [NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human](2024年06月06日/NAP^2_A_Benchmark_for_Naturalness_and_Privacy-Preserving_Text_Rewriting_by_Learning_from_Human.md)
+
+    - [翻译: ](2024年06月06日/NAP^2_A_Benchmark_for_Naturalness_and_Privacy-Preserving_Text_Rewriting_by_Learning_from_Human.md)
+
+- [Efficient Knowledge Infusion via KG-LLM Alignment](2024年06月06日/Efficient_Knowledge_Infusion_via_KG-LLM_Alignment.md)
+
+    - [翻译: ](2024年06月06日/Efficient_Knowledge_Infusion_via_KG-LLM_Alignment.md)
+
+- [FastGAS: Fast Graph-based Annotation Selection for In-Context Learning](2024年06月06日/FastGAS_Fast_Graph-based_Annotation_Selection_for_In-Context_Learning.md)
+
+    - [翻译: ](2024年06月06日/FastGAS_Fast_Graph-based_Annotation_Selection_for_In-Context_Learning.md)
+
+- [Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](2024年06月06日/Buffer_of_Thoughts_Thought-Augmented_Reasoning_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Buffer_of_Thoughts_Thought-Augmented_Reasoning_with_Large_Language_Models.md)
+
+- [Aligning Agents like Large Language Models](2024年06月06日/Aligning_Agents_like_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月06日/Aligning_Agents_like_Large_Language_Models.md)
+
+- [RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation](2024年06月06日/RoboMamba_Multimodal_State_Space_Model_for_Efficient_Robot_Reasoning_and_Manipulation.md)
+
+    - [翻译: ](2024年06月06日/RoboMamba_Multimodal_State_Space_Model_for_Efficient_Robot_Reasoning_and_Manipulation.md)
+
+- [DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs](2024年06月06日/DeepStack_Deeply_Stacking_Visual_Tokens_is_Surprisingly_Simple_and_Effective_for_LMMs.md)
+
+    - [翻译: ](2024年06月06日/DeepStack_Deeply_Stacking_Visual_Tokens_is_Surprisingly_Simple_and_Effective_for_LMMs.md)
+
+- [Morpho-Photometric Classification of KiDS DR5 Sources Based on Neural Networks: A Comprehensive Star-Quasar-Galaxy Catalog](2024年06月06日/Morpho-Photometric_Classification_of_KiDS_DR5_Sources_Based_on_Neural_Networks_A_Comprehensive_Star-Quasar-Galaxy_Catalog.md)
+
+    - [翻译: ](2024年06月06日/Morpho-Photometric_Classification_of_KiDS_DR5_Sources_Based_on_Neural_Networks_A_Comprehensive_Star-Quasar-Galaxy_Catalog.md)
+
 2024年06月05日
 
 - [The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games](2024年06月05日/The_Good,_the_Bad,_and_the_Hulk-like_GPT_Analyzing_Emotional_Decisions_of_Large_Language_Models_in_Cooperation_and_Bargaining_Games.md)
@@ -247,6 +419,46 @@
 - [LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback](2024年06月05日/LLM-based_Rewriting_of_Inappropriate_Argumentation_using_Reinforcement_Learning_from_Machine_Feedback.md)
 
     - [翻译: ](2024年06月05日/LLM-based_Rewriting_of_Inappropriate_Argumentation_using_Reinforcement_Learning_from_Machine_Feedback.md)
+
+- [LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification](2024年06月05日/LLMEmbed_Rethinking_Lightweight_LLM's_Genuine_Function_in_Text_Classification.md)
+
+    - [翻译: ](2024年06月05日/LLMEmbed_Rethinking_Lightweight_LLM's_Genuine_Function_in_Text_Classification.md)
+
+- [Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning](2024年06月05日/Generalization-Enhanced_Code_Vulnerability_Detection_via_Multi-Task_Instruction_Fine-Tuning.md)
+
+    - [翻译: ](2024年06月05日/Generalization-Enhanced_Code_Vulnerability_Detection_via_Multi-Task_Instruction_Fine-Tuning.md)
+
+- [Retrieval Augmented Generation in Prompt-based Text-to-Speech Synthesis with Context-Aware Contrastive Language-Audio Pretraining](2024年06月05日/Retrieval_Augmented_Generation_in_Prompt-based_Text-to-Speech_Synthesis_with_Context-Aware_Contrastive_Language-Audio_Pretraining.md)
+
+    - [翻译: ](2024年06月05日/Retrieval_Augmented_Generation_in_Prompt-based_Text-to-Speech_Synthesis_with_Context-Aware_Contrastive_Language-Audio_Pretraining.md)
+
+- [A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](2024年06月05日/A_Survey_on_Medical_Large_Language_Models_Technology,_Application,_Trustworthiness,_and_Future_Directions.md)
+
+    - [翻译: ](2024年06月05日/A_Survey_on_Medical_Large_Language_Models_Technology,_Application,_Trustworthiness,_and_Future_Directions.md)
+
+- [What Should Embeddings Embed? Autoregressive Models Represent Latent Generating Distributions](2024年06月05日/What_Should_Embeddings_Embed_Autoregressive_Models_Represent_Latent_Generating_Distributions.md)
+
+    - [翻译: ](2024年06月05日/What_Should_Embeddings_Embed_Autoregressive_Models_Represent_Latent_Generating_Distributions.md)
+
+- [Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model](2024年06月05日/Improving_Audio_Codec-based_Zero-Shot_Text-to-Speech_Synthesis_with_Multi-Modal_Context_and_Large_Language_Model.md)
+
+    - [翻译: ](2024年06月05日/Improving_Audio_Codec-based_Zero-Shot_Text-to-Speech_Synthesis_with_Multi-Modal_Context_and_Large_Language_Model.md)
+
+- [Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction](2024年06月05日/Recognizing_Everything_from_All_Modalities_at_Once_Grounded_Multimodal_Universal_Information_Extraction.md)
+
+    - [翻译: ](2024年06月05日/Recognizing_Everything_from_All_Modalities_at_Once_Grounded_Multimodal_Universal_Information_Extraction.md)
+
+- [M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering](2024年06月05日/M-QALM_A_Benchmark_to_Assess_Clinical_Reading_Comprehension_and_Knowledge_Recall_in_Large_Language_Models_via_Question_Answering.md)
+
+    - [翻译: ](2024年06月05日/M-QALM_A_Benchmark_to_Assess_Clinical_Reading_Comprehension_and_Knowledge_Recall_in_Large_Language_Models_via_Question_Answering.md)
+
+- [Evaluating Durability: Benchmark Insights into Multimodal Watermarking](2024年06月05日/Evaluating_Durability_Benchmark_Insights_into_Multimodal_Watermarking.md)
+
+    - [翻译: ](2024年06月05日/Evaluating_Durability_Benchmark_Insights_into_Multimodal_Watermarking.md)
+
+- [Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification](2024年06月05日/Shadow_and_Light_Digitally_Reconstructed_Radiographs_for_Disease_Classification.md)
+
+    - [翻译: ](2024年06月05日/Shadow_and_Light_Digitally_Reconstructed_Radiographs_for_Disease_Classification.md)
 
 2024年06月04日
 
