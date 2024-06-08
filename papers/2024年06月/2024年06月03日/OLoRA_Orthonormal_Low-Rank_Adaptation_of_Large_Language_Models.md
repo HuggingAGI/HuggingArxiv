@@ -4,13 +4,13 @@
 
 `LLM理论
 
-这篇论文主要探讨了大型语言模型（LLMs）的微调技术，特别是介绍了OLoRA这一改进的低秩适应（LoRA）方法。论文通过引入QR分解实现正交矩阵初始化，提高了训练收敛速度，并保持了LoRA的效率优势。这种对LLM微调技术的理论改进和实证研究，属于LLM理论的范畴，因为它关注的是模型训练和优化的理论方法，而不是直接的应用或Agent行为。` `机器学习`
+理由：这篇论文主要探讨了大型语言模型（LLMs）的微调技术，特别是介绍了OLoRA这一改进方法，它通过QR分解实现正交矩阵初始化，以加速训练收敛并减少可训练参数和GPU内存使用。这种对LLM微调技术的深入研究和改进属于理论层面的探讨，因为它涉及模型训练的优化方法和理论基础，而不是直接的应用或Agent行为。因此，将其归类为LLM理论是合适的。` `机器学习`
 
 > OLoRA: Orthonormal Low-Rank Adaptation of Large Language Models
 
 # 摘要
 
-> 大型语言模型（LLMs）的兴起为自然语言处理带来了革命性的变革，使其在理解和生成类人文本方面达到了前所未有的水平。然而，微调这些模型的计算成本和时间成本仍然是一大难题。低秩适应（LoRA）作为一种创新方法，通过高效微调技术和减少可训练参数，为解决这些问题提供了希望。本文中，我们介绍了OLoRA，这是对LoRA方法的改进，它通过QR分解实现正交矩阵初始化。OLoRA不仅大幅加快了LLM训练的收敛速度，还保持了LoRA的效率优势，如减少的可训练参数和GPU内存使用。实证研究表明，OLoRA在多个语言建模任务中不仅收敛更快，而且性能优于标准LoRA。这一进步将推动更高效、更易用的LLMs微调技术的发展，为自然语言应用的广泛普及和创新开辟新天地。
+> 大型语言模型（LLMs）的兴起为自然语言处理带来了革命性的变革，使其在理解和生成类人文本方面达到了前所未有的水平。然而，微调这些模型的计算成本和时间成本仍然是一大挑战。低秩适应（LoRA）作为一种有前景的解决方案应运而生，它通过减少可训练参数的数量，采用高效的微调技术来缓解这些问题。本文中，我们介绍了OLoRA，这是对LoRA方法的改进，它通过QR分解实现正交矩阵初始化，从而加速LLM训练的收敛，同时保持了LoRA的效率优势，如减少的可训练参数和GPU内存使用。实证研究表明，OLoRA不仅加速了收敛，而且在多种语言建模任务中表现优于标准LoRA。这一进步将推动LLMs微调技术的发展，使其更加高效和普及，为自然语言应用的创新和广泛应用开辟新道路。
 
 > The advent of large language models (LLMs) has revolutionized natural language processing, enabling unprecedented capabilities in understanding and generating human-like text. However, the computational cost and convergence times associated with fine-tuning these models remain significant challenges. Low-Rank Adaptation (LoRA) has emerged as a promising method to mitigate these issues by introducing efficient fine-tuning techniques with a reduced number of trainable parameters. In this paper, we present OLoRA, an enhancement to the LoRA method that leverages orthonormal matrix initialization through QR decomposition. OLoRA significantly accelerates the convergence of LLM training while preserving the efficiency benefits of LoRA, such as the number of trainable parameters and GPU memory footprint. Our empirical evaluations demonstrate that OLoRA not only converges faster but also exhibits improved performance compared to standard LoRA across a variety of language modeling tasks. This advancement opens new avenues for more efficient and accessible fine-tuning of LLMs, potentially enabling broader adoption and innovation in natural language applications.
 
