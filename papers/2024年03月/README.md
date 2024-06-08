@@ -62,7 +62,7 @@
 
 - [Hear Me, See Me, Understand Me: Audio-Visual Autism Behavior Recognition](2024年03月22日/Hear_Me,_See_Me,_Understand_Me_Audio-Visual_Autism_Behavior_Recognition.md)
 
-    - [翻译: 倾听我，观察我，理解我：视听结合的自闭症行为识别研究](2024年03月22日/Hear_Me,_See_Me,_Understand_Me_Audio-Visual_Autism_Behavior_Recognition.md)
+    - [翻译: 倾听我，观察我，理解我：视听自闭症行为识别研究](2024年03月22日/Hear_Me,_See_Me,_Understand_Me_Audio-Visual_Autism_Behavior_Recognition.md)
 
 2024年03月21日
 
@@ -148,7 +148,7 @@
 
 - [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
 
-    - [翻译: 无视标题，破解提示：一场全球性的提示破解大赛揭露了大型语言模型中潜藏的系统性漏洞。](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
+    - [翻译: 无视标题，破解提示：一场全球性的提示破解大赛，揭露了大型语言模型中的系统性安全漏洞。](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
 
 - [Prompt Injection attack against LLM-integrated Applications](2024年03月02日/Prompt_Injection_attack_against_LLM-integrated_Applications.md)
 

@@ -126,7 +126,7 @@
 
 - [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
 
-    - [翻译: PoisonedRAG：大型语言模型检索增强生成遭遇的知识中毒攻击](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
+    - [翻译: 知识毒化攻击：探究大型语言模型检索增强生成过程中的风险](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
 
 2024年02月10日
 
