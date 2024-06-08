@@ -126,7 +126,7 @@
 
 - [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
 
-    - [翻译: PoisonedRAG：大型语言模型检索增强生成遭遇知识投毒攻击](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
+    - [翻译: PoisonedRAG：大型语言模型检索增强生成遭遇的知识中毒攻击](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
 
 2024年02月10日
 
@@ -152,7 +152,7 @@
 
 - [In-Context Learning Can Re-learn Forbidden Tasks](2024年02月08日/In-Context_Learning_Can_Re-learn_Forbidden_Tasks.md)
 
-    - [翻译: 情境学习法能够突破限制，重新掌握被禁任务](2024年02月08日/In-Context_Learning_Can_Re-learn_Forbidden_Tasks.md)
+    - [翻译: 情境学习具备重新掌握禁令任务的能力](2024年02月08日/In-Context_Learning_Can_Re-learn_Forbidden_Tasks.md)
 
 2024年02月06日
 

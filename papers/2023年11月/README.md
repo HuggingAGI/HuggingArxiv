@@ -4,7 +4,7 @@
 
 - [Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection](2023年11月24日/Evaluating_the_Instruction-Following_Robustness_of_Large_Language_Models_to_Prompt_Injection.md)
 
-    - [翻译: 探究大型语言模型在面对提示注入时的指令遵循稳健性](2023年11月24日/Evaluating_the_Instruction-Following_Robustness_of_Large_Language_Models_to_Prompt_Injection.md)
+    - [翻译: 探究大型语言模型在面对提示注入时的指令遵循稳定性](2023年11月24日/Evaluating_the_Instruction-Following_Robustness_of_Large_Language_Models_to_Prompt_Injection.md)
 
 2023年11月20日
 
