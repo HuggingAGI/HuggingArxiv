@@ -4,13 +4,13 @@
 
 `Agent
 
-这篇论文介绍了HoneyGPT，一个基于ChatGPT的智能蜜罐系统，它利用大型语言模型和先进的提示工程技术来提高蜜罐的灵活性、交互深度和欺骗能力。HoneyGPT能够主动适应攻击战术的变化，并通过结构化的提示工程框架增强其长期交互记忆和安全分析能力。这种智能蜜罐系统的设计和部署代表了Agent技术在网络安全领域的应用，因此将其分类为Agent。` `网络安全` `人工智能`
+理由：这篇论文介绍了一种基于大型语言模型（如ChatGPT）的智能蜜罐系统HoneyGPT，它能够主动适应攻击者的战术变化，并通过结构化的提示工程框架增强交互深度和欺骗能力。这种系统可以被视为一个智能Agent，因为它能够自主地与攻击者互动，执行特定的任务（如诱导攻击者深入交互并捕获攻击手段），并在安全分析中发挥作用。因此，这篇论文更适合归类为Agent，而不是RAG、LLM应用或LLM理论。` `网络安全` `人工智能`
 
 > HoneyGPT: Breaking the Trilemma in Terminal Honeypots with Large Language Model
 
 # 摘要
 
-> 蜜罐技术虽历经多年发展，仍需在灵活性、交互深度与欺骗能力间找到平衡点。它们往往难以主动适应攻击战术的变化，限制了深入互动与信息获取。大型语言模型与先进的提示工程技术相结合，为蜜罐设计与部署带来革新。本文推出的HoneyGPT，基于ChatGPT，开启了智能蜜罐的新篇章，以其经济高效、高度适应及增强互动性著称，并能主动吸引攻击者。我们还设计了一套结构化的提示工程框架，强化长期交互记忆与安全分析能力，通过适应蜜罐环境的链式思维战术，提升交互与欺骗效果，深化安全分析，确保持续互动。HoneyGPT的评估分为两部分：基于数据集的基准对比和为期四周的真实场景测试。基准对比显示HoneyGPT在多方面平衡上的出色表现。现场测试进一步证实其有效性，相较于现有技术，HoneyGPT在吸引攻击者深入互动及捕获新型攻击手段上展现出明显优势。
+> 蜜罐技术虽历经多年发展，仍需在灵活性、交互深度与欺骗能力间找到平衡点。它们往往难以主动适应攻击者的战术变化，限制了交互深度与信息获取。然而，大型语言模型与基于提示的工程技术的结合，为蜜罐技术带来了革新。本文推出的HoneyGPT，基于ChatGPT，开启了智能蜜罐的新篇章，以其高效、高适应性和强交互性，以及主动吸引攻击者的特性脱颖而出。我们还提出了一套结构化的提示工程框架，强化了长期交互记忆与安全分析的稳健性，通过适应蜜罐环境的链式思维战术，提升了交互与欺骗的深度，加强了安全分析，并确保了持续的互动。HoneyGPT的评估分为两部分：基于数据集的基准对比和为期四周的真实场景现场测试。基准对比显示HoneyGPT在多方面取得了卓越平衡。现场测试进一步证实了其有效性，表明HoneyGPT在诱导攻击者深入交互并捕获更多新型攻击手段方面，远超现有技术。
 
 > Honeypots, as a strategic cyber-deception mechanism designed to emulate authentic interactions and bait unauthorized entities, continue to struggle with balancing flexibility, interaction depth, and deceptive capability despite their evolution over decades. Often they also lack the capability of proactively adapting to an attacker's evolving tactics, which restricts the depth of engagement and subsequent information gathering. Under this context, the emergent capabilities of large language models, in tandem with pioneering prompt-based engineering techniques, offer a transformative shift in the design and deployment of honeypot technologies. In this paper, we introduce HoneyGPT, a pioneering honeypot architecture based on ChatGPT, heralding a new era of intelligent honeypot solutions characterized by their cost-effectiveness, high adaptability, and enhanced interactivity, coupled with a predisposition for proactive attacker engagement. Furthermore, we present a structured prompt engineering framework that augments long-term interaction memory and robust security analytics. This framework, integrating thought of chain tactics attuned to honeypot contexts, enhances interactivity and deception, deepens security analytics, and ensures sustained engagement.
   The evaluation of HoneyGPT includes two parts: a baseline comparison based on a collected dataset and a field evaluation in real scenarios for four weeks. The baseline comparison demonstrates HoneyGPT's remarkable ability to strike a balance among flexibility, interaction depth, and deceptive capability. The field evaluation further validates HoneyGPT's efficacy, showing its marked superiority in enticing attackers into more profound interactive engagements and capturing a wider array of novel attack vectors in comparison to existing honeypot technologies.

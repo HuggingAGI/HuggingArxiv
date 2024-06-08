@@ -4,13 +4,13 @@
 
 `LLM应用
 
-这篇论文主要探讨了大型语言模型（LLMs）在机器翻译任务中面临的提示注入攻击（PIAs）问题，并分析了不同大小的LLMs在这种情况下的表现。研究还引入了一个新的基准数据集，并发现了在特定条件下，大型模型可能更容易遭受成功攻击的现象。这一研究关注的是LLMs在实际应用中的安全性和性能问题，特别是在多语言环境下的表现，因此属于LLM应用分类。` `机器翻译` `网络安全`
+这篇论文探讨了大型语言模型（LLMs）在机器翻译任务中面对提示注入攻击（PIAs）的脆弱性，并引入了新的基准数据集。研究特别关注了不同规模的LLMs在特定条件下的表现，发现了大型模型对英语编写的注入提示更为敏感的现象，这被称为逆向缩放现象。这项研究直接关联到LLMs在实际应用中的安全性和可靠性问题，因此属于LLM应用分类。` `机器翻译` `网络安全`
 
 > Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks
 
 # 摘要
 
-> 大型语言模型（LLMs）因其高质量和通过自然语言指令或上下文示例轻松指定任务的能力，正成为机器翻译等自然语言处理任务的首选平台。然而，其通用性也使其易受终端用户的提示注入攻击（PIAs），这些用户可能通过请求嵌入指令，诱导模型执行未经授权或不安全的操作。本研究针对机器翻译任务，分析了不同大小的LLMs在PIAs下的表现，并引入了一个新的基准数据集。研究发现，在特定条件下，大型模型在多种语言对和英语注入提示下，可能更易遭受成功攻击，这一现象被称为逆向缩放（McKenzie et al., 2023）。据我们所知，这是首次在多语言环境中探讨LLMs的非平凡缩放行为。
+> 大型语言模型（LLMs）因其质量与特定任务模型相媲美甚至更优，以及通过自然语言指令或上下文示例轻松指定任务的特性，正成为自然语言处理任务（如机器翻译）的首选平台。然而，这种通用性也使其易受终端用户的操纵，这些用户可能通过嵌入特定指令，诱导模型执行未经授权或不安全的操作。本研究针对机器翻译任务，探讨了不同规模的LLMs在面对提示注入攻击（PIAs）时的脆弱性，并引入了一个新的基准数据集。研究发现，在特定条件下，大型模型对英语编写的注入提示更为敏感，这揭示了逆向缩放现象（McKenzie等人，2023）。据我们所知，这是首次在多语言背景下探讨LLMs非平凡缩放行为的研究。
 
 > Large Language Models (LLMs) are increasingly becoming the preferred foundation platforms for many Natural Language Processing tasks such as Machine Translation, owing to their quality often comparable to or better than task-specific models, and the simplicity of specifying the task through natural language instructions or in-context examples. Their generality, however, opens them up to subversion by end users who may embed into their requests instructions that cause the model to behave in unauthorized and possibly unsafe ways. In this work we study these Prompt Injection Attacks (PIAs) on multiple families of LLMs on a Machine Translation task, focusing on the effects of model size on the attack success rates. We introduce a new benchmark data set and we discover that on multiple language pairs and injected prompts written in English, larger models under certain conditions may become more susceptible to successful attacks, an instance of the Inverse Scaling phenomenon (McKenzie et al., 2023). To our knowledge, this is the first work to study non-trivial LLM scaling behaviour in a multi-lingual setting.
 
