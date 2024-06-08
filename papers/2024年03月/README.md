@@ -72,7 +72,7 @@
 
 - [BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP](2024年03月21日/BadCLIP_Trigger-Aware_Prompt_Learning_for_Backdoor_Attacks_on_CLIP.md)
 
-    - [翻译: BadCLIP：针对CLIP的后门攻击中的触发器感知提示学习方法](2024年03月21日/BadCLIP_Trigger-Aware_Prompt_Learning_for_Backdoor_Attacks_on_CLIP.md)
+    - [翻译: BadCLIP：针对CLIP的后门攻击，利用触发器感知的提示学习策略](2024年03月21日/BadCLIP_Trigger-Aware_Prompt_Learning_for_Backdoor_Attacks_on_CLIP.md)
 
 2024年03月20日
 
@@ -148,11 +148,11 @@
 
 - [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
 
-    - [翻译: 无视标题，破解提示大赛：全球竞赛揭示LLMs的系统性漏洞](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
+    - [翻译: 无视标题，破解提示：一场全球性的提示破解大赛，揭露了大型语言模型中潜藏的系统性漏洞。](2024年03月02日/Ignore_This_Title_and_HackAPrompt_Exposing_Systemic_Vulnerabilities_of_LLMs_through_a_Global_Scale_Prompt_Hacking_Competition.md)
 
 - [Prompt Injection attack against LLM-integrated Applications](2024年03月02日/Prompt_Injection_attack_against_LLM-integrated_Applications.md)
 
-    - [翻译: 针对集成LLM应用的提示注入攻击：探索其潜在威胁与防御策略](2024年03月02日/Prompt_Injection_attack_against_LLM-integrated_Applications.md)
+    - [翻译: 针对集成 LLM 应用的提示注入攻击：探索其安全挑战与防护策略](2024年03月02日/Prompt_Injection_attack_against_LLM-integrated_Applications.md)
 
 2024年03月01日
 

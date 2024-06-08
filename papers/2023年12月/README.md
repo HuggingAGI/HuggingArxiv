@@ -10,7 +10,7 @@
 
 - [Vulnerability of Machine Learning Approaches Applied in IoT-based Smart Grid: A Review](2023年12月24日/Vulnerability_of_Machine_Learning_Approaches_Applied_in_IoT-based_Smart_Grid_A_Review.md)
 
-    - [翻译: 智能电网中物联网应用的机器学习方法脆弱性综述](2023年12月24日/Vulnerability_of_Machine_Learning_Approaches_Applied_in_IoT-based_Smart_Grid_A_Review.md)
+    - [翻译: 智能电网中基于物联网的机器学习方法脆弱性综述](2023年12月24日/Vulnerability_of_Machine_Learning_Approaches_Applied_in_IoT-based_Smart_Grid_A_Review.md)
 
 2023年12月20日
 
