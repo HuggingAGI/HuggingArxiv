@@ -1174,7 +1174,7 @@
 
 - [The Impossibility of Fair LLMs](2024年05月28日/The_Impossibility_of_Fair_LLMs.md)
 
-    - [翻译: ](2024年05月28日/The_Impossibility_of_Fair_LLMs.md)
+    - [翻译: 大型语言模型（LLMs）的公平性实属难求。](2024年05月28日/The_Impossibility_of_Fair_LLMs.md)
 
 2024年05月27日
 
@@ -1436,7 +1436,7 @@
 
 - [Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark](2024年05月27日/Recent_advances_in_text_embedding_A_Comprehensive_Review_of_Top-Performing_Methods_on_the_MTEB_Benchmark.md)
 
-    - [翻译: ](2024年05月27日/Recent_advances_in_text_embedding_A_Comprehensive_Review_of_Top-Performing_Methods_on_the_MTEB_Benchmark.md)
+    - [翻译: 文本嵌入技术最新进展：深度解析MTEB基准顶尖方法的全方位回顾](2024年05月27日/Recent_advances_in_text_embedding_A_Comprehensive_Review_of_Top-Performing_Methods_on_the_MTEB_Benchmark.md)
 
 2024年05月26日
 
@@ -1954,7 +1954,7 @@
 
 - [Bayesian WeakS-to-Strong from Text Classification to Generation](2024年05月24日/Bayesian_WeakS-to-Strong_from_Text_Classification_to_Generation.md)
 
-    - [翻译: ](2024年05月24日/Bayesian_WeakS-to-Strong_from_Text_Classification_to_Generation.md)
+    - [翻译: 贝叶斯进化：从文本分类到生成之旅](2024年05月24日/Bayesian_WeakS-to-Strong_from_Text_Classification_to_Generation.md)
 
 2024年05月23日
 

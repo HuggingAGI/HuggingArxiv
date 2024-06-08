@@ -16,7 +16,7 @@
 
 - [Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning](2023年10月17日/Last_One_Standing_A_Comparative_Analysis_of_Security_and_Privacy_of_Soft_Prompt_Tuning,_LoRA,_and_In-Context_Learning.md)
 
-    - [翻译: ](2023年10月17日/Last_One_Standing_A_Comparative_Analysis_of_Security_and_Privacy_of_Soft_Prompt_Tuning,_LoRA,_and_In-Context_Learning.md)
+    - [翻译: 《独步江湖：软提示调优、LoRA 与情境学习在安全隐私领域的较量》](2023年10月17日/Last_One_Standing_A_Comparative_Analysis_of_Security_and_Privacy_of_Soft_Prompt_Tuning,_LoRA,_and_In-Context_Learning.md)
 
 2023年10月16日
 

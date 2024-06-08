@@ -8,7 +8,7 @@
 
 - [TrojanPuzzle: Covertly Poisoning Code-Suggestion Models](2024年01月24日/TrojanPuzzle_Covertly_Poisoning_Code-Suggestion_Models.md)
 
-    - [翻译: ](2024年01月24日/TrojanPuzzle_Covertly_Poisoning_Code-Suggestion_Models.md)
+    - [翻译: TrojanPuzzle：潜伏毒化代码推荐模型](2024年01月24日/TrojanPuzzle_Covertly_Poisoning_Code-Suggestion_Models.md)
 
 2024年01月23日
 
