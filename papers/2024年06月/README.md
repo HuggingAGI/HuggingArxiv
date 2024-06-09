@@ -540,6 +540,10 @@
 
     - [翻译: 光影交织：数字重建放射图像助力疾病分类](2024年06月05日/Shadow_and_Light_Digitally_Reconstructed_Radiographs_for_Disease_Classification.md)
 
+- [Ranking Manipulation for Conversational Search Engines](2024年06月05日/Ranking_Manipulation_for_Conversational_Search_Engines.md)
+
+    - [翻译: 对话搜索引擎中的排名操控策略](2024年06月05日/Ranking_Manipulation_for_Conversational_Search_Engines.md)
+
 2024年06月04日
 
 - [MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset](2024年06月04日/MARS_Benchmarking_the_Metaphysical_Reasoning_Abilities_of_Language_Models_with_a_Multi-task_Evaluation_Dataset.md)
