@@ -546,15 +546,15 @@
 
 - [Evaluating the World Model Implicit in a Generative Model](2024年06月05日/Evaluating_the_World_Model_Implicit_in_a_Generative_Model.md)
 
-    - [翻译: ](2024年06月05日/Evaluating_the_World_Model_Implicit_in_a_Generative_Model.md)
+    - [翻译: 探究生成模型内含的世界模型之评估](2024年06月05日/Evaluating_the_World_Model_Implicit_in_a_Generative_Model.md)
 
 - [Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models](2024年06月05日/Refactoring_to_Pythonic_Idioms_A_Hybrid_Knowledge-Driven_Approach_Leveraging_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月05日/Refactoring_to_Pythonic_Idioms_A_Hybrid_Knowledge-Driven_Approach_Leveraging_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型，探索 Pythonic 惯用法的重构之道：一种混合知识驱动的新途径](2024年06月05日/Refactoring_to_Pythonic_Idioms_A_Hybrid_Knowledge-Driven_Approach_Leveraging_Large_Language_Models.md)
 
 - [Synthetic Oversampling: Theory and A Practical Approach Using LLMs to Address Data Imbalance](2024年06月05日/Synthetic_Oversampling_Theory_and_A_Practical_Approach_Using_LLMs_to_Address_Data_Imbalance.md)
 
-    - [翻译: ](2024年06月05日/Synthetic_Oversampling_Theory_and_A_Practical_Approach_Using_LLMs_to_Address_Data_Imbalance.md)
+    - [翻译: 合成过采样：理论与实践——利用大型语言模型应对数据不平衡挑战](2024年06月05日/Synthetic_Oversampling_Theory_and_A_Practical_Approach_Using_LLMs_to_Address_Data_Imbalance.md)
 
 2024年06月04日
 
