@@ -230,6 +230,10 @@
 
     - [翻译: 利用后验分布实现贝叶斯学习的可扩展性](2024年05月31日/Scalable_Bayesian_Learning_with_posteriors.md)
 
+- [RAG Does Not Work for Enterprises](2024年05月31日/RAG_Does_Not_Work_for_Enterprises.md)
+
+    - [翻译: RAG 在企业环境中表现不佳](2024年05月31日/RAG_Does_Not_Work_for_Enterprises.md)
+
 2024年05月30日
 
 - [Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf](2024年05月30日/Learning_to_Discuss_Strategically_A_Case_Study_on_One_Night_Ultimate_Werewolf.md)
