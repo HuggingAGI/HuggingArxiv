@@ -1,5 +1,35 @@
 # 2024年06月
 
+2024年06月07日
+
+- [3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs](2024年06月07日/3D-GRAND_Towards_Better_Grounding_and_Less_Hallucination_for_3D-LLMs.md)
+
+    - [翻译: 3D-GRAND：致力于提升3D大型语言模型的基础性并减少幻觉现象](2024年06月07日/3D-GRAND_Towards_Better_Grounding_and_Less_Hallucination_for_3D-LLMs.md)
+
+- [BAMO at SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense](2024年06月07日/BAMO_at_SemEval-2024_Task_9_BRAINTEASER_A_Novel_Task_Defying_Common_Sense.md)
+
+    - [翻译: BAMO 亮相 SemEval-2024 任务 9，推出名为“BRAINTEASER”的新挑战，旨在颠覆传统常识认知。](2024年06月07日/BAMO_at_SemEval-2024_Task_9_BRAINTEASER_A_Novel_Task_Defying_Common_Sense.md)
+
+- [An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models](2024年06月07日/An_Empirical_Study_on_Parameter-Efficient_Fine-Tuning_for_MultiModal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型参数高效微调的实证探索](2024年06月07日/An_Empirical_Study_on_Parameter-Efficient_Fine-Tuning_for_MultiModal_Large_Language_Models.md)
+
+- [Towards Semantic Equivalence of Tokenization in Multimodal LLM](2024年06月07日/Towards_Semantic_Equivalence_of_Tokenization_in_Multimodal_LLM.md)
+
+    - [翻译: 探索多模态LLM中标记化的语义等效性](2024年06月07日/Towards_Semantic_Equivalence_of_Tokenization_in_Multimodal_LLM.md)
+
+- [RU-AI: A Large Multimodal Dataset for Machine Generated Content Detection](2024年06月07日/RU-AI_A_Large_Multimodal_Dataset_for_Machine_Generated_Content_Detection.md)
+
+    - [翻译: RU-AI：专为机器生成内容检测而设计的大型多模态数据集](2024年06月07日/RU-AI_A_Large_Multimodal_Dataset_for_Machine_Generated_Content_Detection.md)
+
+- [MGIMM: Multi-Granularity Instruction Multimodal Model for Attribute-Guided Remote Sensing Image Detailed Description](2024年06月07日/MGIMM_Multi-Granularity_Instruction_Multimodal_Model_for_Attribute-Guided_Remote_Sensing_Image_Detailed_Description.md)
+
+    - [翻译: MGIMM：一种多粒度指令驱动的多模态模型，专为属性引导下的遥感图像详细描述而设计。](2024年06月07日/MGIMM_Multi-Granularity_Instruction_Multimodal_Model_for_Attribute-Guided_Remote_Sensing_Image_Detailed_Description.md)
+
+- [AICoderEval: Improving AI Domain Code Generation of Large Language Models](2024年06月07日/AICoderEval_Improving_AI_Domain_Code_Generation_of_Large_Language_Models.md)
+
+    - [翻译: AICoderEval：优化大型语言模型在AI领域的代码生成表现](2024年06月07日/AICoderEval_Improving_AI_Domain_Code_Generation_of_Large_Language_Models.md)
+
 2024年06月06日
 
 - [AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](2024年06月06日/AgentGym_Evolving_Large_Language_Model-based_Agents_across_Diverse_Environments.md)
@@ -269,6 +299,14 @@
 - [ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models](2024年06月06日/ValueBench_Towards_Comprehensively_Evaluating_Value_Orientations_and_Understanding_of_Large_Language_Models.md)
 
     - [翻译: ValueBench：全面审视大型语言模型的价值取向与理解深度](2024年06月06日/ValueBench_Towards_Comprehensively_Evaluating_Value_Orientations_and_Understanding_of_Large_Language_Models.md)
+
+- [What do MLLMs hear? Examining reasoning with text and sound components in Multimodal Large Language Models](2024年06月06日/What_do_MLLMs_hear_Examining_reasoning_with_text_and_sound_components_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型（MLLMs）如何通过文本与声音进行推理？](2024年06月06日/What_do_MLLMs_hear_Examining_reasoning_with_text_and_sound_components_in_Multimodal_Large_Language_Models.md)
+
+- [MAIRA-2: Grounded Radiology Report Generation](2024年06月06日/MAIRA-2_Grounded_Radiology_Report_Generation.md)
+
+    - [翻译: MAIRA-2：精准生成放射学报告](2024年06月06日/MAIRA-2_Grounded_Radiology_Report_Generation.md)
 
 2024年06月05日
 
