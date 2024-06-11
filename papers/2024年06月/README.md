@@ -1,5 +1,41 @@
 # 2024年06月
 
+2024年06月09日
+
+- [STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models](2024年06月09日/STARLING_Self-supervised_Training_of_Text-based_Reinforcement_Learning_Agent_with_Large_Language_Models.md)
+
+    - [翻译: STARLING：大语言模型驱动下的文本强化学习代理自监督训练](2024年06月09日/STARLING_Self-supervised_Training_of_Text-based_Reinforcement_Learning_Agent_with_Large_Language_Models.md)
+
+- [A Survey on LLM-Based Agentic Workflows and LLM-Profiled Components](2024年06月09日/A_Survey_on_LLM-Based_Agentic_Workflows_and_LLM-Profiled_Components.md)
+
+    - [翻译: 大型语言模型（LLM）代理工作流程与配置组件综述](2024年06月09日/A_Survey_on_LLM-Based_Agentic_Workflows_and_LLM-Profiled_Components.md)
+
+- [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](2024年06月09日/II-Bench_An_Image_Implication_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: II-Bench：多模态大型语言模型的图像含义理解基准](2024年06月09日/II-Bench_An_Image_Implication_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
+
+- [F-LMM: Grounding Frozen Large Multimodal Models](2024年06月09日/F-LMM_Grounding_Frozen_Large_Multimodal_Models.md)
+
+    - [翻译: F-LMM：奠基于冻结的大型多模态模型之上](2024年06月09日/F-LMM_Grounding_Frozen_Large_Multimodal_Models.md)
+
+- [Unified Text-to-Image Generation and Retrieval](2024年06月09日/Unified_Text-to-Image_Generation_and_Retrieval.md)
+
+    - [翻译: 文本至图像生成与检索的统一方法](2024年06月09日/Unified_Text-to-Image_Generation_and_Retrieval.md)
+
+2024年06月08日
+
+- [One Perturbation is Enough: On Generating Universal Adversarial Perturbations against Vision-Language Pre-training Models](2024年06月08日/One_Perturbation_is_Enough_On_Generating_Universal_Adversarial_Perturbations_against_Vision-Language_Pre-training_Models.md)
+
+    - [翻译: 仅需一次扰动：探索针对视觉-语言预训练模型的通用对抗扰动生成策略](2024年06月08日/One_Perturbation_is_Enough_On_Generating_Universal_Adversarial_Perturbations_against_Vision-Language_Pre-training_Models.md)
+
+- [MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention](2024年06月08日/MemeGuard_An_LLM_and_VLM-based_Framework_for_Advancing_Content_Moderation_via_Meme_Intervention.md)
+
+    - [翻译: MemeGuard：利用LLM和VLM技术，通过模因干预策略，推动内容审核的进步。](2024年06月08日/MemeGuard_An_LLM_and_VLM-based_Framework_for_Advancing_Content_Moderation_via_Meme_Intervention.md)
+
+- [M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark](2024年06月08日/M3GIA_A_Cognition_Inspired_Multilingual_and_Multimodal_General_Intelligence_Ability_Benchmark.md)
+
+    - [翻译: M3GIA：认知启发的多语言多模态通用智能能力评测基准](2024年06月08日/M3GIA_A_Cognition_Inspired_Multilingual_and_Multimodal_General_Intelligence_Ability_Benchmark.md)
+
 2024年06月07日
 
 - [3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs](2024年06月07日/3D-GRAND_Towards_Better_Grounding_and_Less_Hallucination_for_3D-LLMs.md)
