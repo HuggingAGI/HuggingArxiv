@@ -1,5 +1,35 @@
 # 2024年06月
 
+2024年06月11日
+
+- [World Models with Hints of Large Language Models for Goal Achieving](2024年06月11日/World_Models_with_Hints_of_Large_Language_Models_for_Goal_Achieving.md)
+
+    - [翻译: 借助大型语言模型提示的世界模型，助力目标实现](2024年06月11日/World_Models_with_Hints_of_Large_Language_Models_for_Goal_Achieving.md)
+
+- [DCA-Bench: A Benchmark for Dataset Curation Agents](2024年06月11日/DCA-Bench_A_Benchmark_for_Dataset_Curation_Agents.md)
+
+    - [翻译: DCA-Bench：数据集整理代理的评估基准](2024年06月11日/DCA-Bench_A_Benchmark_for_Dataset_Curation_Agents.md)
+
+- [A Synthetic Dataset for Personal Attribute Inference](2024年06月11日/A_Synthetic_Dataset_for_Personal_Attribute_Inference.md)
+
+    - [翻译: 个人属性推断的模拟数据集](2024年06月11日/A_Synthetic_Dataset_for_Personal_Attribute_Inference.md)
+
+- [Scaling Large-Language-Model-based Multi-Agent Collaboration](2024年06月11日/Scaling_Large-Language-Model-based_Multi-Agent_Collaboration.md)
+
+    - [翻译: 扩展基于大型语言模型的多智能体协作](2024年06月11日/Scaling_Large-Language-Model-based_Multi-Agent_Collaboration.md)
+
+- [Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation](2024年06月11日/Advancing_Grounded_Multimodal_Named_Entity_Recognition_via_LLM-Based_Reformulation_and_Box-Based_Segmentation.md)
+
+    - [翻译: 借助大型语言模型的重构与框分割技术，推动基于实体的多模态命名实体识别研究](2024年06月11日/Advancing_Grounded_Multimodal_Named_Entity_Recognition_via_LLM-Based_Reformulation_and_Box-Based_Segmentation.md)
+
+- [Needle In A Multimodal Haystack](2024年06月11日/Needle_In_A_Multimodal_Haystack.md)
+
+    - [翻译: 在多模态信息的海洋中探寻那根针](2024年06月11日/Needle_In_A_Multimodal_Haystack.md)
+
+- [Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study](2024年06月11日/Benchmarking_Trustworthiness_of_Multimodal_Large_Language_Models_A_Comprehensive_Study.md)
+
+    - [翻译: 全面评估多模态大型语言模型的信任度：深度探究](2024年06月11日/Benchmarking_Trustworthiness_of_Multimodal_Large_Language_Models_A_Comprehensive_Study.md)
+
 2024年06月10日
 
 - [Evaluating the Retrieval Component in LLM-Based Question Answering Systems](2024年06月10日/Evaluating_the_Retrieval_Component_in_LLM-Based_Question_Answering_Systems.md)
@@ -169,6 +199,18 @@
 - [CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](2024年06月10日/CARES_A_Comprehensive_Benchmark_of_Trustworthiness_in_Medical_Vision_Language_Models.md)
 
     - [翻译: CARES：全面评估医疗视觉语言模型信任度的基准](2024年06月10日/CARES_A_Comprehensive_Benchmark_of_Trustworthiness_in_Medical_Vision_Language_Models.md)
+
+- [Eyeballing Combinatorial Problems: A Case Study of Using Multimodal Large Language Models to Solve Traveling Salesman Problems](2024年06月10日/Eyeballing_Combinatorial_Problems_A_Case_Study_of_Using_Multimodal_Large_Language_Models_to_Solve_Traveling_Salesman_Problems.md)
+
+    - [翻译: 用多模态大型语言模型“眼球追踪”解决旅行商问题：一项案例研究](2024年06月10日/Eyeballing_Combinatorial_Problems_A_Case_Study_of_Using_Multimodal_Large_Language_Models_to_Solve_Traveling_Salesman_Problems.md)
+
+- [FlexLoc: Conditional Neural Networks for Zero-Shot Sensor Perspective Invariance in Object Localization with Distributed Multimodal Sensors](2024年06月10日/FlexLoc_Conditional_Neural_Networks_for_Zero-Shot_Sensor_Perspective_Invariance_in_Object_Localization_with_Distributed_Multimodal_Sensors.md)
+
+    - [翻译: FlexLoc：针对分布式多模态传感器在物体定位中的零-shot视角不变性，构建的条件神经网络](2024年06月10日/FlexLoc_Conditional_Neural_Networks_for_Zero-Shot_Sensor_Perspective_Invariance_in_Object_Localization_with_Distributed_Multimodal_Sensors.md)
+
+- [TRINS: Towards Multimodal Language Models that Can Read](2024年06月10日/TRINS_Towards_Multimodal_Language_Models_that_Can_Read.md)
+
+    - [翻译: TRINS：探索能够阅读的多模态语言模型之路](2024年06月10日/TRINS_Towards_Multimodal_Language_Models_that_Can_Read.md)
 
 2024年06月09日
 
@@ -938,6 +980,10 @@
 
     - [翻译: 在存储库级别的代码编辑中，推理对于上下文检索的重要性不容忽视。](2024年06月06日/On_The_Importance_of_Reasoning_for_Context_Retrieval_in_Repository-Level_Code_Editing.md)
 
+- [HORAE: A Domain-Agnostic Modeling Language for Automating Multimodal Service Regulation](2024年06月06日/HORAE_A_Domain-Agnostic_Modeling_Language_for_Automating_Multimodal_Service_Regulation.md)
+
+    - [翻译: HORAE：专为多模态服务规范自动化设计的领域无关建模语言](2024年06月06日/HORAE_A_Domain-Agnostic_Modeling_Language_for_Automating_Multimodal_Service_Regulation.md)
+
 2024年06月05日
 
 - [The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games](2024年06月05日/The_Good,_the_Bad,_and_the_Hulk-like_GPT_Analyzing_Emotional_Decisions_of_Large_Language_Models_in_Cooperation_and_Bargaining_Games.md)
@@ -1497,6 +1543,14 @@
 - [ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation](2024年06月04日/ST-DPGAN_A_Privacy-preserving_Framework_for_Spatiotemporal_Data_Generation.md)
 
     - [翻译: ST-DPGAN：时空数据生成的隐私保护框架](2024年06月04日/ST-DPGAN_A_Privacy-preserving_Framework_for_Spatiotemporal_Data_Generation.md)
+
+- [Discrete Multimodal Transformers with a Pretrained Large Language Model for Mixed-Supervision Speech Processing](2024年06月04日/Discrete_Multimodal_Transformers_with_a_Pretrained_Large_Language_Model_for_Mixed-Supervision_Speech_Processing.md)
+
+    - [翻译: 基于预训练大型语言模型的离散多模态Transformer，助力混合监督下的语音处理技术](2024年06月04日/Discrete_Multimodal_Transformers_with_a_Pretrained_Large_Language_Model_for_Mixed-Supervision_Speech_Processing.md)
+
+- [From Redundancy to Relevance: Enhancing Explainability in Multimodal Large Language Models](2024年06月04日/From_Redundancy_to_Relevance_Enhancing_Explainability_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 从冗余到相关：提升多模态大型语言模型的解释力](2024年06月04日/From_Redundancy_to_Relevance_Enhancing_Explainability_in_Multimodal_Large_Language_Models.md)
 
 2024年06月03日
 
