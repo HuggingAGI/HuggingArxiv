@@ -30,6 +30,54 @@
 
     - [翻译: 全面评估多模态大型语言模型的信任度：深度探究](2024年06月11日/Benchmarking_Trustworthiness_of_Multimodal_Large_Language_Models_A_Comprehensive_Study.md)
 
+- [Large Language Models for Constrained-Based Causal Discovery](2024年06月11日/Large_Language_Models_for_Constrained-Based_Causal_Discovery.md)
+
+    - [翻译: ](2024年06月11日/Large_Language_Models_for_Constrained-Based_Causal_Discovery.md)
+
+- [When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models](2024年06月11日/When_Linear_Attention_Meets_Autoregressive_Decoding_Towards_More_Effective_and_Efficient_Linearized_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月11日/When_Linear_Attention_Meets_Autoregressive_Decoding_Towards_More_Effective_and_Efficient_Linearized_Large_Language_Models.md)
+
+- [Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities](2024年06月11日/Toxic_Memes_A_Survey_of_Computational_Perspectives_on_the_Detection_and_Explanation_of_Meme_Toxicities.md)
+
+    - [翻译: ](2024年06月11日/Toxic_Memes_A_Survey_of_Computational_Perspectives_on_the_Detection_and_Explanation_of_Meme_Toxicities.md)
+
+- [DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering](2024年06月11日/DR-RAG_Applying_Dynamic_Document_Relevance_to_Retrieval-Augmented_Generation_for_Question-Answering.md)
+
+    - [翻译: ](2024年06月11日/DR-RAG_Applying_Dynamic_Document_Relevance_to_Retrieval-Augmented_Generation_for_Question-Answering.md)
+
+- [Transferring Knowledge from Large Foundation Models to Small Downstream Models](2024年06月11日/Transferring_Knowledge_from_Large_Foundation_Models_to_Small_Downstream_Models.md)
+
+    - [翻译: ](2024年06月11日/Transferring_Knowledge_from_Large_Foundation_Models_to_Small_Downstream_Models.md)
+
+- [3D-Properties: Identifying Challenges in DPO and Charting a Path Forward](2024年06月11日/3D-Properties_Identifying_Challenges_in_DPO_and_Charting_a_Path_Forward.md)
+
+    - [翻译: ](2024年06月11日/3D-Properties_Identifying_Challenges_in_DPO_and_Charting_a_Path_Forward.md)
+
+- [BertaQA: How Much Do Language Models Know About Local Culture?](2024年06月11日/BertaQA_How_Much_Do_Language_Models_Know_About_Local_Culture.md)
+
+    - [翻译: ](2024年06月11日/BertaQA_How_Much_Do_Language_Models_Know_About_Local_Culture.md)
+
+- [Exploring Large Language Models for Relevance Judgments in Tetun](2024年06月11日/Exploring_Large_Language_Models_for_Relevance_Judgments_in_Tetun.md)
+
+    - [翻译: ](2024年06月11日/Exploring_Large_Language_Models_for_Relevance_Judgments_in_Tetun.md)
+
+- [Instruct Large Language Models to Drive like Humans](2024年06月11日/Instruct_Large_Language_Models_to_Drive_like_Humans.md)
+
+    - [翻译: ](2024年06月11日/Instruct_Large_Language_Models_to_Drive_like_Humans.md)
+
+- [Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?](2024年06月11日/Can_We_Achieve_High-quality_Direct_Speech-to-Speech_Translation_without_Parallel_Speech_Data.md)
+
+    - [翻译: ](2024年06月11日/Can_We_Achieve_High-quality_Direct_Speech-to-Speech_Translation_without_Parallel_Speech_Data.md)
+
+- [Fine-tuning with HED-IT: The impact of human post-editing for dialogical language models](2024年06月11日/Fine-tuning_with_HED-IT_The_impact_of_human_post-editing_for_dialogical_language_models.md)
+
+    - [翻译: ](2024年06月11日/Fine-tuning_with_HED-IT_The_impact_of_human_post-editing_for_dialogical_language_models.md)
+
+- [Scientific Computing with Large Language Models](2024年06月11日/Scientific_Computing_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月11日/Scientific_Computing_with_Large_Language_Models.md)
+
 2024年06月10日
 
 - [Evaluating the Retrieval Component in LLM-Based Question Answering Systems](2024年06月10日/Evaluating_the_Retrieval_Component_in_LLM-Based_Question_Answering_Systems.md)
