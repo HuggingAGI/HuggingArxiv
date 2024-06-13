@@ -4320,7 +4320,7 @@
 
 - [Artificial Intelligence as the New Hacker: Developing Agents for Offensive Security](2024年05月09日/Artificial_Intelligence_as_the_New_Hacker_Developing_Agents_for_Offensive_Security.md)
 
-    - [翻译: ](2024年05月09日/Artificial_Intelligence_as_the_New_Hacker_Developing_Agents_for_Offensive_Security.md)
+    - [翻译: 人工智能：新一代黑客的利器——开发用于攻击性安全的智能代理](2024年05月09日/Artificial_Intelligence_as_the_New_Hacker_Developing_Agents_for_Offensive_Security.md)
 
 2024年05月08日
 

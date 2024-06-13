@@ -538,11 +538,11 @@
 
 - [CUPID: Contextual Understanding of Prompt-conditioned Image Distributions](2024年06月11日/CUPID_Contextual_Understanding_of_Prompt-conditioned_Image_Distributions.md)
 
-    - [翻译: ](2024年06月11日/CUPID_Contextual_Understanding_of_Prompt-conditioned_Image_Distributions.md)
+    - [翻译: CUPID：理解提示条件下图像分布的上下文](2024年06月11日/CUPID_Contextual_Understanding_of_Prompt-conditioned_Image_Distributions.md)
 
 - [MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models](2024年06月11日/MLLMGuard_A_Multi-dimensional_Safety_Evaluation_Suite_for_Multimodal_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月11日/MLLMGuard_A_Multi-dimensional_Safety_Evaluation_Suite_for_Multimodal_Large_Language_Models.md)
+    - [翻译: MLLMGuard：多模态大型语言模型的全方位安全评估工具](2024年06月11日/MLLMGuard_A_Multi-dimensional_Safety_Evaluation_Suite_for_Multimodal_Large_Language_Models.md)
 
 2024年06月10日
 
@@ -2598,4 +2598,4 @@
 
 - [Domain-specific ReAct for physics-integrated iterative modeling: A case study of LLM agents for gas path analysis of gas turbines](2024年06月01日/Domain-specific_ReAct_for_physics-integrated_iterative_modeling_A_case_study_of_LLM_agents_for_gas_path_analysis_of_gas_turbines.md)
 
-    - [翻译: ](2024年06月01日/Domain-specific_ReAct_for_physics-integrated_iterative_modeling_A_case_study_of_LLM_agents_for_gas_path_analysis_of_gas_turbines.md)
+    - [翻译: 特定领域 ReAct 在物理集成迭代建模中的应用：以大型语言模型代理在燃气轮机气体路径分析中的案例为例，探讨其在特定领域的应用与效果。](2024年06月01日/Domain-specific_ReAct_for_physics-integrated_iterative_modeling_A_case_study_of_LLM_agents_for_gas_path_analysis_of_gas_turbines.md)
