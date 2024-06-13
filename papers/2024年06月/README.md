@@ -144,7 +144,7 @@
 
 - [DeTriever: Decoder-representation-based Retriever for Improving NL2SQL In-Context Learning](2024年06月12日/DeTriever_Decoder-representation-based_Retriever_for_Improving_NL2SQL_In-Context_Learning.md)
 
-    - [翻译: DeTriever：一种基于解码器表示的检索器，旨在提升 NL2SQL 上下文学习的性能](2024年06月12日/DeTriever_Decoder-representation-based_Retriever_for_Improving_NL2SQL_In-Context_Learning.md)
+    - [翻译: DeTriever：一种基于解码器表示的检索器，旨在提升 NL2SQL 上下文学习的效果](2024年06月12日/DeTriever_Decoder-representation-based_Retriever_for_Improving_NL2SQL_In-Context_Learning.md)
 
 - [An Empirical Study of Mamba-based Language Models](2024年06月12日/An_Empirical_Study_of_Mamba-based_Language_Models.md)
 
@@ -152,7 +152,7 @@
 
 - [BookSQL: A Large Scale Text-to-SQL Dataset for Accounting Domain](2024年06月12日/BookSQL_A_Large_Scale_Text-to-SQL_Dataset_for_Accounting_Domain.md)
 
-    - [翻译: BookSQL：会计领域的巨型文本至SQL数据集](2024年06月12日/BookSQL_A_Large_Scale_Text-to-SQL_Dataset_for_Accounting_Domain.md)
+    - [翻译: BookSQL：会计领域的大规模文本至SQL数据集](2024年06月12日/BookSQL_A_Large_Scale_Text-to-SQL_Dataset_for_Accounting_Domain.md)
 
 - [VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment](2024年06月12日/VALL-E_R_Robust_and_Efficient_Zero-Shot_Text-to-Speech_Synthesis_via_Monotonic_Alignment.md)
 
@@ -164,11 +164,11 @@
 
 - [Blowfish: Topological and statistical signatures for quantifying ambiguity in semantic search](2024年06月12日/Blowfish_Topological_and_statistical_signatures_for_quantifying_ambiguity_in_semantic_search.md)
 
-    - [翻译: Blowfish：揭示语义搜索模糊性的拓扑与统计特征](2024年06月12日/Blowfish_Topological_and_statistical_signatures_for_quantifying_ambiguity_in_semantic_search.md)
+    - [翻译: Blowfish算法：揭示语义搜索模糊性的拓扑与统计特征](2024年06月12日/Blowfish_Topological_and_statistical_signatures_for_quantifying_ambiguity_in_semantic_search.md)
 
 - [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](2024年06月12日/Beyond_LLaVA-HD_Diving_into_High-Resolution_Large_Multimodal_Models.md)
 
-    - [翻译: 超越 LLaVA-HD：探索高分辨率大型多模态模型的奥秘](2024年06月12日/Beyond_LLaVA-HD_Diving_into_High-Resolution_Large_Multimodal_Models.md)
+    - [翻译: 超越LLaVA-HD：探索高分辨率大型多模态模型的奥秘](2024年06月12日/Beyond_LLaVA-HD_Diving_into_High-Resolution_Large_Multimodal_Models.md)
 
 - [OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](2024年06月12日/OmniCorpus_An_Unified_Multimodal_Corpus_of_10_Billion-Level_Images_Interleaved_with_Text.md)
 
@@ -176,7 +176,7 @@
 
 - [MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos](2024年06月12日/MMWorld_Towards_Multi-discipline_Multi-faceted_World_Model_Evaluation_in_Videos.md)
 
-    - [翻译: MMWorld：探索视频中多学科多面世界模型的综合评估](2024年06月12日/MMWorld_Towards_Multi-discipline_Multi-faceted_World_Model_Evaluation_in_Videos.md)
+    - [翻译: MMWorld：探索视频中多学科多维度的世界模型评估](2024年06月12日/MMWorld_Towards_Multi-discipline_Multi-faceted_World_Model_Evaluation_in_Videos.md)
 
 - [cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers](2024年06月12日/cPAPERS_A_Dataset_of_Situated_and_Multimodal_Interactive_Conversations_in_Scientific_Papers.md)
 
@@ -185,6 +185,62 @@
 - [VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks](2024年06月12日/VisionLLM_v2_An_End-to-End_Generalist_Multimodal_Large_Language_Model_for_Hundreds_of_Vision-Language_Tasks.md)
 
     - [翻译: VisionLLM v2：全能型多模态大型语言模型，一站式解决数百种视觉与语言任务](2024年06月12日/VisionLLM_v2_An_End-to-End_Generalist_Multimodal_Large_Language_Model_for_Hundreds_of_Vision-Language_Tasks.md)
+
+- [What If We Recaption Billions of Web Images with LLaMA-3?](2024年06月12日/What_If_We_Recaption_Billions_of_Web_Images_with_LLaMA-3.md)
+
+    - [翻译: 设想一下，如果我们利用LLaMA-3技术，为互联网上的数十亿张图片重新赋予标题，将会是怎样的场景？](2024年06月12日/What_If_We_Recaption_Billions_of_Web_Images_with_LLaMA-3.md)
+
+- [Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens](2024年06月12日/Improving_LLMs_for_Recommendation_with_Out-Of-Vocabulary_Tokens.md)
+
+    - [翻译: 优化大型语言模型，使其能有效处理推荐系统中的超词汇标记](2024年06月12日/Improving_LLMs_for_Recommendation_with_Out-Of-Vocabulary_Tokens.md)
+
+- [Real2Code: Reconstruct Articulated Objects via Code Generation](2024年06月12日/Real2Code_Reconstruct_Articulated_Objects_via_Code_Generation.md)
+
+    - [翻译: Real2Code：代码生成助力关节对象重建](2024年06月12日/Real2Code_Reconstruct_Articulated_Objects_via_Code_Generation.md)
+
+- [PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences](2024年06月12日/PAL_Pluralistic_Alignment_Framework_for_Learning_from_Heterogeneous_Preferences.md)
+
+    - [翻译: PAL：异质偏好学习的多样性对齐框架](2024年06月12日/PAL_Pluralistic_Alignment_Framework_for_Learning_from_Heterogeneous_Preferences.md)
+
+- [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](2024年06月12日/Magpie_Alignment_Data_Synthesis_from_Scratch_by_Prompting_Aligned_LLMs_with_Nothing.md)
+
+    - [翻译: Magpie：借助无任何先验知识，通过提示对齐的LLMs，从零开始生成对齐数据](2024年06月12日/Magpie_Alignment_Data_Synthesis_from_Scratch_by_Prompting_Aligned_LLMs_with_Nothing.md)
+
+- [OLMES: A Standard for Language Model Evaluations](2024年06月12日/OLMES_A_Standard_for_Language_Model_Evaluations.md)
+
+    - [翻译: OLMES：语言模型评估的标杆](2024年06月12日/OLMES_A_Standard_for_Language_Model_Evaluations.md)
+
+- [TasTe: Teaching Large Language Models to Translate through Self-Reflection](2024年06月12日/TasTe_Teaching_Large_Language_Models_to_Translate_through_Self-Reflection.md)
+
+    - [翻译: TasTe：借助自我反思，大型语言模型翻译技艺得以精进](2024年06月12日/TasTe_Teaching_Large_Language_Models_to_Translate_through_Self-Reflection.md)
+
+- [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](2024年06月12日/Next-Generation_Database_Interfaces_A_Survey_of_LLM-based_Text-to-SQL.md)
+
+    - [翻译: 探索未来数据库交互：基于大型语言模型的文本至SQL技术综述](2024年06月12日/Next-Generation_Database_Interfaces_A_Survey_of_LLM-based_Text-to-SQL.md)
+
+- [Discovering Preference Optimization Algorithms with and for Large Language Models](2024年06月12日/Discovering_Preference_Optimization_Algorithms_with_and_for_Large_Language_Models.md)
+
+    - [翻译: 探索与大规模语言模型相适应的偏好优化算法](2024年06月12日/Discovering_Preference_Optimization_Algorithms_with_and_for_Large_Language_Models.md)
+
+- [Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](2024年06月12日/Memory_Is_All_You_Need_An_Overview_of_Compute-in-Memory_Architectures_for_Accelerating_Large_Language_Model_Inference.md)
+
+    - [翻译: 记忆至上：计算内存架构如何加速大型语言模型推理的全景解析](2024年06月12日/Memory_Is_All_You_Need_An_Overview_of_Compute-in-Memory_Architectures_for_Accelerating_Large_Language_Model_Inference.md)
+
+- [Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models](2024年06月12日/Understanding_Sounds,_Missing_the_Questions_The_Challenge_of_Object_Hallucination_in_Large_Audio-Language_Models.md)
+
+    - [翻译: 听声辨物却失问：大型音频-语言模型中物体幻觉的挑战](2024年06月12日/Understanding_Sounds,_Missing_the_Questions_The_Challenge_of_Object_Hallucination_in_Large_Audio-Language_Models.md)
+
+- [Large Language Models Must Be Taught to Know What They Don't Know](2024年06月12日/Large_Language_Models_Must_Be_Taught_to_Know_What_They_Don't_Know.md)
+
+    - [翻译: 大型语言模型需学会识别自身的知识盲区。](2024年06月12日/Large_Language_Models_Must_Be_Taught_to_Know_What_They_Don't_Know.md)
+
+- [Banal Deception Human-AI Ecosystems: A Study of People's Perceptions of LLM-generated Deceptive Behaviour](2024年06月12日/Banal_Deception_Human-AI_Ecosystems_A_Study_of_People's_Perceptions_of_LLM-generated_Deceptive_Behaviour.md)
+
+    - [翻译: 欺骗的平凡化：探究人类与AI共存生态中，人们对大型语言模型生成欺骗行为的认知](2024年06月12日/Banal_Deception_Human-AI_Ecosystems_A_Study_of_People's_Perceptions_of_LLM-generated_Deceptive_Behaviour.md)
+
+- [Towards Unsupervised Speech Recognition Without Pronunciation Models](2024年06月12日/Towards_Unsupervised_Speech_Recognition_Without_Pronunciation_Models.md)
+
+    - [翻译: 迈向无需发音模型的无监督语音识别](2024年06月12日/Towards_Unsupervised_Speech_Recognition_Without_Pronunciation_Models.md)
 
 2024年06月11日
 
@@ -442,7 +498,7 @@
 
 - [ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large Language Models](2024年06月11日/ALPS_Improved_Optimization_for_Highly_Sparse_One-Shot_Pruning_for_Large_Language_Models.md)
 
-    - [翻译: ALPS：优化大型语言模型的高稀疏一次性修剪技术](2024年06月11日/ALPS_Improved_Optimization_for_Highly_Sparse_One-Shot_Pruning_for_Large_Language_Models.md)
+    - [翻译: ALPS：提升大型语言模型高稀疏一次性剪枝的优化策略](2024年06月11日/ALPS_Improved_Optimization_for_Highly_Sparse_One-Shot_Pruning_for_Large_Language_Models.md)
 
 - [Are Large Language Models Good Statisticians?](2024年06月11日/Are_Large_Language_Models_Good_Statisticians.md)
 
@@ -450,19 +506,19 @@
 
 - [Harnessing GenAI for Higher Education: A Study of a Retrieval Augmented Generation Chatbot's Impact on Human Learning](2024年06月11日/Harnessing_GenAI_for_Higher_Education_A_Study_of_a_Retrieval_Augmented_Generation_Chatbot's_Impact_on_Human_Learning.md)
 
-    - [翻译: 探索生成式人工智能在高等教育中的应用：一项研究检索增强型聊天机器人如何促进人类学习的调查](2024年06月11日/Harnessing_GenAI_for_Higher_Education_A_Study_of_a_Retrieval_Augmented_Generation_Chatbot's_Impact_on_Human_Learning.md)
+    - [翻译: 探索GenAI在高等教育中的应用：检索增强生成型聊天机器人如何影响人类学习](2024年06月11日/Harnessing_GenAI_for_Higher_Education_A_Study_of_a_Retrieval_Augmented_Generation_Chatbot's_Impact_on_Human_Learning.md)
 
 - [IndirectRequests: Making Task-Oriented Dialogue Datasets More Natural by Synthetically Generating Indirect User Requests](2024年06月11日/IndirectRequests_Making_Task-Oriented_Dialogue_Datasets_More_Natural_by_Synthetically_Generating_Indirect_User_Requests.md)
 
-    - [翻译: 通过合成间接用户请求，我们旨在使任务导向对话数据集更贴近自然语言，从而提升其自然度和实用性。](2024年06月11日/IndirectRequests_Making_Task-Oriented_Dialogue_Datasets_More_Natural_by_Synthetically_Generating_Indirect_User_Requests.md)
+    - [翻译: 通过合成间接用户请求，我们提升了任务导向对话数据集的自然度，使其更贴近真实对话场景。](2024年06月11日/IndirectRequests_Making_Task-Oriented_Dialogue_Datasets_More_Natural_by_Synthetically_Generating_Indirect_User_Requests.md)
 
 - [A Critical Look At Tokenwise Reward-Guided Text Generation](2024年06月11日/A_Critical_Look_At_Tokenwise_Reward-Guided_Text_Generation.md)
 
-    - [翻译: 深入剖析：基于令牌级奖励的文本生成之批判性分析](2024年06月11日/A_Critical_Look_At_Tokenwise_Reward-Guided_Text_Generation.md)
+    - [翻译: 深入剖析：基于令牌级奖励的文本生成策略](2024年06月11日/A_Critical_Look_At_Tokenwise_Reward-Guided_Text_Generation.md)
 
 - [LT4SG@SMM4H24: Tweets Classification for Digital Epidemiology of Childhood Health Outcomes Using Pre-Trained Language Models](2024年06月11日/LT4SG@SMM4H24_Tweets_Classification_for_Digital_Epidemiology_of_Childhood_Health_Outcomes_Using_Pre-Trained_Language_Models.md)
 
-    - [翻译: LT4SG@SMM4H24：借助预训练语言模型，对儿童健康相关的推文进行分类，以探索数字流行病学的新领域。](2024年06月11日/LT4SG@SMM4H24_Tweets_Classification_for_Digital_Epidemiology_of_Childhood_Health_Outcomes_Using_Pre-Trained_Language_Models.md)
+    - [翻译: SMM4H24研讨会中的LT4SG项目：利用预训练语言模型对儿童健康相关的推文进行分类，以支持数字流行病学研究](2024年06月11日/LT4SG@SMM4H24_Tweets_Classification_for_Digital_Epidemiology_of_Childhood_Health_Outcomes_Using_Pre-Trained_Language_Models.md)
 
 - [UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback](2024年06月11日/UICoder_Finetuning_Large_Language_Models_to_Generate_User_Interface_Code_through_Automated_Feedback.md)
 
@@ -474,7 +530,7 @@
 
 - [REAL Sampling: Boosting Factuality and Diversity of Open-Ended Generation via Asymptotic Entropy](2024年06月11日/REAL_Sampling_Boosting_Factuality_and_Diversity_of_Open-Ended_Generation_via_Asymptotic_Entropy.md)
 
-    - [翻译: REAL Sampling：借助渐近熵之力，提升开放式生成的真实性与多样性](2024年06月11日/REAL_Sampling_Boosting_Factuality_and_Diversity_of_Open-Ended_Generation_via_Asymptotic_Entropy.md)
+    - [翻译: REAL采样：借助渐近熵，提升开放式生成内容的真实性与多样性](2024年06月11日/REAL_Sampling_Boosting_Factuality_and_Diversity_of_Open-Ended_Generation_via_Asymptotic_Entropy.md)
 
 - [LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](2024年06月11日/LLAMAFUZZ_Large_Language_Model_Enhanced_Greybox_Fuzzing.md)
 
@@ -482,11 +538,11 @@
 
 - [CUPID: Contextual Understanding of Prompt-conditioned Image Distributions](2024年06月11日/CUPID_Contextual_Understanding_of_Prompt-conditioned_Image_Distributions.md)
 
-    - [翻译: CUPID：理解基于提示的图像分布的上下文环境](2024年06月11日/CUPID_Contextual_Understanding_of_Prompt-conditioned_Image_Distributions.md)
+    - [翻译: ](2024年06月11日/CUPID_Contextual_Understanding_of_Prompt-conditioned_Image_Distributions.md)
 
 - [MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models](2024年06月11日/MLLMGuard_A_Multi-dimensional_Safety_Evaluation_Suite_for_Multimodal_Large_Language_Models.md)
 
-    - [翻译: MLLMGuard：大型多模态语言模型的全方位安全评估工具](2024年06月11日/MLLMGuard_A_Multi-dimensional_Safety_Evaluation_Suite_for_Multimodal_Large_Language_Models.md)
+    - [翻译: ](2024年06月11日/MLLMGuard_A_Multi-dimensional_Safety_Evaluation_Suite_for_Multimodal_Large_Language_Models.md)
 
 2024年06月10日
 
@@ -2542,4 +2598,4 @@
 
 - [Domain-specific ReAct for physics-integrated iterative modeling: A case study of LLM agents for gas path analysis of gas turbines](2024年06月01日/Domain-specific_ReAct_for_physics-integrated_iterative_modeling_A_case_study_of_LLM_agents_for_gas_path_analysis_of_gas_turbines.md)
 
-    - [翻译: 特定领域 ReAct 在物理集成迭代建模中的应用：以大型语言模型代理在燃气轮机气体路径分析中的案例为例](2024年06月01日/Domain-specific_ReAct_for_physics-integrated_iterative_modeling_A_case_study_of_LLM_agents_for_gas_path_analysis_of_gas_turbines.md)
+    - [翻译: ](2024年06月01日/Domain-specific_ReAct_for_physics-integrated_iterative_modeling_A_case_study_of_LLM_agents_for_gas_path_analysis_of_gas_turbines.md)
