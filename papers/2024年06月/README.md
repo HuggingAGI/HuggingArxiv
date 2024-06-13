@@ -1,5 +1,35 @@
 # 2024年06月
 
+2024年06月12日
+
+- [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](2024年06月12日/MobileAgentBench_An_Efficient_and_User-Friendly_Benchmark_for_Mobile_LLM_Agents.md)
+
+    - [翻译: MobileAgentBench：高效便捷的移动LLM代理评估标杆](2024年06月12日/MobileAgentBench_An_Efficient_and_User-Friendly_Benchmark_for_Mobile_LLM_Agents.md)
+
+- [Multimodal Table Understanding](2024年06月12日/Multimodal_Table_Understanding.md)
+
+    - [翻译: 多模态下的表格智能解析](2024年06月12日/Multimodal_Table_Understanding.md)
+
+- [A Concept-Based Explainability Framework for Large Multimodal Models](2024年06月12日/A_Concept-Based_Explainability_Framework_for_Large_Multimodal_Models.md)
+
+    - [翻译: 大型多模态模型的概念驱动解释框架](2024年06月12日/A_Concept-Based_Explainability_Framework_for_Large_Multimodal_Models.md)
+
+- [Large Language Models Meet Text-Centric Multimodal Sentiment Analysis: A Survey](2024年06月12日/Large_Language_Models_Meet_Text-Centric_Multimodal_Sentiment_Analysis_A_Survey.md)
+
+    - [翻译: 大型语言模型与文本主导的多模态情感分析：一次深度探索](2024年06月12日/Large_Language_Models_Meet_Text-Centric_Multimodal_Sentiment_Analysis_A_Survey.md)
+
+- [LVBench: An Extreme Long Video Understanding Benchmark](2024年06月12日/LVBench_An_Extreme_Long_Video_Understanding_Benchmark.md)
+
+    - [翻译: LVBench：极端长视频理解的全新基准](2024年06月12日/LVBench_An_Extreme_Long_Video_Understanding_Benchmark.md)
+
+- [Grounding Multimodal Large Language Models in Actions](2024年06月12日/Grounding_Multimodal_Large_Language_Models_in_Actions.md)
+
+    - [翻译: 融合动作基础的多模态大型语言模型](2024年06月12日/Grounding_Multimodal_Large_Language_Models_in_Actions.md)
+
+- [Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation](2024年06月12日/Let's_Go_Real_Talk_Spoken_Dialogue_Model_for_Face-to-Face_Conversation.md)
+
+    - [翻译: 来一场真挚对话：面对面交流的口语对话模型](2024年06月12日/Let's_Go_Real_Talk_Spoken_Dialogue_Model_for_Face-to-Face_Conversation.md)
+
 2024年06月11日
 
 - [World Models with Hints of Large Language Models for Goal Achieving](2024年06月11日/World_Models_with_Hints_of_Large_Language_Models_for_Goal_Achieving.md)
