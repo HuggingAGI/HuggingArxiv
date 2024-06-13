@@ -4318,6 +4318,10 @@
 
     - [翻译: 探究大型多模态模型在处理密集文本时的潜能](2024年05月09日/Exploring_the_Capabilities_of_Large_Multimodal_Models_on_Dense_Text.md)
 
+- [Artificial Intelligence as the New Hacker: Developing Agents for Offensive Security](2024年05月09日/Artificial_Intelligence_as_the_New_Hacker_Developing_Agents_for_Offensive_Security.md)
+
+    - [翻译: 人工智能：新一代黑客的崛起——开发用于攻击性安全的智能代理](2024年05月09日/Artificial_Intelligence_as_the_New_Hacker_Developing_Agents_for_Offensive_Security.md)
+
 2024年05月08日
 
 - [THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](2024年05月08日/THRONE_An_Object-based_Hallucination_Benchmark_for_the_Free-form_Generations_of_Large_Vision-Language_Models.md)
