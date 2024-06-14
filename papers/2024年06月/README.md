@@ -1,5 +1,27 @@
 # 2024年06月
 
+2024年06月13日
+
+- [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](2024年06月13日/GuardAgent_Safeguard_LLM_Agents_by_a_Guard_Agent_via_Knowledge-Enabled_Reasoning.md)
+
+    - [翻译: GuardAgent：利用知识驱动推理，守护大型语言模型代理的安全卫士](2024年06月13日/GuardAgent_Safeguard_LLM_Agents_by_a_Guard_Agent_via_Knowledge-Enabled_Reasoning.md)
+
+- [AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models](2024年06月13日/AlignMMBench_Evaluating_Chinese_Multimodal_Alignment_in_Large_Vision-Language_Models.md)
+
+    - [翻译: AlignMMBench：大型视觉-语言模型中中文多模态对齐的评估工具](2024年06月13日/AlignMMBench_Evaluating_Chinese_Multimodal_Alignment_in_Large_Vision-Language_Models.md)
+
+- [Comparison Visual Instruction Tuning](2024年06月13日/Comparison_Visual_Instruction_Tuning.md)
+
+    - [翻译: 视觉指令调整比较研究](2024年06月13日/Comparison_Visual_Instruction_Tuning.md)
+
+- [INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance](2024年06月13日/INS-MMBench_A_Comprehensive_Benchmark_for_Evaluating_LVLMs'_Performance_in_Insurance.md)
+
+    - [翻译: INS-MMBench：全面检验大型视觉语言模型在保险行业表现的综合基准](2024年06月13日/INS-MMBench_A_Comprehensive_Benchmark_for_Evaluating_LVLMs'_Performance_in_Insurance.md)
+
+- [Multi-Agent Software Development through Cross-Team Collaboration](2024年06月13日/Multi-Agent_Software_Development_through_Cross-Team_Collaboration.md)
+
+    - [翻译: 跨团队协作下的多代理软件开发](2024年06月13日/Multi-Agent_Software_Development_through_Cross-Team_Collaboration.md)
+
 2024年06月12日
 
 - [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](2024年06月12日/MobileAgentBench_An_Efficient_and_User-Friendly_Benchmark_for_Mobile_LLM_Agents.md)
@@ -241,6 +263,22 @@
 - [Towards Unsupervised Speech Recognition Without Pronunciation Models](2024年06月12日/Towards_Unsupervised_Speech_Recognition_Without_Pronunciation_Models.md)
 
     - [翻译: 迈向无需发音模型的无监督语音识别](2024年06月12日/Towards_Unsupervised_Speech_Recognition_Without_Pronunciation_Models.md)
+
+- [MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs](2024年06月12日/MMFakeBench_A_Mixed-Source_Multimodal_Misinformation_Detection_Benchmark_for_LVLMs.md)
+
+    - [翻译: MMFakeBench：大型视觉语言模型（LVLMs）的混合源多模态虚假信息检测基准解释：在](2024年06月12日/MMFakeBench_A_Mixed-Source_Multimodal_Misinformation_Detection_Benchmark_for_LVLMs.md)
+
+- [mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus](2024年06月12日/mOSCAR_A_Large-scale_Multilingual_and_Multimodal_Document-level_Corpus.md)
+
+    - [翻译: mOSCAR：一个涵盖多语言与多模态的大规模文档级语料库](2024年06月12日/mOSCAR_A_Large-scale_Multilingual_and_Multimodal_Document-level_Corpus.md)
+
+- [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](2024年06月12日/VLind-Bench_Measuring_Language_Priors_in_Large_Vision-Language_Models.md)
+
+    - [翻译: VLind-Bench：探索大型视觉-语言模型中的语言先验](2024年06月12日/VLind-Bench_Measuring_Language_Priors_in_Large_Vision-Language_Models.md)
+
+- [LLM-assisted Concept Discovery: Automatically Identifying and Explaining Neuron Functions](2024年06月12日/LLM-assisted_Concept_Discovery_Automatically_Identifying_and_Explaining_Neuron_Functions.md)
+
+    - [翻译: 利用LLM辅助进行概念发现：自动揭示并阐释神经元的作用](2024年06月12日/LLM-assisted_Concept_Discovery_Automatically_Identifying_and_Explaining_Neuron_Functions.md)
 
 2024年06月11日
 
