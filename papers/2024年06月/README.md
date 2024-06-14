@@ -1808,6 +1808,10 @@
 
     - [翻译: GameBench：探究 LLM 代理在战略推理上的表现](2024年06月06日/GameBench_Evaluating_Strategic_Reasoning_Abilities_of_LLM_Agents.md)
 
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](2024年06月06日/The_Prompt_Report_A_Systematic_Survey_of_Prompting_Techniques.md)
+
+    - [翻译: 《提示技术综述：系统性探索》](2024年06月06日/The_Prompt_Report_A_Systematic_Survey_of_Prompting_Techniques.md)
+
 2024年06月05日
 
 - [The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games](2024年06月05日/The_Good,_the_Bad,_and_the_Hulk-like_GPT_Analyzing_Emotional_Decisions_of_Large_Language_Models_in_Cooperation_and_Bargaining_Games.md)

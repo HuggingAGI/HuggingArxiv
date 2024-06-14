@@ -28,6 +28,10 @@
 
     - [翻译: 利用大型语言模型开展多智能体系统中的规范违反检测：一项探索性研究。](2024年03月25日/Norm_Violation_Detection_in_Multi-Agent_Systems_using_Large_Language_Models_A_Pilot_Study.md)
 
+- [A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection](2024年03月25日/A_Comprehensive_Study_of_the_Capabilities_of_Large_Language_Models_for_Vulnerability_Detection.md)
+
+    - [翻译: 大型语言模型漏洞检测能力全面探究](2024年03月25日/A_Comprehensive_Study_of_the_Capabilities_of_Large_Language_Models_for_Vulnerability_Detection.md)
+
 2024年03月23日
 
 - [Fine Tuning LLM for Enterprise: Practical Guidelines and Recommendations](2024年03月23日/Fine_Tuning_LLM_for_Enterprise_Practical_Guidelines_and_Recommendations.md)
