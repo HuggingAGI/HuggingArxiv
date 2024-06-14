@@ -140,11 +140,11 @@
 
 - [LLM Reading Tea Leaves: Automatically Evaluating Topic Models with Large Language Models](2024年06月13日/LLM_Reading_Tea_Leaves_Automatically_Evaluating_Topic_Models_with_Large_Language_Models.md)
 
-    - [翻译: 大型语言模型解读主题脉络：利用大型语言模型自动评估主题模型的有效性](2024年06月13日/LLM_Reading_Tea_Leaves_Automatically_Evaluating_Topic_Models_with_Large_Language_Models.md)
+    - [翻译: 大型语言模型解读茶叶：利用大型语言模型自动评估主题模型的有效性](2024年06月13日/LLM_Reading_Tea_Leaves_Automatically_Evaluating_Topic_Models_with_Large_Language_Models.md)
 
 - [Towards Next Era of Multi-objective Optimization: Large Language Models as Architects of Evolutionary Operators](2024年06月13日/Towards_Next_Era_of_Multi-objective_Optimization_Large_Language_Models_as_Architects_of_Evolutionary_Operators.md)
 
-    - [翻译: 迎接多目标优化的新纪元：大型语言模型担当进化算子之架构师](2024年06月13日/Towards_Next_Era_of_Multi-objective_Optimization_Large_Language_Models_as_Architects_of_Evolutionary_Operators.md)
+    - [翻译: 迎接多目标优化的新纪元：大型语言模型担当进化算子设计大师](2024年06月13日/Towards_Next_Era_of_Multi-objective_Optimization_Large_Language_Models_as_Architects_of_Evolutionary_Operators.md)
 
 - [XLand-100B: A Large-Scale Multi-Task Dataset for In-Context Reinforcement Learning](2024年06月13日/XLand-100B_A_Large-Scale_Multi-Task_Dataset_for_In-Context_Reinforcement_Learning.md)
 
@@ -156,7 +156,7 @@
 
 - [Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models](2024年06月13日/Delta-CoMe_Training-Free_Delta-Compression_with_Mixed-Precision_for_Large_Language_Models.md)
 
-    - [翻译: Delta-CoMe：大型语言模型中的混合精度增量压缩技术，无需额外训练。](2024年06月13日/Delta-CoMe_Training-Free_Delta-Compression_with_Mixed-Precision_for_Large_Language_Models.md)
+    - [翻译: Delta-CoMe：大型语言模型中的混合精度Delta压缩，无需额外训练](2024年06月13日/Delta-CoMe_Training-Free_Delta-Compression_with_Mixed-Precision_for_Large_Language_Models.md)
 
 - [Robust Information Retrieval](2024年06月13日/Robust_Information_Retrieval.md)
 
@@ -164,11 +164,11 @@
 
 - [Cognitively Inspired Energy-Based World Models](2024年06月13日/Cognitively_Inspired_Energy-Based_World_Models.md)
 
-    - [翻译: 受认知启发的基于能量的世界观](2024年06月13日/Cognitively_Inspired_Energy-Based_World_Models.md)
+    - [翻译: 基于认知启发的能量驱动世界模型](2024年06月13日/Cognitively_Inspired_Energy-Based_World_Models.md)
 
 - [Plan, Generate and Complicate: Improving Low-resource Dialogue State Tracking via Easy-to-Difficult Zero-shot Data Augmentation](2024年06月13日/Plan,_Generate_and_Complicate_Improving_Low-resource_Dialogue_State_Tracking_via_Easy-to-Difficult_Zero-shot_Data_Augmentation.md)
 
-    - [翻译: 步步为营，由简入繁：利用零-shot数据增强策略，循序渐进地提升低资源环境下的对话状态跟踪能力。](2024年06月13日/Plan,_Generate_and_Complicate_Improving_Low-resource_Dialogue_State_Tracking_via_Easy-to-Difficult_Zero-shot_Data_Augmentation.md)
+    - [翻译: 策略、创造与深化：利用渐进式零-shot数据增强提升低资源对话状态追踪能力](2024年06月13日/Plan,_Generate_and_Complicate_Improving_Low-resource_Dialogue_State_Tracking_via_Easy-to-Difficult_Zero-shot_Data_Augmentation.md)
 
 - [An Approach to Build Zero-Shot Slot-Filling System for Industry-Grade Conversational Assistants](2024年06月13日/An_Approach_to_Build_Zero-Shot_Slot-Filling_System_for_Industry-Grade_Conversational_Assistants.md)
 
@@ -180,7 +180,7 @@
 
 - [LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions](2024年06月13日/LLM-Driven_Robots_Risk_Enacting_Discrimination,_Violence,_and_Unlawful_Actions.md)
 
-    - [翻译: 大型语言模型驱动的机器人可能面临执行歧视、暴力及非法行为的风险。](2024年06月13日/LLM-Driven_Robots_Risk_Enacting_Discrimination,_Violence,_and_Unlawful_Actions.md)
+    - [翻译: 大型语言模型（LLM）驱动的机器人可能引发歧视、暴力及违法行为的风险。](2024年06月13日/LLM-Driven_Robots_Risk_Enacting_Discrimination,_Violence,_and_Unlawful_Actions.md)
 
 - [Mixture-of-Skills: Learning to Optimize Data Usage for Fine-Tuning Large Language Models](2024年06月13日/Mixture-of-Skills_Learning_to_Optimize_Data_Usage_for_Fine-Tuning_Large_Language_Models.md)
 
@@ -196,11 +196,11 @@
 
 - [Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos](2024年06月13日/Action2Sound_Ambient-Aware_Generation_of_Action_Sounds_from_Egocentric_Videos.md)
 
-    - [翻译: Action2Sound：从第一视角视频中生成与环境相协调的动作声音](2024年06月13日/Action2Sound_Ambient-Aware_Generation_of_Action_Sounds_from_Egocentric_Videos.md)
+    - [翻译: Action2Sound：从第一视角视频中，智能生成与环境相协调的动作声音](2024年06月13日/Action2Sound_Ambient-Aware_Generation_of_Action_Sounds_from_Egocentric_Videos.md)
 
 - [VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding](2024年06月13日/VideoGPT+_Integrating_Image_and_Video_Encoders_for_Enhanced_Video_Understanding.md)
 
-    - [翻译: VideoGPT+：融合图像与视频编码器，提升视频理解力](2024年06月13日/VideoGPT+_Integrating_Image_and_Video_Encoders_for_Enhanced_Video_Understanding.md)
+    - [翻译: VideoGPT+：融合图像与视频编码，提升视频理解深度](2024年06月13日/VideoGPT+_Integrating_Image_and_Video_Encoders_for_Enhanced_Video_Understanding.md)
 
 - [Explore the Limits of Omni-modal Pretraining at Scale](2024年06月13日/Explore_the_Limits_of_Omni-modal_Pretraining_at_Scale.md)
 
@@ -208,7 +208,7 @@
 
 - [4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities](2024年06月13日/4M-21_An_Any-to-Any_Vision_Model_for_Tens_of_Tasks_and_Modalities.md)
 
-    - [翻译: 4M-21：一款全能视觉模型，轻松应对多任务多模态挑战](2024年06月13日/4M-21_An_Any-to-Any_Vision_Model_for_Tens_of_Tasks_and_Modalities.md)
+    - [翻译: 4M-21：一款全能视觉模型，轻松应对数十种任务与模态的挑战](2024年06月13日/4M-21_An_Any-to-Any_Vision_Model_for_Tens_of_Tasks_and_Modalities.md)
 
 - [Yo'LLaVA: Your Personalized Language and Vision Assistant](2024年06月13日/Yo'LLaVA_Your_Personalized_Language_and_Vision_Assistant.md)
 
@@ -225,6 +225,30 @@
 - [CMC-Bench: Towards a New Paradigm of Visual Signal Compression](2024年06月13日/CMC-Bench_Towards_a_New_Paradigm_of_Visual_Signal_Compression.md)
 
     - [翻译: CMC-Bench：开启视觉信号压缩的新纪元](2024年06月13日/CMC-Bench_Towards_a_New_Paradigm_of_Visual_Signal_Compression.md)
+
+- [Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms](2024年06月13日/Aligning_Vision_Models_with_Human_Aesthetics_in_Retrieval_Benchmarks_and_Algorithms.md)
+
+    - [翻译: 视觉模型与人类美学的对齐：检索基准与算法探索](2024年06月13日/Aligning_Vision_Models_with_Human_Aesthetics_in_Retrieval_Benchmarks_and_Algorithms.md)
+
+- [Too Many Frames, not all Useful:Efficient Strategies for Long-Form Video QA](2024年06月13日/Too_Many_Frames,_not_all_UsefulEfficient_Strategies_for_Long-Form_Video_QA.md)
+
+    - [翻译: 帧多未必好：长视频问答中的高效策略](2024年06月13日/Too_Many_Frames,_not_all_UsefulEfficient_Strategies_for_Long-Form_Video_QA.md)
+
+- [LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living](2024年06月13日/LLAVIDAL_Benchmarking_Large_Language_Vision_Models_for_Daily_Activities_of_Living.md)
+
+    - [翻译: LLAVIDAL：评估大型语言视觉模型在日常活动中的表现基准](2024年06月13日/LLAVIDAL_Benchmarking_Large_Language_Vision_Models_for_Daily_Activities_of_Living.md)
+
+- [ElicitationGPT: Text Elicitation Mechanisms via Language Models](2024年06月13日/ElicitationGPT_Text_Elicitation_Mechanisms_via_Language_Models.md)
+
+    - [翻译: ElicitationGPT：语言模型驱动的文本诱导技术](2024年06月13日/ElicitationGPT_Text_Elicitation_Mechanisms_via_Language_Models.md)
+
+- [Enhancing Domain Adaptation through Prompt Gradient Alignment](2024年06月13日/Enhancing_Domain_Adaptation_through_Prompt_Gradient_Alignment.md)
+
+    - [翻译: 利用提示梯度对齐提升领域适应能力](2024年06月13日/Enhancing_Domain_Adaptation_through_Prompt_Gradient_Alignment.md)
+
+- [DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding](2024年06月13日/DiscreteSLU_A_Large_Language_Model_with_Self-Supervised_Discrete_Speech_Units_for_Spoken_Language_Understanding.md)
+
+    - [翻译: DiscreteSLU：大型语言模型搭载自监督离散语音单元，助力口语理解](2024年06月13日/DiscreteSLU_A_Large_Language_Model_with_Self-Supervised_Discrete_Speech_Units_for_Spoken_Language_Understanding.md)
 
 2024年06月12日
 
@@ -486,7 +510,7 @@
 
 - [A Survey on Compositional Learning of AI Models: Theoretical and Experimetnal Practices](2024年06月12日/A_Survey_on_Compositional_Learning_of_AI_Models_Theoretical_and_Experimetnal_Practices.md)
 
-    - [翻译: AI模型组合学习综述：理论与实践探索](2024年06月12日/A_Survey_on_Compositional_Learning_of_AI_Models_Theoretical_and_Experimetnal_Practices.md)
+    - [翻译: AI模型组合学习综述：理论探索与实验实践](2024年06月12日/A_Survey_on_Compositional_Learning_of_AI_Models_Theoretical_and_Experimetnal_Practices.md)
 
 - [LLM-based Knowledge Pruning for Time Series Data Analytics on Edge-computing Devices](2024年06月12日/LLM-based_Knowledge_Pruning_for_Time_Series_Data_Analytics_on_Edge-computing_Devices.md)
 
@@ -494,7 +518,7 @@
 
 - [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](2024年06月12日/StreamBench_Towards_Benchmarking_Continuous_Improvement_of_Language_Agents.md)
 
-    - [翻译: StreamBench：助力语言代理持续优化的新基准](2024年06月12日/StreamBench_Towards_Benchmarking_Continuous_Improvement_of_Language_Agents.md)
+    - [翻译: StreamBench：探索语言代理持续优化的基准之路](2024年06月12日/StreamBench_Towards_Benchmarking_Continuous_Improvement_of_Language_Agents.md)
 
 - [RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs](2024年06月12日/RL-JACK_Reinforcement_Learning-powered_Black-box_Jailbreaking_Attack_against_LLMs.md)
 
