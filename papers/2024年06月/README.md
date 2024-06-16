@@ -1028,6 +1028,10 @@
 
     - [翻译: LLM-dCache：利用GPT驱动本地数据缓存优化工具增强的大型语言模型](2024年06月10日/LLM-dCache_Improving_Tool-Augmented_LLMs_with_GPT-Driven_Localized_Data_Caching.md)
 
+- [Can Language Models Serve as Text-Based World Simulators?](2024年06月10日/Can_Language_Models_Serve_as_Text-Based_World_Simulators.md)
+
+    - [翻译: 语言模型是否能化身为基于文本的世界模拟器？](2024年06月10日/Can_Language_Models_Serve_as_Text-Based_World_Simulators.md)
+
 2024年06月09日
 
 - [STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models](2024年06月09日/STARLING_Self-supervised_Training_of_Text-based_Reinforcement_Learning_Agent_with_Large_Language_Models.md)
