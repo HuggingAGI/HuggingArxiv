@@ -192,11 +192,11 @@
 
 - [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](2024年06月14日/Towards_Efficient_Pareto_Set_Approximation_via_Mixture_of_Experts_Based_Model_Fusion.md)
 
-    - [翻译: 基于专家混合模型的融合策略，助力高效逼近帕累托集](2024年06月14日/Towards_Efficient_Pareto_Set_Approximation_via_Mixture_of_Experts_Based_Model_Fusion.md)
+    - [翻译: 基于混合专家模型的融合，探索高效Pareto集近似之道](2024年06月14日/Towards_Efficient_Pareto_Set_Approximation_via_Mixture_of_Experts_Based_Model_Fusion.md)
 
 - [Bootstrapping Language Models with DPO Implicit Rewards](2024年06月14日/Bootstrapping_Language_Models_with_DPO_Implicit_Rewards.md)
 
-    - [翻译: 利用DPO隐式奖励优化语言模型](2024年06月14日/Bootstrapping_Language_Models_with_DPO_Implicit_Rewards.md)
+    - [翻译: 借助DPO隐式奖励优化语言模型](2024年06月14日/Bootstrapping_Language_Models_with_DPO_Implicit_Rewards.md)
 
 - [Evaluating LLM-driven User-Intent Formalization for Verification-Aware Languages](2024年06月14日/Evaluating_LLM-driven_User-Intent_Formalization_for_Verification-Aware_Languages.md)
 
@@ -204,7 +204,7 @@
 
 - [ControlVAR: Exploring Controllable Visual Autoregressive Modeling](2024年06月14日/ControlVAR_Exploring_Controllable_Visual_Autoregressive_Modeling.md)
 
-    - [翻译: ControlVAR：探索视觉自回归建模的可控性](2024年06月14日/ControlVAR_Exploring_Controllable_Visual_Autoregressive_Modeling.md)
+    - [翻译: ControlVAR：揭秘可控视觉自回归建模的奥秘](2024年06月14日/ControlVAR_Exploring_Controllable_Visual_Autoregressive_Modeling.md)
 
 - [STALL+: Boosting LLM-based Repository-level Code Completion with Static Analysis](2024年06月14日/STALL+_Boosting_LLM-based_Repository-level_Code_Completion_with_Static_Analysis.md)
 
@@ -764,11 +764,11 @@
 
 - [Ad Auctions for LLMs via Retrieval Augmented Generation](2024年06月12日/Ad_Auctions_for_LLMs_via_Retrieval_Augmented_Generation.md)
 
-    - [翻译: 大型语言模型广告拍卖：检索增强生成策略](2024年06月12日/Ad_Auctions_for_LLMs_via_Retrieval_Augmented_Generation.md)
+    - [翻译: 大型语言模型广告拍卖：检索增强生成法](2024年06月12日/Ad_Auctions_for_LLMs_via_Retrieval_Augmented_Generation.md)
 
 - [Advancing High Resolution Vision-Language Models in Biomedicine](2024年06月12日/Advancing_High_Resolution_Vision-Language_Models_in_Biomedicine.md)
 
-    - [翻译: 生物医学领域高分辨率视觉-语言模型的进步，正开启新的研究篇章。](2024年06月12日/Advancing_High_Resolution_Vision-Language_Models_in_Biomedicine.md)
+    - [翻译: 推动生物医学领域高分辨率视觉-语言模型的前沿发展。](2024年06月12日/Advancing_High_Resolution_Vision-Language_Models_in_Biomedicine.md)
 
 2024年06月11日
 
