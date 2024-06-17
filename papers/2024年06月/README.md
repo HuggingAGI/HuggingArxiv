@@ -1,5 +1,43 @@
 # 2024年06月
 
+2024年06月14日
+
+- [Details Make a Difference: Object State-Sensitive Neurorobotic Task Planning](2024年06月14日/Details_Make_a_Difference_Object_State-Sensitive_Neurorobotic_Task_Planning.md)
+
+    - [翻译: 细节之差，成就非凡：针对物体状态敏感的神经机器人任务规划研究](2024年06月14日/Details_Make_a_Difference_Object_State-Sensitive_Neurorobotic_Task_Planning.md)
+
+- [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](2024年06月14日/VideoGUI_A_Benchmark_for_GUI_Automation_from_Instructional_Videos.md)
+
+    - [翻译: VideoGUI：教学视频中的GUI自动化性能评估基准](2024年06月14日/VideoGUI_A_Benchmark_for_GUI_Automation_from_Instructional_Videos.md)
+
+- [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](2024年06月14日/Detecting_and_Evaluating_Medical_Hallucinations_in_Large_Vision_Language_Models.md)
+
+    - [翻译: 探索大规模视觉语言模型中的医学幻觉：检测与评估](2024年06月14日/Detecting_and_Evaluating_Medical_Hallucinations_in_Large_Vision_Language_Models.md)
+
+- [Localizing Events in Videos with Multimodal Queries](2024年06月14日/Localizing_Events_in_Videos_with_Multimodal_Queries.md)
+
+    - [翻译: 借助多模态查询，精准定位视频中的事件](2024年06月14日/Localizing_Events_in_Videos_with_Multimodal_Queries.md)
+
+- [First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models](2024年06月14日/First_Multi-Dimensional_Evaluation_of_Flowchart_Comprehension_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 首次开展对多模态大型语言模型流程图理解能力的多维度评估研究](2024年06月14日/First_Multi-Dimensional_Evaluation_of_Flowchart_Comprehension_for_Multimodal_Large_Language_Models.md)
+
+- [Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models](2024年06月14日/Precision_Empowers,_Excess_Distracts_Visual_Question_Answering_With_Dynamically_Infused_Knowledge_In_Language_Models.md)
+
+    - [翻译: 精准赋能，过度则扰：语言模型中动态知识注入助力视觉问答](2024年06月14日/Precision_Empowers,_Excess_Distracts_Visual_Question_Answering_With_Dynamically_Infused_Knowledge_In_Language_Models.md)
+
+- [ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation](2024年06月14日/ChartMimic_Evaluating_LMM's_Cross-Modal_Reasoning_Capability_via_Chart-to-Code_Generation.md)
+
+    - [翻译: ChartMimic：借助图表到代码生成，探究LMM的跨模态推理潜能](2024年06月14日/ChartMimic_Evaluating_LMM's_Cross-Modal_Reasoning_Capability_via_Chart-to-Code_Generation.md)
+
+- [LUMA: A Benchmark Dataset for Learning from Uncertain and Multimodal Data](2024年06月14日/LUMA_A_Benchmark_Dataset_for_Learning_from_Uncertain_and_Multimodal_Data.md)
+
+    - [翻译: LUMA：探索不确定与多模态数据的学习新基准](2024年06月14日/LUMA_A_Benchmark_Dataset_for_Learning_from_Uncertain_and_Multimodal_Data.md)
+
+- [GPT-4o: Visual perception performance of multimodal large language models in piglet activity understanding](2024年06月14日/GPT-4o_Visual_perception_performance_of_multimodal_large_language_models_in_piglet_activity_understanding.md)
+
+    - [翻译: GPT-4o：探索多模态大型语言模型在解读小猪行为中的视觉洞察力](2024年06月14日/GPT-4o_Visual_perception_performance_of_multimodal_large_language_models_in_piglet_activity_understanding.md)
+
 2024年06月13日
 
 - [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](2024年06月13日/GuardAgent_Safeguard_LLM_Agents_by_a_Guard_Agent_via_Knowledge-Enabled_Reasoning.md)
@@ -249,6 +287,22 @@
 - [DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding](2024年06月13日/DiscreteSLU_A_Large_Language_Model_with_Self-Supervised_Discrete_Speech_Units_for_Spoken_Language_Understanding.md)
 
     - [翻译: DiscreteSLU：大型语言模型搭载自监督离散语音单元，助力口语理解](2024年06月13日/DiscreteSLU_A_Large_Language_Model_with_Self-Supervised_Discrete_Speech_Units_for_Spoken_Language_Understanding.md)
+
+- [Evaluating ChatGPT-4 Vision on Brazil's National Undergraduate Computer Science Exam](2024年06月13日/Evaluating_ChatGPT-4_Vision_on_Brazil's_National_Undergraduate_Computer_Science_Exam.md)
+
+    - [翻译: 考察 ChatGPT-4 Vision 在巴西本科计算机科学统考中的实际表现](2024年06月13日/Evaluating_ChatGPT-4_Vision_on_Brazil's_National_Undergraduate_Computer_Science_Exam.md)
+
+- [A Survey of Video Datasets for Grounded Event Understanding](2024年06月13日/A_Survey_of_Video_Datasets_for_Grounded_Event_Understanding.md)
+
+    - [翻译: 视频数据集在事件理解中的应用综述](2024年06月13日/A_Survey_of_Video_Datasets_for_Grounded_Event_Understanding.md)
+
+- [Industrial Language-Image Dataset (ILID): Adapting Vision Foundation Models for Industrial Settings](2024年06月13日/Industrial_Language-Image_Dataset_(ILID)_Adapting_Vision_Foundation_Models_for_Industrial_Settings.md)
+
+    - [翻译: 工业场景下的视觉基础模型适配：工业语言-图像数据集（ILID）探索](2024年06月13日/Industrial_Language-Image_Dataset_(ILID)_Adapting_Vision_Foundation_Models_for_Industrial_Settings.md)
+
+- [Multimodal Large Language Models with Fusion Low Rank Adaptation for Device Directed Speech Detection](2024年06月13日/Multimodal_Large_Language_Models_with_Fusion_Low_Rank_Adaptation_for_Device_Directed_Speech_Detection.md)
+
+    - [翻译: 融合低秩适应的多模态大型语言模型在设备定向语音检测中的应用](2024年06月13日/Multimodal_Large_Language_Models_with_Fusion_Low_Rank_Adaptation_for_Device_Directed_Speech_Detection.md)
 
 2024年06月12日
 
