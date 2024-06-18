@@ -1,0 +1,31 @@
+# 照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力
+
+发布时间：2024年06月16日
+
+`RAG
+
+理由：这篇论文主要关注的是多模态知识图谱（MMKGs）的扩展问题，特别是在处理长尾实体时遇到的图像匹配挑战。论文提出的COG框架通过概念引导来增强视觉-语言模型，这涉及到模型的可解释性和人工验证的支持，这些都是RAG（Retrieval-Augmented Generation）领域的关键要素。RAG模型通常结合了检索和生成两个过程，以提高模型的性能和可解释性，这与论文中描述的方法相吻合。因此，这篇论文更适合归类于RAG。` `知识图谱` `人工智能`
+
+> Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models
+
+# 摘要
+
+> 多模态知识图谱（MMKGs）在多种应用中展现出其价值，但扩展这些图谱面临挑战，因为大规模构建时容易引入不匹配的图像（噪声）。知识图谱中的多数实体属于长尾，网络上的相关图像稀缺，这使得判断图像与实体的匹配度变得困难。为此，我们借鉴参照三角理论，提出通过概念引导来增强视觉-语言模型。我们开发的COG框架分为两个阶段：首先是概念整合模块，它能有效识别长尾实体的图像-文本对；其次是证据融合模块，它增强了模型的可解释性并支持人工验证。为了验证COG的效果，我们构建了一个包含25,000个长尾实体图像-文本对的数据集。实验结果显示，COG不仅在识别这些对上超越了基线模型，还提供了灵活性和可解释性。
+
+> Multi-Modal Knowledge Graphs (MMKGs) have proven valuable for various downstream tasks. However, scaling them up is challenging because building large-scale MMKGs often introduces mismatched images (i.e., noise). Most entities in KGs belong to the long tail, meaning there are few images of them available online. This scarcity makes it difficult to determine whether a found image matches the entity. To address this, we draw on the Triangle of Reference Theory and suggest enhancing vision-language models with concept guidance. Specifically, we introduce COG, a two-stage framework with COncept-Guided vision-language models. The framework comprises a Concept Integration module, which effectively identifies image-text pairs of long-tailed entities, and an Evidence Fusion module, which offers explainability and enables human verification. To demonstrate the effectiveness of COG, we create a dataset of 25k image-text pairs of long-tailed entities. Our comprehensive experiments show that COG not only improves the accuracy of recognizing long-tailed image-text pairs compared to baselines but also offers flexibility and explainability.
+
+![照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力](../../../paper_images/2406.10902/x1.png)
+
+![照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力](../../../paper_images/2406.10902/x2.png)
+
+![照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力](../../../paper_images/2406.10902/x3.png)
+
+![照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力](../../../paper_images/2406.10902/x4.png)
+
+![照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力](../../../paper_images/2406.10902/x5.png)
+
+![照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力](../../../paper_images/2406.10902/x6.png)
+
+![照亮暗角：借助概念引导的视觉-语言模型，提升长尾实体的精准定位能力](../../../paper_images/2406.10902/x7.png)
+
+[Arxiv](https://arxiv.org/abs/2406.10902)
