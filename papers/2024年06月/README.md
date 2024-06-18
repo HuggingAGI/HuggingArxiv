@@ -1,5 +1,85 @@
 # 2024年06月
 
+2024年06月16日
+
+- [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](2024年06月16日/Not_All_Bias_is_Bad_Balancing_Rational_Deviations_and_Cognitive_Biases_in_Large_Language_Model_Reasoning.md)
+
+    - [翻译: 并非所有偏差皆为弊端：在大语言模型推理中，理性偏差与认知偏差的平衡之道](2024年06月16日/Not_All_Bias_is_Bad_Balancing_Rational_Deviations_and_Cognitive_Biases_in_Large_Language_Model_Reasoning.md)
+
+- [Toward Optimal LLM Alignments Using Two-Player Games](2024年06月16日/Toward_Optimal_LLM_Alignments_Using_Two-Player_Games.md)
+
+    - [翻译: 利用双人游戏策略，优化大型语言模型（LLM）的对齐效果](2024年06月16日/Toward_Optimal_LLM_Alignments_Using_Two-Player_Games.md)
+
+- [City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization](2024年06月16日/City-LEO_Toward_Transparent_City_Management_Using_LLM_with_End-to-End_Optimization.md)
+
+    - [翻译: City-LEO：借助端到端优化的 LLM，迈向透明城市管理的新篇章](2024年06月16日/City-LEO_Toward_Transparent_City_Management_Using_LLM_with_End-to-End_Optimization.md)
+
+- [Understanding Understanding: A Pragmatic Framework Motivated by Large Language Models](2024年06月16日/Understanding_Understanding_A_Pragmatic_Framework_Motivated_by_Large_Language_Models.md)
+
+    - [翻译: 洞察理解之道：大型语言模型启发的实用框架](2024年06月16日/Understanding_Understanding_A_Pragmatic_Framework_Motivated_by_Large_Language_Models.md)
+
+- [Embodied Question Answering via Multi-LLM Systems](2024年06月16日/Embodied_Question_Answering_via_Multi-LLM_Systems.md)
+
+    - [翻译: 多LLM系统下的具身问答探索](2024年06月16日/Embodied_Question_Answering_via_Multi-LLM_Systems.md)
+
+- [GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents](2024年06月16日/GUI-WORLD_A_Dataset_for_GUI-oriented_Multimodal_LLM-based_Agents.md)
+
+    - [翻译: GUI-WORLD：专为多模态LLM代理设计的图形用户界面数据集。](2024年06月16日/GUI-WORLD_A_Dataset_for_GUI-oriented_Multimodal_LLM-based_Agents.md)
+
+- [HiddenTables & PyQTax: A Cooperative Game and Dataset For TableQA to Ensure Scale and Data Privacy Across a Myriad of Taxonomies](2024年06月16日/HiddenTables_&_PyQTax_A_Cooperative_Game_and_Dataset_For_TableQA_to_Ensure_Scale_and_Data_Privacy_Across_a_Myriad_of_Taxonomies.md)
+
+    - [翻译: HiddenTables 与 PyQTax：一款专为TableQA设计的合作游戏及数据集，旨在跨越多样的分类体系，同时保障数据规模与隐私安全。](2024年06月16日/HiddenTables_&_PyQTax_A_Cooperative_Game_and_Dataset_For_TableQA_to_Ensure_Scale_and_Data_Privacy_Across_a_Myriad_of_Taxonomies.md)
+
+- [FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture](2024年06月16日/FoodieQA_A_Multimodal_Dataset_for_Fine-Grained_Understanding_of_Chinese_Food_Culture.md)
+
+    - [翻译: FoodieQA：探索中国饮食文化之精髓的多模态数据集](2024年06月16日/FoodieQA_A_Multimodal_Dataset_for_Fine-Grained_Understanding_of_Chinese_Food_Culture.md)
+
+- [Investigating Video Reasoning Capability of Large Language Models with Tropes in Movies](2024年06月16日/Investigating_Video_Reasoning_Capability_of_Large_Language_Models_with_Tropes_in_Movies.md)
+
+    - [翻译: 探究大型语言模型如何解析电影桥段中的视频推理能力](2024年06月16日/Investigating_Video_Reasoning_Capability_of_Large_Language_Models_with_Tropes_in_Movies.md)
+
+- [Exploring the Potential of Multimodal LLM with Knowledge-Intensive Multimodal ASR](2024年06月16日/Exploring_the_Potential_of_Multimodal_LLM_with_Knowledge-Intensive_Multimodal_ASR.md)
+
+    - [翻译: 探究知识密集型多模态ASR与多模态LLM的潜能](2024年06月16日/Exploring_the_Potential_of_Multimodal_LLM_with_Knowledge-Intensive_Multimodal_ASR.md)
+
+- [Reminding Multimodal Large Language Models of Object-aware Knowledge with Retrieved Tags](2024年06月16日/Reminding_Multimodal_Large_Language_Models_of_Object-aware_Knowledge_with_Retrieved_Tags.md)
+
+    - [翻译: 借助检索标签，唤醒多模态大型语言模型对物体感知知识的记忆](2024年06月16日/Reminding_Multimodal_Large_Language_Models_of_Object-aware_Knowledge_with_Retrieved_Tags.md)
+
+- [TorchOpera: A Compound AI System for LLM Safety](2024年06月16日/TorchOpera_A_Compound_AI_System_for_LLM_Safety.md)
+
+    - [翻译: TorchOpera：大型语言模型安全性的复合AI系统](2024年06月16日/TorchOpera_A_Compound_AI_System_for_LLM_Safety.md)
+
+2024年06月15日
+
+- [FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models](2024年06月15日/FreeMotion_MoCap-Free_Human_Motion_Synthesis_with_Multimodal_Large_Language_Models.md)
+
+    - [翻译: FreeMotion：多模态大型语言模型助力无动作捕捉的人体运动合成](2024年06月15日/FreeMotion_MoCap-Free_Human_Motion_Synthesis_with_Multimodal_Large_Language_Models.md)
+
+- [MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding](2024年06月15日/MIND_Multimodal_Shopping_Intention_Distillation_from_Large_Vision-language_Models_for_E-commerce_Purchase_Understanding.md)
+
+    - [翻译: MIND：大型视觉-语言模型中的多模态购物意图提取，助力电子商务购买洞察](2024年06月15日/MIND_Multimodal_Shopping_Intention_Distillation_from_Large_Vision-language_Models_for_E-commerce_Purchase_Understanding.md)
+
+- [Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions](2024年06月15日/Seeing_Clearly,_Answering_Incorrectly_A_Multimodal_Robustness_Benchmark_for_Evaluating_MLLMs_on_Leading_Questions.md)
+
+    - [翻译: 明察秋毫却答非所问：一项多模态鲁棒性测试，旨在检验多模态大型语言模型在面对引导性问题时的稳健性。](2024年06月15日/Seeing_Clearly,_Answering_Incorrectly_A_Multimodal_Robustness_Benchmark_for_Evaluating_MLLMs_on_Leading_Questions.md)
+
+- [MINT: a Multi-modal Image and Narrative Text Dubbing Dataset for Foley Audio Content Planning and Generation](2024年06月15日/MINT_a_Multi-modal_Image_and_Narrative_Text_Dubbing_Dataset_for_Foley_Audio_Content_Planning_and_Generation.md)
+
+    - [翻译: MINT：专为Foley音频内容规划与生成而设计的多模态图像与叙事文本配音数据集](2024年06月15日/MINT_a_Multi-modal_Image_and_Narrative_Text_Dubbing_Dataset_for_Foley_Audio_Content_Planning_and_Generation.md)
+
+- [We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation](2024年06月15日/We_Care_Multimodal_Depression_Detection_and_Knowledge_Infused_Mental_Health_Therapeutic_Response_Generation.md)
+
+    - [翻译: 我们关注：融合多模态的抑郁症检测与知识驱动的心理健康治疗响应生成](2024年06月15日/We_Care_Multimodal_Depression_Detection_and_Knowledge_Infused_Mental_Health_Therapeutic_Response_Generation.md)
+
+- [Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning](2024年06月15日/Humor_in_AI_Massive_Scale_Crowd-Sourced_Preferences_and_Benchmarks_for_Cartoon_Captioning.md)
+
+    - [翻译: AI幽默探索：大规模众包揭示的卡通字幕偏好与基准](2024年06月15日/Humor_in_AI_Massive_Scale_Crowd-Sourced_Preferences_and_Benchmarks_for_Cartoon_Captioning.md)
+
+- [Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models](2024年06月15日/Emerging_Safety_Attack_and_Defense_in_Federated_Instruction_Tuning_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型联合指令调优中的安全攻防新趋势](2024年06月15日/Emerging_Safety_Attack_and_Defense_in_Federated_Instruction_Tuning_of_Large_Language_Models.md)
+
 2024年06月14日
 
 - [Details Make a Difference: Object State-Sensitive Neurorobotic Task Planning](2024年06月14日/Details_Make_a_Difference_Object_State-Sensitive_Neurorobotic_Task_Planning.md)
@@ -213,6 +293,22 @@
 - [ClimRetrieve: A Benchmarking Dataset for Information Retrieval from Corporate Climate Disclosures](2024年06月14日/ClimRetrieve_A_Benchmarking_Dataset_for_Information_Retrieval_from_Corporate_Climate_Disclosures.md)
 
     - [翻译: ClimRetrieve：企业气候披露信息检索的基准数据集](2024年06月14日/ClimRetrieve_A_Benchmarking_Dataset_for_Information_Retrieval_from_Corporate_Climate_Disclosures.md)
+
+- [Beyond Raw Videos: Understanding Edited Videos with Large Multimodal Model](2024年06月14日/Beyond_Raw_Videos_Understanding_Edited_Videos_with_Large_Multimodal_Model.md)
+
+    - [翻译: 探索编辑视频的奥秘：借助大型多模态模型深入理解](2024年06月14日/Beyond_Raw_Videos_Understanding_Edited_Videos_with_Large_Multimodal_Model.md)
+
+- [CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation](2024年06月14日/CoMM_A_Coherent_Interleaved_Image-Text_Dataset_for_Multimodal_Understanding_and_Generation.md)
+
+    - [翻译: CoMM：专为多模态理解和生成设计的连贯交错图像-文本数据集](2024年06月14日/CoMM_A_Coherent_Interleaved_Image-Text_Dataset_for_Multimodal_Understanding_and_Generation.md)
+
+- [What is the Visual Cognition Gap between Humans and Multimodal LLMs?](2024年06月14日/What_is_the_Visual_Cognition_Gap_between_Humans_and_Multimodal_LLMs.md)
+
+    - [翻译: 人类与多模态LLM在视觉认知上存在何种差距？](2024年06月14日/What_is_the_Visual_Cognition_Gap_between_Humans_and_Multimodal_LLMs.md)
+
+- [Creating a Lens of Chinese Culture: A Multimodal Dataset for Chinese Pun Rebus Art Understanding](2024年06月14日/Creating_a_Lens_of_Chinese_Culture_A_Multimodal_Dataset_for_Chinese_Pun_Rebus_Art_Understanding.md)
+
+    - [翻译: 构建中国文化之窗：一款专为解读中国双关猜谜艺术而设计的多模态数据集](2024年06月14日/Creating_a_Lens_of_Chinese_Culture_A_Multimodal_Dataset_for_Chinese_Pun_Rebus_Art_Understanding.md)
 
 2024年06月13日
 
@@ -770,6 +866,10 @@
 
     - [翻译: 推动生物医学领域高分辨率视觉-语言模型的前沿发展。](2024年06月12日/Advancing_High_Resolution_Vision-Language_Models_in_Biomedicine.md)
 
+- [MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases](2024年06月12日/MobileAIBench_Benchmarking_LLMs_and_LMMs_for_On-Device_Use_Cases.md)
+
+    - [翻译: MobileAIBench：设备端用例下的大型语言模型与多模态模型性能评测基准](2024年06月12日/MobileAIBench_Benchmarking_LLMs_and_LMMs_for_On-Device_Use_Cases.md)
+
 2024年06月11日
 
 - [World Models with Hints of Large Language Models for Goal Achieving](2024年06月11日/World_Models_with_Hints_of_Large_Language_Models_for_Goal_Achieving.md)
@@ -1072,6 +1172,10 @@
 
     - [翻译: MLLMGuard：多模态大型语言模型的全方位安全评估工具](2024年06月11日/MLLMGuard_A_Multi-dimensional_Safety_Evaluation_Suite_for_Multimodal_Large_Language_Models.md)
 
+- [Large Language Model-empowered multimodal strain sensory system for shape recognition, monitoring, and human interaction of tensegrity](2024年06月11日/Large_Language_Model-empowered_multimodal_strain_sensory_system_for_shape_recognition,_monitoring,_and_human_interaction_of_tensegrity.md)
+
+    - [翻译: 大型语言模型驱动下的多模态应变传感系统，专为紧张结构的形状识别、实时监控及人机交互而设计。](2024年06月11日/Large_Language_Model-empowered_multimodal_strain_sensory_system_for_shape_recognition,_monitoring,_and_human_interaction_of_tensegrity.md)
+
 2024年06月10日
 
 - [Evaluating the Retrieval Component in LLM-Based Question Answering Systems](2024年06月10日/Evaluating_the_Retrieval_Component_in_LLM-Based_Question_Answering_Systems.md)
@@ -1269,6 +1373,10 @@
 - [Can Language Models Serve as Text-Based World Simulators?](2024年06月10日/Can_Language_Models_Serve_as_Text-Based_World_Simulators.md)
 
     - [翻译: 语言模型是否能化身为基于文本的世界模拟器？](2024年06月10日/Can_Language_Models_Serve_as_Text-Based_World_Simulators.md)
+
+- [WarCov -- Large multilabel and multimodal dataset from social platform](2024年06月10日/WarCov_--_Large_multilabel_and_multimodal_dataset_from_social_platform.md)
+
+    - [翻译: WarCov：社交平台上的大型多标签与多模态数据集](2024年06月10日/WarCov_--_Large_multilabel_and_multimodal_dataset_from_social_platform.md)
 
 2024年06月09日
 
