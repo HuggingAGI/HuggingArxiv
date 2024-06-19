@@ -1,5 +1,23 @@
 # 2024年06月
 
+2024年06月18日
+
+- [Ask-before-Plan: Proactive Language Agents for Real-World Planning](2024年06月18日/Ask-before-Plan_Proactive_Language_Agents_for_Real-World_Planning.md)
+
+    - [翻译: ](2024年06月18日/Ask-before-Plan_Proactive_Language_Agents_for_Real-World_Planning.md)
+
+- [Large Language Models based Multi-Agent Framework for Objective Oriented Control Design in Power Electronics](2024年06月18日/Large_Language_Models_based_Multi-Agent_Framework_for_Objective_Oriented_Control_Design_in_Power_Electronics.md)
+
+    - [翻译: ](2024年06月18日/Large_Language_Models_based_Multi-Agent_Framework_for_Objective_Oriented_Control_Design_in_Power_Electronics.md)
+
+- [P-Tailor: Customizing Personality Traits for Language Models via Mixture of Specialized LoRA Experts](2024年06月18日/P-Tailor_Customizing_Personality_Traits_for_Language_Models_via_Mixture_of_Specialized_LoRA_Experts.md)
+
+    - [翻译: ](2024年06月18日/P-Tailor_Customizing_Personality_Traits_for_Language_Models_via_Mixture_of_Specialized_LoRA_Experts.md)
+
+- [Problem-Solving in Language Model Networks](2024年06月18日/Problem-Solving_in_Language_Model_Networks.md)
+
+    - [翻译: ](2024年06月18日/Problem-Solving_in_Language_Model_Networks.md)
+
 2024年06月17日
 
 - [Language Modeling with Editable External Knowledge](2024年06月17日/Language_Modeling_with_Editable_External_Knowledge.md)
@@ -309,6 +327,18 @@
 - [GECOBench: A Gender-Controlled Text Dataset and Benchmark for Quantifying Biases in Explanations](2024年06月17日/GECOBench_A_Gender-Controlled_Text_Dataset_and_Benchmark_for_Quantifying_Biases_in_Explanations.md)
 
     - [翻译: GECOBench：性别平衡文本数据集与基准，精准衡量解释偏见](2024年06月17日/GECOBench_A_Gender-Controlled_Text_Dataset_and_Benchmark_for_Quantifying_Biases_in_Explanations.md)
+
+- [Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration](2024年06月17日/Leveraging_Large_Language_Model_for_Heterogeneous_Ad_Hoc_Teamwork_Collaboration.md)
+
+    - [翻译: ](2024年06月17日/Leveraging_Large_Language_Model_for_Heterogeneous_Ad_Hoc_Teamwork_Collaboration.md)
+
+- [Is persona enough for personality? Using ChatGPT to reconstruct an agent's latent personality from simple descriptions](2024年06月17日/Is_persona_enough_for_personality_Using_ChatGPT_to_reconstruct_an_agent's_latent_personality_from_simple_descriptions.md)
+
+    - [翻译: ](2024年06月17日/Is_persona_enough_for_personality_Using_ChatGPT_to_reconstruct_an_agent's_latent_personality_from_simple_descriptions.md)
+
+- [Debate as Optimization: Adaptive Conformal Prediction and Diverse Retrieval for Event Extraction](2024年06月17日/Debate_as_Optimization_Adaptive_Conformal_Prediction_and_Diverse_Retrieval_for_Event_Extraction.md)
+
+    - [翻译: ](2024年06月17日/Debate_as_Optimization_Adaptive_Conformal_Prediction_and_Diverse_Retrieval_for_Event_Extraction.md)
 
 2024年06月16日
 
