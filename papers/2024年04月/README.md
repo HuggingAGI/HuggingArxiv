@@ -1856,6 +1856,10 @@
 
     - [翻译: LLM-协调：探究大型语言模型内多代理协作能力的综合评估与深入分析](2024年04月02日/LLM-Coordination_Evaluating_and_Analyzing_Multi-agent_Coordination_Abilities_in_Large_Language_Models.md)
 
+- [GUARD-D-LLM: An LLM-Based Risk Assessment Engine for the Downstream uses of LLMs](2024年04月02日/GUARD-D-LLM_An_LLM-Based_Risk_Assessment_Engine_for_the_Downstream_uses_of_LLMs.md)
+
+    - [翻译: GUARD-D-LLM：大型语言模型下游应用的风险评估引擎](2024年04月02日/GUARD-D-LLM_An_LLM-Based_Risk_Assessment_Engine_for_the_Downstream_uses_of_LLMs.md)
+
 2024年04月01日
 
 - [Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT](2024年04月01日/Automated_Assessment_of_Encouragement_and_Warmth_in_Classrooms_Leveraging_Multimodal_Emotional_Features_and_ChatGPT.md)
