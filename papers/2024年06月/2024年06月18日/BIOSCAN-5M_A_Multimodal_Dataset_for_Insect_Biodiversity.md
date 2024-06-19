@@ -4,13 +4,13 @@
 
 `Agent
 
-理由：这篇论文主要介绍了BIOSCAN-5M昆虫数据集，并设计了多个实验来探究如何利用多模态数据提升分类与聚类的准确性。这些实验包括使用DNA条形码序列预训练掩码语言模型、零样本迁移学习任务以及通过对比学习构建多模态共享的嵌入空间。这些工作更偏向于开发和应用特定的数据集和模型来解决实际问题，即通过机器学习方法来理解和监测昆虫多样性，因此更符合Agent类别的定义，即应用特定的技术和方法来解决实际问题。` `生物多样性` `机器学习`
+理由：这篇论文主要介绍了BIOSCAN-5M昆虫数据集，并探讨了如何利用多模态数据（包括DNA条形码、图像和分类信息）进行分类和聚类任务。虽然涉及到了预训练语言模型和自监督学习，但这些技术的应用主要是为了解决特定的生物多样性监测问题，而不是专注于语言模型本身的理论研究或应用。因此，这篇论文更符合Agent分类，因为它描述了一个具体的应用场景，其中机器学习模型被用作解决特定问题的工具或代理。` `生物多样性` `数据集`
 
 > BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity
 
 # 摘要
 
-> 在全球范围内，为了更好地理解和监测昆虫多样性，本文向机器学习界介绍了BIOSCAN-5M昆虫数据集，并设立了多项基准任务。该数据集包含超过500万昆虫标本的多模态信息，不仅涵盖了图像数据，还增加了分类标签、核酸条形码序列及地理信息，极大地丰富了生物数据集的内容。我们设计了三个实验，旨在探究多模态数据如何提升分类与聚类的准确性。首先，我们利用BIOSCAN-5M的DNA条形码序列预训练了一个掩码语言模型，并评估了这一庞大参考库对物种和属级分类的贡献。其次，我们提出了一项零样本迁移学习任务，结合图像与DNA条形码，通过自监督学习得到的特征嵌入进行聚类，探索这些嵌入是否能揭示有意义的生物集群。最后，我们通过对比学习，整合DNA条形码、图像及分类信息，构建了一个多模态共享的嵌入空间，使得分类任务能够综合利用多种信息源。BIOSCAN-5M昆虫数据集的代码库已公开，地址为{\url{https://github.com/zahrag/BIOSCAN-5M}}。
+> 本文向机器学习界介绍了BIOSCAN-5M昆虫数据集，并设立了几个基准任务，以支持全球对昆虫生物多样性的理解和监测。该数据集包含超过500万昆虫标本的多模态信息，包括分类标签、DNA条形码序列、索引号及地理信息，极大地丰富了现有的生物数据集。我们设计了三个实验来探究多模态数据对分类和聚类的影响：首先，我们利用BIOSCAN-5M的DNA条形码预训练了一个语言模型，并评估了其对物种和属级分类的提升效果；其次，我们通过零样本迁移学习，结合图像和DNA条形码，探索了自监督学习特征嵌入的聚类潜力；最后，我们通过对比学习整合DNA条形码、图像及分类信息，创建了一个多模态共享嵌入空间，以支持基于多种信息的分类。BIOSCAN-5M数据集的代码库已公开，地址为{\url{https://github.com/zahrag/BIOSCAN-5M}}。
 
 > As part of an ongoing worldwide effort to comprehend and monitor insect biodiversity, this paper presents the BIOSCAN-5M Insect dataset to the machine learning community and establish several benchmark tasks. BIOSCAN-5M is a comprehensive dataset containing multi-modal information for over 5 million insect specimens, and it significantly expands existing image-based biological datasets by including taxonomic labels, raw nucleotide barcode sequences, assigned barcode index numbers, and geographical information. We propose three benchmark experiments to demonstrate the impact of the multi-modal data types on the classification and clustering accuracy. First, we pretrain a masked language model on the DNA barcode sequences of the \mbox{BIOSCAN-5M} dataset, and demonstrate the impact of using this large reference library on species- and genus-level classification performance. Second, we propose a zero-shot transfer learning task applied to images and DNA barcodes to cluster feature embeddings obtained from self-supervised learning, to investigate whether meaningful clusters can be derived from these representation embeddings. Third, we benchmark multi-modality by performing contrastive learning on DNA barcodes, image data, and taxonomic information. This yields a general shared embedding space enabling taxonomic classification using multiple types of information and modalities. The code repository of the BIOSCAN-5M Insect dataset is available at {\url{https://github.com/zahrag/BIOSCAN-5M}}
 
