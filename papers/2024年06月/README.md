@@ -250,82 +250,6 @@
 
     - [翻译: 利用LMM诱导情感嵌入识别扰动图像](2024年06月18日/Disturbing_Image_Detection_Using_LMM-Elicited_Emotion_Embeddings.md)
 
-- [Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](2024年06月18日/Interpretable_Preferences_via_Multi-Objective_Reward_Modeling_and_Mixture-of-Experts.md)
-
-    - [翻译: 利用多目标奖励建模与专家混合策略，揭示偏好之可解释性](2024年06月18日/Interpretable_Preferences_via_Multi-Objective_Reward_Modeling_and_Mixture-of-Experts.md)
-
-- [LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation](2024年06月18日/LaMDA_Large_Model_Fine-Tuning_via_Spectrally_Decomposed_Low-Dimensional_Adaptation.md)
-
-    - [翻译: LaMDA：大型模型微调新策略——频谱分解下的低维适应性调整](2024年06月18日/LaMDA_Large_Model_Fine-Tuning_via_Spectrally_Decomposed_Low-Dimensional_Adaptation.md)
-
-- [Is It Good Data for Multilingual Instruction Tuning or Just Bad Multilingual Evaluation for Large Language Models?](2024年06月18日/Is_It_Good_Data_for_Multilingual_Instruction_Tuning_or_Just_Bad_Multilingual_Evaluation_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型面临的问题：是多语言指令调优的数据质量不佳，还是多语言评估本身存在缺陷？](2024年06月18日/Is_It_Good_Data_for_Multilingual_Instruction_Tuning_or_Just_Bad_Multilingual_Evaluation_for_Large_Language_Models.md)
-
-- [Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?](2024年06月18日/Can_Large_Language_Models_Always_Solve_Easy_Problems_if_They_Can_Solve_Harder_Ones.md)
-
-    - [翻译: 大型语言模型能否在解决难题的同时，也轻松应对简单问题？](2024年06月18日/Can_Large_Language_Models_Always_Solve_Easy_Problems_if_They_Can_Solve_Harder_Ones.md)
-
-- [Supporting Human Raters with the Detection of Harmful Content using Large Language Models](2024年06月18日/Supporting_Human_Raters_with_the_Detection_of_Harmful_Content_using_Large_Language_Models.md)
-
-    - [翻译: 借助大型语言模型，助力人类评估者识别有害内容](2024年06月18日/Supporting_Human_Raters_with_the_Detection_of_Harmful_Content_using_Large_Language_Models.md)
-
-- [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](2024年06月18日/ChatGLM_A_Family_of_Large_Language_Models_from_GLM-130B_to_GLM-4_All_Tools.md)
-
-    - [翻译: ChatGLM：涵盖从 GLM-130B 至 GLM-4 的全系列大型语言模型工具集](2024年06月18日/ChatGLM_A_Family_of_Large_Language_Models_from_GLM-130B_to_GLM-4_All_Tools.md)
-
-- [UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple Choice Questions](2024年06月18日/UBENCH_Benchmarking_Uncertainty_in_Large_Language_Models_with_Multiple_Choice_Questions.md)
-
-    - [翻译: UBENCH：通过多项选择题评估大型语言模型中的不确定性基准](2024年06月18日/UBENCH_Benchmarking_Uncertainty_in_Large_Language_Models_with_Multiple_Choice_Questions.md)
-
-- [Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries](2024年06月18日/Hopping_Too_Late_Exploring_the_Limitations_of_Large_Language_Models_on_Multi-Hop_Queries.md)
-
-    - [翻译: 迟缓的跳跃：揭示大型语言模型应对多跳查询的挑战](2024年06月18日/Hopping_Too_Late_Exploring_the_Limitations_of_Large_Language_Models_on_Multi-Hop_Queries.md)
-
-- [Towards Exact Gradient-based Training on Analog In-memory Computing](2024年06月18日/Towards_Exact_Gradient-based_Training_on_Analog_In-memory_Computing.md)
-
-    - [翻译: 迈向模拟内存计算中的精确梯度训练之路](2024年06月18日/Towards_Exact_Gradient-based_Training_on_Analog_In-memory_Computing.md)
-
-- [Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning](2024年06月18日/Benchmarking_Multi-Image_Understanding_in_Vision_and_Language_Models_Perception,_Knowledge,_Reasoning,_and_Multi-Hop_Reasoning.md)
-
-    - [翻译: 视觉与语言模型中的多图像理解基准：从感知到知识，再到推理与多跳推理的全面评估](2024年06月18日/Benchmarking_Multi-Image_Understanding_in_Vision_and_Language_Models_Perception,_Knowledge,_Reasoning,_and_Multi-Hop_Reasoning.md)
-
-- [Large Language Model as a Universal Clinical Multi-task Decoder](2024年06月18日/Large_Language_Model_as_a_Universal_Clinical_Multi-task_Decoder.md)
-
-    - [翻译: 大型语言模型：通用临床多任务解码器](2024年06月18日/Large_Language_Model_as_a_Universal_Clinical_Multi-task_Decoder.md)
-
-- [Can Large Language Models Code Like a Linguist?: A Case Study in Low Resource Sound Law Induction](2024年06月18日/Can_Large_Language_Models_Code_Like_a_Linguist_A_Case_Study_in_Low_Resource_Sound_Law_Induction.md)
-
-    - [翻译: 大型语言模型是否能媲美语言学家的编码能力？——一项关于低资源环境下语音规律归纳的案例研究](2024年06月18日/Can_Large_Language_Models_Code_Like_a_Linguist_A_Case_Study_in_Low_Resource_Sound_Law_Induction.md)
-
-- [BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity](2024年06月18日/BIOSCAN-5M_A_Multimodal_Dataset_for_Insect_Biodiversity.md)
-
-    - [翻译: BIOSCAN-5M：昆虫生物多样性研究的多模态数据集](2024年06月18日/BIOSCAN-5M_A_Multimodal_Dataset_for_Insect_Biodiversity.md)
-
-- [On the Robustness of Language Models for Tabular Question Answering](2024年06月18日/On_the_Robustness_of_Language_Models_for_Tabular_Question_Answering.md)
-
-    - [翻译: 语言模型在表格问答中的稳健性探讨](2024年06月18日/On_the_Robustness_of_Language_Models_for_Tabular_Question_Answering.md)
-
-- [Runtime Verification on Abstract Finite State Models](2024年06月18日/Runtime_Verification_on_Abstract_Finite_State_Models.md)
-
-    - [翻译: 抽象有限状态模型的运行时监控](2024年06月18日/Runtime_Verification_on_Abstract_Finite_State_Models.md)
-
-- [AgentReview: Exploring Peer Review Dynamics with LLM Agents](2024年06月18日/AgentReview_Exploring_Peer_Review_Dynamics_with_LLM_Agents.md)
-
-    - [翻译: AgentReview：揭示大型语言模型代理下的同行评审之谜](2024年06月18日/AgentReview_Exploring_Peer_Review_Dynamics_with_LLM_Agents.md)
-
-- [Using LLMs to Aid Annotation and Collection of Clinically-Enriched Data in Bipolar Disorder and Schizophrenia](2024年06月18日/Using_LLMs_to_Aid_Annotation_and_Collection_of_Clinically-Enriched_Data_in_Bipolar_Disorder_and_Schizophrenia.md)
-
-    - [翻译: 借助大型语言模型（LLMs），我们能够更高效地标注和收集双相情感障碍与精神分裂症的临床丰富数据。](2024年06月18日/Using_LLMs_to_Aid_Annotation_and_Collection_of_Clinically-Enriched_Data_in_Bipolar_Disorder_and_Schizophrenia.md)
-
-- [Measuring Psychological Depth in Language Models](2024年06月18日/Measuring_Psychological_Depth_in_Language_Models.md)
-
-    - [翻译: 探究语言模型的心理深度](2024年06月18日/Measuring_Psychological_Depth_in_Language_Models.md)
-
-- [Vernacular? I Barely Know Her: Challenges with Style Control and Stereotyping](2024年06月18日/Vernacular_I_Barely_Know_Her_Challenges_with_Style_Control_and_Stereotyping.md)
-
-    - [翻译: 方言难题：掌控风格与打破刻板印象的双重挑战](2024年06月18日/Vernacular_I_Barely_Know_Her_Challenges_with_Style_Control_and_Stereotyping.md)
-
 2024年06月17日
 
 - [Language Modeling with Editable External Knowledge](2024年06月17日/Language_Modeling_with_Editable_External_Knowledge.md)
@@ -658,11 +582,11 @@
 
 - [GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models](2024年06月17日/GAugLLM_Improving_Graph_Contrastive_Learning_for_Text-Attributed_Graphs_with_Large_Language_Models.md)
 
-    - [翻译: GAugLLM：借助大型语言模型，优化文本属性图的图对比学习技术](2024年06月17日/GAugLLM_Improving_Graph_Contrastive_Learning_for_Text-Attributed_Graphs_with_Large_Language_Models.md)
+    - [翻译: GAugLLM：借助大型语言模型优化文本属性图的图对比学习](2024年06月17日/GAugLLM_Improving_Graph_Contrastive_Learning_for_Text-Attributed_Graphs_with_Large_Language_Models.md)
 
 - [Efficient Sequential Decision Making with Large Language Models](2024年06月17日/Efficient_Sequential_Decision_Making_with_Large_Language_Models.md)
 
-    - [翻译: 大型语言模型在序列决策制定中的高效应用](2024年06月17日/Efficient_Sequential_Decision_Making_with_Large_Language_Models.md)
+    - [翻译: 大型语言模型在序列决策中的高效应用](2024年06月17日/Efficient_Sequential_Decision_Making_with_Large_Language_Models.md)
 
 - [Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM](2024年06月17日/Holmes-VAD_Towards_Unbiased_and_Explainable_Video_Anomaly_Detection_via_Multi-modal_LLM.md)
 
@@ -670,7 +594,7 @@
 
 - [The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge](2024年06月17日/The_Solution_for_CVPR2024_Foundational_Few-Shot_Object_Detection_Challenge.md)
 
-    - [翻译: CVPR2024基础小样本目标检测挑战解决方案](2024年06月17日/The_Solution_for_CVPR2024_Foundational_Few-Shot_Object_Detection_Challenge.md)
+    - [翻译: CVPR2024基础少量样本目标检测挑战解决方案](2024年06月17日/The_Solution_for_CVPR2024_Foundational_Few-Shot_Object_Detection_Challenge.md)
 
 - [SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model](2024年06月17日/SPA-VL_A_Comprehensive_Safety_Preference_Alignment_Dataset_for_Vision_Language_Model.md)
 
@@ -912,7 +836,7 @@
 
 - [A Notion of Complexity for Theory of Mind via Discrete World Models](2024年06月16日/A_Notion_of_Complexity_for_Theory_of_Mind_via_Discrete_World_Models.md)
 
-    - [翻译: 借助离散世界模型，我们为心智理论构建了一种复杂性概念。](2024年06月16日/A_Notion_of_Complexity_for_Theory_of_Mind_via_Discrete_World_Models.md)
+    - [翻译: 借助离散世界模型，我们为心智理论构建了一个复杂性框架。](2024年06月16日/A_Notion_of_Complexity_for_Theory_of_Mind_via_Discrete_World_Models.md)
 
 - [Mixture-of-Subspaces in Low-Rank Adaptation](2024年06月16日/Mixture-of-Subspaces_in_Low-Rank_Adaptation.md)
 
