@@ -1700,7 +1700,7 @@
 
 - [Towards Unlocking Insights from Logbooks Using AI](2024年05月25日/Towards_Unlocking_Insights_from_Logbooks_Using_AI.md)
 
-    - [翻译: ](2024年05月25日/Towards_Unlocking_Insights_from_Logbooks_Using_AI.md)
+    - [翻译: 借助人工智能，揭开日志簿中隐藏的智慧](2024年05月25日/Towards_Unlocking_Insights_from_Logbooks_Using_AI.md)
 
 2024年05月24日
 
