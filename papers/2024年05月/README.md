@@ -1698,6 +1698,10 @@
 
     - [翻译: 基于提示的半结构化自然语言状态跟踪，增强检索以优化对话推荐系统](2024年05月25日/Retrieval-Augmented_Conversational_Recommendation_with_Prompt-based_Semi-Structured_Natural_Language_State_Tracking.md)
 
+- [Towards Unlocking Insights from Logbooks Using AI](2024年05月25日/Towards_Unlocking_Insights_from_Logbooks_Using_AI.md)
+
+    - [翻译: ](2024年05月25日/Towards_Unlocking_Insights_from_Logbooks_Using_AI.md)
+
 2024年05月24日
 
 - [Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models](2024年05月24日/Chain-of-Thought_Prompting_for_Demographic_Inference_with_Large_Multimodal_Models.md)
