@@ -186,11 +186,11 @@
 
 - [On AI-Inspired UI-Design](2024年06月19日/On_AI-Inspired_UI-Design.md)
 
-    - [翻译: AI灵感下的UI设计探索](2024年06月19日/On_AI-Inspired_UI-Design.md)
+    - [翻译: AI驱动的UI设计探索](2024年06月19日/On_AI-Inspired_UI-Design.md)
 
 - [Fine-Tuning Gemma-7B for Enhanced Sentiment Analysis of Financial News Headlines](2024年06月19日/Fine-Tuning_Gemma-7B_for_Enhanced_Sentiment_Analysis_of_Financial_News_Headlines.md)
 
-    - [翻译: 优化Gemma-7B模型，提升对金融新闻标题情感分析的精准度](2024年06月19日/Fine-Tuning_Gemma-7B_for_Enhanced_Sentiment_Analysis_of_Financial_News_Headlines.md)
+    - [翻译: 微调Gemma-7B，提升金融新闻标题情感分析的精准度](2024年06月19日/Fine-Tuning_Gemma-7B_for_Enhanced_Sentiment_Analysis_of_Financial_News_Headlines.md)
 
 - [In-Context Former: Lightning-fast Compressing Context for Large Language Model](2024年06月19日/In-Context_Former_Lightning-fast_Compressing_Context_for_Large_Language_Model.md)
 
@@ -206,11 +206,11 @@
 
 - [Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach](2024年06月19日/Enhancing_Travel_Choice_Modeling_with_Large_Language_Models_A_Prompt-Learning_Approach.md)
 
-    - [翻译: 借助大型语言模型优化旅行选择模型：探索提示学习的途径](2024年06月19日/Enhancing_Travel_Choice_Modeling_with_Large_Language_Models_A_Prompt-Learning_Approach.md)
+    - [翻译: 利用大型语言模型优化旅行选择模型：探索提示学习的新途径](2024年06月19日/Enhancing_Travel_Choice_Modeling_with_Large_Language_Models_A_Prompt-Learning_Approach.md)
 
 - [BiLD: Bi-directional Logits Difference Loss for Large Language Model Distillation](2024年06月19日/BiLD_Bi-directional_Logits_Difference_Loss_for_Large_Language_Model_Distillation.md)
 
-    - [翻译: BiLD：大型语言模型蒸馏中的双向对数差异损失法](2024年06月19日/BiLD_Bi-directional_Logits_Difference_Loss_for_Large_Language_Model_Distillation.md)
+    - [翻译: BiLD：大型语言模型蒸馏中的双向对数差异损失](2024年06月19日/BiLD_Bi-directional_Logits_Difference_Loss_for_Large_Language_Model_Distillation.md)
 
 - [Mining United Nations General Assembly Debates](2024年06月19日/Mining_United_Nations_General_Assembly_Debates.md)
 
@@ -218,11 +218,11 @@
 
 - [Mitigating Social Biases in Language Models through Unlearning](2024年06月19日/Mitigating_Social_Biases_in_Language_Models_through_Unlearning.md)
 
-    - [翻译: 借助遗忘技术，我们致力于消除语言模型中的社会偏见。](2024年06月19日/Mitigating_Social_Biases_in_Language_Models_through_Unlearning.md)
+    - [翻译: 借助遗忘技术，我们致力于减轻语言模型中潜藏的社会偏见。](2024年06月19日/Mitigating_Social_Biases_in_Language_Models_through_Unlearning.md)
 
 - [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](2024年06月19日/Self-play_with_Execution_Feedback_Improving_Instruction-following_Capabilities_of_Large_Language_Models.md)
 
-    - [翻译: 通过自我对弈与执行反馈，我们旨在增强大型语言模型遵循指令的能力。](2024年06月19日/Self-play_with_Execution_Feedback_Improving_Instruction-following_Capabilities_of_Large_Language_Models.md)
+    - [翻译: 通过自我对弈与执行反馈相结合，我们致力于提升大型语言模型在遵循指令方面的能力。](2024年06月19日/Self-play_with_Execution_Feedback_Improving_Instruction-following_Capabilities_of_Large_Language_Models.md)
 
 - [Slice-Level Scheduling for High Throughput and Load Balanced LLM Serving](2024年06月19日/Slice-Level_Scheduling_for_High_Throughput_and_Load_Balanced_LLM_Serving.md)
 
@@ -230,15 +230,15 @@
 
 - [LLMs Are Zero-Shot Context-Aware Simultaneous Translators](2024年06月19日/LLMs_Are_Zero-Shot_Context-Aware_Simultaneous_Translators.md)
 
-    - [翻译: 大型语言模型（LLMs）具备零-shot上下文感知的同时翻译能力。](2024年06月19日/LLMs_Are_Zero-Shot_Context-Aware_Simultaneous_Translators.md)
+    - [翻译: 大型语言模型（LLMs）展现出零-shot上下文感知的同时翻译能力。](2024年06月19日/LLMs_Are_Zero-Shot_Context-Aware_Simultaneous_Translators.md)
 
 - [Attention-aware Post-training Quantization without Backpropagation](2024年06月19日/Attention-aware_Post-training_Quantization_without_Backpropagation.md)
 
-    - [翻译: 无反向传播的注意力感知量化后训练](2024年06月19日/Attention-aware_Post-training_Quantization_without_Backpropagation.md)
+    - [翻译: 注意力感知后训练量化：无需反向传播](2024年06月19日/Attention-aware_Post-training_Quantization_without_Backpropagation.md)
 
 - [VDebugger: Harnessing Execution Feedback for Debugging Visual Programs](2024年06月19日/VDebugger_Harnessing_Execution_Feedback_for_Debugging_Visual_Programs.md)
 
-    - [翻译: VDebugger：借助执行反馈，精妙调试视觉程序](2024年06月19日/VDebugger_Harnessing_Execution_Feedback_for_Debugging_Visual_Programs.md)
+    - [翻译: VDebugger：驾驭执行反馈，精进视觉程序调试之道](2024年06月19日/VDebugger_Harnessing_Execution_Feedback_for_Debugging_Visual_Programs.md)
 
 - [Dual-Phase Accelerated Prompt Optimization](2024年06月19日/Dual-Phase_Accelerated_Prompt_Optimization.md)
 
@@ -246,11 +246,11 @@
 
 - [Finding Blind Spots in Evaluator LLMs with Interpretable Checklists](2024年06月19日/Finding_Blind_Spots_in_Evaluator_LLMs_with_Interpretable_Checklists.md)
 
-    - [翻译: 借助可解释的检查清单，揭示评估者LLMs中的盲点](2024年06月19日/Finding_Blind_Spots_in_Evaluator_LLMs_with_Interpretable_Checklists.md)
+    - [翻译: 利用可解释的检查清单揭示评估者LLMs的盲点](2024年06月19日/Finding_Blind_Spots_in_Evaluator_LLMs_with_Interpretable_Checklists.md)
 
 - [Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators](2024年06月19日/Factual_Confidence_of_LLMs_on_Reliability_and_Robustness_of_Current_Estimators.md)
 
-    - [翻译: 大型语言模型的事实信心评估：探讨当前估计器的可靠性与稳健性](2024年06月19日/Factual_Confidence_of_LLMs_on_Reliability_and_Robustness_of_Current_Estimators.md)
+    - [翻译: 大型语言模型的事实信心：探讨当前估计器的可靠性与鲁棒性](2024年06月19日/Factual_Confidence_of_LLMs_on_Reliability_and_Robustness_of_Current_Estimators.md)
 
 - [MoreHopQA: More Than Multi-hop Reasoning](2024年06月19日/MoreHopQA_More_Than_Multi-hop_Reasoning.md)
 
@@ -262,23 +262,23 @@
 
 - [Transferable speech-to-text large language model alignment module](2024年06月19日/Transferable_speech-to-text_large_language_model_alignment_module.md)
 
-    - [翻译: 语音转文字大型语言模型的可转移对齐模块](2024年06月19日/Transferable_speech-to-text_large_language_model_alignment_module.md)
+    - [翻译: 语音转文字大型语言模型的可迁移对齐模块](2024年06月19日/Transferable_speech-to-text_large_language_model_alignment_module.md)
 
 - [Textual Unlearning Gives a False Sense of Unlearning](2024年06月19日/Textual_Unlearning_Gives_a_False_Sense_of_Unlearning.md)
 
-    - [翻译: 文本去学习让人误以为知识已被遗忘](2024年06月19日/Textual_Unlearning_Gives_a_False_Sense_of_Unlearning.md)
+    - [翻译: 文本去学习误导性地让人感觉知识已被遗忘](2024年06月19日/Textual_Unlearning_Gives_a_False_Sense_of_Unlearning.md)
 
 - [ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models](2024年06月19日/ZeroDL_Zero-shot_Distribution_Learning_for_Text_Clustering_via_Large_Language_Models.md)
 
-    - [翻译: ZeroDL：借助大型语言模型，实现文本聚类的零-shot分布学习新境界](2024年06月19日/ZeroDL_Zero-shot_Distribution_Learning_for_Text_Clustering_via_Large_Language_Models.md)
+    - [翻译: ZeroDL：借助大型语言模型，实现文本聚类的零-shot分布学习](2024年06月19日/ZeroDL_Zero-shot_Distribution_Learning_for_Text_Clustering_via_Large_Language_Models.md)
 
 - [SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words](2024年06月19日/SD-Eval_A_Benchmark_Dataset_for_Spoken_Dialogue_Understanding_Beyond_Words.md)
 
-    - [翻译: SD-Eval：探索超越词汇的口语对话理解新基准](2024年06月19日/SD-Eval_A_Benchmark_Dataset_for_Spoken_Dialogue_Understanding_Beyond_Words.md)
+    - [翻译: SD-Eval：口语对话理解的新标杆，超越了单纯的词汇层面。](2024年06月19日/SD-Eval_A_Benchmark_Dataset_for_Spoken_Dialogue_Understanding_Beyond_Words.md)
 
 - [Improving Zero-shot LLM Re-Ranker with Risk Minimization](2024年06月19日/Improving_Zero-shot_LLM_Re-Ranker_with_Risk_Minimization.md)
 
-    - [翻译: 利用风险最小化策略优化零-shot LLM 重排序器的性能](2024年06月19日/Improving_Zero-shot_LLM_Re-Ranker_with_Risk_Minimization.md)
+    - [翻译: 利用风险最小化策略，优化零-shot大型语言模型的重排能力](2024年06月19日/Improving_Zero-shot_LLM_Re-Ranker_with_Risk_Minimization.md)
 
 - [StackRAG Agent: Improving Developer Answers with Retrieval-Augmented Generation](2024年06月19日/StackRAG_Agent_Improving_Developer_Answers_with_Retrieval-Augmented_Generation.md)
 
@@ -286,7 +286,7 @@
 
 - [WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](2024年06月19日/WikiContradict_A_Benchmark_for_Evaluating_LLMs_on_Real-World_Knowledge_Conflicts_from_Wikipedia.md)
 
-    - [翻译: WikiContradict：大型语言模型在维基百科知识冲突评估的基准](2024年06月19日/WikiContradict_A_Benchmark_for_Evaluating_LLMs_on_Real-World_Knowledge_Conflicts_from_Wikipedia.md)
+    - [翻译: WikiContradict：大型语言模型在维基百科知识冲突中的评估基准](2024年06月19日/WikiContradict_A_Benchmark_for_Evaluating_LLMs_on_Real-World_Knowledge_Conflicts_from_Wikipedia.md)
 
 - [FoRAG: Factuality-optimized Retrieval Augmented Generation for Web-enhanced Long-form Question Answering](2024年06月19日/FoRAG_Factuality-optimized_Retrieval_Augmented_Generation_for_Web-enhanced_Long-form_Question_Answering.md)
 
@@ -294,19 +294,19 @@
 
 - [Synchronous Faithfulness Monitoring for Trustworthy Retrieval-Augmented Generation](2024年06月19日/Synchronous_Faithfulness_Monitoring_for_Trustworthy_Retrieval-Augmented_Generation.md)
 
-    - [翻译: 同步忠诚度监控：确保检索增强生成的可靠性](2024年06月19日/Synchronous_Faithfulness_Monitoring_for_Trustworthy_Retrieval-Augmented_Generation.md)
+    - [翻译: 实时忠实度监控，确保检索增强生成的可靠性](2024年06月19日/Synchronous_Faithfulness_Monitoring_for_Trustworthy_Retrieval-Augmented_Generation.md)
 
 - [InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising](2024年06月19日/InstructRAG_Instructing_Retrieval-Augmented_Generation_with_Explicit_Denoising.md)
 
-    - [翻译: InstructRAG：利用显式去噪技术指导检索增强生成过程](2024年06月19日/InstructRAG_Instructing_Retrieval-Augmented_Generation_with_Explicit_Denoising.md)
+    - [翻译: InstructRAG：借助显式去噪技术，指导检索增强生成过程](2024年06月19日/InstructRAG_Instructing_Retrieval-Augmented_Generation_with_Explicit_Denoising.md)
 
 - [Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph Integration](2024年06月19日/Enhancing_Distractor_Generation_for_Multiple-Choice_Questions_with_Retrieval_Augmented_Pretraining_and_Knowledge_Graph_Integration.md)
 
-    - [翻译: 通过检索增强预训练与知识图谱融合，提升多选题干扰项生成效果](2024年06月19日/Enhancing_Distractor_Generation_for_Multiple-Choice_Questions_with_Retrieval_Augmented_Pretraining_and_Knowledge_Graph_Integration.md)
+    - [翻译: 提升多选题干扰项生成质量，结合检索增强预训练与知识图谱融合技术](2024年06月19日/Enhancing_Distractor_Generation_for_Multiple-Choice_Questions_with_Retrieval_Augmented_Pretraining_and_Knowledge_Graph_Integration.md)
 
 - [Thread: A Logic-Based Data Organization Paradigm for How-To Question Answering with Retrieval Augmented Generation](2024年06月19日/Thread_A_Logic-Based_Data_Organization_Paradigm_for_How-To_Question_Answering_with_Retrieval_Augmented_Generation.md)
 
-    - [翻译: 探讨：逻辑驱动的数据架构，专为“如何做”问答设计，结合检索增强生成技术，优化解答流程。](2024年06月19日/Thread_A_Logic-Based_Data_Organization_Paradigm_for_How-To_Question_Answering_with_Retrieval_Augmented_Generation.md)
+    - [翻译: 探讨：逻辑驱动的数据架构，专为“如何做”问答系统设计，通过检索增强生成技术优化答案生成。](2024年06月19日/Thread_A_Logic-Based_Data_Organization_Paradigm_for_How-To_Question_Answering_with_Retrieval_Augmented_Generation.md)
 
 - [R^2AG: Incorporating Retrieval Information into Retrieval Augmented Generation](2024年06月19日/R^2AG_Incorporating_Retrieval_Information_into_Retrieval_Augmented_Generation.md)
 
@@ -314,7 +314,7 @@
 
 - [Multi-Meta-RAG: Improving RAG for Multi-Hop Queries using Database Filtering with LLM-Extracted Metadata](2024年06月19日/Multi-Meta-RAG_Improving_RAG_for_Multi-Hop_Queries_using_Database_Filtering_with_LLM-Extracted_Metadata.md)
 
-    - [翻译: Multi-Meta-RAG：借助大型语言模型提取的元数据优化数据库过滤，显著提升RAG在处理复杂多跳查询时的性能。](2024年06月19日/Multi-Meta-RAG_Improving_RAG_for_Multi-Hop_Queries_using_Database_Filtering_with_LLM-Extracted_Metadata.md)
+    - [翻译: 多重元RAG：通过LLM提取的元数据优化数据库过滤，提升RAG对复杂多步查询的响应能力](2024年06月19日/Multi-Meta-RAG_Improving_RAG_for_Multi-Hop_Queries_using_Database_Filtering_with_LLM-Extracted_Metadata.md)
 
 - [PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents](2024年06月19日/PIN_A_Knowledge-Intensive_Dataset_for_Paired_and_Interleaved_Multimodal_Documents.md)
 
@@ -322,7 +322,7 @@
 
 - [The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications](2024年06月19日/The_Use_of_Multimodal_Large_Language_Models_to_Detect_Objects_from_Thermal_Images_Transportation_Applications.md)
 
-    - [翻译: 多模态大型语言模型在热图像物体检测中的应用：交通领域的探索](2024年06月19日/The_Use_of_Multimodal_Large_Language_Models_to_Detect_Objects_from_Thermal_Images_Transportation_Applications.md)
+    - [翻译: 利用多模态大型语言模型识别热图像中的物体：交通领域的应用探索](2024年06月19日/The_Use_of_Multimodal_Large_Language_Models_to_Detect_Objects_from_Thermal_Images_Transportation_Applications.md)
 
 - [Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events](2024年06月19日/Using_Multimodal_Large_Language_Models_for_Automated_Detection_of_Traffic_Safety_Critical_Events.md)
 
@@ -676,7 +676,7 @@
 
 - [LLMatDesign: Autonomous Materials Discovery with Large Language Models](2024年06月18日/LLMatDesign_Autonomous_Materials_Discovery_with_Large_Language_Models.md)
 
-    - [翻译: LLMatDesign：借助大型语言模型实现材料发现的自主探索](2024年06月18日/LLMatDesign_Autonomous_Materials_Discovery_with_Large_Language_Models.md)
+    - [翻译: LLMatDesign：大型语言模型助力自主材料探索](2024年06月18日/LLMatDesign_Autonomous_Materials_Discovery_with_Large_Language_Models.md)
 
 - [APPL: A Prompt Programming Language for Harmonious Integration of Programs and Large Language Model Prompts](2024年06月18日/APPL_A_Prompt_Programming_Language_for_Harmonious_Integration_of_Programs_and_Large_Language_Model_Prompts.md)
 
@@ -684,11 +684,11 @@
 
 - [DialSim: A Real-Time Simulator for Evaluating Long-Term Dialogue Understanding of Conversational Agents](2024年06月18日/DialSim_A_Real-Time_Simulator_for_Evaluating_Long-Term_Dialogue_Understanding_of_Conversational_Agents.md)
 
-    - [翻译: DialSim：实时模拟器，专为评估对话代理在长期对话中的理解能力而设计。](2024年06月18日/DialSim_A_Real-Time_Simulator_for_Evaluating_Long-Term_Dialogue_Understanding_of_Conversational_Agents.md)
+    - [翻译: DialSim：实时模拟器，专为评估对话代理在长期对话中的理解能力而设计](2024年06月18日/DialSim_A_Real-Time_Simulator_for_Evaluating_Long-Term_Dialogue_Understanding_of_Conversational_Agents.md)
 
 - [Code Agents are State of the Art Software Testers](2024年06月18日/Code_Agents_are_State_of_the_Art_Software_Testers.md)
 
-    - [翻译: 代码代理，作为顶尖的软件测试工具，正引领着技术的前沿。](2024年06月18日/Code_Agents_are_State_of_the_Art_Software_Testers.md)
+    - [翻译: 代码代理，作为尖端软件测试工具，正引领着行业的发展。](2024年06月18日/Code_Agents_are_State_of_the_Art_Software_Testers.md)
 
 2024年06月17日
 
@@ -1284,7 +1284,7 @@
 
 - [Current state of LLM Risks and AI Guardrails](2024年06月16日/Current_state_of_LLM_Risks_and_AI_Guardrails.md)
 
-    - [翻译: 大型语言模型（LLM）当前面临的风险与人工智能安全保障现状](2024年06月16日/Current_state_of_LLM_Risks_and_AI_Guardrails.md)
+    - [翻译: 大型语言模型（LLM）风险现状与人工智能安全护栏](2024年06月16日/Current_state_of_LLM_Risks_and_AI_Guardrails.md)
 
 2024年06月15日
 
