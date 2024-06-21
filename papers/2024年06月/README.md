@@ -70,6 +70,154 @@
 
     - [翻译: 《尘土中的长颈鹿：通过游戏探索大型多模态模型中的情境构建》](2024年06月20日/Two_Giraffes_in_a_Dirt_Field_Using_Game_Play_to_Investigate_Situation_Modelling_in_Large_Multimodal_Models.md)
 
+- [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](2024年06月20日/Model_Merging_and_Safety_Alignment_One_Bad_Model_Spoils_the_Bunch.md)
+
+    - [翻译: 模型合并与安全对齐：一颗老鼠屎，坏了一锅粥](2024年06月20日/Model_Merging_and_Safety_Alignment_One_Bad_Model_Spoils_the_Bunch.md)
+
+- [Asynchronous Large Language Model Enhanced Planner for Autonomous Driving](2024年06月20日/Asynchronous_Large_Language_Model_Enhanced_Planner_for_Autonomous_Driving.md)
+
+    - [翻译: 自动驾驶中的异步大型语言模型增强规划器](2024年06月20日/Asynchronous_Large_Language_Model_Enhanced_Planner_for_Autonomous_Driving.md)
+
+- [Uncovering Latent Memories: Assessing Data Leakage and Memorization Patterns in Large Language Models](2024年06月20日/Uncovering_Latent_Memories_Assessing_Data_Leakage_and_Memorization_Patterns_in_Large_Language_Models.md)
+
+    - [翻译: 探秘隐匿记忆：审视大型语言模型中的数据泄露与记忆痕迹](2024年06月20日/Uncovering_Latent_Memories_Assessing_Data_Leakage_and_Memorization_Patterns_in_Large_Language_Models.md)
+
+- [Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data](2024年06月20日/Connecting_the_Dots_LLMs_can_Infer_and_Verbalize_Latent_Structure_from_Disparate_Training_Data.md)
+
+    - [翻译: 点与点相连：大型语言模型（LLMs）具备从多样训练数据中洞察并阐述隐含结构的能力。](2024年06月20日/Connecting_the_Dots_LLMs_can_Infer_and_Verbalize_Latent_Structure_from_Disparate_Training_Data.md)
+
+- [Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems](2024年06月20日/Unmasking_Database_Vulnerabilities_Zero-Knowledge_Schema_Inference_Attacks_in_Text-to-SQL_Systems.md)
+
+    - [翻译: 揭秘数据库安全漏洞：探究文本到SQL系统中零知识模式推断攻击的威胁](2024年06月20日/Unmasking_Database_Vulnerabilities_Zero-Knowledge_Schema_Inference_Attacks_in_Text-to-SQL_Systems.md)
+
+- [Are LLMs Naturally Good at Synthetic Tabular Data Generation?](2024年06月20日/Are_LLMs_Naturally_Good_at_Synthetic_Tabular_Data_Generation.md)
+
+    - [翻译: 大型语言模型是否天生擅长于合成表格数据的生成？](2024年06月20日/Are_LLMs_Naturally_Good_at_Synthetic_Tabular_Data_Generation.md)
+
+- [PostMark: A Robust Blackbox Watermark for Large Language Models](2024年06月20日/PostMark_A_Robust_Blackbox_Watermark_for_Large_Language_Models.md)
+
+    - [翻译: PostMark：为大型语言模型设计的鲁棒黑盒水印方案](2024年06月20日/PostMark_A_Robust_Blackbox_Watermark_for_Large_Language_Models.md)
+
+- [MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding](2024年06月20日/MMBench-Video_A_Long-Form_Multi-Shot_Benchmark_for_Holistic_Video_Understanding.md)
+
+    - [翻译: MMBench-Video：全面视频理解的长格式多镜头评估标杆](2024年06月20日/MMBench-Video_A_Long-Form_Multi-Shot_Benchmark_for_Holistic_Video_Understanding.md)
+
+- [Investigating Mysteries of CoT-Augmented Distillation](2024年06月20日/Investigating_Mysteries_of_CoT-Augmented_Distillation.md)
+
+    - [翻译: 揭秘 CoT-Augmented Distillation 的神秘面纱](2024年06月20日/Investigating_Mysteries_of_CoT-Augmented_Distillation.md)
+
+- [Evidence of a log scaling law for political persuasion with large language models](2024年06月20日/Evidence_of_a_log_scaling_law_for_political_persuasion_with_large_language_models.md)
+
+    - [翻译: 大型语言模型揭示了政治说服能力的对数缩放定律](2024年06月20日/Evidence_of_a_log_scaling_law_for_political_persuasion_with_large_language_models.md)
+
+- [Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary](2024年06月20日/Improving_Expert_Radiology_Report_Summarization_by_Prompting_Large_Language_Models_with_a_Layperson_Summary.md)
+
+    - [翻译: 借助非专业人士的总结，激发大型语言模型的潜能，以精炼专家放射学报告的摘要。](2024年06月20日/Improving_Expert_Radiology_Report_Summarization_by_Prompting_Large_Language_Models_with_a_Layperson_Summary.md)
+
+- [African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification](2024年06月20日/African_or_European_Swallow_Benchmarking_Large_Vision-Language_Models_for_Fine-Grained_Object_Classification.md)
+
+    - [翻译: 非洲燕还是欧洲燕？大型视觉-语言模型在细粒度物体分类上的基准测试](2024年06月20日/African_or_European_Swallow_Benchmarking_Large_Vision-Language_Models_for_Fine-Grained_Object_Classification.md)
+
+- [Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?](2024年06月20日/Does_Object_Grounding_Really_Reduce_Hallucination_of_Large_Vision-Language_Models.md)
+
+    - [翻译: 对象基础化是否真能减少大型视觉-语言模型中的幻觉现象？](2024年06月20日/Does_Object_Grounding_Really_Reduce_Hallucination_of_Large_Vision-Language_Models.md)
+
+- [Data-Centric AI in the Age of Large Language Models](2024年06月20日/Data-Centric_AI_in_the_Age_of_Large_Language_Models.md)
+
+    - [翻译: 在大语言模型时代，数据中心AI的新篇章](2024年06月20日/Data-Centric_AI_in_the_Age_of_Large_Language_Models.md)
+
+- [Explicit and Implicit Large Language Model Personas Generate Opinions but Fail to Replicate Deeper Perceptions and Biases](2024年06月20日/Explicit_and_Implicit_Large_Language_Model_Personas_Generate_Opinions_but_Fail_to_Replicate_Deeper_Perceptions_and_Biases.md)
+
+    - [翻译: 大型语言模型的显式与隐式人格虽能生成意见，却难以再现深层的感知与偏见。](2024年06月20日/Explicit_and_Implicit_Large_Language_Model_Personas_Generate_Opinions_but_Fail_to_Replicate_Deeper_Perceptions_and_Biases.md)
+
+- [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](2024年06月20日/APEER_Automatic_Prompt_Engineering_Enhances_Large_Language_Model_Reranking.md)
+
+    - [翻译: APEER：自动提示工程技术，显著提升了大型语言模型在文本重排序任务中的性能。](2024年06月20日/APEER_Automatic_Prompt_Engineering_Enhances_Large_Language_Model_Reranking.md)
+
+- [LLM4CP: Adapting Large Language Models for Channel Prediction](2024年06月20日/LLM4CP_Adapting_Large_Language_Models_for_Channel_Prediction.md)
+
+    - [翻译: LLM4CP：大型语言模型在信道预测中的应用与适应](2024年06月20日/LLM4CP_Adapting_Large_Language_Models_for_Channel_Prediction.md)
+
+- [Towards Truthful Multilingual Large Language Models: Benchmarking and Alignment Strategies](2024年06月20日/Towards_Truthful_Multilingual_Large_Language_Models_Benchmarking_and_Alignment_Strategies.md)
+
+    - [翻译: 迈向真实多语言大型语言模型：基准测试与校准策略探索](2024年06月20日/Towards_Truthful_Multilingual_Large_Language_Models_Benchmarking_and_Alignment_Strategies.md)
+
+- [SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages](2024年06月20日/SynDARin_Synthesising_Datasets_for_Automated_Reasoning_in_Low-Resource_Languages.md)
+
+    - [翻译: SynDARin：低资源语言自动推理的数据集合成者](2024年06月20日/SynDARin_Synthesising_Datasets_for_Automated_Reasoning_in_Low-Resource_Languages.md)
+
+- [FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving](2024年06月20日/FVEL_Interactive_Formal_Verification_Environment_with_Large_Language_Models_via_Theorem_Proving.md)
+
+    - [翻译: FVEL：借助定理证明，打造大型语言模型的交互式形式验证环境](2024年06月20日/FVEL_Interactive_Formal_Verification_Environment_with_Large_Language_Models_via_Theorem_Proving.md)
+
+- [Jailbreaking as a Reward Misspecification Problem](2024年06月20日/Jailbreaking_as_a_Reward_Misspecification_Problem.md)
+
+    - [翻译: 越狱现象：奖励机制的误设问题](2024年06月20日/Jailbreaking_as_a_Reward_Misspecification_Problem.md)
+
+- [The neural correlates of logical-mathematical symbol systems processing resemble that of spatial cognition more than natural language processing](2024年06月20日/The_neural_correlates_of_logical-mathematical_symbol_systems_processing_resemble_that_of_spatial_cognition_more_than_natural_language_processing.md)
+
+    - [翻译: 逻辑数学符号系统的神经处理机制与空间认知更为接近，与自然语言处理有所不同。](2024年06月20日/The_neural_correlates_of_logical-mathematical_symbol_systems_processing_resemble_that_of_spatial_cognition_more_than_natural_language_processing.md)
+
+- [Exploring Spatial Representations in the Historical Lake District Texts with LLM-based Relation Extraction](2024年06月20日/Exploring_Spatial_Representations_in_the_Historical_Lake_District_Texts_with_LLM-based_Relation_Extraction.md)
+
+    - [翻译: 借助LLM的关系抽取技术，深入挖掘历史湖区文本中的空间信息](2024年06月20日/Exploring_Spatial_Representations_in_the_Historical_Lake_District_Texts_with_LLM-based_Relation_Extraction.md)
+
+- [Self-supervised Interpretable Concept-based Models for Text Classification](2024年06月20日/Self-supervised_Interpretable_Concept-based_Models_for_Text_Classification.md)
+
+    - [翻译: 文本分类的自监督可解释概念模型](2024年06月20日/Self-supervised_Interpretable_Concept-based_Models_for_Text_Classification.md)
+
+- [medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs](2024年06月20日/medIKAL_Integrating_Knowledge_Graphs_as_Assistants_of_LLMs_for_Enhanced_Clinical_Diagnosis_on_EMRs.md)
+
+    - [翻译: medIKAL：融合知识图谱，助力大型语言模型，提升电子病历临床诊断精准度](2024年06月20日/medIKAL_Integrating_Knowledge_Graphs_as_Assistants_of_LLMs_for_Enhanced_Clinical_Diagnosis_on_EMRs.md)
+
+- [Mind the Privacy Unit! User-Level Differential Privacy for Language Model Fine-Tuning](2024年06月20日/Mind_the_Privacy_Unit!_User-Level_Differential_Privacy_for_Language_Model_Fine-Tuning.md)
+
+    - [翻译: 关注隐私细节！语言模型微调中的用户级差分隐私保护](2024年06月20日/Mind_the_Privacy_Unit!_User-Level_Differential_Privacy_for_Language_Model_Fine-Tuning.md)
+
+- [LiveMind: Low-latency Large Language Models with Simultaneous Inference](2024年06月20日/LiveMind_Low-latency_Large_Language_Models_with_Simultaneous_Inference.md)
+
+    - [翻译: LiveMind：实现大型语言模型低延迟的同时推理](2024年06月20日/LiveMind_Low-latency_Large_Language_Models_with_Simultaneous_Inference.md)
+
+- [The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in Prompts](2024年06月20日/The_Fire_Thief_Is_Also_the_Keeper_Balancing_Usability_and_Privacy_in_Prompts.md)
+
+    - [翻译: 《盗火者亦守护者：提示中的可用性与隐私平衡之道》](2024年06月20日/The_Fire_Thief_Is_Also_the_Keeper_Balancing_Usability_and_Privacy_in_Prompts.md)
+
+- [Robust Few-shot Transfer Learning for Knowledge Base Question Answering with Unanswerable Questions](2024年06月20日/Robust_Few-shot_Transfer_Learning_for_Knowledge_Base_Question_Answering_with_Unanswerable_Questions.md)
+
+    - [翻译: 针对知识库问答中不可回答问题的鲁棒性少样本迁移学习：探索知识库问答系统在面对不可回答问题时的少样本学习能力，以提升系统的鲁棒性和适应性。](2024年06月20日/Robust_Few-shot_Transfer_Learning_for_Knowledge_Base_Question_Answering_with_Unanswerable_Questions.md)
+
+- [QuST-LLM: Integrating Large Language Models for Comprehensive Spatial Transcriptomics Analysis](2024年06月20日/QuST-LLM_Integrating_Large_Language_Models_for_Comprehensive_Spatial_Transcriptomics_Analysis.md)
+
+    - [翻译: QuST-LLM：融合大型语言模型，助力全面空间转录组学深度解析](2024年06月20日/QuST-LLM_Integrating_Large_Language_Models_for_Comprehensive_Spatial_Transcriptomics_Analysis.md)
+
+- [VAIYAKARANA : A Benchmark for Automatic Grammar Correction in Bangla](2024年06月20日/VAIYAKARANA__A_Benchmark_for_Automatic_Grammar_Correction_in_Bangla.md)
+
+    - [翻译: VAIYAKARANA：孟加拉语自动语法修正的标杆](2024年06月20日/VAIYAKARANA__A_Benchmark_for_Automatic_Grammar_Correction_in_Bangla.md)
+
+- [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](2024年06月20日/Q_Improving_Multi-step_Reasoning_for_LLMs_with_Deliberative_Planning.md)
+
+    - [翻译: Q*：借助审慎规划，提升大型语言模型在多步推理上的表现力](2024年06月20日/Q_Improving_Multi-step_Reasoning_for_LLMs_with_Deliberative_Planning.md)
+
+- [Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs](2024年06月20日/Learning_to_Plan_for_Retrieval-Augmented_Large_Language_Models_from_Knowledge_Graphs.md)
+
+    - [翻译: 学习从知识图谱中规划，以提升大型语言模型的检索增强能力](2024年06月20日/Learning_to_Plan_for_Retrieval-Augmented_Large_Language_Models_from_Knowledge_Graphs.md)
+
+- [Step-Back Profiling: Distilling User History for Personalized Scientific Writing](2024年06月20日/Step-Back_Profiling_Distilling_User_History_for_Personalized_Scientific_Writing.md)
+
+    - [翻译: 回溯用户历程：精炼历史数据，定制科学写作体验](2024年06月20日/Step-Back_Profiling_Distilling_User_History_for_Personalized_Scientific_Writing.md)
+
+- [On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?](2024年06月20日/On_the_Evaluation_Practices_in_Multilingual_NLP_Can_Machine_Translation_Offer_an_Alternative_to_Human_Translations.md)
+
+    - [翻译: 多语言NLP评估实践中，机器翻译是否能成为人类翻译的有效替代方案？](2024年06月20日/On_the_Evaluation_Practices_in_Multilingual_NLP_Can_Machine_Translation_Offer_an_Alternative_to_Human_Translations.md)
+
+- [Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation](2024年06月20日/Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_Manipulation.md)
+
+    - [翻译: 缩小视觉预训练中人机交互的领域鸿沟，优化机器人操作性能](2024年06月20日/Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_Manipulation.md)
+
+- [Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing](2024年06月20日/Raising_the_Bar_Investigating_the_Values_of_Large_Language_Models_via_Generative_Evolving_Testing.md)
+
+    - [翻译: 提升标准：利用生成式演化测试探索大型语言模型的潜力](2024年06月20日/Raising_the_Bar_Investigating_the_Values_of_Large_Language_Models_via_Generative_Evolving_Testing.md)
+
 2024年06月19日
 
 - [From Single Agent to Multi-Agent: Improving Traffic Signal Control](2024年06月19日/From_Single_Agent_to_Multi-Agent_Improving_Traffic_Signal_Control.md)
