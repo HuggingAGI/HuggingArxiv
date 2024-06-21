@@ -1,5 +1,51 @@
 # 2024年06月
 
+2024年06月19日
+
+- [From Single Agent to Multi-Agent: Improving Traffic Signal Control](2024年06月19日/From_Single_Agent_to_Multi-Agent_Improving_Traffic_Signal_Control.md)
+
+    - [翻译: 从单一控制到多代理协作：提升交通信号系统的智能调控](2024年06月19日/From_Single_Agent_to_Multi-Agent_Improving_Traffic_Signal_Control.md)
+
+- [Nicer Than Humans: How do Large Language Models Behave in the Prisoner's Dilemma?](2024年06月19日/Nicer_Than_Humans_How_do_Large_Language_Models_Behave_in_the_Prisoner's_Dilemma.md)
+
+    - [翻译: 大型语言模型在囚徒困境中的表现：超越人类之举。](2024年06月19日/Nicer_Than_Humans_How_do_Large_Language_Models_Behave_in_the_Prisoner's_Dilemma.md)
+
+- [SQLFixAgent: Towards Semantic-Accurate SQL Generation via Multi-Agent Collaboration](2024年06月19日/SQLFixAgent_Towards_Semantic-Accurate_SQL_Generation_via_Multi-Agent_Collaboration.md)
+
+    - [翻译: SQLFixAgent：借助多代理协作，精准生成语义准确的SQL语句](2024年06月19日/SQLFixAgent_Towards_Semantic-Accurate_SQL_Generation_via_Multi-Agent_Collaboration.md)
+
+- [VELO: A Vector Database-Assisted Cloud-Edge Collaborative LLM QoS Optimization Framework](2024年06月19日/VELO_A_Vector_Database-Assisted_Cloud-Edge_Collaborative_LLM_QoS_Optimization_Framework.md)
+
+    - [翻译: VELO：一种借助向量数据库的云-边缘协作，旨在优化大型语言模型服务质量的框架](2024年06月19日/VELO_A_Vector_Database-Assisted_Cloud-Edge_Collaborative_LLM_QoS_Optimization_Framework.md)
+
+- [Through the Theory of Mind's Eye: Reading Minds with Multimodal Video Large Language Models](2024年06月19日/Through_the_Theory_of_Mind's_Eye_Reading_Minds_with_Multimodal_Video_Large_Language_Models.md)
+
+    - [翻译: 透过心智之眼：借助多模态视频大型语言模型洞察人心](2024年06月19日/Through_the_Theory_of_Mind's_Eye_Reading_Minds_with_Multimodal_Video_Large_Language_Models.md)
+
+- [Converging Dimensions: Information Extraction and Summarization through Multisource, Multimodal, and Multilingual Fusion](2024年06月19日/Converging_Dimensions_Information_Extraction_and_Summarization_through_Multisource,_Multimodal,_and_Multilingual_Fusion.md)
+
+    - [翻译: 融合多维：通过多源、多模态、多语言融合实现信息提取与摘要](2024年06月19日/Converging_Dimensions_Information_Extraction_and_Summarization_through_Multisource,_Multimodal,_and_Multilingual_Fusion.md)
+
+- [Improving Visual Commonsense in Language Models via Multiple Image Generation](2024年06月19日/Improving_Visual_Commonsense_in_Language_Models_via_Multiple_Image_Generation.md)
+
+    - [翻译: 借助多图像生成，提升语言模型中的视觉常识理解](2024年06月19日/Improving_Visual_Commonsense_in_Language_Models_via_Multiple_Image_Generation.md)
+
+- [Is AI fun? HumorDB: a curated dataset and benchmark to investigate graphical humor](2024年06月19日/Is_AI_fun_HumorDB_a_curated_dataset_and_benchmark_to_investigate_graphical_humor.md)
+
+    - [翻译: AI 也能逗你笑？HumorDB：探索图形幽默的精选数据集与评测基准。](2024年06月19日/Is_AI_fun_HumorDB_a_curated_dataset_and_benchmark_to_investigate_graphical_humor.md)
+
+- [VisualRWKV: Exploring Recurrent Neural Networks for Visual Language Models](2024年06月19日/VisualRWKV_Exploring_Recurrent_Neural_Networks_for_Visual_Language_Models.md)
+
+    - [翻译: 视觉RWKV：揭秘循环神经网络在视觉语言模型中的应用](2024年06月19日/VisualRWKV_Exploring_Recurrent_Neural_Networks_for_Visual_Language_Models.md)
+
+- [Towards Robust Evaluation: A Comprehensive Taxonomy of Datasets and Metrics for Open Domain Question Answering in the Era of Large Language Models](2024年06月19日/Towards_Robust_Evaluation_A_Comprehensive_Taxonomy_of_Datasets_and_Metrics_for_Open_Domain_Question_Answering_in_the_Era_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型时代下的开放领域问答系统：数据集与评价指标的综合分类法，旨在提升评估的鲁棒性。](2024年06月19日/Towards_Robust_Evaluation_A_Comprehensive_Taxonomy_of_Datasets_and_Metrics_for_Open_Domain_Question_Answering_in_the_Era_of_Large_Language_Models.md)
+
+- [MC-MKE: A Fine-Grained Multimodal Knowledge Editing Benchmark Emphasizing Modality Consistency](2024年06月19日/MC-MKE_A_Fine-Grained_Multimodal_Knowledge_Editing_Benchmark_Emphasizing_Modality_Consistency.md)
+
+    - [翻译: MC-MKE：聚焦模态一致性的精细多模态知识编辑评测基准](2024年06月19日/MC-MKE_A_Fine-Grained_Multimodal_Knowledge_Editing_Benchmark_Emphasizing_Modality_Consistency.md)
+
 2024年06月18日
 
 - [Ask-before-Plan: Proactive Language Agents for Real-World Planning](2024年06月18日/Ask-before-Plan_Proactive_Language_Agents_for_Real-World_Planning.md)
@@ -325,6 +371,22 @@
 - [Vernacular? I Barely Know Her: Challenges with Style Control and Stereotyping](2024年06月18日/Vernacular_I_Barely_Know_Her_Challenges_with_Style_Control_and_Stereotyping.md)
 
     - [翻译: 方言难题：掌控风格与打破刻板印象的双重挑战](2024年06月18日/Vernacular_I_Barely_Know_Her_Challenges_with_Style_Control_and_Stereotyping.md)
+
+- [PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes](2024年06月18日/PRESTO_Progressive_Pretraining_Enhances_Synthetic_Chemistry_Outcomes.md)
+
+    - [翻译: PRESTO：通过渐进式预训练优化合成化学成果](2024年06月18日/PRESTO_Progressive_Pretraining_Enhances_Synthetic_Chemistry_Outcomes.md)
+
+- [Learnable In-Context Vector for Visual Question Answering](2024年06月18日/Learnable_In-Context_Vector_for_Visual_Question_Answering.md)
+
+    - [翻译: 视觉问答中的可学习上下文向量](2024年06月18日/Learnable_In-Context_Vector_for_Visual_Question_Answering.md)
+
+- [Biomedical Visual Instruction Tuning with Clinician Preference Alignment](2024年06月18日/Biomedical_Visual_Instruction_Tuning_with_Clinician_Preference_Alignment.md)
+
+    - [翻译: 临床医生偏好对齐的生物医学视觉指令调优](2024年06月18日/Biomedical_Visual_Instruction_Tuning_with_Clinician_Preference_Alignment.md)
+
+- [Instruction Data Generation and Unsupervised Adaptation for Speech Language Models](2024年06月18日/Instruction_Data_Generation_and_Unsupervised_Adaptation_for_Speech_Language_Models.md)
+
+    - [翻译: 语音语言模型的指令数据生成与无监督适应](2024年06月18日/Instruction_Data_Generation_and_Unsupervised_Adaptation_for_Speech_Language_Models.md)
 
 2024年06月17日
 
