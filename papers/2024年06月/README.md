@@ -1,5 +1,47 @@
 # 2024年06月
 
+2024年06月21日
+
+- [UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-world Document Analysis](2024年06月21日/UDA_A_Benchmark_Suite_for_Retrieval_Augmented_Generation_in_Real-world_Document_Analysis.md)
+
+    - [翻译: UDA：现实世界文档分析中检索增强生成能力的基准套件在](2024年06月21日/UDA_A_Benchmark_Suite_for_Retrieval_Augmented_Generation_in_Real-world_Document_Analysis.md)
+
+- [GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians](2024年06月21日/GenoTEX_A_Benchmark_for_Evaluating_LLM-Based_Exploration_of_Gene_Expression_Data_in_Alignment_with_Bioinformaticians.md)
+
+    - [翻译: GenoTEX：大型语言模型探索基因表达数据的评估基准，与生物信息学家的需求相契合](2024年06月21日/GenoTEX_A_Benchmark_for_Evaluating_LLM-Based_Exploration_of_Gene_Expression_Data_in_Alignment_with_Bioinformaticians.md)
+
+- [ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models](2024年06月21日/ESC-Eval_Evaluating_Emotion_Support_Conversations_in_Large_Language_Models.md)
+
+    - [翻译: 情感支持对话评估：探索大型语言模型中的ESC-Eval](2024年06月21日/ESC-Eval_Evaluating_Emotion_Support_Conversations_in_Large_Language_Models.md)
+
+- [Autonomous Agents for Collaborative Task under Information Asymmetry](2024年06月21日/Autonomous_Agents_for_Collaborative_Task_under_Information_Asymmetry.md)
+
+    - [翻译: 信息不对称环境下的协作任务自主代理研究](2024年06月21日/Autonomous_Agents_for_Collaborative_Task_under_Information_Asymmetry.md)
+
+- [Direct Multi-Turn Preference Optimization for Language Agents](2024年06月21日/Direct_Multi-Turn_Preference_Optimization_for_Language_Agents.md)
+
+    - [翻译: 语言代理的直接多轮偏好优化](2024年06月21日/Direct_Multi-Turn_Preference_Optimization_for_Language_Agents.md)
+
+- [Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning](2024年06月21日/Multimodal_Task_Vectors_Enable_Many-Shot_Multimodal_In-Context_Learning.md)
+
+    - [翻译: 多模态任务向量助力实现多-shot情境下的多模态学习](2024年06月21日/Multimodal_Task_Vectors_Enable_Many-Shot_Multimodal_In-Context_Learning.md)
+
+- [EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot](2024年06月21日/EmpathyEar_An_Open-source_Avatar_Multimodal_Empathetic_Chatbot.md)
+
+    - [翻译: EmpathyEar：一款开源的多模态共情聊天机器人，以虚拟形象呈现，旨在提供深度的情感交流体验。](2024年06月21日/EmpathyEar_An_Open-source_Avatar_Multimodal_Empathetic_Chatbot.md)
+
+- [Investigating the impact of 2D gesture representation on co-speech gesture generation](2024年06月21日/Investigating_the_impact_of_2D_gesture_representation_on_co-speech_gesture_generation.md)
+
+    - [翻译: 探究二维手势表示如何影响伴随语言的手势生成](2024年06月21日/Investigating_the_impact_of_2D_gesture_representation_on_co-speech_gesture_generation.md)
+
+- [Sports Intelligence: Assessing the Sports Understanding Capabilities of Language Models through Question Answering from Text to Video](2024年06月21日/Sports_Intelligence_Assessing_the_Sports_Understanding_Capabilities_of_Language_Models_through_Question_Answering_from_Text_to_Video.md)
+
+    - [翻译: 体育智能探索：通过问题回答，从文本到视频，全面评估语言模型对体育知识的理解深度。](2024年06月21日/Sports_Intelligence_Assessing_the_Sports_Understanding_Capabilities_of_Language_Models_through_Question_Answering_from_Text_to_Video.md)
+
+- [From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking](2024年06月21日/From_LLMs_to_MLLMs_Exploring_the_Landscape_of_Multimodal_Jailbreaking.md)
+
+    - [翻译: 从大型语言模型到多模态大型语言模型：揭秘多模态系统的解锁之旅](2024年06月21日/From_LLMs_to_MLLMs_Exploring_the_Landscape_of_Multimodal_Jailbreaking.md)
+
 2024年06月20日
 
 - [CodeRAG-Bench: Can Retrieval Augment Code Generation?](2024年06月20日/CodeRAG-Bench_Can_Retrieval_Augment_Code_Generation.md)
@@ -217,6 +259,30 @@
 - [Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing](2024年06月20日/Raising_the_Bar_Investigating_the_Values_of_Large_Language_Models_via_Generative_Evolving_Testing.md)
 
     - [翻译: 提升标准：利用生成式演化测试探索大型语言模型的潜力](2024年06月20日/Raising_the_Bar_Investigating_the_Values_of_Large_Language_Models_via_Generative_Evolving_Testing.md)
+
+- [Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework](2024年06月20日/Evaluating_RAG-Fusion_with_RAGElo_an_Automated_Elo-based_Framework.md)
+
+    - [翻译: 利用 RAGElo 自动化框架评估 RAG-Fusion：基于 Elo 的性能分析](2024年06月20日/Evaluating_RAG-Fusion_with_RAGElo_an_Automated_Elo-based_Framework.md)
+
+- [MultiAgent Collaboration Attack: Investigating Adversarial Attacks in Large Language Model Collaborations via Debate](2024年06月20日/MultiAgent_Collaboration_Attack_Investigating_Adversarial_Attacks_in_Large_Language_Model_Collaborations_via_Debate.md)
+
+    - [翻译: 辩论中的多智能体协作攻击：探究大型语言模型协作中的对抗性策略](2024年06月20日/MultiAgent_Collaboration_Attack_Investigating_Adversarial_Attacks_in_Large_Language_Model_Collaborations_via_Debate.md)
+
+- [ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights](2024年06月20日/ICAL_Continual_Learning_of_Multimodal_Agents_by_Transforming_Trajectories_into_Actionable_Insights.md)
+
+    - [翻译: ICAL：将轨迹转化为行动指南，助力多模态代理持续进化](2024年06月20日/ICAL_Continual_Learning_of_Multimodal_Agents_by_Transforming_Trajectories_into_Actionable_Insights.md)
+
+- [Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models](2024年06月20日/Is_A_Picture_Worth_A_Thousand_Words_Delving_Into_Spatial_Reasoning_for_Vision_Language_Models.md)
+
+    - [翻译: 图胜千言？探索视觉语言模型中的空间推理之谜](2024年06月20日/Is_A_Picture_Worth_A_Thousand_Words_Delving_Into_Spatial_Reasoning_for_Vision_Language_Models.md)
+
+- [Evaluating vision-capable chatbots in interpreting kinematics graphs: a comparative study of free and subscription-based models](2024年06月20日/Evaluating_vision-capable_chatbots_in_interpreting_kinematics_graphs_a_comparative_study_of_free_and_subscription-based_models.md)
+
+    - [翻译: 探究视觉聊天机器人在解析运动学图表上的能力：自由与订阅模式下的对比分析](2024年06月20日/Evaluating_vision-capable_chatbots_in_interpreting_kinematics_graphs_a_comparative_study_of_free_and_subscription-based_models.md)
+
+- [ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Disscusion via Argumentation Schemes](2024年06月20日/ArgMed-Agents_Explainable_Clinical_Decision_Reasoning_with_LLM_Disscusion_via_Argumentation_Schemes.md)
+
+    - [翻译: ArgMed-Agents：借助论证方案，实现大型语言模型在临床决策推理中的可解释性讨论](2024年06月20日/ArgMed-Agents_Explainable_Clinical_Decision_Reasoning_with_LLM_Disscusion_via_Argumentation_Schemes.md)
 
 2024年06月19日
 
@@ -1975,6 +2041,10 @@
 - [Large Language Models as Software Components: A Taxonomy for LLM-Integrated Applications](2024年06月13日/Large_Language_Models_as_Software_Components_A_Taxonomy_for_LLM-Integrated_Applications.md)
 
     - [翻译: 大型语言模型：软件组件的新分类法，专为集成LLM的应用而设计](2024年06月13日/Large_Language_Models_as_Software_Components_A_Taxonomy_for_LLM-Integrated_Applications.md)
+
+- [Advanced Multimodal Deep Learning Architecture for Image-Text Matching](2024年06月13日/Advanced_Multimodal_Deep_Learning_Architecture_for_Image-Text_Matching.md)
+
+    - [翻译: 图像-文本匹配的高级多模态深度学习架构](2024年06月13日/Advanced_Multimodal_Deep_Learning_Architecture_for_Image-Text_Matching.md)
 
 2024年06月12日
 
