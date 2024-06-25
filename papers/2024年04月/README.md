@@ -1888,4 +1888,4 @@
 
 - [Exploring LLM Multi-Agents for ICD Coding](2024年04月01日/Exploring_LLM_Multi-Agents_for_ICD_Coding.md)
 
-    - [翻译: ](2024年04月01日/Exploring_LLM_Multi-Agents_for_ICD_Coding.md)
+    - [翻译: 探究大型语言模型多代理在ICD编码中的应用](2024年04月01日/Exploring_LLM_Multi-Agents_for_ICD_Coding.md)
