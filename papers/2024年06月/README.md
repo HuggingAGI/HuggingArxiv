@@ -16,17 +16,17 @@
 
 - [AudioBench: A Universal Benchmark for Audio Large Language Models](2024年06月23日/AudioBench_A_Universal_Benchmark_for_Audio_Large_Language_Models.md)
 
-    - [翻译: AudioBench：音频大型语言模型的全能基准](2024年06月23日/AudioBench_A_Universal_Benchmark_for_Audio_Large_Language_Models.md)
+    - [翻译: AudioBench：音频大型语言模型的全能评测标杆](2024年06月23日/AudioBench_A_Universal_Benchmark_for_Audio_Large_Language_Models.md)
 
 2024年06月22日
 
 - [Enhancing Cross-Document Event Coreference Resolution by Discourse Structure and Semantic Information](2024年06月22日/Enhancing_Cross-Document_Event_Coreference_Resolution_by_Discourse_Structure_and_Semantic_Information.md)
 
-    - [翻译: 借助话语结构与语义信息，提升跨文档事件共指解析能力](2024年06月22日/Enhancing_Cross-Document_Event_Coreference_Resolution_by_Discourse_Structure_and_Semantic_Information.md)
+    - [翻译: 借助话语结构与语义信息，提升跨文档事件共指识别的精准度](2024年06月22日/Enhancing_Cross-Document_Event_Coreference_Resolution_by_Discourse_Structure_and_Semantic_Information.md)
 
 - [MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception](2024年06月22日/MR-MLLM_Mutual_Reinforcement_of_Multimodal_Comprehension_and_Vision_Perception.md)
 
-    - [翻译: MR-MLLM：多模态理解与视觉感知的协同增强](2024年06月22日/MR-MLLM_Mutual_Reinforcement_of_Multimodal_Comprehension_and_Vision_Perception.md)
+    - [翻译: MR-MLLM：多模态理解与视觉感知的相互增强](2024年06月22日/MR-MLLM_Mutual_Reinforcement_of_Multimodal_Comprehension_and_Vision_Perception.md)
 
 2024年06月21日
 
@@ -241,6 +241,10 @@
 - [Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research](2024年06月21日/Geneverse_A_collection_of_Open-source_Multimodal_Large_Language_Models_for_Genomic_and_Proteomic_Research.md)
 
     - [翻译: Geneverse：基因组与蛋白质组研究的开源多模态大型语言模型宝库](2024年06月21日/Geneverse_A_collection_of_Open-source_Multimodal_Large_Language_Models_for_Genomic_and_Proteomic_Research.md)
+
+- [Empowering Multi-step Reasoning across Languages via Tree-of-Thoughts](2024年06月21日/Empowering_Multi-step_Reasoning_across_Languages_via_Tree-of-Thoughts.md)
+
+    - [翻译: 借助思维树，我们能够跨越语言障碍，增强多步骤推理能力。](2024年06月21日/Empowering_Multi-step_Reasoning_across_Languages_via_Tree-of-Thoughts.md)
 
 2024年06月20日
 
@@ -1114,7 +1118,7 @@
 
 - [On the Principles behind Opinion Dynamics in Multi-Agent Systems of Large Language Models](2024年06月18日/On_the_Principles_behind_Opinion_Dynamics_in_Multi-Agent_Systems_of_Large_Language_Models.md)
 
-    - [翻译: 大规模语言模型多代理系统中意见动态的原则探究](2024年06月18日/On_the_Principles_behind_Opinion_Dynamics_in_Multi-Agent_Systems_of_Large_Language_Models.md)
+    - [翻译: 大规模语言模型多代理系统中意见动态的原理探究](2024年06月18日/On_the_Principles_behind_Opinion_Dynamics_in_Multi-Agent_Systems_of_Large_Language_Models.md)
 
 2024年06月17日
 
@@ -1465,6 +1469,10 @@
 - [SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model](2024年06月17日/SPA-VL_A_Comprehensive_Safety_Preference_Alignment_Dataset_for_Vision_Language_Model.md)
 
     - [翻译: SPA-VL：视觉语言模型安全偏好对齐的综合数据集](2024年06月17日/SPA-VL_A_Comprehensive_Safety_Preference_Alignment_Dataset_for_Vision_Language_Model.md)
+
+- [Large Language Models are In-context Teachers for Knowledge Reasoning](2024年06月17日/Large_Language_Models_are_In-context_Teachers_for_Knowledge_Reasoning.md)
+
+    - [翻译: 大型语言模型，知识推理的情境导师。](2024年06月17日/Large_Language_Models_are_In-context_Teachers_for_Knowledge_Reasoning.md)
 
 2024年06月16日
 
@@ -4801,6 +4809,10 @@
 - [RAG Enabled Conversations about Household Electricity Monitoring](2024年06月03日/RAG_Enabled_Conversations_about_Household_Electricity_Monitoring.md)
 
     - [翻译: 利用 RAG 技术进行家庭电力监控的智能对话](2024年06月03日/RAG_Enabled_Conversations_about_Household_Electricity_Monitoring.md)
+
+- [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](2024年06月03日/Boosting_Language_Models_Reasoning_with_Chain-of-Knowledge_Prompting.md)
+
+    - [翻译: 借助知识链提示，增强语言模型的推理能力](2024年06月03日/Boosting_Language_Models_Reasoning_with_Chain-of-Knowledge_Prompting.md)
 
 2024年06月02日
 

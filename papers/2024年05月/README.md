@@ -2242,6 +2242,10 @@
 
     - [翻译: LOVA3：掌握视觉问答、提问与评估的艺术](2024年05月23日/LOVA3_Learning_to_Visual_Question_Answering,_Asking_and_Assessment.md)
 
+- [Chain-of-Thought Reasoning Without Prompting](2024年05月23日/Chain-of-Thought_Reasoning_Without_Prompting.md)
+
+    - [翻译: 无需提示的思维链推理](2024年05月23日/Chain-of-Thought_Reasoning_Without_Prompting.md)
+
 2024年05月22日
 
 - [Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models](2024年05月22日/Image-of-Thought_Prompting_for_Visual_Reasoning_Refinement_in_Multimodal_Large_Language_Models.md)
@@ -4523,6 +4527,10 @@
 - [An Overview of Machine Learning-Enabled Optimization for Reconfigurable Intelligent Surfaces-Aided 6G Networks: From Reinforcement Learning to Large Language Models](2024年05月08日/An_Overview_of_Machine_Learning-Enabled_Optimization_for_Reconfigurable_Intelligent_Surfaces-Aided_6G_Networks_From_Reinforcement_Learning_to_Large_Language_Models.md)
 
     - [翻译: 6G网络中可重构智能表面的机器学习优化综述：从强化学习到大语言模型的演进](2024年05月08日/An_Overview_of_Machine_Learning-Enabled_Optimization_for_Reconfigurable_Intelligent_Surfaces-Aided_6G_Networks_From_Reinforcement_Learning_to_Large_Language_Models.md)
+
+- [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](2024年05月08日/Prompting_Is_All_You_Need_Automated_Android_Bug_Replay_with_Large_Language_Models.md)
+
+    - [翻译: 《只需提示：借助大型语言模型自动化重现Android漏洞》](2024年05月08日/Prompting_Is_All_You_Need_Automated_Android_Bug_Replay_with_Large_Language_Models.md)
 
 2024年05月07日
 

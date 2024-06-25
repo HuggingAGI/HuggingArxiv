@@ -1,5 +1,11 @@
 # 2024年02月
 
+2024年02月29日
+
+- [Re-Reading Improves Reasoning in Large Language Models](2024年02月29日/Re-Reading_Improves_Reasoning_in_Large_Language_Models.md)
+
+    - [翻译: 通过重新阅读，大型语言模型的推理能力得到了显著提升。](2024年02月29日/Re-Reading_Improves_Reasoning_in_Large_Language_Models.md)
+
 2024年02月28日
 
 - [Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](2024年02月28日/Keeping_LLMs_Aligned_After_Fine-tuning_The_Crucial_Role_of_Prompt_Templates.md)

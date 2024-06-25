@@ -29,3 +29,9 @@
 - [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](2023年11月06日/MetaGPT_Meta_Programming_for_A_Multi-Agent_Collaborative_Framework.md)
 
     - [翻译: MetaGPT：多代理协作框架的元编程之光在人工智能的星辰大海中，MetaGPT如同一颗璀璨的星辰，以其独特的元编程技术，为多代理协作框架注入了新的活力。它不仅仅是一个编程工具，更是一个智慧的交汇点，让不同的代理能够协同工作，共同编织出复杂而精妙的解决方案。MetaGPT的出现，预示着智能系统合作的新纪元，它将引领我们探索更加广阔的智能协作领域。](2023年11月06日/MetaGPT_Meta_Programming_for_A_Multi-Agent_Collaborative_Framework.md)
+
+2023年11月01日
+
+- [The Art of SOCRATIC QUESTIONING: Recursive Thinking with Large Language Models](2023年11月01日/The_Art_of_SOCRATIC_QUESTIONING_Recursive_Thinking_with_Large_Language_Models.md)
+
+    - [翻译: 探索苏格拉底式提问的艺术：大型语言模型中的递归思维之旅](2023年11月01日/The_Art_of_SOCRATIC_QUESTIONING_Recursive_Thinking_with_Large_Language_Models.md)

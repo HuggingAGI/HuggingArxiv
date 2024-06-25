@@ -1222,6 +1222,10 @@
 
     - [翻译: 借助扩散模型，深度知识追踪得以强化，为个性化适应性学习开辟了新径。](2024年04月24日/Enhancing_Deep_Knowledge_Tracing_via_Diffusion_Models_for_Personalized_Adaptive_Learning.md)
 
+- [Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs](2024年04月24日/Beyond_Chain-of-Thought_A_Survey_of_Chain-of-X_Paradigms_for_LLMs.md)
+
+    - [翻译: 超越思维链：大型语言模型链式X范式全面解析](2024年04月24日/Beyond_Chain-of-Thought_A_Survey_of_Chain-of-X_Paradigms_for_LLMs.md)
+
 2024年04月23日
 
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
@@ -1524,6 +1528,10 @@
 
     - [翻译: 大型语言模型聊天机器人在开源情报驱动的网络威胁意识评估](2024年04月19日/Evaluation_of_LLM_Chatbots_for_OSINT-based_Cyber_Threat_Awareness.md)
 
+- [Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](2024年04月19日/Beyond_Self-Consistency_Ensemble_Reasoning_Boosts_Consistency_and_Accuracy_of_LLMs_in_Cancer_Staging.md)
+
+    - [翻译: 突破自我一致性：通过集成推理，大型语言模型在癌症分期中的表现不仅更加一致，而且准确性也得到了显著提升。](2024年04月19日/Beyond_Self-Consistency_Ensemble_Reasoning_Boosts_Consistency_and_Accuracy_of_LLMs_in_Cancer_Staging.md)
+
 2024年04月18日
 
 - [Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL](2024年04月18日/Dubo-SQL_Diverse_Retrieval-Augmented_Generation_and_Fine_Tuning_for_Text-to-SQL.md)
@@ -1601,6 +1609,10 @@
 - [Improving Automated Distractor Generation for Math Multiple-choice Questions with Overgenerate-and-rank](2024年04月18日/Improving_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_with_Overgenerate-and-rank.md)
 
     - [翻译: 借助Overgenerate-and-rank策略，我们优化了数学多项选择题的自动干扰项生成，提升了题目的质量和难度。](2024年04月18日/Improving_Automated_Distractor_Generation_for_Math_Multiple-choice_Questions_with_Overgenerate-and-rank.md)
+
+- [Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement](2024年04月18日/Self-Polish_Enhance_Reasoning_in_Large_Language_Models_via_Problem_Refinement.md)
+
+    - [翻译: 自我精炼：优化问题以增强大型语言模型的推理能力](2024年04月18日/Self-Polish_Enhance_Reasoning_in_Large_Language_Models_via_Problem_Refinement.md)
 
 2024年04月17日
 

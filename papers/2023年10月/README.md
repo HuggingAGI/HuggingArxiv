@@ -6,6 +6,12 @@
 
     - [翻译: 阿瓦隆的思维之战：借助递归沉思，与欺骗进行较量。](2023年10月24日/Avalon's_Game_of_Thoughts_Battle_Against_Deception_through_Recursive_Contemplation.md)
 
+2023年10月23日
+
+- [Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning](2023年10月23日/Self-prompted_Chain-of-Thought_on_Large_Language_Models_for_Open-domain_Multi-hop_Reasoning.md)
+
+    - [翻译: 利用大型语言模型进行开放域多跳推理的自启发式思维链探索](2023年10月23日/Self-prompted_Chain-of-Thought_on_Large_Language_Models_for_Open-domain_Multi-hop_Reasoning.md)
+
 2023年10月19日
 
 - [The Foundation Model Transparency Index](2023年10月19日/The_Foundation_Model_Transparency_Index.md)

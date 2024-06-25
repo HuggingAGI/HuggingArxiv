@@ -30,6 +30,12 @@
 
     - [翻译: LLaMAntino：LLaMA 2 模型，专为意大利语高效文本生成而设计。](2023年12月15日/LLaMAntino_LLaMA_2_Models_for_Effective_Text_Generation_in_Italian_Language.md)
 
+2023年12月12日
+
+- [PathFinder: Guided Search over Multi-Step Reasoning Paths](2023年12月12日/PathFinder_Guided_Search_over_Multi-Step_Reasoning_Paths.md)
+
+    - [翻译: PathFinder：引领探索多步骤推理之路](2023年12月12日/PathFinder_Guided_Search_over_Multi-Step_Reasoning_Paths.md)
+
 2023年12月06日
 
 - [Nash Learning from Human Feedback](2023年12月06日/Nash_Learning_from_Human_Feedback.md)

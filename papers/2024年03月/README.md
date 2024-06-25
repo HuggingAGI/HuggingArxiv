@@ -102,6 +102,10 @@
 
     - [翻译: 人工智能机器人与人形AI：回顾与展望](2024年03月19日/AI_Robots_and_Humanoid_AI_Review,_Perspectives_and_Directions.md)
 
+- [Instructing Large Language Models to Identify and Ignore Irrelevant Conditions](2024年03月19日/Instructing_Large_Language_Models_to_Identify_and_Ignore_Irrelevant_Conditions.md)
+
+    - [翻译: 引导大型语言模型辨识并排除无关条件](2024年03月19日/Instructing_Large_Language_Models_to_Identify_and_Ignore_Irrelevant_Conditions.md)
+
 2024年03月15日
 
 - [Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations](2024年03月15日/Transforming_Competition_into_Collaboration_The_Revolutionary_Role_of_Multi-Agent_Systems_and_Language_Models_in_Modern_Organizations.md)

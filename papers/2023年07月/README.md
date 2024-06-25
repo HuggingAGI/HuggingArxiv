@@ -1,5 +1,11 @@
 # 2023年07月
 
+2023年07月17日
+
+- [Large Language Models Perform Diagnostic Reasoning](2023年07月17日/Large_Language_Models_Perform_Diagnostic_Reasoning.md)
+
+    - [翻译: 大型语言模型展现诊断推理能力](2023年07月17日/Large_Language_Models_Perform_Diagnostic_Reasoning.md)
+
 2023年07月12日
 
 - [Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems](2023年07月12日/Self-Adaptive_Large_Language_Model_(LLM)-Based_Multiagent_Systems.md)
