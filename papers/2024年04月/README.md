@@ -1885,3 +1885,7 @@
 - [Large Language Models for Education: A Survey and Outlook](2024年04月01日/Large_Language_Models_for_Education_A_Survey_and_Outlook.md)
 
     - [翻译: 教育领域的大型语言模型：调查与未来展望](2024年04月01日/Large_Language_Models_for_Education_A_Survey_and_Outlook.md)
+
+- [Exploring LLM Multi-Agents for ICD Coding](2024年04月01日/Exploring_LLM_Multi-Agents_for_ICD_Coding.md)
+
+    - [翻译: ](2024年04月01日/Exploring_LLM_Multi-Agents_for_ICD_Coding.md)
