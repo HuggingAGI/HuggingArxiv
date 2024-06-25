@@ -1,5 +1,33 @@
 # 2024年06月
 
+2024年06月23日
+
+- [LangSuitE: Planning, Controlling and Interacting with Large Language Models in Embodied Text Environments](2024年06月23日/LangSuitE_Planning,_Controlling_and_Interacting_with_Large_Language_Models_in_Embodied_Text_Environments.md)
+
+    - [翻译: LangSuitE：驾驭大型语言模型，在具身体文本环境中实现精准规划、灵活控制与高效互动](2024年06月23日/LangSuitE_Planning,_Controlling_and_Interacting_with_Large_Language_Models_in_Embodied_Text_Environments.md)
+
+- [Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models](2024年06月23日/Unlocking_the_Future_Exploring_Look-Ahead_Planning_Mechanistic_Interpretability_in_Large_Language_Models.md)
+
+    - [翻译: 开启未来之门：深入探究大型语言模型中前瞻规划机制的透明度](2024年06月23日/Unlocking_the_Future_Exploring_Look-Ahead_Planning_Mechanistic_Interpretability_in_Large_Language_Models.md)
+
+- [Flowy: Supporting UX Design Decisions Through AI-Driven Pattern Annotation in Multi-Screen User Flows](2024年06月23日/Flowy_Supporting_UX_Design_Decisions_Through_AI-Driven_Pattern_Annotation_in_Multi-Screen_User_Flows.md)
+
+    - [翻译: Flowy：借助 AI 驱动的模式注释，优化多屏幕用户流程中的 UX 设计决策](2024年06月23日/Flowy_Supporting_UX_Design_Decisions_Through_AI-Driven_Pattern_Annotation_in_Multi-Screen_User_Flows.md)
+
+- [AudioBench: A Universal Benchmark for Audio Large Language Models](2024年06月23日/AudioBench_A_Universal_Benchmark_for_Audio_Large_Language_Models.md)
+
+    - [翻译: AudioBench：音频大型语言模型的全能基准](2024年06月23日/AudioBench_A_Universal_Benchmark_for_Audio_Large_Language_Models.md)
+
+2024年06月22日
+
+- [Enhancing Cross-Document Event Coreference Resolution by Discourse Structure and Semantic Information](2024年06月22日/Enhancing_Cross-Document_Event_Coreference_Resolution_by_Discourse_Structure_and_Semantic_Information.md)
+
+    - [翻译: 借助话语结构与语义信息，提升跨文档事件共指解析能力](2024年06月22日/Enhancing_Cross-Document_Event_Coreference_Resolution_by_Discourse_Structure_and_Semantic_Information.md)
+
+- [MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception](2024年06月22日/MR-MLLM_Mutual_Reinforcement_of_Multimodal_Comprehension_and_Vision_Perception.md)
+
+    - [翻译: MR-MLLM：多模态理解与视觉感知的协同增强](2024年06月22日/MR-MLLM_Mutual_Reinforcement_of_Multimodal_Comprehension_and_Vision_Perception.md)
+
 2024年06月21日
 
 - [UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-world Document Analysis](2024年06月21日/UDA_A_Benchmark_Suite_for_Retrieval_Augmented_Generation_in_Real-world_Document_Analysis.md)
@@ -201,6 +229,18 @@
 - [70B-parameter large language models in Japanese medical question-answering](2024年06月21日/70B-parameter_large_language_models_in_Japanese_medical_question-answering.md)
 
     - [翻译: 日语医疗问答领域中，700亿参数的大型语言模型展现出其强大的能力。](2024年06月21日/70B-parameter_large_language_models_in_Japanese_medical_question-answering.md)
+
+- [Automated radiotherapy treatment planning guided by GPT-4Vision](2024年06月21日/Automated_radiotherapy_treatment_planning_guided_by_GPT-4Vision.md)
+
+    - [翻译: GPT-4Vision引导下的自动化放射治疗规划](2024年06月21日/Automated_radiotherapy_treatment_planning_guided_by_GPT-4Vision.md)
+
+- [Open-Vocabulary Temporal Action Localization using Multimodal Guidance](2024年06月21日/Open-Vocabulary_Temporal_Action_Localization_using_Multimodal_Guidance.md)
+
+    - [翻译: 多模态引导下的开放词汇时间动作定位研究](2024年06月21日/Open-Vocabulary_Temporal_Action_Localization_using_Multimodal_Guidance.md)
+
+- [Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research](2024年06月21日/Geneverse_A_collection_of_Open-source_Multimodal_Large_Language_Models_for_Genomic_and_Proteomic_Research.md)
+
+    - [翻译: Geneverse：基因组与蛋白质组研究的开源多模态大型语言模型宝库](2024年06月21日/Geneverse_A_collection_of_Open-source_Multimodal_Large_Language_Models_for_Genomic_and_Proteomic_Research.md)
 
 2024年06月20日
 
@@ -1071,6 +1111,10 @@
 - [Code Agents are State of the Art Software Testers](2024年06月18日/Code_Agents_are_State_of_the_Art_Software_Testers.md)
 
     - [翻译: 代码代理，作为尖端软件测试工具，正引领着行业的发展。](2024年06月18日/Code_Agents_are_State_of_the_Art_Software_Testers.md)
+
+- [On the Principles behind Opinion Dynamics in Multi-Agent Systems of Large Language Models](2024年06月18日/On_the_Principles_behind_Opinion_Dynamics_in_Multi-Agent_Systems_of_Large_Language_Models.md)
+
+    - [翻译: 大规模语言模型多代理系统中意见动态的原则探究](2024年06月18日/On_the_Principles_behind_Opinion_Dynamics_in_Multi-Agent_Systems_of_Large_Language_Models.md)
 
 2024年06月17日
 
