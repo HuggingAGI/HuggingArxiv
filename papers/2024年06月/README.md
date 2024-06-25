@@ -2006,7 +2006,7 @@
 
 - [Reasoning or Simply Next Token Prediction? A Benchmark for Stress-Testing Large Language Models](2024年06月15日/Reasoning_or_Simply_Next_Token_Prediction_A_Benchmark_for_Stress-Testing_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月15日/Reasoning_or_Simply_Next_Token_Prediction_A_Benchmark_for_Stress-Testing_Large_Language_Models.md)
+    - [翻译: 大型语言模型：推理还是仅预测下一个词？——一项压力测试基准研究](2024年06月15日/Reasoning_or_Simply_Next_Token_Prediction_A_Benchmark_for_Stress-Testing_Large_Language_Models.md)
 
 2024年06月14日
 
