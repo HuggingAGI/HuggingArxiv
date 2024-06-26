@@ -112,6 +112,10 @@
 
     - [翻译: 将竞争转化为合作：多智能体系统与语言模型在现代组织中的革新性角色。](2024年03月15日/Transforming_Competition_into_Collaboration_The_Revolutionary_Role_of_Multi-Agent_Systems_and_Language_Models_in_Modern_Organizations.md)
 
+- [Crafting Dynamic Virtual Activities with Advanced Multimodal Models](2024年03月15日/Crafting_Dynamic_Virtual_Activities_with_Advanced_Multimodal_Models.md)
+
+    - [翻译: 借助先进的多模态模型，我们能够创造出生动多变的虚拟活动。](2024年03月15日/Crafting_Dynamic_Virtual_Activities_with_Advanced_Multimodal_Models.md)
+
 2024年03月14日
 
 - [Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks](2024年03月14日/Scaling_Behavior_of_Machine_Translation_with_Large_Language_Models_under_Prompt_Injection_Attacks.md)
