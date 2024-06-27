@@ -62,6 +62,158 @@
 
     - [翻译: 利用大型语言多模态模型，构建基于电子健康记录的移动与网页平台，精准预测慢性疾病风险](2024年06月26日/EHR-Based_Mobile_and_Web_Platform_for_Chronic_Disease_Risk_Prediction_Using_Large_Language_Multimodal_Models.md)
 
+- [PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation](2024年06月26日/PrExMe!_Large_Scale_Prompt_Exploration_of_Open_Source_LLMs_for_Machine_Translation_and_Summarization_Evaluation.md)
+
+    - [翻译: PrExMe! 探索开源 LLMs 在机器翻译与摘要评估中的大规模提示应用](2024年06月26日/PrExMe!_Large_Scale_Prompt_Exploration_of_Open_Source_LLMs_for_Machine_Translation_and_Summarization_Evaluation.md)
+
+- ["Is ChatGPT a Better Explainer than My Professor?": Evaluating the Explanation Capabilities of LLMs in Conversation Compared to a Human Baseline](2024年06月26日/Is_ChatGPT_a_Better_Explainer_than_My_Professor_Evaluating_the_Explanation_Capabilities_of_LLMs_in_Conversation_Compared_to_a_Human_Baseline.md)
+
+    - [翻译: “ChatGPT 解释力超越教授？”：探究大型语言模型在对话中的解释能力，与人类专家一较高下](2024年06月26日/Is_ChatGPT_a_Better_Explainer_than_My_Professor_Evaluating_the_Explanation_Capabilities_of_LLMs_in_Conversation_Compared_to_a_Human_Baseline.md)
+
+- [Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming](2024年06月26日/Is_In-Context_Learning_a_Type_of_Gradient-Based_Learning_Evidence_from_the_Inverse_Frequency_Effect_in_Structural_Priming.md)
+
+    - [翻译: 情境学习是否可归类为基于梯度的学习？结构启动中的逆频率效应为此提供了线索。](2024年06月26日/Is_In-Context_Learning_a_Type_of_Gradient-Based_Learning_Evidence_from_the_Inverse_Frequency_Effect_in_Structural_Priming.md)
+
+- [Cascading Large Language Models for Salient Event Graph Generation](2024年06月26日/Cascading_Large_Language_Models_for_Salient_Event_Graph_Generation.md)
+
+    - [翻译: 利用级联大型语言模型构建关键事件图谱](2024年06月26日/Cascading_Large_Language_Models_for_Salient_Event_Graph_Generation.md)
+
+- [New intelligent empowerment for digital transformation](2024年06月26日/New_intelligent_empowerment_for_digital_transformation.md)
+
+    - [翻译: 数字转型迎来新智能赋能](2024年06月26日/New_intelligent_empowerment_for_digital_transformation.md)
+
+- [IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons](2024年06月26日/IRCAN_Mitigating_Knowledge_Conflicts_in_LLM_Generation_via_Identifying_and_Reweighting_Context-Aware_Neurons.md)
+
+    - [翻译: IRCAN：借助上下文感知神经元的识别与权重调整，化解大型语言模型生成过程中的知识冲突](2024年06月26日/IRCAN_Mitigating_Knowledge_Conflicts_in_LLM_Generation_via_Identifying_and_Reweighting_Context-Aware_Neurons.md)
+
+- [Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers](2024年06月26日/Do_LLMs_dream_of_elephants_(when_told_not_to)_Latent_concept_association_and_associative_memory_in_transformers.md)
+
+    - [翻译: 当被禁止想象时，大型语言模型是否仍会幻想大象？探索变压器中的潜在概念关联与联想记忆之谜。](2024年06月26日/Do_LLMs_dream_of_elephants_(when_told_not_to)_Latent_concept_association_and_associative_memory_in_transformers.md)
+
+- [Adversarial Search Engine Optimization for Large Language Models](2024年06月26日/Adversarial_Search_Engine_Optimization_for_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型的对抗性SEO优化](2024年06月26日/Adversarial_Search_Engine_Optimization_for_Large_Language_Models.md)
+
+- [MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization](2024年06月26日/MALSIGHT_Exploring_Malicious_Source_Code_and_Benign_Pseudocode_for_Iterative_Binary_Malware_Summarization.md)
+
+    - [翻译: MALSIGHT：迭代提炼恶意软件二进制，融合恶意源码与良性伪码之智慧](2024年06月26日/MALSIGHT_Exploring_Malicious_Source_Code_and_Benign_Pseudocode_for_Iterative_Binary_Malware_Summarization.md)
+
+- [Themis: Towards Flexible and Interpretable NLG Evaluation](2024年06月26日/Themis_Towards_Flexible_and_Interpretable_NLG_Evaluation.md)
+
+    - [翻译: Themis：探索灵活与可解释的自然语言生成评估之路](2024年06月26日/Themis_Towards_Flexible_and_Interpretable_NLG_Evaluation.md)
+
+- [AI Alignment through Reinforcement Learning from Human Feedback? Contradictions and Limitations](2024年06月26日/AI_Alignment_through_Reinforcement_Learning_from_Human_Feedback_Contradictions_and_Limitations.md)
+
+    - [翻译: 借助人类反馈的强化学习以实现AI对齐？探讨其中的矛盾与局限。](2024年06月26日/AI_Alignment_through_Reinforcement_Learning_from_Human_Feedback_Contradictions_and_Limitations.md)
+
+- [PaCoST: Paired Confidence Significance Testing for Benchmark Contamination Detection in Large Language Models](2024年06月26日/PaCoST_Paired_Confidence_Significance_Testing_for_Benchmark_Contamination_Detection_in_Large_Language_Models.md)
+
+    - [翻译: PaCoST：大型语言模型基准污染检测中的配对置信显著性检验](2024年06月26日/PaCoST_Paired_Confidence_Significance_Testing_for_Benchmark_Contamination_Detection_in_Large_Language_Models.md)
+
+- [MathOdyssey: Benchmarking Mathematical Problem-Solving Skills in Large Language Models Using Odyssey Math Data](2024年06月26日/MathOdyssey_Benchmarking_Mathematical_Problem-Solving_Skills_in_Large_Language_Models_Using_Odyssey_Math_Data.md)
+
+    - [翻译: 数学奥德赛：利用Odyssey数学数据，在大规模语言模型中评估数学问题解决能力](2024年06月26日/MathOdyssey_Benchmarking_Mathematical_Problem-Solving_Skills_in_Large_Language_Models_Using_Odyssey_Math_Data.md)
+
+- [MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research](2024年06月26日/MSR-86K_An_Evolving,_Multilingual_Corpus_with_86,300_Hours_of_Transcribed_Audio_for_Speech_Recognition_Research.md)
+
+    - [翻译: MSR-86K：一个持续进化的多语言宝库，收录了86,300小时的转录音频，专为语音识别研究量身打造。](2024年06月26日/MSR-86K_An_Evolving,_Multilingual_Corpus_with_86,300_Hours_of_Transcribed_Audio_for_Speech_Recognition_Research.md)
+
+- [FactFinders at CheckThat! 2024: Refining Check-worthy Statement Detection with LLMs through Data Pruning](2024年06月26日/FactFinders_at_CheckThat!_2024_Refining_Check-worthy_Statement_Detection_with_LLMs_through_Data_Pruning.md)
+
+    - [翻译: 在 CheckThat! 2024 中，FactFinders 利用数据修剪技术，借助大型语言模型（LLMs）精炼了对值得核查声明的检测能力。](2024年06月26日/FactFinders_at_CheckThat!_2024_Refining_Check-worthy_Statement_Detection_with_LLMs_through_Data_Pruning.md)
+
+- [Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs](2024年06月26日/Hierarchical_Context_Pruning_Optimizing_Real-World_Code_Completion_with_Repository-Level_Pretrained_Code_LLMs.md)
+
+    - [翻译: 层次上下文剪枝：借助仓库级预训练代码大型语言模型，优化实际代码补全效率](2024年06月26日/Hierarchical_Context_Pruning_Optimizing_Real-World_Code_Completion_with_Repository-Level_Pretrained_Code_LLMs.md)
+
+- ["Vorbeşti Româneşte?" A Recipe to Train Powerful Romanian LLMs with English Instructions](2024年06月26日/Vorbeşti_Româneşte_A_Recipe_to_Train_Powerful_Romanian_LLMs_with_English_Instructions.md)
+
+    - [翻译: “你懂罗马尼亚语吗？” 本指南教你如何利用英语指令，培育出强大的罗马尼亚语大型语言模型。](2024年06月26日/Vorbeşti_Româneşte_A_Recipe_to_Train_Powerful_Romanian_LLMs_with_English_Instructions.md)
+
+- [LLaMIPa: An Incremental Discourse Parser](2024年06月26日/LLaMIPa_An_Incremental_Discourse_Parser.md)
+
+    - [翻译: LLaMIPa：逐步解析话语的新工具](2024年06月26日/LLaMIPa_An_Incremental_Discourse_Parser.md)
+
+- [Improving the Consistency in Cross-Lingual Cross-Modal Retrieval with 1-to-K Contrastive Learning](2024年06月26日/Improving_the_Consistency_in_Cross-Lingual_Cross-Modal_Retrieval_with_1-to-K_Contrastive_Learning.md)
+
+    - [翻译: 采用1-to-K对比学习策略，优化跨语言跨模态检索的一致性](2024年06月26日/Improving_the_Consistency_in_Cross-Lingual_Cross-Modal_Retrieval_with_1-to-K_Contrastive_Learning.md)
+
+- [Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets](2024年06月26日/Zero-shot_prompt-based_classification_topic_labeling_in_times_of_foundation_models_in_German_Tweets.md)
+
+    - [翻译: 零-shot提示分类法：在基础模型盛行的当下，为德语推文贴上主题标签](2024年06月26日/Zero-shot_prompt-based_classification_topic_labeling_in_times_of_foundation_models_in_German_Tweets.md)
+
+- [Enhancing Data Privacy in Large Language Models through Private Association Editing](2024年06月26日/Enhancing_Data_Privacy_in_Large_Language_Models_through_Private_Association_Editing.md)
+
+    - [翻译: 利用私有关联编辑提升大型语言模型中的数据隐私保护](2024年06月26日/Enhancing_Data_Privacy_in_Large_Language_Models_through_Private_Association_Editing.md)
+
+- [A Closer Look into Mixture-of-Experts in Large Language Models](2024年06月26日/A_Closer_Look_into_Mixture-of-Experts_in_Large_Language_Models.md)
+
+    - [翻译: 深入剖析大型语言模型中的专家混合策略](2024年06月26日/A_Closer_Look_into_Mixture-of-Experts_in_Large_Language_Models.md)
+
+- [SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative Decoding](2024年06月26日/SEED_Accelerating_Reasoning_Tree_Construction_via_Scheduled_Speculative_Decoding.md)
+
+    - [翻译: SEED：利用计划推测解码技术，加速推理树的构建过程](2024年06月26日/SEED_Accelerating_Reasoning_Tree_Construction_via_Scheduled_Speculative_Decoding.md)
+
+- [Methodology of Adapting Large English Language Models for Specific Cultural Contexts](2024年06月26日/Methodology_of_Adapting_Large_English_Language_Models_for_Specific_Cultural_Contexts.md)
+
+    - [翻译: 大型英语语言模型适应特定文化背景的方法论研究](2024年06月26日/Methodology_of_Adapting_Large_English_Language_Models_for_Specific_Cultural_Contexts.md)
+
+- [Selective Prompting Tuning for Personalized Conversations with LLMs](2024年06月26日/Selective_Prompting_Tuning_for_Personalized_Conversations_with_LLMs.md)
+
+    - [翻译: 个性化对话：通过选择性提示调整优化与 LLMs 的交互](2024年06月26日/Selective_Prompting_Tuning_for_Personalized_Conversations_with_LLMs.md)
+
+- [An Empirical Study of Unit Test Generation with Large Language Models](2024年06月26日/An_Empirical_Study_of_Unit_Test_Generation_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型在单元测试生成领域的实证探索](2024年06月26日/An_Empirical_Study_of_Unit_Test_Generation_with_Large_Language_Models.md)
+
+- [UIO-LLMs: Unbiased Incremental Optimization for Long-Context LLMs](2024年06月26日/UIO-LLMs_Unbiased_Incremental_Optimization_for_Long-Context_LLMs.md)
+
+    - [翻译: UIO-LLMs：长上下文大型语言模型的无偏渐进优化](2024年06月26日/UIO-LLMs_Unbiased_Incremental_Optimization_for_Long-Context_LLMs.md)
+
+- [Automatic Speech Recognition for Hindi](2024年06月26日/Automatic_Speech_Recognition_for_Hindi.md)
+
+    - [翻译: 印地语自动语音识别探索](2024年06月26日/Automatic_Speech_Recognition_for_Hindi.md)
+
+- [Assessing "Implicit" Retrieval Robustness of Large Language Models](2024年06月26日/Assessing_Implicit_Retrieval_Robustness_of_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型中“隐式”检索的稳健性评估](2024年06月26日/Assessing_Implicit_Retrieval_Robustness_of_Large_Language_Models.md)
+
+- [ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models](2024年06月26日/ResumeAtlas_Revisiting_Resume_Classification_with_Large-Scale_Datasets_and_Large_Language_Models.md)
+
+    - [翻译: ResumeAtlas：借助大规模数据集与大型语言模型，重新探索简历分类领域](2024年06月26日/ResumeAtlas_Revisiting_Resume_Classification_with_Large-Scale_Datasets_and_Large_Language_Models.md)
+
+- [Poisoned LangChain: Jailbreak LLMs by LangChain](2024年06月26日/Poisoned_LangChain_Jailbreak_LLMs_by_LangChain.md)
+
+    - [翻译: LangChain 中毒：利用 LangChain 解锁 LLMs 的限制](2024年06月26日/Poisoned_LangChain_Jailbreak_LLMs_by_LangChain.md)
+
+- [ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs](2024年06月26日/ArzEn-LLM_Code-Switched_Egyptian_Arabic-English_Translation_and_Speech_Recognition_Using_LLMs.md)
+
+    - [翻译: ArzEn-LLM：借助 LLMs，实现埃及阿拉伯语与英语间的代码转换翻译及语音识别](2024年06月26日/ArzEn-LLM_Code-Switched_Egyptian_Arabic-English_Translation_and_Speech_Recognition_Using_LLMs.md)
+
+- [SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance](2024年06月26日/SafeAligner_Safety_Alignment_against_Jailbreak_Attacks_via_Response_Disparity_Guidance.md)
+
+    - [翻译: SafeAligner：利用响应差异指导，确保模型安全对齐，抵御越狱攻击](2024年06月26日/SafeAligner_Safety_Alignment_against_Jailbreak_Attacks_via_Response_Disparity_Guidance.md)
+
+- [BADGE: BADminton report Generation and Evaluation with LLM](2024年06月26日/BADGE_BADminton_report_Generation_and_Evaluation_with_LLM.md)
+
+    - [翻译: BADGE：利用LLM进行羽毛球报告的生成与评估](2024年06月26日/BADGE_BADminton_report_Generation_and_Evaluation_with_LLM.md)
+
+- [Open-vocabulary Mobile Manipulation in Unseen Dynamic Environments with 3D Semantic Maps](2024年06月26日/Open-vocabulary_Mobile_Manipulation_in_Unseen_Dynamic_Environments_with_3D_Semantic_Maps.md)
+
+    - [翻译: 利用3D语义地图，在未知动态环境中实现开放词汇的移动操作](2024年06月26日/Open-vocabulary_Mobile_Manipulation_in_Unseen_Dynamic_Environments_with_3D_Semantic_Maps.md)
+
+- [Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis](2024年06月26日/Knowledge_Graph_Enhanced_Retrieval-Augmented_Generation_for_Failure_Mode_and_Effects_Analysis.md)
+
+    - [翻译: 利用知识图谱增强的检索增强生成技术，优化故障模式与影响分析流程](2024年06月26日/Knowledge_Graph_Enhanced_Retrieval-Augmented_Generation_for_Failure_Mode_and_Effects_Analysis.md)
+
+- [Natural Language but Omitted? On the Ineffectiveness of Large Language Models' privacy policy from End-users' Perspective](2024年06月26日/Natural_Language_but_Omitted_On_the_Ineffectiveness_of_Large_Language_Models'_privacy_policy_from_End-users'_Perspective.md)
+
+    - [翻译: 自然语言是否被忽视？从用户视角审视大型语言模型隐私政策的无力。](2024年06月26日/Natural_Language_but_Omitted_On_the_Ineffectiveness_of_Large_Language_Models'_privacy_policy_from_End-users'_Perspective.md)
+
+- [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](2024年06月26日/Evaluating_Quality_of_Answers_for_Retrieval-Augmented_Generation_A_Strong_LLM_Is_All_You_Need.md)
+
+    - [翻译: 检索增强生成答案的质量评估：强大的 LLM 是关键](2024年06月26日/Evaluating_Quality_of_Answers_for_Retrieval-Augmented_Generation_A_Strong_LLM_Is_All_You_Need.md)
+
 2024年06月25日
 
 - [Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity](2024年06月25日/Arboretum_A_Large_Multimodal_Dataset_Enabling_AI_for_Biodiversity.md)
@@ -323,6 +475,14 @@
 - [InFiConD: Interactive No-code Fine-tuning with Concept-based Knowledge Distillation](2024年06月25日/InFiConD_Interactive_No-code_Fine-tuning_with_Concept-based_Knowledge_Distillation.md)
 
     - [翻译: InFiConD：交互式无代码微调，融合基于概念的知识蒸馏技术](2024年06月25日/InFiConD_Interactive_No-code_Fine-tuning_with_Concept-based_Knowledge_Distillation.md)
+
+- [Diagnosis Assistant for Liver Cancer Utilizing a Large Language Model with Three Types of Knowledge](2024年06月25日/Diagnosis_Assistant_for_Liver_Cancer_Utilizing_a_Large_Language_Model_with_Three_Types_of_Knowledge.md)
+
+    - [翻译: 本研究开发了一种基于大型语言模型的肝癌诊断助手，该模型巧妙地整合了三种关键知识，以提升诊断的准确性和效率。](2024年06月25日/Diagnosis_Assistant_for_Liver_Cancer_Utilizing_a_Large_Language_Model_with_Three_Types_of_Knowledge.md)
+
+- [Multi-step Knowledge Retrieval and Inference over Unstructured Data](2024年06月25日/Multi-step_Knowledge_Retrieval_and_Inference_over_Unstructured_Data.md)
+
+    - [翻译: 在非结构化数据上进行多步骤的知识检索与推理](2024年06月25日/Multi-step_Knowledge_Retrieval_and_Inference_over_Unstructured_Data.md)
 
 2024年06月24日
 
@@ -3487,6 +3647,10 @@
 - [Beyond Words: On Large Language Models Actionability in Mission-Critical Risk Analysis](2024年06月11日/Beyond_Words_On_Large_Language_Models_Actionability_in_Mission-Critical_Risk_Analysis.md)
 
     - [翻译: 文字之外：探究大型语言模型在关键任务风险分析中的实际应用能力](2024年06月11日/Beyond_Words_On_Large_Language_Models_Actionability_in_Mission-Critical_Risk_Analysis.md)
+
+- [RACon: Retrieval-Augmented Simulated Character Locomotion Control](2024年06月11日/RACon_Retrieval-Augmented_Simulated_Character_Locomotion_Control.md)
+
+    - [翻译: RACon：利用检索技术增强模拟角色的移动控制](2024年06月11日/RACon_Retrieval-Augmented_Simulated_Character_Locomotion_Control.md)
 
 2024年06月10日
 
