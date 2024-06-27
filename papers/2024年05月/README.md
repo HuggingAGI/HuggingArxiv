@@ -5200,6 +5200,10 @@
 
     - [翻译: IQLS框架：借助元数据，让大型语言模型轻松驾驭复杂多变的数据查询](2024年05月04日/IQLS_Framework_for_leveraging_Metadata_to_enable_Large_Language_Model_based_queries_to_complex,_versatile_Data.md)
 
+- [Large Language Models estimate fine-grained human color-concept associations](2024年05月04日/Large_Language_Models_estimate_fine-grained_human_color-concept_associations.md)
+
+    - [翻译: 大型语言模型精准捕捉人类颜色概念的微妙关联](2024年05月04日/Large_Language_Models_estimate_fine-grained_human_color-concept_associations.md)
+
 2024年05月03日
 
 - [Structural Pruning of Pre-trained Language Models via Neural Architecture Search](2024年05月03日/Structural_Pruning_of_Pre-trained_Language_Models_via_Neural_Architecture_Search.md)

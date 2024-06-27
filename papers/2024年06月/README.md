@@ -1,5 +1,67 @@
 # 2024年06月
 
+2024年06月26日
+
+- [AI-native Memory: A Pathway from LLMs Towards AGI](2024年06月26日/AI-native_Memory_A_Pathway_from_LLMs_Towards_AGI.md)
+
+    - [翻译: AI原生记忆：大型语言模型迈向通用人工智能的桥梁](2024年06月26日/AI-native_Memory_A_Pathway_from_LLMs_Towards_AGI.md)
+
+- [Symbolic Learning Enables Self-Evolving Agents](2024年06月26日/Symbolic_Learning_Enables_Self-Evolving_Agents.md)
+
+    - [翻译: 符号学习赋能自进化代理。](2024年06月26日/Symbolic_Learning_Enables_Self-Evolving_Agents.md)
+
+- [Mental Modeling of Reinforcement Learning Agents by Language Models](2024年06月26日/Mental_Modeling_of_Reinforcement_Learning_Agents_by_Language_Models.md)
+
+    - [翻译: 语言模型构建强化学习代理的心智模型](2024年06月26日/Mental_Modeling_of_Reinforcement_Learning_Agents_by_Language_Models.md)
+
+- [Role-Play Zero-Shot Prompting with Large Language Models for Open-Domain Human-Machine Conversation](2024年06月26日/Role-Play_Zero-Shot_Prompting_with_Large_Language_Models_for_Open-Domain_Human-Machine_Conversation.md)
+
+    - [翻译: 利用大型语言模型实现开放领域人机对话的角色扮演零-shot提示技术](2024年06月26日/Role-Play_Zero-Shot_Prompting_with_Large_Language_Models_for_Open-Domain_Human-Machine_Conversation.md)
+
+- [LLCoach: Generating Robot Soccer Plans using Multi-Role Large Language Models](2024年06月26日/LLCoach_Generating_Robot_Soccer_Plans_using_Multi-Role_Large_Language_Models.md)
+
+    - [翻译: LLCoach：借助多角色大型语言模型，巧妙制定机器人足球策略](2024年06月26日/LLCoach_Generating_Robot_Soccer_Plans_using_Multi-Role_Large_Language_Models.md)
+
+- [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](2024年06月26日/CharXiv_Charting_Gaps_in_Realistic_Chart_Understanding_in_Multimodal_LLMs.md)
+
+    - [翻译: CharXiv：揭示多模态LLMs在现实图表理解上的盲点](2024年06月26日/CharXiv_Charting_Gaps_in_Realistic_Chart_Understanding_in_Multimodal_LLMs.md)
+
+- [S3: A Simple Strong Sample-effective Multimodal Dialog System](2024年06月26日/S3_A_Simple_Strong_Sample-effective_Multimodal_Dialog_System.md)
+
+    - [翻译: S3：简洁高效的多模态对话系统，样本利用率极高](2024年06月26日/S3_A_Simple_Strong_Sample-effective_Multimodal_Dialog_System.md)
+
+- [Foundational Models for Pathology and Endoscopy Images: Application for Gastric Inflammation](2024年06月26日/Foundational_Models_for_Pathology_and_Endoscopy_Images_Application_for_Gastric_Inflammation.md)
+
+    - [翻译: 胃炎诊断新视角：病理与内窥镜图像的基础模型应用](2024年06月26日/Foundational_Models_for_Pathology_and_Endoscopy_Images_Application_for_Gastric_Inflammation.md)
+
+- [MammothModa: Multi-Modal Large Language Model](2024年06月26日/MammothModa_Multi-Modal_Large_Language_Model.md)
+
+    - [翻译: 巨象时尚：多模态大型语言模型](2024年06月26日/MammothModa_Multi-Modal_Large_Language_Model.md)
+
+- [Multimodal Reaching-Position Prediction for ADL Support Using Neural Networks](2024年06月26日/Multimodal_Reaching-Position_Prediction_for_ADL_Support_Using_Neural_Networks.md)
+
+    - [翻译: 神经网络助力多模态预测，精准定位日常生活活动所需位置](2024年06月26日/Multimodal_Reaching-Position_Prediction_for_ADL_Support_Using_Neural_Networks.md)
+
+- [A Refer-and-Ground Multimodal Large Language Model for Biomedicine](2024年06月26日/A_Refer-and-Ground_Multimodal_Large_Language_Model_for_Biomedicine.md)
+
+    - [翻译: 生物医学领域的新星：参考与定位多模态大型语言模型](2024年06月26日/A_Refer-and-Ground_Multimodal_Large_Language_Model_for_Biomedicine.md)
+
+- [LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference](2024年06月26日/LOOK-M_Look-Once_Optimization_in_KV_Cache_for_Efficient_Multimodal_Long-Context_Inference.md)
+
+    - [翻译: LOOK-M：通过一次性优化KV缓存，实现多模态长上下文推理的高效性](2024年06月26日/LOOK-M_Look-Once_Optimization_in_KV_Cache_for_Efficient_Multimodal_Long-Context_Inference.md)
+
+- [The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval](2024年06月26日/The_Surprising_Effectiveness_of_Multimodal_Large_Language_Models_for_Video_Moment_Retrieval.md)
+
+    - [翻译: 多模态大型语言模型在视频时刻检索中展现出令人惊讶的高效性](2024年06月26日/The_Surprising_Effectiveness_of_Multimodal_Large_Language_Models_for_Video_Moment_Retrieval.md)
+
+- [LLM-Driven Multimodal Opinion Expression Identification](2024年06月26日/LLM-Driven_Multimodal_Opinion_Expression_Identification.md)
+
+    - [翻译: 利用大型语言模型进行多模态观点表达的精准识别](2024年06月26日/LLM-Driven_Multimodal_Opinion_Expression_Identification.md)
+
+- [EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models](2024年06月26日/EHR-Based_Mobile_and_Web_Platform_for_Chronic_Disease_Risk_Prediction_Using_Large_Language_Multimodal_Models.md)
+
+    - [翻译: 利用大型语言多模态模型，构建基于电子健康记录的移动与网页平台，精准预测慢性疾病风险](2024年06月26日/EHR-Based_Mobile_and_Web_Platform_for_Chronic_Disease_Risk_Prediction_Using_Large_Language_Multimodal_Models.md)
+
 2024年06月25日
 
 - [Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity](2024年06月25日/Arboretum_A_Large_Multimodal_Dataset_Enabling_AI_for_Biodiversity.md)
@@ -237,6 +299,30 @@
 - [LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users](2024年06月25日/LLM_Targeted_Underperformance_Disproportionately_Impacts_Vulnerable_Users.md)
 
     - [翻译: 大型语言模型（LLM）的针对性表现不佳，对弱势用户群体的影响尤为严重。](2024年06月25日/LLM_Targeted_Underperformance_Disproportionately_Impacts_Vulnerable_Users.md)
+
+- [Multimodal foundation world models for generalist embodied agents](2024年06月25日/Multimodal_foundation_world_models_for_generalist_embodied_agents.md)
+
+    - [翻译: 通用具身代理的多模态基础世界模型](2024年06月25日/Multimodal_foundation_world_models_for_generalist_embodied_agents.md)
+
+- [SimsChat: A Customisable Persona-Driven Role-Playing Agent](2024年06月25日/SimsChat_A_Customisable_Persona-Driven_Role-Playing_Agent.md)
+
+    - [翻译: SimsChat：一款个性化角色驱动的角色扮演智能代理，可根据用户需求定制。](2024年06月25日/SimsChat_A_Customisable_Persona-Driven_Role-Playing_Agent.md)
+
+- [MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation](2024年06月25日/MAGIC_Meta-Ability_Guided_Interactive_Chain-of-Distillation_for_Effective-and-Efficient_Vision-and-Language_Navigation.md)
+
+    - [翻译: MAGIC：元能力引导的交互式链式蒸馏，旨在实现视觉与语言导航的高效与有效性](2024年06月25日/MAGIC_Meta-Ability_Guided_Interactive_Chain-of-Distillation_for_Effective-and-Efficient_Vision-and-Language_Navigation.md)
+
+- [Human-Object Interaction from Human-Level Instructions](2024年06月25日/Human-Object_Interaction_from_Human-Level_Instructions.md)
+
+    - [翻译: 通过人类指令掌握人机交互](2024年06月25日/Human-Object_Interaction_from_Human-Level_Instructions.md)
+
+- [Human-centered In-building Embodied Delivery Benchmark](2024年06月25日/Human-centered_In-building_Embodied_Delivery_Benchmark.md)
+
+    - [翻译: 建筑内以人为本的实体交付评估基准](2024年06月25日/Human-centered_In-building_Embodied_Delivery_Benchmark.md)
+
+- [InFiConD: Interactive No-code Fine-tuning with Concept-based Knowledge Distillation](2024年06月25日/InFiConD_Interactive_No-code_Fine-tuning_with_Concept-based_Knowledge_Distillation.md)
+
+    - [翻译: InFiConD：交互式无代码微调，融合基于概念的知识蒸馏技术](2024年06月25日/InFiConD_Interactive_No-code_Fine-tuning_with_Concept-based_Knowledge_Distillation.md)
 
 2024年06月24日
 
@@ -531,6 +617,10 @@
 - [MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception](2024年06月22日/MR-MLLM_Mutual_Reinforcement_of_Multimodal_Comprehension_and_Vision_Perception.md)
 
     - [翻译: MR-MLLM：多模态理解与视觉感知的相互增强](2024年06月22日/MR-MLLM_Mutual_Reinforcement_of_Multimodal_Comprehension_and_Vision_Perception.md)
+
+- [MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](2024年06月22日/MOSSBench_Is_Your_Multimodal_Language_Model_Oversensitive_to_Safe_Queries.md)
+
+    - [翻译: MOSSBench：探究多模态语言模型对安全查询的敏感度。](2024年06月22日/MOSSBench_Is_Your_Multimodal_Language_Model_Oversensitive_to_Safe_Queries.md)
 
 2024年06月21日
 
