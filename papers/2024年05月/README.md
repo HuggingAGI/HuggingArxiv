@@ -1442,6 +1442,10 @@
 
     - [翻译: 文本嵌入技术新进展：深度解析MTEB基准上顶尖方法的全面回顾](2024年05月27日/Recent_advances_in_text_embedding_A_Comprehensive_Review_of_Top-Performing_Methods_on_the_MTEB_Benchmark.md)
 
+- [Revision Matters: Generative Design Guided by Revision Edits](2024年05月27日/Revision_Matters_Generative_Design_Guided_by_Revision_Edits.md)
+
+    - [翻译: 修订之重要：以修订编辑为导向的生成式设计](2024年05月27日/Revision_Matters_Generative_Design_Guided_by_Revision_Edits.md)
+
 2024年05月26日
 
 - [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](2024年05月26日/Diffusion4D_Fast_Spatial-temporal_Consistent_4D_Generation_via_Video_Diffusion_Models.md)
