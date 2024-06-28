@@ -4376,6 +4376,10 @@
 
     - [翻译: 探索多代理软件开发：构建统一平台之旅](2024年06月08日/Experimenting_with_Multi-Agent_Software_Development_Towards_a_Unified_Platform.md)
 
+- [Planning Like Human: A Dual-process Framework for Dialogue Planning](2024年06月08日/Planning_Like_Human_A_Dual-process_Framework_for_Dialogue_Planning.md)
+
+    - [翻译: 对话规划的双过程框架：模拟人类思维的规划策略](2024年06月08日/Planning_Like_Human_A_Dual-process_Framework_for_Dialogue_Planning.md)
+
 2024年06月07日
 
 - [3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs](2024年06月07日/3D-GRAND_Towards_Better_Grounding_and_Less_Hallucination_for_3D-LLMs.md)
