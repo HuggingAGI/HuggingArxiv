@@ -718,6 +718,10 @@
 
     - [翻译: 在非结构化数据上进行多步骤的知识检索与推理](2024年06月25日/Multi-step_Knowledge_Retrieval_and_Inference_over_Unstructured_Data.md)
 
+- [LumberChunker: Long-Form Narrative Document Segmentation](2024年06月25日/LumberChunker_Long-Form_Narrative_Document_Segmentation.md)
+
+    - [翻译: LumberChunker：长篇叙事文档的巧妙分割术](2024年06月25日/LumberChunker_Long-Form_Narrative_Document_Segmentation.md)
+
 2024年06月24日
 
 - [EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](2024年06月24日/EAGLE-2_Faster_Inference_of_Language_Models_with_Dynamic_Draft_Trees.md)
