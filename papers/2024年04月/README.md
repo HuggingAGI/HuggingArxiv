@@ -830,6 +830,10 @@
 
     - [翻译: 临床试验批准预测的语言互动网络在这项研究中，我们提出了一种新颖的语言交互网络，旨在预测临床试验的批准情况。该网络通过分析临床试验申请中的语言交互模式，来评估其获得批准的可能性。我们的方法结合了自然语言处理和机器学习技术，以识别和量化申请文本中的关键因素，这些因素可能影响监管机构的决策过程。通过这种方式，我们希望能够为研究人员和临床试验申请者提供一个有价值的工具，帮助他们更好地理解和准备他们的申请材料，从而提高获得批准的机会。](2024年04月26日/Language_Interaction_Network_for_Clinical_Trial_Approval_Estimation.md)
 
+- [Prompting Techniques for Reducing Social Bias in LLMs through System 1 and System 2 Cognitive Processes](2024年04月26日/Prompting_Techniques_for_Reducing_Social_Bias_in_LLMs_through_System_1_and_System_2_Cognitive_Processes.md)
+
+    - [翻译: 利用系统1与系统2的认知机制，提示技术旨在减少大型语言模型中的社会偏见。](2024年04月26日/Prompting_Techniques_for_Reducing_Social_Bias_in_LLMs_through_System_1_and_System_2_Cognitive_Processes.md)
+
 2024年04月25日
 
 - [Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials](2024年04月25日/Make-it-Real_Unleashing_Large_Multimodal_Model's_Ability_for_Painting_3D_Objects_with_Realistic_Materials.md)
