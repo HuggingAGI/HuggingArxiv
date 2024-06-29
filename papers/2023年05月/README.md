@@ -1,5 +1,11 @@
 # 2023年05月
 
+2023年05月27日
+
+- [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](2023年05月27日/SwiftSage_A_Generative_Agent_with_Fast_and_Slow_Thinking_for_Complex_Interactive_Tasks.md)
+
+    - [翻译: SwiftSage：一款结合快思与慢想的生成智能体，专为复杂交互任务设计。](2023年05月27日/SwiftSage_A_Generative_Agent_with_Fast_and_Slow_Thinking_for_Complex_Interactive_Tasks.md)
+
 2023年05月19日
 
 - [Self-Agreement: A Framework for Fine-tuning Language Models to Find Agreement among Diverse Opinions](2023年05月19日/Self-Agreement_A_Framework_for_Fine-tuning_Language_Models_to_Find_Agreement_among_Diverse_Opinions.md)
