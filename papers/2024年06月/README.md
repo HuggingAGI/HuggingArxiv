@@ -174,6 +174,10 @@
 
     - [翻译: 探索超越人类偏好的领域，利用 LLMs 对强化学习轨迹进行评估与提升。](2024年06月28日/Beyond_Human_Preferences_Exploring_Reinforcement_Learning_Trajectory_Evaluation_and_Improvement_through_LLMs.md)
 
+- [Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs](2024年06月28日/Web2Code_A_Large-scale_Webpage-to-Code_Dataset_and_Evaluation_Framework_for_Multimodal_LLMs.md)
+
+    - [翻译: Web2Code：一款大规模的网页转代码数据集与评估框架，专为多模态大型语言模型设计。](2024年06月28日/Web2Code_A_Large-scale_Webpage-to-Code_Dataset_and_Evaluation_Framework_for_Multimodal_LLMs.md)
+
 2024年06月27日
 
 - [Which Neurons Matter in IR? Applying Integrated Gradients-based Methods to Understand Cross-Encoders](2024年06月27日/Which_Neurons_Matter_in_IR_Applying_Integrated_Gradients-based_Methods_to_Understand_Cross-Encoders.md)
