@@ -1,5 +1,47 @@
 # 2024年06月
 
+2024年06月28日
+
+- [BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration](2024年06月28日/BMW_Agents_--_A_Framework_For_Task_Automation_Through_Multi-agent_Collaboration.md)
+
+    - [翻译: BMW Agents 框架：多代理协作驱动任务自动化](2024年06月28日/BMW_Agents_--_A_Framework_For_Task_Automation_Through_Multi-agent_Collaboration.md)
+
+- [Simulating Financial Market via Large Language Model based Agents](2024年06月28日/Simulating_Financial_Market_via_Large_Language_Model_based_Agents.md)
+
+    - [翻译: 利用大型语言模型代理模拟金融市场](2024年06月28日/Simulating_Financial_Market_via_Large_Language_Model_based_Agents.md)
+
+- [MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis](2024年06月28日/MetaDesigner_Advancing_Artistic_Typography_through_AI-Driven,_User-Centric,_and_Multilingual_WordArt_Synthesis.md)
+
+    - [翻译: MetaDesigner：借助 AI 技术，以用户为中心，实现多语言艺术字体的创新合成，推动字体艺术的进步。](2024年06月28日/MetaDesigner_Advancing_Artistic_Typography_through_AI-Driven,_User-Centric,_and_Multilingual_WordArt_Synthesis.md)
+
+- [ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning](2024年06月28日/ROS-LLM_A_ROS_framework_for_embodied_AI_with_task_feedback_and_structured_reasoning.md)
+
+    - [翻译: ROS-LLM：一款集任务反馈与结构化推理于一体的具身AI ROS框架](2024年06月28日/ROS-LLM_A_ROS_framework_for_embodied_AI_with_task_feedback_and_structured_reasoning.md)
+
+- [Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs](2024年06月28日/Web2Code_A_Large-scale_Webpage-to-Code_Dataset_and_Evaluation_Framework_for_Multimodal_LLMs.md)
+
+    - [翻译: Web2Code：专为多模态大型语言模型设计的大规模网页转代码数据集及评估框架](2024年06月28日/Web2Code_A_Large-scale_Webpage-to-Code_Dataset_and_Evaluation_Framework_for_Multimodal_LLMs.md)
+
+- [EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model](2024年06月28日/EVF-SAM_Early_Vision-Language_Fusion_for_Text-Prompted_Segment_Anything_Model.md)
+
+    - [翻译: EVF-SAM：针对文本提示分割模型，采用早期视觉与语言融合技术](2024年06月28日/EVF-SAM_Early_Vision-Language_Fusion_for_Text-Prompted_Segment_Anything_Model.md)
+
+- [InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding](2024年06月28日/InfiniBench_A_Comprehensive_Benchmark_for_Large_Multimodal_Models_in_Very_Long_Video_Understanding.md)
+
+    - [翻译: InfiniBench：一项全面的综合基准，旨在评估大型多模态模型在超长视频理解领域的性能。](2024年06月28日/InfiniBench_A_Comprehensive_Benchmark_for_Large_Multimodal_Models_in_Very_Long_Video_Understanding.md)
+
+- [MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment](2024年06月28日/MM-Instruct_Generated_Visual_Instructions_for_Large_Multimodal_Model_Alignment.md)
+
+    - [翻译: MM-Instruct：打造视觉指令，助力大型多模态模型精准对齐](2024年06月28日/MM-Instruct_Generated_Visual_Instructions_for_Large_Multimodal_Model_Alignment.md)
+
+- [MMRo: Are Multimodal LLMs Eligible as the Brain for In-Home Robotics?](2024年06月28日/MMRo_Are_Multimodal_LLMs_Eligible_as_the_Brain_for_In-Home_Robotics.md)
+
+    - [翻译: 多模态 LLM 能否胜任家庭机器人的“大脑”角色？](2024年06月28日/MMRo_Are_Multimodal_LLMs_Eligible_as_the_Brain_for_In-Home_Robotics.md)
+
+- [Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction](2024年06月28日/Enhancing_Radiological_Diagnosis_A_Collaborative_Approach_Integrating_AI_and_Human_Expertise_for_Visual_Miss_Correction.md)
+
+    - [翻译: 提升放射诊断：融合AI与专家智慧，共同修正视觉遗漏，实现诊断协作新高度。](2024年06月28日/Enhancing_Radiological_Diagnosis_A_Collaborative_Approach_Integrating_AI_and_Human_Expertise_for_Visual_Miss_Correction.md)
+
 2024年06月27日
 
 - [Which Neurons Matter in IR? Applying Integrated Gradients-based Methods to Understand Cross-Encoders](2024年06月27日/Which_Neurons_Matter_in_IR_Applying_Integrated_Gradients-based_Methods_to_Understand_Cross-Encoders.md)
@@ -185,6 +227,14 @@
 - [SSP: Self-Supervised Prompting for Cross-Lingual Transfer to Low-Resource Languages using Large Language Models](2024年06月27日/SSP_Self-Supervised_Prompting_for_Cross-Lingual_Transfer_to_Low-Resource_Languages_using_Large_Language_Models.md)
 
     - [翻译: SSP：借助大型语言模型，自监督提示助力低资源语言的跨语言迁移](2024年06月27日/SSP_Self-Supervised_Prompting_for_Cross-Lingual_Transfer_to_Low-Resource_Languages_using_Large_Language_Models.md)
+
+- [SK-VQA: Synthetic Knowledge Generation at Scale for Training Context-Augmented Multimodal LLMs](2024年06月27日/SK-VQA_Synthetic_Knowledge_Generation_at_Scale_for_Training_Context-Augmented_Multimodal_LLMs.md)
+
+    - [翻译: SK-VQA：大规模合成知识生成，助力上下文增强型多模态LLM训练](2024年06月27日/SK-VQA_Synthetic_Knowledge_Generation_at_Scale_for_Training_Context-Augmented_Multimodal_LLMs.md)
+
+- [Using Large Language Models to Assist Video Content Analysis: An Exploratory Study of Short Videos on Depression](2024年06月27日/Using_Large_Language_Models_to_Assist_Video_Content_Analysis_An_Exploratory_Study_of_Short_Videos_on_Depression.md)
+
+    - [翻译: 借助大型语言模型，我们探索了抑郁症短视频的内容分析，旨在深入研究这一辅助手段的潜力。](2024年06月27日/Using_Large_Language_Models_to_Assist_Video_Content_Analysis_An_Exploratory_Study_of_Short_Videos_on_Depression.md)
 
 2024年06月26日
 
