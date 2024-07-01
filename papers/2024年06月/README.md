@@ -178,6 +178,14 @@
 
     - [翻译: Web2Code：一款大规模的网页转代码数据集与评估框架，专为多模态大型语言模型设计。](2024年06月28日/Web2Code_A_Large-scale_Webpage-to-Code_Dataset_and_Evaluation_Framework_for_Multimodal_LLMs.md)
 
+- [BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration](2024年06月28日/BMW_Agents_--_A_Framework_For_Task_Automation_Through_Multi-agent_Collaboration.md)
+
+    - [翻译: BMW Agents 框架：通过多代理协作推动任务自动化](2024年06月28日/BMW_Agents_--_A_Framework_For_Task_Automation_Through_Multi-agent_Collaboration.md)
+
+- [Scaling Synthetic Data Creation with 1,000,000,000 Personas](2024年06月28日/Scaling_Synthetic_Data_Creation_with_1,000,000,000_Personas.md)
+
+    - [翻译: 利用十亿个人设扩展合成数据生成](2024年06月28日/Scaling_Synthetic_Data_Creation_with_1,000,000,000_Personas.md)
+
 2024年06月27日
 
 - [Which Neurons Matter in IR? Applying Integrated Gradients-based Methods to Understand Cross-Encoders](2024年06月27日/Which_Neurons_Matter_in_IR_Applying_Integrated_Gradients-based_Methods_to_Understand_Cross-Encoders.md)
