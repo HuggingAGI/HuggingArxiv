@@ -18,6 +18,62 @@
 
     - [翻译: GenderBias-VL：利用反事实探针评估视觉语言模型中的性别偏见](2024年06月30日/GenderBias-\emph{VL}_Benchmarking_Gender_Bias_in_Vision_Language_Models_via_Counterfactual_Probing.md)
 
+- [Macroeconomic Forecasting with Large Language Models](2024年06月30日/Macroeconomic_Forecasting_with_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月30日/Macroeconomic_Forecasting_with_Large_Language_Models.md)
+
+- [Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks](2024年06月30日/Large_Language_Models_Are_Involuntary_Truth-Tellers_Exploiting_Fallacy_Failure_for_Jailbreak_Attacks.md)
+
+    - [翻译: ](2024年06月30日/Large_Language_Models_Are_Involuntary_Truth-Tellers_Exploiting_Fallacy_Failure_for_Jailbreak_Attacks.md)
+
+- [Exploring a Physics-Informed Decision Transformer for Distribution System Restoration: Methodology and Performance Analysis](2024年06月30日/Exploring_a_Physics-Informed_Decision_Transformer_for_Distribution_System_Restoration_Methodology_and_Performance_Analysis.md)
+
+    - [翻译: ](2024年06月30日/Exploring_a_Physics-Informed_Decision_Transformer_for_Distribution_System_Restoration_Methodology_and_Performance_Analysis.md)
+
+- [Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning](2024年06月30日/Step-Controlled_DPO_Leveraging_Stepwise_Error_for_Enhanced_Mathematical_Reasoning.md)
+
+    - [翻译: ](2024年06月30日/Step-Controlled_DPO_Leveraging_Stepwise_Error_for_Enhanced_Mathematical_Reasoning.md)
+
+- [A Comparative Study of Quality Evaluation Methods for Text Summarization](2024年06月30日/A_Comparative_Study_of_Quality_Evaluation_Methods_for_Text_Summarization.md)
+
+    - [翻译: ](2024年06月30日/A_Comparative_Study_of_Quality_Evaluation_Methods_for_Text_Summarization.md)
+
+- [LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation](2024年06月30日/LLM4GEN_Leveraging_Semantic_Representation_of_LLMs_for_Text-to-Image_Generation.md)
+
+    - [翻译: ](2024年06月30日/LLM4GEN_Leveraging_Semantic_Representation_of_LLMs_for_Text-to-Image_Generation.md)
+
+- [Scaling Technology Acceptance Analysis with Large Language Model (LLM) Annotation Systems](2024年06月30日/Scaling_Technology_Acceptance_Analysis_with_Large_Language_Model_(LLM)_Annotation_Systems.md)
+
+    - [翻译: ](2024年06月30日/Scaling_Technology_Acceptance_Analysis_with_Large_Language_Model_(LLM)_Annotation_Systems.md)
+
+- [BAPO: Base-Anchored Preference Optimization for Personalized Alignment in Large Language Models](2024年06月30日/BAPO_Base-Anchored_Preference_Optimization_for_Personalized_Alignment_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月30日/BAPO_Base-Anchored_Preference_Optimization_for_Personalized_Alignment_in_Large_Language_Models.md)
+
+- [HRDE: Retrieval-Augmented Large Language Models for Chinese Health Rumor Detection and Explainability](2024年06月30日/HRDE_Retrieval-Augmented_Large_Language_Models_for_Chinese_Health_Rumor_Detection_and_Explainability.md)
+
+    - [翻译: ](2024年06月30日/HRDE_Retrieval-Augmented_Large_Language_Models_for_Chinese_Health_Rumor_Detection_and_Explainability.md)
+
+- [Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs](2024年06月30日/Chain-of-Knowledge_Integrating_Knowledge_Reasoning_into_Large_Language_Models_by_Learning_from_Knowledge_Graphs.md)
+
+    - [翻译: ](2024年06月30日/Chain-of-Knowledge_Integrating_Knowledge_Reasoning_into_Large_Language_Models_by_Learning_from_Knowledge_Graphs.md)
+
+- [DP-MLM: Differentially Private Text Rewriting Using Masked Language Models](2024年06月30日/DP-MLM_Differentially_Private_Text_Rewriting_Using_Masked_Language_Models.md)
+
+    - [翻译: ](2024年06月30日/DP-MLM_Differentially_Private_Text_Rewriting_Using_Masked_Language_Models.md)
+
+- [Tarsier: Recipes for Training and Evaluating Large Video Description Models](2024年06月30日/Tarsier_Recipes_for_Training_and_Evaluating_Large_Video_Description_Models.md)
+
+    - [翻译: ](2024年06月30日/Tarsier_Recipes_for_Training_and_Evaluating_Large_Video_Description_Models.md)
+
+- [Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](2024年06月30日/Iterative_Nash_Policy_Optimization_Aligning_LLMs_with_General_Preferences_via_No-Regret_Learning.md)
+
+    - [翻译: ](2024年06月30日/Iterative_Nash_Policy_Optimization_Aligning_LLMs_with_General_Preferences_via_No-Regret_Learning.md)
+
+- [WallFacer: Guiding Transformer Model Training Out of the Long-Context Dark Forest with N-body Problem](2024年06月30日/WallFacer_Guiding_Transformer_Model_Training_Out_of_the_Long-Context_Dark_Forest_with_N-body_Problem.md)
+
+    - [翻译: ](2024年06月30日/WallFacer_Guiding_Transformer_Model_Training_Out_of_the_Long-Context_Dark_Forest_with_N-body_Problem.md)
+
 2024年06月29日
 
 - [Answering real-world clinical questions using large language model based systems](2024年06月29日/Answering_real-world_clinical_questions_using_large_language_model_based_systems.md)
@@ -51,6 +107,50 @@
 - [How to Train Your Fact Verifier: Knowledge Transfer with Multimodal Open Models](2024年06月29日/How_to_Train_Your_Fact_Verifier_Knowledge_Transfer_with_Multimodal_Open_Models.md)
 
     - [翻译: 训练事实验证器：探索多模态开放模型中的知识传递](2024年06月29日/How_to_Train_Your_Fact_Verifier_Knowledge_Transfer_with_Multimodal_Open_Models.md)
+
+- [Explaining Chest X-ray Pathology Models using Textual Concepts](2024年06月29日/Explaining_Chest_X-ray_Pathology_Models_using_Textual_Concepts.md)
+
+    - [翻译: ](2024年06月29日/Explaining_Chest_X-ray_Pathology_Models_using_Textual_Concepts.md)
+
+- [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees](2024年06月29日/ConU_Conformal_Uncertainty_in_Large_Language_Models_with_Correctness_Coverage_Guarantees.md)
+
+    - [翻译: ](2024年06月29日/ConU_Conformal_Uncertainty_in_Large_Language_Models_with_Correctness_Coverage_Guarantees.md)
+
+- [LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement](2024年06月29日/LLMs-as-Instructors_Learning_from_Errors_Toward_Automating_Model_Improvement.md)
+
+    - [翻译: ](2024年06月29日/LLMs-as-Instructors_Learning_from_Errors_Toward_Automating_Model_Improvement.md)
+
+- [PFME: A Modular Approach for Fine-grained Hallucination Detection and Editing of Large Language Models](2024年06月29日/PFME_A_Modular_Approach_for_Fine-grained_Hallucination_Detection_and_Editing_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月29日/PFME_A_Modular_Approach_for_Fine-grained_Hallucination_Detection_and_Editing_of_Large_Language_Models.md)
+
+- [It's Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](2024年06月29日/It's_Morphing_Time_Unleashing_the_Potential_of_Multiple_LLMs_via_Multi-objective_Optimization.md)
+
+    - [翻译: ](2024年06月29日/It's_Morphing_Time_Unleashing_the_Potential_of_Multiple_LLMs_via_Multi-objective_Optimization.md)
+
+- [VcLLM: Video Codecs are Secretly Tensor Codecs](2024年06月29日/VcLLM_Video_Codecs_are_Secretly_Tensor_Codecs.md)
+
+    - [翻译: ](2024年06月29日/VcLLM_Video_Codecs_are_Secretly_Tensor_Codecs.md)
+
+- [Open-Source Conversational AI with SpeechBrain 1.0](2024年06月29日/Open-Source_Conversational_AI_with_SpeechBrain_1.0.md)
+
+    - [翻译: ](2024年06月29日/Open-Source_Conversational_AI_with_SpeechBrain_1.0.md)
+
+- [Beyond Functional Correctness: Investigating Coding Style Inconsistencies in Large Language Models](2024年06月29日/Beyond_Functional_Correctness_Investigating_Coding_Style_Inconsistencies_in_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月29日/Beyond_Functional_Correctness_Investigating_Coding_Style_Inconsistencies_in_Large_Language_Models.md)
+
+- [Self-Translate-Train: A Simple but Strong Baseline for Cross-lingual Transfer of Large Language Models](2024年06月29日/Self-Translate-Train_A_Simple_but_Strong_Baseline_for_Cross-lingual_Transfer_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月29日/Self-Translate-Train_A_Simple_but_Strong_Baseline_for_Cross-lingual_Transfer_of_Large_Language_Models.md)
+
+- [Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation](2024年06月29日/Language-Guided_Object-Centric_Diffusion_Policy_for_Collision-Aware_Robotic_Manipulation.md)
+
+    - [翻译: ](2024年06月29日/Language-Guided_Object-Centric_Diffusion_Policy_for_Collision-Aware_Robotic_Manipulation.md)
+
+- [A Recipe of Parallel Corpora Exploitation for Multilingual Large Language Models](2024年06月29日/A_Recipe_of_Parallel_Corpora_Exploitation_for_Multilingual_Large_Language_Models.md)
+
+    - [翻译: ](2024年06月29日/A_Recipe_of_Parallel_Corpora_Exploitation_for_Multilingual_Large_Language_Models.md)
 
 2024年06月28日
 
@@ -1039,6 +1139,10 @@
 - [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback](2024年06月25日/ARES_Alternating_Reinforcement_Learning_and_Supervised_Fine-Tuning_for_Enhanced_Multi-Modal_Chain-of-Thought_Reasoning_Through_Diverse_AI_Feedback.md)
 
     - [翻译: ARES 方法结合强化学习与监督微调，通过多元AI反馈提升多模态思维链推理能力。](2024年06月25日/ARES_Alternating_Reinforcement_Learning_and_Supervised_Fine-Tuning_for_Enhanced_Multi-Modal_Chain-of-Thought_Reasoning_Through_Diverse_AI_Feedback.md)
+
+- [MoE-CT: A Novel Approach For Large Language Models Training With Resistance To Catastrophic Forgetting](2024年06月25日/MoE-CT_A_Novel_Approach_For_Large_Language_Models_Training_With_Resistance_To_Catastrophic_Forgetting.md)
+
+    - [翻译: ](2024年06月25日/MoE-CT_A_Novel_Approach_For_Large_Language_Models_Training_With_Resistance_To_Catastrophic_Forgetting.md)
 
 2024年06月24日
 
