@@ -1180,6 +1180,10 @@
 
     - [翻译: 大型语言模型（LLMs）的公平性实为一种难以企及的理想。](2024年05月28日/The_Impossibility_of_Fair_LLMs.md)
 
+- [Decoding moral judgement from text: a pilot study](2024年05月28日/Decoding_moral_judgement_from_text_a_pilot_study.md)
+
+    - [翻译: 探索文本中的道德判断：一项先导性研究](2024年05月28日/Decoding_moral_judgement_from_text_a_pilot_study.md)
+
 2024年05月27日
 
 - [Large Language Models (LLMs): Deployment, Tokenomics and Sustainability](2024年05月27日/Large_Language_Models_(LLMs)_Deployment,_Tokenomics_and_Sustainability.md)
@@ -4535,6 +4539,10 @@
 - [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](2024年05月08日/Prompting_Is_All_You_Need_Automated_Android_Bug_Replay_with_Large_Language_Models.md)
 
     - [翻译: 《只需提示：借助大型语言模型自动化重现Android漏洞》](2024年05月08日/Prompting_Is_All_You_Need_Automated_Android_Bug_Replay_with_Large_Language_Models.md)
+
+- [LMVD: A Large-Scale Multimodal Vlog Dataset for Depression Detection in the Wild](2024年05月08日/LMVD_A_Large-Scale_Multimodal_Vlog_Dataset_for_Depression_Detection_in_the_Wild.md)
+
+    - [翻译: LMVD：一款大规模多模态 Vlog 数据集，专为自然环境下的抑郁症检测设计](2024年05月08日/LMVD_A_Large-Scale_Multimodal_Vlog_Dataset_for_Depression_Detection_in_the_Wild.md)
 
 2024年05月07日
 

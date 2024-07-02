@@ -1,5 +1,57 @@
 # 2024年06月
 
+2024年06月30日
+
+- [Large Language Models Struggle in Token-Level Clinical Named Entity Recognition](2024年06月30日/Large_Language_Models_Struggle_in_Token-Level_Clinical_Named_Entity_Recognition.md)
+
+    - [翻译: 大型语言模型在处理标记级别的临床命名实体识别任务时显得力不从心。](2024年06月30日/Large_Language_Models_Struggle_in_Token-Level_Clinical_Named_Entity_Recognition.md)
+
+- [CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations](2024年06月30日/CAMON_Cooperative_Agents_for_Multi-Object_Navigation_with_LLM-based_Conversations.md)
+
+    - [翻译: CAMON：多对象导航中基于 LLM 对话的合作代理](2024年06月30日/CAMON_Cooperative_Agents_for_Multi-Object_Navigation_with_LLM-based_Conversations.md)
+
+- [Quantum State Transfer via a Multimode Resonator](2024年06月30日/Quantum_State_Transfer_via_a_Multimode_Resonator.md)
+
+    - [翻译: 多模谐振器实现量子态传输](2024年06月30日/Quantum_State_Transfer_via_a_Multimode_Resonator.md)
+
+- [GenderBias-\emph{VL}: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing](2024年06月30日/GenderBias-\emph{VL}_Benchmarking_Gender_Bias_in_Vision_Language_Models_via_Counterfactual_Probing.md)
+
+    - [翻译: GenderBias-VL：利用反事实探针评估视觉语言模型中的性别偏见](2024年06月30日/GenderBias-\emph{VL}_Benchmarking_Gender_Bias_in_Vision_Language_Models_via_Counterfactual_Probing.md)
+
+2024年06月29日
+
+- [Answering real-world clinical questions using large language model based systems](2024年06月29日/Answering_real-world_clinical_questions_using_large_language_model_based_systems.md)
+
+    - [翻译: 利用大型语言模型系统解答实际临床难题](2024年06月29日/Answering_real-world_clinical_questions_using_large_language_model_based_systems.md)
+
+- [When Robots Get Chatty: Grounding Multimodal Human-Robot Conversation and Collaboration](2024年06月29日/When_Robots_Get_Chatty_Grounding_Multimodal_Human-Robot_Conversation_and_Collaboration.md)
+
+    - [翻译: 机器人开口说话时：构建多模态人机对话与协作的基石](2024年06月29日/When_Robots_Get_Chatty_Grounding_Multimodal_Human-Robot_Conversation_and_Collaboration.md)
+
+- [Large Language Models for Power Scheduling: A User-Centric Approach](2024年06月29日/Large_Language_Models_for_Power_Scheduling_A_User-Centric_Approach.md)
+
+    - [翻译: 大型语言模型在电力调度中的应用：聚焦用户需求的方法](2024年06月29日/Large_Language_Models_for_Power_Scheduling_A_User-Centric_Approach.md)
+
+- [BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science](2024年06月29日/BioKGBench_A_Knowledge_Graph_Checking_Benchmark_of_AI_Agent_for_Biomedical_Science.md)
+
+    - [翻译: BioKGBench：生物医学领域AI代理的知识图谱验证基准](2024年06月29日/BioKGBench_A_Knowledge_Graph_Checking_Benchmark_of_AI_Agent_for_Biomedical_Science.md)
+
+- [Financial Knowledge Large Language Model](2024年06月29日/Financial_Knowledge_Large_Language_Model.md)
+
+    - [翻译: 金融知识大型语言模型](2024年06月29日/Financial_Knowledge_Large_Language_Model.md)
+
+- [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](2024年06月29日/Investigating_and_Mitigating_the_Multimodal_Hallucination_Snowballing_in_Large_Vision-Language_Models.md)
+
+    - [翻译: 探索并缓解大型视觉-语言模型中多模态幻觉的累积效应](2024年06月29日/Investigating_and_Mitigating_the_Multimodal_Hallucination_Snowballing_in_Large_Vision-Language_Models.md)
+
+- [MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation](2024年06月29日/MMEvalPro_Calibrating_Multimodal_Benchmarks_Towards_Trustworthy_and_Efficient_Evaluation.md)
+
+    - [翻译: MMEvalPro：致力于校准多模态基准，确保评估的可信性与高效性。](2024年06月29日/MMEvalPro_Calibrating_Multimodal_Benchmarks_Towards_Trustworthy_and_Efficient_Evaluation.md)
+
+- [How to Train Your Fact Verifier: Knowledge Transfer with Multimodal Open Models](2024年06月29日/How_to_Train_Your_Fact_Verifier_Knowledge_Transfer_with_Multimodal_Open_Models.md)
+
+    - [翻译: 训练事实验证器：探索多模态开放模型中的知识传递](2024年06月29日/How_to_Train_Your_Fact_Verifier_Knowledge_Transfer_with_Multimodal_Open_Models.md)
+
 2024年06月28日
 
 - [BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration](2024年06月28日/BMW_Agents_--_A_Framework_For_Task_Automation_Through_Multi-agent_Collaboration.md)
@@ -185,6 +237,18 @@
 - [Scaling Synthetic Data Creation with 1,000,000,000 Personas](2024年06月28日/Scaling_Synthetic_Data_Creation_with_1,000,000,000_Personas.md)
 
     - [翻译: 利用十亿个人设扩展合成数据生成](2024年06月28日/Scaling_Synthetic_Data_Creation_with_1,000,000,000_Personas.md)
+
+- [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](2024年06月28日/PathGen-1.6M_1.6_Million_Pathology_Image-text_Pairs_Generation_through_Multi-agent_Collaboration.md)
+
+    - [翻译: PathGen-1.6M：借助多代理协作，成功生成160万对病理图像与文本。](2024年06月28日/PathGen-1.6M_1.6_Million_Pathology_Image-text_Pairs_Generation_through_Multi-agent_Collaboration.md)
+
+- [ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents](2024年06月28日/ShortcutsBench_A_Large-Scale_Real-world_Benchmark_for_API-based_Agents.md)
+
+    - [翻译: ShortcutsBench：一款大型真实世界基准，专为基于 API 的代理设计。](2024年06月28日/ShortcutsBench_A_Large-Scale_Real-world_Benchmark_for_API-based_Agents.md)
+
+- [Multimodal Learning and Cognitive Processes in Radiology: MedGaze for Chest X-ray Scanpath Prediction](2024年06月28日/Multimodal_Learning_and_Cognitive_Processes_in_Radiology_MedGaze_for_Chest_X-ray_Scanpath_Prediction.md)
+
+    - [翻译: 多模态学习与放射学认知：MedGaze在胸部X光扫描路径预测中的应用](2024年06月28日/Multimodal_Learning_and_Cognitive_Processes_in_Radiology_MedGaze_for_Chest_X-ray_Scanpath_Prediction.md)
 
 2024年06月27日
 
@@ -415,6 +479,18 @@
 - [Development and Evaluation of a Retrieval-Augmented Generation Tool for Creating SAPPhIRE Models of Artificial Systems](2024年06月27日/Development_and_Evaluation_of_a_Retrieval-Augmented_Generation_Tool_for_Creating_SAPPhIRE_Models_of_Artificial_Systems.md)
 
     - [翻译: 我们开发并评估了一款检索增强生成工具，旨在助力人工系统 SAPPhIRE 模型的构建。](2024年06月27日/Development_and_Evaluation_of_a_Retrieval-Augmented_Generation_Tool_for_Creating_SAPPhIRE_Models_of_Artificial_Systems.md)
+
+- [Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks](2024年06月27日/Granite-Function_Calling_Model_Introducing_Function_Calling_Abilities_via_Multi-task_Learning_of_Granular_Tasks.md)
+
+    - [翻译: 花岗岩功能调用模型：借助粒度任务的多任务学习，赋予功能调用新能力](2024年06月27日/Granite-Function_Calling_Model_Introducing_Function_Calling_Abilities_via_Multi-task_Learning_of_Granular_Tasks.md)
+
+- [From Efficient Multimodal Models to World Models: A Survey](2024年06月27日/From_Efficient_Multimodal_Models_to_World_Models_A_Survey.md)
+
+    - [翻译: 探索高效多模态模型至世界模型的演进：全面调查](2024年06月27日/From_Efficient_Multimodal_Models_to_World_Models_A_Survey.md)
+
+- [Curriculum Learning with Quality-Driven Data Selection](2024年06月27日/Curriculum_Learning_with_Quality-Driven_Data_Selection.md)
+
+    - [翻译: 基于质量驱动的数据选择进行课程学习](2024年06月27日/Curriculum_Learning_with_Quality-Driven_Data_Selection.md)
 
 2024年06月26日
 
@@ -681,6 +757,10 @@
 - ["Glue pizza and eat rocks" -- Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](2024年06月26日/Glue_pizza_and_eat_rocks_--_Exploiting_Vulnerabilities_in_Retrieval-Augmented_Generative_Models.md)
 
     - [翻译: "粘披萨，啃石头" -- 揭秘检索增强生成模型的安全漏洞](2024年06月26日/Glue_pizza_and_eat_rocks_--_Exploiting_Vulnerabilities_in_Retrieval-Augmented_Generative_Models.md)
+
+- [Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges](2024年06月26日/Visual_Reasoning_and_Multi-Agent_Approach_in_Multimodal_Large_Language_Models_(MLLMs)_Solving_TSP_and_mTSP_Combinatorial_Challenges.md)
+
+    - [翻译: 多模态大型语言模型 (MLLM) 结合视觉推理与多智能体策略，有效应对 TSP 和 mTSP 的组合难题。](2024年06月26日/Visual_Reasoning_and_Multi-Agent_Approach_in_Multimodal_Large_Language_Models_(MLLMs)_Solving_TSP_and_mTSP_Combinatorial_Challenges.md)
 
 2024年06月25日
 
@@ -955,6 +1035,10 @@
 - [LumberChunker: Long-Form Narrative Document Segmentation](2024年06月25日/LumberChunker_Long-Form_Narrative_Document_Segmentation.md)
 
     - [翻译: LumberChunker：长篇叙事文档的巧妙分割术](2024年06月25日/LumberChunker_Long-Form_Narrative_Document_Segmentation.md)
+
+- [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback](2024年06月25日/ARES_Alternating_Reinforcement_Learning_and_Supervised_Fine-Tuning_for_Enhanced_Multi-Modal_Chain-of-Thought_Reasoning_Through_Diverse_AI_Feedback.md)
+
+    - [翻译: ARES 方法结合强化学习与监督微调，通过多元AI反馈提升多模态思维链推理能力。](2024年06月25日/ARES_Alternating_Reinforcement_Learning_and_Supervised_Fine-Tuning_for_Enhanced_Multi-Modal_Chain-of-Thought_Reasoning_Through_Diverse_AI_Feedback.md)
 
 2024年06月24日
 
