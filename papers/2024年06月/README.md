@@ -20,59 +20,67 @@
 
 - [Macroeconomic Forecasting with Large Language Models](2024年06月30日/Macroeconomic_Forecasting_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月30日/Macroeconomic_Forecasting_with_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型预测宏观经济](2024年06月30日/Macroeconomic_Forecasting_with_Large_Language_Models.md)
 
 - [Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks](2024年06月30日/Large_Language_Models_Are_Involuntary_Truth-Tellers_Exploiting_Fallacy_Failure_for_Jailbreak_Attacks.md)
 
-    - [翻译: ](2024年06月30日/Large_Language_Models_Are_Involuntary_Truth-Tellers_Exploiting_Fallacy_Failure_for_Jailbreak_Attacks.md)
+    - [翻译: 大型语言模型无意中揭示真相，我们正利用其逻辑漏洞发起越狱攻击。](2024年06月30日/Large_Language_Models_Are_Involuntary_Truth-Tellers_Exploiting_Fallacy_Failure_for_Jailbreak_Attacks.md)
 
 - [Exploring a Physics-Informed Decision Transformer for Distribution System Restoration: Methodology and Performance Analysis](2024年06月30日/Exploring_a_Physics-Informed_Decision_Transformer_for_Distribution_System_Restoration_Methodology_and_Performance_Analysis.md)
 
-    - [翻译: ](2024年06月30日/Exploring_a_Physics-Informed_Decision_Transformer_for_Distribution_System_Restoration_Methodology_and_Performance_Analysis.md)
+    - [翻译: 探索基于物理信息的决策转换器在配电系统恢复中的应用：方法与性能分析](2024年06月30日/Exploring_a_Physics-Informed_Decision_Transformer_for_Distribution_System_Restoration_Methodology_and_Performance_Analysis.md)
 
 - [Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning](2024年06月30日/Step-Controlled_DPO_Leveraging_Stepwise_Error_for_Enhanced_Mathematical_Reasoning.md)
 
-    - [翻译: ](2024年06月30日/Step-Controlled_DPO_Leveraging_Stepwise_Error_for_Enhanced_Mathematical_Reasoning.md)
+    - [翻译: 通过步骤控制DPO，我们利用逐步错误来提升数学推理能力。](2024年06月30日/Step-Controlled_DPO_Leveraging_Stepwise_Error_for_Enhanced_Mathematical_Reasoning.md)
 
 - [A Comparative Study of Quality Evaluation Methods for Text Summarization](2024年06月30日/A_Comparative_Study_of_Quality_Evaluation_Methods_for_Text_Summarization.md)
 
-    - [翻译: ](2024年06月30日/A_Comparative_Study_of_Quality_Evaluation_Methods_for_Text_Summarization.md)
+    - [翻译: 文本摘要质量评估方法比较研究](2024年06月30日/A_Comparative_Study_of_Quality_Evaluation_Methods_for_Text_Summarization.md)
 
 - [LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation](2024年06月30日/LLM4GEN_Leveraging_Semantic_Representation_of_LLMs_for_Text-to-Image_Generation.md)
 
-    - [翻译: ](2024年06月30日/LLM4GEN_Leveraging_Semantic_Representation_of_LLMs_for_Text-to-Image_Generation.md)
+    - [翻译: LLM4GEN：借助 LLM 的语义表征实现文本至图像的生成](2024年06月30日/LLM4GEN_Leveraging_Semantic_Representation_of_LLMs_for_Text-to-Image_Generation.md)
 
 - [Scaling Technology Acceptance Analysis with Large Language Model (LLM) Annotation Systems](2024年06月30日/Scaling_Technology_Acceptance_Analysis_with_Large_Language_Model_(LLM)_Annotation_Systems.md)
 
-    - [翻译: ](2024年06月30日/Scaling_Technology_Acceptance_Analysis_with_Large_Language_Model_(LLM)_Annotation_Systems.md)
+    - [翻译: 利用 LLM 注释系统，我们能够扩展技术接受度的分析范围。](2024年06月30日/Scaling_Technology_Acceptance_Analysis_with_Large_Language_Model_(LLM)_Annotation_Systems.md)
 
 - [BAPO: Base-Anchored Preference Optimization for Personalized Alignment in Large Language Models](2024年06月30日/BAPO_Base-Anchored_Preference_Optimization_for_Personalized_Alignment_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月30日/BAPO_Base-Anchored_Preference_Optimization_for_Personalized_Alignment_in_Large_Language_Models.md)
+    - [翻译: BAPO：大型语言模型中个性化对齐的基础锚定偏好优化方法](2024年06月30日/BAPO_Base-Anchored_Preference_Optimization_for_Personalized_Alignment_in_Large_Language_Models.md)
 
 - [HRDE: Retrieval-Augmented Large Language Models for Chinese Health Rumor Detection and Explainability](2024年06月30日/HRDE_Retrieval-Augmented_Large_Language_Models_for_Chinese_Health_Rumor_Detection_and_Explainability.md)
 
-    - [翻译: ](2024年06月30日/HRDE_Retrieval-Augmented_Large_Language_Models_for_Chinese_Health_Rumor_Detection_and_Explainability.md)
+    - [翻译: HRDE：一款专为中文健康谣言检测设计的检索增强型大型语言模型，兼具可解释性。](2024年06月30日/HRDE_Retrieval-Augmented_Large_Language_Models_for_Chinese_Health_Rumor_Detection_and_Explainability.md)
 
 - [Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs](2024年06月30日/Chain-of-Knowledge_Integrating_Knowledge_Reasoning_into_Large_Language_Models_by_Learning_from_Knowledge_Graphs.md)
 
-    - [翻译: ](2024年06月30日/Chain-of-Knowledge_Integrating_Knowledge_Reasoning_into_Large_Language_Models_by_Learning_from_Knowledge_Graphs.md)
+    - [翻译: 知识链：借助知识图谱的学习，将知识推理融入大型语言模型，实现更深层次的智能整合。](2024年06月30日/Chain-of-Knowledge_Integrating_Knowledge_Reasoning_into_Large_Language_Models_by_Learning_from_Knowledge_Graphs.md)
 
 - [DP-MLM: Differentially Private Text Rewriting Using Masked Language Models](2024年06月30日/DP-MLM_Differentially_Private_Text_Rewriting_Using_Masked_Language_Models.md)
 
-    - [翻译: ](2024年06月30日/DP-MLM_Differentially_Private_Text_Rewriting_Using_Masked_Language_Models.md)
+    - [翻译: DP-MLM：运用掩码语言模型实现差分隐私的文本改写](2024年06月30日/DP-MLM_Differentially_Private_Text_Rewriting_Using_Masked_Language_Models.md)
 
 - [Tarsier: Recipes for Training and Evaluating Large Video Description Models](2024年06月30日/Tarsier_Recipes_for_Training_and_Evaluating_Large_Video_Description_Models.md)
 
-    - [翻译: ](2024年06月30日/Tarsier_Recipes_for_Training_and_Evaluating_Large_Video_Description_Models.md)
+    - [翻译: Tarsier：大型视频描述模型训练与评估的秘方](2024年06月30日/Tarsier_Recipes_for_Training_and_Evaluating_Large_Video_Description_Models.md)
 
 - [Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](2024年06月30日/Iterative_Nash_Policy_Optimization_Aligning_LLMs_with_General_Preferences_via_No-Regret_Learning.md)
 
-    - [翻译: ](2024年06月30日/Iterative_Nash_Policy_Optimization_Aligning_LLMs_with_General_Preferences_via_No-Regret_Learning.md)
+    - [翻译: 迭代纳什策略优化：借助无悔学习，使大型语言模型与广泛偏好相契合](2024年06月30日/Iterative_Nash_Policy_Optimization_Aligning_LLMs_with_General_Preferences_via_No-Regret_Learning.md)
 
 - [WallFacer: Guiding Transformer Model Training Out of the Long-Context Dark Forest with N-body Problem](2024年06月30日/WallFacer_Guiding_Transformer_Model_Training_Out_of_the_Long-Context_Dark_Forest_with_N-body_Problem.md)
 
-    - [翻译: ](2024年06月30日/WallFacer_Guiding_Transformer_Model_Training_Out_of_the_Long-Context_Dark_Forest_with_N-body_Problem.md)
+    - [翻译: WallFacer：借助 N 体问题，引领 Transformer 模型训练摆脱长上下文的困境](2024年06月30日/WallFacer_Guiding_Transformer_Model_Training_Out_of_the_Long-Context_Dark_Forest_with_N-body_Problem.md)
+
+- [Staying vigilant in the Age of AI: From content generation to content authentication](2024年06月30日/Staying_vigilant_in_the_Age_of_AI_From_content_generation_to_content_authentication.md)
+
+    - [翻译: 在AI时代，我们需保持警觉，从创造内容到验证其真实性。](2024年06月30日/Staying_vigilant_in_the_Age_of_AI_From_content_generation_to_content_authentication.md)
+
+- [From Introspection to Best Practices: Principled Analysis of Demonstrations in Multimodal In-Context Learning](2024年06月30日/From_Introspection_to_Best_Practices_Principled_Analysis_of_Demonstrations_in_Multimodal_In-Context_Learning.md)
+
+    - [翻译: 从内省到实践精华：探究多模态情境学习中演示的系统性分析](2024年06月30日/From_Introspection_to_Best_Practices_Principled_Analysis_of_Demonstrations_in_Multimodal_In-Context_Learning.md)
 
 2024年06月29日
 
@@ -110,47 +118,55 @@
 
 - [Explaining Chest X-ray Pathology Models using Textual Concepts](2024年06月29日/Explaining_Chest_X-ray_Pathology_Models_using_Textual_Concepts.md)
 
-    - [翻译: ](2024年06月29日/Explaining_Chest_X-ray_Pathology_Models_using_Textual_Concepts.md)
+    - [翻译: 通过文本概念阐释胸部X光病理模型](2024年06月29日/Explaining_Chest_X-ray_Pathology_Models_using_Textual_Concepts.md)
 
 - [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees](2024年06月29日/ConU_Conformal_Uncertainty_in_Large_Language_Models_with_Correctness_Coverage_Guarantees.md)
 
-    - [翻译: ](2024年06月29日/ConU_Conformal_Uncertainty_in_Large_Language_Models_with_Correctness_Coverage_Guarantees.md)
+    - [翻译: ConU：在大型语言模型中，通过正确性覆盖保证实现共形不确定性](2024年06月29日/ConU_Conformal_Uncertainty_in_Large_Language_Models_with_Correctness_Coverage_Guarantees.md)
 
 - [LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement](2024年06月29日/LLMs-as-Instructors_Learning_from_Errors_Toward_Automating_Model_Improvement.md)
 
-    - [翻译: ](2024年06月29日/LLMs-as-Instructors_Learning_from_Errors_Toward_Automating_Model_Improvement.md)
+    - [翻译: LLMs 作为导师：通过从错误中学习，迈向模型改进的自动化](2024年06月29日/LLMs-as-Instructors_Learning_from_Errors_Toward_Automating_Model_Improvement.md)
 
 - [PFME: A Modular Approach for Fine-grained Hallucination Detection and Editing of Large Language Models](2024年06月29日/PFME_A_Modular_Approach_for_Fine-grained_Hallucination_Detection_and_Editing_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月29日/PFME_A_Modular_Approach_for_Fine-grained_Hallucination_Detection_and_Editing_of_Large_Language_Models.md)
+    - [翻译: PFME：一种模块化方法，专为大型语言模型的细粒度幻觉检测与编辑设计。](2024年06月29日/PFME_A_Modular_Approach_for_Fine-grained_Hallucination_Detection_and_Editing_of_Large_Language_Models.md)
 
 - [It's Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](2024年06月29日/It's_Morphing_Time_Unleashing_the_Potential_of_Multiple_LLMs_via_Multi-objective_Optimization.md)
 
-    - [翻译: ](2024年06月29日/It's_Morphing_Time_Unleashing_the_Potential_of_Multiple_LLMs_via_Multi-objective_Optimization.md)
+    - [翻译: 变形时刻已至：借助多目标优化，激发多款大型语言模型的无限潜能](2024年06月29日/It's_Morphing_Time_Unleashing_the_Potential_of_Multiple_LLMs_via_Multi-objective_Optimization.md)
 
 - [VcLLM: Video Codecs are Secretly Tensor Codecs](2024年06月29日/VcLLM_Video_Codecs_are_Secretly_Tensor_Codecs.md)
 
-    - [翻译: ](2024年06月29日/VcLLM_Video_Codecs_are_Secretly_Tensor_Codecs.md)
+    - [翻译: VcLLM：视频编解码器，实为隐秘的张量编解码器](2024年06月29日/VcLLM_Video_Codecs_are_Secretly_Tensor_Codecs.md)
 
 - [Open-Source Conversational AI with SpeechBrain 1.0](2024年06月29日/Open-Source_Conversational_AI_with_SpeechBrain_1.0.md)
 
-    - [翻译: ](2024年06月29日/Open-Source_Conversational_AI_with_SpeechBrain_1.0.md)
+    - [翻译: 开源对话AI：SpeechBrain 1.0登场](2024年06月29日/Open-Source_Conversational_AI_with_SpeechBrain_1.0.md)
 
 - [Beyond Functional Correctness: Investigating Coding Style Inconsistencies in Large Language Models](2024年06月29日/Beyond_Functional_Correctness_Investigating_Coding_Style_Inconsistencies_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月29日/Beyond_Functional_Correctness_Investigating_Coding_Style_Inconsistencies_in_Large_Language_Models.md)
+    - [翻译: 探究大规模语言模型中的编码风格不一致，超越功能正确性的局限。](2024年06月29日/Beyond_Functional_Correctness_Investigating_Coding_Style_Inconsistencies_in_Large_Language_Models.md)
 
 - [Self-Translate-Train: A Simple but Strong Baseline for Cross-lingual Transfer of Large Language Models](2024年06月29日/Self-Translate-Train_A_Simple_but_Strong_Baseline_for_Cross-lingual_Transfer_of_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月29日/Self-Translate-Train_A_Simple_but_Strong_Baseline_for_Cross-lingual_Transfer_of_Large_Language_Models.md)
+    - [翻译: 自译训练：一种简洁而高效的基线方法，专为大型语言模型的跨语言迁移设计。](2024年06月29日/Self-Translate-Train_A_Simple_but_Strong_Baseline_for_Cross-lingual_Transfer_of_Large_Language_Models.md)
 
 - [Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation](2024年06月29日/Language-Guided_Object-Centric_Diffusion_Policy_for_Collision-Aware_Robotic_Manipulation.md)
 
-    - [翻译: ](2024年06月29日/Language-Guided_Object-Centric_Diffusion_Policy_for_Collision-Aware_Robotic_Manipulation.md)
+    - [翻译: 语言引导的物体中心扩散策略，助力机器人实现碰撞感知的精准操作](2024年06月29日/Language-Guided_Object-Centric_Diffusion_Policy_for_Collision-Aware_Robotic_Manipulation.md)
 
 - [A Recipe of Parallel Corpora Exploitation for Multilingual Large Language Models](2024年06月29日/A_Recipe_of_Parallel_Corpora_Exploitation_for_Multilingual_Large_Language_Models.md)
 
-    - [翻译: ](2024年06月29日/A_Recipe_of_Parallel_Corpora_Exploitation_for_Multilingual_Large_Language_Models.md)
+    - [翻译: 多语言大型语言模型的平行语料库利用指南](2024年06月29日/A_Recipe_of_Parallel_Corpora_Exploitation_for_Multilingual_Large_Language_Models.md)
+
+- [A Study on Effect of Reference Knowledge Choice in Generating Technical Content Relevant to SAPPhIRE Model Using Large Language Model](2024年06月29日/A_Study_on_Effect_of_Reference_Knowledge_Choice_in_Generating_Technical_Content_Relevant_to_SAPPhIRE_Model_Using_Large_Language_Model.md)
+
+    - [翻译: 本研究探讨了在利用大型语言模型生成与SAPPhIRE模型相关技术内容时，参考知识选择的影响。](2024年06月29日/A_Study_on_Effect_of_Reference_Knowledge_Choice_in_Generating_Technical_Content_Relevant_to_SAPPhIRE_Model_Using_Large_Language_Model.md)
+
+- [The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention](2024年06月29日/The_Factuality_Tax_of_Diversity-Intervened_Text-to-Image_Generation_Benchmark_and_Fact-Augmented_Intervention.md)
+
+    - [翻译: 多样性干预下的文本转图像生成面临事实性挑战，我们提出基准测试与事实增强干预策略。](2024年06月29日/The_Factuality_Tax_of_Diversity-Intervened_Text-to-Image_Generation_Benchmark_and_Fact-Augmented_Intervention.md)
 
 2024年06月28日
 
@@ -591,6 +607,10 @@
 - [Curriculum Learning with Quality-Driven Data Selection](2024年06月27日/Curriculum_Learning_with_Quality-Driven_Data_Selection.md)
 
     - [翻译: 基于质量驱动的数据选择进行课程学习](2024年06月27日/Curriculum_Learning_with_Quality-Driven_Data_Selection.md)
+
+- [ColPali: Efficient Document Retrieval with Vision Language Models](2024年06月27日/ColPali_Efficient_Document_Retrieval_with_Vision_Language_Models.md)
+
+    - [翻译: ColPali：借助视觉语言模型，实现文档检索的高效性](2024年06月27日/ColPali_Efficient_Document_Retrieval_with_Vision_Language_Models.md)
 
 2024年06月26日
 
@@ -1142,7 +1162,7 @@
 
 - [MoE-CT: A Novel Approach For Large Language Models Training With Resistance To Catastrophic Forgetting](2024年06月25日/MoE-CT_A_Novel_Approach_For_Large_Language_Models_Training_With_Resistance_To_Catastrophic_Forgetting.md)
 
-    - [翻译: ](2024年06月25日/MoE-CT_A_Novel_Approach_For_Large_Language_Models_Training_With_Resistance_To_Catastrophic_Forgetting.md)
+    - [翻译: MoE-CT：一种创新策略，助力大型语言模型训练，有效抵御灾难性遗忘。](2024年06月25日/MoE-CT_A_Novel_Approach_For_Large_Language_Models_Training_With_Resistance_To_Catastrophic_Forgetting.md)
 
 2024年06月24日
 
@@ -1659,6 +1679,10 @@
 - [Empowering Multi-step Reasoning across Languages via Tree-of-Thoughts](2024年06月21日/Empowering_Multi-step_Reasoning_across_Languages_via_Tree-of-Thoughts.md)
 
     - [翻译: 借助思维树，我们能够跨越语言障碍，增强多步骤推理能力。](2024年06月21日/Empowering_Multi-step_Reasoning_across_Languages_via_Tree-of-Thoughts.md)
+
+- [Pistis-RAG: A Scalable Cascading Framework Towards Trustworthy Retrieval-Augmented Generation](2024年06月21日/Pistis-RAG_A_Scalable_Cascading_Framework_Towards_Trustworthy_Retrieval-Augmented_Generation.md)
+
+    - [翻译: Pistis-RAG：一款可扩展的级联框架，致力于提升检索增强生成的可信度](2024年06月21日/Pistis-RAG_A_Scalable_Cascading_Framework_Towards_Trustworthy_Retrieval-Augmented_Generation.md)
 
 2024年06月20日
 
