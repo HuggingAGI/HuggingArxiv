@@ -1,5 +1,39 @@
 # 2024年07月
 
+2024年07月02日
+
+- [Talking to Machines: do you read me?](2024年07月02日/Talking_to_Machines_do_you_read_me.md)
+
+    - [翻译: 机器，你懂我的话吗？](2024年07月02日/Talking_to_Machines_do_you_read_me.md)
+
+- [Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models](2024年07月02日/Embodied_AI_in_Mobile_Robots_Coverage_Path_Planning_with_Large_Language_Models.md)
+
+    - [翻译: 移动机器人中的具身AI：借助大型语言模型实现高效覆盖路径规划](2024年07月02日/Embodied_AI_in_Mobile_Robots_Coverage_Path_Planning_with_Large_Language_Models.md)
+
+- [TokenPacker: Efficient Visual Projector for Multimodal LLM](2024年07月02日/TokenPacker_Efficient_Visual_Projector_for_Multimodal_LLM.md)
+
+    - [翻译: TokenPacker：专为多模态 LLM 设计的高效视觉投影工具](2024年07月02日/TokenPacker_Efficient_Visual_Projector_for_Multimodal_LLM.md)
+
+- [Towards a Holistic Framework for Multimodal Large Language Models in Three-dimensional Brain CT Report Generation](2024年07月02日/Towards_a_Holistic_Framework_for_Multimodal_Large_Language_Models_in_Three-dimensional_Brain_CT_Report_Generation.md)
+
+    - [翻译: 构建综合框架，助力三维脑CT报告生成中的多模态大型语言模型发展](2024年07月02日/Towards_a_Holistic_Framework_for_Multimodal_Large_Language_Models_in_Three-dimensional_Brain_CT_Report_Generation.md)
+
+- [Synthetic Multimodal Question Generation](2024年07月02日/Synthetic_Multimodal_Question_Generation.md)
+
+    - [翻译: 多模态问题生成的合成技术](2024年07月02日/Synthetic_Multimodal_Question_Generation.md)
+
+- [Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models](2024年07月02日/Crossroads_of_Continents_Automated_Artifact_Extraction_for_Cultural_Adaptation_with_Large_Multimodal_Models.md)
+
+    - [翻译: 大陆交汇处：借助大型多模态模型实现文化适应的自动文物提取](2024年07月02日/Crossroads_of_Continents_Automated_Artifact_Extraction_for_Cultural_Adaptation_with_Large_Multimodal_Models.md)
+
+- [An End-to-End Speech Summarization Using Large Language Model](2024年07月02日/An_End-to-End_Speech_Summarization_Using_Large_Language_Model.md)
+
+    - [翻译: 利用大型语言模型实现端到端语音摘要](2024年07月02日/An_End-to-End_Speech_Summarization_Using_Large_Language_Model.md)
+
+- [Certainly Uncertain: A Benchmark and Metric for Multimodal Epistemic and Aleatoric Awareness](2024年07月02日/Certainly_Uncertain_A_Benchmark_and_Metric_for_Multimodal_Epistemic_and_Aleatoric_Awareness.md)
+
+    - [翻译: 探索不确定性：多模态认知与偶然性意识的评估基准与度量](2024年07月02日/Certainly_Uncertain_A_Benchmark_and_Metric_for_Multimodal_Epistemic_and_Aleatoric_Awareness.md)
+
 2024年07月01日
 
 - [KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches](2024年07月01日/KV_Cache_Compression,_But_What_Must_We_Give_in_Return_A_Comprehensive_Benchmark_of_Long_Context_Capable_Approaches.md)
@@ -229,3 +263,7 @@
 - [Human-like object concept representations emerge naturally in multimodal large language models](2024年07月01日/Human-like_object_concept_representations_emerge_naturally_in_multimodal_large_language_models.md)
 
     - [翻译: 多模态大型语言模型中，类人对象概念的表示自然而然地形成。](2024年07月01日/Human-like_object_concept_representations_emerge_naturally_in_multimodal_large_language_models.md)
+
+- [Empathic Grounding: Explorations using Multimodal Interaction and Large Language Models with Conversational Agents](2024年07月01日/Empathic_Grounding_Explorations_using_Multimodal_Interaction_and_Large_Language_Models_with_Conversational_Agents.md)
+
+    - [翻译: 共情基础探索：通过多模态交互与大型语言模型，与对话代理共同探索共情机制。](2024年07月01日/Empathic_Grounding_Explorations_using_Multimodal_Interaction_and_Large_Language_Models_with_Conversational_Agents.md)
