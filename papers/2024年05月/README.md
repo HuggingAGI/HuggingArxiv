@@ -5146,6 +5146,10 @@
 
     - [翻译: 大型语言模型代理的自我审视：探索其对问题解决能力的提升作用](2024年05月05日/Self-Reflection_in_LLM_Agents_Effects_on_Problem-Solving_Performance.md)
 
+- [Graphical user interface agents optimization for visual instruction grounding using multi-modal artificial intelligence systems](2024年05月05日/Graphical_user_interface_agents_optimization_for_visual_instruction_grounding_using_multi-modal_artificial_intelligence_systems.md)
+
+    - [翻译: 通过多模态AI系统优化图形用户界面的视觉指令接地](2024年05月05日/Graphical_user_interface_agents_optimization_for_visual_instruction_grounding_using_multi-modal_artificial_intelligence_systems.md)
+
 2024年05月04日
 
 - [Mozart's Touch: A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models](2024年05月04日/Mozart's_Touch_A_Lightweight_Multi-modal_Music_Generation_Framework_Based_on_Pre-Trained_Large_Models.md)

@@ -882,6 +882,10 @@
 
     - [翻译: 多模态大型语言模型 (MLLM) 结合视觉推理与多智能体策略，有效应对 TSP 和 mTSP 的组合难题。](2024年06月26日/Visual_Reasoning_and_Multi-Agent_Approach_in_Multimodal_Large_Language_Models_(MLLMs)_Solving_TSP_and_mTSP_Combinatorial_Challenges.md)
 
+- [A Review of Large Language Models and Autonomous Agents in Chemistry](2024年06月26日/A_Review_of_Large_Language_Models_and_Autonomous_Agents_in_Chemistry.md)
+
+    - [翻译: 化学领域中大型语言模型与自主代理的综述](2024年06月26日/A_Review_of_Large_Language_Models_and_Autonomous_Agents_in_Chemistry.md)
+
 2024年06月25日
 
 - [Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity](2024年06月25日/Arboretum_A_Large_Multimodal_Dataset_Enabling_AI_for_Biodiversity.md)
@@ -5341,6 +5345,10 @@
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](2024年06月06日/The_Prompt_Report_A_Systematic_Survey_of_Prompting_Techniques.md)
 
     - [翻译: 《提示技术综述：系统性探索》](2024年06月06日/The_Prompt_Report_A_Systematic_Survey_of_Prompting_Techniques.md)
+
+- [Effective Context Selection in LLM-based Leaderboard Generation: An Empirical Study](2024年06月06日/Effective_Context_Selection_in_LLM-based_Leaderboard_Generation_An_Empirical_Study.md)
+
+    - [翻译: 本研究探讨了基于大型语言模型的排行榜生成中，如何进行有效的上下文选择。](2024年06月06日/Effective_Context_Selection_in_LLM-based_Leaderboard_Generation_An_Empirical_Study.md)
 
 2024年06月05日
 
