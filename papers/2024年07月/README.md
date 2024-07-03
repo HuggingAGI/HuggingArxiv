@@ -214,6 +214,26 @@
 
     - [翻译: MMedAgent：掌握医疗工具的多模态学习代理](2024年07月02日/MMedAgent_Learning_to_Use_Medical_Tools_with_Multi-modal_Agent.md)
 
+- [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](2024年07月02日/MInference_1.0_Accelerating_Pre-filling_for_Long-Context_LLMs_via_Dynamic_Sparse_Attention.md)
+
+    - [翻译: MInference 1.0 通过动态稀疏注意力机制，加速了长上下文大型语言模型的预填充过程。](2024年07月02日/MInference_1.0_Accelerating_Pre-filling_for_Long-Context_LLMs_via_Dynamic_Sparse_Attention.md)
+
+- [Neurocache: Efficient Vector Retrieval for Long-range Language Modeling](2024年07月02日/Neurocache_Efficient_Vector_Retrieval_for_Long-range_Language_Modeling.md)
+
+    - [翻译: Neurocache：实现长距离语言建模的高效向量检索技术](2024年07月02日/Neurocache_Efficient_Vector_Retrieval_for_Long-range_Language_Modeling.md)
+
+- [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](2024年07月02日/Understanding_Alignment_in_Multimodal_LLMs_A_Comprehensive_Study.md)
+
+    - [翻译: 探究多模态LLM中的对齐机制：一项深入研究](2024年07月02日/Understanding_Alignment_in_Multimodal_LLMs_A_Comprehensive_Study.md)
+
+- [Open Scene Graphs for Open World Object-Goal Navigation](2024年07月02日/Open_Scene_Graphs_for_Open_World_Object-Goal_Navigation.md)
+
+    - [翻译: 开放场景图助力开放世界中的对象目标导航](2024年07月02日/Open_Scene_Graphs_for_Open_World_Object-Goal_Navigation.md)
+
+- [Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I](2024年07月02日/Reliable_Confidence_Intervals_for_Information_Retrieval_Evaluation_Using_Generative_A.I.md)
+
+    - [翻译: 利用生成式AI评估信息检索的可靠置信区间](2024年07月02日/Reliable_Confidence_Intervals_for_Information_Retrieval_Evaluation_Using_Generative_A.I.md)
+
 2024年07月01日
 
 - [KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches](2024年07月01日/KV_Cache_Compression,_But_What_Must_We_Give_in_Return_A_Comprehensive_Benchmark_of_Long_Context_Capable_Approaches.md)
