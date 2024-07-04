@@ -1,5 +1,27 @@
 # 2024年07月
 
+2024年07月03日
+
+- [Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory](2024年07月03日/Cactus_Towards_Psychological_Counseling_Conversations_using_Cognitive_Behavioral_Theory.md)
+
+    - [翻译: Cactus：借助认知行为理论，迈向心理咨询对话的新领域](2024年07月03日/Cactus_Towards_Psychological_Counseling_Conversations_using_Cognitive_Behavioral_Theory.md)
+
+- [Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model](2024年07月03日/Vision-driven_Automated_Mobile_GUI_Testing_via_Multimodal_Large_Language_Model.md)
+
+    - [翻译: 利用多模态大型语言模型实现视觉驱动的移动GUI自动化测试](2024年07月03日/Vision-driven_Automated_Mobile_GUI_Testing_via_Multimodal_Large_Language_Model.md)
+
+- [VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values](2024年07月03日/VIVA_A_Benchmark_for_Vision-Grounded_Decision-Making_with_Human_Values.md)
+
+    - [翻译: VIVA：一个结合视觉与人类价值观的决策制定基准](2024年07月03日/VIVA_A_Benchmark_for_Vision-Grounded_Decision-Making_with_Human_Values.md)
+
+- [MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications](2024年07月03日/MedPix_2.0_A_Comprehensive_Multimodal_Biomedical_Dataset_for_Advanced_AI_Applications.md)
+
+    - [翻译: MedPix 2.0：一款集大成的多模态生物医学数据集，专为尖端AI应用打造](2024年07月03日/MedPix_2.0_A_Comprehensive_Multimodal_Biomedical_Dataset_for_Advanced_AI_Applications.md)
+
+- [MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis](2024年07月03日/MindBench_A_Comprehensive_Benchmark_for_Mind_Map_Structure_Recognition_and_Analysis.md)
+
+    - [翻译: MindBench：全面评估思维导图结构识别与分析的基准](2024年07月03日/MindBench_A_Comprehensive_Benchmark_for_Mind_Map_Structure_Recognition_and_Analysis.md)
+
 2024年07月02日
 
 - [Talking to Machines: do you read me?](2024年07月02日/Talking_to_Machines_do_you_read_me.md)
@@ -233,6 +255,10 @@
 - [Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I](2024年07月02日/Reliable_Confidence_Intervals_for_Information_Retrieval_Evaluation_Using_Generative_A.I.md)
 
     - [翻译: 利用生成式AI评估信息检索的可靠置信区间](2024年07月02日/Reliable_Confidence_Intervals_for_Information_Retrieval_Evaluation_Using_Generative_A.I.md)
+
+- [Improving Visual Storytelling with Multimodal Large Language Models](2024年07月02日/Improving_Visual_Storytelling_with_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 通过多模态大型语言模型提升视觉叙事效果](2024年07月02日/Improving_Visual_Storytelling_with_Multimodal_Large_Language_Models.md)
 
 2024年07月01日
 
