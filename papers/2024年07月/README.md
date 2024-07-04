@@ -154,6 +154,22 @@
 
     - [翻译: 通过紧凑一致的下一词分布，实现语言模型的高效训练](2024年07月03日/Efficient_Training_of_Language_Models_with_Compact_and_Consistent_Next_Token_Distributions.md)
 
+- [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](2024年07月03日/InternLM-XComposer-2.5_A_Versatile_Large_Vision_Language_Model_Supporting_Long-Contextual_Input_and_Output.md)
+
+    - [翻译: InternLM-XComposer-2.5：一款多功能大型视觉语言模型，专为长上下文输入与输出设计。](2024年07月03日/InternLM-XComposer-2.5_A_Versatile_Large_Vision_Language_Model_Supporting_Long-Contextual_Input_and_Output.md)
+
+- [Universal Length Generalization with Turing Programs](2024年07月03日/Universal_Length_Generalization_with_Turing_Programs.md)
+
+    - [翻译: 图灵程序在通用长度泛化中的应用](2024年07月03日/Universal_Length_Generalization_with_Turing_Programs.md)
+
+- [Large Language Models for JSON Schema Discovery](2024年07月03日/Large_Language_Models_for_JSON_Schema_Discovery.md)
+
+    - [翻译: 利用大型语言模型进行 JSON 模式探索](2024年07月03日/Large_Language_Models_for_JSON_Schema_Discovery.md)
+
+- [LLM Internal States Reveal Hallucination Risk Faced With a Query](2024年07月03日/LLM_Internal_States_Reveal_Hallucination_Risk_Faced_With_a_Query.md)
+
+    - [翻译: LLM 的内部状态暴露了在面对查询时可能产生的幻觉风险。](2024年07月03日/LLM_Internal_States_Reveal_Hallucination_Risk_Faced_With_a_Query.md)
+
 2024年07月02日
 
 - [Talking to Machines: do you read me?](2024年07月02日/Talking_to_Machines_do_you_read_me.md)
@@ -410,7 +426,7 @@
 
 - [Learning to Reduce: Towards Improving Performance of Large Language Models on Structured Data](2024年07月02日/Learning_to_Reduce_Towards_Improving_Performance_of_Large_Language_Models_on_Structured_Data.md)
 
-    - [翻译: 探索优化之道：提升大型语言模型在结构化数据处理中的表现](2024年07月02日/Learning_to_Reduce_Towards_Improving_Performance_of_Large_Language_Models_on_Structured_Data.md)
+    - [翻译: 通过学习简化，我们致力于提升大型语言模型在处理结构化数据时的表现。](2024年07月02日/Learning_to_Reduce_Towards_Improving_Performance_of_Large_Language_Models_on_Structured_Data.md)
 
 - [A Comparative Study of DSL Code Generation: Fine-Tuning vs. Optimized Retrieval Augmentation](2024年07月02日/A_Comparative_Study_of_DSL_Code_Generation_Fine-Tuning_vs._Optimized_Retrieval_Augmentation.md)
 
@@ -418,7 +434,7 @@
 
 - [MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating and Attribute Control](2024年07月02日/MentalAgora_A_Gateway_to_Advanced_Personalized_Care_in_Mental_Health_through_Multi-Agent_Debating_and_Attribute_Control.md)
 
-    - [翻译: MentalAgora：借助多智能体辩论与属性控制，开启心理健康高级个性化护理之门](2024年07月02日/MentalAgora_A_Gateway_to_Advanced_Personalized_Care_in_Mental_Health_through_Multi-Agent_Debating_and_Attribute_Control.md)
+    - [翻译: MentalAgora：借助多代理辩论与属性控制，开启心理健康高级个性化护理之门](2024年07月02日/MentalAgora_A_Gateway_to_Advanced_Personalized_Care_in_Mental_Health_through_Multi-Agent_Debating_and_Attribute_Control.md)
 
 - [Supporting Cross-language Cross-project Bug Localization Using Pre-trained Language Models](2024年07月02日/Supporting_Cross-language_Cross-project_Bug_Localization_Using_Pre-trained_Language_Models.md)
 
@@ -426,7 +442,7 @@
 
 - [MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context](2024年07月02日/MedVH_Towards_Systematic_Evaluation_of_Hallucination_for_Large_Vision_Language_Models_in_the_Medical_Context.md)
 
-    - [翻译: MedVH：系统评估医疗场景下大型视觉语言模型的幻觉问题](2024年07月02日/MedVH_Towards_Systematic_Evaluation_of_Hallucination_for_Large_Vision_Language_Models_in_the_Medical_Context.md)
+    - [翻译: MedVH：探索在医学领域中，如何系统评估大型视觉语言模型的幻觉问题。](2024年07月02日/MedVH_Towards_Systematic_Evaluation_of_Hallucination_for_Large_Vision_Language_Models_in_the_Medical_Context.md)
 
 - [LLM-Select: Feature Selection with Large Language Models](2024年07月02日/LLM-Select_Feature_Selection_with_Large_Language_Models.md)
 
