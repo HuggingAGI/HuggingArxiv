@@ -22,6 +22,138 @@
 
     - [翻译: MindBench：全面评估思维导图结构识别与分析的基准](2024年07月03日/MindBench_A_Comprehensive_Benchmark_for_Mind_Map_Structure_Recognition_and_Analysis.md)
 
+- [Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning](2024年07月03日/Improving_Retrieval-augmented_Text-to-SQL_with_AST-based_Ranking_and_Schema_Pruning.md)
+
+    - [翻译: 通过结合基于抽象语法树的排序和模式剪枝技术，提升检索增强型文本到SQL的转换效率。](2024年07月03日/Improving_Retrieval-augmented_Text-to-SQL_with_AST-based_Ranking_and_Schema_Pruning.md)
+
+- [How Does Quantization Affect Multilingual LLMs?](2024年07月03日/How_Does_Quantization_Affect_Multilingual_LLMs.md)
+
+    - [翻译: 量化对多语言LLM的影响如何？](2024年07月03日/How_Does_Quantization_Affect_Multilingual_LLMs.md)
+
+- [TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts](2024年07月03日/TheoremLlama_Transforming_General-Purpose_LLMs_into_Lean4_Experts.md)
+
+    - [翻译: TheoremLlama：让通用 LLM 成为 Lean4 领域的专家](2024年07月03日/TheoremLlama_Transforming_General-Purpose_LLMs_into_Lean4_Experts.md)
+
+- [Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models](2024年07月03日/Fine-Tuning_with_Divergent_Chains_of_Thought_Boosts_Reasoning_Through_Self-Correction_in_Language_Models.md)
+
+    - [翻译: 采用多样化的思维链进行微调，能显著提升语言模型通过自我纠错机制进行推理的能力。](2024年07月03日/Fine-Tuning_with_Divergent_Chains_of_Thought_Boosts_Reasoning_Through_Self-Correction_in_Language_Models.md)
+
+- [Investigating Decoder-only Large Language Models for Speech-to-text Translation](2024年07月03日/Investigating_Decoder-only_Large_Language_Models_for_Speech-to-text_Translation.md)
+
+    - [翻译: 探索仅解码器大型语言模型在语音转文本翻译中的应用](2024年07月03日/Investigating_Decoder-only_Large_Language_Models_for_Speech-to-text_Translation.md)
+
+- [SOS! Soft Prompt Attack Against Open-Source Large Language Models](2024年07月03日/SOS!_Soft_Prompt_Attack_Against_Open-Source_Large_Language_Models.md)
+
+    - [翻译: 紧急呼叫！针对开源大型语言模型的软提示攻击](2024年07月03日/SOS!_Soft_Prompt_Attack_Against_Open-Source_Large_Language_Models.md)
+
+- [Let the Code LLM Edit Itself When You Edit the Code](2024年07月03日/Let_the_Code_LLM_Edit_Itself_When_You_Edit_the_Code.md)
+
+    - [翻译: 代码 LLM 在你修改代码时，也能自我修正。](2024年07月03日/Let_the_Code_LLM_Edit_Itself_When_You_Edit_the_Code.md)
+
+- [Reinforcement Learning for Sequence Design Leveraging Protein Language Models](2024年07月03日/Reinforcement_Learning_for_Sequence_Design_Leveraging_Protein_Language_Models.md)
+
+    - [翻译: 借助蛋白质语言模型，强化学习在序列设计领域大放异彩。](2024年07月03日/Reinforcement_Learning_for_Sequence_Design_Leveraging_Protein_Language_Models.md)
+
+- [Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data](2024年07月03日/Enhancing_Translation_Accuracy_of_Large_Language_Models_through_Continual_Pre-Training_on_Parallel_Data.md)
+
+    - [翻译: 借助平行数据的持续预训练，我们能够显著提升大型语言模型的翻译精准度。](2024年07月03日/Enhancing_Translation_Accuracy_of_Large_Language_Models_through_Continual_Pre-Training_on_Parallel_Data.md)
+
+- [Social Bias Evaluation for Large Language Models Requires Prompt Variations](2024年07月03日/Social_Bias_Evaluation_for_Large_Language_Models_Requires_Prompt_Variations.md)
+
+    - [翻译: 评估大型语言模型的社会偏见，需借助多样化的提示手段。](2024年07月03日/Social_Bias_Evaluation_for_Large_Language_Models_Requires_Prompt_Variations.md)
+
+- [KeyVideoLLM: Towards Large-scale Video Keyframe Selection](2024年07月03日/KeyVideoLLM_Towards_Large-scale_Video_Keyframe_Selection.md)
+
+    - [翻译: KeyVideoLLM：探索大规模视频关键帧的精选之道](2024年07月03日/KeyVideoLLM_Towards_Large-scale_Video_Keyframe_Selection.md)
+
+- [ScreenTK: Seamless Detection of Time-Killing Moments Using Continuous Mobile Screen Text Monitoring](2024年07月03日/ScreenTK_Seamless_Detection_of_Time-Killing_Moments_Using_Continuous_Mobile_Screen_Text_Monitoring.md)
+
+    - [翻译: ScreenTK：通过持续监控移动屏幕文本，精准捕捉消磨时光的瞬间](2024年07月03日/ScreenTK_Seamless_Detection_of_Time-Killing_Moments_Using_Continuous_Mobile_Screen_Text_Monitoring.md)
+
+- [ALTER: Augmentation for Large-Table-Based Reasoning](2024年07月03日/ALTER_Augmentation_for_Large-Table-Based_Reasoning.md)
+
+    - [翻译: ALTER：大型表格推理的增强方案](2024年07月03日/ALTER_Augmentation_for_Large-Table-Based_Reasoning.md)
+
+- [Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment](2024年07月03日/Improving_Conversational_Abilities_of_Quantized_Large_Language_Models_via_Direct_Preference_Alignment.md)
+
+    - [翻译: 借助直接偏好对齐，我们致力于提升量化大型语言模型在对话中的表现。](2024年07月03日/Improving_Conversational_Abilities_of_Quantized_Large_Language_Models_via_Direct_Preference_Alignment.md)
+
+- [JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets](2024年07月03日/JailbreakHunter_A_Visual_Analytics_Approach_for_Jailbreak_Prompts_Discovery_from_Large-Scale_Human-LLM_Conversational_Datasets.md)
+
+    - [翻译: JailbreakHunter：一种视觉分析方法，旨在从大规模人类与 LLM 的对话数据集中发现越狱提示。](2024年07月03日/JailbreakHunter_A_Visual_Analytics_Approach_for_Jailbreak_Prompts_Discovery_from_Large-Scale_Human-LLM_Conversational_Datasets.md)
+
+- [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](2024年07月03日/Raw_Text_is_All_you_Need_Knowledge-intensive_Multi-turn_Instruction_Tuning_for_Large_Language_Model.md)
+
+    - [翻译: 仅需原始文本：为大型语言模型进行知识密集型多轮指令调优](2024年07月03日/Raw_Text_is_All_you_Need_Knowledge-intensive_Multi-turn_Instruction_Tuning_for_Large_Language_Model.md)
+
+- [On the Client Preference of LLM Fine-tuning in Federated Learning](2024年07月03日/On_the_Client_Preference_of_LLM_Fine-tuning_in_Federated_Learning.md)
+
+    - [翻译: 探讨联邦学习环境下，客户端对 LLM 微调的偏好](2024年07月03日/On_the_Client_Preference_of_LLM_Fine-tuning_in_Federated_Learning.md)
+
+- [SAFT: Towards Out-of-Distribution Generalization in Fine-Tuning](2024年07月03日/SAFT_Towards_Out-of-Distribution_Generalization_in_Fine-Tuning.md)
+
+    - [翻译: SAFT：致力于在微调过程中实现分布外的泛化能力](2024年07月03日/SAFT_Towards_Out-of-Distribution_Generalization_in_Fine-Tuning.md)
+
+- [Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question-Answering](2024年07月03日/Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_Aggregation_for_Video_Question-Answering.md)
+
+    - [翻译: 通过视频对齐与答案聚合，实现组合推理，提升视频问答的准确性。](2024年07月03日/Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_Aggregation_for_Video_Question-Answering.md)
+
+- [What Affects the Stability of Tool Learning? An Empirical Study on the Robustness of Tool Learning Frameworks](2024年07月03日/What_Affects_the_Stability_of_Tool_Learning_An_Empirical_Study_on_the_Robustness_of_Tool_Learning_Frameworks.md)
+
+    - [翻译: 工具学习的稳定性受何影响？本研究深入探讨了工具学习框架的鲁棒性。](2024年07月03日/What_Affects_the_Stability_of_Tool_Learning_An_Empirical_Study_on_the_Robustness_of_Tool_Learning_Frameworks.md)
+
+- [SemioLLM: Assessing Large Language Models for Semiological Analysis in Epilepsy Research](2024年07月03日/SemioLLM_Assessing_Large_Language_Models_for_Semiological_Analysis_in_Epilepsy_Research.md)
+
+    - [翻译: SemioLLM：探究大型语言模型在癫痫研究符号学分析中的应用潜力](2024年07月03日/SemioLLM_Assessing_Large_Language_Models_for_Semiological_Analysis_in_Epilepsy_Research.md)
+
+- [Are Large Language Models Consistent over Value-laden Questions?](2024年07月03日/Are_Large_Language_Models_Consistent_over_Value-laden_Questions.md)
+
+    - [翻译: 大型语言模型在处理价值导向问题时，其一致性如何？](2024年07月03日/Are_Large_Language_Models_Consistent_over_Value-laden_Questions.md)
+
+- [Scientific Text Analysis with Robots applied to observatory proposals](2024年07月03日/Scientific_Text_Analysis_with_Robots_applied_to_observatory_proposals.md)
+
+    - [翻译: 机器人辅助的科学文本分析在观测站提案中的应用](2024年07月03日/Scientific_Text_Analysis_with_Robots_applied_to_observatory_proposals.md)
+
+- [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](2024年07月03日/LoRA-Guard_Parameter-Efficient_Guardrail_Adaptation_for_Content_Moderation_of_Large_Language_Models.md)
+
+    - [翻译: LoRA-Guard：为大型语言模型提供参数高效的内容审核护栏适应方案](2024年07月03日/LoRA-Guard_Parameter-Efficient_Guardrail_Adaptation_for_Content_Moderation_of_Large_Language_Models.md)
+
+- [Mast Kalandar at SemEval-2024 Task 8: On the Trail of Textual Origins: RoBERTa-BiLSTM Approach to Detect AI-Generated Text](2024年07月03日/Mast_Kalandar_at_SemEval-2024_Task_8_On_the_Trail_of_Textual_Origins_RoBERTa-BiLSTM_Approach_to_Detect_AI-Generated_Text.md)
+
+    - [翻译: Mast Kalandar 参与 SemEval-2024 任务 8，探索文本源头：采用 RoBERTa-BiLSTM 方法，精准识别 AI 生成文本。](2024年07月03日/Mast_Kalandar_at_SemEval-2024_Task_8_On_the_Trail_of_Textual_Origins_RoBERTa-BiLSTM_Approach_to_Detect_AI-Generated_Text.md)
+
+- [Large Language Models as Evaluators for Scientific Synthesis](2024年07月03日/Large_Language_Models_as_Evaluators_for_Scientific_Synthesis.md)
+
+    - [翻译: 大型语言模型：科学综合的评判者](2024年07月03日/Large_Language_Models_as_Evaluators_for_Scientific_Synthesis.md)
+
+- [FSM: A Finite State Machine Based Zero-Shot Prompting Paradigm for Multi-Hop Question Answering](2024年07月03日/FSM_A_Finite_State_Machine_Based_Zero-Shot_Prompting_Paradigm_for_Multi-Hop_Question_Answering.md)
+
+    - [翻译: FSM：一种基于有限状态机的零-shot 提示方法，专为多跳问题回答设计](2024年07月03日/FSM_A_Finite_State_Machine_Based_Zero-Shot_Prompting_Paradigm_for_Multi-Hop_Question_Answering.md)
+
+- [GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models](2024年07月03日/GraCoRe_Benchmarking_Graph_Comprehension_and_Complex_Reasoning_in_Large_Language_Models.md)
+
+    - [翻译: GraCoRe：评估大型语言模型中的图表理解和复杂推理能力](2024年07月03日/GraCoRe_Benchmarking_Graph_Comprehension_and_Complex_Reasoning_in_Large_Language_Models.md)
+
+- [GPTQT: Quantize Large Language Models Twice to Push the Efficiency](2024年07月03日/GPTQT_Quantize_Large_Language_Models_Twice_to_Push_the_Efficiency.md)
+
+    - [翻译: GPTQT：通过两次量化大型语言模型，推动效率提升](2024年07月03日/GPTQT_Quantize_Large_Language_Models_Twice_to_Push_the_Efficiency.md)
+
+- [CogErgLLM: Exploring Large Language Model Systems Design Perspective Using Cognitive Ergonomics](2024年07月03日/CogErgLLM_Exploring_Large_Language_Model_Systems_Design_Perspective_Using_Cognitive_Ergonomics.md)
+
+    - [翻译: CogErgLLM：从认知工效学角度探究大型语言模型的系统设计](2024年07月03日/CogErgLLM_Exploring_Large_Language_Model_Systems_Design_Perspective_Using_Cognitive_Ergonomics.md)
+
+- [LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation](2024年07月03日/LANE_Logic_Alignment_of_Non-tuning_Large_Language_Models_and_Online_Recommendation_Systems_for_Explainable_Reason_Generation.md)
+
+    - [翻译: LANE：实现非调优大型语言模型与在线推荐系统的逻辑对齐，旨在生成可解释的推理。](2024年07月03日/LANE_Logic_Alignment_of_Non-tuning_Large_Language_Models_and_Online_Recommendation_Systems_for_Explainable_Reason_Generation.md)
+
+- [Exploring the Capabilities of LLMs for Code Change Related Tasks](2024年07月03日/Exploring_the_Capabilities_of_LLMs_for_Code_Change_Related_Tasks.md)
+
+    - [翻译: 探究 LLM 在代码变更任务中的潜能](2024年07月03日/Exploring_the_Capabilities_of_LLMs_for_Code_Change_Related_Tasks.md)
+
+- [Efficient Training of Language Models with Compact and Consistent Next Token Distributions](2024年07月03日/Efficient_Training_of_Language_Models_with_Compact_and_Consistent_Next_Token_Distributions.md)
+
+    - [翻译: 通过紧凑一致的下一词分布，实现语言模型的高效训练](2024年07月03日/Efficient_Training_of_Language_Models_with_Compact_and_Consistent_Next_Token_Distributions.md)
+
 2024年07月02日
 
 - [Talking to Machines: do you read me?](2024年07月02日/Talking_to_Machines_do_you_read_me.md)
@@ -259,6 +391,54 @@
 - [Improving Visual Storytelling with Multimodal Large Language Models](2024年07月02日/Improving_Visual_Storytelling_with_Multimodal_Large_Language_Models.md)
 
     - [翻译: 通过多模态大型语言模型提升视觉叙事效果](2024年07月02日/Improving_Visual_Storytelling_with_Multimodal_Large_Language_Models.md)
+
+- [Model-Enhanced LLM-Driven VUI Testing of VPA Apps](2024年07月02日/Model-Enhanced_LLM-Driven_VUI_Testing_of_VPA_Apps.md)
+
+    - [翻译: 基于模型增强的 LLM 驱动，对 VPA 应用进行 VUI 测试](2024年07月02日/Model-Enhanced_LLM-Driven_VUI_Testing_of_VPA_Apps.md)
+
+- [52B to 1T: Lessons Learned via Tele-FLM Series](2024年07月02日/52B_to_1T_Lessons_Learned_via_Tele-FLM_Series.md)
+
+    - [翻译: 从 52B 到 1T：Tele-FLM 系列中的经验启示](2024年07月02日/52B_to_1T_Lessons_Learned_via_Tele-FLM_Series.md)
+
+- [Croppable Knowledge Graph Embedding](2024年07月02日/Croppable_Knowledge_Graph_Embedding.md)
+
+    - [翻译: 知识图谱嵌入的可裁剪性](2024年07月02日/Croppable_Knowledge_Graph_Embedding.md)
+
+- [Large language models, physics-based modeling, experimental measurements: the trinity of data-scarce learning of polymer properties](2024年07月02日/Large_language_models,_physics-based_modeling,_experimental_measurements_the_trinity_of_data-scarce_learning_of_polymer_properties.md)
+
+    - [翻译: 大型语言模型、物理建模与实验测量，三者共同构成了聚合物特性数据稀缺学习的核心。](2024年07月02日/Large_language_models,_physics-based_modeling,_experimental_measurements_the_trinity_of_data-scarce_learning_of_polymer_properties.md)
+
+- [Learning to Reduce: Towards Improving Performance of Large Language Models on Structured Data](2024年07月02日/Learning_to_Reduce_Towards_Improving_Performance_of_Large_Language_Models_on_Structured_Data.md)
+
+    - [翻译: 探索优化之道：提升大型语言模型在结构化数据处理中的表现](2024年07月02日/Learning_to_Reduce_Towards_Improving_Performance_of_Large_Language_Models_on_Structured_Data.md)
+
+- [A Comparative Study of DSL Code Generation: Fine-Tuning vs. Optimized Retrieval Augmentation](2024年07月02日/A_Comparative_Study_of_DSL_Code_Generation_Fine-Tuning_vs._Optimized_Retrieval_Augmentation.md)
+
+    - [翻译: 比较 DSL 代码生成的两种方法：微调与优化检索增强](2024年07月02日/A_Comparative_Study_of_DSL_Code_Generation_Fine-Tuning_vs._Optimized_Retrieval_Augmentation.md)
+
+- [MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating and Attribute Control](2024年07月02日/MentalAgora_A_Gateway_to_Advanced_Personalized_Care_in_Mental_Health_through_Multi-Agent_Debating_and_Attribute_Control.md)
+
+    - [翻译: MentalAgora：借助多智能体辩论与属性控制，开启心理健康高级个性化护理之门](2024年07月02日/MentalAgora_A_Gateway_to_Advanced_Personalized_Care_in_Mental_Health_through_Multi-Agent_Debating_and_Attribute_Control.md)
+
+- [Supporting Cross-language Cross-project Bug Localization Using Pre-trained Language Models](2024年07月02日/Supporting_Cross-language_Cross-project_Bug_Localization_Using_Pre-trained_Language_Models.md)
+
+    - [翻译: 借助预训练语言模型，实现跨语言与跨项目的错误定位支持。](2024年07月02日/Supporting_Cross-language_Cross-project_Bug_Localization_Using_Pre-trained_Language_Models.md)
+
+- [MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context](2024年07月02日/MedVH_Towards_Systematic_Evaluation_of_Hallucination_for_Large_Vision_Language_Models_in_the_Medical_Context.md)
+
+    - [翻译: MedVH：系统评估医疗场景下大型视觉语言模型的幻觉问题](2024年07月02日/MedVH_Towards_Systematic_Evaluation_of_Hallucination_for_Large_Vision_Language_Models_in_the_Medical_Context.md)
+
+- [LLM-Select: Feature Selection with Large Language Models](2024年07月02日/LLM-Select_Feature_Selection_with_Large_Language_Models.md)
+
+    - [翻译: LLM-Select：借助大型语言模型实现特征选择](2024年07月02日/LLM-Select_Feature_Selection_with_Large_Language_Models.md)
+
+- [KGym: A Platform and Dataset to Benchmark Large Language Models on Linux Kernel Crash Resolution](2024年07月02日/KGym_A_Platform_and_Dataset_to_Benchmark_Large_Language_Models_on_Linux_Kernel_Crash_Resolution.md)
+
+    - [翻译: KGym 是一个专为 Linux 内核崩溃解决而设计，用于评估大型语言模型性能的平台和数据集。](2024年07月02日/KGym_A_Platform_and_Dataset_to_Benchmark_Large_Language_Models_on_Linux_Kernel_Crash_Resolution.md)
+
+- [Reasoning in Large Language Models: A Geometric Perspective](2024年07月02日/Reasoning_in_Large_Language_Models_A_Geometric_Perspective.md)
+
+    - [翻译: 大型语言模型推理：几何视角探析](2024年07月02日/Reasoning_in_Large_Language_Models_A_Geometric_Perspective.md)
 
 2024年07月01日
 
