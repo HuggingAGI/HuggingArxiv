@@ -1230,6 +1230,10 @@
 
     - [翻译: 超越思维链：大型语言模型链式X范式全面解析](2024年04月24日/Beyond_Chain-of-Thought_A_Survey_of_Chain-of-X_Paradigms_for_LLMs.md)
 
+- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](2024年04月24日/From_Local_to_Global_A_Graph_RAG_Approach_to_Query-Focused_Summarization.md)
+
+    - [翻译: 从局部到全局：探索一种基于图 RAG 的查询聚焦摘要方法](2024年04月24日/From_Local_to_Global_A_Graph_RAG_Approach_to_Query-Focused_Summarization.md)
+
 2024年04月23日
 
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](2024年04月23日/Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs.md)
