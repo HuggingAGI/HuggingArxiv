@@ -1,5 +1,43 @@
 # 2024年07月
 
+2024年07月04日
+
+- [Meta-prompting Optimized Retrieval-augmented Generation](2024年07月04日/Meta-prompting_Optimized_Retrieval-augmented_Generation.md)
+
+    - [翻译: 元提示优化检索增强生成技术](2024年07月04日/Meta-prompting_Optimized_Retrieval-augmented_Generation.md)
+
+- [TongGu: Mastering Classical Chinese Understanding with Knowledge-Grounded Large Language Models](2024年07月04日/TongGu_Mastering_Classical_Chinese_Understanding_with_Knowledge-Grounded_Large_Language_Models.md)
+
+    - [翻译: TongGu：借助知识驱动的大型语言模型，精通古典中文理解](2024年07月04日/TongGu_Mastering_Classical_Chinese_Understanding_with_Knowledge-Grounded_Large_Language_Models.md)
+
+- [Automated C/C++ Program Repair for High-Level Synthesis via Large Language Models](2024年07月04日/Automated_CC++_Program_Repair_for_High-Level_Synthesis_via_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型实现 C/C++ 程序在高级综合中的自动化修复](2024年07月04日/Automated_CC++_Program_Repair_for_High-Level_Synthesis_via_Large_Language_Models.md)
+
+- [Solving Zebra Puzzles Using Constraint-Guided Multi-Agent Systems](2024年07月04日/Solving_Zebra_Puzzles_Using_Constraint-Guided_Multi-Agent_Systems.md)
+
+    - [翻译: 借助约束引导的多智能体系统，破解斑马谜题](2024年07月04日/Solving_Zebra_Puzzles_Using_Constraint-Guided_Multi-Agent_Systems.md)
+
+- [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](2024年07月04日/MobileExperts_A_Dynamic_Tool-Enabled_Agent_Team_in_Mobile_Devices.md)
+
+    - [翻译: MobileExperts：移动设备中的动态工具化代理团队](2024年07月04日/MobileExperts_A_Dynamic_Tool-Enabled_Agent_Team_in_Mobile_Devices.md)
+
+- [Planning with Large Language Models for Conversational Agents](2024年07月04日/Planning_with_Large_Language_Models_for_Conversational_Agents.md)
+
+    - [翻译: 利用大型语言模型规划对话代理](2024年07月04日/Planning_with_Large_Language_Models_for_Conversational_Agents.md)
+
+- [Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General Intelligence](2024年07月04日/Over_the_Edge_of_Chaos_Excess_Complexity_as_a_Roadblock_to_Artificial_General_Intelligence.md)
+
+    - [翻译: 超越混沌边缘？过度复杂性成为人工通用智能之路的绊脚石](2024年07月04日/Over_the_Edge_of_Chaos_Excess_Complexity_as_a_Roadblock_to_Artificial_General_Intelligence.md)
+
+- [M$\mathbf5$ -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks](2024年07月04日/M$\mathbf5$_--_A_Diverse_Benchmark_to_Assess_the_Performance_of_Large_Multimodal_Models_Across_Multilingual_and_Multicultural_Vision-Language_Tasks.md)
+
+    - [翻译: M$\mathbf5$ 是一个多元化基准，旨在全面评估大型多模态模型在跨语言和文化视觉-语言任务中的表现。](2024年07月04日/M$\mathbf5$_--_A_Diverse_Benchmark_to_Assess_the_Performance_of_Large_Multimodal_Models_Across_Multilingual_and_Multicultural_Vision-Language_Tasks.md)
+
+- [MRIR: Integrating Multimodal Insights for Diffusion-based Realistic Image Restoration](2024年07月04日/MRIR_Integrating_Multimodal_Insights_for_Diffusion-based_Realistic_Image_Restoration.md)
+
+    - [翻译: MRIR：融合多模态洞察，实现基于扩散技术的真实图像修复](2024年07月04日/MRIR_Integrating_Multimodal_Insights_for_Diffusion-based_Realistic_Image_Restoration.md)
+
 2024年07月03日
 
 - [Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory](2024年07月03日/Cactus_Towards_Psychological_Counseling_Conversations_using_Cognitive_Behavioral_Theory.md)
@@ -169,6 +207,14 @@
 - [LLM Internal States Reveal Hallucination Risk Faced With a Query](2024年07月03日/LLM_Internal_States_Reveal_Hallucination_Risk_Faced_With_a_Query.md)
 
     - [翻译: LLM 的内部状态暴露了在面对查询时可能产生的幻觉风险。](2024年07月03日/LLM_Internal_States_Reveal_Hallucination_Risk_Faced_With_a_Query.md)
+
+- [AgentInstruct: Toward Generative Teaching with Agentic Flows](2024年07月03日/AgentInstruct_Toward_Generative_Teaching_with_Agentic_Flows.md)
+
+    - [翻译: AgentInstruct：迈向结合生成教学与代理流的新境界](2024年07月03日/AgentInstruct_Toward_Generative_Teaching_with_Agentic_Flows.md)
+
+- [Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models](2024年07月03日/Visualizing_Dialogues_Enhancing_Image_Selection_through_Dialogue_Understanding_with_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型，通过深入理解对话内容，我们提升了图像选择的精准度，实现了对话的可视化呈现。](2024年07月03日/Visualizing_Dialogues_Enhancing_Image_Selection_through_Dialogue_Understanding_with_Large_Language_Models.md)
 
 2024年07月02日
 
