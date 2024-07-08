@@ -54,6 +54,98 @@
 
     - [翻译: WSDM2023 Toloka 视觉问答挑战亚军方案](2024年07月05日/Second_Place_Solution_of_WSDM2023_Toloka_Visual_Question_Answering_Challenge.md)
 
+- [Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs](2024年07月05日/Me,_Myself,_and_AI_The_Situational_Awareness_Dataset_(SAD)_for_LLMs.md)
+
+    - [翻译: 我、自我与AI：为LLM量身打造的情境意识数据集（SAD）](2024年07月05日/Me,_Myself,_and_AI_The_Situational_Awareness_Dataset_(SAD)_for_LLMs.md)
+
+- [ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models](2024年07月05日/ANAH-v2_Scaling_Analytical_Hallucination_Annotation_of_Large_Language_Models.md)
+
+    - [翻译: ANAH-v2：大型语言模型分析性幻觉注释的扩展](2024年07月05日/ANAH-v2_Scaling_Analytical_Hallucination_Annotation_of_Large_Language_Models.md)
+
+- [Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition](2024年07月05日/Seed-ASR_Understanding_Diverse_Speech_and_Contexts_with_LLM-based_Speech_Recognition.md)
+
+    - [翻译: Seed-ASR：借助 LLM 技术，深入探索语音与上下文的多样性](2024年07月05日/Seed-ASR_Understanding_Diverse_Speech_and_Contexts_with_LLM-based_Speech_Recognition.md)
+
+- [Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement](2024年07月05日/Lazarus_Resilient_and_Elastic_Training_of_Mixture-of-Experts_Models_with_Adaptive_Expert_Placement.md)
+
+    - [翻译: Lazarus：通过自适应专家部署，实现混合专家模型的弹性与韧性训练。](2024年07月05日/Lazarus_Resilient_and_Elastic_Training_of_Mixture-of-Experts_Models_with_Adaptive_Expert_Placement.md)
+
+- [Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework](2024年07月05日/Entity_Decomposition_with_Filtering_A_Zero-Shot_Clinical_Named_Entity_Recognition_Framework.md)
+
+    - [翻译: 实体分解结合过滤技术，开创了一种零-shot 临床命名实体识别的新框架。](2024年07月05日/Entity_Decomposition_with_Filtering_A_Zero-Shot_Clinical_Named_Entity_Recognition_Framework.md)
+
+- [ARM: Efficient Guided Decoding with Autoregressive Reward Models](2024年07月05日/ARM_Efficient_Guided_Decoding_with_Autoregressive_Reward_Models.md)
+
+    - [翻译: ARM：通过自回归奖励模型，实现高效引导解码](2024年07月05日/ARM_Efficient_Guided_Decoding_with_Autoregressive_Reward_Models.md)
+
+- [Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions](2024年07月05日/Leveraging_Large_Language_Models_for_Integrated_Satellite-Aerial-Terrestrial_Networks_Recent_Advances_and_Future_Directions.md)
+
+    - [翻译: 大型语言模型在综合卫星-航空-地面网络中的应用：探索最新进展与未来发展方向](2024年07月05日/Leveraging_Large_Language_Models_for_Integrated_Satellite-Aerial-Terrestrial_Networks_Recent_Advances_and_Future_Directions.md)
+
+- [PoPreRo: A New Dataset for Popularity Prediction of Romanian Reddit Posts](2024年07月05日/PoPreRo_A_New_Dataset_for_Popularity_Prediction_of_Romanian_Reddit_Posts.md)
+
+    - [翻译: PoPreRo 数据集：专为预测罗马尼亚 Reddit 帖子热度而设计的新工具](2024年07月05日/PoPreRo_A_New_Dataset_for_Popularity_Prediction_of_Romanian_Reddit_Posts.md)
+
+- [Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model](2024年07月05日/Dude_Dual_Distribution-Aware_Context_Prompt_Learning_For_Large_Vision-Language_Model.md)
+
+    - [翻译: Dude：一种双分布感知上下文提示学习方法，专为大型视觉-语言模型设计。](2024年07月05日/Dude_Dual_Distribution-Aware_Context_Prompt_Learning_For_Large_Vision-Language_Model.md)
+
+- [Leveraging Graph Structures to Detect Hallucinations in Large Language Models](2024年07月05日/Leveraging_Graph_Structures_to_Detect_Hallucinations_in_Large_Language_Models.md)
+
+    - [翻译: 借助图结构，我们能够精准识别大型语言模型中的幻觉现象。](2024年07月05日/Leveraging_Graph_Structures_to_Detect_Hallucinations_in_Large_Language_Models.md)
+
+- [Controlling Whisper: Universal Acoustic Adversarial Attacks to Control Speech Foundation Models](2024年07月05日/Controlling_Whisper_Universal_Acoustic_Adversarial_Attacks_to_Control_Speech_Foundation_Models.md)
+
+    - [翻译: 操控“耳语”：针对语音基础模型实施的通用声学对抗策略](2024年07月05日/Controlling_Whisper_Universal_Acoustic_Adversarial_Attacks_to_Control_Speech_Foundation_Models.md)
+
+- [LoCo: Low-Bit Communication Adaptor for Large-scale Model Training](2024年07月05日/LoCo_Low-Bit_Communication_Adaptor_for_Large-scale_Model_Training.md)
+
+    - [翻译: LoCo：专为大规模模型训练设计的低比特通信适配器](2024年07月05日/LoCo_Low-Bit_Communication_Adaptor_for_Large-scale_Model_Training.md)
+
+- [Generalists vs. Specialists: Evaluating Large Language Models for Urdu](2024年07月05日/Generalists_vs._Specialists_Evaluating_Large_Language_Models_for_Urdu.md)
+
+    - [翻译: 通用型与专家型：探究大型语言模型在乌尔都语领域的评估](2024年07月05日/Generalists_vs._Specialists_Evaluating_Large_Language_Models_for_Urdu.md)
+
+- [XLSR-Transducer: Streaming ASR for Self-Supervised Pretrained Models](2024年07月05日/XLSR-Transducer_Streaming_ASR_for_Self-Supervised_Pretrained_Models.md)
+
+    - [翻译: XLSR-Transducer：为自监督预训练模型设计的流式自动语音识别技术](2024年07月05日/XLSR-Transducer_Streaming_ASR_for_Self-Supervised_Pretrained_Models.md)
+
+- [From 'Showgirls' to 'Performers': Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs](2024年07月05日/From_'Showgirls'_to_'Performers'_Fine-tuning_with_Gender-inclusive_Language_for_Bias_Reduction_in_LLMs.md)
+
+    - [翻译: 从“Showgirls”到“Performers”：通过性别包容性语言的微调，减少 LLM 中的偏见](2024年07月05日/From_'Showgirls'_to_'Performers'_Fine-tuning_with_Gender-inclusive_Language_for_Bias_Reduction_in_LLMs.md)
+
+- [cosmosage: A Natural-Language Assistant for Cosmologists](2024年07月05日/cosmosage_A_Natural-Language_Assistant_for_Cosmologists.md)
+
+    - [翻译: cosmosage：专为宇宙学家打造的自然语言助手](2024年07月05日/cosmosage_A_Natural-Language_Assistant_for_Cosmologists.md)
+
+- [Improving Audio Generation with Visual Enhanced Caption](2024年07月05日/Improving_Audio_Generation_with_Visual_Enhanced_Caption.md)
+
+    - [翻译: 利用视觉增强字幕提升音频生成效果](2024年07月05日/Improving_Audio_Generation_with_Visual_Enhanced_Caption.md)
+
+- [Waterfall: Framework for Robust and Scalable Text Watermarking](2024年07月05日/Waterfall_Framework_for_Robust_and_Scalable_Text_Watermarking.md)
+
+    - [翻译: Waterfall：一个专为文本水印设计的鲁棒且可扩展的框架](2024年07月05日/Waterfall_Framework_for_Robust_and_Scalable_Text_Watermarking.md)
+
+- [Towards Context-aware Support for Color Vision Deficiency: An Approach Integrating LLM and AR](2024年07月05日/Towards_Context-aware_Support_for_Color_Vision_Deficiency_An_Approach_Integrating_LLM_and_AR.md)
+
+    - [翻译: 探索色觉缺陷的上下文感知支持：融合 LLM 与 AR 的创新途径](2024年07月05日/Towards_Context-aware_Support_for_Color_Vision_Deficiency_An_Approach_Integrating_LLM_and_AR.md)
+
+- [Crafting Large Language Models for Enhanced Interpretability](2024年07月05日/Crafting_Large_Language_Models_for_Enhanced_Interpretability.md)
+
+    - [翻译: 构建提升可解释性的大型语言模型](2024年07月05日/Crafting_Large_Language_Models_for_Enhanced_Interpretability.md)
+
+- [Jailbreak Attacks and Defenses Against Large Language Models: A Survey](2024年07月05日/Jailbreak_Attacks_and_Defenses_Against_Large_Language_Models_A_Survey.md)
+
+    - [翻译: 大型语言模型面临的越狱攻击及其防御策略：全面调查](2024年07月05日/Jailbreak_Attacks_and_Defenses_Against_Large_Language_Models_A_Survey.md)
+
+- [Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design](2024年07月05日/Corki_Enabling_Real-time_Embodied_AI_Robots_via_Algorithm-Architecture_Co-Design.md)
+
+    - [翻译: Corki：借助算法与架构的协同设计，赋能实时具身AI机器人。](2024年07月05日/Corki_Enabling_Real-time_Embodied_AI_Robots_via_Algorithm-Architecture_Co-Design.md)
+
+- [BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks](2024年07月05日/BiosERC_Integrating_Biography_Speakers_Supported_by_LLMs_for_ERC_Tasks.md)
+
+    - [翻译: BiosERC：结合 LLM 支持的传记演讲者，助力 ERC 任务](2024年07月05日/BiosERC_Integrating_Biography_Speakers_Supported_by_LLMs_for_ERC_Tasks.md)
+
 2024年07月04日
 
 - [Meta-prompting Optimized Retrieval-augmented Generation](2024年07月04日/Meta-prompting_Optimized_Retrieval-augmented_Generation.md)
@@ -138,11 +230,11 @@
 
 - [Improving Accented Speech Recognition using Data Augmentation based on Unsupervised Text-to-Speech Synthesis](2024年07月04日/Improving_Accented_Speech_Recognition_using_Data_Augmentation_based_on_Unsupervised_Text-to-Speech_Synthesis.md)
 
-    - [翻译: 利用无监督的文本转语音合成进行数据增强，提升带口音语音的识别效果](2024年07月04日/Improving_Accented_Speech_Recognition_using_Data_Augmentation_based_on_Unsupervised_Text-to-Speech_Synthesis.md)
+    - [翻译: 利用无监督的文本转语音合成进行数据增强，有效提升带口音语音的识别准确率。](2024年07月04日/Improving_Accented_Speech_Recognition_using_Data_Augmentation_based_on_Unsupervised_Text-to-Speech_Synthesis.md)
 
 - [Systematic Task Exploration with LLMs: A Study in Citation Text Generation](2024年07月04日/Systematic_Task_Exploration_with_LLMs_A_Study_in_Citation_Text_Generation.md)
 
-    - [翻译: 大型语言模型在系统性任务探索中的应用：引文文本生成研究](2024年07月04日/Systematic_Task_Exploration_with_LLMs_A_Study_in_Citation_Text_Generation.md)
+    - [翻译: 大型语言模型在系统任务探索中的应用：引文文本生成研究](2024年07月04日/Systematic_Task_Exploration_with_LLMs_A_Study_in_Citation_Text_Generation.md)
 
 - [LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking](2024年07月04日/LLMAEL_Large_Language_Models_are_Good_Context_Augmenters_for_Entity_Linking.md)
 
@@ -150,7 +242,7 @@
 
 - [Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems](2024年07月04日/Offline_Energy-Optimal_LLM_Serving_Workload-Based_Energy_Models_for_LLM_Inference_on_Heterogeneous_Systems.md)
 
-    - [翻译: 离线模式下，LLM 服务追求能量最优：针对异构系统中 LLM 推理，我们构建了基于工作负载的能量模型。](2024年07月04日/Offline_Energy-Optimal_LLM_Serving_Workload-Based_Energy_Models_for_LLM_Inference_on_Heterogeneous_Systems.md)
+    - [翻译: 离线模式下，LLM 服务追求能量最优：针对异构系统中 LLM 推理，构建基于工作负载的能量模型。](2024年07月04日/Offline_Energy-Optimal_LLM_Serving_Workload-Based_Energy_Models_for_LLM_Inference_on_Heterogeneous_Systems.md)
 
 - [Unlocking the Potential of Model Merging for Low-Resource Languages](2024年07月04日/Unlocking_the_Potential_of_Model_Merging_for_Low-Resource_Languages.md)
 
@@ -190,7 +282,7 @@
 
 - [Narrow Transformer: Starcoder-Based Java-LM For Desktop](2024年07月04日/Narrow_Transformer_Starcoder-Based_Java-LM_For_Desktop.md)
 
-    - [翻译: 精简版 Transformer：基于 Starcoder 的 Java 语言模型，专为桌面设计](2024年07月04日/Narrow_Transformer_Starcoder-Based_Java-LM_For_Desktop.md)
+    - [翻译: 桌面专用：基于Starcoder的Java语言模型窄化Transformer](2024年07月04日/Narrow_Transformer_Starcoder-Based_Java-LM_For_Desktop.md)
 
 - [Concept Bottleneck Models Without Predefined Concepts](2024年07月04日/Concept_Bottleneck_Models_Without_Predefined_Concepts.md)
 
@@ -198,11 +290,11 @@
 
 - [AutoBench: Automatic Testbench Generation and Evaluation Using LLMs for HDL Design](2024年07月04日/AutoBench_Automatic_Testbench_Generation_and_Evaluation_Using_LLMs_for_HDL_Design.md)
 
-    - [翻译: AutoBench：借助 LLM 实现 HDL 设计的自动化测试台生成与评估](2024年07月04日/AutoBench_Automatic_Testbench_Generation_and_Evaluation_Using_LLMs_for_HDL_Design.md)
+    - [翻译: AutoBench：借助 LLM 实现 HDL 设计的自动化测试平台生成与评估](2024年07月04日/AutoBench_Automatic_Testbench_Generation_and_Evaluation_Using_LLMs_for_HDL_Design.md)
 
 - [DART: Deep Adversarial Automated Red Teaming for LLM Safety](2024年07月04日/DART_Deep_Adversarial_Automated_Red_Teaming_for_LLM_Safety.md)
 
-    - [翻译: DART：深度对抗技术助力 LLM 安全，实现自动红队测试](2024年07月04日/DART_Deep_Adversarial_Automated_Red_Teaming_for_LLM_Safety.md)
+    - [翻译: DART：深度对抗技术助力 LLM 安全，实现自动化红队测试](2024年07月04日/DART_Deep_Adversarial_Automated_Red_Teaming_for_LLM_Safety.md)
 
 - [Anthropocentric bias and the possibility of artificial cognition](2024年07月04日/Anthropocentric_bias_and_the_possibility_of_artificial_cognition.md)
 
@@ -210,11 +302,11 @@
 
 - [Q-Adapter: Training Your LLM Adapter as a Residual Q-Function](2024年07月04日/Q-Adapter_Training_Your_LLM_Adapter_as_a_Residual_Q-Function.md)
 
-    - [翻译: Q-Adapter：训练 LLM Adapter 成为残差 Q-Function](2024年07月04日/Q-Adapter_Training_Your_LLM_Adapter_as_a_Residual_Q-Function.md)
+    - [翻译: Q-Adapter：训练您的 LLM Adapter 成为残差 Q-Function](2024年07月04日/Q-Adapter_Training_Your_LLM_Adapter_as_a_Residual_Q-Function.md)
 
 - [HYBRINFOX at CheckThat! 2024 -- Task 1: Enhancing Language Models with Structured Information for Check-Worthiness Estimation](2024年07月04日/HYBRINFOX_at_CheckThat!_2024_--_Task_1_Enhancing_Language_Models_with_Structured_Information_for_Check-Worthiness_Estimation.md)
 
-    - [翻译: HYBRINFOX 在 CheckThat! 2024 的任务 1 中，旨在通过整合结构化信息来提升语言模型的可核查性估计能力。](2024年07月04日/HYBRINFOX_at_CheckThat!_2024_--_Task_1_Enhancing_Language_Models_with_Structured_Information_for_Check-Worthiness_Estimation.md)
+    - [翻译: HYBRINFOX 参与 CheckThat! 2024 的任务 1，旨在利用结构化信息提升语言模型的可核查性评估能力。](2024年07月04日/HYBRINFOX_at_CheckThat!_2024_--_Task_1_Enhancing_Language_Models_with_Structured_Information_for_Check-Worthiness_Estimation.md)
 
 - [On the Benchmarking of LLMs for Open-Domain Dialogue Evaluation](2024年07月04日/On_the_Benchmarking_of_LLMs_for_Open-Domain_Dialogue_Evaluation.md)
 
@@ -230,11 +322,11 @@
 
 - [Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning](2024年07月04日/Meta-optimized_Angular_Margin_Contrastive_Framework_for_Video-Language_Representation_Learning.md)
 
-    - [翻译: 视频-语言表示学习的元优化角度边缘对比框架](2024年07月04日/Meta-optimized_Angular_Margin_Contrastive_Framework_for_Video-Language_Representation_Learning.md)
+    - [翻译: 视频-语言表示学习中的元优化角度边缘对比框架](2024年07月04日/Meta-optimized_Angular_Margin_Contrastive_Framework_for_Video-Language_Representation_Learning.md)
 
 - [From Data to Commonsense Reasoning: The Use of Large Language Models for Explainable AI](2024年07月04日/From_Data_to_Commonsense_Reasoning_The_Use_of_Large_Language_Models_for_Explainable_AI.md)
 
-    - [翻译: 大型语言模型助力 AI 从数据解读到常识推理，为可解释 AI 开辟新径。](2024年07月04日/From_Data_to_Commonsense_Reasoning_The_Use_of_Large_Language_Models_for_Explainable_AI.md)
+    - [翻译: 大型语言模型助力AI可解释性：从数据到常识推理的跃迁](2024年07月04日/From_Data_to_Commonsense_Reasoning_The_Use_of_Large_Language_Models_for_Explainable_AI.md)
 
 - [Convolutional vs Large Language Models for Software Log Classification in Edge-Deployable Cellular Network Testing](2024年07月04日/Convolutional_vs_Large_Language_Models_for_Software_Log_Classification_in_Edge-Deployable_Cellular_Network_Testing.md)
 
@@ -242,11 +334,11 @@
 
 - [Argument Mining in Data Scarce Settings: Cross-lingual Transfer and Few-shot Techniques](2024年07月04日/Argument_Mining_in_Data_Scarce_Settings_Cross-lingual_Transfer_and_Few-shot_Techniques.md)
 
-    - [翻译: 在数据稀缺的情境下，论证挖掘借助跨语言迁移和少量样本技术，探索新的可能性。](2024年07月04日/Argument_Mining_in_Data_Scarce_Settings_Cross-lingual_Transfer_and_Few-shot_Techniques.md)
+    - [翻译: 在数据稀缺环境下，论点挖掘借助跨语言迁移和少量样本技术，探索新的可能性。](2024年07月04日/Argument_Mining_in_Data_Scarce_Settings_Cross-lingual_Transfer_and_Few-shot_Techniques.md)
 
 - [Text2TimeSeries: Enhancing Financial Forecasting through Time Series Prediction Updates with Event-Driven Insights from Large Language Models](2024年07月04日/Text2TimeSeries_Enhancing_Financial_Forecasting_through_Time_Series_Prediction_Updates_with_Event-Driven_Insights_from_Large_Language_Models.md)
 
-    - [翻译: Text2TimeSeries：借助大型语言模型的事件驱动洞察，实时更新时间序列预测，助力财务预测更精准。](2024年07月04日/Text2TimeSeries_Enhancing_Financial_Forecasting_through_Time_Series_Prediction_Updates_with_Event-Driven_Insights_from_Large_Language_Models.md)
+    - [翻译: Text2TimeSeries：借助大型语言模型的事件驱动洞察，通过时间序列预测更新提升财务预测的精准度。](2024年07月04日/Text2TimeSeries_Enhancing_Financial_Forecasting_through_Time_Series_Prediction_Updates_with_Event-Driven_Insights_from_Large_Language_Models.md)
 
 - [STOC-TOT: Stochastic Tree-of-Thought with Constrained Decoding for Complex Reasoning in Multi-Hop Question Answering](2024年07月04日/STOC-TOT_Stochastic_Tree-of-Thought_with_Constrained_Decoding_for_Complex_Reasoning_in_Multi-Hop_Question_Answering.md)
 
@@ -258,15 +350,15 @@
 
 - [GPT-4 vs. Human Translators: A Comprehensive Evaluation of Translation Quality Across Languages, Domains, and Expertise Levels](2024年07月04日/GPT-4_vs._Human_Translators_A_Comprehensive_Evaluation_of_Translation_Quality_Across_Languages,_Domains,_and_Expertise_Levels.md)
 
-    - [翻译: GPT-4 与人类翻译者的较量：全面评估翻译质量在多语言、多领域及不同专业水平的表现](2024年07月04日/GPT-4_vs._Human_Translators_A_Comprehensive_Evaluation_of_Translation_Quality_Across_Languages,_Domains,_and_Expertise_Levels.md)
+    - [翻译: GPT-4 与人类翻译者的较量：全方位评估翻译质量，涵盖语言、领域及专业层次。](2024年07月04日/GPT-4_vs._Human_Translators_A_Comprehensive_Evaluation_of_Translation_Quality_Across_Languages,_Domains,_and_Expertise_Levels.md)
 
 - [WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System](2024年07月04日/WildDESED_An_LLM-Powered_Dataset_for_Wild_Domestic_Environment_Sound_Event_Detection_System.md)
 
-    - [翻译: WildDESED：一款由 LLM 赋能的数据集，专为家庭环境中的声音事件检测系统设计。](2024年07月04日/WildDESED_An_LLM-Powered_Dataset_for_Wild_Domestic_Environment_Sound_Event_Detection_System.md)
+    - [翻译: WildDESED：一款由 LLM 驱动，专为家庭环境声音事件检测系统打造的数据集](2024年07月04日/WildDESED_An_LLM-Powered_Dataset_for_Wild_Domestic_Environment_Sound_Event_Detection_System.md)
 
 - [An Interactive Multi-modal Query Answering System with Retrieval-Augmented Large Language Models](2024年07月04日/An_Interactive_Multi-modal_Query_Answering_System_with_Retrieval-Augmented_Large_Language_Models.md)
 
-    - [翻译: 交互式多模态查询应答系统，搭载检索增强型大型语言模型](2024年07月04日/An_Interactive_Multi-modal_Query_Answering_System_with_Retrieval-Augmented_Large_Language_Models.md)
+    - [翻译: 交互式多模态查询系统，结合了检索增强的大型语言模型](2024年07月04日/An_Interactive_Multi-modal_Query_Answering_System_with_Retrieval-Augmented_Large_Language_Models.md)
 
 - [DSLR: Document Refinement with Sentence-Level Re-ranking and Reconstruction to Enhance Retrieval-Augmented Generation](2024年07月04日/DSLR_Document_Refinement_with_Sentence-Level_Re-ranking_and_Reconstruction_to_Enhance_Retrieval-Augmented_Generation.md)
 
@@ -275,6 +367,38 @@
 - [Slice-100K: A Multimodal Dataset for Extrusion-based 3D Printing](2024年07月04日/Slice-100K_A_Multimodal_Dataset_for_Extrusion-based_3D_Printing.md)
 
     - [翻译: Slice-100K：一款专为挤出式3D打印设计的多模态数据集](2024年07月04日/Slice-100K_A_Multimodal_Dataset_for_Extrusion-based_3D_Printing.md)
+
+- [Semi-supervised Learning for Code-Switching ASR with Large Language Model Filter](2024年07月04日/Semi-supervised_Learning_for_Code-Switching_ASR_with_Large_Language_Model_Filter.md)
+
+    - [翻译: 半监督学习助力代码切换ASR，结合大型语言模型过滤器提升识别效果。](2024年07月04日/Semi-supervised_Learning_for_Code-Switching_ASR_with_Large_Language_Model_Filter.md)
+
+- [HAF-RM: A Hybrid Alignment Framework for Reward Model Training](2024年07月04日/HAF-RM_A_Hybrid_Alignment_Framework_for_Reward_Model_Training.md)
+
+    - [翻译: HAF-RM：奖励模型训练的混合对齐新框架](2024年07月04日/HAF-RM_A_Hybrid_Alignment_Framework_for_Reward_Model_Training.md)
+
+- [Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms](2024年07月04日/Seeing_Like_an_AI_How_LLMs_Apply_(and_Misapply)_Wikipedia_Neutrality_Norms.md)
+
+    - [翻译: 窥探AI视角：LLMs在应用维基百科中立规范时的得与失](2024年07月04日/Seeing_Like_an_AI_How_LLMs_Apply_(and_Misapply)_Wikipedia_Neutrality_Norms.md)
+
+- [Orchestrating LLMs with Different Personalizations](2024年07月04日/Orchestrating_LLMs_with_Different_Personalizations.md)
+
+    - [翻译: 个性化调配大型语言模型](2024年07月04日/Orchestrating_LLMs_with_Different_Personalizations.md)
+
+- [Defense Against Syntactic Textual Backdoor Attacks with Token Substitution](2024年07月04日/Defense_Against_Syntactic_Textual_Backdoor_Attacks_with_Token_Substitution.md)
+
+    - [翻译: 抵御通过标记替换实施的句法文本后门攻击](2024年07月04日/Defense_Against_Syntactic_Textual_Backdoor_Attacks_with_Token_Substitution.md)
+
+- [Quantifying Prediction Consistency Under Model Multiplicity in Tabular LLMs](2024年07月04日/Quantifying_Prediction_Consistency_Under_Model_Multiplicity_in_Tabular_LLMs.md)
+
+    - [翻译: 探究表格型大型语言模型在模型多样性下的预测一致性](2024年07月04日/Quantifying_Prediction_Consistency_Under_Model_Multiplicity_in_Tabular_LLMs.md)
+
+- [VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation](2024年07月04日/VoxAct-B_Voxel-Based_Acting_and_Stabilizing_Policy_for_Bimanual_Manipulation.md)
+
+    - [翻译: VoxAct-B：一种基于体素的双臂操作动作与稳定策略](2024年07月04日/VoxAct-B_Voxel-Based_Acting_and_Stabilizing_Policy_for_Bimanual_Manipulation.md)
+
+- [Securing Multi-turn Conversational Language Models Against Distributed Backdoor Triggers](2024年07月04日/Securing_Multi-turn_Conversational_Language_Models_Against_Distributed_Backdoor_Triggers.md)
+
+    - [翻译: 强化多轮对话语言模型，抵御分布式后门触发威胁](2024年07月04日/Securing_Multi-turn_Conversational_Language_Models_Against_Distributed_Backdoor_Triggers.md)
 
 2024年07月03日
 
