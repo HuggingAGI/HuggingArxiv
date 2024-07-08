@@ -8,7 +8,7 @@
 
 # 摘要
 
-> 实体链接模型虽擅长将提及与上下文中的实体对应，但在处理长尾实体时因数据不足而受限。大型语言模型虽能更好地解读罕见提及，却因缺乏针对性训练而在生成准确实体ID上表现不佳。此外，训练LLM进行实体链接成本高昂。为此，我们提出LLM增强型实体链接（LLMAEL），通过LLM数据增强实现即插即用，提升实体链接性能。我们利用LLMs生成以提及为中心的描述作为补充输入，同时结合传统EL模型的特定任务处理。实验结果显示，LLMAEL在多数情况下超越了传统EL模型，而经过微调的LLMAEL更是在所有6个基准测试中刷新了记录。
+> 实体链接模型虽擅长将提及与上下文中的实体对应，但在处理长尾实体时因数据有限而力不从心。大型语言模型虽能更好地解读罕见提及，却因缺乏针对性训练而在生成准确实体ID上表现欠佳。训练LLM进行实体链接成本高昂。为此，我们提出LLM增强型实体链接（LLMAEL），通过LLM数据增强实现即插即用，提升实体链接性能。我们利用LLM生成以提及为中心的描述作为补充输入，同时结合传统EL模型的任务特定处理。实验结果显示，LLMAEL在多数情况下超越了传统EL模型，而经过微调的版本更是在所有6个基准测试中刷新了记录。
 
 > Entity Linking (EL) models are well-trained at mapping mentions to their corresponding entities according to a given context. However, EL models struggle to disambiguate long-tail entities due to their limited training data. Meanwhile, large language models (LLMs) are more robust at interpreting uncommon mentions. Yet, due to a lack of specialized training, LLMs suffer at generating correct entity IDs. Furthermore, training an LLM to perform EL is cost-intensive. Building upon these insights, we introduce LLM-Augmented Entity Linking LLMAEL, a plug-and-play approach to enhance entity linking through LLM data augmentation. We leverage LLMs as knowledgeable context augmenters, generating mention-centered descriptions as additional input, while preserving traditional EL models for task specific processing. Experiments on 6 standard datasets show that the vanilla LLMAEL outperforms baseline EL models in most cases, while the fine-tuned LLMAEL set the new state-of-the-art results across all 6 benchmarks.
 
