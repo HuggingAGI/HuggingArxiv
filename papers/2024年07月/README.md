@@ -1,5 +1,47 @@
 # 2024年07月
 
+2024年07月08日
+
+- [GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing](2024年07月08日/GenArtist_Multimodal_LLM_as_an_Agent_for_Unified_Image_Generation_and_Editing.md)
+
+    - [翻译: GenArtist：一款多模态 LLM，作为统一图像生成与编辑的智能代理](2024年07月08日/GenArtist_Multimodal_LLM_as_an_Agent_for_Unified_Image_Generation_and_Editing.md)
+
+2024年07月07日
+
+- [Collective Innovation in Groups of Large Language Models](2024年07月07日/Collective_Innovation_in_Groups_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型群体中的集体创新](2024年07月07日/Collective_Innovation_in_Groups_of_Large_Language_Models.md)
+
+- [MINDECHO: Role-Playing Language Agents for Key Opinion Leaders](2024年07月07日/MINDECHO_Role-Playing_Language_Agents_for_Key_Opinion_Leaders.md)
+
+    - [翻译: MINDECHO：专为关键意见领袖打造的角色扮演语言代理](2024年07月07日/MINDECHO_Role-Playing_Language_Agents_for_Key_Opinion_Leaders.md)
+
+- [WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks](2024年07月07日/WorkArena++_Towards_Compositional_Planning_and_Reasoning-based_Common_Knowledge_Work_Tasks.md)
+
+    - [翻译: WorkArena++：探索基于组合规划与推理的通用知识工作任务](2024年07月07日/WorkArena++_Towards_Compositional_Planning_and_Reasoning-based_Common_Knowledge_Work_Tasks.md)
+
+- [Multimodal Language Models for Domain-Specific Procedural Video Summarization](2024年07月07日/Multimodal_Language_Models_for_Domain-Specific_Procedural_Video_Summarization.md)
+
+    - [翻译: 特定领域程序视频摘要的多模态语言模型](2024年07月07日/Multimodal_Language_Models_for_Domain-Specific_Procedural_Video_Summarization.md)
+
+- [VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool](2024年07月07日/VideoCoT_A_Video_Chain-of-Thought_Dataset_with_Active_Annotation_Tool.md)
+
+    - [翻译: VideoCoT：一款集成了主动注释工具的视频思维链数据集](2024年07月07日/VideoCoT_A_Video_Chain-of-Thought_Dataset_with_Active_Annotation_Tool.md)
+
+2024年07月06日
+
+- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](2024年07月06日/RULE_Reliable_Multimodal_RAG_for_Factuality_in_Medical_Vision_Language_Models.md)
+
+    - [翻译: RULE：医学视觉语言模型中事实性的可靠多模态 RAG](2024年07月06日/RULE_Reliable_Multimodal_RAG_for_Factuality_in_Medical_Vision_Language_Models.md)
+
+- [Enhance the Robustness of Text-Centric Multimodal Alignments](2024年07月06日/Enhance_the_Robustness_of_Text-Centric_Multimodal_Alignments.md)
+
+    - [翻译: 提升文本主导型多模态对齐的稳健性](2024年07月06日/Enhance_the_Robustness_of_Text-Centric_Multimodal_Alignments.md)
+
+- [LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts](2024年07月06日/LogicVista_Multimodal_LLM_Logical_Reasoning_Benchmark_in_Visual_Contexts.md)
+
+    - [翻译: LogicVista：一项针对视觉环境中多模态大型语言模型的逻辑推理基准测试](2024年07月06日/LogicVista_Multimodal_LLM_Logical_Reasoning_Benchmark_in_Visual_Contexts.md)
+
 2024年07月05日
 
 - [Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge](2024年07月05日/Rethinking_Visual_Prompting_for_Multimodal_Large_Language_Models_with_External_Knowledge.md)
@@ -145,6 +187,14 @@
 - [BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks](2024年07月05日/BiosERC_Integrating_Biography_Speakers_Supported_by_LLMs_for_ERC_Tasks.md)
 
     - [翻译: BiosERC：结合 LLM 辅助的传记演讲者，提升 ERC 任务表现](2024年07月05日/BiosERC_Integrating_Biography_Speakers_Supported_by_LLMs_for_ERC_Tasks.md)
+
+- [MMSci: A Multimodal Multi-Discipline Dataset for PhD-Level Scientific Comprehension](2024年07月05日/MMSci_A_Multimodal_Multi-Discipline_Dataset_for_PhD-Level_Scientific_Comprehension.md)
+
+    - [翻译: MMSci：专为博士级科学理解设计的多模态多学科数据集](2024年07月05日/MMSci_A_Multimodal_Multi-Discipline_Dataset_for_PhD-Level_Scientific_Comprehension.md)
+
+- [MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?](2024年07月05日/MJ-Bench_Is_Your_Multimodal_Reward_Model_Really_a_Good_Judge_for_Text-to-Image_Generation.md)
+
+    - [翻译: MJ-Bench 质疑：你的多模态奖励模型在文本到图像生成领域是否真的称职？](2024年07月05日/MJ-Bench_Is_Your_Multimodal_Reward_Model_Really_a_Good_Judge_for_Text-to-Image_Generation.md)
 
 2024年07月04日
 
