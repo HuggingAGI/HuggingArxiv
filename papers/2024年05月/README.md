@@ -560,6 +560,10 @@
 
     - [翻译: 信心感知子结构束搜索（CABS）：大型语言模型在结构化数据生成中减少幻觉的有效策略](2024年05月30日/Confidence-Aware_Sub-Structure_Beam_Search_(CABS)_Mitigating_Hallucination_in_Structured_Data_Generation_with_Large_Language_Models.md)
 
+- [Temporal Grounding of Activities using Multimodal Large Language Models](2024年05月30日/Temporal_Grounding_of_Activities_using_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 借助多模态大型语言模型实现活动的时间锚定](2024年05月30日/Temporal_Grounding_of_Activities_using_Multimodal_Large_Language_Models.md)
+
 2024年05月29日
 
 - [Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation](2024年05月29日/Towards_Next-Generation_Urban_Decision_Support_Systems_through_AI-Powered_Generation_of_Scientific_Ontology_using_Large_Language_Models_--_A_Case_in_Optimizing_Intermodal_Freight_Transportation.md)
@@ -2685,6 +2689,10 @@
 - [Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice](2024年05月21日/Beyond_Code_Generation_An_Observational_Study_of_ChatGPT_Usage_in_Software_Engineering_Practice.md)
 
     - [翻译: 探索ChatGPT在软件工程实践中的多面应用：一项观察性研究](2024年05月21日/Beyond_Code_Generation_An_Observational_Study_of_ChatGPT_Usage_in_Software_Engineering_Practice.md)
+
+- [AI in Manufacturing: Market Analysis and Opportunities](2024年05月21日/AI_in_Manufacturing_Market_Analysis_and_Opportunities.md)
+
+    - [翻译: 制造业中的AI：市场分析与机遇](2024年05月21日/AI_in_Manufacturing_Market_Analysis_and_Opportunities.md)
 
 2024年05月20日
 

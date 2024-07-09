@@ -6,6 +6,38 @@
 
     - [翻译: GenArtist：一款多模态 LLM，作为统一图像生成与编辑的智能代理](2024年07月08日/GenArtist_Multimodal_LLM_as_an_Agent_for_Unified_Image_Generation_and_Editing.md)
 
+- [Multi-label Learning with Random Circular Vectors](2024年07月08日/Multi-label_Learning_with_Random_Circular_Vectors.md)
+
+    - [翻译: 随机循环向量在多标签学习中的应用](2024年07月08日/Multi-label_Learning_with_Random_Circular_Vectors.md)
+
+- [GenFollower: Enhancing Car-Following Prediction with Large Language Models](2024年07月08日/GenFollower_Enhancing_Car-Following_Prediction_with_Large_Language_Models.md)
+
+    - [翻译: GenFollower：借助大型语言模型提升车辆跟随预测的精准度](2024年07月08日/GenFollower_Enhancing_Car-Following_Prediction_with_Large_Language_Models.md)
+
+- [Open-world Multi-label Text Classification with Extremely Weak Supervision](2024年07月08日/Open-world_Multi-label_Text_Classification_with_Extremely_Weak_Supervision.md)
+
+    - [翻译: 极弱监督下的开放世界多标签文本分类](2024年07月08日/Open-world_Multi-label_Text_Classification_with_Extremely_Weak_Supervision.md)
+
+- [Generative Debunking of Climate Misinformation](2024年07月08日/Generative_Debunking_of_Climate_Misinformation.md)
+
+    - [翻译: 揭秘气候谣言的生成式方法](2024年07月08日/Generative_Debunking_of_Climate_Misinformation.md)
+
+- [iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement](2024年07月08日/iLLM-TSC_Integration_reinforcement_learning_and_large_language_model_for_traffic_signal_control_policy_improvement.md)
+
+    - [翻译: iLLM-TSC：融合强化学习与大型语言模型，优化交通信号控制策略](2024年07月08日/iLLM-TSC_Integration_reinforcement_learning_and_large_language_model_for_traffic_signal_control_policy_improvement.md)
+
+- [ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation](2024年07月08日/ANOLE_An_Open,_Autoregressive,_Native_Large_Multimodal_Models_for_Interleaved_Image-Text_Generation.md)
+
+    - [翻译: ANOLE 是一个开放且自回归的原生大型多模态模型，专为交错图像与文本生成而设计。](2024年07月08日/ANOLE_An_Open,_Autoregressive,_Native_Large_Multimodal_Models_for_Interleaved_Image-Text_Generation.md)
+
+- [Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition](2024年07月08日/Cross-domain_Few-shot_In-context_Learning_for_Enhancing_Traffic_Sign_Recognition.md)
+
+    - [翻译: 通过跨域少样本上下文学习提升交通标志识别能力](2024年07月08日/Cross-domain_Few-shot_In-context_Learning_for_Enhancing_Traffic_Sign_Recognition.md)
+
+- [Potential of Multimodal Large Language Models for Data Mining of Medical Images and Free-text Reports](2024年07月08日/Potential_of_Multimodal_Large_Language_Models_for_Data_Mining_of_Medical_Images_and_Free-text_Reports.md)
+
+    - [翻译: 多模态大型语言模型在医学图像与自由文本报告数据挖掘中的应用潜力](2024年07月08日/Potential_of_Multimodal_Large_Language_Models_for_Data_Mining_of_Medical_Images_and_Free-text_Reports.md)
+
 2024年07月07日
 
 - [Collective Innovation in Groups of Large Language Models](2024年07月07日/Collective_Innovation_in_Groups_of_Large_Language_Models.md)
@@ -28,6 +60,90 @@
 
     - [翻译: VideoCoT：一款集成了主动注释工具的视频思维链数据集](2024年07月07日/VideoCoT_A_Video_Chain-of-Thought_Dataset_with_Active_Annotation_Tool.md)
 
+- [: Towards Effective and Efficient Cost Function Design for Safe Reinforcement Learning via Large Language Model](2024年07月07日/_Towards_Effective_and_Efficient_Cost_Function_Design_for_Safe_Reinforcement_Learning_via_Large_Language_Model.md)
+
+    - [翻译: 利用大型语言模型，我们致力于设计既安全又高效的强化学习成本函数。](2024年07月07日/_Towards_Effective_and_Efficient_Cost_Function_Design_for_Safe_Reinforcement_Learning_via_Large_Language_Model.md)
+
+- [LLMBox: A Comprehensive Library for Large Language Models](2024年07月07日/LLMBox_A_Comprehensive_Library_for_Large_Language_Models.md)
+
+    - [翻译: LLMBox：大型语言模型的综合库](2024年07月07日/LLMBox_A_Comprehensive_Library_for_Large_Language_Models.md)
+
+- [Faux Polyglot: A Study on Information Disparity in Multilingual Large Language Models](2024年07月07日/Faux_Polyglot_A_Study_on_Information_Disparity_in_Multilingual_Large_Language_Models.md)
+
+    - [翻译: 《伪多语者》：探究多语言大型模型中的信息鸿沟](2024年07月07日/Faux_Polyglot_A_Study_on_Information_Disparity_in_Multilingual_Large_Language_Models.md)
+
+- [Just read twice: closing the recall gap for recurrent language models](2024年07月07日/Just_read_twice_closing_the_recall_gap_for_recurrent_language_models.md)
+
+    - [翻译: 双读法：助力循环语言模型提升召回率](2024年07月07日/Just_read_twice_closing_the_recall_gap_for_recurrent_language_models.md)
+
+- [Biomedical Nested NER with Large Language Model and UMLS Heuristics](2024年07月07日/Biomedical_Nested_NER_with_Large_Language_Model_and_UMLS_Heuristics.md)
+
+    - [翻译: 结合大型语言模型与UMLS启发式方法的生物医学嵌套NER研究](2024年07月07日/Biomedical_Nested_NER_with_Large_Language_Model_and_UMLS_Heuristics.md)
+
+- [Enhancing Hallucination Detection through Perturbation-Based Synthetic Data Generation in System Responses](2024年07月07日/Enhancing_Hallucination_Detection_through_Perturbation-Based_Synthetic_Data_Generation_in_System_Responses.md)
+
+    - [翻译: 利用基于扰动的合成数据生成技术，提升系统响应中幻觉检测的效能。](2024年07月07日/Enhancing_Hallucination_Detection_through_Perturbation-Based_Synthetic_Data_Generation_in_System_Responses.md)
+
+- [Experiments with truth using Machine Learning: Spectral analysis and explainable classification of synthetic, false, and genuine information](2024年07月07日/Experiments_with_truth_using_Machine_Learning_Spectral_analysis_and_explainable_classification_of_synthetic,_false,_and_genuine_information.md)
+
+    - [翻译: 探索机器学习在真实性实验中的应用：通过光谱分析与可解释分类，揭示合成、虚假与真实信息的奥秘。](2024年07月07日/Experiments_with_truth_using_Machine_Learning_Spectral_analysis_and_explainable_classification_of_synthetic,_false,_and_genuine_information.md)
+
+- [Training Task Experts through Retrieval Based Distillation](2024年07月07日/Training_Task_Experts_through_Retrieval_Based_Distillation.md)
+
+    - [翻译: 利用基于检索的蒸馏技术培养任务专家](2024年07月07日/Training_Task_Experts_through_Retrieval_Based_Distillation.md)
+
+- [Enhancing Computer Programming Education with LLMs: A Study on Effective Prompt Engineering for Python Code Generation](2024年07月07日/Enhancing_Computer_Programming_Education_with_LLMs_A_Study_on_Effective_Prompt_Engineering_for_Python_Code_Generation.md)
+
+    - [翻译: 利用 LLM 提升编程教育：探索 Python 代码生成中的高效提示设计](2024年07月07日/Enhancing_Computer_Programming_Education_with_LLMs_A_Study_on_Effective_Prompt_Engineering_for_Python_Code_Generation.md)
+
+- [LTLBench: Towards Benchmarks for Evaluating Temporal Logic Reasoning in Large Language Models](2024年07月07日/LTLBench_Towards_Benchmarks_for_Evaluating_Temporal_Logic_Reasoning_in_Large_Language_Models.md)
+
+    - [翻译: LTLBench：专为评估大型语言模型中的时间逻辑推理而设计的基准测试](2024年07月07日/LTLBench_Towards_Benchmarks_for_Evaluating_Temporal_Logic_Reasoning_in_Large_Language_Models.md)
+
+- [SBoRA: Low-Rank Adaptation with Regional Weight Updates](2024年07月07日/SBoRA_Low-Rank_Adaptation_with_Regional_Weight_Updates.md)
+
+    - [翻译: SBoRA：通过区域权重更新实现低秩适应](2024年07月07日/SBoRA_Low-Rank_Adaptation_with_Regional_Weight_Updates.md)
+
+- [Assessing Code Generation with Intermediate Languages](2024年07月07日/Assessing_Code_Generation_with_Intermediate_Languages.md)
+
+    - [翻译: 通过中间语言评估代码生成](2024年07月07日/Assessing_Code_Generation_with_Intermediate_Languages.md)
+
+- [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](2024年07月07日/CosyVoice_A_Scalable_Multilingual_Zero-shot_Text-to-speech_Synthesizer_based_on_Supervised_Semantic_Tokens.md)
+
+    - [翻译: CosyVoice：一款基于监督语义令牌的，可扩展的多语言零-shot 文本转语音合成器。](2024年07月07日/CosyVoice_A_Scalable_Multilingual_Zero-shot_Text-to-speech_Synthesizer_based_on_Supervised_Semantic_Tokens.md)
+
+- [ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models](2024年07月07日/ElecBench_a_Power_Dispatch_Evaluation_Benchmark_for_Large_Language_Models.md)
+
+    - [翻译: ElecBench：大型语言模型电力调度评估的基准](2024年07月07日/ElecBench_a_Power_Dispatch_Evaluation_Benchmark_for_Large_Language_Models.md)
+
+- [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](2024年07月07日/Emilia_An_Extensive,_Multilingual,_and_Diverse_Speech_Dataset_for_Large-Scale_Speech_Generation.md)
+
+    - [翻译: Emilia 数据集，涵盖广泛、多语言且多样化，专为大规模语音生成设计。](2024年07月07日/Emilia_An_Extensive,_Multilingual,_and_Diverse_Speech_Dataset_for_Large-Scale_Speech_Generation.md)
+
+- [A Queueing Theoretic Perspective on Low-Latency LLM Inference with Variable Token Length](2024年07月07日/A_Queueing_Theoretic_Perspective_on_Low-Latency_LLM_Inference_with_Variable_Token_Length.md)
+
+    - [翻译: 从排队理论视角出发，解析大型语言模型在可变令牌长度下的低延迟推理](2024年07月07日/A_Queueing_Theoretic_Perspective_on_Low-Latency_LLM_Inference_with_Variable_Token_Length.md)
+
+- [Can Model Uncertainty Function as a Proxy for Multiple-Choice Question Item Difficulty?](2024年07月07日/Can_Model_Uncertainty_Function_as_a_Proxy_for_Multiple-Choice_Question_Item_Difficulty.md)
+
+    - [翻译: 模型不确定性是否能代表多项选择题的难度？](2024年07月07日/Can_Model_Uncertainty_Function_as_a_Proxy_for_Multiple-Choice_Question_Item_Difficulty.md)
+
+- [Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models](2024年07月07日/Enhancing_Label-efficient_Medical_Image_Segmentation_with_Text-guided_Diffusion_Models.md)
+
+    - [翻译: 利用文本引导的扩散模型，提升医学图像分割的标签效率](2024年07月07日/Enhancing_Label-efficient_Medical_Image_Segmentation_with_Text-guided_Diffusion_Models.md)
+
+- [Exploring the Educational Landscape of AI: Large Language Models' Approaches to Explaining Conservation of Momentum in Physics](2024年07月07日/Exploring_the_Educational_Landscape_of_AI_Large_Language_Models'_Approaches_to_Explaining_Conservation_of_Momentum_in_Physics.md)
+
+    - [翻译: 探究AI教育领域：大型语言模型如何解释物理学中的动量守恒](2024年07月07日/Exploring_the_Educational_Landscape_of_AI_Large_Language_Models'_Approaches_to_Explaining_Conservation_of_Momentum_in_Physics.md)
+
+- [UltraEdit: Instruction-based Fine-Grained Image Editing at Scale](2024年07月07日/UltraEdit_Instruction-based_Fine-Grained_Image_Editing_at_Scale.md)
+
+    - [翻译: UltraEdit：大规模基于指令的精细图像编辑](2024年07月07日/UltraEdit_Instruction-based_Fine-Grained_Image_Editing_at_Scale.md)
+
+- [Beyond Binary Gender Labels: Revealing Gender Biases in LLMs through Gender-Neutral Name Predictions](2024年07月07日/Beyond_Binary_Gender_Labels_Revealing_Gender_Biases_in_LLMs_through_Gender-Neutral_Name_Predictions.md)
+
+    - [翻译: 揭秘 LLM 中的性别偏见：从无性别标签的名字预测出发](2024年07月07日/Beyond_Binary_Gender_Labels_Revealing_Gender_Biases_in_LLMs_through_Gender-Neutral_Name_Predictions.md)
+
 2024年07月06日
 
 - [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](2024年07月06日/RULE_Reliable_Multimodal_RAG_for_Factuality_in_Medical_Vision_Language_Models.md)
@@ -41,6 +157,70 @@
 - [LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts](2024年07月06日/LogicVista_Multimodal_LLM_Logical_Reasoning_Benchmark_in_Visual_Contexts.md)
 
     - [翻译: LogicVista：一项针对视觉环境中多模态大型语言模型的逻辑推理基准测试](2024年07月06日/LogicVista_Multimodal_LLM_Logical_Reasoning_Benchmark_in_Visual_Contexts.md)
+
+- [CLIMB: A Benchmark of Clinical Bias in Large Language Models](2024年07月06日/CLIMB_A_Benchmark_of_Clinical_Bias_in_Large_Language_Models.md)
+
+    - [翻译: CLIMB：一项针对大型语言模型中临床偏差的基准研究](2024年07月06日/CLIMB_A_Benchmark_of_Clinical_Bias_in_Large_Language_Models.md)
+
+- [Large Language Model as an Assignment Evaluator: Insights, Feedback, and Challenges in a 1000+ Student Course](2024年07月06日/Large_Language_Model_as_an_Assignment_Evaluator_Insights,_Feedback,_and_Challenges_in_a_1000+_Student_Course.md)
+
+    - [翻译: 大型语言模型在评估作业方面提供了宝贵的见解和反馈，但在处理超过1000名学生的课程时也面临挑战。](2024年07月06日/Large_Language_Model_as_an_Assignment_Evaluator_Insights,_Feedback,_and_Challenges_in_a_1000+_Student_Course.md)
+
+- [BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records](2024年07月06日/BadCLM_Backdoor_Attack_in_Clinical_Language_Models_for_Electronic_Health_Records.md)
+
+    - [翻译: BadCLM：电子健康记录中临床语言模型的后门攻击](2024年07月06日/BadCLM_Backdoor_Attack_in_Clinical_Language_Models_for_Electronic_Health_Records.md)
+
+- [Harnessing the Power of LLMs: Automating Unit Test Generation for High-Performance Computing](2024年07月06日/Harnessing_the_Power_of_LLMs_Automating_Unit_Test_Generation_for_High-Performance_Computing.md)
+
+    - [翻译: 驾驭 LLM 之力：自动生成高性能计算的单元测试](2024年07月06日/Harnessing_the_Power_of_LLMs_Automating_Unit_Test_Generation_for_High-Performance_Computing.md)
+
+- [LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI](2024年07月06日/LLMCloudHunter_Harnessing_LLMs_for_Automated_Extraction_of_Detection_Rules_from_Cloud-Based_CTI.md)
+
+    - [翻译: LLMCloudHunter：借助 LLM 之力，自动化提炼云端 CTI 的检测规则](2024年07月06日/LLMCloudHunter_Harnessing_LLMs_for_Automated_Extraction_of_Detection_Rules_from_Cloud-Based_CTI.md)
+
+- [FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding](2024年07月06日/FlowLearn_Evaluating_Large_Vision-Language_Models_on_Flowchart_Understanding.md)
+
+    - [翻译: FlowLearn：评估大型视觉-语言模型在流程图理解方面的表现](2024年07月06日/FlowLearn_Evaluating_Large_Vision-Language_Models_on_Flowchart_Understanding.md)
+
+- [Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps](2024年07月06日/Feedback-Driven_Automated_Whole_Bug_Report_Reproduction_for_Android_Apps.md)
+
+    - [翻译: 安卓应用的反馈驱动自动化错误报告重现](2024年07月06日/Feedback-Driven_Automated_Whole_Bug_Report_Reproduction_for_Android_Apps.md)
+
+- [Lucy: Think and Reason to Solve Text-to-SQL](2024年07月06日/Lucy_Think_and_Reason_to_Solve_Text-to-SQL.md)
+
+    - [翻译: Lucy：运用思考与推理，攻克 Text-to-SQL 难题](2024年07月06日/Lucy_Think_and_Reason_to_Solve_Text-to-SQL.md)
+
+- [Vortex under Ripplet: An Empirical Study of RAG-enabled Applications](2024年07月06日/Vortex_under_Ripplet_An_Empirical_Study_of_RAG-enabled_Applications.md)
+
+    - [翻译: Ripplet下的涡旋：RAG应用实证研究](2024年07月06日/Vortex_under_Ripplet_An_Empirical_Study_of_RAG-enabled_Applications.md)
+
+- [Solving for X and Beyond: Can Large Language Models Solve Complex Math Problems with More-Than-Two Unknowns?](2024年07月06日/Solving_for_X_and_Beyond_Can_Large_Language_Models_Solve_Complex_Math_Problems_with_More-Than-Two_Unknowns.md)
+
+    - [翻译: 大型语言模型能否破解包含多于两个未知数的复杂数学难题？这一挑战正待揭晓。](2024年07月06日/Solving_for_X_and_Beyond_Can_Large_Language_Models_Solve_Complex_Math_Problems_with_More-Than-Two_Unknowns.md)
+
+- [SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding](2024年07月06日/SHINE_Saliency-aware_HIerarchical_NEgative_Ranking_for_Compositional_Temporal_Grounding.md)
+
+    - [翻译: SHINE：基于显著性感知的层次负排序技术，用于组合时态定位任务](2024年07月06日/SHINE_Saliency-aware_HIerarchical_NEgative_Ranking_for_Compositional_Temporal_Grounding.md)
+
+- [Leveraging Task-Specific Knowledge from LLM for Semi-Supervised 3D Medical Image Segmentation](2024年07月06日/Leveraging_Task-Specific_Knowledge_from_LLM_for_Semi-Supervised_3D_Medical_Image_Segmentation.md)
+
+    - [翻译: 借助 LLM 中的任务特定知识，实现半监督式 3D 医学图像分割](2024年07月06日/Leveraging_Task-Specific_Knowledge_from_LLM_for_Semi-Supervised_3D_Medical_Image_Segmentation.md)
+
+- [Code Less, Align More: Efficient LLM Fine-tuning for Code Generation with Data Pruning](2024年07月06日/Code_Less,_Align_More_Efficient_LLM_Fine-tuning_for_Code_Generation_with_Data_Pruning.md)
+
+    - [翻译: 精简代码，强化对齐：利用数据修剪提升代码生成的 LLM 微调效率](2024年07月06日/Code_Less,_Align_More_Efficient_LLM_Fine-tuning_for_Code_Generation_with_Data_Pruning.md)
+
+- [Preference Distillation for Personalized Generative Recommendation](2024年07月06日/Preference_Distillation_for_Personalized_Generative_Recommendation.md)
+
+    - [翻译: 个性化生成推荐中的偏好蒸馏](2024年07月06日/Preference_Distillation_for_Personalized_Generative_Recommendation.md)
+
+- [How do you know that? Teaching Generative Language Models to Reference Answers to Biomedical Questions](2024年07月06日/How_do_you_know_that_Teaching_Generative_Language_Models_to_Reference_Answers_to_Biomedical_Questions.md)
+
+    - [翻译: 如何得知？引导生成语言模型参照生物医学问题的答案](2024年07月06日/How_do_you_know_that_Teaching_Generative_Language_Models_to_Reference_Answers_to_Biomedical_Questions.md)
+
+- [Progress or Regress? Self-Improvement Reversal in Post-training](2024年07月06日/Progress_or_Regress_Self-Improvement_Reversal_in_Post-training.md)
+
+    - [翻译: 是进步还是退步？训练后的自我提升出现了逆转现象。](2024年07月06日/Progress_or_Regress_Self-Improvement_Reversal_in_Post-training.md)
 
 2024年07月05日
 
@@ -195,6 +375,10 @@
 - [MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?](2024年07月05日/MJ-Bench_Is_Your_Multimodal_Reward_Model_Really_a_Good_Judge_for_Text-to-Image_Generation.md)
 
     - [翻译: MJ-Bench 质疑：你的多模态奖励模型在文本到图像生成领域是否真的称职？](2024年07月05日/MJ-Bench_Is_Your_Multimodal_Reward_Model_Really_a_Good_Judge_for_Text-to-Image_Generation.md)
+
+- [RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations](2024年07月05日/RAMO_Retrieval-Augmented_Generation_for_Enhancing_MOOCs_Recommendations.md)
+
+    - [翻译: RAMO：通过检索增强生成技术，提升 MOOCs 推荐效果](2024年07月05日/RAMO_Retrieval-Augmented_Generation_for_Enhancing_MOOCs_Recommendations.md)
 
 2024年07月04日
 
