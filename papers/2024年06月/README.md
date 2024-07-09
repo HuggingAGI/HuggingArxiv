@@ -4554,6 +4554,10 @@
 
     - [翻译: 量化技术对小型LLMs增强检索生成能力的影响分析](2024年06月10日/The_Impact_of_Quantization_on_Retrieval-Augmented_Generation_An_Analysis_of_Small_LLMs.md)
 
+- [Compositional Video Generation as Flow Equalization](2024年06月10日/Compositional_Video_Generation_as_Flow_Equalization.md)
+
+    - [翻译: 视频生成的组合方法，如同流量均衡的艺术](2024年06月10日/Compositional_Video_Generation_as_Flow_Equalization.md)
+
 2024年06月09日
 
 - [STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models](2024年06月09日/STARLING_Self-supervised_Training_of_Text-based_Reinforcement_Learning_Agent_with_Large_Language_Models.md)
