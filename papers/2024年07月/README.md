@@ -1,5 +1,35 @@
 # 2024年07月
 
+2024年07月09日
+
+- [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](2024年07月09日/Internet_of_Agents_Weaving_a_Web_of_Heterogeneous_Agents_for_Collaborative_Intelligence.md)
+
+    - [翻译: 互联网代理网络：构建一个多元化的代理网络，以促进智能协作](2024年07月09日/Internet_of_Agents_Weaving_a_Web_of_Heterogeneous_Agents_for_Collaborative_Intelligence.md)
+
+- [PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods](2024年07月09日/PEER_Expertizing_Domain-Specific_Tasks_with_a_Multi-Agent_Framework_and_Tuning_Methods.md)
+
+    - [翻译: PEER 利用多代理框架与调优方法，精通特定领域任务。](2024年07月09日/PEER_Expertizing_Domain-Specific_Tasks_with_a_Multi-Agent_Framework_and_Tuning_Methods.md)
+
+- [Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models](2024年07月09日/Hypothetical_Minds_Scaffolding_Theory_of_Mind_for_Multi-Agent_Tasks_with_Large_Language_Models.md)
+
+    - [翻译: 假设心灵：借助大型语言模型，为多智能体任务构建心灵理论的支撑框架](2024年07月09日/Hypothetical_Minds_Scaffolding_Theory_of_Mind_for_Multi-Agent_Tasks_with_Large_Language_Models.md)
+
+- [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](2024年07月09日/FinCon_A_Synthesized_LLM_Multi-Agent_System_with_Conceptual_Verbal_Reinforcement_for_Enhanced_Financial_Decision_Making.md)
+
+    - [翻译: FinCon：一款集成了概念性语言强化技术的合成 LLM 多智能体系统，旨在提升财务决策的精准度。](2024年07月09日/FinCon_A_Synthesized_LLM_Multi-Agent_System_with_Conceptual_Verbal_Reinforcement_for_Enhanced_Financial_Decision_Making.md)
+
+- [Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model](2024年07月09日/Multimodal_Self-Instruct_Synthetic_Abstract_Image_and_Visual_Reasoning_Instruction_Using_Language_Model.md)
+
+    - [翻译: 多模态自我指导：借助语言模型，合成抽象图像并进行视觉推理指导](2024年07月09日/Multimodal_Self-Instruct_Synthetic_Abstract_Image_and_Visual_Reasoning_Instruction_Using_Language_Model.md)
+
+- [Explicit Modelling of Theory of Mind for Belief Prediction in Nonverbal Social Interactions](2024年07月09日/Explicit_Modelling_of_Theory_of_Mind_for_Belief_Prediction_in_Nonverbal_Social_Interactions.md)
+
+    - [翻译: 在非言语社交互动中，显式建模心智理论以预测信念](2024年07月09日/Explicit_Modelling_of_Theory_of_Mind_for_Belief_Prediction_in_Nonverbal_Social_Interactions.md)
+
+- [Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](2024年07月09日/Richelieu_Self-Evolving_LLM-Based_Agents_for_AI_Diplomacy.md)
+
+    - [翻译: Richelieu：自进化 LLM 驱动的 AI 外交智能体](2024年07月09日/Richelieu_Self-Evolving_LLM-Based_Agents_for_AI_Diplomacy.md)
+
 2024年07月08日
 
 - [GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing](2024年07月08日/GenArtist_Multimodal_LLM_as_an_Agent_for_Unified_Image_Generation_and_Editing.md)
@@ -189,6 +219,22 @@
 - [Retrieved In-Context Principles from Previous Mistakes](2024年07月08日/Retrieved_In-Context_Principles_from_Previous_Mistakes.md)
 
     - [翻译: 汲取过往失误中的上下文原则](2024年07月08日/Retrieved_In-Context_Principles_from_Previous_Mistakes.md)
+
+- [DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations](2024年07月08日/DebUnc_Mitigating_Hallucinations_in_Large_Language_Model_Agent_Communication_with_Uncertainty_Estimations.md)
+
+    - [翻译: DebUnc：利用不确定性估计，有效减少大型语言模型代理通信中的幻觉现象。](2024年07月08日/DebUnc_Mitigating_Hallucinations_in_Large_Language_Model_Agent_Communication_with_Uncertainty_Estimations.md)
+
+- [SimPal: Towards a Meta-Conversational Framework to Understand Teacher's Instructional Goals for K-12 Physics](2024年07月08日/SimPal_Towards_a_Meta-Conversational_Framework_to_Understand_Teacher's_Instructional_Goals_for_K-12_Physics.md)
+
+    - [翻译: SimPal：构建元对话框架，深入解析 K-12 物理教学中教师的指导目标](2024年07月08日/SimPal_Towards_a_Meta-Conversational_Framework_to_Understand_Teacher's_Instructional_Goals_for_K-12_Physics.md)
+
+- [Multimodal Chain-of-Thought Reasoning via ChatGPT to Protect Children from Age-Inappropriate Apps](2024年07月08日/Multimodal_Chain-of-Thought_Reasoning_via_ChatGPT_to_Protect_Children_from_Age-Inappropriate_Apps.md)
+
+    - [翻译: 利用 ChatGPT 进行多模态思维链推理，守护儿童远离不适龄应用的侵害](2024年07月08日/Multimodal_Chain-of-Thought_Reasoning_via_ChatGPT_to_Protect_Children_from_Age-Inappropriate_Apps.md)
+
+- [VIMI: Grounding Video Generation through Multi-modal Instruction](2024年07月08日/VIMI_Grounding_Video_Generation_through_Multi-modal_Instruction.md)
+
+    - [翻译: VIMI：借助多模态指令，奠定视频生成之基石](2024年07月08日/VIMI_Grounding_Video_Generation_through_Multi-modal_Instruction.md)
 
 2024年07月07日
 
