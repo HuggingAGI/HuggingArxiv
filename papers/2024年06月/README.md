@@ -1452,6 +1452,10 @@
 
     - [翻译: 居中调整：优化位置注意力偏差，提升长上下文的有效利用](2024年06月23日/Found_in_the_Middle_Calibrating_Positional_Attention_Bias_Improves_Long_Context_Utilization.md)
 
+- [Understanding is Compression](2024年06月23日/Understanding_is_Compression.md)
+
+    - [翻译: 理解，实为一种压缩。](2024年06月23日/Understanding_is_Compression.md)
+
 2024年06月22日
 
 - [Enhancing Cross-Document Event Coreference Resolution by Discourse Structure and Semantic Information](2024年06月22日/Enhancing_Cross-Document_Event_Coreference_Resolution_by_Discourse_Structure_and_Semantic_Information.md)
@@ -2561,6 +2565,10 @@
 - [On the Principles behind Opinion Dynamics in Multi-Agent Systems of Large Language Models](2024年06月18日/On_the_Principles_behind_Opinion_Dynamics_in_Multi-Agent_Systems_of_Large_Language_Models.md)
 
     - [翻译: 大规模语言模型多代理系统中意见动态的原理探究](2024年06月18日/On_the_Principles_behind_Opinion_Dynamics_in_Multi-Agent_Systems_of_Large_Language_Models.md)
+
+- [Nash CoT: Multi-Path Inference with Preference Equilibrium](2024年06月18日/Nash_CoT_Multi-Path_Inference_with_Preference_Equilibrium.md)
+
+    - [翻译: Nash CoT：实现偏好均衡的多路径推理](2024年06月18日/Nash_CoT_Multi-Path_Inference_with_Preference_Equilibrium.md)
 
 2024年06月17日
 

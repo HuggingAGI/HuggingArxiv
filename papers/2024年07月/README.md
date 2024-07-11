@@ -38,6 +38,114 @@
 
     - [翻译: 大型视觉-语言模型面临的攻击：资源、进展与未来展望](2024年07月10日/A_Survey_of_Attacks_on_Large_Vision-Language_Models_Resources,_Advances,_and_Future_Trends.md)
 
+- [Training on the Test Task Confounds Evaluation and Emergence](2024年07月10日/Training_on_the_Test_Task_Confounds_Evaluation_and_Emergence.md)
+
+    - [翻译: 在测试任务上训练，评估与结果的混淆随之而来。](2024年07月10日/Training_on_the_Test_Task_Confounds_Evaluation_and_Emergence.md)
+
+- [Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization](2024年07月10日/Towards_Robust_Alignment_of_Language_Models_Distributionally_Robustifying_Direct_Preference_Optimization.md)
+
+    - [翻译: 致力于提升语言模型的对齐稳健性：通过分布式稳健化方法优化直接偏好](2024年07月10日/Towards_Robust_Alignment_of_Language_Models_Distributionally_Robustifying_Direct_Preference_Optimization.md)
+
+- [OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training](2024年07月10日/OpenDiLoCo_An_Open-Source_Framework_for_Globally_Distributed_Low-Communication_Training.md)
+
+    - [翻译: OpenDiLoCo：一款开源框架，专为全球分布式低通信训练设计。](2024年07月10日/OpenDiLoCo_An_Open-Source_Framework_for_Globally_Distributed_Low-Communication_Training.md)
+
+- [OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion](2024年07月10日/OV-DINO_Unified_Open-Vocabulary_Detection_with_Language-Aware_Selective_Fusion.md)
+
+    - [翻译: OV-DINO：结合语言感知选择性融合的统一开放词汇检测技术](2024年07月10日/OV-DINO_Unified_Open-Vocabulary_Detection_with_Language-Aware_Selective_Fusion.md)
+
+- [Transformer Alignment in Large Language Models](2024年07月10日/Transformer_Alignment_in_Large_Language_Models.md)
+
+    - [翻译: 大规模语言模型中的 Transformer 对齐](2024年07月10日/Transformer_Alignment_in_Large_Language_Models.md)
+
+- [ROSA: Random Subspace Adaptation for Efficient Fine-Tuning](2024年07月10日/ROSA_Random_Subspace_Adaptation_for_Efficient_Fine-Tuning.md)
+
+    - [翻译: ROSA：通过随机子空间适应实现高效微调](2024年07月10日/ROSA_Random_Subspace_Adaptation_for_Efficient_Fine-Tuning.md)
+
+- [Attribute or Abstain: Large Language Models as Long Document Assistants](2024年07月10日/Attribute_or_Abstain_Large_Language_Models_as_Long_Document_Assistants.md)
+
+    - [翻译: 大型语言模型：长文档的得力助手还是选择放弃？](2024年07月10日/Attribute_or_Abstain_Large_Language_Models_as_Long_Document_Assistants.md)
+
+- [Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard](2024年07月10日/Evaluating_Large_Language_Models_with_Grid-Based_Game_Competitions_An_Extensible_LLM_Benchmark_and_Leaderboard.md)
+
+    - [翻译: 通过基于网格的游戏竞赛评估大型语言模型：打造一个可扩展的 LLM 基准与排行榜](2024年07月10日/Evaluating_Large_Language_Models_with_Grid-Based_Game_Competitions_An_Extensible_LLM_Benchmark_and_Leaderboard.md)
+
+- [Can ChatGPT Pass a Theory of Computing Course?](2024年07月10日/Can_ChatGPT_Pass_a_Theory_of_Computing_Course.md)
+
+    - [翻译: ChatGPT 能否在计算理论课程中取得及格？](2024年07月10日/Can_ChatGPT_Pass_a_Theory_of_Computing_Course.md)
+
+- [Fine-Tuning Large Language Models with User-Level Differential Privacy](2024年07月10日/Fine-Tuning_Large_Language_Models_with_User-Level_Differential_Privacy.md)
+
+    - [翻译: 针对大型语言模型进行微调，同时确保用户级差分隐私。](2024年07月10日/Fine-Tuning_Large_Language_Models_with_User-Level_Differential_Privacy.md)
+
+- [A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability](2024年07月10日/A_Proposed_S.C.O.R.E._Evaluation_Framework_for_Large_Language_Models__Safety,_Consensus,_Objectivity,_Reproducibility_and_Explainability.md)
+
+    - [翻译: 我们提出了一种名为 S.C.O.R.E. 的评估框架，旨在从安全性、共识、客观性、可重复性和可解释性五个维度全面评估大型语言模型。](2024年07月10日/A_Proposed_S.C.O.R.E._Evaluation_Framework_for_Large_Language_Models__Safety,_Consensus,_Objectivity,_Reproducibility_and_Explainability.md)
+
+- [Tuning Vision-Language Models with Candidate Labels by Prompt Alignment](2024年07月10日/Tuning_Vision-Language_Models_with_Candidate_Labels_by_Prompt_Alignment.md)
+
+    - [翻译: 通过提示对齐优化候选标签的视觉-语言模型](2024年07月10日/Tuning_Vision-Language_Models_with_Candidate_Labels_by_Prompt_Alignment.md)
+
+- [A Review of the Challenges with Massive Web-mined Corpora Used in Large Language Models Pre-Training](2024年07月10日/A_Review_of_the_Challenges_with_Massive_Web-mined_Corpora_Used_in_Large_Language_Models_Pre-Training.md)
+
+    - [翻译: 大规模网络挖掘语料库在大型语言模型预训练中的挑战概览](2024年07月10日/A_Review_of_the_Challenges_with_Massive_Web-mined_Corpora_Used_in_Large_Language_Models_Pre-Training.md)
+
+- [IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model](2024年07月10日/IDA-VLM_Towards_Movie_Understanding_via_ID-Aware_Large_Vision-Language_Model.md)
+
+    - [翻译: IDA-VLM：借助 ID-Aware 大型视觉-语言模型，迈向电影深度理解](2024年07月10日/IDA-VLM_Towards_Movie_Understanding_via_ID-Aware_Large_Vision-Language_Model.md)
+
+- [HebDB: a Weakly Supervised Dataset for Hebrew Speech Processing](2024年07月10日/HebDB_a_Weakly_Supervised_Dataset_for_Hebrew_Speech_Processing.md)
+
+    - [翻译: HebDB：专为希伯来语语音处理设计的弱监督数据集](2024年07月10日/HebDB_a_Weakly_Supervised_Dataset_for_Hebrew_Speech_Processing.md)
+
+- [On Leakage of Code Generation Evaluation Datasets](2024年07月10日/On_Leakage_of_Code_Generation_Evaluation_Datasets.md)
+
+    - [翻译: 代码生成评估数据集的泄露问题](2024年07月10日/On_Leakage_of_Code_Generation_Evaluation_Datasets.md)
+
+- [Arabic Automatic Story Generation with Large Language Models](2024年07月10日/Arabic_Automatic_Story_Generation_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型助力阿拉伯自动故事生成](2024年07月10日/Arabic_Automatic_Story_Generation_with_Large_Language_Models.md)
+
+- [Beyond Benchmarking: A New Paradigm for Evaluation and Assessment of Large Language Models](2024年07月10日/Beyond_Benchmarking_A_New_Paradigm_for_Evaluation_and_Assessment_of_Large_Language_Models.md)
+
+    - [翻译: 跳出基准测试框架，我们提出了一种评估大型语言模型的新范式。](2024年07月10日/Beyond_Benchmarking_A_New_Paradigm_for_Evaluation_and_Assessment_of_Large_Language_Models.md)
+
+- [SHERL: Synthesizing High Accuracy and Efficient Memory for Resource-Limited Transfer Learning](2024年07月10日/SHERL_Synthesizing_High_Accuracy_and_Efficient_Memory_for_Resource-Limited_Transfer_Learning.md)
+
+    - [翻译: SHERL：针对资源受限的迁移学习，实现高准确度与内存效率的合成](2024年07月10日/SHERL_Synthesizing_High_Accuracy_and_Efficient_Memory_for_Resource-Limited_Transfer_Learning.md)
+
+- [Bucket Pre-training is All You Need](2024年07月10日/Bucket_Pre-training_is_All_You_Need.md)
+
+    - [翻译: 仅需 Bucket 预训练，一切尽在掌握](2024年07月10日/Bucket_Pre-training_is_All_You_Need.md)
+
+- [Review-LLM: Harnessing Large Language Models for Personalized Review Generation](2024年07月10日/Review-LLM_Harnessing_Large_Language_Models_for_Personalized_Review_Generation.md)
+
+    - [翻译: Review-LLM：借助大型语言模型，打造个性化评论生成工具](2024年07月10日/Review-LLM_Harnessing_Large_Language_Models_for_Personalized_Review_Generation.md)
+
+- [Rectifier: Code Translation with Corrector via LLMs](2024年07月10日/Rectifier_Code_Translation_with_Corrector_via_LLMs.md)
+
+    - [翻译: Rectifier：利用 LLM 实现代码翻译与校正](2024年07月10日/Rectifier_Code_Translation_with_Corrector_via_LLMs.md)
+
+- [GLBench: A Comprehensive Benchmark for Graph with Large Language Models](2024年07月10日/GLBench_A_Comprehensive_Benchmark_for_Graph_with_Large_Language_Models.md)
+
+    - [翻译: GLBench：专为大型语言模型设计的图处理全面基准](2024年07月10日/GLBench_A_Comprehensive_Benchmark_for_Graph_with_Large_Language_Models.md)
+
+- [Controllable Navigation Instruction Generation with Chain of Thought Prompting](2024年07月10日/Controllable_Navigation_Instruction_Generation_with_Chain_of_Thought_Prompting.md)
+
+    - [翻译: 通过思维链提示实现可控的导航指令生成](2024年07月10日/Controllable_Navigation_Instruction_Generation_with_Chain_of_Thought_Prompting.md)
+
+- [CHOP: Integrating ChatGPT into EFL Oral Presentation Practice](2024年07月10日/CHOP_Integrating_ChatGPT_into_EFL_Oral_Presentation_Practice.md)
+
+    - [翻译: CHOP：融合 ChatGPT 于 EFL 口语展示训练](2024年07月10日/CHOP_Integrating_ChatGPT_into_EFL_Oral_Presentation_Practice.md)
+
+- [Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems](2024年07月10日/Malicious_Path_Manipulations_via_Exploitation_of_Representation_Vulnerabilities_of_Vision-Language_Navigation_Systems.md)
+
+    - [翻译: 恶意路径操纵：利用视觉-语言导航系统的表示漏洞](2024年07月10日/Malicious_Path_Manipulations_via_Exploitation_of_Representation_Vulnerabilities_of_Vision-Language_Navigation_Systems.md)
+
+- [LokiLM: Technical Report](2024年07月10日/LokiLM_Technical_Report.md)
+
+    - [翻译: LokiLM 技术报告](2024年07月10日/LokiLM_Technical_Report.md)
+
 2024年07月09日
 
 - [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](2024年07月09日/Internet_of_Agents_Weaving_a_Web_of_Heterogeneous_Agents_for_Collaborative_Intelligence.md)
@@ -219,6 +327,58 @@
 - [LETS-C: Leveraging Language Embedding for Time Series Classification](2024年07月09日/LETS-C_Leveraging_Language_Embedding_for_Time_Series_Classification.md)
 
     - [翻译: LETS-C：借助语言嵌入技术，革新时间序列分类方法](2024年07月09日/LETS-C_Leveraging_Language_Embedding_for_Time_Series_Classification.md)
+
+- [Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixture](2024年07月09日/Multilingual_Blending_LLM_Safety_Alignment_Evaluation_with_Language_Mixture.md)
+
+    - [翻译: 多语言融合：评估 LLM 安全对齐与语言混合](2024年07月09日/Multilingual_Blending_LLM_Safety_Alignment_Evaluation_with_Language_Mixture.md)
+
+- [MixSumm: Topic-based Data Augmentation using LLMs for Low-resource Extractive Text Summarization](2024年07月09日/MixSumm_Topic-based_Data_Augmentation_using_LLMs_for_Low-resource_Extractive_Text_Summarization.md)
+
+    - [翻译: MixSumm：利用 LLM 为低资源抽取式文本摘要提供主题基础的数据增强方法](2024年07月09日/MixSumm_Topic-based_Data_Augmentation_using_LLMs_for_Low-resource_Extractive_Text_Summarization.md)
+
+- [Interpretable Differential Diagnosis with Dual-Inference Large Language Models](2024年07月09日/Interpretable_Differential_Diagnosis_with_Dual-Inference_Large_Language_Models.md)
+
+    - [翻译: 双重推理大型语言模型助力可解释的差异诊断](2024年07月09日/Interpretable_Differential_Diagnosis_with_Dual-Inference_Large_Language_Models.md)
+
+- [Probability of Differentiation Reveals Brittleness of Homogeneity Bias in Large Language Models](2024年07月09日/Probability_of_Differentiation_Reveals_Brittleness_of_Homogeneity_Bias_in_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型中的同质性偏见，其脆弱性在不同化的概率中显露无疑。](2024年07月09日/Probability_of_Differentiation_Reveals_Brittleness_of_Homogeneity_Bias_in_Large_Language_Models.md)
+
+- [RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension](2024年07月09日/RAG_vs._Long_Context_Examining_Frontier_Large_Language_Models_for_Environmental_Review_Document_Comprehension.md)
+
+    - [翻译: 探究前沿大型语言模型在环境审查文件理解中的表现：RAG 与长上下文的对比研究](2024年07月09日/RAG_vs._Long_Context_Examining_Frontier_Large_Language_Models_for_Environmental_Review_Document_Comprehension.md)
+
+- [CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging](2024年07月09日/CosmoCLIP_Generalizing_Large_Vision-Language_Models_for_Astronomical_Imaging.md)
+
+    - [翻译: CosmoCLIP：拓展大型视觉-语言模型至天文影像领域](2024年07月09日/CosmoCLIP_Generalizing_Large_Vision-Language_Models_for_Astronomical_Imaging.md)
+
+- [ESM+: Modern Insights into Perspective on Text-to-SQL Evaluation in the Age of Large Language Models](2024年07月09日/ESM+_Modern_Insights_into_Perspective_on_Text-to-SQL_Evaluation_in_the_Age_of_Large_Language_Models.md)
+
+    - [翻译: ESM+：探索大规模语言模型时代下文本到SQL评估的新视角](2024年07月09日/ESM+_Modern_Insights_into_Perspective_on_Text-to-SQL_Evaluation_in_the_Age_of_Large_Language_Models.md)
+
+- [ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting](2024年07月09日/ViTime_A_Visual_Intelligence-Based_Foundation_Model_for_Time_Series_Forecasting.md)
+
+    - [翻译: ViTime：一款基于视觉智能的时间序列预测基础模型](2024年07月09日/ViTime_A_Visual_Intelligence-Based_Foundation_Model_for_Time_Series_Forecasting.md)
+
+- [Inference Performance Optimization for Large Language Models on CPUs](2024年07月09日/Inference_Performance_Optimization_for_Large_Language_Models_on_CPUs.md)
+
+    - [翻译: CPU环境下大型语言模型的推理性能优化](2024年07月09日/Inference_Performance_Optimization_for_Large_Language_Models_on_CPUs.md)
+
+- [Large Language Model-Augmented Auto-Delineation of Treatment Target Volume in Radiation Therapy](2024年07月09日/Large_Language_Model-Augmented_Auto-Delineation_of_Treatment_Target_Volume_in_Radiation_Therapy.md)
+
+    - [翻译: 大型语言模型助力放射治疗中治疗目标体积的自动勾画](2024年07月09日/Large_Language_Model-Augmented_Auto-Delineation_of_Treatment_Target_Volume_in_Radiation_Therapy.md)
+
+- [ConvNLP: Image-based AI Text Detection](2024年07月09日/ConvNLP_Image-based_AI_Text_Detection.md)
+
+    - [翻译: ConvNLP：探索基于图像的AI文本检测技术](2024年07月09日/ConvNLP_Image-based_AI_Text_Detection.md)
+
+- [Large Language Models for Wearable Sensor-Based Human Activity Recognition, Health Monitoring, and Behavioral Modeling: A Survey of Early Trends, Datasets, and Challenges](2024年07月09日/Large_Language_Models_for_Wearable_Sensor-Based_Human_Activity_Recognition,_Health_Monitoring,_and_Behavioral_Modeling_A_Survey_of_Early_Trends,_Datasets,_and_Challenges.md)
+
+    - [翻译: 大型语言模型在可穿戴传感器领域的人类活动识别、健康监测及行为建模中的应用：探索早期发展、数据集及面临的挑战](2024年07月09日/Large_Language_Models_for_Wearable_Sensor-Based_Human_Activity_Recognition,_Health_Monitoring,_and_Behavioral_Modeling_A_Survey_of_Early_Trends,_Datasets,_and_Challenges.md)
+
+- [TrackFormers: In Search of Transformer-Based Particle Tracking for the High-Luminosity LHC Era](2024年07月09日/TrackFormers_In_Search_of_Transformer-Based_Particle_Tracking_for_the_High-Luminosity_LHC_Era.md)
+
+    - [翻译: TrackFormers：探索高亮度LHC时代基于Transformer的粒子跟踪技术](2024年07月09日/TrackFormers_In_Search_of_Transformer-Based_Particle_Tracking_for_the_High-Luminosity_LHC_Era.md)
 
 2024年07月08日
 
