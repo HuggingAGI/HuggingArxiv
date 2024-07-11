@@ -5060,6 +5060,10 @@
 
     - [翻译: 语言引导下的技能探索](2024年06月07日/Language_Guided_Skill_Discovery.md)
 
+- [Mixture-of-Agents Enhances Large Language Model Capabilities](2024年06月07日/Mixture-of-Agents_Enhances_Large_Language_Model_Capabilities.md)
+
+    - [翻译: 混合代理技术提升了大型语言模型的性能](2024年06月07日/Mixture-of-Agents_Enhances_Large_Language_Model_Capabilities.md)
+
 2024年06月06日
 
 - [AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](2024年06月06日/AgentGym_Evolving_Large_Language_Model-based_Agents_across_Diverse_Environments.md)
