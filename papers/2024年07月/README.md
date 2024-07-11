@@ -1,5 +1,43 @@
 # 2024年07月
 
+2024年07月10日
+
+- [FACTS About Building Retrieval Augmented Generation-based Chatbots](2024年07月10日/FACTS_About_Building_Retrieval_Augmented_Generation-based_Chatbots.md)
+
+    - [翻译: 构建基于检索增强生成的聊天机器人要点解析](2024年07月10日/FACTS_About_Building_Retrieval_Augmented_Generation-based_Chatbots.md)
+
+- [Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities](2024年07月10日/Flooding_Spread_of_Manipulated_Knowledge_in_LLM-Based_Multi-Agent_Communities.md)
+
+    - [翻译: 在基于LLM的多智能体社区中，操纵知识的泛滥现象](2024年07月10日/Flooding_Spread_of_Manipulated_Knowledge_in_LLM-Based_Multi-Agent_Communities.md)
+
+- [Natural Language Mechanisms via Self-Resolution with Foundation Models](2024年07月10日/Natural_Language_Mechanisms_via_Self-Resolution_with_Foundation_Models.md)
+
+    - [翻译: 基于基础模型的自我解析机制在自然语言处理中的应用](2024年07月10日/Natural_Language_Mechanisms_via_Self-Resolution_with_Foundation_Models.md)
+
+- [WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment](2024年07月10日/WorldAPIs_The_World_Is_Worth_How_Many_APIs_A_Thought_Experiment.md)
+
+    - [翻译: WorldAPIs：探寻世界的API价值，一场思想实验之旅](2024年07月10日/WorldAPIs_The_World_Is_Worth_How_Many_APIs_A_Thought_Experiment.md)
+
+- [Teaching Transformers Causal Reasoning through Axiomatic Training](2024年07月10日/Teaching_Transformers_Causal_Reasoning_through_Axiomatic_Training.md)
+
+    - [翻译: 通过公理化训练，引导 Transformer 掌握因果推理的艺术。](2024年07月10日/Teaching_Transformers_Causal_Reasoning_through_Axiomatic_Training.md)
+
+- [LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models](2024年07月10日/LLaVA-NeXT-Interleave_Tackling_Multi-image,_Video,_and_3D_in_Large_Multimodal_Models.md)
+
+    - [翻译: LLaVA-NeXT-Interleave 技术旨在解决大规模多模态模型中的多图像、视频及3D内容处理问题。](2024年07月10日/LLaVA-NeXT-Interleave_Tackling_Multi-image,_Video,_and_3D_in_Large_Multimodal_Models.md)
+
+- [AffectGPT: Dataset and Framework for Explainable Multimodal Emotion Recognition](2024年07月10日/AffectGPT_Dataset_and_Framework_for_Explainable_Multimodal_Emotion_Recognition.md)
+
+    - [翻译: AffectGPT：一个专为可解释多模态情感识别设计的数据集与框架](2024年07月10日/AffectGPT_Dataset_and_Framework_for_Explainable_Multimodal_Emotion_Recognition.md)
+
+- [InstructLayout: Instruction-Driven 2D and 3D Layout Synthesis with Semantic Graph Prior](2024年07月10日/InstructLayout_Instruction-Driven_2D_and_3D_Layout_Synthesis_with_Semantic_Graph_Prior.md)
+
+    - [翻译: InstructLayout：融合语义图先验的指令驱动二维与三维布局合成技术](2024年07月10日/InstructLayout_Instruction-Driven_2D_and_3D_Layout_Synthesis_with_Semantic_Graph_Prior.md)
+
+- [A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](2024年07月10日/A_Survey_of_Attacks_on_Large_Vision-Language_Models_Resources,_Advances,_and_Future_Trends.md)
+
+    - [翻译: 大型视觉-语言模型面临的攻击：资源、进展与未来展望](2024年07月10日/A_Survey_of_Attacks_on_Large_Vision-Language_Models_Resources,_Advances,_and_Future_Trends.md)
+
 2024年07月09日
 
 - [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](2024年07月09日/Internet_of_Agents_Weaving_a_Web_of_Heterogeneous_Agents_for_Collaborative_Intelligence.md)
