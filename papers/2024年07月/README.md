@@ -1,5 +1,55 @@
 # 2024年07月
 
+2024年07月11日
+
+- [Investigating LLMs as Voting Assistants via Contextual Augmentation: A Case Study on the European Parliament Elections 2024](2024年07月11日/Investigating_LLMs_as_Voting_Assistants_via_Contextual_Augmentation_A_Case_Study_on_the_European_Parliament_Elections_2024.md)
+
+    - [翻译: 探索 LLM 在上下文增强下的投票助理角色：2024 年欧洲议会选举实证研究](2024年07月11日/Investigating_LLMs_as_Voting_Assistants_via_Contextual_Augmentation_A_Case_Study_on_the_European_Parliament_Elections_2024.md)
+
+- [GTA: A Benchmark for General Tool Agents](2024年07月11日/GTA_A_Benchmark_for_General_Tool_Agents.md)
+
+    - [翻译: GTA：通用工具代理的评测标杆](2024年07月11日/GTA_A_Benchmark_for_General_Tool_Agents.md)
+
+- [Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility](2024年07月11日/Incorporating_Large_Language_Models_into_Production_Systems_for_Enhanced_Task_Automation_and_Flexibility.md)
+
+    - [翻译: 整合大型语言模型至生产系统，提升任务自动化与灵活性](2024年07月11日/Incorporating_Large_Language_Models_into_Production_Systems_for_Enhanced_Task_Automation_and_Flexibility.md)
+
+- [Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents](2024年07月11日/Converging_Paradigms_The_Synergy_of_Symbolic_and_Connectionist_AI_in_LLM-Empowered_Autonomous_Agents.md)
+
+    - [翻译: 融合范式：符号与连接主义 AI 在 LLM 赋能自主代理中的协同效应](2024年07月11日/Converging_Paradigms_The_Synergy_of_Symbolic_and_Connectionist_AI_in_LLM-Empowered_Autonomous_Agents.md)
+
+- [Beyond Instruction Following: Evaluating Rule Following of Large Language Models](2024年07月11日/Beyond_Instruction_Following_Evaluating_Rule_Following_of_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型在遵循规则方面的表现，超越了简单的指令执行。](2024年07月11日/Beyond_Instruction_Following_Evaluating_Rule_Following_of_Large_Language_Models.md)
+
+- [PrefCLM: Enhancing Preference-based Reinforcement Learning with Crowdsourced Large Language Models](2024年07月11日/PrefCLM_Enhancing_Preference-based_Reinforcement_Learning_with_Crowdsourced_Large_Language_Models.md)
+
+    - [翻译: PrefCLM：利用众包大型语言模型提升基于偏好的强化学习效果](2024年07月11日/PrefCLM_Enhancing_Preference-based_Reinforcement_Learning_with_Crowdsourced_Large_Language_Models.md)
+
+- [SEED-Story: Multimodal Long Story Generation with Large Language Model](2024年07月11日/SEED-Story_Multimodal_Long_Story_Generation_with_Large_Language_Model.md)
+
+    - [翻译: SEED-Story：利用大型语言模型创作多模态长篇故事](2024年07月11日/SEED-Story_Multimodal_Long_Story_Generation_with_Large_Language_Model.md)
+
+- [Emergent Visual-Semantic Hierarchies in Image-Text Representations](2024年07月11日/Emergent_Visual-Semantic_Hierarchies_in_Image-Text_Representations.md)
+
+    - [翻译: 图像-文本表示中涌现的视觉-语义层次结构](2024年07月11日/Emergent_Visual-Semantic_Hierarchies_in_Image-Text_Representations.md)
+
+- [DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception](2024年07月11日/DenseFusion-1M_Merging_Vision_Experts_for_Comprehensive_Multimodal_Perception.md)
+
+    - [翻译: DenseFusion-1M：汇聚视觉专家之力，打造全面多模态感知新境界](2024年07月11日/DenseFusion-1M_Merging_Vision_Experts_for_Comprehensive_Multimodal_Perception.md)
+
+- [GeNet: A Multimodal LLM-Based Co-Pilot for Network Topology and Configuration](2024年07月11日/GeNet_A_Multimodal_LLM-Based_Co-Pilot_for_Network_Topology_and_Configuration.md)
+
+    - [翻译: GeNet：一款基于多模态大型语言模型的网络拓扑与配置辅助工具](2024年07月11日/GeNet_A_Multimodal_LLM-Based_Co-Pilot_for_Network_Topology_and_Configuration.md)
+
+- [Multimodal contrastive learning for spatial gene expression prediction using histology images](2024年07月11日/Multimodal_contrastive_learning_for_spatial_gene_expression_prediction_using_histology_images.md)
+
+    - [翻译: 通过组织学图像预测空间基因表达，我们采用了多模态对比学习方法。](2024年07月11日/Multimodal_contrastive_learning_for_spatial_gene_expression_prediction_using_histology_images.md)
+
+- [SoupLM: Model Integration in Large Language and Multi-Modal Models](2024年07月11日/SoupLM_Model_Integration_in_Large_Language_and_Multi-Modal_Models.md)
+
+    - [翻译: SoupLM：融合大型语言与多模态模型中的模型集成技术](2024年07月11日/SoupLM_Model_Integration_in_Large_Language_and_Multi-Modal_Models.md)
+
 2024年07月10日
 
 - [FACTS About Building Retrieval Augmented Generation-based Chatbots](2024年07月10日/FACTS_About_Building_Retrieval_Augmented_Generation-based_Chatbots.md)
@@ -145,6 +195,14 @@
 - [LokiLM: Technical Report](2024年07月10日/LokiLM_Technical_Report.md)
 
     - [翻译: LokiLM 技术报告](2024年07月10日/LokiLM_Technical_Report.md)
+
+- [Virtual Agents for Alcohol Use Counseling: Exploring LLM-Powered Motivational Interviewing](2024年07月10日/Virtual_Agents_for_Alcohol_Use_Counseling_Exploring_LLM-Powered_Motivational_Interviewing.md)
+
+    - [翻译: 探索由 LLM 驱动的虚拟代理在酒精使用咨询中的动机性访谈应用。](2024年07月10日/Virtual_Agents_for_Alcohol_Use_Counseling_Exploring_LLM-Powered_Motivational_Interviewing.md)
+
+- [RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization](2024年07月10日/RoLoRA_Fine-tuning_Rotated_Outlier-free_LLMs_for_Effective_Weight-Activation_Quantization.md)
+
+    - [翻译: RoLoRA：通过微调无异常值的旋转 LLM，实现高效的权重-激活量化。](2024年07月10日/RoLoRA_Fine-tuning_Rotated_Outlier-free_LLMs_for_Effective_Weight-Activation_Quantization.md)
 
 2024年07月09日
 
