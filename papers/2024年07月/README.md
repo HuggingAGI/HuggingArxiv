@@ -50,6 +50,170 @@
 
     - [翻译: SoupLM：融合大型语言与多模态模型中的模型集成技术](2024年07月11日/SoupLM_Model_Integration_in_Large_Language_and_Multi-Modal_Models.md)
 
+- [MAVIS: Mathematical Visual Instruction Tuning](2024年07月11日/MAVIS_Mathematical_Visual_Instruction_Tuning.md)
+
+    - [翻译: MAVIS：数学视觉指令的微调](2024年07月11日/MAVIS_Mathematical_Visual_Instruction_Tuning.md)
+
+- [Real-Time Anomaly Detection and Reactive Planning with Large Language Models](2024年07月11日/Real-Time_Anomaly_Detection_and_Reactive_Planning_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型在实时异常检测与反应性规划中的应用](2024年07月11日/Real-Time_Anomaly_Detection_and_Reactive_Planning_with_Large_Language_Models.md)
+
+- [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](2024年07月11日/Is_Your_Model_Really_A_Good_Math_Reasoner_Evaluating_Mathematical_Reasoning_with_Checklist.md)
+
+    - [翻译: 你的模型是否真的擅长数学推理？通过检查清单来评估其数学推理能力。](2024年07月11日/Is_Your_Model_Really_A_Good_Math_Reasoner_Evaluating_Mathematical_Reasoning_with_Checklist.md)
+
+- [A Taxonomy for Data Contamination in Large Language Models](2024年07月11日/A_Taxonomy_for_Data_Contamination_in_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型数据污染的分类体系](2024年07月11日/A_Taxonomy_for_Data_Contamination_in_Large_Language_Models.md)
+
+- [HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models](2024年07月11日/HiRes-LLaVA_Restoring_Fragmentation_Input_in_High-Resolution_Large_Vision-Language_Models.md)
+
+    - [翻译: HiRes-LLaVA：修复高分辨率视觉-语言模型中的碎片输入](2024年07月11日/HiRes-LLaVA_Restoring_Fragmentation_Input_in_High-Resolution_Large_Vision-Language_Models.md)
+
+- [Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models](2024年07月11日/Live2Diff_Live_Stream_Translation_via_Uni-directional_Attention_in_Video_Diffusion_Models.md)
+
+    - [翻译: Live2Diff：利用视频扩散模型中的单向注意力技术，实现直播流的实时翻译。](2024年07月11日/Live2Diff_Live_Stream_Translation_via_Uni-directional_Attention_in_Video_Diffusion_Models.md)
+
+- [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](2024年07月11日/Mitigating_Catastrophic_Forgetting_in_Language_Transfer_via_Model_Merging.md)
+
+    - [翻译: 利用模型合并策略，有效缓解语言迁移过程中的灾难性遗忘问题。](2024年07月11日/Mitigating_Catastrophic_Forgetting_in_Language_Transfer_via_Model_Merging.md)
+
+- [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](2024年07月11日/Cloud_Atlas_Efficient_Fault_Localization_for_Cloud_Systems_using_Language_Models_and_Causal_Insight.md)
+
+    - [翻译: 云图：结合语言模型与因果洞察，实现云系统故障的精准定位。](2024年07月11日/Cloud_Atlas_Efficient_Fault_Localization_for_Cloud_Systems_using_Language_Models_and_Causal_Insight.md)
+
+- [Robotic Control via Embodied Chain-of-Thought Reasoning](2024年07月11日/Robotic_Control_via_Embodied_Chain-of-Thought_Reasoning.md)
+
+    - [翻译: 机器人控制：基于具身思维链的智能推理](2024年07月11日/Robotic_Control_via_Embodied_Chain-of-Thought_Reasoning.md)
+
+- [Uncertainty Estimation of Large Language Models in Medical Question Answering](2024年07月11日/Uncertainty_Estimation_of_Large_Language_Models_in_Medical_Question_Answering.md)
+
+    - [翻译: 在医学问答领域，大型语言模型的不确定性评估](2024年07月11日/Uncertainty_Estimation_of_Large_Language_Models_in_Medical_Question_Answering.md)
+
+- [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](2024年07月11日/Towards_Building_Specialized_Generalist_AI_with_System_1_and_System_2_Fusion.md)
+
+    - [翻译: 探索通过系统1与系统2的融合，打造专才与通才兼备的AI之路](2024年07月11日/Towards_Building_Specialized_Generalist_AI_with_System_1_and_System_2_Fusion.md)
+
+- [$β$-DPO: Direct Preference Optimization with Dynamic $β$](2024年07月11日/$β$-DPO_Direct_Preference_Optimization_with_Dynamic_$β$.md)
+
+    - [翻译: 动态 $β$ 直接偏好优化（$β$-DPO）](2024年07月11日/$β$-DPO_Direct_Preference_Optimization_with_Dynamic_$β$.md)
+
+- [RoboMorph: Evolving Robot Morphology using Large Language Models](2024年07月11日/RoboMorph_Evolving_Robot_Morphology_using_Large_Language_Models.md)
+
+    - [翻译: RoboMorph：借助大型语言模型，探索机器人形态的进化之路](2024年07月11日/RoboMorph_Evolving_Robot_Morphology_using_Large_Language_Models.md)
+
+- [Tamil Language Computing: the Present and the Future](2024年07月11日/Tamil_Language_Computing_the_Present_and_the_Future.md)
+
+    - [翻译: 泰米尔语计算：现状展望与未来趋势](2024年07月11日/Tamil_Language_Computing_the_Present_and_the_Future.md)
+
+- [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](2024年07月11日/FlashAttention-3_Fast_and_Accurate_Attention_with_Asynchrony_and_Low-precision.md)
+
+    - [翻译: FlashAttention-3：借助异步处理与低精度计算，实现高效且精准的注意力机制。](2024年07月11日/FlashAttention-3_Fast_and_Accurate_Attention_with_Asynchrony_and_Low-precision.md)
+
+- [Turn-Level Empathy Prediction Using Psychological Indicators](2024年07月11日/Turn-Level_Empathy_Prediction_Using_Psychological_Indicators.md)
+
+    - [翻译: 基于心理指标的回合级共情预测](2024年07月11日/Turn-Level_Empathy_Prediction_Using_Psychological_Indicators.md)
+
+- [The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective](2024年07月11日/The_Synergy_between_Data_and_Multi-Modal_Large_Language_Models_A_Survey_from_Co-Development_Perspective.md)
+
+    - [翻译: 数据与多模态大型语言模型的协同效应：协同开发视角的探索](2024年07月11日/The_Synergy_between_Data_and_Multi-Modal_Large_Language_Models_A_Survey_from_Co-Development_Perspective.md)
+
+- [On the Universal Truthfulness Hyperplane Inside LLMs](2024年07月11日/On_the_Universal_Truthfulness_Hyperplane_Inside_LLMs.md)
+
+    - [翻译: 探索 LLM 内部的真实性普遍性](2024年07月11日/On_the_Universal_Truthfulness_Hyperplane_Inside_LLMs.md)
+
+- [The Career Interests of Large Language Models](2024年07月11日/The_Career_Interests_of_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型的职业倾向](2024年07月11日/The_Career_Interests_of_Large_Language_Models.md)
+
+- [Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion](2024年07月11日/Vox_Populi,_Vox_AI_Using_Language_Models_to_Estimate_German_Public_Opinion.md)
+
+    - [翻译: 民意即AI之声？借助语言模型洞察德国民意](2024年07月11日/Vox_Populi,_Vox_AI_Using_Language_Models_to_Estimate_German_Public_Opinion.md)
+
+- [Tactics, Techniques, and Procedures (TTPs) in Interpreted Malware: A Zero-Shot Generation with Large Language Models](2024年07月11日/Tactics,_Techniques,_and_Procedures_(TTPs)_in_Interpreted_Malware_A_Zero-Shot_Generation_with_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型对解释型恶意软件的 TTPs 进行零-shot 生成研究](2024年07月11日/Tactics,_Techniques,_and_Procedures_(TTPs)_in_Interpreted_Malware_A_Zero-Shot_Generation_with_Large_Language_Models.md)
+
+- [15M Multimodal Facial Image-Text Dataset](2024年07月11日/15M_Multimodal_Facial_Image-Text_Dataset.md)
+
+    - [翻译: 1500万面部图像与文本多模态数据集](2024年07月11日/15M_Multimodal_Facial_Image-Text_Dataset.md)
+
+- [Lynx: An Open Source Hallucination Evaluation Model](2024年07月11日/Lynx_An_Open_Source_Hallucination_Evaluation_Model.md)
+
+    - [翻译: Lynx：一款开源的幻觉评估工具](2024年07月11日/Lynx_An_Open_Source_Hallucination_Evaluation_Model.md)
+
+- [Investigating Public Fine-Tuning Datasets: A Complex Review of Current Practices from a Construction Perspective](2024年07月11日/Investigating_Public_Fine-Tuning_Datasets_A_Complex_Review_of_Current_Practices_from_a_Construction_Perspective.md)
+
+    - [翻译: 从构建视角深入探讨公共微调数据集的现状与挑战](2024年07月11日/Investigating_Public_Fine-Tuning_Datasets_A_Complex_Review_of_Current_Practices_from_a_Construction_Perspective.md)
+
+- [DIDUP: Dynamic Iterative Development for UI Prototyping](2024年07月11日/DIDUP_Dynamic_Iterative_Development_for_UI_Prototyping.md)
+
+    - [翻译: DIDUP：为 UI 原型设计带来动态迭代开发](2024年07月11日/DIDUP_Dynamic_Iterative_Development_for_UI_Prototyping.md)
+
+- [Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation](2024年07月11日/Natural_language_is_not_enough_Benchmarking_multi-modal_generative_AI_for_Verilog_generation.md)
+
+    - [翻译: 仅凭自然语言远远不够：我们正在为 Verilog 生成任务，对多模态生成 AI 进行基准测试。](2024年07月11日/Natural_language_is_not_enough_Benchmarking_multi-modal_generative_AI_for_Verilog_generation.md)
+
+- [Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks](2024年07月11日/Model_Tells_You_Where_to_Merge_Adaptive_KV_Cache_Merging_for_LLMs_on_Long-Context_Tasks.md)
+
+    - [翻译: 模型指引合并时机：为长上下文任务中的LLMs量身定制的KV缓存智能合并策略](2024年07月11日/Model_Tells_You_Where_to_Merge_Adaptive_KV_Cache_Merging_for_LLMs_on_Long-Context_Tasks.md)
+
+- [Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation](2024年07月11日/Are_Large_Language_Models_Really_Bias-Free_Jailbreak_Prompts_for_Assessing_Adversarial_Robustness_to_Bias_Elicitation.md)
+
+    - [翻译: 大型语言模型真的无偏见吗？通过“越狱”提示评估对抗性鲁健对偏见引发的挑战。](2024年07月11日/Are_Large_Language_Models_Really_Bias-Free_Jailbreak_Prompts_for_Assessing_Adversarial_Robustness_to_Bias_Elicitation.md)
+
+- [Self-training Language Models for Arithmetic Reasoning](2024年07月11日/Self-training_Language_Models_for_Arithmetic_Reasoning.md)
+
+    - [翻译: 算术推理中的语言模型自我训练](2024年07月11日/Self-training_Language_Models_for_Arithmetic_Reasoning.md)
+
+- [On the attribution of confidence to large language models](2024年07月11日/On_the_attribution_of_confidence_to_large_language_models.md)
+
+    - [翻译: 探讨大型语言模型的信心归属问题](2024年07月11日/On_the_attribution_of_confidence_to_large_language_models.md)
+
+- [Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On](2024年07月11日/Skywork-Math_Data_Scaling_Laws_for_Mathematical_Reasoning_in_Large_Language_Models_--_The_Story_Goes_On.md)
+
+    - [翻译: Skywork-Math：探究大型语言模型中数学推理的数据缩放规律，故事仍在继续。](2024年07月11日/Skywork-Math_Data_Scaling_Laws_for_Mathematical_Reasoning_in_Large_Language_Models_--_The_Story_Goes_On.md)
+
+- [Towards Explainable Evolution Strategies with Large Language Models](2024年07月11日/Towards_Explainable_Evolution_Strategies_with_Large_Language_Models.md)
+
+    - [翻译: 探索大型语言模型在可解释进化策略中的应用](2024年07月11日/Towards_Explainable_Evolution_Strategies_with_Large_Language_Models.md)
+
+- [Leveraging GPT for the Generation of Multi-Platform Social Media Datasets for Research](2024年07月11日/Leveraging_GPT_for_the_Generation_of_Multi-Platform_Social_Media_Datasets_for_Research.md)
+
+    - [翻译: 借助 GPT 技术，我们致力于生成跨平台的社交媒体数据集，以支持广泛的研究工作。](2024年07月11日/Leveraging_GPT_for_the_Generation_of_Multi-Platform_Social_Media_Datasets_for_Research.md)
+
+- [Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients](2024年07月11日/Q-GaLore_Quantized_GaLore_with_INT4_Projection_and_Layer-Adaptive_Low-Rank_Gradients.md)
+
+    - [翻译: Q-GaLore：结合 INT4 投影与层适应低秩梯度的量化 GaLore技术](2024年07月11日/Q-GaLore_Quantized_GaLore_with_INT4_Projection_and_Layer-Adaptive_Low-Rank_Gradients.md)
+
+- [Continually Learn to Map Visual Concepts to Large Language Models in Resource-constrained Environments](2024年07月11日/Continually_Learn_to_Map_Visual_Concepts_to_Large_Language_Models_in_Resource-constrained_Environments.md)
+
+    - [翻译: 在资源有限的环境下，持续探索将视觉概念与大型语言模型相连接的学习之道。](2024年07月11日/Continually_Learn_to_Map_Visual_Concepts_to_Large_Language_Models_in_Resource-constrained_Environments.md)
+
+- [RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL](2024年07月11日/RB-SQL_A_Retrieval-based_LLM_Framework_for_Text-to-SQL.md)
+
+    - [翻译: RB-SQL：一款基于检索的 LLM 框架，专为文本转 SQL 设计。](2024年07月11日/RB-SQL_A_Retrieval-based_LLM_Framework_for_Text-to-SQL.md)
+
+- [Toward accessible comics for blind and low vision readers](2024年07月11日/Toward_accessible_comics_for_blind_and_low_vision_readers.md)
+
+    - [翻译: 让漫画触手可及：为视障读者开辟新世界](2024年07月11日/Toward_accessible_comics_for_blind_and_low_vision_readers.md)
+
+- [Leveraging LLMs to Predict Affective States via Smartphone Sensor Features](2024年07月11日/Leveraging_LLMs_to_Predict_Affective_States_via_Smartphone_Sensor_Features.md)
+
+    - [翻译: 借助 LLM，我们能通过智能手机的传感器特征来预测情感状态。](2024年07月11日/Leveraging_LLMs_to_Predict_Affective_States_via_Smartphone_Sensor_Features.md)
+
+- [DALL-M: Context-Aware Clinical Data Augmentation with LLMs](2024年07月11日/DALL-M_Context-Aware_Clinical_Data_Augmentation_with_LLMs.md)
+
+    - [翻译: DALL-M：利用大型语言模型实现上下文感知的临床数据增强](2024年07月11日/DALL-M_Context-Aware_Clinical_Data_Augmentation_with_LLMs.md)
+
+- [Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](2024年07月11日/Speculative_RAG_Enhancing_Retrieval_Augmented_Generation_through_Drafting.md)
+
+    - [翻译: 推测性RAG：借助草稿增强检索生成能力](2024年07月11日/Speculative_RAG_Enhancing_Retrieval_Augmented_Generation_through_Drafting.md)
+
+- [Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems](2024年07月11日/Beyond_Benchmarks_Evaluating_Embedding_Model_Similarity_for_Retrieval_Augmented_Generation_Systems.md)
+
+    - [翻译: 不仅仅是基准测试：探讨增强检索生成系统中嵌入模型相似性的评估方法](2024年07月11日/Beyond_Benchmarks_Evaluating_Embedding_Model_Similarity_for_Retrieval_Augmented_Generation_Systems.md)
+
 2024年07月10日
 
 - [FACTS About Building Retrieval Augmented Generation-based Chatbots](2024年07月10日/FACTS_About_Building_Retrieval_Augmented_Generation-based_Chatbots.md)
@@ -203,6 +367,10 @@
 - [RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization](2024年07月10日/RoLoRA_Fine-tuning_Rotated_Outlier-free_LLMs_for_Effective_Weight-Activation_Quantization.md)
 
     - [翻译: RoLoRA：通过微调无异常值的旋转 LLM，实现高效的权重-激活量化。](2024年07月10日/RoLoRA_Fine-tuning_Rotated_Outlier-free_LLMs_for_Effective_Weight-Activation_Quantization.md)
+
+- [Evaluating Voice Command Pipelines for Drone Control: From STT and LLM to Direct Classification and Siamese Networks](2024年07月10日/Evaluating_Voice_Command_Pipelines_for_Drone_Control_From_STT_and_LLM_to_Direct_Classification_and_Siamese_Networks.md)
+
+    - [翻译: 探索无人机语音控制：从语音识别到大型语言模型，再到直接分类与孪生网络的应用。](2024年07月10日/Evaluating_Voice_Command_Pipelines_for_Drone_Control_From_STT_and_LLM_to_Direct_Classification_and_Siamese_Networks.md)
 
 2024年07月09日
 
@@ -1275,6 +1443,10 @@
 - [A Survey of Controllable Learning: Methods and Applications in Information Retrieval](2024年07月04日/A_Survey_of_Controllable_Learning_Methods_and_Applications_in_Information_Retrieval.md)
 
     - [翻译: 探索可控学习：揭秘信息检索领域的技术与应用](2024年07月04日/A_Survey_of_Controllable_Learning_Methods_and_Applications_in_Information_Retrieval.md)
+
+- [CaseGPT: a case reasoning framework based on language models and retrieval-augmented generation](2024年07月04日/CaseGPT_a_case_reasoning_framework_based_on_language_models_and_retrieval-augmented_generation.md)
+
+    - [翻译: CaseGPT：一种结合语言模型与检索增强技术的案例推理框架](2024年07月04日/CaseGPT_a_case_reasoning_framework_based_on_language_models_and_retrieval-augmented_generation.md)
 
 2024年07月03日
 
