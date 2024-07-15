@@ -42,6 +42,158 @@
 
     - [翻译: 多模态大型语言模型中拒绝安全提示](2024年07月12日/Refusing_Safe_Prompts_for_Multi-modal_Large_Language_Models.md)
 
+- [FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3](2024年07月12日/FairyLandAI_Personalized_Fairy_Tales_utilizing_ChatGPT_and_DALLE-3.md)
+
+    - [翻译: FairyLandAI：借助 ChatGPT 与 DALLE-3，打造专属童话世界](2024年07月12日/FairyLandAI_Personalized_Fairy_Tales_utilizing_ChatGPT_and_DALLE-3.md)
+
+- [Human-like Episodic Memory for Infinite Context LLMs](2024年07月12日/Human-like_Episodic_Memory_for_Infinite_Context_LLMs.md)
+
+    - [翻译: 为无限上下文 LLM 设计类人情节记忆](2024年07月12日/Human-like_Episodic_Memory_for_Infinite_Context_LLMs.md)
+
+- [ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts](2024年07月12日/ASTPrompter_Weakly_Supervised_Automated_Language_Model_Red-Teaming_to_Identify_Likely_Toxic_Prompts.md)
+
+    - [翻译: ASTPrompter：通过弱监督自动化手段，对语言模型进行红队测试，以识别潜在的有毒提示。](2024年07月12日/ASTPrompter_Weakly_Supervised_Automated_Language_Model_Red-Teaming_to_Identify_Likely_Toxic_Prompts.md)
+
+- [MUSCLE: A Model Update Strategy for Compatible LLM Evolution](2024年07月12日/MUSCLE_A_Model_Update_Strategy_for_Compatible_LLM_Evolution.md)
+
+    - [翻译: MUSCLE：一种促进 LLM 兼容进化的模型更新策略](2024年07月12日/MUSCLE_A_Model_Update_Strategy_for_Compatible_LLM_Evolution.md)
+
+- [Open (Clinical) LLMs are Sensitive to Instruction Phrasings](2024年07月12日/Open_(Clinical)_LLMs_are_Sensitive_to_Instruction_Phrasings.md)
+
+    - [翻译: 临床大型语言模型对指令的表述方式颇为敏感。](2024年07月12日/Open_(Clinical)_LLMs_are_Sensitive_to_Instruction_Phrasings.md)
+
+- [TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models](2024年07月12日/TelecomGPT_A_Framework_to_Build_Telecom-Specfic_Large_Language_Models.md)
+
+    - [翻译: TelecomGPT：打造电信专属大型语言模型的框架](2024年07月12日/TelecomGPT_A_Framework_to_Build_Telecom-Specfic_Large_Language_Models.md)
+
+- [GAVEL: Generating Games Via Evolution and Language Models](2024年07月12日/GAVEL_Generating_Games_Via_Evolution_and_Language_Models.md)
+
+    - [翻译: GAVEL：借助进化与语言模型创造游戏](2024年07月12日/GAVEL_Generating_Games_Via_Evolution_and_Language_Models.md)
+
+- [Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text](2024年07月12日/Is_Contrasting_All_You_Need_Contrastive_Learning_for_the_Detection_and_Attribution_of_AI-generated_Text.md)
+
+    - [翻译: 对比学习是否已足够？探讨其在 AI 生成文本检测与归因中的应用。](2024年07月12日/Is_Contrasting_All_You_Need_Contrastive_Learning_for_the_Detection_and_Attribution_of_AI-generated_Text.md)
+
+- [A Preliminary Investigation on Flexible Singing Voice Synthesis Through Decomposed Framework with Inferrable Features](2024年07月12日/A_Preliminary_Investigation_on_Flexible_Singing_Voice_Synthesis_Through_Decomposed_Framework_with_Inferrable_Features.md)
+
+    - [翻译: 本研究初步探索了利用分解框架和可推断特征实现灵活歌唱声音合成的方法。](2024年07月12日/A_Preliminary_Investigation_on_Flexible_Singing_Voice_Synthesis_Through_Decomposed_Framework_with_Inferrable_Features.md)
+
+- [Good Intentions, Risky Inventions: A Method for Assessing the Risks and Benefits of AI in Mobile and Wearable Uses](2024年07月12日/Good_Intentions,_Risky_Inventions_A_Method_for_Assessing_the_Risks_and_Benefits_of_AI_in_Mobile_and_Wearable_Uses.md)
+
+    - [翻译: 善意的创新，风险并存：评估 AI 在移动与穿戴设备中利弊的方法](2024年07月12日/Good_Intentions,_Risky_Inventions_A_Method_for_Assessing_the_Risks_and_Benefits_of_AI_in_Mobile_and_Wearable_Uses.md)
+
+- [Scalability of Bayesian Network Structure Elicitation with Large Language Models: a Novel Methodology and Comparative Analysis](2024年07月12日/Scalability_of_Bayesian_Network_Structure_Elicitation_with_Large_Language_Models_a_Novel_Methodology_and_Comparative_Analysis.md)
+
+    - [翻译: 大型语言模型在贝叶斯网络结构启发中的可扩展性：创新方法论与对比分析](2024年07月12日/Scalability_of_Bayesian_Network_Structure_Elicitation_with_Large_Language_Models_a_Novel_Methodology_and_Comparative_Analysis.md)
+
+- [Transformer Layers as Painters](2024年07月12日/Transformer_Layers_as_Painters.md)
+
+    - [翻译: Transformer 层如同画家](2024年07月12日/Transformer_Layers_as_Painters.md)
+
+- [CEIPA: Counterfactual Explainable Incremental Prompt Attack Analysis on Large Language Models](2024年07月12日/CEIPA_Counterfactual_Explainable_Incremental_Prompt_Attack_Analysis_on_Large_Language_Models.md)
+
+    - [翻译: CEIPA：针对大型语言模型的反事实可解释增量提示攻击分析](2024年07月12日/CEIPA_Counterfactual_Explainable_Incremental_Prompt_Attack_Analysis_on_Large_Language_Models.md)
+
+- [Structuring Authenticity Assessments on Historical Documents using LLMs](2024年07月12日/Structuring_Authenticity_Assessments_on_Historical_Documents_using_LLMs.md)
+
+    - [翻译: 利用大型语言模型构建历史文件真实性评估框架](2024年07月12日/Structuring_Authenticity_Assessments_on_Historical_Documents_using_LLMs.md)
+
+- [DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection](2024年07月12日/DAHRS_Divergence-Aware_Hallucination-Remediated_SRL_Projection.md)
+
+    - [翻译: DAHRS：一种偏差感知型幻觉修正语义角色标注投影技术](2024年07月12日/DAHRS_Divergence-Aware_Hallucination-Remediated_SRL_Projection.md)
+
+- [Predicting and Understanding Human Action Decisions: Insights from Large Language Models and Cognitive Instance-Based Learning](2024年07月12日/Predicting_and_Understanding_Human_Action_Decisions_Insights_from_Large_Language_Models_and_Cognitive_Instance-Based_Learning.md)
+
+    - [翻译: 探索人类行为决策的预测与理解，结合大型语言模型与认知实例学习的洞见](2024年07月12日/Predicting_and_Understanding_Human_Action_Decisions_Insights_from_Large_Language_Models_and_Cognitive_Instance-Based_Learning.md)
+
+- [FedsLLM: Federated Split Learning for Large Language Models over Communication Networks](2024年07月12日/FedsLLM_Federated_Split_Learning_for_Large_Language_Models_over_Communication_Networks.md)
+
+    - [翻译: FedsLLM：通信网络中大型语言模型的联邦分割学习](2024年07月12日/FedsLLM_Federated_Split_Learning_for_Large_Language_Models_over_Communication_Networks.md)
+
+- [The Sociolinguistic Foundations of Language Modeling](2024年07月12日/The_Sociolinguistic_Foundations_of_Language_Modeling.md)
+
+    - [翻译: 语言模型的社会语言学根基](2024年07月12日/The_Sociolinguistic_Foundations_of_Language_Modeling.md)
+
+- [Prompts First, Finally](2024年07月12日/Prompts_First,_Finally.md)
+
+    - [翻译: 先提示，后收尾](2024年07月12日/Prompts_First,_Finally.md)
+
+- [Pronunciation Assessment with Multi-modal Large Language Models](2024年07月12日/Pronunciation_Assessment_with_Multi-modal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型在发音评估中的应用](2024年07月12日/Pronunciation_Assessment_with_Multi-modal_Large_Language_Models.md)
+
+- [TAPI: Towards Target-Specific and Adversarial Prompt Injection against Code LLMs](2024年07月12日/TAPI_Towards_Target-Specific_and_Adversarial_Prompt_Injection_against_Code_LLMs.md)
+
+    - [翻译: TAPI：针对代码大型语言模型的目标特定与对抗性提示注入策略](2024年07月12日/TAPI_Towards_Target-Specific_and_Adversarial_Prompt_Injection_against_Code_LLMs.md)
+
+- [The Two Sides of the Coin: Hallucination Generation and Detection with LLMs as Evaluators for LLMs](2024年07月12日/The_Two_Sides_of_the_Coin_Hallucination_Generation_and_Detection_with_LLMs_as_Evaluators_for_LLMs.md)
+
+    - [翻译: 幻觉生成与检测：LLM 的双重角色](2024年07月12日/The_Two_Sides_of_the_Coin_Hallucination_Generation_and_Detection_with_LLMs_as_Evaluators_for_LLMs.md)
+
+- [Accuracy is Not All You Need](2024年07月12日/Accuracy_is_Not_All_You_Need.md)
+
+    - [翻译: 准确性并非唯一追求](2024年07月12日/Accuracy_is_Not_All_You_Need.md)
+
+- [Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors](2024年07月12日/Stepwise_Verification_and_Remediation_of_Student_Reasoning_Errors_with_Large_Language_Model_Tutors.md)
+
+    - [翻译: 通过大型语言模型导师，逐步验证并纠正学生的推理错误](2024年07月12日/Stepwise_Verification_and_Remediation_of_Student_Reasoning_Errors_with_Large_Language_Model_Tutors.md)
+
+- [Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training](2024年07月12日/Refuse_Whenever_You_Feel_Unsafe_Improving_Safety_in_LLMs_via_Decoupled_Refusal_Training.md)
+
+    - [翻译: 在感到不安全时勇敢说“不”：通过解耦拒绝训练策略，提升 LLM 的安全性。](2024年07月12日/Refuse_Whenever_You_Feel_Unsafe_Improving_Safety_in_LLMs_via_Decoupled_Refusal_Training.md)
+
+- [Inference Optimization of Foundation Models on AI Accelerators](2024年07月12日/Inference_Optimization_of_Foundation_Models_on_AI_Accelerators.md)
+
+    - [翻译: AI加速器上基础模型的推理优化](2024年07月12日/Inference_Optimization_of_Foundation_Models_on_AI_Accelerators.md)
+
+- [STD-LLM: Understanding Both Spatial and Temporal Properties of Spatial-Temporal Data with LLMs](2024年07月12日/STD-LLM_Understanding_Both_Spatial_and_Temporal_Properties_of_Spatial-Temporal_Data_with_LLMs.md)
+
+    - [翻译: STD-LLM：借助 LLM 深入探索空间-时间数据的时空特性](2024年07月12日/STD-LLM_Understanding_Both_Spatial_and_Temporal_Properties_of_Spatial-Temporal_Data_with_LLMs.md)
+
+- [Lomics: Generation of Pathways and Gene Sets using Large Language Models for Transcriptomic Analysis](2024年07月12日/Lomics_Generation_of_Pathways_and_Gene_Sets_using_Large_Language_Models_for_Transcriptomic_Analysis.md)
+
+    - [翻译: Lomics：借助大型语言模型，我们生成通路和基因集，以助力转录组分析的深入探索。](2024年07月12日/Lomics_Generation_of_Pathways_and_Gene_Sets_using_Large_Language_Models_for_Transcriptomic_Analysis.md)
+
+- [Open Vocabulary Multi-Label Video Classification](2024年07月12日/Open_Vocabulary_Multi-Label_Video_Classification.md)
+
+    - [翻译: 开放词汇多标签视频分类技术](2024年07月12日/Open_Vocabulary_Multi-Label_Video_Classification.md)
+
+- [New Desiderata for Direct Preference Optimization](2024年07月12日/New_Desiderata_for_Direct_Preference_Optimization.md)
+
+    - [翻译: 直接偏好优化的新要求](2024年07月12日/New_Desiderata_for_Direct_Preference_Optimization.md)
+
+- [Sensorimotor Attention and Language-based Regressions in Shared Latent Variables for Integrating Robot Motion Learning and LLM](2024年07月12日/Sensorimotor_Attention_and_Language-based_Regressions_in_Shared_Latent_Variables_for_Integrating_Robot_Motion_Learning_and_LLM.md)
+
+    - [翻译: 通过共享潜在变量，结合机器人运动学习与大型语言模型，探讨感觉运动注意与基于语言的回归机制。](2024年07月12日/Sensorimotor_Attention_and_Language-based_Regressions_in_Shared_Latent_Variables_for_Integrating_Robot_Motion_Learning_and_LLM.md)
+
+- [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](2024年07月12日/SpreadsheetLLM_Encoding_Spreadsheets_for_Large_Language_Models.md)
+
+    - [翻译: SpreadsheetLLM：将电子表格编码以供大型语言模型使用](2024年07月12日/SpreadsheetLLM_Encoding_Spreadsheets_for_Large_Language_Models.md)
+
+- [Challenges of Anomaly Detection in the Object-Centric Setting: Dimensions and the Role of Domain Knowledge](2024年07月12日/Challenges_of_Anomaly_Detection_in_the_Object-Centric_Setting_Dimensions_and_the_Role_of_Domain_Knowledge.md)
+
+    - [翻译: 以对象为中心的异常检测面临多重挑战，涉及维度问题及领域知识的关键角色。](2024年07月12日/Challenges_of_Anomaly_Detection_in_the_Object-Centric_Setting_Dimensions_and_the_Role_of_Domain_Knowledge.md)
+
+- [Enhancing Few-Shot Stock Trend Prediction with Large Language Models](2024年07月12日/Enhancing_Few-Shot_Stock_Trend_Prediction_with_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型提升少量样本下的股票趋势预测能力](2024年07月12日/Enhancing_Few-Shot_Stock_Trend_Prediction_with_Large_Language_Models.md)
+
+- [Robustness of LLMs to Perturbations in Text](2024年07月12日/Robustness_of_LLMs_to_Perturbations_in_Text.md)
+
+    - [翻译: LLM 在面对文本扰动时的稳健性](2024年07月12日/Robustness_of_LLMs_to_Perturbations_in_Text.md)
+
+- [Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations](2024年07月12日/Towards_More_Trustworthy_and_Interpretable_LLMs_for_Code_through_Syntax-Grounded_Explanations.md)
+
+    - [翻译: 通过基于语法的解释，我们致力于让代码的 LLM 更加可靠和易于理解。](2024年07月12日/Towards_More_Trustworthy_and_Interpretable_LLMs_for_Code_through_Syntax-Grounded_Explanations.md)
+
+- [Towards Chapter-to-Chapter Context-Aware Literary Translation via Large Language Models](2024年07月12日/Towards_Chapter-to-Chapter_Context-Aware_Literary_Translation_via_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型，我们迈向了章节间上下文感知的文学翻译新境界。](2024年07月12日/Towards_Chapter-to-Chapter_Context-Aware_Literary_Translation_via_Large_Language_Models.md)
+
+- [CompAct: Compressing Retrieved Documents Actively for Question Answering](2024年07月12日/CompAct_Compressing_Retrieved_Documents_Actively_for_Question_Answering.md)
+
+    - [翻译: CompAct：为问答任务主动压缩检索文档](2024年07月12日/CompAct_Compressing_Retrieved_Documents_Actively_for_Question_Answering.md)
+
 2024年07月11日
 
 - [Investigating LLMs as Voting Assistants via Contextual Augmentation: A Case Study on the European Parliament Elections 2024](2024年07月11日/Investigating_LLMs_as_Voting_Assistants_via_Contextual_Augmentation_A_Case_Study_on_the_European_Parliament_Elections_2024.md)
@@ -279,6 +431,22 @@
 - [Emerging Practices for Large Multimodal Model (LMM) Assistance for People with Visual Impairments: Implications for Design](2024年07月11日/Emerging_Practices_for_Large_Multimodal_Model_(LMM)_Assistance_for_People_with_Visual_Impairments_Implications_for_Design.md)
 
     - [翻译: 大型多模态模型（LMM）为视觉障碍者提供的辅助手段正不断涌现，这些实践为设计领域带来了新的启示。](2024年07月11日/Emerging_Practices_for_Large_Multimodal_Model_(LMM)_Assistance_for_People_with_Visual_Impairments_Implications_for_Design.md)
+
+- [Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models](2024年07月11日/Detect_Llama_--_Finding_Vulnerabilities_in_Smart_Contracts_using_Large_Language_Models.md)
+
+    - [翻译: Detect Llama：利用大型语言模型，精准定位智能合约中的潜在漏洞。](2024年07月11日/Detect_Llama_--_Finding_Vulnerabilities_in_Smart_Contracts_using_Large_Language_Models.md)
+
+- [Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models](2024年07月11日/Empowering_Few-Shot_Relation_Extraction_with_The_Integration_of_Traditional_RE_Methods_and_Large_Language_Models.md)
+
+    - [翻译: 结合传统关系抽取技术与大型语言模型，提升少样本关系抽取的效能。](2024年07月11日/Empowering_Few-Shot_Relation_Extraction_with_The_Integration_of_Traditional_RE_Methods_and_Large_Language_Models.md)
+
+- [Towards Practical and Useful Automated Program Repair for Debugging](2024年07月11日/Towards_Practical_and_Useful_Automated_Program_Repair_for_Debugging.md)
+
+    - [翻译: 实用且高效的自动化程序修复，助力调试工作](2024年07月11日/Towards_Practical_and_Useful_Automated_Program_Repair_for_Debugging.md)
+
+- [Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection](2024年07月11日/Detect,_Investigate,_Judge_and_Determine_A_Novel_LLM-based_Framework_for_Few-shot_Fake_News_Detection.md)
+
+    - [翻译: 我们提出了一种基于大型语言模型的新框架，通过检测、调查、判断和确定四个步骤，有效进行少样本假新闻检测。](2024年07月11日/Detect,_Investigate,_Judge_and_Determine_A_Novel_LLM-based_Framework_for_Few-shot_Fake_News_Detection.md)
 
 2024年07月10日
 
