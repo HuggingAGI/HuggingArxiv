@@ -1,5 +1,47 @@
 # 2024年07月
 
+2024年07月12日
+
+- [Mitigating Entity-Level Hallucination in Large Language Models](2024年07月12日/Mitigating_Entity-Level_Hallucination_in_Large_Language_Models.md)
+
+    - [翻译: 缓解大型语言模型中的实体级幻觉问题](2024年07月12日/Mitigating_Entity-Level_Hallucination_in_Large_Language_Models.md)
+
+- [PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents](2024年07月12日/PersonaRAG_Enhancing_Retrieval-Augmented_Generation_Systems_with_User-Centric_Agents.md)
+
+    - [翻译: PersonaRAG：借助以用户为中心的代理，提升检索增强生成系统的性能](2024年07月12日/PersonaRAG_Enhancing_Retrieval-Augmented_Generation_Systems_with_User-Centric_Agents.md)
+
+- [Context Embeddings for Efficient Answer Generation in RAG](2024年07月12日/Context_Embeddings_for_Efficient_Answer_Generation_in_RAG.md)
+
+    - [翻译: RAG 中，上下文嵌入助力高效答案生成](2024年07月12日/Context_Embeddings_for_Efficient_Answer_Generation_in_RAG.md)
+
+- [Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study](2024年07月12日/Security_Matrix_for_Multimodal_Agents_on_Mobile_Devices_A_Systematic_and_Proof_of_Concept_Study.md)
+
+    - [翻译: 移动设备多模态代理安全矩阵：系统性研究与概念验证](2024年07月12日/Security_Matrix_for_Multimodal_Agents_on_Mobile_Devices_A_Systematic_and_Proof_of_Concept_Study.md)
+
+- [Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments](2024年07月12日/Instruction_Following_with_Goal-Conditioned_Reinforcement_Learning_in_Virtual_Environments.md)
+
+    - [翻译: 虚拟环境中，指令遵循与目标条件强化学习相结合](2024年07月12日/Instruction_Following_with_Goal-Conditioned_Reinforcement_Learning_in_Virtual_Environments.md)
+
+- [SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers](2024年07月12日/SPIQA_A_Dataset_for_Multimodal_Question_Answering_on_Scientific_Papers.md)
+
+    - [翻译: SPIQA 数据集：专为科学论文的多模态问答设计](2024年07月12日/SPIQA_A_Dataset_for_Multimodal_Question_Answering_on_Scientific_Papers.md)
+
+- [Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX](2024年07月12日/Unifying_Sequences,_Structures,_and_Descriptions_for_Any-to-Any_Protein_Generation_with_the_Large_Multimodal_Model_HelixProtX.md)
+
+    - [翻译: HelixProtX 大型多模态模型整合序列、结构与描述，实现任意蛋白质间的生成。](2024年07月12日/Unifying_Sequences,_Structures,_and_Descriptions_for_Any-to-Any_Protein_Generation_with_the_Large_Multimodal_Model_HelixProtX.md)
+
+- [DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](2024年07月12日/DART_An_Automated_End-to-End_Object_Detection_Pipeline_with_Data_Diversification,_Open-Vocabulary_Bounding_Box_Annotation,_Pseudo-Label_Review,_and_Model_Training.md)
+
+    - [翻译: DART 是一个全自动的物体检测流程，集成了数据多样化、开放词汇的边界框标注、伪标签审核以及模型训练。](2024年07月12日/DART_An_Automated_End-to-End_Object_Detection_Pipeline_with_Data_Diversification,_Open-Vocabulary_Bounding_Box_Annotation,_Pseudo-Label_Review,_and_Model_Training.md)
+
+- [AI-Powered Immersive Assistance for Interactive Task Execution in Industrial Environments](2024年07月12日/AI-Powered_Immersive_Assistance_for_Interactive_Task_Execution_in_Industrial_Environments.md)
+
+    - [翻译: AI 赋能的沉浸式辅助，助力工业环境中的交互任务执行](2024年07月12日/AI-Powered_Immersive_Assistance_for_Interactive_Task_Execution_in_Industrial_Environments.md)
+
+- [Refusing Safe Prompts for Multi-modal Large Language Models](2024年07月12日/Refusing_Safe_Prompts_for_Multi-modal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型中拒绝安全提示](2024年07月12日/Refusing_Safe_Prompts_for_Multi-modal_Large_Language_Models.md)
+
 2024年07月11日
 
 - [Investigating LLMs as Voting Assistants via Contextual Augmentation: A Case Study on the European Parliament Elections 2024](2024年07月11日/Investigating_LLMs_as_Voting_Assistants_via_Contextual_Augmentation_A_Case_Study_on_the_European_Parliament_Elections_2024.md)
@@ -213,6 +255,30 @@
 - [Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems](2024年07月11日/Beyond_Benchmarks_Evaluating_Embedding_Model_Similarity_for_Retrieval_Augmented_Generation_Systems.md)
 
     - [翻译: 不仅仅是基准测试：探讨增强检索生成系统中嵌入模型相似性的评估方法](2024年07月11日/Beyond_Benchmarks_Evaluating_Embedding_Model_Similarity_for_Retrieval_Augmented_Generation_Systems.md)
+
+- [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](2024年07月11日/Large_Language_Models_as_Biomedical_Hypothesis_Generators_A_Comprehensive_Evaluation.md)
+
+    - [翻译: 大型语言模型在生物医学领域作为假设生成器的表现，我们将进行一次全面评估。](2024年07月11日/Large_Language_Models_as_Biomedical_Hypothesis_Generators_A_Comprehensive_Evaluation.md)
+
+- [GPT-4 is judged more human than humans in displaced and inverted Turing tests](2024年07月11日/GPT-4_is_judged_more_human_than_humans_in_displaced_and_inverted_Turing_tests.md)
+
+    - [翻译: GPT-4 在变形的图灵测试中，其表现超越人类，被评定为更具人性。](2024年07月11日/GPT-4_is_judged_more_human_than_humans_in_displaced_and_inverted_Turing_tests.md)
+
+- [CXR-Agent: Vision-language models for chest X-ray interpretation with uncertainty aware radiology reporting](2024年07月11日/CXR-Agent_Vision-language_models_for_chest_X-ray_interpretation_with_uncertainty_aware_radiology_reporting.md)
+
+    - [翻译: CXR-Agent：结合视觉与语言模型，专为胸部X光解读设计，能生成包含不确定性信息的放射学报告。](2024年07月11日/CXR-Agent_Vision-language_models_for_chest_X-ray_interpretation_with_uncertainty_aware_radiology_reporting.md)
+
+- [Large Models of What? Mistaking Engineering Achievements for Human Linguistic Agency](2024年07月11日/Large_Models_of_What_Mistaking_Engineering_Achievements_for_Human_Linguistic_Agency.md)
+
+    - [翻译: 大型模型究竟模拟了什么？我们不应将工程上的成就与人类的语言能力混为一谈。](2024年07月11日/Large_Models_of_What_Mistaking_Engineering_Achievements_for_Human_Linguistic_Agency.md)
+
+- [A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model](2024年07月11日/A_Neural_Matrix_Decomposition_Recommender_System_Model_based_on_the_Multimodal_Large_Language_Model.md)
+
+    - [翻译: 多模态大型语言模型驱动的神经矩阵分解推荐系统](2024年07月11日/A_Neural_Matrix_Decomposition_Recommender_System_Model_based_on_the_Multimodal_Large_Language_Model.md)
+
+- [Emerging Practices for Large Multimodal Model (LMM) Assistance for People with Visual Impairments: Implications for Design](2024年07月11日/Emerging_Practices_for_Large_Multimodal_Model_(LMM)_Assistance_for_People_with_Visual_Impairments_Implications_for_Design.md)
+
+    - [翻译: 大型多模态模型（LMM）为视觉障碍者提供的辅助手段正不断涌现，这些实践为设计领域带来了新的启示。](2024年07月11日/Emerging_Practices_for_Large_Multimodal_Model_(LMM)_Assistance_for_People_with_Visual_Impairments_Implications_for_Design.md)
 
 2024年07月10日
 
