@@ -1076,6 +1076,10 @@
 
     - [翻译: 探索最优与有界次优的多智能体任意角度路径规划](2024年04月25日/Optimal_and_Bounded_Suboptimal_Any-Angle_Multi-agent_Pathfinding.md)
 
+- [The GPT Surprise: Offering Large Language Model Chat in a Massive Coding Class Reduced Engagement but Increased Adopters Exam Performances](2024年04月25日/The_GPT_Surprise_Offering_Large_Language_Model_Chat_in_a_Massive_Coding_Class_Reduced_Engagement_but_Increased_Adopters_Exam_Performances.md)
+
+    - [翻译: GPT 带来的意外之喜：尽管在大规模编程课中引入大型语言模型聊天降低了学生的参与度，却显著提升了采用者的考试表现。](2024年04月25日/The_GPT_Surprise_Offering_Large_Language_Model_Chat_in_a_Massive_Coding_Class_Reduced_Engagement_but_Increased_Adopters_Exam_Performances.md)
+
 2024年04月24日
 
 - [WorldValuesBench: A Large-Scale Benchmark Dataset for Multi-Cultural Value Awareness of Language Models](2024年04月24日/WorldValuesBench_A_Large-Scale_Benchmark_Dataset_for_Multi-Cultural_Value_Awareness_of_Language_Models.md)

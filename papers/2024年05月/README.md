@@ -3214,6 +3214,10 @@
 
     - [翻译: CC-GPX：挖掘Common Crawl中的宝藏——高质量地理空间数据标注](2024年05月17日/CC-GPX_Extracting_High-Quality_Annotated_Geospatial_Data_from_Common_Crawl.md)
 
+- [Mitigating Interpretation Bias in Rock Records with Large Language Models: Insights from Paleoenvironmental Analysis](2024年05月17日/Mitigating_Interpretation_Bias_in_Rock_Records_with_Large_Language_Models_Insights_from_Paleoenvironmental_Analysis.md)
+
+    - [翻译: 借助大型语言模型，我们正探索如何减少岩石记录中的解释偏差，并从古环境分析中获得新知。](2024年05月17日/Mitigating_Interpretation_Bias_in_Rock_Records_with_Large_Language_Models_Insights_from_Paleoenvironmental_Analysis.md)
+
 2024年05月16日
 
 - [Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning](2024年05月16日/Fine-Tuning_Large_Vision-Language_Models_as_Decision-Making_Agents_via_Reinforcement_Learning.md)
@@ -4057,6 +4061,10 @@
 - [Translating Expert Intuition into Quantifiable Features: Encode Investigator Domain Knowledge via LLM for Enhanced Predictive Analytics](2024年05月11日/Translating_Expert_Intuition_into_Quantifiable_Features_Encode_Investigator_Domain_Knowledge_via_LLM_for_Enhanced_Predictive_Analytics.md)
 
     - [翻译: 借助 LLM，我们将专家的直觉转化为精确的量化特征，从而将调查员的领域知识融入预测分析，进一步提升其精准度。](2024年05月11日/Translating_Expert_Intuition_into_Quantifiable_Features_Encode_Investigator_Domain_Knowledge_via_LLM_for_Enhanced_Predictive_Analytics.md)
+
+- [The Silent Curriculum: How Does LLM Monoculture Shape Educational Content and Its Accessibility?](2024年05月11日/The_Silent_Curriculum_How_Does_LLM_Monoculture_Shape_Educational_Content_and_Its_Accessibility.md)
+
+    - [翻译: 单一的LLM文化如何无声地塑造教育内容及其可及性？这是一个值得探讨的问题。](2024年05月11日/The_Silent_Curriculum_How_Does_LLM_Monoculture_Shape_Educational_Content_and_Its_Accessibility.md)
 
 2024年05月10日
 
