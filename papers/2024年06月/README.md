@@ -612,6 +612,10 @@
 
     - [翻译: ColPali：借助视觉语言模型，实现文档检索的高效性](2024年06月27日/ColPali_Efficient_Document_Retrieval_with_Vision_Language_Models.md)
 
+- [A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading](2024年06月27日/A_Reflective_LLM-based_Agent_to_Guide_Zero-shot_Cryptocurrency_Trading.md)
+
+    - [翻译: 基于 LLM 的反射代理，引领零-shot 加密货币交易之旅](2024年06月27日/A_Reflective_LLM-based_Agent_to_Guide_Zero-shot_Cryptocurrency_Trading.md)
+
 2024年06月26日
 
 - [AI-native Memory: A Pathway from LLMs Towards AGI](2024年06月26日/AI-native_Memory_A_Pathway_from_LLMs_Towards_AGI.md)
@@ -2199,6 +2203,10 @@
 - [Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events](2024年06月19日/Using_Multimodal_Large_Language_Models_for_Automated_Detection_of_Traffic_Safety_Critical_Events.md)
 
     - [翻译: 借助多模态大型语言模型，自动识别交通中的安全关键事件](2024年06月19日/Using_Multimodal_Large_Language_Models_for_Automated_Detection_of_Traffic_Safety_Critical_Events.md)
+
+- [Putting GPT-4o to the Sword: A Comprehensive Evaluation of Language, Vision, Speech, and Multimodal Proficiency](2024年06月19日/Putting_GPT-4o_to_the_Sword_A_Comprehensive_Evaluation_of_Language,_Vision,_Speech,_and_Multimodal_Proficiency.md)
+
+    - [翻译: GPT-4o 全面考验：深入评估其在语言、视觉、语音及多模态领域的实力](2024年06月19日/Putting_GPT-4o_to_the_Sword_A_Comprehensive_Evaluation_of_Language,_Vision,_Speech,_and_Multimodal_Proficiency.md)
 
 2024年06月18日
 

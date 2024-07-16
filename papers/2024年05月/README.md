@@ -2258,6 +2258,14 @@
 
     - [翻译: 无需提示的思维链推理](2024年05月23日/Chain-of-Thought_Reasoning_Without_Prompting.md)
 
+- [Social AI and The Equation of Wittgenstein's Language User With Calvino's Literature Machine](2024年05月23日/Social_AI_and_The_Equation_of_Wittgenstein's_Language_User_With_Calvino's_Literature_Machine.md)
+
+    - [翻译: 社会AI：维特根斯坦语言使用者与卡尔维诺文学机器的交汇](2024年05月23日/Social_AI_and_The_Equation_of_Wittgenstein's_Language_User_With_Calvino's_Literature_Machine.md)
+
+- [A Systematic Review on the Potential of AI and ChatGPT for Parental Support and Child Well-Being](2024年05月23日/A_Systematic_Review_on_the_Potential_of_AI_and_ChatGPT_for_Parental_Support_and_Child_Well-Being.md)
+
+    - [翻译: 本研究系统性地探讨了 AI 及 ChatGPT 在支持家长和提升儿童福祉方面的应用潜力。](2024年05月23日/A_Systematic_Review_on_the_Potential_of_AI_and_ChatGPT_for_Parental_Support_and_Child_Well-Being.md)
+
 2024年05月22日
 
 - [Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models](2024年05月22日/Image-of-Thought_Prompting_for_Visual_Reasoning_Refinement_in_Multimodal_Large_Language_Models.md)
@@ -5765,3 +5773,7 @@
 - ["Ask Me Anything": How Comcast Uses LLMs to Assist Agents in Real Time](2024年05月01日/Ask_Me_Anything_How_Comcast_Uses_LLMs_to_Assist_Agents_in_Real_Time.md)
 
     - [翻译: "有问必答"：探究 Comcast 如何利用大型语言模型 (LLMs) 为代理提供实时协助。](2024年05月01日/Ask_Me_Anything_How_Comcast_Uses_LLMs_to_Assist_Agents_in_Real_Time.md)
+
+- [CourseAssist: Pedagogically Appropriate Question Answering System for Computer Science Education](2024年05月01日/CourseAssist_Pedagogically_Appropriate_Question_Answering_System_for_Computer_Science_Education.md)
+
+    - [翻译: CourseAssist：专为计算机科学教育设计的教学适宜性问答系统](2024年05月01日/CourseAssist_Pedagogically_Appropriate_Question_Answering_System_for_Computer_Science_Education.md)

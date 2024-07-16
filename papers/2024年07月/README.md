@@ -1,5 +1,57 @@
 # 2024年07月
 
+2024年07月14日
+
+- [GenSco: Can Question Decomposition based Passage Alignment improve Question Answering?](2024年07月14日/GenSco_Can_Question_Decomposition_based_Passage_Alignment_improve_Question_Answering.md)
+
+    - [翻译: GenSco：问题分解基础上的段落对齐，能否提升问答效果？](2024年07月14日/GenSco_Can_Question_Decomposition_based_Passage_Alignment_improve_Question_Answering.md)
+
+- [Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning](2024年07月14日/Towards_Robust_Recommendation_via_Decision_Boundary-aware_Graph_Contrastive_Learning.md)
+
+    - [翻译: 本研究旨在通过决策边界感知图对比学习，提升推荐的鲁棒性。](2024年07月14日/Towards_Robust_Recommendation_via_Decision_Boundary-aware_Graph_Contrastive_Learning.md)
+
+- [LAB-Bench: Measuring Capabilities of Language Models for Biology Research](2024年07月14日/LAB-Bench_Measuring_Capabilities_of_Language_Models_for_Biology_Research.md)
+
+    - [翻译: LAB-Bench：评估语言模型在生物学研究领域的实力](2024年07月14日/LAB-Bench_Measuring_Capabilities_of_Language_Models_for_Biology_Research.md)
+
+- [All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era](2024年07月14日/All_Roads_Lead_to_Rome_Unveiling_the_Trajectory_of_Recommender_Systems_Across_the_LLM_Era.md)
+
+    - [翻译: 条条大路通罗马：探索推荐系统在大型语言模型时代的发展路径](2024年07月14日/All_Roads_Lead_to_Rome_Unveiling_the_Trajectory_of_Recommender_Systems_Across_the_LLM_Era.md)
+
+- [When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset](2024年07月14日/When_Pedestrian_Detection_Meets_Multi-Modal_Learning_Generalist_Model_and_Benchmark_Dataset.md)
+
+    - [翻译: 行人检测与多模态学习的结合，催生了通才模型与基准数据集的诞生。](2024年07月14日/When_Pedestrian_Detection_Meets_Multi-Modal_Learning_Generalist_Model_and_Benchmark_Dataset.md)
+
+2024年07月13日
+
+- [Revolutionizing Bridge Operation and maintenance with LLM-based Agents: An Overview of Applications and Insights](2024年07月13日/Revolutionizing_Bridge_Operation_and_maintenance_with_LLM-based_Agents_An_Overview_of_Applications_and_Insights.md)
+
+    - [翻译: LLM 代理正引领桥梁运维革新，本文概述其应用与洞察。](2024年07月13日/Revolutionizing_Bridge_Operation_and_maintenance_with_LLM-based_Agents_An_Overview_of_Applications_and_Insights.md)
+
+- [AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence](2024年07月13日/AtomAgents_Alloy_design_and_discovery_through_physics-aware_multi-modal_multi-agent_artificial_intelligence.md)
+
+    - [翻译: AtomAgents：利用物理感知的多模态多智能体AI技术，推动合金设计和发现的革新。](2024年07月13日/AtomAgents_Alloy_design_and_discovery_through_physics-aware_multi-modal_multi-agent_artificial_intelligence.md)
+
+- [Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues](2024年07月13日/Cohesive_Conversations_Enhancing_Authenticity_in_Multi-Agent_Simulated_Dialogues.md)
+
+    - [翻译: 连贯对话：提升多代理模拟对话的真实性](2024年07月13日/Cohesive_Conversations_Enhancing_Authenticity_in_Multi-Agent_Simulated_Dialogues.md)
+
+- [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](2024年07月13日/Synergistic_Multi-Agent_Framework_with_Trajectory_Learning_for_Knowledge-Intensive_Tasks.md)
+
+    - [翻译: 知识密集型任务中的协同多智能体框架与轨迹学习](2024年07月13日/Synergistic_Multi-Agent_Framework_with_Trajectory_Learning_for_Knowledge-Intensive_Tasks.md)
+
+- [Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation](2024年07月13日/Speech-Copilot_Leveraging_Large_Language_Models_for_Speech_Processing_via_Task_Decomposition,_Modularization,_and_Program_Generation.md)
+
+    - [翻译: Speech-Copilot：借助任务分解、模块化及程序生成技术，运用大型语言模型提升语音处理效率](2024年07月13日/Speech-Copilot_Leveraging_Large_Language_Models_for_Speech_Processing_via_Task_Decomposition,_Modularization,_and_Program_Generation.md)
+
+- [Language-Augmented Symbolic Planner for Open-World Task Planning](2024年07月13日/Language-Augmented_Symbolic_Planner_for_Open-World_Task_Planning.md)
+
+    - [翻译: 开放世界任务规划的语言增强符号规划器](2024年07月13日/Language-Augmented_Symbolic_Planner_for_Open-World_Task_Planning.md)
+
+- [Dense Multimodal Alignment for Open-Vocabulary 3D Scene Understanding](2024年07月13日/Dense_Multimodal_Alignment_for_Open-Vocabulary_3D_Scene_Understanding.md)
+
+    - [翻译: 密集多模态对齐助力开放词汇表的3D场景深度理解](2024年07月13日/Dense_Multimodal_Alignment_for_Open-Vocabulary_3D_Scene_Understanding.md)
+
 2024年07月12日
 
 - [Mitigating Entity-Level Hallucination in Large Language Models](2024年07月12日/Mitigating_Entity-Level_Hallucination_in_Large_Language_Models.md)
