@@ -46,6 +46,162 @@
 
     - [翻译: Qwen2 技术报告](2024年07月15日/Qwen2_Technical_Report.md)
 
+- [VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation](2024年07月15日/VGBench_Evaluating_Large_Language_Models_on_Vector_Graphics_Understanding_and_Generation.md)
+
+    - [翻译: VGBench 项目旨在评估大型语言模型在矢量图形理解和生成方面的能力。](2024年07月15日/VGBench_Evaluating_Large_Language_Models_on_Vector_Graphics_Understanding_and_Generation.md)
+
+- [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](2024年07月15日/Q-Sparse_All_Large_Language_Models_can_be_Fully_Sparsely-Activated.md)
+
+    - [翻译: Q-Sparse 技术揭示，所有大型语言模型均能实现完全的稀疏激活。](2024年07月15日/Q-Sparse_All_Large_Language_Models_can_be_Fully_Sparsely-Activated.md)
+
+- [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](2024年07月15日/Fast_Matrix_Multiplications_for_Lookup_Table-Quantized_LLMs.md)
+
+    - [翻译: 针对查找表量化的大型语言模型，采用快速矩阵乘法技术。](2024年07月15日/Fast_Matrix_Multiplications_for_Lookup_Table-Quantized_LLMs.md)
+
+- [MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models](2024年07月15日/MMM_Multilingual_Mutual_Reinforcement_Effect_Mix_Datasets_&_Test_with_Open-domain_Information_Extraction_Large_Language_Models.md)
+
+    - [翻译: MMM：探索多语言数据集的相互强化效应，并测试其在开放领域信息抽取大型语言模型中的应用。](2024年07月15日/MMM_Multilingual_Mutual_Reinforcement_Effect_Mix_Datasets_&_Test_with_Open-domain_Information_Extraction_Large_Language_Models.md)
+
+- [Can Textual Semantics Mitigate Sounding Object Segmentation Preference?](2024年07月15日/Can_Textual_Semantics_Mitigate_Sounding_Object_Segmentation_Preference.md)
+
+    - [翻译: 文本语义是否能减轻对发声物体分割的偏好？](2024年07月15日/Can_Textual_Semantics_Mitigate_Sounding_Object_Segmentation_Preference.md)
+
+- [FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets](2024年07月15日/FinDKG_Dynamic_Knowledge_Graphs_with_Large_Language_Models_for_Detecting_Global_Trends_in_Financial_Markets.md)
+
+    - [翻译: FinDKG 项目通过整合大型语言模型，构建动态知识图谱，旨在精准捕捉金融市场中的全球趋势。](2024年07月15日/FinDKG_Dynamic_Knowledge_Graphs_with_Large_Language_Models_for_Detecting_Global_Trends_in_Financial_Markets.md)
+
+- [Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique](2024年07月15日/Hey,_That's_My_Model!_Introducing_Chain_&_Hash,_An_LLM_Fingerprinting_Technique.md)
+
+    - [翻译: 看，那可是我的模型！来认识一下 Chain & Hash，这是一项专为 LLM 设计的指纹识别技术。](2024年07月15日/Hey,_That's_My_Model!_Introducing_Chain_&_Hash,_An_LLM_Fingerprinting_Technique.md)
+
+- [SLIP: Securing LLMs IP Using Weights Decomposition](2024年07月15日/SLIP_Securing_LLMs_IP_Using_Weights_Decomposition.md)
+
+    - [翻译: SLIP：通过权重分解技术，保障大型语言模型（LLM）的知识产权安全。](2024年07月15日/SLIP_Securing_LLMs_IP_Using_Weights_Decomposition.md)
+
+- [Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models](2024年07月15日/Understanding_the_Importance_of_Evolutionary_Search_in_Automated_Heuristic_Design_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型在自动化启发式设计中，进化搜索的重要性不容忽视。](2024年07月15日/Understanding_the_Importance_of_Evolutionary_Search_in_Automated_Heuristic_Design_with_Large_Language_Models.md)
+
+- [GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM](2024年07月15日/GPT_Sonograpy_Hand_Gesture_Decoding_from_Forearm_Ultrasound_Images_via_VLM.md)
+
+    - [翻译: GPT 超声成像技术：利用 VLM 从前臂超声图像中解读手势](2024年07月15日/GPT_Sonograpy_Hand_Gesture_Decoding_from_Forearm_Ultrasound_Images_via_VLM.md)
+
+- [An Actionable Framework for Assessing Bias and Fairness in Large Language Model Use Cases](2024年07月15日/An_Actionable_Framework_for_Assessing_Bias_and_Fairness_in_Large_Language_Model_Use_Cases.md)
+
+    - [翻译: 本研究提出一个实用框架，旨在评估大型语言模型应用中的偏见与公平性问题。](2024年07月15日/An_Actionable_Framework_for_Assessing_Bias_and_Fairness_in_Large_Language_Model_Use_Cases.md)
+
+- [MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs](2024年07月15日/MetaLLM_A_High-performant_and_Cost-efficient_Dynamic_Framework_for_Wrapping_LLMs.md)
+
+    - [翻译: MetaLLM：一款高效且经济的动态框架，专为大型语言模型打造](2024年07月15日/MetaLLM_A_High-performant_and_Cost-efficient_Dynamic_Framework_for_Wrapping_LLMs.md)
+
+- [BiasScanner: Automatic Detection and Classification of News Bias to Strengthen Democracy](2024年07月15日/BiasScanner_Automatic_Detection_and_Classification_of_News_Bias_to_Strengthen_Democracy.md)
+
+    - [翻译: BiasScanner 工具旨在自动识别并分类新闻中的偏见，从而助力民主的稳固。](2024年07月15日/BiasScanner_Automatic_Detection_and_Classification_of_News_Bias_to_Strengthen_Democracy.md)
+
+- [LLM Circuit Analyses Are Consistent Across Training and Scale](2024年07月15日/LLM_Circuit_Analyses_Are_Consistent_Across_Training_and_Scale.md)
+
+    - [翻译: LLM 电路分析在不同训练阶段和规模上均保持一致性。](2024年07月15日/LLM_Circuit_Analyses_Are_Consistent_Across_Training_and_Scale.md)
+
+- [Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation](2024年07月15日/Foundational_Autoraters_Taming_Large_Language_Models_for_Better_Automatic_Evaluation.md)
+
+    - [翻译: 基础自动评分器：优化大型语言模型，提升自动评估质量](2024年07月15日/Foundational_Autoraters_Taming_Large_Language_Models_for_Better_Automatic_Evaluation.md)
+
+- [Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment](2024年07月15日/Mix-CPT_A_Domain_Adaptation_Framework_via_Decoupling_Knowledge_Learning_and_Format_Alignment.md)
+
+    - [翻译: Mix-CPT：一种领域适应框架，通过分离知识学习与格式对齐来实现。](2024年07月15日/Mix-CPT_A_Domain_Adaptation_Framework_via_Decoupling_Knowledge_Learning_and_Format_Alignment.md)
+
+- [Multilingual Contrastive Decoding via Language-Agnostic Layers Skipping](2024年07月15日/Multilingual_Contrastive_Decoding_via_Language-Agnostic_Layers_Skipping.md)
+
+    - [翻译: 多语言对比解码：跨越语言界限的层级跳跃](2024年07月15日/Multilingual_Contrastive_Decoding_via_Language-Agnostic_Layers_Skipping.md)
+
+- [Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education](2024年07月15日/Graphusion_Leveraging_Large_Language_Models_for_Scientific_Knowledge_Graph_Fusion_and_Construction_in_NLP_Education.md)
+
+    - [翻译: Graphusion：借助大型语言模型，在 NLP 教育领域实现科学知识图谱的融合与构建](2024年07月15日/Graphusion_Leveraging_Large_Language_Models_for_Scientific_Knowledge_Graph_Fusion_and_Construction_in_NLP_Education.md)
+
+- [GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework](2024年07月15日/GraphEval_A_Knowledge-Graph_Based_LLM_Hallucination_Evaluation_Framework.md)
+
+    - [翻译: GraphEval：一款基于知识图谱的 LLM 幻觉评估框架](2024年07月15日/GraphEval_A_Knowledge-Graph_Based_LLM_Hallucination_Evaluation_Framework.md)
+
+- [Interpretability analysis on a pathology foundation model reveals biologically relevant embeddings across modalities](2024年07月15日/Interpretability_analysis_on_a_pathology_foundation_model_reveals_biologically_relevant_embeddings_across_modalities.md)
+
+    - [翻译: 病理学基础模型的可解释性分析，揭示了多模态间的生物学相关嵌入。](2024年07月15日/Interpretability_analysis_on_a_pathology_foundation_model_reveals_biologically_relevant_embeddings_across_modalities.md)
+
+- [Qwen2-Audio Technical Report](2024年07月15日/Qwen2-Audio_Technical_Report.md)
+
+    - [翻译: Qwen2-Audio 技术报告](2024年07月15日/Qwen2-Audio_Technical_Report.md)
+
+- [Codebook LLMs: Adapting Political Science Codebooks for LLM Use and Adapting LLMs to Follow Codebooks](2024年07月15日/Codebook_LLMs_Adapting_Political_Science_Codebooks_for_LLM_Use_and_Adapting_LLMs_to_Follow_Codebooks.md)
+
+    - [翻译: Codebook LLMs：将政治科学代码簿应用于 LLM，并调整 LLMs 以遵循代码簿规范](2024年07月15日/Codebook_LLMs_Adapting_Political_Science_Codebooks_for_LLM_Use_and_Adapting_LLMs_to_Follow_Codebooks.md)
+
+- [CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses](2024年07月15日/CLAVE_An_Adaptive_Framework_for_Evaluating_Values_of_LLM_Generated_Responses.md)
+
+    - [翻译: CLAVE：一款自适应框架，专为评估 LLM 生成回复的价值而设计](2024年07月15日/CLAVE_An_Adaptive_Framework_for_Evaluating_Values_of_LLM_Generated_Responses.md)
+
+- [Quantized Prompt for Efficient Generalization of Vision-Language Models](2024年07月15日/Quantized_Prompt_for_Efficient_Generalization_of_Vision-Language_Models.md)
+
+    - [翻译: 量化提示助力视觉-语言模型高效泛化](2024年07月15日/Quantized_Prompt_for_Efficient_Generalization_of_Vision-Language_Models.md)
+
+- [DOCBENCH: A Benchmark for Evaluating LLM-based Document Reading Systems](2024年07月15日/DOCBENCH_A_Benchmark_for_Evaluating_LLM-based_Document_Reading_Systems.md)
+
+    - [翻译: DOCBENCH：评估 LLM 文档阅读系统性能的标杆](2024年07月15日/DOCBENCH_A_Benchmark_for_Evaluating_LLM-based_Document_Reading_Systems.md)
+
+- [An Empirical Study of Validating Synthetic Data for Formula Generation](2024年07月15日/An_Empirical_Study_of_Validating_Synthetic_Data_for_Formula_Generation.md)
+
+    - [翻译: 探究合成数据在公式生成中的有效性](2024年07月15日/An_Empirical_Study_of_Validating_Synthetic_Data_for_Formula_Generation.md)
+
+- [Prompt Selection Matters: Enhancing Text Annotations for Social Sciences with Large Language Models](2024年07月15日/Prompt_Selection_Matters_Enhancing_Text_Annotations_for_Social_Sciences_with_Large_Language_Models.md)
+
+    - [翻译: 提示选择不容忽视：借助大型语言模型，为社会科学领域的文本标注注入新活力。](2024年07月15日/Prompt_Selection_Matters_Enhancing_Text_Annotations_for_Social_Sciences_with_Large_Language_Models.md)
+
+- [Evaluating Model Bias Requires Characterizing its Mistakes](2024年07月15日/Evaluating_Model_Bias_Requires_Characterizing_its_Mistakes.md)
+
+    - [翻译: 要评估模型偏差，关键在于剖析其错误特征。](2024年07月15日/Evaluating_Model_Bias_Requires_Characterizing_its_Mistakes.md)
+
+- [Arena Learning: Build Data Flywheel for LLMs Post-training via Simulated Chatbot Arena](2024年07月15日/Arena_Learning_Build_Data_Flywheel_for_LLMs_Post-training_via_Simulated_Chatbot_Arena.md)
+
+    - [翻译: 竞技场学习：利用模拟聊天机器人竞技场，为 LLMs 训练后打造数据飞轮](2024年07月15日/Arena_Learning_Build_Data_Flywheel_for_LLMs_Post-training_via_Simulated_Chatbot_Arena.md)
+
+- [Leave No Knowledge Behind During Knowledge Distillation: Towards Practical and Effective Knowledge Distillation for Code-Switching ASR Using Realistic Data](2024年07月15日/Leave_No_Knowledge_Behind_During_Knowledge_Distillation_Towards_Practical_and_Effective_Knowledge_Distillation_for_Code-Switching_ASR_Using_Realistic_Data.md)
+
+    - [翻译: 知识蒸馏不留遗珠：利用真实数据提升代码转换ASR的实用与效能](2024年07月15日/Leave_No_Knowledge_Behind_During_Knowledge_Distillation_Towards_Practical_and_Effective_Knowledge_Distillation_for_Code-Switching_ASR_Using_Realistic_Data.md)
+
+- [Boosting Zero-Shot Crosslingual Performance using LLM-Based Augmentations with Effective Data Selection](2024年07月15日/Boosting_Zero-Shot_Crosslingual_Performance_using_LLM-Based_Augmentations_with_Effective_Data_Selection.md)
+
+    - [翻译: 通过基于LLM的增强和精准数据选择，提升零-shot跨语言性能](2024年07月15日/Boosting_Zero-Shot_Crosslingual_Performance_using_LLM-Based_Augmentations_with_Effective_Data_Selection.md)
+
+- [Beyond Generative Artificial Intelligence: Roadmap for Natural Language Generation](2024年07月15日/Beyond_Generative_Artificial_Intelligence_Roadmap_for_Natural_Language_Generation.md)
+
+    - [翻译: 探索生成式AI之外：绘制自然语言生成的未来蓝图](2024年07月15日/Beyond_Generative_Artificial_Intelligence_Roadmap_for_Natural_Language_Generation.md)
+
+- [TCM-FTP: Fine-Tuning Large Language Models for Herbal Prescription Prediction](2024年07月15日/TCM-FTP_Fine-Tuning_Large_Language_Models_for_Herbal_Prescription_Prediction.md)
+
+    - [翻译: TCM-FTP：专为草药处方预测而设计的大型语言模型微调方案](2024年07月15日/TCM-FTP_Fine-Tuning_Large_Language_Models_for_Herbal_Prescription_Prediction.md)
+
+- [Learning Dynamics of LLM Finetuning](2024年07月15日/Learning_Dynamics_of_LLM_Finetuning.md)
+
+    - [翻译: LLM 微调的学习机制](2024年07月15日/Learning_Dynamics_of_LLM_Finetuning.md)
+
+- [IDEAL: Leveraging Infinite and Dynamic Characterizations of Large Language Models for Query-focused Summarization](2024年07月15日/IDEAL_Leveraging_Infinite_and_Dynamic_Characterizations_of_Large_Language_Models_for_Query-focused_Summarization.md)
+
+    - [翻译: IDEAL 技术：借助 LLM 的无限与动态特性，优化查询聚焦摘要效果](2024年07月15日/IDEAL_Leveraging_Infinite_and_Dynamic_Characterizations_of_Large_Language_Models_for_Query-focused_Summarization.md)
+
+- [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](2024年07月15日/SuperPADL_Scaling_Language-Directed_Physics-Based_Control_with_Progressive_Supervised_Distillation.md)
+
+    - [翻译: SuperPADL：利用渐进式监督蒸馏技术，扩展语言指导的物理基础控制能力](2024年07月15日/SuperPADL_Scaling_Language-Directed_Physics-Based_Control_with_Progressive_Supervised_Distillation.md)
+
+- [The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore Non-Determinism](2024年07月15日/The_Good,_The_Bad,_and_The_Greedy_Evaluation_of_LLMs_Should_Not_Ignore_Non-Determinism.md)
+
+    - [翻译: 在评估 LLMs 时，我们不应忽视非确定性，它如同“好的、坏的和贪婪的”三重奏，影响着模型的表现。](2024年07月15日/The_Good,_The_Bad,_and_The_Greedy_Evaluation_of_LLMs_Should_Not_Ignore_Non-Determinism.md)
+
+- [Enhancing Medication Recommendation with LLM Text Representation](2024年07月15日/Enhancing_Medication_Recommendation_with_LLM_Text_Representation.md)
+
+    - [翻译: 利用 LLM 文本表示提升药物推荐效果](2024年07月15日/Enhancing_Medication_Recommendation_with_LLM_Text_Representation.md)
+
+- [Tensor clustering fossils in modified gravity and high-redshift gravitational-wave sound speed](2024年07月15日/Tensor_clustering_fossils_in_modified_gravity_and_high-redshift_gravitational-wave_sound_speed.md)
+
+    - [翻译: 修正重力与高红移引力波声速下的张量聚类化石研究](2024年07月15日/Tensor_clustering_fossils_in_modified_gravity_and_high-redshift_gravitational-wave_sound_speed.md)
+
 2024年07月14日
 
 - [GenSco: Can Question Decomposition based Passage Alignment improve Question Answering?](2024年07月14日/GenSco_Can_Question_Decomposition_based_Passage_Alignment_improve_Question_Answering.md)
@@ -139,6 +295,10 @@
 - [By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting](2024年07月14日/By_My_Eyes_Grounding_Multimodal_Large_Language_Models_with_Sensor_Data_via_Visual_Prompting.md)
 
     - [翻译: 以我之眼：借助视觉提示，通过传感器数据为多模态大型语言模型提供坚实基础](2024年07月14日/By_My_Eyes_Grounding_Multimodal_Large_Language_Models_with_Sensor_Data_via_Visual_Prompting.md)
+
+- [Empowering LLMs for Verilog Generation through Multi-Level Summarization](2024年07月14日/Empowering_LLMs_for_Verilog_Generation_through_Multi-Level_Summarization.md)
+
+    - [翻译: 借助多级摘要技术，提升 LLMs 在 Verilog 生成方面的能力](2024年07月14日/Empowering_LLMs_for_Verilog_Generation_through_Multi-Level_Summarization.md)
 
 2024年07月13日
 
