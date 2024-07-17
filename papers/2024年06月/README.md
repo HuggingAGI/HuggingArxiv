@@ -1180,6 +1180,10 @@
 
     - [翻译: 生成式AI：系统视角下的探索](2024年06月25日/Generative_AI_Systems_A_Systems-based_Perspective_on_Generative_AI.md)
 
+- [RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems](2024年06月25日/RAGBench_Explainable_Benchmark_for_Retrieval-Augmented_Generation_Systems.md)
+
+    - [翻译: RAGBench：一款专为增强检索生成系统设计的可解释基准测试](2024年06月25日/RAGBench_Explainable_Benchmark_for_Retrieval-Augmented_Generation_Systems.md)
+
 2024年06月24日
 
 - [EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](2024年06月24日/EAGLE-2_Faster_Inference_of_Language_Models_with_Dynamic_Draft_Trees.md)
@@ -1437,6 +1441,10 @@
 - [Visualization Literacy of Multimodal Large Language Models: A Comparative Study](2024年06月24日/Visualization_Literacy_of_Multimodal_Large_Language_Models_A_Comparative_Study.md)
 
     - [翻译: 探究多模态大型语言模型的可视化能力：一项对比研究](2024年06月24日/Visualization_Literacy_of_Multimodal_Large_Language_Models_A_Comparative_Study.md)
+
+- [Panza: A Personalized Text Writing Assistant via Data Playback and Local Fine-Tuning](2024年06月24日/Panza_A_Personalized_Text_Writing_Assistant_via_Data_Playback_and_Local_Fine-Tuning.md)
+
+    - [翻译: Panza：一款结合数据回放与局部微调技术的个性化文本创作助手](2024年06月24日/Panza_A_Personalized_Text_Writing_Assistant_via_Data_Playback_and_Local_Fine-Tuning.md)
 
 2024年06月23日
 
@@ -4759,6 +4767,10 @@
 - [Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models](2024年06月09日/Chain-of-Scrutiny_Detecting_Backdoor_Attacks_for_Large_Language_Models.md)
 
     - [翻译: 审查链：揭秘大型语言模型中的后门攻击](2024年06月09日/Chain-of-Scrutiny_Detecting_Backdoor_Attacks_for_Large_Language_Models.md)
+
+- [Building Artificial Intelligence with Creative Agency and Self-hood](2024年06月09日/Building_Artificial_Intelligence_with_Creative_Agency_and_Self-hood.md)
+
+    - [翻译: 打造具备创造力和自我意识的人工智能](2024年06月09日/Building_Artificial_Intelligence_with_Creative_Agency_and_Self-hood.md)
 
 2024年06月08日
 

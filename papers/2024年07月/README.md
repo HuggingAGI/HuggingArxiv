@@ -34,6 +34,154 @@
 
     - [翻译: 借助大型语言模型实现多模态产品组合](2024年07月16日/Harnessing_Large_Language_Models_for_Multimodal_Product_Bundling.md)
 
+- [Ascend-CC: Confidential Computing on Heterogeneous NPU for Emerging Generative AI Workloads](2024年07月16日/Ascend-CC_Confidential_Computing_on_Heterogeneous_NPU_for_Emerging_Generative_AI_Workloads.md)
+
+    - [翻译: Ascend-CC：异构NPU上的新兴生成AI工作负载保密计算](2024年07月16日/Ascend-CC_Confidential_Computing_on_Heterogeneous_NPU_for_Emerging_Generative_AI_Workloads.md)
+
+- [Scaling Sign Language Translation](2024年07月16日/Scaling_Sign_Language_Translation.md)
+
+    - [翻译: 手语翻译的规模化](2024年07月16日/Scaling_Sign_Language_Translation.md)
+
+- [Schema Matching with Large Language Models: an Experimental Study](2024年07月16日/Schema_Matching_with_Large_Language_Models_an_Experimental_Study.md)
+
+    - [翻译: 大型语言模型中的模式匹配：实验探究](2024年07月16日/Schema_Matching_with_Large_Language_Models_an_Experimental_Study.md)
+
+- [LoFTI: Localization and Factuality Transfer to Indian Locales](2024年07月16日/LoFTI_Localization_and_Factuality_Transfer_to_Indian_Locales.md)
+
+    - [翻译: LoFTI：将本地化与事实性迁移至印度各地区](2024年07月16日/LoFTI_Localization_and_Factuality_Transfer_to_Indian_Locales.md)
+
+- [GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text](2024年07月16日/GPT_Assisted_Annotation_of_Rhetorical_and_Linguistic_Features_for_Interpretable_Propaganda_Technique_Detection_in_News_Text.md)
+
+    - [翻译: 借助 GPT 进行修辞与语言特征的辅助标注，旨在提升新闻文本中宣传技巧检测的透明度与准确性。](2024年07月16日/GPT_Assisted_Annotation_of_Rhetorical_and_Linguistic_Features_for_Interpretable_Propaganda_Technique_Detection_in_News_Text.md)
+
+- [PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation](2024年07月16日/PipeInfer_Accelerating_LLM_Inference_using_Asynchronous_Pipelined_Speculation.md)
+
+    - [翻译: PipeInfer：通过异步流水线推测技术，加速大型语言模型的推理过程。](2024年07月16日/PipeInfer_Accelerating_LLM_Inference_using_Asynchronous_Pipelined_Speculation.md)
+
+- [Large Language Models as Misleading Assistants in Conversation](2024年07月16日/Large_Language_Models_as_Misleading_Assistants_in_Conversation.md)
+
+    - [翻译: 大型语言模型在对话中扮演着误导性助手的角色](2024年07月16日/Large_Language_Models_as_Misleading_Assistants_in_Conversation.md)
+
+- [SwitchCIT: Switching for Continual Instruction Tuning of Large Language Models](2024年07月16日/SwitchCIT_Switching_for_Continual_Instruction_Tuning_of_Large_Language_Models.md)
+
+    - [翻译: SwitchCIT：针对大型语言模型的持续指令调优进行智能切换](2024年07月16日/SwitchCIT_Switching_for_Continual_Instruction_Tuning_of_Large_Language_Models.md)
+
+- [Educational Personalized Learning Path Planning with Large Language Models](2024年07月16日/Educational_Personalized_Learning_Path_Planning_with_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型进行教育个性化学习路径规划](2024年07月16日/Educational_Personalized_Learning_Path_Planning_with_Large_Language_Models.md)
+
+- [XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach](2024年07月16日/XEdgeAI_A_Human-centered_Industrial_Inspection_Framework_with_Data-centric_Explainable_Edge_AI_Approach.md)
+
+    - [翻译: XEdgeAI：一个以人为本、数据驱动的工业检测框架，融合了可解释的边缘AI技术。](2024年07月16日/XEdgeAI_A_Human-centered_Industrial_Inspection_Framework_with_Data-centric_Explainable_Edge_AI_Approach.md)
+
+- [Robust Utility-Preserving Text Anonymization Based on Large Language Models](2024年07月16日/Robust_Utility-Preserving_Text_Anonymization_Based_on_Large_Language_Models.md)
+
+    - [翻译: 基于大型语言模型的文本匿名化技术，确保实用性与鲁棒性并存。](2024年07月16日/Robust_Utility-Preserving_Text_Anonymization_Based_on_Large_Language_Models.md)
+
+- [Vectoring Languages](2024年07月16日/Vectoring_Languages.md)
+
+    - [翻译: 语言的向量化](2024年07月16日/Vectoring_Languages.md)
+
+- [Exploring Quantization for Efficient Pre-Training of Transformer Language Models](2024年07月16日/Exploring_Quantization_for_Efficient_Pre-Training_of_Transformer_Language_Models.md)
+
+    - [翻译: 研究量化技术，以提升 Transformer 语言模型的预训练效率](2024年07月16日/Exploring_Quantization_for_Efficient_Pre-Training_of_Transformer_Language_Models.md)
+
+- [Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Large Models](2024年07月16日/Turbo_Informativity-Driven_Acceleration_Plug-In_for_Vision-Language_Large_Models.md)
+
+    - [翻译: Turbo：一款信息驱动型加速插件，专为视觉与语言大型模型设计](2024年07月16日/Turbo_Informativity-Driven_Acceleration_Plug-In_for_Vision-Language_Large_Models.md)
+
+- [VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models](2024年07月16日/VLMEvalKit_An_Open-Source_Toolkit_for_Evaluating_Large_Multi-Modality_Models.md)
+
+    - [翻译: VLMEvalKit：一款开源工具，专为评估大型多模态模型而设计。](2024年07月16日/VLMEvalKit_An_Open-Source_Toolkit_for_Evaluating_Large_Multi-Modality_Models.md)
+
+- [CCoE: A Compact LLM with Collaboration of Experts](2024年07月16日/CCoE_A_Compact_LLM_with_Collaboration_of_Experts.md)
+
+    - [翻译: CCoE：专家协作下的紧凑型LLM](2024年07月16日/CCoE_A_Compact_LLM_with_Collaboration_of_Experts.md)
+
+- [MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models](2024年07月16日/MINI-LLM_Memory-Efficient_Structured_Pruning_for_Large_Language_Models.md)
+
+    - [翻译: MINI-LLM：针对大型语言模型的高效内存结构化剪枝方案](2024年07月16日/MINI-LLM_Memory-Efficient_Structured_Pruning_for_Large_Language_Models.md)
+
+- [R-SFLLM: Jamming Resilient Framework for Split Federated Learning with Large Language Models](2024年07月16日/R-SFLLM_Jamming_Resilient_Framework_for_Split_Federated_Learning_with_Large_Language_Models.md)
+
+    - [翻译: R-SFLLM：为大型语言模型设计的分割联邦学习抗干扰框架](2024年07月16日/R-SFLLM_Jamming_Resilient_Framework_for_Split_Federated_Learning_with_Large_Language_Models.md)
+
+- [A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting](2024年07月16日/A_Comprehensive_Evaluation_of_Large_Language_Models_on_Temporal_Event_Forecasting.md)
+
+    - [翻译: 大型语言模型在时间事件预测领域的全面评估](2024年07月16日/A_Comprehensive_Evaluation_of_Large_Language_Models_on_Temporal_Event_Forecasting.md)
+
+- [AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization](2024年07月16日/AdaptEval_Evaluating_Large_Language_Models_on_Domain_Adaptation_for_Text_Summarization.md)
+
+    - [翻译: AdaptEval：聚焦于评估大型语言模型在文本摘要领域适应性方面的表现。](2024年07月16日/AdaptEval_Evaluating_Large_Language_Models_on_Domain_Adaptation_for_Text_Summarization.md)
+
+- [Optimizing KV Cache Eviction in LLMs: Adaptive Allocation for Enhanced Budget Utilization](2024年07月16日/Optimizing_KV_Cache_Eviction_in_LLMs_Adaptive_Allocation_for_Enhanced_Budget_Utilization.md)
+
+    - [翻译: 优化LLM中的KV缓存驱逐策略：通过自适应分配提升预算利用效率](2024年07月16日/Optimizing_KV_Cache_Eviction_in_LLMs_Adaptive_Allocation_for_Enhanced_Budget_Utilization.md)
+
+- [Fine-Tuning Medical Language Models for Enhanced Long-Contextual Understanding and Domain Expertise](2024年07月16日/Fine-Tuning_Medical_Language_Models_for_Enhanced_Long-Contextual_Understanding_and_Domain_Expertise.md)
+
+    - [翻译: 通过微调医学语言模型，我们旨在提升其对长篇上下文的理解能力及领域专业知识。](2024年07月16日/Fine-Tuning_Medical_Language_Models_for_Enhanced_Long-Contextual_Understanding_and_Domain_Expertise.md)
+
+- [LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices](2024年07月16日/LRQ_Optimizing_Post-Training_Quantization_for_Large_Language_Models_by_Learning_Low-Rank_Weight-Scaling_Matrices.md)
+
+    - [翻译: LRQ：借助学习低秩权重缩放矩阵，优化大型语言模型的训练后量化过程。](2024年07月16日/LRQ_Optimizing_Post-Training_Quantization_for_Large_Language_Models_by_Learning_Low-Rank_Weight-Scaling_Matrices.md)
+
+- [Reasoning with Large Language Models, a Survey](2024年07月16日/Reasoning_with_Large_Language_Models,_a_Survey.md)
+
+    - [翻译: 大型语言模型推理研究综述](2024年07月16日/Reasoning_with_Large_Language_Models,_a_Survey.md)
+
+- [Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval](2024年07月16日/Bootstrapped_Pre-training_with_Dynamic_Identifier_Prediction_for_Generative_Retrieval.md)
+
+    - [翻译: 动态标识符预测的自举预训练在生成式检索中发挥作用](2024年07月16日/Bootstrapped_Pre-training_with_Dynamic_Identifier_Prediction_for_Generative_Retrieval.md)
+
+- [Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation](2024年07月16日/Beyond_Mask_Rethinking_Guidance_Types_in_Few-shot_Segmentation.md)
+
+    - [翻译: 不仅仅是掩码：探索少样本分割中指导类型的多样性](2024年07月16日/Beyond_Mask_Rethinking_Guidance_Types_in_Few-shot_Segmentation.md)
+
+- [Beyond Correctness: Benchmarking Multi-dimensional Code Generation for Large Language Models](2024年07月16日/Beyond_Correctness_Benchmarking_Multi-dimensional_Code_Generation_for_Large_Language_Models.md)
+
+    - [翻译: 不仅追求正确性，更对大型语言模型的多维度代码生成能力进行全面基准测试。](2024年07月16日/Beyond_Correctness_Benchmarking_Multi-dimensional_Code_Generation_for_Large_Language_Models.md)
+
+- [Trust No Bot: Discovering Personal Disclosures in Human-LLM Conversations in the Wild](2024年07月16日/Trust_No_Bot_Discovering_Personal_Disclosures_in_Human-LLM_Conversations_in_the_Wild.md)
+
+    - [翻译: 别轻信机器人：揭秘人类与大型语言模型对话中的个人隐私泄露](2024年07月16日/Trust_No_Bot_Discovering_Personal_Disclosures_in_Human-LLM_Conversations_in_the_Wild.md)
+
+- [Genomic Language Models: Opportunities and Challenges](2024年07月16日/Genomic_Language_Models_Opportunities_and_Challenges.md)
+
+    - [翻译: 基因组语言模型：探索机遇，迎接挑战](2024年07月16日/Genomic_Language_Models_Opportunities_and_Challenges.md)
+
+- [Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models](2024年07月16日/Reflective_Instruction_Tuning_Mitigating_Hallucinations_in_Large_Vision-Language_Models.md)
+
+    - [翻译: 通过反射性指令调整，我们旨在减轻大型视觉-语言模型中的幻觉问题。](2024年07月16日/Reflective_Instruction_Tuning_Mitigating_Hallucinations_in_Large_Vision-Language_Models.md)
+
+- [States Hidden in Hidden States: LLMs Emerge Discrete State Representations Implicitly](2024年07月16日/States_Hidden_in_Hidden_States_LLMs_Emerge_Discrete_State_Representations_Implicitly.md)
+
+    - [翻译: LLM 在隐藏状态中悄然涌现出离散的状态表示，这一现象虽隐秘却引人深思。](2024年07月16日/States_Hidden_in_Hidden_States_LLMs_Emerge_Discrete_State_Representations_Implicitly.md)
+
+- [SDPT: Synchronous Dual Prompt Tuning for Fusion-based Visual-Language Pre-trained Models](2024年07月16日/SDPT_Synchronous_Dual_Prompt_Tuning_for_Fusion-based_Visual-Language_Pre-trained_Models.md)
+
+    - [翻译: SDPT：为融合型视觉-语言预训练模型设计的同步双提示调优技术](2024年07月16日/SDPT_Synchronous_Dual_Prompt_Tuning_for_Fusion-based_Visual-Language_Pre-trained_Models.md)
+
+- [Representation Bias in Political Sample Simulations with Large Language Models](2024年07月16日/Representation_Bias_in_Political_Sample_Simulations_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型在模拟政治样本时，存在表示偏差问题。](2024年07月16日/Representation_Bias_in_Political_Sample_Simulations_with_Large_Language_Models.md)
+
+- [A Framework for Evaluating Appropriateness, Trustworthiness, and Safety in Mental Wellness AI Chatbots](2024年07月16日/A_Framework_for_Evaluating_Appropriateness,_Trustworthiness,_and_Safety_in_Mental_Wellness_AI_Chatbots.md)
+
+    - [翻译: 心理健康AI聊天机器人的适当性、可信度与安全性评估框架](2024年07月16日/A_Framework_for_Evaluating_Appropriateness,_Trustworthiness,_and_Safety_in_Mental_Wellness_AI_Chatbots.md)
+
+- [Reliable Reasoning Beyond Natural Language](2024年07月16日/Reliable_Reasoning_Beyond_Natural_Language.md)
+
+    - [翻译: 超越自然语言的可靠推理](2024年07月16日/Reliable_Reasoning_Beyond_Natural_Language.md)
+
+- [Scientific QA System with Verifiable Answers](2024年07月16日/Scientific_QA_System_with_Verifiable_Answers.md)
+
+    - [翻译: 科学问答系统：答案可验证](2024年07月16日/Scientific_QA_System_with_Verifiable_Answers.md)
+
+- [UrbanWorld: An Urban World Model for 3D City Generation](2024年07月16日/UrbanWorld_An_Urban_World_Model_for_3D_City_Generation.md)
+
+    - [翻译: UrbanWorld：开创性的3D城市生成模型，专为城市世界设计。](2024年07月16日/UrbanWorld_An_Urban_World_Model_for_3D_City_Generation.md)
+
 2024年07月15日
 
 - [Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval](2024年07月15日/Think-on-Graph_2.0_Deep_and_Interpretable_Large_Language_Model_Reasoning_with_Knowledge_Graph-guided_Retrieval.md)
@@ -243,6 +391,34 @@
 - [OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models](2024年07月15日/OpenPSG_Open-set_Panoptic_Scene_Graph_Generation_via_Large_Multimodal_Models.md)
 
     - [翻译: OpenPSG：借助大型多模态模型，实现开集全景场景图的生成](2024年07月15日/OpenPSG_Open-set_Panoptic_Scene_Graph_Generation_via_Large_Multimodal_Models.md)
+
+- [VISA: Reasoning Video Object Segmentation via Large Language Models](2024年07月15日/VISA_Reasoning_Video_Object_Segmentation_via_Large_Language_Models.md)
+
+    - [翻译: VISA：借助大型语言模型实现视频对象分割的推理](2024年07月15日/VISA_Reasoning_Video_Object_Segmentation_via_Large_Language_Models.md)
+
+- [Large Vision-Language Models as Emotion Recognizers in Context Awareness](2024年07月15日/Large_Vision-Language_Models_as_Emotion_Recognizers_in_Context_Awareness.md)
+
+    - [翻译: 大型视觉-语言模型在情境感知中扮演情感识别器的角色](2024年07月15日/Large_Vision-Language_Models_as_Emotion_Recognizers_in_Context_Awareness.md)
+
+- [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](2024年07月15日/Uncertainty_is_Fragile_Manipulating_Uncertainty_in_Large_Language_Models.md)
+
+    - [翻译: 不确定性易碎：大型语言模型中不确定性的操控](2024年07月15日/Uncertainty_is_Fragile_Manipulating_Uncertainty_in_Large_Language_Models.md)
+
+- [Static Detection of Filesystem Vulnerabilities in Android Systems](2024年07月15日/Static_Detection_of_Filesystem_Vulnerabilities_in_Android_Systems.md)
+
+    - [翻译: Android系统文件系统漏洞的静态检测](2024年07月15日/Static_Detection_of_Filesystem_Vulnerabilities_in_Android_Systems.md)
+
+- [Making New Connections: LLMs as Puzzle Generators for The New York Times' Connections Word Game](2024年07月15日/Making_New_Connections_LLMs_as_Puzzle_Generators_for_The_New_York_Times'_Connections_Word_Game.md)
+
+    - [翻译: LLM 助力《纽约时报》Connections 文字游戏，创新谜题连连看。](2024年07月15日/Making_New_Connections_LLMs_as_Puzzle_Generators_for_The_New_York_Times'_Connections_Word_Game.md)
+
+- [From GaLore to WeLore: How Low-Rank Weights Non-uniformly Emerge from Low-Rank Gradients](2024年07月15日/From_GaLore_to_WeLore_How_Low-Rank_Weights_Non-uniformly_Emerge_from_Low-Rank_Gradients.md)
+
+    - [翻译: 从 GaLore 到 WeLore：低秩权重非均匀地源自低秩梯度](2024年07月15日/From_GaLore_to_WeLore_How_Low-Rank_Weights_Non-uniformly_Emerge_from_Low-Rank_Gradients.md)
+
+- [Mechanistic interpretability of large language models with applications to the financial services industry](2024年07月15日/Mechanistic_interpretability_of_large_language_models_with_applications_to_the_financial_services_industry.md)
+
+    - [翻译: 探究大型语言模型的内在机制，并探讨其在金融服务领域的应用潜力。](2024年07月15日/Mechanistic_interpretability_of_large_language_models_with_applications_to_the_financial_services_industry.md)
 
 2024年07月14日
 
