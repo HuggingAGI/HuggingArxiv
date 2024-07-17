@@ -890,6 +890,10 @@
 
     - [翻译: 化学领域中大型语言模型与自主代理的综述](2024年06月26日/A_Review_of_Large_Language_Models_and_Autonomous_Agents_in_Chemistry.md)
 
+- [Geode: A Zero-shot Geospatial Question-Answering Agent with Explicit Reasoning and Precise Spatio-Temporal Retrieval](2024年06月26日/Geode_A_Zero-shot_Geospatial_Question-Answering_Agent_with_Explicit_Reasoning_and_Precise_Spatio-Temporal_Retrieval.md)
+
+    - [翻译: Geode：一款零-shot 地理空间问答代理，具备明确推理能力和精确的时空信息检索功能。](2024年06月26日/Geode_A_Zero-shot_Geospatial_Question-Answering_Agent_with_Explicit_Reasoning_and_Precise_Spatio-Temporal_Retrieval.md)
+
 2024年06月25日
 
 - [Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity](2024年06月25日/Arboretum_A_Large_Multimodal_Dataset_Enabling_AI_for_Biodiversity.md)
@@ -1172,6 +1176,10 @@
 
     - [翻译: MoE-CT：一种创新策略，助力大型语言模型训练，有效抵御灾难性遗忘。](2024年06月25日/MoE-CT_A_Novel_Approach_For_Large_Language_Models_Training_With_Resistance_To_Catastrophic_Forgetting.md)
 
+- [Generative AI Systems: A Systems-based Perspective on Generative AI](2024年06月25日/Generative_AI_Systems_A_Systems-based_Perspective_on_Generative_AI.md)
+
+    - [翻译: 生成式AI：系统视角下的探索](2024年06月25日/Generative_AI_Systems_A_Systems-based_Perspective_on_Generative_AI.md)
+
 2024年06月24日
 
 - [EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](2024年06月24日/EAGLE-2_Faster_Inference_of_Language_Models_with_Dynamic_Draft_Trees.md)
@@ -1425,6 +1433,10 @@
 - [CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph](2024年06月24日/CogMG_Collaborative_Augmentation_Between_Large_Language_Model_and_Knowledge_Graph.md)
 
     - [翻译: CogMG：大型语言模型与知识图谱的协同增强](2024年06月24日/CogMG_Collaborative_Augmentation_Between_Large_Language_Model_and_Knowledge_Graph.md)
+
+- [Visualization Literacy of Multimodal Large Language Models: A Comparative Study](2024年06月24日/Visualization_Literacy_of_Multimodal_Large_Language_Models_A_Comparative_Study.md)
+
+    - [翻译: 探究多模态大型语言模型的可视化能力：一项对比研究](2024年06月24日/Visualization_Literacy_of_Multimodal_Large_Language_Models_A_Comparative_Study.md)
 
 2024年06月23日
 

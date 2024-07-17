@@ -1,5 +1,39 @@
 # 2024年07月
 
+2024年07月16日
+
+- [How Personality Traits Influence Negotiation Outcomes? A Simulation based on Large Language Models](2024年07月16日/How_Personality_Traits_Influence_Negotiation_Outcomes_A_Simulation_based_on_Large_Language_Models.md)
+
+    - [翻译: 探究个性特质对谈判结果的影响：一项基于大型语言模型的模拟研究](2024年07月16日/How_Personality_Traits_Influence_Negotiation_Outcomes_A_Simulation_based_on_Large_Language_Models.md)
+
+- [PRET: Planning with Directed Fidelity Trajectory for Vision and Language Navigation](2024年07月16日/PRET_Planning_with_Directed_Fidelity_Trajectory_for_Vision_and_Language_Navigation.md)
+
+    - [翻译: PRET：通过定向忠诚轨迹规划视觉与语言导航](2024年07月16日/PRET_Planning_with_Directed_Fidelity_Trajectory_for_Vision_and_Language_Navigation.md)
+
+- [The Oscars of AI Theater: A Survey on Role-Playing with Language Models](2024年07月16日/The_Oscars_of_AI_Theater_A_Survey_on_Role-Playing_with_Language_Models.md)
+
+    - [翻译: AI 界的奥斯卡盛典：探索语言模型在角色扮演中的应用](2024年07月16日/The_Oscars_of_AI_Theater_A_Survey_on_Role-Playing_with_Language_Models.md)
+
+- [SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions](2024年07月16日/SPINACH_SPARQL-Based_Information_Navigation_for_Challenging_Real-World_Questions.md)
+
+    - [翻译: SPINACH：利用 SPARQL 技术，为解决复杂现实问题提供信息导航](2024年07月16日/SPINACH_SPARQL-Based_Information_Navigation_for_Challenging_Real-World_Questions.md)
+
+- [Revisiting the Impact of Pursuing Modularity for Code Generation](2024年07月16日/Revisiting_the_Impact_of_Pursuing_Modularity_for_Code_Generation.md)
+
+    - [翻译: 重审模块化追求对代码生成的影响](2024年07月16日/Revisiting_the_Impact_of_Pursuing_Modularity_for_Code_Generation.md)
+
+- [InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains](2024年07月16日/InvAgent_A_Large_Language_Model_based_Multi-Agent_System_for_Inventory_Management_in_Supply_Chains.md)
+
+    - [翻译: InvAgent：一款基于大型语言模型的多智能体系统，专为供应链库存管理设计](2024年07月16日/InvAgent_A_Large_Language_Model_based_Multi-Agent_System_for_Inventory_Management_in_Supply_Chains.md)
+
+- [OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces](2024年07月16日/OmniBind_Large-scale_Omni_Multimodal_Representation_via_Binding_Spaces.md)
+
+    - [翻译: OmniBind：借助绑定空间实现的全模态大规模表示](2024年07月16日/OmniBind_Large-scale_Omni_Multimodal_Representation_via_Binding_Spaces.md)
+
+- [Harnessing Large Language Models for Multimodal Product Bundling](2024年07月16日/Harnessing_Large_Language_Models_for_Multimodal_Product_Bundling.md)
+
+    - [翻译: 借助大型语言模型实现多模态产品组合](2024年07月16日/Harnessing_Large_Language_Models_for_Multimodal_Product_Bundling.md)
+
 2024年07月15日
 
 - [Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval](2024年07月15日/Think-on-Graph_2.0_Deep_and_Interpretable_Large_Language_Model_Reasoning_with_Knowledge_Graph-guided_Retrieval.md)
@@ -201,6 +235,14 @@
 - [Tensor clustering fossils in modified gravity and high-redshift gravitational-wave sound speed](2024年07月15日/Tensor_clustering_fossils_in_modified_gravity_and_high-redshift_gravitational-wave_sound_speed.md)
 
     - [翻译: 修正重力与高红移引力波声速下的张量聚类化石研究](2024年07月15日/Tensor_clustering_fossils_in_modified_gravity_and_high-redshift_gravitational-wave_sound_speed.md)
+
+- [COMET: "Cone of experience" enhanced large multimodal model for mathematical problem generation](2024年07月15日/COMET_Cone_of_experience_enhanced_large_multimodal_model_for_mathematical_problem_generation.md)
+
+    - [翻译: COMET：融合“经验锥”理念的大型多模态模型，专为数学问题生成而设计](2024年07月15日/COMET_Cone_of_experience_enhanced_large_multimodal_model_for_mathematical_problem_generation.md)
+
+- [OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models](2024年07月15日/OpenPSG_Open-set_Panoptic_Scene_Graph_Generation_via_Large_Multimodal_Models.md)
+
+    - [翻译: OpenPSG：借助大型多模态模型，实现开集全景场景图的生成](2024年07月15日/OpenPSG_Open-set_Panoptic_Scene_Graph_Generation_via_Large_Multimodal_Models.md)
 
 2024年07月14日
 
@@ -1023,6 +1065,10 @@
 - [Evaluating Voice Command Pipelines for Drone Control: From STT and LLM to Direct Classification and Siamese Networks](2024年07月10日/Evaluating_Voice_Command_Pipelines_for_Drone_Control_From_STT_and_LLM_to_Direct_Classification_and_Siamese_Networks.md)
 
     - [翻译: 探索无人机语音控制：从语音识别到大型语言模型，再到直接分类与孪生网络的应用。](2024年07月10日/Evaluating_Voice_Command_Pipelines_for_Drone_Control_From_STT_and_LLM_to_Direct_Classification_and_Siamese_Networks.md)
+
+- [EfficientQAT: Efficient Quantization-Aware Training for Large Language Models](2024年07月10日/EfficientQAT_Efficient_Quantization-Aware_Training_for_Large_Language_Models.md)
+
+    - [翻译: EfficientQAT：为大型语言模型提供高效量化感知训练](2024年07月10日/EfficientQAT_Efficient_Quantization-Aware_Training_for_Large_Language_Models.md)
 
 2024年07月09日
 
