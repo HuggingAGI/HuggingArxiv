@@ -182,6 +182,18 @@
 
     - [翻译: UrbanWorld：开创性的3D城市生成模型，专为城市世界设计。](2024年07月16日/UrbanWorld_An_Urban_World_Model_for_3D_City_Generation.md)
 
+- [NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](2024年07月16日/NeedleBench_Can_LLMs_Do_Retrieval_and_Reasoning_in_1_Million_Context_Window.md)
+
+    - [翻译: NeedleBench 挑战：LLM 能否在百万级上下文窗口中同时进行检索与推理？](2024年07月16日/NeedleBench_Can_LLMs_Do_Retrieval_and_Reasoning_in_1_Million_Context_Window.md)
+
+- [Code Documentation and Analysis to Secure Software Development](2024年07月16日/Code_Documentation_and_Analysis_to_Secure_Software_Development.md)
+
+    - [翻译: 通过代码文档与分析，保障软件开发的安全性](2024年07月16日/Code_Documentation_and_Analysis_to_Secure_Software_Development.md)
+
+- [What's Wrong? Refining Meeting Summaries with LLM Feedback](2024年07月16日/What's_Wrong_Refining_Meeting_Summaries_with_LLM_Feedback.md)
+
+    - [翻译: 如何改进？借助 LLM 反馈精炼会议摘要](2024年07月16日/What's_Wrong_Refining_Meeting_Summaries_with_LLM_Feedback.md)
+
 2024年07月15日
 
 - [Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval](2024年07月15日/Think-on-Graph_2.0_Deep_and_Interpretable_Large_Language_Model_Reasoning_with_Knowledge_Graph-guided_Retrieval.md)
