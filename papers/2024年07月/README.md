@@ -54,6 +54,134 @@
 
     - [翻译: MEDFuse：结合掩蔽实验室测试建模与大型语言模型，实现多模态电子健康记录数据的高效融合。](2024年07月17日/MEDFuse_Multimodal_EHR_Data_Fusion_with_Masked_Lab-Test_Modeling_and_Large_Language_Models.md)
 
+- [RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Multi-Modal Models](2024年07月17日/RoDE_Linear_Rectified_Mixture_of_Diverse_Experts_for_Food_Large_Multi-Modal_Models.md)
+
+    - [翻译: RoDE：专为食品领域大型多模态模型设计的线性整流混合多样专家系统](2024年07月17日/RoDE_Linear_Rectified_Mixture_of_Diverse_Experts_for_Food_Large_Multi-Modal_Models.md)
+
+- [NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model](2024年07月17日/NL2Contact_Natural_Language_Guided_3D_Hand-Object_Contact_Modeling_with_Diffusion_Model.md)
+
+    - [翻译: NL2Contact：借助扩散模型，通过自然语言引导实现3D手-物体接触的精准建模。](2024年07月17日/NL2Contact_Natural_Language_Guided_3D_Hand-Object_Contact_Modeling_with_Diffusion_Model.md)
+
+- [Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?](2024年07月17日/Is_Sarcasm_Detection_A_Step-by-Step_Reasoning_Process_in_Large_Language_Models.md)
+
+    - [翻译: 大语言模型中的讽刺检测是否遵循一个逐步推理的过程？](2024年07月17日/Is_Sarcasm_Detection_A_Step-by-Step_Reasoning_Process_in_Large_Language_Models.md)
+
+- [The Future of Learning: Large Language Models through the Lens of Students](2024年07月17日/The_Future_of_Learning_Large_Language_Models_through_the_Lens_of_Students.md)
+
+    - [翻译: 未来学习：学生视角下的大型语言模型探索](2024年07月17日/The_Future_of_Learning_Large_Language_Models_through_the_Lens_of_Students.md)
+
+- [Patch-Level Training for Large Language Models](2024年07月17日/Patch-Level_Training_for_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型的补丁级训练](2024年07月17日/Patch-Level_Training_for_Large_Language_Models.md)
+
+- [Zero-shot Text-guided Infinite Image Synthesis with LLM guidance](2024年07月17日/Zero-shot_Text-guided_Infinite_Image_Synthesis_with_LLM_guidance.md)
+
+    - [翻译: 借助 LLM 引导，实现零-shot 文本驱动的无限图像合成](2024年07月17日/Zero-shot_Text-guided_Infinite_Image_Synthesis_with_LLM_guidance.md)
+
+- [ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks](2024年07月17日/ARTEMIS_A_Mixed_Analog-Stochastic_In-DRAM_Accelerator_for_Transformer_Neural_Networks.md)
+
+    - [翻译: ARTEMIS：一款结合模拟与随机技术的DRAM加速器，专为Transformer神经网络设计。](2024年07月17日/ARTEMIS_A_Mixed_Analog-Stochastic_In-DRAM_Accelerator_for_Transformer_Neural_Networks.md)
+
+- [Harnessing the Power of Artificial Intelligence to Vitalize Endangered Indigenous Languages: Technologies and Experiences](2024年07月17日/Harnessing_the_Power_of_Artificial_Intelligence_to_Vitalize_Endangered_Indigenous_Languages_Technologies_and_Experiences.md)
+
+    - [翻译: 借助人工智能之力，振兴濒危土著语言：探索技术与实践](2024年07月17日/Harnessing_the_Power_of_Artificial_Intelligence_to_Vitalize_Endangered_Indigenous_Languages_Technologies_and_Experiences.md)
+
+- [AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism](2024年07月17日/AudienceView_AI-Assisted_Interpretation_of_Audience_Feedback_in_Journalism.md)
+
+    - [翻译: AudienceView：借助AI技术，深入解读新闻观众反馈](2024年07月17日/AudienceView_AI-Assisted_Interpretation_of_Audience_Feedback_in_Journalism.md)
+
+- [Conspiracy theories and where to find them on TikTok](2024年07月17日/Conspiracy_theories_and_where_to_find_them_on_TikTok.md)
+
+    - [翻译: 探秘阴谋论：TikTok 上的隐秘角落](2024年07月17日/Conspiracy_theories_and_where_to_find_them_on_TikTok.md)
+
+- [Crafting the Path: Robust Query Rewriting for Information Retrieval](2024年07月17日/Crafting_the_Path_Robust_Query_Rewriting_for_Information_Retrieval.md)
+
+    - [翻译: 精雕细琢路径：强化信息检索中的查询重写能力](2024年07月17日/Crafting_the_Path_Robust_Query_Rewriting_for_Information_Retrieval.md)
+
+- [On Initializing Transformers with Pre-trained Embeddings](2024年07月17日/On_Initializing_Transformers_with_Pre-trained_Embeddings.md)
+
+    - [翻译: 利用预训练嵌入初始化 Transformer 模型](2024年07月17日/On_Initializing_Transformers_with_Pre-trained_Embeddings.md)
+
+- [Case2Code: Learning Inductive Reasoning with Synthetic Data](2024年07月17日/Case2Code_Learning_Inductive_Reasoning_with_Synthetic_Data.md)
+
+    - [翻译: Case2Code：借助合成数据掌握归纳推理技巧](2024年07月17日/Case2Code_Learning_Inductive_Reasoning_with_Synthetic_Data.md)
+
+- [Automate or Assist? The Role of Computational Models in Identifying Gendered Discourse in US Capital Trial Transcripts](2024年07月17日/Automate_or_Assist_The_Role_of_Computational_Models_in_Identifying_Gendered_Discourse_in_US_Capital_Trial_Transcripts.md)
+
+    - [翻译: 计算模型：自动化识别还是辅助分析？探讨其在美资本审判笔录性别话语中的角色。](2024年07月17日/Automate_or_Assist_The_Role_of_Computational_Models_in_Identifying_Gendered_Discourse_in_US_Capital_Trial_Transcripts.md)
+
+- [Pretraining Data and Tokenizer for Indic LLM](2024年07月17日/Pretraining_Data_and_Tokenizer_for_Indic_LLM.md)
+
+    - [翻译: 印度语言大型模型的预训练数据与分词器](2024年07月17日/Pretraining_Data_and_Tokenizer_for_Indic_LLM.md)
+
+- [Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions](2024年07月17日/Search_Engines,_LLMs_or_Both_Evaluating_Information_Seeking_Strategies_for_Answering_Health_Questions.md)
+
+    - [翻译: 在解答健康问题时，我们应选择搜索引擎、大型语言模型，还是两者结合？本文将评估这些信息寻求策略的有效性。](2024年07月17日/Search_Engines,_LLMs_or_Both_Evaluating_Information_Seeking_Strategies_for_Answering_Health_Questions.md)
+
+- [ExploreGen: Large Language Models for Envisioning the Uses and Risks of AI Technologies](2024年07月17日/ExploreGen_Large_Language_Models_for_Envisioning_the_Uses_and_Risks_of_AI_Technologies.md)
+
+    - [翻译: 探索生成：利用大型语言模型，设想 AI 技术的应用与潜在风险](2024年07月17日/ExploreGen_Large_Language_Models_for_Envisioning_the_Uses_and_Risks_of_AI_Technologies.md)
+
+- [ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference](2024年07月17日/ClearCLIP_Decomposing_CLIP_Representations_for_Dense_Vision-Language_Inference.md)
+
+    - [翻译: ClearCLIP：解析 CLIP 表征，助力密集视觉-语言推理](2024年07月17日/ClearCLIP_Decomposing_CLIP_Representations_for_Dense_Vision-Language_Inference.md)
+
+- [Semantic-Aware Representation of Multi-Modal Data for Data Ingress: A Literature Review](2024年07月17日/Semantic-Aware_Representation_of_Multi-Modal_Data_for_Data_Ingress_A_Literature_Review.md)
+
+    - [翻译: 探索多模态数据入口的语义感知表示：文献回顾](2024年07月17日/Semantic-Aware_Representation_of_Multi-Modal_Data_for_Data_Ingress_A_Literature_Review.md)
+
+- [Sharif-STR at SemEval-2024 Task 1: Transformer as a Regression Model for Fine-Grained Scoring of Textual Semantic Relations](2024年07月17日/Sharif-STR_at_SemEval-2024_Task_1_Transformer_as_a_Regression_Model_for_Fine-Grained_Scoring_of_Textual_Semantic_Relations.md)
+
+    - [翻译: Sharif-STR 在 SemEval-2024 任务 1 中，采用 Transformer 作为回归模型，对文本语义关系进行精细评分。](2024年07月17日/Sharif-STR_at_SemEval-2024_Task_1_Transformer_as_a_Regression_Model_for_Fine-Grained_Scoring_of_Textual_Semantic_Relations.md)
+
+- [Navigating the Noisy Crowd: Finding Key Information for Claim Verification](2024年07月17日/Navigating_the_Noisy_Crowd_Finding_Key_Information_for_Claim_Verification.md)
+
+    - [翻译: 穿梭于喧嚣之中，探寻声明验证的关键信息](2024年07月17日/Navigating_the_Noisy_Crowd_Finding_Key_Information_for_Claim_Verification.md)
+
+- [StuGPTViz: A Visual Analytics Approach to Understand Student-ChatGPT Interactions](2024年07月17日/StuGPTViz_A_Visual_Analytics_Approach_to_Understand_Student-ChatGPT_Interactions.md)
+
+    - [翻译: StuGPTViz：探索学生与ChatGPT互动的可视化分析工具](2024年07月17日/StuGPTViz_A_Visual_Analytics_Approach_to_Understand_Student-ChatGPT_Interactions.md)
+
+- [TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish](2024年07月17日/TurkishMMLU_Measuring_Massive_Multitask_Language_Understanding_in_Turkish.md)
+
+    - [翻译: TurkishMMLU：探索土耳其语中的大规模多任务语言理解能力](2024年07月17日/TurkishMMLU_Measuring_Massive_Multitask_Language_Understanding_in_Turkish.md)
+
+- [Mamba-PTQ: Outlier Channels in Recurrent Large Language Models](2024年07月17日/Mamba-PTQ_Outlier_Channels_in_Recurrent_Large_Language_Models.md)
+
+    - [翻译: Mamba-PTQ：探究循环大型语言模型中的异常通道](2024年07月17日/Mamba-PTQ_Outlier_Channels_in_Recurrent_Large_Language_Models.md)
+
+- [LLM Inference Serving: Survey of Recent Advances and Opportunities](2024年07月17日/LLM_Inference_Serving_Survey_of_Recent_Advances_and_Opportunities.md)
+
+    - [翻译: LLM 推理服务：探索最新进展与未来机遇](2024年07月17日/LLM_Inference_Serving_Survey_of_Recent_Advances_and_Opportunities.md)
+
+- [Conversational Query Reformulation with the Guidance of Retrieved Documents](2024年07月17日/Conversational_Query_Reformulation_with_the_Guidance_of_Retrieved_Documents.md)
+
+    - [翻译: 借助检索文档的指引，优化对话查询](2024年07月17日/Conversational_Query_Reformulation_with_the_Guidance_of_Retrieved_Documents.md)
+
+- [SENTAUR: Security EnhaNced Trojan Assessment Using LLMs Against Undesirable Revisions](2024年07月17日/SENTAUR_Security_EnhaNced_Trojan_Assessment_Using_LLMs_Against_Undesirable_Revisions.md)
+
+    - [翻译: SENTAUR：利用 LLM 提升对抗不良修订的安全特洛伊评估](2024年07月17日/SENTAUR_Security_EnhaNced_Trojan_Assessment_Using_LLMs_Against_Undesirable_Revisions.md)
+
+- [The Better Angels of Machine Personality: How Personality Relates to LLM Safety](2024年07月17日/The_Better_Angels_of_Machine_Personality_How_Personality_Relates_to_LLM_Safety.md)
+
+    - [翻译: 机器个性的光明面：探讨个性与大型语言模型安全性的关联](2024年07月17日/The_Better_Angels_of_Machine_Personality_How_Personality_Relates_to_LLM_Safety.md)
+
+- [LLM-based query paraphrasing for video search](2024年07月17日/LLM-based_query_paraphrasing_for_video_search.md)
+
+    - [翻译: 利用 LLM 进行视频搜索查询的改写](2024年07月17日/LLM-based_query_paraphrasing_for_video_search.md)
+
+- [Optimizing Query Generation for Enhanced Document Retrieval in RAG](2024年07月17日/Optimizing_Query_Generation_for_Enhanced_Document_Retrieval_in_RAG.md)
+
+    - [翻译: 精进查询生成，提升RAG文档检索效能](2024年07月17日/Optimizing_Query_Generation_for_Enhanced_Document_Retrieval_in_RAG.md)
+
+- [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](2024年07月17日/AgentPoison_Red-teaming_LLM_Agents_via_Poisoning_Memory_or_Knowledge_Bases.md)
+
+    - [翻译: AgentPoison：利用毒化记忆或知识库手段，对 LLM 代理进行红队挑战](2024年07月17日/AgentPoison_Red-teaming_LLM_Agents_via_Poisoning_Memory_or_Knowledge_Bases.md)
+
+- [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](2024年07月17日/LMMs-Eval_Reality_Check_on_the_Evaluation_of_Large_Multimodal_Models.md)
+
+    - [翻译: LMMs-Eval：审视大型多模态模型评估的真实性](2024年07月17日/LMMs-Eval_Reality_Check_on_the_Evaluation_of_Large_Multimodal_Models.md)
+
 2024年07月16日
 
 - [How Personality Traits Influence Negotiation Outcomes? A Simulation based on Large Language Models](2024年07月16日/How_Personality_Traits_Influence_Negotiation_Outcomes_A_Simulation_based_on_Large_Language_Models.md)
@@ -263,6 +391,34 @@
 - [Variational approach to light-matter interaction: Bridging quantum and semiclassical limits](2024年07月16日/Variational_approach_to_light-matter_interaction_Bridging_quantum_and_semiclassical_limits.md)
 
     - [翻译: 变分法巧妙地连接了光-物质相互作用的量子与半经典极限，为探索这一复杂领域提供了新的视角。](2024年07月16日/Variational_approach_to_light-matter_interaction_Bridging_quantum_and_semiclassical_limits.md)
+
+- [Turning Generative Models Degenerate: The Power of Data Poisoning Attacks](2024年07月16日/Turning_Generative_Models_Degenerate_The_Power_of_Data_Poisoning_Attacks.md)
+
+    - [翻译: 数据中毒攻击：揭秘其如何削弱生成模型的威力](2024年07月16日/Turning_Generative_Models_Degenerate_The_Power_of_Data_Poisoning_Attacks.md)
+
+- [VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation](2024年07月16日/VCP-CLIP_A_visual_context_prompting_model_for_zero-shot_anomaly_segmentation.md)
+
+    - [翻译: VCP-CLIP：专为零-shot异常分割设计的视觉上下文提示模型](2024年07月16日/VCP-CLIP_A_visual_context_prompting_model_for_zero-shot_anomaly_segmentation.md)
+
+- [In-Context Probing Approximates Influence Function for Data Valuation](2024年07月16日/In-Context_Probing_Approximates_Influence_Function_for_Data_Valuation.md)
+
+    - [翻译: 上下文探针法近似模拟了数据评估中的影响函数。](2024年07月16日/In-Context_Probing_Approximates_Influence_Function_for_Data_Valuation.md)
+
+- [Questionable practices in machine learning](2024年07月16日/Questionable_practices_in_machine_learning.md)
+
+    - [翻译: 机器学习领域存在一些值得质疑的做法。](2024年07月16日/Questionable_practices_in_machine_learning.md)
+
+- [Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation](2024年07月16日/Mindful-RAG_A_Study_of_Points_of_Failure_in_Retrieval_Augmented_Generation.md)
+
+    - [翻译: 《Mindful-RAG》：探究检索增强生成技术中的关键失败点研究](2024年07月16日/Mindful-RAG_A_Study_of_Points_of_Failure_in_Retrieval_Augmented_Generation.md)
+
+- [Neural Passage Quality Estimation for Static Pruning](2024年07月16日/Neural_Passage_Quality_Estimation_for_Static_Pruning.md)
+
+    - [翻译: 神经段落质量评估助力静态剪枝](2024年07月16日/Neural_Passage_Quality_Estimation_for_Static_Pruning.md)
+
+- [Better RAG using Relevant Information Gain](2024年07月16日/Better_RAG_using_Relevant_Information_Gain.md)
+
+    - [翻译: 通过相关信息增益优化 RAG](2024年07月16日/Better_RAG_using_Relevant_Information_Gain.md)
 
 2024年07月15日
 
@@ -1165,6 +1321,10 @@
 - [Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection](2024年07月11日/Detect,_Investigate,_Judge_and_Determine_A_Novel_LLM-based_Framework_for_Few-shot_Fake_News_Detection.md)
 
     - [翻译: 我们提出了一种基于大型语言模型的新框架，通过检测、调查、判断和确定四个步骤，有效进行少样本假新闻检测。](2024年07月11日/Detect,_Investigate,_Judge_and_Determine_A_Novel_LLM-based_Framework_for_Few-shot_Fake_News_Detection.md)
+
+- [NinjaLLM: Fast, Scalable and Cost-effective RAG using Amazon SageMaker and AWS Trainium and Inferentia2](2024年07月11日/NinjaLLM_Fast,_Scalable_and_Cost-effective_RAG_using_Amazon_SageMaker_and_AWS_Trainium_and_Inferentia2.md)
+
+    - [翻译: NinjaLLM：借助 Amazon SageMaker 与 AWS Trainium 和 Inferentia2，实现高效、可扩展且经济的 RAG 解决方案。](2024年07月11日/NinjaLLM_Fast,_Scalable_and_Cost-effective_RAG_using_Amazon_SageMaker_and_AWS_Trainium_and_Inferentia2.md)
 
 2024年07月10日
 
@@ -3117,3 +3277,7 @@
 - [GRASP: A Grid-Based Benchmark for Evaluating Commonsense Spatial Reasoning](2024年07月01日/GRASP_A_Grid-Based_Benchmark_for_Evaluating_Commonsense_Spatial_Reasoning.md)
 
     - [翻译: GRASP：一款基于网格的基准测试，专为评估常识空间推理能力而设计。](2024年07月01日/GRASP_A_Grid-Based_Benchmark_for_Evaluating_Commonsense_Spatial_Reasoning.md)
+
+- [Exploring Advanced Large Language Models with LLMsuite](2024年07月01日/Exploring_Advanced_Large_Language_Models_with_LLMsuite.md)
+
+    - [翻译: 深入探索 LLMsuite 中的高级大型语言模型](2024年07月01日/Exploring_Advanced_Large_Language_Models_with_LLMsuite.md)

@@ -366,6 +366,10 @@
 
     - [翻译: 多模态学习与放射学认知：MedGaze在胸部X光扫描路径预测中的应用](2024年06月28日/Multimodal_Learning_and_Cognitive_Processes_in_Radiology_MedGaze_for_Chest_X-ray_Scanpath_Prediction.md)
 
+- [LLM4DESIGN: An Automated Multi-Modal System for Architectural and Environmental Design](2024年06月28日/LLM4DESIGN_An_Automated_Multi-Modal_System_for_Architectural_and_Environmental_Design.md)
+
+    - [翻译: LLM4DESIGN：建筑与环境设计的自动化多模态解决方案](2024年06月28日/LLM4DESIGN_An_Automated_Multi-Modal_System_for_Architectural_and_Environmental_Design.md)
+
 2024年06月27日
 
 - [Which Neurons Matter in IR? Applying Integrated Gradients-based Methods to Understand Cross-Encoders](2024年06月27日/Which_Neurons_Matter_in_IR_Applying_Integrated_Gradients-based_Methods_to_Understand_Cross-Encoders.md)
@@ -5985,6 +5989,10 @@
 - [RAG-based Crowdsourcing Task Decomposition via Masked Contrastive Learning with Prompts](2024年06月04日/RAG-based_Crowdsourcing_Task_Decomposition_via_Masked_Contrastive_Learning_with_Prompts.md)
 
     - [翻译: 利用RAG模型，结合掩码对比学习与提示技术，实现众包任务的高效分解在](2024年06月04日/RAG-based_Crowdsourcing_Task_Decomposition_via_Masked_Contrastive_Learning_with_Prompts.md)
+
+- [SlicerChat: Building a Local Chatbot for 3D Slicer](2024年06月04日/SlicerChat_Building_a_Local_Chatbot_for_3D_Slicer.md)
+
+    - [翻译: SlicerChat：打造 3D Slicer 的本地聊天助手](2024年06月04日/SlicerChat_Building_a_Local_Chatbot_for_3D_Slicer.md)
 
 2024年06月03日
 
