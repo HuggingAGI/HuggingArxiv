@@ -1,5 +1,59 @@
 # 2024年07月
 
+2024年07月17日
+
+- [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](2024年07月17日/EchoSight_Advancing_Visual-Language_Models_with_Wiki_Knowledge.md)
+
+    - [翻译: EchoSight：借助维基知识，推动视觉-语言模型的发展](2024年07月17日/EchoSight_Advancing_Visual-Language_Models_with_Wiki_Knowledge.md)
+
+- [Struct-X: Enhancing Large Language Models Reasoning with Structured Data](2024年07月17日/Struct-X_Enhancing_Large_Language_Models_Reasoning_with_Structured_Data.md)
+
+    - [翻译: Struct-X 利用结构化数据，显著提升大型语言模型的推理性能。](2024年07月17日/Struct-X_Enhancing_Large_Language_Models_Reasoning_with_Structured_Data.md)
+
+- [Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models](2024年07月17日/Towards_Collaborative_Intelligence_Propagating_Intentions_and_Reasoning_for_Multi-Agent_Coordination_with_Large_Language_Models.md)
+
+    - [翻译: 迈向协作智能：利用大型语言模型，推动多智能体间的意图交流与协同推理](2024年07月17日/Towards_Collaborative_Intelligence_Propagating_Intentions_and_Reasoning_for_Multi-Agent_Coordination_with_Large_Language_Models.md)
+
+- [PersLLM: A Personified Training Approach for Large Language Models](2024年07月17日/PersLLM_A_Personified_Training_Approach_for_Large_Language_Models.md)
+
+    - [翻译: PersLLM：为大型语言模型量身定制的个性化训练之道](2024年07月17日/PersLLM_A_Personified_Training_Approach_for_Large_Language_Models.md)
+
+- [NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models](2024年07月17日/NavGPT-2_Unleashing_Navigational_Reasoning_Capability_for_Large_Vision-Language_Models.md)
+
+    - [翻译: NavGPT-2：激发大型视觉-语言模型的导航推理潜能](2024年07月17日/NavGPT-2_Unleashing_Navigational_Reasoning_Capability_for_Large_Vision-Language_Models.md)
+
+- [VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions](2024年07月17日/VisionTrap_Vision-Augmented_Trajectory_Prediction_Guided_by_Textual_Descriptions.md)
+
+    - [翻译: VisionTrap：结合文本描述，增强视觉引导的轨迹预测技术](2024年07月17日/VisionTrap_Vision-Augmented_Trajectory_Prediction_Guided_by_Textual_Descriptions.md)
+
+- [MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models](2024年07月17日/MoME_Mixture_of_Multimodal_Experts_for_Generalist_Multimodal_Large_Language_Models.md)
+
+    - [翻译: MoME：多模态专家的融合，打造全能型多模态大型语言模型](2024年07月17日/MoME_Mixture_of_Multimodal_Experts_for_Generalist_Multimodal_Large_Language_Models.md)
+
+- [E5-V: Universal Embeddings with Multimodal Large Language Models](2024年07月17日/E5-V_Universal_Embeddings_with_Multimodal_Large_Language_Models.md)
+
+    - [翻译: E5-V：借助多模态大型语言模型实现通用嵌入](2024年07月17日/E5-V_Universal_Embeddings_with_Multimodal_Large_Language_Models.md)
+
+- [MERLIN: Multimodal Embedding Refinement via LLM-based Iterative Navigation for Text-Video Retrieval-Rerank Pipeline](2024年07月17日/MERLIN_Multimodal_Embedding_Refinement_via_LLM-based_Iterative_Navigation_for_Text-Video_Retrieval-Rerank_Pipeline.md)
+
+    - [翻译: MERLIN：通过基于 LLM 的迭代导航优化多模态嵌入，专为文本-视频检索重排流程设计](2024年07月17日/MERLIN_Multimodal_Embedding_Refinement_via_LLM-based_Iterative_Navigation_for_Text-Video_Retrieval-Rerank_Pipeline.md)
+
+- [Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning](2024年07月17日/Evaluating_Linguistic_Capabilities_of_Multimodal_LLMs_in_the_Lens_of_Few-Shot_Learning.md)
+
+    - [翻译: 从少样本学习的角度审视多模态LLM的语言能力](2024年07月17日/Evaluating_Linguistic_Capabilities_of_Multimodal_LLMs_in_the_Lens_of_Few-Shot_Learning.md)
+
+- [F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions](2024年07月17日/F-HOI_Toward_Fine-grained_Semantic-Aligned_3D_Human-Object_Interactions.md)
+
+    - [翻译: F-HOI：致力于实现细粒度语义对齐的3D人-物交互研究](2024年07月17日/F-HOI_Toward_Fine-grained_Semantic-Aligned_3D_Human-Object_Interactions.md)
+
+- [ProcTag: Process Tagging for Assessing the Efficacy of Document Instruction Data](2024年07月17日/ProcTag_Process_Tagging_for_Assessing_the_Efficacy_of_Document_Instruction_Data.md)
+
+    - [翻译: ProcTag：评估文档指令数据效能的过程标记工具](2024年07月17日/ProcTag_Process_Tagging_for_Assessing_the_Efficacy_of_Document_Instruction_Data.md)
+
+- [MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models](2024年07月17日/MEDFuse_Multimodal_EHR_Data_Fusion_with_Masked_Lab-Test_Modeling_and_Large_Language_Models.md)
+
+    - [翻译: MEDFuse：结合掩蔽实验室测试建模与大型语言模型，实现多模态电子健康记录数据的高效融合。](2024年07月17日/MEDFuse_Multimodal_EHR_Data_Fusion_with_Masked_Lab-Test_Modeling_and_Large_Language_Models.md)
+
 2024年07月16日
 
 - [How Personality Traits Influence Negotiation Outcomes? A Simulation based on Large Language Models](2024年07月16日/How_Personality_Traits_Influence_Negotiation_Outcomes_A_Simulation_based_on_Large_Language_Models.md)
@@ -193,6 +247,22 @@
 - [What's Wrong? Refining Meeting Summaries with LLM Feedback](2024年07月16日/What's_Wrong_Refining_Meeting_Summaries_with_LLM_Feedback.md)
 
     - [翻译: 如何改进？借助 LLM 反馈精炼会议摘要](2024年07月16日/What's_Wrong_Refining_Meeting_Summaries_with_LLM_Feedback.md)
+
+- [Towards Dataset-scale and Feature-oriented Evaluation of Text Summarization in Large Language Model Prompts](2024年07月16日/Towards_Dataset-scale_and_Feature-oriented_Evaluation_of_Text_Summarization_in_Large_Language_Model_Prompts.md)
+
+    - [翻译: 针对大规模数据集和特征导向，评估大语言模型中文本摘要的表现](2024年07月16日/Towards_Dataset-scale_and_Feature-oriented_Evaluation_of_Text_Summarization_in_Large_Language_Model_Prompts.md)
+
+- [Building AI Agents for Autonomous Clouds: Challenges and Design Principles](2024年07月16日/Building_AI_Agents_for_Autonomous_Clouds_Challenges_and_Design_Principles.md)
+
+    - [翻译: 打造自主云AI代理：面临的挑战与设计原则](2024年07月16日/Building_AI_Agents_for_Autonomous_Clouds_Challenges_and_Design_Principles.md)
+
+- [LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation](2024年07月16日/LLMs-in-the-loop_Part-1_Expert_Small_AI_Models_for_Bio-Medical_Text_Translation.md)
+
+    - [翻译: 循环中的 LLM 第一章：专为生物医学文本翻译设计的小型 AI 专家模型](2024年07月16日/LLMs-in-the-loop_Part-1_Expert_Small_AI_Models_for_Bio-Medical_Text_Translation.md)
+
+- [Variational approach to light-matter interaction: Bridging quantum and semiclassical limits](2024年07月16日/Variational_approach_to_light-matter_interaction_Bridging_quantum_and_semiclassical_limits.md)
+
+    - [翻译: 变分法巧妙地连接了光-物质相互作用的量子与半经典极限，为探索这一复杂领域提供了新的视角。](2024年07月16日/Variational_approach_to_light-matter_interaction_Bridging_quantum_and_semiclassical_limits.md)
 
 2024年07月15日
 

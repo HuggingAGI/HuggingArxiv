@@ -1592,6 +1592,10 @@
 
     - [翻译: 医疗多模态大型语言模型面临跨模态越狱与错配攻击挑战](2024年05月26日/Cross-Modality_Jailbreak_and_Mismatched_Attacks_on_Medical_Multimodal_Large_Language_Models.md)
 
+- [Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents](2024年05月26日/Building_Better_AI_Agents_A_Provocation_on_the_Utilisation_of_Persona_in_LLM-based_Conversational_Agents.md)
+
+    - [翻译: 打造更优AI代理：探讨LLM对话代理中角色运用的挑战](2024年05月26日/Building_Better_AI_Agents_A_Provocation_on_the_Utilisation_of_Persona_in_LLM-based_Conversational_Agents.md)
+
 2024年05月25日
 
 - [Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models](2024年05月25日/Augmented_Risk_Prediction_for_the_Onset_of_Alzheimer's_Disease_from_Electronic_Health_Records_with_Large_Language_Models.md)
@@ -2701,6 +2705,10 @@
 - [AI in Manufacturing: Market Analysis and Opportunities](2024年05月21日/AI_in_Manufacturing_Market_Analysis_and_Opportunities.md)
 
     - [翻译: 制造业中的AI：市场分析与机遇](2024年05月21日/AI_in_Manufacturing_Market_Analysis_and_Opportunities.md)
+
+- [How to Mitigate the Dependencies of ChatGPT-4o in Engineering Education](2024年05月21日/How_to_Mitigate_the_Dependencies_of_ChatGPT-4o_in_Engineering_Education.md)
+
+    - [翻译: 探讨在工程教育中减轻对 ChatGPT-4o 依赖的方法](2024年05月21日/How_to_Mitigate_the_Dependencies_of_ChatGPT-4o_in_Engineering_Education.md)
 
 2024年05月20日
 

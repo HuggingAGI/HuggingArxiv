@@ -616,6 +616,18 @@
 
     - [翻译: 基于 LLM 的反射代理，引领零-shot 加密货币交易之旅](2024年06月27日/A_Reflective_LLM-based_Agent_to_Guide_Zero-shot_Cryptocurrency_Trading.md)
 
+- [LLM-based Frameworks for API Argument Filling in Task-Oriented Conversational Systems](2024年06月27日/LLM-based_Frameworks_for_API_Argument_Filling_in_Task-Oriented_Conversational_Systems.md)
+
+    - [翻译: 面向任务对话系统中，基于 LLM 的 API 参数填充框架](2024年06月27日/LLM-based_Frameworks_for_API_Argument_Filling_in_Task-Oriented_Conversational_Systems.md)
+
+- [CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models](2024年06月27日/CMMaTH_A_Chinese_Multi-modal_Math_Skill_Evaluation_Benchmark_for_Foundation_Models.md)
+
+    - [翻译: CMMaTH：一项专为基础模型设计的中文多模态数学技能评估基准](2024年06月27日/CMMaTH_A_Chinese_Multi-modal_Math_Skill_Evaluation_Benchmark_for_Foundation_Models.md)
+
+- [DIM: Dynamic Integration of Multimodal Entity Linking with Large Language Model](2024年06月27日/DIM_Dynamic_Integration_of_Multimodal_Entity_Linking_with_Large_Language_Model.md)
+
+    - [翻译: DIM：动态融合多模态实体链接至大型语言模型](2024年06月27日/DIM_Dynamic_Integration_of_Multimodal_Entity_Linking_with_Large_Language_Model.md)
+
 2024年06月26日
 
 - [AI-native Memory: A Pathway from LLMs Towards AGI](2024年06月26日/AI-native_Memory_A_Pathway_from_LLMs_Towards_AGI.md)
@@ -3247,6 +3259,10 @@
 - [Reasoning or Simply Next Token Prediction? A Benchmark for Stress-Testing Large Language Models](2024年06月15日/Reasoning_or_Simply_Next_Token_Prediction_A_Benchmark_for_Stress-Testing_Large_Language_Models.md)
 
     - [翻译: 大型语言模型：推理还是仅预测下一个词？——一项压力测试基准研究](2024年06月15日/Reasoning_or_Simply_Next_Token_Prediction_A_Benchmark_for_Stress-Testing_Large_Language_Models.md)
+
+- [A Multimodal Transformer for Live Streaming Highlight Prediction](2024年06月15日/A_Multimodal_Transformer_for_Live_Streaming_Highlight_Prediction.md)
+
+    - [翻译: 直播精彩片段预测：多模态Transformer的应用](2024年06月15日/A_Multimodal_Transformer_for_Live_Streaming_Highlight_Prediction.md)
 
 2024年06月14日
 
