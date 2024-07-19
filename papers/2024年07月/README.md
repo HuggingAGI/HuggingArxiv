@@ -158,6 +158,38 @@
 
     - [翻译: Baba Is AI：破旧立新，超越基准](2024年07月18日/Baba_Is_AI_Break_the_Rules_to_Beat_the_Benchmark.md)
 
+- [SegPoint: Segment Any Point Cloud via Large Language Model](2024年07月18日/SegPoint_Segment_Any_Point_Cloud_via_Large_Language_Model.md)
+
+    - [翻译: SegPoint：借助大型语言模型，轻松分割任意点云](2024年07月18日/SegPoint_Segment_Any_Point_Cloud_via_Large_Language_Model.md)
+
+- [CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications](2024年07月18日/CellularLint_A_Systematic_Approach_to_Identify_Inconsistent_Behavior_in_Cellular_Network_Specifications.md)
+
+    - [翻译: CellularLint：系统性识别蜂窝网络规范不一致行为的工具](2024年07月18日/CellularLint_A_Systematic_Approach_to_Identify_Inconsistent_Behavior_in_Cellular_Network_Specifications.md)
+
+- [CoDefeater: Using LLMs To Find Defeaters in Assurance Cases](2024年07月18日/CoDefeater_Using_LLMs_To_Find_Defeaters_in_Assurance_Cases.md)
+
+    - [翻译: CoDefeater：借助 LLMs 在保证案例中精准定位反驳证据](2024年07月18日/CoDefeater_Using_LLMs_To_Find_Defeaters_in_Assurance_Cases.md)
+
+- [Understanding Reference Policies in Direct Preference Optimization](2024年07月18日/Understanding_Reference_Policies_in_Direct_Preference_Optimization.md)
+
+    - [翻译: 探究直接偏好优化中的参考策略](2024年07月18日/Understanding_Reference_Policies_in_Direct_Preference_Optimization.md)
+
+- [A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice](2024年07月18日/A_Comprehensive_Review_of_Recommender_Systems_Transitioning_from_Theory_to_Practice.md)
+
+    - [翻译: 推荐系统全面回顾：跨越理论与实践的桥梁](2024年07月18日/A_Comprehensive_Review_of_Recommender_Systems_Transitioning_from_Theory_to_Practice.md)
+
+- [Prover-Verifier Games improve legibility of LLM outputs](2024年07月18日/Prover-Verifier_Games_improve_legibility_of_LLM_outputs.md)
+
+    - [翻译: 通过 Prover-Verifier 游戏，LLM 输出的可读性得到了显著提升。](2024年07月18日/Prover-Verifier_Games_improve_legibility_of_LLM_outputs.md)
+
+- [COMCAT: Leveraging Human Judgment to Improve Automatic Documentation and Summarization](2024年07月18日/COMCAT_Leveraging_Human_Judgment_to_Improve_Automatic_Documentation_and_Summarization.md)
+
+    - [翻译: COMCAT：借助人类智慧，提升自动文档与摘要的质量](2024年07月18日/COMCAT_Leveraging_Human_Judgment_to_Improve_Automatic_Documentation_and_Summarization.md)
+
+- [Weak-to-Strong Reasoning](2024年07月18日/Weak-to-Strong_Reasoning.md)
+
+    - [翻译: 从弱至强推理](2024年07月18日/Weak-to-Strong_Reasoning.md)
+
 2024年07月17日
 
 - [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](2024年07月17日/EchoSight_Advancing_Visual-Language_Models_with_Wiki_Knowledge.md)
@@ -366,7 +398,7 @@
 
 - [Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach](2024年07月17日/Retrieve,_Summarize,_Plan_Advancing_Multi-hop_Question_Answering_with_an_Iterative_Approach.md)
 
-    - [翻译: 通过迭代的三步法——检索、总结、规划，我们正推动多跳问答技术向前发展。](2024年07月17日/Retrieve,_Summarize,_Plan_Advancing_Multi-hop_Question_Answering_with_an_Iterative_Approach.md)
+    - [翻译: 迭代三部曲：检索、总结、规划，助力多跳问答迈向新高度](2024年07月17日/Retrieve,_Summarize,_Plan_Advancing_Multi-hop_Question_Answering_with_an_Iterative_Approach.md)
 
 - [Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data](2024年07月17日/Rethinking_Video-Text_Understanding_Retrieval_from_Counterfactually_Augmented_Data.md)
 
@@ -636,7 +668,7 @@
 
 - [Whitening Not Recommended for Classification Tasks in LLMs](2024年07月16日/Whitening_Not_Recommended_for_Classification_Tasks_in_LLMs.md)
 
-    - [翻译: 在 LLM 中，分类任务不宜采用白化处理。](2024年07月16日/Whitening_Not_Recommended_for_Classification_Tasks_in_LLMs.md)
+    - [翻译: 在LLM中，分类任务时白化处理并非良策。](2024年07月16日/Whitening_Not_Recommended_for_Classification_Tasks_in_LLMs.md)
 
 - [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](2024年07月16日/BRIGHT_A_Realistic_and_Challenging_Benchmark_for_Reasoning-Intensive_Retrieval.md)
 

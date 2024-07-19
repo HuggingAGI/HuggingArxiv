@@ -566,7 +566,7 @@
 
 - [Accuracy of training data and model outputs in Generative AI: CREATe Response to the Information Commissioner Office Consultation](2024年05月30日/Accuracy_of_training_data_and_model_outputs_in_Generative_AI_CREATe_Response_to_the_Information_Commissioner_Office_Consultation.md)
 
-    - [翻译: CREATe 回应信息专员办公室关于生成式AI中数据与输出准确性的咨询，探讨了训练数据与模型结果的精确度问题。](2024年05月30日/Accuracy_of_training_data_and_model_outputs_in_Generative_AI_CREATe_Response_to_the_Information_Commissioner_Office_Consultation.md)
+    - [翻译: 生成式AI中，训练数据与模型输出的准确性备受关注。CREATe针对信息专员办公室的咨询，提出了详尽的回应。](2024年05月30日/Accuracy_of_training_data_and_model_outputs_in_Generative_AI_CREATe_Response_to_the_Information_Commissioner_Office_Consultation.md)
 
 2024年05月29日
 

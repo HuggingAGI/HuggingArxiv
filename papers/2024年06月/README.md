@@ -2618,6 +2618,10 @@
 
     - [翻译: Nash CoT：实现偏好均衡的多路径推理](2024年06月18日/Nash_CoT_Multi-Path_Inference_with_Preference_Equilibrium.md)
 
+- [DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving](2024年06月18日/DART-Math_Difficulty-Aware_Rejection_Tuning_for_Mathematical_Problem-Solving.md)
+
+    - [翻译: DART-Math：一种针对数学问题解决难度进行智能拒绝调优的方法](2024年06月18日/DART-Math_Difficulty-Aware_Rejection_Tuning_for_Mathematical_Problem-Solving.md)
+
 2024年06月17日
 
 - [Language Modeling with Editable External Knowledge](2024年06月17日/Language_Modeling_with_Editable_External_Knowledge.md)
@@ -6362,7 +6366,7 @@
 
 - [Participatory Approaches in AI Development and Governance: Case Studies](2024年06月03日/Participatory_Approaches_in_AI_Development_and_Governance_Case_Studies.md)
 
-    - [翻译: 人工智能开发与治理中的参与式方法：案例研究](2024年06月03日/Participatory_Approaches_in_AI_Development_and_Governance_Case_Studies.md)
+    - [翻译: 人工智能开发与治理中的参与式方法：案例研究解析](2024年06月03日/Participatory_Approaches_in_AI_Development_and_Governance_Case_Studies.md)
 
 2024年06月02日
 
