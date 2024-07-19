@@ -632,6 +632,10 @@
 
     - [翻译: DIM：动态融合多模态实体链接至大型语言模型](2024年06月27日/DIM_Dynamic_Integration_of_Multimodal_Entity_Linking_with_Large_Language_Model.md)
 
+- [FernUni LLM Experimental Infrastructure (FLEXI) -- Enabling Experimentation and Innovation in Higher Education Through Access to Open Large Language Models](2024年06月27日/FernUni_LLM_Experimental_Infrastructure_(FLEXI)_--_Enabling_Experimentation_and_Innovation_in_Higher_Education_Through_Access_to_Open_Large_Language_Models.md)
+
+    - [翻译: FLEXI 项目通过提供开放的 LLM 访问，助力高等教育领域的实验与创新。](2024年06月27日/FernUni_LLM_Experimental_Infrastructure_(FLEXI)_--_Enabling_Experimentation_and_Innovation_in_Higher_Education_Through_Access_to_Open_Large_Language_Models.md)
+
 2024年06月26日
 
 - [AI-native Memory: A Pathway from LLMs Towards AGI](2024年06月26日/AI-native_Memory_A_Pathway_from_LLMs_Towards_AGI.md)
@@ -5994,6 +5998,10 @@
 
     - [翻译: SlicerChat：打造 3D Slicer 的本地聊天助手](2024年06月04日/SlicerChat_Building_a_Local_Chatbot_for_3D_Slicer.md)
 
+- [Survey on Plagiarism Detection in Large Language Models: The Impact of ChatGPT and Gemini on Academic Integrity](2024年06月04日/Survey_on_Plagiarism_Detection_in_Large_Language_Models_The_Impact_of_ChatGPT_and_Gemini_on_Academic_Integrity.md)
+
+    - [翻译: 大型语言模型中的抄袭检测调查：探讨 ChatGPT 与 Gemini 对学术诚信的冲击](2024年06月04日/Survey_on_Plagiarism_Detection_in_Large_Language_Models_The_Impact_of_ChatGPT_and_Gemini_on_Academic_Integrity.md)
+
 2024年06月03日
 
 - [Superhuman performance in urology board questions by an explainable large language model enabled for context integration of the European Association of Urology guidelines: the UroBot study](2024年06月03日/Superhuman_performance_in_urology_board_questions_by_an_explainable_large_language_model_enabled_for_context_integration_of_the_European_Association_of_Urology_guidelines_the_UroBot_study.md)
@@ -6351,6 +6359,10 @@
 - [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](2024年06月03日/Boosting_Language_Models_Reasoning_with_Chain-of-Knowledge_Prompting.md)
 
     - [翻译: 借助知识链提示，增强语言模型的推理能力](2024年06月03日/Boosting_Language_Models_Reasoning_with_Chain-of-Knowledge_Prompting.md)
+
+- [Participatory Approaches in AI Development and Governance: Case Studies](2024年06月03日/Participatory_Approaches_in_AI_Development_and_Governance_Case_Studies.md)
+
+    - [翻译: 人工智能开发与治理中的参与式方法：案例研究](2024年06月03日/Participatory_Approaches_in_AI_Development_and_Governance_Case_Studies.md)
 
 2024年06月02日
 

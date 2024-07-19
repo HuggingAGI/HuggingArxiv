@@ -564,6 +564,10 @@
 
     - [翻译: 借助多模态大型语言模型实现活动的时间锚定](2024年05月30日/Temporal_Grounding_of_Activities_using_Multimodal_Large_Language_Models.md)
 
+- [Accuracy of training data and model outputs in Generative AI: CREATe Response to the Information Commissioner Office Consultation](2024年05月30日/Accuracy_of_training_data_and_model_outputs_in_Generative_AI_CREATe_Response_to_the_Information_Commissioner_Office_Consultation.md)
+
+    - [翻译: CREATe 回应信息专员办公室关于生成式AI中数据与输出准确性的咨询，探讨了训练数据与模型结果的精确度问题。](2024年05月30日/Accuracy_of_training_data_and_model_outputs_in_Generative_AI_CREATe_Response_to_the_Information_Commissioner_Office_Consultation.md)
+
 2024年05月29日
 
 - [Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation](2024年05月29日/Towards_Next-Generation_Urban_Decision_Support_Systems_through_AI-Powered_Generation_of_Scientific_Ontology_using_Large_Language_Models_--_A_Case_in_Optimizing_Intermodal_Freight_Transportation.md)

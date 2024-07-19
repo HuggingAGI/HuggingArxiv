@@ -30,6 +30,134 @@
 
     - [翻译: DiveSound：借助 LLM 进行自动分类构建，助力多样化音频生成](2024年07月18日/DiveSound_LLM-Assisted_Automatic_Taxonomy_Construction_for_Diverse_Audio_Generation.md)
 
+- [Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](2024年07月18日/Scaling_Laws_with_Vocabulary_Larger_Models_Deserve_Larger_Vocabularies.md)
+
+    - [翻译: 模型越大，所需的词汇量也应越大，这是词汇规模的法则。](2024年07月18日/Scaling_Laws_with_Vocabulary_Larger_Models_Deserve_Larger_Vocabularies.md)
+
+- [KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration](2024年07月18日/KNOWNET_Guided_Health_Information_Seeking_from_LLMs_via_Knowledge_Graph_Integration.md)
+
+    - [翻译: KNOWNET：借助知识图谱集成，引导 LLMs 进行健康信息搜索](2024年07月18日/KNOWNET_Guided_Health_Information_Seeking_from_LLMs_via_Knowledge_Graph_Integration.md)
+
+- [PLANTS: A Novel Problem and Dataset for Summarization of Planning-Like (PL) Tasks](2024年07月18日/PLANTS_A_Novel_Problem_and_Dataset_for_Summarization_of_Planning-Like_(PL)_Tasks.md)
+
+    - [翻译: PLANTS：专为规划类任务摘要设计的新颖问题与数据集](2024年07月18日/PLANTS_A_Novel_Problem_and_Dataset_for_Summarization_of_Planning-Like_(PL)_Tasks.md)
+
+- [EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](2024年07月18日/EarthMarker_A_Visual_Prompt_Learning_Framework_for_Region-level_and_Point-level_Remote_Sensing_Imagery_Comprehension.md)
+
+    - [翻译: EarthMarker：一款专为区域与点级遥感图像理解设计的视觉提示学习框架](2024年07月18日/EarthMarker_A_Visual_Prompt_Learning_Framework_for_Region-level_and_Point-level_Remote_Sensing_Imagery_Comprehension.md)
+
+- [Large Language Models as Reliable Knowledge Bases?](2024年07月18日/Large_Language_Models_as_Reliable_Knowledge_Bases.md)
+
+    - [翻译: 大型语言模型能否成为可靠的知识库？](2024年07月18日/Large_Language_Models_as_Reliable_Knowledge_Bases.md)
+
+- [Research on Tibetan Tourism Viewpoints information generation system based on LLM](2024年07月18日/Research_on_Tibetan_Tourism_Viewpoints_information_generation_system_based_on_LLM.md)
+
+    - [翻译: 本研究探讨了基于大型语言模型的藏族旅游观点信息生成系统。](2024年07月18日/Research_on_Tibetan_Tourism_Viewpoints_information_generation_system_based_on_LLM.md)
+
+- [INDIC QA BENCHMARK: A Multilingual Benchmark to Evaluate Question Answering capability of LLMs for Indic Languages](2024年07月18日/INDIC_QA_BENCHMARK_A_Multilingual_Benchmark_to_Evaluate_Question_Answering_capability_of_LLMs_for_Indic_Languages.md)
+
+    - [翻译: INDIC QA 基准：一个多语言评估工具，旨在检验大型语言模型在印度语言问答任务中的表现。](2024年07月18日/INDIC_QA_BENCHMARK_A_Multilingual_Benchmark_to_Evaluate_Question_Answering_capability_of_LLMs_for_Indic_Languages.md)
+
+- [Spontaneous Style Text-to-Speech Synthesis with Controllable Spontaneous Behaviors Based on Language Models](2024年07月18日/Spontaneous_Style_Text-to-Speech_Synthesis_with_Controllable_Spontaneous_Behaviors_Based_on_Language_Models.md)
+
+    - [翻译: 基于语言模型，实现可控自发行为的自发风格文本转语音合成](2024年07月18日/Spontaneous_Style_Text-to-Speech_Synthesis_with_Controllable_Spontaneous_Behaviors_Based_on_Language_Models.md)
+
+- [Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation](2024年07月18日/Robots_Can_Multitask_Too_Integrating_a_Memory_Architecture_and_LLMs_for_Enhanced_Cross-Task_Robot_Action_Generation.md)
+
+    - [翻译: 机器人也能胜任多任务，通过整合记忆架构与大型语言模型，提升跨任务动作生成的效率。](2024年07月18日/Robots_Can_Multitask_Too_Integrating_a_Memory_Architecture_and_LLMs_for_Enhanced_Cross-Task_Robot_Action_Generation.md)
+
+- [Combining Constraint Programming Reasoning with Large Language Model Predictions](2024年07月18日/Combining_Constraint_Programming_Reasoning_with_Large_Language_Model_Predictions.md)
+
+    - [翻译: 融合约束编程推理与大型语言模型预测](2024年07月18日/Combining_Constraint_Programming_Reasoning_with_Large_Language_Model_Predictions.md)
+
+- [Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation](2024年07月18日/Attention_Overflow_Language_Model_Input_Blur_during_Long-Context_Missing_Items_Recommendation.md)
+
+    - [翻译: 长上下文推荐中，语言模型面临“注意力溢出”问题，导致输入信息模糊，影响缺失项的准确推荐。](2024年07月18日/Attention_Overflow_Language_Model_Input_Blur_during_Long-Context_Missing_Items_Recommendation.md)
+
+- [End-To-End Clinical Trial Matching with Large Language Models](2024年07月18日/End-To-End_Clinical_Trial_Matching_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型实现端到端临床试验匹配](2024年07月18日/End-To-End_Clinical_Trial_Matching_with_Large_Language_Models.md)
+
+- [BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models](2024年07月18日/BEAF_Observing_BEfore-AFter_Changes_to_Evaluate_Hallucination_in_Vision-language_Models.md)
+
+    - [翻译: BEAF：通过观察变化前后的情况，评估视觉-语言模型中的幻觉现象。](2024年07月18日/BEAF_Observing_BEfore-AFter_Changes_to_Evaluate_Hallucination_in_Vision-language_Models.md)
+
+- [From Words to Worlds: Compositionality for Cognitive Architectures](2024年07月18日/From_Words_to_Worlds_Compositionality_for_Cognitive_Architectures.md)
+
+    - [翻译: 构建思维之桥：探索认知架构的组合性](2024年07月18日/From_Words_to_Worlds_Compositionality_for_Cognitive_Architectures.md)
+
+- [Learning-From-Mistakes Prompting for Indigenous Language Translation](2024年07月18日/Learning-From-Mistakes_Prompting_for_Indigenous_Language_Translation.md)
+
+    - [翻译: 土著语言翻译中的“从错误中学习”提示法](2024年07月18日/Learning-From-Mistakes_Prompting_for_Indigenous_Language_Translation.md)
+
+- [Reconstruct the Pruned Model without Any Retraining](2024年07月18日/Reconstruct_the_Pruned_Model_without_Any_Retraining.md)
+
+    - [翻译: 无需再训练，重建修剪模型](2024年07月18日/Reconstruct_the_Pruned_Model_without_Any_Retraining.md)
+
+- [Robust ASR Error Correction with Conservative Data Filtering](2024年07月18日/Robust_ASR_Error_Correction_with_Conservative_Data_Filtering.md)
+
+    - [翻译: 通过保守数据过滤实现 ASR 错误纠正的鲁棒性](2024年07月18日/Robust_ASR_Error_Correction_with_Conservative_Data_Filtering.md)
+
+- [SpeciaLex: A Benchmark for In-Context Specialized Lexicon Learning](2024年07月18日/SpeciaLex_A_Benchmark_for_In-Context_Specialized_Lexicon_Learning.md)
+
+    - [翻译: SpeciaLex：专为上下文特定词汇学习设计的基准](2024年07月18日/SpeciaLex_A_Benchmark_for_In-Context_Specialized_Lexicon_Learning.md)
+
+- [Are Large Language Models Capable of Generating Human-Level Narratives?](2024年07月18日/Are_Large_Language_Models_Capable_of_Generating_Human-Level_Narratives.md)
+
+    - [翻译: 大型语言模型能否创作出媲美人类的叙事作品？](2024年07月18日/Are_Large_Language_Models_Capable_of_Generating_Human-Level_Narratives.md)
+
+- [PM-LLM-Benchmark: Evaluating Large Language Models on Process Mining Tasks](2024年07月18日/PM-LLM-Benchmark_Evaluating_Large_Language_Models_on_Process_Mining_Tasks.md)
+
+    - [翻译: PM-LLM-Benchmark：评估大型语言模型在过程挖掘任务上的表现](2024年07月18日/PM-LLM-Benchmark_Evaluating_Large_Language_Models_on_Process_Mining_Tasks.md)
+
+- [LLM-Empowered State Representation for Reinforcement Learning](2024年07月18日/LLM-Empowered_State_Representation_for_Reinforcement_Learning.md)
+
+    - [翻译: 强化学习中的 LLM 赋能状态表示](2024年07月18日/LLM-Empowered_State_Representation_for_Reinforcement_Learning.md)
+
+- [Evaluating Large Language Models for Anxiety and Depression Classification using Counseling and Psychotherapy Transcripts](2024年07月18日/Evaluating_Large_Language_Models_for_Anxiety_and_Depression_Classification_using_Counseling_and_Psychotherapy_Transcripts.md)
+
+    - [翻译: 通过咨询与心理治疗对话记录，评估大型语言模型在焦虑和抑郁分类中的应用。](2024年07月18日/Evaluating_Large_Language_Models_for_Anxiety_and_Depression_Classification_using_Counseling_and_Psychotherapy_Transcripts.md)
+
+- [Transformer-based Single-Cell Language Model: A Survey](2024年07月18日/Transformer-based_Single-Cell_Language_Model_A_Survey.md)
+
+    - [翻译: 基于Transformer的单细胞语言模型研究综述](2024年07月18日/Transformer-based_Single-Cell_Language_Model_A_Survey.md)
+
+- [Retrieval-Augmented Generation for Natural Language Processing: A Survey](2024年07月18日/Retrieval-Augmented_Generation_for_Natural_Language_Processing_A_Survey.md)
+
+    - [翻译: 自然语言处理中的检索增强生成技术：综述](2024年07月18日/Retrieval-Augmented_Generation_for_Natural_Language_Processing_A_Survey.md)
+
+- [Training-Free Large Model Priors for Multiple-in-One Image Restoration](2024年07月18日/Training-Free_Large_Model_Priors_for_Multiple-in-One_Image_Restoration.md)
+
+    - [翻译: 无需训练，大模型先验助力多合一图像恢复](2024年07月18日/Training-Free_Large_Model_Priors_for_Multiple-in-One_Image_Restoration.md)
+
+- [Using LLMs to Investigate Correlations of Conversational Follow-up Queries with User Satisfaction](2024年07月18日/Using_LLMs_to_Investigate_Correlations_of_Conversational_Follow-up_Queries_with_User_Satisfaction.md)
+
+    - [翻译: 借助 LLM，我们探究对话后续查询与用户满意度间的关联。](2024年07月18日/Using_LLMs_to_Investigate_Correlations_of_Conversational_Follow-up_Queries_with_User_Satisfaction.md)
+
+- [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](2024年07月18日/Translate-and-Revise_Boosting_Large_Language_Models_for_Constrained_Translation.md)
+
+    - [翻译: 翻译与修订：增强大型语言模型在约束翻译任务中的能力](2024年07月18日/Translate-and-Revise_Boosting_Large_Language_Models_for_Constrained_Translation.md)
+
+- [Integrated Hardware Architecture and Device Placement Search](2024年07月18日/Integrated_Hardware_Architecture_and_Device_Placement_Search.md)
+
+    - [翻译: 硬件架构与设备布局的集成搜索](2024年07月18日/Integrated_Hardware_Architecture_and_Device_Placement_Search.md)
+
+- [A light-weight and efficient punctuation and word casing prediction model for on-device streaming ASR](2024年07月18日/A_light-weight_and_efficient_punctuation_and_word_casing_prediction_model_for_on-device_streaming_ASR.md)
+
+    - [翻译: 本模型为设备端流式自动语音识别设计，轻巧高效，专攻标点与单词大小写预测。](2024年07月18日/A_light-weight_and_efficient_punctuation_and_word_casing_prediction_model_for_on-device_streaming_ASR.md)
+
+- [Visual Haystacks: Answering Harder Questions About Sets of Images](2024年07月18日/Visual_Haystacks_Answering_Harder_Questions_About_Sets_of_Images.md)
+
+    - [翻译: 探索视觉干草堆：解答图像集合中的难题](2024年07月18日/Visual_Haystacks_Answering_Harder_Questions_About_Sets_of_Images.md)
+
+- [Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models](2024年07月18日/Black-Box_Opinion_Manipulation_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
+
+    - [翻译: 针对大型语言模型检索增强生成的黑盒意见操纵攻击](2024年07月18日/Black-Box_Opinion_Manipulation_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
+
+- [Baba Is AI: Break the Rules to Beat the Benchmark](2024年07月18日/Baba_Is_AI_Break_the_Rules_to_Beat_the_Benchmark.md)
+
+    - [翻译: Baba Is AI：破旧立新，超越基准](2024年07月18日/Baba_Is_AI_Break_the_Rules_to_Beat_the_Benchmark.md)
+
 2024年07月17日
 
 - [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](2024年07月17日/EchoSight_Advancing_Visual-Language_Models_with_Wiki_Knowledge.md)
@@ -223,6 +351,42 @@
 - [Text- and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild](2024年07月17日/Text-_and_Feature-based_Models_for_Compound_Multimodal_Emotion_Recognition_in_the_Wild.md)
 
     - [翻译: 针对野外环境中的复合多模态情绪识别，我们提出了基于文本和特征的模型。](2024年07月17日/Text-_and_Feature-based_Models_for_Compound_Multimodal_Emotion_Recognition_in_the_Wild.md)
+
+- [Image Inpainting Models are Effective Tools for Instruction-guided Image Editing](2024年07月17日/Image_Inpainting_Models_are_Effective_Tools_for_Instruction-guided_Image_Editing.md)
+
+    - [翻译: 图像修复模型，作为指导图像编辑的得力工具，其效能显著。](2024年07月17日/Image_Inpainting_Models_are_Effective_Tools_for_Instruction-guided_Image_Editing.md)
+
+- [SOMONITOR: Explainable Marketing Data Processing and Analysis with Large Language Models](2024年07月17日/SOMONITOR_Explainable_Marketing_Data_Processing_and_Analysis_with_Large_Language_Models.md)
+
+    - [翻译: SOMONITOR：借助大型语言模型，实现营销数据的可解释处理与深度分析](2024年07月17日/SOMONITOR_Explainable_Marketing_Data_Processing_and_Analysis_with_Large_Language_Models.md)
+
+- [TrialEnroll: Predicting Clinical Trial Enrollment Success with Deep & Cross Network and Large Language Models](2024年07月17日/TrialEnroll_Predicting_Clinical_Trial_Enrollment_Success_with_Deep_&_Cross_Network_and_Large_Language_Models.md)
+
+    - [翻译: TrialEnroll 项目：结合深度与交叉网络及大型语言模型，精准预测临床试验的招募成功率。](2024年07月17日/TrialEnroll_Predicting_Clinical_Trial_Enrollment_Success_with_Deep_&_Cross_Network_and_Large_Language_Models.md)
+
+- [Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach](2024年07月17日/Retrieve,_Summarize,_Plan_Advancing_Multi-hop_Question_Answering_with_an_Iterative_Approach.md)
+
+    - [翻译: 通过迭代的三步法——检索、总结、规划，我们正推动多跳问答技术向前发展。](2024年07月17日/Retrieve,_Summarize,_Plan_Advancing_Multi-hop_Question_Answering_with_an_Iterative_Approach.md)
+
+- [Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data](2024年07月17日/Rethinking_Video-Text_Understanding_Retrieval_from_Counterfactually_Augmented_Data.md)
+
+    - [翻译: 探索视频与文本理解的新视角：从反事实增强数据中进行检索](2024年07月17日/Rethinking_Video-Text_Understanding_Retrieval_from_Counterfactually_Augmented_Data.md)
+
+- [Dynamic Sentiment Analysis with Local Large Language Models using Majority Voting: A Study on Factors Affecting Restaurant Evaluation](2024年07月17日/Dynamic_Sentiment_Analysis_with_Local_Large_Language_Models_using_Majority_Voting_A_Study_on_Factors_Affecting_Restaurant_Evaluation.md)
+
+    - [翻译: 本研究采用多数投票机制，利用本地大型语言模型进行动态情感分析，旨在探讨影响餐厅评价的关键因素。](2024年07月17日/Dynamic_Sentiment_Analysis_with_Local_Large_Language_Models_using_Majority_Voting_A_Study_on_Factors_Affecting_Restaurant_Evaluation.md)
+
+- [A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks](2024年07月17日/A_Survey_of_Prompt_Engineering_Methods_in_Large_Language_Models_for_Different_NLP_Tasks.md)
+
+    - [翻译: 探究大型语言模型在不同 NLP 任务中的提示工程方法](2024年07月17日/A_Survey_of_Prompt_Engineering_Methods_in_Large_Language_Models_for_Different_NLP_Tasks.md)
+
+- [Halu-J: Critique-Based Hallucination Judge](2024年07月17日/Halu-J_Critique-Based_Hallucination_Judge.md)
+
+    - [翻译: Halu-J：一款基于批评的幻觉评判工具](2024年07月17日/Halu-J_Critique-Based_Hallucination_Judge.md)
+
+- [Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models](2024年07月17日/Explainable_Biomedical_Hypothesis_Generation_via_Retrieval_Augmented_Generation_enabled_Large_Language_Models.md)
+
+    - [翻译: 利用检索增强生成技术的大型语言模型，实现生物医学假设的可解释生成](2024年07月17日/Explainable_Biomedical_Hypothesis_Generation_via_Retrieval_Augmented_Generation_enabled_Large_Language_Models.md)
 
 2024年07月16日
 
@@ -470,6 +634,18 @@
 
     - [翻译: 大型视觉-语言模型同样擅长分类，本研究聚焦于上下文多模态假新闻检测。](2024年07月16日/Large_Visual-Language_Models_Are_Also_Good_Classifiers_A_Study_of_In-Context_Multimodal_Fake_News_Detection.md)
 
+- [Whitening Not Recommended for Classification Tasks in LLMs](2024年07月16日/Whitening_Not_Recommended_for_Classification_Tasks_in_LLMs.md)
+
+    - [翻译: 在 LLM 中，分类任务不宜采用白化处理。](2024年07月16日/Whitening_Not_Recommended_for_Classification_Tasks_in_LLMs.md)
+
+- [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](2024年07月16日/BRIGHT_A_Realistic_and_Challenging_Benchmark_for_Reasoning-Intensive_Retrieval.md)
+
+    - [翻译: BRIGHT：一个真实且充满挑战的基准，专为推理密集型检索任务设计。](2024年07月16日/BRIGHT_A_Realistic_and_Challenging_Benchmark_for_Reasoning-Intensive_Retrieval.md)
+
+- [Review-Feedback-Reason (ReFeR): A Novel Framework for NLG Evaluation and Reasoning](2024年07月16日/Review-Feedback-Reason_(ReFeR)_A_Novel_Framework_for_NLG_Evaluation_and_Reasoning.md)
+
+    - [翻译: ReFeR：一个创新的 NLG 评估与推理框架](2024年07月16日/Review-Feedback-Reason_(ReFeR)_A_Novel_Framework_for_NLG_Evaluation_and_Reasoning.md)
+
 2024年07月15日
 
 - [Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval](2024年07月15日/Think-on-Graph_2.0_Deep_and_Interpretable_Large_Language_Model_Reasoning_with_Knowledge_Graph-guided_Retrieval.md)
@@ -707,6 +883,14 @@
 - [Mechanistic interpretability of large language models with applications to the financial services industry](2024年07月15日/Mechanistic_interpretability_of_large_language_models_with_applications_to_the_financial_services_industry.md)
 
     - [翻译: 探究大型语言模型的内在机制，并探讨其在金融服务领域的应用潜力。](2024年07月15日/Mechanistic_interpretability_of_large_language_models_with_applications_to_the_financial_services_industry.md)
+
+- [Evaluation of RAG Metrics for Question Answering in the Telecom Domain](2024年07月15日/Evaluation_of_RAG_Metrics_for_Question_Answering_in_the_Telecom_Domain.md)
+
+    - [翻译: 电信领域问答中 RAG 指标的评估](2024年07月15日/Evaluation_of_RAG_Metrics_for_Question_Answering_in_the_Telecom_Domain.md)
+
+- [MetaTool: Facilitating Large Language Models to Master Tools with Meta-task Augmentation](2024年07月15日/MetaTool_Facilitating_Large_Language_Models_to_Master_Tools_with_Meta-task_Augmentation.md)
+
+    - [翻译: MetaTool：借助元任务增强，助力大型语言模型精通工具使用](2024年07月15日/MetaTool_Facilitating_Large_Language_Models_to_Master_Tools_with_Meta-task_Augmentation.md)
 
 2024年07月14日
 
@@ -1772,6 +1956,10 @@
 
     - [翻译: TrackFormers：探索高亮度LHC时代基于Transformer的粒子跟踪技术](2024年07月09日/TrackFormers_In_Search_of_Transformer-Based_Particle_Tracking_for_the_High-Luminosity_LHC_Era.md)
 
+- [AI AI Bias: Large Language Models Favor Their Own Generated Content](2024年07月09日/AI_AI_Bias_Large_Language_Models_Favor_Their_Own_Generated_Content.md)
+
+    - [翻译: 大型语言模型存在偏见，更偏爱自身生成的内容。](2024年07月09日/AI_AI_Bias_Large_Language_Models_Favor_Their_Own_Generated_Content.md)
+
 2024年07月08日
 
 - [GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing](2024年07月08日/GenArtist_Multimodal_LLM_as_an_Agent_for_Unified_Image_Generation_and_Editing.md)
@@ -2618,6 +2806,10 @@
 
     - [翻译: 当语言模型意见分歧时，如何是好？本文探讨了应用于文本与视觉问答任务的黑盒模型集成方法。](2024年07月04日/What_to_do_if_language_models_disagree_Black-box_model_ensembling_for_textual_and_visual_question_answering.md)
 
+- [NutriBench: A Dataset for Evaluating Large Language Models in Carbohydrate Estimation from Meal Descriptions](2024年07月04日/NutriBench_A_Dataset_for_Evaluating_Large_Language_Models_in_Carbohydrate_Estimation_from_Meal_Descriptions.md)
+
+    - [翻译: NutriBench 数据集：专为评估 LLM 从餐食描述中估算碳水化合物含量而设计](2024年07月04日/NutriBench_A_Dataset_for_Evaluating_Large_Language_Models_in_Carbohydrate_Estimation_from_Meal_Descriptions.md)
+
 2024年07月03日
 
 - [Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory](2024年07月03日/Cactus_Towards_Psychological_Counseling_Conversations_using_Cognitive_Behavioral_Theory.md)
@@ -3339,3 +3531,7 @@
 - [Exploring Advanced Large Language Models with LLMsuite](2024年07月01日/Exploring_Advanced_Large_Language_Models_with_LLMsuite.md)
 
     - [翻译: 深入探索 LLMsuite 中的高级大型语言模型](2024年07月01日/Exploring_Advanced_Large_Language_Models_with_LLMsuite.md)
+
+- [AutoFlow: Automated Workflow Generation for Large Language Model Agents](2024年07月01日/AutoFlow_Automated_Workflow_Generation_for_Large_Language_Model_Agents.md)
+
+    - [翻译: AutoFlow：自动构建大型语言模型代理的工作流程](2024年07月01日/AutoFlow_Automated_Workflow_Generation_for_Large_Language_Model_Agents.md)
