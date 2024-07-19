@@ -1,5 +1,35 @@
 # 2024年07月
 
+2024年07月18日
+
+- [Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks](2024年07月18日/Can_Open-Source_LLMs_Compete_with_Commercial_Models_Exploring_the_Few-Shot_Performance_of_Current_GPT_Models_in_Biomedical_Tasks.md)
+
+    - [翻译: 开源 LLM 能否媲美商业模型？本文探讨了当前 GPT 模型在生物医学任务中的少样本学习表现。](2024年07月18日/Can_Open-Source_LLMs_Compete_with_Commercial_Models_Exploring_the_Few-Shot_Performance_of_Current_GPT_Models_in_Biomedical_Tasks.md)
+
+- [CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis](2024年07月18日/CoD,_Towards_an_Interpretable_Medical_Agent_using_Chain_of_Diagnosis.md)
+
+    - [翻译: CoD：通过诊断链构建可解释的医疗智能体](2024年07月18日/CoD,_Towards_an_Interpretable_Medical_Agent_using_Chain_of_Diagnosis.md)
+
+- [Similarity over Factuality: Are we making progress on multimodal out-of-context misinformation detection?](2024年07月18日/Similarity_over_Factuality_Are_we_making_progress_on_multimodal_out-of-context_misinformation_detection.md)
+
+    - [翻译: 我们是否在多模态的脱离上下文虚假信息检测上取得了进展，尽管相似性似乎比事实性更受重视？](2024年07月18日/Similarity_over_Factuality_Are_we_making_progress_on_multimodal_out-of-context_misinformation_detection.md)
+
+- [Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios](2024年07月18日/Risk-Aware_Vehicle_Trajectory_Prediction_Under_Safety-Critical_Scenarios.md)
+
+    - [翻译: 在安全关键场景中，风险感知的车辆轨迹预测](2024年07月18日/Risk-Aware_Vehicle_Trajectory_Prediction_Under_Safety-Critical_Scenarios.md)
+
+- [DISCOVER: A Data-driven Interactive System for Comprehensive Observation, Visualization, and ExploRation of Human Behaviour](2024年07月18日/DISCOVER_A_Data-driven_Interactive_System_for_Comprehensive_Observation,_Visualization,_and_ExploRation_of_Human_Behaviour.md)
+
+    - [翻译: DISCOVER：一款数据驱动的人类行为全方位观察、可视化与探索交互系统](2024年07月18日/DISCOVER_A_Data-driven_Interactive_System_for_Comprehensive_Observation,_Visualization,_and_ExploRation_of_Human_Behaviour.md)
+
+- [Multimodal Label Relevance Ranking via Reinforcement Learning](2024年07月18日/Multimodal_Label_Relevance_Ranking_via_Reinforcement_Learning.md)
+
+    - [翻译: 利用强化学习进行多模态标签相关性排序](2024年07月18日/Multimodal_Label_Relevance_Ranking_via_Reinforcement_Learning.md)
+
+- [DiveSound: LLM-Assisted Automatic Taxonomy Construction for Diverse Audio Generation](2024年07月18日/DiveSound_LLM-Assisted_Automatic_Taxonomy_Construction_for_Diverse_Audio_Generation.md)
+
+    - [翻译: DiveSound：借助 LLM 进行自动分类构建，助力多样化音频生成](2024年07月18日/DiveSound_LLM-Assisted_Automatic_Taxonomy_Construction_for_Diverse_Audio_Generation.md)
+
 2024年07月17日
 
 - [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](2024年07月17日/EchoSight_Advancing_Visual-Language_Models_with_Wiki_Knowledge.md)
@@ -181,6 +211,18 @@
 - [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](2024年07月17日/LMMs-Eval_Reality_Check_on_the_Evaluation_of_Large_Multimodal_Models.md)
 
     - [翻译: LMMs-Eval：审视大型多模态模型评估的真实性](2024年07月17日/LMMs-Eval_Reality_Check_on_the_Evaluation_of_Large_Multimodal_Models.md)
+
+- [Leveraging Environment Interaction for Automated PDDL Generation and Planning with Large Language Models](2024年07月17日/Leveraging_Environment_Interaction_for_Automated_PDDL_Generation_and_Planning_with_Large_Language_Models.md)
+
+    - [翻译: 通过环境交互，自动化生成 PDDL 并进行规划，借助大型语言模型实现。](2024年07月17日/Leveraging_Environment_Interaction_for_Automated_PDDL_Generation_and_Planning_with_Large_Language_Models.md)
+
+- [OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation](2024年07月17日/OE-BevSeg_An_Object_Informed_and_Environment_Aware_Multimodal_Framework_for_Bird's-eye-view_Vehicle_Semantic_Segmentation.md)
+
+    - [翻译: OE-BevSeg：结合对象信息与环境感知的多模态框架，专为鸟瞰图车辆语义分割设计。](2024年07月17日/OE-BevSeg_An_Object_Informed_and_Environment_Aware_Multimodal_Framework_for_Bird's-eye-view_Vehicle_Semantic_Segmentation.md)
+
+- [Text- and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild](2024年07月17日/Text-_and_Feature-based_Models_for_Compound_Multimodal_Emotion_Recognition_in_the_Wild.md)
+
+    - [翻译: 针对野外环境中的复合多模态情绪识别，我们提出了基于文本和特征的模型。](2024年07月17日/Text-_and_Feature-based_Models_for_Compound_Multimodal_Emotion_Recognition_in_the_Wild.md)
 
 2024年07月16日
 
@@ -419,6 +461,14 @@
 - [Better RAG using Relevant Information Gain](2024年07月16日/Better_RAG_using_Relevant_Information_Gain.md)
 
     - [翻译: 通过相关信息增益优化 RAG](2024年07月16日/Better_RAG_using_Relevant_Information_Gain.md)
+
+- [Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection](2024年07月16日/Cross-Modal_Augmentation_for_Few-Shot_Multimodal_Fake_News_Detection.md)
+
+    - [翻译: 跨模态增强技术在少样本多模态假新闻检测中发挥作用。](2024年07月16日/Cross-Modal_Augmentation_for_Few-Shot_Multimodal_Fake_News_Detection.md)
+
+- [Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection](2024年07月16日/Large_Visual-Language_Models_Are_Also_Good_Classifiers_A_Study_of_In-Context_Multimodal_Fake_News_Detection.md)
+
+    - [翻译: 大型视觉-语言模型同样擅长分类，本研究聚焦于上下文多模态假新闻检测。](2024年07月16日/Large_Visual-Language_Models_Are_Also_Good_Classifiers_A_Study_of_In-Context_Multimodal_Fake_News_Detection.md)
 
 2024年07月15日
 
@@ -2564,6 +2614,10 @@
 
     - [翻译: CaseGPT：一种结合语言模型与检索增强技术的案例推理框架](2024年07月04日/CaseGPT_a_case_reasoning_framework_based_on_language_models_and_retrieval-augmented_generation.md)
 
+- [What to do if language models disagree? Black-box model ensembling for textual and visual question answering](2024年07月04日/What_to_do_if_language_models_disagree_Black-box_model_ensembling_for_textual_and_visual_question_answering.md)
+
+    - [翻译: 当语言模型意见分歧时，如何是好？本文探讨了应用于文本与视觉问答任务的黑盒模型集成方法。](2024年07月04日/What_to_do_if_language_models_disagree_Black-box_model_ensembling_for_textual_and_visual_question_answering.md)
+
 2024年07月03日
 
 - [Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory](2024年07月03日/Cactus_Towards_Psychological_Counseling_Conversations_using_Cognitive_Behavioral_Theory.md)
@@ -2745,6 +2799,10 @@
 - [LLMcap: Large Language Model for Unsupervised PCAP Failure Detection](2024年07月03日/LLMcap_Large_Language_Model_for_Unsupervised_PCAP_Failure_Detection.md)
 
     - [翻译: LLMcap：一款专为无监督 PCAP 故障检测设计的大型语言模型](2024年07月03日/LLMcap_Large_Language_Model_for_Unsupervised_PCAP_Failure_Detection.md)
+
+- [Large Language Model Agents for Improving Engagement with Behavior Change Interventions: Application to Digital Mindfulness](2024年07月03日/Large_Language_Model_Agents_for_Improving_Engagement_with_Behavior_Change_Interventions_Application_to_Digital_Mindfulness.md)
+
+    - [翻译: 大型语言模型代理助力提升行为改变干预的参与度，特别应用于数字正念领域。](2024年07月03日/Large_Language_Model_Agents_for_Improving_Engagement_with_Behavior_Change_Interventions_Application_to_Digital_Mindfulness.md)
 
 2024年07月02日
 
