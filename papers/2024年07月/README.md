@@ -1,5 +1,39 @@
 # 2024年07月
 
+2024年07月19日
+
+- [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities](2024年07月19日/ChatQA_2_Bridging_the_Gap_to_Proprietary_LLMs_in_Long_Context_and_RAG_Capabilities.md)
+
+    - [翻译: ChatQA 2：跨越长上下文与RAG能力，连接专有LLM的桥梁](2024年07月19日/ChatQA_2_Bridging_the_Gap_to_Proprietary_LLMs_in_Long_Context_and_RAG_Capabilities.md)
+
+- [Improving Retrieval in Sponsored Search by Leveraging Query Context Signals](2024年07月19日/Improving_Retrieval_in_Sponsored_Search_by_Leveraging_Query_Context_Signals.md)
+
+    - [翻译: 借助查询上下文信号，提升赞助搜索的检索效果](2024年07月19日/Improving_Retrieval_in_Sponsored_Search_by_Leveraging_Query_Context_Signals.md)
+
+- [The Vision of Autonomic Computing: Can LLMs Make It a Reality?](2024年07月19日/The_Vision_of_Autonomic_Computing_Can_LLMs_Make_It_a_Reality.md)
+
+    - [翻译: 自主计算的愿景：LLM 能否将其变为现实？](2024年07月19日/The_Vision_of_Autonomic_Computing_Can_LLMs_Make_It_a_Reality.md)
+
+- [KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models](2024年07月19日/KoMA_Knowledge-driven_Multi-agent_Framework_for_Autonomous_Driving_with_Large_Language_Models.md)
+
+    - [翻译: KoMA：一个知识驱动型多智能体框架，专为搭载大型语言模型的自动驾驶系统设计。](2024年07月19日/KoMA_Knowledge-driven_Multi-agent_Framework_for_Autonomous_Driving_with_Large_Language_Models.md)
+
+- [On Pre-training of Multimodal Language Models Customized for Chart Understanding](2024年07月19日/On_Pre-training_of_Multimodal_Language_Models_Customized_for_Chart_Understanding.md)
+
+    - [翻译: 针对图表理解定制的多模态语言模型的预训练研究](2024年07月19日/On_Pre-training_of_Multimodal_Language_Models_Customized_for_Chart_Understanding.md)
+
+- [Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding](2024年07月19日/Token-level_Correlation-guided_Compression_for_Efficient_Multimodal_Document_Understanding.md)
+
+    - [翻译: 基于Token级关联引导的压缩技术，助力多模态文档理解的高效实现](2024年07月19日/Token-level_Correlation-guided_Compression_for_Efficient_Multimodal_Document_Understanding.md)
+
+- [Multimodal Misinformation Detection using Large Vision-Language Models](2024年07月19日/Multimodal_Misinformation_Detection_using_Large_Vision-Language_Models.md)
+
+    - [翻译: 借助大型视觉-语言模型，我们致力于检测多模态虚假信息。](2024年07月19日/Multimodal_Misinformation_Detection_using_Large_Vision-Language_Models.md)
+
+- [Visual Text Generation in the Wild](2024年07月19日/Visual_Text_Generation_in_the_Wild.md)
+
+    - [翻译: 自然环境中的视觉文本生成](2024年07月19日/Visual_Text_Generation_in_the_Wild.md)
+
 2024年07月18日
 
 - [Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks](2024年07月18日/Can_Open-Source_LLMs_Compete_with_Commercial_Models_Exploring_the_Few-Shot_Performance_of_Current_GPT_Models_in_Biomedical_Tasks.md)
@@ -189,6 +223,14 @@
 - [Weak-to-Strong Reasoning](2024年07月18日/Weak-to-Strong_Reasoning.md)
 
     - [翻译: 从弱至强推理](2024年07月18日/Weak-to-Strong_Reasoning.md)
+
+- [ViLLa: Video Reasoning Segmentation with Large Language Model](2024年07月18日/ViLLa_Video_Reasoning_Segmentation_with_Large_Language_Model.md)
+
+    - [翻译: ViLLa：结合大型语言模型实现视频推理分割](2024年07月18日/ViLLa_Video_Reasoning_Segmentation_with_Large_Language_Model.md)
+
+- [X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs](2024年07月18日/X-Former_Unifying_Contrastive_and_Reconstruction_Learning_for_MLLMs.md)
+
+    - [翻译: X-Former：整合对比与重建学习，助力多语言大型语言模型 (MLLMs)](2024年07月18日/X-Former_Unifying_Contrastive_and_Reconstruction_Learning_for_MLLMs.md)
 
 2024年07月17日
 
