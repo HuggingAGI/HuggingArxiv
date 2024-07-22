@@ -34,6 +34,146 @@
 
     - [翻译: 自然环境中的视觉文本生成](2024年07月19日/Visual_Text_Generation_in_the_Wild.md)
 
+- [Internal Consistency and Self-Feedback in Large Language Models: A Survey](2024年07月19日/Internal_Consistency_and_Self-Feedback_in_Large_Language_Models_A_Survey.md)
+
+    - [翻译: 大型语言模型中的内部一致性与自我反馈探究](2024年07月19日/Internal_Consistency_and_Self-Feedback_in_Large_Language_Models_A_Survey.md)
+
+- [Evaluating the Reliability of Self-Explanations in Large Language Models](2024年07月19日/Evaluating_the_Reliability_of_Self-Explanations_in_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型自我解释的可信度](2024年07月19日/Evaluating_the_Reliability_of_Self-Explanations_in_Large_Language_Models.md)
+
+- [Contrastive Learning with Counterfactual Explanations for Radiology Report Generation](2024年07月19日/Contrastive_Learning_with_Counterfactual_Explanations_for_Radiology_Report_Generation.md)
+
+    - [翻译: 结合反事实解释的对比学习在放射学报告生成中的应用](2024年07月19日/Contrastive_Learning_with_Counterfactual_Explanations_for_Radiology_Report_Generation.md)
+
+- [Check-Eval: A Checklist-based Approach for Evaluating Text Quality](2024年07月19日/Check-Eval_A_Checklist-based_Approach_for_Evaluating_Text_Quality.md)
+
+    - [翻译: Check-Eval：采用清单式方法，精准评估文本质量](2024年07月19日/Check-Eval_A_Checklist-based_Approach_for_Evaluating_Text_Quality.md)
+
+- [Undermining Mental Proof: How AI Can Make Cooperation Harder by Making Thinking Easier](2024年07月19日/Undermining_Mental_Proof_How_AI_Can_Make_Cooperation_Harder_by_Making_Thinking_Easier.md)
+
+    - [翻译: AI通过简化思考过程，可能反而加剧了合作的难度，这一现象值得我们深入探讨。](2024年07月19日/Undermining_Mental_Proof_How_AI_Can_Make_Cooperation_Harder_by_Making_Thinking_Easier.md)
+
+- [Mixture of Experts with Mixture of Precisions for Tuning Quality of Service](2024年07月19日/Mixture_of_Experts_with_Mixture_of_Precisions_for_Tuning_Quality_of_Service.md)
+
+    - [翻译: 通过专家与精度混合模型优化服务质量](2024年07月19日/Mixture_of_Experts_with_Mixture_of_Precisions_for_Tuning_Quality_of_Service.md)
+
+- [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](2024年07月19日/System-1.x_Learning_to_Balance_Fast_and_Slow_Planning_with_Language_Models.md)
+
+    - [翻译: System-1.x：探索语言模型中快速与慢速规划的平衡之道](2024年07月19日/System-1.x_Learning_to_Balance_Fast_and_Slow_Planning_with_Language_Models.md)
+
+- [DEAL: Disentangle and Localize Concept-level Explanations for VLMs](2024年07月19日/DEAL_Disentangle_and_Localize_Concept-level_Explanations_for_VLMs.md)
+
+    - [翻译: DEAL：为视觉语言模型解耦并定位概念级解释](2024年07月19日/DEAL_Disentangle_and_Localize_Concept-level_Explanations_for_VLMs.md)
+
+- [Frontiers of Deep Learning: From Novel Application to Real-World Deployment](2024年07月19日/Frontiers_of_Deep_Learning_From_Novel_Application_to_Real-World_Deployment.md)
+
+    - [翻译: 深度学习的尖端探索：跨越创新应用至实际部署](2024年07月19日/Frontiers_of_Deep_Learning_From_Novel_Application_to_Real-World_Deployment.md)
+
+- [Open Artificial Knowledge](2024年07月19日/Open_Artificial_Knowledge.md)
+
+    - [翻译: 开放式人工智能知识库](2024年07月19日/Open_Artificial_Knowledge.md)
+
+- [Enhancing Zero-shot Audio Classification using Sound Attribute Knowledge from Large Language Models](2024年07月19日/Enhancing_Zero-shot_Audio_Classification_using_Sound_Attribute_Knowledge_from_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型的声音属性知识，提升零-shot 音频分类的性能](2024年07月19日/Enhancing_Zero-shot_Audio_Classification_using_Sound_Attribute_Knowledge_from_Large_Language_Models.md)
+
+- [LLMs left, right, and center: Assessing GPT's capabilities to label political bias from web domains](2024年07月19日/LLMs_left,_right,_and_center_Assessing_GPT's_capabilities_to_label_political_bias_from_web_domains.md)
+
+    - [翻译: GPT 在识别网络域名中的政治偏见方面能力如何？本研究全方位评估其表现。](2024年07月19日/LLMs_left,_right,_and_center_Assessing_GPT's_capabilities_to_label_political_bias_from_web_domains.md)
+
+- [Foundation Models for Autonomous Robots in Unstructured Environments](2024年07月19日/Foundation_Models_for_Autonomous_Robots_in_Unstructured_Environments.md)
+
+    - [翻译: 自主机器人在非结构化环境中的基础模型](2024年07月19日/Foundation_Models_for_Autonomous_Robots_in_Unstructured_Environments.md)
+
+- [OpenSU3D: Open World 3D Scene Understanding using Foundation Models](2024年07月19日/OpenSU3D_Open_World_3D_Scene_Understanding_using_Foundation_Models.md)
+
+    - [翻译: OpenSU3D：借助基础模型探索开放世界的3D场景理解](2024年07月19日/OpenSU3D_Open_World_3D_Scene_Understanding_using_Foundation_Models.md)
+
+- [Conditioning Chat-GPT for information retrieval: the Unipa-GPT case study](2024年07月19日/Conditioning_Chat-GPT_for_information_retrieval_the_Unipa-GPT_case_study.md)
+
+    - [翻译: 本研究聚焦于如何针对信息检索优化 Chat-GPT，通过 Unipa-GPT 案例深入探讨。](2024年07月19日/Conditioning_Chat-GPT_for_information_retrieval_the_Unipa-GPT_case_study.md)
+
+- [Words2Contact: Identifying Support Contacts from Verbal Instructions Using Foundation Models](2024年07月19日/Words2Contact_Identifying_Support_Contacts_from_Verbal_Instructions_Using_Foundation_Models.md)
+
+    - [翻译: Words2Contact：借助基础模型，从口头指令中精准识别支持联系人。](2024年07月19日/Words2Contact_Identifying_Support_Contacts_from_Verbal_Instructions_Using_Foundation_Models.md)
+
+- [Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition](2024年07月19日/Hierarchical_Windowed_Graph_Attention_Network_and_a_Large_Scale_Dataset_for_Isolated_Indian_Sign_Language_Recognition.md)
+
+    - [翻译: 分层窗口图注意力网络与大规模数据集助力孤立印度手语识别](2024年07月19日/Hierarchical_Windowed_Graph_Attention_Network_and_a_Large_Scale_Dataset_for_Isolated_Indian_Sign_Language_Recognition.md)
+
+- [Unlearning Concepts from Text-to-Video Diffusion Models](2024年07月19日/Unlearning_Concepts_from_Text-to-Video_Diffusion_Models.md)
+
+    - [翻译: 探索文本至视频扩散模型中的概念遗忘](2024年07月19日/Unlearning_Concepts_from_Text-to-Video_Diffusion_Models.md)
+
+- [Longhorn: State Space Models are Amortized Online Learners](2024年07月19日/Longhorn_State_Space_Models_are_Amortized_Online_Learners.md)
+
+    - [翻译: Longhorn：状态空间模型实为摊销在线学习的高手](2024年07月19日/Longhorn_State_Space_Models_are_Amortized_Online_Learners.md)
+
+- [Watermark Smoothing Attacks against Language Models](2024年07月19日/Watermark_Smoothing_Attacks_against_Language_Models.md)
+
+    - [翻译: 语言模型面临的水印平滑攻击挑战](2024年07月19日/Watermark_Smoothing_Attacks_against_Language_Models.md)
+
+- [LeKUBE: A Legal Knowledge Update BEnchmark](2024年07月19日/LeKUBE_A_Legal_Knowledge_Update_BEnchmark.md)
+
+    - [翻译: LeKUBE：法律知识更新的标杆](2024年07月19日/LeKUBE_A_Legal_Knowledge_Update_BEnchmark.md)
+
+- [Automatic Classification of News Subjects in Broadcast News: Application to a Gender Bias Representation Analysis](2024年07月19日/Automatic_Classification_of_News_Subjects_in_Broadcast_News_Application_to_a_Gender_Bias_Representation_Analysis.md)
+
+    - [翻译: 广播新闻主题的自动分类技术，应用于性别偏见分析，旨在揭示新闻报道中的性别表现偏差。](2024年07月19日/Automatic_Classification_of_News_Subjects_in_Broadcast_News_Application_to_a_Gender_Bias_Representation_Analysis.md)
+
+- [EVLM: An Efficient Vision-Language Model for Visual Understanding](2024年07月19日/EVLM_An_Efficient_Vision-Language_Model_for_Visual_Understanding.md)
+
+    - [翻译: EVLM：一款高效的视觉-语言模型，专为视觉理解设计。](2024年07月19日/EVLM_An_Efficient_Vision-Language_Model_for_Visual_Understanding.md)
+
+- [Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition](2024年07月19日/Fine-grained_Knowledge_Graph-driven_Video-Language_Learning_for_Action_Recognition.md)
+
+    - [翻译: 细粒度知识图谱助力视频与语言学习，精准识别动作。](2024年07月19日/Fine-grained_Knowledge_Graph-driven_Video-Language_Learning_for_Action_Recognition.md)
+
+- [PassTSL: Modeling Human-Created Passwords through Two-Stage Learning](2024年07月19日/PassTSL_Modeling_Human-Created_Passwords_through_Two-Stage_Learning.md)
+
+    - [翻译: PassTSL：采用两阶段学习方法，模拟人类密码的生成过程。](2024年07月19日/PassTSL_Modeling_Human-Created_Passwords_through_Two-Stage_Learning.md)
+
+- [Beyond Code Generation: Assessing Code LLM Maturity with Postconditions](2024年07月19日/Beyond_Code_Generation_Assessing_Code_LLM_Maturity_with_Postconditions.md)
+
+    - [翻译: 不仅限于代码生成，我们通过后置条件来评估代码大型语言模型的成熟度。](2024年07月19日/Beyond_Code_Generation_Assessing_Code_LLM_Maturity_with_Postconditions.md)
+
+- [AuditNet: A Conversational AI-based Security Assistant [DEMO]](2024年07月19日/AuditNet_A_Conversational_AI-based_Security_Assistant_[DEMO].md)
+
+    - [翻译: AuditNet：一款基于对话式 AI 的安全助手演示](2024年07月19日/AuditNet_A_Conversational_AI-based_Security_Assistant_[DEMO].md)
+
+- [Large Language Model Enabled Semantic Communication Systems](2024年07月19日/Large_Language_Model_Enabled_Semantic_Communication_Systems.md)
+
+    - [翻译: 基于大型语言模型的语义通信系统](2024年07月19日/Large_Language_Model_Enabled_Semantic_Communication_Systems.md)
+
+- [Not All Attention is Needed: Parameter and Computation Efficient Tuning for Multi-modal Large Language Models via Effective Attention Skipping](2024年07月19日/Not_All_Attention_is_Needed_Parameter_and_Computation_Efficient_Tuning_for_Multi-modal_Large_Language_Models_via_Effective_Attention_Skipping.md)
+
+    - [翻译: 不必全神贯注：利用有效注意力跳过技术，实现多模态大型语言模型的高效参数与计算调优](2024年07月19日/Not_All_Attention_is_Needed_Parameter_and_Computation_Efficient_Tuning_for_Multi-modal_Large_Language_Models_via_Effective_Attention_Skipping.md)
+
+- [Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field](2024年07月19日/Domain-Specific_Pretraining_of_Language_Models_A_Comparative_Study_in_the_Medical_Field.md)
+
+    - [翻译: 医学领域中，领域特定预训练语言模型的比较研究](2024年07月19日/Domain-Specific_Pretraining_of_Language_Models_A_Comparative_Study_in_the_Medical_Field.md)
+
+- [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](2024年07月19日/LazyLLM_Dynamic_Token_Pruning_for_Efficient_Long_Context_LLM_Inference.md)
+
+    - [翻译: LazyLLM：通过动态令牌修剪优化长上下文 LLM 推理效率](2024年07月19日/LazyLLM_Dynamic_Token_Pruning_for_Efficient_Long_Context_LLM_Inference.md)
+
+- [Prompted Aspect Key Point Analysis for Quantitative Review Summarization](2024年07月19日/Prompted_Aspect_Key_Point_Analysis_for_Quantitative_Review_Summarization.md)
+
+    - [翻译: 通过提示关键点分析，实现评论的定量摘要](2024年07月19日/Prompted_Aspect_Key_Point_Analysis_for_Quantitative_Review_Summarization.md)
+
+- [ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?](2024年07月19日/ECCO_Can_We_Improve_Model-Generated_Code_Efficiency_Without_Sacrificing_Functional_Correctness.md)
+
+    - [翻译: ECCO 项目探讨：如何在确保功能无误的前提下，提升 AI 生成代码的效率？](2024年07月19日/ECCO_Can_We_Improve_Model-Generated_Code_Efficiency_Without_Sacrificing_Functional_Correctness.md)
+
+- [Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance](2024年07月19日/Semantic-CC_Boosting_Remote_Sensing_Image_Change_Captioning_via_Foundational_Knowledge_and_Semantic_Guidance.md)
+
+    - [翻译: Semantic-CC：借助基础知识与语义引导，强化遥感图像变化描述能力](2024年07月19日/Semantic-CC_Boosting_Remote_Sensing_Image_Change_Captioning_via_Foundational_Knowledge_and_Semantic_Guidance.md)
+
+- [HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research](2024年07月19日/HeCiX_Integrating_Knowledge_Graphs_and_Large_Language_Models_for_Biomedical_Research.md)
+
+    - [翻译: HeCiX 项目旨在整合知识图谱与大型语言模型，以推动生物医学研究的发展。](2024年07月19日/HeCiX_Integrating_Knowledge_Graphs_and_Large_Language_Models_for_Biomedical_Research.md)
+
 2024年07月18日
 
 - [Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks](2024年07月18日/Can_Open-Source_LLMs_Compete_with_Commercial_Models_Exploring_the_Few-Shot_Performance_of_Current_GPT_Models_in_Biomedical_Tasks.md)
@@ -231,6 +371,34 @@
 - [X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs](2024年07月18日/X-Former_Unifying_Contrastive_and_Reconstruction_Learning_for_MLLMs.md)
 
     - [翻译: X-Former：整合对比与重建学习，助力多语言大型语言模型 (MLLMs)](2024年07月18日/X-Former_Unifying_Contrastive_and_Reconstruction_Learning_for_MLLMs.md)
+
+- [Multi-modal Relation Distillation for Unified 3D Representation Learning](2024年07月18日/Multi-modal_Relation_Distillation_for_Unified_3D_Representation_Learning.md)
+
+    - [翻译: 通过多模态关系蒸馏，实现三维表示的统一学习](2024年07月18日/Multi-modal_Relation_Distillation_for_Unified_3D_Representation_Learning.md)
+
+- [RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering](2024年07月18日/RAG-QA_Arena_Evaluating_Domain_Robustness_for_Long-form_Retrieval_Augmented_Question_Answering.md)
+
+    - [翻译: RAG-QA 竞技场：探索长篇检索增强问答的领域稳健性](2024年07月18日/RAG-QA_Arena_Evaluating_Domain_Robustness_for_Long-form_Retrieval_Augmented_Question_Answering.md)
+
+- [LLAssist: Simple Tools for Automating Literature Review Using Large Language Models](2024年07月18日/LLAssist_Simple_Tools_for_Automating_Literature_Review_Using_Large_Language_Models.md)
+
+    - [翻译: LLAssist：借助大型语言模型，轻松实现文献综述自动化](2024年07月18日/LLAssist_Simple_Tools_for_Automating_Literature_Review_Using_Large_Language_Models.md)
+
+- [Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models](2024年07月18日/Enhancing_Data-Limited_Graph_Neural_Networks_by_Actively_Distilling_Knowledge_from_Large_Language_Models.md)
+
+    - [翻译: 主动从大型语言模型中提炼知识，以提升数据有限的图神经网络性能。](2024年07月18日/Enhancing_Data-Limited_Graph_Neural_Networks_by_Actively_Distilling_Knowledge_from_Large_Language_Models.md)
+
+- [Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance](2024年07月18日/Reexamining_Racial_Disparities_in_Automatic_Speech_Recognition_Performance_The_Role_of_Confounding_by_Provenance.md)
+
+    - [翻译: 探讨自动语音识别中种族差异的根源：揭秘来源混杂因素的影响](2024年07月18日/Reexamining_Racial_Disparities_in_Automatic_Speech_Recognition_Performance_The_Role_of_Confounding_by_Provenance.md)
+
+- [PRAGyan -- Connecting the Dots in Tweets](2024年07月18日/PRAGyan_--_Connecting_the_Dots_in_Tweets.md)
+
+    - [翻译: PRAGyan -- 串联推文中的点滴智慧](2024年07月18日/PRAGyan_--_Connecting_the_Dots_in_Tweets.md)
+
+- [Semi-Supervised Contrastive Learning of Musical Representations](2024年07月18日/Semi-Supervised_Contrastive_Learning_of_Musical_Representations.md)
+
+    - [翻译: 音乐表示的半监督对比学习](2024年07月18日/Semi-Supervised_Contrastive_Learning_of_Musical_Representations.md)
 
 2024年07月17日
 
@@ -3355,6 +3523,10 @@
 - [Reasoning in Large Language Models: A Geometric Perspective](2024年07月02日/Reasoning_in_Large_Language_Models_A_Geometric_Perspective.md)
 
     - [翻译: 大型语言模型推理：几何视角探析](2024年07月02日/Reasoning_in_Large_Language_Models_A_Geometric_Perspective.md)
+
+- [Predictive Simultaneous Interpretation: Harnessing Large Language Models for Democratizing Real-Time Multilingual Communication](2024年07月02日/Predictive_Simultaneous_Interpretation_Harnessing_Large_Language_Models_for_Democratizing_Real-Time_Multilingual_Communication.md)
+
+    - [翻译: 预测性同声传译技术，借助大型语言模型之力，正推动实时多语言交流的普及化。](2024年07月02日/Predictive_Simultaneous_Interpretation_Harnessing_Large_Language_Models_for_Democratizing_Real-Time_Multilingual_Communication.md)
 
 2024年07月01日
 
