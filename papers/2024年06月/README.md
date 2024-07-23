@@ -3512,7 +3512,7 @@
 
 - [Transformative Influence of LLM and AI Tools in Student Social Media Engagement: Analyzing Personalization, Communication Efficiency, and Collaborative Learning](2024年06月14日/Transformative_Influence_of_LLM_and_AI_Tools_in_Student_Social_Media_Engagement_Analyzing_Personalization,_Communication_Efficiency,_and_Collaborative_Learning.md)
 
-    - [翻译: LLM 与 AI 工具正深刻改变学生的社交媒体互动，通过个性化、提升沟通效率及促进协作学习，展现了其在教育领域的巨大潜力。](2024年06月14日/Transformative_Influence_of_LLM_and_AI_Tools_in_Student_Social_Media_Engagement_Analyzing_Personalization,_Communication_Efficiency,_and_Collaborative_Learning.md)
+    - [翻译: LLM与AI工具正深刻改变学生在社交媒体上的互动，通过提升个性化体验、沟通效率及促进协作学习，展现了其在教育领域的巨大潜力。](2024年06月14日/Transformative_Influence_of_LLM_and_AI_Tools_in_Student_Social_Media_Engagement_Analyzing_Personalization,_Communication_Efficiency,_and_Collaborative_Learning.md)
 
 2024年06月13日
 
