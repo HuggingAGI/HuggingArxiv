@@ -1,5 +1,69 @@
 # 2024年07月
 
+2024年07月21日
+
+- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](2024年07月21日/Fact-Aware_Multimodal_Retrieval_Augmentation_for_Accurate_Medical_Radiology_Report_Generation.md)
+
+    - [翻译: 结合事实的多模态检索增强技术，助力生成精准的医学放射学报告。](2024年07月21日/Fact-Aware_Multimodal_Retrieval_Augmentation_for_Accurate_Medical_Radiology_Report_Generation.md)
+
+- [Assessing Brittleness of Image-Text Retrieval Benchmarks from Vision-Language Models Perspective](2024年07月21日/Assessing_Brittleness_of_Image-Text_Retrieval_Benchmarks_from_Vision-Language_Models_Perspective.md)
+
+    - [翻译: 从视觉与语言结合的视角，探讨图像与文本检索基准的脆弱性。](2024年07月21日/Assessing_Brittleness_of_Image-Text_Retrieval_Benchmarks_from_Vision-Language_Models_Perspective.md)
+
+- [Odyssey: Empowering Agents with Open-World Skills](2024年07月21日/Odyssey_Empowering_Agents_with_Open-World_Skills.md)
+
+    - [翻译: Odyssey：助力代理掌握开放世界技能](2024年07月21日/Odyssey_Empowering_Agents_with_Open-World_Skills.md)
+
+- [Explaining Decisions of Agents in Mixed-Motive Games](2024年07月21日/Explaining_Decisions_of_Agents_in_Mixed-Motive_Games.md)
+
+    - [翻译: 揭示混合动机游戏中代理决策的奥秘](2024年07月21日/Explaining_Decisions_of_Agents_in_Mixed-Motive_Games.md)
+
+- [Navigation Instruction Generation with BEV Perception and Large Language Models](2024年07月21日/Navigation_Instruction_Generation_with_BEV_Perception_and_Large_Language_Models.md)
+
+    - [翻译: 利用BEV感知技术与大型语言模型，实现导航指令的智能生成。](2024年07月21日/Navigation_Instruction_Generation_with_BEV_Perception_and_Large_Language_Models.md)
+
+- [Multi-Agent Causal Discovery Using Large Language Models](2024年07月21日/Multi-Agent_Causal_Discovery_Using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型进行多智能体因果探索](2024年07月21日/Multi-Agent_Causal_Discovery_Using_Large_Language_Models.md)
+
+- [Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts](2024年07月21日/Arondight_Red_Teaming_Large_Vision_Language_Models_with_Auto-generated_Multi-modal_Jailbreak_Prompts.md)
+
+    - [翻译: Arondight：借助自动生成的多模态越狱提示，对大型视觉语言模型进行红队挑战。](2024年07月21日/Arondight_Red_Teaming_Large_Vision_Language_Models_with_Auto-generated_Multi-modal_Jailbreak_Prompts.md)
+
+- [VideoGameBunny: Towards vision assistants for video games](2024年07月21日/VideoGameBunny_Towards_vision_assistants_for_video_games.md)
+
+    - [翻译: VideoGameBunny：致力于打造视频游戏的视觉助手](2024年07月21日/VideoGameBunny_Towards_vision_assistants_for_video_games.md)
+
+- [MIBench: Evaluating Multimodal Large Language Models over Multiple Images](2024年07月21日/MIBench_Evaluating_Multimodal_Large_Language_Models_over_Multiple_Images.md)
+
+    - [翻译: MIBench：探究多模态大型语言模型在处理多张图像时的性能表现](2024年07月21日/MIBench_Evaluating_Multimodal_Large_Language_Models_over_Multiple_Images.md)
+
+- [Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation](2024年07月21日/Text-Augmented_Multimodal_LLMs_for_Chemical_Reaction_Condition_Recommendation.md)
+
+    - [翻译: 化学反应条件推荐中的文本增强多模态 LLM](2024年07月21日/Text-Augmented_Multimodal_LLMs_for_Chemical_Reaction_Condition_Recommendation.md)
+
+- [Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval](2024年07月21日/Prior_Knowledge_Integration_via_LLM_Encoding_and_Pseudo_Event_Regulation_for_Video_Moment_Retrieval.md)
+
+    - [翻译: 利用 LLM 编码与伪事件调控，整合先验知识，提升视频时刻检索的精准度。](2024年07月21日/Prior_Knowledge_Integration_via_LLM_Encoding_and_Pseudo_Event_Regulation_for_Video_Moment_Retrieval.md)
+
+2024年07月20日
+
+- [On the Design and Analysis of LLM-Based Algorithms](2024年07月20日/On_the_Design_and_Analysis_of_LLM-Based_Algorithms.md)
+
+    - [翻译: 探讨基于LLM算法的构思与评估](2024年07月20日/On_the_Design_and_Analysis_of_LLM-Based_Algorithms.md)
+
+- [DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control](2024年07月20日/DISCO_Embodied_Navigation_and_Interaction_via_Differentiable_Scene_Semantics_and_Dual-level_Control.md)
+
+    - [翻译: DISCO：融合可微场景语义与双层控制，实现智能体的具身导航与交互。](2024年07月20日/DISCO_Embodied_Navigation_and_Interaction_via_Differentiable_Scene_Semantics_and_Dual-level_Control.md)
+
+- [Audio-visual training for improved grounding in video-text LLMs](2024年07月20日/Audio-visual_training_for_improved_grounding_in_video-text_LLMs.md)
+
+    - [翻译: 通过视听训练，旨在提升视频-文本大型语言模型中的基础能力。](2024年07月20日/Audio-visual_training_for_improved_grounding_in_video-text_LLMs.md)
+
+- [Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](2024年07月20日/Sim-CLIP_Unsupervised_Siamese_Adversarial_Fine-Tuning_for_Robust_and_Semantically-Rich_Vision-Language_Models.md)
+
+    - [翻译: Sim-CLIP：通过无监督孪生对抗微调，打造鲁棒且语义丰富的视觉-语言模型。](2024年07月20日/Sim-CLIP_Unsupervised_Siamese_Adversarial_Fine-Tuning_for_Robust_and_Semantically-Rich_Vision-Language_Models.md)
+
 2024年07月19日
 
 - [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities](2024年07月19日/ChatQA_2_Bridging_the_Gap_to_Proprietary_LLMs_in_Long_Context_and_RAG_Capabilities.md)
@@ -2781,6 +2845,10 @@
 - [RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations](2024年07月05日/RAMO_Retrieval-Augmented_Generation_for_Enhancing_MOOCs_Recommendations.md)
 
     - [翻译: RAMO：通过检索增强生成技术，提升 MOOCs 推荐效果](2024年07月05日/RAMO_Retrieval-Augmented_Generation_for_Enhancing_MOOCs_Recommendations.md)
+
+- [Towards Automated Functional Equation Proving: A Benchmark Dataset and A Domain-Specific In-Context Agent](2024年07月05日/Towards_Automated_Functional_Equation_Proving_A_Benchmark_Dataset_and_A_Domain-Specific_In-Context_Agent.md)
+
+    - [翻译: 迈向自动化功能方程证明：推出一个基准数据集及特定领域的上下文智能代理](2024年07月05日/Towards_Automated_Functional_Equation_Proving_A_Benchmark_Dataset_and_A_Domain-Specific_In-Context_Agent.md)
 
 2024年07月04日
 
