@@ -1,7 +1,7 @@
 # AgentPoison：利用毒化记忆或知识库手段，对 LLM 代理进行红队挑战
 发布时间：2024年07月17日
 
-`模型安全`
+`Agent应用`
 > AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases
 >
 > LLM代理因其强大的推理和互动能力在多领域表现出色。然而，依赖未经核实的知识库引发安全疑虑。为此，我们首创AgentPoison攻击，通过毒化代理的记忆库植入后门，实现高概率的恶意行为激活，同时保持正常指令的性能。AgentPoison无需额外训练，触发器设计巧妙，实验证实其对多种代理的高效攻击能力，平均成功率超80%，对正常功能影响微乎其微。
