@@ -3510,6 +3510,10 @@
 
     - [翻译: 大型语言模型在合成数据生成、筛选与评估中的应用：一份综述](2024年06月14日/On_LLMs-Driven_Synthetic_Data_Generation,_Curation,_and_Evaluation_A_Survey.md)
 
+- [Transformative Influence of LLM and AI Tools in Student Social Media Engagement: Analyzing Personalization, Communication Efficiency, and Collaborative Learning](2024年06月14日/Transformative_Influence_of_LLM_and_AI_Tools_in_Student_Social_Media_Engagement_Analyzing_Personalization,_Communication_Efficiency,_and_Collaborative_Learning.md)
+
+    - [翻译: LLM 与 AI 工具正深刻改变学生的社交媒体互动，通过个性化、提升沟通效率及促进协作学习，展现了其在教育领域的巨大潜力。](2024年06月14日/Transformative_Influence_of_LLM_and_AI_Tools_in_Student_Social_Media_Engagement_Analyzing_Personalization,_Communication_Efficiency,_and_Collaborative_Learning.md)
+
 2024年06月13日
 
 - [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](2024年06月13日/GuardAgent_Safeguard_LLM_Agents_by_a_Guard_Agent_via_Knowledge-Enabled_Reasoning.md)
