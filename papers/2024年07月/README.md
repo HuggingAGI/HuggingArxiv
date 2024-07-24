@@ -1,5 +1,47 @@
 # 2024年07月
 
+2024年07月23日
+
+- [Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models](2024年07月23日/Retrieve,_Generate,_Evaluate_A_Case_Study_for_Medical_Paraphrases_Generation_with_Small_Language_Models.md)
+
+    - [翻译: 通过检索、生成、评估流程，本研究探索了小型语言模型在医学释义生成中的应用。](2024年07月23日/Retrieve,_Generate,_Evaluate_A_Case_Study_for_Medical_Paraphrases_Generation_with_Small_Language_Models.md)
+
+- [RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](2024年07月23日/RedAgent_Red_Teaming_Large_Language_Models_with_Context-aware_Autonomous_Language_Agent.md)
+
+    - [翻译: RedAgent：通过上下文感知的自主语言代理，对大型语言模型进行红队挑战。](2024年07月23日/RedAgent_Red_Teaming_Large_Language_Models_with_Context-aware_Autonomous_Language_Agent.md)
+
+- [AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game](2024年07月23日/AMONGAGENTS_Evaluating_Large_Language_Models_in_the_Interactive_Text-Based_Social_Deduction_Game.md)
+
+    - [翻译: AMONGAGENTS：通过基于文本的社交推理游戏，评估大型语言模型的表现。](2024年07月23日/AMONGAGENTS_Evaluating_Large_Language_Models_in_the_Interactive_Text-Based_Social_Deduction_Game.md)
+
+- [LawLuo: A Chinese Law Firm Co-run by LLM Agents](2024年07月23日/LawLuo_A_Chinese_Law_Firm_Co-run_by_LLM_Agents.md)
+
+    - [翻译: LawLuo：一家由 LLM 代理共同运营的中国律师事务所](2024年07月23日/LawLuo_A_Chinese_Law_Firm_Co-run_by_LLM_Agents.md)
+
+- [Artificial Agency and Large Language Models](2024年07月23日/Artificial_Agency_and_Large_Language_Models.md)
+
+    - [翻译: 人工智能代理与大型语言模型](2024年07月23日/Artificial_Agency_and_Large_Language_Models.md)
+
+- [Can Large Language Models Automatically Jailbreak GPT-4V?](2024年07月23日/Can_Large_Language_Models_Automatically_Jailbreak_GPT-4V.md)
+
+    - [翻译: 大型语言模型是否能自动解除 GPT-4V 的限制？](2024年07月23日/Can_Large_Language_Models_Automatically_Jailbreak_GPT-4V.md)
+
+- [MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues](2024年07月23日/MicroEmo_Time-Sensitive_Multimodal_Emotion_Recognition_with_Micro-Expression_Dynamics_in_Video_Dialogues.md)
+
+    - [翻译: MicroEmo 技术：通过捕捉视频对话中的微表情动态，实现时间敏感的多模态情感识别。](2024年07月23日/MicroEmo_Time-Sensitive_Multimodal_Emotion_Recognition_with_Micro-Expression_Dynamics_in_Video_Dialogues.md)
+
+- [Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning](2024年07月23日/Multimodal_Unlearnable_Examples_Protecting_Data_against_Multimodal_Contrastive_Learning.md)
+
+    - [翻译: 多模态不可学习示例：抵御多模态对比学习的保护数据策略](2024年07月23日/Multimodal_Unlearnable_Examples_Protecting_Data_against_Multimodal_Contrastive_Learning.md)
+
+- [When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models](2024年07月23日/When,_Where,_and_What_An_Novel_Benchmark_for_Accident_Anticipation_and_Localization_with_Large_Language_Models.md)
+
+    - [翻译: 何时何地何事？结合大型语言模型，我们提出了一种新颖的事故预测与定位基准。](2024年07月23日/When,_Where,_and_What_An_Novel_Benchmark_for_Accident_Anticipation_and_Localization_with_Large_Language_Models.md)
+
+- [INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model](2024年07月23日/INF-LLaVA_Dual-perspective_Perception_for_High-Resolution_Multimodal_Large_Language_Model.md)
+
+    - [翻译: INF-LLaVA：高分辨率多模态大型语言模型的双重视角感知技术](2024年07月23日/INF-LLaVA_Dual-perspective_Perception_for_High-Resolution_Multimodal_Large_Language_Model.md)
+
 2024年07月22日
 
 - [vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving](2024年07月22日/vTensor_Flexible_Virtual_Tensor_Management_for_Efficient_LLM_Serving.md)
@@ -186,6 +228,10 @@
 
     - [翻译: 深入解析Transformer中的乘法机制，揭示LLMs的内在奥秘。](2024年07月22日/Dissecting_Multiplication_in_Transformers_Insights_into_LLMs.md)
 
+- [UniMEL: A Unified Framework for Multimodal Entity Linking with Large Language Models](2024年07月22日/UniMEL_A_Unified_Framework_for_Multimodal_Entity_Linking_with_Large_Language_Models.md)
+
+    - [翻译: UniMEL：整合大型语言模型，打造多模态实体链接的统一框架](2024年07月22日/UniMEL_A_Unified_Framework_for_Multimodal_Entity_Linking_with_Large_Language_Models.md)
+
 2024年07月21日
 
 - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](2024年07月21日/Fact-Aware_Multimodal_Retrieval_Augmentation_for_Accurate_Medical_Radiology_Report_Generation.md)
@@ -323,6 +369,10 @@
 - [Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models](2024年07月21日/Addressing_Out-of-Distribution_Challenges_in_Image_Semantic_Communication_Systems_with_Multi-modal_Large_Language_Models.md)
 
     - [翻译: 利用多模态大型语言模型应对图像语义通信系统中的分布外难题](2024年07月21日/Addressing_Out-of-Distribution_Challenges_in_Image_Semantic_Communication_Systems_with_Multi-modal_Large_Language_Models.md)
+
+- [A Benchmark Dataset for Multimodal Prediction of Enzymatic Function Coupling DNA Sequences and Natural Language](2024年07月21日/A_Benchmark_Dataset_for_Multimodal_Prediction_of_Enzymatic_Function_Coupling_DNA_Sequences_and_Natural_Language.md)
+
+    - [翻译: 本研究推出一个基准数据集，旨在通过结合DNA序列与自然语言，实现对酶功能的多模态预测。](2024年07月21日/A_Benchmark_Dataset_for_Multimodal_Prediction_of_Enzymatic_Function_Coupling_DNA_Sequences_and_Natural_Language.md)
 
 2024年07月20日
 
