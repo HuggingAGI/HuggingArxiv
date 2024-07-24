@@ -42,6 +42,106 @@
 
     - [翻译: INF-LLaVA：高分辨率多模态大型语言模型的双重视角感知技术](2024年07月23日/INF-LLaVA_Dual-perspective_Perception_for_High-Resolution_Multimodal_Large_Language_Model.md)
 
+- [Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack](2024年07月23日/Stress-Testing_Long-Context_Language_Models_with_Lifelong_ICL_and_Task_Haystack.md)
+
+    - [翻译: 通过终身 ICL 和任务海斯塔克，对长上下文语言模型进行压力测试。](2024年07月23日/Stress-Testing_Long-Context_Language_Models_with_Lifelong_ICL_and_Task_Haystack.md)
+
+- [Course-Correction: Safety Alignment Using Synthetic Preferences](2024年07月23日/Course-Correction_Safety_Alignment_Using_Synthetic_Preferences.md)
+
+    - [翻译: 通过合成偏好实现安全对齐的调整策略](2024年07月23日/Course-Correction_Safety_Alignment_Using_Synthetic_Preferences.md)
+
+- [Lawma: The Power of Specialization for Legal Tasks](2024年07月23日/Lawma_The_Power_of_Specialization_for_Legal_Tasks.md)
+
+    - [翻译: Lawma：法律任务中专业化的强大力量](2024年07月23日/Lawma_The_Power_of_Specialization_for_Legal_Tasks.md)
+
+- [Shared Imagination: LLMs Hallucinate Alike](2024年07月23日/Shared_Imagination_LLMs_Hallucinate_Alike.md)
+
+    - [翻译: 共同幻想：大型语言模型幻觉如出一辙](2024年07月23日/Shared_Imagination_LLMs_Hallucinate_Alike.md)
+
+- [Exploring Automatic Cryptographic API Misuse Detection in the Era of LLMs](2024年07月23日/Exploring_Automatic_Cryptographic_API_Misuse_Detection_in_the_Era_of_LLMs.md)
+
+    - [翻译: 在 LLM 时代，我们致力于探索自动检测加密 API 误用的技术。](2024年07月23日/Exploring_Automatic_Cryptographic_API_Misuse_Detection_in_the_Era_of_LLMs.md)
+
+- [Patched RTC: evaluating LLMs for diverse software development tasks](2024年07月23日/Patched_RTC_evaluating_LLMs_for_diverse_software_development_tasks.md)
+
+    - [翻译: Patched RTC：探索 LLM 在多元软件开发任务中的应用评估](2024年07月23日/Patched_RTC_evaluating_LLMs_for_diverse_software_development_tasks.md)
+
+- [Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models](2024年07月23日/Machine_Translation_Hallucination_Detection_for_Low_and_High_Resource_Languages_using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型检测低资源与高资源语言的机器翻译幻觉](2024年07月23日/Machine_Translation_Hallucination_Detection_for_Low_and_High_Resource_Languages_using_Large_Language_Models.md)
+
+- [The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization](2024年07月23日/The_CHiME-8_DASR_Challenge_for_Generalizable_and_Array_Agnostic_Distant_Automatic_Speech_Recognition_and_Diarization.md)
+
+    - [翻译: CHiME-8 DASR 挑战赛聚焦于提升远场自动语音识别和话者分类的通用性与阵列无关性。](2024年07月23日/The_CHiME-8_DASR_Challenge_for_Generalizable_and_Array_Agnostic_Distant_Automatic_Speech_Recognition_and_Diarization.md)
+
+- [Enhancing LLM's Cognition via Structurization](2024年07月23日/Enhancing_LLM's_Cognition_via_Structurization.md)
+
+    - [翻译: 结构化提升 LLM 认知能力](2024年07月23日/Enhancing_LLM's_Cognition_via_Structurization.md)
+
+- [Ranking protein-protein models with large language models and graph neural networks](2024年07月23日/Ranking_protein-protein_models_with_large_language_models_and_graph_neural_networks.md)
+
+    - [翻译: 结合大型语言模型与图神经网络，优化蛋白质-蛋白质模型的排序](2024年07月23日/Ranking_protein-protein_models_with_large_language_models_and_graph_neural_networks.md)
+
+- [Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction](2024年07月23日/Evolutionary_Prompt_Design_for_LLM-Based_Post-ASR_Error_Correction.md)
+
+    - [翻译: LLM 驱动的 ASR 后错误纠正的进化提示策略](2024年07月23日/Evolutionary_Prompt_Design_for_LLM-Based_Post-ASR_Error_Correction.md)
+
+- [PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets](2024年07月23日/PhenoFlow_A_Human-LLM_Driven_Visual_Analytics_System_for_Exploring_Large_and_Complex_Stroke_Datasets.md)
+
+    - [翻译: PhenoFlow：一款由人类与 LLM 共同驱动的视觉分析工具，专为探索庞大且复杂的中风数据集而设计。](2024年07月23日/PhenoFlow_A_Human-LLM_Driven_Visual_Analytics_System_for_Exploring_Large_and_Complex_Stroke_Datasets.md)
+
+- [Capital as Artificial Intelligence](2024年07月23日/Capital_as_Artificial_Intelligence.md)
+
+    - [翻译: 资本，人工智能的化身](2024年07月23日/Capital_as_Artificial_Intelligence.md)
+
+- [Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence Modeling Approach for Lifelong Learning](2024年07月23日/Optimizing_Robotic_Manipulation_with_Decision-RWKV_A_Recurrent_Sequence_Modeling_Approach_for_Lifelong_Learning.md)
+
+    - [翻译: 通过 Decision-RWKV 方法，我们为机器人操作提供了一种终身学习的循环序列建模优化方案。](2024年07月23日/Optimizing_Robotic_Manipulation_with_Decision-RWKV_A_Recurrent_Sequence_Modeling_Approach_for_Lifelong_Learning.md)
+
+- [A deeper look at depth pruning of LLMs](2024年07月23日/A_deeper_look_at_depth_pruning_of_LLMs.md)
+
+    - [翻译: 深度剖析 LLM 的层级精简](2024年07月23日/A_deeper_look_at_depth_pruning_of_LLMs.md)
+
+- [OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection](2024年07月23日/OriGenEnhancing_RTL_Code_Generation_with_Code-to-Code_Augmentation_and_Self-Reflection.md)
+
+    - [翻译: OriGen：借助代码间的增强与自我反思，革新RTL代码生成技术](2024年07月23日/OriGenEnhancing_RTL_Code_Generation_with_Code-to-Code_Augmentation_and_Self-Reflection.md)
+
+- [Comparison of Static Application Security Testing Tools and Large Language Models for Repo-level Vulnerability Detection](2024年07月23日/Comparison_of_Static_Application_Security_Testing_Tools_and_Large_Language_Models_for_Repo-level_Vulnerability_Detection.md)
+
+    - [翻译: 比较静态应用安全测试工具与大型语言模型在仓库级漏洞检测中的表现](2024年07月23日/Comparison_of_Static_Application_Security_Testing_Tools_and_Large_Language_Models_for_Repo-level_Vulnerability_Detection.md)
+
+- [PreAlign: Boosting Cross-Lingual Transfer by Early Establishment of Multilingual Alignment](2024年07月23日/PreAlign_Boosting_Cross-Lingual_Transfer_by_Early_Establishment_of_Multilingual_Alignment.md)
+
+    - [翻译: PreAlign：通过早期确立多语言对齐，助力跨语言迁移能力的提升。](2024年07月23日/PreAlign_Boosting_Cross-Lingual_Transfer_by_Early_Establishment_of_Multilingual_Alignment.md)
+
+- [Do LLMs Know When to NOT Answer? Investigating Abstention Abilities of Large Language Models](2024年07月23日/Do_LLMs_Know_When_to_NOT_Answer_Investigating_Abstention_Abilities_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型是否懂得何时保持沉默？本研究探讨其拒绝回答的能力。](2024年07月23日/Do_LLMs_Know_When_to_NOT_Answer_Investigating_Abstention_Abilities_of_Large_Language_Models.md)
+
+- [A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More](2024年07月23日/A_Comprehensive_Survey_of_LLM_Alignment_Techniques_RLHF,_RLAIF,_PPO,_DPO_and_More.md)
+
+    - [翻译: 全面探索 LLM 对齐技术：涵盖 RLHF、RLAIF、PPO、DPO 等方法](2024年07月23日/A_Comprehensive_Survey_of_LLM_Alignment_Techniques_RLHF,_RLAIF,_PPO,_DPO_and_More.md)
+
+- [VidyaRANG: Conversational Learning Based Platform powered by Large Language Model](2024年07月23日/VidyaRANG_Conversational_Learning_Based_Platform_powered_by_Large_Language_Model.md)
+
+    - [翻译: VidyaRANG：一款由大型语言模型支持的对话学习平台](2024年07月23日/VidyaRANG_Conversational_Learning_Based_Platform_powered_by_Large_Language_Model.md)
+
+- [Graph-Structured Speculative Decoding](2024年07月23日/Graph-Structured_Speculative_Decoding.md)
+
+    - [翻译: 图结构推测解码](2024年07月23日/Graph-Structured_Speculative_Decoding.md)
+
+- [Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models](2024年07月23日/Figure_it_Out_Analyzing-based_Jailbreak_Attack_on_Large_Language_Models.md)
+
+    - [翻译: 图解大型语言模型的越狱攻击：基于分析的方法](2024年07月23日/Figure_it_Out_Analyzing-based_Jailbreak_Attack_on_Large_Language_Models.md)
+
+- [How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval](2024年07月23日/How_to_Leverage_Personal_Textual_Knowledge_for_Personalized_Conversational_Information_Retrieval.md)
+
+    - [翻译: 利用个人文本知识，实现个性化对话信息检索](2024年07月23日/How_to_Leverage_Personal_Textual_Knowledge_for_Personalized_Conversational_Information_Retrieval.md)
+
+- [Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks](2024年07月23日/Robust_Privacy_Amidst_Innovation_with_Large_Language_Models_Through_a_Critical_Assessment_of_the_Risks.md)
+
+    - [翻译: 在大型语言模型的创新浪潮中，我们需通过批判性评估风险，确保隐私的坚固防线。](2024年07月23日/Robust_Privacy_Amidst_Innovation_with_Large_Language_Models_Through_a_Critical_Assessment_of_the_Risks.md)
+
 2024年07月22日
 
 - [vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving](2024年07月22日/vTensor_Flexible_Virtual_Tensor_Management_for_Efficient_LLM_Serving.md)
@@ -232,6 +332,58 @@
 
     - [翻译: UniMEL：整合大型语言模型，打造多模态实体链接的统一框架](2024年07月22日/UniMEL_A_Unified_Framework_for_Multimodal_Entity_Linking_with_Large_Language_Models.md)
 
+- [DDK: Distilling Domain Knowledge for Efficient Large Language Models](2024年07月22日/DDK_Distilling_Domain_Knowledge_for_Efficient_Large_Language_Models.md)
+
+    - [翻译: DDK：精炼领域智慧，助力高效大型语言模型](2024年07月22日/DDK_Distilling_Domain_Knowledge_for_Efficient_Large_Language_Models.md)
+
+- [CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support](2024年07月22日/CHIME_LLM-Assisted_Hierarchical_Organization_of_Scientific_Studies_for_Literature_Review_Support.md)
+
+    - [翻译: CHIME：借助LLM进行科学研究文献综述的分层组织支持](2024年07月22日/CHIME_LLM-Assisted_Hierarchical_Organization_of_Scientific_Studies_for_Literature_Review_Support.md)
+
+- [Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion](2024年07月22日/Finetuning_Generative_Large_Language_Models_with_Discrimination_Instructions_for_Knowledge_Graph_Completion.md)
+
+    - [翻译: 通过鉴别指令微调生成式大型语言模型，助力知识图谱补全任务。](2024年07月22日/Finetuning_Generative_Large_Language_Models_with_Discrimination_Instructions_for_Knowledge_Graph_Completion.md)
+
+- [KaPQA: Knowledge-Augmented Product Question-Answering](2024年07月22日/KaPQA_Knowledge-Augmented_Product_Question-Answering.md)
+
+    - [翻译: KaPQA：知识赋能的产品问答系统](2024年07月22日/KaPQA_Knowledge-Augmented_Product_Question-Answering.md)
+
+- [Leveraging Large Language Models to Geolocate Linguistic Variations in Social Media Posts](2024年07月22日/Leveraging_Large_Language_Models_to_Geolocate_Linguistic_Variations_in_Social_Media_Posts.md)
+
+    - [翻译: 借助大型语言模型，我们能够精准定位社交媒体帖子中的语言变异。](2024年07月22日/Leveraging_Large_Language_Models_to_Geolocate_Linguistic_Variations_in_Social_Media_Posts.md)
+
+- [Enhancing Temporal Understanding in LLMs for Semi-structured Tables](2024年07月22日/Enhancing_Temporal_Understanding_in_LLMs_for_Semi-structured_Tables.md)
+
+    - [翻译: 提升 LLM 对半结构化表格的时间感知能力](2024年07月22日/Enhancing_Temporal_Understanding_in_LLMs_for_Semi-structured_Tables.md)
+
+- [Boosting Reward Model with Preference-Conditional Multi-Aspect Synthetic Data Generation](2024年07月22日/Boosting_Reward_Model_with_Preference-Conditional_Multi-Aspect_Synthetic_Data_Generation.md)
+
+    - [翻译: 通过偏好条件下的多方面合成数据生成，我们旨在提升奖励模型的性能。](2024年07月22日/Boosting_Reward_Model_with_Preference-Conditional_Multi-Aspect_Synthetic_Data_Generation.md)
+
+- [SocialQuotes: Learning Contextual Roles of Social Media Quotes on the Web](2024年07月22日/SocialQuotes_Learning_Contextual_Roles_of_Social_Media_Quotes_on_the_Web.md)
+
+    - [翻译: SocialQuotes：探索社交媒体引言在网络环境中的功能定位](2024年07月22日/SocialQuotes_Learning_Contextual_Roles_of_Social_Media_Quotes_on_the_Web.md)
+
+- [AI for Handball: predicting and explaining the 2024 Olympic Games tournament with Deep Learning and Large Language Models](2024年07月22日/AI_for_Handball_predicting_and_explaining_the_2024_Olympic_Games_tournament_with_Deep_Learning_and_Large_Language_Models.md)
+
+    - [翻译: AI 助力手球：借助深度学习与大型语言模型，预测并解析 2024 年奥运会赛事](2024年07月22日/AI_for_Handball_predicting_and_explaining_the_2024_Olympic_Games_tournament_with_Deep_Learning_and_Large_Language_Models.md)
+
+- [Multilingual Fine-Grained News Headline Hallucination Detection](2024年07月22日/Multilingual_Fine-Grained_News_Headline_Hallucination_Detection.md)
+
+    - [翻译: 细探多语言新闻标题的幻觉识别](2024年07月22日/Multilingual_Fine-Grained_News_Headline_Hallucination_Detection.md)
+
+- [Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models](2024年07月22日/Test-Time_Low_Rank_Adaptation_via_Confidence_Maximization_for_Zero-Shot_Generalization_of_Vision-Language_Models.md)
+
+    - [翻译: 本研究通过置信度最大化方法，在测试时进行低秩适应，旨在提升视觉-语言模型在零-shot场景下的泛化能力。](2024年07月22日/Test-Time_Low_Rank_Adaptation_via_Confidence_Maximization_for_Zero-Shot_Generalization_of_Vision-Language_Models.md)
+
+- [The Shadow of Fraud: The Emerging Danger of AI-powered Social Engineering and its Possible Cure](2024年07月22日/The_Shadow_of_Fraud_The_Emerging_Danger_of_AI-powered_Social_Engineering_and_its_Possible_Cure.md)
+
+    - [翻译: AI驱动的社交工程正成为欺诈的新温床，我们亟需探索其潜在风险及应对之策。](2024年07月22日/The_Shadow_of_Fraud_The_Emerging_Danger_of_AI-powered_Social_Engineering_and_its_Possible_Cure.md)
+
+- [Comprehensive Study on Performance Evaluation and Optimization of Model Compression: Bridging Traditional Deep Learning and Large Language Models](2024年07月22日/Comprehensive_Study_on_Performance_Evaluation_and_Optimization_of_Model_Compression_Bridging_Traditional_Deep_Learning_and_Large_Language_Models.md)
+
+    - [翻译: 本研究全面探讨了模型压缩的性能评估与优化，旨在架起传统深度学习与大型语言模型之间的桥梁。](2024年07月22日/Comprehensive_Study_on_Performance_Evaluation_and_Optimization_of_Model_Compression_Bridging_Traditional_Deep_Learning_and_Large_Language_Models.md)
+
 2024年07月21日
 
 - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](2024年07月21日/Fact-Aware_Multimodal_Retrieval_Augmentation_for_Accurate_Medical_Radiology_Report_Generation.md)
@@ -373,6 +525,10 @@
 - [A Benchmark Dataset for Multimodal Prediction of Enzymatic Function Coupling DNA Sequences and Natural Language](2024年07月21日/A_Benchmark_Dataset_for_Multimodal_Prediction_of_Enzymatic_Function_Coupling_DNA_Sequences_and_Natural_Language.md)
 
     - [翻译: 本研究推出一个基准数据集，旨在通过结合DNA序列与自然语言，实现对酶功能的多模态预测。](2024年07月21日/A_Benchmark_Dataset_for_Multimodal_Prediction_of_Enzymatic_Function_Coupling_DNA_Sequences_and_Natural_Language.md)
+
+- [RazorAttention: Efficient KV Cache Compression Through Retrieval Heads](2024年07月21日/RazorAttention_Efficient_KV_Cache_Compression_Through_Retrieval_Heads.md)
+
+    - [翻译: RazorAttention：利用检索头技术，实现KV缓存的高效压缩](2024年07月21日/RazorAttention_Efficient_KV_Cache_Compression_Through_Retrieval_Heads.md)
 
 2024年07月20日
 
