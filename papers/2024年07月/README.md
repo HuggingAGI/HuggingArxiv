@@ -1,5 +1,23 @@
 # 2024年07月
 
+2024年07月24日
+
+- [3D Question Answering for City Scene Understanding](2024年07月24日/3D_Question_Answering_for_City_Scene_Understanding.md)
+
+    - [翻译: 三维问答助力城市景观洞察](2024年07月24日/3D_Question_Answering_for_City_Scene_Understanding.md)
+
+- [DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation](2024年07月24日/DexGANGrasp_Dexterous_Generative_Adversarial_Grasping_Synthesis_for_Task-Oriented_Manipulation.md)
+
+    - [翻译: DexGANGrasp：专为任务导向操作设计的灵巧生成对抗抓取合成技术](2024年07月24日/DexGANGrasp_Dexterous_Generative_Adversarial_Grasping_Synthesis_for_Task-Oriented_Manipulation.md)
+
+- [How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?](2024年07月24日/How_Good_(Or_Bad)_Are_LLMs_at_Detecting_Misleading_Visualizations.md)
+
+    - [翻译: LLMs 在识别误导性图表方面表现如何？](2024年07月24日/How_Good_(Or_Bad)_Are_LLMs_at_Detecting_Misleading_Visualizations.md)
+
+- [Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles](2024年07月24日/Testing_Large_Language_Models_on_Driving_Theory_Knowledge_and_Skills_for_Connected_Autonomous_Vehicles.md)
+
+    - [翻译: 探究大型语言模型在连接自动驾驶车辆理论与技能方面的测试表现](2024年07月24日/Testing_Large_Language_Models_on_Driving_Theory_Knowledge_and_Skills_for_Connected_Autonomous_Vehicles.md)
+
 2024年07月23日
 
 - [Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models](2024年07月23日/Retrieve,_Generate,_Evaluate_A_Case_Study_for_Medical_Paraphrases_Generation_with_Small_Language_Models.md)
@@ -141,6 +159,14 @@
 - [Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks](2024年07月23日/Robust_Privacy_Amidst_Innovation_with_Large_Language_Models_Through_a_Critical_Assessment_of_the_Risks.md)
 
     - [翻译: 在大型语言模型的创新浪潮中，我们需通过批判性评估风险，确保隐私的坚固防线。](2024年07月23日/Robust_Privacy_Amidst_Innovation_with_Large_Language_Models_Through_a_Critical_Assessment_of_the_Risks.md)
+
+- [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](2024年07月23日/OpenDevin_An_Open_Platform_for_AI_Software_Developers_as_Generalist_Agents.md)
+
+    - [翻译: OpenDevin：专为 AI 软件开发者打造的开放平台，旨在支持他们作为多面手代理的角色。](2024年07月23日/OpenDevin_An_Open_Platform_for_AI_Software_Developers_as_Generalist_Agents.md)
+
+- [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](2024年07月23日/CompBench_A_Comparative_Reasoning_Benchmark_for_Multimodal_LLMs.md)
+
+    - [翻译: CompBench：多模态 LLM 的比较推理基准](2024年07月23日/CompBench_A_Comparative_Reasoning_Benchmark_for_Multimodal_LLMs.md)
 
 2024年07月22日
 
