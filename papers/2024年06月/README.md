@@ -1500,6 +1500,10 @@
 
     - [翻译: 理解，实为一种压缩。](2024年06月23日/Understanding_is_Compression.md)
 
+- [The Potential and Perils of Generative Artificial Intelligence for Quality Improvement and Patient Safety](2024年06月23日/The_Potential_and_Perils_of_Generative_Artificial_Intelligence_for_Quality_Improvement_and_Patient_Safety.md)
+
+    - [翻译: 生成式人工智能在提升质量和保障患者安全方面潜力巨大，但同时也伴随着风险。](2024年06月23日/The_Potential_and_Perils_of_Generative_Artificial_Intelligence_for_Quality_Improvement_and_Patient_Safety.md)
+
 2024年06月22日
 
 - [Enhancing Cross-Document Event Coreference Resolution by Discourse Structure and Semantic Information](2024年06月22日/Enhancing_Cross-Document_Event_Coreference_Resolution_by_Discourse_Structure_and_Semantic_Information.md)
@@ -2622,6 +2626,10 @@
 
     - [翻译: DART-Math：一种针对数学问题解决难度进行智能拒绝调优的方法](2024年06月18日/DART-Math_Difficulty-Aware_Rejection_Tuning_for_Mathematical_Problem-Solving.md)
 
+- [Free to play: UN Trade and Development's experience with developing its own open-source Retrieval Augmented Generation Large Language Model application](2024年06月18日/Free_to_play_UN_Trade_and_Development's_experience_with_developing_its_own_open-source_Retrieval_Augmented_Generation_Large_Language_Model_application.md)
+
+    - [翻译: 联合国贸易和发展会议在开发开源的检索增强生成大型语言模型应用上，展现了自由探索的精神与实践经验。](2024年06月18日/Free_to_play_UN_Trade_and_Development's_experience_with_developing_its_own_open-source_Retrieval_Augmented_Generation_Large_Language_Model_application.md)
+
 2024年06月17日
 
 - [Language Modeling with Editable External Knowledge](2024年06月17日/Language_Modeling_with_Editable_External_Knowledge.md)
@@ -2979,6 +2987,10 @@
 - [A Complete Survey on LLM-based AI Chatbots](2024年06月17日/A_Complete_Survey_on_LLM-based_AI_Chatbots.md)
 
     - [翻译: 全面探究：基于LLM的AI聊天机器人研究综述](2024年06月17日/A_Complete_Survey_on_LLM-based_AI_Chatbots.md)
+
+- [Cultural Value Differences of LLMs: Prompt, Language, and Model Size](2024年06月17日/Cultural_Value_Differences_of_LLMs_Prompt,_Language,_and_Model_Size.md)
+
+    - [翻译: LLM 的文化价值差异体现在提示、语言和模型大小上。](2024年06月17日/Cultural_Value_Differences_of_LLMs_Prompt,_Language,_and_Model_Size.md)
 
 2024年06月16日
 

@@ -18,6 +18,130 @@
 
     - [翻译: 探究大型语言模型在连接自动驾驶车辆理论与技能方面的测试表现](2024年07月24日/Testing_Large_Language_Models_on_Driving_Theory_Knowledge_and_Skills_for_Connected_Autonomous_Vehicles.md)
 
+- [I Could've Asked That: Reformulating Unanswerable Questions](2024年07月24日/I_Could've_Asked_That_Reformulating_Unanswerable_Questions.md)
+
+    - [翻译: 我本可以那样问：重塑无解之问](2024年07月24日/I_Could've_Asked_That_Reformulating_Unanswerable_Questions.md)
+
+- [WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries](2024年07月24日/WildHallucinations_Evaluating_Long-form_Factuality_in_LLMs_with_Real-World_Entity_Queries.md)
+
+    - [翻译: WildHallucinations：通过真实实体查询，探究 LLMs 长篇内容的事实准确性。](2024年07月24日/WildHallucinations_Evaluating_Long-form_Factuality_in_LLMs_with_Real-World_Entity_Queries.md)
+
+- [CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models](2024年07月24日/CMR_Scaling_Law_Predicting_Critical_Mixture_Ratios_for_Continual_Pre-training_of_Language_Models.md)
+
+    - [翻译: CMR 缩放法则：预测语言模型持续预训练的关键混合比例](2024年07月24日/CMR_Scaling_Law_Predicting_Critical_Mixture_Ratios_for_Continual_Pre-training_of_Language_Models.md)
+
+- [$VILA^2$: VILA Augmented VILA](2024年07月24日/$VILA^2$_VILA_Augmented_VILA.md)
+
+    - [翻译: $VILA^2$：VILA 的增强版](2024年07月24日/$VILA^2$_VILA_Augmented_VILA.md)
+
+- [Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?](2024年07月24日/Can_Watermarking_Large_Language_Models_Prevent_Copyrighted_Text_Generation_and_Hide_Training_Data.md)
+
+    - [翻译: 我们探讨一个关键问题：在大型语言模型中嵌入水印，是否能有效阻止版权文本的生成，并保护训练数据的隐私？](2024年07月24日/Can_Watermarking_Large_Language_Models_Prevent_Copyrighted_Text_Generation_and_Hide_Training_Data.md)
+
+- [(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork](2024年07月24日/(PASS)_Visual_Prompt_Locates_Good_Structure_Sparsity_through_a_Recurrent_HyperNetwork.md)
+
+    - [翻译: 视觉提示借助循环超网络，巧妙定位了结构中的稀疏性优势。](2024年07月24日/(PASS)_Visual_Prompt_Locates_Good_Structure_Sparsity_through_a_Recurrent_HyperNetwork.md)
+
+- [Grammar-based Game Description Generation using Large Language Models](2024年07月24日/Grammar-based_Game_Description_Generation_using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型进行基于语法的游戏描述生成](2024年07月24日/Grammar-based_Game_Description_Generation_using_Large_Language_Models.md)
+
+- [PERSONA: A Reproducible Testbed for Pluralistic Alignment](2024年07月24日/PERSONA_A_Reproducible_Testbed_for_Pluralistic_Alignment.md)
+
+    - [翻译: PERSONA：打造一个可复现的多重对齐测试平台](2024年07月24日/PERSONA_A_Reproducible_Testbed_for_Pluralistic_Alignment.md)
+
+- [MMRA: A Benchmark for Multi-granularity Multi-image Relational Association](2024年07月24日/MMRA_A_Benchmark_for_Multi-granularity_Multi-image_Relational_Association.md)
+
+    - [翻译: MMRA：多粒度多图像关系关联的标杆](2024年07月24日/MMRA_A_Benchmark_for_Multi-granularity_Multi-image_Relational_Association.md)
+
+- [ViPer: Visual Personalization of Generative Models via Individual Preference Learning](2024年07月24日/ViPer_Visual_Personalization_of_Generative_Models_via_Individual_Preference_Learning.md)
+
+    - [翻译: ViPer：借助个人偏好学习，为生成模型注入视觉个性化魅力](2024年07月24日/ViPer_Visual_Personalization_of_Generative_Models_via_Individual_Preference_Learning.md)
+
+- [Scalify: scale propagation for efficient low-precision LLM training](2024年07月24日/Scalify_scale_propagation_for_efficient_low-precision_LLM_training.md)
+
+    - [翻译: Scalify：通过尺度传播优化低精度 LLM 训练效率](2024年07月24日/Scalify_scale_propagation_for_efficient_low-precision_LLM_training.md)
+
+- [Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching](2024年07月24日/Boosting_Large_Language_Models_with_Socratic_Method_for_Conversational_Mathematics_Teaching.md)
+
+    - [翻译: 借助苏格拉底方法，我们提升了大型语言模型在对话式数学教学中的表现。](2024年07月24日/Boosting_Large_Language_Models_with_Socratic_Method_for_Conversational_Mathematics_Teaching.md)
+
+- [Label Alignment and Reassignment with Generalist Large Language Model for Enhanced Cross-Domain Named Entity Recognition](2024年07月24日/Label_Alignment_and_Reassignment_with_Generalist_Large_Language_Model_for_Enhanced_Cross-Domain_Named_Entity_Recognition.md)
+
+    - [翻译: 利用通才大型语言模型进行标签对齐与重新分配，以提升跨领域命名实体识别的性能。](2024年07月24日/Label_Alignment_and_Reassignment_with_Generalist_Large_Language_Model_for_Enhanced_Cross-Domain_Named_Entity_Recognition.md)
+
+- [Multi-label Cluster Discrimination for Visual Representation Learning](2024年07月24日/Multi-label_Cluster_Discrimination_for_Visual_Representation_Learning.md)
+
+    - [翻译: 多标签聚类辨别技术在视觉表示学习中发挥作用。](2024年07月24日/Multi-label_Cluster_Discrimination_for_Visual_Representation_Learning.md)
+
+- [LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering](2024年07月24日/LangOcc_Self-Supervised_Open_Vocabulary_Occupancy_Estimation_via_Volume_Rendering.md)
+
+    - [翻译: LangOcc：借助体积渲染技术，实现自监督的开放词汇占用估计](2024年07月24日/LangOcc_Self-Supervised_Open_Vocabulary_Occupancy_Estimation_via_Volume_Rendering.md)
+
+- [DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy](2024年07月24日/DenseTrack_Drone-based_Crowd_Tracking_via_Density-aware_Motion-appearance_Synergy.md)
+
+    - [翻译: DenseTrack：利用密度感知运动与外观协同技术，实现无人机群体追踪](2024年07月24日/DenseTrack_Drone-based_Crowd_Tracking_via_Density-aware_Motion-appearance_Synergy.md)
+
+- [LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN prover](2024年07月24日/LEAN-GitHub_Compiling_GitHub_LEAN_repositories_for_a_versatile_LEAN_prover.md)
+
+    - [翻译: LEAN-GitHub：打造多功能 LEAN 证明器，编译 GitHub 上的 LEAN 仓库资源。](2024年07月24日/LEAN-GitHub_Compiling_GitHub_LEAN_repositories_for_a_versatile_LEAN_prover.md)
+
+- [Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion](2024年07月24日/Fusing_LLMs_and_KGs_for_Formal_Causal_Reasoning_behind_Financial_Risk_Contagion.md)
+
+    - [翻译: 结合 LLM 与 KG，深入探究金融风险传播的因果逻辑](2024年07月24日/Fusing_LLMs_and_KGs_for_Formal_Causal_Reasoning_behind_Financial_Risk_Contagion.md)
+
+- [SimCT: A Simple Consistency Test Protocol in LLMs Development Lifecycle](2024年07月24日/SimCT_A_Simple_Consistency_Test_Protocol_in_LLMs_Development_Lifecycle.md)
+
+    - [翻译: SimCT：LLMs 开发过程中的一项简洁一致性测试方案](2024年07月24日/SimCT_A_Simple_Consistency_Test_Protocol_in_LLMs_Development_Lifecycle.md)
+
+- [Mapping the individual, social, and biospheric impacts of Foundation Models](2024年07月24日/Mapping_the_individual,_social,_and_biospheric_impacts_of_Foundation_Models.md)
+
+    - [翻译: 探索基础模型对个体、社会及生物圈的影响](2024年07月24日/Mapping_the_individual,_social,_and_biospheric_impacts_of_Foundation_Models.md)
+
+- [SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)](2024年07月24日/SDoH-GPT_Using_Large_Language_Models_to_Extract_Social_Determinants_of_Health_(SDoH).md)
+
+    - [翻译: SDoH-GPT：运用大型语言模型，精准提取健康社会决定因素。](2024年07月24日/SDoH-GPT_Using_Large_Language_Models_to_Extract_Social_Determinants_of_Health_(SDoH).md)
+
+- [Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?](2024年07月24日/Behavioral_Testing_Can_Large_Language_Models_Implicitly_Resolve_Ambiguous_Entities.md)
+
+    - [翻译: 行为测试探究：大型语言模型是否能隐式解析模糊实体？](2024年07月24日/Behavioral_Testing_Can_Large_Language_Models_Implicitly_Resolve_Ambiguous_Entities.md)
+
+- [Reinforced Prompt Personalization for Recommendation with Large Language Models](2024年07月24日/Reinforced_Prompt_Personalization_for_Recommendation_with_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型，强化推荐系统的个性化提示](2024年07月24日/Reinforced_Prompt_Personalization_for_Recommendation_with_Large_Language_Models.md)
+
+- [SAFETY-J: Evaluating Safety with Critique](2024年07月24日/SAFETY-J_Evaluating_Safety_with_Critique.md)
+
+    - [翻译: SAFETY-J：以批判视角评估安全性](2024年07月24日/SAFETY-J_Evaluating_Safety_with_Critique.md)
+
+- [High Efficiency Image Compression for Large Visual-Language Models](2024年07月24日/High_Efficiency_Image_Compression_for_Large_Visual-Language_Models.md)
+
+    - [翻译: 大型视觉-语言模型的高效图像压缩技术](2024年07月24日/High_Efficiency_Image_Compression_for_Large_Visual-Language_Models.md)
+
+- [Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++](2024年07月24日/Automated_Code-centric_Software_Vulnerability_Assessment_How_Far_Are_We_An_Empirical_Study_in_CC++.md)
+
+    - [翻译: 自动化代码漏洞评估：我们进展如何？C/C++ 实证研究探析](2024年07月24日/Automated_Code-centric_Software_Vulnerability_Assessment_How_Far_Are_We_An_Empirical_Study_in_CC++.md)
+
+- [Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance](2024年07月24日/Accurate_and_Efficient_Fine-Tuning_of_Quantized_Large_Language_Models_Through_Optimal_Balance.md)
+
+    - [翻译: 精准高效地微调量化大型语言模型，关键在于找到最佳平衡点。](2024年07月24日/Accurate_and_Efficient_Fine-Tuning_of_Quantized_Large_Language_Models_Through_Optimal_Balance.md)
+
+- [LLM-Generated Tips Rival Expert-Created Tips in Helping Students Answer Quantum-Computing Questions](2024年07月24日/LLM-Generated_Tips_Rival_Expert-Created_Tips_in_Helping_Students_Answer_Quantum-Computing_Questions.md)
+
+    - [翻译: LLM生成的提示与专家制作的提示在协助学生解答量子计算问题上表现相当。](2024年07月24日/LLM-Generated_Tips_Rival_Expert-Created_Tips_in_Helping_Students_Answer_Quantum-Computing_Questions.md)
+
+- [Can Language Models Evaluate Human Written Text? Case Study on Korean Student Writing for Education](2024年07月24日/Can_Language_Models_Evaluate_Human_Written_Text_Case_Study_on_Korean_Student_Writing_for_Education.md)
+
+    - [翻译: 语言模型能否评判人类文笔？本研究聚焦于教育领域，探讨其对韩国学生作文的评估能力。](2024年07月24日/Can_Language_Models_Evaluate_Human_Written_Text_Case_Study_on_Korean_Student_Writing_for_Education.md)
+
+- [Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism](2024年07月24日/Unveiling_In-Context_Learning_A_Coordinate_System_to_Understand_Its_Working_Mechanism.md)
+
+    - [翻译: 揭秘 In-Context Learning：构建坐标系统，深入探究其运作原理](2024年07月24日/Unveiling_In-Context_Learning_A_Coordinate_System_to_Understand_Its_Working_Mechanism.md)
+
+- [A Voter-Based Stochastic Rejection-Method Framework for Asymptotically Safe Language Model Outputs](2024年07月24日/A_Voter-Based_Stochastic_Rejection-Method_Framework_for_Asymptotically_Safe_Language_Model_Outputs.md)
+
+    - [翻译: 采用基于投票的随机拒绝框架，确保语言模型输出渐近安全](2024年07月24日/A_Voter-Based_Stochastic_Rejection-Method_Framework_for_Asymptotically_Safe_Language_Model_Outputs.md)
+
 2024年07月23日
 
 - [Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models](2024年07月23日/Retrieve,_Generate,_Evaluate_A_Case_Study_for_Medical_Paraphrases_Generation_with_Small_Language_Models.md)
@@ -167,6 +291,46 @@
 - [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](2024年07月23日/CompBench_A_Comparative_Reasoning_Benchmark_for_Multimodal_LLMs.md)
 
     - [翻译: CompBench：多模态 LLM 的比较推理基准](2024年07月23日/CompBench_A_Comparative_Reasoning_Benchmark_for_Multimodal_LLMs.md)
+
+- [Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation](2024年07月23日/Towards_Transfer_Unlearning_Empirical_Evidence_of_Cross-Domain_Bias_Mitigation.md)
+
+    - [翻译: 探索迁移遗忘：揭示跨领域偏差缓解的实证研究](2024年07月23日/Towards_Transfer_Unlearning_Empirical_Evidence_of_Cross-Domain_Bias_Mitigation.md)
+
+- [ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering](2024年07月23日/ScholarChemQA_Unveiling_the_Power_of_Language_Models_in_Chemical_Research_Question_Answering.md)
+
+    - [翻译: ScholarChemQA：展现语言模型在化学研究问答领域的强大能力](2024年07月23日/ScholarChemQA_Unveiling_the_Power_of_Language_Models_in_Chemical_Research_Question_Answering.md)
+
+- [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](2024年07月23日/From_Sands_to_Mansions_Enabling_Automatic_Full-Life-Cycle_Cyberattack_Construction_with_LLM.md)
+
+    - [翻译: 从沙粒到摩天楼：借助 LLM 自动构建全生命周期的网络攻击](2024年07月23日/From_Sands_to_Mansions_Enabling_Automatic_Full-Life-Cycle_Cyberattack_Construction_with_LLM.md)
+
+- [Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning](2024年07月23日/Train-Attention_Meta-Learning_Where_to_Focus_in_Continual_Knowledge_Learning.md)
+
+    - [翻译: Train-Attention：探索在持续知识学习过程中，元学习如何决定关注点](2024年07月23日/Train-Attention_Meta-Learning_Where_to_Focus_in_Continual_Knowledge_Learning.md)
+
+- [Generation Constraint Scaling Can Mitigate Hallucination](2024年07月23日/Generation_Constraint_Scaling_Can_Mitigate_Hallucination.md)
+
+    - [翻译: 通过调整生成约束的尺度，我们能够有效缓解幻觉现象。](2024年07月23日/Generation_Constraint_Scaling_Can_Mitigate_Hallucination.md)
+
+- [From Text to Insight: Large Language Models for Materials Science Data Extraction](2024年07月23日/From_Text_to_Insight_Large_Language_Models_for_Materials_Science_Data_Extraction.md)
+
+    - [翻译: 材料科学数据提取：大型语言模型的洞察之旅](2024年07月23日/From_Text_to_Insight_Large_Language_Models_for_Materials_Science_Data_Extraction.md)
+
+- [Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach](2024年07月23日/Retrieval_Augmented_Generation_or_Long-Context_LLMs_A_Comprehensive_Study_and_Hybrid_Approach.md)
+
+    - [翻译: 检索增强生成还是长上下文LLMs？我们进行了一项全面研究，并提出了一种混合方法。](2024年07月23日/Retrieval_Augmented_Generation_or_Long-Context_LLMs_A_Comprehensive_Study_and_Hybrid_Approach.md)
+
+- [TAMIGO: Empowering Teaching Assistants using LLM-assisted viva and code assessment in an Advanced Computing Class](2024年07月23日/TAMIGO_Empowering_Teaching_Assistants_using_LLM-assisted_viva_and_code_assessment_in_an_Advanced_Computing_Class.md)
+
+    - [翻译: TAMIGO 项目旨在通过 LLM 辅助的 viva 和代码评估，提升高级计算课程中助教的教学效能。](2024年07月23日/TAMIGO_Empowering_Teaching_Assistants_using_LLM-assisted_viva_and_code_assessment_in_an_Advanced_Computing_Class.md)
+
+- [VisMin: Visual Minimal-Change Understanding](2024年07月23日/VisMin_Visual_Minimal-Change_Understanding.md)
+
+    - [翻译: VisMin：探索视觉中的微妙变化](2024年07月23日/VisMin_Visual_Minimal-Change_Understanding.md)
+
+- [Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions](2024年07月23日/Category-Extensible_Out-of-Distribution_Detection_via_Hierarchical_Context_Descriptions.md)
+
+    - [翻译: 利用分层上下文描述实现类别可扩展的分布外检测](2024年07月23日/Category-Extensible_Out-of-Distribution_Detection_via_Hierarchical_Context_Descriptions.md)
 
 2024年07月22日
 
@@ -3713,6 +3877,10 @@
 - [NutriBench: A Dataset for Evaluating Large Language Models in Carbohydrate Estimation from Meal Descriptions](2024年07月04日/NutriBench_A_Dataset_for_Evaluating_Large_Language_Models_in_Carbohydrate_Estimation_from_Meal_Descriptions.md)
 
     - [翻译: NutriBench 数据集：专为评估 LLM 从餐食描述中估算碳水化合物含量而设计](2024年07月04日/NutriBench_A_Dataset_for_Evaluating_Large_Language_Models_in_Carbohydrate_Estimation_from_Meal_Descriptions.md)
+
+- [The Price of Prompting: Profiling Energy Use in Large Language Models Inference](2024年07月04日/The_Price_of_Prompting_Profiling_Energy_Use_in_Large_Language_Models_Inference.md)
+
+    - [翻译: 提示的代价：探究大语言模型推理中的能源消耗](2024年07月04日/The_Price_of_Prompting_Profiling_Energy_Use_in_Large_Language_Models_Inference.md)
 
 2024年07月03日
 
