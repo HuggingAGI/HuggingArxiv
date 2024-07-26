@@ -2484,6 +2484,10 @@
 
     - [翻译: 医疗行业大型语言模型应用评估综述](2024年05月22日/A_Comprehensive_Survey_on_Evaluating_Large_Language_Model_Applications_in_the_Medical_Industry.md)
 
+- [Big5PersonalityEssays: Introducing a Novel Synthetic Generated Dataset Consisting of Short State-of-Consciousness Essays Annotated Based on the Five Factor Model of Personality](2024年05月22日/Big5PersonalityEssays_Introducing_a_Novel_Synthetic_Generated_Dataset_Consisting_of_Short_State-of-Consciousness_Essays_Annotated_Based_on_the_Five_Factor_Model_of_Personality.md)
+
+    - [翻译: ](2024年05月22日/Big5PersonalityEssays_Introducing_a_Novel_Synthetic_Generated_Dataset_Consisting_of_Short_State-of-Consciousness_Essays_Annotated_Based_on_the_Five_Factor_Model_of_Personality.md)
+
 2024年05月21日
 
 - [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](2024年05月21日/Reducing_Transformer_Key-Value_Cache_Size_with_Cross-Layer_Attention.md)
