@@ -1,5 +1,51 @@
 # 2024年07月
 
+2024年07月25日
+
+- [The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation](2024年07月25日/The_Geometry_of_Queries_Query-Based_Innovations_in_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 查询几何：检索增强生成中的基于查询创新](2024年07月25日/The_Geometry_of_Queries_Query-Based_Innovations_in_Retrieval-Augmented_Generation.md)
+
+- [Recursive Introspection: Teaching Language Model Agents How to Self-Improve](2024年07月25日/Recursive_Introspection_Teaching_Language_Model_Agents_How_to_Self-Improve.md)
+
+    - [翻译: 递归内省法：引导语言模型自我提升之道](2024年07月25日/Recursive_Introspection_Teaching_Language_Model_Agents_How_to_Self-Improve.md)
+
+- [ComPeer: A Generative Conversational Agent for Proactive Peer Support](2024年07月25日/ComPeer_A_Generative_Conversational_Agent_for_Proactive_Peer_Support.md)
+
+    - [翻译: ComPeer：一款主动提供同伴支持的生成式对话代理](2024年07月25日/ComPeer_A_Generative_Conversational_Agent_for_Proactive_Peer_Support.md)
+
+- [RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models](2024年07月25日/RestoreAgent_Autonomous_Image_Restoration_Agent_via_Multimodal_Large_Language_Models.md)
+
+    - [翻译: RestoreAgent：借助多模态大型语言模型，实现图像恢复的自主代理](2024年07月25日/RestoreAgent_Autonomous_Image_Restoration_Agent_via_Multimodal_Large_Language_Models.md)
+
+- [Very Large-Scale Multi-Agent Simulation in AgentScope](2024年07月25日/Very_Large-Scale_Multi-Agent_Simulation_in_AgentScope.md)
+
+    - [翻译: AgentScope 中的超大规模多智能体模拟](2024年07月25日/Very_Large-Scale_Multi-Agent_Simulation_in_AgentScope.md)
+
+- [Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic](2024年07月25日/Dallah_A_Dialect-Aware_Multimodal_Large_Language_Model_for_Arabic.md)
+
+    - [翻译: Dallah：一款专为阿拉伯语设计的方言感知多模态大型语言模型](2024年07月25日/Dallah_A_Dialect-Aware_Multimodal_Large_Language_Model_for_Arabic.md)
+
+- [Efficient Inference of Vision Instruction-Following Models with Elastic Cache](2024年07月25日/Efficient_Inference_of_Vision_Instruction-Following_Models_with_Elastic_Cache.md)
+
+    - [翻译: 弹性缓存助力视觉指令模型高效推理](2024年07月25日/Efficient_Inference_of_Vision_Instruction-Following_Models_with_Elastic_Cache.md)
+
+- [Shapley Value-based Contrastive Alignment for Multimodal Information Extraction](2024年07月25日/Shapley_Value-based_Contrastive_Alignment_for_Multimodal_Information_Extraction.md)
+
+    - [翻译: 基于Shapley值的对比对齐技术，应用于多模态信息提取领域。](2024年07月25日/Shapley_Value-based_Contrastive_Alignment_for_Multimodal_Information_Extraction.md)
+
+- [Enhancing Model Performance: Another Approach to Vision-Language Instruction Tuning](2024年07月25日/Enhancing_Model_Performance_Another_Approach_to_Vision-Language_Instruction_Tuning.md)
+
+    - [翻译: 提升模型性能：探索视觉与语言指令调优的新途径](2024年07月25日/Enhancing_Model_Performance_Another_Approach_to_Vision-Language_Instruction_Tuning.md)
+
+- [DAC: 2D-3D Retrieval with Noisy Labels via Divide-and-Conquer Alignment and Correction](2024年07月25日/DAC_2D-3D_Retrieval_with_Noisy_Labels_via_Divide-and-Conquer_Alignment_and_Correction.md)
+
+    - [翻译: DAC：采用分治对齐与校正技术，解决带有噪声标签的2D-3D检索问题](2024年07月25日/DAC_2D-3D_Retrieval_with_Noisy_Labels_via_Divide-and-Conquer_Alignment_and_Correction.md)
+
+- [KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models](2024年07月25日/KiVA_Kid-inspired_Visual_Analogies_for_Testing_Large_Multimodal_Models.md)
+
+    - [翻译: KiVA：以儿童思维为灵感的视觉类比，专为评估大型多模态模型而设计。](2024年07月25日/KiVA_Kid-inspired_Visual_Analogies_for_Testing_Large_Multimodal_Models.md)
+
 2024年07月24日
 
 - [3D Question Answering for City Scene Understanding](2024年07月24日/3D_Question_Answering_for_City_Scene_Understanding.md)
@@ -141,6 +187,14 @@
 - [A Voter-Based Stochastic Rejection-Method Framework for Asymptotically Safe Language Model Outputs](2024年07月24日/A_Voter-Based_Stochastic_Rejection-Method_Framework_for_Asymptotically_Safe_Language_Model_Outputs.md)
 
     - [翻译: 采用基于投票的随机拒绝框架，确保语言模型输出渐近安全](2024年07月24日/A_Voter-Based_Stochastic_Rejection-Method_Framework_for_Asymptotically_Safe_Language_Model_Outputs.md)
+
+- [LAMBDA: A Large Model Based Data Agent](2024年07月24日/LAMBDA_A_Large_Model_Based_Data_Agent.md)
+
+    - [翻译: LAMBDA：一款基于大型模型的数据代理工具](2024年07月24日/LAMBDA_A_Large_Model_Based_Data_Agent.md)
+
+- [Traditional Methods Outperform Generative LLMs at Forecasting Credit Ratings](2024年07月24日/Traditional_Methods_Outperform_Generative_LLMs_at_Forecasting_Credit_Ratings.md)
+
+    - [翻译: 在预测信用评级方面，传统方法的表现超越了生成式 LLM。](2024年07月24日/Traditional_Methods_Outperform_Generative_LLMs_at_Forecasting_Credit_Ratings.md)
 
 2024年07月23日
 
@@ -4067,6 +4121,10 @@
 - [Large Language Model Agents for Improving Engagement with Behavior Change Interventions: Application to Digital Mindfulness](2024年07月03日/Large_Language_Model_Agents_for_Improving_Engagement_with_Behavior_Change_Interventions_Application_to_Digital_Mindfulness.md)
 
     - [翻译: 大型语言模型代理助力提升行为改变干预的参与度，特别应用于数字正念领域。](2024年07月03日/Large_Language_Model_Agents_for_Improving_Engagement_with_Behavior_Change_Interventions_Application_to_Digital_Mindfulness.md)
+
+- [AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](2024年07月03日/AMEX_Android_Multi-annotation_Expo_Dataset_for_Mobile_GUI_Agents.md)
+
+    - [翻译: AMEX：专为移动 GUI 代理设计的 Android 多注释数据集](2024年07月03日/AMEX_Android_Multi-annotation_Expo_Dataset_for_Mobile_GUI_Agents.md)
 
 2024年07月02日
 
