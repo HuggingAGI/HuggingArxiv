@@ -2486,7 +2486,7 @@
 
 - [Big5PersonalityEssays: Introducing a Novel Synthetic Generated Dataset Consisting of Short State-of-Consciousness Essays Annotated Based on the Five Factor Model of Personality](2024年05月22日/Big5PersonalityEssays_Introducing_a_Novel_Synthetic_Generated_Dataset_Consisting_of_Short_State-of-Consciousness_Essays_Annotated_Based_on_the_Five_Factor_Model_of_Personality.md)
 
-    - [翻译: ](2024年05月22日/Big5PersonalityEssays_Introducing_a_Novel_Synthetic_Generated_Dataset_Consisting_of_Short_State-of-Consciousness_Essays_Annotated_Based_on_the_Five_Factor_Model_of_Personality.md)
+    - [翻译: Big5PersonalityEssays：探索一个创新合成数据集，包含基于五大人格模型的短意识流文章，为研究提供新视角。](2024年05月22日/Big5PersonalityEssays_Introducing_a_Novel_Synthetic_Generated_Dataset_Consisting_of_Short_State-of-Consciousness_Essays_Annotated_Based_on_the_Five_Factor_Model_of_Personality.md)
 
 2024年05月21日
 

@@ -64,67 +64,67 @@
 
 - [PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization](2024年07月25日/PEFT-U_Parameter-Efficient_Fine-Tuning_for_User_Personalization.md)
 
-    - [翻译: ](2024年07月25日/PEFT-U_Parameter-Efficient_Fine-Tuning_for_User_Personalization.md)
+    - [翻译: PEFT-U：高效参数微调，专为个性化用户体验设计](2024年07月25日/PEFT-U_Parameter-Efficient_Fine-Tuning_for_User_Personalization.md)
 
 - [C2P: Featuring Large Language Models with Causal Reasoning](2024年07月25日/C2P_Featuring_Large_Language_Models_with_Causal_Reasoning.md)
 
-    - [翻译: ](2024年07月25日/C2P_Featuring_Large_Language_Models_with_Causal_Reasoning.md)
+    - [翻译: C2P：以因果推理为特色，展现大型语言模型的能力](2024年07月25日/C2P_Featuring_Large_Language_Models_with_Causal_Reasoning.md)
 
 - [Audio Entailment: Assessing Deductive Reasoning for Audio Understanding](2024年07月25日/Audio_Entailment_Assessing_Deductive_Reasoning_for_Audio_Understanding.md)
 
-    - [翻译: ](2024年07月25日/Audio_Entailment_Assessing_Deductive_Reasoning_for_Audio_Understanding.md)
+    - [翻译: 音频蕴涵：探索音频理解中的演绎推理能力](2024年07月25日/Audio_Entailment_Assessing_Deductive_Reasoning_for_Audio_Understanding.md)
 
 - [Difficulty Estimation and Simplification of French Text Using LLMs](2024年07月25日/Difficulty_Estimation_and_Simplification_of_French_Text_Using_LLMs.md)
 
-    - [翻译: ](2024年07月25日/Difficulty_Estimation_and_Simplification_of_French_Text_Using_LLMs.md)
+    - [翻译: 利用 LLMs 评估并简化法语文本的难度](2024年07月25日/Difficulty_Estimation_and_Simplification_of_French_Text_Using_LLMs.md)
 
 - [GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy](2024年07月25日/GermanPartiesQA_Benchmarking_Commercial_Large_Language_Models_for_Political_Bias_and_Sycophancy.md)
 
-    - [翻译: ](2024年07月25日/GermanPartiesQA_Benchmarking_Commercial_Large_Language_Models_for_Political_Bias_and_Sycophancy.md)
+    - [翻译: GermanPartiesQA 项目旨在评估商业大型语言模型在政治偏见和谄媚行为方面的表现，通过基准测试揭示其潜在倾向。](2024年07月25日/GermanPartiesQA_Benchmarking_Commercial_Large_Language_Models_for_Political_Bias_and_Sycophancy.md)
 
 - [Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption](2024年07月25日/Keep_the_Cost_Down_A_Review_on_Methods_to_Optimize_LLM'_s_KV-Cache_Consumption.md)
 
-    - [翻译: ](2024年07月25日/Keep_the_Cost_Down_A_Review_on_Methods_to_Optimize_LLM'_s_KV-Cache_Consumption.md)
+    - [翻译: 降低成本：探索优化 LLM KV-Cache 消耗之道](2024年07月25日/Keep_the_Cost_Down_A_Review_on_Methods_to_Optimize_LLM'_s_KV-Cache_Consumption.md)
 
 - [Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks](2024年07月25日/Relating_the_Seemingly_Unrelated_Principled_Understanding_of_Generalization_for_Generative_Models_in_Arithmetic_Reasoning_Tasks.md)
 
-    - [翻译: ](2024年07月25日/Relating_the_Seemingly_Unrelated_Principled_Understanding_of_Generalization_for_Generative_Models_in_Arithmetic_Reasoning_Tasks.md)
+    - [翻译: 揭秘看似无关的联系：深入理解生成模型在算术推理任务中的泛化原理](2024年07月25日/Relating_the_Seemingly_Unrelated_Principled_Understanding_of_Generalization_for_Generative_Models_in_Arithmetic_Reasoning_Tasks.md)
 
 - [The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models](2024年07月25日/The_Dark_Side_of_Function_Calling_Pathways_to_Jailbreaking_Large_Language_Models.md)
 
-    - [翻译: ](2024年07月25日/The_Dark_Side_of_Function_Calling_Pathways_to_Jailbreaking_Large_Language_Models.md)
+    - [翻译: 函数调用的隐秘风险：揭秘破解大型语言模型的路径](2024年07月25日/The_Dark_Side_of_Function_Calling_Pathways_to_Jailbreaking_Large_Language_Models.md)
 
 - [The Power of Combining Data and Knowledge: GPT-4o is an Effective Interpreter of Machine Learning Models in Predicting Lymph Node Metastasis of Lung Cancer](2024年07月25日/The_Power_of_Combining_Data_and_Knowledge_GPT-4o_is_an_Effective_Interpreter_of_Machine_Learning_Models_in_Predicting_Lymph_Node_Metastasis_of_Lung_Cancer.md)
 
-    - [翻译: ](2024年07月25日/The_Power_of_Combining_Data_and_Knowledge_GPT-4o_is_an_Effective_Interpreter_of_Machine_Learning_Models_in_Predicting_Lymph_Node_Metastasis_of_Lung_Cancer.md)
+    - [翻译: GPT-4o 融合数据与知识，成为预测肺癌淋巴结转移的机器学习模型的得力解释者。](2024年07月25日/The_Power_of_Combining_Data_and_Knowledge_GPT-4o_is_an_Effective_Interpreter_of_Machine_Learning_Models_in_Predicting_Lymph_Node_Metastasis_of_Lung_Cancer.md)
 
 - [Improving Domain-Specific ASR with LLM-Generated Contextual Descriptions](2024年07月25日/Improving_Domain-Specific_ASR_with_LLM-Generated_Contextual_Descriptions.md)
 
-    - [翻译: ](2024年07月25日/Improving_Domain-Specific_ASR_with_LLM-Generated_Contextual_Descriptions.md)
+    - [翻译: 借助 LLM 生成的上下文描述，我们致力于提升特定领域的自动语音识别（ASR）性能。](2024年07月25日/Improving_Domain-Specific_ASR_with_LLM-Generated_Contextual_Descriptions.md)
 
 - [Financial Statement Analysis with Large Language Models](2024年07月25日/Financial_Statement_Analysis_with_Large_Language_Models.md)
 
-    - [翻译: ](2024年07月25日/Financial_Statement_Analysis_with_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型解析财务报表](2024年07月25日/Financial_Statement_Analysis_with_Large_Language_Models.md)
 
 - [factgenie: A Framework for Span-based Evaluation of Generated Texts](2024年07月25日/factgenie_A_Framework_for_Span-based_Evaluation_of_Generated_Texts.md)
 
-    - [翻译: ](2024年07月25日/factgenie_A_Framework_for_Span-based_Evaluation_of_Generated_Texts.md)
+    - [翻译: factgenie：一款专为生成文本设计的跨度评估框架](2024年07月25日/factgenie_A_Framework_for_Span-based_Evaluation_of_Generated_Texts.md)
 
 - [Demystifying Verbatim Memorization in Large Language Models](2024年07月25日/Demystifying_Verbatim_Memorization_in_Large_Language_Models.md)
 
-    - [翻译: ](2024年07月25日/Demystifying_Verbatim_Memorization_in_Large_Language_Models.md)
+    - [翻译: 探究大型语言模型中的逐字记忆之谜](2024年07月25日/Demystifying_Verbatim_Memorization_in_Large_Language_Models.md)
 
 - [PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation](2024年07月25日/PenHeal_A_Two-Stage_LLM_Framework_for_Automated_Pentesting_and_Optimal_Remediation.md)
 
-    - [翻译: ](2024年07月25日/PenHeal_A_Two-Stage_LLM_Framework_for_Automated_Pentesting_and_Optimal_Remediation.md)
+    - [翻译: PenHeal：一款双阶段 LLM 框架，专为自动化渗透测试与优化修复设计。](2024年07月25日/PenHeal_A_Two-Stage_LLM_Framework_for_Automated_Pentesting_and_Optimal_Remediation.md)
 
 - [Advancing Multi-Modal Sensing Through Expandable Modality Alignment](2024年07月25日/Advancing_Multi-Modal_Sensing_Through_Expandable_Modality_Alignment.md)
 
-    - [翻译: ](2024年07月25日/Advancing_Multi-Modal_Sensing_Through_Expandable_Modality_Alignment.md)
+    - [翻译: 借助可扩展的模态对齐技术，我们正推动多模态传感技术的进步。](2024年07月25日/Advancing_Multi-Modal_Sensing_Through_Expandable_Modality_Alignment.md)
 
 - [TwIPS: A Large Language Model Powered Texting Application to Simplify Conversational Nuances for Autistic Users](2024年07月25日/TwIPS_A_Large_Language_Model_Powered_Texting_Application_to_Simplify_Conversational_Nuances_for_Autistic_Users.md)
 
-    - [翻译: ](2024年07月25日/TwIPS_A_Large_Language_Model_Powered_Texting_Application_to_Simplify_Conversational_Nuances_for_Autistic_Users.md)
+    - [翻译: TwIPS：一款借助大型语言模型，简化自闭症用户对话细节的短信应用](2024年07月25日/TwIPS_A_Large_Language_Model_Powered_Texting_Application_to_Simplify_Conversational_Nuances_for_Autistic_Users.md)
 
 2024年07月24日
 
@@ -278,55 +278,55 @@
 
 - [Cost-effective Instruction Learning for Pathology Vision and Language Analysis](2024年07月24日/Cost-effective_Instruction_Learning_for_Pathology_Vision_and_Language_Analysis.md)
 
-    - [翻译: ](2024年07月24日/Cost-effective_Instruction_Learning_for_Pathology_Vision_and_Language_Analysis.md)
+    - [翻译: 高效经济的病理视觉与语言分析指令学习](2024年07月24日/Cost-effective_Instruction_Learning_for_Pathology_Vision_and_Language_Analysis.md)
 
 - [Are Large Language Models Possible to Conduct Cognitive Behavioral Therapy?](2024年07月24日/Are_Large_Language_Models_Possible_to_Conduct_Cognitive_Behavioral_Therapy.md)
 
-    - [翻译: ](2024年07月24日/Are_Large_Language_Models_Possible_to_Conduct_Cognitive_Behavioral_Therapy.md)
+    - [翻译: 大型语言模型能否实施认知行为疗法？](2024年07月24日/Are_Large_Language_Models_Possible_to_Conduct_Cognitive_Behavioral_Therapy.md)
 
 - [Describe Where You Are: Improving Noise-Robustness for Speech Emotion Recognition with Text Description of the Environment](2024年07月24日/Describe_Where_You_Are_Improving_Noise-Robustness_for_Speech_Emotion_Recognition_with_Text_Description_of_the_Environment.md)
 
-    - [翻译: ](2024年07月24日/Describe_Where_You_Are_Improving_Noise-Robustness_for_Speech_Emotion_Recognition_with_Text_Description_of_the_Environment.md)
+    - [翻译: 通过环境文本描述，提升语音情感识别在噪声环境中的稳定性](2024年07月24日/Describe_Where_You_Are_Improving_Noise-Robustness_for_Speech_Emotion_Recognition_with_Text_Description_of_the_Environment.md)
 
 - [Enhancing Agent Learning through World Dynamics Modeling](2024年07月24日/Enhancing_Agent_Learning_through_World_Dynamics_Modeling.md)
 
-    - [翻译: ](2024年07月24日/Enhancing_Agent_Learning_through_World_Dynamics_Modeling.md)
+    - [翻译: 借助世界动态建模，提升代理学习效果](2024年07月24日/Enhancing_Agent_Learning_through_World_Dynamics_Modeling.md)
 
 - [Examining the Influence of Political Bias on Large Language Model Performance in Stance Classification](2024年07月24日/Examining_the_Influence_of_Political_Bias_on_Large_Language_Model_Performance_in_Stance_Classification.md)
 
-    - [翻译: ](2024年07月24日/Examining_the_Influence_of_Political_Bias_on_Large_Language_Model_Performance_in_Stance_Classification.md)
+    - [翻译: 探究政治偏见如何影响大型语言模型在立场分类任务中的表现](2024年07月24日/Examining_the_Influence_of_Political_Bias_on_Large_Language_Model_Performance_in_Stance_Classification.md)
 
 - [My Ontologist: Evaluating BFO-Based AI for Definition Support](2024年07月24日/My_Ontologist_Evaluating_BFO-Based_AI_for_Definition_Support.md)
 
-    - [翻译: ](2024年07月24日/My_Ontologist_Evaluating_BFO-Based_AI_for_Definition_Support.md)
+    - [翻译: 我的本体论者：评估基于BFO的AI在定义支持中的应用](2024年07月24日/My_Ontologist_Evaluating_BFO-Based_AI_for_Definition_Support.md)
 
 - [IgnitionInnovators at "Discharge Me!": Chain-of-Thought Instruction Finetuning Large Language Models for Discharge Summaries](2024年07月24日/IgnitionInnovators_at_Discharge_Me!_Chain-of-Thought_Instruction_Finetuning_Large_Language_Models_for_Discharge_Summaries.md)
 
-    - [翻译: ](2024年07月24日/IgnitionInnovators_at_Discharge_Me!_Chain-of-Thought_Instruction_Finetuning_Large_Language_Models_for_Discharge_Summaries.md)
+    - [翻译: “Discharge Me!”团队的IgnitionInnovators正在通过链式思维指令微调大型语言模型，以优化出院总结的生成。](2024年07月24日/IgnitionInnovators_at_Discharge_Me!_Chain-of-Thought_Instruction_Finetuning_Large_Language_Models_for_Discharge_Summaries.md)
 
 - [BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning](2024年07月24日/BLAZE_Cross-Language_and_Cross-Project_Bug_Localization_via_Dynamic_Chunking_and_Hard_Example_Learning.md)
 
-    - [翻译: ](2024年07月24日/BLAZE_Cross-Language_and_Cross-Project_Bug_Localization_via_Dynamic_Chunking_and_Hard_Example_Learning.md)
+    - [翻译: BLAZE 技术通过动态分块与硬示例学习，实现了跨语言与跨项目的错误精准定位。](2024年07月24日/BLAZE_Cross-Language_and_Cross-Project_Bug_Localization_via_Dynamic_Chunking_and_Hard_Example_Learning.md)
 
 - [Towards Neural Network based Cognitive Models of Dynamic Decision-Making by Humans](2024年07月24日/Towards_Neural_Network_based_Cognitive_Models_of_Dynamic_Decision-Making_by_Humans.md)
 
-    - [翻译: ](2024年07月24日/Towards_Neural_Network_based_Cognitive_Models_of_Dynamic_Decision-Making_by_Humans.md)
+    - [翻译: 探索基于神经网络的人类动态决策认知模型](2024年07月24日/Towards_Neural_Network_based_Cognitive_Models_of_Dynamic_Decision-Making_by_Humans.md)
 
 - [Pretraining a Neural Operator in Lower Dimensions](2024年07月24日/Pretraining_a_Neural_Operator_in_Lower_Dimensions.md)
 
-    - [翻译: ](2024年07月24日/Pretraining_a_Neural_Operator_in_Lower_Dimensions.md)
+    - [翻译: 低维度下的神经算子预训练](2024年07月24日/Pretraining_a_Neural_Operator_in_Lower_Dimensions.md)
 
 - [Coupling Speech Encoders with Downstream Text Models](2024年07月24日/Coupling_Speech_Encoders_with_Downstream_Text_Models.md)
 
-    - [翻译: ](2024年07月24日/Coupling_Speech_Encoders_with_Downstream_Text_Models.md)
+    - [翻译: 融合语音编码器与文本模型下游应用](2024年07月24日/Coupling_Speech_Encoders_with_Downstream_Text_Models.md)
 
 - [Exploring Domain Robust Lightweight Reward Models based on Router Mechanism](2024年07月24日/Exploring_Domain_Robust_Lightweight_Reward_Models_based_on_Router_Mechanism.md)
 
-    - [翻译: ](2024年07月24日/Exploring_Domain_Robust_Lightweight_Reward_Models_based_on_Router_Mechanism.md)
+    - [翻译: 探究基于路由机制的领域强健轻量奖励模型](2024年07月24日/Exploring_Domain_Robust_Lightweight_Reward_Models_based_on_Router_Mechanism.md)
 
 - [Large Language Models for Anomaly Detection in Computational Workflows: from Supervised Fine-Tuning to In-Context Learning](2024年07月24日/Large_Language_Models_for_Anomaly_Detection_in_Computational_Workflows_from_Supervised_Fine-Tuning_to_In-Context_Learning.md)
 
-    - [翻译: ](2024年07月24日/Large_Language_Models_for_Anomaly_Detection_in_Computational_Workflows_from_Supervised_Fine-Tuning_to_In-Context_Learning.md)
+    - [翻译: 大型语言模型在计算工作流异常检测中的应用：从监督微调到情境学习的转变](2024年07月24日/Large_Language_Models_for_Anomaly_Detection_in_Computational_Workflows_from_Supervised_Fine-Tuning_to_In-Context_Learning.md)
 
 2024年07月23日
 
@@ -4550,7 +4550,7 @@
 
 - [Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?](2024年07月02日/Reinforcement_Learning_from_Human_Feedback_Whose_Culture,_Whose_Values,_Whose_Perspectives.md)
 
-    - [翻译: ](2024年07月02日/Reinforcement_Learning_from_Human_Feedback_Whose_Culture,_Whose_Values,_Whose_Perspectives.md)
+    - [翻译: 强化学习从人类反馈中汲取智慧：这究竟反映了谁的文化、价值观和视角？](2024年07月02日/Reinforcement_Learning_from_Human_Feedback_Whose_Culture,_Whose_Values,_Whose_Perspectives.md)
 
 2024年07月01日
 
@@ -4808,8 +4808,8 @@
 
 - [The #Somos600M Project: Generating NLP resources that represent the diversity of the languages from LATAM, the Caribbean, and Spain](2024年07月01日/The_#Somos600M_Project_Generating_NLP_resources_that_represent_the_diversity_of_the_languages_from_LATAM,_the_Caribbean,_and_Spain.md)
 
-    - [翻译: ](2024年07月01日/The_#Somos600M_Project_Generating_NLP_resources_that_represent_the_diversity_of_the_languages_from_LATAM,_the_Caribbean,_and_Spain.md)
+    - [翻译: #Somos600M 项目旨在创造反映拉丁美洲、加勒比海及西班牙语言多样性的NLP资源。](2024年07月01日/The_#Somos600M_Project_Generating_NLP_resources_that_represent_the_diversity_of_the_languages_from_LATAM,_the_Caribbean,_and_Spain.md)
 
 - [LLM4PM: A case study on using Large Language Models for Process Modeling in Enterprise Organizations](2024年07月01日/LLM4PM_A_case_study_on_using_Large_Language_Models_for_Process_Modeling_in_Enterprise_Organizations.md)
 
-    - [翻译: ](2024年07月01日/LLM4PM_A_case_study_on_using_Large_Language_Models_for_Process_Modeling_in_Enterprise_Organizations.md)
+    - [翻译: LLM4PM：探索大型语言模型在企业过程建模中的应用案例](2024年07月01日/LLM4PM_A_case_study_on_using_Large_Language_Models_for_Process_Modeling_in_Enterprise_Organizations.md)
