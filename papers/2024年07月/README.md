@@ -5006,4 +5006,4 @@
 
 - [The Need for Guardrails with Large Language Models in Medical Safety-Critical Settings: An Artificial Intelligence Application in the Pharmacovigilance Ecosystem](2024年07月01日/The_Need_for_Guardrails_with_Large_Language_Models_in_Medical_Safety-Critical_Settings_An_Artificial_Intelligence_Application_in_the_Pharmacovigilance_Ecosystem.md)
 
-    - [翻译: ](2024年07月01日/The_Need_for_Guardrails_with_Large_Language_Models_in_Medical_Safety-Critical_Settings_An_Artificial_Intelligence_Application_in_the_Pharmacovigilance_Ecosystem.md)
+    - [翻译: 医疗安全关键环境中，大型语言模型需设防护栏：药物警戒生态系统中的人工智能应用探索](2024年07月01日/The_Need_for_Guardrails_with_Large_Language_Models_in_Medical_Safety-Critical_Settings_An_Artificial_Intelligence_Application_in_the_Pharmacovigilance_Ecosystem.md)
