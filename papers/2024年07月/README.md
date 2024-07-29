@@ -1,5 +1,39 @@
 # 2024年07月
 
+2024年07月26日
+
+- [Collaborative Evolving Strategy for Automatic Data-Centric Development](2024年07月26日/Collaborative_Evolving_Strategy_for_Automatic_Data-Centric_Development.md)
+
+    - [翻译: 协同演化策略助力数据驱动开发自动化](2024年07月26日/Collaborative_Evolving_Strategy_for_Automatic_Data-Centric_Development.md)
+
+- [REAPER: Reasoning based Retrieval Planning for Complex RAG Systems](2024年07月26日/REAPER_Reasoning_based_Retrieval_Planning_for_Complex_RAG_Systems.md)
+
+    - [翻译: REAPER：为复杂 RAG 系统设计的基于推理的检索规划工具](2024年07月26日/REAPER_Reasoning_based_Retrieval_Planning_for_Complex_RAG_Systems.md)
+
+- [ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments](2024年07月26日/ReALFRED_An_Embodied_Instruction_Following_Benchmark_in_Photo-Realistic_Environments.md)
+
+    - [翻译: ReALFRED：照片级真实环境中的具身指令跟随基准](2024年07月26日/ReALFRED_An_Embodied_Instruction_Following_Benchmark_in_Photo-Realistic_Environments.md)
+
+- [Patched MOA: optimizing inference for diverse software development tasks](2024年07月26日/Patched_MOA_optimizing_inference_for_diverse_software_development_tasks.md)
+
+    - [翻译: Patched MOA 旨在为各类软件开发任务提供优化的推理方案。](2024年07月26日/Patched_MOA_optimizing_inference_for_diverse_software_development_tasks.md)
+
+- [ChatSchema: A pipeline of extracting structured information with Large Multimodal Models based on schema](2024年07月26日/ChatSchema_A_pipeline_of_extracting_structured_information_with_Large_Multimodal_Models_based_on_schema.md)
+
+    - [翻译: ChatSchema：基于模式，利用大型多模态模型提取结构化信息的流程](2024年07月26日/ChatSchema_A_pipeline_of_extracting_structured_information_with_Large_Multimodal_Models_based_on_schema.md)
+
+- [Every Part Matters: Integrity Verification of Scientific Figures Based on Multimodal Large Language Models](2024年07月26日/Every_Part_Matters_Integrity_Verification_of_Scientific_Figures_Based_on_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 每一细节皆关键：运用多模态大型语言模型确保科学图表的完整性](2024年07月26日/Every_Part_Matters_Integrity_Verification_of_Scientific_Figures_Based_on_Multimodal_Large_Language_Models.md)
+
+- [HICEScore: A Hierarchical Metric for Image Captioning Evaluation](2024年07月26日/HICEScore_A_Hierarchical_Metric_for_Image_Captioning_Evaluation.md)
+
+    - [翻译: HICEScore：一种专为图像描述评估设计的层次化评价指标](2024年07月26日/HICEScore_A_Hierarchical_Metric_for_Image_Captioning_Evaluation.md)
+
+- [Text-Region Matching for Multi-Label Image Recognition with Missing Labels](2024年07月26日/Text-Region_Matching_for_Multi-Label_Image_Recognition_with_Missing_Labels.md)
+
+    - [翻译: 针对多标签图像识别中的标签缺失问题，文本-区域匹配技术提供了一种解决方案。](2024年07月26日/Text-Region_Matching_for_Multi-Label_Image_Recognition_with_Missing_Labels.md)
+
 2024年07月25日
 
 - [The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation](2024年07月25日/The_Geometry_of_Queries_Query-Based_Innovations_in_Retrieval-Augmented_Generation.md)
@@ -125,6 +159,10 @@
 - [TwIPS: A Large Language Model Powered Texting Application to Simplify Conversational Nuances for Autistic Users](2024年07月25日/TwIPS_A_Large_Language_Model_Powered_Texting_Application_to_Simplify_Conversational_Nuances_for_Autistic_Users.md)
 
     - [翻译: TwIPS：一款借助大型语言模型，简化自闭症用户对话细节的短信应用](2024年07月25日/TwIPS_A_Large_Language_Model_Powered_Texting_Application_to_Simplify_Conversational_Nuances_for_Autistic_Users.md)
+
+- [Exploring Bengali Religious Dialect Biases in Large Language Models with Evaluation Perspectives](2024年07月25日/Exploring_Bengali_Religious_Dialect_Biases_in_Large_Language_Models_with_Evaluation_Perspectives.md)
+
+    - [翻译: 从评估视角探究大型语言模型中的孟加拉宗教方言偏见](2024年07月25日/Exploring_Bengali_Religious_Dialect_Biases_in_Large_Language_Models_with_Evaluation_Perspectives.md)
 
 2024年07月24日
 
