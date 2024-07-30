@@ -1,5 +1,79 @@
 # 2024年07月
 
+2024年07月29日
+
+- [Multimodal Large Language Models for Bioimage Analysis](2024年07月29日/Multimodal_Large_Language_Models_for_Bioimage_Analysis.md)
+
+    - [翻译: 多模态大型语言模型在生物图像分析中的应用](2024年07月29日/Multimodal_Large_Language_Models_for_Bioimage_Analysis.md)
+
+- [Revolutionizing Urban Safety Perception Assessments: Integrating Multimodal Large Language Models with Street View Images](2024年07月29日/Revolutionizing_Urban_Safety_Perception_Assessments_Integrating_Multimodal_Large_Language_Models_with_Street_View_Images.md)
+
+    - [翻译: 革新城市安全感知评估：融合多模态大型语言模型与街景图像](2024年07月29日/Revolutionizing_Urban_Safety_Perception_Assessments_Integrating_Multimodal_Large_Language_Models_with_Street_View_Images.md)
+
+2024年07月28日
+
+- [Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation](2024年07月28日/Enhancing_Code_Translation_in_Language_Models_with_Few-Shot_Learning_via_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 借助检索增强生成技术，少量样本学习能有效提升语言模型中的代码翻译能力。](2024年07月28日/Enhancing_Code_Translation_in_Language_Models_with_Few-Shot_Learning_via_Retrieval-Augmented_Generation.md)
+
+- [Smart Language Agents in Real-World Planning](2024年07月28日/Smart_Language_Agents_in_Real-World_Planning.md)
+
+    - [翻译: 智能语言代理在现实规划中的应用](2024年07月28日/Smart_Language_Agents_in_Real-World_Planning.md)
+
+- [NAVIX: Scaling MiniGrid Environments with JAX](2024年07月28日/NAVIX_Scaling_MiniGrid_Environments_with_JAX.md)
+
+    - [翻译: NAVIX：借助 JAX 技术扩展 MiniGrid 环境](2024年07月28日/NAVIX_Scaling_MiniGrid_Environments_with_JAX.md)
+
+- [Harnessing Large Vision and Language Models in Agriculture: A Review](2024年07月28日/Harnessing_Large_Vision_and_Language_Models_in_Agriculture_A_Review.md)
+
+    - [翻译: 农业领域中大型视觉与语言模型的应用综述](2024年07月28日/Harnessing_Large_Vision_and_Language_Models_in_Agriculture_A_Review.md)
+
+- [Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications](2024年07月28日/Towards_a_Knowledge_guided_Multimodal_Foundation_Model_for_Spatio-Temporal_Remote_Sensing_Applications.md)
+
+    - [翻译: 探索时空遥感应用中的知识引导多模态基础模型](2024年07月28日/Towards_a_Knowledge_guided_Multimodal_Foundation_Model_for_Spatio-Temporal_Remote_Sensing_Applications.md)
+
+- [ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](2024年07月28日/ComNeck_Bridging_Compressed_Image_Latents_and_Multimodal_LLMs_via_Universal_Transform-Neck.md)
+
+    - [翻译: ComNeck：架起压缩图像潜在空间与多模态LLM之间的桥梁，通过通用变换颈实现连接。](2024年07月28日/ComNeck_Bridging_Compressed_Image_Latents_and_Multimodal_LLMs_via_Universal_Transform-Neck.md)
+
+- [AgEval: A Benchmark for Zero-Shot and Few-Shot Plant Stress Phenotyping with Multimodal LLMs](2024年07月28日/AgEval_A_Benchmark_for_Zero-Shot_and_Few-Shot_Plant_Stress_Phenotyping_with_Multimodal_LLMs.md)
+
+    - [翻译: AgEval：一个针对多模态 LLM 的零-shot 和少-shot 植物应激表型分析的基准测试](2024年07月28日/AgEval_A_Benchmark_for_Zero-Shot_and_Few-Shot_Plant_Stress_Phenotyping_with_Multimodal_LLMs.md)
+
+- [Look Hear: Gaze Prediction for Speech-directed Human Attention](2024年07月28日/Look_Hear_Gaze_Prediction_for_Speech-directed_Human_Attention.md)
+
+    - [翻译: 听声辨位：探究语音引导下的人类注视预测](2024年07月28日/Look_Hear_Gaze_Prediction_for_Speech-directed_Human_Attention.md)
+
+- [Bistability in spatiotemporal mode-locking with dynamic multimode gain](2024年07月28日/Bistability_in_spatiotemporal_mode-locking_with_dynamic_multimode_gain.md)
+
+    - [翻译: 时空模式锁定中的双稳定性现象，与动态多模增益紧密相关。](2024年07月28日/Bistability_in_spatiotemporal_mode-locking_with_dynamic_multimode_gain.md)
+
+- [Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights](2024年07月28日/Enhancing_Taobao_Display_Advertising_with_Multimodal_Representations_Challenges,_Approaches_and_Insights.md)
+
+    - [翻译: 多模态表示在提升淘宝展示广告中的应用：探索其挑战、实施方法及深刻见解](2024年07月28日/Enhancing_Taobao_Display_Advertising_with_Multimodal_Representations_Challenges,_Approaches_and_Insights.md)
+
+- [LLAVADI: What Matters For Multimodal Large Language Models Distillation](2024年07月28日/LLAVADI_What_Matters_For_Multimodal_Large_Language_Models_Distillation.md)
+
+    - [翻译: LLAVADI：探索多模态大型语言模型蒸馏的核心要素](2024年07月28日/LLAVADI_What_Matters_For_Multimodal_Large_Language_Models_Distillation.md)
+
+2024年07月27日
+
+- [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](2024年07月27日/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md)
+
+    - [翻译: 大型语言模型代理的安全与隐私：案例研究调查](2024年07月27日/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md)
+
+- [Semantic Communication Enhanced by Knowledge Graph Representation Learning](2024年07月27日/Semantic_Communication_Enhanced_by_Knowledge_Graph_Representation_Learning.md)
+
+    - [翻译: 知识图谱表示学习助力语义通信提升](2024年07月27日/Semantic_Communication_Enhanced_by_Knowledge_Graph_Representation_Learning.md)
+
+- [LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models](2024年07月27日/LLaVA-Read_Enhancing_Reading_Ability_of_Multimodal_Language_Models.md)
+
+    - [翻译: LLaVA-Read：提升多模态语言模型的阅读技能](2024年07月27日/LLaVA-Read_Enhancing_Reading_Ability_of_Multimodal_Language_Models.md)
+
+- [Data Processing Techniques for Modern Multimodal Models](2024年07月27日/Data_Processing_Techniques_for_Modern_Multimodal_Models.md)
+
+    - [翻译: 现代多模态模型中的数据处理技巧](2024年07月27日/Data_Processing_Techniques_for_Modern_Multimodal_Models.md)
+
 2024年07月26日
 
 - [Collaborative Evolving Strategy for Automatic Data-Centric Development](2024年07月26日/Collaborative_Evolving_Strategy_for_Automatic_Data-Centric_Development.md)
@@ -113,6 +187,22 @@
 - [Learning Robust Named Entity Recognizers From Noisy Data With Retrieval Augmentation](2024年07月26日/Learning_Robust_Named_Entity_Recognizers_From_Noisy_Data_With_Retrieval_Augmentation.md)
 
     - [翻译: 通过检索增强技术，从噪声数据中培养出鲁棒的命名实体识别器。](2024年07月26日/Learning_Robust_Named_Entity_Recognizers_From_Noisy_Data_With_Retrieval_Augmentation.md)
+
+- [Solving Robotics Problems in Zero-Shot with Vision-Language Models](2024年07月26日/Solving_Robotics_Problems_in_Zero-Shot_with_Vision-Language_Models.md)
+
+    - [翻译: 借助视觉-语言模型，我们能在零-shot 场景下解决机器人难题。](2024年07月26日/Solving_Robotics_Problems_in_Zero-Shot_with_Vision-Language_Models.md)
+
+- [A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps](2024年07月26日/A_Study_of_Using_Multimodal_LLMs_for_Non-Crash_Functional_Bug_Detection_in_Android_Apps.md)
+
+    - [翻译: 本研究探索了利用多模态大型语言模型（LLM）检测安卓应用中的非崩溃功能性错误。](2024年07月26日/A_Study_of_Using_Multimodal_LLMs_for_Non-Crash_Functional_Bug_Detection_in_Android_Apps.md)
+
+- [MangaUB: A Manga Understanding Benchmark for Large Multimodal Models](2024年07月26日/MangaUB_A_Manga_Understanding_Benchmark_for_Large_Multimodal_Models.md)
+
+    - [翻译: MangaUB：专为大型多模态模型设计的漫画理解评测基准](2024年07月26日/MangaUB_A_Manga_Understanding_Benchmark_for_Large_Multimodal_Models.md)
+
+- [Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models](2024年07月26日/Graph-based_Unsupervised_Disentangled_Representation_Learning_via_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 通过多模态大型语言模型实现基于图的无监督解耦表示学习](2024年07月26日/Graph-based_Unsupervised_Disentangled_Representation_Learning_via_Multimodal_Large_Language_Models.md)
 
 2024年07月25日
 
@@ -3145,6 +3235,14 @@
 - [EfficientQAT: Efficient Quantization-Aware Training for Large Language Models](2024年07月10日/EfficientQAT_Efficient_Quantization-Aware_Training_for_Large_Language_Models.md)
 
     - [翻译: EfficientQAT：为大型语言模型提供高效量化感知训练](2024年07月10日/EfficientQAT_Efficient_Quantization-Aware_Training_for_Large_Language_Models.md)
+
+- [LEMoN: Label Error Detection using Multimodal Neighbors](2024年07月10日/LEMoN_Label_Error_Detection_using_Multimodal_Neighbors.md)
+
+    - [翻译: LEMoN：通过多模态邻居技术检测标签错误](2024年07月10日/LEMoN_Label_Error_Detection_using_Multimodal_Neighbors.md)
+
+- [Advancements in Recommender Systems: A Comprehensive Analysis Based on Data, Algorithms, and Evaluation](2024年07月10日/Advancements_in_Recommender_Systems_A_Comprehensive_Analysis_Based_on_Data,_Algorithms,_and_Evaluation.md)
+
+    - [翻译: 推荐系统的进步：全面剖析数据、算法与评估](2024年07月10日/Advancements_in_Recommender_Systems_A_Comprehensive_Analysis_Based_on_Data,_Algorithms,_and_Evaluation.md)
 
 2024年07月09日
 
