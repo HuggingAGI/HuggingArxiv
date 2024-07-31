@@ -1,5 +1,27 @@
 # 2024年07月
 
+2024年07月30日
+
+- [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](2024年07月30日/Breaking_Agents_Compromising_Autonomous_LLM_Agents_Through_Malfunction_Amplification.md)
+
+    - [翻译: 破坏者：利用故障放大技术损害自主LLM代理](2024年07月30日/Breaking_Agents_Compromising_Autonomous_LLM_Agents_Through_Malfunction_Amplification.md)
+
+- [Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning](2024年07月30日/Diffusion_Augmented_Agents_A_Framework_for_Efficient_Exploration_and_Transfer_Learning.md)
+
+    - [翻译: 扩散增强代理：高效探索与迁移学习的创新框架](2024年07月30日/Diffusion_Augmented_Agents_A_Framework_for_Efficient_Exploration_and_Transfer_Learning.md)
+
+- [Mimicking the Mavens: Agent-based Opinion Synthesis and Emotion Prediction for Social Media Influencers](2024年07月30日/Mimicking_the_Mavens_Agent-based_Opinion_Synthesis_and_Emotion_Prediction_for_Social_Media_Influencers.md)
+
+    - [翻译: 模仿专家：通过代理模型合成意见并预测情感，专为社交媒体影响者设计](2024年07月30日/Mimicking_the_Mavens_Agent-based_Opinion_Synthesis_and_Emotion_Prediction_for_Social_Media_Influencers.md)
+
+- [Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection](2024年07月30日/Evolver_Chain-of-Evolution_Prompting_to_Boost_Large_Multimodal_Models_for_Hateful_Meme_Detection.md)
+
+    - [翻译: Evolver：通过链式进化提示技术，提升大型多模态模型在仇恨表情包检测中的性能](2024年07月30日/Evolver_Chain-of-Evolution_Prompting_to_Boost_Large_Multimodal_Models_for_Hateful_Meme_Detection.md)
+
+- [MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions](2024年07月30日/MMTrail_A_Multimodal_Trailer_Video_Dataset_with_Language_and_Music_Descriptions.md)
+
+    - [翻译: MMTrail：一款集语言与音乐描述于一体的多模态预告片视频数据集](2024年07月30日/MMTrail_A_Multimodal_Trailer_Video_Dataset_with_Language_and_Music_Descriptions.md)
+
 2024年07月29日
 
 - [Multimodal Large Language Models for Bioimage Analysis](2024年07月29日/Multimodal_Large_Language_Models_for_Bioimage_Analysis.md)
@@ -161,6 +183,18 @@
 - [Introducing a new hyper-parameter for RAG: Context Window Utilization](2024年07月29日/Introducing_a_new_hyper-parameter_for_RAG_Context_Window_Utilization.md)
 
     - [翻译: 为 RAG 引入新超参数：上下文窗口利用率](2024年07月29日/Introducing_a_new_hyper-parameter_for_RAG_Context_Window_Utilization.md)
+
+- [Evaluating Large Language Models for automatic analysis of teacher simulations](2024年07月29日/Evaluating_Large_Language_Models_for_automatic_analysis_of_teacher_simulations.md)
+
+    - [翻译: 探究大型语言模型在教师模拟自动分析中的应用](2024年07月29日/Evaluating_Large_Language_Models_for_automatic_analysis_of_teacher_simulations.md)
+
+- [Machine Unlearning in Generative AI: A Survey](2024年07月29日/Machine_Unlearning_in_Generative_AI_A_Survey.md)
+
+    - [翻译: 生成式AI中的机器遗忘研究概览](2024年07月29日/Machine_Unlearning_in_Generative_AI_A_Survey.md)
+
+- [CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models](2024年07月29日/CoMMIT_Coordinated_Instruction_Tuning_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: CoMMIT：协调多模态大型语言模型的指令调优](2024年07月29日/CoMMIT_Coordinated_Instruction_Tuning_for_Multimodal_Large_Language_Models.md)
 
 2024年07月28日
 
@@ -2089,6 +2123,10 @@
 - [MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains](2024年07月17日/MMAU_A_Holistic_Benchmark_of_Agent_Capabilities_Across_Diverse_Domains.md)
 
     - [翻译: MMAU：跨领域代理能力的全面评估基准](2024年07月17日/MMAU_A_Holistic_Benchmark_of_Agent_Capabilities_Across_Diverse_Domains.md)
+
+- [Matryoshka-Adaptor: Unsupervised and Supervised Tuning for Smaller Embedding Dimensions](2024年07月17日/Matryoshka-Adaptor_Unsupervised_and_Supervised_Tuning_for_Smaller_Embedding_Dimensions.md)
+
+    - [翻译: Matryoshka-Adaptor：实现无监督与有监督的小维度嵌入调整](2024年07月17日/Matryoshka-Adaptor_Unsupervised_and_Supervised_Tuning_for_Smaller_Embedding_Dimensions.md)
 
 2024年07月16日
 
