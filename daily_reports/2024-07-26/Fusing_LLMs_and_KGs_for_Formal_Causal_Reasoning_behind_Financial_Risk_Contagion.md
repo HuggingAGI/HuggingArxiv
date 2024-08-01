@@ -8,6 +8,10 @@
 >
 > https://arxiv.org/abs/2407.17190
 
+**点击公众号菜单加入大语言模型论文讨论**
+![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
+<hr />
+
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2407.17190/x1.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2407.17190/x2.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2407.17190/x7.png)
@@ -23,5 +27,5 @@
 - 论文原文: [https://arxiv.org/abs/2407.17190](https://arxiv.org/abs/2407.17190)
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 - 加入社群，+v: iamxxn886
-- 加入社群，公众号回复LLM
-- 最新论文订阅体验：公众号号菜单回复1
+- 点击公众号菜单加入讨论
+![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)

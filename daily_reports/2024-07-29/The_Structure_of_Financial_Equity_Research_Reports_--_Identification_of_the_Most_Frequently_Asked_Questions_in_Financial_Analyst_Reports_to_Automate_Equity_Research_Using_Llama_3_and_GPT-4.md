@@ -8,6 +8,10 @@
 >
 > https://arxiv.org/abs/2407.18327
 
+**点击公众号菜单加入大语言模型论文讨论**
+![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
+<hr />
+
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2407.18327/statement_counts_histogram_binned.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2407.18327/histogram_grouped_by_question_category_x_type_of_display_y_occurrences.png)
 ![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2407.18327/venn_diagram_modalities_in_equity_research_reports.png)
@@ -23,5 +27,5 @@
 - 论文原文: [https://arxiv.org/abs/2407.18327](https://arxiv.org/abs/2407.18327)
 - 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
 - 加入社群，+v: iamxxn886
-- 加入社群，公众号回复LLM
-- 最新论文订阅体验：公众号号菜单回复1
+- 点击公众号菜单加入讨论
+![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
