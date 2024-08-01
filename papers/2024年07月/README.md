@@ -1,5 +1,35 @@
 # 2024年07月
 
+2024年07月31日
+
+- [Adaptive Retrieval-Augmented Generation for Conversational Systems](2024年07月31日/Adaptive_Retrieval-Augmented_Generation_for_Conversational_Systems.md)
+
+    - [翻译: 对话系统的自适应检索增强生成技术](2024年07月31日/Adaptive_Retrieval-Augmented_Generation_for_Conversational_Systems.md)
+
+- [Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent](2024年07月31日/Towards_Achieving_Human_Parity_on_End-to-end_Simultaneous_Speech_Translation_via_LLM_Agent.md)
+
+    - [翻译: 致力于通过 LLM 代理实现端到端同时语音翻译的人类同等水平](2024年07月31日/Towards_Achieving_Human_Parity_on_End-to-end_Simultaneous_Speech_Translation_via_LLM_Agent.md)
+
+- [Generative Expressive Conversational Speech Synthesis](2024年07月31日/Generative_Expressive_Conversational_Speech_Synthesis.md)
+
+    - [翻译: 生成式对话语音合成，赋予表达力](2024年07月31日/Generative_Expressive_Conversational_Speech_Synthesis.md)
+
+- [Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM](2024年07月31日/Chat2Layout_Interactive_3D_Furniture_Layout_with_a_Multimodal_LLM.md)
+
+    - [翻译: Chat2Layout：借助多模态 LLM 实现互动式 3D 家具布局](2024年07月31日/Chat2Layout_Interactive_3D_Furniture_Layout_with_a_Multimodal_LLM.md)
+
+- [MetaOpenFOAM: an LLM-based multi-agent framework for CFD](2024年07月31日/MetaOpenFOAM_an_LLM-based_multi-agent_framework_for_CFD.md)
+
+    - [翻译: MetaOpenFOAM：一款基于大型语言模型的多智能体框架，专为计算流体动力学设计。](2024年07月31日/MetaOpenFOAM_an_LLM-based_multi-agent_framework_for_CFD.md)
+
+- [ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models](2024年07月31日/ControlMLLM_Training-Free_Visual_Prompt_Learning_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: ControlMLLM：一种无需训练的视觉提示学习方法，专为多模态大型语言模型设计。](2024年07月31日/ControlMLLM_Training-Free_Visual_Prompt_Learning_for_Multimodal_Large_Language_Models.md)
+
+- [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training](2024年07月31日/MLLM_Is_a_Strong_Reranker_Advancing_Multimodal_Retrieval-augmented_Generation_via_Knowledge-enhanced_Reranking_and_Noise-injected_Training.md)
+
+    - [翻译: MLLM 作为强力重排序器，通过知识增强重排序与噪声注入训练，助力多模态检索增强生成技术的进步。](2024年07月31日/MLLM_Is_a_Strong_Reranker_Advancing_Multimodal_Retrieval-augmented_Generation_via_Knowledge-enhanced_Reranking_and_Noise-injected_Training.md)
+
 2024年07月30日
 
 - [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](2024年07月30日/Breaking_Agents_Compromising_Autonomous_LLM_Agents_Through_Malfunction_Amplification.md)
@@ -165,6 +195,10 @@
 - [Can LLMs be Fooled? Investigating Vulnerabilities in LLMs](2024年07月30日/Can_LLMs_be_Fooled_Investigating_Vulnerabilities_in_LLMs.md)
 
     - [翻译: 大型语言模型是否易受愚弄？探究其潜在漏洞](2024年07月30日/Can_LLMs_be_Fooled_Investigating_Vulnerabilities_in_LLMs.md)
+
+- [Beyond Silent Letters: Amplifying LLMs in Emotion Recognition with Vocal Nuances](2024年07月30日/Beyond_Silent_Letters_Amplifying_LLMs_in_Emotion_Recognition_with_Vocal_Nuances.md)
+
+    - [翻译: 不仅仅是无声字母，我们通过捕捉声音细节，提升大型语言模型在情感识别中的精准度。](2024年07月30日/Beyond_Silent_Letters_Amplifying_LLMs_in_Emotion_Recognition_with_Vocal_Nuances.md)
 
 2024年07月29日
 
@@ -970,6 +1004,10 @@
 
     - [翻译: 大型语言模型在计算工作流异常检测中的应用：从监督微调到情境学习的转变](2024年07月24日/Large_Language_Models_for_Anomaly_Detection_in_Computational_Workflows_from_Supervised_Fine-Tuning_to_In-Context_Learning.md)
 
+- [Sentiment Reasoning for Healthcare](2024年07月24日/Sentiment_Reasoning_for_Healthcare.md)
+
+    - [翻译: 医疗保健领域的情感推理](2024年07月24日/Sentiment_Reasoning_for_Healthcare.md)
+
 2024年07月23日
 
 - [Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models](2024年07月23日/Retrieve,_Generate,_Evaluate_A_Case_Study_for_Medical_Paraphrases_Generation_with_Small_Language_Models.md)
@@ -1167,6 +1205,10 @@
 - [Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design](2024年07月23日/Rome_was_Not_Built_in_a_Single_Step_Hierarchical_Prompting_for_LLM-based_Chip_Design.md)
 
     - [翻译: 罗马非一日之成：探索基于 LLM 的芯片设计中的分层提示策略](2024年07月23日/Rome_was_Not_Built_in_a_Single_Step_Hierarchical_Prompting_for_LLM-based_Chip_Design.md)
+
+- [An Active Inference Strategy for Prompting Reliable Responses from Large Language Models in Medical Practice](2024年07月23日/An_Active_Inference_Strategy_for_Prompting_Reliable_Responses_from_Large_Language_Models_in_Medical_Practice.md)
+
+    - [翻译: 在医疗实践中，采用主动推理策略，以确保大型语言模型提供可靠的响应。](2024年07月23日/An_Active_Inference_Strategy_for_Prompting_Reliable_Responses_from_Large_Language_Models_in_Medical_Practice.md)
 
 2024年07月22日
 
@@ -1563,6 +1605,10 @@
 - [Large Language Model for Verilog Generation with Golden Code Feedback](2024年07月21日/Large_Language_Model_for_Verilog_Generation_with_Golden_Code_Feedback.md)
 
     - [翻译: 基于黄金代码反馈的 Verilog 生成大型语言模型](2024年07月21日/Large_Language_Model_for_Verilog_Generation_with_Golden_Code_Feedback.md)
+
+- [Towards Automated Data Sciences with Natural Language and SageCopilot: Practices and Lessons Learned](2024年07月21日/Towards_Automated_Data_Sciences_with_Natural_Language_and_SageCopilot_Practices_and_Lessons_Learned.md)
+
+    - [翻译: 探索自然语言与 SageCopilot 在自动化数据科学领域的实践与心得](2024年07月21日/Towards_Automated_Data_Sciences_with_Natural_Language_and_SageCopilot_Practices_and_Lessons_Learned.md)
 
 2024年07月20日
 
@@ -3007,6 +3053,10 @@
 - [Integrating AI Tutors in a Programming Course](2024年07月13日/Integrating_AI_Tutors_in_a_Programming_Course.md)
 
     - [翻译: 编程课程中引入AI导师](2024年07月13日/Integrating_AI_Tutors_in_a_Programming_Course.md)
+
+- [LLM-Find: An Autonomous GIS Agent Framework for Geospatial Data Retrieval](2024年07月13日/LLM-Find_An_Autonomous_GIS_Agent_Framework_for_Geospatial_Data_Retrieval.md)
+
+    - [翻译: LLM-Find：一款自主式GIS代理框架，专为地理空间数据检索设计。](2024年07月13日/LLM-Find_An_Autonomous_GIS_Agent_Framework_for_Geospatial_Data_Retrieval.md)
 
 2024年07月12日
 
