@@ -166,6 +166,10 @@
 
     - [翻译: 机器学习中的表格数据增强：探索生成式AI的进展与未来展望](2024年07月31日/Tabular_Data_Augmentation_for_Machine_Learning_Progress_and_Prospects_of_Embracing_Generative_AI.md)
 
+- [OmniParser for Pure Vision Based GUI Agent](2024年07月31日/OmniParser_for_Pure_Vision_Based_GUI_Agent.md)
+
+    - [翻译: OmniParser：专为纯视觉GUI代理设计](2024年07月31日/OmniParser_for_Pure_Vision_Based_GUI_Agent.md)
+
 2024年07月30日
 
 - [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](2024年07月30日/Breaking_Agents_Compromising_Autonomous_LLM_Agents_Through_Malfunction_Amplification.md)
