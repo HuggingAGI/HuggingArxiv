@@ -170,6 +170,54 @@
 
     - [翻译: OmniParser：专为纯视觉GUI代理设计](2024年07月31日/OmniParser_for_Pure_Vision_Based_GUI_Agent.md)
 
+- [Clover-2: Accurate Inference for Regressive Lightweight Speculative Decoding](2024年07月31日/Clover-2_Accurate_Inference_for_Regressive_Lightweight_Speculative_Decoding.md)
+
+    - [翻译: Clover-2：精准助力轻量级推测解码的回归推断](2024年07月31日/Clover-2_Accurate_Inference_for_Regressive_Lightweight_Speculative_Decoding.md)
+
+- [Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models](2024年07月31日/Lost_in_Translation_Latent_Concept_Misalignment_in_Text-to-Image_Diffusion_Models.md)
+
+    - [翻译: 文本到图像扩散模型中的潜在概念错位问题](2024年07月31日/Lost_in_Translation_Latent_Concept_Misalignment_in_Text-to-Image_Diffusion_Models.md)
+
+- [Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control](2024年07月31日/Large_Language_Model_(LLM)-enabled_In-context_Learning_for_Wireless_Network_Optimization_A_Case_Study_of_Power_Control.md)
+
+    - [翻译: 基于 LLM 的 In-context Learning 在无线网络优化中的应用：功率控制实证研究](2024年07月31日/Large_Language_Model_(LLM)-enabled_In-context_Learning_for_Wireless_Network_Optimization_A_Case_Study_of_Power_Control.md)
+
+- [Finch: Prompt-guided Key-Value Cache Compression](2024年07月31日/Finch_Prompt-guided_Key-Value_Cache_Compression.md)
+
+    - [翻译: Finch：基于提示的键值缓存压缩技术](2024年07月31日/Finch_Prompt-guided_Key-Value_Cache_Compression.md)
+
+- [A Taxonomy of Stereotype Content in Large Language Models](2024年07月31日/A_Taxonomy_of_Stereotype_Content_in_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型中刻板印象内容的分类研究](2024年07月31日/A_Taxonomy_of_Stereotype_Content_in_Large_Language_Models.md)
+
+- [Automatic Generation of Behavioral Test Cases For Natural Language Processing Using Clustering and Prompting](2024年07月31日/Automatic_Generation_of_Behavioral_Test_Cases_For_Natural_Language_Processing_Using_Clustering_and_Prompting.md)
+
+    - [翻译: 通过聚类与提示技术，自动生成自然语言处理的行为测试用例](2024年07月31日/Automatic_Generation_of_Behavioral_Test_Cases_For_Natural_Language_Processing_Using_Clustering_and_Prompting.md)
+
+- [Distributed In-Context Learning under Non-IID Among Clients](2024年07月31日/Distributed_In-Context_Learning_under_Non-IID_Among_Clients.md)
+
+    - [翻译: 非独立同分布环境下客户端间的分布式上下文学习](2024年07月31日/Distributed_In-Context_Learning_under_Non-IID_Among_Clients.md)
+
+- [Correcting Negative Bias in Large Language Models through Negative Attention Score Alignment](2024年07月31日/Correcting_Negative_Bias_in_Large_Language_Models_through_Negative_Attention_Score_Alignment.md)
+
+    - [翻译: 通过调整负注意力分数，我们旨在纠正大型语言模型中的负偏差。](2024年07月31日/Correcting_Negative_Bias_in_Large_Language_Models_through_Negative_Attention_Score_Alignment.md)
+
+- [A Course Shared Task on Evaluating LLM Output for Clinical Questions](2024年07月31日/A_Course_Shared_Task_on_Evaluating_LLM_Output_for_Clinical_Questions.md)
+
+    - [翻译: 临床问题 LLM 输出评估的共享课程任务](2024年07月31日/A_Course_Shared_Task_on_Evaluating_LLM_Output_for_Clinical_Questions.md)
+
+- [Capacities of quantum Markovian noise for large times](2024年07月31日/Capacities_of_quantum_Markovian_noise_for_large_times.md)
+
+    - [翻译: 量子马尔可夫噪声在长时间尺度下的能力](2024年07月31日/Capacities_of_quantum_Markovian_noise_for_large_times.md)
+
+- [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](2024年07月31日/Inductive_or_Deductive_Rethinking_the_Fundamental_Reasoning_Abilities_of_LLMs.md)
+
+    - [翻译: 归纳还是演绎？探讨 LLMs 的基本推理能力](2024年07月31日/Inductive_or_Deductive_Rethinking_the_Fundamental_Reasoning_Abilities_of_LLMs.md)
+
+- [Deceptive AI systems that give explanations are more convincing than honest AI systems and can amplify belief in misinformation](2024年07月31日/Deceptive_AI_systems_that_give_explanations_are_more_convincing_than_honest_AI_systems_and_can_amplify_belief_in_misinformation.md)
+
+    - [翻译: 提供解释的欺骗性AI系统不仅比诚实的AI更具说服力，还能加剧人们对错误信息的信任。](2024年07月31日/Deceptive_AI_systems_that_give_explanations_are_more_convincing_than_honest_AI_systems_and_can_amplify_belief_in_misinformation.md)
+
 2024年07月30日
 
 - [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](2024年07月30日/Breaking_Agents_Compromising_Autonomous_LLM_Agents_Through_Malfunction_Amplification.md)
@@ -994,6 +1042,10 @@
 
     - [翻译: 模块化RAG：打造如同乐高般的可重构RAG系统框架](2024年07月25日/Modular_RAG_Transforming_RAG_Systems_into_LEGO-like_Reconfigurable_Frameworks.md)
 
+- [Closing the gap between open-source and commercial large language models for medical evidence summarization](2024年07月25日/Closing_the_gap_between_open-source_and_commercial_large_language_models_for_medical_evidence_summarization.md)
+
+    - [翻译: 弥合开源与商业大型语言模型在医学证据摘要领域的鸿沟](2024年07月25日/Closing_the_gap_between_open-source_and_commercial_large_language_models_for_medical_evidence_summarization.md)
+
 2024年07月24日
 
 - [3D Question Answering for City Scene Understanding](2024年07月24日/3D_Question_Answering_for_City_Scene_Understanding.md)
@@ -1405,6 +1457,10 @@
 - [An Active Inference Strategy for Prompting Reliable Responses from Large Language Models in Medical Practice](2024年07月23日/An_Active_Inference_Strategy_for_Prompting_Reliable_Responses_from_Large_Language_Models_in_Medical_Practice.md)
 
     - [翻译: 在医疗实践中，采用主动推理策略，以确保大型语言模型提供可靠的响应。](2024年07月23日/An_Active_Inference_Strategy_for_Prompting_Reliable_Responses_from_Large_Language_Models_in_Medical_Practice.md)
+
+- [ScaleLLM: A Resource-Frugal LLM Serving Framework by Optimizing End-to-End Efficiency](2024年07月23日/ScaleLLM_A_Resource-Frugal_LLM_Serving_Framework_by_Optimizing_End-to-End_Efficiency.md)
+
+    - [翻译: ScaleLLM：一个通过优化端到端效率，实现资源节约的大型语言模型服务框架](2024年07月23日/ScaleLLM_A_Resource-Frugal_LLM_Serving_Framework_by_Optimizing_End-to-End_Efficiency.md)
 
 2024年07月22日
 
@@ -2311,6 +2367,10 @@
 - [Semi-Supervised Contrastive Learning of Musical Representations](2024年07月18日/Semi-Supervised_Contrastive_Learning_of_Musical_Representations.md)
 
     - [翻译: 音乐表示的半监督对比学习](2024年07月18日/Semi-Supervised_Contrastive_Learning_of_Musical_Representations.md)
+
+- [Handling Numeric Expressions in Automatic Speech Recognition](2024年07月18日/Handling_Numeric_Expressions_in_Automatic_Speech_Recognition.md)
+
+    - [翻译: 自动语音识别中数值表达式的处理](2024年07月18日/Handling_Numeric_Expressions_in_Automatic_Speech_Recognition.md)
 
 2024年07月17日
 
