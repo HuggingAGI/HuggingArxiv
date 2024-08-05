@@ -1,5 +1,47 @@
 # 2024年08月
 
+2024年08月02日
+
+- [DebateQA: Evaluating Question Answering on Debatable Knowledge](2024年08月02日/DebateQA_Evaluating_Question_Answering_on_Debatable_Knowledge.md)
+
+    - [翻译: DebateQA：探讨在争议知识领域的问答评估](2024年08月02日/DebateQA_Evaluating_Question_Answering_on_Debatable_Knowledge.md)
+
+- [RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework](2024年08月02日/RAGEval_Scenario_Specific_RAG_Evaluation_Dataset_Generation_Framework.md)
+
+    - [翻译: RAGEval：专为特定场景设计的 RAG 评估数据集生成框架](2024年08月02日/RAGEval_Scenario_Specific_RAG_Evaluation_Dataset_Generation_Framework.md)
+
+- [Coalitions of Large Language Models Increase the Robustness of AI Agents](2024年08月02日/Coalitions_of_Large_Language_Models_Increase_the_Robustness_of_AI_Agents.md)
+
+    - [翻译: 通过组建大型语言模型联盟，AI代理的鲁健性得到了显著提升。](2024年08月02日/Coalitions_of_Large_Language_Models_Increase_the_Robustness_of_AI_Agents.md)
+
+- [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](2024年08月02日/Agentic_LLM_Workflows_for_Generating_Patient-Friendly_Medical_Reports.md)
+
+    - [翻译: 代理 LLM 工作流程助力生成患者友好型医疗报告](2024年08月02日/Agentic_LLM_Workflows_for_Generating_Patient-Friendly_Medical_Reports.md)
+
+- [Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs](2024年08月02日/Talk_Less,_Interact_Better_Evaluating_In-context_Conversational_Adaptation_in_Multimodal_LLMs.md)
+
+    - [翻译: 言简意赅，互动更佳：探究多模态LLM中的上下文对话适应性](2024年08月02日/Talk_Less,_Interact_Better_Evaluating_In-context_Conversational_Adaptation_in_Multimodal_LLMs.md)
+
+- [StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation](2024年08月02日/StitchFusion_Weaving_Any_Visual_Modalities_to_Enhance_Multimodal_Semantic_Segmentation.md)
+
+    - [翻译: StitchFusion：融合多种视觉模态，提升多模态语义分割的性能。](2024年08月02日/StitchFusion_Weaving_Any_Visual_Modalities_to_Enhance_Multimodal_Semantic_Segmentation.md)
+
+- [A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks](2024年08月02日/A_Comprehensive_Review_of_Multimodal_Large_Language_Models_Performance_and_Challenges_Across_Different_Tasks.md)
+
+    - [翻译: 全面审视多模态大型语言模型：跨越不同任务的性能与挑战](2024年08月02日/A_Comprehensive_Review_of_Multimodal_Large_Language_Models_Performance_and_Challenges_Across_Different_Tasks.md)
+
+- [Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions](2024年08月02日/Dissecting_Dissonance_Benchmarking_Large_Multimodal_Models_Against_Self-Contradictory_Instructions.md)
+
+    - [翻译: 深入解析矛盾：在自相矛盾的指令下，对大型多模态模型进行性能基准测试](2024年08月02日/Dissecting_Dissonance_Benchmarking_Large_Multimodal_Models_Against_Self-Contradictory_Instructions.md)
+
+- [Piculet: Specialized Models-Guided Hallucination Decrease for MultiModal Large Language Models](2024年08月02日/Piculet_Specialized_Models-Guided_Hallucination_Decrease_for_MultiModal_Large_Language_Models.md)
+
+    - [翻译: Piculet：通过专业模型引导，减少多模态大型语言模型的幻觉现象](2024年08月02日/Piculet_Specialized_Models-Guided_Hallucination_Decrease_for_MultiModal_Large_Language_Models.md)
+
+- [FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation](2024年08月02日/FBSDiff_Plug-and-Play_Frequency_Band_Substitution_of_Diffusion_Features_for_Highly_Controllable_Text-Driven_Image_Translation.md)
+
+    - [翻译: FBSDiff：一种即插即用的技术，通过替换扩散特征的频率带来实现高度可控的文本驱动图像转换。](2024年08月02日/FBSDiff_Plug-and-Play_Frequency_Band_Substitution_of_Diffusion_Features_for_Highly_Controllable_Text-Driven_Image_Translation.md)
+
 2024年08月01日
 
 - [Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions](2024年08月01日/Improving_Retrieval-Augmented_Generation_in_Medicine_with_Iterative_Follow-up_Questions.md)
@@ -141,3 +183,11 @@
 - [VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection](2024年08月01日/VecAug_Unveiling_Camouflaged_Frauds_with_Cohort_Augmentation_for_Enhanced_Detection.md)
 
     - [翻译: VecAug：利用队列增强技术，揭露伪装欺诈，提升检测效率。](2024年08月01日/VecAug_Unveiling_Camouflaged_Frauds_with_Cohort_Augmentation_for_Enhanced_Detection.md)
+
+- [On the Resilience of Multi-Agent Systems with Malicious Agents](2024年08月01日/On_the_Resilience_of_Multi-Agent_Systems_with_Malicious_Agents.md)
+
+    - [翻译: 探讨恶意代理存在下的多代理系统韧性](2024年08月01日/On_the_Resilience_of_Multi-Agent_Systems_with_Malicious_Agents.md)
+
+- [Y Social: an LLM-powered Social Media Digital Twin](2024年08月01日/Y_Social_an_LLM-powered_Social_Media_Digital_Twin.md)
+
+    - [翻译: Y Social：一款由大型语言模型赋能的社交媒体数字孪生](2024年08月01日/Y_Social_an_LLM-powered_Social_Media_Digital_Twin.md)
