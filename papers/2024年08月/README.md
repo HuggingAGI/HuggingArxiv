@@ -42,6 +42,106 @@
 
     - [翻译: FBSDiff：一种即插即用的技术，通过替换扩散特征的频率带来实现高度可控的文本驱动图像转换。](2024年08月02日/FBSDiff_Plug-and-Play_Frequency_Band_Substitution_of_Diffusion_Features_for_Highly_Controllable_Text-Driven_Image_Translation.md)
 
+- [Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting](2024年08月02日/Prompt_Recursive_Search_A_Living_Framework_with_Adaptive_Growth_in_LLM_Auto-Prompting.md)
+
+    - [翻译: 提示递归搜索：在 LLM 自动提示领域，这是一个随需应变、不断成长的动态框架。](2024年08月02日/Prompt_Recursive_Search_A_Living_Framework_with_Adaptive_Growth_in_LLM_Auto-Prompting.md)
+
+- [Mission Impossible: A Statistical Perspective on Jailbreaking LLMs](2024年08月02日/Mission_Impossible_A_Statistical_Perspective_on_Jailbreaking_LLMs.md)
+
+    - [翻译: 破解大型语言模型：一项统计学视角下的挑战](2024年08月02日/Mission_Impossible_A_Statistical_Perspective_on_Jailbreaking_LLMs.md)
+
+- [Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation](2024年08月02日/Toward_Automatic_Relevance_Judgment_using_Vision--Language_Models_for_Image--Text_Retrieval_Evaluation.md)
+
+    - [翻译: 利用视觉-语言模型实现图像-文本检索评估的自动相关性判定](2024年08月02日/Toward_Automatic_Relevance_Judgment_using_Vision--Language_Models_for_Image--Text_Retrieval_Evaluation.md)
+
+- [Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs](2024年08月02日/Hallu-PI_Evaluating_Hallucination_in_Multi-modal_Large_Language_Models_within_Perturbed_Inputs.md)
+
+    - [翻译: Hallu-PI：探究多模态大型语言模型在受扰输入中的幻觉表现](2024年08月02日/Hallu-PI_Evaluating_Hallucination_in_Multi-modal_Large_Language_Models_within_Perturbed_Inputs.md)
+
+- [MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code](2024年08月02日/MCGMark_An_Encodable_and_Robust_Online_Watermark_for_LLM-Generated_Malicious_Code.md)
+
+    - [翻译: MCGMark：为 LLM 生成的恶意代码设计的一种既可编码又具强大防护能力的在线水印技术。](2024年08月02日/MCGMark_An_Encodable_and_Robust_Online_Watermark_for_LLM-Generated_Malicious_Code.md)
+
+- [Prompt Refinement or Fine-tuning? Best Practices for using LLMs in Computational Social Science Tasks](2024年08月02日/Prompt_Refinement_or_Fine-tuning_Best_Practices_for_using_LLMs_in_Computational_Social_Science_Tasks.md)
+
+    - [翻译: 在计算社会科学任务中，我们应选择提示优化还是模型微调？本文探讨了使用大型语言模型的最佳策略。](2024年08月02日/Prompt_Refinement_or_Fine-tuning_Best_Practices_for_using_LLMs_in_Computational_Social_Science_Tasks.md)
+
+- [A Backbone for Long-Horizon Robot Task Understanding](2024年08月02日/A_Backbone_for_Long-Horizon_Robot_Task_Understanding.md)
+
+    - [翻译: 机器人长时程任务理解的关键支柱](2024年08月02日/A_Backbone_for_Long-Horizon_Robot_Task_Understanding.md)
+
+- [FANNO: Augmenting High-Quality Instruction Data with Open-Sourced LLMs Only](2024年08月02日/FANNO_Augmenting_High-Quality_Instruction_Data_with_Open-Sourced_LLMs_Only.md)
+
+    - [翻译: FANNO：借助开源LLM，提升高质量指令数据的丰富性](2024年08月02日/FANNO_Augmenting_High-Quality_Instruction_Data_with_Open-Sourced_LLMs_Only.md)
+
+- [Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models](2024年08月02日/Reconsidering_Token_Embeddings_with_the_Definitions_for_Pre-trained_Language_Models.md)
+
+    - [翻译: 探讨预训练语言模型中 Token Embeddings 的重新定义](2024年08月02日/Reconsidering_Token_Embeddings_with_the_Definitions_for_Pre-trained_Language_Models.md)
+
+- [The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models](2024年08月02日/The_Mismeasure_of_Man_and_Models_Evaluating_Allocational_Harms_in_Large_Language_Models.md)
+
+    - [翻译: 《误测人类与模型：审视大型语言模型中的分配伤害》](2024年08月02日/The_Mismeasure_of_Man_and_Models_Evaluating_Allocational_Harms_in_Large_Language_Models.md)
+
+- [The Phantom Menace: Unmasking Privacy Leakages in Vision-Language Models](2024年08月02日/The_Phantom_Menace_Unmasking_Privacy_Leakages_in_Vision-Language_Models.md)
+
+    - [翻译: 幻影威胁：揭秘视觉-语言模型中的隐私漏洞](2024年08月02日/The_Phantom_Menace_Unmasking_Privacy_Leakages_in_Vision-Language_Models.md)
+
+- [High-Throughput Phenotyping of Clinical Text Using Large Language Models](2024年08月02日/High-Throughput_Phenotyping_of_Clinical_Text_Using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型高效分析临床文本表型](2024年08月02日/High-Throughput_Phenotyping_of_Clinical_Text_Using_Large_Language_Models.md)
+
+- [Misinforming LLMs: vulnerabilities, challenges and opportunities](2024年08月02日/Misinforming_LLMs_vulnerabilities,_challenges_and_opportunities.md)
+
+    - [翻译: 大型语言模型的误导问题：探索其漏洞、面临的挑战及潜在机遇](2024年08月02日/Misinforming_LLMs_vulnerabilities,_challenges_and_opportunities.md)
+
+- [A Survey of Mamba](2024年08月02日/A_Survey_of_Mamba.md)
+
+    - [翻译: 《Mamba 调查报告》](2024年08月02日/A_Survey_of_Mamba.md)
+
+- [CFBench: A Comprehensive Constraints-Following Benchmark for LLMs](2024年08月02日/CFBench_A_Comprehensive_Constraints-Following_Benchmark_for_LLMs.md)
+
+    - [翻译: CFBench：为 LLMs 量身打造的全面约束遵循基准测试](2024年08月02日/CFBench_A_Comprehensive_Constraints-Following_Benchmark_for_LLMs.md)
+
+- [Task Prompt Vectors: Effective Initialization through Multi-Task Soft-Prompt Transfer](2024年08月02日/Task_Prompt_Vectors_Effective_Initialization_through_Multi-Task_Soft-Prompt_Transfer.md)
+
+    - [翻译: 任务提示向量：借助多任务软提示转移，实现高效初始化](2024年08月02日/Task_Prompt_Vectors_Effective_Initialization_through_Multi-Task_Soft-Prompt_Transfer.md)
+
+- [BioRAG: A RAG-LLM Framework for Biological Question Reasoning](2024年08月02日/BioRAG_A_RAG-LLM_Framework_for_Biological_Question_Reasoning.md)
+
+    - [翻译: BioRAG：专为生物学问题推理设计的 RAG-LLM 框架](2024年08月02日/BioRAG_A_RAG-LLM_Framework_for_Biological_Question_Reasoning.md)
+
+- [LessonPlanner: Assisting Novice Teachers to Prepare Pedagogy-Driven Lesson Plans with Large Language Models](2024年08月02日/LessonPlanner_Assisting_Novice_Teachers_to_Prepare_Pedagogy-Driven_Lesson_Plans_with_Large_Language_Models.md)
+
+    - [翻译: LessonPlanner：借助大型语言模型，助力新手教师制定以教学法为核心的课程计划。](2024年08月02日/LessonPlanner_Assisting_Novice_Teachers_to_Prepare_Pedagogy-Driven_Lesson_Plans_with_Large_Language_Models.md)
+
+- [Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs](2024年08月02日/Bridging_Information_Gaps_in_Dialogues_With_Grounded_Exchanges_Using_Knowledge_Graphs.md)
+
+    - [翻译: 借助知识图谱，通过基于事实的交流来弥合对话中的信息鸿沟](2024年08月02日/Bridging_Information_Gaps_in_Dialogues_With_Grounded_Exchanges_Using_Knowledge_Graphs.md)
+
+- [Adaptive Contrastive Decoding in Retrieval-Augmented Generation for Handling Noisy Contexts](2024年08月02日/Adaptive_Contrastive_Decoding_in_Retrieval-Augmented_Generation_for_Handling_Noisy_Contexts.md)
+
+    - [翻译: 针对噪声上下文的处理，检索增强生成采用了自适应对比解码技术。](2024年08月02日/Adaptive_Contrastive_Decoding_in_Retrieval-Augmented_Generation_for_Handling_Noisy_Contexts.md)
+
+- [Leveraging Large Language Models for Mobile App Review Feature Extraction](2024年08月02日/Leveraging_Large_Language_Models_for_Mobile_App_Review_Feature_Extraction.md)
+
+    - [翻译: 借助大型语言模型，我们能够高效提取移动应用评论中的关键特征。](2024年08月02日/Leveraging_Large_Language_Models_for_Mobile_App_Review_Feature_Extraction.md)
+
+- [LLM as Runtime Error Handler: A Promising Pathway to Adaptive Self-Healing of Software Systems](2024年08月02日/LLM_as_Runtime_Error_Handler_A_Promising_Pathway_to_Adaptive_Self-Healing_of_Software_Systems.md)
+
+    - [翻译: LLM 作为运行时错误处理程序，为软件系统的自适应自愈开辟了一条有前景的路径。](2024年08月02日/LLM_as_Runtime_Error_Handler_A_Promising_Pathway_to_Adaptive_Self-Healing_of_Software_Systems.md)
+
+- [The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines](2024年08月02日/The_Impact_of_Hyperparameters_on_Large_Language_Model_Inference_Performance_An_Evaluation_of_vLLM_and_HuggingFace_Pipelines.md)
+
+    - [翻译: 探究超参数如何影响大型语言模型的推理性能：一项针对 vLLM 与 HuggingFace 管道的评估研究](2024年08月02日/The_Impact_of_Hyperparameters_on_Large_Language_Model_Inference_Performance_An_Evaluation_of_vLLM_and_HuggingFace_Pipelines.md)
+
+- [DASH: A Bimodal Data Exploration Tool for Interactive Text and Visualizations](2024年08月02日/DASH_A_Bimodal_Data_Exploration_Tool_for_Interactive_Text_and_Visualizations.md)
+
+    - [翻译: DASH：一款双模态数据探索工具，专为交互式文本与可视化设计。](2024年08月02日/DASH_A_Bimodal_Data_Exploration_Tool_for_Interactive_Text_and_Visualizations.md)
+
+- [Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs](2024年08月02日/Tensor_Train_Low-rank_Approximation_(TT-LoRA)_Democratizing_AI_with_Accelerated_LLMs.md)
+
+    - [翻译: TT-LoRA：通过加速 LLM 普及人工智能](2024年08月02日/Tensor_Train_Low-rank_Approximation_(TT-LoRA)_Democratizing_AI_with_Accelerated_LLMs.md)
+
 2024年08月01日
 
 - [Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions](2024年08月01日/Improving_Retrieval-Augmented_Generation_in_Medicine_with_Iterative_Follow-up_Questions.md)
@@ -191,3 +291,47 @@
 - [Y Social: an LLM-powered Social Media Digital Twin](2024年08月01日/Y_Social_an_LLM-powered_Social_Media_Digital_Twin.md)
 
     - [翻译: Y Social：一款由大型语言模型赋能的社交媒体数字孪生](2024年08月01日/Y_Social_an_LLM-powered_Social_Media_Digital_Twin.md)
+
+- [ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models](2024年08月01日/ArchCode_Incorporating_Software_Requirements_in_Code_Generation_with_Large_Language_Models.md)
+
+    - [翻译: ArchCode：利用大型语言模型，在代码生成过程中巧妙融入软件需求。](2024年08月01日/ArchCode_Incorporating_Software_Requirements_in_Code_Generation_with_Large_Language_Models.md)
+
+- [Fairness in Large Language Models in Three Hour](2024年08月01日/Fairness_in_Large_Language_Models_in_Three_Hour.md)
+
+    - [翻译: 三小时内探讨大型语言模型的公平性](2024年08月01日/Fairness_in_Large_Language_Models_in_Three_Hour.md)
+
+- [Automatic Extraction of Relationships among Motivations, Emotions and Actions from Natural Language Texts](2024年08月01日/Automatic_Extraction_of_Relationships_among_Motivations,_Emotions_and_Actions_from_Natural_Language_Texts.md)
+
+    - [翻译: 自动解析自然语言文本中的动机、情感与行为间的关联](2024年08月01日/Automatic_Extraction_of_Relationships_among_Motivations,_Emotions_and_Actions_from_Natural_Language_Texts.md)
+
+- [PERSOMA: PERsonalized SOft ProMpt Adapter Architecture for Personalized Language Prompting](2024年08月01日/PERSOMA_PERsonalized_SOft_ProMpt_Adapter_Architecture_for_Personalized_Language_Prompting.md)
+
+    - [翻译: PERSOMA：一种个性化软提示适配器架构，专为个性化语言提示设计](2024年08月01日/PERSOMA_PERsonalized_SOft_ProMpt_Adapter_Architecture_for_Personalized_Language_Prompting.md)
+
+- [Leveraging Large Language Models (LLMs) for Traffic Management at Urban Intersections: The Case of Mixed Traffic Scenarios](2024年08月01日/Leveraging_Large_Language_Models_(LLMs)_for_Traffic_Management_at_Urban_Intersections_The_Case_of_Mixed_Traffic_Scenarios.md)
+
+    - [翻译: 借助 LLM 优化城市交叉口交通管理：探索混合交通场景的解决方案](2024年08月01日/Leveraging_Large_Language_Models_(LLMs)_for_Traffic_Management_at_Urban_Intersections_The_Case_of_Mixed_Traffic_Scenarios.md)
+
+- [Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)](2024年08月01日/Towards_Zero-Shot_Annotation_of_the_Built_Environment_with_Vision-Language_Models_(Vision_Paper).md)
+
+    - [翻译: 探索利用视觉-语言模型实现建筑环境的零-shot 标注（愿景论文）](2024年08月01日/Towards_Zero-Shot_Annotation_of_the_Built_Environment_with_Vision-Language_Models_(Vision_Paper).md)
+
+- [Granting GPT-4 License and Opportunity: Enhancing Accuracy and Confidence Estimation for Few-Shot Event Detection](2024年08月01日/Granting_GPT-4_License_and_Opportunity_Enhancing_Accuracy_and_Confidence_Estimation_for_Few-Shot_Event_Detection.md)
+
+    - [翻译: 赋予 GPT-4 许可与机遇，旨在提升少样本事件检测的精准度与置信评估。](2024年08月01日/Granting_GPT-4_License_and_Opportunity_Enhancing_Accuracy_and_Confidence_Estimation_for_Few-Shot_Event_Detection.md)
+
+- [Hybrid Querying Over Relational Databases and Large Language Models](2024年08月01日/Hybrid_Querying_Over_Relational_Databases_and_Large_Language_Models.md)
+
+    - [翻译: 关系数据库与大型语言模型间的混合查询探索](2024年08月01日/Hybrid_Querying_Over_Relational_Databases_and_Large_Language_Models.md)
+
+- [Annotator in the Loop: A Case Study of In-Depth Rater Engagement to Create a Bridging Benchmark Dataset](2024年08月01日/Annotator_in_the_Loop_A_Case_Study_of_In-Depth_Rater_Engagement_to_Create_a_Bridging_Benchmark_Dataset.md)
+
+    - [翻译: 标注者在循环中：通过深入评分者参与，创建桥梁基准数据集的案例研究](2024年08月01日/Annotator_in_the_Loop_A_Case_Study_of_In-Depth_Rater_Engagement_to_Create_a_Bridging_Benchmark_Dataset.md)
+
+- [Multi-Aspect Reviewed-Item Retrieval via LLM Query Decomposition and Aspect Fusion](2024年08月01日/Multi-Aspect_Reviewed-Item_Retrieval_via_LLM_Query_Decomposition_and_Aspect_Fusion.md)
+
+    - [翻译: 利用 LLM 查询分解与方面融合技术，实现多维度评论项目的精准检索。](2024年08月01日/Multi-Aspect_Reviewed-Item_Retrieval_via_LLM_Query_Decomposition_and_Aspect_Fusion.md)
+
+- [UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](2024年08月01日/UniMoT_Unified_Molecule-Text_Language_Model_with_Discrete_Token_Representation.md)
+
+    - [翻译: UniMoT：一款采用离散令牌表示的统一分子与文本语言模型](2024年08月01日/UniMoT_Unified_Molecule-Text_Language_Model_with_Discrete_Token_Representation.md)

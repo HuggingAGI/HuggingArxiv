@@ -868,6 +868,10 @@
 
     - [翻译: ESAC，即 EQ-SANS 辅助聊天机器人，通过结合大型语言模型与检索增强生成技术，旨在提升 EQ-SANS 平台的用户体验。](2024年07月26日/ESAC_(EQ-SANS_Assisting_Chatbot)_Application_of_Large_Language_Models_and_Retrieval-Augmented_Generation_for_Enhanced_User_Experience_at_EQ-SANS.md)
 
+- [ChipExpert: The Open-Source Integrated-Circuit-Design-Specific Large Language Model](2024年07月26日/ChipExpert_The_Open-Source_Integrated-Circuit-Design-Specific_Large_Language_Model.md)
+
+    - [翻译: ChipExpert：一款专为集成电路设计而生的开源大型语言模型](2024年07月26日/ChipExpert_The_Open-Source_Integrated-Circuit-Design-Specific_Large_Language_Model.md)
+
 2024年07月25日
 
 - [The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation](2024年07月25日/The_Geometry_of_Queries_Query-Based_Innovations_in_Retrieval-Augmented_Generation.md)
@@ -1708,6 +1712,14 @@
 
     - [翻译: APTNESS：融合评估理论与情感支持策略，助力共情回应的生成](2024年07月22日/APTNESS_Incorporating_Appraisal_Theory_and_Emotion_Support_Strategies_for_Empathetic_Response_Generation.md)
 
+- [Leveraging LLM Reasoning Enhances Personalized Recommender Systems](2024年07月22日/Leveraging_LLM_Reasoning_Enhances_Personalized_Recommender_Systems.md)
+
+    - [翻译: 借助 LLM 的推理能力，个性化推荐系统得以提升。](2024年07月22日/Leveraging_LLM_Reasoning_Enhances_Personalized_Recommender_Systems.md)
+
+- [Chatbot-Based Ontology Interaction Using Large Language Models and Domain-Specific Standards](2024年07月22日/Chatbot-Based_Ontology_Interaction_Using_Large_Language_Models_and_Domain-Specific_Standards.md)
+
+    - [翻译: 利用大型语言模型与特定领域标准，实现基于聊天机器人的本体交互](2024年07月22日/Chatbot-Based_Ontology_Interaction_Using_Large_Language_Models_and_Domain-Specific_Standards.md)
+
 2024年07月21日
 
 - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](2024年07月21日/Fact-Aware_Multimodal_Retrieval_Augmentation_for_Accurate_Medical_Radiology_Report_Generation.md)
@@ -1931,6 +1943,10 @@
 - [Can VLMs be used on videos for action recognition? LLMs are Visual Reasoning Coordinators](2024年07月20日/Can_VLMs_be_used_on_videos_for_action_recognition_LLMs_are_Visual_Reasoning_Coordinators.md)
 
     - [翻译: VLMs 能否助力视频动作识别？LLMs 担当视觉推理的协调者角色。](2024年07月20日/Can_VLMs_be_used_on_videos_for_action_recognition_LLMs_are_Visual_Reasoning_Coordinators.md)
+
+- [Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base](2024年07月20日/Golden-Retriever_High-Fidelity_Agentic_Retrieval_Augmented_Generation_for_Industrial_Knowledge_Base.md)
+
+    - [翻译: Golden-Retriever：专为工业知识库设计的高保真、智能增强检索生成系统](2024年07月20日/Golden-Retriever_High-Fidelity_Agentic_Retrieval_Augmented_Generation_for_Industrial_Knowledge_Base.md)
 
 2024年07月19日
 
