@@ -428,6 +428,10 @@
 
     - [翻译: 借助知识金字塔实现多层次查询](2024年07月30日/Multi-Level_Querying_using_A_Knowledge_Pyramid.md)
 
+- [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](2024年07月30日/Patient-centered_data_science_an_integrative_framework_for_evaluating_and_predicting_clinical_outcomes_in_the_digital_health_era.md)
+
+    - [翻译: ](2024年07月30日/Patient-centered_data_science_an_integrative_framework_for_evaluating_and_predicting_clinical_outcomes_in_the_digital_health_era.md)
+
 2024年07月29日
 
 - [Multimodal Large Language Models for Bioimage Analysis](2024年07月29日/Multimodal_Large_Language_Models_for_Bioimage_Analysis.md)
@@ -712,6 +716,10 @@
 
     - [翻译: RLCoder：利用强化学习实现仓库级代码自动完成](2024年07月28日/RLCoder_Reinforcement_Learning_for_Repository-Level_Code_Completion.md)
 
+- [Faculty Perspectives on the Potential of RAG in Computer Science Higher Education](2024年07月28日/Faculty_Perspectives_on_the_Potential_of_RAG_in_Computer_Science_Higher_Education.md)
+
+    - [翻译: ](2024年07月28日/Faculty_Perspectives_on_the_Potential_of_RAG_in_Computer_Science_Higher_Education.md)
+
 2024年07月27日
 
 - [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](2024年07月27日/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md)
@@ -729,6 +737,10 @@
 - [Data Processing Techniques for Modern Multimodal Models](2024年07月27日/Data_Processing_Techniques_for_Modern_Multimodal_Models.md)
 
     - [翻译: 现代多模态模型中的数据处理技巧](2024年07月27日/Data_Processing_Techniques_for_Modern_Multimodal_Models.md)
+
+- [AgentPeerTalk: Empowering Students through Agentic-AI-Driven Discernment of Bullying and Joking in Peer Interactions in Schools](2024年07月27日/AgentPeerTalk_Empowering_Students_through_Agentic-AI-Driven_Discernment_of_Bullying_and_Joking_in_Peer_Interactions_in_Schools.md)
+
+    - [翻译: ](2024年07月27日/AgentPeerTalk_Empowering_Students_through_Agentic-AI-Driven_Discernment_of_Bullying_and_Joking_in_Peer_Interactions_in_Schools.md)
 
 2024年07月26日
 
@@ -2387,6 +2399,10 @@
 - [Handling Numeric Expressions in Automatic Speech Recognition](2024年07月18日/Handling_Numeric_Expressions_in_Automatic_Speech_Recognition.md)
 
     - [翻译: 自动语音识别中数值表达式的处理](2024年07月18日/Handling_Numeric_Expressions_in_Automatic_Speech_Recognition.md)
+
+- [Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks](2024年07月18日/Evaluating_and_Enhancing_Trustworthiness_of_LLMs_in_Perception_Tasks.md)
+
+    - [翻译: ](2024年07月18日/Evaluating_and_Enhancing_Trustworthiness_of_LLMs_in_Perception_Tasks.md)
 
 2024年07月17日
 

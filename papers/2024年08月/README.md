@@ -1,5 +1,297 @@
 # 2024年08月
 
+2024年08月06日
+
+- [LLaVA-OneVision: Easy Visual Task Transfer](2024年08月06日/LLaVA-OneVision_Easy_Visual_Task_Transfer.md)
+
+    - [翻译: LLaVA-OneVision：实现视觉任务的轻松迁移](2024年08月06日/LLaVA-OneVision_Easy_Visual_Task_Transfer.md)
+
+- [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](2024年08月06日/Scaling_LLM_Test-Time_Compute_Optimally_can_be_More_Effective_than_Scaling_Model_Parameters.md)
+
+    - [翻译: 在大型语言模型（LLM）中，优化测试时的计算扩展可能比单纯增加模型参数更为高效。](2024年08月06日/Scaling_LLM_Test-Time_Compute_Optimally_can_be_More_Effective_than_Scaling_Model_Parameters.md)
+
+- [TextIM: Part-aware Interactive Motion Synthesis from Text](2024年08月06日/TextIM_Part-aware_Interactive_Motion_Synthesis_from_Text.md)
+
+    - [翻译: TextIM：通过文本实现部分感知交互式运动合成](2024年08月06日/TextIM_Part-aware_Interactive_Motion_Synthesis_from_Text.md)
+
+- [KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models](2024年08月06日/KaPO_Knowledge-aware_Preference_Optimization_for_Controllable_Knowledge_Selection_in_Retrieval-Augmented_Language_Models.md)
+
+    - [翻译: KaPO：增强检索语言模型中，针对可控知识选择的知识感知偏好优化方案](2024年08月06日/KaPO_Knowledge-aware_Preference_Optimization_for_Controllable_Knowledge_Selection_in_Retrieval-Augmented_Language_Models.md)
+
+- [SARA: Singular-Value Based Adaptive Low-Rank Adaption](2024年08月06日/SARA_Singular-Value_Based_Adaptive_Low-Rank_Adaption.md)
+
+    - [翻译: SARA：一种基于奇异值的自适应低秩调整方法](2024年08月06日/SARA_Singular-Value_Based_Adaptive_Low-Rank_Adaption.md)
+
+- [StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation](2024年08月06日/StructEval_Deepen_and_Broaden_Large_Language_Model_Assessment_via_Structured_Evaluation.md)
+
+    - [翻译: StructEval：借助结构化评估，深化并扩展对大型语言模型的全面评估。](2024年08月06日/StructEval_Deepen_and_Broaden_Large_Language_Model_Assessment_via_Structured_Evaluation.md)
+
+- [Synthesizing Text-to-SQL Data from Weak and Strong LLMs](2024年08月06日/Synthesizing_Text-to-SQL_Data_from_Weak_and_Strong_LLMs.md)
+
+    - [翻译: ](2024年08月06日/Synthesizing_Text-to-SQL_Data_from_Weak_and_Strong_LLMs.md)
+
+- [Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons](2024年08月06日/Unveiling_Factual_Recall_Behaviors_of_Large_Language_Models_through_Knowledge_Neurons.md)
+
+    - [翻译: ](2024年08月06日/Unveiling_Factual_Recall_Behaviors_of_Large_Language_Models_through_Knowledge_Neurons.md)
+
+- [Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi](2024年08月06日/Leveraging_Parameter_Efficient_Training_Methods_for_Low_Resource_Text_Classification_A_Case_Study_in_Marathi.md)
+
+    - [翻译: ](2024年08月06日/Leveraging_Parameter_Efficient_Training_Methods_for_Low_Resource_Text_Classification_A_Case_Study_in_Marathi.md)
+
+- [Conditioning LLMs with Emotion in Neural Machine Translation](2024年08月06日/Conditioning_LLMs_with_Emotion_in_Neural_Machine_Translation.md)
+
+    - [翻译: ](2024年08月06日/Conditioning_LLMs_with_Emotion_in_Neural_Machine_Translation.md)
+
+- [Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations](2024年08月06日/Inference_Optimizations_for_Large_Language_Models_Effects,_Challenges,_and_Practical_Considerations.md)
+
+    - [翻译: ](2024年08月06日/Inference_Optimizations_for_Large_Language_Models_Effects,_Challenges,_and_Practical_Considerations.md)
+
+- [Lisbon Computational Linguists at SemEval-2024 Task 2: Using A Mistral 7B Model and Data Augmentation](2024年08月06日/Lisbon_Computational_Linguists_at_SemEval-2024_Task_2_Using_A_Mistral_7B_Model_and_Data_Augmentation.md)
+
+    - [翻译: ](2024年08月06日/Lisbon_Computational_Linguists_at_SemEval-2024_Task_2_Using_A_Mistral_7B_Model_and_Data_Augmentation.md)
+
+- [Evaluating the Translation Performance of Large Language Models Based on Euas-20](2024年08月06日/Evaluating_the_Translation_Performance_of_Large_Language_Models_Based_on_Euas-20.md)
+
+    - [翻译: ](2024年08月06日/Evaluating_the_Translation_Performance_of_Large_Language_Models_Based_on_Euas-20.md)
+
+- [Topic Modeling with Fine-tuning LLMs and Bag of Sentences](2024年08月06日/Topic_Modeling_with_Fine-tuning_LLMs_and_Bag_of_Sentences.md)
+
+    - [翻译: ](2024年08月06日/Topic_Modeling_with_Fine-tuning_LLMs_and_Bag_of_Sentences.md)
+
+- [TestART: Improving LLM-based Unit Test via Co-evolution of Automated Generation and Repair Iteration](2024年08月06日/TestART_Improving_LLM-based_Unit_Test_via_Co-evolution_of_Automated_Generation_and_Repair_Iteration.md)
+
+    - [翻译: ](2024年08月06日/TestART_Improving_LLM-based_Unit_Test_via_Co-evolution_of_Automated_Generation_and_Repair_Iteration.md)
+
+- [500xCompressor: Generalized Prompt Compression for Large Language Models](2024年08月06日/500xCompressor_Generalized_Prompt_Compression_for_Large_Language_Models.md)
+
+    - [翻译: ](2024年08月06日/500xCompressor_Generalized_Prompt_Compression_for_Large_Language_Models.md)
+
+- [Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement](2024年08月06日/Extend_Model_Merging_from_Fine-Tuned_to_Pre-Trained_Large_Language_Models_via_Weight_Disentanglement.md)
+
+    - [翻译: ](2024年08月06日/Extend_Model_Merging_from_Fine-Tuned_to_Pre-Trained_Large_Language_Models_via_Weight_Disentanglement.md)
+
+- [Towards an Analysis of Discourse and Interactional Pragmatic Reasoning Capabilities of Large Language Models](2024年08月06日/Towards_an_Analysis_of_Discourse_and_Interactional_Pragmatic_Reasoning_Capabilities_of_Large_Language_Models.md)
+
+    - [翻译: ](2024年08月06日/Towards_an_Analysis_of_Discourse_and_Interactional_Pragmatic_Reasoning_Capabilities_of_Large_Language_Models.md)
+
+- [OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents](2024年08月06日/OpenOmni_A_Collaborative_Open_Source_Tool_for_Building_Future-Ready_Multimodal_Conversational_Agents.md)
+
+    - [翻译: ](2024年08月06日/OpenOmni_A_Collaborative_Open_Source_Tool_for_Building_Future-Ready_Multimodal_Conversational_Agents.md)
+
+- [Targeted Visual Prompting for Medical Visual Question Answering](2024年08月06日/Targeted_Visual_Prompting_for_Medical_Visual_Question_Answering.md)
+
+    - [翻译: ](2024年08月06日/Targeted_Visual_Prompting_for_Medical_Visual_Question_Answering.md)
+
+- [L3iTC at the FinLLM Challenge Task: Quantization for Financial Text Classification & Summarization](2024年08月06日/L3iTC_at_the_FinLLM_Challenge_Task_Quantization_for_Financial_Text_Classification_&_Summarization.md)
+
+    - [翻译: ](2024年08月06日/L3iTC_at_the_FinLLM_Challenge_Task_Quantization_for_Financial_Text_Classification_&_Summarization.md)
+
+- [Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs](2024年08月06日/Fact_Finder_--_Enhancing_Domain_Expertise_of_Large_Language_Models_by_Incorporating_Knowledge_Graphs.md)
+
+    - [翻译: ](2024年08月06日/Fact_Finder_--_Enhancing_Domain_Expertise_of_Large_Language_Models_by_Incorporating_Knowledge_Graphs.md)
+
+- [LLMs as Probabilistic Minimally Adequate Teachers for DFA Learning](2024年08月06日/LLMs_as_Probabilistic_Minimally_Adequate_Teachers_for_DFA_Learning.md)
+
+    - [翻译: ](2024年08月06日/LLMs_as_Probabilistic_Minimally_Adequate_Teachers_for_DFA_Learning.md)
+
+- [EC-Guide: A Comprehensive E-Commerce Guide for Instruction Tuning and Quantization](2024年08月06日/EC-Guide_A_Comprehensive_E-Commerce_Guide_for_Instruction_Tuning_and_Quantization.md)
+
+    - [翻译: ](2024年08月06日/EC-Guide_A_Comprehensive_E-Commerce_Guide_for_Instruction_Tuning_and_Quantization.md)
+
+- [Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval](2024年08月06日/Accuracy_and_Consistency_of_LLMs_in_the_Registered_Dietitian_Exam_The_Impact_of_Prompt_Engineering_and_Knowledge_Retrieval.md)
+
+    - [翻译: ](2024年08月06日/Accuracy_and_Consistency_of_LLMs_in_the_Registered_Dietitian_Exam_The_Impact_of_Prompt_Engineering_and_Knowledge_Retrieval.md)
+
+- [LLM-Empowered Resource Allocation in Wireless Communications Systems](2024年08月06日/LLM-Empowered_Resource_Allocation_in_Wireless_Communications_Systems.md)
+
+    - [翻译: ](2024年08月06日/LLM-Empowered_Resource_Allocation_in_Wireless_Communications_Systems.md)
+
+- [Benchmarking In-the-wild Multimodal Disease Recognition and A Versatile Baseline](2024年08月06日/Benchmarking_In-the-wild_Multimodal_Disease_Recognition_and_A_Versatile_Baseline.md)
+
+    - [翻译: ](2024年08月06日/Benchmarking_In-the-wild_Multimodal_Disease_Recognition_and_A_Versatile_Baseline.md)
+
+- [Multitask and Multimodal Neural Tuning for Large Models](2024年08月06日/Multitask_and_Multimodal_Neural_Tuning_for_Large_Models.md)
+
+    - [翻译: ](2024年08月06日/Multitask_and_Multimodal_Neural_Tuning_for_Large_Models.md)
+
+2024年08月05日
+
+- [Intermediate direct preference optimization](2024年08月05日/Intermediate_direct_preference_optimization.md)
+
+    - [翻译: ](2024年08月05日/Intermediate_direct_preference_optimization.md)
+
+- [Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering](2024年08月05日/Leveraging_Inter-Chunk_Interactions_for_Enhanced_Retrieval_in_Large_Language_Model-Based_Question_Answering.md)
+
+    - [翻译: ](2024年08月05日/Leveraging_Inter-Chunk_Interactions_for_Enhanced_Retrieval_in_Large_Language_Model-Based_Question_Answering.md)
+
+- [MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine](2024年08月05日/MedTrinity-25M_A_Large-scale_Multimodal_Dataset_with_Multigranular_Annotations_for_Medicine.md)
+
+    - [翻译: ](2024年08月05日/MedTrinity-25M_A_Large-scale_Multimodal_Dataset_with_Multigranular_Annotations_for_Medicine.md)
+
+- [Compromising Embodied Agents with Contextual Backdoor Attacks](2024年08月05日/Compromising_Embodied_Agents_with_Contextual_Backdoor_Attacks.md)
+
+    - [翻译: ](2024年08月05日/Compromising_Embodied_Agents_with_Contextual_Backdoor_Attacks.md)
+
+- [Body of Her: A Preliminary Study on End-to-End Humanoid Agent](2024年08月05日/Body_of_Her_A_Preliminary_Study_on_End-to-End_Humanoid_Agent.md)
+
+    - [翻译: ](2024年08月05日/Body_of_Her_A_Preliminary_Study_on_End-to-End_Humanoid_Agent.md)
+
+- [Hide and Seek: Fingerprinting Large Language Models with Evolutionary Learning](2024年08月05日/Hide_and_Seek_Fingerprinting_Large_Language_Models_with_Evolutionary_Learning.md)
+
+    - [翻译: ](2024年08月05日/Hide_and_Seek_Fingerprinting_Large_Language_Models_with_Evolutionary_Learning.md)
+
+- [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
+
+    - [翻译: ](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
+
+- [Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation](2024年08月05日/Wiping_out_the_limitations_of_Large_Language_Models_--_A_Taxonomy_for_Retrieval_Augmented_Generation.md)
+
+    - [翻译: ](2024年08月05日/Wiping_out_the_limitations_of_Large_Language_Models_--_A_Taxonomy_for_Retrieval_Augmented_Generation.md)
+
+- [Development of REGAI: Rubric Enabled Generative Artificial Intelligence](2024年08月05日/Development_of_REGAI_Rubric_Enabled_Generative_Artificial_Intelligence.md)
+
+    - [翻译: ](2024年08月05日/Development_of_REGAI_Rubric_Enabled_Generative_Artificial_Intelligence.md)
+
+- [Evaluating Large Language Models for Automatic Register Transfer Logic Generation via High-Level Synthesis](2024年08月05日/Evaluating_Large_Language_Models_for_Automatic_Register_Transfer_Logic_Generation_via_High-Level_Synthesis.md)
+
+    - [翻译: ](2024年08月05日/Evaluating_Large_Language_Models_for_Automatic_Register_Transfer_Logic_Generation_via_High-Level_Synthesis.md)
+
+- [LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory](2024年08月05日/LLM_economicus_Mapping_the_Behavioral_Biases_of_LLMs_via_Utility_Theory.md)
+
+    - [翻译: ](2024年08月05日/LLM_economicus_Mapping_the_Behavioral_Biases_of_LLMs_via_Utility_Theory.md)
+
+- [A Novel Hybrid Approach for Tornado Prediction in the United States: Kalman-Convolutional BiLSTM with Multi-Head Attention](2024年08月05日/A_Novel_Hybrid_Approach_for_Tornado_Prediction_in_the_United_States_Kalman-Convolutional_BiLSTM_with_Multi-Head_Attention.md)
+
+    - [翻译: ](2024年08月05日/A_Novel_Hybrid_Approach_for_Tornado_Prediction_in_the_United_States_Kalman-Convolutional_BiLSTM_with_Multi-Head_Attention.md)
+
+- [MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models](2024年08月05日/MMIU_Multimodal_Multi-image_Understanding_for_Evaluating_Large_Vision-Language_Models.md)
+
+    - [翻译: ](2024年08月05日/MMIU_Multimodal_Multi-image_Understanding_for_Evaluating_Large_Vision-Language_Models.md)
+
+- [Self-Taught Evaluators](2024年08月05日/Self-Taught_Evaluators.md)
+
+    - [翻译: ](2024年08月05日/Self-Taught_Evaluators.md)
+
+- [Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?](2024年08月05日/Can_Reinforcement_Learning_Unlock_the_Hidden_Dangers_in_Aligned_Large_Language_Models.md)
+
+    - [翻译: ](2024年08月05日/Can_Reinforcement_Learning_Unlock_the_Hidden_Dangers_in_Aligned_Large_Language_Models.md)
+
+- [SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models](2024年08月05日/SEAS_Self-Evolving_Adversarial_Safety_Optimization_for_Large_Language_Models.md)
+
+    - [翻译: ](2024年08月05日/SEAS_Self-Evolving_Adversarial_Safety_Optimization_for_Large_Language_Models.md)
+
+- [Progressively Selective Label Enhancement for Language Model Alignment](2024年08月05日/Progressively_Selective_Label_Enhancement_for_Language_Model_Alignment.md)
+
+    - [翻译: ](2024年08月05日/Progressively_Selective_Label_Enhancement_for_Language_Model_Alignment.md)
+
+- [Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization](2024年08月05日/Leveraging_the_Power_of_LLMs_A_Fine-Tuning_Approach_for_High-Quality_Aspect-Based_Summarization.md)
+
+    - [翻译: ](2024年08月05日/Leveraging_the_Power_of_LLMs_A_Fine-Tuning_Approach_for_High-Quality_Aspect-Based_Summarization.md)
+
+- [DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions](2024年08月05日/DanModCap_Designing_a_Danmaku_Moderation_Tool_for_Video-Sharing_Platforms_that_Leverages_Impact_Captions.md)
+
+    - [翻译: ](2024年08月05日/DanModCap_Designing_a_Danmaku_Moderation_Tool_for_Video-Sharing_Platforms_that_Leverages_Impact_Captions.md)
+
+- [Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information](2024年08月05日/Evaluating_and_Enhancing_LLMs_Agent_based_on_Theory_of_Mind_in_Guandan_A_Multi-Player_Cooperative_Game_under_Imperfect_Information.md)
+
+    - [翻译: ](2024年08月05日/Evaluating_and_Enhancing_LLMs_Agent_based_on_Theory_of_Mind_in_Guandan_A_Multi-Player_Cooperative_Game_under_Imperfect_Information.md)
+
+- [Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning](2024年08月05日/Generative_AI_as_a_Service_in_6G_Edge-Cloud_Generation_Task_Offloading_by_In-context_Learning.md)
+
+    - [翻译: ](2024年08月05日/Generative_AI_as_a_Service_in_6G_Edge-Cloud_Generation_Task_Offloading_by_In-context_Learning.md)
+
+- [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](2024年08月05日/RAG_Foundry_A_Framework_for_Enhancing_LLMs_for_Retrieval_Augmented_Generation.md)
+
+    - [翻译: ](2024年08月05日/RAG_Foundry_A_Framework_for_Enhancing_LLMs_for_Retrieval_Augmented_Generation.md)
+
+- [A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search](2024年08月05日/A_Real-Time_Adaptive_Multi-Stream_GPU_System_for_Online_Approximate_Nearest_Neighborhood_Search.md)
+
+    - [翻译: ](2024年08月05日/A_Real-Time_Adaptive_Multi-Stream_GPU_System_for_Online_Approximate_Nearest_Neighborhood_Search.md)
+
+- [Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions](2024年08月05日/Caution_for_the_Environment_Multimodal_Agents_are_Susceptible_to_Environmental_Distractions.md)
+
+    - [翻译: ](2024年08月05日/Caution_for_the_Environment_Multimodal_Agents_are_Susceptible_to_Environmental_Distractions.md)
+
+- [Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph](2024年08月05日/Towards_Coarse-grained_Visual_Language_Navigation_Task_Planning_Enhanced_by_Event_Knowledge_Graph.md)
+
+    - [翻译: ](2024年08月05日/Towards_Coarse-grained_Visual_Language_Navigation_Task_Planning_Enhanced_by_Event_Knowledge_Graph.md)
+
+- [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](2024年08月05日/From_LLMs_to_LLM-based_Agents_for_Software_Engineering_A_Survey_of_Current,_Challenges_and_Future.md)
+
+    - [翻译: ](2024年08月05日/From_LLMs_to_LLM-based_Agents_for_Software_Engineering_A_Survey_of_Current,_Challenges_and_Future.md)
+
+- [ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems](2024年08月05日/ReDel_A_Toolkit_for_LLM-Powered_Recursive_Multi-Agent_Systems.md)
+
+    - [翻译: ](2024年08月05日/ReDel_A_Toolkit_for_LLM-Powered_Recursive_Multi-Agent_Systems.md)
+
+- [SpecRover: Code Intent Extraction via LLMs](2024年08月05日/SpecRover_Code_Intent_Extraction_via_LLMs.md)
+
+    - [翻译: ](2024年08月05日/SpecRover_Code_Intent_Extraction_via_LLMs.md)
+
+- [Multistain Pretraining for Slide Representation Learning in Pathology](2024年08月05日/Multistain_Pretraining_for_Slide_Representation_Learning_in_Pathology.md)
+
+    - [翻译: ](2024年08月05日/Multistain_Pretraining_for_Slide_Representation_Learning_in_Pathology.md)
+
+- [REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models](2024年08月05日/REVISION_Rendering_Tools_Enable_Spatial_Fidelity_in_Vision-Language_Models.md)
+
+    - [翻译: ](2024年08月05日/REVISION_Rendering_Tools_Enable_Spatial_Fidelity_in_Vision-Language_Models.md)
+
+2024年08月04日
+
+- [User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance](2024年08月04日/User-in-the-loop_Evaluation_of_Multimodal_LLMs_for_Activity_Assistance.md)
+
+    - [翻译: ](2024年08月04日/User-in-the-loop_Evaluation_of_Multimodal_LLMs_for_Activity_Assistance.md)
+
+- [Constructing Mechanical Design Agent Based on Large Language Models](2024年08月04日/Constructing_Mechanical_Design_Agent_Based_on_Large_Language_Models.md)
+
+    - [翻译: ](2024年08月04日/Constructing_Mechanical_Design_Agent_Based_on_Large_Language_Models.md)
+
+- [Mini-Monkey: Alleviate the Sawtooth Effect by Multi-Scale Adaptive Cropping](2024年08月04日/Mini-Monkey_Alleviate_the_Sawtooth_Effect_by_Multi-Scale_Adaptive_Cropping.md)
+
+    - [翻译: ](2024年08月04日/Mini-Monkey_Alleviate_the_Sawtooth_Effect_by_Multi-Scale_Adaptive_Cropping.md)
+
+- [Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models](2024年08月04日/Self-Introspective_Decoding_Alleviating_Hallucinations_for_Large_Vision-Language_Models.md)
+
+    - [翻译: ](2024年08月04日/Self-Introspective_Decoding_Alleviating_Hallucinations_for_Large_Vision-Language_Models.md)
+
+2024年08月03日
+
+- [MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance](2024年08月03日/MALADE_Orchestration_of_LLM-powered_Agents_with_Retrieval_Augmented_Generation_for_Pharmacovigilance.md)
+
+    - [翻译: ](2024年08月03日/MALADE_Orchestration_of_LLM-powered_Agents_with_Retrieval_Augmented_Generation_for_Pharmacovigilance.md)
+
+- [MAO: A Framework for Process Model Generation with Multi-Agent Orchestration](2024年08月03日/MAO_A_Framework_for_Process_Model_Generation_with_Multi-Agent_Orchestration.md)
+
+    - [翻译: ](2024年08月03日/MAO_A_Framework_for_Process_Model_Generation_with_Multi-Agent_Orchestration.md)
+
+- [Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval](2024年08月03日/Re-Invoke_Tool_Invocation_Rewriting_for_Zero-Shot_Tool_Retrieval.md)
+
+    - [翻译: ](2024年08月03日/Re-Invoke_Tool_Invocation_Rewriting_for_Zero-Shot_Tool_Retrieval.md)
+
+- [MathLearner: A Large Language Model Agent Framework for Learning to Solve Mathematical Problems](2024年08月03日/MathLearner_A_Large_Language_Model_Agent_Framework_for_Learning_to_Solve_Mathematical_Problems.md)
+
+    - [翻译: ](2024年08月03日/MathLearner_A_Large_Language_Model_Agent_Framework_for_Learning_to_Solve_Mathematical_Problems.md)
+
+- [Building Living Software Systems with Generative & Agentic AI](2024年08月03日/Building_Living_Software_Systems_with_Generative_&_Agentic_AI.md)
+
+    - [翻译: ](2024年08月03日/Building_Living_Software_Systems_with_Generative_&_Agentic_AI.md)
+
+- [The Drama Machine: Simulating Character Development with LLM Agents](2024年08月03日/The_Drama_Machine_Simulating_Character_Development_with_LLM_Agents.md)
+
+    - [翻译: ](2024年08月03日/The_Drama_Machine_Simulating_Character_Development_with_LLM_Agents.md)
+
+- [Automated Phishing Detection Using URLs and Webpages](2024年08月03日/Automated_Phishing_Detection_Using_URLs_and_Webpages.md)
+
+    - [翻译: ](2024年08月03日/Automated_Phishing_Detection_Using_URLs_and_Webpages.md)
+
+- [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](2024年08月03日/MiniCPM-V_A_GPT-4V_Level_MLLM_on_Your_Phone.md)
+
+    - [翻译: ](2024年08月03日/MiniCPM-V_A_GPT-4V_Level_MLLM_on_Your_Phone.md)
+
+- [SynopGround: A Large-Scale Dataset for Multi-Paragraph Video Grounding from TV Dramas and Synopses](2024年08月03日/SynopGround_A_Large-Scale_Dataset_for_Multi-Paragraph_Video_Grounding_from_TV_Dramas_and_Synopses.md)
+
+    - [翻译: ](2024年08月03日/SynopGround_A_Large-Scale_Dataset_for_Multi-Paragraph_Video_Grounding_from_TV_Dramas_and_Synopses.md)
+
 2024年08月02日
 
 - [DebateQA: Evaluating Question Answering on Debatable Knowledge](2024年08月02日/DebateQA_Evaluating_Question_Answering_on_Debatable_Knowledge.md)
@@ -141,6 +433,14 @@
 - [Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs](2024年08月02日/Tensor_Train_Low-rank_Approximation_(TT-LoRA)_Democratizing_AI_with_Accelerated_LLMs.md)
 
     - [翻译: TT-LoRA：通过加速 LLM 普及人工智能](2024年08月02日/Tensor_Train_Low-rank_Approximation_(TT-LoRA)_Democratizing_AI_with_Accelerated_LLMs.md)
+
+- [OpenLogParser: Unsupervised Parsing with Open-Source Large Language Models](2024年08月02日/OpenLogParser_Unsupervised_Parsing_with_Open-Source_Large_Language_Models.md)
+
+    - [翻译: ](2024年08月02日/OpenLogParser_Unsupervised_Parsing_with_Open-Source_Large_Language_Models.md)
+
+- [Self-Emotion Blended Dialogue Generation in Social Simulation Agents](2024年08月02日/Self-Emotion_Blended_Dialogue_Generation_in_Social_Simulation_Agents.md)
+
+    - [翻译: ](2024年08月02日/Self-Emotion_Blended_Dialogue_Generation_in_Social_Simulation_Agents.md)
 
 2024年08月01日
 
