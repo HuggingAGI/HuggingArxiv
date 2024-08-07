@@ -2,23 +2,23 @@
 
 2024年01月24日
 
-- [TrojanPuzzle: Covertly Poisoning Code-Suggestion Models](2024年01月24日/TrojanPuzzle_Covertly_Poisoning_Code-Suggestion_Models.md)
-
-    - [翻译: TrojanPuzzle：潜伏毒化代码推荐模型](2024年01月24日/TrojanPuzzle_Covertly_Poisoning_Code-Suggestion_Models.md)
-
 - ["Medium" LMs of Code in the Era of LLMs: Lessons From StackOverflow](2024年01月24日/Medium_LMs_of_Code_in_the_Era_of_LLMs_Lessons_From_StackOverflow.md)
 
     - [翻译: 在大型语言模型（LLMs）盛行的时代，我们探讨了“中等规模”的代码语言模型（"Medium" LMs of Code），并从 StackOverflow 的经验中汲取教训。](2024年01月24日/Medium_LMs_of_Code_in_the_Era_of_LLMs_Lessons_From_StackOverflow.md)
 
+- [TrojanPuzzle: Covertly Poisoning Code-Suggestion Models](2024年01月24日/TrojanPuzzle_Covertly_Poisoning_Code-Suggestion_Models.md)
+
+    - [翻译: TrojanPuzzle：潜伏毒化代码推荐模型](2024年01月24日/TrojanPuzzle_Covertly_Poisoning_Code-Suggestion_Models.md)
+
 2024年01月23日
-
-- [Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study](2024年01月23日/Quality_of_Answers_of_Generative_Large_Language_Models_vs_Peer_Patients_for_Interpreting_Lab_Test_Results_for_Lay_Patients_Evaluation_Study.md)
-
-    - [翻译: 生成式大型语言模型与病友在解读普通患者实验室检测结果时答案质量的比较：一项评估研究](2024年01月23日/Quality_of_Answers_of_Generative_Large_Language_Models_vs_Peer_Patients_for_Interpreting_Lab_Test_Results_for_Lay_Patients_Evaluation_Study.md)
 
 - [Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](2024年01月23日/Meta-Prompting_Enhancing_Language_Models_with_Task-Agnostic_Scaffolding.md)
 
     - [翻译: 元提示：为语言模型注入通用性支撑，提升其性能](2024年01月23日/Meta-Prompting_Enhancing_Language_Models_with_Task-Agnostic_Scaffolding.md)
+
+- [Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study](2024年01月23日/Quality_of_Answers_of_Generative_Large_Language_Models_vs_Peer_Patients_for_Interpreting_Lab_Test_Results_for_Lay_Patients_Evaluation_Study.md)
+
+    - [翻译: 生成式大型语言模型与病友在解读普通患者实验室检测结果时答案质量的比较：一项评估研究](2024年01月23日/Quality_of_Answers_of_Generative_Large_Language_Models_vs_Peer_Patients_for_Interpreting_Lab_Test_Results_for_Lay_Patients_Evaluation_Study.md)
 
 2024年01月22日
 

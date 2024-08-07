@@ -2,23 +2,23 @@
 
 2023年08月30日
 
-- [SCOTT: Self-Consistent Chain-of-Thought Distillation](2023年08月30日/SCOTT_Self-Consistent_Chain-of-Thought_Distillation.md)
-
-    - [翻译: SCOTT：自洽链式思维蒸馏法](2023年08月30日/SCOTT_Self-Consistent_Chain-of-Thought_Distillation.md)
-
 - [Large Language Models as Data Preprocessors](2023年08月30日/Large_Language_Models_as_Data_Preprocessors.md)
 
     - [翻译: 语言巨擘，数据预处理的新利器](2023年08月30日/Large_Language_Models_as_Data_Preprocessors.md)
 
+- [SCOTT: Self-Consistent Chain-of-Thought Distillation](2023年08月30日/SCOTT_Self-Consistent_Chain-of-Thought_Distillation.md)
+
+    - [翻译: SCOTT：自洽链式思维蒸馏法](2023年08月30日/SCOTT_Self-Consistent_Chain-of-Thought_Distillation.md)
+
 2023年08月23日
-
-- [Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models](2023年08月23日/Tryage_Real-time,_intelligent_Routing_of_User_Prompts_to_Large_Language_Models.md)
-
-    - [翻译: Tryage：实时智能地将用户指令分发至大型语言模型](2023年08月23日/Tryage_Real-time,_intelligent_Routing_of_User_Prompts_to_Large_Language_Models.md)
 
 - [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](2023年08月23日/Chain-of-Thought_Prompt_Distillation_for_Multimodal_Named_Entity_Recognition_and_Multimodal_Relation_Extraction.md)
 
     - [翻译: 多模态实体与关系抽取的思维链提示蒸馏法](2023年08月23日/Chain-of-Thought_Prompt_Distillation_for_Multimodal_Named_Entity_Recognition_and_Multimodal_Relation_Extraction.md)
+
+- [Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models](2023年08月23日/Tryage_Real-time,_intelligent_Routing_of_User_Prompts_to_Large_Language_Models.md)
+
+    - [翻译: Tryage：实时智能地将用户指令分发至大型语言模型](2023年08月23日/Tryage_Real-time,_intelligent_Routing_of_User_Prompts_to_Large_Language_Models.md)
 
 2023年08月20日
 
