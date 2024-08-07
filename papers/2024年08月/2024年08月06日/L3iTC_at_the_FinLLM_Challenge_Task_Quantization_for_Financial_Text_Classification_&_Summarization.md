@@ -12,4 +12,6 @@
 
 > This article details our participation (L3iTC) in the FinLLM Challenge Task 2024, focusing on two key areas: Task 1, financial text classification, and Task 2, financial text summarization. To address these challenges, we fine-tuned several large language models (LLMs) to optimize performance for each task. Specifically, we used 4-bit quantization and LoRA to determine which layers of the LLMs should be trained at a lower precision. This approach not only accelerated the fine-tuning process on the training data provided by the organizers but also enabled us to run the models on low GPU memory. Our fine-tuned models achieved third place for the financial classification task with an F1-score of 0.7543 and secured sixth place in the financial summarization task on the official test datasets.
 
+![L3iTC 在 FinLLM 挑战中：量化技术助力金融文本分类与摘要](../../../paper_images/2408.03033/x1.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03033)

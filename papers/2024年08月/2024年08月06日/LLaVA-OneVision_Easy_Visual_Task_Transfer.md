@@ -12,4 +12,14 @@
 
 > We present LLaVA-OneVision, a family of open large multimodal models (LMMs) developed by consolidating our insights into data, models, and visual representations in the LLaVA-NeXT blog series. Our experimental results demonstrate that LLaVA-OneVision is the first single model that can simultaneously push the performance boundaries of open LMMs in three important computer vision scenarios: single-image, multi-image, and video scenarios. Importantly, the design of LLaVA-OneVision allows strong transfer learning across different modalities/scenarios, yielding new emerging capabilities. In particular, strong video understanding and cross-scenario capabilities are demonstrated through task transfer from images to videos.
 
+![LLaVA-OneVision：轻松实现视觉任务的转移](../../../paper_images/2408.03326/x1.png)
+
+![LLaVA-OneVision：轻松实现视觉任务的转移](../../../paper_images/2408.03326/x2.png)
+
+![LLaVA-OneVision：轻松实现视觉任务的转移](../../../paper_images/2408.03326/x3.png)
+
+![LLaVA-OneVision：轻松实现视觉任务的转移](../../../paper_images/2408.03326/x4.png)
+
+![LLaVA-OneVision：轻松实现视觉任务的转移](../../../paper_images/2408.03326/x5.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03326)

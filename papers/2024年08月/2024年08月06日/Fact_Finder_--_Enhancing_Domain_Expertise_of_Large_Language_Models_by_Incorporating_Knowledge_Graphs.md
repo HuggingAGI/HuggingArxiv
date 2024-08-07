@@ -12,4 +12,20 @@
 
 > Recent advancements in Large Language Models (LLMs) have showcased their proficiency in answering natural language queries. However, their effectiveness is hindered by limited domain-specific knowledge, raising concerns about the reliability of their responses. We introduce a hybrid system that augments LLMs with domain-specific knowledge graphs (KGs), thereby aiming to enhance factual correctness using a KG-based retrieval approach. We focus on a medical KG to demonstrate our methodology, which includes (1) pre-processing, (2) Cypher query generation, (3) Cypher query processing, (4) KG retrieval, and (5) LLM-enhanced response generation. We evaluate our system on a curated dataset of 69 samples, achieving a precision of 78\% in retrieving correct KG nodes. Our findings indicate that the hybrid system surpasses a standalone LLM in accuracy and completeness, as verified by an LLM-as-a-Judge evaluation method. This positions the system as a promising tool for applications that demand factual correctness and completeness, such as target identification -- a critical process in pinpointing biological entities for disease treatment or crop enhancement. Moreover, its intuitive search interface and ability to provide accurate responses within seconds make it well-suited for time-sensitive, precision-focused research contexts. We publish the source code together with the dataset and the prompt templates used.
 
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/x1.png)
+
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/screenshot_graph.png)
+
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/screenshot_answers.png)
+
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/screenshot_drugs.png)
+
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/screenshot_genes.png)
+
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/screenshot_evidence.png)
+
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/screenshot_demo.png)
+
+![Fact Finder：融合知识图谱，提升大型语言模型的领域专长](../../../paper_images/2408.03010/screenshot_demo_2.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03010)

@@ -12,4 +12,14 @@
 
 > Large language models are ubiquitous in natural language processing because they can adapt to new tasks without retraining. However, their sheer scale and complexity present unique challenges and opportunities, prompting researchers and practitioners to explore novel model training, optimization, and deployment methods. This literature review focuses on various techniques for reducing resource requirements and compressing large language models, including quantization, pruning, knowledge distillation, and architectural optimizations. The primary objective is to explore each method in-depth and highlight its unique challenges and practical applications. The discussed methods are categorized into a taxonomy that presents an overview of the optimization landscape and helps navigate it to understand the research trajectory better.
 
+![大型语言模型的推理优化涉及效果、挑战及实际考量。](../../../paper_images/2408.03130/taxonomy.drawio.png)
+
+![大型语言模型的推理优化涉及效果、挑战及实际考量。](../../../paper_images/2408.03130/tf32-Mantissa-chart-hi-res-FINAL.png)
+
+![大型语言模型的推理优化涉及效果、挑战及实际考量。](../../../paper_images/2408.03130/quant_sym.png)
+
+![大型语言模型的推理优化涉及效果、挑战及实际考量。](../../../paper_images/2408.03130/quant_asym.png)
+
+![大型语言模型的推理优化涉及效果、挑战及实际考量。](../../../paper_images/2408.03130/speculative_decoding.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03130)
