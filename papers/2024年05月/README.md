@@ -126,10 +126,6 @@
 
     - [翻译: 自动驾驶场景中的上下文学习（ICL），为智能驾驶系统提供了新的学习范式。](2024年05月07日/In-context_Learning_for_Automated_Driving_Scenarios.md)
 
-- [Iterative Experience Refinement of Software-Developing Agents](2024年05月07日/Iterative_Experience_Refinement_of_Software-Developing_Agents.md)
-
-    - [翻译: 软件开发代理通过迭代精炼经验在](2024年05月07日/Iterative_Experience_Refinement_of_Software-Developing_Agents.md)
-
 - [Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application](2024年05月07日/Knowledge_Adaptation_from_Large_Language_Model_to_Recommendation_for_Practical_Industrial_Application.md)
 
     - [翻译: 大型语言模型知识迁移至推荐系统：工业应用实践之路](2024年05月07日/Knowledge_Adaptation_from_Large_Language_Model_to_Recommendation_for_Practical_Industrial_Application.md)

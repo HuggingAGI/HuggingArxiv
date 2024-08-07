@@ -16,12 +16,6 @@
 
     - [翻译: 微调之后，如何确保大型语言模型保持其原有的校准状态？关键在于巧妙设计的提示模板。](2024年02月28日/Keeping_LLMs_Aligned_After_Fine-tuning_The_Crucial_Role_of_Prompt_Templates.md)
 
-2024年02月27日
-
-- [Language Agents as Optimizable Graphs](2024年02月27日/Language_Agents_as_Optimizable_Graphs.md)
-
-    - [翻译: 语言代理：图形优化的艺术](2024年02月27日/Language_Agents_as_Optimizable_Graphs.md)
-
 2024年02月26日
 
 - [Efficient Tool Use with Chain-of-Abstraction Reasoning](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
@@ -32,23 +26,11 @@
 
     - [翻译: 探究大型语言模型（LLM）代理协作机制的社会心理学视角](2024年02月26日/Exploring_Collaboration_Mechanisms_for_LLM_Agents_A_Social_Psychology_View.md)
 
-- [Large Language Model for Participatory Urban Planning](2024年02月26日/Large_Language_Model_for_Participatory_Urban_Planning.md)
-
-    - [翻译: 大型语言模型助力参与式城市规划](2024年02月26日/Large_Language_Model_for_Participatory_Urban_Planning.md)
-
 - [Let Models Speak Ciphers: Multiagent Debate through Embeddings](2024年02月26日/Let_Models_Speak_Ciphers_Multiagent_Debate_through_Embeddings.md)
 
     - [翻译: 让模型解码密语：借助嵌入技术开展多主体辩论。](2024年02月26日/Let_Models_Speak_Ciphers_Multiagent_Debate_through_Embeddings.md)
 
-- [Navigating Complexity: Orchestrated Problem Solving with Multi-Agent LLMs](2024年02月26日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)
-
-    - [翻译: 驾驭复杂性：协同多智能体大型语言模型（LLMs）的复杂问题解决策略。](2024年02月26日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)
-
 2024年02月23日
-
-- [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
-
-    - [翻译: AgentLite：一款轻量级库，旨在构建并提升面向任务的LLM代理系统。](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
 
 - [Mathematical Language Models: A Survey](2024年02月23日/Mathematical_Language_Models_A_Survey.md)
 
@@ -74,17 +56,9 @@
 
     - [翻译: 通过强化学习训练的语言代理，能够在狼人杀这一策略游戏中发挥出色的作用。](2024年02月19日/Language_Agents_with_Reinforcement_Learning_for_Strategic_Play_in_the_Werewolf_Game.md)
 
-- [LLM Agents for Psychology: A Study on Gamified Assessments](2024年02月19日/LLM_Agents_for_Psychology_A_Study_on_Gamified_Assessments.md)
-
-    - [翻译: 探究心理领域中的 LLM 代理：游戏化评估的深入研究](2024年02月19日/LLM_Agents_for_Psychology_A_Study_on_Gamified_Assessments.md)
-
 - [Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
 
     - [翻译: 元排名机制表明，即便是能力相对较弱的语言模型，在进行单一响应判断时也表现出了足够的能力。](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
-
-- [Shall We Talk: Exploring Spontaneous Collaborations of Competing LLM Agents](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
-
-    - [翻译: 《我们来谈谈吧：探究竞争性大型语言模型间的自发协作》](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
 
 2024年02月18日
 
@@ -95,12 +69,6 @@
 - [SPML: A DSL for Defending Language Models Against Prompt Attacks](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
 
     - [翻译: SPML：一种专为抵御提示攻击而设计的领域特定语言，用于保护语言模型的安全。](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
-
-2024年02月17日
-
-- [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](2024年02月17日/TrustAgent_Towards_Safe_and_Trustworthy_LLM-based_Agents_through_Agent_Constitution.md)
-
-    - [翻译: TrustAgent：致力于构建基于大型语言模型的安全可信代理，通过制定代理宪法来实现这一目标。](2024年02月17日/TrustAgent_Towards_Safe_and_Trustworthy_LLM-based_Agents_through_Agent_Constitution.md)
 
 2024年02月15日
 
@@ -116,10 +84,6 @@
 
 2024年02月13日
 
-- [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](2024年02月13日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)
-
-    - [翻译: Agent Smith：仅需一张图片，便能迅速让百万计的多模态大型语言模型（LLM）代理陷入崩溃，其速度呈指数级增长。](2024年02月13日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)
-
 - [Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy](2024年02月13日/Combining_Insights_From_Multiple_Large_Language_Models_Improves_Diagnostic_Accuracy.md)
 
     - [翻译: 融合多个大型语言模型的洞见，能够显著提升诊断的精确度。](2024年02月13日/Combining_Insights_From_Multiple_Large_Language_Models_Improves_Diagnostic_Accuracy.md)
@@ -133,12 +97,6 @@
 - [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
 
     - [翻译: PoisonedRAG：大型语言模型检索增强生成遭遇知识投毒攻击](2024年02月12日/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md)
-
-2024年02月10日
-
-- [OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning](2024年02月10日/OpenFedLLM_Training_Large_Language_Models_on_Decentralized_Private_Data_via_Federated_Learning.md)
-
-    - [翻译: OpenFedLLM：采用联邦学习技术，实现在分散的私密数据上对大型语言模型的训练。](2024年02月10日/OpenFedLLM_Training_Large_Language_Models_on_Decentralized_Private_Data_via_Federated_Learning.md)
 
 2024年02月09日
 
@@ -165,16 +123,6 @@
 - [MR-GSM8K: A Meta-Reasoning Revolution in Large Language Model Evaluation](2024年02月06日/MR-GSM8K_A_Meta-Reasoning_Revolution_in_Large_Language_Model_Evaluation.md)
 
     - [翻译: MR-GSM8K：引领大型语言模型评估领域的元推理革新。](2024年02月06日/MR-GSM8K_A_Meta-Reasoning_Revolution_in_Large_Language_Model_Evaluation.md)
-
-2024年02月05日
-
-- [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](2024年02月05日/LLM_Agents_in_Interaction_Measuring_Personality_Consistency_and_Linguistic_Alignment_in_Interacting_Populations_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型（LLM）的交互代理：探究在互动中的LLM群体内的个性连贯性与语言协调性](2024年02月05日/LLM_Agents_in_Interaction_Measuring_Personality_Consistency_and_Linguistic_Alignment_in_Interacting_Populations_of_Large_Language_Models.md)
-
-- [LLM Multi-Agent Systems: Challenges and Open Problems](2024年02月05日/LLM_Multi-Agent_Systems_Challenges_and_Open_Problems.md)
-
-    - [翻译: 在大型语言模型的多代理系统中，我们面临着一系列挑战和尚未解决的问题。](2024年02月05日/LLM_Multi-Agent_Systems_Challenges_and_Open_Problems.md)
 
 2024年02月03日
 

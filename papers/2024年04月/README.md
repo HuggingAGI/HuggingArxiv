@@ -628,10 +628,6 @@
 
 2024年04月27日
 
-- [Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification](2024年04月27日/Advancing_Healthcare_Automation_Multi-Agent_Systems_for_Medical_Necessity_Justification.md)
-
-    - [翻译: 提升医疗自动化水平：多智能体系统在医疗需求论证中的应用。](2024年04月27日/Advancing_Healthcare_Automation_Multi-Agent_Systems_for_Medical_Necessity_Justification.md)
-
 - [Automating Customer Needs Analysis: A Comparative Study of Large Language Models in the Travel Industry](2024年04月27日/Automating_Customer_Needs_Analysis_A_Comparative_Study_of_Large_Language_Models_in_the_Travel_Industry.md)
 
     - [翻译: 探索旅游业中的大型语言模型：自动化客户需求分析的比较研究](2024年04月27日/Automating_Customer_Needs_Analysis_A_Comparative_Study_of_Large_Language_Models_in_the_Travel_Industry.md)
@@ -1110,10 +1106,6 @@
 
     - [翻译: Chat2Scenario：利用大型语言模型从数据集中提炼场景](2024年04月24日/Chat2Scenario_Scenario_Extraction_From_Dataset_Through_Utilization_of_Large_Language_Model.md)
 
-- [CleanAgent: Automating Data Standardization with LLM-based Agents](2024年04月24日/CleanAgent_Automating_Data_Standardization_with_LLM-based_Agents.md)
-
-    - [翻译: CleanAgent：利用基于大型语言模型的智能代理，实现数据标准化流程的自动化。](2024年04月24日/CleanAgent_Automating_Data_Standardization_with_LLM-based_Agents.md)
-
 - [Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement](2024年04月24日/Delay-Aware_Multi-Agent_Reinforcement_Learning_for_Cooperative_Adaptive_Cruise_Control_with_Model-based_Stability_Enhancement.md)
 
     - [翻译: 本文介绍了一种新颖的多智能体强化学习方法，旨在实现具有模型基础稳定性增强功能的合作自适应巡航控制（CACC）。该方法特别关注了通信延迟对系统性能的影响，通过智能体之间的协同学习，优化了在存在延迟情况下的控制策略，从而提高了整体系统的稳定性和响应速度。](2024年04月24日/Delay-Aware_Multi-Agent_Reinforcement_Learning_for_Cooperative_Adaptive_Cruise_Control_with_Model-based_Stability_Enhancement.md)
@@ -1578,10 +1570,6 @@
 
     - [翻译: iRAG：一种用于视频的渐进式检索增强生成系统](2024年04月18日/iRAG_An_Incremental_Retrieval_Augmented_Generation_System_for_Videos.md)
 
-- [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](2024年04月18日/Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.md)
-
-    - [翻译: 大型语言模型驱动的多智能体研究：进展与挑战综述](2024年04月18日/Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.md)
-
 - [mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture](2024年04月18日/mABC_multi-Agent_Blockchain-Inspired_Collaboration_for_root_cause_analysis_in_micro-services_architecture.md)
 
     - [翻译: mABC：一种受区块链启发的多代理协作机制，专为微服务架构中的根本原因分析而设计。](2024年04月18日/mABC_multi-Agent_Blockchain-Inspired_Collaboration_for_root_cause_analysis_in_micro-services_architecture.md)
@@ -1762,10 +1750,6 @@
 
     - [翻译: LlamaTouch：一个忠实且可扩展的移动用户界面自动化任务评估测试平台。](2024年04月12日/LlamaTouch_A_Faithful_and_Scalable_Testbed_for_Mobile_UI_Automation_Task_Evaluation.md)
 
-- [LLMSat: A Large Language Model-Based Goal-Oriented Agent for Autonomous Space Exploration](2024年04月12日/LLMSat_A_Large_Language_Model-Based_Goal-Oriented_Agent_for_Autonomous_Space_Exploration.md)
-
-    - [翻译: LLMSat，一款基于大型语言模型的智能代理，专为自主太空探索任务而设计。](2024年04月12日/LLMSat_A_Large_Language_Model-Based_Goal-Oriented_Agent_for_Autonomous_Space_Exploration.md)
-
 - [Strategic Interactions between Large Language Models-based Agents in Beauty Contests](2024年04月12日/Strategic_Interactions_between_Large_Language_Models-based_Agents_in_Beauty_Contests.md)
 
     - [翻译: 在选美比赛中，基于大型语言模型的智能体之间的策略互动。](2024年04月12日/Strategic_Interactions_between_Large_Language_Models-based_Agents_in_Beauty_Contests.md)
@@ -1802,10 +1786,6 @@
 
     - [翻译: 生物医学领域的大型语言模型：专注于临床命名实体识别的深入研究](2024年04月10日/LLMs_in_Biomedicine_A_study_on_clinical_Named_Entity_Recognition.md)
 
-- [WESE: Weak Exploration to Strong Exploitation for LLM Agents](2024年04月10日/WESE_Weak_Exploration_to_Strong_Exploitation_for_LLM_Agents.md)
-
-    - [翻译: WESE：从初步探索到深度利用——为大型语言模型代理量身定制的策略](2024年04月10日/WESE_Weak_Exploration_to_Strong_Exploitation_for_LLM_Agents.md)
-
 2024年04月09日
 
 - [Apollonion: Profile-centric Dialog Agent](2024年04月09日/Apollonion_Profile-centric_Dialog_Agent.md)
@@ -1815,12 +1795,6 @@
 - [GUIDE: Graphical User Interface Data for Execution](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
 
     - [翻译: GUIDE：图形用户界面数据执行指南](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
-
-2024年04月08日
-
-- [360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System](2024年04月08日/360°REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)
-
-    - [翻译: 360°REA：迈向为多智能体系统打造可复用的经验累积，辅以全方位的评估。](2024年04月08日/360°REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)
 
 2024年04月07日
 
@@ -1839,10 +1813,6 @@
     - [翻译: 利用大型语言模型对软件需求进行优先级排序](2024年04月05日/Prioritizing_Software_Requirements_Using_Large_Language_Models.md)
 
 2024年04月04日
-
-- [Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
-
-    - [翻译: Elicitron：一款基于大型语言模型（LLM）的代理仿真框架，专为设计需求的挖掘而设计。](2024年04月04日/Elicitron_An_LLM_Agent-Based_Simulation_Framework_for_Design_Requirements_Elicitation.md)
 
 - [GP-MoLFormer: A Foundation Model For Molecular Generation](2024年04月04日/GP-MoLFormer_A_Foundation_Model_For_Molecular_Generation.md)
 
@@ -1867,10 +1837,6 @@
 - [METAL: Towards Multilingual Meta-Evaluation](2024年04月02日/METAL_Towards_Multilingual_Meta-Evaluation.md)
 
     - [翻译: METAL：探索多语言元评估的新境界](2024年04月02日/METAL_Towards_Multilingual_Meta-Evaluation.md)
-
-- [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](2024年04月02日/Self-Organized_Agents_A_LLM_Multi-Agent_Framework_toward_Ultra_Large-Scale_Code_Generation_and_Optimization.md)
-
-    - [翻译: 自组织智能体：构建超大规模代码生成与优化的大型语言模型多智能体框架。](2024年04月02日/Self-Organized_Agents_A_LLM_Multi-Agent_Framework_toward_Ultra_Large-Scale_Code_Generation_and_Optimization.md)
 
 2024年04月01日
 
