@@ -8,7 +8,7 @@
 
 # 摘要
 
-> 本研究旨在概述 LLMs 中已测试的实用能力及其测试方法。我们首先探讨了语用学领域的范围，并建议将其分为话语语用学和交互语用学。简要介绍了这两个子领域的现象及传统分析方法。随后，我们将这些多样化的现象和方法作为研究 LLMs 中话语语用学和交互语用学的起点。
+> 本研究旨在概述 LLM 中已测试的实用能力及其测试方法。我们首先探讨了语用学的领域范围，并建议将其分为话语语用学和交互语用学。简要介绍了这两个子领域的现象及其传统分析方法。随后，我们将这些多样化的现象和方法作为研究 LLM 中话语语用学和交互语用学的起点。
 
 > In this work, we want to give an overview on which pragmatic abilities have been tested in LLMs so far and how these tests have been carried out. To do this, we first discuss the scope of the field of pragmatics and suggest a subdivision into discourse pragmatics and interactional pragmatics. We give a non-exhaustive overview of the phenomena of those two subdomains and the methods traditionally used to analyze them. We subsequently consider the resulting heterogeneous set of phenomena and methods as a starting point for our survey of work on discourse pragmatics and interactional pragmatics in the context of LLMs.
 
