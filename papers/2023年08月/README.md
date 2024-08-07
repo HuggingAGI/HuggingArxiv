@@ -2,13 +2,13 @@
 
 2023年08月30日
 
-- [Large Language Models as Data Preprocessors](2023年08月30日/Large_Language_Models_as_Data_Preprocessors.md)
-
-    - [翻译: 语言巨擘，数据预处理的新利器](2023年08月30日/Large_Language_Models_as_Data_Preprocessors.md)
-
 - [SCOTT: Self-Consistent Chain-of-Thought Distillation](2023年08月30日/SCOTT_Self-Consistent_Chain-of-Thought_Distillation.md)
 
     - [翻译: SCOTT：自洽链式思维蒸馏法](2023年08月30日/SCOTT_Self-Consistent_Chain-of-Thought_Distillation.md)
+
+- [Large Language Models as Data Preprocessors](2023年08月30日/Large_Language_Models_as_Data_Preprocessors.md)
+
+    - [翻译: 语言巨擘，数据预处理的新利器](2023年08月30日/Large_Language_Models_as_Data_Preprocessors.md)
 
 2023年08月23日
 

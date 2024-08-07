@@ -24,10 +24,6 @@
 
 2024年02月26日
 
-- [Large Language Model for Participatory Urban Planning](2024年02月26日/Large_Language_Model_for_Participatory_Urban_Planning.md)
-
-    - [翻译: 大型语言模型助力参与式城市规划](2024年02月26日/Large_Language_Model_for_Participatory_Urban_Planning.md)
-
 - [Navigating Complexity: Orchestrated Problem Solving with Multi-Agent LLMs](2024年02月26日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)
 
     - [翻译: 驾驭复杂性：协同多智能体大型语言模型（LLMs）的复杂问题解决策略。](2024年02月26日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)
@@ -36,23 +32,23 @@
 
     - [翻译: 让模型解码密语：借助嵌入技术开展多主体辩论。](2024年02月26日/Let_Models_Speak_Ciphers_Multiagent_Debate_through_Embeddings.md)
 
-- [Efficient Tool Use with Chain-of-Abstraction Reasoning](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
+- [Large Language Model for Participatory Urban Planning](2024年02月26日/Large_Language_Model_for_Participatory_Urban_Planning.md)
 
-    - [翻译: 通过抽象层次链推理实现高效工具运用](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
+    - [翻译: 大型语言模型助力参与式城市规划](2024年02月26日/Large_Language_Model_for_Participatory_Urban_Planning.md)
 
 - [Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View](2024年02月26日/Exploring_Collaboration_Mechanisms_for_LLM_Agents_A_Social_Psychology_View.md)
 
     - [翻译: 探究大型语言模型（LLM）代理协作机制的社会心理学视角](2024年02月26日/Exploring_Collaboration_Mechanisms_for_LLM_Agents_A_Social_Psychology_View.md)
+
+- [Efficient Tool Use with Chain-of-Abstraction Reasoning](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
+
+    - [翻译: 通过抽象层次链推理实现高效工具运用](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
 
 2024年02月23日
 
 - [Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts](2024年02月23日/Prompting_LLMs_to_Compose_Meta-Review_Drafts_from_Peer-Review_Narratives_of_Scholarly_Manuscripts.md)
 
     - [翻译: 引导大型语言模型（LLM）基于学术手稿的同行评审叙述，撰写出元评论的初稿。](2024年02月23日/Prompting_LLMs_to_Compose_Meta-Review_Drafts_from_Peer-Review_Narratives_of_Scholarly_Manuscripts.md)
-
-- [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
-
-    - [翻译: AgentLite：一款轻量级库，旨在构建并提升面向任务的LLM代理系统。](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
 
 - [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](2024年02月23日/MetaTool_Benchmark_for_Large_Language_Models_Deciding_Whether_to_Use_Tools_and_Which_to_Use.md)
 
@@ -62,6 +58,10 @@
 
     - [翻译: 数学语言模型综览：探索与洞察](2024年02月23日/Mathematical_Language_Models_A_Survey.md)
 
+- [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
+
+    - [翻译: AgentLite：一款轻量级库，旨在构建并提升面向任务的LLM代理系统。](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
+
 2024年02月21日
 
 - [ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs](2024年02月21日/ReConcile_Round-Table_Conference_Improves_Reasoning_via_Consensus_among_Diverse_LLMs.md)
@@ -69,6 +69,14 @@
     - [翻译: ReConcile：通过汇聚多样化的大型语言模型之间的共识，圆桌会议式的讨论显著提升了推理过程的质量。](2024年02月21日/ReConcile_Round-Table_Conference_Improves_Reasoning_via_Consensus_among_Diverse_LLMs.md)
 
 2024年02月19日
+
+- [Shall We Talk: Exploring Spontaneous Collaborations of Competing LLM Agents](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
+
+    - [翻译: 《我们来谈谈吧：探究竞争性大型语言模型间的自发协作》](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
+
+- [Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
+
+    - [翻译: 元排名机制表明，即便是能力相对较弱的语言模型，在进行单一响应判断时也表现出了足够的能力。](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
 
 - [LLM Agents for Psychology: A Study on Gamified Assessments](2024年02月19日/LLM_Agents_for_Psychology_A_Study_on_Gamified_Assessments.md)
 
@@ -78,23 +86,15 @@
 
     - [翻译: 通过强化学习训练的语言代理，能够在狼人杀这一策略游戏中发挥出色的作用。](2024年02月19日/Language_Agents_with_Reinforcement_Learning_for_Strategic_Play_in_the_Werewolf_Game.md)
 
-- [Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
-
-    - [翻译: 元排名机制表明，即便是能力相对较弱的语言模型，在进行单一响应判断时也表现出了足够的能力。](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
-
-- [Shall We Talk: Exploring Spontaneous Collaborations of Competing LLM Agents](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
-
-    - [翻译: 《我们来谈谈吧：探究竞争性大型语言模型间的自发协作》](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
-
 2024年02月18日
-
-- [Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network](2024年02月18日/Large_Language_Model-driven_Meta-structure_Discovery_in_Heterogeneous_Information_Network.md)
-
-    - [翻译: 利用大型语言模型探索异构信息网络中的元结构](2024年02月18日/Large_Language_Model-driven_Meta-structure_Discovery_in_Heterogeneous_Information_Network.md)
 
 - [SPML: A DSL for Defending Language Models Against Prompt Attacks](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
 
     - [翻译: SPML：一种专为抵御提示攻击而设计的领域特定语言，用于保护语言模型的安全。](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
+
+- [Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network](2024年02月18日/Large_Language_Model-driven_Meta-structure_Discovery_in_Heterogeneous_Information_Network.md)
+
+    - [翻译: 利用大型语言模型探索异构信息网络中的元结构](2024年02月18日/Large_Language_Model-driven_Meta-structure_Discovery_in_Heterogeneous_Information_Network.md)
 
 2024年02月17日
 
@@ -142,13 +142,13 @@
 
 2024年02月09日
 
-- [Factuality of Large Language Models in the Year 2024](2024年02月09日/Factuality_of_Large_Language_Models_in_the_Year_2024.md)
-
-    - [翻译: 2024年大型语言模型的信息准确性](2024年02月09日/Factuality_of_Large_Language_Models_in_the_Year_2024.md)
-
 - [Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper](2024年02月09日/Sentinels_of_the_Stream_Unleashing_Large_Language_Models_for_Dynamic_Packet_Classification_in_Software_Defined_Networks_--_Position_Paper.md)
 
     - [翻译: 《流之守望：利用大型语言模型实现软件定义网络中的动态数据包分类》——立场论文](2024年02月09日/Sentinels_of_the_Stream_Unleashing_Large_Language_Models_for_Dynamic_Packet_Classification_in_Software_Defined_Networks_--_Position_Paper.md)
+
+- [Factuality of Large Language Models in the Year 2024](2024年02月09日/Factuality_of_Large_Language_Models_in_the_Year_2024.md)
+
+    - [翻译: 2024年大型语言模型的信息准确性](2024年02月09日/Factuality_of_Large_Language_Models_in_the_Year_2024.md)
 
 2024年02月08日
 
@@ -168,13 +168,13 @@
 
 2024年02月05日
 
-- [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](2024年02月05日/LLM_Agents_in_Interaction_Measuring_Personality_Consistency_and_Linguistic_Alignment_in_Interacting_Populations_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型（LLM）的交互代理：探究在互动中的LLM群体内的个性连贯性与语言协调性](2024年02月05日/LLM_Agents_in_Interaction_Measuring_Personality_Consistency_and_Linguistic_Alignment_in_Interacting_Populations_of_Large_Language_Models.md)
-
 - [LLM Multi-Agent Systems: Challenges and Open Problems](2024年02月05日/LLM_Multi-Agent_Systems_Challenges_and_Open_Problems.md)
 
     - [翻译: 在大型语言模型的多代理系统中，我们面临着一系列挑战和尚未解决的问题。](2024年02月05日/LLM_Multi-Agent_Systems_Challenges_and_Open_Problems.md)
+
+- [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](2024年02月05日/LLM_Agents_in_Interaction_Measuring_Personality_Consistency_and_Linguistic_Alignment_in_Interacting_Populations_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型（LLM）的交互代理：探究在互动中的LLM群体内的个性连贯性与语言协调性](2024年02月05日/LLM_Agents_in_Interaction_Measuring_Personality_Consistency_and_Linguistic_Alignment_in_Interacting_Populations_of_Large_Language_Models.md)
 
 2024年02月03日
 
