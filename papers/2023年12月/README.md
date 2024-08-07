@@ -1,11 +1,5 @@
 # 2023年12月
 
-2023年12月29日
-
-- [Large Language Models for Generative Information Extraction: A Survey](2023年12月29日/Large_Language_Models_for_Generative_Information_Extraction_A_Survey.md)
-
-    - [翻译: 大型语言模型在生成信息提取领域的应用综述](2023年12月29日/Large_Language_Models_for_Generative_Information_Extraction_A_Survey.md)
-
 2023年12月24日
 
 - [Vulnerability of Machine Learning Approaches Applied in IoT-based Smart Grid: A Review](2023年12月24日/Vulnerability_of_Machine_Learning_Approaches_Applied_in_IoT-based_Smart_Grid_A_Review.md)

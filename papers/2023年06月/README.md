@@ -18,16 +18,10 @@
 
 2023年06月12日
 
-- [Lost in Translation: Large Language Models in Non-English Content Analysis](2023年06月12日/Lost_in_Translation_Large_Language_Models_in_Non-English_Content_Analysis.md)
-
-    - [翻译: 在非英语内容分析中，大型语言模型的应用有时会遇到“翻译中的迷失”。](2023年06月12日/Lost_in_Translation_Large_Language_Models_in_Non-English_Content_Analysis.md)
-
 - [Large language models and (non-)linguistic recursion](2023年06月12日/Large_language_models_and_(non-)linguistic_recursion.md)
 
     - [翻译: 大型语言模型与语言的递归性（及其缺失）](2023年06月12日/Large_language_models_and_(non-)linguistic_recursion.md)
 
-2023年06月05日
+- [Lost in Translation: Large Language Models in Non-English Content Analysis](2023年06月12日/Lost_in_Translation_Large_Language_Models_in_Non-English_Content_Analysis.md)
 
-- [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](2023年06月05日/Multi-Agent_Collaboration_Harnessing_the_Power_of_Intelligent_LLM_Agents.md)
-
-    - [翻译: 多智能体协作：发挥智能大型语言模型代理的潜力](2023年06月05日/Multi-Agent_Collaboration_Harnessing_the_Power_of_Intelligent_LLM_Agents.md)
+    - [翻译: 在非英语内容分析中，大型语言模型的应用有时会遇到“翻译中的迷失”。](2023年06月12日/Lost_in_Translation_Large_Language_Models_in_Non-English_Content_Analysis.md)
