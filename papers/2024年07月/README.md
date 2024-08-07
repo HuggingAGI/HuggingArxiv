@@ -430,7 +430,7 @@
 
 - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](2024年07月30日/Patient-centered_data_science_an_integrative_framework_for_evaluating_and_predicting_clinical_outcomes_in_the_digital_health_era.md)
 
-    - [翻译: ](2024年07月30日/Patient-centered_data_science_an_integrative_framework_for_evaluating_and_predicting_clinical_outcomes_in_the_digital_health_era.md)
+    - [翻译: 数字健康时代，构建以患者为中心的数据科学框架，旨在综合评估并精准预测临床结果。](2024年07月30日/Patient-centered_data_science_an_integrative_framework_for_evaluating_and_predicting_clinical_outcomes_in_the_digital_health_era.md)
 
 2024年07月29日
 
@@ -718,7 +718,7 @@
 
 - [Faculty Perspectives on the Potential of RAG in Computer Science Higher Education](2024年07月28日/Faculty_Perspectives_on_the_Potential_of_RAG_in_Computer_Science_Higher_Education.md)
 
-    - [翻译: ](2024年07月28日/Faculty_Perspectives_on_the_Potential_of_RAG_in_Computer_Science_Higher_Education.md)
+    - [翻译: 计算机科学高等教育领域中，教职员工对 RAG 潜力的见解](2024年07月28日/Faculty_Perspectives_on_the_Potential_of_RAG_in_Computer_Science_Higher_Education.md)
 
 2024年07月27日
 
@@ -740,7 +740,7 @@
 
 - [AgentPeerTalk: Empowering Students through Agentic-AI-Driven Discernment of Bullying and Joking in Peer Interactions in Schools](2024年07月27日/AgentPeerTalk_Empowering_Students_through_Agentic-AI-Driven_Discernment_of_Bullying_and_Joking_in_Peer_Interactions_in_Schools.md)
 
-    - [翻译: ](2024年07月27日/AgentPeerTalk_Empowering_Students_through_Agentic-AI-Driven_Discernment_of_Bullying_and_Joking_in_Peer_Interactions_in_Schools.md)
+    - [翻译: AgentPeerTalk：借助AI智能辨别，助力学生在校园互动中识别欺凌与玩笑，从而增强自我保护能力。](2024年07月27日/AgentPeerTalk_Empowering_Students_through_Agentic-AI-Driven_Discernment_of_Bullying_and_Joking_in_Peer_Interactions_in_Schools.md)
 
 2024年07月26日
 
@@ -2402,7 +2402,7 @@
 
 - [Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks](2024年07月18日/Evaluating_and_Enhancing_Trustworthiness_of_LLMs_in_Perception_Tasks.md)
 
-    - [翻译: ](2024年07月18日/Evaluating_and_Enhancing_Trustworthiness_of_LLMs_in_Perception_Tasks.md)
+    - [翻译: 提升 LLM 在感知任务中的信任度评估与增强](2024年07月18日/Evaluating_and_Enhancing_Trustworthiness_of_LLMs_in_Perception_Tasks.md)
 
 2024年07月17日
 
