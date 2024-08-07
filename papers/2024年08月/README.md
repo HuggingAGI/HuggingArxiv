@@ -18,10 +18,6 @@
 
     - [翻译: 情感调节在神经机器翻译中对大型语言模型的应用](2024年08月06日/Conditioning_LLMs_with_Emotion_in_Neural_Machine_Translation.md)
 
-- [EC-Guide: A Comprehensive E-Commerce Guide for Instruction Tuning and Quantization](2024年08月06日/EC-Guide_A_Comprehensive_E-Commerce_Guide_for_Instruction_Tuning_and_Quantization.md)
-
-    - [翻译: EC-Guide：一本详尽的电子商务指南，专为指令调优与量化设计](2024年08月06日/EC-Guide_A_Comprehensive_E-Commerce_Guide_for_Instruction_Tuning_and_Quantization.md)
-
 - [Evaluating the Translation Performance of Large Language Models Based on Euas-20](2024年08月06日/Evaluating_the_Translation_Performance_of_Large_Language_Models_Based_on_Euas-20.md)
 
     - [翻译: 基于 Euas-20 标准，评估大型语言模型的翻译表现](2024年08月06日/Evaluating_the_Translation_Performance_of_Large_Language_Models_Based_on_Euas-20.md)
