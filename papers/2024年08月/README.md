@@ -14,29 +14,9 @@
 
     - [翻译: 基于逻辑谬误的论证生成框架](2024年08月07日/A_Logical_Fallacy-Informed_Framework_for_Argument_Generation.md)
 
-- [Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection](2024年08月07日/Empirical_Analysis_of_Large_Vision-Language_Models_against_Goal_Hijacking_via_Visual_Prompt_Injection.md)
-
-    - [翻译: 实证分析大型视觉-语言模型在视觉提示注入下的目标劫持问题](2024年08月07日/Empirical_Analysis_of_Large_Vision-Language_Models_against_Goal_Hijacking_via_Visual_Prompt_Injection.md)
-
-- [Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring](2024年08月07日/Generative_Language_Models_with_Retrieval_Augmented_Generation_for_Automated_Short_Answer_Scoring.md)
-
-    - [翻译: 结合检索增强技术的生成语言模型，助力自动化简短答案评分](2024年08月07日/Generative_Language_Models_with_Retrieval_Augmented_Generation_for_Automated_Short_Answer_Scoring.md)
-
-- [In2Core: Leveraging Influence Functions for Coreset Selection in Instruction Finetuning of Large Language Models](2024年08月07日/In2Core_Leveraging_Influence_Functions_for_Coreset_Selection_in_Instruction_Finetuning_of_Large_Language_Models.md)
-
-    - [翻译: In2Core：借助影响力函数优化大型语言模型指令微调中的核心集选择](2024年08月07日/In2Core_Leveraging_Influence_Functions_for_Coreset_Selection_in_Instruction_Finetuning_of_Large_Language_Models.md)
-
 - [MaxMind: A Memory Loop Network to Enhance Software Productivity based on Large Language Models](2024年08月07日/MaxMind_A_Memory_Loop_Network_to_Enhance_Software_Productivity_based_on_Large_Language_Models.md)
 
     - [翻译: MaxMind：借助大型语言模型的力量，通过内存循环网络提升软件开发效率](2024年08月07日/MaxMind_A_Memory_Loop_Network_to_Enhance_Software_Productivity_based_on_Large_Language_Models.md)
-
-- [Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling](2024年08月07日/Openstory++_A_Large-scale_Dataset_and_Benchmark_for_Instance-aware_Open-domain_Visual_Storytelling.md)
-
-    - [翻译: Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](2024年08月07日/Openstory++_A_Large-scale_Dataset_and_Benchmark_for_Instance-aware_Open-domain_Visual_Storytelling.md)
-
-- [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](2024年08月07日/Optimus-1_Hybrid_Multimodal_Memory_Empowered_Agents_Excel_in_Long-Horizon_Tasks.md)
-
-    - [翻译: Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](2024年08月07日/Optimus-1_Hybrid_Multimodal_Memory_Empowered_Agents_Excel_in_Long-Horizon_Tasks.md)
 
 - [Target Prompting for Information Extraction with Vision Language Model](2024年08月07日/Target_Prompting_for_Information_Extraction_with_Vision_Language_Model.md)
 
@@ -46,6 +26,8 @@
 
     - [翻译: 突破非母语环境的限制：通过母语提示，有效促进知识的引出。](2024年08月07日/Unlocking_the_Non-Native_Language_Context_Limitation_Native_Language_Prompting_Facilitates_Knowledge_Elicitation.md)
 
-- [WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models](2024年08月07日/WalledEval_A_Comprehensive_Safety_Evaluation_Toolkit_for_Large_Language_Models.md)
+2024年08月05日
 
-    - [翻译: WalledEval：专为大型语言模型设计，提供全面的安全评估工具包](2024年08月07日/WalledEval_A_Comprehensive_Safety_Evaluation_Toolkit_for_Large_Language_Models.md)
+- [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models](2024年08月05日/Let_Me_Speak_Freely_A_Study_on_the_Impact_of_Format_Restrictions_on_Performance_of_Large_Language_Models.md)
+
+    - [翻译: 自由表达之难：探究格式限制如何影响大型语言模型的表现](2024年08月05日/Let_Me_Speak_Freely_A_Study_on_the_Impact_of_Format_Restrictions_on_Performance_of_Large_Language_Models.md)
