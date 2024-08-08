@@ -136,38 +136,10 @@
 
 2024年08月06日
 
-- [An Analysis of Automated Use Case Component Extraction from Scenarios using ChatGPT](2024年08月06日/An_Analysis_of_Automated_Use_Case_Component_Extraction_from_Scenarios_using_ChatGPT.md)
-
-    - [翻译: 利用 ChatGPT 自动解析场景，提取用例组件的深入分析](2024年08月06日/An_Analysis_of_Automated_Use_Case_Component_Extraction_from_Scenarios_using_ChatGPT.md)
-
-- [A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems](2024年08月06日/A_Study_on_Prompt_Injection_Attack_Against_LLM-Integrated_Mobile_Robotic_Systems.md)
-
-    - [翻译: 本研究探讨了针对集成大型语言模型的移动机器人系统的提示注入攻击。](2024年08月06日/A_Study_on_Prompt_Injection_Attack_Against_LLM-Integrated_Mobile_Robotic_Systems.md)
-
-- [Can LLMs Serve As Time Series Anomaly Detectors?](2024年08月06日/Can_LLMs_Serve_As_Time_Series_Anomaly_Detectors.md)
-
-    - [翻译: 大型语言模型能否胜任时间序列异常检测？](2024年08月06日/Can_LLMs_Serve_As_Time_Series_Anomaly_Detectors.md)
-
 - [Exploring the extent of similarities in software failures across industries using LLMs](2024年08月06日/Exploring_the_extent_of_similarities_in_software_failures_across_industries_using_LLMs.md)
 
     - [翻译: 探究 LLM 揭示的跨行业软件故障相似性](2024年08月06日/Exploring_the_extent_of_similarities_in_software_failures_across_industries_using_LLMs.md)
 
-- [LAMPO: Large Language Models as Preference Machines for Few-shot Ordinal Classification](2024年08月06日/LAMPO_Large_Language_Models_as_Preference_Machines_for_Few-shot_Ordinal_Classification.md)
-
-    - [翻译: LAMPO：将大型语言模型视为少样本序数分类的偏好机器](2024年08月06日/LAMPO_Large_Language_Models_as_Preference_Machines_for_Few-shot_Ordinal_Classification.md)
-
-- [Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving](2024年08月06日/Leveraging_LLMs_for_Enhanced_Open-Vocabulary_3D_Scene_Understanding_in_Autonomous_Driving.md)
-
-    - [翻译: 借助 LLM 提升自动驾驶中的开放词汇 3D 场景理解能力](2024年08月06日/Leveraging_LLMs_for_Enhanced_Open-Vocabulary_3D_Scene_Understanding_in_Autonomous_Driving.md)
-
-- [Logistic Regression makes small LLMs strong and explainable "tens-of-shot" classifiers](2024年08月06日/Logistic_Regression_makes_small_LLMs_strong_and_explainable_tens-of-shot_classifiers.md)
-
-    - [翻译: 逻辑回归赋予小型 LLM 强大的“数十-shot”分类能力，并使其过程透明可解释。](2024年08月06日/Logistic_Regression_makes_small_LLMs_strong_and_explainable_tens-of-shot_classifiers.md)
-
 - [Recomposition: A New Technique for Efficient Compositional Verification](2024年08月06日/Recomposition_A_New_Technique_for_Efficient_Compositional_Verification.md)
 
     - [翻译: 重组技术：高效组合验证的新方法](2024年08月06日/Recomposition_A_New_Technique_for_Efficient_Compositional_Verification.md)
-
-- [ULLME: A Unified Framework for Large Language Model Embeddings with Generation-Augmented Learning](2024年08月06日/ULLME_A_Unified_Framework_for_Large_Language_Model_Embeddings_with_Generation-Augmented_Learning.md)
-
-    - [翻译: ULLME：一个集成了生成增强学习的大型语言模型嵌入统一框架](2024年08月06日/ULLME_A_Unified_Framework_for_Large_Language_Model_Embeddings_with_Generation-Augmented_Learning.md)
