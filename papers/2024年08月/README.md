@@ -144,10 +144,6 @@
 
     - [翻译: 本研究探讨了针对集成大型语言模型的移动机器人系统的提示注入攻击。](2024年08月06日/A_Study_on_Prompt_Injection_Attack_Against_LLM-Integrated_Mobile_Robotic_Systems.md)
 
-- [Automated Theorem Provers Help Improve Large Language Model Reasoning](2024年08月06日/Automated_Theorem_Provers_Help_Improve_Large_Language_Model_Reasoning.md)
-
-    - [翻译: 自动定理证明器助力大型语言模型推理能力的提升](2024年08月06日/Automated_Theorem_Provers_Help_Improve_Large_Language_Model_Reasoning.md)
-
 - [Can LLMs Serve As Time Series Anomaly Detectors?](2024年08月06日/Can_LLMs_Serve_As_Time_Series_Anomaly_Detectors.md)
 
     - [翻译: 大型语言模型能否胜任时间序列异常检测？](2024年08月06日/Can_LLMs_Serve_As_Time_Series_Anomaly_Detectors.md)
@@ -155,10 +151,6 @@
 - [Exploring the extent of similarities in software failures across industries using LLMs](2024年08月06日/Exploring_the_extent_of_similarities_in_software_failures_across_industries_using_LLMs.md)
 
     - [翻译: 探究 LLM 揭示的跨行业软件故障相似性](2024年08月06日/Exploring_the_extent_of_similarities_in_software_failures_across_industries_using_LLMs.md)
-
-- [GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI](2024年08月06日/GMAI-MMBench_A_Comprehensive_Multimodal_Evaluation_Benchmark_Towards_General_Medical_AI.md)
-
-    - [翻译: GMAI-MMBench：面向通用医学AI的全面多模态评估基准](2024年08月06日/GMAI-MMBench_A_Comprehensive_Multimodal_Evaluation_Benchmark_Towards_General_Medical_AI.md)
 
 - [LAMPO: Large Language Models as Preference Machines for Few-shot Ordinal Classification](2024年08月06日/LAMPO_Large_Language_Models_as_Preference_Machines_for_Few-shot_Ordinal_Classification.md)
 
