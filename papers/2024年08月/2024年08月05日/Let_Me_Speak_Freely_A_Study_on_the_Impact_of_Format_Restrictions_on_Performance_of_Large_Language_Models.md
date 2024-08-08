@@ -14,4 +14,20 @@
 Abstract:Structured generation, the process of producing content in standardized formats like JSON and XML, is widely utilized in real-world applications to extract key output information from large language models (LLMs). This study investigates whether such constraints on generation space impact LLMs' abilities, including reasoning and domain knowledge comprehension. Specifically, we evaluate LLMs' performance when restricted to adhere to structured formats versus generating free-form responses across various common tasks. Surprisingly, we observe a significant decline in LLMs' reasoning abilities under format restrictions. Furthermore, we find that stricter format constraints generally lead to greater performance degradation in reasoning tasks.
     
 
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x1.png)
+
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x2.png)
+
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x3.png)
+
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x4.png)
+
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x5.png)
+
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x6.png)
+
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x7.png)
+
+![自由表达之难：探究格式限制如何影响大型语言模型的表现](../../../paper_images/2408.02442/x8.png)
+
 [Arxiv](https://arxiv.org//pdf/2408.02442)
