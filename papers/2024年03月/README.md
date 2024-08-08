@@ -24,10 +24,6 @@
 
     - [翻译: 大型语言模型漏洞检测能力全面探究](2024年03月25日/A_Comprehensive_Study_of_the_Capabilities_of_Large_Language_Models_for_Vulnerability_Detection.md)
 
-- [Generation of Asset Administration Shell with Large Language Model Agents: Interoperability in Digital Twins with Semantic Node](2024年03月25日/Generation_of_Asset_Administration_Shell_with_Large_Language_Model_Agents_Interoperability_in_Digital_Twins_with_Semantic_Node.md)
-
-    - [翻译: 通过大型语言模型代理打造资产管理壳，实现数字孪生体中的语义节点互操作性。](2024年03月25日/Generation_of_Asset_Administration_Shell_with_Large_Language_Model_Agents_Interoperability_in_Digital_Twins_with_Semantic_Node.md)
-
 - [Norm Violation Detection in Multi-Agent Systems using Large Language Models: A Pilot Study](2024年03月25日/Norm_Violation_Detection_in_Multi-Agent_Systems_using_Large_Language_Models_A_Pilot_Study.md)
 
     - [翻译: 利用大型语言模型开展多智能体系统中的规范违反检测：一项探索性研究。](2024年03月25日/Norm_Violation_Detection_in_Multi-Agent_Systems_using_Large_Language_Models_A_Pilot_Study.md)
@@ -89,10 +85,6 @@
 - [AI Robots and Humanoid AI: Review, Perspectives and Directions](2024年03月19日/AI_Robots_and_Humanoid_AI_Review,_Perspectives_and_Directions.md)
 
     - [翻译: 人工智能机器人与人形AI：回顾与展望](2024年03月19日/AI_Robots_and_Humanoid_AI_Review,_Perspectives_and_Directions.md)
-
-- [Embodied LLM Agents Learn to Cooperate in Organized Teams](2024年03月19日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
-
-    - [翻译: 具象化的 LLM 代理学会了在有组织的团队中协同合作。](2024年03月19日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
 
 - [Instructing Large Language Models to Identify and Ignore Irrelevant Conditions](2024年03月19日/Instructing_Large_Language_Models_to_Identify_and_Ignore_Irrelevant_Conditions.md)
 

@@ -40,10 +40,6 @@
 
     - [翻译: 让模型解码密语：借助嵌入技术开展多主体辩论。](2024年02月26日/Let_Models_Speak_Ciphers_Multiagent_Debate_through_Embeddings.md)
 
-- [Navigating Complexity: Orchestrated Problem Solving with Multi-Agent LLMs](2024年02月26日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)
-
-    - [翻译: 驾驭复杂性：协同多智能体大型语言模型（LLMs）的复杂问题解决策略。](2024年02月26日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)
-
 2024年02月23日
 
 - [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
@@ -82,10 +78,6 @@
 
     - [翻译: 元排名机制表明，即便是能力相对较弱的语言模型，在进行单一响应判断时也表现出了足够的能力。](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
 
-- [Shall We Talk: Exploring Spontaneous Collaborations of Competing LLM Agents](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
-
-    - [翻译: 《我们来谈谈吧：探究竞争性大型语言模型间的自发协作》](2024年02月19日/Shall_We_Talk_Exploring_Spontaneous_Collaborations_of_Competing_LLM_Agents.md)
-
 2024年02月18日
 
 - [Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network](2024年02月18日/Large_Language_Model-driven_Meta-structure_Discovery_in_Heterogeneous_Information_Network.md)
@@ -115,10 +107,6 @@
     - [翻译: HaLo-NeRF：探索自由式照片集的几何引导语义学习。](2024年02月14日/HaLo-NeRF_Learning_Geometry-Guided_Semantics_for_Exploring_Unconstrained_Photo_Collections.md)
 
 2024年02月13日
-
-- [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](2024年02月13日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)
-
-    - [翻译: Agent Smith：仅需一张图片，便能迅速让百万计的多模态大型语言模型（LLM）代理陷入崩溃，其速度呈指数级增长。](2024年02月13日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)
 
 - [Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy](2024年02月13日/Combining_Insights_From_Multiple_Large_Language_Models_Improves_Diagnostic_Accuracy.md)
 

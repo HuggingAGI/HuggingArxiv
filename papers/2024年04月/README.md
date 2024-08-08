@@ -628,10 +628,6 @@
 
 2024年04月27日
 
-- [Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification](2024年04月27日/Advancing_Healthcare_Automation_Multi-Agent_Systems_for_Medical_Necessity_Justification.md)
-
-    - [翻译: 提升医疗自动化水平：多智能体系统在医疗需求论证中的应用。](2024年04月27日/Advancing_Healthcare_Automation_Multi-Agent_Systems_for_Medical_Necessity_Justification.md)
-
 - [Automating Customer Needs Analysis: A Comparative Study of Large Language Models in the Travel Industry](2024年04月27日/Automating_Customer_Needs_Analysis_A_Comparative_Study_of_Large_Language_Models_in_the_Travel_Industry.md)
 
     - [翻译: 探索旅游业中的大型语言模型：自动化客户需求分析的比较研究](2024年04月27日/Automating_Customer_Needs_Analysis_A_Comparative_Study_of_Large_Language_Models_in_the_Travel_Industry.md)
@@ -1815,12 +1811,6 @@
 - [GUIDE: Graphical User Interface Data for Execution](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
 
     - [翻译: GUIDE：图形用户界面数据执行指南](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
-
-2024年04月08日
-
-- [360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System](2024年04月08日/360°REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)
-
-    - [翻译: 360°REA：迈向为多智能体系统打造可复用的经验累积，辅以全方位的评估。](2024年04月08日/360°REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)
 
 2024年04月07日
 
