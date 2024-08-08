@@ -10,10 +10,6 @@
 
     - [翻译: 大型语言模型的逐层后训练修剪器，基于凸优化技术](2024年08月07日/A_Convex-optimization-based_Layer-wise_Post-training_Pruner_for_Large_Language_Models.md)
 
-- [Active Testing of Large Language Model via Multi-Stage Sampling](2024年08月07日/Active_Testing_of_Large_Language_Model_via_Multi-Stage_Sampling.md)
-
-    - [翻译: 采用多阶段采样方法对大型语言模型实施主动测试](2024年08月07日/Active_Testing_of_Large_Language_Model_via_Multi-Stage_Sampling.md)
-
 - [AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging](2024年08月07日/AgentsCoMerge_Large_Language_Model_Empowered_Collaborative_Decision_Making_for_Ramp_Merging.md)
 
     - [翻译: AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](2024年08月07日/AgentsCoMerge_Large_Language_Model_Empowered_Collaborative_Decision_Making_for_Ramp_Merging.md)
@@ -62,10 +58,6 @@
 
     - [翻译: 利用大型语言模型进行基站智能选址，通过提示或代理实现高效部署。](2024年08月07日/Large_Language_Models_for_Base_Station_Siting_Intelligent_Deployment_based_on_Prompt_or_Agent.md)
 
-- [Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning](2024年08月07日/Leveraging_Variation_Theory_in_Counterfactual_Data_Augmentation_for_Optimized_Active_Learning.md)
-
-    - [翻译: 借助变异理论，通过反事实数据增强优化主动学习过程](2024年08月07日/Leveraging_Variation_Theory_in_Counterfactual_Data_Augmentation_for_Optimized_Active_Learning.md)
-
 - [MaxMind: A Memory Loop Network to Enhance Software Productivity based on Large Language Models](2024年08月07日/MaxMind_A_Memory_Loop_Network_to_Enhance_Software_Productivity_based_on_Large_Language_Models.md)
 
     - [翻译: MaxMind：借助大型语言模型的力量，通过内存循环网络提升软件开发效率](2024年08月07日/MaxMind_A_Memory_Loop_Network_to_Enhance_Software_Productivity_based_on_Large_Language_Models.md)
@@ -73,14 +65,6 @@
 - [MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video](2024年08月07日/MMSummary_Multimodal_Summary_Generation_for_Fetal_Ultrasound_Video.md)
 
     - [翻译: MMSummary：胎儿超声视频的多模态摘要生成](2024年08月07日/MMSummary_Multimodal_Summary_Generation_for_Fetal_Ultrasound_Video.md)
-
-- [MPC-Minimized Secure LLM Inference](2024年08月07日/MPC-Minimized_Secure_LLM_Inference.md)
-
-    - [翻译: 最小化 MPC 的安全 LLM 推理](2024年08月07日/MPC-Minimized_Secure_LLM_Inference.md)
-
-- [NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time](2024年08月07日/NACL_A_General_and_Effective_KV_Cache_Eviction_Framework_for_LLMs_at_Inference_Time.md)
-
-    - [翻译: NACL 是一个适用于 LLM 推理阶段的通用且高效的 KV 缓存管理框架，能够有效处理缓存驱逐问题。](2024年08月07日/NACL_A_General_and_Effective_KV_Cache_Eviction_Framework_for_LLMs_at_Inference_Time.md)
 
 - [Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling](2024年08月07日/Openstory++_A_Large-scale_Dataset_and_Benchmark_for_Instance-aware_Open-domain_Visual_Storytelling.md)
 
@@ -93,14 +77,6 @@
 - [PackMamba: Efficient Processing of Variable-Length Sequences in Mamba training](2024年08月07日/PackMamba_Efficient_Processing_of_Variable-Length_Sequences_in_Mamba_training.md)
 
     - [翻译: PackMamba 技术旨在在 Mamba 训练过程中，高效地处理长度不一的序列数据。](2024年08月07日/PackMamba_Efficient_Processing_of_Variable-Length_Sequences_in_Mamba_training.md)
-
-- [PAGED: A Benchmark for Procedural Graphs Extraction from Documents](2024年08月07日/PAGED_A_Benchmark_for_Procedural_Graphs_Extraction_from_Documents.md)
-
-    - [翻译: PAGED：文档程序图提取的基准](2024年08月07日/PAGED_A_Benchmark_for_Procedural_Graphs_Extraction_from_Documents.md)
-
-- [Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks](2024年08月07日/Question_Rephrasing_for_Quantifying_Uncertainty_in_Large_Language_Models_Applications_in_Molecular_Chemistry_Tasks.md)
-
-    - [翻译: 通过问题重述量化大型语言模型的不确定性：探索其在分子化学任务中的应用](2024年08月07日/Question_Rephrasing_for_Quantifying_Uncertainty_in_Large_Language_Models_Applications_in_Molecular_Chemistry_Tasks.md)
 
 - [SpecRover: Code Intent Extraction via LLMs](2024年08月07日/SpecRover_Code_Intent_Extraction_via_LLMs.md)
 
