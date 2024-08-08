@@ -30,25 +30,9 @@
 
     - [翻译: 实证分析大型视觉-语言模型在视觉提示注入下的目标劫持问题](2024年08月07日/Empirical_Analysis_of_Large_Vision-Language_Models_against_Goal_Hijacking_via_Visual_Prompt_Injection.md)
 
-- [EnJa: Ensemble Jailbreak on Large Language Models](2024年08月07日/EnJa_Ensemble_Jailbreak_on_Large_Language_Models.md)
-
-    - [翻译: EnJa：针对大型语言模型的集成越狱技术](2024年08月07日/EnJa_Ensemble_Jailbreak_on_Large_Language_Models.md)
-
-- [EXAONE 3.0 7.8B Instruction Tuned Language Model](2024年08月07日/EXAONE_3.0_7.8B_Instruction_Tuned_Language_Model.md)
-
-    - [翻译: EXAONE 3.0，一款拥有78亿参数的指令调优语言模型。](2024年08月07日/EXAONE_3.0_7.8B_Instruction_Tuned_Language_Model.md)
-
-- [GAIA -- A Large Language Model for Advanced Power Dispatch](2024年08月07日/GAIA_--_A_Large_Language_Model_for_Advanced_Power_Dispatch.md)
-
-    - [翻译: GAIA：专为高级电力调度设计的大型语言模型](2024年08月07日/GAIA_--_A_Large_Language_Model_for_Advanced_Power_Dispatch.md)
-
 - [Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring](2024年08月07日/Generative_Language_Models_with_Retrieval_Augmented_Generation_for_Automated_Short_Answer_Scoring.md)
 
     - [翻译: 结合检索增强技术的生成语言模型，助力自动化简短答案评分](2024年08月07日/Generative_Language_Models_with_Retrieval_Augmented_Generation_for_Automated_Short_Answer_Scoring.md)
-
-- [How Well Can Vision Language Models See Image Details?](2024年08月07日/How_Well_Can_Vision_Language_Models_See_Image_Details.md)
-
-    - [翻译: 视觉语言模型究竟能捕捉到多少图像细节？](2024年08月07日/How_Well_Can_Vision_Language_Models_See_Image_Details.md)
 
 - [In2Core: Leveraging Influence Functions for Coreset Selection in Instruction Finetuning of Large Language Models](2024年08月07日/In2Core_Leveraging_Influence_Functions_for_Coreset_Selection_in_Instruction_Finetuning_of_Large_Language_Models.md)
 
@@ -74,14 +58,6 @@
 
     - [翻译: Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](2024年08月07日/Optimus-1_Hybrid_Multimodal_Memory_Empowered_Agents_Excel_in_Long-Horizon_Tasks.md)
 
-- [PackMamba: Efficient Processing of Variable-Length Sequences in Mamba training](2024年08月07日/PackMamba_Efficient_Processing_of_Variable-Length_Sequences_in_Mamba_training.md)
-
-    - [翻译: PackMamba 技术旨在在 Mamba 训练过程中，高效地处理长度不一的序列数据。](2024年08月07日/PackMamba_Efficient_Processing_of_Variable-Length_Sequences_in_Mamba_training.md)
-
-- [SpecRover: Code Intent Extraction via LLMs](2024年08月07日/SpecRover_Code_Intent_Extraction_via_LLMs.md)
-
-    - [翻译: SpecRover：利用 LLM 提取代码意图](2024年08月07日/SpecRover_Code_Intent_Extraction_via_LLMs.md)
-
 - [Target Prompting for Information Extraction with Vision Language Model](2024年08月07日/Target_Prompting_for_Information_Extraction_with_Vision_Language_Model.md)
 
     - [翻译: 利用目标提示进行信息提取，结合视觉语言模型技术。](2024年08月07日/Target_Prompting_for_Information_Extraction_with_Vision_Language_Model.md)
@@ -93,7 +69,3 @@
 - [WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models](2024年08月07日/WalledEval_A_Comprehensive_Safety_Evaluation_Toolkit_for_Large_Language_Models.md)
 
     - [翻译: WalledEval：专为大型语言模型设计，提供全面的安全评估工具包](2024年08月07日/WalledEval_A_Comprehensive_Safety_Evaluation_Toolkit_for_Large_Language_Models.md)
-
-- [Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation](2024年08月07日/Wiping_out_the_limitations_of_Large_Language_Models_--_A_Taxonomy_for_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 突破大型语言模型的限制：探索检索增强生成的分类体系](2024年08月07日/Wiping_out_the_limitations_of_Large_Language_Models_--_A_Taxonomy_for_Retrieval_Augmented_Generation.md)
