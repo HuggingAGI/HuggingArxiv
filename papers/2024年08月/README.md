@@ -160,21 +160,9 @@
 
     - [翻译: 借助 LLM 提升自动驾驶中的开放词汇 3D 场景理解能力](2024年08月06日/Leveraging_LLMs_for_Enhanced_Open-Vocabulary_3D_Scene_Understanding_in_Autonomous_Driving.md)
 
-- [LLM-Aided Compilation for Tensor Accelerators](2024年08月06日/LLM-Aided_Compilation_for_Tensor_Accelerators.md)
-
-    - [翻译: LLM 助力张量加速器编译](2024年08月06日/LLM-Aided_Compilation_for_Tensor_Accelerators.md)
-
 - [Logistic Regression makes small LLMs strong and explainable "tens-of-shot" classifiers](2024年08月06日/Logistic_Regression_makes_small_LLMs_strong_and_explainable_tens-of-shot_classifiers.md)
 
     - [翻译: 逻辑回归赋予小型 LLM 强大的“数十-shot”分类能力，并使其过程透明可解释。](2024年08月06日/Logistic_Regression_makes_small_LLMs_strong_and_explainable_tens-of-shot_classifiers.md)
-
-- [MoExtend: Tuning New Experts for Modality and Task Extension](2024年08月06日/MoExtend_Tuning_New_Experts_for_Modality_and_Task_Extension.md)
-
-    - [翻译: MoExtend：针对模态与任务扩展，精心调校新专家](2024年08月06日/MoExtend_Tuning_New_Experts_for_Modality_and_Task_Extension.md)
-
-- [Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation](2024年08月06日/Optimus_Accelerating_Large-Scale_Multi-Modal_LLM_Training_by_Bubble_Exploitation.md)
-
-    - [翻译: Optimus：利用气泡技术，加速大规模多模态 LLM 训练进程](2024年08月06日/Optimus_Accelerating_Large-Scale_Multi-Modal_LLM_Training_by_Bubble_Exploitation.md)
 
 - [Recomposition: A New Technique for Efficient Compositional Verification](2024年08月06日/Recomposition_A_New_Technique_for_Efficient_Compositional_Verification.md)
 
