@@ -37,3 +37,9 @@
 - [NHANES-GCP: Leveraging the Google Cloud Platform and BigQuery ML for reproducible machine learning with data from the National Health and Nutrition Examination Survey](2024年01月12日/NHANES-GCP_Leveraging_the_Google_Cloud_Platform_and_BigQuery_ML_for_reproducible_machine_learning_with_data_from_the_National_Health_and_Nutrition_Examination_Survey.md)
 
     - [翻译: NHANES-GCP：借助Google Cloud Platform与BigQuery ML，我们能够对国家健康与营养检查调查的数据进行高效且可重复的机器学习。](2024年01月12日/NHANES-GCP_Leveraging_the_Google_Cloud_Platform_and_BigQuery_ML_for_reproducible_machine_learning_with_data_from_the_National_Health_and_Nutrition_Examination_Survey.md)
+
+2024年01月11日
+
+- [Designing Heterogeneous LLM Agents for Financial Sentiment Analysis](2024年01月11日/Designing_Heterogeneous_LLM_Agents_for_Financial_Sentiment_Analysis.md)
+
+    - [翻译: 本文旨在探讨如何设计多样化的大型语言模型代理，以提升金融情绪分析的准确性和效率。](2024年01月11日/Designing_Heterogeneous_LLM_Agents_for_Financial_Sentiment_Analysis.md)
