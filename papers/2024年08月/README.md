@@ -42,10 +42,6 @@
 
     - [翻译: EXAONE 3.0，一款拥有78亿参数的指令调优语言模型。](2024年08月07日/EXAONE_3.0_7.8B_Instruction_Tuned_Language_Model.md)
 
-- [From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems](2024年08月07日/From_Data_to_Story_Towards_Automatic_Animated_Data_Video_Creation_with_LLM-based_Multi-Agent_Systems.md)
-
-    - [翻译: 将数据转化为生动故事：利用基于 LLM 的多代理系统，迈向自动生成动画数据视频的新境界。](2024年08月07日/From_Data_to_Story_Towards_Automatic_Animated_Data_Video_Creation_with_LLM-based_Multi-Agent_Systems.md)
-
 - [GAIA -- A Large Language Model for Advanced Power Dispatch](2024年08月07日/GAIA_--_A_Large_Language_Model_for_Advanced_Power_Dispatch.md)
 
     - [翻译: GAIA：专为高级电力调度设计的大型语言模型](2024年08月07日/GAIA_--_A_Large_Language_Model_for_Advanced_Power_Dispatch.md)
@@ -58,10 +54,6 @@
 
     - [翻译: 视觉语言模型究竟能捕捉到多少图像细节？](2024年08月07日/How_Well_Can_Vision_Language_Models_See_Image_Details.md)
 
-- [Improving Retrieval-Augmented Code Comment Generation by Retrieving for Generation](2024年08月07日/Improving_Retrieval-Augmented_Code_Comment_Generation_by_Retrieving_for_Generation.md)
-
-    - [翻译: 通过检索助力生成，提升代码注释的质量](2024年08月07日/Improving_Retrieval-Augmented_Code_Comment_Generation_by_Retrieving_for_Generation.md)
-
 - [In2Core: Leveraging Influence Functions for Coreset Selection in Instruction Finetuning of Large Language Models](2024年08月07日/In2Core_Leveraging_Influence_Functions_for_Coreset_Selection_in_Instruction_Finetuning_of_Large_Language_Models.md)
 
     - [翻译: In2Core：借助影响力函数优化大型语言模型指令微调中的核心集选择](2024年08月07日/In2Core_Leveraging_Influence_Functions_for_Coreset_Selection_in_Instruction_Finetuning_of_Large_Language_Models.md)
@@ -73,10 +65,6 @@
 - [Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning](2024年08月07日/Leveraging_Variation_Theory_in_Counterfactual_Data_Augmentation_for_Optimized_Active_Learning.md)
 
     - [翻译: 借助变异理论，通过反事实数据增强优化主动学习过程](2024年08月07日/Leveraging_Variation_Theory_in_Counterfactual_Data_Augmentation_for_Optimized_Active_Learning.md)
-
-- [Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation](2024年08月07日/Lifelong_Personalized_Low-Rank_Adaptation_of_Large_Language_Models_for_Recommendation.md)
-
-    - [翻译: 为推荐系统量身定制的终身个性化低秩适应大型语言模型](2024年08月07日/Lifelong_Personalized_Low-Rank_Adaptation_of_Large_Language_Models_for_Recommendation.md)
 
 - [MaxMind: A Memory Loop Network to Enhance Software Productivity based on Large Language Models](2024年08月07日/MaxMind_A_Memory_Loop_Network_to_Enhance_Software_Productivity_based_on_Large_Language_Models.md)
 
@@ -133,13 +121,3 @@
 - [Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation](2024年08月07日/Wiping_out_the_limitations_of_Large_Language_Models_--_A_Taxonomy_for_Retrieval_Augmented_Generation.md)
 
     - [翻译: 突破大型语言模型的限制：探索检索增强生成的分类体系](2024年08月07日/Wiping_out_the_limitations_of_Large_Language_Models_--_A_Taxonomy_for_Retrieval_Augmented_Generation.md)
-
-2024年08月06日
-
-- [Exploring the extent of similarities in software failures across industries using LLMs](2024年08月06日/Exploring_the_extent_of_similarities_in_software_failures_across_industries_using_LLMs.md)
-
-    - [翻译: 探究 LLM 揭示的跨行业软件故障相似性](2024年08月06日/Exploring_the_extent_of_similarities_in_software_failures_across_industries_using_LLMs.md)
-
-- [Recomposition: A New Technique for Efficient Compositional Verification](2024年08月06日/Recomposition_A_New_Technique_for_Efficient_Compositional_Verification.md)
-
-    - [翻译: 重组技术：高效组合验证的新方法](2024年08月06日/Recomposition_A_New_Technique_for_Efficient_Compositional_Verification.md)
