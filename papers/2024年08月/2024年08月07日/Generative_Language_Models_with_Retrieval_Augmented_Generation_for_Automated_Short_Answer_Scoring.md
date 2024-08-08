@@ -12,4 +12,8 @@
 
 > Automated Short Answer Scoring (ASAS) is a critical component in educational assessment. While traditional ASAS systems relied on rule-based algorithms or complex deep learning methods, recent advancements in Generative Language Models (GLMs) offer new opportunities for improvement. This study explores the application of GLMs to ASAS, leveraging their off-the-shelf capabilities and performance in various domains. We propose a novel pipeline that combines vector databases, transformer-based encoders, and GLMs to enhance short answer scoring accuracy. Our approach stores training responses in a vector database, retrieves semantically similar responses during inference, and employs a GLM to analyze these responses and determine appropriate scores. We further optimize the system through fine-tuned retrieval processes and prompt engineering. Evaluation on the SemEval 2013 dataset demonstrates a significant improvement on the SCIENTSBANK 3-way and 2-way tasks compared to existing methods, highlighting the potential of GLMs in advancing ASAS technology.
 
+![结合检索增强技术的生成语言模型，助力自动化简短答案评分](../../../paper_images/2408.03811/IR.png)
+
+![结合检索增强技术的生成语言模型，助力自动化简短答案评分](../../../paper_images/2408.03811/workflow.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03811)

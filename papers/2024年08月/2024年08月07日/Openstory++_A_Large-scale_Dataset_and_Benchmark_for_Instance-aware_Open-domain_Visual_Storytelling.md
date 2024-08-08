@@ -12,4 +12,22 @@
 
 > Recent image generation models excel at creating high-quality images from brief captions. However, they fail to maintain consistency of multiple instances across images when encountering lengthy contexts. This inconsistency is largely due to in existing training datasets the absence of granular instance feature labeling in existing training datasets. To tackle these issues, we introduce Openstory++, a large-scale dataset combining additional instance-level annotations with both images and text. Furthermore, we develop a training methodology that emphasizes entity-centric image-text generation, ensuring that the models learn to effectively interweave visual and textual information. Specifically, Openstory++ streamlines the process of keyframe extraction from open-domain videos, employing vision-language models to generate captions that are then polished by a large language model for narrative continuity. It surpasses previous datasets by offering a more expansive open-domain resource, which incorporates automated captioning, high-resolution imagery tailored for instance count, and extensive frame sequences for temporal consistency. Additionally, we present Cohere-Bench, a pioneering benchmark framework for evaluating the image generation tasks when long multimodal context is provided, including the ability to keep the background, style, instances in the given context coherent. Compared to existing benchmarks, our work fills critical gaps in multi-modal generation, propelling the development of models that can adeptly generate and interpret complex narratives in open-domain environments. Experiments conducted within Cohere-Bench confirm the superiority of Openstory++ in nurturing high-quality visual storytelling models, enhancing their ability to address open-domain generation tasks. More details can be found at https://openstorypp.github.io/
 
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/figure1.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/x1.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/result_show.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/x2.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/x3.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/dataset_distribution.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/single.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/multi.png)
+
+![Openstory++：大规模数据集与基准，专为开放领域中实例感知的视觉故事创作而设。](../../../paper_images/2408.03695/good_case.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03695)

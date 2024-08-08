@@ -12,4 +12,20 @@
 
 > Ramp merging is one of the bottlenecks in traffic systems, which commonly cause traffic congestion, accidents, and severe carbon emissions. In order to address this essential issue and enhance the safety and efficiency of connected and autonomous vehicles (CAVs) at multi-lane merging zones, we propose a novel collaborative decision-making framework, named AgentsCoMerge, to leverage large language models (LLMs). Specifically, we first design a scene observation and understanding module to allow an agent to capture the traffic environment. Then we propose a hierarchical planning module to enable the agent to make decisions and plan trajectories based on the observation and the agent's own state. In addition, in order to facilitate collaboration among multiple agents, we introduce a communication module to enable the surrounding agents to exchange necessary information and coordinate their actions. Finally, we develop a reinforcement reflection guided training paradigm to further enhance the decision-making capability of the framework. Extensive experiments are conducted to evaluate the performance of our proposed method, demonstrating its superior efficiency and effectiveness for multi-agent collaborative decision-making under various ramp merging scenarios.
 
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/merging_scenarios.png)
+
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/vehicle_model.png)
+
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/overall-architecture.png)
+
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/visual-encoder.png)
+
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/collaborative_merging_area.png)
+
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/reinforcement_example.png)
+
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/qualitative_analysis.png)
+
+![AgentsCoMerge：借助大型语言模型的力量，实现匝道合并中的协作决策](../../../paper_images/2408.03624/case_study.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03624)

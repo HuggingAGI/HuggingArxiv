@@ -12,4 +12,12 @@
 
 > Mobile applications (apps) are often developed by only a small number of developers with limited resources, especially in the early years of the app's development. In this setting, many requirements acquisition activities, such as interviews, are challenging or lower priority than development and release activities. Moreover, in this early period, requirements are frequently changing as mobile apps evolve to compete in the marketplace. As app development companies move to standardize their development processes, however, they will shift to documenting and analyzing requirements. One low-cost source of requirements post-deployment are user-authored scenarios describing how they interact with an app. We propose a method for extracting use case components from user-authored scenarios using large language models (LLMs). The method consists of a series of prompts that were developed to improve precision and recall on a ground truth dataset of 50 scenarios independently labeled with UC components. Our results reveal that LLMs require additional domain knowledge to extract UC components, and that refining prompts to include this knowledge improves the quality of the extracted UC components.
 
+![利用 ChatGPT 自动解析场景，提取用例组件的深入分析](../../../paper_images/2408.03395/x1.png)
+
+![利用 ChatGPT 自动解析场景，提取用例组件的深入分析](../../../paper_images/2408.03395/x2.png)
+
+![利用 ChatGPT 自动解析场景，提取用例组件的深入分析](../../../paper_images/2408.03395/x3.png)
+
+![利用 ChatGPT 自动解析场景，提取用例组件的深入分析](../../../paper_images/2408.03395/scenarios.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03395)

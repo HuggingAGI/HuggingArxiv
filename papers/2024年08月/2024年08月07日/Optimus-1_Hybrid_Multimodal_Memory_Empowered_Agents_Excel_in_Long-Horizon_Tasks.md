@@ -12,4 +12,94 @@
 
 > Building a general-purpose agent is a long-standing vision in the field of artificial intelligence. Existing agents have made remarkable progress in many domains, yet they still struggle to complete long-horizon tasks in an open world. We attribute this to the lack of necessary world knowledge and multimodal experience that can guide agents through a variety of long-horizon tasks. In this paper, we propose a Hybrid Multimodal Memory module to address the above challenges. It 1) transforms knowledge into Hierarchical Directed Knowledge Graph that allows agents to explicitly represent and learn world knowledge, and 2) summarises historical information into Abstracted Multimodal Experience Pool that provide agents with rich references for in-context learning. On top of the Hybrid Multimodal Memory module, a multimodal agent, Optimus-1, is constructed with dedicated Knowledge-guided Planner and Experience-Driven Reflector, contributing to a better planning and reflection in the face of long-horizon tasks in Minecraft. Extensive experimental results show that Optimus-1 significantly outperforms all existing agents on challenging long-horizon task benchmarks, and exhibits near human-level performance on many tasks. In addition, we introduce various Multimodal Large Language Models (MLLMs) as the backbone of Optimus-1. Experimental results show that Optimus-1 exhibits strong generalization with the help of the Hybrid Multimodal Memory module, outperforming the GPT-4V baseline on many tasks.
 
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x1.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x2.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x7.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x24.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x25.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x26.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x27.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x28.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x29.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x30.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x62.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x63.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x64.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x65.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x66.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x67.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x68.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x69.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x70.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x71.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x72.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x73.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x93.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x96.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x97.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x98.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x99.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x117.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x118.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x119.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x120.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x121.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x122.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x123.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x124.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x125.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x126.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x127.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x128.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x129.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x130.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x131.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x132.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x133.png)
+
+![Optimus-1 通过混合多模态记忆技术，使代理在处理长时程任务时表现卓越。](../../../paper_images/2408.03615/x134.png)
+
 [Arxiv](https://arxiv.org/abs/2408.03615)
