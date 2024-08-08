@@ -2,14 +2,6 @@
 
 2024年08月06日
 
-- [500xCompressor: Generalized Prompt Compression for Large Language Models](2024年08月06日/500xCompressor_Generalized_Prompt_Compression_for_Large_Language_Models.md)
-
-    - [翻译: 500xCompressor：专为大型语言模型设计的通用提示压缩工具](2024年08月06日/500xCompressor_Generalized_Prompt_Compression_for_Large_Language_Models.md)
-
-- [Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval](2024年08月06日/Accuracy_and_Consistency_of_LLMs_in_the_Registered_Dietitian_Exam_The_Impact_of_Prompt_Engineering_and_Knowledge_Retrieval.md)
-
-    - [翻译: LLM 在注册营养师考试中的表现，受提示工程与知识检索的双重影响，我们探讨其准确性与一致性的奥秘。](2024年08月06日/Accuracy_and_Consistency_of_LLMs_in_the_Registered_Dietitian_Exam_The_Impact_of_Prompt_Engineering_and_Knowledge_Retrieval.md)
-
 - [Benchmarking In-the-wild Multimodal Disease Recognition and A Versatile Baseline](2024年08月06日/Benchmarking_In-the-wild_Multimodal_Disease_Recognition_and_A_Versatile_Baseline.md)
 
     - [翻译: 野外多模态疾病识别的基准测试与多功能基线研究](2024年08月06日/Benchmarking_In-the-wild_Multimodal_Disease_Recognition_and_A_Versatile_Baseline.md)
@@ -21,10 +13,6 @@
 - [Evaluating the Translation Performance of Large Language Models Based on Euas-20](2024年08月06日/Evaluating_the_Translation_Performance_of_Large_Language_Models_Based_on_Euas-20.md)
 
     - [翻译: 基于 Euas-20 标准，评估大型语言模型的翻译表现](2024年08月06日/Evaluating_the_Translation_Performance_of_Large_Language_Models_Based_on_Euas-20.md)
-
-- [Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement](2024年08月06日/Extend_Model_Merging_from_Fine-Tuned_to_Pre-Trained_Large_Language_Models_via_Weight_Disentanglement.md)
-
-    - [翻译: 借助权重解耦技术，我们实现了从微调到预训练大型语言模型的模型合并扩展。](2024年08月06日/Extend_Model_Merging_from_Fine-Tuned_to_Pre-Trained_Large_Language_Models_via_Weight_Disentanglement.md)
 
 - [Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs](2024年08月06日/Fact_Finder_--_Enhancing_Domain_Expertise_of_Large_Language_Models_by_Incorporating_Knowledge_Graphs.md)
 
@@ -54,10 +42,6 @@
 
     - [翻译: 大型模型的多任务与多模态神经调谐](2024年08月06日/Multitask_and_Multimodal_Neural_Tuning_for_Large_Models.md)
 
-- [OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents](2024年08月06日/OpenOmni_A_Collaborative_Open_Source_Tool_for_Building_Future-Ready_Multimodal_Conversational_Agents.md)
-
-    - [翻译: OpenOmni：携手共创，打造面向未来的多模态对话智能体开源利器](2024年08月06日/OpenOmni_A_Collaborative_Open_Source_Tool_for_Building_Future-Ready_Multimodal_Conversational_Agents.md)
-
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](2024年08月06日/Scaling_LLM_Test-Time_Compute_Optimally_can_be_More_Effective_than_Scaling_Model_Parameters.md)
 
     - [翻译: 在大型语言模型（LLM）中，优化测试时的计算扩展策略可能比单纯增加模型参数更为高效。](2024年08月06日/Scaling_LLM_Test-Time_Compute_Optimally_can_be_More_Effective_than_Scaling_Model_Parameters.md)
@@ -65,14 +49,6 @@
 - [Synthesizing Text-to-SQL Data from Weak and Strong LLMs](2024年08月06日/Synthesizing_Text-to-SQL_Data_from_Weak_and_Strong_LLMs.md)
 
     - [翻译: 从弱与强 LLM 中合成 Text-to-SQL 数据](2024年08月06日/Synthesizing_Text-to-SQL_Data_from_Weak_and_Strong_LLMs.md)
-
-- [Targeted Visual Prompting for Medical Visual Question Answering](2024年08月06日/Targeted_Visual_Prompting_for_Medical_Visual_Question_Answering.md)
-
-    - [翻译: 医学视觉问答中的定向视觉提示](2024年08月06日/Targeted_Visual_Prompting_for_Medical_Visual_Question_Answering.md)
-
-- [TestART: Improving LLM-based Unit Test via Co-evolution of Automated Generation and Repair Iteration](2024年08月06日/TestART_Improving_LLM-based_Unit_Test_via_Co-evolution_of_Automated_Generation_and_Repair_Iteration.md)
-
-    - [翻译: TestART：借助自动化生成与修复的迭代共进化，提升基于 LLM 的单元测试质量。](2024年08月06日/TestART_Improving_LLM-based_Unit_Test_via_Co-evolution_of_Automated_Generation_and_Repair_Iteration.md)
 
 - [Towards an Analysis of Discourse and Interactional Pragmatic Reasoning Capabilities of Large Language Models](2024年08月06日/Towards_an_Analysis_of_Discourse_and_Interactional_Pragmatic_Reasoning_Capabilities_of_Large_Language_Models.md)
 
