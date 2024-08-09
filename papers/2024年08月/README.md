@@ -132,18 +132,6 @@
 
     - [翻译: 尽管大型语言模型研究中的学术合作整体呈上升趋势，但各学科间的合作模式却各不相同。](2024年08月07日/Academic_collaboration_on_large_language_model_studies_increases_overall_but_varies_across_disciplines.md)
 
-- [A Deixis-Centered Approach for Documenting Remote Synchronous Communication around Data Visualizations](2024年08月07日/A_Deixis-Centered_Approach_for_Documenting_Remote_Synchronous_Communication_around_Data_Visualizations.md)
-
-    - [翻译: 聚焦指示语，探索数据可视化中的远程同步沟通记录方法](2024年08月07日/A_Deixis-Centered_Approach_for_Documenting_Remote_Synchronous_Communication_around_Data_Visualizations.md)
-
-- [ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling](2024年08月07日/ArtVLM_Attribute_Recognition_Through_Vision-Based_Prefix_Language_Modeling.md)
-
-    - [翻译: ArtVLM：利用视觉前缀语言模型实现属性识别](2024年08月07日/ArtVLM_Attribute_Recognition_Through_Vision-Based_Prefix_Language_Modeling.md)
-
-- [Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology](2024年08月07日/Can_Rule-Based_Insights_Enhance_LLMs_for_Radiology_Report_Classification_Introducing_the_RadPrompt_Methodology.md)
-
-    - [翻译: RadPrompt 方法论探索：基于规则的洞察如何助力大型语言模型在放射学报告分类中更上一层楼？](2024年08月07日/Can_Rule-Based_Insights_Enhance_LLMs_for_Radiology_Report_Classification_Introducing_the_RadPrompt_Methodology.md)
-
 - [ComKD-CLIP: Comprehensive Knowledge Distillation for Contrastive Language-Image Pre-traning Model](2024年08月07日/ComKD-CLIP_Comprehensive_Knowledge_Distillation_for_Contrastive_Language-Image_Pre-traning_Model.md)
 
     - [翻译: ComKD-CLIP：为对比语言-图像预训练模型提供全面知识蒸馏的解决方案](2024年08月07日/ComKD-CLIP_Comprehensive_Knowledge_Distillation_for_Contrastive_Language-Image_Pre-traning_Model.md)
@@ -155,10 +143,6 @@
 - [Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering](2024年08月07日/Enhancing_Healthcare_through_Large_Language_Models_A_Study_on_Medical_Question_Answering.md)
 
     - [翻译: 利用大型语言模型提升医疗保健：聚焦医学问答的研究](2024年08月07日/Enhancing_Healthcare_through_Large_Language_Models_A_Study_on_Medical_Question_Answering.md)
-
-- [Exploring RAG-based Vulnerability Augmentation with LLMs](2024年08月07日/Exploring_RAG-based_Vulnerability_Augmentation_with_LLMs.md)
-
-    - [翻译: 探究大型语言模型中基于 RAG 的漏洞增强技术](2024年08月07日/Exploring_RAG-based_Vulnerability_Augmentation_with_LLMs.md)
 
 - [Knowledge-based Emotion Recognition using Large Language Models](2024年08月07日/Knowledge-based_Emotion_Recognition_using_Large_Language_Models.md)
 
@@ -175,14 +159,6 @@
 - [Pairwise Judgment Formulation for Semantic Embedding Model in Web Search](2024年08月07日/Pairwise_Judgment_Formulation_for_Semantic_Embedding_Model_in_Web_Search.md)
 
     - [翻译: Web 搜索中语义嵌入模型的配对判断方法](2024年08月07日/Pairwise_Judgment_Formulation_for_Semantic_Embedding_Model_in_Web_Search.md)
-
-- [Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions](2024年08月07日/Perceive,_Reflect,_and_Plan_Designing_LLM_Agent_for_Goal-Directed_City_Navigation_without_Instructions.md)
-
-    - [翻译: 设计一个能够感知、反思并规划的LLM代理，实现无需指令的目标导向城市导航。](2024年08月07日/Perceive,_Reflect,_and_Plan_Designing_LLM_Agent_for_Goal-Directed_City_Navigation_without_Instructions.md)
-
-- [Task-oriented Sequential Grounding in 3D Scenes](2024年08月07日/Task-oriented_Sequential_Grounding_in_3D_Scenes.md)
-
-    - [翻译: 3D场景中的任务导向顺序基础](2024年08月07日/Task-oriented_Sequential_Grounding_in_3D_Scenes.md)
 
 - [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](2024年08月07日/wav2graph_A_Framework_for_Supervised_Learning_Knowledge_Graph_from_Speech.md)
 
