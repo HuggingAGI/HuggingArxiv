@@ -10,17 +10,9 @@
 
     - [翻译: 优化指令交互式翻译的协调性](2024年08月08日/Better_Alignment_with_Instruction_Back-and-Forth_Translation.md)
 
-- [Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models](2024年08月08日/Bias-Aware_Low-Rank_Adaptation_Mitigating_Catastrophic_Inheritance_of_Large_Language_Models.md)
-
-    - [翻译: 偏差感知低秩适应策略，旨在缓解大型语言模型中的灾难性继承问题。](2024年08月08日/Bias-Aware_Low-Rank_Adaptation_Mitigating_Catastrophic_Inheritance_of_Large_Language_Models.md)
-
 - [Conversational Prompt Engineering](2024年08月08日/Conversational_Prompt_Engineering.md)
 
     - [翻译: 对话式提示设计](2024年08月08日/Conversational_Prompt_Engineering.md)
-
-- [Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations](2024年08月08日/Deep_Generative_Models_in_Robotics_A_Survey_on_Learning_from_Multimodal_Demonstrations.md)
-
-    - [翻译: 深度生成模型在机器人学中的应用：探索多模态演示学习之道](2024年08月08日/Deep_Generative_Models_in_Robotics_A_Survey_on_Learning_from_Multimodal_Demonstrations.md)
 
 - [Enhancing Journalism with AI: A Study of Contextualized Image Captioning for News Articles using LLMs and LMMs](2024年08月08日/Enhancing_Journalism_with_AI_A_Study_of_Contextualized_Image_Captioning_for_News_Articles_using_LLMs_and_LMMs.md)
 
@@ -34,10 +26,6 @@
 
     - [翻译: LaDiMo：灵感源自层级蒸馏的 MoEfier](2024年08月08日/LaDiMo_Layer-wise_Distillation_Inspired_MoEfier.md)
 
-- [Learning Fine-Grained Grounded Citations for Attributed Large Language Models](2024年08月08日/Learning_Fine-Grained_Grounded_Citations_for_Attributed_Large_Language_Models.md)
-
-    - [翻译: 细粒度引用学习：为大型语言模型赋予属性](2024年08月08日/Learning_Fine-Grained_Grounded_Citations_for_Attributed_Large_Language_Models.md)
-
 - [LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
 
     - [翻译: LLM-DetectAIve：一款精密的机器生成文本检测工具](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
@@ -45,18 +33,6 @@
 - [Open-domain Implicit Format Control for Large Language Model Generation](2024年08月08日/Open-domain_Implicit_Format_Control_for_Large_Language_Model_Generation.md)
 
     - [翻译: 大型语言模型在开放域生成中，隐式格式控制的运用](2024年08月08日/Open-domain_Implicit_Format_Control_for_Large_Language_Model_Generation.md)
-
-- [Partial Experts Checkpoint: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training](2024年08月08日/Partial_Experts_Checkpoint_Efficient_Fault_Tolerance_for_Sparse_Mixture-of-Experts_Model_Training.md)
-
-    - [翻译: 部分专家检查点技术，为稀疏混合专家模型训练提供高效容错机制。](2024年08月08日/Partial_Experts_Checkpoint_Efficient_Fault_Tolerance_for_Sparse_Mixture-of-Experts_Model_Training.md)
-
-- [Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models](2024年08月08日/Recognizing_Emotion_Regulation_Strategies_from_Human_Behavior_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型洞察人类情绪调节策略](2024年08月08日/Recognizing_Emotion_Regulation_Strategies_from_Human_Behavior_with_Large_Language_Models.md)
-
-- [SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals](2024年08月08日/SCENE_Evaluating_Explainable_AI_Techniques_Using_Soft_Counterfactuals.md)
-
-    - [翻译: 利用软反事实技术评估可解释AI场景](2024年08月08日/SCENE_Evaluating_Explainable_AI_Techniques_Using_Soft_Counterfactuals.md)
 
 - [Semantic-Enhanced Indirect Call Analysis with Large Language Models](2024年08月08日/Semantic-Enhanced_Indirect_Call_Analysis_with_Large_Language_Models.md)
 
