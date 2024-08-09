@@ -1,27 +1,5 @@
 # 2024年08月
 
-2024年08月08日
-
-- [Better Alignment with Instruction Back-and-Forth Translation](2024年08月08日/Better_Alignment_with_Instruction_Back-and-Forth_Translation.md)
-
-    - [翻译: 优化指令交互式翻译的协调性](2024年08月08日/Better_Alignment_with_Instruction_Back-and-Forth_Translation.md)
-
-- [Conversational Prompt Engineering](2024年08月08日/Conversational_Prompt_Engineering.md)
-
-    - [翻译: 对话式提示设计](2024年08月08日/Conversational_Prompt_Engineering.md)
-
-- [Exploring Reasoning Biases in Large Language Models Through Syllogism: Insights from the NeuBAROCO Dataset](2024年08月08日/Exploring_Reasoning_Biases_in_Large_Language_Models_Through_Syllogism_Insights_from_the_NeuBAROCO_Dataset.md)
-
-    - [翻译: 本研究通过三段论揭示大型语言模型中的推理偏差，并基于 NeuBAROCO 数据集提供深入见解。](2024年08月08日/Exploring_Reasoning_Biases_in_Large_Language_Models_Through_Syllogism_Insights_from_the_NeuBAROCO_Dataset.md)
-
-- [Open-domain Implicit Format Control for Large Language Model Generation](2024年08月08日/Open-domain_Implicit_Format_Control_for_Large_Language_Model_Generation.md)
-
-    - [翻译: 大型语言模型在开放域生成中，隐式格式控制的运用](2024年08月08日/Open-domain_Implicit_Format_Control_for_Large_Language_Model_Generation.md)
-
-- [Semantic-Enhanced Indirect Call Analysis with Large Language Models](2024年08月08日/Semantic-Enhanced_Indirect_Call_Analysis_with_Large_Language_Models.md)
-
-    - [翻译: 借助大型语言模型，我们实现了语义增强的间接调用分析。](2024年08月08日/Semantic-Enhanced_Indirect_Call_Analysis_with_Large_Language_Models.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
