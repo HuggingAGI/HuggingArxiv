@@ -54,10 +54,6 @@
 
     - [翻译: 本研究通过三段论揭示大型语言模型中的推理偏差，并基于 NeuBAROCO 数据集提供深入见解。](2024年08月08日/Exploring_Reasoning_Biases_in_Large_Language_Models_Through_Syllogism_Insights_from_the_NeuBAROCO_Dataset.md)
 
-- [Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models](2024年08月08日/Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: Img-Diff：为多模态大型语言模型打造对比数据合成](2024年08月08日/Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models.md)
-
 - [LaDiMo: Layer-wise Distillation Inspired MoEfier](2024年08月08日/LaDiMo_Layer-wise_Distillation_Inspired_MoEfier.md)
 
     - [翻译: LaDiMo：灵感源自层级蒸馏的 MoEfier](2024年08月08日/LaDiMo_Layer-wise_Distillation_Inspired_MoEfier.md)
@@ -77,10 +73,6 @@
 - [LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
 
     - [翻译: LLM-DetectAIve：一款精密的机器生成文本检测工具](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
-
-- [MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models](2024年08月08日/MM-Forecast_A_Multimodal_Approach_to_Temporal_Event_Forecasting_with_Large_Language_Models.md)
-
-    - [翻译: MM-Forecast：采用多模态技术，结合大型语言模型进行时间事件预测](2024年08月08日/MM-Forecast_A_Multimodal_Approach_to_Temporal_Event_Forecasting_with_Large_Language_Models.md)
 
 - [MMREC: LLM Based Multi-Modal Recommender System](2024年08月08日/MMREC_LLM_Based_Multi-Modal_Recommender_System.md)
 
@@ -125,24 +117,6 @@
 - [Towards SLO-Optimized LLM Serving via Automatic Inference Engine Tuning](2024年08月08日/Towards_SLO-Optimized_LLM_Serving_via_Automatic_Inference_Engine_Tuning.md)
 
     - [翻译: 通过自动推理引擎调优，迈向SLO优化的LLM服务](2024年08月08日/Towards_SLO-Optimized_LLM_Serving_via_Automatic_Inference_Engine_Tuning.md)
-
-2024年08月07日
-
-- [Academic collaboration on large language model studies increases overall but varies across disciplines](2024年08月07日/Academic_collaboration_on_large_language_model_studies_increases_overall_but_varies_across_disciplines.md)
-
-    - [翻译: 尽管大型语言模型研究中的学术合作整体呈上升趋势，但各学科间的合作模式却各不相同。](2024年08月07日/Academic_collaboration_on_large_language_model_studies_increases_overall_but_varies_across_disciplines.md)
-
-- [Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering](2024年08月07日/Enhancing_Healthcare_through_Large_Language_Models_A_Study_on_Medical_Question_Answering.md)
-
-    - [翻译: 利用大型语言模型提升医疗保健：聚焦医学问答的研究](2024年08月07日/Enhancing_Healthcare_through_Large_Language_Models_A_Study_on_Medical_Question_Answering.md)
-
-- [Pairwise Judgment Formulation for Semantic Embedding Model in Web Search](2024年08月07日/Pairwise_Judgment_Formulation_for_Semantic_Embedding_Model_in_Web_Search.md)
-
-    - [翻译: Web 搜索中语义嵌入模型的配对判断方法](2024年08月07日/Pairwise_Judgment_Formulation_for_Semantic_Embedding_Model_in_Web_Search.md)
-
-- [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](2024年08月07日/wav2graph_A_Framework_for_Supervised_Learning_Knowledge_Graph_from_Speech.md)
-
-    - [翻译: wav2graph：一款专为从语音数据中构建监督学习知识图谱的框架](2024年08月07日/wav2graph_A_Framework_for_Supervised_Learning_Knowledge_Graph_from_Speech.md)
 
 2024年08月05日
 
