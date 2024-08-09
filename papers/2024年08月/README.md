@@ -132,29 +132,9 @@
 
     - [翻译: 尽管大型语言模型研究中的学术合作整体呈上升趋势，但各学科间的合作模式却各不相同。](2024年08月07日/Academic_collaboration_on_large_language_model_studies_increases_overall_but_varies_across_disciplines.md)
 
-- [ComKD-CLIP: Comprehensive Knowledge Distillation for Contrastive Language-Image Pre-traning Model](2024年08月07日/ComKD-CLIP_Comprehensive_Knowledge_Distillation_for_Contrastive_Language-Image_Pre-traning_Model.md)
-
-    - [翻译: ComKD-CLIP：为对比语言-图像预训练模型提供全面知识蒸馏的解决方案](2024年08月07日/ComKD-CLIP_Comprehensive_Knowledge_Distillation_for_Contrastive_Language-Image_Pre-traning_Model.md)
-
-- [Digital Avatars: Framework Development and Their Evaluation](2024年08月07日/Digital_Avatars_Framework_Development_and_Their_Evaluation.md)
-
-    - [翻译: 数字化身：构建框架与评估方法](2024年08月07日/Digital_Avatars_Framework_Development_and_Their_Evaluation.md)
-
 - [Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering](2024年08月07日/Enhancing_Healthcare_through_Large_Language_Models_A_Study_on_Medical_Question_Answering.md)
 
     - [翻译: 利用大型语言模型提升医疗保健：聚焦医学问答的研究](2024年08月07日/Enhancing_Healthcare_through_Large_Language_Models_A_Study_on_Medical_Question_Answering.md)
-
-- [Knowledge-based Emotion Recognition using Large Language Models](2024年08月07日/Knowledge-based_Emotion_Recognition_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型进行基于知识的情感识别](2024年08月07日/Knowledge-based_Emotion_Recognition_using_Large_Language_Models.md)
-
-- [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](2024年08月07日/Medical_Graph_RAG_Towards_Safe_Medical_Large_Language_Model_via_Graph_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 医疗图谱增强生成（Medical Graph RAG）：借助图谱检索增强技术，构建安全可靠的医疗大型语言模型。](2024年08月07日/Medical_Graph_RAG_Towards_Safe_Medical_Large_Language_Model_via_Graph_Retrieval-Augmented_Generation.md)
-
-- [MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents](2024年08月07日/MMRole_A_Comprehensive_Framework_for_Developing_and_Evaluating_Multimodal_Role-Playing_Agents.md)
-
-    - [翻译: MMRole：开发与评估多模态角色扮演代理的综合框架](2024年08月07日/MMRole_A_Comprehensive_Framework_for_Developing_and_Evaluating_Multimodal_Role-Playing_Agents.md)
 
 - [Pairwise Judgment Formulation for Semantic Embedding Model in Web Search](2024年08月07日/Pairwise_Judgment_Formulation_for_Semantic_Embedding_Model_in_Web_Search.md)
 
@@ -163,10 +143,6 @@
 - [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](2024年08月07日/wav2graph_A_Framework_for_Supervised_Learning_Knowledge_Graph_from_Speech.md)
 
     - [翻译: wav2graph：一款专为从语音数据中构建监督学习知识图谱的框架](2024年08月07日/wav2graph_A_Framework_for_Supervised_Learning_Knowledge_Graph_from_Speech.md)
-
-- [Zero-Delay QKV Compression for Mitigating KV Cache and Network Bottlenecks in LLM Inference](2024年08月07日/Zero-Delay_QKV_Compression_for_Mitigating_KV_Cache_and_Network_Bottlenecks_in_LLM_Inference.md)
-
-    - [翻译: 通过零延迟 QKV 压缩技术，我们旨在缓解 LLM 推理过程中 KV 缓存和网络的瓶颈问题。](2024年08月07日/Zero-Delay_QKV_Compression_for_Mitigating_KV_Cache_and_Network_Bottlenecks_in_LLM_Inference.md)
 
 2024年08月05日
 
