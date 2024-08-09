@@ -6,10 +6,6 @@
 
     - [翻译: 探究 BERT 模型中的论点结构构造](2024年08月08日/Analysis_of_Argument_Structure_Constructions_in_the_Large_Language_Model_BERT.md)
 
-- [Are Social Sentiments Inherent in LLMs? An Empirical Study on Extraction of Inter-demographic Sentiments](2024年08月08日/Are_Social_Sentiments_Inherent_in_LLMs_An_Empirical_Study_on_Extraction_of_Inter-demographic_Sentiments.md)
-
-    - [翻译: 大型语言模型中是否蕴含社会情感？本研究深入探讨了跨人口统计情感的提取。](2024年08月08日/Are_Social_Sentiments_Inherent_in_LLMs_An_Empirical_Study_on_Extraction_of_Inter-demographic_Sentiments.md)
-
 - [Better Alignment with Instruction Back-and-Forth Translation](2024年08月08日/Better_Alignment_with_Instruction_Back-and-Forth_Translation.md)
 
     - [翻译: 优化指令交互式翻译的协调性](2024年08月08日/Better_Alignment_with_Instruction_Back-and-Forth_Translation.md)
@@ -18,10 +14,6 @@
 
     - [翻译: 偏差感知低秩适应策略，旨在缓解大型语言模型中的灾难性继承问题。](2024年08月08日/Bias-Aware_Low-Rank_Adaptation_Mitigating_Catastrophic_Inheritance_of_Large_Language_Models.md)
 
-- [Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models](2024年08月08日/Compromesso!_Italian_Many-Shot_Jailbreaks_Undermine_the_Safety_of_Large_Language_Models.md)
-
-    - [翻译: 意大利式的多次尝试越狱，正逐渐削弱大型语言模型的安全防线。](2024年08月08日/Compromesso!_Italian_Many-Shot_Jailbreaks_Undermine_the_Safety_of_Large_Language_Models.md)
-
 - [Conversational Prompt Engineering](2024年08月08日/Conversational_Prompt_Engineering.md)
 
     - [翻译: 对话式提示设计](2024年08月08日/Conversational_Prompt_Engineering.md)
@@ -29,10 +21,6 @@
 - [Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations](2024年08月08日/Deep_Generative_Models_in_Robotics_A_Survey_on_Learning_from_Multimodal_Demonstrations.md)
 
     - [翻译: 深度生成模型在机器人学中的应用：探索多模态演示学习之道](2024年08月08日/Deep_Generative_Models_in_Robotics_A_Survey_on_Learning_from_Multimodal_Demonstrations.md)
-
-- [EMTeC: A Corpus of Eye Movements on Machine-Generated Texts](2024年08月08日/EMTeC_A_Corpus_of_Eye_Movements_on_Machine-Generated_Texts.md)
-
-    - [翻译: EMTeC：一个收录机器生成文本上眼动数据的语料库](2024年08月08日/EMTeC_A_Corpus_of_Eye_Movements_on_Machine-Generated_Texts.md)
 
 - [Enhancing Journalism with AI: A Study of Contextualized Image Captioning for News Articles using LLMs and LMMs](2024年08月08日/Enhancing_Journalism_with_AI_A_Study_of_Contextualized_Image_Captioning_for_News_Articles_using_LLMs_and_LMMs.md)
 
@@ -45,10 +33,6 @@
 - [LaDiMo: Layer-wise Distillation Inspired MoEfier](2024年08月08日/LaDiMo_Layer-wise_Distillation_Inspired_MoEfier.md)
 
     - [翻译: LaDiMo：灵感源自层级蒸馏的 MoEfier](2024年08月08日/LaDiMo_Layer-wise_Distillation_Inspired_MoEfier.md)
-
-- [Large Language Models for cross-language code clone detection](2024年08月08日/Large_Language_Models_for_cross-language_code_clone_detection.md)
-
-    - [翻译: 利用大型语言模型进行跨语言代码克隆检测](2024年08月08日/Large_Language_Models_for_cross-language_code_clone_detection.md)
 
 - [Learning Fine-Grained Grounded Citations for Attributed Large Language Models](2024年08月08日/Learning_Fine-Grained_Grounded_Citations_for_Attributed_Large_Language_Models.md)
 
@@ -81,10 +65,6 @@
 - [Simplifying Translations for Children: Iterative Simplification Considering Age of Acquisition with LLMs](2024年08月08日/Simplifying_Translations_for_Children_Iterative_Simplification_Considering_Age_of_Acquisition_with_LLMs.md)
 
     - [翻译: 利用 LLMs 进行迭代简化，为儿童量身定制翻译，考虑其语言习得年龄。](2024年08月08日/Simplifying_Translations_for_Children_Iterative_Simplification_Considering_Age_of_Acquisition_with_LLMs.md)
-
-- [Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness](2024年08月08日/Towards_Resilient_and_Efficient_LLMs_A_Comparative_Study_of_Efficiency,_Performance,_and_Adversarial_Robustness.md)
-
-    - [翻译: 本研究旨在探索如何使 LLM 既高效又具备弹性，通过比较分析其效率、性能及对抗性鲁健性，以期达到更优的综合表现。](2024年08月08日/Towards_Resilient_and_Efficient_LLMs_A_Comparative_Study_of_Efficiency,_Performance,_and_Adversarial_Robustness.md)
 
 - [Towards SLO-Optimized LLM Serving via Automatic Inference Engine Tuning](2024年08月08日/Towards_SLO-Optimized_LLM_Serving_via_Automatic_Inference_Engine_Tuning.md)
 
