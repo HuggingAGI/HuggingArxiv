@@ -2,10 +2,6 @@
 
 2024年08月08日
 
-- [Addressing Model and Data Heterogeneity in Multimodal Large Language Model Training](2024年08月08日/Addressing_Model_and_Data_Heterogeneity_in_Multimodal_Large_Language_Model_Training.md)
-
-    - [翻译: 应对多模态大型语言模型训练中的模型与数据异质性挑战](2024年08月08日/Addressing_Model_and_Data_Heterogeneity_in_Multimodal_Large_Language_Model_Training.md)
-
 - [Analysis of Argument Structure Constructions in the Large Language Model BERT](2024年08月08日/Analysis_of_Argument_Structure_Constructions_in_the_Large_Language_Model_BERT.md)
 
     - [翻译: 探究 BERT 模型中的论点结构构造](2024年08月08日/Analysis_of_Argument_Structure_Constructions_in_the_Large_Language_Model_BERT.md)
@@ -22,10 +18,6 @@
 
     - [翻译: 偏差感知低秩适应策略，旨在缓解大型语言模型中的灾难性继承问题。](2024年08月08日/Bias-Aware_Low-Rank_Adaptation_Mitigating_Catastrophic_Inheritance_of_Large_Language_Models.md)
 
-- [Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate](2024年08月08日/Can_LLMs_Beat_Humans_in_Debating_A_Dynamic_Multi-agent_Framework_for_Competitive_Debate.md)
-
-    - [翻译: LLMs 能否在辩论中胜过人类？探索竞技辩论的动态多代理框架](2024年08月08日/Can_LLMs_Beat_Humans_in_Debating_A_Dynamic_Multi-agent_Framework_for_Competitive_Debate.md)
-
 - [Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models](2024年08月08日/Compromesso!_Italian_Many-Shot_Jailbreaks_Undermine_the_Safety_of_Large_Language_Models.md)
 
     - [翻译: 意大利式的多次尝试越狱，正逐渐削弱大型语言模型的安全防线。](2024年08月08日/Compromesso!_Italian_Many-Shot_Jailbreaks_Undermine_the_Safety_of_Large_Language_Models.md)
@@ -37,10 +29,6 @@
 - [Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations](2024年08月08日/Deep_Generative_Models_in_Robotics_A_Survey_on_Learning_from_Multimodal_Demonstrations.md)
 
     - [翻译: 深度生成模型在机器人学中的应用：探索多模态演示学习之道](2024年08月08日/Deep_Generative_Models_in_Robotics_A_Survey_on_Learning_from_Multimodal_Demonstrations.md)
-
-- [EfficientRAG: Efficient Retriever for Multi-Hop Question Answering](2024年08月08日/EfficientRAG_Efficient_Retriever_for_Multi-Hop_Question_Answering.md)
-
-    - [翻译: EfficientRAG：专为多跳问答设计的高效检索工具](2024年08月08日/EfficientRAG_Efficient_Retriever_for_Multi-Hop_Question_Answering.md)
 
 - [EMTeC: A Corpus of Eye Movements on Machine-Generated Texts](2024年08月08日/EMTeC_A_Corpus_of_Eye_Movements_on_Machine-Generated_Texts.md)
 
@@ -66,17 +54,9 @@
 
     - [翻译: 细粒度引用学习：为大型语言模型赋予属性](2024年08月08日/Learning_Fine-Grained_Grounded_Citations_for_Attributed_Large_Language_Models.md)
 
-- [Learning to Rewrite: Generalized LLM-Generated Text Detection](2024年08月08日/Learning_to_Rewrite_Generalized_LLM-Generated_Text_Detection.md)
-
-    - [翻译: 学习改写：广义 LLM 生成文本的识别](2024年08月08日/Learning_to_Rewrite_Generalized_LLM-Generated_Text_Detection.md)
-
 - [LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
 
     - [翻译: LLM-DetectAIve：一款精密的机器生成文本检测工具](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
-
-- [MMREC: LLM Based Multi-Modal Recommender System](2024年08月08日/MMREC_LLM_Based_Multi-Modal_Recommender_System.md)
-
-    - [翻译: MMREC：一款基于大型语言模型的多模态推荐系统](2024年08月08日/MMREC_LLM_Based_Multi-Modal_Recommender_System.md)
 
 - [Open-domain Implicit Format Control for Large Language Model Generation](2024年08月08日/Open-domain_Implicit_Format_Control_for_Large_Language_Model_Generation.md)
 
@@ -90,10 +70,6 @@
 
     - [翻译: 利用大型语言模型洞察人类情绪调节策略](2024年08月08日/Recognizing_Emotion_Regulation_Strategies_from_Human_Behavior_with_Large_Language_Models.md)
 
-- [RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents](2024年08月08日/RiskAwareBench_Towards_Evaluating_Physical_Risk_Awareness_for_High-level_Planning_of_LLM-based_Embodied_Agents.md)
-
-    - [翻译: RiskAwareBench：评估基于 LLM 的具身代理在高级规划中的物理风险意识](2024年08月08日/RiskAwareBench_Towards_Evaluating_Physical_Risk_Awareness_for_High-level_Planning_of_LLM-based_Embodied_Agents.md)
-
 - [SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals](2024年08月08日/SCENE_Evaluating_Explainable_AI_Techniques_Using_Soft_Counterfactuals.md)
 
     - [翻译: 利用软反事实技术评估可解释AI场景](2024年08月08日/SCENE_Evaluating_Explainable_AI_Techniques_Using_Soft_Counterfactuals.md)
@@ -105,10 +81,6 @@
 - [Simplifying Translations for Children: Iterative Simplification Considering Age of Acquisition with LLMs](2024年08月08日/Simplifying_Translations_for_Children_Iterative_Simplification_Considering_Age_of_Acquisition_with_LLMs.md)
 
     - [翻译: 利用 LLMs 进行迭代简化，为儿童量身定制翻译，考虑其语言习得年龄。](2024年08月08日/Simplifying_Translations_for_Children_Iterative_Simplification_Considering_Age_of_Acquisition_with_LLMs.md)
-
-- [Towards Explainable Network Intrusion Detection using Large Language Models](2024年08月08日/Towards_Explainable_Network_Intrusion_Detection_using_Large_Language_Models.md)
-
-    - [翻译: 探索利用大型语言模型实现网络入侵检测的可解释性](2024年08月08日/Towards_Explainable_Network_Intrusion_Detection_using_Large_Language_Models.md)
 
 - [Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness](2024年08月08日/Towards_Resilient_and_Efficient_LLMs_A_Comparative_Study_of_Efficiency,_Performance,_and_Adversarial_Robustness.md)
 
