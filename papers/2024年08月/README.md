@@ -2,10 +2,6 @@
 
 2024年08月08日
 
-- [Analysis of Argument Structure Constructions in the Large Language Model BERT](2024年08月08日/Analysis_of_Argument_Structure_Constructions_in_the_Large_Language_Model_BERT.md)
-
-    - [翻译: 探究 BERT 模型中的论点结构构造](2024年08月08日/Analysis_of_Argument_Structure_Constructions_in_the_Large_Language_Model_BERT.md)
-
 - [Better Alignment with Instruction Back-and-Forth Translation](2024年08月08日/Better_Alignment_with_Instruction_Back-and-Forth_Translation.md)
 
     - [翻译: 优化指令交互式翻译的协调性](2024年08月08日/Better_Alignment_with_Instruction_Back-and-Forth_Translation.md)
@@ -14,21 +10,9 @@
 
     - [翻译: 对话式提示设计](2024年08月08日/Conversational_Prompt_Engineering.md)
 
-- [Enhancing Journalism with AI: A Study of Contextualized Image Captioning for News Articles using LLMs and LMMs](2024年08月08日/Enhancing_Journalism_with_AI_A_Study_of_Contextualized_Image_Captioning_for_News_Articles_using_LLMs_and_LMMs.md)
-
-    - [翻译: 借助 LLMs 和 LMMs，本研究探索了如何通过上下文图像描述技术提升新闻报道的质量。](2024年08月08日/Enhancing_Journalism_with_AI_A_Study_of_Contextualized_Image_Captioning_for_News_Articles_using_LLMs_and_LMMs.md)
-
 - [Exploring Reasoning Biases in Large Language Models Through Syllogism: Insights from the NeuBAROCO Dataset](2024年08月08日/Exploring_Reasoning_Biases_in_Large_Language_Models_Through_Syllogism_Insights_from_the_NeuBAROCO_Dataset.md)
 
     - [翻译: 本研究通过三段论揭示大型语言模型中的推理偏差，并基于 NeuBAROCO 数据集提供深入见解。](2024年08月08日/Exploring_Reasoning_Biases_in_Large_Language_Models_Through_Syllogism_Insights_from_the_NeuBAROCO_Dataset.md)
-
-- [LaDiMo: Layer-wise Distillation Inspired MoEfier](2024年08月08日/LaDiMo_Layer-wise_Distillation_Inspired_MoEfier.md)
-
-    - [翻译: LaDiMo：灵感源自层级蒸馏的 MoEfier](2024年08月08日/LaDiMo_Layer-wise_Distillation_Inspired_MoEfier.md)
-
-- [LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
-
-    - [翻译: LLM-DetectAIve：一款精密的机器生成文本检测工具](2024年08月08日/LLM-DetectAIve_a_Tool_for_Fine-Grained_Machine-Generated_Text_Detection.md)
 
 - [Open-domain Implicit Format Control for Large Language Model Generation](2024年08月08日/Open-domain_Implicit_Format_Control_for_Large_Language_Model_Generation.md)
 
@@ -37,14 +21,6 @@
 - [Semantic-Enhanced Indirect Call Analysis with Large Language Models](2024年08月08日/Semantic-Enhanced_Indirect_Call_Analysis_with_Large_Language_Models.md)
 
     - [翻译: 借助大型语言模型，我们实现了语义增强的间接调用分析。](2024年08月08日/Semantic-Enhanced_Indirect_Call_Analysis_with_Large_Language_Models.md)
-
-- [Simplifying Translations for Children: Iterative Simplification Considering Age of Acquisition with LLMs](2024年08月08日/Simplifying_Translations_for_Children_Iterative_Simplification_Considering_Age_of_Acquisition_with_LLMs.md)
-
-    - [翻译: 利用 LLMs 进行迭代简化，为儿童量身定制翻译，考虑其语言习得年龄。](2024年08月08日/Simplifying_Translations_for_Children_Iterative_Simplification_Considering_Age_of_Acquisition_with_LLMs.md)
-
-- [Towards SLO-Optimized LLM Serving via Automatic Inference Engine Tuning](2024年08月08日/Towards_SLO-Optimized_LLM_Serving_via_Automatic_Inference_Engine_Tuning.md)
-
-    - [翻译: 通过自动推理引擎调优，迈向SLO优化的LLM服务](2024年08月08日/Towards_SLO-Optimized_LLM_Serving_via_Automatic_Inference_Engine_Tuning.md)
 
 2024年08月05日
 
