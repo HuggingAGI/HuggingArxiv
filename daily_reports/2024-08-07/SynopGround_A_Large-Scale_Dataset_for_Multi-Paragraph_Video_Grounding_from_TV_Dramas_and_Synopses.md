@@ -1,5 +1,5 @@
 # SynopGround：一个大规模数据集，专为从电视剧及其剧情简介中进行多段视频定位而设计。
-发布时间：2024年08月03日
+发布时间：2024年08月08日
 
 
 > SynopGround: A Large-Scale Dataset for Multi-Paragraph Video Grounding from TV Dramas and Synopses

@@ -1,5 +1,5 @@
 # 代理 LLM 工作流程助力生成患者友好型医疗报告
-发布时间：2024年08月02日
+发布时间：2024年08月05日
 
 `Agent应用`
 > Agentic LLM Workflows for Generating Patient-Friendly Medical Reports
