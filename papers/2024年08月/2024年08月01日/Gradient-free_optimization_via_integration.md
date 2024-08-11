@@ -15,4 +15,36 @@ Abstract:In this paper we propose a novel, general purpose, algorithm to optimiz
 The algorithm is therefore particularly simple to implement and we illustrate performance on a challenging Machine Learning classification problem. Our methodology naturally extends to the scenario where only noisy measurements of $l$ are available and retains ease of implementation and performance. At a theoretical level we establish, in a fairly general scenario, that our framework can be viewed as implicitly implementing a time inhomogeneous gradient descent algorithm on a sequence of smoothed approximations of $l$. This opens the door to establishing convergence of the algorithm and provide theoretical guarantees. Along the way, we establish new results for inhomogeneous gradient descent algorithms of independent interest.
     
 
+![无梯度优化：集成方法](../../../paper_images/2408.00888/varying_gaussians_new.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x1.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x2.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x3.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x4.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x5.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x6.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/empty_argmin.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/argmin_inclusion_new.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/lsc_fails_new.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x7.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x8.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x9.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x10.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x11.png)
+
+![无梯度优化：集成方法](../../../paper_images/2408.00888/x12.png)
+
 [Arxiv](https://arxiv.org/pdf/2408.00888)
