@@ -50,6 +50,10 @@
 
     - [翻译: 中间层直接偏好优化](2024年08月05日/Intermediate_direct_preference_optimization.md)
 
+- [Language Model Can Listen While Speaking](2024年08月05日/Language_Model_Can_Listen_While_Speaking.md)
+
+    - [翻译: 语言模型边说边听，功能非凡。](2024年08月05日/Language_Model_Can_Listen_While_Speaking.md)
+
 - [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models](2024年08月05日/Let_Me_Speak_Freely_A_Study_on_the_Impact_of_Format_Restrictions_on_Performance_of_Large_Language_Models.md)
 
     - [翻译: 自由表达之难：探究格式限制如何影响大型语言模型的表现](2024年08月05日/Let_Me_Speak_Freely_A_Study_on_the_Impact_of_Format_Restrictions_on_Performance_of_Large_Language_Models.md)
@@ -115,3 +119,15 @@
 - [User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance](2024年08月04日/User-in-the-loop_Evaluation_of_Multimodal_LLMs_for_Activity_Assistance.md)
 
     - [翻译: 多模态 LLM 在活动辅助中的用户参与式评估](2024年08月04日/User-in-the-loop_Evaluation_of_Multimodal_LLMs_for_Activity_Assistance.md)
+
+2024年08月02日
+
+- [Transformers are Universal In-context Learners](2024年08月02日/Transformers_are_Universal_In-context_Learners.md)
+
+    - [翻译: Transformer 模型，作为通用上下文学习者，展现了其广泛适应性。](2024年08月02日/Transformers_are_Universal_In-context_Learners.md)
+
+2024年08月01日
+
+- [Gradient-free optimization via integration](2024年08月01日/Gradient-free_optimization_via_integration.md)
+
+    - [翻译: 无梯度优化：集成方法](2024年08月01日/Gradient-free_optimization_via_integration.md)
