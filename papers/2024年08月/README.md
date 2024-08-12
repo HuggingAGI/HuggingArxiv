@@ -8,14 +8,6 @@
 
 2024年08月09日
 
-- [An Evaluation of Standard Statistical Models and LLMs on Time Series Forecasting](2024年08月09日/An_Evaluation_of_Standard_Statistical_Models_and_LLMs_on_Time_Series_Forecasting.md)
-
-    - [翻译: 评估标准统计模型与 LLM 在时间序列预测中的表现](2024年08月09日/An_Evaluation_of_Standard_Statistical_Models_and_LLMs_on_Time_Series_Forecasting.md)
-
-- [ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365](2024年08月09日/ConfusedPilot_Compromising_Enterprise_Information_Integrity_and_Confidentiality_with_Copilot_for_Microsoft_365.md)
-
-    - [翻译: ConfusedPilot：通过 Microsoft 365 的 Copilot 威胁企业信息的完整性与保密性](2024年08月09日/ConfusedPilot_Compromising_Enterprise_Information_Integrity_and_Confidentiality_with_Copilot_for_Microsoft_365.md)
-
 - [Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners](2024年08月09日/Evaluating_the_capability_of_large_language_models_to_personalize_science_texts_for_diverse_middle-school-age_learners.md)
 
     - [翻译: 探究大型语言模型如何为多样化的中学生群体定制科学文本](2024年08月09日/Evaluating_the_capability_of_large_language_models_to_personalize_science_texts_for_diverse_middle-school-age_learners.md)
@@ -28,17 +20,9 @@
 
     - [翻译: LLMs 在辨识多元文化中的共性上表现如何？](2024年08月09日/How_Well_Do_LLMs_Identify_Cultural_Unity_in_Diversity.md)
 
-- [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](2024年08月09日/HybridRAG_Integrating_Knowledge_Graphs_and_Vector_Retrieval_Augmented_Generation_for_Efficient_Information_Extraction.md)
-
-    - [翻译: HybridRAG 结合知识图谱与向量检索增强生成技术，旨在提升信息提取的效率。](2024年08月09日/HybridRAG_Integrating_Knowledge_Graphs_and_Vector_Retrieval_Augmented_Generation_for_Efficient_Information_Extraction.md)
-
 - [Large Language Models and Thematic Analysis: Human-AI Synergy in Researching Hate Speech on Social Media](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
 
     - [翻译: 大型语言模型与主题分析携手，共同在社交媒体的仇恨言论研究领域，展现人机协同的强大力量。](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
-
-- [LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description](2024年08月09日/LLaVA-VSD_Large_Language-and-Vision_Assistant_for_Visual_Spatial_Description.md)
-
-    - [翻译: LLaVA-VSD：专为视觉空间描述设计的大型语言与视觉智能助手](2024年08月09日/LLaVA-VSD_Large_Language-and-Vision_Assistant_for_Visual_Spatial_Description.md)
 
 - [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models](2024年08月09日/Mini-Monkey_Multi-Scale_Adaptive_Cropping_for_Multimodal_Large_Language_Models.md)
 
@@ -75,10 +59,6 @@
 - [Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts](2024年08月09日/Unlocking_Decoding-time_Controllability_Gradient-Free_Multi-Objective_Alignment_with_Contrastive_Prompts.md)
 
     - [翻译: 实现解码时的可控性：通过对比提示实现无梯度多目标对齐](2024年08月09日/Unlocking_Decoding-time_Controllability_Gradient-Free_Multi-Objective_Alignment_with_Contrastive_Prompts.md)
-
-- [VITA: Towards Open-Source Interactive Omni Multimodal LLM](2024年08月09日/VITA_Towards_Open-Source_Interactive_Omni_Multimodal_LLM.md)
-
-    - [翻译: VITA：开启开源交互式全模态LLM新篇章](2024年08月09日/VITA_Towards_Open-Source_Interactive_Omni_Multimodal_LLM.md)
 
 2024年08月05日
 
