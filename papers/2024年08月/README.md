@@ -8,21 +8,9 @@
 
 2024年08月09日
 
-- [A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning](2024年08月09日/A_Hybrid_RAG_System_with_Comprehensive_Enhancement_on_Complex_Reasoning.md)
-
-    - [翻译: 混合RAG系统，全面提升复杂推理能力](2024年08月09日/A_Hybrid_RAG_System_with_Comprehensive_Enhancement_on_Complex_Reasoning.md)
-
 - [An Evaluation of Standard Statistical Models and LLMs on Time Series Forecasting](2024年08月09日/An_Evaluation_of_Standard_Statistical_Models_and_LLMs_on_Time_Series_Forecasting.md)
 
     - [翻译: 评估标准统计模型与 LLM 在时间序列预测中的表现](2024年08月09日/An_Evaluation_of_Standard_Statistical_Models_and_LLMs_on_Time_Series_Forecasting.md)
-
-- [A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?](2024年08月09日/A_Survey_of_NL2SQL_with_Large_Language_Models_Where_are_we,_and_where_are_we_going.md)
-
-    - [翻译: 大型语言模型在NL2SQL领域的应用现状与未来展望：我们身处何方，又将走向何方？](2024年08月09日/A_Survey_of_NL2SQL_with_Large_Language_Models_Where_are_we,_and_where_are_we_going.md)
-
-- [ChatGPT Meets Iris Biometrics](2024年08月09日/ChatGPT_Meets_Iris_Biometrics.md)
-
-    - [翻译: ChatGPT 与虹膜生物识别技术相遇](2024年08月09日/ChatGPT_Meets_Iris_Biometrics.md)
 
 - [ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365](2024年08月09日/ConfusedPilot_Compromising_Enterprise_Information_Integrity_and_Confidentiality_with_Copilot_for_Microsoft_365.md)
 
@@ -39,10 +27,6 @@
 - [Generalisation First, Memorisation Second? Memorisation Localisation for Natural Language Classification Tasks](2024年08月09日/Generalisation_First,_Memorisation_Second_Memorisation_Localisation_for_Natural_Language_Classification_Tasks.md)
 
     - [翻译: 自然语言分类任务中，是否应先泛化再记忆？本研究探讨记忆定位策略。](2024年08月09日/Generalisation_First,_Memorisation_Second_Memorisation_Localisation_for_Natural_Language_Classification_Tasks.md)
-
-- [Generating novel experimental hypotheses from language models: A case study on cross-dative generalization](2024年08月09日/Generating_novel_experimental_hypotheses_from_language_models_A_case_study_on_cross-dative_generalization.md)
-
-    - [翻译: 探索语言模型如何生成创新实验假设：一项聚焦于跨格位泛化的研究](2024年08月09日/Generating_novel_experimental_hypotheses_from_language_models_A_case_study_on_cross-dative_generalization.md)
 
 - [Get Confused Cautiously: Textual Sequence Memorization Erasure with Selective Entropy Maximization](2024年08月09日/Get_Confused_Cautiously_Textual_Sequence_Memorization_Erasure_with_Selective_Entropy_Maximization.md)
 
@@ -84,10 +68,6 @@
 
     - [翻译: 全面集成代理框架下的交通建模：方法与大规模实践](2024年08月09日/Modeling_Transit_in_a_Fully_Integrated_Agent-Based_Framework_Methodology_and_Large-Scale_Application.md)
 
-- [Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models](2024年08月09日/Order_Matters_in_Hallucination_Reasoning_Order_as_Benchmark_and_Reflexive_Prompting_for_Large-Language-Models.md)
-
-    - [翻译: 幻觉现象中的顺序至关重要：将推理顺序作为基准，并利用反射性提示优化大型语言模型的表现。](2024年08月09日/Order_Matters_in_Hallucination_Reasoning_Order_as_Benchmark_and_Reflexive_Prompting_for_Large-Language-Models.md)
-
 - [ProFuser: Progressive Fusion of Large Language Models](2024年08月09日/ProFuser_Progressive_Fusion_of_Large_Language_Models.md)
 
     - [翻译: ProFuser：大型语言模型的逐步融合技术](2024年08月09日/ProFuser_Progressive_Fusion_of_Large_Language_Models.md)
@@ -123,10 +103,6 @@
 - [Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts](2024年08月09日/Unlocking_Decoding-time_Controllability_Gradient-Free_Multi-Objective_Alignment_with_Contrastive_Prompts.md)
 
     - [翻译: 实现解码时的可控性：通过对比提示实现无梯度多目标对齐](2024年08月09日/Unlocking_Decoding-time_Controllability_Gradient-Free_Multi-Objective_Alignment_with_Contrastive_Prompts.md)
-
-- [Unsupervised Episode Detection for Large-Scale News Events](2024年08月09日/Unsupervised_Episode_Detection_for_Large-Scale_News_Events.md)
-
-    - [翻译: 大规模新闻事件的无监督片段检测](2024年08月09日/Unsupervised_Episode_Detection_for_Large-Scale_News_Events.md)
 
 - [VITA: Towards Open-Source Interactive Omni Multimodal LLM](2024年08月09日/VITA_Towards_Open-Source_Interactive_Omni_Multimodal_LLM.md)
 
