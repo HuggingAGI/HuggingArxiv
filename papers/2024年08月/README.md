@@ -24,18 +24,6 @@
 
     - [翻译: 探究 LLM 架构在巴西标准化国家考试中的表现](2024年08月09日/Examining_the_Behavior_of_LLM_Architectures_Within_the_Framework_of_Standardized_National_Exams_in_Brazil.md)
 
-- [Generalisation First, Memorisation Second? Memorisation Localisation for Natural Language Classification Tasks](2024年08月09日/Generalisation_First,_Memorisation_Second_Memorisation_Localisation_for_Natural_Language_Classification_Tasks.md)
-
-    - [翻译: 自然语言分类任务中，是否应先泛化再记忆？本研究探讨记忆定位策略。](2024年08月09日/Generalisation_First,_Memorisation_Second_Memorisation_Localisation_for_Natural_Language_Classification_Tasks.md)
-
-- [Get Confused Cautiously: Textual Sequence Memorization Erasure with Selective Entropy Maximization](2024年08月09日/Get_Confused_Cautiously_Textual_Sequence_Memorization_Erasure_with_Selective_Entropy_Maximization.md)
-
-    - [翻译: 谨慎困惑：通过选择性熵最大化策略消除文本序列记忆](2024年08月09日/Get_Confused_Cautiously_Textual_Sequence_Memorization_Erasure_with_Selective_Entropy_Maximization.md)
-
-- [GlitchProber: Advancing Effective Detection and Mitigation of Glitch Tokens in Large Language Models](2024年08月09日/GlitchProber_Advancing_Effective_Detection_and_Mitigation_of_Glitch_Tokens_in_Large_Language_Models.md)
-
-    - [翻译: GlitchProber 致力于在大型语言模型中有效检测并缓解 Glitch Tokens 问题。](2024年08月09日/GlitchProber_Advancing_Effective_Detection_and_Mitigation_of_Glitch_Tokens_in_Large_Language_Models.md)
-
 - [How Well Do LLMs Identify Cultural Unity in Diversity?](2024年08月09日/How_Well_Do_LLMs_Identify_Cultural_Unity_in_Diversity.md)
 
     - [翻译: LLMs 在辨识多元文化中的共性上表现如何？](2024年08月09日/How_Well_Do_LLMs_Identify_Cultural_Unity_in_Diversity.md)
@@ -44,10 +32,6 @@
 
     - [翻译: HybridRAG 结合知识图谱与向量检索增强生成技术，旨在提升信息提取的效率。](2024年08月09日/HybridRAG_Integrating_Knowledge_Graphs_and_Vector_Retrieval_Augmented_Generation_for_Efficient_Information_Extraction.md)
 
-- [Investigating a Benchmark for Training-set free Evaluation of Linguistic Capabilities in Machine Reading Comprehension](2024年08月09日/Investigating_a_Benchmark_for_Training-set_free_Evaluation_of_Linguistic_Capabilities_in_Machine_Reading_Comprehension.md)
-
-    - [翻译: 探索一个无需训练集的机器阅读理解语言能力评估基准](2024年08月09日/Investigating_a_Benchmark_for_Training-set_free_Evaluation_of_Linguistic_Capabilities_in_Machine_Reading_Comprehension.md)
-
 - [Large Language Models and Thematic Analysis: Human-AI Synergy in Researching Hate Speech on Social Media](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
 
     - [翻译: 大型语言模型与主题分析携手，共同在社交媒体的仇恨言论研究领域，展现人机协同的强大力量。](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
@@ -55,10 +39,6 @@
 - [LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description](2024年08月09日/LLaVA-VSD_Large_Language-and-Vision_Assistant_for_Visual_Spatial_Description.md)
 
     - [翻译: LLaVA-VSD：专为视觉空间描述设计的大型语言与视觉智能助手](2024年08月09日/LLaVA-VSD_Large_Language-and-Vision_Assistant_for_Visual_Spatial_Description.md)
-
-- [MIDI-to-Tab: Guitar Tablature Inference via Masked Language Modeling](2024年08月09日/MIDI-to-Tab_Guitar_Tablature_Inference_via_Masked_Language_Modeling.md)
-
-    - [翻译: MIDI转吉他谱：利用掩码语言建模技术进行吉他谱推断](2024年08月09日/MIDI-to-Tab_Guitar_Tablature_Inference_via_Masked_Language_Modeling.md)
 
 - [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models](2024年08月09日/Mini-Monkey_Multi-Scale_Adaptive_Cropping_for_Multimodal_Large_Language_Models.md)
 
@@ -84,10 +64,6 @@
 
     - [翻译: SCOI：机器翻译中的语法增强覆盖式上下文示例选择](2024年08月09日/SCOI_Syntax-augmented_Coverage-based_In-context_Example_Selection_for_Machine_Translation.md)
 
-- [SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement](2024年08月09日/SEA-SQL_Semantic-Enhanced_Text-to-SQL_with_Adaptive_Refinement.md)
-
-    - [翻译: SEA-SQL：融合语义增强与自适应细化的文本转SQL技术](2024年08月09日/SEA-SQL_Semantic-Enhanced_Text-to-SQL_with_Adaptive_Refinement.md)
-
 - [Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video](2024年08月09日/Sportify_Question_Answering_with_Embedded_Visualizations_and_Personified_Narratives_for_Sports_Video.md)
 
     - [翻译: Sportify：结合嵌入式可视化与拟人化叙事，为体育视频打造互动问答体验。](2024年08月09日/Sportify_Question_Answering_with_Embedded_Visualizations_and_Personified_Narratives_for_Sports_Video.md)
@@ -95,10 +71,6 @@
 - [TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning](2024年08月09日/TaSL_Task_Skill_Localization_and_Consolidation_for_Language_Model_Continual_Learning.md)
 
     - [翻译: TaSL：语言模型持续学习中的任务技能定位与整合](2024年08月09日/TaSL_Task_Skill_Localization_and_Consolidation_for_Language_Model_Continual_Learning.md)
-
-- [Towards a Generative Approach for Emotion Detection and Reasoning](2024年08月09日/Towards_a_Generative_Approach_for_Emotion_Detection_and_Reasoning.md)
-
-    - [翻译: 探索情感检测与推理的生成途径](2024年08月09日/Towards_a_Generative_Approach_for_Emotion_Detection_and_Reasoning.md)
 
 - [Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts](2024年08月09日/Unlocking_Decoding-time_Controllability_Gradient-Free_Multi-Objective_Alignment_with_Contrastive_Prompts.md)
 
