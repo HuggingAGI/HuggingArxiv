@@ -150,37 +150,13 @@
 
 2024年08月08日
 
-- [Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews](2024年08月08日/Conversational_AI_Powered_by_Large_Language_Models_Amplifies_False_Memories_in_Witness_Interviews.md)
-
-    - [翻译: 大型语言模型驱动的对话AI在证人采访中加剧了虚假记忆的出现。](2024年08月08日/Conversational_AI_Powered_by_Large_Language_Models_Amplifies_False_Memories_in_Witness_Interviews.md)
-
 - [Dynamic Fog Computing for Enhanced LLM Execution in Medical Applications](2024年08月08日/Dynamic_Fog_Computing_for_Enhanced_LLM_Execution_in_Medical_Applications.md)
 
     - [翻译: 动态雾计算助力医疗应用中LLM的高效执行](2024年08月08日/Dynamic_Fog_Computing_for_Enhanced_LLM_Execution_in_Medical_Applications.md)
 
-- [h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment](2024年08月08日/h4rm3l_A_Dynamic_Benchmark_of_Composable_Jailbreak_Attacks_for_LLM_Safety_Assessment.md)
-
-    - [翻译: h4rm3l：一款动态基准，专为评估 LLM 安全性而设计，涵盖多种可组合的越狱攻击手段。](2024年08月08日/h4rm3l_A_Dynamic_Benchmark_of_Composable_Jailbreak_Attacks_for_LLM_Safety_Assessment.md)
-
-- [More Questions than Answers? Lessons from Integrating Explainable AI into a Cyber-AI Tool](2024年08月08日/More_Questions_than_Answers_Lessons_from_Integrating_Explainable_AI_into_a_Cyber-AI_Tool.md)
-
-    - [翻译: 疑问多于答案？探索将可解释 AI 融入网络-AI 工具的实践经验](2024年08月08日/More_Questions_than_Answers_Lessons_from_Integrating_Explainable_AI_into_a_Cyber-AI_Tool.md)
-
 - [mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models](2024年08月08日/mPLUG-Owl3_Towards_Long_Image-Sequence_Understanding_in_Multi-Modal_Large_Language_Models.md)
 
     - [翻译: mPLUG-Owl3：探索多模态大型语言模型中的长图像序列理解](2024年08月08日/mPLUG-Owl3_Towards_Long_Image-Sequence_Understanding_in_Multi-Modal_Large_Language_Models.md)
-
-- [Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles](2024年08月08日/Multi-Turn_Context_Jailbreak_Attack_on_Large_Language_Models_From_First_Principles.md)
-
-    - [翻译: 从基本原理出发，对大型语言模型进行多轮上下文越狱攻击](2024年08月08日/Multi-Turn_Context_Jailbreak_Attack_on_Large_Language_Models_From_First_Principles.md)
-
-- [Next-Generation Wi-Fi Networks with Generative AI: Design and Insights](2024年08月08日/Next-Generation_Wi-Fi_Networks_with_Generative_AI_Design_and_Insights.md)
-
-    - [翻译: 融合生成式AI的下一代Wi-Fi网络：设计新思路与深度洞察](2024年08月08日/Next-Generation_Wi-Fi_Networks_with_Generative_AI_Design_and_Insights.md)
-
-- [ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities](2024年08月08日/ToolSandbox_A_Stateful,_Conversational,_Interactive_Evaluation_Benchmark_for_LLM_Tool_Use_Capabilities.md)
-
-    - [翻译: ToolSandbox：一个集状态管理、对话交互于一体的评估平台，专为测试 LLM 工具应用能力而设计。](2024年08月08日/ToolSandbox_A_Stateful,_Conversational,_Interactive_Evaluation_Benchmark_for_LLM_Tool_Use_Capabilities.md)
 
 2024年08月05日
 
