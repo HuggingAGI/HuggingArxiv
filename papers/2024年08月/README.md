@@ -158,21 +158,9 @@
 
     - [翻译: 动态雾计算助力医疗应用中LLM的高效执行](2024年08月08日/Dynamic_Fog_Computing_for_Enhanced_LLM_Execution_in_Medical_Applications.md)
 
-- [FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers](2024年08月08日/FUSE-ing_Language_Models_Zero-Shot_Adapter_Discovery_for_Prompt_Optimization_Across_Tokenizers.md)
-
-    - [翻译: 融合语言模型：实现跨分词器的零-shot 适配器发现，优化提示效果](2024年08月08日/FUSE-ing_Language_Models_Zero-Shot_Adapter_Discovery_for_Prompt_Optimization_Across_Tokenizers.md)
-
 - [h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment](2024年08月08日/h4rm3l_A_Dynamic_Benchmark_of_Composable_Jailbreak_Attacks_for_LLM_Safety_Assessment.md)
 
     - [翻译: h4rm3l：一款动态基准，专为评估 LLM 安全性而设计，涵盖多种可组合的越狱攻击手段。](2024年08月08日/h4rm3l_A_Dynamic_Benchmark_of_Composable_Jailbreak_Attacks_for_LLM_Safety_Assessment.md)
-
-- [Hybrid Student-Teacher Large Language Model Refinement for Cancer Toxicity Symptom Extraction](2024年08月08日/Hybrid_Student-Teacher_Large_Language_Model_Refinement_for_Cancer_Toxicity_Symptom_Extraction.md)
-
-    - [翻译: 癌症毒性症状提取：混合学生-教师大型语言模型的精炼方法](2024年08月08日/Hybrid_Student-Teacher_Large_Language_Model_Refinement_for_Cancer_Toxicity_Symptom_Extraction.md)
-
-- [Improving Relational Database Interactions with Large Language Models: Column Descriptions and Their Impact on Text-to-SQL Performance](2024年08月08日/Improving_Relational_Database_Interactions_with_Large_Language_Models_Column_Descriptions_and_Their_Impact_on_Text-to-SQL_Performance.md)
-
-    - [翻译: 利用大型语言模型优化关系数据库交互：探讨列描述如何提升文本到SQL的转换效率](2024年08月08日/Improving_Relational_Database_Interactions_with_Large_Language_Models_Column_Descriptions_and_Their_Impact_on_Text-to-SQL_Performance.md)
 
 - [More Questions than Answers? Lessons from Integrating Explainable AI into a Cyber-AI Tool](2024年08月08日/More_Questions_than_Answers_Lessons_from_Integrating_Explainable_AI_into_a_Cyber-AI_Tool.md)
 
@@ -193,22 +181,6 @@
 - [ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities](2024年08月08日/ToolSandbox_A_Stateful,_Conversational,_Interactive_Evaluation_Benchmark_for_LLM_Tool_Use_Capabilities.md)
 
     - [翻译: ToolSandbox：一个集状态管理、对话交互于一体的评估平台，专为测试 LLM 工具应用能力而设计。](2024年08月08日/ToolSandbox_A_Stateful,_Conversational,_Interactive_Evaluation_Benchmark_for_LLM_Tool_Use_Capabilities.md)
-
-2024年08月07日
-
-- [Prompt and Prejudice](2024年08月07日/Prompt_and_Prejudice.md)
-
-    - [翻译: 提示与偏见](2024年08月07日/Prompt_and_Prejudice.md)
-
-- [Towards Linguistic Neural Representation Learning and Sentence Retrieval from Electroencephalogram Recordings](2024年08月07日/Towards_Linguistic_Neural_Representation_Learning_and_Sentence_Retrieval_from_Electroencephalogram_Recordings.md)
-
-    - [翻译: 探索语言神经表征学习及从脑电图记录中提取句子的方法](2024年08月07日/Towards_Linguistic_Neural_Representation_Learning_and_Sentence_Retrieval_from_Electroencephalogram_Recordings.md)
-
-2024年08月06日
-
-- [LLM-based MOFs Synthesis Condition Extraction using Few-Shot Demonstrations](2024年08月06日/LLM-based_MOFs_Synthesis_Condition_Extraction_using_Few-Shot_Demonstrations.md)
-
-    - [翻译: 利用少量示例演示提取基于 LLM 的 MOFs 合成条件](2024年08月06日/LLM-based_MOFs_Synthesis_Condition_Extraction_using_Few-Shot_Demonstrations.md)
 
 2024年08月05日
 
