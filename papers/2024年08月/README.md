@@ -12,14 +12,6 @@
 
     - [翻译: 探究大型语言模型如何为多样化的中学生群体定制科学文本](2024年08月09日/Evaluating_the_capability_of_large_language_models_to_personalize_science_texts_for_diverse_middle-school-age_learners.md)
 
-- [Examining the Behavior of LLM Architectures Within the Framework of Standardized National Exams in Brazil](2024年08月09日/Examining_the_Behavior_of_LLM_Architectures_Within_the_Framework_of_Standardized_National_Exams_in_Brazil.md)
-
-    - [翻译: 探究 LLM 架构在巴西标准化国家考试中的表现](2024年08月09日/Examining_the_Behavior_of_LLM_Architectures_Within_the_Framework_of_Standardized_National_Exams_in_Brazil.md)
-
-- [How Well Do LLMs Identify Cultural Unity in Diversity?](2024年08月09日/How_Well_Do_LLMs_Identify_Cultural_Unity_in_Diversity.md)
-
-    - [翻译: LLMs 在辨识多元文化中的共性上表现如何？](2024年08月09日/How_Well_Do_LLMs_Identify_Cultural_Unity_in_Diversity.md)
-
 - [Large Language Models and Thematic Analysis: Human-AI Synergy in Researching Hate Speech on Social Media](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
 
     - [翻译: 大型语言模型与主题分析携手，共同在社交媒体的仇恨言论研究领域，展现人机协同的强大力量。](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
@@ -32,33 +24,17 @@
 
     - [翻译: 全面集成代理框架下的交通建模：方法与大规模实践](2024年08月09日/Modeling_Transit_in_a_Fully_Integrated_Agent-Based_Framework_Methodology_and_Large-Scale_Application.md)
 
-- [ProFuser: Progressive Fusion of Large Language Models](2024年08月09日/ProFuser_Progressive_Fusion_of_Large_Language_Models.md)
-
-    - [翻译: ProFuser：大型语言模型的逐步融合技术](2024年08月09日/ProFuser_Progressive_Fusion_of_Large_Language_Models.md)
-
 - [Retrieval-augmented code completion for local projects using large language models](2024年08月09日/Retrieval-augmented_code_completion_for_local_projects_using_large_language_models.md)
 
     - [翻译: 利用大型语言模型为本地项目提供增强检索的代码补全功能](2024年08月09日/Retrieval-augmented_code_completion_for_local_projects_using_large_language_models.md)
-
-- [RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records](2024年08月09日/RT-Surv_Improving_Mortality_Prediction_After_Radiotherapy_with_Large_Language_Model_Structuring_of_Large-Scale_Unstructured_Electronic_Health_Records.md)
-
-    - [翻译: RT-Surv 利用大型语言模型，将大规模非结构化电子健康记录结构化，从而提升放射治疗后死亡率预测的准确性。](2024年08月09日/RT-Surv_Improving_Mortality_Prediction_After_Radiotherapy_with_Large_Language_Model_Structuring_of_Large-Scale_Unstructured_Electronic_Health_Records.md)
 
 - [SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation](2024年08月09日/SCOI_Syntax-augmented_Coverage-based_In-context_Example_Selection_for_Machine_Translation.md)
 
     - [翻译: SCOI：机器翻译中的语法增强覆盖式上下文示例选择](2024年08月09日/SCOI_Syntax-augmented_Coverage-based_In-context_Example_Selection_for_Machine_Translation.md)
 
-- [Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video](2024年08月09日/Sportify_Question_Answering_with_Embedded_Visualizations_and_Personified_Narratives_for_Sports_Video.md)
-
-    - [翻译: Sportify：结合嵌入式可视化与拟人化叙事，为体育视频打造互动问答体验。](2024年08月09日/Sportify_Question_Answering_with_Embedded_Visualizations_and_Personified_Narratives_for_Sports_Video.md)
-
 - [TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning](2024年08月09日/TaSL_Task_Skill_Localization_and_Consolidation_for_Language_Model_Continual_Learning.md)
 
     - [翻译: TaSL：语言模型持续学习中的任务技能定位与整合](2024年08月09日/TaSL_Task_Skill_Localization_and_Consolidation_for_Language_Model_Continual_Learning.md)
-
-- [Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts](2024年08月09日/Unlocking_Decoding-time_Controllability_Gradient-Free_Multi-Objective_Alignment_with_Contrastive_Prompts.md)
-
-    - [翻译: 实现解码时的可控性：通过对比提示实现无梯度多目标对齐](2024年08月09日/Unlocking_Decoding-time_Controllability_Gradient-Free_Multi-Objective_Alignment_with_Contrastive_Prompts.md)
 
 2024年08月05日
 
