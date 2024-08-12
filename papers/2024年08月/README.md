@@ -8,33 +8,9 @@
 
 2024年08月09日
 
-- [Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners](2024年08月09日/Evaluating_the_capability_of_large_language_models_to_personalize_science_texts_for_diverse_middle-school-age_learners.md)
-
-    - [翻译: 探究大型语言模型如何为多样化的中学生群体定制科学文本](2024年08月09日/Evaluating_the_capability_of_large_language_models_to_personalize_science_texts_for_diverse_middle-school-age_learners.md)
-
-- [Large Language Models and Thematic Analysis: Human-AI Synergy in Researching Hate Speech on Social Media](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
-
-    - [翻译: 大型语言模型与主题分析携手，共同在社交媒体的仇恨言论研究领域，展现人机协同的强大力量。](2024年08月09日/Large_Language_Models_and_Thematic_Analysis_Human-AI_Synergy_in_Researching_Hate_Speech_on_Social_Media.md)
-
 - [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models](2024年08月09日/Mini-Monkey_Multi-Scale_Adaptive_Cropping_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: Mini-Monkey 技术通过多尺度自适应裁剪，有效缓解了锯齿效应。](2024年08月09日/Mini-Monkey_Multi-Scale_Adaptive_Cropping_for_Multimodal_Large_Language_Models.md)
-
-- [Modeling Transit in a Fully Integrated Agent-Based Framework: Methodology and Large-Scale Application](2024年08月09日/Modeling_Transit_in_a_Fully_Integrated_Agent-Based_Framework_Methodology_and_Large-Scale_Application.md)
-
-    - [翻译: 全面集成代理框架下的交通建模：方法与大规模实践](2024年08月09日/Modeling_Transit_in_a_Fully_Integrated_Agent-Based_Framework_Methodology_and_Large-Scale_Application.md)
-
-- [Retrieval-augmented code completion for local projects using large language models](2024年08月09日/Retrieval-augmented_code_completion_for_local_projects_using_large_language_models.md)
-
-    - [翻译: 利用大型语言模型为本地项目提供增强检索的代码补全功能](2024年08月09日/Retrieval-augmented_code_completion_for_local_projects_using_large_language_models.md)
-
-- [SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation](2024年08月09日/SCOI_Syntax-augmented_Coverage-based_In-context_Example_Selection_for_Machine_Translation.md)
-
-    - [翻译: SCOI：机器翻译中的语法增强覆盖式上下文示例选择](2024年08月09日/SCOI_Syntax-augmented_Coverage-based_In-context_Example_Selection_for_Machine_Translation.md)
-
-- [TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning](2024年08月09日/TaSL_Task_Skill_Localization_and_Consolidation_for_Language_Model_Continual_Learning.md)
-
-    - [翻译: TaSL：语言模型持续学习中的任务技能定位与整合](2024年08月09日/TaSL_Task_Skill_Localization_and_Consolidation_for_Language_Model_Continual_Learning.md)
 
 2024年08月05日
 
