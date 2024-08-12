@@ -20,10 +20,6 @@
 
     - [翻译: 大型语言模型在NL2SQL领域的应用现状与未来展望：我们身处何方，又将走向何方？](2024年08月09日/A_Survey_of_NL2SQL_with_Large_Language_Models_Where_are_we,_and_where_are_we_going.md)
 
-- [AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset](2024年08月09日/AttackER_Towards_Enhancing_Cyber-Attack_Attribution_with_a_Named_Entity_Recognition_Dataset.md)
-
-    - [翻译: AttackER：利用命名实体识别数据集，提升网络攻击归因的准确性。](2024年08月09日/AttackER_Towards_Enhancing_Cyber-Attack_Attribution_with_a_Named_Entity_Recognition_Dataset.md)
-
 - [ChatGPT Meets Iris Biometrics](2024年08月09日/ChatGPT_Meets_Iris_Biometrics.md)
 
     - [翻译: ChatGPT 与虹膜生物识别技术相遇](2024年08月09日/ChatGPT_Meets_Iris_Biometrics.md)
@@ -31,10 +27,6 @@
 - [ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365](2024年08月09日/ConfusedPilot_Compromising_Enterprise_Information_Integrity_and_Confidentiality_with_Copilot_for_Microsoft_365.md)
 
     - [翻译: ConfusedPilot：通过 Microsoft 365 的 Copilot 威胁企业信息的完整性与保密性](2024年08月09日/ConfusedPilot_Compromising_Enterprise_Information_Integrity_and_Confidentiality_with_Copilot_for_Microsoft_365.md)
-
-- [Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement](2024年08月09日/Enhancing_the_Code_Debugging_Ability_of_LLMs_via_Communicative_Agent_Based_Data_Refinement.md)
-
-    - [翻译: 借助交流代理进行数据精炼，提升 LLMs 的代码调试能力](2024年08月09日/Enhancing_the_Code_Debugging_Ability_of_LLMs_via_Communicative_Agent_Based_Data_Refinement.md)
 
 - [Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners](2024年08月09日/Evaluating_the_capability_of_large_language_models_to_personalize_science_texts_for_diverse_middle-school-age_learners.md)
 
@@ -68,10 +60,6 @@
 
     - [翻译: HybridRAG 结合知识图谱与向量检索增强生成技术，旨在提升信息提取的效率。](2024年08月09日/HybridRAG_Integrating_Knowledge_Graphs_and_Vector_Retrieval_Augmented_Generation_for_Efficient_Information_Extraction.md)
 
-- [Hyperbolic Learning with Multimodal Large Language Models](2024年08月09日/Hyperbolic_Learning_with_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 双曲线学习与多模态大型语言模型](2024年08月09日/Hyperbolic_Learning_with_Multimodal_Large_Language_Models.md)
-
 - [Investigating a Benchmark for Training-set free Evaluation of Linguistic Capabilities in Machine Reading Comprehension](2024年08月09日/Investigating_a_Benchmark_for_Training-set_free_Evaluation_of_Linguistic_Capabilities_in_Machine_Reading_Comprehension.md)
 
     - [翻译: 探索一个无需训练集的机器阅读理解语言能力评估基准](2024年08月09日/Investigating_a_Benchmark_for_Training-set_free_Evaluation_of_Linguistic_Capabilities_in_Machine_Reading_Comprehension.md)
@@ -103,10 +91,6 @@
 - [ProFuser: Progressive Fusion of Large Language Models](2024年08月09日/ProFuser_Progressive_Fusion_of_Large_Language_Models.md)
 
     - [翻译: ProFuser：大型语言模型的逐步融合技术](2024年08月09日/ProFuser_Progressive_Fusion_of_Large_Language_Models.md)
-
-- [Rag and Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks](2024年08月09日/Rag_and_Roll_An_End-to-End_Evaluation_of_Indirect_Prompt_Manipulations_in_LLM-based_Application_Frameworks.md)
-
-    - [翻译: Rag and Roll：探索基于 LLM 应用框架中，间接提示操作的全面评估之旅](2024年08月09日/Rag_and_Roll_An_End-to-End_Evaluation_of_Indirect_Prompt_Manipulations_in_LLM-based_Application_Frameworks.md)
 
 - [Retrieval-augmented code completion for local projects using large language models](2024年08月09日/Retrieval-augmented_code_completion_for_local_projects_using_large_language_models.md)
 
@@ -147,16 +131,6 @@
 - [VITA: Towards Open-Source Interactive Omni Multimodal LLM](2024年08月09日/VITA_Towards_Open-Source_Interactive_Omni_Multimodal_LLM.md)
 
     - [翻译: VITA：开启开源交互式全模态LLM新篇章](2024年08月09日/VITA_Towards_Open-Source_Interactive_Omni_Multimodal_LLM.md)
-
-2024年08月08日
-
-- [Dynamic Fog Computing for Enhanced LLM Execution in Medical Applications](2024年08月08日/Dynamic_Fog_Computing_for_Enhanced_LLM_Execution_in_Medical_Applications.md)
-
-    - [翻译: 动态雾计算助力医疗应用中LLM的高效执行](2024年08月08日/Dynamic_Fog_Computing_for_Enhanced_LLM_Execution_in_Medical_Applications.md)
-
-- [mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models](2024年08月08日/mPLUG-Owl3_Towards_Long_Image-Sequence_Understanding_in_Multi-Modal_Large_Language_Models.md)
-
-    - [翻译: mPLUG-Owl3：探索多模态大型语言模型中的长图像序列理解](2024年08月08日/mPLUG-Owl3_Towards_Long_Image-Sequence_Understanding_in_Multi-Modal_Large_Language_Models.md)
 
 2024年08月05日
 
