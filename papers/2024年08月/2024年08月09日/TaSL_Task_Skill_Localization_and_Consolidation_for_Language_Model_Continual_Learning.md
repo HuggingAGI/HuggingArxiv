@@ -12,4 +12,20 @@
 
 > Language model continual learning (CL) has recently garnered significant interest due to its potential to adapt large language models (LLMs) to dynamic real-world environments without re-training. A key challenge in this field is catastrophic forgetting, where models lose previously acquired knowledge when learning new tasks. Existing methods commonly employ multiple parameter-efficient fine-tuning (PEFT) blocks to acquire task-specific knowledge for each task, but these approaches lack efficiency and overlook the potential for knowledge transfer through task interaction. In this paper, we present a novel CL framework for language models called Task Skill Localization and Consolidation (TaSL), which enhances knowledge transfer without relying on memory replay. TaSL first divides the model into `skill units' based on parameter dependencies, enabling more granular control. It then employs a novel group-wise skill localization technique to identify the importance distribution of skill units for a new task. By comparing this importance distribution with those from previous tasks, we implement a fine-grained skill consolidation strategy that retains task-specific knowledge, thereby preventing forgetting, and updates task-shared knowledge, which facilitates bi-directional knowledge transfer. As a result, TaSL achieves a superior balance between retaining previous knowledge and excelling in new tasks. TaSL also shows strong generalizability, suitable for general models and customizable for PEFT methods like LoRA. Additionally, it demonstrates notable extensibility, allowing integration with memory replay to further enhance performance. Extensive experiments on two CL benchmarks, with varying model sizes (from 220M to 7B), demonstrate the effectiveness of TaSL and its variants across different settings.
 
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/x1.png)
+
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/method4.png)
+
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/methodM.png)
+
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/Diff_size.png)
+
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/Diff_size_longseq.png)
+
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/Forgetting.png)
+
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/heat_map_long.png)
+
+![TaSL：语言模型持续学习中的任务技能定位与整合](../../../paper_images/2408.05200/heat_map_superni.png)
+
 [Arxiv](https://arxiv.org/abs/2408.05200)
