@@ -112,41 +112,17 @@
 
 2024年08月11日
 
-- [Efficient and Versatile Robust Fine-Tuning of Zero-shot Models](2024年08月11日/Efficient_and_Versatile_Robust_Fine-Tuning_of_Zero-shot_Models.md)
-
-    - [翻译: 零-shot 模型的鲁棒微调既高效又多功能](2024年08月11日/Efficient_and_Versatile_Robust_Fine-Tuning_of_Zero-shot_Models.md)
-
 - [Egocentric Vision Language Planning](2024年08月11日/Egocentric_Vision_Language_Planning.md)
 
     - [翻译: 自我中心视觉语言规划](2024年08月11日/Egocentric_Vision_Language_Planning.md)
-
-- [GlyphPattern: An Abstract Pattern Recognition for Vision-Language Models](2024年08月11日/GlyphPattern_An_Abstract_Pattern_Recognition_for_Vision-Language_Models.md)
-
-    - [翻译: GlyphPattern：视觉-语言模型中的抽象模式识别技术](2024年08月11日/GlyphPattern_An_Abstract_Pattern_Recognition_for_Vision-Language_Models.md)
-
-- [HateSieve: A Contrastive Learning Framework for Detecting and Segmenting Hateful Content in Multimodal Memes](2024年08月11日/HateSieve_A_Contrastive_Learning_Framework_for_Detecting_and_Segmenting_Hateful_Content_in_Multimodal_Memes.md)
-
-    - [翻译: HateSieve：一款对比学习框架，专为识别与分割多模态模因中的仇恨内容而设计。](2024年08月11日/HateSieve_A_Contrastive_Learning_Framework_for_Detecting_and_Segmenting_Hateful_Content_in_Multimodal_Memes.md)
-
-- [Hotfixing Large Language Models for Cod](2024年08月11日/Hotfixing_Large_Language_Models_for_Cod.md)
-
-    - [翻译: 针对代码，对大型语言模型进行即时修复](2024年08月11日/Hotfixing_Large_Language_Models_for_Cod.md)
 
 - [LLM-Based Robust Product Classification in Commerce and Compliance](2024年08月11日/LLM-Based_Robust_Product_Classification_in_Commerce_and_Compliance.md)
 
     - [翻译: 基于LLM的稳健产品分类在商业与合规领域](2024年08月11日/LLM-Based_Robust_Product_Classification_in_Commerce_and_Compliance.md)
 
-- [Neurosymbolic Methods for Rule Mining](2024年08月11日/Neurosymbolic_Methods_for_Rule_Mining.md)
-
-    - [翻译: 神经符号技术在规则挖掘中的应用](2024年08月11日/Neurosymbolic_Methods_for_Rule_Mining.md)
-
 - [SAGA: A Participant-specific Examination of Story Alternatives and Goal Applicability for a Deeper Understanding of Complex Events](2024年08月11日/SAGA_A_Participant-specific_Examination_of_Story_Alternatives_and_Goal_Applicability_for_a_Deeper_Understanding_of_Complex_Events.md)
 
     - [翻译: SAGA：通过针对个体的替代故事分析和目标适用性评估，深入剖析复杂事件的内在机制。](2024年08月11日/SAGA_A_Participant-specific_Examination_of_Story_Alternatives_and_Goal_Applicability_for_a_Deeper_Understanding_of_Complex_Events.md)
-
-- [Top Pass: Improve Code Generation by Pass@k-Maximized Code Ranking](2024年08月11日/Top_Pass_Improve_Code_Generation_by_Pass@k-Maximized_Code_Ranking.md)
-
-    - [翻译: Top Pass：通过优化 Pass@k 排名，提升代码生成质量](2024年08月11日/Top_Pass_Improve_Code_Generation_by_Pass@k-Maximized_Code_Ranking.md)
 
 - [TRIZ-GPT: An LLM-augmented method for problem-solving](2024年08月11日/TRIZ-GPT_An_LLM-augmented_method_for_problem-solving.md)
 
