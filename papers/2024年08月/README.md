@@ -112,18 +112,6 @@
 
 2024年08月11日
 
-- [A New Pipeline For Generating Instruction Dataset via RAG and Self Fine-Tuning](2024年08月11日/A_New_Pipeline_For_Generating_Instruction_Dataset_via_RAG_and_Self_Fine-Tuning.md)
-
-    - [翻译: 借助 RAG 技术与自我微调，我们开创了一种生成指令数据集的新方法。](2024年08月11日/A_New_Pipeline_For_Generating_Instruction_Dataset_via_RAG_and_Self_Fine-Tuning.md)
-
-- [A Training-Free Framework for Video License Plate Tracking and Recognition with Only One-Shot](2024年08月11日/A_Training-Free_Framework_for_Video_License_Plate_Tracking_and_Recognition_with_Only_One-Shot.md)
-
-    - [翻译: 本研究提出一种无需训练的视频车牌追踪与识别框架，仅需一次学习即可实现。](2024年08月11日/A_Training-Free_Framework_for_Video_License_Plate_Tracking_and_Recognition_with_Only_One-Shot.md)
-
-- [Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models](2024年08月11日/Defining_Boundaries_A_Spectrum_of_Task_Feasibility_for_Large_Language_Models.md)
-
-    - [翻译: 探索边界：大型语言模型任务可行性的光谱研究](2024年08月11日/Defining_Boundaries_A_Spectrum_of_Task_Feasibility_for_Large_Language_Models.md)
-
 - [Efficient and Versatile Robust Fine-Tuning of Zero-shot Models](2024年08月11日/Efficient_and_Versatile_Robust_Fine-Tuning_of_Zero-shot_Models.md)
 
     - [翻译: 零-shot 模型的鲁棒微调既高效又多功能](2024年08月11日/Efficient_and_Versatile_Robust_Fine-Tuning_of_Zero-shot_Models.md)
@@ -152,17 +140,9 @@
 
     - [翻译: 神经符号技术在规则挖掘中的应用](2024年08月11日/Neurosymbolic_Methods_for_Rule_Mining.md)
 
-- [Reference-free Hallucination Detection for Large Vision-Language Models](2024年08月11日/Reference-free_Hallucination_Detection_for_Large_Vision-Language_Models.md)
-
-    - [翻译: 大型视觉-语言模型中的无参考幻觉检测](2024年08月11日/Reference-free_Hallucination_Detection_for_Large_Vision-Language_Models.md)
-
 - [SAGA: A Participant-specific Examination of Story Alternatives and Goal Applicability for a Deeper Understanding of Complex Events](2024年08月11日/SAGA_A_Participant-specific_Examination_of_Story_Alternatives_and_Goal_Applicability_for_a_Deeper_Understanding_of_Complex_Events.md)
 
     - [翻译: SAGA：通过针对个体的替代故事分析和目标适用性评估，深入剖析复杂事件的内在机制。](2024年08月11日/SAGA_A_Participant-specific_Examination_of_Story_Alternatives_and_Goal_Applicability_for_a_Deeper_Understanding_of_Complex_Events.md)
-
-- [The Cognitive Revolution in Interpretability: From Explaining Behavior to Interpreting Representations and Algorithms](2024年08月11日/The_Cognitive_Revolution_in_Interpretability_From_Explaining_Behavior_to_Interpreting_Representations_and_Algorithms.md)
-
-    - [翻译: 解释性领域正经历一场认知革命，我们正从单纯解释行为，转向深入解读表示和算法。](2024年08月11日/The_Cognitive_Revolution_in_Interpretability_From_Explaining_Behavior_to_Interpreting_Representations_and_Algorithms.md)
 
 - [Top Pass: Improve Code Generation by Pass@k-Maximized Code Ranking](2024年08月11日/Top_Pass_Improve_Code_Generation_by_Pass@k-Maximized_Code_Ranking.md)
 
@@ -171,10 +151,6 @@
 - [TRIZ-GPT: An LLM-augmented method for problem-solving](2024年08月11日/TRIZ-GPT_An_LLM-augmented_method_for_problem-solving.md)
 
     - [翻译: TRIZ-GPT：一种结合大型语言模型（LLM）的问题解决增强方法](2024年08月11日/TRIZ-GPT_An_LLM-augmented_method_for_problem-solving.md)
-
-- [Using Retriever Augmented Large Language Models for Attack Graph Generation](2024年08月11日/Using_Retriever_Augmented_Large_Language_Models_for_Attack_Graph_Generation.md)
-
-    - [翻译: 利用增强检索功能的大型语言模型生成攻击图](2024年08月11日/Using_Retriever_Augmented_Large_Language_Models_for_Attack_Graph_Generation.md)
 
 2024年08月05日
 
