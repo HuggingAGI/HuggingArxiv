@@ -30,10 +30,6 @@
 
     - [翻译: LLM 代理能否胜任长期计划的制定？以 TravelPlanner 为例，我们探讨这一问题。](2024年08月12日/Can_We_Rely_on_LLM_Agents_to_Draft_Long-Horizon_Plans_Let's_Take_TravelPlanner_as_an_Example.md)
 
-- [Deep Multimodal Collaborative Learning for Polyp Re-Identification](2024年08月12日/Deep_Multimodal_Collaborative_Learning_for_Polyp_Re-Identification.md)
-
-    - [翻译: 深度多模态协同学习助力息肉再识别](2024年08月12日/Deep_Multimodal_Collaborative_Learning_for_Polyp_Re-Identification.md)
-
 - [FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data](2024年08月12日/FuxiTranyu_A_Multilingual_Large_Language_Model_Trained_with_Balanced_Data.md)
 
     - [翻译: FuxiTranyu：一款采用平衡数据训练的多语言大型语言模型](2024年08月12日/FuxiTranyu_A_Multilingual_Large_Language_Model_Trained_with_Balanced_Data.md)
@@ -42,25 +38,13 @@
 
     - [翻译: Hyperion：借助 LLM 与数据流引导的符号执行，揭露 DApp 的不一致之处](2024年08月12日/Hyperion_Unveiling_DApp_Inconsistencies_using_LLM_and_Dataflow-Guided_Symbolic_Execution.md)
 
-- [Improving Structural Diversity of Blackbox LLMs via Chain-of-Specification Prompting](2024年08月12日/Improving_Structural_Diversity_of_Blackbox_LLMs_via_Chain-of-Specification_Prompting.md)
-
-    - [翻译: 利用 Chain-of-Specification Prompting 技术，我们旨在增强黑盒 LLM 的结构多样性。](2024年08月12日/Improving_Structural_Diversity_of_Blackbox_LLMs_via_Chain-of-Specification_Prompting.md)
-
 - [LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](2024年08月12日/LUT_Tensor_Core_Lookup_Table_Enables_Efficient_Low-Bit_LLM_Inference_Acceleration.md)
 
     - [翻译: LUT Tensor Core：通过查找表，实现低比特 LLM 推理的高效加速](2024年08月12日/LUT_Tensor_Core_Lookup_Table_Enables_Efficient_Low-Bit_LLM_Inference_Acceleration.md)
 
-- [MultiHateClip: A Multilingual Benchmark Dataset for Hateful Video Detection on YouTube and Bilibili](2024年08月12日/MultiHateClip_A_Multilingual_Benchmark_Dataset_for_Hateful_Video_Detection_on_YouTube_and_Bilibili.md)
-
-    - [翻译: MultiHateClip：一款专为 YouTube 与 Bilibili 平台设计的仇恨视频检测多语言基准数据集。](2024年08月12日/MultiHateClip_A_Multilingual_Benchmark_Dataset_for_Hateful_Video_Detection_on_YouTube_and_Bilibili.md)
-
 - [Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
 
     - [翻译: Nob-MIAs：针对大型语言模型，通过事后数据集构建，进行无偏见的成员推理攻击评估。](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
-
-- [Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation](2024年08月12日/Review-driven_Personalized_Preference_Reasoning_with_Large_Language_Models_for_Recommendation.md)
-
-    - [翻译: 利用大型语言模型，通过评论驱动个性化偏好推理，提升推荐系统性能。](2024年08月12日/Review-driven_Personalized_Preference_Reasoning_with_Large_Language_Models_for_Recommendation.md)
 
 - [Strong and weak alignment of large language models with human values](2024年08月12日/Strong_and_weak_alignment_of_large_language_models_with_human_values.md)
 
@@ -69,10 +53,6 @@
 - [Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction](2024年08月12日/Text2Interaction_Establishing_Safe_and_Preferable_Human-Robot_Interaction.md)
 
     - [翻译: Text2Interaction：打造安全且受欢迎的人机互动](2024年08月12日/Text2Interaction_Establishing_Safe_and_Preferable_Human-Robot_Interaction.md)
-
-- [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](2024年08月12日/VisualAgentBench_Towards_Large_Multimodal_Models_as_Visual_Foundation_Agents.md)
-
-    - [翻译: VisualAgentBench：引领大型多模态模型成为视觉基础代理的新篇章](2024年08月12日/VisualAgentBench_Towards_Large_Multimodal_Models_as_Visual_Foundation_Agents.md)
 
 2024年08月05日
 
