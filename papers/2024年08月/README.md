@@ -70,10 +70,6 @@
 
     - [翻译: MultiHateClip：一款专为 YouTube 与 Bilibili 平台设计的仇恨视频检测多语言基准数据集。](2024年08月12日/MultiHateClip_A_Multilingual_Benchmark_Dataset_for_Hateful_Video_Detection_on_YouTube_and_Bilibili.md)
 
-- [Multimodal Large Language Models for Phishing Webpage Detection and Identification](2024年08月12日/Multimodal_Large_Language_Models_for_Phishing_Webpage_Detection_and_Identification.md)
-
-    - [翻译: 多模态大型语言模型在钓鱼网页检测与识别中的应用](2024年08月12日/Multimodal_Large_Language_Models_for_Phishing_Webpage_Detection_and_Identification.md)
-
 - [Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
 
     - [翻译: Nob-MIAs：针对大型语言模型，通过事后数据集构建，进行无偏见的成员推理攻击评估。](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
@@ -81,10 +77,6 @@
 - [On Effects of Steering Latent Representation for Large Language Model Unlearning](2024年08月12日/On_Effects_of_Steering_Latent_Representation_for_Large_Language_Model_Unlearning.md)
 
     - [翻译: 探究大型语言模型遗忘过程中潜在表示的引导效应](2024年08月12日/On_Effects_of_Steering_Latent_Representation_for_Large_Language_Model_Unlearning.md)
-
-- [Optimizing RAG Techniques for Automotive Industry PDF Chatbots: A Case Study with Locally Deployed Ollama Models](2024年08月12日/Optimizing_RAG_Techniques_for_Automotive_Industry_PDF_Chatbots_A_Case_Study_with_Locally_Deployed_Ollama_Models.md)
-
-    - [翻译: 本研究聚焦于优化汽车行业PDF聊天机器人的RAG技术，通过本地部署Ollama模型进行案例分析。](2024年08月12日/Optimizing_RAG_Techniques_for_Automotive_Industry_PDF_Chatbots_A_Case_Study_with_Locally_Deployed_Ollama_Models.md)
 
 - [Optimizing Vision Transformers with Data-Free Knowledge Transfer](2024年08月12日/Optimizing_Vision_Transformers_with_Data-Free_Knowledge_Transfer.md)
 
@@ -109,24 +101,6 @@
 - [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](2024年08月12日/VisualAgentBench_Towards_Large_Multimodal_Models_as_Visual_Foundation_Agents.md)
 
     - [翻译: VisualAgentBench：引领大型多模态模型成为视觉基础代理的新篇章](2024年08月12日/VisualAgentBench_Towards_Large_Multimodal_Models_as_Visual_Foundation_Agents.md)
-
-2024年08月11日
-
-- [Egocentric Vision Language Planning](2024年08月11日/Egocentric_Vision_Language_Planning.md)
-
-    - [翻译: 自我中心视觉语言规划](2024年08月11日/Egocentric_Vision_Language_Planning.md)
-
-- [LLM-Based Robust Product Classification in Commerce and Compliance](2024年08月11日/LLM-Based_Robust_Product_Classification_in_Commerce_and_Compliance.md)
-
-    - [翻译: 基于LLM的稳健产品分类在商业与合规领域](2024年08月11日/LLM-Based_Robust_Product_Classification_in_Commerce_and_Compliance.md)
-
-- [SAGA: A Participant-specific Examination of Story Alternatives and Goal Applicability for a Deeper Understanding of Complex Events](2024年08月11日/SAGA_A_Participant-specific_Examination_of_Story_Alternatives_and_Goal_Applicability_for_a_Deeper_Understanding_of_Complex_Events.md)
-
-    - [翻译: SAGA：通过针对个体的替代故事分析和目标适用性评估，深入剖析复杂事件的内在机制。](2024年08月11日/SAGA_A_Participant-specific_Examination_of_Story_Alternatives_and_Goal_Applicability_for_a_Deeper_Understanding_of_Complex_Events.md)
-
-- [TRIZ-GPT: An LLM-augmented method for problem-solving](2024年08月11日/TRIZ-GPT_An_LLM-augmented_method_for_problem-solving.md)
-
-    - [翻译: TRIZ-GPT：一种结合大型语言模型（LLM）的问题解决增强方法](2024年08月11日/TRIZ-GPT_An_LLM-augmented_method_for_problem-solving.md)
 
 2024年08月05日
 
