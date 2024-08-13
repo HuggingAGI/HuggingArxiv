@@ -1,5 +1,11 @@
 # 2023年09月
 
+2023年09月26日
+
+- [RAGAS: Automated Evaluation of Retrieval Augmented Generation](2023年09月26日/RAGAS_Automated_Evaluation_of_Retrieval_Augmented_Generation.md)
+
+    - [翻译: RAGAS：实现检索增强生成的自动化评估](2023年09月26日/RAGAS_Automated_Evaluation_of_Retrieval_Augmented_Generation.md)
+
 2023年09月19日
 
 - [Generative AI in the Construction Industry: Opportunities & Challenges](2023年09月19日/Generative_AI_in_the_Construction_Industry_Opportunities_&_Challenges.md)

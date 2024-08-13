@@ -88,12 +88,6 @@
 
     - [翻译: SPML：一种专为抵御提示攻击而设计的领域特定语言，用于保护语言模型的安全。](2024年02月18日/SPML_A_DSL_for_Defending_Language_Models_Against_Prompt_Attacks.md)
 
-2024年02月17日
-
-- [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](2024年02月17日/TrustAgent_Towards_Safe_and_Trustworthy_LLM-based_Agents_through_Agent_Constitution.md)
-
-    - [翻译: TrustAgent：致力于构建基于大型语言模型的安全可信代理，通过制定代理宪法来实现这一目标。](2024年02月17日/TrustAgent_Towards_Safe_and_Trustworthy_LLM-based_Agents_through_Agent_Constitution.md)
-
 2024年02月15日
 
 - [MADA: Meta-Adaptive Optimizers through hyper-gradient Descent](2024年02月15日/MADA_Meta-Adaptive_Optimizers_through_hyper-gradient_Descent.md)
