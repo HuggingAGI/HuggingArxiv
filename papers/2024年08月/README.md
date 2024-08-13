@@ -176,32 +176,6 @@
 
     - [翻译: 利用增强检索功能的大型语言模型生成攻击图](2024年08月11日/Using_Retriever_Augmented_Large_Language_Models_for_Attack_Graph_Generation.md)
 
-2024年08月10日
-
-- [Exploring Applications of State Space Models and Advanced Training Techniques in Sequential Recommendations: A Comparative Study on Efficiency and Performance](2024年08月10日/Exploring_Applications_of_State_Space_Models_and_Advanced_Training_Techniques_in_Sequential_Recommendations_A_Comparative_Study_on_Efficiency_and_Performance.md)
-
-    - [翻译: 本研究深入探讨了状态空间模型与先进训练技术在序列推荐领域的应用，通过比较分析，揭示了其在效率与性能方面的表现。](2024年08月10日/Exploring_Applications_of_State_Space_Models_and_Advanced_Training_Techniques_in_Sequential_Recommendations_A_Comparative_Study_on_Efficiency_and_Performance.md)
-
-- [Improving Whisper's Recognition Performance for Under-Represented Language Kazakh Leveraging Unpaired Speech and Text](2024年08月10日/Improving_Whisper's_Recognition_Performance_for_Under-Represented_Language_Kazakh_Leveraging_Unpaired_Speech_and_Text.md)
-
-    - [翻译: 借助未配对的语音与文本数据，我们致力于提升 Whisper 对哈萨克语这一代表性不足语言的识别能力。](2024年08月10日/Improving_Whisper's_Recognition_Performance_for_Under-Represented_Language_Kazakh_Leveraging_Unpaired_Speech_and_Text.md)
-
-- [Large Language Model-based Role-Playing for Personalized Medical Jargon Extraction](2024年08月10日/Large_Language_Model-based_Role-Playing_for_Personalized_Medical_Jargon_Extraction.md)
-
-    - [翻译: 大型语言模型助力角色扮演，精准提取个性化医学术语](2024年08月10日/Large_Language_Model-based_Role-Playing_for_Personalized_Medical_Jargon_Extraction.md)
-
-- [Multi-agent Planning using Visual Language Models](2024年08月10日/Multi-agent_Planning_using_Visual_Language_Models.md)
-
-    - [翻译: 基于视觉语言模型的多智能体协同规划](2024年08月10日/Multi-agent_Planning_using_Visual_Language_Models.md)
-
-- [SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning](2024年08月10日/SWIFTA_Scalable_lightWeight_Infrastructure_for_Fine-Tuning.md)
-
-    - [翻译: SWIFT：一款专为微调设计的可扩展轻量级基础设施](2024年08月10日/SWIFTA_Scalable_lightWeight_Infrastructure_for_Fine-Tuning.md)
-
-- [You Augment Me: Exploring ChatGPT-based Data Augmentation for Semantic Code Search](2024年08月10日/You_Augment_Me_Exploring_ChatGPT-based_Data_Augmentation_for_Semantic_Code_Search.md)
-
-    - [翻译: 基于 ChatGPT 的数据增强技术：探索其在语义代码搜索中的增强效果](2024年08月10日/You_Augment_Me_Exploring_ChatGPT-based_Data_Augmentation_for_Semantic_Code_Search.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
