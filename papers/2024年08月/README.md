@@ -14,10 +14,6 @@
 
     - [翻译: 对于大型语言模型而言，是赋予生命，还是保持静态，这正是关键所在。](2024年08月12日/Animate,_or_Inanimate,_That_is_the_Question_for_Large_Language_Models.md)
 
-- [A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution](2024年08月12日/A_RAG-Based_Question-Answering_Solution_for_Cyber-Attack_Investigation_and_Attribution.md)
-
-    - [翻译: 针对网络攻击调查与归因，我们提出了一种基于 RAG 的问答解决方案。](2024年08月12日/A_RAG-Based_Question-Answering_Solution_for_Cyber-Attack_Investigation_and_Attribution.md)
-
 - [ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers](2024年08月12日/ARPA_A_Novel_Hybrid_Model_for_Advancing_Visual_Word_Disambiguation_Using_Large_Language_Models_and_Transformers.md)
 
     - [翻译: ARPA：结合大型语言模型与Transformer技术，创新混合模型，助力视觉词义精准消歧。](2024年08月12日/ARPA_A_Novel_Hybrid_Model_for_Advancing_Visual_Word_Disambiguation_Using_Large_Language_Models_and_Transformers.md)
@@ -33,10 +29,6 @@
 - [Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example](2024年08月12日/Can_We_Rely_on_LLM_Agents_to_Draft_Long-Horizon_Plans_Let's_Take_TravelPlanner_as_an_Example.md)
 
     - [翻译: LLM 代理能否胜任长期计划的制定？以 TravelPlanner 为例，我们探讨这一问题。](2024年08月12日/Can_We_Rely_on_LLM_Agents_to_Draft_Long-Horizon_Plans_Let's_Take_TravelPlanner_as_an_Example.md)
-
-- [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models](2024年08月12日/ConvKGYarn_Spinning_Configurable_and_Scalable_Conversational_Knowledge_Graph_QA_datasets_with_Large_Language_Models.md)
-
-    - [翻译: ConvKGYarn：借助大型语言模型，打造灵活且可扩展的对话知识图谱问答数据集。](2024年08月12日/ConvKGYarn_Spinning_Configurable_and_Scalable_Conversational_Knowledge_Graph_QA_datasets_with_Large_Language_Models.md)
 
 - [Deep Multimodal Collaborative Learning for Polyp Re-Identification](2024年08月12日/Deep_Multimodal_Collaborative_Learning_for_Polyp_Re-Identification.md)
 
@@ -58,14 +50,6 @@
 
     - [翻译: LUT Tensor Core：通过查找表，实现低比特 LLM 推理的高效加速](2024年08月12日/LUT_Tensor_Core_Lookup_Table_Enables_Efficient_Low-Bit_LLM_Inference_Acceleration.md)
 
-- [Med42-v2: A Suite of Clinical LLMs](2024年08月12日/Med42-v2_A_Suite_of_Clinical_LLMs.md)
-
-    - [翻译: Med42-v2：一套专为临床领域设计的大型语言模型](2024年08月12日/Med42-v2_A_Suite_of_Clinical_LLMs.md)
-
-- [MovieSum: An Abstractive Summarization Dataset for Movie Screenplays](2024年08月12日/MovieSum_An_Abstractive_Summarization_Dataset_for_Movie_Screenplays.md)
-
-    - [翻译: MovieSum：电影剧本的抽象摘要数据集](2024年08月12日/MovieSum_An_Abstractive_Summarization_Dataset_for_Movie_Screenplays.md)
-
 - [MultiHateClip: A Multilingual Benchmark Dataset for Hateful Video Detection on YouTube and Bilibili](2024年08月12日/MultiHateClip_A_Multilingual_Benchmark_Dataset_for_Hateful_Video_Detection_on_YouTube_and_Bilibili.md)
 
     - [翻译: MultiHateClip：一款专为 YouTube 与 Bilibili 平台设计的仇恨视频检测多语言基准数据集。](2024年08月12日/MultiHateClip_A_Multilingual_Benchmark_Dataset_for_Hateful_Video_Detection_on_YouTube_and_Bilibili.md)
@@ -73,14 +57,6 @@
 - [Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
 
     - [翻译: Nob-MIAs：针对大型语言模型，通过事后数据集构建，进行无偏见的成员推理攻击评估。](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
-
-- [On Effects of Steering Latent Representation for Large Language Model Unlearning](2024年08月12日/On_Effects_of_Steering_Latent_Representation_for_Large_Language_Model_Unlearning.md)
-
-    - [翻译: 探究大型语言模型遗忘过程中潜在表示的引导效应](2024年08月12日/On_Effects_of_Steering_Latent_Representation_for_Large_Language_Model_Unlearning.md)
-
-- [Optimizing Vision Transformers with Data-Free Knowledge Transfer](2024年08月12日/Optimizing_Vision_Transformers_with_Data-Free_Knowledge_Transfer.md)
-
-    - [翻译: 无数据知识转移优化视觉变换器](2024年08月12日/Optimizing_Vision_Transformers_with_Data-Free_Knowledge_Transfer.md)
 
 - [Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation](2024年08月12日/Review-driven_Personalized_Preference_Reasoning_with_Large_Language_Models_for_Recommendation.md)
 
@@ -93,10 +69,6 @@
 - [Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction](2024年08月12日/Text2Interaction_Establishing_Safe_and_Preferable_Human-Robot_Interaction.md)
 
     - [翻译: Text2Interaction：打造安全且受欢迎的人机互动](2024年08月12日/Text2Interaction_Establishing_Safe_and_Preferable_Human-Robot_Interaction.md)
-
-- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](2024年08月12日/The_AI_Scientist_Towards_Fully_Automated_Open-Ended_Scientific_Discovery.md)
-
-    - [翻译: AI 科学家：开启全自动化开放式科学发现之旅](2024年08月12日/The_AI_Scientist_Towards_Fully_Automated_Open-Ended_Scientific_Discovery.md)
 
 - [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](2024年08月12日/VisualAgentBench_Towards_Large_Multimodal_Models_as_Visual_Foundation_Agents.md)
 
