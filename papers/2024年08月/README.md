@@ -18,10 +18,6 @@
 
     - [翻译: ARPA：结合大型语言模型与Transformer技术，创新混合模型，助力视觉词义精准消歧。](2024年08月12日/ARPA_A_Novel_Hybrid_Model_for_Advancing_Visual_Word_Disambiguation_Using_Large_Language_Models_and_Transformers.md)
 
-- [BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation](2024年08月12日/BI-MDRG_Bridging_Image_History_in_Multimodal_Dialogue_Response_Generation.md)
-
-    - [翻译: BI-MDRG：连接多模态对话中的图像历史，助力响应生成](2024年08月12日/BI-MDRG_Bridging_Image_History_in_Multimodal_Dialogue_Response_Generation.md)
-
 - [Building Decision Making Models Through Language Model Regime](2024年08月12日/Building_Decision_Making_Models_Through_Language_Model_Regime.md)
 
     - [翻译: 利用语言模型体系构建决策模型](2024年08月12日/Building_Decision_Making_Models_Through_Language_Model_Regime.md)
