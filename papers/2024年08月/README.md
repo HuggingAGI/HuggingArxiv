@@ -210,10 +210,6 @@
 
     - [翻译: 基于视觉语言模型的多智能体协同规划](2024年08月10日/Multi-agent_Planning_using_Visual_Language_Models.md)
 
-- [Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE](2024年08月10日/Scene123_One_Prompt_to_3D_Scene_Generation_via_Video-Assisted_and_Consistency-Enhanced_MAE.md)
-
-    - [翻译: Scene123：借助视频辅助与一致性增强的 MAE 技术，仅需一个提示即可生成 3D 场景。](2024年08月10日/Scene123_One_Prompt_to_3D_Scene_Generation_via_Video-Assisted_and_Consistency-Enhanced_MAE.md)
-
 - [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](2024年08月10日/Speculative_Diffusion_Decoding_Accelerating_Language_Generation_through_Diffusion.md)
 
     - [翻译: 推测性扩散解码技术，通过扩散机制加速语言生成过程。](2024年08月10日/Speculative_Diffusion_Decoding_Accelerating_Language_Generation_through_Diffusion.md)
@@ -229,16 +225,6 @@
 - [You Augment Me: Exploring ChatGPT-based Data Augmentation for Semantic Code Search](2024年08月10日/You_Augment_Me_Exploring_ChatGPT-based_Data_Augmentation_for_Semantic_Code_Search.md)
 
     - [翻译: 基于 ChatGPT 的数据增强技术：探索其在语义代码搜索中的增强效果](2024年08月10日/You_Augment_Me_Exploring_ChatGPT-based_Data_Augmentation_for_Semantic_Code_Search.md)
-
-2024年08月09日
-
-- [DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts](2024年08月09日/DataNarrative_Automated_Data-Driven_Storytelling_with_Visualizations_and_Texts.md)
-
-    - [翻译: DataNarrative：结合可视化与文本，实现数据驱动的自动化故事讲述](2024年08月09日/DataNarrative_Automated_Data-Driven_Storytelling_with_Visualizations_and_Texts.md)
-
-- [FiST-Financial Style Transfer with Hallucination and Creativity Control Framework](2024年08月09日/FiST-Financial_Style_Transfer_with_Hallucination_and_Creativity_Control_Framework.md)
-
-    - [翻译: FiST框架：金融风格转换中的幻觉与创造力调控](2024年08月09日/FiST-Financial_Style_Transfer_with_Hallucination_and_Creativity_Control_Framework.md)
 
 2024年08月05日
 
