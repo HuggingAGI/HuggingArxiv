@@ -178,18 +178,6 @@
 
 2024年08月10日
 
-- [A Decoding Acceleration Framework for Industrial Deployable LLM-based Recommender Systems](2024年08月10日/A_Decoding_Acceleration_Framework_for_Industrial_Deployable_LLM-based_Recommender_Systems.md)
-
-    - [翻译: 工业级基于LLM推荐系统的解码加速框架](2024年08月10日/A_Decoding_Acceleration_Framework_for_Industrial_Deployable_LLM-based_Recommender_Systems.md)
-
-- [Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs](2024年08月10日/Context-Driven_Index_Trimming_A_Data_Quality_Perspective_to_Enhancing_Precision_of_RALMs.md)
-
-    - [翻译: 上下文驱动的索引修剪：从数据质量视角增强RALMs的精准性](2024年08月10日/Context-Driven_Index_Trimming_A_Data_Quality_Perspective_to_Enhancing_Precision_of_RALMs.md)
-
-- [Eigen Attention: Attention in Low-Rank Space for KV Cache Compression](2024年08月10日/Eigen_Attention_Attention_in_Low-Rank_Space_for_KV_Cache_Compression.md)
-
-    - [翻译: 特征注意力：通过低秩空间中的注意力机制，实现KV缓存的高效压缩。](2024年08月10日/Eigen_Attention_Attention_in_Low-Rank_Space_for_KV_Cache_Compression.md)
-
 - [Exploring Applications of State Space Models and Advanced Training Techniques in Sequential Recommendations: A Comparative Study on Efficiency and Performance](2024年08月10日/Exploring_Applications_of_State_Space_Models_and_Advanced_Training_Techniques_in_Sequential_Recommendations_A_Comparative_Study_on_Efficiency_and_Performance.md)
 
     - [翻译: 本研究深入探讨了状态空间模型与先进训练技术在序列推荐领域的应用，通过比较分析，揭示了其在效率与性能方面的表现。](2024年08月10日/Exploring_Applications_of_State_Space_Models_and_Advanced_Training_Techniques_in_Sequential_Recommendations_A_Comparative_Study_on_Efficiency_and_Performance.md)
@@ -202,25 +190,13 @@
 
     - [翻译: 大型语言模型助力角色扮演，精准提取个性化医学术语](2024年08月10日/Large_Language_Model-based_Role-Playing_for_Personalized_Medical_Jargon_Extraction.md)
 
-- [Metacognitive Myopia in Large Language Models](2024年08月10日/Metacognitive_Myopia_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的元认知盲点](2024年08月10日/Metacognitive_Myopia_in_Large_Language_Models.md)
-
 - [Multi-agent Planning using Visual Language Models](2024年08月10日/Multi-agent_Planning_using_Visual_Language_Models.md)
 
     - [翻译: 基于视觉语言模型的多智能体协同规划](2024年08月10日/Multi-agent_Planning_using_Visual_Language_Models.md)
 
-- [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](2024年08月10日/Speculative_Diffusion_Decoding_Accelerating_Language_Generation_through_Diffusion.md)
-
-    - [翻译: 推测性扩散解码技术，通过扩散机制加速语言生成过程。](2024年08月10日/Speculative_Diffusion_Decoding_Accelerating_Language_Generation_through_Diffusion.md)
-
 - [SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning](2024年08月10日/SWIFTA_Scalable_lightWeight_Infrastructure_for_Fine-Tuning.md)
 
     - [翻译: SWIFT：一款专为微调设计的可扩展轻量级基础设施](2024年08月10日/SWIFTA_Scalable_lightWeight_Infrastructure_for_Fine-Tuning.md)
-
-- [Utilizing Large Language Models to Optimize the Detection and Explainability of Phishing Websites](2024年08月10日/Utilizing_Large_Language_Models_to_Optimize_the_Detection_and_Explainability_of_Phishing_Websites.md)
-
-    - [翻译: 借助大型语言模型，我们致力于提升钓鱼网站检测的精准度与解释的透明度。](2024年08月10日/Utilizing_Large_Language_Models_to_Optimize_the_Detection_and_Explainability_of_Phishing_Websites.md)
 
 - [You Augment Me: Exploring ChatGPT-based Data Augmentation for Semantic Code Search](2024年08月10日/You_Augment_Me_Exploring_ChatGPT-based_Data_Augmentation_for_Semantic_Code_Search.md)
 
