@@ -1,17 +1,5 @@
 # 2024年08月
 
-2024年08月10日
-
-- [Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](2024年08月10日/Preserving_Privacy_in_Large_Language_Models_A_Survey_on_Current_Threats_and_Solutions.md)
-
-    - [翻译: 大型语言模型中的隐私保护：探索当前威胁与解决方案](2024年08月10日/Preserving_Privacy_in_Large_Language_Models_A_Survey_on_Current_Threats_and_Solutions.md)
-
-2024年08月09日
-
-- [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models](2024年08月09日/Mini-Monkey_Multi-Scale_Adaptive_Cropping_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: Mini-Monkey 技术通过多尺度自适应裁剪，有效缓解了锯齿效应。](2024年08月09日/Mini-Monkey_Multi-Scale_Adaptive_Cropping_for_Multimodal_Large_Language_Models.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
