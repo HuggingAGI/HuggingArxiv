@@ -6,37 +6,17 @@
 
     - [翻译: Amuro & Char: 探讨大型语言模型预训练与微调的关联](2024年08月13日/Amuro_&_Char_Analyzing_the_Relationship_between_Pre-Training_and_Fine-Tuning_of_Large_Language_Models.md)
 
-- [BMX: Entropy-weighted Similarity and Semantic-enhanced Lexical Search](2024年08月13日/BMX_Entropy-weighted_Similarity_and_Semantic-enhanced_Lexical_Search.md)
-
-    - [翻译: BMX：融合熵权相似性与语义增强的词汇检索](2024年08月13日/BMX_Entropy-weighted_Similarity_and_Semantic-enhanced_Lexical_Search.md)
-
-- [Causal Agent based on Large Language Model](2024年08月13日/Causal_Agent_based_on_Large_Language_Model.md)
-
-    - [翻译: 大型语言模型驱动的因果代理](2024年08月13日/Causal_Agent_based_on_Large_Language_Model.md)
-
 - [Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
 
     - [翻译: 利用大语言模型积累的知识，设计出对计算友好的图神经网络架构。](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
-
-- [Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents](2024年08月13日/Diversity_Empowers_Intelligence_Integrating_Expertise_of_Software_Engineering_Agents.md)
-
-    - [翻译: 智能因多样性而强大：汇聚软件工程代理的专业智慧](2024年08月13日/Diversity_Empowers_Intelligence_Integrating_Expertise_of_Software_Engineering_Agents.md)
 
 - [DracoGPT: Extracting Visualization Design Preferences from Large Language Models](2024年08月13日/DracoGPT_Extracting_Visualization_Design_Preferences_from_Large_Language_Models.md)
 
     - [翻译: DracoGPT：揭示大型语言模型中的可视化设计偏好](2024年08月13日/DracoGPT_Extracting_Visualization_Design_Preferences_from_Large_Language_Models.md)
 
-- [Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
-
-    - [翻译: 本研究通过模拟合成人物的方式，评估大型语言模型在文化适应性方面的表现。](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
-
 - [Large language models can consistently generate high-quality content for election disinformation operations](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
 
     - [翻译: 大型语言模型能够源源不断地产出高质量内容，用于选举中的虚假信息操作。](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
-
-- [Layerwise Recurrent Router for Mixture-of-Experts](2024年08月13日/Layerwise_Recurrent_Router_for_Mixture-of-Experts.md)
-
-    - [翻译: 逐层循环路由器：专家混合的智能导航](2024年08月13日/Layerwise_Recurrent_Router_for_Mixture-of-Experts.md)
 
 - [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
 
