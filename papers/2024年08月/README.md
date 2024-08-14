@@ -1,5 +1,181 @@
 # 2024年08月
 
+2024年08月13日
+
+- [Amuro & Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models](2024年08月13日/Amuro_&_Char_Analyzing_the_Relationship_between_Pre-Training_and_Fine-Tuning_of_Large_Language_Models.md)
+
+    - [翻译: Amuro & Char: 探讨大型语言模型预训练与微调的关联](2024年08月13日/Amuro_&_Char_Analyzing_the_Relationship_between_Pre-Training_and_Fine-Tuning_of_Large_Language_Models.md)
+
+- [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](2024年08月13日/A_Survey_on_Model_MoErging_Recycling_and_Routing_Among_Specialized_Experts_for_Collaborative_Learning.md)
+
+    - [翻译: 模型合并研究综述：探讨在协作学习中，如何通过回收和路由机制，让专门专家协同工作。](2024年08月13日/A_Survey_on_Model_MoErging_Recycling_and_Routing_Among_Specialized_Experts_for_Collaborative_Learning.md)
+
+- [BMX: Entropy-weighted Similarity and Semantic-enhanced Lexical Search](2024年08月13日/BMX_Entropy-weighted_Similarity_and_Semantic-enhanced_Lexical_Search.md)
+
+    - [翻译: BMX：融合熵权相似性与语义增强的词汇检索](2024年08月13日/BMX_Entropy-weighted_Similarity_and_Semantic-enhanced_Lexical_Search.md)
+
+- [Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models](2024年08月13日/Casper_Prompt_Sanitization_for_Protecting_User_Privacy_in_Web-Based_Large_Language_Models.md)
+
+    - [翻译: Casper：网络大型语言模型中保护用户隐私的提示净化技术](2024年08月13日/Casper_Prompt_Sanitization_for_Protecting_User_Privacy_in_Web-Based_Large_Language_Models.md)
+
+- [Causal Agent based on Large Language Model](2024年08月13日/Causal_Agent_based_on_Large_Language_Model.md)
+
+    - [翻译: 大型语言模型驱动的因果代理](2024年08月13日/Causal_Agent_based_on_Large_Language_Model.md)
+
+- [ComGPT: Detecting Local Community Structure with Large Language Models](2024年08月13日/ComGPT_Detecting_Local_Community_Structure_with_Large_Language_Models.md)
+
+    - [翻译: ComGPT：借助大型语言模型揭示本地社区结构](2024年08月13日/ComGPT_Detecting_Local_Community_Structure_with_Large_Language_Models.md)
+
+- [Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
+
+    - [翻译: 利用大语言模型积累的知识，设计出对计算友好的图神经网络架构。](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
+
+- [Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents](2024年08月13日/Diversity_Empowers_Intelligence_Integrating_Expertise_of_Software_Engineering_Agents.md)
+
+    - [翻译: 智能因多样性而强大：汇聚软件工程代理的专业智慧](2024年08月13日/Diversity_Empowers_Intelligence_Integrating_Expertise_of_Software_Engineering_Agents.md)
+
+- [DracoGPT: Extracting Visualization Design Preferences from Large Language Models](2024年08月13日/DracoGPT_Extracting_Visualization_Design_Preferences_from_Large_Language_Models.md)
+
+    - [翻译: DracoGPT：揭示大型语言模型中的可视化设计偏好](2024年08月13日/DracoGPT_Extracting_Visualization_Design_Preferences_from_Large_Language_Models.md)
+
+- [EditScribe: Non-Visual Image Editing with Natural Language Verification Loops](2024年08月13日/EditScribe_Non-Visual_Image_Editing_with_Natural_Language_Verification_Loops.md)
+
+    - [翻译: EditScribe：借助自然语言验证循环实现非视觉图像编辑](2024年08月13日/EditScribe_Non-Visual_Image_Editing_with_Natural_Language_Verification_Loops.md)
+
+- [Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
+
+    - [翻译: 本研究通过模拟合成人物的方式，评估大型语言模型在文化适应性方面的表现。](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
+
+- [Harnessing Earnings Reports for Stock Predictions: A QLoRA-Enhanced LLM Approach](2024年08月13日/Harnessing_Earnings_Reports_for_Stock_Predictions_A_QLoRA-Enhanced_LLM_Approach.md)
+
+    - [翻译: 通过财报洞察股市：基于QLoRA优化的LLM预测策略](2024年08月13日/Harnessing_Earnings_Reports_for_Stock_Predictions_A_QLoRA-Enhanced_LLM_Approach.md)
+
+- [HLSPilot: LLM-based High-Level Synthesis](2024年08月13日/HLSPilot_LLM-based_High-Level_Synthesis.md)
+
+    - [翻译: HLSPilot：基于大型语言模型的高级综合工具](2024年08月13日/HLSPilot_LLM-based_High-Level_Synthesis.md)
+
+- [How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts](2024年08月13日/How_Aligned_are_Human_Chart_Takeaways_and_LLM_Predictions_A_Case_Study_on_Bar_Charts_with_Varying_Layouts.md)
+
+    - [翻译: 探究人类对图表的解读与LLM预测的一致性，通过不同布局条形图的案例深入分析。](2024年08月13日/How_Aligned_are_Human_Chart_Takeaways_and_LLM_Predictions_A_Case_Study_on_Bar_Charts_with_Varying_Layouts.md)
+
+- [Large language models can consistently generate high-quality content for election disinformation operations](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
+
+    - [翻译: 大型语言模型能够源源不断地产出高质量内容，用于选举中的虚假信息操作。](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
+
+- [Layerwise Recurrent Router for Mixture-of-Experts](2024年08月13日/Layerwise_Recurrent_Router_for_Mixture-of-Experts.md)
+
+    - [翻译: 逐层循环路由器：专家混合的智能导航](2024年08月13日/Layerwise_Recurrent_Router_for_Mixture-of-Experts.md)
+
+- [Leveraging Language Models for Emotion and Behavior Analysis in Education](2024年08月13日/Leveraging_Language_Models_for_Emotion_and_Behavior_Analysis_in_Education.md)
+
+    - [翻译: 借助语言模型，深入教育领域，解析情感与行为之谜](2024年08月13日/Leveraging_Language_Models_for_Emotion_and_Behavior_Analysis_in_Education.md)
+
+- [LLMs can Schedule](2024年08月13日/LLMs_can_Schedule.md)
+
+    - [翻译: 大型语言模型具备调度能力。](2024年08月13日/LLMs_can_Schedule.md)
+
+- [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](2024年08月13日/LongWriter_Unleashing_10,000+_Word_Generation_from_Long_Context_LLMs.md)
+
+    - [翻译: LongWriter：激发长上下文 LLM 生成万字长文的能力](2024年08月13日/LongWriter_Unleashing_10,000+_Word_Generation_from_Long_Context_LLMs.md)
+
+- [LoRA$^2$ : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models](2024年08月13日/LoRA$^2$__Multi-Scale_Low-Rank_Approximations_for_Fine-Tuning_Large_Language_Models.md)
+
+    - [翻译: LoRA$^2$：一种多尺度低秩近似方法，专为微调大型语言模型设计。](2024年08月13日/LoRA$^2$__Multi-Scale_Low-Rank_Approximations_for_Fine-Tuning_Large_Language_Models.md)
+
+- [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
+
+    - [翻译: MAQA：探究 LLM 在处理数据不确定性时的不确定性量化评估](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
+
+- [OpenResearcher: Unleashing AI for Accelerated Scientific Research](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
+
+    - [翻译: OpenResearcher：借助 AI 之力，加速科学探索之旅](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
+
+- [PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology](2024年08月13日/PathInsight_Instruction_Tuning_of_Multimodal_Datasets_and_Models_for_Intelligence_Assisted_Diagnosis_in_Histopathology.md)
+
+    - [翻译: PathInsight：针对组织病理学智能辅助诊断，优化多模态数据集与模型的指令调整](2024年08月13日/PathInsight_Instruction_Tuning_of_Multimodal_Datasets_and_Models_for_Intelligence_Assisted_Diagnosis_in_Histopathology.md)
+
+- [Pragmatic inference of scalar implicature by LLMs](2024年08月13日/Pragmatic_inference_of_scalar_implicature_by_LLMs.md)
+
+    - [翻译: LLMs 如何进行标量含意的语用推理](2024年08月13日/Pragmatic_inference_of_scalar_implicature_by_LLMs.md)
+
+- [Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives](2024年08月13日/Re-TASK_Revisiting_LLM_Tasks_from_Capability,_Skill,_and_Knowledge_Perspectives.md)
+
+    - [翻译: Re-TASK：从能力、技能与知识视角重新探索 LLM 任务](2024年08月13日/Re-TASK_Revisiting_LLM_Tasks_from_Capability,_Skill,_and_Knowledge_Perspectives.md)
+
+- [SceneGPT: A Language Model for 3D Scene Understanding](2024年08月13日/SceneGPT_A_Language_Model_for_3D_Scene_Understanding.md)
+
+    - [翻译: SceneGPT：一款专为 3D 场景理解设计的语言模型](2024年08月13日/SceneGPT_A_Language_Model_for_3D_Scene_Understanding.md)
+
+- [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](2024年08月13日/Towards_Robust_and_Cost-Efficient_Knowledge_Unlearning_for_Large_Language_Models.md)
+
+    - [翻译: 探索大型语言模型中稳健且经济高效的知识遗忘方法](2024年08月13日/Towards_Robust_and_Cost-Efficient_Knowledge_Unlearning_for_Large_Language_Models.md)
+
+- [Unlock the Power of Frozen LLMs in Knowledge Graph Completion](2024年08月13日/Unlock_the_Power_of_Frozen_LLMs_in_Knowledge_Graph_Completion.md)
+
+    - [翻译: 释放冻结 LLM 在知识图谱完成中的潜能](2024年08月13日/Unlock_the_Power_of_Frozen_LLMs_in_Knowledge_Graph_Completion.md)
+
+2024年08月12日
+
+- [A Perspective on Large Language Models, Intelligent Machines, and Knowledge Acquisition](2024年08月12日/A_Perspective_on_Large_Language_Models,_Intelligent_Machines,_and_Knowledge_Acquisition.md)
+
+    - [翻译: 大型语言模型、智能机器与知识获取的探讨](2024年08月12日/A_Perspective_on_Large_Language_Models,_Intelligent_Machines,_and_Knowledge_Acquisition.md)
+
+- [AquilaMoE: Efficient Training for MoE Models with Scale-Up and Scale-Out Strategies](2024年08月12日/AquilaMoE_Efficient_Training_for_MoE_Models_with_Scale-Up_and_Scale-Out_Strategies.md)
+
+    - [翻译: AquilaMoE 采用规模扩大与外扩策略，高效训练 MoE 模型。](2024年08月12日/AquilaMoE_Efficient_Training_for_MoE_Models_with_Scale-Up_and_Scale-Out_Strategies.md)
+
+- [Biomedical Event Extraction via Structure-aware Generation](2024年08月12日/Biomedical_Event_Extraction_via_Structure-aware_Generation.md)
+
+    - [翻译: 生物医学事件抽取：结构感知生成方法](2024年08月12日/Biomedical_Event_Extraction_via_Structure-aware_Generation.md)
+
+- [Chain-of-Strategy Planning with LLMs: Aligning the Generation of Psychotherapy Dialogue with Strategy in Motivational Interviewing](2024年08月12日/Chain-of-Strategy_Planning_with_LLMs_Aligning_the_Generation_of_Psychotherapy_Dialogue_with_Strategy_in_Motivational_Interviewing.md)
+
+    - [翻译: 通过 LLM 实现策略链规划，旨在将心理治疗对话与动机性访谈的策略精准对接。](2024年08月12日/Chain-of-Strategy_Planning_with_LLMs_Aligning_the_Generation_of_Psychotherapy_Dialogue_with_Strategy_in_Motivational_Interviewing.md)
+
+- [CROME: Cross-Modal Adapters for Efficient Multimodal LLM](2024年08月12日/CROME_Cross-Modal_Adapters_for_Efficient_Multimodal_LLM.md)
+
+    - [翻译: CROME：高效多模态 LLM 的跨模态适配器](2024年08月12日/CROME_Cross-Modal_Adapters_for_Efficient_Multimodal_LLM.md)
+
+- [Cross-Lingual Conversational Speech Summarization with Large Language Models](2024年08月12日/Cross-Lingual_Conversational_Speech_Summarization_with_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型在跨语言对话语音摘要中的应用](2024年08月12日/Cross-Lingual_Conversational_Speech_Summarization_with_Large_Language_Models.md)
+
+- [Design Proteins Using Large Language Models: Enhancements and Comparative Analyses](2024年08月12日/Design_Proteins_Using_Large_Language_Models_Enhancements_and_Comparative_Analyses.md)
+
+    - [翻译: 利用大型语言模型设计蛋白质：提升性能与对比研究](2024年08月12日/Design_Proteins_Using_Large_Language_Models_Enhancements_and_Comparative_Analyses.md)
+
+- [Evaluating Language Models for Efficient Code Generation](2024年08月12日/Evaluating_Language_Models_for_Efficient_Code_Generation.md)
+
+    - [翻译: 高效代码生成的语言模型评估](2024年08月12日/Evaluating_Language_Models_for_Efficient_Code_Generation.md)
+
+- [Evaluating Language Models on Entity Disambiguation in Tables](2024年08月12日/Evaluating_Language_Models_on_Entity_Disambiguation_in_Tables.md)
+
+    - [翻译: 探究语言模型在表格实体消歧任务中的表现](2024年08月12日/Evaluating_Language_Models_on_Entity_Disambiguation_in_Tables.md)
+
+- [Large Language Models for Secure Code Assessment: A Multi-Language Empirical Study](2024年08月12日/Large_Language_Models_for_Secure_Code_Assessment_A_Multi-Language_Empirical_Study.md)
+
+    - [翻译: 大型语言模型在安全代码评估中的应用：一项跨语言的实证探索](2024年08月12日/Large_Language_Models_for_Secure_Code_Assessment_A_Multi-Language_Empirical_Study.md)
+
+- [Multilingual Crowd-Based Requirements Engineering Using Large Language Models](2024年08月12日/Multilingual_Crowd-Based_Requirements_Engineering_Using_Large_Language_Models.md)
+
+    - [翻译: 基于大型语言模型的多语言众包需求工程](2024年08月12日/Multilingual_Crowd-Based_Requirements_Engineering_Using_Large_Language_Models.md)
+
+- [Prompt Tuning as User Inherent Profile Inference Machine](2024年08月12日/Prompt_Tuning_as_User_Inherent_Profile_Inference_Machine.md)
+
+    - [翻译: Prompt Tuning：用户的内在特征推理机](2024年08月12日/Prompt_Tuning_as_User_Inherent_Profile_Inference_Machine.md)
+
+- [Social Debiasing for Fair Multi-modal LLMs](2024年08月12日/Social_Debiasing_for_Fair_Multi-modal_LLMs.md)
+
+    - [翻译: 多模态大型语言模型的社会去偏见研究](2024年08月12日/Social_Debiasing_for_Fair_Multi-modal_LLMs.md)
+
+- [TacSL: A Library for Visuotactile Sensor Simulation and Learning](2024年08月12日/TacSL_A_Library_for_Visuotactile_Sensor_Simulation_and_Learning.md)
+
+    - [翻译: TacSL：一款专为视觉触觉传感器模拟与学习设计的库](2024年08月12日/TacSL_A_Library_for_Visuotactile_Sensor_Simulation_and_Learning.md)
+
+- [What Color Scheme is More Effective in Assisting Readers to Locate Information in a Color-Coded Article?](2024年08月12日/What_Color_Scheme_is_More_Effective_in_Assisting_Readers_to_Locate_Information_in_a_Color-Coded_Article.md)
+
+    - [翻译: 哪种配色方案能更有效地帮助读者在彩色标记的文章中找到信息？](2024年08月12日/What_Color_Scheme_is_More_Effective_in_Assisting_Readers_to_Locate_Information_in_a_Color-Coded_Article.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
@@ -111,10 +287,6 @@
 - [Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models](2024年08月04日/Self-Introspective_Decoding_Alleviating_Hallucinations_for_Large_Vision-Language_Models.md)
 
     - [翻译: 自我反省解码技术旨在减轻大型视觉-语言模型中的幻觉问题。](2024年08月04日/Self-Introspective_Decoding_Alleviating_Hallucinations_for_Large_Vision-Language_Models.md)
-
-- [User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance](2024年08月04日/User-in-the-loop_Evaluation_of_Multimodal_LLMs_for_Activity_Assistance.md)
-
-    - [翻译: 多模态 LLM 在活动辅助中的用户参与式评估](2024年08月04日/User-in-the-loop_Evaluation_of_Multimodal_LLMs_for_Activity_Assistance.md)
 
 2024年08月02日
 
