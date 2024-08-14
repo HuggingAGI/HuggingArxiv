@@ -1,35 +1,5 @@
 # 2024年08月
 
-2024年08月12日
-
-- [Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment](2024年08月12日/Anchored_Preference_Optimization_and_Contrastive_Revisions_Addressing_Underspecification_in_Alignment.md)
-
-    - [翻译: 通过锚定偏好优化与对比修订，我们致力于解决对齐过程中的未明确指定问题。](2024年08月12日/Anchored_Preference_Optimization_and_Contrastive_Revisions_Addressing_Underspecification_in_Alignment.md)
-
-- [Animate, or Inanimate, That is the Question for Large Language Models](2024年08月12日/Animate,_or_Inanimate,_That_is_the_Question_for_Large_Language_Models.md)
-
-    - [翻译: 对于大型语言模型而言，是赋予生命，还是保持静态，这正是关键所在。](2024年08月12日/Animate,_or_Inanimate,_That_is_the_Question_for_Large_Language_Models.md)
-
-- [Building Decision Making Models Through Language Model Regime](2024年08月12日/Building_Decision_Making_Models_Through_Language_Model_Regime.md)
-
-    - [翻译: 利用语言模型体系构建决策模型](2024年08月12日/Building_Decision_Making_Models_Through_Language_Model_Regime.md)
-
-- [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution](2024年08月12日/Hyperion_Unveiling_DApp_Inconsistencies_using_LLM_and_Dataflow-Guided_Symbolic_Execution.md)
-
-    - [翻译: Hyperion：借助 LLM 与数据流引导的符号执行，揭露 DApp 的不一致之处](2024年08月12日/Hyperion_Unveiling_DApp_Inconsistencies_using_LLM_and_Dataflow-Guided_Symbolic_Execution.md)
-
-- [LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](2024年08月12日/LUT_Tensor_Core_Lookup_Table_Enables_Efficient_Low-Bit_LLM_Inference_Acceleration.md)
-
-    - [翻译: LUT Tensor Core：通过查找表，实现低比特 LLM 推理的高效加速](2024年08月12日/LUT_Tensor_Core_Lookup_Table_Enables_Efficient_Low-Bit_LLM_Inference_Acceleration.md)
-
-- [Strong and weak alignment of large language models with human values](2024年08月12日/Strong_and_weak_alignment_of_large_language_models_with_human_values.md)
-
-    - [翻译: 大型语言模型与人类价值观的对齐程度有强有弱。](2024年08月12日/Strong_and_weak_alignment_of_large_language_models_with_human_values.md)
-
-- [Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction](2024年08月12日/Text2Interaction_Establishing_Safe_and_Preferable_Human-Robot_Interaction.md)
-
-    - [翻译: Text2Interaction：打造安全且受欢迎的人机互动](2024年08月12日/Text2Interaction_Establishing_Safe_and_Preferable_Human-Robot_Interaction.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
