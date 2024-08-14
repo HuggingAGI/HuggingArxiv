@@ -2,37 +2,13 @@
 
 2024年08月13日
 
-- [Amuro & Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models](2024年08月13日/Amuro_&_Char_Analyzing_the_Relationship_between_Pre-Training_and_Fine-Tuning_of_Large_Language_Models.md)
-
-    - [翻译: Amuro & Char: 探讨大型语言模型预训练与微调的关联](2024年08月13日/Amuro_&_Char_Analyzing_the_Relationship_between_Pre-Training_and_Fine-Tuning_of_Large_Language_Models.md)
-
 - [Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
 
     - [翻译: 利用大语言模型积累的知识，设计出对计算友好的图神经网络架构。](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
 
-- [DracoGPT: Extracting Visualization Design Preferences from Large Language Models](2024年08月13日/DracoGPT_Extracting_Visualization_Design_Preferences_from_Large_Language_Models.md)
-
-    - [翻译: DracoGPT：揭示大型语言模型中的可视化设计偏好](2024年08月13日/DracoGPT_Extracting_Visualization_Design_Preferences_from_Large_Language_Models.md)
-
-- [Large language models can consistently generate high-quality content for election disinformation operations](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
-
-    - [翻译: 大型语言模型能够源源不断地产出高质量内容，用于选举中的虚假信息操作。](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
-
 - [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
 
     - [翻译: MAQA：探究 LLM 在处理数据不确定性时的不确定性量化评估](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
-
-- [OpenResearcher: Unleashing AI for Accelerated Scientific Research](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
-
-    - [翻译: OpenResearcher：借助 AI 之力，加速科学探索之旅](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
-
-- [SceneGPT: A Language Model for 3D Scene Understanding](2024年08月13日/SceneGPT_A_Language_Model_for_3D_Scene_Understanding.md)
-
-    - [翻译: SceneGPT：一款专为 3D 场景理解设计的语言模型](2024年08月13日/SceneGPT_A_Language_Model_for_3D_Scene_Understanding.md)
-
-- [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](2024年08月13日/Towards_Robust_and_Cost-Efficient_Knowledge_Unlearning_for_Large_Language_Models.md)
-
-    - [翻译: 探索大型语言模型中稳健且经济高效的知识遗忘方法](2024年08月13日/Towards_Robust_and_Cost-Efficient_Knowledge_Unlearning_for_Large_Language_Models.md)
 
 2024年08月05日
 
