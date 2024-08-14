@@ -22,10 +22,6 @@
 
     - [翻译: 大型语言模型驱动的因果代理](2024年08月13日/Causal_Agent_based_on_Large_Language_Model.md)
 
-- [ComGPT: Detecting Local Community Structure with Large Language Models](2024年08月13日/ComGPT_Detecting_Local_Community_Structure_with_Large_Language_Models.md)
-
-    - [翻译: ComGPT：借助大型语言模型揭示本地社区结构](2024年08月13日/ComGPT_Detecting_Local_Community_Structure_with_Large_Language_Models.md)
-
 - [Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
 
     - [翻译: 利用大语言模型积累的知识，设计出对计算友好的图神经网络架构。](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
@@ -41,14 +37,6 @@
 - [Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
 
     - [翻译: 本研究通过模拟合成人物的方式，评估大型语言模型在文化适应性方面的表现。](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
-
-- [Harnessing Earnings Reports for Stock Predictions: A QLoRA-Enhanced LLM Approach](2024年08月13日/Harnessing_Earnings_Reports_for_Stock_Predictions_A_QLoRA-Enhanced_LLM_Approach.md)
-
-    - [翻译: 通过财报洞察股市：基于QLoRA优化的LLM预测策略](2024年08月13日/Harnessing_Earnings_Reports_for_Stock_Predictions_A_QLoRA-Enhanced_LLM_Approach.md)
-
-- [HLSPilot: LLM-based High-Level Synthesis](2024年08月13日/HLSPilot_LLM-based_High-Level_Synthesis.md)
-
-    - [翻译: HLSPilot：基于大型语言模型的高级综合工具](2024年08月13日/HLSPilot_LLM-based_High-Level_Synthesis.md)
 
 - [How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts](2024年08月13日/How_Aligned_are_Human_Chart_Takeaways_and_LLM_Predictions_A_Case_Study_on_Bar_Charts_with_Varying_Layouts.md)
 
@@ -70,10 +58,6 @@
 
     - [翻译: 大型语言模型具备调度能力。](2024年08月13日/LLMs_can_Schedule.md)
 
-- [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](2024年08月13日/LongWriter_Unleashing_10,000+_Word_Generation_from_Long_Context_LLMs.md)
-
-    - [翻译: LongWriter：激发长上下文 LLM 生成万字长文的能力](2024年08月13日/LongWriter_Unleashing_10,000+_Word_Generation_from_Long_Context_LLMs.md)
-
 - [LoRA$^2$ : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models](2024年08月13日/LoRA$^2$__Multi-Scale_Low-Rank_Approximations_for_Fine-Tuning_Large_Language_Models.md)
 
     - [翻译: LoRA$^2$：一种多尺度低秩近似方法，专为微调大型语言模型设计。](2024年08月13日/LoRA$^2$__Multi-Scale_Low-Rank_Approximations_for_Fine-Tuning_Large_Language_Models.md)
@@ -86,10 +70,6 @@
 
     - [翻译: OpenResearcher：借助 AI 之力，加速科学探索之旅](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
 
-- [Pragmatic inference of scalar implicature by LLMs](2024年08月13日/Pragmatic_inference_of_scalar_implicature_by_LLMs.md)
-
-    - [翻译: LLMs 如何进行标量含意的语用推理](2024年08月13日/Pragmatic_inference_of_scalar_implicature_by_LLMs.md)
-
 - [Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives](2024年08月13日/Re-TASK_Revisiting_LLM_Tasks_from_Capability,_Skill,_and_Knowledge_Perspectives.md)
 
     - [翻译: Re-TASK：从能力、技能与知识视角重新探索 LLM 任务](2024年08月13日/Re-TASK_Revisiting_LLM_Tasks_from_Capability,_Skill,_and_Knowledge_Perspectives.md)
@@ -101,10 +81,6 @@
 - [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](2024年08月13日/Towards_Robust_and_Cost-Efficient_Knowledge_Unlearning_for_Large_Language_Models.md)
 
     - [翻译: 探索大型语言模型中稳健且经济高效的知识遗忘方法](2024年08月13日/Towards_Robust_and_Cost-Efficient_Knowledge_Unlearning_for_Large_Language_Models.md)
-
-- [Unlock the Power of Frozen LLMs in Knowledge Graph Completion](2024年08月13日/Unlock_the_Power_of_Frozen_LLMs_in_Knowledge_Graph_Completion.md)
-
-    - [翻译: 释放冻结 LLM 在知识图谱完成中的潜能](2024年08月13日/Unlock_the_Power_of_Frozen_LLMs_in_Knowledge_Graph_Completion.md)
 
 2024年08月05日
 
