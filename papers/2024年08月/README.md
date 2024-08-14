@@ -38,10 +38,6 @@
 
     - [翻译: DracoGPT：揭示大型语言模型中的可视化设计偏好](2024年08月13日/DracoGPT_Extracting_Visualization_Design_Preferences_from_Large_Language_Models.md)
 
-- [EditScribe: Non-Visual Image Editing with Natural Language Verification Loops](2024年08月13日/EditScribe_Non-Visual_Image_Editing_with_Natural_Language_Verification_Loops.md)
-
-    - [翻译: EditScribe：借助自然语言验证循环实现非视觉图像编辑](2024年08月13日/EditScribe_Non-Visual_Image_Editing_with_Natural_Language_Verification_Loops.md)
-
 - [Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
 
     - [翻译: 本研究通过模拟合成人物的方式，评估大型语言模型在文化适应性方面的表现。](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
@@ -90,10 +86,6 @@
 
     - [翻译: OpenResearcher：借助 AI 之力，加速科学探索之旅](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
 
-- [PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology](2024年08月13日/PathInsight_Instruction_Tuning_of_Multimodal_Datasets_and_Models_for_Intelligence_Assisted_Diagnosis_in_Histopathology.md)
-
-    - [翻译: PathInsight：针对组织病理学智能辅助诊断，优化多模态数据集与模型的指令调整](2024年08月13日/PathInsight_Instruction_Tuning_of_Multimodal_Datasets_and_Models_for_Intelligence_Assisted_Diagnosis_in_Histopathology.md)
-
 - [Pragmatic inference of scalar implicature by LLMs](2024年08月13日/Pragmatic_inference_of_scalar_implicature_by_LLMs.md)
 
     - [翻译: LLMs 如何进行标量含意的语用推理](2024年08月13日/Pragmatic_inference_of_scalar_implicature_by_LLMs.md)
@@ -113,24 +105,6 @@
 - [Unlock the Power of Frozen LLMs in Knowledge Graph Completion](2024年08月13日/Unlock_the_Power_of_Frozen_LLMs_in_Knowledge_Graph_Completion.md)
 
     - [翻译: 释放冻结 LLM 在知识图谱完成中的潜能](2024年08月13日/Unlock_the_Power_of_Frozen_LLMs_in_Knowledge_Graph_Completion.md)
-
-2024年08月12日
-
-- [AquilaMoE: Efficient Training for MoE Models with Scale-Up and Scale-Out Strategies](2024年08月12日/AquilaMoE_Efficient_Training_for_MoE_Models_with_Scale-Up_and_Scale-Out_Strategies.md)
-
-    - [翻译: AquilaMoE 采用规模扩大与外扩策略，高效训练 MoE 模型。](2024年08月12日/AquilaMoE_Efficient_Training_for_MoE_Models_with_Scale-Up_and_Scale-Out_Strategies.md)
-
-- [Biomedical Event Extraction via Structure-aware Generation](2024年08月12日/Biomedical_Event_Extraction_via_Structure-aware_Generation.md)
-
-    - [翻译: 生物医学事件抽取：结构感知生成方法](2024年08月12日/Biomedical_Event_Extraction_via_Structure-aware_Generation.md)
-
-- [Evaluating Language Models for Efficient Code Generation](2024年08月12日/Evaluating_Language_Models_for_Efficient_Code_Generation.md)
-
-    - [翻译: 高效代码生成的语言模型评估](2024年08月12日/Evaluating_Language_Models_for_Efficient_Code_Generation.md)
-
-- [Social Debiasing for Fair Multi-modal LLMs](2024年08月12日/Social_Debiasing_for_Fair_Multi-modal_LLMs.md)
-
-    - [翻译: 多模态大型语言模型的社会去偏见研究](2024年08月12日/Social_Debiasing_for_Fair_Multi-modal_LLMs.md)
 
 2024年08月05日
 
