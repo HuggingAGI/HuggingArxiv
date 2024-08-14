@@ -6,17 +6,9 @@
 
     - [翻译: Amuro & Char: 探讨大型语言模型预训练与微调的关联](2024年08月13日/Amuro_&_Char_Analyzing_the_Relationship_between_Pre-Training_and_Fine-Tuning_of_Large_Language_Models.md)
 
-- [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](2024年08月13日/A_Survey_on_Model_MoErging_Recycling_and_Routing_Among_Specialized_Experts_for_Collaborative_Learning.md)
-
-    - [翻译: 模型合并研究综述：探讨在协作学习中，如何通过回收和路由机制，让专门专家协同工作。](2024年08月13日/A_Survey_on_Model_MoErging_Recycling_and_Routing_Among_Specialized_Experts_for_Collaborative_Learning.md)
-
 - [BMX: Entropy-weighted Similarity and Semantic-enhanced Lexical Search](2024年08月13日/BMX_Entropy-weighted_Similarity_and_Semantic-enhanced_Lexical_Search.md)
 
     - [翻译: BMX：融合熵权相似性与语义增强的词汇检索](2024年08月13日/BMX_Entropy-weighted_Similarity_and_Semantic-enhanced_Lexical_Search.md)
-
-- [Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models](2024年08月13日/Casper_Prompt_Sanitization_for_Protecting_User_Privacy_in_Web-Based_Large_Language_Models.md)
-
-    - [翻译: Casper：网络大型语言模型中保护用户隐私的提示净化技术](2024年08月13日/Casper_Prompt_Sanitization_for_Protecting_User_Privacy_in_Web-Based_Large_Language_Models.md)
 
 - [Causal Agent based on Large Language Model](2024年08月13日/Causal_Agent_based_on_Large_Language_Model.md)
 
@@ -38,10 +30,6 @@
 
     - [翻译: 本研究通过模拟合成人物的方式，评估大型语言模型在文化适应性方面的表现。](2024年08月13日/Evaluating_Cultural_Adaptability_of_a_Large_Language_Model_via_Simulation_of_Synthetic_Personas.md)
 
-- [How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts](2024年08月13日/How_Aligned_are_Human_Chart_Takeaways_and_LLM_Predictions_A_Case_Study_on_Bar_Charts_with_Varying_Layouts.md)
-
-    - [翻译: 探究人类对图表的解读与LLM预测的一致性，通过不同布局条形图的案例深入分析。](2024年08月13日/How_Aligned_are_Human_Chart_Takeaways_and_LLM_Predictions_A_Case_Study_on_Bar_Charts_with_Varying_Layouts.md)
-
 - [Large language models can consistently generate high-quality content for election disinformation operations](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
 
     - [翻译: 大型语言模型能够源源不断地产出高质量内容，用于选举中的虚假信息操作。](2024年08月13日/Large_language_models_can_consistently_generate_high-quality_content_for_election_disinformation_operations.md)
@@ -50,18 +38,6 @@
 
     - [翻译: 逐层循环路由器：专家混合的智能导航](2024年08月13日/Layerwise_Recurrent_Router_for_Mixture-of-Experts.md)
 
-- [Leveraging Language Models for Emotion and Behavior Analysis in Education](2024年08月13日/Leveraging_Language_Models_for_Emotion_and_Behavior_Analysis_in_Education.md)
-
-    - [翻译: 借助语言模型，深入教育领域，解析情感与行为之谜](2024年08月13日/Leveraging_Language_Models_for_Emotion_and_Behavior_Analysis_in_Education.md)
-
-- [LLMs can Schedule](2024年08月13日/LLMs_can_Schedule.md)
-
-    - [翻译: 大型语言模型具备调度能力。](2024年08月13日/LLMs_can_Schedule.md)
-
-- [LoRA$^2$ : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models](2024年08月13日/LoRA$^2$__Multi-Scale_Low-Rank_Approximations_for_Fine-Tuning_Large_Language_Models.md)
-
-    - [翻译: LoRA$^2$：一种多尺度低秩近似方法，专为微调大型语言模型设计。](2024年08月13日/LoRA$^2$__Multi-Scale_Low-Rank_Approximations_for_Fine-Tuning_Large_Language_Models.md)
-
 - [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
 
     - [翻译: MAQA：探究 LLM 在处理数据不确定性时的不确定性量化评估](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
@@ -69,10 +45,6 @@
 - [OpenResearcher: Unleashing AI for Accelerated Scientific Research](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
 
     - [翻译: OpenResearcher：借助 AI 之力，加速科学探索之旅](2024年08月13日/OpenResearcher_Unleashing_AI_for_Accelerated_Scientific_Research.md)
-
-- [Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives](2024年08月13日/Re-TASK_Revisiting_LLM_Tasks_from_Capability,_Skill,_and_Knowledge_Perspectives.md)
-
-    - [翻译: Re-TASK：从能力、技能与知识视角重新探索 LLM 任务](2024年08月13日/Re-TASK_Revisiting_LLM_Tasks_from_Capability,_Skill,_and_Knowledge_Perspectives.md)
 
 - [SceneGPT: A Language Model for 3D Scene Understanding](2024年08月13日/SceneGPT_A_Language_Model_for_3D_Scene_Understanding.md)
 
