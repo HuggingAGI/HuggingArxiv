@@ -1,5 +1,5 @@
 # mPLUG-Owl3：探索多模态大型语言模型中的长图像序列理解
-发布时间：2024年08月08日
+发布时间：2024年08月13日
 
 `多模态大模型`
 > mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models

@@ -1,5 +1,5 @@
 # Rag and Roll：探索基于 LLM 应用框架中，间接提示操作的全面评估之旅
-发布时间：2024年08月09日
+发布时间：2024年08月12日
 
 `RAG`
 > Rag and Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks

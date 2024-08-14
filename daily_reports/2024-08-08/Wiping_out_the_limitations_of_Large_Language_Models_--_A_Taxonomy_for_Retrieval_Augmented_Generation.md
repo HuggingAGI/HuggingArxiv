@@ -1,5 +1,5 @@
 # 突破大型语言模型的限制：探索检索增强生成的分类体系
-发布时间：2024年08月07日
+发布时间：2024年08月12日
 
 `RAG`
 > Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation

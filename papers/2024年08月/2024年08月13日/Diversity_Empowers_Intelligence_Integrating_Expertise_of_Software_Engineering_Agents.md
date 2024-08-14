@@ -12,4 +12,24 @@
 
 > Large language model (LLM) agents have shown great potential in solving real-world software engineering (SWE) problems. The most advanced open-source SWE agent can resolve over 27% of real GitHub issues in SWE-Bench Lite. However, these sophisticated agent frameworks exhibit varying strengths, excelling in certain tasks while underperforming in others. To fully harness the diversity of these agents, we propose DEI (Diversity Empowered Intelligence), a framework that leverages their unique expertise. DEI functions as a meta-module atop existing SWE agent frameworks, managing agent collectives for enhanced problem-solving. Experimental results show that a DEI-guided committee of agents is able to surpass the best individual agent's performance by a large margin. For instance, a group of open-source SWE agents, with a maximum individual resolve rate of 27.3% on SWE-Bench Lite, can achieve a 34.3% resolve rate with DEI, making a 25% improvement and beating most closed-source solutions. Our best-performing group excels with a 55% resolve rate, securing the highest ranking on SWE-Bench Lite. Our findings contribute to the growing body of research on collaborative AI systems and their potential to solve complex software engineering challenges.
 
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x1.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x2.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x3.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x4.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x5.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x6.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x7.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x8.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x9.png)
+
+![智能因多样性而强大：汇聚软件工程代理的专业智慧](../../../paper_images/2408.07060/x10.png)
+
 [Arxiv](https://arxiv.org/abs/2408.07060)
