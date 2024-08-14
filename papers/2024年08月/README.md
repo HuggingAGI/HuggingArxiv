@@ -2,10 +2,6 @@
 
 2024年08月12日
 
-- [Adapting a Foundation Model for Space-based Tasks](2024年08月12日/Adapting_a_Foundation_Model_for_Space-based_Tasks.md)
-
-    - [翻译: 针对太空任务调整基础模型](2024年08月12日/Adapting_a_Foundation_Model_for_Space-based_Tasks.md)
-
 - [Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment](2024年08月12日/Anchored_Preference_Optimization_and_Contrastive_Revisions_Addressing_Underspecification_in_Alignment.md)
 
     - [翻译: 通过锚定偏好优化与对比修订，我们致力于解决对齐过程中的未明确指定问题。](2024年08月12日/Anchored_Preference_Optimization_and_Contrastive_Revisions_Addressing_Underspecification_in_Alignment.md)
@@ -14,21 +10,9 @@
 
     - [翻译: 对于大型语言模型而言，是赋予生命，还是保持静态，这正是关键所在。](2024年08月12日/Animate,_or_Inanimate,_That_is_the_Question_for_Large_Language_Models.md)
 
-- [ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers](2024年08月12日/ARPA_A_Novel_Hybrid_Model_for_Advancing_Visual_Word_Disambiguation_Using_Large_Language_Models_and_Transformers.md)
-
-    - [翻译: ARPA：结合大型语言模型与Transformer技术，创新混合模型，助力视觉词义精准消歧。](2024年08月12日/ARPA_A_Novel_Hybrid_Model_for_Advancing_Visual_Word_Disambiguation_Using_Large_Language_Models_and_Transformers.md)
-
 - [Building Decision Making Models Through Language Model Regime](2024年08月12日/Building_Decision_Making_Models_Through_Language_Model_Regime.md)
 
     - [翻译: 利用语言模型体系构建决策模型](2024年08月12日/Building_Decision_Making_Models_Through_Language_Model_Regime.md)
-
-- [Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example](2024年08月12日/Can_We_Rely_on_LLM_Agents_to_Draft_Long-Horizon_Plans_Let's_Take_TravelPlanner_as_an_Example.md)
-
-    - [翻译: LLM 代理能否胜任长期计划的制定？以 TravelPlanner 为例，我们探讨这一问题。](2024年08月12日/Can_We_Rely_on_LLM_Agents_to_Draft_Long-Horizon_Plans_Let's_Take_TravelPlanner_as_an_Example.md)
-
-- [FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data](2024年08月12日/FuxiTranyu_A_Multilingual_Large_Language_Model_Trained_with_Balanced_Data.md)
-
-    - [翻译: FuxiTranyu：一款采用平衡数据训练的多语言大型语言模型](2024年08月12日/FuxiTranyu_A_Multilingual_Large_Language_Model_Trained_with_Balanced_Data.md)
 
 - [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution](2024年08月12日/Hyperion_Unveiling_DApp_Inconsistencies_using_LLM_and_Dataflow-Guided_Symbolic_Execution.md)
 
@@ -37,10 +21,6 @@
 - [LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](2024年08月12日/LUT_Tensor_Core_Lookup_Table_Enables_Efficient_Low-Bit_LLM_Inference_Acceleration.md)
 
     - [翻译: LUT Tensor Core：通过查找表，实现低比特 LLM 推理的高效加速](2024年08月12日/LUT_Tensor_Core_Lookup_Table_Enables_Efficient_Low-Bit_LLM_Inference_Acceleration.md)
-
-- [Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
-
-    - [翻译: Nob-MIAs：针对大型语言模型，通过事后数据集构建，进行无偏见的成员推理攻击评估。](2024年08月12日/Nob-MIAs_Non-biased_Membership_Inference_Attacks_Assessment_on_Large_Language_Models_with_Ex-Post_Dataset_Construction.md)
 
 - [Strong and weak alignment of large language models with human values](2024年08月12日/Strong_and_weak_alignment_of_large_language_models_with_human_values.md)
 
