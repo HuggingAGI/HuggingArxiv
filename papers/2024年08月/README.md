@@ -116,10 +116,6 @@
 
 2024年08月12日
 
-- [A Perspective on Large Language Models, Intelligent Machines, and Knowledge Acquisition](2024年08月12日/A_Perspective_on_Large_Language_Models,_Intelligent_Machines,_and_Knowledge_Acquisition.md)
-
-    - [翻译: 大型语言模型、智能机器与知识获取的探讨](2024年08月12日/A_Perspective_on_Large_Language_Models,_Intelligent_Machines,_and_Knowledge_Acquisition.md)
-
 - [AquilaMoE: Efficient Training for MoE Models with Scale-Up and Scale-Out Strategies](2024年08月12日/AquilaMoE_Efficient_Training_for_MoE_Models_with_Scale-Up_and_Scale-Out_Strategies.md)
 
     - [翻译: AquilaMoE 采用规模扩大与外扩策略，高效训练 MoE 模型。](2024年08月12日/AquilaMoE_Efficient_Training_for_MoE_Models_with_Scale-Up_and_Scale-Out_Strategies.md)
@@ -128,29 +124,9 @@
 
     - [翻译: 生物医学事件抽取：结构感知生成方法](2024年08月12日/Biomedical_Event_Extraction_via_Structure-aware_Generation.md)
 
-- [Chain-of-Strategy Planning with LLMs: Aligning the Generation of Psychotherapy Dialogue with Strategy in Motivational Interviewing](2024年08月12日/Chain-of-Strategy_Planning_with_LLMs_Aligning_the_Generation_of_Psychotherapy_Dialogue_with_Strategy_in_Motivational_Interviewing.md)
-
-    - [翻译: 通过 LLM 实现策略链规划，旨在将心理治疗对话与动机性访谈的策略精准对接。](2024年08月12日/Chain-of-Strategy_Planning_with_LLMs_Aligning_the_Generation_of_Psychotherapy_Dialogue_with_Strategy_in_Motivational_Interviewing.md)
-
-- [Cross-Lingual Conversational Speech Summarization with Large Language Models](2024年08月12日/Cross-Lingual_Conversational_Speech_Summarization_with_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型在跨语言对话语音摘要中的应用](2024年08月12日/Cross-Lingual_Conversational_Speech_Summarization_with_Large_Language_Models.md)
-
-- [Design Proteins Using Large Language Models: Enhancements and Comparative Analyses](2024年08月12日/Design_Proteins_Using_Large_Language_Models_Enhancements_and_Comparative_Analyses.md)
-
-    - [翻译: 利用大型语言模型设计蛋白质：提升性能与对比研究](2024年08月12日/Design_Proteins_Using_Large_Language_Models_Enhancements_and_Comparative_Analyses.md)
-
 - [Evaluating Language Models for Efficient Code Generation](2024年08月12日/Evaluating_Language_Models_for_Efficient_Code_Generation.md)
 
     - [翻译: 高效代码生成的语言模型评估](2024年08月12日/Evaluating_Language_Models_for_Efficient_Code_Generation.md)
-
-- [Evaluating Language Models on Entity Disambiguation in Tables](2024年08月12日/Evaluating_Language_Models_on_Entity_Disambiguation_in_Tables.md)
-
-    - [翻译: 探究语言模型在表格实体消歧任务中的表现](2024年08月12日/Evaluating_Language_Models_on_Entity_Disambiguation_in_Tables.md)
-
-- [Prompt Tuning as User Inherent Profile Inference Machine](2024年08月12日/Prompt_Tuning_as_User_Inherent_Profile_Inference_Machine.md)
-
-    - [翻译: Prompt Tuning：用户的内在特征推理机](2024年08月12日/Prompt_Tuning_as_User_Inherent_Profile_Inference_Machine.md)
 
 - [Social Debiasing for Fair Multi-modal LLMs](2024年08月12日/Social_Debiasing_for_Fair_Multi-modal_LLMs.md)
 
