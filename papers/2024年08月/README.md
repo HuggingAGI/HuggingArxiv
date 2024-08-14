@@ -132,10 +132,6 @@
 
     - [翻译: 通过 LLM 实现策略链规划，旨在将心理治疗对话与动机性访谈的策略精准对接。](2024年08月12日/Chain-of-Strategy_Planning_with_LLMs_Aligning_the_Generation_of_Psychotherapy_Dialogue_with_Strategy_in_Motivational_Interviewing.md)
 
-- [CROME: Cross-Modal Adapters for Efficient Multimodal LLM](2024年08月12日/CROME_Cross-Modal_Adapters_for_Efficient_Multimodal_LLM.md)
-
-    - [翻译: CROME：高效多模态 LLM 的跨模态适配器](2024年08月12日/CROME_Cross-Modal_Adapters_for_Efficient_Multimodal_LLM.md)
-
 - [Cross-Lingual Conversational Speech Summarization with Large Language Models](2024年08月12日/Cross-Lingual_Conversational_Speech_Summarization_with_Large_Language_Models.md)
 
     - [翻译: 大型语言模型在跨语言对话语音摘要中的应用](2024年08月12日/Cross-Lingual_Conversational_Speech_Summarization_with_Large_Language_Models.md)
@@ -152,14 +148,6 @@
 
     - [翻译: 探究语言模型在表格实体消歧任务中的表现](2024年08月12日/Evaluating_Language_Models_on_Entity_Disambiguation_in_Tables.md)
 
-- [Large Language Models for Secure Code Assessment: A Multi-Language Empirical Study](2024年08月12日/Large_Language_Models_for_Secure_Code_Assessment_A_Multi-Language_Empirical_Study.md)
-
-    - [翻译: 大型语言模型在安全代码评估中的应用：一项跨语言的实证探索](2024年08月12日/Large_Language_Models_for_Secure_Code_Assessment_A_Multi-Language_Empirical_Study.md)
-
-- [Multilingual Crowd-Based Requirements Engineering Using Large Language Models](2024年08月12日/Multilingual_Crowd-Based_Requirements_Engineering_Using_Large_Language_Models.md)
-
-    - [翻译: 基于大型语言模型的多语言众包需求工程](2024年08月12日/Multilingual_Crowd-Based_Requirements_Engineering_Using_Large_Language_Models.md)
-
 - [Prompt Tuning as User Inherent Profile Inference Machine](2024年08月12日/Prompt_Tuning_as_User_Inherent_Profile_Inference_Machine.md)
 
     - [翻译: Prompt Tuning：用户的内在特征推理机](2024年08月12日/Prompt_Tuning_as_User_Inherent_Profile_Inference_Machine.md)
@@ -167,14 +155,6 @@
 - [Social Debiasing for Fair Multi-modal LLMs](2024年08月12日/Social_Debiasing_for_Fair_Multi-modal_LLMs.md)
 
     - [翻译: 多模态大型语言模型的社会去偏见研究](2024年08月12日/Social_Debiasing_for_Fair_Multi-modal_LLMs.md)
-
-- [TacSL: A Library for Visuotactile Sensor Simulation and Learning](2024年08月12日/TacSL_A_Library_for_Visuotactile_Sensor_Simulation_and_Learning.md)
-
-    - [翻译: TacSL：一款专为视觉触觉传感器模拟与学习设计的库](2024年08月12日/TacSL_A_Library_for_Visuotactile_Sensor_Simulation_and_Learning.md)
-
-- [What Color Scheme is More Effective in Assisting Readers to Locate Information in a Color-Coded Article?](2024年08月12日/What_Color_Scheme_is_More_Effective_in_Assisting_Readers_to_Locate_Information_in_a_Color-Coded_Article.md)
-
-    - [翻译: 哪种配色方案能更有效地帮助读者在彩色标记的文章中找到信息？](2024年08月12日/What_Color_Scheme_is_More_Effective_in_Assisting_Readers_to_Locate_Information_in_a_Color-Coded_Article.md)
 
 2024年08月05日
 
