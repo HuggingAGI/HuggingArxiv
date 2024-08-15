@@ -6,10 +6,6 @@
 
     - [翻译: 量子启发的消歧过程分析](2024年08月14日/A_Quantum-Inspired_Analysis_of_Human_Disambiguation_Processes.md)
 
-- [Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation](2024年08月14日/Beyond_Inter-Item_Relations_Dynamic_Adaptive_Mixture-of-Experts_for_LLM-Based_Sequential_Recommendation.md)
-
-    - [翻译: 突破项目间关系的限制，我们提出了一种基于LLM的序列推荐系统，采用动态自适应的混合专家模型，以提升推荐效果。](2024年08月14日/Beyond_Inter-Item_Relations_Dynamic_Adaptive_Mixture-of-Experts_for_LLM-Based_Sequential_Recommendation.md)
-
 - [Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization](2024年08月14日/Bridging_and_Modeling_Correlations_in_Pairwise_Data_for_Direct_Preference_Optimization.md)
 
     - [翻译: 通过在成对数据中建立关联模型，实现直接偏好优化](2024年08月14日/Bridging_and_Modeling_Correlations_in_Pairwise_Data_for_Direct_Preference_Optimization.md)
@@ -22,10 +18,6 @@
 
     - [翻译: 从巴西葡语到欧洲葡语](2024年08月14日/From_Brazilian_Portuguese_to_European_Portuguese.md)
 
-- [Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](2024年08月14日/Knowledge_in_Superposition_Unveiling_the_Failures_of_Lifelong_Knowledge_Editing_for_Large_Language_Models.md)
-
-    - [翻译: 知识叠加现象揭示了大型语言模型在终身知识编辑方面的不足。](2024年08月14日/Knowledge_in_Superposition_Unveiling_the_Failures_of_Lifelong_Knowledge_Editing_for_Large_Language_Models.md)
-
 - [Large Language Models Know What Makes Exemplary Contexts](2024年08月14日/Large_Language_Models_Know_What_Makes_Exemplary_Contexts.md)
 
     - [翻译: 大型语言模型深谙何为典范上下文](2024年08月14日/Large_Language_Models_Know_What_Makes_Exemplary_Contexts.md)
@@ -33,18 +25,6 @@
 - [Large Language Models Prompting With Episodic Memory](2024年08月14日/Large_Language_Models_Prompting_With_Episodic_Memory.md)
 
     - [翻译: 利用情景记忆对大型语言模型进行提示](2024年08月14日/Large_Language_Models_Prompting_With_Episodic_Memory.md)
-
-- [LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference](2024年08月14日/LPU_A_Latency-Optimized_and_Highly_Scalable_Processor_for_Large_Language_Model_Inference.md)
-
-    - [翻译: LPU：专为大型语言模型推理设计，实现低延迟与高可扩展性的处理器](2024年08月14日/LPU_A_Latency-Optimized_and_Highly_Scalable_Processor_for_Large_Language_Model_Inference.md)
-
-- [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](2024年08月14日/Model_Merging_in_LLMs,_MLLMs,_and_Beyond_Methods,_Theories,_Applications_and_Opportunities.md)
-
-    - [翻译: LLM、MLLM 及其拓展领域中的模型合并：探索其方法、理论、应用及未来机遇](2024年08月14日/Model_Merging_in_LLMs,_MLLMs,_and_Beyond_Methods,_Theories,_Applications_and_Opportunities.md)
-
-- [QirK: Question Answering via Intermediate Representation on Knowledge Graphs](2024年08月14日/QirK_Question_Answering_via_Intermediate_Representation_on_Knowledge_Graphs.md)
-
-    - [翻译: QirK：借助知识图谱的中间表示实现问答功能](2024年08月14日/QirK_Question_Answering_via_Intermediate_Representation_on_Knowledge_Graphs.md)
 
 - [The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
 
