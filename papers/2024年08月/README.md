@@ -106,28 +106,6 @@
 
     - [翻译: WeKnow-RAG：融合网络搜索与知识图谱，实现检索增强生成的自适应策略](2024年08月14日/WeKnow-RAG_An_Adaptive_Approach_for_Retrieval-Augmented_Generation_Integrating_Web_Search_and_Knowledge_Graphs.md)
 
-2024年08月13日
-
-- [GQE: Generalized Query Expansion for Enhanced Text-Video Retrieval](2024年08月13日/GQE_Generalized_Query_Expansion_for_Enhanced_Text-Video_Retrieval.md)
-
-    - [翻译: GQE：广义查询扩展，旨在提升文本与视频检索的效能。](2024年08月13日/GQE_Generalized_Query_Expansion_for_Enhanced_Text-Video_Retrieval.md)
-
-- [Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models](2024年08月13日/Large_Model_Strategic_Thinking,_Small_Model_Efficiency_Transferring_Theory_of_Mind_in_Large_Language_Models.md)
-
-    - [翻译: 大型模型的战略思维与小型模型的效率并存：探讨在大语言模型中心智理论的转移。](2024年08月13日/Large_Model_Strategic_Thinking,_Small_Model_Efficiency_Transferring_Theory_of_Mind_in_Large_Language_Models.md)
-
-- [NL2OR: Solve Complex Operations Research Problems Using Natural Language Inputs](2024年08月13日/NL2OR_Solve_Complex_Operations_Research_Problems_Using_Natural_Language_Inputs.md)
-
-    - [翻译: NL2OR：以自然语言输入破解复杂运筹学难题](2024年08月13日/NL2OR_Solve_Complex_Operations_Research_Problems_Using_Natural_Language_Inputs.md)
-
-- [Seeing and Understanding: Bridging Vision with Chemical Knowledge Via ChemVLM](2024年08月13日/Seeing_and_Understanding_Bridging_Vision_with_Chemical_Knowledge_Via_ChemVLM.md)
-
-    - [翻译: 借助 ChemVLM，我们实现了视觉与化学知识的桥梁，让看见转化为理解。](2024年08月13日/Seeing_and_Understanding_Bridging_Vision_with_Chemical_Knowledge_Via_ChemVLM.md)
-
-- [SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis](2024年08月13日/SeLoRA_Self-Expanding_Low-Rank_Adaptation_of_Latent_Diffusion_Model_for_Medical_Image_Synthesis.md)
-
-    - [翻译: SeLoRA：医学图像合成中，潜在扩散模型的自扩展低秩适应技术](2024年08月13日/SeLoRA_Self-Expanding_Low-Rank_Adaptation_of_Latent_Diffusion_Model_for_Medical_Image_Synthesis.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
