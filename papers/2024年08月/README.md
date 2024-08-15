@@ -22,18 +22,6 @@
 
     - [翻译: 跨平台视频人物重识别：引入新基准数据集与适应策略](2024年08月14日/Cross-Platform_Video_Person_ReID_A_New_Benchmark_Dataset_and_Adaptation_Approach.md)
 
-- [Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments](2024年08月14日/Development_of_a_Multi-Agent_Clinical_Decision_Support_System_for_Korean_Triage_and_Acuity_Scale_(KTAS)-Based_Triage_and_Treatment_Planning_in_Emergency_Departments.md)
-
-    - [翻译: 开发基于KTAS的多代理系统，助力急诊分诊与治疗决策](2024年08月14日/Development_of_a_Multi-Agent_Clinical_Decision_Support_System_for_Korean_Triage_and_Acuity_Scale_(KTAS)-Based_Triage_and_Treatment_Planning_in_Emergency_Departments.md)
-
-- [Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics](2024年08月14日/Do_GPT_Language_Models_Suffer_From_Split_Personality_Disorder_The_Advent_Of_Substrate-Free_Psychometrics.md)
-
-    - [翻译: GPT语言模型是否存在“人格分裂”？无基质心理测量的崭新探索](2024年08月14日/Do_GPT_Language_Models_Suffer_From_Split_Personality_Disorder_The_Advent_Of_Substrate-Free_Psychometrics.md)
-
-- [Evaluating Large Language Model based Personal Information Extraction and Countermeasures](2024年08月14日/Evaluating_Large_Language_Model_based_Personal_Information_Extraction_and_Countermeasures.md)
-
-    - [翻译: 评估大型语言模型在个人信息提取方面的表现及其应对策略](2024年08月14日/Evaluating_Large_Language_Model_based_Personal_Information_Extraction_and_Countermeasures.md)
-
 - [Exploring Large-Scale Language Models to Evaluate EEG-Based Multimodal Data for Mental Health](2024年08月14日/Exploring_Large-Scale_Language_Models_to_Evaluate_EEG-Based_Multimodal_Data_for_Mental_Health.md)
 
     - [翻译: 本研究旨在利用大规模语言模型，深入评估基于 EEG 的多模态数据在心理健康领域的应用。](2024年08月14日/Exploring_Large-Scale_Language_Models_to_Evaluate_EEG-Based_Multimodal_Data_for_Mental_Health.md)
@@ -66,10 +54,6 @@
 
     - [翻译: LPU：专为大型语言模型推理设计，实现低延迟与高可扩展性的处理器](2024年08月14日/LPU_A_Latency-Optimized_and_Highly_Scalable_Processor_for_Large_Language_Model_Inference.md)
 
-- [MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark](2024年08月14日/MathScape_Evaluating_MLLMs_in_multimodal_Math_Scenarios_through_a_Hierarchical_Benchmark.md)
-
-    - [翻译: MathScape 项目旨在通过分层基准，评估多模态数学场景下的 MLLMs 表现。](2024年08月14日/MathScape_Evaluating_MLLMs_in_multimodal_Math_Scenarios_through_a_Hierarchical_Benchmark.md)
-
 - [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](2024年08月14日/Model_Merging_in_LLMs,_MLLMs,_and_Beyond_Methods,_Theories,_Applications_and_Opportunities.md)
 
     - [翻译: LLM、MLLM 及其拓展领域中的模型合并：探索其方法、理论、应用及未来机遇](2024年08月14日/Model_Merging_in_LLMs,_MLLMs,_and_Beyond_Methods,_Theories,_Applications_and_Opportunities.md)
@@ -77,10 +61,6 @@
 - [MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Models for Multimodal Surface Sensing](2024年08月14日/MultiSurf-GPT_Facilitating_Context-Aware_Reasoning_with_Large-Scale_Language_Models_for_Multimodal_Surface_Sensing.md)
 
     - [翻译: MultiSurf-GPT：利用大规模语言模型，增强多模态表面感知中的上下文感知推理能力](2024年08月14日/MultiSurf-GPT_Facilitating_Context-Aware_Reasoning_with_Large-Scale_Language_Models_for_Multimodal_Surface_Sensing.md)
-
-- [New Curriculum, New Chance -- Retrieval Augmented Generation for Lesson Planning in Ugandan Secondary Schools. Prototype Quality Evaluation](2024年08月14日/New_Curriculum,_New_Chance_--_Retrieval_Augmented_Generation_for_Lesson_Planning_in_Ugandan_Secondary_Schools._Prototype_Quality_Evaluation.md)
-
-    - [翻译: 新课程带来新机遇，乌干达中学课程规划采用检索增强生成技术，正在进行原型质量评估。](2024年08月14日/New_Curriculum,_New_Chance_--_Retrieval_Augmented_Generation_for_Lesson_Planning_in_Ugandan_Secondary_Schools._Prototype_Quality_Evaluation.md)
 
 - [QirK: Question Answering via Intermediate Representation on Knowledge Graphs](2024年08月14日/QirK_Question_Answering_via_Intermediate_Representation_on_Knowledge_Graphs.md)
 
@@ -93,10 +73,6 @@
 - [The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
 
     - [翻译: 理性语言模型时代，文本到SQL转换是否宣告了模式链接的终结？](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
-
-- [Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey](2024年08月14日/Transformers_and_Large_Language_Models_for_Efficient_Intrusion_Detection_Systems_A_Comprehensive_Survey.md)
-
-    - [翻译: Transformer 与大型语言模型在构建高效入侵检测系统中的应用：一次深入探索](2024年08月14日/Transformers_and_Large_Language_Models_for_Efficient_Intrusion_Detection_Systems_A_Comprehensive_Survey.md)
 
 - [Usefulness of data flow diagrams and large language models for security threat validation: a registered report](2024年08月14日/Usefulness_of_data_flow_diagrams_and_large_language_models_for_security_threat_validation_a_registered_report.md)
 
