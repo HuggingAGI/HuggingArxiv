@@ -1,15 +1,5 @@
 # 2024年08月
 
-2024年08月13日
-
-- [Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
-
-    - [翻译: 利用大语言模型积累的知识，设计出对计算友好的图神经网络架构。](2024年08月13日/Computation-friendly_Graph_Neural_Network_Design_by_Accumulating_Knowledge_on_Large_Language_Models.md)
-
-- [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
-
-    - [翻译: MAQA：探究 LLM 在处理数据不确定性时的不确定性量化评估](2024年08月13日/MAQA_Evaluating_Uncertainty_Quantification_in_LLMs_Regarding_Data_Uncertainty.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
