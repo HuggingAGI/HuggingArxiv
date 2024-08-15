@@ -160,12 +160,6 @@
 
     - [翻译: InfinityMATH：一款可扩展的程序化数学推理指令调优数据集](2024年08月09日/InfinityMATH_A_Scalable_Instruction_Tuning_Dataset_in_Programmatic_Mathematical_Reasoning.md)
 
-2024年08月07日
-
-- [Evaluating Source Code Quality with Large Languagem Models: a comparative study](2024年08月07日/Evaluating_Source_Code_Quality_with_Large_Languagem_Models_a_comparative_study.md)
-
-    - [翻译: 大型语言模型在源代码质量评估中的应用：一项对比研究](2024年08月07日/Evaluating_Source_Code_Quality_with_Large_Languagem_Models_a_comparative_study.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
