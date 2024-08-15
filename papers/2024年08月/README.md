@@ -1,15 +1,5 @@
 # 2024年08月
 
-2024年08月14日
-
-- [The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
-
-    - [翻译: 理性语言模型时代，文本到SQL转换是否宣告了模式链接的终结？](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
-
-- [Usefulness of data flow diagrams and large language models for security threat validation: a registered report](2024年08月14日/Usefulness_of_data_flow_diagrams_and_large_language_models_for_security_threat_validation_a_registered_report.md)
-
-    - [翻译: 数据流图与大型语言模型在验证安全威胁中的应用：注册报告探析](2024年08月14日/Usefulness_of_data_flow_diagrams_and_large_language_models_for_security_threat_validation_a_registered_report.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
