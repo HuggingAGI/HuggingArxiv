@@ -12,4 +12,12 @@
 
 > In this paper, we construct a large-scale benchmark dataset for Ground-to-Aerial Video-based person Re-Identification, named G2A-VReID, which comprises 185,907 images and 5,576 tracklets, featuring 2,788 distinct identities. To our knowledge, this is the first dataset for video ReID under Ground-to-Aerial scenarios. G2A-VReID dataset has the following characteristics: 1) Drastic view changes; 2) Large number of annotated identities; 3) Rich outdoor scenarios; 4) Huge difference in resolution. Additionally, we propose a new benchmark approach for cross-platform ReID by transforming the cross-platform visual alignment problem into visual-semantic alignment through vision-language model (i.e., CLIP) and applying a parameter-efficient Video Set-Level-Adapter module to adapt image-based foundation model to video ReID tasks, termed VSLA-CLIP. Besides, to further reduce the great discrepancy across the platforms, we also devise the platform-bridge prompts for efficient visual feature alignment. Extensive experiments demonstrate the superiority of the proposed method on all existing video ReID datasets and our proposed G2A-VReID dataset.
 
+![跨平台视频人物重识别：引入新基准数据集与适应策略](../../../paper_images/2408.07500/x1.png)
+
+![跨平台视频人物重识别：引入新基准数据集与适应策略](../../../paper_images/2408.07500/x2.png)
+
+![跨平台视频人物重识别：引入新基准数据集与适应策略](../../../paper_images/2408.07500/x3.png)
+
+![跨平台视频人物重识别：引入新基准数据集与适应策略](../../../paper_images/2408.07500/x4.png)
+
 [Arxiv](https://arxiv.org/abs/2408.07500)
