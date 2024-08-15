@@ -2,10 +2,6 @@
 
 2024年08月14日
 
-- [Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions](2024年08月14日/Alignment-Enhanced_DecodingDefending_via_Token-Level_Adaptive_Refining_of_Probability_Distributions.md)
-
-    - [翻译: 对齐增强解码：利用令牌级自适应精炼概率分布进行防御](2024年08月14日/Alignment-Enhanced_DecodingDefending_via_Token-Level_Adaptive_Refining_of_Probability_Distributions.md)
-
 - [A Quantum-Inspired Analysis of Human Disambiguation Processes](2024年08月14日/A_Quantum-Inspired_Analysis_of_Human_Disambiguation_Processes.md)
 
     - [翻译: 量子启发的消歧过程分析](2024年08月14日/A_Quantum-Inspired_Analysis_of_Human_Disambiguation_Processes.md)
@@ -21,14 +17,6 @@
 - [Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach](2024年08月14日/Cross-Platform_Video_Person_ReID_A_New_Benchmark_Dataset_and_Adaptation_Approach.md)
 
     - [翻译: 跨平台视频人物重识别：引入新基准数据集与适应策略](2024年08月14日/Cross-Platform_Video_Person_ReID_A_New_Benchmark_Dataset_and_Adaptation_Approach.md)
-
-- [Exploring Large-Scale Language Models to Evaluate EEG-Based Multimodal Data for Mental Health](2024年08月14日/Exploring_Large-Scale_Language_Models_to_Evaluate_EEG-Based_Multimodal_Data_for_Mental_Health.md)
-
-    - [翻译: 本研究旨在利用大规模语言模型，深入评估基于 EEG 的多模态数据在心理健康领域的应用。](2024年08月14日/Exploring_Large-Scale_Language_Models_to_Evaluate_EEG-Based_Multimodal_Data_for_Mental_Health.md)
-
-- [Exploring Retrieval Augmented Generation in Arabic](2024年08月14日/Exploring_Retrieval_Augmented_Generation_in_Arabic.md)
-
-    - [翻译: 探究阿拉伯语领域中检索增强生成技术的应用](2024年08月14日/Exploring_Retrieval_Augmented_Generation_in_Arabic.md)
 
 - [From Brazilian Portuguese to European Portuguese](2024年08月14日/From_Brazilian_Portuguese_to_European_Portuguese.md)
 
@@ -46,10 +34,6 @@
 
     - [翻译: 利用情景记忆对大型语言模型进行提示](2024年08月14日/Large_Language_Models_Prompting_With_Episodic_Memory.md)
 
-- [LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image](2024年08月14日/LLMI3D_Empowering_LLM_with_3D_Perception_from_a_Single_2D_Image.md)
-
-    - [翻译: LLMI3D：让LLM从一张2D图像中获得3D感知力](2024年08月14日/LLMI3D_Empowering_LLM_with_3D_Perception_from_a_Single_2D_Image.md)
-
 - [LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference](2024年08月14日/LPU_A_Latency-Optimized_and_Highly_Scalable_Processor_for_Large_Language_Model_Inference.md)
 
     - [翻译: LPU：专为大型语言模型推理设计，实现低延迟与高可扩展性的处理器](2024年08月14日/LPU_A_Latency-Optimized_and_Highly_Scalable_Processor_for_Large_Language_Model_Inference.md)
@@ -58,17 +42,9 @@
 
     - [翻译: LLM、MLLM 及其拓展领域中的模型合并：探索其方法、理论、应用及未来机遇](2024年08月14日/Model_Merging_in_LLMs,_MLLMs,_and_Beyond_Methods,_Theories,_Applications_and_Opportunities.md)
 
-- [MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Models for Multimodal Surface Sensing](2024年08月14日/MultiSurf-GPT_Facilitating_Context-Aware_Reasoning_with_Large-Scale_Language_Models_for_Multimodal_Surface_Sensing.md)
-
-    - [翻译: MultiSurf-GPT：利用大规模语言模型，增强多模态表面感知中的上下文感知推理能力](2024年08月14日/MultiSurf-GPT_Facilitating_Context-Aware_Reasoning_with_Large-Scale_Language_Models_for_Multimodal_Surface_Sensing.md)
-
 - [QirK: Question Answering via Intermediate Representation on Knowledge Graphs](2024年08月14日/QirK_Question_Answering_via_Intermediate_Representation_on_Knowledge_Graphs.md)
 
     - [翻译: QirK：借助知识图谱的中间表示实现问答功能](2024年08月14日/QirK_Question_Answering_via_Intermediate_Representation_on_Knowledge_Graphs.md)
-
-- [Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models](2024年08月14日/Spoken_Stereoset_On_Evaluating_Social_Bias_Toward_Speaker_in_Speech_Large_Language_Models.md)
-
-    - [翻译: 《语音刻板印象集》：探讨如何评估语音大型语言模型中的社会偏见](2024年08月14日/Spoken_Stereoset_On_Evaluating_Social_Bias_Toward_Speaker_in_Speech_Large_Language_Models.md)
 
 - [The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
 
@@ -77,10 +53,6 @@
 - [Usefulness of data flow diagrams and large language models for security threat validation: a registered report](2024年08月14日/Usefulness_of_data_flow_diagrams_and_large_language_models_for_security_threat_validation_a_registered_report.md)
 
     - [翻译: 数据流图与大型语言模型在验证安全威胁中的应用：注册报告探析](2024年08月14日/Usefulness_of_data_flow_diagrams_and_large_language_models_for_security_threat_validation_a_registered_report.md)
-
-- [WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs](2024年08月14日/WeKnow-RAG_An_Adaptive_Approach_for_Retrieval-Augmented_Generation_Integrating_Web_Search_and_Knowledge_Graphs.md)
-
-    - [翻译: WeKnow-RAG：融合网络搜索与知识图谱，实现检索增强生成的自适应策略](2024年08月14日/WeKnow-RAG_An_Adaptive_Approach_for_Retrieval-Augmented_Generation_Integrating_Web_Search_and_Knowledge_Graphs.md)
 
 2024年08月05日
 
