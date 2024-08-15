@@ -108,18 +108,6 @@
 
 2024年08月13日
 
-- [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](2024年08月13日/Agent_Q_Advanced_Reasoning_and_Learning_for_Autonomous_AI_Agents.md)
-
-    - [翻译: Agent Q：专为自主AI代理设计的高级推理与学习系统](2024年08月13日/Agent_Q_Advanced_Reasoning_and_Learning_for_Autonomous_AI_Agents.md)
-
-- [Can Large Language Models Reason? A Characterization via 3-SAT](2024年08月13日/Can_Large_Language_Models_Reason_A_Characterization_via_3-SAT.md)
-
-    - [翻译: 大型语言模型是否具备推理能力？本研究通过 3-SAT 方法对其进行特征分析。](2024年08月13日/Can_Large_Language_Models_Reason_A_Characterization_via_3-SAT.md)
-
-- [ELLA: Empowering LLMs for Interpretable, Accurate and Informative Legal Advice](2024年08月13日/ELLA_Empowering_LLMs_for_Interpretable,_Accurate_and_Informative_Legal_Advice.md)
-
-    - [翻译: ELLA 赋能 LLMs，使其能够提供可解释、准确且内容丰富的法律建议。](2024年08月13日/ELLA_Empowering_LLMs_for_Interpretable,_Accurate_and_Informative_Legal_Advice.md)
-
 - [GQE: Generalized Query Expansion for Enhanced Text-Video Retrieval](2024年08月13日/GQE_Generalized_Query_Expansion_for_Enhanced_Text-Video_Retrieval.md)
 
     - [翻译: GQE：广义查询扩展，旨在提升文本与视频检索的效能。](2024年08月13日/GQE_Generalized_Query_Expansion_for_Enhanced_Text-Video_Retrieval.md)
@@ -127,10 +115,6 @@
 - [Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models](2024年08月13日/Large_Model_Strategic_Thinking,_Small_Model_Efficiency_Transferring_Theory_of_Mind_in_Large_Language_Models.md)
 
     - [翻译: 大型模型的战略思维与小型模型的效率并存：探讨在大语言模型中心智理论的转移。](2024年08月13日/Large_Model_Strategic_Thinking,_Small_Model_Efficiency_Transferring_Theory_of_Mind_in_Large_Language_Models.md)
-
-- [Neural embedding of beliefs reveals the role of relative dissonance in human decision-making](2024年08月13日/Neural_embedding_of_beliefs_reveals_the_role_of_relative_dissonance_in_human_decision-making.md)
-
-    - [翻译: 信念的神经映射揭示了相对不和谐在人类决策中的关键作用。](2024年08月13日/Neural_embedding_of_beliefs_reveals_the_role_of_relative_dissonance_in_human_decision-making.md)
 
 - [NL2OR: Solve Complex Operations Research Problems Using Natural Language Inputs](2024年08月13日/NL2OR_Solve_Complex_Operations_Research_Problems_Using_Natural_Language_Inputs.md)
 
@@ -143,22 +127,6 @@
 - [SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis](2024年08月13日/SeLoRA_Self-Expanding_Low-Rank_Adaptation_of_Latent_Diffusion_Model_for_Medical_Image_Synthesis.md)
 
     - [翻译: SeLoRA：医学图像合成中，潜在扩散模型的自扩展低秩适应技术](2024年08月13日/SeLoRA_Self-Expanding_Low-Rank_Adaptation_of_Latent_Diffusion_Model_for_Medical_Image_Synthesis.md)
-
-- [Using Advanced LLMs to Enhance Smaller LLMs: An Interpretable Knowledge Distillation Approach](2024年08月13日/Using_Advanced_LLMs_to_Enhance_Smaller_LLMs_An_Interpretable_Knowledge_Distillation_Approach.md)
-
-    - [翻译: 借助高级 LLM 提升小型 LLM 性能：探索可解释的知识蒸馏途径](2024年08月13日/Using_Advanced_LLMs_to_Enhance_Smaller_LLMs_An_Interpretable_Knowledge_Distillation_Approach.md)
-
-2024年08月11日
-
-- [Post-Training Sparse Attention with Double Sparsity](2024年08月11日/Post-Training_Sparse_Attention_with_Double_Sparsity.md)
-
-    - [翻译: 双重稀疏性下的训练后稀疏注意力](2024年08月11日/Post-Training_Sparse_Attention_with_Double_Sparsity.md)
-
-2024年08月09日
-
-- [InfinityMATH: A Scalable Instruction Tuning Dataset in Programmatic Mathematical Reasoning](2024年08月09日/InfinityMATH_A_Scalable_Instruction_Tuning_Dataset_in_Programmatic_Mathematical_Reasoning.md)
-
-    - [翻译: InfinityMATH：一款可扩展的程序化数学推理指令调优数据集](2024年08月09日/InfinityMATH_A_Scalable_Instruction_Tuning_Dataset_in_Programmatic_Mathematical_Reasoning.md)
 
 2024年08月05日
 
