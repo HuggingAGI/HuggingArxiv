@@ -2,30 +2,6 @@
 
 2024年08月14日
 
-- [A Quantum-Inspired Analysis of Human Disambiguation Processes](2024年08月14日/A_Quantum-Inspired_Analysis_of_Human_Disambiguation_Processes.md)
-
-    - [翻译: 量子启发的消歧过程分析](2024年08月14日/A_Quantum-Inspired_Analysis_of_Human_Disambiguation_Processes.md)
-
-- [Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization](2024年08月14日/Bridging_and_Modeling_Correlations_in_Pairwise_Data_for_Direct_Preference_Optimization.md)
-
-    - [翻译: 通过在成对数据中建立关联模型，实现直接偏好优化](2024年08月14日/Bridging_and_Modeling_Correlations_in_Pairwise_Data_for_Direct_Preference_Optimization.md)
-
-- [Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach](2024年08月14日/Cross-Platform_Video_Person_ReID_A_New_Benchmark_Dataset_and_Adaptation_Approach.md)
-
-    - [翻译: 跨平台视频人物重识别：引入新基准数据集与适应策略](2024年08月14日/Cross-Platform_Video_Person_ReID_A_New_Benchmark_Dataset_and_Adaptation_Approach.md)
-
-- [From Brazilian Portuguese to European Portuguese](2024年08月14日/From_Brazilian_Portuguese_to_European_Portuguese.md)
-
-    - [翻译: 从巴西葡语到欧洲葡语](2024年08月14日/From_Brazilian_Portuguese_to_European_Portuguese.md)
-
-- [Large Language Models Know What Makes Exemplary Contexts](2024年08月14日/Large_Language_Models_Know_What_Makes_Exemplary_Contexts.md)
-
-    - [翻译: 大型语言模型深谙何为典范上下文](2024年08月14日/Large_Language_Models_Know_What_Makes_Exemplary_Contexts.md)
-
-- [Large Language Models Prompting With Episodic Memory](2024年08月14日/Large_Language_Models_Prompting_With_Episodic_Memory.md)
-
-    - [翻译: 利用情景记忆对大型语言模型进行提示](2024年08月14日/Large_Language_Models_Prompting_With_Episodic_Memory.md)
-
 - [The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
 
     - [翻译: 理性语言模型时代，文本到SQL转换是否宣告了模式链接的终结？](2024年08月14日/The_Death_of_Schema_Linking_Text-to-SQL_in_the_Age_of_Well-Reasoned_Language_Models.md)
