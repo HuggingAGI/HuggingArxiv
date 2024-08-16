@@ -6,10 +6,6 @@
 
     - [翻译: $statcheck$ 设计上有缺陷，无法作为有效的统计结果拼写检查工具。](2024年08月15日/$statcheck$_is_flawed_by_design_and_no_valid_spell_checker_for_statistical_results.md)
 
-- [Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training](2024年08月15日/Advancing_Multi-grained_Alignment_for_Contrastive_Language-Audio_Pre-training.md)
-
-    - [翻译: 提升对比语言与音频预训练中的多粒度对齐技术](2024年08月15日/Advancing_Multi-grained_Alignment_for_Contrastive_Language-Audio_Pre-training.md)
-
 - [BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts](2024年08月15日/BAM!_Just_Like_That_Simple_and_Efficient_Parameter_Upcycling_for_Mixture_of_Experts.md)
 
     - [翻译: BAM！简单高效：专家混合模型的参数升级新策略](2024年08月15日/BAM!_Just_Like_That_Simple_and_Efficient_Parameter_Upcycling_for_Mixture_of_Experts.md)
@@ -22,17 +18,9 @@
 
     - [翻译: DaRec：大型语言模型与推荐系统解耦对齐的创新框架](2024年08月15日/DaRec_A_Disentangled_Alignment_Framework_for_Large_Language_Model_and_Recommender_System.md)
 
-- [Extracting Sentence Embeddings from Pretrained Transformer Models](2024年08月15日/Extracting_Sentence_Embeddings_from_Pretrained_Transformer_Models.md)
-
-    - [翻译: 提取预训练 Transformer 模型的句子嵌入](2024年08月15日/Extracting_Sentence_Embeddings_from_Pretrained_Transformer_Models.md)
-
 - [HELP: Hierarchical Embeddings-based Log Parsing](2024年08月15日/HELP_Hierarchical_Embeddings-based_Log_Parsing.md)
 
     - [翻译: HELP：一种基于层次嵌入技术的日志解析方法](2024年08月15日/HELP_Hierarchical_Embeddings-based_Log_Parsing.md)
-
-- [I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm](2024年08月15日/I-SHEEP_Self-Alignment_of_LLM_from_Scratch_through_an_Iterative_Self-Enhancement_Paradigm.md)
-
-    - [翻译: I-SHEEP：借助迭代自我增强范式，从零开始逐步实现 LLM 的自我对齐](2024年08月15日/I-SHEEP_Self-Alignment_of_LLM_from_Scratch_through_an_Iterative_Self-Enhancement_Paradigm.md)
 
 - [KGV: Integrating Large Language Models with Knowledge Graphs for Cyber Threat Intelligence Credibility Assessment](2024年08月15日/KGV_Integrating_Large_Language_Models_with_Knowledge_Graphs_for_Cyber_Threat_Intelligence_Credibility_Assessment.md)
 
@@ -41,10 +29,6 @@
 - [Leveraging Web-Crawled Data for High-Quality Fine-Tuning](2024年08月15日/Leveraging_Web-Crawled_Data_for_High-Quality_Fine-Tuning.md)
 
     - [翻译: 借助网络爬取数据，实现高质量微调](2024年08月15日/Leveraging_Web-Crawled_Data_for_High-Quality_Fine-Tuning.md)
-
-- [LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning](2024年08月15日/LLaVA-Surg_Towards_Multimodal_Surgical_Assistant_via_Structured_Surgical_Video_Learning.md)
-
-    - [翻译: LLaVA-Surg：借助结构化手术视频学习，打造多模态手术助手](2024年08月15日/LLaVA-Surg_Towards_Multimodal_Surgical_Assistant_via_Structured_Surgical_Video_Learning.md)
 
 - [P/D-Serve: Serving Disaggregated Large Language Model at Scale](2024年08月15日/PD-Serve_Serving_Disaggregated_Large_Language_Model_at_Scale.md)
 
@@ -57,10 +41,6 @@
 - [Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](2024年08月15日/Text2BIM_Generating_Building_Models_Using_a_Large_Language_Model-based_Multi-Agent_Framework.md)
 
     - [翻译: Text2BIM：借助大型语言模型驱动的多智能体框架，实现建筑模型的生成。](2024年08月15日/Text2BIM_Generating_Building_Models_Using_a_Large_Language_Model-based_Multi-Agent_Framework.md)
-
-- [Toward a Dialogue System Using a Large Language Model to Recognize User Emotions with a Camera](2024年08月15日/Toward_a_Dialogue_System_Using_a_Large_Language_Model_to_Recognize_User_Emotions_with_a_Camera.md)
-
-    - [翻译: 借助大型语言模型，通过摄像头识别用户情绪，构建对话系统。](2024年08月15日/Toward_a_Dialogue_System_Using_a_Large_Language_Model_to_Recognize_User_Emotions_with_a_Camera.md)
 
 - [When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding](2024年08月15日/When_Video_Coding_Meets_Multimodal_Large_Language_Models_A_Unified_Paradigm_for_Video_Coding.md)
 
