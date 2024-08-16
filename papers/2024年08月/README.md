@@ -10,14 +10,6 @@
 
     - [翻译: 提升对比语言与音频预训练中的多粒度对齐技术](2024年08月15日/Advancing_Multi-grained_Alignment_for_Contrastive_Language-Audio_Pre-training.md)
 
-- [AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](2024年08月15日/AgentCourt_Simulating_Court_with_Adversarial_Evolvable_Lawyer_Agents.md)
-
-    - [翻译: AgentCourt：模拟法庭，律师代理对抗进化](2024年08月15日/AgentCourt_Simulating_Court_with_Adversarial_Evolvable_Lawyer_Agents.md)
-
-- [ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models](2024年08月15日/ArabLegalEval_A_Multitask_Benchmark_for_Assessing_Arabic_Legal_Knowledge_in_Large_Language_Models.md)
-
-    - [翻译: ArabLegalEval：一项多任务基准，旨在评估大型语言模型对阿拉伯法律知识的掌握程度。](2024年08月15日/ArabLegalEval_A_Multitask_Benchmark_for_Assessing_Arabic_Legal_Knowledge_in_Large_Language_Models.md)
-
 - [Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model](2024年08月15日/Autonomous_Behavior_Planning_For_Humanoid_Loco-manipulation_Through_Grounded_Language_Model.md)
 
     - [翻译: 基于语言模型的人形机器人移动操作自主行为规划](2024年08月15日/Autonomous_Behavior_Planning_For_Humanoid_Loco-manipulation_Through_Grounded_Language_Model.md)
@@ -50,10 +42,6 @@
 
     - [翻译: 探究大规模语言模型中因果关系出现的概率，我们试图解答：推理是否自然涌现？](2024年08月15日/Does_Reasoning_Emerge_Examining_the_Probabilities_of_Causation_in_Large_Language_Models.md)
 
-- [EmBARDiment: an Embodied AI Agent for Productivity in XR](2024年08月15日/EmBARDiment_an_Embodied_AI_Agent_for_Productivity_in_XR.md)
-
-    - [翻译: EmBARDiment：XR 环境下的生产力增强型具身 AI 代理](2024年08月15日/EmBARDiment_an_Embodied_AI_Agent_for_Productivity_in_XR.md)
-
 - [Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words](2024年08月15日/Enhancing_Large_Language_Model-based_Speech_Recognition_by_Contextualization_for_Rare_and_Ambiguous_Words.md)
 
     - [翻译: 通过上下文优化，提升大型语言模型在识别罕见与模糊词汇时的语音识别能力。](2024年08月15日/Enhancing_Large_Language_Model-based_Speech_Recognition_by_Contextualization_for_Rare_and_Ambiguous_Words.md)
@@ -61,10 +49,6 @@
 - [Extracting Sentence Embeddings from Pretrained Transformer Models](2024年08月15日/Extracting_Sentence_Embeddings_from_Pretrained_Transformer_Models.md)
 
     - [翻译: 提取预训练 Transformer 模型的句子嵌入](2024年08月15日/Extracting_Sentence_Embeddings_from_Pretrained_Transformer_Models.md)
-
-- [FuseChat: Knowledge Fusion of Chat Models](2024年08月15日/FuseChat_Knowledge_Fusion_of_Chat_Models.md)
-
-    - [翻译: FuseChat：融合聊天模型中的知识](2024年08月15日/FuseChat_Knowledge_Fusion_of_Chat_Models.md)
 
 - [General-purpose Clothes Manipulation with Semantic Keypoints](2024年08月15日/General-purpose_Clothes_Manipulation_with_Semantic_Keypoints.md)
 
@@ -113,14 +97,6 @@
 - [Polaris: Open-ended Interactive Robotic Manipulation via Syn2Real Visual Grounding and Large Language Models](2024年08月15日/Polaris_Open-ended_Interactive_Robotic_Manipulation_via_Syn2Real_Visual_Grounding_and_Large_Language_Models.md)
 
     - [翻译: Polaris：借助 Syn2Real 视觉定位与大型语言模型，实现开放式交互机器人操作](2024年08月15日/Polaris_Open-ended_Interactive_Robotic_Manipulation_via_Syn2Real_Visual_Grounding_and_Large_Language_Models.md)
-
-- [Predicting Lung Cancer Patient Prognosis with Large Language Models](2024年08月15日/Predicting_Lung_Cancer_Patient_Prognosis_with_Large_Language_Models.md)
-
-    - [翻译: 借助大型语言模型，我们致力于精准预测肺癌患者的预后情况。](2024年08月15日/Predicting_Lung_Cancer_Patient_Prognosis_with_Large_Language_Models.md)
-
-- [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](2024年08月15日/RAGChecker_A_Fine-grained_Framework_for_Diagnosing_Retrieval-Augmented_Generation.md)
-
-    - [翻译: RAGChecker：一个精细的框架，专为诊断增强检索生成而设计](2024年08月15日/RAGChecker_A_Fine-grained_Framework_for_Diagnosing_Retrieval-Augmented_Generation.md)
 
 - [ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws](2024年08月15日/ScalingFilter_Assessing_Data_Quality_through_Inverse_Utilization_of_Scaling_Laws.md)
 
