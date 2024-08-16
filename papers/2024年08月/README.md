@@ -10,37 +10,17 @@
 
     - [翻译: 提升对比语言与音频预训练中的多粒度对齐技术](2024年08月15日/Advancing_Multi-grained_Alignment_for_Contrastive_Language-Audio_Pre-training.md)
 
-- [Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model](2024年08月15日/Autonomous_Behavior_Planning_For_Humanoid_Loco-manipulation_Through_Grounded_Language_Model.md)
-
-    - [翻译: 基于语言模型的人形机器人移动操作自主行为规划](2024年08月15日/Autonomous_Behavior_Planning_For_Humanoid_Loco-manipulation_Through_Grounded_Language_Model.md)
-
 - [BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts](2024年08月15日/BAM!_Just_Like_That_Simple_and_Efficient_Parameter_Upcycling_for_Mixture_of_Experts.md)
 
     - [翻译: BAM！简单高效：专家混合模型的参数升级新策略](2024年08月15日/BAM!_Just_Like_That_Simple_and_Efficient_Parameter_Upcycling_for_Mixture_of_Experts.md)
-
-- [Benchmarking the Capabilities of Large Language Models in Transportation System Engineering: Accuracy, Consistency, and Reasoning Behaviors](2024年08月15日/Benchmarking_the_Capabilities_of_Large_Language_Models_in_Transportation_System_Engineering_Accuracy,_Consistency,_and_Reasoning_Behaviors.md)
-
-    - [翻译: 本研究旨在评估大型语言模型在交通运输系统工程中的表现，重点关注其准确性、一致性和推理能力。](2024年08月15日/Benchmarking_the_Capabilities_of_Large_Language_Models_in_Transportation_System_Engineering_Accuracy,_Consistency,_and_Reasoning_Behaviors.md)
-
-- [Can Large Language Models Understand Symbolic Graphics Programs?](2024年08月15日/Can_Large_Language_Models_Understand_Symbolic_Graphics_Programs.md)
-
-    - [翻译: 大型语言模型是否能解读符号图形程序？](2024年08月15日/Can_Large_Language_Models_Understand_Symbolic_Graphics_Programs.md)
 
 - [Confidence-weighted integration of human and machine judgments for superior decision-making](2024年08月15日/Confidence-weighted_integration_of_human_and_machine_judgments_for_superior_decision-making.md)
 
     - [翻译: 通过置信度加权整合人机判断，提升决策质量](2024年08月15日/Confidence-weighted_integration_of_human_and_machine_judgments_for_superior_decision-making.md)
 
-- [Covert Bias: The Severity of Social Views' Unalignment Towards Implicit and Explicit Opinion](2024年08月15日/Covert_Bias_The_Severity_of_Social_Views'_Unalignment_Towards_Implicit_and_Explicit_Opinion.md)
-
-    - [翻译: 隐蔽偏见：社会观点在隐性与显性意见间的不一致之严重性](2024年08月15日/Covert_Bias_The_Severity_of_Social_Views'_Unalignment_Towards_Implicit_and_Explicit_Opinion.md)
-
 - [DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System](2024年08月15日/DaRec_A_Disentangled_Alignment_Framework_for_Large_Language_Model_and_Recommender_System.md)
 
     - [翻译: DaRec：大型语言模型与推荐系统解耦对齐的创新框架](2024年08月15日/DaRec_A_Disentangled_Alignment_Framework_for_Large_Language_Model_and_Recommender_System.md)
-
-- [Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models](2024年08月15日/Does_Reasoning_Emerge_Examining_the_Probabilities_of_Causation_in_Large_Language_Models.md)
-
-    - [翻译: 探究大规模语言模型中因果关系出现的概率，我们试图解答：推理是否自然涌现？](2024年08月15日/Does_Reasoning_Emerge_Examining_the_Probabilities_of_Causation_in_Large_Language_Models.md)
 
 - [Extracting Sentence Embeddings from Pretrained Transformer Models](2024年08月15日/Extracting_Sentence_Embeddings_from_Pretrained_Transformer_Models.md)
 
@@ -74,17 +54,9 @@
 
     - [翻译: Polaris：借助 Syn2Real 视觉定位与大型语言模型，实现开放式交互机器人操作](2024年08月15日/Polaris_Open-ended_Interactive_Robotic_Manipulation_via_Syn2Real_Visual_Grounding_and_Large_Language_Models.md)
 
-- [ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws](2024年08月15日/ScalingFilter_Assessing_Data_Quality_through_Inverse_Utilization_of_Scaling_Laws.md)
-
-    - [翻译: ScalingFilter：借助逆向缩放定律，精准评估数据质量](2024年08月15日/ScalingFilter_Assessing_Data_Quality_through_Inverse_Utilization_of_Scaling_Laws.md)
-
 - [Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](2024年08月15日/Text2BIM_Generating_Building_Models_Using_a_Large_Language_Model-based_Multi-Agent_Framework.md)
 
     - [翻译: Text2BIM：借助大型语言模型驱动的多智能体框架，实现建筑模型的生成。](2024年08月15日/Text2BIM_Generating_Building_Models_Using_a_Large_Language_Model-based_Multi-Agent_Framework.md)
-
-- [The ShareLM Collection and Plugin: Contributing Human-Model Chats for the Benefit of the Community](2024年08月15日/The_ShareLM_Collection_and_Plugin_Contributing_Human-Model_Chats_for_the_Benefit_of_the_Community.md)
-
-    - [翻译: ShareLM 集合与插件：助力社区，共享人机对话](2024年08月15日/The_ShareLM_Collection_and_Plugin_Contributing_Human-Model_Chats_for_the_Benefit_of_the_Community.md)
 
 - [Toward a Dialogue System Using a Large Language Model to Recognize User Emotions with a Camera](2024年08月15日/Toward_a_Dialogue_System_Using_a_Large_Language_Model_to_Recognize_User_Emotions_with_a_Camera.md)
 
