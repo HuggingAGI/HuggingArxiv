@@ -1,5 +1,5 @@
 # BioRAG：专为生物学问题推理设计的 RAG-LLM 框架
-发布时间：2024年08月02日
+发布时间：2024年08月14日
 
 `RAG`
 > BioRAG: A RAG-LLM Framework for Biological Question Reasoning
