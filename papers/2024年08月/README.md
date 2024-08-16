@@ -1,23 +1,5 @@
 # 2024年08月
 
-2024年08月15日
-
-- [DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System](2024年08月15日/DaRec_A_Disentangled_Alignment_Framework_for_Large_Language_Model_and_Recommender_System.md)
-
-    - [翻译: DaRec：大型语言模型与推荐系统解耦对齐的创新框架](2024年08月15日/DaRec_A_Disentangled_Alignment_Framework_for_Large_Language_Model_and_Recommender_System.md)
-
-- [HELP: Hierarchical Embeddings-based Log Parsing](2024年08月15日/HELP_Hierarchical_Embeddings-based_Log_Parsing.md)
-
-    - [翻译: HELP：一种基于层次嵌入技术的日志解析方法](2024年08月15日/HELP_Hierarchical_Embeddings-based_Log_Parsing.md)
-
-- [KGV: Integrating Large Language Models with Knowledge Graphs for Cyber Threat Intelligence Credibility Assessment](2024年08月15日/KGV_Integrating_Large_Language_Models_with_Knowledge_Graphs_for_Cyber_Threat_Intelligence_Credibility_Assessment.md)
-
-    - [翻译: KGV 结合 LLM 与知识图谱，提升网络威胁情报的可信度评估。](2024年08月15日/KGV_Integrating_Large_Language_Models_with_Knowledge_Graphs_for_Cyber_Threat_Intelligence_Credibility_Assessment.md)
-
-- [P/D-Serve: Serving Disaggregated Large Language Model at Scale](2024年08月15日/PD-Serve_Serving_Disaggregated_Large_Language_Model_at_Scale.md)
-
-    - [翻译: P/D-Serve：高效服务大规模分解式大型语言模型](2024年08月15日/PD-Serve_Serving_Disaggregated_Large_Language_Model_at_Scale.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
