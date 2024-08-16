@@ -2,18 +2,6 @@
 
 2024年08月15日
 
-- [$statcheck$ is flawed by design and no valid spell checker for statistical results](2024年08月15日/$statcheck$_is_flawed_by_design_and_no_valid_spell_checker_for_statistical_results.md)
-
-    - [翻译: $statcheck$ 设计上有缺陷，无法作为有效的统计结果拼写检查工具。](2024年08月15日/$statcheck$_is_flawed_by_design_and_no_valid_spell_checker_for_statistical_results.md)
-
-- [BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts](2024年08月15日/BAM!_Just_Like_That_Simple_and_Efficient_Parameter_Upcycling_for_Mixture_of_Experts.md)
-
-    - [翻译: BAM！简单高效：专家混合模型的参数升级新策略](2024年08月15日/BAM!_Just_Like_That_Simple_and_Efficient_Parameter_Upcycling_for_Mixture_of_Experts.md)
-
-- [Confidence-weighted integration of human and machine judgments for superior decision-making](2024年08月15日/Confidence-weighted_integration_of_human_and_machine_judgments_for_superior_decision-making.md)
-
-    - [翻译: 通过置信度加权整合人机判断，提升决策质量](2024年08月15日/Confidence-weighted_integration_of_human_and_machine_judgments_for_superior_decision-making.md)
-
 - [DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System](2024年08月15日/DaRec_A_Disentangled_Alignment_Framework_for_Large_Language_Model_and_Recommender_System.md)
 
     - [翻译: DaRec：大型语言模型与推荐系统解耦对齐的创新框架](2024年08月15日/DaRec_A_Disentangled_Alignment_Framework_for_Large_Language_Model_and_Recommender_System.md)
@@ -26,25 +14,9 @@
 
     - [翻译: KGV 结合 LLM 与知识图谱，提升网络威胁情报的可信度评估。](2024年08月15日/KGV_Integrating_Large_Language_Models_with_Knowledge_Graphs_for_Cyber_Threat_Intelligence_Credibility_Assessment.md)
 
-- [Leveraging Web-Crawled Data for High-Quality Fine-Tuning](2024年08月15日/Leveraging_Web-Crawled_Data_for_High-Quality_Fine-Tuning.md)
-
-    - [翻译: 借助网络爬取数据，实现高质量微调](2024年08月15日/Leveraging_Web-Crawled_Data_for_High-Quality_Fine-Tuning.md)
-
 - [P/D-Serve: Serving Disaggregated Large Language Model at Scale](2024年08月15日/PD-Serve_Serving_Disaggregated_Large_Language_Model_at_Scale.md)
 
     - [翻译: P/D-Serve：高效服务大规模分解式大型语言模型](2024年08月15日/PD-Serve_Serving_Disaggregated_Large_Language_Model_at_Scale.md)
-
-- [Polaris: Open-ended Interactive Robotic Manipulation via Syn2Real Visual Grounding and Large Language Models](2024年08月15日/Polaris_Open-ended_Interactive_Robotic_Manipulation_via_Syn2Real_Visual_Grounding_and_Large_Language_Models.md)
-
-    - [翻译: Polaris：借助 Syn2Real 视觉定位与大型语言模型，实现开放式交互机器人操作](2024年08月15日/Polaris_Open-ended_Interactive_Robotic_Manipulation_via_Syn2Real_Visual_Grounding_and_Large_Language_Models.md)
-
-- [Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](2024年08月15日/Text2BIM_Generating_Building_Models_Using_a_Large_Language_Model-based_Multi-Agent_Framework.md)
-
-    - [翻译: Text2BIM：借助大型语言模型驱动的多智能体框架，实现建筑模型的生成。](2024年08月15日/Text2BIM_Generating_Building_Models_Using_a_Large_Language_Model-based_Multi-Agent_Framework.md)
-
-- [When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding](2024年08月15日/When_Video_Coding_Meets_Multimodal_Large_Language_Models_A_Unified_Paradigm_for_Video_Coding.md)
-
-    - [翻译: 视频编码与多模态大型语言模型的邂逅：开创统一视频编码新范式](2024年08月15日/When_Video_Coding_Meets_Multimodal_Large_Language_Models_A_Unified_Paradigm_for_Video_Coding.md)
 
 2024年08月05日
 
