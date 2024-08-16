@@ -152,25 +152,9 @@
 
     - [翻译: Cropper：一种利用上下文学习技术进行图像裁剪的视觉-语言模型](2024年08月14日/Cropper_Vision-Language_Model_for_Image_Cropping_through_In-Context_Learning.md)
 
-- [DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions](2024年08月14日/DM2RM_Dual-Mode_Multimodal_Ranking_for_Target_Objects_and_Receptacles_Based_on_Open-Vocabulary_Instructions.md)
-
-    - [翻译: DM2RM：一种双模式多模态排序方法，针对开放词汇指令下的目标对象与接收器进行优化。](2024年08月14日/DM2RM_Dual-Mode_Multimodal_Ranking_for_Target_Objects_and_Receptacles_Based_on_Open-Vocabulary_Instructions.md)
-
-- [From Decision to Action in Surgical Autonomy: Multi-Modal Large Language Models for Robot-Assisted Blood Suction](2024年08月14日/From_Decision_to_Action_in_Surgical_Autonomy_Multi-Modal_Large_Language_Models_for_Robot-Assisted_Blood_Suction.md)
-
-    - [翻译: 手术自主性：多模态大型语言模型助力机器人辅助抽血](2024年08月14日/From_Decision_to_Action_in_Surgical_Autonomy_Multi-Modal_Large_Language_Models_for_Robot-Assisted_Blood_Suction.md)
-
 - [Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference](2024年08月14日/Kraken_Inherently_Parallel_Transformers_For_Efficient_Multi-Device_Inference.md)
 
     - [翻译: Kraken：专为高效多设备推理设计的固有并行变换器](2024年08月14日/Kraken_Inherently_Parallel_Transformers_For_Efficient_Multi-Device_Inference.md)
-
-- [MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis](2024年08月14日/MedTsLLM_Leveraging_LLMs_for_Multimodal_Medical_Time_Series_Analysis.md)
-
-    - [翻译: MedTsLLM：借助 LLM 之力，探索多模态医学时间序列的奥秘](2024年08月14日/MedTsLLM_Leveraging_LLMs_for_Multimodal_Medical_Time_Series_Analysis.md)
-
-- [ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model](2024年08月14日/ONSEP_A_Novel_Online_Neural-Symbolic_Framework_for_Event_Prediction_Based_on_Large_Language_Model.md)
-
-    - [翻译: ONSEP：一款基于大型语言模型的新颖在线神经-符号框架，专为事件预测设计](2024年08月14日/ONSEP_A_Novel_Online_Neural-Symbolic_Framework_for_Event_Prediction_Based_on_Large_Language_Model.md)
 
 - [Re-Thinking Process Mining in the AI-Based Agents Era](2024年08月14日/Re-Thinking_Process_Mining_in_the_AI-Based_Agents_Era.md)
 
@@ -183,10 +167,6 @@
 - [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](2024年08月14日/Training_Language_Models_on_the_Knowledge_Graph_Insights_on_Hallucinations_and_Their_Detectability.md)
 
     - [翻译: 知识图谱上训练语言模型：探索幻觉现象及其检测方法](2024年08月14日/Training_Language_Models_on_the_Knowledge_Graph_Insights_on_Hallucinations_and_Their_Detectability.md)
-
-- [Words Matter: Reducing Stigma in Online Conversations about Substance Use with Large Language Models](2024年08月14日/Words_Matter_Reducing_Stigma_in_Online_Conversations_about_Substance_Use_with_Large_Language_Models.md)
-
-    - [翻译: 言辞之力：借助大型语言模型，减轻网络讨论中关于物质使用的污名效应](2024年08月14日/Words_Matter_Reducing_Stigma_in_Online_Conversations_about_Substance_Use_with_Large_Language_Models.md)
 
 2024年08月05日
 
