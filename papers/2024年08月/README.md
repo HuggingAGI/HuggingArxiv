@@ -42,17 +42,9 @@
 
     - [翻译: 探究大规模语言模型中因果关系出现的概率，我们试图解答：推理是否自然涌现？](2024年08月15日/Does_Reasoning_Emerge_Examining_the_Probabilities_of_Causation_in_Large_Language_Models.md)
 
-- [Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words](2024年08月15日/Enhancing_Large_Language_Model-based_Speech_Recognition_by_Contextualization_for_Rare_and_Ambiguous_Words.md)
-
-    - [翻译: 通过上下文优化，提升大型语言模型在识别罕见与模糊词汇时的语音识别能力。](2024年08月15日/Enhancing_Large_Language_Model-based_Speech_Recognition_by_Contextualization_for_Rare_and_Ambiguous_Words.md)
-
 - [Extracting Sentence Embeddings from Pretrained Transformer Models](2024年08月15日/Extracting_Sentence_Embeddings_from_Pretrained_Transformer_Models.md)
 
     - [翻译: 提取预训练 Transformer 模型的句子嵌入](2024年08月15日/Extracting_Sentence_Embeddings_from_Pretrained_Transformer_Models.md)
-
-- [General-purpose Clothes Manipulation with Semantic Keypoints](2024年08月15日/General-purpose_Clothes_Manipulation_with_Semantic_Keypoints.md)
-
-    - [翻译: 基于语义关键点的通用衣物操控技术](2024年08月15日/General-purpose_Clothes_Manipulation_with_Semantic_Keypoints.md)
 
 - [HELP: Hierarchical Embeddings-based Log Parsing](2024年08月15日/HELP_Hierarchical_Embeddings-based_Log_Parsing.md)
 
@@ -66,10 +58,6 @@
 
     - [翻译: KGV 结合 LLM 与知识图谱，提升网络威胁情报的可信度评估。](2024年08月15日/KGV_Integrating_Large_Language_Models_with_Knowledge_Graphs_for_Cyber_Threat_Intelligence_Credibility_Assessment.md)
 
-- [KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning](2024年08月15日/KOALA_Enhancing_Speculative_Decoding_for_LLM_via_Multi-Layer_Draft_Heads_with_Adversarial_Learning.md)
-
-    - [翻译: KOALA 技术通过结合多层草稿头和对抗学习，提升了 LLM 推测解码的性能。](2024年08月15日/KOALA_Enhancing_Speculative_Decoding_for_LLM_via_Multi-Layer_Draft_Heads_with_Adversarial_Learning.md)
-
 - [Leveraging Web-Crawled Data for High-Quality Fine-Tuning](2024年08月15日/Leveraging_Web-Crawled_Data_for_High-Quality_Fine-Tuning.md)
 
     - [翻译: 借助网络爬取数据，实现高质量微调](2024年08月15日/Leveraging_Web-Crawled_Data_for_High-Quality_Fine-Tuning.md)
@@ -77,18 +65,6 @@
 - [LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning](2024年08月15日/LLaVA-Surg_Towards_Multimodal_Surgical_Assistant_via_Structured_Surgical_Video_Learning.md)
 
     - [翻译: LLaVA-Surg：借助结构化手术视频学习，打造多模态手术助手](2024年08月15日/LLaVA-Surg_Towards_Multimodal_Surgical_Assistant_via_Structured_Surgical_Video_Learning.md)
-
-- [LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation](2024年08月15日/LLM4DSR_Leveraing_Large_Language_Model_for_Denoising_Sequential_Recommendation.md)
-
-    - [翻译: LLM4DSR：借助大型语言模型优化序列推荐的去噪过程](2024年08月15日/LLM4DSR_Leveraing_Large_Language_Model_for_Denoising_Sequential_Recommendation.md)
-
-- [MIDAS: Multi-level Intent, Domain, And Slot Knowledge Distillation for Multi-turn NLU](2024年08月15日/MIDAS_Multi-level_Intent,_Domain,_And_Slot_Knowledge_Distillation_for_Multi-turn_NLU.md)
-
-    - [翻译: MIDAS：多轮自然语言理解中的多级意图、领域与槽知识蒸馏](2024年08月15日/MIDAS_Multi-level_Intent,_Domain,_And_Slot_Knowledge_Distillation_for_Multi-turn_NLU.md)
-
-- [Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images](2024年08月15日/Multimodal_Causal_Reasoning_Benchmark_Challenging_Vision_Large_Language_Models_to_Infer_Causal_Links_Between_Siamese_Images.md)
-
-    - [翻译: 多模态因果推理基准：挑战大型视觉语言模型，推断暹罗图像间的因果联系](2024年08月15日/Multimodal_Causal_Reasoning_Benchmark_Challenging_Vision_Large_Language_Models_to_Infer_Causal_Links_Between_Siamese_Images.md)
 
 - [P/D-Serve: Serving Disaggregated Large Language Model at Scale](2024年08月15日/PD-Serve_Serving_Disaggregated_Large_Language_Model_at_Scale.md)
 
