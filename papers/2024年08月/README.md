@@ -142,32 +142,6 @@
 
     - [翻译: 视频编码与多模态大型语言模型的邂逅：开创统一视频编码新范式](2024年08月15日/When_Video_Coding_Meets_Multimodal_Large_Language_Models_A_Unified_Paradigm_for_Video_Coding.md)
 
-2024年08月14日
-
-- [Assessing Language Models' Worldview for Fiction Generation](2024年08月14日/Assessing_Language_Models'_Worldview_for_Fiction_Generation.md)
-
-    - [翻译: 探究语言模型在虚构世界生成中的世界观评估](2024年08月14日/Assessing_Language_Models'_Worldview_for_Fiction_Generation.md)
-
-- [Cropper: Vision-Language Model for Image Cropping through In-Context Learning](2024年08月14日/Cropper_Vision-Language_Model_for_Image_Cropping_through_In-Context_Learning.md)
-
-    - [翻译: Cropper：一种利用上下文学习技术进行图像裁剪的视觉-语言模型](2024年08月14日/Cropper_Vision-Language_Model_for_Image_Cropping_through_In-Context_Learning.md)
-
-- [Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference](2024年08月14日/Kraken_Inherently_Parallel_Transformers_For_Efficient_Multi-Device_Inference.md)
-
-    - [翻译: Kraken：专为高效多设备推理设计的固有并行变换器](2024年08月14日/Kraken_Inherently_Parallel_Transformers_For_Efficient_Multi-Device_Inference.md)
-
-- [Re-Thinking Process Mining in the AI-Based Agents Era](2024年08月14日/Re-Thinking_Process_Mining_in_the_AI-Based_Agents_Era.md)
-
-    - [翻译: 在 AI 代理时代，我们需重新审视过程挖掘的实践与应用。](2024年08月14日/Re-Thinking_Process_Mining_in_the_AI-Based_Agents_Era.md)
-
-- [SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition](2024年08月14日/SER_Evals_In-domain_and_Out-of-domain_Benchmarking_for_Speech_Emotion_Recognition.md)
-
-    - [翻译: 语音情感识别（SER）评估：涵盖域内与域外的基准测试](2024年08月14日/SER_Evals_In-domain_and_Out-of-domain_Benchmarking_for_Speech_Emotion_Recognition.md)
-
-- [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](2024年08月14日/Training_Language_Models_on_the_Knowledge_Graph_Insights_on_Hallucinations_and_Their_Detectability.md)
-
-    - [翻译: 知识图谱上训练语言模型：探索幻觉现象及其检测方法](2024年08月14日/Training_Language_Models_on_the_Knowledge_Graph_Insights_on_Hallucinations_and_Their_Detectability.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
