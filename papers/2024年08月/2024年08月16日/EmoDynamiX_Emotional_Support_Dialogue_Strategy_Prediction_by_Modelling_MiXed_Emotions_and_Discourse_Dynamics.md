@@ -12,4 +12,20 @@
 
 > Designing emotionally intelligent conversational systems to provide comfort and advice to people experiencing distress is a compelling area of research. Previous efforts have focused on developing modular dialogue systems that treat socio-emotional strategy prediction as an auxiliary task and generate strategy-conditioned responses with customized decoders. Recently, with advancements in large language models (LLMs), end-to-end dialogue agents without explicit socio-emotional strategy prediction steps have become prevalent. However, despite their excellence in language generation, recent studies show that LLMs' inherent preference bias towards certain socio-emotional strategies hinders the delivery of high-quality emotional support. To address this challenge, we propose decoupling strategy prediction from language generation, and introduce a novel dialogue strategy predictor, EmoDynamiX, which models the discourse dynamics between user emotions and system strategies using a heterogeneous graph. Additionally, we make use of the Emotion Recognition in Conversations (ERC) task and design a flexible mixed-emotion module to capture fine-grained emotional states of the user. Experimental results on two ESC datasets show EmoDynamiX outperforms previous state-of-the-art methods with a significant margin.
 
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x1.png)
+
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x2.png)
+
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x3.png)
+
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x4.png)
+
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x5.png)
+
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x6.png)
+
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x7.png)
+
+![EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](../../../paper_images/2408.08782/x8.png)
+
 [Arxiv](https://arxiv.org/abs/2408.08782)
