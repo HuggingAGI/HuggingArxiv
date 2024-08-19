@@ -1,5 +1,63 @@
 # 2024年08月
 
+2024年08月16日
+
+- [An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation](2024年08月16日/An_End-to-End_Model_for_Photo-Sharing_Multi-modal_Dialogue_Generation.md)
+
+    - [翻译: 照片分享多模态对话生成的端到端解决方案](2024年08月16日/An_End-to-End_Model_for_Photo-Sharing_Multi-modal_Dialogue_Generation.md)
+
+- [A Survey on Benchmarks of Multimodal Large Language Models](2024年08月16日/A_Survey_on_Benchmarks_of_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型基准调查](2024年08月16日/A_Survey_on_Benchmarks_of_Multimodal_Large_Language_Models.md)
+
+- [Beyond the Hype: A dispassionate look at vision-language models in medical scenario](2024年08月16日/Beyond_the_Hype_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
+
+    - [翻译: 冷静看待医疗场景中的视觉-语言模型，超越炒作的表象。](2024年08月16日/Beyond_the_Hype_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
+
+- [ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
+
+    - [翻译: ECG-Chat：一款专为心脏疾病诊断设计的大型 ECG 语言模型](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
+
+- [EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics](2024年08月16日/EmoDynamiX_Emotional_Support_Dialogue_Strategy_Prediction_by_Modelling_MiXed_Emotions_and_Discourse_Dynamics.md)
+
+    - [翻译: EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](2024年08月16日/EmoDynamiX_Emotional_Support_Dialogue_Strategy_Prediction_by_Modelling_MiXed_Emotions_and_Discourse_Dynamics.md)
+
+- [Fine-tuning LLMs for Autonomous Spacecraft Control: A Case Study Using Kerbal Space Program](2024年08月16日/Fine-tuning_LLMs_for_Autonomous_Spacecraft_Control_A_Case_Study_Using_Kerbal_Space_Program.md)
+
+    - [翻译: LLM 微调在自主航天器控制中的应用：基于 Kerbal Space Program 的实证研究](2024年08月16日/Fine-tuning_LLMs_for_Autonomous_Spacecraft_Control_A_Case_Study_Using_Kerbal_Space_Program.md)
+
+- [HSDreport: Heart Sound Diagnosis with Echocardiography Reports](2024年08月16日/HSDreport_Heart_Sound_Diagnosis_with_Echocardiography_Reports.md)
+
+    - [翻译: HSDreport：结合超声心动图报告的心音诊断工具](2024年08月16日/HSDreport_Heart_Sound_Diagnosis_with_Echocardiography_Reports.md)
+
+- [Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning](2024年08月16日/Math-PUMA_Progressive_Upward_Multimodal_Alignment_to_Enhance_Mathematical_Reasoning.md)
+
+    - [翻译: Math-PUMA：通过逐步向上多模态对齐，提升数学推理能力](2024年08月16日/Math-PUMA_Progressive_Upward_Multimodal_Alignment_to_Enhance_Mathematical_Reasoning.md)
+
+- [Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm](2024年08月16日/Med-PMC_Medical_Personalized_Multi-modal_Consultation_with_a_Proactive_Ask-First-Observe-Next_Paradigm.md)
+
+    - [翻译: Med-PMC：一种采用先问后观策略的医学个性化多模态咨询系统](2024年08月16日/Med-PMC_Medical_Personalized_Multi-modal_Consultation_with_a_Proactive_Ask-First-Observe-Next_Paradigm.md)
+
+- [Rethinking Generative Semantic Communication for Multi-User Systems with Multi-Modal LLM](2024年08月16日/Rethinking_Generative_Semantic_Communication_for_Multi-User_Systems_with_Multi-Modal_LLM.md)
+
+    - [翻译: 探索多用户系统中多模态LLM的生成语义通信新视角](2024年08月16日/Rethinking_Generative_Semantic_Communication_for_Multi-User_Systems_with_Multi-Modal_LLM.md)
+
+- [RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba](2024年08月16日/RGBT_Tracking_via_All-layer_Multimodal_Interactions_with_Progressive_Fusion_Mamba.md)
+
+    - [翻译: 采用渐进融合曼巴策略，通过全层多模态交互实现RGBT跟踪](2024年08月16日/RGBT_Tracking_via_All-layer_Multimodal_Interactions_with_Progressive_Fusion_Mamba.md)
+
+- [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
+
+    - [翻译: LLM 的联盟：多代理工作流程助力合成偏好优化数据集的生成](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
+
+- [Visual Agents as Fast and Slow Thinkers](2024年08月16日/Visual_Agents_as_Fast_and_Slow_Thinkers.md)
+
+    - [翻译: 视觉代理：快速与慢速思考的双重角色](2024年08月16日/Visual_Agents_as_Fast_and_Slow_Thinkers.md)
+
+- [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](2024年08月16日/xGen-MM_(BLIP-3)_A_Family_of_Open_Large_Multimodal_Models.md)
+
+    - [翻译: xGen-MM (BLIP-3)：开放式大型多模态模型系列](2024年08月16日/xGen-MM_(BLIP-3)_A_Family_of_Open_Large_Multimodal_Models.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
