@@ -12,4 +12,12 @@
 
 > The application of the Multi-modal Large Language Models (MLLMs) in medical clinical scenarios remains underexplored. Previous benchmarks only focus on the capacity of the MLLMs in medical visual question-answering (VQA) or report generation and fail to assess the performance of the MLLMs on complex clinical multi-modal tasks. In this paper, we propose a novel Medical Personalized Multi-modal Consultation (Med-PMC) paradigm to evaluate the clinical capacity of the MLLMs. Med-PMC builds a simulated clinical environment where the MLLMs are required to interact with a patient simulator to complete the multi-modal information-gathering and decision-making task. Specifically, the patient simulator is decorated with personalized actors to simulate diverse patients in real scenarios. We conduct extensive experiments to access 12 types of MLLMs, providing a comprehensive view of the MLLMs' clinical performance. We found that current MLLMs fail to gather multimodal information and show potential bias in the decision-making task when consulted with the personalized patient simulators. Further analysis demonstrates the effectiveness of Med-PMC, showing the potential to guide the development of robust and reliable clinical MLLMs. Code and data are available at https://github.com/LiuHC0428/Med-PMC.
 
+![Med-PMC：一种采用先问后观策略的医学个性化多模态咨询系统](../../../paper_images/2408.08693/x1.png)
+
+![Med-PMC：一种采用先问后观策略的医学个性化多模态咨询系统](../../../paper_images/2408.08693/x2.png)
+
+![Med-PMC：一种采用先问后观策略的医学个性化多模态咨询系统](../../../paper_images/2408.08693/x3.png)
+
+![Med-PMC：一种采用先问后观策略的医学个性化多模态咨询系统](../../../paper_images/2408.08693/x4.png)
+
 [Arxiv](https://arxiv.org/abs/2408.08693)
