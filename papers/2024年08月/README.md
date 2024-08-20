@@ -488,17 +488,9 @@
 
     - [翻译: 利用 Segment Anything Model 在非正视图像中精准提取多边形足迹](2024年08月16日/Extracting_polygonal_footprints_in_off-nadir_images_with_Segment_Anything_Model.md)
 
-- [Fine-tuning LLMs for Autonomous Spacecraft Control: A Case Study Using Kerbal Space Program](2024年08月16日/Fine-tuning_LLMs_for_Autonomous_Spacecraft_Control_A_Case_Study_Using_Kerbal_Space_Program.md)
-
-    - [翻译: LLM 微调在自主航天器控制中的应用：基于 Kerbal Space Program 的实证研究](2024年08月16日/Fine-tuning_LLMs_for_Autonomous_Spacecraft_Control_A_Case_Study_Using_Kerbal_Space_Program.md)
-
 - [FLEXTAF: Enhancing Table Reasoning with Flexible Tabular Formats](2024年08月16日/FLEXTAF_Enhancing_Table_Reasoning_with_Flexible_Tabular_Formats.md)
 
     - [翻译: FLEXTAF 利用灵活的表格格式，提升表格推理能力。](2024年08月16日/FLEXTAF_Enhancing_Table_Reasoning_with_Flexible_Tabular_Formats.md)
-
-- [HSDreport: Heart Sound Diagnosis with Echocardiography Reports](2024年08月16日/HSDreport_Heart_Sound_Diagnosis_with_Echocardiography_Reports.md)
-
-    - [翻译: HSDreport：结合超声心动图报告的心音诊断工具](2024年08月16日/HSDreport_Heart_Sound_Diagnosis_with_Echocardiography_Reports.md)
 
 - [Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
 
@@ -607,28 +599,6 @@
 - [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](2024年08月16日/xGen-MM_(BLIP-3)_A_Family_of_Open_Large_Multimodal_Models.md)
 
     - [翻译: xGen-MM (BLIP-3)：开放式大型多模态模型系列](2024年08月16日/xGen-MM_(BLIP-3)_A_Family_of_Open_Large_Multimodal_Models.md)
-
-2024年08月15日
-
-- [Assessing and Enhancing Large Language Models in Rare Disease Question-answering](2024年08月15日/Assessing_and_Enhancing_Large_Language_Models_in_Rare_Disease_Question-answering.md)
-
-    - [翻译: 提升大型语言模型在罕见疾病问答领域的效能评估与强化](2024年08月15日/Assessing_and_Enhancing_Large_Language_Models_in_Rare_Disease_Question-answering.md)
-
-- [CRQBench: A Benchmark of Code Reasoning Questions](2024年08月15日/CRQBench_A_Benchmark_of_Code_Reasoning_Questions.md)
-
-    - [翻译: CRQBench：代码推理问题的新基准](2024年08月15日/CRQBench_A_Benchmark_of_Code_Reasoning_Questions.md)
-
-- [Retail-GPT: leveraging Retrieval Augmented Generation (RAG) for building E-commerce Chat Assistants](2024年08月15日/Retail-GPT_leveraging_Retrieval_Augmented_Generation_(RAG)_for_building_E-commerce_Chat_Assistants.md)
-
-    - [翻译: Retail-GPT：借助 RAG 技术打造电商智能聊天助手](2024年08月15日/Retail-GPT_leveraging_Retrieval_Augmented_Generation_(RAG)_for_building_E-commerce_Chat_Assistants.md)
-
-- [\textit{MMJ-Bench}: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models](2024年08月15日/\textit{MMJ-Bench}_A_Comprehensive_Study_on_Jailbreak_Attacks_and_Defenses_for_Vision_Language_Models.md)
-
-    - [翻译: MMJ-Bench：深入探讨视觉语言模型中的越狱攻击与防御策略](2024年08月15日/\textit{MMJ-Bench}_A_Comprehensive_Study_on_Jailbreak_Attacks_and_Defenses_for_Vision_Language_Models.md)
-
-- [W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering](2024年08月15日/W-RAG_Weakly_Supervised_Dense_Retrieval_in_RAG_for_Open-domain_Question_Answering.md)
-
-    - [翻译: W-RAG：开放域问答中的弱监督密集检索技术](2024年08月15日/W-RAG_Weakly_Supervised_Dense_Retrieval_in_RAG_for_Open-domain_Question_Answering.md)
 
 2024年08月05日
 
