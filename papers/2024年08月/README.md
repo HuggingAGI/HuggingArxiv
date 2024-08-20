@@ -2,13 +2,53 @@
 
 2024年08月19日
 
+- [Active Learning for Identifying Disaster-Related Tweets: A Comparison with Keyword Filtering and Generic Fine-Tuning](2024年08月19日/Active_Learning_for_Identifying_Disaster-Related_Tweets_A_Comparison_with_Keyword_Filtering_and_Generic_Fine-Tuning.md)
+
+    - [翻译: 主动学习在识别灾难相关推文方面，与关键词过滤和通用微调进行了比较。](2024年08月19日/Active_Learning_for_Identifying_Disaster-Related_Tweets_A_Comparison_with_Keyword_Filtering_and_Generic_Fine-Tuning.md)
+
+- [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](2024年08月19日/Anim-Director_A_Large_Multimodal_Model_Powered_Agent_for_Controllable_Animation_Video_Generation.md)
+
+    - [翻译: Anim-Director：一款由大型多模态模型赋能的代理，专为可控动画视频创作而生。](2024年08月19日/Anim-Director_A_Large_Multimodal_Model_Powered_Agent_for_Controllable_Animation_Video_Generation.md)
+
 - [Application of Large Language Models in Automated Question Generation: A Case Study on ChatGLM's Structured Questions for National Teacher Certification Exams](2024年08月19日/Application_of_Large_Language_Models_in_Automated_Question_Generation_A_Case_Study_on_ChatGLM's_Structured_Questions_for_National_Teacher_Certification_Exams.md)
 
     - [翻译: 大型语言模型在自动问题生成领域的应用：以 ChatGLM 为全国教师资格考试生成结构化问题为例的案例研究](2024年08月19日/Application_of_Large_Language_Models_in_Automated_Question_Generation_A_Case_Study_on_ChatGLM's_Structured_Questions_for_National_Teacher_Certification_Exams.md)
 
+- [Are Large Language Models More Honest in Their Probabilistic or Verbalized Confidence?](2024年08月19日/Are_Large_Language_Models_More_Honest_in_Their_Probabilistic_or_Verbalized_Confidence.md)
+
+    - [翻译: 大型语言模型在表达自信时，是通过概率性还是口头方式更显得诚实？](2024年08月19日/Are_Large_Language_Models_More_Honest_in_Their_Probabilistic_or_Verbalized_Confidence.md)
+
+- [ARMADA: Attribute-Based Multimodal Data Augmentation](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
+
+    - [翻译: ARMADA：一种基于属性的多模态数据增强技术](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
+
+- [Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit](2024年08月19日/Attribution_Analysis_Meets_Model_Editing_Advancing_Knowledge_Correction_in_Vision_Language_Models_with_VisEdit.md)
+
+    - [翻译: 归因分析结合模型编辑，通过 VisEdit 技术，助力视觉语言模型知识校正的进步。](2024年08月19日/Attribution_Analysis_Meets_Model_Editing_Advancing_Knowledge_Correction_in_Vision_Language_Models_with_VisEdit.md)
+
+- [AutoML-guided Fusion of Entity and LLM-based representations](2024年08月19日/AutoML-guided_Fusion_of_Entity_and_LLM-based_representations.md)
+
+    - [翻译: AutoML 引导下的实体与 LLM 表示融合](2024年08月19日/AutoML-guided_Fusion_of_Entity_and_LLM-based_representations.md)
+
+- [Benchmarking LLMs for Translating Classical Chinese Poetry:Evaluating Adequacy, Fluency, and Elegance](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
+
+    - [翻译: 本研究旨在通过基准测试，评估 LLM 在翻译古典中文诗歌时的充分性、流畅性和优雅性。](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
+
 - [Bridging the Language Gap: Enhancing Multilingual Prompt-Based Code Generation in LLMs via Zero-Shot Cross-Lingual Transfer](2024年08月19日/Bridging_the_Language_Gap_Enhancing_Multilingual_Prompt-Based_Code_Generation_in_LLMs_via_Zero-Shot_Cross-Lingual_Transfer.md)
 
     - [翻译: 借助零-shot跨语言转移技术，我们正努力弥合语言间的鸿沟，以提升LLMs在多语言环境下基于提示的代码生成能力。](2024年08月19日/Bridging_the_Language_Gap_Enhancing_Multilingual_Prompt-Based_Code_Generation_in_LLMs_via_Zero-Shot_Cross-Lingual_Transfer.md)
+
+- [Carbon Footprint Accounting Driven by Large Language Models and Retrieval-augmented Generation](2024年08月19日/Carbon_Footprint_Accounting_Driven_by_Large_Language_Models_and_Retrieval-augmented_Generation.md)
+
+    - [翻译: 大型语言模型与检索增强生成助力碳足迹核算](2024年08月19日/Carbon_Footprint_Accounting_Driven_by_Large_Language_Models_and_Retrieval-augmented_Generation.md)
+
+- [CMoralEval: A Moral Evaluation Benchmark for Chinese Large Language Models](2024年08月19日/CMoralEval_A_Moral_Evaluation_Benchmark_for_Chinese_Large_Language_Models.md)
+
+    - [翻译: CMoralEval：专为中国大型语言模型设计的道德评估基准](2024年08月19日/CMoralEval_A_Moral_Evaluation_Benchmark_for_Chinese_Large_Language_Models.md)
+
+- [Cross-composition Feature Disentanglement for Compositional Zero-shot Learning](2024年08月19日/Cross-composition_Feature_Disentanglement_for_Compositional_Zero-shot_Learning.md)
+
+    - [翻译: 跨组合特征解耦助力组合零-shot学习](2024年08月19日/Cross-composition_Feature_Disentanglement_for_Compositional_Zero-shot_Learning.md)
 
 - [Customizing Language Models with Instance-wise LoRA for Sequential Recommendation](2024年08月19日/Customizing_Language_Models_with_Instance-wise_LoRA_for_Sequential_Recommendation.md)
 
@@ -18,6 +58,18 @@
 
     - [翻译: 探索分布式Transformer模型的通信奥秘](2024年08月19日/Demystifying_the_Communication_Characteristics_for_Distributed_Transformer_Models.md)
 
+- [Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
+
+    - [翻译: 自动驾驶中的边缘-云协同运动规划，借助大型语言模型实现。](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
+
+- [Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting](2024年08月19日/Enhance_Modality_Robustness_in_Text-Centric_Multimodal_Alignment_with_Adversarial_Prompting.md)
+
+    - [翻译: 通过对抗性提示，提升以文本为核心的多模态对齐中的模态鲁棒性](2024年08月19日/Enhance_Modality_Robustness_in_Text-Centric_Multimodal_Alignment_with_Adversarial_Prompting.md)
+
+- [FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant](2024年08月19日/FFAA_Multimodal_Large_Language_Model_based_Explainable_Open-World_Face_Forgery_Analysis_Assistant.md)
+
+    - [翻译: FFAA：一款基于多模态大型语言模型的助手，专为开放世界中的人脸伪造分析提供可解释性支持。](2024年08月19日/FFAA_Multimodal_Large_Language_Model_based_Explainable_Open-World_Face_Forgery_Analysis_Assistant.md)
+
 - [Geometry Informed Tokenization of Molecules for Language Model Generation](2024年08月19日/Geometry_Informed_Tokenization_of_Molecules_for_Language_Model_Generation.md)
 
     - [翻译: 分子几何信息引导的标记化技术，助力语言模型生成](2024年08月19日/Geometry_Informed_Tokenization_of_Molecules_for_Language_Model_Generation.md)
@@ -26,13 +78,29 @@
 
     - [翻译: GLIMMER：融合图与词汇特征，革新无监督多文档摘要技术](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
 
+- [GoNoGo: An Efficient LLM-based Multi-Agent System for Streamlining Automotive Software Release Decision-Making](2024年08月19日/GoNoGo_An_Efficient_LLM-based_Multi-Agent_System_for_Streamlining_Automotive_Software_Release_Decision-Making.md)
+
+    - [翻译: GoNoGo：基于LLM的高效多智能体系统，旨在简化汽车软件发布决策流程。](2024年08月19日/GoNoGo_An_Efficient_LLM-based_Multi-Agent_System_for_Streamlining_Automotive_Software_Release_Decision-Making.md)
+
 - [Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
 
     - [翻译: 驾驭多模态大型语言模型，实现多模态序列推荐](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
 
+- [Icing on the Cake: Automatic Code Summarization at Ericsson](2024年08月19日/Icing_on_the_Cake_Automatic_Code_Summarization_at_Ericsson.md)
+
+    - [翻译: 锦上添花：Ericsson 的自动代码摘要技术](2024年08月19日/Icing_on_the_Cake_Automatic_Code_Summarization_at_Ericsson.md)
+
+- [Importance Weighting Can Help Large Language Models Self-Improve](2024年08月19日/Importance_Weighting_Can_Help_Large_Language_Models_Self-Improve.md)
+
+    - [翻译: 通过重要性加权，大型语言模型能够实现自我提升。](2024年08月19日/Importance_Weighting_Can_Help_Large_Language_Models_Self-Improve.md)
+
 - [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](2024年08月19日/In-Context_Learning_with_Representations_Contextual_Generalization_of_Trained_Transformers.md)
 
     - [翻译: 训练后的 Transformer 在基于表示的上下文学习中展现出上下文泛化能力。](2024年08月19日/In-Context_Learning_with_Representations_Contextual_Generalization_of_Trained_Transformers.md)
+
+- [Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
+
+    - [翻译: 指令驱动下的分子图生成：融合文本与图的统一扩散模型](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
 
 - [Instruction Finetuning for Leaderboard Generation from Empirical AI Research](2024年08月19日/Instruction_Finetuning_for_Leaderboard_Generation_from_Empirical_AI_Research.md)
 
@@ -42,9 +110,21 @@
 
     - [翻译: LongVILA：扩展长上下文视觉语言模型以适应长视频处理](2024年08月19日/LongVILA_Scaling_Long-Context_Visual_Language_Models_for_Long_Videos.md)
 
+- [MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation](2024年08月19日/MAPLE_Enhancing_Review_Generation_with_Multi-Aspect_Prompt_LEarning_in_Explainable_Recommendation.md)
+
+    - [翻译: MAPLE：借助多方面提示学习，在可解释推荐系统中提升评论生成质量](2024年08月19日/MAPLE_Enhancing_Review_Generation_with_Multi-Aspect_Prompt_LEarning_in_Explainable_Recommendation.md)
+
+- [MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems](2024年08月19日/MegaAgent_A_Practical_Framework_for_Autonomous_Cooperation_in_Large-Scale_LLM_Agent_Systems.md)
+
+    - [翻译: MegaAgent：为大型 LLM 代理系统量身打造的自主合作实用框架](2024年08月19日/MegaAgent_A_Practical_Framework_for_Autonomous_Cooperation_in_Large-Scale_LLM_Agent_Systems.md)
+
 - [Microscopic Analysis on LLM players via Social Deduction Game](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
 
     - [翻译: 借助社交推理游戏，深入剖析 LLM 玩家的微观行为](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
+
+- [Minor DPO reject penalty to increase training robustness](2024年08月19日/Minor_DPO_reject_penalty_to_increase_training_robustness.md)
+
+    - [翻译: 微调DPO拒绝惩罚，增强训练稳定性](2024年08月19日/Minor_DPO_reject_penalty_to_increase_training_robustness.md)
 
 - [Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
 
@@ -54,6 +134,18 @@
 
     - [翻译: 在多语言的海洋中寻找针尖：探索多语言大型语言模型在长上下文中的表现](2024年08月19日/Multilingual_Needle_in_a_Haystack_Investigating_Long-Context_Behavior_of_Multilingual_Large_Language_Models.md)
 
+- [Paired Completion: Flexible Quantification of Issue-framing at Scale with LLMs](2024年08月19日/Paired_Completion_Flexible_Quantification_of_Issue-framing_at_Scale_with_LLMs.md)
+
+    - [翻译: Paired Completion 方法利用 LLM 实现大规模问题框架的灵活量化。](2024年08月19日/Paired_Completion_Flexible_Quantification_of_Issue-framing_at_Scale_with_LLMs.md)
+
+- [Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
+
+    - [翻译: 行人属性识别领域迎来新挑战，我们推出全新基准数据集，并构建大型语言模型增强框架，助力该领域发展。](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
+
+- [Performance Law of Large Language Models](2024年08月19日/Performance_Law_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型的性能法则](2024年08月19日/Performance_Law_of_Large_Language_Models.md)
+
 - [PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
 
     - [翻译: PLUTUS，一款精心预训练的大型统一Transformer模型，能够揭示金融时间序列中的规律。](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
@@ -61,6 +153,14 @@
 - [Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory](2024年08月19日/Privacy_Checklist_Privacy_Violation_Detection_Grounding_on_Contextual_Integrity_Theory.md)
 
     - [翻译: 隐私检测清单：依托上下文完整性理论，精准识别隐私侵犯行为](2024年08月19日/Privacy_Checklist_Privacy_Violation_Detection_Grounding_on_Contextual_Integrity_Theory.md)
+
+- [R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
+
+    - [翻译: R2GenCSR：利用大型语言模型，为X射线医学报告生成精选上下文样本](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
+
+- [Ranking Generated Answers: On the Agreement of Retrieval Models with Humans on Consumer Health Questions](2024年08月19日/Ranking_Generated_Answers_On_the_Agreement_of_Retrieval_Models_with_Humans_on_Consumer_Health_Questions.md)
+
+    - [翻译: 探讨检索模型与人类在消费者健康问题答案排序上的共识](2024年08月19日/Ranking_Generated_Answers_On_the_Agreement_of_Retrieval_Models_with_Humans_on_Consumer_Health_Questions.md)
 
 - [Rhyme-aware Chinese lyric generator based on GPT](2024年08月19日/Rhyme-aware_Chinese_lyric_generator_based_on_GPT.md)
 
@@ -70,13 +170,25 @@
 
     - [翻译: SANER：一款无需注释的社会属性中和工具，专为消除CLIP中的偏见而设计。](2024年08月19日/SANER_Annotation-free_Societal_Attribute_Neutralizer_for_Debiasing_CLIP.md)
 
+- [Self-Directed Turing Test for Large Language Models](2024年08月19日/Self-Directed_Turing_Test_for_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型的自我指导图灵测试](2024年08月19日/Self-Directed_Turing_Test_for_Large_Language_Models.md)
+
 - [SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
 
     - [翻译: SMILE：基于预训练模型，实现零-shot 构建稀疏低秩专家混合体](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
 
+- [Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning](2024年08月19日/Strategic_Demonstration_Selection_for_Improved_Fairness_in_LLM_In-Context_Learning.md)
+
+    - [翻译: 为提升 LLM 上下文学习中的公平性，我们探讨战略性的演示选择策略。](2024年08月19日/Strategic_Demonstration_Selection_for_Improved_Fairness_in_LLM_In-Context_Learning.md)
+
 - [TBA: Faster Large Language Model Training Using SSD-Based Activation Offloading](2024年08月19日/TBA_Faster_Large_Language_Model_Training_Using_SSD-Based_Activation_Offloading.md)
 
     - [翻译: TBA：通过 SSD 激活卸载技术加速大型语言模型训练](2024年08月19日/TBA_Faster_Large_Language_Model_Training_Using_SSD-Based_Activation_Offloading.md)
+
+- [Transferring Backdoors between Large Language Models by Knowledge Distillation](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
+
+    - [翻译: 利用知识蒸馏技术，实现大型语言模型间的后门转移](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
 
 2024年08月18日
 
@@ -134,7 +246,7 @@
 
 - [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](2024年08月18日/HiAgent_Hierarchical_Working_Memory_Management_for_Solving_Long-Horizon_Agent_Tasks_with_Large_Language_Model.md)
 
-    - [翻译: HiAgent：通过分层工作记忆管理，助力大型语言模型解决长周期代理任务。](2024年08月18日/HiAgent_Hierarchical_Working_Memory_Management_for_Solving_Long-Horizon_Agent_Tasks_with_Large_Language_Model.md)
+    - [翻译: HiAgent：通过分层工作记忆管理，助力大型语言模型解决长周期代理任务](2024年08月18日/HiAgent_Hierarchical_Working_Memory_Management_for_Solving_Long-Horizon_Agent_Tasks_with_Large_Language_Model.md)
 
 - [How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments](2024年08月18日/How_to_Make_the_Most_of_LLMs'_Grammatical_Knowledge_for_Acceptability_Judgments.md)
 
@@ -556,7 +668,7 @@
 
 - [Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection](2024年08月12日/Audit-LLM_Multi-Agent_Collaboration_for_Log-based_Insider_Threat_Detection.md)
 
-    - [翻译: Audit-LLM：通过多智能体协作，实现基于日志的内部威胁检测。](2024年08月12日/Audit-LLM_Multi-Agent_Collaboration_for_Log-based_Insider_Threat_Detection.md)
+    - [翻译: Audit-LLM：多代理协作，助力基于日志的内部威胁检测](2024年08月12日/Audit-LLM_Multi-Agent_Collaboration_for_Log-based_Insider_Threat_Detection.md)
 
 - [Bayesian inference to improve quality of Retrieval Augmented Generation](2024年08月12日/Bayesian_inference_to_improve_quality_of_Retrieval_Augmented_Generation.md)
 
