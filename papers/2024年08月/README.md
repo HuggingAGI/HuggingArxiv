@@ -630,10 +630,6 @@
 
     - [翻译: 图检索增强生成技术综述](2024年08月15日/Graph_Retrieval-Augmented_Generation_A_Survey.md)
 
-- [Penny-Wise and Pound-Foolish in Deepfake Detection](2024年08月15日/Penny-Wise_and_Pound-Foolish_in_Deepfake_Detection.md)
-
-    - [翻译: 深度伪造检测中的小聪明与大糊涂](2024年08月15日/Penny-Wise_and_Pound-Foolish_in_Deepfake_Detection.md)
-
 - [Plan with Code: Comparing approaches for robust NL to DSL generation](2024年08月15日/Plan_with_Code_Comparing_approaches_for_robust_NL_to_DSL_generation.md)
 
     - [翻译: 代码规划：探索从自然语言到领域特定语言生成的稳健方法比较](2024年08月15日/Plan_with_Code_Comparing_approaches_for_robust_NL_to_DSL_generation.md)
@@ -657,22 +653,6 @@
 - [Zero-Shot Learning and Key Points Are All You Need for Automated Fact-Checking](2024年08月15日/Zero-Shot_Learning_and_Key_Points_Are_All_You_Need_for_Automated_Fact-Checking.md)
 
     - [翻译: 零-Shot 学习与关键点，自动化事实核查的全部所需。](2024年08月15日/Zero-Shot_Learning_and_Key_Points_Are_All_You_Need_for_Automated_Fact-Checking.md)
-
-2024年08月13日
-
-- [What should I wear to a party in a Greek taverna? Evaluation for Conversational Agents in the Fashion Domain](2024年08月13日/What_should_I_wear_to_a_party_in_a_Greek_taverna_Evaluation_for_Conversational_Agents_in_the_Fashion_Domain.md)
-
-    - [翻译: 希腊小酒馆派对穿搭指南：探索时尚领域对话代理的评估之道](2024年08月13日/What_should_I_wear_to_a_party_in_a_Greek_taverna_Evaluation_for_Conversational_Agents_in_the_Fashion_Domain.md)
-
-2024年08月12日
-
-- [Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection](2024年08月12日/Audit-LLM_Multi-Agent_Collaboration_for_Log-based_Insider_Threat_Detection.md)
-
-    - [翻译: Audit-LLM：多代理协作，助力基于日志的内部威胁检测](2024年08月12日/Audit-LLM_Multi-Agent_Collaboration_for_Log-based_Insider_Threat_Detection.md)
-
-- [Bayesian inference to improve quality of Retrieval Augmented Generation](2024年08月12日/Bayesian_inference_to_improve_quality_of_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 利用贝叶斯推理提升检索增强生成的质量](2024年08月12日/Bayesian_inference_to_improve_quality_of_Retrieval_Augmented_Generation.md)
 
 2024年08月05日
 
