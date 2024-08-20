@@ -428,10 +428,6 @@
 
     - [翻译: ASGM-KG：借助知识图谱揭秘冲积金矿开采](2024年08月16日/ASGM-KG_Unveiling_Alluvial_Gold_Mining_Through_Knowledge_Graphs.md)
 
-- [Beam Prediction based on Large Language Models](2024年08月16日/Beam_Prediction_based_on_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型进行波束预测](2024年08月16日/Beam_Prediction_based_on_Large_Language_Models.md)
-
 - [Beyond the Hype: A dispassionate look at vision-language models in medical scenario](2024年08月16日/Beyond_the_Hype_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
 
     - [翻译: 冷静看待医疗场景中的视觉-语言模型，超越炒作的表象。](2024年08月16日/Beyond_the_Hype_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
@@ -452,10 +448,6 @@
 
     - [翻译: ECG-Chat：一款专为心脏疾病诊断设计的大型 ECG 语言模型](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
 
-- [Extracting polygonal footprints in off-nadir images with Segment Anything Model](2024年08月16日/Extracting_polygonal_footprints_in_off-nadir_images_with_Segment_Anything_Model.md)
-
-    - [翻译: 利用 Segment Anything Model 在非正视图像中精准提取多边形足迹](2024年08月16日/Extracting_polygonal_footprints_in_off-nadir_images_with_Segment_Anything_Model.md)
-
 - [Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
 
     - [翻译: 大型语言模型或许并不在意你的言辞，提示格式往往比描述更为有效。](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
@@ -472,37 +464,17 @@
 
     - [翻译: Math-PUMA：通过逐步向上多模态对齐，提升数学推理能力](2024年08月16日/Math-PUMA_Progressive_Upward_Multimodal_Alignment_to_Enhance_Mathematical_Reasoning.md)
 
-- [Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm](2024年08月16日/Med-PMC_Medical_Personalized_Multi-modal_Consultation_with_a_Proactive_Ask-First-Observe-Next_Paradigm.md)
-
-    - [翻译: Med-PMC：一种采用先问后观策略的医学个性化多模态咨询系统](2024年08月16日/Med-PMC_Medical_Personalized_Multi-modal_Consultation_with_a_Proactive_Ask-First-Observe-Next_Paradigm.md)
-
 - [Meta Knowledge for Retrieval Augmented Large Language Models](2024年08月16日/Meta_Knowledge_for_Retrieval_Augmented_Large_Language_Models.md)
 
     - [翻译: 元知识在增强检索型大型语言模型中的应用](2024年08月16日/Meta_Knowledge_for_Retrieval_Augmented_Large_Language_Models.md)
-
-- [MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector](2024年08月16日/MIA-Tuner_Adapting_Large_Language_Models_as_Pre-training_Text_Detector.md)
-
-    - [翻译: MIA-Tuner：适配大型语言模型，使其成为预训练文本检测工具](2024年08月16日/MIA-Tuner_Adapting_Large_Language_Models_as_Pre-training_Text_Detector.md)
 
 - [Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models](2024年08月16日/Retrieval-augmented_Few-shot_Medical_Image_Segmentation_with_Foundation_Models.md)
 
     - [翻译: 利用基础模型进行增强检索的少样本医学图像分割](2024年08月16日/Retrieval-augmented_Few-shot_Medical_Image_Segmentation_with_Foundation_Models.md)
 
-- [RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba](2024年08月16日/RGBT_Tracking_via_All-layer_Multimodal_Interactions_with_Progressive_Fusion_Mamba.md)
-
-    - [翻译: 采用渐进融合曼巴策略，通过全层多模态交互实现RGBT跟踪](2024年08月16日/RGBT_Tracking_via_All-layer_Multimodal_Interactions_with_Progressive_Fusion_Mamba.md)
-
-- [RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
-
-    - [翻译: RoarGraph 项目：利用投影二分图技术，实现跨模态近似最近邻搜索的高效解决方案。](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
-
 - [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
 
     - [翻译: LLM 的联盟：多代理工作流程助力合成偏好优化数据集的生成](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
-
-- [Where is the signal in tokenization space?](2024年08月16日/Where_is_the_signal_in_tokenization_space.md)
-
-    - [翻译: 分词空间中的信号藏于何处？](2024年08月16日/Where_is_the_signal_in_tokenization_space.md)
 
 - [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](2024年08月16日/xGen-MM_(BLIP-3)_A_Family_of_Open_Large_Multimodal_Models.md)
 
