@@ -12,4 +12,22 @@
 
 > Model merging combines multiple homologous models into one model, achieving convincing generalization without the necessity of additional training. A key challenge in this problem is resolving parameter redundancies and conflicts across multiple models. Existing models have demonstrated that dropping a portion of delta parameters can alleviate conflicts while maintaining performance. However, these methods often drop parameters either randomly or based on magnitude, overlooking task-specific information embedded in fine-tuned models. In this paper, we propose an Activated Parameter Locating (APL) method that utilizes causal intervention to estimate parameter importance, enabling more precise parameter drops and better conflict mitigation. Moreover, to reduce the computational complexity associated with a large number of parameter partitions, we also introduce a theoretically supported gradient approximation strategy for APL. Experiments on model merging within both in-domain and out-of-domain settings, along with associated analyses, showcase the effectiveness of APL.
 
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/x1.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/x2.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/pruning.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/ablation.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/few-shot.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/activation.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/tau1.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/tau2.png)
+
+![利用因果干预技术，精准定位激活参数，优化模型合并过程](../../../paper_images/2408.09485/roberta.png)
+
 [Arxiv](https://arxiv.org/abs/2408.09485)
