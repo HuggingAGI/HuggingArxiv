@@ -412,10 +412,6 @@
 
     - [翻译: AdaRank：利用分歧进行模块排名预测，专为低秩适应设计](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
 
-- [A Mean Field Ansatz for Zero-Shot Weight Transfer](2024年08月16日/A_Mean_Field_Ansatz_for_Zero-Shot_Weight_Transfer.md)
-
-    - [翻译: 零-shot 权重转移的平均场近似法](2024年08月16日/A_Mean_Field_Ansatz_for_Zero-Shot_Weight_Transfer.md)
-
 - [A Primer on Generative AI for Telecom: From Theory to Practice](2024年08月16日/A_Primer_on_Generative_AI_for_Telecom_From_Theory_to_Practice.md)
 
     - [翻译: 电信领域生成式AI入门：理论与实践的融合](2024年08月16日/A_Primer_on_Generative_AI_for_Telecom_From_Theory_to_Practice.md)
@@ -423,18 +419,6 @@
 - [Artificial Intelligence and Strategic Decision-Making: Evidence from Entrepreneurs and Investors](2024年08月16日/Artificial_Intelligence_and_Strategic_Decision-Making_Evidence_from_Entrepreneurs_and_Investors.md)
 
     - [翻译: 人工智能在战略决策中的应用：企业家与投资者的实证研究](2024年08月16日/Artificial_Intelligence_and_Strategic_Decision-Making_Evidence_from_Entrepreneurs_and_Investors.md)
-
-- [ASGM-KG: Unveiling Alluvial Gold Mining Through Knowledge Graphs](2024年08月16日/ASGM-KG_Unveiling_Alluvial_Gold_Mining_Through_Knowledge_Graphs.md)
-
-    - [翻译: ASGM-KG：借助知识图谱揭秘冲积金矿开采](2024年08月16日/ASGM-KG_Unveiling_Alluvial_Gold_Mining_Through_Knowledge_Graphs.md)
-
-- [Beyond the Hype: A dispassionate look at vision-language models in medical scenario](2024年08月16日/Beyond_the_Hype_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
-
-    - [翻译: 冷静看待医疗场景中的视觉-语言模型，超越炒作的表象。](2024年08月16日/Beyond_the_Hype_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
-
-- [ChatZero:Zero-shot Cross-Lingual Dialogue Generation via Pseudo-Target Language](2024年08月16日/ChatZeroZero-shot_Cross-Lingual_Dialogue_Generation_via_Pseudo-Target_Language.md)
-
-    - [翻译: ChatZero：借助伪目标语言技术，实现零-shot的跨语言对话生成。](2024年08月16日/ChatZeroZero-shot_Cross-Lingual_Dialogue_Generation_via_Pseudo-Target_Language.md)
 
 - [Collaborative Cross-modal Fusion with Large Language Model for Recommendation](2024年08月16日/Collaborative_Cross-modal_Fusion_with_Large_Language_Model_for_Recommendation.md)
 
@@ -475,10 +459,6 @@
 - [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
 
     - [翻译: LLM 的联盟：多代理工作流程助力合成偏好优化数据集的生成](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
-
-- [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](2024年08月16日/xGen-MM_(BLIP-3)_A_Family_of_Open_Large_Multimodal_Models.md)
-
-    - [翻译: xGen-MM (BLIP-3)：开放式大型多模态模型系列](2024年08月16日/xGen-MM_(BLIP-3)_A_Family_of_Open_Large_Multimodal_Models.md)
 
 2024年08月05日
 
