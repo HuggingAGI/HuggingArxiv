@@ -1,5 +1,5 @@
 # 理性语言模型时代，文本到SQL转换是否宣告了模式链接的终结？
-发布时间：2024年08月14日
+发布时间：2024年08月18日
 
 `代码编写`
 > The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models
