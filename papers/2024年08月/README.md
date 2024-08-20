@@ -408,10 +408,6 @@
 
 2024年08月16日
 
-- [ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models](2024年08月16日/ABQ-LLM_Arbitrary-Bit_Quantized_Inference_Acceleration_for_Large_Language_Models.md)
-
-    - [翻译: ABQ-LLM：针对大型语言模型，实现任意位量化的推理加速技术。](2024年08月16日/ABQ-LLM_Arbitrary-Bit_Quantized_Inference_Acceleration_for_Large_Language_Models.md)
-
 - [AdaRank: Disagreement Based Module Rank Prediction for Low-rank Adaptation](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
 
     - [翻译: AdaRank：利用分歧进行模块排名预测，专为低秩适应设计](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
@@ -444,10 +440,6 @@
 
     - [翻译: 冷静看待医疗场景中的视觉-语言模型，超越炒作的表象。](2024年08月16日/Beyond_the_Hype_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
 
-- [Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?](2024年08月16日/Can_Large_Language_Models_Improve_the_Adversarial_Robustness_of_Graph_Neural_Networks.md)
-
-    - [翻译: 大型语言模型能否增强图神经网络的对抗鲁棒性？](2024年08月16日/Can_Large_Language_Models_Improve_the_Adversarial_Robustness_of_Graph_Neural_Networks.md)
-
 - [ChatZero:Zero-shot Cross-Lingual Dialogue Generation via Pseudo-Target Language](2024年08月16日/ChatZeroZero-shot_Cross-Lingual_Dialogue_Generation_via_Pseudo-Target_Language.md)
 
     - [翻译: ChatZero：借助伪目标语言技术，实现零-shot的跨语言对话生成。](2024年08月16日/ChatZeroZero-shot_Cross-Lingual_Dialogue_Generation_via_Pseudo-Target_Language.md)
@@ -471,10 +463,6 @@
 - [EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics](2024年08月16日/EmoDynamiX_Emotional_Support_Dialogue_Strategy_Prediction_by_Modelling_MiXed_Emotions_and_Discourse_Dynamics.md)
 
     - [翻译: EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](2024年08月16日/EmoDynamiX_Emotional_Support_Dialogue_Strategy_Prediction_by_Modelling_MiXed_Emotions_and_Discourse_Dynamics.md)
-
-- [Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience](2024年08月16日/Enhancing_Discriminative_Tasks_by_Guiding_the_Pre-trained_Language_Model_with_Large_Language_Model's_Experience.md)
-
-    - [翻译: 借助大型语言模型的经验，引导预训练模型提升判别任务的表现。](2024年08月16日/Enhancing_Discriminative_Tasks_by_Guiding_the_Pre-trained_Language_Model_with_Large_Language_Model's_Experience.md)
 
 - [Extracting polygonal footprints in off-nadir images with Segment Anything Model](2024年08月16日/Extracting_polygonal_footprints_in_off-nadir_images_with_Segment_Anything_Model.md)
 
@@ -508,10 +496,6 @@
 
     - [翻译: MIA-Tuner：适配大型语言模型，使其成为预训练文本检测工具](2024年08月16日/MIA-Tuner_Adapting_Large_Language_Models_as_Pre-training_Text_Detector.md)
 
-- [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](2024年08月16日/MuRAR_A_Simple_and_Effective_Multimodal_Retrieval_and_Answer_Refinement_Framework_for_Multimodal_Question_Answering.md)
-
-    - [翻译: MuRAR：一款简洁高效的多模态问答框架，集检索与答案优化于一体](2024年08月16日/MuRAR_A_Simple_and_Effective_Multimodal_Retrieval_and_Answer_Refinement_Framework_for_Multimodal_Question_Answering.md)
-
 - [Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles](2024年08月16日/Overview_of_the_BioLaySumm_2024_Shared_Task_on_the_Lay_Summarization_of_Biomedical_Research_Articles.md)
 
     - [翻译: BioLaySumm 2024 共享任务：探索生物医学研究文章的非专业摘要](2024年08月16日/Overview_of_the_BioLaySumm_2024_Shared_Task_on_the_Lay_Summarization_of_Biomedical_Research_Articles.md)
@@ -539,14 +523,6 @@
 - [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
 
     - [翻译: LLM 的联盟：多代理工作流程助力合成偏好优化数据集的生成](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
-
-- [Visual Agents as Fast and Slow Thinkers](2024年08月16日/Visual_Agents_as_Fast_and_Slow_Thinkers.md)
-
-    - [翻译: 视觉代理：快速与慢速思考的双重角色](2024年08月16日/Visual_Agents_as_Fast_and_Slow_Thinkers.md)
-
-- [Vulnerability Handling of AI-Generated Code -- Existing Solutions and Open Challenges](2024年08月16日/Vulnerability_Handling_of_AI-Generated_Code_--_Existing_Solutions_and_Open_Challenges.md)
-
-    - [翻译: AI代码漏洞处理：探索现有方案与未解难题](2024年08月16日/Vulnerability_Handling_of_AI-Generated_Code_--_Existing_Solutions_and_Open_Challenges.md)
 
 - [Where is the signal in tokenization space?](2024年08月16日/Where_is_the_signal_in_tokenization_space.md)
 
