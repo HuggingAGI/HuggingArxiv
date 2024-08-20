@@ -614,25 +614,9 @@
 
     - [翻译: 提升大型语言模型在罕见疾病问答领域的效能评估与强化](2024年08月15日/Assessing_and_Enhancing_Large_Language_Models_in_Rare_Disease_Question-answering.md)
 
-- [Context-Aware Assistant Selection for Improved Inference Acceleration with Large Language Models](2024年08月15日/Context-Aware_Assistant_Selection_for_Improved_Inference_Acceleration_with_Large_Language_Models.md)
-
-    - [翻译: 通过上下文感知助手选择，提升大型语言模型推理加速效果](2024年08月15日/Context-Aware_Assistant_Selection_for_Improved_Inference_Acceleration_with_Large_Language_Models.md)
-
 - [CRQBench: A Benchmark of Code Reasoning Questions](2024年08月15日/CRQBench_A_Benchmark_of_Code_Reasoning_Questions.md)
 
     - [翻译: CRQBench：代码推理问题的新基准](2024年08月15日/CRQBench_A_Benchmark_of_Code_Reasoning_Questions.md)
-
-- [Ex3: Automatic Novel Writing by Extracting, Excelsior and Expanding](2024年08月15日/Ex3_Automatic_Novel_Writing_by_Extracting,_Excelsior_and_Expanding.md)
-
-    - [翻译: Ex3：自动小说创作——提取、优化、扩展](2024年08月15日/Ex3_Automatic_Novel_Writing_by_Extracting,_Excelsior_and_Expanding.md)
-
-- [Graph Retrieval-Augmented Generation: A Survey](2024年08月15日/Graph_Retrieval-Augmented_Generation_A_Survey.md)
-
-    - [翻译: 图检索增强生成技术综述](2024年08月15日/Graph_Retrieval-Augmented_Generation_A_Survey.md)
-
-- [Plan with Code: Comparing approaches for robust NL to DSL generation](2024年08月15日/Plan_with_Code_Comparing_approaches_for_robust_NL_to_DSL_generation.md)
-
-    - [翻译: 代码规划：探索从自然语言到领域特定语言生成的稳健方法比较](2024年08月15日/Plan_with_Code_Comparing_approaches_for_robust_NL_to_DSL_generation.md)
 
 - [Retail-GPT: leveraging Retrieval Augmented Generation (RAG) for building E-commerce Chat Assistants](2024年08月15日/Retail-GPT_leveraging_Retrieval_Augmented_Generation_(RAG)_for_building_E-commerce_Chat_Assistants.md)
 
@@ -642,17 +626,9 @@
 
     - [翻译: MMJ-Bench：深入探讨视觉语言模型中的越狱攻击与防御策略](2024年08月15日/\textit{MMJ-Bench}_A_Comprehensive_Study_on_Jailbreak_Attacks_and_Defenses_for_Vision_Language_Models.md)
 
-- [Understanding Help-Seeking Behavior of Students Using LLMs vs. Web Search for Writing SQL Queries](2024年08月15日/Understanding_Help-Seeking_Behavior_of_Students_Using_LLMs_vs._Web_Search_for_Writing_SQL_Queries.md)
-
-    - [翻译: 探究学生在编写 SQL 查询时，选择 LLM 还是网络搜索的求助行为](2024年08月15日/Understanding_Help-Seeking_Behavior_of_Students_Using_LLMs_vs._Web_Search_for_Writing_SQL_Queries.md)
-
 - [W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering](2024年08月15日/W-RAG_Weakly_Supervised_Dense_Retrieval_in_RAG_for_Open-domain_Question_Answering.md)
 
     - [翻译: W-RAG：开放域问答中的弱监督密集检索技术](2024年08月15日/W-RAG_Weakly_Supervised_Dense_Retrieval_in_RAG_for_Open-domain_Question_Answering.md)
-
-- [Zero-Shot Learning and Key Points Are All You Need for Automated Fact-Checking](2024年08月15日/Zero-Shot_Learning_and_Key_Points_Are_All_You_Need_for_Automated_Fact-Checking.md)
-
-    - [翻译: 零-Shot 学习与关键点，自动化事实核查的全部所需。](2024年08月15日/Zero-Shot_Learning_and_Key_Points_Are_All_You_Need_for_Automated_Fact-Checking.md)
 
 2024年08月05日
 
