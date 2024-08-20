@@ -428,10 +428,6 @@
 
     - [翻译: ASGM-KG：借助知识图谱揭秘冲积金矿开采](2024年08月16日/ASGM-KG_Unveiling_Alluvial_Gold_Mining_Through_Knowledge_Graphs.md)
 
-- [A Survey on Benchmarks of Multimodal Large Language Models](2024年08月16日/A_Survey_on_Benchmarks_of_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 多模态大型语言模型基准调查](2024年08月16日/A_Survey_on_Benchmarks_of_Multimodal_Large_Language_Models.md)
-
 - [Beam Prediction based on Large Language Models](2024年08月16日/Beam_Prediction_based_on_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型进行波束预测](2024年08月16日/Beam_Prediction_based_on_Large_Language_Models.md)
@@ -452,17 +448,9 @@
 
     - [翻译: CommunityKG-RAG：借助知识图谱的社区结构，提升事实核查中的检索增强生成技术](2024年08月16日/CommunityKG-RAG_Leveraging_Community_Structures_in_Knowledge_Graphs_for_Advanced_Retrieval-Augmented_Generation_in_Fact-Checking.md)
 
-- [Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge](2024年08月16日/Constructing_Domain-Specific_Evaluation_Sets_for_LLM-as-a-judge.md)
-
-    - [翻译: 打造专为 LLM 评判的领域特定评估集](2024年08月16日/Constructing_Domain-Specific_Evaluation_Sets_for_LLM-as-a-judge.md)
-
 - [ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
 
     - [翻译: ECG-Chat：一款专为心脏疾病诊断设计的大型 ECG 语言模型](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
-
-- [EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics](2024年08月16日/EmoDynamiX_Emotional_Support_Dialogue_Strategy_Prediction_by_Modelling_MiXed_Emotions_and_Discourse_Dynamics.md)
-
-    - [翻译: EmoDynamiX：融合情绪与话语动态，精准预测情感支持对话策略](2024年08月16日/EmoDynamiX_Emotional_Support_Dialogue_Strategy_Prediction_by_Modelling_MiXed_Emotions_and_Discourse_Dynamics.md)
 
 - [Extracting polygonal footprints in off-nadir images with Segment Anything Model](2024年08月16日/Extracting_polygonal_footprints_in_off-nadir_images_with_Segment_Anything_Model.md)
 
@@ -496,14 +484,6 @@
 
     - [翻译: MIA-Tuner：适配大型语言模型，使其成为预训练文本检测工具](2024年08月16日/MIA-Tuner_Adapting_Large_Language_Models_as_Pre-training_Text_Detector.md)
 
-- [Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles](2024年08月16日/Overview_of_the_BioLaySumm_2024_Shared_Task_on_the_Lay_Summarization_of_Biomedical_Research_Articles.md)
-
-    - [翻译: BioLaySumm 2024 共享任务：探索生物医学研究文章的非专业摘要](2024年08月16日/Overview_of_the_BioLaySumm_2024_Shared_Task_on_the_Lay_Summarization_of_Biomedical_Research_Articles.md)
-
-- [Rethinking Generative Semantic Communication for Multi-User Systems with Multi-Modal LLM](2024年08月16日/Rethinking_Generative_Semantic_Communication_for_Multi-User_Systems_with_Multi-Modal_LLM.md)
-
-    - [翻译: 探索多用户系统中多模态LLM的生成语义通信新视角](2024年08月16日/Rethinking_Generative_Semantic_Communication_for_Multi-User_Systems_with_Multi-Modal_LLM.md)
-
 - [Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models](2024年08月16日/Retrieval-augmented_Few-shot_Medical_Image_Segmentation_with_Foundation_Models.md)
 
     - [翻译: 利用基础模型进行增强检索的少样本医学图像分割](2024年08月16日/Retrieval-augmented_Few-shot_Medical_Image_Segmentation_with_Foundation_Models.md)
@@ -515,10 +495,6 @@
 - [RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
 
     - [翻译: RoarGraph 项目：利用投影二分图技术，实现跨模态近似最近邻搜索的高效解决方案。](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
-
-- [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](2024年08月16日/Tell_Codec_What_Worth_Compressing_Semantically_Disentangled_Image_Coding_for_Machine_with_LMMs.md)
-
-    - [翻译: 指导 Codec 压缩要点：利用 LMMs 实现机器语义解耦的图像编码](2024年08月16日/Tell_Codec_What_Worth_Compressing_Semantically_Disentangled_Image_Coding_for_Machine_with_LMMs.md)
 
 - [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
 
