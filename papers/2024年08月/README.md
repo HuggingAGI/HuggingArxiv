@@ -348,7 +348,7 @@
 
 - [BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](2024年08月17日/BaThe_Defense_against_the_Jailbreak_Attack_in_Multimodal_Large_Language_Models_by_Treating_Harmful_Instruction_as_Backdoor_Trigger.md)
 
-    - [翻译: BaThe 策略：将有害指令作为后门触发器，有效防御多模态大型语言模型中的越狱攻击。](2024年08月17日/BaThe_Defense_against_the_Jailbreak_Attack_in_Multimodal_Large_Language_Models_by_Treating_Harmful_Instruction_as_Backdoor_Trigger.md)
+    - [翻译: BaThe：在多模态大型语言模型中，通过将有毒指令视为后门触发点，有效抵御 Jailbreak 攻击。](2024年08月17日/BaThe_Defense_against_the_Jailbreak_Attack_in_Multimodal_Large_Language_Models_by_Treating_Harmful_Instruction_as_Backdoor_Trigger.md)
 
 - [Characterizing and Evaluating the Reliability of LLMs against Jailbreak Attacks](2024年08月17日/Characterizing_and_Evaluating_the_Reliability_of_LLMs_against_Jailbreak_Attacks.md)
 
@@ -414,7 +414,7 @@
 
 - [AdaRank: Disagreement Based Module Rank Prediction for Low-rank Adaptation](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
 
-    - [翻译: AdaRank：利用分歧进行模块排名预测，助力低秩适应](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
+    - [翻译: AdaRank：利用分歧进行模块排名预测，专为低秩适应设计](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
 
 - [A Mean Field Ansatz for Zero-Shot Weight Transfer](2024年08月16日/A_Mean_Field_Ansatz_for_Zero-Shot_Weight_Transfer.md)
 
@@ -574,7 +574,7 @@
 
 - [RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
 
-    - [翻译: RoarGraph：一款专为跨模态近似最近邻搜索设计的高效投影二分图项目](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
+    - [翻译: RoarGraph 项目：利用投影二分图技术，实现跨模态近似最近邻搜索的高效解决方案。](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
 
 - [SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models](2024年08月16日/SelectLLM_Query-Aware_Efficient_Selection_Algorithm_for_Large_Language_Models.md)
 
