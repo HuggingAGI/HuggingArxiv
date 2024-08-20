@@ -480,10 +480,6 @@
 
     - [翻译: 利用 Segment Anything Model 在非正视图像中精准提取多边形足迹](2024年08月16日/Extracting_polygonal_footprints_in_off-nadir_images_with_Segment_Anything_Model.md)
 
-- [FLEXTAF: Enhancing Table Reasoning with Flexible Tabular Formats](2024年08月16日/FLEXTAF_Enhancing_Table_Reasoning_with_Flexible_Tabular_Formats.md)
-
-    - [翻译: FLEXTAF 利用灵活的表格格式，提升表格推理能力。](2024年08月16日/FLEXTAF_Enhancing_Table_Reasoning_with_Flexible_Tabular_Formats.md)
-
 - [Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
 
     - [翻译: 大型语言模型或许并不在意你的言辞，提示格式往往比描述更为有效。](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
@@ -495,10 +491,6 @@
 - [LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
 
     - [翻译: LLM 对输出格式有偏好！我们系统地评估并尝试减轻这种输出格式偏差。](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
-
-- [Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused](2024年08月16日/Lower_Layer_Matters_Alleviating_Hallucination_via_Multi-Layer_Fusion_Contrastive_Decoding_with_Truthfulness_Refocused.md)
-
-    - [翻译: 底层关键：采用多层融合对比解码及真实性重聚焦技术，有效减轻幻觉现象](2024年08月16日/Lower_Layer_Matters_Alleviating_Hallucination_via_Multi-Layer_Fusion_Contrastive_Decoding_with_Truthfulness_Refocused.md)
 
 - [Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning](2024年08月16日/Math-PUMA_Progressive_Upward_Multimodal_Alignment_to_Enhance_Mathematical_Reasoning.md)
 
@@ -523,22 +515,6 @@
 - [Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles](2024年08月16日/Overview_of_the_BioLaySumm_2024_Shared_Task_on_the_Lay_Summarization_of_Biomedical_Research_Articles.md)
 
     - [翻译: BioLaySumm 2024 共享任务：探索生物医学研究文章的非专业摘要](2024年08月16日/Overview_of_the_BioLaySumm_2024_Shared_Task_on_the_Lay_Summarization_of_Biomedical_Research_Articles.md)
-
-- [PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code](2024年08月16日/PatUntrack_Automated_Generating_Patch_Examples_for_Issue_Reports_without_Tracked_Insecure_Code.md)
-
-    - [翻译: PatUntrack：无需追踪不安全代码，自动生成问题报告的补丁示例](2024年08月16日/PatUntrack_Automated_Generating_Patch_Examples_for_Issue_Reports_without_Tracked_Insecure_Code.md)
-
-- [PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars](2024年08月16日/PEDAL_Enhancing_Greedy_Decoding_with_Large_Language_Models_using_Diverse_Exemplars.md)
-
-    - [翻译: PEDAL：借助多样化示例，提升大型语言模型的贪婪解码效率](2024年08月16日/PEDAL_Enhancing_Greedy_Decoding_with_Large_Language_Models_using_Diverse_Exemplars.md)
-
-- [Quantifying the Effectiveness of Student Organization Activities using Natural Language Processing](2024年08月16日/Quantifying_the_Effectiveness_of_Student_Organization_Activities_using_Natural_Language_Processing.md)
-
-    - [翻译: 运用自然语言处理技术，评估学生组织活动的成效](2024年08月16日/Quantifying_the_Effectiveness_of_Student_Organization_Activities_using_Natural_Language_Processing.md)
-
-- [Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase](2024年08月16日/Research_on_Personalized_Compression_Algorithm_for_Pre-trained_Models_Based_on_Homomorphic_Entropy_Increase.md)
-
-    - [翻译: 本研究探索了一种基于同态熵增原理的预训练模型个性化压缩算法，旨在提升模型压缩的定制化效果。](2024年08月16日/Research_on_Personalized_Compression_Algorithm_for_Pre-trained_Models_Based_on_Homomorphic_Entropy_Increase.md)
 
 - [Rethinking Generative Semantic Communication for Multi-User Systems with Multi-Modal LLM](2024年08月16日/Rethinking_Generative_Semantic_Communication_for_Multi-User_Systems_with_Multi-Modal_LLM.md)
 
