@@ -12,4 +12,36 @@
 
 > Transformer models have achieved state-of-the-art results, with Large Language Models (LLMs), an evolution of first-generation transformers (1stTR), being considered the cutting edge in several NLP tasks. However, the literature has yet to conclusively demonstrate that LLMs consistently outperform 1stTRs across all NLP tasks. This study compares three 1stTRs (BERT, RoBERTa, and BART) with two open LLMs (Llama 2 and Bloom) across 11 sentiment analysis datasets. The results indicate that open LLMs may moderately outperform or match 1stTRs in 8 out of 11 datasets but only when fine-tuned. Given this substantial cost for only moderate gains, the practical applicability of these models in cost-sensitive scenarios is questionable. In this context, a confidence-based strategy that seamlessly integrates 1stTRs with open LLMs based on prediction certainty is proposed. High-confidence documents are classified by the more cost-effective 1stTRs, while uncertain cases are handled by LLMs in zero-shot or few-shot modes, at a much lower cost than fine-tuned versions. Experiments in sentiment analysis demonstrate that our solution not only outperforms 1stTRs, zero-shot, and few-shot LLMs but also competes closely with fine-tuned LLMs at a fraction of the cost.
 
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/fluxograma4.png)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/imdb_macro.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/imdb_quantidade.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/imdb_time.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/Finance.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/IMDB.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/PangMovie.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/SemEval2017.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/SiliconeMeldS.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/SiliconeSem.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/SST.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/SST2.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/YelpReview.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/IMDB2024.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/RottenA2023.jpg)
+
+![结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](../../../paper_images/2408.09629/legenda.png)
+
 [Arxiv](https://arxiv.org/abs/2408.09629)
