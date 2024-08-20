@@ -12,4 +12,8 @@
 
 > Audio-LLM introduces audio modality into a large language model (LLM) to enable a powerful LLM to recognize, understand, and generate audio. However, during speech recognition in noisy environments, we observed the presence of illusions and repetition issues in audio-LLM, leading to substitution and insertion errors. This paper proposes a transcription prompt-based audio-LLM by introducing an ASR expert as a transcription tokenizer and a hybrid Autoregressive (AR) Non-autoregressive (NAR) decoding approach to solve the above problems. Experiments on 10k-hour WenetSpeech Mandarin corpus show that our approach decreases 12.2% and 9.6% CER relatively on Test_Net and Test_Meeting evaluation sets compared with baseline. Notably, we reduce the decoding repetition rate on the evaluation set to zero, showing that the decoding repetition problem has been solved fundamentally.
 
+![我们提出了一种基于转录提示的高效音频大型语言模型，旨在提升语音识别的鲁棒性。](../../../paper_images/2408.09491/x1.png)
+
+![我们提出了一种基于转录提示的高效音频大型语言模型，旨在提升语音识别的鲁棒性。](../../../paper_images/2408.09491/x2.png)
+
 [Arxiv](https://arxiv.org/abs/2408.09491)
