@@ -420,10 +420,6 @@
 
     - [翻译: 零-shot 权重转移的平均场近似法](2024年08月16日/A_Mean_Field_Ansatz_for_Zero-Shot_Weight_Transfer.md)
 
-- [An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation](2024年08月16日/An_End-to-End_Model_for_Photo-Sharing_Multi-modal_Dialogue_Generation.md)
-
-    - [翻译: 照片分享多模态对话生成的端到端解决方案](2024年08月16日/An_End-to-End_Model_for_Photo-Sharing_Multi-modal_Dialogue_Generation.md)
-
 - [A Primer on Generative AI for Telecom: From Theory to Practice](2024年08月16日/A_Primer_on_Generative_AI_for_Telecom_From_Theory_to_Practice.md)
 
     - [翻译: 电信领域生成式AI入门：理论与实践的融合](2024年08月16日/A_Primer_on_Generative_AI_for_Telecom_From_Theory_to_Practice.md)
@@ -467,10 +463,6 @@
 - [Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge](2024年08月16日/Constructing_Domain-Specific_Evaluation_Sets_for_LLM-as-a-judge.md)
 
     - [翻译: 打造专为 LLM 评判的领域特定评估集](2024年08月16日/Constructing_Domain-Specific_Evaluation_Sets_for_LLM-as-a-judge.md)
-
-- [DAC: Decomposed Automation Correction for Text-to-SQL](2024年08月16日/DAC_Decomposed_Automation_Correction_for_Text-to-SQL.md)
-
-    - [翻译: DAC：文本转SQL的分解式自动校正](2024年08月16日/DAC_Decomposed_Automation_Correction_for_Text-to-SQL.md)
 
 - [ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
 
@@ -540,10 +532,6 @@
 
     - [翻译: PEDAL：借助多样化示例，提升大型语言模型的贪婪解码效率](2024年08月16日/PEDAL_Enhancing_Greedy_Decoding_with_Large_Language_Models_using_Diverse_Exemplars.md)
 
-- [PsychoLex: Unveiling the Psychological Mind of Large Language Models](2024年08月16日/PsychoLex_Unveiling_the_Psychological_Mind_of_Large_Language_Models.md)
-
-    - [翻译: PsychoLex：揭秘大型语言模型的心理学内核](2024年08月16日/PsychoLex_Unveiling_the_Psychological_Mind_of_Large_Language_Models.md)
-
 - [Quantifying the Effectiveness of Student Organization Activities using Natural Language Processing](2024年08月16日/Quantifying_the_Effectiveness_of_Student_Organization_Activities_using_Natural_Language_Processing.md)
 
     - [翻译: 运用自然语言处理技术，评估学生组织活动的成效](2024年08月16日/Quantifying_the_Effectiveness_of_Student_Organization_Activities_using_Natural_Language_Processing.md)
@@ -568,10 +556,6 @@
 
     - [翻译: RoarGraph 项目：利用投影二分图技术，实现跨模态近似最近邻搜索的高效解决方案。](2024年08月16日/RoarGraph_A_Projected_Bipartite_Graph_for_Efficient_Cross-Modal_Approximate_Nearest_Neighbor_Search.md)
 
-- [SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models](2024年08月16日/SelectLLM_Query-Aware_Efficient_Selection_Algorithm_for_Large_Language_Models.md)
-
-    - [翻译: SelectLLM：一种针对大型语言模型的高效查询感知选择算法](2024年08月16日/SelectLLM_Query-Aware_Efficient_Selection_Algorithm_for_Large_Language_Models.md)
-
 - [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](2024年08月16日/Tell_Codec_What_Worth_Compressing_Semantically_Disentangled_Image_Coding_for_Machine_with_LMMs.md)
 
     - [翻译: 指导 Codec 压缩要点：利用 LMMs 实现机器语义解耦的图像编码](2024年08月16日/Tell_Codec_What_Worth_Compressing_Semantically_Disentangled_Image_Coding_for_Machine_with_LMMs.md)
@@ -579,10 +563,6 @@
 - [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
 
     - [翻译: LLM 的联盟：多代理工作流程助力合成偏好优化数据集的生成](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
-
-- [Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling](2024年08月16日/Turning_Trash_into_Treasure_Accelerating_Inference_of_Large_Language_Models_with_Token_Recycling.md)
-
-    - [翻译: 化废为宝：利用 Token 回收技术加速大型语言模型的推理过程](2024年08月16日/Turning_Trash_into_Treasure_Accelerating_Inference_of_Large_Language_Models_with_Token_Recycling.md)
 
 - [Visual Agents as Fast and Slow Thinkers](2024年08月16日/Visual_Agents_as_Fast_and_Slow_Thinkers.md)
 
