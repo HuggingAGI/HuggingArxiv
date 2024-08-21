@@ -436,10 +436,6 @@
 
     - [翻译: 大型语言模型或许并不在意你的言辞，提示格式往往比描述更为有效。](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
 
-- [LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression](2024年08月16日/LLM-PCGC_Large_Language_Model-based_Point_Cloud_Geometry_Compression.md)
-
-    - [翻译: LLM-PCGC：基于大型语言模型的点云几何压缩技术](2024年08月16日/LLM-PCGC_Large_Language_Model-based_Point_Cloud_Geometry_Compression.md)
-
 - [LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
 
     - [翻译: LLM 对输出格式有偏好！我们系统地评估并尝试减轻这种输出格式偏差。](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
