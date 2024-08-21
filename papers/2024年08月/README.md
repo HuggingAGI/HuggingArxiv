@@ -416,37 +416,13 @@
 
     - [翻译: 电信领域生成式AI入门：理论与实践的融合](2024年08月16日/A_Primer_on_Generative_AI_for_Telecom_From_Theory_to_Practice.md)
 
-- [Artificial Intelligence and Strategic Decision-Making: Evidence from Entrepreneurs and Investors](2024年08月16日/Artificial_Intelligence_and_Strategic_Decision-Making_Evidence_from_Entrepreneurs_and_Investors.md)
-
-    - [翻译: 人工智能在战略决策中的应用：企业家与投资者的实证研究](2024年08月16日/Artificial_Intelligence_and_Strategic_Decision-Making_Evidence_from_Entrepreneurs_and_Investors.md)
-
-- [Collaborative Cross-modal Fusion with Large Language Model for Recommendation](2024年08月16日/Collaborative_Cross-modal_Fusion_with_Large_Language_Model_for_Recommendation.md)
-
-    - [翻译: 大型语言模型助力协同跨模态融合，提升推荐系统性能](2024年08月16日/Collaborative_Cross-modal_Fusion_with_Large_Language_Model_for_Recommendation.md)
-
-- [CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking](2024年08月16日/CommunityKG-RAG_Leveraging_Community_Structures_in_Knowledge_Graphs_for_Advanced_Retrieval-Augmented_Generation_in_Fact-Checking.md)
-
-    - [翻译: CommunityKG-RAG：借助知识图谱的社区结构，提升事实核查中的检索增强生成技术](2024年08月16日/CommunityKG-RAG_Leveraging_Community_Structures_in_Knowledge_Graphs_for_Advanced_Retrieval-Augmented_Generation_in_Fact-Checking.md)
-
 - [ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
 
     - [翻译: ECG-Chat：一款专为心脏疾病诊断设计的大型 ECG 语言模型](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
 
-- [Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
-
-    - [翻译: 大型语言模型或许并不在意你的言辞，提示格式往往比描述更为有效。](2024年08月16日/Large_Language_Models_Might_Not_Care_What_You_Are_Saying_Prompt_Format_Beats_Descriptions.md)
-
 - [LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
 
     - [翻译: LLM 对输出格式有偏好！我们系统地评估并尝试减轻这种输出格式偏差。](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
-
-- [Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning](2024年08月16日/Math-PUMA_Progressive_Upward_Multimodal_Alignment_to_Enhance_Mathematical_Reasoning.md)
-
-    - [翻译: Math-PUMA：通过逐步向上多模态对齐，提升数学推理能力](2024年08月16日/Math-PUMA_Progressive_Upward_Multimodal_Alignment_to_Enhance_Mathematical_Reasoning.md)
-
-- [Meta Knowledge for Retrieval Augmented Large Language Models](2024年08月16日/Meta_Knowledge_for_Retrieval_Augmented_Large_Language_Models.md)
-
-    - [翻译: 元知识在增强检索型大型语言模型中的应用](2024年08月16日/Meta_Knowledge_for_Retrieval_Augmented_Large_Language_Models.md)
 
 - [Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models](2024年08月16日/Retrieval-augmented_Few-shot_Medical_Image_Segmentation_with_Foundation_Models.md)
 
