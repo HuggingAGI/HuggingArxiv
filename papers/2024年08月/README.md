@@ -22,10 +22,6 @@
 
     - [翻译: 归因分析结合模型编辑，通过 VisEdit 技术，助力视觉语言模型知识校正的进步。](2024年08月19日/Attribution_Analysis_Meets_Model_Editing_Advancing_Knowledge_Correction_in_Vision_Language_Models_with_VisEdit.md)
 
-- [AutoML-guided Fusion of Entity and LLM-based representations](2024年08月19日/AutoML-guided_Fusion_of_Entity_and_LLM-based_representations.md)
-
-    - [翻译: AutoML 引导下的实体与 LLM 表示融合](2024年08月19日/AutoML-guided_Fusion_of_Entity_and_LLM-based_representations.md)
-
 - [Benchmarking LLMs for Translating Classical Chinese Poetry:Evaluating Adequacy, Fluency, and Elegance](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
 
     - [翻译: 本研究旨在通过基准测试，评估 LLM 在翻译古典中文诗歌时的充分性、流畅性和优雅性。](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
@@ -37,10 +33,6 @@
 - [CMoralEval: A Moral Evaluation Benchmark for Chinese Large Language Models](2024年08月19日/CMoralEval_A_Moral_Evaluation_Benchmark_for_Chinese_Large_Language_Models.md)
 
     - [翻译: CMoralEval：专为中国大型语言模型设计的道德评估基准](2024年08月19日/CMoralEval_A_Moral_Evaluation_Benchmark_for_Chinese_Large_Language_Models.md)
-
-- [Cross-composition Feature Disentanglement for Compositional Zero-shot Learning](2024年08月19日/Cross-composition_Feature_Disentanglement_for_Compositional_Zero-shot_Learning.md)
-
-    - [翻译: 跨组合特征解耦助力组合零-shot学习](2024年08月19日/Cross-composition_Feature_Disentanglement_for_Compositional_Zero-shot_Learning.md)
 
 - [Customizing Language Models with Instance-wise LoRA for Sequential Recommendation](2024年08月19日/Customizing_Language_Models_with_Instance-wise_LoRA_for_Sequential_Recommendation.md)
 
@@ -86,17 +78,9 @@
 
     - [翻译: LongVILA：扩展长上下文视觉语言模型以适应长视频处理](2024年08月19日/LongVILA_Scaling_Long-Context_Visual_Language_Models_for_Long_Videos.md)
 
-- [MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation](2024年08月19日/MAPLE_Enhancing_Review_Generation_with_Multi-Aspect_Prompt_LEarning_in_Explainable_Recommendation.md)
-
-    - [翻译: MAPLE：借助多方面提示学习，在可解释推荐系统中提升评论生成质量](2024年08月19日/MAPLE_Enhancing_Review_Generation_with_Multi-Aspect_Prompt_LEarning_in_Explainable_Recommendation.md)
-
 - [Microscopic Analysis on LLM players via Social Deduction Game](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
 
     - [翻译: 借助社交推理游戏，深入剖析 LLM 玩家的微观行为](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
-
-- [Minor DPO reject penalty to increase training robustness](2024年08月19日/Minor_DPO_reject_penalty_to_increase_training_robustness.md)
-
-    - [翻译: 微调DPO拒绝惩罚，增强训练稳定性](2024年08月19日/Minor_DPO_reject_penalty_to_increase_training_robustness.md)
 
 - [Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
 
@@ -114,10 +98,6 @@
 
     - [翻译: 行人属性识别领域迎来新挑战，我们推出全新基准数据集，并构建大型语言模型增强框架，助力该领域发展。](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
 
-- [Performance Law of Large Language Models](2024年08月19日/Performance_Law_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的性能法则](2024年08月19日/Performance_Law_of_Large_Language_Models.md)
-
 - [PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
 
     - [翻译: PLUTUS，一款精心预训练的大型统一Transformer模型，能够揭示金融时间序列中的规律。](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
@@ -129,10 +109,6 @@
 - [R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
 
     - [翻译: R2GenCSR：利用大型语言模型，为X射线医学报告生成精选上下文样本](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
-
-- [Ranking Generated Answers: On the Agreement of Retrieval Models with Humans on Consumer Health Questions](2024年08月19日/Ranking_Generated_Answers_On_the_Agreement_of_Retrieval_Models_with_Humans_on_Consumer_Health_Questions.md)
-
-    - [翻译: 探讨检索模型与人类在消费者健康问题答案排序上的共识](2024年08月19日/Ranking_Generated_Answers_On_the_Agreement_of_Retrieval_Models_with_Humans_on_Consumer_Health_Questions.md)
 
 - [Rhyme-aware Chinese lyric generator based on GPT](2024年08月19日/Rhyme-aware_Chinese_lyric_generator_based_on_GPT.md)
 
