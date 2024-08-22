@@ -18,10 +18,6 @@
 
     - [翻译: 大型语言模型与检索增强生成助力碳足迹核算](2024年08月19日/Carbon_Footprint_Accounting_Driven_by_Large_Language_Models_and_Retrieval-augmented_Generation.md)
 
-- [CMoralEval: A Moral Evaluation Benchmark for Chinese Large Language Models](2024年08月19日/CMoralEval_A_Moral_Evaluation_Benchmark_for_Chinese_Large_Language_Models.md)
-
-    - [翻译: CMoralEval：专为中国大型语言模型设计的道德评估基准](2024年08月19日/CMoralEval_A_Moral_Evaluation_Benchmark_for_Chinese_Large_Language_Models.md)
-
 - [Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
 
     - [翻译: 自动驾驶中的边缘-云协同运动规划，借助大型语言模型实现。](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
@@ -33,10 +29,6 @@
 - [Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
 
     - [翻译: 驾驭多模态大型语言模型，实现多模态序列推荐](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
-
-- [Importance Weighting Can Help Large Language Models Self-Improve](2024年08月19日/Importance_Weighting_Can_Help_Large_Language_Models_Self-Improve.md)
-
-    - [翻译: 通过重要性加权，大型语言模型能够实现自我提升。](2024年08月19日/Importance_Weighting_Can_Help_Large_Language_Models_Self-Improve.md)
 
 - [Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
 
@@ -54,21 +46,9 @@
 
     - [翻译: 分子图表示学习：融合大型语言模型与领域专用小模型](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
 
-- [Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models](2024年08月19日/Multilingual_Needle_in_a_Haystack_Investigating_Long-Context_Behavior_of_Multilingual_Large_Language_Models.md)
-
-    - [翻译: 在多语言的海洋中寻找针尖：探索多语言大型语言模型在长上下文中的表现](2024年08月19日/Multilingual_Needle_in_a_Haystack_Investigating_Long-Context_Behavior_of_Multilingual_Large_Language_Models.md)
-
-- [Paired Completion: Flexible Quantification of Issue-framing at Scale with LLMs](2024年08月19日/Paired_Completion_Flexible_Quantification_of_Issue-framing_at_Scale_with_LLMs.md)
-
-    - [翻译: Paired Completion 方法利用 LLM 实现大规模问题框架的灵活量化。](2024年08月19日/Paired_Completion_Flexible_Quantification_of_Issue-framing_at_Scale_with_LLMs.md)
-
 - [Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
 
     - [翻译: 行人属性识别领域迎来新挑战，我们推出全新基准数据集，并构建大型语言模型增强框架，助力该领域发展。](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
-
-- [PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
-
-    - [翻译: PLUTUS，一款精心预训练的大型统一Transformer模型，能够揭示金融时间序列中的规律。](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
 
 - [R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
 
@@ -81,10 +61,6 @@
 - [SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
 
     - [翻译: SMILE：基于预训练模型，实现零-shot 构建稀疏低秩专家混合体](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
-
-- [Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning](2024年08月19日/Strategic_Demonstration_Selection_for_Improved_Fairness_in_LLM_In-Context_Learning.md)
-
-    - [翻译: 为提升 LLM 上下文学习中的公平性，我们探讨战略性的演示选择策略。](2024年08月19日/Strategic_Demonstration_Selection_for_Improved_Fairness_in_LLM_In-Context_Learning.md)
 
 - [Transferring Backdoors between Large Language Models by Knowledge Distillation](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
 
