@@ -260,17 +260,9 @@
 
     - [翻译: 借助提示学习，我们能在小说中精准定位引述的说话人与听话者。](2024年08月18日/Identifying_Speakers_and_Addressees_of_Quotations_in_Novels_with_Prompt_Learning.md)
 
-- [Image-Based Geolocation Using Large Vision-Language Models](2024年08月18日/Image-Based_Geolocation_Using_Large_Vision-Language_Models.md)
-
-    - [翻译: 利用大型视觉-语言模型进行图像地理定位](2024年08月18日/Image-Based_Geolocation_Using_Large_Vision-Language_Models.md)
-
 - [Impact of Large Language Models of Code on Fault Localization](2024年08月18日/Impact_of_Large_Language_Models_of_Code_on_Fault_Localization.md)
 
     - [翻译: 大型语言模型在代码故障定位中的影响](2024年08月18日/Impact_of_Large_Language_Models_of_Code_on_Fault_Localization.md)
-
-- [Improving and Assessing the Fidelity of Large Language Models Alignment to Online Communities](2024年08月18日/Improving_and_Assessing_the_Fidelity_of_Large_Language_Models_Alignment_to_Online_Communities.md)
-
-    - [翻译: 优化并评估大型语言模型与在线社区的契合度](2024年08月18日/Improving_and_Assessing_the_Fidelity_of_Large_Language_Models_Alignment_to_Online_Communities.md)
 
 - [MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair](2024年08月18日/MergeRepair_An_Exploratory_Study_on_Merging_Task-Specific_Adapters_in_Code_LLMs_for_Automated_Program_Repair.md)
 
@@ -295,10 +287,6 @@
 - [Offline RLHF Methods Need More Accurate Supervision Signals](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
 
     - [翻译: 离线强化学习人类反馈（RLHF）方法亟需更精准的监督信号指引。](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
-
-- [Out-of-distribution generalization via composition: a lens through induction heads in Transformers](2024年08月18日/Out-of-distribution_generalization_via_composition_a_lens_through_induction_heads_in_Transformers.md)
-
-    - [翻译: 通过组合实现分布外泛化，这一视角通过 Transformer 中的归纳头得以透视。](2024年08月18日/Out-of-distribution_generalization_via_composition_a_lens_through_induction_heads_in_Transformers.md)
 
 - [PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding](2024年08月18日/PA-LLaVA_A_Large_Language-Vision_Assistant_for_Human_Pathology_Image_Understanding.md)
 
@@ -343,20 +331,6 @@
 - [Using ChatGPT to Score Essays and Short-Form Constructed Responses](2024年08月18日/Using_ChatGPT_to_Score_Essays_and_Short-Form_Constructed_Responses.md)
 
     - [翻译: 利用 ChatGPT 评估作文与简短构建性回答](2024年08月18日/Using_ChatGPT_to_Score_Essays_and_Short-Form_Constructed_Responses.md)
-
-2024年08月17日
-
-- [Characterizing and Evaluating the Reliability of LLMs against Jailbreak Attacks](2024年08月17日/Characterizing_and_Evaluating_the_Reliability_of_LLMs_against_Jailbreak_Attacks.md)
-
-    - [翻译: 探究与评估 LLM 在面对越狱攻击时的可靠性](2024年08月17日/Characterizing_and_Evaluating_the_Reliability_of_LLMs_against_Jailbreak_Attacks.md)
-
-- [Evaluating Usability and Engagement of Large Language Models in Virtual Reality for Traditional Scottish Curling](2024年08月17日/Evaluating_Usability_and_Engagement_of_Large_Language_Models_in_Virtual_Reality_for_Traditional_Scottish_Curling.md)
-
-    - [翻译: 探究大型语言模型在虚拟现实环境下对传统苏格兰冰壶体验的可用性与用户参与度](2024年08月17日/Evaluating_Usability_and_Engagement_of_Large_Language_Models_in_Virtual_Reality_for_Traditional_Scottish_Curling.md)
-
-- [TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems](2024年08月17日/TC-RAGTuring-Complete_RAG's_Case_study_on_Medical_LLM_Systems.md)
-
-    - [翻译: TC-RAG：探索图灵完备 RAG 在医疗大型语言模型系统中的应用案例](2024年08月17日/TC-RAGTuring-Complete_RAG's_Case_study_on_Medical_LLM_Systems.md)
 
 2024年08月05日
 
