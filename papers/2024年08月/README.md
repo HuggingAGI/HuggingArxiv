@@ -204,10 +204,6 @@
 
     - [翻译: 解毒剂：大型语言模型在有害微调后的安全对齐策略](2024年08月18日/Antidote_Post-fine-tuning_Safety_Alignment_for_Large_Language_Models_against_Harmful_Fine-tuning.md)
 
-- [A Strategy to Combine 1stGen Transformers and Open LLMs for Automatic Text Classification](2024年08月18日/A_Strategy_to_Combine_1stGen_Transformers_and_Open_LLMs_for_Automatic_Text_Classification.md)
-
-    - [翻译: 结合第一代 Transformers 与开放 LLMs 的自动文本分类策略](2024年08月18日/A_Strategy_to_Combine_1stGen_Transformers_and_Open_LLMs_for_Automatic_Text_Classification.md)
-
 - [A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition](2024年08月18日/A_Transcription_Prompt-based_Efficient_Audio_Large_Language_Model_for_Robust_Speech_Recognition.md)
 
     - [翻译: 我们提出了一种基于转录提示的高效音频大型语言模型，旨在提升语音识别的鲁棒性。](2024年08月18日/A_Transcription_Prompt-based_Efficient_Audio_Large_Language_Model_for_Robust_Speech_Recognition.md)
@@ -232,10 +228,6 @@
 
     - [翻译: Galápagos：借助 LLMs 实现自动化多版本编程](2024年08月18日/Galápagos_Automated_N-Version_Programming_with_LLMs.md)
 
-- [GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts](2024年08月18日/GANPrompt_Enhancing_Robustness_in_LLM-Based_Recommendations_with_GAN-Enhanced_Diversity_Prompts.md)
-
-    - [翻译: GANPrompt 利用 GAN 增强的多样性提示，提升基于 LLM 的推荐系统的鲁棒性。](2024年08月18日/GANPrompt_Enhancing_Robustness_in_LLM-Based_Recommendations_with_GAN-Enhanced_Diversity_Prompts.md)
-
 - [Grammatical Error Feedback: An Implicit Evaluation Approach](2024年08月18日/Grammatical_Error_Feedback_An_Implicit_Evaluation_Approach.md)
 
     - [翻译: 语法错误反馈：隐式评估新途径](2024年08月18日/Grammatical_Error_Feedback_An_Implicit_Evaluation_Approach.md)
@@ -243,14 +235,6 @@
 - [HySem: A context length optimized LLM pipeline for unstructured tabular extraction](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
 
     - [翻译: HySem：专为非结构化表格提取设计的，优化上下文长度的 LLM 处理流程](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
-
-- [Identifying Speakers and Addressees of Quotations in Novels with Prompt Learning](2024年08月18日/Identifying_Speakers_and_Addressees_of_Quotations_in_Novels_with_Prompt_Learning.md)
-
-    - [翻译: 借助提示学习，我们能在小说中精准定位引述的说话人与听话者。](2024年08月18日/Identifying_Speakers_and_Addressees_of_Quotations_in_Novels_with_Prompt_Learning.md)
-
-- [Impact of Large Language Models of Code on Fault Localization](2024年08月18日/Impact_of_Large_Language_Models_of_Code_on_Fault_Localization.md)
-
-    - [翻译: 大型语言模型在代码故障定位中的影响](2024年08月18日/Impact_of_Large_Language_Models_of_Code_on_Fault_Localization.md)
 
 - [MoDeGPT: Modular Decomposition for Large Language Model Compression](2024年08月18日/MoDeGPT_Modular_Decomposition_for_Large_Language_Model_Compression.md)
 
@@ -260,10 +244,6 @@
 
     - [翻译: Moonshine：精炼游戏内容生成器，打造可控的生成模型](2024年08月18日/Moonshine_Distilling_Game_Content_Generators_into_Steerable_Generative_Models.md)
 
-- [NAVERO: Unlocking Fine-Grained Semantics for Video-Language Compositionality](2024年08月18日/NAVERO_Unlocking_Fine-Grained_Semantics_for_Video-Language_Compositionality.md)
-
-    - [翻译: NAVERO：揭秘视频与语言组合中的细粒度语义奥秘](2024年08月18日/NAVERO_Unlocking_Fine-Grained_Semantics_for_Video-Language_Compositionality.md)
-
 - [Offline RLHF Methods Need More Accurate Supervision Signals](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
 
     - [翻译: 离线强化学习人类反馈（RLHF）方法亟需更精准的监督信号指引。](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
@@ -271,10 +251,6 @@
 - [PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding](2024年08月18日/PA-LLaVA_A_Large_Language-Vision_Assistant_for_Human_Pathology_Image_Understanding.md)
 
     - [翻译: PA-LLaVA：专为人类病理图像理解设计的大型语言与视觉助手](2024年08月18日/PA-LLaVA_A_Large_Language-Vision_Assistant_for_Human_Pathology_Image_Understanding.md)
-
-- [Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts](2024年08月18日/Recording_for_Eyes,_Not_Echoing_to_Ears_Contextualized_Spoken-to-Written_Conversion_of_ASR_Transcripts.md)
-
-    - [翻译: 记录于眼，非回响于耳：基于上下文的 ASR 转录口语转书面语转换](2024年08月18日/Recording_for_Eyes,_Not_Echoing_to_Ears_Contextualized_Spoken-to-Written_Conversion_of_ASR_Transcripts.md)
 
 - [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](2024年08月18日/Reefknot_A_Comprehensive_Benchmark_for_Relation_Hallucination_Evaluation,_Analysis_and_Mitigation_in_Multimodal_Large_Language_Models.md)
 
