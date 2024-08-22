@@ -196,10 +196,6 @@
 
     - [翻译: 探究大型语言模型与人类在随机数生成任务中的表现差异](2024年08月18日/A_Comparison_of_Large_Language_Model_and_Human_Performance_on_Random_Number_Generation_Tasks.md)
 
-- [Acquiring Bidirectionality via Large and Small Language Models](2024年08月18日/Acquiring_Bidirectionality_via_Large_and_Small_Language_Models.md)
-
-    - [翻译: 利用大型与小型语言模型实现双向能力](2024年08月18日/Acquiring_Bidirectionality_via_Large_and_Small_Language_Models.md)
-
 - [Activated Parameter Locating via Causal Intervention for Model Merging](2024年08月18日/Activated_Parameter_Locating_via_Causal_Intervention_for_Model_Merging.md)
 
     - [翻译: 利用因果干预技术，精准定位激活参数，优化模型合并过程](2024年08月18日/Activated_Parameter_Locating_via_Causal_Intervention_for_Model_Merging.md)
@@ -244,14 +240,6 @@
 
     - [翻译: 语法错误反馈：隐式评估新途径](2024年08月18日/Grammatical_Error_Feedback_An_Implicit_Evaluation_Approach.md)
 
-- [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](2024年08月18日/HiAgent_Hierarchical_Working_Memory_Management_for_Solving_Long-Horizon_Agent_Tasks_with_Large_Language_Model.md)
-
-    - [翻译: HiAgent：通过分层工作记忆管理，助力大型语言模型解决长周期代理任务](2024年08月18日/HiAgent_Hierarchical_Working_Memory_Management_for_Solving_Long-Horizon_Agent_Tasks_with_Large_Language_Model.md)
-
-- [How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments](2024年08月18日/How_to_Make_the_Most_of_LLMs'_Grammatical_Knowledge_for_Acceptability_Judgments.md)
-
-    - [翻译: 挖掘 LLMs 语法知识，优化可接受性判断](2024年08月18日/How_to_Make_the_Most_of_LLMs'_Grammatical_Knowledge_for_Acceptability_Judgments.md)
-
 - [HySem: A context length optimized LLM pipeline for unstructured tabular extraction](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
 
     - [翻译: HySem：专为非结构化表格提取设计的，优化上下文长度的 LLM 处理流程](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
@@ -263,10 +251,6 @@
 - [Impact of Large Language Models of Code on Fault Localization](2024年08月18日/Impact_of_Large_Language_Models_of_Code_on_Fault_Localization.md)
 
     - [翻译: 大型语言模型在代码故障定位中的影响](2024年08月18日/Impact_of_Large_Language_Models_of_Code_on_Fault_Localization.md)
-
-- [MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair](2024年08月18日/MergeRepair_An_Exploratory_Study_on_Merging_Task-Specific_Adapters_in_Code_LLMs_for_Automated_Program_Repair.md)
-
-    - [翻译: MergeRepair：探索代码 LLM 中任务特定适配器的合并，以实现自动化程序修复的深入研究](2024年08月18日/MergeRepair_An_Exploratory_Study_on_Merging_Task-Specific_Adapters_in_Code_LLMs_for_Automated_Program_Repair.md)
 
 - [MoDeGPT: Modular Decomposition for Large Language Model Compression](2024年08月18日/MoDeGPT_Modular_Decomposition_for_Large_Language_Model_Compression.md)
 
@@ -280,10 +264,6 @@
 
     - [翻译: NAVERO：揭秘视频与语言组合中的细粒度语义奥秘](2024年08月18日/NAVERO_Unlocking_Fine-Grained_Semantics_for_Video-Language_Compositionality.md)
 
-- [No Such Thing as a General Learner: Language models and their dual optimization](2024年08月18日/No_Such_Thing_as_a_General_Learner_Language_models_and_their_dual_optimization.md)
-
-    - [翻译: 不存在通用学习者：探讨语言模型的双重优化之道](2024年08月18日/No_Such_Thing_as_a_General_Learner_Language_models_and_their_dual_optimization.md)
-
 - [Offline RLHF Methods Need More Accurate Supervision Signals](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
 
     - [翻译: 离线强化学习人类反馈（RLHF）方法亟需更精准的监督信号指引。](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
@@ -291,10 +271,6 @@
 - [PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding](2024年08月18日/PA-LLaVA_A_Large_Language-Vision_Assistant_for_Human_Pathology_Image_Understanding.md)
 
     - [翻译: PA-LLaVA：专为人类病理图像理解设计的大型语言与视觉助手](2024年08月18日/PA-LLaVA_A_Large_Language-Vision_Assistant_for_Human_Pathology_Image_Understanding.md)
-
-- [PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis](2024年08月18日/PanoSent_A_Panoptic_Sextuple_Extraction_Benchmark_for_Multimodal_Conversational_Aspect-based_Sentiment_Analysis.md)
-
-    - [翻译: PanoSent：一款全景式六重提取基准，专为多模态对话中的基于方面的情感分析设计](2024年08月18日/PanoSent_A_Panoptic_Sextuple_Extraction_Benchmark_for_Multimodal_Conversational_Aspect-based_Sentiment_Analysis.md)
 
 - [Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts](2024年08月18日/Recording_for_Eyes,_Not_Echoing_to_Ears_Contextualized_Spoken-to-Written_Conversion_of_ASR_Transcripts.md)
 
