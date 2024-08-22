@@ -14,10 +14,6 @@
 
     - [翻译: 大型语言模型在自动问题生成领域的应用：以 ChatGLM 为全国教师资格考试生成结构化问题为例的案例研究](2024年08月19日/Application_of_Large_Language_Models_in_Automated_Question_Generation_A_Case_Study_on_ChatGLM's_Structured_Questions_for_National_Teacher_Certification_Exams.md)
 
-- [Are Large Language Models More Honest in Their Probabilistic or Verbalized Confidence?](2024年08月19日/Are_Large_Language_Models_More_Honest_in_Their_Probabilistic_or_Verbalized_Confidence.md)
-
-    - [翻译: 大型语言模型在表达自信时，是通过概率性还是口头方式更显得诚实？](2024年08月19日/Are_Large_Language_Models_More_Honest_in_Their_Probabilistic_or_Verbalized_Confidence.md)
-
 - [ARMADA: Attribute-Based Multimodal Data Augmentation](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
 
     - [翻译: ARMADA：一种基于属性的多模态数据增强技术](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
@@ -33,10 +29,6 @@
 - [Benchmarking LLMs for Translating Classical Chinese Poetry:Evaluating Adequacy, Fluency, and Elegance](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
 
     - [翻译: 本研究旨在通过基准测试，评估 LLM 在翻译古典中文诗歌时的充分性、流畅性和优雅性。](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
-
-- [Bridging the Language Gap: Enhancing Multilingual Prompt-Based Code Generation in LLMs via Zero-Shot Cross-Lingual Transfer](2024年08月19日/Bridging_the_Language_Gap_Enhancing_Multilingual_Prompt-Based_Code_Generation_in_LLMs_via_Zero-Shot_Cross-Lingual_Transfer.md)
-
-    - [翻译: 借助零-shot跨语言转移技术，我们正努力弥合语言间的鸿沟，以提升LLMs在多语言环境下基于提示的代码生成能力。](2024年08月19日/Bridging_the_Language_Gap_Enhancing_Multilingual_Prompt-Based_Code_Generation_in_LLMs_via_Zero-Shot_Cross-Lingual_Transfer.md)
 
 - [Carbon Footprint Accounting Driven by Large Language Models and Retrieval-augmented Generation](2024年08月19日/Carbon_Footprint_Accounting_Driven_by_Large_Language_Models_and_Retrieval-augmented_Generation.md)
 
@@ -62,14 +54,6 @@
 
     - [翻译: 自动驾驶中的边缘-云协同运动规划，借助大型语言模型实现。](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
 
-- [Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting](2024年08月19日/Enhance_Modality_Robustness_in_Text-Centric_Multimodal_Alignment_with_Adversarial_Prompting.md)
-
-    - [翻译: 通过对抗性提示，提升以文本为核心的多模态对齐中的模态鲁棒性](2024年08月19日/Enhance_Modality_Robustness_in_Text-Centric_Multimodal_Alignment_with_Adversarial_Prompting.md)
-
-- [FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant](2024年08月19日/FFAA_Multimodal_Large_Language_Model_based_Explainable_Open-World_Face_Forgery_Analysis_Assistant.md)
-
-    - [翻译: FFAA：一款基于多模态大型语言模型的助手，专为开放世界中的人脸伪造分析提供可解释性支持。](2024年08月19日/FFAA_Multimodal_Large_Language_Model_based_Explainable_Open-World_Face_Forgery_Analysis_Assistant.md)
-
 - [Geometry Informed Tokenization of Molecules for Language Model Generation](2024年08月19日/Geometry_Informed_Tokenization_of_Molecules_for_Language_Model_Generation.md)
 
     - [翻译: 分子几何信息引导的标记化技术，助力语言模型生成](2024年08月19日/Geometry_Informed_Tokenization_of_Molecules_for_Language_Model_Generation.md)
@@ -78,17 +62,9 @@
 
     - [翻译: GLIMMER：融合图与词汇特征，革新无监督多文档摘要技术](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
 
-- [GoNoGo: An Efficient LLM-based Multi-Agent System for Streamlining Automotive Software Release Decision-Making](2024年08月19日/GoNoGo_An_Efficient_LLM-based_Multi-Agent_System_for_Streamlining_Automotive_Software_Release_Decision-Making.md)
-
-    - [翻译: GoNoGo：基于LLM的高效多智能体系统，旨在简化汽车软件发布决策流程。](2024年08月19日/GoNoGo_An_Efficient_LLM-based_Multi-Agent_System_for_Streamlining_Automotive_Software_Release_Decision-Making.md)
-
 - [Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
 
     - [翻译: 驾驭多模态大型语言模型，实现多模态序列推荐](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
-
-- [Icing on the Cake: Automatic Code Summarization at Ericsson](2024年08月19日/Icing_on_the_Cake_Automatic_Code_Summarization_at_Ericsson.md)
-
-    - [翻译: 锦上添花：Ericsson 的自动代码摘要技术](2024年08月19日/Icing_on_the_Cake_Automatic_Code_Summarization_at_Ericsson.md)
 
 - [Importance Weighting Can Help Large Language Models Self-Improve](2024年08月19日/Importance_Weighting_Can_Help_Large_Language_Models_Self-Improve.md)
 
