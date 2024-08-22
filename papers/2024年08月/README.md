@@ -22,21 +22,9 @@
 
     - [翻译: CMoralEval：专为中国大型语言模型设计的道德评估基准](2024年08月19日/CMoralEval_A_Moral_Evaluation_Benchmark_for_Chinese_Large_Language_Models.md)
 
-- [Customizing Language Models with Instance-wise LoRA for Sequential Recommendation](2024年08月19日/Customizing_Language_Models_with_Instance-wise_LoRA_for_Sequential_Recommendation.md)
-
-    - [翻译: 利用实例级 LoRA 技术，个性化定制语言模型，以优化顺序推荐效果。](2024年08月19日/Customizing_Language_Models_with_Instance-wise_LoRA_for_Sequential_Recommendation.md)
-
-- [Demystifying the Communication Characteristics for Distributed Transformer Models](2024年08月19日/Demystifying_the_Communication_Characteristics_for_Distributed_Transformer_Models.md)
-
-    - [翻译: 探索分布式Transformer模型的通信奥秘](2024年08月19日/Demystifying_the_Communication_Characteristics_for_Distributed_Transformer_Models.md)
-
 - [Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
 
     - [翻译: 自动驾驶中的边缘-云协同运动规划，借助大型语言模型实现。](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
-
-- [Geometry Informed Tokenization of Molecules for Language Model Generation](2024年08月19日/Geometry_Informed_Tokenization_of_Molecules_for_Language_Model_Generation.md)
-
-    - [翻译: 分子几何信息引导的标记化技术，助力语言模型生成](2024年08月19日/Geometry_Informed_Tokenization_of_Molecules_for_Language_Model_Generation.md)
 
 - [GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
 
@@ -49,10 +37,6 @@
 - [Importance Weighting Can Help Large Language Models Self-Improve](2024年08月19日/Importance_Weighting_Can_Help_Large_Language_Models_Self-Improve.md)
 
     - [翻译: 通过重要性加权，大型语言模型能够实现自我提升。](2024年08月19日/Importance_Weighting_Can_Help_Large_Language_Models_Self-Improve.md)
-
-- [In-Context Learning with Representations: Contextual Generalization of Trained Transformers](2024年08月19日/In-Context_Learning_with_Representations_Contextual_Generalization_of_Trained_Transformers.md)
-
-    - [翻译: 训练后的 Transformer 在基于表示的上下文学习中展现出上下文泛化能力。](2024年08月19日/In-Context_Learning_with_Representations_Contextual_Generalization_of_Trained_Transformers.md)
 
 - [Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
 
@@ -89,14 +73,6 @@
 - [R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
 
     - [翻译: R2GenCSR：利用大型语言模型，为X射线医学报告生成精选上下文样本](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
-
-- [Rhyme-aware Chinese lyric generator based on GPT](2024年08月19日/Rhyme-aware_Chinese_lyric_generator_based_on_GPT.md)
-
-    - [翻译: 基于 GPT 技术的中文歌词生成器，具备韵律感知功能。](2024年08月19日/Rhyme-aware_Chinese_lyric_generator_based_on_GPT.md)
-
-- [SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP](2024年08月19日/SANER_Annotation-free_Societal_Attribute_Neutralizer_for_Debiasing_CLIP.md)
-
-    - [翻译: SANER：一款无需注释的社会属性中和工具，专为消除CLIP中的偏见而设计。](2024年08月19日/SANER_Annotation-free_Societal_Attribute_Neutralizer_for_Debiasing_CLIP.md)
 
 - [Self-Directed Turing Test for Large Language Models](2024年08月19日/Self-Directed_Turing_Test_for_Large_Language_Models.md)
 
