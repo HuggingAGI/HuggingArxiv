@@ -192,29 +192,13 @@
 
 2024年08月18日
 
-- [A Comparison of Large Language Model and Human Performance on Random Number Generation Tasks](2024年08月18日/A_Comparison_of_Large_Language_Model_and_Human_Performance_on_Random_Number_Generation_Tasks.md)
-
-    - [翻译: 探究大型语言模型与人类在随机数生成任务中的表现差异](2024年08月18日/A_Comparison_of_Large_Language_Model_and_Human_Performance_on_Random_Number_Generation_Tasks.md)
-
-- [Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning](2024年08月18日/Antidote_Post-fine-tuning_Safety_Alignment_for_Large_Language_Models_against_Harmful_Fine-tuning.md)
-
-    - [翻译: 解毒剂：大型语言模型在有害微调后的安全对齐策略](2024年08月18日/Antidote_Post-fine-tuning_Safety_Alignment_for_Large_Language_Models_against_Harmful_Fine-tuning.md)
-
 - [Challenges and Responses in the Practice of Large Language Models](2024年08月18日/Challenges_and_Responses_in_the_Practice_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型实践中面临的挑战及其应对策略](2024年08月18日/Challenges_and_Responses_in_the_Practice_of_Large_Language_Models.md)
 
-- [Does Thought Require Sensory Grounding? From Pure Thinkers to Large Language Models](2024年08月18日/Does_Thought_Require_Sensory_Grounding_From_Pure_Thinkers_to_Large_Language_Models.md)
-
-    - [翻译: 思考是否依赖于感官体验？从抽象思维者到现代大型语言模型，这一问题引发了广泛探讨。](2024年08月18日/Does_Thought_Require_Sensory_Grounding_From_Pure_Thinkers_to_Large_Language_Models.md)
-
 - [HySem: A context length optimized LLM pipeline for unstructured tabular extraction](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
 
     - [翻译: HySem：专为非结构化表格提取设计的，优化上下文长度的 LLM 处理流程](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
-
-- [MoDeGPT: Modular Decomposition for Large Language Model Compression](2024年08月18日/MoDeGPT_Modular_Decomposition_for_Large_Language_Model_Compression.md)
-
-    - [翻译: MoDeGPT：通过模块化分解实现大型语言模型的高效压缩](2024年08月18日/MoDeGPT_Modular_Decomposition_for_Large_Language_Model_Compression.md)
 
 - [Moonshine: Distilling Game Content Generators into Steerable Generative Models](2024年08月18日/Moonshine_Distilling_Game_Content_Generators_into_Steerable_Generative_Models.md)
 
@@ -227,14 +211,6 @@
 - [The temporal conceptual data modelling language TREND](2024年08月18日/The_temporal_conceptual_data_modelling_language_TREND.md)
 
     - [翻译: TREND 是一种时间概念数据建模语言，专注于时间维度的数据表达与处理。](2024年08月18日/The_temporal_conceptual_data_modelling_language_TREND.md)
-
-- [Towards Boosting LLMs-driven Relevance Modeling with Progressive Retrieved Behavior-augmented Prompting](2024年08月18日/Towards_Boosting_LLMs-driven_Relevance_Modeling_with_Progressive_Retrieved_Behavior-augmented_Prompting.md)
-
-    - [翻译: 探索通过逐步增强检索行为的提示，提升大型语言模型在相关性建模中的表现](2024年08月18日/Towards_Boosting_LLMs-driven_Relevance_Modeling_with_Progressive_Retrieved_Behavior-augmented_Prompting.md)
-
-- [Using ChatGPT to Score Essays and Short-Form Constructed Responses](2024年08月18日/Using_ChatGPT_to_Score_Essays_and_Short-Form_Constructed_Responses.md)
-
-    - [翻译: 利用 ChatGPT 评估作文与简短构建性回答](2024年08月18日/Using_ChatGPT_to_Score_Essays_and_Short-Form_Constructed_Responses.md)
 
 2024年08月05日
 
