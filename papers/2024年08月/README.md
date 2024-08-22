@@ -406,32 +406,6 @@
 
     - [翻译: V2X-VLM：借助大型视觉-语言模型，实现端到端的 V2X 协作自动驾驶](2024年08月17日/V2X-VLM_End-to-End_V2X_Cooperative_Autonomous_Driving_Through_Large_Vision-Language_Models.md)
 
-2024年08月16日
-
-- [AdaRank: Disagreement Based Module Rank Prediction for Low-rank Adaptation](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
-
-    - [翻译: AdaRank：利用分歧进行模块排名预测，专为低秩适应设计](2024年08月16日/AdaRank_Disagreement_Based_Module_Rank_Prediction_for_Low-rank_Adaptation.md)
-
-- [A Primer on Generative AI for Telecom: From Theory to Practice](2024年08月16日/A_Primer_on_Generative_AI_for_Telecom_From_Theory_to_Practice.md)
-
-    - [翻译: 电信领域生成式AI入门：理论与实践的融合](2024年08月16日/A_Primer_on_Generative_AI_for_Telecom_From_Theory_to_Practice.md)
-
-- [ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
-
-    - [翻译: ECG-Chat：一款专为心脏疾病诊断设计的大型 ECG 语言模型](2024年08月16日/ECG-Chat_A_Large_ECG-Language_Model_for_Cardiac_Disease_Diagnosis.md)
-
-- [LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
-
-    - [翻译: LLM 对输出格式有偏好！我们系统地评估并尝试减轻这种输出格式偏差。](2024年08月16日/LLMs_Are_Biased_Towards_Output_Formats!_Systematically_Evaluating_and_Mitigating_Output_Format_Bias_of_LLMs.md)
-
-- [Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models](2024年08月16日/Retrieval-augmented_Few-shot_Medical_Image_Segmentation_with_Foundation_Models.md)
-
-    - [翻译: 利用基础模型进行增强检索的少样本医学图像分割](2024年08月16日/Retrieval-augmented_Few-shot_Medical_Image_Segmentation_with_Foundation_Models.md)
-
-- [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
-
-    - [翻译: LLM 的联盟：多代理工作流程助力合成偏好优化数据集的生成](2024年08月16日/The_Fellowship_of_the_LLMs_Multi-Agent_Workflows_for_Synthetic_Preference_Optimization_Dataset_Generation.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
