@@ -224,14 +224,6 @@
 
     - [翻译: FASST：基于大型语言模型的快速同步语音翻译](2024年08月18日/FASST_Fast_LLM-based_Simultaneous_Speech_Translation.md)
 
-- [Galápagos: Automated N-Version Programming with LLMs](2024年08月18日/Galápagos_Automated_N-Version_Programming_with_LLMs.md)
-
-    - [翻译: Galápagos：借助 LLMs 实现自动化多版本编程](2024年08月18日/Galápagos_Automated_N-Version_Programming_with_LLMs.md)
-
-- [Grammatical Error Feedback: An Implicit Evaluation Approach](2024年08月18日/Grammatical_Error_Feedback_An_Implicit_Evaluation_Approach.md)
-
-    - [翻译: 语法错误反馈：隐式评估新途径](2024年08月18日/Grammatical_Error_Feedback_An_Implicit_Evaluation_Approach.md)
-
 - [HySem: A context length optimized LLM pipeline for unstructured tabular extraction](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
 
     - [翻译: HySem：专为非结构化表格提取设计的，优化上下文长度的 LLM 处理流程](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
@@ -244,29 +236,13 @@
 
     - [翻译: Moonshine：精炼游戏内容生成器，打造可控的生成模型](2024年08月18日/Moonshine_Distilling_Game_Content_Generators_into_Steerable_Generative_Models.md)
 
-- [Offline RLHF Methods Need More Accurate Supervision Signals](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
-
-    - [翻译: 离线强化学习人类反馈（RLHF）方法亟需更精准的监督信号指引。](2024年08月18日/Offline_RLHF_Methods_Need_More_Accurate_Supervision_Signals.md)
-
-- [PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding](2024年08月18日/PA-LLaVA_A_Large_Language-Vision_Assistant_for_Human_Pathology_Image_Understanding.md)
-
-    - [翻译: PA-LLaVA：专为人类病理图像理解设计的大型语言与视觉助手](2024年08月18日/PA-LLaVA_A_Large_Language-Vision_Assistant_for_Human_Pathology_Image_Understanding.md)
-
 - [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](2024年08月18日/Reefknot_A_Comprehensive_Benchmark_for_Relation_Hallucination_Evaluation,_Analysis_and_Mitigation_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: Reefknot：多模态大型语言模型中关系幻觉问题的全方位基准，涵盖评估、分析与缓解。](2024年08月18日/Reefknot_A_Comprehensive_Benchmark_for_Relation_Hallucination_Evaluation,_Analysis_and_Mitigation_in_Multimodal_Large_Language_Models.md)
 
-- [REFINE-LM: Mitigating Language Model Stereotypes via Reinforcement Learning](2024年08月18日/REFINE-LM_Mitigating_Language_Model_Stereotypes_via_Reinforcement_Learning.md)
-
-    - [翻译: REFINE-LM：利用强化学习缓解语言模型中的刻板印象](2024年08月18日/REFINE-LM_Mitigating_Language_Model_Stereotypes_via_Reinforcement_Learning.md)
-
 - [Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path](2024年08月18日/Revisiting_the_Graph_Reasoning_Ability_of_Large_Language_Models_Case_Studies_in_Translation,_Connectivity_and_Shortest_Path.md)
 
     - [翻译: 探索大型语言模型的图推理能力：通过翻译、连通性和最短路径的案例深入分析](2024年08月18日/Revisiting_the_Graph_Reasoning_Ability_of_Large_Language_Models_Case_Studies_in_Translation,_Connectivity_and_Shortest_Path.md)
-
-- [Simulating Field Experiments with Large Language Models](2024年08月18日/Simulating_Field_Experiments_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型进行现场实验模拟](2024年08月18日/Simulating_Field_Experiments_with_Large_Language_Models.md)
 
 - [SpeechEE: A Novel Benchmark for Speech Event Extraction](2024年08月18日/SpeechEE_A_Novel_Benchmark_for_Speech_Event_Extraction.md)
 
