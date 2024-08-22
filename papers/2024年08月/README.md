@@ -196,33 +196,17 @@
 
     - [翻译: 探究大型语言模型与人类在随机数生成任务中的表现差异](2024年08月18日/A_Comparison_of_Large_Language_Model_and_Human_Performance_on_Random_Number_Generation_Tasks.md)
 
-- [Activated Parameter Locating via Causal Intervention for Model Merging](2024年08月18日/Activated_Parameter_Locating_via_Causal_Intervention_for_Model_Merging.md)
-
-    - [翻译: 利用因果干预技术，精准定位激活参数，优化模型合并过程](2024年08月18日/Activated_Parameter_Locating_via_Causal_Intervention_for_Model_Merging.md)
-
 - [Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning](2024年08月18日/Antidote_Post-fine-tuning_Safety_Alignment_for_Large_Language_Models_against_Harmful_Fine-tuning.md)
 
     - [翻译: 解毒剂：大型语言模型在有害微调后的安全对齐策略](2024年08月18日/Antidote_Post-fine-tuning_Safety_Alignment_for_Large_Language_Models_against_Harmful_Fine-tuning.md)
-
-- [A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition](2024年08月18日/A_Transcription_Prompt-based_Efficient_Audio_Large_Language_Model_for_Robust_Speech_Recognition.md)
-
-    - [翻译: 我们提出了一种基于转录提示的高效音频大型语言模型，旨在提升语音识别的鲁棒性。](2024年08月18日/A_Transcription_Prompt-based_Efficient_Audio_Large_Language_Model_for_Robust_Speech_Recognition.md)
 
 - [Challenges and Responses in the Practice of Large Language Models](2024年08月18日/Challenges_and_Responses_in_the_Practice_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型实践中面临的挑战及其应对策略](2024年08月18日/Challenges_and_Responses_in_the_Practice_of_Large_Language_Models.md)
 
-- [CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination](2024年08月18日/CLIP-CID_Efficient_CLIP_Distillation_via_Cluster-Instance_Discrimination.md)
-
-    - [翻译: CLIP-CID：借助集群与实例的区分，实现CLIP的高效蒸馏](2024年08月18日/CLIP-CID_Efficient_CLIP_Distillation_via_Cluster-Instance_Discrimination.md)
-
 - [Does Thought Require Sensory Grounding? From Pure Thinkers to Large Language Models](2024年08月18日/Does_Thought_Require_Sensory_Grounding_From_Pure_Thinkers_to_Large_Language_Models.md)
 
     - [翻译: 思考是否依赖于感官体验？从抽象思维者到现代大型语言模型，这一问题引发了广泛探讨。](2024年08月18日/Does_Thought_Require_Sensory_Grounding_From_Pure_Thinkers_to_Large_Language_Models.md)
-
-- [FASST: Fast LLM-based Simultaneous Speech Translation](2024年08月18日/FASST_Fast_LLM-based_Simultaneous_Speech_Translation.md)
-
-    - [翻译: FASST：基于大型语言模型的快速同步语音翻译](2024年08月18日/FASST_Fast_LLM-based_Simultaneous_Speech_Translation.md)
 
 - [HySem: A context length optimized LLM pipeline for unstructured tabular extraction](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
 
@@ -239,14 +223,6 @@
 - [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](2024年08月18日/Reefknot_A_Comprehensive_Benchmark_for_Relation_Hallucination_Evaluation,_Analysis_and_Mitigation_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: Reefknot：多模态大型语言模型中关系幻觉问题的全方位基准，涵盖评估、分析与缓解。](2024年08月18日/Reefknot_A_Comprehensive_Benchmark_for_Relation_Hallucination_Evaluation,_Analysis_and_Mitigation_in_Multimodal_Large_Language_Models.md)
-
-- [Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path](2024年08月18日/Revisiting_the_Graph_Reasoning_Ability_of_Large_Language_Models_Case_Studies_in_Translation,_Connectivity_and_Shortest_Path.md)
-
-    - [翻译: 探索大型语言模型的图推理能力：通过翻译、连通性和最短路径的案例深入分析](2024年08月18日/Revisiting_the_Graph_Reasoning_Ability_of_Large_Language_Models_Case_Studies_in_Translation,_Connectivity_and_Shortest_Path.md)
-
-- [SpeechEE: A Novel Benchmark for Speech Event Extraction](2024年08月18日/SpeechEE_A_Novel_Benchmark_for_Speech_Event_Extraction.md)
-
-    - [翻译: SpeechEE：引领语音事件提取的新基准](2024年08月18日/SpeechEE_A_Novel_Benchmark_for_Speech_Event_Extraction.md)
 
 - [The temporal conceptual data modelling language TREND](2024年08月18日/The_temporal_conceptual_data_modelling_language_TREND.md)
 
