@@ -346,10 +346,6 @@
 
 2024年08月17日
 
-- [BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](2024年08月17日/BaThe_Defense_against_the_Jailbreak_Attack_in_Multimodal_Large_Language_Models_by_Treating_Harmful_Instruction_as_Backdoor_Trigger.md)
-
-    - [翻译: BaThe：在多模态大型语言模型中，通过将有毒指令视为后门触发点，有效抵御 Jailbreak 攻击。](2024年08月17日/BaThe_Defense_against_the_Jailbreak_Attack_in_Multimodal_Large_Language_Models_by_Treating_Harmful_Instruction_as_Backdoor_Trigger.md)
-
 - [Characterizing and Evaluating the Reliability of LLMs against Jailbreak Attacks](2024年08月17日/Characterizing_and_Evaluating_the_Reliability_of_LLMs_against_Jailbreak_Attacks.md)
 
     - [翻译: 探究与评估 LLM 在面对越狱攻击时的可靠性](2024年08月17日/Characterizing_and_Evaluating_the_Reliability_of_LLMs_against_Jailbreak_Attacks.md)
@@ -362,33 +358,13 @@
 
     - [翻译: CyberPal.AI：赋予 LLM 专家级网络安全指导](2024年08月17日/CyberPal.AI_Empowering_LLMs_with_Expert-Driven_Cybersecurity_Instructions.md)
 
-- [Developing a Llama-Based Chatbot for CI/CD Question Answering: A Case Study at Ericsson](2024年08月17日/Developing_a_Llama-Based_Chatbot_for_CICD_Question_Answering_A_Case_Study_at_Ericsson.md)
-
-    - [翻译: 基于Llama的CI/CD问答聊天机器人开发：爱立信实践案例](2024年08月17日/Developing_a_Llama-Based_Chatbot_for_CICD_Question_Answering_A_Case_Study_at_Ericsson.md)
-
-- [Enhancing Audio-Language Models through Self-Supervised Post-Training with Text-Audio Pairs](2024年08月17日/Enhancing_Audio-Language_Models_through_Self-Supervised_Post-Training_with_Text-Audio_Pairs.md)
-
-    - [翻译: 利用文本-音频对的自监督后训练，提升音频-语言模型的性能](2024年08月17日/Enhancing_Audio-Language_Models_through_Self-Supervised_Post-Training_with_Text-Audio_Pairs.md)
-
 - [Evaluating Usability and Engagement of Large Language Models in Virtual Reality for Traditional Scottish Curling](2024年08月17日/Evaluating_Usability_and_Engagement_of_Large_Language_Models_in_Virtual_Reality_for_Traditional_Scottish_Curling.md)
 
     - [翻译: 探究大型语言模型在虚拟现实环境下对传统苏格兰冰壶体验的可用性与用户参与度](2024年08月17日/Evaluating_Usability_and_Engagement_of_Large_Language_Models_in_Virtual_Reality_for_Traditional_Scottish_Curling.md)
 
-- [FabricQA-Extractor: A Question Answering System to Extract Information from Documents using Natural Language Questions](2024年08月17日/FabricQA-Extractor_A_Question_Answering_System_to_Extract_Information_from_Documents_using_Natural_Language_Questions.md)
-
-    - [翻译: FabricQA-Extractor：一款通过自然语言提问从文档中提取信息的问题解答系统](2024年08月17日/FabricQA-Extractor_A_Question_Answering_System_to_Extract_Information_from_Documents_using_Natural_Language_Questions.md)
-
 - [Fostering Natural Conversation in Large Language Models with NICO: a Natural Interactive COnversation dataset](2024年08月17日/Fostering_Natural_Conversation_in_Large_Language_Models_with_NICO_a_Natural_Interactive_COnversation_dataset.md)
 
     - [翻译: 借助 NICO 数据集，我们致力于在大型语言模型中培养更自然的对话能力，NICO 是一个专为自然交互对话设计的数据集。](2024年08月17日/Fostering_Natural_Conversation_in_Large_Language_Models_with_NICO_a_Natural_Interactive_COnversation_dataset.md)
-
-- [Generative Agent-Based Models for Complex Systems Research: a review](2024年08月17日/Generative_Agent-Based_Models_for_Complex_Systems_Research_a_review.md)
-
-    - [翻译: 复杂系统研究中的生成代理模型：一篇综述](2024年08月17日/Generative_Agent-Based_Models_for_Complex_Systems_Research_a_review.md)
-
-- [Hybrid Semantic Search: Unveiling User Intent Beyond Keywords](2024年08月17日/Hybrid_Semantic_Search_Unveiling_User_Intent_Beyond_Keywords.md)
-
-    - [翻译: 混合语义搜索：洞悉关键词背后的用户真实意图](2024年08月17日/Hybrid_Semantic_Search_Unveiling_User_Intent_Beyond_Keywords.md)
 
 - [Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text](2024年08月17日/Reference-Guided_Verdict_LLMs-as-Judges_in_Automatic_Evaluation_of_Free-Form_Text.md)
 
