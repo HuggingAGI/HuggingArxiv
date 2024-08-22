@@ -350,37 +350,13 @@
 
     - [翻译: 探究与评估 LLM 在面对越狱攻击时的可靠性](2024年08月17日/Characterizing_and_Evaluating_the_Reliability_of_LLMs_against_Jailbreak_Attacks.md)
 
-- [ConVerSum: A Contrastive Learning based Approach for Data-Scarce Solution of Cross-Lingual Summarization Beyond Direct Equivalents](2024年08月17日/ConVerSum_A_Contrastive_Learning_based_Approach_for_Data-Scarce_Solution_of_Cross-Lingual_Summarization_Beyond_Direct_Equivalents.md)
-
-    - [翻译: ConVerSum：采用对比学习，解决跨语言摘要中数据稀缺问题，超越简单等价的新方法](2024年08月17日/ConVerSum_A_Contrastive_Learning_based_Approach_for_Data-Scarce_Solution_of_Cross-Lingual_Summarization_Beyond_Direct_Equivalents.md)
-
-- [CyberPal.AI: Empowering LLMs with Expert-Driven Cybersecurity Instructions](2024年08月17日/CyberPal.AI_Empowering_LLMs_with_Expert-Driven_Cybersecurity_Instructions.md)
-
-    - [翻译: CyberPal.AI：赋予 LLM 专家级网络安全指导](2024年08月17日/CyberPal.AI_Empowering_LLMs_with_Expert-Driven_Cybersecurity_Instructions.md)
-
 - [Evaluating Usability and Engagement of Large Language Models in Virtual Reality for Traditional Scottish Curling](2024年08月17日/Evaluating_Usability_and_Engagement_of_Large_Language_Models_in_Virtual_Reality_for_Traditional_Scottish_Curling.md)
 
     - [翻译: 探究大型语言模型在虚拟现实环境下对传统苏格兰冰壶体验的可用性与用户参与度](2024年08月17日/Evaluating_Usability_and_Engagement_of_Large_Language_Models_in_Virtual_Reality_for_Traditional_Scottish_Curling.md)
 
-- [Fostering Natural Conversation in Large Language Models with NICO: a Natural Interactive COnversation dataset](2024年08月17日/Fostering_Natural_Conversation_in_Large_Language_Models_with_NICO_a_Natural_Interactive_COnversation_dataset.md)
-
-    - [翻译: 借助 NICO 数据集，我们致力于在大型语言模型中培养更自然的对话能力，NICO 是一个专为自然交互对话设计的数据集。](2024年08月17日/Fostering_Natural_Conversation_in_Large_Language_Models_with_NICO_a_Natural_Interactive_COnversation_dataset.md)
-
-- [Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text](2024年08月17日/Reference-Guided_Verdict_LLMs-as-Judges_in_Automatic_Evaluation_of_Free-Form_Text.md)
-
-    - [翻译: 参考引导裁决：LLM 在自由文本自动评估中担任法官角色](2024年08月17日/Reference-Guided_Verdict_LLMs-as-Judges_in_Automatic_Evaluation_of_Free-Form_Text.md)
-
-- [SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama](2024年08月17日/SkyScript-100M_1,000,000,000_Pairs_of_Scripts_and_Shooting_Scripts_for_Short_Drama.md)
-
-    - [翻译: SkyScript-100M：为短剧创作的十亿对剧本与拍摄脚本](2024年08月17日/SkyScript-100M_1,000,000,000_Pairs_of_Scripts_and_Shooting_Scripts_for_Short_Drama.md)
-
 - [TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems](2024年08月17日/TC-RAGTuring-Complete_RAG's_Case_study_on_Medical_LLM_Systems.md)
 
     - [翻译: TC-RAG：探索图灵完备 RAG 在医疗大型语言模型系统中的应用案例](2024年08月17日/TC-RAGTuring-Complete_RAG's_Case_study_on_Medical_LLM_Systems.md)
-
-- [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](2024年08月17日/V2X-VLM_End-to-End_V2X_Cooperative_Autonomous_Driving_Through_Large_Vision-Language_Models.md)
-
-    - [翻译: V2X-VLM：借助大型视觉-语言模型，实现端到端的 V2X 协作自动驾驶](2024年08月17日/V2X-VLM_End-to-End_V2X_Cooperative_Autonomous_Driving_Through_Large_Vision-Language_Models.md)
 
 2024年08月05日
 
