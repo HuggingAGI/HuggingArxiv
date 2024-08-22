@@ -114,10 +114,6 @@
 
     - [翻译: MAPLE：借助多方面提示学习，在可解释推荐系统中提升评论生成质量](2024年08月19日/MAPLE_Enhancing_Review_Generation_with_Multi-Aspect_Prompt_LEarning_in_Explainable_Recommendation.md)
 
-- [MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems](2024年08月19日/MegaAgent_A_Practical_Framework_for_Autonomous_Cooperation_in_Large-Scale_LLM_Agent_Systems.md)
-
-    - [翻译: MegaAgent：为大型 LLM 代理系统量身打造的自主合作实用框架](2024年08月19日/MegaAgent_A_Practical_Framework_for_Autonomous_Cooperation_in_Large-Scale_LLM_Agent_Systems.md)
-
 - [Microscopic Analysis on LLM players via Social Deduction Game](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
 
     - [翻译: 借助社交推理游戏，深入剖析 LLM 玩家的微观行为](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
@@ -189,28 +185,6 @@
 - [Transferring Backdoors between Large Language Models by Knowledge Distillation](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
 
     - [翻译: 利用知识蒸馏技术，实现大型语言模型间的后门转移](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
-
-2024年08月18日
-
-- [Challenges and Responses in the Practice of Large Language Models](2024年08月18日/Challenges_and_Responses_in_the_Practice_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型实践中面临的挑战及其应对策略](2024年08月18日/Challenges_and_Responses_in_the_Practice_of_Large_Language_Models.md)
-
-- [HySem: A context length optimized LLM pipeline for unstructured tabular extraction](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
-
-    - [翻译: HySem：专为非结构化表格提取设计的，优化上下文长度的 LLM 处理流程](2024年08月18日/HySem_A_context_length_optimized_LLM_pipeline_for_unstructured_tabular_extraction.md)
-
-- [Moonshine: Distilling Game Content Generators into Steerable Generative Models](2024年08月18日/Moonshine_Distilling_Game_Content_Generators_into_Steerable_Generative_Models.md)
-
-    - [翻译: Moonshine：精炼游戏内容生成器，打造可控的生成模型](2024年08月18日/Moonshine_Distilling_Game_Content_Generators_into_Steerable_Generative_Models.md)
-
-- [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](2024年08月18日/Reefknot_A_Comprehensive_Benchmark_for_Relation_Hallucination_Evaluation,_Analysis_and_Mitigation_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: Reefknot：多模态大型语言模型中关系幻觉问题的全方位基准，涵盖评估、分析与缓解。](2024年08月18日/Reefknot_A_Comprehensive_Benchmark_for_Relation_Hallucination_Evaluation,_Analysis_and_Mitigation_in_Multimodal_Large_Language_Models.md)
-
-- [The temporal conceptual data modelling language TREND](2024年08月18日/The_temporal_conceptual_data_modelling_language_TREND.md)
-
-    - [翻译: TREND 是一种时间概念数据建模语言，专注于时间维度的数据表达与处理。](2024年08月18日/The_temporal_conceptual_data_modelling_language_TREND.md)
 
 2024年08月05日
 
