@@ -2,10 +2,6 @@
 
 2024年08月19日
 
-- [Active Learning for Identifying Disaster-Related Tweets: A Comparison with Keyword Filtering and Generic Fine-Tuning](2024年08月19日/Active_Learning_for_Identifying_Disaster-Related_Tweets_A_Comparison_with_Keyword_Filtering_and_Generic_Fine-Tuning.md)
-
-    - [翻译: 主动学习在识别灾难相关推文方面，与关键词过滤和通用微调进行了比较。](2024年08月19日/Active_Learning_for_Identifying_Disaster-Related_Tweets_A_Comparison_with_Keyword_Filtering_and_Generic_Fine-Tuning.md)
-
 - [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](2024年08月19日/Anim-Director_A_Large_Multimodal_Model_Powered_Agent_for_Controllable_Animation_Video_Generation.md)
 
     - [翻译: Anim-Director：一款由大型多模态模型赋能的代理，专为可控动画视频创作而生。](2024年08月19日/Anim-Director_A_Large_Multimodal_Model_Powered_Agent_for_Controllable_Animation_Video_Generation.md)
@@ -17,14 +13,6 @@
 - [ARMADA: Attribute-Based Multimodal Data Augmentation](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
 
     - [翻译: ARMADA：一种基于属性的多模态数据增强技术](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
-
-- [Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit](2024年08月19日/Attribution_Analysis_Meets_Model_Editing_Advancing_Knowledge_Correction_in_Vision_Language_Models_with_VisEdit.md)
-
-    - [翻译: 归因分析结合模型编辑，通过 VisEdit 技术，助力视觉语言模型知识校正的进步。](2024年08月19日/Attribution_Analysis_Meets_Model_Editing_Advancing_Knowledge_Correction_in_Vision_Language_Models_with_VisEdit.md)
-
-- [Benchmarking LLMs for Translating Classical Chinese Poetry:Evaluating Adequacy, Fluency, and Elegance](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
-
-    - [翻译: 本研究旨在通过基准测试，评估 LLM 在翻译古典中文诗歌时的充分性、流畅性和优雅性。](2024年08月19日/Benchmarking_LLMs_for_Translating_Classical_Chinese_PoetryEvaluating_Adequacy,_Fluency,_and_Elegance.md)
 
 - [Carbon Footprint Accounting Driven by Large Language Models and Retrieval-augmented Generation](2024年08月19日/Carbon_Footprint_Accounting_Driven_by_Large_Language_Models_and_Retrieval-augmented_Generation.md)
 
@@ -78,10 +66,6 @@
 
     - [翻译: LongVILA：扩展长上下文视觉语言模型以适应长视频处理](2024年08月19日/LongVILA_Scaling_Long-Context_Visual_Language_Models_for_Long_Videos.md)
 
-- [Microscopic Analysis on LLM players via Social Deduction Game](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
-
-    - [翻译: 借助社交推理游戏，深入剖析 LLM 玩家的微观行为](2024年08月19日/Microscopic_Analysis_on_LLM_players_via_Social_Deduction_Game.md)
-
 - [Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
 
     - [翻译: 分子图表示学习：融合大型语言模型与领域专用小模型](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
@@ -101,10 +85,6 @@
 - [PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
 
     - [翻译: PLUTUS，一款精心预训练的大型统一Transformer模型，能够揭示金融时间序列中的规律。](2024年08月19日/PLUTUS_A_Well_Pre-trained_Large_Unified_Transformer_can_Unveil_Financial_Time_Series_Regularities.md)
-
-- [Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory](2024年08月19日/Privacy_Checklist_Privacy_Violation_Detection_Grounding_on_Contextual_Integrity_Theory.md)
-
-    - [翻译: 隐私检测清单：依托上下文完整性理论，精准识别隐私侵犯行为](2024年08月19日/Privacy_Checklist_Privacy_Violation_Detection_Grounding_on_Contextual_Integrity_Theory.md)
 
 - [R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
 
@@ -129,10 +109,6 @@
 - [Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning](2024年08月19日/Strategic_Demonstration_Selection_for_Improved_Fairness_in_LLM_In-Context_Learning.md)
 
     - [翻译: 为提升 LLM 上下文学习中的公平性，我们探讨战略性的演示选择策略。](2024年08月19日/Strategic_Demonstration_Selection_for_Improved_Fairness_in_LLM_In-Context_Learning.md)
-
-- [TBA: Faster Large Language Model Training Using SSD-Based Activation Offloading](2024年08月19日/TBA_Faster_Large_Language_Model_Training_Using_SSD-Based_Activation_Offloading.md)
-
-    - [翻译: TBA：通过 SSD 激活卸载技术加速大型语言模型训练](2024年08月19日/TBA_Faster_Large_Language_Model_Training_Using_SSD-Based_Activation_Offloading.md)
 
 - [Transferring Backdoors between Large Language Models by Knowledge Distillation](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
 
