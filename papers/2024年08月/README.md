@@ -2,21 +2,9 @@
 
 2024年08月19日
 
-- [Application of Large Language Models in Automated Question Generation: A Case Study on ChatGLM's Structured Questions for National Teacher Certification Exams](2024年08月19日/Application_of_Large_Language_Models_in_Automated_Question_Generation_A_Case_Study_on_ChatGLM's_Structured_Questions_for_National_Teacher_Certification_Exams.md)
-
-    - [翻译: 大型语言模型在自动问题生成领域的应用：以 ChatGLM 为全国教师资格考试生成结构化问题为例的案例研究](2024年08月19日/Application_of_Large_Language_Models_in_Automated_Question_Generation_A_Case_Study_on_ChatGLM's_Structured_Questions_for_National_Teacher_Certification_Exams.md)
-
-- [Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
-
-    - [翻译: 自动驾驶中的边缘-云协同运动规划，借助大型语言模型实现。](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
-
 - [GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
 
     - [翻译: GLIMMER：融合图与词汇特征，革新无监督多文档摘要技术](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
-
-- [Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
-
-    - [翻译: 指令驱动下的分子图生成：融合文本与图的统一扩散模型](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
 
 - [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](2024年08月19日/LongVILA_Scaling_Long-Context_Visual_Language_Models_for_Long_Videos.md)
 
@@ -26,21 +14,9 @@
 
     - [翻译: 分子图表示学习：融合大型语言模型与领域专用小模型](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
 
-- [Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
-
-    - [翻译: 行人属性识别领域迎来新挑战，我们推出全新基准数据集，并构建大型语言模型增强框架，助力该领域发展。](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
-
-- [Self-Directed Turing Test for Large Language Models](2024年08月19日/Self-Directed_Turing_Test_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的自我指导图灵测试](2024年08月19日/Self-Directed_Turing_Test_for_Large_Language_Models.md)
-
 - [SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
 
     - [翻译: SMILE：基于预训练模型，实现零-shot 构建稀疏低秩专家混合体](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
-
-- [Transferring Backdoors between Large Language Models by Knowledge Distillation](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
-
-    - [翻译: 利用知识蒸馏技术，实现大型语言模型间的后门转移](2024年08月19日/Transferring_Backdoors_between_Large_Language_Models_by_Knowledge_Distillation.md)
 
 2024年08月05日
 
