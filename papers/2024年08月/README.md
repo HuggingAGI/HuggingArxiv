@@ -2,21 +2,9 @@
 
 2024年08月19日
 
-- [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](2024年08月19日/Anim-Director_A_Large_Multimodal_Model_Powered_Agent_for_Controllable_Animation_Video_Generation.md)
-
-    - [翻译: Anim-Director：一款由大型多模态模型赋能的代理，专为可控动画视频创作而生。](2024年08月19日/Anim-Director_A_Large_Multimodal_Model_Powered_Agent_for_Controllable_Animation_Video_Generation.md)
-
 - [Application of Large Language Models in Automated Question Generation: A Case Study on ChatGLM's Structured Questions for National Teacher Certification Exams](2024年08月19日/Application_of_Large_Language_Models_in_Automated_Question_Generation_A_Case_Study_on_ChatGLM's_Structured_Questions_for_National_Teacher_Certification_Exams.md)
 
     - [翻译: 大型语言模型在自动问题生成领域的应用：以 ChatGLM 为全国教师资格考试生成结构化问题为例的案例研究](2024年08月19日/Application_of_Large_Language_Models_in_Automated_Question_Generation_A_Case_Study_on_ChatGLM's_Structured_Questions_for_National_Teacher_Certification_Exams.md)
-
-- [ARMADA: Attribute-Based Multimodal Data Augmentation](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
-
-    - [翻译: ARMADA：一种基于属性的多模态数据增强技术](2024年08月19日/ARMADA_Attribute-Based_Multimodal_Data_Augmentation.md)
-
-- [Carbon Footprint Accounting Driven by Large Language Models and Retrieval-augmented Generation](2024年08月19日/Carbon_Footprint_Accounting_Driven_by_Large_Language_Models_and_Retrieval-augmented_Generation.md)
-
-    - [翻译: 大型语言模型与检索增强生成助力碳足迹核算](2024年08月19日/Carbon_Footprint_Accounting_Driven_by_Large_Language_Models_and_Retrieval-augmented_Generation.md)
 
 - [Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models](2024年08月19日/Edge-Cloud_Collaborative_Motion_Planning_for_Autonomous_Driving_with_Large_Language_Models.md)
 
@@ -26,17 +14,9 @@
 
     - [翻译: GLIMMER：融合图与词汇特征，革新无监督多文档摘要技术](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
 
-- [Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
-
-    - [翻译: 驾驭多模态大型语言模型，实现多模态序列推荐](2024年08月19日/Harnessing_Multimodal_Large_Language_Models_for_Multimodal_Sequential_Recommendation.md)
-
 - [Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
 
     - [翻译: 指令驱动下的分子图生成：融合文本与图的统一扩散模型](2024年08月19日/Instruction-Based_Molecular_Graph_Generation_with_Unified_Text-Graph_Diffusion_Model.md)
-
-- [Instruction Finetuning for Leaderboard Generation from Empirical AI Research](2024年08月19日/Instruction_Finetuning_for_Leaderboard_Generation_from_Empirical_AI_Research.md)
-
-    - [翻译: 通过指令微调，我们能从实证 AI 研究中打造出排行榜。](2024年08月19日/Instruction_Finetuning_for_Leaderboard_Generation_from_Empirical_AI_Research.md)
 
 - [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](2024年08月19日/LongVILA_Scaling_Long-Context_Visual_Language_Models_for_Long_Videos.md)
 
@@ -49,10 +29,6 @@
 - [Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
 
     - [翻译: 行人属性识别领域迎来新挑战，我们推出全新基准数据集，并构建大型语言模型增强框架，助力该领域发展。](2024年08月19日/Pedestrian_Attribute_Recognition_A_New_Benchmark_Dataset_and_A_Large_Language_Model_Augmented_Framework.md)
-
-- [R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
-
-    - [翻译: R2GenCSR：利用大型语言模型，为X射线医学报告生成精选上下文样本](2024年08月19日/R2GenCSR_Retrieving_Context_Samples_for_Large_Language_Model_based_X-ray_Medical_Report_Generation.md)
 
 - [Self-Directed Turing Test for Large Language Models](2024年08月19日/Self-Directed_Turing_Test_for_Large_Language_Models.md)
 
