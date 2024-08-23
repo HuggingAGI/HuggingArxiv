@@ -1,23 +1,5 @@
 # 2024年08月
 
-2024年08月19日
-
-- [GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
-
-    - [翻译: GLIMMER：融合图与词汇特征，革新无监督多文档摘要技术](2024年08月19日/GLIMMER_Incorporating_Graph_and_Lexical_Features_in_Unsupervised_Multi-Document_Summarization.md)
-
-- [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](2024年08月19日/LongVILA_Scaling_Long-Context_Visual_Language_Models_for_Long_Videos.md)
-
-    - [翻译: LongVILA：扩展长上下文视觉语言模型以适应长视频处理](2024年08月19日/LongVILA_Scaling_Long-Context_Visual_Language_Models_for_Long_Videos.md)
-
-- [Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
-
-    - [翻译: 分子图表示学习：融合大型语言模型与领域专用小模型](2024年08月19日/Molecular_Graph_Representation_Learning_Integrating_Large_Language_Models_with_Domain-specific_Small_Models.md)
-
-- [SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
-
-    - [翻译: SMILE：基于预训练模型，实现零-shot 构建稀疏低秩专家混合体](2024年08月19日/SMILE_Zero-Shot_Sparse_Mixture_of_Low-Rank_Experts_Construction_From_Pre-Trained_Foundation_Models.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
