@@ -2,10 +2,6 @@
 
 2024年08月22日
 
-- [A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation](2024年08月22日/A_Comparative_Analysis_of_Faithfulness_Metrics_and_Humans_in_Citation_Evaluation.md)
-
-    - [翻译: 比较分析引用评估中的信度度量与人类表现](2024年08月22日/A_Comparative_Analysis_of_Faithfulness_Metrics_and_Humans_in_Citation_Evaluation.md)
-
 - [AutoTest: Evolutionary Code Solution Selection with Test Cases](2024年08月22日/AutoTest_Evolutionary_Code_Solution_Selection_with_Test_Cases.md)
 
     - [翻译: AutoTest：借助测试用例，进化选择代码解决方案](2024年08月22日/AutoTest_Evolutionary_Code_Solution_Selection_with_Test_Cases.md)
@@ -98,14 +94,6 @@
 
     - [翻译: LLM 在生物医学信息提取方面并非零-Shot 推理器。](2024年08月22日/LLMs_are_not_Zero-Shot_Reasoners_for_Biomedical_Information_Extraction.md)
 
-- [MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model](2024年08月22日/MaVEn_An_Effective_Multi-granularity_Hybrid_Visual_Encoding_Framework_for_Multimodal_Large_Language_Model.md)
-
-    - [翻译: MaVEn：专为多模态大型语言模型设计的高效多粒度混合视觉编码框架](2024年08月22日/MaVEn_An_Effective_Multi-granularity_Hybrid_Visual_Encoding_Framework_for_Multimodal_Large_Language_Model.md)
-
-- [MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents](2024年08月22日/MDD-5k_A_New_Diagnostic_Conversation_Dataset_for_Mental_Disorders_Synthesized_via_Neuro-Symbolic_LLM_Agents.md)
-
-    - [翻译: MDD-5k：一款由神经-符号 LLM 代理生成的心理障碍诊断对话新数据集](2024年08月22日/MDD-5k_A_New_Diagnostic_Conversation_Dataset_for_Mental_Disorders_Synthesized_via_Neuro-Symbolic_LLM_Agents.md)
-
 - [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](2024年08月22日/MEDCO_Medical_Education_Copilots_Based_on_A_Multi-Agent_Framework.md)
 
     - [翻译: MEDCO：医学教育中的多智能体协作框架](2024年08月22日/MEDCO_Medical_Education_Copilots_Based_on_A_Multi-Agent_Framework.md)
@@ -161,44 +149,6 @@
 - [Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](2024年08月22日/Unlearning_Trojans_in_Large_Language_Models_A_Comparison_Between_Natural_Language_and_Source_Code.md)
 
     - [翻译: 大型语言模型中特洛伊木马的消除：自然语言与源代码的对比研究](2024年08月22日/Unlearning_Trojans_in_Large_Language_Models_A_Comparison_Between_Natural_Language_and_Source_Code.md)
-
-- [Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese](2024年08月22日/Vintern-1B_An_Efficient_Multimodal_Large_Language_Model_for_Vietnamese.md)
-
-    - [翻译: Vintern-1B：专为越南语设计的高效多模态大型语言模型](2024年08月22日/Vintern-1B_An_Efficient_Multimodal_Large_Language_Model_for_Vietnamese.md)
-
-2024年08月21日
-
-- [Ancient Wisdom, Modern Tools: Exploring Retrieval-Augmented LLMs for Ancient Indian Philosophy](2024年08月21日/Ancient_Wisdom,_Modern_Tools_Exploring_Retrieval-Augmented_LLMs_for_Ancient_Indian_Philosophy.md)
-
-    - [翻译: 结合古代智慧与现代技术，我们探索如何利用检索增强型大型语言模型来研究古代印度哲学。](2024年08月21日/Ancient_Wisdom,_Modern_Tools_Exploring_Retrieval-Augmented_LLMs_for_Ancient_Indian_Philosophy.md)
-
-- [Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning](2024年08月21日/Cause-Aware_Empathetic_Response_Generation_via_Chain-of-Thought_Fine-Tuning.md)
-
-    - [翻译: 基于链式思维微调，实现因果感知的共情响应生成](2024年08月21日/Cause-Aware_Empathetic_Response_Generation_via_Chain-of-Thought_Fine-Tuning.md)
-
-- [ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM](2024年08月21日/ConflictBank_A_Benchmark_for_Evaluating_the_Influence_of_Knowledge_Conflicts_in_LLM.md)
-
-    - [翻译: ConflictBank：评估 LLM 中知识冲突影响的基准](2024年08月21日/ConflictBank_A_Benchmark_for_Evaluating_the_Influence_of_Knowledge_Conflicts_in_LLM.md)
-
-- [EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model](2024年08月21日/EE-MLLM_A_Data-Efficient_and_Compute-Efficient_Multimodal_Large_Language_Model.md)
-
-    - [翻译: EE-MLLM：一款数据与计算双高效的多元大型语言模型](2024年08月21日/EE-MLLM_A_Data-Efficient_and_Compute-Efficient_Multimodal_Large_Language_Model.md)
-
-- [RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation](2024年08月21日/RAGLAB_A_Modular_and_Research-Oriented_Unified_Framework_for_Retrieval-Augmented_Generation.md)
-
-    - [翻译: RAGLAB：一款模块化、研究导向的统一框架，专为增强检索生成设计。](2024年08月21日/RAGLAB_A_Modular_and_Research-Oriented_Unified_Framework_for_Retrieval-Augmented_Generation.md)
-
-- [Reasoning and Tools for Human-Level Forecasting](2024年08月21日/Reasoning_and_Tools_for_Human-Level_Forecasting.md)
-
-    - [翻译: 人类级预测的推理与工具](2024年08月21日/Reasoning_and_Tools_for_Human-Level_Forecasting.md)
-
-- [T2VIndexer: A Generative Video Indexer for Efficient Text-Video Retrieval](2024年08月21日/T2VIndexer_A_Generative_Video_Indexer_for_Efficient_Text-Video_Retrieval.md)
-
-    - [翻译: T2VIndexer：一款专为高效文本至视频检索设计的生成式视频索引工具](2024年08月21日/T2VIndexer_A_Generative_Video_Indexer_for_Efficient_Text-Video_Retrieval.md)
-
-- [Xinyu: An Efficient LLM-based System for Commentary Generation](2024年08月21日/Xinyu_An_Efficient_LLM-based_System_for_Commentary_Generation.md)
-
-    - [翻译: Xinyu：一款基于大型语言模型的高效系统，专为评论生成而设计。](2024年08月21日/Xinyu_An_Efficient_LLM-based_System_for_Commentary_Generation.md)
 
 2024年08月05日
 
