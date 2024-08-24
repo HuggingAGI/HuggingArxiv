@@ -16,12 +16,6 @@
 
     - [翻译: 微调之后，如何确保大型语言模型保持其原有的校准状态？关键在于巧妙设计的提示模板。](2024年02月28日/Keeping_LLMs_Aligned_After_Fine-tuning_The_Crucial_Role_of_Prompt_Templates.md)
 
-2024年02月27日
-
-- [Language Agents as Optimizable Graphs](2024年02月27日/Language_Agents_as_Optimizable_Graphs.md)
-
-    - [翻译: 语言代理：图形优化的艺术](2024年02月27日/Language_Agents_as_Optimizable_Graphs.md)
-
 2024年02月26日
 
 - [Efficient Tool Use with Chain-of-Abstraction Reasoning](2024年02月26日/Efficient_Tool_Use_with_Chain-of-Abstraction_Reasoning.md)
