@@ -172,14 +172,6 @@
 
     - [翻译: 结合古代智慧与现代技术，我们探索如何利用检索增强型大型语言模型来研究古代印度哲学。](2024年08月21日/Ancient_Wisdom,_Modern_Tools_Exploring_Retrieval-Augmented_LLMs_for_Ancient_Indian_Philosophy.md)
 
-- [Balancing Act: Prioritization Strategies for LLM-Designed Restless Bandit Rewards](2024年08月21日/Balancing_Act_Prioritization_Strategies_for_LLM-Designed_Restless_Bandit_Rewards.md)
-
-    - [翻译: 平衡之道：LLM 设计中无休止强盗奖励的优先策略](2024年08月21日/Balancing_Act_Prioritization_Strategies_for_LLM-Designed_Restless_Bandit_Rewards.md)
-
-- [CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion](2024年08月21日/CaRDiff_Video_Salient_Object_Ranking_Chain_of_Thought_Reasoning_for_Saliency_Prediction_with_Diffusion.md)
-
-    - [翻译: CaRDiff：通过链式思维推理扩散，实现视频显著对象的排序与显著性预测](2024年08月21日/CaRDiff_Video_Salient_Object_Ranking_Chain_of_Thought_Reasoning_for_Saliency_Prediction_with_Diffusion.md)
-
 - [Cause-Aware Empathetic Response Generation via Chain-of-Thought Fine-Tuning](2024年08月21日/Cause-Aware_Empathetic_Response_Generation_via_Chain-of-Thought_Fine-Tuning.md)
 
     - [翻译: 基于链式思维微调，实现因果感知的共情响应生成](2024年08月21日/Cause-Aware_Empathetic_Response_Generation_via_Chain-of-Thought_Fine-Tuning.md)
@@ -204,17 +196,9 @@
 
     - [翻译: DreamFactory：引领多场景长视频生成，借助多智能体框架创新前行](2024年08月21日/DreamFactory_Pioneering_Multi-Scene_Long_Video_Generation_with_a_Multi-Agent_Framework.md)
 
-- [D-RMGPT: Robot-assisted collaborative tasks driven by large multimodal models](2024年08月21日/D-RMGPT_Robot-assisted_collaborative_tasks_driven_by_large_multimodal_models.md)
-
-    - [翻译: D-RMGPT：大型多模态模型助力机器人辅助协作任务](2024年08月21日/D-RMGPT_Robot-assisted_collaborative_tasks_driven_by_large_multimodal_models.md)
-
 - [EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model](2024年08月21日/EE-MLLM_A_Data-Efficient_and_Compute-Efficient_Multimodal_Large_Language_Model.md)
 
     - [翻译: EE-MLLM：一款数据与计算双高效的多元大型语言模型](2024年08月21日/EE-MLLM_A_Data-Efficient_and_Compute-Efficient_Multimodal_Large_Language_Model.md)
-
-- [EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning](2024年08月21日/EMO-LLaMA_Enhancing_Facial_Emotion_Understanding_with_Instruction_Tuning.md)
-
-    - [翻译: EMO-LLaMA：借助指令调优技术，提升面部情绪识别能力](2024年08月21日/EMO-LLaMA_Enhancing_Facial_Emotion_Understanding_with_Instruction_Tuning.md)
 
 - [Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](2024年08月21日/Evidence-backed_Fact_Checking_using_RAG_and_Few-Shot_In-Context_Learning_with_LLMs.md)
 
@@ -235,10 +219,6 @@
 - [Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design](2024年08月21日/Leveraging_Chemistry_Foundation_Models_to_Facilitate_Structure_Focused_Retrieval_Augmented_Generation_in_Multi-Agent_Workflows_for_Catalyst_and_Materials_Design.md)
 
     - [翻译: 借助化学基础模型，我们致力于优化多智能体工作流中催化剂与材料设计的结构聚焦检索增强生成过程。](2024年08月21日/Leveraging_Chemistry_Foundation_Models_to_Facilitate_Structure_Focused_Retrieval_Augmented_Generation_in_Multi-Agent_Workflows_for_Catalyst_and_Materials_Design.md)
-
-- [Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards](2024年08月21日/Leveraging_Fine-Tuned_Retrieval-Augmented_Generation_with_Long-Context_Support_For_3GPP_Standards.md)
-
-    - [翻译: 结合微调与检索增强技术，提供长上下文支持，专为3GPP标准定制。](2024年08月21日/Leveraging_Fine-Tuned_Retrieval-Augmented_Generation_with_Long-Context_Support_For_3GPP_Standards.md)
 
 - [LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites](2024年08月21日/LLM4VV_Exploring_LLM-as-a-Judge_for_Validation_and_Verification_Testsuites.md)
 
@@ -283,10 +263,6 @@
 - [Transformers As Approximations of Solomonoff Induction](2024年08月21日/Transformers_As_Approximations_of_Solomonoff_Induction.md)
 
     - [翻译: Transformer 模型近似于 Solomonoff 归纳法](2024年08月21日/Transformers_As_Approximations_of_Solomonoff_Induction.md)
-
-- [Video Emotion Open-vocabulary Recognition Based on Multimodal Large Language Model](2024年08月21日/Video_Emotion_Open-vocabulary_Recognition_Based_on_Multimodal_Large_Language_Model.md)
-
-    - [翻译: 基于多模态大语言模型的视频情感开放词汇识别技术](2024年08月21日/Video_Emotion_Open-vocabulary_Recognition_Based_on_Multimodal_Large_Language_Model.md)
 
 - [Xinyu: An Efficient LLM-based System for Commentary Generation](2024年08月21日/Xinyu_An_Efficient_LLM-based_System_for_Commentary_Generation.md)
 
