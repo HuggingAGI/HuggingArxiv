@@ -302,10 +302,6 @@
 
 2024年08月20日
 
-- [Athena: Safe Autonomous Agents with Verbal Contrastive Learning](2024年08月20日/Athena_Safe_Autonomous_Agents_with_Verbal_Contrastive_Learning.md)
-
-    - [翻译: 雅典娜：通过言语对比学习实现自主安全代理](2024年08月20日/Athena_Safe_Autonomous_Agents_with_Verbal_Contrastive_Learning.md)
-
 - [Bidirectional Intent Communication: A Role for Large Foundation Models](2024年08月20日/Bidirectional_Intent_Communication_A_Role_for_Large_Foundation_Models.md)
 
     - [翻译: 双向意图沟通：大型基础模型的关键作用](2024年08月20日/Bidirectional_Intent_Communication_A_Role_for_Large_Foundation_Models.md)
@@ -322,25 +318,9 @@
 
     - [翻译: 多跳问答中的分层检索增强生成模型与重新思考机制](2024年08月20日/Hierarchical_Retrieval-Augmented_Generation_Model_with_Rethink_for_Multi-hop_Question_Answering.md)
 
-- [HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments](2024年08月20日/HiRED_Attention-Guided_Token_Dropping_for_Efficient_Inference_of_High-Resolution_Vision-Language_Models_in_Resource-Constrained_Environments.md)
-
-    - [翻译: HiRED 技术通过注意力引导的令牌丢弃，优化了在资源受限环境下高分辨率视觉-语言模型的高效推断。](2024年08月20日/HiRED_Attention-Guided_Token_Dropping_for_Efficient_Inference_of_High-Resolution_Vision-Language_Models_in_Resource-Constrained_Environments.md)
-
 - [Investigating Context Effects in Similarity Judgements in Large Language Models](2024年08月20日/Investigating_Context_Effects_in_Similarity_Judgements_in_Large_Language_Models.md)
 
     - [翻译: 探究大规模语言模型中相似性判断的上下文影响](2024年08月20日/Investigating_Context_Effects_in_Similarity_Judgements_in_Large_Language_Models.md)
-
-- [Large Language Models for Multimodal Deformable Image Registration](2024年08月20日/Large_Language_Models_for_Multimodal_Deformable_Image_Registration.md)
-
-    - [翻译: 大型语言模型在多模态可变形图像配准中的应用](2024年08月20日/Large_Language_Models_for_Multimodal_Deformable_Image_Registration.md)
-
-- [Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications](2024年08月20日/Open-FinLLMs_Open_Multimodal_Large_Language_Models_for_Financial_Applications.md)
-
-    - [翻译: Open-FinLLMs：专为金融领域设计的开放多模态大型语言模型](2024年08月20日/Open-FinLLMs_Open_Multimodal_Large_Language_Models_for_Financial_Applications.md)
-
-- [PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection](2024年08月20日/PhishAgent_A_Robust_Multimodal_Agent_for_Phishing_Webpage_Detection.md)
-
-    - [翻译: PhishAgent：一款强大的多模态代理，专为钓鱼网页检测而设计。](2024年08月20日/PhishAgent_A_Robust_Multimodal_Agent_for_Phishing_Webpage_Detection.md)
 
 2024年08月05日
 
