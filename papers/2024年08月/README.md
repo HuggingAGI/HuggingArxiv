@@ -176,21 +176,9 @@
 
     - [翻译: 基于链式思维微调，实现因果感知的共情响应生成](2024年08月21日/Cause-Aware_Empathetic_Response_Generation_via_Chain-of-Thought_Fine-Tuning.md)
 
-- [Clinical Insights: A Comprehensive Review of Language Models in Medicine](2024年08月21日/Clinical_Insights_A_Comprehensive_Review_of_Language_Models_in_Medicine.md)
-
-    - [翻译: 医学领域中的语言模型：一次深入的全面审视](2024年08月21日/Clinical_Insights_A_Comprehensive_Review_of_Language_Models_in_Medicine.md)
-
-- [CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering](2024年08月21日/CluMo_Cluster-based_Modality_Fusion_Prompt_for_Continual_Learning_in_Visual_Question_Answering.md)
-
-    - [翻译: CluMo：一种基于聚类的模态融合提示方法，专为视觉问答领域的持续学习设计。](2024年08月21日/CluMo_Cluster-based_Modality_Fusion_Prompt_for_Continual_Learning_in_Visual_Question_Answering.md)
-
 - [ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM](2024年08月21日/ConflictBank_A_Benchmark_for_Evaluating_the_Influence_of_Knowledge_Conflicts_in_LLM.md)
 
     - [翻译: ConflictBank：评估 LLM 中知识冲突影响的基准](2024年08月21日/ConflictBank_A_Benchmark_for_Evaluating_the_Influence_of_Knowledge_Conflicts_in_LLM.md)
-
-- [Drama Engine: A Framework for Narrative Agents](2024年08月21日/Drama_Engine_A_Framework_for_Narrative_Agents.md)
-
-    - [翻译: Drama Engine：构建叙事代理的框架](2024年08月21日/Drama_Engine_A_Framework_for_Narrative_Agents.md)
 
 - [DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework](2024年08月21日/DreamFactory_Pioneering_Multi-Scene_Long_Video_Generation_with_a_Multi-Agent_Framework.md)
 
@@ -228,21 +216,9 @@
 
     - [翻译: SPARK：为大规模视觉-语言模型打造的多视觉传感器感知与推理基准](2024年08月21日/SPARK_Multi-Vision_Sensor_Perception_and_Reasoning_Benchmark_for_Large-scale_Vision-Language_Models.md)
 
-- [Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models](2024年08月21日/Story3D-Agent_Exploring_3D_Storytelling_Visualization_with_Large_Language_Models.md)
-
-    - [翻译: Story3D-Agent：借助大型语言模型，探索3D叙事视觉化的奥秘](2024年08月21日/Story3D-Agent_Exploring_3D_Storytelling_Visualization_with_Large_Language_Models.md)
-
-- [SZTU-CMU at MER2024: Improving Emotion-LLaMA with Conv-Attention for Multimodal Emotion Recognition](2024年08月21日/SZTU-CMU_at_MER2024_Improving_Emotion-LLaMA_with_Conv-Attention_for_Multimodal_Emotion_Recognition.md)
-
-    - [翻译: SZTU-CMU 在 MER2024 提出：利用 Conv-Attention 技术优化 Emotion-LLaMA，提升多模态情感识别能力。](2024年08月21日/SZTU-CMU_at_MER2024_Improving_Emotion-LLaMA_with_Conv-Attention_for_Multimodal_Emotion_Recognition.md)
-
 - [T2VIndexer: A Generative Video Indexer for Efficient Text-Video Retrieval](2024年08月21日/T2VIndexer_A_Generative_Video_Indexer_for_Efficient_Text-Video_Retrieval.md)
 
     - [翻译: T2VIndexer：一款专为高效文本至视频检索设计的生成式视频索引工具](2024年08月21日/T2VIndexer_A_Generative_Video_Indexer_for_Efficient_Text-Video_Retrieval.md)
-
-- [Transformers As Approximations of Solomonoff Induction](2024年08月21日/Transformers_As_Approximations_of_Solomonoff_Induction.md)
-
-    - [翻译: Transformer 模型近似于 Solomonoff 归纳法](2024年08月21日/Transformers_As_Approximations_of_Solomonoff_Induction.md)
 
 - [Xinyu: An Efficient LLM-based System for Commentary Generation](2024年08月21日/Xinyu_An_Efficient_LLM-based_System_for_Commentary_Generation.md)
 
