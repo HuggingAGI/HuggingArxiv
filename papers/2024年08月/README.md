@@ -248,10 +248,6 @@
 
     - [翻译: MagicDec 技术通过推测性解码，成功打破了长上下文生成中的延迟与吞吐量之间的权衡。](2024年08月21日/MagicDec_Breaking_the_Latency-Throughput_Tradeoff_for_Long_Context_Generation_with_Speculative_Decoding.md)
 
-- [Open-Ended 3D Point Cloud Instance Segmentation](2024年08月21日/Open-Ended_3D_Point_Cloud_Instance_Segmentation.md)
-
-    - [翻译: 三维点云实例的开放式分割](2024年08月21日/Open-Ended_3D_Point_Cloud_Instance_Segmentation.md)
-
 - [PermitQA: A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain](2024年08月21日/PermitQA_A_Benchmark_for_Retrieval_Augmented_Generation_in_Wind_Siting_and_Permitting_domain.md)
 
     - [翻译: PermitQA：风电场选址与许可领域中检索增强生成的评估基准](2024年08月21日/PermitQA_A_Benchmark_for_Retrieval_Augmented_Generation_in_Wind_Siting_and_Permitting_domain.md)
@@ -267,10 +263,6 @@
 - [RoVRM: A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data](2024年08月21日/RoVRM_A_Robust_Visual_Reward_Model_Optimized_via_Auxiliary_Textual_Preference_Data.md)
 
     - [翻译: RoVRM：借助辅助文本偏好数据，优化而成的鲁棒视觉奖励模型](2024年08月21日/RoVRM_A_Robust_Visual_Reward_Model_Optimized_via_Auxiliary_Textual_Preference_Data.md)
-
-- [SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs](2024年08月21日/SEA_Supervised_Embedding_Alignment_for_Token-Level_Visual-Textual_Integration_in_MLLMs.md)
-
-    - [翻译: SEA：多模态大型语言模型中标记级视觉与文本整合的监督嵌入对齐技术](2024年08月21日/SEA_Supervised_Embedding_Alignment_for_Token-Level_Visual-Textual_Integration_in_MLLMs.md)
 
 - [SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models](2024年08月21日/SPARK_Multi-Vision_Sensor_Perception_and_Reasoning_Benchmark_for_Large-scale_Vision-Language_Models.md)
 
@@ -299,28 +291,6 @@
 - [Xinyu: An Efficient LLM-based System for Commentary Generation](2024年08月21日/Xinyu_An_Efficient_LLM-based_System_for_Commentary_Generation.md)
 
     - [翻译: Xinyu：一款基于大型语言模型的高效系统，专为评论生成而设计。](2024年08月21日/Xinyu_An_Efficient_LLM-based_System_for_Commentary_Generation.md)
-
-2024年08月20日
-
-- [Bidirectional Intent Communication: A Role for Large Foundation Models](2024年08月20日/Bidirectional_Intent_Communication_A_Role_for_Large_Foundation_Models.md)
-
-    - [翻译: 双向意图沟通：大型基础模型的关键作用](2024年08月20日/Bidirectional_Intent_Communication_A_Role_for_Large_Foundation_Models.md)
-
-- [Exploring the use of Generative AI to Support Automated Just-in-Time Programming for Visual Scene Displays](2024年08月20日/Exploring_the_use_of_Generative_AI_to_Support_Automated_Just-in-Time_Programming_for_Visual_Scene_Displays.md)
-
-    - [翻译: 探索如何利用生成式AI，实现视觉场景显示的自动化及时编程支持。](2024年08月20日/Exploring_the_use_of_Generative_AI_to_Support_Automated_Just-in-Time_Programming_for_Visual_Scene_Displays.md)
-
-- [FLAME: Learning to Navigate with Multimodal LLM in Urban Environments](2024年08月20日/FLAME_Learning_to_Navigate_with_Multimodal_LLM_in_Urban_Environments.md)
-
-    - [翻译: FLAME：探索在城市环境中利用多模态 LLM 进行智能导航的学习方法](2024年08月20日/FLAME_Learning_to_Navigate_with_Multimodal_LLM_in_Urban_Environments.md)
-
-- [Hierarchical Retrieval-Augmented Generation Model with Rethink for Multi-hop Question Answering](2024年08月20日/Hierarchical_Retrieval-Augmented_Generation_Model_with_Rethink_for_Multi-hop_Question_Answering.md)
-
-    - [翻译: 多跳问答中的分层检索增强生成模型与重新思考机制](2024年08月20日/Hierarchical_Retrieval-Augmented_Generation_Model_with_Rethink_for_Multi-hop_Question_Answering.md)
-
-- [Investigating Context Effects in Similarity Judgements in Large Language Models](2024年08月20日/Investigating_Context_Effects_in_Similarity_Judgements_in_Large_Language_Models.md)
-
-    - [翻译: 探究大规模语言模型中相似性判断的上下文影响](2024年08月20日/Investigating_Context_Effects_in_Similarity_Judgements_in_Large_Language_Models.md)
 
 2024年08月05日
 
