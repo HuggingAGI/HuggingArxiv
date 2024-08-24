@@ -306,17 +306,9 @@
 
     - [翻译: 雅典娜：通过言语对比学习实现自主安全代理](2024年08月20日/Athena_Safe_Autonomous_Agents_with_Verbal_Contrastive_Learning.md)
 
-- [BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation](2024年08月20日/BearLLM_A_Prior_Knowledge-Enhanced_Bearing_Health_Management_Framework_with_Unified_Vibration_Signal_Representation.md)
-
-    - [翻译: BearLLM：融合先验知识与统一振动信号表示的轴承健康管理新框架](2024年08月20日/BearLLM_A_Prior_Knowledge-Enhanced_Bearing_Health_Management_Framework_with_Unified_Vibration_Signal_Representation.md)
-
 - [Bidirectional Intent Communication: A Role for Large Foundation Models](2024年08月20日/Bidirectional_Intent_Communication_A_Role_for_Large_Foundation_Models.md)
 
     - [翻译: 双向意图沟通：大型基础模型的关键作用](2024年08月20日/Bidirectional_Intent_Communication_A_Role_for_Large_Foundation_Models.md)
-
-- [DAAD: Dynamic Analysis and Adaptive Discriminator for Fake News Detection](2024年08月20日/DAAD_Dynamic_Analysis_and_Adaptive_Discriminator_for_Fake_News_Detection.md)
-
-    - [翻译: DAAD：针对虚假新闻检测的动态分析与自适应判别技术](2024年08月20日/DAAD_Dynamic_Analysis_and_Adaptive_Discriminator_for_Fake_News_Detection.md)
 
 - [Exploring the use of Generative AI to Support Automated Just-in-Time Programming for Visual Scene Displays](2024年08月20日/Exploring_the_use_of_Generative_AI_to_Support_Automated_Just-in-Time_Programming_for_Visual_Scene_Displays.md)
 
@@ -338,10 +330,6 @@
 
     - [翻译: 探究大规模语言模型中相似性判断的上下文影响](2024年08月20日/Investigating_Context_Effects_in_Similarity_Judgements_in_Large_Language_Models.md)
 
-- [ISLES 2024: The first longitudinal multimodal multi-center real-world dataset in (sub-)acute stroke](2024年08月20日/ISLES_2024_The_first_longitudinal_multimodal_multi-center_real-world_dataset_in_(sub-)acute_stroke.md)
-
-    - [翻译: ISLES 2024 带来了首个针对（亚）急性中风的长程、多模态、多中心的真实世界数据集。](2024年08月20日/ISLES_2024_The_first_longitudinal_multimodal_multi-center_real-world_dataset_in_(sub-)acute_stroke.md)
-
 - [Large Language Models for Multimodal Deformable Image Registration](2024年08月20日/Large_Language_Models_for_Multimodal_Deformable_Image_Registration.md)
 
     - [翻译: 大型语言模型在多模态可变形图像配准中的应用](2024年08月20日/Large_Language_Models_for_Multimodal_Deformable_Image_Registration.md)
@@ -353,24 +341,6 @@
 - [PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection](2024年08月20日/PhishAgent_A_Robust_Multimodal_Agent_for_Phishing_Webpage_Detection.md)
 
     - [翻译: PhishAgent：一款强大的多模态代理，专为钓鱼网页检测而设计。](2024年08月20日/PhishAgent_A_Robust_Multimodal_Agent_for_Phishing_Webpage_Detection.md)
-
-- [Reading with Intent](2024年08月20日/Reading_with_Intent.md)
-
-    - [翻译: 有目的地阅读](2024年08月20日/Reading_with_Intent.md)
-
-- [Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research](2024年08月20日/Reconciling_Methodological_Paradigms_Employing_Large_Language_Models_as_Novice_Qualitative_Research_Assistants_in_Talent_Management_Research.md)
-
-    - [翻译: 融合方法论范式：在人才管理研究领域，我们尝试将大型语言模型作为初学者级别的定性研究助手。](2024年08月20日/Reconciling_Methodological_Paradigms_Employing_Large_Language_Models_as_Novice_Qualitative_Research_Assistants_in_Talent_Management_Research.md)
-
-- [Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework](2024年08月20日/Swarm_Intelligence_in_Geo-Localization_A_Multi-Agent_Large_Vision-Language_Model_Collaborative_Framework.md)
-
-    - [翻译: 地理定位中的群体智能：构建多智能体大型视觉-语言模型协作框架](2024年08月20日/Swarm_Intelligence_in_Geo-Localization_A_Multi-Agent_Large_Vision-Language_Model_Collaborative_Framework.md)
-
-2024年08月19日
-
-- [Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation](2024年08月19日/Kubrick_Multimodal_Agent_Collaborations_for_Synthetic_Video_Generation.md)
-
-    - [翻译: Kubrick：多模态代理协作，助力合成视频创作](2024年08月19日/Kubrick_Multimodal_Agent_Collaborations_for_Synthetic_Video_Generation.md)
 
 2024年08月05日
 
