@@ -180,29 +180,9 @@
 
     - [翻译: ConflictBank：评估 LLM 中知识冲突影响的基准](2024年08月21日/ConflictBank_A_Benchmark_for_Evaluating_the_Influence_of_Knowledge_Conflicts_in_LLM.md)
 
-- [DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework](2024年08月21日/DreamFactory_Pioneering_Multi-Scene_Long_Video_Generation_with_a_Multi-Agent_Framework.md)
-
-    - [翻译: DreamFactory：引领多场景长视频生成，借助多智能体框架创新前行](2024年08月21日/DreamFactory_Pioneering_Multi-Scene_Long_Video_Generation_with_a_Multi-Agent_Framework.md)
-
 - [EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model](2024年08月21日/EE-MLLM_A_Data-Efficient_and_Compute-Efficient_Multimodal_Large_Language_Model.md)
 
     - [翻译: EE-MLLM：一款数据与计算双高效的多元大型语言模型](2024年08月21日/EE-MLLM_A_Data-Efficient_and_Compute-Efficient_Multimodal_Large_Language_Model.md)
-
-- [GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models](2024年08月21日/GRAB_A_Challenging_GRaph_Analysis_Benchmark_for_Large_Multimodal_Models.md)
-
-    - [翻译: GRAB：大型多模态模型面临的图分析挑战基准](2024年08月21日/GRAB_A_Challenging_GRaph_Analysis_Benchmark_for_Large_Multimodal_Models.md)
-
-- [Large Language Models for Page Stream Segmentation](2024年08月21日/Large_Language_Models_for_Page_Stream_Segmentation.md)
-
-    - [翻译: 利用大型语言模型进行页面流分割](2024年08月21日/Large_Language_Models_for_Page_Stream_Segmentation.md)
-
-- [Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design](2024年08月21日/Leveraging_Chemistry_Foundation_Models_to_Facilitate_Structure_Focused_Retrieval_Augmented_Generation_in_Multi-Agent_Workflows_for_Catalyst_and_Materials_Design.md)
-
-    - [翻译: 借助化学基础模型，我们致力于优化多智能体工作流中催化剂与材料设计的结构聚焦检索增强生成过程。](2024年08月21日/Leveraging_Chemistry_Foundation_Models_to_Facilitate_Structure_Focused_Retrieval_Augmented_Generation_in_Multi-Agent_Workflows_for_Catalyst_and_Materials_Design.md)
-
-- [MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](2024年08月21日/MagicDec_Breaking_the_Latency-Throughput_Tradeoff_for_Long_Context_Generation_with_Speculative_Decoding.md)
-
-    - [翻译: MagicDec 技术通过推测性解码，成功打破了长上下文生成中的延迟与吞吐量之间的权衡。](2024年08月21日/MagicDec_Breaking_the_Latency-Throughput_Tradeoff_for_Long_Context_Generation_with_Speculative_Decoding.md)
 
 - [RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation](2024年08月21日/RAGLAB_A_Modular_and_Research-Oriented_Unified_Framework_for_Retrieval-Augmented_Generation.md)
 
@@ -211,10 +191,6 @@
 - [Reasoning and Tools for Human-Level Forecasting](2024年08月21日/Reasoning_and_Tools_for_Human-Level_Forecasting.md)
 
     - [翻译: 人类级预测的推理与工具](2024年08月21日/Reasoning_and_Tools_for_Human-Level_Forecasting.md)
-
-- [SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models](2024年08月21日/SPARK_Multi-Vision_Sensor_Perception_and_Reasoning_Benchmark_for_Large-scale_Vision-Language_Models.md)
-
-    - [翻译: SPARK：为大规模视觉-语言模型打造的多视觉传感器感知与推理基准](2024年08月21日/SPARK_Multi-Vision_Sensor_Perception_and_Reasoning_Benchmark_for_Large-scale_Vision-Language_Models.md)
 
 - [T2VIndexer: A Generative Video Indexer for Efficient Text-Video Retrieval](2024年08月21日/T2VIndexer_A_Generative_Video_Indexer_for_Efficient_Text-Video_Retrieval.md)
 
