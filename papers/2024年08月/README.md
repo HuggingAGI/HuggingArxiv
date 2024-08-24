@@ -200,14 +200,6 @@
 
     - [翻译: EE-MLLM：一款数据与计算双高效的多元大型语言模型](2024年08月21日/EE-MLLM_A_Data-Efficient_and_Compute-Efficient_Multimodal_Large_Language_Model.md)
 
-- [Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](2024年08月21日/Evidence-backed_Fact_Checking_using_RAG_and_Few-Shot_In-Context_Learning_with_LLMs.md)
-
-    - [翻译: 利用 RAG 和 LLM 进行少量样本上下文学习，实现基于证据的事实核查](2024年08月21日/Evidence-backed_Fact_Checking_using_RAG_and_Few-Shot_In-Context_Learning_with_LLMs.md)
-
-- [Exploring the Feasibility of Automated Data Standardization using Large Language Models for Seamless Positioning](2024年08月21日/Exploring_the_Feasibility_of_Automated_Data_Standardization_using_Large_Language_Models_for_Seamless_Positioning.md)
-
-    - [翻译: 本研究旨在探讨利用大型语言模型实现无缝定位的自动化数据标准化的可行性。](2024年08月21日/Exploring_the_Feasibility_of_Automated_Data_Standardization_using_Large_Language_Models_for_Seamless_Positioning.md)
-
 - [GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models](2024年08月21日/GRAB_A_Challenging_GRaph_Analysis_Benchmark_for_Large_Multimodal_Models.md)
 
     - [翻译: GRAB：大型多模态模型面临的图分析挑战基准](2024年08月21日/GRAB_A_Challenging_GRaph_Analysis_Benchmark_for_Large_Multimodal_Models.md)
@@ -220,17 +212,9 @@
 
     - [翻译: 借助化学基础模型，我们致力于优化多智能体工作流中催化剂与材料设计的结构聚焦检索增强生成过程。](2024年08月21日/Leveraging_Chemistry_Foundation_Models_to_Facilitate_Structure_Focused_Retrieval_Augmented_Generation_in_Multi-Agent_Workflows_for_Catalyst_and_Materials_Design.md)
 
-- [LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites](2024年08月21日/LLM4VV_Exploring_LLM-as-a-Judge_for_Validation_and_Verification_Testsuites.md)
-
-    - [翻译: LLM4VV：探索 LLM 在验证与验证测试中的判断角色](2024年08月21日/LLM4VV_Exploring_LLM-as-a-Judge_for_Validation_and_Verification_Testsuites.md)
-
 - [MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](2024年08月21日/MagicDec_Breaking_the_Latency-Throughput_Tradeoff_for_Long_Context_Generation_with_Speculative_Decoding.md)
 
     - [翻译: MagicDec 技术通过推测性解码，成功打破了长上下文生成中的延迟与吞吐量之间的权衡。](2024年08月21日/MagicDec_Breaking_the_Latency-Throughput_Tradeoff_for_Long_Context_Generation_with_Speculative_Decoding.md)
-
-- [PermitQA: A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain](2024年08月21日/PermitQA_A_Benchmark_for_Retrieval_Augmented_Generation_in_Wind_Siting_and_Permitting_domain.md)
-
-    - [翻译: PermitQA：风电场选址与许可领域中检索增强生成的评估基准](2024年08月21日/PermitQA_A_Benchmark_for_Retrieval_Augmented_Generation_in_Wind_Siting_and_Permitting_domain.md)
 
 - [RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation](2024年08月21日/RAGLAB_A_Modular_and_Research-Oriented_Unified_Framework_for_Retrieval-Augmented_Generation.md)
 
@@ -239,10 +223,6 @@
 - [Reasoning and Tools for Human-Level Forecasting](2024年08月21日/Reasoning_and_Tools_for_Human-Level_Forecasting.md)
 
     - [翻译: 人类级预测的推理与工具](2024年08月21日/Reasoning_and_Tools_for_Human-Level_Forecasting.md)
-
-- [RoVRM: A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data](2024年08月21日/RoVRM_A_Robust_Visual_Reward_Model_Optimized_via_Auxiliary_Textual_Preference_Data.md)
-
-    - [翻译: RoVRM：借助辅助文本偏好数据，优化而成的鲁棒视觉奖励模型](2024年08月21日/RoVRM_A_Robust_Visual_Reward_Model_Optimized_via_Auxiliary_Textual_Preference_Data.md)
 
 - [SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models](2024年08月21日/SPARK_Multi-Vision_Sensor_Perception_and_Reasoning_Benchmark_for_Large-scale_Vision-Language_Models.md)
 
