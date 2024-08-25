@@ -34,25 +34,13 @@
 
     - [翻译: 帧序关键：少样本动作识别中的时间序列感知模型](2024年08月22日/Frame_Order_Matters_A_Temporal_Sequence-Aware_Model_for_Few-Shot_Action_Recognition.md)
 
-- [GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections](2024年08月22日/GarmentAligner_Text-to-Garment_Generation_via_Retrieval-augmented_Multi-level_Corrections.md)
-
-    - [翻译: GarmentAligner：借助检索增强的多级校正技术，实现从文本到服装的精准生成。](2024年08月22日/GarmentAligner_Text-to-Garment_Generation_via_Retrieval-augmented_Multi-level_Corrections.md)
-
 - [GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](2024年08月22日/GenderCARE_A_Comprehensive_Framework_for_Assessing_and_Reducing_Gender_Bias_in_Large_Language_Models.md)
 
     - [翻译: GenderCARE：一个全面框架，旨在评估并减少大型语言模型中的性别偏见。](2024年08月22日/GenderCARE_A_Comprehensive_Framework_for_Assessing_and_Reducing_Gender_Bias_in_Large_Language_Models.md)
 
-- [Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning](2024年08月22日/Geolocation_Representation_from_Large_Language_Models_are_Generic_Enhancers_for_Spatio-Temporal_Learning.md)
-
-    - [翻译: 大型语言模型中的地理位置表示，如同一把钥匙，开启了时空学习的新篇章，为这一领域注入了强大的动力。](2024年08月22日/Geolocation_Representation_from_Large_Language_Models_are_Generic_Enhancers_for_Spatio-Temporal_Learning.md)
-
 - [Graph Retrieval Augmented Trustworthiness Reasoning](2024年08月22日/Graph_Retrieval_Augmented_Trustworthiness_Reasoning.md)
 
     - [翻译: 图检索强化可信推理](2024年08月22日/Graph_Retrieval_Augmented_Trustworthiness_Reasoning.md)
-
-- [Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators](2024年08月22日/Improving_Factuality_in_Large_Language_Models_via_Decoding-Time_Hallucinatory_and_Truthful_Comparators.md)
-
-    - [翻译: 利用解码时刻的幻觉与真实对比机制，提升大型语言模型的事实准确性](2024年08月22日/Improving_Factuality_in_Large_Language_Models_via_Decoding-Time_Hallucinatory_and_Truthful_Comparators.md)
 
 - [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](2024年08月22日/Jamba-1.5_Hybrid_Transformer-Mamba_Models_at_Scale.md)
 
@@ -81,14 +69,6 @@
 - [Multi-tool Integration Application for Math Reasoning Using Large Language Model](2024年08月22日/Multi-tool_Integration_Application_for_Math_Reasoning_Using_Large_Language_Model.md)
 
     - [翻译: 大型语言模型助力数学推理的多工具集成应用](2024年08月22日/Multi-tool_Integration_Application_for_Math_Reasoning_Using_Large_Language_Model.md)
-
-- [MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](2024年08月22日/MuMA-ToM_Multi-modal_Multi-Agent_Theory_of_Mind.md)
-
-    - [翻译: MuMA-ToM：探索多模态环境下的多智能体心智理论](2024年08月22日/MuMA-ToM_Multi-modal_Multi-Agent_Theory_of_Mind.md)
-
-- [PolyRouter: A Multi-LLM Querying System](2024年08月22日/PolyRouter_A_Multi-LLM_Querying_System.md)
-
-    - [翻译: PolyRouter：一款集成了多个大型语言模型的查询系统](2024年08月22日/PolyRouter_A_Multi-LLM_Querying_System.md)
 
 - [Preference-Guided Reflective Sampling for Aligning Language Models](2024年08月22日/Preference-Guided_Reflective_Sampling_for_Aligning_Language_Models.md)
 
