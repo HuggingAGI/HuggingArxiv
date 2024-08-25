@@ -2,22 +2,6 @@
 
 2024年08月22日
 
-- [Can You Trust Your Metric? Automatic Concatenation-Based Tests for Metric Validity](2024年08月22日/Can_You_Trust_Your_Metric_Automatic_Concatenation-Based_Tests_for_Metric_Validity.md)
-
-    - [翻译: 你的指标可靠吗？通过自动连接测试来验证指标的有效性。](2024年08月22日/Can_You_Trust_Your_Metric_Automatic_Concatenation-Based_Tests_for_Metric_Validity.md)
-
-- [Enhancing Multi-hop Reasoning through Knowledge Erasure in Large Language Model Editing](2024年08月22日/Enhancing_Multi-hop_Reasoning_through_Knowledge_Erasure_in_Large_Language_Model_Editing.md)
-
-    - [翻译: 通过在大规模语言模型编辑中实施知识擦除，我们旨在提升多跳推理能力。](2024年08月22日/Enhancing_Multi-hop_Reasoning_through_Knowledge_Erasure_in_Large_Language_Model_Editing.md)
-
-- [Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning](2024年08月22日/Envisioning_Class_Entity_Reasoning_by_Large_Language_Models_for_Few-shot_Learning.md)
-
-    - [翻译: 设想大型语言模型在少样本学习中进行类实体推理](2024年08月22日/Envisioning_Class_Entity_Reasoning_by_Large_Language_Models_for_Few-shot_Learning.md)
-
-- [FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing](2024年08月22日/FlexEdit_Marrying_Free-Shape_Masks_to_VLLM_for_Flexible_Image_Editing.md)
-
-    - [翻译: FlexEdit 结合自由形状遮罩与 VLLM，开创灵活图像编辑新境界。](2024年08月22日/FlexEdit_Marrying_Free-Shape_Masks_to_VLLM_for_Flexible_Image_Editing.md)
-
 - [Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition](2024年08月22日/Frame_Order_Matters_A_Temporal_Sequence-Aware_Model_for_Few-Shot_Action_Recognition.md)
 
     - [翻译: 帧序关键：少样本动作识别中的时间序列感知模型](2024年08月22日/Frame_Order_Matters_A_Temporal_Sequence-Aware_Model_for_Few-Shot_Action_Recognition.md)
@@ -26,10 +10,6 @@
 
     - [翻译: GenderCARE：一个全面框架，旨在评估并减少大型语言模型中的性别偏见。](2024年08月22日/GenderCARE_A_Comprehensive_Framework_for_Assessing_and_Reducing_Gender_Bias_in_Large_Language_Models.md)
 
-- [Graph Retrieval Augmented Trustworthiness Reasoning](2024年08月22日/Graph_Retrieval_Augmented_Trustworthiness_Reasoning.md)
-
-    - [翻译: 图检索强化可信推理](2024年08月22日/Graph_Retrieval_Augmented_Trustworthiness_Reasoning.md)
-
 - [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](2024年08月22日/Jamba-1.5_Hybrid_Transformer-Mamba_Models_at_Scale.md)
 
     - [翻译: Jamba-1.5：融合 Transformer 与 Mamba 的大规模混合模型](2024年08月22日/Jamba-1.5_Hybrid_Transformer-Mamba_Models_at_Scale.md)
@@ -37,14 +17,6 @@
 - [Language Agents as Optimizable Graphs](2024年08月22日/Language_Agents_as_Optimizable_Graphs.md)
 
     - [翻译: 语言代理：图形优化的艺术](2024年08月22日/Language_Agents_as_Optimizable_Graphs.md)
-
-- [Large Language Models Are Self-Taught Reasoners: Enhancing LLM Applications via Tailored Problem-Solving Demonstrations](2024年08月22日/Large_Language_Models_Are_Self-Taught_Reasoners_Enhancing_LLM_Applications_via_Tailored_Problem-Solving_Demonstrations.md)
-
-    - [翻译: 大型语言模型如同自学成才的推理高手，通过量身定制的问题解决演示，其应用能力得以进一步提升。](2024年08月22日/Large_Language_Models_Are_Self-Taught_Reasoners_Enhancing_LLM_Applications_via_Tailored_Problem-Solving_Demonstrations.md)
-
-- [RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering](2024年08月22日/RoundTable_Leveraging_Dynamic_Schema_and_Contextual_Autocomplete_for_Enhanced_Query_Precision_in_Tabular_Question_Answering.md)
-
-    - [翻译: 圆桌会议：通过动态模式与上下文自动补全，提升表格问答查询的精准度](2024年08月22日/RoundTable_Leveraging_Dynamic_Schema_and_Contextual_Autocomplete_for_Enhanced_Query_Precision_in_Tabular_Question_Answering.md)
 
 - [ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation](2024年08月22日/ssProp_Energy-Efficient_Training_for_Convolutional_Neural_Networks_with_Scheduled_Sparse_Back_Propagation.md)
 
