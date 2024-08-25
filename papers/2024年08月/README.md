@@ -6,10 +6,6 @@
 
     - [翻译: 你的指标可靠吗？通过自动连接测试来验证指标的有效性。](2024年08月22日/Can_You_Trust_Your_Metric_Automatic_Concatenation-Based_Tests_for_Metric_Validity.md)
 
-- [Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services](2024年08月22日/Efficient_Multivariate_Time_Series_Anomaly_Detection_Through_Transfer_Learning_for_Large-Scale_Web_services.md)
-
-    - [翻译: 利用迁移学习技术，我们实现了针对大规模网络服务的高效多元时间序列异常检测。](2024年08月22日/Efficient_Multivariate_Time_Series_Anomaly_Detection_Through_Transfer_Learning_for_Large-Scale_Web_services.md)
-
 - [Enhancing Multi-hop Reasoning through Knowledge Erasure in Large Language Model Editing](2024年08月22日/Enhancing_Multi-hop_Reasoning_through_Knowledge_Erasure_in_Large_Language_Model_Editing.md)
 
     - [翻译: 通过在大规模语言模型编辑中实施知识擦除，我们旨在提升多跳推理能力。](2024年08月22日/Enhancing_Multi-hop_Reasoning_through_Knowledge_Erasure_in_Large_Language_Model_Editing.md)
@@ -17,10 +13,6 @@
 - [Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning](2024年08月22日/Envisioning_Class_Entity_Reasoning_by_Large_Language_Models_for_Few-shot_Learning.md)
 
     - [翻译: 设想大型语言模型在少样本学习中进行类实体推理](2024年08月22日/Envisioning_Class_Entity_Reasoning_by_Large_Language_Models_for_Few-shot_Learning.md)
-
-- [FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation](2024年08月22日/FIRST_Teach_A_Reliable_Large_Language_Model_Through_Efficient_Trustworthy_Distillation.md)
-
-    - [翻译: 利用高效可信的蒸馏技术，培养一个可靠的大型语言模型](2024年08月22日/FIRST_Teach_A_Reliable_Large_Language_Model_Through_Efficient_Trustworthy_Distillation.md)
 
 - [FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing](2024年08月22日/FlexEdit_Marrying_Free-Shape_Masks_to_VLLM_for_Flexible_Image_Editing.md)
 
@@ -50,14 +42,6 @@
 
     - [翻译: 大型语言模型如同自学成才的推理高手，通过量身定制的问题解决演示，其应用能力得以进一步提升。](2024年08月22日/Large_Language_Models_Are_Self-Taught_Reasoners_Enhancing_LLM_Applications_via_Tailored_Problem-Solving_Demonstrations.md)
 
-- [Large Language Models as Foundations for Next-Gen Dense Retrieval: A Comprehensive Empirical Assessment](2024年08月22日/Large_Language_Models_as_Foundations_for_Next-Gen_Dense_Retrieval_A_Comprehensive_Empirical_Assessment.md)
-
-    - [翻译: 大型语言模型：下一代密集检索的坚实基石——全面实证探究](2024年08月22日/Large_Language_Models_as_Foundations_for_Next-Gen_Dense_Retrieval_A_Comprehensive_Empirical_Assessment.md)
-
-- [MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient](2024年08月22日/MedDiT_A_Knowledge-Controlled_Diffusion_Transformer_Framework_for_Dynamic_Medical_Image_Generation_in_Virtual_Simulated_Patient.md)
-
-    - [翻译: MedDiT：一种知识驱动型扩散变换器框架，专为虚拟模拟患者环境下的动态医学图像生成而设计。](2024年08月22日/MedDiT_A_Knowledge-Controlled_Diffusion_Transformer_Framework_for_Dynamic_Medical_Image_Generation_in_Virtual_Simulated_Patient.md)
-
 - [RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering](2024年08月22日/RoundTable_Leveraging_Dynamic_Schema_and_Contextual_Autocomplete_for_Enhanced_Query_Precision_in_Tabular_Question_Answering.md)
 
     - [翻译: 圆桌会议：通过动态模式与上下文自动补全，提升表格问答查询的精准度](2024年08月22日/RoundTable_Leveraging_Dynamic_Schema_and_Contextual_Autocomplete_for_Enhanced_Query_Precision_in_Tabular_Question_Answering.md)
@@ -69,10 +53,6 @@
 - [Towards Evaluating and Building Versatile Large Language Models for Medicine](2024年08月22日/Towards_Evaluating_and_Building_Versatile_Large_Language_Models_for_Medicine.md)
 
     - [翻译: 探索构建与评估医学领域多功能大型语言模型的路径](2024年08月22日/Towards_Evaluating_and_Building_Versatile_Large_Language_Models_for_Medicine.md)
-
-- [Transformers are Minimax Optimal Nonparametric In-Context Learners](2024年08月22日/Transformers_are_Minimax_Optimal_Nonparametric_In-Context_Learners.md)
-
-    - [翻译: Transformer 模型在上下文学习方面表现出色，是非参数学习中的极小极大最优选择。](2024年08月22日/Transformers_are_Minimax_Optimal_Nonparametric_In-Context_Learners.md)
 
 2024年08月05日
 
