@@ -2,10 +2,6 @@
 
 2024年08月22日
 
-- [AutoTest: Evolutionary Code Solution Selection with Test Cases](2024年08月22日/AutoTest_Evolutionary_Code_Solution_Selection_with_Test_Cases.md)
-
-    - [翻译: AutoTest：借助测试用例，进化选择代码解决方案](2024年08月22日/AutoTest_Evolutionary_Code_Solution_Selection_with_Test_Cases.md)
-
 - [Can You Trust Your Metric? Automatic Concatenation-Based Tests for Metric Validity](2024年08月22日/Can_You_Trust_Your_Metric_Automatic_Concatenation-Based_Tests_for_Metric_Validity.md)
 
     - [翻译: 你的指标可靠吗？通过自动连接测试来验证指标的有效性。](2024年08月22日/Can_You_Trust_Your_Metric_Automatic_Concatenation-Based_Tests_for_Metric_Validity.md)
@@ -58,29 +54,13 @@
 
     - [翻译: 大型语言模型：下一代密集检索的坚实基石——全面实证探究](2024年08月22日/Large_Language_Models_as_Foundations_for_Next-Gen_Dense_Retrieval_A_Comprehensive_Empirical_Assessment.md)
 
-- [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](2024年08月22日/MEDCO_Medical_Education_Copilots_Based_on_A_Multi-Agent_Framework.md)
-
-    - [翻译: MEDCO：医学教育中的多智能体协作框架](2024年08月22日/MEDCO_Medical_Education_Copilots_Based_on_A_Multi-Agent_Framework.md)
-
 - [MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient](2024年08月22日/MedDiT_A_Knowledge-Controlled_Diffusion_Transformer_Framework_for_Dynamic_Medical_Image_Generation_in_Virtual_Simulated_Patient.md)
 
     - [翻译: MedDiT：一种知识驱动型扩散变换器框架，专为虚拟模拟患者环境下的动态医学图像生成而设计。](2024年08月22日/MedDiT_A_Knowledge-Controlled_Diffusion_Transformer_Framework_for_Dynamic_Medical_Image_Generation_in_Virtual_Simulated_Patient.md)
 
-- [Multi-tool Integration Application for Math Reasoning Using Large Language Model](2024年08月22日/Multi-tool_Integration_Application_for_Math_Reasoning_Using_Large_Language_Model.md)
-
-    - [翻译: 大型语言模型助力数学推理的多工具集成应用](2024年08月22日/Multi-tool_Integration_Application_for_Math_Reasoning_Using_Large_Language_Model.md)
-
-- [Preference-Guided Reflective Sampling for Aligning Language Models](2024年08月22日/Preference-Guided_Reflective_Sampling_for_Aligning_Language_Models.md)
-
-    - [翻译: 偏好引导反射采样技术，旨在优化语言模型的对齐效果。](2024年08月22日/Preference-Guided_Reflective_Sampling_for_Aligning_Language_Models.md)
-
 - [RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering](2024年08月22日/RoundTable_Leveraging_Dynamic_Schema_and_Contextual_Autocomplete_for_Enhanced_Query_Precision_in_Tabular_Question_Answering.md)
 
     - [翻译: 圆桌会议：通过动态模式与上下文自动补全，提升表格问答查询的精准度](2024年08月22日/RoundTable_Leveraging_Dynamic_Schema_and_Contextual_Autocomplete_for_Enhanced_Query_Precision_in_Tabular_Question_Answering.md)
-
-- [Search-Based LLMs for Code Optimization](2024年08月22日/Search-Based_LLMs_for_Code_Optimization.md)
-
-    - [翻译: 利用搜索技术优化代码的 LLM 模型](2024年08月22日/Search-Based_LLMs_for_Code_Optimization.md)
 
 - [ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation](2024年08月22日/ssProp_Energy-Efficient_Training_for_Convolutional_Neural_Networks_with_Scheduled_Sparse_Back_Propagation.md)
 
@@ -93,14 +73,6 @@
 - [Transformers are Minimax Optimal Nonparametric In-Context Learners](2024年08月22日/Transformers_are_Minimax_Optimal_Nonparametric_In-Context_Learners.md)
 
     - [翻译: Transformer 模型在上下文学习方面表现出色，是非参数学习中的极小极大最优选择。](2024年08月22日/Transformers_are_Minimax_Optimal_Nonparametric_In-Context_Learners.md)
-
-- [TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model](2024年08月22日/TRRG_Towards_Truthful_Radiology_Report_Generation_With_Cross-modal_Disease_Clue_Enhanced_Large_Language_Model.md)
-
-    - [翻译: TRRG：借助跨模态疾病线索，打造更真实放射报告的大型语言模型](2024年08月22日/TRRG_Towards_Truthful_Radiology_Report_Generation_With_Cross-modal_Disease_Clue_Enhanced_Large_Language_Model.md)
-
-- [Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](2024年08月22日/Unlearning_Trojans_in_Large_Language_Models_A_Comparison_Between_Natural_Language_and_Source_Code.md)
-
-    - [翻译: 大型语言模型中特洛伊木马的消除：自然语言与源代码的对比研究](2024年08月22日/Unlearning_Trojans_in_Large_Language_Models_A_Comparison_Between_Natural_Language_and_Source_Code.md)
 
 2024年08月05日
 
