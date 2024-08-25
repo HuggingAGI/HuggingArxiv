@@ -1,31 +1,5 @@
 # 2024年08月
 
-2024年08月22日
-
-- [Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition](2024年08月22日/Frame_Order_Matters_A_Temporal_Sequence-Aware_Model_for_Few-Shot_Action_Recognition.md)
-
-    - [翻译: 帧序关键：少样本动作识别中的时间序列感知模型](2024年08月22日/Frame_Order_Matters_A_Temporal_Sequence-Aware_Model_for_Few-Shot_Action_Recognition.md)
-
-- [GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](2024年08月22日/GenderCARE_A_Comprehensive_Framework_for_Assessing_and_Reducing_Gender_Bias_in_Large_Language_Models.md)
-
-    - [翻译: GenderCARE：一个全面框架，旨在评估并减少大型语言模型中的性别偏见。](2024年08月22日/GenderCARE_A_Comprehensive_Framework_for_Assessing_and_Reducing_Gender_Bias_in_Large_Language_Models.md)
-
-- [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](2024年08月22日/Jamba-1.5_Hybrid_Transformer-Mamba_Models_at_Scale.md)
-
-    - [翻译: Jamba-1.5：融合 Transformer 与 Mamba 的大规模混合模型](2024年08月22日/Jamba-1.5_Hybrid_Transformer-Mamba_Models_at_Scale.md)
-
-- [Language Agents as Optimizable Graphs](2024年08月22日/Language_Agents_as_Optimizable_Graphs.md)
-
-    - [翻译: 语言代理：图形优化的艺术](2024年08月22日/Language_Agents_as_Optimizable_Graphs.md)
-
-- [ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation](2024年08月22日/ssProp_Energy-Efficient_Training_for_Convolutional_Neural_Networks_with_Scheduled_Sparse_Back_Propagation.md)
-
-    - [翻译: ssProp：通过计划稀疏反向传播实现卷积神经网络的节能训练](2024年08月22日/ssProp_Energy-Efficient_Training_for_Convolutional_Neural_Networks_with_Scheduled_Sparse_Back_Propagation.md)
-
-- [Towards Evaluating and Building Versatile Large Language Models for Medicine](2024年08月22日/Towards_Evaluating_and_Building_Versatile_Large_Language_Models_for_Medicine.md)
-
-    - [翻译: 探索构建与评估医学领域多功能大型语言模型的路径](2024年08月22日/Towards_Evaluating_and_Building_Versatile_Large_Language_Models_for_Medicine.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
