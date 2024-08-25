@@ -10,14 +10,6 @@
 
     - [翻译: 你的指标可靠吗？通过自动连接测试来验证指标的有效性。](2024年08月22日/Can_You_Trust_Your_Metric_Automatic_Concatenation-Based_Tests_for_Metric_Validity.md)
 
-- [Cell-ontology guided transcriptome foundation model](2024年08月22日/Cell-ontology_guided_transcriptome_foundation_model.md)
-
-    - [翻译: 基于细胞本体的转录组基础模型](2024年08月22日/Cell-ontology_guided_transcriptome_foundation_model.md)
-
-- [Controllable Text Generation for Large Language Models: A Survey](2024年08月22日/Controllable_Text_Generation_for_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 大型语言模型中的可控文本生成：综述](2024年08月22日/Controllable_Text_Generation_for_Large_Language_Models_A_Survey.md)
-
 - [Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services](2024年08月22日/Efficient_Multivariate_Time_Series_Anomaly_Detection_Through_Transfer_Learning_for_Large-Scale_Web_services.md)
 
     - [翻译: 利用迁移学习技术，我们实现了针对大规模网络服务的高效多元时间序列异常检测。](2024年08月22日/Efficient_Multivariate_Time_Series_Anomaly_Detection_Through_Transfer_Learning_for_Large-Scale_Web_services.md)
@@ -29,10 +21,6 @@
 - [Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning](2024年08月22日/Envisioning_Class_Entity_Reasoning_by_Large_Language_Models_for_Few-shot_Learning.md)
 
     - [翻译: 设想大型语言模型在少样本学习中进行类实体推理](2024年08月22日/Envisioning_Class_Entity_Reasoning_by_Large_Language_Models_for_Few-shot_Learning.md)
-
-- [EvalYaks: Instruction Tuning Datasets and LoRA Fine-tuned Models for Automated Scoring of CEFR B2 Speaking Assessment Transcripts](2024年08月22日/EvalYaks_Instruction_Tuning_Datasets_and_LoRA_Fine-tuned_Models_for_Automated_Scoring_of_CEFR_B2_Speaking_Assessment_Transcripts.md)
-
-    - [翻译: EvalYaks 提供了一套指令调整数据集和 LoRA 微调模型，专门用于自动评估 CEFR B2 口语测试的转录文本。](2024年08月22日/EvalYaks_Instruction_Tuning_Datasets_and_LoRA_Fine-tuned_Models_for_Automated_Scoring_of_CEFR_B2_Speaking_Assessment_Transcripts.md)
 
 - [FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation](2024年08月22日/FIRST_Teach_A_Reliable_Large_Language_Model_Through_Efficient_Trustworthy_Distillation.md)
 
@@ -62,17 +50,9 @@
 
     - [翻译: 图检索强化可信推理](2024年08月22日/Graph_Retrieval_Augmented_Trustworthiness_Reasoning.md)
 
-- [Implicit Sentiment Analysis Based on Chain of Thought Prompting](2024年08月22日/Implicit_Sentiment_Analysis_Based_on_Chain_of_Thought_Prompting.md)
-
-    - [翻译: 思维链提示驱动下的隐式情感分析](2024年08月22日/Implicit_Sentiment_Analysis_Based_on_Chain_of_Thought_Prompting.md)
-
 - [Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators](2024年08月22日/Improving_Factuality_in_Large_Language_Models_via_Decoding-Time_Hallucinatory_and_Truthful_Comparators.md)
 
     - [翻译: 利用解码时刻的幻觉与真实对比机制，提升大型语言模型的事实准确性](2024年08月22日/Improving_Factuality_in_Large_Language_Models_via_Decoding-Time_Hallucinatory_and_Truthful_Comparators.md)
-
-- [Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models](2024年08月22日/Interactive_DualChecker_for_Mitigating_Hallucinations_in_Distilling_Large_Language_Models.md)
-
-    - [翻译: 交互式 DualChecker 旨在减少大型语言模型蒸馏过程中的幻觉问题](2024年08月22日/Interactive_DualChecker_for_Mitigating_Hallucinations_in_Distilling_Large_Language_Models.md)
 
 - [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](2024年08月22日/Jamba-1.5_Hybrid_Transformer-Mamba_Models_at_Scale.md)
 
@@ -89,10 +69,6 @@
 - [Large Language Models as Foundations for Next-Gen Dense Retrieval: A Comprehensive Empirical Assessment](2024年08月22日/Large_Language_Models_as_Foundations_for_Next-Gen_Dense_Retrieval_A_Comprehensive_Empirical_Assessment.md)
 
     - [翻译: 大型语言模型：下一代密集检索的坚实基石——全面实证探究](2024年08月22日/Large_Language_Models_as_Foundations_for_Next-Gen_Dense_Retrieval_A_Comprehensive_Empirical_Assessment.md)
-
-- [LLMs are not Zero-Shot Reasoners for Biomedical Information Extraction](2024年08月22日/LLMs_are_not_Zero-Shot_Reasoners_for_Biomedical_Information_Extraction.md)
-
-    - [翻译: LLM 在生物医学信息提取方面并非零-Shot 推理器。](2024年08月22日/LLMs_are_not_Zero-Shot_Reasoners_for_Biomedical_Information_Extraction.md)
 
 - [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](2024年08月22日/MEDCO_Medical_Education_Copilots_Based_on_A_Multi-Agent_Framework.md)
 
@@ -141,10 +117,6 @@
 - [TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model](2024年08月22日/TRRG_Towards_Truthful_Radiology_Report_Generation_With_Cross-modal_Disease_Clue_Enhanced_Large_Language_Model.md)
 
     - [翻译: TRRG：借助跨模态疾病线索，打造更真实放射报告的大型语言模型](2024年08月22日/TRRG_Towards_Truthful_Radiology_Report_Generation_With_Cross-modal_Disease_Clue_Enhanced_Large_Language_Model.md)
-
-- [UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model](2024年08月22日/UNCO_Towards_Unifying_Neural_Combinatorial_Optimization_through_Large_Language_Model.md)
-
-    - [翻译: UNCO：借助大型语言模型，迈向神经组合优化的统一之路](2024年08月22日/UNCO_Towards_Unifying_Neural_Combinatorial_Optimization_through_Large_Language_Model.md)
 
 - [Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](2024年08月22日/Unlearning_Trojans_in_Large_Language_Models_A_Comparison_Between_Natural_Language_and_Source_Code.md)
 
