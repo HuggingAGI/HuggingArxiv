@@ -96,21 +96,9 @@
 
 2024年08月22日
 
-- [Assessing Modality Bias in Video Question Answering Benchmarks with Multimodal Large Language Models](2024年08月22日/Assessing_Modality_Bias_in_Video_Question_Answering_Benchmarks_with_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 探究多模态大型语言模型在视频问答基准测试中的模态偏差](2024年08月22日/Assessing_Modality_Bias_in_Video_Question_Answering_Benchmarks_with_Multimodal_Large_Language_Models.md)
-
 - [Bridging the gap between natural user expression with complex automation programming in smart homes](2024年08月22日/Bridging_the_gap_between_natural_user_expression_with_complex_automation_programming_in_smart_homes.md)
 
     - [翻译: 在智能家居领域，我们致力于缩小自然用户表达与复杂自动化编程之间的鸿沟。](2024年08月22日/Bridging_the_gap_between_natural_user_expression_with_complex_automation_programming_in_smart_homes.md)
-
-- [Context-Aware Temporal Embedding of Objects in Video Data](2024年08月22日/Context-Aware_Temporal_Embedding_of_Objects_in_Video_Data.md)
-
-    - [翻译: 视频数据中对象的时间嵌入，具备上下文感知能力](2024年08月22日/Context-Aware_Temporal_Embedding_of_Objects_in_Video_Data.md)
-
-- [LLM-PBE: Assessing Data Privacy in Large Language Models](2024年08月22日/LLM-PBE_Assessing_Data_Privacy_in_Large_Language_Models.md)
-
-    - [翻译: LLM-PBE：大型语言模型数据隐私评估](2024年08月22日/LLM-PBE_Assessing_Data_Privacy_in_Large_Language_Models.md)
 
 - [NanoFlow: Towards Optimal Large Language Model Serving Throughput](2024年08月22日/NanoFlow_Towards_Optimal_Large_Language_Model_Serving_Throughput.md)
 
@@ -119,18 +107,6 @@
 - [Quality or Quantity? On Data Scale and Diversity in Adapting Large Language Models for Low-Resource Translation](2024年08月22日/Quality_or_Quantity_On_Data_Scale_and_Diversity_in_Adapting_Large_Language_Models_for_Low-Resource_Translation.md)
 
     - [翻译: 在调整大型语言模型以适应低资源翻译时，我们面临一个选择：追求数据的质量还是数量？本文探讨了数据规模与多样性在这一过程中的重要性。](2024年08月22日/Quality_or_Quantity_On_Data_Scale_and_Diversity_in_Adapting_Large_Language_Models_for_Low-Resource_Translation.md)
-
-- [SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection](2024年08月22日/SLM_Meets_LLM_Balancing_Latency,_Interpretability_and_Consistency_in_Hallucination_Detection.md)
-
-    - [翻译: 当 SLM 与 LLM 相遇，我们致力于在幻觉检测中实现延迟、可解释性和一致性的平衡。](2024年08月22日/SLM_Meets_LLM_Balancing_Latency,_Interpretability_and_Consistency_in_Hallucination_Detection.md)
-
-- [SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging](2024年08月22日/SQL-GEN_Bridging_the_Dialect_Gap_for_Text-to-SQL_Via_Synthetic_Data_And_Model_Merging.md)
-
-    - [翻译: SQL-GEN：借助合成数据与模型融合，跨越文本转SQL的方言鸿沟](2024年08月22日/SQL-GEN_Bridging_the_Dialect_Gap_for_Text-to-SQL_Via_Synthetic_Data_And_Model_Merging.md)
-
-- [Toward stringy horizons](2024年08月22日/Toward_stringy_horizons.md)
-
-    - [翻译: 迈向弦状地平线](2024年08月22日/Toward_stringy_horizons.md)
 
 2024年08月05日
 
