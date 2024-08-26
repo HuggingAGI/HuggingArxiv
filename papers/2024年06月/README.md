@@ -17,3 +17,7 @@
 - [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](2024年06月03日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)
 
     - [翻译: Agent Smith：仅需一张图片，便能迅速让百万计的多模态大型语言模型（LLM）代理陷入崩溃，其速度呈指数级增长。](2024年06月03日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)
+
+- [Take a Step Further: Understanding Page Spray in Linux Kernel Exploitation](2024年06月03日/Take_a_Step_Further_Understanding_Page_Spray_in_Linux_Kernel_Exploitation.md)
+
+    - [翻译: 深入一步：揭秘 Linux 内核攻击中的页面喷射技术](2024年06月03日/Take_a_Step_Further_Understanding_Page_Spray_in_Linux_Kernel_Exploitation.md)
