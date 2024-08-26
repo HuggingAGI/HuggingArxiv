@@ -1,5 +1,35 @@
 # 2024年08月
 
+2024年08月23日
+
+- [Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning](2024年08月23日/Can_LLM_be_a_Good_Path_Planner_based_on_Prompt_Engineering_Mitigating_the_Hallucination_for_Path_Planning.md)
+
+    - [翻译: LLM 能否借助提示工程成为出色的路径规划器？我们探讨如何减少路径规划中的幻觉现象。](2024年08月23日/Can_LLM_be_a_Good_Path_Planner_based_on_Prompt_Engineering_Mitigating_the_Hallucination_for_Path_Planning.md)
+
+- [DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation](2024年08月23日/DOMAINEVAL_An_Auto-Constructed_Benchmark_for_Multi-Domain_Code_Generation.md)
+
+    - [翻译: DOMAINEVAL：多领域代码生成的自动构建基准](2024年08月23日/DOMAINEVAL_An_Auto-Constructed_Benchmark_for_Multi-Domain_Code_Generation.md)
+
+- [Domain-specific long text classification from sparse relevant information](2024年08月23日/Domain-specific_long_text_classification_from_sparse_relevant_information.md)
+
+    - [翻译: 从稀疏信息中提取特定领域长文本分类](2024年08月23日/Domain-specific_long_text_classification_from_sparse_relevant_information.md)
+
+- [EUR-USD Exchange Rate Forecasting Based on Information Fusion with Large Language Models and Deep Learning Methods](2024年08月23日/EUR-USD_Exchange_Rate_Forecasting_Based_on_Information_Fusion_with_Large_Language_Models_and_Deep_Learning_Methods.md)
+
+    - [翻译: 结合大型语言模型与深度学习技术，本研究探索了EUR-USD汇率的预测方法，通过信息融合提升预测精度。](2024年08月23日/EUR-USD_Exchange_Rate_Forecasting_Based_on_Information_Fusion_with_Large_Language_Models_and_Deep_Learning_Methods.md)
+
+- [IntelliCare: Improving Healthcare Analysis with Variance-Controlled Patient-Level Knowledge from Large Language Models](2024年08月23日/IntelliCare_Improving_Healthcare_Analysis_with_Variance-Controlled_Patient-Level_Knowledge_from_Large_Language_Models.md)
+
+    - [翻译: IntelliCare：利用大型语言模型中的变异控制患者级知识，提升医疗保健分析的精准度。](2024年08月23日/IntelliCare_Improving_Healthcare_Analysis_with_Variance-Controlled_Patient-Level_Knowledge_from_Large_Language_Models.md)
+
+- [Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time](2024年08月23日/Multi-Layer_Transformers_Gradient_Can_be_Approximated_in_Almost_Linear_Time.md)
+
+    - [翻译: 多层Transformer的梯度近似可在近乎线性时间内完成](2024年08月23日/Multi-Layer_Transformers_Gradient_Can_be_Approximated_in_Almost_Linear_Time.md)
+
+- [Tamgram: A Frontend for Large-scale Protocol Modeling in Tamarin](2024年08月23日/Tamgram_A_Frontend_for_Large-scale_Protocol_Modeling_in_Tamarin.md)
+
+    - [翻译: Tamgram：Tamarin 大规模协议建模的前端工具](2024年08月23日/Tamgram_A_Frontend_for_Large-scale_Protocol_Modeling_in_Tamarin.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
