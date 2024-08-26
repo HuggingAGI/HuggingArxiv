@@ -1,15 +1,5 @@
 # 2024年08月
 
-2024年08月23日
-
-- [Guiding IoT-Based Healthcare Alert Systems with Large Language Models](2024年08月23日/Guiding_IoT-Based_Healthcare_Alert_Systems_with_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型引领物联网医疗警报系统的发展](2024年08月23日/Guiding_IoT-Based_Healthcare_Alert_Systems_with_Large_Language_Models.md)
-
-- [Moral Judgments in Online Discourse are not Biased by Gender](2024年08月23日/Moral_Judgments_in_Online_Discourse_are_not_Biased_by_Gender.md)
-
-    - [翻译: 网络讨论中的道德评判，性别偏见并未涉足。](2024年08月23日/Moral_Judgments_in_Online_Discourse_are_not_Biased_by_Gender.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
