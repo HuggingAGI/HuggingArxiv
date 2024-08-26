@@ -2,14 +2,6 @@
 
 2024年08月23日
 
-- [Causal-Guided Active Learning for Debiasing Large Language Models](2024年08月23日/Causal-Guided_Active_Learning_for_Debiasing_Large_Language_Models.md)
-
-    - [翻译: 因果引导的主动学习策略，旨在减少大型语言模型的偏见。](2024年08月23日/Causal-Guided_Active_Learning_for_Debiasing_Large_Language_Models.md)
-
-- [CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition](2024年08月23日/CLLMFS_A_Contrastive_Learning_enhanced_Large_Language_Model_Framework_for_Few-Shot_Named_Entity_Recognition.md)
-
-    - [翻译: CLLMFS：一款结合对比学习技术，专为少样本命名实体识别设计的大型语言模型框架。](2024年08月23日/CLLMFS_A_Contrastive_Learning_enhanced_Large_Language_Model_Framework_for_Few-Shot_Named_Entity_Recognition.md)
-
 - [CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution](2024年08月23日/CRUXEval-X_A_Benchmark_for_Multilingual_Code_Reasoning,_Understanding_and_Execution.md)
 
     - [翻译: CRUXEval-X：多语言代码推理、理解和执行的综合基准](2024年08月23日/CRUXEval-X_A_Benchmark_for_Multilingual_Code_Reasoning,_Understanding_and_Execution.md)
@@ -26,17 +18,9 @@
 
     - [翻译: 大型语言模型引领物联网医疗警报系统的发展](2024年08月23日/Guiding_IoT-Based_Healthcare_Alert_Systems_with_Large_Language_Models.md)
 
-- [IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities](2024年08月23日/IAA_Inner-Adaptor_Architecture_Empowers_Frozen_Large_Language_Model_with_Multimodal_Capabilities.md)
-
-    - [翻译: IAA 架构通过内部适配器，为冻结的 LLM 注入多模态能力。](2024年08月23日/IAA_Inner-Adaptor_Architecture_Empowers_Frozen_Large_Language_Model_with_Multimodal_Capabilities.md)
-
 - [In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting](2024年08月23日/In-Context_Learning_with_Reinforcement_Learning_for_Incomplete_Utterance_Rewriting.md)
 
     - [翻译: 结合强化学习的上下文学习技术，应用于不完整话语的重写任务。](2024年08月23日/In-Context_Learning_with_Reinforcement_Learning_for_Incomplete_Utterance_Rewriting.md)
-
-- [LIMP: Large Language Model Enhanced Intent-aware Mobility Prediction](2024年08月23日/LIMP_Large_Language_Model_Enhanced_Intent-aware_Mobility_Prediction.md)
-
-    - [翻译: LIMP：借助大型语言模型，提升意图感知的移动预测能力](2024年08月23日/LIMP_Large_Language_Model_Enhanced_Intent-aware_Mobility_Prediction.md)
 
 - [MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?](2024年08月23日/MME-RealWorld_Could_Your_Multimodal_LLM_Challenge_High-Resolution_Real-World_Scenarios_that_are_Difficult_for_Humans.md)
 
@@ -62,10 +46,6 @@
 
     - [翻译: 从屏幕文本情感预测情感状态](2024年08月23日/Predicting_Affective_States_from_Screen_Text_Sentiment.md)
 
-- [Semantic Alignment for Multimodal Large Language Models](2024年08月23日/Semantic_Alignment_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 多模态大型语言模型的语义对齐](2024年08月23日/Semantic_Alignment_for_Multimodal_Large_Language_Models.md)
-
 - [Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates](2024年08月23日/Systematic_Evaluation_of_LLM-as-a-Judge_in_LLM_Alignment_Tasks_Explainable_Metrics_and_Diverse_Prompt_Templates.md)
 
     - [翻译: 系统评估 LLM 在对齐任务中的评判能力，聚焦于可解释指标与多样化提示模板的应用。](2024年08月23日/Systematic_Evaluation_of_LLM-as-a-Judge_in_LLM_Alignment_Tasks_Explainable_Metrics_and_Diverse_Prompt_Templates.md)
@@ -73,10 +53,6 @@
 - [Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural Framework for AI Safety with Challenges and Mitigations](2024年08月23日/Trustworthy,_Responsible,_and_Safe_AI_A_Comprehensive_Architectural_Framework_for_AI_Safety_with_Challenges_and_Mitigations.md)
 
     - [翻译: 构建可信、负责且安全的AI系统：一个全面的AI安全框架，涵盖挑战与应对策略](2024年08月23日/Trustworthy,_Responsible,_and_Safe_AI_A_Comprehensive_Architectural_Framework_for_AI_Safety_with_Challenges_and_Mitigations.md)
-
-- [VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models](2024年08月23日/VFM-Det_Towards_High-Performance_Vehicle_Detection_via_Large_Foundation_Models.md)
-
-    - [翻译: VFM-Det：借助大型基础模型，迈向卓越的车辆检测性能](2024年08月23日/VFM-Det_Towards_High-Performance_Vehicle_Detection_via_Large_Foundation_Models.md)
 
 2024年08月05日
 
