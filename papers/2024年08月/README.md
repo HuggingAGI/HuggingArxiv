@@ -2,18 +2,6 @@
 
 2024年08月23日
 
-- [CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution](2024年08月23日/CRUXEval-X_A_Benchmark_for_Multilingual_Code_Reasoning,_Understanding_and_Execution.md)
-
-    - [翻译: CRUXEval-X：多语言代码推理、理解和执行的综合基准](2024年08月23日/CRUXEval-X_A_Benchmark_for_Multilingual_Code_Reasoning,_Understanding_and_Execution.md)
-
-- [Domain-specific long text classification from sparse relevant information](2024年08月23日/Domain-specific_long_text_classification_from_sparse_relevant_information.md)
-
-    - [翻译: 从稀疏信息中提取特定领域长文本分类](2024年08月23日/Domain-specific_long_text_classification_from_sparse_relevant_information.md)
-
-- [E-code: Mastering Efficient Code Generation through Pretrained Models and Expert Encoder Group](2024年08月23日/E-code_Mastering_Efficient_Code_Generation_through_Pretrained_Models_and_Expert_Encoder_Group.md)
-
-    - [翻译: E-code：借助预训练模型与专家编码器组，精通高效代码生成之道。](2024年08月23日/E-code_Mastering_Efficient_Code_Generation_through_Pretrained_Models_and_Expert_Encoder_Group.md)
-
 - [Guiding IoT-Based Healthcare Alert Systems with Large Language Models](2024年08月23日/Guiding_IoT-Based_Healthcare_Alert_Systems_with_Large_Language_Models.md)
 
     - [翻译: 大型语言模型引领物联网医疗警报系统的发展](2024年08月23日/Guiding_IoT-Based_Healthcare_Alert_Systems_with_Large_Language_Models.md)
@@ -21,18 +9,6 @@
 - [Moral Judgments in Online Discourse are not Biased by Gender](2024年08月23日/Moral_Judgments_in_Online_Discourse_are_not_Biased_by_Gender.md)
 
     - [翻译: 网络讨论中的道德评判，性别偏见并未涉足。](2024年08月23日/Moral_Judgments_in_Online_Discourse_are_not_Biased_by_Gender.md)
-
-- [Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time](2024年08月23日/Multi-Layer_Transformers_Gradient_Can_be_Approximated_in_Almost_Linear_Time.md)
-
-    - [翻译: 多层Transformer的梯度近似可在近乎线性时间内完成](2024年08月23日/Multi-Layer_Transformers_Gradient_Can_be_Approximated_in_Almost_Linear_Time.md)
-
-- [ParGo: Bridging Vision-Language with Partial and Global Views](2024年08月23日/ParGo_Bridging_Vision-Language_with_Partial_and_Global_Views.md)
-
-    - [翻译: ParGo：融合视觉与语言，兼顾局部与全局视角](2024年08月23日/ParGo_Bridging_Vision-Language_with_Partial_and_Global_Views.md)
-
-- [Predicting Affective States from Screen Text Sentiment](2024年08月23日/Predicting_Affective_States_from_Screen_Text_Sentiment.md)
-
-    - [翻译: 从屏幕文本情感预测情感状态](2024年08月23日/Predicting_Affective_States_from_Screen_Text_Sentiment.md)
 
 2024年08月05日
 
