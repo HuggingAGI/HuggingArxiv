@@ -1,5 +1,11 @@
 # 2024年08月
 
+2024年08月20日
+
+- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](2024年08月20日/Transfusion_Predict_the_Next_Token_and_Diffuse_Images_with_One_Multi-Modal_Model.md)
+
+    - [翻译: Transfusion：用单一多模态模型预测下一词并扩散图像](2024年08月20日/Transfusion_Predict_the_Next_Token_and_Diffuse_Images_with_One_Multi-Modal_Model.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
