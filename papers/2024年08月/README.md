@@ -158,10 +158,6 @@
 
     - [翻译: 利用大型语言模型实现水下图像的语义通信](2024年08月08日/Semantic_Communication_based_on_Large_Language_Model_for_Underwater_Image_Transmission.md)
 
-- [Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model](2024年08月08日/Towards_Non-invasive_and_Personalized_Management_of_Breast_Cancer_Patients_from_Multiparametric_MRI_via_A_Large_Mixture-of-Modality-Experts_Model.md)
-
-    - [翻译: 利用大型混合模态专家模型，我们致力于实现基于多参数MRI的乳腺癌患者非侵入性和个性化管理。](2024年08月08日/Towards_Non-invasive_and_Personalized_Management_of_Breast_Cancer_Patients_from_Multiparametric_MRI_via_A_Large_Mixture-of-Modality-Experts_Model.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
