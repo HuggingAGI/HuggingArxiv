@@ -2,10 +2,6 @@
 
 2024年08月23日
 
-- [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](2024年08月23日/AppAgent_v2_Advanced_Agent_for_Flexible_Mobile_Interactions.md)
-
-    - [翻译: AppAgent v2：灵活移动交互的高级代理](2024年08月23日/AppAgent_v2_Advanced_Agent_for_Flexible_Mobile_Interactions.md)
-
 - [Causal-Guided Active Learning for Debiasing Large Language Models](2024年08月23日/Causal-Guided_Active_Learning_for_Debiasing_Large_Language_Models.md)
 
     - [翻译: 因果引导的主动学习策略，旨在减少大型语言模型的偏见。](2024年08月23日/Causal-Guided_Active_Learning_for_Debiasing_Large_Language_Models.md)
@@ -25,14 +21,6 @@
 - [E-code: Mastering Efficient Code Generation through Pretrained Models and Expert Encoder Group](2024年08月23日/E-code_Mastering_Efficient_Code_Generation_through_Pretrained_Models_and_Expert_Encoder_Group.md)
 
     - [翻译: E-code：借助预训练模型与专家编码器组，精通高效代码生成之道。](2024年08月23日/E-code_Mastering_Efficient_Code_Generation_through_Pretrained_Models_and_Expert_Encoder_Group.md)
-
-- [Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption](2024年08月23日/Foundational_Model_for_Electron_Micrograph_Analysis_Instruction-Tuning_Small-Scale_Language-and-Vision_Assistant_for_Enterprise_Adoption.md)
-
-    - [翻译: 电子显微镜图像分析的基础模型：专为企业定制的小型语言与视觉助手，通过指令调整实现高效应用](2024年08月23日/Foundational_Model_for_Electron_Micrograph_Analysis_Instruction-Tuning_Small-Scale_Language-and-Vision_Assistant_for_Enterprise_Adoption.md)
-
-- [General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model](2024年08月23日/General_Intelligent_Imaging_and_Uncertainty_Quantification_by_Deterministic_Diffusion_Model.md)
-
-    - [翻译: 利用确定性扩散模型，我们实现了通用智能成像及不确定性量化。](2024年08月23日/General_Intelligent_Imaging_and_Uncertainty_Quantification_by_Deterministic_Diffusion_Model.md)
 
 - [Guiding IoT-Based Healthcare Alert Systems with Large Language Models](2024年08月23日/Guiding_IoT-Based_Healthcare_Alert_Systems_with_Large_Language_Models.md)
 
@@ -62,10 +50,6 @@
 
     - [翻译: 多层Transformer的梯度近似可在近乎线性时间内完成](2024年08月23日/Multi-Layer_Transformers_Gradient_Can_be_Approximated_in_Almost_Linear_Time.md)
 
-- [Multimodal Contrastive In-Context Learning](2024年08月23日/Multimodal_Contrastive_In-Context_Learning.md)
-
-    - [翻译: 多模态对比上下文学习](2024年08月23日/Multimodal_Contrastive_In-Context_Learning.md)
-
 - [Open Llama2 Model for the Lithuanian Language](2024年08月23日/Open_Llama2_Model_for_the_Lithuanian_Language.md)
 
     - [翻译: 立陶宛语的开放 Llama2 模型](2024年08月23日/Open_Llama2_Model_for_the_Lithuanian_Language.md)
@@ -93,20 +77,6 @@
 - [VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models](2024年08月23日/VFM-Det_Towards_High-Performance_Vehicle_Detection_via_Large_Foundation_Models.md)
 
     - [翻译: VFM-Det：借助大型基础模型，迈向卓越的车辆检测性能](2024年08月23日/VFM-Det_Towards_High-Performance_Vehicle_Detection_via_Large_Foundation_Models.md)
-
-2024年08月22日
-
-- [Bridging the gap between natural user expression with complex automation programming in smart homes](2024年08月22日/Bridging_the_gap_between_natural_user_expression_with_complex_automation_programming_in_smart_homes.md)
-
-    - [翻译: 在智能家居领域，我们致力于缩小自然用户表达与复杂自动化编程之间的鸿沟。](2024年08月22日/Bridging_the_gap_between_natural_user_expression_with_complex_automation_programming_in_smart_homes.md)
-
-- [NanoFlow: Towards Optimal Large Language Model Serving Throughput](2024年08月22日/NanoFlow_Towards_Optimal_Large_Language_Model_Serving_Throughput.md)
-
-    - [翻译: NanoFlow：致力于提升大型语言模型的服务吞吐量至最优水平](2024年08月22日/NanoFlow_Towards_Optimal_Large_Language_Model_Serving_Throughput.md)
-
-- [Quality or Quantity? On Data Scale and Diversity in Adapting Large Language Models for Low-Resource Translation](2024年08月22日/Quality_or_Quantity_On_Data_Scale_and_Diversity_in_Adapting_Large_Language_Models_for_Low-Resource_Translation.md)
-
-    - [翻译: 在调整大型语言模型以适应低资源翻译时，我们面临一个选择：追求数据的质量还是数量？本文探讨了数据规模与多样性在这一过程中的重要性。](2024年08月22日/Quality_or_Quantity_On_Data_Scale_and_Diversity_in_Adapting_Large_Language_Models_for_Low-Resource_Translation.md)
 
 2024年08月05日
 
