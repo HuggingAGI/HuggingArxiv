@@ -100,29 +100,13 @@
 
     - [翻译: 探究多模态大型语言模型在视频问答基准测试中的模态偏差](2024年08月22日/Assessing_Modality_Bias_in_Video_Question_Answering_Benchmarks_with_Multimodal_Large_Language_Models.md)
 
-- [BackdoorLLM: A Comprehensive Benchmark for Backdoor Attacks on Large Language Models](2024年08月22日/BackdoorLLM_A_Comprehensive_Benchmark_for_Backdoor_Attacks_on_Large_Language_Models.md)
-
-    - [翻译: BackdoorLLM：大型语言模型后门攻击的综合评估基准](2024年08月22日/BackdoorLLM_A_Comprehensive_Benchmark_for_Backdoor_Attacks_on_Large_Language_Models.md)
-
 - [Bridging the gap between natural user expression with complex automation programming in smart homes](2024年08月22日/Bridging_the_gap_between_natural_user_expression_with_complex_automation_programming_in_smart_homes.md)
 
     - [翻译: 在智能家居领域，我们致力于缩小自然用户表达与复杂自动化编程之间的鸿沟。](2024年08月22日/Bridging_the_gap_between_natural_user_expression_with_complex_automation_programming_in_smart_homes.md)
 
-- [Cap2Sum: Learning to Summarize Videos by Generating Captions](2024年08月22日/Cap2Sum_Learning_to_Summarize_Videos_by_Generating_Captions.md)
-
-    - [翻译: Cap2Sum：一种通过生成字幕来学习视频摘要的新方法](2024年08月22日/Cap2Sum_Learning_to_Summarize_Videos_by_Generating_Captions.md)
-
 - [Context-Aware Temporal Embedding of Objects in Video Data](2024年08月22日/Context-Aware_Temporal_Embedding_of_Objects_in_Video_Data.md)
 
     - [翻译: 视频数据中对象的时间嵌入，具备上下文感知能力](2024年08月22日/Context-Aware_Temporal_Embedding_of_Objects_in_Video_Data.md)
-
-- [Examining the Commitments and Difficulties Inherent in Multimodal Foundation Models for Street View Imagery](2024年08月22日/Examining_the_Commitments_and_Difficulties_Inherent_in_Multimodal_Foundation_Models_for_Street_View_Imagery.md)
-
-    - [翻译: 探究多模态基础模型在处理街景图像时所面临的内在挑战与承诺](2024年08月22日/Examining_the_Commitments_and_Difficulties_Inherent_in_Multimodal_Foundation_Models_for_Street_View_Imagery.md)
-
-- [Investigating LLM Applications in E-Commerce](2024年08月22日/Investigating_LLM_Applications_in_E-Commerce.md)
-
-    - [翻译: 探索大型语言模型在电商领域的应用](2024年08月22日/Investigating_LLM_Applications_in_E-Commerce.md)
 
 - [LLM-PBE: Assessing Data Privacy in Large Language Models](2024年08月22日/LLM-PBE_Assessing_Data_Privacy_in_Large_Language_Models.md)
 
@@ -147,16 +131,6 @@
 - [Toward stringy horizons](2024年08月22日/Toward_stringy_horizons.md)
 
     - [翻译: 迈向弦状地平线](2024年08月22日/Toward_stringy_horizons.md)
-
-2024年08月08日
-
-- [Can GPT-4 Models Detect Misleading Visualizations?](2024年08月08日/Can_GPT-4_Models_Detect_Misleading_Visualizations.md)
-
-    - [翻译: GPT-4 模型是否能识别误导性图表？](2024年08月08日/Can_GPT-4_Models_Detect_Misleading_Visualizations.md)
-
-- [Semantic Communication based on Large Language Model for Underwater Image Transmission](2024年08月08日/Semantic_Communication_based_on_Large_Language_Model_for_Underwater_Image_Transmission.md)
-
-    - [翻译: 利用大型语言模型实现水下图像的语义通信](2024年08月08日/Semantic_Communication_based_on_Large_Language_Model_for_Underwater_Image_Transmission.md)
 
 2024年08月05日
 
