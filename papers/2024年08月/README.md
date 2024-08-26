@@ -18,14 +18,6 @@
 
     - [翻译: 大型语言模型引领物联网医疗警报系统的发展](2024年08月23日/Guiding_IoT-Based_Healthcare_Alert_Systems_with_Large_Language_Models.md)
 
-- [In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting](2024年08月23日/In-Context_Learning_with_Reinforcement_Learning_for_Incomplete_Utterance_Rewriting.md)
-
-    - [翻译: 结合强化学习的上下文学习技术，应用于不完整话语的重写任务。](2024年08月23日/In-Context_Learning_with_Reinforcement_Learning_for_Incomplete_Utterance_Rewriting.md)
-
-- [MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?](2024年08月23日/MME-RealWorld_Could_Your_Multimodal_LLM_Challenge_High-Resolution_Real-World_Scenarios_that_are_Difficult_for_Humans.md)
-
-    - [翻译: MME-RealWorld：你的多模态LLM能否应对那些连人类都感到棘手的高分辨率现实场景？](2024年08月23日/MME-RealWorld_Could_Your_Multimodal_LLM_Challenge_High-Resolution_Real-World_Scenarios_that_are_Difficult_for_Humans.md)
-
 - [Moral Judgments in Online Discourse are not Biased by Gender](2024年08月23日/Moral_Judgments_in_Online_Discourse_are_not_Biased_by_Gender.md)
 
     - [翻译: 网络讨论中的道德评判，性别偏见并未涉足。](2024年08月23日/Moral_Judgments_in_Online_Discourse_are_not_Biased_by_Gender.md)
@@ -34,10 +26,6 @@
 
     - [翻译: 多层Transformer的梯度近似可在近乎线性时间内完成](2024年08月23日/Multi-Layer_Transformers_Gradient_Can_be_Approximated_in_Almost_Linear_Time.md)
 
-- [Open Llama2 Model for the Lithuanian Language](2024年08月23日/Open_Llama2_Model_for_the_Lithuanian_Language.md)
-
-    - [翻译: 立陶宛语的开放 Llama2 模型](2024年08月23日/Open_Llama2_Model_for_the_Lithuanian_Language.md)
-
 - [ParGo: Bridging Vision-Language with Partial and Global Views](2024年08月23日/ParGo_Bridging_Vision-Language_with_Partial_and_Global_Views.md)
 
     - [翻译: ParGo：融合视觉与语言，兼顾局部与全局视角](2024年08月23日/ParGo_Bridging_Vision-Language_with_Partial_and_Global_Views.md)
@@ -45,14 +33,6 @@
 - [Predicting Affective States from Screen Text Sentiment](2024年08月23日/Predicting_Affective_States_from_Screen_Text_Sentiment.md)
 
     - [翻译: 从屏幕文本情感预测情感状态](2024年08月23日/Predicting_Affective_States_from_Screen_Text_Sentiment.md)
-
-- [Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates](2024年08月23日/Systematic_Evaluation_of_LLM-as-a-Judge_in_LLM_Alignment_Tasks_Explainable_Metrics_and_Diverse_Prompt_Templates.md)
-
-    - [翻译: 系统评估 LLM 在对齐任务中的评判能力，聚焦于可解释指标与多样化提示模板的应用。](2024年08月23日/Systematic_Evaluation_of_LLM-as-a-Judge_in_LLM_Alignment_Tasks_Explainable_Metrics_and_Diverse_Prompt_Templates.md)
-
-- [Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural Framework for AI Safety with Challenges and Mitigations](2024年08月23日/Trustworthy,_Responsible,_and_Safe_AI_A_Comprehensive_Architectural_Framework_for_AI_Safety_with_Challenges_and_Mitigations.md)
-
-    - [翻译: 构建可信、负责且安全的AI系统：一个全面的AI安全框架，涵盖挑战与应对策略](2024年08月23日/Trustworthy,_Responsible,_and_Safe_AI_A_Comprehensive_Architectural_Framework_for_AI_Safety_with_Challenges_and_Mitigations.md)
 
 2024年08月05日
 
