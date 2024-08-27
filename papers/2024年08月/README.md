@@ -50,10 +50,6 @@
 
     - [翻译: Fire-Flyer AI-HPC：为深度学习提供了一种经济高效的软件与硬件协同设计方案。](2024年08月26日/Fire-Flyer_AI-HPC_A_Cost-Effective_Software-Hardware_Co-Design_for_Deep_Learning.md)
 
-- [Foundation Models for Music: A Survey](2024年08月26日/Foundation_Models_for_Music_A_Survey.md)
-
-    - [翻译: 音乐基础模型探究](2024年08月26日/Foundation_Models_for_Music_A_Survey.md)
-
 - [GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy](2024年08月26日/GR-MG_Leveraging_Partially_Annotated_Data_via_Multi-Modal_Goal_Conditioned_Policy.md)
 
     - [翻译: GR-MG 策略：巧妙利用部分标注数据，实现多模态目标条件下的高效学习](2024年08月26日/GR-MG_Leveraging_Partially_Annotated_Data_via_Multi-Modal_Goal_Conditioned_Policy.md)
@@ -66,10 +62,6 @@
 
     - [翻译: 探究贝叶斯垃圾邮件过滤器对 LLM 修改型垃圾邮件的检测效能](2024年08月26日/Investigating_the_Effectiveness_of_Bayesian_Spam_Filters_in_Detecting_LLM-modified_Spam_Mails.md)
 
-- [LLM-3D Print: Large Language Models To Monitor and Control 3D Printing](2024年08月26日/LLM-3D_Print_Large_Language_Models_To_Monitor_and_Control_3D_Printing.md)
-
-    - [翻译: LLM-3D Print：利用大型语言模型监控与控制3D打印过程](2024年08月26日/LLM-3D_Print_Large_Language_Models_To_Monitor_and_Control_3D_Printing.md)
-
 - [LMM-VQA: Advancing Video Quality Assessment with Large Multimodal Models](2024年08月26日/LMM-VQA_Advancing_Video_Quality_Assessment_with_Large_Multimodal_Models.md)
 
     - [翻译: LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](2024年08月26日/LMM-VQA_Advancing_Video_Quality_Assessment_with_Large_Multimodal_Models.md)
@@ -81,10 +73,6 @@
 - [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](2024年08月26日/MLR-Copilot_Autonomous_Machine_Learning_Research_based_on_Large_Language_Models_Agents.md)
 
     - [翻译: MLR-Copilot：依托大型语言模型代理，实现自主机器学习研究](2024年08月26日/MLR-Copilot_Autonomous_Machine_Learning_Research_based_on_Large_Language_Models_Agents.md)
-
-- [Probing Causality Manipulation of Large Language Models](2024年08月26日/Probing_Causality_Manipulation_of_Large_Language_Models.md)
-
-    - [翻译: 探索大型语言模型中的因果操控机制](2024年08月26日/Probing_Causality_Manipulation_of_Large_Language_Models.md)
 
 - [Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning](2024年08月26日/Re-Mix_Optimizing_Data_Mixtures_for_Large_Scale_Imitation_Learning.md)
 
@@ -113,20 +101,6 @@
 - [Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos](2024年08月26日/Video-CCAM_Enhancing_Video-Language_Understanding_with_Causal_Cross-Attention_Masks_for_Short_and_Long_Videos.md)
 
     - [翻译: 视频-CCAM 技术通过因果交叉注意力掩码，提升了对短视频和长视频的视频-语言理解能力。](2024年08月26日/Video-CCAM_Enhancing_Video-Language_Understanding_with_Causal_Cross-Attention_Masks_for_Short_and_Long_Videos.md)
-
-2024年08月25日
-
-- [LLMs are Superior Feedback Providers: Bootstrapping Reasoning for Lie Detection with Self-Generated Feedback](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
-
-    - [翻译: LLM 是出色的反馈源，通过自我生成的反馈机制，助力谎言检测中的推理过程。](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
-
-- [LLM with Relation Classifier for Document-Level Relation Extraction](2024年08月25日/LLM_with_Relation_Classifier_for_Document-Level_Relation_Extraction.md)
-
-    - [翻译: 采用关系分类器的LLM，专为文档级关系抽取设计](2024年08月25日/LLM_with_Relation_Classifier_for_Document-Level_Relation_Extraction.md)
-
-- [Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
-
-    - [翻译: 揭示你的理由：实时提取上下文规则，助力智能服务推荐](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
 
 2024年08月05日
 
