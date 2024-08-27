@@ -1,31 +1,5 @@
 # 2024年08月
 
-2024年08月22日
-
-- [Sapiens: Foundation for Human Vision Models](2024年08月22日/Sapiens_Foundation_for_Human_Vision_Models.md)
-
-    - [翻译: Sapiens：构筑人类视觉模型的基石](2024年08月22日/Sapiens_Foundation_for_Human_Vision_Models.md)
-
-2024年08月21日
-
-- [LLM Pruning and Distillation in Practice: The Minitron Approach](2024年08月21日/LLM_Pruning_and_Distillation_in_Practice_The_Minitron_Approach.md)
-
-    - [翻译: 实践中的 LLM 剪枝与蒸馏：Minitron 策略](2024年08月21日/LLM_Pruning_and_Distillation_in_Practice_The_Minitron_Approach.md)
-
-- [ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](2024年08月21日/ProteinGPT_Multimodal_LLM_for_Protein_Property_Prediction_and_Structure_Understanding.md)
-
-    - [翻译: ProteinGPT：一款多模态 LLM，专为蛋白质性质预测与结构理解设计。](2024年08月21日/ProteinGPT_Multimodal_LLM_for_Protein_Property_Prediction_and_Structure_Understanding.md)
-
-2024年08月20日
-
-- [deepmriprep: Voxel-based Morphometry (VBM) Preprocessing via Deep Neural Networks](2024年08月20日/deepmriprep_Voxel-based_Morphometry_(VBM)_Preprocessing_via_Deep_Neural_Networks.md)
-
-    - [翻译: deepmriprep：利用深度神经网络实现 VBM 预处理](2024年08月20日/deepmriprep_Voxel-based_Morphometry_(VBM)_Preprocessing_via_Deep_Neural_Networks.md)
-
-- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](2024年08月20日/Transfusion_Predict_the_Next_Token_and_Diffuse_Images_with_One_Multi-Modal_Model.md)
-
-    - [翻译: Transfusion：用单一多模态模型预测下一词并扩散图像](2024年08月20日/Transfusion_Predict_the_Next_Token_and_Diffuse_Images_with_One_Multi-Modal_Model.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
