@@ -124,10 +124,6 @@
 
     - [翻译: AgentMove：借助大型语言模型的代理框架，精准预测全球人类流动性。](2024年08月25日/AgentMove_Predicting_Human_Mobility_Anywhere_Using_Large_Language_Model_based_Agentic_Framework.md)
 
-- [Biomedical Large Languages Models Seem not to be Superior to Generalist Models on Unseen Medical Data](2024年08月25日/Biomedical_Large_Languages_Models_Seem_not_to_be_Superior_to_Generalist_Models_on_Unseen_Medical_Data.md)
-
-    - [翻译: 在处理未见过的医学数据时，生物医学大型语言模型并未展现出超越通用模型的优势。](2024年08月25日/Biomedical_Large_Languages_Models_Seem_not_to_be_Superior_to_Generalist_Models_on_Unseen_Medical_Data.md)
-
 - [CodeGraph: Enhancing Graph Reasoning of LLMs with Code](2024年08月25日/CodeGraph_Enhancing_Graph_Reasoning_of_LLMs_with_Code.md)
 
     - [翻译: CodeGraph：借助代码提升 LLMs 的图推理性能](2024年08月25日/CodeGraph_Enhancing_Graph_Reasoning_of_LLMs_with_Code.md)
@@ -152,10 +148,6 @@
 
     - [翻译: 聚焦型大型语言模型展现出稳定的多次学习能力。](2024年08月25日/Focused_Large_Language_Models_are_Stable_Many-Shot_Learners.md)
 
-- [GeoPlant: Spatial Plant Species Prediction Dataset](2024年08月25日/GeoPlant_Spatial_Plant_Species_Prediction_Dataset.md)
-
-    - [翻译: GeoPlant 数据集：专为空间植物物种预测设计](2024年08月25日/GeoPlant_Spatial_Plant_Species_Prediction_Dataset.md)
-
 - [LLMs are Superior Feedback Providers: Bootstrapping Reasoning for Lie Detection with Self-Generated Feedback](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
 
     - [翻译: LLM 是出色的反馈源，通过自我生成的反馈机制，助力谎言检测中的推理过程。](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
@@ -163,10 +155,6 @@
 - [LLM with Relation Classifier for Document-Level Relation Extraction](2024年08月25日/LLM_with_Relation_Classifier_for_Document-Level_Relation_Extraction.md)
 
     - [翻译: 采用关系分类器的LLM，专为文档级关系抽取设计](2024年08月25日/LLM_with_Relation_Classifier_for_Document-Level_Relation_Extraction.md)
-
-- [LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task](2024年08月25日/LowCLIP_Adapting_the_CLIP_Model_Architecture_for_Low-Resource_Languages_in_Multimodal_Image_Retrieval_Task.md)
-
-    - [翻译: LowCLIP：针对低资源语言，优化 CLIP 模型架构以提升多模态图像检索任务的性能。](2024年08月25日/LowCLIP_Adapting_the_CLIP_Model_Architecture_for_Low-Resource_Languages_in_Multimodal_Image_Retrieval_Task.md)
 
 - [Making Large Language Models Better Planners with Reasoning-Decision Alignment](2024年08月25日/Making_Large_Language_Models_Better_Planners_with_Reasoning-Decision_Alignment.md)
 
@@ -176,10 +164,6 @@
 
     - [翻译: MobileQuant：专为移动设备设计的语言模型量化方案](2024年08月25日/MobileQuant_Mobile-friendly_Quantization_for_On-device_Language_Models.md)
 
-- [Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models](2024年08月25日/Nemesis_Normalizing_the_Soft-prompt_Vectors_of_Vision-Language_Models.md)
-
-    - [翻译: Nemesis：优化视觉-语言模型中的软提示向量规范化](2024年08月25日/Nemesis_Normalizing_the_Soft-prompt_Vectors_of_Vision-Language_Models.md)
-
 - [Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
 
     - [翻译: 揭示你的理由：实时提取上下文规则，助力智能服务推荐](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
@@ -188,10 +172,6 @@
 
     - [翻译: SpeechCaps：借助多说话者风格字幕，推动基于指令的通用语音模型发展](2024年08月25日/SpeechCaps_Advancing_Instruction-Based_Universal_Speech_Models_with_Multi-Talker_Speaking_Style_Captioning.md)
 
-- [Tangram: A Challenging Benchmark for Geometric Element Recognizing](2024年08月25日/Tangram_A_Challenging_Benchmark_for_Geometric_Element_Recognizing.md)
-
-    - [翻译: Tangram：几何元素识别的挑战性标杆](2024年08月25日/Tangram_A_Challenging_Benchmark_for_Geometric_Element_Recognizing.md)
-
 - [TF-Attack: Transferable and Fast Adversarial Attacks on Large Language Models](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
 
     - [翻译: TF-Attack：针对大型语言模型的可迁移与快速对抗攻击](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
@@ -199,10 +179,6 @@
 - [Time Series Analysis for Education: Methods, Applications, and Future Directions](2024年08月25日/Time_Series_Analysis_for_Education_Methods,_Applications,_and_Future_Directions.md)
 
     - [翻译: 教育中的时间序列分析：探索其方法、应用及未来发展](2024年08月25日/Time_Series_Analysis_for_Education_Methods,_Applications,_and_Future_Directions.md)
-
-- [Towards Reliable Medical Question Answering: Techniques and Challenges in Mitigating Hallucinations in Language Models](2024年08月25日/Towards_Reliable_Medical_Question_Answering_Techniques_and_Challenges_in_Mitigating_Hallucinations_in_Language_Models.md)
-
-    - [翻译: 在医疗问答领域，我们正努力提升可靠性，专注于减少语言模型中的幻觉现象，这既涉及创新技术，也面临诸多挑战。](2024年08月25日/Towards_Reliable_Medical_Question_Answering_Techniques_and_Challenges_in_Mitigating_Hallucinations_in_Language_Models.md)
 
 2024年08月05日
 
