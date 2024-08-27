@@ -78,10 +78,6 @@
 
     - [翻译: SWE-bench-java：Java GitHub 问题解决的基准测试](2024年08月26日/SWE-bench-java_A_GitHub_Issue_Resolving_Benchmark_for_Java.md)
 
-- [Towards Synthetic Trace Generation of Modeling Operations using In-Context Learning Approach](2024年08月26日/Towards_Synthetic_Trace_Generation_of_Modeling_Operations_using_In-Context_Learning_Approach.md)
-
-    - [翻译: 采用 In-Context Learning 方法，探索建模操作的合成跟踪生成技术。](2024年08月26日/Towards_Synthetic_Trace_Generation_of_Modeling_Operations_using_In-Context_Learning_Approach.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
