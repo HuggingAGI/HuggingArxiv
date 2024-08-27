@@ -2,6 +2,10 @@
 
 2024年08月26日
 
+- [A Practitioner's Guide to Continual Multimodal Pretraining](2024年08月26日/A_Practitioner's_Guide_to_Continual_Multimodal_Pretraining.md)
+
+    - [翻译: 持续多模态预训练实践指南](2024年08月26日/A_Practitioner's_Guide_to_Continual_Multimodal_Pretraining.md)
+
 - [Are LLM-based Recommenders Already the Best? Simple Scaled Cross-entropy Unleashes the Potential of Traditional Sequential Recommenders](2024年08月26日/Are_LLM-based_Recommenders_Already_the_Best_Simple_Scaled_Cross-entropy_Unleashes_the_Potential_of_Traditional_Sequential_Recommenders.md)
 
     - [翻译: 基于 LLM 的推荐系统是否已登峰造极？其实，通过简单的规模化交叉熵，传统序列推荐系统的潜能正被激发。](2024年08月26日/Are_LLM-based_Recommenders_Already_the_Best_Simple_Scaled_Cross-entropy_Unleashes_the_Potential_of_Traditional_Sequential_Recommenders.md)
@@ -13,6 +17,10 @@
 - [Beyond Detection: Leveraging Large Language Models for Cyber Attack Prediction in IoT Networks](2024年08月26日/Beyond_Detection_Leveraging_Large_Language_Models_for_Cyber_Attack_Prediction_in_IoT_Networks.md)
 
     - [翻译: 不仅限于检测，我们利用大型语言模型来预测物联网网络中的网络攻击。](2024年08月26日/Beyond_Detection_Leveraging_Large_Language_Models_for_Cyber_Attack_Prediction_in_IoT_Networks.md)
+
+- [CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models](2024年08月26日/CHARTOM_A_Visual_Theory-of-Mind_Benchmark_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: CHARTOM：专为多模态大型语言模型设计的视觉心智理论基准](2024年08月26日/CHARTOM_A_Visual_Theory-of-Mind_Benchmark_for_Multimodal_Large_Language_Models.md)
 
 - [Claim Verification in the Age of Large Language Models: A Survey](2024年08月26日/Claim_Verification_in_the_Age_of_Large_Language_Models_A_Survey.md)
 
@@ -41,6 +49,10 @@
 - [Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning](2024年08月26日/Fire-Flyer_AI-HPC_A_Cost-Effective_Software-Hardware_Co-Design_for_Deep_Learning.md)
 
     - [翻译: Fire-Flyer AI-HPC：为深度学习提供了一种经济高效的软件与硬件协同设计方案。](2024年08月26日/Fire-Flyer_AI-HPC_A_Cost-Effective_Software-Hardware_Co-Design_for_Deep_Learning.md)
+
+- [Foundation Models for Music: A Survey](2024年08月26日/Foundation_Models_for_Music_A_Survey.md)
+
+    - [翻译: 音乐基础模型探究](2024年08月26日/Foundation_Models_for_Music_A_Survey.md)
 
 - [GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy](2024年08月26日/GR-MG_Leveraging_Partially_Annotated_Data_via_Multi-Modal_Goal_Conditioned_Policy.md)
 
@@ -120,6 +132,10 @@
 
     - [翻译: CodeGraph：借助代码提升 LLMs 的图推理性能](2024年08月25日/CodeGraph_Enhancing_Graph_Reasoning_of_LLMs_with_Code.md)
 
+- [ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models](2024年08月25日/ConVis_Contrastive_Decoding_with_Hallucination_Visualization_for_Mitigating_Hallucinations_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: ConVis：利用幻觉可视化技术进行对比解码，有效减轻多模态大型语言模型中的幻觉问题。](2024年08月25日/ConVis_Contrastive_Decoding_with_Hallucination_Visualization_for_Mitigating_Hallucinations_in_Multimodal_Large_Language_Models.md)
+
 - [Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)](2024年08月25日/Demo_Generative_Open_xG_Network_Simulation_with_Multi-Agent_LLM_and_ns-3_(GenOnet).md)
 
     - [翻译: 展示：GenOnet——结合多智能体 LLM 与 ns-3 技术的生成式开放 xG 网络模拟](2024年08月25日/Demo_Generative_Open_xG_Network_Simulation_with_Multi-Agent_LLM_and_ns-3_(GenOnet).md)
@@ -136,6 +152,10 @@
 
     - [翻译: 聚焦型大型语言模型展现出稳定的多次学习能力。](2024年08月25日/Focused_Large_Language_Models_are_Stable_Many-Shot_Learners.md)
 
+- [GeoPlant: Spatial Plant Species Prediction Dataset](2024年08月25日/GeoPlant_Spatial_Plant_Species_Prediction_Dataset.md)
+
+    - [翻译: GeoPlant 数据集：专为空间植物物种预测设计](2024年08月25日/GeoPlant_Spatial_Plant_Species_Prediction_Dataset.md)
+
 - [LLMs are Superior Feedback Providers: Bootstrapping Reasoning for Lie Detection with Self-Generated Feedback](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
 
     - [翻译: LLM 是出色的反馈源，通过自我生成的反馈机制，助力谎言检测中的推理过程。](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
@@ -147,6 +167,10 @@
 - [LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task](2024年08月25日/LowCLIP_Adapting_the_CLIP_Model_Architecture_for_Low-Resource_Languages_in_Multimodal_Image_Retrieval_Task.md)
 
     - [翻译: LowCLIP：针对低资源语言，优化 CLIP 模型架构以提升多模态图像检索任务的性能。](2024年08月25日/LowCLIP_Adapting_the_CLIP_Model_Architecture_for_Low-Resource_Languages_in_Multimodal_Image_Retrieval_Task.md)
+
+- [Making Large Language Models Better Planners with Reasoning-Decision Alignment](2024年08月25日/Making_Large_Language_Models_Better_Planners_with_Reasoning-Decision_Alignment.md)
+
+    - [翻译: 通过推理与决策的精准对齐，我们能够让大型语言模型在规划领域表现更出色。](2024年08月25日/Making_Large_Language_Models_Better_Planners_with_Reasoning-Decision_Alignment.md)
 
 - [MobileQuant: Mobile-friendly Quantization for On-device Language Models](2024年08月25日/MobileQuant_Mobile-friendly_Quantization_for_On-device_Language_Models.md)
 
@@ -164,9 +188,17 @@
 
     - [翻译: SpeechCaps：借助多说话者风格字幕，推动基于指令的通用语音模型发展](2024年08月25日/SpeechCaps_Advancing_Instruction-Based_Universal_Speech_Models_with_Multi-Talker_Speaking_Style_Captioning.md)
 
+- [Tangram: A Challenging Benchmark for Geometric Element Recognizing](2024年08月25日/Tangram_A_Challenging_Benchmark_for_Geometric_Element_Recognizing.md)
+
+    - [翻译: Tangram：几何元素识别的挑战性标杆](2024年08月25日/Tangram_A_Challenging_Benchmark_for_Geometric_Element_Recognizing.md)
+
 - [TF-Attack: Transferable and Fast Adversarial Attacks on Large Language Models](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
 
     - [翻译: TF-Attack：针对大型语言模型的可迁移与快速对抗攻击](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
+
+- [Time Series Analysis for Education: Methods, Applications, and Future Directions](2024年08月25日/Time_Series_Analysis_for_Education_Methods,_Applications,_and_Future_Directions.md)
+
+    - [翻译: 教育中的时间序列分析：探索其方法、应用及未来发展](2024年08月25日/Time_Series_Analysis_for_Education_Methods,_Applications,_and_Future_Directions.md)
 
 - [Towards Reliable Medical Question Answering: Techniques and Challenges in Mitigating Hallucinations in Language Models](2024年08月25日/Towards_Reliable_Medical_Question_Answering_Techniques_and_Challenges_in_Mitigating_Hallucinations_in_Language_Models.md)
 
@@ -186,17 +218,35 @@
 
     - [翻译: 揭秘大规模语言模型中的 RAG 噪声：是潘多拉的盒子还是阿拉丁的神灯？本研究通过全面分析，深入探讨了 RAG 噪声在其中的角色。](2024年08月24日/Pandora's_Box_or_Aladdin's_Lamp_A_Comprehensive_Analysis_Revealing_the_Role_of_RAG_Noise_in_Large_Language_Models.md)
 
+- [Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models](2024年08月24日/Preliminary_Investigations_of_a_Multi-Faceted_Robust_and_Synergistic_Approach_in_Semiconductor_Electron_Micrograph_Analysis_Integrating_Vision_Transformers_with_Large_Language_and_Multimodal_Models.md)
+
+    - [翻译: 我们初步探索了一种集成视觉变换器与大型语言和多模态模型的多维鲁棒协同方法，用于半导体电子显微镜图像分析。](2024年08月24日/Preliminary_Investigations_of_a_Multi-Faceted_Robust_and_Synergistic_Approach_in_Semiconductor_Electron_Micrograph_Analysis_Integrating_Vision_Transformers_with_Large_Language_and_Multimodal_Models.md)
+
+- [Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach](2024年08月24日/Probing_the_Robustness_of_Vision-Language_Pretrained_Models_A_Multimodal_Adversarial_Attack_Approach.md)
+
+    - [翻译: 探索视觉-语言预训练模型的稳健性：采用多模态对抗攻击策略](2024年08月24日/Probing_the_Robustness_of_Vision-Language_Pretrained_Models_A_Multimodal_Adversarial_Attack_Approach.md)
+
 2024年08月23日
+
+- [Large Language Models for Zero Touch Network Configuration Management](2024年08月23日/Large_Language_Models_for_Zero_Touch_Network_Configuration_Management.md)
+
+    - [翻译: 大型语言模型在零接触网络配置管理中的应用](2024年08月23日/Large_Language_Models_for_Zero_Touch_Network_Configuration_Management.md)
+
+- [LLaVaOLMoBitnet1B: Ternary LLM goes Multimodal!](2024年08月23日/LLaVaOLMoBitnet1B_Ternary_LLM_goes_Multimodal!.md)
+
+    - [翻译: LLaVaOLMoBitnet1B：三元大型语言模型迈向多模态领域！](2024年08月23日/LLaVaOLMoBitnet1B_Ternary_LLM_goes_Multimodal!.md)
+
+- [Optimizing Collaboration of LLM based Agents for Finite Element Analysis](2024年08月23日/Optimizing_Collaboration_of_LLM_based_Agents_for_Finite_Element_Analysis.md)
+
+    - [翻译: 提升基于LLM代理在有限元分析中的协作效率](2024年08月23日/Optimizing_Collaboration_of_LLM_based_Agents_for_Finite_Element_Analysis.md)
+
+- [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities](2024年08月23日/The_Ultimate_Guide_to_Fine-Tuning_LLMs_from_Basics_to_Breakthroughs_An_Exhaustive_Review_of_Technologies,_Research,_Best_Practices,_Applied_Research_Challenges_and_Opportunities.md)
+
+    - [翻译: 本指南深入探讨了LLMs微调的全方位内容，从基础知识到技术突破，涵盖了研究进展、最佳实践、应用挑战及未来机遇。](2024年08月23日/The_Ultimate_Guide_to_Fine-Tuning_LLMs_from_Basics_to_Breakthroughs_An_Exhaustive_Review_of_Technologies,_Research,_Best_Practices,_Applied_Research_Challenges_and_Opportunities.md)
 
 - [vitaLITy 2: Reviewing Academic Literature Using Large Language Models](2024年08月23日/vitaLITy_2_Reviewing_Academic_Literature_Using_Large_Language_Models.md)
 
     - [翻译: vitaLITy 2：借助大型语言模型，深入探索学术文献的奥秘](2024年08月23日/vitaLITy_2_Reviewing_Academic_Literature_Using_Large_Language_Models.md)
-
-2024年08月18日
-
-- [Retrieval-Augmented Generation Meets Data-Driven Tabula Rasa Approach for Temporal Knowledge Graph Forecasting](2024年08月18日/Retrieval-Augmented_Generation_Meets_Data-Driven_Tabula_Rasa_Approach_for_Temporal_Knowledge_Graph_Forecasting.md)
-
-    - [翻译: 检索增强生成技术与数据驱动的“白板”方法相结合，共同助力时间知识图谱的预测任务。](2024年08月18日/Retrieval-Augmented_Generation_Meets_Data-Driven_Tabula_Rasa_Approach_for_Temporal_Knowledge_Graph_Forecasting.md)
 
 2024年08月05日
 
