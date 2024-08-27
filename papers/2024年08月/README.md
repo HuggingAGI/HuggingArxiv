@@ -228,25 +228,9 @@
 
 2024年08月23日
 
-- [Large Language Models for Zero Touch Network Configuration Management](2024年08月23日/Large_Language_Models_for_Zero_Touch_Network_Configuration_Management.md)
-
-    - [翻译: 大型语言模型在零接触网络配置管理中的应用](2024年08月23日/Large_Language_Models_for_Zero_Touch_Network_Configuration_Management.md)
-
-- [LLaVaOLMoBitnet1B: Ternary LLM goes Multimodal!](2024年08月23日/LLaVaOLMoBitnet1B_Ternary_LLM_goes_Multimodal!.md)
-
-    - [翻译: LLaVaOLMoBitnet1B：三元大型语言模型迈向多模态领域！](2024年08月23日/LLaVaOLMoBitnet1B_Ternary_LLM_goes_Multimodal!.md)
-
 - [Optimizing Collaboration of LLM based Agents for Finite Element Analysis](2024年08月23日/Optimizing_Collaboration_of_LLM_based_Agents_for_Finite_Element_Analysis.md)
 
     - [翻译: 提升基于LLM代理在有限元分析中的协作效率](2024年08月23日/Optimizing_Collaboration_of_LLM_based_Agents_for_Finite_Element_Analysis.md)
-
-- [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities](2024年08月23日/The_Ultimate_Guide_to_Fine-Tuning_LLMs_from_Basics_to_Breakthroughs_An_Exhaustive_Review_of_Technologies,_Research,_Best_Practices,_Applied_Research_Challenges_and_Opportunities.md)
-
-    - [翻译: 本指南深入探讨了LLMs微调的全方位内容，从基础知识到技术突破，涵盖了研究进展、最佳实践、应用挑战及未来机遇。](2024年08月23日/The_Ultimate_Guide_to_Fine-Tuning_LLMs_from_Basics_to_Breakthroughs_An_Exhaustive_Review_of_Technologies,_Research,_Best_Practices,_Applied_Research_Challenges_and_Opportunities.md)
-
-- [vitaLITy 2: Reviewing Academic Literature Using Large Language Models](2024年08月23日/vitaLITy_2_Reviewing_Academic_Literature_Using_Large_Language_Models.md)
-
-    - [翻译: vitaLITy 2：借助大型语言模型，深入探索学术文献的奥秘](2024年08月23日/vitaLITy_2_Reviewing_Academic_Literature_Using_Large_Language_Models.md)
 
 2024年08月05日
 
