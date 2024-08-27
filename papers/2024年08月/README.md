@@ -204,34 +204,6 @@
 
     - [翻译: 在医疗问答领域，我们正努力提升可靠性，专注于减少语言模型中的幻觉现象，这既涉及创新技术，也面临诸多挑战。](2024年08月25日/Towards_Reliable_Medical_Question_Answering_Techniques_and_Challenges_in_Mitigating_Hallucinations_in_Language_Models.md)
 
-2024年08月24日
-
-- [ColBERT's [MASK]-based Query Augmentation: Effects of Quadrupling the Query Input Length](2024年08月24日/ColBERT's_[MASK]-based_Query_Augmentation_Effects_of_Quadrupling_the_Query_Input_Length.md)
-
-    - [翻译: ColBERT 利用 [MASK] 进行查询增强，探讨了将查询输入长度增加四倍的效果。](2024年08月24日/ColBERT's_[MASK]-based_Query_Augmentation_Effects_of_Quadrupling_the_Query_Input_Length.md)
-
-- [IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering](2024年08月24日/IQA-EVAL_Automatic_Evaluation_of_Human-Model_Interactive_Question_Answering.md)
-
-    - [翻译: IQA-EVAL：人机交互问答的自动评估系统](2024年08月24日/IQA-EVAL_Automatic_Evaluation_of_Human-Model_Interactive_Question_Answering.md)
-
-- [Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models](2024年08月24日/Pandora's_Box_or_Aladdin's_Lamp_A_Comprehensive_Analysis_Revealing_the_Role_of_RAG_Noise_in_Large_Language_Models.md)
-
-    - [翻译: 揭秘大规模语言模型中的 RAG 噪声：是潘多拉的盒子还是阿拉丁的神灯？本研究通过全面分析，深入探讨了 RAG 噪声在其中的角色。](2024年08月24日/Pandora's_Box_or_Aladdin's_Lamp_A_Comprehensive_Analysis_Revealing_the_Role_of_RAG_Noise_in_Large_Language_Models.md)
-
-- [Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models](2024年08月24日/Preliminary_Investigations_of_a_Multi-Faceted_Robust_and_Synergistic_Approach_in_Semiconductor_Electron_Micrograph_Analysis_Integrating_Vision_Transformers_with_Large_Language_and_Multimodal_Models.md)
-
-    - [翻译: 我们初步探索了一种集成视觉变换器与大型语言和多模态模型的多维鲁棒协同方法，用于半导体电子显微镜图像分析。](2024年08月24日/Preliminary_Investigations_of_a_Multi-Faceted_Robust_and_Synergistic_Approach_in_Semiconductor_Electron_Micrograph_Analysis_Integrating_Vision_Transformers_with_Large_Language_and_Multimodal_Models.md)
-
-- [Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach](2024年08月24日/Probing_the_Robustness_of_Vision-Language_Pretrained_Models_A_Multimodal_Adversarial_Attack_Approach.md)
-
-    - [翻译: 探索视觉-语言预训练模型的稳健性：采用多模态对抗攻击策略](2024年08月24日/Probing_the_Robustness_of_Vision-Language_Pretrained_Models_A_Multimodal_Adversarial_Attack_Approach.md)
-
-2024年08月23日
-
-- [Optimizing Collaboration of LLM based Agents for Finite Element Analysis](2024年08月23日/Optimizing_Collaboration_of_LLM_based_Agents_for_Finite_Element_Analysis.md)
-
-    - [翻译: 提升基于LLM代理在有限元分析中的协作效率](2024年08月23日/Optimizing_Collaboration_of_LLM_based_Agents_for_Finite_Element_Analysis.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
