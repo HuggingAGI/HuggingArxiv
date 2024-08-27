@@ -12,4 +12,18 @@
 
 > Automatic Speech Recognition (ASR) systems are pivotal in transcribing speech into text, yet the errors they introduce can significantly degrade the performance of downstream tasks like summarization. This issue is particularly pronounced in clinical dialogue summarization, a low-resource domain where supervised data for fine-tuning is scarce, necessitating the use of ASR models as black-box solutions. Employing conventional data augmentation for enhancing the noise robustness of summarization models is not feasible either due to the unavailability of sufficient medical dialogue audio recordings and corresponding ASR transcripts. To address this challenge, we propose MEDSAGE, an approach for generating synthetic samples for data augmentation using Large Language Models (LLMs). Specifically, we leverage the in-context learning capabilities of LLMs and instruct them to generate ASR-like errors based on a few available medical dialogue examples with audio recordings. Experimental results show that LLMs can effectively model ASR noise, and incorporating this noisy data into the training process significantly improves the robustness and accuracy of medical dialogue summarization systems. This approach addresses the challenges of noisy ASR outputs in critical applications, offering a robust solution to enhance the reliability of clinical dialogue summarization.
 
+![MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](../../../paper_images/2408.14418/fig_a.png)
+
+![MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](../../../paper_images/2408.14418/fig_b.png)
+
+![MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](../../../paper_images/2408.14418/x1.png)
+
+![MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](../../../paper_images/2408.14418/x2.png)
+
+![MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](../../../paper_images/2408.14418/x3.png)
+
+![MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](../../../paper_images/2408.14418/x4.png)
+
+![MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](../../../paper_images/2408.14418/x5.png)
+
 [Arxiv](https://arxiv.org/abs/2408.14418)
