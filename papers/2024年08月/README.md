@@ -22,10 +22,6 @@
 
     - [翻译: CHARTOM：专为多模态大型语言模型设计的视觉心智理论基准](2024年08月26日/CHARTOM_A_Visual_Theory-of-Mind_Benchmark_for_Multimodal_Large_Language_Models.md)
 
-- [Claim Verification in the Age of Large Language Models: A Survey](2024年08月26日/Claim_Verification_in_the_Age_of_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 在大型语言模型时代，声明验证成为一项调查主题。](2024年08月26日/Claim_Verification_in_the_Age_of_Large_Language_Models_A_Survey.md)
-
 - [DSTI at LLMs4OL 2024 Task A: Intrinsic versus extrinsic knowledge for type classification](2024年08月26日/DSTI_at_LLMs4OL_2024_Task_A_Intrinsic_versus_extrinsic_knowledge_for_type_classification.md)
 
     - [翻译: 在 LLMs4OL 2024 任务 A 中，DSTI 探讨了类型分类的内在与外在知识。](2024年08月26日/DSTI_at_LLMs4OL_2024_Task_A_Intrinsic_versus_extrinsic_knowledge_for_type_classification.md)
@@ -70,14 +66,6 @@
 
     - [翻译: MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](2024年08月26日/MEDSAGE_Enhancing_Robustness_of_Medical_Dialogue_Summarization_to_ASR_Errors_with_LLM-generated_Synthetic_Dialogues.md)
 
-- [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](2024年08月26日/MLR-Copilot_Autonomous_Machine_Learning_Research_based_on_Large_Language_Models_Agents.md)
-
-    - [翻译: MLR-Copilot：依托大型语言模型代理，实现自主机器学习研究](2024年08月26日/MLR-Copilot_Autonomous_Machine_Learning_Research_based_on_Large_Language_Models_Agents.md)
-
-- [Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning](2024年08月26日/Re-Mix_Optimizing_Data_Mixtures_for_Large_Scale_Imitation_Learning.md)
-
-    - [翻译: Re-Mix：精调数据混合，助力大规模模仿学习](2024年08月26日/Re-Mix_Optimizing_Data_Mixtures_for_Large_Scale_Imitation_Learning.md)
-
 - [Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning](2024年08月26日/Reprogramming_Foundational_Large_Language_Models(LLMs)_for_Enterprise_Adoption_for_Spatio-Temporal_Forecasting_Applications_Unveiling_a_New_Era_in_Copilot-Guided_Cross-Modal_Time_Series_Representation_Learning.md)
 
     - [翻译: 重塑基础 LLM，助力企业空间-时间预测应用，开启副驾驶引导的跨模态时间序列学习新纪元。](2024年08月26日/Reprogramming_Foundational_Large_Language_Models(LLMs)_for_Enterprise_Adoption_for_Spatio-Temporal_Forecasting_Applications_Unveiling_a_New_Era_in_Copilot-Guided_Cross-Modal_Time_Series_Representation_Learning.md)
@@ -93,14 +81,6 @@
 - [Towards Synthetic Trace Generation of Modeling Operations using In-Context Learning Approach](2024年08月26日/Towards_Synthetic_Trace_Generation_of_Modeling_Operations_using_In-Context_Learning_Approach.md)
 
     - [翻译: 采用 In-Context Learning 方法，探索建模操作的合成跟踪生成技术。](2024年08月26日/Towards_Synthetic_Trace_Generation_of_Modeling_Operations_using_In-Context_Learning_Approach.md)
-
-- [Using Large Language Models to Document Code: A First Quantitative and Qualitative Assessment](2024年08月26日/Using_Large_Language_Models_to_Document_Code_A_First_Quantitative_and_Qualitative_Assessment.md)
-
-    - [翻译: 大型语言模型在代码文档化中的应用：首次定量与定性双重评估](2024年08月26日/Using_Large_Language_Models_to_Document_Code_A_First_Quantitative_and_Qualitative_Assessment.md)
-
-- [Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos](2024年08月26日/Video-CCAM_Enhancing_Video-Language_Understanding_with_Causal_Cross-Attention_Masks_for_Short_and_Long_Videos.md)
-
-    - [翻译: 视频-CCAM 技术通过因果交叉注意力掩码，提升了对短视频和长视频的视频-语言理解能力。](2024年08月26日/Video-CCAM_Enhancing_Video-Language_Understanding_with_Causal_Cross-Attention_Masks_for_Short_and_Long_Videos.md)
 
 2024年08月05日
 
