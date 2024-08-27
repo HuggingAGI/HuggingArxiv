@@ -116,22 +116,6 @@
 
 2024年08月25日
 
-- [CodeGraph: Enhancing Graph Reasoning of LLMs with Code](2024年08月25日/CodeGraph_Enhancing_Graph_Reasoning_of_LLMs_with_Code.md)
-
-    - [翻译: CodeGraph：借助代码提升 LLMs 的图推理性能](2024年08月25日/CodeGraph_Enhancing_Graph_Reasoning_of_LLMs_with_Code.md)
-
-- [Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)](2024年08月25日/Demo_Generative_Open_xG_Network_Simulation_with_Multi-Agent_LLM_and_ns-3_(GenOnet).md)
-
-    - [翻译: 展示：GenOnet——结合多智能体 LLM 与 ns-3 技术的生成式开放 xG 网络模拟](2024年08月25日/Demo_Generative_Open_xG_Network_Simulation_with_Multi-Agent_LLM_and_ns-3_(GenOnet).md)
-
-- [Evaluating Attribute Comprehension in Large Vision-Language Models](2024年08月25日/Evaluating_Attribute_Comprehension_in_Large_Vision-Language_Models.md)
-
-    - [翻译: 探究大型视觉-语言模型对属性的理解能力](2024年08月25日/Evaluating_Attribute_Comprehension_in_Large_Vision-Language_Models.md)
-
-- [Focused Large Language Models are Stable Many-Shot Learners](2024年08月25日/Focused_Large_Language_Models_are_Stable_Many-Shot_Learners.md)
-
-    - [翻译: 聚焦型大型语言模型展现出稳定的多次学习能力。](2024年08月25日/Focused_Large_Language_Models_are_Stable_Many-Shot_Learners.md)
-
 - [LLMs are Superior Feedback Providers: Bootstrapping Reasoning for Lie Detection with Self-Generated Feedback](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
 
     - [翻译: LLM 是出色的反馈源，通过自我生成的反馈机制，助力谎言检测中的推理过程。](2024年08月25日/LLMs_are_Superior_Feedback_Providers_Bootstrapping_Reasoning_for_Lie_Detection_with_Self-Generated_Feedback.md)
@@ -143,14 +127,6 @@
 - [Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
 
     - [翻译: 揭示你的理由：实时提取上下文规则，助力智能服务推荐](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
-
-- [SpeechCaps: Advancing Instruction-Based Universal Speech Models with Multi-Talker Speaking Style Captioning](2024年08月25日/SpeechCaps_Advancing_Instruction-Based_Universal_Speech_Models_with_Multi-Talker_Speaking_Style_Captioning.md)
-
-    - [翻译: SpeechCaps：借助多说话者风格字幕，推动基于指令的通用语音模型发展](2024年08月25日/SpeechCaps_Advancing_Instruction-Based_Universal_Speech_Models_with_Multi-Talker_Speaking_Style_Captioning.md)
-
-- [TF-Attack: Transferable and Fast Adversarial Attacks on Large Language Models](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
-
-    - [翻译: TF-Attack：针对大型语言模型的可迁移与快速对抗攻击](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
 
 2024年08月05日
 
