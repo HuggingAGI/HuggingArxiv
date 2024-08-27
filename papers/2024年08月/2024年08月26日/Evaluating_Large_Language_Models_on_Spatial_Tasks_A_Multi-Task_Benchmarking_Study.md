@@ -12,4 +12,24 @@
 
 > The advent of large language models such as ChatGPT, Gemini, and others has underscored the importance of evaluating their diverse capabilities, ranging from natural language understanding to code generation. However, their performance on spatial tasks has not been comprehensively assessed. This study addresses this gap by introducing a novel multi-task spatial evaluation dataset, designed to systematically explore and compare the performance of several advanced models on spatial tasks. The dataset encompasses twelve distinct task types, including spatial understanding and path planning, each with verified, accurate answers. We evaluated multiple models, including OpenAI's gpt-3.5-turbo, gpt-4o, and ZhipuAI's glm-4, through a two-phase testing approach. Initially, we conducted zero-shot testing, followed by categorizing the dataset by difficulty and performing prompt tuning tests. Results indicate that gpt-4o achieved the highest overall accuracy in the first phase, with an average of 71.3%. Although moonshot-v1-8k slightly underperformed overall, it surpassed gpt-4o in place name recognition tasks. The study also highlights the impact of prompt strategies on model performance in specific tasks. For example, the Chain-of-Thought (COT) strategy increased gpt-4o's accuracy in path planning from 12.4% to 87.5%, while a one-shot strategy enhanced moonshot-v1-8k's accuracy in mapping tasks from 10.1% to 76.3%.
 
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f1.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f2.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f3.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f4.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f5.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f6.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/4o.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/4t.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f7.png)
+
+![大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](../../../paper_images/2408.14438/f8.png)
+
 [Arxiv](https://arxiv.org/abs/2408.14438)

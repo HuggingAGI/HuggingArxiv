@@ -12,4 +12,16 @@
 
 > The explosive growth of videos on streaming media platforms has underscored the urgent need for effective video quality assessment (VQA) algorithms to monitor and perceptually optimize the quality of streaming videos. However, VQA remains an extremely challenging task due to the diverse video content and the complex spatial and temporal distortions, thus necessitating more advanced methods to address these issues. Nowadays, large multimodal models (LMMs), such as GPT-4V, have exhibited strong capabilities for various visual understanding tasks, motivating us to leverage the powerful multimodal representation ability of LMMs to solve the VQA task. Therefore, we propose the first Large Multi-Modal Video Quality Assessment (LMM-VQA) model, which introduces a novel spatiotemporal visual modeling strategy for quality-aware feature extraction. Specifically, we first reformulate the quality regression problem into a question and answering (Q&A) task and construct Q&A prompts for VQA instruction tuning. Then, we design a spatiotemporal vision encoder to extract spatial and temporal features to represent the quality characteristics of videos, which are subsequently mapped into the language space by the spatiotemporal projector for modality alignment. Finally, the aligned visual tokens and the quality-inquired text tokens are aggregated as inputs for the large language model (LLM) to generate the quality score and level. Extensive experiments demonstrate that LMM-VQA achieves state-of-the-art performance across five VQA benchmarks, exhibiting an average improvement of $5\%$ in generalization ability over existing methods. Furthermore, due to the advanced design of the spatiotemporal encoder and projector, LMM-VQA also performs exceptionally well on general video understanding tasks, further validating its effectiveness. Our code will be released at https://github.com/Sueqk/LMM-VQA.
 
+![LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](../../../paper_images/2408.14008/x1.png)
+
+![LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](../../../paper_images/2408.14008/x2.png)
+
+![LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](../../../paper_images/2408.14008/x3.png)
+
+![LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](../../../paper_images/2408.14008/x4.png)
+
+![LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](../../../paper_images/2408.14008/x5.png)
+
+![LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](../../../paper_images/2408.14008/x6.png)
+
 [Arxiv](https://arxiv.org/abs/2408.14008)
