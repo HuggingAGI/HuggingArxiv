@@ -116,29 +116,13 @@
 
 2024年08月25日
 
-- [3D-VirtFusion: Synthetic 3D Data Augmentation through Generative Diffusion Models and Controllable Editing](2024年08月25日/3D-VirtFusion_Synthetic_3D_Data_Augmentation_through_Generative_Diffusion_Models_and_Controllable_Editing.md)
-
-    - [翻译: 3D-VirtFusion：利用生成扩散模型与可控编辑技术实现合成3D数据增强](2024年08月25日/3D-VirtFusion_Synthetic_3D_Data_Augmentation_through_Generative_Diffusion_Models_and_Controllable_Editing.md)
-
-- [AgentMove: Predicting Human Mobility Anywhere Using Large Language Model based Agentic Framework](2024年08月25日/AgentMove_Predicting_Human_Mobility_Anywhere_Using_Large_Language_Model_based_Agentic_Framework.md)
-
-    - [翻译: AgentMove：借助大型语言模型的代理框架，精准预测全球人类流动性。](2024年08月25日/AgentMove_Predicting_Human_Mobility_Anywhere_Using_Large_Language_Model_based_Agentic_Framework.md)
-
 - [CodeGraph: Enhancing Graph Reasoning of LLMs with Code](2024年08月25日/CodeGraph_Enhancing_Graph_Reasoning_of_LLMs_with_Code.md)
 
     - [翻译: CodeGraph：借助代码提升 LLMs 的图推理性能](2024年08月25日/CodeGraph_Enhancing_Graph_Reasoning_of_LLMs_with_Code.md)
 
-- [ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models](2024年08月25日/ConVis_Contrastive_Decoding_with_Hallucination_Visualization_for_Mitigating_Hallucinations_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: ConVis：利用幻觉可视化技术进行对比解码，有效减轻多模态大型语言模型中的幻觉问题。](2024年08月25日/ConVis_Contrastive_Decoding_with_Hallucination_Visualization_for_Mitigating_Hallucinations_in_Multimodal_Large_Language_Models.md)
-
 - [Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)](2024年08月25日/Demo_Generative_Open_xG_Network_Simulation_with_Multi-Agent_LLM_and_ns-3_(GenOnet).md)
 
     - [翻译: 展示：GenOnet——结合多智能体 LLM 与 ns-3 技术的生成式开放 xG 网络模拟](2024年08月25日/Demo_Generative_Open_xG_Network_Simulation_with_Multi-Agent_LLM_and_ns-3_(GenOnet).md)
-
-- [Draw Like an Artist: Complex Scene Generation with Diffusion Model via Composition, Painting, and Retouching](2024年08月25日/Draw_Like_an_Artist_Complex_Scene_Generation_with_Diffusion_Model_via_Composition,_Painting,_and_Retouching.md)
-
-    - [翻译: 以艺术家之手，借助扩散模型，通过构图、绘制与润饰，创造出错综复杂的场景。](2024年08月25日/Draw_Like_an_Artist_Complex_Scene_Generation_with_Diffusion_Model_via_Composition,_Painting,_and_Retouching.md)
 
 - [Evaluating Attribute Comprehension in Large Vision-Language Models](2024年08月25日/Evaluating_Attribute_Comprehension_in_Large_Vision-Language_Models.md)
 
@@ -156,14 +140,6 @@
 
     - [翻译: 采用关系分类器的LLM，专为文档级关系抽取设计](2024年08月25日/LLM_with_Relation_Classifier_for_Document-Level_Relation_Extraction.md)
 
-- [Making Large Language Models Better Planners with Reasoning-Decision Alignment](2024年08月25日/Making_Large_Language_Models_Better_Planners_with_Reasoning-Decision_Alignment.md)
-
-    - [翻译: 通过推理与决策的精准对齐，我们能够让大型语言模型在规划领域表现更出色。](2024年08月25日/Making_Large_Language_Models_Better_Planners_with_Reasoning-Decision_Alignment.md)
-
-- [MobileQuant: Mobile-friendly Quantization for On-device Language Models](2024年08月25日/MobileQuant_Mobile-friendly_Quantization_for_On-device_Language_Models.md)
-
-    - [翻译: MobileQuant：专为移动设备设计的语言模型量化方案](2024年08月25日/MobileQuant_Mobile-friendly_Quantization_for_On-device_Language_Models.md)
-
 - [Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
 
     - [翻译: 揭示你的理由：实时提取上下文规则，助力智能服务推荐](2024年08月25日/Say_Your_Reason_Extract_Contextual_Rules_In_Situ_for_Context-aware_Service_Recommendation.md)
@@ -175,10 +151,6 @@
 - [TF-Attack: Transferable and Fast Adversarial Attacks on Large Language Models](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
 
     - [翻译: TF-Attack：针对大型语言模型的可迁移与快速对抗攻击](2024年08月25日/TF-Attack_Transferable_and_Fast_Adversarial_Attacks_on_Large_Language_Models.md)
-
-- [Time Series Analysis for Education: Methods, Applications, and Future Directions](2024年08月25日/Time_Series_Analysis_for_Education_Methods,_Applications,_and_Future_Directions.md)
-
-    - [翻译: 教育中的时间序列分析：探索其方法、应用及未来发展](2024年08月25日/Time_Series_Analysis_for_Education_Methods,_Applications,_and_Future_Directions.md)
 
 2024年08月05日
 
