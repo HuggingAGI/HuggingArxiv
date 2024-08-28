@@ -1,23 +1,5 @@
 # 2024年08月
 
-2024年08月27日
-
-- [BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline](2024年08月27日/BaichuanSEED_Sharing_the_Potential_of_ExtensivE_Data_Collection_and_Deduplication_by_Introducing_a_Competitive_Large_Language_Model_Baseline.md)
-
-    - [翻译: BaichuanSEED 项目旨在展示通过引入竞争性大型语言模型基线，实现大规模数据收集与去重的技术潜力。](2024年08月27日/BaichuanSEED_Sharing_the_Potential_of_ExtensivE_Data_Collection_and_Deduplication_by_Introducing_a_Competitive_Large_Language_Model_Baseline.md)
-
-- [Can Unconfident LLM Annotations Be Used for Confident Conclusions?](2024年08月27日/Can_Unconfident_LLM_Annotations_Be_Used_for_Confident_Conclusions.md)
-
-    - [翻译: LLM 的不确定注释，能否转化为确凿结论？](2024年08月27日/Can_Unconfident_LLM_Annotations_Be_Used_for_Confident_Conclusions.md)
-
-- [Measuring text summarization factuality using atomic facts entailment metrics in the context of retrieval augmented generation](2024年08月27日/Measuring_text_summarization_factuality_using_atomic_facts_entailment_metrics_in_the_context_of_retrieval_augmented_generation.md)
-
-    - [翻译: 在检索增强生成的背景下，通过原子事实蕴含度量来评估文本摘要的事实性。](2024年08月27日/Measuring_text_summarization_factuality_using_atomic_facts_entailment_metrics_in_the_context_of_retrieval_augmented_generation.md)
-
-- [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](2024年08月27日/The_Mamba_in_the_Llama_Distilling_and_Accelerating_Hybrid_Models.md)
-
-    - [翻译: 《羊驼中的曼巴》：提炼与加速混合模型](2024年08月27日/The_Mamba_in_the_Llama_Distilling_and_Accelerating_Hybrid_Models.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
