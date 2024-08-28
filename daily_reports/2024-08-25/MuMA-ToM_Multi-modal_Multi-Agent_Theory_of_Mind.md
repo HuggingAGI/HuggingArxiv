@@ -1,5 +1,5 @@
 # MuMA-ToM：探索多模态环境下的多智能体心智理论
-发布时间：2024年08月22日
+发布时间：2024年08月25日
 
 `Agent应用`
 > MuMA-ToM: Multi-modal Multi-Agent Theory of Mind

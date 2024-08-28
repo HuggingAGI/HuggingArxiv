@@ -12,6 +12,15 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
 <hr />
 
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/dialect_specific_queries.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/data_generation_pipeline.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/MoE.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/sample_filtering.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/keyword_dist.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/MoE-baseline.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/Our-MoE.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/template_expansion.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.12733/sample_generation_example.png)
 
 <hr />
 

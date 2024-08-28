@@ -12,6 +12,20 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
 <hr />
 
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/x1.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/camel_small.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/gobangdemo.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/x2.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/gobangdemo.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/autogen.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/autogen2.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/autogen4.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/autogen3.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/metagpt.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/camel.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/agentverse.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/agentverse2.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.09955/agentverse_policy.png)
 
 <hr />
 

@@ -1,0 +1,103 @@
+# Transfusion：用单一多模态模型预测下一词并扩散图像
+发布时间：2024年08月20日
+
+`多模态大模型`
+> Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model
+>
+> 我们提出了 Transfusion，这是一种在离散与连续数据上训练多模态模型的创新方法。它通过结合语言建模与扩散技术，训练单一变换器处理混合模态数据。我们从零开始，预训练了多个高达 70 亿参数的 Transfusion 模型，并针对多种单一及跨模态基准测试，确立了其缩放规律。实验表明，Transfusion 在扩展性上远超传统的图像量化与离散图像标记语言模型训练方法。通过加入模态专属的编码解码层，我们不仅提升了 Transfusion 的性能，还能将图像压缩至仅 16 个区块。此外，我们将 Transfusion 扩展至 70 亿参数与 2 万亿多模态标记，成功打造出一个能与同等规模扩散模型及语言模型相匹敌的图像与文本生成模型，充分融合了两者的优势。
+>
+> https://arxiv.org/pdf/2408.11039
+
+**点击公众号菜单加入大语言模型论文讨论**
+![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
+<hr />
+
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x1.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/avocado_armchair.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/bread_apple_knife.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/corgi.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/fractal.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/jay_macroons.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/transfusion.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/hand3.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/bunny_cloud.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/start_blue_tshirt.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/tulips.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/racoon_royal_2.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/three_sphere.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/transparent_duck.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/chromeplated_cat.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/kangaroo.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/egg_and_bird.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x2.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x3.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x4.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x5.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x6.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x7.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x8.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/x9.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_remove_cupcake.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_remove_cupcake.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_change_tomato_to_olive.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_change_tomato_to_olive.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_zebra.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/2_zebra.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_cartoon_style.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_cartoon_style.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/downtown_seattle_sunset.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/vegetable_car.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/diffusion_sign.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/basketball_shoe.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/coffee_from_human_souls.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/fox_and_unicorn_2.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/yellow_wall.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/crab_cheese.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/beam_raccoon.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/greek_island.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/be_excellent_to_each_toher.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/cave_tree.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/cow_man_tie.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/lychee_chair_2.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/old_rusted_robot.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/burger.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/woman_under_blanket.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/small_blue_book_red_large_book.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/horse_read_a_book.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/light_bulb_sailboat.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/monarch_butterfly.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/rowboat_bike.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/cookie_dip.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/angry_duck_1.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/panda_with_red_hat.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/japanese_garden.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/spaceship_pretzel.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/graffiti_dog.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/spacious_japanese_room.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/raccoon_cowboy.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/floating_garlic.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/bear_in_the_river.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_change_cloest_keyboard_to_black.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_change_cloest_keyboard_to_black.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_calligraphy.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_calligraphy.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_mountains.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_mountains.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_helicopter.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_helicopter.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_add_blue_rug.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_add_blue_rug.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_remove_light.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/2_remove_light.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_thread_to_wire.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_thread_to_wire.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/0_change_bat_to_brown.jpg)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.11039/1_change_bat_to_brown.jpg)
+
+<hr />
+
+- 论文原文: [https://arxiv.org/pdf/2408.11039](https://arxiv.org/pdf/2408.11039)
+- 获取更多最新Arxiv论文更新: [https://github.com/HuggingAGI/HuggingArxiv](https://github.com/HuggingAGI/HuggingArxiv)!
+- 加入社群，+v: iamxxn886
+- 点击公众号菜单加入讨论
+![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
