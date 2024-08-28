@@ -2,18 +2,6 @@
 
 2024年08月26日
 
-- [Assessing Contamination in Large Language Models: Introducing the LogProber method](2024年08月26日/Assessing_Contamination_in_Large_Language_Models_Introducing_the_LogProber_method.md)
-
-    - [翻译: 探索大型语言模型中的污染问题，我们引入了 LogProber 方法，旨在更精准地评估和解决这一挑战。](2024年08月26日/Assessing_Contamination_in_Large_Language_Models_Introducing_the_LogProber_method.md)
-
-- [DSTI at LLMs4OL 2024 Task A: Intrinsic versus extrinsic knowledge for type classification](2024年08月26日/DSTI_at_LLMs4OL_2024_Task_A_Intrinsic_versus_extrinsic_knowledge_for_type_classification.md)
-
-    - [翻译: 在 LLMs4OL 2024 任务 A 中，DSTI 探讨了类型分类的内在与外在知识。](2024年08月26日/DSTI_at_LLMs4OL_2024_Task_A_Intrinsic_versus_extrinsic_knowledge_for_type_classification.md)
-
-- [Epidemic Information Extraction for Event-Based Surveillance using Large Language Models](2024年08月26日/Epidemic_Information_Extraction_for_Event-Based_Surveillance_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型进行基于事件的流行病信息监测与提取](2024年08月26日/Epidemic_Information_Extraction_for_Event-Based_Surveillance_using_Large_Language_Models.md)
-
 - [Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study](2024年08月26日/Evaluating_Large_Language_Models_on_Spatial_Tasks_A_Multi-Task_Benchmarking_Study.md)
 
     - [翻译: 大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](2024年08月26日/Evaluating_Large_Language_Models_on_Spatial_Tasks_A_Multi-Task_Benchmarking_Study.md)
@@ -22,21 +10,9 @@
 
     - [翻译: 利用大型语言模型进行显式归纳推理](2024年08月26日/Explicit_Inductive_Inference_using_Large_Language_Models.md)
 
-- [Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning](2024年08月26日/Fire-Flyer_AI-HPC_A_Cost-Effective_Software-Hardware_Co-Design_for_Deep_Learning.md)
-
-    - [翻译: Fire-Flyer AI-HPC：为深度学习提供了一种经济高效的软件与硬件协同设计方案。](2024年08月26日/Fire-Flyer_AI-HPC_A_Cost-Effective_Software-Hardware_Co-Design_for_Deep_Learning.md)
-
-- [GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy](2024年08月26日/GR-MG_Leveraging_Partially_Annotated_Data_via_Multi-Modal_Goal_Conditioned_Policy.md)
-
-    - [翻译: GR-MG 策略：巧妙利用部分标注数据，实现多模态目标条件下的高效学习](2024年08月26日/GR-MG_Leveraging_Partially_Annotated_Data_via_Multi-Modal_Goal_Conditioned_Policy.md)
-
 - [Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos](2024年08月26日/Grounded_Multi-Hop_VideoQA_in_Long-Form_Egocentric_Videos.md)
 
     - [翻译: 长篇自我视角视频中的基础多跳视频问答](2024年08月26日/Grounded_Multi-Hop_VideoQA_in_Long-Form_Egocentric_Videos.md)
-
-- [Investigating the Effectiveness of Bayesian Spam Filters in Detecting LLM-modified Spam Mails](2024年08月26日/Investigating_the_Effectiveness_of_Bayesian_Spam_Filters_in_Detecting_LLM-modified_Spam_Mails.md)
-
-    - [翻译: 探究贝叶斯垃圾邮件过滤器对 LLM 修改型垃圾邮件的检测效能](2024年08月26日/Investigating_the_Effectiveness_of_Bayesian_Spam_Filters_in_Detecting_LLM-modified_Spam_Mails.md)
 
 - [LMM-VQA: Advancing Video Quality Assessment with Large Multimodal Models](2024年08月26日/LMM-VQA_Advancing_Video_Quality_Assessment_with_Large_Multimodal_Models.md)
 
