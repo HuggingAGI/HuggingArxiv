@@ -6,10 +6,6 @@
 
     - [翻译: AAVENUE 基准测试：揭示 LLM 在 AAVE 语境下 NLU 任务的偏差](2024年08月27日/AAVENUE_Detecting_LLM_Biases_on_NLU_Tasks_in_AAVE_via_a_Novel_Benchmark.md)
 
-- [AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems](2024年08月27日/AgentMonitor_A_Plug-and-Play_Framework_for_Predictive_and_Secure_Multi-Agent_Systems.md)
-
-    - [翻译: AgentMonitor：一款即插即用的框架，专为预测性和安全的多代理系统设计。](2024年08月27日/AgentMonitor_A_Plug-and-Play_Framework_for_Predictive_and_Secure_Multi-Agent_Systems.md)
-
 - [A global AI community requires language-diverse publishing](2024年08月27日/A_global_AI_community_requires_language-diverse_publishing.md)
 
     - [翻译: 为了构建一个全球性的AI社区，我们需要推动语言多样化的出版物。](2024年08月27日/A_global_AI_community_requires_language-diverse_publishing.md)
@@ -34,10 +30,6 @@
 
     - [翻译: DocLayLLM 是一款高效且有效的多模态扩展，专为理解富含文本的文档而设计，依托于大型语言模型。](2024年08月27日/DocLayLLM_An_Efficient_and_Effective_Multi-modal_Extension_of_Large_Language_Models_for_Text-rich_Document_Understanding.md)
 
-- [From Bias to Balance: Detecting Facial Expression Recognition Biases in Large Multimodal Foundation Models](2024年08月27日/From_Bias_to_Balance_Detecting_Facial_Expression_Recognition_Biases_in_Large_Multimodal_Foundation_Models.md)
-
-    - [翻译: 探索面部表情识别的偏差至平衡：在大规模多模态基础模型中揭示识别偏差](2024年08月27日/From_Bias_to_Balance_Detecting_Facial_Expression_Recognition_Biases_in_Large_Multimodal_Foundation_Models.md)
-
 - [Generative Verifiers: Reward Modeling as Next-Token Prediction](2024年08月27日/Generative_Verifiers_Reward_Modeling_as_Next-Token_Prediction.md)
 
     - [翻译: 生成验证器：将奖励建模视为下一个标记预测](2024年08月27日/Generative_Verifiers_Reward_Modeling_as_Next-Token_Prediction.md)
@@ -50,21 +42,9 @@
 
     - [翻译: Inverse-Q*：一种无需偏好数据即可对齐大型语言模型的令牌级强化学习方法](2024年08月27日/Inverse-Q_Token_Level_Reinforcement_Learning_for_Aligning_Large_Language_Models_Without_Preference_Data.md)
 
-- [Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks](2024年08月27日/Investigating_Coverage_Criteria_in_Large_Language_Models_An_In-Depth_Study_Through_Jailbreak_Attacks.md)
-
-    - [翻译: 深入探讨大语言模型中的覆盖标准：基于越狱攻击的详尽研究](2024年08月27日/Investigating_Coverage_Criteria_in_Large_Language_Models_An_In-Depth_Study_Through_Jailbreak_Attacks.md)
-
-- [Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation](2024年08月27日/Leveraging_Hallucinations_to_Reduce_Manual_Prompt_Dependency_in_Promptable_Segmentation.md)
-
-    - [翻译: 借助幻觉减少手动提示依赖，优化可提示分割过程](2024年08月27日/Leveraging_Hallucinations_to_Reduce_Manual_Prompt_Dependency_in_Promptable_Segmentation.md)
-
 - [Measuring text summarization factuality using atomic facts entailment metrics in the context of retrieval augmented generation](2024年08月27日/Measuring_text_summarization_factuality_using_atomic_facts_entailment_metrics_in_the_context_of_retrieval_augmented_generation.md)
 
     - [翻译: 在检索增强生成的背景下，通过原子事实蕴含度量来评估文本摘要的事实性。](2024年08月27日/Measuring_text_summarization_factuality_using_atomic_facts_entailment_metrics_in_the_context_of_retrieval_augmented_generation.md)
-
-- [PolicyLR: A Logic Representation For Privacy Policies](2024年08月27日/PolicyLR_A_Logic_Representation_For_Privacy_Policies.md)
-
-    - [翻译: PolicyLR：隐私政策的逻辑表达](2024年08月27日/PolicyLR_A_Logic_Representation_For_Privacy_Policies.md)
 
 - [SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models](2024年08月27日/SpikingSSMs_Learning_Long_Sequences_with_Sparse_and_Parallel_Spiking_State_Space_Models.md)
 
@@ -77,14 +57,6 @@
 - [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](2024年08月27日/The_Mamba_in_the_Llama_Distilling_and_Accelerating_Hybrid_Models.md)
 
     - [翻译: 《羊驼中的曼巴》：提炼与加速混合模型](2024年08月27日/The_Mamba_in_the_Llama_Distilling_and_Accelerating_Hybrid_Models.md)
-
-- [Unlocking Potential in Pre-Trained Music Language Models for Versatile Multi-Track Music Arrangement](2024年08月27日/Unlocking_Potential_in_Pre-Trained_Music_Language_Models_for_Versatile_Multi-Track_Music_Arrangement.md)
-
-    - [翻译: 探索预训练音乐语言模型在多轨音乐编排中的无限可能](2024年08月27日/Unlocking_Potential_in_Pre-Trained_Music_Language_Models_for_Versatile_Multi-Track_Music_Arrangement.md)
-
-- [Writing in the Margins: Better Inference Pattern for Long Context Retrieval](2024年08月27日/Writing_in_the_Margins_Better_Inference_Pattern_for_Long_Context_Retrieval.md)
-
-    - [翻译: 边缘创作：优化长篇上下文检索的推理策略](2024年08月27日/Writing_in_the_Margins_Better_Inference_Pattern_for_Long_Context_Retrieval.md)
 
 - [X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation](2024年08月27日/X-Reflect_Cross-Reflection_Prompting_for_Multimodal_Recommendation.md)
 
