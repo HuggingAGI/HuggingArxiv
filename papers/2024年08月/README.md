@@ -162,12 +162,6 @@
 
     - [翻译: 揭秘思维链提示法的统计根基](2024年08月25日/Unveiling_the_Statistical_Foundations_of_Chain-of-Thought_Prompting_Methods.md)
 
-2024年08月23日
-
-- [Knowledge Graph Modeling-Driven Large Language Model Operating System (LLM OS) for Task Automation in Process Engineering Problem-Solving](2024年08月23日/Knowledge_Graph_Modeling-Driven_Large_Language_Model_Operating_System_(LLM_OS)_for_Task_Automation_in_Process_Engineering_Problem-Solving.md)
-
-    - [翻译: 知识图谱建模驱动下的 LLM OS，专为过程工程问题解决中的任务自动化设计。](2024年08月23日/Knowledge_Graph_Modeling-Driven_Large_Language_Model_Operating_System_(LLM_OS)_for_Task_Automation_in_Process_Engineering_Problem-Solving.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
