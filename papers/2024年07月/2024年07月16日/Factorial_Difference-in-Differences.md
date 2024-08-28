@@ -14,4 +14,10 @@
 Abstract:In many social science applications, researchers use the difference-in-differences (DID) estimator to establish causal relationships, exploiting cross-sectional variation in a baseline factor and temporal variation in exposure to an event that presumably may affect all units. This approach, which we term factorial DID (FDID), differs from canonical DID in that it lacks a clean control group unexposed to the event after the event occurs. In this paper, we clarify FDID as a research design in terms of its data structure, feasible estimands, and identifying assumptions that allow the DID estimator to recover these estimands. We frame FDID as a factorial design with two factors: the baseline factor, denoted by $G$, and the exposure level to the event, denoted by $Z$, and define the effect modification and causal interaction as the associative and causal effects of $G$ on the effect of $Z$, respectively. We show that under the canonical no anticipation and parallel trends assumptions, the DID estimator identifies only the effect modification of $G$ in FDID, and propose an additional factorial parallel trends assumption to identify the causal interaction. Moreover, we show that the canonical DID research design can be reframed as a special case of the FDID research design with an additional exclusion restriction assumption, thereby reconciling the two approaches. We extend this framework to allow conditionally valid parallel trends assumptions and multiple time periods, and clarify assumptions required to justify regression analysis under FDID. We illustrate these findings with empirical examples from economics and political science, and provide recommendations for improving practice and interpretation under FDID.
     
 
+![因子差异-in-差异法](../../../paper_images/2407.11937/PO.png)
+
+![因子差异-in-差异法](../../../paper_images/2407.11937/ID.png)
+
+![因子差异-in-差异法](../../../paper_images/2407.11937/multiple.png)
+
 [Arxiv](https://arxiv.org/pdf/2407.11937)
