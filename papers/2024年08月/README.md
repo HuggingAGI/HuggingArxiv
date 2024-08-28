@@ -104,37 +104,13 @@
 
     - [翻译: CURLoRA：实现 LLM 稳定持续微调并缓解灾难性遗忘](2024年08月26日/CURLoRA_Stable_LLM_Continual_Fine-Tuning_and_Catastrophic_Forgetting_Mitigation.md)
 
-- [EVINCE: Optimizing Adversarial LLM Dialogues via Conditional Statistics and Information Theory](2024年08月26日/EVINCE_Optimizing_Adversarial_LLM_Dialogues_via_Conditional_Statistics_and_Information_Theory.md)
-
-    - [翻译: EVINCE：借助条件统计与信息论，优化大型语言模型中的对抗性对话。](2024年08月26日/EVINCE_Optimizing_Adversarial_LLM_Dialogues_via_Conditional_Statistics_and_Information_Theory.md)
-
-- [Improving Clinical Note Generation from Complex Doctor-Patient Conversation](2024年08月26日/Improving_Clinical_Note_Generation_from_Complex_Doctor-Patient_Conversation.md)
-
-    - [翻译: 优化临床笔记生成：从复杂医患对话中提炼精华](2024年08月26日/Improving_Clinical_Note_Generation_from_Complex_Doctor-Patient_Conversation.md)
-
-- [LyCon: Lyrics Reconstruction from the Bag-of-Words Using Large Language Models](2024年08月26日/LyCon_Lyrics_Reconstruction_from_the_Bag-of-Words_Using_Large_Language_Models.md)
-
-    - [翻译: LyCon：借助大型语言模型，从词袋中重塑歌词之美](2024年08月26日/LyCon_Lyrics_Reconstruction_from_the_Bag-of-Words_Using_Large_Language_Models.md)
-
 - [MMR: Evaluating Reading Ability of Large Multimodal Models](2024年08月26日/MMR_Evaluating_Reading_Ability_of_Large_Multimodal_Models.md)
 
     - [翻译: MMR：衡量大型多模态模型的阅读技能](2024年08月26日/MMR_Evaluating_Reading_Ability_of_Large_Multimodal_Models.md)
 
-- [Retrieval Augmented Generation for Dynamic Graph Modeling](2024年08月26日/Retrieval_Augmented_Generation_for_Dynamic_Graph_Modeling.md)
-
-    - [翻译: 动态图建模中的增强生成检索技术](2024年08月26日/Retrieval_Augmented_Generation_for_Dynamic_Graph_Modeling.md)
-
-- [RSTeller: Scaling Up Visual Language Modeling in Remote Sensing with Rich Linguistic Semantics from Openly Available Data and Large Language Models](2024年08月26日/RSTeller_Scaling_Up_Visual_Language_Modeling_in_Remote_Sensing_with_Rich_Linguistic_Semantics_from_Openly_Available_Data_and_Large_Language_Models.md)
-
-    - [翻译: RSTeller：借助公开数据和大型语言模型的丰富语义，在遥感领域中提升视觉语言建模的规模。](2024年08月26日/RSTeller_Scaling_Up_Visual_Language_Modeling_in_Remote_Sensing_with_Rich_Linguistic_Semantics_from_Openly_Available_Data_and_Large_Language_Models.md)
-
 - [StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech](2024年08月26日/StyleSpeech_Parameter-efficient_Fine_Tuning_for_Pre-trained_Controllable_Text-to-Speech.md)
 
     - [翻译: StyleSpeech：为预训练的可控文本转语音系统提供参数高效的微调方案](2024年08月26日/StyleSpeech_Parameter-efficient_Fine_Tuning_for_Pre-trained_Controllable_Text-to-Speech.md)
-
-- [Text2SQL is Not Enough: Unifying AI and Databases with TAG](2024年08月26日/Text2SQL_is_Not_Enough_Unifying_AI_and_Databases_with_TAG.md)
-
-    - [翻译: 仅靠 Text2SQL 远远不够，我们需要通过 TAG 来实现 AI 与数据库的真正融合。](2024年08月26日/Text2SQL_is_Not_Enough_Unifying_AI_and_Databases_with_TAG.md)
 
 - [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](2024年08月26日/What_Makes_a_Good_Story_and_How_Can_We_Measure_It_A_Comprehensive_Survey_of_Story_Evaluation.md)
 
