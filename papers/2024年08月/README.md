@@ -120,14 +120,6 @@
 
     - [翻译: MMR：衡量大型多模态模型的阅读技能](2024年08月26日/MMR_Evaluating_Reading_Ability_of_Large_Multimodal_Models.md)
 
-- [MODOC: A Modular Interface for Flexible Interlinking of Text Retrieval and Text Generation Functions](2024年08月26日/MODOC_A_Modular_Interface_for_Flexible_Interlinking_of_Text_Retrieval_and_Text_Generation_Functions.md)
-
-    - [翻译: MODOC：一款模块化接口，专为灵活整合文本检索与生成功能而设计](2024年08月26日/MODOC_A_Modular_Interface_for_Flexible_Interlinking_of_Text_Retrieval_and_Text_Generation_Functions.md)
-
-- [PAT: Pruning-Aware Tuning for Large Language Models](2024年08月26日/PAT_Pruning-Aware_Tuning_for_Large_Language_Models.md)
-
-    - [翻译: PAT：针对大型语言模型的修剪感知调优](2024年08月26日/PAT_Pruning-Aware_Tuning_for_Large_Language_Models.md)
-
 - [Retrieval Augmented Generation for Dynamic Graph Modeling](2024年08月26日/Retrieval_Augmented_Generation_for_Dynamic_Graph_Modeling.md)
 
     - [翻译: 动态图建模中的增强生成检索技术](2024年08月26日/Retrieval_Augmented_Generation_for_Dynamic_Graph_Modeling.md)
@@ -144,23 +136,9 @@
 
     - [翻译: 仅靠 Text2SQL 远远不够，我们需要通过 TAG 来实现 AI 与数据库的真正融合。](2024年08月26日/Text2SQL_is_Not_Enough_Unifying_AI_and_Databases_with_TAG.md)
 
-- [Towards Graph Prompt Learning: A Survey and Beyond](2024年08月26日/Towards_Graph_Prompt_Learning_A_Survey_and_Beyond.md)
-
-    - [翻译: 探索图提示学习：调查与展望](2024年08月26日/Towards_Graph_Prompt_Learning_A_Survey_and_Beyond.md)
-
 - [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](2024年08月26日/What_Makes_a_Good_Story_and_How_Can_We_Measure_It_A_Comprehensive_Survey_of_Story_Evaluation.md)
 
     - [翻译: 如何定义好故事并衡量其质量？这是一场关于故事评估的全面探索。](2024年08月26日/What_Makes_a_Good_Story_and_How_Can_We_Measure_It_A_Comprehensive_Survey_of_Story_Evaluation.md)
-
-2024年08月25日
-
-- [LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings](2024年08月25日/LLMs_as_Zero-shot_Graph_Learners_Alignment_of_GNN_Representations_with_LLM_Token_Embeddings.md)
-
-    - [翻译: LLM 作为零-shot 图学习器，探讨 GNN 表示与 LLM 令牌嵌入的匹配问题。](2024年08月25日/LLMs_as_Zero-shot_Graph_Learners_Alignment_of_GNN_Representations_with_LLM_Token_Embeddings.md)
-
-- [Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods](2024年08月25日/Unveiling_the_Statistical_Foundations_of_Chain-of-Thought_Prompting_Methods.md)
-
-    - [翻译: 揭秘思维链提示法的统计根基](2024年08月25日/Unveiling_the_Statistical_Foundations_of_Chain-of-Thought_Prompting_Methods.md)
 
 2024年08月05日
 
