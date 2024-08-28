@@ -2,14 +2,6 @@
 
 2024年08月27日
 
-- [AAVENUE: Detecting LLM Biases on NLU Tasks in AAVE via a Novel Benchmark](2024年08月27日/AAVENUE_Detecting_LLM_Biases_on_NLU_Tasks_in_AAVE_via_a_Novel_Benchmark.md)
-
-    - [翻译: AAVENUE 基准测试：揭示 LLM 在 AAVE 语境下 NLU 任务的偏差](2024年08月27日/AAVENUE_Detecting_LLM_Biases_on_NLU_Tasks_in_AAVE_via_a_Novel_Benchmark.md)
-
-- [A Survey of Large Language Models for European Languages](2024年08月27日/A_Survey_of_Large_Language_Models_for_European_Languages.md)
-
-    - [翻译: 欧洲语言大型语言模型综述](2024年08月27日/A_Survey_of_Large_Language_Models_for_European_Languages.md)
-
 - [BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline](2024年08月27日/BaichuanSEED_Sharing_the_Potential_of_ExtensivE_Data_Collection_and_Deduplication_by_Introducing_a_Competitive_Large_Language_Model_Baseline.md)
 
     - [翻译: BaichuanSEED 项目旨在展示通过引入竞争性大型语言模型基线，实现大规模数据收集与去重的技术潜力。](2024年08月27日/BaichuanSEED_Sharing_the_Potential_of_ExtensivE_Data_Collection_and_Deduplication_by_Introducing_a_Competitive_Large_Language_Model_Baseline.md)
@@ -18,25 +10,9 @@
 
     - [翻译: LLM 的不确定注释，能否转化为确凿结论？](2024年08月27日/Can_Unconfident_LLM_Annotations_Be_Used_for_Confident_Conclusions.md)
 
-- [DocLayLLM: An Efficient and Effective Multi-modal Extension of Large Language Models for Text-rich Document Understanding](2024年08月27日/DocLayLLM_An_Efficient_and_Effective_Multi-modal_Extension_of_Large_Language_Models_for_Text-rich_Document_Understanding.md)
-
-    - [翻译: DocLayLLM 是一款高效且有效的多模态扩展，专为理解富含文本的文档而设计，依托于大型语言模型。](2024年08月27日/DocLayLLM_An_Efficient_and_Effective_Multi-modal_Extension_of_Large_Language_Models_for_Text-rich_Document_Understanding.md)
-
-- [HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling](2024年08月27日/HPT++_Hierarchically_Prompting_Vision-Language_Models_with_Multi-Granularity_Knowledge_Generation_and_Improved_Structure_Modeling.md)
-
-    - [翻译: HPT++：结合多粒度知识生成与优化结构建模，提升视觉-语言模型的分层提示效果](2024年08月27日/HPT++_Hierarchically_Prompting_Vision-Language_Models_with_Multi-Granularity_Knowledge_Generation_and_Improved_Structure_Modeling.md)
-
-- [Inverse-Q*: Token Level Reinforcement Learning for Aligning Large Language Models Without Preference Data](2024年08月27日/Inverse-Q_Token_Level_Reinforcement_Learning_for_Aligning_Large_Language_Models_Without_Preference_Data.md)
-
-    - [翻译: Inverse-Q*：一种无需偏好数据即可对齐大型语言模型的令牌级强化学习方法](2024年08月27日/Inverse-Q_Token_Level_Reinforcement_Learning_for_Aligning_Large_Language_Models_Without_Preference_Data.md)
-
 - [Measuring text summarization factuality using atomic facts entailment metrics in the context of retrieval augmented generation](2024年08月27日/Measuring_text_summarization_factuality_using_atomic_facts_entailment_metrics_in_the_context_of_retrieval_augmented_generation.md)
 
     - [翻译: 在检索增强生成的背景下，通过原子事实蕴含度量来评估文本摘要的事实性。](2024年08月27日/Measuring_text_summarization_factuality_using_atomic_facts_entailment_metrics_in_the_context_of_retrieval_augmented_generation.md)
-
-- [Strategic Optimization and Challenges of Large Language Models in Object-Oriented Programming](2024年08月27日/Strategic_Optimization_and_Challenges_of_Large_Language_Models_in_Object-Oriented_Programming.md)
-
-    - [翻译: 面向对象编程领域，大型语言模型的战略优化及其所面临的挑战](2024年08月27日/Strategic_Optimization_and_Challenges_of_Large_Language_Models_in_Object-Oriented_Programming.md)
 
 - [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](2024年08月27日/The_Mamba_in_the_Llama_Distilling_and_Accelerating_Hybrid_Models.md)
 
