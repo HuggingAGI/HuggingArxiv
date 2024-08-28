@@ -6,10 +6,6 @@
 
     - [翻译: AAVENUE 基准测试：揭示 LLM 在 AAVE 语境下 NLU 任务的偏差](2024年08月27日/AAVENUE_Detecting_LLM_Biases_on_NLU_Tasks_in_AAVE_via_a_Novel_Benchmark.md)
 
-- [Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models](2024年08月27日/Advancing_Adversarial_Suffix_Transfer_Learning_on_Aligned_Large_Language_Models.md)
-
-    - [翻译: 探索对齐大型语言模型中对抗性后缀的转移学习进展](2024年08月27日/Advancing_Adversarial_Suffix_Transfer_Learning_on_Aligned_Large_Language_Models.md)
-
 - [AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems](2024年08月27日/AgentMonitor_A_Plug-and-Play_Framework_for_Predictive_and_Secure_Multi-Agent_Systems.md)
 
     - [翻译: AgentMonitor：一款即插即用的框架，专为预测性和安全的多代理系统设计。](2024年08月27日/AgentMonitor_A_Plug-and-Play_Framework_for_Predictive_and_Secure_Multi-Agent_Systems.md)
@@ -33,10 +29,6 @@
 - [Constraining Participation: Affordances of Feedback Features in Interfaces to Large Language Models](2024年08月27日/Constraining_Participation_Affordances_of_Feedback_Features_in_Interfaces_to_Large_Language_Models.md)
 
     - [翻译: 大型语言模型界面中的反馈功能，如何限制用户参与，是我们探讨的重点。](2024年08月27日/Constraining_Participation_Affordances_of_Feedback_Features_in_Interfaces_to_Large_Language_Models.md)
-
-- [Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning](2024年08月27日/Cross-Modal_Learning_for_Chemistry_Property_Prediction_Large_Language_Models_Meet_Graph_Machine_Learning.md)
-
-    - [翻译: 化学属性预测中的跨模态学习：大型语言模型与图机器学习的结合](2024年08月27日/Cross-Modal_Learning_for_Chemistry_Property_Prediction_Large_Language_Models_Meet_Graph_Machine_Learning.md)
 
 - [DocLayLLM: An Efficient and Effective Multi-modal Extension of Large Language Models for Text-rich Document Understanding](2024年08月27日/DocLayLLM_An_Efficient_and_Effective_Multi-modal_Extension_of_Large_Language_Models_for_Text-rich_Document_Understanding.md)
 
@@ -97,24 +89,6 @@
 - [X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation](2024年08月27日/X-Reflect_Cross-Reflection_Prompting_for_Multimodal_Recommendation.md)
 
     - [翻译: X-Reflect：多模态推荐中的交叉反射提示技术](2024年08月27日/X-Reflect_Cross-Reflection_Prompting_for_Multimodal_Recommendation.md)
-
-2024年08月26日
-
-- [CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation](2024年08月26日/CURLoRA_Stable_LLM_Continual_Fine-Tuning_and_Catastrophic_Forgetting_Mitigation.md)
-
-    - [翻译: CURLoRA：实现 LLM 稳定持续微调并缓解灾难性遗忘](2024年08月26日/CURLoRA_Stable_LLM_Continual_Fine-Tuning_and_Catastrophic_Forgetting_Mitigation.md)
-
-- [MMR: Evaluating Reading Ability of Large Multimodal Models](2024年08月26日/MMR_Evaluating_Reading_Ability_of_Large_Multimodal_Models.md)
-
-    - [翻译: MMR：衡量大型多模态模型的阅读技能](2024年08月26日/MMR_Evaluating_Reading_Ability_of_Large_Multimodal_Models.md)
-
-- [StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech](2024年08月26日/StyleSpeech_Parameter-efficient_Fine_Tuning_for_Pre-trained_Controllable_Text-to-Speech.md)
-
-    - [翻译: StyleSpeech：为预训练的可控文本转语音系统提供参数高效的微调方案](2024年08月26日/StyleSpeech_Parameter-efficient_Fine_Tuning_for_Pre-trained_Controllable_Text-to-Speech.md)
-
-- [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](2024年08月26日/What_Makes_a_Good_Story_and_How_Can_We_Measure_It_A_Comprehensive_Survey_of_Story_Evaluation.md)
-
-    - [翻译: 如何定义好故事并衡量其质量？这是一场关于故事评估的全面探索。](2024年08月26日/What_Makes_a_Good_Story_and_How_Can_We_Measure_It_A_Comprehensive_Survey_of_Story_Evaluation.md)
 
 2024年08月05日
 
