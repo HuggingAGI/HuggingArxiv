@@ -2,37 +2,9 @@
 
 2024年08月26日
 
-- [Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study](2024年08月26日/Evaluating_Large_Language_Models_on_Spatial_Tasks_A_Multi-Task_Benchmarking_Study.md)
-
-    - [翻译: 大型语言模型在空间任务上的评估：一项涵盖多任务的基准研究](2024年08月26日/Evaluating_Large_Language_Models_on_Spatial_Tasks_A_Multi-Task_Benchmarking_Study.md)
-
-- [Explicit Inductive Inference using Large Language Models](2024年08月26日/Explicit_Inductive_Inference_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型进行显式归纳推理](2024年08月26日/Explicit_Inductive_Inference_using_Large_Language_Models.md)
-
-- [Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos](2024年08月26日/Grounded_Multi-Hop_VideoQA_in_Long-Form_Egocentric_Videos.md)
-
-    - [翻译: 长篇自我视角视频中的基础多跳视频问答](2024年08月26日/Grounded_Multi-Hop_VideoQA_in_Long-Form_Egocentric_Videos.md)
-
-- [LMM-VQA: Advancing Video Quality Assessment with Large Multimodal Models](2024年08月26日/LMM-VQA_Advancing_Video_Quality_Assessment_with_Large_Multimodal_Models.md)
-
-    - [翻译: LMM-VQA：借助大型多模态模型，推动视频质量评估的进步](2024年08月26日/LMM-VQA_Advancing_Video_Quality_Assessment_with_Large_Multimodal_Models.md)
-
 - [MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues](2024年08月26日/MEDSAGE_Enhancing_Robustness_of_Medical_Dialogue_Summarization_to_ASR_Errors_with_LLM-generated_Synthetic_Dialogues.md)
 
     - [翻译: MEDSAGE：利用 LLM 生成的合成对话，提升医疗对话摘要对 ASR 错误的抗干扰能力](2024年08月26日/MEDSAGE_Enhancing_Robustness_of_Medical_Dialogue_Summarization_to_ASR_Errors_with_LLM-generated_Synthetic_Dialogues.md)
-
-- [Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning](2024年08月26日/Reprogramming_Foundational_Large_Language_Models(LLMs)_for_Enterprise_Adoption_for_Spatio-Temporal_Forecasting_Applications_Unveiling_a_New_Era_in_Copilot-Guided_Cross-Modal_Time_Series_Representation_Learning.md)
-
-    - [翻译: 重塑基础 LLM，助力企业空间-时间预测应用，开启副驾驶引导的跨模态时间序列学习新纪元。](2024年08月26日/Reprogramming_Foundational_Large_Language_Models(LLMs)_for_Enterprise_Adoption_for_Spatio-Temporal_Forecasting_Applications_Unveiling_a_New_Era_in_Copilot-Guided_Cross-Modal_Time_Series_Representation_Learning.md)
-
-- [Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models](2024年08月26日/Step-by-Step_Unmasking_for_Parameter-Efficient_Fine-tuning_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的参数高效微调：逐步揭秘法](2024年08月26日/Step-by-Step_Unmasking_for_Parameter-Efficient_Fine-tuning_of_Large_Language_Models.md)
-
-- [SWE-bench-java: A GitHub Issue Resolving Benchmark for Java](2024年08月26日/SWE-bench-java_A_GitHub_Issue_Resolving_Benchmark_for_Java.md)
-
-    - [翻译: SWE-bench-java：Java GitHub 问题解决的基准测试](2024年08月26日/SWE-bench-java_A_GitHub_Issue_Resolving_Benchmark_for_Java.md)
 
 2024年08月05日
 
