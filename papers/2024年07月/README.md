@@ -6,6 +6,12 @@
 
     - [翻译: 扩散模型：数据挖掘的新利器](2024年07月20日/Diffusion_Models_as_Data_Mining_Tools.md)
 
+2024年07月16日
+
+- [Factorial Difference-in-Differences](2024年07月16日/Factorial_Difference-in-Differences.md)
+
+    - [翻译: 因子差异-in-差异法](2024年07月16日/Factorial_Difference-in-Differences.md)
+
 2024年07月09日
 
 - [Navigating Complexity: Orchestrated Problem Solving with Multi-Agent LLMs](2024年07月09日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)
