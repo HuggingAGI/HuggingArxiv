@@ -2,25 +2,9 @@
 
 2024年08月26日
 
-- [A Practitioner's Guide to Continual Multimodal Pretraining](2024年08月26日/A_Practitioner's_Guide_to_Continual_Multimodal_Pretraining.md)
-
-    - [翻译: 持续多模态预训练实践指南](2024年08月26日/A_Practitioner's_Guide_to_Continual_Multimodal_Pretraining.md)
-
-- [Are LLM-based Recommenders Already the Best? Simple Scaled Cross-entropy Unleashes the Potential of Traditional Sequential Recommenders](2024年08月26日/Are_LLM-based_Recommenders_Already_the_Best_Simple_Scaled_Cross-entropy_Unleashes_the_Potential_of_Traditional_Sequential_Recommenders.md)
-
-    - [翻译: 基于 LLM 的推荐系统是否已登峰造极？其实，通过简单的规模化交叉熵，传统序列推荐系统的潜能正被激发。](2024年08月26日/Are_LLM-based_Recommenders_Already_the_Best_Simple_Scaled_Cross-entropy_Unleashes_the_Potential_of_Traditional_Sequential_Recommenders.md)
-
 - [Assessing Contamination in Large Language Models: Introducing the LogProber method](2024年08月26日/Assessing_Contamination_in_Large_Language_Models_Introducing_the_LogProber_method.md)
 
     - [翻译: 探索大型语言模型中的污染问题，我们引入了 LogProber 方法，旨在更精准地评估和解决这一挑战。](2024年08月26日/Assessing_Contamination_in_Large_Language_Models_Introducing_the_LogProber_method.md)
-
-- [Beyond Detection: Leveraging Large Language Models for Cyber Attack Prediction in IoT Networks](2024年08月26日/Beyond_Detection_Leveraging_Large_Language_Models_for_Cyber_Attack_Prediction_in_IoT_Networks.md)
-
-    - [翻译: 不仅限于检测，我们利用大型语言模型来预测物联网网络中的网络攻击。](2024年08月26日/Beyond_Detection_Leveraging_Large_Language_Models_for_Cyber_Attack_Prediction_in_IoT_Networks.md)
-
-- [CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models](2024年08月26日/CHARTOM_A_Visual_Theory-of-Mind_Benchmark_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: CHARTOM：专为多模态大型语言模型设计的视觉心智理论基准](2024年08月26日/CHARTOM_A_Visual_Theory-of-Mind_Benchmark_for_Multimodal_Large_Language_Models.md)
 
 - [DSTI at LLMs4OL 2024 Task A: Intrinsic versus extrinsic knowledge for type classification](2024年08月26日/DSTI_at_LLMs4OL_2024_Task_A_Intrinsic_versus_extrinsic_knowledge_for_type_classification.md)
 
@@ -37,10 +21,6 @@
 - [Explicit Inductive Inference using Large Language Models](2024年08月26日/Explicit_Inductive_Inference_using_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型进行显式归纳推理](2024年08月26日/Explicit_Inductive_Inference_using_Large_Language_Models.md)
-
-- [Exploring the Potential of Large Language Models for Heterophilic Graphs](2024年08月26日/Exploring_the_Potential_of_Large_Language_Models_for_Heterophilic_Graphs.md)
-
-    - [翻译: 探究大型语言模型在异质图领域的应用潜力](2024年08月26日/Exploring_the_Potential_of_Large_Language_Models_for_Heterophilic_Graphs.md)
 
 - [Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning](2024年08月26日/Fire-Flyer_AI-HPC_A_Cost-Effective_Software-Hardware_Co-Design_for_Deep_Learning.md)
 
