@@ -6,10 +6,6 @@
 
     - [翻译: AAVENUE 基准测试：揭示 LLM 在 AAVE 语境下 NLU 任务的偏差](2024年08月27日/AAVENUE_Detecting_LLM_Biases_on_NLU_Tasks_in_AAVE_via_a_Novel_Benchmark.md)
 
-- [A global AI community requires language-diverse publishing](2024年08月27日/A_global_AI_community_requires_language-diverse_publishing.md)
-
-    - [翻译: 为了构建一个全球性的AI社区，我们需要推动语言多样化的出版物。](2024年08月27日/A_global_AI_community_requires_language-diverse_publishing.md)
-
 - [A Survey of Large Language Models for European Languages](2024年08月27日/A_Survey_of_Large_Language_Models_for_European_Languages.md)
 
     - [翻译: 欧洲语言大型语言模型综述](2024年08月27日/A_Survey_of_Large_Language_Models_for_European_Languages.md)
@@ -22,17 +18,9 @@
 
     - [翻译: LLM 的不确定注释，能否转化为确凿结论？](2024年08月27日/Can_Unconfident_LLM_Annotations_Be_Used_for_Confident_Conclusions.md)
 
-- [Constraining Participation: Affordances of Feedback Features in Interfaces to Large Language Models](2024年08月27日/Constraining_Participation_Affordances_of_Feedback_Features_in_Interfaces_to_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型界面中的反馈功能，如何限制用户参与，是我们探讨的重点。](2024年08月27日/Constraining_Participation_Affordances_of_Feedback_Features_in_Interfaces_to_Large_Language_Models.md)
-
 - [DocLayLLM: An Efficient and Effective Multi-modal Extension of Large Language Models for Text-rich Document Understanding](2024年08月27日/DocLayLLM_An_Efficient_and_Effective_Multi-modal_Extension_of_Large_Language_Models_for_Text-rich_Document_Understanding.md)
 
     - [翻译: DocLayLLM 是一款高效且有效的多模态扩展，专为理解富含文本的文档而设计，依托于大型语言模型。](2024年08月27日/DocLayLLM_An_Efficient_and_Effective_Multi-modal_Extension_of_Large_Language_Models_for_Text-rich_Document_Understanding.md)
-
-- [Generative Verifiers: Reward Modeling as Next-Token Prediction](2024年08月27日/Generative_Verifiers_Reward_Modeling_as_Next-Token_Prediction.md)
-
-    - [翻译: 生成验证器：将奖励建模视为下一个标记预测](2024年08月27日/Generative_Verifiers_Reward_Modeling_as_Next-Token_Prediction.md)
 
 - [HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling](2024年08月27日/HPT++_Hierarchically_Prompting_Vision-Language_Models_with_Multi-Granularity_Knowledge_Generation_and_Improved_Structure_Modeling.md)
 
@@ -46,10 +34,6 @@
 
     - [翻译: 在检索增强生成的背景下，通过原子事实蕴含度量来评估文本摘要的事实性。](2024年08月27日/Measuring_text_summarization_factuality_using_atomic_facts_entailment_metrics_in_the_context_of_retrieval_augmented_generation.md)
 
-- [SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models](2024年08月27日/SpikingSSMs_Learning_Long_Sequences_with_Sparse_and_Parallel_Spiking_State_Space_Models.md)
-
-    - [翻译: SpikingSSMs：利用稀疏并行的尖峰状态空间模型，高效学习长序列。](2024年08月27日/SpikingSSMs_Learning_Long_Sequences_with_Sparse_and_Parallel_Spiking_State_Space_Models.md)
-
 - [Strategic Optimization and Challenges of Large Language Models in Object-Oriented Programming](2024年08月27日/Strategic_Optimization_and_Challenges_of_Large_Language_Models_in_Object-Oriented_Programming.md)
 
     - [翻译: 面向对象编程领域，大型语言模型的战略优化及其所面临的挑战](2024年08月27日/Strategic_Optimization_and_Challenges_of_Large_Language_Models_in_Object-Oriented_Programming.md)
@@ -57,10 +41,6 @@
 - [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](2024年08月27日/The_Mamba_in_the_Llama_Distilling_and_Accelerating_Hybrid_Models.md)
 
     - [翻译: 《羊驼中的曼巴》：提炼与加速混合模型](2024年08月27日/The_Mamba_in_the_Llama_Distilling_and_Accelerating_Hybrid_Models.md)
-
-- [X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation](2024年08月27日/X-Reflect_Cross-Reflection_Prompting_for_Multimodal_Recommendation.md)
-
-    - [翻译: X-Reflect：多模态推荐中的交叉反射提示技术](2024年08月27日/X-Reflect_Cross-Reflection_Prompting_for_Multimodal_Recommendation.md)
 
 2024年08月05日
 
