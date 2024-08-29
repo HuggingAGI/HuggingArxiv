@@ -6,10 +6,6 @@
 
     - [翻译: 探究数据科学代码生成中大型语言模型的自修正能力](2024年08月28日/An_Empirical_Study_on_Self-correcting_Large_Language_Models_for_Data_Science_Code_Generation.md)
 
-- [Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](2024年08月28日/Auxiliary-Loss-Free_Load_Balancing_Strategy_for_Mixture-of-Experts.md)
-
-    - [翻译: 无辅助损失的专家混合负载均衡策略](2024年08月28日/Auxiliary-Loss-Free_Load_Balancing_Strategy_for_Mixture-of-Experts.md)
-
 - [Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models](2024年08月28日/Bias_in_LLMs_as_Annotators_The_Effect_of_Party_Cues_on_Labelling_Decision_by_Large_Language_Models.md)
 
     - [翻译: LLM 作为标注者时，党派线索如何影响其标注决策，这一偏见值得关注。](2024年08月28日/Bias_in_LLMs_as_Annotators_The_Effect_of_Party_Cues_on_Labelling_Decision_by_Large_Language_Models.md)
@@ -26,21 +22,9 @@
 
     - [翻译: 边缘网络上的去中心化 LLM 推理结合能量采集技术](2024年08月28日/Decentralized_LLM_Inference_over_Edge_Networks_with_Energy_Harvesting.md)
 
-- [Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models](2024年08月28日/Divide,_Conquer_and_Combine_A_Training-Free_Framework_for_High-Resolution_Image_Perception_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 分割、征服与结合：一种无需训练的框架，专为多模态大型语言模型中的高分辨率图像感知设计。](2024年08月28日/Divide,_Conquer_and_Combine_A_Training-Free_Framework_for_High-Resolution_Image_Perception_in_Multimodal_Large_Language_Models.md)
-
-- [Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders](2024年08月28日/Eagle_Exploring_The_Design_Space_for_Multimodal_LLMs_with_Mixture_of_Encoders.md)
-
-    - [翻译: Eagle 项目：探索多模态大型语言模型中编码器混合的设计空间](2024年08月28日/Eagle_Exploring_The_Design_Space_for_Multimodal_LLMs_with_Mixture_of_Encoders.md)
-
 - [Efficient LLM Scheduling by Learning to Rank](2024年08月28日/Efficient_LLM_Scheduling_by_Learning_to_Rank.md)
 
     - [翻译: 学习排序以优化 LLM 调度效率](2024年08月28日/Efficient_LLM_Scheduling_by_Learning_to_Rank.md)
-
-- [Harmonized Speculative Sampling](2024年08月28日/Harmonized_Speculative_Sampling.md)
-
-    - [翻译: 和谐推测采样](2024年08月28日/Harmonized_Speculative_Sampling.md)
 
 - [Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings](2024年08月28日/Harnessing_the_Intrinsic_Knowledge_of_Pretrained_Language_Models_for_Challenging_Text_Classification_Settings.md)
 
@@ -53,10 +37,6 @@
 - [Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input](2024年08月28日/Kangaroo_A_Powerful_Video-Language_Model_Supporting_Long-context_Video_Input.md)
 
     - [翻译: Kangaroo 模型：专为长视频输入设计，融合视频与语言的强大工具](2024年08月28日/Kangaroo_A_Powerful_Video-Language_Model_Supporting_Long-context_Video_Input.md)
-
-- [LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation](2024年08月28日/LLaVA-MoD_Making_LLaVA_Tiny_via_MoE_Knowledge_Distillation.md)
-
-    - [翻译: LLaVA-MoD：借助 MoE 知识蒸馏技术，让 LLaVA 更精简](2024年08月28日/LLaVA-MoD_Making_LLaVA_Tiny_via_MoE_Knowledge_Distillation.md)
 
 - [LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments](2024年08月28日/LLM-Based_Multi-Hop_Question_Answering_with_Knowledge_Graph_Integration_in_Evolving_Environments.md)
 
@@ -73,10 +53,6 @@
 - [Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
 
     - [翻译: Nexus：将专业化与适应性融合，实现专家混合模型的高效训练](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
-
-- [Persuasion Games using Large Language Models](2024年08月28日/Persuasion_Games_using_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型在说服游戏中的应用](2024年08月28日/Persuasion_Games_using_Large_Language_Models.md)
 
 - [Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
 
@@ -97,10 +73,6 @@
 - [Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models](2024年08月28日/Whisper-PMFA_Partial_Multi-Scale_Feature_Aggregation_for_Speaker_Verification_using_Whisper_Models.md)
 
     - [翻译: Whisper-PMFA：利用 Whisper 模型进行演讲者验证的部分多尺度特征聚合技术](2024年08月28日/Whisper-PMFA_Partial_Multi-Scale_Feature_Aggregation_for_Speaker_Verification_using_Whisper_Models.md)
-
-- [μgat: Improving Single-Page Document Parsing by Providing Multi-Page Context](2024年08月28日/μgat_Improving_Single-Page_Document_Parsing_by_Providing_Multi-Page_Context.md)
-
-    - [翻译: μgat 技术通过融入多页上下文，显著提升了单页文档的解析质量。](2024年08月28日/μgat_Improving_Single-Page_Document_Parsing_by_Providing_Multi-Page_Context.md)
 
 2024年08月05日
 
