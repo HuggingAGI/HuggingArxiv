@@ -1,11 +1,5 @@
 # 2024年08月
 
-2024年08月28日
-
-- [Decentralized LLM Inference over Edge Networks with Energy Harvesting](2024年08月28日/Decentralized_LLM_Inference_over_Edge_Networks_with_Energy_Harvesting.md)
-
-    - [翻译: 边缘网络上的去中心化 LLM 推理结合能量采集技术](2024年08月28日/Decentralized_LLM_Inference_over_Edge_Networks_with_Energy_Harvesting.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
