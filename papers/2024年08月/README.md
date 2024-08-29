@@ -14,17 +14,9 @@
 
     - [翻译: LLM 作为标注者时，党派线索如何影响其标注决策，这一偏见值得关注。](2024年08月28日/Bias_in_LLMs_as_Annotators_The_Effect_of_Party_Cues_on_Labelling_Decision_by_Large_Language_Models.md)
 
-- [Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation](2024年08月28日/Boosting_Lossless_Speculative_Decoding_via_Feature_Sampling_and_Partial_Alignment_Distillation.md)
-
-    - [翻译: 利用特征采样与部分对齐蒸馏技术，提升无损推测解码的性能。](2024年08月28日/Boosting_Lossless_Speculative_Decoding_via_Feature_Sampling_and_Partial_Alignment_Distillation.md)
-
 - [CBF-LLM: Safe Control for LLM Alignment](2024年08月28日/CBF-LLM_Safe_Control_for_LLM_Alignment.md)
 
     - [翻译: CBF-LLM：确保 LLM 对齐的安全控制方案](2024年08月28日/CBF-LLM_Safe_Control_for_LLM_Alignment.md)
-
-- [CodeSift: An LLM-Based Reference-Less Framework for Automatic Code Validation](2024年08月28日/CodeSift_An_LLM-Based_Reference-Less_Framework_for_Automatic_Code_Validation.md)
-
-    - [翻译: CodeSift：一款基于 LLM 的无参考自动代码验证框架](2024年08月28日/CodeSift_An_LLM-Based_Reference-Less_Framework_for_Automatic_Code_Validation.md)
 
 - [Comparing diversity, negativity, and stereotypes in Chinese-language AI technologies: a case study on Baidu, Ernie and Qwen](2024年08月28日/Comparing_diversity,_negativity,_and_stereotypes_in_Chinese-language_AI_technologies_a_case_study_on_Baidu,_Ernie_and_Qwen.md)
 
@@ -70,10 +62,6 @@
 
     - [翻译: 在不断变化的环境中，结合知识图谱的LLM多跳问答技术](2024年08月28日/LLM-Based_Multi-Hop_Question_Answering_with_Knowledge_Graph_Integration_in_Evolving_Environments.md)
 
-- [LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models](2024年08月28日/LogicGame_Benchmarking_Rule-Based_Reasoning_Abilities_of_Large_Language_Models.md)
-
-    - [翻译: LogicGame：一项针对大型语言模型基于规则推理能力的评估基准](2024年08月28日/LogicGame_Benchmarking_Rule-Based_Reasoning_Abilities_of_Large_Language_Models.md)
-
 - [LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation](2024年08月28日/LRP4RAG_Detecting_Hallucinations_in_Retrieval-Augmented_Generation_via_Layer-wise_Relevance_Propagation.md)
 
     - [翻译: LRP4RAG：利用层级相关性传播技术，精准检测检索增强生成模型中的幻觉现象。](2024年08月28日/LRP4RAG_Detecting_Hallucinations_in_Retrieval-Augmented_Generation_via_Layer-wise_Relevance_Propagation.md)
@@ -89,10 +77,6 @@
 - [Persuasion Games using Large Language Models](2024年08月28日/Persuasion_Games_using_Large_Language_Models.md)
 
     - [翻译: 大型语言模型在说服游戏中的应用](2024年08月28日/Persuasion_Games_using_Large_Language_Models.md)
-
-- [Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection](2024年08月28日/Retrieval-Augmented_Instruction_Tuning_for_Automated_Process_Engineering_Calculations__A_Tool-Chaining_Problem-Solving_Framework_with_Attributable_Reflection.md)
-
-    - [翻译: 通过检索增强指令调优，我们构建了一个自动化过程工程计算的工具链问题解决框架，该框架融入了可归因的反思机制。](2024年08月28日/Retrieval-Augmented_Instruction_Tuning_for_Automated_Process_Engineering_Calculations__A_Tool-Chaining_Problem-Solving_Framework_with_Attributable_Reflection.md)
 
 - [Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
 
@@ -113,10 +97,6 @@
 - [Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models](2024年08月28日/Whisper-PMFA_Partial_Multi-Scale_Feature_Aggregation_for_Speaker_Verification_using_Whisper_Models.md)
 
     - [翻译: Whisper-PMFA：利用 Whisper 模型进行演讲者验证的部分多尺度特征聚合技术](2024年08月28日/Whisper-PMFA_Partial_Multi-Scale_Feature_Aggregation_for_Speaker_Verification_using_Whisper_Models.md)
-
-- [WildFeedback: Aligning LLMs With In-situ User Interactions And Feedback](2024年08月28日/WildFeedback_Aligning_LLMs_With_In-situ_User_Interactions_And_Feedback.md)
-
-    - [翻译: WildFeedback：实现 LLMs 与实时用户互动及反馈的协同](2024年08月28日/WildFeedback_Aligning_LLMs_With_In-situ_User_Interactions_And_Feedback.md)
 
 - [μgat: Improving Single-Page Document Parsing by Providing Multi-Page Context](2024年08月28日/μgat_Improving_Single-Page_Document_Parsing_by_Providing_Multi-Page_Context.md)
 
