@@ -48,7 +48,7 @@
 
 - [Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models](2024年08月28日/Divide,_Conquer_and_Combine_A_Training-Free_Framework_for_High-Resolution_Image_Perception_in_Multimodal_Large_Language_Models.md)
 
-    - [翻译: 分割、征服与结合：一种无需训练的框架，用于提升多模态大型语言模型中的高分辨率图像感知能力。](2024年08月28日/Divide,_Conquer_and_Combine_A_Training-Free_Framework_for_High-Resolution_Image_Perception_in_Multimodal_Large_Language_Models.md)
+    - [翻译: 分割、征服与结合：一种无需训练的框架，专为多模态大型语言模型中的高分辨率图像感知设计。](2024年08月28日/Divide,_Conquer_and_Combine_A_Training-Free_Framework_for_High-Resolution_Image_Perception_in_Multimodal_Large_Language_Models.md)
 
 - [Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders](2024年08月28日/Eagle_Exploring_The_Design_Space_for_Multimodal_LLMs_with_Mixture_of_Encoders.md)
 
