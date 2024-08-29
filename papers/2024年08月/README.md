@@ -2,29 +2,9 @@
 
 2024年08月28日
 
-- [An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation](2024年08月28日/An_Empirical_Study_on_Self-correcting_Large_Language_Models_for_Data_Science_Code_Generation.md)
-
-    - [翻译: 探究数据科学代码生成中大型语言模型的自修正能力](2024年08月28日/An_Empirical_Study_on_Self-correcting_Large_Language_Models_for_Data_Science_Code_Generation.md)
-
-- [Comparing diversity, negativity, and stereotypes in Chinese-language AI technologies: a case study on Baidu, Ernie and Qwen](2024年08月28日/Comparing_diversity,_negativity,_and_stereotypes_in_Chinese-language_AI_technologies_a_case_study_on_Baidu,_Ernie_and_Qwen.md)
-
-    - [翻译: 探究中文AI技术中的多样性、负面信息及刻板印象：百度、Ernie与Qwen的案例分析](2024年08月28日/Comparing_diversity,_negativity,_and_stereotypes_in_Chinese-language_AI_technologies_a_case_study_on_Baidu,_Ernie_and_Qwen.md)
-
 - [Decentralized LLM Inference over Edge Networks with Energy Harvesting](2024年08月28日/Decentralized_LLM_Inference_over_Edge_Networks_with_Energy_Harvesting.md)
 
     - [翻译: 边缘网络上的去中心化 LLM 推理结合能量采集技术](2024年08月28日/Decentralized_LLM_Inference_over_Edge_Networks_with_Energy_Harvesting.md)
-
-- [Efficient LLM Scheduling by Learning to Rank](2024年08月28日/Efficient_LLM_Scheduling_by_Learning_to_Rank.md)
-
-    - [翻译: 学习排序以优化 LLM 调度效率](2024年08月28日/Efficient_LLM_Scheduling_by_Learning_to_Rank.md)
-
-- [Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
-
-    - [翻译: Nexus：将专业化与适应性融合，实现专家混合模型的高效训练](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
-
-- [Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
-
-    - [翻译: 扩展摘要领域：借助大型语言模型提升长文本抽取式摘要的效率](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
 
 2024年08月05日
 
