@@ -136,41 +136,21 @@
 
 2024年08月27日
 
-- [AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models](2024年08月27日/AeroVerse_UAV-Agent_Benchmark_Suite_for_Simulating,_Pre-training,_Finetuning,_and_Evaluating_Aerospace_Embodied_World_Models.md)
-
-    - [翻译: AeroVerse：一款专为模拟、预训练、微调及评估航空航天实体世界模型而设计的无人机-代理基准套件](2024年08月27日/AeroVerse_UAV-Agent_Benchmark_Suite_for_Simulating,_Pre-training,_Finetuning,_and_Evaluating_Aerospace_Embodied_World_Models.md)
-
 - [A Statistical Framework for Data-dependent Retrieval-Augmented Models](2024年08月27日/A_Statistical_Framework_for_Data-dependent_Retrieval-Augmented_Models.md)
 
     - [翻译: 数据驱动型检索增强模型的统计框架](2024年08月27日/A_Statistical_Framework_for_Data-dependent_Retrieval-Augmented_Models.md)
-
-- [AUTOGENICS: Automated Generation of Context-Aware Inline Comments for Code Snippets on Programming Q&A Sites Using LLM](2024年08月27日/AUTOGENICS_Automated_Generation_of_Context-Aware_Inline_Comments_for_Code_Snippets_on_Programming_Q&A_Sites_Using_LLM.md)
-
-    - [翻译: AUTOGENICS：利用 LLM 技术，自动为编程问答网站的代码片段生成智能内联注释，提升上下文感知能力。](2024年08月27日/AUTOGENICS_Automated_Generation_of_Context-Aware_Inline_Comments_for_Code_Snippets_on_Programming_Q&A_Sites_Using_LLM.md)
 
 - [Awes, Laws, and Flaws From Today's LLM Research](2024年08月27日/Awes,_Laws,_and_Flaws_From_Today's_LLM_Research.md)
 
     - [翻译: 今日LLM研究中的亮点、规律与缺陷](2024年08月27日/Awes,_Laws,_and_Flaws_From_Today's_LLM_Research.md)
 
-- [Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression](2024年08月27日/Enhancing_and_Accelerating_Large_Language_Models_via_Instruction-Aware_Contextual_Compression.md)
-
-    - [翻译: 借助指令感知上下文压缩技术，我们旨在提升和加速大型语言模型的性能。](2024年08月27日/Enhancing_and_Accelerating_Large_Language_Models_via_Instruction-Aware_Contextual_Compression.md)
-
 - [GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs](2024年08月27日/GIFT-SW_Gaussian_noise_Injected_Fine-Tuning_of_Salient_Weights_for_LLMs.md)
 
     - [翻译: GIFT-SW：为 LLM 的显著权重注入高斯噪声进行微调](2024年08月27日/GIFT-SW_Gaussian_noise_Injected_Fine-Tuning_of_Salient_Weights_for_LLMs.md)
 
-- [Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations](2024年08月27日/Implicit_Geometry_of_Next-token_Prediction_From_Language_Sparsity_Patterns_to_Model_Representations.md)
-
-    - [翻译: 探索下一个标记预测的隐式几何：揭秘语言稀疏模式与模型表示之间的联系](2024年08月27日/Implicit_Geometry_of_Next-token_Prediction_From_Language_Sparsity_Patterns_to_Model_Representations.md)
-
 - [Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
 
     - [翻译: 评估因果探查方法的可靠性涉及权衡与局限，尤其是消除干预的难题。](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
-
-- [TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering](2024年08月27日/TourSynbio_A_Multi-Modal_Large_Model_and_Agent_Framework_to_Bridge_Text_and_Protein_Sequences_for_Protein_Engineering.md)
-
-    - [翻译: TourSynbio：一款多模态大型模型与代理框架，旨在搭建文本与蛋白质序列之间的桥梁，推动蛋白质工程的发展。](2024年08月27日/TourSynbio_A_Multi-Modal_Large_Model_and_Agent_Framework_to_Bridge_Text_and_Protein_Sequences_for_Protein_Engineering.md)
 
 2024年08月05日
 
