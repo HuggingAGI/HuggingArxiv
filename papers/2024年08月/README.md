@@ -164,10 +164,6 @@
 
     - [翻译: 探索下一个标记预测的隐式几何：揭秘语言稀疏模式与模型表示之间的联系](2024年08月27日/Implicit_Geometry_of_Next-token_Prediction_From_Language_Sparsity_Patterns_to_Model_Representations.md)
 
-- [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](2024年08月27日/Legilimens_Practical_and_Unified_Content_Moderation_for_Large_Language_Model_Services.md)
-
-    - [翻译: Legilimens：为大型语言模型服务提供实用且统一的内容管理方案](2024年08月27日/Legilimens_Practical_and_Unified_Content_Moderation_for_Large_Language_Model_Services.md)
-
 - [Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
 
     - [翻译: 评估因果探查方法的可靠性涉及权衡与局限，尤其是消除干预的难题。](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
@@ -175,12 +171,6 @@
 - [TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering](2024年08月27日/TourSynbio_A_Multi-Modal_Large_Model_and_Agent_Framework_to_Bridge_Text_and_Protein_Sequences_for_Protein_Engineering.md)
 
     - [翻译: TourSynbio：一款多模态大型模型与代理框架，旨在搭建文本与蛋白质序列之间的桥梁，推动蛋白质工程的发展。](2024年08月27日/TourSynbio_A_Multi-Modal_Large_Model_and_Agent_Framework_to_Bridge_Text_and_Protein_Sequences_for_Protein_Engineering.md)
-
-2024年08月11日
-
-- [People over trust AI-generated medical responses and view them to be as valid as doctors, despite low accuracy](2024年08月11日/People_over_trust_AI-generated_medical_responses_and_view_them_to_be_as_valid_as_doctors,_despite_low_accuracy.md)
-
-    - [翻译: 尽管准确性不高，人们仍过度信赖 AI 生成的医疗建议，视其与医生意见同等重要。](2024年08月11日/People_over_trust_AI-generated_medical_responses_and_view_them_to_be_as_valid_as_doctors,_despite_low_accuracy.md)
 
 2024年08月05日
 
