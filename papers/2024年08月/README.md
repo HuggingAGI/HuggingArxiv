@@ -10,10 +10,6 @@
 
     - [翻译: LLM 作为标注者时，党派线索如何影响其标注决策，这一偏见值得关注。](2024年08月28日/Bias_in_LLMs_as_Annotators_The_Effect_of_Party_Cues_on_Labelling_Decision_by_Large_Language_Models.md)
 
-- [CBF-LLM: Safe Control for LLM Alignment](2024年08月28日/CBF-LLM_Safe_Control_for_LLM_Alignment.md)
-
-    - [翻译: CBF-LLM：确保 LLM 对齐的安全控制方案](2024年08月28日/CBF-LLM_Safe_Control_for_LLM_Alignment.md)
-
 - [Comparing diversity, negativity, and stereotypes in Chinese-language AI technologies: a case study on Baidu, Ernie and Qwen](2024年08月28日/Comparing_diversity,_negativity,_and_stereotypes_in_Chinese-language_AI_technologies_a_case_study_on_Baidu,_Ernie_and_Qwen.md)
 
     - [翻译: 探究中文AI技术中的多样性、负面信息及刻板印象：百度、Ernie与Qwen的案例分析](2024年08月28日/Comparing_diversity,_negativity,_and_stereotypes_in_Chinese-language_AI_technologies_a_case_study_on_Baidu,_Ernie_and_Qwen.md)
@@ -30,14 +26,6 @@
 
     - [翻译: 借助预训练语言模型的内在知识，我们能够应对复杂的文本分类挑战。](2024年08月28日/Harnessing_the_Intrinsic_Knowledge_of_Pretrained_Language_Models_for_Challenging_Text_Classification_Settings.md)
 
-- [Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions](2024年08月28日/Interactive_Agents_Simulating_Counselor-Client_Psychological_Counseling_via_Role-Playing_LLM-to-LLM_Interactions.md)
-
-    - [翻译: 通过 LLM 间的角色扮演交互，模拟咨询师与客户的心理咨询过程，打造交互式智能代理。](2024年08月28日/Interactive_Agents_Simulating_Counselor-Client_Psychological_Counseling_via_Role-Playing_LLM-to-LLM_Interactions.md)
-
-- [Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input](2024年08月28日/Kangaroo_A_Powerful_Video-Language_Model_Supporting_Long-context_Video_Input.md)
-
-    - [翻译: Kangaroo 模型：专为长视频输入设计，融合视频与语言的强大工具](2024年08月28日/Kangaroo_A_Powerful_Video-Language_Model_Supporting_Long-context_Video_Input.md)
-
 - [LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments](2024年08月28日/LLM-Based_Multi-Hop_Question_Answering_with_Knowledge_Graph_Integration_in_Evolving_Environments.md)
 
     - [翻译: 在不断变化的环境中，结合知识图谱的LLM多跳问答技术](2024年08月28日/LLM-Based_Multi-Hop_Question_Answering_with_Knowledge_Graph_Integration_in_Evolving_Environments.md)
@@ -46,10 +34,6 @@
 
     - [翻译: LRP4RAG：利用层级相关性传播技术，精准检测检索增强生成模型中的幻觉现象。](2024年08月28日/LRP4RAG_Detecting_Hallucinations_in_Retrieval-Augmented_Generation_via_Layer-wise_Relevance_Propagation.md)
 
-- [More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding](2024年08月28日/More_Text,_Less_Point_Towards_3D_Data-Efficient_Point-Language_Understanding.md)
-
-    - [翻译: 文本繁多，点云稀少：探索 3D 数据高效的语言与点云理解](2024年08月28日/More_Text,_Less_Point_Towards_3D_Data-Efficient_Point-Language_Understanding.md)
-
 - [Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
 
     - [翻译: Nexus：将专业化与适应性融合，实现专家混合模型的高效训练](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
@@ -57,10 +41,6 @@
 - [Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
 
     - [翻译: 扩展摘要领域：借助大型语言模型提升长文本抽取式摘要的效率](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
-
-- [SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding](2024年08月28日/SciLitLLM_How_to_Adapt_LLMs_for_Scientific_Literature_Understanding.md)
-
-    - [翻译: SciLitLLM：探索大型语言模型在科学文献理解中的适应之道](2024年08月28日/SciLitLLM_How_to_Adapt_LLMs_for_Scientific_Literature_Understanding.md)
 
 - [SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models](2024年08月28日/SIaM_Self-Improving_Code-Assisted_Mathematical_Reasoning_of_Large_Language_Models.md)
 
