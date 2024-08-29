@@ -1,5 +1,187 @@
 # 2024年08月
 
+2024年08月28日
+
+- [An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation](2024年08月28日/An_Empirical_Study_on_Self-correcting_Large_Language_Models_for_Data_Science_Code_Generation.md)
+
+    - [翻译: 探究数据科学代码生成中大型语言模型的自修正能力](2024年08月28日/An_Empirical_Study_on_Self-correcting_Large_Language_Models_for_Data_Science_Code_Generation.md)
+
+- [A Survey on Evaluation of Multimodal Large Language Models](2024年08月28日/A_Survey_on_Evaluation_of_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 多模态大型语言模型评估综述](2024年08月28日/A_Survey_on_Evaluation_of_Multimodal_Large_Language_Models.md)
+
+- [Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games](2024年08月28日/Atari-GPT_Investigating_the_Capabilities_of_Multimodal_Large_Language_Models_as_Low-Level_Policies_for_Atari_Games.md)
+
+    - [翻译: Atari-GPT：探索多模态大型语言模型在 Atari 游戏中作为低级策略的潜力](2024年08月28日/Atari-GPT_Investigating_the_Capabilities_of_Multimodal_Large_Language_Models_as_Low-Level_Policies_for_Atari_Games.md)
+
+- [Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](2024年08月28日/Auxiliary-Loss-Free_Load_Balancing_Strategy_for_Mixture-of-Experts.md)
+
+    - [翻译: 无辅助损失的专家混合负载均衡策略](2024年08月28日/Auxiliary-Loss-Free_Load_Balancing_Strategy_for_Mixture-of-Experts.md)
+
+- [BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems](2024年08月28日/BattleAgentBench_A_Benchmark_for_Evaluating_Cooperation_and_Competition_Capabilities_of_Language_Models_in_Multi-Agent_Systems.md)
+
+    - [翻译: BattleAgentBench：评估多智能体系统中语言模型合作与竞争能力的基准](2024年08月28日/BattleAgentBench_A_Benchmark_for_Evaluating_Cooperation_and_Competition_Capabilities_of_Language_Models_in_Multi-Agent_Systems.md)
+
+- [Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models](2024年08月28日/Bias_in_LLMs_as_Annotators_The_Effect_of_Party_Cues_on_Labelling_Decision_by_Large_Language_Models.md)
+
+    - [翻译: LLM 作为标注者时，党派线索如何影响其标注决策，这一偏见值得关注。](2024年08月28日/Bias_in_LLMs_as_Annotators_The_Effect_of_Party_Cues_on_Labelling_Decision_by_Large_Language_Models.md)
+
+- [Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation](2024年08月28日/Boosting_Lossless_Speculative_Decoding_via_Feature_Sampling_and_Partial_Alignment_Distillation.md)
+
+    - [翻译: 利用特征采样与部分对齐蒸馏技术，提升无损推测解码的性能。](2024年08月28日/Boosting_Lossless_Speculative_Decoding_via_Feature_Sampling_and_Partial_Alignment_Distillation.md)
+
+- [CBF-LLM: Safe Control for LLM Alignment](2024年08月28日/CBF-LLM_Safe_Control_for_LLM_Alignment.md)
+
+    - [翻译: CBF-LLM：确保 LLM 对齐的安全控制方案](2024年08月28日/CBF-LLM_Safe_Control_for_LLM_Alignment.md)
+
+- [CodeSift: An LLM-Based Reference-Less Framework for Automatic Code Validation](2024年08月28日/CodeSift_An_LLM-Based_Reference-Less_Framework_for_Automatic_Code_Validation.md)
+
+    - [翻译: CodeSift：一款基于 LLM 的无参考自动代码验证框架](2024年08月28日/CodeSift_An_LLM-Based_Reference-Less_Framework_for_Automatic_Code_Validation.md)
+
+- [Comparing diversity, negativity, and stereotypes in Chinese-language AI technologies: a case study on Baidu, Ernie and Qwen](2024年08月28日/Comparing_diversity,_negativity,_and_stereotypes_in_Chinese-language_AI_technologies_a_case_study_on_Baidu,_Ernie_and_Qwen.md)
+
+    - [翻译: 探究中文AI技术中的多样性、负面信息及刻板印象：百度、Ernie与Qwen的案例分析](2024年08月28日/Comparing_diversity,_negativity,_and_stereotypes_in_Chinese-language_AI_technologies_a_case_study_on_Baidu,_Ernie_and_Qwen.md)
+
+- [Decentralized LLM Inference over Edge Networks with Energy Harvesting](2024年08月28日/Decentralized_LLM_Inference_over_Edge_Networks_with_Energy_Harvesting.md)
+
+    - [翻译: 边缘网络上的去中心化 LLM 推理结合能量采集技术](2024年08月28日/Decentralized_LLM_Inference_over_Edge_Networks_with_Energy_Harvesting.md)
+
+- [Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models](2024年08月28日/Divide,_Conquer_and_Combine_A_Training-Free_Framework_for_High-Resolution_Image_Perception_in_Multimodal_Large_Language_Models.md)
+
+    - [翻译: 分割、征服与结合：一种无需训练的框架，用于提升多模态大型语言模型中的高分辨率图像感知能力。](2024年08月28日/Divide,_Conquer_and_Combine_A_Training-Free_Framework_for_High-Resolution_Image_Perception_in_Multimodal_Large_Language_Models.md)
+
+- [Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders](2024年08月28日/Eagle_Exploring_The_Design_Space_for_Multimodal_LLMs_with_Mixture_of_Encoders.md)
+
+    - [翻译: Eagle 项目：探索多模态大型语言模型中编码器混合的设计空间](2024年08月28日/Eagle_Exploring_The_Design_Space_for_Multimodal_LLMs_with_Mixture_of_Encoders.md)
+
+- [Efficient LLM Scheduling by Learning to Rank](2024年08月28日/Efficient_LLM_Scheduling_by_Learning_to_Rank.md)
+
+    - [翻译: 学习排序以优化 LLM 调度效率](2024年08月28日/Efficient_LLM_Scheduling_by_Learning_to_Rank.md)
+
+- [Harmonized Speculative Sampling](2024年08月28日/Harmonized_Speculative_Sampling.md)
+
+    - [翻译: 和谐推测采样](2024年08月28日/Harmonized_Speculative_Sampling.md)
+
+- [Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings](2024年08月28日/Harnessing_the_Intrinsic_Knowledge_of_Pretrained_Language_Models_for_Challenging_Text_Classification_Settings.md)
+
+    - [翻译: 借助预训练语言模型的内在知识，我们能够应对复杂的文本分类挑战。](2024年08月28日/Harnessing_the_Intrinsic_Knowledge_of_Pretrained_Language_Models_for_Challenging_Text_Classification_Settings.md)
+
+- [Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions](2024年08月28日/Interactive_Agents_Simulating_Counselor-Client_Psychological_Counseling_via_Role-Playing_LLM-to-LLM_Interactions.md)
+
+    - [翻译: 通过 LLM 间的角色扮演交互，模拟咨询师与客户的心理咨询过程，打造交互式智能代理。](2024年08月28日/Interactive_Agents_Simulating_Counselor-Client_Psychological_Counseling_via_Role-Playing_LLM-to-LLM_Interactions.md)
+
+- [Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input](2024年08月28日/Kangaroo_A_Powerful_Video-Language_Model_Supporting_Long-context_Video_Input.md)
+
+    - [翻译: Kangaroo 模型：专为长视频输入设计，融合视频与语言的强大工具](2024年08月28日/Kangaroo_A_Powerful_Video-Language_Model_Supporting_Long-context_Video_Input.md)
+
+- [LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation](2024年08月28日/LLaVA-MoD_Making_LLaVA_Tiny_via_MoE_Knowledge_Distillation.md)
+
+    - [翻译: LLaVA-MoD：借助 MoE 知识蒸馏技术，让 LLaVA 更精简](2024年08月28日/LLaVA-MoD_Making_LLaVA_Tiny_via_MoE_Knowledge_Distillation.md)
+
+- [LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments](2024年08月28日/LLM-Based_Multi-Hop_Question_Answering_with_Knowledge_Graph_Integration_in_Evolving_Environments.md)
+
+    - [翻译: 在不断变化的环境中，结合知识图谱的LLM多跳问答技术](2024年08月28日/LLM-Based_Multi-Hop_Question_Answering_with_Knowledge_Graph_Integration_in_Evolving_Environments.md)
+
+- [LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models](2024年08月28日/LogicGame_Benchmarking_Rule-Based_Reasoning_Abilities_of_Large_Language_Models.md)
+
+    - [翻译: LogicGame：一项针对大型语言模型基于规则推理能力的评估基准](2024年08月28日/LogicGame_Benchmarking_Rule-Based_Reasoning_Abilities_of_Large_Language_Models.md)
+
+- [LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation](2024年08月28日/LRP4RAG_Detecting_Hallucinations_in_Retrieval-Augmented_Generation_via_Layer-wise_Relevance_Propagation.md)
+
+    - [翻译: LRP4RAG：利用层级相关性传播技术，精准检测检索增强生成模型中的幻觉现象。](2024年08月28日/LRP4RAG_Detecting_Hallucinations_in_Retrieval-Augmented_Generation_via_Layer-wise_Relevance_Propagation.md)
+
+- [More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding](2024年08月28日/More_Text,_Less_Point_Towards_3D_Data-Efficient_Point-Language_Understanding.md)
+
+    - [翻译: 文本繁多，点云稀少：探索 3D 数据高效的语言与点云理解](2024年08月28日/More_Text,_Less_Point_Towards_3D_Data-Efficient_Point-Language_Understanding.md)
+
+- [Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
+
+    - [翻译: Nexus：将专业化与适应性融合，实现专家混合模型的高效训练](2024年08月28日/Nexus_Specialization_meets_Adaptability_for_Efficiently_Training_Mixture_of_Experts.md)
+
+- [Persuasion Games using Large Language Models](2024年08月28日/Persuasion_Games_using_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型在说服游戏中的应用](2024年08月28日/Persuasion_Games_using_Large_Language_Models.md)
+
+- [Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection](2024年08月28日/Retrieval-Augmented_Instruction_Tuning_for_Automated_Process_Engineering_Calculations__A_Tool-Chaining_Problem-Solving_Framework_with_Attributable_Reflection.md)
+
+    - [翻译: 通过检索增强指令调优，我们构建了一个自动化过程工程计算的工具链问题解决框架，该框架融入了可归因的反思机制。](2024年08月28日/Retrieval-Augmented_Instruction_Tuning_for_Automated_Process_Engineering_Calculations__A_Tool-Chaining_Problem-Solving_Framework_with_Attributable_Reflection.md)
+
+- [Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
+
+    - [翻译: 扩展摘要领域：借助大型语言模型提升长文本抽取式摘要的效率](2024年08月28日/Scaling_Up_Summarization_Leveraging_Large_Language_Models_for_Long_Text_Extractive_Summarization.md)
+
+- [SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding](2024年08月28日/SciLitLLM_How_to_Adapt_LLMs_for_Scientific_Literature_Understanding.md)
+
+    - [翻译: SciLitLLM：探索大型语言模型在科学文献理解中的适应之道](2024年08月28日/SciLitLLM_How_to_Adapt_LLMs_for_Scientific_Literature_Understanding.md)
+
+- [SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models](2024年08月28日/SIaM_Self-Improving_Code-Assisted_Mathematical_Reasoning_of_Large_Language_Models.md)
+
+    - [翻译: SIaM：大型语言模型在代码辅助下自我提升的数学推理能力](2024年08月28日/SIaM_Self-Improving_Code-Assisted_Mathematical_Reasoning_of_Large_Language_Models.md)
+
+- [StyleRemix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements](2024年08月28日/StyleRemix_Interpretable_Authorship_Obfuscation_via_Distillation_and_Perturbation_of_Style_Elements.md)
+
+    - [翻译: StyleRemix：借助风格元素的提炼与微调，巧妙混淆作者身份，实现可解释性。](2024年08月28日/StyleRemix_Interpretable_Authorship_Obfuscation_via_Distillation_and_Perturbation_of_Style_Elements.md)
+
+- [Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models](2024年08月28日/Whisper-PMFA_Partial_Multi-Scale_Feature_Aggregation_for_Speaker_Verification_using_Whisper_Models.md)
+
+    - [翻译: Whisper-PMFA：利用 Whisper 模型进行演讲者验证的部分多尺度特征聚合技术](2024年08月28日/Whisper-PMFA_Partial_Multi-Scale_Feature_Aggregation_for_Speaker_Verification_using_Whisper_Models.md)
+
+- [WildFeedback: Aligning LLMs With In-situ User Interactions And Feedback](2024年08月28日/WildFeedback_Aligning_LLMs_With_In-situ_User_Interactions_And_Feedback.md)
+
+    - [翻译: WildFeedback：实现 LLMs 与实时用户互动及反馈的协同](2024年08月28日/WildFeedback_Aligning_LLMs_With_In-situ_User_Interactions_And_Feedback.md)
+
+- [μgat: Improving Single-Page Document Parsing by Providing Multi-Page Context](2024年08月28日/μgat_Improving_Single-Page_Document_Parsing_by_Providing_Multi-Page_Context.md)
+
+    - [翻译: μgat 技术通过融入多页上下文，显著提升了单页文档的解析质量。](2024年08月28日/μgat_Improving_Single-Page_Document_Parsing_by_Providing_Multi-Page_Context.md)
+
+2024年08月27日
+
+- [AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models](2024年08月27日/AeroVerse_UAV-Agent_Benchmark_Suite_for_Simulating,_Pre-training,_Finetuning,_and_Evaluating_Aerospace_Embodied_World_Models.md)
+
+    - [翻译: AeroVerse：一款专为模拟、预训练、微调及评估航空航天实体世界模型而设计的无人机-代理基准套件](2024年08月27日/AeroVerse_UAV-Agent_Benchmark_Suite_for_Simulating,_Pre-training,_Finetuning,_and_Evaluating_Aerospace_Embodied_World_Models.md)
+
+- [A Statistical Framework for Data-dependent Retrieval-Augmented Models](2024年08月27日/A_Statistical_Framework_for_Data-dependent_Retrieval-Augmented_Models.md)
+
+    - [翻译: 数据驱动型检索增强模型的统计框架](2024年08月27日/A_Statistical_Framework_for_Data-dependent_Retrieval-Augmented_Models.md)
+
+- [AUTOGENICS: Automated Generation of Context-Aware Inline Comments for Code Snippets on Programming Q&A Sites Using LLM](2024年08月27日/AUTOGENICS_Automated_Generation_of_Context-Aware_Inline_Comments_for_Code_Snippets_on_Programming_Q&A_Sites_Using_LLM.md)
+
+    - [翻译: AUTOGENICS：利用 LLM 技术，自动为编程问答网站的代码片段生成智能内联注释，提升上下文感知能力。](2024年08月27日/AUTOGENICS_Automated_Generation_of_Context-Aware_Inline_Comments_for_Code_Snippets_on_Programming_Q&A_Sites_Using_LLM.md)
+
+- [Awes, Laws, and Flaws From Today's LLM Research](2024年08月27日/Awes,_Laws,_and_Flaws_From_Today's_LLM_Research.md)
+
+    - [翻译: 今日LLM研究中的亮点、规律与缺陷](2024年08月27日/Awes,_Laws,_and_Flaws_From_Today's_LLM_Research.md)
+
+- [Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression](2024年08月27日/Enhancing_and_Accelerating_Large_Language_Models_via_Instruction-Aware_Contextual_Compression.md)
+
+    - [翻译: 借助指令感知上下文压缩技术，我们旨在提升和加速大型语言模型的性能。](2024年08月27日/Enhancing_and_Accelerating_Large_Language_Models_via_Instruction-Aware_Contextual_Compression.md)
+
+- [GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs](2024年08月27日/GIFT-SW_Gaussian_noise_Injected_Fine-Tuning_of_Salient_Weights_for_LLMs.md)
+
+    - [翻译: GIFT-SW：为 LLM 的显著权重注入高斯噪声进行微调](2024年08月27日/GIFT-SW_Gaussian_noise_Injected_Fine-Tuning_of_Salient_Weights_for_LLMs.md)
+
+- [Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations](2024年08月27日/Implicit_Geometry_of_Next-token_Prediction_From_Language_Sparsity_Patterns_to_Model_Representations.md)
+
+    - [翻译: 探索下一个标记预测的隐式几何：揭秘语言稀疏模式与模型表示之间的联系](2024年08月27日/Implicit_Geometry_of_Next-token_Prediction_From_Language_Sparsity_Patterns_to_Model_Representations.md)
+
+- [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](2024年08月27日/Legilimens_Practical_and_Unified_Content_Moderation_for_Large_Language_Model_Services.md)
+
+    - [翻译: Legilimens：为大型语言模型服务提供实用且统一的内容管理方案](2024年08月27日/Legilimens_Practical_and_Unified_Content_Moderation_for_Large_Language_Model_Services.md)
+
+- [Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
+
+    - [翻译: 评估因果探查方法的可靠性涉及权衡与局限，尤其是消除干预的难题。](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
+
+- [TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering](2024年08月27日/TourSynbio_A_Multi-Modal_Large_Model_and_Agent_Framework_to_Bridge_Text_and_Protein_Sequences_for_Protein_Engineering.md)
+
+    - [翻译: TourSynbio：一款多模态大型模型与代理框架，旨在搭建文本与蛋白质序列之间的桥梁，推动蛋白质工程的发展。](2024年08月27日/TourSynbio_A_Multi-Modal_Large_Model_and_Agent_Framework_to_Bridge_Text_and_Protein_Sequences_for_Protein_Engineering.md)
+
+2024年08月11日
+
+- [People over trust AI-generated medical responses and view them to be as valid as doctors, despite low accuracy](2024年08月11日/People_over_trust_AI-generated_medical_responses_and_view_them_to_be_as_valid_as_doctors,_despite_low_accuracy.md)
+
+    - [翻译: 尽管准确性不高，人们仍过度信赖 AI 生成的医疗建议，视其与医生意见同等重要。](2024年08月11日/People_over_trust_AI-generated_medical_responses_and_view_them_to_be_as_valid_as_doctors,_despite_low_accuracy.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
