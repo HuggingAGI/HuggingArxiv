@@ -6,21 +6,9 @@
 
     - [翻译: 探究数据科学代码生成中大型语言模型的自修正能力](2024年08月28日/An_Empirical_Study_on_Self-correcting_Large_Language_Models_for_Data_Science_Code_Generation.md)
 
-- [A Survey on Evaluation of Multimodal Large Language Models](2024年08月28日/A_Survey_on_Evaluation_of_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 多模态大型语言模型评估综述](2024年08月28日/A_Survey_on_Evaluation_of_Multimodal_Large_Language_Models.md)
-
-- [Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games](2024年08月28日/Atari-GPT_Investigating_the_Capabilities_of_Multimodal_Large_Language_Models_as_Low-Level_Policies_for_Atari_Games.md)
-
-    - [翻译: Atari-GPT：探索多模态大型语言模型在 Atari 游戏中作为低级策略的潜力](2024年08月28日/Atari-GPT_Investigating_the_Capabilities_of_Multimodal_Large_Language_Models_as_Low-Level_Policies_for_Atari_Games.md)
-
 - [Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](2024年08月28日/Auxiliary-Loss-Free_Load_Balancing_Strategy_for_Mixture-of-Experts.md)
 
     - [翻译: 无辅助损失的专家混合负载均衡策略](2024年08月28日/Auxiliary-Loss-Free_Load_Balancing_Strategy_for_Mixture-of-Experts.md)
-
-- [BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems](2024年08月28日/BattleAgentBench_A_Benchmark_for_Evaluating_Cooperation_and_Competition_Capabilities_of_Language_Models_in_Multi-Agent_Systems.md)
-
-    - [翻译: BattleAgentBench：评估多智能体系统中语言模型合作与竞争能力的基准](2024年08月28日/BattleAgentBench_A_Benchmark_for_Evaluating_Cooperation_and_Competition_Capabilities_of_Language_Models_in_Multi-Agent_Systems.md)
 
 - [Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models](2024年08月28日/Bias_in_LLMs_as_Annotators_The_Effect_of_Party_Cues_on_Labelling_Decision_by_Large_Language_Models.md)
 
@@ -133,24 +121,6 @@
 - [μgat: Improving Single-Page Document Parsing by Providing Multi-Page Context](2024年08月28日/μgat_Improving_Single-Page_Document_Parsing_by_Providing_Multi-Page_Context.md)
 
     - [翻译: μgat 技术通过融入多页上下文，显著提升了单页文档的解析质量。](2024年08月28日/μgat_Improving_Single-Page_Document_Parsing_by_Providing_Multi-Page_Context.md)
-
-2024年08月27日
-
-- [A Statistical Framework for Data-dependent Retrieval-Augmented Models](2024年08月27日/A_Statistical_Framework_for_Data-dependent_Retrieval-Augmented_Models.md)
-
-    - [翻译: 数据驱动型检索增强模型的统计框架](2024年08月27日/A_Statistical_Framework_for_Data-dependent_Retrieval-Augmented_Models.md)
-
-- [Awes, Laws, and Flaws From Today's LLM Research](2024年08月27日/Awes,_Laws,_and_Flaws_From_Today's_LLM_Research.md)
-
-    - [翻译: 今日LLM研究中的亮点、规律与缺陷](2024年08月27日/Awes,_Laws,_and_Flaws_From_Today's_LLM_Research.md)
-
-- [GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs](2024年08月27日/GIFT-SW_Gaussian_noise_Injected_Fine-Tuning_of_Salient_Weights_for_LLMs.md)
-
-    - [翻译: GIFT-SW：为 LLM 的显著权重注入高斯噪声进行微调](2024年08月27日/GIFT-SW_Gaussian_noise_Injected_Fine-Tuning_of_Salient_Weights_for_LLMs.md)
-
-- [Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
-
-    - [翻译: 评估因果探查方法的可靠性涉及权衡与局限，尤其是消除干预的难题。](2024年08月27日/Measuring_the_Reliability_of_Causal_Probing_Methods_Tradeoffs,_Limitations,_and_the_Plight_of_Nullifying_Interventions.md)
 
 2024年08月05日
 
