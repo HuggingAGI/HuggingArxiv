@@ -22,10 +22,6 @@
 
     - [翻译: 利用迁移学习在异常检测中监控强子量热计的数据质量](2024年08月29日/Data_Quality_Monitoring_through_Transfer_Learning_on_Anomaly_Detection_for_the_Hadron_Calorimeters.md)
 
-- [Enhancing AI-Driven Psychological Consultation: Layered Prompts with Large Language Models](2024年08月29日/Enhancing_AI-Driven_Psychological_Consultation_Layered_Prompts_with_Large_Language_Models.md)
-
-    - [翻译: 提升 AI 心理咨询：借助大型语言模型实现分层提示](2024年08月29日/Enhancing_AI-Driven_Psychological_Consultation_Layered_Prompts_with_Large_Language_Models.md)
-
 - [Enhancing Dialogue Generation in Werewolf Game Through Situation Analysis and Persuasion Strategies](2024年08月29日/Enhancing_Dialogue_Generation_in_Werewolf_Game_Through_Situation_Analysis_and_Persuasion_Strategies.md)
 
     - [翻译: 在狼人游戏中，通过深入的情境分析和巧妙的说服策略，对话生成得以显著提升。](2024年08月29日/Enhancing_Dialogue_Generation_in_Werewolf_Game_Through_Situation_Analysis_and_Persuasion_Strategies.md)
@@ -57,10 +53,6 @@
 - [LLMs vs Established Text Augmentation Techniques for Classification: When do the Benefits Outweight the Costs?](2024年08月29日/LLMs_vs_Established_Text_Augmentation_Techniques_for_Classification_When_do_the_Benefits_Outweight_the_Costs.md)
 
     - [翻译: 在分类任务中，大型语言模型与传统文本增强技术相比，何时能带来更多收益而非成本？](2024年08月29日/LLMs_vs_Established_Text_Augmentation_Techniques_for_Classification_When_do_the_Benefits_Outweight_the_Costs.md)
-
-- [LoraMap: Harnessing the Power of LoRA Connections](2024年08月29日/LoraMap_Harnessing_the_Power_of_LoRA_Connections.md)
-
-    - [翻译: LoraMap：发掘 LoRA 连接的潜能](2024年08月29日/LoraMap_Harnessing_the_Power_of_LoRA_Connections.md)
 
 - [Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection](2024年08月29日/Outside_the_Comfort_Zone_Analysing_LLM_Capabilities_in_Software_Vulnerability_Detection.md)
 
@@ -105,24 +97,6 @@
 - [VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation](2024年08月29日/VideoLLM-MoD_Efficient_Video-Language_Streaming_with_Mixture-of-Depths_Vision_Computation.md)
 
     - [翻译: VideoLLM-MoD：利用深度混合视觉计算技术，实现视频语言流的高效处理](2024年08月29日/VideoLLM-MoD_Efficient_Video-Language_Streaming_with_Mixture-of-Depths_Vision_Computation.md)
-
-2024年08月28日
-
-- [LLM-assisted Labeling Function Generation for Semantic Type Detection](2024年08月28日/LLM-assisted_Labeling_Function_Generation_for_Semantic_Type_Detection.md)
-
-    - [翻译: 借助 LLM 生成标签函数，助力语义类型检测](2024年08月28日/LLM-assisted_Labeling_Function_Generation_for_Semantic_Type_Detection.md)
-
-- [SSDM: Scalable Speech Dysfluency Modeling](2024年08月28日/SSDM_Scalable_Speech_Dysfluency_Modeling.md)
-
-    - [翻译: SSDM：可扩展的言语流畅性建模技术](2024年08月28日/SSDM_Scalable_Speech_Dysfluency_Modeling.md)
-
-- [Training-free Video Temporal Grounding using Large-scale Pre-trained Models](2024年08月28日/Training-free_Video_Temporal_Grounding_using_Large-scale_Pre-trained_Models.md)
-
-    - [翻译: 利用大规模预训练模型实现无需训练的视频时间定位](2024年08月28日/Training-free_Video_Temporal_Grounding_using_Large-scale_Pre-trained_Models.md)
-
-- [VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images](2024年08月28日/VLM4Bio_A_Benchmark_Dataset_to_Evaluate_Pretrained_Vision-Language_Models_for_Trait_Discovery_from_Biological_Images.md)
-
-    - [翻译: VLM4Bio 是一个基准数据集，旨在评估预训练视觉-语言模型在生物图像特征发现中的效能。](2024年08月28日/VLM4Bio_A_Benchmark_Dataset_to_Evaluate_Pretrained_Vision-Language_Models_for_Trait_Discovery_from_Biological_Images.md)
 
 2024年08月05日
 
