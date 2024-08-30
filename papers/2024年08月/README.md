@@ -112,21 +112,9 @@
 
     - [翻译: 一款数据高效且生成能力强的基于LLM的强化学习推荐代理](2024年08月28日/An_Extremely_Data-efficient_and_Generative_LLM-based_Reinforcement_Learning_Agent_for_Recommenders.md)
 
-- [Automatic Library Migration Using Large Language Models: First Results](2024年08月28日/Automatic_Library_Migration_Using_Large_Language_Models_First_Results.md)
-
-    - [翻译: 大型语言模型助力自动库迁移：初探成果](2024年08月28日/Automatic_Library_Migration_Using_Large_Language_Models_First_Results.md)
-
-- [Benchmarking Japanese Speech Recognition on ASR-LLM Setups with Multi-Pass Augmented Generative Error Correction](2024年08月28日/Benchmarking_Japanese_Speech_Recognition_on_ASR-LLM_Setups_with_Multi-Pass_Augmented_Generative_Error_Correction.md)
-
-    - [翻译: 通过多遍增强生成错误校正技术，对 ASR-LLM 设置下的日本语音识别性能进行基准测试。](2024年08月28日/Benchmarking_Japanese_Speech_Recognition_on_ASR-LLM_Setups_with_Multi-Pass_Augmented_Generative_Error_Correction.md)
-
 - [EMP: Enhance Memory in Data Pruning](2024年08月28日/EMP_Enhance_Memory_in_Data_Pruning.md)
 
     - [翻译: EMP：提升数据修剪中的记忆能力](2024年08月28日/EMP_Enhance_Memory_in_Data_Pruning.md)
-
-- [FRACTURED-SORRY-Bench: Framework for Revealing Attacks in Conversational Turns Undermining Refusal Efficacy and Defenses over SORRY-Bench](2024年08月28日/FRACTURED-SORRY-Bench_Framework_for_Revealing_Attacks_in_Conversational_Turns_Undermining_Refusal_Efficacy_and_Defenses_over_SORRY-Bench.md)
-
-    - [翻译: FRACTURED-SORRY-Bench：基于SORRY-Bench，揭示对话中削弱拒绝效力和防御的攻击框架。](2024年08月28日/FRACTURED-SORRY-Bench_Framework_for_Revealing_Attacks_in_Conversational_Turns_Undermining_Refusal_Efficacy_and_Defenses_over_SORRY-Bench.md)
 
 - [LLM-assisted Labeling Function Generation for Semantic Type Detection](2024年08月28日/LLM-assisted_Labeling_Function_Generation_for_Semantic_Type_Detection.md)
 
@@ -159,24 +147,6 @@
 - [VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images](2024年08月28日/VLM4Bio_A_Benchmark_Dataset_to_Evaluate_Pretrained_Vision-Language_Models_for_Trait_Discovery_from_Biological_Images.md)
 
     - [翻译: VLM4Bio 是一个基准数据集，旨在评估预训练视觉-语言模型在生物图像特征发现中的效能。](2024年08月28日/VLM4Bio_A_Benchmark_Dataset_to_Evaluate_Pretrained_Vision-Language_Models_for_Trait_Discovery_from_Biological_Images.md)
-
-2024年08月27日
-
-- [ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data](2024年08月27日/ANVIL_Anomaly-based_Vulnerability_Identification_without_Labelled_Training_Data.md)
-
-    - [翻译: ANVIL：一种无需标记训练数据的基于异常漏洞识别方法](2024年08月27日/ANVIL_Anomaly-based_Vulnerability_Identification_without_Labelled_Training_Data.md)
-
-2024年08月26日
-
-- [XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model](2024年08月26日/XG-NID_Dual-Modality_Network_Intrusion_Detection_using_a_Heterogeneous_Graph_Neural_Network_and_Large_Language_Model.md)
-
-    - [翻译: XG-NID：结合异构图神经网络与大型语言模型，实现双模态网络入侵检测](2024年08月26日/XG-NID_Dual-Modality_Network_Intrusion_Detection_using_a_Heterogeneous_Graph_Neural_Network_and_Large_Language_Model.md)
-
-2024年08月25日
-
-- [SPICED: Syntactical Bug and Trojan Pattern Identification in A/MS Circuits using LLM-Enhanced Detection](2024年08月25日/SPICED_Syntactical_Bug_and_Trojan_Pattern_Identification_in_AMS_Circuits_using_LLM-Enhanced_Detection.md)
-
-    - [翻译: SPICED：借助 LLM 增强检测技术，在 A/MS 电路中精准识别语法错误与特洛伊木马模式。](2024年08月25日/SPICED_Syntactical_Bug_and_Trojan_Pattern_Identification_in_AMS_Circuits_using_LLM-Enhanced_Detection.md)
 
 2024年08月05日
 
