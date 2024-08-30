@@ -64,10 +64,6 @@
 
     - [翻译: 通过强化学习训练的语言代理，能够在狼人杀这一策略游戏中发挥出色的作用。](2024年02月19日/Language_Agents_with_Reinforcement_Learning_for_Strategic_Play_in_the_Werewolf_Game.md)
 
-- [LLM Agents for Psychology: A Study on Gamified Assessments](2024年02月19日/LLM_Agents_for_Psychology_A_Study_on_Gamified_Assessments.md)
-
-    - [翻译: 探究心理领域中的 LLM 代理：游戏化评估的深入研究](2024年02月19日/LLM_Agents_for_Psychology_A_Study_on_Gamified_Assessments.md)
-
 - [Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
 
     - [翻译: 元排名机制表明，即便是能力相对较弱的语言模型，在进行单一响应判断时也表现出了足够的能力。](2024年02月19日/Meta_Ranking_Less_Capable_Language_Models_are_Capable_for_Single_Response_Judgement.md)
