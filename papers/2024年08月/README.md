@@ -178,12 +178,6 @@
 
     - [翻译: SPICED：借助 LLM 增强检测技术，在 A/MS 电路中精准识别语法错误与特洛伊木马模式。](2024年08月25日/SPICED_Syntactical_Bug_and_Trojan_Pattern_Identification_in_AMS_Circuits_using_LLM-Enhanced_Detection.md)
 
-2024年08月16日
-
-- [Using large language models to estimate features of multi-word expressions: Concreteness, valence, arousal](2024年08月16日/Using_large_language_models_to_estimate_features_of_multi-word_expressions_Concreteness,_valence,_arousal.md)
-
-    - [翻译: 借助大型语言模型，我们能够估测多词表达的具体性、情感倾向及唤醒程度。](2024年08月16日/Using_large_language_models_to_estimate_features_of_multi-word_expressions_Concreteness,_valence,_arousal.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
