@@ -6,17 +6,9 @@
 
     - [翻译: 大型语言模型在在线极端主义研究中的评估：聚焦识别、解释与新知识的挖掘](2024年08月29日/Assessing_Large_Language_Models_for_Online_Extremism_Research_Identification,_Explanation,_and_New_Knowledge.md)
 
-- [A Survey on Evaluating Large Language Models in Code Generation Tasks](2024年08月29日/A_Survey_on_Evaluating_Large_Language_Models_in_Code_Generation_Tasks.md)
-
-    - [翻译: 探究大型语言模型在代码生成任务中的评估现状](2024年08月29日/A_Survey_on_Evaluating_Large_Language_Models_in_Code_Generation_Tasks.md)
-
 - [CNIMA: A Universal Evaluation Framework and Automated Approach for Assessing Second Language Dialogues](2024年08月29日/CNIMA_A_Universal_Evaluation_Framework_and_Automated_Approach_for_Assessing_Second_Language_Dialogues.md)
 
     - [翻译: CNIMA：一个通用的第二语言对话评估框架，结合自动化评估手段。](2024年08月29日/CNIMA_A_Universal_Evaluation_Framework_and_Automated_Approach_for_Assessing_Second_Language_Dialogues.md)
-
-- [Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic](2024年08月29日/Critic-CoT_Boosting_the_reasoning_abilities_of_large_language_model_via_Chain-of-thoughts_Critic.md)
-
-    - [翻译: Critic-CoT：借助思维链批评机制，大幅提升大型语言模型的推理能力。](2024年08月29日/Critic-CoT_Boosting_the_reasoning_abilities_of_large_language_model_via_Chain-of-thoughts_Critic.md)
 
 - [Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters](2024年08月29日/Data_Quality_Monitoring_through_Transfer_Learning_on_Anomaly_Detection_for_the_Hadron_Calorimeters.md)
 
@@ -38,10 +30,6 @@
 
     - [翻译: 大型语言模型在粤语处理方面能达到何种高度？我们通过基准测试来探索其潜力。](2024年08月29日/How_Far_Can_Cantonese_NLP_Go_Benchmarking_Cantonese_Capabilities_of_Large_Language_Models.md)
 
-- [Human and LLM-Based Voice Assistant Interaction: An Analytical Framework for User Verbal and Nonverbal Behaviors](2024年08月29日/Human_and_LLM-Based_Voice_Assistant_Interaction_An_Analytical_Framework_for_User_Verbal_and_Nonverbal_Behaviors.md)
-
-    - [翻译: 人与 LLM 语音助手的互动：探索用户言语与非言语行为的分析框架](2024年08月29日/Human_and_LLM-Based_Voice_Assistant_Interaction_An_Analytical_Framework_for_User_Verbal_and_Nonverbal_Behaviors.md)
-
 - [Instruction-tuned Large Language Models for Machine Translation in the Medical Domain](2024年08月29日/Instruction-tuned_Large_Language_Models_for_Machine_Translation_in_the_Medical_Domain.md)
 
     - [翻译: 医学领域机器翻译中的指令调整大型语言模型](2024年08月29日/Instruction-tuned_Large_Language_Models_for_Machine_Translation_in_the_Medical_Domain.md)
@@ -49,10 +37,6 @@
 - [Law of Vision Representation in MLLMs](2024年08月29日/Law_of_Vision_Representation_in_MLLMs.md)
 
     - [翻译: 多模态大型语言模型中视觉表示的法则](2024年08月29日/Law_of_Vision_Representation_in_MLLMs.md)
-
-- [LLMs vs Established Text Augmentation Techniques for Classification: When do the Benefits Outweight the Costs?](2024年08月29日/LLMs_vs_Established_Text_Augmentation_Techniques_for_Classification_When_do_the_Benefits_Outweight_the_Costs.md)
-
-    - [翻译: 在分类任务中，大型语言模型与传统文本增强技术相比，何时能带来更多收益而非成本？](2024年08月29日/LLMs_vs_Established_Text_Augmentation_Techniques_for_Classification_When_do_the_Benefits_Outweight_the_Costs.md)
 
 - [Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection](2024年08月29日/Outside_the_Comfort_Zone_Analysing_LLM_Capabilities_in_Software_Vulnerability_Detection.md)
 
@@ -70,10 +54,6 @@
 
     - [翻译: 大型语言模型最后一英里微调的强化学习，无需人类反馈](2024年08月29日/Reinforcement_Learning_without_Human_Feedback_for_Last_Mile_Fine-Tuning_of_Large_Language_Models.md)
 
-- [Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models](2024年08月29日/Rethinking_Sparse_Lexical_Representations_for_Image_Retrieval_in_the_Age_of_Rising_Multi-Modal_Large_Language_Models.md)
-
-    - [翻译: 随着多模态大型语言模型的兴起，我们需重新审视图像检索中的稀疏词汇表示。](2024年08月29日/Rethinking_Sparse_Lexical_Representations_for_Image_Retrieval_in_the_Age_of_Rising_Multi-Modal_Large_Language_Models.md)
-
 - [Self-Alignment: Improving Alignment of Cultural Values in LLMs via In-Context Learning](2024年08月29日/Self-Alignment_Improving_Alignment_of_Cultural_Values_in_LLMs_via_In-Context_Learning.md)
 
     - [翻译: 自我对齐：借助上下文学习，优化 LLM 中文化价值观的契合度](2024年08月29日/Self-Alignment_Improving_Alignment_of_Cultural_Values_in_LLMs_via_In-Context_Learning.md)
@@ -85,14 +65,6 @@
 - [Theoretical and Methodological Framework for Studying Texts Produced by Large Language Models](2024年08月29日/Theoretical_and_Methodological_Framework_for_Studying_Texts_Produced_by_Large_Language_Models.md)
 
     - [翻译: 探索大型语言模型文本生成的理论与方法论框架](2024年08月29日/Theoretical_and_Methodological_Framework_for_Studying_Texts_Produced_by_Large_Language_Models.md)
-
-- [The Unreasonable Ineffectiveness of Nucleus Sampling on Mitigating Text Memorization](2024年08月29日/The_Unreasonable_Ineffectiveness_of_Nucleus_Sampling_on_Mitigating_Text_Memorization.md)
-
-    - [翻译: 核采样在缓解文本记忆问题上显得不尽如人意。](2024年08月29日/The_Unreasonable_Ineffectiveness_of_Nucleus_Sampling_on_Mitigating_Text_Memorization.md)
-
-- [Understanding Privacy Norms through Web Forms](2024年08月29日/Understanding_Privacy_Norms_through_Web_Forms.md)
-
-    - [翻译: 探究网页表单中的隐私规范](2024年08月29日/Understanding_Privacy_Norms_through_Web_Forms.md)
 
 - [VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation](2024年08月29日/VideoLLM-MoD_Efficient_Video-Language_Streaming_with_Mixture-of-Depths_Vision_Computation.md)
 
