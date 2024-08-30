@@ -1,27 +1,5 @@
 # 2024年08月
 
-2024年08月29日
-
-- [Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters](2024年08月29日/Data_Quality_Monitoring_through_Transfer_Learning_on_Anomaly_Detection_for_the_Hadron_Calorimeters.md)
-
-    - [翻译: 利用迁移学习在异常检测中监控强子量热计的数据质量](2024年08月29日/Data_Quality_Monitoring_through_Transfer_Learning_on_Anomaly_Detection_for_the_Hadron_Calorimeters.md)
-
-- [How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models](2024年08月29日/How_Far_Can_Cantonese_NLP_Go_Benchmarking_Cantonese_Capabilities_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型在粤语处理方面能达到何种高度？我们通过基准测试来探索其潜力。](2024年08月29日/How_Far_Can_Cantonese_NLP_Go_Benchmarking_Cantonese_Capabilities_of_Large_Language_Models.md)
-
-- [Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection](2024年08月29日/Outside_the_Comfort_Zone_Analysing_LLM_Capabilities_in_Software_Vulnerability_Detection.md)
-
-    - [翻译: 探索舒适区外：剖析 LLM 在软件漏洞检测领域的潜能](2024年08月29日/Outside_the_Comfort_Zone_Analysing_LLM_Capabilities_in_Software_Vulnerability_Detection.md)
-
-- [PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents](2024年08月29日/PsychoGAT_A_Novel_Psychological_Measurement_Paradigm_through_Interactive_Fiction_Games_with_LLM_Agents.md)
-
-    - [翻译: 探究心理领域中的 LLM 代理：游戏化评估的深入研究](2024年08月29日/PsychoGAT_A_Novel_Psychological_Measurement_Paradigm_through_Interactive_Fiction_Games_with_LLM_Agents.md)
-
-- [Self-Alignment: Improving Alignment of Cultural Values in LLMs via In-Context Learning](2024年08月29日/Self-Alignment_Improving_Alignment_of_Cultural_Values_in_LLMs_via_In-Context_Learning.md)
-
-    - [翻译: 自我对齐：借助上下文学习，优化 LLM 中文化价值观的契合度](2024年08月29日/Self-Alignment_Improving_Alignment_of_Cultural_Values_in_LLMs_via_In-Context_Learning.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
