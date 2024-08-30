@@ -108,41 +108,17 @@
 
 2024年08月28日
 
-- [An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders](2024年08月28日/An_Extremely_Data-efficient_and_Generative_LLM-based_Reinforcement_Learning_Agent_for_Recommenders.md)
-
-    - [翻译: 一款数据高效且生成能力强的基于LLM的强化学习推荐代理](2024年08月28日/An_Extremely_Data-efficient_and_Generative_LLM-based_Reinforcement_Learning_Agent_for_Recommenders.md)
-
-- [EMP: Enhance Memory in Data Pruning](2024年08月28日/EMP_Enhance_Memory_in_Data_Pruning.md)
-
-    - [翻译: EMP：提升数据修剪中的记忆能力](2024年08月28日/EMP_Enhance_Memory_in_Data_Pruning.md)
-
 - [LLM-assisted Labeling Function Generation for Semantic Type Detection](2024年08月28日/LLM-assisted_Labeling_Function_Generation_for_Semantic_Type_Detection.md)
 
     - [翻译: 借助 LLM 生成标签函数，助力语义类型检测](2024年08月28日/LLM-assisted_Labeling_Function_Generation_for_Semantic_Type_Detection.md)
-
-- [LLMSecCode: Evaluating Large Language Models for Secure Coding](2024年08月28日/LLMSecCode_Evaluating_Large_Language_Models_for_Secure_Coding.md)
-
-    - [翻译: LLMSecCode：探究大型语言模型在安全编码领域的评估](2024年08月28日/LLMSecCode_Evaluating_Large_Language_Models_for_Secure_Coding.md)
-
-- [Logic-Enhanced Language Model Agents for Trustworthy Social Simulations](2024年08月28日/Logic-Enhanced_Language_Model_Agents_for_Trustworthy_Social_Simulations.md)
-
-    - [翻译: 逻辑增强型语言模型代理，助力可信社会模拟](2024年08月28日/Logic-Enhanced_Language_Model_Agents_for_Trustworthy_Social_Simulations.md)
 
 - [SSDM: Scalable Speech Dysfluency Modeling](2024年08月28日/SSDM_Scalable_Speech_Dysfluency_Modeling.md)
 
     - [翻译: SSDM：可扩展的言语流畅性建模技术](2024年08月28日/SSDM_Scalable_Speech_Dysfluency_Modeling.md)
 
-- [Structured Event Reasoning with Large Language Models](2024年08月28日/Structured_Event_Reasoning_with_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的结构化事件推理](2024年08月28日/Structured_Event_Reasoning_with_Large_Language_Models.md)
-
 - [Training-free Video Temporal Grounding using Large-scale Pre-trained Models](2024年08月28日/Training-free_Video_Temporal_Grounding_using_Large-scale_Pre-trained_Models.md)
 
     - [翻译: 利用大规模预训练模型实现无需训练的视频时间定位](2024年08月28日/Training-free_Video_Temporal_Grounding_using_Large-scale_Pre-trained_Models.md)
-
-- [Using Large Language Models to Create AI Personas for Replication and Prediction of Media Effects: An Empirical Test of 133 Published Experimental Research Findings](2024年08月28日/Using_Large_Language_Models_to_Create_AI_Personas_for_Replication_and_Prediction_of_Media_Effects_An_Empirical_Test_of_133_Published_Experimental_Research_Findings.md)
-
-    - [翻译: 借助大型语言模型，我们打造AI角色，旨在复制并预测媒体效应，并对133项实验研究成果进行实证检验。](2024年08月28日/Using_Large_Language_Models_to_Create_AI_Personas_for_Replication_and_Prediction_of_Media_Effects_An_Empirical_Test_of_133_Published_Experimental_Research_Findings.md)
 
 - [VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images](2024年08月28日/VLM4Bio_A_Benchmark_Dataset_to_Evaluate_Pretrained_Vision-Language_Models_for_Trait_Discovery_from_Biological_Images.md)
 
