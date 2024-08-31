@@ -12,6 +12,9 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
 <hr />
 
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15801/ROPE_EYEGLAXS_4.drawio.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15801/error_1.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15801/small_dataset.png)
 
 <hr />
 
