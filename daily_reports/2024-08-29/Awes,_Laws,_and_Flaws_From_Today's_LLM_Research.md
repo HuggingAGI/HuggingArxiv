@@ -12,6 +12,13 @@
 ![](https://raw.githubusercontent.com/HuggingAGI/wx_assets/main/2024/07/31/1722434818326-94339e92-22f1-4472-9d27-fed232f70b5d.jpeg)
 <hr />
 
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15409/sota_general.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15409/over_time_general.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15409/kolmogorov_smirnov_ethics.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15409/yearly_percentage_ethics_over_citations.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15409/sota_argumentation.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15409/sota_structural.png)
+![](https://raw.githubusercontent.com/HuggingAGI/HuggingArxiv/main/paper_images/2408.15409/sota_research_quality.png)
 
 <hr />
 
