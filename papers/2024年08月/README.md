@@ -104,37 +104,13 @@
 
     - [翻译: CogVLM2：专为图像与视频理解设计的视觉语言模型](2024年08月29日/CogVLM2_Visual_Language_Models_for_Image_and_Video_Understanding.md)
 
-- [Exploring Multiple Strategies to Improve Multilingual Coreference Resolution in CorefUD](2024年08月29日/Exploring_Multiple_Strategies_to_Improve_Multilingual_Coreference_Resolution_in_CorefUD.md)
-
-    - [翻译: 本研究旨在通过多种策略提升 CorefUD 中多语言指代消解的性能。](2024年08月29日/Exploring_Multiple_Strategies_to_Improve_Multilingual_Coreference_Resolution_in_CorefUD.md)
-
-- [LLaVA-Chef: A Multi-modal Generative Model for Food Recipes](2024年08月29日/LLaVA-Chef_A_Multi-modal_Generative_Model_for_Food_Recipes.md)
-
-    - [翻译: LLaVA-Chef：一款专为美食食谱设计的多模态生成模型](2024年08月29日/LLaVA-Chef_A_Multi-modal_Generative_Model_for_Food_Recipes.md)
-
-- [Plausible-Parrots @ MSP2023: Enhancing Semantic Plausibility Modeling using Entity and Event Knowledge](2024年08月29日/Plausible-Parrots_@_MSP2023_Enhancing_Semantic_Plausibility_Modeling_using_Entity_and_Event_Knowledge.md)
-
-    - [翻译: 在 MSP2023 大会上，Plausible-Parrots 项目通过融合实体与事件知识，提升了语义合理性模型的性能。](2024年08月29日/Plausible-Parrots_@_MSP2023_Enhancing_Semantic_Plausibility_Modeling_using_Entity_and_Event_Knowledge.md)
-
 - [See or Guess: Counterfactually Regularized Image Captioning](2024年08月29日/See_or_Guess_Counterfactually_Regularized_Image_Captioning.md)
 
     - [翻译: 观图猜语：反事实正则化图像描述技术](2024年08月29日/See_or_Guess_Counterfactually_Regularized_Image_Captioning.md)
 
-- [Tool-Assisted Agent on SQL Inspection and Refinement in Real-World Scenarios](2024年08月29日/Tool-Assisted_Agent_on_SQL_Inspection_and_Refinement_in_Real-World_Scenarios.md)
-
-    - [翻译: 工具辅助代理在现实场景中的SQL检查与优化](2024年08月29日/Tool-Assisted_Agent_on_SQL_Inspection_and_Refinement_in_Real-World_Scenarios.md)
-
-- [Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer](2024年08月29日/Training_Ultra_Long_Context_Language_Model_with_Fully_Pipelined_Distributed_Transformer.md)
-
-    - [翻译: 采用全流水线分布式Transformer技术，我们成功训练了超长上下文语言模型。](2024年08月29日/Training_Ultra_Long_Context_Language_Model_with_Fully_Pipelined_Distributed_Transformer.md)
-
 - [UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches](2024年08月29日/UserSumBench_A_Benchmark_Framework_for_Evaluating_User_Summarization_Approaches.md)
 
     - [翻译: UserSumBench：评估用户摘要技术的基准框架](2024年08月29日/UserSumBench_A_Benchmark_Framework_for_Evaluating_User_Summarization_Approaches.md)
-
-- [VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition](2024年08月29日/VLM-KD_Knowledge_Distillation_from_VLM_for_Long-Tail_Visual_Recognition.md)
-
-    - [翻译: VLM-KD：利用 VLM 进行知识蒸馏，助力长尾视觉识别](2024年08月29日/VLM-KD_Knowledge_Distillation_from_VLM_for_Long-Tail_Visual_Recognition.md)
 
 2024年08月05日
 
