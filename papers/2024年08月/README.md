@@ -18,10 +18,6 @@
 
     - [翻译: 编解码器不容小觑：揭秘音频语言模型中编解码器的语义短板](2024年08月30日/Codec_Does_Matter_Exploring_the_Semantic_Shortcoming_of_Codec_for_Audio_Language_Model.md)
 
-- [ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images](2024年08月30日/ConDense_Consistent_2D3D_Pre-training_for_Dense_and_Sparse_Features_from_Multi-View_Images.md)
-
-    - [翻译: ConDense：通过多视图图像，为密集与稀疏特征提供一致的2D/3D预训练方案。](2024年08月30日/ConDense_Consistent_2D3D_Pre-training_for_Dense_and_Sparse_Features_from_Multi-View_Images.md)
-
 - [Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
 
     - [翻译: 动态自一致性：借助推理路径提升 LLM 采样效率](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
@@ -34,29 +30,13 @@
 
     - [翻译: 遗忘以繁荣：借助预训练语言模型中的机器遗忘技术，守护隐私安全。](2024年08月30日/Forget_to_Flourish_Leveraging_Machine-Unlearning_on_Pretrained_Language_Models_for_Privacy_Leakage.md)
 
-- [From Text to Emotion: Unveiling the Emotion Annotation Capabilities of LLMs](2024年08月30日/From_Text_to_Emotion_Unveiling_the_Emotion_Annotation_Capabilities_of_LLMs.md)
-
-    - [翻译: 揭秘 LLMs 如何从文本中捕捉情感：探索其情感标注的奥秘](2024年08月30日/From_Text_to_Emotion_Unveiling_the_Emotion_Annotation_Capabilities_of_LLMs.md)
-
 - [Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
 
     - [翻译: 探索特征启发：应用商店与大型语言模型之比较](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
 
-- [Improving Extraction of Clinical Event Contextual Properties from Electronic Health Records: A Comparative Study](2024年08月30日/Improving_Extraction_of_Clinical_Event_Contextual_Properties_from_Electronic_Health_Records_A_Comparative_Study.md)
-
-    - [翻译: 本研究旨在比较不同方法，以提升从电子健康记录中提取临床事件上下文属性的效率。](2024年08月30日/Improving_Extraction_of_Clinical_Event_Contextual_Properties_from_Electronic_Health_Records_A_Comparative_Study.md)
-
-- [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](2024年08月30日/Joint_Estimation_and_Prediction_of_City-wide_Delivery_Demand_A_Large_Language_Model_Empowered_Graph-based_Learning_Approach.md)
-
-    - [翻译: 本研究提出了一种基于大型语言模型的图学习方法，用于联合估计和预测城市范围内的配送需求。](2024年08月30日/Joint_Estimation_and_Prediction_of_City-wide_Delivery_Demand_A_Large_Language_Model_Empowered_Graph-based_Learning_Approach.md)
-
 - [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
 
     - [翻译: 通过“看、比较、决定”这一流程，我们采用多视角多路径推理方法，有效减轻大型视觉-语言模型中的幻觉问题。](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
-
-- [MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models](2024年08月30日/MaFeRw_Query_Rewriting_with_Multi-Aspect_Feedbacks_for_Retrieval-Augmented_Large_Language_Models.md)
-
-    - [翻译: MaFeRw：通过多方面反馈优化查询，提升检索增强型大型语言模型的性能](2024年08月30日/MaFeRw_Query_Rewriting_with_Multi-Aspect_Feedbacks_for_Retrieval-Augmented_Large_Language_Models.md)
 
 - [NDP: Next Distribution Prediction as a More Broad Target](2024年08月30日/NDP_Next_Distribution_Prediction_as_a_More_Broad_Target.md)
 
@@ -73,10 +53,6 @@
 - [Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
 
     - [翻译: 通过检索增强的自然语言推理，实现视觉问答的可解释性](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
-
-- [RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance](2024年08月30日/RISSOLE_Parameter-efficient_Diffusion_Models_via_Block-wise_Generation_and_Retrieval-Guidance.md)
-
-    - [翻译: RISSOLE 模型通过块级生成与检索引导，实现了参数效率更高的扩散模型。](2024年08月30日/RISSOLE_Parameter-efficient_Diffusion_Models_via_Block-wise_Generation_and_Retrieval-Guidance.md)
 
 - [Safety Layers of Aligned Large Language Models: The Key to LLM Security](2024年08月30日/Safety_Layers_of_Aligned_Large_Language_Models_The_Key_to_LLM_Security.md)
 
