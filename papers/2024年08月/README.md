@@ -112,14 +112,6 @@
 
     - [翻译: LLaVA-Chef：一款专为美食食谱设计的多模态生成模型](2024年08月29日/LLaVA-Chef_A_Multi-modal_Generative_Model_for_Food_Recipes.md)
 
-- [Maven: A Multimodal Foundation Model for Supernova Science](2024年08月29日/Maven_A_Multimodal_Foundation_Model_for_Supernova_Science.md)
-
-    - [翻译: Maven：超新星科学的多模态基石模型](2024年08月29日/Maven_A_Multimodal_Foundation_Model_for_Supernova_Science.md)
-
-- [MemLong: Memory-Augmented Retrieval for Long Text Modeling](2024年08月29日/MemLong_Memory-Augmented_Retrieval_for_Long_Text_Modeling.md)
-
-    - [翻译: MemLong：长文本建模中的记忆增强检索技术](2024年08月29日/MemLong_Memory-Augmented_Retrieval_for_Long_Text_Modeling.md)
-
 - [Plausible-Parrots @ MSP2023: Enhancing Semantic Plausibility Modeling using Entity and Event Knowledge](2024年08月29日/Plausible-Parrots_@_MSP2023_Enhancing_Semantic_Plausibility_Modeling_using_Entity_and_Event_Knowledge.md)
 
     - [翻译: 在 MSP2023 大会上，Plausible-Parrots 项目通过融合实体与事件知识，提升了语义合理性模型的性能。](2024年08月29日/Plausible-Parrots_@_MSP2023_Enhancing_Semantic_Plausibility_Modeling_using_Entity_and_Event_Knowledge.md)
@@ -143,18 +135,6 @@
 - [VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition](2024年08月29日/VLM-KD_Knowledge_Distillation_from_VLM_for_Long-Tail_Visual_Recognition.md)
 
     - [翻译: VLM-KD：利用 VLM 进行知识蒸馏，助力长尾视觉识别](2024年08月29日/VLM-KD_Knowledge_Distillation_from_VLM_for_Long-Tail_Visual_Recognition.md)
-
-2024年08月28日
-
-- [3D Reconstruction with Spatial Memory](2024年08月28日/3D_Reconstruction_with_Spatial_Memory.md)
-
-    - [翻译: 三维重建结合空间记忆技术](2024年08月28日/3D_Reconstruction_with_Spatial_Memory.md)
-
-2024年08月27日
-
-- [Feynman 1947 letter on path integral for the Dirac equation](2024年08月27日/Feynman_1947_letter_on_path_integral_for_the_Dirac_equation.md)
-
-    - [翻译: 1947年，费曼在信中探讨了狄拉克方程的路径积分方法。](2024年08月27日/Feynman_1947_letter_on_path_integral_for_the_Dirac_equation.md)
 
 2024年08月05日
 
