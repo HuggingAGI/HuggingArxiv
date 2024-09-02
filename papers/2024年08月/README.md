@@ -86,32 +86,6 @@
 
     - [翻译: 探索用户意图：构建基于意图的排名数据集](2024年08月30日/Understanding_the_User_An_Intent-Based_Ranking_Dataset.md)
 
-- [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](2024年08月30日/UrBench_A_Comprehensive_Benchmark_for_Evaluating_Large_Multimodal_Models_in_Multi-View_Urban_Scenarios.md)
-
-    - [翻译: UrBench：全面评估大型多模态模型在多视角城市场景中的基准](2024年08月30日/UrBench_A_Comprehensive_Benchmark_for_Evaluating_Large_Multimodal_Models_in_Multi-View_Urban_Scenarios.md)
-
-2024年08月29日
-
-- [AdaptVision: Dynamic Input Scaling in MLLMs for Versatile Scene Understanding](2024年08月29日/AdaptVision_Dynamic_Input_Scaling_in_MLLMs_for_Versatile_Scene_Understanding.md)
-
-    - [翻译: AdaptVision 技术通过在 MLLMs 中实现动态输入缩放，助力于多场景理解的灵活性。](2024年08月29日/AdaptVision_Dynamic_Input_Scaling_in_MLLMs_for_Versatile_Scene_Understanding.md)
-
-- [A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models](2024年08月29日/A_longitudinal_sentiment_analysis_of_Sinophobia_during_COVID-19_using_large_language_models.md)
-
-    - [翻译: 本研究利用大型语言模型，对新冠疫情期间的反华情绪进行了纵向情感分析。](2024年08月29日/A_longitudinal_sentiment_analysis_of_Sinophobia_during_COVID-19_using_large_language_models.md)
-
-- [CogVLM2: Visual Language Models for Image and Video Understanding](2024年08月29日/CogVLM2_Visual_Language_Models_for_Image_and_Video_Understanding.md)
-
-    - [翻译: CogVLM2：专为图像与视频理解设计的视觉语言模型](2024年08月29日/CogVLM2_Visual_Language_Models_for_Image_and_Video_Understanding.md)
-
-- [See or Guess: Counterfactually Regularized Image Captioning](2024年08月29日/See_or_Guess_Counterfactually_Regularized_Image_Captioning.md)
-
-    - [翻译: 观图猜语：反事实正则化图像描述技术](2024年08月29日/See_or_Guess_Counterfactually_Regularized_Image_Captioning.md)
-
-- [UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches](2024年08月29日/UserSumBench_A_Benchmark_Framework_for_Evaluating_User_Summarization_Approaches.md)
-
-    - [翻译: UserSumBench：评估用户摘要技术的基准框架](2024年08月29日/UserSumBench_A_Benchmark_Framework_for_Evaluating_User_Summarization_Approaches.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
