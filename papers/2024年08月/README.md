@@ -1,19 +1,5 @@
 # 2024年08月
 
-2024年08月30日
-
-- [Advancing Multi-talker ASR Performance with Large Language Models](2024年08月30日/Advancing_Multi-talker_ASR_Performance_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型，我们正致力于提升多说话者场景下的自动语音识别性能。](2024年08月30日/Advancing_Multi-talker_ASR_Performance_with_Large_Language_Models.md)
-
-- [Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
-
-    - [翻译: 探索特征启发：应用商店与大型语言模型之比较](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
-
-- [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
-
-    - [翻译: 通过“看、比较、决定”这一流程，我们采用多视角多路径推理方法，有效减轻大型视觉-语言模型中的幻觉问题。](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
