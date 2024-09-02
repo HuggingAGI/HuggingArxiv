@@ -6,25 +6,9 @@
 
     - [翻译: 利用大型语言模型，我们正致力于提升多说话者场景下的自动语音识别性能。](2024年08月30日/Advancing_Multi-talker_ASR_Performance_with_Large_Language_Models.md)
 
-- [Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain](2024年08月30日/Assessing_Generative_Language_Models_in_Classification_Tasks_Performance_and_Self-Evaluation_Capabilities_in_the_Environmental_and_Climate_Change_Domain.md)
-
-    - [翻译: 探究生成语言模型在环境和气候变化领域分类任务中的表现及其自我评估能力](2024年08月30日/Assessing_Generative_Language_Models_in_Classification_Tasks_Performance_and_Self-Evaluation_Capabilities_in_the_Environmental_and_Climate_Change_Domain.md)
-
-- [Bridging Domain Knowledge and Process Discovery Using Large Language Models](2024年08月30日/Bridging_Domain_Knowledge_and_Process_Discovery_Using_Large_Language_Models.md)
-
-    - [翻译: 借助大型语言模型，融合领域知识与过程发现](2024年08月30日/Bridging_Domain_Knowledge_and_Process_Discovery_Using_Large_Language_Models.md)
-
-- [Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model](2024年08月30日/Codec_Does_Matter_Exploring_the_Semantic_Shortcoming_of_Codec_for_Audio_Language_Model.md)
-
-    - [翻译: 编解码器不容小觑：揭秘音频语言模型中编解码器的语义短板](2024年08月30日/Codec_Does_Matter_Exploring_the_Semantic_Shortcoming_of_Codec_for_Audio_Language_Model.md)
-
 - [Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
 
     - [翻译: 动态自一致性：借助推理路径提升 LLM 采样效率](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
-
-- [Flexible and Effective Mixing of Large Language Models into a Mixture of Domain Experts](2024年08月30日/Flexible_and_Effective_Mixing_of_Large_Language_Models_into_a_Mixture_of_Domain_Experts.md)
-
-    - [翻译: 大型语言模型灵活融入领域专家混合体，效果显著且高效](2024年08月30日/Flexible_and_Effective_Mixing_of_Large_Language_Models_into_a_Mixture_of_Domain_Experts.md)
 
 - [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](2024年08月30日/Forget_to_Flourish_Leveraging_Machine-Unlearning_on_Pretrained_Language_Models_for_Privacy_Leakage.md)
 
@@ -38,10 +22,6 @@
 
     - [翻译: 通过“看、比较、决定”这一流程，我们采用多视角多路径推理方法，有效减轻大型视觉-语言模型中的幻觉问题。](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
 
-- [NDP: Next Distribution Prediction as a More Broad Target](2024年08月30日/NDP_Next_Distribution_Prediction_as_a_More_Broad_Target.md)
-
-    - [翻译: NDP：将下一个分布预测作为更广泛的目标](2024年08月30日/NDP_Next_Distribution_Prediction_as_a_More_Broad_Target.md)
-
 - [Novel-WD: Exploring acquisition of Novel World Knowledge in LLMs Using Prefix-Tuning](2024年08月30日/Novel-WD_Exploring_acquisition_of_Novel_World_Knowledge_in_LLMs_Using_Prefix-Tuning.md)
 
     - [翻译: Novel-WD：通过前缀调优，探索 LLMs 获取新世界知识的能力](2024年08月30日/Novel-WD_Exploring_acquisition_of_Novel_World_Knowledge_in_LLMs_Using_Prefix-Tuning.md)
@@ -53,10 +33,6 @@
 - [Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
 
     - [翻译: 通过检索增强的自然语言推理，实现视觉问答的可解释性](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
-
-- [Safety Layers of Aligned Large Language Models: The Key to LLM Security](2024年08月30日/Safety_Layers_of_Aligned_Large_Language_Models_The_Key_to_LLM_Security.md)
-
-    - [翻译: 大型语言模型的安全层对齐：确保 LLM 安全的核心](2024年08月30日/Safety_Layers_of_Aligned_Large_Language_Models_The_Key_to_LLM_Security.md)
 
 - [Understanding the User: An Intent-Based Ranking Dataset](2024年08月30日/Understanding_the_User_An_Intent-Based_Ranking_Dataset.md)
 
