@@ -12,6 +12,12 @@
 
     - [翻译: 通过大型语言模型代理打造资产管理壳，实现数字孪生体中的语义节点互操作性。](2024年06月24日/Generation_of_Asset_Administration_Shell_with_Large_Language_Model_Agents_Toward_Semantic_Interoperability_in_Digital_Twins_in_the_Context_of_Industry_4.0.md)
 
+2024年06月13日
+
+- [TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution](2024年06月13日/TikTag_Breaking_ARM's_Memory_Tagging_Extension_with_Speculative_Execution.md)
+
+    - [翻译: TikTag：通过推测执行技术，破解了 ARM 的内存标记扩展。](2024年06月13日/TikTag_Breaking_ARM's_Memory_Tagging_Extension_with_Speculative_Execution.md)
+
 2024年06月03日
 
 - [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](2024年06月03日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)

@@ -1,5 +1,161 @@
 # 2024年08月
 
+2024年08月30日
+
+- [Advancing Multi-talker ASR Performance with Large Language Models](2024年08月30日/Advancing_Multi-talker_ASR_Performance_with_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型，我们正致力于提升多说话者场景下的自动语音识别性能。](2024年08月30日/Advancing_Multi-talker_ASR_Performance_with_Large_Language_Models.md)
+
+- [Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain](2024年08月30日/Assessing_Generative_Language_Models_in_Classification_Tasks_Performance_and_Self-Evaluation_Capabilities_in_the_Environmental_and_Climate_Change_Domain.md)
+
+    - [翻译: 探究生成语言模型在环境和气候变化领域分类任务中的表现及其自我评估能力](2024年08月30日/Assessing_Generative_Language_Models_in_Classification_Tasks_Performance_and_Self-Evaluation_Capabilities_in_the_Environmental_and_Climate_Change_Domain.md)
+
+- [Bridging Domain Knowledge and Process Discovery Using Large Language Models](2024年08月30日/Bridging_Domain_Knowledge_and_Process_Discovery_Using_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型，融合领域知识与过程发现](2024年08月30日/Bridging_Domain_Knowledge_and_Process_Discovery_Using_Large_Language_Models.md)
+
+- [Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model](2024年08月30日/Codec_Does_Matter_Exploring_the_Semantic_Shortcoming_of_Codec_for_Audio_Language_Model.md)
+
+    - [翻译: 编解码器不容小觑：揭秘音频语言模型中编解码器的语义短板](2024年08月30日/Codec_Does_Matter_Exploring_the_Semantic_Shortcoming_of_Codec_for_Audio_Language_Model.md)
+
+- [ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images](2024年08月30日/ConDense_Consistent_2D3D_Pre-training_for_Dense_and_Sparse_Features_from_Multi-View_Images.md)
+
+    - [翻译: ConDense：通过多视图图像，为密集与稀疏特征提供一致的2D/3D预训练方案。](2024年08月30日/ConDense_Consistent_2D3D_Pre-training_for_Dense_and_Sparse_Features_from_Multi-View_Images.md)
+
+- [Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
+
+    - [翻译: 动态自一致性：借助推理路径提升 LLM 采样效率](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
+
+- [Flexible and Effective Mixing of Large Language Models into a Mixture of Domain Experts](2024年08月30日/Flexible_and_Effective_Mixing_of_Large_Language_Models_into_a_Mixture_of_Domain_Experts.md)
+
+    - [翻译: 大型语言模型灵活融入领域专家混合体，效果显著且高效](2024年08月30日/Flexible_and_Effective_Mixing_of_Large_Language_Models_into_a_Mixture_of_Domain_Experts.md)
+
+- [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](2024年08月30日/Forget_to_Flourish_Leveraging_Machine-Unlearning_on_Pretrained_Language_Models_for_Privacy_Leakage.md)
+
+    - [翻译: 遗忘以繁荣：借助预训练语言模型中的机器遗忘技术，守护隐私安全。](2024年08月30日/Forget_to_Flourish_Leveraging_Machine-Unlearning_on_Pretrained_Language_Models_for_Privacy_Leakage.md)
+
+- [From Text to Emotion: Unveiling the Emotion Annotation Capabilities of LLMs](2024年08月30日/From_Text_to_Emotion_Unveiling_the_Emotion_Annotation_Capabilities_of_LLMs.md)
+
+    - [翻译: 揭秘 LLMs 如何从文本中捕捉情感：探索其情感标注的奥秘](2024年08月30日/From_Text_to_Emotion_Unveiling_the_Emotion_Annotation_Capabilities_of_LLMs.md)
+
+- [Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
+
+    - [翻译: 探索特征启发：应用商店与大型语言模型之比较](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
+
+- [Improving Extraction of Clinical Event Contextual Properties from Electronic Health Records: A Comparative Study](2024年08月30日/Improving_Extraction_of_Clinical_Event_Contextual_Properties_from_Electronic_Health_Records_A_Comparative_Study.md)
+
+    - [翻译: 本研究旨在比较不同方法，以提升从电子健康记录中提取临床事件上下文属性的效率。](2024年08月30日/Improving_Extraction_of_Clinical_Event_Contextual_Properties_from_Electronic_Health_Records_A_Comparative_Study.md)
+
+- [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](2024年08月30日/Joint_Estimation_and_Prediction_of_City-wide_Delivery_Demand_A_Large_Language_Model_Empowered_Graph-based_Learning_Approach.md)
+
+    - [翻译: 本研究提出了一种基于大型语言模型的图学习方法，用于联合估计和预测城市范围内的配送需求。](2024年08月30日/Joint_Estimation_and_Prediction_of_City-wide_Delivery_Demand_A_Large_Language_Model_Empowered_Graph-based_Learning_Approach.md)
+
+- [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
+
+    - [翻译: 通过“看、比较、决定”这一流程，我们采用多视角多路径推理方法，有效减轻大型视觉-语言模型中的幻觉问题。](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
+
+- [MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models](2024年08月30日/MaFeRw_Query_Rewriting_with_Multi-Aspect_Feedbacks_for_Retrieval-Augmented_Large_Language_Models.md)
+
+    - [翻译: MaFeRw：通过多方面反馈优化查询，提升检索增强型大型语言模型的性能](2024年08月30日/MaFeRw_Query_Rewriting_with_Multi-Aspect_Feedbacks_for_Retrieval-Augmented_Large_Language_Models.md)
+
+- [NDP: Next Distribution Prediction as a More Broad Target](2024年08月30日/NDP_Next_Distribution_Prediction_as_a_More_Broad_Target.md)
+
+    - [翻译: NDP：将下一个分布预测作为更广泛的目标](2024年08月30日/NDP_Next_Distribution_Prediction_as_a_More_Broad_Target.md)
+
+- [Novel-WD: Exploring acquisition of Novel World Knowledge in LLMs Using Prefix-Tuning](2024年08月30日/Novel-WD_Exploring_acquisition_of_Novel_World_Knowledge_in_LLMs_Using_Prefix-Tuning.md)
+
+    - [翻译: Novel-WD：通过前缀调优，探索 LLMs 获取新世界知识的能力](2024年08月30日/Novel-WD_Exploring_acquisition_of_Novel_World_Knowledge_in_LLMs_Using_Prefix-Tuning.md)
+
+- [Reasoning AI Performance Degradation in 6G Networks with Large Language Models](2024年08月30日/Reasoning_AI_Performance_Degradation_in_6G_Networks_with_Large_Language_Models.md)
+
+    - [翻译: 6G网络中，大型语言模型导致推理AI性能下滑](2024年08月30日/Reasoning_AI_Performance_Degradation_in_6G_Networks_with_Large_Language_Models.md)
+
+- [Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
+
+    - [翻译: 通过检索增强的自然语言推理，实现视觉问答的可解释性](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
+
+- [RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance](2024年08月30日/RISSOLE_Parameter-efficient_Diffusion_Models_via_Block-wise_Generation_and_Retrieval-Guidance.md)
+
+    - [翻译: RISSOLE 模型通过块级生成与检索引导，实现了参数效率更高的扩散模型。](2024年08月30日/RISSOLE_Parameter-efficient_Diffusion_Models_via_Block-wise_Generation_and_Retrieval-Guidance.md)
+
+- [Safety Layers of Aligned Large Language Models: The Key to LLM Security](2024年08月30日/Safety_Layers_of_Aligned_Large_Language_Models_The_Key_to_LLM_Security.md)
+
+    - [翻译: 大型语言模型的安全层对齐：确保 LLM 安全的核心](2024年08月30日/Safety_Layers_of_Aligned_Large_Language_Models_The_Key_to_LLM_Security.md)
+
+- [Understanding the User: An Intent-Based Ranking Dataset](2024年08月30日/Understanding_the_User_An_Intent-Based_Ranking_Dataset.md)
+
+    - [翻译: 探索用户意图：构建基于意图的排名数据集](2024年08月30日/Understanding_the_User_An_Intent-Based_Ranking_Dataset.md)
+
+- [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](2024年08月30日/UrBench_A_Comprehensive_Benchmark_for_Evaluating_Large_Multimodal_Models_in_Multi-View_Urban_Scenarios.md)
+
+    - [翻译: UrBench：全面评估大型多模态模型在多视角城市场景中的基准](2024年08月30日/UrBench_A_Comprehensive_Benchmark_for_Evaluating_Large_Multimodal_Models_in_Multi-View_Urban_Scenarios.md)
+
+2024年08月29日
+
+- [AdaptVision: Dynamic Input Scaling in MLLMs for Versatile Scene Understanding](2024年08月29日/AdaptVision_Dynamic_Input_Scaling_in_MLLMs_for_Versatile_Scene_Understanding.md)
+
+    - [翻译: AdaptVision 技术通过在 MLLMs 中实现动态输入缩放，助力于多场景理解的灵活性。](2024年08月29日/AdaptVision_Dynamic_Input_Scaling_in_MLLMs_for_Versatile_Scene_Understanding.md)
+
+- [A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models](2024年08月29日/A_longitudinal_sentiment_analysis_of_Sinophobia_during_COVID-19_using_large_language_models.md)
+
+    - [翻译: 本研究利用大型语言模型，对新冠疫情期间的反华情绪进行了纵向情感分析。](2024年08月29日/A_longitudinal_sentiment_analysis_of_Sinophobia_during_COVID-19_using_large_language_models.md)
+
+- [CogVLM2: Visual Language Models for Image and Video Understanding](2024年08月29日/CogVLM2_Visual_Language_Models_for_Image_and_Video_Understanding.md)
+
+    - [翻译: CogVLM2：专为图像与视频理解设计的视觉语言模型](2024年08月29日/CogVLM2_Visual_Language_Models_for_Image_and_Video_Understanding.md)
+
+- [Exploring Multiple Strategies to Improve Multilingual Coreference Resolution in CorefUD](2024年08月29日/Exploring_Multiple_Strategies_to_Improve_Multilingual_Coreference_Resolution_in_CorefUD.md)
+
+    - [翻译: 本研究旨在通过多种策略提升 CorefUD 中多语言指代消解的性能。](2024年08月29日/Exploring_Multiple_Strategies_to_Improve_Multilingual_Coreference_Resolution_in_CorefUD.md)
+
+- [LLaVA-Chef: A Multi-modal Generative Model for Food Recipes](2024年08月29日/LLaVA-Chef_A_Multi-modal_Generative_Model_for_Food_Recipes.md)
+
+    - [翻译: LLaVA-Chef：一款专为美食食谱设计的多模态生成模型](2024年08月29日/LLaVA-Chef_A_Multi-modal_Generative_Model_for_Food_Recipes.md)
+
+- [Maven: A Multimodal Foundation Model for Supernova Science](2024年08月29日/Maven_A_Multimodal_Foundation_Model_for_Supernova_Science.md)
+
+    - [翻译: Maven：超新星科学的多模态基石模型](2024年08月29日/Maven_A_Multimodal_Foundation_Model_for_Supernova_Science.md)
+
+- [MemLong: Memory-Augmented Retrieval for Long Text Modeling](2024年08月29日/MemLong_Memory-Augmented_Retrieval_for_Long_Text_Modeling.md)
+
+    - [翻译: MemLong：长文本建模中的记忆增强检索技术](2024年08月29日/MemLong_Memory-Augmented_Retrieval_for_Long_Text_Modeling.md)
+
+- [Plausible-Parrots @ MSP2023: Enhancing Semantic Plausibility Modeling using Entity and Event Knowledge](2024年08月29日/Plausible-Parrots_@_MSP2023_Enhancing_Semantic_Plausibility_Modeling_using_Entity_and_Event_Knowledge.md)
+
+    - [翻译: 在 MSP2023 大会上，Plausible-Parrots 项目通过融合实体与事件知识，提升了语义合理性模型的性能。](2024年08月29日/Plausible-Parrots_@_MSP2023_Enhancing_Semantic_Plausibility_Modeling_using_Entity_and_Event_Knowledge.md)
+
+- [See or Guess: Counterfactually Regularized Image Captioning](2024年08月29日/See_or_Guess_Counterfactually_Regularized_Image_Captioning.md)
+
+    - [翻译: 观图猜语：反事实正则化图像描述技术](2024年08月29日/See_or_Guess_Counterfactually_Regularized_Image_Captioning.md)
+
+- [Tool-Assisted Agent on SQL Inspection and Refinement in Real-World Scenarios](2024年08月29日/Tool-Assisted_Agent_on_SQL_Inspection_and_Refinement_in_Real-World_Scenarios.md)
+
+    - [翻译: 工具辅助代理在现实场景中的SQL检查与优化](2024年08月29日/Tool-Assisted_Agent_on_SQL_Inspection_and_Refinement_in_Real-World_Scenarios.md)
+
+- [Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer](2024年08月29日/Training_Ultra_Long_Context_Language_Model_with_Fully_Pipelined_Distributed_Transformer.md)
+
+    - [翻译: 采用全流水线分布式Transformer技术，我们成功训练了超长上下文语言模型。](2024年08月29日/Training_Ultra_Long_Context_Language_Model_with_Fully_Pipelined_Distributed_Transformer.md)
+
+- [UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches](2024年08月29日/UserSumBench_A_Benchmark_Framework_for_Evaluating_User_Summarization_Approaches.md)
+
+    - [翻译: UserSumBench：评估用户摘要技术的基准框架](2024年08月29日/UserSumBench_A_Benchmark_Framework_for_Evaluating_User_Summarization_Approaches.md)
+
+- [VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition](2024年08月29日/VLM-KD_Knowledge_Distillation_from_VLM_for_Long-Tail_Visual_Recognition.md)
+
+    - [翻译: VLM-KD：利用 VLM 进行知识蒸馏，助力长尾视觉识别](2024年08月29日/VLM-KD_Knowledge_Distillation_from_VLM_for_Long-Tail_Visual_Recognition.md)
+
+2024年08月28日
+
+- [3D Reconstruction with Spatial Memory](2024年08月28日/3D_Reconstruction_with_Spatial_Memory.md)
+
+    - [翻译: 三维重建结合空间记忆技术](2024年08月28日/3D_Reconstruction_with_Spatial_Memory.md)
+
+2024年08月27日
+
+- [Feynman 1947 letter on path integral for the Dirac equation](2024年08月27日/Feynman_1947_letter_on_path_integral_for_the_Dirac_equation.md)
+
+    - [翻译: 1947年，费曼在信中探讨了狄拉克方程的路径积分方法。](2024年08月27日/Feynman_1947_letter_on_path_integral_for_the_Dirac_equation.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)

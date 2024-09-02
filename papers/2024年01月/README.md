@@ -1,5 +1,11 @@
 # 2024年01月
 
+2024年01月31日
+
+- [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems](2024年01月31日/Beyond_Control_Exploring_Novel_File_System_Objects_for_Data-Only_Attacks_on_Linux_Systems.md)
+
+    - [翻译: 探索 Linux 系统中，针对数据攻击的新型文件系统对象，超越传统控制手段。](2024年01月31日/Beyond_Control_Exploring_Novel_File_System_Objects_for_Data-Only_Attacks_on_Linux_Systems.md)
+
 2024年01月24日
 
 - ["Medium" LMs of Code in the Era of LLMs: Lessons From StackOverflow](2024年01月24日/Medium_LMs_of_Code_in_the_Era_of_LLMs_Lessons_From_StackOverflow.md)
