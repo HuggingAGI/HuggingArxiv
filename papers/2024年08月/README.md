@@ -6,14 +6,6 @@
 
     - [翻译: 利用大型语言模型，我们正致力于提升多说话者场景下的自动语音识别性能。](2024年08月30日/Advancing_Multi-talker_ASR_Performance_with_Large_Language_Models.md)
 
-- [Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
-
-    - [翻译: 动态自一致性：借助推理路径提升 LLM 采样效率](2024年08月30日/Dynamic_Self-Consistency_Leveraging_Reasoning_Paths_for_Efficient_LLM_Sampling.md)
-
-- [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](2024年08月30日/Forget_to_Flourish_Leveraging_Machine-Unlearning_on_Pretrained_Language_Models_for_Privacy_Leakage.md)
-
-    - [翻译: 遗忘以繁荣：借助预训练语言模型中的机器遗忘技术，守护隐私安全。](2024年08月30日/Forget_to_Flourish_Leveraging_Machine-Unlearning_on_Pretrained_Language_Models_for_Privacy_Leakage.md)
-
 - [Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
 
     - [翻译: 探索特征启发：应用商店与大型语言模型之比较](2024年08月30日/Getting_Inspiration_for_Feature_Elicitation_App_Store-_vs._LLM-based_Approach.md)
@@ -21,22 +13,6 @@
 - [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
 
     - [翻译: 通过“看、比较、决定”这一流程，我们采用多视角多路径推理方法，有效减轻大型视觉-语言模型中的幻觉问题。](2024年08月30日/Look,_Compare,_Decide_Alleviating_Hallucination_in_Large_Vision-Language_Models_via_Multi-View_Multi-Path_Reasoning.md)
-
-- [Novel-WD: Exploring acquisition of Novel World Knowledge in LLMs Using Prefix-Tuning](2024年08月30日/Novel-WD_Exploring_acquisition_of_Novel_World_Knowledge_in_LLMs_Using_Prefix-Tuning.md)
-
-    - [翻译: Novel-WD：通过前缀调优，探索 LLMs 获取新世界知识的能力](2024年08月30日/Novel-WD_Exploring_acquisition_of_Novel_World_Knowledge_in_LLMs_Using_Prefix-Tuning.md)
-
-- [Reasoning AI Performance Degradation in 6G Networks with Large Language Models](2024年08月30日/Reasoning_AI_Performance_Degradation_in_6G_Networks_with_Large_Language_Models.md)
-
-    - [翻译: 6G网络中，大型语言模型导致推理AI性能下滑](2024年08月30日/Reasoning_AI_Performance_Degradation_in_6G_Networks_with_Large_Language_Models.md)
-
-- [Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
-
-    - [翻译: 通过检索增强的自然语言推理，实现视觉问答的可解释性](2024年08月30日/Retrieval-Augmented_Natural_Language_Reasoning_for_Explainable_Visual_Question_Answering.md)
-
-- [Understanding the User: An Intent-Based Ranking Dataset](2024年08月30日/Understanding_the_User_An_Intent-Based_Ranking_Dataset.md)
-
-    - [翻译: 探索用户意图：构建基于意图的排名数据集](2024年08月30日/Understanding_the_User_An_Intent-Based_Ranking_Dataset.md)
 
 2024年08月05日
 
