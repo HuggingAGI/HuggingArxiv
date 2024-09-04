@@ -2,22 +2,6 @@
 
 2024年08月31日
 
-- [Compositional 3D-aware Video Generation with LLM Director](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
-
-    - [翻译: LLM 导演下的组合式 3D 视频创作](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
-
-- [Data Augmentation for Image Classification using Generative AI](2024年08月31日/Data_Augmentation_for_Image_Classification_using_Generative_AI.md)
-
-    - [翻译: 利用生成式AI技术，为图像分类任务进行数据增强](2024年08月31日/Data_Augmentation_for_Image_Classification_using_Generative_AI.md)
-
-- [DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module](2024年08月31日/DCIM-AVSR__Efficient_Audio-Visual_Speech_Recognition_via_Dual_Conformer_Interaction_Module.md)
-
-    - [翻译: DCIM-AVSR：借助双Conformer交互模块，实现视听语音识别的高效处理](2024年08月31日/DCIM-AVSR__Efficient_Audio-Visual_Speech_Recognition_via_Dual_Conformer_Interaction_Module.md)
-
-- [GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
-
-    - [翻译: GenAI 驱动的多智能体范式在智能城市移动性中的应用：探讨 LLM 和 RAG 与智能交通系统集成的机会与挑战](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
-
 - [How Does Diverse Interpretability of Textual Prompts Impact Medical Vision-Language Zero-Shot Tasks?](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
 
     - [翻译: 文本提示的多样化解释对医学视觉-语言零-shot 任务有何影响？](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
@@ -25,14 +9,6 @@
 - [Learning to Ask: When LLMs Meet Unclear Instruction](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
 
     - [翻译: 学习提问：LLM 面对模糊指令的挑战](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
-
-- [LongRecipe: Recipe for Efficient Long Context Generalization in Large Languge Models](2024年08月31日/LongRecipe_Recipe_for_Efficient_Long_Context_Generalization_in_Large_Languge_Models.md)
-
-    - [翻译: LongRecipe：大型语言模型中高效长上下文泛化的秘方](2024年08月31日/LongRecipe_Recipe_for_Efficient_Long_Context_Generalization_in_Large_Languge_Models.md)
-
-- [YA-TA: Towards Personalized Question-Answering Teaching Assistants using Instructor-Student Dual Retrieval-augmented Knowledge Fusion](2024年08月31日/YA-TA_Towards_Personalized_Question-Answering_Teaching_Assistants_using_Instructor-Student_Dual_Retrieval-augmented_Knowledge_Fusion.md)
-
-    - [翻译: YA-TA：通过教师与学生双重检索机制增强知识融合，打造个性化问答教学助手](2024年08月31日/YA-TA_Towards_Personalized_Question-Answering_Teaching_Assistants_using_Instructor-Student_Dual_Retrieval-augmented_Knowledge_Fusion.md)
 
 2024年08月05日
 
