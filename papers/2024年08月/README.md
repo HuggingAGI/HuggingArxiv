@@ -76,10 +76,6 @@
 
 2024年08月30日
 
-- [Aligning Medical Images with General Knowledge from Large Language Models](2024年08月30日/Aligning_Medical_Images_with_General_Knowledge_from_Large_Language_Models.md)
-
-    - [翻译: 将医学图像与大型语言模型的通用知识相匹配](2024年08月30日/Aligning_Medical_Images_with_General_Knowledge_from_Large_Language_Models.md)
-
 - [Benchmarking the Performance of Large Language Models on the Cerebras Wafer Scale Engine](2024年08月30日/Benchmarking_the_Performance_of_Large_Language_Models_on_the_Cerebras_Wafer_Scale_Engine.md)
 
     - [翻译: 大型语言模型在 Cerebras Wafer Scale Engine 上的性能基准测试](2024年08月30日/Benchmarking_the_Performance_of_Large_Language_Models_on_the_Cerebras_Wafer_Scale_Engine.md)
@@ -91,10 +87,6 @@
 - [Enhancing Document-level Argument Extraction with Definition-augmented Heuristic-driven Prompting for LLMs](2024年08月30日/Enhancing_Document-level_Argument_Extraction_with_Definition-augmented_Heuristic-driven_Prompting_for_LLMs.md)
 
     - [翻译: 利用定义增强的启发式驱动提示，提升 LLM 在文档级论点提取方面的表现](2024年08月30日/Enhancing_Document-level_Argument_Extraction_with_Definition-augmented_Heuristic-driven_Prompting_for_LLMs.md)
-
-- [Enhancing Event Reasoning in Large Language Models through Instruction Fine-Tuning with Semantic Causal Graphs](2024年08月30日/Enhancing_Event_Reasoning_in_Large_Language_Models_through_Instruction_Fine-Tuning_with_Semantic_Causal_Graphs.md)
-
-    - [翻译: 借助语义因果图的指令微调，提升大型语言模型的事件推理能力](2024年08月30日/Enhancing_Event_Reasoning_in_Large_Language_Models_through_Instruction_Fine-Tuning_with_Semantic_Causal_Graphs.md)
 
 - [Evaluating the Effectiveness of Large Language Models in Representing and Understanding Movement Trajectories](2024年08月30日/Evaluating_the_Effectiveness_of_Large_Language_Models_in_Representing_and_Understanding_Movement_Trajectories.md)
 
