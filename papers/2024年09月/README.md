@@ -322,10 +322,6 @@
 
     - [翻译: 个性化多模态AI搜索引擎的可学习代理协作网络框架](2024年09月01日/A_Learnable_Agent_Collaboration_Network_Framework_for_Personalized_Multimodal_AI_Search_Engine.md)
 
-- [Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models](2024年09月01日/Does_Knowledge_Localization_Hold_True_Surprising_Differences_Between_Entity_and_Relation_Perspectives_in_Language_Models.md)
-
-    - [翻译: 语言模型中的知识定位是否成立？实体与关系视角间存在令人惊讶的差异。](2024年09月01日/Does_Knowledge_Localization_Hold_True_Surprising_Differences_Between_Entity_and_Relation_Perspectives_in_Language_Models.md)
-
 - [Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](2024年09月01日/Enhancing_Remote_Sensing_Vision-Language_Models_for_Zero-Shot_Scene_Classification.md)
 
     - [翻译: 提升遥感视觉-语言模型，实现零-shot场景分类](2024年09月01日/Enhancing_Remote_Sensing_Vision-Language_Models_for_Zero-Shot_Scene_Classification.md)
@@ -334,29 +330,9 @@
 
     - [翻译: 解决大型语言模型中的代码生成问题](2024年09月01日/Fixing_Code_Generation_Errors_for_Large_Language_Models.md)
 
-- [Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering](2024年09月01日/Harnessing_the_Power_of_Semi-Structured_Knowledge_and_LLMs_with_Triplet-Based_Prefiltering_for_Question_Answering.md)
-
-    - [翻译: 结合半结构化知识与基于三元组预过滤的LLM，提升问答能力](2024年09月01日/Harnessing_the_Power_of_Semi-Structured_Knowledge_and_LLMs_with_Triplet-Based_Prefiltering_for_Question_Answering.md)
-
-- [LLMs as Evaluators: A Novel Approach to Evaluate Bug Report Summarization](2024年09月01日/LLMs_as_Evaluators_A_Novel_Approach_to_Evaluate_Bug_Report_Summarization.md)
-
-    - [翻译: 利用 LLM 评估错误报告摘要：一种创新方法](2024年09月01日/LLMs_as_Evaluators_A_Novel_Approach_to_Evaluate_Bug_Report_Summarization.md)
-
 - [LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs](2024年09月01日/LuWu_An_End-to-End_In-Network_Out-of-Core_Optimizer_for_100B-Scale_Model-in-Network_Data-Parallel_Training_on_Distributed_GPUs.md)
 
     - [翻译: LuWu：一款端到端网络内核外优化工具，专为分布式GPU上的100亿级模型-网络数据并行训练设计。](2024年09月01日/LuWu_An_End-to-End_In-Network_Out-of-Core_Optimizer_for_100B-Scale_Model-in-Network_Data-Parallel_Training_on_Distributed_GPUs.md)
-
-- [MarsCode Agent: AI-native Automated Bug Fixing](2024年09月01日/MarsCode_Agent_AI-native_Automated_Bug_Fixing.md)
-
-    - [翻译: MarsCode Agent：基于 AI 的自动化 Bug 修复工具](2024年09月01日/MarsCode_Agent_AI-native_Automated_Bug_Fixing.md)
-
-- [Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation](2024年09月01日/Polyrating_A_Cost-Effective_and_Bias-Aware_Rating_System_for_LLM_Evaluation.md)
-
-    - [翻译: Polyrating：高效且公正的 LLM 评估评级系统](2024年09月01日/Polyrating_A_Cost-Effective_and_Bias-Aware_Rating_System_for_LLM_Evaluation.md)
-
-- [ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model](2024年09月01日/ProphetFuzz_Fully_Automated_Prediction_and_Fuzzing_of_High-Risk_Option_Combinations_with_Only_Documentation_via_Large_Language_Model.md)
-
-    - [翻译: ProphetFuzz：借助大型语言模型，仅凭文档即可全自动预测并模糊测试高风险选项组合。](2024年09月01日/ProphetFuzz_Fully_Automated_Prediction_and_Fuzzing_of_High-Risk_Option_Combinations_with_Only_Documentation_via_Large_Language_Model.md)
 
 - [Self-evolving Agents with reflective and memory-augmented abilities](2024年09月01日/Self-evolving_Agents_with_reflective_and_memory-augmented_abilities.md)
 
