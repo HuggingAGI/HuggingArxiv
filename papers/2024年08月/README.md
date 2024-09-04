@@ -12,7 +12,7 @@
 
 - [Chatting Up Attachment: Using LLMs to Predict Adult Bonds](2024年08月31日/Chatting_Up_Attachment_Using_LLMs_to_Predict_Adult_Bonds.md)
 
-    - [翻译: 用 LLM 预测成人关系：聊天中的情感纽带](2024年08月31日/Chatting_Up_Attachment_Using_LLMs_to_Predict_Adult_Bonds.md)
+    - [翻译: 通过 LLM 预测成人关系：探索聊天中的情感纽带](2024年08月31日/Chatting_Up_Attachment_Using_LLMs_to_Predict_Adult_Bonds.md)
 
 - [Compositional 3D-aware Video Generation with LLM Director](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
 
@@ -44,7 +44,7 @@
 
 - [GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
 
-    - [翻译: GenAI 驱动的多智能体范式在智能城市交通中的应用：探讨如何将 LLM 和 RAG 与智能交通系统结合，以及面临的机遇与挑战。](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
+    - [翻译: GenAI 驱动的多智能体范式在智能城市移动性中的应用：探讨 LLM 和 RAG 与智能交通系统集成的机会与挑战](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
 
 - [How Does Diverse Interpretability of Textual Prompts Impact Medical Vision-Language Zero-Shot Tasks?](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
 
@@ -122,7 +122,7 @@
 
 - [StimuVAR: Spatiotemporal Stimuli-aware Video Affective Reasoning with Multimodal Large Language Models](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
 
-    - [翻译: StimuVAR：通过多模态大型语言模型，实现对时空刺激感知的视频情感推理](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
+    - [翻译: StimuVAR：结合多模态大型语言模型，实现对视频中时空感知刺激的情感推理](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
 
 - [Text2Tradition: From Epistemological Tensions to AI-Mediated Cross-Cultural Co-Creation](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
 
@@ -148,39 +148,13 @@
 
 - [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](2024年08月29日/HoneyComb_A_Flexible_LLM-Based_Agent_System_for_Materials_Science.md)
 
-    - [翻译: HoneyComb：一款灵活的基于LLM的材料科学代理系统](2024年08月29日/HoneyComb_A_Flexible_LLM-Based_Agent_System_for_Materials_Science.md)
+    - [翻译: HoneyComb：一款灵活的基于LLM的代理系统，专为材料科学领域设计。](2024年08月29日/HoneyComb_A_Flexible_LLM-Based_Agent_System_for_Materials_Science.md)
 
 2024年08月27日
 
 - [Modelisation a base d'Agent Augmentes par LLM pour les Simulations Sociales: Defis et Opportunites](2024年08月27日/Modelisation_a_base_d'Agent_Augmentes_par_LLM_pour_les_Simulations_Sociales_Defis_et_Opportunites.md)
 
     - [翻译: 利用LLM增强代理进行社交模拟建模：探索挑战与机遇](2024年08月27日/Modelisation_a_base_d'Agent_Augmentes_par_LLM_pour_les_Simulations_Sociales_Defis_et_Opportunites.md)
-
-2024年08月26日
-
-- [Evaluating ChatGPT on Nuclear Domain-Specific Data](2024年08月26日/Evaluating_ChatGPT_on_Nuclear_Domain-Specific_Data.md)
-
-    - [翻译: 探究 ChatGPT 在核领域数据上的性能表现](2024年08月26日/Evaluating_ChatGPT_on_Nuclear_Domain-Specific_Data.md)
-
-- [Watermarking Techniques for Large Language Models: A Survey](2024年08月26日/Watermarking_Techniques_for_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 大语言模型水印技术综述](2024年08月26日/Watermarking_Techniques_for_Large_Language_Models_A_Survey.md)
-
-2024年08月24日
-
-- [Enhancing the Interpretability of SHAP Values Using Large Language Models](2024年08月24日/Enhancing_the_Interpretability_of_SHAP_Values_Using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型提升 SHAP 值的解释力](2024年08月24日/Enhancing_the_Interpretability_of_SHAP_Values_Using_Large_Language_Models.md)
-
-- [Towards Human-Level Understanding of Complex Process Engineering Schematics: A Pedagogical, Introspective Multi-Agent Framework for Open-Domain Question Answering](2024年08月24日/Towards_Human-Level_Understanding_of_Complex_Process_Engineering_Schematics_A_Pedagogical,_Introspective_Multi-Agent_Framework_for_Open-Domain_Question_Answering.md)
-
-    - [翻译: 探索复杂过程工程示意图的人类级理解：一个结合教学与内省的多智能体框架，专为开放领域问答设计](2024年08月24日/Towards_Human-Level_Understanding_of_Complex_Process_Engineering_Schematics_A_Pedagogical,_Introspective_Multi-Agent_Framework_for_Open-Domain_Question_Answering.md)
-
-2024年08月18日
-
-- [AI based Multiagent Approach for Requirements Elicitation and Analysis](2024年08月18日/AI_based_Multiagent_Approach_for_Requirements_Elicitation_and_Analysis.md)
-
-    - [翻译: 基于人工智能的多代理需求获取与分析方法](2024年08月18日/AI_based_Multiagent_Approach_for_Requirements_Elicitation_and_Analysis.md)
 
 2024年08月05日
 
