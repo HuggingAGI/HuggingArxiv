@@ -2,17 +2,9 @@
 
 2024年08月31日
 
-- [Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](2024年08月31日/Automatic_Pseudo-Harmful_Prompt_Generation_for_Evaluating_False_Refusals_in_Large_Language_Models.md)
-
-    - [翻译: 本研究旨在通过自动生成伪有害提示，评估大型语言模型在处理错误拒绝时的表现。](2024年08月31日/Automatic_Pseudo-Harmful_Prompt_Generation_for_Evaluating_False_Refusals_in_Large_Language_Models.md)
-
 - [Compositional 3D-aware Video Generation with LLM Director](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
 
     - [翻译: LLM 导演下的组合式 3D 视频创作](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
-
-- [COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation](2024年08月31日/COSMo_CLIP_Talks_on_Open-Set_Multi-Target_Domain_Adaptation.md)
-
-    - [翻译: COSMo：探索 CLIP 在开放集多目标域适应中的应用](2024年08月31日/COSMo_CLIP_Talks_on_Open-Set_Multi-Target_Domain_Adaptation.md)
 
 - [Data Augmentation for Image Classification using Generative AI](2024年08月31日/Data_Augmentation_for_Image_Classification_using_Generative_AI.md)
 
@@ -22,14 +14,6 @@
 
     - [翻译: DCIM-AVSR：借助双Conformer交互模块，实现视听语音识别的高效处理](2024年08月31日/DCIM-AVSR__Efficient_Audio-Visual_Speech_Recognition_via_Dual_Conformer_Interaction_Module.md)
 
-- [Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs](2024年08月31日/Enhancing_Source_Code_Security_with_LLMs_Demystifying_The_Challenges_and_Generating_Reliable_Repairs.md)
-
-    - [翻译: 借助大型语言模型提升源代码安全：解析难题，打造可靠修复方案](2024年08月31日/Enhancing_Source_Code_Security_with_LLMs_Demystifying_The_Challenges_and_Generating_Reliable_Repairs.md)
-
-- [FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model](2024年08月31日/FADE_Few-shotzero-shot_Anomaly_Detection_Engine_using_Large_Vision-Language_Model.md)
-
-    - [翻译: FADE：借助大型视觉-语言模型，实现少样本/零样本的异常检测引擎](2024年08月31日/FADE_Few-shotzero-shot_Anomaly_Detection_Engine_using_Large_Vision-Language_Model.md)
-
 - [GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
 
     - [翻译: GenAI 驱动的多智能体范式在智能城市移动性中的应用：探讨 LLM 和 RAG 与智能交通系统集成的机会与挑战](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
@@ -38,10 +22,6 @@
 
     - [翻译: 文本提示的多样化解释对医学视觉-语言零-shot 任务有何影响？](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
 
-- [Large Language Models-Enabled Digital Twins for Precision Medicine in Rare Gynecological Tumors](2024年08月31日/Large_Language_Models-Enabled_Digital_Twins_for_Precision_Medicine_in_Rare_Gynecological_Tumors.md)
-
-    - [翻译: 大型语言模型助力数字孪生，精准医疗罕见妇科肿瘤](2024年08月31日/Large_Language_Models-Enabled_Digital_Twins_for_Precision_Medicine_in_Rare_Gynecological_Tumors.md)
-
 - [Learning to Ask: When LLMs Meet Unclear Instruction](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
 
     - [翻译: 学习提问：LLM 面对模糊指令的挑战](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
@@ -49,10 +29,6 @@
 - [LongRecipe: Recipe for Efficient Long Context Generalization in Large Languge Models](2024年08月31日/LongRecipe_Recipe_for_Efficient_Long_Context_Generalization_in_Large_Languge_Models.md)
 
     - [翻译: LongRecipe：大型语言模型中高效长上下文泛化的秘方](2024年08月31日/LongRecipe_Recipe_for_Efficient_Long_Context_Generalization_in_Large_Languge_Models.md)
-
-- [Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness](2024年08月31日/Testing_and_Evaluation_of_Large_Language_Models_Correctness,_Non-Toxicity,_and_Fairness.md)
-
-    - [翻译: 大型语言模型的测试与评估聚焦于正确性、非毒性和公平性。](2024年08月31日/Testing_and_Evaluation_of_Large_Language_Models_Correctness,_Non-Toxicity,_and_Fairness.md)
 
 - [YA-TA: Towards Personalized Question-Answering Teaching Assistants using Instructor-Student Dual Retrieval-augmented Knowledge Fusion](2024年08月31日/YA-TA_Towards_Personalized_Question-Answering_Teaching_Assistants_using_Instructor-Student_Dual_Retrieval-augmented_Knowledge_Fusion.md)
 
