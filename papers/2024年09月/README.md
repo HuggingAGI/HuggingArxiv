@@ -362,14 +362,6 @@
 
     - [翻译: 自我进化代理，具备反思与记忆强化能力](2024年09月01日/Self-evolving_Agents_with_reflective_and_memory-augmented_abilities.md)
 
-- [Statically Contextualizing Large Language Models with Typed Holes](2024年09月01日/Statically_Contextualizing_Large_Language_Models_with_Typed_Holes.md)
-
-    - [翻译: 通过类型化孔洞技术，静态地增强大型语言模型的上下文理解能力](2024年09月01日/Statically_Contextualizing_Large_Language_Models_with_Typed_Holes.md)
-
-- [The Dark Side of Human Feedback: Poisoning Large Language Models via User Inputs](2024年09月01日/The_Dark_Side_of_Human_Feedback_Poisoning_Large_Language_Models_via_User_Inputs.md)
-
-    - [翻译: 人类反馈的阴暗面：用户输入如何毒害大型语言模型](2024年09月01日/The_Dark_Side_of_Human_Feedback_Poisoning_Large_Language_Models_via_User_Inputs.md)
-
 - [TinyAgent: Function Calling at the Edge](2024年09月01日/TinyAgent_Function_Calling_at_the_Edge.md)
 
     - [翻译: TinyAgent：边缘环境下的函数调用技术](2024年09月01日/TinyAgent_Function_Calling_at_the_Edge.md)
@@ -377,14 +369,6 @@
 - [tl;dr: Chill, y'all: AI Will Not Devour SE](2024年09月01日/tl;dr_Chill,_y'all_AI_Will_Not_Devour_SE.md)
 
     - [翻译: 别慌，AI 不会取代软件工程。](2024年09月01日/tl;dr_Chill,_y'all_AI_Will_Not_Devour_SE.md)
-
-- [ToolACE: Winning the Points of LLM Function Calling](2024年09月01日/ToolACE_Winning_the_Points_of_LLM_Function_Calling.md)
-
-    - [翻译: ToolACE：掌握 LLM 功能调用的制胜要素](2024年09月01日/ToolACE_Winning_the_Points_of_LLM_Function_Calling.md)
-
-- [Towards Faster Graph Partitioning via Pre-training and Inductive Inference](2024年09月01日/Towards_Faster_Graph_Partitioning_via_Pre-training_and_Inductive_Inference.md)
-
-    - [翻译: 借助预训练与归纳推理，加速图划分进程](2024年09月01日/Towards_Faster_Graph_Partitioning_via_Pre-training_and_Inductive_Inference.md)
 
 - [Who Would Chatbots Vote For? Political Preferences of ChatGPT and Gemini in the 2024 European Union Elections](2024年09月01日/Who_Would_Chatbots_Vote_For_Political_Preferences_of_ChatGPT_and_Gemini_in_the_2024_European_Union_Elections.md)
 

@@ -1,15 +1,5 @@
 # 2024年08月
 
-2024年08月31日
-
-- [How Does Diverse Interpretability of Textual Prompts Impact Medical Vision-Language Zero-Shot Tasks?](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
-
-    - [翻译: 文本提示的多样化解释对医学视觉-语言零-shot 任务有何影响？](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
-
-- [Learning to Ask: When LLMs Meet Unclear Instruction](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
-
-    - [翻译: 学习提问：LLM 面对模糊指令的挑战](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
