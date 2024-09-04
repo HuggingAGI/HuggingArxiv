@@ -76,18 +76,6 @@
 
 2024年08月30日
 
-- [Can Large Language Models Address Open-Target Stance Detection?](2024年08月30日/Can_Large_Language_Models_Address_Open-Target_Stance_Detection.md)
-
-    - [翻译: 大型语言模型能否应对开放目标的立场检测挑战？](2024年08月30日/Can_Large_Language_Models_Address_Open-Target_Stance_Detection.md)
-
-- [Enhancing Document-level Argument Extraction with Definition-augmented Heuristic-driven Prompting for LLMs](2024年08月30日/Enhancing_Document-level_Argument_Extraction_with_Definition-augmented_Heuristic-driven_Prompting_for_LLMs.md)
-
-    - [翻译: 利用定义增强的启发式驱动提示，提升 LLM 在文档级论点提取方面的表现](2024年08月30日/Enhancing_Document-level_Argument_Extraction_with_Definition-augmented_Heuristic-driven_Prompting_for_LLMs.md)
-
-- [Evaluating the Effectiveness of Large Language Models in Representing and Understanding Movement Trajectories](2024年08月30日/Evaluating_the_Effectiveness_of_Large_Language_Models_in_Representing_and_Understanding_Movement_Trajectories.md)
-
-    - [翻译: 探究大型语言模型在捕捉与理解运动轨迹方面的表现](2024年08月30日/Evaluating_the_Effectiveness_of_Large_Language_Models_in_Representing_and_Understanding_Movement_Trajectories.md)
-
 - [Reframing Data Value for Large Language Models Through the Lens of Plausability](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
 
     - [翻译: 从合理性角度重新审视大型语言模型的数据价值](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
@@ -95,18 +83,6 @@
 - [Text2Tradition: From Epistemological Tensions to AI-Mediated Cross-Cultural Co-Creation](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
 
     - [翻译: Text2Tradition：跨越认识论的紧张，迈向 AI 促进的跨文化共创之旅](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
-
-- [The creative psychometric item generator: a framework for item generation and validation using large language models](2024年08月30日/The_creative_psychometric_item_generator_a_framework_for_item_generation_and_validation_using_large_language_models.md)
-
-    - [翻译: 创意心理测量项目生成器：利用大型语言模型，构建项目生成与验证的框架](2024年08月30日/The_creative_psychometric_item_generator_a_framework_for_item_generation_and_validation_using_large_language_models.md)
-
-- [Unintentional Security Flaws in Code: Automated Defense via Root Cause Analysis](2024年08月30日/Unintentional_Security_Flaws_in_Code_Automated_Defense_via_Root_Cause_Analysis.md)
-
-    - [翻译: 代码中潜藏的安全漏洞，可通过根本原因分析实现自动化防御。](2024年08月30日/Unintentional_Security_Flaws_in_Code_Automated_Defense_via_Root_Cause_Analysis.md)
-
-- [WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction](2024年08月30日/WikiCausal_Corpus_and_Evaluation_Framework_for_Causal_Knowledge_Graph_Construction.md)
-
-    - [翻译: WikiCausal：构建因果知识图谱的语料库与评估框架](2024年08月30日/WikiCausal_Corpus_and_Evaluation_Framework_for_Causal_Knowledge_Graph_Construction.md)
 
 2024年08月05日
 
