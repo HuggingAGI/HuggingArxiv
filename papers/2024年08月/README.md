@@ -2,17 +2,9 @@
 
 2024年08月31日
 
-- [An Empirical Study on Information Extraction using Large Language Models](2024年08月31日/An_Empirical_Study_on_Information_Extraction_using_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型在信息提取领域的实证探索](2024年08月31日/An_Empirical_Study_on_Information_Extraction_using_Large_Language_Models.md)
-
 - [Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](2024年08月31日/Automatic_Pseudo-Harmful_Prompt_Generation_for_Evaluating_False_Refusals_in_Large_Language_Models.md)
 
     - [翻译: 本研究旨在通过自动生成伪有害提示，评估大型语言模型在处理错误拒绝时的表现。](2024年08月31日/Automatic_Pseudo-Harmful_Prompt_Generation_for_Evaluating_False_Refusals_in_Large_Language_Models.md)
-
-- [Chatting Up Attachment: Using LLMs to Predict Adult Bonds](2024年08月31日/Chatting_Up_Attachment_Using_LLMs_to_Predict_Adult_Bonds.md)
-
-    - [翻译: 通过 LLM 预测成人关系：探索聊天中的情感纽带](2024年08月31日/Chatting_Up_Attachment_Using_LLMs_to_Predict_Adult_Bonds.md)
 
 - [Compositional 3D-aware Video Generation with LLM Director](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
 
@@ -29,10 +21,6 @@
 - [DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module](2024年08月31日/DCIM-AVSR__Efficient_Audio-Visual_Speech_Recognition_via_Dual_Conformer_Interaction_Module.md)
 
     - [翻译: DCIM-AVSR：借助双Conformer交互模块，实现视听语音识别的高效处理](2024年08月31日/DCIM-AVSR__Efficient_Audio-Visual_Speech_Recognition_via_Dual_Conformer_Interaction_Module.md)
-
-- [Does Alignment Tuning Really Break LLMs' Internal Confidence?](2024年08月31日/Does_Alignment_Tuning_Really_Break_LLMs'_Internal_Confidence.md)
-
-    - [翻译: 对齐调优是否会动摇LLMs的内部信心？](2024年08月31日/Does_Alignment_Tuning_Really_Break_LLMs'_Internal_Confidence.md)
 
 - [Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs](2024年08月31日/Enhancing_Source_Code_Security_with_LLMs_Demystifying_The_Challenges_and_Generating_Reliable_Repairs.md)
 
@@ -62,10 +50,6 @@
 
     - [翻译: LongRecipe：大型语言模型中高效长上下文泛化的秘方](2024年08月31日/LongRecipe_Recipe_for_Efficient_Long_Context_Generalization_in_Large_Languge_Models.md)
 
-- [Multimodal Multi-turn Conversation Stance Detection: A Challenge Dataset and Effective Model](2024年08月31日/Multimodal_Multi-turn_Conversation_Stance_Detection_A_Challenge_Dataset_and_Effective_Model.md)
-
-    - [翻译: 多模态多轮对话立场检测：挑战数据集与高效模型](2024年08月31日/Multimodal_Multi-turn_Conversation_Stance_Detection_A_Challenge_Dataset_and_Effective_Model.md)
-
 - [Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness](2024年08月31日/Testing_and_Evaluation_of_Large_Language_Models_Correctness,_Non-Toxicity,_and_Fairness.md)
 
     - [翻译: 大型语言模型的测试与评估聚焦于正确性、非毒性和公平性。](2024年08月31日/Testing_and_Evaluation_of_Large_Language_Models_Correctness,_Non-Toxicity,_and_Fairness.md)
@@ -73,16 +57,6 @@
 - [YA-TA: Towards Personalized Question-Answering Teaching Assistants using Instructor-Student Dual Retrieval-augmented Knowledge Fusion](2024年08月31日/YA-TA_Towards_Personalized_Question-Answering_Teaching_Assistants_using_Instructor-Student_Dual_Retrieval-augmented_Knowledge_Fusion.md)
 
     - [翻译: YA-TA：通过教师与学生双重检索机制增强知识融合，打造个性化问答教学助手](2024年08月31日/YA-TA_Towards_Personalized_Question-Answering_Teaching_Assistants_using_Instructor-Student_Dual_Retrieval-augmented_Knowledge_Fusion.md)
-
-2024年08月30日
-
-- [Reframing Data Value for Large Language Models Through the Lens of Plausability](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
-
-    - [翻译: 从合理性角度重新审视大型语言模型的数据价值](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
-
-- [Text2Tradition: From Epistemological Tensions to AI-Mediated Cross-Cultural Co-Creation](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
-
-    - [翻译: Text2Tradition：跨越认识论的紧张，迈向 AI 促进的跨文化共创之旅](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
 
 2024年08月05日
 
