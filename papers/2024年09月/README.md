@@ -140,10 +140,6 @@
 
     - [翻译: 实现了一个狼人代理，它对大型语言模型持保留态度。](2024年09月02日/An_Implementation_of_Werewolf_Agent_That_does_not_Truly_Trust_LLMs.md)
 
-- [A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches](2024年09月02日/A_Review_of_Image_Retrieval_Techniques_Data_Augmentation_and_Adversarial_Learning_Approaches.md)
-
-    - [翻译: 探索图像检索技术：聚焦数据增强与对抗学习策略](2024年09月02日/A_Review_of_Image_Retrieval_Techniques_Data_Augmentation_and_Adversarial_Learning_Approaches.md)
-
 - [Automatic Detection of LLM-generated Code: A Case Study of Claude 3 Haiku](2024年09月02日/Automatic_Detection_of_LLM-generated_Code_A_Case_Study_of_Claude_3_Haiku.md)
 
     - [翻译: 自动识别 LLM 代码生成：Claude 3 俳句实证分析](2024年09月02日/Automatic_Detection_of_LLM-generated_Code_A_Case_Study_of_Claude_3_Haiku.md)
@@ -171,10 +167,6 @@
 - [CHESS: Optimizing LLM Inference via Channel-Wise Thresholding and Selective Sparsification](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
 
     - [翻译: CHESS：利用通道阈值化和选择性稀疏化技术，优化大型语言模型的推理性能。](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
-
-- [Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces](2024年09月02日/Co-Learning_Code_Learning_for_Multi-Agent_Reinforcement_Collaborative_Framework_with_Conversational_Natural_Language_Interfaces.md)
-
-    - [翻译: 协同学习：通过对话式自然语言接口，实现多智能体强化协作框架中的代码学习](2024年09月02日/Co-Learning_Code_Learning_for_Multi-Agent_Reinforcement_Collaborative_Framework_with_Conversational_Natural_Language_Interfaces.md)
 
 - [Conversational Complexity for Assessing Risk in Large Language Models](2024年09月02日/Conversational_Complexity_for_Assessing_Risk_in_Large_Language_Models.md)
 
@@ -288,14 +280,6 @@
 
     - [翻译: 在识别交通标志前，请三思：我们探讨了用于细粒度识别的大型多模态模型。](2024年09月02日/Think_Twice_Before_Recognizing_Large_Multimodal_Models_for_General_Fine-grained_Traffic_Sign_Recognition.md)
 
-- [Towards Cross-Lingual Explanation of Artwork in Large-scale Vision Language Models](2024年09月02日/Towards_Cross-Lingual_Explanation_of_Artwork_in_Large-scale_Vision_Language_Models.md)
-
-    - [翻译: 探索大型视觉语言模型中艺术品的跨语言阐释](2024年09月02日/Towards_Cross-Lingual_Explanation_of_Artwork_in_Large-scale_Vision_Language_Models.md)
-
-- [Towards General Industrial Intelligence: A Survey on IIoT-Enhanced Continual Large Models](2024年09月02日/Towards_General_Industrial_Intelligence_A_Survey_on_IIoT-Enhanced_Continual_Large_Models.md)
-
-    - [翻译: 探索通用工业智能：深入调查 IIoT 增强的持续大型模型](2024年09月02日/Towards_General_Industrial_Intelligence_A_Survey_on_IIoT-Enhanced_Continual_Large_Models.md)
-
 - [Understanding Multimodal Hallucination with Parameter-Free Representation Alignment](2024年09月02日/Understanding_Multimodal_Hallucination_with_Parameter-Free_Representation_Alignment.md)
 
     - [翻译: 探究多模态幻觉现象，通过无参数表示对齐技术深入理解](2024年09月02日/Understanding_Multimodal_Hallucination_with_Parameter-Free_Representation_Alignment.md)
@@ -315,13 +299,3 @@
 - [VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges](2024年09月02日/VideoLLaMB_Long-context_Video_Understanding_with_Recurrent_Memory_Bridges.md)
 
     - [翻译: VideoLLaMB：借助循环记忆桥实现长上下文视频理解](2024年09月02日/VideoLLaMB_Long-context_Video_Understanding_with_Recurrent_Memory_Bridges.md)
-
-2024年09月01日
-
-- [Self-evolving Agents with reflective and memory-augmented abilities](2024年09月01日/Self-evolving_Agents_with_reflective_and_memory-augmented_abilities.md)
-
-    - [翻译: 自我进化代理，具备反思与记忆强化能力](2024年09月01日/Self-evolving_Agents_with_reflective_and_memory-augmented_abilities.md)
-
-- [Who Would Chatbots Vote For? Political Preferences of ChatGPT and Gemini in the 2024 European Union Elections](2024年09月01日/Who_Would_Chatbots_Vote_For_Political_Preferences_of_ChatGPT_and_Gemini_in_the_2024_European_Union_Elections.md)
-
-    - [翻译: 聊天机器人会支持谁？探究 ChatGPT 与 Gemini 在 2024 欧盟选举中的政治倾向](2024年09月01日/Who_Would_Chatbots_Vote_For_Political_Preferences_of_ChatGPT_and_Gemini_in_the_2024_European_Union_Elections.md)
