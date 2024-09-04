@@ -318,33 +318,9 @@
 
 2024年09月01日
 
-- [A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine](2024年09月01日/A_Learnable_Agent_Collaboration_Network_Framework_for_Personalized_Multimodal_AI_Search_Engine.md)
-
-    - [翻译: 个性化多模态AI搜索引擎的可学习代理协作网络框架](2024年09月01日/A_Learnable_Agent_Collaboration_Network_Framework_for_Personalized_Multimodal_AI_Search_Engine.md)
-
-- [Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](2024年09月01日/Enhancing_Remote_Sensing_Vision-Language_Models_for_Zero-Shot_Scene_Classification.md)
-
-    - [翻译: 提升遥感视觉-语言模型，实现零-shot场景分类](2024年09月01日/Enhancing_Remote_Sensing_Vision-Language_Models_for_Zero-Shot_Scene_Classification.md)
-
-- [Fixing Code Generation Errors for Large Language Models](2024年09月01日/Fixing_Code_Generation_Errors_for_Large_Language_Models.md)
-
-    - [翻译: 解决大型语言模型中的代码生成问题](2024年09月01日/Fixing_Code_Generation_Errors_for_Large_Language_Models.md)
-
-- [LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs](2024年09月01日/LuWu_An_End-to-End_In-Network_Out-of-Core_Optimizer_for_100B-Scale_Model-in-Network_Data-Parallel_Training_on_Distributed_GPUs.md)
-
-    - [翻译: LuWu：一款端到端网络内核外优化工具，专为分布式GPU上的100亿级模型-网络数据并行训练设计。](2024年09月01日/LuWu_An_End-to-End_In-Network_Out-of-Core_Optimizer_for_100B-Scale_Model-in-Network_Data-Parallel_Training_on_Distributed_GPUs.md)
-
 - [Self-evolving Agents with reflective and memory-augmented abilities](2024年09月01日/Self-evolving_Agents_with_reflective_and_memory-augmented_abilities.md)
 
     - [翻译: 自我进化代理，具备反思与记忆强化能力](2024年09月01日/Self-evolving_Agents_with_reflective_and_memory-augmented_abilities.md)
-
-- [TinyAgent: Function Calling at the Edge](2024年09月01日/TinyAgent_Function_Calling_at_the_Edge.md)
-
-    - [翻译: TinyAgent：边缘环境下的函数调用技术](2024年09月01日/TinyAgent_Function_Calling_at_the_Edge.md)
-
-- [tl;dr: Chill, y'all: AI Will Not Devour SE](2024年09月01日/tl;dr_Chill,_y'all_AI_Will_Not_Devour_SE.md)
-
-    - [翻译: 别慌，AI 不会取代软件工程。](2024年09月01日/tl;dr_Chill,_y'all_AI_Will_Not_Devour_SE.md)
 
 - [Who Would Chatbots Vote For? Political Preferences of ChatGPT and Gemini in the 2024 European Union Elections](2024年09月01日/Who_Would_Chatbots_Vote_For_Political_Preferences_of_ChatGPT_and_Gemini_in_the_2024_European_Union_Elections.md)
 
