@@ -1,5 +1,187 @@
 # 2024年08月
 
+2024年08月31日
+
+- [An Empirical Study on Information Extraction using Large Language Models](2024年08月31日/An_Empirical_Study_on_Information_Extraction_using_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型在信息提取领域的实证探索](2024年08月31日/An_Empirical_Study_on_Information_Extraction_using_Large_Language_Models.md)
+
+- [Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](2024年08月31日/Automatic_Pseudo-Harmful_Prompt_Generation_for_Evaluating_False_Refusals_in_Large_Language_Models.md)
+
+    - [翻译: 本研究旨在通过自动生成伪有害提示，评估大型语言模型在处理错误拒绝时的表现。](2024年08月31日/Automatic_Pseudo-Harmful_Prompt_Generation_for_Evaluating_False_Refusals_in_Large_Language_Models.md)
+
+- [Chatting Up Attachment: Using LLMs to Predict Adult Bonds](2024年08月31日/Chatting_Up_Attachment_Using_LLMs_to_Predict_Adult_Bonds.md)
+
+    - [翻译: 用 LLM 预测成人关系：聊天中的情感纽带](2024年08月31日/Chatting_Up_Attachment_Using_LLMs_to_Predict_Adult_Bonds.md)
+
+- [Compositional 3D-aware Video Generation with LLM Director](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
+
+    - [翻译: LLM 导演下的组合式 3D 视频创作](2024年08月31日/Compositional_3D-aware_Video_Generation_with_LLM_Director.md)
+
+- [COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation](2024年08月31日/COSMo_CLIP_Talks_on_Open-Set_Multi-Target_Domain_Adaptation.md)
+
+    - [翻译: COSMo：探索 CLIP 在开放集多目标域适应中的应用](2024年08月31日/COSMo_CLIP_Talks_on_Open-Set_Multi-Target_Domain_Adaptation.md)
+
+- [Data Augmentation for Image Classification using Generative AI](2024年08月31日/Data_Augmentation_for_Image_Classification_using_Generative_AI.md)
+
+    - [翻译: 利用生成式AI技术，为图像分类任务进行数据增强](2024年08月31日/Data_Augmentation_for_Image_Classification_using_Generative_AI.md)
+
+- [DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module](2024年08月31日/DCIM-AVSR__Efficient_Audio-Visual_Speech_Recognition_via_Dual_Conformer_Interaction_Module.md)
+
+    - [翻译: DCIM-AVSR：借助双Conformer交互模块，实现视听语音识别的高效处理](2024年08月31日/DCIM-AVSR__Efficient_Audio-Visual_Speech_Recognition_via_Dual_Conformer_Interaction_Module.md)
+
+- [Does Alignment Tuning Really Break LLMs' Internal Confidence?](2024年08月31日/Does_Alignment_Tuning_Really_Break_LLMs'_Internal_Confidence.md)
+
+    - [翻译: 对齐调优是否会动摇LLMs的内部信心？](2024年08月31日/Does_Alignment_Tuning_Really_Break_LLMs'_Internal_Confidence.md)
+
+- [Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs](2024年08月31日/Enhancing_Source_Code_Security_with_LLMs_Demystifying_The_Challenges_and_Generating_Reliable_Repairs.md)
+
+    - [翻译: 借助大型语言模型提升源代码安全：解析难题，打造可靠修复方案](2024年08月31日/Enhancing_Source_Code_Security_with_LLMs_Demystifying_The_Challenges_and_Generating_Reliable_Repairs.md)
+
+- [FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model](2024年08月31日/FADE_Few-shotzero-shot_Anomaly_Detection_Engine_using_Large_Vision-Language_Model.md)
+
+    - [翻译: FADE：借助大型视觉-语言模型，实现少样本/零样本的异常检测引擎](2024年08月31日/FADE_Few-shotzero-shot_Anomaly_Detection_Engine_using_Large_Vision-Language_Model.md)
+
+- [GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
+
+    - [翻译: GenAI 驱动的多智能体范式在智能城市交通中的应用：探讨如何将 LLM 和 RAG 与智能交通系统结合，以及面临的机遇与挑战。](2024年08月31日/GenAI-powered_Multi-Agent_Paradigm_for_Smart_Urban_Mobility_Opportunities_and_Challenges_for_Integrating_Large_Language_Models_(LLMs)_and_Retrieval-Augmented_Generation_(RAG)_with_Intelligent_Transportation_Systems.md)
+
+- [How Does Diverse Interpretability of Textual Prompts Impact Medical Vision-Language Zero-Shot Tasks?](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
+
+    - [翻译: 文本提示的多样化解释对医学视觉-语言零-shot 任务有何影响？](2024年08月31日/How_Does_Diverse_Interpretability_of_Textual_Prompts_Impact_Medical_Vision-Language_Zero-Shot_Tasks.md)
+
+- [Large Language Models-Enabled Digital Twins for Precision Medicine in Rare Gynecological Tumors](2024年08月31日/Large_Language_Models-Enabled_Digital_Twins_for_Precision_Medicine_in_Rare_Gynecological_Tumors.md)
+
+    - [翻译: 大型语言模型助力数字孪生，精准医疗罕见妇科肿瘤](2024年08月31日/Large_Language_Models-Enabled_Digital_Twins_for_Precision_Medicine_in_Rare_Gynecological_Tumors.md)
+
+- [Learning to Ask: When LLMs Meet Unclear Instruction](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
+
+    - [翻译: 学习提问：LLM 面对模糊指令的挑战](2024年08月31日/Learning_to_Ask_When_LLMs_Meet_Unclear_Instruction.md)
+
+- [LongRecipe: Recipe for Efficient Long Context Generalization in Large Languge Models](2024年08月31日/LongRecipe_Recipe_for_Efficient_Long_Context_Generalization_in_Large_Languge_Models.md)
+
+    - [翻译: LongRecipe：大型语言模型中高效长上下文泛化的秘方](2024年08月31日/LongRecipe_Recipe_for_Efficient_Long_Context_Generalization_in_Large_Languge_Models.md)
+
+- [Multimodal Multi-turn Conversation Stance Detection: A Challenge Dataset and Effective Model](2024年08月31日/Multimodal_Multi-turn_Conversation_Stance_Detection_A_Challenge_Dataset_and_Effective_Model.md)
+
+    - [翻译: 多模态多轮对话立场检测：挑战数据集与高效模型](2024年08月31日/Multimodal_Multi-turn_Conversation_Stance_Detection_A_Challenge_Dataset_and_Effective_Model.md)
+
+- [Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness](2024年08月31日/Testing_and_Evaluation_of_Large_Language_Models_Correctness,_Non-Toxicity,_and_Fairness.md)
+
+    - [翻译: 大型语言模型的测试与评估聚焦于正确性、非毒性和公平性。](2024年08月31日/Testing_and_Evaluation_of_Large_Language_Models_Correctness,_Non-Toxicity,_and_Fairness.md)
+
+- [YA-TA: Towards Personalized Question-Answering Teaching Assistants using Instructor-Student Dual Retrieval-augmented Knowledge Fusion](2024年08月31日/YA-TA_Towards_Personalized_Question-Answering_Teaching_Assistants_using_Instructor-Student_Dual_Retrieval-augmented_Knowledge_Fusion.md)
+
+    - [翻译: YA-TA：通过教师与学生双重检索机制增强知识融合，打造个性化问答教学助手](2024年08月31日/YA-TA_Towards_Personalized_Question-Answering_Teaching_Assistants_using_Instructor-Student_Dual_Retrieval-augmented_Knowledge_Fusion.md)
+
+2024年08月30日
+
+- [Aligning Medical Images with General Knowledge from Large Language Models](2024年08月30日/Aligning_Medical_Images_with_General_Knowledge_from_Large_Language_Models.md)
+
+    - [翻译: 将医学图像与大型语言模型的通用知识相匹配](2024年08月30日/Aligning_Medical_Images_with_General_Knowledge_from_Large_Language_Models.md)
+
+- [Benchmarking the Performance of Large Language Models on the Cerebras Wafer Scale Engine](2024年08月30日/Benchmarking_the_Performance_of_Large_Language_Models_on_the_Cerebras_Wafer_Scale_Engine.md)
+
+    - [翻译: 大型语言模型在 Cerebras Wafer Scale Engine 上的性能基准测试](2024年08月30日/Benchmarking_the_Performance_of_Large_Language_Models_on_the_Cerebras_Wafer_Scale_Engine.md)
+
+- [Can Large Language Models Address Open-Target Stance Detection?](2024年08月30日/Can_Large_Language_Models_Address_Open-Target_Stance_Detection.md)
+
+    - [翻译: 大型语言模型能否应对开放目标的立场检测挑战？](2024年08月30日/Can_Large_Language_Models_Address_Open-Target_Stance_Detection.md)
+
+- [Enhancing Document-level Argument Extraction with Definition-augmented Heuristic-driven Prompting for LLMs](2024年08月30日/Enhancing_Document-level_Argument_Extraction_with_Definition-augmented_Heuristic-driven_Prompting_for_LLMs.md)
+
+    - [翻译: 利用定义增强的启发式驱动提示，提升 LLM 在文档级论点提取方面的表现](2024年08月30日/Enhancing_Document-level_Argument_Extraction_with_Definition-augmented_Heuristic-driven_Prompting_for_LLMs.md)
+
+- [Enhancing Event Reasoning in Large Language Models through Instruction Fine-Tuning with Semantic Causal Graphs](2024年08月30日/Enhancing_Event_Reasoning_in_Large_Language_Models_through_Instruction_Fine-Tuning_with_Semantic_Causal_Graphs.md)
+
+    - [翻译: 借助语义因果图的指令微调，提升大型语言模型的事件推理能力](2024年08月30日/Enhancing_Event_Reasoning_in_Large_Language_Models_through_Instruction_Fine-Tuning_with_Semantic_Causal_Graphs.md)
+
+- [Evaluating the Effectiveness of Large Language Models in Representing and Understanding Movement Trajectories](2024年08月30日/Evaluating_the_Effectiveness_of_Large_Language_Models_in_Representing_and_Understanding_Movement_Trajectories.md)
+
+    - [翻译: 探究大型语言模型在捕捉与理解运动轨迹方面的表现](2024年08月30日/Evaluating_the_Effectiveness_of_Large_Language_Models_in_Representing_and_Understanding_Movement_Trajectories.md)
+
+- [From Prediction to Application: Language Model-based Code Knowledge Tracing with Domain Adaptive Pre-Training and Automatic Feedback System with Pedagogical Prompting for Comprehensive Programming Education](2024年08月30日/From_Prediction_to_Application_Language_Model-based_Code_Knowledge_Tracing_with_Domain_Adaptive_Pre-Training_and_Automatic_Feedback_System_with_Pedagogical_Prompting_for_Comprehensive_Programming_Education.md)
+
+    - [翻译: 基于语言模型的代码知识追踪，通过领域自适应预训练和自动反馈系统，辅以教学提示，旨在推动全面的编程教育发展。](2024年08月30日/From_Prediction_to_Application_Language_Model-based_Code_Knowledge_Tracing_with_Domain_Adaptive_Pre-Training_and_Automatic_Feedback_System_with_Pedagogical_Prompting_for_Comprehensive_Programming_Education.md)
+
+- [Leveraging a Cognitive Model to Measure Subjective Similarity of Human and GPT-4 Written Content](2024年08月30日/Leveraging_a_Cognitive_Model_to_Measure_Subjective_Similarity_of_Human_and_GPT-4_Written_Content.md)
+
+    - [翻译: 借助认知模型，我们探究人类与 GPT-4 创作内容的主观相似度。](2024年08月30日/Leveraging_a_Cognitive_Model_to_Measure_Subjective_Similarity_of_Human_and_GPT-4_Written_Content.md)
+
+- [ProGRes: Prompted Generative Rescoring on ASR n-Best](2024年08月30日/ProGRes_Prompted_Generative_Rescoring_on_ASR_n-Best.md)
+
+    - [翻译: ProGRes：针对 ASR n-Best 列表的提示生成重评分技术](2024年08月30日/ProGRes_Prompted_Generative_Rescoring_on_ASR_n-Best.md)
+
+- [Reframing Data Value for Large Language Models Through the Lens of Plausability](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
+
+    - [翻译: 从合理性角度重新审视大型语言模型的数据价值](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
+
+- [Sequence to Sequence Reward Modeling: Improving RLHF by Language Feedback](2024年08月30日/Sequence_to_Sequence_Reward_Modeling_Improving_RLHF_by_Language_Feedback.md)
+
+    - [翻译: 序列到序列奖励建模：借助语言反馈优化 RLHF](2024年08月30日/Sequence_to_Sequence_Reward_Modeling_Improving_RLHF_by_Language_Feedback.md)
+
+- [StimuVAR: Spatiotemporal Stimuli-aware Video Affective Reasoning with Multimodal Large Language Models](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
+
+    - [翻译: StimuVAR：通过多模态大型语言模型，实现对时空刺激感知的视频情感推理](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
+
+- [Text2Tradition: From Epistemological Tensions to AI-Mediated Cross-Cultural Co-Creation](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
+
+    - [翻译: Text2Tradition：跨越认识论的紧张，迈向 AI 促进的跨文化共创之旅](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
+
+- [The creative psychometric item generator: a framework for item generation and validation using large language models](2024年08月30日/The_creative_psychometric_item_generator_a_framework_for_item_generation_and_validation_using_large_language_models.md)
+
+    - [翻译: 创意心理测量项目生成器：利用大型语言模型，构建项目生成与验证的框架](2024年08月30日/The_creative_psychometric_item_generator_a_framework_for_item_generation_and_validation_using_large_language_models.md)
+
+- [Unintentional Security Flaws in Code: Automated Defense via Root Cause Analysis](2024年08月30日/Unintentional_Security_Flaws_in_Code_Automated_Defense_via_Root_Cause_Analysis.md)
+
+    - [翻译: 代码中潜藏的安全漏洞，可通过根本原因分析实现自动化防御。](2024年08月30日/Unintentional_Security_Flaws_in_Code_Automated_Defense_via_Root_Cause_Analysis.md)
+
+- [WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction](2024年08月30日/WikiCausal_Corpus_and_Evaluation_Framework_for_Causal_Knowledge_Graph_Construction.md)
+
+    - [翻译: WikiCausal：构建因果知识图谱的语料库与评估框架](2024年08月30日/WikiCausal_Corpus_and_Evaluation_Framework_for_Causal_Knowledge_Graph_Construction.md)
+
+2024年08月29日
+
+- [Dynamic Depth Decoding: Faster Speculative Decoding for LLMs](2024年08月29日/Dynamic_Depth_Decoding_Faster_Speculative_Decoding_for_LLMs.md)
+
+    - [翻译: 动态深度解码技术，旨在为大型语言模型加速推测性解码过程。](2024年08月29日/Dynamic_Depth_Decoding_Faster_Speculative_Decoding_for_LLMs.md)
+
+- [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](2024年08月29日/HoneyComb_A_Flexible_LLM-Based_Agent_System_for_Materials_Science.md)
+
+    - [翻译: HoneyComb：一款灵活的基于LLM的材料科学代理系统](2024年08月29日/HoneyComb_A_Flexible_LLM-Based_Agent_System_for_Materials_Science.md)
+
+2024年08月27日
+
+- [Modelisation a base d'Agent Augmentes par LLM pour les Simulations Sociales: Defis et Opportunites](2024年08月27日/Modelisation_a_base_d'Agent_Augmentes_par_LLM_pour_les_Simulations_Sociales_Defis_et_Opportunites.md)
+
+    - [翻译: 利用LLM增强代理进行社交模拟建模：探索挑战与机遇](2024年08月27日/Modelisation_a_base_d'Agent_Augmentes_par_LLM_pour_les_Simulations_Sociales_Defis_et_Opportunites.md)
+
+2024年08月26日
+
+- [Evaluating ChatGPT on Nuclear Domain-Specific Data](2024年08月26日/Evaluating_ChatGPT_on_Nuclear_Domain-Specific_Data.md)
+
+    - [翻译: 探究 ChatGPT 在核领域数据上的性能表现](2024年08月26日/Evaluating_ChatGPT_on_Nuclear_Domain-Specific_Data.md)
+
+- [Watermarking Techniques for Large Language Models: A Survey](2024年08月26日/Watermarking_Techniques_for_Large_Language_Models_A_Survey.md)
+
+    - [翻译: 大语言模型水印技术综述](2024年08月26日/Watermarking_Techniques_for_Large_Language_Models_A_Survey.md)
+
+2024年08月24日
+
+- [Enhancing the Interpretability of SHAP Values Using Large Language Models](2024年08月24日/Enhancing_the_Interpretability_of_SHAP_Values_Using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型提升 SHAP 值的解释力](2024年08月24日/Enhancing_the_Interpretability_of_SHAP_Values_Using_Large_Language_Models.md)
+
+- [Towards Human-Level Understanding of Complex Process Engineering Schematics: A Pedagogical, Introspective Multi-Agent Framework for Open-Domain Question Answering](2024年08月24日/Towards_Human-Level_Understanding_of_Complex_Process_Engineering_Schematics_A_Pedagogical,_Introspective_Multi-Agent_Framework_for_Open-Domain_Question_Answering.md)
+
+    - [翻译: 探索复杂过程工程示意图的人类级理解：一个结合教学与内省的多智能体框架，专为开放领域问答设计](2024年08月24日/Towards_Human-Level_Understanding_of_Complex_Process_Engineering_Schematics_A_Pedagogical,_Introspective_Multi-Agent_Framework_for_Open-Domain_Question_Answering.md)
+
+2024年08月18日
+
+- [AI based Multiagent Approach for Requirements Elicitation and Analysis](2024年08月18日/AI_based_Multiagent_Approach_for_Requirements_Elicitation_and_Analysis.md)
+
+    - [翻译: 基于人工智能的多代理需求获取与分析方法](2024年08月18日/AI_based_Multiagent_Approach_for_Requirements_Elicitation_and_Analysis.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
