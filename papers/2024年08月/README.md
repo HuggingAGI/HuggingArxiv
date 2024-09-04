@@ -76,10 +76,6 @@
 
 2024年08月30日
 
-- [Benchmarking the Performance of Large Language Models on the Cerebras Wafer Scale Engine](2024年08月30日/Benchmarking_the_Performance_of_Large_Language_Models_on_the_Cerebras_Wafer_Scale_Engine.md)
-
-    - [翻译: 大型语言模型在 Cerebras Wafer Scale Engine 上的性能基准测试](2024年08月30日/Benchmarking_the_Performance_of_Large_Language_Models_on_the_Cerebras_Wafer_Scale_Engine.md)
-
 - [Can Large Language Models Address Open-Target Stance Detection?](2024年08月30日/Can_Large_Language_Models_Address_Open-Target_Stance_Detection.md)
 
     - [翻译: 大型语言模型能否应对开放目标的立场检测挑战？](2024年08月30日/Can_Large_Language_Models_Address_Open-Target_Stance_Detection.md)
@@ -92,29 +88,9 @@
 
     - [翻译: 探究大型语言模型在捕捉与理解运动轨迹方面的表现](2024年08月30日/Evaluating_the_Effectiveness_of_Large_Language_Models_in_Representing_and_Understanding_Movement_Trajectories.md)
 
-- [From Prediction to Application: Language Model-based Code Knowledge Tracing with Domain Adaptive Pre-Training and Automatic Feedback System with Pedagogical Prompting for Comprehensive Programming Education](2024年08月30日/From_Prediction_to_Application_Language_Model-based_Code_Knowledge_Tracing_with_Domain_Adaptive_Pre-Training_and_Automatic_Feedback_System_with_Pedagogical_Prompting_for_Comprehensive_Programming_Education.md)
-
-    - [翻译: 基于语言模型的代码知识追踪，通过领域自适应预训练和自动反馈系统，辅以教学提示，旨在推动全面的编程教育发展。](2024年08月30日/From_Prediction_to_Application_Language_Model-based_Code_Knowledge_Tracing_with_Domain_Adaptive_Pre-Training_and_Automatic_Feedback_System_with_Pedagogical_Prompting_for_Comprehensive_Programming_Education.md)
-
-- [Leveraging a Cognitive Model to Measure Subjective Similarity of Human and GPT-4 Written Content](2024年08月30日/Leveraging_a_Cognitive_Model_to_Measure_Subjective_Similarity_of_Human_and_GPT-4_Written_Content.md)
-
-    - [翻译: 借助认知模型，我们探究人类与 GPT-4 创作内容的主观相似度。](2024年08月30日/Leveraging_a_Cognitive_Model_to_Measure_Subjective_Similarity_of_Human_and_GPT-4_Written_Content.md)
-
-- [ProGRes: Prompted Generative Rescoring on ASR n-Best](2024年08月30日/ProGRes_Prompted_Generative_Rescoring_on_ASR_n-Best.md)
-
-    - [翻译: ProGRes：针对 ASR n-Best 列表的提示生成重评分技术](2024年08月30日/ProGRes_Prompted_Generative_Rescoring_on_ASR_n-Best.md)
-
 - [Reframing Data Value for Large Language Models Through the Lens of Plausability](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
 
     - [翻译: 从合理性角度重新审视大型语言模型的数据价值](2024年08月30日/Reframing_Data_Value_for_Large_Language_Models_Through_the_Lens_of_Plausability.md)
-
-- [Sequence to Sequence Reward Modeling: Improving RLHF by Language Feedback](2024年08月30日/Sequence_to_Sequence_Reward_Modeling_Improving_RLHF_by_Language_Feedback.md)
-
-    - [翻译: 序列到序列奖励建模：借助语言反馈优化 RLHF](2024年08月30日/Sequence_to_Sequence_Reward_Modeling_Improving_RLHF_by_Language_Feedback.md)
-
-- [StimuVAR: Spatiotemporal Stimuli-aware Video Affective Reasoning with Multimodal Large Language Models](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
-
-    - [翻译: StimuVAR：通过多模态大型语言模型实现时空感知刺激的视频情感推理](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
 
 - [Text2Tradition: From Epistemological Tensions to AI-Mediated Cross-Cultural Co-Creation](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
 
