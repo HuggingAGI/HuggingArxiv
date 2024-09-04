@@ -122,7 +122,7 @@
 
 - [StimuVAR: Spatiotemporal Stimuli-aware Video Affective Reasoning with Multimodal Large Language Models](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
 
-    - [翻译: StimuVAR：结合多模态大型语言模型，实现对视频中时空感知刺激的情感推理](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
+    - [翻译: StimuVAR：通过多模态大型语言模型实现时空感知刺激的视频情感推理](2024年08月30日/StimuVAR_Spatiotemporal_Stimuli-aware_Video_Affective_Reasoning_with_Multimodal_Large_Language_Models.md)
 
 - [Text2Tradition: From Epistemological Tensions to AI-Mediated Cross-Cultural Co-Creation](2024年08月30日/Text2Tradition_From_Epistemological_Tensions_to_AI-Mediated_Cross-Cultural_Co-Creation.md)
 
@@ -139,22 +139,6 @@
 - [WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction](2024年08月30日/WikiCausal_Corpus_and_Evaluation_Framework_for_Causal_Knowledge_Graph_Construction.md)
 
     - [翻译: WikiCausal：构建因果知识图谱的语料库与评估框架](2024年08月30日/WikiCausal_Corpus_and_Evaluation_Framework_for_Causal_Knowledge_Graph_Construction.md)
-
-2024年08月29日
-
-- [Dynamic Depth Decoding: Faster Speculative Decoding for LLMs](2024年08月29日/Dynamic_Depth_Decoding_Faster_Speculative_Decoding_for_LLMs.md)
-
-    - [翻译: 动态深度解码技术，旨在为大型语言模型加速推测性解码过程。](2024年08月29日/Dynamic_Depth_Decoding_Faster_Speculative_Decoding_for_LLMs.md)
-
-- [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](2024年08月29日/HoneyComb_A_Flexible_LLM-Based_Agent_System_for_Materials_Science.md)
-
-    - [翻译: HoneyComb：一款灵活的基于LLM的代理系统，专为材料科学领域设计。](2024年08月29日/HoneyComb_A_Flexible_LLM-Based_Agent_System_for_Materials_Science.md)
-
-2024年08月27日
-
-- [Modelisation a base d'Agent Augmentes par LLM pour les Simulations Sociales: Defis et Opportunites](2024年08月27日/Modelisation_a_base_d'Agent_Augmentes_par_LLM_pour_les_Simulations_Sociales_Defis_et_Opportunites.md)
-
-    - [翻译: 利用LLM增强代理进行社交模拟建模：探索挑战与机遇](2024年08月27日/Modelisation_a_base_d'Agent_Augmentes_par_LLM_pour_les_Simulations_Sociales_Defis_et_Opportunites.md)
 
 2024年08月05日
 
