@@ -180,17 +180,9 @@
 
     - [翻译: FuzzCoder：利用大型语言模型实现字节级模糊测试](2024年09月03日/FuzzCoder_Byte-level_Fuzzing_Test_via_Large_Language_Model.md)
 
-- [How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?](2024年09月03日/How_to_Determine_the_Preferred_Image_Distribution_of_a_Black-Box_Vision-Language_Model.md)
-
-    - [翻译: 怎样找出黑箱视觉-语言模型偏好的图像分布？](2024年09月03日/How_to_Determine_the_Preferred_Image_Distribution_of_a_Black-Box_Vision-Language_Model.md)
-
 - [In Defense of RAG in the Era of Long-Context Language Models](2024年09月03日/In_Defense_of_RAG_in_the_Era_of_Long-Context_Language_Models.md)
 
     - [翻译: 在长上下文语言模型盛行的当下，我们为 RAG 正名。](2024年09月03日/In_Defense_of_RAG_in_the_Era_of_Long-Context_Language_Models.md)
-
-- [Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System](2024年09月03日/Initial_Development_and_Evaluation_of_the_Creative_Artificial_Intelligence_through_Recurring_Developments_and_Determinations_(CAIRDD)_System.md)
-
-    - [翻译: CAIRDD 系统：创意人工智能的迭代开发与决策的初步探索与评估](2024年09月03日/Initial_Development_and_Evaluation_of_the_Creative_Artificial_Intelligence_through_Recurring_Developments_and_Determinations_(CAIRDD)_System.md)
 
 - [Interpreting and Improving Large Language Models in Arithmetic Calculation](2024年09月03日/Interpreting_and_Improving_Large_Language_Models_in_Arithmetic_Calculation.md)
 
@@ -212,21 +204,9 @@
 
     - [翻译: LASP：探索大规模语言模型在人工智能规划中的最新技术进展](2024年09月03日/LASP_Surveying_the_State-of-the-Art_in_Large_Language_Model-Assisted_AI_Planning.md)
 
-- [LLM-GAN: Construct Generative Adversarial Network Through Large Language Models For Explainable Fake News Detection](2024年09月03日/LLM-GAN_Construct_Generative_Adversarial_Network_Through_Large_Language_Models_For_Explainable_Fake_News_Detection.md)
-
-    - [翻译: LLM-GAN：利用大型语言模型构建生成对抗网络，旨在提升假新闻检测的可解释性。](2024年09月03日/LLM-GAN_Construct_Generative_Adversarial_Network_Through_Large_Language_Models_For_Explainable_Fake_News_Detection.md)
-
 - [LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models](2024年09月03日/LUK_Empowering_Log_Understanding_with_Expert_Knowledge_from_Large_Language_Models.md)
 
     - [翻译: LUK：借助大型语言模型中的专家知识，提升日志理解效能](2024年09月03日/LUK_Empowering_Log_Understanding_with_Expert_Knowledge_from_Large_Language_Models.md)
-
-- [MOSMOS: Multi-organ segmentation facilitated by medical report supervision](2024年09月03日/MOSMOS_Multi-organ_segmentation_facilitated_by_medical_report_supervision.md)
-
-    - [翻译: MOSMOS：借助医学报告监督实现的多器官分割技术](2024年09月03日/MOSMOS_Multi-organ_segmentation_facilitated_by_medical_report_supervision.md)
-
-- [NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval](2024年09月03日/NUDGE_Lightweight_Non-Parametric_Fine-Tuning_of_Embeddings_for_Retrieval.md)
-
-    - [翻译: NUDGE：为检索任务提供轻量级、非参数化的嵌入微调方案。](2024年09月03日/NUDGE_Lightweight_Non-Parametric_Fine-Tuning_of_Embeddings_for_Retrieval.md)
 
 - [Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment](2024年09月03日/Optimizing_CLIP_Models_for_Image_Retrieval_with_Maintained_Joint-Embedding_Alignment.md)
 
@@ -251,10 +231,6 @@
 - [Spinning the Golden Thread: Benchmarking Long-Form Generation in Language Models](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
 
     - [翻译: 金线旋舞：语言模型长篇生成的基准测试](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
-
-- [Therapy as an NLP Task: Psychologists' Comparison of LLMs and Human Peers in CBT](2024年09月03日/Therapy_as_an_NLP_Task_Psychologists'_Comparison_of_LLMs_and_Human_Peers_in_CBT.md)
-
-    - [翻译: 治疗作为 NLP 任务：心理学家在认知行为疗法中比较 LLM 与人类同行的表现](2024年09月03日/Therapy_as_an_NLP_Task_Psychologists'_Comparison_of_LLMs_and_Human_Peers_in_CBT.md)
 
 - [The Role of Large Language Models in Musicology: Are We Ready to Trust the Machines?](2024年09月03日/The_Role_of_Large_Language_Models_in_Musicology_Are_We_Ready_to_Trust_the_Machines.md)
 
