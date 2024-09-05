@@ -124,17 +124,9 @@
 
 2024年09月02日
 
-- [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](2024年09月02日/AdaComp_Extractive_Context_Compression_with_Adaptive_Predictor_for_Retrieval-Augmented_Large_Language_Models.md)
-
-    - [翻译: AdaComp：通过自适应预测器实现提取上下文压缩，专为增强检索功能的大型语言模型设计。](2024年09月02日/AdaComp_Extractive_Context_Compression_with_Adaptive_Predictor_for_Retrieval-Augmented_Large_Language_Models.md)
-
 - [A Framework for Synthetic Audio Conversations Generation using Large Language Models](2024年09月02日/A_Framework_for_Synthetic_Audio_Conversations_Generation_using_Large_Language_Models.md)
 
     - [翻译: 基于大型语言模型的合成音频对话生成框架](2024年09月02日/A_Framework_for_Synthetic_Audio_Conversations_Generation_using_Large_Language_Models.md)
-
-- [An Implementation of Werewolf Agent That does not Truly Trust LLMs](2024年09月02日/An_Implementation_of_Werewolf_Agent_That_does_not_Truly_Trust_LLMs.md)
-
-    - [翻译: 实现了一个狼人代理，它对大型语言模型持保留态度。](2024年09月02日/An_Implementation_of_Werewolf_Agent_That_does_not_Truly_Trust_LLMs.md)
 
 - [Automatic Detection of LLM-generated Code: A Case Study of Claude 3 Haiku](2024年09月02日/Automatic_Detection_of_LLM-generated_Code_A_Case_Study_of_Claude_3_Haiku.md)
 
@@ -172,10 +164,6 @@
 
     - [翻译: Duplex 是一款专为大型语言模型设计的设备，集成了专家混合、分组查询注意力和连续批处理技术，以提升模型性能。](2024年09月02日/Duplex_A_Device_for_Large_Language_Models_with_Mixture_of_Experts,_Grouped_Query_Attention,_and_Continuous_Batching.md)
 
-- [Evolution of Social Norms in LLM Agents using Natural Language](2024年09月02日/Evolution_of_Social_Norms_in_LLM_Agents_using_Natural_Language.md)
-
-    - [翻译: LLM 代理通过自然语言实现社会规范的进化](2024年09月02日/Evolution_of_Social_Norms_in_LLM_Agents_using_Natural_Language.md)
-
 - [FlashFlex: Accommodating Large Language Model Training over Heterogeneous Environment](2024年09月02日/FlashFlex_Accommodating_Large_Language_Model_Training_over_Heterogeneous_Environment.md)
 
     - [翻译: FlashFlex：在异构环境中优化大型语言模型训练](2024年09月02日/FlashFlex_Accommodating_Large_Language_Model_Training_over_Heterogeneous_Environment.md)
@@ -212,10 +200,6 @@
 
     - [翻译: NYK-MS：一款精心标注的卡通字幕数据集，专为多模态隐喻与讽刺理解而设的基准测试](2024年09月02日/NYK-MS_A_Well-annotated_Multi-modal_Metaphor_and_Sarcasm_Understanding_Benchmark_on_Cartoon-Caption_Dataset.md)
 
-- [PoliPrompt: A High-Performance Cost-Effective LLM-Based Text Classification Framework for Political Science](2024年09月02日/PoliPrompt_A_High-Performance_Cost-Effective_LLM-Based_Text_Classification_Framework_for_Political_Science.md)
-
-    - [翻译: PoliPrompt：一款高效且经济的 LLM 文本分类框架，专为政治科学领域设计。](2024年09月02日/PoliPrompt_A_High-Performance_Cost-Effective_LLM-Based_Text_Classification_Framework_for_Political_Science.md)
-
 - [Pre-Trained Language Models for Keyphrase Prediction: A Review](2024年09月02日/Pre-Trained_Language_Models_for_Keyphrase_Prediction_A_Review.md)
 
     - [翻译: 预训练语言模型在关键词预测领域的综述](2024年09月02日/Pre-Trained_Language_Models_for_Keyphrase_Prediction_A_Review.md)
@@ -224,10 +208,6 @@
 
     - [翻译: 通过上下文感知句子编码实现提示压缩，加速并提升 LLM 推理性能](2024年09月02日/Prompt_Compression_with_Context-Aware_Sentence_Encoding_for_Fast_and_Improved_LLM_Inference.md)
 
-- [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](2024年09月02日/Recoverable_Compression_A_Multimodal_Vision_Token_Recovery_Mechanism_Guided_by_Text_Information.md)
-
-    - [翻译: 可恢复压缩机制：借助文本信息，实现多模态视觉令牌的精准恢复。](2024年09月02日/Recoverable_Compression_A_Multimodal_Vision_Token_Recovery_Mechanism_Guided_by_Text_Information.md)
-
 - [S$^3$c-Math: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners](2024年09月02日/S$^3$c-Math_Spontaneous_Step-level_Self-correction_Makes_Large_Language_Models_Better_Mathematical_Reasoners.md)
 
     - [翻译: S$^3$c-Math：通过自发的步骤级自我修正，大型语言模型在数学推理方面表现更佳。](2024年09月02日/S$^3$c-Math_Spontaneous_Step-level_Self-correction_Makes_Large_Language_Models_Better_Mathematical_Reasoners.md)
@@ -235,10 +215,6 @@
 - [SCOPE: Sign Language Contextual Processing with Embedding from LLMs](2024年09月02日/SCOPE_Sign_Language_Contextual_Processing_with_Embedding_from_LLMs.md)
 
     - [翻译: SCOPE：利用 LLM 嵌入技术进行手语上下文处理](2024年09月02日/SCOPE_Sign_Language_Contextual_Processing_with_Embedding_from_LLMs.md)
-
-- [Self-Instructed Derived Prompt Generation Meets In-Context Learning: Unlocking New Potential of Black-Box LLMs](2024年09月02日/Self-Instructed_Derived_Prompt_Generation_Meets_In-Context_Learning_Unlocking_New_Potential_of_Black-Box_LLMs.md)
-
-    - [翻译: 自我指导派生提示与上下文学习相结合，为黑盒 LLM 开辟新天地。](2024年09月02日/Self-Instructed_Derived_Prompt_Generation_Meets_In-Context_Learning_Unlocking_New_Potential_of_Black-Box_LLMs.md)
 
 - [Self-Judge: Selective Instruction Following with Alignment Self-Evaluation](2024年09月02日/Self-Judge_Selective_Instruction_Following_with_Alignment_Self-Evaluation.md)
 
