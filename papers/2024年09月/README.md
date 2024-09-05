@@ -330,10 +330,6 @@
 
 2024年09月02日
 
-- [Automatic Detection of LLM-generated Code: A Case Study of Claude 3 Haiku](2024年09月02日/Automatic_Detection_of_LLM-generated_Code_A_Case_Study_of_Claude_3_Haiku.md)
-
-    - [翻译: 自动识别 LLM 代码生成：Claude 3 俳句实证分析](2024年09月02日/Automatic_Detection_of_LLM-generated_Code_A_Case_Study_of_Claude_3_Haiku.md)
-
 - [Benchmarking Cognitive Domains for LLMs: Insights from Taiwanese Hakka Culture](2024年09月02日/Benchmarking_Cognitive_Domains_for_LLMs_Insights_from_Taiwanese_Hakka_Culture.md)
 
     - [翻译: 探索 LLM 认知领域：台湾客家文化的启示](2024年09月02日/Benchmarking_Cognitive_Domains_for_LLMs_Insights_from_Taiwanese_Hakka_Culture.md)
@@ -362,21 +358,9 @@
 
     - [翻译: FlashFlex：在异构环境中优化大型语言模型训练](2024年09月02日/FlashFlex_Accommodating_Large_Language_Model_Training_over_Heterogeneous_Environment.md)
 
-- [Grounding Language Models in Autonomous Loco-manipulation Tasks](2024年09月02日/Grounding_Language_Models_in_Autonomous_Loco-manipulation_Tasks.md)
-
-    - [翻译: 将语言模型锚定于自主定位与操作任务中](2024年09月02日/Grounding_Language_Models_in_Autonomous_Loco-manipulation_Tasks.md)
-
-- [Imitating Language via Scalable Inverse Reinforcement Learning](2024年09月02日/Imitating_Language_via_Scalable_Inverse_Reinforcement_Learning.md)
-
-    - [翻译: 借助可扩展的逆强化学习技术，实现语言的模仿](2024年09月02日/Imitating_Language_via_Scalable_Inverse_Reinforcement_Learning.md)
-
 - [Large Language Models versus Classical Machine Learning: Performance in COVID-19 Mortality Prediction Using High-Dimensional Tabular Data](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
 
     - [翻译: 大型语言模型对决经典机器学习：高维表格数据在 COVID-19 死亡率预测中的表现](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
-
-- [LATEX-GCL: Large Language Models (LLMs)-Based Data Augmentation for Text-Attributed Graph Contrastive Learning](2024年09月02日/LATEX-GCL_Large_Language_Models_(LLMs)-Based_Data_Augmentation_for_Text-Attributed_Graph_Contrastive_Learning.md)
-
-    - [翻译: LATEX-GCL：利用 LLM 进行数据增强，应用于文本属性图的对比学习](2024年09月02日/LATEX-GCL_Large_Language_Models_(LLMs)-Based_Data_Augmentation_for_Text-Attributed_Graph_Contrastive_Learning.md)
 
 - [Membership Inference Attacks Against In-Context Learning](2024年09月02日/Membership_Inference_Attacks_Against_In-Context_Learning.md)
 
@@ -405,10 +389,6 @@
 - [Think Twice Before Recognizing: Large Multimodal Models for General Fine-grained Traffic Sign Recognition](2024年09月02日/Think_Twice_Before_Recognizing_Large_Multimodal_Models_for_General_Fine-grained_Traffic_Sign_Recognition.md)
 
     - [翻译: 在识别交通标志前，请三思：我们探讨了用于细粒度识别的大型多模态模型。](2024年09月02日/Think_Twice_Before_Recognizing_Large_Multimodal_Models_for_General_Fine-grained_Traffic_Sign_Recognition.md)
-
-- [Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning](2024年09月02日/Unleashing_the_Power_of_Task-Specific_Directions_in_Parameter_Efficient_Fine-tuning.md)
-
-    - [翻译: 激发参数高效微调中任务特定方向的潜能](2024年09月02日/Unleashing_the_Power_of_Task-Specific_Directions_in_Parameter_Efficient_Fine-tuning.md)
 
 - [Unlocking the Wisdom of Large Language Models: An Introduction to The Path to Artificial General Intelligence](2024年09月02日/Unlocking_the_Wisdom_of_Large_Language_Models_An_Introduction_to_The_Path_to_Artificial_General_Intelligence.md)
 
