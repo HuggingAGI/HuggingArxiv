@@ -140,18 +140,6 @@
 
     - [翻译: 革新陈旧嵌入：利用校正器网络提升密集检索器的训练效果](2024年09月03日/A_Fresh_Take_on_Stale_Embeddings_Improving_Dense_Retriever_Training_with_Corrector_Networks.md)
 
-- [Boosting Vision-Language Models for Histopathology Classification: Predict all at once](2024年09月03日/Boosting_Vision-Language_Models_for_Histopathology_Classification_Predict_all_at_once.md)
-
-    - [翻译: 增强组织病理学分类中视觉-语言模型的能力：一网打尽式预测](2024年09月03日/Boosting_Vision-Language_Models_for_Histopathology_Classification_Predict_all_at_once.md)
-
-- [Contemporary Model Compression on Large Language Models Inference](2024年09月03日/Contemporary_Model_Compression_on_Large_Language_Models_Inference.md)
-
-    - [翻译: 大语言模型推理中的现代模型压缩技术](2024年09月03日/Contemporary_Model_Compression_on_Large_Language_Models_Inference.md)
-
-- [CRAFT Your Dataset: Task-Specific Synthetic Dataset Generation Through Corpus Retrieval and Augmentation](2024年09月03日/CRAFT_Your_Dataset_Task-Specific_Synthetic_Dataset_Generation_Through_Corpus_Retrieval_and_Augmentation.md)
-
-    - [翻译: CRAFT 你的数据集：利用语料库检索与增强技术，定制任务专属的合成数据集](2024年09月03日/CRAFT_Your_Dataset_Task-Specific_Synthetic_Dataset_Generation_Through_Corpus_Retrieval_and_Augmentation.md)
-
 - [Empirical evidence of Large Language Model's influence on human spoken communication](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
 
     - [翻译: 大型语言模型在人类口语交流中的影响已得到实证支持。](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
@@ -164,17 +152,9 @@
 
     - [翻译: 大型语言模型压缩的基石 —— 第一章：权重量化](2024年09月03日/Foundations_of_Large_Language_Model_Compression_--_Part_1_Weight_Quantization.md)
 
-- [From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning](2024年09月03日/From_Yes-Men_to_Truth-Tellers_Addressing_Sycophancy_in_Large_Language_Models_with_Pinpoint_Tuning.md)
-
-    - [翻译: 从迎合者到直言者：通过精准调校，解决大型语言模型中的谄媚现象](2024年09月03日/From_Yes-Men_to_Truth-Tellers_Addressing_Sycophancy_in_Large_Language_Models_with_Pinpoint_Tuning.md)
-
 - [Interpreting and Improving Large Language Models in Arithmetic Calculation](2024年09月03日/Interpreting_and_Improving_Large_Language_Models_in_Arithmetic_Calculation.md)
 
     - [翻译: 探究与提升大型语言模型在算术运算中的解释性与性能](2024年09月03日/Interpreting_and_Improving_Large_Language_Models_in_Arithmetic_Calculation.md)
-
-- [Investigating Expert-in-the-Loop LLM Discourse Patterns for Ancient Intertextual Analysis](2024年09月03日/Investigating_Expert-in-the-Loop_LLM_Discourse_Patterns_for_Ancient_Intertextual_Analysis.md)
-
-    - [翻译: 探索专家参与的LLM话语模式，应用于古代文本互文性分析](2024年09月03日/Investigating_Expert-in-the-Loop_LLM_Discourse_Patterns_for_Ancient_Intertextual_Analysis.md)
 
 - [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey](2024年09月03日/Large_Language_Models_for_Anomaly_and_Out-of-Distribution_Detection_A_Survey.md)
 
@@ -219,10 +199,6 @@
 - [Training on the Benchmark Is Not All You Need](2024年09月03日/Training_on_the_Benchmark_Is_Not_All_You_Need.md)
 
     - [翻译: 仅仅依赖基准训练远远不够](2024年09月03日/Training_on_the_Benchmark_Is_Not_All_You_Need.md)
-
-- [VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning](2024年09月03日/VProChart_Answering_Chart_Question_through_Visual_Perception_Alignment_Agent_and_Programmatic_Solution_Reasoning.md)
-
-    - [翻译: VProChart：借助视觉感知对齐与程序化推理，精准解答图表问题](2024年09月03日/VProChart_Answering_Chart_Question_through_Visual_Perception_Alignment_Agent_and_Programmatic_Solution_Reasoning.md)
 
 - [What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices](2024年09月03日/What_are_the_Essential_Factors_in_Crafting_Effective_Long_Context_Multi-Hop_Instruction_Datasets_Insights_and_Best_Practices.md)
 
