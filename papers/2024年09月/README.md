@@ -342,33 +342,13 @@
 
     - [翻译: 以块为探针：深入解析大型多模态模型的分类本领](2024年09月02日/Blocks_as_Probes_Dissecting_Categorization_Ability_of_Large_Multimodal_Models.md)
 
-- [CHESS: Optimizing LLM Inference via Channel-Wise Thresholding and Selective Sparsification](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
-
-    - [翻译: CHESS：利用通道阈值化和选择性稀疏化技术，优化大型语言模型的推理性能。](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
-
 - [Duplex: A Device for Large Language Models with Mixture of Experts, Grouped Query Attention, and Continuous Batching](2024年09月02日/Duplex_A_Device_for_Large_Language_Models_with_Mixture_of_Experts,_Grouped_Query_Attention,_and_Continuous_Batching.md)
 
     - [翻译: Duplex 是一款专为大型语言模型设计的设备，集成了专家混合、分组查询注意力和连续批处理技术，以提升模型性能。](2024年09月02日/Duplex_A_Device_for_Large_Language_Models_with_Mixture_of_Experts,_Grouped_Query_Attention,_and_Continuous_Batching.md)
 
-- [Efficient and Scalable Estimation of Tool Representations in Vector Space](2024年09月02日/Efficient_and_Scalable_Estimation_of_Tool_Representations_in_Vector_Space.md)
-
-    - [翻译: 向量空间中工具表示的高效与可扩展估计](2024年09月02日/Efficient_and_Scalable_Estimation_of_Tool_Representations_in_Vector_Space.md)
-
-- [FlashFlex: Accommodating Large Language Model Training over Heterogeneous Environment](2024年09月02日/FlashFlex_Accommodating_Large_Language_Model_Training_over_Heterogeneous_Environment.md)
-
-    - [翻译: FlashFlex：在异构环境中优化大型语言模型训练](2024年09月02日/FlashFlex_Accommodating_Large_Language_Model_Training_over_Heterogeneous_Environment.md)
-
 - [Large Language Models versus Classical Machine Learning: Performance in COVID-19 Mortality Prediction Using High-Dimensional Tabular Data](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
 
     - [翻译: 大型语言模型对决经典机器学习：高维表格数据在 COVID-19 死亡率预测中的表现](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
-
-- [Membership Inference Attacks Against In-Context Learning](2024年09月02日/Membership_Inference_Attacks_Against_In-Context_Learning.md)
-
-    - [翻译: 针对 In-Context Learning 的成员推理攻击研究](2024年09月02日/Membership_Inference_Attacks_Against_In-Context_Learning.md)
-
-- [NYK-MS: A Well-annotated Multi-modal Metaphor and Sarcasm Understanding Benchmark on Cartoon-Caption Dataset](2024年09月02日/NYK-MS_A_Well-annotated_Multi-modal_Metaphor_and_Sarcasm_Understanding_Benchmark_on_Cartoon-Caption_Dataset.md)
-
-    - [翻译: NYK-MS：一款精心标注的卡通字幕数据集，专为多模态隐喻与讽刺理解而设的基准测试](2024年09月02日/NYK-MS_A_Well-annotated_Multi-modal_Metaphor_and_Sarcasm_Understanding_Benchmark_on_Cartoon-Caption_Dataset.md)
 
 - [Pre-Trained Language Models for Keyphrase Prediction: A Review](2024年09月02日/Pre-Trained_Language_Models_for_Keyphrase_Prediction_A_Review.md)
 
@@ -377,10 +357,6 @@
 - [Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference](2024年09月02日/Prompt_Compression_with_Context-Aware_Sentence_Encoding_for_Fast_and_Improved_LLM_Inference.md)
 
     - [翻译: 通过上下文感知句子编码实现提示压缩，加速并提升 LLM 推理性能](2024年09月02日/Prompt_Compression_with_Context-Aware_Sentence_Encoding_for_Fast_and_Improved_LLM_Inference.md)
-
-- [Self-Judge: Selective Instruction Following with Alignment Self-Evaluation](2024年09月02日/Self-Judge_Selective_Instruction_Following_with_Alignment_Self-Evaluation.md)
-
-    - [翻译: 自我判断：在选择性遵循指令的同时进行对齐自我评估](2024年09月02日/Self-Judge_Selective_Instruction_Following_with_Alignment_Self-Evaluation.md)
 
 - [The Compressor-Retriever Architecture for Language Model OS](2024年09月02日/The_Compressor-Retriever_Architecture_for_Language_Model_OS.md)
 
