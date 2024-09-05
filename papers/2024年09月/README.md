@@ -140,21 +140,9 @@
 
     - [翻译: 革新陈旧嵌入：利用校正器网络提升密集检索器的训练效果](2024年09月03日/A_Fresh_Take_on_Stale_Embeddings_Improving_Dense_Retriever_Training_with_Corrector_Networks.md)
 
-- [Empirical evidence of Large Language Model's influence on human spoken communication](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
-
-    - [翻译: 大型语言模型在人类口语交流中的影响已得到实证支持。](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
-
 - [Foundations of Large Language Model Compression -- Part 1: Weight Quantization](2024年09月03日/Foundations_of_Large_Language_Model_Compression_--_Part_1_Weight_Quantization.md)
 
     - [翻译: 大型语言模型压缩的基石 —— 第一章：权重量化](2024年09月03日/Foundations_of_Large_Language_Model_Compression_--_Part_1_Weight_Quantization.md)
-
-- [Interpreting and Improving Large Language Models in Arithmetic Calculation](2024年09月03日/Interpreting_and_Improving_Large_Language_Models_in_Arithmetic_Calculation.md)
-
-    - [翻译: 探究与提升大型语言模型在算术运算中的解释性与性能](2024年09月03日/Interpreting_and_Improving_Large_Language_Models_in_Arithmetic_Calculation.md)
-
-- [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey](2024年09月03日/Large_Language_Models_for_Anomaly_and_Out-of-Distribution_Detection_A_Survey.md)
-
-    - [翻译: 大型语言模型在异常与分布外检测中的应用：综述](2024年09月03日/Large_Language_Models_for_Anomaly_and_Out-of-Distribution_Detection_A_Survey.md)
 
 - [Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text](2024年09月03日/Political_DEBATE_Efficient_Zero-shot_and_Few-shot_Classifiers_for_Political_Text.md)
 
@@ -164,18 +152,6 @@
 
     - [翻译: ReKep：针对机器人操作，探究关系关键点约束的空间与时间推理](2024年09月03日/ReKep_Spatio-Temporal_Reasoning_of_Relational_Keypoint_Constraints_for_Robotic_Manipulation.md)
 
-- [Spinning the Golden Thread: Benchmarking Long-Form Generation in Language Models](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
-
-    - [翻译: 金线旋舞：语言模型长篇生成的基准测试](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
-
 - [Towards Leveraging Large Language Models for Automated Medical Q&A Evaluation](2024年09月03日/Towards_Leveraging_Large_Language_Models_for_Automated_Medical_Q&A_Evaluation.md)
 
     - [翻译: 探索大型语言模型在自动化医疗问答评估中的应用潜力](2024年09月03日/Towards_Leveraging_Large_Language_Models_for_Automated_Medical_Q&A_Evaluation.md)
-
-- [Training on the Benchmark Is Not All You Need](2024年09月03日/Training_on_the_Benchmark_Is_Not_All_You_Need.md)
-
-    - [翻译: 仅仅依赖基准训练远远不够](2024年09月03日/Training_on_the_Benchmark_Is_Not_All_You_Need.md)
-
-- [What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices](2024年09月03日/What_are_the_Essential_Factors_in_Crafting_Effective_Long_Context_Multi-Hop_Instruction_Datasets_Insights_and_Best_Practices.md)
-
-    - [翻译: 制作高效长篇多跳指令数据集的关键要素是什么？探索见解与最佳实践](2024年09月03日/What_are_the_Essential_Factors_in_Crafting_Effective_Long_Context_Multi-Hop_Instruction_Datasets_Insights_and_Best_Practices.md)
