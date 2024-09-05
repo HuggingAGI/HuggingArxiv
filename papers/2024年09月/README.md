@@ -140,17 +140,9 @@
 
     - [翻译: 革新陈旧嵌入：利用校正器网络提升密集检索器的训练效果](2024年09月03日/A_Fresh_Take_on_Stale_Embeddings_Improving_Dense_Retriever_Training_with_Corrector_Networks.md)
 
-- [AgentRE: An Agent-Based Framework for Navigating Complex Information Landscapes in Relation Extraction](2024年09月03日/AgentRE_An_Agent-Based_Framework_for_Navigating_Complex_Information_Landscapes_in_Relation_Extraction.md)
-
-    - [翻译: AgentRE：一个基于代理的框架，专为在关系抽取领域中驾驭复杂信息环境而设计。](2024年09月03日/AgentRE_An_Agent-Based_Framework_for_Navigating_Complex_Information_Landscapes_in_Relation_Extraction.md)
-
 - [Boosting Vision-Language Models for Histopathology Classification: Predict all at once](2024年09月03日/Boosting_Vision-Language_Models_for_Histopathology_Classification_Predict_all_at_once.md)
 
     - [翻译: 增强组织病理学分类中视觉-语言模型的能力：一网打尽式预测](2024年09月03日/Boosting_Vision-Language_Models_for_Histopathology_Classification_Predict_all_at_once.md)
-
-- [Building Math Agents with Multi-Turn Iterative Preference Learning](2024年09月03日/Building_Math_Agents_with_Multi-Turn_Iterative_Preference_Learning.md)
-
-    - [翻译: 打造多轮迭代偏好学习的数学智能体](2024年09月03日/Building_Math_Agents_with_Multi-Turn_Iterative_Preference_Learning.md)
 
 - [Contemporary Model Compression on Large Language Models Inference](2024年09月03日/Contemporary_Model_Compression_on_Large_Language_Models_Inference.md)
 
@@ -176,14 +168,6 @@
 
     - [翻译: 从迎合者到直言者：通过精准调校，解决大型语言模型中的谄媚现象](2024年09月03日/From_Yes-Men_to_Truth-Tellers_Addressing_Sycophancy_in_Large_Language_Models_with_Pinpoint_Tuning.md)
 
-- [FuzzCoder: Byte-level Fuzzing Test via Large Language Model](2024年09月03日/FuzzCoder_Byte-level_Fuzzing_Test_via_Large_Language_Model.md)
-
-    - [翻译: FuzzCoder：利用大型语言模型实现字节级模糊测试](2024年09月03日/FuzzCoder_Byte-level_Fuzzing_Test_via_Large_Language_Model.md)
-
-- [In Defense of RAG in the Era of Long-Context Language Models](2024年09月03日/In_Defense_of_RAG_in_the_Era_of_Long-Context_Language_Models.md)
-
-    - [翻译: 在长上下文语言模型盛行的当下，我们为 RAG 正名。](2024年09月03日/In_Defense_of_RAG_in_the_Era_of_Long-Context_Language_Models.md)
-
 - [Interpreting and Improving Large Language Models in Arithmetic Calculation](2024年09月03日/Interpreting_and_Improving_Large_Language_Models_in_Arithmetic_Calculation.md)
 
     - [翻译: 探究与提升大型语言模型在算术运算中的解释性与性能](2024年09月03日/Interpreting_and_Improving_Large_Language_Models_in_Arithmetic_Calculation.md)
@@ -204,10 +188,6 @@
 
     - [翻译: LASP：探索大规模语言模型在人工智能规划中的最新技术进展](2024年09月03日/LASP_Surveying_the_State-of-the-Art_in_Large_Language_Model-Assisted_AI_Planning.md)
 
-- [LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models](2024年09月03日/LUK_Empowering_Log_Understanding_with_Expert_Knowledge_from_Large_Language_Models.md)
-
-    - [翻译: LUK：借助大型语言模型中的专家知识，提升日志理解效能](2024年09月03日/LUK_Empowering_Log_Understanding_with_Expert_Knowledge_from_Large_Language_Models.md)
-
 - [Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment](2024年09月03日/Optimizing_CLIP_Models_for_Image_Retrieval_with_Maintained_Joint-Embedding_Alignment.md)
 
     - [翻译: 优化 CLIP 模型，实现图像检索的同时保持联合嵌入的精准对齐](2024年09月03日/Optimizing_CLIP_Models_for_Image_Retrieval_with_Maintained_Joint-Embedding_Alignment.md)
@@ -215,10 +195,6 @@
 - [Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text](2024年09月03日/Political_DEBATE_Efficient_Zero-shot_and_Few-shot_Classifiers_for_Political_Text.md)
 
     - [翻译: 政治文本分类新视角：高效零-shot 与少-shot 分类器](2024年09月03日/Political_DEBATE_Efficient_Zero-shot_and_Few-shot_Classifiers_for_Political_Text.md)
-
-- [RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer](2024年09月03日/RACONTEUR_A_Knowledgeable,_Insightful,_and_Portable_LLM-Powered_Shell_Command_Explainer.md)
-
-    - [翻译: RACONTEUR：一款集知识、洞察与便携性于一体的 LLM 驱动 Shell 命令解释器](2024年09月03日/RACONTEUR_A_Knowledgeable,_Insightful,_and_Portable_LLM-Powered_Shell_Command_Explainer.md)
 
 - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation](2024年09月03日/ReKep_Spatio-Temporal_Reasoning_of_Relational_Keypoint_Constraints_for_Robotic_Manipulation.md)
 
