@@ -168,17 +168,9 @@
 
     - [翻译: 多样化、验证、适应：一种高效且健壮的检索增强模糊问答方法](2024年09月03日/Diversify-verify-adapt_Efficient_and_Robust_Retrieval-Augmented_Ambiguous_Question_Answering.md)
 
-- [Do Large Language Models Possess Sensitive to Sentiment?](2024年09月03日/Do_Large_Language_Models_Possess_Sensitive_to_Sentiment.md)
-
-    - [翻译: 大型语言模型是否能感知情感？](2024年09月03日/Do_Large_Language_Models_Possess_Sensitive_to_Sentiment.md)
-
 - [Empirical evidence of Large Language Model's influence on human spoken communication](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
 
     - [翻译: 大型语言模型在人类口语交流中的影响已得到实证支持。](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
-
-- [Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor](2024年09月03日/Exploiting_the_Vulnerability_of_Large_Language_Models_via_Defense-Aware_Architectural_Backdoor.md)
-
-    - [翻译: 利用防御意识架构后门，揭示大型语言模型的脆弱性](2024年09月03日/Exploiting_the_Vulnerability_of_Large_Language_Models_via_Defense-Aware_Architectural_Backdoor.md)
 
 - [Focus Agent: LLM-Powered Virtual Focus Group](2024年09月03日/Focus_Agent_LLM-Powered_Virtual_Focus_Group.md)
 
@@ -220,10 +212,6 @@
 
     - [翻译: 探索专家参与的LLM话语模式，应用于古代文本互文性分析](2024年09月03日/Investigating_Expert-in-the-Loop_LLM_Discourse_Patterns_for_Ancient_Intertextual_Analysis.md)
 
-- [Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges](2024年09月03日/Large_Language_Models_and_Cognitive_Science_A_Comprehensive_Review_of_Similarities,_Differences,_and_Challenges.md)
-
-    - [翻译: 大型语言模型与认知科学：全面探讨其相似之处、差异所在及面临的挑战](2024年09月03日/Large_Language_Models_and_Cognitive_Science_A_Comprehensive_Review_of_Similarities,_Differences,_and_Challenges.md)
-
 - [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey](2024年09月03日/Large_Language_Models_for_Anomaly_and_Out-of-Distribution_Detection_A_Survey.md)
 
     - [翻译: 大型语言模型在异常与分布外检测中的应用：综述](2024年09月03日/Large_Language_Models_for_Anomaly_and_Out-of-Distribution_Detection_A_Survey.md)
@@ -244,17 +232,9 @@
 
     - [翻译: LUK：借助大型语言模型中的专家知识，提升日志理解效能](2024年09月03日/LUK_Empowering_Log_Understanding_with_Expert_Knowledge_from_Large_Language_Models.md)
 
-- [MMLU-Pro+: Evaluating Higher-Order Reasoning and Shortcut Learning in LLMs](2024年09月03日/MMLU-Pro+_Evaluating_Higher-Order_Reasoning_and_Shortcut_Learning_in_LLMs.md)
-
-    - [翻译: MMLU-Pro+：探究 LLMs 中的高阶推理与捷径学习](2024年09月03日/MMLU-Pro+_Evaluating_Higher-Order_Reasoning_and_Shortcut_Learning_in_LLMs.md)
-
 - [MOSMOS: Multi-organ segmentation facilitated by medical report supervision](2024年09月03日/MOSMOS_Multi-organ_segmentation_facilitated_by_medical_report_supervision.md)
 
     - [翻译: MOSMOS：借助医学报告监督实现的多器官分割技术](2024年09月03日/MOSMOS_Multi-organ_segmentation_facilitated_by_medical_report_supervision.md)
-
-- [Multi-modal Situated Reasoning in 3D Scenes](2024年09月03日/Multi-modal_Situated_Reasoning_in_3D_Scenes.md)
-
-    - [翻译: 3D场景中的多模态情境推理](2024年09月03日/Multi-modal_Situated_Reasoning_in_3D_Scenes.md)
 
 - [NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval](2024年09月03日/NUDGE_Lightweight_Non-Parametric_Fine-Tuning_of_Embeddings_for_Retrieval.md)
 
@@ -303,10 +283,6 @@
 - [The Role of Large Language Models in Musicology: Are We Ready to Trust the Machines?](2024年09月03日/The_Role_of_Large_Language_Models_in_Musicology_Are_We_Ready_to_Trust_the_Machines.md)
 
     - [翻译: 大型语言模型在音乐学领域扮演着怎样的角色？我们是否已准备好将信任交付给机器？](2024年09月03日/The_Role_of_Large_Language_Models_in_Musicology_Are_We_Ready_to_Trust_the_Machines.md)
-
-- [TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model](2024年09月03日/TimeDiT_General-purpose_Diffusion_Transformers_for_Time_Series_Foundation_Model.md)
-
-    - [翻译: TimeDiT：专为时间序列设计的基础模型通用扩散变换器](2024年09月03日/TimeDiT_General-purpose_Diffusion_Transformers_for_Time_Series_Foundation_Model.md)
 
 - [Towards Leveraging Large Language Models for Automated Medical Q&A Evaluation](2024年09月03日/Towards_Leveraging_Large_Language_Models_for_Automated_Medical_Q&A_Evaluation.md)
 
