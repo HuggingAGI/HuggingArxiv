@@ -26,6 +26,10 @@
 
     - [翻译: BRAD 数字助手：生物信息学检索增强数据](2024年09月04日/Bioinformatics_Retrieval_Augmentation_Data_(BRAD)_Digital_Assistant.md)
 
+- [Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
+
+    - [翻译: LVLMs 能否考取驾照？这项基准测试旨在评估自动驾驶领域 AGI 的可靠性。](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
+
 - [ChatGPT vs Social Surveys: Probing the Objective and Subjective Human Society](2024年09月04日/ChatGPT_vs_Social_Surveys_Probing_the_Objective_and_Subjective_Human_Society.md)
 
     - [翻译: ChatGPT 对决社会调查：深入探究人类社会的客观与主观层面](2024年09月04日/ChatGPT_vs_Social_Surveys_Probing_the_Objective_and_Subjective_Human_Society.md)
@@ -113,6 +117,10 @@
 - [PUB: Plot Understanding Benchmark and Dataset for Evaluating Large Language Models on Synthetic Visual Data Interpretation](2024年09月04日/PUB_Plot_Understanding_Benchmark_and_Dataset_for_Evaluating_Large_Language_Models_on_Synthetic_Visual_Data_Interpretation.md)
 
     - [翻译: PUB：大型语言模型在合成视觉数据解释中的图表理解评估基准与数据集](2024年09月04日/PUB_Plot_Understanding_Benchmark_and_Dataset_for_Evaluating_Large_Language_Models_on_Synthetic_Visual_Data_Interpretation.md)
+
+- [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
+
+    - [翻译: RoboTwin：一款早期版本的双臂机器人基准，集成了生成式数字孪生技术。](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
 
 - [RouterRetriever: Exploring the Benefits of Routing over Multiple Expert Embedding Models](2024年09月04日/RouterRetriever_Exploring_the_Benefits_of_Routing_over_Multiple_Expert_Embedding_Models.md)
 
@@ -341,10 +349,6 @@
 - [CHESS: Optimizing LLM Inference via Channel-Wise Thresholding and Selective Sparsification](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
 
     - [翻译: CHESS：利用通道阈值化和选择性稀疏化技术，优化大型语言模型的推理性能。](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
-
-- [DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning](2024年09月02日/DataSculpt_Crafting_Data_Landscapes_for_LLM_Post-Training_through_Multi-objective_Partitioning.md)
-
-    - [翻译: DataSculpt：利用多目标分区技术，为大型语言模型后训练阶段精心打造数据环境](2024年09月02日/DataSculpt_Crafting_Data_Landscapes_for_LLM_Post-Training_through_Multi-objective_Partitioning.md)
 
 - [Duplex: A Device for Large Language Models with Mixture of Experts, Grouped Query Attention, and Continuous Batching](2024年09月02日/Duplex_A_Device_for_Large_Language_Models_with_Mixture_of_Experts,_Grouped_Query_Attention,_and_Continuous_Batching.md)
 
