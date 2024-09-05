@@ -342,34 +342,10 @@
 
     - [翻译: 以块为探针：深入解析大型多模态模型的分类本领](2024年09月02日/Blocks_as_Probes_Dissecting_Categorization_Ability_of_Large_Multimodal_Models.md)
 
-- [Duplex: A Device for Large Language Models with Mixture of Experts, Grouped Query Attention, and Continuous Batching](2024年09月02日/Duplex_A_Device_for_Large_Language_Models_with_Mixture_of_Experts,_Grouped_Query_Attention,_and_Continuous_Batching.md)
-
-    - [翻译: Duplex 是一款专为大型语言模型设计的设备，集成了专家混合、分组查询注意力和连续批处理技术，以提升模型性能。](2024年09月02日/Duplex_A_Device_for_Large_Language_Models_with_Mixture_of_Experts,_Grouped_Query_Attention,_and_Continuous_Batching.md)
-
 - [Large Language Models versus Classical Machine Learning: Performance in COVID-19 Mortality Prediction Using High-Dimensional Tabular Data](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
 
     - [翻译: 大型语言模型对决经典机器学习：高维表格数据在 COVID-19 死亡率预测中的表现](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
 
-- [Pre-Trained Language Models for Keyphrase Prediction: A Review](2024年09月02日/Pre-Trained_Language_Models_for_Keyphrase_Prediction_A_Review.md)
-
-    - [翻译: 预训练语言模型在关键词预测领域的综述](2024年09月02日/Pre-Trained_Language_Models_for_Keyphrase_Prediction_A_Review.md)
-
-- [Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference](2024年09月02日/Prompt_Compression_with_Context-Aware_Sentence_Encoding_for_Fast_and_Improved_LLM_Inference.md)
-
-    - [翻译: 通过上下文感知句子编码实现提示压缩，加速并提升 LLM 推理性能](2024年09月02日/Prompt_Compression_with_Context-Aware_Sentence_Encoding_for_Fast_and_Improved_LLM_Inference.md)
-
 - [The Compressor-Retriever Architecture for Language Model OS](2024年09月02日/The_Compressor-Retriever_Architecture_for_Language_Model_OS.md)
 
     - [翻译: 语言模型操作系统采用的压缩器-检索器架构](2024年09月02日/The_Compressor-Retriever_Architecture_for_Language_Model_OS.md)
-
-- [Think Twice Before Recognizing: Large Multimodal Models for General Fine-grained Traffic Sign Recognition](2024年09月02日/Think_Twice_Before_Recognizing_Large_Multimodal_Models_for_General_Fine-grained_Traffic_Sign_Recognition.md)
-
-    - [翻译: 在识别交通标志前，请三思：我们探讨了用于细粒度识别的大型多模态模型。](2024年09月02日/Think_Twice_Before_Recognizing_Large_Multimodal_Models_for_General_Fine-grained_Traffic_Sign_Recognition.md)
-
-- [Unlocking the Wisdom of Large Language Models: An Introduction to The Path to Artificial General Intelligence](2024年09月02日/Unlocking_the_Wisdom_of_Large_Language_Models_An_Introduction_to_The_Path_to_Artificial_General_Intelligence.md)
-
-    - [翻译: 揭秘大型语言模型的智慧：探索通往人工通用智能的旅程](2024年09月02日/Unlocking_the_Wisdom_of_Large_Language_Models_An_Introduction_to_The_Path_to_Artificial_General_Intelligence.md)
-
-- [VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges](2024年09月02日/VideoLLaMB_Long-context_Video_Understanding_with_Recurrent_Memory_Bridges.md)
-
-    - [翻译: VideoLLaMB：借助循环记忆桥实现长上下文视频理解](2024年09月02日/VideoLLaMB_Long-context_Video_Understanding_with_Recurrent_Memory_Bridges.md)
