@@ -128,10 +128,6 @@
 
     - [翻译: AdaComp：通过自适应预测器实现提取上下文压缩，专为增强检索功能的大型语言模型设计。](2024年09月02日/AdaComp_Extractive_Context_Compression_with_Adaptive_Predictor_for_Retrieval-Augmented_Large_Language_Models.md)
 
-- [Affordance-based Robot Manipulation with Flow Matching](2024年09月02日/Affordance-based_Robot_Manipulation_with_Flow_Matching.md)
-
-    - [翻译: 机器人操作基于功能性，结合流匹配技术](2024年09月02日/Affordance-based_Robot_Manipulation_with_Flow_Matching.md)
-
 - [A Framework for Synthetic Audio Conversations Generation using Large Language Models](2024年09月02日/A_Framework_for_Synthetic_Audio_Conversations_Generation_using_Large_Language_Models.md)
 
     - [翻译: 基于大型语言模型的合成音频对话生成框架](2024年09月02日/A_Framework_for_Synthetic_Audio_Conversations_Generation_using_Large_Language_Models.md)
@@ -143,10 +139,6 @@
 - [Automatic Detection of LLM-generated Code: A Case Study of Claude 3 Haiku](2024年09月02日/Automatic_Detection_of_LLM-generated_Code_A_Case_Study_of_Claude_3_Haiku.md)
 
     - [翻译: 自动识别 LLM 代码生成：Claude 3 俳句实证分析](2024年09月02日/Automatic_Detection_of_LLM-generated_Code_A_Case_Study_of_Claude_3_Haiku.md)
-
-- [Balancing Performance and Efficiency: A Multimodal Large Language Model Pruning Method based Image Text Interaction](2024年09月02日/Balancing_Performance_and_Efficiency_A_Multimodal_Large_Language_Model_Pruning_Method_based_Image_Text_Interaction.md)
-
-    - [翻译: 在性能与效率之间寻找平衡：一种通过图像与文本交互来优化多模态大型语言模型的剪枝技术](2024年09月02日/Balancing_Performance_and_Efficiency_A_Multimodal_Large_Language_Model_Pruning_Method_based_Image_Text_Interaction.md)
 
 - [Benchmarking Cognitive Domains for LLMs: Insights from Taiwanese Hakka Culture](2024年09月02日/Benchmarking_Cognitive_Domains_for_LLMs_Insights_from_Taiwanese_Hakka_Culture.md)
 
@@ -160,10 +152,6 @@
 
     - [翻译: 以块为探针：深入解析大型多模态模型的分类本领](2024年09月02日/Blocks_as_Probes_Dissecting_Categorization_Ability_of_Large_Multimodal_Models.md)
 
-- [Booster: Tackling Harmful Fine-tuing for Large Language Models via Attenuating Harmful Perturbation](2024年09月02日/Booster_Tackling_Harmful_Fine-tuing_for_Large_Language_Models_via_Attenuating_Harmful_Perturbation.md)
-
-    - [翻译: Booster：通过减轻有害扰动，有效应对大型语言模型在微调过程中产生的不良影响。](2024年09月02日/Booster_Tackling_Harmful_Fine-tuing_for_Large_Language_Models_via_Attenuating_Harmful_Perturbation.md)
-
 - [CHESS: Optimizing LLM Inference via Channel-Wise Thresholding and Selective Sparsification](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
 
     - [翻译: CHESS：利用通道阈值化和选择性稀疏化技术，优化大型语言模型的推理性能。](2024年09月02日/CHESS_Optimizing_LLM_Inference_via_Channel-Wise_Thresholding_and_Selective_Sparsification.md)
@@ -175,10 +163,6 @@
 - [DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning](2024年09月02日/DataSculpt_Crafting_Data_Landscapes_for_LLM_Post-Training_through_Multi-objective_Partitioning.md)
 
     - [翻译: DataSculpt：利用多目标分区技术，为大型语言模型后训练阶段精心打造数据环境](2024年09月02日/DataSculpt_Crafting_Data_Landscapes_for_LLM_Post-Training_through_Multi-objective_Partitioning.md)
-
-- [DiversityMedQA: Assessing Demographic Biases in Medical Diagnosis using Large Language Models](2024年09月02日/DiversityMedQA_Assessing_Demographic_Biases_in_Medical_Diagnosis_using_Large_Language_Models.md)
-
-    - [翻译: DiversityMedQA 项目旨在通过大型语言模型，评估医疗诊断中存在的群体偏见。](2024年09月02日/DiversityMedQA_Assessing_Demographic_Biases_in_Medical_Diagnosis_using_Large_Language_Models.md)
 
 - [DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing](2024年09月02日/DPDEdit_Detail-Preserved_Diffusion_Models_for_Multimodal_Fashion_Image_Editing.md)
 
@@ -244,10 +228,6 @@
 
     - [翻译: 可恢复压缩机制：借助文本信息，实现多模态视觉令牌的精准恢复。](2024年09月02日/Recoverable_Compression_A_Multimodal_Vision_Token_Recovery_Mechanism_Guided_by_Text_Information.md)
 
-- [Revisiting SMoE Language Models by Evaluating Inefficiencies with Task Specific Expert Pruning](2024年09月02日/Revisiting_SMoE_Language_Models_by_Evaluating_Inefficiencies_with_Task_Specific_Expert_Pruning.md)
-
-    - [翻译: 重新审视SMoE语言模型，通过任务特定专家修剪评估其效率不足之处。](2024年09月02日/Revisiting_SMoE_Language_Models_by_Evaluating_Inefficiencies_with_Task_Specific_Expert_Pruning.md)
-
 - [S$^3$c-Math: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners](2024年09月02日/S$^3$c-Math_Spontaneous_Step-level_Self-correction_Makes_Large_Language_Models_Better_Mathematical_Reasoners.md)
 
     - [翻译: S$^3$c-Math：通过自发的步骤级自我修正，大型语言模型在数学推理方面表现更佳。](2024年09月02日/S$^3$c-Math_Spontaneous_Step-level_Self-correction_Makes_Large_Language_Models_Better_Mathematical_Reasoners.md)
@@ -271,10 +251,6 @@
 - [The Compressor-Retriever Architecture for Language Model OS](2024年09月02日/The_Compressor-Retriever_Architecture_for_Language_Model_OS.md)
 
     - [翻译: 语言模型操作系统采用的压缩器-检索器架构](2024年09月02日/The_Compressor-Retriever_Architecture_for_Language_Model_OS.md)
-
-- [THInC: A Theory-Driven Framework for Computational Humor Detection](2024年09月02日/THInC_A_Theory-Driven_Framework_for_Computational_Humor_Detection.md)
-
-    - [翻译: THInC：理论驱动的计算幽默检测框架](2024年09月02日/THInC_A_Theory-Driven_Framework_for_Computational_Humor_Detection.md)
 
 - [Think Twice Before Recognizing: Large Multimodal Models for General Fine-grained Traffic Sign Recognition](2024年09月02日/Think_Twice_Before_Recognizing_Large_Multimodal_Models_for_General_Fine-grained_Traffic_Sign_Recognition.md)
 
