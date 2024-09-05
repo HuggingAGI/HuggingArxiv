@@ -244,10 +244,6 @@
 
     - [翻译: LUK：借助大型语言模型中的专家知识，提升日志理解效能](2024年09月03日/LUK_Empowering_Log_Understanding_with_Expert_Knowledge_from_Large_Language_Models.md)
 
-- [MedUnA: Language guided Unsupervised Adaptation of Vision-Language Models for Medical Image Classification](2024年09月03日/MedUnA_Language_guided_Unsupervised_Adaptation_of_Vision-Language_Models_for_Medical_Image_Classification.md)
-
-    - [翻译: MedUnA：通过语言引导，实现视觉-语言模型在医学图像分类中的无监督适应](2024年09月03日/MedUnA_Language_guided_Unsupervised_Adaptation_of_Vision-Language_Models_for_Medical_Image_Classification.md)
-
 - [MMLU-Pro+: Evaluating Higher-Order Reasoning and Shortcut Learning in LLMs](2024年09月03日/MMLU-Pro+_Evaluating_Higher-Order_Reasoning_and_Shortcut_Learning_in_LLMs.md)
 
     - [翻译: MMLU-Pro+：探究 LLMs 中的高阶推理与捷径学习](2024年09月03日/MMLU-Pro+_Evaluating_Higher-Order_Reasoning_and_Shortcut_Learning_in_LLMs.md)
@@ -327,25 +323,3 @@
 - [What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices](2024年09月03日/What_are_the_Essential_Factors_in_Crafting_Effective_Long_Context_Multi-Hop_Instruction_Datasets_Insights_and_Best_Practices.md)
 
     - [翻译: 制作高效长篇多跳指令数据集的关键要素是什么？探索见解与最佳实践](2024年09月03日/What_are_the_Essential_Factors_in_Crafting_Effective_Long_Context_Multi-Hop_Instruction_Datasets_Insights_and_Best_Practices.md)
-
-2024年09月02日
-
-- [Benchmarking Cognitive Domains for LLMs: Insights from Taiwanese Hakka Culture](2024年09月02日/Benchmarking_Cognitive_Domains_for_LLMs_Insights_from_Taiwanese_Hakka_Culture.md)
-
-    - [翻译: 探索 LLM 认知领域：台湾客家文化的启示](2024年09月02日/Benchmarking_Cognitive_Domains_for_LLMs_Insights_from_Taiwanese_Hakka_Culture.md)
-
-- [Beyond ChatGPT: Enhancing Software Quality Assurance Tasks with Diverse LLMs and Validation Techniques](2024年09月02日/Beyond_ChatGPT_Enhancing_Software_Quality_Assurance_Tasks_with_Diverse_LLMs_and_Validation_Techniques.md)
-
-    - [翻译: 超越 ChatGPT，通过多样化的 LLM 和验证技术，提升软件质量保证任务的效能。](2024年09月02日/Beyond_ChatGPT_Enhancing_Software_Quality_Assurance_Tasks_with_Diverse_LLMs_and_Validation_Techniques.md)
-
-- [Blocks as Probes: Dissecting Categorization Ability of Large Multimodal Models](2024年09月02日/Blocks_as_Probes_Dissecting_Categorization_Ability_of_Large_Multimodal_Models.md)
-
-    - [翻译: 以块为探针：深入解析大型多模态模型的分类本领](2024年09月02日/Blocks_as_Probes_Dissecting_Categorization_Ability_of_Large_Multimodal_Models.md)
-
-- [Large Language Models versus Classical Machine Learning: Performance in COVID-19 Mortality Prediction Using High-Dimensional Tabular Data](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
-
-    - [翻译: 大型语言模型对决经典机器学习：高维表格数据在 COVID-19 死亡率预测中的表现](2024年09月02日/Large_Language_Models_versus_Classical_Machine_Learning_Performance_in_COVID-19_Mortality_Prediction_Using_High-Dimensional_Tabular_Data.md)
-
-- [The Compressor-Retriever Architecture for Language Model OS](2024年09月02日/The_Compressor-Retriever_Architecture_for_Language_Model_OS.md)
-
-    - [翻译: 语言模型操作系统采用的压缩器-检索器架构](2024年09月02日/The_Compressor-Retriever_Architecture_for_Language_Model_OS.md)
