@@ -136,10 +136,6 @@
 
 2024年09月03日
 
-- [Abstractive Text Summarization: State of the Art, Challenges, and Improvements](2024年09月03日/Abstractive_Text_Summarization_State_of_the_Art,_Challenges,_and_Improvements.md)
-
-    - [翻译: 抽象文本摘要技术：现状、挑战与进步](2024年09月03日/Abstractive_Text_Summarization_State_of_the_Art,_Challenges,_and_Improvements.md)
-
 - [A Fresh Take on Stale Embeddings: Improving Dense Retriever Training with Corrector Networks](2024年09月03日/A_Fresh_Take_on_Stale_Embeddings_Improving_Dense_Retriever_Training_with_Corrector_Networks.md)
 
     - [翻译: 革新陈旧嵌入：利用校正器网络提升密集检索器的训练效果](2024年09月03日/A_Fresh_Take_on_Stale_Embeddings_Improving_Dense_Retriever_Training_with_Corrector_Networks.md)
@@ -164,10 +160,6 @@
 
     - [翻译: CRAFT 你的数据集：利用语料库检索与增强技术，定制任务专属的合成数据集](2024年09月03日/CRAFT_Your_Dataset_Task-Specific_Synthetic_Dataset_Generation_Through_Corpus_Retrieval_and_Augmentation.md)
 
-- [Diversify-verify-adapt: Efficient and Robust Retrieval-Augmented Ambiguous Question Answering](2024年09月03日/Diversify-verify-adapt_Efficient_and_Robust_Retrieval-Augmented_Ambiguous_Question_Answering.md)
-
-    - [翻译: 多样化、验证、适应：一种高效且健壮的检索增强模糊问答方法](2024年09月03日/Diversify-verify-adapt_Efficient_and_Robust_Retrieval-Augmented_Ambiguous_Question_Answering.md)
-
 - [Empirical evidence of Large Language Model's influence on human spoken communication](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
 
     - [翻译: 大型语言模型在人类口语交流中的影响已得到实证支持。](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
@@ -187,10 +179,6 @@
 - [FuzzCoder: Byte-level Fuzzing Test via Large Language Model](2024年09月03日/FuzzCoder_Byte-level_Fuzzing_Test_via_Large_Language_Model.md)
 
     - [翻译: FuzzCoder：利用大型语言模型实现字节级模糊测试](2024年09月03日/FuzzCoder_Byte-level_Fuzzing_Test_via_Large_Language_Model.md)
-
-- [How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review](2024年09月03日/How_Privacy-Savvy_Are_Large_Language_Models_A_Case_Study_on_Compliance_and_Privacy_Technical_Review.md)
-
-    - [翻译: 大型语言模型对隐私的精明程度如何？本研究通过案例分析，探讨其在合规性和隐私技术审查方面的表现。](2024年09月03日/How_Privacy-Savvy_Are_Large_Language_Models_A_Case_Study_on_Compliance_and_Privacy_Technical_Review.md)
 
 - [How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?](2024年09月03日/How_to_Determine_the_Preferred_Image_Distribution_of_a_Black-Box_Vision-Language_Model.md)
 
@@ -260,21 +248,9 @@
 
     - [翻译: SafeEmbodAI：为具身AI系统中的移动机器人量身打造的安全框架](2024年09月03日/SafeEmbodAI_a_Safety_Framework_for_Mobile_Robots_in_Embodied_AI_Systems.md)
 
-- [Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Translation](2024年09月03日/Scaling_Laws_for_Economic_Productivity_Experimental_Evidence_in_LLM-Assisted_Translation.md)
-
-    - [翻译: 经济生产力的规模法则：基于LLM辅助翻译的实验研究](2024年09月03日/Scaling_Laws_for_Economic_Productivity_Experimental_Evidence_in_LLM-Assisted_Translation.md)
-
-- [SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration](2024年09月03日/SmileyLlama_Modifying_Large_Language_Models_for_Directed_Chemical_Space_Exploration.md)
-
-    - [翻译: SmileyLlama：调整大型语言模型，助力定向化学空间探索](2024年09月03日/SmileyLlama_Modifying_Large_Language_Models_for_Directed_Chemical_Space_Exploration.md)
-
 - [Spinning the Golden Thread: Benchmarking Long-Form Generation in Language Models](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
 
     - [翻译: 金线旋舞：语言模型长篇生成的基准测试](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
-
-- [STAB: Speech Tokenizer Assessment Benchmark](2024年09月03日/STAB_Speech_Tokenizer_Assessment_Benchmark.md)
-
-    - [翻译: STAB：语音分词评估基准](2024年09月03日/STAB_Speech_Tokenizer_Assessment_Benchmark.md)
 
 - [Therapy as an NLP Task: Psychologists' Comparison of LLMs and Human Peers in CBT](2024年09月03日/Therapy_as_an_NLP_Task_Psychologists'_Comparison_of_LLMs_and_Human_Peers_in_CBT.md)
 
