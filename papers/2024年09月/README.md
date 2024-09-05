@@ -144,10 +144,6 @@
 
     - [翻译: 大型语言模型在人类口语交流中的影响已得到实证支持。](2024年09月03日/Empirical_evidence_of_Large_Language_Model's_influence_on_human_spoken_communication.md)
 
-- [Focus Agent: LLM-Powered Virtual Focus Group](2024年09月03日/Focus_Agent_LLM-Powered_Virtual_Focus_Group.md)
-
-    - [翻译: Focus Agent：由 LLM 赋能的虚拟焦点小组](2024年09月03日/Focus_Agent_LLM-Powered_Virtual_Focus_Group.md)
-
 - [Foundations of Large Language Model Compression -- Part 1: Weight Quantization](2024年09月03日/Foundations_of_Large_Language_Model_Compression_--_Part_1_Weight_Quantization.md)
 
     - [翻译: 大型语言模型压缩的基石 —— 第一章：权重量化](2024年09月03日/Foundations_of_Large_Language_Model_Compression_--_Part_1_Weight_Quantization.md)
@@ -160,18 +156,6 @@
 
     - [翻译: 大型语言模型在异常与分布外检测中的应用：综述](2024年09月03日/Large_Language_Models_for_Anomaly_and_Out-of-Distribution_Detection_A_Survey.md)
 
-- [Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information](2024年09月03日/Laser_Parameter-Efficient_LLM_Bi-Tuning_for_Sequential_Recommendation_with_Collaborative_Information.md)
-
-    - [翻译: 激光技术：通过协同信息，实现序列推荐的参数高效大型语言模型双调优](2024年09月03日/Laser_Parameter-Efficient_LLM_Bi-Tuning_for_Sequential_Recommendation_with_Collaborative_Information.md)
-
-- [LASP: Surveying the State-of-the-Art in Large Language Model-Assisted AI Planning](2024年09月03日/LASP_Surveying_the_State-of-the-Art_in_Large_Language_Model-Assisted_AI_Planning.md)
-
-    - [翻译: LASP：探索大规模语言模型在人工智能规划中的最新技术进展](2024年09月03日/LASP_Surveying_the_State-of-the-Art_in_Large_Language_Model-Assisted_AI_Planning.md)
-
-- [Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment](2024年09月03日/Optimizing_CLIP_Models_for_Image_Retrieval_with_Maintained_Joint-Embedding_Alignment.md)
-
-    - [翻译: 优化 CLIP 模型，实现图像检索的同时保持联合嵌入的精准对齐](2024年09月03日/Optimizing_CLIP_Models_for_Image_Retrieval_with_Maintained_Joint-Embedding_Alignment.md)
-
 - [Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text](2024年09月03日/Political_DEBATE_Efficient_Zero-shot_and_Few-shot_Classifiers_for_Political_Text.md)
 
     - [翻译: 政治文本分类新视角：高效零-shot 与少-shot 分类器](2024年09月03日/Political_DEBATE_Efficient_Zero-shot_and_Few-shot_Classifiers_for_Political_Text.md)
@@ -180,17 +164,9 @@
 
     - [翻译: ReKep：针对机器人操作，探究关系关键点约束的空间与时间推理](2024年09月03日/ReKep_Spatio-Temporal_Reasoning_of_Relational_Keypoint_Constraints_for_Robotic_Manipulation.md)
 
-- [SafeEmbodAI: a Safety Framework for Mobile Robots in Embodied AI Systems](2024年09月03日/SafeEmbodAI_a_Safety_Framework_for_Mobile_Robots_in_Embodied_AI_Systems.md)
-
-    - [翻译: SafeEmbodAI：为具身AI系统中的移动机器人量身打造的安全框架](2024年09月03日/SafeEmbodAI_a_Safety_Framework_for_Mobile_Robots_in_Embodied_AI_Systems.md)
-
 - [Spinning the Golden Thread: Benchmarking Long-Form Generation in Language Models](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
 
     - [翻译: 金线旋舞：语言模型长篇生成的基准测试](2024年09月03日/Spinning_the_Golden_Thread_Benchmarking_Long-Form_Generation_in_Language_Models.md)
-
-- [The Role of Large Language Models in Musicology: Are We Ready to Trust the Machines?](2024年09月03日/The_Role_of_Large_Language_Models_in_Musicology_Are_We_Ready_to_Trust_the_Machines.md)
-
-    - [翻译: 大型语言模型在音乐学领域扮演着怎样的角色？我们是否已准备好将信任交付给机器？](2024年09月03日/The_Role_of_Large_Language_Models_in_Musicology_Are_We_Ready_to_Trust_the_Machines.md)
 
 - [Towards Leveraging Large Language Models for Automated Medical Q&A Evaluation](2024年09月03日/Towards_Leveraging_Large_Language_Models_for_Automated_Medical_Q&A_Evaluation.md)
 
