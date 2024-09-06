@@ -140,10 +140,6 @@
 
 2024年09月04日
 
-- [A Comparative Study of Offline Models and Online LLMs in Fake News Detection](2024年09月04日/A_Comparative_Study_of_Offline_Models_and_Online_LLMs_in_Fake_News_Detection.md)
-
-    - [翻译: 本研究对比了离线模型与在线大型语言模型在假新闻检测中的表现，旨在揭示两者在这一领域的优劣与应用潜力。](2024年09月04日/A_Comparative_Study_of_Offline_Models_and_Online_LLMs_in_Fake_News_Detection.md)
-
 - [Advancing Cyber Incident Timeline Analysis Through Rule Based AI and Large Language Models](2024年09月04日/Advancing_Cyber_Incident_Timeline_Analysis_Through_Rule_Based_AI_and_Large_Language_Models.md)
 
     - [翻译: 利用基于规则的AI与大型语言模型，我们正推动网络事件时间线分析的进步。](2024年09月04日/Advancing_Cyber_Incident_Timeline_Analysis_Through_Rule_Based_AI_and_Large_Language_Models.md)
@@ -152,22 +148,6 @@
 
     - [翻译: LLM 内容审核：从准确性迈向合法性](2024年09月04日/Content_Moderation_by_LLM_From_Accuracy_to_Legitimacy.md)
 
-- [Debugging with Open-Source Large Language Models: An Evaluation](2024年09月04日/Debugging_with_Open-Source_Large_Language_Models_An_Evaluation.md)
-
-    - [翻译: 开源大型语言模型调试评估](2024年09月04日/Debugging_with_Open-Source_Large_Language_Models_An_Evaluation.md)
-
-- [Language Understanding as a Constraint on Consensus Size in LLM Societies](2024年09月04日/Language_Understanding_as_a_Constraint_on_Consensus_Size_in_LLM_Societies.md)
-
-    - [翻译: 语言理解：LLM 社会共识规模的制约因素](2024年09月04日/Language_Understanding_as_a_Constraint_on_Consensus_Size_in_LLM_Societies.md)
-
-- [Large Language Model-Based Agents for Software Engineering: A Survey](2024年09月04日/Large_Language_Model-Based_Agents_for_Software_Engineering_A_Survey.md)
-
-    - [翻译: 大型语言模型在软件工程中的应用：全面调查](2024年09月04日/Large_Language_Model-Based_Agents_for_Software_Engineering_A_Survey.md)
-
-- [MARAGS: A Multi-Adapter System for Multi-Task Retrieval Augmented Generation Question Answering](2024年09月04日/MARAGS_A_Multi-Adapter_System_for_Multi-Task_Retrieval_Augmented_Generation_Question_Answering.md)
-
-    - [翻译: MARAGS：多任务检索增强生成问答的多适配器系统](2024年09月04日/MARAGS_A_Multi-Adapter_System_for_Multi-Task_Retrieval_Augmented_Generation_Question_Answering.md)
-
 - [MaterialBENCH: Evaluating College-Level Materials Science Problem-Solving Abilities of Large Language Models](2024年09月04日/MaterialBENCH_Evaluating_College-Level_Materials_Science_Problem-Solving_Abilities_of_Large_Language_Models.md)
 
     - [翻译: MaterialBENCH：评估大型语言模型在大学水平材料科学问题解决能力的表现](2024年09月04日/MaterialBENCH_Evaluating_College-Level_Materials_Science_Problem-Solving_Abilities_of_Large_Language_Models.md)
@@ -175,10 +155,6 @@
 - [Multi-language Unit Test Generation using LLMs](2024年09月04日/Multi-language_Unit_Test_Generation_using_LLMs.md)
 
     - [翻译: 利用 LLM 生成多语言单元测试](2024年09月04日/Multi-language_Unit_Test_Generation_using_LLMs.md)
-
-- [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
-
-    - [翻译: RoboTwin：一款早期版本的双臂机器人基准，集成了生成式数字孪生技术。](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
 
 - [Well, that escalated quickly: The Single-Turn Crescendo Attack (STCA)](2024年09月04日/Well,_that_escalated_quickly_The_Single-Turn_Crescendo_Attack_(STCA).md)
 
