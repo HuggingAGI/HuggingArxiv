@@ -30,10 +30,6 @@
 
     - [翻译: FireRedTTS：专为工业级语音生成应用打造的基础文本转语音框架](2024年09月05日/FireRedTTS_A_Foundation_Text-To-Speech_Framework_for_Industry-Level_Generative_Speech_Applications.md)
 
-- [From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents](2024年09月05日/From_MOOC_to_MAIC_Reshaping_Online_Teaching_and_Learning_through_LLM-driven_Agents.md)
-
-    - [翻译: 从 MOOC 到 MAIC：借助 LLM 驱动的智能代理，重塑在线教育新格局](2024年09月05日/From_MOOC_to_MAIC_Reshaping_Online_Teaching_and_Learning_through_LLM-driven_Agents.md)
-
 - [GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding](2024年09月05日/GraphInsight_Unlocking_Insights_in_Large_Language_Models_for_Graph_Structure_Understanding.md)
 
     - [翻译: GraphInsight：揭示大型语言模型中图结构理解的深层见解](2024年09月05日/GraphInsight_Unlocking_Insights_in_Large_Language_Models_for_Graph_Structure_Understanding.md)
@@ -54,37 +50,17 @@
 
     - [翻译: iText2KG：借助大型语言模型实现知识图谱的增量构建](2024年09月05日/iText2KG_Incremental_Knowledge_Graphs_Construction_Using_Large_Language_Models.md)
 
-- [Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time](2024年09月05日/Leveraging_Large_Language_Models_through_Natural_Language_Processing_to_provide_interpretable_Machine_Learning_predictions_of_mental_deterioration_in_real_time.md)
-
-    - [翻译: 借助自然语言处理技术，利用大型语言模型实时解读心理衰退的机器学习预测](2024年09月05日/Leveraging_Large_Language_Models_through_Natural_Language_Processing_to_provide_interpretable_Machine_Learning_predictions_of_mental_deterioration_in_real_time.md)
-
 - [LLM-based event abstraction and integration for IoT-sourced logs](2024年09月05日/LLM-based_event_abstraction_and_integration_for_IoT-sourced_logs.md)
 
     - [翻译: 利用 LLM 进行 IoT 日志的事件抽象与集成](2024年09月05日/LLM-based_event_abstraction_and_integration_for_IoT-sourced_logs.md)
-
-- [LLM-based multi-agent poetry generation in non-cooperative environments](2024年09月05日/LLM-based_multi-agent_poetry_generation_in_non-cooperative_environments.md)
-
-    - [翻译: 在非合作环境中，基于 LLM 的多代理诗歌生成](2024年09月05日/LLM-based_multi-agent_poetry_generation_in_non-cooperative_environments.md)
 
 - [LLM-CI: Assessing Contextual Integrity Norms in Language Models](2024年09月05日/LLM-CI_Assessing_Contextual_Integrity_Norms_in_Language_Models.md)
 
     - [翻译: LLM-CI：探究语言模型中的上下文完整性规范](2024年09月05日/LLM-CI_Assessing_Contextual_Integrity_Norms_in_Language_Models.md)
 
-- [LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts](2024年09月05日/LLM_Detectors_Still_Fall_Short_of_Real_World_Case_of_LLM-Generated_Short_News-Like_Posts.md)
-
-    - [翻译: 尽管 LLM 检测器在识别 LLM 生成的短新闻类帖子方面有所尝试，但在现实应用中仍显不足。](2024年09月05日/LLM_Detectors_Still_Fall_Short_of_Real_World_Case_of_LLM-Generated_Short_News-Like_Posts.md)
-
 - [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](2024年09月05日/mPLUG-DocOwl2_High-resolution_Compressing_for_OCR-free_Multi-page_Document_Understanding.md)
 
     - [翻译: mPLUG-DocOwl2：无 OCR 多页文档理解的高分辨率压缩技术](2024年09月05日/mPLUG-DocOwl2_High-resolution_Compressing_for_OCR-free_Multi-page_Document_Understanding.md)
-
-- [N-gram Prediction and Word Difference Representations for Language Modeling](2024年09月05日/N-gram_Prediction_and_Word_Difference_Representations_for_Language_Modeling.md)
-
-    - [翻译: 语言建模中的 N-gram 预测与词差异表示](2024年09月05日/N-gram_Prediction_and_Word_Difference_Representations_for_Language_Modeling.md)
-
-- [No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair](2024年09月05日/No_Man_is_an_Island_Towards_Fully_Automatic_Programming_by_Code_Search,_Code_Generation_and_Program_Repair.md)
-
-    - [翻译: 编程无孤岛：借助代码搜索、生成与修复，迈向全自动编程](2024年09月05日/No_Man_is_an_Island_Towards_Fully_Automatic_Programming_by_Code_Search,_Code_Generation_and_Program_Repair.md)
 
 - [OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving](2024年09月05日/OccLLaMA_An_Occupancy-Language-Action_Generative_World_Model_for_Autonomous_Driving.md)
 
