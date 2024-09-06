@@ -10,10 +10,6 @@
 
     - [翻译: 大型语言模型的注意力机制：全面调查](2024年09月05日/Attention_Heads_of_Large_Language_Models_A_Survey.md)
 
-- [ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding](2024年09月05日/ChartMoE_Mixture_of_Expert_Connector_for_Advanced_Chart_Understanding.md)
-
-    - [翻译: ChartMoE：专为高级图表理解设计的专家混合连接器](2024年09月05日/ChartMoE_Mixture_of_Expert_Connector_for_Advanced_Chart_Understanding.md)
-
 - [CogniDual Framework: Self-Training Large Language Models within a Dual-System Theoretical Framework for Improving Cognitive Tasks](2024年09月05日/CogniDual_Framework_Self-Training_Large_Language_Models_within_a_Dual-System_Theoretical_Framework_for_Improving_Cognitive_Tasks.md)
 
     - [翻译: CogniDual 框架通过双系统理论，自我训练大型语言模型，以提升认知任务的表现。](2024年09月05日/CogniDual_Framework_Self-Training_Large_Language_Models_within_a_Dual-System_Theoretical_Framework_for_Improving_Cognitive_Tasks.md)
@@ -137,25 +133,3 @@
 - [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](2024年09月05日/Understanding_LLM_Development_Through_Longitudinal_Study_Insights_from_the_Open_Ko-LLM_Leaderboard.md)
 
     - [翻译: 纵向研究揭示 LLM 开发的奥秘：Open Ko-LLM Leaderboard 的深度洞察](2024年09月05日/Understanding_LLM_Development_Through_Longitudinal_Study_Insights_from_the_Open_Ko-LLM_Leaderboard.md)
-
-2024年09月04日
-
-- [Advancing Cyber Incident Timeline Analysis Through Rule Based AI and Large Language Models](2024年09月04日/Advancing_Cyber_Incident_Timeline_Analysis_Through_Rule_Based_AI_and_Large_Language_Models.md)
-
-    - [翻译: 利用基于规则的AI与大型语言模型，我们正推动网络事件时间线分析的进步。](2024年09月04日/Advancing_Cyber_Incident_Timeline_Analysis_Through_Rule_Based_AI_and_Large_Language_Models.md)
-
-- [Content Moderation by LLM: From Accuracy to Legitimacy](2024年09月04日/Content_Moderation_by_LLM_From_Accuracy_to_Legitimacy.md)
-
-    - [翻译: LLM 内容审核：从准确性迈向合法性](2024年09月04日/Content_Moderation_by_LLM_From_Accuracy_to_Legitimacy.md)
-
-- [MaterialBENCH: Evaluating College-Level Materials Science Problem-Solving Abilities of Large Language Models](2024年09月04日/MaterialBENCH_Evaluating_College-Level_Materials_Science_Problem-Solving_Abilities_of_Large_Language_Models.md)
-
-    - [翻译: MaterialBENCH：评估大型语言模型在大学水平材料科学问题解决能力的表现](2024年09月04日/MaterialBENCH_Evaluating_College-Level_Materials_Science_Problem-Solving_Abilities_of_Large_Language_Models.md)
-
-- [Multi-language Unit Test Generation using LLMs](2024年09月04日/Multi-language_Unit_Test_Generation_using_LLMs.md)
-
-    - [翻译: 利用 LLM 生成多语言单元测试](2024年09月04日/Multi-language_Unit_Test_Generation_using_LLMs.md)
-
-- [Well, that escalated quickly: The Single-Turn Crescendo Attack (STCA)](2024年09月04日/Well,_that_escalated_quickly_The_Single-Turn_Crescendo_Attack_(STCA).md)
-
-    - [翻译: 哇，这升级得真快：单轮渐强攻击 (STCA)](2024年09月04日/Well,_that_escalated_quickly_The_Single-Turn_Crescendo_Attack_(STCA).md)
