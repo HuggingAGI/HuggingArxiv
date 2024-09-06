@@ -2,10 +2,6 @@
 
 2024年09月04日
 
-- [Accelerating Large Language Model Training with Hybrid GPU-based Compression](2024年09月04日/Accelerating_Large_Language_Model_Training_with_Hybrid_GPU-based_Compression.md)
-
-    - [翻译: 利用混合 GPU 压缩技术加速大型语言模型的训练过程](2024年09月04日/Accelerating_Large_Language_Model_Training_with_Hybrid_GPU-based_Compression.md)
-
 - [A Comparative Study on Large Language Models for Log Parsing](2024年09月04日/A_Comparative_Study_on_Large_Language_Models_for_Log_Parsing.md)
 
     - [翻译: 大型语言模型在日志解析中的比较研究](2024年09月04日/A_Comparative_Study_on_Large_Language_Models_for_Log_Parsing.md)
@@ -25,10 +21,6 @@
 - [Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
 
     - [翻译: LVLMs 能否考取驾照？这项基准测试旨在评估自动驾驶领域 AGI 的可靠性。](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
-
-- [ChatGPT vs Social Surveys: Probing the Objective and Subjective Human Society](2024年09月04日/ChatGPT_vs_Social_Surveys_Probing_the_Objective_and_Subjective_Human_Society.md)
-
-    - [翻译: ChatGPT 对决社会调查：深入探究人类社会的客观与主观层面](2024年09月04日/ChatGPT_vs_Social_Surveys_Probing_the_Objective_and_Subjective_Human_Society.md)
 
 - [CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models](2024年09月04日/CMM-Math_A_Chinese_Multimodal_Math_Dataset_To_Evaluate_and_Enhance_the_Mathematics_Reasoning_of_Large_Multimodal_Models.md)
 
@@ -61,10 +53,6 @@
 - [ExpLLM: Towards Chain of Thought for Facial Expression Recognition](2024年09月04日/ExpLLM_Towards_Chain_of_Thought_for_Facial_Expression_Recognition.md)
 
     - [翻译: ExpLLM：探索面部表情识别中的思维链方法](2024年09月04日/ExpLLM_Towards_Chain_of_Thought_for_Facial_Expression_Recognition.md)
-
-- [Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models](2024年09月04日/Exploring_Sentiment_Dynamics_and_Predictive_Behaviors_in_Cryptocurrency_Discussions_by_Few-Shot_Learning_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型进行少-shot 学习，深入探讨加密货币讨论中的情感变化与预测趋势。](2024年09月04日/Exploring_Sentiment_Dynamics_and_Predictive_Behaviors_in_Cryptocurrency_Discussions_by_Few-Shot_Learning_with_Large_Language_Models.md)
 
 - [Exploring the applicability of Large Language Models to citation context analysis](2024年09月04日/Exploring_the_applicability_of_Large_Language_Models_to_citation_context_analysis.md)
 
@@ -106,14 +94,6 @@
 
     - [翻译: 多即是优：探讨大型语言模型中的加法倾向](2024年09月04日/More_is_More_Addition_Bias_in_Large_Language_Models.md)
 
-- [Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?](2024年09月04日/Pooling_And_Attention_What_Are_Effective_Designs_For_LLm-Based_Embedding_Models.md)
-
-    - [翻译: 在基于LLM的嵌入模型中，池化与注意力机制的设计何者更为高效？](2024年09月04日/Pooling_And_Attention_What_Are_Effective_Designs_For_LLm-Based_Embedding_Models.md)
-
-- [PUB: Plot Understanding Benchmark and Dataset for Evaluating Large Language Models on Synthetic Visual Data Interpretation](2024年09月04日/PUB_Plot_Understanding_Benchmark_and_Dataset_for_Evaluating_Large_Language_Models_on_Synthetic_Visual_Data_Interpretation.md)
-
-    - [翻译: PUB：大型语言模型在合成视觉数据解释中的图表理解评估基准与数据集](2024年09月04日/PUB_Plot_Understanding_Benchmark_and_Dataset_for_Evaluating_Large_Language_Models_on_Synthetic_Visual_Data_Interpretation.md)
-
 - [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
 
     - [翻译: RoboTwin：一款早期版本的双臂机器人基准，集成了生成式数字孪生技术。](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
@@ -121,10 +101,6 @@
 - [RouterRetriever: Exploring the Benefits of Routing over Multiple Expert Embedding Models](2024年09月04日/RouterRetriever_Exploring_the_Benefits_of_Routing_over_Multiple_Expert_Embedding_Models.md)
 
     - [翻译: RouterRetriever：探究多专家嵌入模型中路由的优势](2024年09月04日/RouterRetriever_Exploring_the_Benefits_of_Routing_over_Multiple_Expert_Embedding_Models.md)
-
-- [Towards a Unified View of Preference Learning for Large Language Models: A Survey](2024年09月04日/Towards_a_Unified_View_of_Preference_Learning_for_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 探索大型语言模型偏好学习的统一视角：一份调查报告](2024年09月04日/Towards_a_Unified_View_of_Preference_Learning_for_Large_Language_Models_A_Survey.md)
 
 - [Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models](2024年09月04日/Understanding_eGFR_Trajectories_and_Kidney_Function_Decline_via_Large_Multimodal_Models.md)
 
