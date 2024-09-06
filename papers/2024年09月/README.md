@@ -2,10 +2,6 @@
 
 2024年09月05日
 
-- [A Fused Large Language Model for Predicting Startup Success](2024年09月05日/A_Fused_Large_Language_Model_for_Predicting_Startup_Success.md)
-
-    - [翻译: 一款融合型大型语言模型，专为预测初创企业成功而设计。](2024年09月05日/A_Fused_Large_Language_Model_for_Predicting_Startup_Success.md)
-
 - [Attention Heads of Large Language Models: A Survey](2024年09月05日/Attention_Heads_of_Large_Language_Models_A_Survey.md)
 
     - [翻译: 大型语言模型的注意力机制：全面调查](2024年09月05日/Attention_Heads_of_Large_Language_Models_A_Survey.md)
@@ -34,41 +30,21 @@
 
     - [翻译: GraphInsight：揭示大型语言模型中图结构理解的深层见解](2024年09月05日/GraphInsight_Unlocking_Insights_in_Large_Language_Models_for_Graph_Structure_Understanding.md)
 
-- [Hardware Acceleration of LLMs: A comprehensive survey and comparison](2024年09月05日/Hardware_Acceleration_of_LLMs_A_comprehensive_survey_and_comparison.md)
-
-    - [翻译: LLM 硬件加速：全面调查与比较](2024年09月05日/Hardware_Acceleration_of_LLMs_A_comprehensive_survey_and_comparison.md)
-
 - [Have Large Vision-Language Models Mastered Art History?](2024年09月05日/Have_Large_Vision-Language_Models_Mastered_Art_History.md)
 
     - [翻译: 大型视觉语言模型是否已精通艺术史？](2024年09月05日/Have_Large_Vision-Language_Models_Mastered_Art_History.md)
-
-- [How Much Data is Enough Data? Fine-Tuning Large Language Models for In-House Translation: Performance Evaluation Across Multiple Dataset Sizes](2024年09月05日/How_Much_Data_is_Enough_Data_Fine-Tuning_Large_Language_Models_for_In-House_Translation_Performance_Evaluation_Across_Multiple_Dataset_Sizes.md)
-
-    - [翻译: 多少数据才算足够？本文探讨了为内部翻译任务微调大型语言模型时，不同数据集大小对性能的影响。](2024年09月05日/How_Much_Data_is_Enough_Data_Fine-Tuning_Large_Language_Models_for_In-House_Translation_Performance_Evaluation_Across_Multiple_Dataset_Sizes.md)
 
 - [iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models](2024年09月05日/iText2KG_Incremental_Knowledge_Graphs_Construction_Using_Large_Language_Models.md)
 
     - [翻译: iText2KG：借助大型语言模型实现知识图谱的增量构建](2024年09月05日/iText2KG_Incremental_Knowledge_Graphs_Construction_Using_Large_Language_Models.md)
 
-- [LLM-based event abstraction and integration for IoT-sourced logs](2024年09月05日/LLM-based_event_abstraction_and_integration_for_IoT-sourced_logs.md)
-
-    - [翻译: 利用 LLM 进行 IoT 日志的事件抽象与集成](2024年09月05日/LLM-based_event_abstraction_and_integration_for_IoT-sourced_logs.md)
-
 - [LLM-CI: Assessing Contextual Integrity Norms in Language Models](2024年09月05日/LLM-CI_Assessing_Contextual_Integrity_Norms_in_Language_Models.md)
 
     - [翻译: LLM-CI：探究语言模型中的上下文完整性规范](2024年09月05日/LLM-CI_Assessing_Contextual_Integrity_Norms_in_Language_Models.md)
 
-- [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](2024年09月05日/mPLUG-DocOwl2_High-resolution_Compressing_for_OCR-free_Multi-page_Document_Understanding.md)
-
-    - [翻译: mPLUG-DocOwl2：无 OCR 多页文档理解的高分辨率压缩技术](2024年09月05日/mPLUG-DocOwl2_High-resolution_Compressing_for_OCR-free_Multi-page_Document_Understanding.md)
-
 - [OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving](2024年09月05日/OccLLaMA_An_Occupancy-Language-Action_Generative_World_Model_for_Autonomous_Driving.md)
 
     - [翻译: OccLLaMA：一款专为自动驾驶设计的占用-语言-动作生成世界模型，助力智能驾驶的未来。](2024年09月05日/OccLLaMA_An_Occupancy-Language-Action_Generative_World_Model_for_Autonomous_Driving.md)
-
-- [Planning In Natural Language Improves LLM Search For Code Generation](2024年09月05日/Planning_In_Natural_Language_Improves_LLM_Search_For_Code_Generation.md)
-
-    - [翻译: 自然语言规划助力 LLM 代码生成搜索更上一层楼](2024年09月05日/Planning_In_Natural_Language_Improves_LLM_Search_For_Code_Generation.md)
 
 - [RAG based Question-Answering for Contextual Response Prediction System](2024年09月05日/RAG_based_Question-Answering_for_Contextual_Response_Prediction_System.md)
 
