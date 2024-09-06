@@ -148,21 +148,9 @@
 
     - [翻译: 利用基于规则的AI与大型语言模型，我们正推动网络事件时间线分析的进步。](2024年09月04日/Advancing_Cyber_Incident_Timeline_Analysis_Through_Rule_Based_AI_and_Large_Language_Models.md)
 
-- [CLUE: Concept-Level Uncertainty Estimation for Large Language Models](2024年09月04日/CLUE_Concept-Level_Uncertainty_Estimation_for_Large_Language_Models.md)
-
-    - [翻译: CLUE：探索大型语言模型概念级的不确定性](2024年09月04日/CLUE_Concept-Level_Uncertainty_Estimation_for_Large_Language_Models.md)
-
-- [CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models](2024年09月04日/CMM-Math_A_Chinese_Multimodal_Math_Dataset_To_Evaluate_and_Enhance_the_Mathematics_Reasoning_of_Large_Multimodal_Models.md)
-
-    - [翻译: CMM-Math：一款中文多模态数学数据集，旨在评估并提升大型多模态模型在数学推理方面的能力。](2024年09月04日/CMM-Math_A_Chinese_Multimodal_Math_Dataset_To_Evaluate_and_Enhance_the_Mathematics_Reasoning_of_Large_Multimodal_Models.md)
-
 - [Content Moderation by LLM: From Accuracy to Legitimacy](2024年09月04日/Content_Moderation_by_LLM_From_Accuracy_to_Legitimacy.md)
 
     - [翻译: LLM 内容审核：从准确性迈向合法性](2024年09月04日/Content_Moderation_by_LLM_From_Accuracy_to_Legitimacy.md)
-
-- [Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](2024年09月04日/Debate_on_Graph_a_Flexible_and_Reliable_Reasoning_Framework_for_Large_Language_Models.md)
-
-    - [翻译: 辩论图：为大型语言模型提供灵活且可靠的推理框架](2024年09月04日/Debate_on_Graph_a_Flexible_and_Reliable_Reasoning_Framework_for_Large_Language_Models.md)
 
 - [Debugging with Open-Source Large Language Models: An Evaluation](2024年09月04日/Debugging_with_Open-Source_Large_Language_Models_An_Evaluation.md)
 
@@ -172,17 +160,9 @@
 
     - [翻译: 通过去混杂因果感知参数高效微调，提升 LLMs 的问题解决能力](2024年09月04日/Deconfounded_Causality-aware_Parameter-Efficient_Fine-Tuning_for_Problem-Solving_Improvement_of_LLMs.md)
 
-- [Design Contradictions: Help or Hindrance?](2024年09月04日/Design_Contradictions_Help_or_Hindrance.md)
-
-    - [翻译: 设计中的矛盾：是助力还是绊脚石？](2024年09月04日/Design_Contradictions_Help_or_Hindrance.md)
-
 - [Enhancing Healthcare LLM Trust with Atypical Presentations Recalibration](2024年09月04日/Enhancing_Healthcare_LLM_Trust_with_Atypical_Presentations_Recalibration.md)
 
     - [翻译: 提升医疗LLM的信任度：非典型表现的重新校准](2024年09月04日/Enhancing_Healthcare_LLM_Trust_with_Atypical_Presentations_Recalibration.md)
-
-- [ExpLLM: Towards Chain of Thought for Facial Expression Recognition](2024年09月04日/ExpLLM_Towards_Chain_of_Thought_for_Facial_Expression_Recognition.md)
-
-    - [翻译: ExpLLM：探索面部表情识别中的思维链方法](2024年09月04日/ExpLLM_Towards_Chain_of_Thought_for_Facial_Expression_Recognition.md)
 
 - [Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models](2024年09月04日/Hallucination_Detection_in_LLMs_Fast_and_Memory-Efficient_Finetuned_Models.md)
 
@@ -199,10 +179,6 @@
 - [Large Language Model-Based Agents for Software Engineering: A Survey](2024年09月04日/Large_Language_Model-Based_Agents_for_Software_Engineering_A_Survey.md)
 
     - [翻译: 大型语言模型在软件工程中的应用：全面调查](2024年09月04日/Large_Language_Model-Based_Agents_for_Software_Engineering_A_Survey.md)
-
-- [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](2024年09月04日/LongCite_Enabling_LLMs_to_Generate_Fine-grained_Citations_in_Long-context_QA.md)
-
-    - [翻译: LongCite 技术让 LLM 在长篇问答中也能精准生成引用，提升了引用的细致度和准确性。](2024年09月04日/LongCite_Enabling_LLMs_to_Generate_Fine-grained_Citations_in_Long-context_QA.md)
 
 - [MARAGS: A Multi-Adapter System for Multi-Task Retrieval Augmented Generation Question Answering](2024年09月04日/MARAGS_A_Multi-Adapter_System_for_Multi-Task_Retrieval_Augmented_Generation_Question_Answering.md)
 
