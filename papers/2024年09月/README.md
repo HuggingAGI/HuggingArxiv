@@ -22,10 +22,6 @@
 
     - [翻译: 儿科肺炎的医学多模态大型语言模型](2024年09月04日/A_Medical_Multimodal_Large_Language_Model_for_Pediatric_Pneumonia.md)
 
-- [Bioinformatics Retrieval Augmentation Data (BRAD) Digital Assistant](2024年09月04日/Bioinformatics_Retrieval_Augmentation_Data_(BRAD)_Digital_Assistant.md)
-
-    - [翻译: BRAD 数字助手：生物信息学检索增强数据](2024年09月04日/Bioinformatics_Retrieval_Augmentation_Data_(BRAD)_Digital_Assistant.md)
-
 - [Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
 
     - [翻译: LVLMs 能否考取驾照？这项基准测试旨在评估自动驾驶领域 AGI 的可靠性。](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
@@ -133,25 +129,3 @@
 - [Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models](2024年09月04日/Understanding_eGFR_Trajectories_and_Kidney_Function_Decline_via_Large_Multimodal_Models.md)
 
     - [翻译: 借助大型多模态模型，深入探索eGFR变化轨迹与肾功能衰退的关系。](2024年09月04日/Understanding_eGFR_Trajectories_and_Kidney_Function_Decline_via_Large_Multimodal_Models.md)
-
-2024年09月03日
-
-- [A Fresh Take on Stale Embeddings: Improving Dense Retriever Training with Corrector Networks](2024年09月03日/A_Fresh_Take_on_Stale_Embeddings_Improving_Dense_Retriever_Training_with_Corrector_Networks.md)
-
-    - [翻译: 革新陈旧嵌入：利用校正器网络提升密集检索器的训练效果](2024年09月03日/A_Fresh_Take_on_Stale_Embeddings_Improving_Dense_Retriever_Training_with_Corrector_Networks.md)
-
-- [Foundations of Large Language Model Compression -- Part 1: Weight Quantization](2024年09月03日/Foundations_of_Large_Language_Model_Compression_--_Part_1_Weight_Quantization.md)
-
-    - [翻译: 大型语言模型压缩的基石 —— 第一章：权重量化](2024年09月03日/Foundations_of_Large_Language_Model_Compression_--_Part_1_Weight_Quantization.md)
-
-- [Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text](2024年09月03日/Political_DEBATE_Efficient_Zero-shot_and_Few-shot_Classifiers_for_Political_Text.md)
-
-    - [翻译: 政治文本分类新视角：高效零-shot 与少-shot 分类器](2024年09月03日/Political_DEBATE_Efficient_Zero-shot_and_Few-shot_Classifiers_for_Political_Text.md)
-
-- [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation](2024年09月03日/ReKep_Spatio-Temporal_Reasoning_of_Relational_Keypoint_Constraints_for_Robotic_Manipulation.md)
-
-    - [翻译: ReKep：针对机器人操作，探究关系关键点约束的空间与时间推理](2024年09月03日/ReKep_Spatio-Temporal_Reasoning_of_Relational_Keypoint_Constraints_for_Robotic_Manipulation.md)
-
-- [Towards Leveraging Large Language Models for Automated Medical Q&A Evaluation](2024年09月03日/Towards_Leveraging_Large_Language_Models_for_Automated_Medical_Q&A_Evaluation.md)
-
-    - [翻译: 探索大型语言模型在自动化医疗问答评估中的应用潜力](2024年09月03日/Towards_Leveraging_Large_Language_Models_for_Automated_Medical_Q&A_Evaluation.md)
