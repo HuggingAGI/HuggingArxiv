@@ -148,10 +148,6 @@
 
     - [翻译: 利用基于规则的AI与大型语言模型，我们正推动网络事件时间线分析的进步。](2024年09月04日/Advancing_Cyber_Incident_Timeline_Analysis_Through_Rule_Based_AI_and_Large_Language_Models.md)
 
-- [Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
-
-    - [翻译: LVLMs 能否考取驾照？这项基准测试旨在评估自动驾驶领域 AGI 的可靠性。](2024年09月04日/Can_LVLMs_Obtain_a_Driver's_License_A_Benchmark_Towards_Reliable_AGI_for_Autonomous_Driving.md)
-
 - [CLUE: Concept-Level Uncertainty Estimation for Large Language Models](2024年09月04日/CLUE_Concept-Level_Uncertainty_Estimation_for_Large_Language_Models.md)
 
     - [翻译: CLUE：探索大型语言模型概念级的不确定性](2024年09月04日/CLUE_Concept-Level_Uncertainty_Estimation_for_Large_Language_Models.md)
@@ -163,10 +159,6 @@
 - [Content Moderation by LLM: From Accuracy to Legitimacy](2024年09月04日/Content_Moderation_by_LLM_From_Accuracy_to_Legitimacy.md)
 
     - [翻译: LLM 内容审核：从准确性迈向合法性](2024年09月04日/Content_Moderation_by_LLM_From_Accuracy_to_Legitimacy.md)
-
-- [Creating a Gen-AI based Track and Trace Assistant MVP (SuperTracy) for PostNL](2024年09月04日/Creating_a_Gen-AI_based_Track_and_Trace_Assistant_MVP_(SuperTracy)_for_PostNL.md)
-
-    - [翻译: 为 PostNL 打造基于 Gen-AI 的 MVP 追踪助手（SuperTracy）](2024年09月04日/Creating_a_Gen-AI_based_Track_and_Trace_Assistant_MVP_(SuperTracy)_for_PostNL.md)
 
 - [Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](2024年09月04日/Debate_on_Graph_a_Flexible_and_Reliable_Reasoning_Framework_for_Large_Language_Models.md)
 
@@ -183,10 +175,6 @@
 - [Design Contradictions: Help or Hindrance?](2024年09月04日/Design_Contradictions_Help_or_Hindrance.md)
 
     - [翻译: 设计中的矛盾：是助力还是绊脚石？](2024年09月04日/Design_Contradictions_Help_or_Hindrance.md)
-
-- [DetectiveQA: Evaluating Long-Context Reasoning on Detective Novels](2024年09月04日/DetectiveQA_Evaluating_Long-Context_Reasoning_on_Detective_Novels.md)
-
-    - [翻译: DetectiveQA：探究侦探小说中的长篇推理能力](2024年09月04日/DetectiveQA_Evaluating_Long-Context_Reasoning_on_Detective_Novels.md)
 
 - [Enhancing Healthcare LLM Trust with Atypical Presentations Recalibration](2024年09月04日/Enhancing_Healthcare_LLM_Trust_with_Atypical_Presentations_Recalibration.md)
 
@@ -216,10 +204,6 @@
 
     - [翻译: LongCite 技术让 LLM 在长篇问答中也能精准生成引用，提升了引用的细致度和准确性。](2024年09月04日/LongCite_Enabling_LLMs_to_Generate_Fine-grained_Citations_in_Long-context_QA.md)
 
-- [LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture](2024年09月04日/LongLLaVA_Scaling_Multi-modal_LLMs_to_1000_Images_Efficiently_via_Hybrid_Architecture.md)
-
-    - [翻译: LongLLaVA 利用混合架构，高效地将多模态大型语言模型扩展至处理 1000 张图像。](2024年09月04日/LongLLaVA_Scaling_Multi-modal_LLMs_to_1000_Images_Efficiently_via_Hybrid_Architecture.md)
-
 - [MARAGS: A Multi-Adapter System for Multi-Task Retrieval Augmented Generation Question Answering](2024年09月04日/MARAGS_A_Multi-Adapter_System_for_Multi-Task_Retrieval_Augmented_Generation_Question_Answering.md)
 
     - [翻译: MARAGS：多任务检索增强生成问答的多适配器系统](2024年09月04日/MARAGS_A_Multi-Adapter_System_for_Multi-Task_Retrieval_Augmented_Generation_Question_Answering.md)
@@ -228,10 +212,6 @@
 
     - [翻译: MaterialBENCH：评估大型语言模型在大学水平材料科学问题解决能力的表现](2024年09月04日/MaterialBENCH_Evaluating_College-Level_Materials_Science_Problem-Solving_Abilities_of_Large_Language_Models.md)
 
-- [More is More: Addition Bias in Large Language Models](2024年09月04日/More_is_More_Addition_Bias_in_Large_Language_Models.md)
-
-    - [翻译: 多即是优：探讨大型语言模型中的加法倾向](2024年09月04日/More_is_More_Addition_Bias_in_Large_Language_Models.md)
-
 - [Multi-language Unit Test Generation using LLMs](2024年09月04日/Multi-language_Unit_Test_Generation_using_LLMs.md)
 
     - [翻译: 利用 LLM 生成多语言单元测试](2024年09月04日/Multi-language_Unit_Test_Generation_using_LLMs.md)
@@ -239,10 +219,6 @@
 - [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
 
     - [翻译: RoboTwin：一款早期版本的双臂机器人基准，集成了生成式数字孪生技术。](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
-
-- [RouterRetriever: Exploring the Benefits of Routing over Multiple Expert Embedding Models](2024年09月04日/RouterRetriever_Exploring_the_Benefits_of_Routing_over_Multiple_Expert_Embedding_Models.md)
-
-    - [翻译: RouterRetriever：探究多专家嵌入模型中路由的优势](2024年09月04日/RouterRetriever_Exploring_the_Benefits_of_Routing_over_Multiple_Expert_Embedding_Models.md)
 
 - [TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations](2024年09月04日/TC-LLaVA_Rethinking_the_Transfer_from_Image_to_Video_Understanding_with_Temporal_Considerations.md)
 
