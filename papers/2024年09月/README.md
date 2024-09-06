@@ -18,14 +18,6 @@
 
     - [翻译: 个性化内容分类器的终端用户创作：对比示例标签、规则编写与 LLM 提示](2024年09月05日/End_User_Authoring_of_Personalized_Content_Classifiers_Comparing_Example_Labeling,_Rule_Writing,_and_LLM_Prompting.md)
 
-- [Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities](2024年09月05日/Fine-tuning_large_language_models_for_domain_adaptation_Exploration_of_training_strategies,_scaling,_model_merging_and_synergistic_capabilities.md)
-
-    - [翻译: 微调大型语言模型以适应特定领域：深入探讨训练策略、模型扩展、合并技术及其协同效应](2024年09月05日/Fine-tuning_large_language_models_for_domain_adaptation_Exploration_of_training_strategies,_scaling,_model_merging_and_synergistic_capabilities.md)
-
-- [FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications](2024年09月05日/FireRedTTS_A_Foundation_Text-To-Speech_Framework_for_Industry-Level_Generative_Speech_Applications.md)
-
-    - [翻译: FireRedTTS：专为工业级语音生成应用打造的基础文本转语音框架](2024年09月05日/FireRedTTS_A_Foundation_Text-To-Speech_Framework_for_Industry-Level_Generative_Speech_Applications.md)
-
 - [GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding](2024年09月05日/GraphInsight_Unlocking_Insights_in_Large_Language_Models_for_Graph_Structure_Understanding.md)
 
     - [翻译: GraphInsight：揭示大型语言模型中图结构理解的深层见解](2024年09月05日/GraphInsight_Unlocking_Insights_in_Large_Language_Models_for_Graph_Structure_Understanding.md)
@@ -42,29 +34,13 @@
 
     - [翻译: LLM-CI：探究语言模型中的上下文完整性规范](2024年09月05日/LLM-CI_Assessing_Contextual_Integrity_Norms_in_Language_Models.md)
 
-- [OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving](2024年09月05日/OccLLaMA_An_Occupancy-Language-Action_Generative_World_Model_for_Autonomous_Driving.md)
-
-    - [翻译: OccLLaMA：一款专为自动驾驶设计的占用-语言-动作生成世界模型，助力智能驾驶的未来。](2024年09月05日/OccLLaMA_An_Occupancy-Language-Action_Generative_World_Model_for_Autonomous_Driving.md)
-
 - [RAG based Question-Answering for Contextual Response Prediction System](2024年09月05日/RAG_based_Question-Answering_for_Contextual_Response_Prediction_System.md)
 
     - [翻译: 基于 RAG 的问答系统助力上下文响应预测](2024年09月05日/RAG_based_Question-Answering_for_Contextual_Response_Prediction_System.md)
 
-- [Recent Advances in Attack and Defense Approaches of Large Language Models](2024年09月05日/Recent_Advances_in_Attack_and_Defense_Approaches_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型在攻击与防御领域的最新突破](2024年09月05日/Recent_Advances_in_Attack_and_Defense_Approaches_of_Large_Language_Models.md)
-
 - [Rx Strategist: Prescription Verification using LLM Agents System](2024年09月05日/Rx_Strategist_Prescription_Verification_using_LLM_Agents_System.md)
 
     - [翻译: Rx Strategist：借助 LLM 代理系统实现处方验证](2024年09月05日/Rx_Strategist_Prescription_Verification_using_LLM_Agents_System.md)
-
-- [Safety vs. Performance: How Multi-Objective Learning Reduces Barriers to Market Entry](2024年09月05日/Safety_vs._Performance_How_Multi-Objective_Learning_Reduces_Barriers_to_Market_Entry.md)
-
-    - [翻译: 多目标学习：在安全与性能之间找到平衡，轻松跨越市场门槛。](2024年09月05日/Safety_vs._Performance_How_Multi-Objective_Learning_Reduces_Barriers_to_Market_Entry.md)
-
-- [Sketch: A Toolkit for Streamlining LLM Operations](2024年09月05日/Sketch_A_Toolkit_for_Streamlining_LLM_Operations.md)
-
-    - [翻译: Sketch：简化 LLM 操作的利器](2024年09月05日/Sketch_A_Toolkit_for_Streamlining_LLM_Operations.md)
 
 - [Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation](2024年09月05日/Strategic_Chain-of-Thought_Guiding_Accurate_Reasoning_in_LLMs_through_Strategy_Elicitation.md)
 
