@@ -2,10 +2,6 @@
 
 2024年09月05日
 
-- [Attention Heads of Large Language Models: A Survey](2024年09月05日/Attention_Heads_of_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 大型语言模型的注意力机制：全面调查](2024年09月05日/Attention_Heads_of_Large_Language_Models_A_Survey.md)
-
 - [CogniDual Framework: Self-Training Large Language Models within a Dual-System Theoretical Framework for Improving Cognitive Tasks](2024年09月05日/CogniDual_Framework_Self-Training_Large_Language_Models_within_a_Dual-System_Theoretical_Framework_for_Improving_Cognitive_Tasks.md)
 
     - [翻译: CogniDual 框架通过双系统理论，自我训练大型语言模型，以提升认知任务的表现。](2024年09月05日/CogniDual_Framework_Self-Training_Large_Language_Models_within_a_Dual-System_Theoretical_Framework_for_Improving_Cognitive_Tasks.md)
@@ -22,10 +18,6 @@
 
     - [翻译: GraphInsight：揭示大型语言模型中图结构理解的深层见解](2024年09月05日/GraphInsight_Unlocking_Insights_in_Large_Language_Models_for_Graph_Structure_Understanding.md)
 
-- [Have Large Vision-Language Models Mastered Art History?](2024年09月05日/Have_Large_Vision-Language_Models_Mastered_Art_History.md)
-
-    - [翻译: 大型视觉语言模型是否已精通艺术史？](2024年09月05日/Have_Large_Vision-Language_Models_Mastered_Art_History.md)
-
 - [iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models](2024年09月05日/iText2KG_Incremental_Knowledge_Graphs_Construction_Using_Large_Language_Models.md)
 
     - [翻译: iText2KG：借助大型语言模型实现知识图谱的增量构建](2024年09月05日/iText2KG_Incremental_Knowledge_Graphs_Construction_Using_Large_Language_Models.md)
@@ -33,10 +25,6 @@
 - [LLM-CI: Assessing Contextual Integrity Norms in Language Models](2024年09月05日/LLM-CI_Assessing_Contextual_Integrity_Norms_in_Language_Models.md)
 
     - [翻译: LLM-CI：探究语言模型中的上下文完整性规范](2024年09月05日/LLM-CI_Assessing_Contextual_Integrity_Norms_in_Language_Models.md)
-
-- [RAG based Question-Answering for Contextual Response Prediction System](2024年09月05日/RAG_based_Question-Answering_for_Contextual_Response_Prediction_System.md)
-
-    - [翻译: 基于 RAG 的问答系统助力上下文响应预测](2024年09月05日/RAG_based_Question-Answering_for_Contextual_Response_Prediction_System.md)
 
 - [Rx Strategist: Prescription Verification using LLM Agents System](2024年09月05日/Rx_Strategist_Prescription_Verification_using_LLM_Agents_System.md)
 
@@ -46,18 +34,6 @@
 
     - [翻译: 战略思维链：通过策略引导，助力 LLMs 实现精准推理](2024年09月05日/Strategic_Chain-of-Thought_Guiding_Accurate_Reasoning_in_LLMs_through_Strategy_Elicitation.md)
 
-- [Text-Guided Mixup Towards Long-Tailed Image Categorization](2024年09月05日/Text-Guided_Mixup_Towards_Long-Tailed_Image_Categorization.md)
-
-    - [翻译: 通过文本引导的混合技术，解决长尾图像分类问题](2024年09月05日/Text-Guided_Mixup_Towards_Long-Tailed_Image_Categorization.md)
-
 - [The representation landscape of few-shot learning and fine-tuning in large language models](2024年09月05日/The_representation_landscape_of_few-shot_learning_and_fine-tuning_in_large_language_models.md)
 
     - [翻译: 大型语言模型中少样本学习与微调的表示图景](2024年09月05日/The_representation_landscape_of_few-shot_learning_and_fine-tuning_in_large_language_models.md)
-
-- [TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems](2024年09月05日/TRACE-cs_Trustworthy_Reasoning_for_Contrastive_Explanations_in_Course_Scheduling_Problems.md)
-
-    - [翻译: TRACE-cs：课程调度问题中对比解释的可信推理](2024年09月05日/TRACE-cs_Trustworthy_Reasoning_for_Contrastive_Explanations_in_Course_Scheduling_Problems.md)
-
-- [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](2024年09月05日/Understanding_LLM_Development_Through_Longitudinal_Study_Insights_from_the_Open_Ko-LLM_Leaderboard.md)
-
-    - [翻译: 纵向研究揭示 LLM 开发的奥秘：Open Ko-LLM Leaderboard 的深度洞察](2024年09月05日/Understanding_LLM_Development_Through_Longitudinal_Study_Insights_from_the_Open_Ko-LLM_Leaderboard.md)
