@@ -1,5 +1,5 @@
 # GenAI 驱动的多智能体范式在智能城市移动性中的应用：探讨 LLM 和 RAG 与智能交通系统集成的机会与挑战
-发布时间：2024年08月31日
+发布时间：2024年09月04日
 
 `RAG`
 > GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems
