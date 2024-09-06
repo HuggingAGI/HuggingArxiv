@@ -156,22 +156,6 @@
 
     - [翻译: 开源大型语言模型调试评估](2024年09月04日/Debugging_with_Open-Source_Large_Language_Models_An_Evaluation.md)
 
-- [Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs](2024年09月04日/Deconfounded_Causality-aware_Parameter-Efficient_Fine-Tuning_for_Problem-Solving_Improvement_of_LLMs.md)
-
-    - [翻译: 通过去混杂因果感知参数高效微调，提升 LLMs 的问题解决能力](2024年09月04日/Deconfounded_Causality-aware_Parameter-Efficient_Fine-Tuning_for_Problem-Solving_Improvement_of_LLMs.md)
-
-- [Enhancing Healthcare LLM Trust with Atypical Presentations Recalibration](2024年09月04日/Enhancing_Healthcare_LLM_Trust_with_Atypical_Presentations_Recalibration.md)
-
-    - [翻译: 提升医疗LLM的信任度：非典型表现的重新校准](2024年09月04日/Enhancing_Healthcare_LLM_Trust_with_Atypical_Presentations_Recalibration.md)
-
-- [Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models](2024年09月04日/Hallucination_Detection_in_LLMs_Fast_and_Memory-Efficient_Finetuned_Models.md)
-
-    - [翻译: LLM 中的幻觉检测：快速且内存高效的微调模型](2024年09月04日/Hallucination_Detection_in_LLMs_Fast_and_Memory-Efficient_Finetuned_Models.md)
-
-- [Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompts](2024年09月04日/Language_is_Scary_when_Over-Analyzed_Unpacking_Implied_Misogynistic_Reasoning_with_Argumentation_Theory-Driven_Prompts.md)
-
-    - [翻译: 过度剖析语言令人畏惧，通过论证理论引导的提示，我们能揭示其中隐含的厌女逻辑。](2024年09月04日/Language_is_Scary_when_Over-Analyzed_Unpacking_Implied_Misogynistic_Reasoning_with_Argumentation_Theory-Driven_Prompts.md)
-
 - [Language Understanding as a Constraint on Consensus Size in LLM Societies](2024年09月04日/Language_Understanding_as_a_Constraint_on_Consensus_Size_in_LLM_Societies.md)
 
     - [翻译: 语言理解：LLM 社会共识规模的制约因素](2024年09月04日/Language_Understanding_as_a_Constraint_on_Consensus_Size_in_LLM_Societies.md)
@@ -196,14 +180,6 @@
 
     - [翻译: RoboTwin：一款早期版本的双臂机器人基准，集成了生成式数字孪生技术。](2024年09月04日/RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_(early_version).md)
 
-- [TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations](2024年09月04日/TC-LLaVA_Rethinking_the_Transfer_from_Image_to_Video_Understanding_with_Temporal_Considerations.md)
-
-    - [翻译: TC-LLaVA：通过融入时间维度，重新审视从图像到视频理解的转变。](2024年09月04日/TC-LLaVA_Rethinking_the_Transfer_from_Image_to_Video_Understanding_with_Temporal_Considerations.md)
-
 - [Well, that escalated quickly: The Single-Turn Crescendo Attack (STCA)](2024年09月04日/Well,_that_escalated_quickly_The_Single-Turn_Crescendo_Attack_(STCA).md)
 
     - [翻译: 哇，这升级得真快：单轮渐强攻击 (STCA)](2024年09月04日/Well,_that_escalated_quickly_The_Single-Turn_Crescendo_Attack_(STCA).md)
-
-- [xLAM: A Family of Large Action Models to Empower AI Agent Systems](2024年09月04日/xLAM_A_Family_of_Large_Action_Models_to_Empower_AI_Agent_Systems.md)
-
-    - [翻译: xLAM：一个大型动作模型家族，致力于提升 AI 代理系统的性能](2024年09月04日/xLAM_A_Family_of_Large_Action_Models_to_Empower_AI_Agent_Systems.md)
