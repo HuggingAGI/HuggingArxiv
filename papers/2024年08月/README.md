@@ -1,5 +1,17 @@
 # 2024年08月
 
+2024年08月31日
+
+- [BreachSeek: A Multi-Agent Automated Penetration Tester](2024年08月31日/BreachSeek_A_Multi-Agent_Automated_Penetration_Tester.md)
+
+    - [翻译: BreachSeek：一款多智能体自动渗透测试神器](2024年08月31日/BreachSeek_A_Multi-Agent_Automated_Penetration_Tester.md)
+
+2024年08月22日
+
+- [ChatGPT and Its Educational Impact: Insights from a Software Development Competition](2024年08月22日/ChatGPT_and_Its_Educational_Impact_Insights_from_a_Software_Development_Competition.md)
+
+    - [翻译: ChatGPT 的教育影响：软件开发竞赛中的洞察](2024年08月22日/ChatGPT_and_Its_Educational_Impact_Insights_from_a_Software_Development_Competition.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
