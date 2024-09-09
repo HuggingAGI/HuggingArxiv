@@ -14,10 +14,6 @@
 
     - [翻译: AnyMatch -- 利用小型语言模型实现高效零-shot 实体匹配](2024年09月06日/AnyMatch_--_Efficient_Zero-Shot_Entity_Matching_with_a_Small_Language_Model.md)
 
-- [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](2024年09月06日/Can_LLMs_Generate_Novel_Research_Ideas_A_Large-Scale_Human_Study_with_100+_NLP_Researchers.md)
-
-    - [翻译: 大型语言模型能否孕育创新研究思路？这项大规模研究邀请了 100 多位 NLP 专家，共同探讨这一问题。](2024年09月06日/Can_LLMs_Generate_Novel_Research_Ideas_A_Large-Scale_Human_Study_with_100+_NLP_Researchers.md)
-
 - [Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language Models for Text-to-Code Generation](2024年09月06日/Can_OpenSource_beat_ChatGPT_--_A_Comparative_Study_of_Large_Language_Models_for_Text-to-Code_Generation.md)
 
     - [翻译: 开源能否超越 ChatGPT？—— 这是一场关于文本到代码生成的大型语言模型的较量。](2024年09月06日/Can_OpenSource_beat_ChatGPT_--_A_Comparative_Study_of_Large_Language_Models_for_Text-to-Code_Generation.md)
@@ -66,32 +62,10 @@
 
     - [翻译: RLPF：利用预测反馈进行用户摘要的强化学习，结合大型语言模型技术。](2024年09月06日/RLPF_Reinforcement_Learning_from_Prediction_Feedback_for_User_Summarization_with_LLMs.md)
 
-- [Self-Harmonized Chain of Thought](2024年09月06日/Self-Harmonized_Chain_of_Thought.md)
-
-    - [翻译: 自我和谐思维链](2024年09月06日/Self-Harmonized_Chain_of_Thought.md)
-
 - [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](2024年09月06日/Theory,_Analysis,_and_Best_Practices_for_Sigmoid_Self-Attention.md)
 
     - [翻译: 探索 Sigmoid 自注意力机制：理论、分析与最佳实践](2024年09月06日/Theory,_Analysis,_and_Best_Practices_for_Sigmoid_Self-Attention.md)
 
-- [UI-JEPA: Towards Active Perception of User Intent through Onscreen User Activity](2024年09月06日/UI-JEPA_Towards_Active_Perception_of_User_Intent_through_Onscreen_User_Activity.md)
-
-    - [翻译: UI-JEPA：通过屏幕用户活动主动感知用户意图](2024年09月06日/UI-JEPA_Towards_Active_Perception_of_User_Intent_through_Onscreen_User_Activity.md)
-
 - [Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets](2024年09月06日/Using_Large_Language_Models_to_Generate_Authentic_Multi-agent_Knowledge_Work_Datasets.md)
 
     - [翻译: 借助大型语言模型，我们能够生成真实的多代理知识工作数据集。](2024年09月06日/Using_Large_Language_Models_to_Generate_Authentic_Multi-agent_Knowledge_Work_Datasets.md)
-
-2024年09月05日
-
-- [Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study](2024年09月05日/Confidential_Computing_on_nVIDIA_H100_GPU_A_Performance_Benchmark_Study.md)
-
-    - [翻译: nVIDIA H100 GPU 机密计算性能基准研究](2024年09月05日/Confidential_Computing_on_nVIDIA_H100_GPU_A_Performance_Benchmark_Study.md)
-
-- [Persona Setting Pitfall: Persistent Outgroup Biases in Large Language Models Arising from Social Identity Adoption](2024年09月05日/Persona_Setting_Pitfall_Persistent_Outgroup_Biases_in_Large_Language_Models_Arising_from_Social_Identity_Adoption.md)
-
-    - [翻译: 大型语言模型中的角色设定陷阱：社会身份采纳引发的持续外群体偏见](2024年09月05日/Persona_Setting_Pitfall_Persistent_Outgroup_Biases_in_Large_Language_Models_Arising_from_Social_Identity_Adoption.md)
-
-- [RETAIN: Interactive Tool for Regression Testing Guided LLM Migration](2024年09月05日/RETAIN_Interactive_Tool_for_Regression_Testing_Guided_LLM_Migration.md)
-
-    - [翻译: RETAIN：一款交互式工具，专为引导 LLM 迁移的回归测试而设计](2024年09月05日/RETAIN_Interactive_Tool_for_Regression_Testing_Guided_LLM_Migration.md)
