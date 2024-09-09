@@ -84,21 +84,9 @@
 
 2024年09月05日
 
-- [APITestGenie: Automated API Test Generation through Generative AI](2024年09月05日/APITestGenie_Automated_API_Test_Generation_through_Generative_AI.md)
-
-    - [翻译: APITestGenie：利用生成式 AI 自动生成 API 测试](2024年09月05日/APITestGenie_Automated_API_Test_Generation_through_Generative_AI.md)
-
 - [Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study](2024年09月05日/Confidential_Computing_on_nVIDIA_H100_GPU_A_Performance_Benchmark_Study.md)
 
     - [翻译: nVIDIA H100 GPU 机密计算性能基准研究](2024年09月05日/Confidential_Computing_on_nVIDIA_H100_GPU_A_Performance_Benchmark_Study.md)
-
-- [Generating Faithful and Salient Text from Multimodal Data](2024年09月05日/Generating_Faithful_and_Salient_Text_from_Multimodal_Data.md)
-
-    - [翻译: 从多模态数据中生成忠实且突出的文本](2024年09月05日/Generating_Faithful_and_Salient_Text_from_Multimodal_Data.md)
-
-- [Harnessing LLMs for Cross-City OD Flow Prediction](2024年09月05日/Harnessing_LLMs_for_Cross-City_OD_Flow_Prediction.md)
-
-    - [翻译: 借助 LLM 之力，预测跨城市 OD 流量](2024年09月05日/Harnessing_LLMs_for_Cross-City_OD_Flow_Prediction.md)
 
 - [Persona Setting Pitfall: Persistent Outgroup Biases in Large Language Models Arising from Social Identity Adoption](2024年09月05日/Persona_Setting_Pitfall_Persistent_Outgroup_Biases_in_Large_Language_Models_Arising_from_Social_Identity_Adoption.md)
 
@@ -107,19 +95,3 @@
 - [RETAIN: Interactive Tool for Regression Testing Guided LLM Migration](2024年09月05日/RETAIN_Interactive_Tool_for_Regression_Testing_Guided_LLM_Migration.md)
 
     - [翻译: RETAIN：一款交互式工具，专为引导 LLM 迁移的回归测试而设计](2024年09月05日/RETAIN_Interactive_Tool_for_Regression_Testing_Guided_LLM_Migration.md)
-
-- [Sirius: Contextual Sparsity with Correction for Efficient LLMs](2024年09月05日/Sirius_Contextual_Sparsity_with_Correction_for_Efficient_LLMs.md)
-
-    - [翻译: Sirius：结合上下文稀疏与修正，打造高效 LLM](2024年09月05日/Sirius_Contextual_Sparsity_with_Correction_for_Efficient_LLMs.md)
-
-2024年09月04日
-
-- [NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls](2024年09月04日/NESTFUL_A_Benchmark_for_Evaluating_LLMs_on_Nested_Sequences_of_API_Calls.md)
-
-    - [翻译: NESTFUL：评估 LLM 处理嵌套 API 调用序列的基准](2024年09月04日/NESTFUL_A_Benchmark_for_Evaluating_LLMs_on_Nested_Sequences_of_API_Calls.md)
-
-2024年09月03日
-
-- [Safeguarding AI Agents: Developing and Analyzing Safety Architectures](2024年09月03日/Safeguarding_AI_Agents_Developing_and_Analyzing_Safety_Architectures.md)
-
-    - [翻译: 守护AI代理：构建与评估安全架构](2024年09月03日/Safeguarding_AI_Agents_Developing_and_Analyzing_Safety_Architectures.md)
