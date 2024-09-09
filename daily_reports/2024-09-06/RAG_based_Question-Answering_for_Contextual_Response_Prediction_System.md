@@ -1,5 +1,5 @@
 # 基于 RAG 的问答系统助力上下文响应预测
-发布时间：2024年09月05日
+发布时间：2024年09月06日
 
 `RAG`
 > RAG based Question-Answering for Contextual Response Prediction System
