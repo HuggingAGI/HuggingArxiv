@@ -112,14 +112,6 @@
 
     - [翻译: 多计划探索与反馈驱动细化相结合的代码生成配对编程框架](2024年09月08日/A_Pair_Programming_Framework_for_Code_Generation_via_Multi-Plan_Exploration_and_Feedback-Driven_Refinement.md)
 
-- [Enhancing Socially-Aware Robot Navigation through Bidirectional Natural Language Conversation](2024年09月08日/Enhancing_Socially-Aware_Robot_Navigation_through_Bidirectional_Natural_Language_Conversation.md)
-
-    - [翻译: 通过双向自然语言对话，提升机器人导航的社会意识](2024年09月08日/Enhancing_Socially-Aware_Robot_Navigation_through_Bidirectional_Natural_Language_Conversation.md)
-
-- [How to Align Large Language Models for Teaching English? Designing and Developing LLM based-Chatbot for Teaching English Conversation in EFL, Findings and Limitations](2024年09月08日/How_to_Align_Large_Language_Models_for_Teaching_English_Designing_and_Developing_LLM_based-Chatbot_for_Teaching_English_Conversation_in_EFL,_Findings_and_Limitations.md)
-
-    - [翻译: 如何让大型语言模型更好地服务于英语教学？本文探讨了基于 LLM 的聊天机器人在 EFL 英语会话教学中的设计与开发，并总结了其发现与局限。](2024年09月08日/How_to_Align_Large_Language_Models_for_Teaching_English_Designing_and_Developing_LLM_based-Chatbot_for_Teaching_English_Conversation_in_EFL,_Findings_and_Limitations.md)
-
 - [Improving Multimodal Emotion Recognition by Leveraging Acoustic Adaptation and Visual Alignment](2024年09月08日/Improving_Multimodal_Emotion_Recognition_by_Leveraging_Acoustic_Adaptation_and_Visual_Alignment.md)
 
     - [翻译: 借助声学适应与视觉对齐，提升多模态情感识别的精准度。](2024年09月08日/Improving_Multimodal_Emotion_Recognition_by_Leveraging_Acoustic_Adaptation_and_Visual_Alignment.md)
@@ -135,14 +127,6 @@
 - [OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs](2024年09月08日/OneGen_Efficient_One-Pass_Unified_Generation_and_Retrieval_for_LLMs.md)
 
     - [翻译: OneGen：为 LLM 打造高效的一步式生成与检索解决方案](2024年09月08日/OneGen_Efficient_One-Pass_Unified_Generation_and_Retrieval_for_LLMs.md)
-
-- [PIP: Detecting Adversarial Examples in Large Vision-Language Models via Attention Patterns of Irrelevant Probe Questions](2024年09月08日/PIP_Detecting_Adversarial_Examples_in_Large_Vision-Language_Models_via_Attention_Patterns_of_Irrelevant_Probe_Questions.md)
-
-    - [翻译: PIP：利用无关探测问题的注意力模式，识别大型视觉-语言模型中的对抗性示例。](2024年09月08日/PIP_Detecting_Adversarial_Examples_in_Large_Vision-Language_Models_via_Attention_Patterns_of_Irrelevant_Probe_Questions.md)
-
-- [Priors from Envisioned Posterior Judgments: A Novel Elicitation Approach With Application to Bayesian Clinical Trials](2024年09月08日/Priors_from_Envisioned_Posterior_Judgments_A_Novel_Elicitation_Approach_With_Application_to_Bayesian_Clinical_Trials.md)
-
-    - [翻译: 设想后验判断的先验：贝叶斯临床试验中的创新启发法](2024年09月08日/Priors_from_Envisioned_Posterior_Judgments_A_Novel_Elicitation_Approach_With_Application_to_Bayesian_Clinical_Trials.md)
 
 - [Seek and Solve Reasoning for Table Question Answering](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
 
@@ -160,14 +144,6 @@
 
     - [翻译: 迈向自动化机器学习研究](2024年09月08日/Towards_Automated_Machine_Learning_Research.md)
 
-- [Using Large Language Models for Template Detection from Security Event Logs](2024年09月08日/Using_Large_Language_Models_for_Template_Detection_from_Security_Event_Logs.md)
-
-    - [翻译: 利用大型语言模型检测安全事件日志中的模板](2024年09月08日/Using_Large_Language_Models_for_Template_Detection_from_Security_Event_Logs.md)
-
 - [Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation](2024年09月08日/Vision-fused_Attack_Advancing_Aggressive_and_Stealthy_Adversarial_Text_against_Neural_Machine_Translation.md)
 
     - [翻译: 视觉融合攻击：提升神经机器翻译中对抗性文本的激进性与隐秘性](2024年09月08日/Vision-fused_Attack_Advancing_Aggressive_and_Stealthy_Adversarial_Text_against_Neural_Machine_Translation.md)
-
-- [WaterSeeker: Efficient Detection of Watermarked Segments in Large Documents](2024年09月08日/WaterSeeker_Efficient_Detection_of_Watermarked_Segments_in_Large_Documents.md)
-
-    - [翻译: WaterSeeker：快速识别大文档中的水印片段](2024年09月08日/WaterSeeker_Efficient_Detection_of_Watermarked_Segments_in_Large_Documents.md)
