@@ -1,5 +1,111 @@
 # 2024年09月
 
+2024年09月09日
+
+- [A Novel Idea Generation Tool using a Structured Conversational AI (CAI) System](2024年09月09日/A_Novel_Idea_Generation_Tool_using_a_Structured_Conversational_AI_(CAI)_System.md)
+
+    - [翻译: 基于结构化对话AI系统的新型创意生成工具](2024年09月09日/A_Novel_Idea_Generation_Tool_using_a_Structured_Conversational_AI_(CAI)_System.md)
+
+- [Application Specific Compression of Deep Learning Models](2024年09月09日/Application_Specific_Compression_of_Deep_Learning_Models.md)
+
+    - [翻译: 深度学习模型的应用定制压缩](2024年09月09日/Application_Specific_Compression_of_Deep_Learning_Models.md)
+
+- [Are Large Language Models a Threat to Programming Platforms? An Exploratory Study](2024年09月09日/Are_Large_Language_Models_a_Threat_to_Programming_Platforms_An_Exploratory_Study.md)
+
+    - [翻译: 大型语言模型会威胁编程平台吗？这是一项探索性研究。](2024年09月09日/Are_Large_Language_Models_a_Threat_to_Programming_Platforms_An_Exploratory_Study.md)
+
+- [A Survey of Multimodal Composite Editing and Retrieval](2024年09月09日/A_Survey_of_Multimodal_Composite_Editing_and_Retrieval.md)
+
+    - [翻译: 多模态复合编辑与检索综述](2024年09月09日/A_Survey_of_Multimodal_Composite_Editing_and_Retrieval.md)
+
+- [A System and Benchmark for LLM-based Q\&A on Heterogeneous Data](2024年09月09日/A_System_and_Benchmark_for_LLM-based_Q\&A_on_Heterogeneous_Data.md)
+
+    - [翻译: LLM 驱动的异构数据问答系统及其基准测试](2024年09月09日/A_System_and_Benchmark_for_LLM-based_Q\&A_on_Heterogeneous_Data.md)
+
+- [Benchmarking Chinese Knowledge Rectification in Large Language Models](2024年09月09日/Benchmarking_Chinese_Knowledge_Rectification_in_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型中的中文知识修正基准测试](2024年09月09日/Benchmarking_Chinese_Knowledge_Rectification_in_Large_Language_Models.md)
+
+- [CauseJudger: Identifying the Cause with LLMs for Abductive Logical Reasoning](2024年09月09日/CauseJudger_Identifying_the_Cause_with_LLMs_for_Abductive_Logical_Reasoning.md)
+
+    - [翻译: CauseJudger：借助 LLM 进行溯因逻辑推理，精准识别原因](2024年09月09日/CauseJudger_Identifying_the_Cause_with_LLMs_for_Abductive_Logical_Reasoning.md)
+
+- [DexDiff: Towards Extrinsic Dexterity Manipulation of Ungraspable Objects in Unrestricted Environments](2024年09月09日/DexDiff_Towards_Extrinsic_Dexterity_Manipulation_of_Ungraspable_Objects_in_Unrestricted_Environments.md)
+
+    - [翻译: DexDiff：探索在无限制环境中对不可抓取物体的灵巧操控](2024年09月09日/DexDiff_Towards_Extrinsic_Dexterity_Manipulation_of_Ungraspable_Objects_in_Unrestricted_Environments.md)
+
+- [Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models](2024年09月09日/Elsevier_Arena_Human_Evaluation_of_ChemistryBiologyHealth_Foundational_Large_Language_Models.md)
+
+    - [翻译: Elsevier Arena：探索化学、生物与健康领域基础大型语言模型的人类评估](2024年09月09日/Elsevier_Arena_Human_Evaluation_of_ChemistryBiologyHealth_Foundational_Large_Language_Models.md)
+
+- [Enhancing Critical Thinking in Education by means of a Socratic Chatbot](2024年09月09日/Enhancing_Critical_Thinking_in_Education_by_means_of_a_Socratic_Chatbot.md)
+
+    - [翻译: 借助苏格拉底式聊天机器人，提升教育中的批判性思维](2024年09月09日/Enhancing_Critical_Thinking_in_Education_by_means_of_a_Socratic_Chatbot.md)
+
+- [Evidence from fMRI Supports a Two-Phase Abstraction Process in Language Models](2024年09月09日/Evidence_from_fMRI_Supports_a_Two-Phase_Abstraction_Process_in_Language_Models.md)
+
+    - [翻译: fMRI 研究揭示，语言模型采用两阶段抽象过程，这一发现为理解语言处理机制提供了新视角。](2024年09月09日/Evidence_from_fMRI_Supports_a_Two-Phase_Abstraction_Process_in_Language_Models.md)
+
+- [Harmonic Reasoning in Large Language Models](2024年09月09日/Harmonic_Reasoning_in_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型中的和谐推理](2024年09月09日/Harmonic_Reasoning_in_Large_Language_Models.md)
+
+- [IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS](2024年09月09日/IndicVoices-R_Unlocking_a_Massive_Multilingual_Multi-speaker_Speech_Corpus_for_Scaling_Indian_TTS.md)
+
+    - [翻译: IndicVoices-R：开启大规模多语言多说话者语音库，助力印度 TTS 扩展](2024年09月09日/IndicVoices-R_Unlocking_a_Massive_Multilingual_Multi-speaker_Speech_Corpus_for_Scaling_Indian_TTS.md)
+
+- [KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models](2024年09月09日/KARGEN_Knowledge-enhanced_Automated_Radiology_Report_Generation_Using_Large_Language_Models.md)
+
+    - [翻译: KARGEN：借助大型语言模型，实现知识增强的自动化放射报告生成](2024年09月09日/KARGEN_Knowledge-enhanced_Automated_Radiology_Report_Generation_Using_Large_Language_Models.md)
+
+- [Leveraging Content and Acoustic Representations for Efficient Speech Emotion Recognition](2024年09月09日/Leveraging_Content_and_Acoustic_Representations_for_Efficient_Speech_Emotion_Recognition.md)
+
+    - [翻译: 结合内容与声学特征，实现高效的语音情感识别](2024年09月09日/Leveraging_Content_and_Acoustic_Representations_for_Efficient_Speech_Emotion_Recognition.md)
+
+- [LLMs Will Always Hallucinate, and We Need to Live With This](2024年09月09日/LLMs_Will_Always_Hallucinate,_and_We_Need_to_Live_With_This.md)
+
+    - [翻译: LLM 总会产生幻觉，我们得学会接受这一点。](2024年09月09日/LLMs_Will_Always_Hallucinate,_and_We_Need_to_Live_With_This.md)
+
+- [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](2024年09月09日/MemoRAG_Moving_towards_Next-Gen_RAG_Via_Memory-Inspired_Knowledge_Discovery.md)
+
+    - [翻译: MemoRAG：借助记忆启发的知识发现，迈向新一代 RAG 技术。](2024年09月09日/MemoRAG_Moving_towards_Next-Gen_RAG_Via_Memory-Inspired_Knowledge_Discovery.md)
+
+- [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](2024年09月09日/MMEvol_Empowering_Multimodal_Large_Language_Models_with_Evol-Instruct.md)
+
+    - [翻译: MMEvol：借助 Evol-Instruct 技术，为多模态大型语言模型注入新活力](2024年09月09日/MMEvol_Empowering_Multimodal_Large_Language_Models_with_Evol-Instruct.md)
+
+- [Model Input Verification of Large Scale Simulations](2024年09月09日/Model_Input_Verification_of_Large_Scale_Simulations.md)
+
+    - [翻译: 大规模模拟中的模型输入验证](2024年09月09日/Model_Input_Verification_of_Large_Scale_Simulations.md)
+
+- [Representational Analysis of Binding in Large Language Models](2024年09月09日/Representational_Analysis_of_Binding_in_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型中的绑定表示研究](2024年09月09日/Representational_Analysis_of_Binding_in_Large_Language_Models.md)
+
+- [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](2024年09月09日/Robot_Utility_Models_General_Policies_for_Zero-Shot_Deployment_in_New_Environments.md)
+
+    - [翻译: 机器人效用模型：为新环境中的零-shot 部署提供通用策略](2024年09月09日/Robot_Utility_Models_General_Policies_for_Zero-Shot_Deployment_in_New_Environments.md)
+
+- [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](2024年09月09日/SciAgents_Automating_scientific_discovery_through_multi-agent_intelligent_graph_reasoning.md)
+
+    - [翻译: SciAgents：利用多智能体智能图推理，自动化科学发现过程](2024年09月09日/SciAgents_Automating_scientific_discovery_through_multi-agent_intelligent_graph_reasoning.md)
+
+- [TextToucher: Fine-Grained Text-to-Touch Generation](2024年09月09日/TextToucher_Fine-Grained_Text-to-Touch_Generation.md)
+
+    - [翻译: TextToucher：细腻的文本触感生成](2024年09月09日/TextToucher_Fine-Grained_Text-to-Touch_Generation.md)
+
+- [The Influence of Task and Group Disparities over Users' Attitudes Toward Using Large Language Models for Psychotherapy](2024年09月09日/The_Influence_of_Task_and_Group_Disparities_over_Users'_Attitudes_Toward_Using_Large_Language_Models_for_Psychotherapy.md)
+
+    - [翻译: 任务与群体差异如何影响用户对使用大型语言模型进行心理治疗的态度](2024年09月09日/The_Influence_of_Task_and_Group_Disparities_over_Users'_Attitudes_Toward_Using_Large_Language_Models_for_Psychotherapy.md)
+
+- [Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models](2024年09月09日/Towards_Building_a_Robust_Knowledge_Intensive_Question_Answering_Model_with_Large_Language_Models.md)
+
+    - [翻译: 构建鲁棒知识密集型问答模型：大型语言模型的探索之路](2024年09月09日/Towards_Building_a_Robust_Knowledge_Intensive_Question_Answering_Model_with_Large_Language_Models.md)
+
+- [Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-Stage Instruction Fine-tuning Approach](2024年09月09日/Towards_Democratizing_Multilingual_Large_Language_Models_For_Medicine_Through_A_Two-Stage_Instruction_Fine-tuning_Approach.md)
+
+    - [翻译: 通过两阶段指令微调，推动医学领域多语言大型语言模型的普及化。](2024年09月09日/Towards_Democratizing_Multilingual_Large_Language_Models_For_Medicine_Through_A_Two-Stage_Instruction_Fine-tuning_Approach.md)
+
 2024年09月08日
 
 - [A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement](2024年09月08日/A_Pair_Programming_Framework_for_Code_Generation_via_Multi-Plan_Exploration_and_Feedback-Driven_Refinement.md)
@@ -42,6 +148,10 @@
 
     - [翻译: 设想后验判断的先验：贝叶斯临床试验中的创新启发法](2024年09月08日/Priors_from_Envisioned_Posterior_Judgments_A_Novel_Elicitation_Approach_With_Application_to_Bayesian_Clinical_Trials.md)
 
+- [Seek and Solve Reasoning for Table Question Answering](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
+
+    - [翻译: 探索与解答：表格问答中的推理之道](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
+
 - [Seemingly Plausible Distractors in Multi-Hop Reasoning: Are Large Language Models Attentive Readers?](2024年09月08日/Seemingly_Plausible_Distractors_in_Multi-Hop_Reasoning_Are_Large_Language_Models_Attentive_Readers.md)
 
     - [翻译: 多跳推理中的合理干扰项：大型语言模型是否具备专注阅读的能力？](2024年09月08日/Seemingly_Plausible_Distractors_in_Multi-Hop_Reasoning_Are_Large_Language_Models_Attentive_Readers.md)
@@ -49,6 +159,10 @@
 - [Socially Responsible Data for Large Multilingual Language Models](2024年09月08日/Socially_Responsible_Data_for_Large_Multilingual_Language_Models.md)
 
     - [翻译: 多语言大型语言模型的社会责任数据](2024年09月08日/Socially_Responsible_Data_for_Large_Multilingual_Language_Models.md)
+
+- [Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications](2024年09月08日/Tele-LLMs_A_Series_of_Specialized_Large_Language_Models_for_Telecommunications.md)
+
+    - [翻译: Tele-LLMs：专为电信领域量身打造的大型语言模型系列](2024年09月08日/Tele-LLMs_A_Series_of_Specialized_Large_Language_Models_for_Telecommunications.md)
 
 - [Towards Automated Machine Learning Research](2024年09月08日/Towards_Automated_Machine_Learning_Research.md)
 
@@ -126,10 +240,6 @@
 
     - [翻译: BPE 训练中，词汇细化更高效，分词更挑剔。](2024年09月06日/BPE_Gets_Picky_Efficient_Vocabulary_Refinement_During_Tokenizer_Training.md)
 
-- [CubicML: Automated ML for Distributed ML Systems Co-design with ML Prediction of Performance](2024年09月06日/CubicML_Automated_ML_for_Distributed_ML_Systems_Co-design_with_ML_Prediction_of_Performance.md)
-
-    - [翻译: CubicML：通过 ML 性能预测实现分布式 ML 系统的自动化协同设计](2024年09月06日/CubicML_Automated_ML_for_Distributed_ML_Systems_Co-design_with_ML_Prediction_of_Performance.md)
-
 - [Customizing Large Language Model Generation Style using Parameter-Efficient Finetuning](2024年09月06日/Customizing_Large_Language_Model_Generation_Style_using_Parameter-Efficient_Finetuning.md)
 
     - [翻译: 通过参数高效微调，定制大型语言模型的生成风格](2024年09月06日/Customizing_Large_Language_Model_Generation_Style_using_Parameter-Efficient_Finetuning.md)
@@ -142,20 +252,6 @@
 
     - [翻译: 代码预训练对语言模型任务性能有何影响？](2024年09月06日/How_Does_Code_Pretraining_Affect_Language_Model_Task_Performance.md)
 
-- [Sparse Rewards Can Self-Train Dialogue Agents](2024年09月06日/Sparse_Rewards_Can_Self-Train_Dialogue_Agents.md)
-
-    - [翻译: 稀疏奖励也能自我训练对话代理](2024年09月06日/Sparse_Rewards_Can_Self-Train_Dialogue_Agents.md)
-
 - [The emergence of Large Language Models (LLM) as a tool in literature reviews: an LLM automated systematic review](2024年09月06日/The_emergence_of_Large_Language_Models_(LLM)_as_a_tool_in_literature_reviews_an_LLM_automated_systematic_review.md)
 
     - [翻译: 大型语言模型 (LLM) 崭露头角，成为文献综述的得力助手：一场由 LLM 驱动的自动系统性综述。](2024年09月06日/The_emergence_of_Large_Language_Models_(LLM)_as_a_tool_in_literature_reviews_an_LLM_automated_systematic_review.md)
-
-2024年09月05日
-
-- [Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials](2024年09月05日/Large_Language_Models_in_Drug_Discovery_and_Development_From_Disease_Mechanisms_to_Clinical_Trials.md)
-
-    - [翻译: 大型语言模型在药物研发中的应用广泛，涵盖从疾病机制解析到临床试验的全过程。](2024年09月05日/Large_Language_Models_in_Drug_Discovery_and_Development_From_Disease_Mechanisms_to_Clinical_Trials.md)
-
-- [Revolutionizing Database Q&A with Large Language Models: Comprehensive Benchmark and Evaluation](2024年09月05日/Revolutionizing_Database_Q&A_with_Large_Language_Models_Comprehensive_Benchmark_and_Evaluation.md)
-
-    - [翻译: 大型语言模型正引领数据库问答的革新，本文将提供全面基准与评估。](2024年09月05日/Revolutionizing_Database_Q&A_with_Large_Language_Models_Comprehensive_Benchmark_and_Evaluation.md)
