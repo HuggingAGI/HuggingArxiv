@@ -1,5 +1,11 @@
 # 2024年08月
 
+2024年08月29日
+
+- [WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks](2024年08月29日/WET_Overcoming_Paraphrasing_Vulnerabilities_in_Embeddings-as-a-Service_with_Linear_Transformation_Watermarks.md)
+
+    - [翻译: WET：利用线性变换水印技术，解决嵌入服务中的释义漏洞问题](2024年08月29日/WET_Overcoming_Paraphrasing_Vulnerabilities_in_Embeddings-as-a-Service_with_Linear_Transformation_Watermarks.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
