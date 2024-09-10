@@ -236,14 +236,6 @@
 
 2024年09月06日
 
-- [BPE Gets Picky: Efficient Vocabulary Refinement During Tokenizer Training](2024年09月06日/BPE_Gets_Picky_Efficient_Vocabulary_Refinement_During_Tokenizer_Training.md)
-
-    - [翻译: BPE 训练中，词汇细化更高效，分词更挑剔。](2024年09月06日/BPE_Gets_Picky_Efficient_Vocabulary_Refinement_During_Tokenizer_Training.md)
-
-- [Customizing Large Language Model Generation Style using Parameter-Efficient Finetuning](2024年09月06日/Customizing_Large_Language_Model_Generation_Style_using_Parameter-Efficient_Finetuning.md)
-
-    - [翻译: 通过参数高效微调，定制大型语言模型的生成风格](2024年09月06日/Customizing_Large_Language_Model_Generation_Style_using_Parameter-Efficient_Finetuning.md)
-
 - [Dual-Level Cross-Modal Contrastive Clustering](2024年09月06日/Dual-Level_Cross-Modal_Contrastive_Clustering.md)
 
     - [翻译: 双层跨模态对比聚类](2024年09月06日/Dual-Level_Cross-Modal_Contrastive_Clustering.md)
