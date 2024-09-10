@@ -6,10 +6,6 @@
 
     - [翻译: 基于结构化对话AI系统的新型创意生成工具](2024年09月09日/A_Novel_Idea_Generation_Tool_using_a_Structured_Conversational_AI_(CAI)_System.md)
 
-- [Application Specific Compression of Deep Learning Models](2024年09月09日/Application_Specific_Compression_of_Deep_Learning_Models.md)
-
-    - [翻译: 深度学习模型的应用定制压缩](2024年09月09日/Application_Specific_Compression_of_Deep_Learning_Models.md)
-
 - [Are Large Language Models a Threat to Programming Platforms? An Exploratory Study](2024年09月09日/Are_Large_Language_Models_a_Threat_to_Programming_Platforms_An_Exploratory_Study.md)
 
     - [翻译: 大型语言模型会威胁编程平台吗？这是一项探索性研究。](2024年09月09日/Are_Large_Language_Models_a_Threat_to_Programming_Platforms_An_Exploratory_Study.md)
@@ -25,10 +21,6 @@
 - [Benchmarking Chinese Knowledge Rectification in Large Language Models](2024年09月09日/Benchmarking_Chinese_Knowledge_Rectification_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型中的中文知识修正基准测试](2024年09月09日/Benchmarking_Chinese_Knowledge_Rectification_in_Large_Language_Models.md)
-
-- [CauseJudger: Identifying the Cause with LLMs for Abductive Logical Reasoning](2024年09月09日/CauseJudger_Identifying_the_Cause_with_LLMs_for_Abductive_Logical_Reasoning.md)
-
-    - [翻译: CauseJudger：借助 LLM 进行溯因逻辑推理，精准识别原因](2024年09月09日/CauseJudger_Identifying_the_Cause_with_LLMs_for_Abductive_Logical_Reasoning.md)
 
 - [DexDiff: Towards Extrinsic Dexterity Manipulation of Ungraspable Objects in Unrestricted Environments](2024年09月09日/DexDiff_Towards_Extrinsic_Dexterity_Manipulation_of_Ungraspable_Objects_in_Unrestricted_Environments.md)
 
@@ -46,14 +38,6 @@
 
     - [翻译: fMRI 研究揭示，语言模型采用两阶段抽象过程，这一发现为理解语言处理机制提供了新视角。](2024年09月09日/Evidence_from_fMRI_Supports_a_Two-Phase_Abstraction_Process_in_Language_Models.md)
 
-- [Harmonic Reasoning in Large Language Models](2024年09月09日/Harmonic_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的和谐推理](2024年09月09日/Harmonic_Reasoning_in_Large_Language_Models.md)
-
-- [KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models](2024年09月09日/KARGEN_Knowledge-enhanced_Automated_Radiology_Report_Generation_Using_Large_Language_Models.md)
-
-    - [翻译: KARGEN：借助大型语言模型，实现知识增强的自动化放射报告生成](2024年09月09日/KARGEN_Knowledge-enhanced_Automated_Radiology_Report_Generation_Using_Large_Language_Models.md)
-
 - [Leveraging Content and Acoustic Representations for Efficient Speech Emotion Recognition](2024年09月09日/Leveraging_Content_and_Acoustic_Representations_for_Efficient_Speech_Emotion_Recognition.md)
 
     - [翻译: 结合内容与声学特征，实现高效的语音情感识别](2024年09月09日/Leveraging_Content_and_Acoustic_Representations_for_Efficient_Speech_Emotion_Recognition.md)
@@ -70,10 +54,6 @@
 
     - [翻译: 大规模模拟中的模型输入验证](2024年09月09日/Model_Input_Verification_of_Large_Scale_Simulations.md)
 
-- [Representational Analysis of Binding in Large Language Models](2024年09月09日/Representational_Analysis_of_Binding_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的绑定表示研究](2024年09月09日/Representational_Analysis_of_Binding_in_Large_Language_Models.md)
-
 - [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](2024年09月09日/Robot_Utility_Models_General_Policies_for_Zero-Shot_Deployment_in_New_Environments.md)
 
     - [翻译: 机器人效用模型：为新环境中的零-shot 部署提供通用策略](2024年09月09日/Robot_Utility_Models_General_Policies_for_Zero-Shot_Deployment_in_New_Environments.md)
@@ -89,10 +69,6 @@
 - [The Influence of Task and Group Disparities over Users' Attitudes Toward Using Large Language Models for Psychotherapy](2024年09月09日/The_Influence_of_Task_and_Group_Disparities_over_Users'_Attitudes_Toward_Using_Large_Language_Models_for_Psychotherapy.md)
 
     - [翻译: 任务与群体差异如何影响用户对使用大型语言模型进行心理治疗的态度](2024年09月09日/The_Influence_of_Task_and_Group_Disparities_over_Users'_Attitudes_Toward_Using_Large_Language_Models_for_Psychotherapy.md)
-
-- [Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models](2024年09月09日/Towards_Building_a_Robust_Knowledge_Intensive_Question_Answering_Model_with_Large_Language_Models.md)
-
-    - [翻译: 构建鲁棒知识密集型问答模型：大型语言模型的探索之路](2024年09月09日/Towards_Building_a_Robust_Knowledge_Intensive_Question_Answering_Model_with_Large_Language_Models.md)
 
 - [Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-Stage Instruction Fine-tuning Approach](2024年09月09日/Towards_Democratizing_Multilingual_Large_Language_Models_For_Medicine_Through_A_Two-Stage_Instruction_Fine-tuning_Approach.md)
 
