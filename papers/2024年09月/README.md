@@ -186,14 +186,6 @@
 
     - [翻译: 大型语言模型性能巅峰之路：系统性回顾](2024年09月07日/Achieving_Peak_Performance_for_Large_Language_Models_A_Systematic_Review.md)
 
-- [A Hetero-functional Graph Resilience Analysis for Convergent Systems-of-Systems](2024年09月07日/A_Hetero-functional_Graph_Resilience_Analysis_for_Convergent_Systems-of-Systems.md)
-
-    - [翻译: 针对收敛系统-系统的异功能图复原力分析](2024年09月07日/A_Hetero-functional_Graph_Resilience_Analysis_for_Convergent_Systems-of-Systems.md)
-
-- [Exploring Straightforward Conversational Red-Teaming](2024年09月07日/Exploring_Straightforward_Conversational_Red-Teaming.md)
-
-    - [翻译: 探索直截了当的对话式红队策略](2024年09月07日/Exploring_Straightforward_Conversational_Red-Teaming.md)
-
 - [forester: A Tree-Based AutoML Tool in R](2024年09月07日/forester_A_Tree-Based_AutoML_Tool_in_R.md)
 
     - [翻译: forester: R 语言中的树结构自动机器学习工具](2024年09月07日/forester_A_Tree-Based_AutoML_Tool_in_R.md)
@@ -202,10 +194,6 @@
 
     - [翻译: LMGT：利用语言模型优化强化学习中的探索与利用平衡](2024年09月07日/LMGT_Optimizing_Exploration-Exploitation_Balance_in_Reinforcement_Learning_through_Language_Model_Guided_Trade-offs.md)
 
-- [Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities](2024年09月07日/Maximizing_Relation_Extraction_Potential_A_Data-Centric_Study_to_Unveil_Challenges_and_Opportunities.md)
-
-    - [翻译: 挖掘关系抽取的最大潜力：以数据为核心的探索，揭示其中的挑战与机遇](2024年09月07日/Maximizing_Relation_Extraction_Potential_A_Data-Centric_Study_to_Unveil_Challenges_and_Opportunities.md)
-
 - [MILE: A Mutation Testing Framework of In-Context Learning Systems](2024年09月07日/MILE_A_Mutation_Testing_Framework_of_In-Context_Learning_Systems.md)
 
     - [翻译: MILE：一款专为 In-Context Learning 系统设计的变异测试工具](2024年09月07日/MILE_A_Mutation_Testing_Framework_of_In-Context_Learning_Systems.md)
@@ -213,10 +201,6 @@
 - [Optimization Hyper-parameter Laws for Large Language Models](2024年09月07日/Optimization_Hyper-parameter_Laws_for_Large_Language_Models.md)
 
     - [翻译: 大型语言模型超参数优化法则](2024年09月07日/Optimization_Hyper-parameter_Laws_for_Large_Language_Models.md)
-
-- [POINTS: Improving Your Vision-language Model with Affordable Strategies](2024年09月07日/POINTS_Improving_Your_Vision-language_Model_with_Affordable_Strategies.md)
-
-    - [翻译: POINTS：用实惠的策略升级你的视觉-语言模型](2024年09月07日/POINTS_Improving_Your_Vision-language_Model_with_Affordable_Strategies.md)
 
 - [Selective Self-Rehearsal: A Fine-Tuning Approach to Improve Generalization in Large Language Models](2024年09月07日/Selective_Self-Rehearsal_A_Fine-Tuning_Approach_to_Improve_Generalization_in_Large_Language_Models.md)
 
@@ -233,17 +217,3 @@
 - [VidLPRO: A $\underline{Vid}$eo-$\underline{L}$anguage $\underline{P}$re-training Framework for $\underline{Ro}$botic and Laparoscopic Surgery](2024年09月07日/VidLPRO_A_$\underline{Vid}$eo-$\underline{L}$anguage_$\underline{P}$re-training_Framework_for_$\underline{Ro}$botic_and_Laparoscopic_Surgery.md)
 
     - [翻译: VidLPRO：专为机器人与腹腔镜手术设计的视频-语言预训练框架](2024年09月07日/VidLPRO_A_$\underline{Vid}$eo-$\underline{L}$anguage_$\underline{P}$re-training_Framework_for_$\underline{Ro}$botic_and_Laparoscopic_Surgery.md)
-
-2024年09月06日
-
-- [Dual-Level Cross-Modal Contrastive Clustering](2024年09月06日/Dual-Level_Cross-Modal_Contrastive_Clustering.md)
-
-    - [翻译: 双层跨模态对比聚类](2024年09月06日/Dual-Level_Cross-Modal_Contrastive_Clustering.md)
-
-- [How Does Code Pretraining Affect Language Model Task Performance?](2024年09月06日/How_Does_Code_Pretraining_Affect_Language_Model_Task_Performance.md)
-
-    - [翻译: 代码预训练对语言模型任务性能有何影响？](2024年09月06日/How_Does_Code_Pretraining_Affect_Language_Model_Task_Performance.md)
-
-- [The emergence of Large Language Models (LLM) as a tool in literature reviews: an LLM automated systematic review](2024年09月06日/The_emergence_of_Large_Language_Models_(LLM)_as_a_tool_in_literature_reviews_an_LLM_automated_systematic_review.md)
-
-    - [翻译: 大型语言模型 (LLM) 崭露头角，成为文献综述的得力助手：一场由 LLM 驱动的自动系统性综述。](2024年09月06日/The_emergence_of_Large_Language_Models_(LLM)_as_a_tool_in_literature_reviews_an_LLM_automated_systematic_review.md)
