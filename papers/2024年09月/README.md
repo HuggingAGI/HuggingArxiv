@@ -116,10 +116,6 @@
 
     - [翻译: 通过双向自然语言对话，提升机器人导航的社会意识](2024年09月08日/Enhancing_Socially-Aware_Robot_Navigation_through_Bidirectional_Natural_Language_Conversation.md)
 
-- [Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis](2024年09月08日/Evaluation_of_Google_Translate_for_Mandarin_Chinese_translation_using_sentiment_and_semantic_analysis.md)
-
-    - [翻译: 通过情感与语义分析，评估 Google Translate 在普通话翻译中的表现。](2024年09月08日/Evaluation_of_Google_Translate_for_Mandarin_Chinese_translation_using_sentiment_and_semantic_analysis.md)
-
 - [How to Align Large Language Models for Teaching English? Designing and Developing LLM based-Chatbot for Teaching English Conversation in EFL, Findings and Limitations](2024年09月08日/How_to_Align_Large_Language_Models_for_Teaching_English_Designing_and_Developing_LLM_based-Chatbot_for_Teaching_English_Conversation_in_EFL,_Findings_and_Limitations.md)
 
     - [翻译: 如何让大型语言模型更好地服务于英语教学？本文探讨了基于 LLM 的聊天机器人在 EFL 英语会话教学中的设计与开发，并总结了其发现与局限。](2024年09月08日/How_to_Align_Large_Language_Models_for_Teaching_English_Designing_and_Developing_LLM_based-Chatbot_for_Teaching_English_Conversation_in_EFL,_Findings_and_Limitations.md)
@@ -152,10 +148,6 @@
 
     - [翻译: 探索与解答：表格问答中的推理之道](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
 
-- [Seemingly Plausible Distractors in Multi-Hop Reasoning: Are Large Language Models Attentive Readers?](2024年09月08日/Seemingly_Plausible_Distractors_in_Multi-Hop_Reasoning_Are_Large_Language_Models_Attentive_Readers.md)
-
-    - [翻译: 多跳推理中的合理干扰项：大型语言模型是否具备专注阅读的能力？](2024年09月08日/Seemingly_Plausible_Distractors_in_Multi-Hop_Reasoning_Are_Large_Language_Models_Attentive_Readers.md)
-
 - [Socially Responsible Data for Large Multilingual Language Models](2024年09月08日/Socially_Responsible_Data_for_Large_Multilingual_Language_Models.md)
 
     - [翻译: 多语言大型语言模型的社会责任数据](2024年09月08日/Socially_Responsible_Data_for_Large_Multilingual_Language_Models.md)
@@ -179,21 +171,3 @@
 - [WaterSeeker: Efficient Detection of Watermarked Segments in Large Documents](2024年09月08日/WaterSeeker_Efficient_Detection_of_Watermarked_Segments_in_Large_Documents.md)
 
     - [翻译: WaterSeeker：快速识别大文档中的水印片段](2024年09月08日/WaterSeeker_Efficient_Detection_of_Watermarked_Segments_in_Large_Documents.md)
-
-2024年09月07日
-
-- [MILE: A Mutation Testing Framework of In-Context Learning Systems](2024年09月07日/MILE_A_Mutation_Testing_Framework_of_In-Context_Learning_Systems.md)
-
-    - [翻译: MILE：一款专为 In-Context Learning 系统设计的变异测试工具](2024年09月07日/MILE_A_Mutation_Testing_Framework_of_In-Context_Learning_Systems.md)
-
-- [Selective Self-Rehearsal: A Fine-Tuning Approach to Improve Generalization in Large Language Models](2024年09月07日/Selective_Self-Rehearsal_A_Fine-Tuning_Approach_to_Improve_Generalization_in_Large_Language_Models.md)
-
-    - [翻译: 选择性自我演练：一种微调策略，旨在提升大型语言模型的泛化性能](2024年09月07日/Selective_Self-Rehearsal_A_Fine-Tuning_Approach_to_Improve_Generalization_in_Large_Language_Models.md)
-
-- [Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models](2024年09月07日/Untie_the_Knots_An_Efficient_Data_Augmentation_Strategy_for_Long-Context_Pre-Training_in_Language_Models.md)
-
-    - [翻译: 解开束缚：为语言模型长上下文预训练量身定制的高效数据增强策略](2024年09月07日/Untie_the_Knots_An_Efficient_Data_Augmentation_Strategy_for_Long-Context_Pre-Training_in_Language_Models.md)
-
-- [VidLPRO: A $\underline{Vid}$eo-$\underline{L}$anguage $\underline{P}$re-training Framework for $\underline{Ro}$botic and Laparoscopic Surgery](2024年09月07日/VidLPRO_A_$\underline{Vid}$eo-$\underline{L}$anguage_$\underline{P}$re-training_Framework_for_$\underline{Ro}$botic_and_Laparoscopic_Surgery.md)
-
-    - [翻译: VidLPRO：专为机器人与腹腔镜手术设计的视频-语言预训练框架](2024年09月07日/VidLPRO_A_$\underline{Vid}$eo-$\underline{L}$anguage_$\underline{P}$re-training_Framework_for_$\underline{Ro}$botic_and_Laparoscopic_Surgery.md)
