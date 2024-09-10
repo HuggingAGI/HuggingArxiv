@@ -50,10 +50,6 @@
 
     - [翻译: 大型语言模型中的和谐推理](2024年09月09日/Harmonic_Reasoning_in_Large_Language_Models.md)
 
-- [IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS](2024年09月09日/IndicVoices-R_Unlocking_a_Massive_Multilingual_Multi-speaker_Speech_Corpus_for_Scaling_Indian_TTS.md)
-
-    - [翻译: IndicVoices-R：开启大规模多语言多说话者语音库，助力印度 TTS 扩展](2024年09月09日/IndicVoices-R_Unlocking_a_Massive_Multilingual_Multi-speaker_Speech_Corpus_for_Scaling_Indian_TTS.md)
-
 - [KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models](2024年09月09日/KARGEN_Knowledge-enhanced_Automated_Radiology_Report_Generation_Using_Large_Language_Models.md)
 
     - [翻译: KARGEN：借助大型语言模型，实现知识增强的自动化放射报告生成](2024年09月09日/KARGEN_Knowledge-enhanced_Automated_Radiology_Report_Generation_Using_Large_Language_Models.md)
@@ -65,10 +61,6 @@
 - [LLMs Will Always Hallucinate, and We Need to Live With This](2024年09月09日/LLMs_Will_Always_Hallucinate,_and_We_Need_to_Live_With_This.md)
 
     - [翻译: LLM 总会产生幻觉，我们得学会接受这一点。](2024年09月09日/LLMs_Will_Always_Hallucinate,_and_We_Need_to_Live_With_This.md)
-
-- [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](2024年09月09日/MemoRAG_Moving_towards_Next-Gen_RAG_Via_Memory-Inspired_Knowledge_Discovery.md)
-
-    - [翻译: MemoRAG：借助记忆启发的知识发现，迈向新一代 RAG 技术。](2024年09月09日/MemoRAG_Moving_towards_Next-Gen_RAG_Via_Memory-Inspired_Knowledge_Discovery.md)
 
 - [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](2024年09月09日/MMEvol_Empowering_Multimodal_Large_Language_Models_with_Evol-Instruct.md)
 
@@ -105,21 +97,3 @@
 - [Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-Stage Instruction Fine-tuning Approach](2024年09月09日/Towards_Democratizing_Multilingual_Large_Language_Models_For_Medicine_Through_A_Two-Stage_Instruction_Fine-tuning_Approach.md)
 
     - [翻译: 通过两阶段指令微调，推动医学领域多语言大型语言模型的普及化。](2024年09月09日/Towards_Democratizing_Multilingual_Large_Language_Models_For_Medicine_Through_A_Two-Stage_Instruction_Fine-tuning_Approach.md)
-
-2024年09月08日
-
-- [A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement](2024年09月08日/A_Pair_Programming_Framework_for_Code_Generation_via_Multi-Plan_Exploration_and_Feedback-Driven_Refinement.md)
-
-    - [翻译: 多计划探索与反馈驱动细化相结合的代码生成配对编程框架](2024年09月08日/A_Pair_Programming_Framework_for_Code_Generation_via_Multi-Plan_Exploration_and_Feedback-Driven_Refinement.md)
-
-- [Improving Multimodal Emotion Recognition by Leveraging Acoustic Adaptation and Visual Alignment](2024年09月08日/Improving_Multimodal_Emotion_Recognition_by_Leveraging_Acoustic_Adaptation_and_Visual_Alignment.md)
-
-    - [翻译: 借助声学适应与视觉对齐，提升多模态情感识别的精准度。](2024年09月08日/Improving_Multimodal_Emotion_Recognition_by_Leveraging_Acoustic_Adaptation_and_Visual_Alignment.md)
-
-- [Seek and Solve Reasoning for Table Question Answering](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
-
-    - [翻译: 探索与解答：表格问答中的推理之道](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
-
-- [Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications](2024年09月08日/Tele-LLMs_A_Series_of_Specialized_Large_Language_Models_for_Telecommunications.md)
-
-    - [翻译: Tele-LLMs：专为电信领域量身打造的大型语言模型系列](2024年09月08日/Tele-LLMs_A_Series_of_Specialized_Large_Language_Models_for_Telecommunications.md)
