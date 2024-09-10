@@ -14,10 +14,6 @@
 
     - [翻译: 多模态复合编辑与检索综述](2024年09月09日/A_Survey_of_Multimodal_Composite_Editing_and_Retrieval.md)
 
-- [A System and Benchmark for LLM-based Q\&A on Heterogeneous Data](2024年09月09日/A_System_and_Benchmark_for_LLM-based_Q\&A_on_Heterogeneous_Data.md)
-
-    - [翻译: LLM 驱动的异构数据问答系统及其基准测试](2024年09月09日/A_System_and_Benchmark_for_LLM-based_Q\&A_on_Heterogeneous_Data.md)
-
 - [Benchmarking Chinese Knowledge Rectification in Large Language Models](2024年09月09日/Benchmarking_Chinese_Knowledge_Rectification_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型中的中文知识修正基准测试](2024年09月09日/Benchmarking_Chinese_Knowledge_Rectification_in_Large_Language_Models.md)
@@ -34,22 +30,6 @@
 
     - [翻译: 借助苏格拉底式聊天机器人，提升教育中的批判性思维](2024年09月09日/Enhancing_Critical_Thinking_in_Education_by_means_of_a_Socratic_Chatbot.md)
 
-- [Evidence from fMRI Supports a Two-Phase Abstraction Process in Language Models](2024年09月09日/Evidence_from_fMRI_Supports_a_Two-Phase_Abstraction_Process_in_Language_Models.md)
-
-    - [翻译: fMRI 研究揭示，语言模型采用两阶段抽象过程，这一发现为理解语言处理机制提供了新视角。](2024年09月09日/Evidence_from_fMRI_Supports_a_Two-Phase_Abstraction_Process_in_Language_Models.md)
-
-- [Leveraging Content and Acoustic Representations for Efficient Speech Emotion Recognition](2024年09月09日/Leveraging_Content_and_Acoustic_Representations_for_Efficient_Speech_Emotion_Recognition.md)
-
-    - [翻译: 结合内容与声学特征，实现高效的语音情感识别](2024年09月09日/Leveraging_Content_and_Acoustic_Representations_for_Efficient_Speech_Emotion_Recognition.md)
-
-- [LLMs Will Always Hallucinate, and We Need to Live With This](2024年09月09日/LLMs_Will_Always_Hallucinate,_and_We_Need_to_Live_With_This.md)
-
-    - [翻译: LLM 总会产生幻觉，我们得学会接受这一点。](2024年09月09日/LLMs_Will_Always_Hallucinate,_and_We_Need_to_Live_With_This.md)
-
-- [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](2024年09月09日/MMEvol_Empowering_Multimodal_Large_Language_Models_with_Evol-Instruct.md)
-
-    - [翻译: MMEvol：借助 Evol-Instruct 技术，为多模态大型语言模型注入新活力](2024年09月09日/MMEvol_Empowering_Multimodal_Large_Language_Models_with_Evol-Instruct.md)
-
 - [Model Input Verification of Large Scale Simulations](2024年09月09日/Model_Input_Verification_of_Large_Scale_Simulations.md)
 
     - [翻译: 大规模模拟中的模型输入验证](2024年09月09日/Model_Input_Verification_of_Large_Scale_Simulations.md)
@@ -65,10 +45,6 @@
 - [TextToucher: Fine-Grained Text-to-Touch Generation](2024年09月09日/TextToucher_Fine-Grained_Text-to-Touch_Generation.md)
 
     - [翻译: TextToucher：细腻的文本触感生成](2024年09月09日/TextToucher_Fine-Grained_Text-to-Touch_Generation.md)
-
-- [The Influence of Task and Group Disparities over Users' Attitudes Toward Using Large Language Models for Psychotherapy](2024年09月09日/The_Influence_of_Task_and_Group_Disparities_over_Users'_Attitudes_Toward_Using_Large_Language_Models_for_Psychotherapy.md)
-
-    - [翻译: 任务与群体差异如何影响用户对使用大型语言模型进行心理治疗的态度](2024年09月09日/The_Influence_of_Task_and_Group_Disparities_over_Users'_Attitudes_Toward_Using_Large_Language_Models_for_Psychotherapy.md)
 
 - [Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-Stage Instruction Fine-tuning Approach](2024年09月09日/Towards_Democratizing_Multilingual_Large_Language_Models_For_Medicine_Through_A_Two-Stage_Instruction_Fine-tuning_Approach.md)
 
