@@ -182,33 +182,13 @@
 
 2024年09月07日
 
-- [Achieving Peak Performance for Large Language Models: A Systematic Review](2024年09月07日/Achieving_Peak_Performance_for_Large_Language_Models_A_Systematic_Review.md)
-
-    - [翻译: 大型语言模型性能巅峰之路：系统性回顾](2024年09月07日/Achieving_Peak_Performance_for_Large_Language_Models_A_Systematic_Review.md)
-
-- [forester: A Tree-Based AutoML Tool in R](2024年09月07日/forester_A_Tree-Based_AutoML_Tool_in_R.md)
-
-    - [翻译: forester: R 语言中的树结构自动机器学习工具](2024年09月07日/forester_A_Tree-Based_AutoML_Tool_in_R.md)
-
-- [LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs](2024年09月07日/LMGT_Optimizing_Exploration-Exploitation_Balance_in_Reinforcement_Learning_through_Language_Model_Guided_Trade-offs.md)
-
-    - [翻译: LMGT：利用语言模型优化强化学习中的探索与利用平衡](2024年09月07日/LMGT_Optimizing_Exploration-Exploitation_Balance_in_Reinforcement_Learning_through_Language_Model_Guided_Trade-offs.md)
-
 - [MILE: A Mutation Testing Framework of In-Context Learning Systems](2024年09月07日/MILE_A_Mutation_Testing_Framework_of_In-Context_Learning_Systems.md)
 
     - [翻译: MILE：一款专为 In-Context Learning 系统设计的变异测试工具](2024年09月07日/MILE_A_Mutation_Testing_Framework_of_In-Context_Learning_Systems.md)
 
-- [Optimization Hyper-parameter Laws for Large Language Models](2024年09月07日/Optimization_Hyper-parameter_Laws_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型超参数优化法则](2024年09月07日/Optimization_Hyper-parameter_Laws_for_Large_Language_Models.md)
-
 - [Selective Self-Rehearsal: A Fine-Tuning Approach to Improve Generalization in Large Language Models](2024年09月07日/Selective_Self-Rehearsal_A_Fine-Tuning_Approach_to_Improve_Generalization_in_Large_Language_Models.md)
 
     - [翻译: 选择性自我演练：一种微调策略，旨在提升大型语言模型的泛化性能](2024年09月07日/Selective_Self-Rehearsal_A_Fine-Tuning_Approach_to_Improve_Generalization_in_Large_Language_Models.md)
-
-- [Training-free ZS-CIR via Weighted Modality Fusion and Similarity](2024年09月07日/Training-free_ZS-CIR_via_Weighted_Modality_Fusion_and_Similarity.md)
-
-    - [翻译: 无需训练，通过加权模态融合与相似性实现零-shot跨模态检索](2024年09月07日/Training-free_ZS-CIR_via_Weighted_Modality_Fusion_and_Similarity.md)
 
 - [Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models](2024年09月07日/Untie_the_Knots_An_Efficient_Data_Augmentation_Strategy_for_Long-Context_Pre-Training_in_Language_Models.md)
 
