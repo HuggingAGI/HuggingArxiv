@@ -116,34 +116,10 @@
 
     - [翻译: 借助声学适应与视觉对齐，提升多模态情感识别的精准度。](2024年09月08日/Improving_Multimodal_Emotion_Recognition_by_Leveraging_Acoustic_Adaptation_and_Visual_Alignment.md)
 
-- [InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference](2024年09月08日/InstInfer_In-Storage_Attention_Offloading_for_Cost-Effective_Long-Context_LLM_Inference.md)
-
-    - [翻译: InstInfer：通过存储内注意力卸载，实现高效且经济的长上下文 LLM 推理](2024年09月08日/InstInfer_In-Storage_Attention_Offloading_for_Cost-Effective_Long-Context_LLM_Inference.md)
-
-- [Investigating the Role of Cultural Values in Adopting Large Language Models for Software Engineering](2024年09月08日/Investigating_the_Role_of_Cultural_Values_in_Adopting_Large_Language_Models_for_Software_Engineering.md)
-
-    - [翻译: 探讨文化价值观如何影响大型语言模型在软件工程中的应用](2024年09月08日/Investigating_the_Role_of_Cultural_Values_in_Adopting_Large_Language_Models_for_Software_Engineering.md)
-
-- [OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs](2024年09月08日/OneGen_Efficient_One-Pass_Unified_Generation_and_Retrieval_for_LLMs.md)
-
-    - [翻译: OneGen：为 LLM 打造高效的一步式生成与检索解决方案](2024年09月08日/OneGen_Efficient_One-Pass_Unified_Generation_and_Retrieval_for_LLMs.md)
-
 - [Seek and Solve Reasoning for Table Question Answering](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
 
     - [翻译: 探索与解答：表格问答中的推理之道](2024年09月08日/Seek_and_Solve_Reasoning_for_Table_Question_Answering.md)
 
-- [Socially Responsible Data for Large Multilingual Language Models](2024年09月08日/Socially_Responsible_Data_for_Large_Multilingual_Language_Models.md)
-
-    - [翻译: 多语言大型语言模型的社会责任数据](2024年09月08日/Socially_Responsible_Data_for_Large_Multilingual_Language_Models.md)
-
 - [Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications](2024年09月08日/Tele-LLMs_A_Series_of_Specialized_Large_Language_Models_for_Telecommunications.md)
 
     - [翻译: Tele-LLMs：专为电信领域量身打造的大型语言模型系列](2024年09月08日/Tele-LLMs_A_Series_of_Specialized_Large_Language_Models_for_Telecommunications.md)
-
-- [Towards Automated Machine Learning Research](2024年09月08日/Towards_Automated_Machine_Learning_Research.md)
-
-    - [翻译: 迈向自动化机器学习研究](2024年09月08日/Towards_Automated_Machine_Learning_Research.md)
-
-- [Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation](2024年09月08日/Vision-fused_Attack_Advancing_Aggressive_and_Stealthy_Adversarial_Text_against_Neural_Machine_Translation.md)
-
-    - [翻译: 视觉融合攻击：提升神经机器翻译中对抗性文本的激进性与隐秘性](2024年09月08日/Vision-fused_Attack_Advancing_Aggressive_and_Stealthy_Adversarial_Text_against_Neural_Machine_Translation.md)
