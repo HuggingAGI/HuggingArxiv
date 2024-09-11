@@ -18,6 +18,10 @@
 
     - [翻译: 利用 LLM 在量化投资中自动寻找策略](2024年09月10日/Automate_Strategy_Finding_with_LLM_in_Quant_investment.md)
 
+- [E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning](2024年09月10日/E2LLM_Encoder_Elongated_Large_Language_Models_for_Long-Context_Understanding_and_Reasoning.md)
+
+    - [翻译: E2LLM：专为长上下文理解和推理设计的编码器延长型大型语言模型](2024年09月10日/E2LLM_Encoder_Elongated_Large_Language_Models_for_Long-Context_Understanding_and_Reasoning.md)
+
 - [Enhancing Long Video Understanding via Hierarchical Event-Based Memory](2024年09月10日/Enhancing_Long_Video_Understanding_via_Hierarchical_Event-Based_Memory.md)
 
     - [翻译: 利用分层事件记忆提升长视频理解](2024年09月10日/Enhancing_Long_Video_Understanding_via_Hierarchical_Event-Based_Memory.md)
@@ -69,6 +73,10 @@
 - [Length Desensitization in Directed Preference Optimization](2024年09月10日/Length_Desensitization_in_Directed_Preference_Optimization.md)
 
     - [翻译: 定向偏好优化中的长度不敏感性](2024年09月10日/Length_Desensitization_in_Directed_Preference_Optimization.md)
+
+- [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](2024年09月10日/LLaMA-Omni_Seamless_Speech_Interaction_with_Large_Language_Models.md)
+
+    - [翻译: LLaMA-Omni：实现与大型语言模型的流畅语音互动](2024年09月10日/LLaMA-Omni_Seamless_Speech_Interaction_with_Large_Language_Models.md)
 
 - [MAGDA: Multi-agent guideline-driven diagnostic assistance](2024年09月10日/MAGDA_Multi-agent_guideline-driven_diagnostic_assistance.md)
 
@@ -143,10 +151,6 @@
 - [Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models](2024年09月09日/Alt-MoE_Multimodal_Alignment_via_Alternating_Optimization_of_Multi-directional_MoE_with_Unimodal_Models.md)
 
     - [翻译: Alt-MoE：通过交替优化多方向 MoE 与单模态模型，实现多模态对齐](2024年09月09日/Alt-MoE_Multimodal_Alignment_via_Alternating_Optimization_of_Multi-directional_MoE_with_Unimodal_Models.md)
-
-- [Deep Learning and Large Language Models for Audio and Text Analysis in Predicting Suicidal Acts in Chinese Psychological Support Hotlines](2024年09月09日/Deep_Learning_and_Large_Language_Models_for_Audio_and_Text_Analysis_in_Predicting_Suicidal_Acts_in_Chinese_Psychological_Support_Hotlines.md)
-
-    - [翻译: 深度学习与大型语言模型联手，精准预测中国心理支持热线中的自杀行为，分析音频与文本，守护心灵安全。](2024年09月09日/Deep_Learning_and_Large_Language_Models_for_Audio_and_Text_Analysis_in_Predicting_Suicidal_Acts_in_Chinese_Psychological_Support_Hotlines.md)
 
 - [DetoxBench: Benchmarking Large Language Models for Multitask Fraud & Abuse Detection](2024年09月09日/DetoxBench_Benchmarking_Large_Language_Models_for_Multitask_Fraud_&_Abuse_Detection.md)
 
