@@ -136,21 +136,9 @@
 
 2024年09月09日
 
-- [AbGPT: De Novo Antibody Design via Generative Language Modeling](2024年09月09日/AbGPT_De_Novo_Antibody_Design_via_Generative_Language_Modeling.md)
-
-    - [翻译: AbGPT：利用生成语言模型实现全新抗体设计](2024年09月09日/AbGPT_De_Novo_Antibody_Design_via_Generative_Language_Modeling.md)
-
 - [Accelerating Large Language Model Pretraining via LFR Pedagogy: Learn, Focus, and Review](2024年09月09日/Accelerating_Large_Language_Model_Pretraining_via_LFR_Pedagogy_Learn,_Focus,_and_Review.md)
 
     - [翻译: 利用 LFR 教学法加速 LLM 预训练：学习、专注、复习](2024年09月09日/Accelerating_Large_Language_Model_Pretraining_via_LFR_Pedagogy_Learn,_Focus,_and_Review.md)
-
-- [AI for Mathematics Mathematical Formalized Problem Solving and Theorem Proving in Different Fields in Lean4](2024年09月09日/AI_for_Mathematics_Mathematical_Formalized_Problem_Solving_and_Theorem_Proving_in_Different_Fields_in_Lean4.md)
-
-    - [翻译: AI 助力数学：Lean4 中的形式化问题解决与跨领域定理证明](2024年09月09日/AI_for_Mathematics_Mathematical_Formalized_Problem_Solving_and_Theorem_Proving_in_Different_Fields_in_Lean4.md)
-
-- [Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models](2024年09月09日/Alt-MoE_Multimodal_Alignment_via_Alternating_Optimization_of_Multi-directional_MoE_with_Unimodal_Models.md)
-
-    - [翻译: Alt-MoE：通过交替优化多方向 MoE 与单模态模型，实现多模态对齐](2024年09月09日/Alt-MoE_Multimodal_Alignment_via_Alternating_Optimization_of_Multi-directional_MoE_with_Unimodal_Models.md)
 
 - [DetoxBench: Benchmarking Large Language Models for Multitask Fraud & Abuse Detection](2024年09月09日/DetoxBench_Benchmarking_Large_Language_Models_for_Multitask_Fraud_&_Abuse_Detection.md)
 
@@ -163,10 +151,6 @@
 - [FairHome: A Fair Housing and Fair Lending Dataset](2024年09月09日/FairHome_A_Fair_Housing_and_Fair_Lending_Dataset.md)
 
     - [翻译: FairHome：一个专注于公平住房与贷款的数据集](2024年09月09日/FairHome_A_Fair_Housing_and_Fair_Lending_Dataset.md)
-
-- [HierLLM: Hierarchical Large Language Model for Question Recommendation](2024年09月09日/HierLLM_Hierarchical_Large_Language_Model_for_Question_Recommendation.md)
-
-    - [翻译: HierLLM：专为问题推荐设计的分层大型语言模型](2024年09月09日/HierLLM_Hierarchical_Large_Language_Model_for_Question_Recommendation.md)
 
 - [Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks](2024年09月09日/Larger_Language_Models_Don't_Care_How_You_Think_Why_Chain-of-Thought_Prompting_Fails_in_Subjective_Tasks.md)
 
@@ -187,10 +171,6 @@
 - [Revisiting Prompt Pretraining of Vision-Language Models](2024年09月09日/Revisiting_Prompt_Pretraining_of_Vision-Language_Models.md)
 
     - [翻译: 重探视觉-语言模型的提示预训练](2024年09月09日/Revisiting_Prompt_Pretraining_of_Vision-Language_Models.md)
-
-- [SongCreator: Lyrics-based Universal Song Generation](2024年09月09日/SongCreator_Lyrics-based_Universal_Song_Generation.md)
-
-    - [翻译: SongCreator：以歌词为基础，实现通用歌曲生成](2024年09月09日/SongCreator_Lyrics-based_Universal_Song_Generation.md)
 
 - [TransformerRanker: A Tool for Efficiently Finding the Best-Suited Language Models for Downstream Classification Tasks](2024年09月09日/TransformerRanker_A_Tool_for_Efficiently_Finding_the_Best-Suited_Language_Models_for_Downstream_Classification_Tasks.md)
 
