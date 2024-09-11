@@ -30,17 +30,9 @@
 
     - [翻译: Ferret：为大型语言模型实现的大规模联合全参数调优](2024年09月10日/Ferret_Federated_Full-Parameter_Tuning_at_Scale_for_Large_Language_Models.md)
 
-- [Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization](2024年09月10日/Fine-tuning_and_Prompt_Engineering_with_Cognitive_Knowledge_Graphs_for_Scholarly_Knowledge_Organization.md)
-
-    - [翻译: 借助认知知识图谱，通过微调和提示工程优化学术知识的组织。](2024年09月10日/Fine-tuning_and_Prompt_Engineering_with_Cognitive_Knowledge_Graphs_for_Scholarly_Knowledge_Organization.md)
-
 - [GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering](2024年09月10日/GroUSE_A_Benchmark_to_Evaluate_Evaluators_in_Grounded_Question_Answering.md)
 
     - [翻译: GroUSE：基于事实问答中评估者表现的基准测试](2024年09月10日/GroUSE_A_Benchmark_to_Evaluate_Evaluators_in_Grounded_Question_Answering.md)
-
-- [HexaCoder: Secure Code Generation via Oracle-Guided Synthetic Training Data](2024年09月10日/HexaCoder_Secure_Code_Generation_via_Oracle-Guided_Synthetic_Training_Data.md)
-
-    - [翻译: HexaCoder：借助 Oracle 引导的合成数据，实现安全代码生成。](2024年09月10日/HexaCoder_Secure_Code_Generation_via_Oracle-Guided_Synthetic_Training_Data.md)
 
 - [Length Desensitization in Directed Preference Optimization](2024年09月10日/Length_Desensitization_in_Directed_Preference_Optimization.md)
 
@@ -50,21 +42,9 @@
 
     - [翻译: MAGDA：多智能体指南驱动的诊断助手](2024年09月10日/MAGDA_Multi-agent_guideline-driven_diagnostic_assistance.md)
 
-- [Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles](2024年09月10日/Multimodal_Large_Language_Model_Driven_Scenario_Testing_for_Autonomous_Vehicles.md)
-
-    - [翻译: 多模态大型语言模型助力自动驾驶车辆场景测试](2024年09月10日/Multimodal_Large_Language_Model_Driven_Scenario_Testing_for_Autonomous_Vehicles.md)
-
-- [Optimal Workload Placement on Multi-Instance GPUs](2024年09月10日/Optimal_Workload_Placement_on_Multi-Instance_GPUs.md)
-
-    - [翻译: 多实例 GPU 上的工作负载优化分配](2024年09月10日/Optimal_Workload_Placement_on_Multi-Instance_GPUs.md)
-
 - [Prompt2Fashion: An automatically generated fashion dataset](2024年09月10日/Prompt2Fashion_An_automatically_generated_fashion_dataset.md)
 
     - [翻译: Prompt2Fashion：一款自动生成的时尚数据集](2024年09月10日/Prompt2Fashion_An_automatically_generated_fashion_dataset.md)
-
-- [Questioning Internal Knowledge Structure of Large Language Models Through the Lens of the Olympic Games](2024年09月10日/Questioning_Internal_Knowledge_Structure_of_Large_Language_Models_Through_the_Lens_of_the_Olympic_Games.md)
-
-    - [翻译: 透过奥运会的镜头，探寻大型语言模型内部知识结构的奥秘](2024年09月10日/Questioning_Internal_Knowledge_Structure_of_Large_Language_Models_Through_the_Lens_of_the_Olympic_Games.md)
 
 - [SHAPE-IT: Exploring Text-to-Shape-Display for Generative Shape-Changing Behaviors with LLMs](2024年09月10日/SHAPE-IT_Exploring_Text-to-Shape-Display_for_Generative_Shape-Changing_Behaviors_with_LLMs.md)
 
@@ -73,7 +53,3 @@
 - [User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study](2024年09月10日/User_Preferences_for_Large_Language_Model_versus_Template-Based_Explanations_of_Movie_Recommendations_A_Pilot_Study.md)
 
     - [翻译: 电影推荐解释：用户更偏爱大型语言模型还是模板？一项初步研究揭示答案。](2024年09月10日/User_Preferences_for_Large_Language_Model_versus_Template-Based_Explanations_of_Movie_Recommendations_A_Pilot_Study.md)
-
-- [VoiceWukong: Benchmarking Deepfake Voice Detection](2024年09月10日/VoiceWukong_Benchmarking_Deepfake_Voice_Detection.md)
-
-    - [翻译: VoiceWukong：深度伪造语音检测的基准测试](2024年09月10日/VoiceWukong_Benchmarking_Deepfake_Voice_Detection.md)
