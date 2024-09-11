@@ -22,21 +22,9 @@
 
     - [翻译: 利用分层事件记忆提升长视频理解](2024年09月10日/Enhancing_Long_Video_Understanding_via_Hierarchical_Event-Based_Memory.md)
 
-- [Exploring Italian sentence embeddings properties through multi-tasking](2024年09月10日/Exploring_Italian_sentence_embeddings_properties_through_multi-tasking.md)
-
-    - [翻译: 通过多任务方式，深入挖掘意大利语句子嵌入的特性](2024年09月10日/Exploring_Italian_sentence_embeddings_properties_through_multi-tasking.md)
-
 - [Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes](2024年09月10日/Exploring_the_Integration_of_Large_Language_Models_in_Industrial_Test_Maintenance_Processes.md)
 
     - [翻译: 探索大型语言模型如何融入工业测试维护流程](2024年09月10日/Exploring_the_Integration_of_Large_Language_Models_in_Industrial_Test_Maintenance_Processes.md)
-
-- [Extracting Paragraphs from LLM Token Activations](2024年09月10日/Extracting_Paragraphs_from_LLM_Token_Activations.md)
-
-    - [翻译: 解析 LLM 令牌激活，提取段落信息](2024年09月10日/Extracting_Paragraphs_from_LLM_Token_Activations.md)
-
-- [EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis](2024年09月10日/EyeCLIP_A_visual-language_foundation_model_for_multi-modal_ophthalmic_image_analysis.md)
-
-    - [翻译: EyeCLIP：一款专为多模态眼科图像分析打造的视觉-语言基础模型](2024年09月10日/EyeCLIP_A_visual-language_foundation_model_for_multi-modal_ophthalmic_image_analysis.md)
 
 - [Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models](2024年09月10日/Ferret_Federated_Full-Parameter_Tuning_at_Scale_for_Large_Language_Models.md)
 
@@ -54,25 +42,13 @@
 
     - [翻译: HexaCoder：借助 Oracle 引导的合成数据，实现安全代码生成。](2024年09月10日/HexaCoder_Secure_Code_Generation_via_Oracle-Guided_Synthetic_Training_Data.md)
 
-- [Human Perception of LLM-generated Text Content in Social Media Environments](2024年09月10日/Human_Perception_of_LLM-generated_Text_Content_in_Social_Media_Environments.md)
-
-    - [翻译: 社交媒体环境下，人类如何感知由大型语言模型生成的文本内容](2024年09月10日/Human_Perception_of_LLM-generated_Text_Content_in_Social_Media_Environments.md)
-
 - [Length Desensitization in Directed Preference Optimization](2024年09月10日/Length_Desensitization_in_Directed_Preference_Optimization.md)
 
     - [翻译: 定向偏好优化中的长度不敏感性](2024年09月10日/Length_Desensitization_in_Directed_Preference_Optimization.md)
 
-- [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](2024年09月10日/LLaMA-Omni_Seamless_Speech_Interaction_with_Large_Language_Models.md)
-
-    - [翻译: LLaMA-Omni：实现与大型语言模型的流畅语音互动](2024年09月10日/LLaMA-Omni_Seamless_Speech_Interaction_with_Large_Language_Models.md)
-
 - [MAGDA: Multi-agent guideline-driven diagnostic assistance](2024年09月10日/MAGDA_Multi-agent_guideline-driven_diagnostic_assistance.md)
 
     - [翻译: MAGDA：多智能体指南驱动的诊断助手](2024年09月10日/MAGDA_Multi-agent_guideline-driven_diagnostic_assistance.md)
-
-- [MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders](2024年09月10日/MoWE-Audio_Multitask_AudioLLMs_with_Mixture_of_Weak_Encoders.md)
-
-    - [翻译: MoWE-Audio：融合弱编码器的多任务音频LLMs](2024年09月10日/MoWE-Audio_Multitask_AudioLLMs_with_Mixture_of_Weak_Encoders.md)
 
 - [Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles](2024年09月10日/Multimodal_Large_Language_Model_Driven_Scenario_Testing_for_Autonomous_Vehicles.md)
 
