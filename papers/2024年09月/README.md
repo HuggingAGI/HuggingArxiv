@@ -22,14 +22,6 @@
 
     - [翻译: 利用分层事件记忆提升长视频理解](2024年09月10日/Enhancing_Long_Video_Understanding_via_Hierarchical_Event-Based_Memory.md)
 
-- [Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration](2024年09月10日/Enhancing_Sequential_Recommendations_through_Multi-Perspective_Reflections_and_Iteration.md)
-
-    - [翻译: 通过多视角反思与迭代，提升序列推荐效果](2024年09月10日/Enhancing_Sequential_Recommendations_through_Multi-Perspective_Reflections_and_Iteration.md)
-
-- [Enhancing Temporal Understanding in Audio Question Answering for Large Audio Language Models](2024年09月10日/Enhancing_Temporal_Understanding_in_Audio_Question_Answering_for_Large_Audio_Language_Models.md)
-
-    - [翻译: 提升大型音频语言模型在音频问答中的时间感知能力](2024年09月10日/Enhancing_Temporal_Understanding_in_Audio_Question_Answering_for_Large_Audio_Language_Models.md)
-
 - [Exploring Italian sentence embeddings properties through multi-tasking](2024年09月10日/Exploring_Italian_sentence_embeddings_properties_through_multi-tasking.md)
 
     - [翻译: 通过多任务方式，深入挖掘意大利语句子嵌入的特性](2024年09月10日/Exploring_Italian_sentence_embeddings_properties_through_multi-tasking.md)
@@ -78,18 +70,6 @@
 
     - [翻译: MAGDA：多智能体指南驱动的诊断助手](2024年09月10日/MAGDA_Multi-agent_guideline-driven_diagnostic_assistance.md)
 
-- [MAPS: Energy-Reliability Tradeoff Management in Autonomous Vehicles Through LLMs Penetrated Science](2024年09月10日/MAPS_Energy-Reliability_Tradeoff_Management_in_Autonomous_Vehicles_Through_LLMs_Penetrated_Science.md)
-
-    - [翻译: MAPS：利用 LLM 技术，优化自动驾驶汽车的能量与可靠性平衡](2024年09月10日/MAPS_Energy-Reliability_Tradeoff_Management_in_Autonomous_Vehicles_Through_LLMs_Penetrated_Science.md)
-
-- [Market Reaction to News Flows in Supply Chain Networks](2024年09月10日/Market_Reaction_to_News_Flows_in_Supply_Chain_Networks.md)
-
-    - [翻译: 供应链网络中新闻流如何影响市场反应](2024年09月10日/Market_Reaction_to_News_Flows_in_Supply_Chain_Networks.md)
-
-- [MIP-GAF: A MLLM-annotated Benchmark for Most Important Person Localization and Group Context Understanding](2024年09月10日/MIP-GAF_A_MLLM-annotated_Benchmark_for_Most_Important_Person_Localization_and_Group_Context_Understanding.md)
-
-    - [翻译: MIP-GAF：一个专为最重要人物定位和群体上下文理解设计的 MLLM 注释基准](2024年09月10日/MIP-GAF_A_MLLM-annotated_Benchmark_for_Most_Important_Person_Localization_and_Group_Context_Understanding.md)
-
 - [MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders](2024年09月10日/MoWE-Audio_Multitask_AudioLLMs_with_Mixture_of_Weak_Encoders.md)
 
     - [翻译: MoWE-Audio：融合弱编码器的多任务音频LLMs](2024年09月10日/MoWE-Audio_Multitask_AudioLLMs_with_Mixture_of_Weak_Encoders.md)
@@ -113,10 +93,6 @@
 - [SHAPE-IT: Exploring Text-to-Shape-Display for Generative Shape-Changing Behaviors with LLMs](2024年09月10日/SHAPE-IT_Exploring_Text-to-Shape-Display_for_Generative_Shape-Changing_Behaviors_with_LLMs.md)
 
     - [翻译: SHAPE-IT：借助 LLM 探索文本驱动形状变化的生成行为](2024年09月10日/SHAPE-IT_Exploring_Text-to-Shape-Display_for_Generative_Shape-Changing_Behaviors_with_LLMs.md)
-
-- [STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning](2024年09月10日/STUN_Structured-Then-Unstructured_Pruning_for_Scalable_MoE_Pruning.md)
-
-    - [翻译: STUN：一种先结构化后非结构化的剪枝方法，专为可扩展的 MoE 剪枝设计。](2024年09月10日/STUN_Structured-Then-Unstructured_Pruning_for_Scalable_MoE_Pruning.md)
 
 - [User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study](2024年09月10日/User_Preferences_for_Large_Language_Model_versus_Template-Based_Explanations_of_Movie_Recommendations_A_Pilot_Study.md)
 
