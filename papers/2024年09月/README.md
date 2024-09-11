@@ -136,33 +136,9 @@
 
 2024年09月09日
 
-- [Accelerating Large Language Model Pretraining via LFR Pedagogy: Learn, Focus, and Review](2024年09月09日/Accelerating_Large_Language_Model_Pretraining_via_LFR_Pedagogy_Learn,_Focus,_and_Review.md)
-
-    - [翻译: 利用 LFR 教学法加速 LLM 预训练：学习、专注、复习](2024年09月09日/Accelerating_Large_Language_Model_Pretraining_via_LFR_Pedagogy_Learn,_Focus,_and_Review.md)
-
 - [DetoxBench: Benchmarking Large Language Models for Multitask Fraud & Abuse Detection](2024年09月09日/DetoxBench_Benchmarking_Large_Language_Models_for_Multitask_Fraud_&_Abuse_Detection.md)
 
     - [翻译: DetoxBench：大型语言模型在多任务欺诈与滥用检测中的基准测试](2024年09月09日/DetoxBench_Benchmarking_Large_Language_Models_for_Multitask_Fraud_&_Abuse_Detection.md)
-
-- [Doppelgänger's Watch: A Split Objective Approach to Large Language Models](2024年09月09日/Doppelgänger's_Watch_A_Split_Objective_Approach_to_Large_Language_Models.md)
-
-    - [翻译: Doppelgänger 的观察：大型语言模型的分裂目标策略](2024年09月09日/Doppelgänger's_Watch_A_Split_Objective_Approach_to_Large_Language_Models.md)
-
-- [FairHome: A Fair Housing and Fair Lending Dataset](2024年09月09日/FairHome_A_Fair_Housing_and_Fair_Lending_Dataset.md)
-
-    - [翻译: FairHome：一个专注于公平住房与贷款的数据集](2024年09月09日/FairHome_A_Fair_Housing_and_Fair_Lending_Dataset.md)
-
-- [Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks](2024年09月09日/Larger_Language_Models_Don't_Care_How_You_Think_Why_Chain-of-Thought_Prompting_Fails_in_Subjective_Tasks.md)
-
-    - [翻译: 大型语言模型不在乎你的思考方式：为何思维链提示在主观任务中失效](2024年09月09日/Larger_Language_Models_Don't_Care_How_You_Think_Why_Chain-of-Thought_Prompting_Fails_in_Subjective_Tasks.md)
-
-- [MessIRve: A Large-Scale Spanish Information Retrieval Dataset](2024年09月09日/MessIRve_A_Large-Scale_Spanish_Information_Retrieval_Dataset.md)
-
-    - [翻译: MessIRve：一个庞大的西班牙信息检索数据集](2024年09月09日/MessIRve_A_Large-Scale_Spanish_Information_Retrieval_Dataset.md)
-
-- [MLLM-FL: Multimodal Large Language Model Assisted Federated Learning on Heterogeneous and Long-tailed Data](2024年09月09日/MLLM-FL_Multimodal_Large_Language_Model_Assisted_Federated_Learning_on_Heterogeneous_and_Long-tailed_Data.md)
-
-    - [翻译: MLLM-FL：利用多模态大型语言模型，在异构且长尾的数据上进行辅助联邦学习。](2024年09月09日/MLLM-FL_Multimodal_Large_Language_Model_Assisted_Federated_Learning_on_Heterogeneous_and_Long-tailed_Data.md)
 
 - [Regression with Large Language Models for Materials and Molecular Property Prediction](2024年09月09日/Regression_with_Large_Language_Models_for_Materials_and_Molecular_Property_Prediction.md)
 
