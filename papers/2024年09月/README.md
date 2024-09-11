@@ -14,10 +14,6 @@
 
     - [翻译: 在 Llama-3 70B 模型上进行训练后实践，通过最佳选择的额外语言混合比例优化效果](2024年09月10日/A_Practice_of_Post-Training_on_Llama-3_70B_with_Optimal_Selection_of_Additional_Language_Mixture_Ratio.md)
 
-- [Automate Strategy Finding with LLM in Quant investment](2024年09月10日/Automate_Strategy_Finding_with_LLM_in_Quant_investment.md)
-
-    - [翻译: 利用 LLM 在量化投资中自动寻找策略](2024年09月10日/Automate_Strategy_Finding_with_LLM_in_Quant_investment.md)
-
 - [E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning](2024年09月10日/E2LLM_Encoder_Elongated_Large_Language_Models_for_Long-Context_Understanding_and_Reasoning.md)
 
     - [翻译: E2LLM：专为长上下文理解和推理设计的编码器延长型大型语言模型](2024年09月10日/E2LLM_Encoder_Elongated_Large_Language_Models_for_Long-Context_Understanding_and_Reasoning.md)
@@ -122,10 +118,6 @@
 
     - [翻译: STUN：一种先结构化后非结构化的剪枝方法，专为可扩展的 MoE 剪枝设计。](2024年09月10日/STUN_Structured-Then-Unstructured_Pruning_for_Scalable_MoE_Pruning.md)
 
-- [Towards Agentic AI on Particle Accelerators](2024年09月10日/Towards_Agentic_AI_on_Particle_Accelerators.md)
-
-    - [翻译: 迈向粒子加速器上的自主AI](2024年09月10日/Towards_Agentic_AI_on_Particle_Accelerators.md)
-
 - [User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study](2024年09月10日/User_Preferences_for_Large_Language_Model_versus_Template-Based_Explanations_of_Movie_Recommendations_A_Pilot_Study.md)
 
     - [翻译: 电影推荐解释：用户更偏爱大型语言模型还是模板？一项初步研究揭示答案。](2024年09月10日/User_Preferences_for_Large_Language_Model_versus_Template-Based_Explanations_of_Movie_Recommendations_A_Pilot_Study.md)
@@ -133,21 +125,3 @@
 - [VoiceWukong: Benchmarking Deepfake Voice Detection](2024年09月10日/VoiceWukong_Benchmarking_Deepfake_Voice_Detection.md)
 
     - [翻译: VoiceWukong：深度伪造语音检测的基准测试](2024年09月10日/VoiceWukong_Benchmarking_Deepfake_Voice_Detection.md)
-
-2024年09月09日
-
-- [DetoxBench: Benchmarking Large Language Models for Multitask Fraud & Abuse Detection](2024年09月09日/DetoxBench_Benchmarking_Large_Language_Models_for_Multitask_Fraud_&_Abuse_Detection.md)
-
-    - [翻译: DetoxBench：大型语言模型在多任务欺诈与滥用检测中的基准测试](2024年09月09日/DetoxBench_Benchmarking_Large_Language_Models_for_Multitask_Fraud_&_Abuse_Detection.md)
-
-- [Regression with Large Language Models for Materials and Molecular Property Prediction](2024年09月09日/Regression_with_Large_Language_Models_for_Materials_and_Molecular_Property_Prediction.md)
-
-    - [翻译: 利用大型语言模型预测材料与分子性质的回归分析](2024年09月09日/Regression_with_Large_Language_Models_for_Materials_and_Molecular_Property_Prediction.md)
-
-- [Revisiting Prompt Pretraining of Vision-Language Models](2024年09月09日/Revisiting_Prompt_Pretraining_of_Vision-Language_Models.md)
-
-    - [翻译: 重探视觉-语言模型的提示预训练](2024年09月09日/Revisiting_Prompt_Pretraining_of_Vision-Language_Models.md)
-
-- [TransformerRanker: A Tool for Efficiently Finding the Best-Suited Language Models for Downstream Classification Tasks](2024年09月09日/TransformerRanker_A_Tool_for_Efficiently_Finding_the_Best-Suited_Language_Models_for_Downstream_Classification_Tasks.md)
-
-    - [翻译: TransformerRanker：一款高效工具，专为寻找最适合下游分类任务的语言模型而设计。](2024年09月09日/TransformerRanker_A_Tool_for_Efficiently_Finding_the_Best-Suited_Language_Models_for_Downstream_Classification_Tasks.md)
