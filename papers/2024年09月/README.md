@@ -112,10 +112,6 @@
 
 2024年09月10日
 
-- [Beyond designer's knowledge: Generating materials design hypotheses via large language models](2024年09月10日/Beyond_designer's_knowledge_Generating_materials_design_hypotheses_via_large_language_models.md)
-
-    - [翻译: 突破设计师的认知界限：利用大型语言模型探索材料设计的新思路](2024年09月10日/Beyond_designer's_knowledge_Generating_materials_design_hypotheses_via_large_language_models.md)
-
 - [FreeRide: Harvesting Bubbles in Pipeline Parallelism](2024年09月10日/FreeRide_Harvesting_Bubbles_in_Pipeline_Parallelism.md)
 
     - [翻译: FreeRide：在流水线并行中巧妙利用气泡](2024年09月10日/FreeRide_Harvesting_Bubbles_in_Pipeline_Parallelism.md)
@@ -128,10 +124,6 @@
 
     - [翻译: LIME-M：在评估多语言大型语言模型时，简洁胜于繁复](2024年09月10日/LIME-M_Less_Is_More_for_Evaluation_of_MLLMs.md)
 
-- [LLM-Enhanced Software Patch Localization](2024年09月10日/LLM-Enhanced_Software_Patch_Localization.md)
-
-    - [翻译: 大型语言模型增强的软件补丁定位](2024年09月10日/LLM-Enhanced_Software_Patch_Localization.md)
-
 - [NSP: A Neuro-Symbolic Natural Language Navigational Planner](2024年09月10日/NSP_A_Neuro-Symbolic_Natural_Language_Navigational_Planner.md)
 
     - [翻译: NSP：神经符号自然语言导航规划器](2024年09月10日/NSP_A_Neuro-Symbolic_Natural_Language_Navigational_Planner.md)
@@ -140,18 +132,6 @@
 
     - [翻译: 表征调优](2024年09月10日/Representation_Tuning.md)
 
-- [Semi-Supervised Reward Modeling via Iterative Self-Training](2024年09月10日/Semi-Supervised_Reward_Modeling_via_Iterative_Self-Training.md)
-
-    - [翻译: 半监督奖励建模：迭代自训练的艺术](2024年09月10日/Semi-Supervised_Reward_Modeling_via_Iterative_Self-Training.md)
-
 - [Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts](2024年09月10日/Translating_Step-by-Step_Decomposing_the_Translation_Process_for_Improved_Translation_Quality_of_Long-Form_Texts.md)
 
     - [翻译: 分步翻译：通过分解翻译过程，提升长篇文本的翻译质量](2024年09月10日/Translating_Step-by-Step_Decomposing_the_Translation_Process_for_Improved_Translation_Quality_of_Long-Form_Texts.md)
-
-- [What is the Role of Small Models in the LLM Era: A Survey](2024年09月10日/What_is_the_Role_of_Small_Models_in_the_LLM_Era_A_Survey.md)
-
-    - [翻译: 在 LLM 时代，小模型扮演着怎样的角色？这是一项调查。](2024年09月10日/What_is_the_Role_of_Small_Models_in_the_LLM_Era_A_Survey.md)
-
-- [You Have Thirteen Hours in Which to Solve the Labyrinth: Enhancing AI Game Masters with Function Calling](2024年09月10日/You_Have_Thirteen_Hours_in_Which_to_Solve_the_Labyrinth_Enhancing_AI_Game_Masters_with_Function_Calling.md)
-
-    - [翻译: 你有十三小时破解迷宫：借助函数调用，让 AI 游戏大师更上一层楼](2024年09月10日/You_Have_Thirteen_Hours_in_Which_to_Solve_the_Labyrinth_Enhancing_AI_Game_Masters_with_Function_Calling.md)
