@@ -1,15 +1,5 @@
 # 2024年08月
 
-2024年08月26日
-
-- [DefectTwin: When LLM Meets Digital Twin for Railway Defect Inspection](2024年08月26日/DefectTwin_When_LLM_Meets_Digital_Twin_for_Railway_Defect_Inspection.md)
-
-    - [翻译: DefectTwin：LLM 与铁路缺陷检查数字孪生的相遇](2024年08月26日/DefectTwin_When_LLM_Meets_Digital_Twin_for_Railway_Defect_Inspection.md)
-
-- [Tailoring Chatbots for Higher Education: Some Insights and Experiences](2024年08月26日/Tailoring_Chatbots_for_Higher_Education_Some_Insights_and_Experiences.md)
-
-    - [翻译: 定制高等教育聊天机器人：见解与经验分享](2024年08月26日/Tailoring_Chatbots_for_Higher_Education_Some_Insights_and_Experiences.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
