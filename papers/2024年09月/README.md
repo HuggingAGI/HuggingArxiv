@@ -18,10 +18,6 @@
 
     - [翻译: 声学语言模型评估工具集](2024年09月11日/A_Suite_for_Acoustic_Language_Model_Evaluation.md)
 
-- [Beyond IID: Optimizing Instruction Learning from the Perspective of Instruction Interaction and Dependency](2024年09月11日/Beyond_IID_Optimizing_Instruction_Learning_from_the_Perspective_of_Instruction_Interaction_and_Dependency.md)
-
-    - [翻译: 超越独立同分布：从指令间的交互与依赖出发，优化指令学习](2024年09月11日/Beyond_IID_Optimizing_Instruction_Learning_from_the_Perspective_of_Instruction_Interaction_and_Dependency.md)
-
 - [Bio-Eng-LMM AI Assist chatbot: A Comprehensive Tool for Research and Education](2024年09月11日/Bio-Eng-LMM_AI_Assist_chatbot_A_Comprehensive_Tool_for_Research_and_Education.md)
 
     - [翻译: Bio-Eng-LMM AI 聊天助手：研究和教育的全能工具](2024年09月11日/Bio-Eng-LMM_AI_Assist_chatbot_A_Comprehensive_Tool_for_Research_and_Education.md)
@@ -30,17 +26,9 @@
 
     - [翻译: CLNX：通过连接代码与自然语言，精准识别 C/C++ 漏洞相关提交。](2024年09月11日/CLNX_Bridging_Code_and_Natural_Language_for_CC++_Vulnerability-Contributing_Commits_Identification.md)
 
-- [Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem](2024年09月11日/Cross-Refine_Improving_Natural_Language_Explanation_Generation_by_Learning_in_Tandem.md)
-
-    - [翻译: 交叉精炼：通过协同学习提升自然语言解释生成的效果](2024年09月11日/Cross-Refine_Improving_Natural_Language_Explanation_Generation_by_Learning_in_Tandem.md)
-
 - [Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code](2024年09月11日/Demo_SGCode_A_Flexible_Prompt-Optimizing_System_for_Secure_Generation_of_Code.md)
 
     - [翻译: 展示：SGCode，一款灵活的提示优化系统，专为安全代码生成而设计。](2024年09月11日/Demo_SGCode_A_Flexible_Prompt-Optimizing_System_for_Secure_Generation_of_Code.md)
-
-- [Identify Design Problems Through Questioning: Exploring Role-playing Interactions with Large Language Models to Foster Design Questioning Skills](2024年09月11日/Identify_Design_Problems_Through_Questioning_Exploring_Role-playing_Interactions_with_Large_Language_Models_to_Foster_Design_Questioning_Skills.md)
-
-    - [翻译: 通过角色扮演与大型语言模型的互动，激发设计提问的灵感，从而精准识别设计中的问题。](2024年09月11日/Identify_Design_Problems_Through_Questioning_Exploring_Role-playing_Interactions_with_Large_Language_Models_to_Foster_Design_Questioning_Skills.md)
 
 - [Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering](2024年09月11日/Learning_to_Compress_Contexts_for_Efficient_Knowledge-based_Visual_Question_Answering.md)
 
@@ -62,14 +50,6 @@
 
     - [翻译: MiniDrive：利用多层次2D特征作为文本标记，打造更高效的自动驾驶视觉-语言模型](2024年09月11日/MiniDrive_More_Efficient_Vision-Language_Models_with_Multi-Level_2D_Features_as_Text_Tokens_for_Autonomous_Driving.md)
 
-- [MRAC Track 1: 2nd Workshop on Multimodal, Generative and Responsible Affective Computing](2024年09月11日/MRAC_Track_1_2nd_Workshop_on_Multimodal,_Generative_and_Responsible_Affective_Computing.md)
-
-    - [翻译: MRAC 赛道 1：第二届多模态、生成与负责任情感计算研讨会](2024年09月11日/MRAC_Track_1_2nd_Workshop_on_Multimodal,_Generative_and_Responsible_Affective_Computing.md)
-
-- [MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis](2024年09月11日/MVLLaVA_An_Intelligent_Agent_for_Unified_and_Flexible_Novel_View_Synthesis.md)
-
-    - [翻译: MVLLaVA：一款智能代理，专为统一且灵活的新视角合成而生](2024年09月11日/MVLLaVA_An_Intelligent_Agent_for_Unified_and_Flexible_Novel_View_Synthesis.md)
-
 - ["My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays](2024年09月11日/My_Grade_is_Wrong!_A_Contestable_AI_Framework_for_Interactive_Feedback_in_Evaluating_Student_Essays.md)
 
     - [翻译: “我的分数有误！”：一个可争议的 AI 框架，旨在为学生作文评估提供互动反馈](2024年09月11日/My_Grade_is_Wrong!_A_Contestable_AI_Framework_for_Interactive_Feedback_in_Evaluating_Student_Essays.md)
@@ -81,10 +61,6 @@
 - [Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model](2024年09月11日/Ontology-Free_General-Domain_Knowledge_Graph-to-Text_Generation_Dataset_Synthesis_using_Large_Language_Model.md)
 
     - [翻译: 借助大型语言模型，我们合成了一个无本体的通用领域知识图谱到文本生成数据集。](2024年09月11日/Ontology-Free_General-Domain_Knowledge_Graph-to-Text_Generation_Dataset_Synthesis_using_Large_Language_Model.md)
-
-- [PiTe: Pixel-Temporal Alignment for Large Video-Language Model](2024年09月11日/PiTe_Pixel-Temporal_Alignment_for_Large_Video-Language_Model.md)
-
-    - [翻译: PiTe：为大型视频-语言模型实现像素与时间的精准对齐](2024年09月11日/PiTe_Pixel-Temporal_Alignment_for_Large_Video-Language_Model.md)
 
 - [Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks](2024年09月11日/Securing_Vision-Language_Models_with_a_Robust_Encoder_Against_Jailbreak_and_Adversarial_Attacks.md)
 
