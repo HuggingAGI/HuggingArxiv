@@ -108,10 +108,6 @@
 
     - [翻译: LLM 推荐系统中的多语言提示：跨语言表现探究](2024年09月11日/Multilingual_Prompts_in_LLM-Based_Recommenders_Performance_Across_Languages.md)
 
-- [SimulBench: Evaluating Language Models with Creative Simulation Tasks](2024年09月11日/SimulBench_Evaluating_Language_Models_with_Creative_Simulation_Tasks.md)
-
-    - [翻译: SimulBench：通过创意模拟任务评估语言模型](2024年09月11日/SimulBench_Evaluating_Language_Models_with_Creative_Simulation_Tasks.md)
-
 - [Understanding Foundation Models: Are We Back in 1924?](2024年09月11日/Understanding_Foundation_Models_Are_We_Back_in_1924.md)
 
     - [翻译: 基础模型之谜：我们是否回到了1924年的起点？](2024年09月11日/Understanding_Foundation_Models_Are_We_Back_in_1924.md)
@@ -119,33 +115,3 @@
 - [Zero-Shot Machine-Generated Text Detection Using Mixture of Large Language Models](2024年09月11日/Zero-Shot_Machine-Generated_Text_Detection_Using_Mixture_of_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型混合技术，实现零-shot 机器生成文本的精准检测](2024年09月11日/Zero-Shot_Machine-Generated_Text_Detection_Using_Mixture_of_Large_Language_Models.md)
-
-2024年09月10日
-
-- [AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs](2024年09月10日/AdaPPA_Adaptive_Position_Pre-Fill_Jailbreak_Attack_Approach_Targeting_LLMs.md)
-
-    - [翻译: AdaPPA：一种针对 LLM 的自适应位置预填充越狱攻击策略](2024年09月10日/AdaPPA_Adaptive_Position_Pre-Fill_Jailbreak_Attack_Approach_Targeting_LLMs.md)
-
-2024年09月07日
-
-- [RAGent: Retrieval-based Access Control Policy Generation](2024年09月07日/RAGent_Retrieval-based_Access_Control_Policy_Generation.md)
-
-    - [翻译: RAGent：基于检索的访问控制策略生成](2024年09月07日/RAGent_Retrieval-based_Access_Control_Policy_Generation.md)
-
-2024年09月04日
-
-- [MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model](2024年09月04日/MarS_a_Financial_Market_Simulation_Engine_Powered_by_Generative_Foundation_Model.md)
-
-    - [翻译: MarS：一款由生成基础模型赋能的金融市场模拟引擎](2024年09月04日/MarS_a_Financial_Market_Simulation_Engine_Powered_by_Generative_Foundation_Model.md)
-
-2024年09月03日
-
-- [VSLLaVA: a pipeline of large multimodal foundation model for industrial vibration signal analysis](2024年09月03日/VSLLaVA_a_pipeline_of_large_multimodal_foundation_model_for_industrial_vibration_signal_analysis.md)
-
-    - [翻译: VSLLaVA：专为工业振动信号分析设计的大型多模态基础模型管道](2024年09月03日/VSLLaVA_a_pipeline_of_large_multimodal_foundation_model_for_industrial_vibration_signal_analysis.md)
-
-2024年09月02日
-
-- [EEG-Language Modeling for Pathology Detection](2024年09月02日/EEG-Language_Modeling_for_Pathology_Detection.md)
-
-    - [翻译: EEG 语言建模助力病理检测](2024年09月02日/EEG-Language_Modeling_for_Pathology_Detection.md)
