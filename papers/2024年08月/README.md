@@ -1,5 +1,11 @@
 # 2024年08月
 
+2024年08月27日
+
+- [Multi-Modal Instruction-Tuning Small-Scale Language-and-Vision Assistant for Semiconductor Electron Micrograph Analysis](2024年08月27日/Multi-Modal_Instruction-Tuning_Small-Scale_Language-and-Vision_Assistant_for_Semiconductor_Electron_Micrograph_Analysis.md)
+
+    - [翻译: 多模态指令调优的小型语言与视觉助手，专为半导体电子显微镜分析设计。](2024年08月27日/Multi-Modal_Instruction-Tuning_Small-Scale_Language-and-Vision_Assistant_for_Semiconductor_Electron_Micrograph_Analysis.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
