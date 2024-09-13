@@ -2,10 +2,6 @@
 
 2024年09月12日
 
-- [An Evaluation Framework for Attributed Information Retrieval using Large Language Models](2024年09月12日/An_Evaluation_Framework_for_Attributed_Information_Retrieval_using_Large_Language_Models.md)
-
-    - [翻译: 基于大型语言模型的属性信息检索评估框架](2024年09月12日/An_Evaluation_Framework_for_Attributed_Information_Retrieval_using_Large_Language_Models.md)
-
 - [Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](2024年09月12日/Dynamic_Prompting_of_Frozen_Text-to-Image_Diffusion_Models_for_Panoptic_Narrative_Grounding.md)
 
     - [翻译: 动态提示冻结的文本到图像扩散模型，实现全景叙事定位](2024年09月12日/Dynamic_Prompting_of_Frozen_Text-to-Image_Diffusion_Models_for_Panoptic_Narrative_Grounding.md)
@@ -21,10 +17,6 @@
 - [Fine-tuning Large Language Models for Entity Matching](2024年09月12日/Fine-tuning_Large_Language_Models_for_Entity_Matching.md)
 
     - [翻译: 微调大型语言模型以实现实体匹配](2024年09月12日/Fine-tuning_Large_Language_Models_for_Entity_Matching.md)
-
-- [Full-text Error Correction for Chinese Speech Recognition with Large Language Model](2024年09月12日/Full-text_Error_Correction_for_Chinese_Speech_Recognition_with_Large_Language_Model.md)
-
-    - [翻译: 利用大型语言模型实现中文语音识别的全文纠错](2024年09月12日/Full-text_Error_Correction_for_Chinese_Speech_Recognition_with_Large_Language_Model.md)
 
 - [Learning Rules from KGs Guided by Language Models](2024年09月12日/Learning_Rules_from_KGs_Guided_by_Language_Models.md)
 
@@ -58,10 +50,6 @@
 
     - [翻译: CLC-UKET 数据集：英国就业法庭案件结果预测的基准测试](2024年09月12日/The_CLC-UKET_Dataset_Benchmarking_Case_Outcome_Prediction_for_the_UK_Employment_Tribunal.md)
 
-- [TravelAgent: An AI Assistant for Personalized Travel Planning](2024年09月12日/TravelAgent_An_AI_Assistant_for_Personalized_Travel_Planning.md)
-
-    - [翻译: TravelAgent：你的专属 AI 旅行规划助手](2024年09月12日/TravelAgent_An_AI_Assistant_for_Personalized_Travel_Planning.md)
-
 - [What Makes a Maze Look Like a Maze?](2024年09月12日/What_Makes_a_Maze_Look_Like_a_Maze.md)
 
     - [翻译: 迷宫为何如此迷宫？](2024年09月12日/What_Makes_a_Maze_Look_Like_a_Maze.md)
@@ -77,17 +65,3 @@
 - [WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks](2024年09月12日/WirelessAgent_Large_Language_Model_Agents_for_Intelligent_Wireless_Networks.md)
 
     - [翻译: WirelessAgent：智能无线网络中的大型语言模型代理](2024年09月12日/WirelessAgent_Large_Language_Model_Agents_for_Intelligent_Wireless_Networks.md)
-
-2024年09月11日
-
-- [Exploring LLMs for Malware Detection: Review, Framework Design, and Countermeasure Approaches](2024年09月11日/Exploring_LLMs_for_Malware_Detection_Review,_Framework_Design,_and_Countermeasure_Approaches.md)
-
-    - [翻译: 探索 LLM 在恶意软件检测中的应用：回顾现有研究、设计检测框架及提出反制策略。](2024年09月11日/Exploring_LLMs_for_Malware_Detection_Review,_Framework_Design,_and_Countermeasure_Approaches.md)
-
-- [Understanding Foundation Models: Are We Back in 1924?](2024年09月11日/Understanding_Foundation_Models_Are_We_Back_in_1924.md)
-
-    - [翻译: 基础模型之谜：我们是否回到了1924年的起点？](2024年09月11日/Understanding_Foundation_Models_Are_We_Back_in_1924.md)
-
-- [Zero-Shot Machine-Generated Text Detection Using Mixture of Large Language Models](2024年09月11日/Zero-Shot_Machine-Generated_Text_Detection_Using_Mixture_of_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型混合技术，实现零-shot 机器生成文本的精准检测](2024年09月11日/Zero-Shot_Machine-Generated_Text_Detection_Using_Mixture_of_Large_Language_Models.md)
