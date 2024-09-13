@@ -14,17 +14,9 @@
 
     - [翻译: 通过多令牌预测，Speech-LLaMA 的推理速度得以提升。](2024年09月12日/Faster_Speech-LLaMA_Inference_with_Multi-token_Prediction.md)
 
-- [Fine-tuning Large Language Models for Entity Matching](2024年09月12日/Fine-tuning_Large_Language_Models_for_Entity_Matching.md)
-
-    - [翻译: 微调大型语言模型以实现实体匹配](2024年09月12日/Fine-tuning_Large_Language_Models_for_Entity_Matching.md)
-
 - [Learning Rules from KGs Guided by Language Models](2024年09月12日/Learning_Rules_from_KGs_Guided_by_Language_Models.md)
 
     - [翻译: 借助语言模型，从知识图谱中提炼学习规则](2024年09月12日/Learning_Rules_from_KGs_Guided_by_Language_Models.md)
-
-- [LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems](2024年09月12日/LLM_Honeypot_Leveraging_Large_Language_Models_as_Advanced_Interactive_Honeypot_Systems.md)
-
-    - [翻译: LLM 蜜罐：将大型语言模型转化为高级交互式蜜罐系统](2024年09月12日/LLM_Honeypot_Leveraging_Large_Language_Models_as_Advanced_Interactive_Honeypot_Systems.md)
 
 - [LLM-POTUS Score: A Framework of Analyzing Presidential Debates with Large Language Models](2024年09月12日/LLM-POTUS_Score_A_Framework_of_Analyzing_Presidential_Debates_with_Large_Language_Models.md)
 
@@ -38,25 +30,9 @@
 
     - [翻译: 守护大型语言模型：应对偏见、谣言与提示攻击](2024年09月12日/Securing_Large_Language_Models_Addressing_Bias,_Misinformation,_and_Prompt_Attacks.md)
 
-- [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](2024年09月12日/Source2Synth_Synthetic_Data_Generation_and_Curation_Grounded_in_Real_Data_Sources.md)
-
-    - [翻译: Source2Synth：利用真实数据源生成和整理合成数据](2024年09月12日/Source2Synth_Synthetic_Data_Generation_and_Curation_Grounded_in_Real_Data_Sources.md)
-
-- [SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing](2024年09月12日/SoVAR_Building_Generalizable_Scenarios_from_Accident_Reports_for_Autonomous_Driving_Testing.md)
-
-    - [翻译: SoVAR：从事故报告中提炼通用场景，助力自动驾驶测试](2024年09月12日/SoVAR_Building_Generalizable_Scenarios_from_Accident_Reports_for_Autonomous_Driving_Testing.md)
-
-- [The CLC-UKET Dataset: Benchmarking Case Outcome Prediction for the UK Employment Tribunal](2024年09月12日/The_CLC-UKET_Dataset_Benchmarking_Case_Outcome_Prediction_for_the_UK_Employment_Tribunal.md)
-
-    - [翻译: CLC-UKET 数据集：英国就业法庭案件结果预测的基准测试](2024年09月12日/The_CLC-UKET_Dataset_Benchmarking_Case_Outcome_Prediction_for_the_UK_Employment_Tribunal.md)
-
 - [What Makes a Maze Look Like a Maze?](2024年09月12日/What_Makes_a_Maze_Look_Like_a_Maze.md)
 
     - [翻译: 迷宫为何如此迷宫？](2024年09月12日/What_Makes_a_Maze_Look_Like_a_Maze.md)
-
-- [WhisperNER: Unified Open Named Entity and Speech Recognition](2024年09月12日/WhisperNER_Unified_Open_Named_Entity_and_Speech_Recognition.md)
-
-    - [翻译: WhisperNER：融合开放命名实体与语音识别的统一平台](2024年09月12日/WhisperNER_Unified_Open_Named_Entity_and_Speech_Recognition.md)
 
 - [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](2024年09月12日/Windows_Agent_Arena_Evaluating_Multi-Modal_OS_Agents_at_Scale.md)
 
