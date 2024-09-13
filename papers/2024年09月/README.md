@@ -80,33 +80,9 @@
 
 2024年09月11日
 
-- [A Novel Mathematical Framework for Objective Evaluation of Ideas using a Conversational AI (CAI) System](2024年09月11日/A_Novel_Mathematical_Framework_for_Objective_Evaluation_of_Ideas_using_a_Conversational_AI_(CAI)_System.md)
-
-    - [翻译: 本文提出了一种新颖的数学框架，通过对话式 AI 系统对创意进行客观评估。](2024年09月11日/A_Novel_Mathematical_Framework_for_Objective_Evaluation_of_Ideas_using_a_Conversational_AI_(CAI)_System.md)
-
-- [DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?](2024年09月11日/DSBench_How_Far_Are_Data_Science_Agents_to_Becoming_Data_Science_Experts.md)
-
-    - [翻译: DSBench：数据科学代理与专家之间，还有多少差距？](2024年09月11日/DSBench_How_Far_Are_Data_Science_Agents_to_Becoming_Data_Science_Experts.md)
-
-- [Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG](2024年09月11日/Enhancing_Q&A_Text_Retrieval_with_Ranking_Models_Benchmarking,_fine-tuning_and_deploying_Rerankers_for_RAG.md)
-
-    - [翻译: 利用排名模型提升问答文本检索：RAG 的 Rerankers 基准测试、微调与部署](2024年09月11日/Enhancing_Q&A_Text_Retrieval_with_Ranking_Models_Benchmarking,_fine-tuning_and_deploying_Rerankers_for_RAG.md)
-
-- [Experimenting with Legal AI Solutions: The Case of Question-Answering for Access to Justice](2024年09月11日/Experimenting_with_Legal_AI_Solutions_The_Case_of_Question-Answering_for_Access_to_Justice.md)
-
-    - [翻译: 探索法律AI解决方案：以获取正义的问答为例](2024年09月11日/Experimenting_with_Legal_AI_Solutions_The_Case_of_Question-Answering_for_Access_to_Justice.md)
-
 - [Exploring LLMs for Malware Detection: Review, Framework Design, and Countermeasure Approaches](2024年09月11日/Exploring_LLMs_for_Malware_Detection_Review,_Framework_Design,_and_Countermeasure_Approaches.md)
 
     - [翻译: 探索 LLM 在恶意软件检测中的应用：回顾现有研究、设计检测框架及提出反制策略。](2024年09月11日/Exploring_LLMs_for_Malware_Detection_Review,_Framework_Design,_and_Countermeasure_Approaches.md)
-
-- [Large Language Models are Pattern Matchers: Editing Semi-Structured and Structured Documents with ChatGPT](2024年09月11日/Large_Language_Models_are_Pattern_Matchers_Editing_Semi-Structured_and_Structured_Documents_with_ChatGPT.md)
-
-    - [翻译: 大型语言模型如同模式匹配器，借助 ChatGPT，我们能轻松编辑半结构化和结构化文档。](2024年09月11日/Large_Language_Models_are_Pattern_Matchers_Editing_Semi-Structured_and_Structured_Documents_with_ChatGPT.md)
-
-- [Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages](2024年09月11日/Multilingual_Prompts_in_LLM-Based_Recommenders_Performance_Across_Languages.md)
-
-    - [翻译: LLM 推荐系统中的多语言提示：跨语言表现探究](2024年09月11日/Multilingual_Prompts_in_LLM-Based_Recommenders_Performance_Across_Languages.md)
 
 - [Understanding Foundation Models: Are We Back in 1924?](2024年09月11日/Understanding_Foundation_Models_Are_We_Back_in_1924.md)
 
