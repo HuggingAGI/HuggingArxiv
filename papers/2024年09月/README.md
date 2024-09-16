@@ -6,10 +6,6 @@
 
     - [翻译: 软件工程中的代理：全面调查、现状分析与未来展望](2024年09月13日/Agents_in_Software_Engineering_Survey,_Landscape,_and_Vision.md)
 
-- [AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents](2024年09月13日/AI-LieDar_Examine_the_Trade-off_Between_Utility_and_Truthfulness_in_LLM_Agents.md)
-
-    - [翻译: AI-LieDar：探索 LLM 代理中效用与真实性之间的平衡](2024年09月13日/AI-LieDar_Examine_the_Trade-off_Between_Utility_and_Truthfulness_in_LLM_Agents.md)
-
 - [AIPO: Improving Training Objective for Iterative Preference Optimization](2024年09月13日/AIPO_Improving_Training_Objective_for_Iterative_Preference_Optimization.md)
 
     - [翻译: AIPO：优化迭代偏好训练目标](2024年09月13日/AIPO_Improving_Training_Objective_for_Iterative_Preference_Optimization.md)
@@ -30,10 +26,6 @@
 
     - [翻译: ATFLRec：一款多模态推荐系统，融合音频与文本，并通过指令调优的大型语言模型实现低秩适应。](2024年09月13日/ATFLRec_A_Multimodal_Recommender_System_with_Audio-Text_Fusion_and_Low-Rank_Adaptation_via_Instruction-Tuned_Large_Language_Model.md)
 
-- [B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests](2024年09月13日/B4_Towards_Optimal_Assessment_of_Plausible_Code_Solutions_with_Plausible_Tests.md)
-
-    - [翻译: B4：通过合理测试，迈向代码解决方案的最佳评估](2024年09月13日/B4_Towards_Optimal_Assessment_of_Plausible_Code_Solutions_with_Plausible_Tests.md)
-
 - [Contri(e)ve: Context + Retrieve for Scholarly Question Answering](2024年09月13日/Contri(e)ve_Context_+_Retrieve_for_Scholarly_Question_Answering.md)
 
     - [翻译: Contri(e)ve：结合上下文与检索的学术问答新方法](2024年09月13日/Contri(e)ve_Context_+_Retrieve_for_Scholarly_Question_Answering.md)
@@ -46,10 +38,6 @@
 
     - [翻译: 破解专业考试之谜：在印尼现实场景中评估多领域 LLM 的表现](2024年09月13日/Cracking_the_Code_Multi-domain_LLM_Evaluation_on_Real-World_Professional_Exams_in_Indonesia.md)
 
-- [DataliVR: Transformation of Data Literacy Education through Virtual Reality with ChatGPT-Powered Enhancements](2024年09月13日/DataliVR_Transformation_of_Data_Literacy_Education_through_Virtual_Reality_with_ChatGPT-Powered_Enhancements.md)
-
-    - [翻译: DataliVR：借助 ChatGPT 增强的虚拟现实技术，数据素养教育迎来革新。](2024年09月13日/DataliVR_Transformation_of_Data_Literacy_Education_through_Virtual_Reality_with_ChatGPT-Powered_Enhancements.md)
-
 - [Distilling Monolingual and Crosslingual Word-in-Context Representations](2024年09月13日/Distilling_Monolingual_and_Crosslingual_Word-in-Context_Representations.md)
 
     - [翻译: 提炼单语与跨语境的词表示](2024年09月13日/Distilling_Monolingual_and_Crosslingual_Word-in-Context_Representations.md)
@@ -57,10 +45,6 @@
 - [Eir: Thai Medical Large Language Models](2024年09月13日/Eir_Thai_Medical_Large_Language_Models.md)
 
     - [翻译: Eir：泰国医学领域的大型语言模型](2024年09月13日/Eir_Thai_Medical_Large_Language_Models.md)
-
-- [Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling](2024年09月13日/Electrocardiogram_Report_Generation_and_Question_Answering_via_Retrieval-Augmented_Self-Supervised_Modeling.md)
-
-    - [翻译: 基于检索增强的自监督模型，实现心电图报告的生成与问答](2024年09月13日/Electrocardiogram_Report_Generation_and_Question_Answering_via_Retrieval-Augmented_Self-Supervised_Modeling.md)
 
 - [Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions](2024年09月13日/Emerging_Reliance_Behaviors_in_Human-AI_Text_Generation_Hallucinations,_Data_Quality_Assessment,_and_Cognitive_Forcing_Functions.md)
 
@@ -85,14 +69,6 @@
 - [L3Cube-IndicQuest: A Benchmark Questing Answering Dataset for Evaluating Knowledge of LLMs in Indic Context](2024年09月13日/L3Cube-IndicQuest_A_Benchmark_Questing_Answering_Dataset_for_Evaluating_Knowledge_of_LLMs_in_Indic_Context.md)
 
     - [翻译: L3Cube-IndicQuest：评估 LLM 在 Indic 语境中知识水平的基准问答数据集](2024年09月13日/L3Cube-IndicQuest_A_Benchmark_Questing_Answering_Dataset_for_Evaluating_Knowledge_of_LLMs_in_Indic_Context.md)
-
-- [LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation](2024年09月13日/LA-RAGEnhancing_LLM-based_ASR_Accuracy_with_Retrieval-Augmented_Generation.md)
-
-    - [翻译: LA-RAG：借助检索增强生成技术，提升基于 LLM 的语音识别准确性](2024年09月13日/LA-RAGEnhancing_LLM-based_ASR_Accuracy_with_Retrieval-Augmented_Generation.md)
-
-- [LLaQo: Towards a Query-Based Coach in Expressive Music Performance Assessment](2024年09月13日/LLaQo_Towards_a_Query-Based_Coach_in_Expressive_Music_Performance_Assessment.md)
-
-    - [翻译: LLaQo：迈向基于查询的教练，助力表现性音乐表演评估](2024年09月13日/LLaQo_Towards_a_Query-Based_Coach_in_Expressive_Music_Performance_Assessment.md)
 
 - [LLM-based Weak Supervision Framework for Query Intent Classification in Video Search](2024年09月13日/LLM-based_Weak_Supervision_Framework_for_Query_Intent_Classification_in_Video_Search.md)
 
