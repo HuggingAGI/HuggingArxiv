@@ -6,18 +6,6 @@
 
     - [翻译: 软件工程中的代理：全面调查、现状分析与未来展望](2024年09月13日/Agents_in_Software_Engineering_Survey,_Landscape,_and_Vision.md)
 
-- [AIPO: Improving Training Objective for Iterative Preference Optimization](2024年09月13日/AIPO_Improving_Training_Objective_for_Iterative_Preference_Optimization.md)
-
-    - [翻译: AIPO：优化迭代偏好训练目标](2024年09月13日/AIPO_Improving_Training_Objective_for_Iterative_Preference_Optimization.md)
-
-- [A Market for Lemons? Strategic Directions for a Vigilant Application of Artificial Intelligence in Entrepreneurship Research](2024年09月13日/A_Market_for_Lemons_Strategic_Directions_for_a_Vigilant_Application_of_Artificial_Intelligence_in_Entrepreneurship_Research.md)
-
-    - [翻译: 柠檬市场？警惕应用人工智能于创业研究的战略指南](2024年09月13日/A_Market_for_Lemons_Strategic_Directions_for_a_Vigilant_Application_of_Artificial_Intelligence_in_Entrepreneurship_Research.md)
-
-- [AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models](2024年09月13日/AnyBipe_An_End-to-End_Framework_for_Training_and_Deploying_Bipedal_Robots_Guided_by_Large_Language_Models.md)
-
-    - [翻译: AnyBipe：一个端到端的框架，专为训练和部署由大型语言模型引导的双足机器人而设计。](2024年09月13日/AnyBipe_An_End-to-End_Framework_for_Training_and_Deploying_Bipedal_Robots_Guided_by_Large_Language_Models.md)
-
 - [A RAG Approach for Generating Competency Questions in Ontology Engineering](2024年09月13日/A_RAG_Approach_for_Generating_Competency_Questions_in_Ontology_Engineering.md)
 
     - [翻译: 本体工程中生成能力问题的一种 RAG 方法](2024年09月13日/A_RAG_Approach_for_Generating_Competency_Questions_in_Ontology_Engineering.md)
@@ -25,10 +13,6 @@
 - [ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model](2024年09月13日/ATFLRec_A_Multimodal_Recommender_System_with_Audio-Text_Fusion_and_Low-Rank_Adaptation_via_Instruction-Tuned_Large_Language_Model.md)
 
     - [翻译: ATFLRec：一款多模态推荐系统，融合音频与文本，并通过指令调优的大型语言模型实现低秩适应。](2024年09月13日/ATFLRec_A_Multimodal_Recommender_System_with_Audio-Text_Fusion_and_Low-Rank_Adaptation_via_Instruction-Tuned_Large_Language_Model.md)
-
-- [Contri(e)ve: Context + Retrieve for Scholarly Question Answering](2024年09月13日/Contri(e)ve_Context_+_Retrieve_for_Scholarly_Question_Answering.md)
-
-    - [翻译: Contri(e)ve：结合上下文与检索的学术问答新方法](2024年09月13日/Contri(e)ve_Context_+_Retrieve_for_Scholarly_Question_Answering.md)
 
 - [CPL: Critical Planning Step Learning Boosts LLM Generalization in Reasoning Tasks](2024年09月13日/CPL_Critical_Planning_Step_Learning_Boosts_LLM_Generalization_in_Reasoning_Tasks.md)
 
@@ -53,10 +37,6 @@
 - [Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding](2024年09月13日/Expediting_and_Elevating_Large_Language_Model_Reasoning_via_Hidden_Chain-of-Thought_Decoding.md)
 
     - [翻译: 借助隐式思维链解码，加速并提升大型语言模型的推理能力。](2024年09月13日/Expediting_and_Elevating_Large_Language_Model_Reasoning_via_Hidden_Chain-of-Thought_Decoding.md)
-
-- [Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies](2024年09月13日/Exploring_Graph_Structure_Comprehension_Ability_of_Multimodal_Large_Language_Models_Case_Studies.md)
-
-    - [翻译: 探究多模态大型语言模型对图结构的理解能力：案例分析](2024年09月13日/Exploring_Graph_Structure_Comprehension_Ability_of_Multimodal_Large_Language_Models_Case_Studies.md)
 
 - [FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition](2024年09月13日/FP-VEC_Fingerprinting_Large_Language_Models_via_Efficient_Vector_Addition.md)
 
@@ -93,7 +73,3 @@
 - [SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity](2024年09月13日/SGFormer_Single-Layer_Graph_Transformers_with_Approximation-Free_Linear_Complexity.md)
 
     - [翻译: SGFormer：一种单层图变换器，具备无近似的线性复杂度。](2024年09月13日/SGFormer_Single-Layer_Graph_Transformers_with_Approximation-Free_Linear_Complexity.md)
-
-- [SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records](2024年09月13日/SynSUM_--_Synthetic_Benchmark_with_Structured_and_Unstructured_Medical_Records.md)
-
-    - [翻译: SynSUM -- 结合结构化与非结构化医疗记录的合成基准](2024年09月13日/SynSUM_--_Synthetic_Benchmark_with_Structured_and_Unstructured_Medical_Records.md)
