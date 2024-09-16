@@ -1,11 +1,5 @@
 # 2024年08月
 
-2024年08月24日
-
-- [StockTime: A Time Series Specialized Large Language Model Architecture for Stock Price Prediction](2024年08月24日/StockTime_A_Time_Series_Specialized_Large_Language_Model_Architecture_for_Stock_Price_Prediction.md)
-
-    - [翻译: StockTime：专为时间序列设计的大型语言模型架构，精准预测股票价格](2024年08月24日/StockTime_A_Time_Series_Specialized_Large_Language_Model_Architecture_for_Stock_Price_Prediction.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)

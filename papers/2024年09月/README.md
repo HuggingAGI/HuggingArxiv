@@ -124,22 +124,6 @@
 
 2024年09月12日
 
-- [An Experimental Study of Competitive Market Behavior Through LLMs](2024年09月12日/An_Experimental_Study_of_Competitive_Market_Behavior_Through_LLMs.md)
-
-    - [翻译: 利用 LLM 探索竞争市场行为的实验研究](2024年09月12日/An_Experimental_Study_of_Competitive_Market_Behavior_Through_LLMs.md)
-
-- [Exploring Information Retrieval Landscapes: An Investigation of a Novel Evaluation Techniques and Comparative Document Splitting Methods](2024年09月12日/Exploring_Information_Retrieval_Landscapes_An_Investigation_of_a_Novel_Evaluation_Techniques_and_Comparative_Document_Splitting_Methods.md)
-
-    - [翻译: 探索信息检索的新天地：调查创新评估技术与文档分割方法的比较](2024年09月12日/Exploring_Information_Retrieval_Landscapes_An_Investigation_of_a_Novel_Evaluation_Techniques_and_Comparative_Document_Splitting_Methods.md)
-
-- [Knowledge Tagging with Large Language Model based Multi-Agent System](2024年09月12日/Knowledge_Tagging_with_Large_Language_Model_based_Multi-Agent_System.md)
-
-    - [翻译: 大型语言模型驱动的多智能体系统知识标签](2024年09月12日/Knowledge_Tagging_with_Large_Language_Model_based_Multi-Agent_System.md)
-
-- [Real or Robotic? Assessing Whether LLMs Accurately Simulate Qualities of Human Responses in Dialogue](2024年09月12日/Real_or_Robotic_Assessing_Whether_LLMs_Accurately_Simulate_Qualities_of_Human_Responses_in_Dialogue.md)
-
-    - [翻译: 真实还是机器人？探讨 LLM 在对话中模拟人类反应特质的能力。](2024年09月12日/Real_or_Robotic_Assessing_Whether_LLMs_Accurately_Simulate_Qualities_of_Human_Responses_in_Dialogue.md)
-
 - [Risks When Sharing LoRA Fine-Tuned Diffusion Model Weights](2024年09月12日/Risks_When_Sharing_LoRA_Fine-Tuned_Diffusion_Model_Weights.md)
 
     - [翻译: 共享 LoRA 微调扩散模型权重时需警惕的风险](2024年09月12日/Risks_When_Sharing_LoRA_Fine-Tuned_Diffusion_Model_Weights.md)
@@ -147,10 +131,6 @@
 - [The Impact of Large Language Models on Open-source Innovation: Evidence from GitHub Copilot](2024年09月12日/The_Impact_of_Large_Language_Models_on_Open-source_Innovation_Evidence_from_GitHub_Copilot.md)
 
     - [翻译: 大型语言模型如何推动开源创新？GitHub Copilot 提供了有力证据。](2024年09月12日/The_Impact_of_Large_Language_Models_on_Open-source_Innovation_Evidence_from_GitHub_Copilot.md)
-
-- [Toward satisfactory public accessibility: A crowdsourcing approach through online reviews to inclusive urban design](2024年09月12日/Toward_satisfactory_public_accessibility_A_crowdsourcing_approach_through_online_reviews_to_inclusive_urban_design.md)
-
-    - [翻译: 迈向更包容的城市设计：利用在线评论的众包方法，提升公共空间的可达性。](2024年09月12日/Toward_satisfactory_public_accessibility_A_crowdsourcing_approach_through_online_reviews_to_inclusive_urban_design.md)
 
 - [Towards Quantifying and Reducing Language Mismatch Effects in Cross-Lingual Speech Anti-Spoofing](2024年09月12日/Towards_Quantifying_and_Reducing_Language_Mismatch_Effects_in_Cross-Lingual_Speech_Anti-Spoofing.md)
 
