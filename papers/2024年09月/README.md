@@ -156,10 +156,6 @@
 
     - [翻译: AlpaPICO：借助 LLM 技术，从临床试验文档中精准提取 PICO 框架。](2024年09月15日/AlpaPICO_Extraction_of_PICO_Frames_from_Clinical_Trial_Documents_Using_LLMs.md)
 
-- [A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models](2024年09月15日/A_Study_on_Zero-shot_Non-intrusive_Speech_Assessment_using_Large_Language_Models.md)
-
-    - [翻译: 本研究探讨了如何利用大型语言模型进行零-shot 非侵入性语音评估。](2024年09月15日/A_Study_on_Zero-shot_Non-intrusive_Speech_Assessment_using_Large_Language_Models.md)
-
 - [Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents](2024年09月15日/Automatic_Control_With_Human-Like_Reasoning_Exploring_Language_Model_Embodied_Air_Traffic_Agents.md)
 
     - [翻译: 类人推理的自动控制：探索语言模型驱动的空中交通代理](2024年09月15日/Automatic_Control_With_Human-Like_Reasoning_Exploring_Language_Model_Embodied_Air_Traffic_Agents.md)
@@ -176,14 +172,6 @@
 
     - [翻译: LLM 对话状态跟踪中的置信度评估](2024年09月15日/Confidence_Estimation_for_LLM-Based_Dialogue_State_Tracking.md)
 
-- [ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts](2024年09月15日/ContractTinker_LLM-Empowered_Vulnerability_Repair_for_Real-World_Smart_Contracts.md)
-
-    - [翻译: ContractTinker：利用 LLM 赋能的漏洞修复技术，为现实世界中的智能合约保驾护航。](2024年09月15日/ContractTinker_LLM-Empowered_Vulnerability_Repair_for_Real-World_Smart_Contracts.md)
-
-- [ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing](2024年09月15日/ELMI_Interactive_and_Intelligent_Sign_Language_Translation_of_Lyrics_for_Song_Signing.md)
-
-    - [翻译: ELMI：为歌曲手语提供交互式且智能的歌词翻译](2024年09月15日/ELMI_Interactive_and_Intelligent_Sign_Language_Translation_of_Lyrics_for_Song_Signing.md)
-
 - [Enhancing Text Annotation through Rationale-Driven Collaborative Few-Shot Prompting](2024年09月15日/Enhancing_Text_Annotation_through_Rationale-Driven_Collaborative_Few-Shot_Prompting.md)
 
     - [翻译: 借助基于理由的协作少样本提示，提升文本标注效果](2024年09月15日/Enhancing_Text_Annotation_through_Rationale-Driven_Collaborative_Few-Shot_Prompting.md)
@@ -199,10 +187,6 @@
 - [Finetuning CLIP to Reason about Pairwise Differences](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
 
     - [翻译: 微调 CLIP，使其能够推理成对差异](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
-
-- [FSL-LVLM: Friction-Aware Safety Locomotion using Large Vision Language Model in Wheeled Robots](2024年09月15日/FSL-LVLM_Friction-Aware_Safety_Locomotion_using_Large_Vision_Language_Model_in_Wheeled_Robots.md)
-
-    - [翻译: FSL-LVLM：借助大型视觉语言模型，轮式机器人实现摩擦感知的安全移动](2024年09月15日/FSL-LVLM_Friction-Aware_Safety_Locomotion_using_Large_Vision_Language_Model_in_Wheeled_Robots.md)
 
 - [Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations](2024年09月15日/Gaps_or_Hallucinations_Gazing_into_Machine-Generated_Legal_Analysis_for_Fine-grained_Text_Evaluations.md)
 
@@ -224,10 +208,6 @@
 
     - [翻译: 借助大型语言模型，精准预测软件工程项目的成本与工期](2024年09月15日/Leveraging_Large_Language_Models_for_Predicting_Cost_and_Duration_in_Software_Engineering_Projects.md)
 
-- [Leveraging Open-Source Large Language Models for Native Language Identification](2024年09月15日/Leveraging_Open-Source_Large_Language_Models_for_Native_Language_Identification.md)
-
-    - [翻译: 借助开源大型语言模型，我们能够更精准地识别母语。](2024年09月15日/Leveraging_Open-Source_Large_Language_Models_for_Native_Language_Identification.md)
-
 - [PersonaMark: Personalized LLM watermarking for model protection and user attribution](2024年09月15日/PersonaMark_Personalized_LLM_watermarking_for_model_protection_and_user_attribution.md)
 
     - [翻译: PersonaMark：一种个性化 LLM 水印技术，旨在保护模型并识别用户归属。](2024年09月15日/PersonaMark_Personalized_LLM_watermarking_for_model_protection_and_user_attribution.md)
@@ -235,10 +215,6 @@
 - [Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models](2024年09月15日/Reasoning_Paths_with_Reference_Objects_Elicit_Quantitative_Spatial_Reasoning_in_Large_Vision-Language_Models.md)
 
     - [翻译: 借助参考对象的推理路径，大型视觉语言模型能够实现定量空间推理。](2024年09月15日/Reasoning_Paths_with_Reference_Objects_Elicit_Quantitative_Spatial_Reasoning_in_Large_Vision-Language_Models.md)
-
-- [Rediscovering the Latent Dimensions of Personality with Large Language Models as Trait Descriptors](2024年09月15日/Rediscovering_the_Latent_Dimensions_of_Personality_with_Large_Language_Models_as_Trait_Descriptors.md)
-
-    - [翻译: 借助大型语言模型，重新探索人格的潜在特质维度](2024年09月15日/Rediscovering_the_Latent_Dimensions_of_Personality_with_Large_Language_Models_as_Trait_Descriptors.md)
 
 - [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](2024年09月15日/Rethinking_KenLM_Good_and_Bad_Model_Ensembles_for_Efficient_Text_Quality_Filtering_in_Large_Web_Corpora.md)
 
