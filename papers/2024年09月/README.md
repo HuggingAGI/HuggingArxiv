@@ -392,10 +392,6 @@
 
     - [翻译: 结合多模态数据与 LLM，预测自然对话中的参与度](2024年09月13日/Multimodal_Fusion_with_LLMs_for_Engagement_Prediction_in_Natural_Conversation.md)
 
-- [Python Symbolic Execution with LLM-powered Code Generation](2024年09月13日/Python_Symbolic_Execution_with_LLM-powered_Code_Generation.md)
-
-    - [翻译: Python 符号执行结合 LLM 驱动的代码生成](2024年09月13日/Python_Symbolic_Execution_with_LLM-powered_Code_Generation.md)
-
 - [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](2024年09月13日/ReCLAP_Improving_Zero_Shot_Audio_Classification_by_Describing_Sounds.md)
 
     - [翻译: ReCLAP：用声音描述提升零-shot 音频分类](2024年09月13日/ReCLAP_Improving_Zero_Shot_Audio_Classification_by_Describing_Sounds.md)
