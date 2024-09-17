@@ -164,10 +164,6 @@
 
     - [翻译: 大型语言模型能否捕捉事件信号？探索纯零-shot 事件识别的可能性](2024年09月15日/Can_Large_Language_Models_Grasp_Event_Signals_Exploring_Pure_Zero-Shot_Event-based_Recognition.md)
 
-- [Causal Inference with Large Language Model: A Survey](2024年09月15日/Causal_Inference_with_Large_Language_Model_A_Survey.md)
-
-    - [翻译: 大型语言模型中的因果推断：全面调查](2024年09月15日/Causal_Inference_with_Large_Language_Model_A_Survey.md)
-
 - [Confidence Estimation for LLM-Based Dialogue State Tracking](2024年09月15日/Confidence_Estimation_for_LLM-Based_Dialogue_State_Tracking.md)
 
     - [翻译: LLM 对话状态跟踪中的置信度评估](2024年09月15日/Confidence_Estimation_for_LLM-Based_Dialogue_State_Tracking.md)
@@ -180,10 +176,6 @@
 
     - [翻译: 利用基础模型评估薪资差距](2024年09月15日/Estimating_Wage_Disparities_Using_Foundation_Models.md)
 
-- [Explore the Hallucination on Low-level Perception for MLLMs](2024年09月15日/Explore_the_Hallucination_on_Low-level_Perception_for_MLLMs.md)
-
-    - [翻译: 深入研究 MLLMs 在低层次感知中的幻觉现象](2024年09月15日/Explore_the_Hallucination_on_Low-level_Perception_for_MLLMs.md)
-
 - [Finetuning CLIP to Reason about Pairwise Differences](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
 
     - [翻译: 微调 CLIP，使其能够推理成对差异](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
@@ -192,10 +184,6 @@
 
     - [翻译: 机器生成的法律分析：是差距还是幻觉？细探文本评估的微妙之处。](2024年09月15日/Gaps_or_Hallucinations_Gazing_into_Machine-Generated_Legal_Analysis_for_Fine-grained_Text_Evaluations.md)
 
-- [Generalizing Alignment Paradigm of Text-to-Image Generation with Preferences through $f$-divergence Minimization](2024年09月15日/Generalizing_Alignment_Paradigm_of_Text-to-Image_Generation_with_Preferences_through_$f$-divergence_Minimization.md)
-
-    - [翻译: 通过 $f$-divergence 最小化，我们将文本到图像生成的对齐范式与用户偏好相结合，实现更广泛的适用性。](2024年09月15日/Generalizing_Alignment_Paradigm_of_Text-to-Image_Generation_with_Preferences_through_$f$-divergence_Minimization.md)
-
 - [GP-GPT: Large Language Model for Gene-Phenotype Mapping](2024年09月15日/GP-GPT_Large_Language_Model_for_Gene-Phenotype_Mapping.md)
 
     - [翻译: GP-GPT：专为基因与表型关联设计的大型语言模型](2024年09月15日/GP-GPT_Large_Language_Model_for_Gene-Phenotype_Mapping.md)
@@ -203,10 +191,6 @@
 - [Large Language Model Based Generative Error Correction: A Challenge and Baselines forSpeech Recognition, Speaker Tagging, and Emotion Recognition](2024年09月15日/Large_Language_Model_Based_Generative_Error_Correction_A_Challenge_and_Baselines_forSpeech_Recognition,_Speaker_Tagging,_and_Emotion_Recognition.md)
 
     - [翻译: 大型语言模型驱动的错误纠正生成：探索语音识别、说话人标记与情感识别的挑战与基准](2024年09月15日/Large_Language_Model_Based_Generative_Error_Correction_A_Challenge_and_Baselines_forSpeech_Recognition,_Speaker_Tagging,_and_Emotion_Recognition.md)
-
-- [Leveraging Large Language Models for Predicting Cost and Duration in Software Engineering Projects](2024年09月15日/Leveraging_Large_Language_Models_for_Predicting_Cost_and_Duration_in_Software_Engineering_Projects.md)
-
-    - [翻译: 借助大型语言模型，精准预测软件工程项目的成本与工期](2024年09月15日/Leveraging_Large_Language_Models_for_Predicting_Cost_and_Duration_in_Software_Engineering_Projects.md)
 
 - [PersonaMark: Personalized LLM watermarking for model protection and user attribution](2024年09月15日/PersonaMark_Personalized_LLM_watermarking_for_model_protection_and_user_attribution.md)
 
@@ -223,14 +207,6 @@
 - [SFR-RAG: Towards Contextually Faithful LLMs](2024年09月15日/SFR-RAG_Towards_Contextually_Faithful_LLMs.md)
 
     - [翻译: SFR-RAG：迈向上下文忠实的大型语言模型](2024年09月15日/SFR-RAG_Towards_Contextually_Faithful_LLMs.md)
-
-- [Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges](2024年09月15日/Towards_Data_Contamination_Detection_for_Modern_Large_Language_Models_Limitations,_Inconsistencies,_and_Oracle_Challenges.md)
-
-    - [翻译: 现代大型语言模型的数据污染检测面临局限、不一致性及Oracle挑战。](2024年09月15日/Towards_Data_Contamination_Detection_for_Modern_Large_Language_Models_Limitations,_Inconsistencies,_and_Oracle_Challenges.md)
-
-- [Understanding Code Change with Micro-Changes](2024年09月15日/Understanding_Code_Change_with_Micro-Changes.md)
-
-    - [翻译: 洞悉代码变迁中的微妙变化](2024年09月15日/Understanding_Code_Change_with_Micro-Changes.md)
 
 - [Unveiling Gender Bias in Large Language Models: Using Teacher's Evaluation in Higher Education As an Example](2024年09月15日/Unveiling_Gender_Bias_in_Large_Language_Models_Using_Teacher's_Evaluation_in_Higher_Education_As_an_Example.md)
 
