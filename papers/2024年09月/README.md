@@ -220,10 +220,6 @@
 
     - [翻译: 大型语言模型驱动的错误纠正生成：探索语音识别、说话人标记与情感识别的挑战与基准](2024年09月15日/Large_Language_Model_Based_Generative_Error_Correction_A_Challenge_and_Baselines_forSpeech_Recognition,_Speaker_Tagging,_and_Emotion_Recognition.md)
 
-- [Learning large softmax mixtures with warm start EM](2024年09月15日/Learning_large_softmax_mixtures_with_warm_start_EM.md)
-
-    - [翻译: 通过暖启动 EM 学习大型 softmax 混合模型](2024年09月15日/Learning_large_softmax_mixtures_with_warm_start_EM.md)
-
 - [Leveraging Large Language Models for Predicting Cost and Duration in Software Engineering Projects](2024年09月15日/Leveraging_Large_Language_Models_for_Predicting_Cost_and_Duration_in_Software_Engineering_Projects.md)
 
     - [翻译: 借助大型语言模型，精准预测软件工程项目的成本与工期](2024年09月15日/Leveraging_Large_Language_Models_for_Predicting_Cost_and_Duration_in_Software_Engineering_Projects.md)
@@ -263,25 +259,3 @@
 - [Unveiling Gender Bias in Large Language Models: Using Teacher's Evaluation in Higher Education As an Example](2024年09月15日/Unveiling_Gender_Bias_in_Large_Language_Models_Using_Teacher's_Evaluation_in_Higher_Education_As_an_Example.md)
 
     - [翻译: 揭秘大型语言模型中的性别偏见：以高等教育教师评价为例](2024年09月15日/Unveiling_Gender_Bias_in_Large_Language_Models_Using_Teacher's_Evaluation_in_Higher_Education_As_an_Example.md)
-
-2024年09月14日
-
-- [A Survey of Foundation Models for Music Understanding](2024年09月14日/A_Survey_of_Foundation_Models_for_Music_Understanding.md)
-
-    - [翻译: 探索音乐理解的基础模型](2024年09月14日/A_Survey_of_Foundation_Models_for_Music_Understanding.md)
-
-- [Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation](2024年09月14日/Efficient_Fine-Tuning_of_Large_Language_Models_for_Automated_Medical_Documentation.md)
-
-    - [翻译: 优化大型语言模型，实现医疗文档自动化](2024年09月14日/Efficient_Fine-Tuning_of_Large_Language_Models_for_Automated_Medical_Documentation.md)
-
-- [Enhancing LLM Problem Solving with REAP: Reflection, Explicit Problem Deconstruction, and Advanced Prompting](2024年09月14日/Enhancing_LLM_Problem_Solving_with_REAP_Reflection,_Explicit_Problem_Deconstruction,_and_Advanced_Prompting.md)
-
-    - [翻译: 利用 REAP 提升 LLM 问题解决：反思、明确问题分解与高级提示技巧](2024年09月14日/Enhancing_LLM_Problem_Solving_with_REAP_Reflection,_Explicit_Problem_Deconstruction,_and_Advanced_Prompting.md)
-
-- [Hacking, The Lazy Way: LLM Augmented Pentesting](2024年09月14日/Hacking,_The_Lazy_Way_LLM_Augmented_Pentesting.md)
-
-    - [翻译: 懒人黑客指南：借助 LLM 提升渗透测试效率](2024年09月14日/Hacking,_The_Lazy_Way_LLM_Augmented_Pentesting.md)
-
-- [VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications](2024年09月14日/VernaCopter_Disambiguated_Natural-Language-Driven_Robot_via_Formal_Specifications.md)
-
-    - [翻译: VernaCopter：基于形式规范的自然语言驱动机器人，消除歧义](2024年09月14日/VernaCopter_Disambiguated_Natural-Language-Driven_Robot_via_Formal_Specifications.md)
