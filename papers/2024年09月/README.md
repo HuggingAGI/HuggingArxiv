@@ -266,17 +266,9 @@
 
 2024年09月14日
 
-- [ASR Error Correction using Large Language Models](2024年09月14日/ASR_Error_Correction_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型纠正 ASR 错误](2024年09月14日/ASR_Error_Correction_using_Large_Language_Models.md)
-
 - [A Survey of Foundation Models for Music Understanding](2024年09月14日/A_Survey_of_Foundation_Models_for_Music_Understanding.md)
 
     - [翻译: 探索音乐理解的基础模型](2024年09月14日/A_Survey_of_Foundation_Models_for_Music_Understanding.md)
-
-- [Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models](2024年09月14日/Comparing_Retrieval-Augmentation_and_Parameter-Efficient_Fine-Tuning_for_Privacy-Preserving_Personalization_of_Large_Language_Models.md)
-
-    - [翻译: 探讨检索增强与参数高效微调在保护隐私前提下，如何个性化大型语言模型。](2024年09月14日/Comparing_Retrieval-Augmentation_and_Parameter-Efficient_Fine-Tuning_for_Privacy-Preserving_Personalization_of_Large_Language_Models.md)
 
 - [Developing an Interactive OpenMP Programming Book with Large Language Models](2024年09月14日/Developing_an_Interactive_OpenMP_Programming_Book_with_Large_Language_Models.md)
 
@@ -298,14 +290,6 @@
 
     - [翻译: 借助情感与语义分析，精准评估图像标题的真实性与品质。](2024年09月14日/Evaluating_authenticity_and_quality_of_image_captions_via_sentiment_and_semantic_analyses.md)
 
-- [Generating Event-oriented Attribution for Movies via Two-Stage Prefix-Enhanced Multimodal LLM](2024年09月14日/Generating_Event-oriented_Attribution_for_Movies_via_Two-Stage_Prefix-Enhanced_Multimodal_LLM.md)
-
-    - [翻译: 利用两阶段前缀增强的多模态LLM，为电影生成事件导向的归因](2024年09月14日/Generating_Event-oriented_Attribution_for_Movies_via_Two-Stage_Prefix-Enhanced_Multimodal_LLM.md)
-
-- [Generative AI in Data Center Networking: Fundamentals, Perspectives, and Case Study](2024年09月14日/Generative_AI_in_Data_Center_Networking_Fundamentals,_Perspectives,_and_Case_Study.md)
-
-    - [翻译: 数据中心网络中的生成式 AI：基础知识、视角探讨与案例分析](2024年09月14日/Generative_AI_in_Data_Center_Networking_Fundamentals,_Perspectives,_and_Case_Study.md)
-
 - [Hacking, The Lazy Way: LLM Augmented Pentesting](2024年09月14日/Hacking,_The_Lazy_Way_LLM_Augmented_Pentesting.md)
 
     - [翻译: 懒人黑客指南：借助 LLM 提升渗透测试效率](2024年09月14日/Hacking,_The_Lazy_Way_LLM_Augmented_Pentesting.md)
@@ -326,17 +310,9 @@
 
     - [翻译: MindScape 研究：融合 LLM 与行为感知，打造个性化 AI 日记体验](2024年09月14日/MindScape_Study_Integrating_LLM_and_Behavioral_Sensing_for_Personalized_AI-Driven_Journaling_Experiences.md)
 
-- [NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training](2024年09月14日/NEVLP_Noise-Robust_Framework_for_Efficient_Vision-Language_Pre-training.md)
-
-    - [翻译: NEVLP：一个噪声鲁棒的高效视觉语言预训练框架](2024年09月14日/NEVLP_Noise-Robust_Framework_for_Efficient_Vision-Language_Pre-training.md)
-
 - [ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](2024年09月14日/ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: ODE：多模态大型语言模型幻觉的开放集评估](2024年09月14日/ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models.md)
-
-- [PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM](2024年09月14日/PeriGuru_A_Peripheral_Robotic_Mobile_App_Operation_Assistant_based_on_GUI_Image_Understanding_and_Prompting_with_LLM.md)
-
-    - [翻译: PeriGuru：一款基于 GUI 图像理解和 LLM 提示的外围机器人移动应用操作助手](2024年09月14日/PeriGuru_A_Peripheral_Robotic_Mobile_App_Operation_Assistant_based_on_GUI_Image_Understanding_and_Prompting_with_LLM.md)
 
 - [Rethinking the Influence of Source Code on Test Case Generation](2024年09月14日/Rethinking_the_Influence_of_Source_Code_on_Test_Case_Generation.md)
 
