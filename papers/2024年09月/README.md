@@ -152,37 +152,13 @@
 
 2024年09月15日
 
-- [AlpaPICO: Extraction of PICO Frames from Clinical Trial Documents Using LLMs](2024年09月15日/AlpaPICO_Extraction_of_PICO_Frames_from_Clinical_Trial_Documents_Using_LLMs.md)
-
-    - [翻译: AlpaPICO：借助 LLM 技术，从临床试验文档中精准提取 PICO 框架。](2024年09月15日/AlpaPICO_Extraction_of_PICO_Frames_from_Clinical_Trial_Documents_Using_LLMs.md)
-
 - [Can Large Language Models Grasp Event Signals? Exploring Pure Zero-Shot Event-based Recognition](2024年09月15日/Can_Large_Language_Models_Grasp_Event_Signals_Exploring_Pure_Zero-Shot_Event-based_Recognition.md)
 
     - [翻译: 大型语言模型能否捕捉事件信号？探索纯零-shot 事件识别的可能性](2024年09月15日/Can_Large_Language_Models_Grasp_Event_Signals_Exploring_Pure_Zero-Shot_Event-based_Recognition.md)
 
-- [Confidence Estimation for LLM-Based Dialogue State Tracking](2024年09月15日/Confidence_Estimation_for_LLM-Based_Dialogue_State_Tracking.md)
-
-    - [翻译: LLM 对话状态跟踪中的置信度评估](2024年09月15日/Confidence_Estimation_for_LLM-Based_Dialogue_State_Tracking.md)
-
 - [Enhancing Text Annotation through Rationale-Driven Collaborative Few-Shot Prompting](2024年09月15日/Enhancing_Text_Annotation_through_Rationale-Driven_Collaborative_Few-Shot_Prompting.md)
 
     - [翻译: 借助基于理由的协作少样本提示，提升文本标注效果](2024年09月15日/Enhancing_Text_Annotation_through_Rationale-Driven_Collaborative_Few-Shot_Prompting.md)
-
-- [Finetuning CLIP to Reason about Pairwise Differences](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
-
-    - [翻译: 微调 CLIP，使其能够推理成对差异](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
-
-- [Large Language Model Based Generative Error Correction: A Challenge and Baselines forSpeech Recognition, Speaker Tagging, and Emotion Recognition](2024年09月15日/Large_Language_Model_Based_Generative_Error_Correction_A_Challenge_and_Baselines_forSpeech_Recognition,_Speaker_Tagging,_and_Emotion_Recognition.md)
-
-    - [翻译: 大型语言模型驱动的错误纠正生成：探索语音识别、说话人标记与情感识别的挑战与基准](2024年09月15日/Large_Language_Model_Based_Generative_Error_Correction_A_Challenge_and_Baselines_forSpeech_Recognition,_Speaker_Tagging,_and_Emotion_Recognition.md)
-
-- [PersonaMark: Personalized LLM watermarking for model protection and user attribution](2024年09月15日/PersonaMark_Personalized_LLM_watermarking_for_model_protection_and_user_attribution.md)
-
-    - [翻译: PersonaMark：一种个性化 LLM 水印技术，旨在保护模型并识别用户归属。](2024年09月15日/PersonaMark_Personalized_LLM_watermarking_for_model_protection_and_user_attribution.md)
-
-- [Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models](2024年09月15日/Reasoning_Paths_with_Reference_Objects_Elicit_Quantitative_Spatial_Reasoning_in_Large_Vision-Language_Models.md)
-
-    - [翻译: 借助参考对象的推理路径，大型视觉语言模型能够实现定量空间推理。](2024年09月15日/Reasoning_Paths_with_Reference_Objects_Elicit_Quantitative_Spatial_Reasoning_in_Large_Vision-Language_Models.md)
 
 - [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](2024年09月15日/Rethinking_KenLM_Good_and_Bad_Model_Ensembles_for_Efficient_Text_Quality_Filtering_in_Large_Web_Corpora.md)
 
