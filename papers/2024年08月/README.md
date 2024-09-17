@@ -1,5 +1,17 @@
 # 2024年08月
 
+2024年08月30日
+
+- [OrthoDoc: Multimodal Large Language Model for Assisting Diagnosis in Computed Tomography](2024年08月30日/OrthoDoc_Multimodal_Large_Language_Model_for_Assisting_Diagnosis_in_Computed_Tomography.md)
+
+    - [翻译: OrthoDoc：一款专为计算机断层扫描诊断提供辅助的多模态大型语言模型](2024年08月30日/OrthoDoc_Multimodal_Large_Language_Model_for_Assisting_Diagnosis_in_Computed_Tomography.md)
+
+2024年08月28日
+
+- [AutoGeo: Automating Geometric Image Dataset Creation for Enhanced Geometry Understanding](2024年08月28日/AutoGeo_Automating_Geometric_Image_Dataset_Creation_for_Enhanced_Geometry_Understanding.md)
+
+    - [翻译: AutoGeo：通过自动化几何图像数据集的创建，提升几何理解能力](2024年08月28日/AutoGeo_Automating_Geometric_Image_Dataset_Creation_for_Enhanced_Geometry_Understanding.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)

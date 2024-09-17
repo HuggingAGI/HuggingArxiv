@@ -8,6 +8,10 @@
 
 2024年07月16日
 
+- [Does Refusal Training in LLMs Generalize to the Past Tense?](2024年07月16日/Does_Refusal_Training_in_LLMs_Generalize_to_the_Past_Tense.md)
+
+    - [翻译: LLMs 的拒绝训练能否适用于过去时态？](2024年07月16日/Does_Refusal_Training_in_LLMs_Generalize_to_the_Past_Tense.md)
+
 - [Factorial Difference-in-Differences](2024年07月16日/Factorial_Difference-in-Differences.md)
 
     - [翻译: 因子差异-in-差异法](2024年07月16日/Factorial_Difference-in-Differences.md)

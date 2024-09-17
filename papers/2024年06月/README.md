@@ -18,6 +18,10 @@
 
     - [翻译: TikTag：通过推测执行技术，破解了 ARM 的内存标记扩展。](2024年06月13日/TikTag_Breaking_ARM's_Memory_Tagging_Extension_with_Speculative_Execution.md)
 
+- [WonderWorld: Interactive 3D Scene Generation from a Single Image](2024年06月13日/WonderWorld_Interactive_3D_Scene_Generation_from_a_Single_Image.md)
+
+    - [翻译: WonderWorld：单图互动3D场景生成](2024年06月13日/WonderWorld_Interactive_3D_Scene_Generation_from_a_Single_Image.md)
+
 2024年06月03日
 
 - [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](2024年06月03日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)

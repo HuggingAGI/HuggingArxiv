@@ -14,6 +14,10 @@
 
     - [翻译: 利用多模态CLIP进行元少样本图像分类的推理](2024年03月26日/Multimodal_CLIP_Inference_for_Meta-Few-Shot_Image_Classification.md)
 
+- [Tutorial on Diffusion Models for Imaging and Vision](2024年03月26日/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision.md)
+
+    - [翻译: 成像与视觉领域的扩散模型指南](2024年03月26日/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision.md)
+
 - [Untangling Knots: Leveraging LLM for Error Resolution in Computational Notebooks](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
 
     - [翻译: 解开纠结：借助大型语言模型（LLM）之力，为计算型笔记本中的错误解析提供解决方案。](2024年03月26日/Untangling_Knots_Leveraging_LLM_for_Error_Resolution_in_Computational_Notebooks.md)
