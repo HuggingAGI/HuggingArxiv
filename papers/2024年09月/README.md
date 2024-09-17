@@ -294,33 +294,9 @@
 
     - [翻译: 懒人黑客指南：借助 LLM 提升渗透测试效率](2024年09月14日/Hacking,_The_Lazy_Way_LLM_Augmented_Pentesting.md)
 
-- [Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI](2024年09月14日/Keeping_Humans_in_the_Loop_Human-Centered_Automated_Annotation_with_Generative_AI.md)
-
-    - [翻译: 让 AI 辅助人类：以人为本的生成式 AI 自动标注](2024年09月14日/Keeping_Humans_in_the_Loop_Human-Centered_Automated_Annotation_with_Generative_AI.md)
-
-- [LLM-Powered Ensemble Learning for Paper Source Tracing: A GPU-Free Approach](2024年09月14日/LLM-Powered_Ensemble_Learning_for_Paper_Source_Tracing_A_GPU-Free_Approach.md)
-
-    - [翻译: 基于 LLM 的集成学习助力论文来源追踪：无需 GPU 的创新方案](2024年09月14日/LLM-Powered_Ensemble_Learning_for_Paper_Source_Tracing_A_GPU-Free_Approach.md)
-
-- [MacST: Multi-Accent Speech Synthesis via Text Transliteration for Accent Conversion](2024年09月14日/MacST_Multi-Accent_Speech_Synthesis_via_Text_Transliteration_for_Accent_Conversion.md)
-
-    - [翻译: MacST：利用文本音译实现多口音转换的语音合成技术](2024年09月14日/MacST_Multi-Accent_Speech_Synthesis_via_Text_Transliteration_for_Accent_Conversion.md)
-
-- [MindScape Study: Integrating LLM and Behavioral Sensing for Personalized AI-Driven Journaling Experiences](2024年09月14日/MindScape_Study_Integrating_LLM_and_Behavioral_Sensing_for_Personalized_AI-Driven_Journaling_Experiences.md)
-
-    - [翻译: MindScape 研究：融合 LLM 与行为感知，打造个性化 AI 日记体验](2024年09月14日/MindScape_Study_Integrating_LLM_and_Behavioral_Sensing_for_Personalized_AI-Driven_Journaling_Experiences.md)
-
-- [ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](2024年09月14日/ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: ODE：多模态大型语言模型幻觉的开放集评估](2024年09月14日/ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models.md)
-
 - [Rethinking the Influence of Source Code on Test Case Generation](2024年09月14日/Rethinking_the_Influence_of_Source_Code_on_Test_Case_Generation.md)
 
     - [翻译: 源代码如何影响测试用例生成？让我们重新审视这一问题。](2024年09月14日/Rethinking_the_Influence_of_Source_Code_on_Test_Case_Generation.md)
-
-- [Symbolic Regression with a Learned Concept Library](2024年09月14日/Symbolic_Regression_with_a_Learned_Concept_Library.md)
-
-    - [翻译: 借助学习概念库的符号回归](2024年09月14日/Symbolic_Regression_with_a_Learned_Concept_Library.md)
 
 - [Thesis proposal: Are We Losing Textual Diversity to Natural Language Processing?](2024年09月14日/Thesis_proposal_Are_We_Losing_Textual_Diversity_to_Natural_Language_Processing.md)
 
