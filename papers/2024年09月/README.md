@@ -266,10 +266,6 @@
 
 2024年09月14日
 
-- [AI-Driven Virtual Teacher for Enhanced Educational Efficiency: Leveraging Large Pretrain Models for Autonomous Error Analysis and Correction](2024年09月14日/AI-Driven_Virtual_Teacher_for_Enhanced_Educational_Efficiency_Leveraging_Large_Pretrain_Models_for_Autonomous_Error_Analysis_and_Correction.md)
-
-    - [翻译: AI赋能的虚拟教师，助力教育效率提升：借助大型预训练模型，实现自主错误分析与纠正](2024年09月14日/AI-Driven_Virtual_Teacher_for_Enhanced_Educational_Efficiency_Leveraging_Large_Pretrain_Models_for_Autonomous_Error_Analysis_and_Correction.md)
-
 - [ASR Error Correction using Large Language Models](2024年09月14日/ASR_Error_Correction_using_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型纠正 ASR 错误](2024年09月14日/ASR_Error_Correction_using_Large_Language_Models.md)
@@ -277,10 +273,6 @@
 - [A Survey of Foundation Models for Music Understanding](2024年09月14日/A_Survey_of_Foundation_Models_for_Music_Understanding.md)
 
     - [翻译: 探索音乐理解的基础模型](2024年09月14日/A_Survey_of_Foundation_Models_for_Music_Understanding.md)
-
-- [Behavior Tree Generation using Large Language Models for Sequential Manipulation Planning with Human Instructions and Feedback](2024年09月14日/Behavior_Tree_Generation_using_Large_Language_Models_for_Sequential_Manipulation_Planning_with_Human_Instructions_and_Feedback.md)
-
-    - [翻译: 借助大型语言模型，我们为包含人类指令与反馈的顺序操作规划生成行为树。](2024年09月14日/Behavior_Tree_Generation_using_Large_Language_Models_for_Sequential_Manipulation_Planning_with_Human_Instructions_and_Feedback.md)
 
 - [Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models](2024年09月14日/Comparing_Retrieval-Augmentation_and_Parameter-Efficient_Fine-Tuning_for_Privacy-Preserving_Personalization_of_Large_Language_Models.md)
 
@@ -322,10 +314,6 @@
 
     - [翻译: 让 AI 辅助人类：以人为本的生成式 AI 自动标注](2024年09月14日/Keeping_Humans_in_the_Loop_Human-Centered_Automated_Annotation_with_Generative_AI.md)
 
-- [Language-Queried Target Sound Extraction Without Parallel Training Data](2024年09月14日/Language-Queried_Target_Sound_Extraction_Without_Parallel_Training_Data.md)
-
-    - [翻译: 无平行训练数据的语言查询目标声音提取](2024年09月14日/Language-Queried_Target_Sound_Extraction_Without_Parallel_Training_Data.md)
-
 - [LLM-Powered Ensemble Learning for Paper Source Tracing: A GPU-Free Approach](2024年09月14日/LLM-Powered_Ensemble_Learning_for_Paper_Source_Tracing_A_GPU-Free_Approach.md)
 
     - [翻译: 基于 LLM 的集成学习助力论文来源追踪：无需 GPU 的创新方案](2024年09月14日/LLM-Powered_Ensemble_Learning_for_Paper_Source_Tracing_A_GPU-Free_Approach.md)
@@ -345,10 +333,6 @@
 - [ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](2024年09月14日/ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: ODE：多模态大型语言模型幻觉的开放集评估](2024年09月14日/ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models.md)
-
-- [Overcoming linguistic barriers in code assistants: creating a QLoRA adapter to improve support for Russian-language code writing instructions](2024年09月14日/Overcoming_linguistic_barriers_in_code_assistants_creating_a_QLoRA_adapter_to_improve_support_for_Russian-language_code_writing_instructions.md)
-
-    - [翻译: 打破代码助手的语言壁垒：打造 QLoRA 适配器，提升俄语代码编写指令的支持力度](2024年09月14日/Overcoming_linguistic_barriers_in_code_assistants_creating_a_QLoRA_adapter_to_improve_support_for_Russian-language_code_writing_instructions.md)
 
 - [PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM](2024年09月14日/PeriGuru_A_Peripheral_Robotic_Mobile_App_Operation_Assistant_based_on_GUI_Image_Understanding_and_Prompting_with_LLM.md)
 
@@ -373,13 +357,3 @@
 - [VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications](2024年09月14日/VernaCopter_Disambiguated_Natural-Language-Driven_Robot_via_Formal_Specifications.md)
 
     - [翻译: VernaCopter：基于形式规范的自然语言驱动机器人，消除歧义](2024年09月14日/VernaCopter_Disambiguated_Natural-Language-Driven_Robot_via_Formal_Specifications.md)
-
-2024年09月13日
-
-- [Multimodal Fusion with LLMs for Engagement Prediction in Natural Conversation](2024年09月13日/Multimodal_Fusion_with_LLMs_for_Engagement_Prediction_in_Natural_Conversation.md)
-
-    - [翻译: 结合多模态数据与 LLM，预测自然对话中的参与度](2024年09月13日/Multimodal_Fusion_with_LLMs_for_Engagement_Prediction_in_Natural_Conversation.md)
-
-- [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](2024年09月13日/ReCLAP_Improving_Zero_Shot_Audio_Classification_by_Describing_Sounds.md)
-
-    - [翻译: ReCLAP：用声音描述提升零-shot 音频分类](2024年09月13日/ReCLAP_Improving_Zero_Shot_Audio_Classification_by_Describing_Sounds.md)
