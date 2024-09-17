@@ -270,41 +270,17 @@
 
     - [翻译: 探索音乐理解的基础模型](2024年09月14日/A_Survey_of_Foundation_Models_for_Music_Understanding.md)
 
-- [Developing an Interactive OpenMP Programming Book with Large Language Models](2024年09月14日/Developing_an_Interactive_OpenMP_Programming_Book_with_Large_Language_Models.md)
-
-    - [翻译: 打造一本与大型语言模型互动的 OpenMP 编程书](2024年09月14日/Developing_an_Interactive_OpenMP_Programming_Book_with_Large_Language_Models.md)
-
 - [Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation](2024年09月14日/Efficient_Fine-Tuning_of_Large_Language_Models_for_Automated_Medical_Documentation.md)
 
     - [翻译: 优化大型语言模型，实现医疗文档自动化](2024年09月14日/Efficient_Fine-Tuning_of_Large_Language_Models_for_Automated_Medical_Documentation.md)
-
-- [Enhancing Decision-Making for LLM Agents via Step-Level Q-Value Models](2024年09月14日/Enhancing_Decision-Making_for_LLM_Agents_via_Step-Level_Q-Value_Models.md)
-
-    - [翻译: 提升 LLM 代理的决策能力：基于步骤级 Q-值模型](2024年09月14日/Enhancing_Decision-Making_for_LLM_Agents_via_Step-Level_Q-Value_Models.md)
 
 - [Enhancing LLM Problem Solving with REAP: Reflection, Explicit Problem Deconstruction, and Advanced Prompting](2024年09月14日/Enhancing_LLM_Problem_Solving_with_REAP_Reflection,_Explicit_Problem_Deconstruction,_and_Advanced_Prompting.md)
 
     - [翻译: 利用 REAP 提升 LLM 问题解决：反思、明确问题分解与高级提示技巧](2024年09月14日/Enhancing_LLM_Problem_Solving_with_REAP_Reflection,_Explicit_Problem_Deconstruction,_and_Advanced_Prompting.md)
 
-- [Evaluating authenticity and quality of image captions via sentiment and semantic analyses](2024年09月14日/Evaluating_authenticity_and_quality_of_image_captions_via_sentiment_and_semantic_analyses.md)
-
-    - [翻译: 借助情感与语义分析，精准评估图像标题的真实性与品质。](2024年09月14日/Evaluating_authenticity_and_quality_of_image_captions_via_sentiment_and_semantic_analyses.md)
-
 - [Hacking, The Lazy Way: LLM Augmented Pentesting](2024年09月14日/Hacking,_The_Lazy_Way_LLM_Augmented_Pentesting.md)
 
     - [翻译: 懒人黑客指南：借助 LLM 提升渗透测试效率](2024年09月14日/Hacking,_The_Lazy_Way_LLM_Augmented_Pentesting.md)
-
-- [Rethinking the Influence of Source Code on Test Case Generation](2024年09月14日/Rethinking_the_Influence_of_Source_Code_on_Test_Case_Generation.md)
-
-    - [翻译: 源代码如何影响测试用例生成？让我们重新审视这一问题。](2024年09月14日/Rethinking_the_Influence_of_Source_Code_on_Test_Case_Generation.md)
-
-- [Thesis proposal: Are We Losing Textual Diversity to Natural Language Processing?](2024年09月14日/Thesis_proposal_Are_We_Losing_Textual_Diversity_to_Natural_Language_Processing.md)
-
-    - [翻译: 论文提案：自然语言处理是否正在削弱我们的文本多样性？](2024年09月14日/Thesis_proposal_Are_We_Losing_Textual_Diversity_to_Natural_Language_Processing.md)
-
-- [Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model](2024年09月14日/Traffic_Scene_Generation_from_Natural_Language_Description_for_Autonomous_Vehicles_with_Large_Language_Model.md)
-
-    - [翻译: 利用大型语言模型，从自然语言描述中生成自动驾驶车辆的交通场景](2024年09月14日/Traffic_Scene_Generation_from_Natural_Language_Description_for_Autonomous_Vehicles_with_Large_Language_Model.md)
 
 - [VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications](2024年09月14日/VernaCopter_Disambiguated_Natural-Language-Driven_Robot_via_Formal_Specifications.md)
 
