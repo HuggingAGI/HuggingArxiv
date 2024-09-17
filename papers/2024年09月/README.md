@@ -156,10 +156,6 @@
 
     - [翻译: AlpaPICO：借助 LLM 技术，从临床试验文档中精准提取 PICO 框架。](2024年09月15日/AlpaPICO_Extraction_of_PICO_Frames_from_Clinical_Trial_Documents_Using_LLMs.md)
 
-- [Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents](2024年09月15日/Automatic_Control_With_Human-Like_Reasoning_Exploring_Language_Model_Embodied_Air_Traffic_Agents.md)
-
-    - [翻译: 类人推理的自动控制：探索语言模型驱动的空中交通代理](2024年09月15日/Automatic_Control_With_Human-Like_Reasoning_Exploring_Language_Model_Embodied_Air_Traffic_Agents.md)
-
 - [Can Large Language Models Grasp Event Signals? Exploring Pure Zero-Shot Event-based Recognition](2024年09月15日/Can_Large_Language_Models_Grasp_Event_Signals_Exploring_Pure_Zero-Shot_Event-based_Recognition.md)
 
     - [翻译: 大型语言模型能否捕捉事件信号？探索纯零-shot 事件识别的可能性](2024年09月15日/Can_Large_Language_Models_Grasp_Event_Signals_Exploring_Pure_Zero-Shot_Event-based_Recognition.md)
@@ -172,21 +168,9 @@
 
     - [翻译: 借助基于理由的协作少样本提示，提升文本标注效果](2024年09月15日/Enhancing_Text_Annotation_through_Rationale-Driven_Collaborative_Few-Shot_Prompting.md)
 
-- [Estimating Wage Disparities Using Foundation Models](2024年09月15日/Estimating_Wage_Disparities_Using_Foundation_Models.md)
-
-    - [翻译: 利用基础模型评估薪资差距](2024年09月15日/Estimating_Wage_Disparities_Using_Foundation_Models.md)
-
 - [Finetuning CLIP to Reason about Pairwise Differences](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
 
     - [翻译: 微调 CLIP，使其能够推理成对差异](2024年09月15日/Finetuning_CLIP_to_Reason_about_Pairwise_Differences.md)
-
-- [Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations](2024年09月15日/Gaps_or_Hallucinations_Gazing_into_Machine-Generated_Legal_Analysis_for_Fine-grained_Text_Evaluations.md)
-
-    - [翻译: 机器生成的法律分析：是差距还是幻觉？细探文本评估的微妙之处。](2024年09月15日/Gaps_or_Hallucinations_Gazing_into_Machine-Generated_Legal_Analysis_for_Fine-grained_Text_Evaluations.md)
-
-- [GP-GPT: Large Language Model for Gene-Phenotype Mapping](2024年09月15日/GP-GPT_Large_Language_Model_for_Gene-Phenotype_Mapping.md)
-
-    - [翻译: GP-GPT：专为基因与表型关联设计的大型语言模型](2024年09月15日/GP-GPT_Large_Language_Model_for_Gene-Phenotype_Mapping.md)
 
 - [Large Language Model Based Generative Error Correction: A Challenge and Baselines forSpeech Recognition, Speaker Tagging, and Emotion Recognition](2024年09月15日/Large_Language_Model_Based_Generative_Error_Correction_A_Challenge_and_Baselines_forSpeech_Recognition,_Speaker_Tagging,_and_Emotion_Recognition.md)
 
@@ -203,11 +187,3 @@
 - [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](2024年09月15日/Rethinking_KenLM_Good_and_Bad_Model_Ensembles_for_Efficient_Text_Quality_Filtering_in_Large_Web_Corpora.md)
 
     - [翻译: 重新审视 KenLM：探讨大型网络语料库中文本质量过滤的有效模型集成，分析其优劣。](2024年09月15日/Rethinking_KenLM_Good_and_Bad_Model_Ensembles_for_Efficient_Text_Quality_Filtering_in_Large_Web_Corpora.md)
-
-- [SFR-RAG: Towards Contextually Faithful LLMs](2024年09月15日/SFR-RAG_Towards_Contextually_Faithful_LLMs.md)
-
-    - [翻译: SFR-RAG：迈向上下文忠实的大型语言模型](2024年09月15日/SFR-RAG_Towards_Contextually_Faithful_LLMs.md)
-
-- [Unveiling Gender Bias in Large Language Models: Using Teacher's Evaluation in Higher Education As an Example](2024年09月15日/Unveiling_Gender_Bias_in_Large_Language_Models_Using_Teacher's_Evaluation_in_Higher_Education_As_an_Example.md)
-
-    - [翻译: 揭秘大型语言模型中的性别偏见：以高等教育教师评价为例](2024年09月15日/Unveiling_Gender_Bias_in_Large_Language_Models_Using_Teacher's_Evaluation_in_Higher_Education_As_an_Example.md)
