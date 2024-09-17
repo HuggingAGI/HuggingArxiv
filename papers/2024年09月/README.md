@@ -376,18 +376,6 @@
 
 2024年09月13日
 
-- [An empirical evaluation of using ChatGPT to summarize disputes for recommending similar labor and employment cases in Chinese](2024年09月13日/An_empirical_evaluation_of_using_ChatGPT_to_summarize_disputes_for_recommending_similar_labor_and_employment_cases_in_Chinese.md)
-
-    - [翻译: 利用 ChatGPT 总结争议，推荐中国劳动与就业领域的类似案例，进行实证评估。](2024年09月13日/An_empirical_evaluation_of_using_ChatGPT_to_summarize_disputes_for_recommending_similar_labor_and_employment_cases_in_Chinese.md)
-
-- [Infrared and Visible Image Fusion with Hierarchical Human Perception](2024年09月13日/Infrared_and_Visible_Image_Fusion_with_Hierarchical_Human_Perception.md)
-
-    - [翻译: 红外与可见光图像融合的分层人类感知](2024年09月13日/Infrared_and_Visible_Image_Fusion_with_Hierarchical_Human_Perception.md)
-
-- [Language Models "Grok" to Copy](2024年09月13日/Language_Models_Grok_to_Copy.md)
-
-    - [翻译: 语言模型“Grok”复制之道](2024年09月13日/Language_Models_Grok_to_Copy.md)
-
 - [Multimodal Fusion with LLMs for Engagement Prediction in Natural Conversation](2024年09月13日/Multimodal_Fusion_with_LLMs_for_Engagement_Prediction_in_Natural_Conversation.md)
 
     - [翻译: 结合多模态数据与 LLM，预测自然对话中的参与度](2024年09月13日/Multimodal_Fusion_with_LLMs_for_Engagement_Prediction_in_Natural_Conversation.md)
@@ -395,11 +383,3 @@
 - [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](2024年09月13日/ReCLAP_Improving_Zero_Shot_Audio_Classification_by_Describing_Sounds.md)
 
     - [翻译: ReCLAP：用声音描述提升零-shot 音频分类](2024年09月13日/ReCLAP_Improving_Zero_Shot_Audio_Classification_by_Describing_Sounds.md)
-
-- [SafeEar: Content Privacy-Preserving Audio Deepfake Detection](2024年09月13日/SafeEar_Content_Privacy-Preserving_Audio_Deepfake_Detection.md)
-
-    - [翻译: SafeEar：保护隐私的音频深度伪造检测](2024年09月13日/SafeEar_Content_Privacy-Preserving_Audio_Deepfake_Detection.md)
-
-- [What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing](2024年09月13日/What_Is_Wrong_with_My_Model_Identifying_Systematic_Problems_with_Semantic_Data_Slicing.md)
-
-    - [翻译: 我的模型怎么了？通过语义数据切片识别系统性问题](2024年09月13日/What_Is_Wrong_with_My_Model_Identifying_Systematic_Problems_with_Semantic_Data_Slicing.md)
