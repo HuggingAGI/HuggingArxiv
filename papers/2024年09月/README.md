@@ -22,10 +22,6 @@
 
     - [翻译: ComplexCodeEval：评估大型代码模型处理复杂代码能力的基准](2024年09月16日/ComplexCodeEval_A_Benchmark_for_Evaluating_Large_Code_Models_on_More_Complex_Code.md)
 
-- [Comprehensive Study on Sentiment Analysis: From Rule-based to modern LLM based system](2024年09月16日/Comprehensive_Study_on_Sentiment_Analysis_From_Rule-based_to_modern_LLM_based_system.md)
-
-    - [翻译: 情感分析研究全景：从传统规则系统到现代 LLM 驱动系统](2024年09月16日/Comprehensive_Study_on_Sentiment_Analysis_From_Rule-based_to_modern_LLM_based_system.md)
-
 - [Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models](2024年09月16日/Context-aware_Code_Segmentation_for_C-to-Rust_Translation_using_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型实现 C 到 Rust 翻译的上下文感知代码分割](2024年09月16日/Context-aware_Code_Segmentation_for_C-to-Rust_Translation_using_Large_Language_Models.md)
@@ -33,10 +29,6 @@
 - [DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction](2024年09月16日/DILA_Dictionary_Label_Attention_for_Mechanistic_Interpretability_in_High-dimensional_Multi-label_Medical_Coding_Prediction.md)
 
     - [翻译: DILA：高维多标签医学编码预测中，通过字典标签注意力提升机制可解释性](2024年09月16日/DILA_Dictionary_Label_Attention_for_Mechanistic_Interpretability_in_High-dimensional_Multi-label_Medical_Coding_Prediction.md)
-
-- [E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models](2024年09月16日/E2Map_Experience-and-Emotion_Map_for_Self-Reflective_Robot_Navigation_with_Language_Models.md)
-
-    - [翻译: E2Map：结合语言模型的自我反思机器人导航系统，通过经验和情感地图实现导航。](2024年09月16日/E2Map_Experience-and-Emotion_Map_for_Self-Reflective_Robot_Navigation_with_Language_Models.md)
 
 - [Enhancing RL Safety with Counterfactual LLM Reasoning](2024年09月16日/Enhancing_RL_Safety_with_Counterfactual_LLM_Reasoning.md)
 
@@ -49,10 +41,6 @@
 - [HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making](2024年09月16日/HALO_Hallucination_Analysis_and_Learning_Optimization_to_Empower_LLMs_with_Retrieval-Augmented_Context_for_Guided_Clinical_Decision_Making.md)
 
     - [翻译: HALO：通过幻觉分析与学习优化，为 LLM 注入检索增强的上下文，助力临床决策的精准引导。](2024年09月16日/HALO_Hallucination_Analysis_and_Learning_Optimization_to_Empower_LLMs_with_Retrieval-Augmented_Context_for_Guided_Clinical_Decision_Making.md)
-
-- [Householder Pseudo-Rotation: A Novel Approach to Activation Editing in LLMs with Direction-Magnitude Perspective](2024年09月16日/Householder_Pseudo-Rotation_A_Novel_Approach_to_Activation_Editing_in_LLMs_with_Direction-Magnitude_Perspective.md)
-
-    - [翻译: Householder 伪旋转：一种新颖的 LLM 激活编辑方法，从方向与幅度视角出发。](2024年09月16日/Householder_Pseudo-Rotation_A_Novel_Approach_to_Activation_Editing_in_LLMs_with_Direction-Magnitude_Perspective.md)
 
 - [Industry 6.0: New Generation of Industry driven by Generative AI and Swarm of Heterogeneous Robots](2024年09月16日/Industry_6.0_New_Generation_of_Industry_driven_by_Generative_AI_and_Swarm_of_Heterogeneous_Robots.md)
 
@@ -118,14 +106,6 @@
 
     - [翻译: 薛定谔的记忆：探索大型语言模型](2024年09月16日/Schrodinger's_Memory_Large_Language_Models.md)
 
-- [Securing the Future: Exploring Privacy Risks and Security Questions in Robotic Systems](2024年09月16日/Securing_the_Future_Exploring_Privacy_Risks_and_Security_Questions_in_Robotic_Systems.md)
-
-    - [翻译: 守护未来：探究机器人系统中的隐私隐患与安全挑战](2024年09月16日/Securing_the_Future_Exploring_Privacy_Risks_and_Security_Questions_in_Robotic_Systems.md)
-
-- [SelECT-SQL: Self-correcting ensemble Chain-of-Thought for Text-to-SQL](2024年09月16日/SelECT-SQL_Self-correcting_ensemble_Chain-of-Thought_for_Text-to-SQL.md)
-
-    - [翻译: SelECT-SQL：一种自校正的集成链式思维方法，专为文本到SQL转换设计。](2024年09月16日/SelECT-SQL_Self-correcting_ensemble_Chain-of-Thought_for_Text-to-SQL.md)
-
 - [StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models](2024年09月16日/StruEdit_Structured_Outputs_Enable_the_Fast_and_Accurate_Knowledge_Editing_for_Large_Language_Models.md)
 
     - [翻译: StruEdit：通过结构化输出，实现大型语言模型的快速且精准知识编辑](2024年09月16日/StruEdit_Structured_Outputs_Enable_the_Fast_and_Accurate_Knowledge_Editing_for_Large_Language_Models.md)
@@ -133,7 +113,3 @@
 - [The 20 questions game to distinguish large language models](2024年09月16日/The_20_questions_game_to_distinguish_large_language_models.md)
 
     - [翻译: 通过20问游戏，辨别大型语言模型](2024年09月16日/The_20_questions_game_to_distinguish_large_language_models.md)
-
-- [Trustworthiness in Retrieval-Augmented Generation Systems: A Survey](2024年09月16日/Trustworthiness_in_Retrieval-Augmented_Generation_Systems_A_Survey.md)
-
-    - [翻译: 检索增强生成系统中的信任度调查](2024年09月16日/Trustworthiness_in_Retrieval-Augmented_Generation_Systems_A_Survey.md)
