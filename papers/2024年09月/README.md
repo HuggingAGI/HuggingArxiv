@@ -42,10 +42,6 @@
 
     - [翻译: 利用反事实 LLM 推理提升强化学习的安全性](2024年09月16日/Enhancing_RL_Safety_with_Counterfactual_LLM_Reasoning.md)
 
-- [ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation](2024年09月16日/ES-KT-24_A_Multimodal_Knowledge_Tracing_Benchmark_Dataset_with_Educational_Game_Playing_Video_and_Synthetic_Text_Generation.md)
-
-    - [翻译: ES-KT-24：一个融合教育游戏视频与合成文本的多模态知识追踪基准数据集](2024年09月16日/ES-KT-24_A_Multimodal_Knowledge_Tracing_Benchmark_Dataset_with_Educational_Game_Playing_Video_and_Synthetic_Text_Generation.md)
-
 - [Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models](2024年09月16日/Fit_and_Prune_Fast_and_Training-free_Visual_Token_Pruning_for_Multi-modal_Large_Language_Models.md)
 
     - [翻译: Fit and Prune：一种快速且无需训练的视觉标记剪枝技术，专为多模态大型语言模型设计。](2024年09月16日/Fit_and_Prune_Fast_and_Training-free_Visual_Token_Pruning_for_Multi-modal_Large_Language_Models.md)
@@ -110,10 +106,6 @@
 
     - [翻译: 思维图谱探析](2024年09月16日/On_the_Diagram_of_Thought.md)
 
-- [Quantile Regression for Distributional Reward Models in RLHF](2024年09月16日/Quantile_Regression_for_Distributional_Reward_Models_in_RLHF.md)
-
-    - [翻译: RLHF 中分布式奖励模型的分位数回归](2024年09月16日/Quantile_Regression_for_Distributional_Reward_Models_in_RLHF.md)
-
 - [ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](2024年09月16日/ReflectDiffu_Reflect_between_Emotion-intent_Contagion_and_Mimicry_for_Empathetic_Response_Generation_via_a_RL-Diffusion_Framework.md)
 
     - [翻译: ReflectDiffu：借助 RL-Diffusion 框架，在情感与意图的传染和模仿之间进行反思，从而生成共情回应。](2024年09月16日/ReflectDiffu_Reflect_between_Emotion-intent_Contagion_and_Mimicry_for_Empathetic_Response_Generation_via_a_RL-Diffusion_Framework.md)
@@ -145,21 +137,3 @@
 - [Trustworthiness in Retrieval-Augmented Generation Systems: A Survey](2024年09月16日/Trustworthiness_in_Retrieval-Augmented_Generation_Systems_A_Survey.md)
 
     - [翻译: 检索增强生成系统中的信任度调查](2024年09月16日/Trustworthiness_in_Retrieval-Augmented_Generation_Systems_A_Survey.md)
-
-- [XLM for Autonomous Driving Systems: A Comprehensive Review](2024年09月16日/XLM_for_Autonomous_Driving_Systems_A_Comprehensive_Review.md)
-
-    - [翻译: XLM 在自动驾驶系统中的应用：全面评述](2024年09月16日/XLM_for_Autonomous_Driving_Systems_A_Comprehensive_Review.md)
-
-2024年09月15日
-
-- [Can Large Language Models Grasp Event Signals? Exploring Pure Zero-Shot Event-based Recognition](2024年09月15日/Can_Large_Language_Models_Grasp_Event_Signals_Exploring_Pure_Zero-Shot_Event-based_Recognition.md)
-
-    - [翻译: 大型语言模型能否捕捉事件信号？探索纯零-shot 事件识别的可能性](2024年09月15日/Can_Large_Language_Models_Grasp_Event_Signals_Exploring_Pure_Zero-Shot_Event-based_Recognition.md)
-
-- [Enhancing Text Annotation through Rationale-Driven Collaborative Few-Shot Prompting](2024年09月15日/Enhancing_Text_Annotation_through_Rationale-Driven_Collaborative_Few-Shot_Prompting.md)
-
-    - [翻译: 借助基于理由的协作少样本提示，提升文本标注效果](2024年09月15日/Enhancing_Text_Annotation_through_Rationale-Driven_Collaborative_Few-Shot_Prompting.md)
-
-- [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](2024年09月15日/Rethinking_KenLM_Good_and_Bad_Model_Ensembles_for_Efficient_Text_Quality_Filtering_in_Large_Web_Corpora.md)
-
-    - [翻译: 重新审视 KenLM：探讨大型网络语料库中文本质量过滤的有效模型集成，分析其优劣。](2024年09月15日/Rethinking_KenLM_Good_and_Bad_Model_Ensembles_for_Efficient_Text_Quality_Filtering_in_Large_Web_Corpora.md)
