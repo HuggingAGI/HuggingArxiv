@@ -2,10 +2,6 @@
 
 2024年09月16日
 
-- [Benchmarking Large Language Model Uncertainty for Prompt Optimization](2024年09月16日/Benchmarking_Large_Language_Model_Uncertainty_for_Prompt_Optimization.md)
-
-    - [翻译: 评估大型语言模型的不确定性，助力提示优化](2024年09月16日/Benchmarking_Large_Language_Model_Uncertainty_for_Prompt_Optimization.md)
-
 - [Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models](2024年09月16日/Code_Vulnerability_Detection_A_Comparative_Analysis_of_Emerging_Large_Language_Models.md)
 
     - [翻译: 代码漏洞检测：探索新兴大型语言模型的性能对比](2024年09月16日/Code_Vulnerability_Detection_A_Comparative_Analysis_of_Emerging_Large_Language_Models.md)
@@ -22,21 +18,9 @@
 
     - [翻译: 利用反事实 LLM 推理提升强化学习的安全性](2024年09月16日/Enhancing_RL_Safety_with_Counterfactual_LLM_Reasoning.md)
 
-- [Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models](2024年09月16日/Fit_and_Prune_Fast_and_Training-free_Visual_Token_Pruning_for_Multi-modal_Large_Language_Models.md)
-
-    - [翻译: Fit and Prune：一种快速且无需训练的视觉标记剪枝技术，专为多模态大型语言模型设计。](2024年09月16日/Fit_and_Prune_Fast_and_Training-free_Visual_Token_Pruning_for_Multi-modal_Large_Language_Models.md)
-
-- [HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making](2024年09月16日/HALO_Hallucination_Analysis_and_Learning_Optimization_to_Empower_LLMs_with_Retrieval-Augmented_Context_for_Guided_Clinical_Decision_Making.md)
-
-    - [翻译: HALO：通过幻觉分析与学习优化，为 LLM 注入检索增强的上下文，助力临床决策的精准引导。](2024年09月16日/HALO_Hallucination_Analysis_and_Learning_Optimization_to_Empower_LLMs_with_Retrieval-Augmented_Context_for_Guided_Clinical_Decision_Making.md)
-
 - [Industry 6.0: New Generation of Industry driven by Generative AI and Swarm of Heterogeneous Robots](2024年09月16日/Industry_6.0_New_Generation_of_Industry_driven_by_Generative_AI_and_Swarm_of_Heterogeneous_Robots.md)
 
     - [翻译: 工业6.0：生成式AI与异构机器人集群共同推动的新一代工业革命](2024年09月16日/Industry_6.0_New_Generation_of_Industry_driven_by_Generative_AI_and_Swarm_of_Heterogeneous_Robots.md)
-
-- [IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis](2024年09月16日/IRIS_Interactive_Responsive_Intelligent_Segmentation_for_3D_Affordance_Analysis.md)
-
-    - [翻译: IRIS：专为 3D 功能分析设计的交互式智能分割系统](2024年09月16日/IRIS_Interactive_Responsive_Intelligent_Segmentation_for_3D_Affordance_Analysis.md)
 
 - [Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot](2024年09月16日/Learnings_from_a_Large-Scale_Deployment_of_an_LLM-Powered_Expert-in-the-Loop_Healthcare_Chatbot.md)
 
@@ -49,14 +33,6 @@
 - [LLMs for clinical risk prediction](2024年09月16日/LLMs_for_clinical_risk_prediction.md)
 
     - [翻译: 临床风险预测中的大型语言模型](2024年09月16日/LLMs_for_clinical_risk_prediction.md)
-
-- [On the Diagram of Thought](2024年09月16日/On_the_Diagram_of_Thought.md)
-
-    - [翻译: 思维图谱探析](2024年09月16日/On_the_Diagram_of_Thought.md)
-
-- [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](2024年09月16日/RetrievalAttention_Accelerating_Long-Context_LLM_Inference_via_Vector_Retrieval.md)
-
-    - [翻译: RetrievalAttention：利用向量检索技术，加速长上下文 LLM 的推理过程。](2024年09月16日/RetrievalAttention_Accelerating_Long-Context_LLM_Inference_via_Vector_Retrieval.md)
 
 - [Schrodinger's Memory: Large Language Models](2024年09月16日/Schrodinger's_Memory_Large_Language_Models.md)
 
