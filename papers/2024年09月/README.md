@@ -58,37 +58,13 @@
 
     - [翻译: 大规模部署 LLM 驱动的医疗聊天机器人，专家实时参与，带来宝贵经验。](2024年09月16日/Learnings_from_a_Large-Scale_Deployment_of_an_LLM-Powered_Expert-in-the-Loop_Healthcare_Chatbot.md)
 
-- [LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models](2024年09月16日/LeGEND_A_Top-Down_Approach_to_Scenario_Generation_of_Autonomous_Driving_Systems_Assisted_by_Large_Language_Models.md)
-
-    - [翻译: LeGEND：借助大型语言模型，自上而下生成自动驾驶系统场景的创新方法](2024年09月16日/LeGEND_A_Top-Down_Approach_to_Scenario_Generation_of_Autonomous_Driving_Systems_Assisted_by_Large_Language_Models.md)
-
 - [LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning](2024年09月16日/LLM_as_BT-Planner_Leveraging_LLMs_for_Behavior_Tree_Generation_in_Robot_Task_Planning.md)
 
     - [翻译: LLM 助力行为树规划：在机器人任务规划中，借助 LLM 生成行为树](2024年09月16日/LLM_as_BT-Planner_Leveraging_LLMs_for_Behavior_Tree_Generation_in_Robot_Task_Planning.md)
 
-- [LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain](2024年09月16日/LLM-DERA_Named_Entity_Recognition_Method_Based_on_Large_Language_Models_for_Chinese_Coal_Chemical_Domain.md)
-
-    - [翻译: LLM-DER：基于大型语言模型的中文煤炭化工领域命名实体识别新方法](2024年09月16日/LLM-DERA_Named_Entity_Recognition_Method_Based_on_Large_Language_Models_for_Chinese_Coal_Chemical_Domain.md)
-
-- [LLMs4OL 2024 Overview: The 1st Large Language Models for Ontology Learning Challenge](2024年09月16日/LLMs4OL_2024_Overview_The_1st_Large_Language_Models_for_Ontology_Learning_Challenge.md)
-
-    - [翻译: LLMs4OL 2024：首届大型语言模型本体学习挑战赛概览](2024年09月16日/LLMs4OL_2024_Overview_The_1st_Large_Language_Models_for_Ontology_Learning_Challenge.md)
-
 - [LLMs for clinical risk prediction](2024年09月16日/LLMs_for_clinical_risk_prediction.md)
 
     - [翻译: 临床风险预测中的大型语言模型](2024年09月16日/LLMs_for_clinical_risk_prediction.md)
-
-- [Messy Code Makes Managing ML Pipelines Difficult? Just Let LLMs Rewrite the Code!](2024年09月16日/Messy_Code_Makes_Managing_ML_Pipelines_Difficult_Just_Let_LLMs_Rewrite_the_Code!.md)
-
-    - [翻译: 代码混乱不堪，管理机器学习管道难上加难？交给大型语言模型，让它帮你重写代码，轻松搞定！](2024年09月16日/Messy_Code_Makes_Managing_ML_Pipelines_Difficult_Just_Let_LLMs_Rewrite_the_Code!.md)
-
-- [MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior](2024年09月16日/MotionCom_Automatic_and_Motion-Aware_Image_Composition_with_LLM_and_Video_Diffusion_Prior.md)
-
-    - [翻译: MotionCom：结合 LLM 与视频扩散先验，实现自动且具有运动感知能力的图像合成](2024年09月16日/MotionCom_Automatic_and_Motion-Aware_Image_Composition_with_LLM_and_Video_Diffusion_Prior.md)
-
-- [NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions](2024年09月16日/NEUSIS_A_Compositional_Neuro-Symbolic_Framework_for_Autonomous_Perception,_Reasoning,_and_Planning_in_Complex_UAV_Search_Missions.md)
-
-    - [翻译: NEUSIS：一个结合神经与符号的框架，专为复杂无人机搜索任务中的自主感知、推理和规划而设计。](2024年09月16日/NEUSIS_A_Compositional_Neuro-Symbolic_Framework_for_Autonomous_Perception,_Reasoning,_and_Planning_in_Complex_UAV_Search_Missions.md)
 
 - [On the Diagram of Thought](2024年09月16日/On_the_Diagram_of_Thought.md)
 
