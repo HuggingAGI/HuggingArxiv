@@ -2,17 +2,9 @@
 
 2024年09月16日
 
-- [A Large-Scale Privacy Assessment of Android Third-Party SDKs](2024年09月16日/A_Large-Scale_Privacy_Assessment_of_Android_Third-Party_SDKs.md)
-
-    - [翻译: 大规模评估 Android 第三方 SDK 的隐私状况](2024年09月16日/A_Large-Scale_Privacy_Assessment_of_Android_Third-Party_SDKs.md)
-
 - [Benchmarking Large Language Model Uncertainty for Prompt Optimization](2024年09月16日/Benchmarking_Large_Language_Model_Uncertainty_for_Prompt_Optimization.md)
 
     - [翻译: 评估大型语言模型的不确定性，助力提示优化](2024年09月16日/Benchmarking_Large_Language_Model_Uncertainty_for_Prompt_Optimization.md)
-
-- [Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles](2024年09月16日/Causal_Language_Modeling_Can_Elicit_Search_and_Reasoning_Capabilities_on_Logic_Puzzles.md)
-
-    - [翻译: 因果语言建模能够激发逻辑谜题中的搜索与推理能力](2024年09月16日/Causal_Language_Modeling_Can_Elicit_Search_and_Reasoning_Capabilities_on_Logic_Puzzles.md)
 
 - [Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models](2024年09月16日/Code_Vulnerability_Detection_A_Comparative_Analysis_of_Emerging_Large_Language_Models.md)
 
@@ -21,10 +13,6 @@
 - [ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code](2024年09月16日/ComplexCodeEval_A_Benchmark_for_Evaluating_Large_Code_Models_on_More_Complex_Code.md)
 
     - [翻译: ComplexCodeEval：评估大型代码模型处理复杂代码能力的基准](2024年09月16日/ComplexCodeEval_A_Benchmark_for_Evaluating_Large_Code_Models_on_More_Complex_Code.md)
-
-- [Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models](2024年09月16日/Context-aware_Code_Segmentation_for_C-to-Rust_Translation_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型实现 C 到 Rust 翻译的上下文感知代码分割](2024年09月16日/Context-aware_Code_Segmentation_for_C-to-Rust_Translation_using_Large_Language_Models.md)
 
 - [DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction](2024年09月16日/DILA_Dictionary_Label_Attention_for_Mechanistic_Interpretability_in_High-dimensional_Multi-label_Medical_Coding_Prediction.md)
 
@@ -50,10 +38,6 @@
 
     - [翻译: IRIS：专为 3D 功能分析设计的交互式智能分割系统](2024年09月16日/IRIS_Interactive_Responsive_Intelligent_Segmentation_for_3D_Affordance_Analysis.md)
 
-- [Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation](2024年09月16日/Large_Language_Model_Enhanced_Hard_Sample_Identification_for_Denoising_Recommendation.md)
-
-    - [翻译: 利用大型语言模型提升去噪推荐中的硬样本识别](2024年09月16日/Large_Language_Model_Enhanced_Hard_Sample_Identification_for_Denoising_Recommendation.md)
-
 - [Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot](2024年09月16日/Learnings_from_a_Large-Scale_Deployment_of_an_LLM-Powered_Expert-in-the-Loop_Healthcare_Chatbot.md)
 
     - [翻译: 大规模部署 LLM 驱动的医疗聊天机器人，专家实时参与，带来宝贵经验。](2024年09月16日/Learnings_from_a_Large-Scale_Deployment_of_an_LLM-Powered_Expert-in-the-Loop_Healthcare_Chatbot.md)
@@ -70,10 +54,6 @@
 
     - [翻译: 思维图谱探析](2024年09月16日/On_the_Diagram_of_Thought.md)
 
-- [ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](2024年09月16日/ReflectDiffu_Reflect_between_Emotion-intent_Contagion_and_Mimicry_for_Empathetic_Response_Generation_via_a_RL-Diffusion_Framework.md)
-
-    - [翻译: ReflectDiffu：借助 RL-Diffusion 框架，在情感与意图的传染和模仿之间进行反思，从而生成共情回应。](2024年09月16日/ReflectDiffu_Reflect_between_Emotion-intent_Contagion_and_Mimicry_for_Empathetic_Response_Generation_via_a_RL-Diffusion_Framework.md)
-
 - [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](2024年09月16日/RetrievalAttention_Accelerating_Long-Context_LLM_Inference_via_Vector_Retrieval.md)
 
     - [翻译: RetrievalAttention：利用向量检索技术，加速长上下文 LLM 的推理过程。](2024年09月16日/RetrievalAttention_Accelerating_Long-Context_LLM_Inference_via_Vector_Retrieval.md)
@@ -85,7 +65,3 @@
 - [StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models](2024年09月16日/StruEdit_Structured_Outputs_Enable_the_Fast_and_Accurate_Knowledge_Editing_for_Large_Language_Models.md)
 
     - [翻译: StruEdit：通过结构化输出，实现大型语言模型的快速且精准知识编辑](2024年09月16日/StruEdit_Structured_Outputs_Enable_the_Fast_and_Accurate_Knowledge_Editing_for_Large_Language_Models.md)
-
-- [The 20 questions game to distinguish large language models](2024年09月16日/The_20_questions_game_to_distinguish_large_language_models.md)
-
-    - [翻译: 通过20问游戏，辨别大型语言模型](2024年09月16日/The_20_questions_game_to_distinguish_large_language_models.md)
