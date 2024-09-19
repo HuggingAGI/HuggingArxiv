@@ -142,10 +142,6 @@
 
     - [翻译: Promptriever：经过指令训练的检索器，也能像语言模型一样灵活响应提示。](2024年09月17日/Promptriever_Instruction-Trained_Retrievers_Can_Be_Prompted_Like_Language_Models.md)
 
-- [Propulsion: Steering LLM with Tiny Fine-Tuning](2024年09月17日/Propulsion_Steering_LLM_with_Tiny_Fine-Tuning.md)
-
-    - [翻译: 微调驱动：引领大型语言模型前行](2024年09月17日/Propulsion_Steering_LLM_with_Tiny_Fine-Tuning.md)
-
 - [Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning](2024年09月17日/Reasoning_Graph_Enhanced_Exemplars_Retrieval_for_In-Context_Learning.md)
 
     - [翻译: 通过增强推理图进行示例检索，助力上下文学习](2024年09月17日/Reasoning_Graph_Enhanced_Exemplars_Retrieval_for_In-Context_Learning.md)
@@ -209,29 +205,3 @@
 - [WER We Stand: Benchmarking Urdu ASR Models](2024年09月17日/WER_We_Stand_Benchmarking_Urdu_ASR_Models.md)
 
     - [翻译: 乌尔都语 ASR 模型基准测试：WER 我们站](2024年09月17日/WER_We_Stand_Benchmarking_Urdu_ASR_Models.md)
-
-2024年09月16日
-
-- [AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing](2024年09月16日/AutoSafeCoder_A_Multi-Agent_Framework_for_Securing_LLM_Code_Generation_through_Static_Analysis_and_Fuzz_Testing.md)
-
-    - [翻译: AutoSafeCoder：通过静态分析与模糊测试，为 LLM 代码生成提供安全保障的多代理框架](2024年09月16日/AutoSafeCoder_A_Multi-Agent_Framework_for_Securing_LLM_Code_Generation_through_Static_Analysis_and_Fuzz_Testing.md)
-
-- [Model-in-the-Loop (MILO): Accelerating Multimodal AI Data Annotation with LLMs](2024年09月16日/Model-in-the-Loop_(MILO)_Accelerating_Multimodal_AI_Data_Annotation_with_LLMs.md)
-
-    - [翻译: MILO：借助 LLM 加速多模态 AI 数据标注](2024年09月16日/Model-in-the-Loop_(MILO)_Accelerating_Multimodal_AI_Data_Annotation_with_LLMs.md)
-
-- [Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving](2024年09月16日/Video_Token_Sparsification_for_Efficient_Multimodal_LLMs_in_Autonomous_Driving.md)
-
-    - [翻译: 通过视频令牌稀疏化，提升自动驾驶中多模态大型语言模型的效率](2024年09月16日/Video_Token_Sparsification_for_Efficient_Multimodal_LLMs_in_Autonomous_Driving.md)
-
-2024年09月15日
-
-- [Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports](2024年09月15日/Language_Models_and_Retrieval_Augmented_Generation_for_Automated_Structured_Data_Extraction_from_Diagnostic_Reports.md)
-
-    - [翻译: 语言模型与检索增强生成技术联手，自动从诊断报告中提取结构化数据。](2024年09月15日/Language_Models_and_Retrieval_Augmented_Generation_for_Automated_Structured_Data_Extraction_from_Diagnostic_Reports.md)
-
-2024年09月14日
-
-- [On the limits of agency in agent-based models](2024年09月14日/On_the_limits_of_agency_in_agent-based_models.md)
-
-    - [翻译: 探讨基于代理模型中代理的局限性](2024年09月14日/On_the_limits_of_agency_in_agent-based_models.md)
