@@ -164,10 +164,6 @@
 
     - [翻译: Attention-Seeker：动态自注意力评分，助力无监督关键词提取](2024年09月17日/Attention-Seeker_Dynamic_Self-Attention_Scoring_for_Unsupervised_Keyphrase_Extraction.md)
 
-- ["A Woman is More Culturally Knowledgeable than A Man?": The Effect of Personas on Cultural Norm Interpretation in LLMs](2024年09月17日/A_Woman_is_More_Culturally_Knowledgeable_than_A_Man_The_Effect_of_Personas_on_Cultural_Norm_Interpretation_in_LLMs.md)
-
-    - [翻译: “女性是否比男性更具文化知识？”：探讨角色在 LLM 文化规范解读中的影响](2024年09月17日/A_Woman_is_More_Culturally_Knowledgeable_than_A_Man_The_Effect_of_Personas_on_Cultural_Norm_Interpretation_in_LLMs.md)
-
 - [Bridging Design and Development with Automated Declarative UI Code Generation](2024年09月17日/Bridging_Design_and_Development_with_Automated_Declarative_UI_Code_Generation.md)
 
     - [翻译: 自动化声明式 UI 代码生成，架起设计与开发之间的桥梁](2024年09月17日/Bridging_Design_and_Development_with_Automated_Declarative_UI_Code_Generation.md)
