@@ -184,10 +184,6 @@
 
     - [翻译: 用 LLM 检测对抗电话诈骗：我们进展如何？](2024年09月17日/Combating_Phone_Scams_with_LLM-based_Detection_Where_Do_We_Stand.md)
 
-- [CREAM: Comparison-Based Reference-Free ELO-Ranked Automatic Evaluation for Meeting Summarization](2024年09月17日/CREAM_Comparison-Based_Reference-Free_ELO-Ranked_Automatic_Evaluation_for_Meeting_Summarization.md)
-
-    - [翻译: CREAM：一种基于比较的无参考 ELO 排名方法，用于自动评估会议摘要。](2024年09月17日/CREAM_Comparison-Based_Reference-Free_ELO-Ranked_Automatic_Evaluation_for_Meeting_Summarization.md)
-
 - [Cross-lingual transfer of multilingual models on low resource African Languages](2024年09月17日/Cross-lingual_transfer_of_multilingual_models_on_low_resource_African_Languages.md)
 
     - [翻译: 多语言模型在非洲低资源语言中的跨语言迁移](2024年09月17日/Cross-lingual_transfer_of_multilingual_models_on_low_resource_African_Languages.md)
@@ -212,10 +208,6 @@
 
     - [翻译: 探索基于 ChatGPT 的增强策略，应用于对比方面情感分析](2024年09月17日/Exploring_ChatGPT-based_Augmentation_Strategies_for_Contrastive_Aspect-based_Sentiment_Analysis.md)
 
-- [Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments](2024年09月17日/Hackphyr_A_Local_Fine-Tuned_LLM_Agent_for_Network_Security_Environments.md)
-
-    - [翻译: Hackphyr：专为网络安全环境定制的本地微调 LLM 代理](2024年09月17日/Hackphyr_A_Local_Fine-Tuned_LLM_Agent_for_Network_Security_Environments.md)
-
 - [Hierarchical Narrative Analysis: Unraveling Perceptions of Generative AI](2024年09月17日/Hierarchical_Narrative_Analysis_Unraveling_Perceptions_of_Generative_AI.md)
 
     - [翻译: 分层叙事分析：揭示生成性 AI 的深层感知](2024年09月17日/Hierarchical_Narrative_Analysis_Unraveling_Perceptions_of_Generative_AI.md)
@@ -223,10 +215,6 @@
 - [Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](2024年09月17日/Improving_LLM_Reasoning_with_Multi-Agent_Tree-of-Thought_Validator_Agent.md)
 
     - [翻译: 借助多智能体思维树验证器，提升 LLM 的推理能力](2024年09月17日/Improving_LLM_Reasoning_with_Multi-Agent_Tree-of-Thought_Validator_Agent.md)
-
-- [Improving the Efficiency of Visually Augmented Language Models](2024年09月17日/Improving_the_Efficiency_of_Visually_Augmented_Language_Models.md)
-
-    - [翻译: 提升视觉增强语言模型的效率](2024年09月17日/Improving_the_Efficiency_of_Visually_Augmented_Language_Models.md)
 
 - [Investigating Context-Faithfulness in Large Language Models: The Roles of Memory Strength and Evidence Style](2024年09月17日/Investigating_Context-Faithfulness_in_Large_Language_Models_The_Roles_of_Memory_Strength_and_Evidence_Style.md)
 
@@ -240,10 +228,6 @@
 
     - [翻译: 大型语言模型在多语言学习中表现出色：当 LLM 遇到跨语言提示时，它们展现了卓越的学习能力。](2024年09月17日/Large_Language_Models_are_Good_Multi-lingual_Learners__When_LLMs_Meet_Cross-lingual_Prompts.md)
 
-- [Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs](2024年09月17日/Less_is_More_A_Simple_yet_Effective_Token_Reduction_Method_for_Efficient_Multi-modal_LLMs.md)
-
-    - [翻译: 少即是多：一种简洁高效的标记减少方法，助力多模态大型语言模型更上一层楼。](2024年09月17日/Less_is_More_A_Simple_yet_Effective_Token_Reduction_Method_for_Efficient_Multi-modal_LLMs.md)
-
 - [Leveraging Distillation Techniques for Document Understanding: A Case Study with FLAN-T5](2024年09月17日/Leveraging_Distillation_Techniques_for_Document_Understanding_A_Case_Study_with_FLAN-T5.md)
 
     - [翻译: 通过蒸馏技术提升文档理解：FLAN-T5 案例研究](2024年09月17日/Leveraging_Distillation_Techniques_for_Document_Understanding_A_Case_Study_with_FLAN-T5.md)
@@ -252,10 +236,6 @@
 
     - [翻译: LLM 作为评判者与奖励模型：它们的能与不能](2024年09月17日/LLM-as-a-Judge_&_Reward_Model_What_They_Can_and_Cannot_Do.md)
 
-- [LOLA -- An Open-Source Massively Multilingual Large Language Model](2024年09月17日/LOLA_--_An_Open-Source_Massively_Multilingual_Large_Language_Model.md)
-
-    - [翻译: LOLA，一款开源的大规模多语言大型语言模型，正引领着语言技术的新潮流。](2024年09月17日/LOLA_--_An_Open-Source_Massively_Multilingual_Large_Language_Model.md)
-
 - [MoDex: Planning High-Dimensional Dexterous Control via Learning Neural Hand Models](2024年09月17日/MoDex_Planning_High-Dimensional_Dexterous_Control_via_Learning_Neural_Hand_Models.md)
 
     - [翻译: MoDex：借助神经手模型学习，实现高维灵巧控制规划](2024年09月17日/MoDex_Planning_High-Dimensional_Dexterous_Control_via_Learning_Neural_Hand_Models.md)
@@ -263,10 +243,6 @@
 - [Multi-Floor Zero-Shot Object Navigation Policy](2024年09月17日/Multi-Floor_Zero-Shot_Object_Navigation_Policy.md)
 
     - [翻译: 多层零-shot 物体导航策略](2024年09月17日/Multi-Floor_Zero-Shot_Object_Navigation_Policy.md)
-
-- [Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification](2024年09月17日/Multi-OCT-SelfNet_Integrating_Self-Supervised_Learning_with_Multi-Source_Data_Fusion_for_Enhanced_Multi-Class_Retinal_Disease_Classification.md)
-
-    - [翻译: Multi-OCT-SelfNet：融合自监督学习与多源数据，提升多类视网膜疾病分类效果](2024年09月17日/Multi-OCT-SelfNet_Integrating_Self-Supervised_Learning_with_Multi-Source_Data_Fusion_for_Enhanced_Multi-Class_Retinal_Disease_Classification.md)
 
 - [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](2024年09月17日/Phidias_A_Generative_Model_for_Creating_3D_Content_from_Text,_Image,_and_3D_Conditions_with_Reference-Augmented_Diffusion.md)
 
