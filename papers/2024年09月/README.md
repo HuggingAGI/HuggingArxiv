@@ -152,10 +152,6 @@
 
 2024年09月17日
 
-- [A Comprehensive Evaluation of Quantized Instruction-Tuned Large Language Models: An Experimental Analysis up to 405B](2024年09月17日/A_Comprehensive_Evaluation_of_Quantized_Instruction-Tuned_Large_Language_Models_An_Experimental_Analysis_up_to_405B.md)
-
-    - [翻译: 全面评估了高达 405B 的量化指令调优大型语言模型，通过实验分析揭示其性能。](2024年09月17日/A_Comprehensive_Evaluation_of_Quantized_Instruction-Tuned_Large_Language_Models_An_Experimental_Analysis_up_to_405B.md)
-
 - [AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances](2024年09月17日/AI_Suggestions_Homogenize_Writing_Toward_Western_Styles_and_Diminish_Cultural_Nuances.md)
 
     - [翻译: AI 建议让写作趋向西方风格，削弱文化细节](2024年09月17日/AI_Suggestions_Homogenize_Writing_Toward_Western_Styles_and_Diminish_Cultural_Nuances.md)
@@ -191,10 +187,6 @@
 - [Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models](2024年09月17日/Enhancing_Low-Resource_Language_and_Instruction_Following_Capabilities_of_Audio_Language_Models.md)
 
     - [翻译: 提升音频语言模型在低资源语言和指令跟随方面的能力](2024年09月17日/Enhancing_Low-Resource_Language_and_Instruction_Following_Capabilities_of_Audio_Language_Models.md)
-
-- [Evaluating the Impact of Compression Techniques on Task-Specific Performance of Large Language Models](2024年09月17日/Evaluating_the_Impact_of_Compression_Techniques_on_Task-Specific_Performance_of_Large_Language_Models.md)
-
-    - [翻译: 探究压缩技术如何影响大型语言模型的任务表现](2024年09月17日/Evaluating_the_Impact_of_Compression_Techniques_on_Task-Specific_Performance_of_Large_Language_Models.md)
 
 - [Evaluation of pretrained language models on music understanding](2024年09月17日/Evaluation_of_pretrained_language_models_on_music_understanding.md)
 
@@ -268,10 +260,6 @@
 
     - [翻译: 谁说了算？聚焦标注的零-shot 高效实践](2024年09月17日/Says_Who_Effective_Zero-Shot_Annotation_of_Focalization.md)
 
-- [Scheme Pearl: Quantum Continuations](2024年09月17日/Scheme_Pearl_Quantum_Continuations.md)
-
-    - [翻译: Scheme 珍宝：量子延续](2024年09月17日/Scheme_Pearl_Quantum_Continuations.md)
-
 - [Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization](2024年09月17日/Self-Evolutionary_Large_Language_Models_through_Uncertainty-Enhanced_Preference_Optimization.md)
 
     - [翻译: 大型语言模型通过不确定性增强的偏好优化实现自进化](2024年09月17日/Self-Evolutionary_Large_Language_Models_through_Uncertainty-Enhanced_Preference_Optimization.md)
@@ -279,10 +267,6 @@
 - [Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs](2024年09月17日/Small_Language_Models_can_Outperform_Humans_in_Short_Creative_Writing_A_Study_Comparing_SLMs_with_Humans_and_LLMs.md)
 
     - [翻译: 小型语言模型在短篇创意写作中竟能超越人类：一项对比 SLM、人类与 LLM 的研究揭示了这一惊人现象。](2024年09月17日/Small_Language_Models_can_Outperform_Humans_in_Short_Creative_Writing_A_Study_Comparing_SLMs_with_Humans_and_LLMs.md)
-
-- [SOAP: Improving and Stabilizing Shampoo using Adam](2024年09月17日/SOAP_Improving_and_Stabilizing_Shampoo_using_Adam.md)
-
-    - [翻译: SOAP：借助 Adam 优化 Shampoo，提升其稳定性和效果](2024年09月17日/SOAP_Improving_and_Stabilizing_Shampoo_using_Adam.md)
 
 - [Strategic Insights in Human and Large Language Model Tactics at Word Guessing Games](2024年09月17日/Strategic_Insights_in_Human_and_Large_Language_Model_Tactics_at_Word_Guessing_Games.md)
 
@@ -299,14 +283,6 @@
 - [Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
 
     - [翻译: 迈向公平RAG：探讨检索增强生成中公平排序的影响](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
-
-- [Towards Novel Malicious Packet Recognition: A Few-Shot Learning Approach](2024年09月17日/Towards_Novel_Malicious_Packet_Recognition_A_Few-Shot_Learning_Approach.md)
-
-    - [翻译: 探索新型恶意数据包识别：一种少样本学习策略](2024年09月17日/Towards_Novel_Malicious_Packet_Recognition_A_Few-Shot_Learning_Approach.md)
-
-- [Towards Time Series Reasoning with LLMs](2024年09月17日/Towards_Time_Series_Reasoning_with_LLMs.md)
-
-    - [翻译: 迈向 LLM 驱动的时间序列推理](2024年09月17日/Towards_Time_Series_Reasoning_with_LLMs.md)
 
 - [WER We Stand: Benchmarking Urdu ASR Models](2024年09月17日/WER_We_Stand_Benchmarking_Urdu_ASR_Models.md)
 
