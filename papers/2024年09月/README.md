@@ -244,10 +244,6 @@
 
     - [翻译: 多层零-shot 物体导航策略](2024年09月17日/Multi-Floor_Zero-Shot_Object_Navigation_Policy.md)
 
-- [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](2024年09月17日/Phidias_A_Generative_Model_for_Creating_3D_Content_from_Text,_Image,_and_3D_Conditions_with_Reference-Augmented_Diffusion.md)
-
-    - [翻译: Phidias：一款结合文本、图像和 3D 条件，通过参考增强扩散技术生成 3D 内容的创新模型。](2024年09月17日/Phidias_A_Generative_Model_for_Creating_3D_Content_from_Text,_Image,_and_3D_Conditions_with_Reference-Augmented_Diffusion.md)
-
 - [PLATO: Planning with LLMs and Affordances for Tool Manipulation](2024年09月17日/PLATO_Planning_with_LLMs_and_Affordances_for_Tool_Manipulation.md)
 
     - [翻译: PLATO：借助 LLM 和 Affordances 实现工具操作的智能规划](2024年09月17日/PLATO_Planning_with_LLMs_and_Affordances_for_Tool_Manipulation.md)
@@ -255,10 +251,6 @@
 - [P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task](2024年09月17日/P-RAG_Progressive_Retrieval_Augmented_Generation_For_Planning_on_Embodied_Everyday_Task.md)
 
     - [翻译: P-RAG：渐进式检索增强生成，专为实体日常任务规划而生](2024年09月17日/P-RAG_Progressive_Retrieval_Augmented_Generation_For_Planning_on_Embodied_Everyday_Task.md)
-
-- [Prompt Obfuscation for Large Language Models](2024年09月17日/Prompt_Obfuscation_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的提示混淆技术](2024年09月17日/Prompt_Obfuscation_for_Large_Language_Models.md)
 
 - [Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models](2024年09月17日/Promptriever_Instruction-Trained_Retrievers_Can_Be_Prompted_Like_Language_Models.md)
 
