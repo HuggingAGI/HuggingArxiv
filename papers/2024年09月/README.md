@@ -160,10 +160,6 @@
 
     - [翻译: AI 建议让写作趋向西方风格，削弱文化细节](2024年09月17日/AI_Suggestions_Homogenize_Writing_Toward_Western_Styles_and_Diminish_Cultural_Nuances.md)
 
-- [AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs](2024年09月17日/AraDiCE_Benchmarks_for_Dialectal_and_Cultural_Capabilities_in_LLMs.md)
-
-    - [翻译: AraDiCE：评估 LLM 方言与文化能力的基准](2024年09月17日/AraDiCE_Benchmarks_for_Dialectal_and_Cultural_Capabilities_in_LLMs.md)
-
 - [Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction](2024年09月17日/Attention-Seeker_Dynamic_Self-Attention_Scoring_for_Unsupervised_Keyphrase_Extraction.md)
 
     - [翻译: Attention-Seeker：动态自注意力评分，助力无监督关键词提取](2024年09月17日/Attention-Seeker_Dynamic_Self-Attention_Scoring_for_Unsupervised_Keyphrase_Extraction.md)
@@ -195,10 +191,6 @@
 - [Cross-lingual transfer of multilingual models on low resource African Languages](2024年09月17日/Cross-lingual_transfer_of_multilingual_models_on_low_resource_African_Languages.md)
 
     - [翻译: 多语言模型在非洲低资源语言中的跨语言迁移](2024年09月17日/Cross-lingual_transfer_of_multilingual_models_on_low_resource_African_Languages.md)
-
-- [Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement](2024年09月17日/Diversify_and_Conquer_Diversity-Centric_Data_Selection_with_Iterative_Refinement.md)
-
-    - [翻译: 多样化征服：聚焦多样性的数据选择与迭代优化](2024年09月17日/Diversify_and_Conquer_Diversity-Centric_Data_Selection_with_Iterative_Refinement.md)
 
 - [Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection](2024年09月17日/Diversity-grounded_Channel_Prototypical_Learning_for_Out-of-Distribution_Intent_Detection.md)
 
@@ -308,10 +300,6 @@
 
     - [翻译: RUIE：利用大型语言模型实现基于检索的统一信息提取](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
 
-- [SAGED: A Holistic Bias-Benchmarking Pipeline for Language Models with Customisable Fairness Calibration](2024年09月17日/SAGED_A_Holistic_Bias-Benchmarking_Pipeline_for_Language_Models_with_Customisable_Fairness_Calibration.md)
-
-    - [翻译: SAGED：一个全面且可定制的语言模型偏见基准测试与公平校准管道](2024年09月17日/SAGED_A_Holistic_Bias-Benchmarking_Pipeline_for_Language_Models_with_Customisable_Fairness_Calibration.md)
-
 - [Says Who? Effective Zero-Shot Annotation of Focalization](2024年09月17日/Says_Who_Effective_Zero-Shot_Annotation_of_Focalization.md)
 
     - [翻译: 谁说了算？聚焦标注的零-shot 高效实践](2024年09月17日/Says_Who_Effective_Zero-Shot_Annotation_of_Focalization.md)
@@ -344,17 +332,9 @@
 
     - [翻译: 语音翻译中的语言扩展任务算术](2024年09月17日/Task_Arithmetic_for_Language_Expansion_in_Speech_Translation.md)
 
-- [Towards Ethical Personal AI Applications: Practical Considerations for AI Assistants with Long-Term Memory](2024年09月17日/Towards_Ethical_Personal_AI_Applications_Practical_Considerations_for_AI_Assistants_with_Long-Term_Memory.md)
-
-    - [翻译: 探索道德个人 AI 应用：为具备长期记忆的 AI 助手提供实用指南](2024年09月17日/Towards_Ethical_Personal_AI_Applications_Practical_Considerations_for_AI_Assistants_with_Long-Term_Memory.md)
-
 - [Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
 
     - [翻译: 迈向公平RAG：探讨检索增强生成中公平排序的影响](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
-
-- [Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming](2024年09月17日/Towards_No-Code_Programming_of_Cobots_Experiments_with_Code_Synthesis_by_Large_Code_Models_for_Conversational_Programming.md)
-
-    - [翻译: 无代码协作机器人编程新探索：借助大型代码模型实现对话式代码生成实验](2024年09月17日/Towards_No-Code_Programming_of_Cobots_Experiments_with_Code_Synthesis_by_Large_Code_Models_for_Conversational_Programming.md)
 
 - [Towards Novel Malicious Packet Recognition: A Few-Shot Learning Approach](2024年09月17日/Towards_Novel_Malicious_Packet_Recognition_A_Few-Shot_Learning_Approach.md)
 
@@ -371,9 +351,3 @@
 - [What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts](2024年09月17日/What_Does_ChatGPT_Make_of_Historical_Stock_Returns_Extrapolation_and_Miscalibration_in_LLM_Stock_Return_Forecasts.md)
 
     - [翻译: ChatGPT 如何看待历史股票回报？LLM 在股票回报预测中存在外推和误校准的问题。](2024年09月17日/What_Does_ChatGPT_Make_of_Historical_Stock_Returns_Extrapolation_and_Miscalibration_in_LLM_Stock_Return_Forecasts.md)
-
-2024年09月03日
-
-- [AIvril: AI-Driven RTL Generation With Verification In-The-Loop](2024年09月03日/AIvril_AI-Driven_RTL_Generation_With_Verification_In-The-Loop.md)
-
-    - [翻译: AIvril：AI 驱动，RTL 生成与实时验证一体化](2024年09月03日/AIvril_AI-Driven_RTL_Generation_With_Verification_In-The-Loop.md)
