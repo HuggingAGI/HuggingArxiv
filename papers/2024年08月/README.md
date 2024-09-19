@@ -1,15 +1,5 @@
 # 2024年08月
 
-2024年08月30日
-
-- ["Is This It?": Towards Ecologically Valid Benchmarks for Situated Collaboration](2024年08月30日/Is_This_It_Towards_Ecologically_Valid_Benchmarks_for_Situated_Collaboration.md)
-
-    - [翻译: “这就是全部吗？”：探索情境协作的真实生态基准](2024年08月30日/Is_This_It_Towards_Ecologically_Valid_Benchmarks_for_Situated_Collaboration.md)
-
-- [Towards Empathetic Conversational Recommender Systems](2024年08月30日/Towards_Empathetic_Conversational_Recommender_Systems.md)
-
-    - [翻译: 迈向富有同理心的对话推荐系统](2024年08月30日/Towards_Empathetic_Conversational_Recommender_Systems.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
