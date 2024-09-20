@@ -386,30 +386,6 @@
 
 2024年09月17日
 
-- [Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction](2024年09月17日/Attention-Seeker_Dynamic_Self-Attention_Scoring_for_Unsupervised_Keyphrase_Extraction.md)
-
-    - [翻译: Attention-Seeker：动态自注意力评分，助力无监督关键词提取](2024年09月17日/Attention-Seeker_Dynamic_Self-Attention_Scoring_for_Unsupervised_Keyphrase_Extraction.md)
-
-- [Combating Phone Scams with LLM-based Detection: Where Do We Stand?](2024年09月17日/Combating_Phone_Scams_with_LLM-based_Detection_Where_Do_We_Stand.md)
-
-    - [翻译: 用 LLM 检测对抗电话诈骗：我们进展如何？](2024年09月17日/Combating_Phone_Scams_with_LLM-based_Detection_Where_Do_We_Stand.md)
-
-- [Evaluation of pretrained language models on music understanding](2024年09月17日/Evaluation_of_pretrained_language_models_on_music_understanding.md)
-
-    - [翻译: 预训练语言模型在音乐理解领域的评估](2024年09月17日/Evaluation_of_pretrained_language_models_on_music_understanding.md)
-
 - [RUIE: Retrieval-based Unified Information Extraction using Large Language Model](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
 
     - [翻译: RUIE：利用大型语言模型实现基于检索的统一信息提取](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
-
-- [Sparks of Artificial General Intelligence(AGI) in Semiconductor Material Science: Early Explorations into the Next Frontier of Generative AI-Assisted Electron Micrograph Analysis](2024年09月17日/Sparks_of_Artificial_General_Intelligence(AGI)_in_Semiconductor_Material_Science_Early_Explorations_into_the_Next_Frontier_of_Generative_AI-Assisted_Electron_Micrograph_Analysis.md)
-
-    - [翻译: 半导体材料科学中 AGI 的初现：探索生成 AI 辅助电子显微图分析的新领域](2024年09月17日/Sparks_of_Artificial_General_Intelligence(AGI)_in_Semiconductor_Material_Science_Early_Explorations_into_the_Next_Frontier_of_Generative_AI-Assisted_Electron_Micrograph_Analysis.md)
-
-- [SuperCoder2.0: Technical Report on Exploring the feasibility of LLMs as Autonomous Programmer](2024年09月17日/SuperCoder2.0_Technical_Report_on_Exploring_the_feasibility_of_LLMs_as_Autonomous_Programmer.md)
-
-    - [翻译: SuperCoder2.0：探究 LLM 成为自主程序员可能性的技术报告](2024年09月17日/SuperCoder2.0_Technical_Report_on_Exploring_the_feasibility_of_LLMs_as_Autonomous_Programmer.md)
-
-- [Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 迈向公平RAG：探讨检索增强生成中公平排序的影响](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
