@@ -220,14 +220,6 @@
 
 2024年09月18日
 
-- [A Chinese Continuous Sign Language Dataset Based on Complex Environments](2024年09月18日/A_Chinese_Continuous_Sign_Language_Dataset_Based_on_Complex_Environments.md)
-
-    - [翻译: 复杂环境下的中国连续手语数据集](2024年09月18日/A_Chinese_Continuous_Sign_Language_Dataset_Based_on_Complex_Environments.md)
-
-- [Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference](2024年09月18日/Decoding_Style_Efficient_Fine-Tuning_of_LLMs_for_Image-Guided_Outfit_Recommendation_with_Preference.md)
-
-    - [翻译: 解码时尚：高效微调 LLM，实现图像引导的个性化服装推荐](2024年09月18日/Decoding_Style_Efficient_Fine-Tuning_of_LLMs_for_Image-Guided_Outfit_Recommendation_with_Preference.md)
-
 - [Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources](2024年09月18日/Development_and_bilingual_evaluation_of_Japanese_medical_large_language_model_within_reasonably_low_computational_resources.md)
 
     - [翻译: 在有限计算资源下，开发并双语评估日本医疗大型语言模型](2024年09月18日/Development_and_bilingual_evaluation_of_Japanese_medical_large_language_model_within_reasonably_low_computational_resources.md)
@@ -264,10 +256,6 @@
 
     - [翻译: 借助 LLM 实现 API 交互：分类与合成数据生成的创新框架](2024年09月18日/Harnessing_LLMs_for_API_Interactions_A_Framework_for_Classification_and_Synthetic_Data_Generation.md)
 
-- [Large Language Models Are Strong Audio-Visual Speech Recognition Learners](2024年09月18日/Large_Language_Models_Are_Strong_Audio-Visual_Speech_Recognition_Learners.md)
-
-    - [翻译: 大型语言模型在音视频语音识别方面表现出色。](2024年09月18日/Large_Language_Models_Are_Strong_Audio-Visual_Speech_Recognition_Learners.md)
-
 - [Learning Task Planning from Multi-Modal Demonstration for Multi-Stage Contact-Rich Manipulation](2024年09月18日/Learning_Task_Planning_from_Multi-Modal_Demonstration_for_Multi-Stage_Contact-Rich_Manipulation.md)
 
     - [翻译: 通过多模态演示学习多阶段接触操作的任务规划](2024年09月18日/Learning_Task_Planning_from_Multi-Modal_Demonstration_for_Multi-Stage_Contact-Rich_Manipulation.md)
@@ -296,10 +284,6 @@
 
     - [翻译: 低帧率语音编解码器：专为高效、高质量的语音LLM训练与推理而生](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
 
-- [MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning](2024年09月18日/MAgICoRe_Multi-Agent,_Iterative,_Coarse-to-Fine_Refinement_for_Reasoning.md)
-
-    - [翻译: MAgICoRe：一种多代理、迭代式的从粗到细推理优化方法](2024年09月18日/MAgICoRe_Multi-Agent,_Iterative,_Coarse-to-Fine_Refinement_for_Reasoning.md)
-
 - [Measuring Human and AI Values based on Generative Psychometrics with Large Language Models](2024年09月18日/Measuring_Human_and_AI_Values_based_on_Generative_Psychometrics_with_Large_Language_Models.md)
 
     - [翻译: 通过大型语言模型的生成心理测量学，探索人类与AI价值观的衡量之道](2024年09月18日/Measuring_Human_and_AI_Values_based_on_Generative_Psychometrics_with_Large_Language_Models.md)
@@ -324,10 +308,6 @@
 
     - [翻译: Qwen2-VL：提升视觉-语言模型在任意分辨率下的世界感知能力](2024年09月18日/Qwen2-VL_Enhancing_Vision-Language_Model's_Perception_of_the_World_at_Any_Resolution.md)
 
-- [RAG-Modulo: Solving Sequential Tasks using Experience, Critics, and Language Models](2024年09月18日/RAG-Modulo_Solving_Sequential_Tasks_using_Experience,_Critics,_and_Language_Models.md)
-
-    - [翻译: RAG-Modulo：借助经验、评论家和语言模型，解决复杂的顺序任务。](2024年09月18日/RAG-Modulo_Solving_Sequential_Tasks_using_Experience,_Critics,_and_Language_Models.md)
-
 - [Retrieve, Annotate, Evaluate, Repeat: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](2024年09月18日/Retrieve,_Annotate,_Evaluate,_Repeat_Leveraging_Multimodal_LLMs_for_Large-Scale_Product_Retrieval_Evaluation.md)
 
     - [翻译: 检索、注释、评估、循环：借助多模态 LLM 实现大规模产品检索的精准评估](2024年09月18日/Retrieve,_Annotate,_Evaluate,_Repeat_Leveraging_Multimodal_LLMs_for_Large-Scale_Product_Retrieval_Evaluation.md)
@@ -347,10 +327,6 @@
 - [TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning](2024年09月18日/TART_An_Open-Source_Tool-Augmented_Framework_for_Explainable_Table-based_Reasoning.md)
 
     - [翻译: TART：一款开源工具增强框架，专为可解释的表格推理而生](2024年09月18日/TART_An_Open-Source_Tool-Augmented_Framework_for_Explainable_Table-based_Reasoning.md)
-
-- [The Factuality of Large Language Models in the Legal Domain](2024年09月18日/The_Factuality_of_Large_Language_Models_in_the_Legal_Domain.md)
-
-    - [翻译: 法律领域中大型语言模型的事实性](2024年09月18日/The_Factuality_of_Large_Language_Models_in_the_Legal_Domain.md)
 
 - [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](2024年09月18日/To_CoT_or_not_to_CoT_Chain-of-thought_helps_mainly_on_math_and_symbolic_reasoning.md)
 
