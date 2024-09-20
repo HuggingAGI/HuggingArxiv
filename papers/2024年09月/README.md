@@ -160,17 +160,9 @@
 
     - [翻译: 自动化声明式 UI 代码生成，架起设计与开发之间的桥梁](2024年09月17日/Bridging_Design_and_Development_with_Automated_Declarative_UI_Code_Generation.md)
 
-- [CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration](2024年09月17日/CoCA_Regaining_Safety-awareness_of_Multimodal_Large_Language_Models_with_Constitutional_Calibration.md)
-
-    - [翻译: CoCA：借助宪法校准，重塑多模态大型语言模型的安全意识](2024年09月17日/CoCA_Regaining_Safety-awareness_of_Multimodal_Large_Language_Models_with_Constitutional_Calibration.md)
-
 - [Combating Phone Scams with LLM-based Detection: Where Do We Stand?](2024年09月17日/Combating_Phone_Scams_with_LLM-based_Detection_Where_Do_We_Stand.md)
 
     - [翻译: 用 LLM 检测对抗电话诈骗：我们进展如何？](2024年09月17日/Combating_Phone_Scams_with_LLM-based_Detection_Where_Do_We_Stand.md)
-
-- [Cross-lingual transfer of multilingual models on low resource African Languages](2024年09月17日/Cross-lingual_transfer_of_multilingual_models_on_low_resource_African_Languages.md)
-
-    - [翻译: 多语言模型在非洲低资源语言中的跨语言迁移](2024年09月17日/Cross-lingual_transfer_of_multilingual_models_on_low_resource_African_Languages.md)
 
 - [Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection](2024年09月17日/Diversity-grounded_Channel_Prototypical_Learning_for_Out-of-Distribution_Intent_Detection.md)
 
@@ -183,10 +175,6 @@
 - [Evaluation of pretrained language models on music understanding](2024年09月17日/Evaluation_of_pretrained_language_models_on_music_understanding.md)
 
     - [翻译: 预训练语言模型在音乐理解领域的评估](2024年09月17日/Evaluation_of_pretrained_language_models_on_music_understanding.md)
-
-- [Exploring ChatGPT-based Augmentation Strategies for Contrastive Aspect-based Sentiment Analysis](2024年09月17日/Exploring_ChatGPT-based_Augmentation_Strategies_for_Contrastive_Aspect-based_Sentiment_Analysis.md)
-
-    - [翻译: 探索基于 ChatGPT 的增强策略，应用于对比方面情感分析](2024年09月17日/Exploring_ChatGPT-based_Augmentation_Strategies_for_Contrastive_Aspect-based_Sentiment_Analysis.md)
 
 - [Hierarchical Narrative Analysis: Unraveling Perceptions of Generative AI](2024年09月17日/Hierarchical_Narrative_Analysis_Unraveling_Perceptions_of_Generative_AI.md)
 
@@ -220,25 +208,13 @@
 
     - [翻译: P-RAG：渐进式检索增强生成，专为实体日常任务规划而生](2024年09月17日/P-RAG_Progressive_Retrieval_Augmented_Generation_For_Planning_on_Embodied_Everyday_Task.md)
 
-- [Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models](2024年09月17日/Promptriever_Instruction-Trained_Retrievers_Can_Be_Prompted_Like_Language_Models.md)
-
-    - [翻译: Promptriever：经过指令训练的检索器，也能像语言模型一样灵活响应提示。](2024年09月17日/Promptriever_Instruction-Trained_Retrievers_Can_Be_Prompted_Like_Language_Models.md)
-
 - [ProSLM : A Prolog Synergized Language Model for explainable Domain Specific Knowledge Based Question Answering](2024年09月17日/ProSLM__A_Prolog_Synergized_Language_Model_for_explainable_Domain_Specific_Knowledge_Based_Question_Answering.md)
 
     - [翻译: ProSLM：结合 Prolog 的协同语言模型，专为特定领域知识库的可解释问答设计。](2024年09月17日/ProSLM__A_Prolog_Synergized_Language_Model_for_explainable_Domain_Specific_Knowledge_Based_Question_Answering.md)
 
-- [Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning](2024年09月17日/Reasoning_Graph_Enhanced_Exemplars_Retrieval_for_In-Context_Learning.md)
-
-    - [翻译: 通过增强推理图进行示例检索，助力上下文学习](2024年09月17日/Reasoning_Graph_Enhanced_Exemplars_Retrieval_for_In-Context_Learning.md)
-
 - [RUIE: Retrieval-based Unified Information Extraction using Large Language Model](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
 
     - [翻译: RUIE：利用大型语言模型实现基于检索的统一信息提取](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
-
-- [Says Who? Effective Zero-Shot Annotation of Focalization](2024年09月17日/Says_Who_Effective_Zero-Shot_Annotation_of_Focalization.md)
-
-    - [翻译: 谁说了算？聚焦标注的零-shot 高效实践](2024年09月17日/Says_Who_Effective_Zero-Shot_Annotation_of_Focalization.md)
 
 - [Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization](2024年09月17日/Self-Evolutionary_Large_Language_Models_through_Uncertainty-Enhanced_Preference_Optimization.md)
 
