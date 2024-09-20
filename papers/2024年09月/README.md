@@ -398,22 +398,6 @@
 
     - [翻译: 预训练语言模型在音乐理解领域的评估](2024年09月17日/Evaluation_of_pretrained_language_models_on_music_understanding.md)
 
-- [Large Language Models are Good Multi-lingual Learners : When LLMs Meet Cross-lingual Prompts](2024年09月17日/Large_Language_Models_are_Good_Multi-lingual_Learners__When_LLMs_Meet_Cross-lingual_Prompts.md)
-
-    - [翻译: 大型语言模型在多语言学习中表现出色：当 LLM 遇到跨语言提示时，它们展现了卓越的学习能力。](2024年09月17日/Large_Language_Models_are_Good_Multi-lingual_Learners__When_LLMs_Meet_Cross-lingual_Prompts.md)
-
-- [MoDex: Planning High-Dimensional Dexterous Control via Learning Neural Hand Models](2024年09月17日/MoDex_Planning_High-Dimensional_Dexterous_Control_via_Learning_Neural_Hand_Models.md)
-
-    - [翻译: MoDex：借助神经手模型学习，实现高维灵巧控制规划](2024年09月17日/MoDex_Planning_High-Dimensional_Dexterous_Control_via_Learning_Neural_Hand_Models.md)
-
-- [Multi-Floor Zero-Shot Object Navigation Policy](2024年09月17日/Multi-Floor_Zero-Shot_Object_Navigation_Policy.md)
-
-    - [翻译: 多层零-shot 物体导航策略](2024年09月17日/Multi-Floor_Zero-Shot_Object_Navigation_Policy.md)
-
-- [ProSLM : A Prolog Synergized Language Model for explainable Domain Specific Knowledge Based Question Answering](2024年09月17日/ProSLM__A_Prolog_Synergized_Language_Model_for_explainable_Domain_Specific_Knowledge_Based_Question_Answering.md)
-
-    - [翻译: ProSLM：结合 Prolog 的协同语言模型，专为特定领域知识库的可解释问答设计。](2024年09月17日/ProSLM__A_Prolog_Synergized_Language_Model_for_explainable_Domain_Specific_Knowledge_Based_Question_Answering.md)
-
 - [RUIE: Retrieval-based Unified Information Extraction using Large Language Model](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
 
     - [翻译: RUIE：利用大型语言模型实现基于检索的统一信息提取](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
@@ -429,7 +413,3 @@
 - [Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
 
     - [翻译: 迈向公平RAG：探讨检索增强生成中公平排序的影响](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
-
-- [What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts](2024年09月17日/What_Does_ChatGPT_Make_of_Historical_Stock_Returns_Extrapolation_and_Miscalibration_in_LLM_Stock_Return_Forecasts.md)
-
-    - [翻译: ChatGPT 如何看待历史股票回报？LLM 在股票回报预测中存在外推和误校准的问题。](2024年09月17日/What_Does_ChatGPT_Make_of_Historical_Stock_Returns_Extrapolation_and_Miscalibration_in_LLM_Stock_Return_Forecasts.md)
