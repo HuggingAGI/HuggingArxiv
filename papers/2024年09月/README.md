@@ -22,10 +22,6 @@
 
     - [翻译: CLAIR-A：借助大型语言模型，精准评判音频字幕](2024年09月19日/CLAIR-A_Leveraging_Large_Language_Models_to_Judge_Audio_Captions.md)
 
-- [Connecting Ideas in 'Lower-Resource' Scenarios: NLP for National Varieties, Creoles and Other Low-resource Scenarios](2024年09月19日/Connecting_Ideas_in_'Lower-Resource'_Scenarios_NLP_for_National_Varieties,_Creoles_and_Other_Low-resource_Scenarios.md)
-
-    - [翻译: 在“低资源”环境下，如何连接各种语言的想法？本文探讨了针对国家变体、克里奥尔语等低资源场景的自然语言处理技术。](2024年09月19日/Connecting_Ideas_in_'Lower-Resource'_Scenarios_NLP_for_National_Varieties,_Creoles_and_Other_Low-resource_Scenarios.md)
-
 - [Defending against Reverse Preference Attacks is Difficult](2024年09月19日/Defending_against_Reverse_Preference_Attacks_is_Difficult.md)
 
     - [翻译: 抵御反向偏好攻击，实属不易。](2024年09月19日/Defending_against_Reverse_Preference_Attacks_is_Difficult.md)
@@ -61,10 +57,6 @@
 - [Familiarity-aware Evidence Compression for Retrieval Augmented Generation](2024年09月19日/Familiarity-aware_Evidence_Compression_for_Retrieval_Augmented_Generation.md)
 
     - [翻译: 基于熟悉度的证据压缩技术，助力检索增强生成](2024年09月19日/Familiarity-aware_Evidence_Compression_for_Retrieval_Augmented_Generation.md)
-
-- [Fine Tuning Large Language Models for Medicine: The Role and Importance of Direct Parameter Optimization](2024年09月19日/Fine_Tuning_Large_Language_Models_for_Medicine_The_Role_and_Importance_of_Direct_Parameter_Optimization.md)
-
-    - [翻译: 在医学领域微调大型语言模型时，直接参数优化的角色和重要性不容忽视。](2024年09月19日/Fine_Tuning_Large_Language_Models_for_Medicine_The_Role_and_Importance_of_Direct_Parameter_Optimization.md)
 
 - [FoodPuzzle: Developing Large Language Model Agents as Flavor Scientists](2024年09月19日/FoodPuzzle_Developing_Large_Language_Model_Agents_as_Flavor_Scientists.md)
 
@@ -110,25 +102,13 @@
 
     - [翻译: LLM 能够自我检查，从而减少交通理解任务中的幻觉现象。](2024年09月19日/LLMs_Can_Check_Their_Own_Results_to_Mitigate_Hallucinations_in_Traffic_Understanding_Tasks.md)
 
-- [LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning](2024年09月19日/LogicPro_Improving_Complex_Logical_Reasoning_via_Program-Guided_Learning.md)
-
-    - [翻译: LogicPro：借助程序引导的学习，提升复杂逻辑推理能力](2024年09月19日/LogicPro_Improving_Complex_Logical_Reasoning_via_Program-Guided_Learning.md)
-
 - [Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries](2024年09月19日/Michelangelo_Long_Context_Evaluations_Beyond_Haystacks_via_Latent_Structure_Queries.md)
 
     - [翻译: Michelangelo：借助潜在结构查询，实现超越干草堆的长上下文精准评估](2024年09月19日/Michelangelo_Long_Context_Evaluations_Beyond_Haystacks_via_Latent_Structure_Queries.md)
 
-- [MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](2024年09月19日/MMSearch_Benchmarking_the_Potential_of_Large_Models_as_Multi-modal_Search_Engines.md)
-
-    - [翻译: MMSearch：探索大型模型在多模态搜索中的潜力](2024年09月19日/MMSearch_Benchmarking_the_Potential_of_Large_Models_as_Multi-modal_Search_Engines.md)
-
 - [Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](2024年09月19日/Multi-View_Adaptive_Contrastive_Learning_for_Information_Retrieval_Based_Fault_Localization.md)
 
     - [翻译: 多视图自适应对比学习：信息检索中的故障定位新方法](2024年09月19日/Multi-View_Adaptive_Contrastive_Learning_for_Information_Retrieval_Based_Fault_Localization.md)
-
-- [MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions](2024年09月19日/MURI_High-Quality_Instruction_Tuning_Datasets_for_Low-Resource_Languages_via_Reverse_Instructions.md)
-
-    - [翻译: MURI：利用反向指令技术，为低资源语言打造高质量的指令调优数据集。](2024年09月19日/MURI_High-Quality_Instruction_Tuning_Datasets_for_Low-Resource_Languages_via_Reverse_Instructions.md)
 
 - [Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models](2024年09月19日/Nigerian_Software_Engineer_or_American_Data_Scientist_GitHub_Profile_Recruitment_Bias_in_Large_Language_Models.md)
 
@@ -165,10 +145,6 @@
 - [Should RAG Chatbots Forget Unimportant Conversations? Exploring Importance and Forgetting with Psychological Insights](2024年09月19日/Should_RAG_Chatbots_Forget_Unimportant_Conversations_Exploring_Importance_and_Forgetting_with_Psychological_Insights.md)
 
     - [翻译: RAG 聊天机器人是否该遗忘无关紧要的对话？让我们从心理学角度探讨重要性与遗忘机制。](2024年09月19日/Should_RAG_Chatbots_Forget_Unimportant_Conversations_Exploring_Importance_and_Forgetting_with_Psychological_Insights.md)
-
-- [SpecEval: Evaluating Code Comprehension in Large Language Models via Program Specifications](2024年09月19日/SpecEval_Evaluating_Code_Comprehension_in_Large_Language_Models_via_Program_Specifications.md)
-
-    - [翻译: SpecEval：借助程序规范，评估大型语言模型中的代码理解能力](2024年09月19日/SpecEval_Evaluating_Code_Comprehension_in_Large_Language_Models_via_Program_Specifications.md)
 
 - [Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories](2024年09月19日/Text2Traj2Text_Learning-by-Synthesis_Framework_for_Contextual_Captioning_of_Human_Movement_Trajectories.md)
 
