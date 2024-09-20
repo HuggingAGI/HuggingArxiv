@@ -34,10 +34,6 @@
 
     - [翻译: Edu-Values：探索大型语言模型中的中国教育价值观评估](2024年09月19日/Edu-Values_Towards_Evaluating_the_Chinese_Education_Values_of_Large_Language_Models.md)
 
-- [Efficient Knowledge Distillation: Empowering Small Language Models with Teacher Model Insights](2024年09月19日/Efficient_Knowledge_Distillation_Empowering_Small_Language_Models_with_Teacher_Model_Insights.md)
-
-    - [翻译: 通过高效知识蒸馏，小型语言模型也能获得教师模型的智慧。](2024年09月19日/Efficient_Knowledge_Distillation_Empowering_Small_Language_Models_with_Teacher_Model_Insights.md)
-
 - [Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards](2024年09月19日/Efficient_Performance_Tracking_Leveraging_Large_Language_Models_for_Automated_Construction_of_Scientific_Leaderboards.md)
 
     - [翻译: 借助大型语言模型，实现科学排行榜的自动化构建，提升性能追踪效率。](2024年09月19日/Efficient_Performance_Tracking_Leveraging_Large_Language_Models_for_Automated_Construction_of_Scientific_Leaderboards.md)
@@ -50,14 +46,6 @@
 
     - [翻译: 通过多模态分布的精准对齐，提升大型语言模型的知识蒸馏效率。](2024年09月19日/Enhancing_Knowledge_Distillation_of_Large_Language_Models_through_Efficient_Multi-Modal_Distribution_Alignment.md)
 
-- [Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning](2024年09月19日/Enhancing_Perception_of_Key_Changes_in_Remote_Sensing_Image_Change_Captioning.md)
-
-    - [翻译: 提升遥感图像变化描述中关键变化的感知能力](2024年09月19日/Enhancing_Perception_of_Key_Changes_in_Remote_Sensing_Image_Change_Captioning.md)
-
-- [Enhancing SLM via ChatGPT and Dataset Augmentation](2024年09月19日/Enhancing_SLM_via_ChatGPT_and_Dataset_Augmentation.md)
-
-    - [翻译: 借助 ChatGPT 和数据集增强，提升 SLM 性能](2024年09月19日/Enhancing_SLM_via_ChatGPT_and_Dataset_Augmentation.md)
-
 - [Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models](2024年09月19日/Exploring_and_Enhancing_the_Transfer_of_Distribution_in_Knowledge_Distillation_for_Autoregressive_Language_Models.md)
 
     - [翻译: 探索并提升自回归语言模型在知识蒸馏中分布转移的传递效果](2024年09月19日/Exploring_and_Enhancing_the_Transfer_of_Distribution_in_Knowledge_Distillation_for_Autoregressive_Language_Models.md)
@@ -65,10 +53,6 @@
 - [Exploring Large Language Models for Product Attribute Value Identification](2024年09月19日/Exploring_Large_Language_Models_for_Product_Attribute_Value_Identification.md)
 
     - [翻译: 探索大型语言模型在产品属性值识别中的应用](2024年09月19日/Exploring_Large_Language_Models_for_Product_Attribute_Value_Identification.md)
-
-- [Exploring the topics, sentiments and hate speech in the Spanish information environment](2024年09月19日/Exploring_the_topics,_sentiments_and_hate_speech_in_the_Spanish_information_environment.md)
-
-    - [翻译: 深入西班牙信息环境，探寻其中的主题、情感与仇恨言论。](2024年09月19日/Exploring_the_topics,_sentiments_and_hate_speech_in_the_Spanish_information_environment.md)
 
 - [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](2024年09月19日/Fact,_Fetch,_and_Reason_A_Unified_Evaluation_of_Retrieval-Augmented_Generation.md)
 
@@ -90,10 +74,6 @@
 
     - [翻译: GraspSAM：分割模型与抓取检测的邂逅](2024年09月19日/GraspSAM_When_Segment_Anything_Model_Meets_Grasp_Detection.md)
 
-- [Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting](2024年09月19日/Hi-SLAM_Scaling-up_Semantics_in_SLAM_with_a_Hierarchically_Categorical_Gaussian_Splatting.md)
-
-    - [翻译: Hi-SLAM：通过分层分类高斯平滑技术，在 SLAM 中大幅提升语义扩展能力](2024年09月19日/Hi-SLAM_Scaling-up_Semantics_in_SLAM_with_a_Hierarchically_Categorical_Gaussian_Splatting.md)
-
 - [HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling](2024年09月19日/HLLM_Enhancing_Sequential_Recommendations_via_Hierarchical_Large_Language_Models_for_Item_and_User_Modeling.md)
 
     - [翻译: HLLM：利用分层大型语言模型，提升项目与用户建模的顺序推荐效果](2024年09月19日/HLLM_Enhancing_Sequential_Recommendations_via_Hierarchical_Large_Language_Models_for_Item_and_User_Modeling.md)
@@ -109,10 +89,6 @@
 - [Interpolating Video-LLMs: Toward Longer-sequence LMMs in a Training-free Manner](2024年09月19日/Interpolating_Video-LLMs_Toward_Longer-sequence_LMMs_in_a_Training-free_Manner.md)
 
     - [翻译: 视频-LLMs 插值：无需训练，实现更长序列 LMMs](2024年09月19日/Interpolating_Video-LLMs_Toward_Longer-sequence_LMMs_in_a_Training-free_Manner.md)
-
-- [Iteration of Thought: Leveraging Inner Dialogue for Autonomous Large Language Model Reasoning](2024年09月19日/Iteration_of_Thought_Leveraging_Inner_Dialogue_for_Autonomous_Large_Language_Model_Reasoning.md)
-
-    - [翻译: 思维迭代：通过内部对话实现自主大型语言模型推理](2024年09月19日/Iteration_of_Thought_Leveraging_Inner_Dialogue_for_Autonomous_Large_Language_Model_Reasoning.md)
 
 - [JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images](2024年09月19日/JourneyBench_A_Challenging_One-Stop_Vision-Language_Understanding_Benchmark_of_Generated_Images.md)
 

@@ -24,6 +24,10 @@
 
     - [翻译: 一种简洁高效的集成策略，用于辨识 AI 创作的文本](2023年11月07日/A_Simple_yet_Efficient_Ensemble_Approach_for_AI-generated_Text_Detection.md)
 
+- [Prompt Cache: Modular Attention Reuse for Low-Latency Inference](2023年11月07日/Prompt_Cache_Modular_Attention_Reuse_for_Low-Latency_Inference.md)
+
+    - [翻译: 提示缓存：通过模块化注意力重用实现低延迟推理](2023年11月07日/Prompt_Cache_Modular_Attention_Reuse_for_Low-Latency_Inference.md)
+
 2023年11月06日
 
 - [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](2023年11月06日/MetaGPT_Meta_Programming_for_A_Multi-Agent_Collaborative_Framework.md)
