@@ -228,37 +228,13 @@
 
     - [翻译: 微调语言模型，使其能够表达不确定性](2024年09月18日/Finetuning_Language_Models_to_Emit_Linguistic_Expressions_of_Uncertainty.md)
 
-- [From Lists to Emojis: How Format Bias Affects Model Alignment](2024年09月18日/From_Lists_to_Emojis_How_Format_Bias_Affects_Model_Alignment.md)
-
-    - [翻译: 从列表到表情符号：格式偏差如何影响模型对齐](2024年09月18日/From_Lists_to_Emojis_How_Format_Bias_Affects_Model_Alignment.md)
-
-- [From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving](2024年09月18日/From_Words_to_Wheels_Automated_Style-Customized_Policy_Generation_for_Autonomous_Driving.md)
-
-    - [翻译: 从文字到车轮：自动驾驶的自动化风格定制策略生成](2024年09月18日/From_Words_to_Wheels_Automated_Style-Customized_Policy_Generation_for_Autonomous_Driving.md)
-
 - [Gender Representation and Bias in Indian Civil Service Mock Interviews](2024年09月18日/Gender_Representation_and_Bias_in_Indian_Civil_Service_Mock_Interviews.md)
 
     - [翻译: 印度公务员模拟面试中的性别呈现与偏见](2024年09月18日/Gender_Representation_and_Bias_in_Indian_Civil_Service_Mock_Interviews.md)
 
-- [Harnessing LLMs for API Interactions: A Framework for Classification and Synthetic Data Generation](2024年09月18日/Harnessing_LLMs_for_API_Interactions_A_Framework_for_Classification_and_Synthetic_Data_Generation.md)
-
-    - [翻译: 借助 LLM 实现 API 交互：分类与合成数据生成的创新框架](2024年09月18日/Harnessing_LLMs_for_API_Interactions_A_Framework_for_Classification_and_Synthetic_Data_Generation.md)
-
 - [Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
 
     - [翻译: 低帧率语音编解码器：专为高效、高质量的语音LLM训练与推理而生](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
-
-- [Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review](2024年09月18日/Motivations,_Challenges,_Best_Practices,_and_Benefits_for_Bots_and_Conversational_Agents_in_Software_Engineering_A_Multivocal_Literature_Review.md)
-
-    - [翻译: 软件工程领域中，机器人与对话代理的动机、挑战、最佳实践及益处：一场多视角的文献探索](2024年09月18日/Motivations,_Challenges,_Best_Practices,_and_Benefits_for_Bots_and_Conversational_Agents_in_Software_Engineering_A_Multivocal_Literature_Review.md)
-
-- [Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement](2024年09月18日/Qwen2.5-Math_Technical_Report_Toward_Mathematical_Expert_Model_via_Self-Improvement.md)
-
-    - [翻译: Qwen2.5-Math 技术报告：借助自我提升，打造数学专家模型](2024年09月18日/Qwen2.5-Math_Technical_Report_Toward_Mathematical_Expert_Model_via_Self-Improvement.md)
-
-- [Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing](2024年09月18日/Revealing_the_Challenge_of_Detecting_Character_Knowledge_Errors_in_LLM_Role-Playing.md)
-
-    - [翻译: 揭示 LLM 角色扮演中检测角色知识错误的难题](2024年09月18日/Revealing_the_Challenge_of_Detecting_Character_Knowledge_Errors_in_LLM_Role-Playing.md)
 
 - [Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models](2024年09月18日/Takin_A_Cohort_of_Superior_Quality_Zero-shot_Speech_Generation_Models.md)
 
