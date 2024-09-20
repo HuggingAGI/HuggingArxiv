@@ -232,10 +232,6 @@
 
     - [翻译: 微调语言模型，使其能够表达不确定性](2024年09月18日/Finetuning_Language_Models_to_Emit_Linguistic_Expressions_of_Uncertainty.md)
 
-- [FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement](2024年09月18日/FLARE_Fusing_Language_Models_and_Collaborative_Architectures_for_Recommender_Enhancement.md)
-
-    - [翻译: FLARE：结合语言模型与协作架构，提升推荐系统性能](2024年09月18日/FLARE_Fusing_Language_Models_and_Collaborative_Architectures_for_Recommender_Enhancement.md)
-
 - [From Lists to Emojis: How Format Bias Affects Model Alignment](2024年09月18日/From_Lists_to_Emojis_How_Format_Bias_Affects_Model_Alignment.md)
 
     - [翻译: 从列表到表情符号：格式偏差如何影响模型对齐](2024年09月18日/From_Lists_to_Emojis_How_Format_Bias_Affects_Model_Alignment.md)
@@ -256,14 +252,6 @@
 
     - [翻译: LLM 助力文本模拟攻击，直指无身份推荐系统](2024年09月18日/LLM-Powered_Text_Simulation_Attack_Against_ID-Free_Recommender_Systems.md)
 
-- [LLMs in Education: Novel Perspectives, Challenges, and Opportunities](2024年09月18日/LLMs_in_Education_Novel_Perspectives,_Challenges,_and_Opportunities.md)
-
-    - [翻译: 教育领域的 LLM：新视角、挑战与机遇](2024年09月18日/LLMs_in_Education_Novel_Perspectives,_Challenges,_and_Opportunities.md)
-
-- [LLMs + Persona-Plug = Personalized LLMs](2024年09月18日/LLMs_+_Persona-Plug_=_Personalized_LLMs.md)
-
-    - [翻译: LLM 加上 Persona-Plug，摇身一变成为个性化 LLM。](2024年09月18日/LLMs_+_Persona-Plug_=_Personalized_LLMs.md)
-
 - [Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
 
     - [翻译: 低帧率语音编解码器：专为高效、高质量的语音LLM训练与推理而生](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
@@ -280,10 +268,6 @@
 
     - [翻译: Qwen2.5-Math 技术报告：借助自我提升，打造数学专家模型](2024年09月18日/Qwen2.5-Math_Technical_Report_Toward_Mathematical_Expert_Model_via_Self-Improvement.md)
 
-- [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](2024年09月18日/Qwen2-VL_Enhancing_Vision-Language_Model's_Perception_of_the_World_at_Any_Resolution.md)
-
-    - [翻译: Qwen2-VL：提升视觉-语言模型在任意分辨率下的世界感知能力](2024年09月18日/Qwen2-VL_Enhancing_Vision-Language_Model's_Perception_of_the_World_at_Any_Resolution.md)
-
 - [Retrieve, Annotate, Evaluate, Repeat: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](2024年09月18日/Retrieve,_Annotate,_Evaluate,_Repeat_Leveraging_Multimodal_LLMs_for_Large-Scale_Product_Retrieval_Evaluation.md)
 
     - [翻译: 检索、注释、评估、循环：借助多模态 LLM 实现大规模产品检索的精准评估](2024年09月18日/Retrieve,_Annotate,_Evaluate,_Repeat_Leveraging_Multimodal_LLMs_for_Large-Scale_Product_Retrieval_Evaluation.md)
@@ -292,17 +276,9 @@
 
     - [翻译: 揭示 LLM 角色扮演中检测角色知识错误的难题](2024年09月18日/Revealing_the_Challenge_of_Detecting_Character_Knowledge_Errors_in_LLM_Role-Playing.md)
 
-- [Sampling Latent Material-Property Information From LLM-Derived Embedding Representations](2024年09月18日/Sampling_Latent_Material-Property_Information_From_LLM-Derived_Embedding_Representations.md)
-
-    - [翻译: 从 LLM 嵌入中采样材料属性信息](2024年09月18日/Sampling_Latent_Material-Property_Information_From_LLM-Derived_Embedding_Representations.md)
-
 - [Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models](2024年09月18日/Takin_A_Cohort_of_Superior_Quality_Zero-shot_Speech_Generation_Models.md)
 
     - [翻译: Takin: 一组卓越的零-shot 语音生成模型](2024年09月18日/Takin_A_Cohort_of_Superior_Quality_Zero-shot_Speech_Generation_Models.md)
-
-- [TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning](2024年09月18日/TART_An_Open-Source_Tool-Augmented_Framework_for_Explainable_Table-based_Reasoning.md)
-
-    - [翻译: TART：一款开源工具增强框架，专为可解释的表格推理而生](2024年09月18日/TART_An_Open-Source_Tool-Augmented_Framework_for_Explainable_Table-based_Reasoning.md)
 
 - [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](2024年09月18日/To_CoT_or_not_to_CoT_Chain-of-thought_helps_mainly_on_math_and_symbolic_reasoning.md)
 
