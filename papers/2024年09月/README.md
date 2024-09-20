@@ -220,10 +220,6 @@
 
 2024年09月18日
 
-- [Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources](2024年09月18日/Development_and_bilingual_evaluation_of_Japanese_medical_large_language_model_within_reasonably_low_computational_resources.md)
-
-    - [翻译: 在有限计算资源下，开发并双语评估日本医疗大型语言模型](2024年09月18日/Development_and_bilingual_evaluation_of_Japanese_medical_large_language_model_within_reasonably_low_computational_resources.md)
-
 - [Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking](2024年09月18日/Dual-Layer_Training_and_Decoding_of_Large_Language_Model_with_Simultaneously_Thinking_and_Speaking.md)
 
     - [翻译: 大型语言模型的双层训练与解码，实现边思考边表达](2024年09月18日/Dual-Layer_Training_and_Decoding_of_Large_Language_Model_with_Simultaneously_Thinking_and_Speaking.md)
@@ -256,14 +252,6 @@
 
     - [翻译: 借助 LLM 实现 API 交互：分类与合成数据生成的创新框架](2024年09月18日/Harnessing_LLMs_for_API_Interactions_A_Framework_for_Classification_and_Synthetic_Data_Generation.md)
 
-- [Learning Task Planning from Multi-Modal Demonstration for Multi-Stage Contact-Rich Manipulation](2024年09月18日/Learning_Task_Planning_from_Multi-Modal_Demonstration_for_Multi-Stage_Contact-Rich_Manipulation.md)
-
-    - [翻译: 通过多模态演示学习多阶段接触操作的任务规划](2024年09月18日/Learning_Task_Planning_from_Multi-Modal_Demonstration_for_Multi-Stage_Contact-Rich_Manipulation.md)
-
-- [Less Memory Means smaller GPUs: Backpropagation with Compressed Activations](2024年09月18日/Less_Memory_Means_smaller_GPUs_Backpropagation_with_Compressed_Activations.md)
-
-    - [翻译: 内存更少，GPU更小：压缩激活助力反向传播](2024年09月18日/Less_Memory_Means_smaller_GPUs_Backpropagation_with_Compressed_Activations.md)
-
 - [LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems](2024年09月18日/LLM-Powered_Text_Simulation_Attack_Against_ID-Free_Recommender_Systems.md)
 
     - [翻译: LLM 助力文本模拟攻击，直指无身份推荐系统](2024年09月18日/LLM-Powered_Text_Simulation_Attack_Against_ID-Free_Recommender_Systems.md)
@@ -276,10 +264,6 @@
 
     - [翻译: LLM 加上 Persona-Plug，摇身一变成为个性化 LLM。](2024年09月18日/LLMs_+_Persona-Plug_=_Personalized_LLMs.md)
 
-- [LMMCoDrive: Cooperative Driving with Large Multimodal Model](2024年09月18日/LMMCoDrive_Cooperative_Driving_with_Large_Multimodal_Model.md)
-
-    - [翻译: LMMCoDrive：携手大型多模态模型，共创智能驾驶新纪元](2024年09月18日/LMMCoDrive_Cooperative_Driving_with_Large_Multimodal_Model.md)
-
 - [Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
 
     - [翻译: 低帧率语音编解码器：专为高效、高质量的语音LLM训练与推理而生](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
@@ -287,14 +271,6 @@
 - [Measuring Human and AI Values based on Generative Psychometrics with Large Language Models](2024年09月18日/Measuring_Human_and_AI_Values_based_on_Generative_Psychometrics_with_Large_Language_Models.md)
 
     - [翻译: 通过大型语言模型的生成心理测量学，探索人类与AI价值观的衡量之道](2024年09月18日/Measuring_Human_and_AI_Values_based_on_Generative_Psychometrics_with_Large_Language_Models.md)
-
-- [MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts](2024年09月18日/MEOW_MEMOry_Supervised_LLM_Unlearning_Via_Inverted_Facts.md)
-
-    - [翻译: MEOW：利用反转事实的记忆监督，实现 LLM 的遗忘机制](2024年09月18日/MEOW_MEMOry_Supervised_LLM_Unlearning_Via_Inverted_Facts.md)
-
-- [MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion](2024年09月18日/MoRAG_--_Multi-Fusion_Retrieval_Augmented_Generation_for_Human_Motion.md)
-
-    - [翻译: MoRAG -- 多融合检索增强生成技术，专为人类运动设计](2024年09月18日/MoRAG_--_Multi-Fusion_Retrieval_Augmented_Generation_for_Human_Motion.md)
 
 - [Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review](2024年09月18日/Motivations,_Challenges,_Best_Practices,_and_Benefits_for_Bots_and_Conversational_Agents_in_Software_Engineering_A_Multivocal_Literature_Review.md)
 
