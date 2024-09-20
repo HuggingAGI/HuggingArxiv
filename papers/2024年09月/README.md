@@ -220,10 +220,6 @@
 
 2024年09月18日
 
-- [Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking](2024年09月18日/Dual-Layer_Training_and_Decoding_of_Large_Language_Model_with_Simultaneously_Thinking_and_Speaking.md)
-
-    - [翻译: 大型语言模型的双层训练与解码，实现边思考边表达](2024年09月18日/Dual-Layer_Training_and_Decoding_of_Large_Language_Model_with_Simultaneously_Thinking_and_Speaking.md)
-
 - [Enabling Real-Time Conversations with Minimal Training Costs](2024年09月18日/Enabling_Real-Time_Conversations_with_Minimal_Training_Costs.md)
 
     - [翻译: 以最低训练成本实现实时对话](2024年09月18日/Enabling_Real-Time_Conversations_with_Minimal_Training_Costs.md)
@@ -248,17 +244,9 @@
 
     - [翻译: 借助 LLM 实现 API 交互：分类与合成数据生成的创新框架](2024年09月18日/Harnessing_LLMs_for_API_Interactions_A_Framework_for_Classification_and_Synthetic_Data_Generation.md)
 
-- [LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems](2024年09月18日/LLM-Powered_Text_Simulation_Attack_Against_ID-Free_Recommender_Systems.md)
-
-    - [翻译: LLM 助力文本模拟攻击，直指无身份推荐系统](2024年09月18日/LLM-Powered_Text_Simulation_Attack_Against_ID-Free_Recommender_Systems.md)
-
 - [Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
 
     - [翻译: 低帧率语音编解码器：专为高效、高质量的语音LLM训练与推理而生](2024年09月18日/Low_Frame-rate_Speech_Codec_a_Codec_Designed_for_Fast_High-quality_Speech_LLM_Training_and_Inference.md)
-
-- [Measuring Human and AI Values based on Generative Psychometrics with Large Language Models](2024年09月18日/Measuring_Human_and_AI_Values_based_on_Generative_Psychometrics_with_Large_Language_Models.md)
-
-    - [翻译: 通过大型语言模型的生成心理测量学，探索人类与AI价值观的衡量之道](2024年09月18日/Measuring_Human_and_AI_Values_based_on_Generative_Psychometrics_with_Large_Language_Models.md)
 
 - [Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review](2024年09月18日/Motivations,_Challenges,_Best_Practices,_and_Benefits_for_Bots_and_Conversational_Agents_in_Software_Engineering_A_Multivocal_Literature_Review.md)
 
@@ -268,10 +256,6 @@
 
     - [翻译: Qwen2.5-Math 技术报告：借助自我提升，打造数学专家模型](2024年09月18日/Qwen2.5-Math_Technical_Report_Toward_Mathematical_Expert_Model_via_Self-Improvement.md)
 
-- [Retrieve, Annotate, Evaluate, Repeat: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](2024年09月18日/Retrieve,_Annotate,_Evaluate,_Repeat_Leveraging_Multimodal_LLMs_for_Large-Scale_Product_Retrieval_Evaluation.md)
-
-    - [翻译: 检索、注释、评估、循环：借助多模态 LLM 实现大规模产品检索的精准评估](2024年09月18日/Retrieve,_Annotate,_Evaluate,_Repeat_Leveraging_Multimodal_LLMs_for_Large-Scale_Product_Retrieval_Evaluation.md)
-
 - [Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing](2024年09月18日/Revealing_the_Challenge_of_Detecting_Character_Knowledge_Errors_in_LLM_Role-Playing.md)
 
     - [翻译: 揭示 LLM 角色扮演中检测角色知识错误的难题](2024年09月18日/Revealing_the_Challenge_of_Detecting_Character_Knowledge_Errors_in_LLM_Role-Playing.md)
@@ -279,14 +263,6 @@
 - [Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models](2024年09月18日/Takin_A_Cohort_of_Superior_Quality_Zero-shot_Speech_Generation_Models.md)
 
     - [翻译: Takin: 一组卓越的零-shot 语音生成模型](2024年09月18日/Takin_A_Cohort_of_Superior_Quality_Zero-shot_Speech_Generation_Models.md)
-
-- [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](2024年09月18日/To_CoT_or_not_to_CoT_Chain-of-thought_helps_mainly_on_math_and_symbolic_reasoning.md)
-
-    - [翻译: CoT 还是不 CoT？思维链主要在数学和符号推理中发挥作用。](2024年09月18日/To_CoT_or_not_to_CoT_Chain-of-thought_helps_mainly_on_math_and_symbolic_reasoning.md)
-
-- [Using Large Language Models to Generate Clinical Trial Tables and Figures](2024年09月18日/Using_Large_Language_Models_to_Generate_Clinical_Trial_Tables_and_Figures.md)
-
-    - [翻译: 借助大型语言模型，轻松生成临床试验的表格与图表。](2024年09月18日/Using_Large_Language_Models_to_Generate_Clinical_Trial_Tables_and_Figures.md)
 
 - [You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL](2024年09月18日/You_Only_Read_Once_(YORO)_Learning_to_Internalize_Database_Knowledge_for_Text-to-SQL.md)
 
