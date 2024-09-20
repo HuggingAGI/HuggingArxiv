@@ -224,10 +224,6 @@
 
     - [翻译: 复杂环境下的中国连续手语数据集](2024年09月18日/A_Chinese_Continuous_Sign_Language_Dataset_Based_on_Complex_Environments.md)
 
-- [ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation](2024年09月18日/ChefFusion_Multimodal_Foundation_Model_Integrating_Recipe_and_Food_Image_Generation.md)
-
-    - [翻译: ChefFusion：一款融合食谱与食物图像生成的多模态基础模型](2024年09月18日/ChefFusion_Multimodal_Foundation_Model_Integrating_Recipe_and_Food_Image_Generation.md)
-
 - [Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference](2024年09月18日/Decoding_Style_Efficient_Fine-Tuning_of_LLMs_for_Image-Guided_Outfit_Recommendation_with_Preference.md)
 
     - [翻译: 解码时尚：高效微调 LLM，实现图像引导的个性化服装推荐](2024年09月18日/Decoding_Style_Efficient_Fine-Tuning_of_LLMs_for_Image-Guided_Outfit_Recommendation_with_Preference.md)
@@ -239,10 +235,6 @@
 - [Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking](2024年09月18日/Dual-Layer_Training_and_Decoding_of_Large_Language_Model_with_Simultaneously_Thinking_and_Speaking.md)
 
     - [翻译: 大型语言模型的双层训练与解码，实现边思考边表达](2024年09月18日/Dual-Layer_Training_and_Decoding_of_Large_Language_Model_with_Simultaneously_Thinking_and_Speaking.md)
-
-- [Efficacy of Synthetic Data as a Benchmark](2024年09月18日/Efficacy_of_Synthetic_Data_as_a_Benchmark.md)
-
-    - [翻译: 合成数据基准的有效性](2024年09月18日/Efficacy_of_Synthetic_Data_as_a_Benchmark.md)
 
 - [Enabling Real-Time Conversations with Minimal Training Costs](2024年09月18日/Enabling_Real-Time_Conversations_with_Minimal_Training_Costs.md)
 
@@ -296,10 +288,6 @@
 
     - [翻译: LLM 加上 Persona-Plug，摇身一变成为个性化 LLM。](2024年09月18日/LLMs_+_Persona-Plug_=_Personalized_LLMs.md)
 
-- [LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models](2024年09月18日/LLM-wrapper_Black-Box_Semantic-Aware_Adaptation_of_Vision-Language_Foundation_Models.md)
-
-    - [翻译: LLM-wrapper：视觉-语言基础模型的黑盒语义感知适应方案](2024年09月18日/LLM-wrapper_Black-Box_Semantic-Aware_Adaptation_of_Vision-Language_Foundation_Models.md)
-
 - [LMMCoDrive: Cooperative Driving with Large Multimodal Model](2024年09月18日/LMMCoDrive_Cooperative_Driving_with_Large_Multimodal_Model.md)
 
     - [翻译: LMMCoDrive：携手大型多模态模型，共创智能驾驶新纪元](2024年09月18日/LMMCoDrive_Cooperative_Driving_with_Large_Multimodal_Model.md)
@@ -311,10 +299,6 @@
 - [MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning](2024年09月18日/MAgICoRe_Multi-Agent,_Iterative,_Coarse-to-Fine_Refinement_for_Reasoning.md)
 
     - [翻译: MAgICoRe：一种多代理、迭代式的从粗到细推理优化方法](2024年09月18日/MAgICoRe_Multi-Agent,_Iterative,_Coarse-to-Fine_Refinement_for_Reasoning.md)
-
-- [Making Large Language Models into World Models with Precondition and Effect Knowledge](2024年09月18日/Making_Large_Language_Models_into_World_Models_with_Precondition_and_Effect_Knowledge.md)
-
-    - [翻译: 将大型语言模型升级为世界模型，借助前提与效果知识的加持](2024年09月18日/Making_Large_Language_Models_into_World_Models_with_Precondition_and_Effect_Knowledge.md)
 
 - [Measuring Human and AI Values based on Generative Psychometrics with Large Language Models](2024年09月18日/Measuring_Human_and_AI_Values_based_on_Generative_Psychometrics_with_Large_Language_Models.md)
 
@@ -364,10 +348,6 @@
 
     - [翻译: TART：一款开源工具增强框架，专为可解释的表格推理而生](2024年09月18日/TART_An_Open-Source_Tool-Augmented_Framework_for_Explainable_Table-based_Reasoning.md)
 
-- [Textualized Agent-Style Reasoning for Complex Tasks by Multiple Round LLM Generation](2024年09月18日/Textualized_Agent-Style_Reasoning_for_Complex_Tasks_by_Multiple_Round_LLM_Generation.md)
-
-    - [翻译: 多轮 LLM 生成助力复杂任务的文本化代理风格推理](2024年09月18日/Textualized_Agent-Style_Reasoning_for_Complex_Tasks_by_Multiple_Round_LLM_Generation.md)
-
 - [The Factuality of Large Language Models in the Legal Domain](2024年09月18日/The_Factuality_of_Large_Language_Models_in_the_Legal_Domain.md)
 
     - [翻译: 法律领域中大型语言模型的事实性](2024年09月18日/The_Factuality_of_Large_Language_Models_in_the_Legal_Domain.md)
@@ -383,9 +363,3 @@
 - [You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL](2024年09月18日/You_Only_Read_Once_(YORO)_Learning_to_Internalize_Database_Knowledge_for_Text-to-SQL.md)
 
     - [翻译: YORO：通过一次阅读，将数据库知识内化，实现文本到 SQL 的转换。](2024年09月18日/You_Only_Read_Once_(YORO)_Learning_to_Internalize_Database_Knowledge_for_Text-to-SQL.md)
-
-2024年09月17日
-
-- [RUIE: Retrieval-based Unified Information Extraction using Large Language Model](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
-
-    - [翻译: RUIE：利用大型语言模型实现基于检索的统一信息提取](2024年09月17日/RUIE_Retrieval-based_Unified_Information_Extraction_using_Large_Language_Model.md)
