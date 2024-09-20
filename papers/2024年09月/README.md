@@ -152,10 +152,6 @@
 
 2024年09月17日
 
-- [AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances](2024年09月17日/AI_Suggestions_Homogenize_Writing_Toward_Western_Styles_and_Diminish_Cultural_Nuances.md)
-
-    - [翻译: AI 建议让写作趋向西方风格，削弱文化细节](2024年09月17日/AI_Suggestions_Homogenize_Writing_Toward_Western_Styles_and_Diminish_Cultural_Nuances.md)
-
 - [Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction](2024年09月17日/Attention-Seeker_Dynamic_Self-Attention_Scoring_for_Unsupervised_Keyphrase_Extraction.md)
 
     - [翻译: Attention-Seeker：动态自注意力评分，助力无监督关键词提取](2024年09月17日/Attention-Seeker_Dynamic_Self-Attention_Scoring_for_Unsupervised_Keyphrase_Extraction.md)
@@ -163,10 +159,6 @@
 - [Bridging Design and Development with Automated Declarative UI Code Generation](2024年09月17日/Bridging_Design_and_Development_with_Automated_Declarative_UI_Code_Generation.md)
 
     - [翻译: 自动化声明式 UI 代码生成，架起设计与开发之间的桥梁](2024年09月17日/Bridging_Design_and_Development_with_Automated_Declarative_UI_Code_Generation.md)
-
-- [Chain-of-Thought Prompting for Speech Translation](2024年09月17日/Chain-of-Thought_Prompting_for_Speech_Translation.md)
-
-    - [翻译: 思维链提示在语音翻译中的应用](2024年09月17日/Chain-of-Thought_Prompting_for_Speech_Translation.md)
 
 - [CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration](2024年09月17日/CoCA_Regaining_Safety-awareness_of_Multimodal_Large_Language_Models_with_Constitutional_Calibration.md)
 
@@ -200,10 +192,6 @@
 
     - [翻译: 分层叙事分析：揭示生成性 AI 的深层感知](2024年09月17日/Hierarchical_Narrative_Analysis_Unraveling_Perceptions_of_Generative_AI.md)
 
-- [Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](2024年09月17日/Improving_LLM_Reasoning_with_Multi-Agent_Tree-of-Thought_Validator_Agent.md)
-
-    - [翻译: 借助多智能体思维树验证器，提升 LLM 的推理能力](2024年09月17日/Improving_LLM_Reasoning_with_Multi-Agent_Tree-of-Thought_Validator_Agent.md)
-
 - [Investigating Context-Faithfulness in Large Language Models: The Roles of Memory Strength and Evidence Style](2024年09月17日/Investigating_Context-Faithfulness_in_Large_Language_Models_The_Roles_of_Memory_Strength_and_Evidence_Style.md)
 
     - [翻译: 探索大型语言模型中的上下文忠实度：记忆强度与证据风格的影响](2024年09月17日/Investigating_Context-Faithfulness_in_Large_Language_Models_The_Roles_of_Memory_Strength_and_Evidence_Style.md)
@@ -220,10 +208,6 @@
 
     - [翻译: 通过蒸馏技术提升文档理解：FLAN-T5 案例研究](2024年09月17日/Leveraging_Distillation_Techniques_for_Document_Understanding_A_Case_Study_with_FLAN-T5.md)
 
-- [LLM-as-a-Judge & Reward Model: What They Can and Cannot Do](2024年09月17日/LLM-as-a-Judge_&_Reward_Model_What_They_Can_and_Cannot_Do.md)
-
-    - [翻译: LLM 作为评判者与奖励模型：它们的能与不能](2024年09月17日/LLM-as-a-Judge_&_Reward_Model_What_They_Can_and_Cannot_Do.md)
-
 - [MoDex: Planning High-Dimensional Dexterous Control via Learning Neural Hand Models](2024年09月17日/MoDex_Planning_High-Dimensional_Dexterous_Control_via_Learning_Neural_Hand_Models.md)
 
     - [翻译: MoDex：借助神经手模型学习，实现高维灵巧控制规划](2024年09月17日/MoDex_Planning_High-Dimensional_Dexterous_Control_via_Learning_Neural_Hand_Models.md)
@@ -231,10 +215,6 @@
 - [Multi-Floor Zero-Shot Object Navigation Policy](2024年09月17日/Multi-Floor_Zero-Shot_Object_Navigation_Policy.md)
 
     - [翻译: 多层零-shot 物体导航策略](2024年09月17日/Multi-Floor_Zero-Shot_Object_Navigation_Policy.md)
-
-- [PLATO: Planning with LLMs and Affordances for Tool Manipulation](2024年09月17日/PLATO_Planning_with_LLMs_and_Affordances_for_Tool_Manipulation.md)
-
-    - [翻译: PLATO：借助 LLM 和 Affordances 实现工具操作的智能规划](2024年09月17日/PLATO_Planning_with_LLMs_and_Affordances_for_Tool_Manipulation.md)
 
 - [P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task](2024年09月17日/P-RAG_Progressive_Retrieval_Augmented_Generation_For_Planning_on_Embodied_Everyday_Task.md)
 
@@ -283,10 +263,6 @@
 - [Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
 
     - [翻译: 迈向公平RAG：探讨检索增强生成中公平排序的影响](2024年09月17日/Towards_Fair_RAG_On_the_Impact_of_Fair_Ranking_in_Retrieval-Augmented_Generation.md)
-
-- [WER We Stand: Benchmarking Urdu ASR Models](2024年09月17日/WER_We_Stand_Benchmarking_Urdu_ASR_Models.md)
-
-    - [翻译: 乌尔都语 ASR 模型基准测试：WER 我们站](2024年09月17日/WER_We_Stand_Benchmarking_Urdu_ASR_Models.md)
 
 - [What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts](2024年09月17日/What_Does_ChatGPT_Make_of_Historical_Stock_Returns_Extrapolation_and_Miscalibration_in_LLM_Stock_Return_Forecasts.md)
 
