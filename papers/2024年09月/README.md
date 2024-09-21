@@ -2,10 +2,6 @@
 
 2024年09月19日
 
-- [A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights](2024年09月19日/A_New_Perspective_on_ADHD_Research_Knowledge_Graph_Construction_with_LLMs_and_Network_Based_Insights.md)
-
-    - [翻译: 探索 ADHD 研究的新视角：结合 LLM 与网络分析，构建知识图谱](2024年09月19日/A_New_Perspective_on_ADHD_Research_Knowledge_Graph_Construction_with_LLMs_and_Network_Based_Insights.md)
-
 - [Assessing the Zero-Shot Capabilities of LLMs for Action Evaluation in RL](2024年09月19日/Assessing_the_Zero-Shot_Capabilities_of_LLMs_for_Action_Evaluation_in_RL.md)
 
     - [翻译: 探究 LLM 在强化学习中动作评估的零-shot 表现](2024年09月19日/Assessing_the_Zero-Shot_Capabilities_of_LLMs_for_Action_Evaluation_in_RL.md)
@@ -42,14 +38,6 @@
 
     - [翻译: 探索并提升自回归语言模型在知识蒸馏中分布转移的传递效果](2024年09月19日/Exploring_and_Enhancing_the_Transfer_of_Distribution_in_Knowledge_Distillation_for_Autoregressive_Language_Models.md)
 
-- [Exploring Large Language Models for Product Attribute Value Identification](2024年09月19日/Exploring_Large_Language_Models_for_Product_Attribute_Value_Identification.md)
-
-    - [翻译: 探索大型语言模型在产品属性值识别中的应用](2024年09月19日/Exploring_Large_Language_Models_for_Product_Attribute_Value_Identification.md)
-
-- [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](2024年09月19日/Fact,_Fetch,_and_Reason_A_Unified_Evaluation_of_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 事实、获取与推理：检索增强生成的综合评估](2024年09月19日/Fact,_Fetch,_and_Reason_A_Unified_Evaluation_of_Retrieval-Augmented_Generation.md)
-
 - [Familiarity-aware Evidence Compression for Retrieval Augmented Generation](2024年09月19日/Familiarity-aware_Evidence_Compression_for_Retrieval_Augmented_Generation.md)
 
     - [翻译: 基于熟悉度的证据压缩技术，助力检索增强生成](2024年09月19日/Familiarity-aware_Evidence_Compression_for_Retrieval_Augmented_Generation.md)
@@ -57,10 +45,6 @@
 - [GraspSAM: When Segment Anything Model Meets Grasp Detection](2024年09月19日/GraspSAM_When_Segment_Anything_Model_Meets_Grasp_Detection.md)
 
     - [翻译: GraspSAM：分割模型与抓取检测的邂逅](2024年09月19日/GraspSAM_When_Segment_Anything_Model_Meets_Grasp_Detection.md)
-
-- [HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling](2024年09月19日/HLLM_Enhancing_Sequential_Recommendations_via_Hierarchical_Large_Language_Models_for_Item_and_User_Modeling.md)
-
-    - [翻译: HLLM：利用分层大型语言模型，提升项目与用户建模的顺序推荐效果](2024年09月19日/HLLM_Enhancing_Sequential_Recommendations_via_Hierarchical_Large_Language_Models_for_Item_and_User_Modeling.md)
 
 - [Human Interest or Conflict? Leveraging LLMs for Automated Framing Analysis in TV Shows](2024年09月19日/Human_Interest_or_Conflict_Leveraging_LLMs_for_Automated_Framing_Analysis_in_TV_Shows.md)
 
@@ -86,10 +70,6 @@
 
     - [翻译: LI-GS：融合 LiDAR 的高斯喷射技术，实现大规模精确重建](2024年09月19日/LI-GS_Gaussian_Splatting_with_LiDAR_Incorporated_for_Accurate_Large-Scale_Reconstruction.md)
 
-- [LLM-Measure: Generating Valid, Consistent, and Reproducible Text-Based Measures for Social Science Research](2024年09月19日/LLM-Measure_Generating_Valid,_Consistent,_and_Reproducible_Text-Based_Measures_for_Social_Science_Research.md)
-
-    - [翻译: LLM-Measure：为社会科学研究打造有效、一致且可重复的文本测量工具](2024年09月19日/LLM-Measure_Generating_Valid,_Consistent,_and_Reproducible_Text-Based_Measures_for_Social_Science_Research.md)
-
 - [LLMs Can Check Their Own Results to Mitigate Hallucinations in Traffic Understanding Tasks](2024年09月19日/LLMs_Can_Check_Their_Own_Results_to_Mitigate_Hallucinations_in_Traffic_Understanding_Tasks.md)
 
     - [翻译: LLM 能够自我检查，从而减少交通理解任务中的幻觉现象。](2024年09月19日/LLMs_Can_Check_Their_Own_Results_to_Mitigate_Hallucinations_in_Traffic_Understanding_Tasks.md)
@@ -109,10 +89,6 @@
 - [PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)](2024年09月19日/PromSec_Prompt_Optimization_for_Secure_Generation_of_Functional_Source_Code_with_Large_Language_Models_(LLMs).md)
 
     - [翻译: PromSec：通过 LLM 生成安全功能源代码的提示优化](2024年09月19日/PromSec_Prompt_Optimization_for_Secure_Generation_of_Functional_Source_Code_with_Large_Language_Models_(LLMs).md)
-
-- [RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues](2024年09月19日/RAD-Bench_Evaluating_Large_Language_Models_Capabilities_in_Retrieval_Augmented_Dialogues.md)
-
-    - [翻译: RAD-Bench：评估大型语言模型在检索增强对话中的表现](2024年09月19日/RAD-Bench_Evaluating_Large_Language_Models_Capabilities_in_Retrieval_Augmented_Dialogues.md)
 
 - [Retrieval-Augmented Test Generation: How Far Are We?](2024年09月19日/Retrieval-Augmented_Test_Generation_How_Far_Are_We.md)
 
