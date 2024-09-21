@@ -26,10 +26,6 @@
 
     - [翻译: 抵御反向偏好攻击，实属不易。](2024年09月19日/Defending_against_Reverse_Preference_Attacks_is_Difficult.md)
 
-- [Edu-Values: Towards Evaluating the Chinese Education Values of Large Language Models](2024年09月19日/Edu-Values_Towards_Evaluating_the_Chinese_Education_Values_of_Large_Language_Models.md)
-
-    - [翻译: Edu-Values：探索大型语言模型中的中国教育价值观评估](2024年09月19日/Edu-Values_Towards_Evaluating_the_Chinese_Education_Values_of_Large_Language_Models.md)
-
 - [Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards](2024年09月19日/Efficient_Performance_Tracking_Leveraging_Large_Language_Models_for_Automated_Construction_of_Scientific_Leaderboards.md)
 
     - [翻译: 借助大型语言模型，实现科学排行榜的自动化构建，提升性能追踪效率。](2024年09月19日/Efficient_Performance_Tracking_Leveraging_Large_Language_Models_for_Automated_Construction_of_Scientific_Leaderboards.md)
@@ -57,10 +53,6 @@
 - [Familiarity-aware Evidence Compression for Retrieval Augmented Generation](2024年09月19日/Familiarity-aware_Evidence_Compression_for_Retrieval_Augmented_Generation.md)
 
     - [翻译: 基于熟悉度的证据压缩技术，助力检索增强生成](2024年09月19日/Familiarity-aware_Evidence_Compression_for_Retrieval_Augmented_Generation.md)
-
-- [FoodPuzzle: Developing Large Language Model Agents as Flavor Scientists](2024年09月19日/FoodPuzzle_Developing_Large_Language_Model_Agents_as_Flavor_Scientists.md)
-
-    - [翻译: FoodPuzzle：打造大型语言模型代理，化身风味科学家](2024年09月19日/FoodPuzzle_Developing_Large_Language_Model_Agents_as_Flavor_Scientists.md)
 
 - [GraspSAM: When Segment Anything Model Meets Grasp Detection](2024年09月19日/GraspSAM_When_Segment_Anything_Model_Meets_Grasp_Detection.md)
 
@@ -102,17 +94,9 @@
 
     - [翻译: LLM 能够自我检查，从而减少交通理解任务中的幻觉现象。](2024年09月19日/LLMs_Can_Check_Their_Own_Results_to_Mitigate_Hallucinations_in_Traffic_Understanding_Tasks.md)
 
-- [Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries](2024年09月19日/Michelangelo_Long_Context_Evaluations_Beyond_Haystacks_via_Latent_Structure_Queries.md)
-
-    - [翻译: Michelangelo：借助潜在结构查询，实现超越干草堆的长上下文精准评估](2024年09月19日/Michelangelo_Long_Context_Evaluations_Beyond_Haystacks_via_Latent_Structure_Queries.md)
-
 - [Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](2024年09月19日/Multi-View_Adaptive_Contrastive_Learning_for_Information_Retrieval_Based_Fault_Localization.md)
 
     - [翻译: 多视图自适应对比学习：信息检索中的故障定位新方法](2024年09月19日/Multi-View_Adaptive_Contrastive_Learning_for_Information_Retrieval_Based_Fault_Localization.md)
-
-- [Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models](2024年09月19日/Nigerian_Software_Engineer_or_American_Data_Scientist_GitHub_Profile_Recruitment_Bias_in_Large_Language_Models.md)
-
-    - [翻译: 尼日利亚软件工程师与美国数据科学家，谁更受青睐？大语言模型在 GitHub 个人资料招聘中的偏见探究。](2024年09月19日/Nigerian_Software_Engineer_or_American_Data_Scientist_GitHub_Profile_Recruitment_Bias_in_Large_Language_Models.md)
 
 - [PersonaFlow: Boosting Research Ideation with LLM-Simulated Expert Personas](2024年09月19日/PersonaFlow_Boosting_Research_Ideation_with_LLM-Simulated_Expert_Personas.md)
 
@@ -133,14 +117,6 @@
 - [Retrieval-Augmented Test Generation: How Far Are We?](2024年09月19日/Retrieval-Augmented_Test_Generation_How_Far_Are_We.md)
 
     - [翻译: 检索增强测试生成：我们还有多远的路要走？](2024年09月19日/Retrieval-Augmented_Test_Generation_How_Far_Are_We.md)
-
-- [Scaling FP8 training to trillion-token LLMs](2024年09月19日/Scaling_FP8_training_to_trillion-token_LLMs.md)
-
-    - [翻译: 扩展 FP8 训练至万亿 token 的 LLM](2024年09月19日/Scaling_FP8_training_to_trillion-token_LLMs.md)
-
-- [Scaling Smart: Accelerating Large Language Model Pre-training with Small Model Initialization](2024年09月19日/Scaling_Smart_Accelerating_Large_Language_Model_Pre-training_with_Small_Model_Initialization.md)
-
-    - [翻译: 智能扩展：从小模型起步，加速大型语言模型的预训练进程。](2024年09月19日/Scaling_Smart_Accelerating_Large_Language_Model_Pre-training_with_Small_Model_Initialization.md)
 
 - [Should RAG Chatbots Forget Unimportant Conversations? Exploring Importance and Forgetting with Psychological Insights](2024年09月19日/Should_RAG_Chatbots_Forget_Unimportant_Conversations_Exploring_Importance_and_Forgetting_with_Psychological_Insights.md)
 
