@@ -34,10 +34,6 @@
 
     - [翻译: 基于熟悉度的证据压缩技术，助力检索增强生成](2024年09月19日/Familiarity-aware_Evidence_Compression_for_Retrieval_Augmented_Generation.md)
 
-- [GraspSAM: When Segment Anything Model Meets Grasp Detection](2024年09月19日/GraspSAM_When_Segment_Anything_Model_Meets_Grasp_Detection.md)
-
-    - [翻译: GraspSAM：分割模型与抓取检测的邂逅](2024年09月19日/GraspSAM_When_Segment_Anything_Model_Meets_Grasp_Detection.md)
-
 - [Human Interest or Conflict? Leveraging LLMs for Automated Framing Analysis in TV Shows](2024年09月19日/Human_Interest_or_Conflict_Leveraging_LLMs_for_Automated_Framing_Analysis_in_TV_Shows.md)
 
     - [翻译: 电视节目中的框架分析：是人类兴趣还是冲突？借助 LLM 实现自动化分析。](2024年09月19日/Human_Interest_or_Conflict_Leveraging_LLMs_for_Automated_Framing_Analysis_in_TV_Shows.md)
@@ -58,14 +54,6 @@
 
     - [翻译: LLM 能够自我检查，从而减少交通理解任务中的幻觉现象。](2024年09月19日/LLMs_Can_Check_Their_Own_Results_to_Mitigate_Hallucinations_in_Traffic_Understanding_Tasks.md)
 
-- [Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](2024年09月19日/Multi-View_Adaptive_Contrastive_Learning_for_Information_Retrieval_Based_Fault_Localization.md)
-
-    - [翻译: 多视图自适应对比学习：信息检索中的故障定位新方法](2024年09月19日/Multi-View_Adaptive_Contrastive_Learning_for_Information_Retrieval_Based_Fault_Localization.md)
-
-- [PersonaFlow: Boosting Research Ideation with LLM-Simulated Expert Personas](2024年09月19日/PersonaFlow_Boosting_Research_Ideation_with_LLM-Simulated_Expert_Personas.md)
-
-    - [翻译: PersonaFlow：借助 LLM 模拟的专家角色，激发研究创意的飞跃。](2024年09月19日/PersonaFlow_Boosting_Research_Ideation_with_LLM-Simulated_Expert_Personas.md)
-
 - [Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer's Disease Detection](2024年09月19日/Profiling_Patient_Transcript_Using_Large_Language_Model_Reasoning_Augmentation_for_Alzheimer's_Disease_Detection.md)
 
     - [翻译: 借助大型语言模型的推理增强，分析患者转录，助力阿尔茨海默病的精准检测。](2024年09月19日/Profiling_Patient_Transcript_Using_Large_Language_Model_Reasoning_Augmentation_for_Alzheimer's_Disease_Detection.md)
@@ -77,18 +65,6 @@
 - [Retrieval-Augmented Test Generation: How Far Are We?](2024年09月19日/Retrieval-Augmented_Test_Generation_How_Far_Are_We.md)
 
     - [翻译: 检索增强测试生成：我们还有多远的路要走？](2024年09月19日/Retrieval-Augmented_Test_Generation_How_Far_Are_We.md)
-
-- [Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories](2024年09月19日/Text2Traj2Text_Learning-by-Synthesis_Framework_for_Contextual_Captioning_of_Human_Movement_Trajectories.md)
-
-    - [翻译: Text2Traj2Text：一种通过合成学习来描述人类运动轨迹的上下文框架](2024年09月19日/Text2Traj2Text_Learning-by-Synthesis_Framework_for_Contextual_Captioning_of_Human_Movement_Trajectories.md)
-
-- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework](2024年09月19日/Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-Making_Framework.md)
-
-    - [翻译: 迈向交互式与可学习协作驾驶自动化：基于大型语言模型的决策框架](2024年09月19日/Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-Making_Framework.md)
-
-- [Towards Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation: An Empirical Study](2024年09月19日/Towards_Testing_and_Evaluating_Vision-Language-Action_Models_for_Robotic_Manipulation_An_Empirical_Study.md)
-
-    - [翻译: 探索机器人操作中视觉-语言-动作模型的测试与评估：一项实证研究](2024年09月19日/Towards_Testing_and_Evaluating_Vision-Language-Action_Models_for_Robotic_Manipulation_An_Empirical_Study.md)
 
 - [Training Language Models to Self-Correct via Reinforcement Learning](2024年09月19日/Training_Language_Models_to_Self-Correct_via_Reinforcement_Learning.md)
 
