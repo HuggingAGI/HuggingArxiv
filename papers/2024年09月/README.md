@@ -2,17 +2,9 @@
 
 2024年09月19日
 
-- [Assessing the Zero-Shot Capabilities of LLMs for Action Evaluation in RL](2024年09月19日/Assessing_the_Zero-Shot_Capabilities_of_LLMs_for_Action_Evaluation_in_RL.md)
-
-    - [翻译: 探究 LLM 在强化学习中动作评估的零-shot 表现](2024年09月19日/Assessing_the_Zero-Shot_Capabilities_of_LLMs_for_Action_Evaluation_in_RL.md)
-
 - [CamelEval: Advancing Culturally Aligned Arabic Language Models and Benchmarks](2024年09月19日/CamelEval_Advancing_Culturally_Aligned_Arabic_Language_Models_and_Benchmarks.md)
 
     - [翻译: CamelEval：推动文化契合的阿拉伯语模型与基准发展](2024年09月19日/CamelEval_Advancing_Culturally_Aligned_Arabic_Language_Models_and_Benchmarks.md)
-
-- [Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case](2024年09月19日/Can_VLMs_Play_Action_Role-Playing_Games_Take_Black_Myth_Wukong_as_a_Study_Case.md)
-
-    - [翻译: VLMs 能否驾驭动作角色扮演游戏？让我们以《黑神话：悟空》为例，一探究竟。](2024年09月19日/Can_VLMs_Play_Action_Role-Playing_Games_Take_Black_Myth_Wukong_as_a_Study_Case.md)
 
 - [CLAIR-A: Leveraging Large Language Models to Judge Audio Captions](2024年09月19日/CLAIR-A_Leveraging_Large_Language_Models_to_Judge_Audio_Captions.md)
 
@@ -50,17 +42,9 @@
 
     - [翻译: 电视节目中的框架分析：是人类兴趣还是冲突？借助 LLM 实现自动化分析。](2024年09月19日/Human_Interest_or_Conflict_Leveraging_LLMs_for_Automated_Framing_Analysis_in_TV_Shows.md)
 
-- [InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning](2024年09月19日/InfiMM-WebMath-40B_Advancing_Multimodal_Pre-Training_for_Enhanced_Mathematical_Reasoning.md)
-
-    - [翻译: InfiMM-WebMath-40B：通过多模态预训练提升数学推理能力](2024年09月19日/InfiMM-WebMath-40B_Advancing_Multimodal_Pre-Training_for_Enhanced_Mathematical_Reasoning.md)
-
 - [Interpolating Video-LLMs: Toward Longer-sequence LMMs in a Training-free Manner](2024年09月19日/Interpolating_Video-LLMs_Toward_Longer-sequence_LMMs_in_a_Training-free_Manner.md)
 
     - [翻译: 视频-LLMs 插值：无需训练，实现更长序列 LMMs](2024年09月19日/Interpolating_Video-LLMs_Toward_Longer-sequence_LMMs_in_a_Training-free_Manner.md)
-
-- [JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images](2024年09月19日/JourneyBench_A_Challenging_One-Stop_Vision-Language_Understanding_Benchmark_of_Generated_Images.md)
-
-    - [翻译: JourneyBench：一个集挑战性与综合性于一体的生成图像视觉语言理解基准](2024年09月19日/JourneyBench_A_Challenging_One-Stop_Vision-Language_Understanding_Benchmark_of_Generated_Images.md)
 
 - [Knowledge-Based Domain-Oriented Data Augmentation for Enhancing Unsupervised Sentence Embedding](2024年09月19日/Knowledge-Based_Domain-Oriented_Data_Augmentation_for_Enhancing_Unsupervised_Sentence_Embedding.md)
 
@@ -94,17 +78,9 @@
 
     - [翻译: 检索增强测试生成：我们还有多远的路要走？](2024年09月19日/Retrieval-Augmented_Test_Generation_How_Far_Are_We.md)
 
-- [Should RAG Chatbots Forget Unimportant Conversations? Exploring Importance and Forgetting with Psychological Insights](2024年09月19日/Should_RAG_Chatbots_Forget_Unimportant_Conversations_Exploring_Importance_and_Forgetting_with_Psychological_Insights.md)
-
-    - [翻译: RAG 聊天机器人是否该遗忘无关紧要的对话？让我们从心理学角度探讨重要性与遗忘机制。](2024年09月19日/Should_RAG_Chatbots_Forget_Unimportant_Conversations_Exploring_Importance_and_Forgetting_with_Psychological_Insights.md)
-
 - [Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories](2024年09月19日/Text2Traj2Text_Learning-by-Synthesis_Framework_for_Contextual_Captioning_of_Human_Movement_Trajectories.md)
 
     - [翻译: Text2Traj2Text：一种通过合成学习来描述人类运动轨迹的上下文框架](2024年09月19日/Text2Traj2Text_Learning-by-Synthesis_Framework_for_Contextual_Captioning_of_Human_Movement_Trajectories.md)
-
-- [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](2024年09月19日/TinyVLA_Towards_Fast,_Data-Efficient_Vision-Language-Action_Models_for_Robotic_Manipulation.md)
-
-    - [翻译: TinyVLA：为机器人操作打造快速、数据高效的视觉-语言-动作模型](2024年09月19日/TinyVLA_Towards_Fast,_Data-Efficient_Vision-Language-Action_Models_for_Robotic_Manipulation.md)
 
 - [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework](2024年09月19日/Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-Making_Framework.md)
 
