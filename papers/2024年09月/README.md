@@ -18,10 +18,6 @@
 
     - [翻译: AQA：在 LLM 社会中，通过上下文多臂老虎机实现自适应问答](2024年09月20日/AQA_Adaptive_Question_Answering_in_a_Society_of_LLMs_via_Contextual_Multi-Armed_Bandit.md)
 
-- [Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation](2024年09月20日/Automatic_Behavior_Tree_Expansion_with_LLMs_for_Robotic_Manipulation.md)
-
-    - [翻译: 利用 LLM 实现机器人操作的自动行为树扩展](2024年09月20日/Automatic_Behavior_Tree_Expansion_with_LLMs_for_Robotic_Manipulation.md)
-
 - [Beyond Accuracy Optimization: Computer Vision Losses for Large Language Model Fine-Tuning](2024年09月20日/Beyond_Accuracy_Optimization_Computer_Vision_Losses_for_Large_Language_Model_Fine-Tuning.md)
 
     - [翻译: 不仅仅是准确性：计算机视觉损失在大型语言模型微调中的应用](2024年09月20日/Beyond_Accuracy_Optimization_Computer_Vision_Losses_for_Large_Language_Model_Fine-Tuning.md)
@@ -74,14 +70,6 @@
 
     - [翻译: 嘿，机器人！借助大型语言模型与模型预测控制，为机器人导航增添个性化色彩。](2024年09月20日/Hey_Robot!_Personalizing_Robot_Navigation_through_Model_Predictive_Control_with_a_Large_Language_Model.md)
 
-- [JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models](2024年09月20日/JMedBench_A_Benchmark_for_Evaluating_Japanese_Biomedical_Large_Language_Models.md)
-
-    - [翻译: JMedBench：日本生物医学大型语言模型的评估基准](2024年09月20日/JMedBench_A_Benchmark_for_Evaluating_Japanese_Biomedical_Large_Language_Models.md)
-
-- [Large Language Model Should Understand Pinyin for Chinese ASR Error Correction](2024年09月20日/Large_Language_Model_Should_Understand_Pinyin_for_Chinese_ASR_Error_Correction.md)
-
-    - [翻译: 大型语言模型需掌握拼音，以提升中文语音识别的纠错能力。](2024年09月20日/Large_Language_Model_Should_Understand_Pinyin_for_Chinese_ASR_Error_Correction.md)
-
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](2024年09月20日/LLMs_Still_Can't_Plan;_Can_LRMs_A_Preliminary_Evaluation_of_OpenAI's_o1_on_PlanBench.md)
 
     - [翻译: LLM 在规划方面仍显不足，那么 LRM 能否胜任？本文对 OpenAI 的 o1 在 PlanBench 上的表现进行了初步评估。](2024年09月20日/LLMs_Still_Can't_Plan;_Can_LRMs_A_Preliminary_Evaluation_of_OpenAI's_o1_on_PlanBench.md)
@@ -98,10 +86,6 @@
 
     - [翻译: 多模态生成先验赋能的肖像视频编辑](2024年09月20日/Portrait_Video_Editing_Empowered_by_Multimodal_Generative_Priors.md)
 
-- [Recent Advancement of Emotion Cognition in Large Language Models](2024年09月20日/Recent_Advancement_of_Emotion_Cognition_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中情感认知的最新进展](2024年09月20日/Recent_Advancement_of_Emotion_Cognition_in_Large_Language_Models.md)
-
 - [Region Prompt Tuning: Fine-grained Scene Text Detection Utilizing Region Text Prompt](2024年09月20日/Region_Prompt_Tuning_Fine-grained_Scene_Text_Detection_Utilizing_Region_Text_Prompt.md)
 
     - [翻译: 区域提示调优：通过区域文本提示实现精细场景文本检测](2024年09月20日/Region_Prompt_Tuning_Fine-grained_Scene_Text_Detection_Utilizing_Region_Text_Prompt.md)
@@ -109,10 +93,6 @@
 - ['Since Lawyers are Males..': Examining Implicit Gender Bias in Hindi Language Generation by LLMs](2024年09月20日/'Since_Lawyers_are_Males..'_Examining_Implicit_Gender_Bias_in_Hindi_Language_Generation_by_LLMs.md)
 
     - [翻译: “既然律师是男性……”：探究 LLM 在印地语生成中的隐性性别偏见](2024年09月20日/'Since_Lawyers_are_Males..'_Examining_Implicit_Gender_Bias_in_Hindi_Language_Generation_by_LLMs.md)
-
-- [Skill-Adpative Imitation Learning for UI Test Reuse](2024年09月20日/Skill-Adpative_Imitation_Learning_for_UI_Test_Reuse.md)
-
-    - [翻译: UI 测试重用的技能适应性模仿学习](2024年09月20日/Skill-Adpative_Imitation_Learning_for_UI_Test_Reuse.md)
 
 - [SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation](2024年09月20日/SLaVA-CXR_Small_Language_and_Vision_Assistant_for_Chest_X-ray_Report_Automation.md)
 
@@ -125,10 +105,6 @@
 - [The Impact of Large Language Models in Academia: from Writing to Speaking](2024年09月20日/The_Impact_of_Large_Language_Models_in_Academia_from_Writing_to_Speaking.md)
 
     - [翻译: 大型语言模型正深刻影响学术界，从写作到演讲，无所不在。](2024年09月20日/The_Impact_of_Large_Language_Models_in_Academia_from_Writing_to_Speaking.md)
-
-- [Time Awareness in Large Language Models: Benchmarking Fact Recall Across Time](2024年09月20日/Time_Awareness_in_Large_Language_Models_Benchmarking_Fact_Recall_Across_Time.md)
-
-    - [翻译: 大型语言模型的时间感知能力：跨越时间的事实回忆基准测试](2024年09月20日/Time_Awareness_in_Large_Language_Models_Benchmarking_Fact_Recall_Across_Time.md)
 
 - [Towards LifeSpan Cognitive Systems](2024年09月20日/Towards_LifeSpan_Cognitive_Systems.md)
 
