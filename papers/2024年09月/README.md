@@ -2,10 +2,6 @@
 
 2024年09月20日
 
-- [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](2024年09月20日/Alternate_Preference_Optimization_for_Unlearning_Factual_Knowledge_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中遗忘事实知识的替代偏好优化策略](2024年09月20日/Alternate_Preference_Optimization_for_Unlearning_Factual_Knowledge_in_Large_Language_Models.md)
-
 - [A Novel Adaptive Fine-Tuning Algorithm for Multimodal Models: Self-Optimizing Classification and Selection of High-Quality Datasets in Remote Sensing](2024年09月20日/A_Novel_Adaptive_Fine-Tuning_Algorithm_for_Multimodal_Models_Self-Optimizing_Classification_and_Selection_of_High-Quality_Datasets_in_Remote_Sensing.md)
 
     - [翻译: 一种创新的多模态模型自适应微调算法，专为遥感领域设计，能够自我优化分类并精选高质量数据集。](2024年09月20日/A_Novel_Adaptive_Fine-Tuning_Algorithm_for_Multimodal_Models_Self-Optimizing_Classification_and_Selection_of_High-Quality_Datasets_in_Remote_Sensing.md)
@@ -26,14 +22,6 @@
 
     - [翻译: CFSP：一种高效的大型语言模型结构化剪枝框架，通过粗到细的激活信息实现优化。](2024年09月20日/CFSP_An_Efficient_Structured_Pruning_Framework_for_LLMs_with_Coarse-to-Fine_Activation_Information.md)
 
-- [ChainBuddy: An AI Agent System for Generating LLM Pipelines](2024年09月20日/ChainBuddy_An_AI_Agent_System_for_Generating_LLM_Pipelines.md)
-
-    - [翻译: ChainBuddy：打造 LLM 管道的 AI 助手](2024年09月20日/ChainBuddy_An_AI_Agent_System_for_Generating_LLM_Pipelines.md)
-
-- [Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models](2024年09月20日/Constrained_Reasoning_Chains_for_Enhancing_Theory-of-Mind_in_Large_Language_Models.md)
-
-    - [翻译: 通过约束推理链提升大型语言模型的心智理论能力](2024年09月20日/Constrained_Reasoning_Chains_for_Enhancing_Theory-of-Mind_in_Large_Language_Models.md)
-
 - [Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey](2024年09月20日/Contextual_Compression_in_Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey.md)
 
     - [翻译: 大型语言模型中检索增强生成的上下文压缩研究](2024年09月20日/Contextual_Compression_in_Retrieval-Augmented_Generation_for_Large_Language_Models_A_Survey.md)
@@ -42,10 +30,6 @@
 
     - [翻译: 计算笔记本中的数据整理代码生成，融入上下文情境](2024年09月20日/Contextualized_Data-Wrangling_Code_Generation_in_Computational_Notebooks.md)
 
-- [EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models](2024年09月20日/EmotionQueen_A_Benchmark_for_Evaluating_Empathy_of_Large_Language_Models.md)
-
-    - [翻译: EmotionQueen：评估大型语言模型同理心的标杆](2024年09月20日/EmotionQueen_A_Benchmark_for_Evaluating_Empathy_of_Large_Language_Models.md)
-
 - [Enhancing Fault Localization Through Ordered Code Analysis with LLM Agents and Self-Reflection](2024年09月20日/Enhancing_Fault_Localization_Through_Ordered_Code_Analysis_with_LLM_Agents_and_Self-Reflection.md)
 
     - [翻译: 利用 LLM 代理和自我反思进行有序代码分析，提升故障定位的精准度](2024年09月20日/Enhancing_Fault_Localization_Through_Ordered_Code_Analysis_with_LLM_Agents_and_Self-Reflection.md)
@@ -53,10 +37,6 @@
 - [Exploring Scaling Laws for Local SGD in Large Language Model Training](2024年09月20日/Exploring_Scaling_Laws_for_Local_SGD_in_Large_Language_Model_Training.md)
 
     - [翻译: 探究大规模语言模型训练中局部随机梯度下降的缩放规律](2024年09月20日/Exploring_Scaling_Laws_for_Local_SGD_in_Large_Language_Model_Training.md)
-
-- [Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper](2024年09月20日/Fast_Streaming_Transducer_ASR_Prototyping_via_Knowledge_Distillation_with_Whisper.md)
-
-    - [翻译: 借助 Whisper 的知识蒸馏，快速打造流式转录器 ASR 原型](2024年09月20日/Fast_Streaming_Transducer_ASR_Prototyping_via_Knowledge_Distillation_with_Whisper.md)
 
 - [FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs](2024年09月20日/FIHA_Autonomous_Hallucination_Evaluation_in_Vision-Language_Models_with_Davidson_Scene_Graphs.md)
 
@@ -89,10 +69,6 @@
 - [Region Prompt Tuning: Fine-grained Scene Text Detection Utilizing Region Text Prompt](2024年09月20日/Region_Prompt_Tuning_Fine-grained_Scene_Text_Detection_Utilizing_Region_Text_Prompt.md)
 
     - [翻译: 区域提示调优：通过区域文本提示实现精细场景文本检测](2024年09月20日/Region_Prompt_Tuning_Fine-grained_Scene_Text_Detection_Utilizing_Region_Text_Prompt.md)
-
-- ['Since Lawyers are Males..': Examining Implicit Gender Bias in Hindi Language Generation by LLMs](2024年09月20日/'Since_Lawyers_are_Males..'_Examining_Implicit_Gender_Bias_in_Hindi_Language_Generation_by_LLMs.md)
-
-    - [翻译: “既然律师是男性……”：探究 LLM 在印地语生成中的隐性性别偏见](2024年09月20日/'Since_Lawyers_are_Males..'_Examining_Implicit_Gender_Bias_in_Hindi_Language_Generation_by_LLMs.md)
 
 - [SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation](2024年09月20日/SLaVA-CXR_Small_Language_and_Vision_Assistant_for_Chest_X-ray_Report_Automation.md)
 
