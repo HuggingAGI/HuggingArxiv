@@ -1,5 +1,5 @@
 # 探索信息检索的新天地：调查创新评估技术与文档分割方法的比较
-发布时间：2024年09月12日
+发布时间：2024年09月20日
 
 `RAG`
 > Exploring Information Retrieval Landscapes: An Investigation of a Novel Evaluation Techniques and Comparative Document Splitting Methods
