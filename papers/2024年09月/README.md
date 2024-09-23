@@ -10,14 +10,6 @@
 
     - [翻译: 利用预训练的多语言 BERT 嵌入技术，提升恶意提示注入攻击的检测效率](2024年09月20日/Applying_Pre-trained_Multilingual_BERT_in_Embeddings_for_Improved_Malicious_Prompt_Injection_Attacks_Detection.md)
 
-- [AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit](2024年09月20日/AQA_Adaptive_Question_Answering_in_a_Society_of_LLMs_via_Contextual_Multi-Armed_Bandit.md)
-
-    - [翻译: AQA：在 LLM 社会中，通过上下文多臂老虎机实现自适应问答](2024年09月20日/AQA_Adaptive_Question_Answering_in_a_Society_of_LLMs_via_Contextual_Multi-Armed_Bandit.md)
-
-- [Beyond Accuracy Optimization: Computer Vision Losses for Large Language Model Fine-Tuning](2024年09月20日/Beyond_Accuracy_Optimization_Computer_Vision_Losses_for_Large_Language_Model_Fine-Tuning.md)
-
-    - [翻译: 不仅仅是准确性：计算机视觉损失在大型语言模型微调中的应用](2024年09月20日/Beyond_Accuracy_Optimization_Computer_Vision_Losses_for_Large_Language_Model_Fine-Tuning.md)
-
 - [CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information](2024年09月20日/CFSP_An_Efficient_Structured_Pruning_Framework_for_LLMs_with_Coarse-to-Fine_Activation_Information.md)
 
     - [翻译: CFSP：一种高效的大型语言模型结构化剪枝框架，通过粗到细的激活信息实现优化。](2024年09月20日/CFSP_An_Efficient_Structured_Pruning_Framework_for_LLMs_with_Coarse-to-Fine_Activation_Information.md)
@@ -54,14 +46,6 @@
 
     - [翻译: LLM 在规划方面仍显不足，那么 LRM 能否胜任？本文对 OpenAI 的 o1 在 PlanBench 上的表现进行了初步评估。](2024年09月20日/LLMs_Still_Can't_Plan;_Can_LRMs_A_Preliminary_Evaluation_of_OpenAI's_o1_on_PlanBench.md)
 
-- [OATS: Outlier-Aware Pruning Through Sparse and Low Rank Decomposition](2024年09月20日/OATS_Outlier-Aware_Pruning_Through_Sparse_and_Low_Rank_Decomposition.md)
-
-    - [翻译: OATS：利用稀疏与低秩分解技术，实现对异常值的智能剪枝](2024年09月20日/OATS_Outlier-Aware_Pruning_Through_Sparse_and_Low_Rank_Decomposition.md)
-
-- [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](2024年09月20日/OLiVia-Nav_An_Online_Lifelong_Vision_Language_Approach_for_Mobile_Robot_Social_Navigation.md)
-
-    - [翻译: OLiVia-Nav：为移动机器人社交导航量身定制的在线终身视觉语言解决方案](2024年09月20日/OLiVia-Nav_An_Online_Lifelong_Vision_Language_Approach_for_Mobile_Robot_Social_Navigation.md)
-
 - [Portrait Video Editing Empowered by Multimodal Generative Priors](2024年09月20日/Portrait_Video_Editing_Empowered_by_Multimodal_Generative_Priors.md)
 
     - [翻译: 多模态生成先验赋能的肖像视频编辑](2024年09月20日/Portrait_Video_Editing_Empowered_by_Multimodal_Generative_Priors.md)
@@ -77,11 +61,3 @@
 - [State space models, emergence, and ergodicity: How many parameters are needed for stable predictions?](2024年09月20日/State_space_models,_emergence,_and_ergodicity_How_many_parameters_are_needed_for_stable_predictions.md)
 
     - [翻译: 状态空间模型、涌现性与遍历性：稳定预测究竟需要多少参数？](2024年09月20日/State_space_models,_emergence,_and_ergodicity_How_many_parameters_are_needed_for_stable_predictions.md)
-
-- [The Impact of Large Language Models in Academia: from Writing to Speaking](2024年09月20日/The_Impact_of_Large_Language_Models_in_Academia_from_Writing_to_Speaking.md)
-
-    - [翻译: 大型语言模型正深刻影响学术界，从写作到演讲，无所不在。](2024年09月20日/The_Impact_of_Large_Language_Models_in_Academia_from_Writing_to_Speaking.md)
-
-- [Towards LifeSpan Cognitive Systems](2024年09月20日/Towards_LifeSpan_Cognitive_Systems.md)
-
-    - [翻译: 迈向生命周期认知系统](2024年09月20日/Towards_LifeSpan_Cognitive_Systems.md)
