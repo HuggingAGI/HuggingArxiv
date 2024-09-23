@@ -190,7 +190,7 @@
 
 - [Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](2024年09月19日/Manipulation_Facing_Threats_Evaluating_Physical_Vulnerabilities_in_End-to-End_Vision_Language_Action_Models.md)
 
-    - [翻译: 面对威胁的操作：评估端到端视觉语言动作模型中的物理脆弱性](2024年09月19日/Manipulation_Facing_Threats_Evaluating_Physical_Vulnerabilities_in_End-to-End_Vision_Language_Action_Models.md)
+    - [翻译: 操作面临威胁：评估端到端视觉语言动作模型中的物理脆弱性](2024年09月19日/Manipulation_Facing_Threats_Evaluating_Physical_Vulnerabilities_in_End-to-End_Vision_Language_Action_Models.md)
 
 - [RRM: Robust Reward Model Training Mitigates Reward Hacking](2024年09月19日/RRM_Robust_Reward_Model_Training_Mitigates_Reward_Hacking.md)
 
@@ -203,9 +203,3 @@
 - [UniTabNet: Bridging Vision and Language Models for Enhanced Table Structure Recognition](2024年09月19日/UniTabNet_Bridging_Vision_and_Language_Models_for_Enhanced_Table_Structure_Recognition.md)
 
     - [翻译: UniTabNet：融合视觉与语言模型，提升表格结构识别能力](2024年09月19日/UniTabNet_Bridging_Vision_and_Language_Models_for_Enhanced_Table_Structure_Recognition.md)
-
-2024年09月03日
-
-- [Large Language Model-Enhanced Interactive Agent for Public Education on Newborn Auricular Deformities](2024年09月03日/Large_Language_Model-Enhanced_Interactive_Agent_for_Public_Education_on_Newborn_Auricular_Deformities.md)
-
-    - [翻译: 大型语言模型赋能的互动代理，助力新生儿耳部畸形的公众教育](2024年09月03日/Large_Language_Model-Enhanced_Interactive_Agent_for_Public_Education_on_Newborn_Auricular_Deformities.md)
