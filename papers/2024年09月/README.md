@@ -176,29 +176,9 @@
 
     - [翻译: AutoVerus：Rust 代码的自动化证明生成工具](2024年09月19日/AutoVerus_Automated_Proof_Generation_for_Rust_Code.md)
 
-- [ChemDFM-X: Towards Large Multimodal Model for Chemistry](2024年09月19日/ChemDFM-X_Towards_Large_Multimodal_Model_for_Chemistry.md)
-
-    - [翻译: ChemDFM-X：迈向化学领域的大型多模态模型](2024年09月19日/ChemDFM-X_Towards_Large_Multimodal_Model_for_Chemistry.md)
-
 - [: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models](2024年09月19日/_Internalizing_Symbolic_Knowledge_for_Distilling_Better_CoT_Capabilities_into_Small_Language_Models.md)
 
     - [翻译: 通过内化符号知识，提升小语言模型的 CoT 能力](2024年09月19日/_Internalizing_Symbolic_Knowledge_for_Distilling_Better_CoT_Capabilities_into_Small_Language_Models.md)
-
-- [Leveraging Audio-Only Data for Text-Queried Target Sound Extraction](2024年09月19日/Leveraging_Audio-Only_Data_for_Text-Queried_Target_Sound_Extraction.md)
-
-    - [翻译: 借助纯音频数据，实现文本查询的目标声音提取](2024年09月19日/Leveraging_Audio-Only_Data_for_Text-Queried_Target_Sound_Extraction.md)
-
-- [Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](2024年09月19日/Manipulation_Facing_Threats_Evaluating_Physical_Vulnerabilities_in_End-to-End_Vision_Language_Action_Models.md)
-
-    - [翻译: 操作面临威胁：评估端到端视觉语言动作模型中的物理脆弱性](2024年09月19日/Manipulation_Facing_Threats_Evaluating_Physical_Vulnerabilities_in_End-to-End_Vision_Language_Action_Models.md)
-
-- [RRM: Robust Reward Model Training Mitigates Reward Hacking](2024年09月19日/RRM_Robust_Reward_Model_Training_Mitigates_Reward_Hacking.md)
-
-    - [翻译: RRM：通过鲁棒奖励模型训练，有效缓解奖励黑客攻击问题。](2024年09月19日/RRM_Robust_Reward_Model_Training_Mitigates_Reward_Hacking.md)
-
-- [Towards Robust Automation of Surgical Systems via Digital Twin-based Scene Representations from Foundation Models](2024年09月19日/Towards_Robust_Automation_of_Surgical_Systems_via_Digital_Twin-based_Scene_Representations_from_Foundation_Models.md)
-
-    - [翻译: 借助基础模型的数字孪生场景表示，迈向外科系统稳健自动化的未来](2024年09月19日/Towards_Robust_Automation_of_Surgical_Systems_via_Digital_Twin-based_Scene_Representations_from_Foundation_Models.md)
 
 - [UniTabNet: Bridging Vision and Language Models for Enhanced Table Structure Recognition](2024年09月19日/UniTabNet_Bridging_Vision_and_Language_Models_for_Enhanced_Table_Structure_Recognition.md)
 
