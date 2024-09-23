@@ -82,10 +82,6 @@
 
     - [翻译: 嘿，机器人！借助大型语言模型与模型预测控制，为机器人导航增添个性化色彩。](2024年09月20日/Hey_Robot!_Personalizing_Robot_Navigation_through_Model_Predictive_Control_with_a_Large_Language_Model.md)
 
-- [Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model](2024年09月20日/Instruction-guided_Multi-Granularity_Segmentation_and_Captioning_with_Large_Multimodal_Model.md)
-
-    - [翻译: 大型多模态模型在指令引导下实现多粒度分割与标题生成](2024年09月20日/Instruction-guided_Multi-Granularity_Segmentation_and_Captioning_with_Large_Multimodal_Model.md)
-
 - [JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models](2024年09月20日/JMedBench_A_Benchmark_for_Evaluating_Japanese_Biomedical_Large_Language_Models.md)
 
     - [翻译: JMedBench：日本生物医学大型语言模型的评估基准](2024年09月20日/JMedBench_A_Benchmark_for_Evaluating_Japanese_Biomedical_Large_Language_Models.md)
@@ -158,28 +154,6 @@
 
     - [翻译: 大型语言模型的时间感知能力：跨越时间的事实回忆基准测试](2024年09月20日/Time_Awareness_in_Large_Language_Models_Benchmarking_Fact_Recall_Across_Time.md)
 
-- [Towards Child-Inclusive Clinical Video Understanding for Autism Spectrum Disorder](2024年09月20日/Towards_Child-Inclusive_Clinical_Video_Understanding_for_Autism_Spectrum_Disorder.md)
-
-    - [翻译: 探索自闭症谱系障碍儿童的临床视频理解](2024年09月20日/Towards_Child-Inclusive_Clinical_Video_Understanding_for_Autism_Spectrum_Disorder.md)
-
 - [Towards LifeSpan Cognitive Systems](2024年09月20日/Towards_LifeSpan_Cognitive_Systems.md)
 
     - [翻译: 迈向生命周期认知系统](2024年09月20日/Towards_LifeSpan_Cognitive_Systems.md)
-
-2024年09月19日
-
-- [An Adaptive End-to-End IoT Security Framework Using Explainable AI and LLMs](2024年09月19日/An_Adaptive_End-to-End_IoT_Security_Framework_Using_Explainable_AI_and_LLMs.md)
-
-    - [翻译: 采用可解释 AI 与 LLM 技术的自适应端到端物联网安全框架](2024年09月19日/An_Adaptive_End-to-End_IoT_Security_Framework_Using_Explainable_AI_and_LLMs.md)
-
-- [AutoVerus: Automated Proof Generation for Rust Code](2024年09月19日/AutoVerus_Automated_Proof_Generation_for_Rust_Code.md)
-
-    - [翻译: AutoVerus：Rust 代码的自动化证明生成工具](2024年09月19日/AutoVerus_Automated_Proof_Generation_for_Rust_Code.md)
-
-- [: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models](2024年09月19日/_Internalizing_Symbolic_Knowledge_for_Distilling_Better_CoT_Capabilities_into_Small_Language_Models.md)
-
-    - [翻译: 通过内化符号知识，提升小语言模型的 CoT 能力](2024年09月19日/_Internalizing_Symbolic_Knowledge_for_Distilling_Better_CoT_Capabilities_into_Small_Language_Models.md)
-
-- [UniTabNet: Bridging Vision and Language Models for Enhanced Table Structure Recognition](2024年09月19日/UniTabNet_Bridging_Vision_and_Language_Models_for_Enhanced_Table_Structure_Recognition.md)
-
-    - [翻译: UniTabNet：融合视觉与语言模型，提升表格结构识别能力](2024年09月19日/UniTabNet_Bridging_Vision_and_Language_Models_for_Enhanced_Table_Structure_Recognition.md)
