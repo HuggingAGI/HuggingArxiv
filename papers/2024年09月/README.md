@@ -26,10 +26,6 @@
 
     - [翻译: 不仅仅是准确性：计算机视觉损失在大型语言模型微调中的应用](2024年09月20日/Beyond_Accuracy_Optimization_Computer_Vision_Losses_for_Large_Language_Model_Fine-Tuning.md)
 
-- [BoilerTAI: A Platform for Enhancing Instruction Using Generative AI in Educational Forums](2024年09月20日/BoilerTAI_A_Platform_for_Enhancing_Instruction_Using_Generative_AI_in_Educational_Forums.md)
-
-    - [翻译: BoilerTAI：教育论坛中利用生成式 AI 提升指导效果的平台](2024年09月20日/BoilerTAI_A_Platform_for_Enhancing_Instruction_Using_Generative_AI_in_Educational_Forums.md)
-
 - [CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information](2024年09月20日/CFSP_An_Efficient_Structured_Pruning_Framework_for_LLMs_with_Coarse-to-Fine_Activation_Information.md)
 
     - [翻译: CFSP：一种高效的大型语言模型结构化剪枝框架，通过粗到细的激活信息实现优化。](2024年09月20日/CFSP_An_Efficient_Structured_Pruning_Framework_for_LLMs_with_Coarse-to-Fine_Activation_Information.md)
@@ -37,10 +33,6 @@
 - [ChainBuddy: An AI Agent System for Generating LLM Pipelines](2024年09月20日/ChainBuddy_An_AI_Agent_System_for_Generating_LLM_Pipelines.md)
 
     - [翻译: ChainBuddy：打造 LLM 管道的 AI 助手](2024年09月20日/ChainBuddy_An_AI_Agent_System_for_Generating_LLM_Pipelines.md)
-
-- [CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance](2024年09月20日/CITI_Enhancing_Tool_Utilizing_Ability_in_Large_Language_Models_without_Sacrificing_General_Performance.md)
-
-    - [翻译: CITI：提升大型语言模型的工具使用能力，同时不降低其通用性能](2024年09月20日/CITI_Enhancing_Tool_Utilizing_Ability_in_Large_Language_Models_without_Sacrificing_General_Performance.md)
 
 - [Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models](2024年09月20日/Constrained_Reasoning_Chains_for_Enhancing_Theory-of-Mind_in_Large_Language_Models.md)
 
@@ -94,10 +86,6 @@
 
     - [翻译: LLM 在规划方面仍显不足，那么 LRM 能否胜任？本文对 OpenAI 的 o1 在 PlanBench 上的表现进行了初步评估。](2024年09月20日/LLMs_Still_Can't_Plan;_Can_LRMs_A_Preliminary_Evaluation_of_OpenAI's_o1_on_PlanBench.md)
 
-- [Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks](2024年09月20日/Neural-Symbolic_Collaborative_Distillation_Advancing_Small_Language_Models_for_Complex_Reasoning_Tasks.md)
-
-    - [翻译: 神经-符号协同蒸馏：助力小语言模型在复杂推理任务中更上一层楼](2024年09月20日/Neural-Symbolic_Collaborative_Distillation_Advancing_Small_Language_Models_for_Complex_Reasoning_Tasks.md)
-
 - [OATS: Outlier-Aware Pruning Through Sparse and Low Rank Decomposition](2024年09月20日/OATS_Outlier-Aware_Pruning_Through_Sparse_and_Low_Rank_Decomposition.md)
 
     - [翻译: OATS：利用稀疏与低秩分解技术，实现对异常值的智能剪枝](2024年09月20日/OATS_Outlier-Aware_Pruning_Through_Sparse_and_Low_Rank_Decomposition.md)
@@ -117,18 +105,6 @@
 - [Region Prompt Tuning: Fine-grained Scene Text Detection Utilizing Region Text Prompt](2024年09月20日/Region_Prompt_Tuning_Fine-grained_Scene_Text_Detection_Utilizing_Region_Text_Prompt.md)
 
     - [翻译: 区域提示调优：通过区域文本提示实现精细场景文本检测](2024年09月20日/Region_Prompt_Tuning_Fine-grained_Scene_Text_Detection_Utilizing_Region_Text_Prompt.md)
-
-- [RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion](2024年09月20日/RLHFuse_Efficient_RLHF_Training_for_Large_Language_Models_with_Inter-_and_Intra-Stage_Fusion.md)
-
-    - [翻译: RLHFuse：通过跨阶段与阶段内融合，为大型语言模型带来高效的 RLHF 训练。](2024年09月20日/RLHFuse_Efficient_RLHF_Training_for_Large_Language_Models_with_Inter-_and_Intra-Stage_Fusion.md)
-
-- [Selective Exploration and Information Gathering in Search and Rescue Using Hierarchical Learning Guided by Natural Language Input](2024年09月20日/Selective_Exploration_and_Information_Gathering_in_Search_and_Rescue_Using_Hierarchical_Learning_Guided_by_Natural_Language_Input.md)
-
-    - [翻译: 利用自然语言引导的分层学习，在搜索与救援任务中进行精准探索与信息收集](2024年09月20日/Selective_Exploration_and_Information_Gathering_in_Search_and_Rescue_Using_Hierarchical_Learning_Guided_by_Natural_Language_Input.md)
-
-- [ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources](2024年09月20日/ShizishanGPT_An_Agricultural_Large_Language_Model_Integrating_Tools_and_Resources.md)
-
-    - [翻译: ShizishanGPT：一款集成了工具与资源的农业领域大型语言模型](2024年09月20日/ShizishanGPT_An_Agricultural_Large_Language_Model_Integrating_Tools_and_Resources.md)
 
 - ['Since Lawyers are Males..': Examining Implicit Gender Bias in Hindi Language Generation by LLMs](2024年09月20日/'Since_Lawyers_are_Males..'_Examining_Implicit_Gender_Bias_in_Hindi_Language_Generation_by_LLMs.md)
 
