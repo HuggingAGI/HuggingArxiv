@@ -2,13 +2,13 @@
 
 发布时间：2024年09月22日
 
-`Agent` `自动驾驶` `汽车安全`
+`Agent` `自动驾驶` `网络安全`
 
 > Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks
 
 # 摘要
 
-> 随着自动驾驶系统与大型语言模型 (LLM) 的结合越来越受到关注，我们发现这些系统在面对对象检测和跟踪 (ODT) 攻击时显得尤为脆弱。我们的测试显示，四款最新 LLM 代理在 ODT 攻击下，有 63.26% 的概率会崩溃或违反交通规则，主要原因包括误导性记忆模块、提示识别不一致性的局限性以及对地面真实感知数据的依赖。为此，我们推出了 Hudson，一个专为提升驾驶安全而设计的推理代理。Hudson 通过实时收集驾驶场景的感知数据和上下文信息，并将其转化为特定领域的语言 (DSL)，从而在感知攻击期间做出更安全的决策。同时，Hudson 还能将 DSL 转换为自然语言，并附带自定义攻击检测指令，以指导 LLM 在攻击期间做出安全控制决策。在实际测试中，Hudson 与 GPT-4、Llama 和 Gemma 等 LLM 结合，分别在 83.3%、63.6% 和 73.6% 的攻击中成功检测到威胁，并在 86.4%、73.9% 和 80% 的攻击中做出了安全控制决策。这些结果不仅展示了 LLM 在自动驾驶系统中的潜力，也证明了它们在检测和缓解 ODT 攻击方面的强大能力。
+> 随着大型语言模型 (LLM) 与自动驾驶 (AD) 系统的结合越来越受到关注，AD 系统对对象检测和跟踪 (ODT) 功能的攻击也变得脆弱。不幸的是，我们的评估显示，四种最新的 LLM 代理在 ODT 攻击下，由于误导性记忆模块、提示识别不一致性的局限性以及依赖地面真实感知数据，导致崩溃或违反交通规则的成功率高达 63.26%。为此，我们推出了 Hudson，一个驾驶推理代理，它不仅扩展了基于 LLM 的驾驶系统，还在感知攻击期间实现了更安全的决策，同时在良性条件下保持高效。Hudson 通过收集实时感知结果和驾驶场景的上下文信息，将其形式化为特定领域的语言 (DSL)，并转换为自然语言，附带自定义攻击检测指令，指导 LLM 在 ODT 攻击期间做出安全决策。在对抗性驾驶场景中，我们使用 GPT-4、Llama 和 Gemma 评估了 Hudson 的有效性。结果显示，GPT-4、Llama 和 Gemma 的平均攻击检测准确率分别为 83.3%、63.6% 和 73.6%，并在 86.4%、73.9% 和 80% 的攻击中做出了安全的控制决策。这不仅突显了 LLM 的优势，也展示了其在检测和缓解 ODT 攻击方面的巨大潜力。
 
 > There is a growing interest in integrating Large Language Models (LLMs) with autonomous driving (AD) systems. However, AD systems are vulnerable to attacks against their object detection and tracking (ODT) functions. Unfortunately, our evaluation of four recent LLM agents against ODT attacks shows that the attacks are 63.26% successful in causing them to crash or violate traffic rules due to (1) misleading memory modules that provide past experiences for decision making, (2) limitations of prompts in identifying inconsistencies, and (3) reliance on ground truth perception data.
   In this paper, we introduce Hudson, a driving reasoning agent that extends prior LLM-based driving systems to enable safer decision making during perception attacks while maintaining effectiveness under benign conditions. Hudson achieves this by first instrumenting the AD software to collect real-time perception results and contextual information from the driving scene. This data is then formalized into a domain-specific language (DSL). To guide the LLM in detecting and making safe control decisions during ODT attacks, Hudson translates the DSL into natural language, along with a list of custom attack detection instructions. Following query execution, Hudson analyzes the LLM's control decision to understand its causal reasoning process.
