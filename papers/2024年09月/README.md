@@ -338,25 +338,13 @@
 
 2024年09月21日
 
-- [Co-occurrence is not Factual Association in Language Models](2024年09月21日/Co-occurrence_is_not_Factual_Association_in_Language_Models.md)
-
-    - [翻译: 语言模型中的共现现象并不意味着事实上的关联。](2024年09月21日/Co-occurrence_is_not_Factual_Association_in_Language_Models.md)
-
 - [ESPERANTO: Evaluating Synthesized Phrases to Enhance Robustness in AI Detection for Text Origination](2024年09月21日/ESPERANTO_Evaluating_Synthesized_Phrases_to_Enhance_Robustness_in_AI_Detection_for_Text_Origination.md)
 
     - [翻译: ESPERANTO：通过评估合成短语，提升 AI 检测文本来源的鲁棒性](2024年09月21日/ESPERANTO_Evaluating_Synthesized_Phrases_to_Enhance_Robustness_in_AI_Detection_for_Text_Origination.md)
 
-- [HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation](2024年09月21日/HM3D-OVON_A_Dataset_and_Benchmark_for_Open-Vocabulary_Object_Goal_Navigation.md)
-
-    - [翻译: HM3D-OVON：开放词汇对象导航的数据集与基准](2024年09月21日/HM3D-OVON_A_Dataset_and_Benchmark_for_Open-Vocabulary_Object_Goal_Navigation.md)
-
 - [Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](2024年09月21日/Hype,_Sustainability,_and_the_Price_of_the_Bigger-is-Better_Paradigm_in_AI.md)
 
     - [翻译: AI 领域的炒作、可持续性问题，以及“越大越好”理念背后的代价](2024年09月21日/Hype,_Sustainability,_and_the_Price_of_the_Bigger-is-Better_Paradigm_in_AI.md)
-
-- [KALIE: Fine-Tuning Vision-Language Models for Open-World Manipulation without Robot Data](2024年09月21日/KALIE_Fine-Tuning_Vision-Language_Models_for_Open-World_Manipulation_without_Robot_Data.md)
-
-    - [翻译: KALIE：通过微调视觉-语言模型，实现无需机器人数据的开放世界操作](2024年09月21日/KALIE_Fine-Tuning_Vision-Language_Models_for_Open-World_Manipulation_without_Robot_Data.md)
 
 - [LLMs are One-Shot URL Classifiers and Explainers](2024年09月21日/LLMs_are_One-Shot_URL_Classifiers_and_Explainers.md)
 
@@ -365,10 +353,6 @@
 - [Loop-Residual Neural Networks for Iterative Refinement](2024年09月21日/Loop-Residual_Neural_Networks_for_Iterative_Refinement.md)
 
     - [翻译: 循环残差神经网络：迭代细化的利器](2024年09月21日/Loop-Residual_Neural_Networks_for_Iterative_Refinement.md)
-
-- [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](2024年09月21日/MultiMed_Multilingual_Medical_Speech_Recognition_via_Attention_Encoder_Decoder.md)
-
-    - [翻译: MultiMed：利用注意力编码器解码器实现多语言医学语音识别](2024年09月21日/MultiMed_Multilingual_Medical_Speech_Recognition_via_Attention_Encoder_Decoder.md)
 
 - [Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction](2024年09月21日/Normalized_Narrow_Jump_To_Conclusions_Normalized_Narrow_Shortcuts_for_Parameter_Efficient_Early_Exit_Transformer_Prediction.md)
 
@@ -381,14 +365,6 @@
 - [PTD-SQL: Partitioning and Targeted Drilling with LLMs in Text-to-SQL](2024年09月21日/PTD-SQL_Partitioning_and_Targeted_Drilling_with_LLMs_in_Text-to-SQL.md)
 
     - [翻译: PTD-SQL: 利用 LLMs 在 Text-to-SQL 中实现分区和精准钻取](2024年09月21日/PTD-SQL_Partitioning_and_Targeted_Drilling_with_LLMs_in_Text-to-SQL.md)
-
-- [QMOS: Enhancing LLMs for Telecommunication with Question Masked loss and Option Shuffling](2024年09月21日/QMOS_Enhancing_LLMs_for_Telecommunication_with_Question_Masked_loss_and_Option_Shuffling.md)
-
-    - [翻译: QMOS：通过问题掩码损失和选项洗牌，提升 LLM 在电信领域的性能](2024年09月21日/QMOS_Enhancing_LLMs_for_Telecommunication_with_Question_Masked_loss_and_Option_Shuffling.md)
-
-- [Temporally Consistent Factuality Probing for Large Language Models](2024年09月21日/Temporally_Consistent_Factuality_Probing_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的时间一致性事实探测](2024年09月21日/Temporally_Consistent_Factuality_Probing_for_Large_Language_Models.md)
 
 - [Will Large Language Models be a Panacea to Autonomous Driving?](2024年09月21日/Will_Large_Language_Models_be_a_Panacea_to_Autonomous_Driving.md)
 
