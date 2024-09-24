@@ -1,5 +1,5 @@
 # VLMs 能否驾驭动作角色扮演游戏？让我们以《黑神话：悟空》为例，一探究竟。
-发布时间：2024年09月19日
+发布时间：2024年09月22日
 
 `多模态大模型`
 > Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case
