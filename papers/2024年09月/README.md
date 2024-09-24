@@ -276,10 +276,6 @@
 
 2024年09月22日
 
-- [Automotive innovation landscaping using LLM](2024年09月22日/Automotive_innovation_landscaping_using_LLM.md)
-
-    - [翻译: 利用 LLM 描绘汽车创新蓝图](2024年09月22日/Automotive_innovation_landscaping_using_LLM.md)
-
 - [Beyond Words: Evaluating Large Language Models in Transportation Planning](2024年09月22日/Beyond_Words_Evaluating_Large_Language_Models_in_Transportation_Planning.md)
 
     - [翻译: 超越文字：探索大型语言模型在交通规划中的潜力](2024年09月22日/Beyond_Words_Evaluating_Large_Language_Models_in_Transportation_Planning.md)
@@ -292,30 +288,10 @@
 
     - [翻译: 探究大型语言模型为初学者生成的代码注释质量](2024年09月22日/Evaluating_the_Quality_of_Code_Comments_Generated_by_Large_Language_Models_for_Novice_Programmers.md)
 
-- [Flat-LoRA: Low-Rank Adaption over a Flat Loss Landscape](2024年09月22日/Flat-LoRA_Low-Rank_Adaption_over_a_Flat_Loss_Landscape.md)
-
-    - [翻译: Flat-LoRA：平坦损失景观上的低秩适应](2024年09月22日/Flat-LoRA_Low-Rank_Adaption_over_a_Flat_Loss_Landscape.md)
-
-- [ISC4DGF: Enhancing Directed Grey-box Fuzzing with LLM-Driven Initial Seed Corpus Generation](2024年09月22日/ISC4DGF_Enhancing_Directed_Grey-box_Fuzzing_with_LLM-Driven_Initial_Seed_Corpus_Generation.md)
-
-    - [翻译: ISC4DGF：借助 LLM 驱动的初始种子语料库生成，提升有向灰盒模糊测试的效能](2024年09月22日/ISC4DGF_Enhancing_Directed_Grey-box_Fuzzing_with_LLM-Driven_Initial_Seed_Corpus_Generation.md)
-
 - [MobileViews: A Large-Scale Mobile GUI Dataset](2024年09月22日/MobileViews_A_Large-Scale_Mobile_GUI_Dataset.md)
 
     - [翻译: MobileViews：一款庞大的移动GUI数据集](2024年09月22日/MobileViews_A_Large-Scale_Mobile_GUI_Dataset.md)
 
-- [Predicting User Stances from Target-Agnostic Information using Large Language Models](2024年09月22日/Predicting_User_Stances_from_Target-Agnostic_Information_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型，从无关目标的信息中预测用户立场](2024年09月22日/Predicting_User_Stances_from_Target-Agnostic_Information_using_Large_Language_Models.md)
-
 - [Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation](2024年09月22日/Scaling_Diffusion_Policy_in_Transformer_to_1_Billion_Parameters_for_Robotic_Manipulation.md)
 
     - [翻译: 将 Transformer 的扩散策略扩展至 10 亿参数，应用于机器人操控](2024年09月22日/Scaling_Diffusion_Policy_in_Transformer_to_1_Billion_Parameters_for_Robotic_Manipulation.md)
-
-- [Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination](2024年09月22日/Scideator_Human-LLM_Scientific_Idea_Generation_Grounded_in_Research-Paper_Facet_Recombination.md)
-
-    - [翻译: Scideator：一种结合人类与 LLM 力量，基于研究论文要素重组的创新科学想法生成工具。](2024年09月22日/Scideator_Human-LLM_Scientific_Idea_Generation_Grounded_in_Research-Paper_Facet_Recombination.md)
-
-- [Unveiling Narrative Reasoning Limits of Large Language Models with Trope in Movie Synopses](2024年09月22日/Unveiling_Narrative_Reasoning_Limits_of_Large_Language_Models_with_Trope_in_Movie_Synopses.md)
-
-    - [翻译: 探索大型语言模型在电影情节概要中叙事推理的局限](2024年09月22日/Unveiling_Narrative_Reasoning_Limits_of_Large_Language_Models_with_Trope_in_Movie_Synopses.md)
