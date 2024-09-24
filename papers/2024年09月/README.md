@@ -12,7 +12,7 @@
 
 - [AmpAgent: An LLM-based Multi-Agent System for Multi-stage Amplifier Schematic Design from Literature for Process and Performance Porting](2024年09月23日/AmpAgent_An_LLM-based_Multi-Agent_System_for_Multi-stage_Amplifier_Schematic_Design_from_Literature_for_Process_and_Performance_Porting.md)
 
-    - [翻译: AmpAgent：基于 LLM 的多代理系统，专为多阶段放大器原理图设计而生，助力工艺与性能的文献移植](2024年09月23日/AmpAgent_An_LLM-based_Multi-Agent_System_for_Multi-stage_Amplifier_Schematic_Design_from_Literature_for_Process_and_Performance_Porting.md)
+    - [翻译: AmpAgent：基于 LLM 的多代理系统，专为从文献中进行多阶段放大器原理图设计，实现工艺与性能的移植。](2024年09月23日/AmpAgent_An_LLM-based_Multi-Agent_System_for_Multi-stage_Amplifier_Schematic_Design_from_Literature_for_Process_and_Performance_Porting.md)
 
 - [A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?](2024年09月23日/A_Preliminary_Study_of_o1_in_Medicine_Are_We_Closer_to_an_AI_Doctor.md)
 
@@ -21,6 +21,10 @@
 - [Archon: An Architecture Search Framework for Inference-Time Techniques](2024年09月23日/Archon_An_Architecture_Search_Framework_for_Inference-Time_Techniques.md)
 
     - [翻译: Archon：专为推理时技术设计的架构搜索框架](2024年09月23日/Archon_An_Architecture_Search_Framework_for_Inference-Time_Techniques.md)
+
+- [AutoAPIEval: A Framework for Automated Evaluation of LLMs in API-Oriented Code Generation](2024年09月23日/AutoAPIEval_A_Framework_for_Automated_Evaluation_of_LLMs_in_API-Oriented_Code_Generation.md)
+
+    - [翻译: AutoAPIEval：自动化评估 LLM 在 API 导向代码生成中的框架](2024年09月23日/AutoAPIEval_A_Framework_for_Automated_Evaluation_of_LLMs_in_API-Oriented_Code_Generation.md)
 
 - [A-VL: Adaptive Attention for Large Vision-Language Models](2024年09月23日/A-VL_Adaptive_Attention_for_Large_Vision-Language_Models.md)
 
@@ -122,6 +126,10 @@
 
     - [翻译: FineCops-Ref：细粒度组合指代表达理解的新数据集与任务](2024年09月23日/FineCops-Ref_A_new_Dataset_and_Task_for_Fine-Grained_Compositional_Referring_Expression_Comprehension.md)
 
+- [Generative AI Is Not Ready for Clinical Use in Patient Education for Lower Back Pain Patients, Even With Retrieval-Augmented Generation](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 生成式 AI 虽有检索增强生成加持，但在下腰痛患者的临床教育中仍未成熟。](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
+
 - [Generative LLM Powered Conversational AI Application for Personalized Risk Assessment: A Case Study in COVID-19](2024年09月23日/Generative_LLM_Powered_Conversational_AI_Application_for_Personalized_Risk_Assessment_A_Case_Study_in_COVID-19.md)
 
     - [翻译: 基于生成式 LLM 的个性化风险评估对话 AI：COVID-19 案例研究](2024年09月23日/Generative_LLM_Powered_Conversational_AI_Application_for_Personalized_Risk_Assessment_A_Case_Study_in_COVID-19.md)
@@ -144,11 +152,15 @@
 
 - [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](2024年09月23日/KARMA_Augmenting_Embodied_AI_Agents_with_Long-and-short_Term_Memory_Systems.md)
 
-    - [翻译: KARMA：为具身 AI 代理注入长短期记忆系统，提升其智能表现。](2024年09月23日/KARMA_Augmenting_Embodied_AI_Agents_with_Long-and-short_Term_Memory_Systems.md)
+    - [翻译: KARMA：为具身 AI 代理注入长期与短期记忆系统，提升其智能表现。](2024年09月23日/KARMA_Augmenting_Embodied_AI_Agents_with_Long-and-short_Term_Memory_Systems.md)
 
 - [Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization](2024年09月23日/Knowledge_Planning_in_Large_Language_Models_for_Domain-Aligned_Counseling_Summarization.md)
 
     - [翻译: 大型语言模型中的知识规划：领域对齐咨询总结](2024年09月23日/Knowledge_Planning_in_Large_Language_Models_for_Domain-Aligned_Counseling_Summarization.md)
+
+- [Lessons Learned on Information Retrieval in Electronic Health Records: A Comparison of Embedding Models and Pooling Strategies](2024年09月23日/Lessons_Learned_on_Information_Retrieval_in_Electronic_Health_Records_A_Comparison_of_Embedding_Models_and_Pooling_Strategies.md)
+
+    - [翻译: 电子健康记录信息检索的实践经验：嵌入模型与池化策略的对比分析](2024年09月23日/Lessons_Learned_on_Information_Retrieval_in_Electronic_Health_Records_A_Comparison_of_Embedding_Models_and_Pooling_Strategies.md)
 
 - [LINKAGE: Listwise Ranking among Varied-Quality References for Non-Factoid QA Evaluation via LLMs](2024年09月23日/LINKAGE_Listwise_Ranking_among_Varied-Quality_References_for_Non-Factoid_QA_Evaluation_via_LLMs.md)
 
@@ -165,6 +177,10 @@
 - [Location is Key: Leveraging Large Language Model for Functional Bug Localization in Verilog](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
 
     - [翻译: 位置至关重要：借助大型语言模型，精准定位 Verilog 中的功能性错误。](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
+
+- [MemBench: Towards Real-world Evaluation of Memory-Augmented Dialogue Systems](2024年09月23日/MemBench_Towards_Real-world_Evaluation_of_Memory-Augmented_Dialogue_Systems.md)
+
+    - [翻译: MemBench：迈向真实世界中内存增强对话系统的评估](2024年09月23日/MemBench_Towards_Real-world_Evaluation_of_Memory-Augmented_Dialogue_Systems.md)
 
 - [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
 
@@ -480,14 +496,14 @@
 
     - [翻译: SMART-RAG：通过行列式矩阵优化增强检索的选择](2024年09月20日/SMART-RAG_Selection_using_Determinantal_Matrices_for_Augmented_Retrieval.md)
 
+2024年09月18日
+
+- [Recommendation with Generative Models](2024年09月18日/Recommendation_with_Generative_Models.md)
+
+    - [翻译: 生成模型推荐](2024年09月18日/Recommendation_with_Generative_Models.md)
+
 2024年09月14日
 
 - [Synergistic Simulations: Multi-Agent Problem Solving with Large Language Models](2024年09月14日/Synergistic_Simulations_Multi-Agent_Problem_Solving_with_Large_Language_Models.md)
 
     - [翻译: 协同模拟：借助大型语言模型，实现多代理问题解决](2024年09月14日/Synergistic_Simulations_Multi-Agent_Problem_Solving_with_Large_Language_Models.md)
-
-2024年09月10日
-
-- [Knowing When to Ask -- Bridging Large Language Models and Data](2024年09月10日/Knowing_When_to_Ask_--_Bridging_Large_Language_Models_and_Data.md)
-
-    - [翻译: 何时提问 -- 连接大型语言模型与数据](2024年09月10日/Knowing_When_to_Ask_--_Bridging_Large_Language_Models_and_Data.md)
