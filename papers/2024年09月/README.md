@@ -350,10 +350,6 @@
 
     - [翻译: 人机协作风险标注：携手 CHAIRA 共同识别网络不文明现象](2024年09月21日/Collaborative_Human-AI_Risk_Annotation_Co-Annotating_Online_Incivility_with_CHAIRA.md)
 
-- [CONGRA: Benchmarking Automatic Conflict Resolution](2024年09月21日/CONGRA_Benchmarking_Automatic_Conflict_Resolution.md)
-
-    - [翻译: CONGRA：自动冲突解决的基准挑战](2024年09月21日/CONGRA_Benchmarking_Automatic_Conflict_Resolution.md)
-
 - [Co-occurrence is not Factual Association in Language Models](2024年09月21日/Co-occurrence_is_not_Factual_Association_in_Language_Models.md)
 
     - [翻译: 语言模型中的共现现象并不意味着事实上的关联。](2024年09月21日/Co-occurrence_is_not_Factual_Association_in_Language_Models.md)
@@ -362,21 +358,9 @@
 
     - [翻译: 青年性健康对话代理的现状与未来：一项范围审查](2024年09月21日/Current_Trends_and_Future_Directions_for_Sexual_Health_Conversational_Agents_(CAs)_for_Youth_A_Scoping_Review.md)
 
-- [ECHO: Environmental Sound Classification with Hierarchical Ontology-guided Semi-Supervised Learning](2024年09月21日/ECHO_Environmental_Sound_Classification_with_Hierarchical_Ontology-guided_Semi-Supervised_Learning.md)
-
-    - [翻译: ECHO：通过分层本体引导的半监督学习实现环境声音分类](2024年09月21日/ECHO_Environmental_Sound_Classification_with_Hierarchical_Ontology-guided_Semi-Supervised_Learning.md)
-
 - [ESPERANTO: Evaluating Synthesized Phrases to Enhance Robustness in AI Detection for Text Origination](2024年09月21日/ESPERANTO_Evaluating_Synthesized_Phrases_to_Enhance_Robustness_in_AI_Detection_for_Text_Origination.md)
 
     - [翻译: ESPERANTO：通过评估合成短语，提升 AI 检测文本来源的鲁棒性](2024年09月21日/ESPERANTO_Evaluating_Synthesized_Phrases_to_Enhance_Robustness_in_AI_Detection_for_Text_Origination.md)
-
-- [FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs](2024年09月21日/FAMOUS_Flexible_Accelerator_for_the_Attention_Mechanism_of_Transformer_on_UltraScale+_FPGAs.md)
-
-    - [翻译: FAMOUS：为 UltraScale+ FPGAs 上的 Transformer 注意力机制打造的灵活加速器](2024年09月21日/FAMOUS_Flexible_Accelerator_for_the_Attention_Mechanism_of_Transformer_on_UltraScale+_FPGAs.md)
-
-- [GroupDebate: Enhancing the Efficiency of Multi-Agent Debate Using Group Discussion](2024年09月21日/GroupDebate_Enhancing_the_Efficiency_of_Multi-Agent_Debate_Using_Group_Discussion.md)
-
-    - [翻译: GroupDebate：通过小组讨论增强多代理辩论的效率](2024年09月21日/GroupDebate_Enhancing_the_Efficiency_of_Multi-Agent_Debate_Using_Group_Discussion.md)
 
 - [HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation](2024年09月21日/HM3D-OVON_A_Dataset_and_Benchmark_for_Open-Vocabulary_Object_Goal_Navigation.md)
 
@@ -426,17 +410,9 @@
 
     - [翻译: QMOS：通过问题掩码损失和选项洗牌，提升 LLM 在电信领域的性能](2024年09月21日/QMOS_Enhancing_LLMs_for_Telecommunication_with_Question_Masked_loss_and_Option_Shuffling.md)
 
-- [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](2024年09月21日/SURf_Teaching_Large_Vision-Language_Models_to_Selectively_Utilize_Retrieved_Information.md)
-
-    - [翻译: SURf：让大型视觉-语言模型学会精明地运用检索信息](2024年09月21日/SURf_Teaching_Large_Vision-Language_Models_to_Selectively_Utilize_Retrieved_Information.md)
-
 - [Temporally Consistent Factuality Probing for Large Language Models](2024年09月21日/Temporally_Consistent_Factuality_Probing_for_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的时间一致性事实探测](2024年09月21日/Temporally_Consistent_Factuality_Probing_for_Large_Language_Models.md)
-
-- [The use of GPT-4o and Other Large Language Models for the Improvement and Design of Self-Assessment Scales for Measurement of Interpersonal Communication Skills](2024年09月21日/The_use_of_GPT-4o_and_Other_Large_Language_Models_for_the_Improvement_and_Design_of_Self-Assessment_Scales_for_Measurement_of_Interpersonal_Communication_Skills.md)
-
-    - [翻译: 借助 GPT-4o 及其它大型语言模型，我们致力于优化和设计用于评估人际沟通技能的自我评估工具。](2024年09月21日/The_use_of_GPT-4o_and_Other_Large_Language_Models_for_the_Improvement_and_Design_of_Self-Assessment_Scales_for_Measurement_of_Interpersonal_Communication_Skills.md)
 
 - [Will Large Language Models be a Panacea to Autonomous Driving?](2024年09月21日/Will_Large_Language_Models_be_a_Panacea_to_Autonomous_Driving.md)
 
