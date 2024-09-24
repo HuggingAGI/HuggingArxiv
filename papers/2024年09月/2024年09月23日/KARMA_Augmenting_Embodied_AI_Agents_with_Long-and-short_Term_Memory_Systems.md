@@ -1,0 +1,15 @@
+# KARMA：为具身 AI 代理注入长短期记忆系统，提升其智能表现。
+
+发布时间：2024年09月23日
+
+`Agent` `机器人` `智能家居`
+
+> KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems
+
+# 摘要
+
+> 具身AI代理在执行复杂家庭任务时，常因上下文记忆不足而效率低下、错误频发。为此，我们推出了KARMA，一种结合长期与短期记忆的创新系统，通过记忆增强提示提升大型语言模型（LLM）在具身代理中的规划能力。KARMA将长期记忆用于捕捉环境的全景3D场景，短期记忆则实时更新物体动态。这种双记忆架构使代理能有效利用过往经验，提升规划的精准与效率。短期记忆还采用智能替换策略，确保关键信息不丢失。实验显示，KARMA在AI2-THOR模拟器中，使复合与复杂任务的成功率分别提升1.3倍和2.3倍，执行效率分别提高3.4倍和62.7倍。此外，KARMA的即插即用特性使其轻松应用于现实机器人系统，如移动操作平台，大幅提升代理处理复杂任务的能力。更多实验详情，请访问https://youtu.be/4BT7fnw9ehs。
+
+> Embodied AI agents responsible for executing interconnected, long-sequence household tasks often face difficulties with in-context memory, leading to inefficiencies and errors in task execution. To address this issue, we introduce KARMA, an innovative memory system that integrates long-term and short-term memory modules, enhancing large language models (LLMs) for planning in embodied agents through memory-augmented prompting. KARMA distinguishes between long-term and short-term memory, with long-term memory capturing comprehensive 3D scene graphs as representations of the environment, while short-term memory dynamically records changes in objects' positions and states. This dual-memory structure allows agents to retrieve relevant past scene experiences, thereby improving the accuracy and efficiency of task planning. Short-term memory employs strategies for effective and adaptive memory replacement, ensuring the retention of critical information while discarding less pertinent data. Compared to state-of-the-art embodied agents enhanced with memory, our memory-augmented embodied AI agent improves success rates by 1.3x and 2.3x in Composite Tasks and Complex Tasks within the AI2-THOR simulator, respectively, and enhances task execution efficiency by 3.4x and 62.7x. Furthermore, we demonstrate that KARMA's plug-and-play capability allows for seamless deployment on real-world robotic systems, such as mobile manipulation platforms.Through this plug-and-play memory system, KARMA significantly enhances the ability of embodied agents to generate coherent and contextually appropriate plans, making the execution of complex household tasks more efficient. The experimental videos from the work can be found at https://youtu.be/4BT7fnw9ehs.
+
+[Arxiv](https://arxiv.org/abs/2409.14908)
