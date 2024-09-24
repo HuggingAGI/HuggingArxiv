@@ -346,10 +346,6 @@
 
     - [翻译: Can-Do! 数据集与神经符号基础框架，助力大型多模态模型的具身规划](2024年09月21日/Can-Do!_A_Dataset_and_Neuro-Symbolic_Grounded_Framework_for_Embodied_Planning_with_Large_Multimodal_Models.md)
 
-- [Can LLMs replace Neil deGrasse Tyson? Evaluating the Reliability of LLMs as Science Communicators](2024年09月21日/Can_LLMs_replace_Neil_deGrasse_Tyson_Evaluating_the_Reliability_of_LLMs_as_Science_Communicators.md)
-
-    - [翻译: 大型语言模型能否替代 Neil deGrasse Tyson？探讨其在科学传播中的可靠性。](2024年09月21日/Can_LLMs_replace_Neil_deGrasse_Tyson_Evaluating_the_Reliability_of_LLMs_as_Science_Communicators.md)
-
 - [Collaborative Human-AI Risk Annotation: Co-Annotating Online Incivility with CHAIRA](2024年09月21日/Collaborative_Human-AI_Risk_Annotation_Co-Annotating_Online_Incivility_with_CHAIRA.md)
 
     - [翻译: 人机协作风险标注：携手 CHAIRA 共同识别网络不文明现象](2024年09月21日/Collaborative_Human-AI_Risk_Annotation_Co-Annotating_Online_Incivility_with_CHAIRA.md)
@@ -390,17 +386,9 @@
 
     - [翻译: AI 领域的炒作、可持续性问题，以及“越大越好”理念背后的代价](2024年09月21日/Hype,_Sustainability,_and_the_Price_of_the_Bigger-is-Better_Paradigm_in_AI.md)
 
-- [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](2024年09月21日/Interpreting_Arithmetic_Mechanism_in_Large_Language_Models_through_Comparative_Neuron_Analysis.md)
-
-    - [翻译: 通过神经元对比分析，揭示大型语言模型中的算术机制](2024年09月21日/Interpreting_Arithmetic_Mechanism_in_Large_Language_Models_through_Comparative_Neuron_Analysis.md)
-
 - [KALIE: Fine-Tuning Vision-Language Models for Open-World Manipulation without Robot Data](2024年09月21日/KALIE_Fine-Tuning_Vision-Language_Models_for_Open-World_Manipulation_without_Robot_Data.md)
 
     - [翻译: KALIE：通过微调视觉-语言模型，实现无需机器人数据的开放世界操作](2024年09月21日/KALIE_Fine-Tuning_Vision-Language_Models_for_Open-World_Manipulation_without_Robot_Data.md)
-
-- [Knowledge in Triples for LLMs: Enhancing Table QA Accuracy with Semantic Extraction](2024年09月21日/Knowledge_in_Triples_for_LLMs_Enhancing_Table_QA_Accuracy_with_Semantic_Extraction.md)
-
-    - [翻译: 三元组知识助力 LLM：通过语义提取提升表格问答的精准度](2024年09月21日/Knowledge_in_Triples_for_LLMs_Enhancing_Table_QA_Accuracy_with_Semantic_Extraction.md)
 
 - [LLMs are One-Shot URL Classifiers and Explainers](2024年09月21日/LLMs_are_One-Shot_URL_Classifiers_and_Explainers.md)
 
@@ -421,14 +409,6 @@
 - [Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction](2024年09月21日/Normalized_Narrow_Jump_To_Conclusions_Normalized_Narrow_Shortcuts_for_Parameter_Efficient_Early_Exit_Transformer_Prediction.md)
 
     - [翻译: 标准化窄捷径：提升 Transformer 预测效率的参数高效早期退出策略](2024年09月21日/Normalized_Narrow_Jump_To_Conclusions_Normalized_Narrow_Shortcuts_for_Parameter_Efficient_Early_Exit_Transformer_Prediction.md)
-
-- [OAEI-LLM: A Benchmark Dataset for Understanding Large Language Model Hallucinations in Ontology Matching](2024年09月21日/OAEI-LLM_A_Benchmark_Dataset_for_Understanding_Large_Language_Model_Hallucinations_in_Ontology_Matching.md)
-
-    - [翻译: OAEI-LLM：探索大型语言模型在本体匹配中幻觉现象的基准数据集](2024年09月21日/OAEI-LLM_A_Benchmark_Dataset_for_Understanding_Large_Language_Model_Hallucinations_in_Ontology_Matching.md)
-
-- [On Importance of Pruning and Distillation for Efficient Low Resource NLP](2024年09月21日/On_Importance_of_Pruning_and_Distillation_for_Efficient_Low_Resource_NLP.md)
-
-    - [翻译: 修剪与蒸馏：低资源NLP高效之道](2024年09月21日/On_Importance_of_Pruning_and_Distillation_for_Efficient_Low_Resource_NLP.md)
 
 - [PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach](2024年09月21日/PathSeeker_Exploring_LLM_Security_Vulnerabilities_with_a_Reinforcement_Learning-Based_Jailbreak_Approach.md)
 
@@ -453,10 +433,6 @@
 - [Temporally Consistent Factuality Probing for Large Language Models](2024年09月21日/Temporally_Consistent_Factuality_Probing_for_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的时间一致性事实探测](2024年09月21日/Temporally_Consistent_Factuality_Probing_for_Large_Language_Models.md)
-
-- [The Imperative of Conversation Analysis in the Era of LLMs: A Survey of Tasks, Techniques, and Trends](2024年09月21日/The_Imperative_of_Conversation_Analysis_in_the_Era_of_LLMs_A_Survey_of_Tasks,_Techniques,_and_Trends.md)
-
-    - [翻译: 在 LLM 时代，对话分析至关重要：探索任务、技术与趋势](2024年09月21日/The_Imperative_of_Conversation_Analysis_in_the_Era_of_LLMs_A_Survey_of_Tasks,_Techniques,_and_Trends.md)
 
 - [The use of GPT-4o and Other Large Language Models for the Improvement and Design of Self-Assessment Scales for Measurement of Interpersonal Communication Skills](2024年09月21日/The_use_of_GPT-4o_and_Other_Large_Language_Models_for_the_Improvement_and_Design_of_Self-Assessment_Scales_for_Measurement_of_Interpersonal_Communication_Skills.md)
 
