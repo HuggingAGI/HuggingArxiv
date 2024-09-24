@@ -280,10 +280,6 @@
 
     - [翻译: 利用 LLM 描绘汽车创新蓝图](2024年09月22日/Automotive_innovation_landscaping_using_LLM.md)
 
-- [Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations](2024年09月22日/Beyond_Persuasion_Towards_Conversational_Recommender_System_with_Credible_Explanations.md)
-
-    - [翻译: 从说服到对话：构建基于可信解释的推荐系统](2024年09月22日/Beyond_Persuasion_Towards_Conversational_Recommender_System_with_Credible_Explanations.md)
-
 - [Beyond Words: Evaluating Large Language Models in Transportation Planning](2024年09月22日/Beyond_Words_Evaluating_Large_Language_Models_in_Transportation_Planning.md)
 
     - [翻译: 超越文字：探索大型语言模型在交通规划中的潜力](2024年09月22日/Beyond_Words_Evaluating_Large_Language_Models_in_Transportation_Planning.md)
@@ -300,10 +296,6 @@
 
     - [翻译: Flat-LoRA：平坦损失景观上的低秩适应](2024年09月22日/Flat-LoRA_Low-Rank_Adaption_over_a_Flat_Loss_Landscape.md)
 
-- [Investigating Layer Importance in Large Language Models](2024年09月22日/Investigating_Layer_Importance_in_Large_Language_Models.md)
-
-    - [翻译: 探索大型语言模型中的层级重要性](2024年09月22日/Investigating_Layer_Importance_in_Large_Language_Models.md)
-
 - [ISC4DGF: Enhancing Directed Grey-box Fuzzing with LLM-Driven Initial Seed Corpus Generation](2024年09月22日/ISC4DGF_Enhancing_Directed_Grey-box_Fuzzing_with_LLM-Driven_Initial_Seed_Corpus_Generation.md)
 
     - [翻译: ISC4DGF：借助 LLM 驱动的初始种子语料库生成，提升有向灰盒模糊测试的效能](2024年09月22日/ISC4DGF_Enhancing_Directed_Grey-box_Fuzzing_with_LLM-Driven_Initial_Seed_Corpus_Generation.md)
@@ -316,10 +308,6 @@
 
     - [翻译: 利用大型语言模型，从无关目标的信息中预测用户立场](2024年09月22日/Predicting_User_Stances_from_Target-Agnostic_Information_using_Large_Language_Models.md)
 
-- [Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems](2024年09月22日/Robust_Training_Objectives_Improve_Embedding-based_Retrieval_in_Industrial_Recommendation_Systems.md)
-
-    - [翻译: 通过强化训练目标，基于嵌入的检索在工业推荐系统中展现出更强的鲁棒性。](2024年09月22日/Robust_Training_Objectives_Improve_Embedding-based_Retrieval_in_Industrial_Recommendation_Systems.md)
-
 - [Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation](2024年09月22日/Scaling_Diffusion_Policy_in_Transformer_to_1_Billion_Parameters_for_Robotic_Manipulation.md)
 
     - [翻译: 将 Transformer 的扩散策略扩展至 10 亿参数，应用于机器人操控](2024年09月22日/Scaling_Diffusion_Policy_in_Transformer_to_1_Billion_Parameters_for_Robotic_Manipulation.md)
@@ -328,20 +316,6 @@
 
     - [翻译: Scideator：一种结合人类与 LLM 力量，基于研究论文要素重组的创新科学想法生成工具。](2024年09月22日/Scideator_Human-LLM_Scientific_Idea_Generation_Grounded_in_Research-Paper_Facet_Recombination.md)
 
-- [The Ability of Large Language Models to Evaluate Constraint-satisfaction in Agent Responses to Open-ended Requests](2024年09月22日/The_Ability_of_Large_Language_Models_to_Evaluate_Constraint-satisfaction_in_Agent_Responses_to_Open-ended_Requests.md)
-
-    - [翻译: 大型语言模型在评估代理对开放式请求响应中的约束满足方面展现出独特能力。](2024年09月22日/The_Ability_of_Large_Language_Models_to_Evaluate_Constraint-satisfaction_in_Agent_Responses_to_Open-ended_Requests.md)
-
 - [Unveiling Narrative Reasoning Limits of Large Language Models with Trope in Movie Synopses](2024年09月22日/Unveiling_Narrative_Reasoning_Limits_of_Large_Language_Models_with_Trope_in_Movie_Synopses.md)
 
     - [翻译: 探索大型语言模型在电影情节概要中叙事推理的局限](2024年09月22日/Unveiling_Narrative_Reasoning_Limits_of_Large_Language_Models_with_Trope_in_Movie_Synopses.md)
-
-2024年09月21日
-
-- [ESPERANTO: Evaluating Synthesized Phrases to Enhance Robustness in AI Detection for Text Origination](2024年09月21日/ESPERANTO_Evaluating_Synthesized_Phrases_to_Enhance_Robustness_in_AI_Detection_for_Text_Origination.md)
-
-    - [翻译: ESPERANTO：通过评估合成短语，提升 AI 检测文本来源的鲁棒性](2024年09月21日/ESPERANTO_Evaluating_Synthesized_Phrases_to_Enhance_Robustness_in_AI_Detection_for_Text_Origination.md)
-
-- [LLMs are One-Shot URL Classifiers and Explainers](2024年09月21日/LLMs_are_One-Shot_URL_Classifiers_and_Explainers.md)
-
-    - [翻译: LLM 即单次 URL 分类与解释神器](2024年09月21日/LLMs_are_One-Shot_URL_Classifiers_and_Explainers.md)
