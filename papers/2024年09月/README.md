@@ -338,25 +338,9 @@
 
 2024年09月21日
 
-- [AI Assistants for Spaceflight Procedures: Combining Generative Pre-Trained Transformer and Retrieval-Augmented Generation on Knowledge Graphs With Augmented Reality Cues](2024年09月21日/AI_Assistants_for_Spaceflight_Procedures_Combining_Generative_Pre-Trained_Transformer_and_Retrieval-Augmented_Generation_on_Knowledge_Graphs_With_Augmented_Reality_Cues.md)
-
-    - [翻译: 太空飞行 AI 助手：融合生成式预训练变压器与知识图谱检索增强生成，辅以增强现实提示](2024年09月21日/AI_Assistants_for_Spaceflight_Procedures_Combining_Generative_Pre-Trained_Transformer_and_Retrieval-Augmented_Generation_on_Knowledge_Graphs_With_Augmented_Reality_Cues.md)
-
-- [Can-Do! A Dataset and Neuro-Symbolic Grounded Framework for Embodied Planning with Large Multimodal Models](2024年09月21日/Can-Do!_A_Dataset_and_Neuro-Symbolic_Grounded_Framework_for_Embodied_Planning_with_Large_Multimodal_Models.md)
-
-    - [翻译: Can-Do! 数据集与神经符号基础框架，助力大型多模态模型的具身规划](2024年09月21日/Can-Do!_A_Dataset_and_Neuro-Symbolic_Grounded_Framework_for_Embodied_Planning_with_Large_Multimodal_Models.md)
-
-- [Collaborative Human-AI Risk Annotation: Co-Annotating Online Incivility with CHAIRA](2024年09月21日/Collaborative_Human-AI_Risk_Annotation_Co-Annotating_Online_Incivility_with_CHAIRA.md)
-
-    - [翻译: 人机协作风险标注：携手 CHAIRA 共同识别网络不文明现象](2024年09月21日/Collaborative_Human-AI_Risk_Annotation_Co-Annotating_Online_Incivility_with_CHAIRA.md)
-
 - [Co-occurrence is not Factual Association in Language Models](2024年09月21日/Co-occurrence_is_not_Factual_Association_in_Language_Models.md)
 
     - [翻译: 语言模型中的共现现象并不意味着事实上的关联。](2024年09月21日/Co-occurrence_is_not_Factual_Association_in_Language_Models.md)
-
-- [Current Trends and Future Directions for Sexual Health Conversational Agents (CAs) for Youth: A Scoping Review](2024年09月21日/Current_Trends_and_Future_Directions_for_Sexual_Health_Conversational_Agents_(CAs)_for_Youth_A_Scoping_Review.md)
-
-    - [翻译: 青年性健康对话代理的现状与未来：一项范围审查](2024年09月21日/Current_Trends_and_Future_Directions_for_Sexual_Health_Conversational_Agents_(CAs)_for_Youth_A_Scoping_Review.md)
 
 - [ESPERANTO: Evaluating Synthesized Phrases to Enhance Robustness in AI Detection for Text Origination](2024年09月21日/ESPERANTO_Evaluating_Synthesized_Phrases_to_Enhance_Robustness_in_AI_Detection_for_Text_Origination.md)
 
@@ -382,10 +366,6 @@
 
     - [翻译: 循环残差神经网络：迭代细化的利器](2024年09月21日/Loop-Residual_Neural_Networks_for_Iterative_Refinement.md)
 
-- [Mining Causality: AI-Assisted Search for Instrumental Variables](2024年09月21日/Mining_Causality_AI-Assisted_Search_for_Instrumental_Variables.md)
-
-    - [翻译: 探索因果：AI助力寻找工具变量](2024年09月21日/Mining_Causality_AI-Assisted_Search_for_Instrumental_Variables.md)
-
 - [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](2024年09月21日/MultiMed_Multilingual_Medical_Speech_Recognition_via_Attention_Encoder_Decoder.md)
 
     - [翻译: MultiMed：利用注意力编码器解码器实现多语言医学语音识别](2024年09月21日/MultiMed_Multilingual_Medical_Speech_Recognition_via_Attention_Encoder_Decoder.md)
@@ -393,10 +373,6 @@
 - [Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction](2024年09月21日/Normalized_Narrow_Jump_To_Conclusions_Normalized_Narrow_Shortcuts_for_Parameter_Efficient_Early_Exit_Transformer_Prediction.md)
 
     - [翻译: 标准化窄捷径：提升 Transformer 预测效率的参数高效早期退出策略](2024年09月21日/Normalized_Narrow_Jump_To_Conclusions_Normalized_Narrow_Shortcuts_for_Parameter_Efficient_Early_Exit_Transformer_Prediction.md)
-
-- [PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach](2024年09月21日/PathSeeker_Exploring_LLM_Security_Vulnerabilities_with_a_Reinforcement_Learning-Based_Jailbreak_Approach.md)
-
-    - [翻译: PathSeeker：通过强化学习驱动的越狱策略，深入挖掘 LLM 的安全隐患。](2024年09月21日/PathSeeker_Exploring_LLM_Security_Vulnerabilities_with_a_Reinforcement_Learning-Based_Jailbreak_Approach.md)
 
 - [Proof Automation with Large Language Models](2024年09月21日/Proof_Automation_with_Large_Language_Models.md)
 
