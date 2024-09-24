@@ -476,10 +476,6 @@
 
     - [翻译: ChemEval：为大型语言模型量身定制的全面多层次化学评估](2024年09月20日/ChemEval_A_Comprehensive_Multi-Level_Chemical_Evaluation_for_Large_Language_Models.md)
 
-- [Drift to Remember](2024年09月20日/Drift_to_Remember.md)
-
-    - [翻译: 记忆漂流](2024年09月20日/Drift_to_Remember.md)
-
 - [Enhancing Advanced Visual Reasoning Ability of Large Language Models](2024年09月20日/Enhancing_Advanced_Visual_Reasoning_Ability_of_Large_Language_Models.md)
 
     - [翻译: 提升大型语言模型的视觉推理能力](2024年09月20日/Enhancing_Advanced_Visual_Reasoning_Ability_of_Large_Language_Models.md)
@@ -495,15 +491,3 @@
 - [SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval](2024年09月20日/SMART-RAG_Selection_using_Determinantal_Matrices_for_Augmented_Retrieval.md)
 
     - [翻译: SMART-RAG：通过行列式矩阵优化增强检索的选择](2024年09月20日/SMART-RAG_Selection_using_Determinantal_Matrices_for_Augmented_Retrieval.md)
-
-2024年09月18日
-
-- [Recommendation with Generative Models](2024年09月18日/Recommendation_with_Generative_Models.md)
-
-    - [翻译: 生成模型推荐](2024年09月18日/Recommendation_with_Generative_Models.md)
-
-2024年09月14日
-
-- [Synergistic Simulations: Multi-Agent Problem Solving with Large Language Models](2024年09月14日/Synergistic_Simulations_Multi-Agent_Problem_Solving_with_Large_Language_Models.md)
-
-    - [翻译: 协同模拟：借助大型语言模型，实现多代理问题解决](2024年09月14日/Synergistic_Simulations_Multi-Agent_Problem_Solving_with_Large_Language_Models.md)
