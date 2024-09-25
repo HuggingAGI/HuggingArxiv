@@ -18,10 +18,6 @@
 
     - [翻译: 医学领域 o1 的初步探索：AI 医生，我们是否已近在咫尺？](2024年09月23日/A_Preliminary_Study_of_o1_in_Medicine_Are_We_Closer_to_an_AI_Doctor.md)
 
-- [Archon: An Architecture Search Framework for Inference-Time Techniques](2024年09月23日/Archon_An_Architecture_Search_Framework_for_Inference-Time_Techniques.md)
-
-    - [翻译: Archon：专为推理时技术设计的架构搜索框架](2024年09月23日/Archon_An_Architecture_Search_Framework_for_Inference-Time_Techniques.md)
-
 - [AutoAPIEval: A Framework for Automated Evaluation of LLMs in API-Oriented Code Generation](2024年09月23日/AutoAPIEval_A_Framework_for_Automated_Evaluation_of_LLMs_in_API-Oriented_Code_Generation.md)
 
     - [翻译: AutoAPIEval：自动化评估 LLM 在 API 导向代码生成中的框架](2024年09月23日/AutoAPIEval_A_Framework_for_Automated_Evaluation_of_LLMs_in_API-Oriented_Code_Generation.md)
@@ -29,10 +25,6 @@
 - [A-VL: Adaptive Attention for Large Vision-Language Models](2024年09月23日/A-VL_Adaptive_Attention_for_Large_Vision-Language_Models.md)
 
     - [翻译: A-VL：为大型视觉-语言模型量身定制的自适应注意力机制](2024年09月23日/A-VL_Adaptive_Attention_for_Large_Vision-Language_Models.md)
-
-- [Behavioral Bias of Vision-Language Models: A Behavioral Finance View](2024年09月23日/Behavioral_Bias_of_Vision-Language_Models_A_Behavioral_Finance_View.md)
-
-    - [翻译: 视觉-语言模型的行为偏差：从行为金融的角度探讨](2024年09月23日/Behavioral_Bias_of_Vision-Language_Models_A_Behavioral_Finance_View.md)
 
 - [Benchmarking Edge AI Platforms for High-Performance ML Inference](2024年09月23日/Benchmarking_Edge_AI_Platforms_for_High-Performance_ML_Inference.md)
 
@@ -65,10 +57,6 @@
 - [COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models](2024年09月23日/COHERENT_Collaboration_of_Heterogeneous_Multi-Robot_System_with_Large_Language_Models.md)
 
     - [翻译: COHERENT：异构多机器人系统与大型语言模型的协同合作](2024年09月23日/COHERENT_Collaboration_of_Heterogeneous_Multi-Robot_System_with_Large_Language_Models.md)
-
-- [CON: Continual Object Navigation via Data-Free Inter-Agent Knowledge Transfer in Unseen and Unfamiliar Places](2024年09月23日/CON_Continual_Object_Navigation_via_Data-Free_Inter-Agent_Knowledge_Transfer_in_Unseen_and_Unfamiliar_Places.md)
-
-    - [翻译: 在未知且陌生的环境中，通过无需数据的代理间知识传递实现持续对象导航](2024年09月23日/CON_Continual_Object_Navigation_via_Data-Free_Inter-Agent_Knowledge_Transfer_in_Unseen_and_Unfamiliar_Places.md)
 
 - [CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
 
@@ -166,10 +154,6 @@
 
     - [翻译: LlamaPartialSpoof：一款由 LLM 驱动的假语音数据集，专为模拟虚假信息生成而设计。](2024年09月23日/LlamaPartialSpoof_An_LLM-Driven_Fake_Speech_Dataset_Simulating_Disinformation_Generation.md)
 
-- [LLMs' ways of seeing User Personas](2024年09月23日/LLMs'_ways_of_seeing_User_Personas.md)
-
-    - [翻译: 大型语言模型如何解读用户画像](2024年09月23日/LLMs'_ways_of_seeing_User_Personas.md)
-
 - [Location is Key: Leveraging Large Language Model for Functional Bug Localization in Verilog](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
 
     - [翻译: 位置至关重要：借助大型语言模型，精准定位 Verilog 中的功能性错误。](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
@@ -189,10 +173,6 @@
 - [Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond](2024年09月23日/Multi-Modal_Generative_AI_Multi-modal_LLM,_Diffusion_and_Beyond.md)
 
     - [翻译: 多模态生成式 AI：探索多模态 LLM、扩散技术及其他前沿领域](2024年09月23日/Multi-Modal_Generative_AI_Multi-modal_LLM,_Diffusion_and_Beyond.md)
-
-- [OmniBench: Towards The Future of Universal Omni-Language Models](2024年09月23日/OmniBench_Towards_The_Future_of_Universal_Omni-Language_Models.md)
-
-    - [翻译: OmniBench：开启通用全语言模型的新纪元](2024年09月23日/OmniBench_Towards_The_Future_of_Universal_Omni-Language_Models.md)
 
 - [OMPar: Automatic Parallelization with AI-Driven Source-to-Source Compilation](2024年09月23日/OMPar_Automatic_Parallelization_with_AI-Driven_Source-to-Source_Compilation.md)
 
@@ -242,17 +222,9 @@
 
     - [翻译: RMCBench：评估大型语言模型抵御恶意代码的能力](2024年09月23日/RMCBench_Benchmarking_Large_Language_Models'_Resistance_to_Malicious_Code.md)
 
-- [Scaling Laws of Decoder-Only Models on the Multilingual Machine Translation Task](2024年09月23日/Scaling_Laws_of_Decoder-Only_Models_on_the_Multilingual_Machine_Translation_Task.md)
-
-    - [翻译: 多语言机器翻译任务中解码器专用模型的缩放法则](2024年09月23日/Scaling_Laws_of_Decoder-Only_Models_on_the_Multilingual_Machine_Translation_Task.md)
-
 - [Semantic Inference-Based Deep Learning and Modeling for Earth Observation: Cognitive Semantic Augmentation Satellite Networks](2024年09月23日/Semantic_Inference-Based_Deep_Learning_and_Modeling_for_Earth_Observation_Cognitive_Semantic_Augmentation_Satellite_Networks.md)
 
     - [翻译: 深度学习与地球观测建模：基于语义推理的认知增强卫星网络](2024年09月23日/Semantic_Inference-Based_Deep_Learning_and_Modeling_for_Earth_Observation_Cognitive_Semantic_Augmentation_Satellite_Networks.md)
-
-- [Skills Made to Order: Efficient Acquisition of Robot Cooking Skills Guided by Multiple Forms of Internet Data](2024年09月23日/Skills_Made_to_Order_Efficient_Acquisition_of_Robot_Cooking_Skills_Guided_by_Multiple_Forms_of_Internet_Data.md)
-
-    - [翻译: 定制技能：利用多源网络数据，高效训练机器人烹饪技能](2024年09月23日/Skills_Made_to_Order_Efficient_Acquisition_of_Robot_Cooking_Skills_Guided_by_Multiple_Forms_of_Internet_Data.md)
 
 - [Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models](2024年09月23日/Towards_Efficient_and_Robust_VQA-NLE_Data_Generation_with_Large_Vision-Language_Models.md)
 
