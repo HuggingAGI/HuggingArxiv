@@ -232,10 +232,6 @@
 
     - [翻译: 社交媒体立场检测：探索新方向与视角](2024年09月23日/A_Survey_of_Stance_Detection_on_Social_Media_New_Directions_and_Perspectives.md)
 
-- [Benchmarking Edge AI Platforms for High-Performance ML Inference](2024年09月23日/Benchmarking_Edge_AI_Platforms_for_High-Performance_ML_Inference.md)
-
-    - [翻译: 为高性能机器学习推理，对边缘 AI 平台进行基准测试](2024年09月23日/Benchmarking_Edge_AI_Platforms_for_High-Performance_ML_Inference.md)
-
 - [Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning](2024年09月23日/Brotherhood_at_WMT_2024_Leveraging_LLM-Generated_Contextual_Conversations_for_Cross-Lingual_Image_Captioning.md)
 
     - [翻译: WMT 2024 兄弟会：借助 LLM 生成的上下文对话，实现跨语言图像描述](2024年09月23日/Brotherhood_at_WMT_2024_Leveraging_LLM-Generated_Contextual_Conversations_for_Cross-Lingual_Image_Captioning.md)
@@ -252,17 +248,9 @@
 
     - [翻译: 大型语言模型在信息缺失时，是否仍能解决问题？](2024年09月23日/Do_Large_Language_Models_have_Problem-Solving_Capability_under_Incomplete_Information_Scenarios.md)
 
-- [End-to-End Graph Flattening Method for Large Language Models](2024年09月23日/End-to-End_Graph_Flattening_Method_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的端到端图展平技术](2024年09月23日/End-to-End_Graph_Flattening_Method_for_Large_Language_Models.md)
-
 - [Exploring Fine-grained Retail Product Discrimination with Zero-shot Object Classification Using Vision-Language Models](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
 
     - [翻译: 通过视觉-语言模型，我们探索了零-shot 对象分类在细粒度零售产品辨别中的应用。](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
-
-- [FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension](2024年09月23日/FineCops-Ref_A_new_Dataset_and_Task_for_Fine-Grained_Compositional_Referring_Expression_Comprehension.md)
-
-    - [翻译: FineCops-Ref：细粒度组合指代表达理解的新数据集与任务](2024年09月23日/FineCops-Ref_A_new_Dataset_and_Task_for_Fine-Grained_Compositional_Referring_Expression_Comprehension.md)
 
 - [Generative AI Is Not Ready for Clinical Use in Patient Education for Lower Back Pain Patients, Even With Retrieval-Augmented Generation](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
 
@@ -312,10 +300,6 @@
 
     - [翻译: 大型语言模型的预训练数据检测：一种基于发散的校准方法](2024年09月23日/Pretraining_Data_Detection_for_Large_Language_Models_A_Divergence-based_Calibration_Method.md)
 
-- [Privacy Policy Analysis through Prompt Engineering for LLMs](2024年09月23日/Privacy_Policy_Analysis_through_Prompt_Engineering_for_LLMs.md)
-
-    - [翻译: 利用 LLM 的提示工程技术进行隐私政策分析](2024年09月23日/Privacy_Policy_Analysis_through_Prompt_Engineering_for_LLMs.md)
-
 - [RAM2C: A Liberal Arts Educational Chatbot based on Retrieval-augmented Multi-role Multi-expert Collaboration](2024年09月23日/RAM2C_A_Liberal_Arts_Educational_Chatbot_based_on_Retrieval-augmented_Multi-role_Multi-expert_Collaboration.md)
 
     - [翻译: RAM2C：一款结合检索增强技术，实现多角色与多专家协作的文科教育聊天机器人](2024年09月23日/RAM2C_A_Liberal_Arts_Educational_Chatbot_based_on_Retrieval-augmented_Multi-role_Multi-expert_Collaboration.md)
@@ -343,14 +327,6 @@
 - [Semantic Inference-Based Deep Learning and Modeling for Earth Observation: Cognitive Semantic Augmentation Satellite Networks](2024年09月23日/Semantic_Inference-Based_Deep_Learning_and_Modeling_for_Earth_Observation_Cognitive_Semantic_Augmentation_Satellite_Networks.md)
 
     - [翻译: 深度学习与地球观测建模：基于语义推理的认知增强卫星网络](2024年09月23日/Semantic_Inference-Based_Deep_Learning_and_Modeling_for_Earth_Observation_Cognitive_Semantic_Augmentation_Satellite_Networks.md)
-
-- [TS-TCD: Triplet-Level Cross-Modal Distillation for Time-Series Forecasting Using Large Language Models](2024年09月23日/TS-TCD_Triplet-Level_Cross-Modal_Distillation_for_Time-Series_Forecasting_Using_Large_Language_Models.md)
-
-    - [翻译: TS-TCD：利用大型语言模型进行时序预测的三重跨模态知识蒸馏](2024年09月23日/TS-TCD_Triplet-Level_Cross-Modal_Distillation_for_Time-Series_Forecasting_Using_Large_Language_Models.md)
-
-- [UELLM: A Unified and Efficient Approach for LLM Inference Serving](2024年09月23日/UELLM_A_Unified_and_Efficient_Approach_for_LLM_Inference_Serving.md)
-
-    - [翻译: UELLM：为 LLM 推理服务提供了一种既统一又高效的方法。](2024年09月23日/UELLM_A_Unified_and_Efficient_Approach_for_LLM_Inference_Serving.md)
 
 - [With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models](2024年09月23日/With_Ears_to_See_and_Eyes_to_Hear_Sound_Symbolism_Experiments_with_Multimodal_Large_Language_Models.md)
 
