@@ -6,10 +6,6 @@
 
     - [翻译: 借助微调大型语言模型，提升社交媒体平台上抑郁症检测的精准度](2024年09月23日/Advancing_Depression_Detection_on_Social_Media_Platforms_Through_Fine-Tuned_Large_Language_Models.md)
 
-- [AlphaZip: Neural Network-Enhanced Lossless Text Compression](2024年09月23日/AlphaZip_Neural_Network-Enhanced_Lossless_Text_Compression.md)
-
-    - [翻译: AlphaZip：借助神经网络提升的无损文本压缩技术](2024年09月23日/AlphaZip_Neural_Network-Enhanced_Lossless_Text_Compression.md)
-
 - [AmpAgent: An LLM-based Multi-Agent System for Multi-stage Amplifier Schematic Design from Literature for Process and Performance Porting](2024年09月23日/AmpAgent_An_LLM-based_Multi-Agent_System_for_Multi-stage_Amplifier_Schematic_Design_from_Literature_for_Process_and_Performance_Porting.md)
 
     - [翻译: AmpAgent：基于 LLM 的多代理系统，专为从文献中进行多阶段放大器原理图设计，实现工艺与性能的移植。](2024年09月23日/AmpAgent_An_LLM-based_Multi-Agent_System_for_Multi-stage_Amplifier_Schematic_Design_from_Literature_for_Process_and_Performance_Porting.md)
@@ -94,10 +90,6 @@
 
     - [翻译: 通过大型语言模型与位置信息，提升旅游领域基于方面的情感分析效果。](2024年09月23日/Enhancing_Aspect-based_Sentiment_Analysis_in_Tourism_Using_Large_Language_Models_and_Positional_Information.md)
 
-- [Enhancing Scientific Reproducibility Through Automated BioCompute Object Creation Using Retrieval-Augmented Generation from Publications](2024年09月23日/Enhancing_Scientific_Reproducibility_Through_Automated_BioCompute_Object_Creation_Using_Retrieval-Augmented_Generation_from_Publications.md)
-
-    - [翻译: 利用检索增强生成技术，自动创建 BioCompute 对象，从而提升科学研究的可重复性。](2024年09月23日/Enhancing_Scientific_Reproducibility_Through_Automated_BioCompute_Object_Creation_Using_Retrieval-Augmented_Generation_from_Publications.md)
-
 - [ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning](2024年09月23日/ERABAL_Enhancing_Role-Playing_Agents_through_Boundary-Aware_Learning.md)
 
     - [翻译: ERABAL：利用边界感知学习提升角色扮演代理的能力](2024年09月23日/ERABAL_Enhancing_Role-Playing_Agents_through_Boundary-Aware_Learning.md)
@@ -118,10 +110,6 @@
 
     - [翻译: 生成式 AI 虽有检索增强生成加持，但在下腰痛患者的临床教育中仍未成熟。](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
 
-- [Generative LLM Powered Conversational AI Application for Personalized Risk Assessment: A Case Study in COVID-19](2024年09月23日/Generative_LLM_Powered_Conversational_AI_Application_for_Personalized_Risk_Assessment_A_Case_Study_in_COVID-19.md)
-
-    - [翻译: 基于生成式 LLM 的个性化风险评估对话 AI：COVID-19 案例研究](2024年09月23日/Generative_LLM_Powered_Conversational_AI_Application_for_Personalized_Risk_Assessment_A_Case_Study_in_COVID-19.md)
-
 - [HW-TSC's Submission to the CCMT 2024 Machine Translation Tasks](2024年09月23日/HW-TSC's_Submission_to_the_CCMT_2024_Machine_Translation_Tasks.md)
 
     - [翻译: HW-TSC 向 CCMT 2024 机器翻译任务提交了作品](2024年09月23日/HW-TSC's_Submission_to_the_CCMT_2024_Machine_Translation_Tasks.md)
@@ -129,14 +117,6 @@
 - [InterMind: A Doctor-Patient-Family Interactive Depression Assessment System Empowered by Large Language Models](2024年09月23日/InterMind_A_Doctor-Patient-Family_Interactive_Depression_Assessment_System_Empowered_by_Large_Language_Models.md)
 
     - [翻译: InterMind：一款由大型语言模型驱动的医生、患者与家庭互动式抑郁症评估系统](2024年09月23日/InterMind_A_Doctor-Patient-Family_Interactive_Depression_Assessment_System_Empowered_by_Large_Language_Models.md)
-
-- [Interpreting Multi-band Galaxy Observations with Large Language Model-Based Agents](2024年09月23日/Interpreting_Multi-band_Galaxy_Observations_with_Large_Language_Model-Based_Agents.md)
-
-    - [翻译: 借助大型语言模型代理，解读多频段星系观测数据](2024年09月23日/Interpreting_Multi-band_Galaxy_Observations_with_Large_Language_Model-Based_Agents.md)
-
-- [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](2024年09月23日/KARMA_Augmenting_Embodied_AI_Agents_with_Long-and-short_Term_Memory_Systems.md)
-
-    - [翻译: KARMA：为具身 AI 代理注入长期与短期记忆系统，提升其智能表现。](2024年09月23日/KARMA_Augmenting_Embodied_AI_Agents_with_Long-and-short_Term_Memory_Systems.md)
 
 - [Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization](2024年09月23日/Knowledge_Planning_in_Large_Language_Models_for_Domain-Aligned_Counseling_Summarization.md)
 
@@ -205,10 +185,6 @@
 - [Privacy Policy Analysis through Prompt Engineering for LLMs](2024年09月23日/Privacy_Policy_Analysis_through_Prompt_Engineering_for_LLMs.md)
 
     - [翻译: 利用 LLM 的提示工程技术进行隐私政策分析](2024年09月23日/Privacy_Policy_Analysis_through_Prompt_Engineering_for_LLMs.md)
-
-- [Rethinking Conventional Wisdom in Machine Learning: From Generalization to Scaling](2024年09月23日/Rethinking_Conventional_Wisdom_in_Machine_Learning_From_Generalization_to_Scaling.md)
-
-    - [翻译: 颠覆机器学习传统观念：从泛化迈向扩展](2024年09月23日/Rethinking_Conventional_Wisdom_in_Machine_Learning_From_Generalization_to_Scaling.md)
 
 - [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
 
