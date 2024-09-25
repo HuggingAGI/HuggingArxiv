@@ -2,10 +2,6 @@
 
 2024年09月24日
 
-- [A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models](2024年09月24日/A_Comprehensive_Framework_for_Evaluating_API-oriented_Code_Generation_in_Large_Language_Models.md)
-
-    - [翻译: AutoAPIEval：自动化评估 LLM 在 API 导向代码生成中的框架](2024年09月24日/A_Comprehensive_Framework_for_Evaluating_API-oriented_Code_Generation_in_Large_Language_Models.md)
-
 - [AI Can Be Cognitively Biased: An Exploratory Study on Threshold Priming in LLM-Based Batch Relevance Assessment](2024年09月24日/AI_Can_Be_Cognitively_Biased_An_Exploratory_Study_on_Threshold_Priming_in_LLM-Based_Batch_Relevance_Assessment.md)
 
     - [翻译: AI 也可能有认知偏差：一项探索性研究揭示了基于 LLM 的批量相关性评估中阈值启动的影响。](2024年09月24日/AI_Can_Be_Cognitively_Biased_An_Exploratory_Study_on_Threshold_Priming_in_LLM-Based_Batch_Relevance_Assessment.md)
@@ -34,10 +30,6 @@
 
     - [翻译: 利用专家混合增强的语音条件LLM，提升代码切换ASR性能。](2024年09月24日/Boosting_Code-Switching_ASR_with_Mixture_of_Experts_Enhanced_Speech-Conditioned_LLM.md)
 
-- [Bridging Speech and Text: Enhancing ASR with Pinyin-to-Character Pre-training in LLMs](2024年09月24日/Bridging_Speech_and_Text_Enhancing_ASR_with_Pinyin-to-Character_Pre-training_in_LLMs.md)
-
-    - [翻译: 融合语音与文本：通过拼音到字符的预训练，提升 LLM 中的 ASR 性能](2024年09月24日/Bridging_Speech_and_Text_Enhancing_ASR_with_Pinyin-to-Character_Pre-training_in_LLMs.md)
-
 - [CDChat: A Large Multimodal Model for Remote Sensing Change Description](2024年09月24日/CDChat_A_Large_Multimodal_Model_for_Remote_Sensing_Change_Description.md)
 
     - [翻译: CDChat：专为遥感变化描述设计的大型多模态模型](2024年09月24日/CDChat_A_Large_Multimodal_Model_for_Remote_Sensing_Change_Description.md)
@@ -53,10 +45,6 @@
 - [CLSP: High-Fidelity Contrastive Language-State Pre-training for Agent State Representation](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
 
     - [翻译: CLSP：高保真对比语言-状态预训练，专为代理状态表示设计](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
-
-- [Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework](2024年09月24日/Controlling_Risk_of_Retrieval-augmented_Generation_A_Counterfactual_Prompting_Framework.md)
-
-    - [翻译: 掌控检索增强生成的风险：反事实提示框架](2024年09月24日/Controlling_Risk_of_Retrieval-augmented_Generation_A_Counterfactual_Prompting_Framework.md)
 
 - [Cyber Knowledge Completion Using Large Language Models](2024年09月24日/Cyber_Knowledge_Completion_Using_Large_Language_Models.md)
 
@@ -121,10 +109,6 @@
 - [Implicit assessment of language learning during practice as accurate as explicit testing](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
 
     - [翻译: 练习中的隐性语言学习评估与显性测试同样精准](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
-
-- [In-Context Ensemble Improves Video-Language Models for Low-Level Workflow Understanding from Human Demonstrations](2024年09月24日/In-Context_Ensemble_Improves_Video-Language_Models_for_Low-Level_Workflow_Understanding_from_Human_Demonstrations.md)
-
-    - [翻译: 通过 In-Context Ensemble，视频-语言模型在理解人类演示中的低级工作流程方面得到了显著提升。](2024年09月24日/In-Context_Ensemble_Improves_Video-Language_Models_for_Low-Level_Workflow_Understanding_from_Human_Demonstrations.md)
 
 - [IRSC: A Zero-shot Evaluation Benchmark for Information Retrieval through Semantic Comprehension in Retrieval-Augmented Generation Scenarios](2024年09月24日/IRSC_A_Zero-shot_Evaluation_Benchmark_for_Information_Retrieval_through_Semantic_Comprehension_in_Retrieval-Augmented_Generation_Scenarios.md)
 
@@ -225,13 +209,3 @@
 - [Zero-shot forecasting of chaotic systems](2024年09月24日/Zero-shot_forecasting_of_chaotic_systems.md)
 
     - [翻译: 混沌系统的零-shot 预测](2024年09月24日/Zero-shot_forecasting_of_chaotic_systems.md)
-
-2024年09月23日
-
-- [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
-
-    - [翻译: MobileVLM：一款专为提升 UI 内部及跨 UI 理解的视觉-语言模型](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
-
-- [ReLEP: A Novel Framework for Real-world Long-horizon Embodied Planning](2024年09月23日/ReLEP_A_Novel_Framework_for_Real-world_Long-horizon_Embodied_Planning.md)
-
-    - [翻译: ReLEP：开创性的现实世界长期具身规划框架](2024年09月23日/ReLEP_A_Novel_Framework_for_Real-world_Long-horizon_Embodied_Planning.md)
