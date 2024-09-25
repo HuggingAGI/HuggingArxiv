@@ -228,10 +228,6 @@
 
 2024年09月23日
 
-- [Advancing Depression Detection on Social Media Platforms Through Fine-Tuned Large Language Models](2024年09月23日/Advancing_Depression_Detection_on_Social_Media_Platforms_Through_Fine-Tuned_Large_Language_Models.md)
-
-    - [翻译: 借助微调大型语言模型，提升社交媒体平台上抑郁症检测的精准度](2024年09月23日/Advancing_Depression_Detection_on_Social_Media_Platforms_Through_Fine-Tuned_Large_Language_Models.md)
-
 - [A Survey of Stance Detection on Social Media: New Directions and Perspectives](2024年09月23日/A_Survey_of_Stance_Detection_on_Social_Media_New_Directions_and_Perspectives.md)
 
     - [翻译: 社交媒体立场检测：探索新方向与视角](2024年09月23日/A_Survey_of_Stance_Detection_on_Social_Media_New_Directions_and_Perspectives.md)
@@ -256,10 +252,6 @@
 
     - [翻译: 大型语言模型在信息缺失时，是否仍能解决问题？](2024年09月23日/Do_Large_Language_Models_have_Problem-Solving_Capability_under_Incomplete_Information_Scenarios.md)
 
-- [Don't Use LLMs to Make Relevance Judgments](2024年09月23日/Don't_Use_LLMs_to_Make_Relevance_Judgments.md)
-
-    - [翻译: 别用 LLMs 做相关性判断。](2024年09月23日/Don't_Use_LLMs_to_Make_Relevance_Judgments.md)
-
 - [End-to-End Graph Flattening Method for Large Language Models](2024年09月23日/End-to-End_Graph_Flattening_Method_for_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的端到端图展平技术](2024年09月23日/End-to-End_Graph_Flattening_Method_for_Large_Language_Models.md)
@@ -271,10 +263,6 @@
 - [FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension](2024年09月23日/FineCops-Ref_A_new_Dataset_and_Task_for_Fine-Grained_Compositional_Referring_Expression_Comprehension.md)
 
     - [翻译: FineCops-Ref：细粒度组合指代表达理解的新数据集与任务](2024年09月23日/FineCops-Ref_A_new_Dataset_and_Task_for_Fine-Grained_Compositional_Referring_Expression_Comprehension.md)
-
-- [GEM-RAG: Graphical Eigen Memories For Retrieval Augmented Generation](2024年09月23日/GEM-RAG_Graphical_Eigen_Memories_For_Retrieval_Augmented_Generation.md)
-
-    - [翻译: GEM-RAG：一种利用图形特征记忆进行检索增强生成的新方法](2024年09月23日/GEM-RAG_Graphical_Eigen_Memories_For_Retrieval_Augmented_Generation.md)
 
 - [Generative AI Is Not Ready for Clinical Use in Patient Education for Lower Back Pain Patients, Even With Retrieval-Augmented Generation](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
 
@@ -296,10 +284,6 @@
 
     - [翻译: 更轻巧，更出色：探索检索增强生成中的灵活上下文适应](2024年09月23日/Lighter_And_Better_Towards_Flexible_Context_Adaptation_For_Retrieval_Augmented_Generation.md)
 
-- [LINKAGE: Listwise Ranking among Varied-Quality References for Non-Factoid QA Evaluation via LLMs](2024年09月23日/LINKAGE_Listwise_Ranking_among_Varied-Quality_References_for_Non-Factoid_QA_Evaluation_via_LLMs.md)
-
-    - [翻译: LINKAGE：利用 LLM 对非事实性问答进行多样质量参考的列表排序评估](2024年09月23日/LINKAGE_Listwise_Ranking_among_Varied-Quality_References_for_Non-Factoid_QA_Evaluation_via_LLMs.md)
-
 - [Location is Key: Leveraging Large Language Model for Functional Bug Localization in Verilog](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
 
     - [翻译: 位置至关重要：借助大型语言模型，精准定位 Verilog 中的功能性错误。](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
@@ -307,10 +291,6 @@
 - [Making Text Embedders Few-Shot Learners](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
 
     - [翻译: 让文本嵌入器变身少样本学习高手](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
-
-- [MemBench: Towards Real-world Evaluation of Memory-Augmented Dialogue Systems](2024年09月23日/MemBench_Towards_Real-world_Evaluation_of_Memory-Augmented_Dialogue_Systems.md)
-
-    - [翻译: MemBench：迈向真实世界中内存增强对话系统的评估](2024年09月23日/MemBench_Towards_Real-world_Evaluation_of_Memory-Augmented_Dialogue_Systems.md)
 
 - [MMPT: Multimodal Prompt Tuning for Zero-shot Instruction Learning](2024年09月23日/MMPT_Multimodal_Prompt_Tuning_for_Zero-shot_Instruction_Learning.md)
 
