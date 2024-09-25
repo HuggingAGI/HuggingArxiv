@@ -236,21 +236,9 @@
 
     - [翻译: 社交媒体立场检测：探索新方向与视角](2024年09月23日/A_Survey_of_Stance_Detection_on_Social_Media_New_Directions_and_Perspectives.md)
 
-- [A-VL: Adaptive Attention for Large Vision-Language Models](2024年09月23日/A-VL_Adaptive_Attention_for_Large_Vision-Language_Models.md)
-
-    - [翻译: A-VL：为大型视觉-语言模型量身定制的自适应注意力机制](2024年09月23日/A-VL_Adaptive_Attention_for_Large_Vision-Language_Models.md)
-
 - [Benchmarking Edge AI Platforms for High-Performance ML Inference](2024年09月23日/Benchmarking_Edge_AI_Platforms_for_High-Performance_ML_Inference.md)
 
     - [翻译: 为高性能机器学习推理，对边缘 AI 平台进行基准测试](2024年09月23日/Benchmarking_Edge_AI_Platforms_for_High-Performance_ML_Inference.md)
-
-- [Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining for Clinical LLMs](2024年09月23日/Beyond_Fine-tuning_Unleashing_the_Potential_of_Continuous_Pretraining_for_Clinical_LLMs.md)
-
-    - [翻译: 不仅仅是微调，持续预训练正在释放临床大型语言模型的无限潜能。](2024年09月23日/Beyond_Fine-tuning_Unleashing_the_Potential_of_Continuous_Pretraining_for_Clinical_LLMs.md)
-
-- [Boosting Healthcare LLMs Through Retrieved Context](2024年09月23日/Boosting_Healthcare_LLMs_Through_Retrieved_Context.md)
-
-    - [翻译: 借助检索上下文，提升医疗领域大型语言模型的性能](2024年09月23日/Boosting_Healthcare_LLMs_Through_Retrieved_Context.md)
 
 - [Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning](2024年09月23日/Brotherhood_at_WMT_2024_Leveraging_LLM-Generated_Contextual_Conversations_for_Cross-Lingual_Image_Captioning.md)
 
@@ -275,14 +263,6 @@
 - [End-to-End Graph Flattening Method for Large Language Models](2024年09月23日/End-to-End_Graph_Flattening_Method_for_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的端到端图展平技术](2024年09月23日/End-to-End_Graph_Flattening_Method_for_Large_Language_Models.md)
-
-- [Enhancing Aspect-based Sentiment Analysis in Tourism Using Large Language Models and Positional Information](2024年09月23日/Enhancing_Aspect-based_Sentiment_Analysis_in_Tourism_Using_Large_Language_Models_and_Positional_Information.md)
-
-    - [翻译: 通过大型语言模型与位置信息，提升旅游领域基于方面的情感分析效果。](2024年09月23日/Enhancing_Aspect-based_Sentiment_Analysis_in_Tourism_Using_Large_Language_Models_and_Positional_Information.md)
-
-- [Evaluating the Usability of LLMs in Threat Intelligence Enrichment](2024年09月23日/Evaluating_the_Usability_of_LLMs_in_Threat_Intelligence_Enrichment.md)
-
-    - [翻译: 探究大型语言模型在威胁情报增强中的实用性](2024年09月23日/Evaluating_the_Usability_of_LLMs_in_Threat_Intelligence_Enrichment.md)
 
 - [Exploring Fine-grained Retail Product Discrimination with Zero-shot Object Classification Using Vision-Language Models](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
 
@@ -328,10 +308,6 @@
 
     - [翻译: 让文本嵌入器变身少样本学习高手](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
 
-- [MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models](2024年09月23日/MediConfusion_Can_you_trust_your_AI_radiologist_Probing_the_reliability_of_multimodal_medical_foundation_models.md)
-
-    - [翻译: MediConfusion：你敢信你的 AI 放射科医生吗？深入探讨多模态医学基础模型的可靠性。](2024年09月23日/MediConfusion_Can_you_trust_your_AI_radiologist_Probing_the_reliability_of_multimodal_medical_foundation_models.md)
-
 - [MemBench: Towards Real-world Evaluation of Memory-Augmented Dialogue Systems](2024年09月23日/MemBench_Towards_Real-world_Evaluation_of_Memory-Augmented_Dialogue_Systems.md)
 
     - [翻译: MemBench：迈向真实世界中内存增强对话系统的评估](2024年09月23日/MemBench_Towards_Real-world_Evaluation_of_Memory-Augmented_Dialogue_Systems.md)
@@ -347,10 +323,6 @@
 - [PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
 
     - [翻译: PackageIntel：借助大型语言模型，实现包生态系统中的智能自动化提取](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
-
-- [PALLM: Evaluating and Enhancing PALLiative Care Conversations with Large Language Models](2024年09月23日/PALLM_Evaluating_and_Enhancing_PALLiative_Care_Conversations_with_Large_Language_Models.md)
-
-    - [翻译: PALLM：利用大型语言模型提升姑息治疗对话的质量与效果](2024年09月23日/PALLM_Evaluating_and_Enhancing_PALLiative_Care_Conversations_with_Large_Language_Models.md)
 
 - [Past Meets Present: Creating Historical Analogy with Large Language Models](2024年09月23日/Past_Meets_Present_Creating_Historical_Analogy_with_Large_Language_Models.md)
 
