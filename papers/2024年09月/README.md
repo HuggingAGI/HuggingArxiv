@@ -228,26 +228,6 @@
 
 2024年09月23日
 
-- [CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
-
-    - [翻译: CSPS：一种高效通信的序列并行服务系统，专为处理长提示的Transformer模型设计](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
-
-- [Exploring Fine-grained Retail Product Discrimination with Zero-shot Object Classification Using Vision-Language Models](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
-
-    - [翻译: 通过视觉-语言模型，我们探索了零-shot 对象分类在细粒度零售产品辨别中的应用。](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
-
-- [Improving Emotional Support Delivery in Text-Based Community Safety Reporting Using Large Language Models](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型提升社区安全文本报告中情感支持的传递效果](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
-
-- [Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation](2024年09月23日/Lighter_And_Better_Towards_Flexible_Context_Adaptation_For_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 更轻巧，更出色：探索检索增强生成中的灵活上下文适应](2024年09月23日/Lighter_And_Better_Towards_Flexible_Context_Adaptation_For_Retrieval_Augmented_Generation.md)
-
-- [Making Text Embedders Few-Shot Learners](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
-
-    - [翻译: 让文本嵌入器变身少样本学习高手](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
-
 - [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
 
     - [翻译: MobileVLM：一款专为提升 UI 内部及跨 UI 理解的视觉-语言模型](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
@@ -255,7 +235,3 @@
 - [ReLEP: A Novel Framework for Real-world Long-horizon Embodied Planning](2024年09月23日/ReLEP_A_Novel_Framework_for_Real-world_Long-horizon_Embodied_Planning.md)
 
     - [翻译: ReLEP：开创性的现实世界长期具身规划框架](2024年09月23日/ReLEP_A_Novel_Framework_for_Real-world_Long-horizon_Embodied_Planning.md)
-
-- [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
-
-    - [翻译: RAG 及其进阶：一份详尽的调查，探讨如何让 LLMs 更聪明地利用外部数据](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
