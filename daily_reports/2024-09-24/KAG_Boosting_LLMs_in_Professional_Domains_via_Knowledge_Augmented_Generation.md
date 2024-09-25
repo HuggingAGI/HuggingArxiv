@@ -1,5 +1,5 @@
 # KAG：借助知识增强生成技术，提升大型语言模型在专业领域的表现。
-发布时间：2024年09月09日
+发布时间：2024年09月24日
 
 `RAG`
 > KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation

@@ -1,5 +1,5 @@
 # RepoGenReflex：借助语言强化与检索增强生成，提升仓库级代码补全能力
-发布时间：2024年09月19日
+发布时间：2024年09月23日
 
 `RAG`
 > RepoGenReflex: Enhancing Repository-Level Code Completion with Verbal Reinforcement and Retrieval-Augmented Generation
