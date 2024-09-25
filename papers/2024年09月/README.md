@@ -232,10 +232,6 @@
 
     - [翻译: 社交媒体立场检测：探索新方向与视角](2024年09月23日/A_Survey_of_Stance_Detection_on_Social_Media_New_Directions_and_Perspectives.md)
 
-- [Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning](2024年09月23日/Brotherhood_at_WMT_2024_Leveraging_LLM-Generated_Contextual_Conversations_for_Cross-Lingual_Image_Captioning.md)
-
-    - [翻译: WMT 2024 兄弟会：借助 LLM 生成的上下文对话，实现跨语言图像描述](2024年09月23日/Brotherhood_at_WMT_2024_Leveraging_LLM-Generated_Contextual_Conversations_for_Cross-Lingual_Image_Captioning.md)
-
 - [CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
 
     - [翻译: CSPS：一种高效通信的序列并行服务系统，专为处理长提示的Transformer模型设计](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
@@ -252,10 +248,6 @@
 
     - [翻译: 通过视觉-语言模型，我们探索了零-shot 对象分类在细粒度零售产品辨别中的应用。](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
 
-- [Generative AI Is Not Ready for Clinical Use in Patient Education for Lower Back Pain Patients, Even With Retrieval-Augmented Generation](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 生成式 AI 虽有检索增强生成加持，但在下腰痛患者的临床教育中仍未成熟。](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
-
 - [Improving Emotional Support Delivery in Text-Based Community Safety Reporting Using Large Language Models](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型提升社区安全文本报告中情感支持的传递效果](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
@@ -263,10 +255,6 @@
 - [Learning When to Retrieve, What to Rewrite, and How to Respond in Conversational QA](2024年09月23日/Learning_When_to_Retrieve,_What_to_Rewrite,_and_How_to_Respond_in_Conversational_QA.md)
 
     - [翻译: 掌握对话问答中的检索时机、重写内容与回应技巧](2024年09月23日/Learning_When_to_Retrieve,_What_to_Rewrite,_and_How_to_Respond_in_Conversational_QA.md)
-
-- [Lessons Learned on Information Retrieval in Electronic Health Records: A Comparison of Embedding Models and Pooling Strategies](2024年09月23日/Lessons_Learned_on_Information_Retrieval_in_Electronic_Health_Records_A_Comparison_of_Embedding_Models_and_Pooling_Strategies.md)
-
-    - [翻译: 电子健康记录信息检索的实践经验：嵌入模型与池化策略的对比分析](2024年09月23日/Lessons_Learned_on_Information_Retrieval_in_Electronic_Health_Records_A_Comparison_of_Embedding_Models_and_Pooling_Strategies.md)
 
 - [Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation](2024年09月23日/Lighter_And_Better_Towards_Flexible_Context_Adaptation_For_Retrieval_Augmented_Generation.md)
 
@@ -312,10 +300,6 @@
 
     - [翻译: RAG 及其进阶：一份详尽的调查，探讨如何让 LLMs 更聪明地利用外部数据](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
 
-- [ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](2024年09月23日/ReVLA_Reverting_Visual_Domain_Limitation_of_Robotic_Foundation_Models.md)
-
-    - [翻译: ReVLA：突破机器人基础模型的视觉领域限制](2024年09月23日/ReVLA_Reverting_Visual_Domain_Limitation_of_Robotic_Foundation_Models.md)
-
 - [RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code](2024年09月23日/RMCBench_Benchmarking_Large_Language_Models'_Resistance_to_Malicious_Code.md)
 
     - [翻译: RMCBench：评估大型语言模型抵御恶意代码的能力](2024年09月23日/RMCBench_Benchmarking_Large_Language_Models'_Resistance_to_Malicious_Code.md)
@@ -323,11 +307,3 @@
 - [SEAL: Suite for Evaluating API-use of LLMs](2024年09月23日/SEAL_Suite_for_Evaluating_API-use_of_LLMs.md)
 
     - [翻译: SEAL：一套专为评估大型语言模型（LLM）API 使用情况而设计的工具集](2024年09月23日/SEAL_Suite_for_Evaluating_API-use_of_LLMs.md)
-
-- [Semantic Inference-Based Deep Learning and Modeling for Earth Observation: Cognitive Semantic Augmentation Satellite Networks](2024年09月23日/Semantic_Inference-Based_Deep_Learning_and_Modeling_for_Earth_Observation_Cognitive_Semantic_Augmentation_Satellite_Networks.md)
-
-    - [翻译: 深度学习与地球观测建模：基于语义推理的认知增强卫星网络](2024年09月23日/Semantic_Inference-Based_Deep_Learning_and_Modeling_for_Earth_Observation_Cognitive_Semantic_Augmentation_Satellite_Networks.md)
-
-- [With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models](2024年09月23日/With_Ears_to_See_and_Eyes_to_Hear_Sound_Symbolism_Experiments_with_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 以耳为眼，以眼为耳：探索多模态大型语言模型的声音象征实验](2024年09月23日/With_Ears_to_See_and_Eyes_to_Hear_Sound_Symbolism_Experiments_with_Multimodal_Large_Language_Models.md)
