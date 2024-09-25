@@ -130,9 +130,9 @@
 
     - [翻译: LLM 回声室：定制化与自动化的虚假信息传播](2024年09月24日/LLM_Echo_Chamber_personalized_and_automated_disinformation.md)
 
-- [LSAST - Enhancing Cybersecurity through LLM-supported Static Application Security Testing](2024年09月24日/LSAST_-_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
+- [LSAST -- Enhancing Cybersecurity through LLM-supported Static Application Security Testing](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
 
-    - [翻译: LSAST：借助 LLM 支持的静态应用安全测试提升网络安全](2024年09月24日/LSAST_-_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
+    - [翻译: LSAST：借助 LLM 支持的静态应用安全测试提升网络安全](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
 
 - [Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering](2024年09月24日/Merging_LoRAs_like_Playing_LEGO_Pushing_the_Modularity_of_LoRA_to_Extremes_Through_Rank-Wise_Clustering.md)
 
