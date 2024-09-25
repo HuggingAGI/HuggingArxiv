@@ -228,17 +228,9 @@
 
 2024年09月23日
 
-- [A Survey of Stance Detection on Social Media: New Directions and Perspectives](2024年09月23日/A_Survey_of_Stance_Detection_on_Social_Media_New_Directions_and_Perspectives.md)
-
-    - [翻译: 社交媒体立场检测：探索新方向与视角](2024年09月23日/A_Survey_of_Stance_Detection_on_Social_Media_New_Directions_and_Perspectives.md)
-
 - [CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
 
     - [翻译: CSPS：一种高效通信的序列并行服务系统，专为处理长提示的Transformer模型设计](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
-
-- [dnaGrinder: a lightweight and high-capacity genomic foundation model](2024年09月23日/dnaGrinder_a_lightweight_and_high-capacity_genomic_foundation_model.md)
-
-    - [翻译: dnaGrinder：一款轻巧且高容量的基因组基础模型](2024年09月23日/dnaGrinder_a_lightweight_and_high-capacity_genomic_foundation_model.md)
 
 - [Exploring Fine-grained Retail Product Discrimination with Zero-shot Object Classification Using Vision-Language Models](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
 
@@ -247,10 +239,6 @@
 - [Improving Emotional Support Delivery in Text-Based Community Safety Reporting Using Large Language Models](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型提升社区安全文本报告中情感支持的传递效果](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
-
-- [Learning When to Retrieve, What to Rewrite, and How to Respond in Conversational QA](2024年09月23日/Learning_When_to_Retrieve,_What_to_Rewrite,_and_How_to_Respond_in_Conversational_QA.md)
-
-    - [翻译: 掌握对话问答中的检索时机、重写内容与回应技巧](2024年09月23日/Learning_When_to_Retrieve,_What_to_Rewrite,_and_How_to_Respond_in_Conversational_QA.md)
 
 - [Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation](2024年09月23日/Lighter_And_Better_Towards_Flexible_Context_Adaptation_For_Retrieval_Augmented_Generation.md)
 
@@ -264,14 +252,6 @@
 
     - [翻译: MobileVLM：一款专为提升 UI 内部及跨 UI 理解的视觉-语言模型](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
 
-- [PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
-
-    - [翻译: PackageIntel：借助大型语言模型，实现包生态系统中的智能自动化提取](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
-
-- [RAM2C: A Liberal Arts Educational Chatbot based on Retrieval-augmented Multi-role Multi-expert Collaboration](2024年09月23日/RAM2C_A_Liberal_Arts_Educational_Chatbot_based_on_Retrieval-augmented_Multi-role_Multi-expert_Collaboration.md)
-
-    - [翻译: RAM2C：一款结合检索增强技术，实现多角色与多专家协作的文科教育聊天机器人](2024年09月23日/RAM2C_A_Liberal_Arts_Educational_Chatbot_based_on_Retrieval-augmented_Multi-role_Multi-expert_Collaboration.md)
-
 - [ReLEP: A Novel Framework for Real-world Long-horizon Embodied Planning](2024年09月23日/ReLEP_A_Novel_Framework_for_Real-world_Long-horizon_Embodied_Planning.md)
 
     - [翻译: ReLEP：开创性的现实世界长期具身规划框架](2024年09月23日/ReLEP_A_Novel_Framework_for_Real-world_Long-horizon_Embodied_Planning.md)
@@ -279,7 +259,3 @@
 - [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
 
     - [翻译: RAG 及其进阶：一份详尽的调查，探讨如何让 LLMs 更聪明地利用外部数据](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
-
-- [SEAL: Suite for Evaluating API-use of LLMs](2024年09月23日/SEAL_Suite_for_Evaluating_API-use_of_LLMs.md)
-
-    - [翻译: SEAL：一套专为评估大型语言模型（LLM）API 使用情况而设计的工具集](2024年09月23日/SEAL_Suite_for_Evaluating_API-use_of_LLMs.md)
