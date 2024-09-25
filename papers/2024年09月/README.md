@@ -256,10 +256,6 @@
 
     - [翻译: WMT 2024 兄弟会：借助 LLM 生成的上下文对话，实现跨语言图像描述](2024年09月23日/Brotherhood_at_WMT_2024_Leveraging_LLM-Generated_Contextual_Conversations_for_Cross-Lingual_Image_Captioning.md)
 
-- [Choose the Final Translation from NMT and LLM hypotheses Using MBR Decoding: HW-TSC's Submission to the WMT24 General MT Shared Task](2024年09月23日/Choose_the_Final_Translation_from_NMT_and_LLM_hypotheses_Using_MBR_Decoding_HW-TSC's_Submission_to_the_WMT24_General_MT_Shared_Task.md)
-
-    - [翻译: 通过 MBR 解码，从 NMT 和 LLM 的候选翻译中精选出最终版本：HW-TSC 为 WMT24 通用机器翻译任务提交的方案](2024年09月23日/Choose_the_Final_Translation_from_NMT_and_LLM_hypotheses_Using_MBR_Decoding_HW-TSC's_Submission_to_the_WMT24_General_MT_Shared_Task.md)
-
 - [CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
 
     - [翻译: CSPS：一种高效通信的序列并行服务系统，专为处理长提示的Transformer模型设计](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
@@ -275,10 +271,6 @@
 - [Don't Use LLMs to Make Relevance Judgments](2024年09月23日/Don't_Use_LLMs_to_Make_Relevance_Judgments.md)
 
     - [翻译: 别用 LLMs 做相关性判断。](2024年09月23日/Don't_Use_LLMs_to_Make_Relevance_Judgments.md)
-
-- [Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs](2024年09月23日/Effective_and_Evasive_Fuzz_Testing-Driven_Jailbreaking_Attacks_against_LLMs.md)
-
-    - [翻译: 针对 LLM 的有效且隐蔽的模糊测试驱动越狱攻击](2024年09月23日/Effective_and_Evasive_Fuzz_Testing-Driven_Jailbreaking_Attacks_against_LLMs.md)
 
 - [End-to-End Graph Flattening Method for Large Language Models](2024年09月23日/End-to-End_Graph_Flattening_Method_for_Large_Language_Models.md)
 
@@ -311,10 +303,6 @@
 - [Improving Emotional Support Delivery in Text-Based Community Safety Reporting Using Large Language Models](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型提升社区安全文本报告中情感支持的传递效果](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
-
-- [Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization](2024年09月23日/Knowledge_Planning_in_Large_Language_Models_for_Domain-Aligned_Counseling_Summarization.md)
-
-    - [翻译: 大型语言模型中的知识规划：领域对齐咨询总结](2024年09月23日/Knowledge_Planning_in_Large_Language_Models_for_Domain-Aligned_Counseling_Summarization.md)
 
 - [Learning When to Retrieve, What to Rewrite, and How to Respond in Conversational QA](2024年09月23日/Learning_When_to_Retrieve,_What_to_Rewrite,_and_How_to_Respond_in_Conversational_QA.md)
 
@@ -356,14 +344,6 @@
 
     - [翻译: MobileVLM：一款专为提升 UI 内部及跨 UI 理解的视觉-语言模型](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
 
-- [Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond](2024年09月23日/Multi-Modal_Generative_AI_Multi-modal_LLM,_Diffusion_and_Beyond.md)
-
-    - [翻译: 多模态生成式 AI：探索多模态 LLM、扩散技术及其他前沿领域](2024年09月23日/Multi-Modal_Generative_AI_Multi-modal_LLM,_Diffusion_and_Beyond.md)
-
-- [OMPar: Automatic Parallelization with AI-Driven Source-to-Source Compilation](2024年09月23日/OMPar_Automatic_Parallelization_with_AI-Driven_Source-to-Source_Compilation.md)
-
-    - [翻译: OMPar：借助 AI 驱动的源到源编译技术，实现自动并行化](2024年09月23日/OMPar_Automatic_Parallelization_with_AI-Driven_Source-to-Source_Compilation.md)
-
 - [PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
 
     - [翻译: PackageIntel：借助大型语言模型，实现包生态系统中的智能自动化提取](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
@@ -375,10 +355,6 @@
 - [Past Meets Present: Creating Historical Analogy with Large Language Models](2024年09月23日/Past_Meets_Present_Creating_Historical_Analogy_with_Large_Language_Models.md)
 
     - [翻译: 历史与现代的交汇：借助大型语言模型构建历史类比](2024年09月23日/Past_Meets_Present_Creating_Historical_Analogy_with_Large_Language_Models.md)
-
-- [Pre-trained Language Model and Knowledge Distillation for Lightweight Sequential Recommendation](2024年09月23日/Pre-trained_Language_Model_and_Knowledge_Distillation_for_Lightweight_Sequential_Recommendation.md)
-
-    - [翻译: 预训练语言模型结合知识蒸馏，助力轻量级序列推荐](2024年09月23日/Pre-trained_Language_Model_and_Knowledge_Distillation_for_Lightweight_Sequential_Recommendation.md)
 
 - [Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method](2024年09月23日/Pretraining_Data_Detection_for_Large_Language_Models_A_Divergence-based_Calibration_Method.md)
 
