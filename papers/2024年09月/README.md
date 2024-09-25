@@ -457,9 +457,3 @@
 - [Contextualization of ASR with LLM using phonetic retrieval-based augmentation](2024年09月11日/Contextualization_of_ASR_with_LLM_using_phonetic_retrieval-based_augmentation.md)
 
     - [翻译: 利用语音检索增强技术，通过 LLM 为 ASR 注入上下文](2024年09月11日/Contextualization_of_ASR_with_LLM_using_phonetic_retrieval-based_augmentation.md)
-
-2024年09月05日
-
-- [Visual Prompting in Multimodal Large Language Models: A Survey](2024年09月05日/Visual_Prompting_in_Multimodal_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 多模态大型语言模型中的视觉提示：全面调查](2024年09月05日/Visual_Prompting_in_Multimodal_Large_Language_Models_A_Survey.md)
