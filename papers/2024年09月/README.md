@@ -1,14 +1,144 @@
 # 2024年09月
 
+2024年09月24日
+
+- [AI Can Be Cognitively Biased: An Exploratory Study on Threshold Priming in LLM-Based Batch Relevance Assessment](2024年09月24日/AI_Can_Be_Cognitively_Biased_An_Exploratory_Study_on_Threshold_Priming_in_LLM-Based_Batch_Relevance_Assessment.md)
+
+    - [翻译: AI 也可能有认知偏差：一项探索性研究揭示了基于 LLM 的批量相关性评估中阈值启动的影响。](2024年09月24日/AI_Can_Be_Cognitively_Biased_An_Exploratory_Study_on_Threshold_Priming_in_LLM-Based_Batch_Relevance_Assessment.md)
+
+- [A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding](2024年09月24日/A_Zero-Shot_Open-Vocabulary_Pipeline_for_Dialogue_Understanding.md)
+
+    - [翻译: 零-shot 开放词汇对话理解管道](2024年09月24日/A_Zero-Shot_Open-Vocabulary_Pipeline_for_Dialogue_Understanding.md)
+
+- [BeSimulator: A Large Language Model Powered Text-based Behavior Simulator](2024年09月24日/BeSimulator_A_Large_Language_Model_Powered_Text-based_Behavior_Simulator.md)
+
+    - [翻译: BeSimulator：一款由大型语言模型赋能的文本行为模拟器](2024年09月24日/BeSimulator_A_Large_Language_Model_Powered_Text-based_Behavior_Simulator.md)
+
+- [Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](2024年09月24日/Boosting_Code-Switching_ASR_with_Mixture_of_Experts_Enhanced_Speech-Conditioned_LLM.md)
+
+    - [翻译: 利用专家混合增强的语音条件LLM，提升代码切换ASR性能。](2024年09月24日/Boosting_Code-Switching_ASR_with_Mixture_of_Experts_Enhanced_Speech-Conditioned_LLM.md)
+
+- [CHBench: A Chinese Dataset for Evaluating Health in Large Language Models](2024年09月24日/CHBench_A_Chinese_Dataset_for_Evaluating_Health_in_Large_Language_Models.md)
+
+    - [翻译: CHBench：一款专为评估大型语言模型健康状况而设计的中文数据集](2024年09月24日/CHBench_A_Chinese_Dataset_for_Evaluating_Health_in_Large_Language_Models.md)
+
+- [DataGpt-SQL-7B: An Open-Source Language Model for Text-to-SQL](2024年09月24日/DataGpt-SQL-7B_An_Open-Source_Language_Model_for_Text-to-SQL.md)
+
+    - [翻译: DataGpt-SQL-7B：一款专为文本转SQL设计的开源语言模型](2024年09月24日/DataGpt-SQL-7B_An_Open-Source_Language_Model_for_Text-to-SQL.md)
+
+- [Empirical Insights on Fine-Tuning Large Language Models for Question-Answering](2024年09月24日/Empirical_Insights_on_Fine-Tuning_Large_Language_Models_for_Question-Answering.md)
+
+    - [翻译: 微调大型语言模型进行问答的经验洞察](2024年09月24日/Empirical_Insights_on_Fine-Tuning_Large_Language_Models_for_Question-Answering.md)
+
+- [Enhancing IoT based Plant Health Monitoring through Advanced Human Plant Interaction using Large Language Models and Mobile Applications](2024年09月24日/Enhancing_IoT_based_Plant_Health_Monitoring_through_Advanced_Human_Plant_Interaction_using_Large_Language_Models_and_Mobile_Applications.md)
+
+    - [翻译: 利用大型语言模型与移动应用的高级人机交互，提升物联网植物健康监测的效能](2024年09月24日/Enhancing_IoT_based_Plant_Health_Monitoring_through_Advanced_Human_Plant_Interaction_using_Large_Language_Models_and_Mobile_Applications.md)
+
+- [Enhancing Text-to-SQL Capabilities of Large Language Models via Domain Database Knowledge Injection](2024年09月24日/Enhancing_Text-to-SQL_Capabilities_of_Large_Language_Models_via_Domain_Database_Knowledge_Injection.md)
+
+    - [翻译: 借助领域数据库知识，提升大型语言模型在文本转SQL方面的表现](2024年09月24日/Enhancing_Text-to-SQL_Capabilities_of_Large_Language_Models_via_Domain_Database_Knowledge_Injection.md)
+
+- [Exploring Hint Generation Approaches in Open-Domain Question Answering](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
+
+    - [翻译: 探究开放领域问答中的提示生成策略](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
+
+- [Federated Large Language Models: Current Progress and Future Directions](2024年09月24日/Federated_Large_Language_Models_Current_Progress_and_Future_Directions.md)
+
+    - [翻译: 联邦大型语言模型：现状与未来展望](2024年09月24日/Federated_Large_Language_Models_Current_Progress_and_Future_Directions.md)
+
+- [Finetuning LLMs for Comparative Assessment Tasks](2024年09月24日/Finetuning_LLMs_for_Comparative_Assessment_Tasks.md)
+
+    - [翻译: 针对比较评估任务微调 LLM](2024年09月24日/Finetuning_LLMs_for_Comparative_Assessment_Tasks.md)
+
+- [From Passive Watching to Active Learning: Empowering Proactive Participation in Digital Classrooms with AI Video Assistant](2024年09月24日/From_Passive_Watching_to_Active_Learning_Empowering_Proactive_Participation_in_Digital_Classrooms_with_AI_Video_Assistant.md)
+
+    - [翻译: 从被动观看转变为主动学习：借助 AI 视频助手，激发数字课堂中的积极互动](2024年09月24日/From_Passive_Watching_to_Active_Learning_Empowering_Proactive_Participation_in_Digital_Classrooms_with_AI_Video_Assistant.md)
+
+- [HLB: Benchmarking LLMs' Humanlikeness in Language Use](2024年09月24日/HLB_Benchmarking_LLMs'_Humanlikeness_in_Language_Use.md)
+
+    - [翻译: HLB：评估大型语言模型在语言使用中的人类相似度](2024年09月24日/HLB_Benchmarking_LLMs'_Humanlikeness_in_Language_Use.md)
+
+- [iGAiVA: Integrated Generative AI and Visual Analytics in a Machine Learning Workflow for Text Classification](2024年09月24日/iGAiVA_Integrated_Generative_AI_and_Visual_Analytics_in_a_Machine_Learning_Workflow_for_Text_Classification.md)
+
+    - [翻译: iGAiVA：将生成式 AI 与可视化分析融合于文本分类的机器学习流程中](2024年09月24日/iGAiVA_Integrated_Generative_AI_and_Visual_Analytics_in_a_Machine_Learning_Workflow_for_Text_Classification.md)
+
+- [Implicit assessment of language learning during practice as accurate as explicit testing](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
+
+    - [翻译: 练习中的隐性语言学习评估与显性测试同样精准](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
+
+- [Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering](2024年09月24日/Konstruktor_A_Strong_Baseline_for_Simple_Knowledge_Graph_Question_Answering.md)
+
+    - [翻译: Konstruktor：简单知识图谱问答的坚实起点](2024年09月24日/Konstruktor_A_Strong_Baseline_for_Simple_Knowledge_Graph_Question_Answering.md)
+
+- [LLM-Cure: LLM-based Competitor User Review Analysis for Feature Enhancement](2024年09月24日/LLM-Cure_LLM-based_Competitor_User_Review_Analysis_for_Feature_Enhancement.md)
+
+    - [翻译: LLM-Cure：利用 LLM 分析竞争对手用户评论，助力功能优化](2024年09月24日/LLM-Cure_LLM-based_Competitor_User_Review_Analysis_for_Feature_Enhancement.md)
+
+- [LSAST - Enhancing Cybersecurity through LLM-supported Static Application Security Testing](2024年09月24日/LSAST_-_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
+
+    - [翻译: LSAST：借助 LLM 支持的静态应用安全测试提升网络安全](2024年09月24日/LSAST_-_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
+
+- [Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering](2024年09月24日/Merging_LoRAs_like_Playing_LEGO_Pushing_the_Modularity_of_LoRA_to_Extremes_Through_Rank-Wise_Clustering.md)
+
+    - [翻译: 合并 LoRA 如同玩乐高积木，通过秩聚类将 LoRA 的模块化发挥到极致。](2024年09月24日/Merging_LoRAs_like_Playing_LEGO_Pushing_the_Modularity_of_LoRA_to_Extremes_Through_Rank-Wise_Clustering.md)
+
+- [MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models](2024年09月24日/MHRC_Closed-loop_Decentralized_Multi-Heterogeneous_Robot_Collaboration_with_Large_Language_Models.md)
+
+    - [翻译: MHRC：结合大型语言模型的闭环分散式多异构机器人协作](2024年09月24日/MHRC_Closed-loop_Decentralized_Multi-Heterogeneous_Robot_Collaboration_with_Large_Language_Models.md)
+
+- [NER-Luxury: Named entity recognition for the fashion and luxury domain](2024年09月24日/NER-Luxury_Named_entity_recognition_for_the_fashion_and_luxury_domain.md)
+
+    - [翻译: NER-Luxury: 专为时尚与奢侈品领域打造的命名实体识别技术](2024年09月24日/NER-Luxury_Named_entity_recognition_for_the_fashion_and_luxury_domain.md)
+
+- [Performance and scaling of the LFRic weather and climate model on different generations of HPE Cray EX supercomputers](2024年09月24日/Performance_and_scaling_of_the_LFRic_weather_and_climate_model_on_different_generations_of_HPE_Cray_EX_supercomputers.md)
+
+    - [翻译: LFRic 模型在各代 HPE Cray EX 超级计算机上的表现与扩展性](2024年09月24日/Performance_and_scaling_of_the_LFRic_weather_and_climate_model_on_different_generations_of_HPE_Cray_EX_supercomputers.md)
+
+- [Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
+
+    - [翻译: 无专家参与的 LLM-符号规划：在未知领域中探索前行](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
+
+- [Privacy Evaluation Benchmarks for NLP Models](2024年09月24日/Privacy_Evaluation_Benchmarks_for_NLP_Models.md)
+
+    - [翻译: NLP 模型的隐私评估标准](2024年09月24日/Privacy_Evaluation_Benchmarks_for_NLP_Models.md)
+
+- [SLIMER-IT: Zero-Shot NER on Italian Language](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
+
+    - [翻译: SLIMER-IT：意大利语零-shot命名实体识别](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
+
+- [Small Language Models: Survey, Measurements, and Insights](2024年09月24日/Small_Language_Models_Survey,_Measurements,_and_Insights.md)
+
+    - [翻译: 小型语言模型：探索、评估与洞察](2024年09月24日/Small_Language_Models_Survey,_Measurements,_and_Insights.md)
+
+- [SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents](2024年09月24日/SwiftDossier_Tailored_Automatic_Dossier_for_Drug_Discovery_with_LLMs_and_Agents.md)
+
+    - [翻译: SwiftDossier：结合 LLM 与智能代理，为药物发现打造定制化自动档案。](2024年09月24日/SwiftDossier_Tailored_Automatic_Dossier_for_Drug_Discovery_with_LLMs_and_Agents.md)
+
+- [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](2024年09月24日/Time-MoE_Billion-Scale_Time_Series_Foundation_Models_with_Mixture_of_Experts.md)
+
+    - [翻译: Time-MoE：融合专家智慧的十亿级时间序列基础模型](2024年09月24日/Time-MoE_Billion-Scale_Time_Series_Foundation_Models_with_Mixture_of_Experts.md)
+
+- [Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering](2024年09月24日/Unlocking_Markets_A_Multilingual_Benchmark_to_Cross-Market_Question_Answering.md)
+
+    - [翻译: 开启市场之门：多语言问答的跨市场基准](2024年09月24日/Unlocking_Markets_A_Multilingual_Benchmark_to_Cross-Market_Question_Answering.md)
+
+- [Unveiling Language Competence Neurons: A Psycholinguistic Approach to Model Interpretability](2024年09月24日/Unveiling_Language_Competence_Neurons_A_Psycholinguistic_Approach_to_Model_Interpretability.md)
+
+    - [翻译: 揭秘语言能力神经元：心理语言学视角下的模型可解释性研究](2024年09月24日/Unveiling_Language_Competence_Neurons_A_Psycholinguistic_Approach_to_Model_Interpretability.md)
+
+- [XTRUST: On the Multilingual Trustworthiness of Large Language Models](2024年09月24日/XTRUST_On_the_Multilingual_Trustworthiness_of_Large_Language_Models.md)
+
+    - [翻译: XTRUST：探讨大型语言模型在多语言环境中的可信度](2024年09月24日/XTRUST_On_the_Multilingual_Trustworthiness_of_Large_Language_Models.md)
+
+- [Zero-shot forecasting of chaotic systems](2024年09月24日/Zero-shot_forecasting_of_chaotic_systems.md)
+
+    - [翻译: 混沌系统的零-shot 预测](2024年09月24日/Zero-shot_forecasting_of_chaotic_systems.md)
+
 2024年09月23日
 
 - [Advancing Depression Detection on Social Media Platforms Through Fine-Tuned Large Language Models](2024年09月23日/Advancing_Depression_Detection_on_Social_Media_Platforms_Through_Fine-Tuned_Large_Language_Models.md)
 
     - [翻译: 借助微调大型语言模型，提升社交媒体平台上抑郁症检测的精准度](2024年09月23日/Advancing_Depression_Detection_on_Social_Media_Platforms_Through_Fine-Tuned_Large_Language_Models.md)
-
-- [AmpAgent: An LLM-based Multi-Agent System for Multi-stage Amplifier Schematic Design from Literature for Process and Performance Porting](2024年09月23日/AmpAgent_An_LLM-based_Multi-Agent_System_for_Multi-stage_Amplifier_Schematic_Design_from_Literature_for_Process_and_Performance_Porting.md)
-
-    - [翻译: AmpAgent：基于 LLM 的多代理系统，专为从文献中进行多阶段放大器原理图设计，实现工艺与性能的移植。](2024年09月23日/AmpAgent_An_LLM-based_Multi-Agent_System_for_Multi-stage_Amplifier_Schematic_Design_from_Literature_for_Process_and_Performance_Porting.md)
 
 - [A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?](2024年09月23日/A_Preliminary_Study_of_o1_in_Medicine_Are_We_Closer_to_an_AI_Doctor.md)
 
@@ -38,29 +168,13 @@
 
     - [翻译: WMT 2024 兄弟会：借助 LLM 生成的上下文对话，实现跨语言图像描述](2024年09月23日/Brotherhood_at_WMT_2024_Leveraging_LLM-Generated_Contextual_Conversations_for_Cross-Lingual_Image_Captioning.md)
 
-- [ChatGPT as a Solver and Grader of Programming Exams written in Spanish](2024年09月23日/ChatGPT_as_a_Solver_and_Grader_of_Programming_Exams_written_in_Spanish.md)
-
-    - [翻译: ChatGPT：西班牙语编程考试的智能解答与评分专家](2024年09月23日/ChatGPT_as_a_Solver_and_Grader_of_Programming_Exams_written_in_Spanish.md)
-
-- [Chattronics: using GPTs to assist in the design of data acquisition systems](2024年09月23日/Chattronics_using_GPTs_to_assist_in_the_design_of_data_acquisition_systems.md)
-
-    - [翻译: Chattronics：借助 GPTs 之力，设计数据采集系统](2024年09月23日/Chattronics_using_GPTs_to_assist_in_the_design_of_data_acquisition_systems.md)
-
 - [Choose the Final Translation from NMT and LLM hypotheses Using MBR Decoding: HW-TSC's Submission to the WMT24 General MT Shared Task](2024年09月23日/Choose_the_Final_Translation_from_NMT_and_LLM_hypotheses_Using_MBR_Decoding_HW-TSC's_Submission_to_the_WMT24_General_MT_Shared_Task.md)
 
     - [翻译: 通过 MBR 解码，从 NMT 和 LLM 的候选翻译中精选出最终版本：HW-TSC 为 WMT24 通用机器翻译任务提交的方案](2024年09月23日/Choose_the_Final_Translation_from_NMT_and_LLM_hypotheses_Using_MBR_Decoding_HW-TSC's_Submission_to_the_WMT24_General_MT_Shared_Task.md)
 
-- [COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models](2024年09月23日/COHERENT_Collaboration_of_Heterogeneous_Multi-Robot_System_with_Large_Language_Models.md)
-
-    - [翻译: COHERENT：异构多机器人系统与大型语言模型的协同合作](2024年09月23日/COHERENT_Collaboration_of_Heterogeneous_Multi-Robot_System_with_Large_Language_Models.md)
-
 - [CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
 
     - [翻译: CSPS：一种高效通信的序列并行服务系统，专为处理长提示的Transformer模型设计](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
-
-- [Deploying Open-Source Large Language Models: A performance Analysis](2024年09月23日/Deploying_Open-Source_Large_Language_Models_A_performance_Analysis.md)
-
-    - [翻译: 开源大型语言模型的部署：性能探究](2024年09月23日/Deploying_Open-Source_Large_Language_Models_A_performance_Analysis.md)
 
 - [Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation](2024年09月23日/Detect,_Describe,_Discriminate_Moving_Beyond_VQA_for_MLLM_Evaluation.md)
 
@@ -90,10 +204,6 @@
 
     - [翻译: 通过大型语言模型与位置信息，提升旅游领域基于方面的情感分析效果。](2024年09月23日/Enhancing_Aspect-based_Sentiment_Analysis_in_Tourism_Using_Large_Language_Models_and_Positional_Information.md)
 
-- [ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning](2024年09月23日/ERABAL_Enhancing_Role-Playing_Agents_through_Boundary-Aware_Learning.md)
-
-    - [翻译: ERABAL：利用边界感知学习提升角色扮演代理的能力](2024年09月23日/ERABAL_Enhancing_Role-Playing_Agents_through_Boundary-Aware_Learning.md)
-
 - [Evaluating the Usability of LLMs in Threat Intelligence Enrichment](2024年09月23日/Evaluating_the_Usability_of_LLMs_in_Threat_Intelligence_Enrichment.md)
 
     - [翻译: 探究大型语言模型在威胁情报增强中的实用性](2024年09月23日/Evaluating_the_Usability_of_LLMs_in_Threat_Intelligence_Enrichment.md)
@@ -110,13 +220,9 @@
 
     - [翻译: 生成式 AI 虽有检索增强生成加持，但在下腰痛患者的临床教育中仍未成熟。](2024年09月23日/Generative_AI_Is_Not_Ready_for_Clinical_Use_in_Patient_Education_for_Lower_Back_Pain_Patients,_Even_With_Retrieval-Augmented_Generation.md)
 
-- [HW-TSC's Submission to the CCMT 2024 Machine Translation Tasks](2024年09月23日/HW-TSC's_Submission_to_the_CCMT_2024_Machine_Translation_Tasks.md)
+- [Improving Emotional Support Delivery in Text-Based Community Safety Reporting Using Large Language Models](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
 
-    - [翻译: HW-TSC 向 CCMT 2024 机器翻译任务提交了作品](2024年09月23日/HW-TSC's_Submission_to_the_CCMT_2024_Machine_Translation_Tasks.md)
-
-- [InterMind: A Doctor-Patient-Family Interactive Depression Assessment System Empowered by Large Language Models](2024年09月23日/InterMind_A_Doctor-Patient-Family_Interactive_Depression_Assessment_System_Empowered_by_Large_Language_Models.md)
-
-    - [翻译: InterMind：一款由大型语言模型驱动的医生、患者与家庭互动式抑郁症评估系统](2024年09月23日/InterMind_A_Doctor-Patient-Family_Interactive_Depression_Assessment_System_Empowered_by_Large_Language_Models.md)
+    - [翻译: 利用大型语言模型提升社区安全文本报告中情感支持的传递效果](2024年09月23日/Improving_Emotional_Support_Delivery_in_Text-Based_Community_Safety_Reporting_Using_Large_Language_Models.md)
 
 - [Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization](2024年09月23日/Knowledge_Planning_in_Large_Language_Models_for_Domain-Aligned_Counseling_Summarization.md)
 
@@ -137,6 +243,10 @@
 - [Location is Key: Leveraging Large Language Model for Functional Bug Localization in Verilog](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
 
     - [翻译: 位置至关重要：借助大型语言模型，精准定位 Verilog 中的功能性错误。](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
+
+- [Making Text Embedders Few-Shot Learners](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
+
+    - [翻译: 让文本嵌入器变身少样本学习高手](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
 
 - [MemBench: Towards Real-world Evaluation of Memory-Augmented Dialogue Systems](2024年09月23日/MemBench_Towards_Real-world_Evaluation_of_Memory-Augmented_Dialogue_Systems.md)
 
