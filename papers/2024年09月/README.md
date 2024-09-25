@@ -264,10 +264,6 @@
 
     - [翻译: CSPS：一种高效通信的序列并行服务系统，专为处理长提示的Transformer模型设计](2024年09月23日/CSPS_A_Communication-Efficient_Sequence-Parallelism_based_Serving_System_for_Transformer_based_Models_with_Long_Prompts.md)
 
-- [Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation](2024年09月23日/Detect,_Describe,_Discriminate_Moving_Beyond_VQA_for_MLLM_Evaluation.md)
-
-    - [翻译: 检测、描述、区分：迈向超越 VQA 的多模态语言模型评估](2024年09月23日/Detect,_Describe,_Discriminate_Moving_Beyond_VQA_for_MLLM_Evaluation.md)
-
 - [dnaGrinder: a lightweight and high-capacity genomic foundation model](2024年09月23日/dnaGrinder_a_lightweight_and_high-capacity_genomic_foundation_model.md)
 
     - [翻译: dnaGrinder：一款轻巧且高容量的基因组基础模型](2024年09月23日/dnaGrinder_a_lightweight_and_high-capacity_genomic_foundation_model.md)
@@ -360,10 +356,6 @@
 
     - [翻译: MobileVLM：一款专为提升 UI 内部及跨 UI 理解的视觉-语言模型](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
 
-- [MTP: A Dataset for Multi-Modal Turning Points in Casual Conversations](2024年09月23日/MTP_A_Dataset_for_Multi-Modal_Turning_Points_in_Casual_Conversations.md)
-
-    - [翻译: MTP：休闲对话中多模态转折点的数据集](2024年09月23日/MTP_A_Dataset_for_Multi-Modal_Turning_Points_in_Casual_Conversations.md)
-
 - [Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond](2024年09月23日/Multi-Modal_Generative_AI_Multi-modal_LLM,_Diffusion_and_Beyond.md)
 
     - [翻译: 多模态生成式 AI：探索多模态 LLM、扩散技术及其他前沿领域](2024年09月23日/Multi-Modal_Generative_AI_Multi-modal_LLM,_Diffusion_and_Beyond.md)
@@ -424,10 +416,6 @@
 
     - [翻译: 深度学习与地球观测建模：基于语义推理的认知增强卫星网络](2024年09月23日/Semantic_Inference-Based_Deep_Learning_and_Modeling_for_Earth_Observation_Cognitive_Semantic_Augmentation_Satellite_Networks.md)
 
-- [Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models](2024年09月23日/Towards_Efficient_and_Robust_VQA-NLE_Data_Generation_with_Large_Vision-Language_Models.md)
-
-    - [翻译: 利用大型视觉-语言模型，实现高效且鲁棒的 VQA-NLE 数据生成](2024年09月23日/Towards_Efficient_and_Robust_VQA-NLE_Data_Generation_with_Large_Vision-Language_Models.md)
-
 - [TS-TCD: Triplet-Level Cross-Modal Distillation for Time-Series Forecasting Using Large Language Models](2024年09月23日/TS-TCD_Triplet-Level_Cross-Modal_Distillation_for_Time-Series_Forecasting_Using_Large_Language_Models.md)
 
     - [翻译: TS-TCD：利用大型语言模型进行时序预测的三重跨模态知识蒸馏](2024年09月23日/TS-TCD_Triplet-Level_Cross-Modal_Distillation_for_Time-Series_Forecasting_Using_Large_Language_Models.md)
@@ -439,21 +427,3 @@
 - [With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models](2024年09月23日/With_Ears_to_See_and_Eyes_to_Hear_Sound_Symbolism_Experiments_with_Multimodal_Large_Language_Models.md)
 
     - [翻译: 以耳为眼，以眼为耳：探索多模态大型语言模型的声音象征实验](2024年09月23日/With_Ears_to_See_and_Eyes_to_Hear_Sound_Symbolism_Experiments_with_Multimodal_Large_Language_Models.md)
-
-2024年09月19日
-
-- [ControlMath: Controllable Data Generation Promotes Math Generalist Models](2024年09月19日/ControlMath_Controllable_Data_Generation_Promotes_Math_Generalist_Models.md)
-
-    - [翻译: ControlMath：通过可控数据生成，助力数学通才模型的成长](2024年09月19日/ControlMath_Controllable_Data_Generation_Promotes_Math_Generalist_Models.md)
-
-2024年09月18日
-
-- [VERA: Validation and Enhancement for Retrieval Augmented systems](2024年09月18日/VERA_Validation_and_Enhancement_for_Retrieval_Augmented_systems.md)
-
-    - [翻译: VERA：检索增强系统的验证与提升](2024年09月18日/VERA_Validation_and_Enhancement_for_Retrieval_Augmented_systems.md)
-
-2024年09月11日
-
-- [Contextualization of ASR with LLM using phonetic retrieval-based augmentation](2024年09月11日/Contextualization_of_ASR_with_LLM_using_phonetic_retrieval-based_augmentation.md)
-
-    - [翻译: 利用语音检索增强技术，通过 LLM 为 ASR 注入上下文](2024年09月11日/Contextualization_of_ASR_with_LLM_using_phonetic_retrieval-based_augmentation.md)
