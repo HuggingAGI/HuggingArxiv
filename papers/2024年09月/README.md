@@ -240,10 +240,6 @@
 
     - [翻译: dnaGrinder：一款轻巧且高容量的基因组基础模型](2024年09月23日/dnaGrinder_a_lightweight_and_high-capacity_genomic_foundation_model.md)
 
-- [Do Large Language Models have Problem-Solving Capability under Incomplete Information Scenarios?](2024年09月23日/Do_Large_Language_Models_have_Problem-Solving_Capability_under_Incomplete_Information_Scenarios.md)
-
-    - [翻译: 大型语言模型在信息缺失时，是否仍能解决问题？](2024年09月23日/Do_Large_Language_Models_have_Problem-Solving_Capability_under_Incomplete_Information_Scenarios.md)
-
 - [Exploring Fine-grained Retail Product Discrimination with Zero-shot Object Classification Using Vision-Language Models](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
 
     - [翻译: 通过视觉-语言模型，我们探索了零-shot 对象分类在细粒度零售产品辨别中的应用。](2024年09月23日/Exploring_Fine-grained_Retail_Product_Discrimination_with_Zero-shot_Object_Classification_Using_Vision-Language_Models.md)
@@ -260,17 +256,9 @@
 
     - [翻译: 更轻巧，更出色：探索检索增强生成中的灵活上下文适应](2024年09月23日/Lighter_And_Better_Towards_Flexible_Context_Adaptation_For_Retrieval_Augmented_Generation.md)
 
-- [Location is Key: Leveraging Large Language Model for Functional Bug Localization in Verilog](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
-
-    - [翻译: 位置至关重要：借助大型语言模型，精准定位 Verilog 中的功能性错误。](2024年09月23日/Location_is_Key_Leveraging_Large_Language_Model_for_Functional_Bug_Localization_in_Verilog.md)
-
 - [Making Text Embedders Few-Shot Learners](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
 
     - [翻译: 让文本嵌入器变身少样本学习高手](2024年09月23日/Making_Text_Embedders_Few-Shot_Learners.md)
-
-- [MMPT: Multimodal Prompt Tuning for Zero-shot Instruction Learning](2024年09月23日/MMPT_Multimodal_Prompt_Tuning_for_Zero-shot_Instruction_Learning.md)
-
-    - [翻译: MMPT：零-shot 指令学习的多模态提示调优](2024年09月23日/MMPT_Multimodal_Prompt_Tuning_for_Zero-shot_Instruction_Learning.md)
 
 - [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](2024年09月23日/MobileVLM_A_Vision-Language_Model_for_Better_Intra-_and_Inter-UI_Understanding.md)
 
@@ -279,14 +267,6 @@
 - [PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
 
     - [翻译: PackageIntel：借助大型语言模型，实现包生态系统中的智能自动化提取](2024年09月23日/PackageIntel_Leveraging_Large_Language_Models_for_Automated_Intelligence_Extraction_in_Package_Ecosystems.md)
-
-- [Past Meets Present: Creating Historical Analogy with Large Language Models](2024年09月23日/Past_Meets_Present_Creating_Historical_Analogy_with_Large_Language_Models.md)
-
-    - [翻译: 历史与现代的交汇：借助大型语言模型构建历史类比](2024年09月23日/Past_Meets_Present_Creating_Historical_Analogy_with_Large_Language_Models.md)
-
-- [Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method](2024年09月23日/Pretraining_Data_Detection_for_Large_Language_Models_A_Divergence-based_Calibration_Method.md)
-
-    - [翻译: 大型语言模型的预训练数据检测：一种基于发散的校准方法](2024年09月23日/Pretraining_Data_Detection_for_Large_Language_Models_A_Divergence-based_Calibration_Method.md)
 
 - [RAM2C: A Liberal Arts Educational Chatbot based on Retrieval-augmented Multi-role Multi-expert Collaboration](2024年09月23日/RAM2C_A_Liberal_Arts_Educational_Chatbot_based_on_Retrieval-augmented_Multi-role_Multi-expert_Collaboration.md)
 
@@ -299,10 +279,6 @@
 - [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
 
     - [翻译: RAG 及其进阶：一份详尽的调查，探讨如何让 LLMs 更聪明地利用外部数据](2024年09月23日/Retrieval_Augmented_Generation_(RAG)_and_Beyond_A_Comprehensive_Survey_on_How_to_Make_your_LLMs_use_External_Data_More_Wisely.md)
-
-- [RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code](2024年09月23日/RMCBench_Benchmarking_Large_Language_Models'_Resistance_to_Malicious_Code.md)
-
-    - [翻译: RMCBench：评估大型语言模型抵御恶意代码的能力](2024年09月23日/RMCBench_Benchmarking_Large_Language_Models'_Resistance_to_Malicious_Code.md)
 
 - [SEAL: Suite for Evaluating API-use of LLMs](2024年09月23日/SEAL_Suite_for_Evaluating_API-use_of_LLMs.md)
 
