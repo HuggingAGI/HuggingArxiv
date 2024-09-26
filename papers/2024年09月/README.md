@@ -10,17 +10,9 @@
 
     - [翻译: 借助想象力，以角色为核心的创意故事生成](2024年09月25日/A_Character-Centric_Creative_Story_Generation_via_Imagination.md)
 
-- [Adaptive Self-Supervised Learning Strategies for Dynamic On-Device LLM Personalization](2024年09月25日/Adaptive_Self-Supervised_Learning_Strategies_for_Dynamic_On-Device_LLM_Personalization.md)
-
-    - [翻译: 动态设备上 LLM 个性化：自适应自监督学习策略](2024年09月25日/Adaptive_Self-Supervised_Learning_Strategies_for_Dynamic_On-Device_LLM_Personalization.md)
-
 - [A Prompting-Based Representation Learning Method for Recommendation with Large Language Models](2024年09月25日/A_Prompting-Based_Representation_Learning_Method_for_Recommendation_with_Large_Language_Models.md)
 
     - [翻译: 大型语言模型推荐中的提示驱动表示学习方法](2024年09月25日/A_Prompting-Based_Representation_Learning_Method_for_Recommendation_with_Large_Language_Models.md)
-
-- [A Roadmap for Embodied and Social Grounding in LLMs](2024年09月25日/A_Roadmap_for_Embodied_and_Social_Grounding_in_LLMs.md)
-
-    - [翻译: 为 LLM 中的具身与社会基础制定路线图](2024年09月25日/A_Roadmap_for_Embodied_and_Social_Grounding_in_LLMs.md)
 
 - [A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](2024年09月25日/A_Survey_of_Low-bit_Large_Language_Models_Basics,_Systems,_and_Algorithms.md)
 
@@ -37,10 +29,6 @@
 - [ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis](2024年09月25日/ControlCity_A_Multimodal_Diffusion_Model_Based_Approach_for_Accurate_Geospatial_Data_Generation_and_Urban_Morphology_Analysis.md)
 
     - [翻译: ControlCity：一种多模态扩散模型，专为精准地理数据生成和城市形态分析而设计](2024年09月25日/ControlCity_A_Multimodal_Diffusion_Model_Based_Approach_for_Accurate_Geospatial_Data_Generation_and_Urban_Morphology_Analysis.md)
-
-- [Counterfactual Token Generation in Large Language Models](2024年09月25日/Counterfactual_Token_Generation_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的反事实词元生成](2024年09月25日/Counterfactual_Token_Generation_in_Large_Language_Models.md)
 
 - [DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling](2024年09月25日/DALDA_Data_Augmentation_Leveraging_Diffusion_Model_and_LLM_with_Adaptive_Guidance_Scaling.md)
 
@@ -94,17 +82,9 @@
 
     - [翻译: “它精准地描述了我当前的处境”：探究用户对 LLM 增强叙事干预的认知](2024年09月25日/It_Explains_What_I_am_Currently_Going_Through_Perfectly_to_a_Tee_Understanding_User_Perceptions_on_LLM-Enhanced_Narrative_Interventions.md)
 
-- [Large Language Model Predicts Above Normal All India Summer Monsoon Rainfall in 2024](2024年09月25日/Large_Language_Model_Predicts_Above_Normal_All_India_Summer_Monsoon_Rainfall_in_2024.md)
-
-    - [翻译: 大型语言模型预测，2024年全印度夏季季风降雨量将高于正常水平。](2024年09月25日/Large_Language_Model_Predicts_Above_Normal_All_India_Summer_Monsoon_Rainfall_in_2024.md)
-
 - [LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
 
     - [翻译: LLaMa-SciQ：专为解答科学选择题而生的教育聊天机器人](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
-
-- [LLM-CARD: Towards a Description and Landscape of Large Language Models](2024年09月25日/LLM-CARD_Towards_a_Description_and_Landscape_of_Large_Language_Models.md)
-
-    - [翻译: LLM-CARD：探索大型语言模型的全景与描述](2024年09月25日/LLM-CARD_Towards_a_Description_and_Landscape_of_Large_Language_Models.md)
 
 - [RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems](2024年09月25日/RoleBreak_Character_Hallucination_as_a_Jailbreak_Attack_in_Role-Playing_Systems.md)
 
@@ -133,10 +113,6 @@
 - [Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
 
     - [翻译: 让每个应用都成为智能代理：探索基于 API 优先的 LLM 代理，实现更高效的人机交互](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
-
-- [Unit Test Generation for Vulnerability Exploitation in Java Third-Party Libraries](2024年09月25日/Unit_Test_Generation_for_Vulnerability_Exploitation_in_Java_Third-Party_Libraries.md)
-
-    - [翻译: 为Java第三方库中的漏洞利用生成单元测试](2024年09月25日/Unit_Test_Generation_for_Vulnerability_Exploitation_in_Java_Third-Party_Libraries.md)
 
 - [Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
 
