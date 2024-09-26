@@ -248,10 +248,6 @@
 
     - [翻译: STEM 领域多模态答卷的自动化评分](2024年09月24日/Automated_Assessment_of_Multimodal_Answer_Sheets_in_the_STEM_domain.md)
 
-- [A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding](2024年09月24日/A_Zero-Shot_Open-Vocabulary_Pipeline_for_Dialogue_Understanding.md)
-
-    - [翻译: 零-shot 开放词汇对话理解管道](2024年09月24日/A_Zero-Shot_Open-Vocabulary_Pipeline_for_Dialogue_Understanding.md)
-
 - [CDChat: A Large Multimodal Model for Remote Sensing Change Description](2024年09月24日/CDChat_A_Large_Multimodal_Model_for_Remote_Sensing_Change_Description.md)
 
     - [翻译: CDChat：专为遥感变化描述设计的大型多模态模型](2024年09月24日/CDChat_A_Large_Multimodal_Model_for_Remote_Sensing_Change_Description.md)
@@ -268,29 +264,13 @@
 
     - [翻译: 利用弱标签微调轻量级 LLM，提升放射学报告中疾病检测的精准度](2024年09月24日/Enhancing_disease_detection_in_radiology_reports_through_fine-tuning_lightweight_LLM_on_weak_labels.md)
 
-- [Enhancing IoT based Plant Health Monitoring through Advanced Human Plant Interaction using Large Language Models and Mobile Applications](2024年09月24日/Enhancing_IoT_based_Plant_Health_Monitoring_through_Advanced_Human_Plant_Interaction_using_Large_Language_Models_and_Mobile_Applications.md)
-
-    - [翻译: 利用大型语言模型与移动应用的高级人机交互，提升物联网植物健康监测的效能](2024年09月24日/Enhancing_IoT_based_Plant_Health_Monitoring_through_Advanced_Human_Plant_Interaction_using_Large_Language_Models_and_Mobile_Applications.md)
-
 - [Exploring Hint Generation Approaches in Open-Domain Question Answering](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
 
     - [翻译: 探究开放领域问答中的提示生成策略](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
 
-- [Finetuning LLMs for Comparative Assessment Tasks](2024年09月24日/Finetuning_LLMs_for_Comparative_Assessment_Tasks.md)
-
-    - [翻译: 针对比较评估任务微调 LLM](2024年09月24日/Finetuning_LLMs_for_Comparative_Assessment_Tasks.md)
-
-- [Implicit assessment of language learning during practice as accurate as explicit testing](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
-
-    - [翻译: 练习中的隐性语言学习评估与显性测试同样精准](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
-
 - [LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM](2024年09月24日/LLMCount_Enhancing_Stationary_mmWave_Detection_with_Multimodal-LLM.md)
 
     - [翻译: LLMCount：借助多模态-LLM 提升静态毫米波检测能力](2024年09月24日/LLMCount_Enhancing_Stationary_mmWave_Detection_with_Multimodal-LLM.md)
-
-- [LLM-Cure: LLM-based Competitor User Review Analysis for Feature Enhancement](2024年09月24日/LLM-Cure_LLM-based_Competitor_User_Review_Analysis_for_Feature_Enhancement.md)
-
-    - [翻译: LLM-Cure：利用 LLM 分析竞争对手用户评论，助力功能优化](2024年09月24日/LLM-Cure_LLM-based_Competitor_User_Review_Analysis_for_Feature_Enhancement.md)
 
 - [LSAST -- Enhancing Cybersecurity through LLM-supported Static Application Security Testing](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
 
@@ -323,10 +303,6 @@
 - [SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents](2024年09月24日/SwiftDossier_Tailored_Automatic_Dossier_for_Drug_Discovery_with_LLMs_and_Agents.md)
 
     - [翻译: SwiftDossier：结合 LLM 与智能代理，为药物发现打造定制化自动档案。](2024年09月24日/SwiftDossier_Tailored_Automatic_Dossier_for_Drug_Discovery_with_LLMs_and_Agents.md)
-
-- [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](2024年09月24日/Time-MoE_Billion-Scale_Time_Series_Foundation_Models_with_Mixture_of_Experts.md)
-
-    - [翻译: Time-MoE：融合专家智慧的十亿级时间序列基础模型](2024年09月24日/Time-MoE_Billion-Scale_Time_Series_Foundation_Models_with_Mixture_of_Experts.md)
 
 - [Unsupervised Text Representation Learning via Instruction-Tuning for Zero-Shot Dense Retrieval](2024年09月24日/Unsupervised_Text_Representation_Learning_via_Instruction-Tuning_for_Zero-Shot_Dense_Retrieval.md)
 
