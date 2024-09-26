@@ -14,10 +14,6 @@
 
     - [翻译: 大型语言模型推荐中的提示驱动表示学习方法](2024年09月25日/A_Prompting-Based_Representation_Learning_Method_for_Recommendation_with_Large_Language_Models.md)
 
-- [A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](2024年09月25日/A_Survey_of_Low-bit_Large_Language_Models_Basics,_Systems,_and_Algorithms.md)
-
-    - [翻译: 探索低比特大型语言模型：从基础到系统与算法的全面解析](2024年09月25日/A_Survey_of_Low-bit_Large_Language_Models_Basics,_Systems,_and_Algorithms.md)
-
 - [Attention Prompting on Image for Large Vision-Language Models](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
 
     - [翻译: 大型视觉-语言模型中的图像注意力提示](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
@@ -33,10 +29,6 @@
 - [DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling](2024年09月25日/DALDA_Data_Augmentation_Leveraging_Diffusion_Model_and_LLM_with_Adaptive_Guidance_Scaling.md)
 
     - [翻译: DALDA：结合扩散模型与自适应指导缩放的 LLM，实现数据增强](2024年09月25日/DALDA_Data_Augmentation_Leveraging_Diffusion_Model_and_LLM_with_Adaptive_Guidance_Scaling.md)
-
-- [EAGLE: Towards Efficient Arbitrary Referring Visual Prompts Comprehension for Multimodal Large Language Models](2024年09月25日/EAGLE_Towards_Efficient_Arbitrary_Referring_Visual_Prompts_Comprehension_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: EAGLE：为多模态大型语言模型打造高效、精准的视觉提示理解工具](2024年09月25日/EAGLE_Towards_Efficient_Arbitrary_Referring_Visual_Prompts_Comprehension_for_Multimodal_Large_Language_Models.md)
 
 - [Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation](2024年09月25日/Enabling_Auditory_Large_Language_Models_for_Automatic_Speech_Quality_Evaluation.md)
 
@@ -57,10 +49,6 @@
 - [Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
 
     - [翻译: 探索与提升大型语言模型在学术出版物中评估新颖性的能力](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
-
-- [GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning](2024年09月25日/GraphLoRA_Structure-Aware_Contrastive_Low-Rank_Adaptation_for_Cross-Graph_Transfer_Learning.md)
-
-    - [翻译: GraphLoRA：结构感知的低秩对比适应，助力跨图迁移学习](2024年09月25日/GraphLoRA_Structure-Aware_Contrastive_Low-Rank_Adaptation_for_Cross-Graph_Transfer_Learning.md)
 
 - [Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction](2024年09月25日/Holistic_Automated_Red_Teaming_for_Large_Language_Models_through_Top-Down_Test_Case_Generation_and_Multi-turn_Interaction.md)
 
@@ -102,14 +90,6 @@
 
     - [翻译: 现代医疗保健中的语言模型：全面审视](2024年09月25日/The_Role_of_Language_Models_in_Modern_Healthcare_A_Comprehensive_Review.md)
 
-- [Towards General Text-guided Image Synthesis for Customized Multimodal Brain MRI Generation](2024年09月25日/Towards_General_Text-guided_Image_Synthesis_for_Customized_Multimodal_Brain_MRI_Generation.md)
-
-    - [翻译: 探索通用文本引导的图像合成技术，以实现定制化多模态脑部MRI的生成](2024年09月25日/Towards_General_Text-guided_Image_Synthesis_for_Customized_Multimodal_Brain_MRI_Generation.md)
-
-- [Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2](2024年09月25日/Towards_Underwater_Camouflaged_Object_Tracking_An_Experimental_Evaluation_of_SAM_and_SAM_2.md)
-
-    - [翻译: 探索水下伪装物体跟踪：SAM 与 SAM 2 的实验性评估](2024年09月25日/Towards_Underwater_Camouflaged_Object_Tracking_An_Experimental_Evaluation_of_SAM_and_SAM_2.md)
-
 - [Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
 
     - [翻译: 让每个应用都成为智能代理：探索基于 API 优先的 LLM 代理，实现更高效的人机交互](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
@@ -117,10 +97,6 @@
 - [Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
 
     - [翻译: 利用 LLM 技术，实时转录并总结印尼 ePuskesmas 中医患互动的内容](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
-
-- [VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models](2024年09月25日/VPTQ_Extreme_Low-bit_Vector_Post-Training_Quantization_for_Large_Language_Models.md)
-
-    - [翻译: VPTQ：为大型语言模型量身定制的极低比特向量后训练量化技术](2024年09月25日/VPTQ_Extreme_Low-bit_Vector_Post-Training_Quantization_for_Large_Language_Models.md)
 
 - [Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness](2024年09月25日/Zero-Shot_Detection_of_LLM-Generated_Text_using_Token_Cohesiveness.md)
 
