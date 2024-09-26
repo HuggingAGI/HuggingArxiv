@@ -236,17 +236,9 @@
 
 2024年09月24日
 
-- [AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model](2024年09月24日/AIR-Embodied_An_Efficient_Active_3DGS-based_Interaction_and_Reconstruction_Framework_with_Embodied_Large_Language_Model.md)
-
-    - [翻译: AIR-Embodied：一个高效结合3DGS和具身大型语言模型的主动交互与重建框架](2024年09月24日/AIR-Embodied_An_Efficient_Active_3DGS-based_Interaction_and_Reconstruction_Framework_with_Embodied_Large_Language_Model.md)
-
 - [CLSP: High-Fidelity Contrastive Language-State Pre-training for Agent State Representation](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
 
     - [翻译: CLSP：高保真对比语言-状态预训练，专为代理状态表示设计](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
-
-- [LSAST -- Enhancing Cybersecurity through LLM-supported Static Application Security Testing](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
-
-    - [翻译: LSAST：借助 LLM 支持的静态应用安全测试提升网络安全](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
 
 - [MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models](2024年09月24日/MHRC_Closed-loop_Decentralized_Multi-Heterogeneous_Robot_Collaboration_with_Large_Language_Models.md)
 
@@ -255,19 +247,3 @@
 - [MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios](2024年09月24日/MM-CamObj_A_Comprehensive_Multimodal_Dataset_for_Camouflaged_Object_Scenarios.md)
 
     - [翻译: MM-CamObj：专为伪装对象场景设计的多模态综合数据集](2024年09月24日/MM-CamObj_A_Comprehensive_Multimodal_Dataset_for_Camouflaged_Object_Scenarios.md)
-
-- [Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
-
-    - [翻译: 无专家参与的 LLM-符号规划：在未知领域中探索前行](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
-
-- [SLIMER-IT: Zero-Shot NER on Italian Language](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
-
-    - [翻译: SLIMER-IT：意大利语零-shot命名实体识别](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
-
-- [XTRUST: On the Multilingual Trustworthiness of Large Language Models](2024年09月24日/XTRUST_On_the_Multilingual_Trustworthiness_of_Large_Language_Models.md)
-
-    - [翻译: XTRUST：探讨大型语言模型在多语言环境中的可信度](2024年09月24日/XTRUST_On_the_Multilingual_Trustworthiness_of_Large_Language_Models.md)
-
-- [Zero-shot forecasting of chaotic systems](2024年09月24日/Zero-shot_forecasting_of_chaotic_systems.md)
-
-    - [翻译: 混沌系统的零-shot 预测](2024年09月24日/Zero-shot_forecasting_of_chaotic_systems.md)
