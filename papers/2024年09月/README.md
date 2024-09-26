@@ -62,10 +62,6 @@
 
     - [翻译: Ducho 与 Elliot 相遇：探索多模态推荐的大规模基准](2024年09月24日/Ducho_meets_Elliot_Large-scale_Benchmarks_for_Multimodal_Recommendation.md)
 
-- [Empirical Insights on Fine-Tuning Large Language Models for Question-Answering](2024年09月24日/Empirical_Insights_on_Fine-Tuning_Large_Language_Models_for_Question-Answering.md)
-
-    - [翻译: 微调大型语言模型进行问答的经验洞察](2024年09月24日/Empirical_Insights_on_Fine-Tuning_Large_Language_Models_for_Question-Answering.md)
-
 - [Enhancing IoT based Plant Health Monitoring through Advanced Human Plant Interaction using Large Language Models and Mobile Applications](2024年09月24日/Enhancing_IoT_based_Plant_Health_Monitoring_through_Advanced_Human_Plant_Interaction_using_Large_Language_Models_and_Mobile_Applications.md)
 
     - [翻译: 利用大型语言模型与移动应用的高级人机交互，提升物联网植物健康监测的效能](2024年09月24日/Enhancing_IoT_based_Plant_Health_Monitoring_through_Advanced_Human_Plant_Interaction_using_Large_Language_Models_and_Mobile_Applications.md)
@@ -102,10 +98,6 @@
 
     - [翻译: HLB：评估大型语言模型在语言使用中的人类相似度](2024年09月24日/HLB_Benchmarking_LLMs'_Humanlikeness_in_Language_Use.md)
 
-- [iGAiVA: Integrated Generative AI and Visual Analytics in a Machine Learning Workflow for Text Classification](2024年09月24日/iGAiVA_Integrated_Generative_AI_and_Visual_Analytics_in_a_Machine_Learning_Workflow_for_Text_Classification.md)
-
-    - [翻译: iGAiVA：将生成式 AI 与可视化分析融合于文本分类的机器学习流程中](2024年09月24日/iGAiVA_Integrated_Generative_AI_and_Visual_Analytics_in_a_Machine_Learning_Workflow_for_Text_Classification.md)
-
 - [Implicit assessment of language learning during practice as accurate as explicit testing](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
 
     - [翻译: 练习中的隐性语言学习评估与显性测试同样精准](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
@@ -113,10 +105,6 @@
 - [IRSC: A Zero-shot Evaluation Benchmark for Information Retrieval through Semantic Comprehension in Retrieval-Augmented Generation Scenarios](2024年09月24日/IRSC_A_Zero-shot_Evaluation_Benchmark_for_Information_Retrieval_through_Semantic_Comprehension_in_Retrieval-Augmented_Generation_Scenarios.md)
 
     - [翻译: IRSC：一个通过语义理解进行信息检索的零-shot 评估基准，专为检索增强生成场景设计。](2024年09月24日/IRSC_A_Zero-shot_Evaluation_Benchmark_for_Information_Retrieval_through_Semantic_Comprehension_in_Retrieval-Augmented_Generation_Scenarios.md)
-
-- [Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering](2024年09月24日/Konstruktor_A_Strong_Baseline_for_Simple_Knowledge_Graph_Question_Answering.md)
-
-    - [翻译: Konstruktor：简单知识图谱问答的坚实起点](2024年09月24日/Konstruktor_A_Strong_Baseline_for_Simple_Knowledge_Graph_Question_Answering.md)
 
 - [LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM](2024年09月24日/LLMCount_Enhancing_Stationary_mmWave_Detection_with_Multimodal-LLM.md)
 
@@ -150,10 +138,6 @@
 
     - [翻译: MOSS：赋能 AI 代理的代码驱动进化与上下文管理](2024年09月24日/MOSS_Enabling_Code-Driven_Evolution_and_Context_Management_for_AI_Agents.md)
 
-- [NER-Luxury: Named entity recognition for the fashion and luxury domain](2024年09月24日/NER-Luxury_Named_entity_recognition_for_the_fashion_and_luxury_domain.md)
-
-    - [翻译: NER-Luxury: 专为时尚与奢侈品领域打造的命名实体识别技术](2024年09月24日/NER-Luxury_Named_entity_recognition_for_the_fashion_and_luxury_domain.md)
-
 - [Performance and scaling of the LFRic weather and climate model on different generations of HPE Cray EX supercomputers](2024年09月24日/Performance_and_scaling_of_the_LFRic_weather_and_climate_model_on_different_generations_of_HPE_Cray_EX_supercomputers.md)
 
     - [翻译: LFRic 模型在各代 HPE Cray EX 超级计算机上的表现与扩展性](2024年09月24日/Performance_and_scaling_of_the_LFRic_weather_and_climate_model_on_different_generations_of_HPE_Cray_EX_supercomputers.md)
@@ -166,10 +150,6 @@
 
     - [翻译: 基于偏好的检索增强代码生成重构调优](2024年09月24日/Preference-Guided_Refactored_Tuning_for_Retrieval_Augmented_Code_Generation.md)
 
-- [Privacy Evaluation Benchmarks for NLP Models](2024年09月24日/Privacy_Evaluation_Benchmarks_for_NLP_Models.md)
-
-    - [翻译: NLP 模型的隐私评估标准](2024年09月24日/Privacy_Evaluation_Benchmarks_for_NLP_Models.md)
-
 - [REBEL: Rule-based and Experience-enhanced Learning with LLMs for Initial Task Allocation in Multi-Human Multi-Robot Teams](2024年09月24日/REBEL_Rule-based_and_Experience-enhanced_Learning_with_LLMs_for_Initial_Task_Allocation_in_Multi-Human_Multi-Robot_Teams.md)
 
     - [翻译: REBEL：结合 LLM，通过规则与经验增强学习，优化多人类多机器人团队的初始任务分配](2024年09月24日/REBEL_Rule-based_and_Experience-enhanced_Learning_with_LLMs_for_Initial_Task_Allocation_in_Multi-Human_Multi-Robot_Teams.md)
@@ -177,10 +157,6 @@
 - [SLIMER-IT: Zero-Shot NER on Italian Language](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
 
     - [翻译: SLIMER-IT：意大利语零-shot命名实体识别](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
-
-- [Small Language Models: Survey, Measurements, and Insights](2024年09月24日/Small_Language_Models_Survey,_Measurements,_and_Insights.md)
-
-    - [翻译: 小型语言模型：探索、评估与洞察](2024年09月24日/Small_Language_Models_Survey,_Measurements,_and_Insights.md)
 
 - [SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents](2024年09月24日/SwiftDossier_Tailored_Automatic_Dossier_for_Drug_Discovery_with_LLMs_and_Agents.md)
 
