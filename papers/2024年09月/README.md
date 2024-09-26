@@ -26,10 +26,6 @@
 
     - [翻译: 为 LLM 中的具身与社会基础制定路线图](2024年09月25日/A_Roadmap_for_Embodied_and_Social_Grounding_in_LLMs.md)
 
-- [Ascend HiFloat8 Format for Deep Learning](2024年09月25日/Ascend_HiFloat8_Format_for_Deep_Learning.md)
-
-    - [翻译: 深度学习中的 Ascend HiFloat8 格式](2024年09月25日/Ascend_HiFloat8_Format_for_Deep_Learning.md)
-
 - [A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](2024年09月25日/A_Survey_of_Low-bit_Large_Language_Models_Basics,_Systems,_and_Algorithms.md)
 
     - [翻译: 探索低比特大型语言模型：从基础到系统与算法的全面解析](2024年09月25日/A_Survey_of_Low-bit_Large_Language_Models_Basics,_Systems,_and_Algorithms.md)
@@ -146,10 +142,6 @@
 
     - [翻译: “它精准地描述了我当前的处境”：探究用户对 LLM 增强叙事干预的认知](2024年09月25日/It_Explains_What_I_am_Currently_Going_Through_Perfectly_to_a_Tee_Understanding_User_Perceptions_on_LLM-Enhanced_Narrative_Interventions.md)
 
-- [Judgment of Thoughts: Courtroom of the Binary Logical Reasoning in Large Language Models](2024年09月25日/Judgment_of_Thoughts_Courtroom_of_the_Binary_Logical_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: 思维的审判：大型语言模型中二元逻辑推理的法庭](2024年09月25日/Judgment_of_Thoughts_Courtroom_of_the_Binary_Logical_Reasoning_in_Large_Language_Models.md)
-
 - [Large Language Model Predicts Above Normal All India Summer Monsoon Rainfall in 2024](2024年09月25日/Large_Language_Model_Predicts_Above_Normal_All_India_Summer_Monsoon_Rainfall_in_2024.md)
 
     - [翻译: 大型语言模型预测，2024年全印度夏季季风降雨量将高于正常水平。](2024年09月25日/Large_Language_Model_Predicts_Above_Normal_All_India_Summer_Monsoon_Rainfall_in_2024.md)
@@ -210,10 +202,6 @@
 
     - [翻译: 探索水下伪装物体跟踪：SAM 与 SAM 2 的实验性评估](2024年09月25日/Towards_Underwater_Camouflaged_Object_Tracking_An_Experimental_Evaluation_of_SAM_and_SAM_2.md)
 
-- [Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation](2024年09月25日/Train_Once,_Deploy_Anywhere_Matryoshka_Representation_Learning_for_Multimodal_Recommendation.md)
-
-    - [翻译: 一次训练，随处可用：多萝西卡表示学习助力多模态推荐](2024年09月25日/Train_Once,_Deploy_Anywhere_Matryoshka_Representation_Learning_for_Multimodal_Recommendation.md)
-
 - [Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
 
     - [翻译: 让每个应用都成为智能代理：探索基于 API 优先的 LLM 代理，实现更高效的人机交互](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
@@ -233,17 +221,3 @@
 - [Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness](2024年09月25日/Zero-Shot_Detection_of_LLM-Generated_Text_using_Token_Cohesiveness.md)
 
     - [翻译: 利用 Token 内聚性实现 LLM 生成文本的零-Shot 检测](2024年09月25日/Zero-Shot_Detection_of_LLM-Generated_Text_using_Token_Cohesiveness.md)
-
-2024年09月24日
-
-- [CLSP: High-Fidelity Contrastive Language-State Pre-training for Agent State Representation](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
-
-    - [翻译: CLSP：高保真对比语言-状态预训练，专为代理状态表示设计](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
-
-- [MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models](2024年09月24日/MHRC_Closed-loop_Decentralized_Multi-Heterogeneous_Robot_Collaboration_with_Large_Language_Models.md)
-
-    - [翻译: MHRC：结合大型语言模型的闭环分散式多异构机器人协作](2024年09月24日/MHRC_Closed-loop_Decentralized_Multi-Heterogeneous_Robot_Collaboration_with_Large_Language_Models.md)
-
-- [MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios](2024年09月24日/MM-CamObj_A_Comprehensive_Multimodal_Dataset_for_Camouflaged_Object_Scenarios.md)
-
-    - [翻译: MM-CamObj：专为伪装对象场景设计的多模态综合数据集](2024年09月24日/MM-CamObj_A_Comprehensive_Multimodal_Dataset_for_Camouflaged_Object_Scenarios.md)
