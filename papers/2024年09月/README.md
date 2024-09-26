@@ -2,6 +2,10 @@
 
 2024年09月25日
 
+- [Accumulator-Aware Post-Training Quantization](2024年09月25日/Accumulator-Aware_Post-Training_Quantization.md)
+
+    - [翻译: 累加器感知后训练量化技术](2024年09月25日/Accumulator-Aware_Post-Training_Quantization.md)
+
 - [A Character-Centric Creative Story Generation via Imagination](2024年09月25日/A_Character-Centric_Creative_Story_Generation_via_Imagination.md)
 
     - [翻译: 借助想象力，以角色为核心的创意故事生成](2024年09月25日/A_Character-Centric_Creative_Story_Generation_via_Imagination.md)
@@ -42,6 +46,10 @@
 
     - [翻译: GPT-4 能否超越图灵测试，影响专家的决策？](2024年09月25日/Beyond_Turing_Test_Can_GPT-4_Sway_Experts'_Decisions.md)
 
+- [Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?](2024年09月25日/Can_Vision_Language_Models_Learn_from_Visual_Demonstrations_of_Ambiguous_Spatial_Reasoning.md)
+
+    - [翻译: 视觉语言模型能否从模糊空间推理的视觉演示中汲取知识？](2024年09月25日/Can_Vision_Language_Models_Learn_from_Visual_Demonstrations_of_Ambiguous_Spatial_Reasoning.md)
+
 - [Claim-Guided Textual Backdoor Attack for Practical Applications](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
 
     - [翻译: 基于声明的文本后门攻击在实际应用中的探索](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
@@ -54,6 +62,10 @@
 
     - [翻译: 大型语言模型中的反事实词元生成](2024年09月25日/Counterfactual_Token_Generation_in_Large_Language_Models.md)
 
+- [Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification](2024年09月25日/Ctrl-GenAug_Controllable_Generative_Augmentation_for_Medical_Sequence_Classification.md)
+
+    - [翻译: Ctrl-GenAug：医学序列分类中的可控生成增强技术](2024年09月25日/Ctrl-GenAug_Controllable_Generative_Augmentation_for_Medical_Sequence_Classification.md)
+
 - [DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling](2024年09月25日/DALDA_Data_Augmentation_Leveraging_Diffusion_Model_and_LLM_with_Adaptive_Guidance_Scaling.md)
 
     - [翻译: DALDA：结合扩散模型与自适应指导缩放的 LLM，实现数据增强](2024年09月25日/DALDA_Data_Augmentation_Leveraging_Diffusion_Model_and_LLM_with_Adaptive_Guidance_Scaling.md)
@@ -64,7 +76,7 @@
 
 - [EAGLE: Towards Efficient Arbitrary Referring Visual Prompts Comprehension for Multimodal Large Language Models](2024年09月25日/EAGLE_Towards_Efficient_Arbitrary_Referring_Visual_Prompts_Comprehension_for_Multimodal_Large_Language_Models.md)
 
-    - [翻译: EAGLE：为多模态大型语言模型打造高效、灵活的视觉提示理解工具](2024年09月25日/EAGLE_Towards_Efficient_Arbitrary_Referring_Visual_Prompts_Comprehension_for_Multimodal_Large_Language_Models.md)
+    - [翻译: EAGLE：为多模态大型语言模型打造高效、精准的视觉提示理解工具](2024年09月25日/EAGLE_Towards_Efficient_Arbitrary_Referring_Visual_Prompts_Comprehension_for_Multimodal_Large_Language_Models.md)
 
 - [Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation](2024年09月25日/Enabling_Auditory_Large_Language_Models_for_Automatic_Speech_Quality_Evaluation.md)
 
@@ -89,6 +101,10 @@
 - [Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
 
     - [翻译: 探索与提升大型语言模型在学术出版物中评估新颖性的能力](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
+
+- [FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression](2024年09月25日/FineZip__Pushing_the_Limits_of_Large_Language_Models_for_Practical_Lossless_Text_Compression.md)
+
+    - [翻译: FineZip：突破大型语言模型在无损文本压缩中的应用极限](2024年09月25日/FineZip__Pushing_the_Limits_of_Large_Language_Models_for_Practical_Lossless_Text_Compression.md)
 
 - [GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design](2024年09月25日/GeoBiked_A_Dataset_with_Geometric_Features_and_Automated_Labeling_Techniques_to_Enable_Deep_Generative_Models_in_Engineering_Design.md)
 
@@ -154,6 +170,10 @@
 
     - [翻译: 大型语言模型驱动的多目标启发式进化](2024年09月25日/Multi-objective_Evolution_of_Heuristic_Using_Large_Language_Model.md)
 
+- [Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
+
+    - [翻译: 精雕细琢每个示例：大规模提升预训练数据质量，如同专家般精准](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
+
 - [Pruning Multilingual Large Language Models for Multilingual Inference](2024年09月25日/Pruning_Multilingual_Large_Language_Models_for_Multilingual_Inference.md)
 
     - [翻译: 精简多语言大型语言模型，提升多语言推理效率](2024年09月25日/Pruning_Multilingual_Large_Language_Models_for_Multilingual_Inference.md)
@@ -194,6 +214,10 @@
 
     - [翻译: 一次训练，随处可用：多萝西卡表示学习助力多模态推荐](2024年09月25日/Train_Once,_Deploy_Anywhere_Matryoshka_Representation_Learning_for_Multimodal_Recommendation.md)
 
+- [Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
+
+    - [翻译: 让每个应用都成为智能代理：探索基于 API 优先的 LLM 代理，实现更高效的人机交互](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
+
 - [Unit Test Generation for Vulnerability Exploitation in Java Third-Party Libraries](2024年09月25日/Unit_Test_Generation_for_Vulnerability_Exploitation_in_Java_Third-Party_Libraries.md)
 
     - [翻译: 为Java第三方库中的漏洞利用生成单元测试](2024年09月25日/Unit_Test_Generation_for_Vulnerability_Exploitation_in_Java_Third-Party_Libraries.md)
@@ -227,10 +251,6 @@
 - [A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding](2024年09月24日/A_Zero-Shot_Open-Vocabulary_Pipeline_for_Dialogue_Understanding.md)
 
     - [翻译: 零-shot 开放词汇对话理解管道](2024年09月24日/A_Zero-Shot_Open-Vocabulary_Pipeline_for_Dialogue_Understanding.md)
-
-- [Beyond Text-to-Text: An Overview of Multimodal and Generative Artificial Intelligence for Education Using Topic Modeling](2024年09月24日/Beyond_Text-to-Text_An_Overview_of_Multimodal_and_Generative_Artificial_Intelligence_for_Education_Using_Topic_Modeling.md)
-
-    - [翻译: 超越文本转换：教育领域中多模态与生成式人工智能的主题建模概览](2024年09月24日/Beyond_Text-to-Text_An_Overview_of_Multimodal_and_Generative_Artificial_Intelligence_for_Education_Using_Topic_Modeling.md)
 
 - [CDChat: A Large Multimodal Model for Remote Sensing Change Description](2024年09月24日/CDChat_A_Large_Multimodal_Model_for_Remote_Sensing_Change_Description.md)
 
