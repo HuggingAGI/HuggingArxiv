@@ -14,10 +14,6 @@
 
     - [翻译: 动态设备上 LLM 个性化：自适应自监督学习策略](2024年09月25日/Adaptive_Self-Supervised_Learning_Strategies_for_Dynamic_On-Device_LLM_Personalization.md)
 
-- [A Few Hypocrites: Few-Shot Learning and Subtype Definitions for Detecting Hypocrisy Accusations in Online Climate Change Debates](2024年09月25日/A_Few_Hypocrites_Few-Shot_Learning_and_Subtype_Definitions_for_Detecting_Hypocrisy_Accusations_in_Online_Climate_Change_Debates.md)
-
-    - [翻译: 少数伪君子：通过少样本学习和子类型定义，检测在线气候变化辩论中的伪善指控](2024年09月25日/A_Few_Hypocrites_Few-Shot_Learning_and_Subtype_Definitions_for_Detecting_Hypocrisy_Accusations_in_Online_Climate_Change_Debates.md)
-
 - [A Prompting-Based Representation Learning Method for Recommendation with Large Language Models](2024年09月25日/A_Prompting-Based_Representation_Learning_Method_for_Recommendation_with_Large_Language_Models.md)
 
     - [翻译: 大型语言模型推荐中的提示驱动表示学习方法](2024年09月25日/A_Prompting-Based_Representation_Learning_Method_for_Recommendation_with_Large_Language_Models.md)
@@ -37,10 +33,6 @@
 - [AXCEL: Automated eXplainable Consistency Evaluation using LLMs](2024年09月25日/AXCEL_Automated_eXplainable_Consistency_Evaluation_using_LLMs.md)
 
     - [翻译: AXCEL：利用 LLM 实现自动可解释一致性评估](2024年09月25日/AXCEL_Automated_eXplainable_Consistency_Evaluation_using_LLMs.md)
-
-- [Beyond Turing Test: Can GPT-4 Sway Experts' Decisions?](2024年09月25日/Beyond_Turing_Test_Can_GPT-4_Sway_Experts'_Decisions.md)
-
-    - [翻译: GPT-4 能否超越图灵测试，影响专家的决策？](2024年09月25日/Beyond_Turing_Test_Can_GPT-4_Sway_Experts'_Decisions.md)
 
 - [Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?](2024年09月25日/Can_Vision_Language_Models_Learn_from_Visual_Demonstrations_of_Ambiguous_Spatial_Reasoning.md)
 
@@ -154,14 +146,6 @@
 
     - [翻译: LLM-CARD：探索大型语言模型的全景与描述](2024年09月25日/LLM-CARD_Towards_a_Description_and_Landscape_of_Large_Language_Models.md)
 
-- [Mitigating the Bias of Large Language Model Evaluation](2024年09月25日/Mitigating_the_Bias_of_Large_Language_Model_Evaluation.md)
-
-    - [翻译: 缓解大型语言模型评估中的偏见](2024年09月25日/Mitigating_the_Bias_of_Large_Language_Model_Evaluation.md)
-
-- [Multi-objective Evolution of Heuristic Using Large Language Model](2024年09月25日/Multi-objective_Evolution_of_Heuristic_Using_Large_Language_Model.md)
-
-    - [翻译: 大型语言模型驱动的多目标启发式进化](2024年09月25日/Multi-objective_Evolution_of_Heuristic_Using_Large_Language_Model.md)
-
 - [Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
 
     - [翻译: 精雕细琢每个示例：大规模提升预训练数据质量，如同专家般精准](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
@@ -181,14 +165,6 @@
 - [Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling](2024年09月25日/Semi-Supervised_Cognitive_State_Classification_from_Speech_with_Multi-View_Pseudo-Labeling.md)
 
     - [翻译: 半监督认知状态分类：语音中的多视角伪标签探索](2024年09月25日/Semi-Supervised_Cognitive_State_Classification_from_Speech_with_Multi-View_Pseudo-Labeling.md)
-
-- [Speech Recognition Rescoring with Large Speech-Text Foundation Models](2024年09月25日/Speech_Recognition_Rescoring_with_Large_Speech-Text_Foundation_Models.md)
-
-    - [翻译: 借助大型语音-文本基础模型，提升语音识别的精准度](2024年09月25日/Speech_Recognition_Rescoring_with_Large_Speech-Text_Foundation_Models.md)
-
-- [The Credibility Transformer](2024年09月25日/The_Credibility_Transformer.md)
-
-    - [翻译: 信任的变革者](2024年09月25日/The_Credibility_Transformer.md)
 
 - [The Role of Language Models in Modern Healthcare: A Comprehensive Review](2024年09月25日/The_Role_of_Language_Models_in_Modern_Healthcare_A_Comprehensive_Review.md)
 
