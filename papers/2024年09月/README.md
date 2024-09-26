@@ -240,10 +240,6 @@
 
     - [翻译: AIR-Embodied：一个高效结合3DGS和具身大型语言模型的主动交互与重建框架](2024年09月24日/AIR-Embodied_An_Efficient_Active_3DGS-based_Interaction_and_Reconstruction_Framework_with_Embodied_Large_Language_Model.md)
 
-- [AsthmaBot: Multi-modal, Multi-Lingual Retrieval Augmented Generation For Asthma Patient Support](2024年09月24日/AsthmaBot_Multi-modal,_Multi-Lingual_Retrieval_Augmented_Generation_For_Asthma_Patient_Support.md)
-
-    - [翻译: AsthmaBot：一款多模态、多语言的检索增强生成系统，专为哮喘患者提供支持。](2024年09月24日/AsthmaBot_Multi-modal,_Multi-Lingual_Retrieval_Augmented_Generation_For_Asthma_Patient_Support.md)
-
 - [Automated Assessment of Multimodal Answer Sheets in the STEM domain](2024年09月24日/Automated_Assessment_of_Multimodal_Answer_Sheets_in_the_STEM_domain.md)
 
     - [翻译: STEM 领域多模态答卷的自动化评分](2024年09月24日/Automated_Assessment_of_Multimodal_Answer_Sheets_in_the_STEM_domain.md)
@@ -256,17 +252,9 @@
 
     - [翻译: CLSP：高保真对比语言-状态预训练，专为代理状态表示设计](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
 
-- [DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection](2024年09月24日/DepMamba_Progressive_Fusion_Mamba_for_Multimodal_Depression_Detection.md)
-
-    - [翻译: DepMamba：一种用于多模态抑郁症检测的渐进式融合 Mamba 模型](2024年09月24日/DepMamba_Progressive_Fusion_Mamba_for_Multimodal_Depression_Detection.md)
-
 - [Enhancing disease detection in radiology reports through fine-tuning lightweight LLM on weak labels](2024年09月24日/Enhancing_disease_detection_in_radiology_reports_through_fine-tuning_lightweight_LLM_on_weak_labels.md)
 
     - [翻译: 利用弱标签微调轻量级 LLM，提升放射学报告中疾病检测的精准度](2024年09月24日/Enhancing_disease_detection_in_radiology_reports_through_fine-tuning_lightweight_LLM_on_weak_labels.md)
-
-- [Exploring Hint Generation Approaches in Open-Domain Question Answering](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
-
-    - [翻译: 探究开放领域问答中的提示生成策略](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
 
 - [LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM](2024年09月24日/LLMCount_Enhancing_Stationary_mmWave_Detection_with_Multimodal-LLM.md)
 
@@ -292,25 +280,13 @@
 
     - [翻译: 无专家参与的 LLM-符号规划：在未知领域中探索前行](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
 
-- [REBEL: Rule-based and Experience-enhanced Learning with LLMs for Initial Task Allocation in Multi-Human Multi-Robot Teams](2024年09月24日/REBEL_Rule-based_and_Experience-enhanced_Learning_with_LLMs_for_Initial_Task_Allocation_in_Multi-Human_Multi-Robot_Teams.md)
-
-    - [翻译: REBEL：结合 LLM，通过规则与经验增强学习，优化多人类多机器人团队的初始任务分配](2024年09月24日/REBEL_Rule-based_and_Experience-enhanced_Learning_with_LLMs_for_Initial_Task_Allocation_in_Multi-Human_Multi-Robot_Teams.md)
-
 - [SLIMER-IT: Zero-Shot NER on Italian Language](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
 
     - [翻译: SLIMER-IT：意大利语零-shot命名实体识别](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
 
-- [SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents](2024年09月24日/SwiftDossier_Tailored_Automatic_Dossier_for_Drug_Discovery_with_LLMs_and_Agents.md)
-
-    - [翻译: SwiftDossier：结合 LLM 与智能代理，为药物发现打造定制化自动档案。](2024年09月24日/SwiftDossier_Tailored_Automatic_Dossier_for_Drug_Discovery_with_LLMs_and_Agents.md)
-
 - [Unsupervised Text Representation Learning via Instruction-Tuning for Zero-Shot Dense Retrieval](2024年09月24日/Unsupervised_Text_Representation_Learning_via_Instruction-Tuning_for_Zero-Shot_Dense_Retrieval.md)
 
     - [翻译: 无监督文本表示学习：通过指令调优实现零-shot密集检索](2024年09月24日/Unsupervised_Text_Representation_Learning_via_Instruction-Tuning_for_Zero-Shot_Dense_Retrieval.md)
-
-- [Unveiling Language Competence Neurons: A Psycholinguistic Approach to Model Interpretability](2024年09月24日/Unveiling_Language_Competence_Neurons_A_Psycholinguistic_Approach_to_Model_Interpretability.md)
-
-    - [翻译: 揭秘语言能力神经元：心理语言学视角下的模型可解释性研究](2024年09月24日/Unveiling_Language_Competence_Neurons_A_Psycholinguistic_Approach_to_Model_Interpretability.md)
 
 - [XTRUST: On the Multilingual Trustworthiness of Large Language Models](2024年09月24日/XTRUST_On_the_Multilingual_Trustworthiness_of_Large_Language_Models.md)
 
