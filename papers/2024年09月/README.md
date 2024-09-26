@@ -38,10 +38,6 @@
 
     - [翻译: CHBench：一款专为评估大型语言模型健康状况而设计的中文数据集](2024年09月24日/CHBench_A_Chinese_Dataset_for_Evaluating_Health_in_Large_Language_Models.md)
 
-- [CJEval: A Benchmark for Assessing Large Language Models Using Chinese Junior High School Exam Data](2024年09月24日/CJEval_A_Benchmark_for_Assessing_Large_Language_Models_Using_Chinese_Junior_High_School_Exam_Data.md)
-
-    - [翻译: CJEval：一个利用中国初中考试数据评估大型语言模型的基准](2024年09月24日/CJEval_A_Benchmark_for_Assessing_Large_Language_Models_Using_Chinese_Junior_High_School_Exam_Data.md)
-
 - [CLSP: High-Fidelity Contrastive Language-State Pre-training for Agent State Representation](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
 
     - [翻译: CLSP：高保真对比语言-状态预训练，专为代理状态表示设计](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
@@ -86,14 +82,6 @@
 
     - [翻译: 针对比较评估任务微调 LLM](2024年09月24日/Finetuning_LLMs_for_Comparative_Assessment_Tasks.md)
 
-- [From Passive Watching to Active Learning: Empowering Proactive Participation in Digital Classrooms with AI Video Assistant](2024年09月24日/From_Passive_Watching_to_Active_Learning_Empowering_Proactive_Participation_in_Digital_Classrooms_with_AI_Video_Assistant.md)
-
-    - [翻译: 从被动观看转变为主动学习：借助 AI 视频助手，激发数字课堂中的积极互动](2024年09月24日/From_Passive_Watching_to_Active_Learning_Empowering_Proactive_Participation_in_Digital_Classrooms_with_AI_Video_Assistant.md)
-
-- [HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models](2024年09月24日/HelloBench_Evaluating_Long_Text_Generation_Capabilities_of_Large_Language_Models.md)
-
-    - [翻译: HelloBench：探索大型语言模型在长文本生成方面的表现](2024年09月24日/HelloBench_Evaluating_Long_Text_Generation_Capabilities_of_Large_Language_Models.md)
-
 - [HLB: Benchmarking LLMs' Humanlikeness in Language Use](2024年09月24日/HLB_Benchmarking_LLMs'_Humanlikeness_in_Language_Use.md)
 
     - [翻译: HLB：评估大型语言模型在语言使用中的人类相似度](2024年09月24日/HLB_Benchmarking_LLMs'_Humanlikeness_in_Language_Use.md)
@@ -114,10 +102,6 @@
 
     - [翻译: LLM-Cure：利用 LLM 分析竞争对手用户评论，助力功能优化](2024年09月24日/LLM-Cure_LLM-based_Competitor_User_Review_Analysis_for_Feature_Enhancement.md)
 
-- [LLM Echo Chamber: personalized and automated disinformation](2024年09月24日/LLM_Echo_Chamber_personalized_and_automated_disinformation.md)
-
-    - [翻译: LLM 回声室：定制化与自动化的虚假信息传播](2024年09月24日/LLM_Echo_Chamber_personalized_and_automated_disinformation.md)
-
 - [LSAST -- Enhancing Cybersecurity through LLM-supported Static Application Security Testing](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
 
     - [翻译: LSAST：借助 LLM 支持的静态应用安全测试提升网络安全](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
@@ -137,10 +121,6 @@
 - [MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents](2024年09月24日/MOSS_Enabling_Code-Driven_Evolution_and_Context_Management_for_AI_Agents.md)
 
     - [翻译: MOSS：赋能 AI 代理的代码驱动进化与上下文管理](2024年09月24日/MOSS_Enabling_Code-Driven_Evolution_and_Context_Management_for_AI_Agents.md)
-
-- [Performance and scaling of the LFRic weather and climate model on different generations of HPE Cray EX supercomputers](2024年09月24日/Performance_and_scaling_of_the_LFRic_weather_and_climate_model_on_different_generations_of_HPE_Cray_EX_supercomputers.md)
-
-    - [翻译: LFRic 模型在各代 HPE Cray EX 超级计算机上的表现与扩展性](2024年09月24日/Performance_and_scaling_of_the_LFRic_weather_and_climate_model_on_different_generations_of_HPE_Cray_EX_supercomputers.md)
 
 - [Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
 
@@ -165,10 +145,6 @@
 - [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](2024年09月24日/Time-MoE_Billion-Scale_Time_Series_Foundation_Models_with_Mixture_of_Experts.md)
 
     - [翻译: Time-MoE：融合专家智慧的十亿级时间序列基础模型](2024年09月24日/Time-MoE_Billion-Scale_Time_Series_Foundation_Models_with_Mixture_of_Experts.md)
-
-- [Towards Enhancing Linked Data Retrieval in Conversational UIs using Large Language Models](2024年09月24日/Towards_Enhancing_Linked_Data_Retrieval_in_Conversational_UIs_using_Large_Language_Models.md)
-
-    - [翻译: 借助大型语言模型，提升对话式用户界面中的链接数据检索能力](2024年09月24日/Towards_Enhancing_Linked_Data_Retrieval_in_Conversational_UIs_using_Large_Language_Models.md)
 
 - [Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering](2024年09月24日/Unlocking_Markets_A_Multilingual_Benchmark_to_Cross-Market_Question_Answering.md)
 
