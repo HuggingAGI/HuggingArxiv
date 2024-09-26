@@ -30,10 +30,6 @@
 
     - [翻译: 大型视觉-语言模型中的图像注意力提示](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
 
-- [AXCEL: Automated eXplainable Consistency Evaluation using LLMs](2024年09月25日/AXCEL_Automated_eXplainable_Consistency_Evaluation_using_LLMs.md)
-
-    - [翻译: AXCEL：利用 LLM 实现自动可解释一致性评估](2024年09月25日/AXCEL_Automated_eXplainable_Consistency_Evaluation_using_LLMs.md)
-
 - [Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?](2024年09月25日/Can_Vision_Language_Models_Learn_from_Visual_Demonstrations_of_Ambiguous_Spatial_Reasoning.md)
 
     - [翻译: 视觉语言模型能否从模糊空间推理的视觉演示中汲取知识？](2024年09月25日/Can_Vision_Language_Models_Learn_from_Visual_Demonstrations_of_Ambiguous_Spatial_Reasoning.md)
@@ -50,17 +46,9 @@
 
     - [翻译: 大型语言模型中的反事实词元生成](2024年09月25日/Counterfactual_Token_Generation_in_Large_Language_Models.md)
 
-- [Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification](2024年09月25日/Ctrl-GenAug_Controllable_Generative_Augmentation_for_Medical_Sequence_Classification.md)
-
-    - [翻译: Ctrl-GenAug：医学序列分类中的可控生成增强技术](2024年09月25日/Ctrl-GenAug_Controllable_Generative_Augmentation_for_Medical_Sequence_Classification.md)
-
 - [DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling](2024年09月25日/DALDA_Data_Augmentation_Leveraging_Diffusion_Model_and_LLM_with_Adaptive_Guidance_Scaling.md)
 
     - [翻译: DALDA：结合扩散模型与自适应指导缩放的 LLM，实现数据增强](2024年09月25日/DALDA_Data_Augmentation_Leveraging_Diffusion_Model_and_LLM_with_Adaptive_Guidance_Scaling.md)
-
-- [Decoding Large-Language Models: A Systematic Overview of Socio-Technical Impacts, Constraints, and Emerging Questions](2024年09月25日/Decoding_Large-Language_Models_A_Systematic_Overview_of_Socio-Technical_Impacts,_Constraints,_and_Emerging_Questions.md)
-
-    - [翻译: 大型语言模型的解码：社会技术影响、约束与新兴问题的全面透视](2024年09月25日/Decoding_Large-Language_Models_A_Systematic_Overview_of_Socio-Technical_Impacts,_Constraints,_and_Emerging_Questions.md)
 
 - [EAGLE: Towards Efficient Arbitrary Referring Visual Prompts Comprehension for Multimodal Large Language Models](2024年09月25日/EAGLE_Towards_Efficient_Arbitrary_Referring_Visual_Prompts_Comprehension_for_Multimodal_Large_Language_Models.md)
 
@@ -82,10 +70,6 @@
 
     - [翻译: E-SQL：通过问题丰富实现文本到SQL的直接模式链接](2024年09月25日/E-SQL_Direct_Schema_Linking_via_Question_Enrichment_in_Text-to-SQL.md)
 
-- [Ethical and Scalable Automation: A Governance and Compliance Framework for Business Applications](2024年09月25日/Ethical_and_Scalable_Automation_A_Governance_and_Compliance_Framework_for_Business_Applications.md)
-
-    - [翻译: 伦理与可扩展自动化：企业应用的治理与合规框架](2024年09月25日/Ethical_and_Scalable_Automation_A_Governance_and_Compliance_Framework_for_Business_Applications.md)
-
 - [Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
 
     - [翻译: 探索与提升大型语言模型在学术出版物中评估新颖性的能力](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
@@ -97,10 +81,6 @@
 - [GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design](2024年09月25日/GeoBiked_A_Dataset_with_Geometric_Features_and_Automated_Labeling_Techniques_to_Enable_Deep_Generative_Models_in_Engineering_Design.md)
 
     - [翻译: GeoBiked 数据集结合了几何特征与自动化标注技术，为工程设计领域的深度生成模型提供了强大支持。](2024年09月25日/GeoBiked_A_Dataset_with_Geometric_Features_and_Automated_Labeling_Techniques_to_Enable_Deep_Generative_Models_in_Engineering_Design.md)
-
-- [GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations](2024年09月25日/GRACE_Generating_Socially_Appropriate_Robot_Actions_Leveraging_LLMs_and_Human_Explanations.md)
-
-    - [翻译: GRACE：借助 LLM 和人类解释，生成符合社会规范的机器人行为](2024年09月25日/GRACE_Generating_Socially_Appropriate_Robot_Actions_Leveraging_LLMs_and_Human_Explanations.md)
 
 - [GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning](2024年09月25日/GraphLoRA_Structure-Aware_Contrastive_Low-Rank_Adaptation_for_Cross-Graph_Transfer_Learning.md)
 
@@ -149,10 +129,6 @@
 - [Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
 
     - [翻译: 精雕细琢每个示例：大规模提升预训练数据质量，如同专家般精准](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
-
-- [Pruning Multilingual Large Language Models for Multilingual Inference](2024年09月25日/Pruning_Multilingual_Large_Language_Models_for_Multilingual_Inference.md)
-
-    - [翻译: 精简多语言大型语言模型，提升多语言推理效率](2024年09月25日/Pruning_Multilingual_Large_Language_Models_for_Multilingual_Inference.md)
 
 - [RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems](2024年09月25日/RoleBreak_Character_Hallucination_as_a_Jailbreak_Attack_in_Role-Playing_Systems.md)
 
