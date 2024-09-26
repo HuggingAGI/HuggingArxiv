@@ -260,10 +260,6 @@
 
     - [翻译: CLSP：高保真对比语言-状态预训练，专为代理状态表示设计](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
 
-- [DataGpt-SQL-7B: An Open-Source Language Model for Text-to-SQL](2024年09月24日/DataGpt-SQL-7B_An_Open-Source_Language_Model_for_Text-to-SQL.md)
-
-    - [翻译: DataGpt-SQL-7B：一款专为文本转SQL设计的开源语言模型](2024年09月24日/DataGpt-SQL-7B_An_Open-Source_Language_Model_for_Text-to-SQL.md)
-
 - [DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection](2024年09月24日/DepMamba_Progressive_Fusion_Mamba_for_Multimodal_Depression_Detection.md)
 
     - [翻译: DepMamba：一种用于多模态抑郁症检测的渐进式融合 Mamba 模型](2024年09月24日/DepMamba_Progressive_Fusion_Mamba_for_Multimodal_Depression_Detection.md)
@@ -276,25 +272,13 @@
 
     - [翻译: 利用大型语言模型与移动应用的高级人机交互，提升物联网植物健康监测的效能](2024年09月24日/Enhancing_IoT_based_Plant_Health_Monitoring_through_Advanced_Human_Plant_Interaction_using_Large_Language_Models_and_Mobile_Applications.md)
 
-- [EventHallusion: Diagnosing Event Hallucinations in Video LLMs](2024年09月24日/EventHallusion_Diagnosing_Event_Hallucinations_in_Video_LLMs.md)
-
-    - [翻译: EventHallusion：揭秘视频 LLM 中的事件幻觉](2024年09月24日/EventHallusion_Diagnosing_Event_Hallucinations_in_Video_LLMs.md)
-
 - [Exploring Hint Generation Approaches in Open-Domain Question Answering](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
 
     - [翻译: 探究开放领域问答中的提示生成策略](2024年09月24日/Exploring_Hint_Generation_Approaches_in_Open-Domain_Question_Answering.md)
 
-- [Federated Large Language Models: Current Progress and Future Directions](2024年09月24日/Federated_Large_Language_Models_Current_Progress_and_Future_Directions.md)
-
-    - [翻译: 联邦大型语言模型：现状与未来展望](2024年09月24日/Federated_Large_Language_Models_Current_Progress_and_Future_Directions.md)
-
 - [Finetuning LLMs for Comparative Assessment Tasks](2024年09月24日/Finetuning_LLMs_for_Comparative_Assessment_Tasks.md)
 
     - [翻译: 针对比较评估任务微调 LLM](2024年09月24日/Finetuning_LLMs_for_Comparative_Assessment_Tasks.md)
-
-- [HLB: Benchmarking LLMs' Humanlikeness in Language Use](2024年09月24日/HLB_Benchmarking_LLMs'_Humanlikeness_in_Language_Use.md)
-
-    - [翻译: HLB：评估大型语言模型在语言使用中的人类相似度](2024年09月24日/HLB_Benchmarking_LLMs'_Humanlikeness_in_Language_Use.md)
 
 - [Implicit assessment of language learning during practice as accurate as explicit testing](2024年09月24日/Implicit_assessment_of_language_learning_during_practice_as_accurate_as_explicit_testing.md)
 
