@@ -240,25 +240,9 @@
 
     - [翻译: AIR-Embodied：一个高效结合3DGS和具身大型语言模型的主动交互与重建框架](2024年09月24日/AIR-Embodied_An_Efficient_Active_3DGS-based_Interaction_and_Reconstruction_Framework_with_Embodied_Large_Language_Model.md)
 
-- [Automated Assessment of Multimodal Answer Sheets in the STEM domain](2024年09月24日/Automated_Assessment_of_Multimodal_Answer_Sheets_in_the_STEM_domain.md)
-
-    - [翻译: STEM 领域多模态答卷的自动化评分](2024年09月24日/Automated_Assessment_of_Multimodal_Answer_Sheets_in_the_STEM_domain.md)
-
-- [CDChat: A Large Multimodal Model for Remote Sensing Change Description](2024年09月24日/CDChat_A_Large_Multimodal_Model_for_Remote_Sensing_Change_Description.md)
-
-    - [翻译: CDChat：专为遥感变化描述设计的大型多模态模型](2024年09月24日/CDChat_A_Large_Multimodal_Model_for_Remote_Sensing_Change_Description.md)
-
 - [CLSP: High-Fidelity Contrastive Language-State Pre-training for Agent State Representation](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
 
     - [翻译: CLSP：高保真对比语言-状态预训练，专为代理状态表示设计](2024年09月24日/CLSP_High-Fidelity_Contrastive_Language-State_Pre-training_for_Agent_State_Representation.md)
-
-- [Enhancing disease detection in radiology reports through fine-tuning lightweight LLM on weak labels](2024年09月24日/Enhancing_disease_detection_in_radiology_reports_through_fine-tuning_lightweight_LLM_on_weak_labels.md)
-
-    - [翻译: 利用弱标签微调轻量级 LLM，提升放射学报告中疾病检测的精准度](2024年09月24日/Enhancing_disease_detection_in_radiology_reports_through_fine-tuning_lightweight_LLM_on_weak_labels.md)
-
-- [LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM](2024年09月24日/LLMCount_Enhancing_Stationary_mmWave_Detection_with_Multimodal-LLM.md)
-
-    - [翻译: LLMCount：借助多模态-LLM 提升静态毫米波检测能力](2024年09月24日/LLMCount_Enhancing_Stationary_mmWave_Detection_with_Multimodal-LLM.md)
 
 - [LSAST -- Enhancing Cybersecurity through LLM-supported Static Application Security Testing](2024年09月24日/LSAST_--_Enhancing_Cybersecurity_through_LLM-supported_Static_Application_Security_Testing.md)
 
@@ -272,10 +256,6 @@
 
     - [翻译: MM-CamObj：专为伪装对象场景设计的多模态综合数据集](2024年09月24日/MM-CamObj_A_Comprehensive_Multimodal_Dataset_for_Camouflaged_Object_Scenarios.md)
 
-- [MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents](2024年09月24日/MOSS_Enabling_Code-Driven_Evolution_and_Context_Management_for_AI_Agents.md)
-
-    - [翻译: MOSS：赋能 AI 代理的代码驱动进化与上下文管理](2024年09月24日/MOSS_Enabling_Code-Driven_Evolution_and_Context_Management_for_AI_Agents.md)
-
 - [Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
 
     - [翻译: 无专家参与的 LLM-符号规划：在未知领域中探索前行](2024年09月24日/Planning_in_the_Dark_LLM-Symbolic_Planning_Pipeline_without_Experts.md)
@@ -283,10 +263,6 @@
 - [SLIMER-IT: Zero-Shot NER on Italian Language](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
 
     - [翻译: SLIMER-IT：意大利语零-shot命名实体识别](2024年09月24日/SLIMER-IT_Zero-Shot_NER_on_Italian_Language.md)
-
-- [Unsupervised Text Representation Learning via Instruction-Tuning for Zero-Shot Dense Retrieval](2024年09月24日/Unsupervised_Text_Representation_Learning_via_Instruction-Tuning_for_Zero-Shot_Dense_Retrieval.md)
-
-    - [翻译: 无监督文本表示学习：通过指令调优实现零-shot密集检索](2024年09月24日/Unsupervised_Text_Representation_Learning_via_Instruction-Tuning_for_Zero-Shot_Dense_Retrieval.md)
 
 - [XTRUST: On the Multilingual Trustworthiness of Large Language Models](2024年09月24日/XTRUST_On_the_Multilingual_Trustworthiness_of_Large_Language_Models.md)
 
