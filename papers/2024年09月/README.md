@@ -30,10 +30,6 @@
 
     - [翻译: 大型视觉-语言模型中的图像注意力提示](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
 
-- [Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?](2024年09月25日/Can_Vision_Language_Models_Learn_from_Visual_Demonstrations_of_Ambiguous_Spatial_Reasoning.md)
-
-    - [翻译: 视觉语言模型能否从模糊空间推理的视觉演示中汲取知识？](2024年09月25日/Can_Vision_Language_Models_Learn_from_Visual_Demonstrations_of_Ambiguous_Spatial_Reasoning.md)
-
 - [Claim-Guided Textual Backdoor Attack for Practical Applications](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
 
     - [翻译: 基于声明的文本后门攻击在实际应用中的探索](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
@@ -74,21 +70,9 @@
 
     - [翻译: 探索与提升大型语言模型在学术出版物中评估新颖性的能力](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
 
-- [FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression](2024年09月25日/FineZip__Pushing_the_Limits_of_Large_Language_Models_for_Practical_Lossless_Text_Compression.md)
-
-    - [翻译: FineZip：突破大型语言模型在无损文本压缩中的应用极限](2024年09月25日/FineZip__Pushing_the_Limits_of_Large_Language_Models_for_Practical_Lossless_Text_Compression.md)
-
-- [GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design](2024年09月25日/GeoBiked_A_Dataset_with_Geometric_Features_and_Automated_Labeling_Techniques_to_Enable_Deep_Generative_Models_in_Engineering_Design.md)
-
-    - [翻译: GeoBiked 数据集结合了几何特征与自动化标注技术，为工程设计领域的深度生成模型提供了强大支持。](2024年09月25日/GeoBiked_A_Dataset_with_Geometric_Features_and_Automated_Labeling_Techniques_to_Enable_Deep_Generative_Models_in_Engineering_Design.md)
-
 - [GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning](2024年09月25日/GraphLoRA_Structure-Aware_Contrastive_Low-Rank_Adaptation_for_Cross-Graph_Transfer_Learning.md)
 
     - [翻译: GraphLoRA：结构感知的低秩对比适应，助力跨图迁移学习](2024年09月25日/GraphLoRA_Structure-Aware_Contrastive_Low-Rank_Adaptation_for_Cross-Graph_Transfer_Learning.md)
-
-- [Harnessing Diversity for Important Data Selection in Pretraining Large Language Models](2024年09月25日/Harnessing_Diversity_for_Important_Data_Selection_in_Pretraining_Large_Language_Models.md)
-
-    - [翻译: 借助多样性，精准挑选预训练大型语言模型中的关键数据](2024年09月25日/Harnessing_Diversity_for_Important_Data_Selection_in_Pretraining_Large_Language_Models.md)
 
 - [Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction](2024年09月25日/Holistic_Automated_Red_Teaming_for_Large_Language_Models_through_Top-Down_Test_Case_Generation_and_Multi-turn_Interaction.md)
 
@@ -101,10 +85,6 @@
 - [INT-FlashAttention: Enabling Flash Attention for INT8 Quantization](2024年09月25日/INT-FlashAttention_Enabling_Flash_Attention_for_INT8_Quantization.md)
 
     - [翻译: INT-FlashAttention：让 INT8 量化也能闪耀光芒](2024年09月25日/INT-FlashAttention_Enabling_Flash_Attention_for_INT8_Quantization.md)
-
-- [Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents](2024年09月25日/Investigating_OCR-Sensitive_Neurons_to_Improve_Entity_Recognition_in_Historical_Documents.md)
-
-    - [翻译: 探索 OCR-敏感神经元，提升历史文档中的实体识别效果](2024年09月25日/Investigating_OCR-Sensitive_Neurons_to_Improve_Entity_Recognition_in_Historical_Documents.md)
 
 - [In which fields can ChatGPT detect journal article quality? An evaluation of REF2021 results](2024年09月25日/In_which_fields_can_ChatGPT_detect_journal_article_quality_An_evaluation_of_REF2021_results.md)
 
@@ -125,10 +105,6 @@
 - [LLM-CARD: Towards a Description and Landscape of Large Language Models](2024年09月25日/LLM-CARD_Towards_a_Description_and_Landscape_of_Large_Language_Models.md)
 
     - [翻译: LLM-CARD：探索大型语言模型的全景与描述](2024年09月25日/LLM-CARD_Towards_a_Description_and_Landscape_of_Large_Language_Models.md)
-
-- [Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
-
-    - [翻译: 精雕细琢每个示例：大规模提升预训练数据质量，如同专家般精准](2024年09月25日/Programming_Every_Example_Lifting_Pre-training_Data_Quality_like_Experts_at_Scale.md)
 
 - [RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems](2024年09月25日/RoleBreak_Character_Hallucination_as_a_Jailbreak_Attack_in_Role-Playing_Systems.md)
 
