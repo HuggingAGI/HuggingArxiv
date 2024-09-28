@@ -252,21 +252,9 @@
 
     - [翻译: 提升时间敏感问答中的时间感知与推理能力](2024年09月25日/Enhancing_Temporal_Sensitivity_and_Reasoning_for_Time-Sensitive_Question_Answering.md)
 
-- [E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL](2024年09月25日/E-SQL_Direct_Schema_Linking_via_Question_Enrichment_in_Text-to-SQL.md)
-
-    - [翻译: E-SQL：通过问题丰富实现文本到SQL的直接模式链接](2024年09月25日/E-SQL_Direct_Schema_Linking_via_Question_Enrichment_in_Text-to-SQL.md)
-
 - [Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
 
     - [翻译: 探索与提升大型语言模型在学术出版物中评估新颖性的能力](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
-
-- [Exploring the Roles of NLP-based Dialog Indicators in Predicting User Experience in interacting with Large Language Model System](2024年09月25日/Exploring_the_Roles_of_NLP-based_Dialog_Indicators_in_Predicting_User_Experience_in_interacting_with_Large_Language_Model_System.md)
-
-    - [翻译: 探究 NLP 对话指标如何预测用户与大型语言模型系统交互的体验](2024年09月25日/Exploring_the_Roles_of_NLP-based_Dialog_Indicators_in_Predicting_User_Experience_in_interacting_with_Large_Language_Model_System.md)
-
-- [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](2024年09月25日/From_News_to_Forecast_Integrating_Event_Analysis_in_LLM-Based_Time_Series_Forecasting_with_Reflection.md)
-
-    - [翻译: 从新闻到预测：在 LLM 时间序列预测中融入事件分析与反思](2024年09月25日/From_News_to_Forecast_Integrating_Event_Analysis_in_LLM-Based_Time_Series_Forecasting_with_Reflection.md)
 
 - [Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction](2024年09月25日/Holistic_Automated_Red_Teaming_for_Large_Language_Models_through_Top-Down_Test_Case_Generation_and_Multi-turn_Interaction.md)
 
@@ -280,17 +268,9 @@
 
     - [翻译: ChatGPT 如何评估期刊文章质量？解析 REF2021 结果](2024年09月25日/In_which_fields_can_ChatGPT_detect_journal_article_quality_An_evaluation_of_REF2021_results.md)
 
-- ["It Explains What I am Currently Going Through Perfectly to a Tee": Understanding User Perceptions on LLM-Enhanced Narrative Interventions](2024年09月25日/It_Explains_What_I_am_Currently_Going_Through_Perfectly_to_a_Tee_Understanding_User_Perceptions_on_LLM-Enhanced_Narrative_Interventions.md)
-
-    - [翻译: “它精准地描述了我当前的处境”：探究用户对 LLM 增强叙事干预的认知](2024年09月25日/It_Explains_What_I_am_Currently_Going_Through_Perfectly_to_a_Tee_Understanding_User_Perceptions_on_LLM-Enhanced_Narrative_Interventions.md)
-
 - [LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
 
     - [翻译: LLaMa-SciQ：专为解答科学选择题而生的教育聊天机器人](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
-
-- [Proof of Thought : Neurosymbolic Program Synthesis allows Robust and Interpretable Reasoning](2024年09月25日/Proof_of_Thought__Neurosymbolic_Program_Synthesis_allows_Robust_and_Interpretable_Reasoning.md)
-
-    - [翻译: 思维证明：神经符号程序合成助力鲁棒且可解释的推理](2024年09月25日/Proof_of_Thought__Neurosymbolic_Program_Synthesis_allows_Robust_and_Interpretable_Reasoning.md)
 
 - [Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement](2024年09月25日/Semi-LLIE_Semi-supervised_Contrastive_Learning_with_Mamba-based_Low-light_Image_Enhancement.md)
 
@@ -307,7 +287,3 @@
 - [Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
 
     - [翻译: 利用 LLM 技术，实时转录并总结印尼 ePuskesmas 中医患互动的内容](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
-
-- [Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness](2024年09月25日/Zero-Shot_Detection_of_LLM-Generated_Text_using_Token_Cohesiveness.md)
-
-    - [翻译: 利用 Token 内聚性实现 LLM 生成文本的零-Shot 检测](2024年09月25日/Zero-Shot_Detection_of_LLM-Generated_Text_using_Token_Cohesiveness.md)
