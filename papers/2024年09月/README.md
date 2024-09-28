@@ -220,33 +220,13 @@
 
 2024年09月25日
 
-- [Accumulator-Aware Post-Training Quantization](2024年09月25日/Accumulator-Aware_Post-Training_Quantization.md)
-
-    - [翻译: 累加器感知后训练量化技术](2024年09月25日/Accumulator-Aware_Post-Training_Quantization.md)
-
-- [A Character-Centric Creative Story Generation via Imagination](2024年09月25日/A_Character-Centric_Creative_Story_Generation_via_Imagination.md)
-
-    - [翻译: 借助想象力，以角色为核心的创意故事生成](2024年09月25日/A_Character-Centric_Creative_Story_Generation_via_Imagination.md)
-
-- [Attention Prompting on Image for Large Vision-Language Models](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
-
-    - [翻译: 大型视觉-语言模型中的图像注意力提示](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
-
 - [Claim-Guided Textual Backdoor Attack for Practical Applications](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
 
     - [翻译: 基于声明的文本后门攻击在实际应用中的探索](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
 
-- [ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis](2024年09月25日/ControlCity_A_Multimodal_Diffusion_Model_Based_Approach_for_Accurate_Geospatial_Data_Generation_and_Urban_Morphology_Analysis.md)
-
-    - [翻译: ControlCity：一种多模态扩散模型，专为精准地理数据生成和城市形态分析而设计](2024年09月25日/ControlCity_A_Multimodal_Diffusion_Model_Based_Approach_for_Accurate_Geospatial_Data_Generation_and_Urban_Morphology_Analysis.md)
-
 - [Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation](2024年09月25日/Enabling_Auditory_Large_Language_Models_for_Automatic_Speech_Quality_Evaluation.md)
 
     - [翻译: 开启听觉大型语言模型，助力自动语音质量评估](2024年09月25日/Enabling_Auditory_Large_Language_Models_for_Automatic_Speech_Quality_Evaluation.md)
-
-- [Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering](2024年09月25日/Enhancing_Temporal_Sensitivity_and_Reasoning_for_Time-Sensitive_Question_Answering.md)
-
-    - [翻译: 提升时间敏感问答中的时间感知与推理能力](2024年09月25日/Enhancing_Temporal_Sensitivity_and_Reasoning_for_Time-Sensitive_Question_Answering.md)
 
 - [Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
 
@@ -259,7 +239,3 @@
 - [Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement](2024年09月25日/Semi-LLIE_Semi-supervised_Contrastive_Learning_with_Mamba-based_Low-light_Image_Enhancement.md)
 
     - [翻译: Semi-LLIE：结合 Mamba 技术，通过半监督对比学习提升低光图像增强效果](2024年09月25日/Semi-LLIE_Semi-supervised_Contrastive_Learning_with_Mamba-based_Low-light_Image_Enhancement.md)
-
-- [Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
-
-    - [翻译: 利用 LLM 技术，实时转录并总结印尼 ePuskesmas 中医患互动的内容](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
