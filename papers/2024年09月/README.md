@@ -14,10 +14,6 @@
 
     - [翻译: 从对抗视角探讨机器遗忘在 AI 安全中的应用](2024年09月26日/An_Adversarial_Perspective_on_Machine_Unlearning_for_AI_Safety.md)
 
-- [A Scalable Data-Driven Framework for Systematic Analysis of SEC 10-K Filings Using Large Language Models](2024年09月26日/A_Scalable_Data-Driven_Framework_for_Systematic_Analysis_of_SEC_10-K_Filings_Using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型，构建了一个可扩展的数据驱动框架，用于系统分析 SEC 10-K 文件。](2024年09月26日/A_Scalable_Data-Driven_Framework_for_Systematic_Analysis_of_SEC_10-K_Filings_Using_Large_Language_Models.md)
-
 - [AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment](2024年09月26日/AssistantX_An_LLM-Powered_Proactive_Assistant_in_Collaborative_Human-Populated_Environment.md)
 
     - [翻译: AssistantX：一款由 LLM 驱动、在协作环境中主动协助人类的智能助手](2024年09月26日/AssistantX_An_LLM-Powered_Proactive_Assistant_in_Collaborative_Human-Populated_Environment.md)
@@ -66,10 +62,6 @@
 
     - [翻译: 在 GPU 张量核心上，为大型语言模型提供高效且灵活的精度加速方案。](2024年09月26日/Efficient_Arbitrary_Precision_Acceleration_for_Large_Language_Models_on_GPU_Tensor_Cores.md)
 
-- [Efficient In-Domain Question Answering for Resource-Constrained Environments](2024年09月26日/Efficient_In-Domain_Question_Answering_for_Resource-Constrained_Environments.md)
-
-    - [翻译: 在资源有限的环境中，实现高效的领域内问答](2024年09月26日/Efficient_In-Domain_Question_Answering_for_Resource-Constrained_Environments.md)
-
 - [EgoLM: Multi-Modal Language Model of Egocentric Motions](2024年09月26日/EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions.md)
 
     - [翻译: EgoLM：探索以自我为中心运动的多模态语言模型](2024年09月26日/EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions.md)
@@ -85,10 +77,6 @@
 - [Enhancing elusive clues in knowledge learning by contrasting attention of language models](2024年09月26日/Enhancing_elusive_clues_in_knowledge_learning_by_contrasting_attention_of_language_models.md)
 
     - [翻译: 通过对比语言模型的注意力，我们能更有效地捕捉知识学习中的微妙线索。](2024年09月26日/Enhancing_elusive_clues_in_knowledge_learning_by_contrasting_attention_of_language_models.md)
-
-- [Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study](2024年09月26日/Enhancing_Structured-Data_Retrieval_with_GraphRAG_Soccer_Data_Case_Study.md)
-
-    - [翻译: GraphRAG 助力结构化数据检索：足球数据实战解析](2024年09月26日/Enhancing_Structured-Data_Retrieval_with_GraphRAG_Soccer_Data_Case_Study.md)
 
 - [Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation](2024年09月26日/Enhancing_Tourism_Recommender_Systems_for_Sustainable_City_Trips_Using_Retrieval-Augmented_Generation.md)
 
@@ -146,10 +134,6 @@
 
     - [翻译: LLM4Brain：打造专为脑视频理解而生的大型语言模型](2024年09月26日/LLM4Brain_Training_a_Large_Language_Model_for_Brain_Video_Understanding.md)
 
-- [Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models](2024年09月26日/Logic-of-Thought_Injecting_Logic_into_Contexts_for_Full_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: 逻辑思维：为大型语言模型注入逻辑，实现全面推理](2024年09月26日/Logic-of-Thought_Injecting_Logic_into_Contexts_for_Full_Reasoning_in_Large_Language_Models.md)
-
 - [MIO: A Foundation Model on Multimodal Tokens](2024年09月26日/MIO_A_Foundation_Model_on_Multimodal_Tokens.md)
 
     - [翻译: MIO：多模态令牌的基础模型](2024年09月26日/MIO_A_Foundation_Model_on_Multimodal_Tokens.md)
@@ -186,10 +170,6 @@
 
     - [翻译: 自监督偏好优化：让您的语言模型更智能地感知偏好程度](2024年09月26日/Self-supervised_Preference_Optimization_Enhance_Your_Language_Model_with_Preference_Degree_Awareness.md)
 
-- [SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation](2024年09月26日/SKT_Integrating_State-Aware_Keypoint_Trajectories_with_Vision-Language_Models_for_Robotic_Garment_Manipulation.md)
-
-    - [翻译: SKT：融合状态感知的关键点轨迹与视觉-语言模型，助力机器人服装操作](2024年09月26日/SKT_Integrating_State-Aware_Keypoint_Trajectories_with_Vision-Language_Models_for_Robotic_Garment_Manipulation.md)
-
 - [T3: A Novel Zero-shot Transfer Learning Framework Iteratively Training on an Assistant Task for a Target Task](2024年09月26日/T3_A_Novel_Zero-shot_Transfer_Learning_Framework_Iteratively_Training_on_an_Assistant_Task_for_a_Target_Task.md)
 
     - [翻译: T3：一种创新的零-shot 迁移学习框架，通过在辅助任务上迭代训练，最终实现目标任务。](2024年09月26日/T3_A_Novel_Zero-shot_Transfer_Learning_Framework_Iteratively_Training_on_an_Assistant_Task_for_a_Target_Task.md)
@@ -205,10 +185,6 @@
 - [Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation](2024年09月26日/Weak-To-Strong_Backdoor_Attacks_for_LLMs_with_Contrastive_Knowledge_Distillation.md)
 
     - [翻译: 针对 LLM 的弱-强后门攻击与对比知识蒸馏](2024年09月26日/Weak-To-Strong_Backdoor_Attacks_for_LLMs_with_Contrastive_Knowledge_Distillation.md)
-
-- [ZALM3: Zero-Shot Enhancement of Vision-Language Alignment via In-Context Information in Multi-Turn Multimodal Medical Dialogue](2024年09月26日/ZALM3_Zero-Shot_Enhancement_of_Vision-Language_Alignment_via_In-Context_Information_in_Multi-Turn_Multimodal_Medical_Dialogue.md)
-
-    - [翻译: ZALM3：借助多轮多模态医疗对话中的上下文信息，实现视觉与语言对齐的零-shot 增强。](2024年09月26日/ZALM3_Zero-Shot_Enhancement_of_Vision-Language_Alignment_via_In-Context_Information_in_Multi-Turn_Multimodal_Medical_Dialogue.md)
 
 - [Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT](2024年09月26日/Zero-_and_Few-shot_Named_Entity_Recognition_and_Text_Expansion_in_Medication_Prescriptions_using_ChatGPT.md)
 
