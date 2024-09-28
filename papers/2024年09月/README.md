@@ -220,10 +220,6 @@
 
 2024年09月25日
 
-- [AAPM: Large Language Model Agent-based Asset Pricing Models](2024年09月25日/AAPM_Large_Language_Model_Agent-based_Asset_Pricing_Models.md)
-
-    - [翻译: AAPM：利用大型语言模型代理的资产定价新模型](2024年09月25日/AAPM_Large_Language_Model_Agent-based_Asset_Pricing_Models.md)
-
 - [Accumulator-Aware Post-Training Quantization](2024年09月25日/Accumulator-Aware_Post-Training_Quantization.md)
 
     - [翻译: 累加器感知后训练量化技术](2024年09月25日/Accumulator-Aware_Post-Training_Quantization.md)
@@ -239,10 +235,6 @@
 - [Attention Prompting on Image for Large Vision-Language Models](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
 
     - [翻译: 大型视觉-语言模型中的图像注意力提示](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
-
-- [CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](2024年09月25日/CadVLM_Bridging_Language_and_Vision_in_the_Generation_of_Parametric_CAD_Sketches.md)
-
-    - [翻译: CadVLM：在参数化 CAD 草图生成中融合语言与视觉](2024年09月25日/CadVLM_Bridging_Language_and_Vision_in_the_Generation_of_Parametric_CAD_Sketches.md)
 
 - [Claim-Guided Textual Backdoor Attack for Practical Applications](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
 
