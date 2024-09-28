@@ -26,10 +26,6 @@
 
     - [翻译: Atlas-Chat：为低资源摩洛哥阿拉伯方言定制大型语言模型](2024年09月26日/Atlas-Chat_Adapting_Large_Language_Models_for_Low-Resource_Moroccan_Arabic_Dialect.md)
 
-- [BeanCounter: A low-toxicity, large-scale, and open dataset of business-oriented text](2024年09月26日/BeanCounter_A_low-toxicity,_large-scale,_and_open_dataset_of_business-oriented_text.md)
-
-    - [翻译: BeanCounter 是一个低毒性、大规模且开放的商业文本数据集。](2024年09月26日/BeanCounter_A_low-toxicity,_large-scale,_and_open_dataset_of_business-oriented_text.md)
-
 - [BEATS: Optimizing LLM Mathematical Capabilities with BackVerify and Adaptive Disambiguate based Efficient Tree Search](2024年09月26日/BEATS_Optimizing_LLM_Mathematical_Capabilities_with_BackVerify_and_Adaptive_Disambiguate_based_Efficient_Tree_Search.md)
 
     - [翻译: BEATS：利用 BackVerify 和 Adaptive Disambiguate 的高效树搜索，提升 LLM 的数学能力](2024年09月26日/BEATS_Optimizing_LLM_Mathematical_Capabilities_with_BackVerify_and_Adaptive_Disambiguate_based_Efficient_Tree_Search.md)
@@ -217,25 +213,3 @@
 - [Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT](2024年09月26日/Zero-_and_Few-shot_Named_Entity_Recognition_and_Text_Expansion_in_Medication_Prescriptions_using_ChatGPT.md)
 
     - [翻译: 利用 ChatGPT 在药物处方中实现零-shot 和少-shot 的命名实体识别与文本扩展](2024年09月26日/Zero-_and_Few-shot_Named_Entity_Recognition_and_Text_Expansion_in_Medication_Prescriptions_using_ChatGPT.md)
-
-2024年09月25日
-
-- [Claim-Guided Textual Backdoor Attack for Practical Applications](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
-
-    - [翻译: 基于声明的文本后门攻击在实际应用中的探索](2024年09月25日/Claim-Guided_Textual_Backdoor_Attack_for_Practical_Applications.md)
-
-- [Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation](2024年09月25日/Enabling_Auditory_Large_Language_Models_for_Automatic_Speech_Quality_Evaluation.md)
-
-    - [翻译: 开启听觉大型语言模型，助力自动语音质量评估](2024年09月25日/Enabling_Auditory_Large_Language_Models_for_Automatic_Speech_Quality_Evaluation.md)
-
-- [Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
-
-    - [翻译: 探索与提升大型语言模型在学术出版物中评估新颖性的能力](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
-
-- [LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
-
-    - [翻译: LLaMa-SciQ：专为解答科学选择题而生的教育聊天机器人](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
-
-- [Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement](2024年09月25日/Semi-LLIE_Semi-supervised_Contrastive_Learning_with_Mamba-based_Low-light_Image_Enhancement.md)
-
-    - [翻译: Semi-LLIE：结合 Mamba 技术，通过半监督对比学习提升低光图像增强效果](2024年09月25日/Semi-LLIE_Semi-supervised_Contrastive_Learning_with_Mamba-based_Low-light_Image_Enhancement.md)
