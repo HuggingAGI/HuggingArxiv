@@ -228,10 +228,6 @@
 
     - [翻译: 借助想象力，以角色为核心的创意故事生成](2024年09月25日/A_Character-Centric_Creative_Story_Generation_via_Imagination.md)
 
-- [A Prompting-Based Representation Learning Method for Recommendation with Large Language Models](2024年09月25日/A_Prompting-Based_Representation_Learning_Method_for_Recommendation_with_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型推荐中的提示驱动表示学习方法](2024年09月25日/A_Prompting-Based_Representation_Learning_Method_for_Recommendation_with_Large_Language_Models.md)
-
 - [Attention Prompting on Image for Large Vision-Language Models](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
 
     - [翻译: 大型视觉-语言模型中的图像注意力提示](2024年09月25日/Attention_Prompting_on_Image_for_Large_Vision-Language_Models.md)
@@ -256,18 +252,6 @@
 
     - [翻译: 探索与提升大型语言模型在学术出版物中评估新颖性的能力](2024年09月25日/Evaluating_and_Enhancing_Large_Language_Models_for_Novelty_Assessment_in_Scholarly_Publications.md)
 
-- [Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction](2024年09月25日/Holistic_Automated_Red_Teaming_for_Large_Language_Models_through_Top-Down_Test_Case_Generation_and_Multi-turn_Interaction.md)
-
-    - [翻译: 通过自上而下的测试用例生成和多轮交互，实现大型语言模型的全面自动化红队测试](2024年09月25日/Holistic_Automated_Red_Teaming_for_Large_Language_Models_through_Top-Down_Test_Case_Generation_and_Multi-turn_Interaction.md)
-
-- [How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not](2024年09月25日/How_to_Connect_Speech_Foundation_Models_and_Large_Language_Models_What_Matters_and_What_Does_Not.md)
-
-    - [翻译: 语音基础模型与大型语言模型如何对接？关键何在，何为次要？](2024年09月25日/How_to_Connect_Speech_Foundation_Models_and_Large_Language_Models_What_Matters_and_What_Does_Not.md)
-
-- [In which fields can ChatGPT detect journal article quality? An evaluation of REF2021 results](2024年09月25日/In_which_fields_can_ChatGPT_detect_journal_article_quality_An_evaluation_of_REF2021_results.md)
-
-    - [翻译: ChatGPT 如何评估期刊文章质量？解析 REF2021 结果](2024年09月25日/In_which_fields_can_ChatGPT_detect_journal_article_quality_An_evaluation_of_REF2021_results.md)
-
 - [LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
 
     - [翻译: LLaMa-SciQ：专为解答科学选择题而生的教育聊天机器人](2024年09月25日/LLaMa-SciQ_An_Educational_Chatbot_for_Answering_Science_MCQ.md)
@@ -275,14 +259,6 @@
 - [Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement](2024年09月25日/Semi-LLIE_Semi-supervised_Contrastive_Learning_with_Mamba-based_Low-light_Image_Enhancement.md)
 
     - [翻译: Semi-LLIE：结合 Mamba 技术，通过半监督对比学习提升低光图像增强效果](2024年09月25日/Semi-LLIE_Semi-supervised_Contrastive_Learning_with_Mamba-based_Low-light_Image_Enhancement.md)
-
-- [The Role of Language Models in Modern Healthcare: A Comprehensive Review](2024年09月25日/The_Role_of_Language_Models_in_Modern_Healthcare_A_Comprehensive_Review.md)
-
-    - [翻译: 现代医疗保健中的语言模型：全面审视](2024年09月25日/The_Role_of_Language_Models_in_Modern_Healthcare_A_Comprehensive_Review.md)
-
-- [Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
-
-    - [翻译: 让每个应用都成为智能代理：探索基于 API 优先的 LLM 代理，实现更高效的人机交互](2024年09月25日/Turn_Every_Application_into_an_Agent_Towards_Efficient_Human-Agent-Computer_Interaction_with_API-First_LLM-Based_Agents.md)
 
 - [Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia](2024年09月25日/Using_LLM_for_Real-Time_Transcription_and_Summarization_of_Doctor-Patient_Interactions_into_ePuskesmas_in_Indonesia.md)
 
