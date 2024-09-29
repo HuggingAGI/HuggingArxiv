@@ -30,10 +30,6 @@
 
     - [翻译: 利用大型语言模型驾驭工业自动化系统](2024年09月26日/Control_Industrial_Automation_System_with_Large_Language_Models.md)
 
-- [DARE: Diverse Visual Question Answering with Robustness Evaluation](2024年09月26日/DARE_Diverse_Visual_Question_Answering_with_Robustness_Evaluation.md)
-
-    - [翻译: DARE：多样视觉问答的鲁棒性评估](2024年09月26日/DARE_Diverse_Visual_Question_Answering_with_Robustness_Evaluation.md)
-
 - [DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving](2024年09月26日/DualAD_Dual-Layer_Planning_for_Reasoning_in_Autonomous_Driving.md)
 
     - [翻译: DualAD：双层规划助力自动驾驶推理](2024年09月26日/DualAD_Dual-Layer_Planning_for_Reasoning_in_Autonomous_Driving.md)
@@ -49,14 +45,6 @@
 - [EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models](2024年09月26日/EMMA-500_Enhancing_Massively_Multilingual_Adaptation_of_Large_Language_Models.md)
 
     - [翻译: EMMA-500：提升大型语言模型在海量多语言环境中的适应能力](2024年09月26日/EMMA-500_Enhancing_Massively_Multilingual_Adaptation_of_Large_Language_Models.md)
-
-- [EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions](2024年09月26日/EMOVA_Empowering_Language_Models_to_See,_Hear_and_Speak_with_Vivid_Emotions.md)
-
-    - [翻译: EMOVA：让语言模型以鲜活的情感去感知、聆听和表达](2024年09月26日/EMOVA_Empowering_Language_Models_to_See,_Hear_and_Speak_with_Vivid_Emotions.md)
-
-- [Enhancing elusive clues in knowledge learning by contrasting attention of language models](2024年09月26日/Enhancing_elusive_clues_in_knowledge_learning_by_contrasting_attention_of_language_models.md)
-
-    - [翻译: 通过对比语言模型的注意力，我们能更有效地捕捉知识学习中的微妙线索。](2024年09月26日/Enhancing_elusive_clues_in_knowledge_learning_by_contrasting_attention_of_language_models.md)
 
 - [Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience](2024年09月26日/Episodic_Memory_Verbalization_using_Hierarchical_Representations_of_Life-Long_Robot_Experience.md)
 
@@ -90,10 +78,6 @@
 
     - [翻译: 语言模型：零-shot 无损梯度压缩器，引领通用神经参数先验模型的发展](2024年09月26日/Language_Models_as_Zero-shot_Lossless_Gradient_Compressors_Towards_General_Neural_Parameter_Prior_Models.md)
 
-- [Learning to Love Edge Cases in Formative Math Assessment: Using the AMMORE Dataset and Chain-of-Thought Prompting to Improve Grading Accuracy](2024年09月26日/Learning_to_Love_Edge_Cases_in_Formative_Math_Assessment_Using_the_AMMORE_Dataset_and_Chain-of-Thought_Prompting_to_Improve_Grading_Accuracy.md)
-
-    - [翻译: 在数学评估中，学会关注边缘案例：借助 AMMORE 数据集和思维链提示，提升评分精准度。](2024年09月26日/Learning_to_Love_Edge_Cases_in_Formative_Math_Assessment_Using_the_AMMORE_Dataset_and_Chain-of-Thought_Prompting_to_Improve_Grading_Accuracy.md)
-
 - [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](2024年09月26日/LLaVA-3D_A_Simple_yet_Effective_Pathway_to_Empowering_LMMs_with_3D-awareness.md)
 
     - [翻译: LLaVA-3D：为大型多模态模型赋予3D感知能力的简易而高效之道](2024年09月26日/LLaVA-3D_A_Simple_yet_Effective_Pathway_to_Empowering_LMMs_with_3D-awareness.md)
@@ -110,10 +94,6 @@
 
     - [翻译: MoJE：混合越狱专家，以朴素表格分类器守护提示攻击](2024年09月26日/MoJE_Mixture_of_Jailbreak_Experts,_Naive_Tabular_Classifiers_as_Guard_for_Prompt_Attacks.md)
 
-- [Multilingual Evaluation of Long Context Retrieval and Reasoning](2024年09月26日/Multilingual_Evaluation_of_Long_Context_Retrieval_and_Reasoning.md)
-
-    - [翻译: 多语言长上下文检索与推理评估](2024年09月26日/Multilingual_Evaluation_of_Long_Context_Retrieval_and_Reasoning.md)
-
 - [P4Q: Learning to Prompt for Quantization in Visual-language Models](2024年09月26日/P4Q_Learning_to_Prompt_for_Quantization_in_Visual-language_Models.md)
 
     - [翻译: P4Q：视觉-语言模型中通过提示学习实现量化](2024年09月26日/P4Q_Learning_to_Prompt_for_Quantization_in_Visual-language_Models.md)
@@ -121,10 +101,6 @@
 - [Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications](2024年09月26日/Robotic-CLIP_Fine-tuning_CLIP_on_Action_Data_for_Robotic_Applications.md)
 
     - [翻译: Robotic-CLIP：为机器人应用量身定制，通过动作数据微调 CLIP。](2024年09月26日/Robotic-CLIP_Fine-tuning_CLIP_on_Action_Data_for_Robotic_Applications.md)
-
-- [Role-RL: Online Long-Context Processing with Role Reinforcement Learning for Distinct LLMs in Their Optimal Roles](2024年09月26日/Role-RL_Online_Long-Context_Processing_with_Role_Reinforcement_Learning_for_Distinct_LLMs_in_Their_Optimal_Roles.md)
-
-    - [翻译: Role-RL：通过角色强化学习实现 LLMs 在线长上下文处理，确保每个模型在其最佳角色中发挥作用。](2024年09月26日/Role-RL_Online_Long-Context_Processing_with_Role_Reinforcement_Learning_for_Distinct_LLMs_in_Their_Optimal_Roles.md)
 
 - [T3: A Novel Zero-shot Transfer Learning Framework Iteratively Training on an Assistant Task for a Target Task](2024年09月26日/T3_A_Novel_Zero-shot_Transfer_Learning_Framework_Iteratively_Training_on_an_Assistant_Task_for_a_Target_Task.md)
 
