@@ -2,14 +2,6 @@
 
 2024年09月26日
 
-- [AI Delegates with a Dual Focus: Ensuring Privacy and Strategic Self-Disclosure](2024年09月26日/AI_Delegates_with_a_Dual_Focus_Ensuring_Privacy_and_Strategic_Self-Disclosure.md)
-
-    - [翻译: AI 代表的双重使命：保护隐私与策略性自我披露](2024年09月26日/AI_Delegates_with_a_Dual_Focus_Ensuring_Privacy_and_Strategic_Self-Disclosure.md)
-
-- [An Adversarial Perspective on Machine Unlearning for AI Safety](2024年09月26日/An_Adversarial_Perspective_on_Machine_Unlearning_for_AI_Safety.md)
-
-    - [翻译: 从对抗视角探讨机器遗忘在 AI 安全中的应用](2024年09月26日/An_Adversarial_Perspective_on_Machine_Unlearning_for_AI_Safety.md)
-
 - [AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment](2024年09月26日/AssistantX_An_LLM-Powered_Proactive_Assistant_in_Collaborative_Human-Populated_Environment.md)
 
     - [翻译: AssistantX：一款由 LLM 驱动、在协作环境中主动协助人类的智能助手](2024年09月26日/AssistantX_An_LLM-Powered_Proactive_Assistant_in_Collaborative_Human-Populated_Environment.md)
@@ -21,18 +13,6 @@
 - [Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective](2024年09月26日/Compositional_Hardness_of_Code_in_Large_Language_Models_--_A_Probabilistic_Perspective.md)
 
     - [翻译: 大型语言模型中的代码组合难题——从概率角度解析](2024年09月26日/Compositional_Hardness_of_Code_in_Large_Language_Models_--_A_Probabilistic_Perspective.md)
-
-- [Control Industrial Automation System with Large Language Models](2024年09月26日/Control_Industrial_Automation_System_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型驾驭工业自动化系统](2024年09月26日/Control_Industrial_Automation_System_with_Large_Language_Models.md)
-
-- [EAGLE: Egocentric AGgregated Language-video Engine](2024年09月26日/EAGLE_Egocentric_AGgregated_Language-video_Engine.md)
-
-    - [翻译: EAGLE：一款以自我为中心的语言与视频聚合引擎](2024年09月26日/EAGLE_Egocentric_AGgregated_Language-video_Engine.md)
-
-- [EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models](2024年09月26日/EMMA-500_Enhancing_Massively_Multilingual_Adaptation_of_Large_Language_Models.md)
-
-    - [翻译: EMMA-500：提升大型语言模型在海量多语言环境中的适应能力](2024年09月26日/EMMA-500_Enhancing_Massively_Multilingual_Adaptation_of_Large_Language_Models.md)
 
 - [Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience](2024年09月26日/Episodic_Memory_Verbalization_using_Hierarchical_Representations_of_Life-Long_Robot_Experience.md)
 
@@ -77,10 +57,6 @@
 - [Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications](2024年09月26日/Robotic-CLIP_Fine-tuning_CLIP_on_Action_Data_for_Robotic_Applications.md)
 
     - [翻译: Robotic-CLIP：为机器人应用量身定制，通过动作数据微调 CLIP。](2024年09月26日/Robotic-CLIP_Fine-tuning_CLIP_on_Action_Data_for_Robotic_Applications.md)
-
-- [T3: A Novel Zero-shot Transfer Learning Framework Iteratively Training on an Assistant Task for a Target Task](2024年09月26日/T3_A_Novel_Zero-shot_Transfer_Learning_Framework_Iteratively_Training_on_an_Assistant_Task_for_a_Target_Task.md)
-
-    - [翻译: T3：一种创新的零-shot 迁移学习框架，通过在辅助任务上迭代训练，最终实现目标任务。](2024年09月26日/T3_A_Novel_Zero-shot_Transfer_Learning_Framework_Iteratively_Training_on_an_Assistant_Task_for_a_Target_Task.md)
 
 - [TA-Cleaner: A Fine-grained Text Alignment Backdoor Defense Strategy for Multimodal Contrastive Learning](2024年09月26日/TA-Cleaner_A_Fine-grained_Text_Alignment_Backdoor_Defense_Strategy_for_Multimodal_Contrastive_Learning.md)
 
