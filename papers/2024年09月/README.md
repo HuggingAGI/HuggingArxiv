@@ -62,10 +62,6 @@
 
     - [翻译: 利用机器人终身经验的层次结构，实现情景记忆的言语表达](2024年09月26日/Episodic_Memory_Verbalization_using_Hierarchical_Representations_of_Life-Long_Robot_Experience.md)
 
-- [E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding](2024年09月26日/E.T._Bench_Towards_Open-Ended_Event-Level_Video-Language_Understanding.md)
-
-    - [翻译: E.T. Bench：开启事件级视频与语言的开放式理解之旅](2024年09月26日/E.T._Bench_Towards_Open-Ended_Event-Level_Video-Language_Understanding.md)
-
 - [Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models](2024年09月26日/Extracting_Affect_Aggregates_from_Longitudinal_Social_Media_Data_with_Temporal_Adapters_for_Large_Language_Models.md)
 
     - [翻译: 利用时间适配器从长期社交媒体数据中提取情感聚合，应用于大型语言模型](2024年09月26日/Extracting_Affect_Aggregates_from_Longitudinal_Social_Media_Data_with_Temporal_Adapters_for_Large_Language_Models.md)
@@ -81,10 +77,6 @@
 - [GSON: A Group-based Social Navigation Framework with Large Multimodal Model](2024年09月26日/GSON_A_Group-based_Social_Navigation_Framework_with_Large_Multimodal_Model.md)
 
     - [翻译: GSON：结合大型多模态模型的群体社交导航框架](2024年09月26日/GSON_A_Group-based_Social_Navigation_Framework_with_Large_Multimodal_Model.md)
-
-- [Inference-Time Language Model Alignment via Integrated Value Guidance](2024年09月26日/Inference-Time_Language_Model_Alignment_via_Integrated_Value_Guidance.md)
-
-    - [翻译: 推理时刻的语言模型对齐，借助综合价值指导实现。](2024年09月26日/Inference-Time_Language_Model_Alignment_via_Integrated_Value_Guidance.md)
 
 - [Infering Alt-text For UI Icons With Large Language Models During App Development](2024年09月26日/Infering_Alt-text_For_UI_Icons_With_Large_Language_Models_During_App_Development.md)
 
@@ -122,17 +114,9 @@
 
     - [翻译: 多语言长上下文检索与推理评估](2024年09月26日/Multilingual_Evaluation_of_Long_Context_Retrieval_and_Reasoning.md)
 
-- [Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography](2024年09月26日/Multi-View_and_Multi-Scale_Alignment_for_Contrastive_Language-Image_Pre-training_in_Mammography.md)
-
-    - [翻译: 乳腺摄影中的对比语言-图像预训练：多视图与多尺度的精准对齐](2024年09月26日/Multi-View_and_Multi-Scale_Alignment_for_Contrastive_Language-Image_Pre-training_in_Mammography.md)
-
 - [P4Q: Learning to Prompt for Quantization in Visual-language Models](2024年09月26日/P4Q_Learning_to_Prompt_for_Quantization_in_Visual-language_Models.md)
 
     - [翻译: P4Q：视觉-语言模型中通过提示学习实现量化](2024年09月26日/P4Q_Learning_to_Prompt_for_Quantization_in_Visual-language_Models.md)
-
-- [PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification](2024年09月26日/PEDRO_Parameter-Efficient_Fine-tuning_with_Prompt_DEpenDent_Representation_MOdification.md)
-
-    - [翻译: PEDRO：通过提示依赖表示修改实现参数高效微调](2024年09月26日/PEDRO_Parameter-Efficient_Fine-tuning_with_Prompt_DEpenDent_Representation_MOdification.md)
 
 - [Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications](2024年09月26日/Robotic-CLIP_Fine-tuning_CLIP_on_Action_Data_for_Robotic_Applications.md)
 
@@ -141,10 +125,6 @@
 - [Role-RL: Online Long-Context Processing with Role Reinforcement Learning for Distinct LLMs in Their Optimal Roles](2024年09月26日/Role-RL_Online_Long-Context_Processing_with_Role_Reinforcement_Learning_for_Distinct_LLMs_in_Their_Optimal_Roles.md)
 
     - [翻译: Role-RL：通过角色强化学习实现 LLMs 在线长上下文处理，确保每个模型在其最佳角色中发挥作用。](2024年09月26日/Role-RL_Online_Long-Context_Processing_with_Role_Reinforcement_Learning_for_Distinct_LLMs_in_Their_Optimal_Roles.md)
-
-- [Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness](2024年09月26日/Self-supervised_Preference_Optimization_Enhance_Your_Language_Model_with_Preference_Degree_Awareness.md)
-
-    - [翻译: 自监督偏好优化：让您的语言模型更智能地感知偏好程度](2024年09月26日/Self-supervised_Preference_Optimization_Enhance_Your_Language_Model_with_Preference_Degree_Awareness.md)
 
 - [T3: A Novel Zero-shot Transfer Learning Framework Iteratively Training on an Assistant Task for a Target Task](2024年09月26日/T3_A_Novel_Zero-shot_Transfer_Learning_Framework_Iteratively_Training_on_an_Assistant_Task_for_a_Target_Task.md)
 
@@ -161,7 +141,3 @@
 - [Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation](2024年09月26日/Weak-To-Strong_Backdoor_Attacks_for_LLMs_with_Contrastive_Knowledge_Distillation.md)
 
     - [翻译: 针对 LLM 的弱-强后门攻击与对比知识蒸馏](2024年09月26日/Weak-To-Strong_Backdoor_Attacks_for_LLMs_with_Contrastive_Knowledge_Distillation.md)
-
-- [Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT](2024年09月26日/Zero-_and_Few-shot_Named_Entity_Recognition_and_Text_Expansion_in_Medication_Prescriptions_using_ChatGPT.md)
-
-    - [翻译: 利用 ChatGPT 在药物处方中实现零-shot 和少-shot 的命名实体识别与文本扩展](2024年09月26日/Zero-_and_Few-shot_Named_Entity_Recognition_and_Text_Expansion_in_Medication_Prescriptions_using_ChatGPT.md)
