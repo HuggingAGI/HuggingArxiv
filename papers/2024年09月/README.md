@@ -18,10 +18,6 @@
 
     - [翻译: AssistantX：一款由 LLM 驱动、在协作环境中主动协助人类的智能助手](2024年09月26日/AssistantX_An_LLM-Powered_Proactive_Assistant_in_Collaborative_Human-Populated_Environment.md)
 
-- [Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan Arabic Dialect](2024年09月26日/Atlas-Chat_Adapting_Large_Language_Models_for_Low-Resource_Moroccan_Arabic_Dialect.md)
-
-    - [翻译: Atlas-Chat：为低资源摩洛哥阿拉伯方言定制大型语言模型](2024年09月26日/Atlas-Chat_Adapting_Large_Language_Models_for_Low-Resource_Moroccan_Arabic_Dialect.md)
-
 - [BEATS: Optimizing LLM Mathematical Capabilities with BackVerify and Adaptive Disambiguate based Efficient Tree Search](2024年09月26日/BEATS_Optimizing_LLM_Mathematical_Capabilities_with_BackVerify_and_Adaptive_Disambiguate_based_Efficient_Tree_Search.md)
 
     - [翻译: BEATS：利用 BackVerify 和 Adaptive Disambiguate 的高效树搜索，提升 LLM 的数学能力](2024年09月26日/BEATS_Optimizing_LLM_Mathematical_Capabilities_with_BackVerify_and_Adaptive_Disambiguate_based_Efficient_Tree_Search.md)
@@ -38,29 +34,13 @@
 
     - [翻译: DARE：多样视觉问答的鲁棒性评估](2024年09月26日/DARE_Diverse_Visual_Question_Answering_with_Robustness_Evaluation.md)
 
-- [Digital Twin Ecosystem for Oncology Clinical Operations](2024年09月26日/Digital_Twin_Ecosystem_for_Oncology_Clinical_Operations.md)
-
-    - [翻译: 肿瘤临床操作的数字孪生生态圈](2024年09月26日/Digital_Twin_Ecosystem_for_Oncology_Clinical_Operations.md)
-
-- [Dr. GPT in Campus Counseling: Understanding Higher Education Students' Opinions on LLM-assisted Mental Health Services](2024年09月26日/Dr._GPT_in_Campus_Counseling_Understanding_Higher_Education_Students'_Opinions_on_LLM-assisted_Mental_Health_Services.md)
-
-    - [翻译: 校园里的 Dr. GPT：探究大学生对 LLM 辅助心理健康服务的看法](2024年09月26日/Dr._GPT_in_Campus_Counseling_Understanding_Higher_Education_Students'_Opinions_on_LLM-assisted_Mental_Health_Services.md)
-
 - [DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving](2024年09月26日/DualAD_Dual-Layer_Planning_for_Reasoning_in_Autonomous_Driving.md)
 
     - [翻译: DualAD：双层规划助力自动驾驶推理](2024年09月26日/DualAD_Dual-Layer_Planning_for_Reasoning_in_Autonomous_Driving.md)
 
-- [DualCoTs: Dual Chain-of-Thoughts Prompting for Sentiment Lexicon Expansion of Idioms](2024年09月26日/DualCoTs_Dual_Chain-of-Thoughts_Prompting_for_Sentiment_Lexicon_Expansion_of_Idioms.md)
-
-    - [翻译: DualCoTs：通过双链思维提示，助力习语情感词典的扩展。](2024年09月26日/DualCoTs_Dual_Chain-of-Thoughts_Prompting_for_Sentiment_Lexicon_Expansion_of_Idioms.md)
-
 - [EAGLE: Egocentric AGgregated Language-video Engine](2024年09月26日/EAGLE_Egocentric_AGgregated_Language-video_Engine.md)
 
     - [翻译: EAGLE：一款以自我为中心的语言与视频聚合引擎](2024年09月26日/EAGLE_Egocentric_AGgregated_Language-video_Engine.md)
-
-- [Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores](2024年09月26日/Efficient_Arbitrary_Precision_Acceleration_for_Large_Language_Models_on_GPU_Tensor_Cores.md)
-
-    - [翻译: 在 GPU 张量核心上，为大型语言模型提供高效且灵活的精度加速方案。](2024年09月26日/Efficient_Arbitrary_Precision_Acceleration_for_Large_Language_Models_on_GPU_Tensor_Cores.md)
 
 - [EgoLM: Multi-Modal Language Model of Egocentric Motions](2024年09月26日/EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions.md)
 
@@ -77,10 +57,6 @@
 - [Enhancing elusive clues in knowledge learning by contrasting attention of language models](2024年09月26日/Enhancing_elusive_clues_in_knowledge_learning_by_contrasting_attention_of_language_models.md)
 
     - [翻译: 通过对比语言模型的注意力，我们能更有效地捕捉知识学习中的微妙线索。](2024年09月26日/Enhancing_elusive_clues_in_knowledge_learning_by_contrasting_attention_of_language_models.md)
-
-- [Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation](2024年09月26日/Enhancing_Tourism_Recommender_Systems_for_Sustainable_City_Trips_Using_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 通过检索增强生成技术，优化可持续城市旅行的旅游推荐系统](2024年09月26日/Enhancing_Tourism_Recommender_Systems_for_Sustainable_City_Trips_Using_Retrieval-Augmented_Generation.md)
 
 - [Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience](2024年09月26日/Episodic_Memory_Verbalization_using_Hierarchical_Representations_of_Life-Long_Robot_Experience.md)
 
