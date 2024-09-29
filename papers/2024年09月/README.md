@@ -6,10 +6,6 @@
 
     - [翻译: AI 代表的双重使命：保护隐私与策略性自我披露](2024年09月26日/AI_Delegates_with_a_Dual_Focus_Ensuring_Privacy_and_Strategic_Self-Disclosure.md)
 
-- [A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios](2024年09月26日/A_Multimodal_Single-Branch_Embedding_Network_for_Recommendation_in_Cold-Start_and_Missing_Modality_Scenarios.md)
-
-    - [翻译: 本文提出了一种单分支嵌入多模态网络，专为冷启动和模态缺失场景下的推荐任务设计。](2024年09月26日/A_Multimodal_Single-Branch_Embedding_Network_for_Recommendation_in_Cold-Start_and_Missing_Modality_Scenarios.md)
-
 - [An Adversarial Perspective on Machine Unlearning for AI Safety](2024年09月26日/An_Adversarial_Perspective_on_Machine_Unlearning_for_AI_Safety.md)
 
     - [翻译: 从对抗视角探讨机器遗忘在 AI 安全中的应用](2024年09月26日/An_Adversarial_Perspective_on_Machine_Unlearning_for_AI_Safety.md)
@@ -30,17 +26,9 @@
 
     - [翻译: 利用大型语言模型驾驭工业自动化系统](2024年09月26日/Control_Industrial_Automation_System_with_Large_Language_Models.md)
 
-- [DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving](2024年09月26日/DualAD_Dual-Layer_Planning_for_Reasoning_in_Autonomous_Driving.md)
-
-    - [翻译: DualAD：双层规划助力自动驾驶推理](2024年09月26日/DualAD_Dual-Layer_Planning_for_Reasoning_in_Autonomous_Driving.md)
-
 - [EAGLE: Egocentric AGgregated Language-video Engine](2024年09月26日/EAGLE_Egocentric_AGgregated_Language-video_Engine.md)
 
     - [翻译: EAGLE：一款以自我为中心的语言与视频聚合引擎](2024年09月26日/EAGLE_Egocentric_AGgregated_Language-video_Engine.md)
-
-- [EgoLM: Multi-Modal Language Model of Egocentric Motions](2024年09月26日/EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions.md)
-
-    - [翻译: EgoLM：探索以自我为中心运动的多模态语言模型](2024年09月26日/EgoLM_Multi-Modal_Language_Model_of_Egocentric_Motions.md)
 
 - [EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models](2024年09月26日/EMMA-500_Enhancing_Massively_Multilingual_Adaptation_of_Large_Language_Models.md)
 
@@ -54,10 +42,6 @@
 
     - [翻译: 利用时间适配器从长期社交媒体数据中提取情感聚合，应用于大型语言模型](2024年09月26日/Extracting_Affect_Aggregates_from_Longitudinal_Social_Media_Data_with_Temporal_Adapters_for_Large_Language_Models.md)
 
-- [Few-shot Pairwise Rank Prompting: An Effective Non-Parametric Retrieval Model](2024年09月26日/Few-shot_Pairwise_Rank_Prompting_An_Effective_Non-Parametric_Retrieval_Model.md)
-
-    - [翻译: 少样本成对排序提示：一种高效的非参数检索模型](2024年09月26日/Few-shot_Pairwise_Rank_Prompting_An_Effective_Non-Parametric_Retrieval_Model.md)
-
 - [Graph Reasoning with Large Language Models via Pseudo-code Prompting](2024年09月26日/Graph_Reasoning_with_Large_Language_Models_via_Pseudo-code_Prompting.md)
 
     - [翻译: 利用伪代码提示实现大型语言模型的图推理](2024年09月26日/Graph_Reasoning_with_Large_Language_Models_via_Pseudo-code_Prompting.md)
@@ -65,10 +49,6 @@
 - [GSON: A Group-based Social Navigation Framework with Large Multimodal Model](2024年09月26日/GSON_A_Group-based_Social_Navigation_Framework_with_Large_Multimodal_Model.md)
 
     - [翻译: GSON：结合大型多模态模型的群体社交导航框架](2024年09月26日/GSON_A_Group-based_Social_Navigation_Framework_with_Large_Multimodal_Model.md)
-
-- [Infering Alt-text For UI Icons With Large Language Models During App Development](2024年09月26日/Infering_Alt-text_For_UI_Icons_With_Large_Language_Models_During_App_Development.md)
-
-    - [翻译: 在应用开发中，借助大型语言模型为 UI 图标生成替代文本](2024年09月26日/Infering_Alt-text_For_UI_Icons_With_Large_Language_Models_During_App_Development.md)
 
 - [Integrating Hierarchical Semantic into Iterative Generation Model for Entailment Tree Explanation](2024年09月26日/Integrating_Hierarchical_Semantic_into_Iterative_Generation_Model_for_Entailment_Tree_Explanation.md)
 
@@ -81,10 +61,6 @@
 - [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](2024年09月26日/LLaVA-3D_A_Simple_yet_Effective_Pathway_to_Empowering_LMMs_with_3D-awareness.md)
 
     - [翻译: LLaVA-3D：为大型多模态模型赋予3D感知能力的简易而高效之道](2024年09月26日/LLaVA-3D_A_Simple_yet_Effective_Pathway_to_Empowering_LMMs_with_3D-awareness.md)
-
-- [LLM4Brain: Training a Large Language Model for Brain Video Understanding](2024年09月26日/LLM4Brain_Training_a_Large_Language_Model_for_Brain_Video_Understanding.md)
-
-    - [翻译: LLM4Brain：打造专为脑视频理解而生的大型语言模型](2024年09月26日/LLM4Brain_Training_a_Large_Language_Model_for_Brain_Video_Understanding.md)
 
 - [MIO: A Foundation Model on Multimodal Tokens](2024年09月26日/MIO_A_Foundation_Model_on_Multimodal_Tokens.md)
 
