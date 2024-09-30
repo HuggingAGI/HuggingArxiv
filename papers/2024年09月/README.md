@@ -26,10 +26,6 @@
 
     - [翻译: 基于语料库的澄清问题增强生成](2024年09月27日/Corpus-informed_Retrieval_Augmented_Generation_of_Clarifying_Questions.md)
 
-- [Data Analysis in the Era of Generative AI](2024年09月27日/Data_Analysis_in_the_Era_of_Generative_AI.md)
-
-    - [翻译: 在生成式AI的时代，数据分析焕发新生。](2024年09月27日/Data_Analysis_in_the_Era_of_Generative_AI.md)
-
 - [Do LLMs suffer from Multi-Party Hangover? A Diagnostic Approach to Addressee Recognition and Response Selection in Conversations](2024年09月27日/Do_LLMs_suffer_from_Multi-Party_Hangover_A_Diagnostic_Approach_to_Addressee_Recognition_and_Response_Selection_in_Conversations.md)
 
     - [翻译: 大型语言模型是否在多方对话中“宿醉”？我们提出一种诊断方法，专门用于识别对话接收者并选择恰当的回应。](2024年09月27日/Do_LLMs_suffer_from_Multi-Party_Hangover_A_Diagnostic_Approach_to_Addressee_Recognition_and_Response_Selection_in_Conversations.md)
@@ -65,10 +61,6 @@
 - [IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation](2024年09月27日/IDGen_Item_Discrimination_Induced_Prompt_Generation_for_LLM_Evaluation.md)
 
     - [翻译: IDGen：通过项目辨别诱导提示生成，助力 LLM 评估](2024年09月27日/IDGen_Item_Discrimination_Induced_Prompt_Generation_for_LLM_Evaluation.md)
-
-- [Image-guided topic modeling for interpretable privacy classification](2024年09月27日/Image-guided_topic_modeling_for_interpretable_privacy_classification.md)
-
-    - [翻译: 图像引导的主题建模助力隐私分类的可解释性](2024年09月27日/Image-guided_topic_modeling_for_interpretable_privacy_classification.md)
 
 - [KALE-LM: Unleash The Power Of AI For Science Via Knowledge And Logic Enhanced Large Model](2024年09月27日/KALE-LM_Unleash_The_Power_Of_AI_For_Science_Via_Knowledge_And_Logic_Enhanced_Large_Model.md)
 
@@ -145,21 +137,3 @@
 - ["Why" Has the Least Side Effect on Model Editing](2024年09月27日/Why_Has_the_Least_Side_Effect_on_Model_Editing.md)
 
     - [翻译: “为什么”在模型编辑中副作用最少](2024年09月27日/Why_Has_the_Least_Side_Effect_on_Model_Editing.md)
-
-2024年09月26日
-
-- [AI Policy Projector: Grounding LLM Policy Design in Iterative Mapmaking](2024年09月26日/AI_Policy_Projector_Grounding_LLM_Policy_Design_in_Iterative_Mapmaking.md)
-
-    - [翻译: AI 政策投影仪：通过迭代地图制作，为 LLM 政策设计奠定基础](2024年09月26日/AI_Policy_Projector_Grounding_LLM_Policy_Design_in_Iterative_Mapmaking.md)
-
-- [Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model](2024年09月26日/Cross-Institutional_Structured_Radiology_Reporting_for_Lung_Cancer_Screening_Using_a_Dynamic_Template-Constrained_Large_Language_Model.md)
-
-    - [翻译: 利用动态模板约束的大型语言模型，实现肺癌筛查的跨机构结构化放射学报告。](2024年09月26日/Cross-Institutional_Structured_Radiology_Reporting_for_Lung_Cancer_Screening_Using_a_Dynamic_Template-Constrained_Large_Language_Model.md)
-
-- [LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge](2024年09月26日/LowREm_A_Repository_of_Word_Embeddings_for_87_Low-Resource_Languages_Enhanced_with_Multilingual_Graph_Knowledge.md)
-
-    - [翻译: LowREm：一个专为 87 种低资源语言设计的词嵌入库，融合了多语言图知识，助力语言处理。](2024年09月26日/LowREm_A_Repository_of_Word_Embeddings_for_87_Low-Resource_Languages_Enhanced_with_Multilingual_Graph_Knowledge.md)
-
-- [SciDFM: A Large Language Model with Mixture-of-Experts for Science](2024年09月26日/SciDFM_A_Large_Language_Model_with_Mixture-of-Experts_for_Science.md)
-
-    - [翻译: SciDFM：专为科学领域设计的大语言模型，融合了专家混合技术。](2024年09月26日/SciDFM_A_Large_Language_Model_with_Mixture-of-Experts_for_Science.md)
