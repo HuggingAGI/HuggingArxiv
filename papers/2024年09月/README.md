@@ -6,14 +6,6 @@
 
     - [翻译: AIPatient：借助 EHRs 和 LLM 驱动的智能工作流程，模拟患者体验。](2024年09月27日/AIPatient_Simulating_Patients_with_EHRs_and_LLM_Powered_Agentic_Workflow.md)
 
-- [Align$^2$LLaVA: Cascaded Human and Large Language Model Preference Alignment for Multi-modal Instruction Curation](2024年09月27日/Align$^2$LLaVA_Cascaded_Human_and_Large_Language_Model_Preference_Alignment_for_Multi-modal_Instruction_Curation.md)
-
-    - [翻译: Align$^2$LLaVA：通过级联人类与大型语言模型的偏好对齐，实现多模态指令的优化。](2024年09月27日/Align$^2$LLaVA_Cascaded_Human_and_Large_Language_Model_Preference_Alignment_for_Multi-modal_Instruction_Curation.md)
-
-- [A Survey on the Honesty of Large Language Models](2024年09月27日/A_Survey_on_the_Honesty_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型诚实性调查](2024年09月27日/A_Survey_on_the_Honesty_of_Large_Language_Models.md)
-
 - [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](2024年09月27日/Beyond_Single-Audio_Advancing_Multi-Audio_Processing_in_Audio_Large_Language_Models.md)
 
     - [翻译: 超越单一音频，迈向音频大型语言模型中的多音频处理新境界](2024年09月27日/Beyond_Single-Audio_Advancing_Multi-Audio_Processing_in_Audio_Large_Language_Models.md)
@@ -21,10 +13,6 @@
 - [Do LLMs suffer from Multi-Party Hangover? A Diagnostic Approach to Addressee Recognition and Response Selection in Conversations](2024年09月27日/Do_LLMs_suffer_from_Multi-Party_Hangover_A_Diagnostic_Approach_to_Addressee_Recognition_and_Response_Selection_in_Conversations.md)
 
     - [翻译: 大型语言模型是否在多方对话中“宿醉”？我们提出一种诊断方法，专门用于识别对话接收者并选择恰当的回应。](2024年09月27日/Do_LLMs_suffer_from_Multi-Party_Hangover_A_Diagnostic_Approach_to_Addressee_Recognition_and_Response_Selection_in_Conversations.md)
-
-- [Do We Need Domain-Specific Embedding Models? An Empirical Investigation](2024年09月27日/Do_We_Need_Domain-Specific_Embedding_Models_An_Empirical_Investigation.md)
-
-    - [翻译: 特定领域嵌入模型，真的必要吗？让我们通过实证研究一探究竟。](2024年09月27日/Do_We_Need_Domain-Specific_Embedding_Models_An_Empirical_Investigation.md)
 
 - [Evaluation of OpenAI o1: Opportunities and Challenges of AGI](2024年09月27日/Evaluation_of_OpenAI_o1_Opportunities_and_Challenges_of_AGI.md)
 
@@ -57,14 +45,6 @@
 - [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](2024年09月27日/LLMs4Synthesis_Leveraging_Large_Language_Models_for_Scientific_Synthesis.md)
 
     - [翻译: LLMs4Synthesis：借助大型语言模型助力科学综合研究](2024年09月27日/LLMs4Synthesis_Leveraging_Large_Language_Models_for_Scientific_Synthesis.md)
-
-- [Mitigating Selection Bias with Node Pruning and Auxiliary Options](2024年09月27日/Mitigating_Selection_Bias_with_Node_Pruning_and_Auxiliary_Options.md)
-
-    - [翻译: 采用节点修剪与辅助选项，巧妙化解选择偏差](2024年09月27日/Mitigating_Selection_Bias_with_Node_Pruning_and_Auxiliary_Options.md)
-
-- [Model-based Preference Optimization in Abstractive Summarization without Human Feedback](2024年09月27日/Model-based_Preference_Optimization_in_Abstractive_Summarization_without_Human_Feedback.md)
-
-    - [翻译: 无需人类反馈，基于模型的偏好优化在抽象摘要中大显身手。](2024年09月27日/Model-based_Preference_Optimization_in_Abstractive_Summarization_without_Human_Feedback.md)
 
 - [Not the Silver Bullet: LLM-enhanced Programming Error Messages are Ineffective in Practice](2024年09月27日/Not_the_Silver_Bullet_LLM-enhanced_Programming_Error_Messages_are_Ineffective_in_Practice.md)
 
@@ -101,10 +81,6 @@
 - [Soft Measures for Extracting Causal Collective Intelligence](2024年09月27日/Soft_Measures_for_Extracting_Causal_Collective_Intelligence.md)
 
     - [翻译: 软性措施助力因果集体智能的提取](2024年09月27日/Soft_Measures_for_Extracting_Causal_Collective_Intelligence.md)
-
-- [Treating Brain-inspired Memories as Priors for Diffusion Model to Forecast Multivariate Time Series](2024年09月27日/Treating_Brain-inspired_Memories_as_Priors_for_Diffusion_Model_to_Forecast_Multivariate_Time_Series.md)
-
-    - [翻译: 借鉴脑记忆作为扩散模型的先验，精准预测多变量时间序列](2024年09月27日/Treating_Brain-inspired_Memories_as_Priors_for_Diffusion_Model_to_Forecast_Multivariate_Time_Series.md)
 
 - [When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation](2024年09月27日/When_SAM2_Meets_Video_Camouflaged_Object_Segmentation_A_Comprehensive_Evaluation_and_Adaptation.md)
 
