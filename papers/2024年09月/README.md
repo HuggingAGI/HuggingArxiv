@@ -2,14 +2,6 @@
 
 2024年09月27日
 
-- [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](2024年09月27日/AIPatient_Simulating_Patients_with_EHRs_and_LLM_Powered_Agentic_Workflow.md)
-
-    - [翻译: AIPatient：借助 EHRs 和 LLM 驱动的智能工作流程，模拟患者体验。](2024年09月27日/AIPatient_Simulating_Patients_with_EHRs_and_LLM_Powered_Agentic_Workflow.md)
-
-- [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](2024年09月27日/Beyond_Single-Audio_Advancing_Multi-Audio_Processing_in_Audio_Large_Language_Models.md)
-
-    - [翻译: 超越单一音频，迈向音频大型语言模型中的多音频处理新境界](2024年09月27日/Beyond_Single-Audio_Advancing_Multi-Audio_Processing_in_Audio_Large_Language_Models.md)
-
 - [Evaluation of OpenAI o1: Opportunities and Challenges of AGI](2024年09月27日/Evaluation_of_OpenAI_o1_Opportunities_and_Challenges_of_AGI.md)
 
     - [翻译: OpenAI o1 评估：探索 AGI 的机遇与挑战](2024年09月27日/Evaluation_of_OpenAI_o1_Opportunities_and_Challenges_of_AGI.md)
@@ -17,14 +9,6 @@
 - [Experimental Evaluation of Machine Learning Models for Goal-oriented Customer Service Chatbot with Pipeline Architecture](2024年09月27日/Experimental_Evaluation_of_Machine_Learning_Models_for_Goal-oriented_Customer_Service_Chatbot_with_Pipeline_Architecture.md)
 
     - [翻译: 针对目标导向型客户服务聊天机器人的管道架构，进行机器学习模型的实验评估。](2024年09月27日/Experimental_Evaluation_of_Machine_Learning_Models_for_Goal-oriented_Customer_Service_Chatbot_with_Pipeline_Architecture.md)
-
-- [FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation](2024年09月27日/FoodMLLM-JP_Leveraging_Multimodal_Large_Language_Models_for_Japanese_Recipe_Generation.md)
-
-    - [翻译: FoodMLLM-JP：借助多模态大型语言模型，探索日本食谱的生成艺术。](2024年09月27日/FoodMLLM-JP_Leveraging_Multimodal_Large_Language_Models_for_Japanese_Recipe_Generation.md)
-
-- [IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation](2024年09月27日/IDGen_Item_Discrimination_Induced_Prompt_Generation_for_LLM_Evaluation.md)
-
-    - [翻译: IDGen：通过项目辨别诱导提示生成，助力 LLM 评估](2024年09月27日/IDGen_Item_Discrimination_Induced_Prompt_Generation_for_LLM_Evaluation.md)
 
 - [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](2024年09月27日/LLMs4Synthesis_Leveraging_Large_Language_Models_for_Scientific_Synthesis.md)
 
@@ -38,10 +22,6 @@
 
     - [翻译: Open-Nav：在连续环境中，利用开源 LLM 探索零-shot 视觉与语言导航的新领域](2024年09月27日/Open-Nav_Exploring_Zero-Shot_Vision-and-Language_Navigation_in_Continuous_Environment_with_Open-Source_LLMs.md)
 
-- [OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph](2024年09月27日/OpenObject-NAV_Open-Vocabulary_Object-Oriented_Navigation_Based_on_Dynamic_Carrier-Relationship_Scene_Graph.md)
-
-    - [翻译: OpenObject-NAV：一种基于动态载体关系场景图的开放词汇面向对象导航系统](2024年09月27日/OpenObject-NAV_Open-Vocabulary_Object-Oriented_Navigation_Based_on_Dynamic_Carrier-Relationship_Scene_Graph.md)
-
 - [Rehearsing Answers to Probable Questions with Perspective-Taking](2024年09月27日/Rehearsing_Answers_to_Probable_Questions_with_Perspective-Taking.md)
 
     - [翻译: 通过换位思考预演可能问题的答案](2024年09月27日/Rehearsing_Answers_to_Probable_Questions_with_Perspective-Taking.md)
@@ -53,10 +33,6 @@
 - [Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs](2024年09月27日/Scalable_Cross-Entropy_Loss_for_Sequential_Recommendations_with_Large_Item_Catalogs.md)
 
     - [翻译: 大型商品目录下序列推荐的可扩展交叉熵损失](2024年09月27日/Scalable_Cross-Entropy_Loss_for_Sequential_Recommendations_with_Large_Item_Catalogs.md)
-
-- [Soft Measures for Extracting Causal Collective Intelligence](2024年09月27日/Soft_Measures_for_Extracting_Causal_Collective_Intelligence.md)
-
-    - [翻译: 软性措施助力因果集体智能的提取](2024年09月27日/Soft_Measures_for_Extracting_Causal_Collective_Intelligence.md)
 
 - [When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation](2024年09月27日/When_SAM2_Meets_Video_Camouflaged_Object_Segmentation_A_Comprehensive_Evaluation_and_Adaptation.md)
 
