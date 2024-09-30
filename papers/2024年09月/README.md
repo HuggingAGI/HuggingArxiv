@@ -10,10 +10,6 @@
 
     - [翻译: Align$^2$LLaVA：通过级联人类与大型语言模型的偏好对齐，实现多模态指令的优化。](2024年09月27日/Align$^2$LLaVA_Cascaded_Human_and_Large_Language_Model_Preference_Alignment_for_Multi-modal_Instruction_Curation.md)
 
-- [A Survey on Complex Tasks for Goal-Directed Interactive Agents](2024年09月27日/A_Survey_on_Complex_Tasks_for_Goal-Directed_Interactive_Agents.md)
-
-    - [翻译: 探索目标导向交互代理的复杂任务研究](2024年09月27日/A_Survey_on_Complex_Tasks_for_Goal-Directed_Interactive_Agents.md)
-
 - [A Survey on the Honesty of Large Language Models](2024年09月27日/A_Survey_on_the_Honesty_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型诚实性调查](2024年09月27日/A_Survey_on_the_Honesty_of_Large_Language_Models.md)
@@ -21,10 +17,6 @@
 - [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](2024年09月27日/Beyond_Single-Audio_Advancing_Multi-Audio_Processing_in_Audio_Large_Language_Models.md)
 
     - [翻译: 超越单一音频，迈向音频大型语言模型中的多音频处理新境界](2024年09月27日/Beyond_Single-Audio_Advancing_Multi-Audio_Processing_in_Audio_Large_Language_Models.md)
-
-- [Corpus-informed Retrieval Augmented Generation of Clarifying Questions](2024年09月27日/Corpus-informed_Retrieval_Augmented_Generation_of_Clarifying_Questions.md)
-
-    - [翻译: 基于语料库的澄清问题增强生成](2024年09月27日/Corpus-informed_Retrieval_Augmented_Generation_of_Clarifying_Questions.md)
 
 - [Do LLMs suffer from Multi-Party Hangover? A Diagnostic Approach to Addressee Recognition and Response Selection in Conversations](2024年09月27日/Do_LLMs_suffer_from_Multi-Party_Hangover_A_Diagnostic_Approach_to_Addressee_Recognition_and_Response_Selection_in_Conversations.md)
 
@@ -34,10 +26,6 @@
 
     - [翻译: 特定领域嵌入模型，真的必要吗？让我们通过实证研究一探究竟。](2024年09月27日/Do_We_Need_Domain-Specific_Embedding_Models_An_Empirical_Investigation.md)
 
-- [Enhancing Explainability in Multimodal Large Language Models Using Ontological Context](2024年09月27日/Enhancing_Explainability_in_Multimodal_Large_Language_Models_Using_Ontological_Context.md)
-
-    - [翻译: 通过本体论上下文提升多模态大型语言模型的解释力](2024年09月27日/Enhancing_Explainability_in_Multimodal_Large_Language_Models_Using_Ontological_Context.md)
-
 - [Evaluation of OpenAI o1: Opportunities and Challenges of AGI](2024年09月27日/Evaluation_of_OpenAI_o1_Opportunities_and_Challenges_of_AGI.md)
 
     - [翻译: OpenAI o1 评估：探索 AGI 的机遇与挑战](2024年09月27日/Evaluation_of_OpenAI_o1_Opportunities_and_Challenges_of_AGI.md)
@@ -45,10 +33,6 @@
 - [Experimental Evaluation of Machine Learning Models for Goal-oriented Customer Service Chatbot with Pipeline Architecture](2024年09月27日/Experimental_Evaluation_of_Machine_Learning_Models_for_Goal-oriented_Customer_Service_Chatbot_with_Pipeline_Architecture.md)
 
     - [翻译: 针对目标导向型客户服务聊天机器人的管道架构，进行机器学习模型的实验评估。](2024年09月27日/Experimental_Evaluation_of_Machine_Learning_Models_for_Goal-oriented_Customer_Service_Chatbot_with_Pipeline_Architecture.md)
-
-- [Exploring Language Model Generalization in Low-Resource Extractive QA](2024年09月27日/Exploring_Language_Model_Generalization_in_Low-Resource_Extractive_QA.md)
-
-    - [翻译: 探究在低资源环境下，语言模型在提取式问答任务中的泛化表现。](2024年09月27日/Exploring_Language_Model_Generalization_in_Low-Resource_Extractive_QA.md)
 
 - [FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation](2024年09月27日/FoodMLLM-JP_Leveraging_Multimodal_Large_Language_Models_for_Japanese_Recipe_Generation.md)
 
@@ -73,10 +57,6 @@
 - [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](2024年09月27日/LLMs4Synthesis_Leveraging_Large_Language_Models_for_Scientific_Synthesis.md)
 
     - [翻译: LLMs4Synthesis：借助大型语言模型助力科学综合研究](2024年09月27日/LLMs4Synthesis_Leveraging_Large_Language_Models_for_Scientific_Synthesis.md)
-
-- [LML: Language Model Learning a Dataset for Data-Augmented Prediction](2024年09月27日/LML_Language_Model_Learning_a_Dataset_for_Data-Augmented_Prediction.md)
-
-    - [翻译: LML：语言模型通过学习数据集，实现数据增强预测](2024年09月27日/LML_Language_Model_Learning_a_Dataset_for_Data-Augmented_Prediction.md)
 
 - [Mitigating Selection Bias with Node Pruning and Auxiliary Options](2024年09月27日/Mitigating_Selection_Bias_with_Node_Pruning_and_Auxiliary_Options.md)
 
@@ -113,10 +93,6 @@
 - [Research on Predicting Public Opinion Event Heat Levels Based on Large Language Models](2024年09月27日/Research_on_Predicting_Public_Opinion_Event_Heat_Levels_Based_on_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型预测公众舆论事件热度的研究](2024年09月27日/Research_on_Predicting_Public_Opinion_Event_Heat_Levels_Based_on_Large_Language_Models.md)
-
-- [Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models](2024年09月27日/Ruler_A_Model-Agnostic_Method_to_Control_Generated_Length_for_Large_Language_Models.md)
-
-    - [翻译: Ruler：一种与模型无关的方法，专为控制大型语言模型的生成长度而设计](2024年09月27日/Ruler_A_Model-Agnostic_Method_to_Control_Generated_Length_for_Large_Language_Models.md)
 
 - [Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs](2024年09月27日/Scalable_Cross-Entropy_Loss_for_Sequential_Recommendations_with_Large_Item_Catalogs.md)
 
