@@ -2,6 +2,10 @@
 
 2024年09月27日
 
+- [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](2024年09月27日/AIPatient_Simulating_Patients_with_EHRs_and_LLM_Powered_Agentic_Workflow.md)
+
+    - [翻译: AIPatient：借助 EHRs 和 LLM 驱动的智能工作流程，模拟患者体验。](2024年09月27日/AIPatient_Simulating_Patients_with_EHRs_and_LLM_Powered_Agentic_Workflow.md)
+
 - [Align$^2$LLaVA: Cascaded Human and Large Language Model Preference Alignment for Multi-modal Instruction Curation](2024年09月27日/Align$^2$LLaVA_Cascaded_Human_and_Large_Language_Model_Preference_Alignment_for_Multi-modal_Instruction_Curation.md)
 
     - [翻译: Align$^2$LLaVA：通过级联人类与大型语言模型的偏好对齐，实现多模态指令的优化。](2024年09月27日/Align$^2$LLaVA_Cascaded_Human_and_Large_Language_Model_Preference_Alignment_for_Multi-modal_Instruction_Curation.md)
@@ -54,6 +58,10 @@
 
     - [翻译: FoodMLLM-JP：借助多模态大型语言模型，探索日本食谱的生成艺术。](2024年09月27日/FoodMLLM-JP_Leveraging_Multimodal_Large_Language_Models_for_Japanese_Recipe_Generation.md)
 
+- [From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding](2024年09月27日/From_Seconds_to_Hours_Reviewing_MultiModal_Large_Language_Models_on_Comprehensive_Long_Video_Understanding.md)
+
+    - [翻译: 从秒到小时：多模态大型语言模型在长视频理解中的全面回顾](2024年09月27日/From_Seconds_to_Hours_Reviewing_MultiModal_Large_Language_Models_on_Comprehensive_Long_Video_Understanding.md)
+
 - [IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation](2024年09月27日/IDGen_Item_Discrimination_Induced_Prompt_Generation_for_LLM_Evaluation.md)
 
     - [翻译: IDGen：通过项目辨别诱导提示生成，助力 LLM 评估](2024年09月27日/IDGen_Item_Discrimination_Induced_Prompt_Generation_for_LLM_Evaluation.md)
@@ -73,6 +81,10 @@
 - [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](2024年09月27日/LLMs4Synthesis_Leveraging_Large_Language_Models_for_Scientific_Synthesis.md)
 
     - [翻译: LLMs4Synthesis：借助大型语言模型助力科学综合研究](2024年09月27日/LLMs4Synthesis_Leveraging_Large_Language_Models_for_Scientific_Synthesis.md)
+
+- [LML: Language Model Learning a Dataset for Data-Augmented Prediction](2024年09月27日/LML_Language_Model_Learning_a_Dataset_for_Data-Augmented_Prediction.md)
+
+    - [翻译: LML：语言模型通过学习数据集，实现数据增强预测](2024年09月27日/LML_Language_Model_Learning_a_Dataset_for_Data-Augmented_Prediction.md)
 
 - [Mitigating Selection Bias with Node Pruning and Auxiliary Options](2024年09月27日/Mitigating_Selection_Bias_with_Node_Pruning_and_Auxiliary_Options.md)
 
@@ -110,6 +122,10 @@
 
     - [翻译: 利用大型语言模型预测公众舆论事件热度的研究](2024年09月27日/Research_on_Predicting_Public_Opinion_Event_Heat_Levels_Based_on_Large_Language_Models.md)
 
+- [Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models](2024年09月27日/Ruler_A_Model-Agnostic_Method_to_Control_Generated_Length_for_Large_Language_Models.md)
+
+    - [翻译: Ruler：一种与模型无关的方法，专为控制大型语言模型的生成长度而设计](2024年09月27日/Ruler_A_Model-Agnostic_Method_to_Control_Generated_Length_for_Large_Language_Models.md)
+
 - [Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs](2024年09月27日/Scalable_Cross-Entropy_Loss_for_Sequential_Recommendations_with_Large_Item_Catalogs.md)
 
     - [翻译: 大型商品目录下序列推荐的可扩展交叉熵损失](2024年09月27日/Scalable_Cross-Entropy_Loss_for_Sequential_Recommendations_with_Large_Item_Catalogs.md)
@@ -132,18 +148,6 @@
 
 2024年09月26日
 
-- [Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing](2024年09月26日/Advancing_Object_Detection_in_Transportation_with_Multimodal_Large_Language_Models_(MLLMs)_A_Comprehensive_Review_and_Empirical_Testing.md)
-
-    - [翻译: 交通领域物体检测的进步：多模态大型语言模型的全面回顾与实证探索](2024年09月26日/Advancing_Object_Detection_in_Transportation_with_Multimodal_Large_Language_Models_(MLLMs)_A_Comprehensive_Review_and_Empirical_Testing.md)
-
-- [AER-LLM: Ambiguity-aware Emotion Recognition Leveraging Large Language Models](2024年09月26日/AER-LLM_Ambiguity-aware_Emotion_Recognition_Leveraging_Large_Language_Models.md)
-
-    - [翻译: AER-LLM：借助大型语言模型实现模糊感知情感识别](2024年09月26日/AER-LLM_Ambiguity-aware_Emotion_Recognition_Leveraging_Large_Language_Models.md)
-
-- [A Fairness-Driven Method for Learning Human-Compatible Negotiation Strategies](2024年09月26日/A_Fairness-Driven_Method_for_Learning_Human-Compatible_Negotiation_Strategies.md)
-
-    - [翻译: 一种公平驱动的策略，旨在学习与人类和谐共处的谈判技巧](2024年09月26日/A_Fairness-Driven_Method_for_Learning_Human-Compatible_Negotiation_Strategies.md)
-
 - [AI Policy Projector: Grounding LLM Policy Design in Iterative Mapmaking](2024年09月26日/AI_Policy_Projector_Grounding_LLM_Policy_Design_in_Iterative_Mapmaking.md)
 
     - [翻译: AI 政策投影仪：通过迭代地图制作，为 LLM 政策设计奠定基础](2024年09月26日/AI_Policy_Projector_Grounding_LLM_Policy_Design_in_Iterative_Mapmaking.md)
@@ -156,21 +160,9 @@
 
     - [翻译: 利用动态模板约束的大型语言模型，实现肺癌筛查的跨机构结构化放射学报告。](2024年09月26日/Cross-Institutional_Structured_Radiology_Reporting_for_Lung_Cancer_Screening_Using_a_Dynamic_Template-Constrained_Large_Language_Model.md)
 
-- [CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills using Large Language Models](2024年09月26日/CurricuLLM_Automatic_Task_Curricula_Design_for_Learning_Complex_Robot_Skills_using_Large_Language_Models.md)
-
-    - [翻译: CurricuLLM：借助大型语言模型，自动设计复杂机器人技能学习的任务课程。](2024年09月26日/CurricuLLM_Automatic_Task_Curricula_Design_for_Learning_Complex_Robot_Skills_using_Large_Language_Models.md)
-
-- [Embodied-RAG: General non-parametric Embodied Memory for Retrieval and Generation](2024年09月26日/Embodied-RAG_General_non-parametric_Embodied_Memory_for_Retrieval_and_Generation.md)
-
-    - [翻译: Embodied-RAG：一种通用的非参数化具身记忆，专为检索与生成任务设计。](2024年09月26日/Embodied-RAG_General_non-parametric_Embodied_Memory_for_Retrieval_and_Generation.md)
-
 - [Evaluation of Large Language Models for Summarization Tasks in the Medical Domain: A Narrative Review](2024年09月26日/Evaluation_of_Large_Language_Models_for_Summarization_Tasks_in_the_Medical_Domain_A_Narrative_Review.md)
 
     - [翻译: 医学领域摘要任务中大型语言模型的评估：一篇叙述性综述](2024年09月26日/Evaluation_of_Large_Language_Models_for_Summarization_Tasks_in_the_Medical_Domain_A_Narrative_Review.md)
-
-- [Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey](2024年09月26日/Harmful_Fine-tuning_Attacks_and_Defenses_for_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 大型语言模型面临的有害微调攻击及其防御策略：全面调查](2024年09月26日/Harmful_Fine-tuning_Attacks_and_Defenses_for_Large_Language_Models_A_Survey.md)
 
 - [LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge](2024年09月26日/LowREm_A_Repository_of_Word_Embeddings_for_87_Low-Resource_Languages_Enhanced_with_Multilingual_Graph_Knowledge.md)
 
@@ -191,9 +183,3 @@
 - [Trustworthy AI: Securing Sensitive Data in Large Language Models](2024年09月26日/Trustworthy_AI_Securing_Sensitive_Data_in_Large_Language_Models.md)
 
     - [翻译: 可信AI：守护大型语言模型中的敏感数据](2024年09月26日/Trustworthy_AI_Securing_Sensitive_Data_in_Large_Language_Models.md)
-
-2024年09月21日
-
-- [A Survey on Multimodal Benchmarks: In the Era of Large AI Models](2024年09月21日/A_Survey_on_Multimodal_Benchmarks_In_the_Era_of_Large_AI_Models.md)
-
-    - [翻译: 在大规模 AI 模型时代，多模态基准的调查](2024年09月21日/A_Survey_on_Multimodal_Benchmarks_In_the_Era_of_Large_AI_Models.md)
