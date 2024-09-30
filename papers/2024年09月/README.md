@@ -152,34 +152,14 @@
 
     - [翻译: AI 政策投影仪：通过迭代地图制作，为 LLM 政策设计奠定基础](2024年09月26日/AI_Policy_Projector_Grounding_LLM_Policy_Design_in_Iterative_Mapmaking.md)
 
-- [Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning](2024年09月26日/Code_Vulnerability_Repair_with_Large_Language_Model_using_Context-Aware_Prompt_Tuning.md)
-
-    - [翻译: 利用上下文感知提示调整，大型语言模型助力代码漏洞修复](2024年09月26日/Code_Vulnerability_Repair_with_Large_Language_Model_using_Context-Aware_Prompt_Tuning.md)
-
 - [Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model](2024年09月26日/Cross-Institutional_Structured_Radiology_Reporting_for_Lung_Cancer_Screening_Using_a_Dynamic_Template-Constrained_Large_Language_Model.md)
 
     - [翻译: 利用动态模板约束的大型语言模型，实现肺癌筛查的跨机构结构化放射学报告。](2024年09月26日/Cross-Institutional_Structured_Radiology_Reporting_for_Lung_Cancer_Screening_Using_a_Dynamic_Template-Constrained_Large_Language_Model.md)
-
-- [Evaluation of Large Language Models for Summarization Tasks in the Medical Domain: A Narrative Review](2024年09月26日/Evaluation_of_Large_Language_Models_for_Summarization_Tasks_in_the_Medical_Domain_A_Narrative_Review.md)
-
-    - [翻译: 医学领域摘要任务中大型语言模型的评估：一篇叙述性综述](2024年09月26日/Evaluation_of_Large_Language_Models_for_Summarization_Tasks_in_the_Medical_Domain_A_Narrative_Review.md)
 
 - [LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge](2024年09月26日/LowREm_A_Repository_of_Word_Embeddings_for_87_Low-Resource_Languages_Enhanced_with_Multilingual_Graph_Knowledge.md)
 
     - [翻译: LowREm：一个专为 87 种低资源语言设计的词嵌入库，融合了多语言图知识，助力语言处理。](2024年09月26日/LowREm_A_Repository_of_Word_Embeddings_for_87_Low-Resource_Languages_Enhanced_with_Multilingual_Graph_Knowledge.md)
 
-- [MultiClimate: Multimodal Stance Detection on Climate Change Videos](2024年09月26日/MultiClimate_Multimodal_Stance_Detection_on_Climate_Change_Videos.md)
-
-    - [翻译: MultiClimate：气候变化视频中的多模态立场检测](2024年09月26日/MultiClimate_Multimodal_Stance_Detection_on_Climate_Change_Videos.md)
-
-- [Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams](2024年09月26日/Retrospective_Comparative_Analysis_of_Prostate_Cancer_In-Basket_Messages_Responses_from_Closed-Domain_LLM_vs._Clinical_Teams.md)
-
-    - [翻译: 回顾性分析前列腺癌In-Basket消息的比较：封闭领域LLM与临床团队的回应对比](2024年09月26日/Retrospective_Comparative_Analysis_of_Prostate_Cancer_In-Basket_Messages_Responses_from_Closed-Domain_LLM_vs._Clinical_Teams.md)
-
 - [SciDFM: A Large Language Model with Mixture-of-Experts for Science](2024年09月26日/SciDFM_A_Large_Language_Model_with_Mixture-of-Experts_for_Science.md)
 
     - [翻译: SciDFM：专为科学领域设计的大语言模型，融合了专家混合技术。](2024年09月26日/SciDFM_A_Large_Language_Model_with_Mixture-of-Experts_for_Science.md)
-
-- [Trustworthy AI: Securing Sensitive Data in Large Language Models](2024年09月26日/Trustworthy_AI_Securing_Sensitive_Data_in_Large_Language_Models.md)
-
-    - [翻译: 可信AI：守护大型语言模型中的敏感数据](2024年09月26日/Trustworthy_AI_Securing_Sensitive_Data_in_Large_Language_Models.md)
