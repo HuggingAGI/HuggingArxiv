@@ -216,14 +216,6 @@
 
     - [翻译: 在 LLM 中，如何平衡合成数据生成策略的成本与效果，是一个关键问题。](2024年09月29日/Balancing_Cost_and_Effectiveness_of_Synthetic_Data_Generation_Strategies_for_LLMs.md)
 
-- [Benchmarking ChatGPT, Codeium, and GitHub Copilot: A Comparative Study of AI-Driven Programming and Debugging Assistants](2024年09月29日/Benchmarking_ChatGPT,_Codeium,_and_GitHub_Copilot_A_Comparative_Study_of_AI-Driven_Programming_and_Debugging_Assistants.md)
-
-    - [翻译: ChatGPT、Codeium 与 GitHub Copilot 大比拼：AI 编程助手谁更强？](2024年09月29日/Benchmarking_ChatGPT,_Codeium,_and_GitHub_Copilot_A_Comparative_Study_of_AI-Driven_Programming_and_Debugging_Assistants.md)
-
-- [Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models](2024年09月29日/Can_Large_Language_Models_Analyze_Graphs_like_Professionals_A_Benchmark,_Datasets_and_Models.md)
-
-    - [翻译: 大型语言模型能否媲美专业人士的图表分析能力？本文将介绍一个基准测试、相关数据集及模型。](2024年09月29日/Can_Large_Language_Models_Analyze_Graphs_like_Professionals_A_Benchmark,_Datasets_and_Models.md)
-
 - [CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering](2024年09月29日/CoTKR_Chain-of-Thought_Enhanced_Knowledge_Rewriting_for_Complex_Knowledge_Graph_Question_Answering.md)
 
     - [翻译: CoTKR：通过链式思维增强知识重写，提升复杂知识图谱问答的效率。](2024年09月29日/CoTKR_Chain-of-Thought_Enhanced_Knowledge_Rewriting_for_Complex_Knowledge_Graph_Question_Answering.md)
@@ -252,10 +244,6 @@
 
     - [翻译: 指令嵌入：揭示任务识别的潜在指令表示](2024年09月29日/Instruction_Embedding_Latent_Representations_of_Instructions_Towards_Task_Identification.md)
 
-- [Large Language Model Empowered Embedding Generator for Sequential Recommendation](2024年09月29日/Large_Language_Model_Empowered_Embedding_Generator_for_Sequential_Recommendation.md)
-
-    - [翻译: 基于大型语言模型的嵌入生成器，助力序列推荐](2024年09月29日/Large_Language_Model_Empowered_Embedding_Generator_for_Sequential_Recommendation.md)
-
 - [MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation](2024年09月29日/MedViLaM_A_multimodal_large_language_model_with_advanced_generalizability_and_explainability_for_medical_data_understanding_and_generation.md)
 
     - [翻译: MedViLaM：一款具备卓越泛化性和可解释性的多模态大型语言模型，专为医学数据的理解与生成而设计。](2024年09月29日/MedViLaM_A_multimodal_large_language_model_with_advanced_generalizability_and_explainability_for_medical_data_understanding_and_generation.md)
@@ -263,10 +251,6 @@
 - [Mitigating the Negative Impact of Over-association for Conversational Query Production](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
 
     - [翻译: 缓解对话查询生成中的过度关联问题](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
-
-- [Multimodal Misinformation Detection by Learning from Synthetic Data with Multimodal LLMs](2024年09月29日/Multimodal_Misinformation_Detection_by_Learning_from_Synthetic_Data_with_Multimodal_LLMs.md)
-
-    - [翻译: 利用多模态大型语言模型生成的合成数据，提升多模态错误信息检测能力](2024年09月29日/Multimodal_Misinformation_Detection_by_Learning_from_Synthetic_Data_with_Multimodal_LLMs.md)
 
 - [NeuroMax: Enhancing Neural Topic Modeling via Maximizing Mutual Information and Group Topic Regularization](2024年09月29日/NeuroMax_Enhancing_Neural_Topic_Modeling_via_Maximizing_Mutual_Information_and_Group_Topic_Regularization.md)
 
@@ -279,10 +263,6 @@
 - [OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection](2024年09月29日/OpenKD_Opening_Prompt_Diversity_for_Zero-_and_Few-shot_Keypoint_Detection.md)
 
     - [翻译: OpenKD：为零-shot 和少-shot 关键点检测开启提示多样性](2024年09月29日/OpenKD_Opening_Prompt_Diversity_for_Zero-_and_Few-shot_Keypoint_Detection.md)
-
-- [PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead](2024年09月29日/PEAR_Position-Embedding-Agnostic_Attention_Re-weighting_Enhances_Retrieval-Augmented_Generation_with_Zero_Inference_Overhead.md)
-
-    - [翻译: PEAR：位置嵌入无关的注意力重新加权技术，无需额外推理开销，即可提升检索增强生成的性能。](2024年09月29日/PEAR_Position-Embedding-Agnostic_Attention_Re-weighting_Enhances_Retrieval-Augmented_Generation_with_Zero_Inference_Overhead.md)
 
 - [Revealing Personality Traits: A New Benchmark Dataset for Explainable Personality Recognition on Dialogues](2024年09月29日/Revealing_Personality_Traits_A_New_Benchmark_Dataset_for_Explainable_Personality_Recognition_on_Dialogues.md)
 
