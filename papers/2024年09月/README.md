@@ -314,37 +314,13 @@
 
 2024年09月28日
 
-- [3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models](2024年09月28日/3D-CT-GPT_Generating_3D_Radiology_Reports_through_Integration_of_Large_Vision-Language_Models.md)
-
-    - [翻译: 3D-CT-GPT：融合大型视觉-语言模型，智能生成3D放射报告](2024年09月28日/3D-CT-GPT_Generating_3D_Radiology_Reports_through_Integration_of_Large_Vision-Language_Models.md)
-
-- [A Parameter-Efficient Tuning Framework for Language-guided Object Grounding and Robot Grasping](2024年09月28日/A_Parameter-Efficient_Tuning_Framework_for_Language-guided_Object_Grounding_and_Robot_Grasping.md)
-
-    - [翻译: 一种参数高效的调优框架，专为语言引导的对象定位与机器人抓取设计](2024年09月28日/A_Parameter-Efficient_Tuning_Framework_for_Language-guided_Object_Grounding_and_Robot_Grasping.md)
-
-- [CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling](2024年09月28日/CLIP-MoE_Towards_Building_Mixture_of_Experts_for_CLIP_with_Diversified_Multiplet_Upcycling.md)
-
-    - [翻译: CLIP-MoE：通过多样化多重升级，构建专家混合模型](2024年09月28日/CLIP-MoE_Towards_Building_Mixture_of_Experts_for_CLIP_with_Diversified_Multiplet_Upcycling.md)
-
-- [Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs](2024年09月28日/Crafting_Personalized_Agents_through_Retrieval-Augmented_Generation_on_Editable_Memory_Graphs.md)
-
-    - [翻译: 利用可编辑记忆图上的检索增强生成技术，定制个性化智能代理](2024年09月28日/Crafting_Personalized_Agents_through_Retrieval-Augmented_Generation_on_Editable_Memory_Graphs.md)
-
 - [Efficient Federated Intrusion Detection in 5G ecosystem using optimized BERT-based model](2024年09月28日/Efficient_Federated_Intrusion_Detection_in_5G_ecosystem_using_optimized_BERT-based_model.md)
 
     - [翻译: 利用优化后的 BERT 模型，在 5G 生态系统中实现高效的联邦入侵检测](2024年09月28日/Efficient_Federated_Intrusion_Detection_in_5G_ecosystem_using_optimized_BERT-based_model.md)
 
-- [HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations](2024年09月28日/HealthQ_Unveiling_Questioning_Capabilities_of_LLM_Chains_in_Healthcare_Conversations.md)
-
-    - [翻译: HealthQ：探索 LLM 链在医疗对话中的提问潜力](2024年09月28日/HealthQ_Unveiling_Questioning_Capabilities_of_LLM_Chains_in_Healthcare_Conversations.md)
-
 - [INSIGHTBUDDY-AI: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning](2024年09月28日/INSIGHTBUDDY-AI_Medication_Extraction_and_Entity_Linking_using_Large_Language_Models_and_Ensemble_Learning.md)
 
     - [翻译: INSIGHTBUDDY-AI：借助大型语言模型与集成学习，实现药物提取与实体链接的智能助手](2024年09月28日/INSIGHTBUDDY-AI_Medication_Extraction_and_Entity_Linking_using_Large_Language_Models_and_Ensemble_Learning.md)
-
-- [MetaMath: Integrating Natural Language and Code for Enhanced Mathematical Reasoning in Large Language Models](2024年09月28日/MetaMath_Integrating_Natural_Language_and_Code_for_Enhanced_Mathematical_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: MetaMath：融合自然语言与代码，提升大型语言模型中的数学推理能力](2024年09月28日/MetaMath_Integrating_Natural_Language_and_Code_for_Enhanced_Mathematical_Reasoning_in_Large_Language_Models.md)
 
 - [Overriding Safety protections of Open-source Models](2024年09月28日/Overriding_Safety_protections_of_Open-source_Models.md)
 
