@@ -188,10 +188,6 @@
 
 2024年09月29日
 
-- [2D-TPE: Two-Dimensional Positional Encoding Enhances Table Understanding for Large Language Models](2024年09月29日/2D-TPE_Two-Dimensional_Positional_Encoding_Enhances_Table_Understanding_for_Large_Language_Models.md)
-
-    - [翻译: 二维位置编码（2D-TPE）为大语言模型理解表格提供了强大助力。](2024年09月29日/2D-TPE_Two-Dimensional_Positional_Encoding_Enhances_Table_Understanding_for_Large_Language_Models.md)
-
 - [Abstractive Summarization of Low resourced Nepali language using Multilingual Transformers](2024年09月29日/Abstractive_Summarization_of_Low_resourced_Nepali_language_using_Multilingual_Transformers.md)
 
     - [翻译: 利用多语言变换器为低资源尼泊尔语生成摘要](2024年09月29日/Abstractive_Summarization_of_Low_resourced_Nepali_language_using_Multilingual_Transformers.md)
@@ -200,37 +196,17 @@
 
     - [翻译: 大型语言模型的认证鲁棒水印技术](2024年09月29日/A_Certified_Robust_Watermark_For_Large_Language_Models.md)
 
-- [Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales](2024年09月29日/Assessment_and_manipulation_of_latent_constructs_in_pre-trained_language_models_using_psychometric_scales.md)
-
-    - [翻译: 通过心理测量量表，我们能够评估并操控预训练语言模型中的潜在因素。](2024年09月29日/Assessment_and_manipulation_of_latent_constructs_in_pre-trained_language_models_using_psychometric_scales.md)
-
 - [Hyper-Connections](2024年09月29日/Hyper-Connections.md)
 
     - [翻译: 超链接](2024年09月29日/Hyper-Connections.md)
-
-- [Identifying Knowledge Editing Types in Large Language Models](2024年09月29日/Identifying_Knowledge_Editing_Types_in_Large_Language_Models.md)
-
-    - [翻译: 探索大规模语言模型中的知识编辑类型](2024年09月29日/Identifying_Knowledge_Editing_Types_in_Large_Language_Models.md)
 
 - [Instruction Embedding: Latent Representations of Instructions Towards Task Identification](2024年09月29日/Instruction_Embedding_Latent_Representations_of_Instructions_Towards_Task_Identification.md)
 
     - [翻译: 指令嵌入：揭示任务识别的潜在指令表示](2024年09月29日/Instruction_Embedding_Latent_Representations_of_Instructions_Towards_Task_Identification.md)
 
-- [Mitigating the Negative Impact of Over-association for Conversational Query Production](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
-
-    - [翻译: 缓解对话查询生成中的过度关联问题](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
-
-- [RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models](2024年09月29日/RouterDC_Query-Based_Router_by_Dual_Contrastive_Learning_for_Assembling_Large_Language_Models.md)
-
-    - [翻译: RouterDC：基于双重对比学习的查询路由器，用于组装大型语言模型](2024年09月29日/RouterDC_Query-Based_Router_by_Dual_Contrastive_Learning_for_Assembling_Large_Language_Models.md)
-
 - [Scaling Optimal LR Across Token Horizon](2024年09月29日/Scaling_Optimal_LR_Across_Token_Horizon.md)
 
     - [翻译: 优化学习率在令牌视野中的扩展](2024年09月29日/Scaling_Optimal_LR_Across_Token_Horizon.md)
-
-- [See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning](2024年09月29日/See_Detail_Say_Clear_Towards_Brain_CT_Report_Generation_via_Pathological_Clue-driven_Representation_Learning.md)
-
-    - [翻译: 细节清晰：基于病理线索的表示学习，助力脑部CT报告生成](2024年09月29日/See_Detail_Say_Clear_Towards_Brain_CT_Report_Generation_via_Pathological_Clue-driven_Representation_Learning.md)
 
 - [TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation](2024年09月29日/TRANSAGENT_An_LLM-Based_Multi-Agent_System_for_Code_Translation.md)
 
