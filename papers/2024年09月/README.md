@@ -350,21 +350,9 @@
 
     - [翻译: 利用优化后的 BERT 模型，在 5G 生态系统中实现高效的联邦入侵检测](2024年09月28日/Efficient_Federated_Intrusion_Detection_in_5G_ecosystem_using_optimized_BERT-based_model.md)
 
-- [Fast and Accurate Task Planning using Neuro-Symbolic Language Models and Multi-level Goal Decomposition](2024年09月28日/Fast_and_Accurate_Task_Planning_using_Neuro-Symbolic_Language_Models_and_Multi-level_Goal_Decomposition.md)
-
-    - [翻译: 通过神经符号语言模型与多层次目标分解，实现高效精准的任务规划](2024年09月28日/Fast_and_Accurate_Task_Planning_using_Neuro-Symbolic_Language_Models_and_Multi-level_Goal_Decomposition.md)
-
-- [From Unimodal to Multimodal: Scaling up Projectors to Align Modalities](2024年09月28日/From_Unimodal_to_Multimodal_Scaling_up_Projectors_to_Align_Modalities.md)
-
-    - [翻译: 从单一模态迈向多模态：扩展投影仪功能，实现模态对齐](2024年09月28日/From_Unimodal_to_Multimodal_Scaling_up_Projectors_to_Align_Modalities.md)
-
 - [HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations](2024年09月28日/HealthQ_Unveiling_Questioning_Capabilities_of_LLM_Chains_in_Healthcare_Conversations.md)
 
     - [翻译: HealthQ：探索 LLM 链在医疗对话中的提问潜力](2024年09月28日/HealthQ_Unveiling_Questioning_Capabilities_of_LLM_Chains_in_Healthcare_Conversations.md)
-
-- [HybridFlow: A Flexible and Efficient RLHF Framework](2024年09月28日/HybridFlow_A_Flexible_and_Efficient_RLHF_Framework.md)
-
-    - [翻译: HybridFlow：灵活高效的 RLHF 框架](2024年09月28日/HybridFlow_A_Flexible_and_Efficient_RLHF_Framework.md)
 
 - [INSIGHTBUDDY-AI: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning](2024年09月28日/INSIGHTBUDDY-AI_Medication_Extraction_and_Entity_Linking_using_Large_Language_Models_and_Ensemble_Learning.md)
 
@@ -413,10 +401,6 @@
 - [TrojVLM: Backdoor Attack Against Vision Language Models](2024年09月28日/TrojVLM_Backdoor_Attack_Against_Vision_Language_Models.md)
 
     - [翻译: TrojVLM：视觉语言模型的后门攻击](2024年09月28日/TrojVLM_Backdoor_Attack_Against_Vision_Language_Models.md)
-
-- [Visual Question Decomposition on Multimodal Large Language Models](2024年09月28日/Visual_Question_Decomposition_on_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 多模态大型语言模型中的视觉问题分解](2024年09月28日/Visual_Question_Decomposition_on_Multimodal_Large_Language_Models.md)
 
 - [Zero-Shot Multi-Hop Question Answering via Monte-Carlo Tree Search with Large Language Models](2024年09月28日/Zero-Shot_Multi-Hop_Question_Answering_via_Monte-Carlo_Tree_Search_with_Large_Language_Models.md)
 
