@@ -330,10 +330,6 @@
 
     - [翻译: 一种参数高效的调优框架，专为语言引导的对象定位与机器人抓取设计](2024年09月28日/A_Parameter-Efficient_Tuning_Framework_for_Language-guided_Object_Grounding_and_Robot_Grasping.md)
 
-- [BuildingView: Constructing Urban Building Exteriors Databases with Street View Imagery and Multimodal Large Language Mode](2024年09月28日/BuildingView_Constructing_Urban_Building_Exteriors_Databases_with_Street_View_Imagery_and_Multimodal_Large_Language_Mode.md)
-
-    - [翻译: BuildingView：通过街景图像与多模态大型语言模型，打造城市建筑外观数据库。](2024年09月28日/BuildingView_Constructing_Urban_Building_Exteriors_Databases_with_Street_View_Imagery_and_Multimodal_Large_Language_Mode.md)
-
 - [CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling](2024年09月28日/CLIP-MoE_Towards_Building_Mixture_of_Experts_for_CLIP_with_Diversified_Multiplet_Upcycling.md)
 
     - [翻译: CLIP-MoE：通过多样化多重升级，构建专家混合模型](2024年09月28日/CLIP-MoE_Towards_Building_Mixture_of_Experts_for_CLIP_with_Diversified_Multiplet_Upcycling.md)
@@ -373,26 +369,6 @@
 - [Overriding Safety protections of Open-source Models](2024年09月28日/Overriding_Safety_protections_of_Open-source_Models.md)
 
     - [翻译: 绕过开源模型的安全防护](2024年09月28日/Overriding_Safety_protections_of_Open-source_Models.md)
-
-- [Perception Compressor:A training-free prompt compression method in long context scenarios](2024年09月28日/Perception_CompressorA_training-free_prompt_compression_method_in_long_context_scenarios.md)
-
-    - [翻译: 感知压缩器：长上下文场景中的无训练提示压缩法](2024年09月28日/Perception_CompressorA_training-free_prompt_compression_method_in_long_context_scenarios.md)
-
-- [Secret Use of Large Language Models](2024年09月28日/Secret_Use_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的隐秘应用](2024年09月28日/Secret_Use_of_Large_Language_Models.md)
-
-- [See Where You Read with Eye Gaze Tracking and Large Language Model](2024年09月28日/See_Where_You_Read_with_Eye_Gaze_Tracking_and_Large_Language_Model.md)
-
-    - [翻译: 用眼动追踪和大型语言模型，探索你的阅读轨迹](2024年09月28日/See_Where_You_Read_with_Eye_Gaze_Tracking_and_Large_Language_Model.md)
-
-- [SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models](2024年09月28日/SELP_Generating_Safe_and_Efficient_Task_Plans_for_Robot_Agents_with_Large_Language_Models.md)
-
-    - [翻译: SELP：借助大型语言模型，为机器人代理打造既安全又高效的任务计划。](2024年09月28日/SELP_Generating_Safe_and_Efficient_Task_Plans_for_Robot_Agents_with_Large_Language_Models.md)
-
-- ['Simulacrum of Stories': Examining Large Language Models as Qualitative Research Participants](2024年09月28日/'Simulacrum_of_Stories'_Examining_Large_Language_Models_as_Qualitative_Research_Participants.md)
-
-    - [翻译: '故事的模拟': 探讨大型语言模型作为定性研究参与者的角色](2024年09月28日/'Simulacrum_of_Stories'_Examining_Large_Language_Models_as_Qualitative_Research_Participants.md)
 
 - [Transforming Scholarly Landscapes: Influence of Large Language Models on Academic Fields beyond Computer Science](2024年09月28日/Transforming_Scholarly_Landscapes_Influence_of_Large_Language_Models_on_Academic_Fields_beyond_Computer_Science.md)
 
