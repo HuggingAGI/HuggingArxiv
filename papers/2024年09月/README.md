@@ -272,10 +272,6 @@
 
     - [翻译: NeuroMax：通过最大化互信息和组主题正则化，提升神经主题建模的效果。](2024年09月29日/NeuroMax_Enhancing_Neural_Topic_Modeling_via_Maximizing_Mutual_Information_and_Group_Topic_Regularization.md)
 
-- [One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos](2024年09月29日/One_Token_to_Seg_Them_All_Language_Instructed_Reasoning_Segmentation_in_Videos.md)
-
-    - [翻译: 一词分割万物：语言引导的视频推理分割](2024年09月29日/One_Token_to_Seg_Them_All_Language_Instructed_Reasoning_Segmentation_in_Videos.md)
-
 - [On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability](2024年09月29日/On_The_Planning_Abilities_of_OpenAI's_o1_Models_Feasibility,_Optimality,_and_Generalizability.md)
 
     - [翻译: 探讨 OpenAI o1 模型的规划能力：可行性、最优性及可推广性](2024年09月29日/On_The_Planning_Abilities_of_OpenAI's_o1_Models_Feasibility,_Optimality,_and_Generalizability.md)
@@ -307,29 +303,3 @@
 - [TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation](2024年09月29日/TRANSAGENT_An_LLM-Based_Multi-Agent_System_for_Code_Translation.md)
 
     - [翻译: TRANSAGENT：一个基于 LLM 的多智能体系统，专为代码翻译而生](2024年09月29日/TRANSAGENT_An_LLM-Based_Multi-Agent_System_for_Code_Translation.md)
-
-- [Universal Medical Image Representation Learning with Compositional Decoders](2024年09月29日/Universal_Medical_Image_Representation_Learning_with_Compositional_Decoders.md)
-
-    - [翻译: 组合解码器助力通用医学图像表示学习](2024年09月29日/Universal_Medical_Image_Representation_Learning_with_Compositional_Decoders.md)
-
-2024年09月28日
-
-- [Efficient Federated Intrusion Detection in 5G ecosystem using optimized BERT-based model](2024年09月28日/Efficient_Federated_Intrusion_Detection_in_5G_ecosystem_using_optimized_BERT-based_model.md)
-
-    - [翻译: 利用优化后的 BERT 模型，在 5G 生态系统中实现高效的联邦入侵检测](2024年09月28日/Efficient_Federated_Intrusion_Detection_in_5G_ecosystem_using_optimized_BERT-based_model.md)
-
-- [INSIGHTBUDDY-AI: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning](2024年09月28日/INSIGHTBUDDY-AI_Medication_Extraction_and_Entity_Linking_using_Large_Language_Models_and_Ensemble_Learning.md)
-
-    - [翻译: INSIGHTBUDDY-AI：借助大型语言模型与集成学习，实现药物提取与实体链接的智能助手](2024年09月28日/INSIGHTBUDDY-AI_Medication_Extraction_and_Entity_Linking_using_Large_Language_Models_and_Ensemble_Learning.md)
-
-- [Overriding Safety protections of Open-source Models](2024年09月28日/Overriding_Safety_protections_of_Open-source_Models.md)
-
-    - [翻译: 绕过开源模型的安全防护](2024年09月28日/Overriding_Safety_protections_of_Open-source_Models.md)
-
-- [Transforming Scholarly Landscapes: Influence of Large Language Models on Academic Fields beyond Computer Science](2024年09月28日/Transforming_Scholarly_Landscapes_Influence_of_Large_Language_Models_on_Academic_Fields_beyond_Computer_Science.md)
-
-    - [翻译: 大型语言模型正在重塑学术版图，其影响力已超越计算机科学，深入到各个学术领域。](2024年09月28日/Transforming_Scholarly_Landscapes_Influence_of_Large_Language_Models_on_Academic_Fields_beyond_Computer_Science.md)
-
-- [Zero-Shot Multi-Hop Question Answering via Monte-Carlo Tree Search with Large Language Models](2024年09月28日/Zero-Shot_Multi-Hop_Question_Answering_via_Monte-Carlo_Tree_Search_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型的蒙特卡罗树搜索实现零-shot多跳问答](2024年09月28日/Zero-Shot_Multi-Hop_Question_Answering_via_Monte-Carlo_Tree_Search_with_Large_Language_Models.md)
