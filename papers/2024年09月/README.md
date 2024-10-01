@@ -200,25 +200,9 @@
 
     - [翻译: 大型语言模型的认证鲁棒水印技术](2024年09月29日/A_Certified_Robust_Watermark_For_Large_Language_Models.md)
 
-- [A multimodal LLM for the non-invasive decoding of spoken text from brain recordings](2024年09月29日/A_multimodal_LLM_for_the_non-invasive_decoding_of_spoken_text_from_brain_recordings.md)
-
-    - [翻译: 一种多模态大型语言模型，能够从脑部记录中非侵入性地解码口语文本。](2024年09月29日/A_multimodal_LLM_for_the_non-invasive_decoding_of_spoken_text_from_brain_recordings.md)
-
 - [Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales](2024年09月29日/Assessment_and_manipulation_of_latent_constructs_in_pre-trained_language_models_using_psychometric_scales.md)
 
     - [翻译: 通过心理测量量表，我们能够评估并操控预训练语言模型中的潜在因素。](2024年09月29日/Assessment_and_manipulation_of_latent_constructs_in_pre-trained_language_models_using_psychometric_scales.md)
-
-- [AstroMLab 2: AstroLLaMA-2-70B Model and Benchmarking Specialised LLMs for Astronomy](2024年09月29日/AstroMLab_2_AstroLLaMA-2-70B_Model_and_Benchmarking_Specialised_LLMs_for_Astronomy.md)
-
-    - [翻译: AstroMLab 2：探索 AstroLLaMA-2-70B 模型及天文学专用 LLM 的性能基准](2024年09月29日/AstroMLab_2_AstroLLaMA-2-70B_Model_and_Benchmarking_Specialised_LLMs_for_Astronomy.md)
-
-- [Balancing Cost and Effectiveness of Synthetic Data Generation Strategies for LLMs](2024年09月29日/Balancing_Cost_and_Effectiveness_of_Synthetic_Data_Generation_Strategies_for_LLMs.md)
-
-    - [翻译: 在 LLM 中，如何平衡合成数据生成策略的成本与效果，是一个关键问题。](2024年09月29日/Balancing_Cost_and_Effectiveness_of_Synthetic_Data_Generation_Strategies_for_LLMs.md)
-
-- [HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models](2024年09月29日/HDMoLE_Mixture_of_LoRA_Experts_with_Hierarchical_Routing_and_Dynamic_Thresholds_for_Fine-Tuning_LLM-based_ASR_Models.md)
-
-    - [翻译: HDMoLE：结合分层路由与动态阈值的 LoRA 专家混合，专为微调 LLM 驱动的 ASR 模型而设计。](2024年09月29日/HDMoLE_Mixture_of_LoRA_Experts_with_Hierarchical_Routing_and_Dynamic_Thresholds_for_Fine-Tuning_LLM-based_ASR_Models.md)
 
 - [Hyper-Connections](2024年09月29日/Hyper-Connections.md)
 
@@ -235,14 +219,6 @@
 - [Mitigating the Negative Impact of Over-association for Conversational Query Production](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
 
     - [翻译: 缓解对话查询生成中的过度关联问题](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
-
-- [OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection](2024年09月29日/OpenKD_Opening_Prompt_Diversity_for_Zero-_and_Few-shot_Keypoint_Detection.md)
-
-    - [翻译: OpenKD：为零-shot 和少-shot 关键点检测开启提示多样性](2024年09月29日/OpenKD_Opening_Prompt_Diversity_for_Zero-_and_Few-shot_Keypoint_Detection.md)
-
-- [Revealing Personality Traits: A New Benchmark Dataset for Explainable Personality Recognition on Dialogues](2024年09月29日/Revealing_Personality_Traits_A_New_Benchmark_Dataset_for_Explainable_Personality_Recognition_on_Dialogues.md)
-
-    - [翻译: 揭秘个性：对话中可解释个性识别的新基准数据集](2024年09月29日/Revealing_Personality_Traits_A_New_Benchmark_Dataset_for_Explainable_Personality_Recognition_on_Dialogues.md)
 
 - [RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models](2024年09月29日/RouterDC_Query-Based_Router_by_Dual_Contrastive_Learning_for_Assembling_Large_Language_Models.md)
 
