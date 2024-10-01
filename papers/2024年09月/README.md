@@ -336,7 +336,7 @@
 
 - [CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling](2024年09月28日/CLIP-MoE_Towards_Building_Mixture_of_Experts_for_CLIP_with_Diversified_Multiplet_Upcycling.md)
 
-    - [翻译: CLIP-MoE：利用多样化多重升级技术，构建专家混合模型](2024年09月28日/CLIP-MoE_Towards_Building_Mixture_of_Experts_for_CLIP_with_Diversified_Multiplet_Upcycling.md)
+    - [翻译: CLIP-MoE：通过多样化多重升级，构建专家混合模型](2024年09月28日/CLIP-MoE_Towards_Building_Mixture_of_Experts_for_CLIP_with_Diversified_Multiplet_Upcycling.md)
 
 - [Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs](2024年09月28日/Crafting_Personalized_Agents_through_Retrieval-Augmented_Generation_on_Editable_Memory_Graphs.md)
 
@@ -413,10 +413,6 @@
 - [TrojVLM: Backdoor Attack Against Vision Language Models](2024年09月28日/TrojVLM_Backdoor_Attack_Against_Vision_Language_Models.md)
 
     - [翻译: TrojVLM：视觉语言模型的后门攻击](2024年09月28日/TrojVLM_Backdoor_Attack_Against_Vision_Language_Models.md)
-
-- [Video DataFlywheel: Resolving the Impossible Data Trinity in Video-Language Understanding](2024年09月28日/Video_DataFlywheel_Resolving_the_Impossible_Data_Trinity_in_Video-Language_Understanding.md)
-
-    - [翻译: 视频数据飞轮：破解视频-语言理解中的“不可能三角”](2024年09月28日/Video_DataFlywheel_Resolving_the_Impossible_Data_Trinity_in_Video-Language_Understanding.md)
 
 - [Visual Question Decomposition on Multimodal Large Language Models](2024年09月28日/Visual_Question_Decomposition_on_Multimodal_Large_Language_Models.md)
 
