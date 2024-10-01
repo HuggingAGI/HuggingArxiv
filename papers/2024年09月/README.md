@@ -318,14 +318,6 @@
 
     - [翻译: 3D-CT-GPT：融合大型视觉-语言模型，智能生成3D放射报告](2024年09月28日/3D-CT-GPT_Generating_3D_Radiology_Reports_through_Integration_of_Large_Vision-Language_Models.md)
 
-- [Analog In-Memory Computing Attention Mechanism for Fast and Energy-Efficient Large Language Models](2024年09月28日/Analog_In-Memory_Computing_Attention_Mechanism_for_Fast_and_Energy-Efficient_Large_Language_Models.md)
-
-    - [翻译: 模拟内存计算注意力机制，为大型语言模型提供快速且节能的解决方案](2024年09月28日/Analog_In-Memory_Computing_Attention_Mechanism_for_Fast_and_Energy-Efficient_Large_Language_Models.md)
-
-- [Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models](2024年09月28日/Analyzing_and_Mitigating_Inconsistency_in_Discrete_Audio_Tokens_for_Neural_Codec_Language_Models.md)
-
-    - [翻译: 探究并解决神经编解码语言模型中离散音频标记的不一致问题](2024年09月28日/Analyzing_and_Mitigating_Inconsistency_in_Discrete_Audio_Tokens_for_Neural_Codec_Language_Models.md)
-
 - [A Parameter-Efficient Tuning Framework for Language-guided Object Grounding and Robot Grasping](2024年09月28日/A_Parameter-Efficient_Tuning_Framework_for_Language-guided_Object_Grounding_and_Robot_Grasping.md)
 
     - [翻译: 一种参数高效的调优框架，专为语言引导的对象定位与机器人抓取设计](2024年09月28日/A_Parameter-Efficient_Tuning_Framework_for_Language-guided_Object_Grounding_and_Robot_Grasping.md)
@@ -337,10 +329,6 @@
 - [Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs](2024年09月28日/Crafting_Personalized_Agents_through_Retrieval-Augmented_Generation_on_Editable_Memory_Graphs.md)
 
     - [翻译: 利用可编辑记忆图上的检索增强生成技术，定制个性化智能代理](2024年09月28日/Crafting_Personalized_Agents_through_Retrieval-Augmented_Generation_on_Editable_Memory_Graphs.md)
-
-- [Designing Domain-Specific Large Language Models: The Critical Role of Fine-Tuning in Public Opinion Simulation](2024年09月28日/Designing_Domain-Specific_Large_Language_Models_The_Critical_Role_of_Fine-Tuning_in_Public_Opinion_Simulation.md)
-
-    - [翻译: 打造领域专属的大型语言模型：微调在模拟公众意见中的核心地位](2024年09月28日/Designing_Domain-Specific_Large_Language_Models_The_Critical_Role_of_Fine-Tuning_in_Public_Opinion_Simulation.md)
 
 - [Efficient Federated Intrusion Detection in 5G ecosystem using optimized BERT-based model](2024年09月28日/Efficient_Federated_Intrusion_Detection_in_5G_ecosystem_using_optimized_BERT-based_model.md)
 
@@ -354,17 +342,9 @@
 
     - [翻译: INSIGHTBUDDY-AI：借助大型语言模型与集成学习，实现药物提取与实体链接的智能助手](2024年09月28日/INSIGHTBUDDY-AI_Medication_Extraction_and_Entity_Linking_using_Large_Language_Models_and_Ensemble_Learning.md)
 
-- [MedHalu: Hallucinations in Responses to Healthcare Queries by Large Language Models](2024年09月28日/MedHalu_Hallucinations_in_Responses_to_Healthcare_Queries_by_Large_Language_Models.md)
-
-    - [翻译: MedHalu: 大型语言模型在处理医疗查询时出现的幻觉问题](2024年09月28日/MedHalu_Hallucinations_in_Responses_to_Healthcare_Queries_by_Large_Language_Models.md)
-
 - [MetaMath: Integrating Natural Language and Code for Enhanced Mathematical Reasoning in Large Language Models](2024年09月28日/MetaMath_Integrating_Natural_Language_and_Code_for_Enhanced_Mathematical_Reasoning_in_Large_Language_Models.md)
 
     - [翻译: MetaMath：融合自然语言与代码，提升大型语言模型中的数学推理能力](2024年09月28日/MetaMath_Integrating_Natural_Language_and_Code_for_Enhanced_Mathematical_Reasoning_in_Large_Language_Models.md)
-
-- [OpenSep: Leveraging Large Language Models with Textual Inversion for Open World Audio Separation](2024年09月28日/OpenSep_Leveraging_Large_Language_Models_with_Textual_Inversion_for_Open_World_Audio_Separation.md)
-
-    - [翻译: OpenSep：借助大型语言模型与文本反转技术，实现开放世界音频分离](2024年09月28日/OpenSep_Leveraging_Large_Language_Models_with_Textual_Inversion_for_Open_World_Audio_Separation.md)
 
 - [Overriding Safety protections of Open-source Models](2024年09月28日/Overriding_Safety_protections_of_Open-source_Models.md)
 
@@ -373,10 +353,6 @@
 - [Transforming Scholarly Landscapes: Influence of Large Language Models on Academic Fields beyond Computer Science](2024年09月28日/Transforming_Scholarly_Landscapes_Influence_of_Large_Language_Models_on_Academic_Fields_beyond_Computer_Science.md)
 
     - [翻译: 大型语言模型正在重塑学术版图，其影响力已超越计算机科学，深入到各个学术领域。](2024年09月28日/Transforming_Scholarly_Landscapes_Influence_of_Large_Language_Models_on_Academic_Fields_beyond_Computer_Science.md)
-
-- [TrojVLM: Backdoor Attack Against Vision Language Models](2024年09月28日/TrojVLM_Backdoor_Attack_Against_Vision_Language_Models.md)
-
-    - [翻译: TrojVLM：视觉语言模型的后门攻击](2024年09月28日/TrojVLM_Backdoor_Attack_Against_Vision_Language_Models.md)
 
 - [Zero-Shot Multi-Hop Question Answering via Monte-Carlo Tree Search with Large Language Models](2024年09月28日/Zero-Shot_Multi-Hop_Question_Answering_via_Monte-Carlo_Tree_Search_with_Large_Language_Models.md)
 
