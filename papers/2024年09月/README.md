@@ -216,18 +216,6 @@
 
     - [翻译: 在 LLM 中，如何平衡合成数据生成策略的成本与效果，是一个关键问题。](2024年09月29日/Balancing_Cost_and_Effectiveness_of_Synthetic_Data_Generation_Strategies_for_LLMs.md)
 
-- [CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering](2024年09月29日/CoTKR_Chain-of-Thought_Enhanced_Knowledge_Rewriting_for_Complex_Knowledge_Graph_Question_Answering.md)
-
-    - [翻译: CoTKR：通过链式思维增强知识重写，提升复杂知识图谱问答的效率。](2024年09月29日/CoTKR_Chain-of-Thought_Enhanced_Knowledge_Rewriting_for_Complex_Knowledge_Graph_Question_Answering.md)
-
-- [Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming](2024年09月29日/Deep_Learning_and_Machine_Learning,_Advancing_Big_Data_Analytics_and_Management_Object-Oriented_Programming.md)
-
-    - [翻译: 深度学习与机器学习携手，推动大数据分析与管理，借助面向对象编程的力量，迈向更智能的未来。](2024年09月29日/Deep_Learning_and_Machine_Learning,_Advancing_Big_Data_Analytics_and_Management_Object-Oriented_Programming.md)
-
-- [Does RAG Introduce Unfairness in LLMs? Evaluating Fairness in Retrieval-Augmented Generation Systems](2024年09月29日/Does_RAG_Introduce_Unfairness_in_LLMs_Evaluating_Fairness_in_Retrieval-Augmented_Generation_Systems.md)
-
-    - [翻译: RAG 会否在 LLM 中造成不公平？探讨检索增强生成系统中的公平性问题。](2024年09月29日/Does_RAG_Introduce_Unfairness_in_LLMs_Evaluating_Fairness_in_Retrieval-Augmented_Generation_Systems.md)
-
 - [HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models](2024年09月29日/HDMoLE_Mixture_of_LoRA_Experts_with_Hierarchical_Routing_and_Dynamic_Thresholds_for_Fine-Tuning_LLM-based_ASR_Models.md)
 
     - [翻译: HDMoLE：结合分层路由与动态阈值的 LoRA 专家混合，专为微调 LLM 驱动的 ASR 模型而设计。](2024年09月29日/HDMoLE_Mixture_of_LoRA_Experts_with_Hierarchical_Routing_and_Dynamic_Thresholds_for_Fine-Tuning_LLM-based_ASR_Models.md)
@@ -244,21 +232,9 @@
 
     - [翻译: 指令嵌入：揭示任务识别的潜在指令表示](2024年09月29日/Instruction_Embedding_Latent_Representations_of_Instructions_Towards_Task_Identification.md)
 
-- [MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation](2024年09月29日/MedViLaM_A_multimodal_large_language_model_with_advanced_generalizability_and_explainability_for_medical_data_understanding_and_generation.md)
-
-    - [翻译: MedViLaM：一款具备卓越泛化性和可解释性的多模态大型语言模型，专为医学数据的理解与生成而设计。](2024年09月29日/MedViLaM_A_multimodal_large_language_model_with_advanced_generalizability_and_explainability_for_medical_data_understanding_and_generation.md)
-
 - [Mitigating the Negative Impact of Over-association for Conversational Query Production](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
 
     - [翻译: 缓解对话查询生成中的过度关联问题](2024年09月29日/Mitigating_the_Negative_Impact_of_Over-association_for_Conversational_Query_Production.md)
-
-- [NeuroMax: Enhancing Neural Topic Modeling via Maximizing Mutual Information and Group Topic Regularization](2024年09月29日/NeuroMax_Enhancing_Neural_Topic_Modeling_via_Maximizing_Mutual_Information_and_Group_Topic_Regularization.md)
-
-    - [翻译: NeuroMax：通过最大化互信息和组主题正则化，提升神经主题建模的效果。](2024年09月29日/NeuroMax_Enhancing_Neural_Topic_Modeling_via_Maximizing_Mutual_Information_and_Group_Topic_Regularization.md)
-
-- [On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability](2024年09月29日/On_The_Planning_Abilities_of_OpenAI's_o1_Models_Feasibility,_Optimality,_and_Generalizability.md)
-
-    - [翻译: 探讨 OpenAI o1 模型的规划能力：可行性、最优性及可推广性](2024年09月29日/On_The_Planning_Abilities_of_OpenAI's_o1_Models_Feasibility,_Optimality,_and_Generalizability.md)
 
 - [OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection](2024年09月29日/OpenKD_Opening_Prompt_Diversity_for_Zero-_and_Few-shot_Keypoint_Detection.md)
 
