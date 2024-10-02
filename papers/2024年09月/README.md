@@ -2,10 +2,6 @@
 
 2024年09月30日
 
-- [1 Trillion Token (1TT) Platform: A Novel Framework for Efficient Data Sharing and Compensation in Large Language Models](2024年09月30日/1_Trillion_Token_(1TT)_Platform_A_Novel_Framework_for_Efficient_Data_Sharing_and_Compensation_in_Large_Language_Models.md)
-
-    - [翻译: 1TT 平台：为大型语言模型打造的高效数据共享与补偿新框架](2024年09月30日/1_Trillion_Token_(1TT)_Platform_A_Novel_Framework_for_Efficient_Data_Sharing_and_Compensation_in_Large_Language_Models.md)
-
 - [ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer](2024年09月30日/ACE_All-round_Creator_and_Editor_Following_Instructions_via_Diffusion_Transformer.md)
 
     - [翻译: ACE：一款全能的创造与编辑工具，通过扩散变换器精准执行指令。](2024年09月30日/ACE_All-round_Creator_and_Editor_Following_Instructions_via_Diffusion_Transformer.md)
@@ -30,10 +26,6 @@
 
     - [翻译: 超越分数：一个模块化 RAG 系统，专为自动简短答案评分并提供反馈而设计](2024年09月30日/Beyond_Scores_A_Modular_RAG-Based_System_for_Automatic_Short_Answer_Scoring_with_Feedback.md)
 
-- [Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language](2024年09月30日/Classification_of_Radiological_Text_in_Small_and_Imbalanced_Datasets_in_a_Non-English_Language.md)
-
-    - [翻译: 非英语环境下，针对小规模且不平衡的放射学文本数据集进行分类](2024年09月30日/Classification_of_Radiological_Text_in_Small_and_Imbalanced_Datasets_in_a_Non-English_Language.md)
-
 - [Comprehensive Performance Modeling and System Design Insights for Foundation Models](2024年09月30日/Comprehensive_Performance_Modeling_and_System_Design_Insights_for_Foundation_Models.md)
 
     - [翻译: 深入探讨基础模型的性能建模与系统设计](2024年09月30日/Comprehensive_Performance_Modeling_and_System_Design_Insights_for_Foundation_Models.md)
@@ -41,10 +33,6 @@
 - [DoPAMine: Domain-specific Pre-training Adaptation from seed-guided data Mining](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
 
     - [翻译: DoPAMine：基于种子数据引导的领域特定预训练适应](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
-
-- [Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models](2024年09月30日/Efficient_Driving_Behavior_Narration_and_Reasoning_on_Edge_Device_Using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型在边缘设备上实现高效驾驶行为的叙述与推理](2024年09月30日/Efficient_Driving_Behavior_Narration_and_Reasoning_on_Edge_Device_Using_Large_Language_Models.md)
 
 - [FedPT: Federated Proxy-Tuning of Large Language Models on Resource-Constrained Edge Devices](2024年09月30日/FedPT_Federated_Proxy-Tuning_of_Large_Language_Models_on_Resource-Constrained_Edge_Devices.md)
 
@@ -78,10 +66,6 @@
 
     - [翻译: 偏好对齐是否总能提升基于 LLM 的翻译效果？一项实证研究揭示真相。](2024年09月30日/Is_Preference_Alignment_Always_the_Best_Option_to_Enhance_LLM-Based_Translation_An_Empirical_Analysis.md)
 
-- [Multimodal LLM Enhanced Cross-lingual Cross-modal Retrieval](2024年09月30日/Multimodal_LLM_Enhanced_Cross-lingual_Cross-modal_Retrieval.md)
-
-    - [翻译: 多模态 LLM 助力跨语言跨模态检索](2024年09月30日/Multimodal_LLM_Enhanced_Cross-lingual_Cross-modal_Retrieval.md)
-
 - [On Large Uni- and Multi-modal Models for Unsupervised Classification of Social Media Images: Nature's Contribution to People as case study](2024年09月30日/On_Large_Uni-_and_Multi-modal_Models_for_Unsupervised_Classification_of_Social_Media_Images_Nature's_Contribution_to_People_as_case_study.md)
 
     - [翻译: 探讨大型单模态与多模态模型在社交媒体图像无监督分类中的应用，以自然对人类的贡献为例。](2024年09月30日/On_Large_Uni-_and_Multi-modal_Models_for_Unsupervised_Classification_of_Social_Media_Images_Nature's_Contribution_to_People_as_case_study.md)
@@ -102,10 +86,6 @@
 
     - [翻译: 通过拒绝功能对抗训练，实现 LLM 的稳健保护](2024年09月30日/Robust_LLM_safeguarding_via_refusal_feature_adversarial_training.md)
 
-- [Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference](2024年09月30日/Rotated_Runtime_Smooth_Training-Free_Activation_Smoother_for_accurate_INT4_inference.md)
-
-    - [翻译: 旋转运行时平滑：无需训练的激活平滑技术，助力精准 INT4 推理](2024年09月30日/Rotated_Runtime_Smooth_Training-Free_Activation_Smoother_for_accurate_INT4_inference.md)
-
 - [Self-controller: Controlling LLMs with Multi-round Step-by-step Self-awareness](2024年09月30日/Self-controller_Controlling_LLMs_with_Multi-round_Step-by-step_Self-awareness.md)
 
     - [翻译: 自我控制器：借助多轮逐步自我意识，驾驭大型语言模型](2024年09月30日/Self-controller_Controlling_LLMs_with_Multi-round_Step-by-step_Self-awareness.md)
@@ -121,10 +101,6 @@
 - [Unleashing the Potentials of Likelihood Composition for Multi-modal Language Models](2024年09月30日/Unleashing_the_Potentials_of_Likelihood_Composition_for_Multi-modal_Language_Models.md)
 
     - [翻译: 激发多模态语言模型似然组合的无限潜能](2024年09月30日/Unleashing_the_Potentials_of_Likelihood_Composition_for_Multi-modal_Language_Models.md)
-
-- [VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs](2024年09月30日/VideoINSTA_Zero-shot_Long_Video_Understanding_via_Informative_Spatial-Temporal_Reasoning_with_LLMs.md)
-
-    - [翻译: VideoINSTA：借助 LLM 的时空推理能力，实现零-shot 长视频理解](2024年09月30日/VideoINSTA_Zero-shot_Long_Video_Understanding_via_Informative_Spatial-Temporal_Reasoning_with_LLMs.md)
 
 - [VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data](2024年09月30日/VLMGuard_Defending_VLMs_against_Malicious_Prompts_via_Unlabeled_Data.md)
 
