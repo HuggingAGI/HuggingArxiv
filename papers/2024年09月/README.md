@@ -18,25 +18,13 @@
 
     - [翻译: AHA：一款专为机器人操作故障检测与推理而设计的视觉-语言模型](2024年09月30日/AHA_A_Vision-Language-Model_for_Detecting_and_Reasoning_Over_Failures_in_Robotic_Manipulation.md)
 
-- [A Looming Replication Crisis in Evaluating Behavior in Language Models? Evidence and Solutions](2024年09月30日/A_Looming_Replication_Crisis_in_Evaluating_Behavior_in_Language_Models_Evidence_and_Solutions.md)
-
-    - [翻译: 语言模型行为评估是否面临复制危机？这里有证据，也有解决方案。](2024年09月30日/A_Looming_Replication_Crisis_in_Evaluating_Behavior_in_Language_Models_Evidence_and_Solutions.md)
-
 - [A Methodology for Explainable Large Language Models with Integrated Gradients and Linguistic Analysis in Text Classification](2024年09月30日/A_Methodology_for_Explainable_Large_Language_Models_with_Integrated_Gradients_and_Linguistic_Analysis_in_Text_Classification.md)
 
     - [翻译: 本文提出了一种结合集成梯度和语言分析的可解释大型语言模型方法论，专注于文本分类任务。](2024年09月30日/A_Methodology_for_Explainable_Large_Language_Models_with_Integrated_Gradients_and_Linguistic_Analysis_in_Text_Classification.md)
 
-- [Analysing Zero-Shot Readability-Controlled Sentence Simplification](2024年09月30日/Analysing_Zero-Shot_Readability-Controlled_Sentence_Simplification.md)
-
-    - [翻译: 探究零-shot 可读性调控下的句子简化](2024年09月30日/Analysing_Zero-Shot_Readability-Controlled_Sentence_Simplification.md)
-
 - [Ask, Pose, Unite: Scaling Data Acquisition for Close Interactions with Vision Language Models](2024年09月30日/Ask,_Pose,_Unite_Scaling_Data_Acquisition_for_Close_Interactions_with_Vision_Language_Models.md)
 
     - [翻译: 问、提、合：扩展与视觉语言模型互动的数据收集](2024年09月30日/Ask,_Pose,_Unite_Scaling_Data_Acquisition_for_Close_Interactions_with_Vision_Language_Models.md)
-
-- [Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models](2024年09月30日/Beyond_Prompts_Dynamic_Conversational_Benchmarking_of_Large_Language_Models.md)
-
-    - [翻译: 不仅仅是提示：大型语言模型的动态对话性能评估](2024年09月30日/Beyond_Prompts_Dynamic_Conversational_Benchmarking_of_Large_Language_Models.md)
 
 - [Beyond Scores: A Modular RAG-Based System for Automatic Short Answer Scoring with Feedback](2024年09月30日/Beyond_Scores_A_Modular_RAG-Based_System_for_Automatic_Short_Answer_Scoring_with_Feedback.md)
 
@@ -57,14 +45,6 @@
 - [Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models](2024年09月30日/Efficient_Driving_Behavior_Narration_and_Reasoning_on_Edge_Device_Using_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型在边缘设备上实现高效驾驶行为的叙述与推理](2024年09月30日/Efficient_Driving_Behavior_Narration_and_Reasoning_on_Edge_Device_Using_Large_Language_Models.md)
-
-- [Enhancing High-order Interaction Awareness in LLM-based Recommender Model](2024年09月30日/Enhancing_High-order_Interaction_Awareness_in_LLM-based_Recommender_Model.md)
-
-    - [翻译: 提升基于LLM推荐模型的高阶交互感知能力](2024年09月30日/Enhancing_High-order_Interaction_Awareness_in_LLM-based_Recommender_Model.md)
-
-- [Evaluating and explaining training strategies for zero-shot cross-lingual news sentiment analysis](2024年09月30日/Evaluating_and_explaining_training_strategies_for_zero-shot_cross-lingual_news_sentiment_analysis.md)
-
-    - [翻译: 探索与解读零-shot 跨语言新闻情感分析的训练策略](2024年09月30日/Evaluating_and_explaining_training_strategies_for_zero-shot_cross-lingual_news_sentiment_analysis.md)
 
 - [FedPT: Federated Proxy-Tuning of Large Language Models on Resource-Constrained Edge Devices](2024年09月30日/FedPT_Federated_Proxy-Tuning_of_Large_Language_Models_on_Resource-Constrained_Edge_Devices.md)
 
@@ -97,10 +77,6 @@
 - [Is Preference Alignment Always the Best Option to Enhance LLM-Based Translation? An Empirical Analysis](2024年09月30日/Is_Preference_Alignment_Always_the_Best_Option_to_Enhance_LLM-Based_Translation_An_Empirical_Analysis.md)
 
     - [翻译: 偏好对齐是否总能提升基于 LLM 的翻译效果？一项实证研究揭示真相。](2024年09月30日/Is_Preference_Alignment_Always_the_Best_Option_to_Enhance_LLM-Based_Translation_An_Empirical_Analysis.md)
-
-- [LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation](2024年09月30日/LLM_Hallucinations_in_Practical_Code_Generation_Phenomena,_Mechanism,_and_Mitigation.md)
-
-    - [翻译: LLM 在代码生成中的幻觉现象、产生机制及缓解策略](2024年09月30日/LLM_Hallucinations_in_Practical_Code_Generation_Phenomena,_Mechanism,_and_Mitigation.md)
 
 - [Multimodal LLM Enhanced Cross-lingual Cross-modal Retrieval](2024年09月30日/Multimodal_LLM_Enhanced_Cross-lingual_Cross-modal_Retrieval.md)
 
