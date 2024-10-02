@@ -114,17 +114,9 @@
 
     - [翻译: 多模态 LLM 助力跨语言跨模态检索](2024年09月30日/Multimodal_LLM_Enhanced_Cross-lingual_Cross-modal_Retrieval.md)
 
-- [Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos](2024年09月30日/Propose,_Assess,_Search_Harnessing_LLMs_for_Goal-Oriented_Planning_in_Instructional_Videos.md)
-
-    - [翻译: 提出、评估、搜索：借助 LLM 在教学视频中实现目标导向的规划](2024年09月30日/Propose,_Assess,_Search_Harnessing_LLMs_for_Goal-Oriented_Planning_in_Instructional_Videos.md)
-
 - [QAEncoder: Towards Aligned Representation Learning in Question Answering System](2024年09月30日/QAEncoder_Towards_Aligned_Representation_Learning_in_Question_Answering_System.md)
 
     - [翻译: QAEncoder：探索问答系统中的对齐表示学习](2024年09月30日/QAEncoder_Towards_Aligned_Representation_Learning_in_Question_Answering_System.md)
-
-- [Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models](2024年09月30日/Reference_Trustable_Decoding_A_Training-Free_Augmentation_Paradigm_for_Large_Language_Models.md)
-
-    - [翻译: 可信参考解码：一种无需训练的增强策略，专为大型语言模型设计](2024年09月30日/Reference_Trustable_Decoding_A_Training-Free_Augmentation_Paradigm_for_Large_Language_Models.md)
 
 - [Resource Allocation for Stable LLM Training in Mobile Edge Computing](2024年09月30日/Resource_Allocation_for_Stable_LLM_Training_in_Mobile_Edge_Computing.md)
 
@@ -142,10 +134,6 @@
 
     - [翻译: 旋转运行时平滑：无需训练的激活平滑技术，助力精准 INT4 推理](2024年09月30日/Rotated_Runtime_Smooth_Training-Free_Activation_Smoother_for_accurate_INT4_inference.md)
 
-- [Task-Oriented Pre-Training for Drivable Area Detection](2024年09月30日/Task-Oriented_Pre-Training_for_Drivable_Area_Detection.md)
-
-    - [翻译: 针对可驾驶区域检测的任务导向预训练](2024年09月30日/Task-Oriented_Pre-Training_for_Drivable_Area_Detection.md)
-
 - [The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems](2024年09月30日/The_Early_Bird_Catches_the_Leak_Unveiling_Timing_Side_Channels_in_LLM_Serving_Systems.md)
 
     - [翻译: 早起的鸟儿捉到漏洞：揭秘 LLM 服务系统中的时间侧通道](2024年09月30日/The_Early_Bird_Catches_the_Leak_Unveiling_Timing_Side_Channels_in_LLM_Serving_Systems.md)
@@ -154,17 +142,9 @@
 
     - [翻译: 完美融合：以多元评委视角重塑 RLHF](2024年09月30日/The_Perfect_Blend_Redefining_RLHF_with_Mixture_of_Judges.md)
 
-- [TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning](2024年09月30日/TROPE_TRaining-Free_Object-Part_Enhancement_for_Seamlessly_Improving_Fine-Grained_Zero-Shot_Image_Captioning.md)
-
-    - [翻译: TROPE：无需训练的对象-部分增强技术，旨在无缝提升细粒度零-shot 图像描述的性能。](2024年09月30日/TROPE_TRaining-Free_Object-Part_Enhancement_for_Seamlessly_Improving_Fine-Grained_Zero-Shot_Image_Captioning.md)
-
 - [Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models](2024年09月30日/Uncertainty-Informed_Screening_for_Safer_Solvents_Used_in_the_Synthesis_of_Perovskite_via_Language_Models.md)
 
     - [翻译: 利用语言模型，我们进行不确定性引导的筛选，以寻找合成钙钛矿时更安全的溶剂。](2024年09月30日/Uncertainty-Informed_Screening_for_Safer_Solvents_Used_in_the_Synthesis_of_Perovskite_via_Language_Models.md)
-
-- [Using Large Multimodal Models to Extract Knowledge Components for Knowledge Tracing from Multimedia Question Information](2024年09月30日/Using_Large_Multimodal_Models_to_Extract_Knowledge_Components_for_Knowledge_Tracing_from_Multimedia_Question_Information.md)
-
-    - [翻译: 借助大型多模态模型，我们能够从多媒体问题中提取出知识追踪所需的关键组件。](2024年09月30日/Using_Large_Multimodal_Models_to_Extract_Knowledge_Components_for_Knowledge_Tracing_from_Multimedia_Question_Information.md)
 
 - [VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs](2024年09月30日/VideoINSTA_Zero-shot_Long_Video_Understanding_via_Informative_Spatial-Temporal_Reasoning_with_LLMs.md)
 
@@ -177,10 +157,6 @@
 - [VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection](2024年09月30日/VMAD_Visual-enhanced_Multimodal_Large_Language_Model_for_Zero-Shot_Anomaly_Detection.md)
 
     - [翻译: VMAD：一种视觉增强的多模态大型语言模型，专为零-shot 异常检测而设计。](2024年09月30日/VMAD_Visual-enhanced_Multimodal_Large_Language_Model_for_Zero-Shot_Anomaly_Detection.md)
-
-- [Wait, but Tylenol is Acetaminophen... Investigating and Improving Language Models' Ability to Resist Requests for Misinformation](2024年09月30日/Wait,_but_Tylenol_is_Acetaminophen..._Investigating_and_Improving_Language_Models'_Ability_to_Resist_Requests_for_Misinformation.md)
-
-    - [翻译: 等等，泰诺就是扑热息痛！我们正在研究如何提升语言模型，使其能更好地拒绝传播错误信息。](2024年09月30日/Wait,_but_Tylenol_is_Acetaminophen..._Investigating_and_Improving_Language_Models'_Ability_to_Resist_Requests_for_Misinformation.md)
 
 - [What is the Role of Large Language Models in the Evolution of Astronomy Research?](2024年09月30日/What_is_the_Role_of_Large_Language_Models_in_the_Evolution_of_Astronomy_Research.md)
 
