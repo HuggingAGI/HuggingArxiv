@@ -26,21 +26,9 @@
 
     - [翻译: 超越分数：一个模块化 RAG 系统，专为自动简短答案评分并提供反馈而设计](2024年09月30日/Beyond_Scores_A_Modular_RAG-Based_System_for_Automatic_Short_Answer_Scoring_with_Feedback.md)
 
-- [BSharedRAG: Backbone Shared Retrieval-Augmented Generation for the E-commerce Domain](2024年09月30日/BSharedRAG_Backbone_Shared_Retrieval-Augmented_Generation_for_the_E-commerce_Domain.md)
-
-    - [翻译: BSharedRAG：电商领域的主干共享检索增强生成技术](2024年09月30日/BSharedRAG_Backbone_Shared_Retrieval-Augmented_Generation_for_the_E-commerce_Domain.md)
-
 - [Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language](2024年09月30日/Classification_of_Radiological_Text_in_Small_and_Imbalanced_Datasets_in_a_Non-English_Language.md)
 
     - [翻译: 非英语环境下，针对小规模且不平衡的放射学文本数据集进行分类](2024年09月30日/Classification_of_Radiological_Text_in_Small_and_Imbalanced_Datasets_in_a_Non-English_Language.md)
-
-- [COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models](2024年09月30日/COLLAGE_Collaborative_Human-Agent_Interaction_Generation_using_Hierarchical_Latent_Diffusion_and_Language_Models.md)
-
-    - [翻译: COLLAGE：通过分层潜在扩散与语言模型实现人机协作交互生成](2024年09月30日/COLLAGE_Collaborative_Human-Agent_Interaction_Generation_using_Hierarchical_Latent_Diffusion_and_Language_Models.md)
-
-- [Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models](2024年09月30日/Customized_Information_and_Domain-centric_Knowledge_Graph_Construction_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型构建定制信息与领域中心知识图谱](2024年09月30日/Customized_Information_and_Domain-centric_Knowledge_Graph_Construction_with_Large_Language_Models.md)
 
 - [Developing Instruction-Following Speech Language Model Without Speech Instruction-Tuning Data](2024年09月30日/Developing_Instruction-Following_Speech_Language_Model_Without_Speech_Instruction-Tuning_Data.md)
 
@@ -102,10 +90,6 @@
 
     - [翻译: 应对大型语言模型中的后门威胁：进展与挑战并存](2024年09月30日/Mitigating_Backdoor_Threats_to_Large_Language_Models_Advancement_and_Challenges.md)
 
-- [Mitigating Propensity Bias of Large Language Models for Recommender Systems](2024年09月30日/Mitigating_Propensity_Bias_of_Large_Language_Models_for_Recommender_Systems.md)
-
-    - [翻译: 缓解大型语言模型在推荐系统中的倾向性偏差](2024年09月30日/Mitigating_Propensity_Bias_of_Large_Language_Models_for_Recommender_Systems.md)
-
 - [MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning](2024年09月30日/MM1.5_Methods,_Analysis_&_Insights_from_Multimodal_LLM_Fine-tuning.md)
 
     - [翻译: MM1.5：多模态 LLM 微调的策略、分析与洞察](2024年09月30日/MM1.5_Methods,_Analysis_&_Insights_from_Multimodal_LLM_Fine-tuning.md)
@@ -134,10 +118,6 @@
 
     - [翻译: 旋转运行时平滑：无需训练的激活平滑技术，助力精准 INT4 推理](2024年09月30日/Rotated_Runtime_Smooth_Training-Free_Activation_Smoother_for_accurate_INT4_inference.md)
 
-- [The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems](2024年09月30日/The_Early_Bird_Catches_the_Leak_Unveiling_Timing_Side_Channels_in_LLM_Serving_Systems.md)
-
-    - [翻译: 早起的鸟儿捉到漏洞：揭秘 LLM 服务系统中的时间侧通道](2024年09月30日/The_Early_Bird_Catches_the_Leak_Unveiling_Timing_Side_Channels_in_LLM_Serving_Systems.md)
-
 - [The Perfect Blend: Redefining RLHF with Mixture of Judges](2024年09月30日/The_Perfect_Blend_Redefining_RLHF_with_Mixture_of_Judges.md)
 
     - [翻译: 完美融合：以多元评委视角重塑 RLHF](2024年09月30日/The_Perfect_Blend_Redefining_RLHF_with_Mixture_of_Judges.md)
@@ -149,10 +129,6 @@
 - [VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs](2024年09月30日/VideoINSTA_Zero-shot_Long_Video_Understanding_via_Informative_Spatial-Temporal_Reasoning_with_LLMs.md)
 
     - [翻译: VideoINSTA：借助 LLM 的时空推理能力，实现零-shot 长视频理解](2024年09月30日/VideoINSTA_Zero-shot_Long_Video_Understanding_via_Informative_Spatial-Temporal_Reasoning_with_LLMs.md)
-
-- [Visual Context Window Extension: A New Perspective for Long Video Understanding](2024年09月30日/Visual_Context_Window_Extension_A_New_Perspective_for_Long_Video_Understanding.md)
-
-    - [翻译: 视觉上下文窗口扩展：探索长视频理解的新途径](2024年09月30日/Visual_Context_Window_Extension_A_New_Perspective_for_Long_Video_Understanding.md)
 
 - [VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection](2024年09月30日/VMAD_Visual-enhanced_Multimodal_Large_Language_Model_for_Zero-Shot_Anomaly_Detection.md)
 
