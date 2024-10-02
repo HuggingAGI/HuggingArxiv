@@ -50,10 +50,6 @@
 
     - [翻译: 深入探讨基础模型的性能建模与系统设计](2024年09月30日/Comprehensive_Performance_Modeling_and_System_Design_Insights_for_Foundation_Models.md)
 
-- [Do Influence Functions Work on Large Language Models?](2024年09月30日/Do_Influence_Functions_Work_on_Large_Language_Models.md)
-
-    - [翻译: 大语言模型上，影响函数还管用吗？](2024年09月30日/Do_Influence_Functions_Work_on_Large_Language_Models.md)
-
 - [DoPAMine: Domain-specific Pre-training Adaptation from seed-guided data Mining](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
 
     - [翻译: DoPAMine：基于种子数据引导的领域特定预训练适应](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
@@ -82,10 +78,6 @@
 
     - [翻译: 投资领域中的分层组织模拟](2024年09月30日/Hierarchical_Organization_Simulacra_in_the_Investment_Sector.md)
 
-- [How Entangled is Factuality and Deception in German?](2024年09月30日/How_Entangled_is_Factuality_and_Deception_in_German.md)
-
-    - [翻译: 德语中的事实与欺骗，究竟有多紧密相连？](2024年09月30日/How_Entangled_is_Factuality_and_Deception_in_German.md)
-
 - [Insight: A Multi-Modal Diagnostic Pipeline using LLMs for Ocular Surface Disease Diagnosis](2024年09月30日/Insight_A_Multi-Modal_Diagnostic_Pipeline_using_LLMs_for_Ocular_Surface_Disease_Diagnosis.md)
 
     - [翻译: Insight：基于 LLM 的眼表疾病多模态诊断流程](2024年09月30日/Insight_A_Multi-Modal_Diagnostic_Pipeline_using_LLMs_for_Ocular_Surface_Disease_Diagnosis.md)
@@ -105,10 +97,6 @@
 - [Is Preference Alignment Always the Best Option to Enhance LLM-Based Translation? An Empirical Analysis](2024年09月30日/Is_Preference_Alignment_Always_the_Best_Option_to_Enhance_LLM-Based_Translation_An_Empirical_Analysis.md)
 
     - [翻译: 偏好对齐是否总能提升基于 LLM 的翻译效果？一项实证研究揭示真相。](2024年09月30日/Is_Preference_Alignment_Always_the_Best_Option_to_Enhance_LLM-Based_Translation_An_Empirical_Analysis.md)
-
-- [Law of the Weakest Link: Cross Capabilities of Large Language Models](2024年09月30日/Law_of_the_Weakest_Link_Cross_Capabilities_of_Large_Language_Models.md)
-
-    - [翻译: 最弱环节法则：探究大型语言模型的跨领域能力](2024年09月30日/Law_of_the_Weakest_Link_Cross_Capabilities_of_Large_Language_Models.md)
 
 - [LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation](2024年09月30日/LLM_Hallucinations_in_Practical_Code_Generation_Phenomena,_Mechanism,_and_Mitigation.md)
 
@@ -133,10 +121,6 @@
 - [Probing Mechanical Reasoning in Large Vision Language Models](2024年09月30日/Probing_Mechanical_Reasoning_in_Large_Vision_Language_Models.md)
 
     - [翻译: 探究大型视觉语言模型中的机械推理能力](2024年09月30日/Probing_Mechanical_Reasoning_in_Large_Vision_Language_Models.md)
-
-- [Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning](2024年09月30日/Robin3D_Improving_3D_Large_Language_Model_via_Robust_Instruction_Tuning.md)
-
-    - [翻译: Robin3D：通过强化指令调优提升 3D 大型语言模型的性能](2024年09月30日/Robin3D_Improving_3D_Large_Language_Model_via_Robust_Instruction_Tuning.md)
 
 - [Robust LLM safeguarding via refusal feature adversarial training](2024年09月30日/Robust_LLM_safeguarding_via_refusal_feature_adversarial_training.md)
 
