@@ -2,17 +2,9 @@
 
 2024年10月01日
 
-- [Addition is All You Need for Energy-efficient Language Models](2024年10月01日/Addition_is_All_You_Need_for_Energy-efficient_Language_Models.md)
-
-    - [翻译: 加法，高效语言模型的关键](2024年10月01日/Addition_is_All_You_Need_for_Energy-efficient_Language_Models.md)
-
 - [Adversarial Suffixes May Be Features Too!](2024年10月01日/Adversarial_Suffixes_May_Be_Features_Too!.md)
 
     - [翻译: 对抗性后缀，或许也是特征之一！](2024年10月01日/Adversarial_Suffixes_May_Be_Features_Too!.md)
-
-- [A generative framework to bridge data-driven models and scientific theories in language neuroscience](2024年10月01日/A_generative_framework_to_bridge_data-driven_models_and_scientific_theories_in_language_neuroscience.md)
-
-    - [翻译: 一个生成框架，旨在融合语言神经科学中的数据驱动模型与科学理论](2024年10月01日/A_generative_framework_to_bridge_data-driven_models_and_scientific_theories_in_language_neuroscience.md)
 
 - [Aligning Human and LLM Judgments: Insights from EvalAssist on Task-Specific Evaluations and AI-assisted Assessment Strategy Preferences](2024年10月01日/Aligning_Human_and_LLM_Judgments_Insights_from_EvalAssist_on_Task-Specific_Evaluations_and_AI-assisted_Assessment_Strategy_Preferences.md)
 
@@ -41,10 +33,6 @@
 - [Boosting the Capabilities of Compact Models in Low-Data Contexts with Large Language Models and Retrieval-Augmented Generation](2024年10月01日/Boosting_the_Capabilities_of_Compact_Models_in_Low-Data_Contexts_with_Large_Language_Models_and_Retrieval-Augmented_Generation.md)
 
     - [翻译: 在数据稀缺的情况下，借助大型语言模型和检索增强生成技术，提升紧凑型模型的性能。](2024年10月01日/Boosting_the_Capabilities_of_Compact_Models_in_Low-Data_Contexts_with_Large_Language_Models_and_Retrieval-Augmented_Generation.md)
-
-- [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](2024年10月01日/Causal_Representation_Learning_with_Generative_Artificial_Intelligence_Application_to_Texts_as_Treatments.md)
-
-    - [翻译: 因果表示学习结合生成式人工智能：探索文本作为治疗的应用](2024年10月01日/Causal_Representation_Learning_with_Generative_Artificial_Intelligence_Application_to_Texts_as_Treatments.md)
 
 - [CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset](2024年10月01日/CXPMRG-Bench_Pre-training_and_Benchmarking_for_X-ray_Medical_Report_Generation_on_CheXpert_Plus_Dataset.md)
 
@@ -78,10 +66,6 @@
 
     - [翻译: FlipGuard：利用约束优化技术，有效抵御偏好对齐中的更新回归问题。](2024年10月01日/FlipGuard_Defending_Preference_Alignment_against_Update_Regression_with_Constrained_Optimization.md)
 
-- [Generative AI and Perceptual Harms: Who's Suspected of using LLMs?](2024年10月01日/Generative_AI_and_Perceptual_Harms_Who's_Suspected_of_using_LLMs.md)
-
-    - [翻译: 生成式 AI 与感知伤害：谁在使用 LLM 上受到质疑？](2024年10月01日/Generative_AI_and_Perceptual_Harms_Who's_Suspected_of_using_LLMs.md)
-
 - [Investigating the Impact of Model Complexity in Large Language Models](2024年10月01日/Investigating_the_Impact_of_Model_Complexity_in_Large_Language_Models.md)
 
     - [翻译: 探究大型语言模型中模型复杂性的影响](2024年10月01日/Investigating_the_Impact_of_Model_Complexity_in_Large_Language_Models.md)
@@ -109,14 +93,6 @@
 - [Style-Specific Neurons for Steering LLMs in Text Style Transfer](2024年10月01日/Style-Specific_Neurons_for_Steering_LLMs_in_Text_Style_Transfer.md)
 
     - [翻译: 通过特定风格的神经元，我们能够引导 LLM 在文本风格转换中更加精准。](2024年10月01日/Style-Specific_Neurons_for_Steering_LLMs_in_Text_Style_Transfer.md)
-
-- [Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting](2024年10月01日/Thinking_Outside_of_the_Differential_Privacy_Box_A_Case_Study_in_Text_Privatization_with_Language_Model_Prompting.md)
-
-    - [翻译: 突破差分隐私的界限：通过语言模型提示实现文本隐私化的案例研究](2024年10月01日/Thinking_Outside_of_the_Differential_Privacy_Box_A_Case_Study_in_Text_Privatization_with_Language_Model_Prompting.md)
-
-- [Uncertainty-aware Reward Model: Teaching Reward Models to Know What is Unknown](2024年10月01日/Uncertainty-aware_Reward_Model_Teaching_Reward_Models_to_Know_What_is_Unknown.md)
-
-    - [翻译: 不确定性感知奖励模型：让奖励模型学会识别未知](2024年10月01日/Uncertainty-aware_Reward_Model_Teaching_Reward_Models_to_Know_What_is_Unknown.md)
 
 - [UniAdapt: A Universal Adapter for Knowledge Calibration](2024年10月01日/UniAdapt_A_Universal_Adapter_for_Knowledge_Calibration.md)
 
