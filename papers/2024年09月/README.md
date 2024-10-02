@@ -2,14 +2,6 @@
 
 2024年09月30日
 
-- [ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer](2024年09月30日/ACE_All-round_Creator_and_Editor_Following_Instructions_via_Diffusion_Transformer.md)
-
-    - [翻译: ACE：一款全能的创造与编辑工具，通过扩散变换器精准执行指令。](2024年09月30日/ACE_All-round_Creator_and_Editor_Following_Instructions_via_Diffusion_Transformer.md)
-
-- [Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation](2024年09月30日/Adapting_LLMs_for_the_Medical_Domain_in_Portuguese_A_Study_on_Fine-Tuning_and_Model_Evaluation.md)
-
-    - [翻译: 在葡萄牙语医疗领域中，如何微调大型语言模型 (LLM) 并进行有效评估，是一项值得深入探讨的研究。](2024年09月30日/Adapting_LLMs_for_the_Medical_Domain_in_Portuguese_A_Study_on_Fine-Tuning_and_Model_Evaluation.md)
-
 - [AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation](2024年09月30日/AHA_A_Vision-Language-Model_for_Detecting_and_Reasoning_Over_Failures_in_Robotic_Manipulation.md)
 
     - [翻译: AHA：一款专为机器人操作故障检测与推理而设计的视觉-语言模型](2024年09月30日/AHA_A_Vision-Language-Model_for_Detecting_and_Reasoning_Over_Failures_in_Robotic_Manipulation.md)
@@ -34,10 +26,6 @@
 
     - [翻译: FedPT：在资源有限的边缘设备上，对大型语言模型进行联邦代理微调](2024年09月30日/FedPT_Federated_Proxy-Tuning_of_Large_Language_Models_on_Resource-Constrained_Edge_Devices.md)
 
-- [Hierarchical Organization Simulacra in the Investment Sector](2024年09月30日/Hierarchical_Organization_Simulacra_in_the_Investment_Sector.md)
-
-    - [翻译: 投资领域中的分层组织模拟](2024年09月30日/Hierarchical_Organization_Simulacra_in_the_Investment_Sector.md)
-
 - [Insight: A Multi-Modal Diagnostic Pipeline using LLMs for Ocular Surface Disease Diagnosis](2024年09月30日/Insight_A_Multi-Modal_Diagnostic_Pipeline_using_LLMs_for_Ocular_Surface_Disease_Diagnosis.md)
 
     - [翻译: Insight：基于 LLM 的眼表疾病多模态诊断流程](2024年09月30日/Insight_A_Multi-Modal_Diagnostic_Pipeline_using_LLMs_for_Ocular_Surface_Disease_Diagnosis.md)
@@ -58,14 +46,6 @@
 
     - [翻译: PclGPT：专为检测居高临下与傲慢言辞而设计的大型语言模型](2024年09月30日/PclGPT_A_Large_Language_Model_for_Patronizing_and_Condescending_Language_Detection.md)
 
-- [Preserving Generalization of Language models in Few-shot Continual Relation Extraction](2024年09月30日/Preserving_Generalization_of_Language_models_in_Few-shot_Continual_Relation_Extraction.md)
-
-    - [翻译: 少样本持续关系提取中，如何保持语言模型的泛化能力？](2024年09月30日/Preserving_Generalization_of_Language_models_in_Few-shot_Continual_Relation_Extraction.md)
-
-- [Probing Mechanical Reasoning in Large Vision Language Models](2024年09月30日/Probing_Mechanical_Reasoning_in_Large_Vision_Language_Models.md)
-
-    - [翻译: 探究大型视觉语言模型中的机械推理能力](2024年09月30日/Probing_Mechanical_Reasoning_in_Large_Vision_Language_Models.md)
-
 - [Robust LLM safeguarding via refusal feature adversarial training](2024年09月30日/Robust_LLM_safeguarding_via_refusal_feature_adversarial_training.md)
 
     - [翻译: 通过拒绝功能对抗训练，实现 LLM 的稳健保护](2024年09月30日/Robust_LLM_safeguarding_via_refusal_feature_adversarial_training.md)
@@ -73,10 +53,6 @@
 - [Self-controller: Controlling LLMs with Multi-round Step-by-step Self-awareness](2024年09月30日/Self-controller_Controlling_LLMs_with_Multi-round_Step-by-step_Self-awareness.md)
 
     - [翻译: 自我控制器：借助多轮逐步自我意识，驾驭大型语言模型](2024年09月30日/Self-controller_Controlling_LLMs_with_Multi-round_Step-by-step_Self-awareness.md)
-
-- [Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models](2024年09月30日/Uncertainty-Informed_Screening_for_Safer_Solvents_Used_in_the_Synthesis_of_Perovskite_via_Language_Models.md)
-
-    - [翻译: 利用语言模型，我们进行不确定性引导的筛选，以寻找合成钙钛矿时更安全的溶剂。](2024年09月30日/Uncertainty-Informed_Screening_for_Safer_Solvents_Used_in_the_Synthesis_of_Perovskite_via_Language_Models.md)
 
 - [Unleashing the Potentials of Likelihood Composition for Multi-modal Language Models](2024年09月30日/Unleashing_the_Potentials_of_Likelihood_Composition_for_Multi-modal_Language_Models.md)
 
