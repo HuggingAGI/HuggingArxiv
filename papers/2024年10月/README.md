@@ -18,14 +18,6 @@
 
     - [翻译: 语言模型能够“按需遗忘”：在需要时提供答案，在不需要时通过上下文知识遗忘来假装遗忘。](2024年10月01日/Answer_When_Needed,_Forget_When_Not_Language_Models_Pretend_to_Forget_via_In-Context_Knowledge_Unlearning.md)
 
-- [Are LLMs Aware that Some Questions are not Open-ended?](2024年10月01日/Are_LLMs_Aware_that_Some_Questions_are_not_Open-ended.md)
-
-    - [翻译: 大型语言模型是否能识别出某些问题并非开放性问题？](2024年10月01日/Are_LLMs_Aware_that_Some_Questions_are_not_Open-ended.md)
-
-- [BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data](2024年10月01日/BabelBench_An_Omni_Benchmark_for_Code-Driven_Analysis_of_Multimodal_and_Multistructured_Data.md)
-
-    - [翻译: BabelBench：一个专为代码驱动、多模态与多结构化数据分析而设计的全能基准](2024年10月01日/BabelBench_An_Omni_Benchmark_for_Code-Driven_Analysis_of_Multimodal_and_Multistructured_Data.md)
-
 - [Benchmarking Large Language Models for Conversational Question Answering in Multi-instructional Documents](2024年10月01日/Benchmarking_Large_Language_Models_for_Conversational_Question_Answering_in_Multi-instructional_Documents.md)
 
     - [翻译: 大型语言模型在多指令文档中的对话问答基准测试](2024年10月01日/Benchmarking_Large_Language_Models_for_Conversational_Question_Answering_in_Multi-instructional_Documents.md)
@@ -34,10 +26,6 @@
 
     - [翻译: 在数据稀缺的情况下，借助大型语言模型和检索增强生成技术，提升紧凑型模型的性能。](2024年10月01日/Boosting_the_Capabilities_of_Compact_Models_in_Low-Data_Contexts_with_Large_Language_Models_and_Retrieval-Augmented_Generation.md)
 
-- [CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset](2024年10月01日/CXPMRG-Bench_Pre-training_and_Benchmarking_for_X-ray_Medical_Report_Generation_on_CheXpert_Plus_Dataset.md)
-
-    - [翻译: CXPMRG-Bench：基于 CheXpert Plus 数据集，为 X 射线医学报告生成提供预训练与基准测试](2024年10月01日/CXPMRG-Bench_Pre-training_and_Benchmarking_for_X-ray_Medical_Report_Generation_on_CheXpert_Plus_Dataset.md)
-
 - [Deceptive Risks in LLM-enhanced Robots](2024年10月01日/Deceptive_Risks_in_LLM-enhanced_Robots.md)
 
     - [翻译: LLM 增强型机器人面临欺骗风险](2024年10月01日/Deceptive_Risks_in_LLM-enhanced_Robots.md)
@@ -45,18 +33,6 @@
 - [Decoding Hate: Exploring Language Models' Reactions to Hate Speech](2024年10月01日/Decoding_Hate_Exploring_Language_Models'_Reactions_to_Hate_Speech.md)
 
     - [翻译: 解码仇恨：探究语言模型如何应对仇恨言论](2024年10月01日/Decoding_Hate_Exploring_Language_Models'_Reactions_to_Hate_Speech.md)
-
-- [Detección Automática de Patologías en Notas Clínicas en Español Combinando Modelos de Lenguaje y Ontologías Médicos](2024年10月01日/Detección_Automática_de_Patologías_en_Notas_Clínicas_en_Español_Combinando_Modelos_de_Lenguaje_y_Ontologías_Médicos.md)
-
-    - [翻译: 结合语言模型与医学本体，实现西班牙语临床笔记中的病理自动检测](2024年10月01日/Detección_Automática_de_Patologías_en_Notas_Clínicas_en_Español_Combinando_Modelos_de_Lenguaje_y_Ontologías_Médicos.md)
-
-- [Differentially Private Active Learning: Balancing Effective Data Selection and Privacy](2024年10月01日/Differentially_Private_Active_Learning_Balancing_Effective_Data_Selection_and_Privacy.md)
-
-    - [翻译: 差异隐私主动学习：在有效数据选择与隐私保护之间找到平衡](2024年10月01日/Differentially_Private_Active_Learning_Balancing_Effective_Data_Selection_and_Privacy.md)
-
-- [Dynamic Planning for LLM-based Graphical User Interface Automation](2024年10月01日/Dynamic_Planning_for_LLM-based_Graphical_User_Interface_Automation.md)
-
-    - [翻译: LLM 图形用户界面自动化的动态规划](2024年10月01日/Dynamic_Planning_for_LLM-based_Graphical_User_Interface_Automation.md)
 
 - [Empowering Large Language Model for Continual Video Question Answering with Collaborative Prompting](2024年10月01日/Empowering_Large_Language_Model_for_Continual_Video_Question_Answering_with_Collaborative_Prompting.md)
 
