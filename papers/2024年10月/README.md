@@ -14,21 +14,9 @@
 
     - [翻译: 一个生成框架，旨在融合语言神经科学中的数据驱动模型与科学理论](2024年10月01日/A_generative_framework_to_bridge_data-driven_models_and_scientific_theories_in_language_neuroscience.md)
 
-- [A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning](2024年10月01日/A_Hitchhikers_Guide_to_Fine-Grained_Face_Forgery_Detection_Using_Common_Sense_Reasoning.md)
-
-    - [翻译: 细粒度人脸伪造检测：常识推理的实用指南](2024年10月01日/A_Hitchhikers_Guide_to_Fine-Grained_Face_Forgery_Detection_Using_Common_Sense_Reasoning.md)
-
 - [Aligning Human and LLM Judgments: Insights from EvalAssist on Task-Specific Evaluations and AI-assisted Assessment Strategy Preferences](2024年10月01日/Aligning_Human_and_LLM_Judgments_Insights_from_EvalAssist_on_Task-Specific_Evaluations_and_AI-assisted_Assessment_Strategy_Preferences.md)
 
     - [翻译: 协调人类与 LLM 的判断：EvalAssist 在任务特定评估及 AI 辅助评估策略偏好方面的洞察](2024年10月01日/Aligning_Human_and_LLM_Judgments_Insights_from_EvalAssist_on_Task-Specific_Evaluations_and_AI-assisted_Assessment_Strategy_Preferences.md)
-
-- [AlignSum: Data Pyramid Hierarchical Fine-tuning for Aligning with Human Summarization Preference](2024年10月01日/AlignSum_Data_Pyramid_Hierarchical_Fine-tuning_for_Aligning_with_Human_Summarization_Preference.md)
-
-    - [翻译: AlignSum：通过数据金字塔层次微调，精准对齐人类摘要偏好](2024年10月01日/AlignSum_Data_Pyramid_Hierarchical_Fine-tuning_for_Aligning_with_Human_Summarization_Preference.md)
-
-- [AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation](2024年10月01日/AMR-Evol_Adaptive_Modular_Response_Evolution_Elicits_Better_Knowledge_Distillation_for_Large_Language_Models_in_Code_Generation.md)
-
-    - [翻译: AMR-Evol：通过自适应模块化响应进化，为大型语言模型在代码生成中实现更优的知识蒸馏。](2024年10月01日/AMR-Evol_Adaptive_Modular_Response_Evolution_Elicits_Better_Knowledge_Distillation_for_Large_Language_Models_in_Code_Generation.md)
 
 - [An Empirical Study of Large Language Models for Type and Call Graph Analysis](2024年10月01日/An_Empirical_Study_of_Large_Language_Models_for_Type_and_Call_Graph_Analysis.md)
 
@@ -82,10 +70,6 @@
 
     - [翻译: LLM 图形用户界面自动化的动态规划](2024年10月01日/Dynamic_Planning_for_LLM-based_Graphical_User_Interface_Automation.md)
 
-- [Efficient Technical Term Translation: A Knowledge Distillation Approach for Parenthetical Terminology Translation](2024年10月01日/Efficient_Technical_Term_Translation_A_Knowledge_Distillation_Approach_for_Parenthetical_Terminology_Translation.md)
-
-    - [翻译: 技术术语翻译高效之道：括号术语翻译的知识蒸馏法](2024年10月01日/Efficient_Technical_Term_Translation_A_Knowledge_Distillation_Approach_for_Parenthetical_Terminology_Translation.md)
-
 - [Empowering Large Language Model for Continual Video Question Answering with Collaborative Prompting](2024年10月01日/Empowering_Large_Language_Model_for_Continual_Video_Question_Answering_with_Collaborative_Prompting.md)
 
     - [翻译: 通过协作提示，赋能大型语言模型实现持续视频问答](2024年10月01日/Empowering_Large_Language_Model_for_Continual_Video_Question_Answering_with_Collaborative_Prompting.md)
@@ -105,10 +89,6 @@
 - [LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management](2024年10月01日/LayerKV_Optimizing_Large_Language_Model_Serving_with_Layer-wise_KV_Cache_Management.md)
 
     - [翻译: LayerKV：通过逐层 KV 缓存管理，优化大型语言模型的服务性能。](2024年10月01日/LayerKV_Optimizing_Large_Language_Model_Serving_with_Layer-wise_KV_Cache_Management.md)
-
-- [Optimizing Token Usage on Large Language Model Conversations Using the Design Structure Matrix](2024年10月01日/Optimizing_Token_Usage_on_Large_Language_Model_Conversations_Using_the_Design_Structure_Matrix.md)
-
-    - [翻译: 通过设计结构矩阵优化大型语言模型对话中的令牌使用](2024年10月01日/Optimizing_Token_Usage_on_Large_Language_Model_Conversations_Using_the_Design_Structure_Matrix.md)
 
 - [Quantifying reliance on external information over parametric knowledge during Retrieval Augmented Generation (RAG) using mechanistic analysis](2024年10月01日/Quantifying_reliance_on_external_information_over_parametric_knowledge_during_Retrieval_Augmented_Generation_(RAG)_using_mechanistic_analysis.md)
 
@@ -149,7 +129,3 @@
 - [VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models](2024年10月01日/VideoCLIP-XL_Advancing_Long_Description_Understanding_for_Video_CLIP_Models.md)
 
     - [翻译: VideoCLIP-XL：提升视频 CLIP 模型对长描述的理解能力](2024年10月01日/VideoCLIP-XL_Advancing_Long_Description_Understanding_for_Video_CLIP_Models.md)
-
-- [Wanna Hear Your Voice: Adaptive, Effective, and Language-Agnostic Approach in Voice Extraction](2024年10月01日/Wanna_Hear_Your_Voice_Adaptive,_Effective,_and_Language-Agnostic_Approach_in_Voice_Extraction.md)
-
-    - [翻译: 倾听你的声音：一种自适应、高效且与语言无关的语音提取方法](2024年10月01日/Wanna_Hear_Your_Voice_Adaptive,_Effective,_and_Language-Agnostic_Approach_in_Voice_Extraction.md)
