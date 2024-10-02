@@ -173,15 +173,3 @@
 - [What is the Role of Large Language Models in the Evolution of Astronomy Research?](2024年09月30日/What_is_the_Role_of_Large_Language_Models_in_the_Evolution_of_Astronomy_Research.md)
 
     - [翻译: 大型语言模型在天文学研究进化中扮演何种角色？](2024年09月30日/What_is_the_Role_of_Large_Language_Models_in_the_Evolution_of_Astronomy_Research.md)
-
-2024年09月19日
-
-- [Strategic Collusion of LLM Agents: Market Division in Multi-Commodity Competitions](2024年09月19日/Strategic_Collusion_of_LLM_Agents_Market_Division_in_Multi-Commodity_Competitions.md)
-
-    - [翻译: LLM 代理间的战略勾结：多商品竞争中的市场划分策略](2024年09月19日/Strategic_Collusion_of_LLM_Agents_Market_Division_in_Multi-Commodity_Competitions.md)
-
-2024年09月12日
-
-- [Retro-li: Small-Scale Retrieval Augmented Generation Supporting Noisy Similarity Searches and Domain Shift Generalization](2024年09月12日/Retro-li_Small-Scale_Retrieval_Augmented_Generation_Supporting_Noisy_Similarity_Searches_and_Domain_Shift_Generalization.md)
-
-    - [翻译: Retro-li：小规模检索增强生成，支持噪声相似性搜索及领域转移泛化。](2024年09月12日/Retro-li_Small-Scale_Retrieval_Augmented_Generation_Supporting_Noisy_Similarity_Searches_and_Domain_Shift_Generalization.md)

@@ -10,9 +10,17 @@
 
     - [翻译: 对抗性后缀，或许也是特征之一！](2024年10月01日/Adversarial_Suffixes_May_Be_Features_Too!.md)
 
+- [A generative framework to bridge data-driven models and scientific theories in language neuroscience](2024年10月01日/A_generative_framework_to_bridge_data-driven_models_and_scientific_theories_in_language_neuroscience.md)
+
+    - [翻译: 一个生成框架，旨在融合语言神经科学中的数据驱动模型与科学理论](2024年10月01日/A_generative_framework_to_bridge_data-driven_models_and_scientific_theories_in_language_neuroscience.md)
+
 - [A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning](2024年10月01日/A_Hitchhikers_Guide_to_Fine-Grained_Face_Forgery_Detection_Using_Common_Sense_Reasoning.md)
 
     - [翻译: 细粒度人脸伪造检测：常识推理的实用指南](2024年10月01日/A_Hitchhikers_Guide_to_Fine-Grained_Face_Forgery_Detection_Using_Common_Sense_Reasoning.md)
+
+- [Aligning Human and LLM Judgments: Insights from EvalAssist on Task-Specific Evaluations and AI-assisted Assessment Strategy Preferences](2024年10月01日/Aligning_Human_and_LLM_Judgments_Insights_from_EvalAssist_on_Task-Specific_Evaluations_and_AI-assisted_Assessment_Strategy_Preferences.md)
+
+    - [翻译: 协调人类与 LLM 的判断：EvalAssist 在任务特定评估及 AI 辅助评估策略偏好方面的洞察](2024年10月01日/Aligning_Human_and_LLM_Judgments_Insights_from_EvalAssist_on_Task-Specific_Evaluations_and_AI-assisted_Assessment_Strategy_Preferences.md)
 
 - [AlignSum: Data Pyramid Hierarchical Fine-tuning for Aligning with Human Summarization Preference](2024年10月01日/AlignSum_Data_Pyramid_Hierarchical_Fine-tuning_for_Aligning_with_Human_Summarization_Preference.md)
 
@@ -34,6 +42,10 @@
 
     - [翻译: 大型语言模型是否能识别出某些问题并非开放性问题？](2024年10月01日/Are_LLMs_Aware_that_Some_Questions_are_not_Open-ended.md)
 
+- [BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data](2024年10月01日/BabelBench_An_Omni_Benchmark_for_Code-Driven_Analysis_of_Multimodal_and_Multistructured_Data.md)
+
+    - [翻译: BabelBench：一个专为代码驱动、多模态与多结构化数据分析而设计的全能基准](2024年10月01日/BabelBench_An_Omni_Benchmark_for_Code-Driven_Analysis_of_Multimodal_and_Multistructured_Data.md)
+
 - [Benchmarking Large Language Models for Conversational Question Answering in Multi-instructional Documents](2024年10月01日/Benchmarking_Large_Language_Models_for_Conversational_Question_Answering_in_Multi-instructional_Documents.md)
 
     - [翻译: 大型语言模型在多指令文档中的对话问答基准测试](2024年10月01日/Benchmarking_Large_Language_Models_for_Conversational_Question_Answering_in_Multi-instructional_Documents.md)
@@ -42,6 +54,10 @@
 
     - [翻译: 在数据稀缺的情况下，借助大型语言模型和检索增强生成技术，提升紧凑型模型的性能。](2024年10月01日/Boosting_the_Capabilities_of_Compact_Models_in_Low-Data_Contexts_with_Large_Language_Models_and_Retrieval-Augmented_Generation.md)
 
+- [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](2024年10月01日/Causal_Representation_Learning_with_Generative_Artificial_Intelligence_Application_to_Texts_as_Treatments.md)
+
+    - [翻译: 因果表示学习结合生成式人工智能：探索文本作为治疗的应用](2024年10月01日/Causal_Representation_Learning_with_Generative_Artificial_Intelligence_Application_to_Texts_as_Treatments.md)
+
 - [CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset](2024年10月01日/CXPMRG-Bench_Pre-training_and_Benchmarking_for_X-ray_Medical_Report_Generation_on_CheXpert_Plus_Dataset.md)
 
     - [翻译: CXPMRG-Bench：基于 CheXpert Plus 数据集，为 X 射线医学报告生成提供预训练与基准测试](2024年10月01日/CXPMRG-Bench_Pre-training_and_Benchmarking_for_X-ray_Medical_Report_Generation_on_CheXpert_Plus_Dataset.md)
@@ -49,6 +65,10 @@
 - [Deceptive Risks in LLM-enhanced Robots](2024年10月01日/Deceptive_Risks_in_LLM-enhanced_Robots.md)
 
     - [翻译: LLM 增强型机器人面临欺骗风险](2024年10月01日/Deceptive_Risks_in_LLM-enhanced_Robots.md)
+
+- [Decoding Hate: Exploring Language Models' Reactions to Hate Speech](2024年10月01日/Decoding_Hate_Exploring_Language_Models'_Reactions_to_Hate_Speech.md)
+
+    - [翻译: 解码仇恨：探究语言模型如何应对仇恨言论](2024年10月01日/Decoding_Hate_Exploring_Language_Models'_Reactions_to_Hate_Speech.md)
 
 - [Detección Automática de Patologías en Notas Clínicas en Español Combinando Modelos de Lenguaje y Ontologías Médicos](2024年10月01日/Detección_Automática_de_Patologías_en_Notas_Clínicas_en_Español_Combinando_Modelos_de_Lenguaje_y_Ontologías_Médicos.md)
 
@@ -78,6 +98,10 @@
 
     - [翻译: FlipGuard：利用约束优化技术，有效抵御偏好对齐中的更新回归问题。](2024年10月01日/FlipGuard_Defending_Preference_Alignment_against_Update_Regression_with_Constrained_Optimization.md)
 
+- [Generative AI and Perceptual Harms: Who's Suspected of using LLMs?](2024年10月01日/Generative_AI_and_Perceptual_Harms_Who's_Suspected_of_using_LLMs.md)
+
+    - [翻译: 生成式 AI 与感知伤害：谁在使用 LLM 上受到质疑？](2024年10月01日/Generative_AI_and_Perceptual_Harms_Who's_Suspected_of_using_LLMs.md)
+
 - [Investigating the Impact of Model Complexity in Large Language Models](2024年10月01日/Investigating_the_Impact_of_Model_Complexity_in_Large_Language_Models.md)
 
     - [翻译: 探究大型语言模型中模型复杂性的影响](2024年10月01日/Investigating_the_Impact_of_Model_Complexity_in_Large_Language_Models.md)
@@ -89,6 +113,10 @@
 - [Optimizing Token Usage on Large Language Model Conversations Using the Design Structure Matrix](2024年10月01日/Optimizing_Token_Usage_on_Large_Language_Model_Conversations_Using_the_Design_Structure_Matrix.md)
 
     - [翻译: 通过设计结构矩阵优化大型语言模型对话中的令牌使用](2024年10月01日/Optimizing_Token_Usage_on_Large_Language_Model_Conversations_Using_the_Design_Structure_Matrix.md)
+
+- [Quantifying reliance on external information over parametric knowledge during Retrieval Augmented Generation (RAG) using mechanistic analysis](2024年10月01日/Quantifying_reliance_on_external_information_over_parametric_knowledge_during_Retrieval_Augmented_Generation_(RAG)_using_mechanistic_analysis.md)
+
+    - [翻译: 在 RAG 过程中，通过机械分析量化对外部信息的依赖，超越了对参数化知识的依赖。](2024年10月01日/Quantifying_reliance_on_external_information_over_parametric_knowledge_during_Retrieval_Augmented_Generation_(RAG)_using_mechanistic_analysis.md)
 
 - [ReXplain: Translating Radiology into Patient-Friendly Video Reports](2024年10月01日/ReXplain_Translating_Radiology_into_Patient-Friendly_Video_Reports.md)
 
@@ -117,6 +145,10 @@
 - [Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting](2024年10月01日/Thinking_Outside_of_the_Differential_Privacy_Box_A_Case_Study_in_Text_Privatization_with_Language_Model_Prompting.md)
 
     - [翻译: 突破差分隐私的界限：通过语言模型提示实现文本隐私化的案例研究](2024年10月01日/Thinking_Outside_of_the_Differential_Privacy_Box_A_Case_Study_in_Text_Privatization_with_Language_Model_Prompting.md)
+
+- [Uncertainty-aware Reward Model: Teaching Reward Models to Know What is Unknown](2024年10月01日/Uncertainty-aware_Reward_Model_Teaching_Reward_Models_to_Know_What_is_Unknown.md)
+
+    - [翻译: 不确定性感知奖励模型：让奖励模型学会识别未知](2024年10月01日/Uncertainty-aware_Reward_Model_Teaching_Reward_Models_to_Know_What_is_Unknown.md)
 
 - [UniAdapt: A Universal Adapter for Knowledge Calibration](2024年10月01日/UniAdapt_A_Universal_Adapter_for_Knowledge_Calibration.md)
 
