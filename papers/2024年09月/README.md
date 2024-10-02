@@ -2,14 +2,6 @@
 
 2024年09月30日
 
-- [AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation](2024年09月30日/AHA_A_Vision-Language-Model_for_Detecting_and_Reasoning_Over_Failures_in_Robotic_Manipulation.md)
-
-    - [翻译: AHA：一款专为机器人操作故障检测与推理而设计的视觉-语言模型](2024年09月30日/AHA_A_Vision-Language-Model_for_Detecting_and_Reasoning_Over_Failures_in_Robotic_Manipulation.md)
-
-- [A Methodology for Explainable Large Language Models with Integrated Gradients and Linguistic Analysis in Text Classification](2024年09月30日/A_Methodology_for_Explainable_Large_Language_Models_with_Integrated_Gradients_and_Linguistic_Analysis_in_Text_Classification.md)
-
-    - [翻译: 本文提出了一种结合集成梯度和语言分析的可解释大型语言模型方法论，专注于文本分类任务。](2024年09月30日/A_Methodology_for_Explainable_Large_Language_Models_with_Integrated_Gradients_and_Linguistic_Analysis_in_Text_Classification.md)
-
 - [Ask, Pose, Unite: Scaling Data Acquisition for Close Interactions with Vision Language Models](2024年09月30日/Ask,_Pose,_Unite_Scaling_Data_Acquisition_for_Close_Interactions_with_Vision_Language_Models.md)
 
     - [翻译: 问、提、合：扩展与视觉语言模型互动的数据收集](2024年09月30日/Ask,_Pose,_Unite_Scaling_Data_Acquisition_for_Close_Interactions_with_Vision_Language_Models.md)
@@ -21,19 +13,3 @@
 - [DoPAMine: Domain-specific Pre-training Adaptation from seed-guided data Mining](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
 
     - [翻译: DoPAMine：基于种子数据引导的领域特定预训练适应](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
-
-- [FedPT: Federated Proxy-Tuning of Large Language Models on Resource-Constrained Edge Devices](2024年09月30日/FedPT_Federated_Proxy-Tuning_of_Large_Language_Models_on_Resource-Constrained_Edge_Devices.md)
-
-    - [翻译: FedPT：在资源有限的边缘设备上，对大型语言模型进行联邦代理微调](2024年09月30日/FedPT_Federated_Proxy-Tuning_of_Large_Language_Models_on_Resource-Constrained_Edge_Devices.md)
-
-- [Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface](2024年09月30日/Interactive_Speculative_Planning_Enhance_Agent_Efficiency_through_Co-design_of_System_and_User_Interface.md)
-
-    - [翻译: 交互式推测性规划：通过协同设计系统和用户界面，提升代理效率](2024年09月30日/Interactive_Speculative_Planning_Enhance_Agent_Efficiency_through_Co-design_of_System_and_User_Interface.md)
-
-- [Robust LLM safeguarding via refusal feature adversarial training](2024年09月30日/Robust_LLM_safeguarding_via_refusal_feature_adversarial_training.md)
-
-    - [翻译: 通过拒绝功能对抗训练，实现 LLM 的稳健保护](2024年09月30日/Robust_LLM_safeguarding_via_refusal_feature_adversarial_training.md)
-
-- [VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data](2024年09月30日/VLMGuard_Defending_VLMs_against_Malicious_Prompts_via_Unlabeled_Data.md)
-
-    - [翻译: VLMGuard：利用未标记数据保护 VLMs 免受恶意提示的攻击](2024年09月30日/VLMGuard_Defending_VLMs_against_Malicious_Prompts_via_Unlabeled_Data.md)
