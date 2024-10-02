@@ -1,5 +1,5 @@
 # 在资源有限的环境中，实现高效的领域内问答
-发布时间：2024年09月26日
+发布时间：2024年09月30日
 
 `RAG`
 > Efficient In-Domain Question Answering for Resource-Constrained Environments
