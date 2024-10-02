@@ -2,7 +2,7 @@
 
 发布时间：2024年09月30日
 
-`Agent` `人工智能` `机器人`
+`Agent` `人工智能` `游戏开发`
 
 > Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning
 
