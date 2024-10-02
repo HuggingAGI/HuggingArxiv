@@ -82,10 +82,6 @@
 
     - [翻译: LLM 图形用户界面自动化的动态规划](2024年10月01日/Dynamic_Planning_for_LLM-based_Graphical_User_Interface_Automation.md)
 
-- [DynEx: Dynamic Code Synthesis with Structured Design Exploration for Accelerated Exploratory Programming](2024年10月01日/DynEx_Dynamic_Code_Synthesis_with_Structured_Design_Exploration_for_Accelerated_Exploratory_Programming.md)
-
-    - [翻译: DynEx：通过结构化设计探索实现动态代码合成，加速探索性编程的开发。](2024年10月01日/DynEx_Dynamic_Code_Synthesis_with_Structured_Design_Exploration_for_Accelerated_Exploratory_Programming.md)
-
 - [Efficient Technical Term Translation: A Knowledge Distillation Approach for Parenthetical Terminology Translation](2024年10月01日/Efficient_Technical_Term_Translation_A_Knowledge_Distillation_Approach_for_Parenthetical_Terminology_Translation.md)
 
     - [翻译: 技术术语翻译高效之道：括号术语翻译的知识蒸馏法](2024年10月01日/Efficient_Technical_Term_Translation_A_Knowledge_Distillation_Approach_for_Parenthetical_Terminology_Translation.md)
@@ -118,10 +114,6 @@
 
     - [翻译: 在 RAG 过程中，通过机械分析量化对外部信息的依赖，超越了对参数化知识的依赖。](2024年10月01日/Quantifying_reliance_on_external_information_over_parametric_knowledge_during_Retrieval_Augmented_Generation_(RAG)_using_mechanistic_analysis.md)
 
-- [ReXplain: Translating Radiology into Patient-Friendly Video Reports](2024年10月01日/ReXplain_Translating_Radiology_into_Patient-Friendly_Video_Reports.md)
-
-    - [翻译: ReXplain：将复杂的放射学报告转化为患者易于理解的视频形式。](2024年10月01日/ReXplain_Translating_Radiology_into_Patient-Friendly_Video_Reports.md)
-
 - [Self-Updatable Large Language Models with Parameter Integration](2024年10月01日/Self-Updatable_Large_Language_Models_with_Parameter_Integration.md)
 
     - [翻译: 自更新大型语言模型，通过参数集成实现持续进化](2024年10月01日/Self-Updatable_Large_Language_Models_with_Parameter_Integration.md)
@@ -137,10 +129,6 @@
 - [Style-Specific Neurons for Steering LLMs in Text Style Transfer](2024年10月01日/Style-Specific_Neurons_for_Steering_LLMs_in_Text_Style_Transfer.md)
 
     - [翻译: 通过特定风格的神经元，我们能够引导 LLM 在文本风格转换中更加精准。](2024年10月01日/Style-Specific_Neurons_for_Steering_LLMs_in_Text_Style_Transfer.md)
-
-- [Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations](2024年10月01日/Task_Success_Prediction_for_Open-Vocabulary_Manipulation_Based_on_Multi-Level_Aligned_Representations.md)
-
-    - [翻译: 开放词汇操作任务的成功预测，依赖于多层次对齐表示的精准分析。](2024年10月01日/Task_Success_Prediction_for_Open-Vocabulary_Manipulation_Based_on_Multi-Level_Aligned_Representations.md)
 
 - [Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting](2024年10月01日/Thinking_Outside_of_the_Differential_Privacy_Box_A_Case_Study_in_Text_Privatization_with_Language_Model_Prompting.md)
 
