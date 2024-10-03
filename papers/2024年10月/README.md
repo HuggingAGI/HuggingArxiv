@@ -26,17 +26,9 @@
 
     - [翻译: 知识追踪中的自动概念注释与问题表示学习](2024年10月02日/Automated_Knowledge_Concept_Annotation_and_Question_Representation_Learning_for_Knowledge_Tracing.md)
 
-- [Automated Red Teaming with GOAT: the Generative Offensive Agent Tester](2024年10月02日/Automated_Red_Teaming_with_GOAT_the_Generative_Offensive_Agent_Tester.md)
-
-    - [翻译: GOAT：自动红队测试中的生成性攻击代理](2024年10月02日/Automated_Red_Teaming_with_GOAT_the_Generative_Offensive_Agent_Tester.md)
-
 - [Automatic deductive coding in discourse analysis: an application of large language models in learning analytics](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
 
     - [翻译: 自动演绎编码在话语分析中的应用：探索大型语言模型在学习分析中的潜力](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
-
-- [Backdooring Vision-Language Models with Out-Of-Distribution Data](2024年10月02日/Backdooring_Vision-Language_Models_with_Out-Of-Distribution_Data.md)
-
-    - [翻译: 利用分布外数据对视觉-语言模型实施后门攻击](2024年10月02日/Backdooring_Vision-Language_Models_with_Out-Of-Distribution_Data.md)
 
 - [Bayes' Power for Explaining In-Context Learning Generalizations](2024年10月02日/Bayes'_Power_for_Explaining_In-Context_Learning_Generalizations.md)
 
@@ -114,10 +106,6 @@
 
     - [翻译: FactAlign：大型语言模型的长篇事实对齐技术](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
 
-- [FanCric : Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams](2024年10月02日/FanCric__Multi-Agentic_Framework_for_Crafting_Fantasy_11_Cricket_Teams.md)
-
-    - [翻译: FanCric：一个多元智能框架，专为打造梦幻板球队而生](2024年10月02日/FanCric__Multi-Agentic_Framework_for_Crafting_Fantasy_11_Cricket_Teams.md)
-
 - [Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?](2024年10月02日/Fira_Can_We_Achieve_Full-rank_Training_of_LLMs_Under_Low-rank_Constraint.md)
 
     - [翻译: Fira：在低秩限制下，我们能否实现 LLM 的全秩训练？](2024年10月02日/Fira_Can_We_Achieve_Full-rank_Training_of_LLMs_Under_Low-rank_Constraint.md)
@@ -173,10 +161,6 @@
 - [Lines of Thought in Large Language Models](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型中的思维轨迹](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
-
-- [LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models](2024年10月02日/LMOD_A_Large_Multimodal_Ophthalmology_Dataset_and_Benchmark_for_Large_Vision-Language_Models.md)
-
-    - [翻译: LMOD：一个专为大型视觉-语言模型设计的大型多模态眼科数据集及基准](2024年10月02日/LMOD_A_Large_Multimodal_Ophthalmology_Dataset_and_Benchmark_for_Large_Vision-Language_Models.md)
 
 - [Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads](2024年10月02日/Locret_Enhancing_Eviction_in_Long-Context_LLM_Inference_with_Trained_Retaining_Heads.md)
 
@@ -305,17 +289,3 @@
 - [When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1](2024年10月02日/When_a_language_model_is_optimized_for_reasoning,_does_it_still_show_embers_of_autoregression_An_analysis_of_OpenAI_o1.md)
 
     - [翻译: 优化用于推理的语言模型，是否还保留着自回归的痕迹？本文将深入分析 OpenAI o1 的这一特性。](2024年10月02日/When_a_language_model_is_optimized_for_reasoning,_does_it_still_show_embers_of_autoregression_An_analysis_of_OpenAI_o1.md)
-
-2024年10月01日
-
-- [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](2024年10月01日/From_Code_to_Correctness_Closing_the_Last_Mile_of_Code_Generation_with_Hierarchical_Debugging.md)
-
-    - [翻译: 从代码到完美：借助分层调试，完成代码生成的最后一步](2024年10月01日/From_Code_to_Correctness_Closing_the_Last_Mile_of_Code_Generation_with_Hierarchical_Debugging.md)
-
-- [From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls](2024年10月01日/From_Facts_to_Insights_A_Study_on_the_Generation_and_Evaluation_of_Analytical_Reports_for_Deciphering_Earnings_Calls.md)
-
-    - [翻译: 从数据到洞见：探索生成与评估财报电话会议分析报告的研究](2024年10月01日/From_Facts_to_Insights_A_Study_on_the_Generation_and_Evaluation_of_Analytical_Reports_for_Deciphering_Earnings_Calls.md)
-
-- [UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark](2024年10月01日/UAL-Bench_The_First_Comprehensive_Unusual_Activity_Localization_Benchmark.md)
-
-    - [翻译: UAL-Bench：首个全面异常活动定位基准](2024年10月01日/UAL-Bench_The_First_Comprehensive_Unusual_Activity_Localization_Benchmark.md)
