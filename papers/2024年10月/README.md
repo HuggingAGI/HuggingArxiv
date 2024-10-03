@@ -30,10 +30,6 @@
 
     - [翻译: 文本监督下的自我中心语义分割：认知转移与解耦](2024年10月02日/Cognition_Transferring_and_Decoupling_for_Text-supervised_Egocentric_Semantic_Segmentation.md)
 
-- [ConServe: Harvesting GPUs for Low-Latency and High-Throughput Large Language Model Serving](2024年10月02日/ConServe_Harvesting_GPUs_for_Low-Latency_and_High-Throughput_Large_Language_Model_Serving.md)
-
-    - [翻译: ConServe：高效利用 GPU，实现大型语言模型服务的低延迟与高吞吐量](2024年10月02日/ConServe_Harvesting_GPUs_for_Low-Latency_and_High-Throughput_Large_Language_Model_Serving.md)
-
 - [CrowdCounter: A benchmark type-specific multi-target counterspeech dataset](2024年10月02日/CrowdCounter_A_benchmark_type-specific_multi-target_counterspeech_dataset.md)
 
     - [翻译: CrowdCounter：一款专为多目标反驳言论设计的特定类型数据集基准](2024年10月02日/CrowdCounter_A_benchmark_type-specific_multi-target_counterspeech_dataset.md)
@@ -42,17 +38,9 @@
 
     - [翻译: 利用情感增强嵌入的LLM实现情感感知回复生成](2024年10月02日/Emotion-Aware_Response_Generation_Using_Affect-Enriched_Embeddings_with_LLMs.md)
 
-- [Enhancing Training Data Attribution for Large Language Models with Fitting Error Consideration](2024年10月02日/Enhancing_Training_Data_Attribution_for_Large_Language_Models_with_Fitting_Error_Consideration.md)
-
-    - [翻译: 考虑拟合误差，提升大型语言模型的训练数据归属](2024年10月02日/Enhancing_Training_Data_Attribution_for_Large_Language_Models_with_Fitting_Error_Consideration.md)
-
 - [From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge](2024年10月02日/From_Reward_Shaping_to_Q-Shaping_Achieving_Unbiased_Learning_with_LLM-Guided_Knowledge.md)
 
     - [翻译: 从奖励塑造到 Q-Shaping：借助 LLM 引导的知识，实现无偏学习](2024年10月02日/From_Reward_Shaping_to_Q-Shaping_Achieving_Unbiased_Learning_with_LLM-Guided_Knowledge.md)
-
-- [Getting Free Bits Back from Rotational Symmetries in LLMs](2024年10月02日/Getting_Free_Bits_Back_from_Rotational_Symmetries_in_LLMs.md)
-
-    - [翻译: 从 LLM 的旋转对称性中找回免费比特](2024年10月02日/Getting_Free_Bits_Back_from_Rotational_Symmetries_in_LLMs.md)
 
 - [HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
 
@@ -66,17 +54,9 @@
 
     - [翻译: 大型语言模型中的思维轨迹](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
 
-- [Mitigating Copy Bias in In-Context Learning through Neuron Pruning](2024年10月02日/Mitigating_Copy_Bias_in_In-Context_Learning_through_Neuron_Pruning.md)
-
-    - [翻译: 通过神经元修剪技术，我们能够有效减轻上下文学习中的复制偏差问题。](2024年10月02日/Mitigating_Copy_Bias_in_In-Context_Learning_through_Neuron_Pruning.md)
-
 - [OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
 
     - [翻译: OCC-MLLM：助力多模态大型语言模型，提升对遮挡物体的理解能力](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
-
-- [Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering](2024年10月02日/Question-guided_Knowledge_Graph_Re-scoring_and_Injection_for_Knowledge_Graph_Question_Answering.md)
-
-    - [翻译: 问题引导的知识图谱重评与注入，助力知识图谱问答](2024年10月02日/Question-guided_Knowledge_Graph_Re-scoring_and_Injection_for_Knowledge_Graph_Question_Answering.md)
 
 - [Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search](2024年10月02日/Revisiting_the_Index_Construction_of_Proximity_Graph-Based_Approximate_Nearest_Neighbor_Search.md)
 
@@ -89,10 +69,6 @@
 - [Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
 
     - [翻译: 稀疏自编码器揭秘了大型语言模型中的时间差异学习机制。](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
-
-- [Speculative Coreset Selection for Task-Specific Fine-tuning](2024年10月02日/Speculative_Coreset_Selection_for_Task-Specific_Fine-tuning.md)
-
-    - [翻译: 任务特定微调中的推测性核心集选择](2024年10月02日/Speculative_Coreset_Selection_for_Task-Specific_Fine-tuning.md)
 
 - [The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs](2024年10月02日/The_Labyrinth_of_Links_Navigating_the_Associative_Maze_of_Multi-modal_LLMs.md)
 
