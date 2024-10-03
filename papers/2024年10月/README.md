@@ -22,17 +22,9 @@
 
     - [翻译: 自动演示提示：借助生成的输出作为演示，提升批量提示的效果](2024年10月02日/Auto-Demo_Prompting_Leveraging_Generated_Outputs_as_Demonstrations_for_Enhanced_Batch_Prompting.md)
 
-- [Automated Knowledge Concept Annotation and Question Representation Learning for Knowledge Tracing](2024年10月02日/Automated_Knowledge_Concept_Annotation_and_Question_Representation_Learning_for_Knowledge_Tracing.md)
-
-    - [翻译: 知识追踪中的自动概念注释与问题表示学习](2024年10月02日/Automated_Knowledge_Concept_Annotation_and_Question_Representation_Learning_for_Knowledge_Tracing.md)
-
 - [Automatic deductive coding in discourse analysis: an application of large language models in learning analytics](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
 
     - [翻译: 自动演绎编码在话语分析中的应用：探索大型语言模型在学习分析中的潜力](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
-
-- [Bayes' Power for Explaining In-Context Learning Generalizations](2024年10月02日/Bayes'_Power_for_Explaining_In-Context_Learning_Generalizations.md)
-
-    - [翻译: 贝叶斯理论揭示了上下文学习泛化的奥秘](2024年10月02日/Bayes'_Power_for_Explaining_In-Context_Learning_Generalizations.md)
 
 - [Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension](2024年10月02日/Boosting_Weakly-Supervised_Referring_Image_Segmentation_via_Progressive_Comprehension.md)
 
@@ -53,10 +45,6 @@
 - [ConServe: Harvesting GPUs for Low-Latency and High-Throughput Large Language Model Serving](2024年10月02日/ConServe_Harvesting_GPUs_for_Low-Latency_and_High-Throughput_Large_Language_Model_Serving.md)
 
     - [翻译: ConServe：高效利用 GPU，实现大型语言模型服务的低延迟与高吞吐量](2024年10月02日/ConServe_Harvesting_GPUs_for_Low-Latency_and_High-Throughput_Large_Language_Model_Serving.md)
-
-- [CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs](2024年10月02日/CreDes_Causal_Reasoning_Enhancement_and_Dual-End_Searching_for_Solving_Long-Range_Reasoning_Problems_using_LLMs.md)
-
-    - [翻译: CreDes：通过因果推理增强和双端搜索，解决 LLM 中的长距离推理难题](2024年10月02日/CreDes_Causal_Reasoning_Enhancement_and_Dual-End_Searching_for_Solving_Long-Range_Reasoning_Problems_using_LLMs.md)
 
 - [CrowdCounter: A benchmark type-specific multi-target counterspeech dataset](2024年10月02日/CrowdCounter_A_benchmark_type-specific_multi-target_counterspeech_dataset.md)
 
@@ -86,10 +74,6 @@
 
     - [翻译: 考虑拟合误差，提升大型语言模型的训练数据归属](2024年10月02日/Enhancing_Training_Data_Attribution_for_Large_Language_Models_with_Fitting_Error_Consideration.md)
 
-- [Examining the Role of Relationship Alignment in Large Language Models](2024年10月02日/Examining_the_Role_of_Relationship_Alignment_in_Large_Language_Models.md)
-
-    - [翻译: 探究大型语言模型中关系对齐的角色](2024年10月02日/Examining_the_Role_of_Relationship_Alignment_in_Large_Language_Models.md)
-
 - [FactAlign: Long-form Factuality Alignment of Large Language Models](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
 
     - [翻译: FactAlign：大型语言模型的长篇事实对齐技术](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
@@ -117,10 +101,6 @@
 - [Intent Detection in the Age of LLMs](2024年10月02日/Intent_Detection_in_the_Age_of_LLMs.md)
 
     - [翻译: 在 LLM 时代，意图检测的新篇章](2024年10月02日/Intent_Detection_in_the_Age_of_LLMs.md)
-
-- [Interpretable Contrastive Monte Carlo Tree Search Reasoning](2024年10月02日/Interpretable_Contrastive_Monte_Carlo_Tree_Search_Reasoning.md)
-
-    - [翻译: 可解释对比蒙特卡洛树搜索推理](2024年10月02日/Interpretable_Contrastive_Monte_Carlo_Tree_Search_Reasoning.md)
 
 - [Investigating on RLHF methodology](2024年10月02日/Investigating_on_RLHF_methodology.md)
 
@@ -221,10 +201,6 @@
 - [Trying to be human: Linguistic traces of stochastic empathy in language models](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
 
     - [翻译: 语言模型中的人性化尝试：随机同理心的语言印记](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
-
-- [U-shaped and Inverted-U Scaling behind Emergent Abilities of Large Language Models](2024年10月02日/U-shaped_and_Inverted-U_Scaling_behind_Emergent_Abilities_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的涌现能力背后，U形和倒U形缩放起着关键作用。](2024年10月02日/U-shaped_and_Inverted-U_Scaling_behind_Emergent_Abilities_of_Large_Language_Models.md)
 
 - [Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process](2024年10月02日/Verbalized_Graph_Representation_Learning_A_Fully_Interpretable_Graph_Model_Based_on_Large_Language_Models_Throughout_the_Entire_Process.md)
 
