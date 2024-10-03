@@ -18,10 +18,6 @@
 
     - [翻译: 文本文件中业务流程信息的辅助标注提取](2024年10月02日/Assisted_Data_Annotation_for_Business_Process_Information_Extraction_from_Textual_Documents.md)
 
-- [Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting](2024年10月02日/Auto-Demo_Prompting_Leveraging_Generated_Outputs_as_Demonstrations_for_Enhanced_Batch_Prompting.md)
-
-    - [翻译: 自动演示提示：借助生成的输出作为演示，提升批量提示的效果](2024年10月02日/Auto-Demo_Prompting_Leveraging_Generated_Outputs_as_Demonstrations_for_Enhanced_Batch_Prompting.md)
-
 - [Automatic deductive coding in discourse analysis: an application of large language models in learning analytics](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
 
     - [翻译: 自动演绎编码在话语分析中的应用：探索大型语言模型在学习分析中的潜力](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
@@ -89,18 +85,6 @@
 - [HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
 
     - [翻译: HarmAug：为安全防护模型的知识蒸馏提供高效数据增强](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
-
-- [Intent Detection in the Age of LLMs](2024年10月02日/Intent_Detection_in_the_Age_of_LLMs.md)
-
-    - [翻译: 在 LLM 时代，意图检测的新篇章](2024年10月02日/Intent_Detection_in_the_Age_of_LLMs.md)
-
-- [Investigating on RLHF methodology](2024年10月02日/Investigating_on_RLHF_methodology.md)
-
-    - [翻译: 探究 RLHF 方法论](2024年10月02日/Investigating_on_RLHF_methodology.md)
-
-- [Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models](2024年10月02日/Knowledge-Driven_Feature_Selection_and_Engineering_for_Genotype_Data_with_Large_Language_Models.md)
-
-    - [翻译: 基于知识的特征选择与工程，应用于基因型数据，借助大型语言模型之力。](2024年10月02日/Knowledge-Driven_Feature_Selection_and_Engineering_for_Genotype_Data_with_Large_Language_Models.md)
 
 - [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](2024年10月02日/Layer_Swapping_for_Zero-Shot_Cross-Lingual_Transfer_in_Large_Language_Models.md)
 
@@ -174,10 +158,6 @@
 
     - [翻译: 探索 CLIP 模型鲁棒性的全面评估](2024年10月02日/Toward_a_Holistic_Evaluation_of_Robustness_in_CLIP_Models.md)
 
-- [Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective](2024年10月02日/Towards_a_Theoretical_Understanding_of_Synthetic_Data_in_LLM_Post-Training_A_Reverse-Bottleneck_Perspective.md)
-
-    - [翻译: 探索 LLM 后训练中合成数据的理论理解：反瓶颈视角](2024年10月02日/Towards_a_Theoretical_Understanding_of_Synthetic_Data_in_LLM_Post-Training_A_Reverse-Bottleneck_Perspective.md)
-
 - [Trying to be human: Linguistic traces of stochastic empathy in language models](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
 
     - [翻译: 语言模型中的人性化尝试：随机同理心的语言印记](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
@@ -189,10 +169,6 @@
 - [VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment](2024年10月02日/VinePPO_Unlocking_RL_Potential_For_LLM_Reasoning_Through_Refined_Credit_Assignment.md)
 
     - [翻译: VinePPO：通过精细的信用分配，释放 LLM 推理中的强化学习潜力。](2024年10月02日/VinePPO_Unlocking_RL_Potential_For_LLM_Reasoning_Through_Refined_Credit_Assignment.md)
-
-- [VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models](2024年10月02日/VitaGlyph_Vitalizing_Artistic_Typography_with_Flexible_Dual-branch_Diffusion_Models.md)
-
-    - [翻译: VitaGlyph：以灵活的双分支扩散模型赋予艺术字体生命力](2024年10月02日/VitaGlyph_Vitalizing_Artistic_Typography_with_Flexible_Dual-branch_Diffusion_Models.md)
 
 - [When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1](2024年10月02日/When_a_language_model_is_optimized_for_reasoning,_does_it_still_show_embers_of_autoregression_An_analysis_of_OpenAI_o1.md)
 
