@@ -58,10 +58,6 @@
 
     - [翻译: DLP-LoRA：为大型语言模型量身定制的动态轻量级插件，实现高效的任务特定 LoRA 融合](2024年10月02日/DLP-LoRA_Efficient_Task-Specific_LoRA_Fusion_with_a_Dynamic,_Lightweight_Plugin_for_Large_Language_Models.md)
 
-- [Efficient $1$-bit tensor approximations](2024年10月02日/Efficient_$1$-bit_tensor_approximations.md)
-
-    - [翻译: 高效的一比特张量近似](2024年10月02日/Efficient_$1$-bit_tensor_approximations.md)
-
 - [Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation](2024年10月02日/Elaborative_Subtopic_Query_Reformulation_for_Broad_and_Indirect_Queries_in_Travel_Destination_Recommendation.md)
 
     - [翻译: 旅行目的地推荐中的广泛与间接查询，通过详细子主题查询重构来优化。](2024年10月02日/Elaborative_Subtopic_Query_Reformulation_for_Broad_and_Indirect_Queries_in_Travel_Destination_Recommendation.md)
@@ -94,10 +90,6 @@
 
     - [翻译: HarmAug：为安全防护模型的知识蒸馏提供高效数据增强](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
 
-- [Integrative Decoding: Improve Factuality via Implicit Self-consistency](2024年10月02日/Integrative_Decoding_Improve_Factuality_via_Implicit_Self-consistency.md)
-
-    - [翻译: 综合解码：借助隐式自我一致性提升事实准确性](2024年10月02日/Integrative_Decoding_Improve_Factuality_via_Implicit_Self-consistency.md)
-
 - [Intent Detection in the Age of LLMs](2024年10月02日/Intent_Detection_in_the_Age_of_LLMs.md)
 
     - [翻译: 在 LLM 时代，意图检测的新篇章](2024年10月02日/Intent_Detection_in_the_Age_of_LLMs.md)
@@ -122,10 +114,6 @@
 
     - [翻译: 大型语言模型中的思维轨迹](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
 
-- [Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads](2024年10月02日/Locret_Enhancing_Eviction_in_Long-Context_LLM_Inference_with_Trained_Retaining_Heads.md)
-
-    - [翻译: Locret：通过训练保留头，提升长上下文 LLM 推理中的驱逐效果](2024年10月02日/Locret_Enhancing_Eviction_in_Long-Context_LLM_Inference_with_Trained_Retaining_Heads.md)
-
 - [Mitigating Copy Bias in In-Context Learning through Neuron Pruning](2024年10月02日/Mitigating_Copy_Bias_in_In-Context_Learning_through_Neuron_Pruning.md)
 
     - [翻译: 通过神经元修剪技术，我们能够有效减轻上下文学习中的复制偏差问题。](2024年10月02日/Mitigating_Copy_Bias_in_In-Context_Learning_through_Neuron_Pruning.md)
@@ -134,17 +122,9 @@
 
     - [翻译: OCC-MLLM：助力多模态大型语言模型，提升对遮挡物体的理解能力](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
 
-- [OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models](2024年10月02日/OmniGenBench_Automating_Large-scale_in-silico_Benchmarking_for_Genomic_Foundation_Models.md)
-
-    - [翻译: OmniGenBench：基因组基础模型的大规模自动化体内基准测试](2024年10月02日/OmniGenBench_Automating_Large-scale_in-silico_Benchmarking_for_Genomic_Foundation_Models.md)
-
 - [On The Adaptation of Unlimiformer for Decoder-Only Transformers](2024年10月02日/On_The_Adaptation_of_Unlimiformer_for_Decoder-Only_Transformers.md)
 
     - [翻译: 探讨 Unlimiformer 在仅解码器 Transformer 中的适应性](2024年10月02日/On_The_Adaptation_of_Unlimiformer_for_Decoder-Only_Transformers.md)
-
-- [OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data](2024年10月02日/OpenMathInstruct-2_Accelerating_AI_for_Math_with_Massive_Open-Source_Instruction_Data.md)
-
-    - [翻译: OpenMathInstruct-2：借助海量开源指令数据，加速数学 AI 的发展。](2024年10月02日/OpenMathInstruct-2_Accelerating_AI_for_Math_with_Massive_Open-Source_Instruction_Data.md)
 
 - [Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](2024年10月02日/Open-RAG_Enhanced_Retrieval-Augmented_Reasoning_with_Open-Source_Large_Language_Models.md)
 
@@ -209,10 +189,6 @@
 - [VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment](2024年10月02日/VinePPO_Unlocking_RL_Potential_For_LLM_Reasoning_Through_Refined_Credit_Assignment.md)
 
     - [翻译: VinePPO：通过精细的信用分配，释放 LLM 推理中的强化学习潜力。](2024年10月02日/VinePPO_Unlocking_RL_Potential_For_LLM_Reasoning_Through_Refined_Credit_Assignment.md)
-
-- [Visual Perception in Text Strings](2024年10月02日/Visual_Perception_in_Text_Strings.md)
-
-    - [翻译: 文本中的视觉感知](2024年10月02日/Visual_Perception_in_Text_Strings.md)
 
 - [VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models](2024年10月02日/VitaGlyph_Vitalizing_Artistic_Typography_with_Flexible_Dual-branch_Diffusion_Models.md)
 
