@@ -308,10 +308,6 @@
 
 2024年10月01日
 
-- [BordIRlines: A Dataset for Evaluating Cross-lingual Retrieval-Augmented Generation](2024年10月01日/BordIRlines_A_Dataset_for_Evaluating_Cross-lingual_Retrieval-Augmented_Generation.md)
-
-    - [翻译: BordIRlines：一款专为跨语言检索增强生成评估而设计的数据集](2024年10月01日/BordIRlines_A_Dataset_for_Evaluating_Cross-lingual_Retrieval-Augmented_Generation.md)
-
 - [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](2024年10月01日/From_Code_to_Correctness_Closing_the_Last_Mile_of_Code_Generation_with_Hierarchical_Debugging.md)
 
     - [翻译: 从代码到完美：借助分层调试，完成代码生成的最后一步](2024年10月01日/From_Code_to_Correctness_Closing_the_Last_Mile_of_Code_Generation_with_Hierarchical_Debugging.md)
@@ -319,10 +315,6 @@
 - [From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls](2024年10月01日/From_Facts_to_Insights_A_Study_on_the_Generation_and_Evaluation_of_Analytical_Reports_for_Deciphering_Earnings_Calls.md)
 
     - [翻译: 从数据到洞见：探索生成与评估财报电话会议分析报告的研究](2024年10月01日/From_Facts_to_Insights_A_Study_on_the_Generation_and_Evaluation_of_Analytical_Reports_for_Deciphering_Earnings_Calls.md)
-
-- [StringLLM: Understanding the String Processing Capability of Large Language Models](2024年10月01日/StringLLM_Understanding_the_String_Processing_Capability_of_Large_Language_Models.md)
-
-    - [翻译: StringLLM：探索大型语言模型在字符串处理方面的潜力](2024年10月01日/StringLLM_Understanding_the_String_Processing_Capability_of_Large_Language_Models.md)
 
 - [UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark](2024年10月01日/UAL-Bench_The_First_Comprehensive_Unusual_Activity_Localization_Benchmark.md)
 
