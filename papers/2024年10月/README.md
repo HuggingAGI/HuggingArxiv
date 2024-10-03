@@ -42,10 +42,6 @@
 
     - [翻译: CrowdCounter：一款专为多目标反驳言论设计的特定类型数据集基准](2024年10月02日/CrowdCounter_A_benchmark_type-specific_multi-target_counterspeech_dataset.md)
 
-- [Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation](2024年10月02日/Elaborative_Subtopic_Query_Reformulation_for_Broad_and_Indirect_Queries_in_Travel_Destination_Recommendation.md)
-
-    - [翻译: 旅行目的地推荐中的广泛与间接查询，通过详细子主题查询重构来优化。](2024年10月02日/Elaborative_Subtopic_Query_Reformulation_for_Broad_and_Indirect_Queries_in_Travel_Destination_Recommendation.md)
-
 - [Emotion-Aware Response Generation Using Affect-Enriched Embeddings with LLMs](2024年10月02日/Emotion-Aware_Response_Generation_Using_Affect-Enriched_Embeddings_with_LLMs.md)
 
     - [翻译: 利用情感增强嵌入的LLM实现情感感知回复生成](2024年10月02日/Emotion-Aware_Response_Generation_Using_Affect-Enriched_Embeddings_with_LLMs.md)
@@ -53,10 +49,6 @@
 - [Enhancing Training Data Attribution for Large Language Models with Fitting Error Consideration](2024年10月02日/Enhancing_Training_Data_Attribution_for_Large_Language_Models_with_Fitting_Error_Consideration.md)
 
     - [翻译: 考虑拟合误差，提升大型语言模型的训练数据归属](2024年10月02日/Enhancing_Training_Data_Attribution_for_Large_Language_Models_with_Fitting_Error_Consideration.md)
-
-- [FactAlign: Long-form Factuality Alignment of Large Language Models](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
-
-    - [翻译: FactAlign：大型语言模型的长篇事实对齐技术](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
 
 - [From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge](2024年10月02日/From_Reward_Shaping_to_Q-Shaping_Achieving_Unbiased_Learning_with_LLM-Guided_Knowledge.md)
 
@@ -93,14 +85,6 @@
 - [On The Adaptation of Unlimiformer for Decoder-Only Transformers](2024年10月02日/On_The_Adaptation_of_Unlimiformer_for_Decoder-Only_Transformers.md)
 
     - [翻译: 探讨 Unlimiformer 在仅解码器 Transformer 中的适应性](2024年10月02日/On_The_Adaptation_of_Unlimiformer_for_Decoder-Only_Transformers.md)
-
-- [Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](2024年10月02日/Open-RAG_Enhanced_Retrieval-Augmented_Reasoning_with_Open-Source_Large_Language_Models.md)
-
-    - [翻译: Open-RAG：利用开源大型语言模型提升检索增强推理能力](2024年10月02日/Open-RAG_Enhanced_Retrieval-Augmented_Reasoning_with_Open-Source_Large_Language_Models.md)
-
-- [Quantifying Generalization Complexity for Large Language Models](2024年10月02日/Quantifying_Generalization_Complexity_for_Large_Language_Models.md)
-
-    - [翻译: 探究大型语言模型的泛化复杂性](2024年10月02日/Quantifying_Generalization_Complexity_for_Large_Language_Models.md)
 
 - [Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering](2024年10月02日/Question-guided_Knowledge_Graph_Re-scoring_and_Injection_for_Knowledge_Graph_Question_Answering.md)
 
@@ -141,11 +125,3 @@
 - [Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process](2024年10月02日/Verbalized_Graph_Representation_Learning_A_Fully_Interpretable_Graph_Model_Based_on_Large_Language_Models_Throughout_the_Entire_Process.md)
 
     - [翻译: 语言化图表示学习：基于大型语言模型的全过程完全可解释图模型](2024年10月02日/Verbalized_Graph_Representation_Learning_A_Fully_Interpretable_Graph_Model_Based_on_Large_Language_Models_Throughout_the_Entire_Process.md)
-
-- [VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment](2024年10月02日/VinePPO_Unlocking_RL_Potential_For_LLM_Reasoning_Through_Refined_Credit_Assignment.md)
-
-    - [翻译: VinePPO：通过精细的信用分配，释放 LLM 推理中的强化学习潜力。](2024年10月02日/VinePPO_Unlocking_RL_Potential_For_LLM_Reasoning_Through_Refined_Credit_Assignment.md)
-
-- [When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1](2024年10月02日/When_a_language_model_is_optimized_for_reasoning,_does_it_still_show_embers_of_autoregression_An_analysis_of_OpenAI_o1.md)
-
-    - [翻译: 优化用于推理的语言模型，是否还保留着自回归的痕迹？本文将深入分析 OpenAI o1 的这一特性。](2024年10月02日/When_a_language_model_is_optimized_for_reasoning,_does_it_still_show_embers_of_autoregression_An_analysis_of_OpenAI_o1.md)
