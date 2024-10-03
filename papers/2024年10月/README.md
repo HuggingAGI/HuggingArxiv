@@ -30,10 +30,6 @@
 
     - [翻译: 文本监督下的自我中心语义分割：认知转移与解耦](2024年10月02日/Cognition_Transferring_and_Decoupling_for_Text-supervised_Egocentric_Semantic_Segmentation.md)
 
-- [Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering](2024年10月02日/Conformal_Generative_Modeling_with_Improved_Sample_Efficiency_through_Sequential_Greedy_Filtering.md)
-
-    - [翻译: 通过顺序贪婪过滤，提升样本效率的保形生成建模](2024年10月02日/Conformal_Generative_Modeling_with_Improved_Sample_Efficiency_through_Sequential_Greedy_Filtering.md)
-
 - [ConServe: Harvesting GPUs for Low-Latency and High-Throughput Large Language Model Serving](2024年10月02日/ConServe_Harvesting_GPUs_for_Low-Latency_and_High-Throughput_Large_Language_Model_Serving.md)
 
     - [翻译: ConServe：高效利用 GPU，实现大型语言模型服务的低延迟与高吞吐量](2024年10月02日/ConServe_Harvesting_GPUs_for_Low-Latency_and_High-Throughput_Large_Language_Model_Serving.md)
@@ -66,10 +62,6 @@
 
     - [翻译: 大型语言模型中的零-shot 跨语言迁移：层交换策略](2024年10月02日/Layer_Swapping_for_Zero-Shot_Cross-Lingual_Transfer_in_Large_Language_Models.md)
 
-- [LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks](2024年10月02日/LEOPARD__A_Vision_Language_Model_For_Text-Rich_Multi-Image_Tasks.md)
-
-    - [翻译: LEOPARD：一款专为文本密集型多图像任务设计的视觉语言模型](2024年10月02日/LEOPARD__A_Vision_Language_Model_For_Text-Rich_Multi-Image_Tasks.md)
-
 - [Lines of Thought in Large Language Models](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型中的思维轨迹](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
@@ -81,10 +73,6 @@
 - [OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
 
     - [翻译: OCC-MLLM：助力多模态大型语言模型，提升对遮挡物体的理解能力](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
-
-- [On The Adaptation of Unlimiformer for Decoder-Only Transformers](2024年10月02日/On_The_Adaptation_of_Unlimiformer_for_Decoder-Only_Transformers.md)
-
-    - [翻译: 探讨 Unlimiformer 在仅解码器 Transformer 中的适应性](2024年10月02日/On_The_Adaptation_of_Unlimiformer_for_Decoder-Only_Transformers.md)
 
 - [Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering](2024年10月02日/Question-guided_Knowledge_Graph_Re-scoring_and_Injection_for_Knowledge_Graph_Question_Answering.md)
 
@@ -106,21 +94,9 @@
 
     - [翻译: 任务特定微调中的推测性核心集选择](2024年10月02日/Speculative_Coreset_Selection_for_Task-Specific_Fine-tuning.md)
 
-- [Spoken Grammar Assessment Using LLM](2024年10月02日/Spoken_Grammar_Assessment_Using_LLM.md)
-
-    - [翻译: 利用 LLM 进行口语语法测评](2024年10月02日/Spoken_Grammar_Assessment_Using_LLM.md)
-
 - [The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs](2024年10月02日/The_Labyrinth_of_Links_Navigating_the_Associative_Maze_of_Multi-modal_LLMs.md)
 
     - [翻译: 链接迷宫：探索多模态大型语言模型的关联网络](2024年10月02日/The_Labyrinth_of_Links_Navigating_the_Associative_Maze_of_Multi-modal_LLMs.md)
-
-- [Toward a Holistic Evaluation of Robustness in CLIP Models](2024年10月02日/Toward_a_Holistic_Evaluation_of_Robustness_in_CLIP_Models.md)
-
-    - [翻译: 探索 CLIP 模型鲁棒性的全面评估](2024年10月02日/Toward_a_Holistic_Evaluation_of_Robustness_in_CLIP_Models.md)
-
-- [Trying to be human: Linguistic traces of stochastic empathy in language models](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
-
-    - [翻译: 语言模型中的人性化尝试：随机同理心的语言印记](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
 
 - [Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process](2024年10月02日/Verbalized_Graph_Representation_Learning_A_Fully_Interpretable_Graph_Model_Based_on_Large_Language_Models_Throughout_the_Entire_Process.md)
 
