@@ -6,10 +6,6 @@
 
     - [翻译: 基于代理的大型语言模型助力普通话歌词创作](2024年10月02日/Agent-Driven_Large_Language_Models_for_Mandarin_Lyric_Generation.md)
 
-- [AgriCLIP: Adapting CLIP for Agriculture and Livestock via Domain-Specialized Cross-Model Alignment](2024年10月02日/AgriCLIP_Adapting_CLIP_for_Agriculture_and_Livestock_via_Domain-Specialized_Cross-Model_Alignment.md)
-
-    - [翻译: AgriCLIP：通过领域专业化的跨模型对齐，为农业和畜牧业量身定制的 CLIP](2024年10月02日/AgriCLIP_Adapting_CLIP_for_Agriculture_and_Livestock_via_Domain-Specialized_Cross-Model_Alignment.md)
-
 - [A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts](2024年10月02日/A_Little_Goes_a_Long_Way_Efficient_Long_Context_Training_and_Inference_with_Partial_Contexts.md)
 
     - [翻译: 少量的上下文也能走很远：通过部分上下文实现高效的长上下文训练和推理](2024年10月02日/A_Little_Goes_a_Long_Way_Efficient_Long_Context_Training_and_Inference_with_Partial_Contexts.md)
