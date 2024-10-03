@@ -1,0 +1,15 @@
+# 高效的一比特张量近似
+
+发布时间：2024年10月02日
+
+`LLM应用` `人工智能` `计算机视觉`
+
+> Efficient $1$-bit tensor approximations
+
+# 摘要
+
+> 我们提出了一种空间高效的矩阵和张量分解方法，将其表示为$\{-1, 1\}$值向量的张量积的线性组合。对于任意矩阵$A \in \mathbb{R}^{m \times n}$，$$A - R_w = S_w C_w T_w^\top = \sum_{j=1}^w c_j \cdot \mathbf{s}_j \mathbf{t}_j^\top$$ 是一种$w$宽度的符号切割分解。这里$C_w = "diag"(\mathbf{c}_w)$，其中$\mathbf{c}_w \in \mathbb{R}^w$，而$S_w, T_w$以及向量$\mathbf{s}_j, \mathbf{t}_j$都是$\{-1, 1\}$值的。为了存储$(S_w, T_w, C_w)$，我们可以打包$w \cdot (m + n)$位，并且只需要$w$个浮点数。作为$w$的函数，当应用于具有独立同分布$\mathcal N (0, 1)$条目的#f32矩阵时，$\|R_w\|_F$表现出指数衰减。选择$w$使得$(S_w, T_w, C_w)$的内存占用与\textit{f16}或\textit{bf16}矩阵相同，相对误差相当。我们的算法在20行伪代码中产生了高效的符号切割分解。它反映了从Frieze和Kannan在1999年著名论文[1]中的一种简单修改。作为第一个应用，我们将开放的\textit{Mistral-7B-v0.1}大型语言模型中的权重矩阵近似为50\%的空间压缩。值得注意的是，所有226个剩余矩阵的相对误差都小于6\%，扩展模型在\textit{huggingface}排行榜[2]上与\textit{Mistral-7B-v0.1}紧密匹配。随着我们从50\%的空间压缩减少到25\%，基准性能缓慢下降。我们通过在\textit{avx2}和\textit{avx512}架构上使用\textit{simd}指令优化了我们的开源\textit{rust}实现[3]。我们还从矩阵扩展了我们的算法到任意阶张量，并使用它压缩了第一作者的猫Angus的照片。
+
+> We present a spatially efficient decomposition of matrices and arbitrary-order tensors as linear combinations of tensor products of $\{-1, 1\}$-valued vectors. For any matrix $A \in \mathbb{R}^{m \times n}$, $$A - R_w = S_w C_w T_w^\top = \sum_{j=1}^w c_j \cdot \mathbf{s}_j \mathbf{t}_j^\top$$ is a {\it $w$-width signed cut decomposition of $A$}. Here $C_w = "diag"(\mathbf{c}_w)$ for some $\mathbf{c}_w \in \mathbb{R}^w,$ and $S_w, T_w$, and the vectors $\mathbf{s}_j, \mathbf{t}_j$ are $\{-1, 1\}$-valued. To store $(S_w, T_w, C_w)$, we may pack $w \cdot (m + n)$ bits, and require only $w$ floating point numbers. As a function of $w$, $\|R_w\|_F$ exhibits exponential decay when applied to #f32 matrices with i.i.d. $\mathcal N (0, 1)$ entries. Choosing $w$ so that $(S_w, T_w, C_w)$ has the same memory footprint as a \textit{f16} or \textit{bf16} matrix, the relative error is comparable. Our algorithm yields efficient signed cut decompositions in $20$ lines of pseudocode. It reflects a simple modification from a celebrated 1999 paper [1] of Frieze and Kannan. As a first application, we approximate the weight matrices in the open \textit{Mistral-7B-v0.1} Large Language Model to a $50\%$ spatial compression. Remarkably, all $226$ remainder matrices have a relative error $<6\%$ and the expanded model closely matches \textit{Mistral-7B-v0.1} on the {\it huggingface} leaderboard [2]. Benchmark performance degrades slowly as we reduce the spatial compression from $50\%$ to $25\%$. We optimize our open source \textit{rust} implementation [3] with \textit{simd} instructions on \textit{avx2} and \textit{avx512} architectures. We also extend our algorithm from matrices to tensors of arbitrary order and use it to compress a picture of the first author's cat Angus.
+
+[Arxiv](https://arxiv.org/abs/2410.01799)
