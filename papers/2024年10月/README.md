@@ -70,10 +70,6 @@
 
     - [翻译: 小数据集上的文本到图像生成中的数据外推](2024年10月02日/Data_Extrapolation_for_Text-to-image_Generation_on_Small_Datasets.md)
 
-- [Disentangling Latent Shifts of In-Context Learning Through Self-Training](2024年10月02日/Disentangling_Latent_Shifts_of_In-Context_Learning_Through_Self-Training.md)
-
-    - [翻译: 通过自训练揭示上下文学习的潜在变化](2024年10月02日/Disentangling_Latent_Shifts_of_In-Context_Learning_Through_Self-Training.md)
-
 - [DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models](2024年10月02日/DLP-LoRA_Efficient_Task-Specific_LoRA_Fusion_with_a_Dynamic,_Lightweight_Plugin_for_Large_Language_Models.md)
 
     - [翻译: DLP-LoRA：为大型语言模型量身定制的动态轻量级插件，实现高效的任务特定 LoRA 融合](2024年10月02日/DLP-LoRA_Efficient_Task-Specific_LoRA_Fusion_with_a_Dynamic,_Lightweight_Plugin_for_Large_Language_Models.md)
@@ -97,10 +93,6 @@
 - [Examining the Role of Relationship Alignment in Large Language Models](2024年10月02日/Examining_the_Role_of_Relationship_Alignment_in_Large_Language_Models.md)
 
     - [翻译: 探究大型语言模型中关系对齐的角色](2024年10月02日/Examining_the_Role_of_Relationship_Alignment_in_Large_Language_Models.md)
-
-- [Extending Context Window of Large Language Models from a Distributional Perspective](2024年10月02日/Extending_Context_Window_of_Large_Language_Models_from_a_Distributional_Perspective.md)
-
-    - [翻译: 从分布视角探讨如何扩展大型语言模型的上下文窗口](2024年10月02日/Extending_Context_Window_of_Large_Language_Models_from_a_Distributional_Perspective.md)
 
 - [FactAlign: Long-form Factuality Alignment of Large Language Models](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
 
@@ -178,10 +170,6 @@
 
     - [翻译: 通过神经元修剪技术，我们能够有效减轻上下文学习中的复制偏差问题。](2024年10月02日/Mitigating_Copy_Bias_in_In-Context_Learning_through_Neuron_Pruning.md)
 
-- [Moral Alignment for LLM Agents](2024年10月02日/Moral_Alignment_for_LLM_Agents.md)
-
-    - [翻译: LLM 代理的道德对齐](2024年10月02日/Moral_Alignment_for_LLM_Agents.md)
-
 - [OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
 
     - [翻译: OCC-MLLM：助力多模态大型语言模型，提升对遮挡物体的理解能力](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
@@ -201,10 +189,6 @@
 - [Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](2024年10月02日/Open-RAG_Enhanced_Retrieval-Augmented_Reasoning_with_Open-Source_Large_Language_Models.md)
 
     - [翻译: Open-RAG：利用开源大型语言模型提升检索增强推理能力](2024年10月02日/Open-RAG_Enhanced_Retrieval-Augmented_Reasoning_with_Open-Source_Large_Language_Models.md)
-
-- [PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation](2024年10月02日/PersonaMath_Enhancing_Math_Reasoning_through_Persona-Driven_Data_Augmentation.md)
-
-    - [翻译: PersonaMath：借助角色驱动的数据增强提升数学推理能力](2024年10月02日/PersonaMath_Enhancing_Math_Reasoning_through_Persona-Driven_Data_Augmentation.md)
 
 - [Quantifying Generalization Complexity for Large Language Models](2024年10月02日/Quantifying_Generalization_Complexity_for_Large_Language_Models.md)
 
@@ -229,10 +213,6 @@
 - [Saliency-Guided DETR for Moment Retrieval and Highlight Detection](2024年10月02日/Saliency-Guided_DETR_for_Moment_Retrieval_and_Highlight_Detection.md)
 
     - [翻译: 显著性引导的 DETR 技术，专为时刻检索和高光检测而生。](2024年10月02日/Saliency-Guided_DETR_for_Moment_Retrieval_and_Highlight_Detection.md)
-
-- [Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models](2024年10月02日/Seeing_Eye_to_AI_Human_Alignment_via_Gaze-Based_Response_Rewards_for_Large_Language_Models.md)
-
-    - [翻译: 眼对AI：通过注视响应奖励实现大型语言模型的人类对齐](2024年10月02日/Seeing_Eye_to_AI_Human_Alignment_via_Gaze-Based_Response_Rewards_for_Large_Language_Models.md)
 
 - [Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
 
