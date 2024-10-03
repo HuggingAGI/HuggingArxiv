@@ -38,10 +38,6 @@
 
     - [翻译: 逐步理解，提升弱监督引用图像分割](2024年10月02日/Boosting_Weakly-Supervised_Referring_Image_Segmentation_via_Progressive_Comprehension.md)
 
-- [Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding](2024年10月02日/Bridging_Context_Gaps_Leveraging_Coreference_Resolution_for_Long_Contextual_Understanding.md)
-
-    - [翻译: 跨越上下文鸿沟：借助共指消解，深化长文本理解](2024年10月02日/Bridging_Context_Gaps_Leveraging_Coreference_Resolution_for_Long_Contextual_Understanding.md)
-
 - [Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks](2024年10月02日/Can_We_Further_Elicit_Reasoning_in_LLMs_Critic-Guided_Planning_with_Retrieval-Augmentation_for_Solving_Challenging_Tasks.md)
 
     - [翻译: 我们能否在 LLM 中进一步激发推理能力？通过批评者引导的规划与检索增强，解决复杂任务。](2024年10月02日/Can_We_Further_Elicit_Reasoning_in_LLMs_Critic-Guided_Planning_with_Retrieval-Augmentation_for_Solving_Challenging_Tasks.md)
@@ -114,14 +110,6 @@
 
     - [翻译: HarmAug：为安全防护模型的知识蒸馏提供高效数据增强](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
 
-- [In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks](2024年10月02日/In-Context_Transfer_Learning_Demonstration_Synthesis_by_Transferring_Similar_Tasks.md)
-
-    - [翻译: 上下文迁移学习：借助相似任务实现演示合成](2024年10月02日/In-Context_Transfer_Learning_Demonstration_Synthesis_by_Transferring_Similar_Tasks.md)
-
-- [InfiniPot: Infinite Context Processing on Memory-Constrained LLMs](2024年10月02日/InfiniPot_Infinite_Context_Processing_on_Memory-Constrained_LLMs.md)
-
-    - [翻译: InfiniPot：为内存受限的 LLM 提供无限上下文处理能力](2024年10月02日/InfiniPot_Infinite_Context_Processing_on_Memory-Constrained_LLMs.md)
-
 - [Integrative Decoding: Improve Factuality via Implicit Self-consistency](2024年10月02日/Integrative_Decoding_Improve_Factuality_via_Implicit_Self-consistency.md)
 
     - [翻译: 综合解码：借助隐式自我一致性提升事实准确性](2024年10月02日/Integrative_Decoding_Improve_Factuality_via_Implicit_Self-consistency.md)
@@ -157,14 +145,6 @@
 - [Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads](2024年10月02日/Locret_Enhancing_Eviction_in_Long-Context_LLM_Inference_with_Trained_Retaining_Heads.md)
 
     - [翻译: Locret：通过训练保留头，提升长上下文 LLM 推理中的驱逐效果](2024年10月02日/Locret_Enhancing_Eviction_in_Long-Context_LLM_Inference_with_Trained_Retaining_Heads.md)
-
-- [MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework](2024年10月02日/MedQA-CS_Benchmarking_Large_Language_Models_Clinical_Skills_Using_an_AI-SCE_Framework.md)
-
-    - [翻译: MedQA-CS：通过 AI-SCE 框架，评估大型语言模型在临床技能方面的表现。](2024年10月02日/MedQA-CS_Benchmarking_Large_Language_Models_Clinical_Skills_Using_an_AI-SCE_Framework.md)
-
-- [Mind Scramble: Unveiling Large Language Model Psychology Via Typoglycemia](2024年10月02日/Mind_Scramble_Unveiling_Large_Language_Model_Psychology_Via_Typoglycemia.md)
-
-    - [翻译: 《心灵迷宫：透过文字游戏揭示大型语言模型的心理奥秘》](2024年10月02日/Mind_Scramble_Unveiling_Large_Language_Model_Psychology_Via_Typoglycemia.md)
 
 - [Mitigating Copy Bias in In-Context Learning through Neuron Pruning](2024年10月02日/Mitigating_Copy_Bias_in_In-Context_Learning_through_Neuron_Pruning.md)
 
@@ -241,10 +221,6 @@
 - [Trying to be human: Linguistic traces of stochastic empathy in language models](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
 
     - [翻译: 语言模型中的人性化尝试：随机同理心的语言印记](2024年10月02日/Trying_to_be_human_Linguistic_traces_of_stochastic_empathy_in_language_models.md)
-
-- [Upcycling Instruction Tuning from Dense to Mixture-of-Experts via Parameter Merging](2024年10月02日/Upcycling_Instruction_Tuning_from_Dense_to_Mixture-of-Experts_via_Parameter_Merging.md)
-
-    - [翻译: 通过参数合并技术，将指令调优从密集模型升级为专家混合模型，实现模型性能的提升。](2024年10月02日/Upcycling_Instruction_Tuning_from_Dense_to_Mixture-of-Experts_via_Parameter_Merging.md)
 
 - [U-shaped and Inverted-U Scaling behind Emergent Abilities of Large Language Models](2024年10月02日/U-shaped_and_Inverted-U_Scaling_behind_Emergent_Abilities_of_Large_Language_Models.md)
 
