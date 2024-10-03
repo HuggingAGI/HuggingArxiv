@@ -22,10 +22,6 @@
 
     - [翻译: 自动演绎编码在话语分析中的应用：探索大型语言模型在学习分析中的潜力](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
 
-- [Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension](2024年10月02日/Boosting_Weakly-Supervised_Referring_Image_Segmentation_via_Progressive_Comprehension.md)
-
-    - [翻译: 逐步理解，提升弱监督引用图像分割](2024年10月02日/Boosting_Weakly-Supervised_Referring_Image_Segmentation_via_Progressive_Comprehension.md)
-
 - [Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks](2024年10月02日/Can_We_Further_Elicit_Reasoning_in_LLMs_Critic-Guided_Planning_with_Retrieval-Augmentation_for_Solving_Challenging_Tasks.md)
 
     - [翻译: 我们能否在 LLM 中进一步激发推理能力？通过批评者引导的规划与检索增强，解决复杂任务。](2024年10月02日/Can_We_Further_Elicit_Reasoning_in_LLMs_Critic-Guided_Planning_with_Retrieval-Augmentation_for_Solving_Challenging_Tasks.md)
@@ -46,14 +42,6 @@
 
     - [翻译: CrowdCounter：一款专为多目标反驳言论设计的特定类型数据集基准](2024年10月02日/CrowdCounter_A_benchmark_type-specific_multi-target_counterspeech_dataset.md)
 
-- [Data Extrapolation for Text-to-image Generation on Small Datasets](2024年10月02日/Data_Extrapolation_for_Text-to-image_Generation_on_Small_Datasets.md)
-
-    - [翻译: 小数据集上的文本到图像生成中的数据外推](2024年10月02日/Data_Extrapolation_for_Text-to-image_Generation_on_Small_Datasets.md)
-
-- [DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models](2024年10月02日/DLP-LoRA_Efficient_Task-Specific_LoRA_Fusion_with_a_Dynamic,_Lightweight_Plugin_for_Large_Language_Models.md)
-
-    - [翻译: DLP-LoRA：为大型语言模型量身定制的动态轻量级插件，实现高效的任务特定 LoRA 融合](2024年10月02日/DLP-LoRA_Efficient_Task-Specific_LoRA_Fusion_with_a_Dynamic,_Lightweight_Plugin_for_Large_Language_Models.md)
-
 - [Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation](2024年10月02日/Elaborative_Subtopic_Query_Reformulation_for_Broad_and_Indirect_Queries_in_Travel_Destination_Recommendation.md)
 
     - [翻译: 旅行目的地推荐中的广泛与间接查询，通过详细子主题查询重构来优化。](2024年10月02日/Elaborative_Subtopic_Query_Reformulation_for_Broad_and_Indirect_Queries_in_Travel_Destination_Recommendation.md)
@@ -69,10 +57,6 @@
 - [FactAlign: Long-form Factuality Alignment of Large Language Models](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
 
     - [翻译: FactAlign：大型语言模型的长篇事实对齐技术](2024年10月02日/FactAlign_Long-form_Factuality_Alignment_of_Large_Language_Models.md)
-
-- [Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?](2024年10月02日/Fira_Can_We_Achieve_Full-rank_Training_of_LLMs_Under_Low-rank_Constraint.md)
-
-    - [翻译: Fira：在低秩限制下，我们能否实现 LLM 的全秩训练？](2024年10月02日/Fira_Can_We_Achieve_Full-rank_Training_of_LLMs_Under_Low-rank_Constraint.md)
 
 - [From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge](2024年10月02日/From_Reward_Shaping_to_Q-Shaping_Achieving_Unbiased_Learning_with_LLM-Guided_Knowledge.md)
 
@@ -122,10 +106,6 @@
 
     - [翻译: 问题引导的知识图谱重评与注入，助力知识图谱问答](2024年10月02日/Question-guided_Knowledge_Graph_Re-scoring_and_Injection_for_Knowledge_Graph_Question_Answering.md)
 
-- [Recursive Abstractive Processing for Retrieval in Dynamic Datasets](2024年10月02日/Recursive_Abstractive_Processing_for_Retrieval_in_Dynamic_Datasets.md)
-
-    - [翻译: 动态数据集中的递归抽象检索](2024年10月02日/Recursive_Abstractive_Processing_for_Retrieval_in_Dynamic_Datasets.md)
-
 - [Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search](2024年10月02日/Revisiting_the_Index_Construction_of_Proximity_Graph-Based_Approximate_Nearest_Neighbor_Search.md)
 
     - [翻译: 重探基于邻近图的近似最近邻搜索索引构建](2024年10月02日/Revisiting_the_Index_Construction_of_Proximity_Graph-Based_Approximate_Nearest_Neighbor_Search.md)
@@ -133,10 +113,6 @@
 - [RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](2024年10月02日/RGD_Multi-LLM_Based_Agent_Debugger_via_Refinement_and_Generation_Guidance.md)
 
     - [翻译: RGD：基于多 LLM 的代理调试器，通过精炼与生成指导实现优化](2024年10月02日/RGD_Multi-LLM_Based_Agent_Debugger_via_Refinement_and_Generation_Guidance.md)
-
-- [Saliency-Guided DETR for Moment Retrieval and Highlight Detection](2024年10月02日/Saliency-Guided_DETR_for_Moment_Retrieval_and_Highlight_Detection.md)
-
-    - [翻译: 显著性引导的 DETR 技术，专为时刻检索和高光检测而生。](2024年10月02日/Saliency-Guided_DETR_for_Moment_Retrieval_and_Highlight_Detection.md)
 
 - [Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
 
