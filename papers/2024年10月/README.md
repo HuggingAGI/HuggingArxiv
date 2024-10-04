@@ -58,10 +58,6 @@
 
     - [翻译: CriSPO：一种多角度批评与建议引导的文本生成自动提示优化工具](2024年10月03日/CriSPO_Multi-Aspect_Critique-Suggestion-guided_Automatic_Prompt_Optimization_for_Text_Generation.md)
 
-- [CulturalBench: a Robust, Diverse and Challenging Benchmark on Measuring the (Lack of) Cultural Knowledge of LLMs](2024年10月03日/CulturalBench_a_Robust,_Diverse_and_Challenging_Benchmark_on_Measuring_the_(Lack_of)_Cultural_Knowledge_of_LLMs.md)
-
-    - [翻译: CulturalBench：一个稳健、多样且具有挑战性的基准，旨在衡量大型语言模型（LLMs）的文化知识水平。](2024年10月03日/CulturalBench_a_Robust,_Diverse_and_Challenging_Benchmark_on_Measuring_the_(Lack_of)_Cultural_Knowledge_of_LLMs.md)
-
 - [Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
     - [翻译: 精简废话：为基于LLM的多代理系统打造经济高效的通信通道](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
@@ -73,14 +69,6 @@
 - [Defining Knowledge: Bridging Epistemology and Large Language Models](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
 
     - [翻译: 知识之桥：连接认识论与大型语言模型](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
-
-- [Distilling an End-to-End Voice Assistant Without Instruction Training Data](2024年10月03日/Distilling_an_End-to-End_Voice_Assistant_Without_Instruction_Training_Data.md)
-
-    - [翻译: 无指令数据，精炼端到端语音助手](2024年10月03日/Distilling_an_End-to-End_Voice_Assistant_Without_Instruction_Training_Data.md)
-
-- [DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects](2024年10月03日/DivScene_Benchmarking_LVLMs_for_Object_Navigation_with_Diverse_Scenes_and_Objects.md)
-
-    - [翻译: DivScene：通过多样场景与对象，评估 LVLMs 在对象导航中的表现](2024年10月03日/DivScene_Benchmarking_LVLMs_for_Object_Navigation_with_Diverse_Scenes_and_Objects.md)
 
 - [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
 
@@ -122,10 +110,6 @@
 
     - [翻译: 视觉语言模型助力长时任务与运动规划](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
 
-- [Hate Personified: Investigating the role of LLMs in content moderation](2024年10月03日/Hate_Personified_Investigating_the_role_of_LLMs_in_content_moderation.md)
-
-    - [翻译: 仇恨的化身：探究 LLM 在内容审核中的作用](2024年10月03日/Hate_Personified_Investigating_the_role_of_LLMs_in_content_moderation.md)
-
 - [HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router](2024年10月03日/HiddenGuard_Fine-Grained_Safe_Generation_with_Specialized_Representation_Router.md)
 
     - [翻译: HiddenGuard：细粒度安全生成与专用表示路由器](2024年10月03日/HiddenGuard_Fine-Grained_Safe_Generation_with_Specialized_Representation_Router.md)
@@ -133,10 +117,6 @@
 - [How Much Can RAG Help the Reasoning of LLM?](2024年10月03日/How_Much_Can_RAG_Help_the_Reasoning_of_LLM.md)
 
     - [翻译: RAG 究竟能为 LLM 的推理能力带来多大提升？](2024年10月03日/How_Much_Can_RAG_Help_the_Reasoning_of_LLM.md)
-
-- [Intelligence at the Edge of Chaos](2024年10月03日/Intelligence_at_the_Edge_of_Chaos.md)
-
-    - [翻译: 智能，诞生于混沌的边缘。](2024年10月03日/Intelligence_at_the_Edge_of_Chaos.md)
 
 - [IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models](2024年10月03日/IoT-LLM_Enhancing_Real-World_IoT_Task_Reasoning_with_Large_Language_Models.md)
 
@@ -153,10 +133,6 @@
 - [Large Language Model Aided Multi-objective Evolutionary Algorithm: a Low-cost Adaptive Approach](2024年10月03日/Large_Language_Model_Aided_Multi-objective_Evolutionary_Algorithm_a_Low-cost_Adaptive_Approach.md)
 
     - [翻译: 大型语言模型助力多目标进化算法：低成本自适应新途径](2024年10月03日/Large_Language_Model_Aided_Multi-objective_Evolutionary_Algorithm_a_Low-cost_Adaptive_Approach.md)
-
-- [Large Language Model for Multi-Domain Translation: Benchmarking and Domain CoT Fine-tuning](2024年10月03日/Large_Language_Model_for_Multi-Domain_Translation_Benchmarking_and_Domain_CoT_Fine-tuning.md)
-
-    - [翻译: 大型语言模型在多领域翻译中的应用：基准测试与领域 CoT 微调](2024年10月03日/Large_Language_Model_for_Multi-Domain_Translation_Benchmarking_and_Domain_CoT_Fine-tuning.md)
 
 - [Large Language Models as Markov Chains](2024年10月03日/Large_Language_Models_as_Markov_Chains.md)
 
