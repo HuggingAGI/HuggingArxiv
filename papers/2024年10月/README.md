@@ -14,37 +14,17 @@
 
     - [翻译: 文本文件中业务流程信息的辅助标注提取](2024年10月02日/Assisted_Data_Annotation_for_Business_Process_Information_Extraction_from_Textual_Documents.md)
 
-- [Automatic deductive coding in discourse analysis: an application of large language models in learning analytics](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
-
-    - [翻译: 自动演绎编码在话语分析中的应用：探索大型语言模型在学习分析中的潜力](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
-
-- [Cognition Transferring and Decoupling for Text-supervised Egocentric Semantic Segmentation](2024年10月02日/Cognition_Transferring_and_Decoupling_for_Text-supervised_Egocentric_Semantic_Segmentation.md)
-
-    - [翻译: 文本监督下的自我中心语义分割：认知转移与解耦](2024年10月02日/Cognition_Transferring_and_Decoupling_for_Text-supervised_Egocentric_Semantic_Segmentation.md)
-
 - [CrowdCounter: A benchmark type-specific multi-target counterspeech dataset](2024年10月02日/CrowdCounter_A_benchmark_type-specific_multi-target_counterspeech_dataset.md)
 
     - [翻译: CrowdCounter：一款专为多目标反驳言论设计的特定类型数据集基准](2024年10月02日/CrowdCounter_A_benchmark_type-specific_multi-target_counterspeech_dataset.md)
-
-- [Emotion-Aware Response Generation Using Affect-Enriched Embeddings with LLMs](2024年10月02日/Emotion-Aware_Response_Generation_Using_Affect-Enriched_Embeddings_with_LLMs.md)
-
-    - [翻译: 利用情感增强嵌入的LLM实现情感感知回复生成](2024年10月02日/Emotion-Aware_Response_Generation_Using_Affect-Enriched_Embeddings_with_LLMs.md)
 
 - [HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
 
     - [翻译: HarmAug：为安全防护模型的知识蒸馏提供高效数据增强](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
 
-- [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](2024年10月02日/Layer_Swapping_for_Zero-Shot_Cross-Lingual_Transfer_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的零-shot 跨语言迁移：层交换策略](2024年10月02日/Layer_Swapping_for_Zero-Shot_Cross-Lingual_Transfer_in_Large_Language_Models.md)
-
 - [Lines of Thought in Large Language Models](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型中的思维轨迹](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
-
-- [Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
-
-    - [翻译: 稀疏自编码器揭秘了大型语言模型中的时间差异学习机制。](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
 
 - [The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs](2024年10月02日/The_Labyrinth_of_Links_Navigating_the_Associative_Maze_of_Multi-modal_LLMs.md)
 
