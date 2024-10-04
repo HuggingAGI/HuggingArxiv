@@ -18,10 +18,6 @@
 
     - [翻译: 自动演绎编码在话语分析中的应用：探索大型语言模型在学习分析中的潜力](2024年10月02日/Automatic_deductive_coding_in_discourse_analysis_an_application_of_large_language_models_in_learning_analytics.md)
 
-- [Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks](2024年10月02日/Can_We_Further_Elicit_Reasoning_in_LLMs_Critic-Guided_Planning_with_Retrieval-Augmentation_for_Solving_Challenging_Tasks.md)
-
-    - [翻译: 我们能否在 LLM 中进一步激发推理能力？通过批评者引导的规划与检索增强，解决复杂任务。](2024年10月02日/Can_We_Further_Elicit_Reasoning_in_LLMs_Critic-Guided_Planning_with_Retrieval-Augmentation_for_Solving_Challenging_Tasks.md)
-
 - [Cognition Transferring and Decoupling for Text-supervised Egocentric Semantic Segmentation](2024年10月02日/Cognition_Transferring_and_Decoupling_for_Text-supervised_Egocentric_Semantic_Segmentation.md)
 
     - [翻译: 文本监督下的自我中心语义分割：认知转移与解耦](2024年10月02日/Cognition_Transferring_and_Decoupling_for_Text-supervised_Egocentric_Semantic_Segmentation.md)
@@ -33,10 +29,6 @@
 - [Emotion-Aware Response Generation Using Affect-Enriched Embeddings with LLMs](2024年10月02日/Emotion-Aware_Response_Generation_Using_Affect-Enriched_Embeddings_with_LLMs.md)
 
     - [翻译: 利用情感增强嵌入的LLM实现情感感知回复生成](2024年10月02日/Emotion-Aware_Response_Generation_Using_Affect-Enriched_Embeddings_with_LLMs.md)
-
-- [From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge](2024年10月02日/From_Reward_Shaping_to_Q-Shaping_Achieving_Unbiased_Learning_with_LLM-Guided_Knowledge.md)
-
-    - [翻译: 从奖励塑造到 Q-Shaping：借助 LLM 引导的知识，实现无偏学习](2024年10月02日/From_Reward_Shaping_to_Q-Shaping_Achieving_Unbiased_Learning_with_LLM-Guided_Knowledge.md)
 
 - [HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models](2024年10月02日/HarmAug_Effective_Data_Augmentation_for_Knowledge_Distillation_of_Safety_Guard_Models.md)
 
@@ -50,18 +42,6 @@
 
     - [翻译: 大型语言模型中的思维轨迹](2024年10月02日/Lines_of_Thought_in_Large_Language_Models.md)
 
-- [OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
-
-    - [翻译: OCC-MLLM：助力多模态大型语言模型，提升对遮挡物体的理解能力](2024年10月02日/OCC-MLLMEmpowering_Multimodal_Large_Language_Model_For_the_Understanding_of_Occluded_Objects.md)
-
-- [Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search](2024年10月02日/Revisiting_the_Index_Construction_of_Proximity_Graph-Based_Approximate_Nearest_Neighbor_Search.md)
-
-    - [翻译: 重探基于邻近图的近似最近邻搜索索引构建](2024年10月02日/Revisiting_the_Index_Construction_of_Proximity_Graph-Based_Approximate_Nearest_Neighbor_Search.md)
-
-- [RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](2024年10月02日/RGD_Multi-LLM_Based_Agent_Debugger_via_Refinement_and_Generation_Guidance.md)
-
-    - [翻译: RGD：基于多 LLM 的代理调试器，通过精炼与生成指导实现优化](2024年10月02日/RGD_Multi-LLM_Based_Agent_Debugger_via_Refinement_and_Generation_Guidance.md)
-
 - [Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
 
     - [翻译: 稀疏自编码器揭秘了大型语言模型中的时间差异学习机制。](2024年10月02日/Sparse_Autoencoders_Reveal_Temporal_Difference_Learning_in_Large_Language_Models.md)
@@ -69,7 +49,3 @@
 - [The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs](2024年10月02日/The_Labyrinth_of_Links_Navigating_the_Associative_Maze_of_Multi-modal_LLMs.md)
 
     - [翻译: 链接迷宫：探索多模态大型语言模型的关联网络](2024年10月02日/The_Labyrinth_of_Links_Navigating_the_Associative_Maze_of_Multi-modal_LLMs.md)
-
-- [Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process](2024年10月02日/Verbalized_Graph_Representation_Learning_A_Fully_Interpretable_Graph_Model_Based_on_Large_Language_Models_Throughout_the_Entire_Process.md)
-
-    - [翻译: 语言化图表示学习：基于大型语言模型的全过程完全可解释图模型](2024年10月02日/Verbalized_Graph_Representation_Learning_A_Fully_Interpretable_Graph_Model_Based_on_Large_Language_Models_Throughout_the_Entire_Process.md)
