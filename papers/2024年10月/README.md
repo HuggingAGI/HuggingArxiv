@@ -2,10 +2,6 @@
 
 2024年10月03日
 
-- [A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond](2024年10月03日/A_Comprehensive_Survey_of_Mamba_Architectures_for_Medical_Image_Analysis_Classification,_Segmentation,_Restoration_and_Beyond.md)
-
-    - [翻译: 全面探索 Mamba 架构在医学图像分析中的应用：从分类、分割到恢复及其他领域](2024年10月03日/A_Comprehensive_Survey_of_Mamba_Architectures_for_Medical_Image_Analysis_Classification,_Segmentation,_Restoration_and_Beyond.md)
-
 - [Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation](2024年10月03日/Adaptive_Inference-Time_Compute_LLMs_Can_Predict_if_They_Can_Do_Better,_Even_Mid-Generation.md)
 
     - [翻译: LLM 具备自适应推理时计算能力，即使在生成过程中也能预测自身表现是否还有提升空间。](2024年10月03日/Adaptive_Inference-Time_Compute_LLMs_Can_Predict_if_They_Can_Do_Better,_Even_Mid-Generation.md)
@@ -57,10 +53,6 @@
 - [ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration](2024年10月03日/ColaCare_Enhancing_Electronic_Health_Record_Modeling_through_Large_Language_Model-Driven_Multi-Agent_Collaboration.md)
 
     - [翻译: ColaCare：借助大型语言模型驱动的多智能体协作，提升电子健康记录的建模效果。](2024年10月03日/ColaCare_Enhancing_Electronic_Health_Record_Modeling_through_Large_Language_Model-Driven_Multi-Agent_Collaboration.md)
-
-- [CoLLAP: Contrastive Long-form Language-Audio Pretraining with Musical Temporal Structure Augmentation](2024年10月03日/CoLLAP_Contrastive_Long-form_Language-Audio_Pretraining_with_Musical_Temporal_Structure_Augmentation.md)
-
-    - [翻译: CoLLAP：结合音乐时间结构增强的对比长篇语言与音频预训练](2024年10月03日/CoLLAP_Contrastive_Long-form_Language-Audio_Pretraining_with_Musical_Temporal_Structure_Augmentation.md)
 
 - [Collective Critics for Creative Story Generation](2024年10月03日/Collective_Critics_for_Creative_Story_Generation.md)
 
@@ -202,10 +194,6 @@
 
     - [翻译: Llama SLayer 8B：浅层层级是知识注入的关键所在](2024年10月03日/Llama_SLayer_8B_Shallow_Layers_Hold_the_Key_to_Knowledge_Injection.md)
 
-- [LLaVA-Critic: Learning to Evaluate Multimodal Models](2024年10月03日/LLaVA-Critic_Learning_to_Evaluate_Multimodal_Models.md)
-
-    - [翻译: LLaVA-Critic：掌握多模态模型评估之道](2024年10月03日/LLaVA-Critic_Learning_to_Evaluate_Multimodal_Models.md)
-
 - [LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
 
     - [翻译: LLM-Pilot：精调与优化您的 LLM 推理服务性能](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
@@ -330,20 +318,6 @@
 
     - [翻译: 探索扩散模型在少样本语义分割中的无限可能](2024年10月03日/Unleashing_the_Potential_of_the_Diffusion_Model_in_Few-shot_Semantic_Segmentation.md)
 
-- [Video Instruction Tuning With Synthetic Data](2024年10月03日/Video_Instruction_Tuning_With_Synthetic_Data.md)
-
-    - [翻译: 视频指令调整：合成数据的力量](2024年10月03日/Video_Instruction_Tuning_With_Synthetic_Data.md)
-
 - [Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos](2024年10月03日/Vinoground_Scrutinizing_LMMs_over_Dense_Temporal_Reasoning_with_Short_Videos.md)
 
     - [翻译: Vinoground：通过短片深入探究大型多模态模型在密集时间推理中的表现](2024年10月03日/Vinoground_Scrutinizing_LMMs_over_Dense_Temporal_Reasoning_with_Short_Videos.md)
-
-2024年10月02日
-
-- [Controlled Generation of Natural Adversarial Documents for Stealthy Retrieval Poisoning](2024年10月02日/Controlled_Generation_of_Natural_Adversarial_Documents_for_Stealthy_Retrieval_Poisoning.md)
-
-    - [翻译: 隐秘检索中毒的自然对抗文档的精准生成](2024年10月02日/Controlled_Generation_of_Natural_Adversarial_Documents_for_Stealthy_Retrieval_Poisoning.md)
-
-- [Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics](2024年10月02日/Zodiac_A_Cardiologist-Level_LLM_Framework_for_Multi-Agent_Diagnostics.md)
-
-    - [翻译: Zodiac：一款心脏病专家级别的多智能体诊断 LLM 框架](2024年10月02日/Zodiac_A_Cardiologist-Level_LLM_Framework_for_Multi-Agent_Diagnostics.md)
