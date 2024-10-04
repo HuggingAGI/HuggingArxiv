@@ -50,10 +50,6 @@
 
     - [翻译: ControlAR：借助自回归模型实现图像生成的精准操控](2024年10月03日/ControlAR_Controllable_Image_Generation_with_Autoregressive_Models.md)
 
-- [CorPipe at CRAC 2024: Predicting Zero Mentions from Raw Text](2024年10月03日/CorPipe_at_CRAC_2024_Predicting_Zero_Mentions_from_Raw_Text.md)
-
-    - [翻译: CorPipe 亮相 CRAC 2024，挑战从原始文本中预测零提及。](2024年10月03日/CorPipe_at_CRAC_2024_Predicting_Zero_Mentions_from_Raw_Text.md)
-
 - [CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation](2024年10月03日/CriSPO_Multi-Aspect_Critique-Suggestion-guided_Automatic_Prompt_Optimization_for_Text_Generation.md)
 
     - [翻译: CriSPO：一种多角度批评与建议引导的文本生成自动提示优化工具](2024年10月03日/CriSPO_Multi-Aspect_Critique-Suggestion-guided_Automatic_Prompt_Optimization_for_Text_Generation.md)
@@ -62,10 +58,6 @@
 
     - [翻译: 精简废话：为基于LLM的多代理系统打造经济高效的通信通道](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
-- [DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life](2024年10月03日/DailyDilemmas_Revealing_Value_Preferences_of_LLMs_with_Quandaries_of_Daily_Life.md)
-
-    - [翻译: DailyDilemmas：通过日常生活中的困境，揭示 LLM 的价值偏好](2024年10月03日/DailyDilemmas_Revealing_Value_Preferences_of_LLMs_with_Quandaries_of_Daily_Life.md)
-
 - [Defining Knowledge: Bridging Epistemology and Large Language Models](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
 
     - [翻译: 知识之桥：连接认识论与大型语言模型](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
@@ -73,10 +65,6 @@
 - [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
 
     - [翻译: Dog-IQA：一种标准引导的零-shot MLLM，专为混合粒度图像质量评估设计](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
-
-- [DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM](2024年10月03日/DTVLT_A_Multi-modal_Diverse_Text_Benchmark_for_Visual_Language_Tracking_Based_on_LLM.md)
-
-    - [翻译: DTVLT：一个基于 LLM 的视觉语言跟踪多模态多样化文本基准](2024年10月03日/DTVLT_A_Multi-modal_Diverse_Text_Benchmark_for_Visual_Language_Tracking_Based_on_LLM.md)
 
 - [Dual Active Learning for Reinforcement Learning from Human Feedback](2024年10月03日/Dual_Active_Learning_for_Reinforcement_Learning_from_Human_Feedback.md)
 
@@ -110,10 +98,6 @@
 
     - [翻译: 视觉语言模型助力长时任务与运动规划](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
 
-- [HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router](2024年10月03日/HiddenGuard_Fine-Grained_Safe_Generation_with_Specialized_Representation_Router.md)
-
-    - [翻译: HiddenGuard：细粒度安全生成与专用表示路由器](2024年10月03日/HiddenGuard_Fine-Grained_Safe_Generation_with_Specialized_Representation_Router.md)
-
 - [How Much Can RAG Help the Reasoning of LLM?](2024年10月03日/How_Much_Can_RAG_Help_the_Reasoning_of_LLM.md)
 
     - [翻译: RAG 究竟能为 LLM 的推理能力带来多大提升？](2024年10月03日/How_Much_Can_RAG_Help_the_Reasoning_of_LLM.md)
@@ -134,10 +118,6 @@
 
     - [翻译: 大型语言模型助力多目标进化算法：低成本自适应新途径](2024年10月03日/Large_Language_Model_Aided_Multi-objective_Evolutionary_Algorithm_a_Low-cost_Adaptive_Approach.md)
 
-- [Large Language Models as Markov Chains](2024年10月03日/Large_Language_Models_as_Markov_Chains.md)
-
-    - [翻译: 大型语言模型：马尔可夫链视角](2024年10月03日/Large_Language_Models_as_Markov_Chains.md)
-
 - [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](2024年10月03日/Llama_SLayer_8B_Shallow_Layers_Hold_the_Key_to_Knowledge_Injection.md)
 
     - [翻译: Llama SLayer 8B：浅层层级是知识注入的关键所在](2024年10月03日/Llama_SLayer_8B_Shallow_Layers_Hold_the_Key_to_Knowledge_Injection.md)
@@ -145,10 +125,6 @@
 - [LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
 
     - [翻译: LLM-Pilot：精调与优化您的 LLM 推理服务性能](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
-
-- [LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations](2024年10月03日/LLMs_Know_More_Than_They_Show_On_the_Intrinsic_Representation_of_LLM_Hallucinations.md)
-
-    - [翻译: LLM 隐藏的知识比它们展示的更多：探讨 LLM 幻觉的内在机制](2024年10月03日/LLMs_Know_More_Than_They_Show_On_the_Intrinsic_Representation_of_LLM_Hallucinations.md)
 
 - [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](2024年10月03日/Loong_Generating_Minute-level_Long_Videos_with_Autoregressive_Language_Models.md)
 
@@ -233,10 +209,6 @@
 - [UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation](2024年10月03日/UncertaintyRAG_Span-Level_Uncertainty_Enhanced_Long-Context_Modeling_for_Retrieval-Augmented_Generation.md)
 
     - [翻译: UncertaintyRAG：通过跨度级不确定性增强，优化检索增强生成的长上下文建模](2024年10月03日/UncertaintyRAG_Span-Level_Uncertainty_Enhanced_Long-Context_Modeling_for_Retrieval-Augmented_Generation.md)
-
-- [Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models](2024年10月03日/Understanding_and_Mitigating_Miscalibration_in_Prompt_Tuning_for_Vision-Language_Models.md)
-
-    - [翻译: 探索并缓解视觉-语言模型提示调优中的校准偏差](2024年10月03日/Understanding_and_Mitigating_Miscalibration_in_Prompt_Tuning_for_Vision-Language_Models.md)
 
 - [Undesirable Memorization in Large Language Models: A Survey](2024年10月03日/Undesirable_Memorization_in_Large_Language_Models_A_Survey.md)
 
