@@ -4,7 +4,19 @@
 
 - [A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond](2024年10月03日/A_Comprehensive_Survey_of_Mamba_Architectures_for_Medical_Image_Analysis_Classification,_Segmentation,_Restoration_and_Beyond.md)
 
-    - [翻译: 全面探索 Mamba 架构在医学图像分析中的应用：涵盖分类、分割、恢复等多个领域，展望未来发展。](2024年10月03日/A_Comprehensive_Survey_of_Mamba_Architectures_for_Medical_Image_Analysis_Classification,_Segmentation,_Restoration_and_Beyond.md)
+    - [翻译: 全面探索 Mamba 架构在医学图像分析中的应用：从分类、分割到恢复及其他领域](2024年10月03日/A_Comprehensive_Survey_of_Mamba_Architectures_for_Medical_Image_Analysis_Classification,_Segmentation,_Restoration_and_Beyond.md)
+
+- [Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation](2024年10月03日/Adaptive_Inference-Time_Compute_LLMs_Can_Predict_if_They_Can_Do_Better,_Even_Mid-Generation.md)
+
+    - [翻译: LLM 具备自适应推理时计算能力，即使在生成过程中也能预测自身表现是否还有提升空间。](2024年10月03日/Adaptive_Inference-Time_Compute_LLMs_Can_Predict_if_They_Can_Do_Better,_Even_Mid-Generation.md)
+
+- [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](2024年10月03日/Agent_Security_Bench_(ASB)_Formalizing_and_Benchmarking_Attacks_and_Defenses_in_LLM-based_Agents.md)
+
+    - [翻译: Agent Security Bench (ASB): 为基于 LLM 的代理中的攻击与防御提供形式化定义和基准测试](2024年10月03日/Agent_Security_Bench_(ASB)_Formalizing_and_Benchmarking_Attacks_and_Defenses_in_LLM-based_Agents.md)
+
+- [Agents' Room: Narrative Generation through Multi-step Collaboration](2024年10月03日/Agents'_Room_Narrative_Generation_through_Multi-step_Collaboration.md)
+
+    - [翻译: Agents' Room：多步骤协作下的叙事生成](2024年10月03日/Agents'_Room_Narrative_Generation_through_Multi-step_Collaboration.md)
 
 - [AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](2024年10月03日/AlphaEdit_Null-Space_Constrained_Knowledge_Editing_for_Language_Models.md)
 
@@ -13,6 +25,10 @@
 - [A Survey on Point-of-Interest Recommendation: Models, Architectures, and Security](2024年10月03日/A_Survey_on_Point-of-Interest_Recommendation_Models,_Architectures,_and_Security.md)
 
     - [翻译: 兴趣点推荐大调查：模型、架构与安全性的全面解析](2024年10月03日/A_Survey_on_Point-of-Interest_Recommendation_Models,_Architectures,_and_Security.md)
+
+- [Attention in Large Language Models Yields Efficient Zero-Shot Re-Rankers](2024年10月03日/Attention_in_Large_Language_Models_Yields_Efficient_Zero-Shot_Re-Rankers.md)
+
+    - [翻译: 大型语言模型中的注意力机制，成就了高效的零-shot 重新排序器。](2024年10月03日/Attention_in_Large_Language_Models_Yields_Efficient_Zero-Shot_Re-Rankers.md)
 
 - [Better Call SAUL: Fluent and Consistent Language Model Editing with Generation Regularization](2024年10月03日/Better_Call_SAUL_Fluent_and_Consistent_Language_Model_Editing_with_Generation_Regularization.md)
 
@@ -50,6 +66,14 @@
 
     - [翻译: 创意故事生成的集体评判](2024年10月03日/Collective_Critics_for_Creative_Story_Generation.md)
 
+- [Contrastive Localized Language-Image Pre-Training](2024年10月03日/Contrastive_Localized_Language-Image_Pre-Training.md)
+
+    - [翻译: 语言与图像的对比本地化预训练](2024年10月03日/Contrastive_Localized_Language-Image_Pre-Training.md)
+
+- [ControlAR: Controllable Image Generation with Autoregressive Models](2024年10月03日/ControlAR_Controllable_Image_Generation_with_Autoregressive_Models.md)
+
+    - [翻译: ControlAR：借助自回归模型实现图像生成的精准操控](2024年10月03日/ControlAR_Controllable_Image_Generation_with_Autoregressive_Models.md)
+
 - [CorPipe at CRAC 2024: Predicting Zero Mentions from Raw Text](2024年10月03日/CorPipe_at_CRAC_2024_Predicting_Zero_Mentions_from_Raw_Text.md)
 
     - [翻译: CorPipe 亮相 CRAC 2024，挑战从原始文本中预测零提及。](2024年10月03日/CorPipe_at_CRAC_2024_Predicting_Zero_Mentions_from_Raw_Text.md)
@@ -58,17 +82,37 @@
 
     - [翻译: CriSPO：一种多角度批评与建议引导的文本生成自动提示优化工具](2024年10月03日/CriSPO_Multi-Aspect_Critique-Suggestion-guided_Automatic_Prompt_Optimization_for_Text_Generation.md)
 
+- [CulturalBench: a Robust, Diverse and Challenging Benchmark on Measuring the (Lack of) Cultural Knowledge of LLMs](2024年10月03日/CulturalBench_a_Robust,_Diverse_and_Challenging_Benchmark_on_Measuring_the_(Lack_of)_Cultural_Knowledge_of_LLMs.md)
+
+    - [翻译: CulturalBench：一个稳健、多样且具有挑战性的基准，旨在衡量大型语言模型（LLMs）的文化知识水平。](2024年10月03日/CulturalBench_a_Robust,_Diverse_and_Challenging_Benchmark_on_Measuring_the_(Lack_of)_Cultural_Knowledge_of_LLMs.md)
+
 - [Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
     - [翻译: 精简废话：为基于LLM的多代理系统打造经济高效的通信通道](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
+
+- [DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life](2024年10月03日/DailyDilemmas_Revealing_Value_Preferences_of_LLMs_with_Quandaries_of_Daily_Life.md)
+
+    - [翻译: DailyDilemmas：通过日常生活中的困境，揭示 LLM 的价值偏好](2024年10月03日/DailyDilemmas_Revealing_Value_Preferences_of_LLMs_with_Quandaries_of_Daily_Life.md)
 
 - [Defining Knowledge: Bridging Epistemology and Large Language Models](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
 
     - [翻译: 知识之桥：连接认识论与大型语言模型](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
 
+- [Distilling an End-to-End Voice Assistant Without Instruction Training Data](2024年10月03日/Distilling_an_End-to-End_Voice_Assistant_Without_Instruction_Training_Data.md)
+
+    - [翻译: 无指令数据，精炼端到端语音助手](2024年10月03日/Distilling_an_End-to-End_Voice_Assistant_Without_Instruction_Training_Data.md)
+
+- [DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects](2024年10月03日/DivScene_Benchmarking_LVLMs_for_Object_Navigation_with_Diverse_Scenes_and_Objects.md)
+
+    - [翻译: DivScene：通过多样场景与对象，评估 LVLMs 在对象导航中的表现](2024年10月03日/DivScene_Benchmarking_LVLMs_for_Object_Navigation_with_Diverse_Scenes_and_Objects.md)
+
 - [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
 
-    - [翻译: Dog-IQA：一种标准引导的零-shot MLLM，专为混合粒度图像质量评估而设计](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
+    - [翻译: Dog-IQA：一种标准引导的零-shot MLLM，专为混合粒度图像质量评估设计](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
+
+- [Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization](2024年10月03日/Domain-Specific_Retrieval-Augmented_Generation_Using_Vector_Stores,_Knowledge_Graphs,_and_Tensor_Factorization.md)
+
+    - [翻译: 结合向量存储、知识图谱与张量分解，实现特定领域的检索增强生成技术。](2024年10月03日/Domain-Specific_Retrieval-Augmented_Generation_Using_Vector_Stores,_Knowledge_Graphs,_and_Tensor_Factorization.md)
 
 - [DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM](2024年10月03日/DTVLT_A_Multi-modal_Diverse_Text_Benchmark_for_Visual_Language_Tracking_Based_on_LLM.md)
 
@@ -106,9 +150,21 @@
 
     - [翻译: GraphIC：一种基于图的多步推理上下文示例检索模型，专为复杂推理任务设计。](2024年10月03日/GraphIC_A_Graph-Based_In-Context_Example_Retrieval_Model_for_Multi-Step_Reasoning.md)
 
+- [Grounding Large Language Models In Embodied Environment With Imperfect World Models](2024年10月03日/Grounding_Large_Language_Models_In_Embodied_Environment_With_Imperfect_World_Models.md)
+
+    - [翻译: 将大型语言模型嵌入具身环境，面对不完美的世界模型](2024年10月03日/Grounding_Large_Language_Models_In_Embodied_Environment_With_Imperfect_World_Models.md)
+
 - [Guiding Long-Horizon Task and Motion Planning with Vision Language Models](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
 
     - [翻译: 视觉语言模型助力长时任务与运动规划](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
+
+- [Hate Personified: Investigating the role of LLMs in content moderation](2024年10月03日/Hate_Personified_Investigating_the_role_of_LLMs_in_content_moderation.md)
+
+    - [翻译: 仇恨的化身：探究 LLM 在内容审核中的作用](2024年10月03日/Hate_Personified_Investigating_the_role_of_LLMs_in_content_moderation.md)
+
+- [HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router](2024年10月03日/HiddenGuard_Fine-Grained_Safe_Generation_with_Specialized_Representation_Router.md)
+
+    - [翻译: HiddenGuard：细粒度安全生成与专用表示路由器](2024年10月03日/HiddenGuard_Fine-Grained_Safe_Generation_with_Specialized_Representation_Router.md)
 
 - [How Much Can RAG Help the Reasoning of LLM?](2024年10月03日/How_Much_Can_RAG_Help_the_Reasoning_of_LLM.md)
 
@@ -134,13 +190,33 @@
 
     - [翻译: 大型语言模型助力多目标进化算法：低成本自适应新途径](2024年10月03日/Large_Language_Model_Aided_Multi-objective_Evolutionary_Algorithm_a_Low-cost_Adaptive_Approach.md)
 
+- [Large Language Model for Multi-Domain Translation: Benchmarking and Domain CoT Fine-tuning](2024年10月03日/Large_Language_Model_for_Multi-Domain_Translation_Benchmarking_and_Domain_CoT_Fine-tuning.md)
+
+    - [翻译: 大型语言模型在多领域翻译中的应用：基准测试与领域 CoT 微调](2024年10月03日/Large_Language_Model_for_Multi-Domain_Translation_Benchmarking_and_Domain_CoT_Fine-tuning.md)
+
+- [Large Language Models as Markov Chains](2024年10月03日/Large_Language_Models_as_Markov_Chains.md)
+
+    - [翻译: 大型语言模型：马尔可夫链视角](2024年10月03日/Large_Language_Models_as_Markov_Chains.md)
+
 - [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](2024年10月03日/Llama_SLayer_8B_Shallow_Layers_Hold_the_Key_to_Knowledge_Injection.md)
 
     - [翻译: Llama SLayer 8B：浅层层级是知识注入的关键所在](2024年10月03日/Llama_SLayer_8B_Shallow_Layers_Hold_the_Key_to_Knowledge_Injection.md)
 
+- [LLaVA-Critic: Learning to Evaluate Multimodal Models](2024年10月03日/LLaVA-Critic_Learning_to_Evaluate_Multimodal_Models.md)
+
+    - [翻译: LLaVA-Critic：掌握多模态模型评估之道](2024年10月03日/LLaVA-Critic_Learning_to_Evaluate_Multimodal_Models.md)
+
 - [LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
 
     - [翻译: LLM-Pilot：精调与优化您的 LLM 推理服务性能](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
+
+- [LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations](2024年10月03日/LLMs_Know_More_Than_They_Show_On_the_Intrinsic_Representation_of_LLM_Hallucinations.md)
+
+    - [翻译: LLM 隐藏的知识比它们展示的更多：探讨 LLM 幻觉的内在机制](2024年10月03日/LLMs_Know_More_Than_They_Show_On_the_Intrinsic_Representation_of_LLM_Hallucinations.md)
+
+- [LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model](2024年10月03日/LoGra-Med_Long_Context_Multi-Graph_Alignment_for_Medical_Vision-Language_Model.md)
+
+    - [翻译: LoGra-Med：医疗视觉-语言模型的长上下文多图对齐技术](2024年10月03日/LoGra-Med_Long_Context_Multi-Graph_Alignment_for_Medical_Vision-Language_Model.md)
 
 - [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](2024年10月03日/Loong_Generating_Minute-level_Long_Videos_with_Autoregressive_Language_Models.md)
 
@@ -149,6 +225,10 @@
 - [MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions](2024年10月03日/MA-RLHF_Reinforcement_Learning_from_Human_Feedback_with_Macro_Actions.md)
 
     - [翻译: MA-RLHF：通过宏动作进行的人类反馈强化学习](2024年10月03日/MA-RLHF_Reinforcement_Learning_from_Human_Feedback_with_Macro_Actions.md)
+
+- [Measuring and Improving Persuasiveness of Generative Models](2024年10月03日/Measuring_and_Improving_Persuasiveness_of_Generative_Models.md)
+
+    - [翻译: 评估并增强生成模型的说服力](2024年10月03日/Measuring_and_Improving_Persuasiveness_of_Generative_Models.md)
 
 - [Measuring, Evaluating and Improving Logical Consistency in Large Language Models](2024年10月03日/Measuring,_Evaluating_and_Improving_Logical_Consistency_in_Large_Language_Models.md)
 
@@ -182,6 +262,10 @@
 
     - [翻译: 后编辑也是偏好选择](2024年10月03日/Post-edits_Are_Preferences_Too.md)
 
+- [Preparing for Super-Reactivity: Early Fault-Detection in the Development of Exceedingly Complex Reactive Systems](2024年10月03日/Preparing_for_Super-Reactivity_Early_Fault-Detection_in_the_Development_of_Exceedingly_Complex_Reactive_Systems.md)
+
+    - [翻译: 为超级反应性做准备：在开发高度复杂的反应系统时，提前检测故障](2024年10月03日/Preparing_for_Super-Reactivity_Early_Fault-Detection_in_the_Development_of_Exceedingly_Complex_Reactive_Systems.md)
+
 - [Response Tuning: Aligning Large Language Models without Instruction](2024年10月03日/Response_Tuning_Aligning_Large_Language_Models_without_Instruction.md)
 
     - [翻译: 响应调优：无指令对齐大型语言模型](2024年10月03日/Response_Tuning_Aligning_Large_Language_Models_without_Instruction.md)
@@ -189,6 +273,14 @@
 - [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
 
     - [翻译: 重温前缀微调：提示重新参数化的统计益处](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
+
+- [Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models](2024年10月03日/Revisit_Large-Scale_Image-Caption_Data_in_Pre-training_Multimodal_Foundation_Models.md)
+
+    - [翻译: 重新探索预训练多模态基础模型中的大规模图像与标题数据](2024年10月03日/Revisit_Large-Scale_Image-Caption_Data_in_Pre-training_Multimodal_Foundation_Models.md)
+
+- [Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization](2024年10月03日/Salient_Information_Prompting_to_Steer_Content_in_Prompt-based_Abstractive_Summarization.md)
+
+    - [翻译: 通过显著信息提示，精准引导基于提示的抽象摘要内容生成。](2024年10月03日/Salient_Information_Prompting_to_Steer_Content_in_Prompt-based_Abstractive_Summarization.md)
 
 - [SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack](2024年10月03日/SCA_Highly_Efficient_Semantic-Consistent_Unrestricted_Adversarial_Attack.md)
 
@@ -210,6 +302,10 @@
 
     - [翻译: 微调注意力机制：理论视角下的泛化与优化](2024年10月03日/Theoretical_Insights_into_Fine-Tuning_Attention_Mechanism_Generalization_and_Optimization.md)
 
+- [Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions](2024年10月03日/Towards_Implicit_Bias_Detection_and_Mitigation_in_Multi-Agent_LLM_Interactions.md)
+
+    - [翻译: 探索多智能体 LLM 交互中的隐性偏见检测与缓解](2024年10月03日/Towards_Implicit_Bias_Detection_and_Mitigation_in_Multi-Agent_LLM_Interactions.md)
+
 - [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
 
     - [翻译: 是“交通灯”还是“轻交通”？探讨大语言模型中的短语语义](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
@@ -218,23 +314,35 @@
 
     - [翻译: 通过合成编辑序列训练语言模型，能显著提升代码合成的质量。](2024年10月03日/Training_Language_Models_on_Synthetic_Edit_Sequences_Improves_Code_Synthesis.md)
 
+- [UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation](2024年10月03日/UncertaintyRAG_Span-Level_Uncertainty_Enhanced_Long-Context_Modeling_for_Retrieval-Augmented_Generation.md)
+
+    - [翻译: UncertaintyRAG：通过跨度级不确定性增强，优化检索增强生成的长上下文建模](2024年10月03日/UncertaintyRAG_Span-Level_Uncertainty_Enhanced_Long-Context_Modeling_for_Retrieval-Augmented_Generation.md)
+
+- [Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models](2024年10月03日/Understanding_and_Mitigating_Miscalibration_in_Prompt_Tuning_for_Vision-Language_Models.md)
+
+    - [翻译: 探索并缓解视觉-语言模型提示调优中的校准偏差](2024年10月03日/Understanding_and_Mitigating_Miscalibration_in_Prompt_Tuning_for_Vision-Language_Models.md)
+
+- [Undesirable Memorization in Large Language Models: A Survey](2024年10月03日/Undesirable_Memorization_in_Large_Language_Models_A_Survey.md)
+
+    - [翻译: 大型语言模型中的不良记忆现象：全面调查](2024年10月03日/Undesirable_Memorization_in_Large_Language_Models_A_Survey.md)
+
 - [Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation](2024年10月03日/Unleashing_the_Potential_of_the_Diffusion_Model_in_Few-shot_Semantic_Segmentation.md)
 
     - [翻译: 探索扩散模型在少样本语义分割中的无限可能](2024年10月03日/Unleashing_the_Potential_of_the_Diffusion_Model_in_Few-shot_Semantic_Segmentation.md)
 
+- [Video Instruction Tuning With Synthetic Data](2024年10月03日/Video_Instruction_Tuning_With_Synthetic_Data.md)
+
+    - [翻译: 视频指令调整：合成数据的力量](2024年10月03日/Video_Instruction_Tuning_With_Synthetic_Data.md)
+
+- [Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos](2024年10月03日/Vinoground_Scrutinizing_LMMs_over_Dense_Temporal_Reasoning_with_Short_Videos.md)
+
+    - [翻译: Vinoground：通过短片深入探究大型多模态模型在密集时间推理中的表现](2024年10月03日/Vinoground_Scrutinizing_LMMs_over_Dense_Temporal_Reasoning_with_Short_Videos.md)
+
 2024年10月02日
-
-- [A LLM-Powered Automatic Grading Framework with Human-Level Guidelines Optimization](2024年10月02日/A_LLM-Powered_Automatic_Grading_Framework_with_Human-Level_Guidelines_Optimization.md)
-
-    - [翻译: 基于 LLM 的自动评分框架，实现了人类级别的指导优化。](2024年10月02日/A_LLM-Powered_Automatic_Grading_Framework_with_Human-Level_Guidelines_Optimization.md)
 
 - [Auction-Based Regulation for Artificial Intelligence](2024年10月02日/Auction-Based_Regulation_for_Artificial_Intelligence.md)
 
     - [翻译: 人工智能的拍卖式监管](2024年10月02日/Auction-Based_Regulation_for_Artificial_Intelligence.md)
-
-- [CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL](2024年10月02日/CHASE-SQL_Multi-Path_Reasoning_and_Preference_Optimized_Candidate_Selection_in_Text-to-SQL.md)
-
-    - [翻译: CHASE-SQL：优化文本到SQL转换中的多路径推理与候选选择](2024年10月02日/CHASE-SQL_Multi-Path_Reasoning_and_Preference_Optimized_Candidate_Selection_in_Text-to-SQL.md)
 
 - [Controlled Generation of Natural Adversarial Documents for Stealthy Retrieval Poisoning](2024年10月02日/Controlled_Generation_of_Natural_Adversarial_Documents_for_Stealthy_Retrieval_Poisoning.md)
 
@@ -243,10 +351,6 @@
 - [From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](2024年10月02日/From_Pixels_to_Tokens_Byte-Pair_Encoding_on_Quantized_Visual_Modalities.md)
 
     - [翻译: 从像素到标记：量化视觉模态中的字节对编码](2024年10月02日/From_Pixels_to_Tokens_Byte-Pair_Encoding_on_Quantized_Visual_Modalities.md)
-
-- [LLM-Augmented Symbolic Reinforcement Learning with Landmark-Based Task Decomposition](2024年10月02日/LLM-Augmented_Symbolic_Reinforcement_Learning_with_Landmark-Based_Task_Decomposition.md)
-
-    - [翻译: LLM 增强的符号强化学习，结合基于地标的任务分解技术](2024年10月02日/LLM-Augmented_Symbolic_Reinforcement_Learning_with_Landmark-Based_Task_Decomposition.md)
 
 - [Planning in Strawberry Fields: Evaluating and Improving the Planning and Scheduling Capabilities of LRM o1](2024年10月02日/Planning_in_Strawberry_Fields_Evaluating_and_Improving_the_Planning_and_Scheduling_Capabilities_of_LRM_o1.md)
 
