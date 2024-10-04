@@ -18,10 +18,6 @@
 
     - [翻译: 兴趣点推荐大调查：模型、架构与安全性的全面解析](2024年10月03日/A_Survey_on_Point-of-Interest_Recommendation_Models,_Architectures,_and_Security.md)
 
-- [Attention in Large Language Models Yields Efficient Zero-Shot Re-Rankers](2024年10月03日/Attention_in_Large_Language_Models_Yields_Efficient_Zero-Shot_Re-Rankers.md)
-
-    - [翻译: 大型语言模型中的注意力机制，成就了高效的零-shot 重新排序器。](2024年10月03日/Attention_in_Large_Language_Models_Yields_Efficient_Zero-Shot_Re-Rankers.md)
-
 - [Better Call SAUL: Fluent and Consistent Language Model Editing with Generation Regularization](2024年10月03日/Better_Call_SAUL_Fluent_and_Consistent_Language_Model_Editing_with_Generation_Regularization.md)
 
     - [翻译: 《更好的呼叫SAUL》：借助生成正则化，实现流畅且一致的语言模型编辑](2024年10月03日/Better_Call_SAUL_Fluent_and_Consistent_Language_Model_Editing_with_Generation_Regularization.md)
@@ -90,10 +86,6 @@
 
     - [翻译: Dog-IQA：一种标准引导的零-shot MLLM，专为混合粒度图像质量评估设计](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
 
-- [Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization](2024年10月03日/Domain-Specific_Retrieval-Augmented_Generation_Using_Vector_Stores,_Knowledge_Graphs,_and_Tensor_Factorization.md)
-
-    - [翻译: 结合向量存储、知识图谱与张量分解，实现特定领域的检索增强生成技术。](2024年10月03日/Domain-Specific_Retrieval-Augmented_Generation_Using_Vector_Stores,_Knowledge_Graphs,_and_Tensor_Factorization.md)
-
 - [DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM](2024年10月03日/DTVLT_A_Multi-modal_Diverse_Text_Benchmark_for_Visual_Language_Tracking_Based_on_LLM.md)
 
     - [翻译: DTVLT：一个基于 LLM 的视觉语言跟踪多模态多样化文本基准](2024年10月03日/DTVLT_A_Multi-modal_Diverse_Text_Benchmark_for_Visual_Language_Tracking_Based_on_LLM.md)
@@ -101,10 +93,6 @@
 - [Dual Active Learning for Reinforcement Learning from Human Feedback](2024年10月03日/Dual_Active_Learning_for_Reinforcement_Learning_from_Human_Feedback.md)
 
     - [翻译: 双主动学习：从人类反馈中强化学习的新路径](2024年10月03日/Dual_Active_Learning_for_Reinforcement_Learning_from_Human_Feedback.md)
-
-- [Dynamic Gradient Alignment for Online Data Mixing](2024年10月03日/Dynamic_Gradient_Alignment_for_Online_Data_Mixing.md)
-
-    - [翻译: 动态梯度对齐助力在线数据混合](2024年10月03日/Dynamic_Gradient_Alignment_for_Online_Data_Mixing.md)
 
 - [Efficient Second-Order Neural Network Optimization via Adaptive Trust Region Methods](2024年10月03日/Efficient_Second-Order_Neural_Network_Optimization_via_Adaptive_Trust_Region_Methods.md)
 
@@ -129,10 +117,6 @@
 - [GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning](2024年10月03日/GraphIC_A_Graph-Based_In-Context_Example_Retrieval_Model_for_Multi-Step_Reasoning.md)
 
     - [翻译: GraphIC：一种基于图的多步推理上下文示例检索模型，专为复杂推理任务设计。](2024年10月03日/GraphIC_A_Graph-Based_In-Context_Example_Retrieval_Model_for_Multi-Step_Reasoning.md)
-
-- [Grounding Large Language Models In Embodied Environment With Imperfect World Models](2024年10月03日/Grounding_Large_Language_Models_In_Embodied_Environment_With_Imperfect_World_Models.md)
-
-    - [翻译: 将大型语言模型嵌入具身环境，面对不完美的世界模型](2024年10月03日/Grounding_Large_Language_Models_In_Embodied_Environment_With_Imperfect_World_Models.md)
 
 - [Guiding Long-Horizon Task and Motion Planning with Vision Language Models](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
 
@@ -190,10 +174,6 @@
 
     - [翻译: LLM 隐藏的知识比它们展示的更多：探讨 LLM 幻觉的内在机制](2024年10月03日/LLMs_Know_More_Than_They_Show_On_the_Intrinsic_Representation_of_LLM_Hallucinations.md)
 
-- [LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model](2024年10月03日/LoGra-Med_Long_Context_Multi-Graph_Alignment_for_Medical_Vision-Language_Model.md)
-
-    - [翻译: LoGra-Med：医疗视觉-语言模型的长上下文多图对齐技术](2024年10月03日/LoGra-Med_Long_Context_Multi-Graph_Alignment_for_Medical_Vision-Language_Model.md)
-
 - [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](2024年10月03日/Loong_Generating_Minute-level_Long_Videos_with_Autoregressive_Language_Models.md)
 
     - [翻译: Loong：借助自回归语言模型，轻松生成分钟级长视频](2024年10月03日/Loong_Generating_Minute-level_Long_Videos_with_Autoregressive_Language_Models.md)
@@ -241,10 +221,6 @@
 - [Preparing for Super-Reactivity: Early Fault-Detection in the Development of Exceedingly Complex Reactive Systems](2024年10月03日/Preparing_for_Super-Reactivity_Early_Fault-Detection_in_the_Development_of_Exceedingly_Complex_Reactive_Systems.md)
 
     - [翻译: 为超级反应性做准备：在开发高度复杂的反应系统时，提前检测故障](2024年10月03日/Preparing_for_Super-Reactivity_Early_Fault-Detection_in_the_Development_of_Exceedingly_Complex_Reactive_Systems.md)
-
-- [Response Tuning: Aligning Large Language Models without Instruction](2024年10月03日/Response_Tuning_Aligning_Large_Language_Models_without_Instruction.md)
-
-    - [翻译: 响应调优：无指令对齐大型语言模型](2024年10月03日/Response_Tuning_Aligning_Large_Language_Models_without_Instruction.md)
 
 - [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
 
