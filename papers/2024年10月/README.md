@@ -340,29 +340,9 @@
 
 2024年10月02日
 
-- [Auction-Based Regulation for Artificial Intelligence](2024年10月02日/Auction-Based_Regulation_for_Artificial_Intelligence.md)
-
-    - [翻译: 人工智能的拍卖式监管](2024年10月02日/Auction-Based_Regulation_for_Artificial_Intelligence.md)
-
 - [Controlled Generation of Natural Adversarial Documents for Stealthy Retrieval Poisoning](2024年10月02日/Controlled_Generation_of_Natural_Adversarial_Documents_for_Stealthy_Retrieval_Poisoning.md)
 
     - [翻译: 隐秘检索中毒的自然对抗文档的精准生成](2024年10月02日/Controlled_Generation_of_Natural_Adversarial_Documents_for_Stealthy_Retrieval_Poisoning.md)
-
-- [From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](2024年10月02日/From_Pixels_to_Tokens_Byte-Pair_Encoding_on_Quantized_Visual_Modalities.md)
-
-    - [翻译: 从像素到标记：量化视觉模态中的字节对编码](2024年10月02日/From_Pixels_to_Tokens_Byte-Pair_Encoding_on_Quantized_Visual_Modalities.md)
-
-- [Planning in Strawberry Fields: Evaluating and Improving the Planning and Scheduling Capabilities of LRM o1](2024年10月02日/Planning_in_Strawberry_Fields_Evaluating_and_Improving_the_Planning_and_Scheduling_Capabilities_of_LRM_o1.md)
-
-    - [翻译: 草莓田中的规划：探索并提升 LRM o1 的规划与调度能力](2024年10月02日/Planning_in_Strawberry_Fields_Evaluating_and_Improving_the_Planning_and_Scheduling_Capabilities_of_LRM_o1.md)
-
-- [RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning](2024年10月02日/RLEF_Grounding_Code_LLMs_in_Execution_Feedback_with_Reinforcement_Learning.md)
-
-    - [翻译: RLEF：通过强化学习，将代码大语言模型与执行反馈相结合](2024年10月02日/RLEF_Grounding_Code_LLMs_in_Execution_Feedback_with_Reinforcement_Learning.md)
-
-- [UlcerGPT: A Multimodal Approach Leveraging Large Language and Vision Models for Diabetic Foot Ulcer Image Transcription](2024年10月02日/UlcerGPT_A_Multimodal_Approach_Leveraging_Large_Language_and_Vision_Models_for_Diabetic_Foot_Ulcer_Image_Transcription.md)
-
-    - [翻译: UlcerGPT：结合大型语言与视觉模型，创新多模态方法，精准转录糖尿病足溃疡图像。](2024年10月02日/UlcerGPT_A_Multimodal_Approach_Leveraging_Large_Language_and_Vision_Models_for_Diabetic_Foot_Ulcer_Image_Transcription.md)
 
 - [Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics](2024年10月02日/Zodiac_A_Cardiologist-Level_LLM_Framework_for_Multi-Agent_Diagnostics.md)
 
