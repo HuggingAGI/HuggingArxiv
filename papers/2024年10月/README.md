@@ -34,17 +34,9 @@
 
     - [翻译: 创意故事生成的集体评判](2024年10月03日/Collective_Critics_for_Creative_Story_Generation.md)
 
-- [Contrastive Localized Language-Image Pre-Training](2024年10月03日/Contrastive_Localized_Language-Image_Pre-Training.md)
-
-    - [翻译: 语言与图像的对比本地化预训练](2024年10月03日/Contrastive_Localized_Language-Image_Pre-Training.md)
-
 - [Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
     - [翻译: 精简废话：为基于LLM的多代理系统打造经济高效的通信通道](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
-
-- [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
-
-    - [翻译: Dog-IQA：一种标准引导的零-shot MLLM，专为混合粒度图像质量评估设计](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
 
 - [Efficient Second-Order Neural Network Optimization via Adaptive Trust Region Methods](2024年10月03日/Efficient_Second-Order_Neural_Network_Optimization_via_Adaptive_Trust_Region_Methods.md)
 
@@ -65,14 +57,6 @@
 - [Guiding Long-Horizon Task and Motion Planning with Vision Language Models](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
 
     - [翻译: 视觉语言模型助力长时任务与运动规划](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
-
-- [How Much Can RAG Help the Reasoning of LLM?](2024年10月03日/How_Much_Can_RAG_Help_the_Reasoning_of_LLM.md)
-
-    - [翻译: RAG 究竟能为 LLM 的推理能力带来多大提升？](2024年10月03日/How_Much_Can_RAG_Help_the_Reasoning_of_LLM.md)
-
-- [IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models](2024年10月03日/IoT-LLM_Enhancing_Real-World_IoT_Task_Reasoning_with_Large_Language_Models.md)
-
-    - [翻译: IoT-LLM：借助大型语言模型提升现实世界物联网任务的推理能力](2024年10月03日/IoT-LLM_Enhancing_Real-World_IoT_Task_Reasoning_with_Large_Language_Models.md)
 
 - [Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models](2024年10月03日/Jailbreak_Antidote_Runtime_Safety-Utility_Balance_via_Sparse_Representation_Adjustment_in_Large_Language_Models.md)
 
@@ -122,10 +106,6 @@
 
     - [翻译: 后编辑也是偏好选择](2024年10月03日/Post-edits_Are_Preferences_Too.md)
 
-- [Preparing for Super-Reactivity: Early Fault-Detection in the Development of Exceedingly Complex Reactive Systems](2024年10月03日/Preparing_for_Super-Reactivity_Early_Fault-Detection_in_the_Development_of_Exceedingly_Complex_Reactive_Systems.md)
-
-    - [翻译: 为超级反应性做准备：在开发高度复杂的反应系统时，提前检测故障](2024年10月03日/Preparing_for_Super-Reactivity_Early_Fault-Detection_in_the_Development_of_Exceedingly_Complex_Reactive_Systems.md)
-
 - [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
 
     - [翻译: 重温前缀微调：提示重新参数化的统计益处](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
@@ -149,7 +129,3 @@
 - [Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation](2024年10月03日/Unleashing_the_Potential_of_the_Diffusion_Model_in_Few-shot_Semantic_Segmentation.md)
 
     - [翻译: 探索扩散模型在少样本语义分割中的无限可能](2024年10月03日/Unleashing_the_Potential_of_the_Diffusion_Model_in_Few-shot_Semantic_Segmentation.md)
-
-- [Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos](2024年10月03日/Vinoground_Scrutinizing_LMMs_over_Dense_Temporal_Reasoning_with_Short_Videos.md)
-
-    - [翻译: Vinoground：通过短片深入探究大型多模态模型在密集时间推理中的表现](2024年10月03日/Vinoground_Scrutinizing_LMMs_over_Dense_Temporal_Reasoning_with_Short_Videos.md)
