@@ -10,10 +10,6 @@
 
     - [翻译: Agent Security Bench (ASB): 为基于 LLM 的代理中的攻击与防御提供形式化定义和基准测试](2024年10月03日/Agent_Security_Bench_(ASB)_Formalizing_and_Benchmarking_Attacks_and_Defenses_in_LLM-based_Agents.md)
 
-- [Agents' Room: Narrative Generation through Multi-step Collaboration](2024年10月03日/Agents'_Room_Narrative_Generation_through_Multi-step_Collaboration.md)
-
-    - [翻译: Agents' Room：多步骤协作下的叙事生成](2024年10月03日/Agents'_Room_Narrative_Generation_through_Multi-step_Collaboration.md)
-
 - [AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](2024年10月03日/AlphaEdit_Null-Space_Constrained_Knowledge_Editing_for_Language_Models.md)
 
     - [翻译: AlphaEdit：一种专为语言模型设计的零空间约束知识编辑技术](2024年10月03日/AlphaEdit_Null-Space_Constrained_Knowledge_Editing_for_Language_Models.md)
@@ -38,10 +34,6 @@
 
     - [翻译: 通过无标签的比较推理，提升上下文学习的校准与区分能力。](2024年10月03日/Calibrate_to_Discriminate_Improve_In-Context_Learning_with_Label-Free_Comparative_Inference.md)
 
-- [Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration](2024年10月03日/Can_Large_Language_Models_Grasp_Legal_Theories_Enhance_Legal_Reasoning_with_Insights_from_Multi-Agent_Collaboration.md)
-
-    - [翻译: 大型语言模型能否理解法律理论？通过多代理协作的洞察力，提升法律推理能力。](2024年10月03日/Can_Large_Language_Models_Grasp_Legal_Theories_Enhance_Legal_Reasoning_with_Insights_from_Multi-Agent_Collaboration.md)
-
 - [Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration](2024年10月03日/Choices_are_More_Important_than_Efforts_LLM_Enables_Efficient_Multi-Agent_Exploration.md)
 
     - [翻译: 选择胜于努力：LLM 助力高效多智能体探索](2024年10月03日/Choices_are_More_Important_than_Efforts_LLM_Enables_Efficient_Multi-Agent_Exploration.md)
@@ -49,10 +41,6 @@
 - [CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning](2024年10月03日/CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning.md)
 
     - [翻译: CodePMP：为大型语言模型推理提供可扩展的偏好模型预训练](2024年10月03日/CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning.md)
-
-- [ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration](2024年10月03日/ColaCare_Enhancing_Electronic_Health_Record_Modeling_through_Large_Language_Model-Driven_Multi-Agent_Collaboration.md)
-
-    - [翻译: ColaCare：借助大型语言模型驱动的多智能体协作，提升电子健康记录的建模效果。](2024年10月03日/ColaCare_Enhancing_Electronic_Health_Record_Modeling_through_Large_Language_Model-Driven_Multi-Agent_Collaboration.md)
 
 - [Collective Critics for Creative Story Generation](2024年10月03日/Collective_Critics_for_Creative_Story_Generation.md)
 
@@ -262,17 +250,9 @@
 
     - [翻译: 重温前缀微调：提示重新参数化的统计益处](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
 
-- [Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models](2024年10月03日/Revisit_Large-Scale_Image-Caption_Data_in_Pre-training_Multimodal_Foundation_Models.md)
-
-    - [翻译: 重新探索预训练多模态基础模型中的大规模图像与标题数据](2024年10月03日/Revisit_Large-Scale_Image-Caption_Data_in_Pre-training_Multimodal_Foundation_Models.md)
-
 - [Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization](2024年10月03日/Salient_Information_Prompting_to_Steer_Content_in_Prompt-based_Abstractive_Summarization.md)
 
     - [翻译: 通过显著信息提示，精准引导基于提示的抽象摘要内容生成。](2024年10月03日/Salient_Information_Prompting_to_Steer_Content_in_Prompt-based_Abstractive_Summarization.md)
-
-- [SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack](2024年10月03日/SCA_Highly_Efficient_Semantic-Consistent_Unrestricted_Adversarial_Attack.md)
-
-    - [翻译: SCA：高效且语义一致的无限制对抗攻击](2024年10月03日/SCA_Highly_Efficient_Semantic-Consistent_Unrestricted_Adversarial_Attack.md)
 
 - [SEAL: SEmantic-Augmented Imitation Learning via Language Model](2024年10月03日/SEAL_SEmantic-Augmented_Imitation_Learning_via_Language_Model.md)
 
@@ -281,10 +261,6 @@
 - [SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at 1% the Cost](2024年10月03日/SIEVE_General_Purpose_Data_Filtering_System_Matching_GPT-4o_Accuracy_at_1%_the_Cost.md)
 
     - [翻译: SIEVE：一款通用数据过滤系统，以 GPT-4 成本的 1% 实现同等准确性](2024年10月03日/SIEVE_General_Purpose_Data_Filtering_System_Matching_GPT-4o_Accuracy_at_1%_the_Cost.md)
-
-- [Strong Preferences Affect the Robustness of Value Alignment](2024年10月03日/Strong_Preferences_Affect_the_Robustness_of_Value_Alignment.md)
-
-    - [翻译: 强烈的偏好会削弱价值对齐的稳健性](2024年10月03日/Strong_Preferences_Affect_the_Robustness_of_Value_Alignment.md)
 
 - [Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization](2024年10月03日/Theoretical_Insights_into_Fine-Tuning_Attention_Mechanism_Generalization_and_Optimization.md)
 
