@@ -2,10 +2,6 @@
 
 2024年10月03日
 
-- [Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation](2024年10月03日/Adaptive_Inference-Time_Compute_LLMs_Can_Predict_if_They_Can_Do_Better,_Even_Mid-Generation.md)
-
-    - [翻译: LLM 具备自适应推理时计算能力，即使在生成过程中也能预测自身表现是否还有提升空间。](2024年10月03日/Adaptive_Inference-Time_Compute_LLMs_Can_Predict_if_They_Can_Do_Better,_Even_Mid-Generation.md)
-
 - [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](2024年10月03日/Agent_Security_Bench_(ASB)_Formalizing_and_Benchmarking_Attacks_and_Defenses_in_LLM-based_Agents.md)
 
     - [翻译: Agent Security Bench (ASB): 为基于 LLM 的代理中的攻击与防御提供形式化定义和基准测试](2024年10月03日/Agent_Security_Bench_(ASB)_Formalizing_and_Benchmarking_Attacks_and_Defenses_in_LLM-based_Agents.md)
@@ -30,10 +26,6 @@
 
     - [翻译: 通过无标签的比较推理，提升上下文学习的校准与区分能力。](2024年10月03日/Calibrate_to_Discriminate_Improve_In-Context_Learning_with_Label-Free_Comparative_Inference.md)
 
-- [Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration](2024年10月03日/Choices_are_More_Important_than_Efforts_LLM_Enables_Efficient_Multi-Agent_Exploration.md)
-
-    - [翻译: 选择胜于努力：LLM 助力高效多智能体探索](2024年10月03日/Choices_are_More_Important_than_Efforts_LLM_Enables_Efficient_Multi-Agent_Exploration.md)
-
 - [CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning](2024年10月03日/CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning.md)
 
     - [翻译: CodePMP：为大型语言模型推理提供可扩展的偏好模型预训练](2024年10月03日/CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning.md)
@@ -45,10 +37,6 @@
 - [Contrastive Localized Language-Image Pre-Training](2024年10月03日/Contrastive_Localized_Language-Image_Pre-Training.md)
 
     - [翻译: 语言与图像的对比本地化预训练](2024年10月03日/Contrastive_Localized_Language-Image_Pre-Training.md)
-
-- [ControlAR: Controllable Image Generation with Autoregressive Models](2024年10月03日/ControlAR_Controllable_Image_Generation_with_Autoregressive_Models.md)
-
-    - [翻译: ControlAR：借助自回归模型实现图像生成的精准操控](2024年10月03日/ControlAR_Controllable_Image_Generation_with_Autoregressive_Models.md)
 
 - [Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
@@ -106,10 +94,6 @@
 
     - [翻译: LLM-Pilot：精调与优化您的 LLM 推理服务性能](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
 
-- [MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions](2024年10月03日/MA-RLHF_Reinforcement_Learning_from_Human_Feedback_with_Macro_Actions.md)
-
-    - [翻译: MA-RLHF：通过宏动作进行的人类反馈强化学习](2024年10月03日/MA-RLHF_Reinforcement_Learning_from_Human_Feedback_with_Macro_Actions.md)
-
 - [Measuring and Improving Persuasiveness of Generative Models](2024年10月03日/Measuring_and_Improving_Persuasiveness_of_Generative_Models.md)
 
     - [翻译: 评估并增强生成模型的说服力](2024年10月03日/Measuring_and_Improving_Persuasiveness_of_Generative_Models.md)
@@ -125,10 +109,6 @@
 - [Morphological evaluation of subwords vocabulary used by BETO language model](2024年10月03日/Morphological_evaluation_of_subwords_vocabulary_used_by_BETO_language_model.md)
 
     - [翻译: BETO 语言模型的子词词汇形态学评估](2024年10月03日/Morphological_evaluation_of_subwords_vocabulary_used_by_BETO_language_model.md)
-
-- [Multi-modal clothing recommendation model based on large model and VAE enhancement](2024年10月03日/Multi-modal_clothing_recommendation_model_based_on_large_model_and_VAE_enhancement.md)
-
-    - [翻译: 融合大型模型与 VAE 增强技术，打造多模态服装推荐新标杆](2024年10月03日/Multi-modal_clothing_recommendation_model_based_on_large_model_and_VAE_enhancement.md)
 
 - [Optimizing Adaptive Attacks against Content Watermarks for Language Models](2024年10月03日/Optimizing_Adaptive_Attacks_against_Content_Watermarks_for_Language_Models.md)
 
@@ -165,10 +145,6 @@
 - [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
 
     - [翻译: 是“交通灯”还是“轻交通”？探讨大语言模型中的短语语义](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
-
-- [Undesirable Memorization in Large Language Models: A Survey](2024年10月03日/Undesirable_Memorization_in_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 大型语言模型中的不良记忆现象：全面调查](2024年10月03日/Undesirable_Memorization_in_Large_Language_Models_A_Survey.md)
 
 - [Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation](2024年10月03日/Unleashing_the_Potential_of_the_Diffusion_Model_in_Few-shot_Semantic_Segmentation.md)
 
