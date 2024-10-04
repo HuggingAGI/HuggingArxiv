@@ -54,17 +54,9 @@
 
     - [翻译: 精简废话：为基于LLM的多代理系统打造经济高效的通信通道](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
-- [Defining Knowledge: Bridging Epistemology and Large Language Models](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
-
-    - [翻译: 知识之桥：连接认识论与大型语言模型](2024年10月03日/Defining_Knowledge_Bridging_Epistemology_and_Large_Language_Models.md)
-
 - [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
 
     - [翻译: Dog-IQA：一种标准引导的零-shot MLLM，专为混合粒度图像质量评估设计](2024年10月03日/Dog-IQA_Standard-guided_Zero-shot_MLLM_for_Mix-grained_Image_Quality_Assessment.md)
-
-- [Dual Active Learning for Reinforcement Learning from Human Feedback](2024年10月03日/Dual_Active_Learning_for_Reinforcement_Learning_from_Human_Feedback.md)
-
-    - [翻译: 双主动学习：从人类反馈中强化学习的新路径](2024年10月03日/Dual_Active_Learning_for_Reinforcement_Learning_from_Human_Feedback.md)
 
 - [Efficient Second-Order Neural Network Optimization via Adaptive Trust Region Methods](2024年10月03日/Efficient_Second-Order_Neural_Network_Optimization_via_Adaptive_Trust_Region_Methods.md)
 
@@ -77,14 +69,6 @@
 - [EmbedLLM: Learning Compact Representations of Large Language Models](2024年10月03日/EmbedLLM_Learning_Compact_Representations_of_Large_Language_Models.md)
 
     - [翻译: EmbedLLM：探索大型语言模型的精简表达](2024年10月03日/EmbedLLM_Learning_Compact_Representations_of_Large_Language_Models.md)
-
-- [Encryption-Friendly LLM Architecture](2024年10月03日/Encryption-Friendly_LLM_Architecture.md)
-
-    - [翻译: 加密友好的大型语言模型架构](2024年10月03日/Encryption-Friendly_LLM_Architecture.md)
-
-- [FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models](2024年10月03日/FakeShield_Explainable_Image_Forgery_Detection_and_Localization_via_Multi-modal_Large_Language_Models.md)
-
-    - [翻译: FakeShield：利用多模态大型语言模型，实现图像伪造的可解释检测与精准定位](2024年10月03日/FakeShield_Explainable_Image_Forgery_Detection_and_Localization_via_Multi-modal_Large_Language_Models.md)
 
 - [GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning](2024年10月03日/GraphIC_A_Graph-Based_In-Context_Example_Retrieval_Model_for_Multi-Step_Reasoning.md)
 
@@ -121,10 +105,6 @@
 - [LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
 
     - [翻译: LLM-Pilot：精调与优化您的 LLM 推理服务性能](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
-
-- [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](2024年10月03日/Loong_Generating_Minute-level_Long_Videos_with_Autoregressive_Language_Models.md)
-
-    - [翻译: Loong：借助自回归语言模型，轻松生成分钟级长视频](2024年10月03日/Loong_Generating_Minute-level_Long_Videos_with_Autoregressive_Language_Models.md)
 
 - [MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions](2024年10月03日/MA-RLHF_Reinforcement_Learning_from_Human_Feedback_with_Macro_Actions.md)
 
@@ -185,10 +165,6 @@
 - [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
 
     - [翻译: 是“交通灯”还是“轻交通”？探讨大语言模型中的短语语义](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
-
-- [UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation](2024年10月03日/UncertaintyRAG_Span-Level_Uncertainty_Enhanced_Long-Context_Modeling_for_Retrieval-Augmented_Generation.md)
-
-    - [翻译: UncertaintyRAG：通过跨度级不确定性增强，优化检索增强生成的长上下文建模](2024年10月03日/UncertaintyRAG_Span-Level_Uncertainty_Enhanced_Long-Context_Modeling_for_Retrieval-Augmented_Generation.md)
 
 - [Undesirable Memorization in Large Language Models: A Survey](2024年10月03日/Undesirable_Memorization_in_Large_Language_Models_A_Survey.md)
 
