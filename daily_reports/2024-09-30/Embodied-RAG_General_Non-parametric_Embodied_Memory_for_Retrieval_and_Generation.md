@@ -1,5 +1,5 @@
 # Embodied-RAG：一种通用的非参数化具身记忆，专为检索与生成任务设计。
-发布时间：2024年10月01日
+发布时间：2024年10月03日
 
 `RAG`
 > Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation
