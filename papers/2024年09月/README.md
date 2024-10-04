@@ -1,15 +1,13 @@
 # 2024年09月
 
-2024年09月30日
+2024年09月14日
 
-- [Ask, Pose, Unite: Scaling Data Acquisition for Close Interactions with Vision Language Models](2024年09月30日/Ask,_Pose,_Unite_Scaling_Data_Acquisition_for_Close_Interactions_with_Vision_Language_Models.md)
+- [From Experts to the Public: Governing Multimodal Language Models in Politically Sensitive Video Analysis](2024年09月14日/From_Experts_to_the_Public_Governing_Multimodal_Language_Models_in_Politically_Sensitive_Video_Analysis.md)
 
-    - [翻译: 问、提、合：扩展与视觉语言模型互动的数据收集](2024年09月30日/Ask,_Pose,_Unite_Scaling_Data_Acquisition_for_Close_Interactions_with_Vision_Language_Models.md)
+    - [翻译: 从专家到公众：如何在政治敏感视频分析中有效管理多模态语言模型](2024年09月14日/From_Experts_to_the_Public_Governing_Multimodal_Language_Models_in_Politically_Sensitive_Video_Analysis.md)
 
-- [Comprehensive Performance Modeling and System Design Insights for Foundation Models](2024年09月30日/Comprehensive_Performance_Modeling_and_System_Design_Insights_for_Foundation_Models.md)
+2024年09月13日
 
-    - [翻译: 深入探讨基础模型的性能建模与系统设计](2024年09月30日/Comprehensive_Performance_Modeling_and_System_Design_Insights_for_Foundation_Models.md)
+- [From Text to Multimodality: Exploring the Evolution and Impact of Large Language Models in Medical Practice](2024年09月13日/From_Text_to_Multimodality_Exploring_the_Evolution_and_Impact_of_Large_Language_Models_in_Medical_Practice.md)
 
-- [DoPAMine: Domain-specific Pre-training Adaptation from seed-guided data Mining](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
-
-    - [翻译: DoPAMine：基于种子数据引导的领域特定预训练适应](2024年09月30日/DoPAMine_Domain-specific_Pre-training_Adaptation_from_seed-guided_data_Mining.md)
+    - [翻译: 从文本到多模态：探究大型语言模型在医疗实践中的演进及其影响](2024年09月13日/From_Text_to_Multimodality_Exploring_the_Evolution_and_Impact_of_Large_Language_Models_in_Medical_Practice.md)
