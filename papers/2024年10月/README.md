@@ -50,10 +50,6 @@
 
     - [翻译: ControlAR：借助自回归模型实现图像生成的精准操控](2024年10月03日/ControlAR_Controllable_Image_Generation_with_Autoregressive_Models.md)
 
-- [CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation](2024年10月03日/CriSPO_Multi-Aspect_Critique-Suggestion-guided_Automatic_Prompt_Optimization_for_Text_Generation.md)
-
-    - [翻译: CriSPO：一种多角度批评与建议引导的文本生成自动提示优化工具](2024年10月03日/CriSPO_Multi-Aspect_Critique-Suggestion-guided_Automatic_Prompt_Optimization_for_Text_Generation.md)
-
 - [Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
     - [翻译: 精简废话：为基于LLM的多代理系统打造经济高效的通信通道](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
@@ -154,10 +150,6 @@
 
     - [翻译: 融合大型模型与 VAE 增强技术，打造多模态服装推荐新标杆](2024年10月03日/Multi-modal_clothing_recommendation_model_based_on_large_model_and_VAE_enhancement.md)
 
-- [Neutral residues: revisiting adapters for model extension](2024年10月03日/Neutral_residues_revisiting_adapters_for_model_extension.md)
-
-    - [翻译: 中性残基：重新评估模型扩展中的适配器应用](2024年10月03日/Neutral_residues_revisiting_adapters_for_model_extension.md)
-
 - [Optimizing Adaptive Attacks against Content Watermarks for Language Models](2024年10月03日/Optimizing_Adaptive_Attacks_against_Content_Watermarks_for_Language_Models.md)
 
     - [翻译: 优化语言模型内容水印的自适应攻击](2024年10月03日/Optimizing_Adaptive_Attacks_against_Content_Watermarks_for_Language_Models.md)
@@ -186,25 +178,13 @@
 
     - [翻译: SEAL：借助语言模型实现语义增强的模仿学习](2024年10月03日/SEAL_SEmantic-Augmented_Imitation_Learning_via_Language_Model.md)
 
-- [SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at 1% the Cost](2024年10月03日/SIEVE_General_Purpose_Data_Filtering_System_Matching_GPT-4o_Accuracy_at_1%_the_Cost.md)
-
-    - [翻译: SIEVE：一款通用数据过滤系统，以 GPT-4 成本的 1% 实现同等准确性](2024年10月03日/SIEVE_General_Purpose_Data_Filtering_System_Matching_GPT-4o_Accuracy_at_1%_the_Cost.md)
-
 - [Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization](2024年10月03日/Theoretical_Insights_into_Fine-Tuning_Attention_Mechanism_Generalization_and_Optimization.md)
 
     - [翻译: 微调注意力机制：理论视角下的泛化与优化](2024年10月03日/Theoretical_Insights_into_Fine-Tuning_Attention_Mechanism_Generalization_and_Optimization.md)
 
-- [Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions](2024年10月03日/Towards_Implicit_Bias_Detection_and_Mitigation_in_Multi-Agent_LLM_Interactions.md)
-
-    - [翻译: 探索多智能体 LLM 交互中的隐性偏见检测与缓解](2024年10月03日/Towards_Implicit_Bias_Detection_and_Mitigation_in_Multi-Agent_LLM_Interactions.md)
-
 - [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
 
     - [翻译: 是“交通灯”还是“轻交通”？探讨大语言模型中的短语语义](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
-
-- [Training Language Models on Synthetic Edit Sequences Improves Code Synthesis](2024年10月03日/Training_Language_Models_on_Synthetic_Edit_Sequences_Improves_Code_Synthesis.md)
-
-    - [翻译: 通过合成编辑序列训练语言模型，能显著提升代码合成的质量。](2024年10月03日/Training_Language_Models_on_Synthetic_Edit_Sequences_Improves_Code_Synthesis.md)
 
 - [UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation](2024年10月03日/UncertaintyRAG_Span-Level_Uncertainty_Enhanced_Long-Context_Modeling_for_Retrieval-Augmented_Generation.md)
 
