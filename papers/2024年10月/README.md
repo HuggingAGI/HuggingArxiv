@@ -22,29 +22,13 @@
 
     - [翻译: 精简废话：为基于LLM的多代理系统打造经济高效的通信通道](2024年10月03日/Cut_the_Crap_An_Economical_Communication_Pipeline_for_LLM-based_Multi-Agent_Systems.md)
 
-- [Efficient Second-Order Neural Network Optimization via Adaptive Trust Region Methods](2024年10月03日/Efficient_Second-Order_Neural_Network_Optimization_via_Adaptive_Trust_Region_Methods.md)
-
-    - [翻译: 采用自适应信任区域方法，实现二阶神经网络优化的高效性](2024年10月03日/Efficient_Second-Order_Neural_Network_Optimization_via_Adaptive_Trust_Region_Methods.md)
-
 - [ELLMA-T: an Embodied LLM-agent for Supporting English Language Learning in Social VR](2024年10月03日/ELLMA-T_an_Embodied_LLM-agent_for_Supporting_English_Language_Learning_in_Social_VR.md)
 
     - [翻译: ELLMA-T：一款专为社交 VR 环境中英语学习而设计的具身 LLM 智能助手](2024年10月03日/ELLMA-T_an_Embodied_LLM-agent_for_Supporting_English_Language_Learning_in_Social_VR.md)
 
-- [Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models](2024年10月03日/Jailbreak_Antidote_Runtime_Safety-Utility_Balance_via_Sparse_Representation_Adjustment_in_Large_Language_Models.md)
-
-    - [翻译: 越狱防护：在大语言模型中通过稀疏表示调整，实现运行时安全与实用性的平衡](2024年10月03日/Jailbreak_Antidote_Runtime_Safety-Utility_Balance_via_Sparse_Representation_Adjustment_in_Large_Language_Models.md)
-
 - [Language Models are Graph Learners](2024年10月03日/Language_Models_are_Graph_Learners.md)
 
     - [翻译: 语言模型，实为图学习的高手。](2024年10月03日/Language_Models_are_Graph_Learners.md)
-
-- [Large Language Model Aided Multi-objective Evolutionary Algorithm: a Low-cost Adaptive Approach](2024年10月03日/Large_Language_Model_Aided_Multi-objective_Evolutionary_Algorithm_a_Low-cost_Adaptive_Approach.md)
-
-    - [翻译: 大型语言模型助力多目标进化算法：低成本自适应新途径](2024年10月03日/Large_Language_Model_Aided_Multi-objective_Evolutionary_Algorithm_a_Low-cost_Adaptive_Approach.md)
-
-- [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](2024年10月03日/Llama_SLayer_8B_Shallow_Layers_Hold_the_Key_to_Knowledge_Injection.md)
-
-    - [翻译: Llama SLayer 8B：浅层层级是知识注入的关键所在](2024年10月03日/Llama_SLayer_8B_Shallow_Layers_Hold_the_Key_to_Knowledge_Injection.md)
 
 - [LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
 
@@ -66,17 +50,9 @@
 
     - [翻译: 模型合并中的参数竞争平衡](2024年10月03日/Parameter_Competition_Balancing_for_Model_Merging.md)
 
-- [Post-edits Are Preferences Too](2024年10月03日/Post-edits_Are_Preferences_Too.md)
-
-    - [翻译: 后编辑也是偏好选择](2024年10月03日/Post-edits_Are_Preferences_Too.md)
-
 - [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
 
     - [翻译: 重温前缀微调：提示重新参数化的统计益处](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
-
-- [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
-
-    - [翻译: 是“交通灯”还是“轻交通”？探讨大语言模型中的短语语义](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
 
 - [Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation](2024年10月03日/Unleashing_the_Potential_of_the_Diffusion_Model_in_Few-shot_Semantic_Segmentation.md)
 
