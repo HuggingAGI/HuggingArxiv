@@ -14,18 +14,6 @@
 
     - [翻译: 《更好的呼叫SAUL》：借助生成正则化，实现流畅且一致的语言模型编辑](2024年10月03日/Better_Call_SAUL_Fluent_and_Consistent_Language_Model_Editing_with_Generation_Regularization.md)
 
-- [Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation](2024年10月03日/Buckle_Up_Robustifying_LLMs_at_Every_Customization_Stage_via_Data_Curation.md)
-
-    - [翻译: 准备好了吗？通过精心管理数据，在 LLM 的每个定制环节中提升其稳定性。](2024年10月03日/Buckle_Up_Robustifying_LLMs_at_Every_Customization_Stage_via_Data_Curation.md)
-
-- [Calibrate to Discriminate: Improve In-Context Learning with Label-Free Comparative Inference](2024年10月03日/Calibrate_to_Discriminate_Improve_In-Context_Learning_with_Label-Free_Comparative_Inference.md)
-
-    - [翻译: 通过无标签的比较推理，提升上下文学习的校准与区分能力。](2024年10月03日/Calibrate_to_Discriminate_Improve_In-Context_Learning_with_Label-Free_Comparative_Inference.md)
-
-- [CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning](2024年10月03日/CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning.md)
-
-    - [翻译: CodePMP：为大型语言模型推理提供可扩展的偏好模型预训练](2024年10月03日/CodePMP_Scalable_Preference_Model_Pretraining_for_Large_Language_Model_Reasoning.md)
-
 - [Collective Critics for Creative Story Generation](2024年10月03日/Collective_Critics_for_Creative_Story_Generation.md)
 
     - [翻译: 创意故事生成的集体评判](2024年10月03日/Collective_Critics_for_Creative_Story_Generation.md)
@@ -41,10 +29,6 @@
 - [ELLMA-T: an Embodied LLM-agent for Supporting English Language Learning in Social VR](2024年10月03日/ELLMA-T_an_Embodied_LLM-agent_for_Supporting_English_Language_Learning_in_Social_VR.md)
 
     - [翻译: ELLMA-T：一款专为社交 VR 环境中英语学习而设计的具身 LLM 智能助手](2024年10月03日/ELLMA-T_an_Embodied_LLM-agent_for_Supporting_English_Language_Learning_in_Social_VR.md)
-
-- [EmbedLLM: Learning Compact Representations of Large Language Models](2024年10月03日/EmbedLLM_Learning_Compact_Representations_of_Large_Language_Models.md)
-
-    - [翻译: EmbedLLM：探索大型语言模型的精简表达](2024年10月03日/EmbedLLM_Learning_Compact_Representations_of_Large_Language_Models.md)
 
 - [Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models](2024年10月03日/Jailbreak_Antidote_Runtime_Safety-Utility_Balance_via_Sparse_Representation_Adjustment_in_Large_Language_Models.md)
 
@@ -89,14 +73,6 @@
 - [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
 
     - [翻译: 重温前缀微调：提示重新参数化的统计益处](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
-
-- [SEAL: SEmantic-Augmented Imitation Learning via Language Model](2024年10月03日/SEAL_SEmantic-Augmented_Imitation_Learning_via_Language_Model.md)
-
-    - [翻译: SEAL：借助语言模型实现语义增强的模仿学习](2024年10月03日/SEAL_SEmantic-Augmented_Imitation_Learning_via_Language_Model.md)
-
-- [Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization](2024年10月03日/Theoretical_Insights_into_Fine-Tuning_Attention_Mechanism_Generalization_and_Optimization.md)
-
-    - [翻译: 微调注意力机制：理论视角下的泛化与优化](2024年10月03日/Theoretical_Insights_into_Fine-Tuning_Attention_Mechanism_Generalization_and_Optimization.md)
 
 - [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models](2024年10月03日/Traffic_Light_or_Light_Traffic_Investigating_Phrasal_Semantics_in_Large_Language_Models.md)
 
