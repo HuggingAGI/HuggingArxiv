@@ -2,10 +2,6 @@
 
 2024年10月03日
 
-- [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](2024年10月03日/Agent_Security_Bench_(ASB)_Formalizing_and_Benchmarking_Attacks_and_Defenses_in_LLM-based_Agents.md)
-
-    - [翻译: Agent Security Bench (ASB): 为基于 LLM 的代理中的攻击与防御提供形式化定义和基准测试](2024年10月03日/Agent_Security_Bench_(ASB)_Formalizing_and_Benchmarking_Attacks_and_Defenses_in_LLM-based_Agents.md)
-
 - [AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](2024年10月03日/AlphaEdit_Null-Space_Constrained_Knowledge_Editing_for_Language_Models.md)
 
     - [翻译: AlphaEdit：一种专为语言模型设计的零空间约束知识编辑技术](2024年10月03日/AlphaEdit_Null-Space_Constrained_Knowledge_Editing_for_Language_Models.md)
@@ -50,14 +46,6 @@
 
     - [翻译: EmbedLLM：探索大型语言模型的精简表达](2024年10月03日/EmbedLLM_Learning_Compact_Representations_of_Large_Language_Models.md)
 
-- [GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning](2024年10月03日/GraphIC_A_Graph-Based_In-Context_Example_Retrieval_Model_for_Multi-Step_Reasoning.md)
-
-    - [翻译: GraphIC：一种基于图的多步推理上下文示例检索模型，专为复杂推理任务设计。](2024年10月03日/GraphIC_A_Graph-Based_In-Context_Example_Retrieval_Model_for_Multi-Step_Reasoning.md)
-
-- [Guiding Long-Horizon Task and Motion Planning with Vision Language Models](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
-
-    - [翻译: 视觉语言模型助力长时任务与运动规划](2024年10月03日/Guiding_Long-Horizon_Task_and_Motion_Planning_with_Vision_Language_Models.md)
-
 - [Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models](2024年10月03日/Jailbreak_Antidote_Runtime_Safety-Utility_Balance_via_Sparse_Representation_Adjustment_in_Large_Language_Models.md)
 
     - [翻译: 越狱防护：在大语言模型中通过稀疏表示调整，实现运行时安全与实用性的平衡](2024年10月03日/Jailbreak_Antidote_Runtime_Safety-Utility_Balance_via_Sparse_Representation_Adjustment_in_Large_Language_Models.md)
@@ -77,14 +65,6 @@
 - [LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
 
     - [翻译: LLM-Pilot：精调与优化您的 LLM 推理服务性能](2024年10月03日/LLM-Pilot_Characterize_and_Optimize_Performance_of_your_LLM_Inference_Services.md)
-
-- [Measuring and Improving Persuasiveness of Generative Models](2024年10月03日/Measuring_and_Improving_Persuasiveness_of_Generative_Models.md)
-
-    - [翻译: 评估并增强生成模型的说服力](2024年10月03日/Measuring_and_Improving_Persuasiveness_of_Generative_Models.md)
-
-- [Measuring, Evaluating and Improving Logical Consistency in Large Language Models](2024年10月03日/Measuring,_Evaluating_and_Improving_Logical_Consistency_in_Large_Language_Models.md)
-
-    - [翻译: 探索、评估并提升大型语言模型中的逻辑一致性](2024年10月03日/Measuring,_Evaluating_and_Improving_Logical_Consistency_in_Large_Language_Models.md)
 
 - [Meta-Models: An Architecture for Decoding LLM Behaviors Through Interpreted Embeddings and Natural Language](2024年10月03日/Meta-Models_An_Architecture_for_Decoding_LLM_Behaviors_Through_Interpreted_Embeddings_and_Natural_Language.md)
 
@@ -109,10 +89,6 @@
 - [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
 
     - [翻译: 重温前缀微调：提示重新参数化的统计益处](2024年10月03日/Revisiting_Prefix-tuning_Statistical_Benefits_of_Reparameterization_among_Prompts.md)
-
-- [Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization](2024年10月03日/Salient_Information_Prompting_to_Steer_Content_in_Prompt-based_Abstractive_Summarization.md)
-
-    - [翻译: 通过显著信息提示，精准引导基于提示的抽象摘要内容生成。](2024年10月03日/Salient_Information_Prompting_to_Steer_Content_in_Prompt-based_Abstractive_Summarization.md)
 
 - [SEAL: SEmantic-Augmented Imitation Learning via Language Model](2024年10月03日/SEAL_SEmantic-Augmented_Imitation_Learning_via_Language_Model.md)
 
