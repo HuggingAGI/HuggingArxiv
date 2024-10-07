@@ -10,10 +10,6 @@
 
     - [翻译: ALR$^2$：一种专为长上下文问答设计的“先检索后推理”框架](2024年10月04日/ALR$^2$_A_Retrieve-then-Reason_Framework_for_Long-context_Question_Answering.md)
 
-- [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](2024年10月04日/A_Probabilistic_Perspective_on_Unlearning_and_Alignment_for_Large_Language_Models.md)
-
-    - [翻译: 从概率角度探讨大型语言模型的遗忘与对齐问题](2024年10月04日/A_Probabilistic_Perspective_on_Unlearning_and_Alignment_for_Large_Language_Models.md)
-
 - [Audio-Agent: Leveraging LLMs For Audio Generation, Editing and Composition](2024年10月04日/Audio-Agent_Leveraging_LLMs_For_Audio_Generation,_Editing_and_Composition.md)
 
     - [翻译: Audio-Agent：借助 LLMs 实现音频的生成、编辑与合成](2024年10月04日/Audio-Agent_Leveraging_LLMs_For_Audio_Generation,_Editing_and_Composition.md)
@@ -25,10 +21,6 @@
 - [Beyond Film Subtitles: Is YouTube the Best Approximation of Spoken Vocabulary?](2024年10月04日/Beyond_Film_Subtitles_Is_YouTube_the_Best_Approximation_of_Spoken_Vocabulary.md)
 
     - [翻译: 除了电影字幕，YouTube 是否能更准确地反映口语词汇？](2024年10月04日/Beyond_Film_Subtitles_Is_YouTube_the_Best_Approximation_of_Spoken_Vocabulary.md)
-
-- [CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios](2024年10月04日/CliMedBench_A_Large-Scale_Chinese_Benchmark_for_Evaluating_Medical_Large_Language_Models_in_Clinical_Scenarios.md)
-
-    - [翻译: CliMedBench：一个大规模的中文基准，用于评估医疗大型语言模型在临床环境中的表现。](2024年10月04日/CliMedBench_A_Large-Scale_Chinese_Benchmark_for_Evaluating_Medical_Large_Language_Models_in_Clinical_Scenarios.md)
 
 - [Consultation on Industrial Machine Faults with Large language Models](2024年10月04日/Consultation_on_Industrial_Machine_Faults_with_Large_language_Models.md)
 
@@ -110,21 +102,9 @@
 
     - [翻译: 结构增强的蛋白质指令调优：探索通用蛋白质理解的奥秘](2024年10月04日/Structure-Enhanced_Protein_Instruction_Tuning_Towards_General-Purpose_Protein_Understanding.md)
 
-- [Table Question Answering for Low-resourced Indic Languages](2024年10月04日/Table_Question_Answering_for_Low-resourced_Indic_Languages.md)
-
-    - [翻译: 低资源印度语言的表格问答技术](2024年10月04日/Table_Question_Answering_for_Low-resourced_Indic_Languages.md)
-
-- [TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation](2024年10月04日/TICKing_All_the_Boxes_Generated_Checklists_Improve_LLM_Evaluation_and_Generation.md)
-
-    - [翻译: 生成的检查表全面提升 LLM 的评估与生成能力](2024年10月04日/TICKing_All_the_Boxes_Generated_Checklists_Improve_LLM_Evaluation_and_Generation.md)
-
 - [Towards a Benchmark for Large Language Models for Business Process Management Tasks](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
 
     - [翻译: 打造业务流程管理任务的大型语言模型基准](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
-
-- [Towards Linguistically-Aware and Language-Independent Tokenization for Large Language Models (LLMs)](2024年10月04日/Towards_Linguistically-Aware_and_Language-Independent_Tokenization_for_Large_Language_Models_(LLMs).md)
-
-    - [翻译: 为大型语言模型（LLM）打造语言学感知且跨语言的 Tokenization 方案](2024年10月04日/Towards_Linguistically-Aware_and_Language-Independent_Tokenization_for_Large_Language_Models_(LLMs).md)
 
 - [Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores](2024年10月04日/Towards_Reproducible_LLM_Evaluation_Quantifying_Uncertainty_in_LLM_Benchmark_Scores.md)
 
@@ -153,10 +133,6 @@
 - [What Matters for Model Merging at Scale?](2024年10月04日/What_Matters_for_Model_Merging_at_Scale.md)
 
     - [翻译: 大规模模型合并的关键何在？](2024年10月04日/What_Matters_for_Model_Merging_at_Scale.md)
-
-- [Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs](2024年10月04日/Zebra_In-Context_and_Generative_Pretraining_for_Solving_Parametric_PDEs.md)
-
-    - [翻译: Zebra：专为解决参数化偏微分方程而设计的上下文学习与生成预训练技术](2024年10月04日/Zebra_In-Context_and_Generative_Pretraining_for_Solving_Parametric_PDEs.md)
 
 - [Zero-Shot Fact Verification via Natural Logic and Large Language Models](2024年10月04日/Zero-Shot_Fact_Verification_via_Natural_Logic_and_Large_Language_Models.md)
 
