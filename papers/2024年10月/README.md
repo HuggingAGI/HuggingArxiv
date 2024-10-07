@@ -198,7 +198,7 @@
 
 - [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](2024年10月03日/On_Expert_Estimation_in_Hierarchical_Mixture_of_Experts_Beyond_Softmax_Gating_Functions.md)
 
-    - [翻译: 层次混合专家中的专家估计：探索超越 Softmax 门控函数的新领域](2024年10月03日/On_Expert_Estimation_in_Hierarchical_Mixture_of_Experts_Beyond_Softmax_Gating_Functions.md)
+    - [翻译: 层次混合专家中的专家估计：探索超越 Softmax 门控函数的新路径](2024年10月03日/On_Expert_Estimation_in_Hierarchical_Mixture_of_Experts_Beyond_Softmax_Gating_Functions.md)
 
 - [Permissive Information-Flow Analysis for Large Language Models](2024年10月03日/Permissive_Information-Flow_Analysis_for_Large_Language_Models.md)
 
