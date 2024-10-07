@@ -192,10 +192,6 @@
 
     - [翻译: AuroraCap：高效且强大的视频详细字幕生成工具，并带来全新的基准测试。](2024年10月03日/AuroraCap_Efficient,_Performant_Video_Detailed_Captioning_and_a_New_Benchmark.md)
 
-- [AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML](2024年10月03日/AutoML-Agent_A_Multi-Agent_LLM_Framework_for_Full-Pipeline_AutoML.md)
-
-    - [翻译: AutoML-Agent：一个专为全流程 AutoML 设计的多智能体 LLM 框架](2024年10月03日/AutoML-Agent_A_Multi-Agent_LLM_Framework_for_Full-Pipeline_AutoML.md)
-
 - [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](2024年10月03日/On_Expert_Estimation_in_Hierarchical_Mixture_of_Experts_Beyond_Softmax_Gating_Functions.md)
 
     - [翻译: 层次混合专家中的专家估计：探索超越 Softmax 门控函数的新路径](2024年10月03日/On_Expert_Estimation_in_Hierarchical_Mixture_of_Experts_Beyond_Softmax_Gating_Functions.md)
@@ -215,9 +211,3 @@
 - [Streamlining Conformal Information Retrieval via Score Refinement](2024年10月03日/Streamlining_Conformal_Information_Retrieval_via_Score_Refinement.md)
 
     - [翻译: 通过分数优化简化保形信息检索](2024年10月03日/Streamlining_Conformal_Information_Retrieval_via_Score_Refinement.md)
-
-2024年10月01日
-
-- [LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents](2024年10月01日/LLMs_May_Not_Be_Human-Level_Players,_But_They_Can_Be_Testers_Measuring_Game_Difficulty_with_LLM_Agents.md)
-
-    - [翻译: 虽然 LLM 无法达到人类玩家的水平，但它们可以作为游戏难度的测试工具。通过 LLM 代理，我们能够精准测量游戏的挑战性。](2024年10月01日/LLMs_May_Not_Be_Human-Level_Players,_But_They_Can_Be_Testers_Measuring_Game_Difficulty_with_LLM_Agents.md)
