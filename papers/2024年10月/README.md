@@ -10,10 +10,6 @@
 
     - [翻译: ALR$^2$：一种专为长上下文问答设计的“先检索后推理”框架](2024年10月04日/ALR$^2$_A_Retrieve-then-Reason_Framework_for_Long-context_Question_Answering.md)
 
-- [An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation](2024年10月04日/An_X-Ray_Is_Worth_15_Features_Sparse_Autoencoders_for_Interpretable_Radiology_Report_Generation.md)
-
-    - [翻译: 一张 X 光片，胜过 15 个特征：稀疏自动编码器助力放射报告生成，更可解释。](2024年10月04日/An_X-Ray_Is_Worth_15_Features_Sparse_Autoencoders_for_Interpretable_Radiology_Report_Generation.md)
-
 - [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](2024年10月04日/A_Probabilistic_Perspective_on_Unlearning_and_Alignment_for_Large_Language_Models.md)
 
     - [翻译: 从概率角度探讨大型语言模型的遗忘与对齐问题](2024年10月04日/A_Probabilistic_Perspective_on_Unlearning_and_Alignment_for_Large_Language_Models.md)
@@ -25,10 +21,6 @@
 - [Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation](2024年10月04日/Auto-GDA_Automatic_Domain_Adaptation_for_Efficient_Grounding_Verification_in_Retrieval_Augmented_Generation.md)
 
     - [翻译: Auto-GDA：自动域适应，助力检索增强生成中的高效基础验证](2024年10月04日/Auto-GDA_Automatic_Domain_Adaptation_for_Efficient_Grounding_Verification_in_Retrieval_Augmented_Generation.md)
-
-- [AutoPenBench: Benchmarking Generative Agents for Penetration Testing](2024年10月04日/AutoPenBench_Benchmarking_Generative_Agents_for_Penetration_Testing.md)
-
-    - [翻译: AutoPenBench：为渗透测试中的生成代理提供基准测试](2024年10月04日/AutoPenBench_Benchmarking_Generative_Agents_for_Penetration_Testing.md)
 
 - [Beyond Film Subtitles: Is YouTube the Best Approximation of Spoken Vocabulary?](2024年10月04日/Beyond_Film_Subtitles_Is_YouTube_the_Best_Approximation_of_Spoken_Vocabulary.md)
 
@@ -86,10 +78,6 @@
 
     - [翻译: 回答前，先三思：通过记忆空间视觉回溯，缓解多模态大型语言模型中的幻觉问题。](2024年10月04日/Look_Twice_Before_You_Answer_Memory-Space_Visual_Retracing_for_Hallucination_Mitigation_in_Multimodal_Large_Language_Models.md)
 
-- [Multimodal Point-of-Interest Recommendation](2024年10月04日/Multimodal_Point-of-Interest_Recommendation.md)
-
-    - [翻译: 多模态兴趣点推荐系统](2024年10月04日/Multimodal_Point-of-Interest_Recommendation.md)
-
 - [One2set + Large Language Model: Best Partners for Keyphrase Generation](2024年10月04日/One2set_+_Large_Language_Model_Best_Partners_for_Keyphrase_Generation.md)
 
     - [翻译: One2set 与大型语言模型联手，成为关键短语生成的黄金搭档。](2024年10月04日/One2set_+_Large_Language_Model_Best_Partners_for_Keyphrase_Generation.md)
@@ -114,10 +102,6 @@
 
     - [翻译: SELU：在未知环境中自主学习的多语言大型语言模型](2024年10月04日/SELU_Self-Learning_Embodied_MLLMs_in_Unknown_Environments.md)
 
-- [Showing LLM-Generated Code Selectively Based on Confidence of LLMs](2024年10月04日/Showing_LLM-Generated_Code_Selectively_Based_on_Confidence_of_LLMs.md)
-
-    - [翻译: 根据 LLM 的置信度，智能筛选并展示其生成的代码](2024年10月04日/Showing_LLM-Generated_Code_Selectively_Based_on_Confidence_of_LLMs.md)
-
 - [Steering Large Language Models between Code Execution and Textual Reasoning](2024年10月04日/Steering_Large_Language_Models_between_Code_Execution_and_Textual_Reasoning.md)
 
     - [翻译: 驾驭大型语言模型，游走于代码执行与文本推理之间](2024年10月04日/Steering_Large_Language_Models_between_Code_Execution_and_Textual_Reasoning.md)
@@ -134,10 +118,6 @@
 
     - [翻译: 生成的检查表全面提升 LLM 的评估与生成能力](2024年10月04日/TICKing_All_the_Boxes_Generated_Checklists_Improve_LLM_Evaluation_and_Generation.md)
 
-- [ToolGen: Unified Tool Retrieval and Calling via Generation](2024年10月04日/ToolGen_Unified_Tool_Retrieval_and_Calling_via_Generation.md)
-
-    - [翻译: ToolGen：通过生成技术实现工具的统一检索与调用](2024年10月04日/ToolGen_Unified_Tool_Retrieval_and_Calling_via_Generation.md)
-
 - [Towards a Benchmark for Large Language Models for Business Process Management Tasks](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
 
     - [翻译: 打造业务流程管理任务的大型语言模型基准](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
@@ -153,10 +133,6 @@
 - [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View](2024年10月04日/Understanding_Reasoning_in_Chain-of-Thought_from_the_Hopfieldian_View.md)
 
     - [翻译: 从 Hopfieldian 视角解读思维链中的推理过程](2024年10月04日/Understanding_Reasoning_in_Chain-of-Thought_from_the_Hopfieldian_View.md)
-
-- [Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models](2024年10月04日/Unraveling_Cross-Modality_Knowledge_Conflict_in_Large_Vision-Language_Models.md)
-
-    - [翻译: 揭示大型视觉-语言模型中的跨模态知识冲突](2024年10月04日/Unraveling_Cross-Modality_Knowledge_Conflict_in_Large_Vision-Language_Models.md)
 
 - [VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning](2024年10月04日/VEDIT_Latent_Prediction_Architecture_For_Procedural_Video_Representation_Learning.md)
 
