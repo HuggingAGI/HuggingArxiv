@@ -1,5 +1,5 @@
 # RAG 究竟能为 LLM 的推理能力带来多大提升？
-发布时间：2024年10月03日
+发布时间：2024年10月04日
 
 `RAG`
 > How Much Can RAG Help the Reasoning of LLM?
