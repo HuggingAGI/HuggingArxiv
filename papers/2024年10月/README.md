@@ -58,10 +58,6 @@
 
     - [翻译: 探讨毒性分类器与大型语言模型在面对残疾歧视时的反应](2024年10月04日/How_Toxicity_Classifiers_and_Large_Language_Models_Respond_to_Ableism.md)
 
-- [Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation](2024年10月04日/Large_Language_Model_Performance_Benchmarking_on_Mobile_Platforms_A_Thorough_Evaluation.md)
-
-    - [翻译: 移动平台上大型语言模型的性能基准测试：全面解析](2024年10月04日/Large_Language_Model_Performance_Benchmarking_on_Mobile_Platforms_A_Thorough_Evaluation.md)
-
 - [LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos](2024年10月04日/LeLaN_Learning_A_Language-Conditioned_Navigation_Policy_from_In-the-Wild_Videos.md)
 
     - [翻译: LeLaN：通过野外视频学习语言条件下的导航策略](2024年10月04日/LeLaN_Learning_A_Language-Conditioned_Navigation_Policy_from_In-the-Wild_Videos.md)
@@ -70,17 +66,9 @@
 
     - [翻译: 回答前，先三思：通过记忆空间视觉回溯，缓解多模态大型语言模型中的幻觉问题。](2024年10月04日/Look_Twice_Before_You_Answer_Memory-Space_Visual_Retracing_for_Hallucination_Mitigation_in_Multimodal_Large_Language_Models.md)
 
-- [One2set + Large Language Model: Best Partners for Keyphrase Generation](2024年10月04日/One2set_+_Large_Language_Model_Best_Partners_for_Keyphrase_Generation.md)
-
-    - [翻译: One2set 与大型语言模型联手，成为关键短语生成的黄金搭档。](2024年10月04日/One2set_+_Large_Language_Model_Best_Partners_for_Keyphrase_Generation.md)
-
 - [On Uncertainty In Natural Language Processing](2024年10月04日/On_Uncertainty_In_Natural_Language_Processing.md)
 
     - [翻译: 自然语言处理中的不确定性探究](2024年10月04日/On_Uncertainty_In_Natural_Language_Processing.md)
-
-- [Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models](2024年10月04日/Quo_Vadis,_Motion_Generation_From_Large_Language_Models_to_Large_Motion_Models.md)
-
-    - [翻译: 运动生成将何去何从？从大型语言模型迈向大型运动模型。](2024年10月04日/Quo_Vadis,_Motion_Generation_From_Large_Language_Models_to_Large_Motion_Models.md)
 
 - [RAFT: Realistic Attacks to Fool Text Detectors](2024年10月04日/RAFT_Realistic_Attacks_to_Fool_Text_Detectors.md)
 
@@ -89,10 +77,6 @@
 - [Re-examining Sexism and Misogyny Classification with Annotator Attitudes](2024年10月04日/Re-examining_Sexism_and_Misogyny_Classification_with_Annotator_Attitudes.md)
 
     - [翻译: 重新审视性别歧视与厌女症的分类，聚焦于注释者的态度。](2024年10月04日/Re-examining_Sexism_and_Misogyny_Classification_with_Annotator_Attitudes.md)
-
-- [SELU: Self-Learning Embodied MLLMs in Unknown Environments](2024年10月04日/SELU_Self-Learning_Embodied_MLLMs_in_Unknown_Environments.md)
-
-    - [翻译: SELU：在未知环境中自主学习的多语言大型语言模型](2024年10月04日/SELU_Self-Learning_Embodied_MLLMs_in_Unknown_Environments.md)
 
 - [Steering Large Language Models between Code Execution and Textual Reasoning](2024年10月04日/Steering_Large_Language_Models_between_Code_Execution_and_Textual_Reasoning.md)
 
@@ -105,10 +89,6 @@
 - [Towards a Benchmark for Large Language Models for Business Process Management Tasks](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
 
     - [翻译: 打造业务流程管理任务的大型语言模型基准](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
-
-- [Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores](2024年10月04日/Towards_Reproducible_LLM_Evaluation_Quantifying_Uncertainty_in_LLM_Benchmark_Scores.md)
-
-    - [翻译: 迈向可重复的 LLM 评估：量化基准分数中的不确定性](2024年10月04日/Towards_Reproducible_LLM_Evaluation_Quantifying_Uncertainty_in_LLM_Benchmark_Scores.md)
 
 - [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View](2024年10月04日/Understanding_Reasoning_in_Chain-of-Thought_from_the_Hopfieldian_View.md)
 
@@ -129,10 +109,6 @@
 - [What do Large Language Models Need for Machine Translation Evaluation?](2024年10月04日/What_do_Large_Language_Models_Need_for_Machine_Translation_Evaluation.md)
 
     - [翻译: 大型语言模型在机器翻译评估中需要哪些要素？](2024年10月04日/What_do_Large_Language_Models_Need_for_Machine_Translation_Evaluation.md)
-
-- [What Matters for Model Merging at Scale?](2024年10月04日/What_Matters_for_Model_Merging_at_Scale.md)
-
-    - [翻译: 大规模模型合并的关键何在？](2024年10月04日/What_Matters_for_Model_Merging_at_Scale.md)
 
 - [Zero-Shot Fact Verification via Natural Logic and Large Language Models](2024年10月04日/Zero-Shot_Fact_Verification_via_Natural_Logic_and_Large_Language_Models.md)
 
