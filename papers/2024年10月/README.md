@@ -386,10 +386,6 @@
 
     - [翻译: 相关感知选择与合并注意力机制，助力高效微调与上下文长度扩展](2024年10月05日/Correlation-Aware_Select_and_Merge_Attention_for_Efficient_Fine-Tuning_and_Context_Length_Extension.md)
 
-- [CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints](2024年10月05日/CS4_Measuring_the_Creativity_of_Large_Language_Models_Automatically_by_Controlling_the_Number_of_Story-Writing_Constraints.md)
-
-    - [翻译: CS4：通过调控故事创作的限制条件，自动评估大型语言模型的创造力](2024年10月05日/CS4_Measuring_the_Creativity_of_Large_Language_Models_Automatically_by_Controlling_the_Number_of_Story-Writing_Constraints.md)
-
 - [DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech](2024年10月05日/DiDOTS_Knowledge_Distillation_from_Large-Language-Models_for_Dementia_Obfuscation_in_Transcribed_Speech.md)
 
     - [翻译: DiDOTS：借助大型语言模型的力量，破解转录语音中痴呆症的迷雾](2024年10月05日/DiDOTS_Knowledge_Distillation_from_Large-Language-Models_for_Dementia_Obfuscation_in_Transcribed_Speech.md)
@@ -405,10 +401,6 @@
 - [Efficiently Identifying Low-Quality Language Subsets in Multilingual Datasets: A Case Study on a Large-Scale Multilingual Audio Dataset](2024年10月05日/Efficiently_Identifying_Low-Quality_Language_Subsets_in_Multilingual_Datasets_A_Case_Study_on_a_Large-Scale_Multilingual_Audio_Dataset.md)
 
     - [翻译: 快速定位多语言数据集中的低质量语言子集：大规模多语言音频数据集的实践探索](2024年10月05日/Efficiently_Identifying_Low-Quality_Language_Subsets_in_Multilingual_Datasets_A_Case_Study_on_a_Large-Scale_Multilingual_Audio_Dataset.md)
-
-- [Exploring LLM-based Data Annotation Strategies for Medical Dialogue Preference Alignment](2024年10月05日/Exploring_LLM-based_Data_Annotation_Strategies_for_Medical_Dialogue_Preference_Alignment.md)
-
-    - [翻译: 探索基于大型语言模型的数据标注策略，以实现医疗对话中的偏好对齐](2024年10月05日/Exploring_LLM-based_Data_Annotation_Strategies_for_Medical_Dialogue_Preference_Alignment.md)
 
 - [From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression](2024年10月05日/From_Reading_to_Compressing_Exploring_the_Multi-document_Reader_for_Prompt_Compression.md)
 
@@ -458,29 +450,13 @@
 
     - [翻译: 元数据驱动的大数据探索，结合检索增强生成技术，助力大型语言模型发展。](2024年10月05日/Metadata-based_Data_Exploration_with_Retrieval-Augmented_Generation_for_Large_Language_Models.md)
 
-- [Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning](2024年10月05日/Multimodal_Large_Language_Models_for_Inverse_Molecular_Design_with_Retrosynthetic_Planning.md)
-
-    - [翻译: 多模态大型语言模型助力逆向分子设计与逆合成规划](2024年10月05日/Multimodal_Large_Language_Models_for_Inverse_Molecular_Design_with_Retrosynthetic_Planning.md)
-
 - [OD-Stega: LLM-Based Near-Imperceptible Steganography via Optimized Distributions](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
 
     - [翻译: OD-Stega：利用 LLM 技术，通过优化分布实现近乎无痕的隐写术。](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
 
-- [Ordinal Preference Optimization: Aligning Human Preferences via NDCG](2024年10月05日/Ordinal_Preference_Optimization_Aligning_Human_Preferences_via_NDCG.md)
-
-    - [翻译: 序数偏好优化：借助 NDCG 精准对齐人类偏好](2024年10月05日/Ordinal_Preference_Optimization_Aligning_Human_Preferences_via_NDCG.md)
-
 - [RetCompletion:High-Speed Inference Image Completion with Retentive Network](2024年10月05日/RetCompletionHigh-Speed_Inference_Image_Completion_with_Retentive_Network.md)
 
     - [翻译: RetCompletion：借助 Retentive Network 实现高速图像补全](2024年10月05日/RetCompletionHigh-Speed_Inference_Image_Completion_with_Retentive_Network.md)
-
-- [ReTok: Replacing Tokenizer to Enhance Representation Efficiency in Large Language Model](2024年10月05日/ReTok_Replacing_Tokenizer_to_Enhance_Representation_Efficiency_in_Large_Language_Model.md)
-
-    - [翻译: ReTok：通过替换分词器，提升大型语言模型中的表示效率](2024年10月05日/ReTok_Replacing_Tokenizer_to_Enhance_Representation_Efficiency_in_Large_Language_Model.md)
-
-- [TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students](2024年10月05日/TeachTune_Reviewing_Pedagogical_Agents_Against_Diverse_Student_Profiles_with_Simulated_Students.md)
-
-    - [翻译: TeachTune：通过模拟学生，评估教学代理在多样化学生档案中的表现](2024年10月05日/TeachTune_Reviewing_Pedagogical_Agents_Against_Diverse_Student_Profiles_with_Simulated_Students.md)
 
 - [Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
 
