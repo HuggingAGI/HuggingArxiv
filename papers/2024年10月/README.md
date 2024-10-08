@@ -532,37 +532,13 @@
 
 2024年10月04日
 
-- [Generating Equivalent Representations of Code By A Self-Reflection Approach](2024年10月04日/Generating_Equivalent_Representations_of_Code_By_A_Self-Reflection_Approach.md)
-
-    - [翻译: 利用自反思技术，生成代码的等效表达](2024年10月04日/Generating_Equivalent_Representations_of_Code_By_A_Self-Reflection_Approach.md)
-
 - [How much can we forget about Data Contamination?](2024年10月04日/How_much_can_we_forget_about_Data_Contamination.md)
 
     - [翻译: 数据污染，我们能忽视多少？](2024年10月04日/How_much_can_we_forget_about_Data_Contamination.md)
 
-- [Misinformation with Legal Consequences (MisLC): A New Task Towards Harnessing Societal Harm of Misinformation](2024年10月04日/Misinformation_with_Legal_Consequences_(MisLC)_A_New_Task_Towards_Harnessing_Societal_Harm_of_Misinformation.md)
-
-    - [翻译: MisLC：一项新任务，旨在应对错误信息带来的法律后果及其社会危害。](2024年10月04日/Misinformation_with_Legal_Consequences_(MisLC)_A_New_Task_Towards_Harnessing_Societal_Harm_of_Misinformation.md)
-
-- [ORAssistant: A Custom RAG-based Conversational Assistant for OpenROAD](2024年10月04日/ORAssistant_A_Custom_RAG-based_Conversational_Assistant_for_OpenROAD.md)
-
-    - [翻译: ORAssistant：专为 OpenROAD 设计的 RAG 基础对话助手](2024年10月04日/ORAssistant_A_Custom_RAG-based_Conversational_Assistant_for_OpenROAD.md)
-
-- [Self-Powered LLM Modality Expansion for Large Speech-Text Models](2024年10月04日/Self-Powered_LLM_Modality_Expansion_for_Large_Speech-Text_Models.md)
-
-    - [翻译: 自供电 LLM 模态扩展，专为大型语音-文本模型设计](2024年10月04日/Self-Powered_LLM_Modality_Expansion_for_Large_Speech-Text_Models.md)
-
 - [TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction](2024年10月04日/TR-LLM_Integrating_Trajectory_Data_for_Scene-Aware_LLM-Based_Human_Action_Prediction.md)
 
     - [翻译: TR-LLM：通过集成轨迹数据，实现基于场景感知的 LLM 人类动作预测](2024年10月04日/TR-LLM_Integrating_Trajectory_Data_for_Scene-Aware_LLM-Based_Human_Action_Prediction.md)
-
-- [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View](2024年10月04日/Understanding_Reasoning_in_Chain-of-Thought_from_the_Hopfieldian_View.md)
-
-    - [翻译: 从 Hopfieldian 视角解读思维链中的推理过程](2024年10月04日/Understanding_Reasoning_in_Chain-of-Thought_from_the_Hopfieldian_View.md)
-
-- [What do Large Language Models Need for Machine Translation Evaluation?](2024年10月04日/What_do_Large_Language_Models_Need_for_Machine_Translation_Evaluation.md)
-
-    - [翻译: 大型语言模型在机器翻译评估中需要哪些要素？](2024年10月04日/What_do_Large_Language_Models_Need_for_Machine_Translation_Evaluation.md)
 
 - [YOLO-MARL: You Only LLM Once for Multi-agent Reinforcement Learning](2024年10月04日/YOLO-MARL_You_Only_LLM_Once_for_Multi-agent_Reinforcement_Learning.md)
 
