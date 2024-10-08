@@ -358,10 +358,6 @@
 
 2024年10月05日
 
-- [A Learning Rate Path Switching Training Paradigm for Version Updates of Large Language Models](2024年10月05日/A_Learning_Rate_Path_Switching_Training_Paradigm_for_Version_Updates_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型版本更新中的学习率路径切换训练新范式](2024年10月05日/A_Learning_Rate_Path_Switching_Training_Paradigm_for_Version_Updates_of_Large_Language_Models.md)
-
 - [BloomWise: Enhancing Problem-Solving capabilities of Large Language Models using Bloom's-Taxonomy-Inspired Prompts](2024年10月05日/BloomWise_Enhancing_Problem-Solving_capabilities_of_Large_Language_Models_using_Bloom's-Taxonomy-Inspired_Prompts.md)
 
     - [翻译: BloomWise：借助布鲁姆分类法启发的提示，提升大型语言模型的问题解决能力](2024年10月05日/BloomWise_Enhancing_Problem-Solving_capabilities_of_Large_Language_Models_using_Bloom's-Taxonomy-Inspired_Prompts.md)
@@ -369,26 +365,6 @@
 - [Correlation-Aware Select and Merge Attention for Efficient Fine-Tuning and Context Length Extension](2024年10月05日/Correlation-Aware_Select_and_Merge_Attention_for_Efficient_Fine-Tuning_and_Context_Length_Extension.md)
 
     - [翻译: 相关感知选择与合并注意力机制，助力高效微调与上下文长度扩展](2024年10月05日/Correlation-Aware_Select_and_Merge_Attention_for_Efficient_Fine-Tuning_and_Context_Length_Extension.md)
-
-- [DiffSpec: Differential Testing with LLMs using Natural Language Specifications and Code Artifacts](2024年10月05日/DiffSpec_Differential_Testing_with_LLMs_using_Natural_Language_Specifications_and_Code_Artifacts.md)
-
-    - [翻译: DiffSpec：借助自然语言规范与代码工件，对 LLM 进行差异测试](2024年10月05日/DiffSpec_Differential_Testing_with_LLMs_using_Natural_Language_Specifications_and_Code_Artifacts.md)
-
-- [ECon: On the Detection and Resolution of Evidence Conflicts](2024年10月05日/ECon_On_the_Detection_and_Resolution_of_Evidence_Conflicts.md)
-
-    - [翻译: ECon：探讨证据冲突的检测与解决之道](2024年10月05日/ECon_On_the_Detection_and_Resolution_of_Evidence_Conflicts.md)
-
-- [Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](2024年10月05日/Functional_Homotopy_Smoothing_Discrete_Optimization_via_Continuous_Parameters_for_LLM_Jailbreak_Attacks.md)
-
-    - [翻译: 功能同伦：利用连续参数平滑离散优化，破解 LLM 的安全防线](2024年10月05日/Functional_Homotopy_Smoothing_Discrete_Optimization_via_Continuous_Parameters_for_LLM_Jailbreak_Attacks.md)
-
-- [Large Language Models can Achieve Social Balance](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
-
-    - [翻译: 大型语言模型有能力实现社会平衡](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
-
-- [Mechanistic Behavior Editing of Language Models](2024年10月05日/Mechanistic_Behavior_Editing_of_Language_Models.md)
-
-    - [翻译: 语言模型的行为机制调整](2024年10月05日/Mechanistic_Behavior_Editing_of_Language_Models.md)
 
 - [OD-Stega: LLM-Based Near-Imperceptible Steganography via Optimized Distributions](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
 
