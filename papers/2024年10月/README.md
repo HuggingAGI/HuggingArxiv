@@ -358,10 +358,6 @@
 
 2024年10月05日
 
-- [AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](2024年10月05日/AI_as_Humanity's_Salieri_Quantifying_Linguistic_Creativity_of_Language_Models_via_Systematic_Attribution_of_Machine_Text_against_Web_Text.md)
-
-    - [翻译: AI 如萨列里般挑战人类：通过对比机器与网络文本，量化语言模型的创造力](2024年10月05日/AI_as_Humanity's_Salieri_Quantifying_Linguistic_Creativity_of_Language_Models_via_Systematic_Attribution_of_Machine_Text_against_Web_Text.md)
-
 - [A Learning Rate Path Switching Training Paradigm for Version Updates of Large Language Models](2024年10月05日/A_Learning_Rate_Path_Switching_Training_Paradigm_for_Version_Updates_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型版本更新中的学习率路径切换训练新范式](2024年10月05日/A_Learning_Rate_Path_Switching_Training_Paradigm_for_Version_Updates_of_Large_Language_Models.md)
@@ -369,10 +365,6 @@
 - [Beyond Language: Applying MLX Transformers to Engineering Physics](2024年10月05日/Beyond_Language_Applying_MLX_Transformers_to_Engineering_Physics.md)
 
     - [翻译: 超越语言界限：探索 MLX Transformers 在工程物理领域的应用](2024年10月05日/Beyond_Language_Applying_MLX_Transformers_to_Engineering_Physics.md)
-
-- [Black Boxes and Looking Glasses: Multilevel Symmetries, Reflection Planes, and Convex Optimization in Deep Networks](2024年10月05日/Black_Boxes_and_Looking_Glasses_Multilevel_Symmetries,_Reflection_Planes,_and_Convex_Optimization_in_Deep_Networks.md)
-
-    - [翻译: 黑箱与窥镜：深度网络中的多层次对称、反射平面与凸优化](2024年10月05日/Black_Boxes_and_Looking_Glasses_Multilevel_Symmetries,_Reflection_Planes,_and_Convex_Optimization_in_Deep_Networks.md)
 
 - [BloomWise: Enhancing Problem-Solving capabilities of Large Language Models using Bloom's-Taxonomy-Inspired Prompts](2024年10月05日/BloomWise_Enhancing_Problem-Solving_capabilities_of_Large_Language_Models_using_Bloom's-Taxonomy-Inspired_Prompts.md)
 
@@ -398,10 +390,6 @@
 
     - [翻译: ECon：探讨证据冲突的检测与解决之道](2024年10月05日/ECon_On_the_Detection_and_Resolution_of_Evidence_Conflicts.md)
 
-- [Efficiently Identifying Low-Quality Language Subsets in Multilingual Datasets: A Case Study on a Large-Scale Multilingual Audio Dataset](2024年10月05日/Efficiently_Identifying_Low-Quality_Language_Subsets_in_Multilingual_Datasets_A_Case_Study_on_a_Large-Scale_Multilingual_Audio_Dataset.md)
-
-    - [翻译: 快速定位多语言数据集中的低质量语言子集：大规模多语言音频数据集的实践探索](2024年10月05日/Efficiently_Identifying_Low-Quality_Language_Subsets_in_Multilingual_Datasets_A_Case_Study_on_a_Large-Scale_Multilingual_Audio_Dataset.md)
-
 - [From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression](2024年10月05日/From_Reading_to_Compressing_Exploring_the_Multi-document_Reader_for_Prompt_Compression.md)
 
     - [翻译: 从阅读到压缩：探索多文档阅读器在提示压缩中的应用](2024年10月05日/From_Reading_to_Compressing_Exploring_the_Multi-document_Reader_for_Prompt_Compression.md)
@@ -418,10 +406,6 @@
 
     - [翻译: 借助任务过载，实现对大型语言模型的可扩展越狱攻击](2024年10月05日/Harnessing_Task_Overload_for_Scalable_Jailbreak_Attacks_on_Large_Language_Models.md)
 
-- [Language Model-Driven Data Pruning Enables Efficient Active Learning](2024年10月05日/Language_Model-Driven_Data_Pruning_Enables_Efficient_Active_Learning.md)
-
-    - [翻译: 语言模型驱动数据修剪，助力高效主动学习](2024年10月05日/Language_Model-Driven_Data_Pruning_Enables_Efficient_Active_Learning.md)
-
 - [Large Language Models can Achieve Social Balance](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
 
     - [翻译: 大型语言模型有能力实现社会平衡](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
@@ -429,10 +413,6 @@
 - [Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models](2024年10月05日/Learning_on_LoRAs_GL-Equivariant_Processing_of_Low-Rank_Weight_Spaces_for_Large_Finetuned_Models.md)
 
     - [翻译: 通过 GL-等变处理低秩权重空间，提升大型微调模型的学习效果。](2024年10月05日/Learning_on_LoRAs_GL-Equivariant_Processing_of_Low-Rank_Weight_Spaces_for_Large_Finetuned_Models.md)
-
-- [LLMTemporalComparator: A Tool for Analysing Differences in Temporal Adaptations of Large Language Models](2024年10月05日/LLMTemporalComparator_A_Tool_for_Analysing_Differences_in_Temporal_Adaptations_of_Large_Language_Models.md)
-
-    - [翻译: LLMTemporalComparator：一款专为分析大型语言模型时间适应差异而设计的工具](2024年10月05日/LLMTemporalComparator_A_Tool_for_Analysing_Differences_in_Temporal_Adaptations_of_Large_Language_Models.md)
 
 - [LongGenBench: Long-context Generation Benchmark](2024年10月05日/LongGenBench_Long-context_Generation_Benchmark.md)
 
@@ -461,10 +441,6 @@
 - [Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
 
     - [翻译: Text2Chart31：通过自动反馈进行图表生成的指令调优](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
-
-- [Toxic Subword Pruning for Dialogue Response Generation on Large Language Models](2024年10月05日/Toxic_Subword_Pruning_for_Dialogue_Response_Generation_on_Large_Language_Models.md)
-
-    - [翻译: 在大型语言模型中生成对话响应时，修剪有害子词](2024年10月05日/Toxic_Subword_Pruning_for_Dialogue_Response_Generation_on_Large_Language_Models.md)
 
 - [TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions](2024年10月05日/TUBench_Benchmarking_Large_Vision-Language_Models_on_Trustworthiness_with_Unanswerable_Questions.md)
 
