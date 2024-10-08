@@ -362,17 +362,9 @@
 
     - [翻译: 大型语言模型版本更新中的学习率路径切换训练新范式](2024年10月05日/A_Learning_Rate_Path_Switching_Training_Paradigm_for_Version_Updates_of_Large_Language_Models.md)
 
-- [Beyond Language: Applying MLX Transformers to Engineering Physics](2024年10月05日/Beyond_Language_Applying_MLX_Transformers_to_Engineering_Physics.md)
-
-    - [翻译: 超越语言界限：探索 MLX Transformers 在工程物理领域的应用](2024年10月05日/Beyond_Language_Applying_MLX_Transformers_to_Engineering_Physics.md)
-
 - [BloomWise: Enhancing Problem-Solving capabilities of Large Language Models using Bloom's-Taxonomy-Inspired Prompts](2024年10月05日/BloomWise_Enhancing_Problem-Solving_capabilities_of_Large_Language_Models_using_Bloom's-Taxonomy-Inspired_Prompts.md)
 
     - [翻译: BloomWise：借助布鲁姆分类法启发的提示，提升大型语言模型的问题解决能力](2024年10月05日/BloomWise_Enhancing_Problem-Solving_capabilities_of_Large_Language_Models_using_Bloom's-Taxonomy-Inspired_Prompts.md)
-
-- [Consistent Autoformalization for Constructing Mathematical Libraries](2024年10月05日/Consistent_Autoformalization_for_Constructing_Mathematical_Libraries.md)
-
-    - [翻译: 构建数学库的自动形式化一致性](2024年10月05日/Consistent_Autoformalization_for_Constructing_Mathematical_Libraries.md)
 
 - [Correlation-Aware Select and Merge Attention for Efficient Fine-Tuning and Context Length Extension](2024年10月05日/Correlation-Aware_Select_and_Merge_Attention_for_Efficient_Fine-Tuning_and_Context_Length_Extension.md)
 
@@ -398,10 +390,6 @@
 
     - [翻译: 功能同伦：利用连续参数平滑离散优化，破解 LLM 的安全防线](2024年10月05日/Functional_Homotopy_Smoothing_Discrete_Optimization_via_Continuous_Parameters_for_LLM_Jailbreak_Attacks.md)
 
-- [Gamified crowd-sourcing of high-quality data for visual fine-tuning](2024年10月05日/Gamified_crowd-sourcing_of_high-quality_data_for_visual_fine-tuning.md)
-
-    - [翻译: 通过游戏化众包获取高质量数据，助力视觉模型的微调](2024年10月05日/Gamified_crowd-sourcing_of_high-quality_data_for_visual_fine-tuning.md)
-
 - [Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models](2024年10月05日/Harnessing_Task_Overload_for_Scalable_Jailbreak_Attacks_on_Large_Language_Models.md)
 
     - [翻译: 借助任务过载，实现对大型语言模型的可扩展越狱攻击](2024年10月05日/Harnessing_Task_Overload_for_Scalable_Jailbreak_Attacks_on_Large_Language_Models.md)
@@ -414,10 +402,6 @@
 
     - [翻译: 通过 GL-等变处理低秩权重空间，提升大型微调模型的学习效果。](2024年10月05日/Learning_on_LoRAs_GL-Equivariant_Processing_of_Low-Rank_Weight_Spaces_for_Large_Finetuned_Models.md)
 
-- [LongGenBench: Long-context Generation Benchmark](2024年10月05日/LongGenBench_Long-context_Generation_Benchmark.md)
-
-    - [翻译: LongGenBench：长上下文生成基准](2024年10月05日/LongGenBench_Long-context_Generation_Benchmark.md)
-
 - [LoRTA: Low Rank Tensor Adaptation of Large Language Models](2024年10月05日/LoRTA_Low_Rank_Tensor_Adaptation_of_Large_Language_Models.md)
 
     - [翻译: LoRTA：大型语言模型的低秩张量适应技术](2024年10月05日/LoRTA_Low_Rank_Tensor_Adaptation_of_Large_Language_Models.md)
@@ -426,17 +410,9 @@
 
     - [翻译: 语言模型的行为机制调整](2024年10月05日/Mechanistic_Behavior_Editing_of_Language_Models.md)
 
-- [Metadata-based Data Exploration with Retrieval-Augmented Generation for Large Language Models](2024年10月05日/Metadata-based_Data_Exploration_with_Retrieval-Augmented_Generation_for_Large_Language_Models.md)
-
-    - [翻译: 元数据驱动的大数据探索，结合检索增强生成技术，助力大型语言模型发展。](2024年10月05日/Metadata-based_Data_Exploration_with_Retrieval-Augmented_Generation_for_Large_Language_Models.md)
-
 - [OD-Stega: LLM-Based Near-Imperceptible Steganography via Optimized Distributions](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
 
     - [翻译: OD-Stega：利用 LLM 技术，通过优化分布实现近乎无痕的隐写术。](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
-
-- [RetCompletion:High-Speed Inference Image Completion with Retentive Network](2024年10月05日/RetCompletionHigh-Speed_Inference_Image_Completion_with_Retentive_Network.md)
-
-    - [翻译: RetCompletion：借助 Retentive Network 实现高速图像补全](2024年10月05日/RetCompletionHigh-Speed_Inference_Image_Completion_with_Retentive_Network.md)
 
 - [Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
 
