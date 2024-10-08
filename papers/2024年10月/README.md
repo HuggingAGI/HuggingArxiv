@@ -36,7 +36,7 @@
 
 - [Diffusion Models in 3D Vision: A Survey](2024年10月07日/Diffusion_Models_in_3D_Vision_A_Survey.md)
 
-    - [翻译: 3D 视觉中的扩散模型：全面调查](2024年10月07日/Diffusion_Models_in_3D_Vision_A_Survey.md)
+    - [翻译: 3D 视觉领域中的扩散模型：全面调查](2024年10月07日/Diffusion_Models_in_3D_Vision_A_Survey.md)
 
 - [Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering](2024年10月07日/Document-level_Causal_Relation_Extraction_with_Knowledge-guided_Binary_Question_Answering.md)
 
@@ -128,11 +128,19 @@
 
 - [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality](2024年10月07日/Mitigating_Modality_Prior-Induced_Hallucinations_in_Multimodal_Large_Language_Models_via_Deciphering_Attention_Causality.md)
 
-    - [翻译: 通过揭示注意力因果，缓解多模态大型语言模型中模态先验引发的幻觉问题。](2024年10月07日/Mitigating_Modality_Prior-Induced_Hallucinations_in_Multimodal_Large_Language_Models_via_Deciphering_Attention_Causality.md)
+    - [翻译: 通过揭示注意力因果，减轻多模态大型语言模型中模态先验引发的幻觉问题。](2024年10月07日/Mitigating_Modality_Prior-Induced_Hallucinations_in_Multimodal_Large_Language_Models_via_Deciphering_Attention_Causality.md)
 
 - [MM-R$^3$: On (In-)Consistency of Multi-modal Large Language Models (MLLMs)](2024年10月07日/MM-R$^3$_On_(In-)Consistency_of_Multi-modal_Large_Language_Models_(MLLMs).md)
 
     - [翻译: MM-R$^3$: 探讨多模态大型语言模型 (MLLM) 的一致性问题](2024年10月07日/MM-R$^3$_On_(In-)Consistency_of_Multi-modal_Large_Language_Models_(MLLMs).md)
+
+- [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](2024年10月07日/Navigating_the_Digital_World_as_Humans_Do_Universal_Visual_Grounding_for_GUI_Agents.md)
+
+    - [翻译: 像人类一样探索数字世界：GUI 代理的通用视觉基础](2024年10月07日/Navigating_the_Digital_World_as_Humans_Do_Universal_Visual_Grounding_for_GUI_Agents.md)
+
+- [Organizing Unstructured Image Collections using Natural Language](2024年10月07日/Organizing_Unstructured_Image_Collections_using_Natural_Language.md)
+
+    - [翻译: 用自然语言整理无序的图像集](2024年10月07日/Organizing_Unstructured_Image_Collections_using_Natural_Language.md)
 
 - [Precise Model Benchmarking with Only a Few Observations](2024年10月07日/Precise_Model_Benchmarking_with_Only_a_Few_Observations.md)
 
@@ -282,7 +290,7 @@
 
 - [Hammer: Robust Function-Calling for On-Device Language Models via Function Masking](2024年10月06日/Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.md)
 
-    - [翻译: Hammer：利用函数掩码技术，为设备上的语言模型提供更稳健的函数调用功能。](2024年10月06日/Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.md)
+    - [翻译: Hammer：利用函数掩码技术，为设备上的语言模型提供稳健的函数调用功能。](2024年10月06日/Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.md)
 
 - [How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?](2024年10月06日/How_Does_the_Disclosure_of_AI_Assistance_Affect_the_Perceptions_of_Writing.md)
 
@@ -302,7 +310,7 @@
 
 - [MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration](2024年10月06日/MC-CoT_A_Modular_Collaborative_CoT_Framework_for_Zero-shot_Medical-VQA_with_LLM_and_MLLM_Integration.md)
 
-    - [翻译: MC-CoT：一个模块化协作 CoT 框架，专为零-shot 医学-VQA 设计，集成了 LLM 和 MLLM 技术。](2024年10月06日/MC-CoT_A_Modular_Collaborative_CoT_Framework_for_Zero-shot_Medical-VQA_with_LLM_and_MLLM_Integration.md)
+    - [翻译: MC-CoT：一个模块化协作 CoT 框架，专为零-shot 医学-VQA 设计，集成了 LLM 和 MLLM。](2024年10月06日/MC-CoT_A_Modular_Collaborative_CoT_Framework_for_Zero-shot_Medical-VQA_with_LLM_and_MLLM_Integration.md)
 
 - [MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems](2024年10月06日/MindScope_Exploring_cognitive_biases_in_large_language_models_through_Multi-Agent_Systems.md)
 
@@ -565,10 +573,6 @@
     - [翻译: YOLO-MARL：一次 LLM，多智能体强化学习无忧](2024年10月04日/YOLO-MARL_You_Only_LLM_Once_for_Multi-agent_Reinforcement_Learning.md)
 
 2024年10月03日
-
-- [Reward-RAG: Enhancing RAG with Reward Driven Supervision](2024年10月03日/Reward-RAG_Enhancing_RAG_with_Reward_Driven_Supervision.md)
-
-    - [翻译: Reward-RAG：以奖励驱动的方式提升 RAG 的性能](2024年10月03日/Reward-RAG_Enhancing_RAG_with_Reward_Driven_Supervision.md)
 
 - [Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure](2024年10月03日/Towards_the_Pedagogical_Steering_of_Large_Language_Models_for_Tutoring_A_Case_Study_with_Modeling_Productive_Failure.md)
 
