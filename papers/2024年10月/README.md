@@ -532,10 +532,6 @@
 
 2024年10月04日
 
-- [dZiner: Rational Inverse Design of Materials with AI Agents](2024年10月04日/dZiner_Rational_Inverse_Design_of_Materials_with_AI_Agents.md)
-
-    - [翻译: dZiner：借助 AI 代理实现材料的理性逆向设计](2024年10月04日/dZiner_Rational_Inverse_Design_of_Materials_with_AI_Agents.md)
-
 - [Generating Equivalent Representations of Code By A Self-Reflection Approach](2024年10月04日/Generating_Equivalent_Representations_of_Code_By_A_Self-Reflection_Approach.md)
 
     - [翻译: 利用自反思技术，生成代码的等效表达](2024年10月04日/Generating_Equivalent_Representations_of_Code_By_A_Self-Reflection_Approach.md)
@@ -571,9 +567,3 @@
 - [YOLO-MARL: You Only LLM Once for Multi-agent Reinforcement Learning](2024年10月04日/YOLO-MARL_You_Only_LLM_Once_for_Multi-agent_Reinforcement_Learning.md)
 
     - [翻译: YOLO-MARL：一次 LLM，多智能体强化学习无忧](2024年10月04日/YOLO-MARL_You_Only_LLM_Once_for_Multi-agent_Reinforcement_Learning.md)
-
-2024年10月03日
-
-- [Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure](2024年10月03日/Towards_the_Pedagogical_Steering_of_Large_Language_Models_for_Tutoring_A_Case_Study_with_Modeling_Productive_Failure.md)
-
-    - [翻译: 探索大型语言模型在辅导中的教学引导：以建模生产性失败为例](2024年10月03日/Towards_the_Pedagogical_Steering_of_Large_Language_Models_for_Tutoring_A_Case_Study_with_Modeling_Productive_Failure.md)
