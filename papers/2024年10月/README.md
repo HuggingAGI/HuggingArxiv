@@ -10,17 +10,9 @@
 
     - [翻译: ALR$^2$：一种专为长上下文问答设计的“先检索后推理”框架](2024年10月04日/ALR$^2$_A_Retrieve-then-Reason_Framework_for_Long-context_Question_Answering.md)
 
-- [Audio-Agent: Leveraging LLMs For Audio Generation, Editing and Composition](2024年10月04日/Audio-Agent_Leveraging_LLMs_For_Audio_Generation,_Editing_and_Composition.md)
-
-    - [翻译: Audio-Agent：借助 LLMs 实现音频的生成、编辑与合成](2024年10月04日/Audio-Agent_Leveraging_LLMs_For_Audio_Generation,_Editing_and_Composition.md)
-
 - [Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation](2024年10月04日/Auto-GDA_Automatic_Domain_Adaptation_for_Efficient_Grounding_Verification_in_Retrieval_Augmented_Generation.md)
 
     - [翻译: Auto-GDA：自动域适应，助力检索增强生成中的高效基础验证](2024年10月04日/Auto-GDA_Automatic_Domain_Adaptation_for_Efficient_Grounding_Verification_in_Retrieval_Augmented_Generation.md)
-
-- [Beyond Film Subtitles: Is YouTube the Best Approximation of Spoken Vocabulary?](2024年10月04日/Beyond_Film_Subtitles_Is_YouTube_the_Best_Approximation_of_Spoken_Vocabulary.md)
-
-    - [翻译: 除了电影字幕，YouTube 是否能更准确地反映口语词汇？](2024年10月04日/Beyond_Film_Subtitles_Is_YouTube_the_Best_Approximation_of_Spoken_Vocabulary.md)
 
 - [Consultation on Industrial Machine Faults with Large language Models](2024年10月04日/Consultation_on_Industrial_Machine_Faults_with_Large_language_Models.md)
 
@@ -30,17 +22,9 @@
 
     - [翻译: 大型语言模型在后自动语音识别情感识别中的上下文与系统融合](2024年10月04日/Context_and_System_Fusion_in_Post-ASR_Emotion_Recognition_with_Large_Language_Models.md)
 
-- [Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models](2024年10月04日/Enhance_Reasoning_by_Learning_from_Mistakes_Peer-Review_Knowledge_Distillation_from_Multiple_Large_Language_Models.md)
-
-    - [翻译: 从错误中学习，提升推理能力：多大型语言模型的同行评审知识蒸馏](2024年10月04日/Enhance_Reasoning_by_Learning_from_Mistakes_Peer-Review_Knowledge_Distillation_from_Multiple_Large_Language_Models.md)
-
 - [Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval](2024年10月04日/Enriching_Music_Descriptions_with_a_Finetuned-LLM_and_Metadata_for_Text-to-Music_Retrieval.md)
 
     - [翻译: 借助微调的 LLM 和元数据，我们为音乐描述增添了更多色彩，从而提升了文本到音乐的检索效果。](2024年10月04日/Enriching_Music_Descriptions_with_a_Finetuned-LLM_and_Metadata_for_Text-to-Music_Retrieval.md)
-
-- [Frame-Voyager: Learning to Query Frames for Video Large Language Models](2024年10月04日/Frame-Voyager_Learning_to_Query_Frames_for_Video_Large_Language_Models.md)
-
-    - [翻译: Frame-Voyager：探索如何为视频大型语言模型高效查询帧](2024年10月04日/Frame-Voyager_Learning_to_Query_Frames_for_Video_Large_Language_Models.md)
 
 - [Generating Equivalent Representations of Code By A Self-Reflection Approach](2024年10月04日/Generating_Equivalent_Representations_of_Code_By_A_Self-Reflection_Approach.md)
 
@@ -65,10 +49,6 @@
 - [Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](2024年10月04日/Look_Twice_Before_You_Answer_Memory-Space_Visual_Retracing_for_Hallucination_Mitigation_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: 回答前，先三思：通过记忆空间视觉回溯，缓解多模态大型语言模型中的幻觉问题。](2024年10月04日/Look_Twice_Before_You_Answer_Memory-Space_Visual_Retracing_for_Hallucination_Mitigation_in_Multimodal_Large_Language_Models.md)
-
-- [On Uncertainty In Natural Language Processing](2024年10月04日/On_Uncertainty_In_Natural_Language_Processing.md)
-
-    - [翻译: 自然语言处理中的不确定性探究](2024年10月04日/On_Uncertainty_In_Natural_Language_Processing.md)
 
 - [RAFT: Realistic Attacks to Fool Text Detectors](2024年10月04日/RAFT_Realistic_Attacks_to_Fool_Text_Detectors.md)
 
@@ -109,7 +89,3 @@
 - [What do Large Language Models Need for Machine Translation Evaluation?](2024年10月04日/What_do_Large_Language_Models_Need_for_Machine_Translation_Evaluation.md)
 
     - [翻译: 大型语言模型在机器翻译评估中需要哪些要素？](2024年10月04日/What_do_Large_Language_Models_Need_for_Machine_Translation_Evaluation.md)
-
-- [Zero-Shot Fact Verification via Natural Logic and Large Language Models](2024年10月04日/Zero-Shot_Fact_Verification_via_Natural_Logic_and_Large_Language_Models.md)
-
-    - [翻译: 通过自然逻辑与大型语言模型实现零-shot 事实验证](2024年10月04日/Zero-Shot_Fact_Verification_via_Natural_Logic_and_Large_Language_Models.md)
