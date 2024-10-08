@@ -30,10 +30,6 @@
 
     - [翻译: 利用自反思技术，生成代码的等效表达](2024年10月04日/Generating_Equivalent_Representations_of_Code_By_A_Self-Reflection_Approach.md)
 
-- [Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](2024年10月04日/Grounded-VideoLLM_Sharpening_Fine-grained_Temporal_Grounding_in_Video_Large_Language_Models.md)
-
-    - [翻译: Grounded-VideoLLM：精炼视频大型语言模型中的细粒度时间定位](2024年10月04日/Grounded-VideoLLM_Sharpening_Fine-grained_Temporal_Grounding_in_Video_Large_Language_Models.md)
-
 - [How much can we forget about Data Contamination?](2024年10月04日/How_much_can_we_forget_about_Data_Contamination.md)
 
     - [翻译: 数据污染，我们能忽视多少？](2024年10月04日/How_much_can_we_forget_about_Data_Contamination.md)
@@ -46,14 +42,6 @@
 
     - [翻译: LeLaN：通过野外视频学习语言条件下的导航策略](2024年10月04日/LeLaN_Learning_A_Language-Conditioned_Navigation_Policy_from_In-the-Wild_Videos.md)
 
-- [Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](2024年10月04日/Look_Twice_Before_You_Answer_Memory-Space_Visual_Retracing_for_Hallucination_Mitigation_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 回答前，先三思：通过记忆空间视觉回溯，缓解多模态大型语言模型中的幻觉问题。](2024年10月04日/Look_Twice_Before_You_Answer_Memory-Space_Visual_Retracing_for_Hallucination_Mitigation_in_Multimodal_Large_Language_Models.md)
-
-- [RAFT: Realistic Attacks to Fool Text Detectors](2024年10月04日/RAFT_Realistic_Attacks_to_Fool_Text_Detectors.md)
-
-    - [翻译: RAFT：针对文本检测器的现实攻击策略](2024年10月04日/RAFT_Realistic_Attacks_to_Fool_Text_Detectors.md)
-
 - [Re-examining Sexism and Misogyny Classification with Annotator Attitudes](2024年10月04日/Re-examining_Sexism_and_Misogyny_Classification_with_Annotator_Attitudes.md)
 
     - [翻译: 重新审视性别歧视与厌女症的分类，聚焦于注释者的态度。](2024年10月04日/Re-examining_Sexism_and_Misogyny_Classification_with_Annotator_Attitudes.md)
@@ -62,14 +50,6 @@
 
     - [翻译: 驾驭大型语言模型，游走于代码执行与文本推理之间](2024年10月04日/Steering_Large_Language_Models_between_Code_Execution_and_Textual_Reasoning.md)
 
-- [Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding](2024年10月04日/Structure-Enhanced_Protein_Instruction_Tuning_Towards_General-Purpose_Protein_Understanding.md)
-
-    - [翻译: 结构增强的蛋白质指令调优：探索通用蛋白质理解的奥秘](2024年10月04日/Structure-Enhanced_Protein_Instruction_Tuning_Towards_General-Purpose_Protein_Understanding.md)
-
-- [Towards a Benchmark for Large Language Models for Business Process Management Tasks](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
-
-    - [翻译: 打造业务流程管理任务的大型语言模型基准](2024年10月04日/Towards_a_Benchmark_for_Large_Language_Models_for_Business_Process_Management_Tasks.md)
-
 - [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View](2024年10月04日/Understanding_Reasoning_in_Chain-of-Thought_from_the_Hopfieldian_View.md)
 
     - [翻译: 从 Hopfieldian 视角解读思维链中的推理过程](2024年10月04日/Understanding_Reasoning_in_Chain-of-Thought_from_the_Hopfieldian_View.md)
@@ -77,10 +57,6 @@
 - [VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning](2024年10月04日/VEDIT_Latent_Prediction_Architecture_For_Procedural_Video_Representation_Learning.md)
 
     - [翻译: VEDIT：一种用于程序化视频表示学习的潜在预测架构](2024年10月04日/VEDIT_Latent_Prediction_Architecture_For_Procedural_Video_Representation_Learning.md)
-
-- [Visual-O1: Understanding Ambiguous Instructions via Multi-modal Multi-turn Chain-of-thoughts Reasoning](2024年10月04日/Visual-O1_Understanding_Ambiguous_Instructions_via_Multi-modal_Multi-turn_Chain-of-thoughts_Reasoning.md)
-
-    - [翻译: 借助多模态多轮链式思维推理，深入解析模糊指令的奥秘。](2024年10月04日/Visual-O1_Understanding_Ambiguous_Instructions_via_Multi-modal_Multi-turn_Chain-of-thoughts_Reasoning.md)
 
 - [Ward: Provable RAG Dataset Inference via LLM Watermarks](2024年10月04日/Ward_Provable_RAG_Dataset_Inference_via_LLM_Watermarks.md)
 
