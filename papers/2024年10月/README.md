@@ -358,10 +358,6 @@
 
 2024年10月05日
 
-- [Adaptive Question Answering: Enhancing Language Model Proficiency for Addressing Knowledge Conflicts with Source Citations](2024年10月05日/Adaptive_Question_Answering_Enhancing_Language_Model_Proficiency_for_Addressing_Knowledge_Conflicts_with_Source_Citations.md)
-
-    - [翻译: 自适应问答：借助来源引用，提升语言模型应对知识冲突的熟练度](2024年10月05日/Adaptive_Question_Answering_Enhancing_Language_Model_Proficiency_for_Addressing_Knowledge_Conflicts_with_Source_Citations.md)
-
 - [AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](2024年10月05日/AI_as_Humanity's_Salieri_Quantifying_Linguistic_Creativity_of_Language_Models_via_Systematic_Attribution_of_Machine_Text_against_Web_Text.md)
 
     - [翻译: AI 如萨列里般挑战人类：通过对比机器与网络文本，量化语言模型的创造力](2024年10月05日/AI_as_Humanity's_Salieri_Quantifying_Linguistic_Creativity_of_Language_Models_via_Systematic_Attribution_of_Machine_Text_against_Web_Text.md)
@@ -422,10 +418,6 @@
 
     - [翻译: 功能同伦：利用连续参数平滑离散优化，破解 LLM 的安全防线](2024年10月05日/Functional_Homotopy_Smoothing_Discrete_Optimization_via_Continuous_Parameters_for_LLM_Jailbreak_Attacks.md)
 
-- [Fundamental Limitations on Subquadratic Alternatives to Transformers](2024年10月05日/Fundamental_Limitations_on_Subquadratic_Alternatives_to_Transformers.md)
-
-    - [翻译: Transformers 的次二次替代方案面临根本性限制](2024年10月05日/Fundamental_Limitations_on_Subquadratic_Alternatives_to_Transformers.md)
-
 - [Gamified crowd-sourcing of high-quality data for visual fine-tuning](2024年10月05日/Gamified_crowd-sourcing_of_high-quality_data_for_visual_fine-tuning.md)
 
     - [翻译: 通过游戏化众包获取高质量数据，助力视觉模型的微调](2024年10月05日/Gamified_crowd-sourcing_of_high-quality_data_for_visual_fine-tuning.md)
@@ -433,10 +425,6 @@
 - [Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models](2024年10月05日/Harnessing_Task_Overload_for_Scalable_Jailbreak_Attacks_on_Large_Language_Models.md)
 
     - [翻译: 借助任务过载，实现对大型语言模型的可扩展越狱攻击](2024年10月05日/Harnessing_Task_Overload_for_Scalable_Jailbreak_Attacks_on_Large_Language_Models.md)
-
-- [Inference Scaling for Long-Context Retrieval Augmented Generation](2024年10月05日/Inference_Scaling_for_Long-Context_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 长上下文检索增强生成的推理规模化](2024年10月05日/Inference_Scaling_for_Long-Context_Retrieval_Augmented_Generation.md)
 
 - [Language Model-Driven Data Pruning Enables Efficient Active Learning](2024年10月05日/Language_Model-Driven_Data_Pruning_Enables_Efficient_Active_Learning.md)
 
@@ -490,14 +478,6 @@
 
     - [翻译: ReTok：通过替换分词器，提升大型语言模型中的表示效率](2024年10月05日/ReTok_Replacing_Tokenizer_to_Enhance_Representation_Efficiency_in_Large_Language_Model.md)
 
-- [RoQLlama: A Lightweight Romanian Adapted Language Model](2024年10月05日/RoQLlama_A_Lightweight_Romanian_Adapted_Language_Model.md)
-
-    - [翻译: RoQLlama：一款轻巧的罗马尼亚语语言模型](2024年10月05日/RoQLlama_A_Lightweight_Romanian_Adapted_Language_Model.md)
-
-- [Self-Correction is More than Refinement: A Learning Framework for Visual and Language Reasoning Tasks](2024年10月05日/Self-Correction_is_More_than_Refinement_A_Learning_Framework_for_Visual_and_Language_Reasoning_Tasks.md)
-
-    - [翻译: 自我修正远不止于优化，它是一个专为视觉与语言推理任务设计的新颖学习框架。](2024年10月05日/Self-Correction_is_More_than_Refinement_A_Learning_Framework_for_Visual_and_Language_Reasoning_Tasks.md)
-
 - [TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students](2024年10月05日/TeachTune_Reviewing_Pedagogical_Agents_Against_Diverse_Student_Profiles_with_Simulated_Students.md)
 
     - [翻译: TeachTune：通过模拟学生，评估教学代理在多样化学生档案中的表现](2024年10月05日/TeachTune_Reviewing_Pedagogical_Agents_Against_Diverse_Student_Profiles_with_Simulated_Students.md)
@@ -505,10 +485,6 @@
 - [Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
 
     - [翻译: Text2Chart31：通过自动反馈进行图表生成的指令调优](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
-
-- [The Visualization JUDGE : Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?](2024年10月05日/The_Visualization_JUDGE__Can_Multimodal_Foundation_Models_Guide_Visualization_Design_Through_Visual_Perception.md)
-
-    - [翻译: 多模态基础模型能否借助视觉感知，引领可视化设计的方向？](2024年10月05日/The_Visualization_JUDGE__Can_Multimodal_Foundation_Models_Guide_Visualization_Design_Through_Visual_Perception.md)
 
 - [Toxic Subword Pruning for Dialogue Response Generation on Large Language Models](2024年10月05日/Toxic_Subword_Pruning_for_Dialogue_Response_Generation_on_Large_Language_Models.md)
 
