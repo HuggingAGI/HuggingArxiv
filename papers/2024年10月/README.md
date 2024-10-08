@@ -264,10 +264,6 @@
 
     - [翻译: 评估代码大型语言模型在地理空间代码生成中的表现](2024年10月06日/Evaluation_of_Code_LLMs_on_Geospatial_Code_Generation.md)
 
-- [FAMMA: A Benchmark for Financial Domain Multilingual Multimodal Question Answering](2024年10月06日/FAMMA_A_Benchmark_for_Financial_Domain_Multilingual_Multimodal_Question_Answering.md)
-
-    - [翻译: FAMMA：金融领域多语言多模态问答的标杆](2024年10月06日/FAMMA_A_Benchmark_for_Financial_Domain_Multilingual_Multimodal_Question_Answering.md)
-
 - [Fine-Grained Prediction of Reading Comprehension from Eye Movements](2024年10月06日/Fine-Grained_Prediction_of_Reading_Comprehension_from_Eye_Movements.md)
 
     - [翻译: 通过眼球运动精准预测阅读理解](2024年10月06日/Fine-Grained_Prediction_of_Reading_Comprehension_from_Eye_Movements.md)
@@ -307,10 +303,6 @@
 - [MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs](2024年10月06日/MathHay_An_Automated_Benchmark_for_Long-Context_Mathematical_Reasoning_in_LLMs.md)
 
     - [翻译: MathHay：LLMs 中长上下文数学推理的自动化标杆](2024年10月06日/MathHay_An_Automated_Benchmark_for_Long-Context_Mathematical_Reasoning_in_LLMs.md)
-
-- [MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration](2024年10月06日/MC-CoT_A_Modular_Collaborative_CoT_Framework_for_Zero-shot_Medical-VQA_with_LLM_and_MLLM_Integration.md)
-
-    - [翻译: MC-CoT：一个模块化协作 CoT 框架，专为零-shot 医学-VQA 设计，集成了 LLM 和 MLLM。](2024年10月06日/MC-CoT_A_Modular_Collaborative_CoT_Framework_for_Zero-shot_Medical-VQA_with_LLM_and_MLLM_Integration.md)
 
 - [MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems](2024年10月06日/MindScope_Exploring_cognitive_biases_in_large_language_models_through_Multi-Agent_Systems.md)
 
@@ -355,21 +347,3 @@
 - [UniMuMo: Unified Text, Music and Motion Generation](2024年10月06日/UniMuMo_Unified_Text,_Music_and_Motion_Generation.md)
 
     - [翻译: UniMuMo：融合文本、音乐与动作的生成艺术](2024年10月06日/UniMuMo_Unified_Text,_Music_and_Motion_Generation.md)
-
-2024年10月05日
-
-- [BloomWise: Enhancing Problem-Solving capabilities of Large Language Models using Bloom's-Taxonomy-Inspired Prompts](2024年10月05日/BloomWise_Enhancing_Problem-Solving_capabilities_of_Large_Language_Models_using_Bloom's-Taxonomy-Inspired_Prompts.md)
-
-    - [翻译: BloomWise：借助布鲁姆分类法启发的提示，提升大型语言模型的问题解决能力](2024年10月05日/BloomWise_Enhancing_Problem-Solving_capabilities_of_Large_Language_Models_using_Bloom's-Taxonomy-Inspired_Prompts.md)
-
-- [Correlation-Aware Select and Merge Attention for Efficient Fine-Tuning and Context Length Extension](2024年10月05日/Correlation-Aware_Select_and_Merge_Attention_for_Efficient_Fine-Tuning_and_Context_Length_Extension.md)
-
-    - [翻译: 相关感知选择与合并注意力机制，助力高效微调与上下文长度扩展](2024年10月05日/Correlation-Aware_Select_and_Merge_Attention_for_Efficient_Fine-Tuning_and_Context_Length_Extension.md)
-
-- [OD-Stega: LLM-Based Near-Imperceptible Steganography via Optimized Distributions](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
-
-    - [翻译: OD-Stega：利用 LLM 技术，通过优化分布实现近乎无痕的隐写术。](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
-
-- [Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
-
-    - [翻译: Text2Chart31：通过自动反馈进行图表生成的指令调优](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
