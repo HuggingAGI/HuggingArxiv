@@ -370,10 +370,6 @@
 
     - [翻译: 相关感知选择与合并注意力机制，助力高效微调与上下文长度扩展](2024年10月05日/Correlation-Aware_Select_and_Merge_Attention_for_Efficient_Fine-Tuning_and_Context_Length_Extension.md)
 
-- [DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech](2024年10月05日/DiDOTS_Knowledge_Distillation_from_Large-Language-Models_for_Dementia_Obfuscation_in_Transcribed_Speech.md)
-
-    - [翻译: DiDOTS：借助大型语言模型的力量，破解转录语音中痴呆症的迷雾](2024年10月05日/DiDOTS_Knowledge_Distillation_from_Large-Language-Models_for_Dementia_Obfuscation_in_Transcribed_Speech.md)
-
 - [DiffSpec: Differential Testing with LLMs using Natural Language Specifications and Code Artifacts](2024年10月05日/DiffSpec_Differential_Testing_with_LLMs_using_Natural_Language_Specifications_and_Code_Artifacts.md)
 
     - [翻译: DiffSpec：借助自然语言规范与代码工件，对 LLM 进行差异测试](2024年10月05日/DiffSpec_Differential_Testing_with_LLMs_using_Natural_Language_Specifications_and_Code_Artifacts.md)
@@ -382,29 +378,13 @@
 
     - [翻译: ECon：探讨证据冲突的检测与解决之道](2024年10月05日/ECon_On_the_Detection_and_Resolution_of_Evidence_Conflicts.md)
 
-- [From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression](2024年10月05日/From_Reading_to_Compressing_Exploring_the_Multi-document_Reader_for_Prompt_Compression.md)
-
-    - [翻译: 从阅读到压缩：探索多文档阅读器在提示压缩中的应用](2024年10月05日/From_Reading_to_Compressing_Exploring_the_Multi-document_Reader_for_Prompt_Compression.md)
-
 - [Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](2024年10月05日/Functional_Homotopy_Smoothing_Discrete_Optimization_via_Continuous_Parameters_for_LLM_Jailbreak_Attacks.md)
 
     - [翻译: 功能同伦：利用连续参数平滑离散优化，破解 LLM 的安全防线](2024年10月05日/Functional_Homotopy_Smoothing_Discrete_Optimization_via_Continuous_Parameters_for_LLM_Jailbreak_Attacks.md)
 
-- [Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models](2024年10月05日/Harnessing_Task_Overload_for_Scalable_Jailbreak_Attacks_on_Large_Language_Models.md)
-
-    - [翻译: 借助任务过载，实现对大型语言模型的可扩展越狱攻击](2024年10月05日/Harnessing_Task_Overload_for_Scalable_Jailbreak_Attacks_on_Large_Language_Models.md)
-
 - [Large Language Models can Achieve Social Balance](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
 
     - [翻译: 大型语言模型有能力实现社会平衡](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
-
-- [Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models](2024年10月05日/Learning_on_LoRAs_GL-Equivariant_Processing_of_Low-Rank_Weight_Spaces_for_Large_Finetuned_Models.md)
-
-    - [翻译: 通过 GL-等变处理低秩权重空间，提升大型微调模型的学习效果。](2024年10月05日/Learning_on_LoRAs_GL-Equivariant_Processing_of_Low-Rank_Weight_Spaces_for_Large_Finetuned_Models.md)
-
-- [LoRTA: Low Rank Tensor Adaptation of Large Language Models](2024年10月05日/LoRTA_Low_Rank_Tensor_Adaptation_of_Large_Language_Models.md)
-
-    - [翻译: LoRTA：大型语言模型的低秩张量适应技术](2024年10月05日/LoRTA_Low_Rank_Tensor_Adaptation_of_Large_Language_Models.md)
 
 - [Mechanistic Behavior Editing of Language Models](2024年10月05日/Mechanistic_Behavior_Editing_of_Language_Models.md)
 
@@ -417,7 +397,3 @@
 - [Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
 
     - [翻译: Text2Chart31：通过自动反馈进行图表生成的指令调优](2024年10月05日/Text2Chart31_Instruction_Tuning_for_Chart_Generation_with_Automatic_Feedback.md)
-
-- [TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions](2024年10月05日/TUBench_Benchmarking_Large_Vision-Language_Models_on_Trustworthiness_with_Unanswerable_Questions.md)
-
-    - [翻译: TUBench：针对大型视觉语言模型在处理无法回答问题时的可信度进行基准测试](2024年10月05日/TUBench_Benchmarking_Large_Vision-Language_Models_on_Trustworthiness_with_Unanswerable_Questions.md)
