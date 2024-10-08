@@ -438,10 +438,6 @@
 
     - [翻译: 长上下文检索增强生成的推理规模化](2024年10月05日/Inference_Scaling_for_Long-Context_Retrieval_Augmented_Generation.md)
 
-- [Is deeper always better? Replacing linear mappings with deep learning networks in the Discriminative Lexicon Model](2024年10月05日/Is_deeper_always_better_Replacing_linear_mappings_with_deep_learning_networks_in_the_Discriminative_Lexicon_Model.md)
-
-    - [翻译: 深度是否总是王道？在判别词典模型中，我们探讨用深度学习网络取代线性映射的可能性。](2024年10月05日/Is_deeper_always_better_Replacing_linear_mappings_with_deep_learning_networks_in_the_Discriminative_Lexicon_Model.md)
-
 - [Language Model-Driven Data Pruning Enables Efficient Active Learning](2024年10月05日/Language_Model-Driven_Data_Pruning_Enables_Efficient_Active_Learning.md)
 
     - [翻译: 语言模型驱动数据修剪，助力高效主动学习](2024年10月05日/Language_Model-Driven_Data_Pruning_Enables_Efficient_Active_Learning.md)
@@ -449,10 +445,6 @@
 - [Large Language Models can Achieve Social Balance](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
 
     - [翻译: 大型语言模型有能力实现社会平衡](2024年10月05日/Large_Language_Models_can_Achieve_Social_Balance.md)
-
-- [Latent Feature Mining for Predictive Model Enhancement with Large Language Models](2024年10月05日/Latent_Feature_Mining_for_Predictive_Model_Enhancement_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型挖掘潜在特征，提升预测模型性能](2024年10月05日/Latent_Feature_Mining_for_Predictive_Model_Enhancement_with_Large_Language_Models.md)
 
 - [Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models](2024年10月05日/Learning_on_LoRAs_GL-Equivariant_Processing_of_Low-Rank_Weight_Spaces_for_Large_Finetuned_Models.md)
 
@@ -481,10 +473,6 @@
 - [Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning](2024年10月05日/Multimodal_Large_Language_Models_for_Inverse_Molecular_Design_with_Retrosynthetic_Planning.md)
 
     - [翻译: 多模态大型语言模型助力逆向分子设计与逆合成规划](2024年10月05日/Multimodal_Large_Language_Models_for_Inverse_Molecular_Design_with_Retrosynthetic_Planning.md)
-
-- [MVP-Bench: Can Large Vision--Language Models Conduct Multi-level Visual Perception Like Humans?](2024年10月05日/MVP-Bench_Can_Large_Vision--Language_Models_Conduct_Multi-level_Visual_Perception_Like_Humans.md)
-
-    - [翻译: MVP-Bench：大型视觉-语言模型能否实现人类般的多层次视觉感知？](2024年10月05日/MVP-Bench_Can_Large_Vision--Language_Models_Conduct_Multi-level_Visual_Perception_Like_Humans.md)
 
 - [OD-Stega: LLM-Based Near-Imperceptible Steganography via Optimized Distributions](2024年10月05日/OD-Stega_LLM-Based_Near-Imperceptible_Steganography_via_Optimized_Distributions.md)
 
@@ -529,17 +517,3 @@
 - [TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions](2024年10月05日/TUBench_Benchmarking_Large_Vision-Language_Models_on_Trustworthiness_with_Unanswerable_Questions.md)
 
     - [翻译: TUBench：针对大型视觉语言模型在处理无法回答问题时的可信度进行基准测试](2024年10月05日/TUBench_Benchmarking_Large_Vision-Language_Models_on_Trustworthiness_with_Unanswerable_Questions.md)
-
-2024年10月04日
-
-- [How much can we forget about Data Contamination?](2024年10月04日/How_much_can_we_forget_about_Data_Contamination.md)
-
-    - [翻译: 数据污染，我们能忽视多少？](2024年10月04日/How_much_can_we_forget_about_Data_Contamination.md)
-
-- [TR-LLM: Integrating Trajectory Data for Scene-Aware LLM-Based Human Action Prediction](2024年10月04日/TR-LLM_Integrating_Trajectory_Data_for_Scene-Aware_LLM-Based_Human_Action_Prediction.md)
-
-    - [翻译: TR-LLM：通过集成轨迹数据，实现基于场景感知的 LLM 人类动作预测](2024年10月04日/TR-LLM_Integrating_Trajectory_Data_for_Scene-Aware_LLM-Based_Human_Action_Prediction.md)
-
-- [YOLO-MARL: You Only LLM Once for Multi-agent Reinforcement Learning](2024年10月04日/YOLO-MARL_You_Only_LLM_Once_for_Multi-agent_Reinforcement_Learning.md)
-
-    - [翻译: YOLO-MARL：一次 LLM，多智能体强化学习无忧](2024年10月04日/YOLO-MARL_You_Only_LLM_Once_for_Multi-agent_Reinforcement_Learning.md)
