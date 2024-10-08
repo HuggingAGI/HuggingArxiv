@@ -1,0 +1,15 @@
+# 探索大型语言模型在辅导中的教学引导：以建模生产性失败为例
+
+发布时间：2024年10月03日
+
+`LLM应用` `人工智能`
+
+> Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure
+
+# 摘要
+
+> 一对一辅导是最有效的教学方法之一。随着大型语言模型 (LLM) 的兴起，人们开始利用它们创建对话式辅导系统，使一对一辅导的好处惠及更多人。然而，当前的 LLM 主要被训练为助手，缺乏关键的教学技能。例如，它们往往迅速给出答案，无法进行丰富的多轮教学互动。为了在教学场景中有效使用 LLM，我们需要引导它们使用有效的教学策略，这就是我们提出的“教学引导”问题。我们通过引入 StratL 算法，形式化辅导策略的概念，并通过提示引导 LLM 遵循该策略。作为案例研究，我们基于 Productive Failure (PF) 设计创建了一个高中数学辅导原型。在新加坡的实地研究中，我们验证了 StratL 成功引导 LLM 遵循 PF 策略。我们还探讨了 LLM 的理想属性是否受到影响。基于这些结果，我们指出了教学引导的挑战，并提出了改进方向。我们还发布了相关数据集和代码，鼓励后续研究。
+
+> One-to-one tutoring is one of the most efficient methods of teaching. Following the rise in popularity of Large Language Models (LLMs), there have been efforts to use them to create conversational tutoring systems, which can make the benefits of one-to-one tutoring accessible to everyone. However, current LLMs are primarily trained to be helpful assistants and thus lack crucial pedagogical skills. For example, they often quickly reveal the solution to the student and fail to plan for a richer multi-turn pedagogical interaction. To use LLMs in pedagogical scenarios, they need to be steered towards using effective teaching strategies: a problem we introduce as Pedagogical Steering and believe to be crucial for the efficient use of LLMs as tutors. We address this problem by formalizing a concept of tutoring strategy, and introducing StratL, an algorithm to model a strategy and use prompting to steer the LLM to follow this strategy. As a case study, we create a prototype tutor for high school math following Productive Failure (PF), an advanced and effective learning design. To validate our approach in a real-world setting, we run a field study with 17 high school students in Singapore. We quantitatively show that StratL succeeds in steering the LLM to follow a Productive Failure tutoring strategy. We also thoroughly investigate the existence of spillover effects on desirable properties of the LLM, like its ability to generate human-like answers. Based on these results, we highlight the challenges in Pedagogical Steering and suggest opportunities for further improvements. We further encourage follow-up research by releasing a dataset of Productive Failure problems and the code of our prototype and algorithm.
+
+[Arxiv](https://arxiv.org/abs/2410.03781)
