@@ -216,37 +216,13 @@
 
     - [翻译: ACDC：通过扩散校正实现的自回归连贯多模态生成](2024年10月06日/ACDC_Autoregressive_Coherent_Multimodal_Generation_using_Diffusion_Correction.md)
 
-- [ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models](2024年10月06日/ActiView_Evaluating_Active_Perception_Ability_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: ActiView：探索多模态大型语言模型的主动感知能力](2024年10月06日/ActiView_Evaluating_Active_Perception_Ability_for_Multimodal_Large_Language_Models.md)
-
-- [ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection](2024年10月06日/ErrorRadar_Benchmarking_Complex_Mathematical_Reasoning_of_Multimodal_Large_Language_Models_Via_Error_Detection.md)
-
-    - [翻译: ErrorRadar：借助错误检测，为多模态大型语言模型的复杂数学推理能力设立基准。](2024年10月06日/ErrorRadar_Benchmarking_Complex_Mathematical_Reasoning_of_Multimodal_Large_Language_Models_Via_Error_Detection.md)
-
-- [Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
-
-    - [翻译: 遗忘曲线：评估长上下文模型记忆力的有效工具](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
-
-- [How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?](2024年10月06日/How_Does_the_Disclosure_of_AI_Assistance_Affect_the_Perceptions_of_Writing.md)
-
-    - [翻译: AI 辅助的透明度如何影响人们对写作的看法？](2024年10月06日/How_Does_the_Disclosure_of_AI_Assistance_Affect_the_Perceptions_of_Writing.md)
-
 - [MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs](2024年10月06日/MathHay_An_Automated_Benchmark_for_Long-Context_Mathematical_Reasoning_in_LLMs.md)
 
     - [翻译: MathHay：LLMs 中长上下文数学推理的自动化标杆](2024年10月06日/MathHay_An_Automated_Benchmark_for_Long-Context_Mathematical_Reasoning_in_LLMs.md)
 
-- [MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems](2024年10月06日/MindScope_Exploring_cognitive_biases_in_large_language_models_through_Multi-Agent_Systems.md)
-
-    - [翻译: MindScope 项目通过多代理系统，深入研究大型语言模型中的认知偏差。](2024年10月06日/MindScope_Exploring_cognitive_biases_in_large_language_models_through_Multi-Agent_Systems.md)
-
 - [Need Help? Designing Proactive AI Assistants for Programming](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
 
     - [翻译: 编程遇到难题？让我们设计一款主动出击的 AI 助手来帮你！](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
-
-- [The LLM Effect: Are Humans Truly Using LLMs, or Are They Being Influenced By Them Instead?](2024年10月06日/The_LLM_Effect_Are_Humans_Truly_Using_LLMs,_or_Are_They_Being_Influenced_By_Them_Instead.md)
-
-    - [翻译: LLM 效应：人类是在利用 LLM，还是反被其左右？](2024年10月06日/The_LLM_Effect_Are_Humans_Truly_Using_LLMs,_or_Are_They_Being_Influenced_By_Them_Instead.md)
 
 - [Towards Measuring Goal-Directedness in AI Systems](2024年10月06日/Towards_Measuring_Goal-Directedness_in_AI_Systems.md)
 
