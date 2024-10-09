@@ -232,14 +232,6 @@
 
     - [翻译: 大型语言模型通过迭代辩论进行对抗性多智能体评估](2024年10月06日/Adversarial_Multi-Agent_Evaluation_of_Large_Language_Models_through_Iterative_Debates.md)
 
-- [Control Large Language Models via Divide and Conquer](2024年10月06日/Control_Large_Language_Models_via_Divide_and_Conquer.md)
-
-    - [翻译: 驾驭大型语言模型：分而治之的策略](2024年10月06日/Control_Large_Language_Models_via_Divide_and_Conquer.md)
-
-- [DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs](2024年10月06日/DAdEE_Unsupervised_Domain_Adaptation_in_Early_Exit_PLMs.md)
-
-    - [翻译: DAdEE：早期退出 PLM 中的无监督领域自适应](2024年10月06日/DAdEE_Unsupervised_Domain_Adaptation_in_Early_Exit_PLMs.md)
-
 - [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](2024年10月06日/Deeper_Insights_Without_Updates_The_Power_of_In-Context_Learning_Over_Fine-Tuning.md)
 
     - [翻译: 无需更新，In-Context Learning 便能带来更深层次的洞察，其效果超越了微调。](2024年10月06日/Deeper_Insights_Without_Updates_The_Power_of_In-Context_Learning_Over_Fine-Tuning.md)
@@ -256,10 +248,6 @@
 
     - [翻译: 评估代码大型语言模型在地理空间代码生成中的表现](2024年10月06日/Evaluation_of_Code_LLMs_on_Geospatial_Code_Generation.md)
 
-- [Fine-Grained Prediction of Reading Comprehension from Eye Movements](2024年10月06日/Fine-Grained_Prediction_of_Reading_Comprehension_from_Eye_Movements.md)
-
-    - [翻译: 通过眼球运动精准预测阅读理解](2024年10月06日/Fine-Grained_Prediction_of_Reading_Comprehension_from_Eye_Movements.md)
-
 - [Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
 
     - [翻译: 遗忘曲线：评估长上下文模型记忆力的有效工具](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
@@ -272,10 +260,6 @@
 
     - [翻译: Gödel Agent：一个自指代理框架，专为递归自我改进设计](2024年10月06日/Gödel_Agent_A_Self-Referential_Agent_Framework_for_Recursive_Self-Improvement.md)
 
-- [HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis](2024年10月06日/HALL-E_Hierarchical_Neural_Codec_Language_Model_for_Minute-Long_Zero-Shot_Text-to-Speech_Synthesis.md)
-
-    - [翻译: HALL-E：一种分层神经编解码语言模型，专为长时间零-shot 文本到语音合成而设计。](2024年10月06日/HALL-E_Hierarchical_Neural_Codec_Language_Model_for_Minute-Long_Zero-Shot_Text-to-Speech_Synthesis.md)
-
 - [Hammer: Robust Function-Calling for On-Device Language Models via Function Masking](2024年10月06日/Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.md)
 
     - [翻译: Hammer：利用函数掩码技术，为设备上的语言模型提供稳健的函数调用功能。](2024年10月06日/Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.md)
@@ -283,14 +267,6 @@
 - [How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?](2024年10月06日/How_Does_the_Disclosure_of_AI_Assistance_Affect_the_Perceptions_of_Writing.md)
 
     - [翻译: AI 辅助的透明度如何影响人们对写作的看法？](2024年10月06日/How_Does_the_Disclosure_of_AI_Assistance_Affect_the_Perceptions_of_Writing.md)
-
-- [Lens: Rethinking Multilingual Enhancement for Large Language Models](2024年10月06日/Lens_Rethinking_Multilingual_Enhancement_for_Large_Language_Models.md)
-
-    - [翻译: Lens：重新审视大型语言模型的多语言增强策略](2024年10月06日/Lens_Rethinking_Multilingual_Enhancement_for_Large_Language_Models.md)
-
-- [LRQ-Fact: LLM-Generated Relevant Questions for Multimodal Fact-Checking](2024年10月06日/LRQ-Fact_LLM-Generated_Relevant_Questions_for_Multimodal_Fact-Checking.md)
-
-    - [翻译: LRQ-Fact：多模态事实核查中的 LLM 生成相关问题](2024年10月06日/LRQ-Fact_LLM-Generated_Relevant_Questions_for_Multimodal_Fact-Checking.md)
 
 - [MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs](2024年10月06日/MathHay_An_Automated_Benchmark_for_Long-Context_Mathematical_Reasoning_in_LLMs.md)
 
