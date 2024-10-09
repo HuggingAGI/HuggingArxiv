@@ -236,10 +236,6 @@
 
     - [翻译: 驾驭大型语言模型：分而治之的策略](2024年10月06日/Control_Large_Language_Models_via_Divide_and_Conquer.md)
 
-- [CoVLM: Leveraging Consensus from Vision-Language Models for Semi-supervised Multi-modal Fake News Detection](2024年10月06日/CoVLM_Leveraging_Consensus_from_Vision-Language_Models_for_Semi-supervised_Multi-modal_Fake_News_Detection.md)
-
-    - [翻译: CoVLM：借助视觉-语言模型的共识，实现半监督多模态假新闻检测](2024年10月06日/CoVLM_Leveraging_Consensus_from_Vision-Language_Models_for_Semi-supervised_Multi-modal_Fake_News_Detection.md)
-
 - [DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs](2024年10月06日/DAdEE_Unsupervised_Domain_Adaptation_in_Early_Exit_PLMs.md)
 
     - [翻译: DAdEE：早期退出 PLM 中的无监督领域自适应](2024年10月06日/DAdEE_Unsupervised_Domain_Adaptation_in_Early_Exit_PLMs.md)
@@ -247,10 +243,6 @@
 - [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](2024年10月06日/Deeper_Insights_Without_Updates_The_Power_of_In-Context_Learning_Over_Fine-Tuning.md)
 
     - [翻译: 无需更新，In-Context Learning 便能带来更深层次的洞察，其效果超越了微调。](2024年10月06日/Deeper_Insights_Without_Updates_The_Power_of_In-Context_Learning_Over_Fine-Tuning.md)
-
-- [Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task](2024年10月06日/Enhancing_Android_Malware_Detection_The_Influence_of_ChatGPT_on_Decision-centric_Task.md)
-
-    - [翻译: 提升安卓恶意软件检测：ChatGPT 如何影响决策导向任务](2024年10月06日/Enhancing_Android_Malware_Detection_The_Influence_of_ChatGPT_on_Decision-centric_Task.md)
 
 - [EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM?](2024年10月06日/EnsemW2S_Can_an_Ensemble_of_LLMs_be_Leveraged_to_Obtain_a_Stronger_LLM.md)
 
@@ -320,30 +312,14 @@
 
     - [翻译: ProtocoLLM：专为特定科学领域协议制定任务设计的 LLM 自动评估框架](2024年10月06日/ProtocoLLM_Automatic_Evaluation_Framework_of_LLMs_on_Domain-Specific_Scientific_Protocol_Formulation_Tasks.md)
 
-- [Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval](2024年10月06日/Reasoning-Enhanced_Healthcare_Predictions_with_Knowledge_Graph_Community_Retrieval.md)
-
-    - [翻译: 通过知识图谱社区检索提升医疗预测中的推理能力](2024年10月06日/Reasoning-Enhanced_Healthcare_Predictions_with_Knowledge_Graph_Community_Retrieval.md)
-
 - [Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF](2024年10月06日/Regressing_the_Relative_Future_Efficient_Policy_Optimization_for_Multi-turn_RLHF.md)
 
     - [翻译: 精准预测未来：多轮 RLHF 策略的高效优化](2024年10月06日/Regressing_the_Relative_Future_Efficient_Policy_Optimization_for_Multi-turn_RLHF.md)
-
-- [Rule-based Data Selection for Large Language Models](2024年10月06日/Rule-based_Data_Selection_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的规则化数据精选](2024年10月06日/Rule-based_Data_Selection_for_Large_Language_Models.md)
 
 - [The LLM Effect: Are Humans Truly Using LLMs, or Are They Being Influenced By Them Instead?](2024年10月06日/The_LLM_Effect_Are_Humans_Truly_Using_LLMs,_or_Are_They_Being_Influenced_By_Them_Instead.md)
 
     - [翻译: LLM 效应：人类是在利用 LLM，还是反被其左右？](2024年10月06日/The_LLM_Effect_Are_Humans_Truly_Using_LLMs,_or_Are_They_Being_Influenced_By_Them_Instead.md)
 
-- [TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights](2024年10月06日/TIS-DPO_Token-level_Importance_Sampling_for_Direct_Preference_Optimization_With_Estimated_Weights.md)
-
-    - [翻译: TIS-DPO：一种基于估计权重，通过令牌级重要性采样实现直接偏好优化的方法](2024年10月06日/TIS-DPO_Token-level_Importance_Sampling_for_Direct_Preference_Optimization_With_Estimated_Weights.md)
-
 - [Towards Measuring Goal-Directedness in AI Systems](2024年10月06日/Towards_Measuring_Goal-Directedness_in_AI_Systems.md)
 
     - [翻译: 探索 AI 系统中目标导向性的测量方法](2024年10月06日/Towards_Measuring_Goal-Directedness_in_AI_Systems.md)
-
-- [UniMuMo: Unified Text, Music and Motion Generation](2024年10月06日/UniMuMo_Unified_Text,_Music_and_Motion_Generation.md)
-
-    - [翻译: UniMuMo：融合文本、音乐与动作的生成艺术](2024年10月06日/UniMuMo_Unified_Text,_Music_and_Motion_Generation.md)
