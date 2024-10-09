@@ -220,10 +220,6 @@
 
     - [翻译: ACDC：通过扩散校正实现的自回归连贯多模态生成](2024年10月06日/ACDC_Autoregressive_Coherent_Multimodal_Generation_using_Diffusion_Correction.md)
 
-- [A Cross-Lingual Meta-Learning Method Based on Domain Adaptation for Speech Emotion Recognition](2024年10月06日/A_Cross-Lingual_Meta-Learning_Method_Based_on_Domain_Adaptation_for_Speech_Emotion_Recognition.md)
-
-    - [翻译: 一种基于领域适应的跨语言元学习方法，专为语音情感识别设计。](2024年10月06日/A_Cross-Lingual_Meta-Learning_Method_Based_on_Domain_Adaptation_for_Speech_Emotion_Recognition.md)
-
 - [ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models](2024年10月06日/ActiView_Evaluating_Active_Perception_Ability_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: ActiView：探索多模态大型语言模型的主动感知能力](2024年10月06日/ActiView_Evaluating_Active_Perception_Ability_for_Multimodal_Large_Language_Models.md)
@@ -231,14 +227,6 @@
 - [Adversarial Multi-Agent Evaluation of Large Language Models through Iterative Debates](2024年10月06日/Adversarial_Multi-Agent_Evaluation_of_Large_Language_Models_through_Iterative_Debates.md)
 
     - [翻译: 大型语言模型通过迭代辩论进行对抗性多智能体评估](2024年10月06日/Adversarial_Multi-Agent_Evaluation_of_Large_Language_Models_through_Iterative_Debates.md)
-
-- [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](2024年10月06日/Deeper_Insights_Without_Updates_The_Power_of_In-Context_Learning_Over_Fine-Tuning.md)
-
-    - [翻译: 无需更新，In-Context Learning 便能带来更深层次的洞察，其效果超越了微调。](2024年10月06日/Deeper_Insights_Without_Updates_The_Power_of_In-Context_Learning_Over_Fine-Tuning.md)
-
-- [EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM?](2024年10月06日/EnsemW2S_Can_an_Ensemble_of_LLMs_be_Leveraged_to_Obtain_a_Stronger_LLM.md)
-
-    - [翻译: EnsemW2S：集合多个 LLM，能否打造出更强大的模型？](2024年10月06日/EnsemW2S_Can_an_Ensemble_of_LLMs_be_Leveraged_to_Obtain_a_Stronger_LLM.md)
 
 - [ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection](2024年10月06日/ErrorRadar_Benchmarking_Complex_Mathematical_Reasoning_of_Multimodal_Large_Language_Models_Via_Error_Detection.md)
 
@@ -251,10 +239,6 @@
 - [Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
 
     - [翻译: 遗忘曲线：评估长上下文模型记忆力的有效工具](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
-
-- [GenSim: A General Social Simulation Platform with Large Language Model based Agents](2024年10月06日/GenSim_A_General_Social_Simulation_Platform_with_Large_Language_Model_based_Agents.md)
-
-    - [翻译: GenSim：一款基于大型语言模型代理的通用社会模拟平台](2024年10月06日/GenSim_A_General_Social_Simulation_Platform_with_Large_Language_Model_based_Agents.md)
 
 - [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](2024年10月06日/Gödel_Agent_A_Self-Referential_Agent_Framework_for_Recursive_Self-Improvement.md)
 
@@ -279,14 +263,6 @@
 - [Need Help? Designing Proactive AI Assistants for Programming](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
 
     - [翻译: 编程遇到难题？让我们设计一款主动出击的 AI 助手来帮你！](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
-
-- [On Evaluating LLMs' Capabilities as Functional Approximators: A Bayesian Perspective](2024年10月06日/On_Evaluating_LLMs'_Capabilities_as_Functional_Approximators_A_Bayesian_Perspective.md)
-
-    - [翻译: 从贝叶斯视角评估 LLM 作为功能近似器的能力](2024年10月06日/On_Evaluating_LLMs'_Capabilities_as_Functional_Approximators_A_Bayesian_Perspective.md)
-
-- [ProtocoLLM: Automatic Evaluation Framework of LLMs on Domain-Specific Scientific Protocol Formulation Tasks](2024年10月06日/ProtocoLLM_Automatic_Evaluation_Framework_of_LLMs_on_Domain-Specific_Scientific_Protocol_Formulation_Tasks.md)
-
-    - [翻译: ProtocoLLM：专为特定科学领域协议制定任务设计的 LLM 自动评估框架](2024年10月06日/ProtocoLLM_Automatic_Evaluation_Framework_of_LLMs_on_Domain-Specific_Scientific_Protocol_Formulation_Tasks.md)
 
 - [Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF](2024年10月06日/Regressing_the_Relative_Future_Efficient_Policy_Optimization_for_Multi-turn_RLHF.md)
 
