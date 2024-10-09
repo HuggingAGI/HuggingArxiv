@@ -14,17 +14,9 @@
 
     - [翻译: 数据顾问：为大型语言模型安全对齐提供动态数据管理](2024年10月07日/Data_Advisor_Dynamic_Data_Curation_for_Safety_Alignment_of_Large_Language_Models.md)
 
-- [Density estimation with LLMs: a geometric investigation of in-context learning trajectories](2024年10月07日/Density_estimation_with_LLMs_a_geometric_investigation_of_in-context_learning_trajectories.md)
-
-    - [翻译: LLM 的密度估计：探究 in-context learning 轨迹的几何特性](2024年10月07日/Density_estimation_with_LLMs_a_geometric_investigation_of_in-context_learning_trajectories.md)
-
 - [Differential Transformer](2024年10月07日/Differential_Transformer.md)
 
     - [翻译: 差异性变换器](2024年10月07日/Differential_Transformer.md)
-
-- [Diffusion Models in 3D Vision: A Survey](2024年10月07日/Diffusion_Models_in_3D_Vision_A_Survey.md)
-
-    - [翻译: 3D 视觉领域中的扩散模型：全面调查](2024年10月07日/Diffusion_Models_in_3D_Vision_A_Survey.md)
 
 - [Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering](2024年10月07日/Document-level_Causal_Relation_Extraction_with_Knowledge-guided_Binary_Question_Answering.md)
 
@@ -77,10 +69,6 @@
 - [Intent Classification for Bank Chatbots through LLM Fine-Tuning](2024年10月07日/Intent_Classification_for_Bank_Chatbots_through_LLM_Fine-Tuning.md)
 
     - [翻译: 利用 LLM 微调技术，为银行聊天机器人实现精准的意图分类。](2024年10月07日/Intent_Classification_for_Bank_Chatbots_through_LLM_Fine-Tuning.md)
-
-- [Intriguing Properties of Large Language and Vision Models](2024年10月07日/Intriguing_Properties_of_Large_Language_and_Vision_Models.md)
-
-    - [翻译: 大型语言与视觉模型中那些引人入胜的特性](2024年10月07日/Intriguing_Properties_of_Large_Language_and_Vision_Models.md)
 
 - [Investigating large language models for their competence in extracting grammatically sound sentences from transcribed noisy utterances](2024年10月07日/Investigating_large_language_models_for_their_competence_in_extracting_grammatically_sound_sentences_from_transcribed_noisy_utterances.md)
 
@@ -138,14 +126,6 @@
 
     - [翻译: ReasoningRank：借助推理为基础的知识蒸馏，教导学生模型掌握排序技能](2024年10月07日/ReasoningRank_Teaching_Student_Models_to_Rank_through_Reasoning-Based_Knowledge_Distillation.md)
 
-- [RevisEval: Improving LLM-as-a-Judge via Response-Adapted References](2024年10月07日/RevisEval_Improving_LLM-as-a-Judge_via_Response-Adapted_References.md)
-
-    - [翻译: RevisEval：通过自适应参考文献提升 LLM 作为评判者的表现](2024年10月07日/RevisEval_Improving_LLM-as-a-Judge_via_Response-Adapted_References.md)
-
-- [Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents](2024年10月07日/Scalable_and_Accurate_Graph_Reasoning_with_LLM-based_Multi-Agents.md)
-
-    - [翻译: 利用 LLM 多代理系统实现高效且精准的图推理](2024年10月07日/Scalable_and_Accurate_Graph_Reasoning_with_LLM-based_Multi-Agents.md)
-
 - [SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe](2024年10月07日/SFTMix_Elevating_Language_Model_Instruction_Tuning_with_Mixup_Recipe.md)
 
     - [翻译: SFTMix：借助 Mixup 配方，提升语言模型的指令调优效果](2024年10月07日/SFTMix_Elevating_Language_Model_Instruction_Tuning_with_Mixup_Recipe.md)
@@ -169,10 +149,6 @@
 - [TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles](2024年10月07日/TurtleBench_Evaluating_Top_Language_Models_via_Real-World_YesNo_Puzzles.md)
 
     - [翻译: TurtleBench：用现实中的 Yes/No 谜题来检验顶级语言模型的实力](2024年10月07日/TurtleBench_Evaluating_Top_Language_Models_via_Real-World_YesNo_Puzzles.md)
-
-- [Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective](2024年10月07日/Understanding_Warmup-Stable-Decay_Learning_Rates_A_River_Valley_Loss_Landscape_Perspective.md)
-
-    - [翻译: 从河流谷地损失景观的视角，理解 Warmup-Stable-Decay 学习率。](2024年10月07日/Understanding_Warmup-Stable-Decay_Learning_Rates_A_River_Valley_Loss_Landscape_Perspective.md)
 
 - [ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering](2024年10月07日/ZEBRA_Zero-Shot_Example-Based_Retrieval_Augmentation_for_Commonsense_Question_Answering.md)
 
