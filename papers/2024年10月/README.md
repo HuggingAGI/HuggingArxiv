@@ -212,10 +212,6 @@
 
 2024年10月06日
 
-- [$\textbf{Only-IF}$:Revealing the Decisive Effect of Instruction Diversity on Generalization](2024年10月06日/$\textbf{Only-IF}$Revealing_the_Decisive_Effect_of_Instruction_Diversity_on_Generalization.md)
-
-    - [翻译: $\textbf{仅限IF}$：揭秘指令多样性如何决定泛化效果](2024年10月06日/$\textbf{Only-IF}$Revealing_the_Decisive_Effect_of_Instruction_Diversity_on_Generalization.md)
-
 - [ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction](2024年10月06日/ACDC_Autoregressive_Coherent_Multimodal_Generation_using_Diffusion_Correction.md)
 
     - [翻译: ACDC：通过扩散校正实现的自回归连贯多模态生成](2024年10月06日/ACDC_Autoregressive_Coherent_Multimodal_Generation_using_Diffusion_Correction.md)
@@ -224,29 +220,13 @@
 
     - [翻译: ActiView：探索多模态大型语言模型的主动感知能力](2024年10月06日/ActiView_Evaluating_Active_Perception_Ability_for_Multimodal_Large_Language_Models.md)
 
-- [Adversarial Multi-Agent Evaluation of Large Language Models through Iterative Debates](2024年10月06日/Adversarial_Multi-Agent_Evaluation_of_Large_Language_Models_through_Iterative_Debates.md)
-
-    - [翻译: 大型语言模型通过迭代辩论进行对抗性多智能体评估](2024年10月06日/Adversarial_Multi-Agent_Evaluation_of_Large_Language_Models_through_Iterative_Debates.md)
-
 - [ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection](2024年10月06日/ErrorRadar_Benchmarking_Complex_Mathematical_Reasoning_of_Multimodal_Large_Language_Models_Via_Error_Detection.md)
 
     - [翻译: ErrorRadar：借助错误检测，为多模态大型语言模型的复杂数学推理能力设立基准。](2024年10月06日/ErrorRadar_Benchmarking_Complex_Mathematical_Reasoning_of_Multimodal_Large_Language_Models_Via_Error_Detection.md)
 
-- [Evaluation of Code LLMs on Geospatial Code Generation](2024年10月06日/Evaluation_of_Code_LLMs_on_Geospatial_Code_Generation.md)
-
-    - [翻译: 评估代码大型语言模型在地理空间代码生成中的表现](2024年10月06日/Evaluation_of_Code_LLMs_on_Geospatial_Code_Generation.md)
-
 - [Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
 
     - [翻译: 遗忘曲线：评估长上下文模型记忆力的有效工具](2024年10月06日/Forgetting_Curve_A_Reliable_Method_for_Evaluating_Memorization_Capability_for_Long-context_Models.md)
-
-- [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](2024年10月06日/Gödel_Agent_A_Self-Referential_Agent_Framework_for_Recursive_Self-Improvement.md)
-
-    - [翻译: Gödel Agent：一个自指代理框架，专为递归自我改进设计](2024年10月06日/Gödel_Agent_A_Self-Referential_Agent_Framework_for_Recursive_Self-Improvement.md)
-
-- [Hammer: Robust Function-Calling for On-Device Language Models via Function Masking](2024年10月06日/Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.md)
-
-    - [翻译: Hammer：利用函数掩码技术，为设备上的语言模型提供稳健的函数调用功能。](2024年10月06日/Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.md)
 
 - [How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?](2024年10月06日/How_Does_the_Disclosure_of_AI_Assistance_Affect_the_Perceptions_of_Writing.md)
 
@@ -263,10 +243,6 @@
 - [Need Help? Designing Proactive AI Assistants for Programming](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
 
     - [翻译: 编程遇到难题？让我们设计一款主动出击的 AI 助手来帮你！](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
-
-- [Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF](2024年10月06日/Regressing_the_Relative_Future_Efficient_Policy_Optimization_for_Multi-turn_RLHF.md)
-
-    - [翻译: 精准预测未来：多轮 RLHF 策略的高效优化](2024年10月06日/Regressing_the_Relative_Future_Efficient_Policy_Optimization_for_Multi-turn_RLHF.md)
 
 - [The LLM Effect: Are Humans Truly Using LLMs, or Are They Being Influenced By Them Instead?](2024年10月06日/The_LLM_Effect_Are_Humans_Truly_Using_LLMs,_or_Are_They_Being_Influenced_By_Them_Instead.md)
 
