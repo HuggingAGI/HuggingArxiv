@@ -74,10 +74,6 @@
 
     - [翻译: GARLIC：利用 LLM 引导的动态进度控制和分层加权图，实现长文档问答的优化。](2024年10月07日/GARLIC_LLM-Guided_Dynamic_Progress_Control_with_Hierarchical_Weighted_Graph_for_Long_Document_QA.md)
 
-- [GLEE: A Unified Framework and Benchmark for Language-based Economic Environments](2024年10月07日/GLEE_A_Unified_Framework_and_Benchmark_for_Language-based_Economic_Environments.md)
-
-    - [翻译: GLEE：基于语言的经济环境统一框架与基准](2024年10月07日/GLEE_A_Unified_Framework_and_Benchmark_for_Language-based_Economic_Environments.md)
-
 - [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](2024年10月07日/GSM-Symbolic_Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models.md)
 
     - [翻译: GSM-Symbolic：揭示大型语言模型在数学推理中的局限](2024年10月07日/GSM-Symbolic_Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models.md)
@@ -125,10 +121,6 @@
 - [MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models](2024年10月07日/MINER_Mining_the_Underlying_Pattern_of_Modality-Specific_Neurons_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: MINER：探索多模态大型语言模型中特定模态神经元的深层模式](2024年10月07日/MINER_Mining_the_Underlying_Pattern_of_Modality-Specific_Neurons_in_Multimodal_Large_Language_Models.md)
-
-- [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality](2024年10月07日/Mitigating_Modality_Prior-Induced_Hallucinations_in_Multimodal_Large_Language_Models_via_Deciphering_Attention_Causality.md)
-
-    - [翻译: 通过揭示注意力因果，减轻多模态大型语言模型中模态先验引发的幻觉问题。](2024年10月07日/Mitigating_Modality_Prior-Induced_Hallucinations_in_Multimodal_Large_Language_Models_via_Deciphering_Attention_Causality.md)
 
 - [MM-R$^3$: On (In-)Consistency of Multi-modal Large Language Models (MLLMs)](2024年10月07日/MM-R$^3$_On_(In-)Consistency_of_Multi-modal_Large_Language_Models_(MLLMs).md)
 
@@ -178,10 +170,6 @@
 
     - [翻译: 模型崩溃现象严重](2024年10月07日/Strong_Model_Collapse.md)
 
-- [TableRAG: Million-Token Table Understanding with Language Models](2024年10月07日/TableRAG_Million-Token_Table_Understanding_with_Language_Models.md)
-
-    - [翻译: TableRAG：借助语言模型实现百万标记表格的深度理解](2024年10月07日/TableRAG_Million-Token_Table_Understanding_with_Language_Models.md)
-
 - [TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens](2024年10月07日/TextHawk2_A_Large_Vision-Language_Model_Excels_in_Bilingual_OCR_and_Grounding_with_16x_Fewer_Tokens.md)
 
     - [翻译: TextHawk2：一款大型视觉语言模型，以 16 倍更少的标记在双语 OCR 和定位任务中大放异彩。](2024年10月07日/TextHawk2_A_Large_Vision-Language_Model_Excels_in_Bilingual_OCR_and_Grounding_with_16x_Fewer_Tokens.md)
@@ -209,21 +197,3 @@
 - [ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering](2024年10月07日/ZEBRA_Zero-Shot_Example-Based_Retrieval_Augmentation_for_Commonsense_Question_Answering.md)
 
     - [翻译: ZEBRA：一种基于零-shot 示例的常识问答检索增强技术](2024年10月07日/ZEBRA_Zero-Shot_Example-Based_Retrieval_Augmentation_for_Commonsense_Question_Answering.md)
-
-2024年10月06日
-
-- [ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction](2024年10月06日/ACDC_Autoregressive_Coherent_Multimodal_Generation_using_Diffusion_Correction.md)
-
-    - [翻译: ACDC：通过扩散校正实现的自回归连贯多模态生成](2024年10月06日/ACDC_Autoregressive_Coherent_Multimodal_Generation_using_Diffusion_Correction.md)
-
-- [MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs](2024年10月06日/MathHay_An_Automated_Benchmark_for_Long-Context_Mathematical_Reasoning_in_LLMs.md)
-
-    - [翻译: MathHay：LLMs 中长上下文数学推理的自动化标杆](2024年10月06日/MathHay_An_Automated_Benchmark_for_Long-Context_Mathematical_Reasoning_in_LLMs.md)
-
-- [Need Help? Designing Proactive AI Assistants for Programming](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
-
-    - [翻译: 编程遇到难题？让我们设计一款主动出击的 AI 助手来帮你！](2024年10月06日/Need_Help_Designing_Proactive_AI_Assistants_for_Programming.md)
-
-- [Towards Measuring Goal-Directedness in AI Systems](2024年10月06日/Towards_Measuring_Goal-Directedness_in_AI_Systems.md)
-
-    - [翻译: 探索 AI 系统中目标导向性的测量方法](2024年10月06日/Towards_Measuring_Goal-Directedness_in_AI_Systems.md)
