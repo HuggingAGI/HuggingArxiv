@@ -10,21 +10,9 @@
 
     - [翻译: 因果微故事](2024年10月07日/Causal_Micro-Narratives.md)
 
-- [Compression via Pre-trained Transformers: A Study on Byte-Level Multimodal Data](2024年10月07日/Compression_via_Pre-trained_Transformers_A_Study_on_Byte-Level_Multimodal_Data.md)
-
-    - [翻译: 预训练 Transformer 压缩技术：探索字节级多模态数据的奥秘](2024年10月07日/Compression_via_Pre-trained_Transformers_A_Study_on_Byte-Level_Multimodal_Data.md)
-
-- [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates](2024年10月07日/Cookbook_A_framework_for_improving_LLM_generative_abilities_via_programmatic_data_generating_templates.md)
-
-    - [翻译: 编程数据生成模板：提升 LLM 生成能力的秘籍](2024年10月07日/Cookbook_A_framework_for_improving_LLM_generative_abilities_via_programmatic_data_generating_templates.md)
-
 - [Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models](2024年10月07日/Data_Advisor_Dynamic_Data_Curation_for_Safety_Alignment_of_Large_Language_Models.md)
 
     - [翻译: 数据顾问：为大型语言模型安全对齐提供动态数据管理](2024年10月07日/Data_Advisor_Dynamic_Data_Curation_for_Safety_Alignment_of_Large_Language_Models.md)
-
-- [Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models](2024年10月07日/Deciphering_the_Interplay_of_Parametric_and_Non-parametric_Memory_in_Retrieval-augmented_Language_Models.md)
-
-    - [翻译: 揭示检索增强语言模型中参数记忆与非参数记忆的微妙互动](2024年10月07日/Deciphering_the_Interplay_of_Parametric_and_Non-parametric_Memory_in_Retrieval-augmented_Language_Models.md)
 
 - [Density estimation with LLMs: a geometric investigation of in-context learning trajectories](2024年10月07日/Density_estimation_with_LLMs_a_geometric_investigation_of_in-context_learning_trajectories.md)
 
@@ -150,10 +138,6 @@
 
     - [翻译: ReasoningRank：借助推理为基础的知识蒸馏，教导学生模型掌握排序技能](2024年10月07日/ReasoningRank_Teaching_Student_Models_to_Rank_through_Reasoning-Based_Knowledge_Distillation.md)
 
-- [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](2024年10月07日/Representing_the_Under-Represented_Cultural_and_Core_Capability_Benchmarks_for_Developing_Thai_Large_Language_Models.md)
-
-    - [翻译: 为泰国大型语言模型开发文化与核心能力基准，旨在更好地代表那些未被充分体现的群体。](2024年10月07日/Representing_the_Under-Represented_Cultural_and_Core_Capability_Benchmarks_for_Developing_Thai_Large_Language_Models.md)
-
 - [RevisEval: Improving LLM-as-a-Judge via Response-Adapted References](2024年10月07日/RevisEval_Improving_LLM-as-a-Judge_via_Response-Adapted_References.md)
 
     - [翻译: RevisEval：通过自适应参考文献提升 LLM 作为评判者的表现](2024年10月07日/RevisEval_Improving_LLM-as-a-Judge_via_Response-Adapted_References.md)
@@ -173,10 +157,6 @@
 - [TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens](2024年10月07日/TextHawk2_A_Large_Vision-Language_Model_Excels_in_Bilingual_OCR_and_Grounding_with_16x_Fewer_Tokens.md)
 
     - [翻译: TextHawk2：一款大型视觉语言模型，以 16 倍更少的标记在双语 OCR 和定位任务中大放异彩。](2024年10月07日/TextHawk2_A_Large_Vision-Language_Model_Excels_in_Bilingual_OCR_and_Grounding_with_16x_Fewer_Tokens.md)
-
-- [The Dawn of Video Generation: Preliminary Explorations with SORA-like Models](2024年10月07日/The_Dawn_of_Video_Generation_Preliminary_Explorations_with_SORA-like_Models.md)
-
-    - [翻译: 视频生成的新纪元：SORA-like 模型的初步探索之旅](2024年10月07日/The_Dawn_of_Video_Generation_Preliminary_Explorations_with_SORA-like_Models.md)
 
 - [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](2024年10月07日/TidalDecode_Fast_and_Accurate_LLM_Decoding_with_Position_Persistent_Sparse_Attention.md)
 
