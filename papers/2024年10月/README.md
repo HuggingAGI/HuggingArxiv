@@ -2,14 +2,6 @@
 
 2024年10月07日
 
-- [Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models](2024年10月07日/Data_Advisor_Dynamic_Data_Curation_for_Safety_Alignment_of_Large_Language_Models.md)
-
-    - [翻译: 数据顾问：为大型语言模型安全对齐提供动态数据管理](2024年10月07日/Data_Advisor_Dynamic_Data_Curation_for_Safety_Alignment_of_Large_Language_Models.md)
-
-- [Differential Transformer](2024年10月07日/Differential_Transformer.md)
-
-    - [翻译: 差异性变换器](2024年10月07日/Differential_Transformer.md)
-
 - [Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering](2024年10月07日/Document-level_Causal_Relation_Extraction_with_Knowledge-guided_Binary_Question_Answering.md)
 
     - [翻译: 文档级因果关系提取：知识引导下的二进制问题解答](2024年10月07日/Document-level_Causal_Relation_Extraction_with_Knowledge-guided_Binary_Question_Answering.md)
@@ -22,10 +14,6 @@
 
     - [翻译: 借助 HCache，LLM 服务中的状态恢复速度大幅提升](2024年10月07日/Fast_State_Restoration_in_LLM_Serving_with_HCache.md)
 
-- [Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge](2024年10月07日/Formality_is_Favored_Unraveling_the_Learning_Preferences_of_Large_Language_Models_on_Data_with_Conflicting_Knowledge.md)
-
-    - [翻译: 大型语言模型偏爱形式性：解析其在冲突知识数据上的学习倾向](2024年10月07日/Formality_is_Favored_Unraveling_the_Learning_Preferences_of_Large_Language_Models_on_Data_with_Conflicting_Knowledge.md)
-
 - [GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA](2024年10月07日/GARLIC_LLM-Guided_Dynamic_Progress_Control_with_Hierarchical_Weighted_Graph_for_Long_Document_QA.md)
 
     - [翻译: GARLIC：利用 LLM 引导的动态进度控制和分层加权图，实现长文档问答的优化。](2024年10月07日/GARLIC_LLM-Guided_Dynamic_Progress_Control_with_Hierarchical_Weighted_Graph_for_Long_Document_QA.md)
@@ -34,10 +22,6 @@
 
     - [翻译: ImProver：一种基于代理的自动证明优化工具](2024年10月07日/ImProver_Agent-Based_Automated_Proof_Optimization.md)
 
-- [Investigating large language models for their competence in extracting grammatically sound sentences from transcribed noisy utterances](2024年10月07日/Investigating_large_language_models_for_their_competence_in_extracting_grammatically_sound_sentences_from_transcribed_noisy_utterances.md)
-
-    - [翻译: 探究大型语言模型如何从嘈杂的语音转录中提炼出语法正确的句子](2024年10月07日/Investigating_large_language_models_for_their_competence_in_extracting_grammatically_sound_sentences_from_transcribed_noisy_utterances.md)
-
 - [LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation](2024年10月07日/LADEV_A_Language-Driven_Testing_and_Evaluation_Platform_for_Vision-Language-Action_Models_in_Robotic_Manipulation.md)
 
     - [翻译: LADEV：机器人操作中视觉-语言-动作模型的语言驱动测试与评估平台](2024年10月07日/LADEV_A_Language-Driven_Testing_and_Evaluation_Platform_for_Vision-Language-Action_Models_in_Robotic_Manipulation.md)
@@ -45,10 +29,6 @@
 - [Large Language Model Based Multi-Objective Optimization for Integrated Sensing and Communications in UAV Networks](2024年10月07日/Large_Language_Model_Based_Multi-Objective_Optimization_for_Integrated_Sensing_and_Communications_in_UAV_Networks.md)
 
     - [翻译: 无人机网络中的集成感知与通信，通过基于大型语言模型的多目标优化实现。](2024年10月07日/Large_Language_Model_Based_Multi-Objective_Optimization_for_Integrated_Sensing_and_Communications_in_UAV_Networks.md)
-
-- [Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law](2024年10月07日/Leverage_Knowledge_Graph_and_Large_Language_Model_for_Law_Article_Recommendation_A_Case_Study_of_Chinese_Criminal_Law.md)
-
-    - [翻译: 借助知识图谱与大型语言模型，探索中国刑法条文推荐的新路径。](2024年10月07日/Leverage_Knowledge_Graph_and_Large_Language_Model_for_Law_Article_Recommendation_A_Case_Study_of_Chinese_Criminal_Law.md)
 
 - [LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies](2024年10月07日/LLaVA_Needs_More_Knowledge_Retrieval_Augmented_Natural_Language_Generation_with_Knowledge_Graph_for_Explaining_Thoracic_Pathologies.md)
 
@@ -69,10 +49,6 @@
 - [Organizing Unstructured Image Collections using Natural Language](2024年10月07日/Organizing_Unstructured_Image_Collections_using_Natural_Language.md)
 
     - [翻译: 用自然语言整理无序的图像集](2024年10月07日/Organizing_Unstructured_Image_Collections_using_Natural_Language.md)
-
-- [Precise Model Benchmarking with Only a Few Observations](2024年10月07日/Precise_Model_Benchmarking_with_Only_a_Few_Observations.md)
-
-    - [翻译: 少量观察也能实现精准模型基准测试](2024年10月07日/Precise_Model_Benchmarking_with_Only_a_Few_Observations.md)
 
 - [PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs](2024年10月07日/PrefixQuant_Static_Quantization_Beats_Dynamic_through_Prefixed_Outliers_in_LLMs.md)
 
