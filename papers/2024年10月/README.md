@@ -42,10 +42,6 @@
 
     - [翻译: 借助 HCache，LLM 服务中的状态恢复速度大幅提升](2024年10月07日/Fast_State_Restoration_in_LLM_Serving_with_HCache.md)
 
-- [FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services](2024年10月07日/FELLAS_Enhancing_Federated_Sequential_Recommendation_with_LLM_as_External_Services.md)
-
-    - [翻译: FELLAS：借助 LLM 作为外部服务，提升联邦序列推荐的性能](2024年10月07日/FELLAS_Enhancing_Federated_Sequential_Recommendation_with_LLM_as_External_Services.md)
-
 - [Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge](2024年10月07日/Formality_is_Favored_Unraveling_the_Learning_Preferences_of_Large_Language_Models_on_Data_with_Conflicting_Knowledge.md)
 
     - [翻译: 大型语言模型偏爱形式性：解析其在冲突知识数据上的学习倾向](2024年10月07日/Formality_is_Favored_Unraveling_the_Learning_Preferences_of_Large_Language_Models_on_Data_with_Conflicting_Knowledge.md)
@@ -54,10 +50,6 @@
 
     - [翻译: GARLIC：利用 LLM 引导的动态进度控制和分层加权图，实现长文档问答的优化。](2024年10月07日/GARLIC_LLM-Guided_Dynamic_Progress_Control_with_Hierarchical_Weighted_Graph_for_Long_Document_QA.md)
 
-- [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](2024年10月07日/GSM-Symbolic_Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: GSM-Symbolic：揭示大型语言模型在数学推理中的局限](2024年10月07日/GSM-Symbolic_Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models.md)
-
 - [ImProver: Agent-Based Automated Proof Optimization](2024年10月07日/ImProver_Agent-Based_Automated_Proof_Optimization.md)
 
     - [翻译: ImProver：一种基于代理的自动证明优化工具](2024年10月07日/ImProver_Agent-Based_Automated_Proof_Optimization.md)
@@ -65,10 +57,6 @@
 - [Initialization of Large Language Models via Reparameterization to Mitigate Loss Spikes](2024年10月07日/Initialization_of_Large_Language_Models_via_Reparameterization_to_Mitigate_Loss_Spikes.md)
 
     - [翻译: 通过重新参数化减轻损失峰值，实现大型语言模型的优化初始化。](2024年10月07日/Initialization_of_Large_Language_Models_via_Reparameterization_to_Mitigate_Loss_Spikes.md)
-
-- [Intent Classification for Bank Chatbots through LLM Fine-Tuning](2024年10月07日/Intent_Classification_for_Bank_Chatbots_through_LLM_Fine-Tuning.md)
-
-    - [翻译: 利用 LLM 微调技术，为银行聊天机器人实现精准的意图分类。](2024年10月07日/Intent_Classification_for_Bank_Chatbots_through_LLM_Fine-Tuning.md)
 
 - [Investigating large language models for their competence in extracting grammatically sound sentences from transcribed noisy utterances](2024年10月07日/Investigating_large_language_models_for_their_competence_in_extracting_grammatically_sound_sentences_from_transcribed_noisy_utterances.md)
 
@@ -89,10 +77,6 @@
 - [LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies](2024年10月07日/LLaVA_Needs_More_Knowledge_Retrieval_Augmented_Natural_Language_Generation_with_Knowledge_Graph_for_Explaining_Thoracic_Pathologies.md)
 
     - [翻译: LLaVA 需更多知识：结合知识图谱的检索增强自然语言生成，助力胸腔病理解析](2024年10月07日/LLaVA_Needs_More_Knowledge_Retrieval_Augmented_Natural_Language_Generation_with_Knowledge_Graph_for_Explaining_Thoracic_Pathologies.md)
-
-- [LoTLIP: Improving Language-Image Pre-training for Long Text Understanding](2024年10月07日/LoTLIP_Improving_Language-Image_Pre-training_for_Long_Text_Understanding.md)
-
-    - [翻译: LoTLIP：提升长文本理解的语言-图像预训练效果](2024年10月07日/LoTLIP_Improving_Language-Image_Pre-training_for_Long_Text_Understanding.md)
 
 - [MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models](2024年10月07日/MINER_Mining_the_Underlying_Pattern_of_Modality-Specific_Neurons_in_Multimodal_Large_Language_Models.md)
 
@@ -141,14 +125,6 @@
 - [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](2024年10月07日/TidalDecode_Fast_and_Accurate_LLM_Decoding_with_Position_Persistent_Sparse_Attention.md)
 
     - [翻译: TidalDecode：通过位置持久稀疏注意力，实现 LLM 的快速精准解码](2024年10月07日/TidalDecode_Fast_and_Accurate_LLM_Decoding_with_Position_Persistent_Sparse_Attention.md)
-
-- [TLDR: Token-Level Detective Reward Model for Large Vision Language Models](2024年10月07日/TLDR_Token-Level_Detective_Reward_Model_for_Large_Vision_Language_Models.md)
-
-    - [翻译: TLDR: 大型视觉语言模型的令牌级侦探奖励模型](2024年10月07日/TLDR_Token-Level_Detective_Reward_Model_for_Large_Vision_Language_Models.md)
-
-- [TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles](2024年10月07日/TurtleBench_Evaluating_Top_Language_Models_via_Real-World_YesNo_Puzzles.md)
-
-    - [翻译: TurtleBench：用现实中的 Yes/No 谜题来检验顶级语言模型的实力](2024年10月07日/TurtleBench_Evaluating_Top_Language_Models_via_Real-World_YesNo_Puzzles.md)
 
 - [ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering](2024年10月07日/ZEBRA_Zero-Shot_Example-Based_Retrieval_Augmentation_for_Commonsense_Question_Answering.md)
 
