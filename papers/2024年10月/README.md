@@ -14,10 +14,6 @@
 
     - [翻译: 借助 HCache，LLM 服务中的状态恢复速度大幅提升](2024年10月07日/Fast_State_Restoration_in_LLM_Serving_with_HCache.md)
 
-- [GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA](2024年10月07日/GARLIC_LLM-Guided_Dynamic_Progress_Control_with_Hierarchical_Weighted_Graph_for_Long_Document_QA.md)
-
-    - [翻译: GARLIC：利用 LLM 引导的动态进度控制和分层加权图，实现长文档问答的优化。](2024年10月07日/GARLIC_LLM-Guided_Dynamic_Progress_Control_with_Hierarchical_Weighted_Graph_for_Long_Document_QA.md)
-
 - [ImProver: Agent-Based Automated Proof Optimization](2024年10月07日/ImProver_Agent-Based_Automated_Proof_Optimization.md)
 
     - [翻译: ImProver：一种基于代理的自动证明优化工具](2024年10月07日/ImProver_Agent-Based_Automated_Proof_Optimization.md)
@@ -46,10 +42,6 @@
 
     - [翻译: 像人类一样探索数字世界：GUI 代理的通用视觉基础](2024年10月07日/Navigating_the_Digital_World_as_Humans_Do_Universal_Visual_Grounding_for_GUI_Agents.md)
 
-- [Organizing Unstructured Image Collections using Natural Language](2024年10月07日/Organizing_Unstructured_Image_Collections_using_Natural_Language.md)
-
-    - [翻译: 用自然语言整理无序的图像集](2024年10月07日/Organizing_Unstructured_Image_Collections_using_Natural_Language.md)
-
 - [PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs](2024年10月07日/PrefixQuant_Static_Quantization_Beats_Dynamic_through_Prefixed_Outliers_in_LLMs.md)
 
     - [翻译: PrefixQuant：通过 LLM 中的前缀异常值，静态量化超越了动态量化。](2024年10月07日/PrefixQuant_Static_Quantization_Beats_Dynamic_through_Prefixed_Outliers_in_LLMs.md)
@@ -58,25 +50,9 @@
 
     - [翻译: 基于成对自我评估的理性答案验证](2024年10月07日/Rationale-Aware_Answer_Verification_by_Pairwise_Self-Evaluation.md)
 
-- [ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation](2024年10月07日/ReasoningRank_Teaching_Student_Models_to_Rank_through_Reasoning-Based_Knowledge_Distillation.md)
-
-    - [翻译: ReasoningRank：借助推理为基础的知识蒸馏，教导学生模型掌握排序技能](2024年10月07日/ReasoningRank_Teaching_Student_Models_to_Rank_through_Reasoning-Based_Knowledge_Distillation.md)
-
-- [SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe](2024年10月07日/SFTMix_Elevating_Language_Model_Instruction_Tuning_with_Mixup_Recipe.md)
-
-    - [翻译: SFTMix：借助 Mixup 配方，提升语言模型的指令调优效果](2024年10月07日/SFTMix_Elevating_Language_Model_Instruction_Tuning_with_Mixup_Recipe.md)
-
 - [Strong Model Collapse](2024年10月07日/Strong_Model_Collapse.md)
 
     - [翻译: 模型崩溃现象严重](2024年10月07日/Strong_Model_Collapse.md)
-
-- [TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens](2024年10月07日/TextHawk2_A_Large_Vision-Language_Model_Excels_in_Bilingual_OCR_and_Grounding_with_16x_Fewer_Tokens.md)
-
-    - [翻译: TextHawk2：一款大型视觉语言模型，以 16 倍更少的标记在双语 OCR 和定位任务中大放异彩。](2024年10月07日/TextHawk2_A_Large_Vision-Language_Model_Excels_in_Bilingual_OCR_and_Grounding_with_16x_Fewer_Tokens.md)
-
-- [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](2024年10月07日/TidalDecode_Fast_and_Accurate_LLM_Decoding_with_Position_Persistent_Sparse_Attention.md)
-
-    - [翻译: TidalDecode：通过位置持久稀疏注意力，实现 LLM 的快速精准解码](2024年10月07日/TidalDecode_Fast_and_Accurate_LLM_Decoding_with_Position_Persistent_Sparse_Attention.md)
 
 - [ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering](2024年10月07日/ZEBRA_Zero-Shot_Example-Based_Retrieval_Augmentation_for_Commonsense_Question_Answering.md)
 
