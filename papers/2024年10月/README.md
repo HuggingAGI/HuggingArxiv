@@ -2,14 +2,6 @@
 
 2024年10月07日
 
-- [Can LLMs plan paths with extra hints from solvers?](2024年10月07日/Can_LLMs_plan_paths_with_extra_hints_from_solvers.md)
-
-    - [翻译: LLMs 能否借助解算器的额外提示来规划路径？](2024年10月07日/Can_LLMs_plan_paths_with_extra_hints_from_solvers.md)
-
-- [Causal Micro-Narratives](2024年10月07日/Causal_Micro-Narratives.md)
-
-    - [翻译: 因果微故事](2024年10月07日/Causal_Micro-Narratives.md)
-
 - [Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models](2024年10月07日/Data_Advisor_Dynamic_Data_Curation_for_Safety_Alignment_of_Large_Language_Models.md)
 
     - [翻译: 数据顾问：为大型语言模型安全对齐提供动态数据管理](2024年10月07日/Data_Advisor_Dynamic_Data_Curation_for_Safety_Alignment_of_Large_Language_Models.md)
@@ -22,21 +14,9 @@
 
     - [翻译: 文档级因果关系提取：知识引导下的二进制问题解答](2024年10月07日/Document-level_Causal_Relation_Extraction_with_Knowledge-guided_Binary_Question_Answering.md)
 
-- [Driving with Regulation: Interpretable Decision-Making for Autonomous Vehicles with Retrieval-Augmented Reasoning via LLM](2024年10月07日/Driving_with_Regulation_Interpretable_Decision-Making_for_Autonomous_Vehicles_with_Retrieval-Augmented_Reasoning_via_LLM.md)
-
-    - [翻译: 借助 LLM 的检索增强推理，自动驾驶车辆在遵循法规的同时，实现了可解释的决策过程。](2024年10月07日/Driving_with_Regulation_Interpretable_Decision-Making_for_Autonomous_Vehicles_with_Retrieval-Augmented_Reasoning_via_LLM.md)
-
-- [Efficient Inference for Large Language Model-based Generative Recommendation](2024年10月07日/Efficient_Inference_for_Large_Language_Model-based_Generative_Recommendation.md)
-
-    - [翻译: 大型语言模型生成推荐的高效推理](2024年10月07日/Efficient_Inference_for_Large_Language_Model-based_Generative_Recommendation.md)
-
 - [Enhancing Equity in Large Language Models for Medical Applications](2024年10月07日/Enhancing_Equity_in_Large_Language_Models_for_Medical_Applications.md)
 
     - [翻译: 提升医疗应用中大型语言模型的公平性](2024年10月07日/Enhancing_Equity_in_Large_Language_Models_for_Medical_Applications.md)
-
-- [Explanation sensitivity to the randomness of large language models: the case of journalistic text classification](2024年10月07日/Explanation_sensitivity_to_the_randomness_of_large_language_models_the_case_of_journalistic_text_classification.md)
-
-    - [翻译: 大型语言模型的随机性如何影响解释的敏感性？以新闻文本分类为例，探讨这一问题。](2024年10月07日/Explanation_sensitivity_to_the_randomness_of_large_language_models_the_case_of_journalistic_text_classification.md)
 
 - [Fast State Restoration in LLM Serving with HCache](2024年10月07日/Fast_State_Restoration_in_LLM_Serving_with_HCache.md)
 
@@ -53,10 +33,6 @@
 - [ImProver: Agent-Based Automated Proof Optimization](2024年10月07日/ImProver_Agent-Based_Automated_Proof_Optimization.md)
 
     - [翻译: ImProver：一种基于代理的自动证明优化工具](2024年10月07日/ImProver_Agent-Based_Automated_Proof_Optimization.md)
-
-- [Initialization of Large Language Models via Reparameterization to Mitigate Loss Spikes](2024年10月07日/Initialization_of_Large_Language_Models_via_Reparameterization_to_Mitigate_Loss_Spikes.md)
-
-    - [翻译: 通过重新参数化减轻损失峰值，实现大型语言模型的优化初始化。](2024年10月07日/Initialization_of_Large_Language_Models_via_Reparameterization_to_Mitigate_Loss_Spikes.md)
 
 - [Investigating large language models for their competence in extracting grammatically sound sentences from transcribed noisy utterances](2024年10月07日/Investigating_large_language_models_for_their_competence_in_extracting_grammatically_sound_sentences_from_transcribed_noisy_utterances.md)
 
