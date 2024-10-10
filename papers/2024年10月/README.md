@@ -28,7 +28,7 @@
 
 - [Chip-Tuning: Classify Before Language Models Say](2024年10月09日/Chip-Tuning_Classify_Before_Language_Models_Say.md)
 
-    - [翻译: Chip-Tuning：先分类，后语言模型发声](2024年10月09日/Chip-Tuning_Classify_Before_Language_Models_Say.md)
+    - [翻译: Chip-Tuning：在语言模型发声前先行分类](2024年10月09日/Chip-Tuning_Classify_Before_Language_Models_Say.md)
 
 - [Clean Evaluations on Contaminated Visual Language Models](2024年10月09日/Clean_Evaluations_on_Contaminated_Visual_Language_Models.md)
 
@@ -52,7 +52,7 @@
 
 - [Deep Correlated Prompting for Visual Recognition with Missing Modalities](2024年10月09日/Deep_Correlated_Prompting_for_Visual_Recognition_with_Missing_Modalities.md)
 
-    - [翻译: 深度相关提示助力视觉识别，即使模态缺失也能应对自如。](2024年10月09日/Deep_Correlated_Prompting_for_Visual_Recognition_with_Missing_Modalities.md)
+    - [翻译: 深度相关提示助力视觉识别，应对模态缺失挑战](2024年10月09日/Deep_Correlated_Prompting_for_Visual_Recognition_with_Missing_Modalities.md)
 
 - [Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare](2024年10月09日/Detecting_Bias_and_Enhancing_Diagnostic_Accuracy_in_Large_Language_Models_for_Healthcare.md)
 
@@ -84,7 +84,7 @@
 
 - [Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization](2024年10月09日/Enhancing_Multimodal_LLM_for_Detailed_and_Accurate_Video_Captioning_using_Multi-Round_Preference_Optimization.md)
 
-    - [翻译: 通过多轮偏好优化，提升多模态 LLM 在视频字幕生成中的细节与准确性。](2024年10月09日/Enhancing_Multimodal_LLM_for_Detailed_and_Accurate_Video_Captioning_using_Multi-Round_Preference_Optimization.md)
+    - [翻译: 通过多轮偏好优化，提升多模态 LLM 在视频字幕生成中的详细性和准确性。](2024年10月09日/Enhancing_Multimodal_LLM_for_Detailed_and_Accurate_Video_Captioning_using_Multi-Round_Preference_Optimization.md)
 
 - [EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](2024年10月09日/EvolveDirector_Approaching_Advanced_Text-to-Image_Generation_with_Large_Vision-Language_Models.md)
 
@@ -264,7 +264,7 @@
 
 - [To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models](2024年10月09日/To_Preserve_or_To_Compress_An_In-Depth_Study_of_Connector_Selection_in_Multimodal_Large_Language_Models.md)
 
-    - [翻译: 在多模态大型语言模型中，连接器的选择是保留还是压缩？这是一项深入探讨的研究。](2024年10月09日/To_Preserve_or_To_Compress_An_In-Depth_Study_of_Connector_Selection_in_Multimodal_Large_Language_Models.md)
+    - [翻译: 在多模态大型语言模型中，连接器的选择是保留还是压缩？本研究将深入探讨这一问题。](2024年10月09日/To_Preserve_or_To_Compress_An_In-Depth_Study_of_Connector_Selection_in_Multimodal_Large_Language_Models.md)
 
 - [Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis](2024年10月09日/Trans4D_Realistic_Geometry-Aware_Transition_for_Compositional_Text-to-4D_Synthesis.md)
 
@@ -354,7 +354,7 @@
 
 - [Does Spatial Cognition Emerge in Frontier Models?](2024年10月08日/Does_Spatial_Cognition_Emerge_in_Frontier_Models.md)
 
-    - [翻译: 前沿模型中，空间认知是否悄然浮现？](2024年10月08日/Does_Spatial_Cognition_Emerge_in_Frontier_Models.md)
+    - [翻译: 前沿模型中，空间认知是否悄然萌芽？](2024年10月08日/Does_Spatial_Cognition_Emerge_in_Frontier_Models.md)
 
 - [Do great minds think alike? Investigating Human-AI Complementarity in Question Answering with CAIMIRA](2024年10月08日/Do_great_minds_think_alike_Investigating_Human-AI_Complementarity_in_Question_Answering_with_CAIMIRA.md)
 
@@ -494,7 +494,7 @@
 
 - [Quadratic Is Not What You Need For Multimodal Large Language Models](2024年10月08日/Quadratic_Is_Not_What_You_Need_For_Multimodal_Large_Language_Models.md)
 
-    - [翻译: 多模态大型语言模型中，二次方并非良策](2024年10月08日/Quadratic_Is_Not_What_You_Need_For_Multimodal_Large_Language_Models.md)
+    - [翻译: 多模态大型语言模型并不需要二次方，我们需要的是更高效的方法。](2024年10月08日/Quadratic_Is_Not_What_You_Need_For_Multimodal_Large_Language_Models.md)
 
 - [Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation](2024年10月08日/Retrieving,_Rethinking_and_Revising_The_Chain-of-Verification_Can_Improve_Retrieval_Augmented_Generation.md)
 
