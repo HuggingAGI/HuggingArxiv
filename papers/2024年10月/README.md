@@ -558,14 +558,6 @@
 
     - [翻译: 妥协的直觉：功利主义与契约主义之争](2024年10月07日/Intuitions_of_Compromise_Utilitarianism_vs._Contractualism.md)
 
-- [Multimodal Large Language Models and Tunings: Vision, Language, Sensors, Audio, and Beyond](2024年10月07日/Multimodal_Large_Language_Models_and_Tunings_Vision,_Language,_Sensors,_Audio,_and_Beyond.md)
-
-    - [翻译: 多模态大型语言模型与调优：涵盖视觉、语言、传感器、音频及其他领域](2024年10月07日/Multimodal_Large_Language_Models_and_Tunings_Vision,_Language,_Sensors,_Audio,_and_Beyond.md)
-
-- [On Instruction-Finetuning Neural Machine Translation Models](2024年10月07日/On_Instruction-Finetuning_Neural_Machine_Translation_Models.md)
-
-    - [翻译: 探索神经机器翻译模型的指令微调](2024年10月07日/On_Instruction-Finetuning_Neural_Machine_Translation_Models.md)
-
 - [ParallelSpec: Parallel Drafter for Efficient Speculative Decoding](2024年10月07日/ParallelSpec_Parallel_Drafter_for_Efficient_Speculative_Decoding.md)
 
     - [翻译: ParallelSpec：高效推测解码的并行起草工具](2024年10月07日/ParallelSpec_Parallel_Drafter_for_Efficient_Speculative_Decoding.md)
@@ -590,14 +582,6 @@
 
     - [翻译: 探索大型语言模型中密集模型与MoE模型的扩展规律，进行深入的比较分析。](2024年10月07日/Scaling_Laws_Across_Model_Architectures_A_Comparative_Analysis_of_Dense_and_MoE_Models_in_Large_Language_Models.md)
 
-- [TeaserGen: Generating Teasers for Long Documentaries](2024年10月07日/TeaserGen_Generating_Teasers_for_Long_Documentaries.md)
-
-    - [翻译: TeaserGen：打造长纪录片的精彩预告](2024年10月07日/TeaserGen_Generating_Teasers_for_Long_Documentaries.md)
-
 - [Transformers learn variable-order Markov chains in-context](2024年10月07日/Transformers_learn_variable-order_Markov_chains_in-context.md)
 
     - [翻译: Transformer 在上下文中学习可变阶马尔可夫链](2024年10月07日/Transformers_learn_variable-order_Markov_chains_in-context.md)
-
-- [Vector-ICL: In-context Learning with Continuous Vector Representations](2024年10月07日/Vector-ICL_In-context_Learning_with_Continuous_Vector_Representations.md)
-
-    - [翻译: Vector-ICL：基于连续向量表示的上下文学习](2024年10月07日/Vector-ICL_In-context_Learning_with_Continuous_Vector_Representations.md)
