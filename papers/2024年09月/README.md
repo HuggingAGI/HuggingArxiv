@@ -1,15 +1,17 @@
 # 2024年09月
 
-2024年09月30日
+2024年09月20日
 
-- [ERASMO: Leveraging Large Language Models for Enhanced Clustering Segmentation](2024年09月30日/ERASMO_Leveraging_Large_Language_Models_for_Enhanced_Clustering_Segmentation.md)
+- [End-Cloud Collaboration Framework for Advanced AI Customer Service in E-commerce](2024年09月20日/End-Cloud_Collaboration_Framework_for_Advanced_AI_Customer_Service_in_E-commerce.md)
 
-    - [翻译: ERASMO：借助大型语言模型，实现更精准的聚类分割](2024年09月30日/ERASMO_Leveraging_Large_Language_Models_for_Enhanced_Clustering_Segmentation.md)
+    - [翻译: 电子商务中的高级 AI 客户服务，端云协作框架助力实现](2024年09月20日/End-Cloud_Collaboration_Framework_for_Advanced_AI_Customer_Service_in_E-commerce.md)
 
-- [FaithEval: Can Your Language Model Stay Faithful to Context, Even If "The Moon is Made of Marshmallows"](2024年09月30日/FaithEval_Can_Your_Language_Model_Stay_Faithful_to_Context,_Even_If_The_Moon_is_Made_of_Marshmallows.md)
+- [Transfer Learning for E-commerce Query Product Type Prediction](2024年09月20日/Transfer_Learning_for_E-commerce_Query_Product_Type_Prediction.md)
 
-    - [翻译: FaithEval：面对“月亮是棉花糖做的”这种说法，你的语言模型能否坚守上下文的忠实性？](2024年09月30日/FaithEval_Can_Your_Language_Model_Stay_Faithful_to_Context,_Even_If_The_Moon_is_Made_of_Marshmallows.md)
+    - [翻译: 电商查询产品类型预测中的迁移学习](2024年09月20日/Transfer_Learning_for_E-commerce_Query_Product_Type_Prediction.md)
 
-- [Unsupervised Human Preference Learning](2024年09月30日/Unsupervised_Human_Preference_Learning.md)
+2024年09月19日
 
-    - [翻译: 无监督的人类偏好学习](2024年09月30日/Unsupervised_Human_Preference_Learning.md)
+- [System 2 thinking in OpenAI's o1-preview model: Near-perfect performance on a mathematics exam](2024年09月19日/System_2_thinking_in_OpenAI's_o1-preview_model_Near-perfect_performance_on_a_mathematics_exam.md)
+
+    - [翻译: OpenAI 的 o1-preview 模型展现了系统 2 思维，在数学考试中几乎取得了满分。](2024年09月19日/System_2_thinking_in_OpenAI's_o1-preview_model_Near-perfect_performance_on_a_mathematics_exam.md)
