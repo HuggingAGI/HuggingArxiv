@@ -312,10 +312,6 @@
 
     - [翻译: 高效 LLM 基准测试的主动评估获取](2024年10月08日/Active_Evaluation_Acquisition_for_Efficient_LLM_Benchmarking.md)
 
-- [An Eye for an Ear: Zero-shot Audio Description Leveraging an Image Captioner using Audiovisual Distribution Alignment](2024年10月08日/An_Eye_for_an_Ear_Zero-shot_Audio_Description_Leveraging_an_Image_Captioner_using_Audiovisual_Distribution_Alignment.md)
-
-    - [翻译: 以眼还耳：通过视听分布对齐，利用图像描述器实现零-shot 音频描述](2024年10月08日/An_Eye_for_an_Ear_Zero-shot_Audio_Description_Leveraging_an_Image_Captioner_using_Audiovisual_Distribution_Alignment.md)
-
 - [Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?](2024年10月08日/Are_Large_Language_Models_State-of-the-art_Quality_Estimators_for_Machine_Translation_of_User-generated_Content.md)
 
     - [翻译: 大型语言模型能否成为用户生成内容机器翻译的顶尖质量评估工具？](2024年10月08日/Are_Large_Language_Models_State-of-the-art_Quality_Estimators_for_Machine_Translation_of_User-generated_Content.md)
@@ -339,10 +335,6 @@
 - [Counterfactual Causal Inference in Natural Language with Large Language Models](2024年10月08日/Counterfactual_Causal_Inference_in_Natural_Language_with_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型在自然语言中进行反事实因果推断](2024年10月08日/Counterfactual_Causal_Inference_in_Natural_Language_with_Large_Language_Models.md)
-
-- [Does Spatial Cognition Emerge in Frontier Models?](2024年10月08日/Does_Spatial_Cognition_Emerge_in_Frontier_Models.md)
-
-    - [翻译: 前沿模型中，空间认知是否悄然萌芽？](2024年10月08日/Does_Spatial_Cognition_Emerge_in_Frontier_Models.md)
 
 - [EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment](2024年10月08日/EMMA_Empowering_Multi-modal_Mamba_with_Structural_and_Hierarchical_Alignment.md)
 
@@ -424,10 +416,6 @@
 
     - [翻译: 通过神经架构搜索实现 LLM 压缩](2024年10月08日/LLM_Compression_with_Neural_Architecture_Search.md)
 
-- [Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing](2024年10月08日/Locate-then-edit_for_Multi-hop_Factual_Recall_under_Knowledge_Editing.md)
-
-    - [翻译: 知识编辑中的多跳事实回忆：先定位，再编辑](2024年10月08日/Locate-then-edit_for_Multi-hop_Factual_Recall_under_Knowledge_Editing.md)
-
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](2024年10月08日/Long-Context_LLMs_Meet_RAG_Overcoming_Challenges_for_Long_Inputs_in_RAG.md)
 
     - [翻译: 长上下文 LLM 与 RAG 相遇：解决 RAG 中长输入的难题](2024年10月08日/Long-Context_LLMs_Meet_RAG_Overcoming_Challenges_for_Long_Inputs_in_RAG.md)
@@ -436,10 +424,6 @@
 
     - [翻译: MaD-Scientist：这位 AI 科学家利用海量 PINN 先验数据，轻松破解对流-扩散-反应方程难题。](2024年10月08日/MaD-Scientist_AI-based_Scientist_solving_Convection-Diffusion-Reaction_Equations_Using_Massive_PINN-Based_Prior_Data.md)
 
-- [ModalPrompt:Dual-Modality Guided Prompt for Continual Learning of Large Multimodal Models](2024年10月08日/ModalPromptDual-Modality_Guided_Prompt_for_Continual_Learning_of_Large_Multimodal_Models.md)
-
-    - [翻译: ModalPrompt：双模态引导提示助力大型多模态模型的持续学习](2024年10月08日/ModalPromptDual-Modality_Guided_Prompt_for_Continual_Learning_of_Large_Multimodal_Models.md)
-
 - [Multi-Session Client-Centered Treatment Outcome Evaluation in Psychotherapy](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
 
     - [翻译: 心理治疗中的多会话客户中心治疗效果评估](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
@@ -447,10 +431,6 @@
 - [Probing Language Models on Their Knowledge Source](2024年10月08日/Probing_Language_Models_on_Their_Knowledge_Source.md)
 
     - [翻译: 探索语言模型如何运用其知识来源](2024年10月08日/Probing_Language_Models_on_Their_Knowledge_Source.md)
-
-- [Probing the Robustness of Theory of Mind in Large Language Models](2024年10月08日/Probing_the_Robustness_of_Theory_of_Mind_in_Large_Language_Models.md)
-
-    - [翻译: 探索大型语言模型中思维理论的稳健性](2024年10月08日/Probing_the_Robustness_of_Theory_of_Mind_in_Large_Language_Models.md)
 
 - [Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation](2024年10月08日/Retrieving,_Rethinking_and_Revising_The_Chain-of-Verification_Can_Improve_Retrieval_Augmented_Generation.md)
 
@@ -479,10 +459,6 @@
 - [Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought](2024年10月08日/Unlocking_the_Boundaries_of_Thought_A_Reasoning_Granularity_Framework_to_Quantify_and_Optimize_Chain-of-Thought.md)
 
     - [翻译: 突破思维界限：构建推理粒度框架，量化并优化思维链](2024年10月08日/Unlocking_the_Boundaries_of_Thought_A_Reasoning_Granularity_Framework_to_Quantify_and_Optimize_Chain-of-Thought.md)
-
-- [Validation of the Scientific Literature via Chemputation Augmented by Large Language Models](2024年10月08日/Validation_of_the_Scientific_Literature_via_Chemputation_Augmented_by_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型增强的化学计算，验证科学文献的准确性。](2024年10月08日/Validation_of_the_Scientific_Literature_via_Chemputation_Augmented_by_Large_Language_Models.md)
 
 - [WAPITI: A Watermark for Finetuned Open-Source LLMs](2024年10月08日/WAPITI_A_Watermark_for_Finetuned_Open-Source_LLMs.md)
 
