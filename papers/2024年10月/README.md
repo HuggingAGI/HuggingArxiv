@@ -312,10 +312,6 @@
 
     - [翻译: 高效 LLM 基准测试的主动评估获取](2024年10月08日/Active_Evaluation_Acquisition_for_Efficient_LLM_Benchmarking.md)
 
-- [AgentSquare: Automatic LLM Agent Search in Modular Design Space](2024年10月08日/AgentSquare_Automatic_LLM_Agent_Search_in_Modular_Design_Space.md)
-
-    - [翻译: AgentSquare：模块化设计空间中的自动 LLM 代理搜索](2024年10月08日/AgentSquare_Automatic_LLM_Agent_Search_in_Modular_Design_Space.md)
-
 - [An Eye for an Ear: Zero-shot Audio Description Leveraging an Image Captioner using Audiovisual Distribution Alignment](2024年10月08日/An_Eye_for_an_Ear_Zero-shot_Audio_Description_Leveraging_an_Image_Captioner_using_Audiovisual_Distribution_Alignment.md)
 
     - [翻译: 以眼还耳：通过视听分布对齐，利用图像描述器实现零-shot 音频描述](2024年10月08日/An_Eye_for_an_Ear_Zero-shot_Audio_Description_Leveraging_an_Image_Captioner_using_Audiovisual_Distribution_Alignment.md)
@@ -396,10 +392,6 @@
 
     - [翻译: 功能级不确定性量化：LLM 微调的校准之道](2024年10月08日/Functional-level_Uncertainty_Quantification_for_Calibrated_Fine-tuning_on_LLMs.md)
 
-- [FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance](2024年10月08日/FürElise_Capturing_and_Physically_Synthesizing_Hand_Motions_of_Piano_Performance.md)
-
-    - [翻译: 《致爱丽丝》：捕捉并物理合成钢琴演奏中的手部动作](2024年10月08日/FürElise_Capturing_and_Physically_Synthesizing_Hand_Motions_of_Piano_Performance.md)
-
 - [Generative AI for Discovering Porous Oxide Materials for Next-Generation Energy Storage](2024年10月08日/Generative_AI_for_Discovering_Porous_Oxide_Materials_for_Next-Generation_Energy_Storage.md)
 
     - [翻译: 生成式AI助力发现下一代能源存储的多孔氧化物材料](2024年10月08日/Generative_AI_for_Discovering_Porous_Oxide_Materials_for_Next-Generation_Energy_Storage.md)
@@ -468,10 +460,6 @@
 
     - [翻译: ModalPrompt：双模态引导提示助力大型多模态模型的持续学习](2024年10月08日/ModalPromptDual-Modality_Guided_Prompt_for_Continual_Learning_of_Large_Multimodal_Models.md)
 
-- [Multimodal Situational Safety](2024年10月08日/Multimodal_Situational_Safety.md)
-
-    - [翻译: 多模态情境安全](2024年10月08日/Multimodal_Situational_Safety.md)
-
 - [Multi-Session Client-Centered Treatment Outcome Evaluation in Psychotherapy](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
 
     - [翻译: 心理治疗中的多会话客户中心治疗效果评估](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
@@ -480,10 +468,6 @@
 
     - [翻译: OrionNav：结合上下文感知 LLM 与开放词汇语义场景图，实现机器人自主在线规划。](2024年10月08日/OrionNav_Online_Planning_for_Robot_Autonomy_with_Context-Aware_LLM_and_Open-Vocabulary_Semantic_Scene_Graphs.md)
 
-- [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](2024年10月08日/PDF-WuKong_A_Large_Multimodal_Model_for_Efficient_Long_PDF_Reading_with_End-to-End_Sparse_Sampling.md)
-
-    - [翻译: PDF-WuKong：一款高效阅读长 PDF 的大型多模态模型，通过端到端稀疏采样技术实现卓越性能。](2024年10月08日/PDF-WuKong_A_Large_Multimodal_Model_for_Efficient_Long_PDF_Reading_with_End-to-End_Sparse_Sampling.md)
-
 - [Probing Language Models on Their Knowledge Source](2024年10月08日/Probing_Language_Models_on_Their_Knowledge_Source.md)
 
     - [翻译: 探索语言模型如何运用其知识来源](2024年10月08日/Probing_Language_Models_on_Their_Knowledge_Source.md)
@@ -491,10 +475,6 @@
 - [Probing the Robustness of Theory of Mind in Large Language Models](2024年10月08日/Probing_the_Robustness_of_Theory_of_Mind_in_Large_Language_Models.md)
 
     - [翻译: 探索大型语言模型中思维理论的稳健性](2024年10月08日/Probing_the_Robustness_of_Theory_of_Mind_in_Large_Language_Models.md)
-
-- [Quadratic Is Not What You Need For Multimodal Large Language Models](2024年10月08日/Quadratic_Is_Not_What_You_Need_For_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 多模态大型语言模型并不需要二次方，我们需要的是更高效的方法。](2024年10月08日/Quadratic_Is_Not_What_You_Need_For_Multimodal_Large_Language_Models.md)
 
 - [Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation](2024年10月08日/Retrieving,_Rethinking_and_Revising_The_Chain-of-Verification_Can_Improve_Retrieval_Augmented_Generation.md)
 
@@ -531,9 +511,3 @@
 - [WAPITI: A Watermark for Finetuned Open-Source LLMs](2024年10月08日/WAPITI_A_Watermark_for_Finetuned_Open-Source_LLMs.md)
 
     - [翻译: WAPITI：为微调开源 LLM 打造的水印](2024年10月08日/WAPITI_A_Watermark_for_Finetuned_Open-Source_LLMs.md)
-
-2024年10月07日
-
-- [RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction](2024年10月07日/RespLLM_Unifying_Audio_and_Text_with_Multimodal_LLMs_for_Generalized_Respiratory_Health_Prediction.md)
-
-    - [翻译: RespLLM：融合音频与文本的多模态 LLM，助力广义呼吸健康预测](2024年10月07日/RespLLM_Unifying_Audio_and_Text_with_Multimodal_LLMs_for_Generalized_Respiratory_Health_Prediction.md)
