@@ -312,10 +312,6 @@
 
     - [翻译: 高效 LLM 基准测试的主动评估获取](2024年10月08日/Active_Evaluation_Acquisition_for_Efficient_LLM_Benchmarking.md)
 
-- [Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?](2024年10月08日/Are_Large_Language_Models_State-of-the-art_Quality_Estimators_for_Machine_Translation_of_User-generated_Content.md)
-
-    - [翻译: 大型语言模型能否成为用户生成内容机器翻译的顶尖质量评估工具？](2024年10月08日/Are_Large_Language_Models_State-of-the-art_Quality_Estimators_for_Machine_Translation_of_User-generated_Content.md)
-
 - [A second-order-like optimizer with adaptive gradient scaling for deep learning](2024年10月08日/A_second-order-like_optimizer_with_adaptive_gradient_scaling_for_deep_learning.md)
 
     - [翻译: 深度学习中的二阶优化器，具备自适应梯度缩放功能](2024年10月08日/A_second-order-like_optimizer_with_adaptive_gradient_scaling_for_deep_learning.md)
@@ -368,14 +364,6 @@
 
     - [翻译: 从全能到专精：通过任务导向的视觉指令微调，让视觉语言模型更上一层楼](2024年10月08日/From_Generalist_to_Specialist_Adapting_Vision_Language_Models_via_Task-Specific_Visual_Instruction_Tuning.md)
 
-- [Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs](2024年10月08日/Functional-level_Uncertainty_Quantification_for_Calibrated_Fine-tuning_on_LLMs.md)
-
-    - [翻译: 功能级不确定性量化：LLM 微调的校准之道](2024年10月08日/Functional-level_Uncertainty_Quantification_for_Calibrated_Fine-tuning_on_LLMs.md)
-
-- [Generative AI for Discovering Porous Oxide Materials for Next-Generation Energy Storage](2024年10月08日/Generative_AI_for_Discovering_Porous_Oxide_Materials_for_Next-Generation_Energy_Storage.md)
-
-    - [翻译: 生成式AI助力发现下一代能源存储的多孔氧化物材料](2024年10月08日/Generative_AI_for_Discovering_Porous_Oxide_Materials_for_Next-Generation_Energy_Storage.md)
-
 - [Gradual Learning: Optimizing Fine-Tuning with Partially Mastered Knowledge in Large Language Models](2024年10月08日/Gradual_Learning_Optimizing_Fine-Tuning_with_Partially_Mastered_Knowledge_in_Large_Language_Models.md)
 
     - [翻译: 渐进学习：利用大语言模型中已掌握的部分知识，优化微调过程](2024年10月08日/Gradual_Learning_Optimizing_Fine-Tuning_with_Partially_Mastered_Knowledge_in_Large_Language_Models.md)
@@ -384,10 +372,6 @@
 
     - [翻译: “定位”是否足够？探讨视频对话中的双重时间定位技术。](2024年10月08日/Grounding_is_All_You_Need_Dual_Temporal_Grounding_for_Video_Dialog.md)
 
-- [Hallucinating AI Hijacking Attack: Large Language Models and Malicious Code Recommenders](2024年10月08日/Hallucinating_AI_Hijacking_Attack_Large_Language_Models_and_Malicious_Code_Recommenders.md)
-
-    - [翻译: AI 幻觉劫持：探讨大型语言模型与恶意代码推荐器的潜在威胁](2024年10月08日/Hallucinating_AI_Hijacking_Attack_Large_Language_Models_and_Malicious_Code_Recommenders.md)
-
 - [Jet Expansions of Residual Computation](2024年10月08日/Jet_Expansions_of_Residual_Computation.md)
 
     - [翻译: 残差计算的喷气扩展技术](2024年10月08日/Jet_Expansions_of_Residual_Computation.md)
@@ -395,10 +379,6 @@
 - [KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server](2024年10月08日/KnowledgeSG_Privacy-Preserving_Synthetic_Text_Generation_with_Knowledge_Distillation_from_Server.md)
 
     - [翻译: KnowledgeSG：通过服务器知识蒸馏实现隐私保护的合成文本生成](2024年10月08日/KnowledgeSG_Privacy-Preserving_Synthetic_Text_Generation_with_Knowledge_Distillation_from_Server.md)
-
-- [Large Language Model Enhanced Text-to-SQL Generation: A Survey](2024年10月08日/Large_Language_Model_Enhanced_Text-to-SQL_Generation_A_Survey.md)
-
-    - [翻译: 大型语言模型助力文本转SQL生成：全面调查](2024年10月08日/Large_Language_Model_Enhanced_Text-to-SQL_Generation_A_Survey.md)
 
 - [Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA](2024年10月08日/Less_is_More_Making_Smaller_Language_Models_Competent_Subgraph_Retrievers_for_Multi-hop_KGQA.md)
 
@@ -447,10 +427,6 @@
 - [Time Transfer: On Optimal Learning Rate and Batch Size In The Infinite Data Limit](2024年10月08日/Time_Transfer_On_Optimal_Learning_Rate_and_Batch_Size_In_The_Infinite_Data_Limit.md)
 
     - [翻译: 时间转移：探索无限数据条件下最优学习率与批量大小的奥秘](2024年10月08日/Time_Transfer_On_Optimal_Learning_Rate_and_Batch_Size_In_The_Infinite_Data_Limit.md)
-
-- [TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training](2024年10月08日/TorchTitan_One-stop_PyTorch_native_solution_for_production_ready_LLM_pre-training.md)
-
-    - [翻译: TorchTitan：专为生产环境设计的 PyTorch 原生 LLM 预训练一站式解决方案](2024年10月08日/TorchTitan_One-stop_PyTorch_native_solution_for_production_ready_LLM_pre-training.md)
 
 - [Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts](2024年10月08日/Training-Free_Open-Ended_Object_Detection_and_Segmentation_via_Attention_as_Prompts.md)
 
