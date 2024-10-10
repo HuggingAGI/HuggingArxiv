@@ -534,30 +534,6 @@
 
 2024年10月07日
 
-- [Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback](2024年10月07日/Better_than_Your_Teacher_LLM_Agents_that_learn_from_Privileged_AI_Feedback.md)
-
-    - [翻译: 超越导师：LLM 代理从特权 AI 反馈中学习](2024年10月07日/Better_than_Your_Teacher_LLM_Agents_that_learn_from_Privileged_AI_Feedback.md)
-
-- [Intuitions of Compromise: Utilitarianism vs. Contractualism](2024年10月07日/Intuitions_of_Compromise_Utilitarianism_vs._Contractualism.md)
-
-    - [翻译: 妥协的直觉：功利主义与契约主义之争](2024年10月07日/Intuitions_of_Compromise_Utilitarianism_vs._Contractualism.md)
-
-- [ParallelSpec: Parallel Drafter for Efficient Speculative Decoding](2024年10月07日/ParallelSpec_Parallel_Drafter_for_Efficient_Speculative_Decoding.md)
-
-    - [翻译: ParallelSpec：高效推测解码的并行起草工具](2024年10月07日/ParallelSpec_Parallel_Drafter_for_Efficient_Speculative_Decoding.md)
-
-- [R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?](2024年10月07日/R-Bench_Are_your_Large_Multimodal_Model_Robust_to_Real-world_Corruptions.md)
-
-    - [翻译: R-Bench：你的大型多模态模型能否抵御现实世界的损坏？](2024年10月07日/R-Bench_Are_your_Large_Multimodal_Model_Robust_to_Real-world_Corruptions.md)
-
-- [Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](2024年10月07日/Recent_Advances_of_Multimodal_Continual_Learning_A_Comprehensive_Survey.md)
-
-    - [翻译: 多模态持续学习领域迎来新突破，本文为您带来全面解读。](2024年10月07日/Recent_Advances_of_Multimodal_Continual_Learning_A_Comprehensive_Survey.md)
-
 - [RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction](2024年10月07日/RespLLM_Unifying_Audio_and_Text_with_Multimodal_LLMs_for_Generalized_Respiratory_Health_Prediction.md)
 
     - [翻译: RespLLM：融合音频与文本的多模态 LLM，助力广义呼吸健康预测](2024年10月07日/RespLLM_Unifying_Audio_and_Text_with_Multimodal_LLMs_for_Generalized_Respiratory_Health_Prediction.md)
-
-- [Transformers learn variable-order Markov chains in-context](2024年10月07日/Transformers_learn_variable-order_Markov_chains_in-context.md)
-
-    - [翻译: Transformer 在上下文中学习可变阶马尔可夫链](2024年10月07日/Transformers_learn_variable-order_Markov_chains_in-context.md)
