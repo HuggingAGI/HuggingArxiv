@@ -336,14 +336,6 @@
 
     - [翻译: 借助时间门控技术，提升视频大型语言模型的时间建模能力](2024年10月08日/Enhancing_Temporal_Modeling_of_Video_LLMs_via_Time_Gating.md)
 
-- [Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective](2024年10月08日/Entering_Real_Social_World!_Benchmarking_the_Theory_of_Mind_and_Socialization_Capabilities_of_LLMs_from_a_First-person_Perspective.md)
-
-    - [翻译: 探索真实社交世界！从第一人称视角评估 LLM 的思维理论与社交能力](2024年10月08日/Entering_Real_Social_World!_Benchmarking_the_Theory_of_Mind_and_Socialization_Capabilities_of_LLMs_from_a_First-person_Perspective.md)
-
-- [Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns](2024年10月08日/Exploring_Large_Language_Models_Through_a_Neurodivergent_Lens_Use,_Challenges,_Community-Driven_Workarounds,_and_Concerns.md)
-
-    - [翻译: 从神经多样性视角审视大型语言模型：应用、挑战、社区智慧的应对策略及关注焦点](2024年10月08日/Exploring_Large_Language_Models_Through_a_Neurodivergent_Lens_Use,_Challenges,_Community-Driven_Workarounds,_and_Concerns.md)
-
 - [Exploring the Meaningfulness of Nearest Neighbor Search in High-Dimensional Space](2024年10月08日/Exploring_the_Meaningfulness_of_Nearest_Neighbor_Search_in_High-Dimensional_Space.md)
 
     - [翻译: 探究高维空间中最近邻搜索的实际意义](2024年10月08日/Exploring_the_Meaningfulness_of_Nearest_Neighbor_Search_in_High-Dimensional_Space.md)
@@ -351,10 +343,6 @@
 - [Fortify Your Foundations: Practical Privacy and Security for Foundation Model Deployments In The Cloud](2024年10月08日/Fortify_Your_Foundations_Practical_Privacy_and_Security_for_Foundation_Model_Deployments_In_The_Cloud.md)
 
     - [翻译: 夯实基础：云端部署中的隐私与安全实践](2024年10月08日/Fortify_Your_Foundations_Practical_Privacy_and_Security_for_Foundation_Model_Deployments_In_The_Cloud.md)
-
-- [From Generalist to Specialist: Adapting Vision Language Models via Task-Specific Visual Instruction Tuning](2024年10月08日/From_Generalist_to_Specialist_Adapting_Vision_Language_Models_via_Task-Specific_Visual_Instruction_Tuning.md)
-
-    - [翻译: 从全能到专精：通过任务导向的视觉指令微调，让视觉语言模型更上一层楼](2024年10月08日/From_Generalist_to_Specialist_Adapting_Vision_Language_Models_via_Task-Specific_Visual_Instruction_Tuning.md)
 
 - [Gradual Learning: Optimizing Fine-Tuning with Partially Mastered Knowledge in Large Language Models](2024年10月08日/Gradual_Learning_Optimizing_Fine-Tuning_with_Partially_Mastered_Knowledge_in_Large_Language_Models.md)
 
@@ -368,25 +356,13 @@
 
     - [翻译: KnowledgeSG：通过服务器知识蒸馏实现隐私保护的合成文本生成](2024年10月08日/KnowledgeSG_Privacy-Preserving_Synthetic_Text_Generation_with_Knowledge_Distillation_from_Server.md)
 
-- [Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA](2024年10月08日/Less_is_More_Making_Smaller_Language_Models_Competent_Subgraph_Retrievers_for_Multi-hop_KGQA.md)
-
-    - [翻译: 小而精：让小型语言模型也能胜任多跳 KGQA 的子图检索任务](2024年10月08日/Less_is_More_Making_Smaller_Language_Models_Competent_Subgraph_Retrievers_for_Multi-hop_KGQA.md)
-
 - [LightRAG: Simple and Fast Retrieval-Augmented Generation](2024年10月08日/LightRAG_Simple_and_Fast_Retrieval-Augmented_Generation.md)
 
     - [翻译: LightRAG：一种既简单又高效的检索增强生成方法](2024年10月08日/LightRAG_Simple_and_Fast_Retrieval-Augmented_Generation.md)
 
-- [LLM Compression with Neural Architecture Search](2024年10月08日/LLM_Compression_with_Neural_Architecture_Search.md)
-
-    - [翻译: 通过神经架构搜索实现 LLM 压缩](2024年10月08日/LLM_Compression_with_Neural_Architecture_Search.md)
-
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](2024年10月08日/Long-Context_LLMs_Meet_RAG_Overcoming_Challenges_for_Long_Inputs_in_RAG.md)
 
     - [翻译: 长上下文 LLM 与 RAG 相遇：解决 RAG 中长输入的难题](2024年10月08日/Long-Context_LLMs_Meet_RAG_Overcoming_Challenges_for_Long_Inputs_in_RAG.md)
-
-- [MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data](2024年10月08日/MaD-Scientist_AI-based_Scientist_solving_Convection-Diffusion-Reaction_Equations_Using_Massive_PINN-Based_Prior_Data.md)
-
-    - [翻译: MaD-Scientist：这位 AI 科学家利用海量 PINN 先验数据，轻松破解对流-扩散-反应方程难题。](2024年10月08日/MaD-Scientist_AI-based_Scientist_solving_Convection-Diffusion-Reaction_Equations_Using_Massive_PINN-Based_Prior_Data.md)
 
 - [Multi-Session Client-Centered Treatment Outcome Evaluation in Psychotherapy](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
 
