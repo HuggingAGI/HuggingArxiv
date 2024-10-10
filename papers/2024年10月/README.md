@@ -332,14 +332,6 @@
 
     - [翻译: CASA：视觉-语言模型中，类不可知的共享属性助力高效增量对象检测](2024年10月08日/CASA_Class-Agnostic_Shared_Attributes_in_Vision-Language_Models_for_Efficient_Incremental_Object_Detection.md)
 
-- [Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning](2024年10月08日/Coevolving_with_the_Other_You_Fine-Tuning_LLM_with_Sequential_Cooperative_Multi-Agent_Reinforcement_Learning.md)
-
-    - [翻译: 与“另一个你”共同成长：通过顺序合作多智能体强化学习微调 LLM](2024年10月08日/Coevolving_with_the_Other_You_Fine-Tuning_LLM_with_Sequential_Cooperative_Multi-Agent_Reinforcement_Learning.md)
-
-- [ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution](2024年10月08日/ConceptAgent_LLM-Driven_Precondition_Grounding_and_Tree_Search_for_Robust_Task_Planning_and_Execution.md)
-
-    - [翻译: ConceptAgent：利用 LLM 进行先决条件基础和树搜索，实现稳健的任务规划与执行](2024年10月08日/ConceptAgent_LLM-Driven_Precondition_Grounding_and_Tree_Search_for_Robust_Task_Planning_and_Execution.md)
-
 - [Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs](2024年10月08日/Copiloting_Diagnosis_of_Autism_in_Real_Clinical_Scenarios_via_LLMs.md)
 
     - [翻译: 利用 LLM 在实际临床环境中辅助自闭症诊断](2024年10月08日/Copiloting_Diagnosis_of_Autism_in_Real_Clinical_Scenarios_via_LLMs.md)
@@ -351,10 +343,6 @@
 - [Does Spatial Cognition Emerge in Frontier Models?](2024年10月08日/Does_Spatial_Cognition_Emerge_in_Frontier_Models.md)
 
     - [翻译: 前沿模型中，空间认知是否悄然萌芽？](2024年10月08日/Does_Spatial_Cognition_Emerge_in_Frontier_Models.md)
-
-- [Do great minds think alike? Investigating Human-AI Complementarity in Question Answering with CAIMIRA](2024年10月08日/Do_great_minds_think_alike_Investigating_Human-AI_Complementarity_in_Question_Answering_with_CAIMIRA.md)
-
-    - [翻译: 伟大的头脑是否思考相似？通过 CAIMIRA，我们探讨人类与 AI 在问答中的互补性。](2024年10月08日/Do_great_minds_think_alike_Investigating_Human-AI_Complementarity_in_Question_Answering_with_CAIMIRA.md)
 
 - [EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment](2024年10月08日/EMMA_Empowering_Multi-modal_Mamba_with_Structural_and_Hierarchical_Alignment.md)
 
@@ -416,10 +404,6 @@
 
     - [翻译: KnowledgeSG：通过服务器知识蒸馏实现隐私保护的合成文本生成](2024年10月08日/KnowledgeSG_Privacy-Preserving_Synthetic_Text_Generation_with_Knowledge_Distillation_from_Server.md)
 
-- [Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation](2024年10月08日/Language-Assisted_Human_Part_Motion_Learning_for_Skeleton-Based_Temporal_Action_Segmentation.md)
-
-    - [翻译: 语言助力骨架动作分割：人体运动学习新篇章](2024年10月08日/Language-Assisted_Human_Part_Motion_Learning_for_Skeleton-Based_Temporal_Action_Segmentation.md)
-
 - [Large Language Model Enhanced Text-to-SQL Generation: A Survey](2024年10月08日/Large_Language_Model_Enhanced_Text-to-SQL_Generation_A_Survey.md)
 
     - [翻译: 大型语言模型助力文本转SQL生成：全面调查](2024年10月08日/Large_Language_Model_Enhanced_Text-to-SQL_Generation_A_Survey.md)
@@ -435,10 +419,6 @@
 - [Linking Code and Documentation Churn: Preliminary Analysis](2024年10月08日/Linking_Code_and_Documentation_Churn_Preliminary_Analysis.md)
 
     - [翻译: 代码与文档变动的关联性：初步探究](2024年10月08日/Linking_Code_and_Documentation_Churn_Preliminary_Analysis.md)
-
-- [LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs](2024年10月08日/LLM-based_SPARQL_Query_Generation_from_Natural_Language_over_Federated_Knowledge_Graphs.md)
-
-    - [翻译: 基于 LLM 的 SPARQL 查询生成：从自然语言到联合知识图谱](2024年10月08日/LLM-based_SPARQL_Query_Generation_from_Natural_Language_over_Federated_Knowledge_Graphs.md)
 
 - [LLM Compression with Neural Architecture Search](2024年10月08日/LLM_Compression_with_Neural_Architecture_Search.md)
 
@@ -463,10 +443,6 @@
 - [Multi-Session Client-Centered Treatment Outcome Evaluation in Psychotherapy](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
 
     - [翻译: 心理治疗中的多会话客户中心治疗效果评估](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
-
-- [OrionNav: Online Planning for Robot Autonomy with Context-Aware LLM and Open-Vocabulary Semantic Scene Graphs](2024年10月08日/OrionNav_Online_Planning_for_Robot_Autonomy_with_Context-Aware_LLM_and_Open-Vocabulary_Semantic_Scene_Graphs.md)
-
-    - [翻译: OrionNav：结合上下文感知 LLM 与开放词汇语义场景图，实现机器人自主在线规划。](2024年10月08日/OrionNav_Online_Planning_for_Robot_Autonomy_with_Context-Aware_LLM_and_Open-Vocabulary_Semantic_Scene_Graphs.md)
 
 - [Probing Language Models on Their Knowledge Source](2024年10月08日/Probing_Language_Models_on_Their_Knowledge_Source.md)
 
