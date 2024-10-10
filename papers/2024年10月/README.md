@@ -316,10 +316,6 @@
 
     - [翻译: 深度学习中的二阶优化器，具备自适应梯度缩放功能](2024年10月08日/A_second-order-like_optimizer_with_adaptive_gradient_scaling_for_deep_learning.md)
 
-- [Auto-Evolve: Enhancing Large Language Model's Performance via Self-Reasoning Framework](2024年10月08日/Auto-Evolve_Enhancing_Large_Language_Model's_Performance_via_Self-Reasoning_Framework.md)
-
-    - [翻译: Auto-Evolve：借助自我推理框架，提升大型语言模型的表现](2024年10月08日/Auto-Evolve_Enhancing_Large_Language_Model's_Performance_via_Self-Reasoning_Framework.md)
-
 - [CASA: Class-Agnostic Shared Attributes in Vision-Language Models for Efficient Incremental Object Detection](2024年10月08日/CASA_Class-Agnostic_Shared_Attributes_in_Vision-Language_Models_for_Efficient_Incremental_Object_Detection.md)
 
     - [翻译: CASA：视觉-语言模型中，类不可知的共享属性助力高效增量对象检测](2024年10月08日/CASA_Class-Agnostic_Shared_Attributes_in_Vision-Language_Models_for_Efficient_Incremental_Object_Detection.md)
@@ -343,10 +339,6 @@
 - [Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective](2024年10月08日/Entering_Real_Social_World!_Benchmarking_the_Theory_of_Mind_and_Socialization_Capabilities_of_LLMs_from_a_First-person_Perspective.md)
 
     - [翻译: 探索真实社交世界！从第一人称视角评估 LLM 的思维理论与社交能力](2024年10月08日/Entering_Real_Social_World!_Benchmarking_the_Theory_of_Mind_and_Socialization_Capabilities_of_LLMs_from_a_First-person_Perspective.md)
-
-- [ERVQA: A Dataset to Benchmark the Readiness of Large Vision Language Models in Hospital Environments](2024年10月08日/ERVQA_A_Dataset_to_Benchmark_the_Readiness_of_Large_Vision_Language_Models_in_Hospital_Environments.md)
-
-    - [翻译: ERVQA：一款专为评估大型视觉语言模型在医院环境中的应用准备度而设计的基准数据集](2024年10月08日/ERVQA_A_Dataset_to_Benchmark_the_Readiness_of_Large_Vision_Language_Models_in_Hospital_Environments.md)
 
 - [Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns](2024年10月08日/Exploring_Large_Language_Models_Through_a_Neurodivergent_Lens_Use,_Challenges,_Community-Driven_Workarounds,_and_Concerns.md)
 
@@ -372,10 +364,6 @@
 
     - [翻译: “定位”是否足够？探讨视频对话中的双重时间定位技术。](2024年10月08日/Grounding_is_All_You_Need_Dual_Temporal_Grounding_for_Video_Dialog.md)
 
-- [Jet Expansions of Residual Computation](2024年10月08日/Jet_Expansions_of_Residual_Computation.md)
-
-    - [翻译: 残差计算的喷气扩展技术](2024年10月08日/Jet_Expansions_of_Residual_Computation.md)
-
 - [KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server](2024年10月08日/KnowledgeSG_Privacy-Preserving_Synthetic_Text_Generation_with_Knowledge_Distillation_from_Server.md)
 
     - [翻译: KnowledgeSG：通过服务器知识蒸馏实现隐私保护的合成文本生成](2024年10月08日/KnowledgeSG_Privacy-Preserving_Synthetic_Text_Generation_with_Knowledge_Distillation_from_Server.md)
@@ -387,10 +375,6 @@
 - [LightRAG: Simple and Fast Retrieval-Augmented Generation](2024年10月08日/LightRAG_Simple_and_Fast_Retrieval-Augmented_Generation.md)
 
     - [翻译: LightRAG：一种既简单又高效的检索增强生成方法](2024年10月08日/LightRAG_Simple_and_Fast_Retrieval-Augmented_Generation.md)
-
-- [Linking Code and Documentation Churn: Preliminary Analysis](2024年10月08日/Linking_Code_and_Documentation_Churn_Preliminary_Analysis.md)
-
-    - [翻译: 代码与文档变动的关联性：初步探究](2024年10月08日/Linking_Code_and_Documentation_Churn_Preliminary_Analysis.md)
 
 - [LLM Compression with Neural Architecture Search](2024年10月08日/LLM_Compression_with_Neural_Architecture_Search.md)
 
@@ -420,10 +404,6 @@
 
     - [翻译: RLRF4Rec：通过推荐系统反馈的强化学习，提升推荐重排序效果](2024年10月08日/RLRF4Rec_Reinforcement_Learning_from_Recsys_Feedback_for_Enhanced_Recommendation_Reranking.md)
 
-- [SpaLLM: Unified Compressive Adaptation of Large Language Models with Sketching](2024年10月08日/SpaLLM_Unified_Compressive_Adaptation_of_Large_Language_Models_with_Sketching.md)
-
-    - [翻译: SpaLLM：通过草图技术实现大型语言模型的统一压缩适应](2024年10月08日/SpaLLM_Unified_Compressive_Adaptation_of_Large_Language_Models_with_Sketching.md)
-
 - [Time Transfer: On Optimal Learning Rate and Batch Size In The Infinite Data Limit](2024年10月08日/Time_Transfer_On_Optimal_Learning_Rate_and_Batch_Size_In_The_Infinite_Data_Limit.md)
 
     - [翻译: 时间转移：探索无限数据条件下最优学习率与批量大小的奥秘](2024年10月08日/Time_Transfer_On_Optimal_Learning_Rate_and_Batch_Size_In_The_Infinite_Data_Limit.md)
@@ -435,7 +415,3 @@
 - [Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought](2024年10月08日/Unlocking_the_Boundaries_of_Thought_A_Reasoning_Granularity_Framework_to_Quantify_and_Optimize_Chain-of-Thought.md)
 
     - [翻译: 突破思维界限：构建推理粒度框架，量化并优化思维链](2024年10月08日/Unlocking_the_Boundaries_of_Thought_A_Reasoning_Granularity_Framework_to_Quantify_and_Optimize_Chain-of-Thought.md)
-
-- [WAPITI: A Watermark for Finetuned Open-Source LLMs](2024年10月08日/WAPITI_A_Watermark_for_Finetuned_Open-Source_LLMs.md)
-
-    - [翻译: WAPITI：为微调开源 LLM 打造的水印](2024年10月08日/WAPITI_A_Watermark_for_Finetuned_Open-Source_LLMs.md)
