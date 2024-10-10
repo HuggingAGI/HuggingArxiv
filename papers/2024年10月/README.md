@@ -534,25 +534,9 @@
 
 2024年10月07日
 
-- [Adaptation Odyssey in LLMs: Why Does Additional Pretraining Sometimes Fail to Improve?](2024年10月07日/Adaptation_Odyssey_in_LLMs_Why_Does_Additional_Pretraining_Sometimes_Fail_to_Improve.md)
-
-    - [翻译: LLM 的适应之旅：为何额外预训练有时未能带来提升？](2024年10月07日/Adaptation_Odyssey_in_LLMs_Why_Does_Additional_Pretraining_Sometimes_Fail_to_Improve.md)
-
 - [Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback](2024年10月07日/Better_than_Your_Teacher_LLM_Agents_that_learn_from_Privileged_AI_Feedback.md)
 
     - [翻译: 超越导师：LLM 代理从特权 AI 反馈中学习](2024年10月07日/Better_than_Your_Teacher_LLM_Agents_that_learn_from_Privileged_AI_Feedback.md)
-
-- [ClaimBrush: A Novel Framework for Automated Patent Claim Refinement Based on Large Language Models](2024年10月07日/ClaimBrush_A_Novel_Framework_for_Automated_Patent_Claim_Refinement_Based_on_Large_Language_Models.md)
-
-    - [翻译: ClaimBrush：基于大型语言模型的专利声明自动化改进新框架](2024年10月07日/ClaimBrush_A_Novel_Framework_for_Automated_Patent_Claim_Refinement_Based_on_Large_Language_Models.md)
-
-- [Conversate: Supporting Reflective Learning in Interview Practice Through Interactive Simulation and Dialogic Feedback](2024年10月07日/Conversate_Supporting_Reflective_Learning_in_Interview_Practice_Through_Interactive_Simulation_and_Dialogic_Feedback.md)
-
-    - [翻译: Conversate：借助交互模拟与对话反馈，助力面试练习中的反思学习](2024年10月07日/Conversate_Supporting_Reflective_Learning_in_Interview_Practice_Through_Interactive_Simulation_and_Dialogic_Feedback.md)
-
-- [Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition](2024年10月07日/Everything_Everywhere_All_at_Once_LLMs_can_In-Context_Learn_Multiple_Tasks_in_Superposition.md)
-
-    - [翻译: LLM 能够瞬间掌握多任务，一切尽在超位置中的上下文学习。](2024年10月07日/Everything_Everywhere_All_at_Once_LLMs_can_In-Context_Learn_Multiple_Tasks_in_Superposition.md)
 
 - [Intuitions of Compromise: Utilitarianism vs. Contractualism](2024年10月07日/Intuitions_of_Compromise_Utilitarianism_vs._Contractualism.md)
 
@@ -561,10 +545,6 @@
 - [ParallelSpec: Parallel Drafter for Efficient Speculative Decoding](2024年10月07日/ParallelSpec_Parallel_Drafter_for_Efficient_Speculative_Decoding.md)
 
     - [翻译: ParallelSpec：高效推测解码的并行起草工具](2024年10月07日/ParallelSpec_Parallel_Drafter_for_Efficient_Speculative_Decoding.md)
-
-- [Rational Metareasoning for Large Language Models](2024年10月07日/Rational_Metareasoning_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的理性元推理](2024年10月07日/Rational_Metareasoning_for_Large_Language_Models.md)
 
 - [R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?](2024年10月07日/R-Bench_Are_your_Large_Multimodal_Model_Robust_to_Real-world_Corruptions.md)
 
@@ -577,10 +557,6 @@
 - [RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction](2024年10月07日/RespLLM_Unifying_Audio_and_Text_with_Multimodal_LLMs_for_Generalized_Respiratory_Health_Prediction.md)
 
     - [翻译: RespLLM：融合音频与文本的多模态 LLM，助力广义呼吸健康预测](2024年10月07日/RespLLM_Unifying_Audio_and_Text_with_Multimodal_LLMs_for_Generalized_Respiratory_Health_Prediction.md)
-
-- [Scaling Laws Across Model Architectures: A Comparative Analysis of Dense and MoE Models in Large Language Models](2024年10月07日/Scaling_Laws_Across_Model_Architectures_A_Comparative_Analysis_of_Dense_and_MoE_Models_in_Large_Language_Models.md)
-
-    - [翻译: 探索大型语言模型中密集模型与MoE模型的扩展规律，进行深入的比较分析。](2024年10月07日/Scaling_Laws_Across_Model_Architectures_A_Comparative_Analysis_of_Dense_and_MoE_Models_in_Large_Language_Models.md)
 
 - [Transformers learn variable-order Markov chains in-context](2024年10月07日/Transformers_learn_variable-order_Markov_chains_in-context.md)
 
