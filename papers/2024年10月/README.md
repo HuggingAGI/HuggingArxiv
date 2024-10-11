@@ -316,10 +316,6 @@
 
     - [翻译: DA-Code：专为大型语言模型设计的代理数据科学代码生成基准](2024年10月09日/DA-Code_Agent_Data_Science_Code_Generation_Benchmark_for_Large_Language_Models.md)
 
-- [Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate](2024年10月09日/Deciphering_Cross-Modal_Alignment_in_Large_Vision-Language_Models_with_Modality_Integration_Rate.md)
-
-    - [翻译: 探索大型视觉-语言模型中跨模态对齐的奥秘，聚焦模态集成率的影响。](2024年10月09日/Deciphering_Cross-Modal_Alignment_in_Large_Vision-Language_Models_with_Modality_Integration_Rate.md)
-
 - [Decomposing Relationship from 1-to-N into N 1-to-1 for Text-Video Retrieval](2024年10月09日/Decomposing_Relationship_from_1-to-N_into_N_1-to-1_for_Text-Video_Retrieval.md)
 
     - [翻译: 将复杂的 1-to-N 关系拆解为 N 个简单的 1-to-1 关系，以优化文本与视频的匹配检索。](2024年10月09日/Decomposing_Relationship_from_1-to-N_into_N_1-to-1_for_Text-Video_Retrieval.md)
@@ -331,14 +327,6 @@
 - [Detecting Training Data of Large Language Models via Expectation Maximization](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
 
     - [翻译: 利用期望最大化技术，揭示大型语言模型的训练数据之谜。](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
-
-- [Dissecting Fine-Tuning Unlearning in Large Language Models](2024年10月09日/Dissecting_Fine-Tuning_Unlearning_in_Large_Language_Models.md)
-
-    - [翻译: 深入解析大型语言模型中的微调遗忘现象](2024年10月09日/Dissecting_Fine-Tuning_Unlearning_in_Large_Language_Models.md)
-
-- [Do better language models have crisper vision?](2024年10月09日/Do_better_language_models_have_crisper_vision.md)
-
-    - [翻译: 语言模型越先进，视觉理解是否越精准？](2024年10月09日/Do_better_language_models_have_crisper_vision.md)
 
 - [Do Developers Adopt Green Architectural Tactics for ML-Enabled Systems? A Mining Software Repository Study](2024年10月09日/Do_Developers_Adopt_Green_Architectural_Tactics_for_ML-Enabled_Systems_A_Mining_Software_Repository_Study.md)
 
@@ -403,10 +391,6 @@
 - [Large Language Models as Code Executors: An Exploratory Study](2024年10月09日/Large_Language_Models_as_Code_Executors_An_Exploratory_Study.md)
 
     - [翻译: 大型语言模型：代码执行的新探索](2024年10月09日/Large_Language_Models_as_Code_Executors_An_Exploratory_Study.md)
-
-- [Learning Evolving Tools for Large Language Models](2024年10月09日/Learning_Evolving_Tools_for_Large_Language_Models.md)
-
-    - [翻译: 探索大型语言模型的进化学习工具](2024年10月09日/Learning_Evolving_Tools_for_Large_Language_Models.md)
 
 - [Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](2024年10月09日/Let's_Ask_GNN_Empowering_Large_Language_Model_for_Graph_In-Context_Learning.md)
 
@@ -539,14 +523,6 @@
 - [Signal Watermark on Large Language Models](2024年10月09日/Signal_Watermark_on_Large_Language_Models.md)
 
     - [翻译: 大语言模型中的信号水印](2024年10月09日/Signal_Watermark_on_Large_Language_Models.md)
-
-- [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](2024年10月09日/Simplicity_Prevails_Rethinking_Negative_Preference_Optimization_for_LLM_Unlearning.md)
-
-    - [翻译: 简单为王：重新审视 LLM 遗忘中的负偏好优化](2024年10月09日/Simplicity_Prevails_Rethinking_Negative_Preference_Optimization_for_LLM_Unlearning.md)
-
-- [Stanceformer: Target-Aware Transformer for Stance Detection](2024年10月09日/Stanceformer_Target-Aware_Transformer_for_Stance_Detection.md)
-
-    - [翻译: Stanceformer：一种目标感知的 Transformer，专为立场检测而生。](2024年10月09日/Stanceformer_Target-Aware_Transformer_for_Stance_Detection.md)
 
 - [Subtle Errors Matter: Preference Learning via Error-injected Self-editing](2024年10月09日/Subtle_Errors_Matter_Preference_Learning_via_Error-injected_Self-editing.md)
 
