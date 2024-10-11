@@ -284,10 +284,6 @@
 
     - [翻译: DA-Code：专为大型语言模型设计的代理数据科学代码生成基准](2024年10月09日/DA-Code_Agent_Data_Science_Code_Generation_Benchmark_for_Large_Language_Models.md)
 
-- [Decomposing Relationship from 1-to-N into N 1-to-1 for Text-Video Retrieval](2024年10月09日/Decomposing_Relationship_from_1-to-N_into_N_1-to-1_for_Text-Video_Retrieval.md)
-
-    - [翻译: 将复杂的 1-to-N 关系拆解为 N 个简单的 1-to-1 关系，以优化文本与视频的匹配检索。](2024年10月09日/Decomposing_Relationship_from_1-to-N_into_N_1-to-1_for_Text-Video_Retrieval.md)
-
 - [Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare](2024年10月09日/Detecting_Bias_and_Enhancing_Diagnostic_Accuracy_in_Large_Language_Models_for_Healthcare.md)
 
     - [翻译: 在医疗领域的大型语言模型中，检测并消除偏见，提升诊断准确性。](2024年10月09日/Detecting_Bias_and_Enhancing_Diagnostic_Accuracy_in_Large_Language_Models_for_Healthcare.md)
@@ -336,10 +332,6 @@
 
     - [翻译: 大型语言模型：代码执行的新探索](2024年10月09日/Large_Language_Models_as_Code_Executors_An_Exploratory_Study.md)
 
-- [MatMamba: A Matryoshka State Space Model](2024年10月09日/MatMamba_A_Matryoshka_State_Space_Model.md)
-
-    - [翻译: MatMamba：一款如俄罗斯套娃般精巧的状态空间模型](2024年10月09日/MatMamba_A_Matryoshka_State_Space_Model.md)
-
 - [MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
 
     - [翻译: MedImageInsight：一款专为通用医学影像设计的开源嵌入模型](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
@@ -364,25 +356,13 @@
 
     - [翻译: OneNet：一个无需微调的框架，利用大型语言模型提示实现少样本实体链接。](2024年10月09日/OneNet_A_Fine-Tuning_Free_Framework_for_Few-Shot_Entity_Linking_via_Large_Language_Model_Prompting.md)
 
-- [Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models](2024年10月09日/Optimizing_High-Level_Synthesis_Designs_with_Retrieval-Augmented_Large_Language_Models.md)
-
-    - [翻译: 借助检索增强的大型语言模型，优化高级综合设计。](2024年10月09日/Optimizing_High-Level_Synthesis_Designs_with_Retrieval-Augmented_Large_Language_Models.md)
-
 - [Personal Intelligence System UniLM: Hybrid On-Device Small Language Model and Server-Based Large Language Model for Malay Nusantara](2024年10月09日/Personal_Intelligence_System_UniLM_Hybrid_On-Device_Small_Language_Model_and_Server-Based_Large_Language_Model_for_Malay_Nusantara.md)
 
     - [翻译: UniLM 个人智能系统：结合设备端小型模型与服务器端大型模型，专为马来群岛语言设计。](2024年10月09日/Personal_Intelligence_System_UniLM_Hybrid_On-Device_Small_Language_Model_and_Server-Based_Large_Language_Model_for_Malay_Nusantara.md)
 
-- [Personalized Visual Instruction Tuning](2024年10月09日/Personalized_Visual_Instruction_Tuning.md)
-
-    - [翻译: 定制化视觉指导调优](2024年10月09日/Personalized_Visual_Instruction_Tuning.md)
-
 - [PLaMo-100B: A Ground-Up Language Model Designed for Japanese Proficiency](2024年10月09日/PLaMo-100B_A_Ground-Up_Language_Model_Designed_for_Japanese_Proficiency.md)
 
     - [翻译: PLaMo-100B：专为日语精通而生的全新语言模型](2024年10月09日/PLaMo-100B_A_Ground-Up_Language_Model_Designed_for_Japanese_Proficiency.md)
-
-- [PositionID: LLMs can Control Lengths, Copy and Paste with Explicit Positional Awareness](2024年10月09日/PositionID_LLMs_can_Control_Lengths,_Copy_and_Paste_with_Explicit_Positional_Awareness.md)
-
-    - [翻译: PositionID：LLMs 能精准掌控长度，轻松复制粘贴，全因拥有明确的位置感知力。](2024年10月09日/PositionID_LLMs_can_Control_Lengths,_Copy_and_Paste_with_Explicit_Positional_Awareness.md)
 
 - [Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems](2024年10月09日/Prompt_Infection_LLM-to-LLM_Prompt_Injection_within_Multi-Agent_Systems.md)
 
@@ -411,10 +391,6 @@
 - [Seeker: Enhancing Exception Handling in Code with LLM-based Multi-Agent Approach](2024年10月09日/Seeker_Enhancing_Exception_Handling_in_Code_with_LLM-based_Multi-Agent_Approach.md)
 
     - [翻译: Seeker：借助 LLM 多代理技术，提升代码异常处理的效率](2024年10月09日/Seeker_Enhancing_Exception_Handling_in_Code_with_LLM-based_Multi-Agent_Approach.md)
-
-- [Self-Boosting Large Language Models with Synthetic Preference Data](2024年10月09日/Self-Boosting_Large_Language_Models_with_Synthetic_Preference_Data.md)
-
-    - [翻译: 通过合成偏好数据，大型语言模型实现自我提升](2024年10月09日/Self-Boosting_Large_Language_Models_with_Synthetic_Preference_Data.md)
 
 - [Signal Watermark on Large Language Models](2024年10月09日/Signal_Watermark_on_Large_Language_Models.md)
 
