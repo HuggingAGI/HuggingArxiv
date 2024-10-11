@@ -292,10 +292,6 @@
 
     - [翻译: CrossQuant：一种精准压缩大型语言模型的后训练量化方法，采用更小的量化核，提升压缩效率。](2024年10月09日/CrossQuant_A_Post-Training_Quantization_Method_with_Smaller_Quantization_Kernel_for_Precise_Large_Language_Model_Compression.md)
 
-- [CursorCore: Assist Programming through Aligning Anything](2024年10月09日/CursorCore_Assist_Programming_through_Aligning_Anything.md)
-
-    - [翻译: CursorCore：以万物对齐之力，助你编程一臂之力](2024年10月09日/CursorCore_Assist_Programming_through_Aligning_Anything.md)
-
 - [DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models](2024年10月09日/DA-Code_Agent_Data_Science_Code_Generation_Benchmark_for_Large_Language_Models.md)
 
     - [翻译: DA-Code：专为大型语言模型设计的代理数据科学代码生成基准](2024年10月09日/DA-Code_Agent_Data_Science_Code_Generation_Benchmark_for_Large_Language_Models.md)
@@ -320,10 +316,6 @@
 
     - [翻译: 自注意力模型中的动态亚稳态](2024年10月09日/Dynamic_metastability_in_the_self-attention_model.md)
 
-- [Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](2024年10月09日/Embodied_Agent_Interface_Benchmarking_LLMs_for_Embodied_Decision_Making.md)
-
-    - [翻译: 具身代理接口：为具身决策任务对 LLM 进行基准测试](2024年10月09日/Embodied_Agent_Interface_Benchmarking_LLMs_for_Embodied_Decision_Making.md)
-
 - [Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
 
     - [翻译: 探索并增强基于 LLM 的自动化程序修复的鲁棒性，借助变异测试的力量。](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
@@ -347,10 +339,6 @@
 - [Generative Model for Less-Resourced Language with 1 billion parameters](2024年10月09日/Generative_Model_for_Less-Resourced_Language_with_1_billion_parameters.md)
 
     - [翻译: 10亿参数助力低资源语言生成模型](2024年10月09日/Generative_Model_for_Less-Resourced_Language_with_1_billion_parameters.md)
-
-- [HERM: Benchmarking and Enhancing Multimodal LLMs for Human-Centric Understanding](2024年10月09日/HERM_Benchmarking_and_Enhancing_Multimodal_LLMs_for_Human-Centric_Understanding.md)
-
-    - [翻译: HERM：以人为本，提升多模态 LLM 的理解力与基准测试](2024年10月09日/HERM_Benchmarking_and_Enhancing_Multimodal_LLMs_for_Human-Centric_Understanding.md)
 
 - [How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?](2024年10月09日/How_Does_Vision-Language_Adaptation_Impact_the_Safety_of_Vision_Language_Models.md)
 
@@ -391,10 +379,6 @@
 - [Mind Your Questions Towards Backdoor Attacks on Text-to-Visualization Models](2024年10月09日/Mind_Your_Questions_Towards_Backdoor_Attacks_on_Text-to-Visualization_Models.md)
 
     - [翻译: 小心提问：揭秘文本到可视化模型的后门攻击](2024年10月09日/Mind_Your_Questions_Towards_Backdoor_Attacks_on_Text-to-Visualization_Models.md)
-
-- [Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing](2024年10月09日/Mitigating_the_Language_Mismatch_and_Repetition_Issues_in_LLM-based_Machine_Translation_via_Model_Editing.md)
-
-    - [翻译: 通过模型编辑技术，我们致力于解决基于LLM的机器翻译中存在的语言不匹配和重复问题。](2024年10月09日/Mitigating_the_Language_Mismatch_and_Repetition_Issues_in_LLM-based_Machine_Translation_via_Model_Editing.md)
 
 - [MKGL: Mastery of a Three-Word Language](2024年10月09日/MKGL_Mastery_of_a_Three-Word_Language.md)
 
@@ -459,10 +443,6 @@
 - [Reducing the Cost of Dropout in Flash-Attention by Hiding RNG with GEMM](2024年10月09日/Reducing_the_Cost_of_Dropout_in_Flash-Attention_by_Hiding_RNG_with_GEMM.md)
 
     - [翻译: 借助 GEMM 隐藏 RNG，巧妙降低 Flash-Attention 中 Dropout 的开销。](2024年10月09日/Reducing_the_Cost_of_Dropout_in_Flash-Attention_by_Hiding_RNG_with_GEMM.md)
-
-- [ReIFE: Re-evaluating Instruction-Following Evaluation](2024年10月09日/ReIFE_Re-evaluating_Instruction-Following_Evaluation.md)
-
-    - [翻译: ReIFE：重新审视指令跟随的评估标准](2024年10月09日/ReIFE_Re-evaluating_Instruction-Following_Evaluation.md)
 
 - [Reproducing and Extending Experiments in Behavioral Strategy with Large Language Models](2024年10月09日/Reproducing_and_Extending_Experiments_in_Behavioral_Strategy_with_Large_Language_Models.md)
 
@@ -539,10 +519,6 @@
 - [Using LLMs to Discover Legal Factors](2024年10月09日/Using_LLMs_to_Discover_Legal_Factors.md)
 
     - [翻译: 利用 LLM 探索法律因素](2024年10月09日/Using_LLMs_to_Discover_Legal_Factors.md)
-
-- [Utilize the Flow before Stepping into the Same River Twice: Certainty Represented Knowledge Flow for Refusal-Aware Instruction Tuning](2024年10月09日/Utilize_the_Flow_before_Stepping_into_the_Same_River_Twice_Certainty_Represented_Knowledge_Flow_for_Refusal-Aware_Instruction_Tuning.md)
-
-    - [翻译: 在两次踏入同一条河流之前，利用流动的确定性知识进行拒绝感知的指令调优。](2024年10月09日/Utilize_the_Flow_before_Stepping_into_the_Same_River_Twice_Certainty_Represented_Knowledge_Flow_for_Refusal-Aware_Instruction_Tuning.md)
 
 - [WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents](2024年10月09日/WALL-E_World_Alignment_by_Rule_Learning_Improves_World_Model-based_LLM_Agents.md)
 
