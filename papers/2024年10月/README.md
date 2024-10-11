@@ -280,10 +280,6 @@
 
     - [翻译: 优化大型语言模型的概率表达](2024年10月09日/Calibrating_Verbalized_Probabilities_for_Large_Language_Models.md)
 
-- [CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models](2024年10月09日/CoBa_Convergence_Balancer_for_Multitask_Finetuning_of_Large_Language_Models.md)
-
-    - [翻译: CoBa：为大型语言模型的多任务微调提供收敛平衡](2024年10月09日/CoBa_Convergence_Balancer_for_Multitask_Finetuning_of_Large_Language_Models.md)
-
 - [COMMA: A Communicative Multimodal Multi-Agent Benchmark](2024年10月09日/COMMA_A_Communicative_Multimodal_Multi-Agent_Benchmark.md)
 
     - [翻译: COMMA：一个多模态多代理的交流基准](2024年10月09日/COMMA_A_Communicative_Multimodal_Multi-Agent_Benchmark.md)
@@ -319,10 +315,6 @@
 - [Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
 
     - [翻译: 探索并增强基于 LLM 的自动化程序修复的鲁棒性，借助变异测试的力量。](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
-
-- [From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models](2024年10月09日/From_Pixels_to_Tokens_Revisiting_Object_Hallucinations_in_Large_Vision-Language_Models.md)
-
-    - [翻译: 从像素到标记：探索大型视觉-语言模型中的对象幻觉现象](2024年10月09日/From_Pixels_to_Tokens_Revisiting_Object_Hallucinations_in_Large_Vision-Language_Models.md)
 
 - [G$^{2}$TR: Generalized Grounded Temporal Reasoning for Robot Instruction Following by Combining Large Pre-trained Models](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
 
@@ -368,10 +360,6 @@
 
     - [翻译: 小心提问：揭秘文本到可视化模型的后门攻击](2024年10月09日/Mind_Your_Questions_Towards_Backdoor_Attacks_on_Text-to-Visualization_Models.md)
 
-- [MKGL: Mastery of a Three-Word Language](2024年10月09日/MKGL_Mastery_of_a_Three-Word_Language.md)
-
-    - [翻译: MKGL：精通三字语言](2024年10月09日/MKGL_Mastery_of_a_Three-Word_Language.md)
-
 - [MoDEM: Mixture of Domain Expert Models](2024年10月09日/MoDEM_Mixture_of_Domain_Expert_Models.md)
 
     - [翻译: MoDEM：领域专家模型的融合](2024年10月09日/MoDEM_Mixture_of_Domain_Expert_Models.md)
@@ -391,10 +379,6 @@
 - [Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models](2024年10月09日/Optimizing_High-Level_Synthesis_Designs_with_Retrieval-Augmented_Large_Language_Models.md)
 
     - [翻译: 借助检索增强的大型语言模型，优化高级综合设计。](2024年10月09日/Optimizing_High-Level_Synthesis_Designs_with_Retrieval-Augmented_Large_Language_Models.md)
-
-- [Pap2Pat: Towards Automated Paper-to-Patent Drafting using Chunk-based Outline-guided Generation](2024年10月09日/Pap2Pat_Towards_Automated_Paper-to-Patent_Drafting_using_Chunk-based_Outline-guided_Generation.md)
-
-    - [翻译: Pap2Pat：基于块的大纲引导生成，实现论文到专利草稿的自动化。](2024年10月09日/Pap2Pat_Towards_Automated_Paper-to-Patent_Drafting_using_Chunk-based_Outline-guided_Generation.md)
 
 - [Personal Intelligence System UniLM: Hybrid On-Device Small Language Model and Server-Based Large Language Model for Malay Nusantara](2024年10月09日/Personal_Intelligence_System_UniLM_Hybrid_On-Device_Small_Language_Model_and_Server-Based_Large_Language_Model_for_Malay_Nusantara.md)
 
@@ -431,10 +415,6 @@
 - [Retrieval Replace Reduction: An effective visual token reduction method via semantic match](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
 
     - [翻译: 检索替换减少：一种通过语义匹配实现视觉标记高效减少的方法](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
-
-- [Robots in the Middle: Evaluating LLMs in Dispute Resolution](2024年10月09日/Robots_in_the_Middle_Evaluating_LLMs_in_Dispute_Resolution.md)
-
-    - [翻译: 机器人调解：评估 LLM 在争议解决中的应用](2024年10月09日/Robots_in_the_Middle_Evaluating_LLMs_in_Dispute_Resolution.md)
 
 - [Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions](2024年10月09日/Rodimus_Breaking_the_Accuracy-Efficiency_Trade-Off_with_Efficient_Attentions.md)
 
@@ -499,10 +479,6 @@
 - [WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents](2024年10月09日/WALL-E_World_Alignment_by_Rule_Learning_Improves_World_Model-based_LLM_Agents.md)
 
     - [翻译: WALL-E：借助规则学习，提升基于世界模型的 LLM 代理的世界对齐能力](2024年10月09日/WALL-E_World_Alignment_by_Rule_Learning_Improves_World_Model-based_LLM_Agents.md)
-
-- [Weak-eval-Strong: Evaluating and Eliciting Lateral Thinking of LLMs with Situation Puzzles](2024年10月09日/Weak-eval-Strong_Evaluating_and_Eliciting_Lateral_Thinking_of_LLMs_with_Situation_Puzzles.md)
-
-    - [翻译: 通过情景谜题，我们不仅能评估，还能激发 LLMs 的横向思维，实现“弱评估，强激发”的效果。](2024年10月09日/Weak-eval-Strong_Evaluating_and_Eliciting_Lateral_Thinking_of_LLMs_with_Situation_Puzzles.md)
 
 - [Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?](2024年10月09日/Which_Programming_Language_and_What_Features_at_Pre-training_Stage_Affect_Downstream_Logical_Inference_Performance.md)
 
