@@ -360,10 +360,6 @@
 
     - [翻译: 具身代理接口：为具身决策任务对 LLM 进行基准测试](2024年10月09日/Embodied_Agent_Interface_Benchmarking_LLMs_for_Embodied_Decision_Making.md)
 
-- [EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](2024年10月09日/EvolveDirector_Approaching_Advanced_Text-to-Image_Generation_with_Large_Vision-Language_Models.md)
-
-    - [翻译: EvolveDirector：借助大型视觉-语言模型，迈向高级文本到图像生成的新境界](2024年10月09日/EvolveDirector_Approaching_Advanced_Text-to-Image_Generation_with_Large_Vision-Language_Models.md)
-
 - [Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
 
     - [翻译: 探索并增强基于 LLM 的自动化程序修复的鲁棒性，借助变异测试的力量。](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
@@ -412,10 +408,6 @@
 
     - [翻译: KRAG 框架：法律领域 LLM 的增强之道](2024年10月09日/KRAG_Framework_for_Enhancing_LLMs_in_the_Legal_Domain.md)
 
-- [LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning](2024年10月09日/LaMP_Language-Motion_Pretraining_for_Motion_Generation,_Retrieval,_and_Captioning.md)
-
-    - [翻译: LaMP：一种用于运动生成、检索和字幕的语言与运动预训练模型](2024年10月09日/LaMP_Language-Motion_Pretraining_for_Motion_Generation,_Retrieval,_and_Captioning.md)
-
 - [Large Language Models as Code Executors: An Exploratory Study](2024年10月09日/Large_Language_Models_as_Code_Executors_An_Exploratory_Study.md)
 
     - [翻译: 大型语言模型：代码执行的新探索](2024年10月09日/Large_Language_Models_as_Code_Executors_An_Exploratory_Study.md)
@@ -459,10 +451,6 @@
 - [MoDEM: Mixture of Domain Expert Models](2024年10月09日/MoDEM_Mixture_of_Domain_Expert_Models.md)
 
     - [翻译: MoDEM：领域专家模型的融合](2024年10月09日/MoDEM_Mixture_of_Domain_Expert_Models.md)
-
-- [MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses](2024年10月09日/MOOSE-Chem_Large_Language_Models_for_Rediscovering_Unseen_Chemistry_Scientific_Hypotheses.md)
-
-    - [翻译: MOOSE-Chem：利用大型语言模型，探索并重新发现那些尚未被揭示的化学科学假设。](2024年10月09日/MOOSE-Chem_Large_Language_Models_for_Rediscovering_Unseen_Chemistry_Scientific_Hypotheses.md)
 
 - [News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
 
@@ -568,17 +556,9 @@
 
     - [翻译: 简单为王：重新审视 LLM 遗忘中的负偏好优化](2024年10月09日/Simplicity_Prevails_Rethinking_Negative_Preference_Optimization_for_LLM_Unlearning.md)
 
-- [Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models](2024年10月09日/Sparse_Autoencoders_Reveal_Universal_Feature_Spaces_Across_Large_Language_Models.md)
-
-    - [翻译: 稀疏自编码器揭示了跨大型语言模型的通用特征空间](2024年10月09日/Sparse_Autoencoders_Reveal_Universal_Feature_Spaces_Across_Large_Language_Models.md)
-
 - [Stanceformer: Target-Aware Transformer for Stance Detection](2024年10月09日/Stanceformer_Target-Aware_Transformer_for_Stance_Detection.md)
 
     - [翻译: Stanceformer：一种目标感知的 Transformer，专为立场检测而生。](2024年10月09日/Stanceformer_Target-Aware_Transformer_for_Stance_Detection.md)
-
-- [Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling](2024年10月09日/Stuffed_Mamba_State_Collapse_and_State_Capacity_of_RNN-Based_Long-Context_Modeling.md)
-
-    - [翻译: 填充曼巴：RNN 长上下文建模中的状态崩溃与容量](2024年10月09日/Stuffed_Mamba_State_Collapse_and_State_Capacity_of_RNN-Based_Long-Context_Modeling.md)
 
 - [Subtle Errors Matter: Preference Learning via Error-injected Self-editing](2024年10月09日/Subtle_Errors_Matter_Preference_Learning_via_Error-injected_Self-editing.md)
 
@@ -599,10 +579,6 @@
 - [TinyEmo: Scaling down Emotional Reasoning via Metric Projection](2024年10月09日/TinyEmo_Scaling_down_Emotional_Reasoning_via_Metric_Projection.md)
 
     - [翻译: TinyEmo：通过度量投影简化情感推理](2024年10月09日/TinyEmo_Scaling_down_Emotional_Reasoning_via_Metric_Projection.md)
-
-- [To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models](2024年10月09日/To_Preserve_or_To_Compress_An_In-Depth_Study_of_Connector_Selection_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 在多模态大型语言模型中，连接器的选择是保留还是压缩？本研究将深入探讨这一问题。](2024年10月09日/To_Preserve_or_To_Compress_An_In-Depth_Study_of_Connector_Selection_in_Multimodal_Large_Language_Models.md)
 
 - [Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis](2024年10月09日/Trans4D_Realistic_Geometry-Aware_Transition_for_Compositional_Text-to-4D_Synthesis.md)
 
