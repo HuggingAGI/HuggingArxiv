@@ -612,10 +612,6 @@
 
     - [翻译: 问题树：借助组合性提升结构化问题解决能力](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
 
-- [Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization](2024年10月09日/Tri-Level_Navigator_LLM-Empowered_Tri-Level_Learning_for_Time_Series_OOD_Generalization.md)
-
-    - [翻译: Tri-Level Navigator：借助 LLM 的三级学习，助力时间序列 OOD 泛化](2024年10月09日/Tri-Level_Navigator_LLM-Empowered_Tri-Level_Learning_for_Time_Series_OOD_Generalization.md)
-
 - [TuringQ: Benchmarking AI Comprehension in Theory of Computation](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
 
     - [翻译: TuringQ：理论计算中的 AI 理解力基准测试](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
