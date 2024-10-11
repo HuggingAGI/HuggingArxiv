@@ -264,10 +264,6 @@
 
 2024年10月09日
 
-- [AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models](2024年10月09日/AI-Press_A_Multi-Agent_News_Generating_and_Feedback_Simulation_System_Powered_by_Large_Language_Models.md)
-
-    - [翻译: AI-Press：一款由大型语言模型支持的多智能体新闻生成与反馈模拟系统](2024年10月09日/AI-Press_A_Multi-Agent_News_Generating_and_Feedback_Simulation_System_Powered_by_Large_Language_Models.md)
-
 - [Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models](2024年10月09日/Break_the_Visual_Perception_Adversarial_Attacks_Targeting_Encoded_Visual_Tokens_of_Large_Vision-Language_Models.md)
 
     - [翻译: 颠覆视觉感知：针对大型视觉-语言模型编码视觉标记的对抗攻击](2024年10月09日/Break_the_Visual_Perception_Adversarial_Attacks_Targeting_Encoded_Visual_Tokens_of_Large_Vision-Language_Models.md)
@@ -308,10 +304,6 @@
 
     - [翻译: G$^{2}$TR：结合大型预训练模型，为机器人指令跟随提供广义的时间推理能力](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
 
-- [Generating Origin-Destination Matrices in Neural Spatial Interaction Models](2024年10月09日/Generating_Origin-Destination_Matrices_in_Neural_Spatial_Interaction_Models.md)
-
-    - [翻译: 神经空间交互模型中的起源-目的地矩阵生成](2024年10月09日/Generating_Origin-Destination_Matrices_in_Neural_Spatial_Interaction_Models.md)
-
 - [How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?](2024年10月09日/How_Does_Vision-Language_Adaptation_Impact_the_Safety_of_Vision_Language_Models.md)
 
     - [翻译: 视觉-语言适应如何影响视觉语言模型的安全性？](2024年10月09日/How_Does_Vision-Language_Adaptation_Impact_the_Safety_of_Vision_Language_Models.md)
@@ -319,10 +311,6 @@
 - [ING-VP: MLLMs cannot Play Easy Vision-based Games Yet](2024年10月09日/ING-VP_MLLMs_cannot_Play_Easy_Vision-based_Games_Yet.md)
 
     - [翻译: ING-VP: 多模态大型语言模型尚无法应对简单的视觉游戏挑战](2024年10月09日/ING-VP_MLLMs_cannot_Play_Easy_Vision-based_Games_Yet.md)
-
-- [I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy](2024年10月09日/I_Want_to_Break_Free!_Anti-Social_Behavior_and_Persuasion_Ability_of_LLMs_in_Multi-Agent_Settings_with_Social_Hierarchy.md)
-
-    - [翻译: 渴望自由！在多代理社会层次结构中，LLM 的反社会行为及其说服能力探究](2024年10月09日/I_Want_to_Break_Free!_Anti-Social_Behavior_and_Persuasion_Ability_of_LLMs_in_Multi-Agent_Settings_with_Social_Hierarchy.md)
 
 - [KRAG Framework for Enhancing LLMs in the Legal Domain](2024年10月09日/KRAG_Framework_for_Enhancing_LLMs_in_the_Legal_Domain.md)
 
@@ -335,10 +323,6 @@
 - [MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
 
     - [翻译: MedImageInsight：一款专为通用医学影像设计的开源嵌入模型](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
-
-- [Mind Your Questions Towards Backdoor Attacks on Text-to-Visualization Models](2024年10月09日/Mind_Your_Questions_Towards_Backdoor_Attacks_on_Text-to-Visualization_Models.md)
-
-    - [翻译: 小心提问：揭秘文本到可视化模型的后门攻击](2024年10月09日/Mind_Your_Questions_Towards_Backdoor_Attacks_on_Text-to-Visualization_Models.md)
 
 - [MoDEM: Mixture of Domain Expert Models](2024年10月09日/MoDEM_Mixture_of_Domain_Expert_Models.md)
 
@@ -391,14 +375,6 @@
 - [Seeker: Enhancing Exception Handling in Code with LLM-based Multi-Agent Approach](2024年10月09日/Seeker_Enhancing_Exception_Handling_in_Code_with_LLM-based_Multi-Agent_Approach.md)
 
     - [翻译: Seeker：借助 LLM 多代理技术，提升代码异常处理的效率](2024年10月09日/Seeker_Enhancing_Exception_Handling_in_Code_with_LLM-based_Multi-Agent_Approach.md)
-
-- [Signal Watermark on Large Language Models](2024年10月09日/Signal_Watermark_on_Large_Language_Models.md)
-
-    - [翻译: 大语言模型中的信号水印](2024年10月09日/Signal_Watermark_on_Large_Language_Models.md)
-
-- [Subtle Errors Matter: Preference Learning via Error-injected Self-editing](2024年10月09日/Subtle_Errors_Matter_Preference_Learning_via_Error-injected_Self-editing.md)
-
-    - [翻译: 细微错误不容忽视：借助错误注入的自编辑实现偏好学习](2024年10月09日/Subtle_Errors_Matter_Preference_Learning_via_Error-injected_Self-editing.md)
 
 - [SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration](2024年10月09日/SWIFT_On-the-Fly_Self-Speculative_Decoding_for_LLM_Inference_Acceleration.md)
 
