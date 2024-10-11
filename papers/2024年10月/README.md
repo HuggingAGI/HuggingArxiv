@@ -268,10 +268,6 @@
 
     - [翻译: AI-Press：一款由大型语言模型支持的多智能体新闻生成与反馈模拟系统](2024年10月09日/AI-Press_A_Multi-Agent_News_Generating_and_Feedback_Simulation_System_Powered_by_Large_Language_Models.md)
 
-- [AutoFeedback: An LLM-based Framework for Efficient and Accurate API Request Generation](2024年10月09日/AutoFeedback_An_LLM-based_Framework_for_Efficient_and_Accurate_API_Request_Generation.md)
-
-    - [翻译: AutoFeedback：基于 LLM 的高效精准 API 请求生成框架](2024年10月09日/AutoFeedback_An_LLM-based_Framework_for_Efficient_and_Accurate_API_Request_Generation.md)
-
 - [Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models](2024年10月09日/Break_the_Visual_Perception_Adversarial_Attacks_Targeting_Encoded_Visual_Tokens_of_Large_Vision-Language_Models.md)
 
     - [翻译: 颠覆视觉感知：针对大型视觉-语言模型编码视觉标记的对抗攻击](2024年10月09日/Break_the_Visual_Perception_Adversarial_Attacks_Targeting_Encoded_Visual_Tokens_of_Large_Vision-Language_Models.md)
@@ -279,10 +275,6 @@
 - [Calibrating Verbalized Probabilities for Large Language Models](2024年10月09日/Calibrating_Verbalized_Probabilities_for_Large_Language_Models.md)
 
     - [翻译: 优化大型语言模型的概率表达](2024年10月09日/Calibrating_Verbalized_Probabilities_for_Large_Language_Models.md)
-
-- [COMMA: A Communicative Multimodal Multi-Agent Benchmark](2024年10月09日/COMMA_A_Communicative_Multimodal_Multi-Agent_Benchmark.md)
-
-    - [翻译: COMMA：一个多模态多代理的交流基准](2024年10月09日/COMMA_A_Communicative_Multimodal_Multi-Agent_Benchmark.md)
 
 - [CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression](2024年10月09日/CrossQuant_A_Post-Training_Quantization_Method_with_Smaller_Quantization_Kernel_for_Precise_Large_Language_Model_Compression.md)
 
@@ -335,10 +327,6 @@
 - [I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy](2024年10月09日/I_Want_to_Break_Free!_Anti-Social_Behavior_and_Persuasion_Ability_of_LLMs_in_Multi-Agent_Settings_with_Social_Hierarchy.md)
 
     - [翻译: 渴望自由！在多代理社会层次结构中，LLM 的反社会行为及其说服能力探究](2024年10月09日/I_Want_to_Break_Free!_Anti-Social_Behavior_and_Persuasion_Ability_of_LLMs_in_Multi-Agent_Settings_with_Social_Hierarchy.md)
-
-- [Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity](2024年10月09日/Joint_Fine-tuning_and_Conversion_of_Pretrained_Speech_and_Language_Models_towards_Linear_Complexity.md)
-
-    - [翻译: 联合微调与转换预训练语音和语言模型，以实现线性复杂度](2024年10月09日/Joint_Fine-tuning_and_Conversion_of_Pretrained_Speech_and_Language_Models_towards_Linear_Complexity.md)
 
 - [KRAG Framework for Enhancing LLMs in the Legal Domain](2024年10月09日/KRAG_Framework_for_Enhancing_LLMs_in_the_Legal_Domain.md)
 
@@ -400,10 +388,6 @@
 
     - [翻译: 提示感染：多代理系统中 LLM 间的提示注入](2024年10月09日/Prompt_Infection_LLM-to-LLM_Prompt_Injection_within_Multi-Agent_Systems.md)
 
-- [QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model](2024年10月09日/QuadMamba_Learning_Quadtree-based_Selective_Scan_for_Visual_State_Space_Model.md)
-
-    - [翻译: QuadMamba：利用四叉树学习视觉状态空间模型的选择性扫描](2024年10月09日/QuadMamba_Learning_Quadtree-based_Selective_Scan_for_Visual_State_Space_Model.md)
-
 - [RealVul: Can We Detect Vulnerabilities in Web Applications with LLM?](2024年10月09日/RealVul_Can_We_Detect_Vulnerabilities_in_Web_Applications_with_LLM.md)
 
     - [翻译: RealVul: LLM 能否助力我们发现 Web 应用中的漏洞？](2024年10月09日/RealVul_Can_We_Detect_Vulnerabilities_in_Web_Applications_with_LLM.md)
@@ -419,10 +403,6 @@
 - [Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions](2024年10月09日/Rodimus_Breaking_the_Accuracy-Efficiency_Trade-Off_with_Efficient_Attentions.md)
 
     - [翻译: Rodimus*：以高效注意力打破准确性与效率的平衡](2024年10月09日/Rodimus_Breaking_the_Accuracy-Efficiency_Trade-Off_with_Efficient_Attentions.md)
-
-- [Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](2024年10月09日/Root_Defence_Strategies_Ensuring_Safety_of_LLM_at_the_Decoding_Level.md)
-
-    - [翻译: 根防御策略：保障 LLM 在解码层面的安全](2024年10月09日/Root_Defence_Strategies_Ensuring_Safety_of_LLM_at_the_Decoding_Level.md)
 
 - [Scaling Laws for Mixed quantization in Large Language Models](2024年10月09日/Scaling_Laws_for_Mixed_quantization_in_Large_Language_Models.md)
 
@@ -447,10 +427,6 @@
 - [SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration](2024年10月09日/SWIFT_On-the-Fly_Self-Speculative_Decoding_for_LLM_Inference_Acceleration.md)
 
     - [翻译: SWIFT：为 LLM 推理加速而生的即时自我推测解码技术](2024年10月09日/SWIFT_On-the-Fly_Self-Speculative_Decoding_for_LLM_Inference_Acceleration.md)
-
-- [The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks](2024年10月09日/The_Cognitive_Capabilities_of_Generative_AI_A_Comparative_Analysis_with_Human_Benchmarks.md)
-
-    - [翻译: 生成式 AI 的认知能力：与人类基准的对比研究](2024年10月09日/The_Cognitive_Capabilities_of_Generative_AI_A_Comparative_Analysis_with_Human_Benchmarks.md)
 
 - [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](2024年10月09日/Thought2Text_Text_Generation_from_EEG_Signal_using_Large_Language_Models_(LLMs).md)
 
