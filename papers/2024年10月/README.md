@@ -316,25 +316,9 @@
 
     - [翻译: 深度学习中的二阶优化器，具备自适应梯度缩放功能](2024年10月08日/A_second-order-like_optimizer_with_adaptive_gradient_scaling_for_deep_learning.md)
 
-- [CASA: Class-Agnostic Shared Attributes in Vision-Language Models for Efficient Incremental Object Detection](2024年10月08日/CASA_Class-Agnostic_Shared_Attributes_in_Vision-Language_Models_for_Efficient_Incremental_Object_Detection.md)
-
-    - [翻译: CASA：视觉-语言模型中，类不可知的共享属性助力高效增量对象检测](2024年10月08日/CASA_Class-Agnostic_Shared_Attributes_in_Vision-Language_Models_for_Efficient_Incremental_Object_Detection.md)
-
-- [Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs](2024年10月08日/Copiloting_Diagnosis_of_Autism_in_Real_Clinical_Scenarios_via_LLMs.md)
-
-    - [翻译: 利用 LLM 在实际临床环境中辅助自闭症诊断](2024年10月08日/Copiloting_Diagnosis_of_Autism_in_Real_Clinical_Scenarios_via_LLMs.md)
-
-- [Counterfactual Causal Inference in Natural Language with Large Language Models](2024年10月08日/Counterfactual_Causal_Inference_in_Natural_Language_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型在自然语言中进行反事实因果推断](2024年10月08日/Counterfactual_Causal_Inference_in_Natural_Language_with_Large_Language_Models.md)
-
 - [EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment](2024年10月08日/EMMA_Empowering_Multi-modal_Mamba_with_Structural_and_Hierarchical_Alignment.md)
 
     - [翻译: EMMA：赋能多模态 Mamba，实现结构与层次的精准对齐](2024年10月08日/EMMA_Empowering_Multi-modal_Mamba_with_Structural_and_Hierarchical_Alignment.md)
-
-- [Enhancing Temporal Modeling of Video LLMs via Time Gating](2024年10月08日/Enhancing_Temporal_Modeling_of_Video_LLMs_via_Time_Gating.md)
-
-    - [翻译: 借助时间门控技术，提升视频大型语言模型的时间建模能力](2024年10月08日/Enhancing_Temporal_Modeling_of_Video_LLMs_via_Time_Gating.md)
 
 - [Exploring the Meaningfulness of Nearest Neighbor Search in High-Dimensional Space](2024年10月08日/Exploring_the_Meaningfulness_of_Nearest_Neighbor_Search_in_High-Dimensional_Space.md)
 
@@ -368,10 +352,6 @@
 
     - [翻译: 心理治疗中的多会话客户中心治疗效果评估](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
 
-- [Probing Language Models on Their Knowledge Source](2024年10月08日/Probing_Language_Models_on_Their_Knowledge_Source.md)
-
-    - [翻译: 探索语言模型如何运用其知识来源](2024年10月08日/Probing_Language_Models_on_Their_Knowledge_Source.md)
-
 - [Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation](2024年10月08日/Retrieving,_Rethinking_and_Revising_The_Chain-of-Verification_Can_Improve_Retrieval_Augmented_Generation.md)
 
     - [翻译: 通过检索、重新思考和修订的验证链，能够显著提升检索增强生成的质量。](2024年10月08日/Retrieving,_Rethinking_and_Revising_The_Chain-of-Verification_Can_Improve_Retrieval_Augmented_Generation.md)
@@ -379,10 +359,6 @@
 - [RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking](2024年10月08日/RLRF4Rec_Reinforcement_Learning_from_Recsys_Feedback_for_Enhanced_Recommendation_Reranking.md)
 
     - [翻译: RLRF4Rec：通过推荐系统反馈的强化学习，提升推荐重排序效果](2024年10月08日/RLRF4Rec_Reinforcement_Learning_from_Recsys_Feedback_for_Enhanced_Recommendation_Reranking.md)
-
-- [Time Transfer: On Optimal Learning Rate and Batch Size In The Infinite Data Limit](2024年10月08日/Time_Transfer_On_Optimal_Learning_Rate_and_Batch_Size_In_The_Infinite_Data_Limit.md)
-
-    - [翻译: 时间转移：探索无限数据条件下最优学习率与批量大小的奥秘](2024年10月08日/Time_Transfer_On_Optimal_Learning_Rate_and_Batch_Size_In_The_Infinite_Data_Limit.md)
 
 - [Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts](2024年10月08日/Training-Free_Open-Ended_Object_Detection_and_Segmentation_via_Attention_as_Prompts.md)
 
