@@ -1,5 +1,5 @@
 # 基于 LLM 的 SPARQL 查询生成：从自然语言到联合知识图谱
-发布时间：2024年10月08日
+发布时间：2024年10月10日
 
 `知识图谱`
 > LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs
