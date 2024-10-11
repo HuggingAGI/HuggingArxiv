@@ -280,10 +280,6 @@
 
     - [翻译: AutoFeedback：基于 LLM 的高效精准 API 请求生成框架](2024年10月09日/AutoFeedback_An_LLM-based_Framework_for_Efficient_and_Accurate_API_Request_Generation.md)
 
-- [Boosting Few-Shot Detection with Large Language Models and Layout-to-Image Synthesis](2024年10月09日/Boosting_Few-Shot_Detection_with_Large_Language_Models_and_Layout-to-Image_Synthesis.md)
-
-    - [翻译: 借助大型语言模型与布局到图像合成技术，提升少样本检测能力](2024年10月09日/Boosting_Few-Shot_Detection_with_Large_Language_Models_and_Layout-to-Image_Synthesis.md)
-
 - [Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models](2024年10月09日/Break_the_Visual_Perception_Adversarial_Attacks_Targeting_Encoded_Visual_Tokens_of_Large_Vision-Language_Models.md)
 
     - [翻译: 颠覆视觉感知：针对大型视觉-语言模型编码视觉标记的对抗攻击](2024年10月09日/Break_the_Visual_Perception_Adversarial_Attacks_Targeting_Encoded_Visual_Tokens_of_Large_Vision-Language_Models.md)
@@ -335,10 +331,6 @@
 - [Detecting Training Data of Large Language Models via Expectation Maximization](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
 
     - [翻译: 利用期望最大化技术，揭示大型语言模型的训练数据之谜。](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
-
-- [Diamond of Thought: A Design Thinking-Based Framework for LLMs in Wearable Design](2024年10月09日/Diamond_of_Thought_A_Design_Thinking-Based_Framework_for_LLMs_in_Wearable_Design.md)
-
-    - [翻译: 钻石思维：一个基于设计思维的框架，专为大型语言模型在可穿戴设计中的应用而设计。](2024年10月09日/Diamond_of_Thought_A_Design_Thinking-Based_Framework_for_LLMs_in_Wearable_Design.md)
 
 - [Dissecting Fine-Tuning Unlearning in Large Language Models](2024年10月09日/Dissecting_Fine-Tuning_Unlearning_in_Large_Language_Models.md)
 
@@ -423,10 +415,6 @@
 - [MatMamba: A Matryoshka State Space Model](2024年10月09日/MatMamba_A_Matryoshka_State_Space_Model.md)
 
     - [翻译: MatMamba：一款如俄罗斯套娃般精巧的状态空间模型](2024年10月09日/MatMamba_A_Matryoshka_State_Space_Model.md)
-
-- [: Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities](2024年10月09日/_Measuring_Stereotypical_Bias_in_Large_Vision-Language_Models_from_Vision_and_Language_Modalities.md)
-
-    - [翻译: 探究大型视觉-语言模型中，视觉与语言模态下的刻板印象偏差](2024年10月09日/_Measuring_Stereotypical_Bias_in_Large_Vision-Language_Models_from_Vision_and_Language_Modalities.md)
 
 - [MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
 
@@ -580,10 +568,6 @@
 
     - [翻译: TinyEmo：通过度量投影简化情感推理](2024年10月09日/TinyEmo_Scaling_down_Emotional_Reasoning_via_Metric_Projection.md)
 
-- [Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis](2024年10月09日/Trans4D_Realistic_Geometry-Aware_Transition_for_Compositional_Text-to-4D_Synthesis.md)
-
-    - [翻译: Trans4D：实现几何感知的真实过渡，助力组合式文本到4D合成](2024年10月09日/Trans4D_Realistic_Geometry-Aware_Transition_for_Compositional_Text-to-4D_Synthesis.md)
-
 - [Tree of Problems: Improving structured problem solving with compositionality](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
 
     - [翻译: 问题树：借助组合性提升结构化问题解决能力](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
@@ -591,10 +575,6 @@
 - [TuringQ: Benchmarking AI Comprehension in Theory of Computation](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
 
     - [翻译: TuringQ：理论计算中的 AI 理解力基准测试](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
-
-- [Uncovering Factor Level Preferences to Improve Human-Model Alignment](2024年10月09日/Uncovering_Factor_Level_Preferences_to_Improve_Human-Model_Alignment.md)
-
-    - [翻译: 探索因素偏好，优化人机对齐](2024年10月09日/Uncovering_Factor_Level_Preferences_to_Improve_Human-Model_Alignment.md)
 
 - [Unleashing Multi-Hop Reasoning Potential in Large Language Models through Repetition of Misordered Context](2024年10月09日/Unleashing_Multi-Hop_Reasoning_Potential_in_Large_Language_Models_through_Repetition_of_Misordered_Context.md)
 
@@ -619,10 +599,6 @@
 - [Weak-eval-Strong: Evaluating and Eliciting Lateral Thinking of LLMs with Situation Puzzles](2024年10月09日/Weak-eval-Strong_Evaluating_and_Eliciting_Lateral_Thinking_of_LLMs_with_Situation_Puzzles.md)
 
     - [翻译: 通过情景谜题，我们不仅能评估，还能激发 LLMs 的横向思维，实现“弱评估，强激发”的效果。](2024年10月09日/Weak-eval-Strong_Evaluating_and_Eliciting_Lateral_Thinking_of_LLMs_with_Situation_Puzzles.md)
-
-- [What Makes Programmers Laugh? Exploring the Subreddit r/ProgrammerHumor](2024年10月09日/What_Makes_Programmers_Laugh_Exploring_the_Subreddit_rProgrammerHumor.md)
-
-    - [翻译: 程序员的笑点何在？一起来探索 r/ProgrammerHumor 吧！](2024年10月09日/What_Makes_Programmers_Laugh_Exploring_the_Subreddit_rProgrammerHumor.md)
 
 - [Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?](2024年10月09日/Which_Programming_Language_and_What_Features_at_Pre-training_Stage_Affect_Downstream_Logical_Inference_Performance.md)
 
