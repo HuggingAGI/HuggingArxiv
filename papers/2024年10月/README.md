@@ -268,14 +268,6 @@
 
     - [翻译: AI-Press：一款由大型语言模型支持的多智能体新闻生成与反馈模拟系统](2024年10月09日/AI-Press_A_Multi-Agent_News_Generating_and_Feedback_Simulation_System_Powered_by_Large_Language_Models.md)
 
-- [Application of Large Language Models to Quantum State Simulation](2024年10月09日/Application_of_Large_Language_Models_to_Quantum_State_Simulation.md)
-
-    - [翻译: 大型语言模型在量子态模拟领域的应用](2024年10月09日/Application_of_Large_Language_Models_to_Quantum_State_Simulation.md)
-
-- [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](2024年10月09日/Astute_RAG_Overcoming_Imperfect_Retrieval_Augmentation_and_Knowledge_Conflicts_for_Large_Language_Models.md)
-
-    - [翻译: Astute RAG：解决大型语言模型中的检索增强缺陷与知识冲突](2024年10月09日/Astute_RAG_Overcoming_Imperfect_Retrieval_Augmentation_and_Knowledge_Conflicts_for_Large_Language_Models.md)
-
 - [AutoFeedback: An LLM-based Framework for Efficient and Accurate API Request Generation](2024年10月09日/AutoFeedback_An_LLM-based_Framework_for_Efficient_and_Accurate_API_Request_Generation.md)
 
     - [翻译: AutoFeedback：基于 LLM 的高效精准 API 请求生成框架](2024年10月09日/AutoFeedback_An_LLM-based_Framework_for_Efficient_and_Accurate_API_Request_Generation.md)
@@ -287,14 +279,6 @@
 - [Calibrating Verbalized Probabilities for Large Language Models](2024年10月09日/Calibrating_Verbalized_Probabilities_for_Large_Language_Models.md)
 
     - [翻译: 优化大型语言模型的概率表达](2024年10月09日/Calibrating_Verbalized_Probabilities_for_Large_Language_Models.md)
-
-- [Chip-Tuning: Classify Before Language Models Say](2024年10月09日/Chip-Tuning_Classify_Before_Language_Models_Say.md)
-
-    - [翻译: Chip-Tuning：在语言模型发声前先行分类](2024年10月09日/Chip-Tuning_Classify_Before_Language_Models_Say.md)
-
-- [Clean Evaluations on Contaminated Visual Language Models](2024年10月09日/Clean_Evaluations_on_Contaminated_Visual_Language_Models.md)
-
-    - [翻译: 对受污染视觉语言模型的纯净评估](2024年10月09日/Clean_Evaluations_on_Contaminated_Visual_Language_Models.md)
 
 - [CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models](2024年10月09日/CoBa_Convergence_Balancer_for_Multitask_Finetuning_of_Large_Language_Models.md)
 
@@ -392,10 +376,6 @@
 
     - [翻译: 大型语言模型：代码执行的新探索](2024年10月09日/Large_Language_Models_as_Code_Executors_An_Exploratory_Study.md)
 
-- [Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](2024年10月09日/Let's_Ask_GNN_Empowering_Large_Language_Model_for_Graph_In-Context_Learning.md)
-
-    - [翻译: GNN 助力：大型语言模型在图上下文学习中的新篇章](2024年10月09日/Let's_Ask_GNN_Empowering_Large_Language_Model_for_Graph_In-Context_Learning.md)
-
 - [MatMamba: A Matryoshka State Space Model](2024年10月09日/MatMamba_A_Matryoshka_State_Space_Model.md)
 
     - [翻译: MatMamba：一款如俄罗斯套娃般精巧的状态空间模型](2024年10月09日/MatMamba_A_Matryoshka_State_Space_Model.md)
@@ -487,10 +467,6 @@
 - [Reproducing and Extending Experiments in Behavioral Strategy with Large Language Models](2024年10月09日/Reproducing_and_Extending_Experiments_in_Behavioral_Strategy_with_Large_Language_Models.md)
 
     - [翻译: 重现并拓展大型语言模型中的行为策略实验](2024年10月09日/Reproducing_and_Extending_Experiments_in_Behavioral_Strategy_with_Large_Language_Models.md)
-
-- [Retrieval-Augmented Decision Transformer: External Memory for In-context RL](2024年10月09日/Retrieval-Augmented_Decision_Transformer_External_Memory_for_In-context_RL.md)
-
-    - [翻译: 检索增强决策变换器：为上下文强化学习引入外部记忆](2024年10月09日/Retrieval-Augmented_Decision_Transformer_External_Memory_for_In-context_RL.md)
 
 - [Retrieval Replace Reduction: An effective visual token reduction method via semantic match](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
 
