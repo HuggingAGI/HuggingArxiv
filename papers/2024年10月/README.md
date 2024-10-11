@@ -320,10 +320,6 @@
 
     - [翻译: 探索并增强基于 LLM 的自动化程序修复的鲁棒性，借助变异测试的力量。](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
 
-- [FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding](2024年10月09日/FltLM_An_Intergrated_Long-Context_Large_Language_Model_for_Effective_Context_Filtering_and_Understanding.md)
-
-    - [翻译: FltLM：一款集成长上下文的大型语言模型，专为高效上下文过滤与理解而设计。](2024年10月09日/FltLM_An_Intergrated_Long-Context_Large_Language_Model_for_Effective_Context_Filtering_and_Understanding.md)
-
 - [From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models](2024年10月09日/From_Pixels_to_Tokens_Revisiting_Object_Hallucinations_in_Large_Vision-Language_Models.md)
 
     - [翻译: 从像素到标记：探索大型视觉-语言模型中的对象幻觉现象](2024年10月09日/From_Pixels_to_Tokens_Revisiting_Object_Hallucinations_in_Large_Vision-Language_Models.md)
@@ -335,10 +331,6 @@
 - [Generating Origin-Destination Matrices in Neural Spatial Interaction Models](2024年10月09日/Generating_Origin-Destination_Matrices_in_Neural_Spatial_Interaction_Models.md)
 
     - [翻译: 神经空间交互模型中的起源-目的地矩阵生成](2024年10月09日/Generating_Origin-Destination_Matrices_in_Neural_Spatial_Interaction_Models.md)
-
-- [Generative Model for Less-Resourced Language with 1 billion parameters](2024年10月09日/Generative_Model_for_Less-Resourced_Language_with_1_billion_parameters.md)
-
-    - [翻译: 10亿参数助力低资源语言生成模型](2024年10月09日/Generative_Model_for_Less-Resourced_Language_with_1_billion_parameters.md)
 
 - [How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?](2024年10月09日/How_Does_Vision-Language_Adaptation_Impact_the_Safety_of_Vision_Language_Models.md)
 
@@ -372,10 +364,6 @@
 
     - [翻译: MedImageInsight：一款专为通用医学影像设计的开源嵌入模型](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
 
-- [Mental Disorders Detection in the Era of Large Language Models](2024年10月09日/Mental_Disorders_Detection_in_the_Era_of_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型时代的精神障碍检测](2024年10月09日/Mental_Disorders_Detection_in_the_Era_of_Large_Language_Models.md)
-
 - [Mind Your Questions Towards Backdoor Attacks on Text-to-Visualization Models](2024年10月09日/Mind_Your_Questions_Towards_Backdoor_Attacks_on_Text-to-Visualization_Models.md)
 
     - [翻译: 小心提问：揭秘文本到可视化模型的后门攻击](2024年10月09日/Mind_Your_Questions_Towards_Backdoor_Attacks_on_Text-to-Visualization_Models.md)
@@ -395,10 +383,6 @@
 - [No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users](2024年10月09日/No_Free_Lunch_Retrieval-Augmented_Generation_Undermines_Fairness_in_LLMs,_Even_for_Vigilant_Users.md)
 
     - [翻译: 检索增强生成在大型语言模型中损害了公平性，即使是警惕的用户也无法幸免。](2024年10月09日/No_Free_Lunch_Retrieval-Augmented_Generation_Undermines_Fairness_in_LLMs,_Even_for_Vigilant_Users.md)
-
-- [One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation](2024年10月09日/One_Initialization_to_Rule_them_All_Fine-tuning_via_Explained_Variance_Adaptation.md)
-
-    - [翻译: 一种初始化，统领全局：通过解释方差适应实现微调](2024年10月09日/One_Initialization_to_Rule_them_All_Fine-tuning_via_Explained_Variance_Adaptation.md)
 
 - [OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting](2024年10月09日/OneNet_A_Fine-Tuning_Free_Framework_for_Few-Shot_Entity_Linking_via_Large_Language_Model_Prompting.md)
 
@@ -443,10 +427,6 @@
 - [Reducing the Cost of Dropout in Flash-Attention by Hiding RNG with GEMM](2024年10月09日/Reducing_the_Cost_of_Dropout_in_Flash-Attention_by_Hiding_RNG_with_GEMM.md)
 
     - [翻译: 借助 GEMM 隐藏 RNG，巧妙降低 Flash-Attention 中 Dropout 的开销。](2024年10月09日/Reducing_the_Cost_of_Dropout_in_Flash-Attention_by_Hiding_RNG_with_GEMM.md)
-
-- [Reproducing and Extending Experiments in Behavioral Strategy with Large Language Models](2024年10月09日/Reproducing_and_Extending_Experiments_in_Behavioral_Strategy_with_Large_Language_Models.md)
-
-    - [翻译: 重现并拓展大型语言模型中的行为策略实验](2024年10月09日/Reproducing_and_Extending_Experiments_in_Behavioral_Strategy_with_Large_Language_Models.md)
 
 - [Retrieval Replace Reduction: An effective visual token reduction method via semantic match](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
 
@@ -507,10 +487,6 @@
 - [TuringQ: Benchmarking AI Comprehension in Theory of Computation](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
 
     - [翻译: TuringQ：理论计算中的 AI 理解力基准测试](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
-
-- [Unleashing Multi-Hop Reasoning Potential in Large Language Models through Repetition of Misordered Context](2024年10月09日/Unleashing_Multi-Hop_Reasoning_Potential_in_Large_Language_Models_through_Repetition_of_Misordered_Context.md)
-
-    - [翻译: 通过重复错序的上下文，激发大型语言模型中的多跳推理潜能](2024年10月09日/Unleashing_Multi-Hop_Reasoning_Potential_in_Large_Language_Models_through_Repetition_of_Misordered_Context.md)
 
 - [Upcycling Large Language Models into Mixture of Experts](2024年10月09日/Upcycling_Large_Language_Models_into_Mixture_of_Experts.md)
 
