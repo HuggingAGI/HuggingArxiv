@@ -316,18 +316,6 @@
 
     - [翻译: 深度学习中的二阶优化器，具备自适应梯度缩放功能](2024年10月08日/A_second-order-like_optimizer_with_adaptive_gradient_scaling_for_deep_learning.md)
 
-- [EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment](2024年10月08日/EMMA_Empowering_Multi-modal_Mamba_with_Structural_and_Hierarchical_Alignment.md)
-
-    - [翻译: EMMA：赋能多模态 Mamba，实现结构与层次的精准对齐](2024年10月08日/EMMA_Empowering_Multi-modal_Mamba_with_Structural_and_Hierarchical_Alignment.md)
-
-- [Exploring the Meaningfulness of Nearest Neighbor Search in High-Dimensional Space](2024年10月08日/Exploring_the_Meaningfulness_of_Nearest_Neighbor_Search_in_High-Dimensional_Space.md)
-
-    - [翻译: 探究高维空间中最近邻搜索的实际意义](2024年10月08日/Exploring_the_Meaningfulness_of_Nearest_Neighbor_Search_in_High-Dimensional_Space.md)
-
-- [Fortify Your Foundations: Practical Privacy and Security for Foundation Model Deployments In The Cloud](2024年10月08日/Fortify_Your_Foundations_Practical_Privacy_and_Security_for_Foundation_Model_Deployments_In_The_Cloud.md)
-
-    - [翻译: 夯实基础：云端部署中的隐私与安全实践](2024年10月08日/Fortify_Your_Foundations_Practical_Privacy_and_Security_for_Foundation_Model_Deployments_In_The_Cloud.md)
-
 - [Gradual Learning: Optimizing Fine-Tuning with Partially Mastered Knowledge in Large Language Models](2024年10月08日/Gradual_Learning_Optimizing_Fine-Tuning_with_Partially_Mastered_Knowledge_in_Large_Language_Models.md)
 
     - [翻译: 渐进学习：利用大语言模型中已掌握的部分知识，优化微调过程](2024年10月08日/Gradual_Learning_Optimizing_Fine-Tuning_with_Partially_Mastered_Knowledge_in_Large_Language_Models.md)
@@ -340,10 +328,6 @@
 
     - [翻译: KnowledgeSG：通过服务器知识蒸馏实现隐私保护的合成文本生成](2024年10月08日/KnowledgeSG_Privacy-Preserving_Synthetic_Text_Generation_with_Knowledge_Distillation_from_Server.md)
 
-- [LightRAG: Simple and Fast Retrieval-Augmented Generation](2024年10月08日/LightRAG_Simple_and_Fast_Retrieval-Augmented_Generation.md)
-
-    - [翻译: LightRAG：一种既简单又高效的检索增强生成方法](2024年10月08日/LightRAG_Simple_and_Fast_Retrieval-Augmented_Generation.md)
-
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](2024年10月08日/Long-Context_LLMs_Meet_RAG_Overcoming_Challenges_for_Long_Inputs_in_RAG.md)
 
     - [翻译: 长上下文 LLM 与 RAG 相遇：解决 RAG 中长输入的难题](2024年10月08日/Long-Context_LLMs_Meet_RAG_Overcoming_Challenges_for_Long_Inputs_in_RAG.md)
@@ -352,17 +336,9 @@
 
     - [翻译: 心理治疗中的多会话客户中心治疗效果评估](2024年10月08日/Multi-Session_Client-Centered_Treatment_Outcome_Evaluation_in_Psychotherapy.md)
 
-- [Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation](2024年10月08日/Retrieving,_Rethinking_and_Revising_The_Chain-of-Verification_Can_Improve_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 通过检索、重新思考和修订的验证链，能够显著提升检索增强生成的质量。](2024年10月08日/Retrieving,_Rethinking_and_Revising_The_Chain-of-Verification_Can_Improve_Retrieval_Augmented_Generation.md)
-
 - [RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking](2024年10月08日/RLRF4Rec_Reinforcement_Learning_from_Recsys_Feedback_for_Enhanced_Recommendation_Reranking.md)
 
     - [翻译: RLRF4Rec：通过推荐系统反馈的强化学习，提升推荐重排序效果](2024年10月08日/RLRF4Rec_Reinforcement_Learning_from_Recsys_Feedback_for_Enhanced_Recommendation_Reranking.md)
-
-- [Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts](2024年10月08日/Training-Free_Open-Ended_Object_Detection_and_Segmentation_via_Attention_as_Prompts.md)
-
-    - [翻译: 无需训练，借助注意力提示实现开放式对象检测与分割](2024年10月08日/Training-Free_Open-Ended_Object_Detection_and_Segmentation_via_Attention_as_Prompts.md)
 
 - [Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought](2024年10月08日/Unlocking_the_Boundaries_of_Thought_A_Reasoning_Granularity_Framework_to_Quantify_and_Optimize_Chain-of-Thought.md)
 
