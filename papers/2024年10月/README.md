@@ -276,25 +276,9 @@
 
     - [翻译: CrossQuant：一种精准压缩大型语言模型的后训练量化方法，采用更小的量化核，提升压缩效率。](2024年10月09日/CrossQuant_A_Post-Training_Quantization_Method_with_Smaller_Quantization_Kernel_for_Precise_Large_Language_Model_Compression.md)
 
-- [DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models](2024年10月09日/DA-Code_Agent_Data_Science_Code_Generation_Benchmark_for_Large_Language_Models.md)
-
-    - [翻译: DA-Code：专为大型语言模型设计的代理数据科学代码生成基准](2024年10月09日/DA-Code_Agent_Data_Science_Code_Generation_Benchmark_for_Large_Language_Models.md)
-
-- [Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare](2024年10月09日/Detecting_Bias_and_Enhancing_Diagnostic_Accuracy_in_Large_Language_Models_for_Healthcare.md)
-
-    - [翻译: 在医疗领域的大型语言模型中，检测并消除偏见，提升诊断准确性。](2024年10月09日/Detecting_Bias_and_Enhancing_Diagnostic_Accuracy_in_Large_Language_Models_for_Healthcare.md)
-
 - [Detecting Training Data of Large Language Models via Expectation Maximization](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
 
     - [翻译: 利用期望最大化技术，揭示大型语言模型的训练数据之谜。](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
-
-- [Do Developers Adopt Green Architectural Tactics for ML-Enabled Systems? A Mining Software Repository Study](2024年10月09日/Do_Developers_Adopt_Green_Architectural_Tactics_for_ML-Enabled_Systems_A_Mining_Software_Repository_Study.md)
-
-    - [翻译: 开发者会为机器学习系统采用绿色建筑策略吗？这项研究通过挖掘软件仓库来寻找答案。](2024年10月09日/Do_Developers_Adopt_Green_Architectural_Tactics_for_ML-Enabled_Systems_A_Mining_Software_Repository_Study.md)
-
-- [Dynamic metastability in the self-attention model](2024年10月09日/Dynamic_metastability_in_the_self-attention_model.md)
-
-    - [翻译: 自注意力模型中的动态亚稳态](2024年10月09日/Dynamic_metastability_in_the_self-attention_model.md)
 
 - [Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
 
@@ -376,10 +360,6 @@
 
     - [翻译: Seeker：借助 LLM 多代理技术，提升代码异常处理的效率](2024年10月09日/Seeker_Enhancing_Exception_Handling_in_Code_with_LLM-based_Multi-Agent_Approach.md)
 
-- [SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration](2024年10月09日/SWIFT_On-the-Fly_Self-Speculative_Decoding_for_LLM_Inference_Acceleration.md)
-
-    - [翻译: SWIFT：为 LLM 推理加速而生的即时自我推测解码技术](2024年10月09日/SWIFT_On-the-Fly_Self-Speculative_Decoding_for_LLM_Inference_Acceleration.md)
-
 - [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](2024年10月09日/Thought2Text_Text_Generation_from_EEG_Signal_using_Large_Language_Models_(LLMs).md)
 
     - [翻译: Thought2Text：借助 LLM 将 EEG 信号转化为文本](2024年10月09日/Thought2Text_Text_Generation_from_EEG_Signal_using_Large_Language_Models_(LLMs).md)
@@ -407,7 +387,3 @@
 - [WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents](2024年10月09日/WALL-E_World_Alignment_by_Rule_Learning_Improves_World_Model-based_LLM_Agents.md)
 
     - [翻译: WALL-E：借助规则学习，提升基于世界模型的 LLM 代理的世界对齐能力](2024年10月09日/WALL-E_World_Alignment_by_Rule_Learning_Improves_World_Model-based_LLM_Agents.md)
-
-- [Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?](2024年10月09日/Which_Programming_Language_and_What_Features_at_Pre-training_Stage_Affect_Downstream_Logical_Inference_Performance.md)
-
-    - [翻译: 预训练阶段，哪种编程语言及其特征最能提升下游逻辑推理的表现？](2024年10月09日/Which_Programming_Language_and_What_Features_at_Pre-training_Stage_Affect_Downstream_Logical_Inference_Performance.md)
