@@ -18,10 +18,6 @@
 
     - [翻译: 知识图谱能否提升大型语言模型的可信度？本研究通过开放式问答任务进行了实证探索。](2024年10月10日/Can_Knowledge_Graphs_Make_Large_Language_Models_More_Trustworthy_An_Empirical_Study_over_Open-ended_Question_Answering.md)
 
-- [COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act](2024年10月10日/COMPL-AI_Framework_A_Technical_Interpretation_and_LLM_Benchmarking_Suite_for_the_EU_Artificial_Intelligence_Act.md)
-
-    - [翻译: COMPL-AI 框架：深入解读欧盟人工智能法案，并提供 LLM 基准测试工具](2024年10月10日/COMPL-AI_Framework_A_Technical_Interpretation_and_LLM_Benchmarking_Suite_for_the_EU_Artificial_Intelligence_Act.md)
-
 - [DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](2024年10月10日/DelTA_An_Online_Document-Level_Translation_Agent_Based_on_Multi-Level_Memory.md)
 
     - [翻译: DelTA：一款基于多级记忆的在线文档翻译助手](2024年10月10日/DelTA_An_Online_Document-Level_Translation_Agent_Based_on_Multi-Level_Memory.md)
@@ -70,10 +66,6 @@
 
     - [翻译: 洞察力与视觉的较量？探究多模态 LLM 中的视觉与知识冲突](2024年10月10日/Insight_Over_Sight_Exploring_the_Vision-Knowledge_Conflicts_in_Multimodal_LLMs.md)
 
-- [InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions](2024年10月10日/InstructBioMol_Advancing_Biomolecule_Understanding_and_Design_Following_Human_Instructions.md)
-
-    - [翻译: InstructBioMol：引领生物分子理解和设计，遵循人类智慧的指引。](2024年10月10日/InstructBioMol_Advancing_Biomolecule_Understanding_and_Design_Following_Human_Instructions.md)
-
 - [LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts](2024年10月10日/LatteCLIP_Unsupervised_CLIP_Fine-Tuning_via_LMM-Synthetic_Texts.md)
 
     - [翻译: LatteCLIP：利用 LMM 生成的合成文本，实现无监督的 CLIP 微调](2024年10月10日/LatteCLIP_Unsupervised_CLIP_Fine-Tuning_via_LMM-Synthetic_Texts.md)
@@ -81,10 +73,6 @@
 - [LLM Cascade with Multi-Objective Optimal Consideration](2024年10月10日/LLM_Cascade_with_Multi-Objective_Optimal_Consideration.md)
 
     - [翻译: LLM 级联的多目标优化策略](2024年10月10日/LLM_Cascade_with_Multi-Objective_Optimal_Consideration.md)
-
-- [MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization](2024年10月10日/MACPO_Weak-to-Strong_Alignment_via_Multi-Agent_Contrastive_Preference_Optimization.md)
-
-    - [翻译: MACPO：借助多智能体对比偏好优化，实现从弱到强的对齐。](2024年10月10日/MACPO_Weak-to-Strong_Alignment_via_Multi-Agent_Contrastive_Preference_Optimization.md)
 
 - [Mars: Situated Inductive Reasoning in an Open-World Environment](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
 
@@ -114,10 +102,6 @@
 
     - [翻译: 多维度反事实学习助力内容质量评估](2024年10月10日/Multi-Facet_Counterfactual_Learning_for_Content_Quality_Evaluation.md)
 
-- [NLP-Guided Synthesis: Transitioning from Sequential Programs to Distributed Programs](2024年10月10日/NLP-Guided_Synthesis_Transitioning_from_Sequential_Programs_to_Distributed_Programs.md)
-
-    - [翻译: NLP 引导的合成：从顺序程序迈向分布式程序](2024年10月10日/NLP-Guided_Synthesis_Transitioning_from_Sequential_Programs_to_Distributed_Programs.md)
-
 - [NusaMT-7B: Machine Translation for Low-Resource Indonesian Languages with Large Language Models](2024年10月10日/NusaMT-7B_Machine_Translation_for_Low-Resource_Indonesian_Languages_with_Large_Language_Models.md)
 
     - [翻译: NusaMT-7B：借助大型语言模型，为资源匮乏的印尼语提供机器翻译解决方案。](2024年10月10日/NusaMT-7B_Machine_Translation_for_Low-Resource_Indonesian_Languages_with_Large_Language_Models.md)
@@ -137,10 +121,6 @@
 - [Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data](2024年10月10日/Plug-and-Play_Performance_Estimation_for_LLM_Services_without_Relying_on_Labeled_Data.md)
 
     - [翻译: 无需标注数据，实现 LLM 服务的即插即用性能评估](2024年10月10日/Plug-and-Play_Performance_Estimation_for_LLM_Services_without_Relying_on_Labeled_Data.md)
-
-- [QCircuitNet: A Large-Scale Hierarchical Dataset for Quantum Algorithm Design](2024年10月10日/QCircuitNet_A_Large-Scale_Hierarchical_Dataset_for_Quantum_Algorithm_Design.md)
-
-    - [翻译: QCircuitNet：专为量子算法设计打造的大规模分层数据集](2024年10月10日/QCircuitNet_A_Large-Scale_Hierarchical_Dataset_for_Quantum_Algorithm_Design.md)
 
 - [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](2024年10月10日/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)
 
@@ -185,10 +165,6 @@
 - [Unsupervised Data Validation Methods for Efficient Model Training](2024年10月10日/Unsupervised_Data_Validation_Methods_for_Efficient_Model_Training.md)
 
     - [翻译: 无监督数据验证方法助力高效模型训练](2024年10月10日/Unsupervised_Data_Validation_Methods_for_Efficient_Model_Training.md)
-
-- [VerifierQ: Enhancing LLM Test Time Compute with Q-Learning-based Verifiers](2024年10月10日/VerifierQ_Enhancing_LLM_Test_Time_Compute_with_Q-Learning-based_Verifiers.md)
-
-    - [翻译: VerifierQ：利用基于 Q-Learning 的验证器提升 LLM 测试时的计算效率](2024年10月10日/VerifierQ_Enhancing_LLM_Test_Time_Compute_with_Q-Learning-based_Verifiers.md)
 
 - [Visual Scratchpads: Enabling Global Reasoning in Vision](2024年10月10日/Visual_Scratchpads_Enabling_Global_Reasoning_in_Vision.md)
 
