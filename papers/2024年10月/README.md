@@ -2,10 +2,6 @@
 
 2024年10月10日
 
-- [Agent S: An Open Agentic Framework that Uses Computers Like a Human](2024年10月10日/Agent_S_An_Open_Agentic_Framework_that_Uses_Computers_Like_a_Human.md)
-
-    - [翻译: Agent S：一个让计算机像人类一样思考的开放代理框架](2024年10月10日/Agent_S_An_Open_Agentic_Framework_that_Uses_Computers_Like_a_Human.md)
-
 - [Benchmarking Agentic Workflow Generation](2024年10月10日/Benchmarking_Agentic_Workflow_Generation.md)
 
     - [翻译: 代理工作流生成的基准测试](2024年10月10日/Benchmarking_Agentic_Workflow_Generation.md)
@@ -17,10 +13,6 @@
 - [Dialectical Behavior Therapy Approach to LLM Prompting](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
 
     - [翻译: 辩证行为疗法在 LLM 提示中的应用](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
-
-- [Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning](2024年10月10日/Divide_and_Translate_Compositional_First-Order_Logic_Translation_and_Verification_for_Complex_Logical_Reasoning.md)
-
-    - [翻译: 分割翻译法：组合一阶逻辑在复杂推理中的翻译与验证](2024年10月10日/Divide_and_Translate_Compositional_First-Order_Logic_Translation_and_Verification_for_Complex_Logical_Reasoning.md)
 
 - [Efficient Reinforcement Learning with Large Language Model Priors](2024年10月10日/Efficient_Reinforcement_Learning_with_Large_Language_Model_Priors.md)
 
@@ -50,10 +42,6 @@
 
     - [翻译: 洞察力与视觉的较量？探究多模态 LLM 中的视觉与知识冲突](2024年10月10日/Insight_Over_Sight_Exploring_the_Vision-Knowledge_Conflicts_in_Multimodal_LLMs.md)
 
-- [LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts](2024年10月10日/LatteCLIP_Unsupervised_CLIP_Fine-Tuning_via_LMM-Synthetic_Texts.md)
-
-    - [翻译: LatteCLIP：利用 LMM 生成的合成文本，实现无监督的 CLIP 微调](2024年10月10日/LatteCLIP_Unsupervised_CLIP_Fine-Tuning_via_LMM-Synthetic_Texts.md)
-
 - [LLM Cascade with Multi-Objective Optimal Consideration](2024年10月10日/LLM_Cascade_with_Multi-Objective_Optimal_Consideration.md)
 
     - [翻译: LLM 级联的多目标优化策略](2024年10月10日/LLM_Cascade_with_Multi-Objective_Optimal_Consideration.md)
@@ -69,10 +57,6 @@
 - [Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
     - [翻译: 利用自动指标构建用户偏好模型，旨在为机器翻译任务打造一个高质量的偏好数据集。](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
-
-- [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training](2024年10月10日/Mono-InternVL_Pushing_the_Boundaries_of_Monolithic_Multimodal_Large_Language_Models_with_Endogenous_Visual_Pre-training.md)
-
-    - [翻译: Mono-InternVL：借助内生视觉预训练，拓展单体多模态大型语言模型的极限](2024年10月10日/Mono-InternVL_Pushing_the_Boundaries_of_Monolithic_Multimodal_Large_Language_Models_with_Endogenous_Visual_Pre-training.md)
 
 - [MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models](2024年10月10日/MRAG-Bench_Vision-Centric_Evaluation_for_Retrieval-Augmented_Multimodal_Models.md)
 
@@ -133,10 +117,6 @@
 - [Uncovering Overfitting in Large Language Model Editing](2024年10月10日/Uncovering_Overfitting_in_Large_Language_Model_Editing.md)
 
     - [翻译: 揭秘大型语言模型编辑中的过拟合现象](2024年10月10日/Uncovering_Overfitting_in_Large_Language_Model_Editing.md)
-
-- [Unsupervised Data Validation Methods for Efficient Model Training](2024年10月10日/Unsupervised_Data_Validation_Methods_for_Efficient_Model_Training.md)
-
-    - [翻译: 无监督数据验证方法助力高效模型训练](2024年10月10日/Unsupervised_Data_Validation_Methods_for_Efficient_Model_Training.md)
 
 - [Visual Scratchpads: Enabling Global Reasoning in Vision](2024年10月10日/Visual_Scratchpads_Enabling_Global_Reasoning_in_Vision.md)
 
