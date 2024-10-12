@@ -272,10 +272,6 @@
 
     - [翻译: 优化大型语言模型的概率表达](2024年10月09日/Calibrating_Verbalized_Probabilities_for_Large_Language_Models.md)
 
-- [Detecting Training Data of Large Language Models via Expectation Maximization](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
-
-    - [翻译: 利用期望最大化技术，揭示大型语言模型的训练数据之谜。](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
-
 - [G$^{2}$TR: Generalized Grounded Temporal Reasoning for Robot Instruction Following by Combining Large Pre-trained Models](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
 
     - [翻译: G$^{2}$TR：结合大型预训练模型，为机器人指令跟随提供广义的时间推理能力](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
@@ -292,33 +288,17 @@
 
     - [翻译: 大型语言模型：代码执行的新探索](2024年10月09日/Large_Language_Models_as_Code_Executors_An_Exploratory_Study.md)
 
-- [MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
-
-    - [翻译: MedImageInsight：一款专为通用医学影像设计的开源嵌入模型](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
-
 - [News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
 
     - [翻译: 新闻记者：专为广播电视新闻打造的多语言 LLM 框架](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
-
-- [OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting](2024年10月09日/OneNet_A_Fine-Tuning_Free_Framework_for_Few-Shot_Entity_Linking_via_Large_Language_Model_Prompting.md)
-
-    - [翻译: OneNet：一个无需微调的框架，利用大型语言模型提示实现少样本实体链接。](2024年10月09日/OneNet_A_Fine-Tuning_Free_Framework_for_Few-Shot_Entity_Linking_via_Large_Language_Model_Prompting.md)
 
 - [Personal Intelligence System UniLM: Hybrid On-Device Small Language Model and Server-Based Large Language Model for Malay Nusantara](2024年10月09日/Personal_Intelligence_System_UniLM_Hybrid_On-Device_Small_Language_Model_and_Server-Based_Large_Language_Model_for_Malay_Nusantara.md)
 
     - [翻译: UniLM 个人智能系统：结合设备端小型模型与服务器端大型模型，专为马来群岛语言设计。](2024年10月09日/Personal_Intelligence_System_UniLM_Hybrid_On-Device_Small_Language_Model_and_Server-Based_Large_Language_Model_for_Malay_Nusantara.md)
 
-- [PLaMo-100B: A Ground-Up Language Model Designed for Japanese Proficiency](2024年10月09日/PLaMo-100B_A_Ground-Up_Language_Model_Designed_for_Japanese_Proficiency.md)
-
-    - [翻译: PLaMo-100B：专为日语精通而生的全新语言模型](2024年10月09日/PLaMo-100B_A_Ground-Up_Language_Model_Designed_for_Japanese_Proficiency.md)
-
 - [Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems](2024年10月09日/Prompt_Infection_LLM-to-LLM_Prompt_Injection_within_Multi-Agent_Systems.md)
 
     - [翻译: 提示感染：多代理系统中 LLM 间的提示注入](2024年10月09日/Prompt_Infection_LLM-to-LLM_Prompt_Injection_within_Multi-Agent_Systems.md)
-
-- [RealVul: Can We Detect Vulnerabilities in Web Applications with LLM?](2024年10月09日/RealVul_Can_We_Detect_Vulnerabilities_in_Web_Applications_with_LLM.md)
-
-    - [翻译: RealVul: LLM 能否助力我们发现 Web 应用中的漏洞？](2024年10月09日/RealVul_Can_We_Detect_Vulnerabilities_in_Web_Applications_with_LLM.md)
 
 - [Retrieval Replace Reduction: An effective visual token reduction method via semantic match](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
 
@@ -335,7 +315,3 @@
 - [TinyEmo: Scaling down Emotional Reasoning via Metric Projection](2024年10月09日/TinyEmo_Scaling_down_Emotional_Reasoning_via_Metric_Projection.md)
 
     - [翻译: TinyEmo：通过度量投影简化情感推理](2024年10月09日/TinyEmo_Scaling_down_Emotional_Reasoning_via_Metric_Projection.md)
-
-- [Tree of Problems: Improving structured problem solving with compositionality](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
-
-    - [翻译: 问题树：借助组合性提升结构化问题解决能力](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
