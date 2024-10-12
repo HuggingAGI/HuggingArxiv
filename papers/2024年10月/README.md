@@ -264,30 +264,6 @@
 
 2024年10月09日
 
-- [G$^{2}$TR: Generalized Grounded Temporal Reasoning for Robot Instruction Following by Combining Large Pre-trained Models](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
-
-    - [翻译: G$^{2}$TR：结合大型预训练模型，为机器人指令跟随提供广义的时间推理能力](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
-
-- [ING-VP: MLLMs cannot Play Easy Vision-based Games Yet](2024年10月09日/ING-VP_MLLMs_cannot_Play_Easy_Vision-based_Games_Yet.md)
-
-    - [翻译: ING-VP: 多模态大型语言模型尚无法应对简单的视觉游戏挑战](2024年10月09日/ING-VP_MLLMs_cannot_Play_Easy_Vision-based_Games_Yet.md)
-
-- [KRAG Framework for Enhancing LLMs in the Legal Domain](2024年10月09日/KRAG_Framework_for_Enhancing_LLMs_in_the_Legal_Domain.md)
-
-    - [翻译: KRAG 框架：法律领域 LLM 的增强之道](2024年10月09日/KRAG_Framework_for_Enhancing_LLMs_in_the_Legal_Domain.md)
-
 - [News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
 
     - [翻译: 新闻记者：专为广播电视新闻打造的多语言 LLM 框架](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
-
-- [Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems](2024年10月09日/Prompt_Infection_LLM-to-LLM_Prompt_Injection_within_Multi-Agent_Systems.md)
-
-    - [翻译: 提示感染：多代理系统中 LLM 间的提示注入](2024年10月09日/Prompt_Infection_LLM-to-LLM_Prompt_Injection_within_Multi-Agent_Systems.md)
-
-- [Retrieval Replace Reduction: An effective visual token reduction method via semantic match](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
-
-    - [翻译: 检索替换减少：一种通过语义匹配实现视觉标记高效减少的方法](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
-
-- [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](2024年10月09日/Thought2Text_Text_Generation_from_EEG_Signal_using_Large_Language_Models_(LLMs).md)
-
-    - [翻译: Thought2Text：借助 LLM 将 EEG 信号转化为文本](2024年10月09日/Thought2Text_Text_Generation_from_EEG_Signal_using_Large_Language_Models_(LLMs).md)
