@@ -6,10 +6,6 @@
 
     - [翻译: 代理工作流生成的基准测试](2024年10月10日/Benchmarking_Agentic_Workflow_Generation.md)
 
-- [DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](2024年10月10日/DelTA_An_Online_Document-Level_Translation_Agent_Based_on_Multi-Level_Memory.md)
-
-    - [翻译: DelTA：一款基于多级记忆的在线文档翻译助手](2024年10月10日/DelTA_An_Online_Document-Level_Translation_Agent_Based_on_Multi-Level_Memory.md)
-
 - [Dialectical Behavior Therapy Approach to LLM Prompting](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
 
     - [翻译: 辩证行为疗法在 LLM 提示中的应用](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
@@ -38,14 +34,6 @@
 
     - [翻译: GenARM：自回归奖励模型引导的生成，专为测试时对齐设计](2024年10月10日/GenARM_Reward_Guided_Generation_with_Autoregressive_Reward_Model_for_Test-time_Alignment.md)
 
-- [Insight Over Sight? Exploring the Vision-Knowledge Conflicts in Multimodal LLMs](2024年10月10日/Insight_Over_Sight_Exploring_the_Vision-Knowledge_Conflicts_in_Multimodal_LLMs.md)
-
-    - [翻译: 洞察力与视觉的较量？探究多模态 LLM 中的视觉与知识冲突](2024年10月10日/Insight_Over_Sight_Exploring_the_Vision-Knowledge_Conflicts_in_Multimodal_LLMs.md)
-
-- [LLM Cascade with Multi-Objective Optimal Consideration](2024年10月10日/LLM_Cascade_with_Multi-Objective_Optimal_Consideration.md)
-
-    - [翻译: LLM 级联的多目标优化策略](2024年10月10日/LLM_Cascade_with_Multi-Objective_Optimal_Consideration.md)
-
 - [Mars: Situated Inductive Reasoning in an Open-World Environment](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
 
     - [翻译: 火星：开放世界中的情境归纳推理](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
@@ -57,10 +45,6 @@
 - [Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
     - [翻译: 利用自动指标构建用户偏好模型，旨在为机器翻译任务打造一个高质量的偏好数据集。](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
-
-- [MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models](2024年10月10日/MRAG-Bench_Vision-Centric_Evaluation_for_Retrieval-Augmented_Multimodal_Models.md)
-
-    - [翻译: MRAG-Bench：专注于视觉的多模态模型增强检索评估工具](2024年10月10日/MRAG-Bench_Vision-Centric_Evaluation_for_Retrieval-Augmented_Multimodal_Models.md)
 
 - [Multi-Facet Counterfactual Learning for Content Quality Evaluation](2024年10月10日/Multi-Facet_Counterfactual_Learning_for_Content_Quality_Evaluation.md)
 
@@ -101,14 +85,6 @@
 - [StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
 
     - [翻译: StepTool：为 LLM 中的工具学习量身定制的步骤级强化学习框架](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
-
-- [Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models](2024年10月10日/Teaching-Inspired_Integrated_Prompting_Framework_A_Novel_Approach_for_Enhancing_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: 教学启发的综合提示框架：一种提升大型语言模型推理能力的新途径](2024年10月10日/Teaching-Inspired_Integrated_Prompting_Framework_A_Novel_Approach_for_Enhancing_Reasoning_in_Large_Language_Models.md)
-
-- [Think Beyond Size: Dynamic Prompting for More Effective Reasoning](2024年10月10日/Think_Beyond_Size_Dynamic_Prompting_for_More_Effective_Reasoning.md)
-
-    - [翻译: 超越尺寸，动态提示助力更高效推理](2024年10月10日/Think_Beyond_Size_Dynamic_Prompting_for_More_Effective_Reasoning.md)
 
 - [TVBench: Redesigning Video-Language Evaluation](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
 
