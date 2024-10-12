@@ -272,17 +272,9 @@
 
     - [翻译: 优化大型语言模型的概率表达](2024年10月09日/Calibrating_Verbalized_Probabilities_for_Large_Language_Models.md)
 
-- [CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression](2024年10月09日/CrossQuant_A_Post-Training_Quantization_Method_with_Smaller_Quantization_Kernel_for_Precise_Large_Language_Model_Compression.md)
-
-    - [翻译: CrossQuant：一种精准压缩大型语言模型的后训练量化方法，采用更小的量化核，提升压缩效率。](2024年10月09日/CrossQuant_A_Post-Training_Quantization_Method_with_Smaller_Quantization_Kernel_for_Precise_Large_Language_Model_Compression.md)
-
 - [Detecting Training Data of Large Language Models via Expectation Maximization](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
 
     - [翻译: 利用期望最大化技术，揭示大型语言模型的训练数据之谜。](2024年10月09日/Detecting_Training_Data_of_Large_Language_Models_via_Expectation_Maximization.md)
-
-- [Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
-
-    - [翻译: 探索并增强基于 LLM 的自动化程序修复的鲁棒性，借助变异测试的力量。](2024年10月09日/Exploring_and_Lifting_the_Robustness_of_LLM-powered_Automated_Program_Repair_with_Metamorphic_Testing.md)
 
 - [G$^{2}$TR: Generalized Grounded Temporal Reasoning for Robot Instruction Following by Combining Large Pre-trained Models](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
 
@@ -303,10 +295,6 @@
 - [MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
 
     - [翻译: MedImageInsight：一款专为通用医学影像设计的开源嵌入模型](2024年10月09日/MedImageInsight_An_Open-Source_Embedding_Model_for_General_Domain_Medical_Imaging.md)
-
-- [MoDEM: Mixture of Domain Expert Models](2024年10月09日/MoDEM_Mixture_of_Domain_Expert_Models.md)
-
-    - [翻译: MoDEM：领域专家模型的融合](2024年10月09日/MoDEM_Mixture_of_Domain_Expert_Models.md)
 
 - [News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
 
@@ -332,10 +320,6 @@
 
     - [翻译: RealVul: LLM 能否助力我们发现 Web 应用中的漏洞？](2024年10月09日/RealVul_Can_We_Detect_Vulnerabilities_in_Web_Applications_with_LLM.md)
 
-- [Reducing the Cost of Dropout in Flash-Attention by Hiding RNG with GEMM](2024年10月09日/Reducing_the_Cost_of_Dropout_in_Flash-Attention_by_Hiding_RNG_with_GEMM.md)
-
-    - [翻译: 借助 GEMM 隐藏 RNG，巧妙降低 Flash-Attention 中 Dropout 的开销。](2024年10月09日/Reducing_the_Cost_of_Dropout_in_Flash-Attention_by_Hiding_RNG_with_GEMM.md)
-
 - [Retrieval Replace Reduction: An effective visual token reduction method via semantic match](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
 
     - [翻译: 检索替换减少：一种通过语义匹配实现视觉标记高效减少的方法](2024年10月09日/Retrieval_Replace_Reduction_An_effective_visual_token_reduction_method_via_semantic_match.md)
@@ -355,11 +339,3 @@
 - [Tree of Problems: Improving structured problem solving with compositionality](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
 
     - [翻译: 问题树：借助组合性提升结构化问题解决能力](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
-
-- [Upcycling Large Language Models into Mixture of Experts](2024年10月09日/Upcycling_Large_Language_Models_into_Mixture_of_Experts.md)
-
-    - [翻译: 将大型语言模型升级为专家混合模型](2024年10月09日/Upcycling_Large_Language_Models_into_Mixture_of_Experts.md)
-
-- [Using LLMs to Discover Legal Factors](2024年10月09日/Using_LLMs_to_Discover_Legal_Factors.md)
-
-    - [翻译: 利用 LLM 探索法律因素](2024年10月09日/Using_LLMs_to_Discover_Legal_Factors.md)
