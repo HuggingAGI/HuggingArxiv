@@ -2,10 +2,6 @@
 
 2024年10月10日
 
-- [Benchmarking Agentic Workflow Generation](2024年10月10日/Benchmarking_Agentic_Workflow_Generation.md)
-
-    - [翻译: 代理工作流生成的基准测试](2024年10月10日/Benchmarking_Agentic_Workflow_Generation.md)
-
 - [Dialectical Behavior Therapy Approach to LLM Prompting](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
 
     - [翻译: 辩证行为疗法在 LLM 提示中的应用](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
@@ -22,17 +18,9 @@
 
     - [翻译: FLIER：一种嵌入了潜在表示的少样本语言图像模型](2024年10月10日/FLIER_Few-shot_Language_Image_Models_Embedded_with_Latent_Representations.md)
 
-- [From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions](2024年10月10日/From_Exploration_to_Mastery_Enabling_LLMs_to_Master_Tools_via_Self-Driven_Interactions.md)
-
-    - [翻译: 从探索到精通：借助自我驱动交互，让 LLM 掌握工具。](2024年10月10日/From_Exploration_to_Mastery_Enabling_LLMs_to_Master_Tools_via_Self-Driven_Interactions.md)
-
 - [GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps](2024年10月10日/GameTraversalBenchmark_Evaluating_Planning_Abilities_Of_Large_Language_Models_Through_Traversing_2D_Game_Maps.md)
 
     - [翻译: GameTraversalBenchmark：通过探索二维游戏地图，评估大型语言模型的规划能力](2024年10月10日/GameTraversalBenchmark_Evaluating_Planning_Abilities_Of_Large_Language_Models_Through_Traversing_2D_Game_Maps.md)
-
-- [Mars: Situated Inductive Reasoning in an Open-World Environment](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
-
-    - [翻译: 火星：开放世界中的情境归纳推理](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
 
 - [Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
@@ -65,10 +53,6 @@
 - [TVBench: Redesigning Video-Language Evaluation](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
 
     - [翻译: TVBench：革新视频与语言的评估方式](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
-
-- [Uncovering Overfitting in Large Language Model Editing](2024年10月10日/Uncovering_Overfitting_in_Large_Language_Model_Editing.md)
-
-    - [翻译: 揭秘大型语言模型编辑中的过拟合现象](2024年10月10日/Uncovering_Overfitting_in_Large_Language_Model_Editing.md)
 
 - [Visual Scratchpads: Enabling Global Reasoning in Vision](2024年10月10日/Visual_Scratchpads_Enabling_Global_Reasoning_in_Vision.md)
 
