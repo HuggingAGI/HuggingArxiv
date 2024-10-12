@@ -30,17 +30,9 @@
 
     - [翻译: GameTraversalBenchmark：通过探索二维游戏地图，评估大型语言模型的规划能力](2024年10月10日/GameTraversalBenchmark_Evaluating_Planning_Abilities_Of_Large_Language_Models_Through_Traversing_2D_Game_Maps.md)
 
-- [GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment](2024年10月10日/GenARM_Reward_Guided_Generation_with_Autoregressive_Reward_Model_for_Test-time_Alignment.md)
-
-    - [翻译: GenARM：自回归奖励模型引导的生成，专为测试时对齐设计](2024年10月10日/GenARM_Reward_Guided_Generation_with_Autoregressive_Reward_Model_for_Test-time_Alignment.md)
-
 - [Mars: Situated Inductive Reasoning in an Open-World Environment](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
 
     - [翻译: 火星：开放世界中的情境归纳推理](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
-
-- [MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code](2024年10月10日/MathCoder2_Better_Math_Reasoning_from_Continued_Pretraining_on_Model-translated_Mathematical_Code.md)
-
-    - [翻译: MathCoder2：通过持续预训练模型翻译的数学代码，提升了数学推理能力](2024年10月10日/MathCoder2_Better_Math_Reasoning_from_Continued_Pretraining_on_Model-translated_Mathematical_Code.md)
 
 - [Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
@@ -54,10 +46,6 @@
 
     - [翻译: NusaMT-7B：借助大型语言模型，为资源匮乏的印尼语提供机器翻译解决方案。](2024年10月10日/NusaMT-7B_Machine_Translation_for_Low-Resource_Indonesian_Languages_with_Large_Language_Models.md)
 
-- [On the Evaluation of Generative Robotic Simulations](2024年10月10日/On_the_Evaluation_of_Generative_Robotic_Simulations.md)
-
-    - [翻译: 机器人模拟生成效果的评估](2024年10月10日/On_the_Evaluation_of_Generative_Robotic_Simulations.md)
-
 - [Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data](2024年10月10日/Plug-and-Play_Performance_Estimation_for_LLM_Services_without_Relying_on_Labeled_Data.md)
 
     - [翻译: 无需标注数据，实现 LLM 服务的即插即用性能评估](2024年10月10日/Plug-and-Play_Performance_Estimation_for_LLM_Services_without_Relying_on_Labeled_Data.md)
@@ -66,21 +54,9 @@
 
     - [翻译: 奖励增强数据助力 LLM 直接偏好对齐](2024年10月10日/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)
 
-- [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](2024年10月10日/Rewarding_Progress_Scaling_Automated_Process_Verifiers_for_LLM_Reasoning.md)
-
-    - [翻译: 奖励进步：扩展 LLM 推理的自动化验证器](2024年10月10日/Rewarding_Progress_Scaling_Automated_Process_Verifiers_for_LLM_Reasoning.md)
-
 - [Rewriting Conversational Utterances with Instructed Large Language Models](2024年10月10日/Rewriting_Conversational_Utterances_with_Instructed_Large_Language_Models.md)
 
     - [翻译: 借助指导性大型语言模型，对话话语得以重塑。](2024年10月10日/Rewriting_Conversational_Utterances_with_Instructed_Large_Language_Models.md)
-
-- [Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models](2024年10月10日/Sample_then_Identify_A_General_Framework_for_Risk_Control_and_Assessment_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 采样识别：多模态大型语言模型风险控制与评估的通用方案](2024年10月10日/Sample_then_Identify_A_General_Framework_for_Risk_Control_and_Assessment_in_Multimodal_Large_Language_Models.md)
-
-- [Scalable Representation Learning for Multimodal Tabular Transactions](2024年10月10日/Scalable_Representation_Learning_for_Multimodal_Tabular_Transactions.md)
-
-    - [翻译: 多模态表格交易的可扩展表示学习](2024年10月10日/Scalable_Representation_Learning_for_Multimodal_Tabular_Transactions.md)
 
 - [StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
 
