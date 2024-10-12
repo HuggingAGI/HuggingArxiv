@@ -6,17 +6,9 @@
 
     - [翻译: Agent S：一个让计算机像人类一样思考的开放代理框架](2024年10月10日/Agent_S_An_Open_Agentic_Framework_that_Uses_Computers_Like_a_Human.md)
 
-- [APOLLO: A GPT-based tool to detect phishing emails and generate explanations that warn users](2024年10月10日/APOLLO_A_GPT-based_tool_to_detect_phishing_emails_and_generate_explanations_that_warn_users.md)
-
-    - [翻译: APOLLO：一款基于 GPT 的工具，专为检测钓鱼邮件并生成警示用户的解释而设计](2024年10月10日/APOLLO_A_GPT-based_tool_to_detect_phishing_emails_and_generate_explanations_that_warn_users.md)
-
 - [Benchmarking Agentic Workflow Generation](2024年10月10日/Benchmarking_Agentic_Workflow_Generation.md)
 
     - [翻译: 代理工作流生成的基准测试](2024年10月10日/Benchmarking_Agentic_Workflow_Generation.md)
-
-- [Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering](2024年10月10日/Can_Knowledge_Graphs_Make_Large_Language_Models_More_Trustworthy_An_Empirical_Study_over_Open-ended_Question_Answering.md)
-
-    - [翻译: 知识图谱能否提升大型语言模型的可信度？本研究通过开放式问答任务进行了实证探索。](2024年10月10日/Can_Knowledge_Graphs_Make_Large_Language_Models_More_Trustworthy_An_Empirical_Study_over_Open-ended_Question_Answering.md)
 
 - [DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](2024年10月10日/DelTA_An_Online_Document-Level_Translation_Agent_Based_on_Multi-Level_Memory.md)
 
@@ -26,10 +18,6 @@
 
     - [翻译: 辩证行为疗法在 LLM 提示中的应用](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
 
-- [Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions](2024年10月10日/Disease_Entity_Recognition_and_Normalization_is_Improved_with_Large_Language_Model_Derived_Synthetic_Normalized_Mentions.md)
-
-    - [翻译: 借助大型语言模型生成的合成规范化提及，疾病实体的识别与规范化得到了显著提升。](2024年10月10日/Disease_Entity_Recognition_and_Normalization_is_Improved_with_Large_Language_Model_Derived_Synthetic_Normalized_Mentions.md)
-
 - [Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning](2024年10月10日/Divide_and_Translate_Compositional_First-Order_Logic_Translation_and_Verification_for_Complex_Logical_Reasoning.md)
 
     - [翻译: 分割翻译法：组合一阶逻辑在复杂推理中的翻译与验证](2024年10月10日/Divide_and_Translate_Compositional_First-Order_Logic_Translation_and_Verification_for_Complex_Logical_Reasoning.md)
@@ -37,10 +25,6 @@
 - [Efficient Reinforcement Learning with Large Language Model Priors](2024年10月10日/Efficient_Reinforcement_Learning_with_Large_Language_Model_Priors.md)
 
     - [翻译: 利用大型语言模型先验实现高效强化学习](2024年10月10日/Efficient_Reinforcement_Learning_with_Large_Language_Model_Priors.md)
-
-- [Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision](2024年10月10日/Emerging_Pixel_Grounding_in_Large_Multimodal_Models_Without_Grounding_Supervision.md)
-
-    - [翻译: 大型多模态模型中悄然兴起的像素基础技术，无需任何基础监督的加持。](2024年10月10日/Emerging_Pixel_Grounding_in_Large_Multimodal_Models_Without_Grounding_Supervision.md)
 
 - [Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures](2024年10月10日/Enhancing_Zeroth-order_Fine-tuning_for_Language_Models_with_Low-rank_Structures.md)
 
@@ -82,10 +66,6 @@
 
     - [翻译: MathCoder2：通过持续预训练模型翻译的数学代码，提升了数学推理能力](2024年10月10日/MathCoder2_Better_Math_Reasoning_from_Continued_Pretraining_on_Model-translated_Mathematical_Code.md)
 
-- [Mitigating Gender Bias in Code Large Language Models via Model Editing](2024年10月10日/Mitigating_Gender_Bias_in_Code_Large_Language_Models_via_Model_Editing.md)
-
-    - [翻译: 通过模型编辑技术，我们致力于减轻代码大型语言模型中的性别偏见问题。](2024年10月10日/Mitigating_Gender_Bias_in_Code_Large_Language_Models_via_Model_Editing.md)
-
 - [Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
     - [翻译: 利用自动指标构建用户偏好模型，旨在为机器翻译任务打造一个高质量的偏好数据集。](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
@@ -106,17 +86,9 @@
 
     - [翻译: NusaMT-7B：借助大型语言模型，为资源匮乏的印尼语提供机器翻译解决方案。](2024年10月10日/NusaMT-7B_Machine_Translation_for_Low-Resource_Indonesian_Languages_with_Large_Language_Models.md)
 
-- [Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models](2024年10月10日/Omni-MATH_A_Universal_Olympiad_Level_Mathematic_Benchmark_For_Large_Language_Models.md)
-
-    - [翻译: Omni-MATH：专为大型语言模型设计的全能奥林匹克数学基准](2024年10月10日/Omni-MATH_A_Universal_Olympiad_Level_Mathematic_Benchmark_For_Large_Language_Models.md)
-
 - [On the Evaluation of Generative Robotic Simulations](2024年10月10日/On_the_Evaluation_of_Generative_Robotic_Simulations.md)
 
     - [翻译: 机器人模拟生成效果的评估](2024年10月10日/On_the_Evaluation_of_Generative_Robotic_Simulations.md)
-
-- [Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning](2024年10月10日/Packing_Analysis_Packing_Is_More_Appropriate_for_Large_Models_or_Datasets_in_Supervised_Fine-tuning.md)
-
-    - [翻译: 打包分析：在监督微调中，大型模型或数据集更适合采用打包策略。](2024年10月10日/Packing_Analysis_Packing_Is_More_Appropriate_for_Large_Models_or_Datasets_in_Supervised_Fine-tuning.md)
 
 - [Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data](2024年10月10日/Plug-and-Play_Performance_Estimation_for_LLM_Services_without_Relying_on_Labeled_Data.md)
 
