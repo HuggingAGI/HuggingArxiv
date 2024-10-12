@@ -6,10 +6,6 @@
 
     - [翻译: 深入探讨大型语言模型的机器遗忘机制](2024年10月10日/A_Closer_Look_at_Machine_Unlearning_for_Large_Language_Models.md)
 
-- [AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories](2024年10月10日/AgentBank_Towards_Generalized_LLM_Agents_via_Fine-Tuning_on_50000+_Interaction_Trajectories.md)
-
-    - [翻译: AgentBank：通过微调 50000+ 交互轨迹，打造通用 LLM 代理](2024年10月10日/AgentBank_Towards_Generalized_LLM_Agents_via_Fine-Tuning_on_50000+_Interaction_Trajectories.md)
-
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](2024年10月10日/Agent_S_An_Open_Agentic_Framework_that_Uses_Computers_Like_a_Human.md)
 
     - [翻译: Agent S：一个让计算机像人类一样思考的开放代理框架](2024年10月10日/Agent_S_An_Open_Agentic_Framework_that_Uses_Computers_Like_a_Human.md)
@@ -45,10 +41,6 @@
 - [Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning](2024年10月10日/Divide_and_Translate_Compositional_First-Order_Logic_Translation_and_Verification_for_Complex_Logical_Reasoning.md)
 
     - [翻译: 分割翻译法：组合一阶逻辑在复杂推理中的翻译与验证](2024年10月10日/Divide_and_Translate_Compositional_First-Order_Logic_Translation_and_Verification_for_Complex_Logical_Reasoning.md)
-
-- [Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs](2024年10月10日/Efficiently_Learning_at_Test-Time_Active_Fine-Tuning_of_LLMs.md)
-
-    - [翻译: 测试时高效学习：LLM 的主动微调](2024年10月10日/Efficiently_Learning_at_Test-Time_Active_Fine-Tuning_of_LLMs.md)
 
 - [Efficient Reinforcement Learning with Large Language Model Priors](2024年10月10日/Efficient_Reinforcement_Learning_with_Large_Language_Model_Priors.md)
 
@@ -101,10 +93,6 @@
 - [MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization](2024年10月10日/MACPO_Weak-to-Strong_Alignment_via_Multi-Agent_Contrastive_Preference_Optimization.md)
 
     - [翻译: MACPO：借助多智能体对比偏好优化，实现从弱到强的对齐。](2024年10月10日/MACPO_Weak-to-Strong_Alignment_via_Multi-Agent_Contrastive_Preference_Optimization.md)
-
-- [Mapping Hong Kong's Financial Ecosystem: A Network Analysis of the SFC's Licensed Professionals and Institutions](2024年10月10日/Mapping_Hong_Kong's_Financial_Ecosystem_A_Network_Analysis_of_the_SFC's_Licensed_Professionals_and_Institutions.md)
-
-    - [翻译: 探索香港金融生态：SFC 许可专业人士与机构的网络图谱](2024年10月10日/Mapping_Hong_Kong's_Financial_Ecosystem_A_Network_Analysis_of_the_SFC's_Licensed_Professionals_and_Institutions.md)
 
 - [Mars: Situated Inductive Reasoning in an Open-World Environment](2024年10月10日/Mars_Situated_Inductive_Reasoning_in_an_Open-World_Environment.md)
 
@@ -174,10 +162,6 @@
 
     - [翻译: QCircuitNet：专为量子算法设计打造的大规模分层数据集](2024年10月10日/QCircuitNet_A_Large-Scale_Hierarchical_Dataset_for_Quantum_Algorithm_Design.md)
 
-- [Q-VLM: Post-training Quantization for Large Vision-Language Models](2024年10月10日/Q-VLM_Post-training_Quantization_for_Large_Vision-Language_Models.md)
-
-    - [翻译: Q-VLM：为大型视觉-语言模型进行的后训练量化](2024年10月10日/Q-VLM_Post-training_Quantization_for_Large_Vision-Language_Models.md)
-
 - [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](2024年10月10日/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)
 
     - [翻译: 奖励增强数据助力 LLM 直接偏好对齐](2024年10月10日/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)
@@ -201,10 +185,6 @@
 - [Smart Audit System Empowered by LLM](2024年10月10日/Smart_Audit_System_Empowered_by_LLM.md)
 
     - [翻译: 智能审计系统，由大型语言模型赋能](2024年10月10日/Smart_Audit_System_Empowered_by_LLM.md)
-
-- [StablePrompt: Automatic Prompt Tuning using Reinforcement Learning for Large Language Models](2024年10月10日/StablePrompt_Automatic_Prompt_Tuning_using_Reinforcement_Learning_for_Large_Language_Models.md)
-
-    - [翻译: StablePrompt：利用强化学习为大型语言模型自动优化提示词](2024年10月10日/StablePrompt_Automatic_Prompt_Tuning_using_Reinforcement_Learning_for_Large_Language_Models.md)
 
 - [StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
 
@@ -237,7 +217,3 @@
 - [Visual Scratchpads: Enabling Global Reasoning in Vision](2024年10月10日/Visual_Scratchpads_Enabling_Global_Reasoning_in_Vision.md)
 
     - [翻译: 视觉草稿板：助力视觉全局推理](2024年10月10日/Visual_Scratchpads_Enabling_Global_Reasoning_in_Vision.md)
-
-- [What Makes Large Language Models Reason in (Multi-Turn) Code Generation?](2024年10月10日/What_Makes_Large_Language_Models_Reason_in_(Multi-Turn)_Code_Generation.md)
-
-    - [翻译: 大型语言模型如何在（多轮）代码生成中进行推理？](2024年10月10日/What_Makes_Large_Language_Models_Reason_in_(Multi-Turn)_Code_Generation.md)
