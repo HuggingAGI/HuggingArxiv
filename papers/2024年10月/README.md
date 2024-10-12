@@ -2,10 +2,6 @@
 
 2024年10月10日
 
-- [A Closer Look at Machine Unlearning for Large Language Models](2024年10月10日/A_Closer_Look_at_Machine_Unlearning_for_Large_Language_Models.md)
-
-    - [翻译: 深入探讨大型语言模型的机器遗忘机制](2024年10月10日/A_Closer_Look_at_Machine_Unlearning_for_Large_Language_Models.md)
-
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](2024年10月10日/Agent_S_An_Open_Agentic_Framework_that_Uses_Computers_Like_a_Human.md)
 
     - [翻译: Agent S：一个让计算机像人类一样思考的开放代理框架](2024年10月10日/Agent_S_An_Open_Agentic_Framework_that_Uses_Computers_Like_a_Human.md)
@@ -49,10 +45,6 @@
 - [Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision](2024年10月10日/Emerging_Pixel_Grounding_in_Large_Multimodal_Models_Without_Grounding_Supervision.md)
 
     - [翻译: 大型多模态模型中悄然兴起的像素基础技术，无需任何基础监督的加持。](2024年10月10日/Emerging_Pixel_Grounding_in_Large_Multimodal_Models_Without_Grounding_Supervision.md)
-
-- [Enhancing Language Model Reasoning via Weighted Reasoning in Self-Consistency](2024年10月10日/Enhancing_Language_Model_Reasoning_via_Weighted_Reasoning_in_Self-Consistency.md)
-
-    - [翻译: 借助自一致性中的加权推理，提升语言模型的推理能力](2024年10月10日/Enhancing_Language_Model_Reasoning_via_Weighted_Reasoning_in_Self-Consistency.md)
 
 - [Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures](2024年10月10日/Enhancing_Zeroth-order_Fine-tuning_for_Language_Models_with_Low-rank_Structures.md)
 
@@ -110,10 +102,6 @@
 
     - [翻译: 利用自动指标构建用户偏好模型，旨在为机器翻译任务打造一个高质量的偏好数据集。](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
-- [MolMix: A Simple Yet Effective Baseline for Multimodal Molecular Representation Learning](2024年10月10日/MolMix_A_Simple_Yet_Effective_Baseline_for_Multimodal_Molecular_Representation_Learning.md)
-
-    - [翻译: MolMix：一个简单却高效的多模态分子表示学习基线](2024年10月10日/MolMix_A_Simple_Yet_Effective_Baseline_for_Multimodal_Molecular_Representation_Learning.md)
-
 - [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training](2024年10月10日/Mono-InternVL_Pushing_the_Boundaries_of_Monolithic_Multimodal_Large_Language_Models_with_Endogenous_Visual_Pre-training.md)
 
     - [翻译: Mono-InternVL：借助内生视觉预训练，拓展单体多模态大型语言模型的极限](2024年10月10日/Mono-InternVL_Pushing_the_Boundaries_of_Monolithic_Multimodal_Large_Language_Models_with_Endogenous_Visual_Pre-training.md)
@@ -121,10 +109,6 @@
 - [MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models](2024年10月10日/MRAG-Bench_Vision-Centric_Evaluation_for_Retrieval-Augmented_Multimodal_Models.md)
 
     - [翻译: MRAG-Bench：专注于视觉的多模态模型增强检索评估工具](2024年10月10日/MRAG-Bench_Vision-Centric_Evaluation_for_Retrieval-Augmented_Multimodal_Models.md)
-
-- [Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining](2024年10月10日/Multi-Agent_Collaborative_Data_Selection_for_Efficient_LLM_Pretraining.md)
-
-    - [翻译: 多代理协作数据选择：高效 LLM 预训练的关键](2024年10月10日/Multi-Agent_Collaborative_Data_Selection_for_Efficient_LLM_Pretraining.md)
 
 - [Multi-Facet Counterfactual Learning for Content Quality Evaluation](2024年10月10日/Multi-Facet_Counterfactual_Learning_for_Content_Quality_Evaluation.md)
 
@@ -145,10 +129,6 @@
 - [On the Evaluation of Generative Robotic Simulations](2024年10月10日/On_the_Evaluation_of_Generative_Robotic_Simulations.md)
 
     - [翻译: 机器人模拟生成效果的评估](2024年10月10日/On_the_Evaluation_of_Generative_Robotic_Simulations.md)
-
-- [Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](2024年10月10日/Optima_Optimizing_Effectiveness_and_Efficiency_for_LLM-Based_Multi-Agent_System.md)
-
-    - [翻译: Optima：提升基于 LLM 的多智能体系统效能与效率](2024年10月10日/Optima_Optimizing_Effectiveness_and_Efficiency_for_LLM-Based_Multi-Agent_System.md)
 
 - [Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning](2024年10月10日/Packing_Analysis_Packing_Is_More_Appropriate_for_Large_Models_or_Datasets_in_Supervised_Fine-tuning.md)
 
@@ -181,10 +161,6 @@
 - [Scalable Representation Learning for Multimodal Tabular Transactions](2024年10月10日/Scalable_Representation_Learning_for_Multimodal_Tabular_Transactions.md)
 
     - [翻译: 多模态表格交易的可扩展表示学习](2024年10月10日/Scalable_Representation_Learning_for_Multimodal_Tabular_Transactions.md)
-
-- [Smart Audit System Empowered by LLM](2024年10月10日/Smart_Audit_System_Empowered_by_LLM.md)
-
-    - [翻译: 智能审计系统，由大型语言模型赋能](2024年10月10日/Smart_Audit_System_Empowered_by_LLM.md)
 
 - [StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
 
