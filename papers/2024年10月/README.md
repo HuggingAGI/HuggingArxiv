@@ -288,10 +288,6 @@
 
     - [翻译: G$^{2}$TR：结合大型预训练模型，为机器人指令跟随提供广义的时间推理能力](2024年10月09日/G$^{2}$TR_Generalized_Grounded_Temporal_Reasoning_for_Robot_Instruction_Following_by_Combining_Large_Pre-trained_Models.md)
 
-- [How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?](2024年10月09日/How_Does_Vision-Language_Adaptation_Impact_the_Safety_of_Vision_Language_Models.md)
-
-    - [翻译: 视觉-语言适应如何影响视觉语言模型的安全性？](2024年10月09日/How_Does_Vision-Language_Adaptation_Impact_the_Safety_of_Vision_Language_Models.md)
-
 - [ING-VP: MLLMs cannot Play Easy Vision-based Games Yet](2024年10月09日/ING-VP_MLLMs_cannot_Play_Easy_Vision-based_Games_Yet.md)
 
     - [翻译: ING-VP: 多模态大型语言模型尚无法应对简单的视觉游戏挑战](2024年10月09日/ING-VP_MLLMs_cannot_Play_Easy_Vision-based_Games_Yet.md)
@@ -315,10 +311,6 @@
 - [News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
 
     - [翻译: 新闻记者：专为广播电视新闻打造的多语言 LLM 框架](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
-
-- [No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users](2024年10月09日/No_Free_Lunch_Retrieval-Augmented_Generation_Undermines_Fairness_in_LLMs,_Even_for_Vigilant_Users.md)
-
-    - [翻译: 检索增强生成在大型语言模型中损害了公平性，即使是警惕的用户也无法幸免。](2024年10月09日/No_Free_Lunch_Retrieval-Augmented_Generation_Undermines_Fairness_in_LLMs,_Even_for_Vigilant_Users.md)
 
 - [OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting](2024年10月09日/OneNet_A_Fine-Tuning_Free_Framework_for_Few-Shot_Entity_Linking_via_Large_Language_Model_Prompting.md)
 
@@ -352,14 +344,6 @@
 
     - [翻译: Rodimus*：以高效注意力打破准确性与效率的平衡](2024年10月09日/Rodimus_Breaking_the_Accuracy-Efficiency_Trade-Off_with_Efficient_Attentions.md)
 
-- [Scaling Laws for Mixed quantization in Large Language Models](2024年10月09日/Scaling_Laws_for_Mixed_quantization_in_Large_Language_Models.md)
-
-    - [翻译: 大语言模型中混合量化的缩放法则](2024年10月09日/Scaling_Laws_for_Mixed_quantization_in_Large_Language_Models.md)
-
-- [Seeker: Enhancing Exception Handling in Code with LLM-based Multi-Agent Approach](2024年10月09日/Seeker_Enhancing_Exception_Handling_in_Code_with_LLM-based_Multi-Agent_Approach.md)
-
-    - [翻译: Seeker：借助 LLM 多代理技术，提升代码异常处理的效率](2024年10月09日/Seeker_Enhancing_Exception_Handling_in_Code_with_LLM-based_Multi-Agent_Approach.md)
-
 - [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](2024年10月09日/Thought2Text_Text_Generation_from_EEG_Signal_using_Large_Language_Models_(LLMs).md)
 
     - [翻译: Thought2Text：借助 LLM 将 EEG 信号转化为文本](2024年10月09日/Thought2Text_Text_Generation_from_EEG_Signal_using_Large_Language_Models_(LLMs).md)
@@ -372,10 +356,6 @@
 
     - [翻译: 问题树：借助组合性提升结构化问题解决能力](2024年10月09日/Tree_of_Problems_Improving_structured_problem_solving_with_compositionality.md)
 
-- [TuringQ: Benchmarking AI Comprehension in Theory of Computation](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
-
-    - [翻译: TuringQ：理论计算中的 AI 理解力基准测试](2024年10月09日/TuringQ_Benchmarking_AI_Comprehension_in_Theory_of_Computation.md)
-
 - [Upcycling Large Language Models into Mixture of Experts](2024年10月09日/Upcycling_Large_Language_Models_into_Mixture_of_Experts.md)
 
     - [翻译: 将大型语言模型升级为专家混合模型](2024年10月09日/Upcycling_Large_Language_Models_into_Mixture_of_Experts.md)
@@ -383,7 +363,3 @@
 - [Using LLMs to Discover Legal Factors](2024年10月09日/Using_LLMs_to_Discover_Legal_Factors.md)
 
     - [翻译: 利用 LLM 探索法律因素](2024年10月09日/Using_LLMs_to_Discover_Legal_Factors.md)
-
-- [WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents](2024年10月09日/WALL-E_World_Alignment_by_Rule_Learning_Improves_World_Model-based_LLM_Agents.md)
-
-    - [翻译: WALL-E：借助规则学习，提升基于世界模型的 LLM 代理的世界对齐能力](2024年10月09日/WALL-E_World_Alignment_by_Rule_Learning_Improves_World_Model-based_LLM_Agents.md)
