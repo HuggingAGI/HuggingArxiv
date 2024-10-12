@@ -30,10 +30,6 @@
 
     - [翻译: COMPL-AI 框架：深入解读欧盟人工智能法案，并提供 LLM 基准测试工具](2024年10月10日/COMPL-AI_Framework_A_Technical_Interpretation_and_LLM_Benchmarking_Suite_for_the_EU_Artificial_Intelligence_Act.md)
 
-- [Deep Correlated Prompting for Visual Recognition with Missing Modalities](2024年10月10日/Deep_Correlated_Prompting_for_Visual_Recognition_with_Missing_Modalities.md)
-
-    - [翻译: 深度相关提示助力视觉识别，应对模态缺失挑战](2024年10月10日/Deep_Correlated_Prompting_for_Visual_Recognition_with_Missing_Modalities.md)
-
 - [DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](2024年10月10日/DelTA_An_Online_Document-Level_Translation_Agent_Based_on_Multi-Level_Memory.md)
 
     - [翻译: DelTA：一款基于多级记忆的在线文档翻译助手](2024年10月10日/DelTA_An_Online_Document-Level_Translation_Agent_Based_on_Multi-Level_Memory.md)
@@ -69,14 +65,6 @@
 - [Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures](2024年10月10日/Enhancing_Zeroth-order_Fine-tuning_for_Language_Models_with_Low-rank_Structures.md)
 
     - [翻译: 利用低秩结构提升语言模型的零阶微调效果](2024年10月10日/Enhancing_Zeroth-order_Fine-tuning_for_Language_Models_with_Low-rank_Structures.md)
-
-- [Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines](2024年10月10日/Executing_Arithmetic_Fine-Tuning_Large_Language_Models_as_Turing_Machines.md)
-
-    - [翻译: 微调大型语言模型，使其具备图灵机的算术执行能力。](2024年10月10日/Executing_Arithmetic_Fine-Tuning_Large_Language_Models_as_Turing_Machines.md)
-
-- [Extracting and Transferring Abilities For Building Multi-lingual Ability-enhanced Large Language Models](2024年10月10日/Extracting_and_Transferring_Abilities_For_Building_Multi-lingual_Ability-enhanced_Large_Language_Models.md)
-
-    - [翻译: 构建多语言能力增强的大型语言模型，关键在于提取和转移能力。](2024年10月10日/Extracting_and_Transferring_Abilities_For_Building_Multi-lingual_Ability-enhanced_Large_Language_Models.md)
 
 - [FLIER: Few-shot Language Image Models Embedded with Latent Representations](2024年10月10日/FLIER_Few-shot_Language_Image_Models_Embedded_with_Latent_Representations.md)
 
@@ -222,10 +210,6 @@
 
     - [翻译: StepTool：为 LLM 中的工具学习量身定制的步骤级强化学习框架](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
 
-- [SWE-Bench+: Enhanced Coding Benchmark for LLMs](2024年10月10日/SWE-Bench+_Enhanced_Coding_Benchmark_for_LLMs.md)
-
-    - [翻译: SWE-Bench+：LLM 编码基准的升级版](2024年10月10日/SWE-Bench+_Enhanced_Coding_Benchmark_for_LLMs.md)
-
 - [Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models](2024年10月10日/Teaching-Inspired_Integrated_Prompting_Framework_A_Novel_Approach_for_Enhancing_Reasoning_in_Large_Language_Models.md)
 
     - [翻译: 教学启发的综合提示框架：一种提升大型语言模型推理能力的新途径](2024年10月10日/Teaching-Inspired_Integrated_Prompting_Framework_A_Novel_Approach_for_Enhancing_Reasoning_in_Large_Language_Models.md)
@@ -233,10 +217,6 @@
 - [Think Beyond Size: Dynamic Prompting for More Effective Reasoning](2024年10月10日/Think_Beyond_Size_Dynamic_Prompting_for_More_Effective_Reasoning.md)
 
     - [翻译: 超越尺寸，动态提示助力更高效推理](2024年10月10日/Think_Beyond_Size_Dynamic_Prompting_for_More_Effective_Reasoning.md)
-
-- [Towards Assurance of LLM Adversarial Robustness using Ontology-Driven Argumentation](2024年10月10日/Towards_Assurance_of_LLM_Adversarial_Robustness_using_Ontology-Driven_Argumentation.md)
-
-    - [翻译: 通过本体驱动论证，迈向确保 LLM 对抗鲁棒性的道路](2024年10月10日/Towards_Assurance_of_LLM_Adversarial_Robustness_using_Ontology-Driven_Argumentation.md)
 
 - [TVBench: Redesigning Video-Language Evaluation](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
 
@@ -261,9 +241,3 @@
 - [What Makes Large Language Models Reason in (Multi-Turn) Code Generation?](2024年10月10日/What_Makes_Large_Language_Models_Reason_in_(Multi-Turn)_Code_Generation.md)
 
     - [翻译: 大型语言模型如何在（多轮）代码生成中进行推理？](2024年10月10日/What_Makes_Large_Language_Models_Reason_in_(Multi-Turn)_Code_Generation.md)
-
-2024年10月09日
-
-- [News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
-
-    - [翻译: 新闻记者：专为广播电视新闻打造的多语言 LLM 框架](2024年10月09日/News_Reporter_A_Multi-lingual_LLM_Framework_for_Broadcast_T.V_News.md)
