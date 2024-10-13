@@ -14,10 +14,6 @@
 
     - [翻译: 利用低秩结构提升语言模型的零阶微调效果](2024年10月10日/Enhancing_Zeroth-order_Fine-tuning_for_Language_Models_with_Low-rank_Structures.md)
 
-- [FLIER: Few-shot Language Image Models Embedded with Latent Representations](2024年10月10日/FLIER_Few-shot_Language_Image_Models_Embedded_with_Latent_Representations.md)
-
-    - [翻译: FLIER：一种嵌入了潜在表示的少样本语言图像模型](2024年10月10日/FLIER_Few-shot_Language_Image_Models_Embedded_with_Latent_Representations.md)
-
 - [GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps](2024年10月10日/GameTraversalBenchmark_Evaluating_Planning_Abilities_Of_Large_Language_Models_Through_Traversing_2D_Game_Maps.md)
 
     - [翻译: GameTraversalBenchmark：通过探索二维游戏地图，评估大型语言模型的规划能力](2024年10月10日/GameTraversalBenchmark_Evaluating_Planning_Abilities_Of_Large_Language_Models_Through_Traversing_2D_Game_Maps.md)
@@ -26,21 +22,9 @@
 
     - [翻译: 利用自动指标构建用户偏好模型，旨在为机器翻译任务打造一个高质量的偏好数据集。](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
-- [Multi-Facet Counterfactual Learning for Content Quality Evaluation](2024年10月10日/Multi-Facet_Counterfactual_Learning_for_Content_Quality_Evaluation.md)
-
-    - [翻译: 多维度反事实学习助力内容质量评估](2024年10月10日/Multi-Facet_Counterfactual_Learning_for_Content_Quality_Evaluation.md)
-
 - [NusaMT-7B: Machine Translation for Low-Resource Indonesian Languages with Large Language Models](2024年10月10日/NusaMT-7B_Machine_Translation_for_Low-Resource_Indonesian_Languages_with_Large_Language_Models.md)
 
     - [翻译: NusaMT-7B：借助大型语言模型，为资源匮乏的印尼语提供机器翻译解决方案。](2024年10月10日/NusaMT-7B_Machine_Translation_for_Low-Resource_Indonesian_Languages_with_Large_Language_Models.md)
-
-- [Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data](2024年10月10日/Plug-and-Play_Performance_Estimation_for_LLM_Services_without_Relying_on_Labeled_Data.md)
-
-    - [翻译: 无需标注数据，实现 LLM 服务的即插即用性能评估](2024年10月10日/Plug-and-Play_Performance_Estimation_for_LLM_Services_without_Relying_on_Labeled_Data.md)
-
-- [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](2024年10月10日/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)
-
-    - [翻译: 奖励增强数据助力 LLM 直接偏好对齐](2024年10月10日/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)
 
 - [Rewriting Conversational Utterances with Instructed Large Language Models](2024年10月10日/Rewriting_Conversational_Utterances_with_Instructed_Large_Language_Models.md)
 
@@ -53,7 +37,3 @@
 - [TVBench: Redesigning Video-Language Evaluation](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
 
     - [翻译: TVBench：革新视频与语言的评估方式](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
-
-- [Visual Scratchpads: Enabling Global Reasoning in Vision](2024年10月10日/Visual_Scratchpads_Enabling_Global_Reasoning_in_Vision.md)
-
-    - [翻译: 视觉草稿板：助力视觉全局推理](2024年10月10日/Visual_Scratchpads_Enabling_Global_Reasoning_in_Vision.md)
