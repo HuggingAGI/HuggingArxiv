@@ -29,11 +29,3 @@
 - [Rewriting Conversational Utterances with Instructed Large Language Models](2024年10月10日/Rewriting_Conversational_Utterances_with_Instructed_Large_Language_Models.md)
 
     - [翻译: 借助指导性大型语言模型，对话话语得以重塑。](2024年10月10日/Rewriting_Conversational_Utterances_with_Instructed_Large_Language_Models.md)
-
-- [StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
-
-    - [翻译: StepTool：为 LLM 中的工具学习量身定制的步骤级强化学习框架](2024年10月10日/StepTool_A_Step-grained_Reinforcement_Learning_Framework_for_Tool_Learning_in_LLMs.md)
-
-- [TVBench: Redesigning Video-Language Evaluation](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
-
-    - [翻译: TVBench：革新视频与语言的评估方式](2024年10月10日/TVBench_Redesigning_Video-Language_Evaluation.md)
