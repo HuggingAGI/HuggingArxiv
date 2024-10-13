@@ -2,10 +2,6 @@
 
 2024年10月10日
 
-- [Dialectical Behavior Therapy Approach to LLM Prompting](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
-
-    - [翻译: 辩证行为疗法在 LLM 提示中的应用](2024年10月10日/Dialectical_Behavior_Therapy_Approach_to_LLM_Prompting.md)
-
 - [Efficient Reinforcement Learning with Large Language Model Priors](2024年10月10日/Efficient_Reinforcement_Learning_with_Large_Language_Model_Priors.md)
 
     - [翻译: 利用大型语言模型先验实现高效强化学习](2024年10月10日/Efficient_Reinforcement_Learning_with_Large_Language_Model_Priors.md)
@@ -13,10 +9,6 @@
 - [Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures](2024年10月10日/Enhancing_Zeroth-order_Fine-tuning_for_Language_Models_with_Low-rank_Structures.md)
 
     - [翻译: 利用低秩结构提升语言模型的零阶微调效果](2024年10月10日/Enhancing_Zeroth-order_Fine-tuning_for_Language_Models_with_Low-rank_Structures.md)
-
-- [GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps](2024年10月10日/GameTraversalBenchmark_Evaluating_Planning_Abilities_Of_Large_Language_Models_Through_Traversing_2D_Game_Maps.md)
-
-    - [翻译: GameTraversalBenchmark：通过探索二维游戏地图，评估大型语言模型的规划能力](2024年10月10日/GameTraversalBenchmark_Evaluating_Planning_Abilities_Of_Large_Language_Models_Through_Traversing_2D_Game_Maps.md)
 
 - [Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](2024年10月10日/Modeling_User_Preferences_with_Automatic_Metrics_Creating_a_High-Quality_Preference_Dataset_for_Machine_Translation.md)
 
