@@ -22,10 +22,6 @@
 
     - [翻译: AutoPersuade：一款评估与解释说服性论点的框架](2024年10月11日/AutoPersuade_A_Framework_for_Evaluating_and_Explaining_Persuasive_Arguments.md)
 
-- [Baichuan-Omni Technical Report](2024年10月11日/Baichuan-Omni_Technical_Report.md)
-
-    - [翻译: 百川-Omni 技术报告](2024年10月11日/Baichuan-Omni_Technical_Report.md)
-
 - [Can GPTs Evaluate Graphic Design Based on Design Principles?](2024年10月11日/Can_GPTs_Evaluate_Graphic_Design_Based_on_Design_Principles.md)
 
     - [翻译: GPTs 能否依据设计原则评判平面设计？](2024年10月11日/Can_GPTs_Evaluate_Graphic_Design_Based_on_Design_Principles.md)
@@ -37,10 +33,6 @@
 - [Decoding Secret Memorization in Code LLMs Through Token-Level Characterization](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
 
     - [翻译: 揭秘代码 LLM 中的隐秘记忆：基于 Token 级别的特征分析](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
-
-- [DeltaDQ: Ultra-High Delta Compression for Fine-Tuned LLMs via Group-wise Dropout and Separate Quantization](2024年10月11日/DeltaDQ_Ultra-High_Delta_Compression_for_Fine-Tuned_LLMs_via_Group-wise_Dropout_and_Separate_Quantization.md)
-
-    - [翻译: DeltaDQ：利用分组丢弃与单独量化技术，实现微调 LLM 的超高 Delta 压缩效果。](2024年10月11日/DeltaDQ_Ultra-High_Delta_Compression_for_Fine-Tuned_LLMs_via_Group-wise_Dropout_and_Separate_Quantization.md)
 
 - [Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models](2024年10月11日/Developing_a_Pragmatic_Benchmark_for_Assessing_Korean_Legal_Language_Understanding_in_Large_Language_Models.md)
 
