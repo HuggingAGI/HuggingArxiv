@@ -74,10 +74,6 @@
 
     - [翻译: F2A：通过伪装安全检测代理实现提示注入的创新策略](2024年10月11日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
 
-- [From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts](2024年10月11日/From_Interaction_to_Impact_Towards_Safer_AI_Agents_Through_Understanding_and_Evaluating_UI_Operation_Impacts.md)
-
-    - [翻译: 从互动到影响力：通过深入理解与评估用户界面操作的影响，我们致力于打造更安全的 AI 代理。](2024年10月11日/From_Interaction_to_Impact_Towards_Safer_AI_Agents_Through_Understanding_and_Evaluating_UI_Operation_Impacts.md)
-
 - [From N-grams to Pre-trained Multilingual Models For Language Identification](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
     - [翻译: 从 N-grams 到预训练的多语言模型：语言识别的新篇章](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
@@ -110,10 +106,6 @@
 
     - [翻译: 探究大型语言模型在优先排序中的不一致表现](2024年10月11日/Measuring_the_Inconsistency_of_Large_Language_Models_in_Preferential_Ranking.md)
 
-- [MedMobile: A mobile-sized language model with expert-level clinical capabilities](2024年10月11日/MedMobile_A_mobile-sized_language_model_with_expert-level_clinical_capabilities.md)
-
-    - [翻译: MedMobile：一款具备专家级临床能力的移动端语言模型](2024年10月11日/MedMobile_A_mobile-sized_language_model_with_expert-level_clinical_capabilities.md)
-
 - [Mentor-KD: Making Small Language Models Better Multi-step Reasoners](2024年10月11日/Mentor-KD_Making_Small_Language_Models_Better_Multi-step_Reasoners.md)
 
     - [翻译: Mentor-KD：让小型语言模型更擅长多步推理](2024年10月11日/Mentor-KD_Making_Small_Language_Models_Better_Multi-step_Reasoners.md)
@@ -121,14 +113,6 @@
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
     - [翻译: NoVo：通过 LLM 中的注意力头规范投票，消除幻觉](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
-
-- [Parameter-Efficient Fine-Tuning of State Space Models](2024年10月11日/Parameter-Efficient_Fine-Tuning_of_State_Space_Models.md)
-
-    - [翻译: 高效微调状态空间模型中的参数](2024年10月11日/Parameter-Efficient_Fine-Tuning_of_State_Space_Models.md)
-
-- [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](2024年10月11日/PEAR_A_Robust_and_Flexible_Automation_Framework_for_Ptychography_Enabled_by_Multiple_Large_Language_Model_Agents.md)
-
-    - [翻译: PEAR：一个由多智能体大型语言模型驱动的强大且灵活的自动化框架，专为显微镜学设计](2024年10月11日/PEAR_A_Robust_and_Flexible_Automation_Framework_for_Ptychography_Enabled_by_Multiple_Large_Language_Model_Agents.md)
 
 - [PILLAR: an AI-Powered Privacy Threat Modeling Tool](2024年10月11日/PILLAR_an_AI-Powered_Privacy_Threat_Modeling_Tool.md)
 
@@ -149,10 +133,6 @@
 - [RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process](2024年10月11日/RePD_Defending_Jailbreak_Attack_through_a_Retrieval-based_Prompt_Decomposition_Process.md)
 
     - [翻译: RePD：利用基于检索的提示分解技术，有效抵御越狱攻击。](2024年10月11日/RePD_Defending_Jailbreak_Attack_through_a_Retrieval-based_Prompt_Decomposition_Process.md)
-
-- [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation](2024年10月11日/Retriever-and-Memory_Towards_Adaptive_Note-Enhanced_Retrieval-Augmented_Generation.md)
-
-    - [翻译: Retriever-and-Memory：迈向自适应笔记增强的检索增强生成](2024年10月11日/Retriever-and-Memory_Towards_Adaptive_Note-Enhanced_Retrieval-Augmented_Generation.md)
 
 - [Semi-Supervised Learning of Noisy Mixture of Experts Models](2024年10月11日/Semi-Supervised_Learning_of_Noisy_Mixture_of_Experts_Models.md)
 
