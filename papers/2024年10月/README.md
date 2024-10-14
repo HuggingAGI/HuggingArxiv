@@ -158,10 +158,6 @@
 
     - [翻译: 视觉信息如何影响汉字识别：探究大型模型对部首的识别与利用能力](2024年10月11日/The_Impact_of_Visual_Information_in_Chinese_Characters_Evaluating_Large_Models'_Ability_to_Recognize_and_Utilize_Radicals.md)
 
-- [Towards Cross-Lingual LLM Evaluation for European Languages](2024年10月11日/Towards_Cross-Lingual_LLM_Evaluation_for_European_Languages.md)
-
-    - [翻译: 探索欧洲语言的跨语言 LLM 评估](2024年10月11日/Towards_Cross-Lingual_LLM_Evaluation_for_European_Languages.md)
-
 - [Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction](2024年10月11日/Unveiling_Molecular_Secrets_An_LLM-Augmented_Linear_Model_for_Explainable_and_Calibratable_Molecular_Property_Prediction.md)
 
     - [翻译: 揭秘分子奥秘：LLM 增强的线性模型助力可解释与可校准的分子属性预测](2024年10月11日/Unveiling_Molecular_Secrets_An_LLM-Augmented_Linear_Model_for_Explainable_and_Calibratable_Molecular_Property_Prediction.md)
