@@ -106,10 +106,6 @@
 
     - [翻译: 探索人类与计算机交互及视觉理解在自然语言生成模型文本生成中的影响](2024年10月11日/Investigating_Human-Computer_Interaction_and_Visual_Comprehension_in_Text_Generation_Process_of_Natural_Language_Generation_Models.md)
 
-- [Language Imbalance Driven Rewarding for Multilingual Self-improving](2024年10月11日/Language_Imbalance_Driven_Rewarding_for_Multilingual_Self-improving.md)
-
-    - [翻译: 多语言自我改进的奖励机制，由语言不平衡驱动](2024年10月11日/Language_Imbalance_Driven_Rewarding_for_Multilingual_Self-improving.md)
-
 - [Maximizing the Potential of Synthetic Data: Insights from Random Matrix Theory](2024年10月11日/Maximizing_the_Potential_of_Synthetic_Data_Insights_from_Random_Matrix_Theory.md)
 
     - [翻译: 挖掘合成数据的最大潜力：随机矩阵理论的启示](2024年10月11日/Maximizing_the_Potential_of_Synthetic_Data_Insights_from_Random_Matrix_Theory.md)
@@ -133,10 +129,6 @@
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
     - [翻译: NoVo：通过 LLM 中的注意力头规范投票，消除幻觉](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
-
-- [On the Adversarial Transferability of Generalized "Skip Connections"](2024年10月11日/On_the_Adversarial_Transferability_of_Generalized_Skip_Connections.md)
-
-    - [翻译: 探讨广义“跳跃连接”在对抗性场景中的可迁移性](2024年10月11日/On_the_Adversarial_Transferability_of_Generalized_Skip_Connections.md)
 
 - [Parameter-Efficient Fine-Tuning of State Space Models](2024年10月11日/Parameter-Efficient_Fine-Tuning_of_State_Space_Models.md)
 
