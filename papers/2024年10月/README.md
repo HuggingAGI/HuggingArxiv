@@ -6,10 +6,6 @@
 
     - [翻译: RAG 系统评估方法论：配置依赖验证案例研究](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
 
-- [AMPO: Automatic Multi-Branched Prompt Optimization](2024年10月11日/AMPO_Automatic_Multi-Branched_Prompt_Optimization.md)
-
-    - [翻译: AMPO：自动多分支提示优化](2024年10月11日/AMPO_Automatic_Multi-Branched_Prompt_Optimization.md)
-
 - [A Social Context-aware Graph-based Multimodal Attentive Learning Framework for Disaster Content Classification during Emergencies](2024年10月11日/A_Social_Context-aware_Graph-based_Multimodal_Attentive_Learning_Framework_for_Disaster_Content_Classification_during_Emergencies.md)
 
     - [翻译: 一种基于社交上下文和图结构的多模态注意力学习框架，专为紧急情况下的灾难内容分类设计](2024年10月11日/A_Social_Context-aware_Graph-based_Multimodal_Attentive_Learning_Framework_for_Disaster_Content_Classification_during_Emergencies.md)
@@ -196,10 +192,6 @@
 
     - [翻译: 你知道自己在说什么吗？探讨查询与知识的相关性，助力可靠的检索增强生成。](2024年10月10日/Do_You_Know_What_You_Are_Talking_About_Characterizing_Query-Knowledge_Relevance_For_Reliable_Retrieval_Augmented_Generation.md)
 
-- [GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation](2024年10月10日/GIVE_Structured_Reasoning_with_Knowledge_Graph_Inspired_Veracity_Extrapolation.md)
-
-    - [翻译: GIVE：基于知识图谱的真实性外推结构化推理](2024年10月10日/GIVE_Structured_Reasoning_with_Knowledge_Graph_Inspired_Veracity_Extrapolation.md)
-
 - [GUS-Net: Social Bias Classification in Text with Generalizations, Unfairness, and Stereotypes](2024年10月10日/GUS-Net_Social_Bias_Classification_in_Text_with_Generalizations,_Unfairness,_and_Stereotypes.md)
 
     - [翻译: GUS-Net：通过识别泛化、不公平性和刻板印象，精准分类文本中的社会偏见。](2024年10月10日/GUS-Net_Social_Bias_Classification_in_Text_with_Generalizations,_Unfairness,_and_Stereotypes.md)
@@ -211,10 +203,6 @@
 - [Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
 
     - [翻译: 大型立法模型：助力经济模拟中的高效 AI 政策制定](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
-
-- [oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness](2024年10月10日/oRetrieval_Augmented_Generation_for_10_Large_Language_Models_and_its_Generalizability_in_Assessing_Medical_Fitness.md)
-
-    - [翻译: 检索增强生成技术应用于10种大型语言模型，探讨其在医疗适应性评估中的普适性。](2024年10月10日/oRetrieval_Augmented_Generation_for_10_Large_Language_Models_and_its_Generalizability_in_Assessing_Medical_Fitness.md)
 
 - [Self-Attention Mechanism in Multimodal Context for Banking Transaction Flow](2024年10月10日/Self-Attention_Mechanism_in_Multimodal_Context_for_Banking_Transaction_Flow.md)
 
