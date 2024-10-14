@@ -74,10 +74,6 @@
 
     - [翻译: 评估法律问答系统的实际应用能力](2024年10月11日/Measuring_the_Groundedness_of_Legal_Question-Answering_Systems.md)
 
-- [Measuring the Inconsistency of Large Language Models in Preferential Ranking](2024年10月11日/Measuring_the_Inconsistency_of_Large_Language_Models_in_Preferential_Ranking.md)
-
-    - [翻译: 探究大型语言模型在优先排序中的不一致表现](2024年10月11日/Measuring_the_Inconsistency_of_Large_Language_Models_in_Preferential_Ranking.md)
-
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
     - [翻译: NoVo：通过 LLM 中的注意力头规范投票，消除幻觉](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
@@ -150,10 +146,6 @@
 
     - [翻译: ViT3D 与 LLaMA3 的 3D 医学图像报告生成对齐](2024年10月11日/ViT3D_Alignment_of_LLaMA3_3D_Medical_Image_Report_Generation.md)
 
-- [Which Demographics do LLMs Default to During Annotation?](2024年10月11日/Which_Demographics_do_LLMs_Default_to_During_Annotation.md)
-
-    - [翻译: LLMs 在标注时默认采用哪些人口统计特征？](2024年10月11日/Which_Demographics_do_LLMs_Default_to_During_Annotation.md)
-
 - [Words as Beacons: Guiding RL Agents with High-Level Language Prompts](2024年10月11日/Words_as_Beacons_Guiding_RL_Agents_with_High-Level_Language_Prompts.md)
 
     - [翻译: 词语如灯塔，以高级语言提示引领强化学习代理前行。](2024年10月11日/Words_as_Beacons_Guiding_RL_Agents_with_High-Level_Language_Prompts.md)
@@ -163,10 +155,6 @@
 - [Aerial Vision-and-Language Navigation via Semantic-Topo-Metric Representation Guided LLM Reasoning](2024年10月10日/Aerial_Vision-and-Language_Navigation_via_Semantic-Topo-Metric_Representation_Guided_LLM_Reasoning.md)
 
     - [翻译: 空中视觉-语言导航：基于语义-拓扑-度量表示引导的 LLM 推理](2024年10月10日/Aerial_Vision-and-Language_Navigation_via_Semantic-Topo-Metric_Representation_Guided_LLM_Reasoning.md)
-
-- [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](2024年10月10日/Agents_Thinking_Fast_and_Slow_A_Talker-Reasoner_Architecture.md)
-
-    - [翻译: 代理的快思与慢想：一种说话者与推理者的架构](2024年10月10日/Agents_Thinking_Fast_and_Slow_A_Talker-Reasoner_Architecture.md)
 
 - [AgroGPT: Efficient Agricultural Vision-Language Model with Expert Tuning](2024年10月10日/AgroGPT_Efficient_Agricultural_Vision-Language_Model_with_Expert_Tuning.md)
 
@@ -179,10 +167,6 @@
 - [Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
 
     - [翻译: 大型立法模型：助力经济模拟中的高效 AI 政策制定](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
-
-- [Self-Attention Mechanism in Multimodal Context for Banking Transaction Flow](2024年10月10日/Self-Attention_Mechanism_in_Multimodal_Context_for_Banking_Transaction_Flow.md)
-
-    - [翻译: 银行交易流程中的多模态自注意力机制](2024年10月10日/Self-Attention_Mechanism_in_Multimodal_Context_for_Banking_Transaction_Flow.md)
 
 - [SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models](2024年10月10日/SPORTU_A_Comprehensive_Sports_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
 
