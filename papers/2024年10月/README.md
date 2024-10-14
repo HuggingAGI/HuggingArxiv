@@ -78,6 +78,10 @@
 
     - [翻译: F2A：通过伪装安全检测代理实现提示注入的创新策略](2024年10月11日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
 
+- [From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts](2024年10月11日/From_Interaction_to_Impact_Towards_Safer_AI_Agents_Through_Understanding_and_Evaluating_UI_Operation_Impacts.md)
+
+    - [翻译: 从互动到影响力：通过深入理解与评估用户界面操作的影响，我们致力于打造更安全的 AI 代理。](2024年10月11日/From_Interaction_to_Impact_Towards_Safer_AI_Agents_Through_Understanding_and_Evaluating_UI_Operation_Impacts.md)
+
 - [From N-grams to Pre-trained Multilingual Models For Language Identification](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
     - [翻译: 从 N-grams 到预训练的多语言模型：语言识别的新篇章](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
@@ -117,6 +121,10 @@
 - [Measuring the Inconsistency of Large Language Models in Preferential Ranking](2024年10月11日/Measuring_the_Inconsistency_of_Large_Language_Models_in_Preferential_Ranking.md)
 
     - [翻译: 探究大型语言模型在优先排序中的不一致表现](2024年10月11日/Measuring_the_Inconsistency_of_Large_Language_Models_in_Preferential_Ranking.md)
+
+- [MedMobile: A mobile-sized language model with expert-level clinical capabilities](2024年10月11日/MedMobile_A_mobile-sized_language_model_with_expert-level_clinical_capabilities.md)
+
+    - [翻译: MedMobile：一款具备专家级临床能力的移动端语言模型](2024年10月11日/MedMobile_A_mobile-sized_language_model_with_expert-level_clinical_capabilities.md)
 
 - [Mentor-KD: Making Small Language Models Better Multi-step Reasoners](2024年10月11日/Mentor-KD_Making_Small_Language_Models_Better_Multi-step_Reasoners.md)
 
@@ -162,10 +170,6 @@
 
     - [翻译: Retriever-and-Memory：迈向自适应笔记增强的检索增强生成](2024年10月11日/Retriever-and-Memory_Towards_Adaptive_Note-Enhanced_Retrieval-Augmented_Generation.md)
 
-- [Science is Exploration: Computational Frontiers for Conceptual Metaphor Theory](2024年10月11日/Science_is_Exploration_Computational_Frontiers_for_Conceptual_Metaphor_Theory.md)
-
-    - [翻译: 科学即探索：概念隐喻理论的计算新境界](2024年10月11日/Science_is_Exploration_Computational_Frontiers_for_Conceptual_Metaphor_Theory.md)
-
 - [Semi-Supervised Learning of Noisy Mixture of Experts Models](2024年10月11日/Semi-Supervised_Learning_of_Noisy_Mixture_of_Experts_Models.md)
 
     - [翻译: 半监督噪声混合专家模型学习](2024年10月11日/Semi-Supervised_Learning_of_Noisy_Mixture_of_Experts_Models.md)
@@ -194,6 +198,10 @@
 
     - [翻译: SubZero：一种随机子空间零阶优化方法，专为高效内存的大型语言模型微调设计。](2024年10月11日/SubZero_Random_Subspace_Zeroth-Order_Optimization_for_Memory-Efficient_LLM_Fine-Tuning.md)
 
+- [SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights](2024年10月11日/SuperCorrect_Supervising_and_Correcting_Language_Models_with_Error-Driven_Insights.md)
+
+    - [翻译: SuperCorrect：借助错误驱动的洞察，监督并纠正语言模型](2024年10月11日/SuperCorrect_Supervising_and_Correcting_Language_Models_with_Error-Driven_Insights.md)
+
 - [Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models](2024年10月11日/Superpipeline_A_Universal_Approach_for_Reducing_GPU_Memory_Usage_in_Large_Models.md)
 
     - [翻译: Superpipeline：一种通用方案，旨在降低大型模型中的 GPU 内存消耗。](2024年10月11日/Superpipeline_A_Universal_Approach_for_Reducing_GPU_Memory_Usage_in_Large_Models.md)
@@ -220,7 +228,7 @@
 
 - [VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding](2024年10月11日/VERIFIED_A_Video_Corpus_Moment_Retrieval_Benchmark_for_Fine-Grained_Video_Understanding.md)
 
-    - [翻译: VERIFIED：细粒度视频理解的视频帧检索基准库](2024年10月11日/VERIFIED_A_Video_Corpus_Moment_Retrieval_Benchmark_for_Fine-Grained_Video_Understanding.md)
+    - [翻译: VERIFIED：细粒度视频理解的视频帧检索基准](2024年10月11日/VERIFIED_A_Video_Corpus_Moment_Retrieval_Benchmark_for_Fine-Grained_Video_Understanding.md)
 
 - [ViT3D Alignment of LLaMA3: 3D Medical Image Report Generation](2024年10月11日/ViT3D_Alignment_of_LLaMA3_3D_Medical_Image_Report_Generation.md)
 
@@ -242,11 +250,11 @@
 
 - [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](2024年10月10日/Agents_Thinking_Fast_and_Slow_A_Talker-Reasoner_Architecture.md)
 
-    - [翻译: 快速与慢速思考的智能体：一种说者与思考者结合的架构](2024年10月10日/Agents_Thinking_Fast_and_Slow_A_Talker-Reasoner_Architecture.md)
+    - [翻译: 代理的快思与慢想：一种说话者与推理者的架构](2024年10月10日/Agents_Thinking_Fast_and_Slow_A_Talker-Reasoner_Architecture.md)
 
 - [AgroGPT: Efficient Agricultural Vision-Language Model with Expert Tuning](2024年10月10日/AgroGPT_Efficient_Agricultural_Vision-Language_Model_with_Expert_Tuning.md)
 
-    - [翻译: AgroGPT：一款经过专家调优的高效农业视觉-语言模型](2024年10月10日/AgroGPT_Efficient_Agricultural_Vision-Language_Model_with_Expert_Tuning.md)
+    - [翻译: AgroGPT：一款经过专家调优的高效农业视觉与语言模型](2024年10月10日/AgroGPT_Efficient_Agricultural_Vision-Language_Model_with_Expert_Tuning.md)
 
 - [Do You Know What You Are Talking About? Characterizing Query-Knowledge Relevance For Reliable Retrieval Augmented Generation](2024年10月10日/Do_You_Know_What_You_Are_Talking_About_Characterizing_Query-Knowledge_Relevance_For_Reliable_Retrieval_Augmented_Generation.md)
 
@@ -266,7 +274,7 @@
 
 - [Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
 
-    - [翻译: 大型立法模型：助力经济模拟中的高效AI政策制定](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
+    - [翻译: 大型立法模型：助力经济模拟中的高效 AI 政策制定](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
 
 - [oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness](2024年10月10日/oRetrieval_Augmented_Generation_for_10_Large_Language_Models_and_its_Generalizability_in_Assessing_Medical_Fitness.md)
 
