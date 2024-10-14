@@ -218,10 +218,6 @@
 
     - [翻译: ChatGPT 在数据结构与算法课程中的应用：一位助教的视角](2024年10月11日/Utilizing_ChatGPT_in_a_Data_Structures_and_Algorithms_Course_A_Teaching_Assistant's_Perspective.md)
 
-- [VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding](2024年10月11日/VERIFIED_A_Video_Corpus_Moment_Retrieval_Benchmark_for_Fine-Grained_Video_Understanding.md)
-
-    - [翻译: VERIFIED：细粒度视频理解的视频帧检索基准](2024年10月11日/VERIFIED_A_Video_Corpus_Moment_Retrieval_Benchmark_for_Fine-Grained_Video_Understanding.md)
-
 - [ViT3D Alignment of LLaMA3: 3D Medical Image Report Generation](2024年10月11日/ViT3D_Alignment_of_LLaMA3_3D_Medical_Image_Report_Generation.md)
 
     - [翻译: ViT3D 与 LLaMA3 的 3D 医学图像报告生成对齐](2024年10月11日/ViT3D_Alignment_of_LLaMA3_3D_Medical_Image_Report_Generation.md)
