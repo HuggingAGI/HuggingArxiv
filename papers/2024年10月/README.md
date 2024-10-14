@@ -22,10 +22,6 @@
 
     - [翻译: GPTs 能否依据设计原则评判平面设计？](2024年10月11日/Can_GPTs_Evaluate_Graphic_Design_Based_on_Design_Principles.md)
 
-- [Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation](2024年10月11日/Cross-Modal_Bidirectional_Interaction_Model_for_Referring_Remote_Sensing_Image_Segmentation.md)
-
-    - [翻译: 遥感图像分割中的跨模态双向交互模型](2024年10月11日/Cross-Modal_Bidirectional_Interaction_Model_for_Referring_Remote_Sensing_Image_Segmentation.md)
-
 - [Decoding Secret Memorization in Code LLMs Through Token-Level Characterization](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
 
     - [翻译: 揭秘代码 LLM 中的隐秘记忆：基于 Token 级别的特征分析](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
@@ -191,10 +187,6 @@
 - [Do You Know What You Are Talking About? Characterizing Query-Knowledge Relevance For Reliable Retrieval Augmented Generation](2024年10月10日/Do_You_Know_What_You_Are_Talking_About_Characterizing_Query-Knowledge_Relevance_For_Reliable_Retrieval_Augmented_Generation.md)
 
     - [翻译: 你知道自己在说什么吗？探讨查询与知识的相关性，助力可靠的检索增强生成。](2024年10月10日/Do_You_Know_What_You_Are_Talking_About_Characterizing_Query-Knowledge_Relevance_For_Reliable_Retrieval_Augmented_Generation.md)
-
-- [GUS-Net: Social Bias Classification in Text with Generalizations, Unfairness, and Stereotypes](2024年10月10日/GUS-Net_Social_Bias_Classification_in_Text_with_Generalizations,_Unfairness,_and_Stereotypes.md)
-
-    - [翻译: GUS-Net：通过识别泛化、不公平性和刻板印象，精准分类文本中的社会偏见。](2024年10月10日/GUS-Net_Social_Bias_Classification_in_Text_with_Generalizations,_Unfairness,_and_Stereotypes.md)
 
 - [Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
 
