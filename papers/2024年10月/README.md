@@ -34,10 +34,6 @@
 
     - [翻译: 遥感图像分割中的跨模态双向交互模型](2024年10月11日/Cross-Modal_Bidirectional_Interaction_Model_for_Referring_Remote_Sensing_Image_Segmentation.md)
 
-- [Data Processing for the OpenGPT-X Model Family](2024年10月11日/Data_Processing_for_the_OpenGPT-X_Model_Family.md)
-
-    - [翻译: OpenGPT-X 系列模型的数据处理](2024年10月11日/Data_Processing_for_the_OpenGPT-X_Model_Family.md)
-
 - [Decoding Secret Memorization in Code LLMs Through Token-Level Characterization](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
 
     - [翻译: 揭秘代码 LLM 中的隐秘记忆：基于 Token 级别的特征分析](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
@@ -85,10 +81,6 @@
 - [Hypothesis-only Biases in Large Language Model-Elicited Natural Language Inference](2024年10月11日/Hypothesis-only_Biases_in_Large_Language_Model-Elicited_Natural_Language_Inference.md)
 
     - [翻译: 大型语言模型在自然语言推理中仅依赖假设的偏差](2024年10月11日/Hypothesis-only_Biases_in_Large_Language_Model-Elicited_Natural_Language_Inference.md)
-
-- [Integrating Supertag Features into Neural Discontinuous Constituent Parsing](2024年10月11日/Integrating_Supertag_Features_into_Neural_Discontinuous_Constituent_Parsing.md)
-
-    - [翻译: 融合 Supertag 特征至神经断续成分解析](2024年10月11日/Integrating_Supertag_Features_into_Neural_Discontinuous_Constituent_Parsing.md)
 
 - [Investigating Human-Computer Interaction and Visual Comprehension in Text Generation Process of Natural Language Generation Models](2024年10月11日/Investigating_Human-Computer_Interaction_and_Visual_Comprehension_in_Text_Generation_Process_of_Natural_Language_Generation_Models.md)
 
@@ -161,10 +153,6 @@
 - [SubZero: Random Subspace Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](2024年10月11日/SubZero_Random_Subspace_Zeroth-Order_Optimization_for_Memory-Efficient_LLM_Fine-Tuning.md)
 
     - [翻译: SubZero：一种随机子空间零阶优化方法，专为高效内存的大型语言模型微调设计。](2024年10月11日/SubZero_Random_Subspace_Zeroth-Order_Optimization_for_Memory-Efficient_LLM_Fine-Tuning.md)
-
-- [SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights](2024年10月11日/SuperCorrect_Supervising_and_Correcting_Language_Models_with_Error-Driven_Insights.md)
-
-    - [翻译: SuperCorrect：借助错误驱动的洞察，监督并纠正语言模型](2024年10月11日/SuperCorrect_Supervising_and_Correcting_Language_Models_with_Error-Driven_Insights.md)
 
 - [Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models](2024年10月11日/Superpipeline_A_Universal_Approach_for_Reducing_GPU_Memory_Usage_in_Large_Models.md)
 
