@@ -14,10 +14,6 @@
 
     - [翻译: 一种基于社交上下文和图结构的多模态注意力学习框架，专为紧急情况下的灾难内容分类设计](2024年10月11日/A_Social_Context-aware_Graph-based_Multimodal_Attentive_Learning_Framework_for_Disaster_Content_Classification_during_Emergencies.md)
 
-- [AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation](2024年10月11日/AttnGCG_Enhancing_Jailbreaking_Attacks_on_LLMs_with_Attention_Manipulation.md)
-
-    - [翻译: AttnGCG：利用注意力操纵强化对 LLM 的越狱攻击](2024年10月11日/AttnGCG_Enhancing_Jailbreaking_Attacks_on_LLMs_with_Attention_Manipulation.md)
-
 - [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
 
     - [翻译: 在 LLM 和 VLM 时代，音频描述生成：探索可转移的生成 AI 技术](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
@@ -85,10 +81,6 @@
 - [From N-grams to Pre-trained Multilingual Models For Language Identification](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
     - [翻译: 从 N-grams 到预训练的多语言模型：语言识别的新篇章](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
-
-- [Hespi: A pipeline for automatically detecting information from hebarium specimen sheets](2024年10月11日/Hespi_A_pipeline_for_automatically_detecting_information_from_hebarium_specimen_sheets.md)
-
-    - [翻译: Hespi：一款自动提取标本信息的智能流程](2024年10月11日/Hespi_A_pipeline_for_automatically_detecting_information_from_hebarium_specimen_sheets.md)
 
 - [Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving](2024年10月11日/Hybrid_LLM-DDQN_based_Joint_Optimization_of_V2I_Communication_and_Autonomous_Driving.md)
 
@@ -275,3 +267,9 @@
 - [SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models](2024年10月10日/SPORTU_A_Comprehensive_Sports_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: SPORTU：专为多模态大型语言模型设计的综合性体育理解基准](2024年10月10日/SPORTU_A_Comprehensive_Sports_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
+
+2024年10月01日
+
+- [nGPT: Normalized Transformer with Representation Learning on the Hypersphere](2024年10月01日/nGPT_Normalized_Transformer_with_Representation_Learning_on_the_Hypersphere.md)
+
+    - [翻译: nGPT：超球面表示学习的归一化Transformer](2024年10月01日/nGPT_Normalized_Transformer_with_Representation_Learning_on_the_Hypersphere.md)
