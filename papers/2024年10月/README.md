@@ -172,6 +172,12 @@
 
     - [翻译: SPORTU：专为多模态大型语言模型设计的综合性体育理解基准](2024年10月10日/SPORTU_A_Comprehensive_Sports_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
 
+2024年10月09日
+
+- [Pixtral 12B](2024年10月09日/Pixtral_12B.md)
+
+    - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
+
 2024年10月01日
 
 - [nGPT: Normalized Transformer with Representation Learning on the Hypersphere](2024年10月01日/nGPT_Normalized_Transformer_with_Representation_Learning_on_the_Hypersphere.md)
