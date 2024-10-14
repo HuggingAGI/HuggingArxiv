@@ -42,10 +42,6 @@
 
     - [翻译: 双-AEB：融合规则与多模态大型语言模型，实现高效紧急制动](2024年10月11日/Dual-AEB_Synergizing_Rule-Based_and_Multimodal_Large_Language_Models_for_Effective_Emergency_Braking.md)
 
-- [Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping](2024年10月11日/Dynamic_Multimodal_Evaluation_with_Flexible_Complexity_by_Vision-Language_Bootstrapping.md)
-
-    - [翻译: 视觉与语言的引导，实现动态多模态评估，灵活应对复杂性挑战。](2024年10月11日/Dynamic_Multimodal_Evaluation_with_Flexible_Complexity_by_Vision-Language_Bootstrapping.md)
-
 - [Exploring the Design Space of Cognitive Engagement Techniques with AI-Generated Code for Enhanced Learning](2024年10月11日/Exploring_the_Design_Space_of_Cognitive_Engagement_Techniques_with_AI-Generated_Code_for_Enhanced_Learning.md)
 
     - [翻译: 探索 AI 生成代码在提升学习体验中的认知参与技术设计空间](2024年10月11日/Exploring_the_Design_Space_of_Cognitive_Engagement_Techniques_with_AI-Generated_Code_for_Enhanced_Learning.md)
@@ -81,10 +77,6 @@
 - [Measuring the Inconsistency of Large Language Models in Preferential Ranking](2024年10月11日/Measuring_the_Inconsistency_of_Large_Language_Models_in_Preferential_Ranking.md)
 
     - [翻译: 探究大型语言模型在优先排序中的不一致表现](2024年10月11日/Measuring_the_Inconsistency_of_Large_Language_Models_in_Preferential_Ranking.md)
-
-- [Mentor-KD: Making Small Language Models Better Multi-step Reasoners](2024年10月11日/Mentor-KD_Making_Small_Language_Models_Better_Multi-step_Reasoners.md)
-
-    - [翻译: Mentor-KD：让小型语言模型更擅长多步推理](2024年10月11日/Mentor-KD_Making_Small_Language_Models_Better_Multi-step_Reasoners.md)
 
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
@@ -134,10 +126,6 @@
 
     - [翻译: StructRAG：通过推理时的混合信息结构化，大幅提升 LLM 在知识密集型推理中的表现。](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
 
-- [SubZero: Random Subspace Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](2024年10月11日/SubZero_Random_Subspace_Zeroth-Order_Optimization_for_Memory-Efficient_LLM_Fine-Tuning.md)
-
-    - [翻译: SubZero：一种随机子空间零阶优化方法，专为高效内存的大型语言模型微调设计。](2024年10月11日/SubZero_Random_Subspace_Zeroth-Order_Optimization_for_Memory-Efficient_LLM_Fine-Tuning.md)
-
 - [Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models](2024年10月11日/Superpipeline_A_Universal_Approach_for_Reducing_GPU_Memory_Usage_in_Large_Models.md)
 
     - [翻译: Superpipeline：一种通用方案，旨在降低大型模型中的 GPU 内存消耗。](2024年10月11日/Superpipeline_A_Universal_Approach_for_Reducing_GPU_Memory_Usage_in_Large_Models.md)
@@ -183,10 +171,6 @@
 - [AgroGPT: Efficient Agricultural Vision-Language Model with Expert Tuning](2024年10月10日/AgroGPT_Efficient_Agricultural_Vision-Language_Model_with_Expert_Tuning.md)
 
     - [翻译: AgroGPT：一款经过专家调优的高效农业视觉与语言模型](2024年10月10日/AgroGPT_Efficient_Agricultural_Vision-Language_Model_with_Expert_Tuning.md)
-
-- [Do You Know What You Are Talking About? Characterizing Query-Knowledge Relevance For Reliable Retrieval Augmented Generation](2024年10月10日/Do_You_Know_What_You_Are_Talking_About_Characterizing_Query-Knowledge_Relevance_For_Reliable_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 你知道自己在说什么吗？探讨查询与知识的相关性，助力可靠的检索增强生成。](2024年10月10日/Do_You_Know_What_You_Are_Talking_About_Characterizing_Query-Knowledge_Relevance_For_Reliable_Retrieval_Augmented_Generation.md)
 
 - [Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
 
