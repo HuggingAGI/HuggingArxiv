@@ -18,10 +18,6 @@
 
     - [翻译: AutoPersuade：一款评估与解释说服性论点的框架](2024年10月11日/AutoPersuade_A_Framework_for_Evaluating_and_Explaining_Persuasive_Arguments.md)
 
-- [Decoding Secret Memorization in Code LLMs Through Token-Level Characterization](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
-
-    - [翻译: 揭秘代码 LLM 中的隐秘记忆：基于 Token 级别的特征分析](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
-
 - [Don't Transform the Code, Code the Transforms: Towards Precise Code Rewriting using LLMs](2024年10月11日/Don't_Transform_the_Code,_Code_the_Transforms_Towards_Precise_Code_Rewriting_using_LLMs.md)
 
     - [翻译: 别改代码，改写代码：利用 LLM 实现精准代码重写的新思路](2024年10月11日/Don't_Transform_the_Code,_Code_the_Transforms_Towards_Precise_Code_Rewriting_using_LLMs.md)
@@ -110,17 +106,9 @@
 
     - [翻译: StructRAG：通过推理时的混合信息结构化，大幅提升 LLM 在知识密集型推理中的表现。](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
 
-- [Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models](2024年10月11日/Superpipeline_A_Universal_Approach_for_Reducing_GPU_Memory_Usage_in_Large_Models.md)
-
-    - [翻译: Superpipeline：一种通用方案，旨在降低大型模型中的 GPU 内存消耗。](2024年10月11日/Superpipeline_A_Universal_Approach_for_Reducing_GPU_Memory_Usage_in_Large_Models.md)
-
 - [The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points](2024年10月11日/The_Dynamics_of_Social_Conventions_in_LLM_populations_Spontaneous_Emergence,_Collective_Biases_and_Tipping_Points.md)
 
     - [翻译: LLM 群体中的社会规范动态：自发涌现、集体偏见与临界点](2024年10月11日/The_Dynamics_of_Social_Conventions_in_LLM_populations_Spontaneous_Emergence,_Collective_Biases_and_Tipping_Points.md)
-
-- [The Impact of Visual Information in Chinese Characters: Evaluating Large Models' Ability to Recognize and Utilize Radicals](2024年10月11日/The_Impact_of_Visual_Information_in_Chinese_Characters_Evaluating_Large_Models'_Ability_to_Recognize_and_Utilize_Radicals.md)
-
-    - [翻译: 视觉信息如何影响汉字识别：探究大型模型对部首的识别与利用能力](2024年10月11日/The_Impact_of_Visual_Information_in_Chinese_Characters_Evaluating_Large_Models'_Ability_to_Recognize_and_Utilize_Radicals.md)
 
 - [Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction](2024年10月11日/Unveiling_Molecular_Secrets_An_LLM-Augmented_Linear_Model_for_Explainable_and_Calibratable_Molecular_Property_Prediction.md)
 
