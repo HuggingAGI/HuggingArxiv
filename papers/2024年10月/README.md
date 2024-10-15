@@ -6,10 +6,6 @@
 
     - [翻译: $α$-DPO：自适应奖励边际，正是直接偏好优化所需的关键。](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
 
-- [A Comparative Study of Translation Bias and Accuracy in Multilingual Large Language Models for Cross-Language Claim Verification](2024年10月14日/A_Comparative_Study_of_Translation_Bias_and_Accuracy_in_Multilingual_Large_Language_Models_for_Cross-Language_Claim_Verification.md)
-
-    - [翻译: 跨语言声明验证中，多语言大型语言模型的翻译偏差与准确性比较研究](2024年10月14日/A_Comparative_Study_of_Translation_Bias_and_Accuracy_in_Multilingual_Large_Language_Models_for_Cross-Language_Claim_Verification.md)
-
 - [Ada-K Routing: Boosting the Efficiency of MoE-based LLMs](2024年10月14日/Ada-K_Routing_Boosting_the_Efficiency_of_MoE-based_LLMs.md)
 
     - [翻译: Ada-K 路由：为基于 MoE 的 LLM 注入高效动力](2024年10月14日/Ada-K_Routing_Boosting_the_Efficiency_of_MoE-based_LLMs.md)
@@ -125,10 +121,6 @@
 - [FunnelRAG: A Coarse-to-Fine Progressive Retrieval Paradigm for RAG](2024年10月14日/FunnelRAG_A_Coarse-to-Fine_Progressive_Retrieval_Paradigm_for_RAG.md)
 
     - [翻译: FunnelRAG：一种从粗到细的渐进式 RAG 检索方法](2024年10月14日/FunnelRAG_A_Coarse-to-Fine_Progressive_Retrieval_Paradigm_for_RAG.md)
-
-- [Generative AI and Its Impact on Personalized Intelligent Tutoring Systems](2024年10月14日/Generative_AI_and_Its_Impact_on_Personalized_Intelligent_Tutoring_Systems.md)
-
-    - [翻译: 生成式 AI 正在重塑个性化智能辅导系统，探讨其深远影响。](2024年10月14日/Generative_AI_and_Its_Impact_on_Personalized_Intelligent_Tutoring_Systems.md)
 
 - [HSR-Enhanced Sparse Attention Acceleration](2024年10月14日/HSR-Enhanced_Sparse_Attention_Acceleration.md)
 
@@ -383,10 +375,6 @@
 - [M2M-Gen: A Multimodal Framework for Automated Background Music Generation in Japanese Manga Using Large Language Models](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
 
     - [翻译: M2M-Gen：一个利用大型语言模型自动为日本漫画生成背景音乐的多模态框架](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
-
-- [Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications](2024年10月13日/Mastering_AI_Big_Data,_Deep_Learning,_and_the_Evolution_of_Large_Language_Models_--_Blockchain_and_Applications.md)
-
-    - [翻译: 驾驭 AI：从大数据、深度学习到大语言模型的进化，再到区块链的应用](2024年10月13日/Mastering_AI_Big_Data,_Deep_Learning,_and_the_Evolution_of_Large_Language_Models_--_Blockchain_and_Applications.md)
 
 - [MIRAGE: Multimodal Identification and Recognition of Annotations in Indian General Prescriptions](2024年10月13日/MIRAGE_Multimodal_Identification_and_Recognition_of_Annotations_in_Indian_General_Prescriptions.md)
 
