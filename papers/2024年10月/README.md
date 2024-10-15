@@ -78,17 +78,9 @@
 
     - [翻译: 仇恨言论分类的诊断：人类与机器的分歧点及原因何在？](2024年10月14日/Diagnosing_Hate_Speech_Classification_Where_Do_Humans_and_Machines_Disagree,_and_Why.md)
 
-- [Double Jeopardy and Climate Impact in the Use of Large Language Models: Socio-economic Disparities and Reduced Utility for Non-English Speakers](2024年10月14日/Double_Jeopardy_and_Climate_Impact_in_the_Use_of_Large_Language_Models_Socio-economic_Disparities_and_Reduced_Utility_for_Non-English_Speakers.md)
-
-    - [翻译: 大型语言模型的双重风险与气候影响：社会经济差异及非英语使用者的效用下降](2024年10月14日/Double_Jeopardy_and_Climate_Impact_in_the_Use_of_Large_Language_Models_Socio-economic_Disparities_and_Reduced_Utility_for_Non-English_Speakers.md)
-
 - [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads](2024年10月14日/DuoAttention_Efficient_Long-Context_LLM_Inference_with_Retrieval_and_Streaming_Heads.md)
 
     - [翻译: DuoAttention：结合检索与流式处理，实现长上下文 LLM 推理的高效能](2024年10月14日/DuoAttention_Efficient_Long-Context_LLM_Inference_with_Retrieval_and_Streaming_Heads.md)
-
-- [EasyRAG: Efficient Retrieval-Augmented Generation Framework for Network Automated Operations](2024年10月14日/EasyRAG_Efficient_Retrieval-Augmented_Generation_Framework_for_Network_Automated_Operations.md)
-
-    - [翻译: EasyRAG：为网络自动化操作量身打造的高效检索增强生成框架](2024年10月14日/EasyRAG_Efficient_Retrieval-Augmented_Generation_Framework_for_Network_Automated_Operations.md)
 
 - [Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
 
@@ -169,10 +161,6 @@
 - [Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
 
     - [翻译: 大型语言模型加持的强化学习，助力通用公交保持控制策略](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
-
-- [Large Language Model Evaluation via Matrix Nuclear-Norm](2024年10月14日/Large_Language_Model_Evaluation_via_Matrix_Nuclear-Norm.md)
-
-    - [翻译: 大型语言模型的矩阵核范数评估](2024年10月14日/Large_Language_Model_Evaluation_via_Matrix_Nuclear-Norm.md)
 
 - [Large Language Models Are Active Critics in NLG Evaluation](2024年10月14日/Large_Language_Models_Are_Active_Critics_in_NLG_Evaluation.md)
 
@@ -518,10 +506,6 @@
 
     - [翻译: 让AI更诚实：通过微调小型语言模型，使其能说“我不知道”，并减少RAG中的幻觉现象。](2024年10月12日/Honest_AI_Fine-Tuning_Small_Language_Models_to_Say_I_Don't_Know,_and_Reducing_Hallucination_in_RAG.md)
 
-- [Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm](2024年10月12日/Integrating_Reinforcement_Learning_and_Large_Language_Models_for_Crop_Production_Process_Management_Optimization_and_Control_through_A_New_Knowledge-Based_Deep_Learning_Paradigm.md)
-
-    - [翻译: 结合强化学习与大型语言模型，借助一种创新的基于知识的深度学习方法，实现作物生产过程的优化与智能控制。](2024年10月12日/Integrating_Reinforcement_Learning_and_Large_Language_Models_for_Crop_Production_Process_Management_Optimization_and_Control_through_A_New_Knowledge-Based_Deep_Learning_Paradigm.md)
-
 - [Learning the Bitter Lesson: Empirical Evidence from 20 Years of CVPR Proceedings](2024年10月12日/Learning_the_Bitter_Lesson_Empirical_Evidence_from_20_Years_of_CVPR_Proceedings.md)
 
     - [翻译: 从 20 年 CVPR 论文集中汲取的苦涩教训：实证探索](2024年10月12日/Learning_the_Bitter_Lesson_Empirical_Evidence_from_20_Years_of_CVPR_Proceedings.md)
@@ -663,10 +647,6 @@
 - [Maximizing the Potential of Synthetic Data: Insights from Random Matrix Theory](2024年10月11日/Maximizing_the_Potential_of_Synthetic_Data_Insights_from_Random_Matrix_Theory.md)
 
     - [翻译: 挖掘合成数据的最大潜力：随机矩阵理论的启示](2024年10月11日/Maximizing_the_Potential_of_Synthetic_Data_Insights_from_Random_Matrix_Theory.md)
-
-- [Measuring the Groundedness of Legal Question-Answering Systems](2024年10月11日/Measuring_the_Groundedness_of_Legal_Question-Answering_Systems.md)
-
-    - [翻译: 评估法律问答系统的实际应用能力](2024年10月11日/Measuring_the_Groundedness_of_Legal_Question-Answering_Systems.md)
 
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
