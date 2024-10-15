@@ -664,6 +664,10 @@
 
     - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
 
+- [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](2024年10月09日/Representation_Alignment_for_Generation_Training_Diffusion_Transformers_Is_Easier_Than_You_Think.md)
+
+    - [翻译: 生成任务中的表示对齐：训练扩散变换器其实比你想象的更简单](2024年10月09日/Representation_Alignment_for_Generation_Training_Diffusion_Transformers_Is_Easier_Than_You_Think.md)
+
 2024年10月08日
 
 - [Automating Bibliometric Analysis with Sentence Transformers and Retrieval-Augmented Generation (RAG): A Pilot Study in Semantic and Contextual Search for Customized Literature Characterization for High-Impact Urban Research](2024年10月08日/Automating_Bibliometric_Analysis_with_Sentence_Transformers_and_Retrieval-Augmented_Generation_(RAG)_A_Pilot_Study_in_Semantic_and_Contextual_Search_for_Customized_Literature_Characterization_for_High-Impact_Urban_Research.md)
