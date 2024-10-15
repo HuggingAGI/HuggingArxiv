@@ -214,10 +214,6 @@
 
     - [翻译: MoTE：在视觉-语言到视频知识转移中，平衡泛化与专业化](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
 
-- [NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models](2024年10月14日/NT-LLM_A_Novel_Node_Tokenizer_for_Integrating_Graph_Structure_into_Large_Language_Models.md)
-
-    - [翻译: NT-LLM：一种创新节点分词器，旨在将图结构融入大型语言模型。](2024年10月14日/NT-LLM_A_Novel_Node_Tokenizer_for_Integrating_Graph_Structure_into_Large_Language_Models.md)
-
 - [On Calibration of LLM-based Guard Models for Reliable Content Moderation](2024年10月14日/On_Calibration_of_LLM-based_Guard_Models_for_Reliable_Content_Moderation.md)
 
     - [翻译: 校准基于 LLM 的防护模型，确保内容审核的可靠性](2024年10月14日/On_Calibration_of_LLM-based_Guard_Models_for_Reliable_Content_Moderation.md)
@@ -546,10 +542,6 @@
 
     - [翻译: 视觉指令的重构调整](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
-- [ReLU's Revival: On the Entropic Overload in Normalization-Free Large Language Models](2024年10月12日/ReLU's_Revival_On_the_Entropic_Overload_in_Normalization-Free_Large_Language_Models.md)
-
-    - [翻译: ReLU 的复兴：探讨无归一化大型语言模型中的熵过载问题](2024年10月12日/ReLU's_Revival_On_the_Entropic_Overload_in_Normalization-Free_Large_Language_Models.md)
-
 - [Skipping Computations in Multimodal LLMs](2024年10月12日/Skipping_Computations_in_Multimodal_LLMs.md)
 
     - [翻译: 多模态 LLM 中的计算跳跃](2024年10月12日/Skipping_Computations_in_Multimodal_LLMs.md)
@@ -565,10 +557,6 @@
 - [Society of Medical Simplifiers](2024年10月12日/Society_of_Medical_Simplifiers.md)
 
     - [翻译: 医学简化协会](2024年10月12日/Society_of_Medical_Simplifiers.md)
-
-- [Survival of the Safest: Towards Secure Prompt Optimization through Interleaved Multi-Objective Evolution](2024年10月12日/Survival_of_the_Safest_Towards_Secure_Prompt_Optimization_through_Interleaved_Multi-Objective_Evolution.md)
-
-    - [翻译: 最安全者生存：通过交错多目标进化，迈向安全提示优化](2024年10月12日/Survival_of_the_Safest_Towards_Secure_Prompt_Optimization_through_Interleaved_Multi-Objective_Evolution.md)
 
 - [Synthetic Knowledge Ingestion: Towards Knowledge Refinement and Injection for Enhancing Large Language Models](2024年10月12日/Synthetic_Knowledge_Ingestion_Towards_Knowledge_Refinement_and_Injection_for_Enhancing_Large_Language_Models.md)
 
