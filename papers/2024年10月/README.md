@@ -254,6 +254,10 @@
 
     - [翻译: 结构化状态空间模型的隐含偏差，竟能被看似无害的标签所影响。](2024年10月14日/The_Implicit_Bias_of_Structured_State_Space_Models_Can_Be_Poisoned_With_Clean_Labels.md)
 
+- [Thinking LLMs: General Instruction Following with Thought Generation](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
+
+    - [翻译: 思考型 LLM：通过思维生成实现通用指令跟随](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
+
 - [TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs](2024年10月14日/TMGBench_A_Systematic_Game_Benchmark_for_Evaluating_Strategic_Reasoning_Abilities_of_LLMs.md)
 
     - [翻译: TMGBench：一款系统性游戏基准，专为评估 LLMs 的战略推理能力而设计](2024年10月14日/TMGBench_A_Systematic_Game_Benchmark_for_Evaluating_Strategic_Reasoning_Abilities_of_LLMs.md)
