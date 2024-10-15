@@ -392,10 +392,6 @@
 
     - [翻译: Text4Seg：重塑图像分割为文本生成](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
-- [The Ingredients for Robotic Diffusion Transformers](2024年10月13日/The_Ingredients_for_Robotic_Diffusion_Transformers.md)
-
-    - [翻译: 机器人扩散变换器的核心要素](2024年10月13日/The_Ingredients_for_Robotic_Diffusion_Transformers.md)
-
 2024年10月12日
 
 - [AERA Chat: An Interactive Platform for Automated Explainable Student Answer Assessment](2024年10月12日/AERA_Chat_An_Interactive_Platform_for_Automated_Explainable_Student_Answer_Assessment.md)
@@ -567,10 +563,6 @@
 - [AutoPersuade: A Framework for Evaluating and Explaining Persuasive Arguments](2024年10月11日/AutoPersuade_A_Framework_for_Evaluating_and_Explaining_Persuasive_Arguments.md)
 
     - [翻译: AutoPersuade：一款评估与解释说服性论点的框架](2024年10月11日/AutoPersuade_A_Framework_for_Evaluating_and_Explaining_Persuasive_Arguments.md)
-
-- [Dual-AEB: Synergizing Rule-Based and Multimodal Large Language Models for Effective Emergency Braking](2024年10月11日/Dual-AEB_Synergizing_Rule-Based_and_Multimodal_Large_Language_Models_for_Effective_Emergency_Braking.md)
-
-    - [翻译: 双-AEB：融合规则与多模态大型语言模型，实现高效紧急制动](2024年10月11日/Dual-AEB_Synergizing_Rule-Based_and_Multimodal_Large_Language_Models_for_Effective_Emergency_Braking.md)
 
 - [From N-grams to Pre-trained Multilingual Models For Language Identification](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
