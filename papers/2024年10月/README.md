@@ -18,25 +18,13 @@
 
     - [翻译: AutoPersuade：一款评估与解释说服性论点的框架](2024年10月11日/AutoPersuade_A_Framework_for_Evaluating_and_Explaining_Persuasive_Arguments.md)
 
-- [Can GPTs Evaluate Graphic Design Based on Design Principles?](2024年10月11日/Can_GPTs_Evaluate_Graphic_Design_Based_on_Design_Principles.md)
-
-    - [翻译: GPTs 能否依据设计原则评判平面设计？](2024年10月11日/Can_GPTs_Evaluate_Graphic_Design_Based_on_Design_Principles.md)
-
 - [Decoding Secret Memorization in Code LLMs Through Token-Level Characterization](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
 
     - [翻译: 揭秘代码 LLM 中的隐秘记忆：基于 Token 级别的特征分析](2024年10月11日/Decoding_Secret_Memorization_in_Code_LLMs_Through_Token-Level_Characterization.md)
 
-- [Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models](2024年10月11日/Developing_a_Pragmatic_Benchmark_for_Assessing_Korean_Legal_Language_Understanding_in_Large_Language_Models.md)
-
-    - [翻译: 打造实用基准，评估大型语言模型对韩语法律语言的理解](2024年10月11日/Developing_a_Pragmatic_Benchmark_for_Assessing_Korean_Legal_Language_Understanding_in_Large_Language_Models.md)
-
 - [Don't Transform the Code, Code the Transforms: Towards Precise Code Rewriting using LLMs](2024年10月11日/Don't_Transform_the_Code,_Code_the_Transforms_Towards_Precise_Code_Rewriting_using_LLMs.md)
 
     - [翻译: 别改代码，改写代码：利用 LLM 实现精准代码重写的新思路](2024年10月11日/Don't_Transform_the_Code,_Code_the_Transforms_Towards_Precise_Code_Rewriting_using_LLMs.md)
-
-- [Do Unlearning Methods Remove Information from Language Model Weights?](2024年10月11日/Do_Unlearning_Methods_Remove_Information_from_Language_Model_Weights.md)
-
-    - [翻译: 遗忘方法能否真正从语言模型权重中移除信息？](2024年10月11日/Do_Unlearning_Methods_Remove_Information_from_Language_Model_Weights.md)
 
 - [Dual-AEB: Synergizing Rule-Based and Multimodal Large Language Models for Effective Emergency Braking](2024年10月11日/Dual-AEB_Synergizing_Rule-Based_and_Multimodal_Large_Language_Models_for_Effective_Emergency_Braking.md)
 
