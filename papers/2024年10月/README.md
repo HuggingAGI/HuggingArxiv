@@ -154,10 +154,6 @@
 
     - [翻译: LongMemEval：评估聊天助手在长期交互记忆中的表现](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
 
-- [Medico: Towards Hallucination Detection and Correction with Multi-source Evidence Fusion](2024年10月14日/Medico_Towards_Hallucination_Detection_and_Correction_with_Multi-source_Evidence_Fusion.md)
-
-    - [翻译: Medico：迈向多源证据融合的幻觉检测与校正](2024年10月14日/Medico_Towards_Hallucination_Detection_and_Correction_with_Multi-source_Evidence_Fusion.md)
-
 - [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
     - [翻译: MentalGLM 系列：专为中国社交媒体心理健康分析设计的可解释大型语言模型](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
@@ -193,10 +189,6 @@
 - [Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning](2024年10月14日/Parenting_Optimizing_Knowledge_Selection_of_Retrieval-Augmented_Language_Models_with_Parameter_Decoupling_and_Tailored_Tuning.md)
 
     - [翻译: 育儿之道：通过参数解耦与定制调优，优化检索增强语言模型的知识选择](2024年10月14日/Parenting_Optimizing_Knowledge_Selection_of_Retrieval-Augmented_Language_Models_with_Parameter_Decoupling_and_Tailored_Tuning.md)
-
-- [QUIS: Question-guided Insights Generation for Automated Exploratory Data Analysis](2024年10月14日/QUIS_Question-guided_Insights_Generation_for_Automated_Exploratory_Data_Analysis.md)
-
-    - [翻译: QUIS：通过问题引导实现自动化探索性数据分析的洞察生成](2024年10月14日/QUIS_Question-guided_Insights_Generation_for_Automated_Exploratory_Data_Analysis.md)
 
 - [QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios](2024年10月14日/QUITE_Quantifying_Uncertainty_in_Natural_Language_Text_in_Bayesian_Reasoning_Scenarios.md)
 
@@ -615,10 +607,6 @@
 - [SimpleStrat: Diversifying Language Model Generation with Stratification](2024年10月11日/SimpleStrat_Diversifying_Language_Model_Generation_with_Stratification.md)
 
     - [翻译: SimpleStrat：以分层策略丰富语言模型生成多样性](2024年10月11日/SimpleStrat_Diversifying_Language_Model_Generation_with_Stratification.md)
-
-- [SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction](2024年10月11日/SmartPretrain_Model-Agnostic_and_Dataset-Agnostic_Representation_Learning_for_Motion_Prediction.md)
-
-    - [翻译: SmartPretrain：一种模型与数据集无关的表示学习方法，专为运动预测设计。](2024年10月11日/SmartPretrain_Model-Agnostic_and_Dataset-Agnostic_Representation_Learning_for_Motion_Prediction.md)
 
 - [SocialGaze: Improving the Integration of Human Social Norms in Large Language Models](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
