@@ -286,10 +286,6 @@
 
     - [翻译: 目前采用随机选择策略：探讨基于 LLM 的文本增强分类中少样本选择策略的影响](2024年10月14日/Use_Random_Selection_for_Now_Investigation_of_Few-Shot_Selection_Strategies_in_LLM-based_Text_Augmentation_for_Classification.md)
 
-- [VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](2024年10月14日/VisRAG_Vision-based_Retrieval-augmented_Generation_on_Multi-modality_Documents.md)
-
-    - [翻译: VisRAG：多模态文档上的视觉检索增强生成](2024年10月14日/VisRAG_Vision-based_Retrieval-augmented_Generation_on_Multi-modality_Documents.md)
-
 - [When Does Perceptual Alignment Benefit Vision Representations?](2024年10月14日/When_Does_Perceptual_Alignment_Benefit_Vision_Representations.md)
 
     - [翻译: 何时感知对齐能提升视觉表示的效果？](2024年10月14日/When_Does_Perceptual_Alignment_Benefit_Vision_Representations.md)
@@ -533,10 +529,6 @@
 - [SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs](2024年10月12日/SLiM_One-shot_Quantized_Sparse_Plus_Low-rank_Approximation_of_LLMs.md)
 
     - [翻译: SLiM：一次量化稀疏加低秩近似 LLM](2024年10月12日/SLiM_One-shot_Quantized_Sparse_Plus_Low-rank_Approximation_of_LLMs.md)
-
-- [Society of Medical Simplifiers](2024年10月12日/Society_of_Medical_Simplifiers.md)
-
-    - [翻译: 医学简化协会](2024年10月12日/Society_of_Medical_Simplifiers.md)
 
 - [Synthetic Knowledge Ingestion: Towards Knowledge Refinement and Injection for Enhancing Large Language Models](2024年10月12日/Synthetic_Knowledge_Ingestion_Towards_Knowledge_Refinement_and_Injection_for_Enhancing_Large_Language_Models.md)
 
