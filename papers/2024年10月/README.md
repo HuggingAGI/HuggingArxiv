@@ -130,10 +130,6 @@
 
     - [翻译: 生成式 AI 正在重塑个性化智能辅导系统，探讨其深远影响。](2024年10月14日/Generative_AI_and_Its_Impact_on_Personalized_Intelligent_Tutoring_Systems.md)
 
-- [GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](2024年10月14日/GraphCLIP_Enhancing_Transferability_in_Graph_Foundation_Models_for_Text-Attributed_Graphs.md)
-
-    - [翻译: GraphCLIP：提升文本属性图基础模型的迁移能力](2024年10月14日/GraphCLIP_Enhancing_Transferability_in_Graph_Foundation_Models_for_Text-Attributed_Graphs.md)
-
 - [HSR-Enhanced Sparse Attention Acceleration](2024年10月14日/HSR-Enhanced_Sparse_Attention_Acceleration.md)
 
     - [翻译: HSR 增强的稀疏注意力加速](2024年10月14日/HSR-Enhanced_Sparse_Attention_Acceleration.md)
@@ -149,10 +145,6 @@
 - [Is Parameter Collision Hindering Continual Learning in LLMs?](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
 
     - [翻译: 参数碰撞是否成为 LLM 持续学习的绊脚石？](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
-
-- [Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting](2024年10月14日/Jailbreak_Instruction-Tuned_LLMs_via_end-of-sentence_MLP_Re-weighting.md)
-
-    - [翻译: 利用句子结尾的多层感知器重新加权技术，破解指令调整的大型语言模型。](2024年10月14日/Jailbreak_Instruction-Tuned_LLMs_via_end-of-sentence_MLP_Re-weighting.md)
 
 - [KBLaM: Knowledge Base augmented Language Model](2024年10月14日/KBLaM_Knowledge_Base_augmented_Language_Model.md)
 
@@ -731,9 +723,3 @@
 - [A Large Language Model-based Framework for Semi-Structured Tender Document Retrieval-Augmented Generation](2024年10月04日/A_Large_Language_Model-based_Framework_for_Semi-Structured_Tender_Document_Retrieval-Augmented_Generation.md)
 
     - [翻译: 大型语言模型驱动的半结构化招标文件检索与生成框架](2024年10月04日/A_Large_Language_Model-based_Framework_for_Semi-Structured_Tender_Document_Retrieval-Augmented_Generation.md)
-
-2024年10月01日
-
-- [nGPT: Normalized Transformer with Representation Learning on the Hypersphere](2024年10月01日/nGPT_Normalized_Transformer_with_Representation_Learning_on_the_Hypersphere.md)
-
-    - [翻译: nGPT：超球面表示学习的归一化Transformer](2024年10月01日/nGPT_Normalized_Transformer_with_Representation_Learning_on_the_Hypersphere.md)
