@@ -54,10 +54,6 @@
 
     - [翻译: CoMAT：通过链式数学思维注释，提升数学推理能力](2024年10月14日/CoMAT_Chain_of_Mathematically_Annotated_Thought_Improves_Mathematical_Reasoning.md)
 
-- [Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance](2024年10月14日/Context-Parametric_Inversion_Why_Instruction_Finetuning_May_Not_Actually_Improve_Context_Reliance.md)
-
-    - [翻译: 指令微调未必能提升上下文依赖性，这背后的原因在于“上下文参数反转”现象。](2024年10月14日/Context-Parametric_Inversion_Why_Instruction_Finetuning_May_Not_Actually_Improve_Context_Reliance.md)
-
 - [Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
     - [翻译: 大型语言模型中的文化保真度：探讨在线语言资源如何影响模型在价值表示方面的性能。](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
@@ -90,10 +86,6 @@
 
     - [翻译: 在大型语言模型中融入自我修正能力，以提升数学推理的精准度](2024年10月14日/Embedding_Self-Correction_as_an_Inherent_Ability_in_Large_Language_Models_for_Enhanced_Mathematical_Reasoning.md)
 
-- [Evaluating SQL Understanding in Large Language Models](2024年10月14日/Evaluating_SQL_Understanding_in_Large_Language_Models.md)
-
-    - [翻译: 探究大型语言模型对 SQL 的理解能力](2024年10月14日/Evaluating_SQL_Understanding_in_Large_Language_Models.md)
-
 - [F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
 
     - [翻译: F2A：通过伪装安全检测代理实现提示注入的创新策略](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
@@ -121,10 +113,6 @@
 - [FunnelRAG: A Coarse-to-Fine Progressive Retrieval Paradigm for RAG](2024年10月14日/FunnelRAG_A_Coarse-to-Fine_Progressive_Retrieval_Paradigm_for_RAG.md)
 
     - [翻译: FunnelRAG：一种从粗到细的渐进式 RAG 检索方法](2024年10月14日/FunnelRAG_A_Coarse-to-Fine_Progressive_Retrieval_Paradigm_for_RAG.md)
-
-- [HSR-Enhanced Sparse Attention Acceleration](2024年10月14日/HSR-Enhanced_Sparse_Attention_Acceleration.md)
-
-    - [翻译: HSR 增强的稀疏注意力加速](2024年10月14日/HSR-Enhanced_Sparse_Attention_Acceleration.md)
 
 - [Improve Meta-learning for Few-Shot Text Classification with All You Can Acquire from the Tasks](2024年10月14日/Improve_Meta-learning_for_Few-Shot_Text_Classification_with_All_You_Can_Acquire_from_the_Tasks.md)
 
