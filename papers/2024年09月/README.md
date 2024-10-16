@@ -1,7 +1,7 @@
 # 2024年09月
 
-2024年09月10日
+2024年09月28日
 
-- [Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](2024年09月10日/Watching_TV_with_the_Second-Party_A_First_Look_at_Automatic_Content_Recognition_Tracking_in_Smart_TVs.md)
+- [Large Language Model-Driven Cross-Domain Orchestration Using Multi-Agent Workflow](2024年09月28日/Large_Language_Model-Driven_Cross-Domain_Orchestration_Using_Multi-Agent_Workflow.md)
 
-    - [翻译: 与他人共赏电视：智能电视自动内容识别跟踪初探](2024年09月10日/Watching_TV_with_the_Second-Party_A_First_Look_at_Automatic_Content_Recognition_Tracking_in_Smart_TVs.md)
+    - [翻译: 基于多智能体工作流的大型语言模型跨域协同](2024年09月28日/Large_Language_Model-Driven_Cross-Domain_Orchestration_Using_Multi-Agent_Workflow.md)
