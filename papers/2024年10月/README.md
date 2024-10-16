@@ -488,6 +488,10 @@
 
     - [翻译: 显著性引导的扩散潜在优化](2024年10月14日/Saliency_Guided_Optimization_of_Diffusion_Latents.md)
 
+- [SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers](2024年10月14日/SANA_Efficient_High-Resolution_Image_Synthesis_with_Linear_Diffusion_Transformers.md)
+
+    - [翻译: SANA：通过线性扩散变换器，实现高效的高分辨率图像合成](2024年10月14日/SANA_Efficient_High-Resolution_Image_Synthesis_with_Linear_Diffusion_Transformers.md)
+
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
     - [翻译: SeedLM：将 LLM 权重压缩为伪随机生成器的种子](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
