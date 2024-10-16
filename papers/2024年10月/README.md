@@ -622,10 +622,6 @@
 
     - [翻译: 通过大规模 LLM 代理模拟实现动态与文本图生成](2024年10月13日/Dynamic_and_Textual_Graph_Generation_Via_Large-Scale_LLM-based_Agent_Simulation.md)
 
-- [EasyJudge: an Easy-to-use Tool for Comprehensive Response Evaluation of LLMs](2024年10月13日/EasyJudge_an_Easy-to-use_Tool_for_Comprehensive_Response_Evaluation_of_LLMs.md)
-
-    - [翻译: EasyJudge：一款易用的工具，专为全面评估 LLM 响应而设计](2024年10月13日/EasyJudge_an_Easy-to-use_Tool_for_Comprehensive_Response_Evaluation_of_LLMs.md)
-
 - [ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos](2024年10月13日/ECIS-VQG_Generation_of_Entity-centric_Information-seeking_Questions_from_Videos.md)
 
     - [翻译: ECIS-VQG：视频中实体导向的信息探索问题生成](2024年10月13日/ECIS-VQG_Generation_of_Entity-centric_Information-seeking_Questions_from_Videos.md)
