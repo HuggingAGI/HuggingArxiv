@@ -392,10 +392,6 @@
 
     - [翻译: Effi-Code：激发语言模型中的代码效率](2024年10月14日/Effi-Code_Unleashing_Code_Efficiency_in_Language_Models.md)
 
-- [Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning](2024年10月14日/Embedding_Self-Correction_as_an_Inherent_Ability_in_Large_Language_Models_for_Enhanced_Mathematical_Reasoning.md)
-
-    - [翻译: 在大型语言模型中融入自我修正能力，以提升数学推理的精准度](2024年10月14日/Embedding_Self-Correction_as_an_Inherent_Ability_in_Large_Language_Models_for_Enhanced_Mathematical_Reasoning.md)
-
 - [F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
 
     - [翻译: F2A：通过伪装安全检测代理实现提示注入的创新策略](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
@@ -684,10 +680,6 @@
 
     - [翻译: COrAL：一种高效迭代细化的无序语言建模方法](2024年10月12日/COrAL_Order-Agnostic_Language_Modeling_for_Efficient_Iterative_Refinement.md)
 
-- [Declarative Knowledge Distillation from Large Language Models for Visual Question Answering Datasets](2024年10月12日/Declarative_Knowledge_Distillation_from_Large_Language_Models_for_Visual_Question_Answering_Datasets.md)
-
-    - [翻译: 大型语言模型中的声明性知识蒸馏，应用于视觉问答数据集](2024年10月12日/Declarative_Knowledge_Distillation_from_Large_Language_Models_for_Visual_Question_Answering_Datasets.md)
-
 - [DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
 
     - [翻译: DRCap：通过检索增强生成技术，解码 CLAP 潜在变量，实现零-shot 音频字幕生成。](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
@@ -861,10 +853,6 @@
 - [StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
 
     - [翻译: StructRAG：通过推理时的混合信息结构化，大幅提升 LLM 在知识密集型推理中的表现。](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
-
-- [Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction](2024年10月11日/Unveiling_Molecular_Secrets_An_LLM-Augmented_Linear_Model_for_Explainable_and_Calibratable_Molecular_Property_Prediction.md)
-
-    - [翻译: 揭秘分子奥秘：LLM 增强的线性模型助力可解释与可校准的分子属性预测](2024年10月11日/Unveiling_Molecular_Secrets_An_LLM-Augmented_Linear_Model_for_Explainable_and_Calibratable_Molecular_Property_Prediction.md)
 
 - [Utilizing ChatGPT in a Data Structures and Algorithms Course: A Teaching Assistant's Perspective](2024年10月11日/Utilizing_ChatGPT_in_a_Data_Structures_and_Algorithms_Course_A_Teaching_Assistant's_Perspective.md)
 
