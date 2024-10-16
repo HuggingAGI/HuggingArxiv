@@ -134,10 +134,6 @@
 
     - [翻译: 大型语言模型加持的强化学习，助力通用公交保持控制策略](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
 
-- [Large Language Models Are Active Critics in NLG Evaluation](2024年10月14日/Large_Language_Models_Are_Active_Critics_in_NLG_Evaluation.md)
-
-    - [翻译: 大型语言模型在自然语言生成评估中扮演着积极批评者的角色](2024年10月14日/Large_Language_Models_Are_Active_Critics_in_NLG_Evaluation.md)
-
 - [LG-CAV: Train Any Concept Activation Vector with Language Guidance](2024年10月14日/LG-CAV_Train_Any_Concept_Activation_Vector_with_Language_Guidance.md)
 
     - [翻译: LG-CAV：借助语言指导，轻松训练任意概念激活向量](2024年10月14日/LG-CAV_Train_Any_Concept_Activation_Vector_with_Language_Guidance.md)
@@ -249,10 +245,6 @@
 - [Test smells in LLM-Generated Unit Tests](2024年10月14日/Test_smells_in_LLM-Generated_Unit_Tests.md)
 
     - [翻译: LLM 生成单元测试中的测试异味](2024年10月14日/Test_smells_in_LLM-Generated_Unit_Tests.md)
-
-- [The Implicit Bias of Structured State Space Models Can Be Poisoned With Clean Labels](2024年10月14日/The_Implicit_Bias_of_Structured_State_Space_Models_Can_Be_Poisoned_With_Clean_Labels.md)
-
-    - [翻译: 结构化状态空间模型的隐含偏差，竟能被看似无害的标签所影响。](2024年10月14日/The_Implicit_Bias_of_Structured_State_Space_Models_Can_Be_Poisoned_With_Clean_Labels.md)
 
 - [Thinking LLMs: General Instruction Following with Thought Generation](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
 
@@ -517,10 +509,6 @@
 - [The Future of Learning in the Age of Generative AI: Automated Question Generation and Assessment with Large Language Models](2024年10月12日/The_Future_of_Learning_in_the_Age_of_Generative_AI_Automated_Question_Generation_and_Assessment_with_Large_Language_Models.md)
 
     - [翻译: 在生成式 AI 时代，学习将迎来新变革：借助大型语言模型，实现自动问题生成与评估。](2024年10月12日/The_Future_of_Learning_in_the_Age_of_Generative_AI_Automated_Question_Generation_and_Assessment_with_Large_Language_Models.md)
-
-- [Toward General Instruction-Following Alignment for Retrieval-Augmented Generation](2024年10月12日/Toward_General_Instruction-Following_Alignment_for_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 迈向通用指令遵循与检索增强生成的对齐](2024年10月12日/Toward_General_Instruction-Following_Alignment_for_Retrieval-Augmented_Generation.md)
 
 - [Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
 
