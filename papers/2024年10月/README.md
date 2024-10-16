@@ -218,10 +218,6 @@
 
     - [翻译: Sitcom-Crafter：一款以情节驱动的3D场景中人类动作生成系统](2024年10月14日/Sitcom-Crafter_A_Plot-Driven_Human_Motion_Generation_System_in_3D_Scenes.md)
 
-- [SkillAggregation: Reference-free LLM-Dependent Aggregation](2024年10月14日/SkillAggregation_Reference-free_LLM-Dependent_Aggregation.md)
-
-    - [翻译: SkillAggregation: 一种无需参考、依赖于大型语言模型的聚合技术](2024年10月14日/SkillAggregation_Reference-free_LLM-Dependent_Aggregation.md)
-
 - [SLaNC: Static LayerNorm Calibration](2024年10月14日/SLaNC_Static_LayerNorm_Calibration.md)
 
     - [翻译: SLaNC：静态层归一化校准](2024年10月14日/SLaNC_Static_LayerNorm_Calibration.md)
@@ -323,10 +319,6 @@
 - [ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos](2024年10月13日/ECIS-VQG_Generation_of_Entity-centric_Information-seeking_Questions_from_Videos.md)
 
     - [翻译: ECIS-VQG：视频中实体导向的信息探索问题生成](2024年10月13日/ECIS-VQG_Generation_of_Entity-centric_Information-seeking_Questions_from_Videos.md)
-
-- [Expanding Search Space with Diverse Prompting Agents: An Efficient Sampling Approach for LLM Mathematical Reasoning](2024年10月13日/Expanding_Search_Space_with_Diverse_Prompting_Agents_An_Efficient_Sampling_Approach_for_LLM_Mathematical_Reasoning.md)
-
-    - [翻译: 通过多样化的提示代理扩展搜索空间：一种高效的采样方法，助力 LLM 在数学推理中的表现。](2024年10月13日/Expanding_Search_Space_with_Diverse_Prompting_Agents_An_Efficient_Sampling_Approach_for_LLM_Mathematical_Reasoning.md)
 
 - [How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
 
@@ -449,10 +441,6 @@
 - [Honest AI: Fine-Tuning "Small" Language Models to Say "I Don't Know", and Reducing Hallucination in RAG](2024年10月12日/Honest_AI_Fine-Tuning_Small_Language_Models_to_Say_I_Don't_Know,_and_Reducing_Hallucination_in_RAG.md)
 
     - [翻译: 让AI更诚实：通过微调小型语言模型，使其能说“我不知道”，并减少RAG中的幻觉现象。](2024年10月12日/Honest_AI_Fine-Tuning_Small_Language_Models_to_Say_I_Don't_Know,_and_Reducing_Hallucination_in_RAG.md)
-
-- [Learning the Bitter Lesson: Empirical Evidence from 20 Years of CVPR Proceedings](2024年10月12日/Learning_the_Bitter_Lesson_Empirical_Evidence_from_20_Years_of_CVPR_Proceedings.md)
-
-    - [翻译: 从 20 年 CVPR 论文集中汲取的苦涩教训：实证探索](2024年10月12日/Learning_the_Bitter_Lesson_Empirical_Evidence_from_20_Years_of_CVPR_Proceedings.md)
 
 - [LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
 
@@ -611,10 +599,6 @@
 - [StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
 
     - [翻译: StructRAG：通过推理时的混合信息结构化，大幅提升 LLM 在知识密集型推理中的表现。](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
-
-- [The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points](2024年10月11日/The_Dynamics_of_Social_Conventions_in_LLM_populations_Spontaneous_Emergence,_Collective_Biases_and_Tipping_Points.md)
-
-    - [翻译: LLM 群体中的社会规范动态：自发涌现、集体偏见与临界点](2024年10月11日/The_Dynamics_of_Social_Conventions_in_LLM_populations_Spontaneous_Emergence,_Collective_Biases_and_Tipping_Points.md)
 
 - [Underutilized land and sustainable development: effects on employment, economic output, and mitigation of CO2 emissions](2024年10月11日/Underutilized_land_and_sustainable_development_effects_on_employment,_economic_output,_and_mitigation_of_CO2_emissions.md)
 
