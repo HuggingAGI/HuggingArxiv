@@ -138,10 +138,6 @@
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
-- [Latent Action Pretraining from Videos](2024年10月15日/Latent_Action_Pretraining_from_Videos.md)
-
-    - [翻译: 视频中的潜在动作预训练](2024年10月15日/Latent_Action_Pretraining_from_Videos.md)
-
 - [Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models](2024年10月15日/Layer-wise_Importance_Matters_Less_Memory_for_Better_Performance_in_Parameter-efficient_Fine-tuning_of_Large_Language_Models.md)
 
     - [翻译: 逐层重要性不容忽视：在大型语言模型的参数高效微调中，减少内存占用反而能提升性能。](2024年10月15日/Layer-wise_Importance_Matters_Less_Memory_for_Better_Performance_in_Parameter-efficient_Fine-tuning_of_Large_Language_Models.md)
@@ -245,10 +241,6 @@
 - [ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
 
     - [翻译: ReDeEP：利用机制可解释性，精准检测检索增强生成中的幻觉现象。](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
-
-- [Retrieval Augmented Spelling Correction for E-Commerce Applications](2024年10月15日/Retrieval_Augmented_Spelling_Correction_for_E-Commerce_Applications.md)
-
-    - [翻译: 电子商务应用中的增强检索拼写校正](2024年10月15日/Retrieval_Augmented_Spelling_Correction_for_E-Commerce_Applications.md)
 
 - [Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs](2024年10月15日/Revisiting_Benchmark_and_Assessment_An_Agent-based_Exploratory_Dynamic_Evaluation_Framework_for_LLMs.md)
 
@@ -691,10 +683,6 @@
 - [Are You Human? An Adversarial Benchmark to Expose LLMs](2024年10月12日/Are_You_Human_An_Adversarial_Benchmark_to_Expose_LLMs.md)
 
     - [翻译: “你是人类吗？”——一个对抗性基准，旨在揭示大型语言模型的真实面目。](2024年10月12日/Are_You_Human_An_Adversarial_Benchmark_to_Expose_LLMs.md)
-
-- [Beyond Exact Match: Semantically Reassessing Event Extraction by Large Language Models](2024年10月12日/Beyond_Exact_Match_Semantically_Reassessing_Event_Extraction_by_Large_Language_Models.md)
-
-    - [翻译: 超越精确匹配：借助大型语言模型重新审视事件提取的语义层面](2024年10月12日/Beyond_Exact_Match_Semantically_Reassessing_Event_Extraction_by_Large_Language_Models.md)
 
 - [Boosting Deductive Reasoning with Step Signals In RLHF](2024年10月12日/Boosting_Deductive_Reasoning_with_Step_Signals_In_RLHF.md)
 
