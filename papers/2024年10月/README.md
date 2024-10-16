@@ -114,10 +114,6 @@
 
     - [翻译: 用自注意力网络实现确定逻辑程序的推导](2024年10月15日/Implementing_Derivations_of_Definite_Logic_Programs_with_Self-Attention_Networks.md)
 
-- [In-Context Learning for Long-Context Sentiment Analysis on Infrastructure Project Opinions](2024年10月15日/In-Context_Learning_for_Long-Context_Sentiment_Analysis_on_Infrastructure_Project_Opinions.md)
-
-    - [翻译: 基础设施项目意见的长上下文情感分析中的上下文学习](2024年10月15日/In-Context_Learning_for_Long-Context_Sentiment_Analysis_on_Infrastructure_Project_Opinions.md)
-
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
     - [翻译: 指导性代码检索器：借助大型语言模型的反馈，提升代码智能任务的表现](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
@@ -801,10 +797,6 @@
 - [M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought](2024年10月11日/M3Hop-CoT_Misogynous_Meme_Identification_with_Multimodal_Multi-hop_Chain-of-Thought.md)
 
     - [翻译: M3Hop-CoT：通过多模态多跳链式思维识别厌女表情包](2024年10月11日/M3Hop-CoT_Misogynous_Meme_Identification_with_Multimodal_Multi-hop_Chain-of-Thought.md)
-
-- [Maximizing the Potential of Synthetic Data: Insights from Random Matrix Theory](2024年10月11日/Maximizing_the_Potential_of_Synthetic_Data_Insights_from_Random_Matrix_Theory.md)
-
-    - [翻译: 挖掘合成数据的最大潜力：随机矩阵理论的启示](2024年10月11日/Maximizing_the_Potential_of_Synthetic_Data_Insights_from_Random_Matrix_Theory.md)
 
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
