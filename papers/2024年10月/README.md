@@ -138,10 +138,6 @@
 
     - [翻译: IntGrad MT：借助句子插值与逐步机器翻译，激发 LLM 的翻译潜能](2024年10月15日/IntGrad_MT_Eliciting_LLMs'_Machine_Translation_Capabilities_with_Sentence_Interpolation_and_Gradual_MT.md)
 
-- [Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](2024年10月15日/Jigsaw_Puzzles_Splitting_Harmful_Questions_to_Jailbreak_Large_Language_Models.md)
-
-    - [翻译: 拼图解谜：拆解有害问题，破解大型语言模型](2024年10月15日/Jigsaw_Puzzles_Splitting_Harmful_Questions_to_Jailbreak_Large_Language_Models.md)
-
 - [KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities](2024年10月15日/KITTEN_A_Knowledge-Intensive_Evaluation_of_Image_Generation_on_Visual_Entities.md)
 
     - [翻译: KITTEN：视觉实体图像生成的知识密集型评估](2024年10月15日/KITTEN_A_Knowledge-Intensive_Evaluation_of_Image_Generation_on_Visual_Entities.md)
@@ -512,10 +508,6 @@
 
     - [翻译: 通过最小调整，以高质量数据为关键，解锁 LLM 的长输出能力](2024年10月14日/Minimum_Tuning_to_Unlock_Long_Output_from_LLMs_with_High_Quality_Data_as_the_Key.md)
 
-- [Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning](2024年10月14日/Mix_Data_or_Merge_Models_Optimizing_for_Diverse_Multi-Task_Learning.md)
-
-    - [翻译: 是混合数据还是合并模型？探讨如何优化多样化的多任务学习。](2024年10月14日/Mix_Data_or_Merge_Models_Optimizing_for_Diverse_Multi-Task_Learning.md)
-
 - [MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling](2024年10月14日/MMAR_Towards_Lossless_Multi-Modal_Auto-Regressive_Prababilistic_Modeling.md)
 
     - [翻译: MMAR：探索无损多模态自回归概率建模的新领域](2024年10月14日/MMAR_Towards_Lossless_Multi-Modal_Auto-Regressive_Prababilistic_Modeling.md)
@@ -575,10 +567,6 @@
 - [SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
 
     - [翻译: SplitLLM：通过协作推理优化 LLM 的模型放置和吞吐量](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
-
-- [STACKFEED: Structured Textual Actor-Critic Knowledge Base Editing with FeedBack](2024年10月14日/STACKFEED_Structured_Textual_Actor-Critic_Knowledge_Base_Editing_with_FeedBack.md)
-
-    - [翻译: STACKFEED：结合反馈机制的结构化文本 Actor-Critic 知识库编辑系统](2024年10月14日/STACKFEED_Structured_Textual_Actor-Critic_Knowledge_Base_Editing_with_FeedBack.md)
 
 - [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
 
@@ -715,10 +703,6 @@
 - [Agentic Information Retrieval](2024年10月12日/Agentic_Information_Retrieval.md)
 
     - [翻译: 主动信息检索](2024年10月12日/Agentic_Information_Retrieval.md)
-
-- [ALLoRA: Adaptive Learning Rate Mitigates LoRA Fatal Flaws](2024年10月12日/ALLoRA_Adaptive_Learning_Rate_Mitigates_LoRA_Fatal_Flaws.md)
-
-    - [翻译: ALLoRA：自适应学习率巧妙化解 LoRA 的致命弱点](2024年10月12日/ALLoRA_Adaptive_Learning_Rate_Mitigates_LoRA_Fatal_Flaws.md)
 
 - [Are You Human? An Adversarial Benchmark to Expose LLMs](2024年10月12日/Are_You_Human_An_Adversarial_Benchmark_to_Expose_LLMs.md)
 
