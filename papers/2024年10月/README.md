@@ -786,6 +786,10 @@
 
     - [翻译: 借助语言模型的双层编程，从网络视频中学习奖励机制](2024年10月11日/Language-Model-Assisted_Bi-Level_Programming_for_Reward_Learning_from_Internet_Videos.md)
 
+- [Losing dimensions: Geometric memorization in generative diffusion](2024年10月11日/Losing_dimensions_Geometric_memorization_in_generative_diffusion.md)
+
+    - [翻译: 维度迷失：生成扩散中的几何记忆](2024年10月11日/Losing_dimensions_Geometric_memorization_in_generative_diffusion.md)
+
 - [M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought](2024年10月11日/M3Hop-CoT_Misogynous_Meme_Identification_with_Multimodal_Multi-hop_Chain-of-Thought.md)
 
     - [翻译: M3Hop-CoT：通过多模态多跳链式思维识别厌女表情包](2024年10月11日/M3Hop-CoT_Misogynous_Meme_Identification_with_Multimodal_Multi-hop_Chain-of-Thought.md)
