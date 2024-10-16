@@ -298,10 +298,6 @@
 
     - [翻译: Y-Mol：一款多尺度生物医学知识驱动的大型语言模型，专为药物研发而生](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
 
-- [Zero-shot Model-based Reinforcement Learning using Large Language Models](2024年10月15日/Zero-shot_Model-based_Reinforcement_Learning_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型进行零-shot 模型强化学习](2024年10月15日/Zero-shot_Model-based_Reinforcement_Learning_using_Large_Language_Models.md)
-
 2024年10月14日
 
 - [$α$-DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
@@ -319,10 +315,6 @@
 - [Adapt-$\infty$: Scalable Lifelong Multimodal Instruction Tuning via Dynamic Data Selection](2024年10月14日/Adapt-$\infty$_Scalable_Lifelong_Multimodal_Instruction_Tuning_via_Dynamic_Data_Selection.md)
 
     - [翻译: Adapt-$\infty$：利用动态数据选择，实现终身多模态指令调优的可扩展性](2024年10月14日/Adapt-$\infty$_Scalable_Lifelong_Multimodal_Instruction_Tuning_via_Dynamic_Data_Selection.md)
-
-- [AFlow: Automating Agentic Workflow Generation](2024年10月14日/AFlow_Automating_Agentic_Workflow_Generation.md)
-
-    - [翻译: AFlow：智能自动化工作流生成](2024年10月14日/AFlow_Automating_Agentic_Workflow_Generation.md)
 
 - [A Multi-Task Text Classification Pipeline with Natural Language Explanations: A User-Centric Evaluation in Sentiment Analysis and Offensive Language Identification in Greek Tweets](2024年10月14日/A_Multi-Task_Text_Classification_Pipeline_with_Natural_Language_Explanations_A_User-Centric_Evaluation_in_Sentiment_Analysis_and_Offensive_Language_Identification_in_Greek_Tweets.md)
 
@@ -654,10 +646,6 @@
 
     - [翻译: 用检索取代微调：探索基于检索的参数集成在零-shot 学习中的应用](2024年10月13日/Retrieval_Instead_of_Fine-tuning_A_Retrieval-based_Parameter_Ensemble_for_Zero-shot_Learning.md)
 
-- [RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates](2024年10月13日/RoCoFT_Efficient_Finetuning_of_Large_Language_Models_with_Row-Column_Updates.md)
-
-    - [翻译: RoCoFT：通过行-列更新实现大型语言模型的高效微调](2024年10月13日/RoCoFT_Efficient_Finetuning_of_Large_Language_Models_with_Row-Column_Updates.md)
-
 - [Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation](2024年10月13日/Targeted_Vaccine_Safety_Alignment_for_Large_Language_Models_against_Harmful_Fine-Tuning_via_Layer-wise_Perturbation.md)
 
     - [翻译: 目标疫苗：通过逐层扰动保护大型语言模型免受有害微调的影响，确保安全对齐](2024年10月13日/Targeted_Vaccine_Safety_Alignment_for_Large_Language_Models_against_Harmful_Fine-Tuning_via_Layer-wise_Perturbation.md)
@@ -715,10 +703,6 @@
 - [Exploring Demonstration Retrievers in RAG for Coding Tasks: Yeas and Nays!](2024年10月12日/Exploring_Demonstration_Retrievers_in_RAG_for_Coding_Tasks_Yeas_and_Nays!.md)
 
     - [翻译: RAG 中编码任务演示检索器的探索：利弊分析！](2024年10月12日/Exploring_Demonstration_Retrievers_in_RAG_for_Coding_Tasks_Yeas_and_Nays!.md)
-
-- [Extended Japanese Commonsense Morality Dataset with Masked Token and Label Enhancement](2024年10月12日/Extended_Japanese_Commonsense_Morality_Dataset_with_Masked_Token_and_Label_Enhancement.md)
-
-    - [翻译: 扩展版日本常识道德数据集，融合掩码标记与标签增强技术](2024年10月12日/Extended_Japanese_Commonsense_Morality_Dataset_with_Masked_Token_and_Label_Enhancement.md)
 
 - [FlatQuant: Flatness Matters for LLM Quantization](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
@@ -787,10 +771,6 @@
 - [Training Dynamics of Transformers to Recognize Word Co-occurrence via Gradient Flow Analysis](2024年10月12日/Training_Dynamics_of_Transformers_to_Recognize_Word_Co-occurrence_via_Gradient_Flow_Analysis.md)
 
     - [翻译: 通过梯度流分析，揭示 Transformer 识别词共现的训练动态](2024年10月12日/Training_Dynamics_of_Transformers_to_Recognize_Word_Co-occurrence_via_Gradient_Flow_Analysis.md)
-
-- [Transformer-based Language Models for Reasoning in the Description Logic ALCQ](2024年10月12日/Transformer-based_Language_Models_for_Reasoning_in_the_Description_Logic_ALCQ.md)
-
-    - [翻译: 基于 Transformer 的语言模型在描述逻辑 ALCQ 中的推理应用](2024年10月12日/Transformer-based_Language_Models_for_Reasoning_in_the_Description_Logic_ALCQ.md)
 
 - [Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](2024年10月12日/Two_Heads_Are_Better_Than_One_A_Multi-Agent_System_Has_the_Potential_to_Improve_Scientific_Idea_Generation.md)
 
