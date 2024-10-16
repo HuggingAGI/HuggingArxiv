@@ -254,10 +254,6 @@
 
     - [翻译: SEER：自对齐证据提取，助力检索增强生成](2024年10月15日/SEER_Self-Aligned_Evidence_Extraction_for_Retrieval-Augmented_Generation.md)
 
-- [Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability](2024年10月15日/Selection-p_Self-Supervised_Task-Agnostic_Prompt_Compression_for_Faithfulness_and_Transferability.md)
-
-    - [翻译: Selection-p: 自监督任务无关提示压缩，旨在提升忠实度和可迁移性](2024年10月15日/Selection-p_Self-Supervised_Task-Agnostic_Prompt_Compression_for_Faithfulness_and_Transferability.md)
-
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
 
     - [翻译: 自适应多模态检索增强生成技术](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
@@ -289,10 +285,6 @@
 - [VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models](2024年10月15日/VidCompress_Memory-Enhanced_Temporal_Compression_for_Video_Understanding_in_Large_Language_Models.md)
 
     - [翻译: VidCompress：通过内存增强的时间压缩技术，提升大型语言模型中的视频理解能力。](2024年10月15日/VidCompress_Memory-Enhanced_Temporal_Compression_for_Video_Understanding_in_Large_Language_Models.md)
-
-- [VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI](2024年10月15日/VidEgoThink_Assessing_Egocentric_Video_Understanding_Capabilities_for_Embodied_AI.md)
-
-    - [翻译: VidEgoThink：探索具身 AI 在以自我为中心的视频理解中的潜能](2024年10月15日/VidEgoThink_Assessing_Egocentric_Video_Understanding_Capabilities_for_Embodied_AI.md)
 
 - [Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
 
