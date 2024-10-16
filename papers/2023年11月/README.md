@@ -1,5 +1,11 @@
 # 2023年11月
 
+2023年11月28日
+
+- [LLM generated responses to mitigate the impact of hate speech](2023年11月28日/LLM_generated_responses_to_mitigate_the_impact_of_hate_speech.md)
+
+    - [翻译: LLM 生成的回应旨在缓解仇恨言论的冲击。](2023年11月28日/LLM_generated_responses_to_mitigate_the_impact_of_hate_speech.md)
+
 2023年11月24日
 
 - [Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection](2023年11月24日/Evaluating_the_Instruction-Following_Robustness_of_Large_Language_Models_to_Prompt_Injection.md)

@@ -360,6 +360,10 @@
 
     - [翻译: 大型语言模型遭遇拒绝服务中毒攻击](2024年10月14日/Denial-of-Service_Poisoning_Attacks_against_Large_Language_Models.md)
 
+- [Depth Any Video with Scalable Synthetic Data](2024年10月14日/Depth_Any_Video_with_Scalable_Synthetic_Data.md)
+
+    - [翻译: 用可扩展的合成数据实现任意视频深度](2024年10月14日/Depth_Any_Video_with_Scalable_Synthetic_Data.md)
+
 - [Diagnosing Hate Speech Classification: Where Do Humans and Machines Disagree, and Why?](2024年10月14日/Diagnosing_Hate_Speech_Classification_Where_Do_Humans_and_Machines_Disagree,_and_Why.md)
 
     - [翻译: 仇恨言论分类的诊断：人类与机器的分歧点及原因何在？](2024年10月14日/Diagnosing_Hate_Speech_Classification_Where_Do_Humans_and_Machines_Disagree,_and_Why.md)
