@@ -6,10 +6,6 @@
 
     - [翻译: 利用深度强化学习技术，精准归因高级持续威胁（APT）](2024年10月15日/Advanced_Persistent_Threats_(APT)_Attribution_Using_Deep_Reinforcement_Learning.md)
 
-- [AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment](2024年10月15日/AdvBDGen_Adversarially_Fortified_Prompt-Specific_Fuzzy_Backdoor_Generator_Against_LLM_Alignment.md)
-
-    - [翻译: AdvBDGen：一款针对 LLM 对齐的对抗性强化提示特定模糊后门生成器](2024年10月15日/AdvBDGen_Adversarially_Fortified_Prompt-Specific_Fuzzy_Backdoor_Generator_Against_LLM_Alignment.md)
-
 - [A Framework for Adapting Human-Robot Interaction to Diverse User Groups](2024年10月15日/A_Framework_for_Adapting_Human-Robot_Interaction_to_Diverse_User_Groups.md)
 
     - [翻译: 人机交互框架，灵活适应多元用户群体](2024年10月15日/A_Framework_for_Adapting_Human-Robot_Interaction_to_Diverse_User_Groups.md)
@@ -121,10 +117,6 @@
 - [GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
 
     - [翻译: GaVaMoE：一种结合高斯变分和门控混合专家技术，旨在提升推荐系统可解释性的模型。](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
-
-- [G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](2024年10月15日/G-Designer_Architecting_Multi-agent_Communication_Topologies_via_Graph_Neural_Networks.md)
-
-    - [翻译: G-Designer：利用图神经网络构建多智能体通信网络](2024年10月15日/G-Designer_Architecting_Multi-agent_Communication_Topologies_via_Graph_Neural_Networks.md)
 
 - [Human-LLM Collaborative Construction of a Cantonese Emotion Lexicon](2024年10月15日/Human-LLM_Collaborative_Construction_of_a_Cantonese_Emotion_Lexicon.md)
 
@@ -543,10 +535,6 @@
 - [On Calibration of LLM-based Guard Models for Reliable Content Moderation](2024年10月14日/On_Calibration_of_LLM-based_Guard_Models_for_Reliable_Content_Moderation.md)
 
     - [翻译: 校准基于 LLM 的防护模型，确保内容审核的可靠性](2024年10月14日/On_Calibration_of_LLM-based_Guard_Models_for_Reliable_Content_Moderation.md)
-
-- [On the Capacity of Citation Generation by Large Language Models](2024年10月14日/On_the_Capacity_of_Citation_Generation_by_Large_Language_Models.md)
-
-    - [翻译: 探究大型语言模型在引用生成方面的潜力](2024年10月14日/On_the_Capacity_of_Citation_Generation_by_Large_Language_Models.md)
 
 - [Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning](2024年10月14日/Parenting_Optimizing_Knowledge_Selection_of_Retrieval-Augmented_Language_Models_with_Parameter_Decoupling_and_Tailored_Tuning.md)
 
