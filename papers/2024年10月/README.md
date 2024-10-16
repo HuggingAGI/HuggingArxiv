@@ -26,6 +26,10 @@
 
     - [翻译: AVeriTeC 的 AIC CTU 系统：将自动事实核查简化为一个简单的 RAG 任务](2024年10月15日/AIC_CTU_system_at_AVeriTeC_Re-framing_automated_fact-checking_as_a_simple_RAG_task.md)
 
+- [Are UFOs Driving Innovation? The Illusion of Causality in Large Language Models](2024年10月15日/Are_UFOs_Driving_Innovation_The_Illusion_of_Causality_in_Large_Language_Models.md)
+
+    - [翻译: UFOs 能推动创新吗？大型语言模型中的因果错觉](2024年10月15日/Are_UFOs_Driving_Innovation_The_Illusion_of_Causality_in_Large_Language_Models.md)
+
 - [Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
 
     - [翻译: 增强驱动度量：平衡文本引导图像编辑中的保留与修改](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
@@ -58,6 +62,10 @@
 
     - [翻译: 认知过载攻击：长上下文中的提示注入](2024年10月15日/Cognitive_Overload_AttackPrompt_Injection_for_Long_Context.md)
 
+- [Converging to a Lingua Franca: Evolution of Linguistic Regions and Semantics Alignment in Multilingual Large Language Models](2024年10月15日/Converging_to_a_Lingua_Franca_Evolution_of_Linguistic_Regions_and_Semantics_Alignment_in_Multilingual_Large_Language_Models.md)
+
+    - [翻译: 多语言大型语言模型中，语言区域逐渐趋同，语义对齐也在不断演进，共同迈向通用语言的境界。](2024年10月15日/Converging_to_a_Lingua_Franca_Evolution_of_Linguistic_Regions_and_Semantics_Alignment_in_Multilingual_Large_Language_Models.md)
+
 - [Data Quality Control in Federated Instruction-tuning of Large Language Models](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
 
     - [翻译: 联邦指令调优中的数据质量控制：大型语言模型的关键环节](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
@@ -86,6 +94,22 @@
 
     - [翻译: DynamicER：为 RAG 系统解析新兴提及并映射到动态实体](2024年10月15日/DynamicER_Resolving_Emerging_Mentions_to_Dynamic_Entities_for_RAG.md)
 
+- [DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure](2024年10月15日/DySpec_Faster_Speculative_Decoding_with_Dynamic_Token_Tree_Structure.md)
+
+    - [翻译: DySpec：借助动态令牌树结构，实现更快的推测解码](2024年10月15日/DySpec_Faster_Speculative_Decoding_with_Dynamic_Token_Tree_Structure.md)
+
+- [Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models](2024年10月15日/Efficient_and_Effective_Universal_Adversarial_Attack_against_Vision-Language_Pre-training_Models.md)
+
+    - [翻译: 针对视觉-语言预训练模型，我们提出了一种既高效又有效的通用对抗攻击方法。](2024年10月15日/Efficient_and_Effective_Universal_Adversarial_Attack_against_Vision-Language_Pre-training_Models.md)
+
+- [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](2024年10月15日/Efficient_Diffusion_Models_A_Comprehensive_Survey_from_Principles_to_Practices.md)
+
+    - [翻译: 高效扩散模型：从理论到应用的全面解析](2024年10月15日/Efficient_Diffusion_Models_A_Comprehensive_Survey_from_Principles_to_Practices.md)
+
+- [Eliciting Textual Descriptions from Representations of Continuous Prompts](2024年10月15日/Eliciting_Textual_Descriptions_from_Representations_of_Continuous_Prompts.md)
+
+    - [翻译: 从连续提示的表示中提取文本描述](2024年10月15日/Eliciting_Textual_Descriptions_from_Representations_of_Continuous_Prompts.md)
+
 - [Enhance Graph Alignment for Large Language Models](2024年10月15日/Enhance_Graph_Alignment_for_Large_Language_Models.md)
 
     - [翻译: 提升大型语言模型的图对齐能力](2024年10月15日/Enhance_Graph_Alignment_for_Large_Language_Models.md)
@@ -97,6 +121,10 @@
 - [GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
 
     - [翻译: GaVaMoE：一种结合高斯变分和门控混合专家技术，旨在提升推荐系统可解释性的模型。](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
+
+- [G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](2024年10月15日/G-Designer_Architecting_Multi-agent_Communication_Topologies_via_Graph_Neural_Networks.md)
+
+    - [翻译: G-Designer：利用图神经网络构建多智能体通信网络](2024年10月15日/G-Designer_Architecting_Multi-agent_Communication_Topologies_via_Graph_Neural_Networks.md)
 
 - [Human-LLM Collaborative Construction of a Cantonese Emotion Lexicon](2024年10月15日/Human-LLM_Collaborative_Construction_of_a_Cantonese_Emotion_Lexicon.md)
 
@@ -114,9 +142,17 @@
 
     - [翻译: 指导性代码检索器：借助大型语言模型的反馈，提升代码智能任务的表现](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
+- [IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT](2024年10月15日/IntGrad_MT_Eliciting_LLMs'_Machine_Translation_Capabilities_with_Sentence_Interpolation_and_Gradual_MT.md)
+
+    - [翻译: IntGrad MT：借助句子插值与逐步机器翻译，激发 LLM 的翻译潜能](2024年10月15日/IntGrad_MT_Eliciting_LLMs'_Machine_Translation_Capabilities_with_Sentence_Interpolation_and_Gradual_MT.md)
+
 - [Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](2024年10月15日/Jigsaw_Puzzles_Splitting_Harmful_Questions_to_Jailbreak_Large_Language_Models.md)
 
     - [翻译: 拼图解谜：拆解有害问题，破解大型语言模型](2024年10月15日/Jigsaw_Puzzles_Splitting_Harmful_Questions_to_Jailbreak_Large_Language_Models.md)
+
+- [KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities](2024年10月15日/KITTEN_A_Knowledge-Intensive_Evaluation_of_Image_Generation_on_Visual_Entities.md)
+
+    - [翻译: KITTEN：视觉实体图像生成的知识密集型评估](2024年10月15日/KITTEN_A_Knowledge-Intensive_Evaluation_of_Image_Generation_on_Visual_Entities.md)
 
 - [Language Models Encode Numbers Using Digit Representations in Base 10](2024年10月15日/Language_Models_Encode_Numbers_Using_Digit_Representations_in_Base_10.md)
 
@@ -125,6 +161,10 @@
 - [LargePiG: Your Large Language Model is Secretly a Pointer Generator](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
+
+- [Latent Action Pretraining from Videos](2024年10月15日/Latent_Action_Pretraining_from_Videos.md)
+
+    - [翻译: 视频中的潜在动作预训练](2024年10月15日/Latent_Action_Pretraining_from_Videos.md)
 
 - [Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models](2024年10月15日/Layer-wise_Importance_Matters_Less_Memory_for_Better_Performance_in_Parameter-efficient_Fine-tuning_of_Large_Language_Models.md)
 
@@ -138,9 +178,17 @@
 
     - [翻译: 借助 LLM 嵌入，实现跨数据集标签对齐，并进行零-shot 音乐情感预测。](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
 
+- [Light-Weight Fault Tolerant Attention for Large Language Model Training](2024年10月15日/Light-Weight_Fault_Tolerant_Attention_for_Large_Language_Model_Training.md)
+
+    - [翻译: 轻量级容错注意力机制助力大型语言模型训练](2024年10月15日/Light-Weight_Fault_Tolerant_Attention_for_Large_Language_Model_Training.md)
+
 - [LLM2Swarm: Robot Swarms that Responsively Reason, Plan, and Collaborate through LLMs](2024年10月15日/LLM2Swarm_Robot_Swarms_that_Responsively_Reason,_Plan,_and_Collaborate_through_LLMs.md)
 
     - [翻译: LLM2Swarm：借助 LLM 实现智能推理、协同规划与合作的机器人集群](2024年10月15日/LLM2Swarm_Robot_Swarms_that_Responsively_Reason,_Plan,_and_Collaborate_through_LLMs.md)
+
+- [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](2024年10月15日/LLM-Mixer_Multiscale_Mixing_in_LLMs_for_Time_Series_Forecasting.md)
+
+    - [翻译: LLM-Mixer：在 LLM 中实现时间序列预测的多尺度混合技术](2024年10月15日/LLM-Mixer_Multiscale_Mixing_in_LLMs_for_Time_Series_Forecasting.md)
 
 - [LoKO: Low-Rank Kalman Optimizer for Online Fine-Tuning of Large Models](2024年10月15日/LoKO_Low-Rank_Kalman_Optimizer_for_Online_Fine-Tuning_of_Large_Models.md)
 
@@ -154,13 +202,33 @@
 
     - [翻译: LR-SQL：低资源场景下 Text2SQL 任务的监督微调新方法](2024年10月15日/LR-SQL_A_Supervised_Fine-Tuning_Method_for_Text2SQL_Tasks_under_Low-Resource_Scenarios.md)
 
+- [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
+
+    - [翻译: 放大镜提示：用极简指令攻克多模态幻觉难题](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
+
 - [MCTBench: Multimodal Cognition towards Text-Rich Visual Scenes Benchmark](2024年10月15日/MCTBench_Multimodal_Cognition_towards_Text-Rich_Visual_Scenes_Benchmark.md)
 
     - [翻译: MCTBench：探索文本与视觉融合的多模态认知新基准](2024年10月15日/MCTBench_Multimodal_Cognition_towards_Text-Rich_Visual_Scenes_Benchmark.md)
 
+- [Measuring Spiritual Values and Bias of Large Language Models](2024年10月15日/Measuring_Spiritual_Values_and_Bias_of_Large_Language_Models.md)
+
+    - [翻译: 探究大型语言模型的精神价值与偏见](2024年10月15日/Measuring_Spiritual_Values_and_Bias_of_Large_Language_Models.md)
+
+- [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
+
+    - [翻译: MLLM 能“看”吗？动态校正解码助力幻觉缓解](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
+
+- [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding](2024年10月15日/MMFuser_Multimodal_Multi-Layer_Feature_Fuser_for_Fine-Grained_Vision-Language_Understanding.md)
+
+    - [翻译: MMFuser：一款多模态多层特征融合器，专为细粒度的视觉与语言理解而设计。](2024年10月15日/MMFuser_Multimodal_Multi-Layer_Feature_Fuser_for_Fine-Grained_Vision-Language_Understanding.md)
+
 - [MoChat: Joints-Grouped Spatio-Temporal Grounding LLM for Multi-Turn Motion Comprehension and Description](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
 
     - [翻译: MoChat：一款专为多轮运动理解和描述设计的联合分组时空定位大型语言模型](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
+
+- [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
+
+    - [翻译: MTU-Bench：专为大型语言模型设计的多粒度工具使用基准](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
 
 - [Multi-round jailbreak attack on large language models](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
 
@@ -182,6 +250,10 @@
 
     - [翻译: PAVLM：借助视觉-语言模型，推动基于点云的可操作性理解](2024年10月15日/PAVLM_Advancing_Point_Cloud_based_Affordance_Understanding_Via_Vision-Language_Model.md)
 
+- [Personas with Attitudes: Controlling LLMs for Diverse Data Annotation](2024年10月15日/Personas_with_Attitudes_Controlling_LLMs_for_Diverse_Data_Annotation.md)
+
+    - [翻译: 赋予角色态度：掌控 LLM，实现数据标注的多样性](2024年10月15日/Personas_with_Attitudes_Controlling_LLMs_for_Diverse_Data_Annotation.md)
+
 - [PMMT: Preference Alignment in Multilingual Machine Translation via LLM Distillation](2024年10月15日/PMMT_Preference_Alignment_in_Multilingual_Machine_Translation_via_LLM_Distillation.md)
 
     - [翻译: PMMT：利用 LLM 蒸馏技术，实现多语言机器翻译中的偏好对齐](2024年10月15日/PMMT_Preference_Alignment_in_Multilingual_Machine_Translation_via_LLM_Distillation.md)
@@ -197,6 +269,10 @@
 - [ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
 
     - [翻译: ReDeEP：利用机制可解释性，精准检测检索增强生成中的幻觉现象。](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
+
+- [Retrieval Augmented Spelling Correction for E-Commerce Applications](2024年10月15日/Retrieval_Augmented_Spelling_Correction_for_E-Commerce_Applications.md)
+
+    - [翻译: 电子商务应用中的增强检索拼写校正](2024年10月15日/Retrieval_Augmented_Spelling_Correction_for_E-Commerce_Applications.md)
 
 - [Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs](2024年10月15日/Revisiting_Benchmark_and_Assessment_An_Agent-based_Exploratory_Dynamic_Evaluation_Framework_for_LLMs.md)
 
@@ -226,13 +302,17 @@
 
     - [翻译: SGEdit：融合 LLM 与 Text2Image 生成模型，实现基于场景图的图像编辑](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
 
-- [Subspace Optimization for Large Language Models with Convergence Guarantees](2024年10月15日/Subspace_Optimization_for_Large_Language_Models_with_Convergence_Guarantees.md)
+- [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](2024年10月15日/SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding.md)
 
-    - [翻译: 大型语言模型的子空间优化，确保收敛性](2024年10月15日/Subspace_Optimization_for_Large_Language_Models_with_Convergence_Guarantees.md)
+    - [翻译: SlideChat：一款强大的视觉-语言助手，专为全切片病理图像的深度理解而设计。](2024年10月15日/SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding.md)
 
 - [Synthetic Interlocutors. Experiments with Generative AI to Prolong Ethnographic Encounters](2024年10月15日/Synthetic_Interlocutors._Experiments_with_Generative_AI_to_Prolong_Ethnographic_Encounters.md)
 
     - [翻译: 虚拟对话者：利用生成式 AI 延长民族志研究中的互动实验](2024年10月15日/Synthetic_Interlocutors._Experiments_with_Generative_AI_to_Prolong_Ethnographic_Encounters.md)
+
+- [Transformer Layer Injection: A Novel Approach for Efficient Upscaling of Large Language Models](2024年10月15日/Transformer_Layer_Injection_A_Novel_Approach_for_Efficient_Upscaling_of_Large_Language_Models.md)
+
+    - [翻译: Transformer 层注入：提升大型语言模型效率的创新之道](2024年10月15日/Transformer_Layer_Injection_A_Novel_Approach_for_Efficient_Upscaling_of_Large_Language_Models.md)
 
 - [Using Screenshot Data to Examine the Phone Use People Regret](2024年10月15日/Using_Screenshot_Data_to_Examine_the_Phone_Use_People_Regret.md)
 
@@ -244,11 +324,15 @@
 
 - [VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI](2024年10月15日/VidEgoThink_Assessing_Egocentric_Video_Understanding_Capabilities_for_Embodied_AI.md)
 
-    - [翻译: VidEgoThink：探索具身 AI 在以自我为中心的视频理解中的能力](2024年10月15日/VidEgoThink_Assessing_Egocentric_Video_Understanding_Capabilities_for_Embodied_AI.md)
+    - [翻译: VidEgoThink：探索具身 AI 在以自我为中心的视频理解中的潜能](2024年10月15日/VidEgoThink_Assessing_Egocentric_Video_Understanding_Capabilities_for_Embodied_AI.md)
 
 - [Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
 
     - [翻译: Y-Mol：一款多尺度生物医学知识驱动的大型语言模型，专为药物研发而生](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
+
+- [Zero-shot Model-based Reinforcement Learning using Large Language Models](2024年10月15日/Zero-shot_Model-based_Reinforcement_Learning_using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型进行零-shot 模型强化学习](2024年10月15日/Zero-shot_Model-based_Reinforcement_Learning_using_Large_Language_Models.md)
 
 2024年10月14日
 
@@ -920,7 +1004,7 @@
 
 - [SafeLLM: Domain-Specific Safety Monitoring for Large Language Models: A Case Study of Offshore Wind Maintenance](2024年10月06日/SafeLLM_Domain-Specific_Safety_Monitoring_for_Large_Language_Models_A_Case_Study_of_Offshore_Wind_Maintenance.md)
 
-    - [翻译: SafeLLM：专为大型语言模型设计的领域特定安全监控系统，以海上风电维护为例进行研究。](2024年10月06日/SafeLLM_Domain-Specific_Safety_Monitoring_for_Large_Language_Models_A_Case_Study_of_Offshore_Wind_Maintenance.md)
+    - [翻译: SafeLLM：专为大型语言模型设计的领域特定安全监控系统，以海上风电维护为例进行探讨。](2024年10月06日/SafeLLM_Domain-Specific_Safety_Monitoring_for_Large_Language_Models_A_Case_Study_of_Offshore_Wind_Maintenance.md)
 
 2024年10月04日
 
