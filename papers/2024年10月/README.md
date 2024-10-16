@@ -42,18 +42,6 @@
 
     - [翻译: 循环Transformer巧妙绕过指数依赖，通过多步梯度下降，高效掌握上下文学习。](2024年10月15日/Bypassing_the_Exponential_Dependency_Looped_Transformers_Efficiently_Learn_In-context_by_Multi-step_Gradient_Descent.md)
 
-- [Can sparse autoencoders make sense of latent representations?](2024年10月15日/Can_sparse_autoencoders_make_sense_of_latent_representations.md)
-
-    - [翻译: 稀疏自编码器能否洞察潜在表示的奥秘？](2024年10月15日/Can_sparse_autoencoders_make_sense_of_latent_representations.md)
-
-- [Causal Reasoning in Large Language Models: A Knowledge Graph Approach](2024年10月15日/Causal_Reasoning_in_Large_Language_Models_A_Knowledge_Graph_Approach.md)
-
-    - [翻译: 大型语言模型中的因果推理：借助知识图谱的新方法](2024年10月15日/Causal_Reasoning_in_Large_Language_Models_A_Knowledge_Graph_Approach.md)
-
-- [CLIP-DFGS: A Hard Sample Mining Method for CLIP in Generalizable Person Re-Identification](2024年10月15日/CLIP-DFGS_A_Hard_Sample_Mining_Method_for_CLIP_in_Generalizable_Person_Re-Identification.md)
-
-    - [翻译: CLIP-DFGS：一种专为 CLIP 设计的困难样本挖掘方法，助力人物重识别的泛化能力。](2024年10月15日/CLIP-DFGS_A_Hard_Sample_Mining_Method_for_CLIP_in_Generalizable_Person_Re-Identification.md)
-
 - [Cognitive Overload Attack:Prompt Injection for Long Context](2024年10月15日/Cognitive_Overload_AttackPrompt_Injection_for_Long_Context.md)
 
     - [翻译: 认知过载攻击：长上下文中的提示注入](2024年10月15日/Cognitive_Overload_AttackPrompt_Injection_for_Long_Context.md)
@@ -403,10 +391,6 @@
 - [Denial-of-Service Poisoning Attacks against Large Language Models](2024年10月14日/Denial-of-Service_Poisoning_Attacks_against_Large_Language_Models.md)
 
     - [翻译: 大型语言模型遭遇拒绝服务中毒攻击](2024年10月14日/Denial-of-Service_Poisoning_Attacks_against_Large_Language_Models.md)
-
-- [Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues](2024年10月14日/Derail_Yourself_Multi-turn_LLM_Jailbreak_Attack_through_Self-discovered_Clues.md)
-
-    - [翻译: 自我脱轨：利用自我发现的线索进行多轮 LLM 越狱攻击](2024年10月14日/Derail_Yourself_Multi-turn_LLM_Jailbreak_Attack_through_Self-discovered_Clues.md)
 
 - [Diagnosing Hate Speech Classification: Where Do Humans and Machines Disagree, and Why?](2024年10月14日/Diagnosing_Hate_Speech_Classification_Where_Do_Humans_and_Machines_Disagree,_and_Why.md)
 
