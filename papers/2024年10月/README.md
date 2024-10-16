@@ -46,10 +46,6 @@
 
     - [翻译: 认知过载攻击：长上下文中的提示注入](2024年10月15日/Cognitive_Overload_AttackPrompt_Injection_for_Long_Context.md)
 
-- [Converging to a Lingua Franca: Evolution of Linguistic Regions and Semantics Alignment in Multilingual Large Language Models](2024年10月15日/Converging_to_a_Lingua_Franca_Evolution_of_Linguistic_Regions_and_Semantics_Alignment_in_Multilingual_Large_Language_Models.md)
-
-    - [翻译: 多语言大型语言模型中，语言区域逐渐趋同，语义对齐也在不断演进，共同迈向通用语言的境界。](2024年10月15日/Converging_to_a_Lingua_Franca_Evolution_of_Linguistic_Regions_and_Semantics_Alignment_in_Multilingual_Large_Language_Models.md)
-
 - [Data Quality Control in Federated Instruction-tuning of Large Language Models](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
 
     - [翻译: 联邦指令调优中的数据质量控制：大型语言模型的关键环节](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
@@ -672,10 +668,6 @@
 
     - [翻译: DRCap：通过检索增强生成技术，解码 CLAP 潜在变量，实现零-shot 音频字幕生成。](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
 
-- [EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment](2024年10月12日/EmbodiedCity_A_Benchmark_Platform_for_Embodied_Agent_in_Real-world_City_Environment.md)
-
-    - [翻译: EmbodiedCity：真实城市环境中的具身代理基准平台](2024年10月12日/EmbodiedCity_A_Benchmark_Platform_for_Embodied_Agent_in_Real-world_City_Environment.md)
-
 - [Enhanced Electronic Health Records Text Summarization Using Large Language Models](2024年10月12日/Enhanced_Electronic_Health_Records_Text_Summarization_Using_Large_Language_Models.md)
 
     - [翻译: 借助大型语言模型，电子健康记录的文本摘要能力得以提升。](2024年10月12日/Enhanced_Electronic_Health_Records_Text_Summarization_Using_Large_Language_Models.md)
@@ -715,10 +707,6 @@
 - [MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning](2024年10月12日/MTL-LoRA_Low-Rank_Adaptation_for_Multi-Task_Learning.md)
 
     - [翻译: MTL-LoRA：多任务学习的低秩适应](2024年10月12日/MTL-LoRA_Low-Rank_Adaptation_for_Multi-Task_Learning.md)
-
-- [OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](2024年10月12日/OpenR_An_Open_Source_Framework_for_Advanced_Reasoning_with_Large_Language_Models.md)
-
-    - [翻译: OpenR：专为大型语言模型高级推理设计的开源框架](2024年10月12日/OpenR_An_Open_Source_Framework_for_Advanced_Reasoning_with_Large_Language_Models.md)
 
 - [Quebec Automobile Insurance Question-Answering With Retrieval-Augmented Generation](2024年10月12日/Quebec_Automobile_Insurance_Question-Answering_With_Retrieval-Augmented_Generation.md)
 
