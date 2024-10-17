@@ -6,6 +6,10 @@
 
     - [翻译: Aegis：基于先进 LLM 的多智能体系统，专为智能功能安全工程设计](2024年10月16日/AegisAn_Advanced_LLM-Based_Multi-Agent_for_Intelligent_Functional_Safety_Engineering.md)
 
+- [Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2](2024年10月16日/Automatic_Mapping_of_Anatomical_Landmarks_from_Free-Text_Using_Large_Language_Models_Insights_from_Llama-2.md)
+
+    - [翻译: 借助 Llama-2 大型语言模型，自动从自由文本中识别解剖学标志，探索其背后的奥秘。](2024年10月16日/Automatic_Mapping_of_Anatomical_Landmarks_from_Free-Text_Using_Large_Language_Models_Insights_from_Llama-2.md)
+
 - [Benchmarking Defeasible Reasoning with Large Language Models -- Initial Experiments and Future Directions](2024年10月16日/Benchmarking_Defeasible_Reasoning_with_Large_Language_Models_--_Initial_Experiments_and_Future_Directions.md)
 
     - [翻译: 大型语言模型的可废止推理基准测试——初探与展望](2024年10月16日/Benchmarking_Defeasible_Reasoning_with_Large_Language_Models_--_Initial_Experiments_and_Future_Directions.md)
@@ -33,6 +37,10 @@
 - [CREAM: Consistency Regularized Self-Rewarding Language Models](2024年10月16日/CREAM_Consistency_Regularized_Self-Rewarding_Language_Models.md)
 
     - [翻译: CREAM：一致性正则化自我奖励语言模型](2024年10月16日/CREAM_Consistency_Regularized_Self-Rewarding_Language_Models.md)
+
+- [Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
+
+    - [翻译: 大规模视觉语言模型中的跨模态安全机制转移](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
 
 - [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](2024年10月16日/DocLayout-YOLO_Enhancing_Document_Layout_Analysis_through_Diverse_Synthetic_Data_and_Global-to-Local_Adaptive_Perception.md)
 
@@ -137,6 +145,10 @@
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月16日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
 
     - [翻译: MedAide：借助基于 LLM 的专门化多代理协作，迈向全方位医疗助手](2024年10月16日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
+
+- [Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception](2024年10月16日/Meta-Chunking_Learning_Efficient_Text_Segmentation_via_Logical_Perception.md)
+
+    - [翻译: 元块化：借助逻辑感知实现高效文本分割的学习方法](2024年10月16日/Meta-Chunking_Learning_Efficient_Text_Segmentation_via_Logical_Perception.md)
 
 - [MlingConf: A Comprehensive Study of Multilingual Confidence Estimation on Large Language Models](2024年10月16日/MlingConf_A_Comprehensive_Study_of_Multilingual_Confidence_Estimation_on_Large_Language_Models.md)
 
@@ -246,6 +258,10 @@
 
     - [翻译: 双赢之道：利用二分图在数据选择中兼顾质量和多样性](2024年10月16日/The_Best_of_Both_Worlds_Bridging_Quality_and_Diversity_in_Data_Selection_with_Bipartite_Graph.md)
 
+- [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](2024年10月16日/The_Curse_of_Multi-Modalities_Evaluating_Hallucinations_of_Large_Multimodal_Models_across_Language,_Visual,_and_Audio.md)
+
+    - [翻译: 多模态之咒：探究大型多模态模型在语言、视觉和音频领域的幻觉现象](2024年10月16日/The_Curse_of_Multi-Modalities_Evaluating_Hallucinations_of_Large_Multimodal_Models_across_Language,_Visual,_and_Audio.md)
+
 - [Towards Zero-Shot Camera Trap Image Categorization](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
 
     - [翻译: 迈向零-shot 相机陷阱图像分类](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
@@ -318,7 +334,7 @@
 
 - [CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
 
-    - [翻译: CtrlSynth：一种可控的图像文本合成工具，专为高效多模态学习设计](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
+    - [翻译: CtrlSynth：一种可控的图像文本合成工具，专为高效多模态学习设计。](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
 
 - [Data Quality Control in Federated Instruction-tuning of Large Language Models](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
 
@@ -346,7 +362,7 @@
 
 - [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
 
-    - [翻译: DocETL：针对复杂文档处理的智能查询重写与评估](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
+    - [翻译: DocETL：复杂文档处理中的智能查询重写与评估](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
 
 - [Do LLMs Have the Generalization Ability in Conducting Causal Inference?](2024年10月15日/Do_LLMs_Have_the_Generalization_Ability_in_Conducting_Causal_Inference.md)
 
@@ -644,7 +660,7 @@
 
 - [Empowering Users in Digital Privacy Management through Interactive LLM-Based Agents](2024年10月14日/Empowering_Users_in_Digital_Privacy_Management_through_Interactive_LLM-Based_Agents.md)
 
-    - [翻译: 借助基于 LLM 的智能代理，用户在数字隐私管理中的掌控力得以提升。](2024年10月14日/Empowering_Users_in_Digital_Privacy_Management_through_Interactive_LLM-Based_Agents.md)
+    - [翻译: 借助 LLM 驱动的交互代理，提升用户在数字隐私管理中的掌控力](2024年10月14日/Empowering_Users_in_Digital_Privacy_Management_through_Interactive_LLM-Based_Agents.md)
 
 - [F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
 
