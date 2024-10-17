@@ -34,10 +34,6 @@
 
     - [翻译: 突破线性限制：探索注意力矩阵的新剪枝策略](2024年10月15日/Beyond_Linear_Approximations_A_Novel_Pruning_Approach_for_Attention_Matrix.md)
 
-- [Black-box Uncertainty Quantification Method for LLM-as-a-Judge](2024年10月15日/Black-box_Uncertainty_Quantification_Method_for_LLM-as-a-Judge.md)
-
-    - [翻译: LLM 作为评判者的黑箱不确定性量化方法](2024年10月15日/Black-box_Uncertainty_Quantification_Method_for_LLM-as-a-Judge.md)
-
 - [Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent](2024年10月15日/Bypassing_the_Exponential_Dependency_Looped_Transformers_Efficiently_Learn_In-context_by_Multi-step_Gradient_Descent.md)
 
     - [翻译: 循环Transformer巧妙绕过指数依赖，通过多步梯度下降，高效掌握上下文学习。](2024年10月15日/Bypassing_the_Exponential_Dependency_Looped_Transformers_Efficiently_Learn_In-context_by_Multi-step_Gradient_Descent.md)
@@ -363,10 +359,6 @@
 - [Depth Any Video with Scalable Synthetic Data](2024年10月14日/Depth_Any_Video_with_Scalable_Synthetic_Data.md)
 
     - [翻译: 用可扩展的合成数据实现任意视频深度](2024年10月14日/Depth_Any_Video_with_Scalable_Synthetic_Data.md)
-
-- [Diagnosing Hate Speech Classification: Where Do Humans and Machines Disagree, and Why?](2024年10月14日/Diagnosing_Hate_Speech_Classification_Where_Do_Humans_and_Machines_Disagree,_and_Why.md)
-
-    - [翻译: 仇恨言论分类的诊断：人类与机器的分歧点及原因何在？](2024年10月14日/Diagnosing_Hate_Speech_Classification_Where_Do_Humans_and_Machines_Disagree,_and_Why.md)
 
 - [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads](2024年10月14日/DuoAttention_Efficient_Long-Context_LLM_Inference_with_Retrieval_and_Streaming_Heads.md)
 
