@@ -178,10 +178,6 @@
 
     - [翻译: MLLM 能“看”吗？动态校正解码助力幻觉缓解](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
 
-- [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding](2024年10月15日/MMFuser_Multimodal_Multi-Layer_Feature_Fuser_for_Fine-Grained_Vision-Language_Understanding.md)
-
-    - [翻译: MMFuser：一款多模态多层特征融合器，专为细粒度的视觉与语言理解而设计。](2024年10月15日/MMFuser_Multimodal_Multi-Layer_Feature_Fuser_for_Fine-Grained_Vision-Language_Understanding.md)
-
 - [MoChat: Joints-Grouped Spatio-Temporal Grounding LLM for Multi-Turn Motion Comprehension and Description](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
 
     - [翻译: MoChat：一款专为多轮运动理解和描述设计的联合分组时空定位大型语言模型](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
@@ -193,10 +189,6 @@
 - [Multi-round jailbreak attack on large language models](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
 
     - [翻译: 大型语言模型面临多轮越狱攻击](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
-
-- [MultiVENT 2.0: A Massive Multilingual Benchmark for Event-Centric Video Retrieval](2024年10月15日/MultiVENT_2.0_A_Massive_Multilingual_Benchmark_for_Event-Centric_Video_Retrieval.md)
-
-    - [翻译: MultiVENT 2.0：一款专为事件驱动视频检索设计的大规模多语言基准](2024年10月15日/MultiVENT_2.0_A_Massive_Multilingual_Benchmark_for_Event-Centric_Video_Retrieval.md)
 
 - [NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models](2024年10月15日/NesTools_A_Dataset_for_Evaluating_Nested_Tool_Learning_Abilities_of_Large_Language_Models.md)
 
@@ -467,10 +459,6 @@
 - [MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
 
     - [翻译: MoTE：在视觉-语言到视频知识转移中，平衡泛化与专业化](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
-
-- [On Calibration of LLM-based Guard Models for Reliable Content Moderation](2024年10月14日/On_Calibration_of_LLM-based_Guard_Models_for_Reliable_Content_Moderation.md)
-
-    - [翻译: 校准基于 LLM 的防护模型，确保内容审核的可靠性](2024年10月14日/On_Calibration_of_LLM-based_Guard_Models_for_Reliable_Content_Moderation.md)
 
 - [Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning](2024年10月14日/Parenting_Optimizing_Knowledge_Selection_of_Retrieval-Augmented_Language_Models_with_Parameter_Decoupling_and_Tailored_Tuning.md)
 
@@ -786,10 +774,6 @@
 
     - [翻译: 维度迷失：生成扩散中的几何记忆](2024年10月11日/Losing_dimensions_Geometric_memorization_in_generative_diffusion.md)
 
-- [M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought](2024年10月11日/M3Hop-CoT_Misogynous_Meme_Identification_with_Multimodal_Multi-hop_Chain-of-Thought.md)
-
-    - [翻译: M3Hop-CoT：通过多模态多跳链式思维识别厌女表情包](2024年10月11日/M3Hop-CoT_Misogynous_Meme_Identification_with_Multimodal_Multi-hop_Chain-of-Thought.md)
-
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
     - [翻译: NoVo：通过 LLM 中的注意力头规范投票，消除幻觉](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
@@ -867,10 +851,6 @@
 - [Application of NotebookLM, a Large Language Model with Retrieval-Augmented Generation, for Lung Cancer Staging](2024年10月08日/Application_of_NotebookLM,_a_Large_Language_Model_with_Retrieval-Augmented_Generation,_for_Lung_Cancer_Staging.md)
 
     - [翻译: NotebookLM，一款结合检索增强生成技术的大型语言模型，正被用于肺癌分期研究。](2024年10月08日/Application_of_NotebookLM,_a_Large_Language_Model_with_Retrieval-Augmented_Generation,_for_Lung_Cancer_Staging.md)
-
-- [Automating Bibliometric Analysis with Sentence Transformers and Retrieval-Augmented Generation (RAG): A Pilot Study in Semantic and Contextual Search for Customized Literature Characterization for High-Impact Urban Research](2024年10月08日/Automating_Bibliometric_Analysis_with_Sentence_Transformers_and_Retrieval-Augmented_Generation_(RAG)_A_Pilot_Study_in_Semantic_and_Contextual_Search_for_Customized_Literature_Characterization_for_High-Impact_Urban_Research.md)
-
-    - [翻译: 利用 Sentence Transformers 和 RAG 技术，我们开展了一项试点研究，旨在自动化文献计量分析，通过语义和上下文搜索为高影响力城市研究定制文献特征。](2024年10月08日/Automating_Bibliometric_Analysis_with_Sentence_Transformers_and_Retrieval-Augmented_Generation_(RAG)_A_Pilot_Study_in_Semantic_and_Contextual_Search_for_Customized_Literature_Characterization_for_High-Impact_Urban_Research.md)
 
 - [LLaCA: Multimodal Large Language Continual Assistant](2024年10月08日/LLaCA_Multimodal_Large_Language_Continual_Assistant.md)
 
