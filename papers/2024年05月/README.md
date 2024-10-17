@@ -12,6 +12,12 @@
 
     - [翻译: 具象化的 LLM 代理学会了在有组织的团队中协同合作。](2024年05月23日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
 
+2024年05月20日
+
+- [Diffusion for World Modeling: Visual Details Matter in Atari](2024年05月20日/Diffusion_for_World_Modeling_Visual_Details_Matter_in_Atari.md)
+
+    - [翻译: 在 Atari 游戏中，视觉细节对于世界建模的扩散过程至关重要。](2024年05月20日/Diffusion_for_World_Modeling_Visual_Details_Matter_in_Atari.md)
+
 2024年05月07日
 
 - [A Causal Explainable Guardrails for Large Language Models](2024年05月07日/A_Causal_Explainable_Guardrails_for_Large_Language_Models.md)

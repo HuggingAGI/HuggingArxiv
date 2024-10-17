@@ -1,5 +1,11 @@
 # 2024年09月
 
+2024年09月30日
+
+- [Old Optimizer, New Norm: An Anthology](2024年09月30日/Old_Optimizer,_New_Norm_An_Anthology.md)
+
+    - [翻译: 经典优化器，焕发新规：精选集](2024年09月30日/Old_Optimizer,_New_Norm_An_Anthology.md)
+
 2024年09月28日
 
 - [Large Language Model-Driven Cross-Domain Orchestration Using Multi-Agent Workflow](2024年09月28日/Large_Language_Model-Driven_Cross-Domain_Orchestration_Using_Multi-Agent_Workflow.md)

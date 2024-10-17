@@ -2,6 +2,10 @@
 
 2024年10月16日
 
+- [3D Gaussian Splatting in Robotics: A Survey](2024年10月16日/3D_Gaussian_Splatting_in_Robotics_A_Survey.md)
+
+    - [翻译: 机器人领域的3D高斯喷射技术调查](2024年10月16日/3D_Gaussian_Splatting_in_Robotics_A_Survey.md)
+
 - [Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering](2024年10月16日/AegisAn_Advanced_LLM-Based_Multi-Agent_for_Intelligent_Functional_Safety_Engineering.md)
 
     - [翻译: Aegis：基于先进 LLM 的多智能体系统，专为智能功能安全工程设计](2024年10月16日/AegisAn_Advanced_LLM-Based_Multi-Agent_for_Intelligent_Functional_Safety_Engineering.md)
@@ -480,6 +484,10 @@
 
     - [翻译: MoChat：一款专为多轮运动理解和描述设计的联合分组时空定位大型语言模型](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
 
+- [Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](2024年10月15日/Model_Swarms_Collaborative_Search_to_Adapt_LLM_Experts_via_Swarm_Intelligence.md)
+
+    - [翻译: 模型集群：利用集群智能，协同搜索以适应 LLM 专家](2024年10月15日/Model_Swarms_Collaborative_Search_to_Adapt_LLM_Experts_via_Swarm_Intelligence.md)
+
 - [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
 
     - [翻译: MTU-Bench：专为大型语言模型设计的多粒度工具使用基准](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
@@ -734,6 +742,10 @@
 
     - [翻译: LongMemEval：评估聊天助手在长期交互记忆中的表现](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
 
+- [MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](2024年10月14日/MEGA-Bench_Scaling_Multimodal_Evaluation_to_over_500_Real-World_Tasks.md)
+
+    - [翻译: MEGA-Bench：将多模态评估扩展至 500 多个现实任务](2024年10月14日/MEGA-Bench_Scaling_Multimodal_Evaluation_to_over_500_Real-World_Tasks.md)
+
 - [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
     - [翻译: MentalGLM 系列：专为中国社交媒体心理健康分析设计的可解释大型语言模型](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
@@ -785,6 +797,10 @@
 - [SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition](2024年10月14日/SensorLLM_Aligning_Large_Language_Models_with_Motion_Sensors_for_Human_Activity_Recognition.md)
 
     - [翻译: SensorLLM：融合大型语言模型与运动传感器，助力人类活动识别](2024年10月14日/SensorLLM_Aligning_Large_Language_Models_with_Motion_Sensors_for_Human_Activity_Recognition.md)
+
+- [Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models](2024年10月14日/Simplifying,_Stabilizing_and_Scaling_Continuous-Time_Consistency_Models.md)
+
+    - [翻译: 精简、稳固并扩展连续时间一致性模型](2024年10月14日/Simplifying,_Stabilizing_and_Scaling_Continuous-Time_Consistency_Models.md)
 
 - [Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes](2024年10月14日/Sitcom-Crafter_A_Plot-Driven_Human_Motion_Generation_System_in_3D_Scenes.md)
 
@@ -1056,6 +1072,10 @@
 
     - [翻译: 大型语言模型在自然语言推理中仅依赖假设的偏差](2024年10月11日/Hypothesis-only_Biases_in_Large_Language_Model-Elicited_Natural_Language_Inference.md)
 
+- [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
+
+    - [翻译: IGNN-Solver：专为隐式图神经网络设计的图神经求解器](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
+
 - [Investigating Human-Computer Interaction and Visual Comprehension in Text Generation Process of Natural Language Generation Models](2024年10月11日/Investigating_Human-Computer_Interaction_and_Visual_Comprehension_in_Text_Generation_Process_of_Natural_Language_Generation_Models.md)
 
     - [翻译: 探索人类与计算机交互及视觉理解在自然语言生成模型文本生成中的影响](2024年10月11日/Investigating_Human-Computer_Interaction_and_Visual_Comprehension_in_Text_Generation_Process_of_Natural_Language_Generation_Models.md)
@@ -1118,6 +1138,14 @@
 
 2024年10月10日
 
+- [DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](2024年10月10日/DART_Denoising_Autoregressive_Transformer_for_Scalable_Text-to-Image_Generation.md)
+
+    - [翻译: DART：一种去噪自回归变换器，专为可扩展的文本到图像生成而设计。](2024年10月10日/DART_Denoising_Autoregressive_Transformer_for_Scalable_Text-to-Image_Generation.md)
+
+- [Global Lyapunov functions: a long-standing open problem in mathematics, with symbolic transformers](2024年10月10日/Global_Lyapunov_functions_a_long-standing_open_problem_in_mathematics,_with_symbolic_transformers.md)
+
+    - [翻译: 全局 Lyapunov 函数，一个数学界长期悬而未决的难题，与符号变换器紧密相关。](2024年10月10日/Global_Lyapunov_functions_a_long-standing_open_problem_in_mathematics,_with_symbolic_transformers.md)
+
 - [Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
 
     - [翻译: 利用强化学习与合成偏好提升自动生成问题的难度](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
@@ -1143,6 +1171,10 @@
 - [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](2024年10月09日/Representation_Alignment_for_Generation_Training_Diffusion_Transformers_Is_Easier_Than_You_Think.md)
 
     - [翻译: 生成任务中的表示对齐：训练扩散变换器其实比你想象的更简单](2024年10月09日/Representation_Alignment_for_Generation_Training_Diffusion_Transformers_Is_Easier_Than_You_Think.md)
+
+- [WorkflowHub: a registry for computational workflows](2024年10月09日/WorkflowHub_a_registry_for_computational_workflows.md)
+
+    - [翻译: WorkflowHub：计算工作流的注册中心](2024年10月09日/WorkflowHub_a_registry_for_computational_workflows.md)
 
 2024年10月08日
 
