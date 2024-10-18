@@ -606,7 +606,7 @@
 
 - [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
 
-    - [翻译: MMed-RAG：专为医疗视觉语言模型设计的多功能多模态系统](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
+    - [翻译: MMed-RAG：专为医学视觉语言模型设计的多功能多模态系统](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
 
 - [Neuron-based Personality Trait Induction in Large Language Models](2024年10月16日/Neuron-based_Personality_Trait_Induction_in_Large_Language_Models.md)
 
