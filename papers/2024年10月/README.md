@@ -210,6 +210,10 @@
 
     - [翻译: 解锁大型语言模型操控的机器人](2024年10月17日/Jailbreaking_LLM-Controlled_Robots.md)
 
+- [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](2024年10月17日/Janus_Decoupling_Visual_Encoding_for_Unified_Multimodal_Understanding_and_Generation.md)
+
+    - [翻译: Janus：通过解耦视觉编码，实现多模态理解和生成的统一。](2024年10月17日/Janus_Decoupling_Visual_Encoding_for_Unified_Multimodal_Understanding_and_Generation.md)
+
 - [Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval](2024年10月17日/Knowledge-Aware_Query_Expansion_with_Large_Language_Models_for_Textual_and_Relational_Retrieval.md)
 
     - [翻译: 利用大型语言模型进行知识感知的查询扩展，应用于文本与关系检索](2024年10月17日/Knowledge-Aware_Query_Expansion_with_Large_Language_Models_for_Textual_and_Relational_Retrieval.md)
