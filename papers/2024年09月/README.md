@@ -6,6 +6,10 @@
 
     - [翻译: 经典优化器，焕发新规：精选集](2024年09月30日/Old_Optimizer,_New_Norm_An_Anthology.md)
 
+- [Optimizing and Evaluating Enterprise Retrieval-Augmented Generation (RAG): A Content Design Perspective](2024年09月30日/Optimizing_and_Evaluating_Enterprise_Retrieval-Augmented_Generation_(RAG)_A_Content_Design_Perspective.md)
+
+    - [翻译: 从内容设计角度优化与评估企业 RAG 系统](2024年09月30日/Optimizing_and_Evaluating_Enterprise_Retrieval-Augmented_Generation_(RAG)_A_Content_Design_Perspective.md)
+
 2024年09月28日
 
 - [Large Language Model-Driven Cross-Domain Orchestration Using Multi-Agent Workflow](2024年09月28日/Large_Language_Model-Driven_Cross-Domain_Orchestration_Using_Multi-Agent_Workflow.md)
