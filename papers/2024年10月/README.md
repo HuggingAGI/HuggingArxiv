@@ -794,6 +794,10 @@
 
     - [翻译: 认知过载攻击：长上下文中的提示注入](2024年10月15日/Cognitive_Overload_AttackPrompt_Injection_for_Long_Context.md)
 
+- [CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
+
+    - [翻译: CoTracker3：借助伪标签技术，在真实视频中实现更简便且高效的点跟踪。](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
+
 - [CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
 
     - [翻译: CtrlSynth：一种可控的图像文本合成工具，专为高效多模态学习设计。](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
