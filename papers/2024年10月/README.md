@@ -1546,10 +1546,6 @@
 
     - [翻译: 从 N-grams 到预训练的多语言模型：语言识别的新篇章](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
-- [Hypothesis-only Biases in Large Language Model-Elicited Natural Language Inference](2024年10月11日/Hypothesis-only_Biases_in_Large_Language_Model-Elicited_Natural_Language_Inference.md)
-
-    - [翻译: 大型语言模型在自然语言推理中仅依赖假设的偏差](2024年10月11日/Hypothesis-only_Biases_in_Large_Language_Model-Elicited_Natural_Language_Inference.md)
-
 - [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
 
     - [翻译: IGNN-Solver：专为隐式图神经网络设计的图神经求解器](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
@@ -1623,10 +1619,6 @@
     - [翻译: 图与多模态的邂逅：多模态属性图学习的基准测试](2024年10月11日/When_Graph_meets_Multimodal_Benchmarking_on_Multimodal_Attributed_Graphs_Learning.md)
 
 2024年10月10日
-
-- [DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](2024年10月10日/DART_Denoising_Autoregressive_Transformer_for_Scalable_Text-to-Image_Generation.md)
-
-    - [翻译: DART：一种去噪自回归变换器，专为可扩展的文本到图像生成而设计。](2024年10月10日/DART_Denoising_Autoregressive_Transformer_for_Scalable_Text-to-Image_Generation.md)
 
 - [Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks](2024年10月10日/Diversity_of_Thought_Elicits_Stronger_Reasoning_Capabilities_in_Multi-Agent_Debate_Frameworks.md)
 
