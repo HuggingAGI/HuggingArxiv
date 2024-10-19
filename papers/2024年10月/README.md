@@ -1688,6 +1688,10 @@
 
     - [翻译: 大型语言模型驱动的半结构化招标文件检索与生成框架](2024年10月04日/A_Large_Language_Model-based_Framework_for_Semi-Structured_Tender_Document_Retrieval-Augmented_Generation.md)
 
+- [Autoregressive Large Language Models are Computationally Universal](2024年10月04日/Autoregressive_Large_Language_Models_are_Computationally_Universal.md)
+
+    - [翻译: 自回归大型语言模型具备计算上的通用性](2024年10月04日/Autoregressive_Large_Language_Models_are_Computationally_Universal.md)
+
 2024年10月03日
 
 - [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](2024年10月03日/A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_(RAG)_Evolution,_Current_Landscape_and_Future_Directions.md)
