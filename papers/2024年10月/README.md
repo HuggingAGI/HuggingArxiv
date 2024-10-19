@@ -10,10 +10,6 @@
 
     - [翻译: 探究 OpenAI o1 模型推理模式的对比研究](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
 
-- [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](2024年10月17日/Active-Dormant_Attention_Heads_Mechanistically_Demystifying_Extreme-Token_Phenomena_in_LLMs.md)
-
-    - [翻译: 活跃与休眠的注意力头：揭秘 LLM 中的极端标记现象](2024年10月17日/Active-Dormant_Attention_Heads_Mechanistically_Demystifying_Extreme-Token_Phenomena_in_LLMs.md)
-
 - [Advancing Large Language Model Attribution through Self-Improving](2024年10月17日/Advancing_Large_Language_Model_Attribution_through_Self-Improving.md)
 
     - [翻译: 通过自我提升，推动大型语言模型的归因技术进步。](2024年10月17日/Advancing_Large_Language_Model_Attribution_through_Self-Improving.md)
