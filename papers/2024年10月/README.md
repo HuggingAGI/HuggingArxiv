@@ -628,6 +628,10 @@
 
     - [翻译: 开放领域问答中的冲突上下文](2024年10月16日/Open_Domain_Question_Answering_with_Conflicting_Contexts.md)
 
+- [Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models](2024年10月16日/Open_Materials_2024_(OMat24)_Inorganic_Materials_Dataset_and_Models.md)
+
+    - [翻译: 2024年开放材料（OMat24）无机材料数据集与模型](2024年10月16日/Open_Materials_2024_(OMat24)_Inorganic_Materials_Dataset_and_Models.md)
+
 - [Optimizing Low-Resource Language Model Training: Comprehensive Analysis of Multi-Epoch, Multi-Lingual, and Two-Stage Approaches](2024年10月16日/Optimizing_Low-Resource_Language_Model_Training_Comprehensive_Analysis_of_Multi-Epoch,_Multi-Lingual,_and_Two-Stage_Approaches.md)
 
     - [翻译: 优化低资源语言模型训练：深入探讨多时期、多语言及两阶段策略的综合分析](2024年10月16日/Optimizing_Low-Resource_Language_Model_Training_Comprehensive_Analysis_of_Multi-Epoch,_Multi-Lingual,_and_Two-Stage_Approaches.md)
@@ -647,6 +651,10 @@
 - [Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs](2024年10月16日/Pyramid-Driven_Alignment_Pyramid_Principle_Guided_Integration_of_Large_Language_Models_and_Knowledge_Graphs.md)
 
     - [翻译: 金字塔驱动对齐：以金字塔原则为指导，整合大型语言模型与知识图谱](2024年10月16日/Pyramid-Driven_Alignment_Pyramid_Principle_Guided_Integration_of_Large_Language_Models_and_Knowledge_Graphs.md)
+
+- [Quantum Boltzmann machine learning of ground-state energies](2024年10月16日/Quantum_Boltzmann_machine_learning_of_ground-state_energies.md)
+
+    - [翻译: 量子玻尔兹曼机学习基态能量](2024年10月16日/Quantum_Boltzmann_machine_learning_of_ground-state_energies.md)
 
 - [Reconstruction of Differentially Private Text Sanitization via Large Language Models](2024年10月16日/Reconstruction_of_Differentially_Private_Text_Sanitization_via_Large_Language_Models.md)
 

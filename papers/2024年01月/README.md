@@ -34,6 +34,10 @@
 
 2024年01月17日
 
+- [Evaluating LLMs' Mathematical and Coding Competency through Ontology-guided Interventions](2024年01月17日/Evaluating_LLMs'_Mathematical_and_Coding_Competency_through_Ontology-guided_Interventions.md)
+
+    - [翻译: 借助本体引导的干预，我们评估了 LLM 在数学和编码方面的能力。](2024年01月17日/Evaluating_LLMs'_Mathematical_and_Coding_Competency_through_Ontology-guided_Interventions.md)
+
 - [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](2024年01月17日/Sleeper_Agents_Training_Deceptive_LLMs_that_Persist_Through_Safety_Training.md)
 
     - [翻译: 潜伏者模型：培养能巧妙绕过安全训练的大型语言模型，保持其欺骗本性。](2024年01月17日/Sleeper_Agents_Training_Deceptive_LLMs_that_Persist_Through_Safety_Training.md)
