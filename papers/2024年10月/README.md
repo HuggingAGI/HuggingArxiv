@@ -1636,10 +1636,6 @@
 
     - [翻译: NotebookLM，一款结合检索增强生成技术的大型语言模型，正被用于肺癌分期研究。](2024年10月08日/Application_of_NotebookLM,_a_Large_Language_Model_with_Retrieval-Augmented_Generation,_for_Lung_Cancer_Staging.md)
 
-- [LLaCA: Multimodal Large Language Continual Assistant](2024年10月08日/LLaCA_Multimodal_Large_Language_Continual_Assistant.md)
-
-    - [翻译: LLaCA：多模态大型语言持续助手](2024年10月08日/LLaCA_Multimodal_Large_Language_Continual_Assistant.md)
-
 - [ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities](2024年10月08日/ToolBridge_An_Open-Source_Dataset_to_Equip_LLMs_with_External_Tool_Capabilities.md)
 
     - [翻译: ToolBridge：一款开源数据集，旨在赋予大型语言模型（LLM）使用外部工具的能力。](2024年10月08日/ToolBridge_An_Open-Source_Dataset_to_Equip_LLMs_with_External_Tool_Capabilities.md)
