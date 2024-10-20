@@ -30,10 +30,6 @@
 
     - [翻译: 大型语言模型包容性生成的主动学习框架](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
 
-- [Anchored Alignment for Self-Explanations Enhancement](2024年10月17日/Anchored_Alignment_for_Self-Explanations_Enhancement.md)
-
-    - [翻译: 锚定对齐：自我解释的增强之道](2024年10月17日/Anchored_Alignment_for_Self-Explanations_Enhancement.md)
-
 - [A Proposal for Uncovering Hidden Social Bots via Genetic Similarity](2024年10月17日/A_Proposal_for_Uncovering_Hidden_Social_Bots_via_Genetic_Similarity.md)
 
     - [翻译: 揭秘隐藏社交机器人的遗传相似性方案](2024年10月17日/A_Proposal_for_Uncovering_Hidden_Social_Bots_via_Genetic_Similarity.md)
@@ -1578,10 +1574,6 @@
 
     - [翻译: SocialGaze：提升大型语言模型中人类社会规范的融合](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
-- [Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models](2024年10月11日/Software_Engineering_and_Foundation_Models_Insights_from_Industry_Blogs_Using_a_Jury_of_Foundation_Models.md)
-
-    - [翻译: 软件工程与基础模型：通过基础模型陪审团，从行业博客中汲取的洞见](2024年10月11日/Software_Engineering_and_Foundation_Models_Insights_from_Industry_Blogs_Using_a_Jury_of_Foundation_Models.md)
-
 - [StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
 
     - [翻译: StructRAG：通过推理时的混合信息结构化，大幅提升 LLM 在知识密集型推理中的表现。](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
@@ -1595,10 +1587,6 @@
 - [Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks](2024年10月10日/Diversity_of_Thought_Elicits_Stronger_Reasoning_Capabilities_in_Multi-Agent_Debate_Frameworks.md)
 
     - [翻译: 思维的多样性在多代理辩论框架中能激发出更强的推理能力。](2024年10月10日/Diversity_of_Thought_Elicits_Stronger_Reasoning_Capabilities_in_Multi-Agent_Debate_Frameworks.md)
-
-- [Global Lyapunov functions: a long-standing open problem in mathematics, with symbolic transformers](2024年10月10日/Global_Lyapunov_functions_a_long-standing_open_problem_in_mathematics,_with_symbolic_transformers.md)
-
-    - [翻译: 全局 Lyapunov 函数，一个数学界长期悬而未决的难题，与符号变换器紧密相关。](2024年10月10日/Global_Lyapunov_functions_a_long-standing_open_problem_in_mathematics,_with_symbolic_transformers.md)
 
 - [Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
 
