@@ -628,10 +628,6 @@
 
     - [翻译: 开放领域问答中的冲突上下文](2024年10月16日/Open_Domain_Question_Answering_with_Conflicting_Contexts.md)
 
-- [Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models](2024年10月16日/Open_Materials_2024_(OMat24)_Inorganic_Materials_Dataset_and_Models.md)
-
-    - [翻译: 2024年开放材料（OMat24）无机材料数据集与模型](2024年10月16日/Open_Materials_2024_(OMat24)_Inorganic_Materials_Dataset_and_Models.md)
-
 - [Optimizing Low-Resource Language Model Training: Comprehensive Analysis of Multi-Epoch, Multi-Lingual, and Two-Stage Approaches](2024年10月16日/Optimizing_Low-Resource_Language_Model_Training_Comprehensive_Analysis_of_Multi-Epoch,_Multi-Lingual,_and_Two-Stage_Approaches.md)
 
     - [翻译: 优化低资源语言模型训练：深入探讨多时期、多语言及两阶段策略的综合分析](2024年10月16日/Optimizing_Low-Resource_Language_Model_Training_Comprehensive_Analysis_of_Multi-Epoch,_Multi-Lingual,_and_Two-Stage_Approaches.md)
@@ -1448,10 +1444,6 @@
 
     - [翻译: 借助大型语言模型，电子健康记录的文本摘要能力得以提升。](2024年10月12日/Enhanced_Electronic_Health_Records_Text_Summarization_Using_Large_Language_Models.md)
 
-- [Exploring Demonstration Retrievers in RAG for Coding Tasks: Yeas and Nays!](2024年10月12日/Exploring_Demonstration_Retrievers_in_RAG_for_Coding_Tasks_Yeas_and_Nays!.md)
-
-    - [翻译: RAG 中编码任务演示检索器的探索：利弊分析！](2024年10月12日/Exploring_Demonstration_Retrievers_in_RAG_for_Coding_Tasks_Yeas_and_Nays!.md)
-
 - [FlatQuant: Flatness Matters for LLM Quantization](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
     - [翻译: FlatQuant：平坦性在 LLM 量化中举足轻重](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
@@ -1483,10 +1475,6 @@
 - [MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning](2024年10月12日/MTL-LoRA_Low-Rank_Adaptation_for_Multi-Task_Learning.md)
 
     - [翻译: MTL-LoRA：多任务学习的低秩适应](2024年10月12日/MTL-LoRA_Low-Rank_Adaptation_for_Multi-Task_Learning.md)
-
-- [Quebec Automobile Insurance Question-Answering With Retrieval-Augmented Generation](2024年10月12日/Quebec_Automobile_Insurance_Question-Answering_With_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 魁北克汽车保险问答系统：检索增强生成技术应用](2024年10月12日/Quebec_Automobile_Insurance_Question-Answering_With_Retrieval-Augmented_Generation.md)
 
 - [Reconstructive Visual Instruction Tuning](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
