@@ -14,10 +14,6 @@
 
     - [翻译: 通过自我提升，推动大型语言模型的归因技术进步。](2024年10月17日/Advancing_Large_Language_Model_Attribution_through_Self-Improving.md)
 
-- [Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering](2024年10月17日/AegisAn_Advanced_LLM-Based_Multi-Agent_for_Intelligent_Functional_Safety_Engineering.md)
-
-    - [翻译: Aegis：基于先进 LLM 的多智能体系统，专为智能功能安全工程设计](2024年10月17日/AegisAn_Advanced_LLM-Based_Multi-Agent_for_Intelligent_Functional_Safety_Engineering.md)
-
 - [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](2024年10月17日/AgentOccam_A_Simple_Yet_Strong_Baseline_for_LLM-Based_Web_Agents.md)
 
     - [翻译: AgentOccam：一款简洁却不失强大的 LLM 基础 Web 代理基线](2024年10月17日/AgentOccam_A_Simple_Yet_Strong_Baseline_for_LLM-Based_Web_Agents.md)
@@ -837,14 +833,6 @@
 - [DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure](2024年10月15日/DySpec_Faster_Speculative_Decoding_with_Dynamic_Token_Tree_Structure.md)
 
     - [翻译: DySpec：借助动态令牌树结构，实现更快的推测解码](2024年10月15日/DySpec_Faster_Speculative_Decoding_with_Dynamic_Token_Tree_Structure.md)
-
-- [Eliciting Textual Descriptions from Representations of Continuous Prompts](2024年10月15日/Eliciting_Textual_Descriptions_from_Representations_of_Continuous_Prompts.md)
-
-    - [翻译: 从连续提示的表示中提取文本描述](2024年10月15日/Eliciting_Textual_Descriptions_from_Representations_of_Continuous_Prompts.md)
-
-- [FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting](2024年10月15日/FoundTS_Comprehensive_and_Unified_Benchmarking_of_Foundation_Models_for_Time_Series_Forecasting.md)
-
-    - [翻译: FoundTS：时间序列预测基础模型的全面统一基准](2024年10月15日/FoundTS_Comprehensive_and_Unified_Benchmarking_of_Foundation_Models_for_Time_Series_Forecasting.md)
 
 - [GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
 
