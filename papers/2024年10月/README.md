@@ -58,10 +58,6 @@
 
     - [翻译: 镜中偏见：LLM 的观点能否经受住自身的对抗性攻击？](2024年10月17日/Bias_in_the_Mirror__Are_LLMs_opinions_robust_to_their_own_adversarial_attacks_.md)
 
-- [BQA: Body Language Question Answering Dataset for Video Large Language Models](2024年10月17日/BQA_Body_Language_Question_Answering_Dataset_for_Video_Large_Language_Models.md)
-
-    - [翻译: BQA：专为视频大型语言模型设计的身体语言问答数据集](2024年10月17日/BQA_Body_Language_Question_Answering_Dataset_for_Video_Large_Language_Models.md)
-
 - [Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning](2024年10月17日/Breaking_Chains_Unraveling_the_Links_in_Multi-Hop_Knowledge_Unlearning.md)
 
     - [翻译: 破链而出：揭秘多跳知识遗忘中的关联](2024年10月17日/Breaking_Chains_Unraveling_the_Links_in_Multi-Hop_Knowledge_Unlearning.md)
@@ -596,10 +592,6 @@
 
     - [翻译: 金字塔驱动对齐：以金字塔原则为指导，整合大型语言模型与知识图谱](2024年10月16日/Pyramid-Driven_Alignment_Pyramid_Principle_Guided_Integration_of_Large_Language_Models_and_Knowledge_Graphs.md)
 
-- [Quantum Boltzmann machine learning of ground-state energies](2024年10月16日/Quantum_Boltzmann_machine_learning_of_ground-state_energies.md)
-
-    - [翻译: 量子玻尔兹曼机学习基态能量](2024年10月16日/Quantum_Boltzmann_machine_learning_of_ground-state_energies.md)
-
 - [Reconstruction of Differentially Private Text Sanitization via Large Language Models](2024年10月16日/Reconstruction_of_Differentially_Private_Text_Sanitization_via_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型重建差分隐私文本净化](2024年10月16日/Reconstruction_of_Differentially_Private_Text_Sanitization_via_Large_Language_Models.md)
@@ -873,10 +865,6 @@
 - [MoChat: Joints-Grouped Spatio-Temporal Grounding LLM for Multi-Turn Motion Comprehension and Description](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
 
     - [翻译: MoChat：一款专为多轮运动理解和描述设计的联合分组时空定位大型语言模型](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
-
-- [Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](2024年10月15日/Model_Swarms_Collaborative_Search_to_Adapt_LLM_Experts_via_Swarm_Intelligence.md)
-
-    - [翻译: 模型集群：利用集群智能，协同搜索以适应 LLM 专家](2024年10月15日/Model_Swarms_Collaborative_Search_to_Adapt_LLM_Experts_via_Swarm_Intelligence.md)
 
 - [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
 
