@@ -178,10 +178,6 @@
 
     - [翻译: Janus：通过解耦视觉编码，实现多模态理解和生成的统一。](2024年10月17日/Janus_Decoupling_Visual_Encoding_for_Unified_Multimodal_Understanding_and_Generation.md)
 
-- [Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval](2024年10月17日/Knowledge-Aware_Query_Expansion_with_Large_Language_Models_for_Textual_and_Relational_Retrieval.md)
-
-    - [翻译: 利用大型语言模型进行知识感知的查询扩展，应用于文本与关系检索](2024年10月17日/Knowledge-Aware_Query_Expansion_with_Large_Language_Models_for_Textual_and_Relational_Retrieval.md)
-
 - [LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
 
     - [翻译: LAR-ECHR：欧洲人权法院案件的新法律论证推理任务与数据集](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
@@ -447,10 +443,6 @@
 - [Evaluating Morphological Compositional Generalization in Large Language Models](2024年10月16日/Evaluating_Morphological_Compositional_Generalization_in_Large_Language_Models.md)
 
     - [翻译: 探究大型语言模型中的形态组合泛化能力](2024年10月16日/Evaluating_Morphological_Compositional_Generalization_in_Large_Language_Models.md)
-
-- [Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models](2024年10月16日/Evaluating_Self-Generated_Documents_for_Enhancing_Retrieval-Augmented_Generation_with_Large_Language_Models.md)
-
-    - [翻译: 评估自生成文档，以提升大型语言模型在检索增强生成中的表现](2024年10月16日/Evaluating_Self-Generated_Documents_for_Enhancing_Retrieval-Augmented_Generation_with_Large_Language_Models.md)
 
 - [Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios](2024年10月16日/Evaluating_Software_Development_Agents_Patch_Patterns,_Code_Quality,_and_Issue_Complexity_in_Real-World_GitHub_Scenarios.md)
 
@@ -1067,10 +1059,6 @@
 - [Is Parameter Collision Hindering Continual Learning in LLMs?](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
 
     - [翻译: 参数碰撞是否成为 LLM 持续学习的绊脚石？](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
-
-- [KBLaM: Knowledge Base augmented Language Model](2024年10月14日/KBLaM_Knowledge_Base_augmented_Language_Model.md)
-
-    - [翻译: KBLaM：知识库赋能的语言模型](2024年10月14日/KBLaM_Knowledge_Base_augmented_Language_Model.md)
 
 - [Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
 
