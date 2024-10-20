@@ -424,10 +424,6 @@
 
     - [翻译: aiXcoder-7B：一款轻巧高效的代码补全大型语言模型](2024年10月16日/aiXcoder-7B_A_Lightweight_and_Effective_Large_Language_Model_for_Code_Completion.md)
 
-- [Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2](2024年10月16日/Automatic_Mapping_of_Anatomical_Landmarks_from_Free-Text_Using_Large_Language_Models_Insights_from_Llama-2.md)
-
-    - [翻译: 借助 Llama-2 大型语言模型，自动从自由文本中识别解剖学标志，探索其背后的奥秘。](2024年10月16日/Automatic_Mapping_of_Anatomical_Landmarks_from_Free-Text_Using_Large_Language_Models_Insights_from_Llama-2.md)
-
 - [Benchmarking Defeasible Reasoning with Large Language Models -- Initial Experiments and Future Directions](2024年10月16日/Benchmarking_Defeasible_Reasoning_with_Large_Language_Models_--_Initial_Experiments_and_Future_Directions.md)
 
     - [翻译: 大型语言模型的可废止推理基准测试——初探与展望](2024年10月16日/Benchmarking_Defeasible_Reasoning_with_Large_Language_Models_--_Initial_Experiments_and_Future_Directions.md)
@@ -511,10 +507,6 @@
 - [Explainable Moral Values: a neuro-symbolic approach to value classification](2024年10月16日/Explainable_Moral_Values_a_neuro-symbolic_approach_to_value_classification.md)
 
     - [翻译: 道德价值观的可解释性：神经符号方法在价值分类中的应用](2024年10月16日/Explainable_Moral_Values_a_neuro-symbolic_approach_to_value_classification.md)
-
-- [Exploring Model Kinship for Merging Large Language Models](2024年10月16日/Exploring_Model_Kinship_for_Merging_Large_Language_Models.md)
-
-    - [翻译: 探究合并大型语言模型的模型亲缘关系](2024年10月16日/Exploring_Model_Kinship_for_Merging_Large_Language_Models.md)
 
 - [Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning](2024年10月16日/Facilitating_Multi-turn_Function_Calling_for_LLMs_via_Compositional_Instruction_Tuning.md)
 
