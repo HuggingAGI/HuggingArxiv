@@ -366,14 +366,6 @@
 
     - [翻译: 星巴克：优化了2D套娃嵌入的训练方法](2024年10月17日/Starbucks_Improved_Training_for_2D_Matryoshka_Embeddings.md)
 
-- [Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model](2024年10月17日/Text-Guided_Multi-Property_Molecular_Optimization_with_a_Diffusion_Language_Model.md)
-
-    - [翻译: 借助扩散语言模型，实现文本引导的多属性分子优化](2024年10月17日/Text-Guided_Multi-Property_Molecular_Optimization_with_a_Diffusion_Language_Model.md)
-
-- [Towards Hybrid Intelligence in Journalism: Findings and Lessons Learnt from a Collaborative Analysis of Greek Political Rhetoric by ChatGPT and Humans](2024年10月17日/Towards_Hybrid_Intelligence_in_Journalism_Findings_and_Lessons_Learnt_from_a_Collaborative_Analysis_of_Greek_Political_Rhetoric_by_ChatGPT_and_Humans.md)
-
-    - [翻译: 新闻学中的混合智能探索：ChatGPT 与人类协作分析希腊政治修辞的发现与启示](2024年10月17日/Towards_Hybrid_Intelligence_in_Journalism_Findings_and_Lessons_Learnt_from_a_Collaborative_Analysis_of_Greek_Political_Rhetoric_by_ChatGPT_and_Humans.md)
-
 - [Unconstrained Model Merging for Enhanced LLM Reasoning](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
 
     - [翻译: 无约束模型合并：提升 LLM 推理能力](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
@@ -507,10 +499,6 @@
 - [Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
 
     - [翻译: 利用 Pointwise V-Usable Information 进行多任务学习中的任务分组识别](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
-
-- [In-Context Learning Enables Robot Action Prediction in LLMs](2024年10月16日/In-Context_Learning_Enables_Robot_Action_Prediction_in_LLMs.md)
-
-    - [翻译: 上下文学习让 LLM 能够预测机器人动作](2024年10月16日/In-Context_Learning_Enables_Robot_Action_Prediction_in_LLMs.md)
 
 - [Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse RL](2024年10月16日/Insights_from_the_Inverse_Reconstructing_LLM_Training_Goals_Through_Inverse_RL.md)
 
@@ -697,10 +685,6 @@
 - [Advanced Persistent Threats (APT) Attribution Using Deep Reinforcement Learning](2024年10月15日/Advanced_Persistent_Threats_(APT)_Attribution_Using_Deep_Reinforcement_Learning.md)
 
     - [翻译: 利用深度强化学习技术，精准归因高级持续威胁（APT）](2024年10月15日/Advanced_Persistent_Threats_(APT)_Attribution_Using_Deep_Reinforcement_Learning.md)
-
-- [A Framework for Adapting Human-Robot Interaction to Diverse User Groups](2024年10月15日/A_Framework_for_Adapting_Human-Robot_Interaction_to_Diverse_User_Groups.md)
-
-    - [翻译: 人机交互框架，灵活适应多元用户群体](2024年10月15日/A_Framework_for_Adapting_Human-Robot_Interaction_to_Diverse_User_Groups.md)
 
 - [A Hitchhiker's Guide to Scaling Law Estimation](2024年10月15日/A_Hitchhiker's_Guide_to_Scaling_Law_Estimation.md)
 
@@ -959,10 +943,6 @@
 - [A CLIP-Powered Framework for Robust and Generalizable Data Selection](2024年10月14日/A_CLIP-Powered_Framework_for_Robust_and_Generalizable_Data_Selection.md)
 
     - [翻译: 基于 CLIP 的框架，助力数据选择更稳健、更通用](2024年10月14日/A_CLIP-Powered_Framework_for_Robust_and_Generalizable_Data_Selection.md)
-
-- [Ada-K Routing: Boosting the Efficiency of MoE-based LLMs](2024年10月14日/Ada-K_Routing_Boosting_the_Efficiency_of_MoE-based_LLMs.md)
-
-    - [翻译: Ada-K 路由：为基于 MoE 的 LLM 注入高效动力](2024年10月14日/Ada-K_Routing_Boosting_the_Efficiency_of_MoE-based_LLMs.md)
 
 - [Adapt-$\infty$: Scalable Lifelong Multimodal Instruction Tuning via Dynamic Data Selection](2024年10月14日/Adapt-$\infty$_Scalable_Lifelong_Multimodal_Instruction_Tuning_via_Dynamic_Data_Selection.md)
 
