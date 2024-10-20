@@ -94,10 +94,6 @@
 
     - [翻译: CLEAR：借助上下文 LLM 赋能，助力隐私政策分析与大型语言模型应用的风险生成](2024年10月17日/CLEAR_Towards_Contextual_LLM-Empowered_Privacy_Policy_Analysis_and_Risk_Generation_for_Large_Language_Model_Applications.md)
 
-- [ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents](2024年10月17日/ClickAgent_Enhancing_UI_Location_Capabilities_of_Autonomous_Agents.md)
-
-    - [翻译: 提升自主代理的UI定位功能](2024年10月17日/ClickAgent_Enhancing_UI_Location_Capabilities_of_Autonomous_Agents.md)
-
 - [Comparing the Utility, Preference, and Performance of Course Material Search Functionality and Retrieval-Augmented Generation Large Language Model (RAG-LLM) AI Chatbots in Information-Seeking Tasks](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
 
     - [翻译: 在信息搜索任务中，课程材料搜索功能与 RAG-LLM AI 聊天机器人的效用、偏好和性能比较](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
@@ -1489,10 +1485,6 @@
 - [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
 
     - [翻译: 在 LLM 和 VLM 时代，音频描述生成：探索可转移的生成 AI 技术](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
-
-- [AutoPersuade: A Framework for Evaluating and Explaining Persuasive Arguments](2024年10月11日/AutoPersuade_A_Framework_for_Evaluating_and_Explaining_Persuasive_Arguments.md)
-
-    - [翻译: AutoPersuade：一款评估与解释说服性论点的框架](2024年10月11日/AutoPersuade_A_Framework_for_Evaluating_and_Explaining_Persuasive_Arguments.md)
 
 - [Enhancing Long Context Performance in LLMs Through Inner Loop Query Mechanism](2024年10月11日/Enhancing_Long_Context_Performance_in_LLMs_Through_Inner_Loop_Query_Mechanism.md)
 
