@@ -70,10 +70,6 @@
 
     - [翻译: 医学视觉-语言预训练，能否仅凭纯合成数据大获成功？](2024年10月17日/Can_Medical_Vision-Language_Pre-training_Succeed_with_Purely_Synthetic_Data.md)
 
-- [Can MLLMs Understand the Deep Implication Behind Chinese Images?](2024年10月17日/Can_MLLMs_Understand_the_Deep_Implication_Behind_Chinese_Images.md)
-
-    - [翻译: MLLMs 能洞悉中文图像的深层含义吗？](2024年10月17日/Can_MLLMs_Understand_the_Deep_Implication_Behind_Chinese_Images.md)
-
 - [CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
 
     - [翻译: CBT-Bench：衡量大型语言模型在辅助认知行为疗法中的效能](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
@@ -762,10 +758,6 @@
 
     - [翻译: 破解混沌：利用对抗性提示翻译提升越狱攻击效果](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
 
-- [DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment](2024年10月15日/DeformPAM_Data-Efficient_Learning_for_Long-horizon_Deformable_Object_Manipulation_via_Preference-based_Action_Alignment.md)
-
-    - [翻译: DeformPAM：利用基于偏好的动作对齐，高效学习长时变形物体的操作。](2024年10月15日/DeformPAM_Data-Efficient_Learning_for_Long-horizon_Deformable_Object_Manipulation_via_Preference-based_Action_Alignment.md)
-
 - [De-jargonizing Science for Journalists with GPT-4: A Pilot Study](2024年10月15日/De-jargonizing_Science_for_Journalists_with_GPT-4_A_Pilot_Study.md)
 
     - [翻译: 利用 GPT-4 帮助记者简化科学术语：一次初步探索](2024年10月15日/De-jargonizing_Science_for_Journalists_with_GPT-4_A_Pilot_Study.md)
@@ -1212,10 +1204,6 @@
 
     - [翻译: 聚焦温度，探究知识蒸馏下的推测解码](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
 
-- [Test smells in LLM-Generated Unit Tests](2024年10月14日/Test_smells_in_LLM-Generated_Unit_Tests.md)
-
-    - [翻译: LLM 生成单元测试中的测试异味](2024年10月14日/Test_smells_in_LLM-Generated_Unit_Tests.md)
-
 - [Thinking LLMs: General Instruction Following with Thought Generation](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
 
     - [翻译: 思考型 LLM：通过思维生成实现通用指令跟随](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
@@ -1411,10 +1399,6 @@
 - [Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
 
     - [翻译: 探索 Q-Former 在视觉推理任务中视觉与语言对齐的高效路径](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
-
-- [Training Dynamics of Transformers to Recognize Word Co-occurrence via Gradient Flow Analysis](2024年10月12日/Training_Dynamics_of_Transformers_to_Recognize_Word_Co-occurrence_via_Gradient_Flow_Analysis.md)
-
-    - [翻译: 通过梯度流分析，揭示 Transformer 识别词共现的训练动态](2024年10月12日/Training_Dynamics_of_Transformers_to_Recognize_Word_Co-occurrence_via_Gradient_Flow_Analysis.md)
 
 - [Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](2024年10月12日/Two_Heads_Are_Better_Than_One_A_Multi-Agent_System_Has_the_Potential_to_Improve_Scientific_Idea_Generation.md)
 
