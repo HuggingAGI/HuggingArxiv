@@ -82,10 +82,6 @@
 
     - [翻译: Cerberus：高效推理，结合自适应并行解码与顺序知识增强](2024年10月17日/Cerberus_Efficient_Inference_with_Adaptive_Parallel_Decoding_and_Sequential_Knowledge_Enhancement.md)
 
-- [ChannelGPT: A Large Model to Generate Digital Twin Channel for 6G Environment Intelligence](2024年10月17日/ChannelGPT_A_Large_Model_to_Generate_Digital_Twin_Channel_for_6G_Environment_Intelligence.md)
-
-    - [翻译: ChannelGPT：一款专为 6G 环境智能打造的大型模型，用于生成数字孪生通道。](2024年10月17日/ChannelGPT_A_Large_Model_to_Generate_Digital_Twin_Channel_for_6G_Environment_Intelligence.md)
-
 - [CLaMP 2: Multimodal Music Information Retrieval Across 101 Languages Using Large Language Models](2024年10月17日/CLaMP_2_Multimodal_Music_Information_Retrieval_Across_101_Languages_Using_Large_Language_Models.md)
 
     - [翻译: CLaMP 2：借助大型语言模型，跨越 101 种语言的多模态音乐信息检索](2024年10月17日/CLaMP_2_Multimodal_Music_Information_Retrieval_Across_101_Languages_Using_Large_Language_Models.md)
@@ -157,10 +153,6 @@
 - [GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models](2024年10月17日/GeoCoder_Solving_Geometry_Problems_by_Generating_Modular_Code_through_Vision-Language_Models.md)
 
     - [翻译: GeoCoder：借助视觉-语言模型生成模块化代码，轻松解决几何难题](2024年10月17日/GeoCoder_Solving_Geometry_Problems_by_Generating_Modular_Code_through_Vision-Language_Models.md)
-
-- [Harnessing Webpage UIs for Text-Rich Visual Understanding](2024年10月17日/Harnessing_Webpage_UIs_for_Text-Rich_Visual_Understanding.md)
-
-    - [翻译: 借助网页UI，深入探索文本与视觉的丰富结合](2024年10月17日/Harnessing_Webpage_UIs_for_Text-Rich_Visual_Understanding.md)
 
 - [HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings](2024年10月17日/HEALTH-PARIKSHA_Assessing_RAG_Models_for_Health_Chatbots_in_Real-World_Multilingual_Settings.md)
 
@@ -664,10 +656,6 @@
 
     - [翻译: SF-Speech：小规模数据集上的零-shot 语音克隆直流技术](2024年10月16日/SF-Speech_Straightened_Flow_for_Zero-Shot_Voice_Clone_on_Small-Scale_Dataset.md)
 
-- [ShapefileGPT: A Multi-Agent Large Language Model Framework for Automated Shapefile Processing](2024年10月16日/ShapefileGPT_A_Multi-Agent_Large_Language_Model_Framework_for_Automated_Shapefile_Processing.md)
-
-    - [翻译: ShapefileGPT：一款专为自动化 Shapefile 处理设计的多智能体大型语言模型框架](2024年10月16日/ShapefileGPT_A_Multi-Agent_Large_Language_Model_Framework_for_Automated_Shapefile_Processing.md)
-
 - [SLM-Mod: Small Language Models Surpass LLMs at Content Moderation](2024年10月16日/SLM-Mod_Small_Language_Models_Surpass_LLMs_at_Content_Moderation.md)
 
     - [翻译: SLM-Mod: 小语言模型在内容审核上胜过大语言模型](2024年10月16日/SLM-Mod_Small_Language_Models_Surpass_LLMs_at_Content_Moderation.md)
@@ -725,10 +713,6 @@
 - [A Framework for Adapting Human-Robot Interaction to Diverse User Groups](2024年10月15日/A_Framework_for_Adapting_Human-Robot_Interaction_to_Diverse_User_Groups.md)
 
     - [翻译: 人机交互框架，灵活适应多元用户群体](2024年10月15日/A_Framework_for_Adapting_Human-Robot_Interaction_to_Diverse_User_Groups.md)
-
-- [AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data](2024年10月15日/AGENTiGraph_An_Interactive_Knowledge_Graph_Platform_for_LLM-based_Chatbots_Utilizing_Private_Data.md)
-
-    - [翻译: AGENTiGraph：专为基于 LLM 的聊天机器人设计的交互式知识图谱平台，充分利用私有数据。](2024年10月15日/AGENTiGraph_An_Interactive_Knowledge_Graph_Platform_for_LLM-based_Chatbots_Utilizing_Private_Data.md)
 
 - [A Hitchhiker's Guide to Scaling Law Estimation](2024年10月15日/A_Hitchhiker's_Guide_to_Scaling_Law_Estimation.md)
 
