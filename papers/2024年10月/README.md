@@ -114,10 +114,6 @@
 
     - [翻译: 协作AI助力情感分析：架构设计、预测模型与部署策略](2024年10月17日/Enhancing_Sentiment_Analysis_with_Collaborative_AI_Architecture,_Predictions,_and_Deployment_Strategies.md)
 
-- [Exploring the Design Space of Visual Context Representation in Video MLLMs](2024年10月17日/Exploring_the_Design_Space_of_Visual_Context_Representation_in_Video_MLLMs.md)
-
-    - [翻译: 探索视频MLLMs中视觉上下文表示的设计空间](2024年10月17日/Exploring_the_Design_Space_of_Visual_Context_Representation_in_Video_MLLMs.md)
-
 - [Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](2024年10月17日/Failing_Forward_Improving_Generative_Error_Correction_for_ASR_with_Synthetic_Data_and_Retrieval_Augmentation.md)
 
     - [翻译: 向前失败：利用合成数据和检索增强技术提升 ASR 的生成错误校正能力](2024年10月17日/Failing_Forward_Improving_Generative_Error_Correction_for_ASR_with_Synthetic_Data_and_Retrieval_Augmentation.md)
@@ -1004,10 +1000,6 @@
 
     - [翻译: 大型语言模型中的文化保真度：探讨在线语言资源如何影响模型在价值表示方面的性能。](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
-- [Denial-of-Service Poisoning Attacks against Large Language Models](2024年10月14日/Denial-of-Service_Poisoning_Attacks_against_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型遭遇拒绝服务中毒攻击](2024年10月14日/Denial-of-Service_Poisoning_Attacks_against_Large_Language_Models.md)
-
 - [Depth Any Video with Scalable Synthetic Data](2024年10月14日/Depth_Any_Video_with_Scalable_Synthetic_Data.md)
 
     - [翻译: 用可扩展的合成数据实现任意视频深度](2024年10月14日/Depth_Any_Video_with_Scalable_Synthetic_Data.md)
@@ -1160,10 +1152,6 @@
 
     - [翻译: Sitcom-Crafter：一款以情节驱动的3D场景中人类动作生成系统](2024年10月14日/Sitcom-Crafter_A_Plot-Driven_Human_Motion_Generation_System_in_3D_Scenes.md)
 
-- [SLaNC: Static LayerNorm Calibration](2024年10月14日/SLaNC_Static_LayerNorm_Calibration.md)
-
-    - [翻译: SLaNC：静态层归一化校准](2024年10月14日/SLaNC_Static_LayerNorm_Calibration.md)
-
 - [SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
 
     - [翻译: SplitLLM：通过协作推理优化 LLM 的模型放置和吞吐量](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
@@ -1315,10 +1303,6 @@
 - [DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
 
     - [翻译: DRCap：通过检索增强生成技术，解码 CLAP 潜在变量，实现零-shot 音频字幕生成。](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
-
-- [Enhanced Electronic Health Records Text Summarization Using Large Language Models](2024年10月12日/Enhanced_Electronic_Health_Records_Text_Summarization_Using_Large_Language_Models.md)
-
-    - [翻译: 借助大型语言模型，电子健康记录的文本摘要能力得以提升。](2024年10月12日/Enhanced_Electronic_Health_Records_Text_Summarization_Using_Large_Language_Models.md)
 
 - [FlatQuant: Flatness Matters for LLM Quantization](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
