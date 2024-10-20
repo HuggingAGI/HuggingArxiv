@@ -318,10 +318,6 @@
 
     - [翻译: Probing-RAG：通过自我探测引导语言模型进行精准文档检索](2024年10月17日/Probing-RAG_Self-Probing_to_Guide_Language_Models_in_Selective_Document_Retrieval.md)
 
-- [Prompt Compression for Large Language Models: A Survey](2024年10月17日/Prompt_Compression_for_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 大型语言模型的提示压缩：全面调查](2024年10月17日/Prompt_Compression_for_Large_Language_Models_A_Survey.md)
-
 - [Proof Flow: Preliminary Study on Generative Flow Network Language Model Tuning for Formal Reasoning](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
 
     - [翻译: 证明流：形式推理中生成流网络语言模型调优的初步探索](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
@@ -849,10 +845,6 @@
 - [Eliciting Textual Descriptions from Representations of Continuous Prompts](2024年10月15日/Eliciting_Textual_Descriptions_from_Representations_of_Continuous_Prompts.md)
 
     - [翻译: 从连续提示的表示中提取文本描述](2024年10月15日/Eliciting_Textual_Descriptions_from_Representations_of_Continuous_Prompts.md)
-
-- [Enhance Graph Alignment for Large Language Models](2024年10月15日/Enhance_Graph_Alignment_for_Large_Language_Models.md)
-
-    - [翻译: 提升大型语言模型的图对齐能力](2024年10月15日/Enhance_Graph_Alignment_for_Large_Language_Models.md)
 
 - [FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting](2024年10月15日/FoundTS_Comprehensive_and_Unified_Benchmarking_of_Foundation_Models_for_Time_Series_Forecasting.md)
 
@@ -1416,10 +1408,6 @@
 
     - [翻译: 主动信息检索](2024年10月12日/Agentic_Information_Retrieval.md)
 
-- [Are You Human? An Adversarial Benchmark to Expose LLMs](2024年10月12日/Are_You_Human_An_Adversarial_Benchmark_to_Expose_LLMs.md)
-
-    - [翻译: “你是人类吗？”——一个对抗性基准，旨在揭示大型语言模型的真实面目。](2024年10月12日/Are_You_Human_An_Adversarial_Benchmark_to_Expose_LLMs.md)
-
 - [Boosting Deductive Reasoning with Step Signals In RLHF](2024年10月12日/Boosting_Deductive_Reasoning_with_Step_Signals_In_RLHF.md)
 
     - [翻译: 通过步骤信号提升 RLHF 中的演绎推理能力](2024年10月12日/Boosting_Deductive_Reasoning_with_Step_Signals_In_RLHF.md)
@@ -1550,10 +1538,6 @@
 
     - [翻译: JAILJUDGE：一个综合的越狱判断基准，结合了多代理增强的解释评估框架，旨在全面评估越狱行为。](2024年10月11日/JAILJUDGE_A_Comprehensive_Jailbreak_Judge_Benchmark_with_Multi-Agent_Enhanced_Explanation_Evaluation_Framework.md)
 
-- [Language-Model-Assisted Bi-Level Programming for Reward Learning from Internet Videos](2024年10月11日/Language-Model-Assisted_Bi-Level_Programming_for_Reward_Learning_from_Internet_Videos.md)
-
-    - [翻译: 借助语言模型的双层编程，从网络视频中学习奖励机制](2024年10月11日/Language-Model-Assisted_Bi-Level_Programming_for_Reward_Learning_from_Internet_Videos.md)
-
 - [Large Language Models for Medical OSCE Assessment: A Novel Approach to Transcript Analysis](2024年10月11日/Large_Language_Models_for_Medical_OSCE_Assessment_A_Novel_Approach_to_Transcript_Analysis.md)
 
     - [翻译: 医学 OSCE 评估中的大型语言模型：转录分析的创新之道](2024年10月11日/Large_Language_Models_for_Medical_OSCE_Assessment_A_Novel_Approach_to_Transcript_Analysis.md)
@@ -1601,10 +1585,6 @@
 - [StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
 
     - [翻译: StructRAG：通过推理时的混合信息结构化，大幅提升 LLM 在知识密集型推理中的表现。](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
-
-- [Utilizing ChatGPT in a Data Structures and Algorithms Course: A Teaching Assistant's Perspective](2024年10月11日/Utilizing_ChatGPT_in_a_Data_Structures_and_Algorithms_Course_A_Teaching_Assistant's_Perspective.md)
-
-    - [翻译: ChatGPT 在数据结构与算法课程中的应用：一位助教的视角](2024年10月11日/Utilizing_ChatGPT_in_a_Data_Structures_and_Algorithms_Course_A_Teaching_Assistant's_Perspective.md)
 
 - [When Graph meets Multimodal: Benchmarking on Multimodal Attributed Graphs Learning](2024年10月11日/When_Graph_meets_Multimodal_Benchmarking_on_Multimodal_Attributed_Graphs_Learning.md)
 
