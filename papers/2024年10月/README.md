@@ -386,10 +386,6 @@
 
     - [翻译: 借助扩散语言模型，实现文本引导的多属性分子优化](2024年10月17日/Text-Guided_Multi-Property_Molecular_Optimization_with_a_Diffusion_Language_Model.md)
 
-- [Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models](2024年10月17日/Think_Thrice_Before_You_Act_Progressive_Thought_Refinement_in_Large_Language_Models.md)
-
-    - [翻译: 在行动之前，三思而后行：探讨大型语言模型中的思维逐步细化过程。](2024年10月17日/Think_Thrice_Before_You_Act_Progressive_Thought_Refinement_in_Large_Language_Models.md)
-
 - [Towards Hybrid Intelligence in Journalism: Findings and Lessons Learnt from a Collaborative Analysis of Greek Political Rhetoric by ChatGPT and Humans](2024年10月17日/Towards_Hybrid_Intelligence_in_Journalism_Findings_and_Lessons_Learnt_from_a_Collaborative_Analysis_of_Greek_Political_Rhetoric_by_ChatGPT_and_Humans.md)
 
     - [翻译: 新闻学中的混合智能探索：ChatGPT 与人类协作分析希腊政治修辞的发现与启示](2024年10月17日/Towards_Hybrid_Intelligence_in_Journalism_Findings_and_Lessons_Learnt_from_a_Collaborative_Analysis_of_Greek_Political_Rhetoric_by_ChatGPT_and_Humans.md)
@@ -1372,10 +1368,6 @@
 
 2024年10月12日
 
-- [AERA Chat: An Interactive Platform for Automated Explainable Student Answer Assessment](2024年10月12日/AERA_Chat_An_Interactive_Platform_for_Automated_Explainable_Student_Answer_Assessment.md)
-
-    - [翻译: AERA Chat：一个自动化且可解释的学生答案评估交互平台](2024年10月12日/AERA_Chat_An_Interactive_Platform_for_Automated_Explainable_Student_Answer_Assessment.md)
-
 - [Agentic Information Retrieval](2024年10月12日/Agentic_Information_Retrieval.md)
 
     - [翻译: 主动信息检索](2024年10月12日/Agentic_Information_Retrieval.md)
@@ -1451,10 +1443,6 @@
 - [Synthetic Knowledge Ingestion: Towards Knowledge Refinement and Injection for Enhancing Large Language Models](2024年10月12日/Synthetic_Knowledge_Ingestion_Towards_Knowledge_Refinement_and_Injection_for_Enhancing_Large_Language_Models.md)
 
     - [翻译: 合成知识摄取：通过知识精炼与注入，提升大型语言模型的能力](2024年10月12日/Synthetic_Knowledge_Ingestion_Towards_Knowledge_Refinement_and_Injection_for_Enhancing_Large_Language_Models.md)
-
-- [The Future of Learning in the Age of Generative AI: Automated Question Generation and Assessment with Large Language Models](2024年10月12日/The_Future_of_Learning_in_the_Age_of_Generative_AI_Automated_Question_Generation_and_Assessment_with_Large_Language_Models.md)
-
-    - [翻译: 在生成式 AI 时代，学习将迎来新变革：借助大型语言模型，实现自动问题生成与评估。](2024年10月12日/The_Future_of_Learning_in_the_Age_of_Generative_AI_Automated_Question_Generation_and_Assessment_with_Large_Language_Models.md)
 
 - [Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
 
