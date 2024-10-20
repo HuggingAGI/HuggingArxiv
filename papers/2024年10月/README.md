@@ -394,10 +394,6 @@
 
     - [翻译: 无约束模型合并：提升 LLM 推理能力](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
 
-- [VL-GLUE: A Suite of Fundamental yet Challenging Visuo-Linguistic Reasoning Tasks](2024年10月17日/VL-GLUE_A_Suite_of_Fundamental_yet_Challenging_Visuo-Linguistic_Reasoning_Tasks.md)
-
-    - [翻译: VL-GLUE：一套基础且具挑战性的视觉-语言推理任务集](2024年10月17日/VL-GLUE_A_Suite_of_Fundamental_yet_Challenging_Visuo-Linguistic_Reasoning_Tasks.md)
-
 - [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](2024年10月17日/Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation.md)
 
     - [翻译: 网络代理通过世界模型学习并利用环境动态，以优化网络导航。](2024年10月17日/Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation.md)
@@ -488,10 +484,6 @@
 
     - [翻译: 评估软件开发代理：探究 GitHub 真实场景中的补丁模式、代码质量与问题复杂性](2024年10月16日/Evaluating_Software_Development_Agents_Patch_Patterns,_Code_Quality,_and_Issue_Complexity_in_Real-World_GitHub_Scenarios.md)
 
-- [Evaluation of Attribution Bias in Retrieval-Augmented Large Language Models](2024年10月16日/Evaluation_of_Attribution_Bias_in_Retrieval-Augmented_Large_Language_Models.md)
-
-    - [翻译: 探究检索增强型大型语言模型中的归因偏差](2024年10月16日/Evaluation_of_Attribution_Bias_in_Retrieval-Augmented_Large_Language_Models.md)
-
 - [Expanding Chatbot Knowledge in Customer Service: Context-Aware Similar Question Generation Using Large Language Models](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
 
     - [翻译: 在客户服务中提升聊天机器人知识：利用大型语言模型生成上下文感知的相似问题](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
@@ -503,10 +495,6 @@
 - [Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning](2024年10月16日/Facilitating_Multi-turn_Function_Calling_for_LLMs_via_Compositional_Instruction_Tuning.md)
 
     - [翻译: 通过组合指令调优，助力 LLM 实现多轮功能调用](2024年10月16日/Facilitating_Multi-turn_Function_Calling_for_LLMs_via_Compositional_Instruction_Tuning.md)
-
-- [FiRST: Finetuning Router-Selective Transformers for Input-Adaptive Latency Reduction](2024年10月16日/FiRST_Finetuning_Router-Selective_Transformers_for_Input-Adaptive_Latency_Reduction.md)
-
-    - [翻译: FiRST：通过微调路由器选择性变压器，实现输入自适应的延迟降低](2024年10月16日/FiRST_Finetuning_Router-Selective_Transformers_for_Input-Adaptive_Latency_Reduction.md)
 
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
@@ -1160,10 +1148,6 @@
 
     - [翻译: 确保微调后 LLM 的安全防护](2024年10月14日/Locking_Down_the_Finetuned_LLMs_Safety.md)
 
-- [LoLCATs: On Low-Rank Linearizing of Large Language Models](2024年10月14日/LoLCATs_On_Low-Rank_Linearizing_of_Large_Language_Models.md)
-
-    - [翻译: LoLCATs：探索大型语言模型的低秩线性化](2024年10月14日/LoLCATs_On_Low-Rank_Linearizing_of_Large_Language_Models.md)
-
 - [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
 
     - [翻译: LongMemEval：评估聊天助手在长期交互记忆中的表现](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
@@ -1419,10 +1403,6 @@
 - [MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection](2024年10月12日/MMAD_The_First-Ever_Comprehensive_Benchmark_for_Multimodal_Large_Language_Models_in_Industrial_Anomaly_Detection.md)
 
     - [翻译: MMAD：工业异常检测领域首个多模态大型语言模型的全面基准](2024年10月12日/MMAD_The_First-Ever_Comprehensive_Benchmark_for_Multimodal_Large_Language_Models_in_Industrial_Anomaly_Detection.md)
-
-- [MoIN: Mixture of Introvert Experts to Upcycle an LLM](2024年10月12日/MoIN_Mixture_of_Introvert_Experts_to_Upcycle_an_LLM.md)
-
-    - [翻译: MoIN：内向专家混合体，助力 LLM 升级](2024年10月12日/MoIN_Mixture_of_Introvert_Experts_to_Upcycle_an_LLM.md)
 
 - [MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning](2024年10月12日/MTL-LoRA_Low-Rank_Adaptation_for_Multi-Task_Learning.md)
 
