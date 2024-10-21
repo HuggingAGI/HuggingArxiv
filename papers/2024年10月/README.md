@@ -722,10 +722,6 @@
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
-- [HerO at AVeriTeC: The Herd of Open Large Language Models for Verifying Real-World Claims](2024年10月16日/HerO_at_AVeriTeC_The_Herd_of_Open_Large_Language_Models_for_Verifying_Real-World_Claims.md)
-
-    - [翻译: HerO 在 AVeriTeC：一群用于验证现实声明的开源大型语言模型](2024年10月16日/HerO_at_AVeriTeC_The_Herd_of_Open_Large_Language_Models_for_Verifying_Real-World_Claims.md)
-
 - [Hiding-in-Plain-Sight (HiPS) Attack on CLIP for Targetted Object Removal from Images](2024年10月16日/Hiding-in-Plain-Sight_(HiPS)_Attack_on_CLIP_for_Targetted_Object_Removal_from_Images.md)
 
     - [翻译: HiPS 攻击利用 CLIP 的漏洞，巧妙地将目标物体从图像中“隐身”。](2024年10月16日/Hiding-in-Plain-Sight_(HiPS)_Attack_on_CLIP_for_Targetted_Object_Removal_from_Images.md)
@@ -1115,10 +1111,6 @@
 - [Robust Manipulation Primitive Learning via Domain Contraction](2024年10月15日/Robust_Manipulation_Primitive_Learning_via_Domain_Contraction.md)
 
     - [翻译: 通过领域收缩，实现操作原语的鲁棒学习](2024年10月15日/Robust_Manipulation_Primitive_Learning_via_Domain_Contraction.md)
-
-- [SEER: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation](2024年10月15日/SEER_Self-Aligned_Evidence_Extraction_for_Retrieval-Augmented_Generation.md)
-
-    - [翻译: SEER：自对齐证据提取，助力检索增强生成](2024年10月15日/SEER_Self-Aligned_Evidence_Extraction_for_Retrieval-Augmented_Generation.md)
 
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
 
