@@ -670,10 +670,6 @@
 
     - [翻译: CoFE-RAG：一个全面的全链路评估框架，专为提升数据多样性的检索增强生成而设计。](2024年10月16日/CoFE-RAG_A_Comprehensive_Full-chain_Evaluation_Framework_for_Retrieval-Augmented_Generation_with_Enhanced_Data_Diversity.md)
 
-- [CREAM: Consistency Regularized Self-Rewarding Language Models](2024年10月16日/CREAM_Consistency_Regularized_Self-Rewarding_Language_Models.md)
-
-    - [翻译: CREAM：一致性正则化自我奖励语言模型](2024年10月16日/CREAM_Consistency_Regularized_Self-Rewarding_Language_Models.md)
-
 - [Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
 
     - [翻译: 大规模视觉语言模型中的跨模态安全机制转移](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
@@ -1087,10 +1083,6 @@
 - [PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model](2024年10月15日/PAVLM_Advancing_Point_Cloud_based_Affordance_Understanding_Via_Vision-Language_Model.md)
 
     - [翻译: PAVLM：借助视觉-语言模型，推动基于点云的可操作性理解](2024年10月15日/PAVLM_Advancing_Point_Cloud_based_Affordance_Understanding_Via_Vision-Language_Model.md)
-
-- [Personas with Attitudes: Controlling LLMs for Diverse Data Annotation](2024年10月15日/Personas_with_Attitudes_Controlling_LLMs_for_Diverse_Data_Annotation.md)
-
-    - [翻译: 赋予角色态度：掌控 LLM，实现数据标注的多样性](2024年10月15日/Personas_with_Attitudes_Controlling_LLMs_for_Diverse_Data_Annotation.md)
 
 - [PMMT: Preference Alignment in Multilingual Machine Translation via LLM Distillation](2024年10月15日/PMMT_Preference_Alignment_in_Multilingual_Machine_Translation_via_LLM_Distillation.md)
 
@@ -1587,10 +1579,6 @@
 - [Large Language Models for Medical OSCE Assessment: A Novel Approach to Transcript Analysis](2024年10月11日/Large_Language_Models_for_Medical_OSCE_Assessment_A_Novel_Approach_to_Transcript_Analysis.md)
 
     - [翻译: 医学 OSCE 评估中的大型语言模型：转录分析的创新之道](2024年10月11日/Large_Language_Models_for_Medical_OSCE_Assessment_A_Novel_Approach_to_Transcript_Analysis.md)
-
-- [Losing dimensions: Geometric memorization in generative diffusion](2024年10月11日/Losing_dimensions_Geometric_memorization_in_generative_diffusion.md)
-
-    - [翻译: 维度迷失：生成扩散中的几何记忆](2024年10月11日/Losing_dimensions_Geometric_memorization_in_generative_diffusion.md)
 
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
