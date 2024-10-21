@@ -468,10 +468,6 @@
 
     - [翻译: FusionLLM：一款基于地理分布 GPU 的自适应压缩分散式 LLM 训练系统](2024年10月16日/FusionLLM_A_Decentralized_LLM_Training_System_on_Geo-distributed_GPUs_with_Adaptive_Compression.md)
 
-- [Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models](2024年10月16日/Graph-constrained_Reasoning_Faithful_Reasoning_on_Knowledge_Graphs_with_Large_Language_Models.md)
-
-    - [翻译: 图约束推理：利用大型语言模型在知识图谱上实现可信推理](2024年10月16日/Graph-constrained_Reasoning_Faithful_Reasoning_on_Knowledge_Graphs_with_Large_Language_Models.md)
-
 - [HerO at AVeriTeC: The Herd of Open Large Language Models for Verifying Real-World Claims](2024年10月16日/HerO_at_AVeriTeC_The_Herd_of_Open_Large_Language_Models_for_Verifying_Real-World_Claims.md)
 
     - [翻译: HerO 在 AVeriTeC：一群用于验证现实声明的开源大型语言模型](2024年10月16日/HerO_at_AVeriTeC_The_Herd_of_Open_Large_Language_Models_for_Verifying_Real-World_Claims.md)
@@ -798,10 +794,6 @@
 
     - [翻译: 轻量级容错注意力机制助力大型语言模型训练](2024年10月15日/Light-Weight_Fault_Tolerant_Attention_for_Large_Language_Model_Training.md)
 
-- [LLM2Swarm: Robot Swarms that Responsively Reason, Plan, and Collaborate through LLMs](2024年10月15日/LLM2Swarm_Robot_Swarms_that_Responsively_Reason,_Plan,_and_Collaborate_through_LLMs.md)
-
-    - [翻译: LLM2Swarm：借助 LLM 实现智能推理、协同规划与合作的机器人集群](2024年10月15日/LLM2Swarm_Robot_Swarms_that_Responsively_Reason,_Plan,_and_Collaborate_through_LLMs.md)
-
 - [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](2024年10月15日/LLM-Mixer_Multiscale_Mixing_in_LLMs_for_Time_Series_Forecasting.md)
 
     - [翻译: LLM-Mixer：在 LLM 中实现时间序列预测的多尺度混合技术](2024年10月15日/LLM-Mixer_Multiscale_Mixing_in_LLMs_for_Time_Series_Forecasting.md)
@@ -1127,10 +1119,6 @@
 - [SensorBench: Benchmarking LLMs in Coding-Based Sensor Processing](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
 
     - [翻译: SensorBench：为基于编码的传感器处理中的 LLM 提供基准测试](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
-
-- [SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition](2024年10月14日/SensorLLM_Aligning_Large_Language_Models_with_Motion_Sensors_for_Human_Activity_Recognition.md)
-
-    - [翻译: SensorLLM：融合大型语言模型与运动传感器，助力人类活动识别](2024年10月14日/SensorLLM_Aligning_Large_Language_Models_with_Motion_Sensors_for_Human_Activity_Recognition.md)
 
 - [Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models](2024年10月14日/Simplifying,_Stabilizing_and_Scaling_Continuous-Time_Consistency_Models.md)
 
