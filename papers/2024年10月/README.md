@@ -130,10 +130,6 @@
 
     - [翻译: LabSafety Bench：科学实验室安全问题上的 LLM 基准测试](2024年10月18日/LabSafety_Bench_Benchmarking_LLMs_on_Safety_Issues_in_Scientific_Labs.md)
 
-- [Large Language Models Are Overparameterized Text Encoders](2024年10月18日/Large_Language_Models_Are_Overparameterized_Text_Encoders.md)
-
-    - [翻译: 大型语言模型实际上是过度参数化的文本编码器。](2024年10月18日/Large_Language_Models_Are_Overparameterized_Text_Encoders.md)
-
 - [LoGU: Long-form Generation with Uncertainty Expressions](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
 
     - [翻译: LoGU：长篇生成中的不确定性表达](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
@@ -209,10 +205,6 @@
 - [SylloBio-NLI: Evaluating Large Language Models on Biomedical Syllogistic Reasoning](2024年10月18日/SylloBio-NLI_Evaluating_Large_Language_Models_on_Biomedical_Syllogistic_Reasoning.md)
 
     - [翻译: SylloBio-NLI：探索大型语言模型在生物医学三段论推理中的表现](2024年10月18日/SylloBio-NLI_Evaluating_Large_Language_Models_on_Biomedical_Syllogistic_Reasoning.md)
-
-- [Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation](2024年10月18日/Synthesizing_Post-Training_Data_for_LLMs_through_Multi-Agent_Simulation.md)
-
-    - [翻译: 利用多智能体模拟技术，为大型语言模型生成训练后的数据。](2024年10月18日/Synthesizing_Post-Training_Data_for_LLMs_through_Multi-Agent_Simulation.md)
 
 - [Teaching Models to Balance Resisting and Accepting Persuasion](2024年10月18日/Teaching_Models_to_Balance_Resisting_and_Accepting_Persuasion.md)
 
@@ -785,10 +777,6 @@
 - [Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception](2024年10月16日/Meta-Chunking_Learning_Efficient_Text_Segmentation_via_Logical_Perception.md)
 
     - [翻译: 元块化：借助逻辑感知实现高效文本分割的学习方法](2024年10月16日/Meta-Chunking_Learning_Efficient_Text_Segmentation_via_Logical_Perception.md)
-
-- [MlingConf: A Comprehensive Study of Multilingual Confidence Estimation on Large Language Models](2024年10月16日/MlingConf_A_Comprehensive_Study_of_Multilingual_Confidence_Estimation_on_Large_Language_Models.md)
-
-    - [翻译: MlingConf：大型语言模型多语言置信度估计的全面探索](2024年10月16日/MlingConf_A_Comprehensive_Study_of_Multilingual_Confidence_Estimation_on_Large_Language_Models.md)
 
 - [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
 
