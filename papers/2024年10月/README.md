@@ -372,10 +372,6 @@
 
     - [翻译: 向前失败：利用合成数据和检索增强技术提升 ASR 的生成错误校正能力](2024年10月17日/Failing_Forward_Improving_Generative_Error_Correction_for_ASR_with_Synthetic_Data_and_Retrieval_Augmentation.md)
 
-- [FaithBench: A Diverse Hallucination Benchmark for Summarization by Modern LLMs](2024年10月17日/FaithBench_A_Diverse_Hallucination_Benchmark_for_Summarization_by_Modern_LLMs.md)
-
-    - [翻译: FaithBench：一个专为现代 LLM 设计的多样化幻觉基准，用于评估其摘要能力。](2024年10月17日/FaithBench_A_Diverse_Hallucination_Benchmark_for_Summarization_by_Modern_LLMs.md)
-
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
@@ -817,10 +813,6 @@
 - [ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs](2024年10月16日/ProSA_Assessing_and_Understanding_the_Prompt_Sensitivity_of_LLMs.md)
 
     - [翻译: ProSA：探索与评估 LLM 对提示的敏感性](2024年10月16日/ProSA_Assessing_and_Understanding_the_Prompt_Sensitivity_of_LLMs.md)
-
-- [Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs](2024年10月16日/Pyramid-Driven_Alignment_Pyramid_Principle_Guided_Integration_of_Large_Language_Models_and_Knowledge_Graphs.md)
-
-    - [翻译: 金字塔驱动对齐：以金字塔原则为指导，整合大型语言模型与知识图谱](2024年10月16日/Pyramid-Driven_Alignment_Pyramid_Principle_Guided_Integration_of_Large_Language_Models_and_Knowledge_Graphs.md)
 
 - [Reconstruction of Differentially Private Text Sanitization via Large Language Models](2024年10月16日/Reconstruction_of_Differentially_Private_Text_Sanitization_via_Large_Language_Models.md)
 
@@ -1493,10 +1485,6 @@
     - [翻译: Text4Seg：重塑图像分割为文本生成](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
 2024年10月12日
-
-- [Agentic Information Retrieval](2024年10月12日/Agentic_Information_Retrieval.md)
-
-    - [翻译: 主动信息检索](2024年10月12日/Agentic_Information_Retrieval.md)
 
 - [Boosting Deductive Reasoning with Step Signals In RLHF](2024年10月12日/Boosting_Deductive_Reasoning_with_Step_Signals_In_RLHF.md)
 
