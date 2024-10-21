@@ -1674,6 +1674,12 @@
 
     - [翻译: 选择性注意力让 Transformer 更上一层楼](2024年10月03日/Selective_Attention_Improves_Transformer.md)
 
+2024年10月02日
+
+- [Generative Reward Models](2024年10月02日/Generative_Reward_Models.md)
+
+    - [翻译: 生成式奖励模型](2024年10月02日/Generative_Reward_Models.md)
+
 2024年10月01日
 
 - [Classifying Peace in Global Media Using RAG and Intergroup Reciprocity](2024年10月01日/Classifying_Peace_in_Global_Media_Using_RAG_and_Intergroup_Reciprocity.md)
