@@ -1366,10 +1366,6 @@
 
     - [翻译: 从文字到车轮：基于视觉的自动驾驶系统，利用基础模型理解人类语言指令](2024年10月14日/Words_to_Wheels_Vision-Based_Autonomous_Driving_Understanding_Human_Language_Instructions_Using_Foundation_Models.md)
 
-- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](2024年10月14日/Your_Mixture-of-Experts_LLM_Is_Secretly_an_Embedding_Model_For_Free.md)
-
-    - [翻译: 你的专家混合型大型语言模型，其实是个免费的嵌入模型哦！](2024年10月14日/Your_Mixture-of-Experts_LLM_Is_Secretly_an_Embedding_Model_For_Free.md)
-
 - [Yuan: Research on the Concept of Digital World Analogue Scientific Infrastructure and Science Popularization Communication Based on Suzhou Gardens Pattern](2024年10月14日/Yuan_Research_on_the_Concept_of_Digital_World_Analogue_Scientific_Infrastructure_and_Science_Popularization_Communication_Based_on_Suzhou_Gardens_Pattern.md)
 
     - [翻译: 探索苏州园林模式下的数字世界模拟科学基础设施与科普传播新概念](2024年10月14日/Yuan_Research_on_the_Concept_of_Digital_World_Analogue_Scientific_Infrastructure_and_Science_Popularization_Communication_Based_on_Suzhou_Gardens_Pattern.md)
