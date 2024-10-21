@@ -342,10 +342,6 @@
 
     - [翻译: SeerAttention：让 LLMs 学会内在的稀疏注意力](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
 
-- [SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction](2024年10月17日/SimLayerKV_A_Simple_Framework_for_Layer-Level_KV_Cache_Reduction.md)
-
-    - [翻译: SimLayerKV：简化层级 KV 缓存减少的简易框架](2024年10月17日/SimLayerKV_A_Simple_Framework_for_Layer-Level_KV_Cache_Reduction.md)
-
 - [SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs](2024年10月17日/SimpleToM_Exposing_the_Gap_between_Explicit_ToM_Inference_and_Implicit_ToM_Application_in_LLMs.md)
 
     - [翻译: SimpleToM：揭示了 LLM 中显式 ToM 推理与隐式 ToM 应用之间的差异](2024年10月17日/SimpleToM_Exposing_the_Gap_between_Explicit_ToM_Inference_and_Implicit_ToM_Application_in_LLMs.md)
@@ -463,10 +459,6 @@
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
-
-- [FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression](2024年10月16日/FusionLLM_A_Decentralized_LLM_Training_System_on_Geo-distributed_GPUs_with_Adaptive_Compression.md)
-
-    - [翻译: FusionLLM：一款基于地理分布 GPU 的自适应压缩分散式 LLM 训练系统](2024年10月16日/FusionLLM_A_Decentralized_LLM_Training_System_on_Geo-distributed_GPUs_with_Adaptive_Compression.md)
 
 - [HerO at AVeriTeC: The Herd of Open Large Language Models for Verifying Real-World Claims](2024年10月16日/HerO_at_AVeriTeC_The_Herd_of_Open_Large_Language_Models_for_Verifying_Real-World_Claims.md)
 
