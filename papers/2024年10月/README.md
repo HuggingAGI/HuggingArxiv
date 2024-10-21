@@ -682,10 +682,6 @@
 
     - [翻译: CoFE-RAG：一个全面的全链路评估框架，专为提升数据多样性的检索增强生成而设计。](2024年10月16日/CoFE-RAG_A_Comprehensive_Full-chain_Evaluation_Framework_for_Retrieval-Augmented_Generation_with_Enhanced_Data_Diversity.md)
 
-- [Conformity in Large Language Models](2024年10月16日/Conformity_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的从众现象](2024年10月16日/Conformity_in_Large_Language_Models.md)
-
 - [CREAM: Consistency Regularized Self-Rewarding Language Models](2024年10月16日/CREAM_Consistency_Regularized_Self-Rewarding_Language_Models.md)
 
     - [翻译: CREAM：一致性正则化自我奖励语言模型](2024年10月16日/CREAM_Consistency_Regularized_Self-Rewarding_Language_Models.md)
@@ -955,10 +951,6 @@
 - [Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
 
     - [翻译: 增强驱动度量：平衡文本引导图像编辑中的保留与修改](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
-
-- [Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](2024年10月15日/Beyond_Linear_Approximations_A_Novel_Pruning_Approach_for_Attention_Matrix.md)
-
-    - [翻译: 突破线性限制：探索注意力矩阵的新剪枝策略](2024年10月15日/Beyond_Linear_Approximations_A_Novel_Pruning_Approach_for_Attention_Matrix.md)
 
 - [Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent](2024年10月15日/Bypassing_the_Exponential_Dependency_Looped_Transformers_Efficiently_Learn_In-context_by_Multi-step_Gradient_Descent.md)
 
