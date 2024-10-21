@@ -276,6 +276,10 @@
 
     - [翻译: 揭秘隐藏社交机器人的遗传相似性方案](2024年10月17日/A_Proposal_for_Uncovering_Hidden_Social_Bots_via_Genetic_Similarity.md)
 
+- [Artificial Kuramoto Oscillatory Neurons](2024年10月17日/Artificial_Kuramoto_Oscillatory_Neurons.md)
+
+    - [翻译: 人工 Kuramoto 振荡神经元](2024年10月17日/Artificial_Kuramoto_Oscillatory_Neurons.md)
+
 - [AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
@@ -713,6 +717,10 @@
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
+
+- [Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
+
+    - [翻译: 几何感知生成自动编码器，专为扭曲黎曼度量学习和数据流形上的生成建模而设计](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
 
 - [Hiding-in-Plain-Sight (HiPS) Attack on CLIP for Targetted Object Removal from Images](2024年10月16日/Hiding-in-Plain-Sight_(HiPS)_Attack_on_CLIP_for_Targetted_Object_Removal_from_Images.md)
 
@@ -1626,6 +1634,12 @@
 
     - [翻译: ToolBridge：一款开源数据集，旨在赋予大型语言模型（LLM）使用外部工具的能力。](2024年10月08日/ToolBridge_An_Open-Source_Dataset_to_Equip_LLMs_with_External_Tool_Capabilities.md)
 
+2024年10月07日
+
+- [Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data](2024年10月07日/Learning_Interpretable_Hierarchical_Dynamical_Systems_Models_from_Time_Series_Data.md)
+
+    - [翻译: 从时间序列数据中构建可解释的分层动态模型](2024年10月07日/Learning_Interpretable_Hierarchical_Dynamical_Systems_Models_from_Time_Series_Data.md)
+
 2024年10月06日
 
 - [CogDevelop2K: Reversed Cognitive Development in Multimodal Large Language Models](2024年10月06日/CogDevelop2K_Reversed_Cognitive_Development_in_Multimodal_Large_Language_Models.md)
@@ -1655,6 +1669,10 @@
 - [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](2024年10月03日/A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_(RAG)_Evolution,_Current_Landscape_and_Future_Directions.md)
 
     - [翻译: 全面探索检索增强生成 (RAG)：从演变到现状，再到未来展望](2024年10月03日/A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_(RAG)_Evolution,_Current_Landscape_and_Future_Directions.md)
+
+- [Selective Attention Improves Transformer](2024年10月03日/Selective_Attention_Improves_Transformer.md)
+
+    - [翻译: 选择性注意力让 Transformer 更上一层楼](2024年10月03日/Selective_Attention_Improves_Transformer.md)
 
 2024年10月01日
 

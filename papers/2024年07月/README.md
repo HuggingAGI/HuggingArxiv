@@ -6,6 +6,12 @@
 
     - [翻译: 扩散模型：数据挖掘的新利器](2024年07月20日/Diffusion_Models_as_Data_Mining_Tools.md)
 
+2024年07月17日
+
+- [Low latency carbon budget analysis reveals a large decline of the land carbon sink in 2023](2024年07月17日/Low_latency_carbon_budget_analysis_reveals_a_large_decline_of_the_land_carbon_sink_in_2023.md)
+
+    - [翻译: 快速碳预算分析显示，2023年陆地碳汇显著减少。](2024年07月17日/Low_latency_carbon_budget_analysis_reveals_a_large_decline_of_the_land_carbon_sink_in_2023.md)
+
 2024年07月16日
 
 - [Does Refusal Training in LLMs Generalize to the Past Tense?](2024年07月16日/Does_Refusal_Training_in_LLMs_Generalize_to_the_Past_Tense.md)
