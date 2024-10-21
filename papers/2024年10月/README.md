@@ -866,10 +866,6 @@
 
     - [翻译: StyleDistance：通过合成并行示例，实现更强大的内容无关风格嵌入](2024年10月16日/StyleDistance_Stronger_Content-Independent_Style_Embeddings_with_Synthetic_Parallel_Examples.md)
 
-- [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](2024年10月16日/The_Curse_of_Multi-Modalities_Evaluating_Hallucinations_of_Large_Multimodal_Models_across_Language,_Visual,_and_Audio.md)
-
-    - [翻译: 多模态之咒：探究大型多模态模型在语言、视觉和音频领域的幻觉现象](2024年10月16日/The_Curse_of_Multi-Modalities_Evaluating_Hallucinations_of_Large_Multimodal_Models_across_Language,_Visual,_and_Audio.md)
-
 - [The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear Subspaces](2024年10月16日/The_Geometry_of_Numerical_Reasoning_Language_Models_Compare_Numeric_Properties_in_Linear_Subspaces.md)
 
     - [翻译: 语言模型如何在线性子空间中比较数值属性，揭示了数值推理的几何学奥秘。](2024年10月16日/The_Geometry_of_Numerical_Reasoning_Language_Models_Compare_Numeric_Properties_in_Linear_Subspaces.md)
@@ -1055,10 +1051,6 @@
 - [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
 
     - [翻译: MLLM 能“看”吗？动态校正解码助力幻觉缓解](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
-
-- [MoChat: Joints-Grouped Spatio-Temporal Grounding LLM for Multi-Turn Motion Comprehension and Description](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
-
-    - [翻译: MoChat：一款专为多轮运动理解和描述设计的联合分组时空定位大型语言模型](2024年10月15日/MoChat_Joints-Grouped_Spatio-Temporal_Grounding_LLM_for_Multi-Turn_Motion_Comprehension_and_Description.md)
 
 - [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
 
@@ -1392,10 +1384,6 @@
 
 2024年10月13日
 
-- [Adaptive Reasoning and Acting in Medical Language Agents](2024年10月13日/Adaptive_Reasoning_and_Acting_in_Medical_Language_Agents.md)
-
-    - [翻译: 医疗语言代理中的适应性推理与行动](2024年10月13日/Adaptive_Reasoning_and_Acting_in_Medical_Language_Agents.md)
-
 - [Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
 
     - [翻译: 大型语言模型能否超越图表，理解超图的奥秘？](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
@@ -1493,10 +1481,6 @@
 - [FlatQuant: Flatness Matters for LLM Quantization](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
     - [翻译: FlatQuant：平坦性在 LLM 量化中举足轻重](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
-
-- [Honest AI: Fine-Tuning "Small" Language Models to Say "I Don't Know", and Reducing Hallucination in RAG](2024年10月12日/Honest_AI_Fine-Tuning_Small_Language_Models_to_Say_I_Don't_Know,_and_Reducing_Hallucination_in_RAG.md)
-
-    - [翻译: 让AI更诚实：通过微调小型语言模型，使其能说“我不知道”，并减少RAG中的幻觉现象。](2024年10月12日/Honest_AI_Fine-Tuning_Small_Language_Models_to_Say_I_Don't_Know,_and_Reducing_Hallucination_in_RAG.md)
 
 - [LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
 
@@ -1647,10 +1631,6 @@
 - [Pixtral 12B](2024年10月09日/Pixtral_12B.md)
 
     - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
-
-- [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](2024年10月09日/Representation_Alignment_for_Generation_Training_Diffusion_Transformers_Is_Easier_Than_You_Think.md)
-
-    - [翻译: 生成任务中的表示对齐：训练扩散变换器其实比你想象的更简单](2024年10月09日/Representation_Alignment_for_Generation_Training_Diffusion_Transformers_Is_Easier_Than_You_Think.md)
 
 - [WorkflowHub: a registry for computational workflows](2024年10月09日/WorkflowHub_a_registry_for_computational_workflows.md)
 
