@@ -488,10 +488,6 @@
 
     - [翻译: Malleus：通过灵活的数据和模型并行化，实现大规模模型的抗滞后混合并行训练](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
 
-- [MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs](2024年10月17日/MathGAP_Out-of-Distribution_Evaluation_on_Problems_with_Arbitrarily_Complex_Proofs.md)
-
-    - [翻译: MathGAP：针对任意复杂证明问题的分布外评估](2024年10月17日/MathGAP_Out-of-Distribution_Evaluation_on_Problems_with_Arbitrarily_Complex_Proofs.md)
-
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
 
     - [翻译: MedAide：借助基于 LLM 的专门化多代理协作，迈向全方位医疗助手](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
@@ -1444,10 +1440,6 @@
 
     - [翻译: 医疗语言代理中的适应性推理与行动](2024年10月13日/Adaptive_Reasoning_and_Acting_in_Medical_Language_Agents.md)
 
-- [A Multi-LLM Orchestration Engine for Personalized, Context-Rich Assistance](2024年10月13日/A_Multi-LLM_Orchestration_Engine_for_Personalized,_Context-Rich_Assistance.md)
-
-    - [翻译: 个性化、上下文感知辅助的多大型语言模型编排引擎](2024年10月13日/A_Multi-LLM_Orchestration_Engine_for_Personalized,_Context-Rich_Assistance.md)
-
 - [Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
 
     - [翻译: 大型语言模型能否超越图表，理解超图的奥秘？](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
@@ -1717,10 +1709,6 @@
     - [翻译: WorkflowHub：计算工作流的注册中心](2024年10月09日/WorkflowHub_a_registry_for_computational_workflows.md)
 
 2024年10月08日
-
-- [Application of NotebookLM, a Large Language Model with Retrieval-Augmented Generation, for Lung Cancer Staging](2024年10月08日/Application_of_NotebookLM,_a_Large_Language_Model_with_Retrieval-Augmented_Generation,_for_Lung_Cancer_Staging.md)
-
-    - [翻译: NotebookLM，一款结合检索增强生成技术的大型语言模型，正被用于肺癌分期研究。](2024年10月08日/Application_of_NotebookLM,_a_Large_Language_Model_with_Retrieval-Augmented_Generation,_for_Lung_Cancer_Staging.md)
 
 - [ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities](2024年10月08日/ToolBridge_An_Open-Source_Dataset_to_Equip_LLMs_with_External_Tool_Capabilities.md)
 
