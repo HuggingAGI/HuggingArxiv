@@ -420,10 +420,6 @@
 
     - [翻译: 我们真的需要一个 LLM+VQA 系统来识别视觉概念吗？](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
 
-- [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](2024年10月17日/How_Numerical_Precision_Affects_Mathematical_Reasoning_Capabilities_of_LLMs.md)
-
-    - [翻译: 数值精度对 LLMs 数学推理能力的影响](2024年10月17日/How_Numerical_Precision_Affects_Mathematical_Reasoning_Capabilities_of_LLMs.md)
-
 - [Improving Multi-modal Large Language Model through Boosting Vision Capabilities](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
 
     - [翻译: 通过增强视觉能力，我们致力于提升多模态大型语言模型的性能。](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
@@ -906,10 +902,6 @@
 
     - [翻译: StyleDistance：通过合成并行示例，实现更强大的内容无关风格嵌入](2024年10月16日/StyleDistance_Stronger_Content-Independent_Style_Embeddings_with_Synthetic_Parallel_Examples.md)
 
-- [The Best of Both Worlds: Bridging Quality and Diversity in Data Selection with Bipartite Graph](2024年10月16日/The_Best_of_Both_Worlds_Bridging_Quality_and_Diversity_in_Data_Selection_with_Bipartite_Graph.md)
-
-    - [翻译: 双赢之道：利用二分图在数据选择中兼顾质量和多样性](2024年10月16日/The_Best_of_Both_Worlds_Bridging_Quality_and_Diversity_in_Data_Selection_with_Bipartite_Graph.md)
-
 - [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](2024年10月16日/The_Curse_of_Multi-Modalities_Evaluating_Hallucinations_of_Large_Multimodal_Models_across_Language,_Visual,_and_Audio.md)
 
     - [翻译: 多模态之咒：探究大型多模态模型在语言、视觉和音频领域的幻觉现象](2024年10月16日/The_Curse_of_Multi-Modalities_Evaluating_Hallucinations_of_Large_Multimodal_Models_across_Language,_Visual,_and_Audio.md)
@@ -1163,10 +1155,6 @@
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
 
     - [翻译: 自适应多模态检索增强生成技术](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
-
-- [Sequential LLM Framework for Fashion Recommendation](2024年10月15日/Sequential_LLM_Framework_for_Fashion_Recommendation.md)
-
-    - [翻译: 时尚推荐中的顺序 LLM 框架](2024年10月15日/Sequential_LLM_Framework_for_Fashion_Recommendation.md)
 
 - [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
 
