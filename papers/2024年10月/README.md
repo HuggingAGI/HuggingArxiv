@@ -532,10 +532,6 @@
 
     - [翻译: LLM 面临持续的预训练中毒威胁](2024年10月17日/Persistent_Pre-Training_Poisoning_of_LLMs.md)
 
-- [Probing-RAG: Self-Probing to Guide Language Models in Selective Document Retrieval](2024年10月17日/Probing-RAG_Self-Probing_to_Guide_Language_Models_in_Selective_Document_Retrieval.md)
-
-    - [翻译: Probing-RAG：通过自我探测引导语言模型进行精准文档检索](2024年10月17日/Probing-RAG_Self-Probing_to_Guide_Language_Models_in_Selective_Document_Retrieval.md)
-
 - [Proof Flow: Preliminary Study on Generative Flow Network Language Model Tuning for Formal Reasoning](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
 
     - [翻译: 证明流：形式推理中生成流网络语言模型调优的初步探索](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
@@ -1150,10 +1146,6 @@
 
     - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
-- [Augmenting In-Context-Learning in LLMs via Automatic Data Labeling and Refinement](2024年10月14日/Augmenting_In-Context-Learning_in_LLMs_via_Automatic_Data_Labeling_and_Refinement.md)
-
-    - [翻译: 借助自动数据标注与优化，提升 LLM 中的 In-Context-Learning 效果](2024年10月14日/Augmenting_In-Context-Learning_in_LLMs_via_Automatic_Data_Labeling_and_Refinement.md)
-
 - [A Unified Approach to Routing and Cascading for LLMs](2024年10月14日/A_Unified_Approach_to_Routing_and_Cascading_for_LLMs.md)
 
     - [翻译: LLM 中的路由与级联统一方法](2024年10月14日/A_Unified_Approach_to_Routing_and_Cascading_for_LLMs.md)
@@ -1505,10 +1497,6 @@
 - [Reconstructive Visual Instruction Tuning](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
     - [翻译: 视觉指令的重构调整](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
-
-- [Skipping Computations in Multimodal LLMs](2024年10月12日/Skipping_Computations_in_Multimodal_LLMs.md)
-
-    - [翻译: 多模态 LLM 中的计算跳跃](2024年10月12日/Skipping_Computations_in_Multimodal_LLMs.md)
 
 - [SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs](2024年10月12日/SLiM_One-shot_Quantized_Sparse_Plus_Low-rank_Approximation_of_LLMs.md)
 
