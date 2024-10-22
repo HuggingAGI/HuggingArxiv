@@ -1,5 +1,51 @@
 # 2024年10月
 
+2024年10月20日
+
+- [A Survey of Hallucination in Large Visual Language Models](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
+
+    - [翻译: 大型视觉语言模型中的幻觉现象调查](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
+
+- [A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
+
+    - [翻译: LLMs 不确定性估计综述：理论与实践的交汇](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
+
+- [Attention Is All You Need for LLM-based Code Vulnerability Localization](2024年10月20日/Attention_Is_All_You_Need_for_LLM-based_Code_Vulnerability_Localization.md)
+
+    - [翻译: 在基于大型语言模型的代码漏洞定位中，注意力机制是关键。](2024年10月20日/Attention_Is_All_You_Need_for_LLM-based_Code_Vulnerability_Localization.md)
+
+- [BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Compression](2024年10月20日/BRIEF_Bridging_Retrieval_and_Inference_for_Multi-hop_Reasoning_via_Compression.md)
+
+    - [翻译: BRIEF：通过压缩技术，巧妙连接检索与推理，助力多跳推理。](2024年10月20日/BRIEF_Bridging_Retrieval_and_Inference_for_Multi-hop_Reasoning_via_Compression.md)
+
+- [Causality for Large Language Models](2024年10月20日/Causality_for_Large_Language_Models.md)
+
+    - [翻译: 探索大型语言模型中的因果关系](2024年10月20日/Causality_for_Large_Language_Models.md)
+
+- [Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
+
+    - [翻译: Ichigo：一款结合多种模态、早期融合技术的实时语音助手](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
+
+- [Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
+
+    - [翻译: 自动驾驶中的大型语言模型 (LLM4AD)：探索其概念、基准测试、仿真及实车实验](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
+
+- [LlamaLens: Specialized Multilingual LLM for Analyzing News and Social Media Content](2024年10月20日/LlamaLens_Specialized_Multilingual_LLM_for_Analyzing_News_and_Social_Media_Content.md)
+
+    - [翻译: LlamaLens：一款专为分析新闻与社交媒体内容而设计的多语言大型语言模型](2024年10月20日/LlamaLens_Specialized_Multilingual_LLM_for_Analyzing_News_and_Social_Media_Content.md)
+
+- [MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](2024年10月20日/MAD_Move_AI_Decompiler_to_Improve_Transparency_and_Auditability_on_Non-Open-Source_Blockchain_Smart_Contract.md)
+
+    - [翻译: MAD：通过将 AI 反编译器引入非开源区块链智能合约，提升透明度和审计能力](2024年10月20日/MAD_Move_AI_Decompiler_to_Improve_Transparency_and_Auditability_on_Non-Open-Source_Blockchain_Smart_Contract.md)
+
+- [Neural Normalized Compression Distance and the Disconnect Between Compression and Classification](2024年10月20日/Neural_Normalized_Compression_Distance_and_the_Disconnect_Between_Compression_and_Classification.md)
+
+    - [翻译: 神经归一化压缩距离揭示了压缩与分类之间的鸿沟](2024年10月20日/Neural_Normalized_Compression_Distance_and_the_Disconnect_Between_Compression_and_Classification.md)
+
+- [YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary](2024年10月20日/YOLO-RD_Introducing_Relevant_and_Compact_Explicit_Knowledge_to_YOLO_by_Retriever-Dictionary.md)
+
+    - [翻译: YOLO-RD：利用检索器-字典技术，为 YOLO 注入相关且精炼的显式知识。](2024年10月20日/YOLO-RD_Introducing_Relevant_and_Compact_Explicit_Knowledge_to_YOLO_by_Retriever-Dictionary.md)
+
 2024年10月18日
 
 - [Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents](2024年10月18日/Agents4PLC_Automating_Closed-loop_PLC_Code_Generation_and_Verification_in_Industrial_Control_Systems_using_LLM-based_Agents.md)
@@ -65,10 +111,6 @@
 - [Do LLMs estimate uncertainty well in instruction-following?](2024年10月18日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
 
     - [翻译: 大型语言模型在遵循指令时，能否准确评估不确定性？](2024年10月18日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
-
-- [Do LLMs "know" internally when they follow instructions?](2024年10月18日/Do_LLMs_know_internally_when_they_follow_instructions.md)
-
-    - [翻译: 大型语言模型是否“内知”何时遵循指令？](2024年10月18日/Do_LLMs_know_internally_when_they_follow_instructions.md)
 
 - [E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
@@ -364,10 +406,6 @@
 
     - [翻译: 协作AI助力情感分析：架构设计、预测模型与部署策略](2024年10月17日/Enhancing_Sentiment_Analysis_with_Collaborative_AI_Architecture,_Predictions,_and_Deployment_Strategies.md)
 
-- [Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](2024年10月17日/Failing_Forward_Improving_Generative_Error_Correction_for_ASR_with_Synthetic_Data_and_Retrieval_Augmentation.md)
-
-    - [翻译: 向前失败：利用合成数据和检索增强技术提升 ASR 的生成错误校正能力](2024年10月17日/Failing_Forward_Improving_Generative_Error_Correction_for_ASR_with_Synthetic_Data_and_Retrieval_Augmentation.md)
-
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
@@ -455,10 +493,6 @@
 - [LLM-based Unit Test Generation via Property Retrieval](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
     - [翻译: 基于 LLM 的单元测试生成：属性检索法](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
-
-- [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](2024年10月17日/LLMOPT_Learning_to_Define_and_Solve_General_Optimization_Problems_from_Scratch.md)
-
-    - [翻译: LLMOPT：从零开始，学会定义并解决通用优化问题](2024年10月17日/LLMOPT_Learning_to_Define_and_Solve_General_Optimization_Problems_from_Scratch.md)
 
 - [LLM-Rank: A Graph Theoretical Approach to Pruning Large Language Models](2024年10月17日/LLM-Rank_A_Graph_Theoretical_Approach_to_Pruning_Large_Language_Models.md)
 
@@ -866,10 +900,6 @@
 
     - [翻译: 探究 LLM 在多模态评估中的作用](2024年10月16日/Understanding_the_Role_of_LLMs_in_Multimodal_Evaluation_Benchmarks.md)
 
-- [UTF:Undertrained Tokens as Fingerprints A Novel Approach to LLM Identification](2024年10月16日/UTFUndertrained_Tokens_as_Fingerprints_A_Novel_Approach_to_LLM_Identification.md)
-
-    - [翻译: UTF: 利用未充分训练的 Token 作为指纹，开创了一种识别 LLM 的新途径。](2024年10月16日/UTFUndertrained_Tokens_as_Fingerprints_A_Novel_Approach_to_LLM_Identification.md)
-
 - [VividMed: Vision Language Model with Versatile Visual Grounding for Medicine](2024年10月16日/VividMed_Vision_Language_Model_with_Versatile_Visual_Grounding_for_Medicine.md)
 
     - [翻译: VividMed：一款专为医学领域设计的多功能视觉语言模型，具备强大的视觉基础能力。](2024年10月16日/VividMed_Vision_Language_Model_with_Versatile_Visual_Grounding_for_Medicine.md)
@@ -891,10 +921,6 @@
 - [Advanced Persistent Threats (APT) Attribution Using Deep Reinforcement Learning](2024年10月15日/Advanced_Persistent_Threats_(APT)_Attribution_Using_Deep_Reinforcement_Learning.md)
 
     - [翻译: 利用深度强化学习技术，精准归因高级持续威胁（APT）](2024年10月15日/Advanced_Persistent_Threats_(APT)_Attribution_Using_Deep_Reinforcement_Learning.md)
-
-- [A Hitchhiker's Guide to Scaling Law Estimation](2024年10月15日/A_Hitchhiker's_Guide_to_Scaling_Law_Estimation.md)
-
-    - [翻译: 《缩放法则估计的搭便车指南》](2024年10月15日/A_Hitchhiker's_Guide_to_Scaling_Law_Estimation.md)
 
 - [AIC CTU system at AVeriTeC: Re-framing automated fact-checking as a simple RAG task](2024年10月15日/AIC_CTU_system_at_AVeriTeC_Re-framing_automated_fact-checking_as_a_simple_RAG_task.md)
 
@@ -1383,10 +1409,6 @@
 - [Dynamic and Textual Graph Generation Via Large-Scale LLM-based Agent Simulation](2024年10月13日/Dynamic_and_Textual_Graph_Generation_Via_Large-Scale_LLM-based_Agent_Simulation.md)
 
     - [翻译: 通过大规模 LLM 代理模拟实现动态与文本图生成](2024年10月13日/Dynamic_and_Textual_Graph_Generation_Via_Large-Scale_LLM-based_Agent_Simulation.md)
-
-- [ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos](2024年10月13日/ECIS-VQG_Generation_of_Entity-centric_Information-seeking_Questions_from_Videos.md)
-
-    - [翻译: ECIS-VQG：视频中实体导向的信息探索问题生成](2024年10月13日/ECIS-VQG_Generation_of_Entity-centric_Information-seeking_Questions_from_Videos.md)
 
 - [Empowering Dysarthric Speech: Leveraging Advanced LLMs for Accurate Speech Correction and Multimodal Emotion Analysis](2024年10月13日/Empowering_Dysarthric_Speech_Leveraging_Advanced_LLMs_for_Accurate_Speech_Correction_and_Multimodal_Emotion_Analysis.md)
 
