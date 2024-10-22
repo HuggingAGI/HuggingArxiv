@@ -774,10 +774,6 @@
 
     - [翻译: 并非所有投票都有效！通过程序验证，语言模型在数学推理中的自我一致性得以提升。](2024年10月16日/Not_All_Votes_Count!_Programs_as_Verifiers_Improve_Self-Consistency_of_Language_Models_for_Math_Reasoning.md)
 
-- [On the Risk of Evidence Pollution for Malicious Social Text Detection in the Era of LLMs](2024年10月16日/On_the_Risk_of_Evidence_Pollution_for_Malicious_Social_Text_Detection_in_the_Era_of_LLMs.md)
-
-    - [翻译: 在 LLM 时代，恶意社交文本检测面临证据污染的风险。](2024年10月16日/On_the_Risk_of_Evidence_Pollution_for_Malicious_Social_Text_Detection_in_the_Era_of_LLMs.md)
-
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
     - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
@@ -797,10 +793,6 @@
 - [Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance](2024年10月16日/Proactive_Agent_Shifting_LLM_Agents_from_Reactive_Responses_to_Active_Assistance.md)
 
     - [翻译: 主动代理：让 LLM 代理从被动响应转变为主动协助](2024年10月16日/Proactive_Agent_Shifting_LLM_Agents_from_Reactive_Responses_to_Active_Assistance.md)
-
-- [ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs](2024年10月16日/ProSA_Assessing_and_Understanding_the_Prompt_Sensitivity_of_LLMs.md)
-
-    - [翻译: ProSA：探索与评估 LLM 对提示的敏感性](2024年10月16日/ProSA_Assessing_and_Understanding_the_Prompt_Sensitivity_of_LLMs.md)
 
 - [Reconstruction of Differentially Private Text Sanitization via Large Language Models](2024年10月16日/Reconstruction_of_Differentially_Private_Text_Sanitization_via_Large_Language_Models.md)
 
