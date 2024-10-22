@@ -962,10 +962,6 @@
 
     - [翻译: 医学视觉-语言预训练，能否仅凭纯合成数据大获成功？](2024年10月17日/Can_Medical_Vision-Language_Pre-training_Succeed_with_Purely_Synthetic_Data.md)
 
-- [CAPE: A Chinese Dataset for Appraisal-based Emotional Generation using Large Language Models](2024年10月17日/CAPE_A_Chinese_Dataset_for_Appraisal-based_Emotional_Generation_using_Large_Language_Models.md)
-
-    - [翻译: CAPE：一个利用大型语言模型进行基于评价的情感生成的中文数据集](2024年10月17日/CAPE_A_Chinese_Dataset_for_Appraisal-based_Emotional_Generation_using_Large_Language_Models.md)
-
 - [CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
 
     - [翻译: CBT-Bench：衡量大型语言模型在辅助认知行为疗法中的效能](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
@@ -1585,10 +1581,6 @@
 - [Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data](2024年10月15日/Holistic_Reasoning_with_Long-Context_LMs_A_Benchmark_for_Database_Operations_on_Massive_Textual_Data.md)
 
     - [翻译: 长上下文语言模型的整体推理：大规模文本数据数据库操作的基准测试](2024年10月15日/Holistic_Reasoning_with_Long-Context_LMs_A_Benchmark_for_Database_Operations_on_Massive_Textual_Data.md)
-
-- [Human-LLM Collaborative Construction of a Cantonese Emotion Lexicon](2024年10月15日/Human-LLM_Collaborative_Construction_of_a_Cantonese_Emotion_Lexicon.md)
-
-    - [翻译: 人机协作，共筑粤语情感词库](2024年10月15日/Human-LLM_Collaborative_Construction_of_a_Cantonese_Emotion_Lexicon.md)
 
 - [Implementing Derivations of Definite Logic Programs with Self-Attention Networks](2024年10月15日/Implementing_Derivations_of_Definite_Logic_Programs_with_Self-Attention_Networks.md)
 
@@ -2243,12 +2235,6 @@
 - [Selective Attention Improves Transformer](2024年10月03日/Selective_Attention_Improves_Transformer.md)
 
     - [翻译: 选择性注意力让 Transformer 更上一层楼](2024年10月03日/Selective_Attention_Improves_Transformer.md)
-
-2024年10月02日
-
-- [Generative Reward Models](2024年10月02日/Generative_Reward_Models.md)
-
-    - [翻译: 生成式奖励模型](2024年10月02日/Generative_Reward_Models.md)
 
 2024年10月01日
 
