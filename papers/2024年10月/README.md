@@ -554,10 +554,6 @@
 
     - [翻译: 探究 LLM 在生成 IEC 61131-3 图形语言程序方面的支持能力](2024年10月19日/Exploring_LLM_Support_for_Generating_IEC_61131-3_Graphic_Language_Programs.md)
 
-- [Fine-tuning foundational models to code diagnoses from veterinary health records](2024年10月19日/Fine-tuning_foundational_models_to_code_diagnoses_from_veterinary_health_records.md)
-
-    - [翻译: 微调基础模型，从兽医健康记录中精准诊断代码](2024年10月19日/Fine-tuning_foundational_models_to_code_diagnoses_from_veterinary_health_records.md)
-
 - [Group Diffusion Transformers are Unsupervised Multitask Learners](2024年10月19日/Group_Diffusion_Transformers_are_Unsupervised_Multitask_Learners.md)
 
     - [翻译: Group Diffusion Transformers 是一种无监督的多任务学习模型。](2024年10月19日/Group_Diffusion_Transformers_are_Unsupervised_Multitask_Learners.md)
@@ -1221,10 +1217,6 @@
 - [SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs](2024年10月17日/SimpleToM_Exposing_the_Gap_between_Explicit_ToM_Inference_and_Implicit_ToM_Application_in_LLMs.md)
 
     - [翻译: SimpleToM：揭示了 LLM 中显式 ToM 推理与隐式 ToM 应用之间的差异](2024年10月17日/SimpleToM_Exposing_the_Gap_between_Explicit_ToM_Inference_and_Implicit_ToM_Application_in_LLMs.md)
-
-- [SPIN: Self-Supervised Prompt INjection](2024年10月17日/SPIN_Self-Supervised_Prompt_INjection.md)
-
-    - [翻译: SPIN：自监督提示注入技术](2024年10月17日/SPIN_Self-Supervised_Prompt_INjection.md)
 
 - [SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent](2024年10月17日/SRAP-Agent_Simulating_and_Optimizing_Scarce_Resource_Allocation_Policy_with_LLM-based_Agent.md)
 
