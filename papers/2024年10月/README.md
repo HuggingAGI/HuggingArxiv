@@ -52,7 +52,7 @@
 
 - [Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
 
-    - [翻译: 超越简单过滤：为 MLLM 预训练量身定制的图像与文本质量提升](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
+    - [翻译: 不仅仅是过滤：自适应图像与文本质量提升，助力多模态语言模型预训练](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
 
 - [Boosting Jailbreak Transferability for Large Language Models](2024年10月21日/Boosting_Jailbreak_Transferability_for_Large_Language_Models.md)
 
@@ -166,6 +166,10 @@
 
     - [翻译: 如何打造一个既能聊天又能决策的预训练多模态模型？](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
 
+- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
+
+    - [翻译: IBGP：探讨通信多代理系统中零-shot 鲁棒性的非完美拜占庭将军问题](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
+
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
@@ -233,6 +237,10 @@
 - [Mitigating Object Hallucination via Concentric Causal Attention](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
 
     - [翻译: 借助同心因果注意力机制，有效缓解对象幻觉问题。](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
+
+- [Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning](2024年10月21日/Natural_GaLore_Accelerating_GaLore_for_memory-efficient_LLM_Training_and_Fine-tuning.md)
+
+    - [翻译: 自然 GaLore：加速 GaLore，实现内存高效的大型语言模型训练与微调](2024年10月21日/Natural_GaLore_Accelerating_GaLore_for_memory-efficient_LLM_Training_and_Fine-tuning.md)
 
 - [NetSafe: Exploring the Topological Safety of Multi-agent Networks](2024年10月21日/NetSafe_Exploring_the_Topological_Safety_of_Multi-agent_Networks.md)
 
@@ -508,7 +516,7 @@
 
 - [AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
 
-    - [翻译: AutoFLUKA：基于大型语言模型，自动化 FLUKA 中的蒙特卡罗模拟框架](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
+    - [翻译: AutoFLUKA：基于大型语言模型，专为 FLUKA 中的蒙特卡罗模拟自动化而设计](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
 
 - [AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
@@ -842,7 +850,7 @@
 
 - [SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation](2024年10月18日/SemiHVision_Enhancing_Medical_Multimodal_Models_with_a_Semi-Human_Annotated_Dataset_and_Fine-Tuned_Instruction_Generation.md)
 
-    - [翻译: SemiHVision：借助半人工标注的数据集和精细调整的指令生成，提升医学多模态模型的性能。](2024年10月18日/SemiHVision_Enhancing_Medical_Multimodal_Models_with_a_Semi-Human_Annotated_Dataset_and_Fine-Tuned_Instruction_Generation.md)
+    - [翻译: SemiHVision：借助半人工注释数据集和微调指令生成，提升医学多模态模型的性能](2024年10月18日/SemiHVision_Enhancing_Medical_Multimodal_Models_with_a_Semi-Human_Annotated_Dataset_and_Fine-Tuned_Instruction_Generation.md)
 
 - [Storyboard guided Alignment for Fine-grained Video Action Recognition](2024年10月18日/Storyboard_guided_Alignment_for_Fine-grained_Video_Action_Recognition.md)
 
@@ -1201,10 +1209,6 @@
 - [Reference-Based Post-OCR Processing with LLM for Diacritic Languages](2024年10月17日/Reference-Based_Post-OCR_Processing_with_LLM_for_Diacritic_Languages.md)
 
     - [翻译: 基于参考的 OCR 后处理与 LLM 应用于变音符号语言](2024年10月17日/Reference-Based_Post-OCR_Processing_with_LLM_for_Diacritic_Languages.md)
-
-- [Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant](2024年10月17日/Remember,_Retrieve_and_Generate_Understanding_Infinite_Visual_Concepts_as_Your_Personalized_Assistant.md)
-
-    - [翻译: 记住、检索并生成：将无限视觉概念化为您的个性化助手](2024年10月17日/Remember,_Retrieve_and_Generate_Understanding_Infinite_Visual_Concepts_as_Your_Personalized_Assistant.md)
 
 - [Representation Learning of Structured Data for Medical Foundation Models](2024年10月17日/Representation_Learning_of_Structured_Data_for_Medical_Foundation_Models.md)
 
