@@ -660,10 +660,6 @@
 
     - [翻译: ChartifyText：利用 LLM 技术，自动将包含数据的文本转化为图表。](2024年10月18日/ChartifyText_Automated_Chart_Generation_from_Data-Involved_Texts_via_LLM.md)
 
-- [Class-RAG: Content Moderation with Retrieval Augmented Generation](2024年10月18日/Class-RAG_Content_Moderation_with_Retrieval_Augmented_Generation.md)
-
-    - [翻译: Class-RAG：通过检索增强生成技术实现内容审核](2024年10月18日/Class-RAG_Content_Moderation_with_Retrieval_Augmented_Generation.md)
-
 - [CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
 
     - [翻译: CoMAL：混合自主交通中的协作多智能体大型语言模型](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
@@ -982,10 +978,6 @@
 
     - [翻译: De-mark：大型语言模型中的水印清除术](2024年10月17日/De-mark_Watermark_Removal_in_Large_Language_Models.md)
 
-- [Do LLMs Have Political Correctness? Analyzing Ethical Biases and Jailbreak Vulnerabilities in AI Systems](2024年10月17日/Do_LLMs_Have_Political_Correctness_Analyzing_Ethical_Biases_and_Jailbreak_Vulnerabilities_in_AI_Systems.md)
-
-    - [翻译: LLM 是否能做到政治正确？探讨 AI 系统中的伦理偏见与越狱风险](2024年10月17日/Do_LLMs_Have_Political_Correctness_Analyzing_Ethical_Biases_and_Jailbreak_Vulnerabilities_in_AI_Systems.md)
-
 - [Do LLMs Overcome Shortcut Learning? An Evaluation of Shortcut Challenges in Large Language Models](2024年10月17日/Do_LLMs_Overcome_Shortcut_Learning_An_Evaluation_of_Shortcut_Challenges_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型是否解决了捷径学习问题？本文评估了这些模型在应对捷径挑战方面的表现。](2024年10月17日/Do_LLMs_Overcome_Shortcut_Learning_An_Evaluation_of_Shortcut_Challenges_in_Large_Language_Models.md)
@@ -1081,10 +1073,6 @@
 - [Latent Weight Diffusion: Generating Policies from Trajectories](2024年10月17日/Latent_Weight_Diffusion_Generating_Policies_from_Trajectories.md)
 
     - [翻译: 潜藏权重扩散：策略由轨迹孕育而生](2024年10月17日/Latent_Weight_Diffusion_Generating_Policies_from_Trajectories.md)
-
-- [Learning to Route with Confidence Tokens](2024年10月17日/Learning_to_Route_with_Confidence_Tokens.md)
-
-    - [翻译: 自信标记路由学习](2024年10月17日/Learning_to_Route_with_Confidence_Tokens.md)
 
 - [LLM-based Unit Test Generation via Property Retrieval](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
@@ -1459,10 +1447,6 @@
 - [SF-Speech: Straightened Flow for Zero-Shot Voice Clone on Small-Scale Dataset](2024年10月16日/SF-Speech_Straightened_Flow_for_Zero-Shot_Voice_Clone_on_Small-Scale_Dataset.md)
 
     - [翻译: SF-Speech：小规模数据集上的零-shot 语音克隆直流技术](2024年10月16日/SF-Speech_Straightened_Flow_for_Zero-Shot_Voice_Clone_on_Small-Scale_Dataset.md)
-
-- [SLM-Mod: Small Language Models Surpass LLMs at Content Moderation](2024年10月16日/SLM-Mod_Small_Language_Models_Surpass_LLMs_at_Content_Moderation.md)
-
-    - [翻译: SLM-Mod: 小语言模型在内容审核上胜过大语言模型](2024年10月16日/SLM-Mod_Small_Language_Models_Surpass_LLMs_at_Content_Moderation.md)
 
 - [StyleDistance: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples](2024年10月16日/StyleDistance_Stronger_Content-Independent_Style_Embeddings_with_Synthetic_Parallel_Examples.md)
 
@@ -2051,10 +2035,6 @@
 - [Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
 
     - [翻译: 探索 Q-Former 在视觉推理任务中视觉与语言对齐的高效路径](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
-
-- [Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](2024年10月12日/Two_Heads_Are_Better_Than_One_A_Multi-Agent_System_Has_the_Potential_to_Improve_Scientific_Idea_Generation.md)
-
-    - [翻译: 双脑协作，科学创意更上一层楼：多智能体系统助力创新思维](2024年10月12日/Two_Heads_Are_Better_Than_One_A_Multi-Agent_System_Has_the_Potential_to_Improve_Scientific_Idea_Generation.md)
 
 2024年10月11日
 
