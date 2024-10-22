@@ -34,10 +34,6 @@
 
     - [翻译: 大型语言模型面临的现实越狱威胁](2024年10月21日/A_Realistic_Threat_Model_for_Large_Language_Model_Jailbreaks.md)
 
-- [A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns](2024年10月21日/A_Troublemaker_with_Contagious_Jailbreak_Makes_Chaos_in_Honest_Towns.md)
-
-    - [翻译: 一个传染性越狱的捣蛋鬼在诚实的小镇上掀起了风波](2024年10月21日/A_Troublemaker_with_Contagious_Jailbreak_Makes_Chaos_in_Honest_Towns.md)
-
 - [AutoTrain: No-code training for state-of-the-art models](2024年10月21日/AutoTrain_No-code_training_for_state-of-the-art_models.md)
 
     - [翻译: AutoTrain：无需编码，轻松训练顶尖模型](2024年10月21日/AutoTrain_No-code_training_for_state-of-the-art_models.md)
@@ -225,10 +221,6 @@
 - [Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
 
     - [翻译: Mesa-Extrapolation：一种提升 LLM 外推能力的编织位置编码方法](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
-
-- [Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance](2024年10月21日/Mini-InternVL_A_Flexible-Transfer_Pocket_Multimodal_Model_with_5%_Parameters_and_90%_Performance.md)
-
-    - [翻译: Mini-InternVL：一款灵活转移的多模态模型，仅用5%的参数就能实现90%的性能。](2024年10月21日/Mini-InternVL_A_Flexible-Transfer_Pocket_Multimodal_Model_with_5%_Parameters_and_90%_Performance.md)
 
 - [Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding](2024年10月21日/Mitigating_Hallucinations_of_Large_Language_Models_in_Medical_Information_Extraction_via_Contrastive_Decoding.md)
 
@@ -1948,10 +1940,6 @@
 
     - [翻译: 大型语言模型（LLMs）是否将取代仅编码器模型，成为时间关系分类的新宠？](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
-- [Words to Wheels: Vision-Based Autonomous Driving Understanding Human Language Instructions Using Foundation Models](2024年10月14日/Words_to_Wheels_Vision-Based_Autonomous_Driving_Understanding_Human_Language_Instructions_Using_Foundation_Models.md)
-
-    - [翻译: 从文字到车轮：基于视觉的自动驾驶系统，利用基础模型理解人类语言指令](2024年10月14日/Words_to_Wheels_Vision-Based_Autonomous_Driving_Understanding_Human_Language_Instructions_Using_Foundation_Models.md)
-
 - [Yuan: Research on the Concept of Digital World Analogue Scientific Infrastructure and Science Popularization Communication Based on Suzhou Gardens Pattern](2024年10月14日/Yuan_Research_on_the_Concept_of_Digital_World_Analogue_Scientific_Infrastructure_and_Science_Popularization_Communication_Based_on_Suzhou_Gardens_Pattern.md)
 
     - [翻译: 探索苏州园林模式下的数字世界模拟科学基础设施与科普传播新概念](2024年10月14日/Yuan_Research_on_the_Concept_of_Digital_World_Analogue_Scientific_Infrastructure_and_Science_Popularization_Communication_Based_on_Suzhou_Gardens_Pattern.md)
@@ -2056,10 +2044,6 @@
 
     - [翻译: MIRAGE：探索与揭示语言模型中的归纳推理奥秘](2024年10月12日/MIRAGE_Evaluating_and_Explaining_Inductive_Reasoning_Process_in_Language_Models.md)
 
-- [MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection](2024年10月12日/MMAD_The_First-Ever_Comprehensive_Benchmark_for_Multimodal_Large_Language_Models_in_Industrial_Anomaly_Detection.md)
-
-    - [翻译: MMAD：工业异常检测领域首个多模态大型语言模型的全面基准](2024年10月12日/MMAD_The_First-Ever_Comprehensive_Benchmark_for_Multimodal_Large_Language_Models_in_Industrial_Anomaly_Detection.md)
-
 - [Reconstructive Visual Instruction Tuning](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
     - [翻译: 视觉指令的重构调整](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
@@ -2081,10 +2065,6 @@
     - [翻译: 双脑协作，科学创意更上一层楼：多智能体系统助力创新思维](2024年10月12日/Two_Heads_Are_Better_Than_One_A_Multi-Agent_System_Has_the_Potential_to_Improve_Scientific_Idea_Generation.md)
 
 2024年10月11日
-
-- [ACER: Automatic Language Model Context Extension via Retrieval](2024年10月11日/ACER_Automatic_Language_Model_Context_Extension_via_Retrieval.md)
-
-    - [翻译: ACER：利用检索技术自动扩展语言模型的上下文](2024年10月11日/ACER_Automatic_Language_Model_Context_Extension_via_Retrieval.md)
 
 - [A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
 
