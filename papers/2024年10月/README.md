@@ -1034,10 +1034,6 @@
 
     - [翻译: 通过增强视觉能力，我们致力于提升多模态大型语言模型的性能。](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
 
-- [Instruction-Driven Game Engine: A Poker Case Study](2024年10月17日/Instruction-Driven_Game_Engine_A_Poker_Case_Study.md)
-
-    - [翻译: 指令驱动游戏引擎：扑克实战解析](2024年10月17日/Instruction-Driven_Game_Engine_A_Poker_Case_Study.md)
-
 - [Integrating Large Language Models and Reinforcement Learning for Non-Linear Reasoning](2024年10月17日/Integrating_Large_Language_Models_and_Reinforcement_Learning_for_Non-Linear_Reasoning.md)
 
     - [翻译: 融合大型语言模型与强化学习，探索非线性推理的新路径](2024年10月17日/Integrating_Large_Language_Models_and_Reinforcement_Learning_for_Non-Linear_Reasoning.md)
@@ -1463,10 +1459,6 @@
 - [Understanding the Role of LLMs in Multimodal Evaluation Benchmarks](2024年10月16日/Understanding_the_Role_of_LLMs_in_Multimodal_Evaluation_Benchmarks.md)
 
     - [翻译: 探究 LLM 在多模态评估中的作用](2024年10月16日/Understanding_the_Role_of_LLMs_in_Multimodal_Evaluation_Benchmarks.md)
-
-- [VividMed: Vision Language Model with Versatile Visual Grounding for Medicine](2024年10月16日/VividMed_Vision_Language_Model_with_Versatile_Visual_Grounding_for_Medicine.md)
-
-    - [翻译: VividMed：一款专为医学领域设计的多功能视觉语言模型，具备强大的视觉基础能力。](2024年10月16日/VividMed_Vision_Language_Model_with_Versatile_Visual_Grounding_for_Medicine.md)
 
 - [Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
 
