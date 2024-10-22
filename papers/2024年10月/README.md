@@ -1808,10 +1808,6 @@
 
     - [翻译: F2A：通过伪装安全检测代理实现提示注入的创新策略](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
 
-- [Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection](2024年10月14日/Fine-grained_Abnormality_Prompt_Learning_for_Zero-shot_Anomaly_Detection.md)
-
-    - [翻译: 细粒度异常提示学习：零-shot异常检测的新方法](2024年10月14日/Fine-grained_Abnormality_Prompt_Learning_for_Zero-shot_Anomaly_Detection.md)
-
 - [Focused ReAct: Improving ReAct through Reiterate and Early Stop](2024年10月14日/Focused_ReAct_Improving_ReAct_through_Reiterate_and_Early_Stop.md)
 
     - [翻译: 聚焦 ReAct：通过反复迭代与早期停止提升 ReAct 性能](2024年10月14日/Focused_ReAct_Improving_ReAct_through_Reiterate_and_Early_Stop.md)
@@ -2064,10 +2060,6 @@
 
     - [翻译: MMAD：工业异常检测领域首个多模态大型语言模型的全面基准](2024年10月12日/MMAD_The_First-Ever_Comprehensive_Benchmark_for_Multimodal_Large_Language_Models_in_Industrial_Anomaly_Detection.md)
 
-- [MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning](2024年10月12日/MTL-LoRA_Low-Rank_Adaptation_for_Multi-Task_Learning.md)
-
-    - [翻译: MTL-LoRA：多任务学习的低秩适应](2024年10月12日/MTL-LoRA_Low-Rank_Adaptation_for_Multi-Task_Learning.md)
-
 - [Reconstructive Visual Instruction Tuning](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
     - [翻译: 视觉指令的重构调整](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
@@ -2185,10 +2177,6 @@
 - [Pixtral 12B](2024年10月09日/Pixtral_12B.md)
 
     - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
-
-- [WorkflowHub: a registry for computational workflows](2024年10月09日/WorkflowHub_a_registry_for_computational_workflows.md)
-
-    - [翻译: WorkflowHub：计算工作流的注册中心](2024年10月09日/WorkflowHub_a_registry_for_computational_workflows.md)
 
 2024年10月08日
 
