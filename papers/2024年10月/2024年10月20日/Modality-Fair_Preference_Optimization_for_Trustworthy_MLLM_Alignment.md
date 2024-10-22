@@ -1,0 +1,15 @@
+# 模态公平偏好优化，助力多模态语言模型的可信对齐
+
+发布时间：2024年10月20日
+
+`LLM应用` `人工智能` `计算机视觉`
+
+> Modality-Fair Preference Optimization for Trustworthy MLLM Alignment
+
+# 摘要
+
+> 直接偏好优化 (DPO) 虽能有效对齐大型语言模型 (LLM)，但在多模态模型 (MLLM) 中，常偏向文本而忽视图像，导致输出不可靠和视觉幻觉。为此，我们提出模态公平偏好优化 (MFPO)，旨在平衡文本与图像偏好。首先，我们发现偏好数据中缺乏图像奖励，导致优化偏向文本，因此我们生成了自动化、细粒度的图像偏好数据以纠正此偏差。接着，我们设计了学习目标，确保模型同时捕捉文本和图像偏好，并保持高质量输出。最后，我们采用多阶段对齐方法，稳定训练并提升双模态学习效果。实验证明，MFPO 显著提升 MLLM 可信度。在 LLaVA-v1.5 (7B, 13B) 等模型上，MFPO 大幅减少幻觉，7B 模型上超越 GPT-4V，在 Object HalBench 上比之前方法提升近 40%，结合 LLaVA-v1.6 时，在 Object HalBench 和 AMBER 上达到最先进性能。代码即将发布。
+
+> Direct Preference Optimization (DPO) is effective for aligning large language models (LLMs), but when applied to multimodal models (MLLMs), it often favors text over image information, leading to unreliable outputs and visual hallucinations. To address this, we propose Modality-Fair Preference Optimization (MFPO) to balance text and image preferences. First, we found that the lack of image-related rewards in preference data biases optimization toward text, so we created automated, fine-grained image preference data to correct this. Then, we designed a learning objective to ensure the model captures both text and image preferences while maintaining high-quality outputs. Finally, we use a multi-stage alignment approach to stabilize training and improve learning across both modalities. Extensive experiments demonstrate that MFPO significantly enhances MLLM trustworthiness. On models like LLaVA-v1.5 (7B, 13B), our approach reduces hallucinations substantially. On the 7B model, MFPO outperforms GPT-4V and achieves a nearly 40\% improvement over previous methods on Object HalBench, as well as achieving state-of-the-art performance on both Object HalBench and AMBER when combined with the latest LLaVA-v1.6. Code will be released.
+
+[Arxiv](https://arxiv.org/abs/2410.15334)
