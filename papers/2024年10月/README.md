@@ -126,10 +126,6 @@
 
     - [翻译: 多语言模型如何记住事实？探索其背后的记忆机制](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
 
-- [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](2024年10月18日/LabSafety_Bench_Benchmarking_LLMs_on_Safety_Issues_in_Scientific_Labs.md)
-
-    - [翻译: LabSafety Bench：科学实验室安全问题上的 LLM 基准测试](2024年10月18日/LabSafety_Bench_Benchmarking_LLMs_on_Safety_Issues_in_Scientific_Labs.md)
-
 - [LoGU: Long-form Generation with Uncertainty Expressions](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
 
     - [翻译: LoGU：长篇生成中的不确定性表达](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
@@ -275,10 +271,6 @@
 - [A Proposal for Uncovering Hidden Social Bots via Genetic Similarity](2024年10月17日/A_Proposal_for_Uncovering_Hidden_Social_Bots_via_Genetic_Similarity.md)
 
     - [翻译: 揭秘隐藏社交机器人的遗传相似性方案](2024年10月17日/A_Proposal_for_Uncovering_Hidden_Social_Bots_via_Genetic_Similarity.md)
-
-- [Artificial Kuramoto Oscillatory Neurons](2024年10月17日/Artificial_Kuramoto_Oscillatory_Neurons.md)
-
-    - [翻译: 人工 Kuramoto 振荡神经元](2024年10月17日/Artificial_Kuramoto_Oscillatory_Neurons.md)
 
 - [AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
@@ -928,10 +920,6 @@
 
     - [翻译: 循环Transformer巧妙绕过指数依赖，通过多步梯度下降，高效掌握上下文学习。](2024年10月15日/Bypassing_the_Exponential_Dependency_Looped_Transformers_Efficiently_Learn_In-context_by_Multi-step_Gradient_Descent.md)
 
-- [Cognitive Overload Attack:Prompt Injection for Long Context](2024年10月15日/Cognitive_Overload_AttackPrompt_Injection_for_Long_Context.md)
-
-    - [翻译: 认知过载攻击：长上下文中的提示注入](2024年10月15日/Cognitive_Overload_AttackPrompt_Injection_for_Long_Context.md)
-
 - [CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
 
     - [翻译: CoTracker3：借助伪标签技术，在真实视频中实现更简便且高效的点跟踪。](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
@@ -1527,10 +1515,6 @@
 - [A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
 
     - [翻译: RAG 系统评估方法论：配置依赖验证案例研究](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
-
-- [A Social Context-aware Graph-based Multimodal Attentive Learning Framework for Disaster Content Classification during Emergencies](2024年10月11日/A_Social_Context-aware_Graph-based_Multimodal_Attentive_Learning_Framework_for_Disaster_Content_Classification_during_Emergencies.md)
-
-    - [翻译: 一种基于社交上下文和图结构的多模态注意力学习框架，专为紧急情况下的灾难内容分类设计](2024年10月11日/A_Social_Context-aware_Graph-based_Multimodal_Attentive_Learning_Framework_for_Disaster_Content_Classification_during_Emergencies.md)
 
 - [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
 
