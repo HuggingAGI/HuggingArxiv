@@ -250,10 +250,6 @@
 
     - [翻译: Pangea：一款完全开放的多语言多模态 LLM，支持 39 种语言](2024年10月21日/Pangea_A_Fully_Open_Multilingual_Multimodal_LLM_for_39_Languages.md)
 
-- [PODTILE: Facilitating Podcast Episode Browsing with Auto-generated Chapters](2024年10月21日/PODTILE_Facilitating_Podcast_Episode_Browsing_with_Auto-generated_Chapters.md)
-
-    - [翻译: PODTILE：借助自动生成的章节，轻松浏览播客剧集](2024年10月21日/PODTILE_Facilitating_Podcast_Episode_Browsing_with_Auto-generated_Chapters.md)
-
 - [Pre-training Distillation for Large Language Models: A Design Space Exploration](2024年10月21日/Pre-training_Distillation_for_Large_Language_Models_A_Design_Space_Exploration.md)
 
     - [翻译: 探索大型语言模型预训练蒸馏的设计空间](2024年10月21日/Pre-training_Distillation_for_Large_Language_Models_A_Design_Space_Exploration.md)
@@ -1146,10 +1142,6 @@
 
     - [翻译: 证明流：形式推理中生成流网络语言模型调优的初步探索](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
 
-- [Quamba: A Post-Training Quantization Recipe for Selective State Space Models](2024年10月17日/Quamba_A_Post-Training_Quantization_Recipe_for_Selective_State_Space_Models.md)
-
-    - [翻译: Quamba：专为选择性状态空间模型设计的后训练量化方案](2024年10月17日/Quamba_A_Post-Training_Quantization_Recipe_for_Selective_State_Space_Models.md)
-
 - [Quantity vs. Quality of Monolingual Source Data in Automatic Text Translation: Can It Be Too Little If It Is Too Good?](2024年10月17日/Quantity_vs._Quality_of_Monolingual_Source_Data_in_Automatic_Text_Translation_Can_It_Be_Too_Little_If_It_Is_Too_Good.md)
 
     - [翻译: 在自动文本翻译中，单语源数据的数量与质量孰重孰轻？质量虽高，数量不足是否仍能胜任？](2024年10月17日/Quantity_vs._Quality_of_Monolingual_Source_Data_in_Automatic_Text_Translation_Can_It_Be_Too_Little_If_It_Is_Too_Good.md)
@@ -1569,10 +1561,6 @@
 - [Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models](2024年10月15日/Layer-wise_Importance_Matters_Less_Memory_for_Better_Performance_in_Parameter-efficient_Fine-tuning_of_Large_Language_Models.md)
 
     - [翻译: 逐层重要性不容忽视：在大型语言模型的参数高效微调中，减少内存占用反而能提升性能。](2024年10月15日/Layer-wise_Importance_Matters_Less_Memory_for_Better_Performance_in_Parameter-efficient_Fine-tuning_of_Large_Language_Models.md)
-
-- [Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL](2024年10月15日/Learning_from_Imperfect_Data_Towards_Efficient_Knowledge_Distillation_of_Autoregressive_Language_Models_for_Text-to-SQL.md)
-
-    - [翻译: 从不完美数据中学习：提升自动回归语言模型在文本到SQL任务中的知识蒸馏效率](2024年10月15日/Learning_from_Imperfect_Data_Towards_Efficient_Knowledge_Distillation_of_Autoregressive_Language_Models_for_Text-to-SQL.md)
 
 - [Leveraging LLM Embeddings for Cross Dataset Label Alignment and Zero Shot Music Emotion Prediction](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
 
