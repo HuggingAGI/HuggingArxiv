@@ -638,10 +638,6 @@
 
     - [翻译: Transit Pulse：借助社交媒体，结合大型语言模型，获取客户反馈与信息提取。](2024年10月19日/Transit_Pulse_Utilizing_Social_Media_as_a_Source_for_Customer_Feedback_and_Information_Extraction_with_Large_Language_Model.md)
 
-- [When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](2024年10月19日/When_Machine_Unlearning_Meets_Retrieval-Augmented_Generation_(RAG)_Keep_Secret_or_Forget_Knowledge.md)
-
-    - [翻译: 机器遗忘与检索增强生成 (RAG) 相遇时，是保守秘密还是遗忘知识？](2024年10月19日/When_Machine_Unlearning_Meets_Retrieval-Augmented_Generation_(RAG)_Keep_Secret_or_Forget_Knowledge.md)
-
 2024年10月18日
 
 - [Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents](2024年10月18日/Agents4PLC_Automating_Closed-loop_PLC_Code_Generation_and_Verification_in_Industrial_Control_Systems_using_LLM-based_Agents.md)
@@ -651,10 +647,6 @@
 - [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
 
     - [翻译: 基于动态反馈的强化学习奖励设计框架，由大型语言模型驱动](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
-
-- [Aligning LLMs with Human Instructions and Stock Market Feedback in Financial Sentiment Analysis](2024年10月18日/Aligning_LLMs_with_Human_Instructions_and_Stock_Market_Feedback_in_Financial_Sentiment_Analysis.md)
-
-    - [翻译: 在金融情感分析中，将大型语言模型（LLM）与人类指令及股市反馈相结合。](2024年10月18日/Aligning_LLMs_with_Human_Instructions_and_Stock_Market_Feedback_in_Financial_Sentiment_Analysis.md)
 
 - [Analyzing Context Utilization of LLMs in Document-Level Translation](2024年10月18日/Analyzing_Context_Utilization_of_LLMs_in_Document-Level_Translation.md)
 
