@@ -164,11 +164,11 @@
 
 - [How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
 
-    - [翻译: 如何打造一个既能聊天又能决策的预训练多模态模型？](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
+    - [翻译: 怎样打造一个能同时聊天和决策的预训练多模态模型？](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
 
 - [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
 
-    - [翻译: IBGP：探讨通信多代理系统中零-shot 鲁棒性的非完美拜占庭将军问题](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
+    - [翻译: IBGP：探讨通信多智能体系统中零-shot 鲁棒性的不完美拜占庭将军问题](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
 
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
@@ -236,7 +236,7 @@
 
 - [Mitigating Object Hallucination via Concentric Causal Attention](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
 
-    - [翻译: 借助同心因果注意力机制，有效缓解对象幻觉问题。](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
+    - [翻译: 利用同心因果注意力机制，有效缓解对象幻觉问题。](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
 
 - [Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning](2024年10月21日/Natural_GaLore_Accelerating_GaLore_for_memory-efficient_LLM_Training_and_Fine-tuning.md)
 
@@ -310,10 +310,6 @@
 
     - [翻译: SeisLM：地震波形的基础模型](2024年10月21日/SeisLM_a_Foundation_Model_for_Seismic_Waveforms.md)
 
-- [Selecting Influential Samples for Long Context Alignment via Homologous Models' Guidance and Contextual Awareness Measurement](2024年10月21日/Selecting_Influential_Samples_for_Long_Context_Alignment_via_Homologous_Models'_Guidance_and_Contextual_Awareness_Measurement.md)
-
-    - [翻译: 借助同源模型的引导和上下文感知评估，精选长上下文对齐的关键样本。](2024年10月21日/Selecting_Influential_Samples_for_Long_Context_Alignment_via_Homologous_Models'_Guidance_and_Contextual_Awareness_Measurement.md)
-
 - [Self-Explained Keywords Empower Large Language Models for Code Generation](2024年10月21日/Self-Explained_Keywords_Empower_Large_Language_Models_for_Code_Generation.md)
 
     - [翻译: 自我解释的关键词助力大型语言模型实现代码生成](2024年10月21日/Self-Explained_Keywords_Empower_Large_Language_Models_for_Code_Generation.md)
@@ -366,7 +362,7 @@
 
 - [AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection](2024年10月20日/AMPLE_Emotion-Aware_Multimodal_Fusion_Prompt_Learning_for_Fake_News_Detection.md)
 
-    - [翻译: AMPLE：情感感知的多模态融合提示学习，专为假新闻检测而生](2024年10月20日/AMPLE_Emotion-Aware_Multimodal_Fusion_Prompt_Learning_for_Fake_News_Detection.md)
+    - [翻译: AMPLE：情感感知的多模态融合提示学习，专为假新闻检测而生。](2024年10月20日/AMPLE_Emotion-Aware_Multimodal_Fusion_Prompt_Learning_for_Fake_News_Detection.md)
 
 - [A Survey of Hallucination in Large Visual Language Models](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
 
@@ -402,7 +398,7 @@
 
 - [CROPE: Evaluating In-Context Adaptation of Vision and Language Models to Culture-Specific Concepts](2024年10月20日/CROPE_Evaluating_In-Context_Adaptation_of_Vision_and_Language_Models_to_Culture-Specific_Concepts.md)
 
-    - [翻译: CROPE：探索视觉与语言模型如何适应特定文化概念的上下文表现](2024年10月20日/CROPE_Evaluating_In-Context_Adaptation_of_Vision_and_Language_Models_to_Culture-Specific_Concepts.md)
+    - [翻译: CROPE：探索视觉与语言模型如何适应特定文化概念的上下文学习](2024年10月20日/CROPE_Evaluating_In-Context_Adaptation_of_Vision_and_Language_Models_to_Culture-Specific_Concepts.md)
 
 - [Customized FinGPT Search Agents Using Foundation Models](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
 
@@ -422,11 +418,11 @@
 
 - [Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training](2024年10月20日/Exploring_Curriculum_Learning_for_Vision-Language_Tasks_A_Study_on_Small-Scale_Multimodal_Training.md)
 
-    - [翻译: 探索视觉与语言任务中的课程学习：小规模多模态训练研究](2024年10月20日/Exploring_Curriculum_Learning_for_Vision-Language_Tasks_A_Study_on_Small-Scale_Multimodal_Training.md)
+    - [翻译: 探究视觉与语言任务中的课程学习：小规模多模态训练研究](2024年10月20日/Exploring_Curriculum_Learning_for_Vision-Language_Tasks_A_Study_on_Small-Scale_Multimodal_Training.md)
 
 - [How Aligned are Generative Models to Humans in High-Stakes Decision-Making?](2024年10月20日/How_Aligned_are_Generative_Models_to_Humans_in_High-Stakes_Decision-Making.md)
 
-    - [翻译: 在高风险决策中，生成模型与人类的契合度究竟如何？](2024年10月20日/How_Aligned_are_Generative_Models_to_Humans_in_High-Stakes_Decision-Making.md)
+    - [翻译: 在高风险决策中，生成模型与人类的契合度如何？](2024年10月20日/How_Aligned_are_Generative_Models_to_Humans_in_High-Stakes_Decision-Making.md)
 
 - [Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
 
@@ -458,7 +454,7 @@
 
 - [Modality-Fair Preference Optimization for Trustworthy MLLM Alignment](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
 
-    - [翻译: 模态公平偏好优化，助力多模态语言模型的可信对齐](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
+    - [翻译: 模态公平偏好优化，助力多模态语言模型可信对齐](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
 
 - [Neural Normalized Compression Distance and the Disconnect Between Compression and Classification](2024年10月20日/Neural_Normalized_Compression_Distance_and_the_Disconnect_Between_Compression_and_Classification.md)
 
@@ -1343,10 +1339,6 @@
 - [Evaluating Morphological Compositional Generalization in Large Language Models](2024年10月16日/Evaluating_Morphological_Compositional_Generalization_in_Large_Language_Models.md)
 
     - [翻译: 探究大型语言模型中的形态组合泛化能力](2024年10月16日/Evaluating_Morphological_Compositional_Generalization_in_Large_Language_Models.md)
-
-- [Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios](2024年10月16日/Evaluating_Software_Development_Agents_Patch_Patterns,_Code_Quality,_and_Issue_Complexity_in_Real-World_GitHub_Scenarios.md)
-
-    - [翻译: 评估软件开发代理：探究 GitHub 真实场景中的补丁模式、代码质量与问题复杂性](2024年10月16日/Evaluating_Software_Development_Agents_Patch_Patterns,_Code_Quality,_and_Issue_Complexity_in_Real-World_GitHub_Scenarios.md)
 
 - [Expanding Chatbot Knowledge in Customer Service: Context-Aware Similar Question Generation Using Large Language Models](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
 
