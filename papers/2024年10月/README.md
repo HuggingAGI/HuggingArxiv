@@ -1390,10 +1390,6 @@
 
     - [翻译: StyleDistance：通过合成并行示例，实现更强大的内容无关风格嵌入](2024年10月16日/StyleDistance_Stronger_Content-Independent_Style_Embeddings_with_Synthetic_Parallel_Examples.md)
 
-- [The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear Subspaces](2024年10月16日/The_Geometry_of_Numerical_Reasoning_Language_Models_Compare_Numeric_Properties_in_Linear_Subspaces.md)
-
-    - [翻译: 语言模型如何在线性子空间中比较数值属性，揭示了数值推理的几何学奥秘。](2024年10月16日/The_Geometry_of_Numerical_Reasoning_Language_Models_Compare_Numeric_Properties_in_Linear_Subspaces.md)
-
 - [Towards Zero-Shot Camera Trap Image Categorization](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
 
     - [翻译: 迈向零-shot 相机陷阱图像分类](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
@@ -1405,10 +1401,6 @@
 - [Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
 
     - [翻译: 超越准确性：探索从弱到强的泛化在安全、毒性和法律推理中的应用](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
-
-- [With a Grain of SALT: Are LLMs Fair Across Social Dimensions?](2024年10月16日/With_a_Grain_of_SALT_Are_LLMs_Fair_Across_Social_Dimensions.md)
-
-    - [翻译: LLM 是否在社会维度上公平？让我们带着批判的眼光来探讨。](2024年10月16日/With_a_Grain_of_SALT_Are_LLMs_Fair_Across_Social_Dimensions.md)
 
 - [WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation](2024年10月16日/WorldMedQA-V_a_multilingual,_multimodal_medical_examination_dataset_for_multimodal_language_models_evaluation.md)
 
@@ -1487,10 +1479,6 @@
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
     - [翻译: 指导性代码检索器：借助大型语言模型的反馈，提升代码智能任务的表现](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
-
-- [IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT](2024年10月15日/IntGrad_MT_Eliciting_LLMs'_Machine_Translation_Capabilities_with_Sentence_Interpolation_and_Gradual_MT.md)
-
-    - [翻译: IntGrad MT：借助句子插值与逐步机器翻译，激发 LLM 的翻译潜能](2024年10月15日/IntGrad_MT_Eliciting_LLMs'_Machine_Translation_Capabilities_with_Sentence_Interpolation_and_Gradual_MT.md)
 
 - [KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities](2024年10月15日/KITTEN_A_Knowledge-Intensive_Evaluation_of_Image_Generation_on_Visual_Entities.md)
 
@@ -1885,10 +1873,6 @@
     - [翻译: Text4Seg：重塑图像分割为文本生成](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
 2024年10月12日
-
-- [Boosting Deductive Reasoning with Step Signals In RLHF](2024年10月12日/Boosting_Deductive_Reasoning_with_Step_Signals_In_RLHF.md)
-
-    - [翻译: 通过步骤信号提升 RLHF 中的演绎推理能力](2024年10月12日/Boosting_Deductive_Reasoning_with_Step_Signals_In_RLHF.md)
 
 - [CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device](2024年10月12日/CAMPHOR_Collaborative_Agents_for_Multi-input_Planning_and_High-Order_Reasoning_On_Device.md)
 
