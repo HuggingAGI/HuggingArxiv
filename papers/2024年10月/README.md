@@ -1076,10 +1076,6 @@
 
     - [翻译: 借助摘要引导解码技术，有效缓解大型视觉语言模型中的幻觉问题。](2024年10月17日/Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Summary-Guided_Decoding.md)
 
-- [MobA: A Two-Level Agent System for Efficient Mobile Task Automation](2024年10月17日/MobA_A_Two-Level_Agent_System_for_Efficient_Mobile_Task_Automation.md)
-
-    - [翻译: MobA：一款高效移动任务自动化的双层代理系统](2024年10月17日/MobA_A_Two-Level_Agent_System_for_Efficient_Mobile_Task_Automation.md)
-
 - [Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions](2024年10月17日/Modeling_Future_Conversation_Turns_to_Teach_LLMs_to_Ask_Clarifying_Questions.md)
 
     - [翻译: 通过模拟未来对话轮次，教导大型语言模型如何提出澄清问题。](2024年10月17日/Modeling_Future_Conversation_Turns_to_Teach_LLMs_to_Ask_Clarifying_Questions.md)
@@ -1249,10 +1245,6 @@
 - [Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
 
     - [翻译: 几何感知生成自动编码器，专为扭曲黎曼度量学习和数据流形上的生成建模而设计](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
-
-- [Hiding-in-Plain-Sight (HiPS) Attack on CLIP for Targetted Object Removal from Images](2024年10月16日/Hiding-in-Plain-Sight_(HiPS)_Attack_on_CLIP_for_Targetted_Object_Removal_from_Images.md)
-
-    - [翻译: HiPS 攻击利用 CLIP 的漏洞，巧妙地将目标物体从图像中“隐身”。](2024年10月16日/Hiding-in-Plain-Sight_(HiPS)_Attack_on_CLIP_for_Targetted_Object_Removal_from_Images.md)
 
 - [HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks](2024年10月16日/HumanEval-V_Evaluating_Visual_Understanding_and_Reasoning_Abilities_of_Large_Multimodal_Models_Through_Coding_Tasks.md)
 
@@ -1678,10 +1670,6 @@
 
     - [翻译: F2A：通过伪装安全检测代理实现提示注入的创新策略](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
 
-- [Focused ReAct: Improving ReAct through Reiterate and Early Stop](2024年10月14日/Focused_ReAct_Improving_ReAct_through_Reiterate_and_Early_Stop.md)
-
-    - [翻译: 聚焦 ReAct：通过反复迭代与早期停止提升 ReAct 性能](2024年10月14日/Focused_ReAct_Improving_ReAct_through_Reiterate_and_Early_Stop.md)
-
 - [ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
 
     - [翻译: ForgeryGPT：一款多模态大型语言模型，专为可解释的图像伪造检测与定位而生。](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
@@ -1943,10 +1931,6 @@
 - [Investigating Human-Computer Interaction and Visual Comprehension in Text Generation Process of Natural Language Generation Models](2024年10月11日/Investigating_Human-Computer_Interaction_and_Visual_Comprehension_in_Text_Generation_Process_of_Natural_Language_Generation_Models.md)
 
     - [翻译: 探索人类与计算机交互及视觉理解在自然语言生成模型文本生成中的影响](2024年10月11日/Investigating_Human-Computer_Interaction_and_Visual_Comprehension_in_Text_Generation_Process_of_Natural_Language_Generation_Models.md)
-
-- [Large Language Models for Medical OSCE Assessment: A Novel Approach to Transcript Analysis](2024年10月11日/Large_Language_Models_for_Medical_OSCE_Assessment_A_Novel_Approach_to_Transcript_Analysis.md)
-
-    - [翻译: 医学 OSCE 评估中的大型语言模型：转录分析的创新之道](2024年10月11日/Large_Language_Models_for_Medical_OSCE_Assessment_A_Novel_Approach_to_Transcript_Analysis.md)
 
 - [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
