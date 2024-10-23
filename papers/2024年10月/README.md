@@ -96,10 +96,6 @@
 
     - [翻译: CL-HOI：从视觉大语言模型中提取跨层次的人-物交互](2024年10月21日/CL-HOI_Cross-Level_Human-Object_Interaction_Distillation_from_Vision_Large_Language_Models.md)
 
-- [CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution](2024年10月21日/CompassJudger-1_All-in-one_Judge_Model_Helps_Model_Evaluation_and_Evolution.md)
-
-    - [翻译: CompassJudger-1：全能评判模型，推动模型评估与进化](2024年10月21日/CompassJudger-1_All-in-one_Judge_Model_Helps_Model_Evaluation_and_Evolution.md)
-
 - [Comprehensive benchmarking of large language models for RNA secondary structure prediction](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
 
     - [翻译: 全面评估大型语言模型在 RNA 二级结构预测中的表现](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
@@ -1120,10 +1116,6 @@
 
     - [翻译: 基于参考的 OCR 后处理与 LLM 应用于变音符号语言](2024年10月17日/Reference-Based_Post-OCR_Processing_with_LLM_for_Diacritic_Languages.md)
 
-- [Representation Learning of Structured Data for Medical Foundation Models](2024年10月17日/Representation_Learning_of_Structured_Data_for_Medical_Foundation_Models.md)
-
-    - [翻译: 医疗基础模型中的结构化数据表示学习](2024年10月17日/Representation_Learning_of_Structured_Data_for_Medical_Foundation_Models.md)
-
 - [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
     - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
@@ -1491,10 +1483,6 @@
 - [Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data](2024年10月15日/Holistic_Reasoning_with_Long-Context_LMs_A_Benchmark_for_Database_Operations_on_Massive_Textual_Data.md)
 
     - [翻译: 长上下文语言模型的整体推理：大规模文本数据数据库操作的基准测试](2024年10月15日/Holistic_Reasoning_with_Long-Context_LMs_A_Benchmark_for_Database_Operations_on_Massive_Textual_Data.md)
-
-- [Implementing Derivations of Definite Logic Programs with Self-Attention Networks](2024年10月15日/Implementing_Derivations_of_Definite_Logic_Programs_with_Self-Attention_Networks.md)
-
-    - [翻译: 用自注意力网络实现确定逻辑程序的推导](2024年10月15日/Implementing_Derivations_of_Definite_Logic_Programs_with_Self-Attention_Networks.md)
 
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
