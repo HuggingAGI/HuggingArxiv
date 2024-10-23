@@ -952,10 +952,6 @@
 
     - [翻译: De-mark：大型语言模型中的水印清除术](2024年10月17日/De-mark_Watermark_Removal_in_Large_Language_Models.md)
 
-- [Do LLMs Overcome Shortcut Learning? An Evaluation of Shortcut Challenges in Large Language Models](2024年10月17日/Do_LLMs_Overcome_Shortcut_Learning_An_Evaluation_of_Shortcut_Challenges_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型是否解决了捷径学习问题？本文评估了这些模型在应对捷径挑战方面的表现。](2024年10月17日/Do_LLMs_Overcome_Shortcut_Learning_An_Evaluation_of_Shortcut_Challenges_in_Large_Language_Models.md)
-
 - [DPLM-2: A Multimodal Diffusion Protein Language Model](2024年10月17日/DPLM-2_A_Multimodal_Diffusion_Protein_Language_Model.md)
 
     - [翻译: DPLM-2：一款多模态扩散蛋白语言模型](2024年10月17日/DPLM-2_A_Multimodal_Diffusion_Protein_Language_Model.md)
@@ -1867,10 +1863,6 @@
 - [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](2024年10月13日/BlackDAN_A_Black-Box_Multi-Objective_Approach_for_Effective_and_Contextual_Jailbreaking_of_Large_Language_Models.md)
 
     - [翻译: BlackDAN：一种黑盒多目标策略，专为有效且情境化的破解大型语言模型而设计。](2024年10月13日/BlackDAN_A_Black-Box_Multi-Objective_Approach_for_Effective_and_Contextual_Jailbreaking_of_Large_Language_Models.md)
-
-- [Can Large Language Models Generate Geospatial Code?](2024年10月13日/Can_Large_Language_Models_Generate_Geospatial_Code.md)
-
-    - [翻译: 大型语言模型能否编写地理空间代码？](2024年10月13日/Can_Large_Language_Models_Generate_Geospatial_Code.md)
 
 - [Can We Predict Performance of Large Models across Vision-Language Tasks?](2024年10月13日/Can_We_Predict_Performance_of_Large_Models_across_Vision-Language_Tasks.md)
 
