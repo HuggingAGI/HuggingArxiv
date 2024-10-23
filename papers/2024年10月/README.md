@@ -1764,10 +1764,6 @@
 
     - [翻译: ForgeryGPT：一款多模态大型语言模型，专为可解释的图像伪造检测与定位而生。](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
 
-- [Free Video-LLM: Prompt-guided Visual Perception for Efficient Training-free Video LLMs](2024年10月14日/Free_Video-LLM_Prompt-guided_Visual_Perception_for_Efficient_Training-free_Video_LLMs.md)
-
-    - [翻译: Free Video-LLM：通过提示引导的视觉感知，实现无需训练的高效视频语言模型](2024年10月14日/Free_Video-LLM_Prompt-guided_Visual_Perception_for_Efficient_Training-free_Video_LLMs.md)
-
 - [Functional Flexibility in Generative AI Interfaces: Text Editing with LLMs through Conversations, Toolbars, and Prompts](2024年10月14日/Functional_Flexibility_in_Generative_AI_Interfaces_Text_Editing_with_LLMs_through_Conversations,_Toolbars,_and_Prompts.md)
 
     - [翻译: 生成式 AI 接口展现出的功能灵活性：通过对话、工具栏和提示，与 LLM 共同进行文本编辑。](2024年10月14日/Functional_Flexibility_in_Generative_AI_Interfaces_Text_Editing_with_LLMs_through_Conversations,_Toolbars,_and_Prompts.md)
