@@ -268,10 +268,6 @@
 
     - [翻译: 探索大型语言模型预训练蒸馏的设计空间](2024年10月21日/Pre-training_Distillation_for_Large_Language_Models_A_Design_Space_Exploration.md)
 
-- [Procedural Content Generation in Games: A Survey with Insights on Emerging LLM Integration](2024年10月21日/Procedural_Content_Generation_in_Games_A_Survey_with_Insights_on_Emerging_LLM_Integration.md)
-
-    - [翻译: 游戏中的程序化内容生成：探索 LLM 整合的新趋势与洞察](2024年10月21日/Procedural_Content_Generation_in_Games_A_Survey_with_Insights_on_Emerging_LLM_Integration.md)
-
 - [PROMPTHEUS: A Human-Centered Pipeline to Streamline SLRs with LLMs](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
 
     - [翻译: PROMPTHEUS：一个以人为本的工作流程，旨在借助大型语言模型（LLM）简化系统文献综述（SLR）的流程。](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
@@ -1528,10 +1524,6 @@
 
     - [翻译: 轻量级容错注意力机制助力大型语言模型训练](2024年10月15日/Light-Weight_Fault_Tolerant_Attention_for_Large_Language_Model_Training.md)
 
-- [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](2024年10月15日/LLM-Mixer_Multiscale_Mixing_in_LLMs_for_Time_Series_Forecasting.md)
-
-    - [翻译: LLM-Mixer：在 LLM 中实现时间序列预测的多尺度混合技术](2024年10月15日/LLM-Mixer_Multiscale_Mixing_in_LLMs_for_Time_Series_Forecasting.md)
-
 - [LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
 
     - [翻译: LongHalQA：评估多模态大型语言模型在长上下文中的幻觉现象](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
@@ -1999,10 +1991,6 @@
 - [QEFT: Quantization for Efficient Fine-Tuning of LLMs](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
 
     - [翻译: QEFT：通过量化实现 LLM 的高效微调](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
-
-- [Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents](2024年10月11日/Refusal-Trained_LLMs_Are_Easily_Jailbroken_As_Browser_Agents.md)
-
-    - [翻译: 经过拒绝训练的 LLM 在作为浏览器代理时，容易被破解。](2024年10月11日/Refusal-Trained_LLMs_Are_Easily_Jailbroken_As_Browser_Agents.md)
 
 - [RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process](2024年10月11日/RePD_Defending_Jailbreak_Attack_through_a_Retrieval-based_Prompt_Decomposition_Process.md)
 
