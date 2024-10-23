@@ -1,5 +1,15 @@
 # 2024年10月
 
+2024年10月22日
+
+- [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
+
+    - [翻译: 优质育儿，幻觉消散——多智能体 LLM 的幻觉缓解之道](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
+
+- [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
+
+    - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
+
 2024年10月21日
 
 - [1024m at SMM4H 2024: Tasks 3, 5 & 6 -- Ensembles of Transformers and Large Language Models for Medical Text Classification](2024年10月21日/1024m_at_SMM4H_2024_Tasks_3,_5_&_6_--_Ensembles_of_Transformers_and_Large_Language_Models_for_Medical_Text_Classification.md)
@@ -166,6 +176,10 @@
 
     - [翻译: IBGP：探讨通信多智能体系统中零-shot 鲁棒性的不完美拜占庭将军问题](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
 
+- [Imprompter: Tricking LLM Agents into Improper Tool Use](2024年10月21日/Imprompter_Tricking_LLM_Agents_into_Improper_Tool_Use.md)
+
+    - [翻译: Imprompter：诱导 LLM 代理误用工具](2024年10月21日/Imprompter_Tricking_LLM_Agents_into_Improper_Tool_Use.md)
+
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
@@ -185,10 +199,6 @@
 - [Large Language Models Know What To Say But Not When To Speak](2024年10月21日/Large_Language_Models_Know_What_To_Say_But_Not_When_To_Speak.md)
 
     - [翻译: 大型语言模型虽能言善道，却不知何时该开口。](2024年10月21日/Large_Language_Models_Know_What_To_Say_But_Not_When_To_Speak.md)
-
-- [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月21日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
-
-    - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月21日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
 - [LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
 
@@ -217,6 +227,10 @@
 - [Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
 
     - [翻译: Mesa-Extrapolation：一种提升 LLM 外推能力的编织位置编码方法](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
+
+- [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
+
+    - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
 - [Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding](2024年10月21日/Mitigating_Hallucinations_of_Large_Language_Models_in_Medical_Information_Extraction_via_Contrastive_Decoding.md)
 
@@ -375,10 +389,6 @@
 - [CPE-Pro: A Structure-Sensitive Deep Learning Model for Protein Representation and Origin Evaluation](2024年10月20日/CPE-Pro_A_Structure-Sensitive_Deep_Learning_Model_for_Protein_Representation_and_Origin_Evaluation.md)
 
     - [翻译: CPE-Pro：一款结构敏感的深度学习模型，专为蛋白质表示与起源评估而设计。](2024年10月20日/CPE-Pro_A_Structure-Sensitive_Deep_Learning_Model_for_Protein_Representation_and_Origin_Evaluation.md)
-
-- [CROPE: Evaluating In-Context Adaptation of Vision and Language Models to Culture-Specific Concepts](2024年10月20日/CROPE_Evaluating_In-Context_Adaptation_of_Vision_and_Language_Models_to_Culture-Specific_Concepts.md)
-
-    - [翻译: CROPE：探索视觉与语言模型如何适应特定文化概念的上下文学习](2024年10月20日/CROPE_Evaluating_In-Context_Adaptation_of_Vision_and_Language_Models_to_Culture-Specific_Concepts.md)
 
 - [Customized FinGPT Search Agents Using Foundation Models](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
 
@@ -736,10 +746,6 @@
 
     - [翻译: “过去的幽灵”：通过主动用户交互，识别并解决 LLM 内存中的隐私泄露问题。](2024年10月18日/Ghost_of_the_past_identifying_and_resolving_privacy_leakage_from_LLM's_memory_through_proactive_user_interaction.md)
 
-- [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](2024年10月18日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
-
-    - [翻译: 优质育儿，幻觉消散——多智能体 LLM 的幻觉缓解之道](2024年10月18日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
-
 - [Harmony: A Home Agent for Responsive Management and Action Optimization with a Locally Deployed Large Language Model](2024年10月18日/Harmony_A_Home_Agent_for_Responsive_Management_and_Action_Optimization_with_a_Locally_Deployed_Large_Language_Model.md)
 
     - [翻译: Harmony：一个利用本地部署的大型语言模型，实现响应式管理和行动优化的家庭智能助手。](2024年10月18日/Harmony_A_Home_Agent_for_Responsive_Management_and_Action_Optimization_with_a_Locally_Deployed_Large_Language_Model.md)
@@ -748,10 +754,6 @@
 
     - [翻译: 多语言模型如何记住事实？探索其背后的记忆机制](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
 
-- [Imprompter: Tricking LLM Agents into Improper Tool Use](2024年10月18日/Imprompter_Tricking_LLM_Agents_into_Improper_Tool_Use.md)
-
-    - [翻译: Imprompter：诱导 LLM 代理误用工具](2024年10月18日/Imprompter_Tricking_LLM_Agents_into_Improper_Tool_Use.md)
-
 - [LoGU: Long-form Generation with Uncertainty Expressions](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
 
     - [翻译: LoGU：长篇生成中的不确定性表达](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
@@ -759,10 +761,6 @@
 - [MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based Inter-Robot Negotiation](2024年10月18日/MARLIN_Multi-Agent_Reinforcement_Learning_Guided_by_Language-Based_Inter-Robot_Negotiation.md)
 
     - [翻译: MARLIN：通过语言引导的机器人间协商实现的多智能体强化学习](2024年10月18日/MARLIN_Multi-Agent_Reinforcement_Learning_Guided_by_Language-Based_Inter-Robot_Negotiation.md)
-
-- [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月18日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
-
-    - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月18日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
 - [MoDification: Mixture of Depths Made Easy](2024年10月18日/MoDification_Mixture_of_Depths_Made_Easy.md)
 
@@ -1109,10 +1107,6 @@
 - [MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
-
-- [On the Role of Attention Heads in Large Language Model Safety](2024年10月17日/On_the_Role_of_Attention_Heads_in_Large_Language_Model_Safety.md)
-
-    - [翻译: 探讨大规模语言模型中注意力头在安全性方面的作用](2024年10月17日/On_the_Role_of_Attention_Heads_in_Large_Language_Model_Safety.md)
 
 - [Optimal Quantization for Matrix Multiplication](2024年10月17日/Optimal_Quantization_for_Matrix_Multiplication.md)
 
@@ -1816,17 +1810,9 @@
 
     - [翻译: MoTE：在视觉-语言到视频知识转移中，平衡泛化与专业化](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
 
-- [Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning](2024年10月14日/Parenting_Optimizing_Knowledge_Selection_of_Retrieval-Augmented_Language_Models_with_Parameter_Decoupling_and_Tailored_Tuning.md)
-
-    - [翻译: 育儿之道：通过参数解耦与定制调优，优化检索增强语言模型的知识选择](2024年10月14日/Parenting_Optimizing_Knowledge_Selection_of_Retrieval-Augmented_Language_Models_with_Parameter_Decoupling_and_Tailored_Tuning.md)
-
 - [QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios](2024年10月14日/QUITE_Quantifying_Uncertainty_in_Natural_Language_Text_in_Bayesian_Reasoning_Scenarios.md)
 
     - [翻译: QUITE：在贝叶斯推理背景下，精准量化自然语言文本的不确定性](2024年10月14日/QUITE_Quantifying_Uncertainty_in_Natural_Language_Text_in_Bayesian_Reasoning_Scenarios.md)
-
-- [Saliency Guided Optimization of Diffusion Latents](2024年10月14日/Saliency_Guided_Optimization_of_Diffusion_Latents.md)
-
-    - [翻译: 显著性引导的扩散潜在优化](2024年10月14日/Saliency_Guided_Optimization_of_Diffusion_Latents.md)
 
 - [SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers](2024年10月14日/SANA_Efficient_High-Resolution_Image_Synthesis_with_Linear_Diffusion_Transformers.md)
 
