@@ -1144,10 +1144,6 @@
 
     - [翻译: SeerAttention：让 LLMs 学会内在的稀疏注意力](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
 
-- [SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs](2024年10月17日/SimpleToM_Exposing_the_Gap_between_Explicit_ToM_Inference_and_Implicit_ToM_Application_in_LLMs.md)
-
-    - [翻译: SimpleToM：揭示了 LLM 中显式 ToM 推理与隐式 ToM 应用之间的差异](2024年10月17日/SimpleToM_Exposing_the_Gap_between_Explicit_ToM_Inference_and_Implicit_ToM_Application_in_LLMs.md)
-
 - [SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent](2024年10月17日/SRAP-Agent_Simulating_and_Optimizing_Scarce_Resource_Allocation_Policy_with_LLM-based_Agent.md)
 
     - [翻译: SRAP-Agent：借助 LLM 代理，模拟并优化稀缺资源的分配策略](2024年10月17日/SRAP-Agent_Simulating_and_Optimizing_Scarce_Resource_Allocation_Policy_with_LLM-based_Agent.md)
