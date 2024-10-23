@@ -2,6 +2,10 @@
 
 2024年10月22日
 
+- [Do LLMs estimate uncertainty well in instruction-following?](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
+
+    - [翻译: 大型语言模型在遵循指令时，能否准确评估不确定性？](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
+
 - [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
 
     - [翻译: 优质育儿，幻觉消散——多智能体 LLM 的幻觉缓解之道](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
@@ -9,6 +13,10 @@
 - [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
     - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
+
+- [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
+
+    - [翻译: Toolshed：借助先进的 RAG-Tool 融合与工具知识库，扩展工具化代理的能力](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
 
 2024年10月21日
 
@@ -694,10 +702,6 @@
 
     - [翻译: DistRL：专为设备控制代理设计的异步分布式强化学习框架](2024年10月18日/DistRL_An_Asynchronous_Distributed_Reinforcement_Learning_Framework_for_On-Device_Control_Agents.md)
 
-- [Do LLMs estimate uncertainty well in instruction-following?](2024年10月18日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
-
-    - [翻译: 大型语言模型在遵循指令时，能否准确评估不确定性？](2024年10月18日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
-
 - [E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
     - [翻译: E3D-GPT：为医疗视觉-语言模型打造的增强版 3D 视觉基础](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
@@ -837,10 +841,6 @@
 - [The multimode conditional quantum Entropy Power Inequality and the squashed entanglement of the extreme multimode bosonic Gaussian channels](2024年10月18日/The_multimode_conditional_quantum_Entropy_Power_Inequality_and_the_squashed_entanglement_of_the_extreme_multimode_bosonic_Gaussian_channels.md)
 
     - [翻译: 多模态条件量子熵幂不等式与极端多模态玻色子高斯通道的压缩纠缠](2024年10月18日/The_multimode_conditional_quantum_Entropy_Power_Inequality_and_the_squashed_entanglement_of_the_extreme_multimode_bosonic_Gaussian_channels.md)
-
-- [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](2024年10月18日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
-
-    - [翻译: Toolshed：借助先进的 RAG-Tool 融合与工具知识库，扩展工具化代理的能力](2024年10月18日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
 
 - [Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning](2024年10月18日/Towards_Robust_Knowledge_Representations_in_Multilingual_LLMs_for_Equivalence_and_Inheritance_based_Consistent_Reasoning.md)
 
@@ -1201,10 +1201,6 @@
 - [3D Gaussian Splatting in Robotics: A Survey](2024年10月16日/3D_Gaussian_Splatting_in_Robotics_A_Survey.md)
 
     - [翻译: 机器人领域的3D高斯喷射技术调查](2024年10月16日/3D_Gaussian_Splatting_in_Robotics_A_Survey.md)
-
-- [AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](2024年10月16日/AdaSwitch_Adaptive_Switching_between_Small_and_Large_Agents_for_Effective_Cloud-Local_Collaborative_Learning.md)
-
-    - [翻译: AdaSwitch：智能切换小代理与大代理，实现高效的云与本地协作学习](2024年10月16日/AdaSwitch_Adaptive_Switching_between_Small_and_Large_Agents_for_Effective_Cloud-Local_Collaborative_Learning.md)
 
 - [Agent Skill Acquisition for Large Language Models via CycleQD](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
 
@@ -2089,10 +2085,6 @@
 - [CogDevelop2K: Reversed Cognitive Development in Multimodal Large Language Models](2024年10月06日/CogDevelop2K_Reversed_Cognitive_Development_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: CogDevelop2K：探索多模态大型语言模型中的逆向认知发展](2024年10月06日/CogDevelop2K_Reversed_Cognitive_Development_in_Multimodal_Large_Language_Models.md)
-
-- [SafeLLM: Domain-Specific Safety Monitoring for Large Language Models: A Case Study of Offshore Wind Maintenance](2024年10月06日/SafeLLM_Domain-Specific_Safety_Monitoring_for_Large_Language_Models_A_Case_Study_of_Offshore_Wind_Maintenance.md)
-
-    - [翻译: SafeLLM：专为大型语言模型设计的领域特定安全监控系统，以海上风电维护为例进行探讨。](2024年10月06日/SafeLLM_Domain-Specific_Safety_Monitoring_for_Large_Language_Models_A_Case_Study_of_Offshore_Wind_Maintenance.md)
 
 - [SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
 
