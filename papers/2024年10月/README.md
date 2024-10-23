@@ -148,10 +148,6 @@
 
     - [翻译: 探索通过主动遗忘进行预训练，以提升解码器语言模型的跨语言迁移能力。](2024年10月21日/Exploring_Pretraining_via_Active_Forgetting_for_Improving_Cross_Lingual_Transfer_for_Decoder_Language_Models.md)
 
-- [Extracting Spatiotemporal Data from Gradients with Large Language Models](2024年10月21日/Extracting_Spatiotemporal_Data_from_Gradients_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型从梯度中提取时空数据](2024年10月21日/Extracting_Spatiotemporal_Data_from_Gradients_with_Large_Language_Models.md)
-
 - [Fine-Tuning LLMs for Reliable Medical Question-Answering Services](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
 
     - [翻译: 优化大型语言模型，打造可靠的医疗问答服务](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
@@ -556,10 +552,6 @@
 
     - [翻译: 大型语言模型的破解与漏洞缓解](2024年10月19日/Jailbreaking_and_Mitigation_of_Vulnerabilities_in_Large_Language_Models.md)
 
-- [Less is More: Parameter-Efficient Selection of Intermediate Tasks for Transfer Learning](2024年10月19日/Less_is_More_Parameter-Efficient_Selection_of_Intermediate_Tasks_for_Transfer_Learning.md)
-
-    - [翻译: 少即是多：精简中间任务，优化迁移学习](2024年10月19日/Less_is_More_Parameter-Efficient_Selection_of_Intermediate_Tasks_for_Transfer_Learning.md)
-
 - [LLaVA-Ultra: Large Chinese Language and Vision Assistant for Ultrasound](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
 
     - [翻译: LLaVA-Ultra：专为超声波设计的大型中文语言与视觉助手](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
@@ -646,10 +638,6 @@
 
     - [翻译: 超越二元对立，通过角色识别与参与度测量，实现对 LLM 生成文本的精细检测。](2024年10月18日/Beyond_Binary_Towards_Fine-Grained_LLM-Generated_Text_Detection_via_Role_Recognition_and_Involvement_Measurement.md)
 
-- [ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM](2024年10月18日/ChartifyText_Automated_Chart_Generation_from_Data-Involved_Texts_via_LLM.md)
-
-    - [翻译: ChartifyText：利用 LLM 技术，自动将包含数据的文本转化为图表。](2024年10月18日/ChartifyText_Automated_Chart_Generation_from_Data-Involved_Texts_via_LLM.md)
-
 - [CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
 
     - [翻译: CoMAL：混合自主交通中的协作多智能体大型语言模型](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
@@ -729,10 +717,6 @@
 - [GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings](2024年10月18日/GenEOL_Harnessing_the_Generative_Power_of_LLMs_for_Training-Free_Sentence_Embeddings.md)
 
     - [翻译: GenEOL：释放 LLM 的生成力，实现无需训练的句子嵌入](2024年10月18日/GenEOL_Harnessing_the_Generative_Power_of_LLMs_for_Training-Free_Sentence_Embeddings.md)
-
-- ["Ghost of the past": identifying and resolving privacy leakage from LLM's memory through proactive user interaction](2024年10月18日/Ghost_of_the_past_identifying_and_resolving_privacy_leakage_from_LLM's_memory_through_proactive_user_interaction.md)
-
-    - [翻译: “过去的幽灵”：通过主动用户交互，识别并解决 LLM 内存中的隐私泄露问题。](2024年10月18日/Ghost_of_the_past_identifying_and_resolving_privacy_leakage_from_LLM's_memory_through_proactive_user_interaction.md)
 
 - [Harmony: A Home Agent for Responsive Management and Action Optimization with a Locally Deployed Large Language Model](2024年10月18日/Harmony_A_Home_Agent_for_Responsive_Management_and_Action_Optimization_with_a_Locally_Deployed_Large_Language_Model.md)
 
