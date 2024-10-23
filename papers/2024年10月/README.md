@@ -190,10 +190,6 @@
 
     - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月21日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
-- [LDAdam: Adaptive Optimization from Low-Dimensional Gradient Statistics](2024年10月21日/LDAdam_Adaptive_Optimization_from_Low-Dimensional_Gradient_Statistics.md)
-
-    - [翻译: LDAdam：基于低维梯度统计的自适应优化](2024年10月21日/LDAdam_Adaptive_Optimization_from_Low-Dimensional_Gradient_Statistics.md)
-
 - [LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
 
     - [翻译: LiMTR：利用多模态特征集成，精准预测多样道路使用者的时间序列运动。](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
@@ -305,10 +301,6 @@
 - [SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
 
     - [翻译: SMILES-Prompting：化学合成领域中，破解 LLM 的新颖策略](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
-
-- [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](2024年10月21日/Steering_Knowledge_Selection_Behaviours_in_LLMs_via_SAE-Based_Representation_Engineering.md)
-
-    - [翻译: 利用 SAE 表示工程，精准引导 LLM 中的知识选择行为](2024年10月21日/Steering_Knowledge_Selection_Behaviours_in_LLMs_via_SAE-Based_Representation_Engineering.md)
 
 - [Students Rather Than Experts: A New AI For Education Pipeline To Model More Human-Like And Personalised Early Adolescences](2024年10月21日/Students_Rather_Than_Experts_A_New_AI_For_Education_Pipeline_To_Model_More_Human-Like_And_Personalised_Early_Adolescences.md)
 
@@ -876,10 +868,6 @@
 
     - [翻译: 当大型语言模型走向网络：Web 赋能的 LLM 带来的新兴威胁](2024年10月18日/When_LLMs_Go_Online_The_Emerging_Threat_of_Web-Enabled_LLMs.md)
 
-- [Zero-shot Action Localization via the Confidence of Large Vision-Language Models](2024年10月18日/Zero-shot_Action_Localization_via_the_Confidence_of_Large_Vision-Language_Models.md)
-
-    - [翻译: 零-shot 动作定位依赖于大型视觉-语言模型的置信度。](2024年10月18日/Zero-shot_Action_Localization_via_the_Confidence_of_Large_Vision-Language_Models.md)
-
 2024年10月17日
 
 - [A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement](2024年10月17日/A_Common_Pitfall_of_Margin-based_Language_Model_Alignment_Gradient_Entanglement.md)
@@ -1145,10 +1133,6 @@
 - [Quantity vs. Quality of Monolingual Source Data in Automatic Text Translation: Can It Be Too Little If It Is Too Good?](2024年10月17日/Quantity_vs._Quality_of_Monolingual_Source_Data_in_Automatic_Text_Translation_Can_It_Be_Too_Little_If_It_Is_Too_Good.md)
 
     - [翻译: 在自动文本翻译中，单语源数据的数量与质量孰重孰轻？质量虽高，数量不足是否仍能胜任？](2024年10月17日/Quantity_vs._Quality_of_Monolingual_Source_Data_in_Automatic_Text_Translation_Can_It_Be_Too_Little_If_It_Is_Too_Good.md)
-
-- [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](2024年10月17日/RA-BLIP_Multimodal_Adaptive_Retrieval-Augmented_Bootstrapping_Language-Image_Pre-training.md)
-
-    - [翻译: RA-BLIP：多模态自适应检索增强的语言-图像预训练](2024年10月17日/RA-BLIP_Multimodal_Adaptive_Retrieval-Augmented_Bootstrapping_Language-Image_Pre-training.md)
 
 - [RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards](2024年10月17日/RAG-DDR_Optimizing_Retrieval-Augmented_Generation_Using_Differentiable_Data_Rewards.md)
 
@@ -2069,10 +2053,6 @@
 - [SocialGaze: Improving the Integration of Human Social Norms in Large Language Models](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
     - [翻译: SocialGaze：提升大型语言模型中人类社会规范的融合](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
-
-- [StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
-
-    - [翻译: StructRAG：通过推理时的混合信息结构化，大幅提升 LLM 在知识密集型推理中的表现。](2024年10月11日/StructRAG_Boosting_Knowledge_Intensive_Reasoning_of_LLMs_via_Inference-time_Hybrid_Information_Structurization.md)
 
 - [When Graph meets Multimodal: Benchmarking on Multimodal Attributed Graphs Learning](2024年10月11日/When_Graph_meets_Multimodal_Benchmarking_on_Multimodal_Attributed_Graphs_Learning.md)
 
