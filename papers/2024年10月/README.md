@@ -1520,10 +1520,6 @@
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
-- [Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models](2024年10月15日/Layer-wise_Importance_Matters_Less_Memory_for_Better_Performance_in_Parameter-efficient_Fine-tuning_of_Large_Language_Models.md)
-
-    - [翻译: 逐层重要性不容忽视：在大型语言模型的参数高效微调中，减少内存占用反而能提升性能。](2024年10月15日/Layer-wise_Importance_Matters_Less_Memory_for_Better_Performance_in_Parameter-efficient_Fine-tuning_of_Large_Language_Models.md)
-
 - [Leveraging LLM Embeddings for Cross Dataset Label Alignment and Zero Shot Music Emotion Prediction](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
 
     - [翻译: 借助 LLM 嵌入，实现跨数据集标签对齐，并进行零-shot 音乐情感预测。](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
