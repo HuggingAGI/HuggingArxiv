@@ -1234,10 +1234,6 @@
 
     - [翻译: 在客户服务中提升聊天机器人知识：利用大型语言模型生成上下文感知的相似问题](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
 
-- [Explainable Moral Values: a neuro-symbolic approach to value classification](2024年10月16日/Explainable_Moral_Values_a_neuro-symbolic_approach_to_value_classification.md)
-
-    - [翻译: 道德价值观的可解释性：神经符号方法在价值分类中的应用](2024年10月16日/Explainable_Moral_Values_a_neuro-symbolic_approach_to_value_classification.md)
-
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
@@ -1666,10 +1662,6 @@
 
     - [翻译: 借助 LLM 驱动的交互代理，提升用户在数字隐私管理中的掌控力](2024年10月14日/Empowering_Users_in_Digital_Privacy_Management_through_Interactive_LLM-Based_Agents.md)
 
-- [F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
-
-    - [翻译: F2A：通过伪装安全检测代理实现提示注入的创新策略](2024年10月14日/F2A_An_Innovative_Approach_for_Prompt_Injection_by_Utilizing_Feign_Security_Detection_Agents.md)
-
 - [ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
 
     - [翻译: ForgeryGPT：一款多模态大型语言模型，专为可解释的图像伪造检测与定位而生。](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
@@ -1745,10 +1737,6 @@
 - [QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios](2024年10月14日/QUITE_Quantifying_Uncertainty_in_Natural_Language_Text_in_Bayesian_Reasoning_Scenarios.md)
 
     - [翻译: QUITE：在贝叶斯推理背景下，精准量化自然语言文本的不确定性](2024年10月14日/QUITE_Quantifying_Uncertainty_in_Natural_Language_Text_in_Bayesian_Reasoning_Scenarios.md)
-
-- [SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers](2024年10月14日/SANA_Efficient_High-Resolution_Image_Synthesis_with_Linear_Diffusion_Transformers.md)
-
-    - [翻译: SANA：通过线性扩散变换器，实现高效的高分辨率图像合成](2024年10月14日/SANA_Efficient_High-Resolution_Image_Synthesis_with_Linear_Diffusion_Transformers.md)
 
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
