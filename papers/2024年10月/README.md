@@ -76,10 +76,6 @@
 
     - [翻译: 打造编码助手：基于检索增强的语言模型](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
 
-- [Can Knowledge Editing Really Correct Hallucinations?](2024年10月21日/Can_Knowledge_Editing_Really_Correct_Hallucinations.md)
-
-    - [翻译: 知识编辑能否真正修正幻觉？](2024年10月21日/Can_Knowledge_Editing_Really_Correct_Hallucinations.md)
-
 - [Can Large Audio-Language Models Truly Hear? Tackling Hallucinations with Multi-Task Assessment and Stepwise Audio Reasoning](2024年10月21日/Can_Large_Audio-Language_Models_Truly_Hear_Tackling_Hallucinations_with_Multi-Task_Assessment_and_Stepwise_Audio_Reasoning.md)
 
     - [翻译: 大型音频-语言模型真的能听懂吗？通过多任务评估和逐步音频推理，我们正努力解决幻觉问题。](2024年10月21日/Can_Large_Audio-Language_Models_Truly_Hear_Tackling_Hallucinations_with_Multi-Task_Assessment_and_Stepwise_Audio_Reasoning.md)
@@ -381,10 +377,6 @@
 - [BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Compression](2024年10月20日/BRIEF_Bridging_Retrieval_and_Inference_for_Multi-hop_Reasoning_via_Compression.md)
 
     - [翻译: BRIEF：通过压缩技术，巧妙连接检索与推理，助力多跳推理。](2024年10月20日/BRIEF_Bridging_Retrieval_and_Inference_for_Multi-hop_Reasoning_via_Compression.md)
-
-- [Causality for Large Language Models](2024年10月20日/Causality_for_Large_Language_Models.md)
-
-    - [翻译: 探索大型语言模型中的因果关系](2024年10月20日/Causality_for_Large_Language_Models.md)
 
 - [Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
 
