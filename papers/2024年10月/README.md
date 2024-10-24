@@ -12,21 +12,105 @@
 
 2024年10月22日
 
+- [AskBeacon -- Performing genomic data exchange and analytics with natural language](2024年10月22日/AskBeacon_--_Performing_genomic_data_exchange_and_analytics_with_natural_language.md)
+
+    - [翻译: AskBeacon——用自然语言进行基因组数据交换和分析](2024年10月22日/AskBeacon_--_Performing_genomic_data_exchange_and_analytics_with_natural_language.md)
+
+- [Atomic Fact Decomposition Helps Attributed Question Answering](2024年10月22日/Atomic_Fact_Decomposition_Helps_Attributed_Question_Answering.md)
+
+    - [翻译: 原子事实分解有助于属性问答](2024年10月22日/Atomic_Fact_Decomposition_Helps_Attributed_Question_Answering.md)
+
+- [AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models](2024年10月22日/AttriPrompter_Auto-Prompting_with_Attribute_Semantics_for_Zero-shot_Nuclei_Detection_via_Visual-Language_Pre-trained_Models.md)
+
+    - [翻译: AttriPrompter：通过属性语义进行自动提示，用于通过视觉语言预训练模型进行零样本细胞核检测](2024年10月22日/AttriPrompter_Auto-Prompting_with_Attribute_Semantics_for_Zero-shot_Nuclei_Detection_via_Visual-Language_Pre-trained_Models.md)
+
+- [Beyond Retrieval: Generating Narratives in Conversational Recommender Systems](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
+
+    - [翻译: 超越检索：在会话推荐系统中生成叙述](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
+
+- [Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?](2024年10月22日/Bridging_Search_and_Recommendation_in_Generative_Retrieval_Does_One_Task_Help_the_Other.md)
+
+    - [翻译: 在生成式检索中架起搜索和推荐的桥梁：一项任务会对另一项任务有帮助吗？](2024年10月22日/Bridging_Search_and_Recommendation_in_Generative_Retrieval_Does_One_Task_Help_the_Other.md)
+
+- [Can Large Language Models Act as Ensembler for Multi-GNNs?](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
+
+    - [翻译: 大型语言模型能作为多 GNN 的集成器吗？](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
+
+- [ClimaQA: An Automated Evaluation Framework for Climate Foundation Models](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
+
+    - [翻译: ClimaQA：气候基础模型的一个自动评估框架](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
+
+- [Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots](2024年10月22日/Combining_Ontological_Knowledge_and_Large_Language_Model_for_User-Friendly_Service_Robots.md)
+
+    - [翻译: 将本体知识和大型语言模型相结合用于用户友好型服务机器人](2024年10月22日/Combining_Ontological_Knowledge_and_Large_Language_Model_for_User-Friendly_Service_Robots.md)
+
+- [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](2024年10月22日/Context-aware_Inductive_Knowledge_Graph_Completion_with_Latent_Type_Constraints_and_Subgraph_Reasoning.md)
+
+    - [翻译: 具有潜在类型约束和子图推理的上下文感知归纳知识图谱补全](2024年10月22日/Context-aware_Inductive_Knowledge_Graph_Completion_with_Latent_Type_Constraints_and_Subgraph_Reasoning.md)
+
+- [Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models](2024年10月22日/Controlled_Low-Rank_Adaptation_with_Subspace_Regularization_for_Continued_Training_on_Large_Language_Models.md)
+
+    - [翻译: 对于大型语言模型的持续训练，采用子空间正则化的受控低秩适应](2024年10月22日/Controlled_Low-Rank_Adaptation_with_Subspace_Regularization_for_Continued_Training_on_Large_Language_Models.md)
+
 - [Do LLMs estimate uncertainty well in instruction-following?](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
 
     - [翻译: 大型语言模型在遵循指令时，能否准确评估不确定性？](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
+
+- [Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
+
+    - [翻译: 通过多功能 TTS 增强低资源 ASR：弥合数据差距](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
+
+- [Forewarned is Forearmed: Leveraging LLMs for Data Synthesis through Failure-Inducing Exploration](2024年10月22日/Forewarned_is_Forearmed_Leveraging_LLMs_for_Data_Synthesis_through_Failure-Inducing_Exploration.md)
+
+    - [翻译: 预先警告就是预先武装：通过引发失败的探索利用大型语言模型进行数据合成](2024年10月22日/Forewarned_is_Forearmed_Leveraging_LLMs_for_Data_Synthesis_through_Failure-Inducing_Exploration.md)
 
 - [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
 
     - [翻译: 优质育儿，幻觉消散——多智能体 LLM 的幻觉缓解之道](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
 
+- [Improving Causal Reasoning in Large Language Models: A Survey](2024年10月22日/Improving_Causal_Reasoning_in_Large_Language_Models_A_Survey.md)
+
+    - [翻译: 改进大型语言模型中的因果推理：一项调查](2024年10月22日/Improving_Causal_Reasoning_in_Large_Language_Models_A_Survey.md)
+
+- [Influential Language Data Selection via Gradient Trajectory Pursuit](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
+
+    - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
+
 - [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
     - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
+- [Learning Mathematical Rules with Large Language Models](2024年10月22日/Learning_Mathematical_Rules_with_Large_Language_Models.md)
+
+    - [翻译: 使用大型语言模型学习数学规则](2024年10月22日/Learning_Mathematical_Rules_with_Large_Language_Models.md)
+
+- [Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Models Alignment](2024年10月22日/Magnetic_Preference_Optimization_Achieving_Last-iterate_Convergence_for_Language_Models_Alignment.md)
+
+    - [翻译: 磁性偏好优化：实现语言模型对齐的最后迭代收敛](2024年10月22日/Magnetic_Preference_Optimization_Achieving_Last-iterate_Convergence_for_Language_Models_Alignment.md)
+
+- [Methods of improving LLM training stability](2024年10月22日/Methods_of_improving_LLM_training_stability.md)
+
+    - [翻译: 提高大型语言模型训练稳定性的方法](2024年10月22日/Methods_of_improving_LLM_training_stability.md)
+
 - [On the Diversity of Synthetic Data and its Impact on Training Large Language Models](2024年10月22日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
 
     - [翻译: 合成数据的多样性如何影响大型语言模型的训练？](2024年10月22日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
+
+- [Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation](2024年10月22日/Optimizing_Chain-of-Thought_Reasoning_Tackling_Arranging_Bottleneck_via_Plan_Augmentation.md)
+
+    - [翻译: 优化思维链推理：通过计划增强解决排列瓶颈](2024年10月22日/Optimizing_Chain-of-Thought_Reasoning_Tackling_Arranging_Bottleneck_via_Plan_Augmentation.md)
+
+- [PLDR-LLM: Large Language Model from Power Law Decoder Representations](2024年10月22日/PLDR-LLM_Large_Language_Model_from_Power_Law_Decoder_Representations.md)
+
+    - [翻译: PLDR-LLM：来自幂律解码器表示的大型语言模型](2024年10月22日/PLDR-LLM_Large_Language_Model_from_Power_Law_Decoder_Representations.md)
+
+- [Progressive Compositionality In Text-to-Image Generative Models](2024年10月22日/Progressive_Compositionality_In_Text-to-Image_Generative_Models.md)
+
+    - [翻译: 文本到图像生成模型中的渐进组合性](2024年10月22日/Progressive_Compositionality_In_Text-to-Image_Generative_Models.md)
+
+- [SmartGSN: a generative AI-powered online tool for the management of assurance cases](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
+
+    - [翻译: SmartGSN：一种由生成式人工智能驱动的用于保证案例管理的在线工具](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
 
 - [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
 
@@ -257,10 +341,6 @@
 - [Opportunities and Challenges of Generative-AI in Finance](2024年10月21日/Opportunities_and_Challenges_of_Generative-AI_in_Finance.md)
 
     - [翻译: 金融领域中生成式人工智能的机遇与挑战](2024年10月21日/Opportunities_and_Challenges_of_Generative-AI_in_Finance.md)
-
-- [Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages](2024年10月21日/Pangea_A_Fully_Open_Multilingual_Multimodal_LLM_for_39_Languages.md)
-
-    - [翻译: Pangea：一款完全开放的多语言多模态 LLM，支持 39 种语言](2024年10月21日/Pangea_A_Fully_Open_Multilingual_Multimodal_LLM_for_39_Languages.md)
 
 - [Pre-training Distillation for Large Language Models: A Design Space Exploration](2024年10月21日/Pre-training_Distillation_for_Large_Language_Models_A_Design_Space_Exploration.md)
 
@@ -735,10 +815,6 @@
 - [REEF: Representation Encoding Fingerprints for Large Language Models](2024年10月18日/REEF_Representation_Encoding_Fingerprints_for_Large_Language_Models.md)
 
     - [翻译: REEF：大型语言模型的表示编码指纹](2024年10月18日/REEF_Representation_Encoding_Fingerprints_for_Large_Language_Models.md)
-
-- [Revisiting SLO and Goodput Metrics in LLM Serving](2024年10月18日/Revisiting_SLO_and_Goodput_Metrics_in_LLM_Serving.md)
-
-    - [翻译: 重探 LLM 服务中的 SLO 与 Goodput 指标](2024年10月18日/Revisiting_SLO_and_Goodput_Metrics_in_LLM_Serving.md)
 
 - [SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation](2024年10月18日/SemiHVision_Enhancing_Medical_Multimodal_Models_with_a_Semi-Human_Annotated_Dataset_and_Fine-Tuned_Instruction_Generation.md)
 
@@ -1709,10 +1785,6 @@
 - [M2M-Gen: A Multimodal Framework for Automated Background Music Generation in Japanese Manga Using Large Language Models](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
 
     - [翻译: M2M-Gen：一个利用大型语言模型自动为日本漫画生成背景音乐的多模态框架](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
-
-- [MIRAGE: Multimodal Identification and Recognition of Annotations in Indian General Prescriptions](2024年10月13日/MIRAGE_Multimodal_Identification_and_Recognition_of_Annotations_in_Indian_General_Prescriptions.md)
-
-    - [翻译: MIRAGE：印度通用处方中注释的多模态识别与识别系统](2024年10月13日/MIRAGE_Multimodal_Identification_and_Recognition_of_Annotations_in_Indian_General_Prescriptions.md)
 
 - [MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models](2024年10月13日/MMCOMPOSITION_Revisiting_the_Compositionality_of_Pre-trained_Vision-Language_Models.md)
 
