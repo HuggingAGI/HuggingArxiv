@@ -434,10 +434,6 @@
 
     - [翻译: 模态公平偏好优化，助力多模态语言模型可信对齐](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
 
-- [Neural Normalized Compression Distance and the Disconnect Between Compression and Classification](2024年10月20日/Neural_Normalized_Compression_Distance_and_the_Disconnect_Between_Compression_and_Classification.md)
-
-    - [翻译: 神经归一化压缩距离揭示了压缩与分类之间的鸿沟](2024年10月20日/Neural_Normalized_Compression_Distance_and_the_Disconnect_Between_Compression_and_Classification.md)
-
 - [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
 
     - [翻译: 在线 RLHF 与神经参数化的全局收敛性探讨](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
@@ -793,10 +789,6 @@
 - [Supervised Chain of Thought](2024年10月18日/Supervised_Chain_of_Thought.md)
 
     - [翻译: 思维链监督](2024年10月18日/Supervised_Chain_of_Thought.md)
-
-- [SylloBio-NLI: Evaluating Large Language Models on Biomedical Syllogistic Reasoning](2024年10月18日/SylloBio-NLI_Evaluating_Large_Language_Models_on_Biomedical_Syllogistic_Reasoning.md)
-
-    - [翻译: SylloBio-NLI：探索大型语言模型在生物医学三段论推理中的表现](2024年10月18日/SylloBio-NLI_Evaluating_Large_Language_Models_on_Biomedical_Syllogistic_Reasoning.md)
 
 - [Teaching Models to Balance Resisting and Accepting Persuasion](2024年10月18日/Teaching_Models_to_Balance_Resisting_and_Accepting_Persuasion.md)
 
