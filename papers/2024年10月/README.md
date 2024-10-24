@@ -382,10 +382,6 @@
 
     - [翻译: 揭秘并缓解 Mamba 的局部模式捷径](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
-- [SeisLM: a Foundation Model for Seismic Waveforms](2024年10月21日/SeisLM_a_Foundation_Model_for_Seismic_Waveforms.md)
-
-    - [翻译: SeisLM：地震波形的基础模型](2024年10月21日/SeisLM_a_Foundation_Model_for_Seismic_Waveforms.md)
-
 - [Self-Explained Keywords Empower Large Language Models for Code Generation](2024年10月21日/Self-Explained_Keywords_Empower_Large_Language_Models_for_Code_Generation.md)
 
     - [翻译: 自我解释的关键词助力大型语言模型实现代码生成](2024年10月21日/Self-Explained_Keywords_Empower_Large_Language_Models_for_Code_Generation.md)
@@ -881,10 +877,6 @@
 - [An Active Learning Framework for Inclusive Generation by Large Language Models](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
 
     - [翻译: 大型语言模型包容性生成的主动学习框架](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
-
-- [A Proposal for Uncovering Hidden Social Bots via Genetic Similarity](2024年10月17日/A_Proposal_for_Uncovering_Hidden_Social_Bots_via_Genetic_Similarity.md)
-
-    - [翻译: 揭秘隐藏社交机器人的遗传相似性方案](2024年10月17日/A_Proposal_for_Uncovering_Hidden_Social_Bots_via_Genetic_Similarity.md)
 
 - [AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
