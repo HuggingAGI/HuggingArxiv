@@ -24,6 +24,10 @@
 
     - [翻译: UnifiedVisionGPT：采用广义多模态框架，优化视觉导向的人工智能流程](2023年11月16日/UnifiedVisionGPT_Streamlining_Vision-Oriented_AI_through_Generalized_Multimodal_Framework.md)
 
+- [When "A Helpful Assistant" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models](2023年11月16日/When_A_Helpful_Assistant_Is_Not_Really_Helpful_Personas_in_System_Prompts_Do_Not_Improve_Performances_of_Large_Language_Models.md)
+
+    - [翻译: 当“一个有帮助的助手”并非真的有帮助：系统提示中的角色设定并不能提高大型语言模型的性能。](2023年11月16日/When_A_Helpful_Assistant_Is_Not_Really_Helpful_Personas_in_System_Prompts_Do_Not_Improve_Performances_of_Large_Language_Models.md)
+
 2023年11月07日
 
 - [A Simple yet Efficient Ensemble Approach for AI-generated Text Detection](2023年11月07日/A_Simple_yet_Efficient_Ensemble_Approach_for_AI-generated_Text_Detection.md)

@@ -6,6 +6,10 @@
 
     - [翻译: IBGP：探讨通信多智能体系统中零-shot 鲁棒性的不完美拜占庭将军问题](2024年10月23日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
 
+- [Magnetic field sorting of superconducting graphite particles with T$_c$$>$400K](2024年10月23日/Magnetic_field_sorting_of_superconducting_graphite_particles_with_T$_c$$$400K.md)
+
+    - [翻译: 具有 T$_c$$>$400K 的超导石墨颗粒的磁场分选](2024年10月23日/Magnetic_field_sorting_of_superconducting_graphite_particles_with_T$_c$$$400K.md)
+
 - [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
 
     - [翻译: OpenMU：音乐理解的万能工具](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
@@ -115,6 +119,10 @@
 - [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
 
     - [翻译: Toolshed：借助先进的 RAG-Tool 融合与工具知识库，扩展工具化代理的能力](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
+
+- [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
+
+    - [翻译: xLSTM-Mixer：通过标量记忆混合进行多元时间序列预测](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
 
 2024年10月21日
 
@@ -1204,6 +1212,10 @@
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
+- [Geometric Trajectory Diffusion Models](2024年10月16日/Geometric_Trajectory_Diffusion_Models.md)
+
+    - [翻译: 几何轨迹扩散模型](2024年10月16日/Geometric_Trajectory_Diffusion_Models.md)
+
 - [Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
 
     - [翻译: 几何感知生成自动编码器，专为扭曲黎曼度量学习和数据流形上的生成建模而设计](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
@@ -1235,6 +1247,10 @@
 - [LLM-based Translation Inference with Iterative Bilingual Understanding](2024年10月16日/LLM-based_Translation_Inference_with_Iterative_Bilingual_Understanding.md)
 
     - [翻译: 基于LLM的翻译推理：迭代双语理解](2024年10月16日/LLM-based_Translation_Inference_with_Iterative_Bilingual_Understanding.md)
+
+- [Loss Landscape Characterization of Neural Networks without Over-Parametrization](2024年10月16日/Loss_Landscape_Characterization_of_Neural_Networks_without_Over-Parametrization.md)
+
+    - [翻译: 没有过度参数化的神经网络的损失景观特征](2024年10月16日/Loss_Landscape_Characterization_of_Neural_Networks_without_Over-Parametrization.md)
 
 - [MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
 
