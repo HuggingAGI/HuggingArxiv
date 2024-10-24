@@ -720,6 +720,10 @@
 
     - [翻译: DistRL：专为设备控制代理设计的异步分布式强化学习框架](2024年10月18日/DistRL_An_Asynchronous_Distributed_Reinforcement_Learning_Framework_for_On-Device_Control_Agents.md)
 
+- [Dynamic Negative Guidance of Diffusion Models](2024年10月18日/Dynamic_Negative_Guidance_of_Diffusion_Models.md)
+
+    - [翻译: 扩散模型的动态负面引导](2024年10月18日/Dynamic_Negative_Guidance_of_Diffusion_Models.md)
+
 - [E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
     - [翻译: E3D-GPT：为医疗视觉-语言模型打造的增强版 3D 视觉基础](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
