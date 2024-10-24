@@ -298,10 +298,6 @@
 
     - [翻译: LLM4GRN：利用 LLM 探索因果基因调控网络，并通过合成数据生成进行评估。](2024年10月21日/LLM4GRN_Discovering_Causal_Gene_Regulatory_Networks_with_LLMs_--_Evaluation_through_Synthetic_Data_Generation.md)
 
-- [LMHaze: Intensity-aware Image Dehazing with a Large-scale Multi-intensity Real Haze Dataset](2024年10月21日/LMHaze_Intensity-aware_Image_Dehazing_with_a_Large-scale_Multi-intensity_Real_Haze_Dataset.md)
-
-    - [翻译: LMHaze：基于大规模多强度真实雾霾数据集的强度感知图像去雾技术](2024年10月21日/LMHaze_Intensity-aware_Image_Dehazing_with_a_Large-scale_Multi-intensity_Real_Haze_Dataset.md)
-
 - [Long Term Memory: The Foundation of AI Self-Evolution](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
 
     - [翻译: 长期记忆，乃 AI 自我进化的基石。](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
@@ -756,10 +752,6 @@
 
     - [翻译: GenEOL：释放 LLM 的生成力，实现无需训练的句子嵌入](2024年10月18日/GenEOL_Harnessing_the_Generative_Power_of_LLMs_for_Training-Free_Sentence_Embeddings.md)
 
-- [Harmony: A Home Agent for Responsive Management and Action Optimization with a Locally Deployed Large Language Model](2024年10月18日/Harmony_A_Home_Agent_for_Responsive_Management_and_Action_Optimization_with_a_Locally_Deployed_Large_Language_Model.md)
-
-    - [翻译: Harmony：一个利用本地部署的大型语言模型，实现响应式管理和行动优化的家庭智能助手。](2024年10月18日/Harmony_A_Home_Agent_for_Responsive_Management_and_Action_Optimization_with_a_Locally_Deployed_Large_Language_Model.md)
-
 - [How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
 
     - [翻译: 多语言模型如何记住事实？探索其背后的记忆机制](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
@@ -893,10 +885,6 @@
 - [Automating IETF Insights generation with AI](2024年10月17日/Automating_IETF_Insights_generation_with_AI.md)
 
     - [翻译: AI 助力 IETF 洞察自动化生成](2024年10月17日/Automating_IETF_Insights_generation_with_AI.md)
-
-- [BenTo: Benchmark Task Reduction with In-Context Transferability](2024年10月17日/BenTo_Benchmark_Task_Reduction_with_In-Context_Transferability.md)
-
-    - [翻译: BenTo：利用上下文可迁移性进行基准任务的简化](2024年10月17日/BenTo_Benchmark_Task_Reduction_with_In-Context_Transferability.md)
 
 - [Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?](2024年10月17日/Bias_in_the_Mirror__Are_LLMs_opinions_robust_to_their_own_adversarial_attacks_.md)
 
@@ -1235,10 +1223,6 @@
 - [KcMF: A Knowledge-compliant Framework for Schema and Entity Matching with Fine-tuning-free LLMs](2024年10月16日/KcMF_A_Knowledge-compliant_Framework_for_Schema_and_Entity_Matching_with_Fine-tuning-free_LLMs.md)
 
     - [翻译: KcMF：一个无需微调的大型语言模型框架，专为模式和实体匹配设计，确保知识合规性。](2024年10月16日/KcMF_A_Knowledge-compliant_Framework_for_Schema_and_Entity_Matching_with_Fine-tuning-free_LLMs.md)
-
-- [Large Language Model-driven Multi-Agent Simulation for News Diffusion Under Different Network Structures](2024年10月16日/Large_Language_Model-driven_Multi-Agent_Simulation_for_News_Diffusion_Under_Different_Network_Structures.md)
-
-    - [翻译: 基于大型语言模型的多智能体模拟，探索不同网络结构下新闻的扩散机制](2024年10月16日/Large_Language_Model-driven_Multi-Agent_Simulation_for_News_Diffusion_Under_Different_Network_Structures.md)
 
 - [Learning to Predict Usage Options of Product Reviews with LLM-Generated Labels](2024年10月16日/Learning_to_Predict_Usage_Options_of_Product_Reviews_with_LLM-Generated_Labels.md)
 
