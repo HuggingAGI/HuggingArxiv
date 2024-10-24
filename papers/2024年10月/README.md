@@ -600,10 +600,6 @@
 
 2024年10月18日
 
-- [Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents](2024年10月18日/Agents4PLC_Automating_Closed-loop_PLC_Code_Generation_and_Verification_in_Industrial_Control_Systems_using_LLM-based_Agents.md)
-
-    - [翻译: Agents4PLC：借助 LLM 代理，自动化工业控制系统中的闭环 PLC 代码生成与验证](2024年10月18日/Agents4PLC_Automating_Closed-loop_PLC_Code_Generation_and_Verification_in_Industrial_Control_Systems_using_LLM-based_Agents.md)
-
 - [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
 
     - [翻译: 基于动态反馈的强化学习奖励设计框架，由大型语言模型驱动](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
@@ -683,10 +679,6 @@
 - [Enhancing Cryptocurrency Market Forecasting: Advanced Machine Learning Techniques and Industrial Engineering Contributions](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
 
     - [翻译: 提升加密货币市场预测：融合先进机器学习技术与工业工程智慧](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
-
-- [Enhancing Large Language Models' Situated Faithfulness to External Contexts](2024年10月18日/Enhancing_Large_Language_Models'_Situated_Faithfulness_to_External_Contexts.md)
-
-    - [翻译: 提升大型语言模型对外部环境的适应性与准确性](2024年10月18日/Enhancing_Large_Language_Models'_Situated_Faithfulness_to_External_Contexts.md)
 
 - [EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search](2024年10月18日/EvoPress_Towards_Optimal_Dynamic_Model_Compression_via_Evolutionary_Search.md)
 
@@ -1053,10 +1045,6 @@
 - [RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards](2024年10月17日/RAG-DDR_Optimizing_Retrieval-Augmented_Generation_Using_Differentiable_Data_Rewards.md)
 
     - [翻译: RAG-DDR：通过可微数据奖励优化检索增强生成](2024年10月17日/RAG-DDR_Optimizing_Retrieval-Augmented_Generation_Using_Differentiable_Data_Rewards.md)
-
-- [Reference-Based Post-OCR Processing with LLM for Diacritic Languages](2024年10月17日/Reference-Based_Post-OCR_Processing_with_LLM_for_Diacritic_Languages.md)
-
-    - [翻译: 基于参考的 OCR 后处理与 LLM 应用于变音符号语言](2024年10月17日/Reference-Based_Post-OCR_Processing_with_LLM_for_Diacritic_Languages.md)
 
 - [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
