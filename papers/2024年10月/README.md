@@ -1488,10 +1488,6 @@
 
     - [翻译: 基于 CLIP 的框架，助力数据选择更稳健、更通用](2024年10月14日/A_CLIP-Powered_Framework_for_Robust_and_Generalizable_Data_Selection.md)
 
-- [Adapt-$\infty$: Scalable Lifelong Multimodal Instruction Tuning via Dynamic Data Selection](2024年10月14日/Adapt-$\infty$_Scalable_Lifelong_Multimodal_Instruction_Tuning_via_Dynamic_Data_Selection.md)
-
-    - [翻译: Adapt-$\infty$：利用动态数据选择，实现终身多模态指令调优的可扩展性](2024年10月14日/Adapt-$\infty$_Scalable_Lifelong_Multimodal_Instruction_Tuning_via_Dynamic_Data_Selection.md)
-
 - [A Multi-Task Text Classification Pipeline with Natural Language Explanations: A User-Centric Evaluation in Sentiment Analysis and Offensive Language Identification in Greek Tweets](2024年10月14日/A_Multi-Task_Text_Classification_Pipeline_with_Natural_Language_Explanations_A_User-Centric_Evaluation_in_Sentiment_Analysis_and_Offensive_Language_Identification_in_Greek_Tweets.md)
 
     - [翻译: 多任务文本分类管道，结合自然语言解释，专注于希腊推文中的情感分析与冒犯性语言识别，以用户为中心进行评估。](2024年10月14日/A_Multi-Task_Text_Classification_Pipeline_with_Natural_Language_Explanations_A_User-Centric_Evaluation_in_Sentiment_Analysis_and_Offensive_Language_Identification_in_Greek_Tweets.md)
@@ -1871,10 +1867,6 @@
     - [翻译: 从时间序列数据中构建可解释的分层动态模型](2024年10月07日/Learning_Interpretable_Hierarchical_Dynamical_Systems_Models_from_Time_Series_Data.md)
 
 2024年10月06日
-
-- [CogDevelop2K: Reversed Cognitive Development in Multimodal Large Language Models](2024年10月06日/CogDevelop2K_Reversed_Cognitive_Development_in_Multimodal_Large_Language_Models.md)
-
-    - [翻译: CogDevelop2K：探索多模态大型语言模型中的逆向认知发展](2024年10月06日/CogDevelop2K_Reversed_Cognitive_Development_in_Multimodal_Large_Language_Models.md)
 
 - [SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
 
