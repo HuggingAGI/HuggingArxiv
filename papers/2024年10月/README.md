@@ -436,10 +436,6 @@
 
     - [翻译: MAD：通过将 AI 反编译器引入非开源区块链智能合约，提升透明度和审计能力](2024年10月20日/MAD_Move_AI_Decompiler_to_Improve_Transparency_and_Auditability_on_Non-Open-Source_Blockchain_Smart_Contract.md)
 
-- [MMCS: A Multimodal Medical Diagnosis System Integrating Image Analysis and Knowledge-based Departmental Consultation](2024年10月20日/MMCS_A_Multimodal_Medical_Diagnosis_System_Integrating_Image_Analysis_and_Knowledge-based_Departmental_Consultation.md)
-
-    - [翻译: MMCS：一款融合图像分析与知识咨询的多模态医学诊断系统](2024年10月20日/MMCS_A_Multimodal_Medical_Diagnosis_System_Integrating_Image_Analysis_and_Knowledge-based_Departmental_Consultation.md)
-
 - [Modality-Fair Preference Optimization for Trustworthy MLLM Alignment](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
 
     - [翻译: 模态公平偏好优化，助力多模态语言模型可信对齐](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
@@ -873,10 +869,6 @@
 - [Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?](2024年10月17日/Bias_in_the_Mirror__Are_LLMs_opinions_robust_to_their_own_adversarial_attacks_.md)
 
     - [翻译: 镜中偏见：LLM 的观点能否经受住自身的对抗性攻击？](2024年10月17日/Bias_in_the_Mirror__Are_LLMs_opinions_robust_to_their_own_adversarial_attacks_.md)
-
-- [Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning](2024年10月17日/Breaking_Chains_Unraveling_the_Links_in_Multi-Hop_Knowledge_Unlearning.md)
-
-    - [翻译: 破链而出：揭秘多跳知识遗忘中的关联](2024年10月17日/Breaking_Chains_Unraveling_the_Links_in_Multi-Hop_Knowledge_Unlearning.md)
 
 - [Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?](2024年10月17日/Can_Medical_Vision-Language_Pre-training_Succeed_with_Purely_Synthetic_Data.md)
 
