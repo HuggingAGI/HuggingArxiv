@@ -614,10 +614,6 @@
 
     - [翻译: HyQE：通过假设查询嵌入来排序上下文](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
 
-- [Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](2024年10月19日/Jailbreaking_and_Mitigation_of_Vulnerabilities_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的破解与漏洞缓解](2024年10月19日/Jailbreaking_and_Mitigation_of_Vulnerabilities_in_Large_Language_Models.md)
-
 - [LLaVA-Ultra: Large Chinese Language and Vision Assistant for Ultrasound](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
 
     - [翻译: LLaVA-Ultra：专为超声波设计的大型中文语言与视觉助手](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
@@ -1018,10 +1014,6 @@
 
     - [翻译: 大型语言模型易受迷惑：定量指标揭示其安全隐忧与类型学解析](2024年10月17日/Large_Language_Models_are_Easily_Confused_A_Quantitative_Metric,_Security_Implications_and_Typological_Analysis.md)
 
-- [Large Language Models as Narrative-Driven Recommenders](2024年10月17日/Large_Language_Models_as_Narrative-Driven_Recommenders.md)
-
-    - [翻译: 大型语言模型：叙事驱动的推荐引擎](2024年10月17日/Large_Language_Models_as_Narrative-Driven_Recommenders.md)
-
 - [Latent Weight Diffusion: Generating Policies from Trajectories](2024年10月17日/Latent_Weight_Diffusion_Generating_Policies_from_Trajectories.md)
 
     - [翻译: 潜藏权重扩散：策略由轨迹孕育而生](2024年10月17日/Latent_Weight_Diffusion_Generating_Policies_from_Trajectories.md)
@@ -1279,10 +1271,6 @@
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
     - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
-
-- [Open Domain Question Answering with Conflicting Contexts](2024年10月16日/Open_Domain_Question_Answering_with_Conflicting_Contexts.md)
-
-    - [翻译: 开放领域问答中的冲突上下文](2024年10月16日/Open_Domain_Question_Answering_with_Conflicting_Contexts.md)
 
 - [Optimizing Low-Resource Language Model Training: Comprehensive Analysis of Multi-Epoch, Multi-Lingual, and Two-Stage Approaches](2024年10月16日/Optimizing_Low-Resource_Language_Model_Training_Comprehensive_Analysis_of_Multi-Epoch,_Multi-Lingual,_and_Two-Stage_Approaches.md)
 
@@ -1929,10 +1917,6 @@
 - [A Large Language Model-based Framework for Semi-Structured Tender Document Retrieval-Augmented Generation](2024年10月04日/A_Large_Language_Model-based_Framework_for_Semi-Structured_Tender_Document_Retrieval-Augmented_Generation.md)
 
     - [翻译: 大型语言模型驱动的半结构化招标文件检索与生成框架](2024年10月04日/A_Large_Language_Model-based_Framework_for_Semi-Structured_Tender_Document_Retrieval-Augmented_Generation.md)
-
-- [Autoregressive Large Language Models are Computationally Universal](2024年10月04日/Autoregressive_Large_Language_Models_are_Computationally_Universal.md)
-
-    - [翻译: 自回归大型语言模型具备计算上的通用性](2024年10月04日/Autoregressive_Large_Language_Models_are_Computationally_Universal.md)
 
 2024年10月03日
 
