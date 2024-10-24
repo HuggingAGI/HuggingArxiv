@@ -1378,10 +1378,6 @@
 
     - [翻译: 增强驱动度量：平衡文本引导图像编辑中的保留与修改](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
 
-- [Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent](2024年10月15日/Bypassing_the_Exponential_Dependency_Looped_Transformers_Efficiently_Learn_In-context_by_Multi-step_Gradient_Descent.md)
-
-    - [翻译: 循环Transformer巧妙绕过指数依赖，通过多步梯度下降，高效掌握上下文学习。](2024年10月15日/Bypassing_the_Exponential_Dependency_Looped_Transformers_Efficiently_Learn_In-context_by_Multi-step_Gradient_Descent.md)
-
 - [CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
 
     - [翻译: CoTracker3：借助伪标签技术，在真实视频中实现更简便且高效的点跟踪。](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
@@ -1778,10 +1774,6 @@
 
     - [翻译: M2M-Gen：一个利用大型语言模型自动为日本漫画生成背景音乐的多模态框架](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
 
-- [MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models](2024年10月13日/MMCOMPOSITION_Revisiting_the_Compositionality_of_Pre-trained_Vision-Language_Models.md)
-
-    - [翻译: MMCOMPOSITION：探索预训练视觉-语言模型的组合性](2024年10月13日/MMCOMPOSITION_Revisiting_the_Compositionality_of_Pre-trained_Vision-Language_Models.md)
-
 - ['Quis custodiet ipsos custodes?' Who will watch the watchmen? On Detecting AI-generated peer-reviews](2024年10月13日/'Quis_custodiet_ipsos_custodes'_Who_will_watch_the_watchmen_On_Detecting_AI-generated_peer-reviews.md)
 
     - [翻译: “谁来监督监督者？” —— 探讨如何检测 AI 生成的同行评审](2024年10月13日/'Quis_custodiet_ipsos_custodes'_Who_will_watch_the_watchmen_On_Detecting_AI-generated_peer-reviews.md)
@@ -1845,10 +1837,6 @@
 - [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
 
     - [翻译: 在 LLM 和 VLM 时代，音频描述生成：探索可转移的生成 AI 技术](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
-
-- [Enhancing Long Context Performance in LLMs Through Inner Loop Query Mechanism](2024年10月11日/Enhancing_Long_Context_Performance_in_LLMs_Through_Inner_Loop_Query_Mechanism.md)
-
-    - [翻译: 借助内循环查询机制，提升 LLM 在长上下文中的表现](2024年10月11日/Enhancing_Long_Context_Performance_in_LLMs_Through_Inner_Loop_Query_Mechanism.md)
 
 - [From N-grams to Pre-trained Multilingual Models For Language Identification](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
