@@ -118,10 +118,6 @@
 
     - [翻译: 多语言基准污染报告](2024年10月21日/Contamination_Report_for_Multilingual_Benchmarks.md)
 
-- [CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning](2024年10月21日/CoT-TL_Low-Resource_Temporal_Knowledge_Representation_of_Planning_Instructions_Using_Chain-of-Thought_Reasoning.md)
-
-    - [翻译: CoT-TL：借助链式思维推理，实现规划指令的低资源时间知识表示。](2024年10月21日/CoT-TL_Low-Resource_Temporal_Knowledge_Representation_of_Planning_Instructions_Using_Chain-of-Thought_Reasoning.md)
-
 - [Deep Learning and Data Augmentation for Detecting Self-Admitted Technical Debt](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
@@ -566,10 +562,6 @@
 
     - [翻译: MorphAgent：借助自我进化档案与去中心化协作，赋予代理全新能力](2024年10月19日/MorphAgent_Empowering_Agents_through_Self-Evolving_Profiles_and_Decentralized_Collaboration.md)
 
-- [Optimizing Large Language Models for Dynamic Constraints through Human-in-the-Loop Discriminators](2024年10月19日/Optimizing_Large_Language_Models_for_Dynamic_Constraints_through_Human-in-the-Loop_Discriminators.md)
-
-    - [翻译: 借助人机协作鉴别器，优化大型语言模型以应对动态约束。](2024年10月19日/Optimizing_Large_Language_Models_for_Dynamic_Constraints_through_Human-in-the-Loop_Discriminators.md)
-
 - [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
 
     - [翻译: PAT：一款无需参数的音频与文本对齐工具，旨在提升零-shot 音频分类的性能。](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
@@ -683,10 +675,6 @@
 - [EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search](2024年10月18日/EvoPress_Towards_Optimal_Dynamic_Model_Compression_via_Evolutionary_Search.md)
 
     - [翻译: EvoPress：借助进化搜索，迈向最佳动态模型压缩](2024年10月18日/EvoPress_Towards_Optimal_Dynamic_Model_Compression_via_Evolutionary_Search.md)
-
-- [Few-Shot Joint Multimodal Entity-Relation Extraction via Knowledge-Enhanced Cross-modal Prompt Model](2024年10月18日/Few-Shot_Joint_Multimodal_Entity-Relation_Extraction_via_Knowledge-Enhanced_Cross-modal_Prompt_Model.md)
-
-    - [翻译: 少样本联合多模态实体关系提取：知识增强的跨模态提示模型](2024年10月18日/Few-Shot_Joint_Multimodal_Entity-Relation_Extraction_via_Knowledge-Enhanced_Cross-modal_Prompt_Model.md)
 
 - [From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting](2024年10月18日/From_Solitary_Directives_to_Interactive_Encouragement!_LLM_Secure_Code_Generation_by_Natural_Language_Prompting.md)
 
@@ -1156,10 +1144,6 @@
 
     - [翻译: ERVQ：通过代码本内外的优化，增强残差向量量化，应用于神经音频编解码器](2024年10月16日/ERVQ_Enhanced_Residual_Vector_Quantization_with_Intra-and-Inter-Codebook_Optimization_for_Neural_Audio_Codecs.md)
 
-- [Evaluating Morphological Compositional Generalization in Large Language Models](2024年10月16日/Evaluating_Morphological_Compositional_Generalization_in_Large_Language_Models.md)
-
-    - [翻译: 探究大型语言模型中的形态组合泛化能力](2024年10月16日/Evaluating_Morphological_Compositional_Generalization_in_Large_Language_Models.md)
-
 - [Expanding Chatbot Knowledge in Customer Service: Context-Aware Similar Question Generation Using Large Language Models](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
 
     - [翻译: 在客户服务中提升聊天机器人知识：利用大型语言模型生成上下文感知的相似问题](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
@@ -1527,10 +1511,6 @@
 - [Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
 
     - [翻译: 自动化筛选人类反馈数据，优化文本到图像扩散模型的对齐效果](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
-
-- [Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models](2024年10月14日/Automatically_Generating_Visual_Hallucination_Test_Cases_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 自动为多模态大型语言模型生成视觉幻觉测试用例](2024年10月14日/Automatically_Generating_Visual_Hallucination_Test_Cases_for_Multimodal_Large_Language_Models.md)
 
 - [AutoTurb: Using Large Language Models for Automatic Algebraic Model Discovery of Turbulence Closure](2024年10月14日/AutoTurb_Using_Large_Language_Models_for_Automatic_Algebraic_Model_Discovery_of_Turbulence_Closure.md)
 
