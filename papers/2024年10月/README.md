@@ -778,10 +778,6 @@
 
     - [翻译: SemiHVision：借助半人工注释数据集和微调指令生成，提升医学多模态模型的性能](2024年10月18日/SemiHVision_Enhancing_Medical_Multimodal_Models_with_a_Semi-Human_Annotated_Dataset_and_Fine-Tuned_Instruction_Generation.md)
 
-- [Storyboard guided Alignment for Fine-grained Video Action Recognition](2024年10月18日/Storyboard_guided_Alignment_for_Fine-grained_Video_Action_Recognition.md)
-
-    - [翻译: 故事板引导的对齐技术，助力细粒度视频动作识别](2024年10月18日/Storyboard_guided_Alignment_for_Fine-grained_Video_Action_Recognition.md)
-
 - [SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment](2024年10月18日/SudoLM_Learning_Access_Control_of_Parametric_Knowledge_with_Authorization_Alignment.md)
 
     - [翻译: SudoLM：借助授权对齐，掌握参数知识的访问控制艺术](2024年10月18日/SudoLM_Learning_Access_Control_of_Parametric_Knowledge_with_Authorization_Alignment.md)
@@ -939,10 +935,6 @@
 - [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](2024年10月17日/Fluid_Scaling_Autoregressive_Text-to-image_Generative_Models_with_Continuous_Tokens.md)
 
     - [翻译: Fluid：通过连续标记扩展自回归文本到图像生成模型的规模](2024年10月17日/Fluid_Scaling_Autoregressive_Text-to-image_Generative_Models_with_Continuous_Tokens.md)
-
-- [FRAG: Toward Federated Vector Database Management for Collaborative and Secure Retrieval-Augmented Generation](2024年10月17日/FRAG_Toward_Federated_Vector_Database_Management_for_Collaborative_and_Secure_Retrieval-Augmented_Generation.md)
-
-    - [翻译: FRAG：协作与安全检索增强生成的联邦向量数据库管理](2024年10月17日/FRAG_Toward_Federated_Vector_Database_Management_for_Collaborative_and_Secure_Retrieval-Augmented_Generation.md)
 
 - [GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning](2024年10月17日/GDeR_Safeguarding_Efficiency,_Balancing,_and_Robustness_via_Prototypical_Graph_Pruning.md)
 
@@ -1758,10 +1750,6 @@
 
     - [翻译: 大型语言模型（LLMs）是否将取代仅编码器模型，成为时间关系分类的新宠？](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
-- [Yuan: Research on the Concept of Digital World Analogue Scientific Infrastructure and Science Popularization Communication Based on Suzhou Gardens Pattern](2024年10月14日/Yuan_Research_on_the_Concept_of_Digital_World_Analogue_Scientific_Infrastructure_and_Science_Popularization_Communication_Based_on_Suzhou_Gardens_Pattern.md)
-
-    - [翻译: 探索苏州园林模式下的数字世界模拟科学基础设施与科普传播新概念](2024年10月14日/Yuan_Research_on_the_Concept_of_Digital_World_Analogue_Scientific_Infrastructure_and_Science_Popularization_Communication_Based_on_Suzhou_Gardens_Pattern.md)
-
 2024年10月13日
 
 - [Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
@@ -1821,10 +1809,6 @@
     - [翻译: Text4Seg：重塑图像分割为文本生成](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
 2024年10月12日
-
-- [CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device](2024年10月12日/CAMPHOR_Collaborative_Agents_for_Multi-input_Planning_and_High-Order_Reasoning_On_Device.md)
-
-    - [翻译: CAMPHOR：设备上多输入规划与高阶推理的协作代理](2024年10月12日/CAMPHOR_Collaborative_Agents_for_Multi-input_Planning_and_High-Order_Reasoning_On_Device.md)
 
 - [CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](2024年10月12日/CollabEdit_Towards_Non-destructive_Collaborative_Knowledge_Editing.md)
 
