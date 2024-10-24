@@ -396,10 +396,6 @@
 
     - [翻译: RAG 系统是否抓住了重点？通过子问题覆盖来评估和优化回答](2024年10月20日/Do_RAG_Systems_Cover_What_Matters_Evaluating_and_Optimizing_Responses_with_Sub-Question_Coverage.md)
 
-- [DRIM-ANN: An Approximate Nearest Neighbor Search Engine based on Commercial DRAM-PIMs](2024年10月20日/DRIM-ANN_An_Approximate_Nearest_Neighbor_Search_Engine_based_on_Commercial_DRAM-PIMs.md)
-
-    - [翻译: DRIM-ANN：一款基于商用 DRAM-PIM 技术的近似最近邻搜索引擎](2024年10月20日/DRIM-ANN_An_Approximate_Nearest_Neighbor_Search_Engine_based_on_Commercial_DRAM-PIMs.md)
-
 - [EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models](2024年10月20日/EPIC_Efficient_Position-Independent_Context_Caching_for_Serving_Large_Language_Models.md)
 
     - [翻译: EPIC：为大型语言模型服务提供高效的位置无关上下文缓存](2024年10月20日/EPIC_Efficient_Position-Independent_Context_Caching_for_Serving_Large_Language_Models.md)
@@ -672,10 +668,6 @@
 
     - [翻译: E3D-GPT：为医疗视觉-语言模型打造的增强版 3D 视觉基础](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
-- [EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding](2024年10月18日/EcomEdit_An_Automated_E-commerce_Knowledge_Editing_Framework_for_Enhanced_Product_and_Purchase_Intention_Understanding.md)
-
-    - [翻译: EcomEdit：一款自动化框架，专为提升对产品和购买意图的理解而设计，助力电子商务知识编辑。](2024年10月18日/EcomEdit_An_Automated_E-commerce_Knowledge_Editing_Framework_for_Enhanced_Product_and_Purchase_Intention_Understanding.md)
-
 - [Efficient Annotator Reliability Assessment and Sample Weighting for Knowledge-Based Misinformation Detection on Social Media](2024年10月18日/Efficient_Annotator_Reliability_Assessment_and_Sample_Weighting_for_Knowledge-Based_Misinformation_Detection_on_Social_Media.md)
 
     - [翻译: 高效评估标注者可靠性，并加权样本，助力社交媒体上的基于知识的错误信息检测](2024年10月18日/Efficient_Annotator_Reliability_Assessment_and_Sample_Weighting_for_Knowledge-Based_Misinformation_Detection_on_Social_Media.md)
@@ -743,10 +735,6 @@
 - [Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
 
     - [翻译: Nova：通过迭代规划与搜索，提升 LLM 生成创意的新颖性与多样性](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
-
-- [Optimizing Retrieval-Augmented Generation with Elasticsearch for Enhanced Question-Answering Systems](2024年10月18日/Optimizing_Retrieval-Augmented_Generation_with_Elasticsearch_for_Enhanced_Question-Answering_Systems.md)
-
-    - [翻译: 通过 Elasticsearch 优化检索增强生成，提升问答系统性能](2024年10月18日/Optimizing_Retrieval-Augmented_Generation_with_Elasticsearch_for_Enhanced_Question-Answering_Systems.md)
 
 - [Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning](2024年10月18日/Paths-over-Graph_Knowledge_Graph_Enpowered_Large_Language_Model_Reasoning.md)
 
@@ -1172,10 +1160,6 @@
 
     - [翻译: 针对视觉-语言预训练模型，我们提出了一种既高效又有效的通用对抗攻击方法。](2024年10月16日/Efficient_and_Effective_Universal_Adversarial_Attack_against_Vision-Language_Pre-training_Models.md)
 
-- [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](2024年10月16日/Efficient_Diffusion_Models_A_Comprehensive_Survey_from_Principles_to_Practices.md)
-
-    - [翻译: 高效扩散模型：从理论到应用的全面解析](2024年10月16日/Efficient_Diffusion_Models_A_Comprehensive_Survey_from_Principles_to_Practices.md)
-
 - [Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
 
     - [翻译: 提升 LLM 代理代码生成：可能性与通过率优先的经验回放策略](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
@@ -1518,10 +1502,6 @@
 
     - [翻译: Transformer 层注入：提升大型语言模型效率的创新之道](2024年10月15日/Transformer_Layer_Injection_A_Novel_Approach_for_Efficient_Upscaling_of_Large_Language_Models.md)
 
-- [VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models](2024年10月15日/VidCompress_Memory-Enhanced_Temporal_Compression_for_Video_Understanding_in_Large_Language_Models.md)
-
-    - [翻译: VidCompress：通过内存增强的时间压缩技术，提升大型语言模型中的视频理解能力。](2024年10月15日/VidCompress_Memory-Enhanced_Temporal_Compression_for_Video_Understanding_in_Large_Language_Models.md)
-
 - [Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
 
     - [翻译: Y-Mol：一款多尺度生物医学知识驱动的大型语言模型，专为药物研发而生](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
@@ -1583,10 +1563,6 @@
 - [Can Structured Data Reduce Epistemic Uncertainty?](2024年10月14日/Can_Structured_Data_Reduce_Epistemic_Uncertainty.md)
 
     - [翻译: 结构化数据能否降低认知不确定性？](2024年10月14日/Can_Structured_Data_Reduce_Epistemic_Uncertainty.md)
-
-- [CoMAT: Chain of Mathematically Annotated Thought Improves Mathematical Reasoning](2024年10月14日/CoMAT_Chain_of_Mathematically_Annotated_Thought_Improves_Mathematical_Reasoning.md)
-
-    - [翻译: CoMAT：通过链式数学思维注释，提升数学推理能力](2024年10月14日/CoMAT_Chain_of_Mathematically_Annotated_Thought_Improves_Mathematical_Reasoning.md)
 
 - [Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
