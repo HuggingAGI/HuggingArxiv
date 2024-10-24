@@ -1312,10 +1312,6 @@
 
     - [翻译: SAC-GLAM：结合软演员-评论家与事后重标记，提升 LLM 代理的在线强化学习效果。](2024年10月16日/SAC-GLAM_Improving_Online_RL_for_LLM_agents_with_Soft_Actor-Critic_and_Hindsight_Relabeling.md)
 
-- [Sarcasm Detection in a Less-Resourced Language](2024年10月16日/Sarcasm_Detection_in_a_Less-Resourced_Language.md)
-
-    - [翻译: 在资源匮乏的语言中识别讽刺](2024年10月16日/Sarcasm_Detection_in_a_Less-Resourced_Language.md)
-
 - [Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
 
     - [翻译: 利用动态转向向量实现 LLM 的语义自适应激活干预](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
@@ -1409,10 +1405,6 @@
 - [GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
 
     - [翻译: GaVaMoE：一种结合高斯变分和门控混合专家技术，旨在提升推荐系统可解释性的模型。](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
-
-- [Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data](2024年10月15日/Holistic_Reasoning_with_Long-Context_LMs_A_Benchmark_for_Database_Operations_on_Massive_Textual_Data.md)
-
-    - [翻译: 长上下文语言模型的整体推理：大规模文本数据数据库操作的基准测试](2024年10月15日/Holistic_Reasoning_with_Long-Context_LMs_A_Benchmark_for_Database_Operations_on_Massive_Textual_Data.md)
 
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
