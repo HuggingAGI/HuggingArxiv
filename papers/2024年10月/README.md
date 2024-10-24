@@ -1,5 +1,15 @@
 # 2024年10月
 
+2024年10月23日
+
+- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](2024年10月23日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
+
+    - [翻译: IBGP：探讨通信多智能体系统中零-shot 鲁棒性的不完美拜占庭将军问题](2024年10月23日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
+
+- [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
+
+    - [翻译: OpenMU：音乐理解的万能工具](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
+
 2024年10月22日
 
 - [Do LLMs estimate uncertainty well in instruction-following?](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
@@ -13,6 +23,10 @@
 - [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
     - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
+
+- [On the Diversity of Synthetic Data and its Impact on Training Large Language Models](2024年10月22日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
+
+    - [翻译: 合成数据的多样性如何影响大型语言模型的训练？](2024年10月22日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
 
 - [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
 
@@ -167,10 +181,6 @@
 - [How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
 
     - [翻译: 怎样打造一个能同时聊天和决策的预训练多模态模型？](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
-
-- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
-
-    - [翻译: IBGP：探讨通信多智能体系统中零-shot 鲁棒性的不完美拜占庭将军问题](2024年10月21日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
 
 - [Imprompter: Tricking LLM Agents into Improper Tool Use](2024年10月21日/Imprompter_Tricking_LLM_Agents_into_Improper_Tool_Use.md)
 
@@ -438,10 +448,6 @@
 
     - [翻译: 在线 RLHF 与神经参数化的全局收敛性探讨](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
 
-- [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月20日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
-
-    - [翻译: OpenMU：音乐理解的万能工具](2024年10月20日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
-
 - [The Best Defense is a Good Offense: Countering LLM-Powered Cyberattacks](2024年10月20日/The_Best_Defense_is_a_Good_Offense_Countering_LLM-Powered_Cyberattacks.md)
 
     - [翻译: 以攻为守：应对大型语言模型驱动的网络攻击](2024年10月20日/The_Best_Defense_is_a_Good_Offense_Countering_LLM-Powered_Cyberattacks.md)
@@ -567,10 +573,6 @@
 - [MorphAgent: Empowering Agents through Self-Evolving Profiles and Decentralized Collaboration](2024年10月19日/MorphAgent_Empowering_Agents_through_Self-Evolving_Profiles_and_Decentralized_Collaboration.md)
 
     - [翻译: MorphAgent：借助自我进化档案与去中心化协作，赋予代理全新能力](2024年10月19日/MorphAgent_Empowering_Agents_through_Self-Evolving_Profiles_and_Decentralized_Collaboration.md)
-
-- [On the Diversity of Synthetic Data and its Impact on Training Large Language Models](2024年10月19日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
-
-    - [翻译: 合成数据的多样性如何影响大型语言模型的训练？](2024年10月19日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
 
 - [Optimizing Large Language Models for Dynamic Constraints through Human-in-the-Loop Discriminators](2024年10月19日/Optimizing_Large_Language_Models_for_Dynamic_Constraints_through_Human-in-the-Loop_Discriminators.md)
 
@@ -831,10 +833,6 @@
 - [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
 
     - [翻译: 探究 OpenAI o1 模型推理模式的对比研究](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
-
-- [Advancing Large Language Model Attribution through Self-Improving](2024年10月17日/Advancing_Large_Language_Model_Attribution_through_Self-Improving.md)
-
-    - [翻译: 通过自我提升，推动大型语言模型的归因技术进步。](2024年10月17日/Advancing_Large_Language_Model_Attribution_through_Self-Improving.md)
 
 - [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](2024年10月17日/AgentOccam_A_Simple_Yet_Strong_Baseline_for_LLM-Based_Web_Agents.md)
 
@@ -1257,10 +1255,6 @@
 - [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
 
     - [翻译: MMed-RAG：专为医学视觉语言模型设计的多功能多模态系统](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
-
-- [Neuron-based Personality Trait Induction in Large Language Models](2024年10月16日/Neuron-based_Personality_Trait_Induction_in_Large_Language_Models.md)
-
-    - [翻译: 在大语言模型中，通过神经元诱导人格特质](2024年10月16日/Neuron-based_Personality_Trait_Induction_in_Large_Language_Models.md)
 
 - [Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning](2024年10月16日/Not_All_Votes_Count!_Programs_as_Verifiers_Improve_Self-Consistency_of_Language_Models_for_Math_Reasoning.md)
 
