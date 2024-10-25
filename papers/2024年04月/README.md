@@ -1812,6 +1812,12 @@
 
     - [翻译: GUIDE：图形用户界面数据执行指南](2024年04月09日/GUIDE_Graphical_User_Interface_Data_for_Execution.md)
 
+2024年04月08日
+
+- [Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models](2024年04月08日/Dense_Training,_Sparse_Inference_Rethinking_Training_of_Mixture-of-Experts_Language_Models.md)
+
+    - [翻译: 密集训练，稀疏推理：重新思考混合专家语言模型的训练](2024年04月08日/Dense_Training,_Sparse_Inference_Rethinking_Training_of_Mixture-of-Experts_Language_Models.md)
+
 2024年04月07日
 
 - [Information Retrieval with Entity Linking](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)

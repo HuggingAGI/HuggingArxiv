@@ -25,3 +25,9 @@
 - [Lost in Translation: Large Language Models in Non-English Content Analysis](2023年06月12日/Lost_in_Translation_Large_Language_Models_in_Non-English_Content_Analysis.md)
 
     - [翻译: 在非英语内容分析中，大型语言模型的应用有时会遇到“翻译中的迷失”。](2023年06月12日/Lost_in_Translation_Large_Language_Models_in_Non-English_Content_Analysis.md)
+
+2023年06月07日
+
+- [ModuleFormer: Modularity Emerges from Mixture-of-Experts](2023年06月07日/ModuleFormer_Modularity_Emerges_from_Mixture-of-Experts.md)
+
+    - [翻译: ModuleFormer：模块化从专家混合中出现](2023年06月07日/ModuleFormer_Modularity_Emerges_from_Mixture-of-Experts.md)
