@@ -216,10 +216,6 @@
 
     - [翻译: 从PDF构建基于RAG的LLM系统：实践经验分享](2024年10月21日/Developing_Retrieval_Augmented_Generation_(RAG)_based_LLM_Systems_from_PDFs_An_Experience_Report.md)
 
-- [Diffusion Transformer Policy](2024年10月21日/Diffusion_Transformer_Policy.md)
-
-    - [翻译: 扩散变压器策略](2024年10月21日/Diffusion_Transformer_Policy.md)
-
 - [Do Large Language Models Have an English Accent? Evaluating and Improving the Naturalness of Multilingual LLMs](2024年10月21日/Do_Large_Language_Models_Have_an_English_Accent_Evaluating_and_Improving_the_Naturalness_of_Multilingual_LLMs.md)
 
     - [翻译: 大型语言模型是否“说”英语时带有口音？本文探讨如何评估并提升多语言 LLM 的自然表达能力。](2024年10月21日/Do_Large_Language_Models_Have_an_English_Accent_Evaluating_and_Improving_the_Naturalness_of_Multilingual_LLMs.md)
@@ -477,10 +473,6 @@
 - [Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training](2024年10月20日/Exploring_Curriculum_Learning_for_Vision-Language_Tasks_A_Study_on_Small-Scale_Multimodal_Training.md)
 
     - [翻译: 探究视觉与语言任务中的课程学习：小规模多模态训练研究](2024年10月20日/Exploring_Curriculum_Learning_for_Vision-Language_Tasks_A_Study_on_Small-Scale_Multimodal_Training.md)
-
-- [How Aligned are Generative Models to Humans in High-Stakes Decision-Making?](2024年10月20日/How_Aligned_are_Generative_Models_to_Humans_in_High-Stakes_Decision-Making.md)
-
-    - [翻译: 在高风险决策中，生成模型与人类的契合度如何？](2024年10月20日/How_Aligned_are_Generative_Models_to_Humans_in_High-Stakes_Decision-Making.md)
 
 - [Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
 
