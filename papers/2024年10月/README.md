@@ -802,10 +802,6 @@
 
     - [翻译: REEF：大型语言模型的表示编码指纹](2024年10月18日/REEF_Representation_Encoding_Fingerprints_for_Large_Language_Models.md)
 
-- [SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation](2024年10月18日/SemiHVision_Enhancing_Medical_Multimodal_Models_with_a_Semi-Human_Annotated_Dataset_and_Fine-Tuned_Instruction_Generation.md)
-
-    - [翻译: SemiHVision：借助半人工注释数据集和微调指令生成，提升医学多模态模型的性能](2024年10月18日/SemiHVision_Enhancing_Medical_Multimodal_Models_with_a_Semi-Human_Annotated_Dataset_and_Fine-Tuned_Instruction_Generation.md)
-
 - [SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment](2024年10月18日/SudoLM_Learning_Access_Control_of_Parametric_Knowledge_with_Authorization_Alignment.md)
 
     - [翻译: SudoLM：借助授权对齐，掌握参数知识的访问控制艺术](2024年10月18日/SudoLM_Learning_Access_Control_of_Parametric_Knowledge_with_Authorization_Alignment.md)
@@ -1356,10 +1352,6 @@
 
     - [翻译: DySpec：借助动态令牌树结构，实现更快的推测解码](2024年10月15日/DySpec_Faster_Speculative_Decoding_with_Dynamic_Token_Tree_Structure.md)
 
-- [GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
-
-    - [翻译: GaVaMoE：一种结合高斯变分和门控混合专家技术，旨在提升推荐系统可解释性的模型。](2024年10月15日/GaVaMoE_Gaussian-Variational_Gated_Mixture_of_Experts_for_Explainable_Recommendation.md)
-
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
     - [翻译: 指导性代码检索器：借助大型语言模型的反馈，提升代码智能任务的表现](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
@@ -1569,10 +1561,6 @@
 - [LG-CAV: Train Any Concept Activation Vector with Language Guidance](2024年10月14日/LG-CAV_Train_Any_Concept_Activation_Vector_with_Language_Guidance.md)
 
     - [翻译: LG-CAV：借助语言指导，轻松训练任意概念激活向量](2024年10月14日/LG-CAV_Train_Any_Concept_Activation_Vector_with_Language_Guidance.md)
-
-- [Locking Down the Finetuned LLMs Safety](2024年10月14日/Locking_Down_the_Finetuned_LLMs_Safety.md)
-
-    - [翻译: 确保微调后 LLM 的安全防护](2024年10月14日/Locking_Down_the_Finetuned_LLMs_Safety.md)
 
 - [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
 
