@@ -1,14 +1,16 @@
 # 2024年10月
 
+2024年10月24日
+
+- [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
+
+    - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
+
 2024年10月23日
 
 - [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](2024年10月23日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
 
     - [翻译: IBGP：探讨通信多智能体系统中零-shot 鲁棒性的不完美拜占庭将军问题](2024年10月23日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
-
-- [Magnetic field sorting of superconducting graphite particles with T$_c$$>$400K](2024年10月23日/Magnetic_field_sorting_of_superconducting_graphite_particles_with_T$_c$$$400K.md)
-
-    - [翻译: 具有 T$_c$$>$400K 的超导石墨颗粒的磁场分选](2024年10月23日/Magnetic_field_sorting_of_superconducting_graphite_particles_with_T$_c$$$400K.md)
 
 - [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
 
@@ -79,10 +81,6 @@
 - [Influential Language Data Selection via Gradient Trajectory Pursuit](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
-
-- [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
-
-    - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月22日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
 - [Learning Mathematical Rules with Large Language Models](2024年10月22日/Learning_Mathematical_Rules_with_Large_Language_Models.md)
 
@@ -696,10 +694,6 @@
 
     - [翻译: CoMAL：混合自主交通中的协作多智能体大型语言模型](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
 
-- [Combining Entropy and Matrix Nuclear Norm for Enhanced Evaluation of Language Models](2024年10月18日/Combining_Entropy_and_Matrix_Nuclear_Norm_for_Enhanced_Evaluation_of_Language_Models.md)
-
-    - [翻译: 融合熵与矩阵核范数，提升语言模型评估效果](2024年10月18日/Combining_Entropy_and_Matrix_Nuclear_Norm_for_Enhanced_Evaluation_of_Language_Models.md)
-
 - [Critical Questions Generation: Motivation and Challenges](2024年10月18日/Critical_Questions_Generation_Motivation_and_Challenges.md)
 
     - [翻译: 关键问题生成：探索背后的动机与面临的挑战](2024年10月18日/Critical_Questions_Generation_Motivation_and_Challenges.md)
@@ -715,10 +709,6 @@
 - [DFlow: Diverse Dialogue Flow Simulation with Large Language Models](2024年10月18日/DFlow_Diverse_Dialogue_Flow_Simulation_with_Large_Language_Models.md)
 
     - [翻译: DFlow：借助大型语言模型，模拟丰富多彩的对话流程](2024年10月18日/DFlow_Diverse_Dialogue_Flow_Simulation_with_Large_Language_Models.md)
-
-- [DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search](2024年10月18日/DiSCo_Meets_LLMs_A_Unified_Approach_for_Sparse_Retrieval_and_Contextual_Distillation_in_Conversational_Search.md)
-
-    - [翻译: DiSCo 与 LLM 结合：对话搜索中稀疏检索与上下文蒸馏的统一方案](2024年10月18日/DiSCo_Meets_LLMs_A_Unified_Approach_for_Sparse_Retrieval_and_Contextual_Distillation_in_Conversational_Search.md)
 
 - [Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs](2024年10月18日/Distance_between_Relevant_Information_Pieces_Causes_Bias_in_Long-Context_LLMs.md)
 
@@ -861,10 +851,6 @@
     - [翻译: 当大型语言模型走向网络：Web 赋能的 LLM 带来的新兴威胁](2024年10月18日/When_LLMs_Go_Online_The_Emerging_Threat_of_Web-Enabled_LLMs.md)
 
 2024年10月17日
-
-- [A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement](2024年10月17日/A_Common_Pitfall_of_Margin-based_Language_Model_Alignment_Gradient_Entanglement.md)
-
-    - [翻译: 语言模型对齐中的常见误区：边界依赖导致的梯度纠缠](2024年10月17日/A_Common_Pitfall_of_Margin-based_Language_Model_Alignment_Gradient_Entanglement.md)
 
 - [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
 
