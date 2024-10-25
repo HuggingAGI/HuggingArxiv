@@ -18,6 +18,10 @@
 
     - [翻译: 通过中间表示上的图对比学习进行二进制代码相似性检测](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
 
+- [Distill Visual Chart Reasoning Ability from LLMs to MLLMs](2024年10月24日/Distill_Visual_Chart_Reasoning_Ability_from_LLMs_to_MLLMs.md)
+
+    - [翻译: 从大型语言模型（LLMs）向多语言大型语言模型（MLLMs）提炼视觉图表推理能力](2024年10月24日/Distill_Visual_Chart_Reasoning_Ability_from_LLMs_to_MLLMs.md)
+
 - [DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
 
     - [翻译: DreamClear：通过隐私安全的数据集策划实现高容量的真实世界图像恢复](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
@@ -167,10 +171,6 @@
 - [1024m at SMM4H 2024: Tasks 3, 5 & 6 -- Ensembles of Transformers and Large Language Models for Medical Text Classification](2024年10月21日/1024m_at_SMM4H_2024_Tasks_3,_5_&_6_--_Ensembles_of_Transformers_and_Large_Language_Models_for_Medical_Text_Classification.md)
 
     - [翻译: 1024m 在 SMM4H 2024：任务 3、5 和 6 -- 结合 Transformer 和大型语言模型的集成方法，用于医学文本分类](2024年10月21日/1024m_at_SMM4H_2024_Tasks_3,_5_&_6_--_Ensembles_of_Transformers_and_Large_Language_Models_for_Medical_Text_Classification.md)
-
-- [1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs](2024年10月21日/1-bit_AI_Infra_Part_1.1,_Fast_and_Lossless_BitNet_b1.58_Inference_on_CPUs.md)
-
-    - [翻译: 1-bit AI 基础设施：第 1.1 部分，CPU 上的 BitNet b1.58 快速无损推理](2024年10月21日/1-bit_AI_Infra_Part_1.1,_Fast_and_Lossless_BitNet_b1.58_Inference_on_CPUs.md)
 
 - [Alchemy: Amplifying Theorem-Proving Capability through Symbolic Mutation](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
 
@@ -952,10 +952,6 @@
 
     - [翻译: Fluid：通过连续标记扩展自回归文本到图像生成模型的规模](2024年10月17日/Fluid_Scaling_Autoregressive_Text-to-image_Generative_Models_with_Continuous_Tokens.md)
 
-- [GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning](2024年10月17日/GDeR_Safeguarding_Efficiency,_Balancing,_and_Robustness_via_Prototypical_Graph_Pruning.md)
-
-    - [翻译: GDeR：通过原型图剪枝技术，实现效率、平衡性和鲁棒性的全面保障。](2024年10月17日/GDeR_Safeguarding_Efficiency,_Balancing,_and_Robustness_via_Prototypical_Graph_Pruning.md)
-
 - [Generating Signed Language Instructions in Large-Scale Dialogue Systems](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
 
     - [翻译: 大规模对话系统中的手语指令生成](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
@@ -1153,10 +1149,6 @@
 - [Can We Reverse In-Context Knowledge Edits?](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
 
     - [翻译: 上下文知识编辑能否被逆转？](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
-
-- [Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents](2024年10月16日/Chain_of_Ideas_Revolutionizing_Research_in_Novel_Idea_Development_with_LLM_Agents.md)
-
-    - [翻译: Chain of Ideas：借助 LLM Agents 革新创意研发](2024年10月16日/Chain_of_Ideas_Revolutionizing_Research_in_Novel_Idea_Development_with_LLM_Agents.md)
 
 - [CoFE-RAG: A Comprehensive Full-chain Evaluation Framework for Retrieval-Augmented Generation with Enhanced Data Diversity](2024年10月16日/CoFE-RAG_A_Comprehensive_Full-chain_Evaluation_Framework_for_Retrieval-Augmented_Generation_with_Enhanced_Data_Diversity.md)
 
@@ -1815,10 +1807,6 @@
 - [RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process](2024年10月11日/RePD_Defending_Jailbreak_Attack_through_a_Retrieval-based_Prompt_Decomposition_Process.md)
 
     - [翻译: RePD：利用基于检索的提示分解技术，有效抵御越狱攻击。](2024年10月11日/RePD_Defending_Jailbreak_Attack_through_a_Retrieval-based_Prompt_Decomposition_Process.md)
-
-- [SimpleStrat: Diversifying Language Model Generation with Stratification](2024年10月11日/SimpleStrat_Diversifying_Language_Model_Generation_with_Stratification.md)
-
-    - [翻译: SimpleStrat：以分层策略丰富语言模型生成多样性](2024年10月11日/SimpleStrat_Diversifying_Language_Model_Generation_with_Stratification.md)
 
 - [SocialGaze: Improving the Integration of Human Social Norms in Large Language Models](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
