@@ -30,6 +30,10 @@
 
     - [翻译: 使用前沿开源大型语言模型进行知识蒸馏：泛化能力和合成数据的作用](2024年10月24日/Knowledge_Distillation_Using_Frontier_Open-source_LLMs_Generalizability_and_the_Role_of_Synthetic_Data.md)
 
+- [Large Generative AI Models meet Open Networks for 6G: Integration, Platform, and Monetization](2024年10月24日/Large_Generative_AI_Models_meet_Open_Networks_for_6G_Integration,_Platform,_and_Monetization.md)
+
+    - [翻译: 大型生成式人工智能模型与 6G 的开放网络相遇：集成、平台和货币化](2024年10月24日/Large_Generative_AI_Models_meet_Open_Networks_for_6G_Integration,_Platform,_and_Monetization.md)
+
 - [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
     - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
@@ -1869,9 +1873,3 @@
 - [Selective Attention Improves Transformer](2024年10月03日/Selective_Attention_Improves_Transformer.md)
 
     - [翻译: 选择性注意力让 Transformer 更上一层楼](2024年10月03日/Selective_Attention_Improves_Transformer.md)
-
-2024年10月01日
-
-- [Classifying Peace in Global Media Using RAG and Intergroup Reciprocity](2024年10月01日/Classifying_Peace_in_Global_Media_Using_RAG_and_Intergroup_Reciprocity.md)
-
-    - [翻译: 借助 RAG 与群体间互惠性，解析全球媒体中的和平分类](2024年10月01日/Classifying_Peace_in_Global_Media_Using_RAG_and_Intergroup_Reciprocity.md)
