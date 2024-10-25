@@ -528,10 +528,6 @@
 
     - [翻译: LLM 能否成为优秀的零-shot 谬误分类器？](2024年10月19日/Are_LLMs_Good_Zero-Shot_Fallacy_Classifiers.md)
 
-- [Augmenting the Veracity and Explanations of Complex Fact Checking via Iterative Self-Revision with LLMs](2024年10月19日/Augmenting_the_Veracity_and_Explanations_of_Complex_Fact_Checking_via_Iterative_Self-Revision_with_LLMs.md)
-
-    - [翻译: 借助 LLM 的迭代自修订，提升复杂事实核查的真实性与解释力](2024年10月19日/Augmenting_the_Veracity_and_Explanations_of_Complex_Fact_Checking_via_Iterative_Self-Revision_with_LLMs.md)
-
 - [AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
 
     - [翻译: AutoFLUKA：基于大型语言模型，专为 FLUKA 中的蒙特卡罗模拟自动化而设计](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
@@ -1063,10 +1059,6 @@
 - [SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
 
     - [翻译: SeerAttention：让 LLMs 学会内在的稀疏注意力](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
-
-- [SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent](2024年10月17日/SRAP-Agent_Simulating_and_Optimizing_Scarce_Resource_Allocation_Policy_with_LLM-based_Agent.md)
-
-    - [翻译: SRAP-Agent：借助 LLM 代理，模拟并优化稀缺资源的分配策略](2024年10月17日/SRAP-Agent_Simulating_and_Optimizing_Scarce_Resource_Allocation_Policy_with_LLM-based_Agent.md)
 
 - [Starbucks: Improved Training for 2D Matryoshka Embeddings](2024年10月17日/Starbucks_Improved_Training_for_2D_Matryoshka_Embeddings.md)
 
