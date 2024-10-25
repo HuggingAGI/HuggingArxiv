@@ -312,6 +312,10 @@
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
+- [Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers](2024年10月21日/Improving_Parallel_Program_Performance_Through_DSL-Driven_Code_Generation_with_LLM_Optimizers.md)
+
+    - [翻译: 通过带有 LLM 优化器的 DSL 驱动的代码生成来提高并行程序的性能](2024年10月21日/Improving_Parallel_Program_Performance_Through_DSL-Driven_Code_Generation_with_LLM_Optimizers.md)
+
 - [InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems](2024年10月21日/InternLM2.5-StepProver_Advancing_Automated_Theorem_Proving_via_Expert_Iteration_on_Large-Scale_LEAN_Problems.md)
 
     - [翻译: InternLM2.5-StepProver：借助专家迭代，攻克大规模 LEAN 问题，推动自动定理证明技术迈向新高度](2024年10月21日/InternLM2.5-StepProver_Advancing_Automated_Theorem_Proving_via_Expert_Iteration_on_Large-Scale_LEAN_Problems.md)
