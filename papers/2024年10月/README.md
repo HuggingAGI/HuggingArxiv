@@ -2,9 +2,57 @@
 
 2024年10月24日
 
+- [Aligning CodeLLMs with Direct Preference Optimization](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
+
+    - [翻译: 将 CodeLLMs 与直接偏好优化对齐](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
+
+- [A Survey on Speech Large Language Models](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
+
+    - [翻译: 关于语音大型语言模型的一项调查](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
+
+- [BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching](2024年10月24日/BATON_Enhancing_Batch-wise_Inference_Efficiency_for_Large_Language_Models_via_Dynamic_Re-batching.md)
+
+    - [翻译: BATON：通过动态重新分批来提高大型语言模型的批量推理效率](2024年10月24日/BATON_Enhancing_Batch-wise_Inference_Efficiency_for_Large_Language_Models_via_Dynamic_Re-batching.md)
+
+- [Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
+
+    - [翻译: 通过中间表示上的图对比学习进行二进制代码相似性检测](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
+
+- [DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
+
+    - [翻译: DreamClear：通过隐私安全的数据集策划实现高容量的真实世界图像恢复](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
+
+- [Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data](2024年10月24日/Knowledge_Distillation_Using_Frontier_Open-source_LLMs_Generalizability_and_the_Role_of_Synthetic_Data.md)
+
+    - [翻译: 使用前沿开源大型语言模型进行知识蒸馏：泛化能力和合成数据的作用](2024年10月24日/Knowledge_Distillation_Using_Frontier_Open-source_LLMs_Generalizability_and_the_Role_of_Synthetic_Data.md)
+
 - [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
     - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
+
+- [Little Giants: Synthesizing High-Quality Embedding Data at Scale](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
+
+    - [翻译: 小巨人：大规模合成高质量嵌入数据](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
+
+- [LLM-Aided Efficient Hardware Design Automation](2024年10月24日/LLM-Aided_Efficient_Hardware_Design_Automation.md)
+
+    - [翻译: LLM 辅助的高效硬件设计自动化](2024年10月24日/LLM-Aided_Efficient_Hardware_Design_Automation.md)
+
+- [SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
+
+    - [翻译: SafeBench：多模态大型语言模型的安全评估框架](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
+
+- [SIKeD: Self-guided Iterative Knowledge Distillation for mathematical reasoning](2024年10月24日/SIKeD_Self-guided_Iterative_Knowledge_Distillation_for_mathematical_reasoning.md)
+
+    - [翻译: SIKeD：用于数学推理的自引导迭代知识蒸馏](2024年10月24日/SIKeD_Self-guided_Iterative_Knowledge_Distillation_for_mathematical_reasoning.md)
+
+- [Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience](2024年10月24日/Smart_ETL_and_LLM-based_contents_classification_the_European_Smart_Tourism_Tools_Observatory_experience.md)
+
+    - [翻译: 智能 ETL 和基于 LLM 的内容分类：欧洲智能旅游工具观测站的经验](2024年10月24日/Smart_ETL_and_LLM-based_contents_classification_the_European_Smart_Tourism_Tools_Observatory_experience.md)
+
+- [Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
+
+    - [翻译: 迈向更好的开放式文本生成：一个多标准评估框架](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
 
 2024年10月23日
 
