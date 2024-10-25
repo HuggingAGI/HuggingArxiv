@@ -1026,10 +1026,6 @@
 
     - [翻译: LLM-Rank：利用图论技术优化大语言模型剪枝的新思路](2024年10月17日/LLM-Rank_A_Graph_Theoretical_Approach_to_Pruning_Large_Language_Models.md)
 
-- [LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning](2024年10月17日/LoLDU_Low-Rank_Adaptation_via_Lower-Diag-Upper_Decomposition_for_Parameter-Efficient_Fine-Tuning.md)
-
-    - [翻译: LoLDU：利用下-对角-上分解技术，实现低秩适应，从而进行参数高效的微调。](2024年10月17日/LoLDU_Low-Rank_Adaptation_via_Lower-Diag-Upper_Decomposition_for_Parameter-Efficient_Fine-Tuning.md)
-
 - [Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
 
     - [翻译: Malleus：通过灵活的数据和模型并行化，实现大规模模型的抗滞后混合并行训练](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
@@ -1073,10 +1069,6 @@
 - [Optimal Quantization for Matrix Multiplication](2024年10月17日/Optimal_Quantization_for_Matrix_Multiplication.md)
 
     - [翻译: 矩阵乘法中的最优量化](2024年10月17日/Optimal_Quantization_for_Matrix_Multiplication.md)
-
-- [ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization](2024年10月17日/ORCHID_A_Chinese_Debate_Corpus_for_Target-Independent_Stance_Detection_and_Argumentative_Dialogue_Summarization.md)
-
-    - [翻译: ORCHID：一款专为独立目标立场检测与论证对话摘要设计的中文辩论语料库](2024年10月17日/ORCHID_A_Chinese_Debate_Corpus_for_Target-Independent_Stance_Detection_and_Argumentative_Dialogue_Summarization.md)
 
 - [Persistent Pre-Training Poisoning of LLMs](2024年10月17日/Persistent_Pre-Training_Poisoning_of_LLMs.md)
 
@@ -1349,10 +1341,6 @@
     - [翻译: 超越准确性：探索从弱到强的泛化在安全、毒性和法律推理中的应用](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
 
 2024年10月15日
-
-- [Advanced Persistent Threats (APT) Attribution Using Deep Reinforcement Learning](2024年10月15日/Advanced_Persistent_Threats_(APT)_Attribution_Using_Deep_Reinforcement_Learning.md)
-
-    - [翻译: 利用深度强化学习技术，精准归因高级持续威胁（APT）](2024年10月15日/Advanced_Persistent_Threats_(APT)_Attribution_Using_Deep_Reinforcement_Learning.md)
 
 - [AIC CTU system at AVeriTeC: Re-framing automated fact-checking as a simple RAG task](2024年10月15日/AIC_CTU_system_at_AVeriTeC_Re-framing_automated_fact-checking_as_a_simple_RAG_task.md)
 
