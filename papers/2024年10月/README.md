@@ -6,6 +6,10 @@
 
     - [翻译: 将 CodeLLMs 与直接偏好优化对齐](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
 
+- [A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs](2024年10月24日/A_Little_Help_Goes_a_Long_Way_Efficient_LLM_Training_by_Leveraging_Small_LMs.md)
+
+    - [翻译: 一点帮助作用很大：通过利用小型语言模型进行高效的大型语言模型训练](2024年10月24日/A_Little_Help_Goes_a_Long_Way_Efficient_LLM_Training_by_Leveraging_Small_LMs.md)
+
 - [A Survey on Speech Large Language Models](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
 
     - [翻译: 关于语音大型语言模型的一项调查](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
@@ -71,6 +75,10 @@
 - [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
 
     - [翻译: OpenMU：音乐理解的万能工具](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
+
+- [Position-Aided Semantic Communication for Efficient Image Transmission: Design, Implementation, and Experimental Results](2024年10月23日/Position-Aided_Semantic_Communication_for_Efficient_Image_Transmission_Design,_Implementation,_and_Experimental_Results.md)
+
+    - [翻译: 用于高效图像传输的位置辅助语义通信：设计、实现和实验结果](2024年10月23日/Position-Aided_Semantic_Communication_for_Efficient_Image_Transmission_Design,_Implementation,_and_Experimental_Results.md)
 
 2024年10月22日
 
@@ -396,10 +404,6 @@
 
     - [翻译: PUMA：为统一的多模态语言模型注入多粒度视觉生成力量](2024年10月21日/PUMA_Empowering_Unified_MLLM_with_Multi-granular_Visual_Generation.md)
 
-- [RAC: Efficient LLM Factuality Correction with Retrieval Augmentation](2024年10月21日/RAC_Efficient_LLM_Factuality_Correction_with_Retrieval_Augmentation.md)
-
-    - [翻译: RAC：通过检索增强实现高效 LLM 事实校正](2024年10月21日/RAC_Efficient_LLM_Factuality_Correction_with_Retrieval_Augmentation.md)
-
 - [RAG4ITOps: A Supervised Fine-Tunable and Comprehensive RAG Framework for IT Operations and Maintenance](2024年10月21日/RAG4ITOps_A_Supervised_Fine-Tunable_and_Comprehensive_RAG_Framework_for_IT_Operations_and_Maintenance.md)
 
     - [翻译: RAG4ITOps：专为 IT 运维与维护设计的可监督、可微调的全面 RAG 框架](2024年10月21日/RAG4ITOps_A_Supervised_Fine-Tunable_and_Comprehensive_RAG_Framework_for_IT_Operations_and_Maintenance.md)
@@ -679,10 +683,6 @@
 - [The Shifting Paradigm in AI : Why Generative Artificial Intelligence is the new Economic Variable](2024年10月19日/The_Shifting_Paradigm_in_AI__Why_Generative_Artificial_Intelligence_is_the_new_Economic_Variable.md)
 
     - [翻译: AI 范式正在转变，生成式人工智能正成为新的经济变量。](2024年10月19日/The_Shifting_Paradigm_in_AI__Why_Generative_Artificial_Intelligence_is_the_new_Economic_Variable.md)
-
-- [Toward Robust RALMs: Revealing the Impact of Imperfect Retrieval on Retrieval-Augmented Language Models](2024年10月19日/Toward_Robust_RALMs_Revealing_the_Impact_of_Imperfect_Retrieval_on_Retrieval-Augmented_Language_Models.md)
-
-    - [翻译: 探索更稳健的检索增强语言模型：揭秘不完美检索的深远影响](2024年10月19日/Toward_Robust_RALMs_Revealing_the_Impact_of_Imperfect_Retrieval_on_Retrieval-Augmented_Language_Models.md)
 
 - [Transit Pulse: Utilizing Social Media as a Source for Customer Feedback and Information Extraction with Large Language Model](2024年10月19日/Transit_Pulse_Utilizing_Social_Media_as_a_Source_for_Customer_Feedback_and_Information_Extraction_with_Large_Language_Model.md)
 
@@ -1447,10 +1447,6 @@
 - [PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model](2024年10月15日/PAVLM_Advancing_Point_Cloud_based_Affordance_Understanding_Via_Vision-Language_Model.md)
 
     - [翻译: PAVLM：借助视觉-语言模型，推动基于点云的可操作性理解](2024年10月15日/PAVLM_Advancing_Point_Cloud_based_Affordance_Understanding_Via_Vision-Language_Model.md)
-
-- [PMMT: Preference Alignment in Multilingual Machine Translation via LLM Distillation](2024年10月15日/PMMT_Preference_Alignment_in_Multilingual_Machine_Translation_via_LLM_Distillation.md)
-
-    - [翻译: PMMT：利用 LLM 蒸馏技术，实现多语言机器翻译中的偏好对齐](2024年10月15日/PMMT_Preference_Alignment_in_Multilingual_Machine_Translation_via_LLM_Distillation.md)
 
 - [QSpec: Speculative Decoding with Complementary Quantization Schemes](2024年10月15日/QSpec_Speculative_Decoding_with_Complementary_Quantization_Schemes.md)
 
