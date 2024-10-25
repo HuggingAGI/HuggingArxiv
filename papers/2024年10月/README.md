@@ -646,10 +646,6 @@
 
     - [翻译: 基于动态反馈的强化学习奖励设计框架，由大型语言模型驱动](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
 
-- [Analyzing Context Utilization of LLMs in Document-Level Translation](2024年10月18日/Analyzing_Context_Utilization_of_LLMs_in_Document-Level_Translation.md)
-
-    - [翻译: 探究 LLM 在文档翻译中的上下文运用](2024年10月18日/Analyzing_Context_Utilization_of_LLMs_in_Document-Level_Translation.md)
-
 - [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
 
     - [翻译: AI检测器靠谱吗？一份关于机器生成文本数据集质量的调查报告](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
@@ -1384,10 +1380,6 @@
 
     - [翻译: 放大镜提示：用极简指令攻克多模态幻觉难题](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
 
-- [MCTBench: Multimodal Cognition towards Text-Rich Visual Scenes Benchmark](2024年10月15日/MCTBench_Multimodal_Cognition_towards_Text-Rich_Visual_Scenes_Benchmark.md)
-
-    - [翻译: MCTBench：探索文本与视觉融合的多模态认知新基准](2024年10月15日/MCTBench_Multimodal_Cognition_towards_Text-Rich_Visual_Scenes_Benchmark.md)
-
 - [Measuring Spiritual Values and Bias of Large Language Models](2024年10月15日/Measuring_Spiritual_Values_and_Bias_of_Large_Language_Models.md)
 
     - [翻译: 探究大型语言模型的精神价值与偏见](2024年10月15日/Measuring_Spiritual_Values_and_Bias_of_Large_Language_Models.md)
@@ -1617,10 +1609,6 @@
 - [SensorBench: Benchmarking LLMs in Coding-Based Sensor Processing](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
 
     - [翻译: SensorBench：为基于编码的传感器处理中的 LLM 提供基准测试](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
-
-- [Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models](2024年10月14日/Simplifying,_Stabilizing_and_Scaling_Continuous-Time_Consistency_Models.md)
-
-    - [翻译: 精简、稳固并扩展连续时间一致性模型](2024年10月14日/Simplifying,_Stabilizing_and_Scaling_Continuous-Time_Consistency_Models.md)
 
 - [Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes](2024年10月14日/Sitcom-Crafter_A_Plot-Driven_Human_Motion_Generation_System_in_3D_Scenes.md)
 
