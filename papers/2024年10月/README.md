@@ -1172,10 +1172,6 @@
 
     - [翻译: 上下文知识编辑能否被逆转？](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
 
-- [CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization](2024年10月16日/CCSBench_Evaluating_Compositional_Controllability_in_LLMs_for_Scientific_Document_Summarization.md)
-
-    - [翻译: CCSBench：科学文档摘要中 LLM 组合可控性的评估工具](2024年10月16日/CCSBench_Evaluating_Compositional_Controllability_in_LLMs_for_Scientific_Document_Summarization.md)
-
 - [Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents](2024年10月16日/Chain_of_Ideas_Revolutionizing_Research_in_Novel_Idea_Development_with_LLM_Agents.md)
 
     - [翻译: Chain of Ideas：借助 LLM Agents 革新创意研发](2024年10月16日/Chain_of_Ideas_Revolutionizing_Research_in_Novel_Idea_Development_with_LLM_Agents.md)
@@ -1351,10 +1347,6 @@
 - [Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
 
     - [翻译: 超越准确性：探索从弱到强的泛化在安全、毒性和法律推理中的应用](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
-
-- [WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation](2024年10月16日/WorldMedQA-V_a_multilingual,_multimodal_medical_examination_dataset_for_multimodal_language_models_evaluation.md)
-
-    - [翻译: WorldMedQA-V：一款专为多模态语言模型评估设计的多语言、多模态医学考试数据集](2024年10月16日/WorldMedQA-V_a_multilingual,_multimodal_medical_examination_dataset_for_multimodal_language_models_evaluation.md)
 
 2024年10月15日
 
@@ -1865,10 +1857,6 @@
 - [SocialGaze: Improving the Integration of Human Social Norms in Large Language Models](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
     - [翻译: SocialGaze：提升大型语言模型中人类社会规范的融合](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
-
-- [When Graph meets Multimodal: Benchmarking on Multimodal Attributed Graphs Learning](2024年10月11日/When_Graph_meets_Multimodal_Benchmarking_on_Multimodal_Attributed_Graphs_Learning.md)
-
-    - [翻译: 图与多模态的邂逅：多模态属性图学习的基准测试](2024年10月11日/When_Graph_meets_Multimodal_Benchmarking_on_Multimodal_Attributed_Graphs_Learning.md)
 
 2024年10月10日
 
