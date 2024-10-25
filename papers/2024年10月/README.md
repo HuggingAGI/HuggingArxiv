@@ -308,10 +308,6 @@
 
     - [翻译: 怎样打造一个能同时聊天和决策的预训练多模态模型？](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
 
-- [Imprompter: Tricking LLM Agents into Improper Tool Use](2024年10月21日/Imprompter_Tricking_LLM_Agents_into_Improper_Tool_Use.md)
-
-    - [翻译: Imprompter：诱导 LLM 代理误用工具](2024年10月21日/Imprompter_Tricking_LLM_Agents_into_Improper_Tool_Use.md)
-
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
@@ -1182,10 +1178,6 @@
 
     - [翻译: 几何轨迹扩散模型](2024年10月16日/Geometric_Trajectory_Diffusion_Models.md)
 
-- [Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
-
-    - [翻译: 几何感知生成自动编码器，专为扭曲黎曼度量学习和数据流形上的生成建模而设计](2024年10月16日/Geometry-Aware_Generative_Autoencoders_for_Warped_Riemannian_Metric_Learning_and_Generative_Modeling_on_Data_Manifolds.md)
-
 - [HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks](2024年10月16日/HumanEval-V_Evaluating_Visual_Understanding_and_Reasoning_Abilities_of_Large_Multimodal_Models_Through_Coding_Tasks.md)
 
     - [翻译: HumanEval-V：通过编码任务，评估大型多模态模型在视觉理解和推理方面的表现。](2024年10月16日/HumanEval-V_Evaluating_Visual_Understanding_and_Reasoning_Abilities_of_Large_Multimodal_Models_Through_Coding_Tasks.md)
@@ -1419,10 +1411,6 @@
 - [Multi-round jailbreak attack on large language models](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
 
     - [翻译: 大型语言模型面临多轮越狱攻击](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
-
-- [NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models](2024年10月15日/NesTools_A_Dataset_for_Evaluating_Nested_Tool_Learning_Abilities_of_Large_Language_Models.md)
-
-    - [翻译: NesTools：专为评估大型语言模型嵌套工具学习能力而设计的数据集](2024年10月15日/NesTools_A_Dataset_for_Evaluating_Nested_Tool_Learning_Abilities_of_Large_Language_Models.md)
 
 - [O-Edit: Orthogonal Subspace Editing for Language Model Sequential Editing](2024年10月15日/O-Edit_Orthogonal_Subspace_Editing_for_Language_Model_Sequential_Editing.md)
 
@@ -1699,10 +1687,6 @@
 - [LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models](2024年10月13日/LOKI_A_Comprehensive_Synthetic_Data_Detection_Benchmark_using_Large_Multimodal_Models.md)
 
     - [翻译: LOKI：基于大型多模态模型的综合合成数据检测基准](2024年10月13日/LOKI_A_Comprehensive_Synthetic_Data_Detection_Benchmark_using_Large_Multimodal_Models.md)
-
-- [M2M-Gen: A Multimodal Framework for Automated Background Music Generation in Japanese Manga Using Large Language Models](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
-
-    - [翻译: M2M-Gen：一个利用大型语言模型自动为日本漫画生成背景音乐的多模态框架](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
 
 - [Text4Seg: Reimagining Image Segmentation as Text Generation](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
