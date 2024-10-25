@@ -26,10 +26,6 @@
 
     - [翻译: 原子事实分解有助于属性问答](2024年10月22日/Atomic_Fact_Decomposition_Helps_Attributed_Question_Answering.md)
 
-- [AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models](2024年10月22日/AttriPrompter_Auto-Prompting_with_Attribute_Semantics_for_Zero-shot_Nuclei_Detection_via_Visual-Language_Pre-trained_Models.md)
-
-    - [翻译: AttriPrompter：通过属性语义进行自动提示，用于通过视觉语言预训练模型进行零样本细胞核检测](2024年10月22日/AttriPrompter_Auto-Prompting_with_Attribute_Semantics_for_Zero-shot_Nuclei_Detection_via_Visual-Language_Pre-trained_Models.md)
-
 - [Beyond Retrieval: Generating Narratives in Conversational Recommender Systems](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
 
     - [翻译: 超越检索：在会话推荐系统中生成叙述](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
@@ -45,10 +41,6 @@
 - [ClimaQA: An Automated Evaluation Framework for Climate Foundation Models](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
 
     - [翻译: ClimaQA：气候基础模型的一个自动评估框架](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
-
-- [Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots](2024年10月22日/Combining_Ontological_Knowledge_and_Large_Language_Model_for_User-Friendly_Service_Robots.md)
-
-    - [翻译: 将本体知识和大型语言模型相结合用于用户友好型服务机器人](2024年10月22日/Combining_Ontological_Knowledge_and_Large_Language_Model_for_User-Friendly_Service_Robots.md)
 
 - [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](2024年10月22日/Context-aware_Inductive_Knowledge_Graph_Completion_with_Latent_Type_Constraints_and_Subgraph_Reasoning.md)
 
@@ -478,10 +470,6 @@
 
     - [翻译: Ichigo：一款结合多种模态、早期融合技术的实时语音助手](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
 
-- [IPO: Interpretable Prompt Optimization for Vision-Language Models](2024年10月20日/IPO_Interpretable_Prompt_Optimization_for_Vision-Language_Models.md)
-
-    - [翻译: IPO：为视觉-语言模型打造的可解释提示优化](2024年10月20日/IPO_Interpretable_Prompt_Optimization_for_Vision-Language_Models.md)
-
 - [Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
 
     - [翻译: 自动驾驶中的大型语言模型 (LLM4AD)：探索其概念、基准测试、仿真及实车实验](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
@@ -535,10 +523,6 @@
 - [A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers](2024年10月19日/A_Prompt_Engineering_Approach_and_a_Knowledge_Graph_based_Framework_for_Tackling_Legal_Implications_of_Large_Language_Model_Answers.md)
 
     - [翻译: 通过提示工程与知识图谱结合，我们提出了一种新颖的框架，旨在应对大型语言模型答案可能带来的法律挑战。](2024年10月19日/A_Prompt_Engineering_Approach_and_a_Knowledge_Graph_based_Framework_for_Tackling_Legal_Implications_of_Large_Language_Model_Answers.md)
-
-- [A Prompt Refinement-based Large Language Model for Metro Passenger Flow Forecasting under Delay Conditions](2024年10月19日/A_Prompt_Refinement-based_Large_Language_Model_for_Metro_Passenger_Flow_Forecasting_under_Delay_Conditions.md)
-
-    - [翻译: 延误条件下，基于提示优化的大语言模型助力地铁乘客流量精准预测](2024年10月19日/A_Prompt_Refinement-based_Large_Language_Model_for_Metro_Passenger_Flow_Forecasting_under_Delay_Conditions.md)
 
 - [Are LLMs Good Zero-Shot Fallacy Classifiers?](2024年10月19日/Are_LLMs_Good_Zero-Shot_Fallacy_Classifiers.md)
 
@@ -1311,10 +1295,6 @@
     - [翻译: 超越准确性：探索从弱到强的泛化在安全、毒性和法律推理中的应用](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
 
 2024年10月15日
-
-- [AIC CTU system at AVeriTeC: Re-framing automated fact-checking as a simple RAG task](2024年10月15日/AIC_CTU_system_at_AVeriTeC_Re-framing_automated_fact-checking_as_a_simple_RAG_task.md)
-
-    - [翻译: AVeriTeC 的 AIC CTU 系统：将自动事实核查简化为一个简单的 RAG 任务](2024年10月15日/AIC_CTU_system_at_AVeriTeC_Re-framing_automated_fact-checking_as_a_simple_RAG_task.md)
 
 - [Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
 
