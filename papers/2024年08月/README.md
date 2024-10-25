@@ -1,5 +1,11 @@
 # 2024年08月
 
+2024年08月26日
+
+- [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](2024年08月26日/Meta_Flow_Matching_Integrating_Vector_Fields_on_the_Wasserstein_Manifold.md)
+
+    - [翻译: 元流匹配：在瓦瑟斯坦流形上集成向量场](2024年08月26日/Meta_Flow_Matching_Integrating_Vector_Fields_on_the_Wasserstein_Manifold.md)
+
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)

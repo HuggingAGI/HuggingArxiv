@@ -64,6 +64,14 @@
 
 2024年10月23日
 
+- [Blendify -- Python rendering framework for Blender](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
+
+    - [翻译: Blendify -- 用于 Blender 的 Python 渲染框架](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
+
+- [EON: A practical energy-preserving rough diffuse BRDF](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
+
+    - [翻译: EON：一种实用的能量守恒的粗糙漫反射双向反射分布函数](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
+
 - [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
 
     - [翻译: OpenMU：音乐理解的万能工具](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
