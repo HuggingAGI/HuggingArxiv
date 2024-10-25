@@ -14,10 +14,6 @@
 
     - [翻译: 关于语音大型语言模型的一项调查](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
 
-- [BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching](2024年10月24日/BATON_Enhancing_Batch-wise_Inference_Efficiency_for_Large_Language_Models_via_Dynamic_Re-batching.md)
-
-    - [翻译: BATON：通过动态重新分批来提高大型语言模型的批量推理效率](2024年10月24日/BATON_Enhancing_Batch-wise_Inference_Efficiency_for_Large_Language_Models_via_Dynamic_Re-batching.md)
-
 - [Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
 
     - [翻译: 通过中间表示上的图对比学习进行二进制代码相似性检测](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
@@ -67,10 +63,6 @@
     - [翻译: 迈向更好的开放式文本生成：一个多标准评估框架](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
 
 2024年10月23日
-
-- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](2024年10月23日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
-
-    - [翻译: IBGP：探讨通信多智能体系统中零-shot 鲁棒性的不完美拜占庭将军问题](2024年10月23日/IBGP_Imperfect_Byzantine_Generals_Problem_for_Zero-Shot_Robustness_in_Communicative_Multi-Agent_Systems.md)
 
 - [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
 
@@ -1344,10 +1336,6 @@
 
     - [翻译: 联邦指令调优中的数据质量控制：大型语言模型的关键环节](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
 
-- [Data Selection for Task-Specific Model Finetuning](2024年10月15日/Data_Selection_for_Task-Specific_Model_Finetuning.md)
-
-    - [翻译: 任务导向模型微调中的数据精选](2024年10月15日/Data_Selection_for_Task-Specific_Model_Finetuning.md)
-
 - [Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
 
     - [翻译: 破解混沌：利用对抗性提示翻译提升越狱攻击效果](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
@@ -1715,10 +1703,6 @@
 - [M2M-Gen: A Multimodal Framework for Automated Background Music Generation in Japanese Manga Using Large Language Models](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
 
     - [翻译: M2M-Gen：一个利用大型语言模型自动为日本漫画生成背景音乐的多模态框架](2024年10月13日/M2M-Gen_A_Multimodal_Framework_for_Automated_Background_Music_Generation_in_Japanese_Manga_Using_Large_Language_Models.md)
-
-- ['Quis custodiet ipsos custodes?' Who will watch the watchmen? On Detecting AI-generated peer-reviews](2024年10月13日/'Quis_custodiet_ipsos_custodes'_Who_will_watch_the_watchmen_On_Detecting_AI-generated_peer-reviews.md)
-
-    - [翻译: “谁来监督监督者？” —— 探讨如何检测 AI 生成的同行评审](2024年10月13日/'Quis_custodiet_ipsos_custodes'_Who_will_watch_the_watchmen_On_Detecting_AI-generated_peer-reviews.md)
 
 - [Text4Seg: Reimagining Image Segmentation as Text Generation](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
