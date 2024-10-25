@@ -118,6 +118,12 @@
 
     - [翻译: 大型语言模型在提示注入攻击下的机器翻译规模效应](2024年03月14日/Scaling_Behavior_of_Machine_Translation_with_Large_Language_Models_under_Prompt_Injection_Attacks.md)
 
+2024年03月13日
+
+- [Scattered Mixture-of-Experts Implementation](2024年03月13日/Scattered_Mixture-of-Experts_Implementation.md)
+
+    - [翻译: 分散的专家混合体实现](2024年03月13日/Scattered_Mixture-of-Experts_Implementation.md)
+
 2024年03月12日
 
 - [MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning](2024年03月12日/MEND_Meta_dEmonstratioN_Distillation_for_Efficient_and_Effective_In-Context_Learning.md)
