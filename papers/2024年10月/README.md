@@ -750,10 +750,6 @@
 
     - [翻译: 多语言模型如何记住事实？探索其背后的记忆机制](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
 
-- [LoGU: Long-form Generation with Uncertainty Expressions](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
-
-    - [翻译: LoGU：长篇生成中的不确定性表达](2024年10月18日/LoGU_Long-form_Generation_with_Uncertainty_Expressions.md)
-
 - [MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based Inter-Robot Negotiation](2024年10月18日/MARLIN_Multi-Agent_Reinforcement_Learning_Guided_by_Language-Based_Inter-Robot_Negotiation.md)
 
     - [翻译: MARLIN：通过语言引导的机器人间协商实现的多智能体强化学习](2024年10月18日/MARLIN_Multi-Agent_Reinforcement_Learning_Guided_by_Language-Based_Inter-Robot_Negotiation.md)
@@ -761,10 +757,6 @@
 - [MoDification: Mixture of Depths Made Easy](2024年10月18日/MoDification_Mixture_of_Depths_Made_Easy.md)
 
     - [翻译: MoDification：深度混合轻松实现](2024年10月18日/MoDification_Mixture_of_Depths_Made_Easy.md)
-
-- [Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning](2024年10月18日/Montessori-Instruct_Generate_Influential_Training_Data_Tailored_for_Student_Learning.md)
-
-    - [翻译: 蒙特梭利教学法：定制化生成助力学生学习的优质训练数据](2024年10月18日/Montessori-Instruct_Generate_Influential_Training_Data_Tailored_for_Student_Learning.md)
 
 - [MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems](2024年10月18日/MultiChartQA_Benchmarking_Vision-Language_Models_on_Multi-Chart_Problems.md)
 
@@ -1841,10 +1833,6 @@
 - [Prompt Engineering a Schizophrenia Chatbot: Utilizing a Multi-Agent Approach for Enhanced Compliance with Prompt Instructions](2024年10月10日/Prompt_Engineering_a_Schizophrenia_Chatbot_Utilizing_a_Multi-Agent_Approach_for_Enhanced_Compliance_with_Prompt_Instructions.md)
 
     - [翻译: 精神分裂症聊天机器人的提示工程：通过多代理方法提升对提示指令的遵守效果](2024年10月10日/Prompt_Engineering_a_Schizophrenia_Chatbot_Utilizing_a_Multi-Agent_Approach_for_Enhanced_Compliance_with_Prompt_Instructions.md)
-
-- [SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models](2024年10月10日/SPORTU_A_Comprehensive_Sports_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: SPORTU：专为多模态大型语言模型设计的综合性体育理解基准](2024年10月10日/SPORTU_A_Comprehensive_Sports_Understanding_Benchmark_for_Multimodal_Large_Language_Models.md)
 
 2024年10月09日
 
