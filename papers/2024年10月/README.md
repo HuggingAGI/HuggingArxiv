@@ -312,10 +312,6 @@
 
     - [翻译: 跨语言情感检测中的大型语言模型](2024年10月21日/Large_Language_Models_for_Cross-lingual_Emotion_Detection.md)
 
-- [Large Language Models Know What To Say But Not When To Speak](2024年10月21日/Large_Language_Models_Know_What_To_Say_But_Not_When_To_Speak.md)
-
-    - [翻译: 大型语言模型虽能言善道，却不知何时该开口。](2024年10月21日/Large_Language_Models_Know_What_To_Say_But_Not_When_To_Speak.md)
-
 - [LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
 
     - [翻译: LiMTR：利用多模态特征集成，精准预测多样道路使用者的时间序列运动。](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
