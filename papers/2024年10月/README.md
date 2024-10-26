@@ -130,10 +130,6 @@
 
     - [翻译: 优质育儿，幻觉消散——多智能体 LLM 的幻觉缓解之道](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
 
-- [Improving Causal Reasoning in Large Language Models: A Survey](2024年10月22日/Improving_Causal_Reasoning_in_Large_Language_Models_A_Survey.md)
-
-    - [翻译: 改进大型语言模型中的因果推理：一项调查](2024年10月22日/Improving_Causal_Reasoning_in_Large_Language_Models_A_Survey.md)
-
 - [Influential Language Data Selection via Gradient Trajectory Pursuit](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
@@ -279,10 +275,6 @@
 - [Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
 
     - [翻译: 探索持续微调，提升大型语言模型的语言能力](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
-
-- [Exploring Pretraining via Active Forgetting for Improving Cross Lingual Transfer for Decoder Language Models](2024年10月21日/Exploring_Pretraining_via_Active_Forgetting_for_Improving_Cross_Lingual_Transfer_for_Decoder_Language_Models.md)
-
-    - [翻译: 探索通过主动遗忘进行预训练，以提升解码器语言模型的跨语言迁移能力。](2024年10月21日/Exploring_Pretraining_via_Active_Forgetting_for_Improving_Cross_Lingual_Transfer_for_Decoder_Language_Models.md)
 
 - [Fine-Tuning LLMs for Reliable Medical Question-Answering Services](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
 
@@ -1019,10 +1011,6 @@
 - [Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
 
     - [翻译: 元认知监控：超越生成式AI的人类独特能力](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
-
-- [MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems](2024年10月17日/MIRAGE-Bench_Automatic_Multilingual_Benchmark_Arena_for_Retrieval-Augmented_Generation_Systems.md)
-
-    - [翻译: MIRAGE-Bench：检索增强生成系统的自动多语言基准竞技场](2024年10月17日/MIRAGE-Bench_Automatic_Multilingual_Benchmark_Arena_for_Retrieval-Augmented_Generation_Systems.md)
 
 - [Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](2024年10月17日/Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Summary-Guided_Decoding.md)
 
