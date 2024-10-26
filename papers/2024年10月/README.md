@@ -1380,10 +1380,6 @@
 
     - [翻译: ReDeEP：利用机制可解释性，精准检测检索增强生成中的幻觉现象。](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
 
-- [Robust Manipulation Primitive Learning via Domain Contraction](2024年10月15日/Robust_Manipulation_Primitive_Learning_via_Domain_Contraction.md)
-
-    - [翻译: 通过领域收缩，实现操作原语的鲁棒学习](2024年10月15日/Robust_Manipulation_Primitive_Learning_via_Domain_Contraction.md)
-
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
 
     - [翻译: 自适应多模态检索增强生成技术](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
@@ -1521,10 +1517,6 @@
 - [Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key](2024年10月14日/Minimum_Tuning_to_Unlock_Long_Output_from_LLMs_with_High_Quality_Data_as_the_Key.md)
 
     - [翻译: 通过最小调整，以高质量数据为关键，解锁 LLM 的长输出能力](2024年10月14日/Minimum_Tuning_to_Unlock_Long_Output_from_LLMs_with_High_Quality_Data_as_the_Key.md)
-
-- [MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling](2024年10月14日/MMAR_Towards_Lossless_Multi-Modal_Auto-Regressive_Prababilistic_Modeling.md)
-
-    - [翻译: MMAR：探索无损多模态自回归概率建模的新领域](2024年10月14日/MMAR_Towards_Lossless_Multi-Modal_Auto-Regressive_Prababilistic_Modeling.md)
 
 - [MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models](2024年10月14日/MMIE_Massive_Multimodal_Interleaved_Comprehension_Benchmark_for_Large_Vision-Language_Models.md)
 
