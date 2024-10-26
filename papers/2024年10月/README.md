@@ -276,10 +276,6 @@
 
     - [翻译: 优化大型语言模型，打造可靠的医疗问答服务](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
 
-- [Granularity Matters in Long-Tail Learning](2024年10月21日/Granularity_Matters_in_Long-Tail_Learning.md)
-
-    - [翻译: 长尾学习中，粒度的把握至关重要。](2024年10月21日/Granularity_Matters_in_Long-Tail_Learning.md)
-
 - [Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models](2024年10月21日/Griffon-G_Bridging_Vision-Language_and_Vision-Centric_Tasks_via_Large_Multimodal_Models.md)
 
     - [翻译: Griffon-G：借助大型多模态模型，架起视觉-语言与视觉核心任务之间的桥梁](2024年10月21日/Griffon-G_Bridging_Vision-Language_and_Vision-Centric_Tasks_via_Large_Multimodal_Models.md)
@@ -371,10 +367,6 @@
 - [PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](2024年10月21日/PUMA_Empowering_Unified_MLLM_with_Multi-granular_Visual_Generation.md)
 
     - [翻译: PUMA：为统一的多模态语言模型注入多粒度视觉生成力量](2024年10月21日/PUMA_Empowering_Unified_MLLM_with_Multi-granular_Visual_Generation.md)
-
-- [RAG4ITOps: A Supervised Fine-Tunable and Comprehensive RAG Framework for IT Operations and Maintenance](2024年10月21日/RAG4ITOps_A_Supervised_Fine-Tunable_and_Comprehensive_RAG_Framework_for_IT_Operations_and_Maintenance.md)
-
-    - [翻译: RAG4ITOps：专为 IT 运维与维护设计的可监督、可微调的全面 RAG 框架](2024年10月21日/RAG4ITOps_A_Supervised_Fine-Tunable_and_Comprehensive_RAG_Framework_for_IT_Operations_and_Maintenance.md)
 
 - [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](2024年10月21日/Reducing_Hallucinations_in_Vision-Language_Models_via_Latent_Space_Steering.md)
 
@@ -1052,10 +1044,6 @@
 
     - [翻译: 星巴克：优化了2D套娃嵌入的训练方法](2024年10月17日/Starbucks_Improved_Training_for_2D_Matryoshka_Embeddings.md)
 
-- [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](2024年10月17日/Towards_Cross-Cultural_Machine_Translation_with_Retrieval-Augmented_Generation_from_Multilingual_Knowledge_Graphs.md)
-
-    - [翻译: 探索跨文化机器翻译，借助多语言知识图谱的检索增强生成技术](2024年10月17日/Towards_Cross-Cultural_Machine_Translation_with_Retrieval-Augmented_Generation_from_Multilingual_Knowledge_Graphs.md)
-
 - [Unconstrained Model Merging for Enhanced LLM Reasoning](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
 
     - [翻译: 无约束模型合并：提升 LLM 推理能力](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
@@ -1327,10 +1315,6 @@
 - [LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
 
     - [翻译: LongHalQA：评估多模态大型语言模型在长上下文中的幻觉现象](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
-
-- [LR-SQL: A Supervised Fine-Tuning Method for Text2SQL Tasks under Low-Resource Scenarios](2024年10月15日/LR-SQL_A_Supervised_Fine-Tuning_Method_for_Text2SQL_Tasks_under_Low-Resource_Scenarios.md)
-
-    - [翻译: LR-SQL：低资源场景下 Text2SQL 任务的监督微调新方法](2024年10月15日/LR-SQL_A_Supervised_Fine-Tuning_Method_for_Text2SQL_Tasks_under_Low-Resource_Scenarios.md)
 
 - [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
 
