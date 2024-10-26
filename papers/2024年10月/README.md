@@ -150,17 +150,9 @@
 
     - [翻译: 提高大型语言模型训练稳定性的方法](2024年10月22日/Methods_of_improving_LLM_training_stability.md)
 
-- [On the Diversity of Synthetic Data and its Impact on Training Large Language Models](2024年10月22日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
-
-    - [翻译: 合成数据的多样性如何影响大型语言模型的训练？](2024年10月22日/On_the_Diversity_of_Synthetic_Data_and_its_Impact_on_Training_Large_Language_Models.md)
-
 - [Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation](2024年10月22日/Optimizing_Chain-of-Thought_Reasoning_Tackling_Arranging_Bottleneck_via_Plan_Augmentation.md)
 
     - [翻译: 优化思维链推理：通过计划增强解决排列瓶颈](2024年10月22日/Optimizing_Chain-of-Thought_Reasoning_Tackling_Arranging_Bottleneck_via_Plan_Augmentation.md)
-
-- [PLDR-LLM: Large Language Model from Power Law Decoder Representations](2024年10月22日/PLDR-LLM_Large_Language_Model_from_Power_Law_Decoder_Representations.md)
-
-    - [翻译: PLDR-LLM：来自幂律解码器表示的大型语言模型](2024年10月22日/PLDR-LLM_Large_Language_Model_from_Power_Law_Decoder_Representations.md)
 
 - [Progressive Compositionality In Text-to-Image Generative Models](2024年10月22日/Progressive_Compositionality_In_Text-to-Image_Generative_Models.md)
 
@@ -1469,10 +1461,6 @@
 - [Audio Captioning via Generative Pair-to-Pair Retrieval with Refined Knowledge Base](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
     - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
-
-- [A Unified Approach to Routing and Cascading for LLMs](2024年10月14日/A_Unified_Approach_to_Routing_and_Cascading_for_LLMs.md)
-
-    - [翻译: LLM 中的路由与级联统一方法](2024年10月14日/A_Unified_Approach_to_Routing_and_Cascading_for_LLMs.md)
 
 - [Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
 
