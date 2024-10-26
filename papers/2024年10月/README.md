@@ -150,10 +150,6 @@
 
     - [翻译: 优化思维链推理：通过计划增强解决排列瓶颈](2024年10月22日/Optimizing_Chain-of-Thought_Reasoning_Tackling_Arranging_Bottleneck_via_Plan_Augmentation.md)
 
-- [Progressive Compositionality In Text-to-Image Generative Models](2024年10月22日/Progressive_Compositionality_In_Text-to-Image_Generative_Models.md)
-
-    - [翻译: 文本到图像生成模型中的渐进组合性](2024年10月22日/Progressive_Compositionality_In_Text-to-Image_Generative_Models.md)
-
 - [SmartGSN: a generative AI-powered online tool for the management of assurance cases](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
 
     - [翻译: SmartGSN：一种由生成式人工智能驱动的用于保证案例管理的在线工具](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
@@ -611,10 +607,6 @@
 - [Exploring LLM Support for Generating IEC 61131-3 Graphic Language Programs](2024年10月19日/Exploring_LLM_Support_for_Generating_IEC_61131-3_Graphic_Language_Programs.md)
 
     - [翻译: 探究 LLM 在生成 IEC 61131-3 图形语言程序方面的支持能力](2024年10月19日/Exploring_LLM_Support_for_Generating_IEC_61131-3_Graphic_Language_Programs.md)
-
-- [Group Diffusion Transformers are Unsupervised Multitask Learners](2024年10月19日/Group_Diffusion_Transformers_are_Unsupervised_Multitask_Learners.md)
-
-    - [翻译: Group Diffusion Transformers 是一种无监督的多任务学习模型。](2024年10月19日/Group_Diffusion_Transformers_are_Unsupervised_Multitask_Learners.md)
 
 - [HyQE: Ranking Contexts with Hypothetical Query Embeddings](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
 
