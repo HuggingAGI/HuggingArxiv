@@ -368,10 +368,6 @@
 
     - [翻译: 金融领域中生成式人工智能的机遇与挑战](2024年10月21日/Opportunities_and_Challenges_of_Generative-AI_in_Finance.md)
 
-- [Pre-training Distillation for Large Language Models: A Design Space Exploration](2024年10月21日/Pre-training_Distillation_for_Large_Language_Models_A_Design_Space_Exploration.md)
-
-    - [翻译: 探索大型语言模型预训练蒸馏的设计空间](2024年10月21日/Pre-training_Distillation_for_Large_Language_Models_A_Design_Space_Exploration.md)
-
 - [PROMPTHEUS: A Human-Centered Pipeline to Streamline SLRs with LLMs](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
 
     - [翻译: PROMPTHEUS：一个以人为本的工作流程，旨在借助大型语言模型（LLM）简化系统文献综述（SLR）的流程。](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
@@ -547,10 +543,6 @@
 - [A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
 
     - [翻译: 开放学生学习环境中的双融合认知诊断框架](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
-
-- [An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making](2024年10月19日/An_Electoral_Approach_to_Diversify_LLM-based_Multi-Agent_Collective_Decision-Making.md)
-
-    - [翻译: 通过选举机制，为基于 LLM 的多智能体集体决策注入多样性](2024年10月19日/An_Electoral_Approach_to_Diversify_LLM-based_Multi-Agent_Collective_Decision-Making.md)
 
 - [A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers](2024年10月19日/A_Prompt_Engineering_Approach_and_a_Knowledge_Graph_based_Framework_for_Tackling_Legal_Implications_of_Large_Language_Model_Answers.md)
 
@@ -879,10 +871,6 @@
 - [CLEAR: Towards Contextual LLM-Empowered Privacy Policy Analysis and Risk Generation for Large Language Model Applications](2024年10月17日/CLEAR_Towards_Contextual_LLM-Empowered_Privacy_Policy_Analysis_and_Risk_Generation_for_Large_Language_Model_Applications.md)
 
     - [翻译: CLEAR：借助上下文 LLM 赋能，助力隐私政策分析与大型语言模型应用的风险生成](2024年10月17日/CLEAR_Towards_Contextual_LLM-Empowered_Privacy_Policy_Analysis_and_Risk_Generation_for_Large_Language_Model_Applications.md)
-
-- [Coherence-Driven Multimodal Safety Dialogue with Active Learning for Embodied Agents](2024年10月17日/Coherence-Driven_Multimodal_Safety_Dialogue_with_Active_Learning_for_Embodied_Agents.md)
-
-    - [翻译: 连贯驱动下的多模态安全对话，结合具身代理的主动学习](2024年10月17日/Coherence-Driven_Multimodal_Safety_Dialogue_with_Active_Learning_for_Embodied_Agents.md)
 
 - [Comparing the Utility, Preference, and Performance of Course Material Search Functionality and Retrieval-Augmented Generation Large Language Model (RAG-LLM) AI Chatbots in Information-Seeking Tasks](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
 
