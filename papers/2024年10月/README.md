@@ -576,10 +576,6 @@
 
     - [翻译: 通过提示工程与知识图谱结合，我们提出了一种新颖的框架，旨在应对大型语言模型答案可能带来的法律挑战。](2024年10月19日/A_Prompt_Engineering_Approach_and_a_Knowledge_Graph_based_Framework_for_Tackling_Legal_Implications_of_Large_Language_Model_Answers.md)
 
-- [Are LLMs Good Zero-Shot Fallacy Classifiers?](2024年10月19日/Are_LLMs_Good_Zero-Shot_Fallacy_Classifiers.md)
-
-    - [翻译: LLM 能否成为优秀的零-shot 谬误分类器？](2024年10月19日/Are_LLMs_Good_Zero-Shot_Fallacy_Classifiers.md)
-
 - [AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
 
     - [翻译: AutoFLUKA：基于大型语言模型，专为 FLUKA 中的蒙特卡罗模拟自动化而设计](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
@@ -1174,10 +1170,6 @@
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
-- [Geometric Trajectory Diffusion Models](2024年10月16日/Geometric_Trajectory_Diffusion_Models.md)
-
-    - [翻译: 几何轨迹扩散模型](2024年10月16日/Geometric_Trajectory_Diffusion_Models.md)
-
 - [HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks](2024年10月16日/HumanEval-V_Evaluating_Visual_Understanding_and_Reasoning_Abilities_of_Large_Multimodal_Models_Through_Coding_Tasks.md)
 
     - [翻译: HumanEval-V：通过编码任务，评估大型多模态模型在视觉理解和推理方面的表现。](2024年10月16日/HumanEval-V_Evaluating_Visual_Understanding_and_Reasoning_Abilities_of_Large_Multimodal_Models_Through_Coding_Tasks.md)
@@ -1701,10 +1693,6 @@
 - [LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
 
     - [翻译: 在大型语言模型中，如何巧妙地引出、筛选并整合知识，以提升常识推理能力，是我们探讨的核心。](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
-
-- [LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection](2024年10月12日/LLM-SmartAudit_Advanced_Smart_Contract_Vulnerability_Detection.md)
-
-    - [翻译: LLM-SmartAudit：智能合约漏洞检测的尖端技术](2024年10月12日/LLM-SmartAudit_Advanced_Smart_Contract_Vulnerability_Detection.md)
 
 - [MIRAGE: Evaluating and Explaining Inductive Reasoning Process in Language Models](2024年10月12日/MIRAGE_Evaluating_and_Explaining_Inductive_Reasoning_Process_in_Language_Models.md)
 
