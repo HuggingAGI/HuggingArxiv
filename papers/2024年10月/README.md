@@ -1098,10 +1098,6 @@
 
     - [翻译: 上下文知识编辑能否被逆转？](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
 
-- [CoFE-RAG: A Comprehensive Full-chain Evaluation Framework for Retrieval-Augmented Generation with Enhanced Data Diversity](2024年10月16日/CoFE-RAG_A_Comprehensive_Full-chain_Evaluation_Framework_for_Retrieval-Augmented_Generation_with_Enhanced_Data_Diversity.md)
-
-    - [翻译: CoFE-RAG：一个全面的全链路评估框架，专为提升数据多样性的检索增强生成而设计。](2024年10月16日/CoFE-RAG_A_Comprehensive_Full-chain_Evaluation_Framework_for_Retrieval-Augmented_Generation_with_Enhanced_Data_Diversity.md)
-
 - [Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
 
     - [翻译: 大规模视觉语言模型中的跨模态安全机制转移](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
@@ -1343,10 +1339,6 @@
 - [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
 
     - [翻译: 放大镜提示：用极简指令攻克多模态幻觉难题](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
-
-- [Measuring Spiritual Values and Bias of Large Language Models](2024年10月15日/Measuring_Spiritual_Values_and_Bias_of_Large_Language_Models.md)
-
-    - [翻译: 探究大型语言模型的精神价值与偏见](2024年10月15日/Measuring_Spiritual_Values_and_Bias_of_Large_Language_Models.md)
 
 - [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
 
