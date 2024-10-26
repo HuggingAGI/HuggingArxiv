@@ -842,10 +842,6 @@
 
     - [翻译: 探究大型语言模型低精度训练后量化的挑战](2024年10月18日/Understanding_the_difficulty_of_low-precision_post-training_quantization_of_large_language_models.md)
 
-- [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](2024年10月18日/Unlearning_Backdoor_Attacks_for_LLMs_with_Weak-to-Strong_Knowledge_Distillation.md)
-
-    - [翻译: 利用弱到强知识蒸馏技术，帮助大型语言模型摆脱后门攻击的困扰。](2024年10月18日/Unlearning_Backdoor_Attacks_for_LLMs_with_Weak-to-Strong_Knowledge_Distillation.md)
-
 - [Unveiling Large Language Models Generated Texts: A Multi-Level Fine-Grained Detection Framework](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
 
     - [翻译: 揭秘大型语言模型生成的文本：多层次细粒度检测框架](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
