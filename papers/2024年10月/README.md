@@ -6,10 +6,6 @@
 
     - [翻译: 将 CodeLLMs 与直接偏好优化对齐](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
 
-- [A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs](2024年10月24日/A_Little_Help_Goes_a_Long_Way_Efficient_LLM_Training_by_Leveraging_Small_LMs.md)
-
-    - [翻译: 一点帮助作用很大：通过利用小型语言模型进行高效的大型语言模型训练](2024年10月24日/A_Little_Help_Goes_a_Long_Way_Efficient_LLM_Training_by_Leveraging_Small_LMs.md)
-
 - [A Survey on Speech Large Language Models](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
 
     - [翻译: 关于语音大型语言模型的一项调查](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
@@ -380,10 +376,6 @@
 
     - [翻译: 揭秘并缓解 Mamba 的局部模式捷径](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
-- [Self-Explained Keywords Empower Large Language Models for Code Generation](2024年10月21日/Self-Explained_Keywords_Empower_Large_Language_Models_for_Code_Generation.md)
-
-    - [翻译: 自我解释的关键词助力大型语言模型实现代码生成](2024年10月21日/Self-Explained_Keywords_Empower_Large_Language_Models_for_Code_Generation.md)
-
 - [SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
 
     - [翻译: SMILES-Prompting：化学合成领域中，破解 LLM 的新颖策略](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
@@ -709,10 +701,6 @@
 - [From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting](2024年10月18日/From_Solitary_Directives_to_Interactive_Encouragement!_LLM_Secure_Code_Generation_by_Natural_Language_Prompting.md)
 
     - [翻译: 从单一指令到互动激励，自然语言提示助力 LLM 安全代码生成。](2024年10月18日/From_Solitary_Directives_to_Interactive_Encouragement!_LLM_Secure_Code_Generation_by_Natural_Language_Prompting.md)
-
-- [GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings](2024年10月18日/GenEOL_Harnessing_the_Generative_Power_of_LLMs_for_Training-Free_Sentence_Embeddings.md)
-
-    - [翻译: GenEOL：释放 LLM 的生成力，实现无需训练的句子嵌入](2024年10月18日/GenEOL_Harnessing_the_Generative_Power_of_LLMs_for_Training-Free_Sentence_Embeddings.md)
 
 - [How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
 
@@ -1531,10 +1519,6 @@
 - [Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
 
     - [翻译: 大型语言模型能否超越图表，理解超图的奥秘？](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
-
-- [BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation](2024年10月13日/BiDoRA_Bi-level_Optimization-Based_Weight-Decomposed_Low-Rank_Adaptation.md)
-
-    - [翻译: BiDoRA：双层优化驱动的权重分解低秩适应](2024年10月13日/BiDoRA_Bi-level_Optimization-Based_Weight-Decomposed_Low-Rank_Adaptation.md)
 
 - [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](2024年10月13日/BlackDAN_A_Black-Box_Multi-Objective_Approach_for_Effective_and_Contextual_Jailbreaking_of_Large_Language_Models.md)
 
