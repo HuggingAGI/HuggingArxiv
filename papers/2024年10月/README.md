@@ -212,10 +212,6 @@
 
     - [翻译: AutoTrain：无需编码，轻松训练顶尖模型](2024年10月21日/AutoTrain_No-code_training_for_state-of-the-art_models.md)
 
-- [Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles](2024年10月21日/Bench4Merge_A_Comprehensive_Benchmark_for_Merging_in_Realistic_Dense_Traffic_with_Micro-Interactive_Vehicles.md)
-
-    - [翻译: Bench4Merge：一个全面基准，专为微交互车辆在真实密集交通中的合并挑战而设](2024年10月21日/Bench4Merge_A_Comprehensive_Benchmark_for_Merging_in_Realistic_Dense_Traffic_with_Micro-Interactive_Vehicles.md)
-
 - [Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
 
     - [翻译: 超越 2:4：探索 V:N:M 稀疏性，提升 GPU 上 Transformer 推理效率](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
@@ -1473,10 +1469,6 @@
 - [$α$-DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
 
     - [翻译: $α$-DPO：自适应奖励边际，正是直接偏好优化所需的关键。](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
-
-- [A CLIP-Powered Framework for Robust and Generalizable Data Selection](2024年10月14日/A_CLIP-Powered_Framework_for_Robust_and_Generalizable_Data_Selection.md)
-
-    - [翻译: 基于 CLIP 的框架，助力数据选择更稳健、更通用](2024年10月14日/A_CLIP-Powered_Framework_for_Robust_and_Generalizable_Data_Selection.md)
 
 - [A Multi-Task Text Classification Pipeline with Natural Language Explanations: A User-Centric Evaluation in Sentiment Analysis and Offensive Language Identification in Greek Tweets](2024年10月14日/A_Multi-Task_Text_Classification_Pipeline_with_Natural_Language_Explanations_A_User-Centric_Evaluation_in_Sentiment_Analysis_and_Offensive_Language_Identification_in_Greek_Tweets.md)
 

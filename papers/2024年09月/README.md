@@ -1,11 +1,5 @@
 # 2024年09月
 
-2024年09月30日
-
-- [Old Optimizer, New Norm: An Anthology](2024年09月30日/Old_Optimizer,_New_Norm_An_Anthology.md)
-
-    - [翻译: 经典优化器，焕发新规：精选集](2024年09月30日/Old_Optimizer,_New_Norm_An_Anthology.md)
-
 2024年09月23日
 
 - [From Commands to Prompts: LLM-based Semantic File System for AIOS](2024年09月23日/From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS.md)
