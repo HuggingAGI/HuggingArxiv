@@ -600,10 +600,6 @@
 
     - [翻译: PAT：一款无需参数的音频与文本对齐工具，旨在提升零-shot 音频分类的性能。](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
 
-- [Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization](2024年10月19日/Retrieval_Augmented_Diffusion_Model_for_Structure-informed_Antibody_Design_and_Optimization.md)
-
-    - [翻译: 结构指导抗体设计与优化的检索增强扩散模型](2024年10月19日/Retrieval_Augmented_Diffusion_Model_for_Structure-informed_Antibody_Design_and_Optimization.md)
-
 - [Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](2024年10月19日/Semantically_Safe_Robot_Manipulation_From_Semantic_Scene_Understanding_to_Motion_Safeguards.md)
 
     - [翻译: 机器人操作的语义安全：从场景理解到运动保护](2024年10月19日/Semantically_Safe_Robot_Manipulation_From_Semantic_Scene_Understanding_to_Motion_Safeguards.md)
@@ -828,10 +824,6 @@
 
     - [翻译: CBT-Bench：衡量大型语言模型在辅助认知行为疗法中的效能](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
 
-- [Cerberus: Efficient Inference with Adaptive Parallel Decoding and Sequential Knowledge Enhancement](2024年10月17日/Cerberus_Efficient_Inference_with_Adaptive_Parallel_Decoding_and_Sequential_Knowledge_Enhancement.md)
-
-    - [翻译: Cerberus：高效推理，结合自适应并行解码与顺序知识增强](2024年10月17日/Cerberus_Efficient_Inference_with_Adaptive_Parallel_Decoding_and_Sequential_Knowledge_Enhancement.md)
-
 - [CLaMP 2: Multimodal Music Information Retrieval Across 101 Languages Using Large Language Models](2024年10月17日/CLaMP_2_Multimodal_Music_Information_Retrieval_Across_101_Languages_Using_Large_Language_Models.md)
 
     - [翻译: CLaMP 2：借助大型语言模型，跨越 101 种语言的多模态音乐信息检索](2024年10月17日/CLaMP_2_Multimodal_Music_Information_Retrieval_Across_101_Languages_Using_Large_Language_Models.md)
@@ -1015,10 +1007,6 @@
 - [SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
 
     - [翻译: SeerAttention：让 LLMs 学会内在的稀疏注意力](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
-
-- [Unconstrained Model Merging for Enhanced LLM Reasoning](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
-
-    - [翻译: 无约束模型合并：提升 LLM 推理能力](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
 
 - [Utilizing Large Language Models for Event Deconstruction to Enhance Multimodal Aspect-Based Sentiment Analysis](2024年10月17日/Utilizing_Large_Language_Models_for_Event_Deconstruction_to_Enhance_Multimodal_Aspect-Based_Sentiment_Analysis.md)
 
@@ -1405,10 +1393,6 @@
 - [Effi-Code: Unleashing Code Efficiency in Language Models](2024年10月14日/Effi-Code_Unleashing_Code_Efficiency_in_Language_Models.md)
 
     - [翻译: Effi-Code：激发语言模型中的代码效率](2024年10月14日/Effi-Code_Unleashing_Code_Efficiency_in_Language_Models.md)
-
-- [Empowering Users in Digital Privacy Management through Interactive LLM-Based Agents](2024年10月14日/Empowering_Users_in_Digital_Privacy_Management_through_Interactive_LLM-Based_Agents.md)
-
-    - [翻译: 借助 LLM 驱动的交互代理，提升用户在数字隐私管理中的掌控力](2024年10月14日/Empowering_Users_in_Digital_Privacy_Management_through_Interactive_LLM-Based_Agents.md)
 
 - [ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
 
