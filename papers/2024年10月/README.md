@@ -340,6 +340,10 @@
 
     - [翻译: NetSafe：探究多智能体网络的拓扑安全特性](2024年10月21日/NetSafe_Exploring_the_Topological_Safety_of_Multi-agent_Networks.md)
 
+- [Networks: The Visual Language of Complexity](2024年10月21日/Networks_The_Visual_Language_of_Complexity.md)
+
+    - [翻译: 网络：复杂性的视觉语言](2024年10月21日/Networks_The_Visual_Language_of_Complexity.md)
+
 - [On-Device LLMs for SMEs: Challenges and Opportunities](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
 
     - [翻译: 设备上的 LLM 为中小企业带来了挑战与机遇。](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
@@ -891,6 +895,10 @@
 - [Integrating Temporal Representations for Dynamic Memory Retrieval and Management in Large Language Models](2024年10月17日/Integrating_Temporal_Representations_for_Dynamic_Memory_Retrieval_and_Management_in_Large_Language_Models.md)
 
     - [翻译: 在大规模语言模型中，整合时间表示，实现动态记忆的检索与管理。](2024年10月17日/Integrating_Temporal_Representations_for_Dynamic_Memory_Retrieval_and_Management_in_Large_Language_Models.md)
+
+- [Interpreting Temporal Graph Neural Networks with Koopman Theory](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
+
+    - [翻译: 用 Koopman 理论解释时间图神经网络](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
 
 - [Jailbreaking LLM-Controlled Robots](2024年10月17日/Jailbreaking_LLM-Controlled_Robots.md)
 
