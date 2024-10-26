@@ -192,10 +192,6 @@
 
     - [翻译: 大型语言模型面临的现实越狱威胁](2024年10月21日/A_Realistic_Threat_Model_for_Large_Language_Model_Jailbreaks.md)
 
-- [AutoTrain: No-code training for state-of-the-art models](2024年10月21日/AutoTrain_No-code_training_for_state-of-the-art_models.md)
-
-    - [翻译: AutoTrain：无需编码，轻松训练顶尖模型](2024年10月21日/AutoTrain_No-code_training_for_state-of-the-art_models.md)
-
 - [Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
 
     - [翻译: 超越 2:4：探索 V:N:M 稀疏性，提升 GPU 上 Transformer 推理效率](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
@@ -211,10 +207,6 @@
 - [Building A Coding Assistant via the Retrieval-Augmented Language Model](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
 
     - [翻译: 打造编码助手：基于检索增强的语言模型](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
-
-- [Can Large Audio-Language Models Truly Hear? Tackling Hallucinations with Multi-Task Assessment and Stepwise Audio Reasoning](2024年10月21日/Can_Large_Audio-Language_Models_Truly_Hear_Tackling_Hallucinations_with_Multi-Task_Assessment_and_Stepwise_Audio_Reasoning.md)
-
-    - [翻译: 大型音频-语言模型真的能听懂吗？通过多任务评估和逐步音频推理，我们正努力解决幻觉问题。](2024年10月21日/Can_Large_Audio-Language_Models_Truly_Hear_Tackling_Hallucinations_with_Multi-Task_Assessment_and_Stepwise_Audio_Reasoning.md)
 
 - [Can Large Language Models Invent Algorithms to Improve Themselves?](2024年10月21日/Can_Large_Language_Models_Invent_Algorithms_to_Improve_Themselves.md)
 
@@ -864,10 +856,6 @@
 
     - [翻译: 在信息搜索任务中，课程材料搜索功能与 RAG-LLM AI 聊天机器人的效用、偏好和性能比较](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
 
-- [Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning](2024年10月17日/Deep_Generative_Models_Unveil_Patterns_in_Medical_Images_Through_Vision-Language_Conditioning.md)
-
-    - [翻译: 深度生成模型借助视觉与语言的结合，揭开了医学图像中的奥秘。](2024年10月17日/Deep_Generative_Models_Unveil_Patterns_in_Medical_Images_Through_Vision-Language_Conditioning.md)
-
 - [De-mark: Watermark Removal in Large Language Models](2024年10月17日/De-mark_Watermark_Removal_in_Large_Language_Models.md)
 
     - [翻译: De-mark：大型语言模型中的水印清除术](2024年10月17日/De-mark_Watermark_Removal_in_Large_Language_Models.md)
@@ -1039,10 +1027,6 @@
 - [SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
 
     - [翻译: SeerAttention：让 LLMs 学会内在的稀疏注意力](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
-
-- [Starbucks: Improved Training for 2D Matryoshka Embeddings](2024年10月17日/Starbucks_Improved_Training_for_2D_Matryoshka_Embeddings.md)
-
-    - [翻译: 星巴克：优化了2D套娃嵌入的训练方法](2024年10月17日/Starbucks_Improved_Training_for_2D_Matryoshka_Embeddings.md)
 
 - [Unconstrained Model Merging for Enhanced LLM Reasoning](2024年10月17日/Unconstrained_Model_Merging_for_Enhanced_LLM_Reasoning.md)
 
@@ -1501,10 +1485,6 @@
 - [MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
 
     - [翻译: MoTE：在视觉-语言到视频知识转移中，平衡泛化与专业化](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
-
-- [QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios](2024年10月14日/QUITE_Quantifying_Uncertainty_in_Natural_Language_Text_in_Bayesian_Reasoning_Scenarios.md)
-
-    - [翻译: QUITE：在贝叶斯推理背景下，精准量化自然语言文本的不确定性](2024年10月14日/QUITE_Quantifying_Uncertainty_in_Natural_Language_Text_in_Bayesian_Reasoning_Scenarios.md)
 
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
