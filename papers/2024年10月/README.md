@@ -398,10 +398,6 @@
 
     - [翻译: LLMs 不确定性估计综述：理论与实践的交汇](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
 
-- [BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Compression](2024年10月20日/BRIEF_Bridging_Retrieval_and_Inference_for_Multi-hop_Reasoning_via_Compression.md)
-
-    - [翻译: BRIEF：通过压缩技术，巧妙连接检索与推理，助力多跳推理。](2024年10月20日/BRIEF_Bridging_Retrieval_and_Inference_for_Multi-hop_Reasoning_via_Compression.md)
-
 - [Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
 
     - [翻译: CAMP：一种结合本地与云端优势的智能编程助手框架](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
@@ -674,17 +670,9 @@
 
     - [翻译: REEF：大型语言模型的表示编码指纹](2024年10月18日/REEF_Representation_Encoding_Fingerprints_for_Large_Language_Models.md)
 
-- [SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment](2024年10月18日/SudoLM_Learning_Access_Control_of_Parametric_Knowledge_with_Authorization_Alignment.md)
-
-    - [翻译: SudoLM：借助授权对齐，掌握参数知识的访问控制艺术](2024年10月18日/SudoLM_Learning_Access_Control_of_Parametric_Knowledge_with_Authorization_Alignment.md)
-
 - [Supervised Chain of Thought](2024年10月18日/Supervised_Chain_of_Thought.md)
 
     - [翻译: 思维链监督](2024年10月18日/Supervised_Chain_of_Thought.md)
-
-- [Teaching Models to Balance Resisting and Accepting Persuasion](2024年10月18日/Teaching_Models_to_Balance_Resisting_and_Accepting_Persuasion.md)
-
-    - [翻译: 训练模型如何巧妙平衡抵抗与接受说服](2024年10月18日/Teaching_Models_to_Balance_Resisting_and_Accepting_Persuasion.md)
 
 - [Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
 
@@ -1249,10 +1237,6 @@
 - [Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
 
     - [翻译: 自动化筛选人类反馈数据，优化文本到图像扩散模型的对齐效果](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
-
-- [AutoTurb: Using Large Language Models for Automatic Algebraic Model Discovery of Turbulence Closure](2024年10月14日/AutoTurb_Using_Large_Language_Models_for_Automatic_Algebraic_Model_Discovery_of_Turbulence_Closure.md)
-
-    - [翻译: AutoTurb：借助大型语言模型，自动探索湍流闭包的代数模型](2024年10月14日/AutoTurb_Using_Large_Language_Models_for_Automatic_Algebraic_Model_Discovery_of_Turbulence_Closure.md)
 
 - [Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs](2024年10月14日/Balancing_Continuous_Pre-Training_and_Instruction_Fine-Tuning_Optimizing_Instruction-Following_in_LLMs.md)
 
