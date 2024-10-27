@@ -126,10 +126,6 @@
 
     - [翻译: 提高大型语言模型训练稳定性的方法](2024年10月22日/Methods_of_improving_LLM_training_stability.md)
 
-- [Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation](2024年10月22日/Optimizing_Chain-of-Thought_Reasoning_Tackling_Arranging_Bottleneck_via_Plan_Augmentation.md)
-
-    - [翻译: 优化思维链推理：通过计划增强解决排列瓶颈](2024年10月22日/Optimizing_Chain-of-Thought_Reasoning_Tackling_Arranging_Bottleneck_via_Plan_Augmentation.md)
-
 - [SmartGSN: a generative AI-powered online tool for the management of assurance cases](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
 
     - [翻译: SmartGSN：一种由生成式人工智能驱动的用于保证案例管理的在线工具](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
@@ -179,10 +175,6 @@
 - [Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
 
     - [翻译: 不仅仅是过滤：自适应图像与文本质量提升，助力多模态语言模型预训练](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
-
-- [Boosting Jailbreak Transferability for Large Language Models](2024年10月21日/Boosting_Jailbreak_Transferability_for_Large_Language_Models.md)
-
-    - [翻译: 增强大型语言模型的越狱转移能力](2024年10月21日/Boosting_Jailbreak_Transferability_for_Large_Language_Models.md)
 
 - [Building A Coding Assistant via the Retrieval-Augmented Language Model](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
 
@@ -331,10 +323,6 @@
 - [PROMPTHEUS: A Human-Centered Pipeline to Streamline SLRs with LLMs](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
 
     - [翻译: PROMPTHEUS：一个以人为本的工作流程，旨在借助大型语言模型（LLM）简化系统文献综述（SLR）的流程。](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
-
-- [PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](2024年10月21日/PUMA_Empowering_Unified_MLLM_with_Multi-granular_Visual_Generation.md)
-
-    - [翻译: PUMA：为统一的多模态语言模型注入多粒度视觉生成力量](2024年10月21日/PUMA_Empowering_Unified_MLLM_with_Multi-granular_Visual_Generation.md)
 
 - [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](2024年10月21日/Reducing_Hallucinations_in_Vision-Language_Models_via_Latent_Space_Steering.md)
 
