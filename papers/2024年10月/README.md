@@ -106,10 +106,6 @@
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
-- [Learning Mathematical Rules with Large Language Models](2024年10月22日/Learning_Mathematical_Rules_with_Large_Language_Models.md)
-
-    - [翻译: 使用大型语言模型学习数学规则](2024年10月22日/Learning_Mathematical_Rules_with_Large_Language_Models.md)
-
 - [Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Models Alignment](2024年10月22日/Magnetic_Preference_Optimization_Achieving_Last-iterate_Convergence_for_Language_Models_Alignment.md)
 
     - [翻译: 磁性偏好优化：实现语言模型对齐的最后迭代收敛](2024年10月22日/Magnetic_Preference_Optimization_Achieving_Last-iterate_Convergence_for_Language_Models_Alignment.md)
@@ -389,10 +385,6 @@
 - [Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
 
     - [翻译: CAMP：一种结合本地与云端优势的智能编程助手框架](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
-
-- [ConTReGen: Context-driven Tree-structured Retrieval for Open-domain Long-form Text Generation](2024年10月20日/ConTReGen_Context-driven_Tree-structured_Retrieval_for_Open-domain_Long-form_Text_Generation.md)
-
-    - [翻译: ConTReGen：一种基于上下文的树结构检索方法，专为开放域长文本生成设计。](2024年10月20日/ConTReGen_Context-driven_Tree-structured_Retrieval_for_Open-domain_Long-form_Text_Generation.md)
 
 - [CPE-Pro: A Structure-Sensitive Deep Learning Model for Protein Representation and Origin Evaluation](2024年10月20日/CPE-Pro_A_Structure-Sensitive_Deep_Learning_Model_for_Protein_Representation_and_Origin_Evaluation.md)
 
@@ -898,10 +890,6 @@
 
 2024年10月16日
 
-- [3D Gaussian Splatting in Robotics: A Survey](2024年10月16日/3D_Gaussian_Splatting_in_Robotics_A_Survey.md)
-
-    - [翻译: 机器人领域的3D高斯喷射技术调查](2024年10月16日/3D_Gaussian_Splatting_in_Robotics_A_Survey.md)
-
 - [Agent Skill Acquisition for Large Language Models via CycleQD](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
 
     - [翻译: 利用 CycleQD 提升大型语言模型的代理技能](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
@@ -1156,10 +1144,6 @@
 
     - [翻译: OMCAT：全场景智能Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
 
-- [PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model](2024年10月15日/PAVLM_Advancing_Point_Cloud_based_Affordance_Understanding_Via_Vision-Language_Model.md)
-
-    - [翻译: PAVLM：借助视觉-语言模型，推动基于点云的可操作性理解](2024年10月15日/PAVLM_Advancing_Point_Cloud_based_Affordance_Understanding_Via_Vision-Language_Model.md)
-
 - [QSpec: Speculative Decoding with Complementary Quantization Schemes](2024年10月15日/QSpec_Speculative_Decoding_with_Complementary_Quantization_Schemes.md)
 
     - [翻译: QSpec：采用互补量化方案的推测性解码技术](2024年10月15日/QSpec_Speculative_Decoding_with_Complementary_Quantization_Schemes.md)
@@ -1397,10 +1381,6 @@
 - [SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs](2024年10月12日/SLiM_One-shot_Quantized_Sparse_Plus_Low-rank_Approximation_of_LLMs.md)
 
     - [翻译: SLiM：一次量化稀疏加低秩近似 LLM](2024年10月12日/SLiM_One-shot_Quantized_Sparse_Plus_Low-rank_Approximation_of_LLMs.md)
-
-- [Synthetic Knowledge Ingestion: Towards Knowledge Refinement and Injection for Enhancing Large Language Models](2024年10月12日/Synthetic_Knowledge_Ingestion_Towards_Knowledge_Refinement_and_Injection_for_Enhancing_Large_Language_Models.md)
-
-    - [翻译: 合成知识摄取：通过知识精炼与注入，提升大型语言模型的能力](2024年10月12日/Synthetic_Knowledge_Ingestion_Towards_Knowledge_Refinement_and_Injection_for_Enhancing_Large_Language_Models.md)
 
 - [Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
 
