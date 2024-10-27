@@ -594,10 +594,6 @@
 
     - [翻译: 系统探讨跨层 KV 共享如何提升 LLM 推理效率](2024年10月18日/A_Systematic_Study_of_Cross-Layer_KV_Sharing_for_Efficient_LLM_Inference.md)
 
-- [Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models](2024年10月18日/Backdoored_Retrievers_for_Prompt_Injection_Attacks_on_Retrieval_Augmented_Generation_of_Large_Language_Models.md)
-
-    - [翻译: 针对大型语言模型增强生成的提示注入攻击，我们设计了后门检索器，以应对这一挑战。](2024年10月18日/Backdoored_Retrievers_for_Prompt_Injection_Attacks_on_Retrieval_Augmented_Generation_of_Large_Language_Models.md)
-
 - [Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement](2024年10月18日/Beyond_Binary_Towards_Fine-Grained_LLM-Generated_Text_Detection_via_Role_Recognition_and_Involvement_Measurement.md)
 
     - [翻译: 超越二元对立，通过角色识别与参与度测量，实现对 LLM 生成文本的精细检测。](2024年10月18日/Beyond_Binary_Towards_Fine-Grained_LLM-Generated_Text_Detection_via_Role_Recognition_and_Involvement_Measurement.md)
@@ -1113,10 +1109,6 @@
 - [Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving](2024年10月16日/Robust_RL_with_LLM-Driven_Data_Synthesis_and_Policy_Adaptation_for_Autonomous_Driving.md)
 
     - [翻译: 基于 LLM 数据合成与策略适应的鲁棒强化学习，助力自动驾驶技术发展](2024年10月16日/Robust_RL_with_LLM-Driven_Data_Synthesis_and_Policy_Adaptation_for_Autonomous_Driving.md)
-
-- [RosePO: Aligning LLM-based Recommenders with Human Values](2024年10月16日/RosePO_Aligning_LLM-based_Recommenders_with_Human_Values.md)
-
-    - [翻译: RosePO：让基于 LLM 的推荐系统与人类价值观和谐共舞](2024年10月16日/RosePO_Aligning_LLM-based_Recommenders_with_Human_Values.md)
 
 - [SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling](2024年10月16日/SAC-GLAM_Improving_Online_RL_for_LLM_agents_with_Soft_Actor-Critic_and_Hindsight_Relabeling.md)
 
