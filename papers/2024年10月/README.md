@@ -26,10 +26,6 @@
 
     - [翻译: 使用前沿开源大型语言模型进行知识蒸馏：泛化能力和合成数据的作用](2024年10月24日/Knowledge_Distillation_Using_Frontier_Open-source_LLMs_Generalizability_and_the_Role_of_Synthetic_Data.md)
 
-- [Large Generative AI Models meet Open Networks for 6G: Integration, Platform, and Monetization](2024年10月24日/Large_Generative_AI_Models_meet_Open_Networks_for_6G_Integration,_Platform,_and_Monetization.md)
-
-    - [翻译: 大型生成式人工智能模型与 6G 的开放网络相遇：集成、平台和货币化](2024年10月24日/Large_Generative_AI_Models_meet_Open_Networks_for_6G_Integration,_Platform,_and_Monetization.md)
-
 - [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
 
     - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
@@ -67,10 +63,6 @@
 - [EON: A practical energy-preserving rough diffuse BRDF](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
 
     - [翻译: EON：一种实用的能量守恒的粗糙漫反射双向反射分布函数](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
-
-- [OpenMU: Your Swiss Army Knife for Music Understanding](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
-
-    - [翻译: OpenMU：音乐理解的万能工具](2024年10月23日/OpenMU_Your_Swiss_Army_Knife_for_Music_Understanding.md)
 
 - [Position-Aided Semantic Communication for Efficient Image Transmission: Design, Implementation, and Experimental Results](2024年10月23日/Position-Aided_Semantic_Communication_for_Efficient_Image_Transmission_Design,_Implementation,_and_Experimental_Results.md)
 
@@ -429,10 +421,6 @@
 - [A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
 
     - [翻译: LLMs 不确定性估计综述：理论与实践的交汇](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
-
-- [Attention Is All You Need for LLM-based Code Vulnerability Localization](2024年10月20日/Attention_Is_All_You_Need_for_LLM-based_Code_Vulnerability_Localization.md)
-
-    - [翻译: 在基于大型语言模型的代码漏洞定位中，注意力机制是关键。](2024年10月20日/Attention_Is_All_You_Need_for_LLM-based_Code_Vulnerability_Localization.md)
 
 - [BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Compression](2024年10月20日/BRIEF_Bridging_Retrieval_and_Inference_for_Multi-hop_Reasoning_via_Compression.md)
 
