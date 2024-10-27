@@ -200,10 +200,6 @@
 
     - [翻译: CausalGraph2LLM：探究 LLM 在因果查询中的表现](2024年10月21日/CausalGraph2LLM_Evaluating_LLMs_for_Causal_Queries.md)
 
-- [CL-HOI: Cross-Level Human-Object Interaction Distillation from Vision Large Language Models](2024年10月21日/CL-HOI_Cross-Level_Human-Object_Interaction_Distillation_from_Vision_Large_Language_Models.md)
-
-    - [翻译: CL-HOI：从视觉大语言模型中提取跨层次的人-物交互](2024年10月21日/CL-HOI_Cross-Level_Human-Object_Interaction_Distillation_from_Vision_Large_Language_Models.md)
-
 - [Comprehensive benchmarking of large language models for RNA secondary structure prediction](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
 
     - [翻译: 全面评估大型语言模型在 RNA 二级结构预测中的表现](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
@@ -650,10 +646,6 @@
 
     - [翻译: 提升加密货币市场预测：融合先进机器学习技术与工业工程智慧](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
 
-- [EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search](2024年10月18日/EvoPress_Towards_Optimal_Dynamic_Model_Compression_via_Evolutionary_Search.md)
-
-    - [翻译: EvoPress：借助进化搜索，迈向最佳动态模型压缩](2024年10月18日/EvoPress_Towards_Optimal_Dynamic_Model_Compression_via_Evolutionary_Search.md)
-
 - [From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting](2024年10月18日/From_Solitary_Directives_to_Interactive_Encouragement!_LLM_Secure_Code_Generation_by_Natural_Language_Prompting.md)
 
     - [翻译: 从单一指令到互动激励，自然语言提示助力 LLM 安全代码生成。](2024年10月18日/From_Solitary_Directives_to_Interactive_Encouragement!_LLM_Secure_Code_Generation_by_Natural_Language_Prompting.md)
@@ -815,10 +807,6 @@
 - [Generating Signed Language Instructions in Large-Scale Dialogue Systems](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
 
     - [翻译: 大规模对话系统中的手语指令生成](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
-
-- [GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models](2024年10月17日/GeoCoder_Solving_Geometry_Problems_by_Generating_Modular_Code_through_Vision-Language_Models.md)
-
-    - [翻译: GeoCoder：借助视觉-语言模型生成模块化代码，轻松解决几何难题](2024年10月17日/GeoCoder_Solving_Geometry_Problems_by_Generating_Modular_Code_through_Vision-Language_Models.md)
 
 - [Goal Inference from Open-Ended Dialog](2024年10月17日/Goal_Inference_from_Open-Ended_Dialog.md)
 
