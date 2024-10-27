@@ -1288,17 +1288,9 @@
 
     - [翻译: ReDeEP：利用机制可解释性，精准检测检索增强生成中的幻觉现象。](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
 
-- [Self-adaptive Multimodal Retrieval-Augmented Generation](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 自适应多模态检索增强生成技术](2024年10月15日/Self-adaptive_Multimodal_Retrieval-Augmented_Generation.md)
-
 - [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
 
     - [翻译: SGEdit：融合 LLM 与 Text2Image 生成模型，实现基于场景图的图像编辑](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
-
-- [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](2024年10月15日/SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding.md)
-
-    - [翻译: SlideChat：一款强大的视觉-语言助手，专为全切片病理图像的深度理解而设计。](2024年10月15日/SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding.md)
 
 - [TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration](2024年10月15日/TransAgent_Transfer_Vision-Language_Foundation_Models_with_Heterogeneous_Agent_Collaboration.md)
 
@@ -1559,10 +1551,6 @@
 - [A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
 
     - [翻译: RAG 系统评估方法论：配置依赖验证案例研究](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
-
-- [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
-
-    - [翻译: 在 LLM 和 VLM 时代，音频描述生成：探索可转移的生成 AI 技术](2024年10月11日/Audio_Description_Generation_in_the_Era_of_LLMs_and_VLMs_A_Review_of_Transferable_Generative_AI_Technologies.md)
 
 - [From N-grams to Pre-trained Multilingual Models For Language Identification](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
