@@ -438,10 +438,6 @@
 
     - [翻译: LlamaLens：一款专为分析新闻与社交媒体内容而设计的多语言大型语言模型](2024年10月20日/LlamaLens_Specialized_Multilingual_LLM_for_Analyzing_News_and_Social_Media_Content.md)
 
-- [MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](2024年10月20日/MAD_Move_AI_Decompiler_to_Improve_Transparency_and_Auditability_on_Non-Open-Source_Blockchain_Smart_Contract.md)
-
-    - [翻译: MAD：通过将 AI 反编译器引入非开源区块链智能合约，提升透明度和审计能力](2024年10月20日/MAD_Move_AI_Decompiler_to_Improve_Transparency_and_Auditability_on_Non-Open-Source_Blockchain_Smart_Contract.md)
-
 - [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
 
     - [翻译: 在线 RLHF 与神经参数化的全局收敛性探讨](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
@@ -503,10 +499,6 @@
 - [Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
 
     - [翻译: 从粗到细的突出显示：减少大型语言模型中的知识幻觉](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
-
-- [Economic Anthropology in the Era of Generative Artificial Intelligence](2024年10月19日/Economic_Anthropology_in_the_Era_of_Generative_Artificial_Intelligence.md)
-
-    - [翻译: 在生成式人工智能的时代，经济人类学的新篇章正在展开。](2024年10月19日/Economic_Anthropology_in_the_Era_of_Generative_Artificial_Intelligence.md)
 
 - [Evaluating Deep Unlearning in Large Language Models](2024年10月19日/Evaluating_Deep_Unlearning_in_Large_Language_Models.md)
 
@@ -1237,10 +1229,6 @@
 - [Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation](2024年10月14日/Both_Ears_Wide_Open_Towards_Language-Driven_Spatial_Audio_Generation.md)
 
     - [翻译: 双耳全开：探索语言驱动的空间音频生成](2024年10月14日/Both_Ears_Wide_Open_Towards_Language-Driven_Spatial_Audio_Generation.md)
-
-- [Can Structured Data Reduce Epistemic Uncertainty?](2024年10月14日/Can_Structured_Data_Reduce_Epistemic_Uncertainty.md)
-
-    - [翻译: 结构化数据能否降低认知不确定性？](2024年10月14日/Can_Structured_Data_Reduce_Epistemic_Uncertainty.md)
 
 - [Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
