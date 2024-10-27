@@ -1074,10 +1074,6 @@
 
     - [翻译: 基于 LLM 数据合成与策略适应的鲁棒强化学习，助力自动驾驶技术发展](2024年10月16日/Robust_RL_with_LLM-Driven_Data_Synthesis_and_Policy_Adaptation_for_Autonomous_Driving.md)
 
-- [SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling](2024年10月16日/SAC-GLAM_Improving_Online_RL_for_LLM_agents_with_Soft_Actor-Critic_and_Hindsight_Relabeling.md)
-
-    - [翻译: SAC-GLAM：结合软演员-评论家与事后重标记，提升 LLM 代理的在线强化学习效果。](2024年10月16日/SAC-GLAM_Improving_Online_RL_for_LLM_agents_with_Soft_Actor-Critic_and_Hindsight_Relabeling.md)
-
 - [Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
 
     - [翻译: 利用动态转向向量实现 LLM 的语义自适应激活干预](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
@@ -1123,10 +1119,6 @@
 - [De-jargonizing Science for Journalists with GPT-4: A Pilot Study](2024年10月15日/De-jargonizing_Science_for_Journalists_with_GPT-4_A_Pilot_Study.md)
 
     - [翻译: 利用 GPT-4 帮助记者简化科学术语：一次初步探索](2024年10月15日/De-jargonizing_Science_for_Journalists_with_GPT-4_A_Pilot_Study.md)
-
-- [Difficult Task Yes but Simple Task No: Unveiling the Laziness in Multimodal LLMs](2024年10月15日/Difficult_Task_Yes_but_Simple_Task_No_Unveiling_the_Laziness_in_Multimodal_LLMs.md)
-
-    - [翻译: 多模态大型语言模型在处理困难任务时表现出色，但在简单任务上却显得懒散。本文将揭示这种“懒惰”现象。](2024年10月15日/Difficult_Task_Yes_but_Simple_Task_No_Unveiling_the_Laziness_in_Multimodal_LLMs.md)
 
 - [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
 
@@ -1237,10 +1229,6 @@
 - [Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
 
     - [翻译: 自动化筛选人类反馈数据，优化文本到图像扩散模型的对齐效果](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
-
-- [Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs](2024年10月14日/Balancing_Continuous_Pre-Training_and_Instruction_Fine-Tuning_Optimizing_Instruction-Following_in_LLMs.md)
-
-    - [翻译: 在 LLM 中，如何平衡连续预训练与指令微调，以优化指令跟随能力，是一个关键课题。](2024年10月14日/Balancing_Continuous_Pre-Training_and_Instruction_Fine-Tuning_Optimizing_Instruction-Following_in_LLMs.md)
 
 - [Beyond-RAG: Question Identification and Answer Generation in Real-Time Conversations](2024年10月14日/Beyond-RAG_Question_Identification_and_Answer_Generation_in_Real-Time_Conversations.md)
 
