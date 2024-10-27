@@ -90,10 +90,6 @@
 
     - [翻译: ClimaQA：气候基础模型的一个自动评估框架](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
 
-- [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](2024年10月22日/Context-aware_Inductive_Knowledge_Graph_Completion_with_Latent_Type_Constraints_and_Subgraph_Reasoning.md)
-
-    - [翻译: 具有潜在类型约束和子图推理的上下文感知归纳知识图谱补全](2024年10月22日/Context-aware_Inductive_Knowledge_Graph_Completion_with_Latent_Type_Constraints_and_Subgraph_Reasoning.md)
-
 - [Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models](2024年10月22日/Controlled_Low-Rank_Adaptation_with_Subspace_Regularization_for_Continued_Training_on_Large_Language_Models.md)
 
     - [翻译: 对于大型语言模型的持续训练，采用子空间正则化的受控低秩适应](2024年10月22日/Controlled_Low-Rank_Adaptation_with_Subspace_Regularization_for_Continued_Training_on_Large_Language_Models.md)
@@ -536,10 +532,6 @@
 
     - [翻译: 探究大型语言模型中的深度遗忘现象](2024年10月19日/Evaluating_Deep_Unlearning_in_Large_Language_Models.md)
 
-- [Evaluation Of P300 Speller Performance Using Large Language Models Along With Cross-Subject Training](2024年10月19日/Evaluation_Of_P300_Speller_Performance_Using_Large_Language_Models_Along_With_Cross-Subject_Training.md)
-
-    - [翻译: 结合大型语言模型与跨受试者训练，评估 P300 拼写器的性能表现。](2024年10月19日/Evaluation_Of_P300_Speller_Performance_Using_Large_Language_Models_Along_With_Cross-Subject_Training.md)
-
 - [Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction](2024年10月19日/Explaining_Graph_Neural_Networks_with_Large_Language_Models_A_Counterfactual_Perspective_for_Molecular_Property_Prediction.md)
 
     - [翻译: 用大型语言模型解读图神经网络：从反事实视角探索分子属性预测](2024年10月19日/Explaining_Graph_Neural_Networks_with_Large_Language_Models_A_Counterfactual_Perspective_for_Molecular_Property_Prediction.md)
@@ -567,10 +559,6 @@
 - [Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
 
     - [翻译: 利用梯度优化技术，在大语言模型中探寻故障令牌的奥秘](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
-
-- [MorphAgent: Empowering Agents through Self-Evolving Profiles and Decentralized Collaboration](2024年10月19日/MorphAgent_Empowering_Agents_through_Self-Evolving_Profiles_and_Decentralized_Collaboration.md)
-
-    - [翻译: MorphAgent：借助自我进化档案与去中心化协作，赋予代理全新能力](2024年10月19日/MorphAgent_Empowering_Agents_through_Self-Evolving_Profiles_and_Decentralized_Collaboration.md)
 
 - [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
 
@@ -1001,10 +989,6 @@
 - [Can We Reverse In-Context Knowledge Edits?](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
 
     - [翻译: 上下文知识编辑能否被逆转？](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
-
-- [Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
-
-    - [翻译: 大规模视觉语言模型中的跨模态安全机制转移](2024年10月16日/Cross-Modal_Safety_Mechanism_Transfer_in_Large_Vision-Language_Models.md)
 
 - [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](2024年10月16日/DocLayout-YOLO_Enhancing_Document_Layout_Analysis_through_Diverse_Synthetic_Data_and_Global-to-Local_Adaptive_Perception.md)
 
