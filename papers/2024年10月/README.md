@@ -70,10 +70,6 @@
 
     - [翻译: AskBeacon——用自然语言进行基因组数据交换和分析](2024年10月22日/AskBeacon_--_Performing_genomic_data_exchange_and_analytics_with_natural_language.md)
 
-- [Atomic Fact Decomposition Helps Attributed Question Answering](2024年10月22日/Atomic_Fact_Decomposition_Helps_Attributed_Question_Answering.md)
-
-    - [翻译: 原子事实分解有助于属性问答](2024年10月22日/Atomic_Fact_Decomposition_Helps_Attributed_Question_Answering.md)
-
 - [Beyond Retrieval: Generating Narratives in Conversational Recommender Systems](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
 
     - [翻译: 超越检索：在会话推荐系统中生成叙述](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
@@ -479,10 +475,6 @@
 - [Back to School: Translation Using Grammar Books](2024年10月19日/Back_to_School_Translation_Using_Grammar_Books.md)
 
     - [翻译: 重返校园：借助语法书玩转翻译](2024年10月19日/Back_to_School_Translation_Using_Grammar_Books.md)
-
-- [Bias Amplification: Language Models as Increasingly Biased Media](2024年10月19日/Bias_Amplification_Language_Models_as_Increasingly_Biased_Media.md)
-
-    - [翻译: 语言模型：日益加剧的偏见放大器](2024年10月19日/Bias_Amplification_Language_Models_as_Increasingly_Biased_Media.md)
 
 - [Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison](2024年10月19日/Can_LVLMs_Describe_Videos_like_Humans_A_Five-in-One_Video_Annotations_Benchmark_for_Better_Human-Machine_Comparison.md)
 
