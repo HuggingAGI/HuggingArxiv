@@ -14,10 +14,6 @@
 
     - [翻译: 通过中间表示上的图对比学习进行二进制代码相似性检测](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
 
-- [Distill Visual Chart Reasoning Ability from LLMs to MLLMs](2024年10月24日/Distill_Visual_Chart_Reasoning_Ability_from_LLMs_to_MLLMs.md)
-
-    - [翻译: 从大型语言模型（LLMs）向多语言大型语言模型（MLLMs）提炼视觉图表推理能力](2024年10月24日/Distill_Visual_Chart_Reasoning_Ability_from_LLMs_to_MLLMs.md)
-
 - [DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
 
     - [翻译: DreamClear：通过隐私安全的数据集策划实现高容量的真实世界图像恢复](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
@@ -470,10 +466,6 @@
 
     - [翻译: MAD：通过将 AI 反编译器引入非开源区块链智能合约，提升透明度和审计能力](2024年10月20日/MAD_Move_AI_Decompiler_to_Improve_Transparency_and_Auditability_on_Non-Open-Source_Blockchain_Smart_Contract.md)
 
-- [Modality-Fair Preference Optimization for Trustworthy MLLM Alignment](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
-
-    - [翻译: 模态公平偏好优化，助力多模态语言模型可信对齐](2024年10月20日/Modality-Fair_Preference_Optimization_for_Trustworthy_MLLM_Alignment.md)
-
 - [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
 
     - [翻译: 在线 RLHF 与神经参数化的全局收敛性探讨](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
@@ -840,10 +832,6 @@
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
-- [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](2024年10月17日/Fluid_Scaling_Autoregressive_Text-to-image_Generative_Models_with_Continuous_Tokens.md)
-
-    - [翻译: Fluid：通过连续标记扩展自回归文本到图像生成模型的规模](2024年10月17日/Fluid_Scaling_Autoregressive_Text-to-image_Generative_Models_with_Continuous_Tokens.md)
-
 - [Generating Signed Language Instructions in Large-Scale Dialogue Systems](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
 
     - [翻译: 大规模对话系统中的手语指令生成](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
@@ -895,10 +883,6 @@
 - [LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
 
     - [翻译: LAR-ECHR：欧洲人权法院案件的新法律论证推理任务与数据集](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
-
-- [Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis](2024年10月17日/Large_Language_Models_are_Easily_Confused_A_Quantitative_Metric,_Security_Implications_and_Typological_Analysis.md)
-
-    - [翻译: 大型语言模型易受迷惑：定量指标揭示其安全隐忧与类型学解析](2024年10月17日/Large_Language_Models_are_Easily_Confused_A_Quantitative_Metric,_Security_Implications_and_Typological_Analysis.md)
 
 - [Latent Weight Diffusion: Generating Policies from Trajectories](2024年10月17日/Latent_Weight_Diffusion_Generating_Policies_from_Trajectories.md)
 
@@ -991,10 +975,6 @@
 - [SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
 
     - [翻译: SeerAttention：让 LLMs 学会内在的稀疏注意力](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
-
-- [Utilizing Large Language Models for Event Deconstruction to Enhance Multimodal Aspect-Based Sentiment Analysis](2024年10月17日/Utilizing_Large_Language_Models_for_Event_Deconstruction_to_Enhance_Multimodal_Aspect-Based_Sentiment_Analysis.md)
-
-    - [翻译: 借助大型语言模型解构事件，提升多模态方面情感分析的精准度](2024年10月17日/Utilizing_Large_Language_Models_for_Event_Deconstruction_to_Enhance_Multimodal_Aspect-Based_Sentiment_Analysis.md)
 
 - [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](2024年10月17日/Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation.md)
 
