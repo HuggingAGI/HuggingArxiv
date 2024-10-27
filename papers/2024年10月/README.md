@@ -248,10 +248,6 @@
 
     - [翻译: DomainSum：抽象文本摘要中细粒度领域转移的分层基准](2024年10月21日/DomainSum_A_Hierarchical_Benchmark_for_Fine-Grained_Domain_Shift_in_Abstractive_Text_Summarization.md)
 
-- [Elucidating the design space of language models for image generation](2024年10月21日/Elucidating_the_design_space_of_language_models_for_image_generation.md)
-
-    - [翻译: 探索图像生成语言模型的设计奥秘](2024年10月21日/Elucidating_the_design_space_of_language_models_for_image_generation.md)
-
 - [Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small](2024年10月21日/Enabling_Energy-Efficient_Deployment_of_Large_Language_Models_on_Memristor_Crossbar_A_Synergy_of_Large_and_Small.md)
 
     - [翻译: 忆阻器交叉阵列上的大型语言模型节能部署：大小协同之道](2024年10月21日/Enabling_Energy-Efficient_Deployment_of_Large_Language_Models_on_Memristor_Crossbar_A_Synergy_of_Large_and_Small.md)
@@ -465,10 +461,6 @@
 - [EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models](2024年10月20日/EPIC_Efficient_Position-Independent_Context_Caching_for_Serving_Large_Language_Models.md)
 
     - [翻译: EPIC：为大型语言模型服务提供高效的位置无关上下文缓存](2024年10月20日/EPIC_Efficient_Position-Independent_Context_Caching_for_Serving_Large_Language_Models.md)
-
-- [Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training](2024年10月20日/Exploring_Curriculum_Learning_for_Vision-Language_Tasks_A_Study_on_Small-Scale_Multimodal_Training.md)
-
-    - [翻译: 探究视觉与语言任务中的课程学习：小规模多模态训练研究](2024年10月20日/Exploring_Curriculum_Learning_for_Vision-Language_Tasks_A_Study_on_Small-Scale_Multimodal_Training.md)
 
 - [Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
 
@@ -984,10 +976,6 @@
 
     - [翻译: 在自动文本翻译中，单语源数据的数量与质量孰重孰轻？质量虽高，数量不足是否仍能胜任？](2024年10月17日/Quantity_vs._Quality_of_Monolingual_Source_Data_in_Automatic_Text_Translation_Can_It_Be_Too_Little_If_It_Is_Too_Good.md)
 
-- [RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards](2024年10月17日/RAG-DDR_Optimizing_Retrieval-Augmented_Generation_Using_Differentiable_Data_Rewards.md)
-
-    - [翻译: RAG-DDR：通过可微数据奖励优化检索增强生成](2024年10月17日/RAG-DDR_Optimizing_Retrieval-Augmented_Generation_Using_Differentiable_Data_Rewards.md)
-
 - [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
     - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
@@ -1216,10 +1204,6 @@
 
     - [翻译: 增强驱动度量：平衡文本引导图像编辑中的保留与修改](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
 
-- [CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
-
-    - [翻译: CoTracker3：借助伪标签技术，在真实视频中实现更简便且高效的点跟踪。](2024年10月15日/CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos.md)
-
 - [CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
 
     - [翻译: CtrlSynth：一种可控的图像文本合成工具，专为高效多模态学习设计。](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
@@ -1259,10 +1243,6 @@
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
     - [翻译: 指导性代码检索器：借助大型语言模型的反馈，提升代码智能任务的表现](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
-
-- [KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities](2024年10月15日/KITTEN_A_Knowledge-Intensive_Evaluation_of_Image_Generation_on_Visual_Entities.md)
-
-    - [翻译: KITTEN：视觉实体图像生成的知识密集型评估](2024年10月15日/KITTEN_A_Knowledge-Intensive_Evaluation_of_Image_Generation_on_Visual_Entities.md)
 
 - [Language Models Encode Numbers Using Digit Representations in Base 10](2024年10月15日/Language_Models_Encode_Numbers_Using_Digit_Representations_in_Base_10.md)
 
