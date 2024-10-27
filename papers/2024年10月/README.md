@@ -682,10 +682,6 @@
 
     - [翻译: MARLIN：通过语言引导的机器人间协商实现的多智能体强化学习](2024年10月18日/MARLIN_Multi-Agent_Reinforcement_Learning_Guided_by_Language-Based_Inter-Robot_Negotiation.md)
 
-- [MoDification: Mixture of Depths Made Easy](2024年10月18日/MoDification_Mixture_of_Depths_Made_Easy.md)
-
-    - [翻译: MoDification：深度混合轻松实现](2024年10月18日/MoDification_Mixture_of_Depths_Made_Easy.md)
-
 - [MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems](2024年10月18日/MultiChartQA_Benchmarking_Vision-Language_Models_on_Multi-Chart_Problems.md)
 
     - [翻译: MultiChartQA：评估视觉-语言模型在多图表问题上的表现](2024年10月18日/MultiChartQA_Benchmarking_Vision-Language_Models_on_Multi-Chart_Problems.md)
@@ -1271,10 +1267,6 @@
 - [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
 
     - [翻译: SGEdit：融合 LLM 与 Text2Image 生成模型，实现基于场景图的图像编辑](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
-
-- [TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration](2024年10月15日/TransAgent_Transfer_Vision-Language_Foundation_Models_with_Heterogeneous_Agent_Collaboration.md)
-
-    - [翻译: TransAgent：借助异构代理协作，实现视觉-语言基础模型的迁移](2024年10月15日/TransAgent_Transfer_Vision-Language_Foundation_Models_with_Heterogeneous_Agent_Collaboration.md)
 
 - [Transformer Layer Injection: A Novel Approach for Efficient Upscaling of Large Language Models](2024年10月15日/Transformer_Layer_Injection_A_Novel_Approach_for_Efficient_Upscaling_of_Large_Language_Models.md)
 
