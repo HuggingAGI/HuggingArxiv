@@ -6,6 +6,12 @@
 
     - [翻译: 微型恒宽体](2024年05月28日/Small_volume_bodies_of_constant_width.md)
 
+2024年05月25日
+
+- [A First Course in Monte Carlo Methods](2024年05月25日/A_First_Course_in_Monte_Carlo_Methods.md)
+
+    - [翻译: 蒙特卡罗方法基础课程](2024年05月25日/A_First_Course_in_Monte_Carlo_Methods.md)
+
 2024年05月23日
 
 - [Embodied LLM Agents Learn to Cooperate in Organized Teams](2024年05月23日/Embodied_LLM_Agents_Learn_to_Cooperate_in_Organized_Teams.md)
