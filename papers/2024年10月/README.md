@@ -42,10 +42,6 @@
 
     - [翻译: SIKeD：用于数学推理的自引导迭代知识蒸馏](2024年10月24日/SIKeD_Self-guided_Iterative_Knowledge_Distillation_for_mathematical_reasoning.md)
 
-- [Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience](2024年10月24日/Smart_ETL_and_LLM-based_contents_classification_the_European_Smart_Tourism_Tools_Observatory_experience.md)
-
-    - [翻译: 智能 ETL 和基于 LLM 的内容分类：欧洲智能旅游工具观测站的经验](2024年10月24日/Smart_ETL_and_LLM-based_contents_classification_the_European_Smart_Tourism_Tools_Observatory_experience.md)
-
 - [Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
 
     - [翻译: 迈向更好的开放式文本生成：一个多标准评估框架](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
@@ -159,10 +155,6 @@
 - [A Psycholinguistic Evaluation of Language Models' Sensitivity to Argument Roles](2024年10月21日/A_Psycholinguistic_Evaluation_of_Language_Models'_Sensitivity_to_Argument_Roles.md)
 
     - [翻译: 探究语言模型对论元角色敏感性的心理语言学视角](2024年10月21日/A_Psycholinguistic_Evaluation_of_Language_Models'_Sensitivity_to_Argument_Roles.md)
-
-- [A Realistic Threat Model for Large Language Model Jailbreaks](2024年10月21日/A_Realistic_Threat_Model_for_Large_Language_Model_Jailbreaks.md)
-
-    - [翻译: 大型语言模型面临的现实越狱威胁](2024年10月21日/A_Realistic_Threat_Model_for_Large_Language_Model_Jailbreaks.md)
 
 - [Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
 
@@ -495,10 +487,6 @@
 - [Evaluating Deep Unlearning in Large Language Models](2024年10月19日/Evaluating_Deep_Unlearning_in_Large_Language_Models.md)
 
     - [翻译: 探究大型语言模型中的深度遗忘现象](2024年10月19日/Evaluating_Deep_Unlearning_in_Large_Language_Models.md)
-
-- [Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction](2024年10月19日/Explaining_Graph_Neural_Networks_with_Large_Language_Models_A_Counterfactual_Perspective_for_Molecular_Property_Prediction.md)
-
-    - [翻译: 用大型语言模型解读图神经网络：从反事实视角探索分子属性预测](2024年10月19日/Explaining_Graph_Neural_Networks_with_Large_Language_Models_A_Counterfactual_Perspective_for_Molecular_Property_Prediction.md)
 
 - [Exploring LLM Support for Generating IEC 61131-3 Graphic Language Programs](2024年10月19日/Exploring_LLM_Support_for_Generating_IEC_61131-3_Graphic_Language_Programs.md)
 
@@ -1401,10 +1389,6 @@
 - [LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
 
     - [翻译: 在大型语言模型中，如何巧妙地引出、筛选并整合知识，以提升常识推理能力，是我们探讨的核心。](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
-
-- [MIRAGE: Evaluating and Explaining Inductive Reasoning Process in Language Models](2024年10月12日/MIRAGE_Evaluating_and_Explaining_Inductive_Reasoning_Process_in_Language_Models.md)
-
-    - [翻译: MIRAGE：探索与揭示语言模型中的归纳推理奥秘](2024年10月12日/MIRAGE_Evaluating_and_Explaining_Inductive_Reasoning_Process_in_Language_Models.md)
 
 - [Reconstructive Visual Instruction Tuning](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
