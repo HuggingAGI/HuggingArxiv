@@ -32,10 +32,6 @@
 
     - [翻译: 小巨人：大规模合成高质量嵌入数据](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
 
-- [LLM-Aided Efficient Hardware Design Automation](2024年10月24日/LLM-Aided_Efficient_Hardware_Design_Automation.md)
-
-    - [翻译: LLM 辅助的高效硬件设计自动化](2024年10月24日/LLM-Aided_Efficient_Hardware_Design_Automation.md)
-
 - [SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: SafeBench：多模态大型语言模型的安全评估框架](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
@@ -548,10 +544,6 @@
 
     - [翻译: 长上下文 LLM 中，相关信息片段的距离会导致偏差。](2024年10月18日/Distance_between_Relevant_Information_Pieces_Causes_Bias_in_Long-Context_LLMs.md)
 
-- [DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents](2024年10月18日/DistRL_An_Asynchronous_Distributed_Reinforcement_Learning_Framework_for_On-Device_Control_Agents.md)
-
-    - [翻译: DistRL：专为设备控制代理设计的异步分布式强化学习框架](2024年10月18日/DistRL_An_Asynchronous_Distributed_Reinforcement_Learning_Framework_for_On-Device_Control_Agents.md)
-
 - [Dynamic Negative Guidance of Diffusion Models](2024年10月18日/Dynamic_Negative_Guidance_of_Diffusion_Models.md)
 
     - [翻译: 扩散模型的动态负面引导](2024年10月18日/Dynamic_Negative_Guidance_of_Diffusion_Models.md)
@@ -745,10 +737,6 @@
 - [Improving Multi-modal Large Language Model through Boosting Vision Capabilities](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
 
     - [翻译: 通过增强视觉能力，我们致力于提升多模态大型语言模型的性能。](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
-
-- [Integrating Large Language Models and Reinforcement Learning for Non-Linear Reasoning](2024年10月17日/Integrating_Large_Language_Models_and_Reinforcement_Learning_for_Non-Linear_Reasoning.md)
-
-    - [翻译: 融合大型语言模型与强化学习，探索非线性推理的新路径](2024年10月17日/Integrating_Large_Language_Models_and_Reinforcement_Learning_for_Non-Linear_Reasoning.md)
 
 - [Integrating Temporal Representations for Dynamic Memory Retrieval and Management in Large Language Models](2024年10月17日/Integrating_Temporal_Representations_for_Dynamic_Memory_Retrieval_and_Management_in_Large_Language_Models.md)
 
