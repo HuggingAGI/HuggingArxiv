@@ -328,10 +328,6 @@
 
     - [翻译: CAMP：一种结合本地与云端优势的智能编程助手框架](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
 
-- [CPE-Pro: A Structure-Sensitive Deep Learning Model for Protein Representation and Origin Evaluation](2024年10月20日/CPE-Pro_A_Structure-Sensitive_Deep_Learning_Model_for_Protein_Representation_and_Origin_Evaluation.md)
-
-    - [翻译: CPE-Pro：一款结构敏感的深度学习模型，专为蛋白质表示与起源评估而设计。](2024年10月20日/CPE-Pro_A_Structure-Sensitive_Deep_Learning_Model_for_Protein_Representation_and_Origin_Evaluation.md)
-
 - [Customized FinGPT Search Agents Using Foundation Models](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
 
     - [翻译: 基于基础模型的定制化 FinGPT 搜索代理](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
@@ -449,10 +445,6 @@
 - [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](2024年10月19日/SPA-Bench_A_Comprehensive_Benchmark_for_SmartPhone_Agent_Evaluation.md)
 
     - [翻译: SPA-Bench：智能手机代理评估的综合基准](2024年10月19日/SPA-Bench_A_Comprehensive_Benchmark_for_SmartPhone_Agent_Evaluation.md)
-
-- [The Shifting Paradigm in AI : Why Generative Artificial Intelligence is the new Economic Variable](2024年10月19日/The_Shifting_Paradigm_in_AI__Why_Generative_Artificial_Intelligence_is_the_new_Economic_Variable.md)
-
-    - [翻译: AI 范式正在转变，生成式人工智能正成为新的经济变量。](2024年10月19日/The_Shifting_Paradigm_in_AI__Why_Generative_Artificial_Intelligence_is_the_new_Economic_Variable.md)
 
 - [Transit Pulse: Utilizing Social Media as a Source for Customer Feedback and Information Extraction with Large Language Model](2024年10月19日/Transit_Pulse_Utilizing_Social_Media_as_a_Source_for_Customer_Feedback_and_Information_Extraction_with_Large_Language_Model.md)
 
@@ -669,10 +661,6 @@
 - [Interpreting Temporal Graph Neural Networks with Koopman Theory](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
 
     - [翻译: 用 Koopman 理论解释时间图神经网络](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
-
-- [Jailbreaking LLM-Controlled Robots](2024年10月17日/Jailbreaking_LLM-Controlled_Robots.md)
-
-    - [翻译: 解锁大型语言模型操控的机器人](2024年10月17日/Jailbreaking_LLM-Controlled_Robots.md)
 
 - [JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework](2024年10月17日/JAILJUDGE_A_Comprehensive_Jailbreak_Judge_Benchmark_with_Multi-Agent_Enhanced_Explanation_Evaluation_Framework.md)
 
@@ -981,10 +969,6 @@
 - [LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
 
     - [翻译: LongHalQA：评估多模态大型语言模型在长上下文中的幻觉现象](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
-
-- [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
-
-    - [翻译: 放大镜提示：用极简指令攻克多模态幻觉难题](2024年10月15日/Magnifier_Prompt_Tackling_Multimodal_Hallucination_via_Extremely_Simple_Instructions.md)
 
 - [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
 
