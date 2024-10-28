@@ -222,10 +222,6 @@
 
     - [翻译: 跨语言情感检测中的大型语言模型](2024年10月21日/Large_Language_Models_for_Cross-lingual_Emotion_Detection.md)
 
-- [LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
-
-    - [翻译: LiMTR：利用多模态特征集成，精准预测多样道路使用者的时间序列运动。](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
-
 - [LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation](2024年10月21日/LLM4GRN_Discovering_Causal_Gene_Regulatory_Networks_with_LLMs_--_Evaluation_through_Synthetic_Data_Generation.md)
 
     - [翻译: LLM4GRN：利用 LLM 探索因果基因调控网络，并通过合成数据生成进行评估。](2024年10月21日/LLM4GRN_Discovering_Causal_Gene_Regulatory_Networks_with_LLMs_--_Evaluation_through_Synthetic_Data_Generation.md)
@@ -335,10 +331,6 @@
 - [A Comprehensive Survey of Datasets, Theories, Variants, and Applications in Direct Preference Optimization](2024年10月20日/A_Comprehensive_Survey_of_Datasets,_Theories,_Variants,_and_Applications_in_Direct_Preference_Optimization.md)
 
     - [翻译: 全面探讨直接偏好优化中的数据集、理论、变体及应用](2024年10月20日/A_Comprehensive_Survey_of_Datasets,_Theories,_Variants,_and_Applications_in_Direct_Preference_Optimization.md)
-
-- [AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection](2024年10月20日/AMPLE_Emotion-Aware_Multimodal_Fusion_Prompt_Learning_for_Fake_News_Detection.md)
-
-    - [翻译: AMPLE：情感感知的多模态融合提示学习，专为假新闻检测而生。](2024年10月20日/AMPLE_Emotion-Aware_Multimodal_Fusion_Prompt_Learning_for_Fake_News_Detection.md)
 
 - [A Survey of Hallucination in Large Visual Language Models](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
 
@@ -469,10 +461,6 @@
 - [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
 
     - [翻译: PAT：一款无需参数的音频与文本对齐工具，旨在提升零-shot 音频分类的性能。](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
-
-- [Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](2024年10月19日/Semantically_Safe_Robot_Manipulation_From_Semantic_Scene_Understanding_to_Motion_Safeguards.md)
-
-    - [翻译: 机器人操作的语义安全：从场景理解到运动保护](2024年10月19日/Semantically_Safe_Robot_Manipulation_From_Semantic_Scene_Understanding_to_Motion_Safeguards.md)
 
 - [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](2024年10月19日/SPA-Bench_A_Comprehensive_Benchmark_for_SmartPhone_Agent_Evaluation.md)
 
@@ -721,10 +709,6 @@
 - [LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
 
     - [翻译: LAR-ECHR：欧洲人权法院案件的新法律论证推理任务与数据集](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
-
-- [Latent Weight Diffusion: Generating Policies from Trajectories](2024年10月17日/Latent_Weight_Diffusion_Generating_Policies_from_Trajectories.md)
-
-    - [翻译: 潜藏权重扩散：策略由轨迹孕育而生](2024年10月17日/Latent_Weight_Diffusion_Generating_Policies_from_Trajectories.md)
 
 - [LLM-based Unit Test Generation via Property Retrieval](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
@@ -1180,10 +1164,6 @@
 
     - [翻译: SeedLM：将 LLM 权重压缩为伪随机生成器的种子](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
-- [SensorBench: Benchmarking LLMs in Coding-Based Sensor Processing](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
-
-    - [翻译: SensorBench：为基于编码的传感器处理中的 LLM 提供基准测试](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
-
 - [SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
 
     - [翻译: SplitLLM：通过协作推理优化 LLM 的模型放置和吞吐量](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
@@ -1225,10 +1205,6 @@
 - [Can We Predict Performance of Large Models across Vision-Language Tasks?](2024年10月13日/Can_We_Predict_Performance_of_Large_Models_across_Vision-Language_Tasks.md)
 
     - [翻译: 大型模型在视觉-语言任务中的表现，我们能否精准预测？](2024年10月13日/Can_We_Predict_Performance_of_Large_Models_across_Vision-Language_Tasks.md)
-
-- [Dynamic and Textual Graph Generation Via Large-Scale LLM-based Agent Simulation](2024年10月13日/Dynamic_and_Textual_Graph_Generation_Via_Large-Scale_LLM-based_Agent_Simulation.md)
-
-    - [翻译: 通过大规模 LLM 代理模拟实现动态与文本图生成](2024年10月13日/Dynamic_and_Textual_Graph_Generation_Via_Large-Scale_LLM-based_Agent_Simulation.md)
 
 - [Empowering Dysarthric Speech: Leveraging Advanced LLMs for Accurate Speech Correction and Multimodal Emotion Analysis](2024年10月13日/Empowering_Dysarthric_Speech_Leveraging_Advanced_LLMs_for_Accurate_Speech_Correction_and_Multimodal_Emotion_Analysis.md)
 
