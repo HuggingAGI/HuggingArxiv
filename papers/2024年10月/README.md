@@ -642,10 +642,6 @@
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
-- [A Systematic Investigation of Knowledge Retrieval and Selection for Retrieval Augmented Generation](2024年10月17日/A_Systematic_Investigation_of_Knowledge_Retrieval_and_Selection_for_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 系统性探究知识检索与选择，助力增强生成技术](2024年10月17日/A_Systematic_Investigation_of_Knowledge_Retrieval_and_Selection_for_Retrieval_Augmented_Generation.md)
-
 - [Atomic Calibration of LLMs in Long-Form Generations](2024年10月17日/Atomic_Calibration_of_LLMs_in_Long-Form_Generations.md)
 
     - [翻译: 长篇生成中 LLM 的原子校准](2024年10月17日/Atomic_Calibration_of_LLMs_in_Long-Form_Generations.md)
