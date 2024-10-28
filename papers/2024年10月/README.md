@@ -28,6 +28,10 @@
 
     - [翻译: 小巨人：大规模合成高质量嵌入数据](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
 
+- [Mixture of Parrots: Experts improve memorization more than reasoning](2024年10月24日/Mixture_of_Parrots_Experts_improve_memorization_more_than_reasoning.md)
+
+    - [翻译: 混合鹦鹉：专家在记忆方面的改进多于推理方面。](2024年10月24日/Mixture_of_Parrots_Experts_improve_memorization_more_than_reasoning.md)
+
 - [SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: SafeBench：多模态大型语言模型的安全评估框架](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
@@ -42,9 +46,17 @@
 
 2024年10月23日
 
+- [Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language Models](2024年10月23日/Asynchronous_RLHF_Faster_and_More_Efficient_Off-Policy_RL_for_Language_Models.md)
+
+    - [翻译: 异步 RLHF：用于语言模型的更快且更高效的离线策略强化学习](2024年10月23日/Asynchronous_RLHF_Faster_and_More_Efficient_Off-Policy_RL_for_Language_Models.md)
+
 - [Blendify -- Python rendering framework for Blender](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
 
     - [翻译: Blendify -- 用于 Blender 的 Python 渲染框架](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
+
+- [DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](2024年10月23日/DynamicCity_Large-Scale_LiDAR_Generation_from_Dynamic_Scenes.md)
+
+    - [翻译: DynamicCity：来自动态场景的大规模激光雷达生成](2024年10月23日/DynamicCity_Large-Scale_LiDAR_Generation_from_Dynamic_Scenes.md)
 
 - [EON: A practical energy-preserving rough diffuse BRDF](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
 

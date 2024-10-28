@@ -1818,6 +1818,10 @@
 
     - [翻译: 密集训练，稀疏推理：重新思考混合专家语言模型的训练](2024年04月08日/Dense_Training,_Sparse_Inference_Rethinking_Training_of_Mixture-of-Experts_Language_Models.md)
 
+- [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](2024年04月08日/Physics_of_Language_Models_Part_3.3,_Knowledge_Capacity_Scaling_Laws.md)
+
+    - [翻译: 语言模型的物理学：第 3.3 部分，知识容量缩放定律](2024年04月08日/Physics_of_Language_Models_Part_3.3,_Knowledge_Capacity_Scaling_Laws.md)
+
 2024年04月07日
 
 - [Information Retrieval with Entity Linking](2024年04月07日/Information_Retrieval_with_Entity_Linking.md)

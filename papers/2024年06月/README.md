@@ -6,6 +6,10 @@
 
     - [翻译: 360°REA：迈向为多智能体系统打造可复用的经验累积，辅以全方位的评估。](2024年06月26日/360$^\circ$REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)
 
+- [E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS](2024年06月26日/E2_TTS_Embarrassingly_Easy_Fully_Non-Autoregressive_Zero-Shot_TTS.md)
+
+    - [翻译: E2 TTS：令人尴尬的容易完全非自回归零样本 TTS](2024年06月26日/E2_TTS_Embarrassingly_Easy_Fully_Non-Autoregressive_Zero-Shot_TTS.md)
+
 2024年06月24日
 
 - [Generation of Asset Administration Shell with Large Language Model Agents: Toward Semantic Interoperability in Digital Twins in the Context of Industry 4.0](2024年06月24日/Generation_of_Asset_Administration_Shell_with_Large_Language_Model_Agents_Toward_Semantic_Interoperability_in_Digital_Twins_in_the_Context_of_Industry_4.0.md)
