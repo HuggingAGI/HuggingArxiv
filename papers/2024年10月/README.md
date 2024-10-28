@@ -162,10 +162,6 @@
 
     - [翻译: CartesianMoE：通过专家混合模型中的笛卡尔积路由，增强专家间的知识共享](2024年10月21日/CartesianMoE_Boosting_Knowledge_Sharing_among_Experts_via_Cartesian_Product_Routing_in_Mixture-of-Experts.md)
 
-- [Comprehensive benchmarking of large language models for RNA secondary structure prediction](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
-
-    - [翻译: 全面评估大型语言模型在 RNA 二级结构预测中的表现](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
-
 - [Contamination Report for Multilingual Benchmarks](2024年10月21日/Contamination_Report_for_Multilingual_Benchmarks.md)
 
     - [翻译: 多语言基准污染报告](2024年10月21日/Contamination_Report_for_Multilingual_Benchmarks.md)
@@ -289,10 +285,6 @@
 - [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](2024年10月21日/Reducing_Hallucinations_in_Vision-Language_Models_via_Latent_Space_Steering.md)
 
     - [翻译: 借助潜在空间引导，减少视觉语言模型中的幻觉现象。](2024年10月21日/Reducing_Hallucinations_in_Vision-Language_Models_via_Latent_Space_Steering.md)
-
-- [Reflection-Bench: probing AI intelligence with reflection](2024年10月21日/Reflection-Bench_probing_AI_intelligence_with_reflection.md)
-
-    - [翻译: Reflection-Bench：用反思来探寻 AI 的智慧](2024年10月21日/Reflection-Bench_probing_AI_intelligence_with_reflection.md)
 
 - [Residual vector quantization for KV cache compression in large language model](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
 
@@ -595,10 +587,6 @@
 - [PTR: A Pre-trained Language Model for Trajectory Recovery](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
 
     - [翻译: PTR：专为轨迹恢复而生的预训练语言模型](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
-
-- [RAG-ConfusionQA: A Benchmark for Evaluating LLMs on Confusing Questions](2024年10月18日/RAG-ConfusionQA_A_Benchmark_for_Evaluating_LLMs_on_Confusing_Questions.md)
-
-    - [翻译: RAG-ConfusionQA：评估 LLM 应对混淆问题的基准](2024年10月18日/RAG-ConfusionQA_A_Benchmark_for_Evaluating_LLMs_on_Confusing_Questions.md)
 
 - [REEF: Representation Encoding Fingerprints for Large Language Models](2024年10月18日/REEF_Representation_Encoding_Fingerprints_for_Large_Language_Models.md)
 
@@ -1000,10 +988,6 @@
 
     - [翻译: SF-Speech：小规模数据集上的零-shot 语音克隆直流技术](2024年10月16日/SF-Speech_Straightened_Flow_for_Zero-Shot_Voice_Clone_on_Small-Scale_Dataset.md)
 
-- [StyleDistance: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples](2024年10月16日/StyleDistance_Stronger_Content-Independent_Style_Embeddings_with_Synthetic_Parallel_Examples.md)
-
-    - [翻译: StyleDistance：通过合成并行示例，实现更强大的内容无关风格嵌入](2024年10月16日/StyleDistance_Stronger_Content-Independent_Style_Embeddings_with_Synthetic_Parallel_Examples.md)
-
 - [Towards Zero-Shot Camera Trap Image Categorization](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
 
     - [翻译: 迈向零-shot 相机陷阱图像分类](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
@@ -1203,10 +1187,6 @@
 - [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
 
     - [翻译: LongMemEval：评估聊天助手在长期交互记忆中的表现](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
-
-- [MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](2024年10月14日/MEGA-Bench_Scaling_Multimodal_Evaluation_to_over_500_Real-World_Tasks.md)
-
-    - [翻译: MEGA-Bench：将多模态评估扩展至 500 多个现实任务](2024年10月14日/MEGA-Bench_Scaling_Multimodal_Evaluation_to_over_500_Real-World_Tasks.md)
 
 - [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
