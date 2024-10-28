@@ -186,10 +186,6 @@
 
     - [翻译: DomainSum：抽象文本摘要中细粒度领域转移的分层基准](2024年10月21日/DomainSum_A_Hierarchical_Benchmark_for_Fine-Grained_Domain_Shift_in_Abstractive_Text_Summarization.md)
 
-- [Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small](2024年10月21日/Enabling_Energy-Efficient_Deployment_of_Large_Language_Models_on_Memristor_Crossbar_A_Synergy_of_Large_and_Small.md)
-
-    - [翻译: 忆阻器交叉阵列上的大型语言模型节能部署：大小协同之道](2024年10月21日/Enabling_Energy-Efficient_Deployment_of_Large_Language_Models_on_Memristor_Crossbar_A_Synergy_of_Large_and_Small.md)
-
 - [Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
 
     - [翻译: 探索持续微调，提升大型语言模型的语言能力](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
