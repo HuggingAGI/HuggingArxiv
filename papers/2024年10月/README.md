@@ -168,10 +168,6 @@
 
     - [翻译: CartesianMoE：通过专家混合模型中的笛卡尔积路由，增强专家间的知识共享](2024年10月21日/CartesianMoE_Boosting_Knowledge_Sharing_among_Experts_via_Cartesian_Product_Routing_in_Mixture-of-Experts.md)
 
-- [CausalGraph2LLM: Evaluating LLMs for Causal Queries](2024年10月21日/CausalGraph2LLM_Evaluating_LLMs_for_Causal_Queries.md)
-
-    - [翻译: CausalGraph2LLM：探究 LLM 在因果查询中的表现](2024年10月21日/CausalGraph2LLM_Evaluating_LLMs_for_Causal_Queries.md)
-
 - [Comprehensive benchmarking of large language models for RNA secondary structure prediction](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
 
     - [翻译: 全面评估大型语言模型在 RNA 二级结构预测中的表现](2024年10月21日/Comprehensive_benchmarking_of_large_language_models_for_RNA_secondary_structure_prediction.md)
@@ -1095,10 +1091,6 @@
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
     - [翻译: 指导性代码检索器：借助大型语言模型的反馈，提升代码智能任务的表现](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
-
-- [Language Models Encode Numbers Using Digit Representations in Base 10](2024年10月15日/Language_Models_Encode_Numbers_Using_Digit_Representations_in_Base_10.md)
-
-    - [翻译: 语言模型通过十进制数字表示来编码数字](2024年10月15日/Language_Models_Encode_Numbers_Using_Digit_Representations_in_Base_10.md)
 
 - [LargePiG: Your Large Language Model is Secretly a Pointer Generator](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
