@@ -564,10 +564,6 @@
 
     - [翻译: 多语言模型如何记住事实？探索其背后的记忆机制](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
 
-- [MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based Inter-Robot Negotiation](2024年10月18日/MARLIN_Multi-Agent_Reinforcement_Learning_Guided_by_Language-Based_Inter-Robot_Negotiation.md)
-
-    - [翻译: MARLIN：通过语言引导的机器人间协商实现的多智能体强化学习](2024年10月18日/MARLIN_Multi-Agent_Reinforcement_Learning_Guided_by_Language-Based_Inter-Robot_Negotiation.md)
-
 - [MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems](2024年10月18日/MultiChartQA_Benchmarking_Vision-Language_Models_on_Multi-Chart_Problems.md)
 
     - [翻译: MultiChartQA：评估视觉-语言模型在多图表问题上的表现](2024年10月18日/MultiChartQA_Benchmarking_Vision-Language_Models_on_Multi-Chart_Problems.md)
@@ -629,10 +625,6 @@
 - [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
 
     - [翻译: 探究 OpenAI o1 模型推理模式的对比研究](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
-
-- [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](2024年10月17日/AgentOccam_A_Simple_Yet_Strong_Baseline_for_LLM-Based_Web_Agents.md)
-
-    - [翻译: AgentOccam：一款简洁却不失强大的 LLM 基础 Web 代理基线](2024年10月17日/AgentOccam_A_Simple_Yet_Strong_Baseline_for_LLM-Based_Web_Agents.md)
 
 - [An Active Learning Framework for Inclusive Generation by Large Language Models](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
 
@@ -955,10 +947,6 @@
 - [Retrieval-Reasoning Large Language Model-based Synthetic Clinical Trial Generation](2024年10月16日/Retrieval-Reasoning_Large_Language_Model-based_Synthetic_Clinical_Trial_Generation.md)
 
     - [翻译: 基于检索与推理的大型语言模型，用于合成临床试验的生成](2024年10月16日/Retrieval-Reasoning_Large_Language_Model-based_Synthetic_Clinical_Trial_Generation.md)
-
-- [Revealing the Barriers of Language Agents in Planning](2024年10月16日/Revealing_the_Barriers_of_Language_Agents_in_Planning.md)
-
-    - [翻译: 探究语言代理在规划过程中面临的挑战](2024年10月16日/Revealing_the_Barriers_of_Language_Agents_in_Planning.md)
 
 - [Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](2024年10月16日/Reversal_of_Thought_Enhancing_Large_Language_Models_with_Preference-Guided_Reverse_Reasoning_Warm-up.md)
 
