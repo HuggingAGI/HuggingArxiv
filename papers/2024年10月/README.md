@@ -702,10 +702,6 @@
 
     - [翻译: 通过增强视觉能力，我们致力于提升多模态大型语言模型的性能。](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
 
-- [Integrating Temporal Representations for Dynamic Memory Retrieval and Management in Large Language Models](2024年10月17日/Integrating_Temporal_Representations_for_Dynamic_Memory_Retrieval_and_Management_in_Large_Language_Models.md)
-
-    - [翻译: 在大规模语言模型中，整合时间表示，实现动态记忆的检索与管理。](2024年10月17日/Integrating_Temporal_Representations_for_Dynamic_Memory_Retrieval_and_Management_in_Large_Language_Models.md)
-
 - [Interpreting Temporal Graph Neural Networks with Koopman Theory](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
 
     - [翻译: 用 Koopman 理论解释时间图神经网络](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
@@ -971,10 +967,6 @@
 - [Towards Zero-Shot Camera Trap Image Categorization](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
 
     - [翻译: 迈向零-shot 相机陷阱图像分类](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
-
-- [Understanding the Role of LLMs in Multimodal Evaluation Benchmarks](2024年10月16日/Understanding_the_Role_of_LLMs_in_Multimodal_Evaluation_Benchmarks.md)
-
-    - [翻译: 探究 LLM 在多模态评估中的作用](2024年10月16日/Understanding_the_Role_of_LLMs_in_Multimodal_Evaluation_Benchmarks.md)
 
 - [Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
 
