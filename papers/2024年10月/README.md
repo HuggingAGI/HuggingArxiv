@@ -24,10 +24,6 @@
 
     - [翻译: 使用前沿开源大型语言模型进行知识蒸馏：泛化能力和合成数据的作用](2024年10月24日/Knowledge_Distillation_Using_Frontier_Open-source_LLMs_Generalizability_and_the_Role_of_Synthetic_Data.md)
 
-- [LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
-
-    - [翻译: LASER：自主代理按需执行脚本，实现交通模拟](2024年10月24日/LASER_Script_Execution_by_Autonomous_Agents_for_On-demand_Traffic_Simulation.md)
-
 - [Little Giants: Synthesizing High-Quality Embedding Data at Scale](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
 
     - [翻译: 小巨人：大规模合成高质量嵌入数据](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
@@ -233,10 +229,6 @@
 - [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
     - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
-
-- [Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding](2024年10月21日/Mitigating_Hallucinations_of_Large_Language_Models_in_Medical_Information_Extraction_via_Contrastive_Decoding.md)
-
-    - [翻译: 通过对比解码技术，有效减少大型语言模型在医学信息提取过程中产生的幻觉。](2024年10月21日/Mitigating_Hallucinations_of_Large_Language_Models_in_Medical_Information_Extraction_via_Contrastive_Decoding.md)
 
 - [Mitigating Object Hallucination via Concentric Causal Attention](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
 
@@ -500,10 +492,6 @@
 
     - [翻译: 让调试更智能，而非更费力：AI 代理助力计算笔记本错误解决](2024年10月18日/Debug_Smarter,_Not_Harder_AI_Agents_for_Error_Resolution_in_Computational_Notebooks.md)
 
-- [DFlow: Diverse Dialogue Flow Simulation with Large Language Models](2024年10月18日/DFlow_Diverse_Dialogue_Flow_Simulation_with_Large_Language_Models.md)
-
-    - [翻译: DFlow：借助大型语言模型，模拟丰富多彩的对话流程](2024年10月18日/DFlow_Diverse_Dialogue_Flow_Simulation_with_Large_Language_Models.md)
-
 - [Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs](2024年10月18日/Distance_between_Relevant_Information_Pieces_Causes_Bias_in_Long-Context_LLMs.md)
 
     - [翻译: 长上下文 LLM 中，相关信息片段的距离会导致偏差。](2024年10月18日/Distance_between_Relevant_Information_Pieces_Causes_Bias_in_Long-Context_LLMs.md)
@@ -551,10 +539,6 @@
 - [Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning](2024年10月18日/Paths-over-Graph_Knowledge_Graph_Enpowered_Large_Language_Model_Reasoning.md)
 
     - [翻译: Paths-over-Graph：知识图谱助力大型语言模型推理](2024年10月18日/Paths-over-Graph_Knowledge_Graph_Enpowered_Large_Language_Model_Reasoning.md)
-
-- [Personalized Image Generation with Large Multimodal Models](2024年10月18日/Personalized_Image_Generation_with_Large_Multimodal_Models.md)
-
-    - [翻译: 个性化图像生成：探索大型多模态模型的无限可能](2024年10月18日/Personalized_Image_Generation_with_Large_Multimodal_Models.md)
 
 - [PTR: A Pre-trained Language Model for Trajectory Recovery](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
 
@@ -977,10 +961,6 @@
 - [DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG](2024年10月15日/DynamicER_Resolving_Emerging_Mentions_to_Dynamic_Entities_for_RAG.md)
 
     - [翻译: DynamicER：为 RAG 系统解析新兴提及并映射到动态实体](2024年10月15日/DynamicER_Resolving_Emerging_Mentions_to_Dynamic_Entities_for_RAG.md)
-
-- [DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure](2024年10月15日/DySpec_Faster_Speculative_Decoding_with_Dynamic_Token_Tree_Structure.md)
-
-    - [翻译: DySpec：借助动态令牌树结构，实现更快的推测解码](2024年10月15日/DySpec_Faster_Speculative_Decoding_with_Dynamic_Token_Tree_Structure.md)
 
 - [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
 
