@@ -126,10 +126,6 @@
 
 2024年10月21日
 
-- [1024m at SMM4H 2024: Tasks 3, 5 & 6 -- Ensembles of Transformers and Large Language Models for Medical Text Classification](2024年10月21日/1024m_at_SMM4H_2024_Tasks_3,_5_&_6_--_Ensembles_of_Transformers_and_Large_Language_Models_for_Medical_Text_Classification.md)
-
-    - [翻译: 1024m 在 SMM4H 2024：任务 3、5 和 6 -- 结合 Transformer 和大型语言模型的集成方法，用于医学文本分类](2024年10月21日/1024m_at_SMM4H_2024_Tasks_3,_5_&_6_--_Ensembles_of_Transformers_and_Large_Language_Models_for_Medical_Text_Classification.md)
-
 - [Alchemy: Amplifying Theorem-Proving Capability through Symbolic Mutation](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
 
     - [翻译: 炼金术：借助符号变异，提升定理证明的威力](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
@@ -445,10 +441,6 @@
 - [AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
     - [翻译: AutoFPDesigner：利用多智能体大型语言模型实现飞行程序的自动化设计](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
-
-- [Back to School: Translation Using Grammar Books](2024年10月19日/Back_to_School_Translation_Using_Grammar_Books.md)
-
-    - [翻译: 重返校园：借助语法书玩转翻译](2024年10月19日/Back_to_School_Translation_Using_Grammar_Books.md)
 
 - [Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison](2024年10月19日/Can_LVLMs_Describe_Videos_like_Humans_A_Five-in-One_Video_Annotations_Benchmark_for_Better_Human-Machine_Comparison.md)
 
@@ -1239,10 +1231,6 @@
 - [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
     - [翻译: MentalGLM 系列：专为中国社交媒体心理健康分析设计的可解释大型语言模型](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
-
-- [Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key](2024年10月14日/Minimum_Tuning_to_Unlock_Long_Output_from_LLMs_with_High_Quality_Data_as_the_Key.md)
-
-    - [翻译: 通过最小调整，以高质量数据为关键，解锁 LLM 的长输出能力](2024年10月14日/Minimum_Tuning_to_Unlock_Long_Output_from_LLMs_with_High_Quality_Data_as_the_Key.md)
 
 - [MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models](2024年10月14日/MMIE_Massive_Multimodal_Interleaved_Comprehension_Benchmark_for_Large_Vision-Language_Models.md)
 
