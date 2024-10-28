@@ -202,10 +202,6 @@
 
     - [翻译: 优化大型语言模型，打造可靠的医疗问答服务](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
 
-- [Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models](2024年10月21日/Griffon-G_Bridging_Vision-Language_and_Vision-Centric_Tasks_via_Large_Multimodal_Models.md)
-
-    - [翻译: Griffon-G：借助大型多模态模型，架起视觉-语言与视觉核心任务之间的桥梁](2024年10月21日/Griffon-G_Bridging_Vision-Language_and_Vision-Centric_Tasks_via_Large_Multimodal_Models.md)
-
 - [Guardians of Discourse: Evaluating LLMs on Multilingual Offensive Language Detection](2024年10月21日/Guardians_of_Discourse_Evaluating_LLMs_on_Multilingual_Offensive_Language_Detection.md)
 
     - [翻译: 话语守护者：评估 LLM 在多语言冒犯性语言检测中的能力](2024年10月21日/Guardians_of_Discourse_Evaluating_LLMs_on_Multilingual_Offensive_Language_Detection.md)
@@ -709,10 +705,6 @@
 - [Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning](2024年10月17日/Enhancing_LLM_Trading_Performance_with_Fact-Subjectivity_Aware_Reasoning.md)
 
     - [翻译: 利用事实与主观性意识推理，提升 LLM 在交易中的表现](2024年10月17日/Enhancing_LLM_Trading_Performance_with_Fact-Subjectivity_Aware_Reasoning.md)
-
-- [Enhancing Sentiment Analysis with Collaborative AI: Architecture, Predictions, and Deployment Strategies](2024年10月17日/Enhancing_Sentiment_Analysis_with_Collaborative_AI_Architecture,_Predictions,_and_Deployment_Strategies.md)
-
-    - [翻译: 协作AI助力情感分析：架构设计、预测模型与部署策略](2024年10月17日/Enhancing_Sentiment_Analysis_with_Collaborative_AI_Architecture,_Predictions,_and_Deployment_Strategies.md)
 
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
@@ -1358,17 +1350,9 @@
 
     - [翻译: NoVo：通过 LLM 中的注意力头规范投票，消除幻觉](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
-- [Preferential Normalizing Flows](2024年10月11日/Preferential_Normalizing_Flows.md)
-
-    - [翻译: 偏好归一化流](2024年10月11日/Preferential_Normalizing_Flows.md)
-
 - [QEFT: Quantization for Efficient Fine-Tuning of LLMs](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
 
     - [翻译: QEFT：通过量化实现 LLM 的高效微调](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
-
-- [RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process](2024年10月11日/RePD_Defending_Jailbreak_Attack_through_a_Retrieval-based_Prompt_Decomposition_Process.md)
-
-    - [翻译: RePD：利用基于检索的提示分解技术，有效抵御越狱攻击。](2024年10月11日/RePD_Defending_Jailbreak_Attack_through_a_Retrieval-based_Prompt_Decomposition_Process.md)
 
 - [SocialGaze: Improving the Integration of Human Social Norms in Large Language Models](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
