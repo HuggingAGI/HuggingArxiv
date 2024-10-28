@@ -104,10 +104,6 @@
 
     - [翻译: 磁性偏好优化：实现语言模型对齐的最后迭代收敛](2024年10月22日/Magnetic_Preference_Optimization_Achieving_Last-iterate_Convergence_for_Language_Models_Alignment.md)
 
-- [Methods of improving LLM training stability](2024年10月22日/Methods_of_improving_LLM_training_stability.md)
-
-    - [翻译: 提高大型语言模型训练稳定性的方法](2024年10月22日/Methods_of_improving_LLM_training_stability.md)
-
 - [SmartGSN: a generative AI-powered online tool for the management of assurance cases](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
 
     - [翻译: SmartGSN：一种由生成式人工智能驱动的用于保证案例管理的在线工具](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
@@ -197,10 +193,6 @@
 - [Guardians of Discourse: Evaluating LLMs on Multilingual Offensive Language Detection](2024年10月21日/Guardians_of_Discourse_Evaluating_LLMs_on_Multilingual_Offensive_Language_Detection.md)
 
     - [翻译: 话语守护者：评估 LLM 在多语言冒犯性语言检测中的能力](2024年10月21日/Guardians_of_Discourse_Evaluating_LLMs_on_Multilingual_Offensive_Language_Detection.md)
-
-- [How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
-
-    - [翻译: 怎样打造一个能同时聊天和决策的预训练多模态模型？](2024年10月21日/How_to_Build_a_Pre-trained_Multimodal_model_for_Simultaneously_Chatting_and_Decision-making.md)
 
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
@@ -733,10 +725,6 @@
 - [Membership Testing for Semantic Regular Expressions](2024年10月17日/Membership_Testing_for_Semantic_Regular_Expressions.md)
 
     - [翻译: 语义正则表达式的成员资格检测](2024年10月17日/Membership_Testing_for_Semantic_Regular_Expressions.md)
-
-- [MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling](2024年10月17日/MeNTi_Bridging_Medical_Calculator_and_LLM_Agent_with_Nested_Tool_Calling.md)
-
-    - [翻译: MeNTi：连接医疗计算器与 LLM 代理，通过嵌套工具调用实现无缝协作。](2024年10月17日/MeNTi_Bridging_Medical_Calculator_and_LLM_Agent_with_Nested_Tool_Calling.md)
 
 - [Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
 
