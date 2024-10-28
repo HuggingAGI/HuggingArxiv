@@ -1,14 +1,16 @@
 # 2024年10月
 
+2024年10月25日
+
+- [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
+
+    - [翻译: LLaVA-KD：多模态大型语言模型蒸馏框架](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
+
 2024年10月24日
 
 - [Aligning CodeLLMs with Direct Preference Optimization](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
 
     - [翻译: 将 CodeLLMs 与直接偏好优化对齐](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
-
-- [A Survey on Speech Large Language Models](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
-
-    - [翻译: 关于语音大型语言模型的一项调查](2024年10月24日/A_Survey_on_Speech_Large_Language_Models.md)
 
 - [Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
 
@@ -243,10 +245,6 @@
 - [LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
 
     - [翻译: LiMTR：利用多模态特征集成，精准预测多样道路使用者的时间序列运动。](2024年10月21日/LiMTR_Time_Series_Motion_Prediction_for_Diverse_Road_Users_through_Multimodal_Feature_Integration.md)
-
-- [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](2024年10月21日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
-
-    - [翻译: LLaVA-KD：多模态大型语言模型蒸馏框架](2024年10月21日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
 
 - [LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation](2024年10月21日/LLM4GRN_Discovering_Causal_Gene_Regulatory_Networks_with_LLMs_--_Evaluation_through_Synthetic_Data_Generation.md)
 
@@ -871,10 +869,6 @@
 - [Scaling Wearable Foundation Models](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
 
     - [翻译: 扩展可穿戴基础模型](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
-
-- [SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
-
-    - [翻译: SeerAttention：让 LLMs 学会内在的稀疏注意力](2024年10月17日/SeerAttention_Learning_Intrinsic_Sparse_Attention_in_Your_LLMs.md)
 
 - [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](2024年10月17日/Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation.md)
 
