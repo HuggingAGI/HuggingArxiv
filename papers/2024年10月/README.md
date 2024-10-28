@@ -62,10 +62,6 @@
 
 2024年10月22日
 
-- [AskBeacon -- Performing genomic data exchange and analytics with natural language](2024年10月22日/AskBeacon_--_Performing_genomic_data_exchange_and_analytics_with_natural_language.md)
-
-    - [翻译: AskBeacon——用自然语言进行基因组数据交换和分析](2024年10月22日/AskBeacon_--_Performing_genomic_data_exchange_and_analytics_with_natural_language.md)
-
 - [Beyond Retrieval: Generating Narratives in Conversational Recommender Systems](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
 
     - [翻译: 超越检索：在会话推荐系统中生成叙述](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
@@ -1281,10 +1277,6 @@
 - [SensorBench: Benchmarking LLMs in Coding-Based Sensor Processing](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
 
     - [翻译: SensorBench：为基于编码的传感器处理中的 LLM 提供基准测试](2024年10月14日/SensorBench_Benchmarking_LLMs_in_Coding-Based_Sensor_Processing.md)
-
-- [Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes](2024年10月14日/Sitcom-Crafter_A_Plot-Driven_Human_Motion_Generation_System_in_3D_Scenes.md)
-
-    - [翻译: Sitcom-Crafter：一款以情节驱动的3D场景中人类动作生成系统](2024年10月14日/Sitcom-Crafter_A_Plot-Driven_Human_Motion_Generation_System_in_3D_Scenes.md)
 
 - [SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
 
