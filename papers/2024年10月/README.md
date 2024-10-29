@@ -20,10 +20,6 @@
 
     - [翻译: DreamClear：通过隐私安全的数据集策划实现高容量的真实世界图像恢复](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
 
-- [Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data](2024年10月24日/Knowledge_Distillation_Using_Frontier_Open-source_LLMs_Generalizability_and_the_Role_of_Synthetic_Data.md)
-
-    - [翻译: 使用前沿开源大型语言模型进行知识蒸馏：泛化能力和合成数据的作用](2024年10月24日/Knowledge_Distillation_Using_Frontier_Open-source_LLMs_Generalizability_and_the_Role_of_Synthetic_Data.md)
-
 - [Little Giants: Synthesizing High-Quality Embedding Data at Scale](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
 
     - [翻译: 小巨人：大规模合成高质量嵌入数据](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
@@ -262,10 +258,6 @@
 
     - [翻译: 以学生为中心，而非专家主导，这款新型 AI 教育工具旨在打造更贴近人性、更具个性化的青春期早期教育体验。](2024年10月21日/Students_Rather_Than_Experts_A_New_AI_For_Education_Pipeline_To_Model_More_Human-Like_And_Personalised_Early_Adolescences.md)
 
-- [Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse](2024年10月21日/Surprise!_Uniform_Information_Density_Isn't_the_Whole_Story_Predicting_Surprisal_Contours_in_Long-form_Discourse.md)
-
-    - [翻译: 惊喜！统一信息密度并非全部：探索长篇话语中的意外变化](2024年10月21日/Surprise!_Uniform_Information_Density_Isn't_the_Whole_Story_Predicting_Surprisal_Contours_in_Long-form_Discourse.md)
-
 - [ToW: Thoughts of Words Improve Reasoning in Large Language Models](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
 
     - [翻译: ToW：词语的思想助力大型语言模型推理能力的提升](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
@@ -495,10 +487,6 @@
 - [Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
 
     - [翻译: Nova：通过迭代规划与搜索，提升 LLM 生成创意的新颖性与多样性](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
-
-- [Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning](2024年10月18日/Paths-over-Graph_Knowledge_Graph_Enpowered_Large_Language_Model_Reasoning.md)
-
-    - [翻译: Paths-over-Graph：知识图谱助力大型语言模型推理](2024年10月18日/Paths-over-Graph_Knowledge_Graph_Enpowered_Large_Language_Model_Reasoning.md)
 
 - [PTR: A Pre-trained Language Model for Trajectory Recovery](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
 
@@ -901,10 +889,6 @@
 - [Leveraging LLM Embeddings for Cross Dataset Label Alignment and Zero Shot Music Emotion Prediction](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
 
     - [翻译: 借助 LLM 嵌入，实现跨数据集标签对齐，并进行零-shot 音乐情感预测。](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
-
-- [LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
-
-    - [翻译: LongHalQA：评估多模态大型语言模型在长上下文中的幻觉现象](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
 
 - [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
 
