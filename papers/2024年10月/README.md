@@ -1,5 +1,19 @@
 # 2024年10月
 
+2024年10月28日
+
+- [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
+
+    - [翻译: AutoBench-V：大型视觉语言模型能够自我评估吗？](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
+
+- [LongReward: Improving Long-context Large Language Models with AI Feedback](2024年10月28日/LongReward_Improving_Long-context_Large_Language_Models_with_AI_Feedback.md)
+
+    - [翻译: LongReward：利用人工智能反馈改进长上下文大型语言模型](2024年10月28日/LongReward_Improving_Long-context_Large_Language_Models_with_AI_Feedback.md)
+
+- [Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback](2024年10月28日/Zero-Shot_Dense_Retrieval_with_Embeddings_from_Relevance_Feedback.md)
+
+    - [翻译: 零-shot 密集检索与来自相关性反馈的嵌入](2024年10月28日/Zero-Shot_Dense_Retrieval_with_Embeddings_from_Relevance_Feedback.md)
+
 2024年10月25日
 
 - [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
@@ -288,10 +302,6 @@
 
     - [翻译: 大型视觉语言模型中的幻觉现象调查](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
 
-- [A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
-
-    - [翻译: LLMs 不确定性估计综述：理论与实践的交汇](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
-
 - [Customized FinGPT Search Agents Using Foundation Models](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
 
     - [翻译: 基于基础模型的定制化 FinGPT 搜索代理](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
@@ -389,10 +399,6 @@
 - [LLaVA-Ultra: Large Chinese Language and Vision Assistant for Ultrasound](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
 
     - [翻译: LLaVA-Ultra：专为超声波设计的大型中文语言与视觉助手](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
-
-- [Lossless KV Cache Compression to 2%](2024年10月19日/Lossless_KV_Cache_Compression_to_2%.md)
-
-    - [翻译: 无损 KV 缓存压缩率高达 98%](2024年10月19日/Lossless_KV_Cache_Compression_to_2%.md)
 
 - [MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification](2024年10月19日/MCCoder_Streamlining_Motion_Control_with_LLM-Assisted_Code_Generation_and_Rigorous_Verification.md)
 
