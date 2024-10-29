@@ -6,15 +6,75 @@
 
     - [翻译: AutoBench-V：大型视觉语言模型能够自我评估吗？](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
 
+- [Belief in the Machine: Investigating Epistemological Blind Spots of Language Models](2024年10月28日/Belief_in_the_Machine_Investigating_Epistemological_Blind_Spots_of_Language_Models.md)
+
+    - [翻译: 对机器的信任：调查语言模型的认识论盲点](2024年10月28日/Belief_in_the_Machine_Investigating_Epistemological_Blind_Spots_of_Language_Models.md)
+
+- [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](2024年10月28日/Beyond_Autoregression_Fast_LLMs_via_Self-Distillation_Through_Time.md)
+
+    - [翻译: 超越自回归：通过时间上的自蒸馏实现快速的大型语言模型](2024年10月28日/Beyond_Autoregression_Fast_LLMs_via_Self-Distillation_Through_Time.md)
+
+- [BongLLaMA: LLaMA for Bangla Language](2024年10月28日/BongLLaMA_LLaMA_for_Bangla_Language.md)
+
+    - [翻译: BongLLaMA：用于孟加拉语的 LLaMA](2024年10月28日/BongLLaMA_LLaMA_for_Bangla_Language.md)
+
+- [CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
+
+    - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
+
+- [DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning](2024年10月28日/DeTeCtive_Detecting_AI-generated_Text_via_Multi-Level_Contrastive_Learning.md)
+
+    - [翻译: DeTeCtive：通过多层次对比学习检测人工智能生成的文本](2024年10月28日/DeTeCtive_Detecting_AI-generated_Text_via_Multi-Level_Contrastive_Learning.md)
+
+- [Face-MLLM: A Large Face Perception Model](2024年10月28日/Face-MLLM_A_Large_Face_Perception_Model.md)
+
+    - [翻译: Face-MLLM：一个大型面部感知模型](2024年10月28日/Face-MLLM_A_Large_Face_Perception_Model.md)
+
+- [FACT: Examining the Effectiveness of Iterative Context Rewriting for Multi-fact Retrieval](2024年10月28日/FACT_Examining_the_Effectiveness_of_Iterative_Context_Rewriting_for_Multi-fact_Retrieval.md)
+
+    - [翻译: 事实：检验迭代上下文重写对多事实检索的有效性](2024年10月28日/FACT_Examining_the_Effectiveness_of_Iterative_Context_Rewriting_for_Multi-fact_Retrieval.md)
+
+- [Large Language Model-Guided Prediction Toward Quantum Materials Synthesis](2024年10月28日/Large_Language_Model-Guided_Prediction_Toward_Quantum_Materials_Synthesis.md)
+
+    - [翻译: 大型语言模型引导的量子材料合成预测](2024年10月28日/Large_Language_Model-Guided_Prediction_Toward_Quantum_Materials_Synthesis.md)
+
+- [LiP-LLM: Integrating Linear Programming and dependency graph with Large Language Models for multi-robot task planning](2024年10月28日/LiP-LLM_Integrating_Linear_Programming_and_dependency_graph_with_Large_Language_Models_for_multi-robot_task_planning.md)
+
+    - [翻译: LiP-LLM：将线性规划和依赖图与大型语言模型集成用于多机器人任务规划](2024年10月28日/LiP-LLM_Integrating_Linear_Programming_and_dependency_graph_with_Large_Language_Models_for_multi-robot_task_planning.md)
+
+- [LLM-initialized Differentiable Causal Discovery](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
+
+    - [翻译: LLM 初始化的可微因果发现](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
+
 - [LongReward: Improving Long-context Large Language Models with AI Feedback](2024年10月28日/LongReward_Improving_Long-context_Large_Language_Models_with_AI_Feedback.md)
 
     - [翻译: LongReward：利用人工智能反馈改进长上下文大型语言模型](2024年10月28日/LongReward_Improving_Long-context_Large_Language_Models_with_AI_Feedback.md)
+
+- [LoRA vs Full Fine-tuning: An Illusion of Equivalence](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
+
+    - [翻译: LoRA 与全微调：等效的错觉](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
+
+- [M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation](2024年10月28日/M2rc-Eval_Massively_Multilingual_Repository-level_Code_Completion_Evaluation.md)
+
+    - [翻译: M2rc-Eval：大规模多语言存储库级代码完成评估](2024年10月28日/M2rc-Eval_Massively_Multilingual_Repository-level_Code_Completion_Evaluation.md)
+
+- [Palisade -- Prompt Injection Detection Framework](2024年10月28日/Palisade_--_Prompt_Injection_Detection_Framework.md)
+
+    - [翻译: Palisade——提示注入检测框架](2024年10月28日/Palisade_--_Prompt_Injection_Detection_Framework.md)
 
 - [Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback](2024年10月28日/Zero-Shot_Dense_Retrieval_with_Embeddings_from_Relevance_Feedback.md)
 
     - [翻译: 零-shot 密集检索与来自相关性反馈的嵌入](2024年10月28日/Zero-Shot_Dense_Retrieval_with_Embeddings_from_Relevance_Feedback.md)
 
 2024年10月25日
+
+- [An LLM Agent for Automatic Geospatial Data Analysis](2024年10月25日/An_LLM_Agent_for_Automatic_Geospatial_Data_Analysis.md)
+
+    - [翻译: 一个用于自动地理空间数据分析的大型语言模型代理](2024年10月25日/An_LLM_Agent_for_Automatic_Geospatial_Data_Analysis.md)
+
+- [FLAASH: Flow-Attention Adaptive Semantic Hierarchical Fusion for Multi-Modal Tobacco Content Analysis](2024年10月25日/FLAASH_Flow-Attention_Adaptive_Semantic_Hierarchical_Fusion_for_Multi-Modal_Tobacco_Content_Analysis.md)
+
+    - [翻译: FLAASH：用于多模态烟草内容分析的流注意力自适应语义分层融合](2024年10月25日/FLAASH_Flow-Attention_Adaptive_Semantic_Hierarchical_Fusion_for_Multi-Modal_Tobacco_Content_Analysis.md)
 
 - [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
 
@@ -754,10 +814,6 @@
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
-- [HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks](2024年10月16日/HumanEval-V_Evaluating_Visual_Understanding_and_Reasoning_Abilities_of_Large_Multimodal_Models_Through_Coding_Tasks.md)
-
-    - [翻译: HumanEval-V：通过编码任务，评估大型多模态模型在视觉理解和推理方面的表现。](2024年10月16日/HumanEval-V_Evaluating_Visual_Understanding_and_Reasoning_Abilities_of_Large_Multimodal_Models_Through_Coding_Tasks.md)
-
 - [Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
 
     - [翻译: 利用 Pointwise V-Usable Information 进行多任务学习中的任务分组识别](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
@@ -875,10 +931,6 @@
 - [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
 
     - [翻译: DocETL：复杂文档处理中的智能查询重写与评估](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
-
-- [Do LLMs Have the Generalization Ability in Conducting Causal Inference?](2024年10月15日/Do_LLMs_Have_the_Generalization_Ability_in_Conducting_Causal_Inference.md)
-
-    - [翻译: 大型语言模型是否具备进行因果推理的泛化能力？](2024年10月15日/Do_LLMs_Have_the_Generalization_Ability_in_Conducting_Causal_Inference.md)
 
 - [DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG](2024年10月15日/DynamicER_Resolving_Emerging_Mentions_to_Dynamic_Entities_for_RAG.md)
 
@@ -1077,10 +1129,6 @@
     - [翻译: 如何在大语言模型对齐中巧妙利用演示数据？让我们从自我模仿学习的角度一探究竟。](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
 
 2024年10月12日
-
-- [CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](2024年10月12日/CollabEdit_Towards_Non-destructive_Collaborative_Knowledge_Editing.md)
-
-    - [翻译: CollabEdit：开启非破坏性协作知识编辑的新篇章](2024年10月12日/CollabEdit_Towards_Non-destructive_Collaborative_Knowledge_Editing.md)
 
 - [COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement](2024年10月12日/COrAL_Order-Agnostic_Language_Modeling_for_Efficient_Iterative_Refinement.md)
 
