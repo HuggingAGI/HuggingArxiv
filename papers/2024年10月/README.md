@@ -298,10 +298,6 @@
 
     - [翻译: 惊喜！统一信息密度并非全部：探索长篇话语中的意外变化](2024年10月21日/Surprise!_Uniform_Information_Density_Isn't_the_Whole_Story_Predicting_Surprisal_Contours_in_Long-form_Discourse.md)
 
-- [Systematic Exploration of Dialogue Summarization Approaches for Reproducibility, Comparative Assessment, and Methodological Innovations for Advancing Natural Language Processing in Abstractive Summarization](2024年10月21日/Systematic_Exploration_of_Dialogue_Summarization_Approaches_for_Reproducibility,_Comparative_Assessment,_and_Methodological_Innovations_for_Advancing_Natural_Language_Processing_in_Abstractive_Summarization.md)
-
-    - [翻译: 系统探索对话摘要方法，旨在提升可重复性、进行比较评估，并推动方法论创新，从而促进自然语言处理在抽象摘要领域的进步。](2024年10月21日/Systematic_Exploration_of_Dialogue_Summarization_Approaches_for_Reproducibility,_Comparative_Assessment,_and_Methodological_Innovations_for_Advancing_Natural_Language_Processing_in_Abstractive_Summarization.md)
-
 - [ToW: Thoughts of Words Improve Reasoning in Large Language Models](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
 
     - [翻译: ToW：词语的思想助力大型语言模型推理能力的提升](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
