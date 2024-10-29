@@ -1086,10 +1086,6 @@
 
     - [翻译: 如何在大语言模型对齐中巧妙利用演示数据？让我们从自我模仿学习的角度一探究竟。](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
 
-- [IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery](2024年10月13日/IMAS_A_Comprehensive_Agentic_Approach_to_Rural_Healthcare_Delivery.md)
-
-    - [翻译: IMAS：一种全面代理方法，助力农村医疗保健服务](2024年10月13日/IMAS_A_Comprehensive_Agentic_Approach_to_Rural_Healthcare_Delivery.md)
-
 2024年10月12日
 
 - [CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](2024年10月12日/CollabEdit_Towards_Non-destructive_Collaborative_Knowledge_Editing.md)
