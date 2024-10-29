@@ -370,10 +370,6 @@
 
     - [翻译: RAG 系统是否抓住了重点？通过子问题覆盖来评估和优化回答](2024年10月20日/Do_RAG_Systems_Cover_What_Matters_Evaluating_and_Optimizing_Responses_with_Sub-Question_Coverage.md)
 
-- [Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
-
-    - [翻译: Ichigo：一款结合多种模态、早期融合技术的实时语音助手](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
-
 - [Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
 
     - [翻译: 自动驾驶中的大型语言模型 (LLM4AD)：探索其概念、基准测试、仿真及实车实验](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
@@ -574,10 +570,6 @@
 
     - [翻译: TreeBoN：借助推测性树搜索与最佳 N 采样，提升推理时的对齐效果](2024年10月18日/TreeBoN_Enhancing_Inference-Time_Alignment_with_Speculative_Tree-Search_and_Best-of-N_Sampling.md)
 
-- [Understanding the difficulty of low-precision post-training quantization of large language models](2024年10月18日/Understanding_the_difficulty_of_low-precision_post-training_quantization_of_large_language_models.md)
-
-    - [翻译: 探究大型语言模型低精度训练后量化的挑战](2024年10月18日/Understanding_the_difficulty_of_low-precision_post-training_quantization_of_large_language_models.md)
-
 - [Unveiling Large Language Models Generated Texts: A Multi-Level Fine-Grained Detection Framework](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
 
     - [翻译: 揭秘大型语言模型生成的文本：多层次细粒度检测框架](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
@@ -607,10 +599,6 @@
 - [A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
 
     - [翻译: 大规模模型训练后 Delta 参数编辑的统一视角](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
-
-- [Automating IETF Insights generation with AI](2024年10月17日/Automating_IETF_Insights_generation_with_AI.md)
-
-    - [翻译: AI 助力 IETF 洞察自动化生成](2024年10月17日/Automating_IETF_Insights_generation_with_AI.md)
 
 - [Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?](2024年10月17日/Can_Medical_Vision-Language_Pre-training_Succeed_with_Purely_Synthetic_Data.md)
 
