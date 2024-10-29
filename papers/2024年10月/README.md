@@ -194,10 +194,6 @@
 
     - [翻译: 优化大型语言模型，打造可靠的医疗问答服务](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
 
-- [Guardians of Discourse: Evaluating LLMs on Multilingual Offensive Language Detection](2024年10月21日/Guardians_of_Discourse_Evaluating_LLMs_on_Multilingual_Offensive_Language_Detection.md)
-
-    - [翻译: 话语守护者：评估 LLM 在多语言冒犯性语言检测中的能力](2024年10月21日/Guardians_of_Discourse_Evaluating_LLMs_on_Multilingual_Offensive_Language_Detection.md)
-
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
@@ -213,10 +209,6 @@
 - [Large Language Models Empower Personalized Valuation in Auction](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
 
     - [翻译: 大型语言模型赋能拍卖中的个性化估值](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
-
-- [Large Language Models for Cross-lingual Emotion Detection](2024年10月21日/Large_Language_Models_for_Cross-lingual_Emotion_Detection.md)
-
-    - [翻译: 跨语言情感检测中的大型语言模型](2024年10月21日/Large_Language_Models_for_Cross-lingual_Emotion_Detection.md)
 
 - [LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation](2024年10月21日/LLM4GRN_Discovering_Causal_Gene_Regulatory_Networks_with_LLMs_--_Evaluation_through_Synthetic_Data_Generation.md)
 
@@ -949,10 +941,6 @@
 - [Leveraging LLM Embeddings for Cross Dataset Label Alignment and Zero Shot Music Emotion Prediction](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
 
     - [翻译: 借助 LLM 嵌入，实现跨数据集标签对齐，并进行零-shot 音乐情感预测。](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
-
-- [Light-Weight Fault Tolerant Attention for Large Language Model Training](2024年10月15日/Light-Weight_Fault_Tolerant_Attention_for_Large_Language_Model_Training.md)
-
-    - [翻译: 轻量级容错注意力机制助力大型语言模型训练](2024年10月15日/Light-Weight_Fault_Tolerant_Attention_for_Large_Language_Model_Training.md)
 
 - [LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models](2024年10月15日/LongHalQA_Long-Context_Hallucination_Evaluation_for_MultiModal_Large_Language_Models.md)
 
