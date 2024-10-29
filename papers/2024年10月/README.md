@@ -178,10 +178,6 @@
 
     - [翻译: 大型语言模型写作是否接近人类？探讨其语法和修辞风格的变化。](2024年10月21日/Do_LLMs_write_like_humans_Variation_in_grammatical_and_rhetorical_styles.md)
 
-- [DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization](2024年10月21日/DomainSum_A_Hierarchical_Benchmark_for_Fine-Grained_Domain_Shift_in_Abstractive_Text_Summarization.md)
-
-    - [翻译: DomainSum：抽象文本摘要中细粒度领域转移的分层基准](2024年10月21日/DomainSum_A_Hierarchical_Benchmark_for_Fine-Grained_Domain_Shift_in_Abstractive_Text_Summarization.md)
-
 - [Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
 
     - [翻译: 探索持续微调，提升大型语言模型的语言能力](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
@@ -992,10 +988,6 @@
 
     - [翻译: 超越RAG：实时对话中的问题识别与答案生成](2024年10月14日/Beyond-RAG_Question_Identification_and_Answer_Generation_in_Real-Time_Conversations.md)
 
-- [Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation](2024年10月14日/Both_Ears_Wide_Open_Towards_Language-Driven_Spatial_Audio_Generation.md)
-
-    - [翻译: 双耳全开：探索语言驱动的空间音频生成](2024年10月14日/Both_Ears_Wide_Open_Towards_Language-Driven_Spatial_Audio_Generation.md)
-
 - [Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
     - [翻译: 大型语言模型中的文化保真度：探讨在线语言资源如何影响模型在价值表示方面的性能。](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
@@ -1007,10 +999,6 @@
 - [Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
 
     - [翻译: 借助语言家族专家的混合策略，我们高效地将医学大型语言模型扩展至50种语言，实现真正的语言民主化。](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
-
-- [Effi-Code: Unleashing Code Efficiency in Language Models](2024年10月14日/Effi-Code_Unleashing_Code_Efficiency_in_Language_Models.md)
-
-    - [翻译: Effi-Code：激发语言模型中的代码效率](2024年10月14日/Effi-Code_Unleashing_Code_Efficiency_in_Language_Models.md)
 
 - [ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
 
