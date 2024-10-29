@@ -464,10 +464,6 @@
 
     - [翻译: CoMAL：混合自主交通中的协作多智能体大型语言模型](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
 
-- [Critical Questions Generation: Motivation and Challenges](2024年10月18日/Critical_Questions_Generation_Motivation_and_Challenges.md)
-
-    - [翻译: 关键问题生成：探索背后的动机与面临的挑战](2024年10月18日/Critical_Questions_Generation_Motivation_and_Challenges.md)
-
 - [Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension](2024年10月18日/Croc_Pretraining_Large_Multimodal_Models_with_Cross-Modal_Comprehension.md)
 
     - [翻译: Croc：借助跨模态理解，预训练大型多模态模型](2024年10月18日/Croc_Pretraining_Large_Multimodal_Models_with_Cross-Modal_Comprehension.md)
@@ -859,10 +855,6 @@
 - [Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance](2024年10月16日/Proactive_Agent_Shifting_LLM_Agents_from_Reactive_Responses_to_Active_Assistance.md)
 
     - [翻译: 主动代理：让 LLM 代理从被动响应转变为主动协助](2024年10月16日/Proactive_Agent_Shifting_LLM_Agents_from_Reactive_Responses_to_Active_Assistance.md)
-
-- [Reconstruction of Differentially Private Text Sanitization via Large Language Models](2024年10月16日/Reconstruction_of_Differentially_Private_Text_Sanitization_via_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型重建差分隐私文本净化](2024年10月16日/Reconstruction_of_Differentially_Private_Text_Sanitization_via_Large_Language_Models.md)
 
 - [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
