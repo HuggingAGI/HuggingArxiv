@@ -206,10 +206,6 @@
 
     - [翻译: 长期记忆，乃 AI 自我进化的基石。](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
 
-- [MagicPIG: LSH Sampling for Efficient LLM Generation](2024年10月21日/MagicPIG_LSH_Sampling_for_Efficient_LLM_Generation.md)
-
-    - [翻译: MagicPIG：利用 LSH 采样技术，实现 LLM 生成的高效能](2024年10月21日/MagicPIG_LSH_Sampling_for_Efficient_LLM_Generation.md)
-
 - [Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
 
     - [翻译: Mesa-Extrapolation：一种提升 LLM 外推能力的编织位置编码方法](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
@@ -714,10 +710,6 @@
 
     - [翻译: 迈向超人类语音理解：大型语言模型的路线图](2024年10月17日/Roadmap_towards_Superhuman_Speech_Understanding_using_Large_Language_Models.md)
 
-- [SBI-RAG: Enhancing Math Word Problem Solving for Students through Schema-Based Instruction and Retrieval-Augmented Generation](2024年10月17日/SBI-RAG_Enhancing_Math_Word_Problem_Solving_for_Students_through_Schema-Based_Instruction_and_Retrieval-Augmented_Generation.md)
-
-    - [翻译: SBI-RAG：借助模式化教学与检索增强生成，提升学生数学应用题解题能力](2024年10月17日/SBI-RAG_Enhancing_Math_Word_Problem_Solving_for_Students_through_Schema-Based_Instruction_and_Retrieval-Augmented_Generation.md)
-
 - [Scaling Wearable Foundation Models](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
 
     - [翻译: 扩展可穿戴基础模型](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
@@ -731,10 +723,6 @@
 - [Agent Skill Acquisition for Large Language Models via CycleQD](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
 
     - [翻译: 利用 CycleQD 提升大型语言模型的代理技能](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
-
-- [aiXcoder-7B: A Lightweight and Effective Large Language Model for Code Completion](2024年10月16日/aiXcoder-7B_A_Lightweight_and_Effective_Large_Language_Model_for_Code_Completion.md)
-
-    - [翻译: aiXcoder-7B：一款轻巧高效的代码补全大型语言模型](2024年10月16日/aiXcoder-7B_A_Lightweight_and_Effective_Large_Language_Model_for_Code_Completion.md)
 
 - [Benchmarking Defeasible Reasoning with Large Language Models -- Initial Experiments and Future Directions](2024年10月16日/Benchmarking_Defeasible_Reasoning_with_Large_Language_Models_--_Initial_Experiments_and_Future_Directions.md)
 
