@@ -370,10 +370,6 @@
 
     - [翻译: RAG 系统是否抓住了重点？通过子问题覆盖来评估和优化回答](2024年10月20日/Do_RAG_Systems_Cover_What_Matters_Evaluating_and_Optimizing_Responses_with_Sub-Question_Coverage.md)
 
-- [EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models](2024年10月20日/EPIC_Efficient_Position-Independent_Context_Caching_for_Serving_Large_Language_Models.md)
-
-    - [翻译: EPIC：为大型语言模型服务提供高效的位置无关上下文缓存](2024年10月20日/EPIC_Efficient_Position-Independent_Context_Caching_for_Serving_Large_Language_Models.md)
-
 - [Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
 
     - [翻译: Ichigo：一款结合多种模态、早期融合技术的实时语音助手](2024年10月20日/Ichigo_Mixed-Modal_Early-Fusion_Realtime_Voice_Assistant.md)
@@ -471,10 +467,6 @@
 - [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
 
     - [翻译: PAT：一款无需参数的音频与文本对齐工具，旨在提升零-shot 音频分类的性能。](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
-
-- [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](2024年10月19日/SPA-Bench_A_Comprehensive_Benchmark_for_SmartPhone_Agent_Evaluation.md)
-
-    - [翻译: SPA-Bench：智能手机代理评估的综合基准](2024年10月19日/SPA-Bench_A_Comprehensive_Benchmark_for_SmartPhone_Agent_Evaluation.md)
 
 - [Transit Pulse: Utilizing Social Media as a Source for Customer Feedback and Information Extraction with Large Language Model](2024年10月19日/Transit_Pulse_Utilizing_Social_Media_as_a_Source_for_Customer_Feedback_and_Information_Extraction_with_Large_Language_Model.md)
 
@@ -959,10 +951,6 @@
 - [Multi-round jailbreak attack on large language models](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
 
     - [翻译: 大型语言模型面临多轮越狱攻击](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
-
-- [O-Edit: Orthogonal Subspace Editing for Language Model Sequential Editing](2024年10月15日/O-Edit_Orthogonal_Subspace_Editing_for_Language_Model_Sequential_Editing.md)
-
-    - [翻译: O-Edit：一种用于语言模型序列编辑的正交子空间编辑方法](2024年10月15日/O-Edit_Orthogonal_Subspace_Editing_for_Language_Model_Sequential_Editing.md)
 
 - [OMCAT: Omni Context Aware Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
 
