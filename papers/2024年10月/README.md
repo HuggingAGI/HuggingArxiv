@@ -84,10 +84,6 @@
 
     - [翻译: ClimaQA：气候基础模型的一个自动评估框架](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
 
-- [Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models](2024年10月22日/Controlled_Low-Rank_Adaptation_with_Subspace_Regularization_for_Continued_Training_on_Large_Language_Models.md)
-
-    - [翻译: 对于大型语言模型的持续训练，采用子空间正则化的受控低秩适应](2024年10月22日/Controlled_Low-Rank_Adaptation_with_Subspace_Regularization_for_Continued_Training_on_Large_Language_Models.md)
-
 - [Do LLMs estimate uncertainty well in instruction-following?](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
 
     - [翻译: 大型语言模型在遵循指令时，能否准确评估不确定性？](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
@@ -331,10 +327,6 @@
 - [A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
 
     - [翻译: LLMs 不确定性估计综述：理论与实践的交汇](2024年10月20日/A_Survey_of_Uncertainty_Estimation_in_LLMs_Theory_Meets_Practice.md)
-
-- [Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
-
-    - [翻译: CAMP：一种结合本地与云端优势的智能编程助手框架](2024年10月20日/Contextual_Augmented_Multi-Model_Programming_(CAMP)_A_Hybrid_Local-Cloud_Copilot_Framework.md)
 
 - [Customized FinGPT Search Agents Using Foundation Models](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
 
@@ -605,10 +597,6 @@
 - [Automating IETF Insights generation with AI](2024年10月17日/Automating_IETF_Insights_generation_with_AI.md)
 
     - [翻译: AI 助力 IETF 洞察自动化生成](2024年10月17日/Automating_IETF_Insights_generation_with_AI.md)
-
-- [Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?](2024年10月17日/Bias_in_the_Mirror__Are_LLMs_opinions_robust_to_their_own_adversarial_attacks_.md)
-
-    - [翻译: 镜中偏见：LLM 的观点能否经受住自身的对抗性攻击？](2024年10月17日/Bias_in_the_Mirror__Are_LLMs_opinions_robust_to_their_own_adversarial_attacks_.md)
 
 - [Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?](2024年10月17日/Can_Medical_Vision-Language_Pre-training_Succeed_with_Purely_Synthetic_Data.md)
 
@@ -926,10 +914,6 @@
 
     - [翻译: 增强驱动度量：平衡文本引导图像编辑中的保留与修改](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
 
-- [CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
-
-    - [翻译: CtrlSynth：一种可控的图像文本合成工具，专为高效多模态学习设计。](2024年10月15日/CtrlSynth_Controllable_Image_Text_Synthesis_for_Data-Efficient_Multimodal_Learning.md)
-
 - [Data Quality Control in Federated Instruction-tuning of Large Language Models](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
 
     - [翻译: 联邦指令调优中的数据质量控制：大型语言模型的关键环节](2024年10月15日/Data_Quality_Control_in_Federated_Instruction-tuning_of_Large_Language_Models.md)
@@ -1165,10 +1149,6 @@
 - [IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery](2024年10月13日/IMAS_A_Comprehensive_Agentic_Approach_to_Rural_Healthcare_Delivery.md)
 
     - [翻译: IMAS：一种全面代理方法，助力农村医疗保健服务](2024年10月13日/IMAS_A_Comprehensive_Agentic_Approach_to_Rural_Healthcare_Delivery.md)
-
-- [LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models](2024年10月13日/LOKI_A_Comprehensive_Synthetic_Data_Detection_Benchmark_using_Large_Multimodal_Models.md)
-
-    - [翻译: LOKI：基于大型多模态模型的综合合成数据检测基准](2024年10月13日/LOKI_A_Comprehensive_Synthetic_Data_Detection_Benchmark_using_Large_Multimodal_Models.md)
 
 - [Text4Seg: Reimagining Image Segmentation as Text Generation](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
