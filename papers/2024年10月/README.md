@@ -96,10 +96,6 @@
 
     - [翻译: 预先警告就是预先武装：通过引发失败的探索利用大型语言模型进行数据合成](2024年10月22日/Forewarned_is_Forearmed_Leveraging_LLMs_for_Data_Synthesis_through_Failure-Inducing_Exploration.md)
 
-- [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
-
-    - [翻译: 优质育儿，幻觉消散——多智能体 LLM 的幻觉缓解之道](2024年10月22日/Good_Parenting_is_all_you_need_--_Multi-agentic_LLM_Hallucination_Mitigation.md)
-
 - [Influential Language Data Selection via Gradient Trajectory Pursuit](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
@@ -265,10 +261,6 @@
 - [Residual vector quantization for KV cache compression in large language model](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
 
     - [翻译: 大型语言模型中的 KV 缓存压缩，借助残差向量量化技术实现。](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
-
-- [Resource-Efficient Medical Report Generation using Large Language Models](2024年10月21日/Resource-Efficient_Medical_Report_Generation_using_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型实现资源高效的医疗报告生成](2024年10月21日/Resource-Efficient_Medical_Report_Generation_using_Large_Language_Models.md)
 
 - [Revealing and Mitigating the Local Pattern Shortcuts of Mamba](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
@@ -1196,17 +1188,9 @@
 
 2024年10月10日
 
-- [Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks](2024年10月10日/Diversity_of_Thought_Elicits_Stronger_Reasoning_Capabilities_in_Multi-Agent_Debate_Frameworks.md)
-
-    - [翻译: 思维的多样性在多代理辩论框架中能激发出更强的推理能力。](2024年10月10日/Diversity_of_Thought_Elicits_Stronger_Reasoning_Capabilities_in_Multi-Agent_Debate_Frameworks.md)
-
 - [Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
 
     - [翻译: 利用强化学习与合成偏好提升自动生成问题的难度](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
-
-- [Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
-
-    - [翻译: 大型立法模型：助力经济模拟中的高效 AI 政策制定](2024年10月10日/Large_Legislative_Models_Towards_Efficient_AI_Policymaking_in_Economic_Simulations.md)
 
 - [Prompt Engineering a Schizophrenia Chatbot: Utilizing a Multi-Agent Approach for Enhanced Compliance with Prompt Instructions](2024年10月10日/Prompt_Engineering_a_Schizophrenia_Chatbot_Utilizing_a_Multi-Agent_Approach_for_Enhanced_Compliance_with_Prompt_Instructions.md)
 
@@ -1217,12 +1201,6 @@
 - [Pixtral 12B](2024年10月09日/Pixtral_12B.md)
 
     - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
-
-2024年10月08日
-
-- [ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities](2024年10月08日/ToolBridge_An_Open-Source_Dataset_to_Equip_LLMs_with_External_Tool_Capabilities.md)
-
-    - [翻译: ToolBridge：一款开源数据集，旨在赋予大型语言模型（LLM）使用外部工具的能力。](2024年10月08日/ToolBridge_An_Open-Source_Dataset_to_Equip_LLMs_with_External_Tool_Capabilities.md)
 
 2024年10月07日
 
