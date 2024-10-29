@@ -900,10 +900,6 @@
 
     - [翻译: 通过模态对齐，重新探索大型语言模型在时间序列分析中的应用。](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
 
-- [Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs](2024年10月16日/Revisiting_Benchmark_and_Assessment_An_Agent-based_Exploratory_Dynamic_Evaluation_Framework_for_LLMs.md)
-
-    - [翻译: 重审基准与评估：为大型语言模型构建基于代理的探索性动态评估框架](2024年10月16日/Revisiting_Benchmark_and_Assessment_An_Agent-based_Exploratory_Dynamic_Evaluation_Framework_for_LLMs.md)
-
 - [Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving](2024年10月16日/Robust_RL_with_LLM-Driven_Data_Synthesis_and_Policy_Adaptation_for_Autonomous_Driving.md)
 
     - [翻译: 基于 LLM 数据合成与策略适应的鲁棒强化学习，助力自动驾驶技术发展](2024年10月16日/Robust_RL_with_LLM-Driven_Data_Synthesis_and_Policy_Adaptation_for_Autonomous_Driving.md)
@@ -1024,10 +1020,6 @@
 
     - [翻译: $α$-DPO：自适应奖励边际，正是直接偏好优化所需的关键。](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
 
-- [A Multi-Task Text Classification Pipeline with Natural Language Explanations: A User-Centric Evaluation in Sentiment Analysis and Offensive Language Identification in Greek Tweets](2024年10月14日/A_Multi-Task_Text_Classification_Pipeline_with_Natural_Language_Explanations_A_User-Centric_Evaluation_in_Sentiment_Analysis_and_Offensive_Language_Identification_in_Greek_Tweets.md)
-
-    - [翻译: 多任务文本分类管道，结合自然语言解释，专注于希腊推文中的情感分析与冒犯性语言识别，以用户为中心进行评估。](2024年10月14日/A_Multi-Task_Text_Classification_Pipeline_with_Natural_Language_Explanations_A_User-Centric_Evaluation_in_Sentiment_Analysis_and_Offensive_Language_Identification_in_Greek_Tweets.md)
-
 - [Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models](2024年10月14日/Athena_Retrieval-augmented_Legal_Judgment_Prediction_with_Large_Language_Models.md)
 
     - [翻译: Athena：借助大型语言模型提升检索功能的法律判决预测系统](2024年10月14日/Athena_Retrieval-augmented_Legal_Judgment_Prediction_with_Large_Language_Models.md)
@@ -1067,10 +1059,6 @@
 - [ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
 
     - [翻译: ForgeryGPT：一款多模态大型语言模型，专为可解释的图像伪造检测与定位而生。](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
-
-- [Functional Flexibility in Generative AI Interfaces: Text Editing with LLMs through Conversations, Toolbars, and Prompts](2024年10月14日/Functional_Flexibility_in_Generative_AI_Interfaces_Text_Editing_with_LLMs_through_Conversations,_Toolbars,_and_Prompts.md)
-
-    - [翻译: 生成式 AI 接口展现出的功能灵活性：通过对话、工具栏和提示，与 LLM 共同进行文本编辑。](2024年10月14日/Functional_Flexibility_in_Generative_AI_Interfaces_Text_Editing_with_LLMs_through_Conversations,_Toolbars,_and_Prompts.md)
 
 - [FunnelRAG: A Coarse-to-Fine Progressive Retrieval Paradigm for RAG](2024年10月14日/FunnelRAG_A_Coarse-to-Fine_Progressive_Retrieval_Paradigm_for_RAG.md)
 
