@@ -292,6 +292,10 @@
 
     - [翻译: 利用同心因果注意力机制，有效缓解对象幻觉问题。](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
 
+- [MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
+
+    - [翻译: MvDrag3D：通过多视图生成-重建先验进行基于拖动的创意 3D 编辑](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
+
 - [Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning](2024年10月21日/Natural_GaLore_Accelerating_GaLore_for_memory-efficient_LLM_Training_and_Fine-tuning.md)
 
     - [翻译: 自然 GaLore：加速 GaLore，实现内存高效的大型语言模型训练与微调](2024年10月21日/Natural_GaLore_Accelerating_GaLore_for_memory-efficient_LLM_Training_and_Fine-tuning.md)
