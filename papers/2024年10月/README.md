@@ -256,6 +256,10 @@
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
+- [Improve Vision Language Model Chain-of-thought Reasoning](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
+
+    - [翻译: 改进视觉语言模型的思维链推理](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
+
 - [Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers](2024年10月21日/Improving_Parallel_Program_Performance_Through_DSL-Driven_Code_Generation_with_LLM_Optimizers.md)
 
     - [翻译: 通过带有 LLM 优化器的 DSL 驱动的代码生成来提高并行程序的性能](2024年10月21日/Improving_Parallel_Program_Performance_Through_DSL-Driven_Code_Generation_with_LLM_Optimizers.md)
