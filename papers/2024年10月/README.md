@@ -134,10 +134,6 @@
 
     - [翻译: 探索 SMAC 任务新解法：借助大型语言模型生成决策树代码](2024年10月21日/A_New_Approach_to_Solving_SMAC_Task_Generating_Decision_Tree_Code_from_Large_Language_Models.md)
 
-- [A Psycholinguistic Evaluation of Language Models' Sensitivity to Argument Roles](2024年10月21日/A_Psycholinguistic_Evaluation_of_Language_Models'_Sensitivity_to_Argument_Roles.md)
-
-    - [翻译: 探究语言模型对论元角色敏感性的心理语言学视角](2024年10月21日/A_Psycholinguistic_Evaluation_of_Language_Models'_Sensitivity_to_Argument_Roles.md)
-
 - [Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
 
     - [翻译: 超越 2:4：探索 V:N:M 稀疏性，提升 GPU 上 Transformer 推理效率](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
@@ -820,10 +816,6 @@
 
     - [翻译: 元块化：借助逻辑感知实现高效文本分割的学习方法](2024年10月16日/Meta-Chunking_Learning_Efficient_Text_Segmentation_via_Logical_Perception.md)
 
-- [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
-
-    - [翻译: MMed-RAG：专为医学视觉语言模型设计的多功能多模态系统](2024年10月16日/MMed-RAG_Versatile_Multimodal_RAG_System_for_Medical_Vision_Language_Models.md)
-
 - [Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning](2024年10月16日/Not_All_Votes_Count!_Programs_as_Verifiers_Improve_Self-Consistency_of_Language_Models_for_Math_Reasoning.md)
 
     - [翻译: 并非所有投票都有效！通过程序验证，语言模型在数学推理中的自我一致性得以提升。](2024年10月16日/Not_All_Votes_Count!_Programs_as_Verifiers_Improve_Self-Consistency_of_Language_Models_for_Math_Reasoning.md)
@@ -1109,10 +1101,6 @@
 - [IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery](2024年10月13日/IMAS_A_Comprehensive_Agentic_Approach_to_Rural_Healthcare_Delivery.md)
 
     - [翻译: IMAS：一种全面代理方法，助力农村医疗保健服务](2024年10月13日/IMAS_A_Comprehensive_Agentic_Approach_to_Rural_Healthcare_Delivery.md)
-
-- [Text4Seg: Reimagining Image Segmentation as Text Generation](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
-
-    - [翻译: Text4Seg：重塑图像分割为文本生成](2024年10月13日/Text4Seg_Reimagining_Image_Segmentation_as_Text_Generation.md)
 
 2024年10月12日
 
