@@ -236,10 +236,6 @@
 
     - [翻译: 探索持续微调，提升大型语言模型的语言能力](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
 
-- [Fine-Tuning LLMs for Reliable Medical Question-Answering Services](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
-
-    - [翻译: 优化大型语言模型，打造可靠的医疗问答服务](2024年10月21日/Fine-Tuning_LLMs_for_Reliable_Medical_Question-Answering_Services.md)
-
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
@@ -688,10 +684,6 @@
 
     - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
-- [RescueADI: Adaptive Disaster Interpretation in Remote Sensing Images with Autonomous Agents](2024年10月17日/RescueADI_Adaptive_Disaster_Interpretation_in_Remote_Sensing_Images_with_Autonomous_Agents.md)
-
-    - [翻译: RescueADI：利用自主代理在遥感图像中实现灾难的自适应解读](2024年10月17日/RescueADI_Adaptive_Disaster_Interpretation_in_Remote_Sensing_Images_with_Autonomous_Agents.md)
-
 - [Retrospective Learning from Interactions](2024年10月17日/Retrospective_Learning_from_Interactions.md)
 
     - [翻译: 从过往互动中汲取经验](2024年10月17日/Retrospective_Learning_from_Interactions.md)
@@ -721,10 +713,6 @@
 - [Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention](2024年10月16日/Bridging_the_Language_Gaps_in_Large_Language_Models_with_Inference-Time_Cross-Lingual_Intervention.md)
 
     - [翻译: 通过推理时的跨语言干预，弥合大型语言模型中的语言鸿沟](2024年10月16日/Bridging_the_Language_Gaps_in_Large_Language_Models_with_Inference-Time_Cross-Lingual_Intervention.md)
-
-- [Can We Reverse In-Context Knowledge Edits?](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
-
-    - [翻译: 上下文知识编辑能否被逆转？](2024年10月16日/Can_We_Reverse_In-Context_Knowledge_Edits.md)
 
 - [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](2024年10月16日/DocLayout-YOLO_Enhancing_Document_Layout_Analysis_through_Diverse_Synthetic_Data_and_Global-to-Local_Adaptive_Perception.md)
 
