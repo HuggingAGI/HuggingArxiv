@@ -406,10 +406,6 @@
 
     - [翻译: 谁是卧底？引导 LLM 深入游戏，探索多角度团队策略。](2024年10月20日/Who_is_Undercover_Guiding_LLMs_to_Explore_Multi-Perspective_Team_Tactic_in_the_Game.md)
 
-- [YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary](2024年10月20日/YOLO-RD_Introducing_Relevant_and_Compact_Explicit_Knowledge_to_YOLO_by_Retriever-Dictionary.md)
-
-    - [翻译: YOLO-RD：利用检索器-字典技术，为 YOLO 注入相关且精炼的显式知识。](2024年10月20日/YOLO-RD_Introducing_Relevant_and_Compact_Explicit_Knowledge_to_YOLO_by_Retriever-Dictionary.md)
-
 2024年10月19日
 
 - [A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
@@ -534,10 +530,6 @@
 
     - [翻译: 提升加密货币市场预测：融合先进机器学习技术与工业工程智慧](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
 
-- [From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting](2024年10月18日/From_Solitary_Directives_to_Interactive_Encouragement!_LLM_Secure_Code_Generation_by_Natural_Language_Prompting.md)
-
-    - [翻译: 从单一指令到互动激励，自然语言提示助力 LLM 安全代码生成。](2024年10月18日/From_Solitary_Directives_to_Interactive_Encouragement!_LLM_Secure_Code_Generation_by_Natural_Language_Prompting.md)
-
 - [How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
 
     - [翻译: 多语言模型如何记住事实？探索其背后的记忆机制](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
@@ -553,10 +545,6 @@
 - [PTR: A Pre-trained Language Model for Trajectory Recovery](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
 
     - [翻译: PTR：专为轨迹恢复而生的预训练语言模型](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
-
-- [REEF: Representation Encoding Fingerprints for Large Language Models](2024年10月18日/REEF_Representation_Encoding_Fingerprints_for_Large_Language_Models.md)
-
-    - [翻译: REEF：大型语言模型的表示编码指纹](2024年10月18日/REEF_Representation_Encoding_Fingerprints_for_Large_Language_Models.md)
 
 - [Supervised Chain of Thought](2024年10月18日/Supervised_Chain_of_Thought.md)
 
@@ -789,10 +777,6 @@
 - [Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
 
     - [翻译: 提升 LLM 代理代码生成：可能性与通过率优先的经验回放策略](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
-
-- [ERVQ: Enhanced Residual Vector Quantization with Intra-and-Inter-Codebook Optimization for Neural Audio Codecs](2024年10月16日/ERVQ_Enhanced_Residual_Vector_Quantization_with_Intra-and-Inter-Codebook_Optimization_for_Neural_Audio_Codecs.md)
-
-    - [翻译: ERVQ：通过代码本内外的优化，增强残差向量量化，应用于神经音频编解码器](2024年10月16日/ERVQ_Enhanced_Residual_Vector_Quantization_with_Intra-and-Inter-Codebook_Optimization_for_Neural_Audio_Codecs.md)
 
 - [Expanding Chatbot Knowledge in Customer Service: Context-Aware Similar Question Generation Using Large Language Models](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
 
