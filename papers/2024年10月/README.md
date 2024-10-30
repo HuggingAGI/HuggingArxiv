@@ -1030,10 +1030,6 @@
 
     - [翻译: SeedLM：将 LLM 权重压缩为伪随机生成器的种子](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
-- [SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
-
-    - [翻译: SplitLLM：通过协作推理优化 LLM 的模型放置和吞吐量](2024年10月14日/SplitLLM_Collaborative_Inference_of_LLMs_for_Model_Placement_and_Throughput_Optimization.md)
-
 - [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
 
     - [翻译: 聚焦温度，探究知识蒸馏下的推测解码](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
