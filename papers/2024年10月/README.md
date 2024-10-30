@@ -74,10 +74,6 @@
 
 2024年10月24日
 
-- [Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
-
-    - [翻译: 通过中间表示上的图对比学习进行二进制代码相似性检测](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
-
 - [DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
 
     - [翻译: DreamClear：通过隐私安全的数据集策划实现高容量的真实世界图像恢复](2024年10月24日/DreamClear_High-Capacity_Real-World_Image_Restoration_with_Privacy-Safe_Dataset_Curation.md)
@@ -794,10 +790,6 @@
 
     - [翻译: 利用动态转向向量实现 LLM 的语义自适应激活干预](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
 
-- [SF-Speech: Straightened Flow for Zero-Shot Voice Clone on Small-Scale Dataset](2024年10月16日/SF-Speech_Straightened_Flow_for_Zero-Shot_Voice_Clone_on_Small-Scale_Dataset.md)
-
-    - [翻译: SF-Speech：小规模数据集上的零-shot 语音克隆直流技术](2024年10月16日/SF-Speech_Straightened_Flow_for_Zero-Shot_Voice_Clone_on_Small-Scale_Dataset.md)
-
 - [Towards Zero-Shot Camera Trap Image Categorization](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
 
     - [翻译: 迈向零-shot 相机陷阱图像分类](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
@@ -1051,12 +1043,6 @@
 - [SocialGaze: Improving the Integration of Human Social Norms in Large Language Models](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
     - [翻译: SocialGaze：提升大型语言模型中人类社会规范的融合](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
-
-2024年10月10日
-
-- [Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
-
-    - [翻译: 利用强化学习与合成偏好提升自动生成问题的难度](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
 
 2024年10月09日
 
