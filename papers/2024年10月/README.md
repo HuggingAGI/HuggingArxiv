@@ -754,10 +754,6 @@
 
     - [翻译: 利用 LLM 生成的标签，学习预测产品评论的使用场景](2024年10月16日/Learning_to_Predict_Usage_Options_of_Product_Reviews_with_LLM-Generated_Labels.md)
 
-- [LLM-based Translation Inference with Iterative Bilingual Understanding](2024年10月16日/LLM-based_Translation_Inference_with_Iterative_Bilingual_Understanding.md)
-
-    - [翻译: 基于LLM的翻译推理：迭代双语理解](2024年10月16日/LLM-based_Translation_Inference_with_Iterative_Bilingual_Understanding.md)
-
 - [Loss Landscape Characterization of Neural Networks without Over-Parametrization](2024年10月16日/Loss_Landscape_Characterization_of_Neural_Networks_without_Over-Parametrization.md)
 
     - [翻译: 没有过度参数化的神经网络的损失景观特征](2024年10月16日/Loss_Landscape_Characterization_of_Neural_Networks_without_Over-Parametrization.md)
@@ -880,10 +876,6 @@
 
     - [翻译: OMCAT：全场景智能Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
 
-- [ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
-
-    - [翻译: ReDeEP：利用机制可解释性，精准检测检索增强生成中的幻觉现象。](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
-
 - [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
 
     - [翻译: SGEdit：融合 LLM 与 Text2Image 生成模型，实现基于场景图的图像编辑](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
@@ -965,10 +957,6 @@
 - [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
     - [翻译: MentalGLM 系列：专为中国社交媒体心理健康分析设计的可解释大型语言模型](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
-
-- [MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models](2024年10月14日/MMIE_Massive_Multimodal_Interleaved_Comprehension_Benchmark_for_Large_Vision-Language_Models.md)
-
-    - [翻译: MMIE：大型视觉-语言模型的大规模多模态交错理解基准](2024年10月14日/MMIE_Massive_Multimodal_Interleaved_Comprehension_Benchmark_for_Large_Vision-Language_Models.md)
 
 - [Model-Based Differentially Private Knowledge Transfer for Large Language Models](2024年10月14日/Model-Based_Differentially_Private_Knowledge_Transfer_for_Large_Language_Models.md)
 
