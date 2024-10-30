@@ -424,10 +424,6 @@
 
     - [翻译: 探究大型语言模型中的深度遗忘现象](2024年10月19日/Evaluating_Deep_Unlearning_in_Large_Language_Models.md)
 
-- [Exploring LLM Support for Generating IEC 61131-3 Graphic Language Programs](2024年10月19日/Exploring_LLM_Support_for_Generating_IEC_61131-3_Graphic_Language_Programs.md)
-
-    - [翻译: 探究 LLM 在生成 IEC 61131-3 图形语言程序方面的支持能力](2024年10月19日/Exploring_LLM_Support_for_Generating_IEC_61131-3_Graphic_Language_Programs.md)
-
 - [HyQE: Ranking Contexts with Hypothetical Query Embeddings](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
 
     - [翻译: HyQE：通过假设查询嵌入来排序上下文](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
