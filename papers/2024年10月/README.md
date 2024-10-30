@@ -60,10 +60,6 @@
 
 2024年10月25日
 
-- [An LLM Agent for Automatic Geospatial Data Analysis](2024年10月25日/An_LLM_Agent_for_Automatic_Geospatial_Data_Analysis.md)
-
-    - [翻译: 一个用于自动地理空间数据分析的大型语言模型代理](2024年10月25日/An_LLM_Agent_for_Automatic_Geospatial_Data_Analysis.md)
-
 - [FLAASH: Flow-Attention Adaptive Semantic Hierarchical Fusion for Multi-Modal Tobacco Content Analysis](2024年10月25日/FLAASH_Flow-Attention_Adaptive_Semantic_Hierarchical_Fusion_for_Multi-Modal_Tobacco_Content_Analysis.md)
 
     - [翻译: FLAASH：用于多模态烟草内容分析的流注意力自适应语义分层融合](2024年10月25日/FLAASH_Flow-Attention_Adaptive_Semantic_Hierarchical_Fusion_for_Multi-Modal_Tobacco_Content_Analysis.md)
@@ -137,10 +133,6 @@
 - [ClimaQA: An Automated Evaluation Framework for Climate Foundation Models](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
 
     - [翻译: ClimaQA：气候基础模型的一个自动评估框架](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
-
-- [Do LLMs estimate uncertainty well in instruction-following?](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
-
-    - [翻译: 大型语言模型在遵循指令时，能否准确评估不确定性？](2024年10月22日/Do_LLMs_estimate_uncertainty_well_in_instruction-following.md)
 
 - [Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
 
