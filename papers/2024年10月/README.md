@@ -208,10 +208,6 @@
 
     - [翻译: 打造编码助手：基于检索增强的语言模型](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
 
-- [Can Large Language Models Invent Algorithms to Improve Themselves?](2024年10月21日/Can_Large_Language_Models_Invent_Algorithms_to_Improve_Themselves.md)
-
-    - [翻译: 大型语言模型能否自我进化，发明新算法来提升自身能力？](2024年10月21日/Can_Large_Language_Models_Invent_Algorithms_to_Improve_Themselves.md)
-
 - [CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts](2024年10月21日/CartesianMoE_Boosting_Knowledge_Sharing_among_Experts_via_Cartesian_Product_Routing_in_Mixture-of-Experts.md)
 
     - [翻译: CartesianMoE：通过专家混合模型中的笛卡尔积路由，增强专家间的知识共享](2024年10月21日/CartesianMoE_Boosting_Knowledge_Sharing_among_Experts_via_Cartesian_Product_Routing_in_Mixture-of-Experts.md)
@@ -627,10 +623,6 @@
 - [Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
 
     - [翻译: 我们真的需要一个 LLM+VQA 系统来识别视觉概念吗？](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
-
-- [Improving Multi-modal Large Language Model through Boosting Vision Capabilities](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
-
-    - [翻译: 通过增强视觉能力，我们致力于提升多模态大型语言模型的性能。](2024年10月17日/Improving_Multi-modal_Large_Language_Model_through_Boosting_Vision_Capabilities.md)
 
 - [Interpreting Temporal Graph Neural Networks with Koopman Theory](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
 
@@ -1117,10 +1109,6 @@
 - [Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
 
     - [翻译: 利用强化学习与合成偏好提升自动生成问题的难度](2024年10月10日/Increasing_the_Difficulty_of_Automatically_Generated_Questions_via_Reinforcement_Learning_with_Synthetic_Preference.md)
-
-- [Prompt Engineering a Schizophrenia Chatbot: Utilizing a Multi-Agent Approach for Enhanced Compliance with Prompt Instructions](2024年10月10日/Prompt_Engineering_a_Schizophrenia_Chatbot_Utilizing_a_Multi-Agent_Approach_for_Enhanced_Compliance_with_Prompt_Instructions.md)
-
-    - [翻译: 精神分裂症聊天机器人的提示工程：通过多代理方法提升对提示指令的遵守效果](2024年10月10日/Prompt_Engineering_a_Schizophrenia_Chatbot_Utilizing_a_Multi-Agent_Approach_for_Enhanced_Compliance_with_Prompt_Instructions.md)
 
 2024年10月09日
 
