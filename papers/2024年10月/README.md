@@ -526,10 +526,6 @@
 
     - [翻译: Nova：通过迭代规划与搜索，提升 LLM 生成创意的新颖性与多样性](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
 
-- [PTR: A Pre-trained Language Model for Trajectory Recovery](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
-
-    - [翻译: PTR：专为轨迹恢复而生的预训练语言模型](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
-
 - [Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
 
     - [翻译: 探索基于 LLM 的个性化多源会议摘要，揭示你需要了解的关键信息。](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
@@ -961,10 +957,6 @@
 - [Improve Meta-learning for Few-Shot Text Classification with All You Can Acquire from the Tasks](2024年10月14日/Improve_Meta-learning_for_Few-Shot_Text_Classification_with_All_You_Can_Acquire_from_the_Tasks.md)
 
     - [翻译: 利用任务中的所有可用信息，提升少样本文本分类的元学习效果](2024年10月14日/Improve_Meta-learning_for_Few-Shot_Text_Classification_with_All_You_Can_Acquire_from_the_Tasks.md)
-
-- [Innovative Thinking, Infinite Humor: Humor Research of Large Language Models through Structured Thought Leaps](2024年10月14日/Innovative_Thinking,_Infinite_Humor_Humor_Research_of_Large_Language_Models_through_Structured_Thought_Leaps.md)
-
-    - [翻译: 创新思维，幽默无限：通过结构化思维跳跃探索大语言模型的幽默研究](2024年10月14日/Innovative_Thinking,_Infinite_Humor_Humor_Research_of_Large_Language_Models_through_Structured_Thought_Leaps.md)
 
 - [Is Parameter Collision Hindering Continual Learning in LLMs?](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
 
