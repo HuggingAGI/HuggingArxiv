@@ -22,10 +22,6 @@
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
-- [Face-MLLM: A Large Face Perception Model](2024年10月28日/Face-MLLM_A_Large_Face_Perception_Model.md)
-
-    - [翻译: Face-MLLM：一个大型面部感知模型](2024年10月28日/Face-MLLM_A_Large_Face_Perception_Model.md)
-
 - [FACT: Examining the Effectiveness of Iterative Context Rewriting for Multi-fact Retrieval](2024年10月28日/FACT_Examining_the_Effectiveness_of_Iterative_Context_Rewriting_for_Multi-fact_Retrieval.md)
 
     - [翻译: 事实：检验迭代上下文重写对多事实检索的有效性](2024年10月28日/FACT_Examining_the_Effectiveness_of_Iterative_Context_Rewriting_for_Multi-fact_Retrieval.md)
@@ -77,10 +73,6 @@
     - [翻译: LLaVA-KD：多模态大型语言模型蒸馏框架](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
 
 2024年10月24日
-
-- [Aligning CodeLLMs with Direct Preference Optimization](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
-
-    - [翻译: 将 CodeLLMs 与直接偏好优化对齐](2024年10月24日/Aligning_CodeLLMs_with_Direct_Preference_Optimization.md)
 
 - [Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](2024年10月24日/Binary_Code_Similarity_Detection_via_Graph_Contrastive_Learning_on_Intermediate_Representations.md)
 
@@ -272,10 +264,6 @@
 
     - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
-- [Mitigating Object Hallucination via Concentric Causal Attention](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
-
-    - [翻译: 利用同心因果注意力机制，有效缓解对象幻觉问题。](2024年10月21日/Mitigating_Object_Hallucination_via_Concentric_Causal_Attention.md)
-
 - [MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
 
     - [翻译: MvDrag3D：通过多视图生成-重建先验进行基于拖动的创意 3D 编辑](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
@@ -391,10 +379,6 @@
 - [A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
 
     - [翻译: 开放学生学习环境中的双融合认知诊断框架](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
-
-- [A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers](2024年10月19日/A_Prompt_Engineering_Approach_and_a_Knowledge_Graph_based_Framework_for_Tackling_Legal_Implications_of_Large_Language_Model_Answers.md)
-
-    - [翻译: 通过提示工程与知识图谱结合，我们提出了一种新颖的框架，旨在应对大型语言模型答案可能带来的法律挑战。](2024年10月19日/A_Prompt_Engineering_Approach_and_a_Knowledge_Graph_based_Framework_for_Tackling_Legal_Implications_of_Large_Language_Model_Answers.md)
 
 - [AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
 
