@@ -22,10 +22,6 @@
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
-- [DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning](2024年10月28日/DeTeCtive_Detecting_AI-generated_Text_via_Multi-Level_Contrastive_Learning.md)
-
-    - [翻译: DeTeCtive：通过多层次对比学习检测人工智能生成的文本](2024年10月28日/DeTeCtive_Detecting_AI-generated_Text_via_Multi-Level_Contrastive_Learning.md)
-
 - [Face-MLLM: A Large Face Perception Model](2024年10月28日/Face-MLLM_A_Large_Face_Perception_Model.md)
 
     - [翻译: Face-MLLM：一个大型面部感知模型](2024年10月28日/Face-MLLM_A_Large_Face_Perception_Model.md)
@@ -291,10 +287,6 @@
 - [MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
 
     - [翻译: MvDrag3D：通过多视图生成-重建先验进行基于拖动的创意 3D 编辑](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
-
-- [Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning](2024年10月21日/Natural_GaLore_Accelerating_GaLore_for_memory-efficient_LLM_Training_and_Fine-tuning.md)
-
-    - [翻译: 自然 GaLore：加速 GaLore，实现内存高效的大型语言模型训练与微调](2024年10月21日/Natural_GaLore_Accelerating_GaLore_for_memory-efficient_LLM_Training_and_Fine-tuning.md)
 
 - [NetSafe: Exploring the Topological Safety of Multi-agent Networks](2024年10月21日/NetSafe_Exploring_the_Topological_Safety_of_Multi-agent_Networks.md)
 
@@ -911,10 +903,6 @@
 - [OMCAT: Omni Context Aware Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
 
     - [翻译: OMCAT：全场景智能Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
-
-- [QSpec: Speculative Decoding with Complementary Quantization Schemes](2024年10月15日/QSpec_Speculative_Decoding_with_Complementary_Quantization_Schemes.md)
-
-    - [翻译: QSpec：采用互补量化方案的推测性解码技术](2024年10月15日/QSpec_Speculative_Decoding_with_Complementary_Quantization_Schemes.md)
 
 - [ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability](2024年10月15日/ReDeEP_Detecting_Hallucination_in_Retrieval-Augmented_Generation_via_Mechanistic_Interpretability.md)
 
