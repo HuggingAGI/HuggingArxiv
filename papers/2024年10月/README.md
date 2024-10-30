@@ -178,10 +178,6 @@
 
     - [翻译: SmartGSN：一种由生成式人工智能驱动的用于保证案例管理的在线工具](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
 
-- [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
-
-    - [翻译: Toolshed：借助先进的 RAG-Tool 融合与工具知识库，扩展工具化代理的能力](2024年10月22日/Toolshed_Scale_Tool-Equipped_Agents_with_Advanced_RAG-Tool_Fusion_and_Tool_Knowledge_Bases.md)
-
 - [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
 
     - [翻译: xLSTM-Mixer：通过标量记忆混合进行多元时间序列预测](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
@@ -679,10 +675,6 @@
 - [MeloTrans: A Text to Symbolic Music Generation Model Following Human Composition Habit](2024年10月17日/MeloTrans_A_Text_to_Symbolic_Music_Generation_Model_Following_Human_Composition_Habit.md)
 
     - [翻译: MeloTrans：一款模仿人类作曲习惯的文本转符号音乐生成模型](2024年10月17日/MeloTrans_A_Text_to_Symbolic_Music_Generation_Model_Following_Human_Composition_Habit.md)
-
-- [Membership Testing for Semantic Regular Expressions](2024年10月17日/Membership_Testing_for_Semantic_Regular_Expressions.md)
-
-    - [翻译: 语义正则表达式的成员资格检测](2024年10月17日/Membership_Testing_for_Semantic_Regular_Expressions.md)
 
 - [Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
 
