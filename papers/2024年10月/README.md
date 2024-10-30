@@ -546,10 +546,6 @@
 
     - [翻译: PTR：专为轨迹恢复而生的预训练语言模型](2024年10月18日/PTR_A_Pre-trained_Language_Model_for_Trajectory_Recovery.md)
 
-- [Supervised Chain of Thought](2024年10月18日/Supervised_Chain_of_Thought.md)
-
-    - [翻译: 思维链监督](2024年10月18日/Supervised_Chain_of_Thought.md)
-
 - [Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
 
     - [翻译: 探索基于 LLM 的个性化多源会议摘要，揭示你需要了解的关键信息。](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
@@ -595,10 +591,6 @@
 - [A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
 
     - [翻译: 大规模模型训练后 Delta 参数编辑的统一视角](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
-
-- [Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?](2024年10月17日/Can_Medical_Vision-Language_Pre-training_Succeed_with_Purely_Synthetic_Data.md)
-
-    - [翻译: 医学视觉-语言预训练，能否仅凭纯合成数据大获成功？](2024年10月17日/Can_Medical_Vision-Language_Pre-training_Succeed_with_Purely_Synthetic_Data.md)
 
 - [CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
 
@@ -707,10 +699,6 @@
 - [MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
-
-- [Optimal Quantization for Matrix Multiplication](2024年10月17日/Optimal_Quantization_for_Matrix_Multiplication.md)
-
-    - [翻译: 矩阵乘法中的最优量化](2024年10月17日/Optimal_Quantization_for_Matrix_Multiplication.md)
 
 - [Persistent Pre-Training Poisoning of LLMs](2024年10月17日/Persistent_Pre-Training_Poisoning_of_LLMs.md)
 
@@ -895,10 +883,6 @@
 - [Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
 
     - [翻译: 破解混沌：利用对抗性提示翻译提升越狱攻击效果](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
-
-- [De-jargonizing Science for Journalists with GPT-4: A Pilot Study](2024年10月15日/De-jargonizing_Science_for_Journalists_with_GPT-4_A_Pilot_Study.md)
-
-    - [翻译: 利用 GPT-4 帮助记者简化科学术语：一次初步探索](2024年10月15日/De-jargonizing_Science_for_Journalists_with_GPT-4_A_Pilot_Study.md)
 
 - [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
 
@@ -1167,12 +1151,6 @@
 - [Pixtral 12B](2024年10月09日/Pixtral_12B.md)
 
     - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
-
-2024年10月07日
-
-- [Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data](2024年10月07日/Learning_Interpretable_Hierarchical_Dynamical_Systems_Models_from_Time_Series_Data.md)
-
-    - [翻译: 从时间序列数据中构建可解释的分层动态模型](2024年10月07日/Learning_Interpretable_Hierarchical_Dynamical_Systems_Models_from_Time_Series_Data.md)
 
 2024年10月06日
 
