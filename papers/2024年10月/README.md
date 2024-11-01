@@ -106,10 +106,6 @@
 
     - [翻译: 超越检索：在会话推荐系统中生成叙述](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
 
-- [Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?](2024年10月22日/Bridging_Search_and_Recommendation_in_Generative_Retrieval_Does_One_Task_Help_the_Other.md)
-
-    - [翻译: 在生成式检索中架起搜索和推荐的桥梁：一项任务会对另一项任务有帮助吗？](2024年10月22日/Bridging_Search_and_Recommendation_in_Generative_Retrieval_Does_One_Task_Help_the_Other.md)
-
 - [Can Large Language Models Act as Ensembler for Multi-GNNs?](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
 
     - [翻译: 大型语言模型能作为多 GNN 的集成器吗？](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
@@ -544,10 +540,6 @@
 
     - [翻译: 基于 LLM 的单元测试生成：属性检索法](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
-- [LLM-Rank: A Graph Theoretical Approach to Pruning Large Language Models](2024年10月17日/LLM-Rank_A_Graph_Theoretical_Approach_to_Pruning_Large_Language_Models.md)
-
-    - [翻译: LLM-Rank：利用图论技术优化大语言模型剪枝的新思路](2024年10月17日/LLM-Rank_A_Graph_Theoretical_Approach_to_Pruning_Large_Language_Models.md)
-
 - [Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
 
     - [翻译: Malleus：通过灵活的数据和模型并行化，实现大规模模型的抗滞后混合并行训练](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
@@ -931,10 +923,6 @@
 - [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
 
     - [翻译: IGNN-Solver：专为隐式图神经网络设计的图神经求解器](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
-
-- [NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
-
-    - [翻译: NoVo：通过 LLM 中的注意力头规范投票，消除幻觉](2024年10月11日/NoVo_Norm_Voting_off_Hallucinations_with_Attention_Heads_in_Large_Language_Models.md)
 
 - [QEFT: Quantization for Efficient Fine-Tuning of LLMs](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
 
