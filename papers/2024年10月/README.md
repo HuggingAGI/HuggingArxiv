@@ -56,10 +56,6 @@
 
 2024年10月25日
 
-- [FLAASH: Flow-Attention Adaptive Semantic Hierarchical Fusion for Multi-Modal Tobacco Content Analysis](2024年10月25日/FLAASH_Flow-Attention_Adaptive_Semantic_Hierarchical_Fusion_for_Multi-Modal_Tobacco_Content_Analysis.md)
-
-    - [翻译: FLAASH：用于多模态烟草内容分析的流注意力自适应语义分层融合](2024年10月25日/FLAASH_Flow-Attention_Adaptive_Semantic_Hierarchical_Fusion_for_Multi-Modal_Tobacco_Content_Analysis.md)
-
 - [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
 
     - [翻译: LLaVA-KD：多模态大型语言模型蒸馏框架](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
@@ -204,10 +200,6 @@
 
     - [翻译: 大型语言模型写作是否接近人类？探讨其语法和修辞风格的变化。](2024年10月21日/Do_LLMs_write_like_humans_Variation_in_grammatical_and_rhetorical_styles.md)
 
-- [Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
-
-    - [翻译: 探索持续微调，提升大型语言模型的语言能力](2024年10月21日/Exploring_Continual_Fine-Tuning_for_Enhancing_Language_Ability_in_Large_Language_Model.md)
-
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
@@ -325,10 +317,6 @@
 - [Do RAG Systems Cover What Matters? Evaluating and Optimizing Responses with Sub-Question Coverage](2024年10月20日/Do_RAG_Systems_Cover_What_Matters_Evaluating_and_Optimizing_Responses_with_Sub-Question_Coverage.md)
 
     - [翻译: RAG 系统是否抓住了重点？通过子问题覆盖来评估和优化回答](2024年10月20日/Do_RAG_Systems_Cover_What_Matters_Evaluating_and_Optimizing_Responses_with_Sub-Question_Coverage.md)
-
-- [Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
-
-    - [翻译: 自动驾驶中的大型语言模型 (LLM4AD)：探索其概念、基准测试、仿真及实车实验](2024年10月20日/Large_Language_Models_for_Autonomous_Driving_(LLM4AD)_Concept,_Benchmark,_Simulation,_and_Real-Vehicle_Experiment.md)
 
 - [Leveraging Retrieval-Augmented Generation for Culturally Inclusive Hakka Chatbots: Design Insights and User Perceptions](2024年10月20日/Leveraging_Retrieval-Augmented_Generation_for_Culturally_Inclusive_Hakka_Chatbots_Design_Insights_and_User_Perceptions.md)
 
@@ -830,10 +818,6 @@
 
     - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
-- [Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
-
-    - [翻译: 自动化筛选人类反馈数据，优化文本到图像扩散模型的对齐效果](2024年10月14日/Automated_Filtering_of_Human_Feedback_Data_for_Aligning_Text-to-Image_Diffusion_Models.md)
-
 - [Beyond-RAG: Question Identification and Answer Generation in Real-Time Conversations](2024年10月14日/Beyond-RAG_Question_Identification_and_Answer_Generation_in_Real-Time_Conversations.md)
 
     - [翻译: 超越RAG：实时对话中的问题识别与答案生成](2024年10月14日/Beyond-RAG_Question_Identification_and_Answer_Generation_in_Real-Time_Conversations.md)
@@ -909,10 +893,6 @@
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
     - [翻译: 迈向由 LLM 引导的高效且可解释的多线性张量网络秩选择](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
-
-- [When Does Perceptual Alignment Benefit Vision Representations?](2024年10月14日/When_Does_Perceptual_Alignment_Benefit_Vision_Representations.md)
-
-    - [翻译: 何时感知对齐能提升视觉表示的效果？](2024年10月14日/When_Does_Perceptual_Alignment_Benefit_Vision_Representations.md)
 
 - [Will LLMs Replace the Encoder-Only Models in Temporal Relation Classification?](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
