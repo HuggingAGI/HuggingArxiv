@@ -14,10 +14,6 @@
 
     - [翻译: 超越自回归：通过时间上的自蒸馏实现快速的大型语言模型](2024年10月28日/Beyond_Autoregression_Fast_LLMs_via_Self-Distillation_Through_Time.md)
 
-- [BongLLaMA: LLaMA for Bangla Language](2024年10月28日/BongLLaMA_LLaMA_for_Bangla_Language.md)
-
-    - [翻译: BongLLaMA：用于孟加拉语的 LLaMA](2024年10月28日/BongLLaMA_LLaMA_for_Bangla_Language.md)
-
 - [CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
@@ -376,10 +372,6 @@
 
     - [翻译: LVLMs 能否像人类一样描述视频？我们推出一个五合一的视频注释基准，旨在提升人机比较的准确性。](2024年10月19日/Can_LVLMs_Describe_Videos_like_Humans_A_Five-in-One_Video_Annotations_Benchmark_for_Better_Human-Machine_Comparison.md)
 
-- [Chasing Random: Instruction Selection Strategies Fail to Generalize](2024年10月19日/Chasing_Random_Instruction_Selection_Strategies_Fail_to_Generalize.md)
-
-    - [翻译: 随机追逐：指令选择策略未能实现泛化](2024年10月19日/Chasing_Random_Instruction_Selection_Strategies_Fail_to_Generalize.md)
-
 - [Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
 
     - [翻译: 从粗到细的突出显示：减少大型语言模型中的知识幻觉](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
@@ -511,10 +503,6 @@
 - [AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
-
-- [A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
-
-    - [翻译: 大规模模型训练后 Delta 参数编辑的统一视角](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
 
 - [CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
 
