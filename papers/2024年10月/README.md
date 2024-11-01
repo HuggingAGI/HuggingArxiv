@@ -512,10 +512,6 @@
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
-- [Atomic Calibration of LLMs in Long-Form Generations](2024年10月17日/Atomic_Calibration_of_LLMs_in_Long-Form_Generations.md)
-
-    - [翻译: 长篇生成中 LLM 的原子校准](2024年10月17日/Atomic_Calibration_of_LLMs_in_Long-Form_Generations.md)
-
 - [A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
 
     - [翻译: 大规模模型训练后 Delta 参数编辑的统一视角](2024年10月17日/A_Unified_View_of_Delta_Parameter_Editing_in_Post-Trained_Large-Scale_Models.md)
@@ -804,10 +800,6 @@
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
-- [Leveraging LLM Embeddings for Cross Dataset Label Alignment and Zero Shot Music Emotion Prediction](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
-
-    - [翻译: 借助 LLM 嵌入，实现跨数据集标签对齐，并进行零-shot 音乐情感预测。](2024年10月15日/Leveraging_LLM_Embeddings_for_Cross_Dataset_Label_Alignment_and_Zero_Shot_Music_Emotion_Prediction.md)
-
 - [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
 
     - [翻译: MLLM 能“看”吗？动态校正解码助力幻觉缓解](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
@@ -961,10 +953,6 @@
     - [翻译: 如何在大语言模型对齐中巧妙利用演示数据？让我们从自我模仿学习的角度一探究竟。](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
 
 2024年10月12日
-
-- [COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement](2024年10月12日/COrAL_Order-Agnostic_Language_Modeling_for_Efficient_Iterative_Refinement.md)
-
-    - [翻译: COrAL：一种高效迭代细化的无序语言建模方法](2024年10月12日/COrAL_Order-Agnostic_Language_Modeling_for_Efficient_Iterative_Refinement.md)
 
 - [DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
 
