@@ -356,10 +356,6 @@
 
     - [翻译: LLaVA-Ultra：专为超声波设计的大型中文语言与视觉助手](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
 
-- [MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification](2024年10月19日/MCCoder_Streamlining_Motion_Control_with_LLM-Assisted_Code_Generation_and_Rigorous_Verification.md)
-
-    - [翻译: MCCoder：借助 LLM 辅助代码生成与严格验证，简化运动控制流程。](2024年10月19日/MCCoder_Streamlining_Motion_Control_with_LLM-Assisted_Code_Generation_and_Rigorous_Verification.md)
-
 - [Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
 
     - [翻译: 利用梯度优化技术，在大语言模型中探寻故障令牌的奥秘](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
@@ -673,10 +669,6 @@
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
     - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
-
-- [Optimizing Low-Resource Language Model Training: Comprehensive Analysis of Multi-Epoch, Multi-Lingual, and Two-Stage Approaches](2024年10月16日/Optimizing_Low-Resource_Language_Model_Training_Comprehensive_Analysis_of_Multi-Epoch,_Multi-Lingual,_and_Two-Stage_Approaches.md)
-
-    - [翻译: 优化低资源语言模型训练：深入探讨多时期、多语言及两阶段策略的综合分析](2024年10月16日/Optimizing_Low-Resource_Language_Model_Training_Comprehensive_Analysis_of_Multi-Epoch,_Multi-Lingual,_and_Two-Stage_Approaches.md)
 
 - [PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking](2024年10月16日/PRefLexOR_Preference-based_Recursive_Language_Modeling_for_Exploratory_Optimization_of_Reasoning_and_Agentic_Thinking.md)
 
