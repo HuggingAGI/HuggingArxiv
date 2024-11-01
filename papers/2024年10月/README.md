@@ -826,10 +826,6 @@
 
     - [翻译: LG-CAV：借助语言指导，轻松训练任意概念激活向量](2024年10月14日/LG-CAV_Train_Any_Concept_Activation_Vector_with_Language_Guidance.md)
 
-- [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
-
-    - [翻译: LongMemEval：评估聊天助手在长期交互记忆中的表现](2024年10月14日/LongMemEval_Benchmarking_Chat_Assistants_on_Long-Term_Interactive_Memory.md)
-
 - [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
     - [翻译: MentalGLM 系列：专为中国社交媒体心理健康分析设计的可解释大型语言模型](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
@@ -885,10 +881,6 @@
     - [翻译: 如何在大语言模型对齐中巧妙利用演示数据？让我们从自我模仿学习的角度一探究竟。](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
 
 2024年10月12日
-
-- [DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
-
-    - [翻译: DRCap：通过检索增强生成技术，解码 CLAP 潜在变量，实现零-shot 音频字幕生成。](2024年10月12日/DRCap_Decoding_CLAP_Latents_with_Retrieval-augmented_Generation_for_Zero-shot_Audio_Captioning.md)
 
 - [FlatQuant: Flatness Matters for LLM Quantization](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
