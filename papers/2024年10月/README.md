@@ -184,10 +184,6 @@
 
     - [翻译: 从PDF构建基于RAG的LLM系统：实践经验分享](2024年10月21日/Developing_Retrieval_Augmented_Generation_(RAG)_based_LLM_Systems_from_PDFs_An_Experience_Report.md)
 
-- [Do Large Language Models Have an English Accent? Evaluating and Improving the Naturalness of Multilingual LLMs](2024年10月21日/Do_Large_Language_Models_Have_an_English_Accent_Evaluating_and_Improving_the_Naturalness_of_Multilingual_LLMs.md)
-
-    - [翻译: 大型语言模型是否“说”英语时带有口音？本文探讨如何评估并提升多语言 LLM 的自然表达能力。](2024年10月21日/Do_Large_Language_Models_Have_an_English_Accent_Evaluating_and_Improving_the_Naturalness_of_Multilingual_LLMs.md)
-
 - [Do LLMs write like humans? Variation in grammatical and rhetorical styles](2024年10月21日/Do_LLMs_write_like_humans_Variation_in_grammatical_and_rhetorical_styles.md)
 
     - [翻译: 大型语言模型写作是否接近人类？探讨其语法和修辞风格的变化。](2024年10月21日/Do_LLMs_write_like_humans_Variation_in_grammatical_and_rhetorical_styles.md)
@@ -264,10 +260,6 @@
 
     - [翻译: ToW：词语的思想助力大型语言模型推理能力的提升](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
 
-- [Understanding and Alleviating Memory Consumption in RLHF for LLMs](2024年10月21日/Understanding_and_Alleviating_Memory_Consumption_in_RLHF_for_LLMs.md)
-
-    - [翻译: 探究并减轻 RLHF 在大型语言模型中的内存负担](2024年10月21日/Understanding_and_Alleviating_Memory_Consumption_in_RLHF_for_LLMs.md)
-
 - [Using GPT Models for Qualitative and Quantitative News Analytics in the 2024 US Presidental Election Process](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
 
     - [翻译: 利用 GPT 模型，深入分析 2024 年美国大选中的新闻内容，既量化数据，又捕捉深层含义。](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
@@ -293,10 +285,6 @@
 - [Customized FinGPT Search Agents Using Foundation Models](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
 
     - [翻译: 基于基础模型的定制化 FinGPT 搜索代理](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
-
-- [Do RAG Systems Cover What Matters? Evaluating and Optimizing Responses with Sub-Question Coverage](2024年10月20日/Do_RAG_Systems_Cover_What_Matters_Evaluating_and_Optimizing_Responses_with_Sub-Question_Coverage.md)
-
-    - [翻译: RAG 系统是否抓住了重点？通过子问题覆盖来评估和优化回答](2024年10月20日/Do_RAG_Systems_Cover_What_Matters_Evaluating_and_Optimizing_Responses_with_Sub-Question_Coverage.md)
 
 - [Leveraging Retrieval-Augmented Generation for Culturally Inclusive Hakka Chatbots: Design Insights and User Perceptions](2024年10月20日/Leveraging_Retrieval-Augmented_Generation_for_Culturally_Inclusive_Hakka_Chatbots_Design_Insights_and_User_Perceptions.md)
 
@@ -843,10 +831,6 @@
     - [翻译: 大型语言模型（LLMs）是否将取代仅编码器模型，成为时间关系分类的新宠？](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
 2024年10月13日
-
-- [Empowering Dysarthric Speech: Leveraging Advanced LLMs for Accurate Speech Correction and Multimodal Emotion Analysis](2024年10月13日/Empowering_Dysarthric_Speech_Leveraging_Advanced_LLMs_for_Accurate_Speech_Correction_and_Multimodal_Emotion_Analysis.md)
-
-    - [翻译: 借助先进的大型语言模型（LLM），我们不仅能精准校正构音障碍者的语音，还能进行多模态情感分析，赋予这些语音新的生命力。](2024年10月13日/Empowering_Dysarthric_Speech_Leveraging_Advanced_LLMs_for_Accurate_Speech_Correction_and_Multimodal_Emotion_Analysis.md)
 
 - [How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
 
