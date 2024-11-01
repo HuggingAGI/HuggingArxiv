@@ -1,5 +1,11 @@
 # 2024年10月
 
+2024年10月31日
+
+- [Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs](2024年10月31日/Plan-on-Graph_Self-Correcting_Adaptive_Planning_of_Large_Language_Model_on_Knowledge_Graphs.md)
+
+    - [翻译: 图上规划：大型语言模型在知识图谱上的自校正自适应规划](2024年10月31日/Plan-on-Graph_Self-Correcting_Adaptive_Planning_of_Large_Language_Model_on_Knowledge_Graphs.md)
+
 2024年10月28日
 
 - [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
@@ -197,10 +203,6 @@
 - [Large Language Models Empower Personalized Valuation in Auction](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
 
     - [翻译: 大型语言模型赋能拍卖中的个性化估值](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
-
-- [LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation](2024年10月21日/LLM4GRN_Discovering_Causal_Gene_Regulatory_Networks_with_LLMs_--_Evaluation_through_Synthetic_Data_Generation.md)
-
-    - [翻译: LLM4GRN：利用 LLM 探索因果基因调控网络，并通过合成数据生成进行评估。](2024年10月21日/LLM4GRN_Discovering_Causal_Gene_Regulatory_Networks_with_LLMs_--_Evaluation_through_Synthetic_Data_Generation.md)
 
 - [Long Term Memory: The Foundation of AI Self-Evolution](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
 
@@ -718,10 +720,6 @@
 
     - [翻译: MLLM 能“看”吗？动态校正解码助力幻觉缓解](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
 
-- [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
-
-    - [翻译: MTU-Bench：专为大型语言模型设计的多粒度工具使用基准](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
-
 - [OMCAT: Omni Context Aware Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
 
     - [翻译: OMCAT：全场景智能Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
@@ -733,10 +731,6 @@
 - [Transformer Layer Injection: A Novel Approach for Efficient Upscaling of Large Language Models](2024年10月15日/Transformer_Layer_Injection_A_Novel_Approach_for_Efficient_Upscaling_of_Large_Language_Models.md)
 
     - [翻译: Transformer 层注入：提升大型语言模型效率的创新之道](2024年10月15日/Transformer_Layer_Injection_A_Novel_Approach_for_Efficient_Upscaling_of_Large_Language_Models.md)
-
-- [Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
-
-    - [翻译: Y-Mol：一款多尺度生物医学知识驱动的大型语言模型，专为药物研发而生](2024年10月15日/Y-Mol_A_Multiscale_Biomedical_Knowledge-Guided_Large_Language_Model_for_Drug_Development.md)
 
 2024年10月14日
 
