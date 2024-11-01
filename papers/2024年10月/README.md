@@ -248,10 +248,6 @@
 
     - [翻译: 金融领域中生成式人工智能的机遇与挑战](2024年10月21日/Opportunities_and_Challenges_of_Generative-AI_in_Finance.md)
 
-- [PROMPTHEUS: A Human-Centered Pipeline to Streamline SLRs with LLMs](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
-
-    - [翻译: PROMPTHEUS：一个以人为本的工作流程，旨在借助大型语言模型（LLM）简化系统文献综述（SLR）的流程。](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
-
 - [Residual vector quantization for KV cache compression in large language model](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
 
     - [翻译: 大型语言模型中的 KV 缓存压缩，借助残差向量量化技术实现。](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
@@ -806,10 +802,6 @@
 
     - [翻译: 借助语言家族专家的混合策略，我们高效地将医学大型语言模型扩展至50种语言，实现真正的语言民主化。](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
 
-- [ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
-
-    - [翻译: ForgeryGPT：一款多模态大型语言模型，专为可解释的图像伪造检测与定位而生。](2024年10月14日/ForgeryGPT_Multimodal_Large_Language_Model_For_Explainable_Image_Forgery_Detection_and_Localization.md)
-
 - [Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs](2024年10月14日/Graph_of_Records_Boosting_Retrieval_Augmented_Generation_for_Long-context_Summarization_with_Graphs.md)
 
     - [翻译: 记录图：通过图增强检索生成，助力长上下文摘要的提升](2024年10月14日/Graph_of_Records_Boosting_Retrieval_Augmented_Generation_for_Long-context_Summarization_with_Graphs.md)
@@ -821,10 +813,6 @@
 - [Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
 
     - [翻译: 大型语言模型加持的强化学习，助力通用公交保持控制策略](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
-
-- [LG-CAV: Train Any Concept Activation Vector with Language Guidance](2024年10月14日/LG-CAV_Train_Any_Concept_Activation_Vector_with_Language_Guidance.md)
-
-    - [翻译: LG-CAV：借助语言指导，轻松训练任意概念激活向量](2024年10月14日/LG-CAV_Train_Any_Concept_Activation_Vector_with_Language_Guidance.md)
 
 - [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
@@ -863,14 +851,6 @@
     - [翻译: 大型语言模型（LLMs）是否将取代仅编码器模型，成为时间关系分类的新宠？](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
 2024年10月13日
-
-- [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](2024年10月13日/BlackDAN_A_Black-Box_Multi-Objective_Approach_for_Effective_and_Contextual_Jailbreaking_of_Large_Language_Models.md)
-
-    - [翻译: BlackDAN：一种黑盒多目标策略，专为有效且情境化的破解大型语言模型而设计。](2024年10月13日/BlackDAN_A_Black-Box_Multi-Objective_Approach_for_Effective_and_Contextual_Jailbreaking_of_Large_Language_Models.md)
-
-- [Can We Predict Performance of Large Models across Vision-Language Tasks?](2024年10月13日/Can_We_Predict_Performance_of_Large_Models_across_Vision-Language_Tasks.md)
-
-    - [翻译: 大型模型在视觉-语言任务中的表现，我们能否精准预测？](2024年10月13日/Can_We_Predict_Performance_of_Large_Models_across_Vision-Language_Tasks.md)
 
 - [Empowering Dysarthric Speech: Leveraging Advanced LLMs for Accurate Speech Correction and Multimodal Emotion Analysis](2024年10月13日/Empowering_Dysarthric_Speech_Leveraging_Advanced_LLMs_for_Accurate_Speech_Correction_and_Multimodal_Emotion_Analysis.md)
 
