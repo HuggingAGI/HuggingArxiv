@@ -6,6 +6,12 @@
 
     - [翻译: 图上规划：大型语言模型在知识图谱上的自校正自适应规划](2024年10月31日/Plan-on-Graph_Self-Correcting_Adaptive_Planning_of_Large_Language_Model_on_Knowledge_Graphs.md)
 
+2024年10月29日
+
+- [Flow Matching for Posterior Inference with Simulator Feedback](2024年10月29日/Flow_Matching_for_Posterior_Inference_with_Simulator_Feedback.md)
+
+    - [翻译: 具有模拟器反馈的后验推理的流匹配](2024年10月29日/Flow_Matching_for_Posterior_Inference_with_Simulator_Feedback.md)
+
 2024年10月28日
 
 - [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
