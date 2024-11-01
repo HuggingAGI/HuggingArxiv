@@ -50,16 +50,6 @@
 
     - [翻译: Palisade——提示注入检测框架](2024年10月28日/Palisade_--_Prompt_Injection_Detection_Framework.md)
 
-- [Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback](2024年10月28日/Zero-Shot_Dense_Retrieval_with_Embeddings_from_Relevance_Feedback.md)
-
-    - [翻译: 零-shot 密集检索与来自相关性反馈的嵌入](2024年10月28日/Zero-Shot_Dense_Retrieval_with_Embeddings_from_Relevance_Feedback.md)
-
-2024年10月25日
-
-- [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
-
-    - [翻译: LLaVA-KD：多模态大型语言模型蒸馏框架](2024年10月25日/LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models.md)
-
 2024年10月24日
 
 - [Little Giants: Synthesizing High-Quality Embedding Data at Scale](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
@@ -215,10 +205,6 @@
 - [Long Term Memory: The Foundation of AI Self-Evolution](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
 
     - [翻译: 长期记忆，乃 AI 自我进化的基石。](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
-
-- [Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
-
-    - [翻译: Mesa-Extrapolation：一种提升 LLM 外推能力的编织位置编码方法](2024年10月21日/Mesa-Extrapolation_A_Weave_Position_Encoding_Method_for_Enhanced_Extrapolation_in_LLMs.md)
 
 - [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
