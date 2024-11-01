@@ -356,6 +356,10 @@
 
     - [翻译: 基于动态反馈的强化学习奖励设计框架，由大型语言模型驱动](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
 
+- [Almost-Linear RNNs Yield Highly Interpretable Symbolic Codes in Dynamical Systems Reconstruction](2024年10月18日/Almost-Linear_RNNs_Yield_Highly_Interpretable_Symbolic_Codes_in_Dynamical_Systems_Reconstruction.md)
+
+    - [翻译: 在动力系统重建中，近乎线性的 RNN 产生了高度可解释的符号代码。](2024年10月18日/Almost-Linear_RNNs_Yield_Highly_Interpretable_Symbolic_Codes_in_Dynamical_Systems_Reconstruction.md)
+
 - [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
 
     - [翻译: AI检测器靠谱吗？一份关于机器生成文本数据集质量的调查报告](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
