@@ -74,10 +74,6 @@
 
     - [翻译: SafeBench：多模态大型语言模型的安全评估框架](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
 
-- [SIKeD: Self-guided Iterative Knowledge Distillation for mathematical reasoning](2024年10月24日/SIKeD_Self-guided_Iterative_Knowledge_Distillation_for_mathematical_reasoning.md)
-
-    - [翻译: SIKeD：用于数学推理的自引导迭代知识蒸馏](2024年10月24日/SIKeD_Self-guided_Iterative_Knowledge_Distillation_for_mathematical_reasoning.md)
-
 - [Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
 
     - [翻译: 迈向更好的开放式文本生成：一个多标准评估框架](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
@@ -275,10 +271,6 @@
 - [SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
 
     - [翻译: SMILES-Prompting：化学合成领域中，破解 LLM 的新颖策略](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
-
-- [Students Rather Than Experts: A New AI For Education Pipeline To Model More Human-Like And Personalised Early Adolescences](2024年10月21日/Students_Rather_Than_Experts_A_New_AI_For_Education_Pipeline_To_Model_More_Human-Like_And_Personalised_Early_Adolescences.md)
-
-    - [翻译: 以学生为中心，而非专家主导，这款新型 AI 教育工具旨在打造更贴近人性、更具个性化的青春期早期教育体验。](2024年10月21日/Students_Rather_Than_Experts_A_New_AI_For_Education_Pipeline_To_Model_More_Human-Like_And_Personalised_Early_Adolescences.md)
 
 - [ToW: Thoughts of Words Improve Reasoning in Large Language Models](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
 
@@ -784,10 +776,6 @@
 
     - [翻译: MTU-Bench：专为大型语言模型设计的多粒度工具使用基准](2024年10月15日/MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.md)
 
-- [Multi-round jailbreak attack on large language models](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
-
-    - [翻译: 大型语言模型面临多轮越狱攻击](2024年10月15日/Multi-round_jailbreak_attack_on_large_language_models.md)
-
 - [OMCAT: Omni Context Aware Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
 
     - [翻译: OMCAT：全场景智能Transformer](2024年10月15日/OMCAT_Omni_Context_Aware_Transformer.md)
@@ -841,10 +829,6 @@
 - [Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs](2024年10月14日/Graph_of_Records_Boosting_Retrieval_Augmented_Generation_for_Long-context_Summarization_with_Graphs.md)
 
     - [翻译: 记录图：通过图增强检索生成，助力长上下文摘要的提升](2024年10月14日/Graph_of_Records_Boosting_Retrieval_Augmented_Generation_for_Long-context_Summarization_with_Graphs.md)
-
-- [Improve Meta-learning for Few-Shot Text Classification with All You Can Acquire from the Tasks](2024年10月14日/Improve_Meta-learning_for_Few-Shot_Text_Classification_with_All_You_Can_Acquire_from_the_Tasks.md)
-
-    - [翻译: 利用任务中的所有可用信息，提升少样本文本分类的元学习效果](2024年10月14日/Improve_Meta-learning_for_Few-Shot_Text_Classification_with_All_You_Can_Acquire_from_the_Tasks.md)
 
 - [Is Parameter Collision Hindering Continual Learning in LLMs?](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
 
