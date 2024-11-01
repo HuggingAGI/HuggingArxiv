@@ -256,10 +256,6 @@
 
     - [翻译: PROMPTHEUS：一个以人为本的工作流程，旨在借助大型语言模型（LLM）简化系统文献综述（SLR）的流程。](2024年10月21日/PROMPTHEUS_A_Human-Centered_Pipeline_to_Streamline_SLRs_with_LLMs.md)
 
-- [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](2024年10月21日/Reducing_Hallucinations_in_Vision-Language_Models_via_Latent_Space_Steering.md)
-
-    - [翻译: 借助潜在空间引导，减少视觉语言模型中的幻觉现象。](2024年10月21日/Reducing_Hallucinations_in_Vision-Language_Models_via_Latent_Space_Steering.md)
-
 - [Residual vector quantization for KV cache compression in large language model](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
 
     - [翻译: 大型语言模型中的 KV 缓存压缩，借助残差向量量化技术实现。](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
@@ -539,10 +535,6 @@
 - [JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework](2024年10月17日/JAILJUDGE_A_Comprehensive_Jailbreak_Judge_Benchmark_with_Multi-Agent_Enhanced_Explanation_Evaluation_Framework.md)
 
     - [翻译: JAILJUDGE：一个综合的越狱判断基准，结合了多代理增强的解释评估框架，旨在全面评估越狱行为。](2024年10月17日/JAILJUDGE_A_Comprehensive_Jailbreak_Judge_Benchmark_with_Multi-Agent_Enhanced_Explanation_Evaluation_Framework.md)
-
-- [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](2024年10月17日/Janus_Decoupling_Visual_Encoding_for_Unified_Multimodal_Understanding_and_Generation.md)
-
-    - [翻译: Janus：通过解耦视觉编码，实现多模态理解和生成的统一。](2024年10月17日/Janus_Decoupling_Visual_Encoding_for_Unified_Multimodal_Understanding_and_Generation.md)
 
 - [LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
 
@@ -883,10 +875,6 @@
     - [翻译: 大型语言模型（LLMs）是否将取代仅编码器模型，成为时间关系分类的新宠？](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
 2024年10月13日
-
-- [Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
-
-    - [翻译: 大型语言模型能否超越图表，理解超图的奥秘？](2024年10月13日/Beyond_Graphs_Can_Large_Language_Models_Comprehend_Hypergraphs.md)
 
 - [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](2024年10月13日/BlackDAN_A_Black-Box_Multi-Objective_Approach_for_Effective_and_Contextual_Jailbreaking_of_Large_Language_Models.md)
 
