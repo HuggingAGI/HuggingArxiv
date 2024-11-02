@@ -64,10 +64,6 @@
 
 2024年10月24日
 
-- [Little Giants: Synthesizing High-Quality Embedding Data at Scale](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
-
-    - [翻译: 小巨人：大规模合成高质量嵌入数据](2024年10月24日/Little_Giants_Synthesizing_High-Quality_Embedding_Data_at_Scale.md)
-
 - [Mixture of Parrots: Experts improve memorization more than reasoning](2024年10月24日/Mixture_of_Parrots_Experts_improve_memorization_more_than_reasoning.md)
 
     - [翻译: 混合鹦鹉：专家在记忆方面的改进多于推理方面。](2024年10月24日/Mixture_of_Parrots_Experts_improve_memorization_more_than_reasoning.md)
@@ -267,10 +263,6 @@
 - [A Survey of Hallucination in Large Visual Language Models](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
 
     - [翻译: 大型视觉语言模型中的幻觉现象调查](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
-
-- [LlamaLens: Specialized Multilingual LLM for Analyzing News and Social Media Content](2024年10月20日/LlamaLens_Specialized_Multilingual_LLM_for_Analyzing_News_and_Social_Media_Content.md)
-
-    - [翻译: LlamaLens：一款专为分析新闻与社交媒体内容而设计的多语言大型语言模型](2024年10月20日/LlamaLens_Specialized_Multilingual_LLM_for_Analyzing_News_and_Social_Media_Content.md)
 
 - [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
 
@@ -853,12 +845,6 @@
 - [SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
 
     - [翻译: SouLLMate：一款自适应的 LLM 驱动系统，专为高级心理健康支持和评估设计，基于系统的应用调查。](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
-
-2024年10月04日
-
-- [A Large Language Model-based Framework for Semi-Structured Tender Document Retrieval-Augmented Generation](2024年10月04日/A_Large_Language_Model-based_Framework_for_Semi-Structured_Tender_Document_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 大型语言模型驱动的半结构化招标文件检索与生成框架](2024年10月04日/A_Large_Language_Model-based_Framework_for_Semi-Structured_Tender_Document_Retrieval-Augmented_Generation.md)
 
 2024年10月03日
 
