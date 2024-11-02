@@ -256,10 +256,6 @@
 
     - [翻译: 揭秘并咨询基于检索增强的 MoE 大型语言模型中的核心专家](2024年10月20日/Unveiling_and_Consulting_Core_Experts_in_Retrieval-Augmented_MoE-based_LLMs.md)
 
-- [Who is Undercover? Guiding LLMs to Explore Multi-Perspective Team Tactic in the Game](2024年10月20日/Who_is_Undercover_Guiding_LLMs_to_Explore_Multi-Perspective_Team_Tactic_in_the_Game.md)
-
-    - [翻译: 谁是卧底？引导 LLM 深入游戏，探索多角度团队策略。](2024年10月20日/Who_is_Undercover_Guiding_LLMs_to_Explore_Multi-Perspective_Team_Tactic_in_the_Game.md)
-
 2024年10月19日
 
 - [A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
@@ -442,10 +438,6 @@
 
     - [翻译: 大规模对话系统中的手语指令生成](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
 
-- [HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings](2024年10月17日/HEALTH-PARIKSHA_Assessing_RAG_Models_for_Health_Chatbots_in_Real-World_Multilingual_Settings.md)
-
-    - [翻译: HEALTH-PARIKSHA：评估健康聊天机器人在多语言真实环境中的RAG模型表现](2024年10月17日/HEALTH-PARIKSHA_Assessing_RAG_Models_for_Health_Chatbots_in_Real-World_Multilingual_Settings.md)
-
 - [Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
 
     - [翻译: 我们真的需要一个 LLM+VQA 系统来识别视觉概念吗？](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
@@ -527,10 +519,6 @@
 - [Agent Skill Acquisition for Large Language Models via CycleQD](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
 
     - [翻译: 利用 CycleQD 提升大型语言模型的代理技能](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
-
-- [Benchmarking Defeasible Reasoning with Large Language Models -- Initial Experiments and Future Directions](2024年10月16日/Benchmarking_Defeasible_Reasoning_with_Large_Language_Models_--_Initial_Experiments_and_Future_Directions.md)
-
-    - [翻译: 大型语言模型的可废止推理基准测试——初探与展望](2024年10月16日/Benchmarking_Defeasible_Reasoning_with_Large_Language_Models_--_Initial_Experiments_and_Future_Directions.md)
 
 - [Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention](2024年10月16日/Bridging_the_Language_Gaps_in_Large_Language_Models_with_Inference-Time_Cross-Lingual_Intervention.md)
 
@@ -793,10 +781,6 @@
 - [A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
 
     - [翻译: RAG 系统评估方法论：配置依赖验证案例研究](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
-
-- [From N-grams to Pre-trained Multilingual Models For Language Identification](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
-
-    - [翻译: 从 N-grams 到预训练的多语言模型：语言识别的新篇章](2024年10月11日/From_N-grams_to_Pre-trained_Multilingual_Models_For_Language_Identification.md)
 
 - [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
 
