@@ -138,10 +138,6 @@
 
     - [翻译: 探索 SMAC 任务新解法：借助大型语言模型生成决策树代码](2024年10月21日/A_New_Approach_to_Solving_SMAC_Task_Generating_Decision_Tree_Code_from_Large_Language_Models.md)
 
-- [Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
-
-    - [翻译: 超越 2:4：探索 V:N:M 稀疏性，提升 GPU 上 Transformer 推理效率](2024年10月21日/Beyond_24_exploring_VNM_sparsity_for_efficient_transformer_inference_on_GPUs.md)
-
 - [Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
 
     - [翻译: 不仅仅是过滤：自适应图像与文本质量提升，助力多模态语言模型预训练](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
@@ -209,10 +205,6 @@
 - [SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
 
     - [翻译: SMILES-Prompting：化学合成领域中，破解 LLM 的新颖策略](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
-
-- [ToW: Thoughts of Words Improve Reasoning in Large Language Models](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: ToW：词语的思想助力大型语言模型推理能力的提升](2024年10月21日/ToW_Thoughts_of_Words_Improve_Reasoning_in_Large_Language_Models.md)
 
 - [Using GPT Models for Qualitative and Quantitative News Analytics in the 2024 US Presidental Election Process](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
 
@@ -377,10 +369,6 @@
 - [AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
-
-- [CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
-
-    - [翻译: CBT-Bench：衡量大型语言模型在辅助认知行为疗法中的效能](2024年10月17日/CBT-Bench_Evaluating_Large_Language_Models_on_Assisting_Cognitive_Behavior_Therapy.md)
 
 - [CLaMP 2: Multimodal Music Information Retrieval Across 101 Languages Using Large Language Models](2024年10月17日/CLaMP_2_Multimodal_Music_Information_Retrieval_Across_101_Languages_Using_Large_Language_Models.md)
 
