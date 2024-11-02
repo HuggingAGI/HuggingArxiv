@@ -216,10 +216,6 @@
 
     - [翻译: 以攻为守：应对大型语言模型驱动的网络攻击](2024年10月20日/The_Best_Defense_is_a_Good_Offense_Countering_LLM-Powered_Cyberattacks.md)
 
-- [Unveiling and Consulting Core Experts in Retrieval-Augmented MoE-based LLMs](2024年10月20日/Unveiling_and_Consulting_Core_Experts_in_Retrieval-Augmented_MoE-based_LLMs.md)
-
-    - [翻译: 揭秘并咨询基于检索增强的 MoE 大型语言模型中的核心专家](2024年10月20日/Unveiling_and_Consulting_Core_Experts_in_Retrieval-Augmented_MoE-based_LLMs.md)
-
 2024年10月19日
 
 - [A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
@@ -484,10 +480,6 @@
 
     - [翻译: MCQG-SRefine：多选题生成与评估，结合迭代自我批评、修正与比较反馈](2024年10月16日/MCQG-SRefine_Multiple_Choice_Question_Generation_and_Evaluation_with_Iterative_Self-Critique,_Correction,_and_Comparison_Feedback.md)
 
-- [Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning](2024年10月16日/Not_All_Votes_Count!_Programs_as_Verifiers_Improve_Self-Consistency_of_Language_Models_for_Math_Reasoning.md)
-
-    - [翻译: 并非所有投票都有效！通过程序验证，语言模型在数学推理中的自我一致性得以提升。](2024年10月16日/Not_All_Votes_Count!_Programs_as_Verifiers_Improve_Self-Consistency_of_Language_Models_for_Math_Reasoning.md)
-
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
     - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
@@ -603,10 +595,6 @@
 - [Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
 
     - [翻译: 借助语言家族专家的混合策略，我们高效地将医学大型语言模型扩展至50种语言，实现真正的语言民主化。](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
-
-- [Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs](2024年10月14日/Graph_of_Records_Boosting_Retrieval_Augmented_Generation_for_Long-context_Summarization_with_Graphs.md)
-
-    - [翻译: 记录图：通过图增强检索生成，助力长上下文摘要的提升](2024年10月14日/Graph_of_Records_Boosting_Retrieval_Augmented_Generation_for_Long-context_Summarization_with_Graphs.md)
 
 - [Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
 
