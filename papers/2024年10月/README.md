@@ -30,10 +30,6 @@
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
-- [FACT: Examining the Effectiveness of Iterative Context Rewriting for Multi-fact Retrieval](2024年10月28日/FACT_Examining_the_Effectiveness_of_Iterative_Context_Rewriting_for_Multi-fact_Retrieval.md)
-
-    - [翻译: 事实：检验迭代上下文重写对多事实检索的有效性](2024年10月28日/FACT_Examining_the_Effectiveness_of_Iterative_Context_Rewriting_for_Multi-fact_Retrieval.md)
-
 - [Large Language Model-Guided Prediction Toward Quantum Materials Synthesis](2024年10月28日/Large_Language_Model-Guided_Prediction_Toward_Quantum_Materials_Synthesis.md)
 
     - [翻译: 大型语言模型引导的量子材料合成预测](2024年10月28日/Large_Language_Model-Guided_Prediction_Toward_Quantum_Materials_Synthesis.md)
@@ -296,10 +292,6 @@
 
     - [翻译: 基于动态反馈的强化学习奖励设计框架，由大型语言模型驱动](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
 
-- [Almost-Linear RNNs Yield Highly Interpretable Symbolic Codes in Dynamical Systems Reconstruction](2024年10月18日/Almost-Linear_RNNs_Yield_Highly_Interpretable_Symbolic_Codes_in_Dynamical_Systems_Reconstruction.md)
-
-    - [翻译: 在动力系统重建中，近乎线性的 RNN 产生了高度可解释的符号代码。](2024年10月18日/Almost-Linear_RNNs_Yield_Highly_Interpretable_Symbolic_Codes_in_Dynamical_Systems_Reconstruction.md)
-
 - [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
 
     - [翻译: AI检测器靠谱吗？一份关于机器生成文本数据集质量的调查报告](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
@@ -359,10 +351,6 @@
 - [Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
 
     - [翻译: 探索基于 LLM 的个性化多源会议摘要，揭示你需要了解的关键信息。](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
-
-- [The multimode conditional quantum Entropy Power Inequality and the squashed entanglement of the extreme multimode bosonic Gaussian channels](2024年10月18日/The_multimode_conditional_quantum_Entropy_Power_Inequality_and_the_squashed_entanglement_of_the_extreme_multimode_bosonic_Gaussian_channels.md)
-
-    - [翻译: 多模态条件量子熵幂不等式与极端多模态玻色子高斯通道的压缩纠缠](2024年10月18日/The_multimode_conditional_quantum_Entropy_Power_Inequality_and_the_squashed_entanglement_of_the_extreme_multimode_bosonic_Gaussian_channels.md)
 
 - [Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning](2024年10月18日/Towards_Robust_Knowledge_Representations_in_Multilingual_LLMs_for_Equivalence_and_Inheritance_based_Consistent_Reasoning.md)
 
