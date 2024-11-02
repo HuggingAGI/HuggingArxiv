@@ -34,10 +34,6 @@
 
     - [翻译: 大型语言模型引导的量子材料合成预测](2024年10月28日/Large_Language_Model-Guided_Prediction_Toward_Quantum_Materials_Synthesis.md)
 
-- [LiP-LLM: Integrating Linear Programming and dependency graph with Large Language Models for multi-robot task planning](2024年10月28日/LiP-LLM_Integrating_Linear_Programming_and_dependency_graph_with_Large_Language_Models_for_multi-robot_task_planning.md)
-
-    - [翻译: LiP-LLM：将线性规划和依赖图与大型语言模型集成用于多机器人任务规划](2024年10月28日/LiP-LLM_Integrating_Linear_Programming_and_dependency_graph_with_Large_Language_Models_for_multi-robot_task_planning.md)
-
 - [LLM-initialized Differentiable Causal Discovery](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
 
     - [翻译: LLM 初始化的可微因果发现](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
@@ -103,10 +99,6 @@
 - [Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
 
     - [翻译: 通过多功能 TTS 增强低资源 ASR：弥合数据差距](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
-
-- [Forewarned is Forearmed: Leveraging LLMs for Data Synthesis through Failure-Inducing Exploration](2024年10月22日/Forewarned_is_Forearmed_Leveraging_LLMs_for_Data_Synthesis_through_Failure-Inducing_Exploration.md)
-
-    - [翻译: 预先警告就是预先武装：通过引发失败的探索利用大型语言模型进行数据合成](2024年10月22日/Forewarned_is_Forearmed_Leveraging_LLMs_for_Data_Synthesis_through_Failure-Inducing_Exploration.md)
 
 - [Influential Language Data Selection via Gradient Trajectory Pursuit](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
