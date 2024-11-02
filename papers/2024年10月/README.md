@@ -496,10 +496,6 @@
 
     - [翻译: 利用 LLM 生成的标签，学习预测产品评论的使用场景](2024年10月16日/Learning_to_Predict_Usage_Options_of_Product_Reviews_with_LLM-Generated_Labels.md)
 
-- [Loss Landscape Characterization of Neural Networks without Over-Parametrization](2024年10月16日/Loss_Landscape_Characterization_of_Neural_Networks_without_Over-Parametrization.md)
-
-    - [翻译: 没有过度参数化的神经网络的损失景观特征](2024年10月16日/Loss_Landscape_Characterization_of_Neural_Networks_without_Over-Parametrization.md)
-
 - [MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
 
     - [翻译: MC-Bench：MLLM 时代下的多上下文视觉定位基准](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
@@ -636,10 +632,6 @@
 
     - [翻译: 记录图：通过图增强检索生成，助力长上下文摘要的提升](2024年10月14日/Graph_of_Records_Boosting_Retrieval_Augmented_Generation_for_Long-context_Summarization_with_Graphs.md)
 
-- [Is Parameter Collision Hindering Continual Learning in LLMs?](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
-
-    - [翻译: 参数碰撞是否成为 LLM 持续学习的绊脚石？](2024年10月14日/Is_Parameter_Collision_Hindering_Continual_Learning_in_LLMs.md)
-
 - [Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
 
     - [翻译: 大型语言模型加持的强化学习，助力通用公交保持控制策略](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
@@ -684,10 +676,6 @@
 
     - [翻译: FlatQuant：平坦性在 LLM 量化中举足轻重](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
-- [LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
-
-    - [翻译: 在大型语言模型中，如何巧妙地引出、筛选并整合知识，以提升常识推理能力，是我们探讨的核心。](2024年10月12日/LINKED_Eliciting,_Filtering_and_Integrating_Knowledge_in_Large_Language_Model_for_Commonsense_Reasoning.md)
-
 - [Reconstructive Visual Instruction Tuning](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
     - [翻译: 视觉指令的重构调整](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
@@ -713,10 +701,6 @@
 - [QEFT: Quantization for Efficient Fine-Tuning of LLMs](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
 
     - [翻译: QEFT：通过量化实现 LLM 的高效微调](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
-
-- [SocialGaze: Improving the Integration of Human Social Norms in Large Language Models](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
-
-    - [翻译: SocialGaze：提升大型语言模型中人类社会规范的融合](2024年10月11日/SocialGaze_Improving_the_Integration_of_Human_Social_Norms_in_Large_Language_Models.md)
 
 2024年10月09日
 
