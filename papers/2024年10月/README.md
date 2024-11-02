@@ -128,10 +128,6 @@
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
-- [Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Models Alignment](2024年10月22日/Magnetic_Preference_Optimization_Achieving_Last-iterate_Convergence_for_Language_Models_Alignment.md)
-
-    - [翻译: 磁性偏好优化：实现语言模型对齐的最后迭代收敛](2024年10月22日/Magnetic_Preference_Optimization_Achieving_Last-iterate_Convergence_for_Language_Models_Alignment.md)
-
 - [SmartGSN: a generative AI-powered online tool for the management of assurance cases](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
 
     - [翻译: SmartGSN：一种由生成式人工智能驱动的用于保证案例管理的在线工具](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
@@ -275,10 +271,6 @@
 - [A Survey of Hallucination in Large Visual Language Models](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
 
     - [翻译: 大型视觉语言模型中的幻觉现象调查](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
-
-- [Customized FinGPT Search Agents Using Foundation Models](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
-
-    - [翻译: 基于基础模型的定制化 FinGPT 搜索代理](2024年10月20日/Customized_FinGPT_Search_Agents_Using_Foundation_Models.md)
 
 - [Leveraging Retrieval-Augmented Generation for Culturally Inclusive Hakka Chatbots: Design Insights and User Perceptions](2024年10月20日/Leveraging_Retrieval-Augmented_Generation_for_Culturally_Inclusive_Hakka_Chatbots_Design_Insights_and_User_Perceptions.md)
 
@@ -509,10 +501,6 @@
 - [JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework](2024年10月17日/JAILJUDGE_A_Comprehensive_Jailbreak_Judge_Benchmark_with_Multi-Agent_Enhanced_Explanation_Evaluation_Framework.md)
 
     - [翻译: JAILJUDGE：一个综合的越狱判断基准，结合了多代理增强的解释评估框架，旨在全面评估越狱行为。](2024年10月17日/JAILJUDGE_A_Comprehensive_Jailbreak_Judge_Benchmark_with_Multi-Agent_Enhanced_Explanation_Evaluation_Framework.md)
-
-- [LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
-
-    - [翻译: LAR-ECHR：欧洲人权法院案件的新法律论证推理任务与数据集](2024年10月17日/LAR-ECHR_A_New_Legal_Argument_Reasoning_Task_and_Dataset_for_Cases_of_the_European_Court_of_Human_Rights.md)
 
 - [LLM-based Unit Test Generation via Property Retrieval](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
