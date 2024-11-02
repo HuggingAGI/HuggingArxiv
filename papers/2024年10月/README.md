@@ -72,10 +72,6 @@
 
     - [翻译: SafeBench：多模态大型语言模型的安全评估框架](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
 
-- [Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
-
-    - [翻译: 迈向更好的开放式文本生成：一个多标准评估框架](2024年10月24日/Towards_Better_Open-Ended_Text_Generation_A_Multicriteria_Evaluation_Framework.md)
-
 2024年10月23日
 
 - [Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language Models](2024年10月23日/Asynchronous_RLHF_Faster_and_More_Efficient_Off-Policy_RL_for_Language_Models.md)
@@ -173,10 +169,6 @@
 - [Improve Vision Language Model Chain-of-thought Reasoning](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
 
     - [翻译: 改进视觉语言模型的思维链推理](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
-
-- [Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers](2024年10月21日/Improving_Parallel_Program_Performance_Through_DSL-Driven_Code_Generation_with_LLM_Optimizers.md)
-
-    - [翻译: 通过带有 LLM 优化器的 DSL 驱动的代码生成来提高并行程序的性能](2024年10月21日/Improving_Parallel_Program_Performance_Through_DSL-Driven_Code_Generation_with_LLM_Optimizers.md)
 
 - [InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems](2024年10月21日/InternLM2.5-StepProver_Advancing_Automated_Theorem_Proving_via_Expert_Iteration_on_Large-Scale_LEAN_Problems.md)
 
@@ -360,10 +352,6 @@
 
     - [翻译: 提升加密货币市场预测：融合先进机器学习技术与工业工程智慧](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
 
-- [How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
-
-    - [翻译: 多语言模型如何记住事实？探索其背后的记忆机制](2024年10月18日/How_Do_Multilingual_Models_Remember_Investigating_Multilingual_Factual_Recall_Mechanisms.md)
-
 - [Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
 
     - [翻译: Nova：通过迭代规划与搜索，提升 LLM 生成创意的新颖性与多样性](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
@@ -490,10 +478,6 @@
 
     - [翻译: 证明流：形式推理中生成流网络语言模型调优的初步探索](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
 
-- [Quantity vs. Quality of Monolingual Source Data in Automatic Text Translation: Can It Be Too Little If It Is Too Good?](2024年10月17日/Quantity_vs._Quality_of_Monolingual_Source_Data_in_Automatic_Text_Translation_Can_It_Be_Too_Little_If_It_Is_Too_Good.md)
-
-    - [翻译: 在自动文本翻译中，单语源数据的数量与质量孰重孰轻？质量虽高，数量不足是否仍能胜任？](2024年10月17日/Quantity_vs._Quality_of_Monolingual_Source_Data_in_Automatic_Text_Translation_Can_It_Be_Too_Little_If_It_Is_Too_Good.md)
-
 - [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
     - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
@@ -535,10 +519,6 @@
 - [Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
 
     - [翻译: 提升 LLM 代理代码生成：可能性与通过率优先的经验回放策略](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
-
-- [Expanding Chatbot Knowledge in Customer Service: Context-Aware Similar Question Generation Using Large Language Models](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
-
-    - [翻译: 在客户服务中提升聊天机器人知识：利用大型语言模型生成上下文感知的相似问题](2024年10月16日/Expanding_Chatbot_Knowledge_in_Customer_Service_Context-Aware_Similar_Question_Generation_Using_Large_Language_Models.md)
 
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
