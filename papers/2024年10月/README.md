@@ -206,10 +206,6 @@
 
     - [翻译: 大型语言模型赋能拍卖中的个性化估值](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
 
-- [Long Term Memory: The Foundation of AI Self-Evolution](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
-
-    - [翻译: 长期记忆，乃 AI 自我进化的基石。](2024年10月21日/Long_Term_Memory_The_Foundation_of_AI_Self-Evolution.md)
-
 - [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
     - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
@@ -272,10 +268,6 @@
 
     - [翻译: 大型视觉语言模型中的幻觉现象调查](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
 
-- [Leveraging Retrieval-Augmented Generation for Culturally Inclusive Hakka Chatbots: Design Insights and User Perceptions](2024年10月20日/Leveraging_Retrieval-Augmented_Generation_for_Culturally_Inclusive_Hakka_Chatbots_Design_Insights_and_User_Perceptions.md)
-
-    - [翻译: 借助检索增强生成技术，打造文化包容的客家聊天机器人：设计心得与用户反馈](2024年10月20日/Leveraging_Retrieval-Augmented_Generation_for_Culturally_Inclusive_Hakka_Chatbots_Design_Insights_and_User_Perceptions.md)
-
 - [LlamaLens: Specialized Multilingual LLM for Analyzing News and Social Media Content](2024年10月20日/LlamaLens_Specialized_Multilingual_LLM_for_Analyzing_News_and_Social_Media_Content.md)
 
     - [翻译: LlamaLens：一款专为分析新闻与社交媒体内容而设计的多语言大型语言模型](2024年10月20日/LlamaLens_Specialized_Multilingual_LLM_for_Analyzing_News_and_Social_Media_Content.md)
@@ -309,10 +301,6 @@
 - [AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
     - [翻译: AutoFPDesigner：利用多智能体大型语言模型实现飞行程序的自动化设计](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
-
-- [Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison](2024年10月19日/Can_LVLMs_Describe_Videos_like_Humans_A_Five-in-One_Video_Annotations_Benchmark_for_Better_Human-Machine_Comparison.md)
-
-    - [翻译: LVLMs 能否像人类一样描述视频？我们推出一个五合一的视频注释基准，旨在提升人机比较的准确性。](2024年10月19日/Can_LVLMs_Describe_Videos_like_Humans_A_Five-in-One_Video_Annotations_Benchmark_for_Better_Human-Machine_Comparison.md)
 
 - [Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
 
@@ -481,10 +469,6 @@
 - [Generating Signed Language Instructions in Large-Scale Dialogue Systems](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
 
     - [翻译: 大规模对话系统中的手语指令生成](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
-
-- [Goal Inference from Open-Ended Dialog](2024年10月17日/Goal_Inference_from_Open-Ended_Dialog.md)
-
-    - [翻译: 从开放对话中洞察目标](2024年10月17日/Goal_Inference_from_Open-Ended_Dialog.md)
 
 - [HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings](2024年10月17日/HEALTH-PARIKSHA_Assessing_RAG_Models_for_Health_Chatbots_in_Real-World_Multilingual_Settings.md)
 
