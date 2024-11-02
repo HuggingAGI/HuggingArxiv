@@ -150,10 +150,6 @@
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
-- [Developing Retrieval Augmented Generation (RAG) based LLM Systems from PDFs: An Experience Report](2024年10月21日/Developing_Retrieval_Augmented_Generation_(RAG)_based_LLM_Systems_from_PDFs_An_Experience_Report.md)
-
-    - [翻译: 从PDF构建基于RAG的LLM系统：实践经验分享](2024年10月21日/Developing_Retrieval_Augmented_Generation_(RAG)_based_LLM_Systems_from_PDFs_An_Experience_Report.md)
-
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
     - [翻译: 利用蕴含调优提升密集段落检索效果](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
@@ -173,10 +169,6 @@
 - [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
     - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
-
-- [MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
-
-    - [翻译: MvDrag3D：通过多视图生成-重建先验进行基于拖动的创意 3D 编辑](2024年10月21日/MvDrag3D_Drag-based_Creative_3D_Editing_via_Multi-view_Generation-Reconstruction_Priors.md)
 
 - [NetSafe: Exploring the Topological Safety of Multi-agent Networks](2024年10月21日/NetSafe_Exploring_the_Topological_Safety_of_Multi-agent_Networks.md)
 
@@ -422,10 +414,6 @@
 
     - [翻译: 借助摘要引导解码技术，有效缓解大型视觉语言模型中的幻觉问题。](2024年10月17日/Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Summary-Guided_Decoding.md)
 
-- [Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions](2024年10月17日/Modeling_Future_Conversation_Turns_to_Teach_LLMs_to_Ask_Clarifying_Questions.md)
-
-    - [翻译: 通过模拟未来对话轮次，教导大型语言模型如何提出澄清问题。](2024年10月17日/Modeling_Future_Conversation_Turns_to_Teach_LLMs_to_Ask_Clarifying_Questions.md)
-
 - [MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
@@ -543,10 +531,6 @@
 - [Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
 
     - [翻译: 利用动态转向向量实现 LLM 的语义自适应激活干预](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
-
-- [Towards Zero-Shot Camera Trap Image Categorization](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
-
-    - [翻译: 迈向零-shot 相机陷阱图像分类](2024年10月16日/Towards_Zero-Shot_Camera_Trap_Image_Categorization.md)
 
 - [Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning](2024年10月16日/Weak-to-Strong_Generalization_beyond_Accuracy_a_Pilot_Study_in_Safety,_Toxicity,_and_Legal_Reasoning.md)
 
