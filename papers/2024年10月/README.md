@@ -312,10 +312,6 @@
 
     - [翻译: 长上下文 LLM 中，相关信息片段的距离会导致偏差。](2024年10月18日/Distance_between_Relevant_Information_Pieces_Causes_Bias_in_Long-Context_LLMs.md)
 
-- [Dynamic Negative Guidance of Diffusion Models](2024年10月18日/Dynamic_Negative_Guidance_of_Diffusion_Models.md)
-
-    - [翻译: 扩散模型的动态负面引导](2024年10月18日/Dynamic_Negative_Guidance_of_Diffusion_Models.md)
-
 - [E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
     - [翻译: E3D-GPT：为医疗视觉-语言模型打造的增强版 3D 视觉基础](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
@@ -369,10 +365,6 @@
 - [AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
-
-- [CLaMP 2: Multimodal Music Information Retrieval Across 101 Languages Using Large Language Models](2024年10月17日/CLaMP_2_Multimodal_Music_Information_Retrieval_Across_101_Languages_Using_Large_Language_Models.md)
-
-    - [翻译: CLaMP 2：借助大型语言模型，跨越 101 种语言的多模态音乐信息检索](2024年10月17日/CLaMP_2_Multimodal_Music_Information_Retrieval_Across_101_Languages_Using_Large_Language_Models.md)
 
 - [CLEAR: Towards Contextual LLM-Empowered Privacy Policy Analysis and Risk Generation for Large Language Model Applications](2024年10月17日/CLEAR_Towards_Contextual_LLM-Empowered_Privacy_Policy_Analysis_and_Risk_Generation_for_Large_Language_Model_Applications.md)
 
@@ -461,10 +453,6 @@
 - [Retrospective Learning from Interactions](2024年10月17日/Retrospective_Learning_from_Interactions.md)
 
     - [翻译: 从过往互动中汲取经验](2024年10月17日/Retrospective_Learning_from_Interactions.md)
-
-- [Roadmap towards Superhuman Speech Understanding using Large Language Models](2024年10月17日/Roadmap_towards_Superhuman_Speech_Understanding_using_Large_Language_Models.md)
-
-    - [翻译: 迈向超人类语音理解：大型语言模型的路线图](2024年10月17日/Roadmap_towards_Superhuman_Speech_Understanding_using_Large_Language_Models.md)
 
 - [Scaling Wearable Foundation Models](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
 
@@ -675,10 +663,6 @@
 - [Model-Based Differentially Private Knowledge Transfer for Large Language Models](2024年10月14日/Model-Based_Differentially_Private_Knowledge_Transfer_for_Large_Language_Models.md)
 
     - [翻译: 基于模型的差分隐私技术助力大型语言模型的知识迁移](2024年10月14日/Model-Based_Differentially_Private_Knowledge_Transfer_for_Large_Language_Models.md)
-
-- [MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
-
-    - [翻译: MoTE：在视觉-语言到视频知识转移中，平衡泛化与专业化](2024年10月14日/MoTE_Reconciling_Generalization_with_Specialization_for_Visual-Language_to_Video_Knowledge_Transfer.md)
 
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
