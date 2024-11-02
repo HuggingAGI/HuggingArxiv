@@ -254,10 +254,6 @@
 
     - [翻译: 从粗到细的突出显示：减少大型语言模型中的知识幻觉](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
 
-- [Evaluating Deep Unlearning in Large Language Models](2024年10月19日/Evaluating_Deep_Unlearning_in_Large_Language_Models.md)
-
-    - [翻译: 探究大型语言模型中的深度遗忘现象](2024年10月19日/Evaluating_Deep_Unlearning_in_Large_Language_Models.md)
-
 - [HyQE: Ranking Contexts with Hypothetical Query Embeddings](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
 
     - [翻译: HyQE：通过假设查询嵌入来排序上下文](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
@@ -366,10 +362,6 @@
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
-- [CLEAR: Towards Contextual LLM-Empowered Privacy Policy Analysis and Risk Generation for Large Language Model Applications](2024年10月17日/CLEAR_Towards_Contextual_LLM-Empowered_Privacy_Policy_Analysis_and_Risk_Generation_for_Large_Language_Model_Applications.md)
-
-    - [翻译: CLEAR：借助上下文 LLM 赋能，助力隐私政策分析与大型语言模型应用的风险生成](2024年10月17日/CLEAR_Towards_Contextual_LLM-Empowered_Privacy_Policy_Analysis_and_Risk_Generation_for_Large_Language_Model_Applications.md)
-
 - [Comparing the Utility, Preference, and Performance of Course Material Search Functionality and Retrieval-Augmented Generation Large Language Model (RAG-LLM) AI Chatbots in Information-Seeking Tasks](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
 
     - [翻译: 在信息搜索任务中，课程材料搜索功能与 RAG-LLM AI 聊天机器人的效用、偏好和性能比较](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
@@ -441,10 +433,6 @@
 - [Persistent Pre-Training Poisoning of LLMs](2024年10月17日/Persistent_Pre-Training_Poisoning_of_LLMs.md)
 
     - [翻译: LLM 面临持续的预训练中毒威胁](2024年10月17日/Persistent_Pre-Training_Poisoning_of_LLMs.md)
-
-- [Proof Flow: Preliminary Study on Generative Flow Network Language Model Tuning for Formal Reasoning](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
-
-    - [翻译: 证明流：形式推理中生成流网络语言模型调优的初步探索](2024年10月17日/Proof_Flow_Preliminary_Study_on_Generative_Flow_Network_Language_Model_Tuning_for_Formal_Reasoning.md)
 
 - [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
@@ -675,10 +663,6 @@
 - [Thinking LLMs: General Instruction Following with Thought Generation](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
 
     - [翻译: 思考型 LLM：通过思维生成实现通用指令跟随](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
-
-- [TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs](2024年10月14日/TMGBench_A_Systematic_Game_Benchmark_for_Evaluating_Strategic_Reasoning_Abilities_of_LLMs.md)
-
-    - [翻译: TMGBench：一款系统性游戏基准，专为评估 LLMs 的战略推理能力而设计](2024年10月14日/TMGBench_A_Systematic_Game_Benchmark_for_Evaluating_Strategic_Reasoning_Abilities_of_LLMs.md)
 
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
