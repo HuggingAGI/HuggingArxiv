@@ -86,10 +86,6 @@
 
     - [翻译: Blendify -- 用于 Blender 的 Python 渲染框架](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
 
-- [DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](2024年10月23日/DynamicCity_Large-Scale_LiDAR_Generation_from_Dynamic_Scenes.md)
-
-    - [翻译: DynamicCity：来自动态场景的大规模激光雷达生成](2024年10月23日/DynamicCity_Large-Scale_LiDAR_Generation_from_Dynamic_Scenes.md)
-
 - [EON: A practical energy-preserving rough diffuse BRDF](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
 
     - [翻译: EON：一种实用的能量守恒的粗糙漫反射双向反射分布函数](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
@@ -166,10 +162,6 @@
 
     - [翻译: CartesianMoE：通过专家混合模型中的笛卡尔积路由，增强专家间的知识共享](2024年10月21日/CartesianMoE_Boosting_Knowledge_Sharing_among_Experts_via_Cartesian_Product_Routing_in_Mixture-of-Experts.md)
 
-- [Contamination Report for Multilingual Benchmarks](2024年10月21日/Contamination_Report_for_Multilingual_Benchmarks.md)
-
-    - [翻译: 多语言基准污染报告](2024年10月21日/Contamination_Report_for_Multilingual_Benchmarks.md)
-
 - [Deep Learning and Data Augmentation for Detecting Self-Admitted Technical Debt](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
@@ -177,10 +169,6 @@
 - [Developing Retrieval Augmented Generation (RAG) based LLM Systems from PDFs: An Experience Report](2024年10月21日/Developing_Retrieval_Augmented_Generation_(RAG)_based_LLM_Systems_from_PDFs_An_Experience_Report.md)
 
     - [翻译: 从PDF构建基于RAG的LLM系统：实践经验分享](2024年10月21日/Developing_Retrieval_Augmented_Generation_(RAG)_based_LLM_Systems_from_PDFs_An_Experience_Report.md)
-
-- [Do LLMs write like humans? Variation in grammatical and rhetorical styles](2024年10月21日/Do_LLMs_write_like_humans_Variation_in_grammatical_and_rhetorical_styles.md)
-
-    - [翻译: 大型语言模型写作是否接近人类？探讨其语法和修辞风格的变化。](2024年10月21日/Do_LLMs_write_like_humans_Variation_in_grammatical_and_rhetorical_styles.md)
 
 - [Improve Dense Passage Retrieval with Entailment Tuning](2024年10月21日/Improve_Dense_Passage_Retrieval_with_Entailment_Tuning.md)
 
