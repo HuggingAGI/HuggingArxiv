@@ -158,10 +158,6 @@
 
     - [翻译: 打造编码助手：基于检索增强的语言模型](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
 
-- [CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts](2024年10月21日/CartesianMoE_Boosting_Knowledge_Sharing_among_Experts_via_Cartesian_Product_Routing_in_Mixture-of-Experts.md)
-
-    - [翻译: CartesianMoE：通过专家混合模型中的笛卡尔积路由，增强专家间的知识共享](2024年10月21日/CartesianMoE_Boosting_Knowledge_Sharing_among_Experts_via_Cartesian_Product_Routing_in_Mixture-of-Experts.md)
-
 - [Deep Learning and Data Augmentation for Detecting Self-Admitted Technical Debt](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
@@ -237,10 +233,6 @@
 - [Who's Who: Large Language Models Meet Knowledge Conflicts in Practice](2024年10月21日/Who's_Who_Large_Language_Models_Meet_Knowledge_Conflicts_in_Practice.md)
 
     - [翻译: 大型语言模型在实践中遭遇的知识冲突：谁是谁？](2024年10月21日/Who's_Who_Large_Language_Models_Meet_Knowledge_Conflicts_in_Practice.md)
-
-- [Zero-Shot Scene Reconstruction from Single Images with Deep Prior Assembly](2024年10月21日/Zero-Shot_Scene_Reconstruction_from_Single_Images_with_Deep_Prior_Assembly.md)
-
-    - [翻译: 单图零-shot场景重建，借助深度先验的巧妙组合](2024年10月21日/Zero-Shot_Scene_Reconstruction_from_Single_Images_with_Deep_Prior_Assembly.md)
 
 2024年10月20日
 
@@ -595,10 +587,6 @@
 - [MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback](2024年10月16日/MCQG-SRefine_Multiple_Choice_Question_Generation_and_Evaluation_with_Iterative_Self-Critique,_Correction,_and_Comparison_Feedback.md)
 
     - [翻译: MCQG-SRefine：多选题生成与评估，结合迭代自我批评、修正与比较反馈](2024年10月16日/MCQG-SRefine_Multiple_Choice_Question_Generation_and_Evaluation_with_Iterative_Self-Critique,_Correction,_and_Comparison_Feedback.md)
-
-- [Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception](2024年10月16日/Meta-Chunking_Learning_Efficient_Text_Segmentation_via_Logical_Perception.md)
-
-    - [翻译: 元块化：借助逻辑感知实现高效文本分割的学习方法](2024年10月16日/Meta-Chunking_Learning_Efficient_Text_Segmentation_via_Logical_Perception.md)
 
 - [Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning](2024年10月16日/Not_All_Votes_Count!_Programs_as_Verifiers_Improve_Self-Consistency_of_Language_Models_for_Math_Reasoning.md)
 
