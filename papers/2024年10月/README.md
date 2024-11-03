@@ -86,10 +86,6 @@
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
-- [SmartGSN: a generative AI-powered online tool for the management of assurance cases](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
-
-    - [翻译: SmartGSN：一种由生成式人工智能驱动的用于保证案例管理的在线工具](2024年10月22日/SmartGSN_a_generative_AI-powered_online_tool_for_the_management_of_assurance_cases.md)
-
 - [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
 
     - [翻译: xLSTM-Mixer：通过标量记忆混合进行多元时间序列预测](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
@@ -155,10 +151,6 @@
 - [Using GPT Models for Qualitative and Quantitative News Analytics in the 2024 US Presidental Election Process](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
 
     - [翻译: 利用 GPT 模型，深入分析 2024 年美国大选中的新闻内容，既量化数据，又捕捉深层含义。](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
-
-- [Who's Who: Large Language Models Meet Knowledge Conflicts in Practice](2024年10月21日/Who's_Who_Large_Language_Models_Meet_Knowledge_Conflicts_in_Practice.md)
-
-    - [翻译: 大型语言模型在实践中遭遇的知识冲突：谁是谁？](2024年10月21日/Who's_Who_Large_Language_Models_Meet_Knowledge_Conflicts_in_Practice.md)
 
 2024年10月20日
 
@@ -287,10 +279,6 @@
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
-
-- [Generating Signed Language Instructions in Large-Scale Dialogue Systems](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
-
-    - [翻译: 大规模对话系统中的手语指令生成](2024年10月17日/Generating_Signed_Language_Instructions_in_Large-Scale_Dialogue_Systems.md)
 
 - [Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
 
