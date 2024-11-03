@@ -52,10 +52,6 @@
 
     - [翻译: LLM 初始化的可微因果发现](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
 
-- [LongReward: Improving Long-context Large Language Models with AI Feedback](2024年10月28日/LongReward_Improving_Long-context_Large_Language_Models_with_AI_Feedback.md)
-
-    - [翻译: LongReward：利用人工智能反馈改进长上下文大型语言模型](2024年10月28日/LongReward_Improving_Long-context_Large_Language_Models_with_AI_Feedback.md)
-
 - [LoRA vs Full Fine-tuning: An Illusion of Equivalence](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
 
     - [翻译: LoRA 与全微调：等效的错觉](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
@@ -242,10 +238,6 @@
 
     - [翻译: 开放学生学习环境中的双融合认知诊断框架](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
 
-- [AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
-
-    - [翻译: AutoFLUKA：基于大型语言模型，专为 FLUKA 中的蒙特卡罗模拟自动化而设计](2024年10月19日/AutoFLUKA_A_Large_Language_Model_Based_Framework_for_Automating_Monte_Carlo_Simulations_in_FLUKA.md)
-
 - [AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
     - [翻译: AutoFPDesigner：利用多智能体大型语言模型实现飞行程序的自动化设计](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
@@ -257,10 +249,6 @@
 - [HyQE: Ranking Contexts with Hypothetical Query Embeddings](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
 
     - [翻译: HyQE：通过假设查询嵌入来排序上下文](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
-
-- [LLaVA-Ultra: Large Chinese Language and Vision Assistant for Ultrasound](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
-
-    - [翻译: LLaVA-Ultra：专为超声波设计的大型中文语言与视觉助手](2024年10月19日/LLaVA-Ultra_Large_Chinese_Language_and_Vision_Assistant_for_Ultrasound.md)
 
 - [Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
 
@@ -507,10 +495,6 @@
 - [PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking](2024年10月16日/PRefLexOR_Preference-based_Recursive_Language_Modeling_for_Exploratory_Optimization_of_Reasoning_and_Agentic_Thinking.md)
 
     - [翻译: PRefLexOR：基于偏好的递归语言建模，旨在探索性优化推理与代理思维](2024年10月16日/PRefLexOR_Preference-based_Recursive_Language_Modeling_for_Exploratory_Optimization_of_Reasoning_and_Agentic_Thinking.md)
-
-- [Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance](2024年10月16日/Proactive_Agent_Shifting_LLM_Agents_from_Reactive_Responses_to_Active_Assistance.md)
-
-    - [翻译: 主动代理：让 LLM 代理从被动响应转变为主动协助](2024年10月16日/Proactive_Agent_Shifting_LLM_Agents_from_Reactive_Responses_to_Active_Assistance.md)
 
 - [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
