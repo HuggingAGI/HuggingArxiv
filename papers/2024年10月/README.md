@@ -92,10 +92,6 @@
 
     - [翻译: 大型语言模型能作为多 GNN 的集成器吗？](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
 
-- [ClimaQA: An Automated Evaluation Framework for Climate Foundation Models](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
-
-    - [翻译: ClimaQA：气候基础模型的一个自动评估框架](2024年10月22日/ClimaQA_An_Automated_Evaluation_Framework_for_Climate_Foundation_Models.md)
-
 - [Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
 
     - [翻译: 通过多功能 TTS 增强低资源 ASR：弥合数据差距](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
@@ -248,10 +244,6 @@
 
     - [翻译: 让调试更智能，而非更费力：AI 代理助力计算笔记本错误解决](2024年10月18日/Debug_Smarter,_Not_Harder_AI_Agents_for_Error_Resolution_in_Computational_Notebooks.md)
 
-- [Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs](2024年10月18日/Distance_between_Relevant_Information_Pieces_Causes_Bias_in_Long-Context_LLMs.md)
-
-    - [翻译: 长上下文 LLM 中，相关信息片段的距离会导致偏差。](2024年10月18日/Distance_between_Relevant_Information_Pieces_Causes_Bias_in_Long-Context_LLMs.md)
-
 - [E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
     - [翻译: E3D-GPT：为医疗视觉-语言模型打造的增强版 3D 视觉基础](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
@@ -365,10 +357,6 @@
 - [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
     - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
-
-- [Retrospective Learning from Interactions](2024年10月17日/Retrospective_Learning_from_Interactions.md)
-
-    - [翻译: 从过往互动中汲取经验](2024年10月17日/Retrospective_Learning_from_Interactions.md)
 
 - [Scaling Wearable Foundation Models](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
 
@@ -557,10 +545,6 @@
     - [翻译: 视觉指令的重构调整](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
 2024年10月11日
-
-- [A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
-
-    - [翻译: RAG 系统评估方法论：配置依赖验证案例研究](2024年10月11日/A_Methodology_for_Evaluating_RAG_Systems_A_Case_Study_On_Configuration_Dependency_Validation.md)
 
 - [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
 
