@@ -20,12 +20,6 @@
 
     - [翻译: 通过尝试来接地：具有强化学习增强检索功能的大型语言模型](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
 
-2024年10月29日
-
-- [Flow Matching for Posterior Inference with Simulator Feedback](2024年10月29日/Flow_Matching_for_Posterior_Inference_with_Simulator_Feedback.md)
-
-    - [翻译: 具有模拟器反馈的后验推理的流匹配](2024年10月29日/Flow_Matching_for_Posterior_Inference_with_Simulator_Feedback.md)
-
 2024年10月28日
 
 - [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
@@ -51,10 +45,6 @@
 - [LoRA vs Full Fine-tuning: An Illusion of Equivalence](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
 
     - [翻译: LoRA 与全微调：等效的错觉](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
-
-- [M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation](2024年10月28日/M2rc-Eval_Massively_Multilingual_Repository-level_Code_Completion_Evaluation.md)
-
-    - [翻译: M2rc-Eval：大规模多语言存储库级代码完成评估](2024年10月28日/M2rc-Eval_Massively_Multilingual_Repository-level_Code_Completion_Evaluation.md)
 
 2024年10月25日
 
@@ -420,15 +410,7 @@
 
     - [翻译: 通过模态对齐，重新探索大型语言模型在时间序列分析中的应用。](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
 
-- [Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
-
-    - [翻译: 利用动态转向向量实现 LLM 的语义自适应激活干预](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
-
 2024年10月15日
-
-- [Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
-
-    - [翻译: 增强驱动度量：平衡文本引导图像编辑中的保留与修改](2024年10月15日/Augmentation-Driven_Metric_for_Balancing_Preservation_and_Modification_in_Text-Guided_Image_Editing.md)
 
 - [Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
 
