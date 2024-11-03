@@ -44,10 +44,6 @@
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
-- [Large Language Model-Guided Prediction Toward Quantum Materials Synthesis](2024年10月28日/Large_Language_Model-Guided_Prediction_Toward_Quantum_Materials_Synthesis.md)
-
-    - [翻译: 大型语言模型引导的量子材料合成预测](2024年10月28日/Large_Language_Model-Guided_Prediction_Toward_Quantum_Materials_Synthesis.md)
-
 - [LLM-initialized Differentiable Causal Discovery](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
 
     - [翻译: LLM 初始化的可微因果发现](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
@@ -374,10 +370,6 @@
 
     - [翻译: MedAide：借助基于 LLM 的专门化多代理协作，迈向全方位医疗助手](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
 
-- [MeloTrans: A Text to Symbolic Music Generation Model Following Human Composition Habit](2024年10月17日/MeloTrans_A_Text_to_Symbolic_Music_Generation_Model_Following_Human_Composition_Habit.md)
-
-    - [翻译: MeloTrans：一款模仿人类作曲习惯的文本转符号音乐生成模型](2024年10月17日/MeloTrans_A_Text_to_Symbolic_Music_Generation_Model_Following_Human_Composition_Habit.md)
-
 - [Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
 
     - [翻译: 元认知监控：超越生成式AI的人类独特能力](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
@@ -635,7 +627,3 @@
 - [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](2024年10月03日/A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_(RAG)_Evolution,_Current_Landscape_and_Future_Directions.md)
 
     - [翻译: 全面探索检索增强生成 (RAG)：从演变到现状，再到未来展望](2024年10月03日/A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_(RAG)_Evolution,_Current_Landscape_and_Future_Directions.md)
-
-- [Selective Attention Improves Transformer](2024年10月03日/Selective_Attention_Improves_Transformer.md)
-
-    - [翻译: 选择性注意力让 Transformer 更上一层楼](2024年10月03日/Selective_Attention_Improves_Transformer.md)
