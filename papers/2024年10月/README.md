@@ -96,10 +96,6 @@
 
 2024年10月22日
 
-- [Beyond Retrieval: Generating Narratives in Conversational Recommender Systems](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
-
-    - [翻译: 超越检索：在会话推荐系统中生成叙述](2024年10月22日/Beyond_Retrieval_Generating_Narratives_in_Conversational_Recommender_Systems.md)
-
 - [Can Large Language Models Act as Ensembler for Multi-GNNs?](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
 
     - [翻译: 大型语言模型能作为多 GNN 的集成器吗？](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
@@ -325,10 +321,6 @@
     - [翻译: 揭秘大型语言模型生成的文本：多层次细粒度检测框架](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
 
 2024年10月17日
-
-- [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
-
-    - [翻译: 探究 OpenAI o1 模型推理模式的对比研究](2024年10月17日/A_Comparative_Study_on_Reasoning_Patterns_of_OpenAI's_o1_Model.md)
 
 - [An Active Learning Framework for Inclusive Generation by Large Language Models](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
 
@@ -643,10 +635,6 @@
 - [SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs](2024年10月12日/SLiM_One-shot_Quantized_Sparse_Plus_Low-rank_Approximation_of_LLMs.md)
 
     - [翻译: SLiM：一次量化稀疏加低秩近似 LLM](2024年10月12日/SLiM_One-shot_Quantized_Sparse_Plus_Low-rank_Approximation_of_LLMs.md)
-
-- [Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
-
-    - [翻译: 探索 Q-Former 在视觉推理任务中视觉与语言对齐的高效路径](2024年10月12日/Towards_Efficient_Visual-Language_Alignment_of_the_Q-Former_for_Visual_Reasoning_Tasks.md)
 
 2024年10月11日
 
