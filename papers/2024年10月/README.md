@@ -244,10 +244,6 @@
 
 2024年10月18日
 
-- [A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
-
-    - [翻译: 基于动态反馈的强化学习奖励设计框架，由大型语言模型驱动](2024年10月18日/A_Large_Language_Model-Driven_Reward_Design_Framework_via_Dynamic_Feedback_for_Reinforcement_Learning.md)
-
 - [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
 
     - [翻译: AI检测器靠谱吗？一份关于机器生成文本数据集质量的调查报告](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
@@ -435,14 +431,6 @@
 - [Is Semantic Chunking Worth the Computational Cost?](2024年10月16日/Is_Semantic_Chunking_Worth_the_Computational_Cost.md)
 
     - [翻译: 语义分块的计算成本是否物有所值？](2024年10月16日/Is_Semantic_Chunking_Worth_the_Computational_Cost.md)
-
-- [KcMF: A Knowledge-compliant Framework for Schema and Entity Matching with Fine-tuning-free LLMs](2024年10月16日/KcMF_A_Knowledge-compliant_Framework_for_Schema_and_Entity_Matching_with_Fine-tuning-free_LLMs.md)
-
-    - [翻译: KcMF：一个无需微调的大型语言模型框架，专为模式和实体匹配设计，确保知识合规性。](2024年10月16日/KcMF_A_Knowledge-compliant_Framework_for_Schema_and_Entity_Matching_with_Fine-tuning-free_LLMs.md)
-
-- [Learning to Predict Usage Options of Product Reviews with LLM-Generated Labels](2024年10月16日/Learning_to_Predict_Usage_Options_of_Product_Reviews_with_LLM-Generated_Labels.md)
-
-    - [翻译: 利用 LLM 生成的标签，学习预测产品评论的使用场景](2024年10月16日/Learning_to_Predict_Usage_Options_of_Product_Reviews_with_LLM-Generated_Labels.md)
 
 - [MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
 
