@@ -30,10 +30,6 @@
 
     - [翻译: 对机器的信任：调查语言模型的认识论盲点](2024年10月28日/Belief_in_the_Machine_Investigating_Epistemological_Blind_Spots_of_Language_Models.md)
 
-- [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](2024年10月28日/Beyond_Autoregression_Fast_LLMs_via_Self-Distillation_Through_Time.md)
-
-    - [翻译: 超越自回归：通过时间上的自蒸馏实现快速的大型语言模型](2024年10月28日/Beyond_Autoregression_Fast_LLMs_via_Self-Distillation_Through_Time.md)
-
 - [CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
@@ -148,10 +144,6 @@
 
     - [翻译: 金融领域中生成式人工智能的机遇与挑战](2024年10月21日/Opportunities_and_Challenges_of_Generative-AI_in_Finance.md)
 
-- [Residual vector quantization for KV cache compression in large language model](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
-
-    - [翻译: 大型语言模型中的 KV 缓存压缩，借助残差向量量化技术实现。](2024年10月21日/Residual_vector_quantization_for_KV_cache_compression_in_large_language_model.md)
-
 - [Revealing and Mitigating the Local Pattern Shortcuts of Mamba](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
     - [翻译: 揭秘并缓解 Mamba 的局部模式捷径](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
@@ -173,10 +165,6 @@
 - [A Comprehensive Survey of Datasets, Theories, Variants, and Applications in Direct Preference Optimization](2024年10月20日/A_Comprehensive_Survey_of_Datasets,_Theories,_Variants,_and_Applications_in_Direct_Preference_Optimization.md)
 
     - [翻译: 全面探讨直接偏好优化中的数据集、理论、变体及应用](2024年10月20日/A_Comprehensive_Survey_of_Datasets,_Theories,_Variants,_and_Applications_in_Direct_Preference_Optimization.md)
-
-- [A Survey of Hallucination in Large Visual Language Models](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
-
-    - [翻译: 大型视觉语言模型中的幻觉现象调查](2024年10月20日/A_Survey_of_Hallucination_in_Large_Visual_Language_Models.md)
 
 - [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
 
@@ -366,10 +354,6 @@
 
     - [翻译: DocLayout-YOLO：利用多样化合成数据和全局到局部的自适应感知，提升文档布局分析能力](2024年10月16日/DocLayout-YOLO_Enhancing_Document_Layout_Analysis_through_Diverse_Synthetic_Data_and_Global-to-Local_Adaptive_Perception.md)
 
-- [Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models](2024年10月16日/Efficient_and_Effective_Universal_Adversarial_Attack_against_Vision-Language_Pre-training_Models.md)
-
-    - [翻译: 针对视觉-语言预训练模型，我们提出了一种既高效又有效的通用对抗攻击方法。](2024年10月16日/Efficient_and_Effective_Universal_Adversarial_Attack_against_Vision-Language_Pre-training_Models.md)
-
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
@@ -497,12 +481,6 @@
 - [Will LLMs Replace the Encoder-Only Models in Temporal Relation Classification?](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
     - [翻译: 大型语言模型（LLMs）是否将取代仅编码器模型，成为时间关系分类的新宠？](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
-
-2024年10月13日
-
-- [How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
-
-    - [翻译: 如何在大语言模型对齐中巧妙利用演示数据？让我们从自我模仿学习的角度一探究竟。](2024年10月13日/How_to_Leverage_Demonstration_Data_in_Alignment_for_Large_Language_Model_A_Self-Imitation_Learning_Perspective.md)
 
 2024年10月12日
 
