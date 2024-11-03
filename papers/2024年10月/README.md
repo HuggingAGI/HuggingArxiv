@@ -324,10 +324,6 @@
 
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
-- [Persistent Pre-Training Poisoning of LLMs](2024年10月17日/Persistent_Pre-Training_Poisoning_of_LLMs.md)
-
-    - [翻译: LLM 面临持续的预训练中毒威胁](2024年10月17日/Persistent_Pre-Training_Poisoning_of_LLMs.md)
-
 - [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
     - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
