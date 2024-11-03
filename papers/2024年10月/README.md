@@ -134,10 +134,6 @@
 
     - [翻译: 不仅仅是过滤：自适应图像与文本质量提升，助力多模态语言模型预训练](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
 
-- [Building A Coding Assistant via the Retrieval-Augmented Language Model](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
-
-    - [翻译: 打造编码助手：基于检索增强的语言模型](2024年10月21日/Building_A_Coding_Assistant_via_the_Retrieval-Augmented_Language_Model.md)
-
 - [Deep Learning and Data Augmentation for Detecting Self-Admitted Technical Debt](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
@@ -213,10 +209,6 @@
 - [AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
     - [翻译: AutoFPDesigner：利用多智能体大型语言模型实现飞行程序的自动化设计](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
-
-- [Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
-
-    - [翻译: 从粗到细的突出显示：减少大型语言模型中的知识幻觉](2024年10月19日/Coarse-to-Fine_Highlighting_Reducing_Knowledge_Hallucination_in_Large_Language_Models.md)
 
 - [HyQE: Ranking Contexts with Hypothetical Query Embeddings](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
 
@@ -589,9 +581,3 @@
 - [SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
 
     - [翻译: SouLLMate：一款自适应的 LLM 驱动系统，专为高级心理健康支持和评估设计，基于系统的应用调查。](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
-
-2024年10月03日
-
-- [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](2024年10月03日/A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_(RAG)_Evolution,_Current_Landscape_and_Future_Directions.md)
-
-    - [翻译: 全面探索检索增强生成 (RAG)：从演变到现状，再到未来展望](2024年10月03日/A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_(RAG)_Evolution,_Current_Landscape_and_Future_Directions.md)
