@@ -74,10 +74,6 @@
 
 2024年10月23日
 
-- [Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language Models](2024年10月23日/Asynchronous_RLHF_Faster_and_More_Efficient_Off-Policy_RL_for_Language_Models.md)
-
-    - [翻译: 异步 RLHF：用于语言模型的更快且更高效的离线策略强化学习](2024年10月23日/Asynchronous_RLHF_Faster_and_More_Efficient_Off-Policy_RL_for_Language_Models.md)
-
 - [Blendify -- Python rendering framework for Blender](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
 
     - [翻译: Blendify -- 用于 Blender 的 Python 渲染框架](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
@@ -149,10 +145,6 @@
 - [Improve Vision Language Model Chain-of-thought Reasoning](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
 
     - [翻译: 改进视觉语言模型的思维链推理](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
-
-- [Large Language Models Empower Personalized Valuation in Auction](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
-
-    - [翻译: 大型语言模型赋能拍卖中的个性化估值](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
 
 - [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
@@ -279,10 +271,6 @@
 - [Efficiently Computing Susceptibility to Context in Language Models](2024年10月18日/Efficiently_Computing_Susceptibility_to_Context_in_Language_Models.md)
 
     - [翻译: 高效测算语言模型的上下文敏感度](2024年10月18日/Efficiently_Computing_Susceptibility_to_Context_in_Language_Models.md)
-
-- [Electrocardiogram-Language Model for Few-Shot Question Answering with Meta Learning](2024年10月18日/Electrocardiogram-Language_Model_for_Few-Shot_Question_Answering_with_Meta_Learning.md)
-
-    - [翻译: 心电图语言模型：少样本问答的元学习新篇章](2024年10月18日/Electrocardiogram-Language_Model_for_Few-Shot_Question_Answering_with_Meta_Learning.md)
 
 - [Enhancing Cryptocurrency Market Forecasting: Advanced Machine Learning Techniques and Industrial Engineering Contributions](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
 
@@ -424,10 +412,6 @@
 
     - [翻译: 利用 Pointwise V-Usable Information 进行多任务学习中的任务分组识别](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
 
-- [Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse RL](2024年10月16日/Insights_from_the_Inverse_Reconstructing_LLM_Training_Goals_Through_Inverse_RL.md)
-
-    - [翻译: 逆向思考：用逆向强化学习重构 LLM 训练目标](2024年10月16日/Insights_from_the_Inverse_Reconstructing_LLM_Training_Goals_Through_Inverse_RL.md)
-
 - [Is Semantic Chunking Worth the Computational Cost?](2024年10月16日/Is_Semantic_Chunking_Worth_the_Computational_Cost.md)
 
     - [翻译: 语义分块的计算成本是否物有所值？](2024年10月16日/Is_Semantic_Chunking_Worth_the_Computational_Cost.md)
@@ -435,10 +419,6 @@
 - [MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
 
     - [翻译: MC-Bench：MLLM 时代下的多上下文视觉定位基准](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
-
-- [MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback](2024年10月16日/MCQG-SRefine_Multiple_Choice_Question_Generation_and_Evaluation_with_Iterative_Self-Critique,_Correction,_and_Comparison_Feedback.md)
-
-    - [翻译: MCQG-SRefine：多选题生成与评估，结合迭代自我批评、修正与比较反馈](2024年10月16日/MCQG-SRefine_Multiple_Choice_Question_Generation_and_Evaluation_with_Iterative_Self-Critique,_Correction,_and_Comparison_Feedback.md)
 
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
