@@ -432,10 +432,6 @@
 
     - [翻译: 针对视觉-语言预训练模型，我们提出了一种既高效又有效的通用对抗攻击方法。](2024年10月16日/Efficient_and_Effective_Universal_Adversarial_Attack_against_Vision-Language_Pre-training_Models.md)
 
-- [Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
-
-    - [翻译: 提升 LLM 代理代码生成：可能性与通过率优先的经验回放策略](2024年10月16日/Enhancing_LLM_Agents_for_Code_Generation_with_Possibility_and_Pass-rate_Prioritized_Experience_Replay.md)
-
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
@@ -491,10 +487,6 @@
 - [Revisited Large Language Model for Time Series Analysis through Modality Alignment](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
 
     - [翻译: 通过模态对齐，重新探索大型语言模型在时间序列分析中的应用。](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
-
-- [Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving](2024年10月16日/Robust_RL_with_LLM-Driven_Data_Synthesis_and_Policy_Adaptation_for_Autonomous_Driving.md)
-
-    - [翻译: 基于 LLM 数据合成与策略适应的鲁棒强化学习，助力自动驾驶技术发展](2024年10月16日/Robust_RL_with_LLM-Driven_Data_Synthesis_and_Policy_Adaptation_for_Autonomous_Driving.md)
 
 - [Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors](2024年10月16日/Semantics-Adaptive_Activation_Intervention_for_LLMs_via_Dynamic_Steering_Vectors.md)
 
@@ -555,10 +547,6 @@
 - [$α$-DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
 
     - [翻译: $α$-DPO：自适应奖励边际，正是直接偏好优化所需的关键。](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
-
-- [Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models](2024年10月14日/Athena_Retrieval-augmented_Legal_Judgment_Prediction_with_Large_Language_Models.md)
-
-    - [翻译: Athena：借助大型语言模型提升检索功能的法律判决预测系统](2024年10月14日/Athena_Retrieval-augmented_Legal_Judgment_Prediction_with_Large_Language_Models.md)
 
 - [Audio Captioning via Generative Pair-to-Pair Retrieval with Refined Knowledge Base](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
