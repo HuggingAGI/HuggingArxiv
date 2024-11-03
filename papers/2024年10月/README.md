@@ -60,10 +60,6 @@
 
     - [翻译: M2rc-Eval：大规模多语言存储库级代码完成评估](2024年10月28日/M2rc-Eval_Massively_Multilingual_Repository-level_Code_Completion_Evaluation.md)
 
-- [Palisade -- Prompt Injection Detection Framework](2024年10月28日/Palisade_--_Prompt_Injection_Detection_Framework.md)
-
-    - [翻译: Palisade——提示注入检测框架](2024年10月28日/Palisade_--_Prompt_Injection_Detection_Framework.md)
-
 2024年10月25日
 
 - [Lee-Yang-zero ratios for locating a critical point](2024年10月25日/Lee-Yang-zero_ratios_for_locating_a_critical_point.md)
@@ -165,10 +161,6 @@
 - [Improve Vision Language Model Chain-of-thought Reasoning](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
 
     - [翻译: 改进视觉语言模型的思维链推理](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
-
-- [InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems](2024年10月21日/InternLM2.5-StepProver_Advancing_Automated_Theorem_Proving_via_Expert_Iteration_on_Large-Scale_LEAN_Problems.md)
-
-    - [翻译: InternLM2.5-StepProver：借助专家迭代，攻克大规模 LEAN 问题，推动自动定理证明技术迈向新高度](2024年10月21日/InternLM2.5-StepProver_Advancing_Automated_Theorem_Proving_via_Expert_Iteration_on_Large-Scale_LEAN_Problems.md)
 
 - [Large Language Models Empower Personalized Valuation in Auction](2024年10月21日/Large_Language_Models_Empower_Personalized_Valuation_in_Auction.md)
 
@@ -283,10 +275,6 @@
 - [CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
 
     - [翻译: CoMAL：混合自主交通中的协作多智能体大型语言模型](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
-
-- [Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension](2024年10月18日/Croc_Pretraining_Large_Multimodal_Models_with_Cross-Modal_Comprehension.md)
-
-    - [翻译: Croc：借助跨模态理解，预训练大型多模态模型](2024年10月18日/Croc_Pretraining_Large_Multimodal_Models_with_Cross-Modal_Comprehension.md)
 
 - [Debug Smarter, Not Harder: AI Agents for Error Resolution in Computational Notebooks](2024年10月18日/Debug_Smarter,_Not_Harder_AI_Agents_for_Error_Resolution_in_Computational_Notebooks.md)
 
