@@ -16,6 +16,12 @@
 
     - [翻译: 通过大型语言模型代理打造资产管理壳，实现数字孪生体中的语义节点互操作性。](2024年06月24日/Generation_of_Asset_Administration_Shell_with_Large_Language_Model_Agents_Toward_Semantic_Interoperability_in_Digital_Twins_in_the_Context_of_Industry_4.0.md)
 
+2024年06月19日
+
+- [Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis](2024年06月19日/Unveiling_the_Hidden_Structure_of_Self-Attention_via_Kernel_Principal_Component_Analysis.md)
+
+    - [翻译: 通过核主成分分析揭示自注意力的隐藏结构](2024年06月19日/Unveiling_the_Hidden_Structure_of_Self-Attention_via_Kernel_Principal_Component_Analysis.md)
+
 2024年06月13日
 
 - [TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution](2024年06月13日/TikTag_Breaking_ARM's_Memory_Tagging_Extension_with_Speculative_Execution.md)
