@@ -74,10 +74,6 @@
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
-- [xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
-
-    - [翻译: xLSTM-Mixer：通过标量记忆混合进行多元时间序列预测](2024年10月22日/xLSTM-Mixer_Multivariate_Time_Series_Forecasting_by_Mixing_via_Scalar_Memories.md)
-
 2024年10月21日
 
 - [Alchemy: Amplifying Theorem-Proving Capability through Symbolic Mutation](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
@@ -228,10 +224,6 @@
 
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
-- [Representing Model Weights with Language using Tree Experts](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
-
-    - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
-
 2024年10月16日
 
 - [Agent Skill Acquisition for Large Language Models via CycleQD](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
@@ -305,10 +297,6 @@
 - [Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
     - [翻译: 大型语言模型中的文化保真度：探讨在线语言资源如何影响模型在价值表示方面的性能。](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
-
-- [Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
-
-    - [翻译: 借助语言家族专家的混合策略，我们高效地将医学大型语言模型扩展至50种语言，实现真正的语言民主化。](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
 
 - [Learning Linear Attention in Polynomial Time](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
 
