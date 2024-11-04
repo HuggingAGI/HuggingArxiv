@@ -60,10 +60,6 @@
 
     - [翻译: Blendify -- 用于 Blender 的 Python 渲染框架](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
 
-- [EON: A practical energy-preserving rough diffuse BRDF](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
-
-    - [翻译: EON：一种实用的能量守恒的粗糙漫反射双向反射分布函数](2024年10月23日/EON_A_practical_energy-preserving_rough_diffuse_BRDF.md)
-
 - [Position-Aided Semantic Communication for Efficient Image Transmission: Design, Implementation, and Experimental Results](2024年10月23日/Position-Aided_Semantic_Communication_for_Efficient_Image_Transmission_Design,_Implementation,_and_Experimental_Results.md)
 
     - [翻译: 用于高效图像传输的位置辅助语义通信：设计、实现和实验结果](2024年10月23日/Position-Aided_Semantic_Communication_for_Efficient_Image_Transmission_Design,_Implementation,_and_Experimental_Results.md)
@@ -143,10 +139,6 @@
 - [Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
 
     - [翻译: 利用梯度优化技术，在大语言模型中探寻故障令牌的奥秘](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
-
-- [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
-
-    - [翻译: PAT：一款无需参数的音频与文本对齐工具，旨在提升零-shot 音频分类的性能。](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
 
 2024年10月18日
 
@@ -338,10 +330,6 @@
 
     - [翻译: 在多项式时间内学习线性注意力](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
 
-- [MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
-
-    - [翻译: MentalGLM 系列：专为中国社交媒体心理健康分析设计的可解释大型语言模型](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
-
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
     - [翻译: SeedLM：将 LLM 权重压缩为伪随机生成器的种子](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
@@ -373,10 +361,6 @@
 - [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
 
     - [翻译: IGNN-Solver：专为隐式图神经网络设计的图神经求解器](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
-
-- [QEFT: Quantization for Efficient Fine-Tuning of LLMs](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
-
-    - [翻译: QEFT：通过量化实现 LLM 的高效微调](2024年10月11日/QEFT_Quantization_for_Efficient_Fine-Tuning_of_LLMs.md)
 
 2024年10月09日
 
