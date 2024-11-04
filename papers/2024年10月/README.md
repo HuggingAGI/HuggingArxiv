@@ -34,10 +34,6 @@
 
     - [翻译: LLM 初始化的可微因果发现](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
 
-- [LoRA vs Full Fine-tuning: An Illusion of Equivalence](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
-
-    - [翻译: LoRA 与全微调：等效的错觉](2024年10月28日/LoRA_vs_Full_Fine-tuning_An_Illusion_of_Equivalence.md)
-
 2024年10月25日
 
 - [Lee-Yang-zero ratios for locating a critical point](2024年10月25日/Lee-Yang-zero_ratios_for_locating_a_critical_point.md)
@@ -158,10 +154,6 @@
 
     - [翻译: E3D-GPT：为医疗视觉-语言模型打造的增强版 3D 视觉基础](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
-- [Efficient Annotator Reliability Assessment and Sample Weighting for Knowledge-Based Misinformation Detection on Social Media](2024年10月18日/Efficient_Annotator_Reliability_Assessment_and_Sample_Weighting_for_Knowledge-Based_Misinformation_Detection_on_Social_Media.md)
-
-    - [翻译: 高效评估标注者可靠性，并加权样本，助力社交媒体上的基于知识的错误信息检测](2024年10月18日/Efficient_Annotator_Reliability_Assessment_and_Sample_Weighting_for_Knowledge-Based_Misinformation_Detection_on_Social_Media.md)
-
 - [Efficiently Computing Susceptibility to Context in Language Models](2024年10月18日/Efficiently_Computing_Susceptibility_to_Context_in_Language_Models.md)
 
     - [翻译: 高效测算语言模型的上下文敏感度](2024年10月18日/Efficiently_Computing_Susceptibility_to_Context_in_Language_Models.md)
@@ -203,10 +195,6 @@
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
-
-- [Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
-
-    - [翻译: Malleus：通过灵活的数据和模型并行化，实现大规模模型的抗滞后混合并行训练](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
 
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
 
