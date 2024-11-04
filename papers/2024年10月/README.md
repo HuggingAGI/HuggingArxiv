@@ -100,10 +100,6 @@
 
     - [翻译: 改进视觉语言模型的思维链推理](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
 
-- [On-Device LLMs for SMEs: Challenges and Opportunities](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
-
-    - [翻译: 设备上的 LLM 为中小企业带来了挑战与机遇。](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
-
 - [Revealing and Mitigating the Local Pattern Shortcuts of Mamba](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
     - [翻译: 揭秘并缓解 Mamba 的局部模式捷径](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
@@ -254,10 +250,6 @@
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
-- [Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
-
-    - [翻译: 利用 Pointwise V-Usable Information 进行多任务学习中的任务分组识别](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
-
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
     - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
@@ -269,10 +261,6 @@
 - [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
     - [翻译: 在数据稀缺的情况下，REFINE 通过嵌入模型的融合微调，实现了检索能力的增强。](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
-
-- [Retrieval-Reasoning Large Language Model-based Synthetic Clinical Trial Generation](2024年10月16日/Retrieval-Reasoning_Large_Language_Model-based_Synthetic_Clinical_Trial_Generation.md)
-
-    - [翻译: 基于检索与推理的大型语言模型，用于合成临床试验的生成](2024年10月16日/Retrieval-Reasoning_Large_Language_Model-based_Synthetic_Clinical_Trial_Generation.md)
 
 - [Revisited Large Language Model for Time Series Analysis through Modality Alignment](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
 
