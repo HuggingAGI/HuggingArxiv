@@ -36,6 +36,10 @@
 
 2024年10月25日
 
+- [A prescriptive theory for brain-like inference](2024年10月25日/A_prescriptive_theory_for_brain-like_inference.md)
+
+    - [翻译: 一种类似大脑推理的规范性理论](2024年10月25日/A_prescriptive_theory_for_brain-like_inference.md)
+
 - [Lee-Yang-zero ratios for locating a critical point](2024年10月25日/Lee-Yang-zero_ratios_for_locating_a_critical_point.md)
 
     - [翻译: 用于定位临界点的李-杨-零比率](2024年10月25日/Lee-Yang-zero_ratios_for_locating_a_critical_point.md)

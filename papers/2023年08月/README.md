@@ -38,6 +38,10 @@
 
     - [翻译: 本文介绍了一种自适应低秩调整技术，旨在将“任何片段”模型适配到显著目标检测任务中，以提升检测性能。](2023年08月10日/Adaptive_Low_Rank_Adaptation_of_Segment_Anything_to_Salient_Object_Detection.md)
 
+- [Thermodynamic Linear Algebra](2023年08月10日/Thermodynamic_Linear_Algebra.md)
+
+    - [翻译: 热力学线性代数](2023年08月10日/Thermodynamic_Linear_Algebra.md)
+
 2023年08月09日
 
 - [MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model](2023年08月09日/MetRoBERTa_Leveraging_Traditional_Customer_Relationship_Management_Data_to_Develop_a_Transit-Topic-Aware_Language_Model.md)
