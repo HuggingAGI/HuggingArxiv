@@ -112,10 +112,6 @@
 
     - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
-- [NetSafe: Exploring the Topological Safety of Multi-agent Networks](2024年10月21日/NetSafe_Exploring_the_Topological_Safety_of_Multi-agent_Networks.md)
-
-    - [翻译: NetSafe：探究多智能体网络的拓扑安全特性](2024年10月21日/NetSafe_Exploring_the_Topological_Safety_of_Multi-agent_Networks.md)
-
 - [On-Device LLMs for SMEs: Challenges and Opportunities](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
 
     - [翻译: 设备上的 LLM 为中小企业带来了挑战与机遇。](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
@@ -239,10 +235,6 @@
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
-
-- [Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
-
-    - [翻译: 我们真的需要一个 LLM+VQA 系统来识别视觉概念吗？](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
 
 - [LLM-based Unit Test Generation via Property Retrieval](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
@@ -373,10 +365,6 @@
 - [Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
 
     - [翻译: 借助语言家族专家的混合策略，我们高效地将医学大型语言模型扩展至50种语言，实现真正的语言民主化。](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
-
-- [Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
-
-    - [翻译: 大型语言模型加持的强化学习，助力通用公交保持控制策略](2024年10月14日/Large_Language_Model-Enhanced_Reinforcement_Learning_for_Generic_Bus_Holding_Control_Strategies.md)
 
 - [Learning Linear Attention in Polynomial Time](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
 
