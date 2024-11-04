@@ -74,10 +74,6 @@
 
     - [翻译: 大型语言模型能作为多 GNN 的集成器吗？](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
 
-- [Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
-
-    - [翻译: 通过多功能 TTS 增强低资源 ASR：弥合数据差距](2024年10月22日/Enhancing_Low-Resource_ASR_through_Versatile_TTS_Bridging_the_Data_Gap.md)
-
 - [Influential Language Data Selection via Gradient Trajectory Pursuit](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
     - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
@@ -149,10 +145,6 @@
     - [翻译: 利用 GPT 模型，深入分析 2024 年美国大选中的新闻内容，既量化数据，又捕捉深层含义。](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
 
 2024年10月20日
-
-- [A Comprehensive Survey of Datasets, Theories, Variants, and Applications in Direct Preference Optimization](2024年10月20日/A_Comprehensive_Survey_of_Datasets,_Theories,_Variants,_and_Applications_in_Direct_Preference_Optimization.md)
-
-    - [翻译: 全面探讨直接偏好优化中的数据集、理论、变体及应用](2024年10月20日/A_Comprehensive_Survey_of_Datasets,_Theories,_Variants,_and_Applications_in_Direct_Preference_Optimization.md)
 
 - [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
 
@@ -380,10 +372,6 @@
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
-- [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
-
-    - [翻译: MLLM 能“看”吗？动态校正解码助力幻觉缓解](2024年10月15日/MLLM_can_see_Dynamic_Correction_Decoding_for_Hallucination_Mitigation.md)
-
 - [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
 
     - [翻译: SGEdit：融合 LLM 与 Text2Image 生成模型，实现基于场景图的图像编辑](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
@@ -426,10 +414,6 @@
 
     - [翻译: MentalGLM 系列：专为中国社交媒体心理健康分析设计的可解释大型语言模型](2024年10月14日/MentalGLM_Series_Explainable_Large_Language_Models_for_Mental_Health_Analysis_on_Chinese_Social_Media.md)
 
-- [Model-Based Differentially Private Knowledge Transfer for Large Language Models](2024年10月14日/Model-Based_Differentially_Private_Knowledge_Transfer_for_Large_Language_Models.md)
-
-    - [翻译: 基于模型的差分隐私技术助力大型语言模型的知识迁移](2024年10月14日/Model-Based_Differentially_Private_Knowledge_Transfer_for_Large_Language_Models.md)
-
 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
 
     - [翻译: SeedLM：将 LLM 权重压缩为伪随机生成器的种子](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
@@ -437,10 +421,6 @@
 - [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
 
     - [翻译: 聚焦温度，探究知识蒸馏下的推测解码](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
-
-- [Thinking LLMs: General Instruction Following with Thought Generation](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
-
-    - [翻译: 思考型 LLM：通过思维生成实现通用指令跟随](2024年10月14日/Thinking_LLMs_General_Instruction_Following_with_Thought_Generation.md)
 
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
