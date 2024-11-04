@@ -120,17 +120,9 @@
 
     - [翻译: NetSafe：探究多智能体网络的拓扑安全特性](2024年10月21日/NetSafe_Exploring_the_Topological_Safety_of_Multi-agent_Networks.md)
 
-- [Networks: The Visual Language of Complexity](2024年10月21日/Networks_The_Visual_Language_of_Complexity.md)
-
-    - [翻译: 网络：复杂性的视觉语言](2024年10月21日/Networks_The_Visual_Language_of_Complexity.md)
-
 - [On-Device LLMs for SMEs: Challenges and Opportunities](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
 
     - [翻译: 设备上的 LLM 为中小企业带来了挑战与机遇。](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
-
-- [Opportunities and Challenges of Generative-AI in Finance](2024年10月21日/Opportunities_and_Challenges_of_Generative-AI_in_Finance.md)
-
-    - [翻译: 金融领域中生成式人工智能的机遇与挑战](2024年10月21日/Opportunities_and_Challenges_of_Generative-AI_in_Finance.md)
 
 - [Revealing and Mitigating the Local Pattern Shortcuts of Mamba](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
@@ -243,10 +235,6 @@
 - [Comparing the Utility, Preference, and Performance of Course Material Search Functionality and Retrieval-Augmented Generation Large Language Model (RAG-LLM) AI Chatbots in Information-Seeking Tasks](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
 
     - [翻译: 在信息搜索任务中，课程材料搜索功能与 RAG-LLM AI 聊天机器人的效用、偏好和性能比较](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
-
-- [De-mark: Watermark Removal in Large Language Models](2024年10月17日/De-mark_Watermark_Removal_in_Large_Language_Models.md)
-
-    - [翻译: De-mark：大型语言模型中的水印清除术](2024年10月17日/De-mark_Watermark_Removal_in_Large_Language_Models.md)
 
 - [DPLM-2: A Multimodal Diffusion Protein Language Model](2024年10月17日/DPLM-2_A_Multimodal_Diffusion_Protein_Language_Model.md)
 
