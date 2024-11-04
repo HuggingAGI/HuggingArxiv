@@ -306,10 +306,6 @@
 
     - [翻译: 大型语言模型中的文化保真度：探讨在线语言资源如何影响模型在价值表示方面的性能。](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
-- [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads](2024年10月14日/DuoAttention_Efficient_Long-Context_LLM_Inference_with_Retrieval_and_Streaming_Heads.md)
-
-    - [翻译: DuoAttention：结合检索与流式处理，实现长上下文 LLM 推理的高效能](2024年10月14日/DuoAttention_Efficient_Long-Context_LLM_Inference_with_Retrieval_and_Streaming_Heads.md)
-
 - [Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)
 
     - [翻译: 借助语言家族专家的混合策略，我们高效地将医学大型语言模型扩展至50种语言，实现真正的语言民主化。](2024年10月14日/Efficiently_Democratizing_Medical_LLMs_for_50_Languages_via_a_Mixture_of_Language_Family_Experts.md)

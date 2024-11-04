@@ -17,9 +17,3 @@
 - [Tackling fluffy clouds: field boundaries detection using time series of S2 and/or S1 imagery](2024年09月20日/Tackling_fluffy_clouds_field_boundaries_detection_using_time_series_of_S2_andor_S1_imagery.md)
 
     - [翻译: 解决蓬松的云：使用 S2 和/或 S1 图像的时间序列进行场边界检测](2024年09月20日/Tackling_fluffy_clouds_field_boundaries_detection_using_time_series_of_S2_andor_S1_imagery.md)
-
-2024年09月04日
-
-- [Sample what you cant compress](2024年09月04日/Sample_what_you_cant_compress.md)
-
-    - [翻译: 采撷那些难以压缩的精华](2024年09月04日/Sample_what_you_cant_compress.md)
