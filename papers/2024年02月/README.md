@@ -34,6 +34,12 @@
 
     - [翻译: 让模型解码密语：借助嵌入技术开展多主体辩论。](2024年02月26日/Let_Models_Speak_Ciphers_Multiagent_Debate_through_Embeddings.md)
 
+2024年02月25日
+
+- [PIDformer: Transformer Meets Control Theory](2024年02月25日/PIDformer_Transformer_Meets_Control_Theory.md)
+
+    - [翻译: PIDformer：Transformer 遇见控制理论](2024年02月25日/PIDformer_Transformer_Meets_Control_Theory.md)
+
 2024年02月23日
 
 - [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](2024年02月23日/AgentLite_A_Lightweight_Library_for_Building_and_Advancing_Task-Oriented_LLM_Agent_System.md)
