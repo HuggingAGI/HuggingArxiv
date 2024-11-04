@@ -172,10 +172,6 @@
 
     - [翻译: PAT：一款无需参数的音频与文本对齐工具，旨在提升零-shot 音频分类的性能。](2024年10月19日/PAT_Parameter-Free_Audio-Text_Aligner_to_Boost_Zero-Shot_Audio_Classification.md)
 
-- [Transit Pulse: Utilizing Social Media as a Source for Customer Feedback and Information Extraction with Large Language Model](2024年10月19日/Transit_Pulse_Utilizing_Social_Media_as_a_Source_for_Customer_Feedback_and_Information_Extraction_with_Large_Language_Model.md)
-
-    - [翻译: Transit Pulse：借助社交媒体，结合大型语言模型，获取客户反馈与信息提取。](2024年10月19日/Transit_Pulse_Utilizing_Social_Media_as_a_Source_for_Customer_Feedback_and_Information_Extraction_with_Large_Language_Model.md)
-
 2024年10月18日
 
 - [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
@@ -317,10 +313,6 @@
 - [Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
 
     - [翻译: 利用 Pointwise V-Usable Information 进行多任务学习中的任务分组识别](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
-
-- [Is Semantic Chunking Worth the Computational Cost?](2024年10月16日/Is_Semantic_Chunking_Worth_the_Computational_Cost.md)
-
-    - [翻译: 语义分块的计算成本是否物有所值？](2024年10月16日/Is_Semantic_Chunking_Worth_the_Computational_Cost.md)
 
 - [MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
 
