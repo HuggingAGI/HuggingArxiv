@@ -268,10 +268,6 @@
 
     - [翻译: DPLM-2：一款多模态扩散蛋白语言模型](2024年10月17日/DPLM-2_A_Multimodal_Diffusion_Protein_Language_Model.md)
 
-- [Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning](2024年10月17日/Enhancing_LLM_Trading_Performance_with_Fact-Subjectivity_Aware_Reasoning.md)
-
-    - [翻译: 利用事实与主观性意识推理，提升 LLM 在交易中的表现](2024年10月17日/Enhancing_LLM_Trading_Performance_with_Fact-Subjectivity_Aware_Reasoning.md)
-
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
@@ -311,10 +307,6 @@
 - [Scaling Wearable Foundation Models](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
 
     - [翻译: 扩展可穿戴基础模型](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
-
-- [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](2024年10月17日/Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation.md)
-
-    - [翻译: 网络代理通过世界模型学习并利用环境动态，以优化网络导航。](2024年10月17日/Web_Agents_with_World_Models_Learning_and_Leveraging_Environment_Dynamics_in_Web_Navigation.md)
 
 2024年10月16日
 
