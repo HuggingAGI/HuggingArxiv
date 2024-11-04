@@ -92,10 +92,6 @@
 
     - [翻译: 探究语言模型在知识冲突中的残差流表现](2024年10月21日/Analysing_the_Residual_Stream_of_Language_Models_Under_Knowledge_Conflicts.md)
 
-- [A New Approach to Solving SMAC Task: Generating Decision Tree Code from Large Language Models](2024年10月21日/A_New_Approach_to_Solving_SMAC_Task_Generating_Decision_Tree_Code_from_Large_Language_Models.md)
-
-    - [翻译: 探索 SMAC 任务新解法：借助大型语言模型生成决策树代码](2024年10月21日/A_New_Approach_to_Solving_SMAC_Task_Generating_Decision_Tree_Code_from_Large_Language_Models.md)
-
 - [Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
 
     - [翻译: 不仅仅是过滤：自适应图像与文本质量提升，助力多模态语言模型预训练](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
@@ -107,10 +103,6 @@
 - [Improve Vision Language Model Chain-of-thought Reasoning](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
 
     - [翻译: 改进视觉语言模型的思维链推理](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
-
-- [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
-
-    - [翻译: MiCEval：通过图像描述与推理步骤，揭示多模态思维链的真正质量。](2024年10月21日/MiCEval_Unveiling_Multimodal_Chain_of_Thought's_Quality_via_Image_Description_and_Reasoning_Steps.md)
 
 - [On-Device LLMs for SMEs: Challenges and Opportunities](2024年10月21日/On-Device_LLMs_for_SMEs_Challenges_and_Opportunities.md)
 
@@ -201,10 +193,6 @@
 - [Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
 
     - [翻译: 探索基于 LLM 的个性化多源会议摘要，揭示你需要了解的关键信息。](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
-
-- [Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning](2024年10月18日/Towards_Robust_Knowledge_Representations_in_Multilingual_LLMs_for_Equivalence_and_Inheritance_based_Consistent_Reasoning.md)
-
-    - [翻译: 在多语言 LLM 中，构建基于等价和继承的鲁棒知识表示，以实现一致推理](2024年10月18日/Towards_Robust_Knowledge_Representations_in_Multilingual_LLMs_for_Equivalence_and_Inheritance_based_Consistent_Reasoning.md)
 
 - [TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling](2024年10月18日/TreeBoN_Enhancing_Inference-Time_Alignment_with_Speculative_Tree-Search_and_Best-of-N_Sampling.md)
 
