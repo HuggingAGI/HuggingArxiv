@@ -12,10 +12,6 @@
 
     - [翻译: 等变性能在规模上重要吗？](2024年10月30日/Does_equivariance_matter_at_scale.md)
 
-- [Force-current structure in Markovian open quantum systems and its applications: geometric housekeeping-excess decomposition and thermodynamic trade-off relations](2024年10月30日/Force-current_structure_in_Markovian_open_quantum_systems_and_its_applications_geometric_housekeeping-excess_decomposition_and_thermodynamic_trade-off_relations.md)
-
-    - [翻译: 马尔可夫开放量子系统中的力-电流结构及其应用：几何管家-超额分解和热力学权衡关系](2024年10月30日/Force-current_structure_in_Markovian_open_quantum_systems_and_its_applications_geometric_housekeeping-excess_decomposition_and_thermodynamic_trade-off_relations.md)
-
 - [Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
 
     - [翻译: 通过尝试来接地：具有强化学习增强检索功能的大型语言模型](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
@@ -283,10 +279,6 @@
 - [Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
 
     - [翻译: 我们真的需要一个 LLM+VQA 系统来识别视觉概念吗？](2024年10月17日/Help_Me_Identify_Is_an_LLM+VQA_System_All_We_Need_to_Identify_Visual_Concepts.md)
-
-- [Interpreting Temporal Graph Neural Networks with Koopman Theory](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
-
-    - [翻译: 用 Koopman 理论解释时间图神经网络](2024年10月17日/Interpreting_Temporal_Graph_Neural_Networks_with_Koopman_Theory.md)
 
 - [LLM-based Unit Test Generation via Property Retrieval](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
