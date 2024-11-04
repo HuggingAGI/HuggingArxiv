@@ -140,10 +140,6 @@
 
     - [翻译: SMILES-Prompting：化学合成领域中，破解 LLM 的新颖策略](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
 
-- [Using GPT Models for Qualitative and Quantitative News Analytics in the 2024 US Presidental Election Process](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
-
-    - [翻译: 利用 GPT 模型，深入分析 2024 年美国大选中的新闻内容，既量化数据，又捕捉深层含义。](2024年10月21日/Using_GPT_Models_for_Qualitative_and_Quantitative_News_Analytics_in_the_2024_US_Presidental_Election_Process.md)
-
 2024年10月20日
 
 - [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
