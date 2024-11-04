@@ -53,3 +53,9 @@
 - [Designing Heterogeneous LLM Agents for Financial Sentiment Analysis](2024年01月11日/Designing_Heterogeneous_LLM_Agents_for_Financial_Sentiment_Analysis.md)
 
     - [翻译: 本文旨在探讨如何设计多样化的大型语言模型代理，以提升金融情绪分析的准确性和效率。](2024年01月11日/Designing_Heterogeneous_LLM_Agents_for_Financial_Sentiment_Analysis.md)
+
+2024年01月07日
+
+- [Agent AI: Surveying the Horizons of Multimodal Interaction](2024年01月07日/Agent_AI_Surveying_the_Horizons_of_Multimodal_Interaction.md)
+
+    - [翻译: 智能体 AI：对多模态交互的视野进行调查](2024年01月07日/Agent_AI_Surveying_the_Horizons_of_Multimodal_Interaction.md)

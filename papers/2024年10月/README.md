@@ -216,17 +216,9 @@
 
     - [翻译: 在信息搜索任务中，课程材料搜索功能与 RAG-LLM AI 聊天机器人的效用、偏好和性能比较](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
 
-- [DPLM-2: A Multimodal Diffusion Protein Language Model](2024年10月17日/DPLM-2_A_Multimodal_Diffusion_Protein_Language_Model.md)
-
-    - [翻译: DPLM-2：一款多模态扩散蛋白语言模型](2024年10月17日/DPLM-2_A_Multimodal_Diffusion_Protein_Language_Model.md)
-
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
-
-- [LLM-based Unit Test Generation via Property Retrieval](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
-
-    - [翻译: 基于 LLM 的单元测试生成：属性检索法](2024年10月17日/LLM-based_Unit_Test_Generation_via_Property_Retrieval.md)
 
 - [Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization](2024年10月17日/Malleus_Straggler-Resilient_Hybrid_Parallel_Training_of_Large-scale_Models_via_Malleable_Data_and_Model_Parallelization.md)
 
@@ -252,10 +244,6 @@
 
     - [翻译: 借助树专家，以语言形式呈现模型权重](2024年10月17日/Representing_Model_Weights_with_Language_using_Tree_Experts.md)
 
-- [Scaling Wearable Foundation Models](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
-
-    - [翻译: 扩展可穿戴基础模型](2024年10月17日/Scaling_Wearable_Foundation_Models.md)
-
 2024年10月16日
 
 - [Agent Skill Acquisition for Large Language Models via CycleQD](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
@@ -278,10 +266,6 @@
 
     - [翻译: 利用 Pointwise V-Usable Information 进行多任务学习中的任务分组识别](2024年10月16日/Identifying_Task_Groupings_for_Multi-Task_Learning_Using_Pointwise_V-Usable_Information.md)
 
-- [MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
-
-    - [翻译: MC-Bench：MLLM 时代下的多上下文视觉定位基准](2024年10月16日/MC-Bench_A_Benchmark_for_Multi-Context_Visual_Grounding_in_the_Era_of_MLLMs.md)
-
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
     - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
@@ -297,10 +281,6 @@
 - [Retrieval-Reasoning Large Language Model-based Synthetic Clinical Trial Generation](2024年10月16日/Retrieval-Reasoning_Large_Language_Model-based_Synthetic_Clinical_Trial_Generation.md)
 
     - [翻译: 基于检索与推理的大型语言模型，用于合成临床试验的生成](2024年10月16日/Retrieval-Reasoning_Large_Language_Model-based_Synthetic_Clinical_Trial_Generation.md)
-
-- [Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](2024年10月16日/Reversal_of_Thought_Enhancing_Large_Language_Models_with_Preference-Guided_Reverse_Reasoning_Warm-up.md)
-
-    - [翻译: 反转思维：借助偏好引导的反向推理预热，提升大型语言模型的性能](2024年10月16日/Reversal_of_Thought_Enhancing_Large_Language_Models_with_Preference-Guided_Reverse_Reasoning_Warm-up.md)
 
 - [Revisited Large Language Model for Time Series Analysis through Modality Alignment](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
 
