@@ -78,10 +78,6 @@
 
 2024年10月20日
 
-- [On The Global Convergence Of Online RLHF With Neural Parametrization](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
-
-    - [翻译: 在线 RLHF 与神经参数化的全局收敛性探讨](2024年10月20日/On_The_Global_Convergence_Of_Online_RLHF_With_Neural_Parametrization.md)
-
 - [The Best Defense is a Good Offense: Countering LLM-Powered Cyberattacks](2024年10月20日/The_Best_Defense_is_a_Good_Offense_Countering_LLM-Powered_Cyberattacks.md)
 
     - [翻译: 以攻为守：应对大型语言模型驱动的网络攻击](2024年10月20日/The_Best_Defense_is_a_Good_Offense_Countering_LLM-Powered_Cyberattacks.md)
@@ -91,10 +87,6 @@
 - [A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
 
     - [翻译: 开放学生学习环境中的双融合认知诊断框架](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
-
-- [AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
-
-    - [翻译: AutoFPDesigner：利用多智能体大型语言模型实现飞行程序的自动化设计](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
 2024年10月18日
 
