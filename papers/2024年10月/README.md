@@ -112,10 +112,6 @@
 
     - [翻译: 在数据稀缺的情况下，REFINE 通过嵌入模型的融合微调，实现了检索能力的增强。](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
-- [Revisited Large Language Model for Time Series Analysis through Modality Alignment](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
-
-    - [翻译: 通过模态对齐，重新探索大型语言模型在时间序列分析中的应用。](2024年10月16日/Revisited_Large_Language_Model_for_Time_Series_Analysis_through_Modality_Alignment.md)
-
 2024年10月15日
 
 - [Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
