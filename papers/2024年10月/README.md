@@ -8,10 +8,6 @@
 
 2024年10月30日
 
-- [Does equivariance matter at scale?](2024年10月30日/Does_equivariance_matter_at_scale.md)
-
-    - [翻译: 等变性能在规模上重要吗？](2024年10月30日/Does_equivariance_matter_at_scale.md)
-
 - [Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
 
     - [翻译: 通过尝试来接地：具有强化学习增强检索功能的大型语言模型](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
@@ -65,10 +61,6 @@
 - [Can Large Language Models Act as Ensembler for Multi-GNNs?](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
 
     - [翻译: 大型语言模型能作为多 GNN 的集成器吗？](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
-
-- [Influential Language Data Selection via Gradient Trajectory Pursuit](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
-
-    - [翻译: 通过梯度轨迹追踪进行有影响力的语言数据选择](2024年10月22日/Influential_Language_Data_Selection_via_Gradient_Trajectory_Pursuit.md)
 
 2024年10月21日
 
