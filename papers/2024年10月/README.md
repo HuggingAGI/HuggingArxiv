@@ -128,10 +128,6 @@
 
     - [翻译: HyQE：通过假设查询嵌入来排序上下文](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
 
-- [Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
-
-    - [翻译: 利用梯度优化技术，在大语言模型中探寻故障令牌的奥秘](2024年10月19日/Mining_Glitch_Tokens_in_Large_Language_Models_via_Gradient-based_Discrete_Optimization.md)
-
 2024年10月18日
 
 - [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
@@ -281,14 +277,6 @@
 - [Learning Linear Attention in Polynomial Time](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
 
     - [翻译: 在多项式时间内学习线性注意力](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
-
-- [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
-
-    - [翻译: SeedLM：将 LLM 权重压缩为伪随机生成器的种子](2024年10月14日/SeedLM_Compressing_LLM_Weights_into_Seeds_of_Pseudo-Random_Generators.md)
-
-- [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
-
-    - [翻译: 聚焦温度，探究知识蒸馏下的推测解码](2024年10月14日/Temperature-Centric_Investigation_of_Speculative_Decoding_with_Knowledge_Distillation.md)
 
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
