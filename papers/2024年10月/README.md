@@ -192,10 +192,6 @@
 
     - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
-- [Comparing the Utility, Preference, and Performance of Course Material Search Functionality and Retrieval-Augmented Generation Large Language Model (RAG-LLM) AI Chatbots in Information-Seeking Tasks](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
-
-    - [翻译: 在信息搜索任务中，课程材料搜索功能与 RAG-LLM AI 聊天机器人的效用、偏好和性能比较](2024年10月17日/Comparing_the_Utility,_Preference,_and_Performance_of_Course_Material_Search_Functionality_and_Retrieval-Augmented_Generation_Large_Language_Model_(RAG-LLM)_AI_Chatbots_in_Information-Seeking_Tasks.md)
-
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
     - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
@@ -217,10 +213,6 @@
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
 2024年10月16日
-
-- [Agent Skill Acquisition for Large Language Models via CycleQD](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
-
-    - [翻译: 利用 CycleQD 提升大型语言模型的代理技能](2024年10月16日/Agent_Skill_Acquisition_for_Large_Language_Models_via_CycleQD.md)
 
 - [Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention](2024年10月16日/Bridging_the_Language_Gaps_in_Large_Language_Models_with_Inference-Time_Cross-Lingual_Intervention.md)
 
@@ -274,10 +266,6 @@
 
 2024年10月14日
 
-- [$α$-DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
-
-    - [翻译: $α$-DPO：自适应奖励边际，正是直接偏好优化所需的关键。](2024年10月14日/$α$-DPO_Adaptive_Reward_Margin_is_What_Direct_Preference_Optimization_Needs.md)
-
 - [Audio Captioning via Generative Pair-to-Pair Retrieval with Refined Knowledge Base](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
     - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
@@ -305,10 +293,6 @@
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
     - [翻译: 迈向由 LLM 引导的高效且可解释的多线性张量网络秩选择](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
-
-- [Will LLMs Replace the Encoder-Only Models in Temporal Relation Classification?](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
-
-    - [翻译: 大型语言模型（LLMs）是否将取代仅编码器模型，成为时间关系分类的新宠？](2024年10月14日/Will_LLMs_Replace_the_Encoder-Only_Models_in_Temporal_Relation_Classification.md)
 
 2024年10月12日
 
