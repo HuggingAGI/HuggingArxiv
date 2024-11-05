@@ -1,11 +1,5 @@
 # 2024年10月
 
-2024年10月31日
-
-- [Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs](2024年10月31日/Plan-on-Graph_Self-Correcting_Adaptive_Planning_of_Large_Language_Model_on_Knowledge_Graphs.md)
-
-    - [翻译: 图上规划：大型语言模型在知识图谱上的自校正自适应规划](2024年10月31日/Plan-on-Graph_Self-Correcting_Adaptive_Planning_of_Large_Language_Model_on_Knowledge_Graphs.md)
-
 2024年10月30日
 
 - [Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
@@ -113,10 +107,6 @@
     - [翻译: AutoFPDesigner：利用多智能体大型语言模型实现飞行程序的自动化设计](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
 2024年10月18日
-
-- [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
-
-    - [翻译: AI检测器靠谱吗？一份关于机器生成文本数据集质量的调查报告](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
 
 - [Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement](2024年10月18日/Beyond_Binary_Towards_Fine-Grained_LLM-Generated_Text_Detection_via_Role_Recognition_and_Involvement_Measurement.md)
 
