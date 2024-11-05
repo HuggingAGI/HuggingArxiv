@@ -20,19 +20,9 @@
 
 2024年10月25日
 
-- [A prescriptive theory for brain-like inference](2024年10月25日/A_prescriptive_theory_for_brain-like_inference.md)
-
-    - [翻译: 一种类似大脑推理的规范性理论](2024年10月25日/A_prescriptive_theory_for_brain-like_inference.md)
-
 - [Lee-Yang-zero ratios for locating a critical point](2024年10月25日/Lee-Yang-zero_ratios_for_locating_a_critical_point.md)
 
     - [翻译: 用于定位临界点的李-杨-零比率](2024年10月25日/Lee-Yang-zero_ratios_for_locating_a_critical_point.md)
-
-2024年10月24日
-
-- [Mixture of Parrots: Experts improve memorization more than reasoning](2024年10月24日/Mixture_of_Parrots_Experts_improve_memorization_more_than_reasoning.md)
-
-    - [翻译: 混合鹦鹉：专家在记忆方面的改进多于推理方面。](2024年10月24日/Mixture_of_Parrots_Experts_improve_memorization_more_than_reasoning.md)
 
 2024年10月23日
 
@@ -193,10 +183,6 @@
 - [FlatQuant: Flatness Matters for LLM Quantization](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
     - [翻译: FlatQuant：平坦性在 LLM 量化中举足轻重](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
-
-- [Reconstructive Visual Instruction Tuning](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
-
-    - [翻译: 视觉指令的重构调整](2024年10月12日/Reconstructive_Visual_Instruction_Tuning.md)
 
 2024年10月11日
 
