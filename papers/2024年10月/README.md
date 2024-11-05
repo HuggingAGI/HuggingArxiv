@@ -1,5 +1,11 @@
 # 2024年10月
 
+2024年10月31日
+
+- [Weight decay induces low-rank attention layers](2024年10月31日/Weight_decay_induces_low-rank_attention_layers.md)
+
+    - [翻译: 权重衰减导致低秩注意力层](2024年10月31日/Weight_decay_induces_low-rank_attention_layers.md)
+
 2024年10月28日
 
 - [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
