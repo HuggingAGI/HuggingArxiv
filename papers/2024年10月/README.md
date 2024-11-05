@@ -6,10 +6,6 @@
 
     - [翻译: AutoBench-V：大型视觉语言模型能够自我评估吗？](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
 
-- [Belief in the Machine: Investigating Epistemological Blind Spots of Language Models](2024年10月28日/Belief_in_the_Machine_Investigating_Epistemological_Blind_Spots_of_Language_Models.md)
-
-    - [翻译: 对机器的信任：调查语言模型的认识论盲点](2024年10月28日/Belief_in_the_Machine_Investigating_Epistemological_Blind_Spots_of_Language_Models.md)
-
 - [CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
@@ -85,10 +81,6 @@
     - [翻译: 揭秘大型语言模型生成的文本：多层次细粒度检测框架](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
 
 2024年10月17日
-
-- [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
-
-    - [翻译: 微调语言模型于多数据集，精准分类引用意图](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
 
@@ -171,9 +163,3 @@
 - [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
 
     - [翻译: IGNN-Solver：专为隐式图神经网络设计的图神经求解器](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
-
-2024年10月09日
-
-- [Pixtral 12B](2024年10月09日/Pixtral_12B.md)
-
-    - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
