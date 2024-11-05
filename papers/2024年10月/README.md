@@ -64,10 +64,6 @@
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
-- [Improve Vision Language Model Chain-of-thought Reasoning](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
-
-    - [翻译: 改进视觉语言模型的思维链推理](2024年10月21日/Improve_Vision_Language_Model_Chain-of-thought_Reasoning.md)
-
 - [Revealing and Mitigating the Local Pattern Shortcuts of Mamba](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
     - [翻译: 揭秘并缓解 Mamba 的局部模式捷径](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
@@ -75,12 +71,6 @@
 - [SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
 
     - [翻译: SMILES-Prompting：化学合成领域中，破解 LLM 的新颖策略](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
-
-2024年10月20日
-
-- [The Best Defense is a Good Offense: Countering LLM-Powered Cyberattacks](2024年10月20日/The_Best_Defense_is_a_Good_Offense_Countering_LLM-Powered_Cyberattacks.md)
-
-    - [翻译: 以攻为守：应对大型语言模型驱动的网络攻击](2024年10月20日/The_Best_Defense_is_a_Good_Offense_Countering_LLM-Powered_Cyberattacks.md)
 
 2024年10月19日
 
@@ -153,10 +143,6 @@
 - [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
     - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
-
-- [PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking](2024年10月16日/PRefLexOR_Preference-based_Recursive_Language_Modeling_for_Exploratory_Optimization_of_Reasoning_and_Agentic_Thinking.md)
-
-    - [翻译: PRefLexOR：基于偏好的递归语言建模，旨在探索性优化推理与代理思维](2024年10月16日/PRefLexOR_Preference-based_Recursive_Language_Modeling_for_Exploratory_Optimization_of_Reasoning_and_Agentic_Thinking.md)
 
 - [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
