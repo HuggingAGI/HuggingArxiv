@@ -1,11 +1,5 @@
 # 2024年10月
 
-2024年10月30日
-
-- [Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
-
-    - [翻译: 通过尝试来接地：具有强化学习增强检索功能的大型语言模型](2024年10月30日/Grounding_by_Trying_LLMs_with_Reinforcement_Learning-Enhanced_Retrieval.md)
-
 2024年10月28日
 
 - [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
@@ -61,10 +55,6 @@
 - [Alchemy: Amplifying Theorem-Proving Capability through Symbolic Mutation](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
 
     - [翻译: 炼金术：借助符号变异，提升定理证明的威力](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
-
-- [Analysing the Residual Stream of Language Models Under Knowledge Conflicts](2024年10月21日/Analysing_the_Residual_Stream_of_Language_Models_Under_Knowledge_Conflicts.md)
-
-    - [翻译: 探究语言模型在知识冲突中的残差流表现](2024年10月21日/Analysing_the_Residual_Stream_of_Language_Models_Under_Knowledge_Conflicts.md)
 
 - [Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
 
@@ -128,10 +118,6 @@
 
     - [翻译: Nova：通过迭代规划与搜索，提升 LLM 生成创意的新颖性与多样性](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
 
-- [Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
-
-    - [翻译: 探索基于 LLM 的个性化多源会议摘要，揭示你需要了解的关键信息。](2024年10月18日/Tell_me_what_I_need_to_know_Exploring_LLM-based_(Personalized)_Abstractive_Multi-Source_Meeting_Summarization.md)
-
 - [TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling](2024年10月18日/TreeBoN_Enhancing_Inference-Time_Alignment_with_Speculative_Tree-Search_and_Best-of-N_Sampling.md)
 
     - [翻译: TreeBoN：借助推测性树搜索与最佳 N 采样，提升推理时的对齐效果](2024年10月18日/TreeBoN_Enhancing_Inference-Time_Alignment_with_Speculative_Tree-Search_and_Best-of-N_Sampling.md)
@@ -145,10 +131,6 @@
 - [An Active Learning Framework for Inclusive Generation by Large Language Models](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
 
     - [翻译: 大型语言模型包容性生成的主动学习框架](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
-
-- [AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
-
-    - [翻译: AsymKV：利用层级不对称量化配置，实现 KV Cache 的 1-Bit 量化。](2024年10月17日/AsymKV_Enabling_1-Bit_Quantization_of_KV_Cache_with_Layer-Wise_Asymmetric_Quantization_Configurations.md)
 
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
