@@ -46,10 +46,6 @@
 
     - [翻译: 炼金术：借助符号变异，提升定理证明的威力](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
 
-- [Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
-
-    - [翻译: 不仅仅是过滤：自适应图像与文本质量提升，助力多模态语言模型预训练](2024年10月21日/Beyond_Filtering_Adaptive_Image-Text_Quality_Enhancement_for_MLLM_Pretraining.md)
-
 - [Deep Learning and Data Augmentation for Detecting Self-Admitted Technical Debt](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
@@ -62,17 +58,7 @@
 
     - [翻译: SMILES-Prompting：化学合成领域中，破解 LLM 的新颖策略](2024年10月21日/SMILES-Prompting_A_Novel_Approach_to_LLM_Jailbreak_Attacks_in_Chemical_Synthesis.md)
 
-2024年10月19日
-
-- [A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
-
-    - [翻译: 开放学生学习环境中的双融合认知诊断框架](2024年10月19日/A_Dual-Fusion_Cognitive_Diagnosis_Framework_for_Open_Student_Learning_Environments.md)
-
 2024年10月18日
-
-- [Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement](2024年10月18日/Beyond_Binary_Towards_Fine-Grained_LLM-Generated_Text_Detection_via_Role_Recognition_and_Involvement_Measurement.md)
-
-    - [翻译: 超越二元对立，通过角色识别与参与度测量，实现对 LLM 生成文本的精细检测。](2024年10月18日/Beyond_Binary_Towards_Fine-Grained_LLM-Generated_Text_Detection_via_Role_Recognition_and_Involvement_Measurement.md)
 
 - [CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
 
@@ -99,10 +85,6 @@
     - [翻译: 揭秘大型语言模型生成的文本：多层次细粒度检测框架](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
 
 2024年10月17日
-
-- [An Active Learning Framework for Inclusive Generation by Large Language Models](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型包容性生成的主动学习框架](2024年10月17日/An_Active_Learning_Framework_for_Inclusive_Generation_by_Large_Language_Models.md)
 
 - [Fine-Tuning Language Models on Multiple Datasets for Citation Intention Classification](2024年10月17日/Fine-Tuning_Language_Models_on_Multiple_Datasets_for_Citation_Intention_Classification.md)
 
