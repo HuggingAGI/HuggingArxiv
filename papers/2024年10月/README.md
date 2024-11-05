@@ -162,10 +162,6 @@
 
     - [翻译: DocETL：复杂文档处理中的智能查询重写与评估](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
 
-- [Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
-
-    - [翻译: 指导性代码检索器：借助大型语言模型的反馈，提升代码智能任务的表现](2024年10月15日/Instructive_Code_Retriever_Learn_from_Large_Language_Model's_Feedback_for_Code_Intelligence_Tasks.md)
-
 - [LargePiG: Your Large Language Model is Secretly a Pointer Generator](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
@@ -213,9 +209,3 @@
 - [Pixtral 12B](2024年10月09日/Pixtral_12B.md)
 
     - [翻译: Pixtral 12B](2024年10月09日/Pixtral_12B.md)
-
-2024年10月06日
-
-- [SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
-
-    - [翻译: SouLLMate：一款自适应的 LLM 驱动系统，专为高级心理健康支持和评估设计，基于系统的应用调查。](2024年10月06日/SouLLMate_An_Adaptive_LLM-Driven_System_for_Advanced_Mental_Health_Support_and_Assessment,_Based_on_a_Systematic_Application_Survey.md)
