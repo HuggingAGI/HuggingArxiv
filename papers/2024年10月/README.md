@@ -50,10 +50,6 @@
 
     - [翻译: 混合鹦鹉：专家在记忆方面的改进多于推理方面。](2024年10月24日/Mixture_of_Parrots_Experts_improve_memorization_more_than_reasoning.md)
 
-- [SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: SafeBench：多模态大型语言模型的安全评估框架](2024年10月24日/SafeBench_A_Safety_Evaluation_Framework_for_Multimodal_Large_Language_Models.md)
-
 2024年10月23日
 
 - [Blendify -- Python rendering framework for Blender](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
@@ -124,19 +120,11 @@
 
     - [翻译: AutoFPDesigner：利用多智能体大型语言模型实现飞行程序的自动化设计](2024年10月19日/AutoFPDesigner_Automated_Flight_Procedure_Design_Based_on_Multi-Agent_Large_Language_Model.md)
 
-- [HyQE: Ranking Contexts with Hypothetical Query Embeddings](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
-
-    - [翻译: HyQE：通过假设查询嵌入来排序上下文](2024年10月19日/HyQE_Ranking_Contexts_with_Hypothetical_Query_Embeddings.md)
-
 2024年10月18日
 
 - [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
 
     - [翻译: AI检测器靠谱吗？一份关于机器生成文本数据集质量的调查报告](2024年10月18日/Are_AI_Detectors_Good_Enough_A_Survey_on_Quality_of_Datasets_With_Machine-Generated_Texts.md)
-
-- [A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference](2024年10月18日/A_Systematic_Study_of_Cross-Layer_KV_Sharing_for_Efficient_LLM_Inference.md)
-
-    - [翻译: 系统探讨跨层 KV 共享如何提升 LLM 推理效率](2024年10月18日/A_Systematic_Study_of_Cross-Layer_KV_Sharing_for_Efficient_LLM_Inference.md)
 
 - [Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement](2024年10月18日/Beyond_Binary_Towards_Fine-Grained_LLM-Generated_Text_Detection_via_Role_Recognition_and_Involvement_Measurement.md)
 
@@ -191,10 +179,6 @@
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
 
     - [翻译: MedAide：借助基于 LLM 的专门化多代理协作，迈向全方位医疗助手](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
-
-- [Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](2024年10月17日/Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Summary-Guided_Decoding.md)
-
-    - [翻译: 借助摘要引导解码技术，有效缓解大型视觉语言模型中的幻觉问题。](2024年10月17日/Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Summary-Guided_Decoding.md)
 
 - [MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
