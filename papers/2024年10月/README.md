@@ -158,10 +158,6 @@
 
     - [翻译: 高效测算语言模型的上下文敏感度](2024年10月18日/Efficiently_Computing_Susceptibility_to_Context_in_Language_Models.md)
 
-- [Enhancing Cryptocurrency Market Forecasting: Advanced Machine Learning Techniques and Industrial Engineering Contributions](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
-
-    - [翻译: 提升加密货币市场预测：融合先进机器学习技术与工业工程智慧](2024年10月18日/Enhancing_Cryptocurrency_Market_Forecasting_Advanced_Machine_Learning_Techniques_and_Industrial_Engineering_Contributions.md)
-
 - [Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
 
     - [翻译: Nova：通过迭代规划与搜索，提升 LLM 生成创意的新颖性与多样性](2024年10月18日/Nova_An_Iterative_Planning_and_Search_Approach_to_Enhance_Novelty_and_Diversity_of_LLM_Generated_Ideas.md)
@@ -195,10 +191,6 @@
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
 
     - [翻译: MedAide：借助基于 LLM 的专门化多代理协作，迈向全方位医疗助手](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
-
-- [Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
-
-    - [翻译: 元认知监控：超越生成式AI的人类独特能力](2024年10月17日/Metacognitive_Monitoring_A_Human_Ability_Beyond_Generative_Artificial_Intelligence.md)
 
 - [Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](2024年10月17日/Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_Summary-Guided_Decoding.md)
 
@@ -265,10 +257,6 @@
 - [Audio Captioning via Generative Pair-to-Pair Retrieval with Refined Knowledge Base](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
     - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
-
-- [Beyond-RAG: Question Identification and Answer Generation in Real-Time Conversations](2024年10月14日/Beyond-RAG_Question_Identification_and_Answer_Generation_in_Real-Time_Conversations.md)
-
-    - [翻译: 超越RAG：实时对话中的问题识别与答案生成](2024年10月14日/Beyond-RAG_Question_Identification_and_Answer_Generation_in_Real-Time_Conversations.md)
 
 - [Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
 
