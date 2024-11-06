@@ -1,7 +1,13 @@
 # 2024年10月
 
-2024年10月22日
+2024年10月29日
 
-- [IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing](2024年10月22日/IPL_Leveraging_Multimodal_Large_Language_Models_for_Intelligent_Product_Listing.md)
+- [A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks](2024年10月29日/A_Large_Recurrent_Action_Model_xLSTM_enables_Fast_Inference_for_Robotics_Tasks.md)
 
-    - [翻译: IPL：利用多模态大型语言模型实现智能产品列表](2024年10月22日/IPL_Leveraging_Multimodal_Large_Language_Models_for_Intelligent_Product_Listing.md)
+    - [翻译: 一个大型循环动作模型：xLSTM 能够为机器人任务实现快速推理。](2024年10月29日/A_Large_Recurrent_Action_Model_xLSTM_enables_Fast_Inference_for_Robotics_Tasks.md)
+
+2024年10月03日
+
+- [Diffusion Models are Evolutionary Algorithms](2024年10月03日/Diffusion_Models_are_Evolutionary_Algorithms.md)
+
+    - [翻译: 扩散模型是进化算法。](2024年10月03日/Diffusion_Models_are_Evolutionary_Algorithms.md)

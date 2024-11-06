@@ -1,7 +1,7 @@
 # 2024年11月
 
-2024年11月01日
+2024年11月04日
 
-- [Provenance: A Light-weight Fact-checker for Retrieval Augmented LLM Generation Output](2024年11月01日/Provenance_A_Light-weight_Fact-checker_for_Retrieval_Augmented_LLM_Generation_Output.md)
+- [MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D](2024年11月04日/MVPaint_Synchronized_Multi-View_Diffusion_for_Painting_Anything_3D.md)
 
-    - [翻译: 来源：用于检索增强型 LLM 生成输出的轻量级事实核查器](2024年11月01日/Provenance_A_Light-weight_Fact-checker_for_Retrieval_Augmented_LLM_Generation_Output.md)
+    - [翻译: MVPaint：用于绘制任何 3D 事物的同步多视图扩散](2024年11月04日/MVPaint_Synchronized_Multi-View_Diffusion_for_Painting_Anything_3D.md)
