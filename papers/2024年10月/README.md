@@ -40,10 +40,6 @@
 
 2024年10月21日
 
-- [Alchemy: Amplifying Theorem-Proving Capability through Symbolic Mutation](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
-
-    - [翻译: 炼金术：借助符号变异，提升定理证明的威力](2024年10月21日/Alchemy_Amplifying_Theorem-Proving_Capability_through_Symbolic_Mutation.md)
-
 - [Deep Learning and Data Augmentation for Detecting Self-Admitted Technical Debt](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
 
     - [翻译: 利用深度学习与数据增强技术，精准检测自我承认的技术债务](2024年10月21日/Deep_Learning_and_Data_Augmentation_for_Detecting_Self-Admitted_Technical_Debt.md)
@@ -78,10 +74,6 @@
 
     - [翻译: TreeBoN：借助推测性树搜索与最佳 N 采样，提升推理时的对齐效果](2024年10月18日/TreeBoN_Enhancing_Inference-Time_Alignment_with_Speculative_Tree-Search_and_Best-of-N_Sampling.md)
 
-- [Unveiling Large Language Models Generated Texts: A Multi-Level Fine-Grained Detection Framework](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
-
-    - [翻译: 揭秘大型语言模型生成的文本：多层次细粒度检测框架](2024年10月18日/Unveiling_Large_Language_Models_Generated_Texts_A_Multi-Level_Fine-Grained_Detection_Framework.md)
-
 2024年10月17日
 
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
@@ -101,10 +93,6 @@
 - [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](2024年10月16日/DocLayout-YOLO_Enhancing_Document_Layout_Analysis_through_Diverse_Synthetic_Data_and_Global-to-Local_Adaptive_Perception.md)
 
     - [翻译: DocLayout-YOLO：利用多样化合成数据和全局到局部的自适应感知，提升文档布局分析能力](2024年10月16日/DocLayout-YOLO_Enhancing_Document_Layout_Analysis_through_Diverse_Synthetic_Data_and_Global-to-Local_Adaptive_Perception.md)
-
-- [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
-
-    - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
 - [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
@@ -134,10 +122,6 @@
 
     - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
-- [Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
-
-    - [翻译: 大型语言模型中的文化保真度：探讨在线语言资源如何影响模型在价值表示方面的性能。](2024年10月14日/Cultural_Fidelity_in_Large-Language_Models_An_Evaluation_of_Online_Language_Resources_as_a_Driver_of_Model_Performance_in_Value_Representation.md)
-
 - [Learning Linear Attention in Polynomial Time](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
 
     - [翻译: 在多项式时间内学习线性注意力](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
@@ -145,12 +129,6 @@
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
     - [翻译: 迈向由 LLM 引导的高效且可解释的多线性张量网络秩选择](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
-
-2024年10月12日
-
-- [FlatQuant: Flatness Matters for LLM Quantization](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
-
-    - [翻译: FlatQuant：平坦性在 LLM 量化中举足轻重](2024年10月12日/FlatQuant_Flatness_Matters_for_LLM_Quantization.md)
 
 2024年10月11日
 
