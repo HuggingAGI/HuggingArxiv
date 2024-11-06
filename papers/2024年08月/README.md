@@ -1,11 +1,5 @@
 # 2024年08月
 
-2024年08月29日
-
-- [ECC Analyzer: Extract Trading Signal from Earnings Conference Calls using Large Language Model for Stock Performance Prediction](2024年08月29日/ECC_Analyzer_Extract_Trading_Signal_from_Earnings_Conference_Calls_using_Large_Language_Model_for_Stock_Performance_Prediction.md)
-
-    - [翻译: ECC分析器：利用大型语言模型分析收益电话会议，从中提取交易信号，以预测股票市场表现。](2024年08月29日/ECC_Analyzer_Extract_Trading_Signal_from_Earnings_Conference_Calls_using_Large_Language_Model_for_Stock_Performance_Prediction.md)
-
 2024年08月05日
 
 - [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](2024年08月05日/A_Framework_for_Fine-Tuning_LLMs_using_Heterogeneous_Feedback.md)
