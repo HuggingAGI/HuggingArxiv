@@ -22,6 +22,12 @@
 
     - [翻译: 因子差异-in-差异法](2024年07月16日/Factorial_Difference-in-Differences.md)
 
+2024年07月11日
+
+- [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](2024年07月11日/RAGAR,_Your_Falsehood_Radar_RAG-Augmented_Reasoning_for_Political_Fact-Checking_using_Multimodal_Large_Language_Models.md)
+
+    - [翻译: RAGAR——您的虚假信息侦测雷达：通过增强的 RAG（Retrieval-Augmented Generation）推理，利用多模态大型语言模型进行政治事实核查。](2024年07月11日/RAGAR,_Your_Falsehood_Radar_RAG-Augmented_Reasoning_for_Political_Fact-Checking_using_Multimodal_Large_Language_Models.md)
+
 2024年07月09日
 
 - [Navigating Complexity: Orchestrated Problem Solving with Multi-Agent LLMs](2024年07月09日/Navigating_Complexity_Orchestrated_Problem_Solving_with_Multi-Agent_LLMs.md)

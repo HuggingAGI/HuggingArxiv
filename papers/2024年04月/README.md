@@ -268,10 +268,6 @@
 
     - [翻译: DPO 邂逅 PPO：在强化学习框架下，为人类偏好的令牌优化注入动力](2024年04月29日/DPO_Meets_PPO_Reinforced_Token_Optimization_for_RLHF.md)
 
-- [ECC Analyzer: Extract Trading Signal from Earnings Conference Calls using Large Language Model for Stock Performance Prediction](2024年04月29日/ECC_Analyzer_Extract_Trading_Signal_from_Earnings_Conference_Calls_using_Large_Language_Model_for_Stock_Performance_Prediction.md)
-
-    - [翻译: ECC分析器：利用大型语言模型分析收益电话会议，从中提取交易信号，以预测股票市场表现。](2024年04月29日/ECC_Analyzer_Extract_Trading_Signal_from_Earnings_Conference_Calls_using_Large_Language_Model_for_Stock_Performance_Prediction.md)
-
 - [Efficiency-Effectiveness Tradeoff of Probabilistic Structured Queries for Cross-Language Information Retrieval](2024年04月29日/Efficiency-Effectiveness_Tradeoff_of_Probabilistic_Structured_Queries_for_Cross-Language_Information_Retrieval.md)
 
     - [翻译: 在跨语言信息检索领域，概率结构化查询的效率与效果之间存在一种权衡。](2024年04月29日/Efficiency-Effectiveness_Tradeoff_of_Probabilistic_Structured_Queries_for_Cross-Language_Information_Retrieval.md)
@@ -1589,10 +1585,6 @@
 - [Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent](2024年04月18日/Octopus_v3_Technical_Report_for_On-device_Sub-billion_Multimodal_AI_Agent.md)
 
     - [翻译: 章鱼 v3：设备端亿级以下多模态人工智能代理技术报告](2024年04月18日/Octopus_v3_Technical_Report_for_On-device_Sub-billion_Multimodal_AI_Agent.md)
-
-- [RAGAR, Your Falsehood RADAR: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](2024年04月18日/RAGAR,_Your_Falsehood_RADAR_RAG-Augmented_Reasoning_for_Political_Fact-Checking_using_Multimodal_Large_Language_Models.md)
-
-    - [翻译: RAGAR——您的虚假信息侦测雷达：通过增强的 RAG（Retrieval-Augmented Generation）推理，利用多模态大型语言模型进行政治事实核查。](2024年04月18日/RAGAR,_Your_Falsehood_RADAR_RAG-Augmented_Reasoning_for_Political_Fact-Checking_using_Multimodal_Large_Language_Models.md)
 
 - [Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement](2024年04月18日/Self-Polish_Enhance_Reasoning_in_Large_Language_Models_via_Problem_Refinement.md)
 

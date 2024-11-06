@@ -1,29 +1,7 @@
 # 2024年10月
 
-2024年10月31日
+2024年10月22日
 
-- [Weight decay induces low-rank attention layers](2024年10月31日/Weight_decay_induces_low-rank_attention_layers.md)
+- [IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing](2024年10月22日/IPL_Leveraging_Multimodal_Large_Language_Models_for_Intelligent_Product_Listing.md)
 
-    - [翻译: 权重衰减导致低秩注意力层](2024年10月31日/Weight_decay_induces_low-rank_attention_layers.md)
-
-2024年10月21日
-
-- [Revealing and Mitigating the Local Pattern Shortcuts of Mamba](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
-
-    - [翻译: 揭秘并缓解 Mamba 的局部模式捷径](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
-
-2024年10月18日
-
-- [E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
-
-    - [翻译: E3D-GPT：为医疗视觉-语言模型打造的增强版 3D 视觉基础](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
-
-- [TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling](2024年10月18日/TreeBoN_Enhancing_Inference-Time_Alignment_with_Speculative_Tree-Search_and_Best-of-N_Sampling.md)
-
-    - [翻译: TreeBoN：借助推测性树搜索与最佳 N 采样，提升推理时的对齐效果](2024年10月18日/TreeBoN_Enhancing_Inference-Time_Alignment_with_Speculative_Tree-Search_and_Best-of-N_Sampling.md)
-
-2024年10月17日
-
-- [MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
-
-    - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
+    - [翻译: IPL：利用多模态大型语言模型实现智能产品列表](2024年10月22日/IPL_Leveraging_Multimodal_Large_Language_Models_for_Intelligent_Product_Listing.md)
