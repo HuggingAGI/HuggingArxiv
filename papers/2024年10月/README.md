@@ -24,10 +24,6 @@
 
     - [翻译: Blendify -- 用于 Blender 的 Python 渲染框架](2024年10月23日/Blendify_--_Python_rendering_framework_for_Blender.md)
 
-- [Position-Aided Semantic Communication for Efficient Image Transmission: Design, Implementation, and Experimental Results](2024年10月23日/Position-Aided_Semantic_Communication_for_Efficient_Image_Transmission_Design,_Implementation,_and_Experimental_Results.md)
-
-    - [翻译: 用于高效图像传输的位置辅助语义通信：设计、实现和实验结果](2024年10月23日/Position-Aided_Semantic_Communication_for_Efficient_Image_Transmission_Design,_Implementation,_and_Experimental_Results.md)
-
 2024年10月22日
 
 - [Can Large Language Models Act as Ensembler for Multi-GNNs?](2024年10月22日/Can_Large_Language_Models_Act_as_Ensembler_for_Multi-GNNs.md)
@@ -108,19 +104,11 @@
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
-- [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
-
-    - [翻译: SGEdit：融合 LLM 与 Text2Image 生成模型，实现基于场景图的图像编辑](2024年10月15日/SGEdit_Bridging_LLM_with_Text2Image_Generative_Model_for_Scene_Graph-based_Image_Editing.md)
-
 2024年10月14日
 
 - [Audio Captioning via Generative Pair-to-Pair Retrieval with Refined Knowledge Base](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
     - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
-
-- [Learning Linear Attention in Polynomial Time](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
-
-    - [翻译: 在多项式时间内学习线性注意力](2024年10月14日/Learning_Linear_Attention_in_Polynomial_Time.md)
 
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
