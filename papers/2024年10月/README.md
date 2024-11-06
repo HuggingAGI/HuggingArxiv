@@ -6,12 +6,6 @@
 
     - [翻译: 权重衰减导致低秩注意力层](2024年10月31日/Weight_decay_induces_low-rank_attention_layers.md)
 
-2024年10月28日
-
-- [CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
-
-    - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
-
 2024年10月21日
 
 - [Revealing and Mitigating the Local Pattern Shortcuts of Mamba](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
@@ -19,10 +13,6 @@
     - [翻译: 揭秘并缓解 Mamba 的局部模式捷径](2024年10月21日/Revealing_and_Mitigating_the_Local_Pattern_Shortcuts_of_Mamba.md)
 
 2024年10月18日
-
-- [CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
-
-    - [翻译: CoMAL：混合自主交通中的协作多智能体大型语言模型](2024年10月18日/CoMAL_Collaborative_Multi-Agent_Large_Language_Models_for_Mixed-Autonomy_Traffic.md)
 
 - [E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model](2024年10月18日/E3D-GPT_Enhanced_3D_Visual_Foundation_for_Medical_Vision-Language_Model.md)
 
