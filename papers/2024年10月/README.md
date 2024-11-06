@@ -8,10 +8,6 @@
 
 2024年10月28日
 
-- [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
-
-    - [翻译: AutoBench-V：大型视觉语言模型能够自我评估吗？](2024年10月28日/AutoBench-V_Can_Large_Vision-Language_Models_Benchmark_Themselves.md)
-
 - [CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
@@ -109,10 +105,6 @@
 - [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
 
     - [翻译: FTII-Bench：一款全面的多模态基准，专为插入图像的流文本设计](2024年10月16日/FTII-Bench_A_Comprehensive_Multimodal_Benchmark_for_Flow_Text_with_Image_Insertion.md)
-
-- [On the Utility of Domain Modeling Assistance with Large Language Models](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
-
-    - [翻译: 探讨大型语言模型在领域建模中的辅助作用](2024年10月16日/On_the_Utility_of_Domain_Modeling_Assistance_with_Large_Language_Models.md)
 
 - [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
