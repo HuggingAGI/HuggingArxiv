@@ -27,15 +27,3 @@
 - [MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
-
-2024年10月16日
-
-- [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
-
-    - [翻译: 在数据稀缺的情况下，REFINE 通过嵌入模型的融合微调，实现了检索能力的增强。](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
-
-2024年10月15日
-
-- [LargePiG: Your Large Language Model is Secretly a Pointer Generator](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
-
-    - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
