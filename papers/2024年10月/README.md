@@ -12,10 +12,6 @@
 
     - [翻译: CTINEXUS：利用优化的大型语言模型的上下文学习在数据稀缺的情况下构建网络安全知识图谱](2024年10月28日/CTINEXUS_Leveraging_Optimized_LLM_In-Context_Learning_for_Constructing_Cybersecurity_Knowledge_Graphs_Under_Data_Scarcity.md)
 
-- [LLM-initialized Differentiable Causal Discovery](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
-
-    - [翻译: LLM 初始化的可微因果发现](2024年10月28日/LLM-initialized_Differentiable_Causal_Discovery.md)
-
 2024年10月25日
 
 - [Lee-Yang-zero ratios for locating a critical point](2024年10月25日/Lee-Yang-zero_ratios_for_locating_a_critical_point.md)
@@ -129,9 +125,3 @@
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
     - [翻译: 迈向由 LLM 引导的高效且可解释的多线性张量网络秩选择](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
-
-2024年10月11日
-
-- [IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
-
-    - [翻译: IGNN-Solver：专为隐式图神经网络设计的图神经求解器](2024年10月11日/IGNN-Solver_A_Graph_Neural_Solver_for_Implicit_Graph_Neural_Networks.md)
