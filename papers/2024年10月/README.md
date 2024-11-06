@@ -54,19 +54,11 @@
 
 2024年10月17日
 
-- [MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
-
-    - [翻译: MedAide：借助基于 LLM 的专门化多代理协作，迈向全方位医疗助手](2024年10月17日/MedAide_Towards_an_Omni_Medical_Aide_via_Specialized_LLM-based_Multi-Agent_Collaboration.md)
-
 - [MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
     - [翻译: MoD：探索多模态大型语言模型的深度混合适应策略](2024年10月17日/MoD_Exploring_Mixture-of-Depth_Adaptation_for_Multimodal_Large_Language_Models.md)
 
 2024年10月16日
-
-- [Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention](2024年10月16日/Bridging_the_Language_Gaps_in_Large_Language_Models_with_Inference-Time_Cross-Lingual_Intervention.md)
-
-    - [翻译: 通过推理时的跨语言干预，弥合大型语言模型中的语言鸿沟](2024年10月16日/Bridging_the_Language_Gaps_in_Large_Language_Models_with_Inference-Time_Cross-Lingual_Intervention.md)
 
 - [REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models](2024年10月16日/REFINE_on_Scarce_Data_Retrieval_Enhancement_through_Fine-Tuning_via_Model_Fusion_of_Embedding_Models.md)
 
@@ -74,23 +66,11 @@
 
 2024年10月15日
 
-- [Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
-
-    - [翻译: 破解混沌：利用对抗性提示翻译提升越狱攻击效果](2024年10月15日/Deciphering_the_Chaos_Enhancing_Jailbreak_Attacks_via_Adversarial_Prompt_Translation.md)
-
-- [DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
-
-    - [翻译: DocETL：复杂文档处理中的智能查询重写与评估](2024年10月15日/DocETL_Agentic_Query_Rewriting_and_Evaluation_for_Complex_Document_Processing.md)
-
 - [LargePiG: Your Large Language Model is Secretly a Pointer Generator](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
     - [翻译: LargePiG：你的大型语言模型其实是个隐藏的指针生成器](2024年10月15日/LargePiG_Your_Large_Language_Model_is_Secretly_a_Pointer_Generator.md)
 
 2024年10月14日
-
-- [Audio Captioning via Generative Pair-to-Pair Retrieval with Refined Knowledge Base](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
-
-    - [翻译: 音频描述：基于精炼知识库的生成式配对检索](2024年10月14日/Audio_Captioning_via_Generative_Pair-to-Pair_Retrieval_with_Refined_Knowledge_Base.md)
 
 - [Towards LLM-guided Efficient and Interpretable Multi-linear Tensor Network Rank Selection](2024年10月14日/Towards_LLM-guided_Efficient_and_Interpretable_Multi-linear_Tensor_Network_Rank_Selection.md)
 
