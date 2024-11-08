@@ -140,6 +140,10 @@
 
 2024年02月06日
 
+- [Denoising Diffusion Probabilistic Models in Six Simple Steps](2024年02月06日/Denoising_Diffusion_Probabilistic_Models_in_Six_Simple_Steps.md)
+
+    - [翻译: 去噪扩散概率模型的六个简单步骤](2024年02月06日/Denoising_Diffusion_Probabilistic_Models_in_Six_Simple_Steps.md)
+
 - [MR-GSM8K: A Meta-Reasoning Revolution in Large Language Model Evaluation](2024年02月06日/MR-GSM8K_A_Meta-Reasoning_Revolution_in_Large_Language_Model_Evaluation.md)
 
     - [翻译: MR-GSM8K：引领大型语言模型评估领域的元推理革新。](2024年02月06日/MR-GSM8K_A_Meta-Reasoning_Revolution_in_Large_Language_Model_Evaluation.md)
