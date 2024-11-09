@@ -1,7 +1,13 @@
 # 2024年10月
 
-2024年10月17日
+2024年10月31日
 
-- [VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding](2024年10月17日/VLM-Grounder_A_VLM_Agent_for_Zero-Shot_3D_Visual_Grounding.md)
+- [Understanding Optimization in Deep Learning with Central Flows](2024年10月31日/Understanding_Optimization_in_Deep_Learning_with_Central_Flows.md)
 
-    - [翻译: VLM-Grounder：用于零样本 3D 视觉定位的 VLM 代理](2024年10月17日/VLM-Grounder_A_VLM_Agent_for_Zero-Shot_3D_Visual_Grounding.md)
+    - [翻译: 理解深度学习中具有中心流的优化](2024年10月31日/Understanding_Optimization_in_Deep_Learning_with_Central_Flows.md)
+
+2024年10月27日
+
+- [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](2024年10月27日/AutoKaggle_A_Multi-Agent_Framework_for_Autonomous_Data_Science_Competitions.md)
+
+    - [翻译: AutoKaggle：用于自主数据科学竞赛的多智能体框架](2024年10月27日/AutoKaggle_A_Multi-Agent_Framework_for_Autonomous_Data_Science_Competitions.md)
