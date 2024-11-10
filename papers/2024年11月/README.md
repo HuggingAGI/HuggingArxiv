@@ -172,6 +172,10 @@
 
     - [翻译: 通过语言模型实现探索性蛋白质组学研究的自动化](2024年11月06日/Automating_Exploratory_Proteomics_Research_via_Language_Models.md)
 
+- [Bayesian Calibration of Win Rate Estimation with LLM Evaluators](2024年11月06日/Bayesian_Calibration_of_Win_Rate_Estimation_with_LLM_Evaluators.md)
+
+    - [翻译: 贝叶斯校准具有 LLM 评估器的胜率估计](2024年11月06日/Bayesian_Calibration_of_Win_Rate_Estimation_with_LLM_Evaluators.md)
+
 - [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
 
     - [翻译: 使用动态 VQA 数据集和自适应规划代理对多模态检索增强生成进行基准测试](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
@@ -236,6 +240,10 @@
 
     - [翻译: NeurIPS 2023 竞赛：保护隐私的联邦学习文档 VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
 
+- [One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
+
+    - [翻译: 一条鱼，两条鱼，但不是整个海洋：对齐降低了语言模型的概念多样性](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
+
 - [Polynomial Composition Activations: Unleashing the Dynamics of Large Language Models](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
 
     - [翻译: 多项式组合激活：释放大型语言模型的动态](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
@@ -247,6 +255,18 @@
 - [Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
 
     - [翻译: 利用低秩适应的贝叶斯重新参数化对大型语言模型进行稳健且高效的微调](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
+
+- [Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
+
+    - [翻译: 用于开放词汇运动生成的文本分解然后子运动空间散射](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
+
+- [The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
+
+    - [翻译: 根塑造果实：关于对齐语言模型中性别排他性危害的持续性](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
+
+- [Unlearning in- vs. out-of-distribution data in LLMs under gradient-based method](2024年11月06日/Unlearning_in-_vs._out-of-distribution_data_in_LLMs_under_gradient-based_method.md)
+
+    - [翻译: 在基于梯度的方法下，大型语言模型中分布内与分布外数据的遗忘](2024年11月06日/Unlearning_in-_vs._out-of-distribution_data_in_LLMs_under_gradient-based_method.md)
 
 - [VQA$^2$:Visual Question Answering for Video Quality Assessment](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
 
