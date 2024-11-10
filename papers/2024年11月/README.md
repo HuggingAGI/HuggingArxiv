@@ -188,6 +188,10 @@
 
     - [翻译: 细粒度的检索器指导：在检索增强生成中利用大型语言模型的反馈](2024年11月06日/Fine-Grained_Guidance_for_Retrievers_Leveraging_LLMs'_Feedback_in_Retrieval-Augmented_Generation.md)
 
+- [From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](2024年11月06日/From_Novice_to_Expert_LLM_Agent_Policy_Optimization_via_Step-wise_Reinforcement_Learning.md)
+
+    - [翻译: 从新手到专家：通过逐步强化学习实现 LLM 代理策略优化](2024年11月06日/From_Novice_to_Expert_LLM_Agent_Policy_Optimization_via_Step-wise_Reinforcement_Learning.md)
+
 - [LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
 
     - [翻译: LidaRefer：使用 Transformer 实现自动驾驶的户外 3D 视觉定位](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
@@ -215,6 +219,10 @@
 - [Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
 
     - [翻译: 利用低秩适应的贝叶斯重新参数化对大型语言模型进行稳健且高效的微调](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
+
+- [VQA$^2$:Visual Question Answering for Video Quality Assessment](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
+
+    - [翻译: VQA$^2$:用于视频质量评估的视觉问答](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
 
 2024年11月04日
 
