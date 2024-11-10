@@ -204,6 +204,10 @@
 
     - [翻译: DELIFT：数据高效语言模型指令微调](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
 
+- [DesignMinds: Enhancing Video-Based Design Ideation with Vision-Language Model and Context-Injected Large Language Model](2024年11月06日/DesignMinds_Enhancing_Video-Based_Design_Ideation_with_Vision-Language_Model_and_Context-Injected_Large_Language_Model.md)
+
+    - [翻译: DesignMinds：使用视觉语言模型和上下文注入的大型语言模型增强基于视频的设计构思](2024年11月06日/DesignMinds_Enhancing_Video-Based_Design_Ideation_with_Vision-Language_Model_and_Context-Injected_Large_Language_Model.md)
+
 - [Enhancing classroom teaching with LLMs and RAG](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
 
     - [翻译: 用大型语言模型和检索增强生成改善课堂教学](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
@@ -264,6 +268,10 @@
 
     - [翻译: NeurIPS 2023 竞赛：保护隐私的联邦学习文档 VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
 
+- [Number Cookbook: Number Understanding of Language Models and How to Improve It](2024年11月06日/Number_Cookbook_Number_Understanding_of_Language_Models_and_How_to_Improve_It.md)
+
+    - [翻译: 《数字食谱：语言模型的数字理解以及如何改进它》](2024年11月06日/Number_Cookbook_Number_Understanding_of_Language_Models_and_How_to_Improve_It.md)
+
 - [One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
 
     - [翻译: 一条鱼，两条鱼，但不是整个海洋：对齐降低了语言模型的概念多样性](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
@@ -291,6 +299,10 @@
 - [The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
 
     - [翻译: 根塑造果实：关于对齐语言模型中性别排他性危害的持续性](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
+
+- [TrajGPT: Controlled Synthetic Trajectory Generation Using a Multitask Transformer-Based Spatiotemporal Model](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
+
+    - [翻译: TrajGPT：使用基于多任务 Transformer 的时空模型进行受控的合成轨迹生成](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
 
 - [Unfair Alignment: Examining Safety Alignment Across Vision Encoder Layers in Vision-Language Models](2024年11月06日/Unfair_Alignment_Examining_Safety_Alignment_Across_Vision_Encoder_Layers_in_Vision-Language_Models.md)
 
