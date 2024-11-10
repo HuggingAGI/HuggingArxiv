@@ -172,6 +172,10 @@
 
     - [翻译: 使用动态 VQA 数据集和自适应规划代理对多模态检索增强生成进行基准测试](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
 
+- [Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
+
+    - [翻译: Bio-xLSTM：生物和化学序列的生成建模、表示和上下文学习](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
+
 - [Enhancing classroom teaching with LLMs and RAG](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
 
     - [翻译: 用大型语言模型和检索增强生成改善课堂教学](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
@@ -179,6 +183,10 @@
 - [Evaluation data contamination in LLMs: how do we measure it and (when) does it matter?](2024年11月06日/Evaluation_data_contamination_in_LLMs_how_do_we_measure_it_and_(when)_does_it_matter.md)
 
     - [翻译: 大型语言模型中的评估数据污染：我们如何测量它以及（何时）它重要？](2024年11月06日/Evaluation_data_contamination_in_LLMs_how_do_we_measure_it_and_(when)_does_it_matter.md)
+
+- [Fine-Grained Guidance for Retrievers: Leveraging LLMs' Feedback in Retrieval-Augmented Generation](2024年11月06日/Fine-Grained_Guidance_for_Retrievers_Leveraging_LLMs'_Feedback_in_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 细粒度的检索器指导：在检索增强生成中利用大型语言模型的反馈](2024年11月06日/Fine-Grained_Guidance_for_Retrievers_Leveraging_LLMs'_Feedback_in_Retrieval-Augmented_Generation.md)
 
 - [LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
 
@@ -188,6 +196,10 @@
 
     - [翻译: MEG：用于问答的医学知识增强型大型语言模型](2024年11月06日/MEG_Medical_Knowledge-Augmented_Large_Language_Models_for_Question_Answering.md)
 
+- [Multi-Modal Intelligent Channel Modeling: A New Modeling Paradigm via Synesthesia of Machines](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
+
+    - [翻译: 多模态智能信道建模：通过机器的联觉的一种新的建模范例](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
+
 - [Multi-Reward as Condition for Instruction-based Image Editing](2024年11月06日/Multi-Reward_as_Condition_for_Instruction-based_Image_Editing.md)
 
     - [翻译: 多奖励作为基于指令的图像编辑的条件](2024年11月06日/Multi-Reward_as_Condition_for_Instruction-based_Image_Editing.md)
@@ -195,6 +207,10 @@
 - [NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
 
     - [翻译: NeurIPS 2023 竞赛：保护隐私的联邦学习文档 VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
+
+- [Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages](2024年11月06日/Prompt_Engineering_Using_GPT_for_Word-Level_Code-Mixed_Language_Identification_in_Low-Resource_Dravidian_Languages.md)
+
+    - [翻译: 使用 GPT 进行提示工程以用于低资源达罗毗荼语言中的单词级代码混合语言识别](2024年11月06日/Prompt_Engineering_Using_GPT_for_Word-Level_Code-Mixed_Language_Identification_in_Low-Resource_Dravidian_Languages.md)
 
 - [Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
 
