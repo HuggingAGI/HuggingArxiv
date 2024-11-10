@@ -164,9 +164,17 @@
 
 2024年11月06日
 
+- [A Comparative Study of Recent Large Language Models on Generating Hospital Discharge Summaries for Lung Cancer Patients](2024年11月06日/A_Comparative_Study_of_Recent_Large_Language_Models_on_Generating_Hospital_Discharge_Summaries_for_Lung_Cancer_Patients.md)
+
+    - [翻译: 关于近期大型语言模型在为肺癌患者生成出院小结方面的比较研究](2024年11月06日/A_Comparative_Study_of_Recent_Large_Language_Models_on_Generating_Hospital_Discharge_Summaries_for_Lung_Cancer_Patients.md)
+
 - [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
 
     - [翻译: 使用动态 VQA 数据集和自适应规划代理对多模态检索增强生成进行基准测试](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
+
+- [Enhancing classroom teaching with LLMs and RAG](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
+
+    - [翻译: 用大型语言模型和检索增强生成改善课堂教学](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
 
 - [Evaluation data contamination in LLMs: how do we measure it and (when) does it matter?](2024年11月06日/Evaluation_data_contamination_in_LLMs_how_do_we_measure_it_and_(when)_does_it_matter.md)
 
@@ -191,3 +199,9 @@
 - [Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
 
     - [翻译: 利用低秩适应的贝叶斯重新参数化对大型语言模型进行稳健且高效的微调](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
+
+2024年11月04日
+
+- [Complete Classification of Integrability and Non-integrability for Spin-1/2 Chain with Symmetric Nearest-Neighbor Interaction](2024年11月04日/Complete_Classification_of_Integrability_and_Non-integrability_for_Spin-12_Chain_with_Symmetric_Nearest-Neighbor_Interaction.md)
+
+    - [翻译: 具有对称近邻相互作用的自旋 1/2 链的可积性和不可积性的完全分类](2024年11月04日/Complete_Classification_of_Integrability_and_Non-integrability_for_Spin-12_Chain_with_Symmetric_Nearest-Neighbor_Interaction.md)
