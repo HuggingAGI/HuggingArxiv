@@ -168,6 +168,10 @@
 
     - [翻译: 关于近期大型语言模型在为肺癌患者生成出院小结方面的比较研究](2024年11月06日/A_Comparative_Study_of_Recent_Large_Language_Models_on_Generating_Hospital_Discharge_Summaries_for_Lung_Cancer_Patients.md)
 
+- [Automating Exploratory Proteomics Research via Language Models](2024年11月06日/Automating_Exploratory_Proteomics_Research_via_Language_Models.md)
+
+    - [翻译: 通过语言模型实现探索性蛋白质组学研究的自动化](2024年11月06日/Automating_Exploratory_Proteomics_Research_via_Language_Models.md)
+
 - [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
 
     - [翻译: 使用动态 VQA 数据集和自适应规划代理对多模态检索增强生成进行基准测试](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
@@ -175,6 +179,10 @@
 - [Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
 
     - [翻译: Bio-xLSTM：生物和化学序列的生成建模、表示和上下文学习](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
+
+- [DELIFT: Data Efficient Language model Instruction Fine Tuning](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
+
+    - [翻译: DELIFT：数据高效语言模型指令微调](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
 
 - [Enhancing classroom teaching with LLMs and RAG](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
 
@@ -184,6 +192,10 @@
 
     - [翻译: 大型语言模型中的评估数据污染：我们如何测量它以及（何时）它重要？](2024年11月06日/Evaluation_data_contamination_in_LLMs_how_do_we_measure_it_and_(when)_does_it_matter.md)
 
+- [EXPLORA: Efficient Exemplar Subset Selection for Complex Reasoning](2024年11月06日/EXPLORA_Efficient_Exemplar_Subset_Selection_for_Complex_Reasoning.md)
+
+    - [翻译: EXPLORA：用于复杂推理的高效示例子集选择](2024年11月06日/EXPLORA_Efficient_Exemplar_Subset_Selection_for_Complex_Reasoning.md)
+
 - [Fine-Grained Guidance for Retrievers: Leveraging LLMs' Feedback in Retrieval-Augmented Generation](2024年11月06日/Fine-Grained_Guidance_for_Retrievers_Leveraging_LLMs'_Feedback_in_Retrieval-Augmented_Generation.md)
 
     - [翻译: 细粒度的检索器指导：在检索增强生成中利用大型语言模型的反馈](2024年11月06日/Fine-Grained_Guidance_for_Retrievers_Leveraging_LLMs'_Feedback_in_Retrieval-Augmented_Generation.md)
@@ -192,9 +204,21 @@
 
     - [翻译: 从新手到专家：通过逐步强化学习实现 LLM 代理策略优化](2024年11月06日/From_Novice_to_Expert_LLM_Agent_Policy_Optimization_via_Step-wise_Reinforcement_Learning.md)
 
+- [Interactions Across Blocks in Post-Training Quantization of Large Language Models](2024年11月06日/Interactions_Across_Blocks_in_Post-Training_Quantization_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型训练后量化中跨块的交互](2024年11月06日/Interactions_Across_Blocks_in_Post-Training_Quantization_of_Large_Language_Models.md)
+
+- [Large Generative Model-assisted Talking-face Semantic Communication System](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
+
+    - [翻译: 大型生成模型辅助的说话人脸语义通信系统](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
+
 - [LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
 
     - [翻译: LidaRefer：使用 Transformer 实现自动驾驶的户外 3D 视觉定位](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
+
+- [M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
+
+    - [翻译: M3SciQA：用于评估基础模型的多模态多文档科学问答基准](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
 
 - [MEG: Medical Knowledge-Augmented Large Language Models for Question Answering](2024年11月06日/MEG_Medical_Knowledge-Augmented_Large_Language_Models_for_Question_Answering.md)
 
@@ -211,6 +235,10 @@
 - [NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
 
     - [翻译: NeurIPS 2023 竞赛：保护隐私的联邦学习文档 VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
+
+- [Polynomial Composition Activations: Unleashing the Dynamics of Large Language Models](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
+
+    - [翻译: 多项式组合激活：释放大型语言模型的动态](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
 
 - [Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages](2024年11月06日/Prompt_Engineering_Using_GPT_for_Word-Level_Code-Mixed_Language_Identification_in_Low-Resource_Dravidian_Languages.md)
 
