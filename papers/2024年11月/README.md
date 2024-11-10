@@ -164,9 +164,17 @@
 
 2024年11月06日
 
+- [A Bayesian Approach to Data Point Selection](2024年11月06日/A_Bayesian_Approach_to_Data_Point_Selection.md)
+
+    - [翻译: 一种用于数据点选择的贝叶斯方法](2024年11月06日/A_Bayesian_Approach_to_Data_Point_Selection.md)
+
 - [A Comparative Study of Recent Large Language Models on Generating Hospital Discharge Summaries for Lung Cancer Patients](2024年11月06日/A_Comparative_Study_of_Recent_Large_Language_Models_on_Generating_Hospital_Discharge_Summaries_for_Lung_Cancer_Patients.md)
 
     - [翻译: 关于近期大型语言模型在为肺癌患者生成出院小结方面的比较研究](2024年11月06日/A_Comparative_Study_of_Recent_Large_Language_Models_on_Generating_Hospital_Discharge_Summaries_for_Lung_Cancer_Patients.md)
+
+- [Automated Update of Android Deprecated API Usages with Large Language Models](2024年11月06日/Automated_Update_of_Android_Deprecated_API_Usages_with_Large_Language_Models.md)
+
+    - [翻译: 使用大型语言模型对 Android 已弃用 API 用法进行自动更新](2024年11月06日/Automated_Update_of_Android_Deprecated_API_Usages_with_Large_Language_Models.md)
 
 - [Automating Exploratory Proteomics Research via Language Models](2024年11月06日/Automating_Exploratory_Proteomics_Research_via_Language_Models.md)
 
@@ -183,6 +191,14 @@
 - [Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
 
     - [翻译: Bio-xLSTM：生物和化学序列的生成建模、表示和上下文学习](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
+
+- [CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
+
+    - [翻译: CodeTree：使用大型语言模型进行代码生成的代理引导树搜索](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
+
+- [Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning](2024年11月06日/Customized_Multiple_Clustering_via_Multi-Modal_Subspace_Proxy_Learning.md)
+
+    - [翻译: 通过多模态子空间代理学习的定制多聚类](2024年11月06日/Customized_Multiple_Clustering_via_Multi-Modal_Subspace_Proxy_Learning.md)
 
 - [DELIFT: Data Efficient Language model Instruction Fine Tuning](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
 
@@ -220,6 +236,10 @@
 
     - [翻译: LidaRefer：使用 Transformer 实现自动驾驶的户外 3D 视觉定位](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
 
+- [Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks](2024年11月06日/Long-Form_Text-to-Music_Generation_with_Adaptive_Prompts_A_Case_of_Study_in_Tabletop_Role-Playing_Games_Soundtracks.md)
+
+    - [翻译: 具有自适应提示的长篇文本到音乐生成：桌面角色扮演游戏配乐的案例研究](2024年11月06日/Long-Form_Text-to-Music_Generation_with_Adaptive_Prompts_A_Case_of_Study_in_Tabletop_Role-Playing_Games_Soundtracks.md)
+
 - [M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
 
     - [翻译: M3SciQA：用于评估基础模型的多模态多文档科学问答基准](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
@@ -235,6 +255,10 @@
 - [Multi-Reward as Condition for Instruction-based Image Editing](2024年11月06日/Multi-Reward_as_Condition_for_Instruction-based_Image_Editing.md)
 
     - [翻译: 多奖励作为基于指令的图像编辑的条件](2024年11月06日/Multi-Reward_as_Condition_for_Instruction-based_Image_Editing.md)
+
+- [Multi-Scale and Multimodal Species Distribution Modeling](2024年11月06日/Multi-Scale_and_Multimodal_Species_Distribution_Modeling.md)
+
+    - [翻译: 多尺度和多模态物种分布建模](2024年11月06日/Multi-Scale_and_Multimodal_Species_Distribution_Modeling.md)
 
 - [NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
 
@@ -256,6 +280,10 @@
 
     - [翻译: 利用低秩适应的贝叶斯重新参数化对大型语言模型进行稳健且高效的微调](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
 
+- [TableGPT2: A Large Multimodal Model with Tabular Data Integration](2024年11月06日/TableGPT2_A_Large_Multimodal_Model_with_Tabular_Data_Integration.md)
+
+    - [翻译: TableGPT2：一个具有表格数据集成的大型多模态模型](2024年11月06日/TableGPT2_A_Large_Multimodal_Model_with_Tabular_Data_Integration.md)
+
 - [Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
 
     - [翻译: 用于开放词汇运动生成的文本分解然后子运动空间散射](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
@@ -264,6 +292,10 @@
 
     - [翻译: 根塑造果实：关于对齐语言模型中性别排他性危害的持续性](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
 
+- [Unfair Alignment: Examining Safety Alignment Across Vision Encoder Layers in Vision-Language Models](2024年11月06日/Unfair_Alignment_Examining_Safety_Alignment_Across_Vision_Encoder_Layers_in_Vision-Language_Models.md)
+
+    - [翻译: 不公平对齐：检查视觉语言模型中视觉编码器层的安全对齐](2024年11月06日/Unfair_Alignment_Examining_Safety_Alignment_Across_Vision_Encoder_Layers_in_Vision-Language_Models.md)
+
 - [Unlearning in- vs. out-of-distribution data in LLMs under gradient-based method](2024年11月06日/Unlearning_in-_vs._out-of-distribution_data_in_LLMs_under_gradient-based_method.md)
 
     - [翻译: 在基于梯度的方法下，大型语言模型中分布内与分布外数据的遗忘](2024年11月06日/Unlearning_in-_vs._out-of-distribution_data_in_LLMs_under_gradient-based_method.md)
@@ -271,6 +303,10 @@
 - [VQA$^2$:Visual Question Answering for Video Quality Assessment](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
 
     - [翻译: VQA$^2$:用于视频质量评估的视觉问答](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
+
+- [What Really is Commonsense Knowledge?](2024年11月06日/What_Really_is_Commonsense_Knowledge.md)
+
+    - [翻译: 什么才是真正的常识知识？](2024年11月06日/What_Really_is_Commonsense_Knowledge.md)
 
 2024年11月04日
 
