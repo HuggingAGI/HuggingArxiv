@@ -14,6 +14,10 @@
 
     - [翻译: 评估检索增强型代码生成中查询的可回答性](2024年11月08日/Assessing_the_Answerability_of_Queries_in_Retrieval-Augmented_Code_Generation.md)
 
+- [Benchmarking Distributional Alignment of Large Language Models](2024年11月08日/Benchmarking_Distributional_Alignment_of_Large_Language_Models.md)
+
+    - [翻译: 对大型语言模型的分布对齐进行基准测试](2024年11月08日/Benchmarking_Distributional_Alignment_of_Large_Language_Models.md)
+
 - [Content Quality vs. Attention Allocation: An LLM-Based Case Study in Peer-to-peer Mental Health Networks](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
 
     - [翻译: 内容质量与注意力分配：基于 LLM 的在点对点心理健康网络中的案例研究](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
@@ -81,6 +85,14 @@
 - [Tell What You Hear From What You See -- Video to Audio Generation Through Text](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
 
     - [翻译: 说出你从所看到的内容中听到的东西——通过文本实现从视频到音频的生成](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
+
+- [The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent](2024年11月08日/The_influence_of_persona_and_conversational_task_on_social_interactions_with_a_LLM-controlled_embodied_conversational_agent.md)
+
+    - [翻译: 角色和会话任务对与由大型语言模型控制的具身会话代理的社交互动的影响](2024年11月08日/The_influence_of_persona_and_conversational_task_on_social_interactions_with_a_LLM-controlled_embodied_conversational_agent.md)
+
+- [Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
+
+    - [翻译: 揭示大型语言模型的局限性：通过 MskQA 和 MskCal 对掩码文本处理能力的系统评估](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
 
 - [VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
 
@@ -378,10 +390,6 @@
 
     - [翻译: 自我一致性偏好优化](2024年11月06日/Self-Consistency_Preference_Optimization.md)
 
-- [TableGPT2: A Large Multimodal Model with Tabular Data Integration](2024年11月06日/TableGPT2_A_Large_Multimodal_Model_with_Tabular_Data_Integration.md)
-
-    - [翻译: TableGPT2：一个具有表格数据集成的大型多模态模型](2024年11月06日/TableGPT2_A_Large_Multimodal_Model_with_Tabular_Data_Integration.md)
-
 - [Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
 
     - [翻译: 用于开放词汇运动生成的文本分解然后子运动空间散射](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
@@ -540,10 +548,6 @@
 
     - [翻译: 大型语言模型的长上下文 RAG 性能](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
 
-- [Membership Inference Attacks against Large Vision-Language Models](2024年11月05日/Membership_Inference_Attacks_against_Large_Vision-Language_Models.md)
-
-    - [翻译: 针对大型视觉语言模型的成员推理攻击](2024年11月05日/Membership_Inference_Attacks_against_Large_Vision-Language_Models.md)
-
 - [MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning](2024年11月05日/MME-Finance_A_Multimodal_Finance_Benchmark_for_Expert-level_Understanding_and_Reasoning.md)
 
     - [翻译: MME-Finance：用于专家级理解和推理的多模态金融基准](2024年11月05日/MME-Finance_A_Multimodal_Finance_Benchmark_for_Expert-level_Understanding_and_Reasoning.md)
@@ -555,10 +559,6 @@
 - [On the Comparison between Multi-modal and Single-modal Contrastive Learning](2024年11月05日/On_the_Comparison_between_Multi-modal_and_Single-modal_Contrastive_Learning.md)
 
     - [翻译: 关于多模态和单模态对比学习之间的比较](2024年11月05日/On_the_Comparison_between_Multi-modal_and_Single-modal_Contrastive_Learning.md)
-
-- [Personalized Video Summarization by Multimodal Video Understanding](2024年11月05日/Personalized_Video_Summarization_by_Multimodal_Video_Understanding.md)
-
-    - [翻译: 通过多模态视频理解实现个性化视频摘要](2024年11月05日/Personalized_Video_Summarization_by_Multimodal_Video_Understanding.md)
 
 - [Photon: Federated LLM Pre-Training](2024年11月05日/Photon_Federated_LLM_Pre-Training.md)
 
@@ -619,10 +619,6 @@
 - [VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation](2024年11月05日/VLA-3D_A_Dataset_for_3D_Semantic_Scene_Understanding_and_Navigation.md)
 
     - [翻译: VLA-3D：用于 3D 语义场景理解和导航的数据集](2024年11月05日/VLA-3D_A_Dataset_for_3D_Semantic_Scene_Understanding_and_Navigation.md)
-
-- [WASHtsApp -- A RAG-powered WhatsApp Chatbot for supporting rural African clean water access, sanitation and hygiene](2024年11月05日/WASHtsApp_--_A_RAG-powered_WhatsApp_Chatbot_for_supporting_rural_African_clean_water_access,_sanitation_and_hygiene.md)
-
-    - [翻译: WASHtsApp -- 一个由 RAG 驱动的 WhatsApp 聊天机器人，用于支持非洲农村地区的清洁用水获取、环境卫生和个人卫生。](2024年11月05日/WASHtsApp_--_A_RAG-powered_WhatsApp_Chatbot_for_supporting_rural_African_clean_water_access,_sanitation_and_hygiene.md)
 
 - [λ-Tune: Harnessing Large Language Models for Automated Database System Tuning](2024年11月05日/λ-Tune_Harnessing_Large_Language_Models_for_Automated_Database_System_Tuning.md)
 
