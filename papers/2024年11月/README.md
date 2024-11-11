@@ -572,10 +572,6 @@
 
     - [翻译: 关于多模态和单模态对比学习之间的比较](2024年11月05日/On_the_Comparison_between_Multi-modal_and_Single-modal_Contrastive_Learning.md)
 
-- [Photon: Federated LLM Pre-Training](2024年11月05日/Photon_Federated_LLM_Pre-Training.md)
-
-    - [翻译: 光子：联邦大型语言模型预训练](2024年11月05日/Photon_Federated_LLM_Pre-Training.md)
-
 - [Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge](2024年11月05日/Precise_Drive_with_VLM_First_Prize_Solution_for_PRCV_2024_Drive_LM_challenge.md)
 
     - [翻译: 使用 VLM 的精确驱动：PRCV 2024 驱动 LM 挑战赛的一等奖解决方案](2024年11月05日/Precise_Drive_with_VLM_First_Prize_Solution_for_PRCV_2024_Drive_LM_challenge.md)
@@ -587,10 +583,6 @@
 - [SEE-DPO: Self Entropy Enhanced Direct Preference Optimization](2024年11月05日/SEE-DPO_Self_Entropy_Enhanced_Direct_Preference_Optimization.md)
 
     - [翻译: SEE-DPO：自我熵增强直接偏好优化](2024年11月05日/SEE-DPO_Self_Entropy_Enhanced_Direct_Preference_Optimization.md)
-
-- [SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](2024年11月05日/SMoA_Improving_Multi-agent_Large_Language_Models_with_Sparse_Mixture-of-Agents.md)
-
-    - [翻译: SMoA：使用稀疏的多智能体混合来改进多智能体大型语言模型](2024年11月05日/SMoA_Improving_Multi-agent_Large_Language_Models_with_Sparse_Mixture-of-Agents.md)
 
 - [Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities](2024年11月05日/Spontaneous_Emergence_of_Agent_Individuality_through_Social_Interactions_in_LLM-Based_Communities.md)
 
