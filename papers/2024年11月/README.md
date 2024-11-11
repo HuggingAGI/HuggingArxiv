@@ -14,10 +14,6 @@
 
     - [翻译: AutoProteinEngine：用于蛋白质工程中多模态自动机器学习的大型语言模型驱动的代理框架](2024年11月07日/AutoProteinEngine_A_Large_Language_Model_Driven_Agent_Framework_for_Multimodal_AutoML_in_Protein_Engineering.md)
 
-- [AWARE Narrator and the Utilization of Large Language Models to Extract Behavioral Insights from Smartphone Sensing Data](2024年11月07日/AWARE_Narrator_and_the_Utilization_of_Large_Language_Models_to_Extract_Behavioral_Insights_from_Smartphone_Sensing_Data.md)
-
-    - [翻译: AWARE 叙述者和利用大型语言模型从智能手机传感数据中提取行为洞察](2024年11月07日/AWARE_Narrator_and_the_Utilization_of_Large_Language_Models_to_Extract_Behavioral_Insights_from_Smartphone_Sensing_Data.md)
-
 - [Best Practices for Distilling Large Language Models into BERT for Web Search Ranking](2024年11月07日/Best_Practices_for_Distilling_Large_Language_Models_into_BERT_for_Web_Search_Ranking.md)
 
     - [翻译: 将大型语言模型提炼为 BERT 用于网络搜索排名的最佳实践](2024年11月07日/Best_Practices_for_Distilling_Large_Language_Models_into_BERT_for_Web_Search_Ranking.md)
@@ -66,10 +62,6 @@
 
     - [翻译: “我总是觉得有些不对劲。”：理解专业人员使用大型语言模型时的合规风险和缓解策略](2024年11月07日/I_Always_Felt_that_Something_Was_Wrong._Understanding_Compliance_Risks_and_Mitigation_Strategies_when_Professionals_Use_Large_Language_Models.md)
 
-- [ICH-SCNet: Intracerebral Hemorrhage Segmentation and Prognosis Classification Network Using CLIP-guided SAM mechanism](2024年11月07日/ICH-SCNet_Intracerebral_Hemorrhage_Segmentation_and_Prognosis_Classification_Network_Using_CLIP-guided_SAM_mechanism.md)
-
-    - [翻译: ICH-SCNet：使用 CLIP 引导的 SAM 机制的脑出血分割和预后分类网络](2024年11月07日/ICH-SCNet_Intracerebral_Hemorrhage_Segmentation_and_Prognosis_Classification_Network_Using_CLIP-guided_SAM_mechanism.md)
-
 - [LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation](2024年11月07日/LLM2CLIP_Powerful_Language_Model_Unlock_Richer_Visual_Representation.md)
 
     - [翻译: LLM2CLIP：强大的语言模型解锁更丰富的视觉表示](2024年11月07日/LLM2CLIP_Powerful_Language_Model_Unlock_Richer_Visual_Representation.md)
@@ -113,14 +105,6 @@
 - [Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability](2024年11月07日/Position_Paper_On_Diagnostic_Uncertainty_Estimation_from_Large_Language_Models_Next-Word_Probability_Is_Not_Pre-test_Probability.md)
 
     - [翻译: 关于大型语言模型诊断不确定性估计的立场文件：下一个词的概率不是预测试概率](2024年11月07日/Position_Paper_On_Diagnostic_Uncertainty_Estimation_from_Large_Language_Models_Next-Word_Probability_Is_Not_Pre-test_Probability.md)
-
-- [Prompt-Guided Internal States for Hallucination Detection of Large Language Models](2024年11月07日/Prompt-Guided_Internal_States_for_Hallucination_Detection_of_Large_Language_Models.md)
-
-    - [翻译: 提示引导的内部状态用于大型语言模型的幻觉检测](2024年11月07日/Prompt-Guided_Internal_States_for_Hallucination_Detection_of_Large_Language_Models.md)
-
-- [Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives](2024年11月07日/Rethinking_Bradley-Terry_Models_in_Preference-Based_Reward_Modeling_Foundations,_Theory,_and_Alternatives.md)
-
-    - [翻译: 在基于偏好的奖励建模中重新思考布拉德利-特里模型：基础、理论和替代方案](2024年11月07日/Rethinking_Bradley-Terry_Models_in_Preference-Based_Reward_Modeling_Foundations,_Theory,_and_Alternatives.md)
 
 - [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering](2024年11月07日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
 
@@ -180,6 +164,10 @@
 
     - [翻译: 贝叶斯校准具有 LLM 评估器的胜率估计](2024年11月06日/Bayesian_Calibration_of_Win_Rate_Estimation_with_LLM_Evaluators.md)
 
+- [Beemo: Benchmark of Expert-edited Machine-generated Outputs](2024年11月06日/Beemo_Benchmark_of_Expert-edited_Machine-generated_Outputs.md)
+
+    - [翻译: Beemo：专家编辑的机器生成输出的基准](2024年11月06日/Beemo_Benchmark_of_Expert-edited_Machine-generated_Outputs.md)
+
 - [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
 
     - [翻译: 使用动态 VQA 数据集和自适应规划代理对多模态检索增强生成进行基准测试](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
@@ -224,6 +212,10 @@
 
     - [翻译: 从新手到专家：通过逐步强化学习实现 LLM 代理策略优化](2024年11月06日/From_Novice_to_Expert_LLM_Agent_Policy_Optimization_via_Step-wise_Reinforcement_Learning.md)
 
+- [How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis](2024年11月06日/How_Transformers_Solve_Propositional_Logic_Problems_A_Mechanistic_Analysis.md)
+
+    - [翻译: 变压器如何解决命题逻辑问题：一种机制分析](2024年11月06日/How_Transformers_Solve_Propositional_Logic_Problems_A_Mechanistic_Analysis.md)
+
 - [Interactions Across Blocks in Post-Training Quantization of Large Language Models](2024年11月06日/Interactions_Across_Blocks_in_Post-Training_Quantization_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型训练后量化中跨块的交互](2024年11月06日/Interactions_Across_Blocks_in_Post-Training_Quantization_of_Large_Language_Models.md)
@@ -231,10 +223,6 @@
 - [Large Generative Model-assisted Talking-face Semantic Communication System](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
 
     - [翻译: 大型生成模型辅助的说话人脸语义通信系统](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
-
-- [LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
-
-    - [翻译: LidaRefer：使用 Transformer 实现自动驾驶的户外 3D 视觉定位](2024年11月06日/LidaRefer_Outdoor_3D_Visual_Grounding_for_Autonomous_Driving_with_Transformers.md)
 
 - [Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks](2024年11月06日/Long-Form_Text-to-Music_Generation_with_Adaptive_Prompts_A_Case_of_Study_in_Tabletop_Role-Playing_Games_Soundtracks.md)
 
@@ -244,6 +232,10 @@
 
     - [翻译: M3SciQA：用于评估基础模型的多模态多文档科学问答基准](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
 
+- [Measuring short-form factuality in large language models](2024年11月06日/Measuring_short-form_factuality_in_large_language_models.md)
+
+    - [翻译: 测量大型语言模型中的短格式真实性](2024年11月06日/Measuring_short-form_factuality_in_large_language_models.md)
+
 - [MEG: Medical Knowledge-Augmented Large Language Models for Question Answering](2024年11月06日/MEG_Medical_Knowledge-Augmented_Large_Language_Models_for_Question_Answering.md)
 
     - [翻译: MEG：用于问答的医学知识增强型大型语言模型](2024年11月06日/MEG_Medical_Knowledge-Augmented_Large_Language_Models_for_Question_Answering.md)
@@ -251,6 +243,10 @@
 - [Multi-Modal Intelligent Channel Modeling: A New Modeling Paradigm via Synesthesia of Machines](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
 
     - [翻译: 多模态智能信道建模：通过机器的联觉的一种新的建模范例](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
+
+- [Multimodal Structure-Aware Quantum Data Processing](2024年11月06日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
+
+    - [翻译: 多模态结构感知量子数据处理](2024年11月06日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
 
 - [Multi-Reward as Condition for Instruction-based Image Editing](2024年11月06日/Multi-Reward_as_Condition_for_Instruction-based_Image_Editing.md)
 
@@ -299,6 +295,10 @@
 - [TrajGPT: Controlled Synthetic Trajectory Generation Using a Multitask Transformer-Based Spatiotemporal Model](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
 
     - [翻译: TrajGPT：使用基于多任务 Transformer 的时空模型进行受控的合成轨迹生成](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
+
+- [Understanding the Effects of Human-written Paraphrases in LLM-generated Text Detection](2024年11月06日/Understanding_the_Effects_of_Human-written_Paraphrases_in_LLM-generated_Text_Detection.md)
+
+    - [翻译: 理解人类编写的释义在 LLM 生成的文本检测中的影响](2024年11月06日/Understanding_the_Effects_of_Human-written_Paraphrases_in_LLM-generated_Text_Detection.md)
 
 - [Unfair Alignment: Examining Safety Alignment Across Vision Encoder Layers in Vision-Language Models](2024年11月06日/Unfair_Alignment_Examining_Safety_Alignment_Across_Vision_Encoder_Layers_in_Vision-Language_Models.md)
 
