@@ -66,10 +66,6 @@
 
     - [翻译: FisherMask：在图像分类中使用 Fisher 信息提高神经网络标注效率](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
 
-- [Gap-Filling Prompting Enhances Code-Assisted Mathematical Reasoning](2024年11月08日/Gap-Filling_Prompting_Enhances_Code-Assisted_Mathematical_Reasoning.md)
-
-    - [翻译: 填空提示增强了代码辅助的数学推理。](2024年11月08日/Gap-Filling_Prompting_Enhances_Code-Assisted_Mathematical_Reasoning.md)
-
 - [Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
 
     - [翻译: 利用高级歌曲描述符实现基于自然语言的音乐推荐](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
@@ -183,10 +179,6 @@
 - [Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models](2024年11月07日/Diff-2-in-1_Bridging_Generation_and_Dense_Perception_with_Diffusion_Models.md)
 
     - [翻译: Diff-2-in-1：用扩散模型架起生成和密集感知的桥梁](2024年11月07日/Diff-2-in-1_Bridging_Generation_and_Dense_Perception_with_Diffusion_Models.md)
-
-- [Distinguishing LLM-generated from Human-written Code by Contrastive Learning](2024年11月07日/Distinguishing_LLM-generated_from_Human-written_Code_by_Contrastive_Learning.md)
-
-    - [翻译: 通过对比学习区分大型语言模型生成的代码和人类编写的代码](2024年11月07日/Distinguishing_LLM-generated_from_Human-written_Code_by_Contrastive_Learning.md)
 
 - [Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models](2024年11月07日/Explainable_Search_and_Discovery_of_Visual_Cultural_Heritage_Collections_with_Multimodal_Large_Language_Models.md)
 
@@ -405,10 +397,6 @@
 - [One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
 
     - [翻译: 一条鱼，两条鱼，但不是整个海洋：对齐降低了语言模型的概念多样性](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
-
-- [Polynomial Composition Activations: Unleashing the Dynamics of Large Language Models](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
-
-    - [翻译: 多项式组合激活：释放大型语言模型的动态](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
 
 - [QUILL: Quotation Generation Enhancement of Large Language Models](2024年11月06日/QUILL_Quotation_Generation_Enhancement_of_Large_Language_Models.md)
 
