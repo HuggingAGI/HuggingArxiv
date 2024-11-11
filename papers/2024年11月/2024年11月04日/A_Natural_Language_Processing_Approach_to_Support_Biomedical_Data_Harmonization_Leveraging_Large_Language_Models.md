@@ -1,0 +1,15 @@
+# 一种支持生物医学数据协调的自然语言处理方法：利用大型语言模型
+
+发布时间：2024年11月04日
+
+`LLM应用` `生物医学`
+
+> A Natural Language Processing Approach to Support Biomedical Data Harmonization: Leveraging Large Language Models
+
+# 摘要
+
+> 生物医学研究需要大量、多样化的样本以产生无偏的结果。跨数据集匹配变量的自动化方法可以加速这一过程。这一领域的研究有限，主要集中在词汇匹配和基于本体的语义匹配上。我们旨在开发新的方法，利用大型语言模型（LLM）和集成学习来实现变量匹配的自动化。方法：我们利用来自两个 GERAS 队列（欧洲和日本）研究的数据来开发变量匹配方法。我们首先手动创建一个数据集，将 352 个欧盟变量与 1322 个候选的日本变量进行匹配，其中匹配的变量对为正例，不匹配的对为负例。使用这个数据集，我们开发并评估了两种类型的自然语言处理（NLP）方法，这些方法基于数据字典中的变量标签和定义来匹配变量：（1）基于 LLM 的方法和（2）模糊匹配。然后，我们开发了一种集成学习方法，使用随机森林模型来整合各个 NLP 方法。RF 在 50 次试验中进行了训练和评估。每次试验都有一个随机的训练集和测试集的分割（4：1），模型的超参数通过在训练集上的交叉验证进行优化。对于每个欧盟变量，1322 个候选的日本变量根据 NLP 得出的相似性得分或 RF 的概率得分进行排名，表示它们与欧盟变量匹配的可能性。排名性能通过 top-n 命中率（HRn）和平均倒数排名（MRR）来衡量。结果：在单个方法中，E5 表现最佳，达到 0.90 的 HR-30 和 0.70 的 MRR。在 50 次试验中，RF 在所有指标上都优于 E5（P 小于 0.001），平均 HR 30 为 0.98，MRR 为 0.73。LLM 衍生的特征对 RF 的性能贡献最大。自动变量匹配中错误的一个主要原因是数据字典中变量定义的模糊性。
+
+> Biomedical research requires large, diverse samples to produce unbiased results. Automated methods for matching variables across datasets can accelerate this process. Research in this area has been limited, primarily focusing on lexical matching and ontology based semantic matching. We aimed to develop new methods, leveraging large language models (LLM) and ensemble learning, to automate variable matching. Methods: We utilized data from two GERAS cohort (European and Japan) studies to develop variable matching methods. We first manually created a dataset by matching 352 EU variables with 1322 candidate JP variables, where matched variable pairs were positive and unmatched pairs were negative instances. Using this dataset, we developed and evaluated two types of natural language processing (NLP) methods, which matched variables based on variable labels and definitions from data dictionaries: (1) LLM-based and (2) fuzzy matching. We then developed an ensemble-learning method, using the Random Forest model, to integrate individual NLP methods. RF was trained and evaluated on 50 trials. Each trial had a random split (4:1) of training and test sets, with the model's hyperparameters optimized through cross-validation on the training set. For each EU variable, 1322 candidate JP variables were ranked based on NLP-derived similarity scores or RF's probability scores, denoting their likelihood to match the EU variable. Ranking performance was measured by top-n hit ratio (HRn) and mean reciprocal rank (MRR). Results:E5 performed best among individual methods, achieving 0.90 HR-30 and 0.70 MRR. RF performed better than E5 on all metrics over 50 trials (P less than 0.001) and achieved an average HR 30 of 0.98 and MRR of 0.73. LLM-derived features contributed most to RF's performance. One major cause of errors in automatic variable matching was ambiguous variable definitions within data dictionaries.
+
+[Arxiv](https://arxiv.org/abs/2411.02730)
