@@ -14,9 +14,21 @@
 
     - [翻译: 事实还是虚构？大型语言模型能否成为政治真相的可靠标注者？](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
 
+- [Fast Stochastic Subspace Identification of Densely Instrumented Bridges Using Randomized SVD](2024年11月08日/Fast_Stochastic_Subspace_Identification_of_Densely_Instrumented_Bridges_Using_Randomized_SVD.md)
+
+    - [翻译: 使用随机奇异值分解对密集仪器化桥梁进行快速随机子空间识别](2024年11月08日/Fast_Stochastic_Subspace_Identification_of_Densely_Instrumented_Bridges_Using_Randomized_SVD.md)
+
+- [FisherMask: Enhancing Neural Network Labeling Efficiency in Image Classification Using Fisher Information](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
+
+    - [翻译: FisherMask：在图像分类中使用 Fisher 信息提高神经网络标注效率](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
+
 - [KyrgyzNLP: Challenges, Progress, and Future](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
 
     - [翻译: 吉尔吉斯语自然语言处理：挑战、进展和未来](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
+
+- [Learning the rules of peptide self-assembly through data mining with large language models](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
+
+    - [翻译: 通过大型语言模型的数据挖掘来学习肽自组装的规则](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
 
 - [Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
 
@@ -33,6 +45,10 @@
 - [Tell What You Hear From What You See -- Video to Audio Generation Through Text](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
 
     - [翻译: 说出你从所看到的内容中听到的东西——通过文本实现从视频到音频的生成](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
+
+- [VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
+
+    - [翻译: VISTA：使用大型语言模型在数学问题生成中为定制自动化提供的视觉集成系统](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
 
 2024年11月07日
 
@@ -209,10 +225,6 @@
 - [DELIFT: Data Efficient Language model Instruction Fine Tuning](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
 
     - [翻译: DELIFT：数据高效语言模型指令微调](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
-
-- [DesignMinds: Enhancing Video-Based Design Ideation with Vision-Language Model and Context-Injected Large Language Model](2024年11月06日/DesignMinds_Enhancing_Video-Based_Design_Ideation_with_Vision-Language_Model_and_Context-Injected_Large_Language_Model.md)
-
-    - [翻译: DesignMinds：使用视觉语言模型和上下文注入的大型语言模型增强基于视频的设计构思](2024年11月06日/DesignMinds_Enhancing_Video-Based_Design_Ideation_with_Vision-Language_Model_and_Context-Injected_Large_Language_Model.md)
 
 - [Enhancing classroom teaching with LLMs and RAG](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
 
@@ -432,10 +444,6 @@
 
     - [翻译: 在顺序推荐中多模态基础模型的高效和有效适应](2024年11月05日/Efficient_and_Effective_Adaptation_of_Multimodal_Foundation_Models_in_Sequential_Recommendation.md)
 
-- [Evaluating Moral Beliefs across LLMs through a Pluralistic Framework](2024年11月05日/Evaluating_Moral_Beliefs_across_LLMs_through_a_Pluralistic_Framework.md)
-
-    - [翻译: 通过多元框架评估跨大型语言模型的道德信念](2024年11月05日/Evaluating_Moral_Beliefs_across_LLMs_through_a_Pluralistic_Framework.md)
-
 - [Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs](2024年11月05日/Exploring_the_Potentials_and_Challenges_of_Using_Large_Language_Models_for_the_Analysis_of_Transcriptional_Regulation_of_Long_Non-coding_RNAs.md)
 
     - [翻译: 探索使用大型语言模型分析长链非编码 RNA 转录调控的潜力和挑战](2024年11月05日/Exploring_the_Potentials_and_Challenges_of_Using_Large_Language_Models_for_the_Analysis_of_Transcriptional_Regulation_of_Long_Non-coding_RNAs.md)
@@ -563,10 +571,6 @@
 - [Uncertainty Quantification for Clinical Outcome Predictions with (Large) Language Models](2024年11月05日/Uncertainty_Quantification_for_Clinical_Outcome_Predictions_with_(Large)_Language_Models.md)
 
     - [翻译: 对于（大型）语言模型的临床结果预测的不确定性量化](2024年11月05日/Uncertainty_Quantification_for_Clinical_Outcome_Predictions_with_(Large)_Language_Models.md)
-
-- [Understanding Contrastive Learning via Gaussian Mixture Models](2024年11月05日/Understanding_Contrastive_Learning_via_Gaussian_Mixture_Models.md)
-
-    - [翻译: 通过高斯混合模型理解对比学习](2024年11月05日/Understanding_Contrastive_Learning_via_Gaussian_Mixture_Models.md)
 
 - [Utilizing Precise and Complete Code Context to Guide LLM in Automatic False Positive Mitigation](2024年11月05日/Utilizing_Precise_and_Complete_Code_Context_to_Guide_LLM_in_Automatic_False_Positive_Mitigation.md)
 
@@ -794,10 +798,6 @@
 
     - [翻译: MM-Embed：具有多模态大型语言模型的通用多模态检索](2024年11月04日/MM-Embed_Universal_Multimodal_Retrieval_with_Multimodal_LLMs.md)
 
-- [MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence](2024年11月04日/MoMu-Diffusion_On_Learning_Long-Term_Motion-Music_Synchronization_and_Correspondence.md)
-
-    - [翻译: MoMu-Diffusion：关于学习长期运动-音乐同步和对应关系](2024年11月04日/MoMu-Diffusion_On_Learning_Long-Term_Motion-Music_Synchronization_and_Correspondence.md)
-
 - [Multi-modal biometric authentication: Leveraging shared layer architectures for enhanced security](2024年11月04日/Multi-modal_biometric_authentication_Leveraging_shared_layer_architectures_for_enhanced_security.md)
 
     - [翻译: 多模态生物特征认证：利用共享层架构来增强安全性](2024年11月04日/Multi-modal_biometric_authentication_Leveraging_shared_layer_architectures_for_enhanced_security.md)
@@ -873,10 +873,6 @@
 - [Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning](2024年11月04日/Toward_Robust_Incomplete_Multimodal_Sentiment_Analysis_via_Hierarchical_Representation_Learning.md)
 
     - [翻译: 通过分层表示学习实现鲁棒的不完整多模态情感分析](2024年11月04日/Toward_Robust_Incomplete_Multimodal_Sentiment_Analysis_via_Hierarchical_Representation_Learning.md)
-
-- [Training Compute-Optimal Protein Language Models](2024年11月04日/Training_Compute-Optimal_Protein_Language_Models.md)
-
-    - [翻译: 训练计算最优的蛋白质语言模型](2024年11月04日/Training_Compute-Optimal_Protein_Language_Models.md)
 
 - [Training-free Regional Prompting for Diffusion Transformers](2024年11月04日/Training-free_Regional_Prompting_for_Diffusion_Transformers.md)
 
