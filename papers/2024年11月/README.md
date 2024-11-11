@@ -2,6 +2,10 @@
 
 2024年11月08日
 
+- [AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality](2024年11月08日/AcceLLM_Accelerating_LLM_Inference_using_Redundancy_for_Load_Balancing_and_Data_Locality.md)
+
+    - [翻译: AcceLLM：使用冗余来加速大型语言模型（LLM）推理，以实现负载均衡和数据局部性。](2024年11月08日/AcceLLM_Accelerating_LLM_Inference_using_Redundancy_for_Load_Balancing_and_Data_Locality.md)
+
 - [An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
 
     - [翻译: 早期的首次复制以及对用于快速列表重排序的单令牌解码的改进](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
@@ -13,6 +17,10 @@
 - [Assessing the Answerability of Queries in Retrieval-Augmented Code Generation](2024年11月08日/Assessing_the_Answerability_of_Queries_in_Retrieval-Augmented_Code_Generation.md)
 
     - [翻译: 评估检索增强型代码生成中查询的可回答性](2024年11月08日/Assessing_the_Answerability_of_Queries_in_Retrieval-Augmented_Code_Generation.md)
+
+- [A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis](2024年11月08日/A_Two-Step_Concept-Based_Approach_for_Enhanced_Interpretability_and_Trust_in_Skin_Lesion_Diagnosis.md)
+
+    - [翻译: 一种用于增强皮肤病变诊断的可解释性和信任度的两步基于概念的方法](2024年11月08日/A_Two-Step_Concept-Based_Approach_for_Enhanced_Interpretability_and_Trust_in_Skin_Lesion_Diagnosis.md)
 
 - [Benchmarking Distributional Alignment of Large Language Models](2024年11月08日/Benchmarking_Distributional_Alignment_of_Large_Language_Models.md)
 
@@ -30,9 +38,17 @@
 
     - [翻译: 增强语言驱动机器人的鲁棒性：一种减少故障的模块化方法](2024年11月08日/Enhancing_Robustness_in_Language-Driven_Robotics_A_Modular_Approach_to_Failure_Reduction.md)
 
+- [Enhancing Visual Classification using Comparative Descriptors](2024年11月08日/Enhancing_Visual_Classification_using_Comparative_Descriptors.md)
+
+    - [翻译: 使用比较描述符增强视觉分类](2024年11月08日/Enhancing_Visual_Classification_using_Comparative_Descriptors.md)
+
 - [EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
 
     - [翻译: EUREKHA：增强用于地下论坛中关键黑客识别的用户表示](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
+
+- [Evaluating and Adapting Large Language Models to Represent Folktales in Low-Resource Languages](2024年11月08日/Evaluating_and_Adapting_Large_Language_Models_to_Represent_Folktales_in_Low-Resource_Languages.md)
+
+    - [翻译: 评估和调整大型语言模型以在低资源语言中呈现民间故事](2024年11月08日/Evaluating_and_Adapting_Large_Language_Models_to_Represent_Folktales_in_Low-Resource_Languages.md)
 
 - [Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation](2024年11月08日/Evaluating_Large_Language_Model_Capability_in_Vietnamese_Fact-Checking_Data_Generation.md)
 
@@ -50,6 +66,14 @@
 
     - [翻译: FisherMask：在图像分类中使用 Fisher 信息提高神经网络标注效率](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
 
+- [Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
+
+    - [翻译: 利用高级歌曲描述符实现基于自然语言的音乐推荐](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
+
+- [Improving Multi-Domain Task-Oriented Dialogue System with Offline Reinforcement Learning](2024年11月08日/Improving_Multi-Domain_Task-Oriented_Dialogue_System_with_Offline_Reinforcement_Learning.md)
+
+    - [翻译: 通过离线强化学习改进多领域任务导向的对话系统](2024年11月08日/Improving_Multi-Domain_Task-Oriented_Dialogue_System_with_Offline_Reinforcement_Learning.md)
+
 - [IntellBot: Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
 
     - [翻译: IntellBot：用于网络威胁知识传递的检索增强型大型语言模型聊天机器人](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
@@ -58,6 +82,10 @@
 
     - [翻译: 吉尔吉斯语自然语言处理：挑战、进展和未来](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
 
+- [LBPE: Long-token-first Tokenization to Improve Large Language Models](2024年11月08日/LBPE_Long-token-first_Tokenization_to_Improve_Large_Language_Models.md)
+
+    - [翻译: LBPE：长标记优先标记化以改进大型语言模型](2024年11月08日/LBPE_Long-token-first_Tokenization_to_Improve_Large_Language_Models.md)
+
 - [Learning the rules of peptide self-assembly through data mining with large language models](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
 
     - [翻译: 通过大型语言模型的数据挖掘来学习肽自组装的规则](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
@@ -65,6 +93,10 @@
 - [LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
 
     - [翻译: LightVA：基于 LLM 代理的任务规划和执行的轻量级可视化分析](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
+
+- [LLM-PySC2: Starcraft II learning environment for Large Language Models](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
+
+    - [翻译: LLM-PySC2：用于大型语言模型的星际争霸 II 学习环境](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
 
 - [Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
 
@@ -97,6 +129,10 @@
 - [VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
 
     - [翻译: VISTA：使用大型语言模型在数学问题生成中为定制自动化提供的视觉集成系统](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
+
+- [WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
+
+    - [翻译: WeatherGFM：通过上下文学习来学习一个天气通才基础模型](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
 
 - [Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths](2024年11月08日/Why_These_Documents_Explainable_Generative_Retrieval_with_Hierarchical_Category_Paths.md)
 
@@ -947,10 +983,6 @@
 - [Generating executable oracles to check conformance of client code to requirements of JDK Javadocs using LLMs](2024年11月03日/Generating_executable_oracles_to_check_conformance_of_client_code_to_requirements_of_JDK_Javadocs_using_LLMs.md)
 
     - [翻译: 使用大型语言模型生成可执行的预言来检查客户端代码是否符合 JDK Javadocs 的要求](2024年11月03日/Generating_executable_oracles_to_check_conformance_of_client_code_to_requirements_of_JDK_Javadocs_using_LLMs.md)
-
-- [Integration of Large Vision Language Models for Efficient Post-disaster Damage Assessment and Reporting](2024年11月03日/Integration_of_Large_Vision_Language_Models_for_Efficient_Post-disaster_Damage_Assessment_and_Reporting.md)
-
-    - [翻译: 大型视觉语言模型的集成用于高效的灾后损害评估和报告](2024年11月03日/Integration_of_Large_Vision_Language_Models_for_Efficient_Post-disaster_Damage_Assessment_and_Reporting.md)
 
 - [LumosCore: Highly Scalable LLM Clusters with Optical Interconnect](2024年11月03日/LumosCore_Highly_Scalable_LLM_Clusters_with_Optical_Interconnect.md)
 
