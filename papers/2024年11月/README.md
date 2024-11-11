@@ -6,9 +6,33 @@
 
     - [翻译: 早期的首次复制以及对用于快速列表重排序的单令牌解码的改进](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
 
+- [Assessing Open-Source Large Language Models on Argumentation Mining Subtasks](2024年11月08日/Assessing_Open-Source_Large_Language_Models_on_Argumentation_Mining_Subtasks.md)
+
+    - [翻译: 评估开源大型语言模型在论证挖掘子任务上的表现](2024年11月08日/Assessing_Open-Source_Large_Language_Models_on_Argumentation_Mining_Subtasks.md)
+
+- [Assessing the Answerability of Queries in Retrieval-Augmented Code Generation](2024年11月08日/Assessing_the_Answerability_of_Queries_in_Retrieval-Augmented_Code_Generation.md)
+
+    - [翻译: 评估检索增强型代码生成中查询的可回答性](2024年11月08日/Assessing_the_Answerability_of_Queries_in_Retrieval-Augmented_Code_Generation.md)
+
+- [Content Quality vs. Attention Allocation: An LLM-Based Case Study in Peer-to-peer Mental Health Networks](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
+
+    - [翻译: 内容质量与注意力分配：基于 LLM 的在点对点心理健康网络中的案例研究](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
+
+- [Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework](2024年11月08日/Enhancing_Cluster_Resilience_LLM-agent_Based_Autonomous_Intelligent_Cluster_Diagnosis_System_and_Evaluation_Framework.md)
+
+    - [翻译: 增强集群弹性：基于 LLM-agent 的自主智能集群诊断系统和评估框架](2024年11月08日/Enhancing_Cluster_Resilience_LLM-agent_Based_Autonomous_Intelligent_Cluster_Diagnosis_System_and_Evaluation_Framework.md)
+
+- [Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction](2024年11月08日/Enhancing_Robustness_in_Language-Driven_Robotics_A_Modular_Approach_to_Failure_Reduction.md)
+
+    - [翻译: 增强语言驱动机器人的鲁棒性：一种减少故障的模块化方法](2024年11月08日/Enhancing_Robustness_in_Language-Driven_Robotics_A_Modular_Approach_to_Failure_Reduction.md)
+
 - [EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
 
     - [翻译: EUREKHA：增强用于地下论坛中关键黑客识别的用户表示](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
+
+- [Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation](2024年11月08日/Evaluating_Large_Language_Model_Capability_in_Vietnamese_Fact-Checking_Data_Generation.md)
+
+    - [翻译: 评估大型语言模型在越南事实核查数据生成中的能力](2024年11月08日/Evaluating_Large_Language_Model_Capability_in_Vietnamese_Fact-Checking_Data_Generation.md)
 
 - [Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
 
@@ -22,6 +46,10 @@
 
     - [翻译: FisherMask：在图像分类中使用 Fisher 信息提高神经网络标注效率](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
 
+- [IntellBot: Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
+
+    - [翻译: IntellBot：用于网络威胁知识传递的检索增强型大型语言模型聊天机器人](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
+
 - [KyrgyzNLP: Challenges, Progress, and Future](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
 
     - [翻译: 吉尔吉斯语自然语言处理：挑战、进展和未来](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
@@ -30,6 +58,10 @@
 
     - [翻译: 通过大型语言模型的数据挖掘来学习肽自组装的规则](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
 
+- [LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
+
+    - [翻译: LightVA：基于 LLM 代理的任务规划和执行的轻量级可视化分析](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
+
 - [Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
 
     - [翻译: 多跳证据追踪遇见网络：FEVER 2024 中的 Papelo 团队](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
@@ -37,6 +69,10 @@
 - [Multimodal Structure-Aware Quantum Data Processing](2024年11月08日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
 
     - [翻译: 多模态结构感知量子数据处理](2024年11月08日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
+
+- [Predicting Stroke through Retinal Graphs and Multimodal Self-supervised Learning](2024年11月08日/Predicting_Stroke_through_Retinal_Graphs_and_Multimodal_Self-supervised_Learning.md)
+
+    - [翻译: 通过视网膜图和多模态自监督学习来预测中风](2024年11月08日/Predicting_Stroke_through_Retinal_Graphs_and_Multimodal_Self-supervised_Learning.md)
 
 - [Recycled Attention: Efficient inference for long-context language models](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
 
@@ -49,6 +85,14 @@
 - [VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
 
     - [翻译: VISTA：使用大型语言模型在数学问题生成中为定制自动化提供的视觉集成系统](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
+
+- [Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths](2024年11月08日/Why_These_Documents_Explainable_Generative_Retrieval_with_Hierarchical_Category_Paths.md)
+
+    - [翻译: 为什么是这些文档？具有分层类别路径的可解释生成式检索](2024年11月08日/Why_These_Documents_Explainable_Generative_Retrieval_with_Hierarchical_Category_Paths.md)
+
+- [WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models](2024年11月08日/WorkflowLLM_Enhancing_Workflow_Orchestration_Capability_of_Large_Language_Models.md)
+
+    - [翻译: WorkflowLLM：增强大型语言模型的工作流编排能力](2024年11月08日/WorkflowLLM_Enhancing_Workflow_Orchestration_Capability_of_Large_Language_Models.md)
 
 2024年11月07日
 
@@ -197,10 +241,6 @@
 - [Beemo: Benchmark of Expert-edited Machine-generated Outputs](2024年11月06日/Beemo_Benchmark_of_Expert-edited_Machine-generated_Outputs.md)
 
     - [翻译: Beemo：专家编辑的机器生成输出的基准](2024年11月06日/Beemo_Benchmark_of_Expert-edited_Machine-generated_Outputs.md)
-
-- [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
-
-    - [翻译: 使用动态 VQA 数据集和自适应规划代理对多模态检索增强生成进行基准测试](2024年11月06日/Benchmarking_Multimodal_Retrieval_Augmented_Generation_with_Dynamic_VQA_Dataset_and_Self-adaptive_Planning_Agent.md)
 
 - [Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
 
@@ -403,10 +443,6 @@
 - [CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration](2024年11月05日/CE-CoLLM_Efficient_and_Adaptive_Large_Language_Models_Through_Cloud-Edge_Collaboration.md)
 
     - [翻译: CE-CoLLM：通过云边协作实现高效和自适应的大型语言模型](2024年11月05日/CE-CoLLM_Efficient_and_Adaptive_Large_Language_Models_Through_Cloud-Edge_Collaboration.md)
-
-- [Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy](2024年11月05日/Change_Is_the_Only_Constant_Dynamic_LLM_Slicing_based_on_Layer_Redundancy.md)
-
-    - [翻译: 变化是唯一的常量：基于层冗余的动态 LLM 切片](2024年11月05日/Change_Is_the_Only_Constant_Dynamic_LLM_Slicing_based_on_Layer_Redundancy.md)
 
 - [Classification Done Right for Vision-Language Pre-Training](2024年11月05日/Classification_Done_Right_for_Vision-Language_Pre-Training.md)
 
@@ -733,10 +769,6 @@
 - [Formal Theorem Proving by Rewarding LLMs to Decompose Proofs Hierarchically](2024年11月04日/Formal_Theorem_Proving_by_Rewarding_LLMs_to_Decompose_Proofs_Hierarchically.md)
 
     - [翻译: 通过奖励大型语言模型（LLMs）分层分解证明来进行形式定理证明](2024年11月04日/Formal_Theorem_Proving_by_Rewarding_LLMs_to_Decompose_Proofs_Hierarchically.md)
-
-- ["Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization](2024年11月04日/Give_Me_BF16_or_Give_Me_Death_Accuracy-Performance_Trade-Offs_in_LLM_Quantization.md)
-
-    - [翻译: “给我 BF16 否则给我死”？大型语言模型量化中的精度-性能权衡](2024年11月04日/Give_Me_BF16_or_Give_Me_Death_Accuracy-Performance_Trade-Offs_in_LLM_Quantization.md)
 
 - [GraphXAIN: Narratives to Explain Graph Neural Networks](2024年11月04日/GraphXAIN_Narratives_to_Explain_Graph_Neural_Networks.md)
 
