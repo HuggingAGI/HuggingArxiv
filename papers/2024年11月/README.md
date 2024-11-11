@@ -10,6 +10,10 @@
 
     - [翻译: 使用时间曲线可视化来分析大型软件系统的日志](2024年11月08日/Analyzing_Logs_of_Large-Scale_Software_Systems_using_Time_Curves_Visualization.md)
 
+- [Anatomy of finite-volume effect on hadronic vacuum polarization contribution to muon g-2](2024年11月08日/Anatomy_of_finite-volume_effect_on_hadronic_vacuum_polarization_contribution_to_muon_g-2.md)
+
+    - [翻译: 强子真空极化对μ子 g - 2 的贡献中有限体积效应的剖析](2024年11月08日/Anatomy_of_finite-volume_effect_on_hadronic_vacuum_polarization_contribution_to_muon_g-2.md)
+
 - [An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
 
     - [翻译: 早期的首次复制以及对用于快速列表重排序的单令牌解码的改进](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
