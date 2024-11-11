@@ -66,6 +66,10 @@
 
     - [翻译: FisherMask：在图像分类中使用 Fisher 信息提高神经网络标注效率](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
 
+- [Gap-Filling Prompting Enhances Code-Assisted Mathematical Reasoning](2024年11月08日/Gap-Filling_Prompting_Enhances_Code-Assisted_Mathematical_Reasoning.md)
+
+    - [翻译: 填空提示增强了代码辅助的数学推理。](2024年11月08日/Gap-Filling_Prompting_Enhances_Code-Assisted_Mathematical_Reasoning.md)
+
 - [Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
 
     - [翻译: 利用高级歌曲描述符实现基于自然语言的音乐推荐](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
@@ -322,10 +326,6 @@
 
     - [翻译: 利用生成式人工智能增强安全控制生产](2024年11月06日/Enhancing_Security_Control_Production_With_Generative_AI.md)
 
-- [Fine-Grained Guidance for Retrievers: Leveraging LLMs' Feedback in Retrieval-Augmented Generation](2024年11月06日/Fine-Grained_Guidance_for_Retrievers_Leveraging_LLMs'_Feedback_in_Retrieval-Augmented_Generation.md)
-
-    - [翻译: 细粒度的检索器指导：在检索增强生成中利用大型语言模型的反馈](2024年11月06日/Fine-Grained_Guidance_for_Retrievers_Leveraging_LLMs'_Feedback_in_Retrieval-Augmented_Generation.md)
-
 - [Fine-Tuning Vision-Language Model for Automated Engineering Drawing Information Extraction](2024年11月06日/Fine-Tuning_Vision-Language_Model_for_Automated_Engineering_Drawing_Information_Extraction.md)
 
     - [翻译: 微调视觉语言模型用于自动化工程图纸信息提取](2024年11月06日/Fine-Tuning_Vision-Language_Model_for_Automated_Engineering_Drawing_Information_Extraction.md)
@@ -409,10 +409,6 @@
 - [Polynomial Composition Activations: Unleashing the Dynamics of Large Language Models](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
 
     - [翻译: 多项式组合激活：释放大型语言模型的动态](2024年11月06日/Polynomial_Composition_Activations_Unleashing_the_Dynamics_of_Large_Language_Models.md)
-
-- [Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages](2024年11月06日/Prompt_Engineering_Using_GPT_for_Word-Level_Code-Mixed_Language_Identification_in_Low-Resource_Dravidian_Languages.md)
-
-    - [翻译: 使用 GPT 进行提示工程以用于低资源达罗毗荼语言中的单词级代码混合语言识别](2024年11月06日/Prompt_Engineering_Using_GPT_for_Word-Level_Code-Mixed_Language_Identification_in_Low-Resource_Dravidian_Languages.md)
 
 - [QUILL: Quotation Generation Enhancement of Large Language Models](2024年11月06日/QUILL_Quotation_Generation_Enhancement_of_Large_Language_Models.md)
 
@@ -560,10 +556,6 @@
 
     - [翻译: 推理最优的视觉语言模型（VLMs）只需要一个视觉标记，但需要更大的模型。](2024年11月05日/Inference_Optimal_VLMs_Need_Only_One_Visual_Token_but_Larger_Models.md)
 
-- [Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?](2024年11月05日/Interaction2Code_How_Far_Are_We_From_Automatic_Interactive_Webpage_Generation.md)
-
-    - [翻译: Interaction2Code：我们距离自动交互式网页生成还有多远？](2024年11月05日/Interaction2Code_How_Far_Are_We_From_Automatic_Interactive_Webpage_Generation.md)
-
 - [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](2024年11月05日/Large_Language_Models_Orchestrating_Structured_Reasoning_Achieve_Kaggle_Grandmaster_Level.md)
 
     - [翻译: 大型语言模型协调结构化推理达到 Kaggle 特级大师水平](2024年11月05日/Large_Language_Models_Orchestrating_Structured_Reasoning_Achieve_Kaggle_Grandmaster_Level.md)
@@ -587,10 +579,6 @@
 - [MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning](2024年11月05日/MME-Finance_A_Multimodal_Finance_Benchmark_for_Expert-level_Understanding_and_Reasoning.md)
 
     - [翻译: MME-Finance：用于专家级理解和推理的多模态金融基准](2024年11月05日/MME-Finance_A_Multimodal_Finance_Benchmark_for_Expert-level_Understanding_and_Reasoning.md)
-
-- [Multi-Modal 3D Scene Graph Updater for Shared and Dynamic Environments](2024年11月05日/Multi-Modal_3D_Scene_Graph_Updater_for_Shared_and_Dynamic_Environments.md)
-
-    - [翻译: 用于共享和动态环境的多模态 3D 场景图更新器](2024年11月05日/Multi-Modal_3D_Scene_Graph_Updater_for_Shared_and_Dynamic_Environments.md)
 
 - [On the Comparison between Multi-modal and Single-modal Contrastive Learning](2024年11月05日/On_the_Comparison_between_Multi-modal_and_Single-modal_Contrastive_Learning.md)
 
