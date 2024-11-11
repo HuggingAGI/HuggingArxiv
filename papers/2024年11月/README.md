@@ -138,6 +138,10 @@
 
     - [翻译: WeatherGFM：通过上下文学习来学习一个天气通才基础模型](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
 
+- [Web Archives Metadata Generation with GPT-4o: Challenges and Insights](2024年11月08日/Web_Archives_Metadata_Generation_with_GPT-4o_Challenges_and_Insights.md)
+
+    - [翻译: 使用 GPT-4o 生成网络档案元数据：挑战与见解](2024年11月08日/Web_Archives_Metadata_Generation_with_GPT-4o_Challenges_and_Insights.md)
+
 - [Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths](2024年11月08日/Why_These_Documents_Explainable_Generative_Retrieval_with_Hierarchical_Category_Paths.md)
 
     - [翻译: 为什么是这些文档？具有分层类别路径的可解释生成式检索](2024年11月08日/Why_These_Documents_Explainable_Generative_Retrieval_with_Hierarchical_Category_Paths.md)
@@ -357,10 +361,6 @@
 - [M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
 
     - [翻译: M3SciQA：用于评估基础模型的多模态多文档科学问答基准](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
-
-- [MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba](2024年11月06日/MambaPEFT_Exploring_Parameter-Efficient_Fine-Tuning_for_Mamba.md)
-
-    - [翻译: MambaPEFT：探索用于 Mamba 的参数高效微调](2024年11月06日/MambaPEFT_Exploring_Parameter-Efficient_Fine-Tuning_for_Mamba.md)
 
 - [Measuring short-form factuality in large language models](2024年11月06日/Measuring_short-form_factuality_in_large_language_models.md)
 
