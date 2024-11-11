@@ -94,10 +94,6 @@
 
     - [翻译: 元推理在大型语言模型中提高了工具的使用。](2024年11月07日/Meta-Reasoning_Improves_Tool_Use_in_Large_Language_Models.md)
 
-- [Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models](2024年11月07日/Mixture-of-Transformers_A_Sparse_and_Scalable_Architecture_for_Multi-Modal_Foundation_Models.md)
-
-    - [翻译: 混合 Transformer：一种用于多模态基础模型的稀疏且可扩展的架构](2024年11月07日/Mixture-of-Transformers_A_Sparse_and_Scalable_Architecture_for_Multi-Modal_Foundation_Models.md)
-
 - [ML-Promise: A Multilingual Dataset for Corporate Promise Verification](2024年11月07日/ML-Promise_A_Multilingual_Dataset_for_Corporate_Promise_Verification.md)
 
     - [翻译: ML-Promise：一个用于企业承诺验证的多语言数据集](2024年11月07日/ML-Promise_A_Multilingual_Dataset_for_Corporate_Promise_Verification.md)
@@ -319,9 +315,3 @@
 - [What Really is Commonsense Knowledge?](2024年11月06日/What_Really_is_Commonsense_Knowledge.md)
 
     - [翻译: 什么才是真正的常识知识？](2024年11月06日/What_Really_is_Commonsense_Knowledge.md)
-
-2024年11月04日
-
-- [Complete Classification of Integrability and Non-integrability for Spin-1/2 Chain with Symmetric Nearest-Neighbor Interaction](2024年11月04日/Complete_Classification_of_Integrability_and_Non-integrability_for_Spin-12_Chain_with_Symmetric_Nearest-Neighbor_Interaction.md)
-
-    - [翻译: 具有对称近邻相互作用的自旋 1/2 链的可积性和不可积性的完全分类](2024年11月04日/Complete_Classification_of_Integrability_and_Non-integrability_for_Spin-12_Chain_with_Symmetric_Nearest-Neighbor_Interaction.md)
