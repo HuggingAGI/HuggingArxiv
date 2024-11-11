@@ -1,0 +1,15 @@
+# 从 Medprompt 到 o1：对医疗挑战问题及其他的运行时策略的探索
+
+发布时间：2024年11月05日
+
+`LLM应用` `语言模型`
+
+> From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond
+
+# 摘要
+
+> 像 Medprompt 这样的运行时引导策略对于引导大型语言模型（LLM）在具有挑战性的任务中达到最佳性能是很有价值的。Medprompt 表明，通过使用提示来引发涉及思维链推理和集成的运行时策略，通用的 LLM 可以专注于在医学等专业领域提供最先进的性能。OpenAI 的 o1-preview 模型代表了一种新的范例，其中模型被设计为在生成最终响应之前进行运行时推理。我们试图了解 o1-preview 在各种医疗挑战问题基准上的行为。在对 GPT-4 进行 Medprompt 研究之后，我们系统地评估了 o1-preview 模型在各种医疗基准上的表现。值得注意的是，即使没有提示技术，o1-preview 在很大程度上也优于使用 Medprompt 的 GPT-4 系列。我们进一步系统地研究了以 Medprompt 为代表的经典提示工程策略在新的推理模型范例中的有效性。我们发现少样本提示会阻碍 o1 的性能，这表明上下文学习可能不再是推理原生模型的有效引导方法。虽然集成仍然可行，但它资源密集，需要仔细进行成本-性能优化。我们对运行时策略的成本和准确性分析揭示了一个帕累托前沿，GPT-4o 代表了更经济实惠的选择，而 o1-preview 以更高的成本实现了最先进的性能。尽管 o1-preview 提供了顶级性能，但具有像 Medprompt 这样的引导策略的 GPT-4o 在特定情况下仍有价值。此外，我们注意到 o1-preview 模型在许多现有的医疗基准上已经接近饱和，这强调了对新的、具有挑战性的基准的需求。最后，我们对 LLM 推理时间计算的一般方向进行了思考。
+
+> Run-time steering strategies like Medprompt are valuable for guiding large language models (LLMs) to top performance on challenging tasks. Medprompt demonstrates that a general LLM can be focused to deliver state-of-the-art performance on specialized domains like medicine by using a prompt to elicit a run-time strategy involving chain of thought reasoning and ensembling. OpenAI's o1-preview model represents a new paradigm, where a model is designed to do run-time reasoning before generating final responses. We seek to understand the behavior of o1-preview on a diverse set of medical challenge problem benchmarks. Following on the Medprompt study with GPT-4, we systematically evaluate the o1-preview model across various medical benchmarks. Notably, even without prompting techniques, o1-preview largely outperforms the GPT-4 series with Medprompt. We further systematically study the efficacy of classic prompt engineering strategies, as represented by Medprompt, within the new paradigm of reasoning models. We found that few-shot prompting hinders o1's performance, suggesting that in-context learning may no longer be an effective steering approach for reasoning-native models. While ensembling remains viable, it is resource-intensive and requires careful cost-performance optimization. Our cost and accuracy analysis across run-time strategies reveals a Pareto frontier, with GPT-4o representing a more affordable option and o1-preview achieving state-of-the-art performance at higher cost. Although o1-preview offers top performance, GPT-4o with steering strategies like Medprompt retains value in specific contexts. Moreover, we note that the o1-preview model has reached near-saturation on many existing medical benchmarks, underscoring the need for new, challenging benchmarks. We close with reflections on general directions for inference-time computation with LLMs.
+
+[Arxiv](https://arxiv.org/abs/2411.03590)
