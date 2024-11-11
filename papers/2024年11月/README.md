@@ -686,10 +686,6 @@
 
     - [翻译: AutoVFX：根据自然语言指令进行物理上逼真的视频编辑](2024年11月04日/AutoVFX_Physically_Realistic_Video_Editing_from_Natural_Language_Instructions.md)
 
-- [AVSS: Layer Importance Evaluation in Large Language Models via Activation Variance-Sparsity Analysis](2024年11月04日/AVSS_Layer_Importance_Evaluation_in_Large_Language_Models_via_Activation_Variance-Sparsity_Analysis.md)
-
-    - [翻译: AVSS：通过激活方差-稀疏性分析对大型语言模型中的层重要性进行评估](2024年11月04日/AVSS_Layer_Importance_Evaluation_in_Large_Language_Models_via_Activation_Variance-Sparsity_Analysis.md)
-
 - [Can Language Models Enable In-Context Database?](2024年11月04日/Can_Language_Models_Enable_In-Context_Database.md)
 
     - [翻译: 语言模型能够实现上下文数据库吗？](2024年11月04日/Can_Language_Models_Enable_In-Context_Database.md)
@@ -845,10 +841,6 @@
 - [Multi-Transmotion: Pre-trained Model for Human Motion Prediction](2024年11月04日/Multi-Transmotion_Pre-trained_Model_for_Human_Motion_Prediction.md)
 
     - [翻译: 多运动转换：用于人体运动预测的预训练模型](2024年11月04日/Multi-Transmotion_Pre-trained_Model_for_Human_Motion_Prediction.md)
-
-- [On the loss of context-awareness in general instruction fine-tuning](2024年11月04日/On_the_loss_of_context-awareness_in_general_instruction_fine-tuning.md)
-
-    - [翻译: 在一般指令微调中关于上下文感知的损失](2024年11月04日/On_the_loss_of_context-awareness_in_general_instruction_fine-tuning.md)
 
 - [Positive Experience Reflection for Agents in Interactive Text Environments](2024年11月04日/Positive_Experience_Reflection_for_Agents_in_Interactive_Text_Environments.md)
 
