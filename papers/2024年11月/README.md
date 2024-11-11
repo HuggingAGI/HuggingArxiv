@@ -6,6 +6,18 @@
 
     - [翻译: 早期的首次复制以及对用于快速列表重排序的单令牌解码的改进](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
 
+- [EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
+
+    - [翻译: EUREKHA：增强用于地下论坛中关键黑客识别的用户表示](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
+
+- [Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
+
+    - [翻译: 事实还是虚构？大型语言模型能否成为政治真相的可靠标注者？](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
+
+- [KyrgyzNLP: Challenges, Progress, and Future](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
+
+    - [翻译: 吉尔吉斯语自然语言处理：挑战、进展和未来](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
+
 - [Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
 
     - [翻译: 多跳证据追踪遇见网络：FEVER 2024 中的 Papelo 团队](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
@@ -13,6 +25,10 @@
 - [Multimodal Structure-Aware Quantum Data Processing](2024年11月08日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
 
     - [翻译: 多模态结构感知量子数据处理](2024年11月08日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
+
+- [Recycled Attention: Efficient inference for long-context language models](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
+
+    - [翻译: 回收注意力：长上下文语言模型的高效推理](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
 
 - [Tell What You Hear From What You See -- Video to Audio Generation Through Text](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
 
@@ -322,10 +338,6 @@
 
     - [翻译: 根塑造果实：关于对齐语言模型中性别排他性危害的持续性](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
 
-- [Towards Unifying Interpretability and Control: Evaluation via Intervention](2024年11月06日/Towards_Unifying_Interpretability_and_Control_Evaluation_via_Intervention.md)
-
-    - [翻译: 走向统一可解释性和控制：通过干预进行评估](2024年11月06日/Towards_Unifying_Interpretability_and_Control_Evaluation_via_Intervention.md)
-
 - [TrajGPT: Controlled Synthetic Trajectory Generation Using a Multitask Transformer-Based Spatiotemporal Model](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
 
     - [翻译: TrajGPT：使用基于多任务 Transformer 的时空模型进行受控的合成轨迹生成](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
@@ -423,10 +435,6 @@
 - [Evaluating Moral Beliefs across LLMs through a Pluralistic Framework](2024年11月05日/Evaluating_Moral_Beliefs_across_LLMs_through_a_Pluralistic_Framework.md)
 
     - [翻译: 通过多元框架评估跨大型语言模型的道德信念](2024年11月05日/Evaluating_Moral_Beliefs_across_LLMs_through_a_Pluralistic_Framework.md)
-
-- [Examining Human-AI Collaboration for Co-Writing Constructive Comments Online](2024年11月05日/Examining_Human-AI_Collaboration_for_Co-Writing_Constructive_Comments_Online.md)
-
-    - [翻译: 审查人类与人工智能协作以在线共同撰写建设性评论](2024年11月05日/Examining_Human-AI_Collaboration_for_Co-Writing_Constructive_Comments_Online.md)
 
 - [Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs](2024年11月05日/Exploring_the_Potentials_and_Challenges_of_Using_Large_Language_Models_for_the_Analysis_of_Transcriptional_Regulation_of_Long_Non-coding_RNAs.md)
 
@@ -563,10 +571,6 @@
 - [Utilizing Precise and Complete Code Context to Guide LLM in Automatic False Positive Mitigation](2024年11月05日/Utilizing_Precise_and_Complete_Code_Context_to_Guide_LLM_in_Automatic_False_Positive_Mitigation.md)
 
     - [翻译: 利用精确和完整的代码上下文来指导大型语言模型在自动误报缓解中。](2024年11月05日/Utilizing_Precise_and_Complete_Code_Context_to_Guide_LLM_in_Automatic_False_Positive_Mitigation.md)
-
-- [VERITAS: A Unified Approach to Reliability Evaluation](2024年11月05日/VERITAS_A_Unified_Approach_to_Reliability_Evaluation.md)
-
-    - [翻译: VERITAS：一种可靠性评估的统一方法](2024年11月05日/VERITAS_A_Unified_Approach_to_Reliability_Evaluation.md)
 
 - [[Vision Paper] PRObot: Enhancing Patient-Reported Outcome Measures for Diabetic Retinopathy using Chatbots and Generative AI](2024年11月05日/[Vision_Paper]_PRObot_Enhancing_Patient-Reported_Outcome_Measures_for_Diabetic_Retinopathy_using_Chatbots_and_Generative_AI.md)
 
@@ -725,10 +729,6 @@
 - [Formal Theorem Proving by Rewarding LLMs to Decompose Proofs Hierarchically](2024年11月04日/Formal_Theorem_Proving_by_Rewarding_LLMs_to_Decompose_Proofs_Hierarchically.md)
 
     - [翻译: 通过奖励大型语言模型（LLMs）分层分解证明来进行形式定理证明](2024年11月04日/Formal_Theorem_Proving_by_Rewarding_LLMs_to_Decompose_Proofs_Hierarchically.md)
-
-- [From Twitter to Reasoner: Understand Mobility Travel Modes and Sentiment Using Large Language Models](2024年11月04日/From_Twitter_to_Reasoner_Understand_Mobility_Travel_Modes_and_Sentiment_Using_Large_Language_Models.md)
-
-    - [翻译: 从 Twitter 到 Reasoner：使用大型语言模型理解移动出行模式和情绪](2024年11月04日/From_Twitter_to_Reasoner_Understand_Mobility_Travel_Modes_and_Sentiment_Using_Large_Language_Models.md)
 
 - ["Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization](2024年11月04日/Give_Me_BF16_or_Give_Me_Death_Accuracy-Performance_Trade-Offs_in_LLM_Quantization.md)
 
