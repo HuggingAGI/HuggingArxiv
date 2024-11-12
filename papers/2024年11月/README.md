@@ -1,18 +1,50 @@
 # 2024年11月
 
+2024年11月11日
+
+- [Generative midtended cognition and Artificial Intelligence. Thinging with thinging things](2024年11月11日/Generative_midtended_cognition_and_Artificial_Intelligence._Thinging_with_thinging_things.md)
+
+    - [翻译: 生成式中端认知和人工智能。用思考的事物进行思考](2024年11月11日/Generative_midtended_cognition_and_Artificial_Intelligence._Thinging_with_thinging_things.md)
+
+- [Unified Bayesian representation for high-dimensional multi-modal biomedical data for small-sample classification](2024年11月11日/Unified_Bayesian_representation_for_high-dimensional_multi-modal_biomedical_data_for_small-sample_classification.md)
+
+    - [翻译: 用于小样本分类的高维多模态生物医学数据的统一贝叶斯表示](2024年11月11日/Unified_Bayesian_representation_for_high-dimensional_multi-modal_biomedical_data_for_small-sample_classification.md)
+
 2024年11月10日
+
+- [CriticAL: Critic Automation with Language Models](2024年11月10日/CriticAL_Critic_Automation_with_Language_Models.md)
+
+    - [翻译: CriticAL: 利用语言模型的批评自动化](2024年11月10日/CriticAL_Critic_Automation_with_Language_Models.md)
+
+- [Federated LLMs Fine-tuned with Adaptive Importance-Aware LoRA](2024年11月10日/Federated_LLMs_Fine-tuned_with_Adaptive_Importance-Aware_LoRA.md)
+
+    - [翻译: 联邦大型语言模型通过自适应重要性感知 LoRA 进行微调](2024年11月10日/Federated_LLMs_Fine-tuned_with_Adaptive_Importance-Aware_LoRA.md)
+
+- [Learning Loss Landscapes in Preference Optimization](2024年11月10日/Learning_Loss_Landscapes_in_Preference_Optimization.md)
+
+    - [翻译: 在偏好优化中学习损失景观](2024年11月10日/Learning_Loss_Landscapes_in_Preference_Optimization.md)
 
 - [LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
 
     - [翻译: LFSamba：将 SAM 与 Mamba 相结合用于光场显著目标检测](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
 
+- [Model Editing for LLMs4Code: How Far are We?](2024年11月10日/Model_Editing_for_LLMs4Code_How_Far_are_We.md)
+
+    - [翻译: 针对 LLMs4Code 的模型编辑：我们走了多远？](2024年11月10日/Model_Editing_for_LLMs4Code_How_Far_are_We.md)
+
 - [PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
 
     - [翻译: PRISM：通过解缠表示学习实现跨站点 MRI 协调的隐私保护](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
 
-- [Probabilistic Consensus through Ensemble Validation: A Framework for LLM Reliability](2024年11月10日/Probabilistic_Consensus_through_Ensemble_Validation_A_Framework_for_LLM_Reliability.md)
+- [vTune: Verifiable Fine-Tuning for LLMs Through Backdooring](2024年11月10日/vTune_Verifiable_Fine-Tuning_for_LLMs_Through_Backdooring.md)
 
-    - [翻译: 通过集成验证的概率共识：LLM 可靠性的框架](2024年11月10日/Probabilistic_Consensus_through_Ensemble_Validation_A_Framework_for_LLM_Reliability.md)
+    - [翻译: vTune：通过后门实现大型语言模型的可验证微调](2024年11月10日/vTune_Verifiable_Fine-Tuning_for_LLMs_Through_Backdooring.md)
+
+2024年11月09日
+
+- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](2024年11月09日/OpenCoder_The_Open_Cookbook_for_Top-Tier_Code_Large_Language_Models.md)
+
+    - [翻译: OpenCoder：顶级代码大型语言模型的开放食谱](2024年11月09日/OpenCoder_The_Open_Cookbook_for_Top-Tier_Code_Large_Language_Models.md)
 
 2024年11月08日
 
@@ -234,10 +266,6 @@
 
     - [翻译: 穿针引线：大型语言模型能否在近百万规模的干草堆中循线而行？](2024年11月07日/Needle_Threading_Can_LLMs_Follow_Threads_through_Near-Million-Scale_Haystacks.md)
 
-- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](2024年11月07日/OpenCoder_The_Open_Cookbook_for_Top-Tier_Code_Large_Language_Models.md)
-
-    - [翻译: OpenCoder：顶级代码大型语言模型的开放食谱](2024年11月07日/OpenCoder_The_Open_Cookbook_for_Top-Tier_Code_Large_Language_Models.md)
-
 - [PIAST: A Multimodal Piano Dataset with Audio, Symbolic and Text](2024年11月07日/PIAST_A_Multimodal_Piano_Dataset_with_Audio,_Symbolic_and_Text.md)
 
     - [翻译: PIAST：一个具有音频、符号和文本的多模态钢琴数据集](2024年11月07日/PIAST_A_Multimodal_Piano_Dataset_with_Audio,_Symbolic_and_Text.md)
@@ -444,10 +472,6 @@
 
     - [翻译: VQA$^2$:用于视频质量评估的视觉问答](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
 
-- [What Really is Commonsense Knowledge?](2024年11月06日/What_Really_is_Commonsense_Knowledge.md)
-
-    - [翻译: 什么才是真正的常识知识？](2024年11月06日/What_Really_is_Commonsense_Knowledge.md)
-
 2024年11月05日
 
 - [Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation](2024年11月05日/Advanced_RAG_Models_with_Graph_Structures_Optimizing_Complex_Knowledge_Reasoning_and_Text_Generation.md)
@@ -569,10 +593,6 @@
 - [On the Comparison between Multi-modal and Single-modal Contrastive Learning](2024年11月05日/On_the_Comparison_between_Multi-modal_and_Single-modal_Contrastive_Learning.md)
 
     - [翻译: 关于多模态和单模态对比学习之间的比较](2024年11月05日/On_the_Comparison_between_Multi-modal_and_Single-modal_Contrastive_Learning.md)
-
-- [Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge](2024年11月05日/Precise_Drive_with_VLM_First_Prize_Solution_for_PRCV_2024_Drive_LM_challenge.md)
-
-    - [翻译: 使用 VLM 的精确驱动：PRCV 2024 驱动 LM 挑战赛的一等奖解决方案](2024年11月05日/Precise_Drive_with_VLM_First_Prize_Solution_for_PRCV_2024_Drive_LM_challenge.md)
 
 - [Predictor-Corrector Enhanced Transformers with Exponential Moving Average Coefficient Learning](2024年11月05日/Predictor-Corrector_Enhanced_Transformers_with_Exponential_Moving_Average_Coefficient_Learning.md)
 
@@ -707,10 +727,6 @@
 - [DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark](2024年11月04日/DDFAV_Remote_Sensing_Large_Vision_Language_Models_Dataset_and_Evaluation_Benchmark.md)
 
     - [翻译: DDFAV：遥感大型视觉语言模型数据集和评估基准](2024年11月04日/DDFAV_Remote_Sensing_Large_Vision_Language_Models_Dataset_and_Evaluation_Benchmark.md)
-
-- [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](2024年11月04日/DeeR-VLA_Dynamic_Inference_of_Multimodal_Large_Language_Models_for_Efficient_Robot_Execution.md)
-
-    - [翻译: DeeR-VLA：用于高效机器人执行的多模态大型语言模型的动态推理](2024年11月04日/DeeR-VLA_Dynamic_Inference_of_Multimodal_Large_Language_Models_for_Efficient_Robot_Execution.md)
 
 - [Defining and Evaluating Physical Safety for Large Language Models](2024年11月04日/Defining_and_Evaluating_Physical_Safety_for_Large_Language_Models.md)
 
@@ -937,10 +953,6 @@
 - [Fixing Security Vulnerabilities with AI in OSS-Fuzz](2024年11月03日/Fixing_Security_Vulnerabilities_with_AI_in_OSS-Fuzz.md)
 
     - [翻译: 使用人工智能在 OSS-Fuzz 中修复安全漏洞](2024年11月03日/Fixing_Security_Vulnerabilities_with_AI_in_OSS-Fuzz.md)
-
-- [Generating executable oracles to check conformance of client code to requirements of JDK Javadocs using LLMs](2024年11月03日/Generating_executable_oracles_to_check_conformance_of_client_code_to_requirements_of_JDK_Javadocs_using_LLMs.md)
-
-    - [翻译: 使用大型语言模型生成可执行的预言来检查客户端代码是否符合 JDK Javadocs 的要求](2024年11月03日/Generating_executable_oracles_to_check_conformance_of_client_code_to_requirements_of_JDK_Javadocs_using_LLMs.md)
 
 - [LumosCore: Highly Scalable LLM Clusters with Optical Interconnect](2024年11月03日/LumosCore_Highly_Scalable_LLM_Clusters_with_Optical_Interconnect.md)
 
