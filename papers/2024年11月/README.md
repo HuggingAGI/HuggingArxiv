@@ -2,9 +2,61 @@
 
 2024年11月11日
 
+- [A Text Classification Model Combining Adversarial Training with Pre-trained Language Model and neural networks: A Case Study on Telecom Fraud Incident Texts](2024年11月11日/A_Text_Classification_Model_Combining_Adversarial_Training_with_Pre-trained_Language_Model_and_neural_networks_A_Case_Study_on_Telecom_Fraud_Incident_Texts.md)
+
+    - [翻译: 一个将对抗训练与预训练语言模型和神经网络相结合的文本分类模型：关于电信诈骗事件文本的案例研究](2024年11月11日/A_Text_Classification_Model_Combining_Adversarial_Training_with_Pre-trained_Language_Model_and_neural_networks_A_Case_Study_on_Telecom_Fraud_Incident_Texts.md)
+
+- [Cancer-Answer: Empowering Cancer Care with Advanced Large Language Models](2024年11月11日/Cancer-Answer_Empowering_Cancer_Care_with_Advanced_Large_Language_Models.md)
+
+    - [翻译: 癌症回答：利用先进的大型语言模型增强癌症护理](2024年11月11日/Cancer-Answer_Empowering_Cancer_Care_with_Advanced_Large_Language_Models.md)
+
+- [EVQAScore: Efficient Video Question Answering Data Evaluation](2024年11月11日/EVQAScore_Efficient_Video_Question_Answering_Data_Evaluation.md)
+
+    - [翻译: EVQAScore：高效的视频问答数据评估](2024年11月11日/EVQAScore_Efficient_Video_Question_Answering_Data_Evaluation.md)
+
 - [Generative midtended cognition and Artificial Intelligence. Thinging with thinging things](2024年11月11日/Generative_midtended_cognition_and_Artificial_Intelligence._Thinging_with_thinging_things.md)
 
     - [翻译: 生成式中端认知和人工智能。用思考的事物进行思考](2024年11月11日/Generative_midtended_cognition_and_Artificial_Intelligence._Thinging_with_thinging_things.md)
+
+- [Large Language Model in Medical Informatics: Direct Classification and Enhanced Text Representations for Automatic ICD Coding](2024年11月11日/Large_Language_Model_in_Medical_Informatics_Direct_Classification_and_Enhanced_Text_Representations_for_Automatic_ICD_Coding.md)
+
+    - [翻译: 大型语言模型在医学信息学中的应用：用于自动 ICD 编码的直接分类和增强的文本表示](2024年11月11日/Large_Language_Model_in_Medical_Informatics_Direct_Classification_and_Enhanced_Text_Representations_for_Automatic_ICD_Coding.md)
+
+- [Large-scale moral machine experiment on large language models](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
+
+    - [翻译: 大规模语言模型的大规模道德机器实验](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
+
+- [LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios](2024年11月11日/LIFBench_Evaluating_the_Instruction_Following_Performance_and_Stability_of_Large_Language_Models_in_Long-Context_Scenarios.md)
+
+    - [翻译: LIFBench：评估大型语言模型在长上下文场景中的指令跟随性能和稳定性](2024年11月11日/LIFBench_Evaluating_the_Instruction_Following_Performance_and_Stability_of_Large_Language_Models_in_Long-Context_Scenarios.md)
+
+- [LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
+
+    - [翻译: LLM 辅助的相关性评估：我们什么时候应该向 LLM 寻求帮助？](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
+
+- [LongSafetyBench: Long-Context LLMs Struggle with Safety Issues](2024年11月11日/LongSafetyBench_Long-Context_LLMs_Struggle_with_Safety_Issues.md)
+
+    - [翻译: LongSafetyBench：长上下文的大型语言模型在安全问题上举步维艰。](2024年11月11日/LongSafetyBench_Long-Context_LLMs_Struggle_with_Safety_Issues.md)
+
+- [Multimodal Structure-Aware Quantum Data Processing](2024年11月11日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
+
+    - [翻译: 多模态结构感知量子数据处理](2024年11月11日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
+
+- [OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model](2024年11月11日/OpenThaiGPT_1.5_A_Thai-Centric_Open_Source_Large_Language_Model.md)
+
+    - [翻译: OpenThaiGPT 1.5：一个以泰语为中心的开源大型语言模型](2024年11月11日/OpenThaiGPT_1.5_A_Thai-Centric_Open_Source_Large_Language_Model.md)
+
+- [Persuasion with Large Language Models: a Survey](2024年11月11日/Persuasion_with_Large_Language_Models_a_Survey.md)
+
+    - [翻译: 大型语言模型的说服力：一项调查](2024年11月11日/Persuasion_with_Large_Language_Models_a_Survey.md)
+
+- [Sniff AI: Is My 'Spicy' Your 'Spicy'? Exploring LLM's Perceptual Alignment with Human Smell Experiences](2024年11月11日/Sniff_AI_Is_My_'Spicy'_Your_'Spicy'_Exploring_LLM's_Perceptual_Alignment_with_Human_Smell_Experiences.md)
+
+    - [翻译: 嗅探 AI：我的“辣味”是你的“辣味”吗？探索大型语言模型与人类嗅觉体验的感知一致性](2024年11月11日/Sniff_AI_Is_My_'Spicy'_Your_'Spicy'_Exploring_LLM's_Perceptual_Alignment_with_Human_Smell_Experiences.md)
+
+- [The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation](2024年11月11日/The_First_Prompt_Counts_the_Most!_An_Evaluation_of_Large_Language_Models_on_Iterative_Example-based_Code_Generation.md)
+
+    - [翻译: 第一个提示最为重要！对大型语言模型在基于迭代示例的代码生成方面的评估](2024年11月11日/The_First_Prompt_Counts_the_Most!_An_Evaluation_of_Large_Language_Models_on_Iterative_Example-based_Code_Generation.md)
 
 - [Unified Bayesian representation for high-dimensional multi-modal biomedical data for small-sample classification](2024年11月11日/Unified_Bayesian_representation_for_high-dimensional_multi-modal_biomedical_data_for_small-sample_classification.md)
 
@@ -35,6 +87,10 @@
 - [PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
 
     - [翻译: PRISM：通过解缠表示学习实现跨站点 MRI 协调的隐私保护](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
+
+- [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering](2024年11月10日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
+
+    - [翻译: SaSR-Net：用于增强视听问答的源感知语义表示网络](2024年11月10日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
 
 - [vTune: Verifiable Fine-Tuning for LLMs Through Backdooring](2024年11月10日/vTune_Verifiable_Fine-Tuning_for_LLMs_Through_Backdooring.md)
 
@@ -147,10 +203,6 @@
 - [Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
 
     - [翻译: 多跳证据追踪遇见网络：FEVER 2024 中的 Papelo 团队](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
-
-- [Multimodal Structure-Aware Quantum Data Processing](2024年11月08日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
-
-    - [翻译: 多模态结构感知量子数据处理](2024年11月08日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
 
 - [Predicting Stroke through Retinal Graphs and Multimodal Self-supervised Learning](2024年11月08日/Predicting_Stroke_through_Retinal_Graphs_and_Multimodal_Self-supervised_Learning.md)
 
@@ -273,10 +325,6 @@
 - [Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability](2024年11月07日/Position_Paper_On_Diagnostic_Uncertainty_Estimation_from_Large_Language_Models_Next-Word_Probability_Is_Not_Pre-test_Probability.md)
 
     - [翻译: 关于大型语言模型诊断不确定性估计的立场文件：下一个词的概率不是预测试概率](2024年11月07日/Position_Paper_On_Diagnostic_Uncertainty_Estimation_from_Large_Language_Models_Next-Word_Probability_Is_Not_Pre-test_Probability.md)
-
-- [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering](2024年11月07日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
-
-    - [翻译: SaSR-Net：用于增强视听问答的源感知语义表示网络](2024年11月07日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
 
 - [Self-Calibrated Listwise Reranking with Large Language Models](2024年11月07日/Self-Calibrated_Listwise_Reranking_with_Large_Language_Models.md)
 
@@ -747,10 +795,6 @@
 - [Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast](2024年11月04日/Evaluating_the_Ability_of_Large_Language_Models_to_Generate_Verifiable_Specifications_in_VeriFast.md)
 
     - [翻译: 评估大型语言模型在 VeriFast 中生成可验证规范的能力](2024年11月04日/Evaluating_the_Ability_of_Large_Language_Models_to_Generate_Verifiable_Specifications_in_VeriFast.md)
-
-- [Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](2024年11月04日/Exploring_Response_Uncertainty_in_MLLMs_An_Empirical_Evaluation_under_Misleading_Scenarios.md)
-
-    - [翻译: 探索大型多语言模型中的响应不确定性：在误导场景下的实证评估](2024年11月04日/Exploring_Response_Uncertainty_in_MLLMs_An_Empirical_Evaluation_under_Misleading_Scenarios.md)
 
 - [Extracting Unlearned Information from LLMs with Activation Steering](2024年11月04日/Extracting_Unlearned_Information_from_LLMs_with_Activation_Steering.md)
 
