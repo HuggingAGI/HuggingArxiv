@@ -654,6 +654,10 @@
 
     - [翻译: CaPo：用于高效具身多智能体合作的协同计划优化](2024年11月07日/CaPo_Cooperative_Plan_Optimization_for_Efficient_Embodied_Multi-Agent_Cooperation.md)
 
+- [Convolutional Differentiable Logic Gate Networks](2024年11月07日/Convolutional_Differentiable_Logic_Gate_Networks.md)
+
+    - [翻译: 卷积可微逻辑门网络](2024年11月07日/Convolutional_Differentiable_Logic_Gate_Networks.md)
+
 - [CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR](2024年11月07日/CUIfy_the_XR_An_Open-Source_Package_to_Embed_LLM-powered_Conversational_Agents_in_XR.md)
 
     - [翻译: CUIfy 扩展现实（XR）：一个将由大型语言模型（LLM）驱动的会话代理嵌入扩展现实的开源软件包](2024年11月07日/CUIfy_the_XR_An_Open-Source_Package_to_Embed_LLM-powered_Conversational_Agents_in_XR.md)
