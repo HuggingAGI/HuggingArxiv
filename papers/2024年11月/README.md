@@ -414,10 +414,6 @@
 
     - [翻译: 根塑造果实：关于对齐语言模型中性别排他性危害的持续性](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
 
-- [TrajGPT: Controlled Synthetic Trajectory Generation Using a Multitask Transformer-Based Spatiotemporal Model](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
-
-    - [翻译: TrajGPT：使用基于多任务 Transformer 的时空模型进行受控的合成轨迹生成](2024年11月06日/TrajGPT_Controlled_Synthetic_Trajectory_Generation_Using_a_Multitask_Transformer-Based_Spatiotemporal_Model.md)
-
 - [Understanding the Effects of Human-written Paraphrases in LLM-generated Text Detection](2024年11月06日/Understanding_the_Effects_of_Human-written_Paraphrases_in_LLM-generated_Text_Detection.md)
 
     - [翻译: 理解人类编写的释义在 LLM 生成的文本检测中的影响](2024年11月06日/Understanding_the_Effects_of_Human-written_Paraphrases_in_LLM-generated_Text_Detection.md)
@@ -535,10 +531,6 @@
 - [HumanVLM: Foundation for Human-Scene Vision-Language Model](2024年11月05日/HumanVLM_Foundation_for_Human-Scene_Vision-Language_Model.md)
 
     - [翻译: HumanVLM：人类场景视觉语言模型的基础](2024年11月05日/HumanVLM_Foundation_for_Human-Scene_Vision-Language_Model.md)
-
-- [Inference Optimal VLMs Need Only One Visual Token but Larger Models](2024年11月05日/Inference_Optimal_VLMs_Need_Only_One_Visual_Token_but_Larger_Models.md)
-
-    - [翻译: 推理最优的视觉语言模型（VLMs）只需要一个视觉标记，但需要更大的模型。](2024年11月05日/Inference_Optimal_VLMs_Need_Only_One_Visual_Token_but_Larger_Models.md)
 
 - [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](2024年11月05日/Large_Language_Models_Orchestrating_Structured_Reasoning_Achieve_Kaggle_Grandmaster_Level.md)
 
