@@ -664,10 +664,6 @@
 
     - [翻译: 解决大型语言模型中的不确定性以提高生成式人工智能的可靠性](2024年11月04日/Addressing_Uncertainty_in_LLMs_to_Enhance_Reliability_in_Generative_AI.md)
 
-- [Advancements and limitations of LLMs in replicating human color-word associations](2024年11月04日/Advancements_and_limitations_of_LLMs_in_replicating_human_color-word_associations.md)
-
-    - [翻译: 大型语言模型（LLMs）在复制人类颜色词联想方面的进展和局限性](2024年11月04日/Advancements_and_limitations_of_LLMs_in_replicating_human_color-word_associations.md)
-
 - [Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback](2024年11月04日/Align-SLM_Textless_Spoken_Language_Models_with_Reinforcement_Learning_from_AI_Feedback.md)
 
     - [翻译: Align-SLM：通过来自人工智能反馈的强化学习的无文本口语语言模型](2024年11月04日/Align-SLM_Textless_Spoken_Language_Models_with_Reinforcement_Learning_from_AI_Feedback.md)
@@ -743,10 +739,6 @@
 - [EMMA: End-to-End Multimodal Model for Autonomous Driving](2024年11月04日/EMMA_End-to-End_Multimodal_Model_for_Autonomous_Driving.md)
 
     - [翻译: EMMA：用于自动驾驶的端到端多模态模型](2024年11月04日/EMMA_End-to-End_Multimodal_Model_for_Autonomous_Driving.md)
-
-- [Enhancing ID-based Recommendation with Large Language Models](2024年11月04日/Enhancing_ID-based_Recommendation_with_Large_Language_Models.md)
-
-    - [翻译: 用大型语言模型增强基于 ID 的推荐](2024年11月04日/Enhancing_ID-based_Recommendation_with_Large_Language_Models.md)
 
 - [Evaluating Creative Short Story Generation in Humans and Large Language Models](2024年11月04日/Evaluating_Creative_Short_Story_Generation_in_Humans_and_Large_Language_Models.md)
 
@@ -919,10 +911,6 @@
 - [Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration](2024年11月04日/Vocal_Sandbox_Continual_Learning_and_Adaptation_for_Situated_Human-Robot_Collaboration.md)
 
     - [翻译: 语音沙盒：用于情境化人机协作的持续学习和适应](2024年11月04日/Vocal_Sandbox_Continual_Learning_and_Adaptation_for_Situated_Human-Robot_Collaboration.md)
-
-- [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](2024年11月04日/WebRL_Training_LLM_Web_Agents_via_Self-Evolving_Online_Curriculum_Reinforcement_Learning.md)
-
-    - [翻译: WebRL：通过自进化在线课程强化学习训练大型语言模型网络代理](2024年11月04日/WebRL_Training_LLM_Web_Agents_via_Self-Evolving_Online_Curriculum_Reinforcement_Learning.md)
 
 - [Zebra-Llama: A Context-Aware Large Language Model for Democratizing Rare Disease Knowledge](2024年11月04日/Zebra-Llama_A_Context-Aware_Large_Language_Model_for_Democratizing_Rare_Disease_Knowledge.md)
 
