@@ -776,10 +776,6 @@
 
     - [翻译: Bio-xLSTM：生物和化学序列的生成建模、表示和上下文学习](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
 
-- [Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM Data Contamination](2024年11月06日/Both_Text_and_Images_Leaked!_A_Systematic_Analysis_of_Multimodal_LLM_Data_Contamination.md)
-
-    - [翻译: 文本和图像都泄露了！对多模态 LLM 数据污染的系统分析](2024年11月06日/Both_Text_and_Images_Leaked!_A_Systematic_Analysis_of_Multimodal_LLM_Data_Contamination.md)
-
 - [CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
 
     - [翻译: CodeTree：使用大型语言模型进行代码生成的代理引导树搜索](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
