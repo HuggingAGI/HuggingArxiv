@@ -142,10 +142,6 @@
 
     - [翻译: OpenThaiGPT 1.5：一个以泰语为中心的开源大型语言模型](2024年11月11日/OpenThaiGPT_1.5_A_Thai-Centric_Open_Source_Large_Language_Model.md)
 
-- [PDC & DM-SFT: A Road for LLM SQL Bug-Fix Enhancing](2024年11月11日/PDC_&_DM-SFT_A_Road_for_LLM_SQL_Bug-Fix_Enhancing.md)
-
-    - [翻译: PDC 和 DM-SFT：一条用于增强大型语言模型 SQL 错误修复的道路](2024年11月11日/PDC_&_DM-SFT_A_Road_for_LLM_SQL_Bug-Fix_Enhancing.md)
-
 - [Persuasion with Large Language Models: a Survey](2024年11月11日/Persuasion_with_Large_Language_Models_a_Survey.md)
 
     - [翻译: 大型语言模型的说服力：一项调查](2024年11月11日/Persuasion_with_Large_Language_Models_a_Survey.md)
@@ -207,10 +203,6 @@
     - [翻译: UTMath：通过推理到编码思想的单元测试进行数学评估](2024年11月11日/UTMath_Math_Evaluation_with_Unit_Test_via_Reasoning-to-Coding_Thoughts.md)
 
 2024年11月10日
-
-- [Accelerating Large Language Model Training with 4D Parallelism and Memory Consumption Estimator](2024年11月10日/Accelerating_Large_Language_Model_Training_with_4D_Parallelism_and_Memory_Consumption_Estimator.md)
-
-    - [翻译: 使用 4D 并行和内存消耗估计器加速大型语言模型训练](2024年11月10日/Accelerating_Large_Language_Model_Training_with_4D_Parallelism_and_Memory_Consumption_Estimator.md)
 
 - [Anchor Attention, Small Cache: Code Generation with Large Language Models](2024年11月10日/Anchor_Attention,_Small_Cache_Code_Generation_with_Large_Language_Models.md)
 
@@ -1049,10 +1041,6 @@
 - [[Vision Paper] PRObot: Enhancing Patient-Reported Outcome Measures for Diabetic Retinopathy using Chatbots and Generative AI](2024年11月05日/[Vision_Paper]_PRObot_Enhancing_Patient-Reported_Outcome_Measures_for_Diabetic_Retinopathy_using_Chatbots_and_Generative_AI.md)
 
     - [翻译: [愿景论文] PRObot：使用聊天机器人和生成式人工智能增强糖尿病视网膜病变的患者报告结局指标](2024年11月05日/[Vision_Paper]_PRObot_Enhancing_Patient-Reported_Outcome_Measures_for_Diabetic_Retinopathy_using_Chatbots_and_Generative_AI.md)
-
-- [VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation](2024年11月05日/VLA-3D_A_Dataset_for_3D_Semantic_Scene_Understanding_and_Navigation.md)
-
-    - [翻译: VLA-3D：用于 3D 语义场景理解和导航的数据集](2024年11月05日/VLA-3D_A_Dataset_for_3D_Semantic_Scene_Understanding_and_Navigation.md)
 
 - [λ-Tune: Harnessing Large Language Models for Automated Database System Tuning](2024年11月05日/λ-Tune_Harnessing_Large_Language_Models_for_Automated_Database_System_Tuning.md)
 
