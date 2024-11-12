@@ -1,5 +1,19 @@
 # 2024年11月
 
+2024年11月10日
+
+- [LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
+
+    - [翻译: LFSamba：将 SAM 与 Mamba 相结合用于光场显著目标检测](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
+
+- [PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
+
+    - [翻译: PRISM：通过解缠表示学习实现跨站点 MRI 协调的隐私保护](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
+
+- [Probabilistic Consensus through Ensemble Validation: A Framework for LLM Reliability](2024年11月10日/Probabilistic_Consensus_through_Ensemble_Validation_A_Framework_for_LLM_Reliability.md)
+
+    - [翻译: 通过集成验证的概率共识：LLM 可靠性的框架](2024年11月10日/Probabilistic_Consensus_through_Ensemble_Validation_A_Framework_for_LLM_Reliability.md)
+
 2024年11月08日
 
 - [AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality](2024年11月08日/AcceLLM_Accelerating_LLM_Inference_using_Redundancy_for_Load_Balancing_and_Data_Locality.md)
@@ -9,10 +23,6 @@
 - [Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization](2024年11月08日/Analyzing_Logs_of_Large-Scale_Software_Systems_using_Time_Curves_Visualization.md)
 
     - [翻译: 使用时间曲线可视化来分析大型软件系统的日志](2024年11月08日/Analyzing_Logs_of_Large-Scale_Software_Systems_using_Time_Curves_Visualization.md)
-
-- [Anatomy of finite-volume effect on hadronic vacuum polarization contribution to muon g-2](2024年11月08日/Anatomy_of_finite-volume_effect_on_hadronic_vacuum_polarization_contribution_to_muon_g-2.md)
-
-    - [翻译: 强子真空极化对μ子 g - 2 的贡献中有限体积效应的剖析](2024年11月08日/Anatomy_of_finite-volume_effect_on_hadronic_vacuum_polarization_contribution_to_muon_g-2.md)
 
 - [An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
 
@@ -877,10 +887,6 @@
 - [TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos](2024年11月04日/TI-PREGO_Chain_of_Thought_and_In-Context_Learning_for_Online_Mistake_Detection_in_PRocedural_EGOcentric_Videos.md)
 
     - [翻译: TI-PREGO：用于在以自我为中心的程序性视频中进行在线错误检测的思维链和上下文学习](2024年11月04日/TI-PREGO_Chain_of_Thought_and_In-Context_Learning_for_Online_Mistake_Detection_in_PRocedural_EGOcentric_Videos.md)
-
-- [Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning](2024年11月04日/Toward_Robust_Incomplete_Multimodal_Sentiment_Analysis_via_Hierarchical_Representation_Learning.md)
-
-    - [翻译: 通过分层表示学习实现鲁棒的不完整多模态情感分析](2024年11月04日/Toward_Robust_Incomplete_Multimodal_Sentiment_Analysis_via_Hierarchical_Representation_Learning.md)
 
 - [Training-free Regional Prompting for Diffusion Transformers](2024年11月04日/Training-free_Regional_Prompting_for_Diffusion_Transformers.md)
 
