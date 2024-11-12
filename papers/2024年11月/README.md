@@ -38,10 +38,6 @@
 
     - [翻译: 内容质量与注意力分配：基于 LLM 的在点对点心理健康网络中的案例研究](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
 
-- [Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework](2024年11月08日/Enhancing_Cluster_Resilience_LLM-agent_Based_Autonomous_Intelligent_Cluster_Diagnosis_System_and_Evaluation_Framework.md)
-
-    - [翻译: 增强集群弹性：基于 LLM-agent 的自主智能集群诊断系统和评估框架](2024年11月08日/Enhancing_Cluster_Resilience_LLM-agent_Based_Autonomous_Intelligent_Cluster_Diagnosis_System_and_Evaluation_Framework.md)
-
 - [Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction](2024年11月08日/Enhancing_Robustness_in_Language-Driven_Robotics_A_Modular_Approach_to_Failure_Reduction.md)
 
     - [翻译: 增强语言驱动机器人的鲁棒性：一种减少故障的模块化方法](2024年11月08日/Enhancing_Robustness_in_Language-Driven_Robotics_A_Modular_Approach_to_Failure_Reduction.md)
@@ -207,10 +203,6 @@
 - [LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG](2024年11月07日/LLM-R_A_Framework_for_Domain-Adaptive_Maintenance_Scheme_Generation_Combining_Hierarchical_Agents_and_RAG.md)
 
     - [翻译: LLM-R：一个结合分层代理和 RAG 用于生成领域自适应维护方案的框架](2024年11月07日/LLM-R_A_Framework_for_Domain-Adaptive_Maintenance_Scheme_Generation_Combining_Hierarchical_Agents_and_RAG.md)
-
-- [LuxBank: The First Universal Dependency Treebank for Luxembourgish](2024年11月07日/LuxBank_The_First_Universal_Dependency_Treebank_for_Luxembourgish.md)
-
-    - [翻译: LuxBank：卢森堡语的第一个通用依存树库](2024年11月07日/LuxBank_The_First_Universal_Dependency_Treebank_for_Luxembourgish.md)
 
 - [M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding](2024年11月07日/M3DocRAG_Multi-modal_Retrieval_is_What_You_Need_for_Multi-page_Multi-document_Understanding.md)
 
@@ -417,10 +409,6 @@
 - [Self-Consistency Preference Optimization](2024年11月06日/Self-Consistency_Preference_Optimization.md)
 
     - [翻译: 自我一致性偏好优化](2024年11月06日/Self-Consistency_Preference_Optimization.md)
-
-- [Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
-
-    - [翻译: 用于开放词汇运动生成的文本分解然后子运动空间散射](2024年11月06日/Textual_Decomposition_Then_Sub-motion-space_Scattering_for_Open-Vocabulary_Motion_Generation.md)
 
 - [The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
 
@@ -645,10 +633,6 @@
 - [A Comparative Analysis of Counterfactual Explanation Methods for Text Classifiers](2024年11月04日/A_Comparative_Analysis_of_Counterfactual_Explanation_Methods_for_Text_Classifiers.md)
 
     - [翻译: 对文本分类器的反事实解释方法的比较分析](2024年11月04日/A_Comparative_Analysis_of_Counterfactual_Explanation_Methods_for_Text_Classifiers.md)
-
-- [A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness](2024年11月04日/A_Comprehensive_Survey_of_Small_Language_Models_in_the_Era_of_Large_Language_Models_Techniques,_Enhancements,_Applications,_Collaboration_with_LLMs,_and_Trustworthiness.md)
-
-    - [翻译: 在大型语言模型时代小型语言模型的综合调查：技术、增强、应用、与大型语言模型的协作以及可信度](2024年11月04日/A_Comprehensive_Survey_of_Small_Language_Models_in_the_Era_of_Large_Language_Models_Techniques,_Enhancements,_Applications,_Collaboration_with_LLMs,_and_Trustworthiness.md)
 
 - [Adaptive Length Image Tokenization via Recurrent Allocation](2024年11月04日/Adaptive_Length_Image_Tokenization_via_Recurrent_Allocation.md)
 
