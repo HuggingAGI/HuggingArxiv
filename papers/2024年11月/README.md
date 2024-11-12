@@ -154,10 +154,6 @@
 
     - [翻译: 反向提示工程](2024年11月11日/Reverse_Prompt_Engineering.md)
 
-- [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](2024年11月11日/ROCODE_Integrating_Backtracking_Mechanism_and_Program_Analysis_in_Large_Language_Models_for_Code_Generation.md)
-
-    - [翻译: ROCODE：在大型语言模型中集成回溯机制和程序分析以用于代码生成](2024年11月11日/ROCODE_Integrating_Backtracking_Mechanism_and_Program_Analysis_in_Large_Language_Models_for_Code_Generation.md)
-
 - [SAMPart3D: Segment Any Part in 3D Objects](2024年11月11日/SAMPart3D_Segment_Any_Part_in_3D_Objects.md)
 
     - [翻译: SAMPart3D：对 3D 对象中的任何部分进行分割](2024年11月11日/SAMPart3D_Segment_Any_Part_in_3D_Objects.md)
@@ -185,10 +181,6 @@
 - [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](2024年11月11日/TabM_Advancing_Tabular_Deep_Learning_with_Parameter-Efficient_Ensembling.md)
 
     - [翻译: TabM：通过参数高效集成推进表格深度学习](2024年11月11日/TabM_Advancing_Tabular_Deep_Learning_with_Parameter-Efficient_Ensembling.md)
-
-- [The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation](2024年11月11日/The_First_Prompt_Counts_the_Most!_An_Evaluation_of_Large_Language_Models_on_Iterative_Example-based_Code_Generation.md)
-
-    - [翻译: 第一个提示最为重要！对大型语言模型在基于迭代示例的代码生成方面的评估](2024年11月11日/The_First_Prompt_Counts_the_Most!_An_Evaluation_of_Large_Language_Models_on_Iterative_Example-based_Code_Generation.md)
 
 - [The Super Weight in Large Language Models](2024年11月11日/The_Super_Weight_in_Large_Language_Models.md)
 
@@ -263,10 +255,6 @@
 - [Federated LLMs Fine-tuned with Adaptive Importance-Aware LoRA](2024年11月10日/Federated_LLMs_Fine-tuned_with_Adaptive_Importance-Aware_LoRA.md)
 
     - [翻译: 联邦大型语言模型通过自适应重要性感知 LoRA 进行微调](2024年11月10日/Federated_LLMs_Fine-tuned_with_Adaptive_Importance-Aware_LoRA.md)
-
-- [Fineweb-Edu-Ar: Machine-translated Corpus to Support Arabic Small Language Models](2024年11月10日/Fineweb-Edu-Ar_Machine-translated_Corpus_to_Support_Arabic_Small_Language_Models.md)
-
-    - [翻译: Fineweb-Edu-Ar：用于支持阿拉伯语小型语言模型的机器翻译语料库](2024年11月10日/Fineweb-Edu-Ar_Machine-translated_Corpus_to_Support_Arabic_Small_Language_Models.md)
 
 - [Foundation Model for Composite Materials and Microstructural Analysis](2024年11月10日/Foundation_Model_for_Composite_Materials_and_Microstructural_Analysis.md)
 
@@ -917,10 +905,6 @@
 - [Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation](2024年11月05日/Advanced_RAG_Models_with_Graph_Structures_Optimizing_Complex_Knowledge_Reasoning_and_Text_Generation.md)
 
     - [翻译: 具有图结构的高级 RAG 模型：优化复杂知识推理和文本生成](2024年11月05日/Advanced_RAG_Models_with_Graph_Structures_Optimizing_Complex_Knowledge_Reasoning_and_Text_Generation.md)
-
-- [AI Metropolis: Scaling Large Language Model-based Multi-Agent Simulation with Out-of-order Execution](2024年11月05日/AI_Metropolis_Scaling_Large_Language_Model-based_Multi-Agent_Simulation_with_Out-of-order_Execution.md)
-
-    - [翻译: AI 大都市：通过乱序执行扩展基于大型语言模型的多智能体模拟](2024年11月05日/AI_Metropolis_Scaling_Large_Language_Model-based_Multi-Agent_Simulation_with_Out-of-order_Execution.md)
 
 - [A Post-Training Enhanced Optimization Approach for Small Language Models](2024年11月05日/A_Post-Training_Enhanced_Optimization_Approach_for_Small_Language_Models.md)
 
