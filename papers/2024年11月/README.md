@@ -1329,3 +1329,9 @@
 - [SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF](2024年11月03日/SALSA_Soup-based_Alignment_Learning_for_Stronger_Adaptation_in_RLHF.md)
 
     - [翻译: SALSA：用于强化学习中的人类反馈强化学习（RLHF）中更强适应能力的基于汤的对齐学习](2024年11月03日/SALSA_Soup-based_Alignment_Learning_for_Stronger_Adaptation_in_RLHF.md)
+
+2024年11月02日
+
+- [Music Foundation Model as Generic Booster for Music Downstream Tasks](2024年11月02日/Music_Foundation_Model_as_Generic_Booster_for_Music_Downstream_Tasks.md)
+
+    - [翻译: 音乐基础模型作为音乐下游任务的通用助推器](2024年11月02日/Music_Foundation_Model_as_Generic_Booster_for_Music_Downstream_Tasks.md)
