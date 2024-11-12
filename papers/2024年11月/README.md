@@ -94,10 +94,6 @@
 
     - [翻译: 大规模语言模型的大规模道德机器实验](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
 
-- [Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models](2024年11月11日/Learning_from_Feedback_Semantic_Enhancement_for_Object_SLAM_Using_Foundation_Models.md)
-
-    - [翻译: 从反馈中学习：使用基础模型对对象 SLAM 进行语义增强](2024年11月11日/Learning_from_Feedback_Semantic_Enhancement_for_Object_SLAM_Using_Foundation_Models.md)
-
 - [LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
 
     - [翻译: LLM 辅助的相关性评估：我们什么时候应该向 LLM 寻求帮助？](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
@@ -484,6 +480,10 @@
 
     - [翻译: 早期的首次复制以及对用于快速列表重排序的单令牌解码的改进](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
 
+- [An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
+
+    - [翻译: 关于大型多模态模型的空间推理能力的实证分析](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
+
 - [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](2024年11月08日/A_Picture_is_Worth_A_Thousand_Numbers_Enabling_LLMs_Reason_about_Time_Series_via_Visualization.md)
 
     - [翻译: 一张图片胜过一千个数字：通过可视化使大型语言模型能够对时间序列进行推理](2024年11月08日/A_Picture_is_Worth_A_Thousand_Numbers_Enabling_LLMs_Reason_about_Time_Series_via_Visualization.md)
@@ -499,6 +499,10 @@
 - [A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis](2024年11月08日/A_Two-Step_Concept-Based_Approach_for_Enhanced_Interpretability_and_Trust_in_Skin_Lesion_Diagnosis.md)
 
     - [翻译: 一种用于增强皮肤病变诊断的可解释性和信任度的两步基于概念的方法](2024年11月08日/A_Two-Step_Concept-Based_Approach_for_Enhanced_Interpretability_and_Trust_in_Skin_Lesion_Diagnosis.md)
+
+- [Autonomous Industrial Control using an Agentic Framework with Large Language Models](2024年11月08日/Autonomous_Industrial_Control_using_an_Agentic_Framework_with_Large_Language_Models.md)
+
+    - [翻译: 使用具有大型语言模型的代理框架的自主工业控制](2024年11月08日/Autonomous_Industrial_Control_using_an_Agentic_Framework_with_Large_Language_Models.md)
 
 - [Autoregressive Models in Vision: A Survey](2024年11月08日/Autoregressive_Models_in_Vision_A_Survey.md)
 
@@ -600,6 +604,10 @@
 
     - [翻译: 回收注意力：长上下文语言模型的高效推理](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
 
+- [Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](2024年11月08日/Sufficient_Context_A_New_Lens_on_Retrieval_Augmented_Generation_Systems.md)
+
+    - [翻译: 足够的上下文：关于检索增强生成系统的新视角](2024年11月08日/Sufficient_Context_A_New_Lens_on_Retrieval_Augmented_Generation_Systems.md)
+
 - [Tell What You Hear From What You See -- Video to Audio Generation Through Text](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
 
     - [翻译: 说出你从所看到的内容中听到的东西——通过文本实现从视频到音频的生成](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
@@ -612,13 +620,13 @@
 
     - [翻译: TourSynbio-Search：用于蛋白质工程统一搜索方法的大型语言模型驱动的代理框架](2024年11月08日/TourSynbio-Search_A_Large_Language_Model_Driven_Agent_Framework_for_Unified_Search_Method_for_Protein_Engineering.md)
 
+- [Towards Multi-Modal Mastery: A 4.5B Parameter Truly Multi-Modal Small Language Model](2024年11月08日/Towards_Multi-Modal_Mastery_A_4.5B_Parameter_Truly_Multi-Modal_Small_Language_Model.md)
+
+    - [翻译: 迈向多模态精通：一个 45 亿参数的真正多模态小型语言模型](2024年11月08日/Towards_Multi-Modal_Mastery_A_4.5B_Parameter_Truly_Multi-Modal_Small_Language_Model.md)
+
 - [Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
 
     - [翻译: 揭示大型语言模型的局限性：通过 MskQA 和 MskCal 对掩码文本处理能力的系统评估](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
-
-- [Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab](2024年11月08日/Validation_of_an_LLM-based_Multi-Agent_Framework_for_Protein_Engineering_in_Dry_Lab_and_Wet_Lab.md)
-
-    - [翻译: 在干实验室和湿实验室中对基于 LLM 的蛋白质工程多智能体框架的验证](2024年11月08日/Validation_of_an_LLM-based_Multi-Agent_Framework_for_Protein_Engineering_in_Dry_Lab_and_Wet_Lab.md)
 
 - [VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
 
@@ -1002,10 +1010,6 @@
 
     - [翻译: 在代码问答中利用大型语言模型：基线和问题](2024年11月05日/Leveraging_Large_Language_Models_in_Code_Question_Answering_Baselines_and_Issues.md)
 
-- [LLMs for Domain Generation Algorithm Detection](2024年11月05日/LLMs_for_Domain_Generation_Algorithm_Detection.md)
-
-    - [翻译: 用于领域生成算法检测的大型语言模型](2024年11月05日/LLMs_for_Domain_Generation_Algorithm_Detection.md)
-
 - [Long Context RAG Performance of Large Language Models](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的长上下文 RAG 性能](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
@@ -1223,10 +1227,6 @@
 - [Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs](2024年11月04日/Leveraging_Vision-Language_Models_for_Manufacturing_Feature_Recognition_in_CAD_Designs.md)
 
     - [翻译: 利用视觉语言模型进行 CAD 设计中的制造特征识别](2024年11月04日/Leveraging_Vision-Language_Models_for_Manufacturing_Feature_Recognition_in_CAD_Designs.md)
-
-- [LLM-based Framework for Bearing Fault Diagnosis](2024年11月04日/LLM-based_Framework_for_Bearing_Fault_Diagnosis.md)
-
-    - [翻译: 基于大型语言模型（LLM）的轴承故障诊断框架](2024年11月04日/LLM-based_Framework_for_Bearing_Fault_Diagnosis.md)
 
 - [LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models](2024年11月04日/LLM-Ref_Enhancing_Reference_Handling_in_Technical_Writing_with_Large_Language_Models.md)
 
