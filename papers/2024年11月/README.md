@@ -30,9 +30,21 @@
 
     - [翻译: 用没有黄金标准的方法对大型语言模型的判断进行基准测试](2024年11月11日/Benchmarking_LLMs'_Judgments_with_No_Gold_Standard.md)
 
+- [Building a Taiwanese Mandarin Spoken Language Model: A First Attempt](2024年11月11日/Building_a_Taiwanese_Mandarin_Spoken_Language_Model_A_First_Attempt.md)
+
+    - [翻译: 构建一个台湾普通话口语语言模型：首次尝试](2024年11月11日/Building_a_Taiwanese_Mandarin_Spoken_Language_Model_A_First_Attempt.md)
+
 - [Cancer-Answer: Empowering Cancer Care with Advanced Large Language Models](2024年11月11日/Cancer-Answer_Empowering_Cancer_Care_with_Advanced_Large_Language_Models.md)
 
     - [翻译: 癌症回答：利用先进的大型语言模型增强癌症护理](2024年11月11日/Cancer-Answer_Empowering_Cancer_Care_with_Advanced_Large_Language_Models.md)
+
+- [CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models](2024年11月11日/CapeLLM_Support-Free_Category-Agnostic_Pose_Estimation_with_Multimodal_Large_Language_Models.md)
+
+    - [翻译: CapeLLM：使用多模态大型语言模型的无支持类别无关姿态估计](2024年11月11日/CapeLLM_Support-Free_Category-Agnostic_Pose_Estimation_with_Multimodal_Large_Language_Models.md)
+
+- [Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models](2024年11月11日/Chinese_SimpleQA_A_Chinese_Factuality_Evaluation_for_Large_Language_Models.md)
+
+    - [翻译: 《中文 SimpleQA：针对大型语言模型的中文真实性评估》](2024年11月11日/Chinese_SimpleQA_A_Chinese_Factuality_Evaluation_for_Large_Language_Models.md)
 
 - [Combining Domain and Alignment Vectors to Achieve Better Knowledge-Safety Trade-offs in LLMs](2024年11月11日/Combining_Domain_and_Alignment_Vectors_to_Achieve_Better_Knowledge-Safety_Trade-offs_in_LLMs.md)
 
@@ -81,6 +93,10 @@
 - [Large-scale moral machine experiment on large language models](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
 
     - [翻译: 大规模语言模型的大规模道德机器实验](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
+
+- [Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models](2024年11月11日/Learning_from_Feedback_Semantic_Enhancement_for_Object_SLAM_Using_Foundation_Models.md)
+
+    - [翻译: 从反馈中学习：使用基础模型对对象 SLAM 进行语义增强](2024年11月11日/Learning_from_Feedback_Semantic_Enhancement_for_Object_SLAM_Using_Foundation_Models.md)
 
 - [LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
 
@@ -162,6 +178,10 @@
 
     - [翻译: 嗅探 AI：我的“辣味”是你的“辣味”吗？探索大型语言模型与人类嗅觉体验的感知一致性](2024年11月11日/Sniff_AI_Is_My_'Spicy'_Your_'Spicy'_Exploring_LLM's_Perceptual_Alignment_with_Human_Smell_Experiences.md)
 
+- [StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification](2024年11月11日/StoryTeller_Improving_Long_Video_Description_through_Global_Audio-Visual_Character_Identification.md)
+
+    - [翻译: StoryTeller：通过全球视听角色识别改进长视频描述](2024年11月11日/StoryTeller_Improving_Long_Video_Description_through_Global_Audio-Visual_Character_Identification.md)
+
 - [Stronger Models are NOT Stronger Teachers for Instruction Tuning](2024年11月11日/Stronger_Models_are_NOT_Stronger_Teachers_for_Instruction_Tuning.md)
 
     - [翻译: 更强的模型并非用于指令调优的更强教师](2024年11月11日/Stronger_Models_are_NOT_Stronger_Teachers_for_Instruction_Tuning.md)
@@ -200,13 +220,53 @@
 
 2024年11月10日
 
+- [Anchor Attention, Small Cache: Code Generation with Large Language Models](2024年11月10日/Anchor_Attention,_Small_Cache_Code_Generation_with_Large_Language_Models.md)
+
+    - [翻译: 锚点注意力，小缓存：使用大型语言模型进行代码生成](2024年11月10日/Anchor_Attention,_Small_Cache_Code_Generation_with_Large_Language_Models.md)
+
+- [Autonomous Droplet Microfluidic Design Framework with Large Language Models](2024年11月10日/Autonomous_Droplet_Microfluidic_Design_Framework_with_Large_Language_Models.md)
+
+    - [翻译: 具有大型语言模型的自主液滴微流控设计框架](2024年11月10日/Autonomous_Droplet_Microfluidic_Design_Framework_with_Large_Language_Models.md)
+
+- [Causal Representation Learning from Multimodal Biological Observations](2024年11月10日/Causal_Representation_Learning_from_Multimodal_Biological_Observations.md)
+
+    - [翻译: 从多模态生物观测中进行因果表示学习](2024年11月10日/Causal_Representation_Learning_from_Multimodal_Biological_Observations.md)
+
+- [ClinicalBench: Can LLMs Beat Traditional ML Models in Clinical Prediction?](2024年11月10日/ClinicalBench_Can_LLMs_Beat_Traditional_ML_Models_in_Clinical_Prediction.md)
+
+    - [翻译: ClinicalBench：大型语言模型在临床预测中能击败传统机器学习模型吗？](2024年11月10日/ClinicalBench_Can_LLMs_Beat_Traditional_ML_Models_in_Clinical_Prediction.md)
+
 - [CriticAL: Critic Automation with Language Models](2024年11月10日/CriticAL_Critic_Automation_with_Language_Models.md)
 
     - [翻译: CriticAL: 利用语言模型的批评自动化](2024年11月10日/CriticAL_Critic_Automation_with_Language_Models.md)
 
+- [EcoServe: Maximizing Multi-Resource Utilization with SLO Guarantees in LLM Serving](2024年11月10日/EcoServe_Maximizing_Multi-Resource_Utilization_with_SLO_Guarantees_in_LLM_Serving.md)
+
+    - [翻译: EcoServe：在 LLM 服务中以 SLO 保证实现多资源利用率最大化](2024年11月10日/EcoServe_Maximizing_Multi-Resource_Utilization_with_SLO_Guarantees_in_LLM_Serving.md)
+
+- [Explore the Reasoning Capability of LLMs in the Chess Testbed](2024年11月10日/Explore_the_Reasoning_Capability_of_LLMs_in_the_Chess_Testbed.md)
+
+    - [翻译: 探索大型语言模型（LLMs）在国际象棋测试平台中的推理能力](2024年11月10日/Explore_the_Reasoning_Capability_of_LLMs_in_the_Chess_Testbed.md)
+
 - [Federated LLMs Fine-tuned with Adaptive Importance-Aware LoRA](2024年11月10日/Federated_LLMs_Fine-tuned_with_Adaptive_Importance-Aware_LoRA.md)
 
     - [翻译: 联邦大型语言模型通过自适应重要性感知 LoRA 进行微调](2024年11月10日/Federated_LLMs_Fine-tuned_with_Adaptive_Importance-Aware_LoRA.md)
+
+- [Fineweb-Edu-Ar: Machine-translated Corpus to Support Arabic Small Language Models](2024年11月10日/Fineweb-Edu-Ar_Machine-translated_Corpus_to_Support_Arabic_Small_Language_Models.md)
+
+    - [翻译: Fineweb-Edu-Ar：用于支持阿拉伯语小型语言模型的机器翻译语料库](2024年11月10日/Fineweb-Edu-Ar_Machine-translated_Corpus_to_Support_Arabic_Small_Language_Models.md)
+
+- [Foundation Model for Composite Materials and Microstructural Analysis](2024年11月10日/Foundation_Model_for_Composite_Materials_and_Microstructural_Analysis.md)
+
+    - [翻译: 复合材料和微观结构分析的基础模型](2024年11月10日/Foundation_Model_for_Composite_Materials_and_Microstructural_Analysis.md)
+
+- [Hermes: A Large Language Model Framework on the Journey to Autonomous Networks](2024年11月10日/Hermes_A_Large_Language_Model_Framework_on_the_Journey_to_Autonomous_Networks.md)
+
+    - [翻译: Hermes：一个在通往自主网络之旅中的大型语言模型框架](2024年11月10日/Hermes_A_Large_Language_Model_Framework_on_the_Journey_to_Autonomous_Networks.md)
+
+- [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](2024年11月10日/Is_Your_LLM_Secretly_a_World_Model_of_the_Internet_Model-Based_Planning_for_Web_Agents.md)
+
+    - [翻译: 您的大型语言模型（LLM）是否秘密地是互联网的世界模型？基于模型的 Web 代理规划](2024年11月10日/Is_Your_LLM_Secretly_a_World_Model_of_the_Internet_Model-Based_Planning_for_Web_Agents.md)
 
 - [Learning Loss Landscapes in Preference Optimization](2024年11月10日/Learning_Loss_Landscapes_in_Preference_Optimization.md)
 
@@ -216,9 +276,17 @@
 
     - [翻译: LFSamba：将 SAM 与 Mamba 相结合用于光场显著目标检测](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
 
+- [LProtector: An LLM-driven Vulnerability Detection System](2024年11月10日/LProtector_An_LLM-driven_Vulnerability_Detection_System.md)
+
+    - [翻译: LProtector：一个由大型语言模型驱动的漏洞检测系统](2024年11月10日/LProtector_An_LLM-driven_Vulnerability_Detection_System.md)
+
 - [Model Editing for LLMs4Code: How Far are We?](2024年11月10日/Model_Editing_for_LLMs4Code_How_Far_are_We.md)
 
     - [翻译: 针对 LLMs4Code 的模型编辑：我们走了多远？](2024年11月10日/Model_Editing_for_LLMs4Code_How_Far_are_We.md)
+
+- [Model Fusion through Bayesian Optimization in Language Model Fine-Tuning](2024年11月10日/Model_Fusion_through_Bayesian_Optimization_in_Language_Model_Fine-Tuning.md)
+
+    - [翻译: 通过贝叶斯优化在语言模型微调中的模型融合](2024年11月10日/Model_Fusion_through_Bayesian_Optimization_in_Language_Model_Fine-Tuning.md)
 
 - [PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
 
@@ -228,9 +296,21 @@
 
     - [翻译: SaSR-Net：用于增强视听问答的源感知语义表示网络](2024年11月10日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
 
+- [Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation](2024年11月10日/Self-Training_Meets_Consistency_Improving_LLMs'_Reasoning_With_Consistency-Driven_Rationale_Evaluation.md)
+
+    - [翻译: 自我训练遇到一致性：通过一致性驱动的原理评估来改进大型语言模型（LLM）的推理能力](2024年11月10日/Self-Training_Meets_Consistency_Improving_LLMs'_Reasoning_With_Consistency-Driven_Rationale_Evaluation.md)
+
+- [SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](2024年11月10日/SequentialBreak_Large_Language_Models_Can_be_Fooled_by_Embedding_Jailbreak_Prompts_into_Sequential_Prompt_Chains.md)
+
+    - [翻译: SequentialBreak：大型语言模型可能会被嵌入越狱提示到顺序提示链中所愚弄。](2024年11月10日/SequentialBreak_Large_Language_Models_Can_be_Fooled_by_Embedding_Jailbreak_Prompts_into_Sequential_Prompt_Chains.md)
+
 - [vTune: Verifiable Fine-Tuning for LLMs Through Backdooring](2024年11月10日/vTune_Verifiable_Fine-Tuning_for_LLMs_Through_Backdooring.md)
 
     - [翻译: vTune：通过后门实现大型语言模型的可验证微调](2024年11月10日/vTune_Verifiable_Fine-Tuning_for_LLMs_Through_Backdooring.md)
+
+- [WDMoE: Wireless Distributed Mixture of Experts for Large Language Models](2024年11月10日/WDMoE_Wireless_Distributed_Mixture_of_Experts_for_Large_Language_Models.md)
+
+    - [翻译: WDMoE：用于大型语言模型的无线分布式专家混合体](2024年11月10日/WDMoE_Wireless_Distributed_Mixture_of_Experts_for_Large_Language_Models.md)
 
 2024年11月09日
 
@@ -702,10 +782,6 @@
 
     - [翻译: DiffLM：通过扩散语言模型实现可控的合成数据生成](2024年11月05日/DiffLM_Controllable_Synthetic_Data_Generation_via_Diffusion_Language_Models.md)
 
-- [Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization](2024年11月05日/Domain_Expansion_and_Boundary_Growth_for_Open-Set_Single-Source_Domain_Generalization.md)
-
-    - [翻译: 领域扩展和边界增长用于开放集单源领域泛化](2024年11月05日/Domain_Expansion_and_Boundary_Growth_for_Open-Set_Single-Source_Domain_Generalization.md)
-
 - [DroidSpeak: Enhancing Cross-LLM Communication](2024年11月05日/DroidSpeak_Enhancing_Cross-LLM_Communication.md)
 
     - [翻译: DroidSpeak：增强跨大型语言模型通信](2024年11月05日/DroidSpeak_Enhancing_Cross-LLM_Communication.md)
@@ -1019,10 +1095,6 @@
 - [Positive Experience Reflection for Agents in Interactive Text Environments](2024年11月04日/Positive_Experience_Reflection_for_Agents_in_Interactive_Text_Environments.md)
 
     - [翻译: 在交互式文本环境中对智能体的积极体验反思](2024年11月04日/Positive_Experience_Reflection_for_Agents_in_Interactive_Text_Environments.md)
-
-- [PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance](2024年11月04日/PPLLaVA_Varied_Video_Sequence_Understanding_With_Prompt_Guidance.md)
-
-    - [翻译: PPLLaVA：具有提示指导的各种视频序列理解](2024年11月04日/PPLLaVA_Varied_Video_Sequence_Understanding_With_Prompt_Guidance.md)
 
 - [Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning](2024年11月04日/Provably_Transformers_Harness_Multi-Concept_Word_Semantics_for_Efficient_In-Context_Learning.md)
 
