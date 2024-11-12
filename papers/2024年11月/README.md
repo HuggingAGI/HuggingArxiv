@@ -442,10 +442,6 @@
 
     - [翻译: OpenCoder：顶级代码大型语言模型的开放食谱](2024年11月09日/OpenCoder_The_Open_Cookbook_for_Top-Tier_Code_Large_Language_Models.md)
 
-- [Optimized Inference for 1.58-bit LLMs: A Time and Memory-Efficient Algorithm for Binary and Ternary Matrix Multiplication](2024年11月09日/Optimized_Inference_for_1.58-bit_LLMs_A_Time_and_Memory-Efficient_Algorithm_for_Binary_and_Ternary_Matrix_Multiplication.md)
-
-    - [翻译: 针对 1.58 位大型语言模型的优化推理：一种用于二进制和三进制矩阵乘法的时间和内存高效算法](2024年11月09日/Optimized_Inference_for_1.58-bit_LLMs_A_Time_and_Memory-Efficient_Algorithm_for_Binary_and_Ternary_Matrix_Multiplication.md)
-
 - [Optimizing Large Language Models through Quantization: A Comparative Analysis of PTQ and QAT Techniques](2024年11月09日/Optimizing_Large_Language_Models_through_Quantization_A_Comparative_Analysis_of_PTQ_and_QAT_Techniques.md)
 
     - [翻译: 通过量化优化大型语言模型：PTQ 和 QAT 技术的比较分析](2024年11月09日/Optimizing_Large_Language_Models_through_Quantization_A_Comparative_Analysis_of_PTQ_and_QAT_Techniques.md)
@@ -488,6 +484,10 @@
 
     - [翻译: 早期的首次复制以及对用于快速列表重排序的单令牌解码的改进](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
 
+- [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](2024年11月08日/A_Picture_is_Worth_A_Thousand_Numbers_Enabling_LLMs_Reason_about_Time_Series_via_Visualization.md)
+
+    - [翻译: 一张图片胜过一千个数字：通过可视化使大型语言模型能够对时间序列进行推理](2024年11月08日/A_Picture_is_Worth_A_Thousand_Numbers_Enabling_LLMs_Reason_about_Time_Series_via_Visualization.md)
+
 - [Assessing Open-Source Large Language Models on Argumentation Mining Subtasks](2024年11月08日/Assessing_Open-Source_Large_Language_Models_on_Argumentation_Mining_Subtasks.md)
 
     - [翻译: 评估开源大型语言模型在论证挖掘子任务上的表现](2024年11月08日/Assessing_Open-Source_Large_Language_Models_on_Argumentation_Mining_Subtasks.md)
@@ -511,6 +511,10 @@
 - [Content Quality vs. Attention Allocation: An LLM-Based Case Study in Peer-to-peer Mental Health Networks](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
 
     - [翻译: 内容质量与注意力分配：基于 LLM 的在点对点心理健康网络中的案例研究](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
+
+- [Enhancing Cardiovascular Disease Prediction through Multi-Modal Self-Supervised Learning](2024年11月08日/Enhancing_Cardiovascular_Disease_Prediction_through_Multi-Modal_Self-Supervised_Learning.md)
+
+    - [翻译: 通过多模态自监督学习增强心血管疾病预测](2024年11月08日/Enhancing_Cardiovascular_Disease_Prediction_through_Multi-Modal_Self-Supervised_Learning.md)
 
 - [Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction](2024年11月08日/Enhancing_Robustness_in_Language-Driven_Robotics_A_Modular_Approach_to_Failure_Reduction.md)
 
@@ -556,6 +560,10 @@
 
     - [翻译: 通过离线强化学习改进多领域任务导向的对话系统](2024年11月08日/Improving_Multi-Domain_Task-Oriented_Dialogue_System_with_Offline_Reinforcement_Learning.md)
 
+- [Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
+
+    - [翻译: 将对象检测模态集成到视觉语言模型中，以增强自动驾驶代理。](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
+
 - [IntellBot: Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
 
     - [翻译: IntellBot：用于网络威胁知识传递的检索增强型大型语言模型聊天机器人](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
@@ -584,6 +592,10 @@
 
     - [翻译: 通过视网膜图和多模态自监督学习来预测中风](2024年11月08日/Predicting_Stroke_through_Retinal_Graphs_and_Multimodal_Self-supervised_Learning.md)
 
+- [Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving](2024年11月08日/Qwen2.5-32B_Leveraging_Self-Consistent_Tool-Integrated_Reasoning_for_Bengali_Mathematical_Olympiad_Problem_Solving.md)
+
+    - [翻译: Qwen2.5-32B：利用自洽的工具集成推理来解决孟加拉数学奥林匹克问题](2024年11月08日/Qwen2.5-32B_Leveraging_Self-Consistent_Tool-Integrated_Reasoning_for_Bengali_Mathematical_Olympiad_Problem_Solving.md)
+
 - [Recycled Attention: Efficient inference for long-context language models](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
 
     - [翻译: 回收注意力：长上下文语言模型的高效推理](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
@@ -595,6 +607,10 @@
 - [The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent](2024年11月08日/The_influence_of_persona_and_conversational_task_on_social_interactions_with_a_LLM-controlled_embodied_conversational_agent.md)
 
     - [翻译: 角色和会话任务对与由大型语言模型控制的具身会话代理的社交互动的影响](2024年11月08日/The_influence_of_persona_and_conversational_task_on_social_interactions_with_a_LLM-controlled_embodied_conversational_agent.md)
+
+- [TourSynbio-Search: A Large Language Model Driven Agent Framework for Unified Search Method for Protein Engineering](2024年11月08日/TourSynbio-Search_A_Large_Language_Model_Driven_Agent_Framework_for_Unified_Search_Method_for_Protein_Engineering.md)
+
+    - [翻译: TourSynbio-Search：用于蛋白质工程统一搜索方法的大型语言模型驱动的代理框架](2024年11月08日/TourSynbio-Search_A_Large_Language_Model_Driven_Agent_Framework_for_Unified_Search_Method_for_Protein_Engineering.md)
 
 - [Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
 
@@ -775,10 +791,6 @@
 - [Data Fusion of Synthetic Query Variants With Generative Large Language Models](2024年11月06日/Data_Fusion_of_Synthetic_Query_Variants_With_Generative_Large_Language_Models.md)
 
     - [翻译: 合成查询变体与生成式大型语言模型的数据融合](2024年11月06日/Data_Fusion_of_Synthetic_Query_Variants_With_Generative_Large_Language_Models.md)
-
-- [DELIFT: Data Efficient Language model Instruction Fine Tuning](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
-
-    - [翻译: DELIFT：数据高效语言模型指令微调](2024年11月06日/DELIFT_Data_Efficient_Language_model_Instruction_Fine_Tuning.md)
 
 - [Enhancing classroom teaching with LLMs and RAG](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
 
@@ -1223,10 +1235,6 @@
 - [LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models](2024年11月04日/LLM-Ref_Enhancing_Reference_Handling_in_Technical_Writing_with_Large_Language_Models.md)
 
     - [翻译: LLM-Ref：利用大型语言模型增强技术写作中的参考处理](2024年11月04日/LLM-Ref_Enhancing_Reference_Handling_in_Technical_Writing_with_Large_Language_Models.md)
-
-- [MdEval: Massively Multilingual Code Debugging](2024年11月04日/MdEval_Massively_Multilingual_Code_Debugging.md)
-
-    - [翻译: MdEval：大规模多语言代码调试](2024年11月04日/MdEval_Massively_Multilingual_Code_Debugging.md)
 
 - [Memory Augmented Cross-encoders for Controllable Personalized Search](2024年11月04日/Memory_Augmented_Cross-encoders_for_Controllable_Personalized_Search.md)
 
