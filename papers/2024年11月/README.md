@@ -10,6 +10,10 @@
 
     - [翻译: 癌症回答：利用先进的大型语言模型增强癌症护理](2024年11月11日/Cancer-Answer_Empowering_Cancer_Care_with_Advanced_Large_Language_Models.md)
 
+- [Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks](2024年11月11日/Comparing_Bottom-Up_and_Top-Down_Steering_Approaches_on_In-Context_Learning_Tasks.md)
+
+    - [翻译: 在上下文学习任务中比较自下而上和自上而下的引导方法](2024年11月11日/Comparing_Bottom-Up_and_Top-Down_Steering_Approaches_on_In-Context_Learning_Tasks.md)
+
 - [EVQAScore: Efficient Video Question Answering Data Evaluation](2024年11月11日/EVQAScore_Efficient_Video_Question_Answering_Data_Evaluation.md)
 
     - [翻译: EVQAScore：高效的视频问答数据评估](2024年11月11日/EVQAScore_Efficient_Video_Question_Answering_Data_Evaluation.md)
@@ -34,9 +38,17 @@
 
     - [翻译: LLM 辅助的相关性评估：我们什么时候应该向 LLM 寻求帮助？](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
 
+- [LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models](2024年11月11日/LLM-Neo_Parameter_Efficient_Knowledge_Distillation_for_Large_Language_Models.md)
+
+    - [翻译: LLM-Neo：大型语言模型的参数高效知识蒸馏](2024年11月11日/LLM-Neo_Parameter_Efficient_Knowledge_Distillation_for_Large_Language_Models.md)
+
 - [LongSafetyBench: Long-Context LLMs Struggle with Safety Issues](2024年11月11日/LongSafetyBench_Long-Context_LLMs_Struggle_with_Safety_Issues.md)
 
     - [翻译: LongSafetyBench：长上下文的大型语言模型在安全问题上举步维艰。](2024年11月11日/LongSafetyBench_Long-Context_LLMs_Struggle_with_Safety_Issues.md)
+
+- [Minion: A Technology Probe for Resolving Value Conflicts through Expert-Driven and User-Driven Strategies in AI Companion Applications](2024年11月11日/Minion_A_Technology_Probe_for_Resolving_Value_Conflicts_through_Expert-Driven_and_User-Driven_Strategies_in_AI_Companion_Applications.md)
+
+    - [翻译: 小黄人：一种通过专家驱动和用户驱动策略在人工智能陪伴应用中解决价值冲突的技术探索](2024年11月11日/Minion_A_Technology_Probe_for_Resolving_Value_Conflicts_through_Expert-Driven_and_User-Driven_Strategies_in_AI_Companion_Applications.md)
 
 - [Multimodal Structure-Aware Quantum Data Processing](2024年11月11日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
 
@@ -53,6 +65,10 @@
 - [Sniff AI: Is My 'Spicy' Your 'Spicy'? Exploring LLM's Perceptual Alignment with Human Smell Experiences](2024年11月11日/Sniff_AI_Is_My_'Spicy'_Your_'Spicy'_Exploring_LLM's_Perceptual_Alignment_with_Human_Smell_Experiences.md)
 
     - [翻译: 嗅探 AI：我的“辣味”是你的“辣味”吗？探索大型语言模型与人类嗅觉体验的感知一致性](2024年11月11日/Sniff_AI_Is_My_'Spicy'_Your_'Spicy'_Exploring_LLM's_Perceptual_Alignment_with_Human_Smell_Experiences.md)
+
+- [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](2024年11月11日/TabM_Advancing_Tabular_Deep_Learning_with_Parameter-Efficient_Ensembling.md)
+
+    - [翻译: TabM：通过参数高效集成推进表格深度学习](2024年11月11日/TabM_Advancing_Tabular_Deep_Learning_with_Parameter-Efficient_Ensembling.md)
 
 - [The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation](2024年11月11日/The_First_Prompt_Counts_the_Most!_An_Evaluation_of_Large_Language_Models_on_Iterative_Example-based_Code_Generation.md)
 
@@ -183,10 +199,6 @@
 - [KyrgyzNLP: Challenges, Progress, and Future](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
 
     - [翻译: 吉尔吉斯语自然语言处理：挑战、进展和未来](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
-
-- [LBPE: Long-token-first Tokenization to Improve Large Language Models](2024年11月08日/LBPE_Long-token-first_Tokenization_to_Improve_Large_Language_Models.md)
-
-    - [翻译: LBPE：长标记优先标记化以改进大型语言模型](2024年11月08日/LBPE_Long-token-first_Tokenization_to_Improve_Large_Language_Models.md)
 
 - [Learning the rules of peptide self-assembly through data mining with large language models](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
 
