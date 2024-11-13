@@ -325,10 +325,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: StoryTeller：通过全球视听角色识别改进长视频描述](2024年11月11日/StoryTeller_Improving_Long_Video_Description_through_Global_Audio-Visual_Character_Identification.md)
 
-- [Stronger Models are NOT Stronger Teachers for Instruction Tuning](2024年11月11日/Stronger_Models_are_NOT_Stronger_Teachers_for_Instruction_Tuning.md)
-
-    - [翻译: 更强的模型并非用于指令调优的更强教师](2024年11月11日/Stronger_Models_are_NOT_Stronger_Teachers_for_Instruction_Tuning.md)
-
 - [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](2024年11月11日/TabM_Advancing_Tabular_Deep_Learning_with_Parameter-Efficient_Ensembling.md)
 
     - [翻译: TabM：通过参数高效集成推进表格深度学习](2024年11月11日/TabM_Advancing_Tabular_Deep_Learning_with_Parameter-Efficient_Ensembling.md)
@@ -659,10 +655,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 利用高级歌曲描述符实现基于自然语言的音乐推荐](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
 
-- [Improving Multi-Domain Task-Oriented Dialogue System with Offline Reinforcement Learning](2024年11月08日/Improving_Multi-Domain_Task-Oriented_Dialogue_System_with_Offline_Reinforcement_Learning.md)
-
-    - [翻译: 通过离线强化学习改进多领域任务导向的对话系统](2024年11月08日/Improving_Multi-Domain_Task-Oriented_Dialogue_System_with_Offline_Reinforcement_Learning.md)
-
 - [Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
 
     - [翻译: 将对象检测模态集成到视觉语言模型中，以增强自动驾驶代理。](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
@@ -706,10 +698,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Tell What You Hear From What You See -- Video to Audio Generation Through Text](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
 
     - [翻译: 说出你从所看到的内容中听到的东西——通过文本实现从视频到音频的生成](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
-
-- [The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent](2024年11月08日/The_influence_of_persona_and_conversational_task_on_social_interactions_with_a_LLM-controlled_embodied_conversational_agent.md)
-
-    - [翻译: 角色和会话任务对与由大型语言模型控制的具身会话代理的社交互动的影响](2024年11月08日/The_influence_of_persona_and_conversational_task_on_social_interactions_with_a_LLM-controlled_embodied_conversational_agent.md)
 
 - [TourSynbio-Search: A Large Language Model Driven Agent Framework for Unified Search Method for Protein Engineering](2024年11月08日/TourSynbio-Search_A_Large_Language_Model_Driven_Agent_Framework_for_Unified_Search_Method_for_Protein_Engineering.md)
 
