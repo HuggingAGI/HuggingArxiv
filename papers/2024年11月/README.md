@@ -10,13 +10,33 @@
 
     - [翻译: 大型语言模型的对抗性攻击可以归因吗？](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
 
+- [Circuit Complexity Bounds for RoPE-based Transformer Architecture](2024年11月12日/Circuit_Complexity_Bounds_for_RoPE-based_Transformer_Architecture.md)
+
+    - [翻译: 基于 RoPE 的 Transformer 架构的电路复杂性界限](2024年11月12日/Circuit_Complexity_Bounds_for_RoPE-based_Transformer_Architecture.md)
+
+- [CryptoLLM: Unleashing the Power of Prompted LLMs for SmartQnA and Classification of Crypto Posts](2024年11月12日/CryptoLLM_Unleashing_the_Power_of_Prompted_LLMs_for_SmartQnA_and_Classification_of_Crypto_Posts.md)
+
+    - [翻译: CryptoLLM：释放提示型 LLMs 在智能问答和加密帖子分类方面的力量](2024年11月12日/CryptoLLM_Unleashing_the_Power_of_Prompted_LLMs_for_SmartQnA_and_Classification_of_Crypto_Posts.md)
+
 - [Derivational Morphology Reveals Analogical Generalization in Large Language Models](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
 
     - [翻译: 派生形态学揭示了大型语言模型中的类比概括。](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
 
+- [Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
+
+    - [翻译: 具有资源受限设备的微型 Transformer 的高效联邦微调](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
+
+- [Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](2024年11月12日/Enhancing_Ultra_High_Resolution_Remote_Sensing_Imagery_Analysis_with_ImageRAG.md)
+
+    - [翻译: 用 ImageRAG 增强超高分辨率遥感图像分析](2024年11月12日/Enhancing_Ultra_High_Resolution_Remote_Sensing_Imagery_Analysis_with_ImageRAG.md)
+
 - [Entropy Controllable Direct Preference Optimization](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
 
     - [翻译: 熵可控直接偏好优化](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
+
+- [Evaluating the Generation of Spatial Relations in Text and Image Generative Models](2024年11月12日/Evaluating_the_Generation_of_Spatial_Relations_in_Text_and_Image_Generative_Models.md)
+
+    - [翻译: 评估文本和图像生成模型中空间关系的生成](2024年11月12日/Evaluating_the_Generation_of_Spatial_Relations_in_Text_and_Image_Generative_Models.md)
 
 - [ExpressivityArena: Can LLMs Express Information Implicitly?](2024年11月12日/ExpressivityArena_Can_LLMs_Express_Information_Implicitly.md)
 
@@ -29,6 +49,18 @@
 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
 
     - [翻译: 高斯万物：用于 3D 生成的交互式点云潜在扩散](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
+
+- [Generative AI in Self-Directed Learning: A Scoping Review](2024年11月12日/Generative_AI_in_Self-Directed_Learning_A_Scoping_Review.md)
+
+    - [翻译: 生成式人工智能在自主学习中的应用：范围综述](2024年11月12日/Generative_AI_in_Self-Directed_Learning_A_Scoping_Review.md)
+
+- [Grounded Video Caption Generation](2024年11月12日/Grounded_Video_Caption_Generation.md)
+
+    - [翻译: 基于基础的视频字幕生成](2024年11月12日/Grounded_Video_Caption_Generation.md)
+
+- [Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models](2024年11月12日/Improving_Grapheme-to-Phoneme_Conversion_through_In-Context_Knowledge_Retrieval_with_Large_Language_Models.md)
+
+    - [翻译: 通过大型语言模型的上下文知识检索来改进字素到音素的转换](2024年11月12日/Improving_Grapheme-to-Phoneme_Conversion_through_In-Context_Knowledge_Retrieval_with_Large_Language_Models.md)
 
 - [Language Models as Causal Effect Generators](2024年11月12日/Language_Models_as_Causal_Effect_Generators.md)
 
@@ -50,6 +82,14 @@
 
     - [翻译: LLMPhy：使用大型语言模型和世界模型的复杂物理推理](2024年11月12日/LLMPhy_Complex_Physical_Reasoning_Using_Large_Language_Models_and_World_Models.md)
 
+- [OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
+
+    - [翻译: OWLed：用于高效自动驾驶框架的离群值加权分层剪枝](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
+
+- [Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models](2024年11月12日/Query_Optimization_for_Parametric_Knowledge_Refinement_in_Retrieval-Augmented_Large_Language_Models.md)
+
+    - [翻译: 在检索增强型大型语言模型中针对参数知识细化的查询优化](2024年11月12日/Query_Optimization_for_Parametric_Knowledge_Refinement_in_Retrieval-Augmented_Large_Language_Models.md)
+
 - [Top-$nσ$: Not All Logits Are You Need](2024年11月12日/Top-$nσ$_Not_All_Logits_Are_You_Need.md)
 
     - [翻译: Top-$nσ$: 并非所有的对数概率值都是您所需要的](2024年11月12日/Top-$nσ$_Not_All_Logits_Are_You_Need.md)
@@ -58,13 +98,30 @@
 
     - [翻译: 关于推荐系统的自动化模型设计](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
 
+- [Trustful LLMs: Customizing and Grounding Text Generation with Knowledge Bases and Dual Decoders](2024年11月12日/Trustful_LLMs_Customizing_and_Grounding_Text_Generation_with_Knowledge_Bases_and_Dual_Decoders.md)
+
+    - [翻译: 可信的大型语言模型：使用知识库和双解码器定制和扎根文本生成](2024年11月12日/Trustful_LLMs_Customizing_and_Grounding_Text_Generation_with_Knowledge_Bases_and_Dual_Decoders.md)
+
 - [Unlocking Legal Knowledge with Multi-Layered Embedding-Based Retrieval](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
 
     - [翻译: 通过基于多层嵌入的检索来解锁法律知识](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
 
+- [Verbosity $\neq$ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models](2024年11月12日/Verbosity_$\neq$_Veracity_Demystify_Verbosity_Compensation_Behavior_of_Large_Language_Models.md)
+
+    - [翻译: 冗长性 $
+eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱](2024年11月12日/Verbosity_$\neq$_Veracity_Demystify_Verbosity_Compensation_Behavior_of_Large_Language_Models.md)
+
+- [What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?](2024年11月12日/What_Do_Learning_Dynamics_Reveal_About_Generalization_in_LLM_Reasoning.md)
+
+    - [翻译: 关于大型语言模型推理中的泛化，学习动态揭示了什么？](2024年11月12日/What_Do_Learning_Dynamics_Reveal_About_Generalization_in_LLM_Reasoning.md)
+
 - [World Models: The Safety Perspective](2024年11月12日/World_Models_The_Safety_Perspective.md)
 
     - [翻译: 世界模型：安全视角](2024年11月12日/World_Models_The_Safety_Perspective.md)
+
+- [Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models](2024年11月12日/Zer0-Jack_A_Memory-efficient_Gradient-based_Jailbreaking_Method_for_Black-box_Multi-modal_Large_Language_Models.md)
+
+    - [翻译: Zer0-Jack：一种用于黑箱多模态大型语言模型的内存高效的基于梯度的越狱方法](2024年11月12日/Zer0-Jack_A_Memory-efficient_Gradient-based_Jailbreaking_Method_for_Black-box_Multi-modal_Large_Language_Models.md)
 
 2024年11月11日
 
@@ -325,10 +382,6 @@
 - [LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
 
     - [翻译: LFSamba：将 SAM 与 Mamba 相结合用于光场显著目标检测](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
-
-- [LProtector: An LLM-driven Vulnerability Detection System](2024年11月10日/LProtector_An_LLM-driven_Vulnerability_Detection_System.md)
-
-    - [翻译: LProtector：一个由大型语言模型驱动的漏洞检测系统](2024年11月10日/LProtector_An_LLM-driven_Vulnerability_Detection_System.md)
 
 - [Model Editing for LLMs4Code: How Far are We?](2024年11月10日/Model_Editing_for_LLMs4Code_How_Far_are_We.md)
 
@@ -814,10 +867,6 @@
 
     - [翻译: 通过多模态子空间代理学习的定制多聚类](2024年11月06日/Customized_Multiple_Clustering_via_Multi-Modal_Subspace_Proxy_Learning.md)
 
-- [Data Fusion of Synthetic Query Variants With Generative Large Language Models](2024年11月06日/Data_Fusion_of_Synthetic_Query_Variants_With_Generative_Large_Language_Models.md)
-
-    - [翻译: 合成查询变体与生成式大型语言模型的数据融合](2024年11月06日/Data_Fusion_of_Synthetic_Query_Variants_With_Generative_Large_Language_Models.md)
-
 - [Enhancing classroom teaching with LLMs and RAG](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
 
     - [翻译: 用大型语言模型和检索增强生成改善课堂教学](2024年11月06日/Enhancing_classroom_teaching_with_LLMs_and_RAG.md)
@@ -1007,10 +1056,6 @@
 - [HumanVLM: Foundation for Human-Scene Vision-Language Model](2024年11月05日/HumanVLM_Foundation_for_Human-Scene_Vision-Language_Model.md)
 
     - [翻译: HumanVLM：人类场景视觉语言模型的基础](2024年11月05日/HumanVLM_Foundation_for_Human-Scene_Vision-Language_Model.md)
-
-- [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level](2024年11月05日/Large_Language_Models_Orchestrating_Structured_Reasoning_Achieve_Kaggle_Grandmaster_Level.md)
-
-    - [翻译: 大型语言模型协调结构化推理达到 Kaggle 特级大师水平](2024年11月05日/Large_Language_Models_Orchestrating_Structured_Reasoning_Achieve_Kaggle_Grandmaster_Level.md)
 
 - [Layer-Adaptive State Pruning for Deep State Space Models](2024年11月05日/Layer-Adaptive_State_Pruning_for_Deep_State_Space_Models.md)
 
