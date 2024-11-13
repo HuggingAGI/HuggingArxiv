@@ -274,10 +274,6 @@
 
     - [翻译: 具有大型语言模型的自主液滴微流控设计框架](2024年11月10日/Autonomous_Droplet_Microfluidic_Design_Framework_with_Large_Language_Models.md)
 
-- [Causal Representation Learning from Multimodal Biological Observations](2024年11月10日/Causal_Representation_Learning_from_Multimodal_Biological_Observations.md)
-
-    - [翻译: 从多模态生物观测中进行因果表示学习](2024年11月10日/Causal_Representation_Learning_from_Multimodal_Biological_Observations.md)
-
 - [CausalStock: Deep End-to-end Causal Discovery for News-driven Stock Movement Prediction](2024年11月10日/CausalStock_Deep_End-to-end_Causal_Discovery_for_News-driven_Stock_Movement_Prediction.md)
 
     - [翻译: CausalStock：用于新闻驱动的股票走势预测的深度端到端因果发现](2024年11月10日/CausalStock_Deep_End-to-end_Causal_Discovery_for_News-driven_Stock_Movement_Prediction.md)
@@ -625,10 +621,6 @@
 - [Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
 
     - [翻译: 多跳证据追踪遇见网络：FEVER 2024 中的 Papelo 团队](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
-
-- [Predicting Stroke through Retinal Graphs and Multimodal Self-supervised Learning](2024年11月08日/Predicting_Stroke_through_Retinal_Graphs_and_Multimodal_Self-supervised_Learning.md)
-
-    - [翻译: 通过视网膜图和多模态自监督学习来预测中风](2024年11月08日/Predicting_Stroke_through_Retinal_Graphs_and_Multimodal_Self-supervised_Learning.md)
 
 - [Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving](2024年11月08日/Qwen2.5-32B_Leveraging_Self-Consistent_Tool-Integrated_Reasoning_for_Bengali_Mathematical_Olympiad_Problem_Solving.md)
 
