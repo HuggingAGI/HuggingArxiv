@@ -6,9 +6,17 @@
 
     - [翻译: 关于人工智能驱动的自动化程序修复和代码生成的进展和技术的全面调查](2024年11月12日/A_Comprehensive_Survey_of_AI-Driven_Advancements_and_Techniques_in_Automated_Program_Repair_and_Code_Generation.md)
 
+- [ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization](2024年11月12日/ASER_Activation_Smoothing_and_Error_Reconstruction_for_Large_Language_Model_Quantization.md)
+
+    - [翻译: ASER：用于大型语言模型量化的激活平滑和错误重建](2024年11月12日/ASER_Activation_Smoothing_and_Error_Reconstruction_for_Large_Language_Model_Quantization.md)
+
 - [Can adversarial attacks by large language models be attributed?](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
 
     - [翻译: 大型语言模型的对抗性攻击可以归因吗？](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
+
+- [Chain Association-based Attacking and Shielding Natural Language Processing Systems](2024年11月12日/Chain_Association-based_Attacking_and_Shielding_Natural_Language_Processing_Systems.md)
+
+    - [翻译: 基于链关联的攻击和防护自然语言处理系统](2024年11月12日/Chain_Association-based_Attacking_and_Shielding_Natural_Language_Processing_Systems.md)
 
 - [Circuit Complexity Bounds for RoPE-based Transformer Architecture](2024年11月12日/Circuit_Complexity_Bounds_for_RoPE-based_Transformer_Architecture.md)
 
@@ -21,6 +29,10 @@
 - [Derivational Morphology Reveals Analogical Generalization in Large Language Models](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
 
     - [翻译: 派生形态学揭示了大型语言模型中的类比概括。](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
+
+- [Direct Preference Optimization Using Sparse Feature-Level Constraints](2024年11月12日/Direct_Preference_Optimization_Using_Sparse_Feature-Level_Constraints.md)
+
+    - [翻译: 使用稀疏特征级约束的直接偏好优化](2024年11月12日/Direct_Preference_Optimization_Using_Sparse_Feature-Level_Constraints.md)
 
 - [Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
 
@@ -41,6 +53,14 @@
 - [ExpressivityArena: Can LLMs Express Information Implicitly?](2024年11月12日/ExpressivityArena_Can_LLMs_Express_Information_Implicitly.md)
 
     - [翻译: ExpressivityArena：大型语言模型能否隐性地表达信息？](2024年11月12日/ExpressivityArena_Can_LLMs_Express_Information_Implicitly.md)
+
+- [From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents](2024年11月12日/From_General_to_Specific_Utilizing_General_Hallucation_to_Automatically_Measure_the_Role_Relationship_Fidelity_for_Specific_Role-Play_Agents.md)
+
+    - [翻译: 从一般到具体：利用一般幻觉来自动测量特定角色扮演代理的角色关系保真度](2024年11月12日/From_General_to_Specific_Utilizing_General_Hallucation_to_Automatically_Measure_the_Role_Relationship_Fidelity_for_Specific_Role-Play_Agents.md)
+
+- [FRUGAL: Memory-Efficient Optimization by Reducing State Overhead for Scalable Training](2024年11月12日/FRUGAL_Memory-Efficient_Optimization_by_Reducing_State_Overhead_for_Scalable_Training.md)
+
+    - [翻译: FRUGAL：通过减少可扩展训练的状态开销来实现内存高效优化](2024年11月12日/FRUGAL_Memory-Efficient_Optimization_by_Reducing_State_Overhead_for_Scalable_Training.md)
 
 - [Game-theoretic LLM: Agent Workflow for Negotiation Games](2024年11月12日/Game-theoretic_LLM_Agent_Workflow_for_Negotiation_Games.md)
 
@@ -82,6 +102,10 @@
 
     - [翻译: 通过无标签数据从大型语言模型进行知识蒸馏的少样本学习](2024年11月12日/Learning_with_Less_Knowledge_Distillation_from_Large_Language_Models_via_Unlabeled_Data.md)
 
+- [Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer's Disease](2024年11月12日/Leveraging_Multimodal_Models_for_Enhanced_Neuroimaging_Diagnostics_in_Alzheimer's_Disease.md)
+
+    - [翻译: 利用多模态模型来增强阿尔茨海默病的神经影像学诊断](2024年11月12日/Leveraging_Multimodal_Models_for_Enhanced_Neuroimaging_Diagnostics_in_Alzheimer's_Disease.md)
+
 - [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](2024年11月12日/Likelihood_as_a_Performance_Gauge_for_Retrieval-Augmented_Generation.md)
 
     - [翻译: 似然性作为检索增强生成的性能指标](2024年11月12日/Likelihood_as_a_Performance_Gauge_for_Retrieval-Augmented_Generation.md)
@@ -94,9 +118,17 @@
 
     - [翻译: 在大型语言模型中减轻酷儿表征的偏差：一种协作代理方法](2024年11月12日/Mitigating_Bias_in_Queer_Representation_within_Large_Language_Models_A_Collaborative_Agent_Approach.md)
 
+- [Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation](2024年11月12日/Multimodal_Clinical_Reasoning_through_Knowledge-augmented_Rationale_Generation.md)
+
+    - [翻译: 通过知识增强的理由生成进行多模态临床推理](2024年11月12日/Multimodal_Clinical_Reasoning_through_Knowledge-augmented_Rationale_Generation.md)
+
 - [OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
 
     - [翻译: OWLed：用于高效自动驾驶框架的离群值加权分层剪枝](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
+
+- [Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
+
+    - [翻译: 面向问题的分割和检索：关于辅导对话的案例研究](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
 
 - [Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models](2024年11月12日/Query_Optimization_for_Parametric_Knowledge_Refinement_in_Retrieval-Augmented_Large_Language_Models.md)
 
@@ -109,6 +141,10 @@
 - [Towards Automated Model Design on Recommender Systems](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
 
     - [翻译: 关于推荐系统的自动化模型设计](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
+
+- [Towards Low-bit Communication for Tensor Parallel LLM Inference](2024年11月12日/Towards_Low-bit_Communication_for_Tensor_Parallel_LLM_Inference.md)
+
+    - [翻译: 对于张量并行 LLM 推理的低比特通信的研究](2024年11月12日/Towards_Low-bit_Communication_for_Tensor_Parallel_LLM_Inference.md)
 
 - [Training Data for Large Language Model](2024年11月12日/Training_Data_for_Large_Language_Model.md)
 
@@ -232,10 +268,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Large-scale moral machine experiment on large language models](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
 
     - [翻译: 大规模语言模型的大规模道德机器实验](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
-
-- [LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
-
-    - [翻译: LLM 辅助的相关性评估：我们什么时候应该向 LLM 寻求帮助？](2024年11月11日/LLM-Assisted_Relevance_Assessments_When_Should_We_Ask_LLMs_for_Help.md)
 
 - [LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models](2024年11月11日/LLM-Neo_Parameter_Efficient_Knowledge_Distillation_for_Large_Language_Models.md)
 
@@ -508,10 +540,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [KeyB2: Selecting Key Blocks is Also Important for Long Document Ranking with Large Language Models](2024年11月09日/KeyB2_Selecting_Key_Blocks_is_Also_Important_for_Long_Document_Ranking_with_Large_Language_Models.md)
 
     - [翻译: KeyB2：对于使用大型语言模型进行长文档排名，选择关键块也很重要。](2024年11月09日/KeyB2_Selecting_Key_Blocks_is_Also_Important_for_Long_Document_Ranking_with_Large_Language_Models.md)
-
-- [Large Language Models and Artificial Intelligence Generated Content Technologies Meet Communication Networks](2024年11月09日/Large_Language_Models_and_Artificial_Intelligence_Generated_Content_Technologies_Meet_Communication_Networks.md)
-
-    - [翻译: 大型语言模型和人工智能生成内容技术与通信网络相遇](2024年11月09日/Large_Language_Models_and_Artificial_Intelligence_Generated_Content_Technologies_Meet_Communication_Networks.md)
 
 - [Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval](2024年11月09日/Leveraging_Retrieval-Augmented_Generation_for_University_Knowledge_Retrieval.md)
 
