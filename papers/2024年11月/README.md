@@ -2,9 +2,69 @@
 
 2024年11月12日
 
+- [A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation](2024年11月12日/A_Comprehensive_Survey_of_AI-Driven_Advancements_and_Techniques_in_Automated_Program_Repair_and_Code_Generation.md)
+
+    - [翻译: 关于人工智能驱动的自动化程序修复和代码生成的进展和技术的全面调查](2024年11月12日/A_Comprehensive_Survey_of_AI-Driven_Advancements_and_Techniques_in_Automated_Program_Repair_and_Code_Generation.md)
+
+- [Can adversarial attacks by large language models be attributed?](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
+
+    - [翻译: 大型语言模型的对抗性攻击可以归因吗？](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
+
+- [Derivational Morphology Reveals Analogical Generalization in Large Language Models](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
+
+    - [翻译: 派生形态学揭示了大型语言模型中的类比概括。](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
+
+- [Entropy Controllable Direct Preference Optimization](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
+
+    - [翻译: 熵可控直接偏好优化](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
+
+- [ExpressivityArena: Can LLMs Express Information Implicitly?](2024年11月12日/ExpressivityArena_Can_LLMs_Express_Information_Implicitly.md)
+
+    - [翻译: ExpressivityArena：大型语言模型能否隐性地表达信息？](2024年11月12日/ExpressivityArena_Can_LLMs_Express_Information_Implicitly.md)
+
+- [Game-theoretic LLM: Agent Workflow for Negotiation Games](2024年11月12日/Game-theoretic_LLM_Agent_Workflow_for_Negotiation_Games.md)
+
+    - [翻译: 博弈论的大型语言模型：用于谈判游戏的代理工作流程](2024年11月12日/Game-theoretic_LLM_Agent_Workflow_for_Negotiation_Games.md)
+
 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
 
     - [翻译: 高斯万物：用于 3D 生成的交互式点云潜在扩散](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
+
+- [Language Models as Causal Effect Generators](2024年11月12日/Language_Models_as_Causal_Effect_Generators.md)
+
+    - [翻译: 语言模型作为因果效应生成器](2024年11月12日/Language_Models_as_Causal_Effect_Generators.md)
+
+- [LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution](2024年11月12日/LapGSR_Laplacian_Reconstructive_Network_for_Guided_Thermal_Super-Resolution.md)
+
+    - [翻译: LapGSR：用于引导热超分辨率的拉普拉斯重构网络](2024年11月12日/LapGSR_Laplacian_Reconstructive_Network_for_Guided_Thermal_Super-Resolution.md)
+
+- [Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data](2024年11月12日/Learning_with_Less_Knowledge_Distillation_from_Large_Language_Models_via_Unlabeled_Data.md)
+
+    - [翻译: 通过无标签数据从大型语言模型进行知识蒸馏的少样本学习](2024年11月12日/Learning_with_Less_Knowledge_Distillation_from_Large_Language_Models_via_Unlabeled_Data.md)
+
+- [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](2024年11月12日/Likelihood_as_a_Performance_Gauge_for_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 似然性作为检索增强生成的性能指标](2024年11月12日/Likelihood_as_a_Performance_Gauge_for_Retrieval-Augmented_Generation.md)
+
+- [LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models](2024年11月12日/LLMPhy_Complex_Physical_Reasoning_Using_Large_Language_Models_and_World_Models.md)
+
+    - [翻译: LLMPhy：使用大型语言模型和世界模型的复杂物理推理](2024年11月12日/LLMPhy_Complex_Physical_Reasoning_Using_Large_Language_Models_and_World_Models.md)
+
+- [Top-$nσ$: Not All Logits Are You Need](2024年11月12日/Top-$nσ$_Not_All_Logits_Are_You_Need.md)
+
+    - [翻译: Top-$nσ$: 并非所有的对数概率值都是您所需要的](2024年11月12日/Top-$nσ$_Not_All_Logits_Are_You_Need.md)
+
+- [Towards Automated Model Design on Recommender Systems](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
+
+    - [翻译: 关于推荐系统的自动化模型设计](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
+
+- [Unlocking Legal Knowledge with Multi-Layered Embedding-Based Retrieval](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
+
+    - [翻译: 通过基于多层嵌入的检索来解锁法律知识](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
+
+- [World Models: The Safety Perspective](2024年11月12日/World_Models_The_Safety_Perspective.md)
+
+    - [翻译: 世界模型：安全视角](2024年11月12日/World_Models_The_Safety_Perspective.md)
 
 2024年11月11日
 
@@ -143,10 +203,6 @@
 - [On Active Privacy Auditing in Supervised Fine-tuning for White-Box Language Models](2024年11月11日/On_Active_Privacy_Auditing_in_Supervised_Fine-tuning_for_White-Box_Language_Models.md)
 
     - [翻译: 在白盒语言模型的有监督微调中的主动隐私审计](2024年11月11日/On_Active_Privacy_Auditing_in_Supervised_Fine-tuning_for_White-Box_Language_Models.md)
-
-- [OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model](2024年11月11日/OpenThaiGPT_1.5_A_Thai-Centric_Open_Source_Large_Language_Model.md)
-
-    - [翻译: OpenThaiGPT 1.5：一个以泰语为中心的开源大型语言模型](2024年11月11日/OpenThaiGPT_1.5_A_Thai-Centric_Open_Source_Large_Language_Model.md)
 
 - [Persuasion with Large Language Models: a Survey](2024年11月11日/Persuasion_with_Large_Language_Models_a_Survey.md)
 
@@ -534,10 +590,6 @@
 
     - [翻译: FisherMask：在图像分类中使用 Fisher 信息提高神经网络标注效率](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
 
-- [Game-theoretic LLM: Agent Workflow for Negotiation Games](2024年11月08日/Game-theoretic_LLM_Agent_Workflow_for_Negotiation_Games.md)
-
-    - [翻译: 博弈论的大型语言模型：用于谈判游戏的代理工作流程](2024年11月08日/Game-theoretic_LLM_Agent_Workflow_for_Negotiation_Games.md)
-
 - [Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
 
     - [翻译: 利用高级歌曲描述符实现基于自然语言的音乐推荐](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
@@ -651,10 +703,6 @@
 - [CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](2024年11月07日/CAD-MLLM_Unifying_Multimodality-Conditioned_CAD_Generation_With_MLLM.md)
 
     - [翻译: CAD-MLLM：用 MLLM 统一多模态条件下的 CAD 生成](2024年11月07日/CAD-MLLM_Unifying_Multimodality-Conditioned_CAD_Generation_With_MLLM.md)
-
-- [CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation](2024年11月07日/CaPo_Cooperative_Plan_Optimization_for_Efficient_Embodied_Multi-Agent_Cooperation.md)
-
-    - [翻译: CaPo：用于高效具身多智能体合作的协同计划优化](2024年11月07日/CaPo_Cooperative_Plan_Optimization_for_Efficient_Embodied_Multi-Agent_Cooperation.md)
 
 - [Convolutional Differentiable Logic Gate Networks](2024年11月07日/Convolutional_Differentiable_Logic_Gate_Networks.md)
 
@@ -1265,10 +1313,6 @@
 - [Training on the Test Model: Contamination in Ranking Distillation](2024年11月04日/Training_on_the_Test_Model_Contamination_in_Ranking_Distillation.md)
 
     - [翻译: 在测试模型上进行训练：排名蒸馏中的污染](2024年11月04日/Training_on_the_Test_Model_Contamination_in_Ranking_Distillation.md)
-
-- [V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization](2024年11月04日/V-DPO_Mitigating_Hallucination_in_Large_Vision_Language_Models_via_Vision-Guided_Direct_Preference_Optimization.md)
-
-    - [翻译: V-DPO：通过视觉引导的直接偏好优化减轻大型视觉语言模型中的幻觉](2024年11月04日/V-DPO_Mitigating_Hallucination_in_Large_Vision_Language_Models_via_Vision-Guided_Direct_Preference_Optimization.md)
 
 - [Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration](2024年11月04日/Vocal_Sandbox_Continual_Learning_and_Adaptation_for_Situated_Human-Robot_Collaboration.md)
 
