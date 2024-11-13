@@ -828,10 +828,6 @@
 
     - [翻译: MEG：用于问答的医学知识增强型大型语言模型](2024年11月06日/MEG_Medical_Knowledge-Augmented_Large_Language_Models_for_Question_Answering.md)
 
-- [MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue](2024年11月06日/MRJ-Agent_An_Effective_Jailbreak_Agent_for_Multi-Round_Dialogue.md)
-
-    - [翻译: MRJ-Agent：一种用于多轮对话的有效越狱代理](2024年11月06日/MRJ-Agent_An_Effective_Jailbreak_Agent_for_Multi-Round_Dialogue.md)
-
 - [Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models](2024年11月06日/Multi3Hate_Multimodal,_Multilingual,_and_Multicultural_Hate_Speech_Detection_with_Vision-Language_Models.md)
 
     - [翻译: Multi3Hate：使用视觉语言模型进行多模态、多语言和多元文化的仇恨言论检测](2024年11月06日/Multi3Hate_Multimodal,_Multilingual,_and_Multicultural_Hate_Speech_Detection_with_Vision-Language_Models.md)
@@ -867,10 +863,6 @@
 - [Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
 
     - [翻译: 利用低秩适应的贝叶斯重新参数化对大型语言模型进行稳健且高效的微调](2024年11月06日/Robust_and_Efficient_Fine-tuning_of_LLMs_with_Bayesian_Reparameterization_of_Low-Rank_Adaptation.md)
-
-- [Self-Consistency Preference Optimization](2024年11月06日/Self-Consistency_Preference_Optimization.md)
-
-    - [翻译: 自我一致性偏好优化](2024年11月06日/Self-Consistency_Preference_Optimization.md)
 
 - [The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models](2024年11月06日/The_Root_Shapes_the_Fruit_On_the_Persistence_of_Gender-Exclusive_Harms_in_Aligned_Language_Models.md)
 
@@ -1275,10 +1267,6 @@
 - [TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos](2024年11月04日/TI-PREGO_Chain_of_Thought_and_In-Context_Learning_for_Online_Mistake_Detection_in_PRocedural_EGOcentric_Videos.md)
 
     - [翻译: TI-PREGO：用于在以自我为中心的程序性视频中进行在线错误检测的思维链和上下文学习](2024年11月04日/TI-PREGO_Chain_of_Thought_and_In-Context_Learning_for_Online_Mistake_Detection_in_PRocedural_EGOcentric_Videos.md)
-
-- [Training-free Regional Prompting for Diffusion Transformers](2024年11月04日/Training-free_Regional_Prompting_for_Diffusion_Transformers.md)
-
-    - [翻译: 免训练的区域提示用于扩散变压器](2024年11月04日/Training-free_Regional_Prompting_for_Diffusion_Transformers.md)
 
 - [Training on the Test Model: Contamination in Ranking Distillation](2024年11月04日/Training_on_the_Test_Model_Contamination_in_Ranking_Distillation.md)
 
