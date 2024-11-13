@@ -245,14 +245,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 在财务报告总结方面评估大型语言模型：一项实证研究](2024年11月11日/Evaluating_Large_Language_Models_on_Financial_Report_Summarization_An_Empirical_Study.md)
 
-- [EVQAScore: Efficient Video Question Answering Data Evaluation](2024年11月11日/EVQAScore_Efficient_Video_Question_Answering_Data_Evaluation.md)
-
-    - [翻译: EVQAScore：高效的视频问答数据评估](2024年11月11日/EVQAScore_Efficient_Video_Question_Answering_Data_Evaluation.md)
-
-- [Generative midtended cognition and Artificial Intelligence. Thinging with thinging things](2024年11月11日/Generative_midtended_cognition_and_Artificial_Intelligence._Thinging_with_thinging_things.md)
-
-    - [翻译: 生成式中端认知和人工智能。用思考的事物进行思考](2024年11月11日/Generative_midtended_cognition_and_Artificial_Intelligence._Thinging_with_thinging_things.md)
-
 - [Impact of LLM-based Review Comment Generation in Practice: A Mixed Open-/Closed-source User Study](2024年11月11日/Impact_of_LLM-based_Review_Comment_Generation_in_Practice_A_Mixed_Open-Closed-source_User_Study.md)
 
     - [翻译: 基于 LLM 的评论生成在实践中的影响：一项混合开源/闭源的用户研究](2024年11月11日/Impact_of_LLM-based_Review_Comment_Generation_in_Practice_A_Mixed_Open-Closed-source_User_Study.md)
