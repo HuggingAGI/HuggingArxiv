@@ -785,6 +785,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 关于大型语言模型诊断不确定性估计的立场文件：下一个词的概率不是预测试概率](2024年11月07日/Position_Paper_On_Diagnostic_Uncertainty_Estimation_from_Large_Language_Models_Next-Word_Probability_Is_Not_Pre-test_Probability.md)
 
+- [Scaling Laws for Precision](2024年11月07日/Scaling_Laws_for_Precision.md)
+
+    - [翻译: 精度的缩放定律](2024年11月07日/Scaling_Laws_for_Precision.md)
+
 - [Self-Calibrated Listwise Reranking with Large Language Models](2024年11月07日/Self-Calibrated_Listwise_Reranking_with_Large_Language_Models.md)
 
     - [翻译: 具有大型语言模型的自校准列表式重排序](2024年11月07日/Self-Calibrated_Listwise_Reranking_with_Large_Language_Models.md)
