@@ -831,6 +831,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 贝叶斯校准具有 LLM 评估器的胜率估计](2024年11月06日/Bayesian_Calibration_of_Win_Rate_Estimation_with_LLM_Evaluators.md)
 
+- [Beyond networks, towards adaptive systems](2024年11月06日/Beyond_networks,_towards_adaptive_systems.md)
+
+    - [翻译: 超越网络，迈向自适应系统](2024年11月06日/Beyond_networks,_towards_adaptive_systems.md)
+
 - [CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
 
     - [翻译: CodeTree：使用大型语言模型进行代码生成的代理引导树搜索](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
