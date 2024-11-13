@@ -333,10 +333,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: TabM：通过参数高效集成推进表格深度学习](2024年11月11日/TabM_Advancing_Tabular_Deep_Learning_with_Parameter-Efficient_Ensembling.md)
 
-- [The Super Weight in Large Language Models](2024年11月11日/The_Super_Weight_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中的超级权重](2024年11月11日/The_Super_Weight_in_Large_Language_Models.md)
-
 - [Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis](2024年11月11日/Token_Merging_for_Training-Free_Semantic_Binding_in_Text-to-Image_Synthesis.md)
 
     - [翻译: 在文本到图像合成中用于无训练语义绑定的令牌合并](2024年11月11日/Token_Merging_for_Training-Free_Semantic_Binding_in_Text-to-Image_Synthesis.md)
