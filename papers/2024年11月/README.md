@@ -599,10 +599,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 使用时间曲线可视化来分析大型软件系统的日志](2024年11月08日/Analyzing_Logs_of_Large-Scale_Software_Systems_using_Time_Curves_Visualization.md)
 
-- [An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
-
-    - [翻译: 早期的首次复制以及对用于快速列表重排序的单令牌解码的改进](2024年11月08日/An_Early_FIRST_Reproduction_and_Improvements_to_Single-Token_Decoding_for_Fast_Listwise_Reranking.md)
-
 - [An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
 
     - [翻译: 关于大型多模态模型的空间推理能力的实证分析](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
@@ -1121,10 +1117,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 基于大型语言模型（LLM）的社区中，通过社会互动自发出现的智能体个性](2024年11月05日/Spontaneous_Emergence_of_Agent_Individuality_through_Social_Interactions_in_LLM-Based_Communities.md)
 
-- [StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding](2024年11月05日/StreamingBench_Assessing_the_Gap_for_MLLMs_to_Achieve_Streaming_Video_Understanding.md)
-
-    - [翻译: StreamingBench：评估大型语言模型实现流媒体视频理解的差距](2024年11月05日/StreamingBench_Assessing_the_Gap_for_MLLMs_to_Achieve_Streaming_Video_Understanding.md)
-
 - [Textual Aesthetics in Large Language Models](2024年11月05日/Textual_Aesthetics_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型中的文本美学](2024年11月05日/Textual_Aesthetics_in_Large_Language_Models.md)
@@ -1392,10 +1384,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
     - [翻译: Zebra-Llama：一个用于普及罕见病知识的上下文感知大型语言模型](2024年11月04日/Zebra-Llama_A_Context-Aware_Large_Language_Model_for_Democratizing_Rare_Disease_Knowledge.md)
 
 2024年11月03日
-
-- [A Multi-Task Role-Playing Agent Capable of Imitating Character Linguistic Styles](2024年11月03日/A_Multi-Task_Role-Playing_Agent_Capable_of_Imitating_Character_Linguistic_Styles.md)
-
-    - [翻译: 一个能够模仿角色语言风格的多任务角色扮演代理](2024年11月03日/A_Multi-Task_Role-Playing_Agent_Capable_of_Imitating_Character_Linguistic_Styles.md)
 
 - [ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model](2024年11月03日/ChatTracker_Enhancing_Visual_Tracking_Performance_via_Chatting_with_Multimodal_Large_Language_Model.md)
 
