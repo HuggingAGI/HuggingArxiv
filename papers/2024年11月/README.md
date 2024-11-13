@@ -181,10 +181,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 一种用于大社会数据分析的领域无关神经符号方法：评估 COVID-19 期间社交媒体上的心理健康情绪](2024年11月11日/A_Domain-Agnostic_Neurosymbolic_Approach_for_Big_Social_Data_Analysis_Evaluating_Mental_Health_Sentiment_on_Social_Media_during_COVID-19.md)
 
-- [A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs](2024年11月11日/A_Multi-Agent_Approach_for_REST_API_Testing_with_Semantic_Graphs_and_LLM-Driven_Inputs.md)
-
-    - [翻译: 一种使用语义图和 LLM 驱动输入的用于 REST API 测试的多智能体方法](2024年11月11日/A_Multi-Agent_Approach_for_REST_API_Testing_with_Semantic_Graphs_and_LLM-Driven_Inputs.md)
-
 - [A Primer on Word Embeddings: AI Techniques for Text Analysis in Social Work](2024年11月11日/A_Primer_on_Word_Embeddings_AI_Techniques_for_Text_Analysis_in_Social_Work.md)
 
     - [翻译: 关于词嵌入的入门指南：社会工作中用于文本分析的人工智能技术](2024年11月11日/A_Primer_on_Word_Embeddings_AI_Techniques_for_Text_Analysis_in_Social_Work.md)
@@ -835,10 +831,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 贝叶斯校准具有 LLM 评估器的胜率估计](2024年11月06日/Bayesian_Calibration_of_Win_Rate_Estimation_with_LLM_Evaluators.md)
 
-- [Beemo: Benchmark of Expert-edited Machine-generated Outputs](2024年11月06日/Beemo_Benchmark_of_Expert-edited_Machine-generated_Outputs.md)
-
-    - [翻译: Beemo：专家编辑的机器生成输出的基准](2024年11月06日/Beemo_Benchmark_of_Expert-edited_Machine-generated_Outputs.md)
-
 - [CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
 
     - [翻译: CodeTree：使用大型语言模型进行代码生成的代理引导树搜索](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
@@ -972,10 +964,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Capturing research literature attitude towards Sustainable Development Goals: an LLM-based topic modeling approach](2024年11月05日/Capturing_research_literature_attitude_towards_Sustainable_Development_Goals_an_LLM-based_topic_modeling_approach.md)
 
     - [翻译: 捕捉研究文献对可持续发展目标的态度：一种基于大型语言模型的主题建模方法](2024年11月05日/Capturing_research_literature_attitude_towards_Sustainable_Development_Goals_an_LLM-based_topic_modeling_approach.md)
-
-- [CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration](2024年11月05日/CE-CoLLM_Efficient_and_Adaptive_Large_Language_Models_Through_Cloud-Edge_Collaboration.md)
-
-    - [翻译: CE-CoLLM：通过云边协作实现高效和自适应的大型语言模型](2024年11月05日/CE-CoLLM_Efficient_and_Adaptive_Large_Language_Models_Through_Cloud-Edge_Collaboration.md)
 
 - [Classification Done Right for Vision-Language Pre-Training](2024年11月05日/Classification_Done_Right_for_Vision-Language_Pre-Training.md)
 
