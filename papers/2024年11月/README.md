@@ -62,6 +62,14 @@
 
     - [翻译: 通过大型语言模型的上下文知识检索来改进字素到音素的转换](2024年11月12日/Improving_Grapheme-to-Phoneme_Conversion_through_In-Context_Knowledge_Retrieval_with_Large_Language_Models.md)
 
+- [Is Cognition consistent with Perception? Assessing and Mitigating Multimodal Knowledge Conflicts in Document Understanding](2024年11月12日/Is_Cognition_consistent_with_Perception_Assessing_and_Mitigating_Multimodal_Knowledge_Conflicts_in_Document_Understanding.md)
+
+    - [翻译: 认知与感知是否一致？评估和减轻文档理解中的多模态知识冲突](2024年11月12日/Is_Cognition_consistent_with_Perception_Assessing_and_Mitigating_Multimodal_Knowledge_Conflicts_in_Document_Understanding.md)
+
+- [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](2024年11月12日/JanusFlow_Harmonizing_Autoregression_and_Rectified_Flow_for_Unified_Multimodal_Understanding_and_Generation.md)
+
+    - [翻译: JanusFlow：协调自回归和整流流以实现统一的多模态理解和生成](2024年11月12日/JanusFlow_Harmonizing_Autoregression_and_Rectified_Flow_for_Unified_Multimodal_Understanding_and_Generation.md)
+
 - [Language Models as Causal Effect Generators](2024年11月12日/Language_Models_as_Causal_Effect_Generators.md)
 
     - [翻译: 语言模型作为因果效应生成器](2024年11月12日/Language_Models_as_Causal_Effect_Generators.md)
@@ -82,6 +90,10 @@
 
     - [翻译: LLMPhy：使用大型语言模型和世界模型的复杂物理推理](2024年11月12日/LLMPhy_Complex_Physical_Reasoning_Using_Large_Language_Models_and_World_Models.md)
 
+- [Mitigating Bias in Queer Representation within Large Language Models: A Collaborative Agent Approach](2024年11月12日/Mitigating_Bias_in_Queer_Representation_within_Large_Language_Models_A_Collaborative_Agent_Approach.md)
+
+    - [翻译: 在大型语言模型中减轻酷儿表征的偏差：一种协作代理方法](2024年11月12日/Mitigating_Bias_in_Queer_Representation_within_Large_Language_Models_A_Collaborative_Agent_Approach.md)
+
 - [OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
 
     - [翻译: OWLed：用于高效自动驾驶框架的离群值加权分层剪枝](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
@@ -97,6 +109,10 @@
 - [Towards Automated Model Design on Recommender Systems](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
 
     - [翻译: 关于推荐系统的自动化模型设计](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
+
+- [Training Data for Large Language Model](2024年11月12日/Training_Data_for_Large_Language_Model.md)
+
+    - [翻译: 大型语言模型的训练数据](2024年11月12日/Training_Data_for_Large_Language_Model.md)
 
 - [Trustful LLMs: Customizing and Grounding Text Generation with Knowledge Bases and Dual Decoders](2024年11月12日/Trustful_LLMs_Customizing_and_Grounding_Text_Generation_with_Knowledge_Bases_and_Dual_Decoders.md)
 
@@ -273,10 +289,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: SAMPart3D：对 3D 对象中的任何部分进行分割](2024年11月11日/SAMPart3D_Segment_Any_Part_in_3D_Objects.md)
 
-- [SCAR: Sparse Conditioned Autoencoders for Concept Detection and Steering in LLMs](2024年11月11日/SCAR_Sparse_Conditioned_Autoencoders_for_Concept_Detection_and_Steering_in_LLMs.md)
-
-    - [翻译: SCAR：用于大型语言模型中概念检测和引导的稀疏条件自编码器](2024年11月11日/SCAR_Sparse_Conditioned_Autoencoders_for_Concept_Detection_and_Steering_in_LLMs.md)
-
 - [Script-Strategy Aligned Generation: Aligning LLMs with Expert-Crafted Dialogue Scripts and Therapeutic Strategies for Psychotherapy](2024年11月11日/Script-Strategy_Aligned_Generation_Aligning_LLMs_with_Expert-Crafted_Dialogue_Scripts_and_Therapeutic_Strategies_for_Psychotherapy.md)
 
     - [翻译: 脚本-策略对齐生成：将大型语言模型与专家精心制作的对话脚本和心理治疗策略相对齐以用于心理治疗](2024年11月11日/Script-Strategy_Aligned_Generation_Aligning_LLMs_with_Expert-Crafted_Dialogue_Scripts_and_Therapeutic_Strategies_for_Psychotherapy.md)
@@ -382,10 +394,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
 
     - [翻译: LFSamba：将 SAM 与 Mamba 相结合用于光场显著目标检测](2024年11月10日/LFSamba_Marry_SAM_with_Mamba_for_Light_Field_Salient_Object_Detection.md)
-
-- [Model Editing for LLMs4Code: How Far are We?](2024年11月10日/Model_Editing_for_LLMs4Code_How_Far_are_We.md)
-
-    - [翻译: 针对 LLMs4Code 的模型编辑：我们走了多远？](2024年11月10日/Model_Editing_for_LLMs4Code_How_Far_are_We.md)
 
 - [Model Fusion through Bayesian Optimization in Language Model Fine-Tuning](2024年11月10日/Model_Fusion_through_Bayesian_Optimization_in_Language_Model_Fine-Tuning.md)
 
@@ -622,10 +630,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Evaluating and Adapting Large Language Models to Represent Folktales in Low-Resource Languages](2024年11月08日/Evaluating_and_Adapting_Large_Language_Models_to_Represent_Folktales_in_Low-Resource_Languages.md)
 
     - [翻译: 评估和调整大型语言模型以在低资源语言中呈现民间故事](2024年11月08日/Evaluating_and_Adapting_Large_Language_Models_to_Represent_Folktales_in_Low-Resource_Languages.md)
-
-- [Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation](2024年11月08日/Evaluating_Large_Language_Model_Capability_in_Vietnamese_Fact-Checking_Data_Generation.md)
-
-    - [翻译: 评估大型语言模型在越南事实核查数据生成中的能力](2024年11月08日/Evaluating_Large_Language_Model_Capability_in_Vietnamese_Fact-Checking_Data_Generation.md)
 
 - [Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
 
