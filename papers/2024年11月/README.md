@@ -859,10 +859,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: Beemo：专家编辑的机器生成输出的基准](2024年11月06日/Beemo_Benchmark_of_Expert-edited_Machine-generated_Outputs.md)
 
-- [Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
-
-    - [翻译: Bio-xLSTM：生物和化学序列的生成建模、表示和上下文学习](2024年11月06日/Bio-xLSTM_Generative_modeling,_representation_and_in-context_learning_of_biological_and_chemical_sequences.md)
-
 - [CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
 
     - [翻译: CodeTree：使用大型语言模型进行代码生成的代理引导树搜索](2024年11月06日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
