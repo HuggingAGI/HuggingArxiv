@@ -74,10 +74,6 @@
 
     - [翻译: 生成式人工智能在自主学习中的应用：范围综述](2024年11月12日/Generative_AI_in_Self-Directed_Learning_A_Scoping_Review.md)
 
-- [Grounded Video Caption Generation](2024年11月12日/Grounded_Video_Caption_Generation.md)
-
-    - [翻译: 基于基础的视频字幕生成](2024年11月12日/Grounded_Video_Caption_Generation.md)
-
 - [Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models](2024年11月12日/Improving_Grapheme-to-Phoneme_Conversion_through_In-Context_Knowledge_Retrieval_with_Large_Language_Models.md)
 
     - [翻译: 通过大型语言模型的上下文知识检索来改进字素到音素的转换](2024年11月12日/Improving_Grapheme-to-Phoneme_Conversion_through_In-Context_Knowledge_Retrieval_with_Large_Language_Models.md)
@@ -513,10 +509,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 隐藏在显而易见之中：评估视觉语言模型中的抽象形状识别](2024年11月09日/Hidden_in_Plain_Sight_Evaluating_Abstract_Shape_Recognition_in_Vision-Language_Models.md)
 
-- [Incorporating Human Explanations for Robust Hate Speech Detection](2024年11月09日/Incorporating_Human_Explanations_for_Robust_Hate_Speech_Detection.md)
-
-    - [翻译: 将人类的解释纳入以进行稳健的仇恨言论检测](2024年11月09日/Incorporating_Human_Explanations_for_Robust_Hate_Speech_Detection.md)
-
 - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](2024年11月09日/IOPO_Empowering_LLMs_with_Complex_Instruction_Following_via_Input-Output_Preference_Optimization.md)
 
     - [翻译: IOPO：通过输入输出偏好优化赋予大型语言模型遵循复杂指令的能力](2024年11月09日/IOPO_Empowering_LLMs_with_Complex_Instruction_Following_via_Input-Output_Preference_Optimization.md)
@@ -635,10 +627,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: EUREKHA：增强用于地下论坛中关键黑客识别的用户表示](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
 
-- [Evaluating and Adapting Large Language Models to Represent Folktales in Low-Resource Languages](2024年11月08日/Evaluating_and_Adapting_Large_Language_Models_to_Represent_Folktales_in_Low-Resource_Languages.md)
-
-    - [翻译: 评估和调整大型语言模型以在低资源语言中呈现民间故事](2024年11月08日/Evaluating_and_Adapting_Large_Language_Models_to_Represent_Folktales_in_Low-Resource_Languages.md)
-
 - [Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
 
     - [翻译: 事实还是虚构？大型语言模型能否成为政治真相的可靠标注者？](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
@@ -667,10 +655,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 吉尔吉斯语自然语言处理：挑战、进展和未来](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
 
-- [Learning the rules of peptide self-assembly through data mining with large language models](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
-
-    - [翻译: 通过大型语言模型的数据挖掘来学习肽自组装的规则](2024年11月08日/Learning_the_rules_of_peptide_self-assembly_through_data_mining_with_large_language_models.md)
-
 - [LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
 
     - [翻译: LightVA：基于 LLM 代理的任务规划和执行的轻量级可视化分析](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
@@ -678,10 +662,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [LLM-PySC2: Starcraft II learning environment for Large Language Models](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
 
     - [翻译: LLM-PySC2：用于大型语言模型的星际争霸 II 学习环境](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
-
-- [Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
-
-    - [翻译: 多跳证据追踪遇见网络：FEVER 2024 中的 Papelo 团队](2024年11月08日/Multi-hop_Evidence_Pursuit_Meets_the_Web_Team_Papelo_at_FEVER_2024.md)
 
 - [Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving](2024年11月08日/Qwen2.5-32B_Leveraging_Self-Consistent_Tool-Integrated_Reasoning_for_Bengali_Mathematical_Olympiad_Problem_Solving.md)
 
