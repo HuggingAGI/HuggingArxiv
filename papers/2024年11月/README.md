@@ -1,5 +1,11 @@
 # 2024年11月
 
+2024年11月12日
+
+- [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
+
+    - [翻译: 高斯万物：用于 3D 生成的交互式点云潜在扩散](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
+
 2024年11月11日
 
 - [1-800-SHARED-TASKS @ NLU of Devanagari Script Languages: Detection of Language, Hate Speech, and Targets using LLMs](2024年11月11日/1-800-SHARED-TASKS_@_NLU_of_Devanagari_Script_Languages_Detection_of_Language,_Hate_Speech,_and_Targets_using_LLMs.md)
@@ -354,10 +360,6 @@
 
     - [翻译: CoPrompter：以用户为中心对 LLM 指令对齐进行评估以改进提示工程](2024年11月09日/CoPrompter_User-Centric_Evaluation_of_LLM_Instruction_Alignment_for_Improved_Prompt_Engineering.md)
 
-- [Detecting Reference Errors in Scientific Literature with Large Language Models](2024年11月09日/Detecting_Reference_Errors_in_Scientific_Literature_with_Large_Language_Models.md)
-
-    - [翻译: 使用大型语言模型检测科学文献中的参考文献错误](2024年11月09日/Detecting_Reference_Errors_in_Scientific_Literature_with_Large_Language_Models.md)
-
 - [Escalating LLM-based Code Translation Benchmarking into the Class-level Era](2024年11月09日/Escalating_LLM-based_Code_Translation_Benchmarking_into_the_Class-level_Era.md)
 
     - [翻译: 将基于 LLM 的代码翻译基准测试提升到类级别时代](2024年11月09日/Escalating_LLM-based_Code_Translation_Benchmarking_into_the_Class-level_Era.md)
@@ -697,10 +699,6 @@
 - [Meta-Reasoning Improves Tool Use in Large Language Models](2024年11月07日/Meta-Reasoning_Improves_Tool_Use_in_Large_Language_Models.md)
 
     - [翻译: 元推理在大型语言模型中提高了工具的使用。](2024年11月07日/Meta-Reasoning_Improves_Tool_Use_in_Large_Language_Models.md)
-
-- [ML-Promise: A Multilingual Dataset for Corporate Promise Verification](2024年11月07日/ML-Promise_A_Multilingual_Dataset_for_Corporate_Promise_Verification.md)
-
-    - [翻译: ML-Promise：一个用于企业承诺验证的多语言数据集](2024年11月07日/ML-Promise_A_Multilingual_Dataset_for_Corporate_Promise_Verification.md)
 
 - [Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?](2024年11月07日/Needle_Threading_Can_LLMs_Follow_Threads_through_Near-Million-Scale_Haystacks.md)
 
@@ -1051,10 +1049,6 @@
 - [Adaptive Length Image Tokenization via Recurrent Allocation](2024年11月04日/Adaptive_Length_Image_Tokenization_via_Recurrent_Allocation.md)
 
     - [翻译: 通过循环分配的自适应长度图像标记化](2024年11月04日/Adaptive_Length_Image_Tokenization_via_Recurrent_Allocation.md)
-
-- [Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI](2024年11月04日/Addressing_Uncertainty_in_LLMs_to_Enhance_Reliability_in_Generative_AI.md)
-
-    - [翻译: 解决大型语言模型中的不确定性以提高生成式人工智能的可靠性](2024年11月04日/Addressing_Uncertainty_in_LLMs_to_Enhance_Reliability_in_Generative_AI.md)
 
 - [Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback](2024年11月04日/Align-SLM_Textless_Spoken_Language_Models_with_Reinforcement_Learning_from_AI_Feedback.md)
 
