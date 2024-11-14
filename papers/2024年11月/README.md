@@ -176,9 +176,25 @@
 
     - [翻译: 关于人工智能驱动的自动化程序修复和代码生成的进展和技术的全面调查](2024年11月12日/A_Comprehensive_Survey_of_AI-Driven_Advancements_and_Techniques_in_Automated_Program_Repair_and_Code_Generation.md)
 
+- [Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization](2024年11月12日/Adaptive_Meta-Learning_for_Robust_Deepfake_Detection_A_Multi-Agent_Framework_to_Data_Drift_and_Model_Generalization.md)
+
+    - [翻译: 用于鲁棒的深度伪造检测的自适应元学习：应对数据漂移和模型泛化的多智能体框架](2024年11月12日/Adaptive_Meta-Learning_for_Robust_Deepfake_Detection_A_Multi-Agent_Framework_to_Data_Drift_and_Model_Generalization.md)
+
+- [A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look](2024年11月12日/A_Large-Scale_Study_of_Relevance_Assessments_with_Large_Language_Models_An_Initial_Look.md)
+
+    - [翻译: 一项关于大型语言模型的相关性评估的大规模研究：初步观察](2024年11月12日/A_Large-Scale_Study_of_Relevance_Assessments_with_Large_Language_Models_An_Initial_Look.md)
+
+- [Are LLMs Prescient? A Continuous Evaluation using Daily News as the Oracle](2024年11月12日/Are_LLMs_Prescient_A_Continuous_Evaluation_using_Daily_News_as_the_Oracle.md)
+
+    - [翻译: 大型语言模型是否有先见之明？使用每日新闻作为神谕进行持续评估](2024年11月12日/Are_LLMs_Prescient_A_Continuous_Evaluation_using_Daily_News_as_the_Oracle.md)
+
 - [ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization](2024年11月12日/ASER_Activation_Smoothing_and_Error_Reconstruction_for_Large_Language_Model_Quantization.md)
 
     - [翻译: ASER：用于大型语言模型量化的激活平滑和错误重建](2024年11月12日/ASER_Activation_Smoothing_and_Error_Reconstruction_for_Large_Language_Model_Quantization.md)
+
+- [Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset](2024年11月12日/Beyond_the_Safety_Bundle_Auditing_the_Helpful_and_Harmless_Dataset.md)
+
+    - [翻译: 超越安全捆绑：审计有用且无害的数据集](2024年11月12日/Beyond_the_Safety_Bundle_Auditing_the_Helpful_and_Harmless_Dataset.md)
 
 - [Can adversarial attacks by large language models be attributed?](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
 
@@ -256,6 +272,10 @@
 
     - [翻译: JanusFlow：协调自回归和整流流以实现统一的多模态理解和生成](2024年11月12日/JanusFlow_Harmonizing_Autoregression_and_Rectified_Flow_for_Unified_Multimodal_Understanding_and_Generation.md)
 
+- [Knowledge Bases in Support of Large Language Models for Processing Web News](2024年11月12日/Knowledge_Bases_in_Support_of_Large_Language_Models_for_Processing_Web_News.md)
+
+    - [翻译: 知识基础支持用于处理网络新闻的大型语言模型](2024年11月12日/Knowledge_Bases_in_Support_of_Large_Language_Models_for_Processing_Web_News.md)
+
 - [Language Models as Causal Effect Generators](2024年11月12日/Language_Models_as_Causal_Effect_Generators.md)
 
     - [翻译: 语言模型作为因果效应生成器](2024年11月12日/Language_Models_as_Causal_Effect_Generators.md)
@@ -284,17 +304,37 @@
 
     - [翻译: 通过知识增强的理由生成进行多模态临床推理](2024年11月12日/Multimodal_Clinical_Reasoning_through_Knowledge-augmented_Rationale_Generation.md)
 
+- [NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs](2024年11月12日/NVCiM-PT_An_NVCiM-assisted_Prompt_Tuning_Framework_for_Edge_LLMs.md)
+
+    - [翻译: NVCiM-PT：一个由 NVCiM 辅助的用于边缘大型语言模型的提示调整框架](2024年11月12日/NVCiM-PT_An_NVCiM-assisted_Prompt_Tuning_Framework_for_Edge_LLMs.md)
+
 - [OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
 
     - [翻译: OWLed：用于高效自动驾驶框架的离群值加权分层剪枝](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
+
+- [Personalize to generalize: Towards a universal medical multi-modality generalization through personalization](2024年11月12日/Personalize_to_generalize_Towards_a_universal_medical_multi-modality_generalization_through_personalization.md)
+
+    - [翻译: 个性化以实现泛化：通过个性化实现通用的医学多模态泛化](2024年11月12日/Personalize_to_generalize_Towards_a_universal_medical_multi-modality_generalization_through_personalization.md)
 
 - [Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
 
     - [翻译: 面向问题的分割和检索：关于辅导对话的案例研究](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
 
+- [R3HF: Reward Redistribution for Enhancing Reinforcement Learning from Human Feedback](2024年11月12日/R3HF_Reward_Redistribution_for_Enhancing_Reinforcement_Learning_from_Human_Feedback.md)
+
+    - [翻译: R3HF：用于增强来自人类反馈的强化学习的奖励再分配](2024年11月12日/R3HF_Reward_Redistribution_for_Enhancing_Reinforcement_Learning_from_Human_Feedback.md)
+
 - [Responsible AI in Construction Safety: Systematic Evaluation of Large Language Models and Prompt Engineering](2024年11月12日/Responsible_AI_in_Construction_Safety_Systematic_Evaluation_of_Large_Language_Models_and_Prompt_Engineering.md)
 
     - [翻译: 建筑安全中的负责任人工智能：大型语言模型和提示工程的系统评估](2024年11月12日/Responsible_AI_in_Construction_Safety_Systematic_Evaluation_of_Large_Language_Models_and_Prompt_Engineering.md)
+
+- [Retrieval Augmented Time Series Forecasting](2024年11月12日/Retrieval_Augmented_Time_Series_Forecasting.md)
+
+    - [翻译: 检索增强型时间序列预测](2024年11月12日/Retrieval_Augmented_Time_Series_Forecasting.md)
+
+- [Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
+
+    - [翻译: 检索、推理、重新排序：一个用于知识图谱补全的上下文丰富框架](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
 
 - [Top-$nσ$: Not All Logits Are You Need](2024年11月12日/Top-$nσ$_Not_All_Logits_Are_You_Need.md)
 
@@ -319,6 +359,10 @@
 - [Unlocking Legal Knowledge with Multi-Layered Embedding-Based Retrieval](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
 
     - [翻译: 通过基于多层嵌入的检索来解锁法律知识](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
+
+- [VALTEST: Automated Validation of Language Model Generated Test Cases](2024年11月12日/VALTEST_Automated_Validation_of_Language_Model_Generated_Test_Cases.md)
+
+    - [翻译: VALTEST：语言模型生成的测试用例的自动验证](2024年11月12日/VALTEST_Automated_Validation_of_Language_Model_Generated_Test_Cases.md)
 
 - [Verbosity $\neq$ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models](2024年11月12日/Verbosity_$\neq$_Veracity_Demystify_Verbosity_Compensation_Behavior_of_Large_Language_Models.md)
 
