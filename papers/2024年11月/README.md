@@ -491,10 +491,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: NatureLM-audio：用于生物声学的音频语言基础模型](2024年11月11日/NatureLM-audio_an_Audio-Language_Foundation_Model_for_Bioacoustics.md)
 
-- [OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision](2024年11月11日/OmniEdit_Building_Image_Editing_Generalist_Models_Through_Specialist_Supervision.md)
-
-    - [翻译: OmniEdit：通过专家监督构建图像编辑通才模型](2024年11月11日/OmniEdit_Building_Image_Editing_Generalist_Models_Through_Specialist_Supervision.md)
-
 - [On Active Privacy Auditing in Supervised Fine-tuning for White-Box Language Models](2024年11月11日/On_Active_Privacy_Auditing_in_Supervised_Fine-tuning_for_White-Box_Language_Models.md)
 
     - [翻译: 在白盒语言模型的有监督微调中的主动隐私审计](2024年11月11日/On_Active_Privacy_Auditing_in_Supervised_Fine-tuning_for_White-Box_Language_Models.md)
@@ -624,10 +620,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Renaissance: Investigating the Pretraining of Vision-Language Encoders](2024年11月10日/Renaissance_Investigating_the_Pretraining_of_Vision-Language_Encoders.md)
 
     - [翻译: 文艺复兴：研究视觉语言编码器的预训练](2024年11月10日/Renaissance_Investigating_the_Pretraining_of_Vision-Language_Encoders.md)
-
-- [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering](2024年11月10日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
-
-    - [翻译: SaSR-Net：用于增强视听问答的源感知语义表示网络](2024年11月10日/SaSR-Net_Source-Aware_Semantic_Representation_Network_for_Enhancing_Audio-Visual_Question_Answering.md)
 
 - [Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation](2024年11月10日/Self-Training_Meets_Consistency_Improving_LLMs'_Reasoning_With_Consistency-Driven_Rationale_Evaluation.md)
 
