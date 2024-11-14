@@ -324,10 +324,6 @@
 
     - [翻译: 检索、推理、重新排序：一个用于知识图谱补全的上下文丰富框架](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
 
-- [Top-$nσ$: Not All Logits Are You Need](2024年11月12日/Top-$nσ$_Not_All_Logits_Are_You_Need.md)
-
-    - [翻译: Top-$nσ$: 并非所有的对数概率值都是您所需要的](2024年11月12日/Top-$nσ$_Not_All_Logits_Are_You_Need.md)
-
 - [Towards Automated Model Design on Recommender Systems](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
 
     - [翻译: 关于推荐系统的自动化模型设计](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
@@ -963,10 +959,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: SVDQunat：通过低秩分量吸收 4 位扩散模型中的异常值](2024年11月07日/SVDQunat_Absorbing_Outliers_by_Low-Rank_Components_for_4-Bit_Diffusion_Models.md)
 
-- [Thanos: Enhancing Conversational Agents with Skill-of-Mind-Infused Large Language Model](2024年11月07日/Thanos_Enhancing_Conversational_Agents_with_Skill-of-Mind-Infused_Large_Language_Model.md)
-
-    - [翻译: 萨诺斯：用注入思维技能的大型语言模型增强会话代理](2024年11月07日/Thanos_Enhancing_Conversational_Agents_with_Skill-of-Mind-Infused_Large_Language_Model.md)
-
 2024年11月06日
 
 - [A Bayesian Approach to Data Point Selection](2024年11月06日/A_Bayesian_Approach_to_Data_Point_Selection.md)
@@ -1466,10 +1458,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Fixing Security Vulnerabilities with AI in OSS-Fuzz](2024年11月03日/Fixing_Security_Vulnerabilities_with_AI_in_OSS-Fuzz.md)
 
     - [翻译: 使用人工智能在 OSS-Fuzz 中修复安全漏洞](2024年11月03日/Fixing_Security_Vulnerabilities_with_AI_in_OSS-Fuzz.md)
-
-- [LumosCore: Highly Scalable LLM Clusters with Optical Interconnect](2024年11月03日/LumosCore_Highly_Scalable_LLM_Clusters_with_Optical_Interconnect.md)
-
-    - [翻译: LumosCore：具有光互连的高度可扩展的大型语言模型集群](2024年11月03日/LumosCore_Highly_Scalable_LLM_Clusters_with_Optical_Interconnect.md)
 
 - [RuAG: Learned-rule-augmented Generation for Large Language Models](2024年11月03日/RuAG_Learned-rule-augmented_Generation_for_Large_Language_Models.md)
 
