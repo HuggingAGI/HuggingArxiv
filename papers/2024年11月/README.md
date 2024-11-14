@@ -176,10 +176,6 @@
 
     - [翻译: 关于人工智能驱动的自动化程序修复和代码生成的进展和技术的全面调查](2024年11月12日/A_Comprehensive_Survey_of_AI-Driven_Advancements_and_Techniques_in_Automated_Program_Repair_and_Code_Generation.md)
 
-- [Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization](2024年11月12日/Adaptive_Meta-Learning_for_Robust_Deepfake_Detection_A_Multi-Agent_Framework_to_Data_Drift_and_Model_Generalization.md)
-
-    - [翻译: 用于鲁棒的深度伪造检测的自适应元学习：应对数据漂移和模型泛化的多智能体框架](2024年11月12日/Adaptive_Meta-Learning_for_Robust_Deepfake_Detection_A_Multi-Agent_Framework_to_Data_Drift_and_Model_Generalization.md)
-
 - [A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look](2024年11月12日/A_Large-Scale_Study_of_Relevance_Assessments_with_Large_Language_Models_An_Initial_Look.md)
 
     - [翻译: 一项关于大型语言模型的相关性评估的大规模研究：初步观察](2024年11月12日/A_Large-Scale_Study_of_Relevance_Assessments_with_Large_Language_Models_An_Initial_Look.md)
@@ -283,6 +279,10 @@
 - [LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution](2024年11月12日/LapGSR_Laplacian_Reconstructive_Network_for_Guided_Thermal_Super-Resolution.md)
 
     - [翻译: LapGSR：用于引导热超分辨率的拉普拉斯重构网络](2024年11月12日/LapGSR_Laplacian_Reconstructive_Network_for_Guided_Thermal_Super-Resolution.md)
+
+- [Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing](2024年11月12日/Latent_Space_Disentanglement_in_Diffusion_Transformers_Enables_Precise_Zero-shot_Semantic_Editing.md)
+
+    - [翻译: 在扩散变压器中的潜在空间解缠能够实现精确的零样本语义编辑](2024年11月12日/Latent_Space_Disentanglement_in_Diffusion_Transformers_Enables_Precise_Zero-shot_Semantic_Editing.md)
 
 - [Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data](2024年11月12日/Learning_with_Less_Knowledge_Distillation_from_Large_Language_Models_via_Unlabeled_Data.md)
 
@@ -1498,10 +1498,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [RuAG: Learned-rule-augmented Generation for Large Language Models](2024年11月03日/RuAG_Learned-rule-augmented_Generation_for_Large_Language_Models.md)
 
     - [翻译: RuAG：用于大型语言模型的学习规则增强生成](2024年11月03日/RuAG_Learned-rule-augmented_Generation_for_Large_Language_Models.md)
-
-- [SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF](2024年11月03日/SALSA_Soup-based_Alignment_Learning_for_Stronger_Adaptation_in_RLHF.md)
-
-    - [翻译: SALSA：用于强化学习中的人类反馈强化学习（RLHF）中更强适应能力的基于汤的对齐学习](2024年11月03日/SALSA_Soup-based_Alignment_Learning_for_Stronger_Adaptation_in_RLHF.md)
 
 2024年11月02日
 
