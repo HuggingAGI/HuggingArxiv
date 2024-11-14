@@ -312,10 +312,6 @@
 
     - [翻译: OWLed：用于高效自动驾驶框架的离群值加权分层剪枝](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
 
-- [Personalize to generalize: Towards a universal medical multi-modality generalization through personalization](2024年11月12日/Personalize_to_generalize_Towards_a_universal_medical_multi-modality_generalization_through_personalization.md)
-
-    - [翻译: 个性化以实现泛化：通过个性化实现通用的医学多模态泛化](2024年11月12日/Personalize_to_generalize_Towards_a_universal_medical_multi-modality_generalization_through_personalization.md)
-
 - [Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
 
     - [翻译: 面向问题的分割和检索：关于辅导对话的案例研究](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
@@ -765,10 +761,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: AcceLLM：使用冗余来加速大型语言模型（LLM）推理，以实现负载均衡和数据局部性。](2024年11月08日/AcceLLM_Accelerating_LLM_Inference_using_Redundancy_for_Load_Balancing_and_Data_Locality.md)
 
-- [Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization](2024年11月08日/Analyzing_Logs_of_Large-Scale_Software_Systems_using_Time_Curves_Visualization.md)
-
-    - [翻译: 使用时间曲线可视化来分析大型软件系统的日志](2024年11月08日/Analyzing_Logs_of_Large-Scale_Software_Systems_using_Time_Curves_Visualization.md)
-
 - [An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
 
     - [翻译: 关于大型多模态模型的空间推理能力的实证分析](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
@@ -990,10 +982,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models](2024年11月07日/SVDQunat_Absorbing_Outliers_by_Low-Rank_Components_for_4-Bit_Diffusion_Models.md)
 
     - [翻译: SVDQunat：通过低秩分量吸收 4 位扩散模型中的异常值](2024年11月07日/SVDQunat_Absorbing_Outliers_by_Low-Rank_Components_for_4-Bit_Diffusion_Models.md)
-
-- [TexLiverNet: Leveraging Medical Knowledge and Spatial-Frequency Perception for Enhanced Liver Tumor Segmentation](2024年11月07日/TexLiverNet_Leveraging_Medical_Knowledge_and_Spatial-Frequency_Perception_for_Enhanced_Liver_Tumor_Segmentation.md)
-
-    - [翻译: TexLiverNet：利用医学知识和空间频率感知来增强肝脏肿瘤分割](2024年11月07日/TexLiverNet_Leveraging_Medical_Knowledge_and_Spatial-Frequency_Perception_for_Enhanced_Liver_Tumor_Segmentation.md)
 
 - [Thanos: Enhancing Conversational Agents with Skill-of-Mind-Infused Large Language Model](2024年11月07日/Thanos_Enhancing_Conversational_Agents_with_Skill-of-Mind-Infused_Large_Language_Model.md)
 
