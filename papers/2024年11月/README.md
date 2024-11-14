@@ -497,10 +497,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 金标准：用于评估金融大型语言模型的全面双语基准](2024年11月09日/Golden_Touchstone_A_Comprehensive_Bilingual_Benchmark_for_Evaluating_Financial_Large_Language_Models.md)
 
-- [GuidelineGuard: An Agentic Framework for Medical Note Evaluation with Guideline Adherence](2024年11月09日/GuidelineGuard_An_Agentic_Framework_for_Medical_Note_Evaluation_with_Guideline_Adherence.md)
-
-    - [翻译: GuidelineGuard：一个用于遵循指南评估医疗记录的代理框架](2024年11月09日/GuidelineGuard_An_Agentic_Framework_for_Medical_Note_Evaluation_with_Guideline_Adherence.md)
-
 - [Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models](2024年11月09日/Hidden_in_Plain_Sight_Evaluating_Abstract_Shape_Recognition_in_Vision-Language_Models.md)
 
     - [翻译: 隐藏在显而易见之中：评估视觉语言模型中的抽象形状识别](2024年11月09日/Hidden_in_Plain_Sight_Evaluating_Abstract_Shape_Recognition_in_Vision-Language_Models.md)
@@ -646,10 +642,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [IntellBot: Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
 
     - [翻译: IntellBot：用于网络威胁知识传递的检索增强型大型语言模型聊天机器人](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
-
-- [KyrgyzNLP: Challenges, Progress, and Future](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
-
-    - [翻译: 吉尔吉斯语自然语言处理：挑战、进展和未来](2024年11月08日/KyrgyzNLP_Challenges,_Progress,_and_Future.md)
 
 - [LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
 
@@ -1005,10 +997,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 从笔到提示：创意作家如何将人工智能融入他们的写作实践](2024年11月05日/From_Pen_to_Prompt_How_Creative_Writers_Integrate_AI_into_their_Writing_Practice.md)
 
-- [Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning](2024年11月05日/Graph-DPEP_Decomposed_Plug_and_Ensemble_Play_for_Few-Shot_Document_Relation_Extraction_with_Graph-of-Thoughts_Reasoning.md)
-
-    - [翻译: Graph-DPEP：通过思维图推理进行少样本文档关系抽取的分解式即插即用和集成玩法](2024年11月05日/Graph-DPEP_Decomposed_Plug_and_Ensemble_Play_for_Few-Shot_Document_Relation_Extraction_with_Graph-of-Thoughts_Reasoning.md)
-
 - [Grounding Natural Language to SQL Translation with Data-Based Self-Explanations](2024年11月05日/Grounding_Natural_Language_to_SQL_Translation_with_Data-Based_Self-Explanations.md)
 
     - [翻译: 将自然语言与基于数据的自解释的 SQL 翻译相结合](2024年11月05日/Grounding_Natural_Language_to_SQL_Translation_with_Data-Based_Self-Explanations.md)
@@ -1036,10 +1024,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Long Context RAG Performance of Large Language Models](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的长上下文 RAG 性能](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
-
-- [MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning](2024年11月05日/MME-Finance_A_Multimodal_Finance_Benchmark_for_Expert-level_Understanding_and_Reasoning.md)
-
-    - [翻译: MME-Finance：用于专家级理解和推理的多模态金融基准](2024年11月05日/MME-Finance_A_Multimodal_Finance_Benchmark_for_Expert-level_Understanding_and_Reasoning.md)
 
 - [On the Comparison between Multi-modal and Single-modal Contrastive Learning](2024年11月05日/On_the_Comparison_between_Multi-modal_and_Single-modal_Contrastive_Learning.md)
 
