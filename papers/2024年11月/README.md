@@ -809,10 +809,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 萨诺斯：用注入思维技能的大型语言模型增强会话代理](2024年11月07日/Thanos_Enhancing_Conversational_Agents_with_Skill-of-Mind-Infused_Large_Language_Model.md)
 
-- [VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models](2024年11月07日/VTechAGP_An_Academic-to-General-Audience_Text_Paraphrase_Dataset_and_Benchmark_Models.md)
-
-    - [翻译: VTechAGP：一个从学术到大众的文本释义数据集和基准模型](2024年11月07日/VTechAGP_An_Academic-to-General-Audience_Text_Paraphrase_Dataset_and_Benchmark_Models.md)
-
 2024年11月06日
 
 - [A Bayesian Approach to Data Point Selection](2024年11月06日/A_Bayesian_Approach_to_Data_Point_Selection.md)
@@ -890,10 +886,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?](2024年11月06日/Medical_Adaptation_of_Large_Language_and_Vision-Language_Models_Are_We_Making_Progress.md)
 
     - [翻译: 大型语言和视觉语言模型的医学适应：我们正在取得进展吗？](2024年11月06日/Medical_Adaptation_of_Large_Language_and_Vision-Language_Models_Are_We_Making_Progress.md)
-
-- [MEG: Medical Knowledge-Augmented Large Language Models for Question Answering](2024年11月06日/MEG_Medical_Knowledge-Augmented_Large_Language_Models_for_Question_Answering.md)
-
-    - [翻译: MEG：用于问答的医学知识增强型大型语言模型](2024年11月06日/MEG_Medical_Knowledge-Augmented_Large_Language_Models_for_Question_Answering.md)
 
 - [Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models](2024年11月06日/Multi3Hate_Multimodal,_Multilingual,_and_Multicultural_Hate_Speech_Detection_with_Vision-Language_Models.md)
 
