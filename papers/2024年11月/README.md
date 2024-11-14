@@ -82,10 +82,6 @@
 
     - [翻译: MultiKG：用于攻击技术的高质量知识图谱表示的多源威胁情报聚合](2024年11月13日/MultiKG_Multi-Source_Threat_Intelligence_Aggregation_for_High-Quality_Knowledge_Graph_Representation_of_Attack_Techniques.md)
 
-- [Multimodal Instruction Tuning with Hybrid State Space Models](2024年11月13日/Multimodal_Instruction_Tuning_with_Hybrid_State_Space_Models.md)
-
-    - [翻译: 多模态指令调整与混合状态空间模型](2024年11月13日/Multimodal_Instruction_Tuning_with_Hybrid_State_Space_Models.md)
-
 - [NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation](2024年11月13日/NavAgent_Multi-scale_Urban_Street_View_Fusion_For_UAV_Embodied_Vision-and-Language_Navigation.md)
 
     - [翻译: NavAgent：用于无人机具身视觉和语言导航的多尺度城市街景融合](2024年11月13日/NavAgent_Multi-scale_Urban_Street_View_Fusion_For_UAV_Embodied_Vision-and-Language_Navigation.md)
@@ -101,10 +97,6 @@
 - [Polymetis:Large Language Modeling for Multiple Material Domains](2024年11月13日/PolymetisLarge_Language_Modeling_for_Multiple_Material_Domains.md)
 
     - [翻译: Polymetis：用于多个材料领域的大型语言建模](2024年11月13日/PolymetisLarge_Language_Modeling_for_Multiple_Material_Domains.md)
-
-- [Practitioners' Discussions on Building LLM-based Applications for Production](2024年11月13日/Practitioners'_Discussions_on_Building_LLM-based_Applications_for_Production.md)
-
-    - [翻译: 从业者关于为生产构建基于 LLM 的应用程序的讨论](2024年11月13日/Practitioners'_Discussions_on_Building_LLM-based_Applications_for_Production.md)
 
 - [Quantifying Qualitative Insights: Leveraging LLMs to Market Predict](2024年11月13日/Quantifying_Qualitative_Insights_Leveraging_LLMs_to_Market_Predict.md)
 
@@ -1490,9 +1482,3 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [RuAG: Learned-rule-augmented Generation for Large Language Models](2024年11月03日/RuAG_Learned-rule-augmented_Generation_for_Large_Language_Models.md)
 
     - [翻译: RuAG：用于大型语言模型的学习规则增强生成](2024年11月03日/RuAG_Learned-rule-augmented_Generation_for_Large_Language_Models.md)
-
-2024年11月02日
-
-- [Music Foundation Model as Generic Booster for Music Downstream Tasks](2024年11月02日/Music_Foundation_Model_as_Generic_Booster_for_Music_Downstream_Tasks.md)
-
-    - [翻译: 音乐基础模型作为音乐下游任务的通用助推器](2024年11月02日/Music_Foundation_Model_as_Generic_Booster_for_Music_Downstream_Tasks.md)
