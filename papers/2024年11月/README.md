@@ -74,10 +74,6 @@
 
     - [翻译: LogLLM：使用大型语言模型进行基于日志的异常检测](2024年11月13日/LogLLM_Log-based_Anomaly_Detection_Using_Large_Language_Models.md)
 
-- [LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing](2024年11月13日/LSH-MoE_Communication-efficient_MoE_Training_via_Locality-Sensitive_Hashing.md)
-
-    - [翻译: LSH-MoE：通过局部敏感哈希实现通信高效的 MoE 训练](2024年11月13日/LSH-MoE_Communication-efficient_MoE_Training_via_Locality-Sensitive_Hashing.md)
-
 - [MultiKG: Multi-Source Threat Intelligence Aggregation for High-Quality Knowledge Graph Representation of Attack Techniques](2024年11月13日/MultiKG_Multi-Source_Threat_Intelligence_Aggregation_for_High-Quality_Knowledge_Graph_Representation_of_Attack_Techniques.md)
 
     - [翻译: MultiKG：用于攻击技术的高质量知识图谱表示的多源威胁情报聚合](2024年11月13日/MultiKG_Multi-Source_Threat_Intelligence_Aggregation_for_High-Quality_Knowledge_Graph_Representation_of_Attack_Techniques.md)
@@ -1080,10 +1076,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Unfair Alignment: Examining Safety Alignment Across Vision Encoder Layers in Vision-Language Models](2024年11月06日/Unfair_Alignment_Examining_Safety_Alignment_Across_Vision_Encoder_Layers_in_Vision-Language_Models.md)
 
     - [翻译: 不公平对齐：检查视觉语言模型中视觉编码器层的安全对齐](2024年11月06日/Unfair_Alignment_Examining_Safety_Alignment_Across_Vision_Encoder_Layers_in_Vision-Language_Models.md)
-
-- [Unlearning in- vs. out-of-distribution data in LLMs under gradient-based method](2024年11月06日/Unlearning_in-_vs._out-of-distribution_data_in_LLMs_under_gradient-based_method.md)
-
-    - [翻译: 在基于梯度的方法下，大型语言模型中分布内与分布外数据的遗忘](2024年11月06日/Unlearning_in-_vs._out-of-distribution_data_in_LLMs_under_gradient-based_method.md)
 
 - [Variational Low-Rank Adaptation Using IVON](2024年11月06日/Variational_Low-Rank_Adaptation_Using_IVON.md)
 
