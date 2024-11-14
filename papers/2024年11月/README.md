@@ -1273,10 +1273,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 大型语言模型能够像人类一样推广类比解决问题的能力吗？](2024年11月04日/Can_Large_Language_Models_generalize_analogy_solving_like_people_can.md)
 
-- [Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge](2024年11月04日/Constrained_Human-AI_Cooperation_An_Inclusive_Embodied_Social_Intelligence_Challenge.md)
-
-    - [翻译: 受限的人类 - AI 合作：一个包容性的具身社会智能挑战](2024年11月04日/Constrained_Human-AI_Cooperation_An_Inclusive_Embodied_Social_Intelligence_Challenge.md)
-
 - [Continual LLaVA: Continual Instruction Tuning in Large Vision-Language Models](2024年11月04日/Continual_LLaVA_Continual_Instruction_Tuning_in_Large_Vision-Language_Models.md)
 
     - [翻译: 持续的 LLaVA：大型视觉语言模型中的持续指令调整](2024年11月04日/Continual_LLaVA_Continual_Instruction_Tuning_in_Large_Vision-Language_Models.md)
