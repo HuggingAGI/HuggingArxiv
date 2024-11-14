@@ -1317,10 +1317,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: EMMA：用于自动驾驶的端到端多模态模型](2024年11月04日/EMMA_End-to-End_Multimodal_Model_for_Autonomous_Driving.md)
 
-- [Evaluating Creative Short Story Generation in Humans and Large Language Models](2024年11月04日/Evaluating_Creative_Short_Story_Generation_in_Humans_and_Large_Language_Models.md)
-
-    - [翻译: 评估人类和大型语言模型中的创意短篇小说生成](2024年11月04日/Evaluating_Creative_Short_Story_Generation_in_Humans_and_Large_Language_Models.md)
-
 - [Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast](2024年11月04日/Evaluating_the_Ability_of_Large_Language_Models_to_Generate_Verifiable_Specifications_in_VeriFast.md)
 
     - [翻译: 评估大型语言模型在 VeriFast 中生成可验证规范的能力](2024年11月04日/Evaluating_the_Ability_of_Large_Language_Models_to_Generate_Verifiable_Specifications_in_VeriFast.md)
