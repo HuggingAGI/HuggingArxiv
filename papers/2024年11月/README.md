@@ -371,10 +371,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
 2024年11月11日
 
-- [1-800-SHARED-TASKS @ NLU of Devanagari Script Languages: Detection of Language, Hate Speech, and Targets using LLMs](2024年11月11日/1-800-SHARED-TASKS_@_NLU_of_Devanagari_Script_Languages_Detection_of_Language,_Hate_Speech,_and_Targets_using_LLMs.md)
-
-    - [翻译: 1-800-SHARED-TASKS @ 天城文脚本语言的自然语言理解：使用大型语言模型检测语言、仇恨言论和目标](2024年11月11日/1-800-SHARED-TASKS_@_NLU_of_Devanagari_Script_Languages_Detection_of_Language,_Hate_Speech,_and_Targets_using_LLMs.md)
-
 - [A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19](2024年11月11日/A_Domain-Agnostic_Neurosymbolic_Approach_for_Big_Social_Data_Analysis_Evaluating_Mental_Health_Sentiment_on_Social_Media_during_COVID-19.md)
 
     - [翻译: 一种用于大社会数据分析的领域无关神经符号方法：评估 COVID-19 期间社交媒体上的心理健康情绪](2024年11月11日/A_Domain-Agnostic_Neurosymbolic_Approach_for_Big_Social_Data_Analysis_Evaluating_Mental_Health_Sentiment_on_Social_Media_during_COVID-19.md)
