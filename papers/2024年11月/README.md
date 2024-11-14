@@ -1,5 +1,15 @@
 # 2024年11月
 
+2024年11月13日
+
+- [Retrieval Augmented Recipe Generation](2024年11月13日/Retrieval_Augmented_Recipe_Generation.md)
+
+    - [翻译: 检索增强的食谱生成](2024年11月13日/Retrieval_Augmented_Recipe_Generation.md)
+
+- [UniMat: Unifying Materials Embeddings through Multi-modal Learning](2024年11月13日/UniMat_Unifying_Materials_Embeddings_through_Multi-modal_Learning.md)
+
+    - [翻译: UniMat：通过多模态学习统一材料嵌入](2024年11月13日/UniMat_Unifying_Materials_Embeddings_through_Multi-modal_Learning.md)
+
 2024年11月12日
 
 - [A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation](2024年11月12日/A_Comprehensive_Survey_of_AI-Driven_Advancements_and_Techniques_in_Automated_Program_Repair_and_Code_Generation.md)
@@ -105,10 +115,6 @@
 - [Likelihood as a Performance Gauge for Retrieval-Augmented Generation](2024年11月12日/Likelihood_as_a_Performance_Gauge_for_Retrieval-Augmented_Generation.md)
 
     - [翻译: 似然性作为检索增强生成的性能指标](2024年11月12日/Likelihood_as_a_Performance_Gauge_for_Retrieval-Augmented_Generation.md)
-
-- [LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models](2024年11月12日/LLMPhy_Complex_Physical_Reasoning_Using_Large_Language_Models_and_World_Models.md)
-
-    - [翻译: LLMPhy：使用大型语言模型和世界模型的复杂物理推理](2024年11月12日/LLMPhy_Complex_Physical_Reasoning_Using_Large_Language_Models_and_World_Models.md)
 
 - [Mitigating Bias in Queer Representation within Large Language Models: A Collaborative Agent Approach](2024年11月12日/Mitigating_Bias_in_Queer_Representation_within_Large_Language_Models_A_Collaborative_Agent_Approach.md)
 
@@ -342,10 +348,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
     - [翻译: UTMath：通过推理到编码思想的单元测试进行数学评估](2024年11月11日/UTMath_Math_Evaluation_with_Unit_Test_via_Reasoning-to-Coding_Thoughts.md)
 
 2024年11月10日
-
-- [Anchor Attention, Small Cache: Code Generation with Large Language Models](2024年11月10日/Anchor_Attention,_Small_Cache_Code_Generation_with_Large_Language_Models.md)
-
-    - [翻译: 锚点注意力，小缓存：使用大型语言模型进行代码生成](2024年11月10日/Anchor_Attention,_Small_Cache_Code_Generation_with_Large_Language_Models.md)
 
 - [Autonomous Droplet Microfluidic Design Framework with Large Language Models](2024年11月10日/Autonomous_Droplet_Microfluidic_Design_Framework_with_Large_Language_Models.md)
 
@@ -757,10 +759,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: M3DocRAG：多模态检索是您理解多页多文档所需要的。](2024年11月07日/M3DocRAG_Multi-modal_Retrieval_is_What_You_Need_for_Multi-page_Multi-document_Understanding.md)
 
-- [Measure-to-measure interpolation using Transformers](2024年11月07日/Measure-to-measure_interpolation_using_Transformers.md)
-
-    - [翻译: 使用 Transformer 的度量到度量插值](2024年11月07日/Measure-to-measure_interpolation_using_Transformers.md)
-
 - [Meta-Reasoning Improves Tool Use in Large Language Models](2024年11月07日/Meta-Reasoning_Improves_Tool_Use_in_Large_Language_Models.md)
 
     - [翻译: 元推理在大型语言模型中提高了工具的使用。](2024年11月07日/Meta-Reasoning_Improves_Tool_Use_in_Large_Language_Models.md)
@@ -1126,10 +1124,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge](2024年11月04日/Constrained_Human-AI_Cooperation_An_Inclusive_Embodied_Social_Intelligence_Challenge.md)
 
     - [翻译: 受限的人类 - AI 合作：一个包容性的具身社会智能挑战](2024年11月04日/Constrained_Human-AI_Cooperation_An_Inclusive_Embodied_Social_Intelligence_Challenge.md)
-
-- [Context-Informed Machine Translation of Manga using Multimodal Large Language Models](2024年11月04日/Context-Informed_Machine_Translation_of_Manga_using_Multimodal_Large_Language_Models.md)
-
-    - [翻译: 使用多模态大型语言模型的漫画的上下文告知机器翻译](2024年11月04日/Context-Informed_Machine_Translation_of_Manga_using_Multimodal_Large_Language_Models.md)
 
 - [Continual LLaVA: Continual Instruction Tuning in Large Vision-Language Models](2024年11月04日/Continual_LLaVA_Continual_Instruction_Tuning_in_Large_Vision-Language_Models.md)
 
