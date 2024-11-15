@@ -14,25 +14,49 @@
 
     - [翻译: 在多模态模型中通过多尺度对齐来促进细粒度视觉理解](2024年11月14日/Advancing_Fine-Grained_Visual_Understanding_with_Multi-Scale_Alignment_in_Multi-Modal_Models.md)
 
+- [Approximated Variational Bayesian Inverse Reinforcement Learning for Large Language Model Alignment](2024年11月14日/Approximated_Variational_Bayesian_Inverse_Reinforcement_Learning_for_Large_Language_Model_Alignment.md)
+
+    - [翻译: 近似的变分贝叶斯逆强化学习应用于大型语言模型的对齐](2024年11月14日/Approximated_Variational_Bayesian_Inverse_Reinforcement_Learning_for_Large_Language_Model_Alignment.md)
+
+- [A Practical Guide to Fine-tuning Language Models with Limited Data](2024年11月14日/A_Practical_Guide_to_Fine-tuning_Language_Models_with_Limited_Data.md)
+
+    - [翻译: 一份有关利用有限数据对语言模型进行微调的实用指南](2024年11月14日/A_Practical_Guide_to_Fine-tuning_Language_Models_with_Limited_Data.md)
+
 - [Automating Autograding: Large Language Models as Test Suite Generators for Introductory Programming](2024年11月14日/Automating_Autograding_Large_Language_Models_as_Test_Suite_Generators_for_Introductory_Programming.md)
 
     - [翻译: 自动化自动评分：大型语言模型充当入门编程的测试套件生成工具](2024年11月14日/Automating_Autograding_Large_Language_Models_as_Test_Suite_Generators_for_Introductory_Programming.md)
-
-- [BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency](2024年11月14日/BabyLM_Challenge_Exploring_the_Effect_of_Variation_Sets_on_Language_Model_Training_Efficiency.md)
-
-    - [翻译: BabyLM 挑战：探究变异集对语言模型训练效率的作用](2024年11月14日/BabyLM_Challenge_Exploring_the_Effect_of_Variation_Sets_on_Language_Model_Training_Efficiency.md)
 
 - [Communication Compression for Tensor Parallel LLM Inference](2024年11月14日/Communication_Compression_for_Tensor_Parallel_LLM_Inference.md)
 
     - [翻译: 张量并行大语言模型推理中的通信压缩](2024年11月14日/Communication_Compression_for_Tensor_Parallel_LLM_Inference.md)
 
+- [Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering](2024年11月14日/Comprehensive_and_Practical_Evaluation_of_Retrieval-Augmented_Generation_Systems_for_Medical_Question_Answering.md)
+
+    - [翻译: 针对医疗问答的检索增强生成系统的全面且实用的评估](2024年11月14日/Comprehensive_and_Practical_Evaluation_of_Retrieval-Augmented_Generation_Systems_for_Medical_Question_Answering.md)
+
 - [Cross-Modal Consistency in Multimodal Large Language Models](2024年11月14日/Cross-Modal_Consistency_in_Multimodal_Large_Language_Models.md)
 
     - [翻译: 多模态大型语言模型里的跨模态一致性](2024年11月14日/Cross-Modal_Consistency_in_Multimodal_Large_Language_Models.md)
 
+- [DAHL: Domain-specific Automated Hallucination Evaluation of Long-Form Text through a Benchmark Dataset in Biomedicine](2024年11月14日/DAHL_Domain-specific_Automated_Hallucination_Evaluation_of_Long-Form_Text_through_a_Benchmark_Dataset_in_Biomedicine.md)
+
+    - [翻译: DAHL：借助生物医学中的基准数据集实现对长文本特定领域的自动幻觉评估](2024年11月14日/DAHL_Domain-specific_Automated_Hallucination_Evaluation_of_Long-Form_Text_through_a_Benchmark_Dataset_in_Biomedicine.md)
+
 - [DTELS: Towards Dynamic Granularity of Timeline Summarization](2024年11月14日/DTELS_Towards_Dynamic_Granularity_of_Timeline_Summarization.md)
 
     - [翻译: DTELS：致力于实现时间线摘要的动态粒度化](2024年11月14日/DTELS_Towards_Dynamic_Granularity_of_Timeline_Summarization.md)
+
+- [Enhancing Financial Domain Adaptation of Language Models via Model Augmentation](2024年11月14日/Enhancing_Financial_Domain_Adaptation_of_Language_Models_via_Model_Augmentation.md)
+
+    - [翻译: 借助模型增强提升语言模型在金融领域的适应性](2024年11月14日/Enhancing_Financial_Domain_Adaptation_of_Language_Models_via_Model_Augmentation.md)
+
+- [Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications](2024年11月14日/Harnessing_multiple_LLMs_for_Information_Retrieval_A_case_study_on_Deep_Learning_methodologies_in_Biodiversity_publications.md)
+
+    - [翻译: 借助多个大型语言模型实现信息检索：以生物多样性出版物中的深度学习方法为例展开研究](2024年11月14日/Harnessing_multiple_LLMs_for_Information_Retrieval_A_case_study_on_Deep_Learning_methodologies_in_Biodiversity_publications.md)
+
+- [HateGPT: Unleashing GPT-3.5 Turbo to Combat Hate Speech on X](2024年11月14日/HateGPT_Unleashing_GPT-3.5_Turbo_to_Combat_Hate_Speech_on_X.md)
+
+    - [翻译: HateGPT：让 GPT-3.5 Turbo 出马，在 X 平台上对抗仇恨言论](2024年11月14日/HateGPT_Unleashing_GPT-3.5_Turbo_to_Combat_Hate_Speech_on_X.md)
 
 - [How Good is ChatGPT at Audiovisual Deepfake Detection: A Comparative Study of ChatGPT, AI Models and Human Perception](2024年11月14日/How_Good_is_ChatGPT_at_Audiovisual_Deepfake_Detection_A_Comparative_Study_of_ChatGPT,_AI_Models_and_Human_Perception.md)
 
@@ -90,6 +114,10 @@
 
     - [翻译: 人工智能编程：评估 ChatGPT、Gemini、AlphaCode 以及 GitHub Copilot 对程序员的价值](2024年11月14日/Programming_with_AI_Evaluating_ChatGPT,_Gemini,_AlphaCode,_and_GitHub_Copilot_for_Programmers.md)
 
+- [PTR: Precision-Driven Tool Recommendation for Large Language Models](2024年11月14日/PTR_Precision-Driven_Tool_Recommendation_for_Large_Language_Models.md)
+
+    - [翻译: PTR：针对大型语言模型的精度驱动型工具推荐](2024年11月14日/PTR_Precision-Driven_Tool_Recommendation_for_Large_Language_Models.md)
+
 - [Re-Parameterization of Lightweight Transformer for On-Device Speech Emotion Recognition](2024年11月14日/Re-Parameterization_of_Lightweight_Transformer_for_On-Device_Speech_Emotion_Recognition.md)
 
     - [翻译: 针对设备端语音情感识别的轻量级 Transformer 重新进行参数化](2024年11月14日/Re-Parameterization_of_Lightweight_Transformer_for_On-Device_Speech_Emotion_Recognition.md)
@@ -97,6 +125,10 @@
 - [ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting](2024年11月14日/ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting.md)
 
     - [翻译: ROCKET-1：凭借视觉-时间上下文提示掌控开放世界的交互](2024年11月14日/ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting.md)
+
+- [Script-centric behavior understanding for assisted autism spectrum disorder diagnosis](2024年11月14日/Script-centric_behavior_understanding_for_assisted_autism_spectrum_disorder_diagnosis.md)
+
+    - [翻译: 以脚本为核心的行为理解，助力自闭症谱系障碍的诊断](2024年11月14日/Script-centric_behavior_understanding_for_assisted_autism_spectrum_disorder_diagnosis.md)
 
 - [SmartInv: Multimodal Learning for Smart Contract Invariant Inference](2024年11月14日/SmartInv_Multimodal_Learning_for_Smart_Contract_Invariant_Inference.md)
 
@@ -106,9 +138,17 @@
 
     - [翻译: 针对基础模型驱动软件（FMware）的软件性能工程](2024年11月14日/Software_Performance_Engineering_for_Foundation_Model-Powered_Software_(FMware).md)
 
+- [Spider: Any-to-Many Multimodal LLM](2024年11月14日/Spider_Any-to-Many_Multimodal_LLM.md)
+
+    - [翻译: Spider：任意到多种的多模态大型语言模型](2024年11月14日/Spider_Any-to-Many_Multimodal_LLM.md)
+
 - [Squeezed Attention: Accelerating Long Context Length LLM Inference](2024年11月14日/Squeezed_Attention_Accelerating_Long_Context_Length_LLM_Inference.md)
 
     - [翻译: 压缩注意力：加快长上下文长度的大型语言模型的推理速度](2024年11月14日/Squeezed_Attention_Accelerating_Long_Context_Length_LLM_Inference.md)
+
+- [StreamAdapter: Efficient Test Time Adaptation from Contextual Streams](2024年11月14日/StreamAdapter_Efficient_Test_Time_Adaptation_from_Contextual_Streams.md)
+
+    - [翻译: StreamAdapter：上下文流中的高效测试时适应](2024年11月14日/StreamAdapter_Efficient_Test_Time_Adaptation_from_Contextual_Streams.md)
 
 - [The Moral Foundations Weibo Corpus](2024年11月14日/The_Moral_Foundations_Weibo_Corpus.md)
 
@@ -123,6 +163,10 @@
 - [An Information Theoretic Approach to Operationalize Right to Data Protection](2024年11月13日/An_Information_Theoretic_Approach_to_Operationalize_Right_to_Data_Protection.md)
 
     - [翻译: 一种将数据保护权付诸实践的信息理论方法](2024年11月13日/An_Information_Theoretic_Approach_to_Operationalize_Right_to_Data_Protection.md)
+
+- [AstroMLab 3: Achieving GPT-4o Level Performance in Astronomy with a Specialized 8B-Parameter Large Language Model](2024年11月13日/AstroMLab_3_Achieving_GPT-4o_Level_Performance_in_Astronomy_with_a_Specialized_8B-Parameter_Large_Language_Model.md)
+
+    - [翻译: AstroMLab 3：凭借专门的 8B 参数大型语言模型，在天文学领域达成 GPT-4o 级别的性能](2024年11月13日/AstroMLab_3_Achieving_GPT-4o_Level_Performance_in_Astronomy_with_a_Specialized_8B-Parameter_Large_Language_Model.md)
 
 - [A System Level Performance Evaluation for Superconducting Digital Systems](2024年11月13日/A_System_Level_Performance_Evaluation_for_Superconducting_Digital_Systems.md)
 
@@ -144,6 +188,18 @@
 
     - [翻译: CLaSP：从自然语言监督中学习时间序列信号的概念](2024年11月13日/CLaSP_Learning_Concepts_for_Time-Series_Signals_from_Natural_Language_Supervision.md)
 
+- [ClevrSkills: Compositional Language and Visual Reasoning in Robotics](2024年11月13日/ClevrSkills_Compositional_Language_and_Visual_Reasoning_in_Robotics.md)
+
+    - [翻译: ClevrSkills：机器人领域的组合语言与视觉推理](2024年11月13日/ClevrSkills_Compositional_Language_and_Visual_Reasoning_in_Robotics.md)
+
+- [Code-mixed LLM: Improve Large Language Models' Capability to Handle Code-Mixing through Reinforcement Learning from AI Feedback](2024年11月13日/Code-mixed_LLM_Improve_Large_Language_Models'_Capability_to_Handle_Code-Mixing_through_Reinforcement_Learning_from_AI_Feedback.md)
+
+    - [翻译: 代码混合的 LLM ：借助来自 AI 反馈的强化学习，提升大型语言模型处理代码混合的能力](2024年11月13日/Code-mixed_LLM_Improve_Large_Language_Models'_Capability_to_Handle_Code-Mixing_through_Reinforcement_Learning_from_AI_Feedback.md)
+
+- [Continuous GNN-based Anomaly Detection on Edge using Efficient Adaptive Knowledge Graph Learning](2024年11月13日/Continuous_GNN-based_Anomaly_Detection_on_Edge_using_Efficient_Adaptive_Knowledge_Graph_Learning.md)
+
+    - [翻译: 利用高效自适应知识图谱学习实现基于连续 GNN 的边缘异常检测](2024年11月13日/Continuous_GNN-based_Anomaly_Detection_on_Edge_using_Efficient_Adaptive_Knowledge_Graph_Learning.md)
+
 - [CorrectBench: Automatic Testbench Generation with Functional Self-Correction using LLMs for HDL Design](2024年11月13日/CorrectBench_Automatic_Testbench_Generation_with_Functional_Self-Correction_using_LLMs_for_HDL_Design.md)
 
     - [翻译: CorrectBench：使用大型语言模型（LLMs）对 HDL 设计进行具有功能自校正的自动测试平台生成](2024年11月13日/CorrectBench_Automatic_Testbench_Generation_with_Functional_Self-Correction_using_LLMs_for_HDL_Design.md)
@@ -156,9 +212,21 @@
 
     - [翻译: 基于材料特性的晶体结构生成](2024年11月13日/Crystal_Structure_Generation_Based_On_Material_Properties.md)
 
+- [Cut Your Losses in Large-Vocabulary Language Models](2024年11月13日/Cut_Your_Losses_in_Large-Vocabulary_Language_Models.md)
+
+    - [翻译: 于大词汇量语言模型中降低损失](2024年11月13日/Cut_Your_Losses_in_Large-Vocabulary_Language_Models.md)
+
+- [DART-LLM: Dependency-Aware Multi-Robot Task Decomposition and Execution using Large Language Models](2024年11月13日/DART-LLM_Dependency-Aware_Multi-Robot_Task_Decomposition_and_Execution_using_Large_Language_Models.md)
+
+    - [翻译: DART-LLM：借助大型语言模型实现依赖感知的多机器人任务分解与执行](2024年11月13日/DART-LLM_Dependency-Aware_Multi-Robot_Task_Decomposition_and_Execution_using_Large_Language_Models.md)
+
 - [Developing a Foundation Model for Predicting Material Failure](2024年11月13日/Developing_a_Foundation_Model_for_Predicting_Material_Failure.md)
 
     - [翻译: 开发用于预测材料失效的基础模型](2024年11月13日/Developing_a_Foundation_Model_for_Predicting_Material_Failure.md)
+
+- [DROJ: A Prompt-Driven Attack against Large Language Models](2024年11月13日/DROJ_A_Prompt-Driven_Attack_against_Large_Language_Models.md)
+
+    - [翻译: DROJ：针对大型语言模型的提示驱动式攻击](2024年11月13日/DROJ_A_Prompt-Driven_Attack_against_Large_Language_Models.md)
 
 - [Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models](2024年11月13日/Dynamic_Rewarding_with_Prompt_Optimization_Enables_Tuning-free_Self-Alignment_of_Language_Models.md)
 
@@ -192,6 +260,10 @@
 
     - [翻译: LogLLM：使用大型语言模型进行基于日志的异常检测](2024年11月13日/LogLLM_Log-based_Anomaly_Detection_Using_Large_Language_Models.md)
 
+- [Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware Expert Selection](2024年11月13日/Lynx_Enabling_Efficient_MoE_Inference_through_Dynamic_Batch-Aware_Expert_Selection.md)
+
+    - [翻译: Lynx：借由动态批量感知的专家选择达成高效的 MoE 推理](2024年11月13日/Lynx_Enabling_Efficient_MoE_Inference_through_Dynamic_Batch-Aware_Expert_Selection.md)
+
 - [MultiKG: Multi-Source Threat Intelligence Aggregation for High-Quality Knowledge Graph Representation of Attack Techniques](2024年11月13日/MultiKG_Multi-Source_Threat_Intelligence_Aggregation_for_High-Quality_Knowledge_Graph_Representation_of_Attack_Techniques.md)
 
     - [翻译: MultiKG：用于攻击技术的高质量知识图谱表示的多源威胁情报聚合](2024年11月13日/MultiKG_Multi-Source_Threat_Intelligence_Aggregation_for_High-Quality_Knowledge_Graph_Representation_of_Attack_Techniques.md)
@@ -208,6 +280,10 @@
 
     - [翻译: 一次一个步骤：语言代理是逐步规划者](2024年11月13日/One_STEP_at_a_time_Language_Agents_are_Stepwise_Planners.md)
 
+- [P-MMEval: A Parallel Multilingual Multitask Benchmark for Consistent Evaluation of LLMs](2024年11月13日/P-MMEval_A_Parallel_Multilingual_Multitask_Benchmark_for_Consistent_Evaluation_of_LLMs.md)
+
+    - [翻译: P-MMEval：一个用于对大型语言模型进行一致性评估的并行多语言多任务基准](2024年11月13日/P-MMEval_A_Parallel_Multilingual_Multitask_Benchmark_for_Consistent_Evaluation_of_LLMs.md)
+
 - [Polymetis:Large Language Modeling for Multiple Material Domains](2024年11月13日/PolymetisLarge_Language_Modeling_for_Multiple_Material_Domains.md)
 
     - [翻译: Polymetis：用于多个材料领域的大型语言建模](2024年11月13日/PolymetisLarge_Language_Modeling_for_Multiple_Material_Domains.md)
@@ -220,6 +296,10 @@
 
     - [翻译: 在检索增强型大型语言模型中针对参数知识细化的查询优化](2024年11月13日/Query_Optimization_for_Parametric_Knowledge_Refinement_in_Retrieval-Augmented_Large_Language_Models.md)
 
+- [Reducing Reasoning Costs - The Path of Optimization for Chain of Thought via Sparse Attention Mechanism](2024年11月13日/Reducing_Reasoning_Costs_-_The_Path_of_Optimization_for_Chain_of_Thought_via_Sparse_Attention_Mechanism.md)
+
+    - [翻译: 降低推理成本——借助稀疏注意力机制优化思维链的途径](2024年11月13日/Reducing_Reasoning_Costs_-_The_Path_of_Optimization_for_Chain_of_Thought_via_Sparse_Attention_Mechanism.md)
+
 - [Refining Translations with LLMs: A Constraint-Aware Iterative Prompting Approach](2024年11月13日/Refining_Translations_with_LLMs_A_Constraint-Aware_Iterative_Prompting_Approach.md)
 
     - [翻译: 用大型语言模型改进翻译：一种约束感知的迭代提示方法](2024年11月13日/Refining_Translations_with_LLMs_A_Constraint-Aware_Iterative_Prompting_Approach.md)
@@ -227,6 +307,10 @@
 - [Retrieval Augmented Recipe Generation](2024年11月13日/Retrieval_Augmented_Recipe_Generation.md)
 
     - [翻译: 检索增强的食谱生成](2024年11月13日/Retrieval_Augmented_Recipe_Generation.md)
+
+- [SCAN: Bootstrapping Contrastive Pre-training for Data Efficiency](2024年11月13日/SCAN_Bootstrapping_Contrastive_Pre-training_for_Data_Efficiency.md)
+
+    - [翻译: SCAN：为实现数据效率而引导的对比预训练](2024年11月13日/SCAN_Bootstrapping_Contrastive_Pre-training_for_Data_Efficiency.md)
 
 - [Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers](2024年11月13日/Separating_Tongue_from_Thought_Activation_Patching_Reveals_Language-Agnostic_Concept_Representations_in_Transformers.md)
 
@@ -240,9 +324,17 @@
 
     - [翻译: 字节对编码的理论分析](2024年11月13日/Theoretical_Analysis_of_Byte-Pair_Encoding.md)
 
+- [The Systems Engineering Approach in Times of Large Language Models](2024年11月13日/The_Systems_Engineering_Approach_in_Times_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型时代下的系统工程方法](2024年11月13日/The_Systems_Engineering_Approach_in_Times_of_Large_Language_Models.md)
+
 - [The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense](2024年11月13日/The_VLLM_Safety_Paradox_Dual_Ease_in_Jailbreak_Attack_and_Defense.md)
 
     - [翻译: VLLM 安全悖论：越狱攻击和防御的双重轻松](2024年11月13日/The_VLLM_Safety_Paradox_Dual_Ease_in_Jailbreak_Attack_and_Defense.md)
+
+- [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](2024年11月13日/Toward_Democratized_Generative_AI_in_Next-Generation_Mobile_Edge_Networks.md)
+
+    - [翻译: 朝着下一代移动边缘网络中的民主化生成式 AI 迈进](2024年11月13日/Toward_Democratized_Generative_AI_in_Next-Generation_Mobile_Edge_Networks.md)
 
 - [Towards Evaluating Large Language Models for Graph Query Generation](2024年11月13日/Towards_Evaluating_Large_Language_Models_for_Graph_Query_Generation.md)
 
@@ -272,6 +364,10 @@
 
     - [翻译: V2X-R：用于 3D 物体检测的协同激光雷达 - 4D 雷达融合与去噪扩散](2024年11月13日/V2X-R_Cooperative_LiDAR-4D_Radar_Fusion_for_3D_Object_Detection_with_Denoising_Diffusion.md)
 
+- [VCBench: A Controllable Benchmark for Symbolic and Abstract Challenges in Video Cognition](2024年11月13日/VCBench_A_Controllable_Benchmark_for_Symbolic_and_Abstract_Challenges_in_Video_Cognition.md)
+
+    - [翻译: VCBench：一个针对视频认知中符号与抽象挑战的可控基准](2024年11月13日/VCBench_A_Controllable_Benchmark_for_Symbolic_and_Abstract_Challenges_in_Video_Cognition.md)
+
 - [Voxeland: Probabilistic Instance-Aware Semantic Mapping with Evidence-based Uncertainty Quantification](2024年11月13日/Voxeland_Probabilistic_Instance-Aware_Semantic_Mapping_with_Evidence-based_Uncertainty_Quantification.md)
 
     - [翻译: Voxeland：具有基于证据的不确定性量化的概率实例感知语义映射](2024年11月13日/Voxeland_Probabilistic_Instance-Aware_Semantic_Mapping_with_Evidence-based_Uncertainty_Quantification.md)
@@ -297,10 +393,6 @@
 - [ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization](2024年11月12日/ASER_Activation_Smoothing_and_Error_Reconstruction_for_Large_Language_Model_Quantization.md)
 
     - [翻译: ASER：用于大型语言模型量化的激活平滑和错误重建](2024年11月12日/ASER_Activation_Smoothing_and_Error_Reconstruction_for_Large_Language_Model_Quantization.md)
-
-- [Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset](2024年11月12日/Beyond_the_Safety_Bundle_Auditing_the_Helpful_and_Harmless_Dataset.md)
-
-    - [翻译: 超越安全捆绑：审计有用且无害的数据集](2024年11月12日/Beyond_the_Safety_Bundle_Auditing_the_Helpful_and_Harmless_Dataset.md)
 
 - [Can adversarial attacks by large language models be attributed?](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
 
@@ -421,6 +513,10 @@
 - [Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
 
     - [翻译: 面向问题的分割和检索：关于辅导对话的案例研究](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
+
+- [PyGen: A Collaborative Human-AI Approach to Python Package Creation](2024年11月12日/PyGen_A_Collaborative_Human-AI_Approach_to_Python_Package_Creation.md)
+
+    - [翻译: PyGen：一种创建 Python 包的人类与 AI 协同方式](2024年11月12日/PyGen_A_Collaborative_Human-AI_Approach_to_Python_Package_Creation.md)
 
 - [R3HF: Reward Redistribution for Enhancing Reinforcement Learning from Human Feedback](2024年11月12日/R3HF_Reward_Redistribution_for_Enhancing_Reinforcement_Learning_from_Human_Feedback.md)
 
@@ -568,10 +664,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning](2024年11月11日/Multi-Stage_Knowledge_Integration_of_Vision-Language_Models_for_Continual_Learning.md)
 
     - [翻译: 多阶段的视觉语言模型知识集成用于持续学习](2024年11月11日/Multi-Stage_Knowledge_Integration_of_Vision-Language_Models_for_Continual_Learning.md)
-
-- [NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics](2024年11月11日/NatureLM-audio_an_Audio-Language_Foundation_Model_for_Bioacoustics.md)
-
-    - [翻译: NatureLM-audio：用于生物声学的音频语言基础模型](2024年11月11日/NatureLM-audio_an_Audio-Language_Foundation_Model_for_Bioacoustics.md)
 
 - [On Active Privacy Auditing in Supervised Fine-tuning for White-Box Language Models](2024年11月11日/On_Active_Privacy_Auditing_in_Supervised_Fine-tuning_for_White-Box_Language_Models.md)
 
@@ -1315,10 +1407,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 通过循环分配的自适应长度图像标记化](2024年11月04日/Adaptive_Length_Image_Tokenization_via_Recurrent_Allocation.md)
 
-- [Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback](2024年11月04日/Align-SLM_Textless_Spoken_Language_Models_with_Reinforcement_Learning_from_AI_Feedback.md)
-
-    - [翻译: Align-SLM：通过来自人工智能反馈的强化学习的无文本口语语言模型](2024年11月04日/Align-SLM_Textless_Spoken_Language_Models_with_Reinforcement_Learning_from_AI_Feedback.md)
-
 - [A Natural Language Processing Approach to Support Biomedical Data Harmonization: Leveraging Large Language Models](2024年11月04日/A_Natural_Language_Processing_Approach_to_Support_Biomedical_Data_Harmonization_Leveraging_Large_Language_Models.md)
 
     - [翻译: 一种支持生物医学数据协调的自然语言处理方法：利用大型语言模型](2024年11月04日/A_Natural_Language_Processing_Approach_to_Support_Biomedical_Data_Harmonization_Leveraging_Large_Language_Models.md)
@@ -1498,10 +1586,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units](2024年11月04日/The_LLM_Language_Network_A_Neuroscientific_Approach_for_Identifying_Causally_Task-Relevant_Units.md)
 
     - [翻译: LLM 语言网络：一种用于识别因果任务相关单元的神经科学方法](2024年11月04日/The_LLM_Language_Network_A_Neuroscientific_Approach_for_Identifying_Causally_Task-Relevant_Units.md)
-
-- [TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos](2024年11月04日/TI-PREGO_Chain_of_Thought_and_In-Context_Learning_for_Online_Mistake_Detection_in_PRocedural_EGOcentric_Videos.md)
-
-    - [翻译: TI-PREGO：用于在以自我为中心的程序性视频中进行在线错误检测的思维链和上下文学习](2024年11月04日/TI-PREGO_Chain_of_Thought_and_In-Context_Learning_for_Online_Mistake_Detection_in_PRocedural_EGOcentric_Videos.md)
 
 - [Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration](2024年11月04日/Vocal_Sandbox_Continual_Learning_and_Adaptation_for_Situated_Human-Robot_Collaboration.md)
 
