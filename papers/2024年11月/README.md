@@ -1031,10 +1031,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 揭示大型语言模型的局限性：通过 MskQA 和 MskCal 对掩码文本处理能力的系统评估](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
 
-- [VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
-
-    - [翻译: VISTA：使用大型语言模型在数学问题生成中为定制自动化提供的视觉集成系统](2024年11月08日/VISTA_Visual_Integrated_System_for_Tailored_Automation_in_Math_Problem_Generation_Using_LLM.md)
-
 - [WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
 
     - [翻译: WeatherGFM：通过上下文学习来学习一个天气通才基础模型](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
