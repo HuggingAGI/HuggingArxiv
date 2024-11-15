@@ -296,9 +296,9 @@
 
     - [翻译: 在检索增强型大型语言模型中针对参数知识细化的查询优化](2024年11月13日/Query_Optimization_for_Parametric_Knowledge_Refinement_in_Retrieval-Augmented_Large_Language_Models.md)
 
-- [Reducing Reasoning Costs - The Path of Optimization for Chain of Thought via Sparse Attention Mechanism](2024年11月13日/Reducing_Reasoning_Costs_-_The_Path_of_Optimization_for_Chain_of_Thought_via_Sparse_Attention_Mechanism.md)
+- [Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism](2024年11月13日/Reducing_Reasoning_Costs_--_The_Path_of_Optimization_for_Chain_of_Thought_via_Sparse_Attention_Mechanism.md)
 
-    - [翻译: 降低推理成本——借助稀疏注意力机制优化思维链的途径](2024年11月13日/Reducing_Reasoning_Costs_-_The_Path_of_Optimization_for_Chain_of_Thought_via_Sparse_Attention_Mechanism.md)
+    - [翻译: 降低推理成本——借助稀疏注意力机制优化思维链的途径](2024年11月13日/Reducing_Reasoning_Costs_--_The_Path_of_Optimization_for_Chain_of_Thought_via_Sparse_Attention_Mechanism.md)
 
 - [Refining Translations with LLMs: A Constraint-Aware Iterative Prompting Approach](2024年11月13日/Refining_Translations_with_LLMs_A_Constraint-Aware_Iterative_Prompting_Approach.md)
 
@@ -506,6 +506,10 @@
 
     - [翻译: PyGen：一种创建 Python 包的人类与 AI 协同方式](2024年11月12日/PyGen_A_Collaborative_Human-AI_Approach_to_Python_Package_Creation.md)
 
+- [Quantum master equation from the eigenstate thermalization hypothesis](2024年11月12日/Quantum_master_equation_from_the_eigenstate_thermalization_hypothesis.md)
+
+    - [翻译: 基于本征态热化假设的量子主方程](2024年11月12日/Quantum_master_equation_from_the_eigenstate_thermalization_hypothesis.md)
+
 - [R3HF: Reward Redistribution for Enhancing Reinforcement Learning from Human Feedback](2024年11月12日/R3HF_Reward_Redistribution_for_Enhancing_Reinforcement_Learning_from_Human_Feedback.md)
 
     - [翻译: R3HF：用于增强来自人类反馈的强化学习的奖励再分配](2024年11月12日/R3HF_Reward_Redistribution_for_Enhancing_Reinforcement_Learning_from_Human_Feedback.md)
@@ -521,6 +525,10 @@
 - [Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
 
     - [翻译: 检索、推理、重新排序：一个用于知识图谱补全的上下文丰富框架](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
+
+- [Search for the X17 particle in $^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+ \mathrm{e}^{-}) ^{8}\mathrm{Be}$ processes with the MEG II detector](2024年11月12日/Search_for_the_X17_particle_in_$^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+_\mathrm{e}^{-})_^{8}\mathrm{Be}$_processes_with_the_MEG_II_detector.md)
+
+    - [翻译: 利用 MEG II 探测器在$^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+ \mathrm{e}^{-}) ^{8}\mathrm{Be}$过程里探寻 X17 粒子](2024年11月12日/Search_for_the_X17_particle_in_$^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+_\mathrm{e}^{-})_^{8}\mathrm{Be}$_processes_with_the_MEG_II_detector.md)
 
 - [Towards Automated Model Design on Recommender Systems](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
 
