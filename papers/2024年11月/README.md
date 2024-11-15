@@ -394,10 +394,6 @@
 
     - [翻译: ASER：用于大型语言模型量化的激活平滑和错误重建](2024年11月12日/ASER_Activation_Smoothing_and_Error_Reconstruction_for_Large_Language_Model_Quantization.md)
 
-- [Can adversarial attacks by large language models be attributed?](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
-
-    - [翻译: 大型语言模型的对抗性攻击可以归因吗？](2024年11月12日/Can_adversarial_attacks_by_large_language_models_be_attributed.md)
-
 - [Chain Association-based Attacking and Shielding Natural Language Processing Systems](2024年11月12日/Chain_Association-based_Attacking_and_Shielding_Natural_Language_Processing_Systems.md)
 
     - [翻译: 基于链关联的攻击和防护自然语言处理系统](2024年11月12日/Chain_Association-based_Attacking_and_Shielding_Natural_Language_Processing_Systems.md)
@@ -425,10 +421,6 @@
 - [Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
 
     - [翻译: 具有资源受限设备的微型 Transformer 的高效联邦微调](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
-
-- [Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](2024年11月12日/Enhancing_Ultra_High_Resolution_Remote_Sensing_Imagery_Analysis_with_ImageRAG.md)
-
-    - [翻译: 用 ImageRAG 增强超高分辨率遥感图像分析](2024年11月12日/Enhancing_Ultra_High_Resolution_Remote_Sensing_Imagery_Analysis_with_ImageRAG.md)
 
 - [Entropy Controllable Direct Preference Optimization](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
 
@@ -1242,10 +1234,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Variational Low-Rank Adaptation Using IVON](2024年11月06日/Variational_Low-Rank_Adaptation_Using_IVON.md)
 
     - [翻译: 变分低秩适应使用 IVON](2024年11月06日/Variational_Low-Rank_Adaptation_Using_IVON.md)
-
-- [VQA$^2$:Visual Question Answering for Video Quality Assessment](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
-
-    - [翻译: VQA$^2$:用于视频质量评估的视觉问答](2024年11月06日/VQA$^2$Visual_Question_Answering_for_Video_Quality_Assessment.md)
 
 2024年11月05日
 
