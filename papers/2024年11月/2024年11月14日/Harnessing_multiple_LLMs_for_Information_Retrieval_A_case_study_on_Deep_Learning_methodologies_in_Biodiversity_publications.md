@@ -1,0 +1,15 @@
+# 借助多个大型语言模型实现信息检索：以生物多样性出版物中的深度学习方法为例展开研究
+
+发布时间：2024年11月14日
+
+`RAG` `生物多样性` `科学研究`
+
+> Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications
+
+# 摘要
+
+> 深度学习（DL）技术在各领域的科学研究中应用愈发广泛，用于解决复杂的研究难题。但这些 DL 模型的方法细节常隐匿于非结构化文本里。所以，有关这些模型的设计、训练及评估的关键信息难以获取和领会。为应对此问题，在本项工作中，我们采用了五种不同的开源大型语言模型（LLM），即 Llama-3 70B、Llama-3.1 70B、Mixtral-8x22B-Instruct-v0.1、Mixtral 8x7B 以及 Gemma 2 9B，并结合检索增强生成（RAG）方法，自动从科学出版物中提取和处理 DL 方法细节。我们从五个 LLM 的输出构建了一个投票分类器，以精准报告 DL 方法信息。基于此前的研究，我们借助生物多样性出版物对方法进行了测试。为验证流程，我们运用了两个与 DL 相关的生物多样性出版物数据集：一个是此前工作中精选的 100 篇出版物集合，另一个是来自《生态信息学》杂志的 364 篇出版物集合。结果显示，多 LLM 与 RAG 辅助的流程提升了 DL 方法信息的检索能力，仅依据出版物的文本内容，准确率达 69.5%（600 次比较中的 417 次）。此性能是与能获取代码、图表、表格及其他补充信息的人类注释者对比评估得出的。尽管在生物多样性领域得以验证，但我们的方法不限于该领域，可应用于其他科学领域，在这些领域中，详尽的方法报告对推进知识和确保可重复性至关重要。本研究提出了一种可扩展且可靠的自动化信息提取途径，利于在研究间实现更优的可重复性和知识转移。
+
+> Deep Learning (DL) techniques are increasingly applied in scientific studies across various domains to address complex research questions. However, the methodological details of these DL models are often hidden in the unstructured text. As a result, critical information about how these models are designed, trained, and evaluated is challenging to access and comprehend. To address this issue, in this work, we use five different open-source Large Language Models (LLMs): Llama-3 70B, Llama-3.1 70B, Mixtral-8x22B-Instruct-v0.1, Mixtral 8x7B, and Gemma 2 9B in combination with Retrieval-Augmented Generation (RAG) approach to extract and process DL methodological details from scientific publications automatically. We built a voting classifier from the outputs of five LLMs to accurately report DL methodological information. We tested our approach using biodiversity publications, building upon our previous research. To validate our pipeline, we employed two datasets of DL-related biodiversity publications: a curated set of 100 publications from our prior work and a set of 364 publications from the Ecological Informatics journal. Our results demonstrate that the multi-LLM, RAG-assisted pipeline enhances the retrieval of DL methodological information, achieving an accuracy of 69.5% (417 out of 600 comparisons) based solely on textual content from publications. This performance was assessed against human annotators who had access to code, figures, tables, and other supplementary information. Although demonstrated in biodiversity, our methodology is not limited to this field; it can be applied across other scientific domains where detailed methodological reporting is essential for advancing knowledge and ensuring reproducibility. This study presents a scalable and reliable approach for automating information extraction, facilitating better reproducibility and knowledge transfer across studies.
+
+[Arxiv](https://arxiv.org/abs/2411.09269)
