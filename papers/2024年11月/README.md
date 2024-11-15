@@ -446,10 +446,6 @@
 
     - [翻译: 从一般到具体：利用一般幻觉来自动测量特定角色扮演代理的角色关系保真度](2024年11月12日/From_General_to_Specific_Utilizing_General_Hallucation_to_Automatically_Measure_the_Role_Relationship_Fidelity_for_Specific_Role-Play_Agents.md)
 
-- [FRUGAL: Memory-Efficient Optimization by Reducing State Overhead for Scalable Training](2024年11月12日/FRUGAL_Memory-Efficient_Optimization_by_Reducing_State_Overhead_for_Scalable_Training.md)
-
-    - [翻译: FRUGAL：通过减少可扩展训练的状态开销来实现内存高效优化](2024年11月12日/FRUGAL_Memory-Efficient_Optimization_by_Reducing_State_Overhead_for_Scalable_Training.md)
-
 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
 
     - [翻译: 高斯万物：用于 3D 生成的交互式点云潜在扩散](2024年11月12日/GaussianAnything_Interactive_Point_Cloud_Latent_Diffusion_for_3D_Generation.md)
@@ -1203,10 +1199,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: M3SciQA：用于评估基础模型的多模态多文档科学问答基准](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
 
-- [Measuring short-form factuality in large language models](2024年11月06日/Measuring_short-form_factuality_in_large_language_models.md)
-
-    - [翻译: 测量大型语言模型中的短格式真实性](2024年11月06日/Measuring_short-form_factuality_in_large_language_models.md)
-
 - [Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?](2024年11月06日/Medical_Adaptation_of_Large_Language_and_Vision-Language_Models_Are_We_Making_Progress.md)
 
     - [翻译: 大型语言和视觉语言模型的医学适应：我们正在取得进展吗？](2024年11月06日/Medical_Adaptation_of_Large_Language_and_Vision-Language_Models_Are_We_Making_Progress.md)
@@ -1486,10 +1478,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Formal Theorem Proving by Rewarding LLMs to Decompose Proofs Hierarchically](2024年11月04日/Formal_Theorem_Proving_by_Rewarding_LLMs_to_Decompose_Proofs_Hierarchically.md)
 
     - [翻译: 通过奖励大型语言模型（LLMs）分层分解证明来进行形式定理证明](2024年11月04日/Formal_Theorem_Proving_by_Rewarding_LLMs_to_Decompose_Proofs_Hierarchically.md)
-
-- [GraphXAIN: Narratives to Explain Graph Neural Networks](2024年11月04日/GraphXAIN_Narratives_to_Explain_Graph_Neural_Networks.md)
-
-    - [翻译: GraphXAIN：解释图神经网络的叙述](2024年11月04日/GraphXAIN_Narratives_to_Explain_Graph_Neural_Networks.md)
 
 - [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](2024年11月04日/Hunyuan-Large_An_Open-Source_MoE_Model_with_52_Billion_Activated_Parameters_by_Tencent.md)
 
