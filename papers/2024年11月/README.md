@@ -284,10 +284,6 @@
 
     - [翻译: 似然性作为检索增强生成的性能指标](2024年11月12日/Likelihood_as_a_Performance_Gauge_for_Retrieval-Augmented_Generation.md)
 
-- [Mitigating Bias in Queer Representation within Large Language Models: A Collaborative Agent Approach](2024年11月12日/Mitigating_Bias_in_Queer_Representation_within_Large_Language_Models_A_Collaborative_Agent_Approach.md)
-
-    - [翻译: 在大型语言模型中减轻酷儿表征的偏差：一种协作代理方法](2024年11月12日/Mitigating_Bias_in_Queer_Representation_within_Large_Language_Models_A_Collaborative_Agent_Approach.md)
-
 - [Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation](2024年11月12日/Multimodal_Clinical_Reasoning_through_Knowledge-augmented_Rationale_Generation.md)
 
     - [翻译: 通过知识增强的理由生成进行多模态临床推理](2024年11月12日/Multimodal_Clinical_Reasoning_through_Knowledge-augmented_Rationale_Generation.md)
@@ -399,10 +395,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 《中文 SimpleQA：针对大型语言模型的中文真实性评估》](2024年11月11日/Chinese_SimpleQA_A_Chinese_Factuality_Evaluation_for_Large_Language_Models.md)
 
-- [Combining Domain and Alignment Vectors to Achieve Better Knowledge-Safety Trade-offs in LLMs](2024年11月11日/Combining_Domain_and_Alignment_Vectors_to_Achieve_Better_Knowledge-Safety_Trade-offs_in_LLMs.md)
-
-    - [翻译: 将领域向量和对齐向量相结合，以在大型语言模型（LLM）中实现更好的知识-安全权衡。](2024年11月11日/Combining_Domain_and_Alignment_Vectors_to_Achieve_Better_Knowledge-Safety_Trade-offs_in_LLMs.md)
-
 - [Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks](2024年11月11日/Comparing_Bottom-Up_and_Top-Down_Steering_Approaches_on_In-Context_Learning_Tasks.md)
 
     - [翻译: 在上下文学习任务中比较自下而上和自上而下的引导方法](2024年11月11日/Comparing_Bottom-Up_and_Top-Down_Steering_Approaches_on_In-Context_Learning_Tasks.md)
@@ -418,10 +410,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID](2024年11月11日/DLCR_A_Generative_Data_Expansion_Framework_via_Diffusion_for_Clothes-Changing_Person_Re-ID.md)
 
     - [翻译: DLCR：通过扩散进行生成式数据扩展的框架，用于换装人物重识别](2024年11月11日/DLCR_A_Generative_Data_Expansion_Framework_via_Diffusion_for_Clothes-Changing_Person_Re-ID.md)
-
-- [Evaluating Large Language Models on Financial Report Summarization: An Empirical Study](2024年11月11日/Evaluating_Large_Language_Models_on_Financial_Report_Summarization_An_Empirical_Study.md)
-
-    - [翻译: 在财务报告总结方面评估大型语言模型：一项实证研究](2024年11月11日/Evaluating_Large_Language_Models_on_Financial_Report_Summarization_An_Empirical_Study.md)
 
 - [Impact of LLM-based Review Comment Generation in Practice: A Mixed Open-/Closed-source User Study](2024年11月11日/Impact_of_LLM-based_Review_Comment_Generation_in_Practice_A_Mixed_Open-Closed-source_User_Study.md)
 
