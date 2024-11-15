@@ -2,6 +2,14 @@
 
 2024年11月14日
 
+- [Accelerating Knowledge Graph and Ontology Engineering with Large Language Models](2024年11月14日/Accelerating_Knowledge_Graph_and_Ontology_Engineering_with_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型加快知识图谱和本体工程的进程](2024年11月14日/Accelerating_Knowledge_Graph_and_Ontology_Engineering_with_Large_Language_Models.md)
+
+- [Adopting RAG for LLM-Aided Future Vehicle Design](2024年11月14日/Adopting_RAG_for_LLM-Aided_Future_Vehicle_Design.md)
+
+    - [翻译: 将 RAG 应用于 LLM 辅助的未来车辆设计](2024年11月14日/Adopting_RAG_for_LLM-Aided_Future_Vehicle_Design.md)
+
 - [Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models](2024年11月14日/Advancing_Fine-Grained_Visual_Understanding_with_Multi-Scale_Alignment_in_Multi-Modal_Models.md)
 
     - [翻译: 在多模态模型中通过多尺度对齐来促进细粒度视觉理解](2024年11月14日/Advancing_Fine-Grained_Visual_Understanding_with_Multi-Scale_Alignment_in_Multi-Modal_Models.md)
@@ -33,6 +41,10 @@
 - [Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models](2024年11月14日/Image_Regeneration_Evaluating_Text-to-Image_Model_via_Generating_Identical_Image_with_Multimodal_Large_Language_Models.md)
 
     - [翻译: 图像再生：借助多模态大型语言模型生成相同图像以评估文本到图像模型](2024年11月14日/Image_Regeneration_Evaluating_Text-to-Image_Model_via_Generating_Identical_Image_with_Multimodal_Large_Language_Models.md)
+
+- [Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework](2024年11月14日/Initial_Nugget_Evaluation_Results_for_the_TREC_2024_RAG_Track_with_the_AutoNuggetizer_Framework.md)
+
+    - [翻译: TREC 2024 RAG 赛道采用 AutoNuggetizer 框架的初始金块评估结果](2024年11月14日/Initial_Nugget_Evaluation_Results_for_the_TREC_2024_RAG_Track_with_the_AutoNuggetizer_Framework.md)
 
 - [LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation](2024年11月14日/LHRS-Bot-Nova_Improved_Multimodal_Large_Language_Model_for_Remote_Sensing_Vision-Language_Interpretation.md)
 
@@ -97,6 +109,10 @@
 - [Squeezed Attention: Accelerating Long Context Length LLM Inference](2024年11月14日/Squeezed_Attention_Accelerating_Long_Context_Length_LLM_Inference.md)
 
     - [翻译: 压缩注意力：加快长上下文长度的大型语言模型的推理速度](2024年11月14日/Squeezed_Attention_Accelerating_Long_Context_Length_LLM_Inference.md)
+
+- [The Moral Foundations Weibo Corpus](2024年11月14日/The_Moral_Foundations_Weibo_Corpus.md)
+
+    - [翻译: 道德基础的微博语料库](2024年11月14日/The_Moral_Foundations_Weibo_Corpus.md)
 
 2024年11月13日
 
