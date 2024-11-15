@@ -617,10 +617,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 通过使用功能性磁共振成像（fMRI）基础模型进行全脑分析来解码视觉体验和映射语义](2024年11月11日/Decoding_Visual_Experience_and_Mapping_Semantics_through_Whole-Brain_Analysis_Using_fMRI_Foundation_Models.md)
 
-- [DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID](2024年11月11日/DLCR_A_Generative_Data_Expansion_Framework_via_Diffusion_for_Clothes-Changing_Person_Re-ID.md)
-
-    - [翻译: DLCR：通过扩散进行生成式数据扩展的框架，用于换装人物重识别](2024年11月11日/DLCR_A_Generative_Data_Expansion_Framework_via_Diffusion_for_Clothes-Changing_Person_Re-ID.md)
-
 - [Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation](2024年11月11日/Invar-RAG_Invariant_LLM-aligned_Retrieval_for_Better_Generation.md)
 
     - [翻译: Invar-RAG：用于更好生成的不变的与大型语言模型对齐的检索](2024年11月11日/Invar-RAG_Invariant_LLM-aligned_Retrieval_for_Better_Generation.md)
@@ -880,10 +876,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [OpenAI-o1 AB Testing: Does the o1 model really do good reasoning in math problem solving?](2024年11月09日/OpenAI-o1_AB_Testing_Does_the_o1_model_really_do_good_reasoning_in_math_problem_solving.md)
 
     - [翻译: OpenAI-o1 AB 测试：o1 模型在数学问题解决中真的能很好地推理吗？](2024年11月09日/OpenAI-o1_AB_Testing_Does_the_o1_model_really_do_good_reasoning_in_math_problem_solving.md)
-
-- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](2024年11月09日/OpenCoder_The_Open_Cookbook_for_Top-Tier_Code_Large_Language_Models.md)
-
-    - [翻译: OpenCoder：顶级代码大型语言模型的开放食谱](2024年11月09日/OpenCoder_The_Open_Cookbook_for_Top-Tier_Code_Large_Language_Models.md)
 
 - [Optimizing Large Language Models through Quantization: A Comparative Analysis of PTQ and QAT Techniques](2024年11月09日/Optimizing_Large_Language_Models_through_Quantization_A_Comparative_Analysis_of_PTQ_and_QAT_Techniques.md)
 
@@ -1482,10 +1474,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models](2024年11月04日/Improving_Scientific_Hypothesis_Generation_with_Knowledge_Grounded_Large_Language_Models.md)
 
     - [翻译: 利用知识基础的大型语言模型改进科学假设的生成](2024年11月04日/Improving_Scientific_Hypothesis_Generation_with_Knowledge_Grounded_Large_Language_Models.md)
-
-- ["It's a conversation, not a quiz": A Risk Taxonomy and Reflection Tool for LLM Adoption in Public Health](2024年11月04日/It's_a_conversation,_not_a_quiz_A_Risk_Taxonomy_and_Reflection_Tool_for_LLM_Adoption_in_Public_Health.md)
-
-    - [翻译: “这是一场对话，不是一次测验”：公共卫生中采用大型语言模型的风险分类和反思工具](2024年11月04日/It's_a_conversation,_not_a_quiz_A_Risk_Taxonomy_and_Reflection_Tool_for_LLM_Adoption_in_Public_Health.md)
 
 - [KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension](2024年11月04日/KptLLM_Unveiling_the_Power_of_Large_Language_Model_for_Keypoint_Comprehension.md)
 
