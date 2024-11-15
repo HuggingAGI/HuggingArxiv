@@ -609,6 +609,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 通过使用功能性磁共振成像（fMRI）基础模型进行全脑分析来解码视觉体验和映射语义](2024年11月11日/Decoding_Visual_Experience_and_Mapping_Semantics_through_Whole-Brain_Analysis_Using_fMRI_Foundation_Models.md)
 
+- [Edify 3D: Scalable High-Quality 3D Asset Generation](2024年11月11日/Edify_3D_Scalable_High-Quality_3D_Asset_Generation.md)
+
+    - [翻译: Edify 3D：可扩展的高品质 3D 资产生成](2024年11月11日/Edify_3D_Scalable_High-Quality_3D_Asset_Generation.md)
+
 - [Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation](2024年11月11日/Invar-RAG_Invariant_LLM-aligned_Retrieval_for_Better_Generation.md)
 
     - [翻译: Invar-RAG：用于更好生成的不变的与大型语言模型对齐的检索](2024年11月11日/Invar-RAG_Invariant_LLM-aligned_Retrieval_for_Better_Generation.md)
