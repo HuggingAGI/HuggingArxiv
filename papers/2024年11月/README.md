@@ -1423,10 +1423,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 定义和评估大型语言模型的物理安全性](2024年11月04日/Defining_and_Evaluating_Physical_Safety_for_Large_Language_Models.md)
 
-- [Disrupting Test Development with AI Assistants](2024年11月04日/Disrupting_Test_Development_with_AI_Assistants.md)
-
-    - [翻译: 用人工智能助手扰乱测试开发](2024年11月04日/Disrupting_Test_Development_with_AI_Assistants.md)
-
 - [Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?](2024年11月04日/Do_Advanced_Language_Models_Eliminate_the_Need_for_Prompt_Engineering_in_Software_Engineering.md)
 
     - [翻译: 先进的语言模型是否消除了软件工程中提示工程的需求？](2024年11月04日/Do_Advanced_Language_Models_Eliminate_the_Need_for_Prompt_Engineering_in_Software_Engineering.md)
