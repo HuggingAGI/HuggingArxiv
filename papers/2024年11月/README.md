@@ -719,10 +719,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: CausalStock：用于新闻驱动的股票走势预测的深度端到端因果发现](2024年11月10日/CausalStock_Deep_End-to-end_Causal_Discovery_for_News-driven_Stock_Movement_Prediction.md)
 
-- [ClinicalBench: Can LLMs Beat Traditional ML Models in Clinical Prediction?](2024年11月10日/ClinicalBench_Can_LLMs_Beat_Traditional_ML_Models_in_Clinical_Prediction.md)
-
-    - [翻译: ClinicalBench：大型语言模型在临床预测中能击败传统机器学习模型吗？](2024年11月10日/ClinicalBench_Can_LLMs_Beat_Traditional_ML_Models_in_Clinical_Prediction.md)
-
 - [CriticAL: Critic Automation with Language Models](2024年11月10日/CriticAL_Critic_Automation_with_Language_Models.md)
 
     - [翻译: CriticAL: 利用语言模型的批评自动化](2024年11月10日/CriticAL_Critic_Automation_with_Language_Models.md)
@@ -790,10 +786,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation](2024年11月10日/Self-Training_Meets_Consistency_Improving_LLMs'_Reasoning_With_Consistency-Driven_Rationale_Evaluation.md)
 
     - [翻译: 自我训练遇到一致性：通过一致性驱动的原理评估来改进大型语言模型（LLM）的推理能力](2024年11月10日/Self-Training_Meets_Consistency_Improving_LLMs'_Reasoning_With_Consistency-Driven_Rationale_Evaluation.md)
-
-- [SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](2024年11月10日/SequentialBreak_Large_Language_Models_Can_be_Fooled_by_Embedding_Jailbreak_Prompts_into_Sequential_Prompt_Chains.md)
-
-    - [翻译: SequentialBreak：大型语言模型可能会被嵌入越狱提示到顺序提示链中所愚弄。](2024年11月10日/SequentialBreak_Large_Language_Models_Can_be_Fooled_by_Embedding_Jailbreak_Prompts_into_Sequential_Prompt_Chains.md)
 
 - [Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data](2024年11月10日/Understanding_Scaling_Laws_with_Statistical_and_Approximation_Theory_for_Transformer_Neural_Networks_on_Intrinsically_Low-dimensional_Data.md)
 
@@ -1068,10 +1060,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR](2024年11月07日/CUIfy_the_XR_An_Open-Source_Package_to_Embed_LLM-powered_Conversational_Agents_in_XR.md)
 
     - [翻译: CUIfy 扩展现实（XR）：一个将由大型语言模型（LLM）驱动的会话代理嵌入扩展现实的开源软件包](2024年11月07日/CUIfy_the_XR_An_Open-Source_Package_to_Embed_LLM-powered_Conversational_Agents_in_XR.md)
-
-- [Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models](2024年11月07日/Diff-2-in-1_Bridging_Generation_and_Dense_Perception_with_Diffusion_Models.md)
-
-    - [翻译: Diff-2-in-1：用扩散模型架起生成和密集感知的桥梁](2024年11月07日/Diff-2-in-1_Bridging_Generation_and_Dense_Perception_with_Diffusion_Models.md)
 
 - [Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models](2024年11月07日/Explainable_Search_and_Discovery_of_Visual_Cultural_Heritage_Collections_with_Multimodal_Large_Language_Models.md)
 
@@ -1486,10 +1474,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Language Models and Cycle Consistency for Self-Reflective Machine Translation](2024年11月04日/Language_Models_and_Cycle_Consistency_for_Self-Reflective_Machine_Translation.md)
 
     - [翻译: 语言模型和循环一致性用于自我反思的机器翻译](2024年11月04日/Language_Models_and_Cycle_Consistency_for_Self-Reflective_Machine_Translation.md)
-
-- [Learning Where to Edit Vision Transformers](2024年11月04日/Learning_Where_to_Edit_Vision_Transformers.md)
-
-    - [翻译: 学习在何处编辑视觉转换器](2024年11月04日/Learning_Where_to_Edit_Vision_Transformers.md)
 
 - [Leveraging LLM Tutoring Systems for Non-Native English Speakers in Introductory CS Courses](2024年11月04日/Leveraging_LLM_Tutoring_Systems_for_Non-Native_English_Speakers_in_Introductory_CS_Courses.md)
 
