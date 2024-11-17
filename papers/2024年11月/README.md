@@ -747,6 +747,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: PRISM：通过解缠表示学习实现跨站点 MRI 协调的隐私保护](2024年11月10日/PRISM_Privacy-preserving_Inter-Site_MRI_Harmonization_via_Disentangled_Representation_Learning.md)
 
+- [Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement](2024年11月10日/Region-Aware_Text-to-Image_Generation_via_Hard_Binding_and_Soft_Refinement.md)
+
+    - [翻译: 通过硬绑定和软细化实现区域感知的文本到图像生成](2024年11月10日/Region-Aware_Text-to-Image_Generation_via_Hard_Binding_and_Soft_Refinement.md)
+
 - [Renaissance: Investigating the Pretraining of Vision-Language Encoders](2024年11月10日/Renaissance_Investigating_the_Pretraining_of_Vision-Language_Encoders.md)
 
     - [翻译: 文艺复兴：研究视觉语言编码器的预训练](2024年11月10日/Renaissance_Investigating_the_Pretraining_of_Vision-Language_Encoders.md)
@@ -1001,6 +1005,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 超越数字：关系抽取基准创建与排行榜的透明度](2024年11月07日/Beyond_the_Numbers_Transparency_in_Relation_Extraction_Benchmark_Creation_and_Leaderboards.md)
 
+- [BhasaAnuvaad: A Speech Translation Dataset for 13 Indian Languages](2024年11月07日/BhasaAnuvaad_A_Speech_Translation_Dataset_for_13_Indian_Languages.md)
+
+    - [翻译: BhasaAnuvaad：一个涵盖 13 种印度语言的语音翻译数据集](2024年11月07日/BhasaAnuvaad_A_Speech_Translation_Dataset_for_13_Indian_Languages.md)
+
 - [CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](2024年11月07日/CAD-MLLM_Unifying_Multimodality-Conditioned_CAD_Generation_With_MLLM.md)
 
     - [翻译: CAD-MLLM：用 MLLM 统一多模态条件下的 CAD 生成](2024年11月07日/CAD-MLLM_Unifying_Multimodality-Conditioned_CAD_Generation_With_MLLM.md)
@@ -1171,6 +1179,14 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 微调视觉语言模型用于自动化工程图纸信息提取](2024年11月06日/Fine-Tuning_Vision-Language_Model_for_Automated_Engineering_Drawing_Information_Extraction.md)
 
+- [From Word Vectors to Multimodal Embeddings: Techniques, Applications, and Future Directions For Large Language Models](2024年11月06日/From_Word_Vectors_to_Multimodal_Embeddings_Techniques,_Applications,_and_Future_Directions_For_Large_Language_Models.md)
+
+    - [翻译: 从词向量至多模态嵌入：大型语言模型的技术、应用及未来走向](2024年11月06日/From_Word_Vectors_to_Multimodal_Embeddings_Techniques,_Applications,_and_Future_Directions_For_Large_Language_Models.md)
+
+- [Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators](2024年11月06日/Harmful_YouTube_Video_Detection_A_Taxonomy_of_Online_Harm_and_MLLMs_as_Alternative_Annotators.md)
+
+    - [翻译: 有害 YouTube 视频检测：在线危害分类及 MLLMs 充当替代标注员](2024年11月06日/Harmful_YouTube_Video_Detection_A_Taxonomy_of_Online_Harm_and_MLLMs_as_Alternative_Annotators.md)
+
 - [How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis](2024年11月06日/How_Transformers_Solve_Propositional_Logic_Problems_A_Mechanistic_Analysis.md)
 
     - [翻译: 变压器如何解决命题逻辑问题：一种机制分析](2024年11月06日/How_Transformers_Solve_Propositional_Logic_Problems_A_Mechanistic_Analysis.md)
@@ -1182,6 +1198,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Large Generative Model-assisted Talking-face Semantic Communication System](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
 
     - [翻译: 大型生成模型辅助的说话人脸语义通信系统](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
+
+- [LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration](2024年11月06日/LEGO-GraphRAG_Modularizing_Graph-based_Retrieval-Augmented_Generation_for_Design_Space_Exploration.md)
+
+    - [翻译: LEGO-GraphRAG：用于设计空间探索的基于图的检索增强生成之模块化](2024年11月06日/LEGO-GraphRAG_Modularizing_Graph-based_Retrieval-Augmented_Generation_for_Design_Space_Exploration.md)
 
 - [Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks](2024年11月06日/Long-Form_Text-to-Music_Generation_with_Adaptive_Prompts_A_Case_of_Study_in_Tabletop_Role-Playing_Games_Soundtracks.md)
 
@@ -1292,6 +1312,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice](2024年11月05日/From_Pen_to_Prompt_How_Creative_Writers_Integrate_AI_into_their_Writing_Practice.md)
 
     - [翻译: 从笔到提示：创意作家如何将人工智能融入他们的写作实践](2024年11月05日/From_Pen_to_Prompt_How_Creative_Writers_Integrate_AI_into_their_Writing_Practice.md)
+
+- [From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing](2024年11月05日/From_Pixels_to_Prose_Advancing_Multi-Modal_Language_Models_for_Remote_Sensing.md)
+
+    - [翻译: 从像素到篇章：推动遥感领域的多模态语言模型发展](2024年11月05日/From_Pixels_to_Prose_Advancing_Multi-Modal_Language_Models_for_Remote_Sensing.md)
 
 - [Grounding Natural Language to SQL Translation with Data-Based Self-Explanations](2024年11月05日/Grounding_Natural_Language_to_SQL_Translation_with_Data-Based_Self-Explanations.md)
 
