@@ -10,10 +10,6 @@
 
     - [翻译: 将 RAG 应用于 LLM 辅助的未来车辆设计](2024年11月14日/Adopting_RAG_for_LLM-Aided_Future_Vehicle_Design.md)
 
-- [Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models](2024年11月14日/Advancing_Fine-Grained_Visual_Understanding_with_Multi-Scale_Alignment_in_Multi-Modal_Models.md)
-
-    - [翻译: 在多模态模型中通过多尺度对齐来促进细粒度视觉理解](2024年11月14日/Advancing_Fine-Grained_Visual_Understanding_with_Multi-Scale_Alignment_in_Multi-Modal_Models.md)
-
 - [Approximated Variational Bayesian Inverse Reinforcement Learning for Large Language Model Alignment](2024年11月14日/Approximated_Variational_Bayesian_Inverse_Reinforcement_Learning_for_Large_Language_Model_Alignment.md)
 
     - [翻译: 近似的变分贝叶斯逆强化学习应用于大型语言模型的对齐](2024年11月14日/Approximated_Variational_Bayesian_Inverse_Reinforcement_Learning_for_Large_Language_Model_Alignment.md)
@@ -45,10 +41,6 @@
 - [DTELS: Towards Dynamic Granularity of Timeline Summarization](2024年11月14日/DTELS_Towards_Dynamic_Granularity_of_Timeline_Summarization.md)
 
     - [翻译: DTELS：致力于实现时间线摘要的动态粒度化](2024年11月14日/DTELS_Towards_Dynamic_Granularity_of_Timeline_Summarization.md)
-
-- [Enhancing Financial Domain Adaptation of Language Models via Model Augmentation](2024年11月14日/Enhancing_Financial_Domain_Adaptation_of_Language_Models_via_Model_Augmentation.md)
-
-    - [翻译: 借助模型增强提升语言模型在金融领域的适应性](2024年11月14日/Enhancing_Financial_Domain_Adaptation_of_Language_Models_via_Model_Augmentation.md)
 
 - [Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications](2024年11月14日/Harnessing_multiple_LLMs_for_Information_Retrieval_A_case_study_on_Deep_Learning_methodologies_in_Biodiversity_publications.md)
 
@@ -196,10 +188,6 @@
 
     - [翻译: 利用高效自适应知识图谱学习实现基于连续 GNN 的边缘异常检测](2024年11月13日/Continuous_GNN-based_Anomaly_Detection_on_Edge_using_Efficient_Adaptive_Knowledge_Graph_Learning.md)
 
-- [CorrectBench: Automatic Testbench Generation with Functional Self-Correction using LLMs for HDL Design](2024年11月13日/CorrectBench_Automatic_Testbench_Generation_with_Functional_Self-Correction_using_LLMs_for_HDL_Design.md)
-
-    - [翻译: CorrectBench：使用大型语言模型（LLMs）对 HDL 设计进行具有功能自校正的自动测试平台生成](2024年11月13日/CorrectBench_Automatic_Testbench_Generation_with_Functional_Self-Correction_using_LLMs_for_HDL_Design.md)
-
 - [CorrSynth -- A Correlated Sampling Method for Diverse Dataset Generation from LLMs](2024年11月13日/CorrSynth_--_A_Correlated_Sampling_Method_for_Diverse_Dataset_Generation_from_LLMs.md)
 
     - [翻译: CorrSynth -- 一种用于从大型语言模型生成多样化数据集的相关采样方法](2024年11月13日/CorrSynth_--_A_Correlated_Sampling_Method_for_Diverse_Dataset_Generation_from_LLMs.md)
@@ -244,10 +232,6 @@
 
     - [翻译: LLM2CLIP：强大的语言模型解锁更丰富的视觉表示](2024年11月13日/LLM2CLIP_Powerful_Language_Model_Unlocks_Richer_Visual_Representation.md)
 
-- [LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](2024年11月13日/LLMStinger_Jailbreaking_LLMs_using_RL_fine-tuned_LLMs.md)
-
-    - [翻译: LLMStinger：使用经过 RL 微调的 LLM 来破解 LLM](2024年11月13日/LLMStinger_Jailbreaking_LLMs_using_RL_fine-tuned_LLMs.md)
-
 - [LogLLM: Log-based Anomaly Detection Using Large Language Models](2024年11月13日/LogLLM_Log-based_Anomaly_Detection_Using_Large_Language_Models.md)
 
     - [翻译: LogLLM：使用大型语言模型进行基于日志的异常检测](2024年11月13日/LogLLM_Log-based_Anomaly_Detection_Using_Large_Language_Models.md)
@@ -267,10 +251,6 @@
 - [Neural Topic Modeling with Large Language Models in the Loop](2024年11月13日/Neural_Topic_Modeling_with_Large_Language_Models_in_the_Loop.md)
 
     - [翻译: 在循环中使用大型语言模型的神经主题建模](2024年11月13日/Neural_Topic_Modeling_with_Large_Language_Models_in_the_Loop.md)
-
-- [One STEP at a time: Language Agents are Stepwise Planners](2024年11月13日/One_STEP_at_a_time_Language_Agents_are_Stepwise_Planners.md)
-
-    - [翻译: 一次一个步骤：语言代理是逐步规划者](2024年11月13日/One_STEP_at_a_time_Language_Agents_are_Stepwise_Planners.md)
 
 - [P-MMEval: A Parallel Multilingual Multitask Benchmark for Consistent Evaluation of LLMs](2024年11月13日/P-MMEval_A_Parallel_Multilingual_Multitask_Benchmark_for_Consistent_Evaluation_of_LLMs.md)
 
@@ -502,10 +482,6 @@
 
     - [翻译: 建筑安全中的负责任人工智能：大型语言模型和提示工程的系统评估](2024年11月12日/Responsible_AI_in_Construction_Safety_Systematic_Evaluation_of_Large_Language_Models_and_Prompt_Engineering.md)
 
-- [Retrieval Augmented Time Series Forecasting](2024年11月12日/Retrieval_Augmented_Time_Series_Forecasting.md)
-
-    - [翻译: 检索增强型时间序列预测](2024年11月12日/Retrieval_Augmented_Time_Series_Forecasting.md)
-
 - [Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
 
     - [翻译: 检索、推理、重新排序：一个用于知识图谱补全的上下文丰富框架](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
@@ -529,14 +505,6 @@
 - [Training Data for Large Language Model](2024年11月12日/Training_Data_for_Large_Language_Model.md)
 
     - [翻译: 大型语言模型的训练数据](2024年11月12日/Training_Data_for_Large_Language_Model.md)
-
-- [Unlocking Legal Knowledge with Multi-Layered Embedding-Based Retrieval](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
-
-    - [翻译: 通过基于多层嵌入的检索来解锁法律知识](2024年11月12日/Unlocking_Legal_Knowledge_with_Multi-Layered_Embedding-Based_Retrieval.md)
-
-- [VALTEST: Automated Validation of Language Model Generated Test Cases](2024年11月12日/VALTEST_Automated_Validation_of_Language_Model_Generated_Test_Cases.md)
-
-    - [翻译: VALTEST：语言模型生成的测试用例的自动验证](2024年11月12日/VALTEST_Automated_Validation_of_Language_Model_Generated_Test_Cases.md)
 
 - [Verbosity $\neq$ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models](2024年11月12日/Verbosity_$\neq$_Veracity_Demystify_Verbosity_Compensation_Behavior_of_Large_Language_Models.md)
 
@@ -573,10 +541,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 一个将对抗训练与预训练语言模型和神经网络相结合的文本分类模型：关于电信诈骗事件文本的案例研究](2024年11月11日/A_Text_Classification_Model_Combining_Adversarial_Training_with_Pre-trained_Language_Model_and_neural_networks_A_Case_Study_on_Telecom_Fraud_Incident_Texts.md)
 
-- [Benchmarking LLMs' Judgments with No Gold Standard](2024年11月11日/Benchmarking_LLMs'_Judgments_with_No_Gold_Standard.md)
-
-    - [翻译: 用没有黄金标准的方法对大型语言模型的判断进行基准测试](2024年11月11日/Benchmarking_LLMs'_Judgments_with_No_Gold_Standard.md)
-
 - [BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions](2024年11月11日/BLIP3-KALE_Knowledge_Augmented_Large-Scale_Dense_Captions.md)
 
     - [翻译: BLIP3-KALE：知识增强型大规模密集字幕](2024年11月11日/BLIP3-KALE_Knowledge_Augmented_Large-Scale_Dense_Captions.md)
@@ -600,10 +564,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models](2024年11月11日/Chinese_SimpleQA_A_Chinese_Factuality_Evaluation_for_Large_Language_Models.md)
 
     - [翻译: 《中文 SimpleQA：针对大型语言模型的中文真实性评估》](2024年11月11日/Chinese_SimpleQA_A_Chinese_Factuality_Evaluation_for_Large_Language_Models.md)
-
-- [Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks](2024年11月11日/Comparing_Bottom-Up_and_Top-Down_Steering_Approaches_on_In-Context_Learning_Tasks.md)
-
-    - [翻译: 在上下文学习任务中比较自下而上和自上而下的引导方法](2024年11月11日/Comparing_Bottom-Up_and_Top-Down_Steering_Approaches_on_In-Context_Learning_Tasks.md)
 
 - [Continual Memorization of Factoids in Large Language Models](2024年11月11日/Continual_Memorization_of_Factoids_in_Large_Language_Models.md)
 
@@ -925,10 +885,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 通过量化优化大型语言模型：PTQ 和 QAT 技术的比较分析](2024年11月09日/Optimizing_Large_Language_Models_through_Quantization_A_Comparative_Analysis_of_PTQ_and_QAT_Techniques.md)
 
-- [Quasi-random Multi-Sample Inference for Large Language Models](2024年11月09日/Quasi-random_Multi-Sample_Inference_for_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型的准随机多样本推理](2024年11月09日/Quasi-random_Multi-Sample_Inference_for_Large_Language_Models.md)
-
 - [Robust Detection of LLM-Generated Text: A Comparative Analysis](2024年11月09日/Robust_Detection_of_LLM-Generated_Text_A_Comparative_Analysis.md)
 
     - [翻译: 强大的大型语言模型生成文本检测：一项比较分析](2024年11月09日/Robust_Detection_of_LLM-Generated_Text_A_Comparative_Analysis.md)
@@ -950,10 +906,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
     - [翻译: Smart-LLaMA：用于智能合约漏洞检测和解释的大型语言模型的两阶段后训练](2024年11月09日/Smart-LLaMA_Two-Stage_Post-Training_of_Large_Language_Models_for_Smart_Contract_Vulnerability_Detection_and_Explanation.md)
 
 2024年11月08日
-
-- [An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
-
-    - [翻译: 关于大型多模态模型的空间推理能力的实证分析](2024年11月08日/An_Empirical_Analysis_on_Spatial_Reasoning_Capabilities_of_Large_Multimodal_Models.md)
 
 - [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](2024年11月08日/A_Picture_is_Worth_A_Thousand_Numbers_Enabling_LLMs_Reason_about_Time_Series_via_Visualization.md)
 
@@ -1054,10 +1006,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Towards Multi-Modal Mastery: A 4.5B Parameter Truly Multi-Modal Small Language Model](2024年11月08日/Towards_Multi-Modal_Mastery_A_4.5B_Parameter_Truly_Multi-Modal_Small_Language_Model.md)
 
     - [翻译: 迈向多模态精通：一个 45 亿参数的真正多模态小型语言模型](2024年11月08日/Towards_Multi-Modal_Mastery_A_4.5B_Parameter_Truly_Multi-Modal_Small_Language_Model.md)
-
-- [Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
-
-    - [翻译: 揭示大型语言模型的局限性：通过 MskQA 和 MskCal 对掩码文本处理能力的系统评估](2024年11月08日/Unmasking_the_Limits_of_Large_Language_Models_A_Systematic_Evaluation_of_Masked_Text_Processing_Ability_through_MskQA_and_MskCal.md)
 
 - [WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
 
