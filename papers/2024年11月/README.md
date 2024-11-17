@@ -134,10 +134,6 @@
 
     - [翻译: SmartInv：用于智能合约不变式推理的多模态学习方式](2024年11月14日/SmartInv_Multimodal_Learning_for_Smart_Contract_Invariant_Inference.md)
 
-- [Software Performance Engineering for Foundation Model-Powered Software (FMware)](2024年11月14日/Software_Performance_Engineering_for_Foundation_Model-Powered_Software_(FMware).md)
-
-    - [翻译: 针对基础模型驱动软件（FMware）的软件性能工程](2024年11月14日/Software_Performance_Engineering_for_Foundation_Model-Powered_Software_(FMware).md)
-
 - [Spider: Any-to-Many Multimodal LLM](2024年11月14日/Spider_Any-to-Many_Multimodal_LLM.md)
 
     - [翻译: Spider：任意到多种的多模态大型语言模型](2024年11月14日/Spider_Any-to-Many_Multimodal_LLM.md)
@@ -145,10 +141,6 @@
 - [Squeezed Attention: Accelerating Long Context Length LLM Inference](2024年11月14日/Squeezed_Attention_Accelerating_Long_Context_Length_LLM_Inference.md)
 
     - [翻译: 压缩注意力：加快长上下文长度的大型语言模型的推理速度](2024年11月14日/Squeezed_Attention_Accelerating_Long_Context_Length_LLM_Inference.md)
-
-- [StreamAdapter: Efficient Test Time Adaptation from Contextual Streams](2024年11月14日/StreamAdapter_Efficient_Test_Time_Adaptation_from_Contextual_Streams.md)
-
-    - [翻译: StreamAdapter：上下文流中的高效测试时适应](2024年11月14日/StreamAdapter_Efficient_Test_Time_Adaptation_from_Contextual_Streams.md)
 
 - [The Moral Foundations Weibo Corpus](2024年11月14日/The_Moral_Foundations_Weibo_Corpus.md)
 
@@ -211,10 +203,6 @@
 - [CorrSynth -- A Correlated Sampling Method for Diverse Dataset Generation from LLMs](2024年11月13日/CorrSynth_--_A_Correlated_Sampling_Method_for_Diverse_Dataset_Generation_from_LLMs.md)
 
     - [翻译: CorrSynth -- 一种用于从大型语言模型生成多样化数据集的相关采样方法](2024年11月13日/CorrSynth_--_A_Correlated_Sampling_Method_for_Diverse_Dataset_Generation_from_LLMs.md)
-
-- [Crystal Structure Generation Based On Material Properties](2024年11月13日/Crystal_Structure_Generation_Based_On_Material_Properties.md)
-
-    - [翻译: 基于材料特性的晶体结构生成](2024年11月13日/Crystal_Structure_Generation_Based_On_Material_Properties.md)
 
 - [Cut Your Losses in Large-Vocabulary Language Models](2024年11月13日/Cut_Your_Losses_in_Large-Vocabulary_Language_Models.md)
 
@@ -401,14 +389,6 @@
 - [Chain Association-based Attacking and Shielding Natural Language Processing Systems](2024年11月12日/Chain_Association-based_Attacking_and_Shielding_Natural_Language_Processing_Systems.md)
 
     - [翻译: 基于链关联的攻击和防护自然语言处理系统](2024年11月12日/Chain_Association-based_Attacking_and_Shielding_Natural_Language_Processing_Systems.md)
-
-- [Circuit Complexity Bounds for RoPE-based Transformer Architecture](2024年11月12日/Circuit_Complexity_Bounds_for_RoPE-based_Transformer_Architecture.md)
-
-    - [翻译: 基于 RoPE 的 Transformer 架构的电路复杂性界限](2024年11月12日/Circuit_Complexity_Bounds_for_RoPE-based_Transformer_Architecture.md)
-
-- [CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models](2024年11月12日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
-
-    - [翻译: CodeTree：使用大型语言模型进行代码生成的代理引导树搜索](2024年11月12日/CodeTree_Agent-guided_Tree_Search_for_Code_Generation_with_Large_Language_Models.md)
 
 - [CryptoLLM: Unleashing the Power of Prompted LLMs for SmartQnA and Classification of Crypto Posts](2024年11月12日/CryptoLLM_Unleashing_the_Power_of_Prompted_LLMs_for_SmartQnA_and_Classification_of_Crypto_Posts.md)
 
@@ -673,10 +653,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 大型语言模型作为神经语言学研究对象：明确形式与意义的内部表征](2024年11月11日/Large_Language_Models_as_Neurolinguistic_Subjects_Identifying_Internal_Representations_for_Form_and_Meaning.md)
 
-- [Large-scale moral machine experiment on large language models](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
-
-    - [翻译: 大规模语言模型的大规模道德机器实验](2024年11月11日/Large-scale_moral_machine_experiment_on_large_language_models.md)
-
 - [LLM App Squatting and Cloning](2024年11月11日/LLM_App_Squatting_and_Cloning.md)
 
     - [翻译: LLM 应用的抢占与克隆](2024年11月11日/LLM_App_Squatting_and_Cloning.md)
@@ -826,10 +802,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Hermes: A Large Language Model Framework on the Journey to Autonomous Networks](2024年11月10日/Hermes_A_Large_Language_Model_Framework_on_the_Journey_to_Autonomous_Networks.md)
 
     - [翻译: Hermes：一个在通往自主网络之旅中的大型语言模型框架](2024年11月10日/Hermes_A_Large_Language_Model_Framework_on_the_Journey_to_Autonomous_Networks.md)
-
-- [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](2024年11月10日/Is_Your_LLM_Secretly_a_World_Model_of_the_Internet_Model-Based_Planning_for_Web_Agents.md)
-
-    - [翻译: 您的大型语言模型（LLM）是否秘密地是互联网的世界模型？基于模型的 Web 代理规划](2024年11月10日/Is_Your_LLM_Secretly_a_World_Model_of_the_Internet_Model-Based_Planning_for_Web_Agents.md)
 
 - [Learning Loss Landscapes in Preference Optimization](2024年11月10日/Learning_Loss_Landscapes_in_Preference_Optimization.md)
 
@@ -1007,10 +979,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 视觉中的自回归模型：一项调查](2024年11月08日/Autoregressive_Models_in_Vision_A_Survey.md)
 
-- [Benchmarking Distributional Alignment of Large Language Models](2024年11月08日/Benchmarking_Distributional_Alignment_of_Large_Language_Models.md)
-
-    - [翻译: 对大型语言模型的分布对齐进行基准测试](2024年11月08日/Benchmarking_Distributional_Alignment_of_Large_Language_Models.md)
-
 - [Content Quality vs. Attention Allocation: An LLM-Based Case Study in Peer-to-peer Mental Health Networks](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
 
     - [翻译: 内容质量与注意力分配：基于 LLM 的在点对点心理健康网络中的案例研究](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
@@ -1030,10 +998,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
 
     - [翻译: EUREKHA：增强用于地下论坛中关键黑客识别的用户表示](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
-
-- [Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
-
-    - [翻译: 事实还是虚构？大型语言模型能否成为政治真相的可靠标注者？](2024年11月08日/Fact_or_Fiction_Can_LLMs_be_Reliable_Annotators_for_Political_Truths.md)
 
 - [Fast Stochastic Subspace Identification of Densely Instrumented Bridges Using Randomized SVD](2024年11月08日/Fast_Stochastic_Subspace_Identification_of_Densely_Instrumented_Bridges_Using_Randomized_SVD.md)
 
@@ -1108,10 +1072,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
     - [翻译: 为什么是这些文档？具有分层类别路径的可解释生成式检索](2024年11月08日/Why_These_Documents_Explainable_Generative_Retrieval_with_Hierarchical_Category_Paths.md)
 
 2024年11月07日
-
-- [Abstract2Appendix: Academic Reviews Enhance LLM Long-Context Capabilities](2024年11月07日/Abstract2Appendix_Academic_Reviews_Enhance_LLM_Long-Context_Capabilities.md)
-
-    - [翻译: 摘要 2 附录：学术评论提升 LLM 的长上下文处理能力](2024年11月07日/Abstract2Appendix_Academic_Reviews_Enhance_LLM_Long-Context_Capabilities.md)
 
 - [Alopex: A Computational Framework for Enabling On-Device Function Calls with LLMs](2024年11月07日/Alopex_A_Computational_Framework_for_Enabling_On-Device_Function_Calls_with_LLMs.md)
 
@@ -1228,10 +1188,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model](2024年11月07日/RT-Grasp_Reasoning_Tuning_Robotic_Grasping_via_Multi-modal_Large_Language_Model.md)
 
     - [翻译: RT-Grasp：借助多模态大型语言模型实现机器人抓取的推理调整](2024年11月07日/RT-Grasp_Reasoning_Tuning_Robotic_Grasping_via_Multi-modal_Large_Language_Model.md)
-
-- [Scaling Laws for Precision](2024年11月07日/Scaling_Laws_for_Precision.md)
-
-    - [翻译: 精度的缩放定律](2024年11月07日/Scaling_Laws_for_Precision.md)
 
 - [Seeing is Deceiving: Exploitation of Visual Pathways in Multi-Modal Language Models](2024年11月07日/Seeing_is_Deceiving_Exploitation_of_Visual_Pathways_in_Multi-Modal_Language_Models.md)
 
@@ -1358,10 +1314,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Number Cookbook: Number Understanding of Language Models and How to Improve It](2024年11月06日/Number_Cookbook_Number_Understanding_of_Language_Models_and_How_to_Improve_It.md)
 
     - [翻译: 《数字食谱：语言模型的数字理解以及如何改进它》](2024年11月06日/Number_Cookbook_Number_Understanding_of_Language_Models_and_How_to_Improve_It.md)
-
-- [One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
-
-    - [翻译: 一条鱼，两条鱼，但不是整个海洋：对齐降低了语言模型的概念多样性](2024年11月06日/One_fish,_two_fish,_but_not_the_whole_sea_Alignment_reduces_language_models'_conceptual_diversity.md)
 
 - [QUILL: Quotation Generation Enhancement of Large Language Models](2024年11月06日/QUILL_Quotation_Generation_Enhancement_of_Large_Language_Models.md)
 
@@ -1690,10 +1642,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units](2024年11月04日/The_LLM_Language_Network_A_Neuroscientific_Approach_for_Identifying_Causally_Task-Relevant_Units.md)
 
     - [翻译: LLM 语言网络：一种用于识别因果任务相关单元的神经科学方法](2024年11月04日/The_LLM_Language_Network_A_Neuroscientific_Approach_for_Identifying_Causally_Task-Relevant_Units.md)
-
-- [Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration](2024年11月04日/Vocal_Sandbox_Continual_Learning_and_Adaptation_for_Situated_Human-Robot_Collaboration.md)
-
-    - [翻译: 语音沙盒：用于情境化人机协作的持续学习和适应](2024年11月04日/Vocal_Sandbox_Continual_Learning_and_Adaptation_for_Situated_Human-Robot_Collaboration.md)
 
 - [Zebra-Llama: A Context-Aware Large Language Model for Democratizing Rare Disease Knowledge](2024年11月04日/Zebra-Llama_A_Context-Aware_Large_Language_Model_for_Democratizing_Rare_Disease_Knowledge.md)
 
