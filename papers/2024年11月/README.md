@@ -188,10 +188,6 @@
 
     - [翻译: 利用高效自适应知识图谱学习实现基于连续 GNN 的边缘异常检测](2024年11月13日/Continuous_GNN-based_Anomaly_Detection_on_Edge_using_Efficient_Adaptive_Knowledge_Graph_Learning.md)
 
-- [CorrSynth -- A Correlated Sampling Method for Diverse Dataset Generation from LLMs](2024年11月13日/CorrSynth_--_A_Correlated_Sampling_Method_for_Diverse_Dataset_Generation_from_LLMs.md)
-
-    - [翻译: CorrSynth -- 一种用于从大型语言模型生成多样化数据集的相关采样方法](2024年11月13日/CorrSynth_--_A_Correlated_Sampling_Method_for_Diverse_Dataset_Generation_from_LLMs.md)
-
 - [Cut Your Losses in Large-Vocabulary Language Models](2024年11月13日/Cut_Your_Losses_in_Large-Vocabulary_Language_Models.md)
 
     - [翻译: 于大词汇量语言模型中降低损失](2024年11月13日/Cut_Your_Losses_in_Large-Vocabulary_Language_Models.md)
@@ -361,10 +357,6 @@
 - [CryptoLLM: Unleashing the Power of Prompted LLMs for SmartQnA and Classification of Crypto Posts](2024年11月12日/CryptoLLM_Unleashing_the_Power_of_Prompted_LLMs_for_SmartQnA_and_Classification_of_Crypto_Posts.md)
 
     - [翻译: CryptoLLM：释放提示型 LLMs 在智能问答和加密帖子分类方面的力量](2024年11月12日/CryptoLLM_Unleashing_the_Power_of_Prompted_LLMs_for_SmartQnA_and_Classification_of_Crypto_Posts.md)
-
-- [Derivational Morphology Reveals Analogical Generalization in Large Language Models](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
-
-    - [翻译: 派生形态学揭示了大型语言模型中的类比概括。](2024年11月12日/Derivational_Morphology_Reveals_Analogical_Generalization_in_Large_Language_Models.md)
 
 - [Direct Preference Optimization Using Sparse Feature-Level Constraints](2024年11月12日/Direct_Preference_Optimization_Using_Sparse_Feature-Level_Constraints.md)
 
@@ -544,14 +536,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models](2024年11月11日/CapeLLM_Support-Free_Category-Agnostic_Pose_Estimation_with_Multimodal_Large_Language_Models.md)
 
     - [翻译: CapeLLM：使用多模态大型语言模型的无支持类别无关姿态估计](2024年11月11日/CapeLLM_Support-Free_Category-Agnostic_Pose_Estimation_with_Multimodal_Large_Language_Models.md)
-
-- [Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models](2024年11月11日/Chinese_SimpleQA_A_Chinese_Factuality_Evaluation_for_Large_Language_Models.md)
-
-    - [翻译: 《中文 SimpleQA：针对大型语言模型的中文真实性评估》](2024年11月11日/Chinese_SimpleQA_A_Chinese_Factuality_Evaluation_for_Large_Language_Models.md)
-
-- [Continual Memorization of Factoids in Large Language Models](2024年11月11日/Continual_Memorization_of_Factoids_in_Large_Language_Models.md)
-
-    - [翻译: 大型语言模型中事实信息的持续记忆](2024年11月11日/Continual_Memorization_of_Factoids_in_Large_Language_Models.md)
 
 - [Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection](2024年11月11日/Contrastive_Language_Prompting_to_Ease_False_Positives_in_Medical_Anomaly_Detection.md)
 
@@ -789,10 +773,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 关于视觉语言任务中的多模态大型语言模型的综合调查和指南](2024年11月09日/A_Comprehensive_Survey_and_Guide_to_Multimodal_Large_Language_Models_in_Vision-Language_Tasks.md)
 
-- [A Multimodal Adaptive Graph-based Intelligent Classification Model for Fake News](2024年11月09日/A_Multimodal_Adaptive_Graph-based_Intelligent_Classification_Model_for_Fake_News.md)
-
-    - [翻译: 一种用于假新闻的多模态自适应基于图的智能分类模型](2024年11月09日/A_Multimodal_Adaptive_Graph-based_Intelligent_Classification_Model_for_Fake_News.md)
-
 - [Analyzing the Evolution of Graphs and Texts](2024年11月09日/Analyzing_the_Evolution_of_Graphs_and_Texts.md)
 
     - [翻译: 分析图形和文本的演变](2024年11月09日/Analyzing_the_Evolution_of_Graphs_and_Texts.md)
@@ -1001,10 +981,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 关于大型语言模型在自动化软件重构中的潜力的实证研究](2024年11月07日/An_Empirical_Study_on_the_Potential_of_LLMs_in_Automated_Software_Refactoring.md)
 
-- [Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation](2024年11月07日/Audiobox_TTA-RAG_Improving_Zero-Shot_and_Few-Shot_Text-To-Audio_with_Retrieval-Augmented_Generation.md)
-
-    - [翻译: Audiobox TTA-RAG：借助检索增强生成来优化零样本和少样本的文本转音频](2024年11月07日/Audiobox_TTA-RAG_Improving_Zero-Shot_and_Few-Shot_Text-To-Audio_with_Retrieval-Augmented_Generation.md)
-
 - [Automatic Identification of Political Hate Articles from Social Media using Recurrent Neural Networks](2024年11月07日/Automatic_Identification_of_Political_Hate_Articles_from_Social_Media_using_Recurrent_Neural_Networks.md)
 
     - [翻译: 使用循环神经网络从社交媒体中自动识别政治仇恨文章](2024年11月07日/Automatic_Identification_of_Political_Hate_Articles_from_Social_Media_using_Recurrent_Neural_Networks.md)
@@ -1012,6 +988,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering](2024年11月07日/AutoProteinEngine_A_Large_Language_Model_Driven_Agent_Framework_for_Multimodal_AutoML_in_Protein_Engineering.md)
 
     - [翻译: AutoProteinEngine：用于蛋白质工程中多模态自动机器学习的大型语言模型驱动的代理框架](2024年11月07日/AutoProteinEngine_A_Large_Language_Model_Driven_Agent_Framework_for_Multimodal_AutoML_in_Protein_Engineering.md)
+
+- [Balancing Pipeline Parallelism with Vocabulary Parallelism](2024年11月07日/Balancing_Pipeline_Parallelism_with_Vocabulary_Parallelism.md)
+
+    - [翻译: 实现管道并行性与词汇并行性的平衡](2024年11月07日/Balancing_Pipeline_Parallelism_with_Vocabulary_Parallelism.md)
 
 - [Best Practices for Distilling Large Language Models into BERT for Web Search Ranking](2024年11月07日/Best_Practices_for_Distilling_Large_Language_Models_into_BERT_for_Web_Search_Ranking.md)
 
@@ -1024,6 +1004,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](2024年11月07日/CAD-MLLM_Unifying_Multimodality-Conditioned_CAD_Generation_With_MLLM.md)
 
     - [翻译: CAD-MLLM：用 MLLM 统一多模态条件下的 CAD 生成](2024年11月07日/CAD-MLLM_Unifying_Multimodality-Conditioned_CAD_Generation_With_MLLM.md)
+
+- [CodeLutra: Boosting LLM Code Generation via Preference-Guided Refinement](2024年11月07日/CodeLutra_Boosting_LLM_Code_Generation_via_Preference-Guided_Refinement.md)
+
+    - [翻译: CodeLutra：借助偏好引导的优化来增强 LLM 代码生成能力](2024年11月07日/CodeLutra_Boosting_LLM_Code_Generation_via_Preference-Guided_Refinement.md)
 
 - [Convolutional Differentiable Logic Gate Networks](2024年11月07日/Convolutional_Differentiable_Logic_Gate_Networks.md)
 
@@ -1064,10 +1048,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Hierarchical Visual Feature Aggregation for OCR-Free Document Understanding](2024年11月07日/Hierarchical_Visual_Feature_Aggregation_for_OCR-Free_Document_Understanding.md)
 
     - [翻译: 针对无 OCR 文档理解的分层视觉特征聚合](2024年11月07日/Hierarchical_Visual_Feature_Aggregation_for_OCR-Free_Document_Understanding.md)
-
-- ["I Always Felt that Something Was Wrong.": Understanding Compliance Risks and Mitigation Strategies when Professionals Use Large Language Models](2024年11月07日/I_Always_Felt_that_Something_Was_Wrong._Understanding_Compliance_Risks_and_Mitigation_Strategies_when_Professionals_Use_Large_Language_Models.md)
-
-    - [翻译: “我总是觉得有些不对劲。”：理解专业人员使用大型语言模型时的合规风险和缓解策略](2024年11月07日/I_Always_Felt_that_Something_Was_Wrong._Understanding_Compliance_Risks_and_Mitigation_Strategies_when_Professionals_Use_Large_Language_Models.md)
 
 - [Interactive Dialogue Agents via Reinforcement Learning on Hindsight Regenerations](2024年11月07日/Interactive_Dialogue_Agents_via_Reinforcement_Learning_on_Hindsight_Regenerations.md)
 
@@ -1140,6 +1120,14 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models](2024年11月07日/SVDQunat_Absorbing_Outliers_by_Low-Rank_Components_for_4-Bit_Diffusion_Models.md)
 
     - [翻译: SVDQunat：通过低秩分量吸收 4 位扩散模型中的异常值](2024年11月07日/SVDQunat_Absorbing_Outliers_by_Low-Rank_Components_for_4-Bit_Diffusion_Models.md)
+
+- [Toward Cultural Interpretability: A Linguistic Anthropological Framework for Describing and Evaluating Large Language Models (LLMs)](2024年11月07日/Toward_Cultural_Interpretability_A_Linguistic_Anthropological_Framework_for_Describing_and_Evaluating_Large_Language_Models_(LLMs).md)
+
+    - [翻译: 迈向文化可解释性：一个用于描述和评估大型语言模型（LLMs）的语言人类学框架](2024年11月07日/Toward_Cultural_Interpretability_A_Linguistic_Anthropological_Framework_for_Describing_and_Evaluating_Large_Language_Models_(LLMs).md)
+
+- [What talking you?: Translating Code-Mixed Messaging Texts to English](2024年11月07日/What_talking_you_Translating_Code-Mixed_Messaging_Texts_to_English.md)
+
+    - [翻译: 《你说啥？：把代码混合的消息文本译为英语》](2024年11月07日/What_talking_you_Translating_Code-Mixed_Messaging_Texts_to_English.md)
 
 - [ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving](2024年11月07日/ZOPP_A_Framework_of_Zero-shot_Offboard_Panoptic_Perception_for_Autonomous_Driving.md)
 
@@ -1296,10 +1284,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [DroidSpeak: Enhancing Cross-LLM Communication](2024年11月05日/DroidSpeak_Enhancing_Cross-LLM_Communication.md)
 
     - [翻译: DroidSpeak：增强跨大型语言模型通信](2024年11月05日/DroidSpeak_Enhancing_Cross-LLM_Communication.md)
-
-- [Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs](2024年11月05日/Exploring_the_Potentials_and_Challenges_of_Using_Large_Language_Models_for_the_Analysis_of_Transcriptional_Regulation_of_Long_Non-coding_RNAs.md)
-
-    - [翻译: 探索使用大型语言模型分析长链非编码 RNA 转录调控的潜力和挑战](2024年11月05日/Exploring_the_Potentials_and_Challenges_of_Using_Large_Language_Models_for_the_Analysis_of_Transcriptional_Regulation_of_Long_Non-coding_RNAs.md)
 
 - [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](2024年11月05日/From_Medprompt_to_o1_Exploration_of_Run-Time_Strategies_for_Medical_Challenge_Problems_and_Beyond.md)
 
