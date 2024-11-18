@@ -20,10 +20,6 @@
 
 2024年11月14日
 
-- [Accelerating Knowledge Graph and Ontology Engineering with Large Language Models](2024年11月14日/Accelerating_Knowledge_Graph_and_Ontology_Engineering_with_Large_Language_Models.md)
-
-    - [翻译: 借助大型语言模型加快知识图谱和本体工程的进程](2024年11月14日/Accelerating_Knowledge_Graph_and_Ontology_Engineering_with_Large_Language_Models.md)
-
 - [Adopting RAG for LLM-Aided Future Vehicle Design](2024年11月14日/Adopting_RAG_for_LLM-Aided_Future_Vehicle_Design.md)
 
     - [翻译: 将 RAG 应用于 LLM 辅助的未来车辆设计](2024年11月14日/Adopting_RAG_for_LLM-Aided_Future_Vehicle_Design.md)
@@ -63,10 +59,6 @@
 - [Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications](2024年11月14日/Harnessing_multiple_LLMs_for_Information_Retrieval_A_case_study_on_Deep_Learning_methodologies_in_Biodiversity_publications.md)
 
     - [翻译: 借助多个大型语言模型实现信息检索：以生物多样性出版物中的深度学习方法为例展开研究](2024年11月14日/Harnessing_multiple_LLMs_for_Information_Retrieval_A_case_study_on_Deep_Learning_methodologies_in_Biodiversity_publications.md)
-
-- [HateGPT: Unleashing GPT-3.5 Turbo to Combat Hate Speech on X](2024年11月14日/HateGPT_Unleashing_GPT-3.5_Turbo_to_Combat_Hate_Speech_on_X.md)
-
-    - [翻译: HateGPT：让 GPT-3.5 Turbo 出马，在 X 平台上对抗仇恨言论](2024年11月14日/HateGPT_Unleashing_GPT-3.5_Turbo_to_Combat_Hate_Speech_on_X.md)
 
 - [How Good is ChatGPT at Audiovisual Deepfake Detection: A Comparative Study of ChatGPT, AI Models and Human Perception](2024年11月14日/How_Good_is_ChatGPT_at_Audiovisual_Deepfake_Detection_A_Comparative_Study_of_ChatGPT,_AI_Models_and_Human_Perception.md)
 
@@ -119,10 +111,6 @@
 - [Piecing It All Together: Verifying Multi-Hop Multimodal Claims](2024年11月14日/Piecing_It_All_Together_Verifying_Multi-Hop_Multimodal_Claims.md)
 
     - [翻译: 把所有部分整合起来：验证多跳多模态的声明](2024年11月14日/Piecing_It_All_Together_Verifying_Multi-Hop_Multimodal_Claims.md)
-
-- [Programming with AI: Evaluating ChatGPT, Gemini, AlphaCode, and GitHub Copilot for Programmers](2024年11月14日/Programming_with_AI_Evaluating_ChatGPT,_Gemini,_AlphaCode,_and_GitHub_Copilot_for_Programmers.md)
-
-    - [翻译: 人工智能编程：评估 ChatGPT、Gemini、AlphaCode 以及 GitHub Copilot 对程序员的价值](2024年11月14日/Programming_with_AI_Evaluating_ChatGPT,_Gemini,_AlphaCode,_and_GitHub_Copilot_for_Programmers.md)
 
 - [Re-Parameterization of Lightweight Transformer for On-Device Speech Emotion Recognition](2024年11月14日/Re-Parameterization_of_Lightweight_Transformer_for_On-Device_Speech_Emotion_Recognition.md)
 
@@ -213,10 +201,6 @@
 - [Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models](2024年11月13日/Dynamic_Rewarding_with_Prompt_Optimization_Enables_Tuning-free_Self-Alignment_of_Language_Models.md)
 
     - [翻译: 动态奖励与提示优化能够实现语言模型的免调整自对齐](2024年11月13日/Dynamic_Rewarding_with_Prompt_Optimization_Enables_Tuning-free_Self-Alignment_of_Language_Models.md)
-
-- [Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models](2024年11月13日/Dynamic_Subset_Tuning_Expanding_the_Operational_Range_of_Parameter-Efficient_Training_for_Large_Language_Models.md)
-
-    - [翻译: 动态子集调整：扩大大型语言模型参数高效训练的操作范围](2024年11月13日/Dynamic_Subset_Tuning_Expanding_the_Operational_Range_of_Parameter-Efficient_Training_for_Large_Language_Models.md)
 
 - [Evaluating World Models with LLM for Decision Making](2024年11月13日/Evaluating_World_Models_with_LLM_for_Decision_Making.md)
 
@@ -356,10 +340,6 @@
 
     - [翻译: 大型语言模型是否有先见之明？使用每日新闻作为神谕进行持续评估](2024年11月12日/Are_LLMs_Prescient_A_Continuous_Evaluation_using_Daily_News_as_the_Oracle.md)
 
-- [CryptoLLM: Unleashing the Power of Prompted LLMs for SmartQnA and Classification of Crypto Posts](2024年11月12日/CryptoLLM_Unleashing_the_Power_of_Prompted_LLMs_for_SmartQnA_and_Classification_of_Crypto_Posts.md)
-
-    - [翻译: CryptoLLM：释放提示型 LLMs 在智能问答和加密帖子分类方面的力量](2024年11月12日/CryptoLLM_Unleashing_the_Power_of_Prompted_LLMs_for_SmartQnA_and_Classification_of_Crypto_Posts.md)
-
 - [Direct Preference Optimization Using Sparse Feature-Level Constraints](2024年11月12日/Direct_Preference_Optimization_Using_Sparse_Feature-Level_Constraints.md)
 
     - [翻译: 使用稀疏特征级约束的直接偏好优化](2024年11月12日/Direct_Preference_Optimization_Using_Sparse_Feature-Level_Constraints.md)
@@ -452,10 +432,6 @@
 
     - [翻译: 基于本征态热化假设的量子主方程](2024年11月12日/Quantum_master_equation_from_the_eigenstate_thermalization_hypothesis.md)
 
-- [R3HF: Reward Redistribution for Enhancing Reinforcement Learning from Human Feedback](2024年11月12日/R3HF_Reward_Redistribution_for_Enhancing_Reinforcement_Learning_from_Human_Feedback.md)
-
-    - [翻译: R3HF：用于增强来自人类反馈的强化学习的奖励再分配](2024年11月12日/R3HF_Reward_Redistribution_for_Enhancing_Reinforcement_Learning_from_Human_Feedback.md)
-
 - [Responsible AI in Construction Safety: Systematic Evaluation of Large Language Models and Prompt Engineering](2024年11月12日/Responsible_AI_in_Construction_Safety_Systematic_Evaluation_of_Large_Language_Models_and_Prompt_Engineering.md)
 
     - [翻译: 建筑安全中的负责任人工智能：大型语言模型和提示工程的系统评估](2024年11月12日/Responsible_AI_in_Construction_Safety_Systematic_Evaluation_of_Large_Language_Models_and_Prompt_Engineering.md)
@@ -463,10 +439,6 @@
 - [Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
 
     - [翻译: 检索、推理、重新排序：一个用于知识图谱补全的上下文丰富框架](2024年11月12日/Retrieval,_Reasoning,_Re-ranking_A_Context-Enriched_Framework_for_Knowledge_Graph_Completion.md)
-
-- [Search for the X17 particle in $^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+ \mathrm{e}^{-}) ^{8}\mathrm{Be}$ processes with the MEG II detector](2024年11月12日/Search_for_the_X17_particle_in_$^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+_\mathrm{e}^{-})_^{8}\mathrm{Be}$_processes_with_the_MEG_II_detector.md)
-
-    - [翻译: 利用 MEG II 探测器在$^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+ \mathrm{e}^{-}) ^{8}\mathrm{Be}$过程里探寻 X17 粒子](2024年11月12日/Search_for_the_X17_particle_in_$^{7}\mathrm{Li}(\mathrm{p},\mathrm{e}^+_\mathrm{e}^{-})_^{8}\mathrm{Be}$_processes_with_the_MEG_II_detector.md)
 
 - [Towards Automated Model Design on Recommender Systems](2024年11月12日/Towards_Automated_Model_Design_on_Recommender_Systems.md)
 
@@ -751,10 +723,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
 2024年11月09日
 
-- [A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision-Language Tasks](2024年11月09日/A_Comprehensive_Survey_and_Guide_to_Multimodal_Large_Language_Models_in_Vision-Language_Tasks.md)
-
-    - [翻译: 关于视觉语言任务中的多模态大型语言模型的综合调查和指南](2024年11月09日/A_Comprehensive_Survey_and_Guide_to_Multimodal_Large_Language_Models_in_Vision-Language_Tasks.md)
-
 - [Analyzing the Evolution of Graphs and Texts](2024年11月09日/Analyzing_the_Evolution_of_Graphs_and_Texts.md)
 
     - [翻译: 分析图形和文本的演变](2024年11月09日/Analyzing_the_Evolution_of_Graphs_and_Texts.md)
@@ -936,10 +904,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Towards Multi-Modal Mastery: A 4.5B Parameter Truly Multi-Modal Small Language Model](2024年11月08日/Towards_Multi-Modal_Mastery_A_4.5B_Parameter_Truly_Multi-Modal_Small_Language_Model.md)
 
     - [翻译: 迈向多模态精通：一个 45 亿参数的真正多模态小型语言模型](2024年11月08日/Towards_Multi-Modal_Mastery_A_4.5B_Parameter_Truly_Multi-Modal_Small_Language_Model.md)
-
-- [WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
-
-    - [翻译: WeatherGFM：通过上下文学习来学习一个天气通才基础模型](2024年11月08日/WeatherGFM_Learning_A_Weather_Generalist_Foundation_Model_via_In-context_Learning.md)
 
 - [Web Archives Metadata Generation with GPT-4o: Challenges and Insights](2024年11月08日/Web_Archives_Metadata_Generation_with_GPT-4o_Challenges_and_Insights.md)
 
@@ -1279,10 +1243,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 从 Medprompt 到 o1：对医疗挑战问题及其他的运行时策略的探索](2024年11月05日/From_Medprompt_to_o1_Exploration_of_Run-Time_Strategies_for_Medical_Challenge_Problems_and_Beyond.md)
 
-- [From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice](2024年11月05日/From_Pen_to_Prompt_How_Creative_Writers_Integrate_AI_into_their_Writing_Practice.md)
-
-    - [翻译: 从笔到提示：创意作家如何将人工智能融入他们的写作实践](2024年11月05日/From_Pen_to_Prompt_How_Creative_Writers_Integrate_AI_into_their_Writing_Practice.md)
-
 - [From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing](2024年11月05日/From_Pixels_to_Prose_Advancing_Multi-Modal_Language_Models_for_Remote_Sensing.md)
 
     - [翻译: 从像素到篇章：推动遥感领域的多模态语言模型发展](2024年11月05日/From_Pixels_to_Prose_Advancing_Multi-Modal_Language_Models_for_Remote_Sensing.md)
@@ -1302,10 +1262,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Layer-Adaptive State Pruning for Deep State Space Models](2024年11月05日/Layer-Adaptive_State_Pruning_for_Deep_State_Space_Models.md)
 
     - [翻译: 用于深度状态空间模型的层自适应状态修剪](2024年11月05日/Layer-Adaptive_State_Pruning_for_Deep_State_Space_Models.md)
-
-- [Leveraging Large Language Models in Code Question Answering: Baselines and Issues](2024年11月05日/Leveraging_Large_Language_Models_in_Code_Question_Answering_Baselines_and_Issues.md)
-
-    - [翻译: 在代码问答中利用大型语言模型：基线和问题](2024年11月05日/Leveraging_Large_Language_Models_in_Code_Question_Answering_Baselines_and_Issues.md)
 
 - [Long Context RAG Performance of Large Language Models](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
 
@@ -1346,10 +1302,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Uncertainty Quantification for Clinical Outcome Predictions with (Large) Language Models](2024年11月05日/Uncertainty_Quantification_for_Clinical_Outcome_Predictions_with_(Large)_Language_Models.md)
 
     - [翻译: 对于（大型）语言模型的临床结果预测的不确定性量化](2024年11月05日/Uncertainty_Quantification_for_Clinical_Outcome_Predictions_with_(Large)_Language_Models.md)
-
-- [[Vision Paper] PRObot: Enhancing Patient-Reported Outcome Measures for Diabetic Retinopathy using Chatbots and Generative AI](2024年11月05日/[Vision_Paper]_PRObot_Enhancing_Patient-Reported_Outcome_Measures_for_Diabetic_Retinopathy_using_Chatbots_and_Generative_AI.md)
-
-    - [翻译: [愿景论文] PRObot：使用聊天机器人和生成式人工智能增强糖尿病视网膜病变的患者报告结局指标](2024年11月05日/[Vision_Paper]_PRObot_Enhancing_Patient-Reported_Outcome_Measures_for_Diabetic_Retinopathy_using_Chatbots_and_Generative_AI.md)
 
 - [λ-Tune: Harnessing Large Language Models for Automated Database System Tuning](2024年11月05日/λ-Tune_Harnessing_Large_Language_Models_for_Automated_Database_System_Tuning.md)
 
