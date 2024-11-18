@@ -14,6 +14,10 @@
 
     - [翻译: Compound-QA：评估大型语言模型处理复合问题的基准](2024年11月15日/Compound-QA_A_Benchmark_for_Evaluating_LLMs_on_Compound_Questions.md)
 
+- [Explanation for Trajectory Planning using Multi-modal Large Language Model for Autonomous Driving](2024年11月15日/Explanation_for_Trajectory_Planning_using_Multi-modal_Large_Language_Model_for_Autonomous_Driving.md)
+
+    - [翻译: 关于利用多模态大型语言模型实现自动驾驶轨迹规划的阐释](2024年11月15日/Explanation_for_Trajectory_Planning_using_Multi-modal_Large_Language_Model_for_Autonomous_Driving.md)
+
 - [Generative AI in Multimodal User Interfaces: Trends, Challenges, and Cross-Platform Adaptability](2024年11月15日/Generative_AI_in_Multimodal_User_Interfaces_Trends,_Challenges,_and_Cross-Platform_Adaptability.md)
 
     - [翻译: 多模态用户界面中的生成式人工智能：其趋势、挑战与跨平台适应性](2024年11月15日/Generative_AI_in_Multimodal_User_Interfaces_Trends,_Challenges,_and_Cross-Platform_Adaptability.md)
@@ -33,6 +37,10 @@
 - [Legal Evalutions and Challenges of Large Language Models](2024年11月15日/Legal_Evalutions_and_Challenges_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的法律评估与挑战](2024年11月15日/Legal_Evalutions_and_Challenges_of_Large_Language_Models.md)
+
+- [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](2024年11月15日/LLaVA-o1_Let_Vision_Language_Models_Reason_Step-by-Step.md)
+
+    - [翻译: LLaVA-o1：让视觉语言模型循序渐进地进行推理](2024年11月15日/LLaVA-o1_Let_Vision_Language_Models_Reason_Step-by-Step.md)
 
 - [Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization](2024年11月15日/Mitigating_Hallucination_in_Multimodal_Large_Language_Model_via_Hallucination-targeted_Direct_Preference_Optimization.md)
 
