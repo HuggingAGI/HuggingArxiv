@@ -2,13 +2,37 @@
 
 2024年11月15日
 
+- [An Effective Framework to Help Large Language Models Handle Numeric-involved Long-context Tasks](2024年11月15日/An_Effective_Framework_to_Help_Large_Language_Models_Handle_Numeric-involved_Long-context_Tasks.md)
+
+    - [翻译: 一个助力大型语言模型应对涉及数字的长上下文任务的有效框架](2024年11月15日/An_Effective_Framework_to_Help_Large_Language_Models_Handle_Numeric-involved_Long-context_Tasks.md)
+
+- [Causal Time-Series Synchronization for Multi-Dimensional Forecasting](2024年11月15日/Causal_Time-Series_Synchronization_for_Multi-Dimensional_Forecasting.md)
+
+    - [翻译: 用于多维预测的因果时间序列同步](2024年11月15日/Causal_Time-Series_Synchronization_for_Multi-Dimensional_Forecasting.md)
+
+- [Compound-QA: A Benchmark for Evaluating LLMs on Compound Questions](2024年11月15日/Compound-QA_A_Benchmark_for_Evaluating_LLMs_on_Compound_Questions.md)
+
+    - [翻译: Compound-QA：评估大型语言模型处理复合问题的基准](2024年11月15日/Compound-QA_A_Benchmark_for_Evaluating_LLMs_on_Compound_Questions.md)
+
 - [Generative AI in Multimodal User Interfaces: Trends, Challenges, and Cross-Platform Adaptability](2024年11月15日/Generative_AI_in_Multimodal_User_Interfaces_Trends,_Challenges,_and_Cross-Platform_Adaptability.md)
 
     - [翻译: 多模态用户界面中的生成式人工智能：其趋势、挑战与跨平台适应性](2024年11月15日/Generative_AI_in_Multimodal_User_Interfaces_Trends,_Challenges,_and_Cross-Platform_Adaptability.md)
 
+- [Jal Anveshak: Prediction of fishing zones using fine-tuned LlaMa 2](2024年11月15日/Jal_Anveshak_Prediction_of_fishing_zones_using_fine-tuned_LlaMa_2.md)
+
+    - [翻译: Jal Anveshak：借助微调后的 LlaMa 2 来预测捕鱼区域](2024年11月15日/Jal_Anveshak_Prediction_of_fishing_zones_using_fine-tuned_LlaMa_2.md)
+
+- [Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity](2024年11月15日/Layer_Importance_and_Hallucination_Analysis_in_Large_Language_Models_via_Enhanced_Activation_Variance-Sparsity.md)
+
+    - [翻译: 通过增强激活方差-稀疏性对大型语言模型的层重要性和幻觉进行分析](2024年11月15日/Layer_Importance_and_Hallucination_Analysis_in_Large_Language_Models_via_Enhanced_Activation_Variance-Sparsity.md)
+
 - [Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization](2024年11月15日/Mitigating_Hallucination_in_Multimodal_Large_Language_Model_via_Hallucination-targeted_Direct_Preference_Optimization.md)
 
     - [翻译: 借助幻觉目标直接偏好优化来缓解多模态大型语言模型中的幻觉现象](2024年11月15日/Mitigating_Hallucination_in_Multimodal_Large_Language_Model_via_Hallucination-targeted_Direct_Preference_Optimization.md)
+
+- [Mitigating Sycophancy in Decoder-Only Transformer Architectures: Synthetic Data Intervention](2024年11月15日/Mitigating_Sycophancy_in_Decoder-Only_Transformer_Architectures_Synthetic_Data_Intervention.md)
+
+    - [翻译: 减轻仅解码器的 Transformer 架构中的谄媚问题：采用合成数据进行干预](2024年11月15日/Mitigating_Sycophancy_in_Decoder-Only_Transformer_Architectures_Synthetic_Data_Intervention.md)
 
 - [Multi-Task Adversarial Variational Autoencoder for Estimating Biological Brain Age with Multimodal Neuroimaging](2024年11月15日/Multi-Task_Adversarial_Variational_Autoencoder_for_Estimating_Biological_Brain_Age_with_Multimodal_Neuroimaging.md)
 
@@ -17,6 +41,22 @@
 - [Orca: Enhancing Role-Playing Abilities of Large Language Models by Integrating Personality Traits](2024年11月15日/Orca_Enhancing_Role-Playing_Abilities_of_Large_Language_Models_by_Integrating_Personality_Traits.md)
 
     - [翻译: Orca：借由整合个性特征提升大型语言模型的角色扮演本领](2024年11月15日/Orca_Enhancing_Role-Playing_Abilities_of_Large_Language_Models_by_Integrating_Personality_Traits.md)
+
+- [PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse](2024年11月15日/PFML_Self-Supervised_Learning_of_Time-Series_Data_Without_Representation_Collapse.md)
+
+    - [翻译: PFML：实现对时间序列数据的自监督学习且避免表示崩溃](2024年11月15日/PFML_Self-Supervised_Learning_of_Time-Series_Data_Without_Representation_Collapse.md)
+
+- [Towards unearthing neglected climate innovations from scientific literature using Large Language Models](2024年11月15日/Towards_unearthing_neglected_climate_innovations_from_scientific_literature_using_Large_Language_Models.md)
+
+    - [翻译: 借助大型语言模型，从科学文献里发掘那些被忽略的气候创新](2024年11月15日/Towards_unearthing_neglected_climate_innovations_from_scientific_literature_using_Large_Language_Models.md)
+
+- [VMID: A Multimodal Fusion LLM Framework for Detecting and Identifying Misinformation of Short Videos](2024年11月15日/VMID_A_Multimodal_Fusion_LLM_Framework_for_Detecting_and_Identifying_Misinformation_of_Short_Videos.md)
+
+    - [翻译: VMID：一个用于检测和识别短视频错误信息的多模态融合 LLM 框架](2024年11月15日/VMID_A_Multimodal_Fusion_LLM_Framework_for_Detecting_and_Identifying_Misinformation_of_Short_Videos.md)
+
+- [Xmodel-1.5: An 1B-scale Multilingual LLM](2024年11月15日/Xmodel-1.5_An_1B-scale_Multilingual_LLM.md)
+
+    - [翻译: Xmodel-1.5：一款 10 亿规模的多语言大语言模型](2024年11月15日/Xmodel-1.5_An_1B-scale_Multilingual_LLM.md)
 
 2024年11月14日
 
@@ -55,10 +95,6 @@
 - [DTELS: Towards Dynamic Granularity of Timeline Summarization](2024年11月14日/DTELS_Towards_Dynamic_Granularity_of_Timeline_Summarization.md)
 
     - [翻译: DTELS：致力于实现时间线摘要的动态粒度化](2024年11月14日/DTELS_Towards_Dynamic_Granularity_of_Timeline_Summarization.md)
-
-- [Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications](2024年11月14日/Harnessing_multiple_LLMs_for_Information_Retrieval_A_case_study_on_Deep_Learning_methodologies_in_Biodiversity_publications.md)
-
-    - [翻译: 借助多个大型语言模型实现信息检索：以生物多样性出版物中的深度学习方法为例展开研究](2024年11月14日/Harnessing_multiple_LLMs_for_Information_Retrieval_A_case_study_on_Deep_Learning_methodologies_in_Biodiversity_publications.md)
 
 - [How Good is ChatGPT at Audiovisual Deepfake Detection: A Comparative Study of ChatGPT, AI Models and Human Perception](2024年11月14日/How_Good_is_ChatGPT_at_Audiovisual_Deepfake_Detection_A_Comparative_Study_of_ChatGPT,_AI_Models_and_Human_Perception.md)
 
@@ -99,10 +135,6 @@
 - [MM-Eval: A Hierarchical Benchmark for Modern Mongolian Evaluation in LLMs](2024年11月14日/MM-Eval_A_Hierarchical_Benchmark_for_Modern_Mongolian_Evaluation_in_LLMs.md)
 
     - [翻译: MM-Eval：大型语言模型中现代蒙古语评估的分层式基准](2024年11月14日/MM-Eval_A_Hierarchical_Benchmark_for_Modern_Mongolian_Evaluation_in_LLMs.md)
-
-- [Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents](2024年11月14日/Navigating_the_Risks_A_Survey_of_Security,_Privacy,_and_Ethics_Threats_in_LLM-Based_Agents.md)
-
-    - [翻译: 《风险导航：基于 LLM 的代理所面临的安全、隐私和伦理威胁之调研》](2024年11月14日/Navigating_the_Risks_A_Survey_of_Security,_Privacy,_and_Ethics_Threats_in_LLM-Based_Agents.md)
 
 - [On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse](2024年11月14日/On_the_Limits_of_Language_Generation_Trade-Offs_Between_Hallucination_and_Mode_Collapse.md)
 
@@ -321,10 +353,6 @@
 - [VCBench: A Controllable Benchmark for Symbolic and Abstract Challenges in Video Cognition](2024年11月13日/VCBench_A_Controllable_Benchmark_for_Symbolic_and_Abstract_Challenges_in_Video_Cognition.md)
 
     - [翻译: VCBench：一个针对视频认知中符号与抽象挑战的可控基准](2024年11月13日/VCBench_A_Controllable_Benchmark_for_Symbolic_and_Abstract_Challenges_in_Video_Cognition.md)
-
-- [Voxeland: Probabilistic Instance-Aware Semantic Mapping with Evidence-based Uncertainty Quantification](2024年11月13日/Voxeland_Probabilistic_Instance-Aware_Semantic_Mapping_with_Evidence-based_Uncertainty_Quantification.md)
-
-    - [翻译: Voxeland：具有基于证据的不确定性量化的概率实例感知语义映射](2024年11月13日/Voxeland_Probabilistic_Instance-Aware_Semantic_Mapping_with_Evidence-based_Uncertainty_Quantification.md)
 
 - [XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL](2024年11月13日/XiYan-SQL_A_Multi-Generator_Ensemble_Framework_for_Text-to-SQL.md)
 
@@ -869,10 +897,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: IntellBot：用于网络威胁知识传递的检索增强型大型语言模型聊天机器人](2024年11月08日/IntellBot_Retrieval_Augmented_LLM_Chatbot_for_Cyber_Threat_Knowledge_Delivery.md)
 
-- [LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
-
-    - [翻译: LightVA：基于 LLM 代理的任务规划和执行的轻量级可视化分析](2024年11月08日/LightVA_Lightweight_Visual_Analytics_with_LLM_Agent-Based_Task_Planning_and_Execution.md)
-
 - [LLM-PySC2: Starcraft II learning environment for Large Language Models](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
 
     - [翻译: LLM-PySC2：用于大型语言模型的星际争霸 II 学习环境](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
@@ -918,10 +942,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Alopex: A Computational Framework for Enabling On-Device Function Calls with LLMs](2024年11月07日/Alopex_A_Computational_Framework_for_Enabling_On-Device_Function_Calls_with_LLMs.md)
 
     - [翻译: Alopex：一个能在设备上实现带有 LLMs 的函数调用的计算框架](2024年11月07日/Alopex_A_Computational_Framework_for_Enabling_On-Device_Function_Calls_with_LLMs.md)
-
-- [An Empirical Study on the Potential of LLMs in Automated Software Refactoring](2024年11月07日/An_Empirical_Study_on_the_Potential_of_LLMs_in_Automated_Software_Refactoring.md)
-
-    - [翻译: 关于大型语言模型在自动化软件重构中的潜力的实证研究](2024年11月07日/An_Empirical_Study_on_the_Potential_of_LLMs_in_Automated_Software_Refactoring.md)
 
 - [Automatic Identification of Political Hate Articles from Social Media using Recurrent Neural Networks](2024年11月07日/Automatic_Identification_of_Political_Hate_Articles_from_Social_Media_using_Recurrent_Neural_Networks.md)
 
@@ -1019,10 +1039,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 有关 CLIP 图像嵌入的错误协定](2024年11月07日/On_Erroneous_Agreements_of_CLIP_Image_Embeddings.md)
 
-- [PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](2024年11月07日/PentestAgent_Incorporating_LLM_Agents_to_Automated_Penetration_Testing.md)
-
-    - [翻译: PentestAgent：把 LLM 代理融入自动化渗透测试之中](2024年11月07日/PentestAgent_Incorporating_LLM_Agents_to_Automated_Penetration_Testing.md)
-
 - [PIAST: A Multimodal Piano Dataset with Audio, Symbolic and Text](2024年11月07日/PIAST_A_Multimodal_Piano_Dataset_with_Audio,_Symbolic_and_Text.md)
 
     - [翻译: PIAST：一个具有音频、符号和文本的多模态钢琴数据集](2024年11月07日/PIAST_A_Multimodal_Piano_Dataset_with_Audio,_Symbolic_and_Text.md)
@@ -1050,10 +1066,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Smile upon the Face but Sadness in the Eyes: Emotion Recognition based on Facial Expressions and Eye Behaviors](2024年11月07日/Smile_upon_the_Face_but_Sadness_in_the_Eyes_Emotion_Recognition_based_on_Facial_Expressions_and_Eye_Behaviors.md)
 
     - [翻译: 脸上挂着微笑，眼中却藏着悲伤：基于面部表情和眼部行为的情绪识别](2024年11月07日/Smile_upon_the_Face_but_Sadness_in_the_Eyes_Emotion_Recognition_based_on_Facial_Expressions_and_Eye_Behaviors.md)
-
-- [SpecHub: Provable Acceleration to Multi-Draft Speculative Decoding](2024年11月07日/SpecHub_Provable_Acceleration_to_Multi-Draft_Speculative_Decoding.md)
-
-    - [翻译: SpecHub：为多稿推测解码提供可证明的加速](2024年11月07日/SpecHub_Provable_Acceleration_to_Multi-Draft_Speculative_Decoding.md)
 
 - [SpectraFM: Tuning into Stellar Foundation Models](2024年11月07日/SpectraFM_Tuning_into_Stellar_Foundation_Models.md)
 
@@ -1153,10 +1165,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 大型语言和视觉语言模型的医学适应：我们正在取得进展吗？](2024年11月06日/Medical_Adaptation_of_Large_Language_and_Vision-Language_Models_Are_We_Making_Progress.md)
 
-- [Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models](2024年11月06日/Multi3Hate_Multimodal,_Multilingual,_and_Multicultural_Hate_Speech_Detection_with_Vision-Language_Models.md)
-
-    - [翻译: Multi3Hate：使用视觉语言模型进行多模态、多语言和多元文化的仇恨言论检测](2024年11月06日/Multi3Hate_Multimodal,_Multilingual,_and_Multicultural_Hate_Speech_Detection_with_Vision-Language_Models.md)
-
 - [Multi-Modal Intelligent Channel Modeling: A New Modeling Paradigm via Synesthesia of Machines](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
 
     - [翻译: 多模态智能信道建模：通过机器的联觉的一种新的建模范例](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
@@ -1222,10 +1230,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [CPEG: Leveraging Consistency Policy with Consensus Guidance for Multi-agent Exploration](2024年11月05日/CPEG_Leveraging_Consistency_Policy_with_Consensus_Guidance_for_Multi-agent_Exploration.md)
 
     - [翻译: CPEG：利用具有共识指导的一致性策略进行多智能体探索](2024年11月05日/CPEG_Leveraging_Consistency_Policy_with_Consensus_Guidance_for_Multi-agent_Exploration.md)
-
-- ["Create a Fear of Missing Out" -- ChatGPT Implements Unsolicited Deceptive Designs in Generated Websites Without Warning](2024年11月05日/Create_a_Fear_of_Missing_Out_--_ChatGPT_Implements_Unsolicited_Deceptive_Designs_in_Generated_Websites_Without_Warning.md)
-
-    - [翻译: “制造错过的恐惧”——ChatGPT 在生成的网站中未经请求实施欺骗性设计，且未发出警告。](2024年11月05日/Create_a_Fear_of_Missing_Out_--_ChatGPT_Implements_Unsolicited_Deceptive_Designs_in_Generated_Websites_Without_Warning.md)
 
 - [Deploying Multi-task Online Server with Large Language Model](2024年11月05日/Deploying_Multi-task_Online_Server_with_Large_Language_Model.md)
 
@@ -1337,17 +1341,9 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 通过弹出窗口攻击视觉语言计算机代理](2024年11月04日/Attacking_Vision-Language_Computer_Agents_via_Pop-ups.md)
 
-- [AutoVFX: Physically Realistic Video Editing from Natural Language Instructions](2024年11月04日/AutoVFX_Physically_Realistic_Video_Editing_from_Natural_Language_Instructions.md)
-
-    - [翻译: AutoVFX：根据自然语言指令进行物理上逼真的视频编辑](2024年11月04日/AutoVFX_Physically_Realistic_Video_Editing_from_Natural_Language_Instructions.md)
-
 - [Can Large Language Models generalize analogy solving like people can?](2024年11月04日/Can_Large_Language_Models_generalize_analogy_solving_like_people_can.md)
 
     - [翻译: 大型语言模型能够像人类一样推广类比解决问题的能力吗？](2024年11月04日/Can_Large_Language_Models_generalize_analogy_solving_like_people_can.md)
-
-- [Continual LLaVA: Continual Instruction Tuning in Large Vision-Language Models](2024年11月04日/Continual_LLaVA_Continual_Instruction_Tuning_in_Large_Vision-Language_Models.md)
-
-    - [翻译: 持续的 LLaVA：大型视觉语言模型中的持续指令调整](2024年11月04日/Continual_LLaVA_Continual_Instruction_Tuning_in_Large_Vision-Language_Models.md)
 
 - [Culinary Class Wars: Evaluating LLMs using ASH in Cuisine Transfer Task](2024年11月04日/Culinary_Class_Wars_Evaluating_LLMs_using_ASH_in_Cuisine_Transfer_Task.md)
 
