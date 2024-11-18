@@ -813,10 +813,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 隐藏在显而易见之中：评估视觉语言模型中的抽象形状识别](2024年11月09日/Hidden_in_Plain_Sight_Evaluating_Abstract_Shape_Recognition_in_Vision-Language_Models.md)
 
-- [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](2024年11月09日/IOPO_Empowering_LLMs_with_Complex_Instruction_Following_via_Input-Output_Preference_Optimization.md)
-
-    - [翻译: IOPO：通过输入输出偏好优化赋予大型语言模型遵循复杂指令的能力](2024年11月09日/IOPO_Empowering_LLMs_with_Complex_Instruction_Following_via_Input-Output_Preference_Optimization.md)
-
 - [KeyB2: Selecting Key Blocks is Also Important for Long Document Ranking with Large Language Models](2024年11月09日/KeyB2_Selecting_Key_Blocks_is_Also_Important_for_Long_Document_Ranking_with_Large_Language_Models.md)
 
     - [翻译: KeyB2：对于使用大型语言模型进行长文档排名，选择关键块也很重要。](2024年11月09日/KeyB2_Selecting_Key_Blocks_is_Also_Important_for_Long_Document_Ranking_with_Large_Language_Models.md)
@@ -1376,10 +1372,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Uncertainty Quantification for Clinical Outcome Predictions with (Large) Language Models](2024年11月05日/Uncertainty_Quantification_for_Clinical_Outcome_Predictions_with_(Large)_Language_Models.md)
 
     - [翻译: 对于（大型）语言模型的临床结果预测的不确定性量化](2024年11月05日/Uncertainty_Quantification_for_Clinical_Outcome_Predictions_with_(Large)_Language_Models.md)
-
-- [Utilizing Precise and Complete Code Context to Guide LLM in Automatic False Positive Mitigation](2024年11月05日/Utilizing_Precise_and_Complete_Code_Context_to_Guide_LLM_in_Automatic_False_Positive_Mitigation.md)
-
-    - [翻译: 利用精确和完整的代码上下文来指导大型语言模型在自动误报缓解中。](2024年11月05日/Utilizing_Precise_and_Complete_Code_Context_to_Guide_LLM_in_Automatic_False_Positive_Mitigation.md)
 
 - [[Vision Paper] PRObot: Enhancing Patient-Reported Outcome Measures for Diabetic Retinopathy using Chatbots and Generative AI](2024年11月05日/[Vision_Paper]_PRObot_Enhancing_Patient-Reported_Outcome_Measures_for_Diabetic_Retinopathy_using_Chatbots_and_Generative_AI.md)
 
