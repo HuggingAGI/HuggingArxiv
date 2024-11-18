@@ -18,6 +18,10 @@
 
     - [翻译: 多模态用户界面中的生成式人工智能：其趋势、挑战与跨平台适应性](2024年11月15日/Generative_AI_in_Multimodal_User_Interfaces_Trends,_Challenges,_and_Cross-Platform_Adaptability.md)
 
+- [Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses](2024年11月15日/Interactive_Cycle_Model_--_The_Linkage_Combination_among_Automatic_Speech_Recognition,_Large_Language_Models_and_Smart_Glasses.md)
+
+    - [翻译: 交互式循环模型——自动语音识别、大型语言模型与智能眼镜的联动结合](2024年11月15日/Interactive_Cycle_Model_--_The_Linkage_Combination_among_Automatic_Speech_Recognition,_Large_Language_Models_and_Smart_Glasses.md)
+
 - [Jal Anveshak: Prediction of fishing zones using fine-tuned LlaMa 2](2024年11月15日/Jal_Anveshak_Prediction_of_fishing_zones_using_fine-tuned_LlaMa_2.md)
 
     - [翻译: Jal Anveshak：借助微调后的 LlaMa 2 来预测捕鱼区域](2024年11月15日/Jal_Anveshak_Prediction_of_fishing_zones_using_fine-tuned_LlaMa_2.md)
@@ -25,6 +29,10 @@
 - [Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity](2024年11月15日/Layer_Importance_and_Hallucination_Analysis_in_Large_Language_Models_via_Enhanced_Activation_Variance-Sparsity.md)
 
     - [翻译: 通过增强激活方差-稀疏性对大型语言模型的层重要性和幻觉进行分析](2024年11月15日/Layer_Importance_and_Hallucination_Analysis_in_Large_Language_Models_via_Enhanced_Activation_Variance-Sparsity.md)
+
+- [Legal Evalutions and Challenges of Large Language Models](2024年11月15日/Legal_Evalutions_and_Challenges_of_Large_Language_Models.md)
+
+    - [翻译: 大型语言模型的法律评估与挑战](2024年11月15日/Legal_Evalutions_and_Challenges_of_Large_Language_Models.md)
 
 - [Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization](2024年11月15日/Mitigating_Hallucination_in_Multimodal_Large_Language_Model_via_Hallucination-targeted_Direct_Preference_Optimization.md)
 
@@ -37,10 +45,6 @@
 - [Multi-Task Adversarial Variational Autoencoder for Estimating Biological Brain Age with Multimodal Neuroimaging](2024年11月15日/Multi-Task_Adversarial_Variational_Autoencoder_for_Estimating_Biological_Brain_Age_with_Multimodal_Neuroimaging.md)
 
     - [翻译: 多任务对抗变分自编码器用于借助多模态神经成像来估算生物大脑年龄](2024年11月15日/Multi-Task_Adversarial_Variational_Autoencoder_for_Estimating_Biological_Brain_Age_with_Multimodal_Neuroimaging.md)
-
-- [Orca: Enhancing Role-Playing Abilities of Large Language Models by Integrating Personality Traits](2024年11月15日/Orca_Enhancing_Role-Playing_Abilities_of_Large_Language_Models_by_Integrating_Personality_Traits.md)
-
-    - [翻译: Orca：借由整合个性特征提升大型语言模型的角色扮演本领](2024年11月15日/Orca_Enhancing_Role-Playing_Abilities_of_Large_Language_Models_by_Integrating_Personality_Traits.md)
 
 - [PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse](2024年11月15日/PFML_Self-Supervised_Learning_of_Time-Series_Data_Without_Representation_Collapse.md)
 
@@ -258,10 +262,6 @@
 
     - [翻译: Lynx：借由动态批量感知的专家选择达成高效的 MoE 推理](2024年11月13日/Lynx_Enabling_Efficient_MoE_Inference_through_Dynamic_Batch-Aware_Expert_Selection.md)
 
-- [MultiKG: Multi-Source Threat Intelligence Aggregation for High-Quality Knowledge Graph Representation of Attack Techniques](2024年11月13日/MultiKG_Multi-Source_Threat_Intelligence_Aggregation_for_High-Quality_Knowledge_Graph_Representation_of_Attack_Techniques.md)
-
-    - [翻译: MultiKG：用于攻击技术的高质量知识图谱表示的多源威胁情报聚合](2024年11月13日/MultiKG_Multi-Source_Threat_Intelligence_Aggregation_for_High-Quality_Knowledge_Graph_Representation_of_Attack_Techniques.md)
-
 - [NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation](2024年11月13日/NavAgent_Multi-scale_Urban_Street_View_Fusion_For_UAV_Embodied_Vision-and-Language_Navigation.md)
 
     - [翻译: NavAgent：用于无人机具身视觉和语言导航的多尺度城市街景融合](2024年11月13日/NavAgent_Multi-scale_Urban_Street_View_Fusion_For_UAV_Embodied_Vision-and-Language_Navigation.md)
@@ -314,10 +314,6 @@
 
     - [翻译: 大型语言和视觉语言模型的医学适应性的有限影响](2024年11月13日/The_Limited_Impact_of_Medical_Adaptation_of_Large_Language_and_Vision-Language_Models.md)
 
-- [Theoretical Analysis of Byte-Pair Encoding](2024年11月13日/Theoretical_Analysis_of_Byte-Pair_Encoding.md)
-
-    - [翻译: 字节对编码的理论分析](2024年11月13日/Theoretical_Analysis_of_Byte-Pair_Encoding.md)
-
 - [The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense](2024年11月13日/The_VLLM_Safety_Paradox_Dual_Ease_in_Jailbreak_Attack_and_Defense.md)
 
     - [翻译: VLLM 安全悖论：越狱攻击和防御的双重轻松](2024年11月13日/The_VLLM_Safety_Paradox_Dual_Ease_in_Jailbreak_Attack_and_Defense.md)
@@ -367,10 +363,6 @@
 - [Are LLMs Prescient? A Continuous Evaluation using Daily News as the Oracle](2024年11月12日/Are_LLMs_Prescient_A_Continuous_Evaluation_using_Daily_News_as_the_Oracle.md)
 
     - [翻译: 大型语言模型是否有先见之明？使用每日新闻作为神谕进行持续评估](2024年11月12日/Are_LLMs_Prescient_A_Continuous_Evaluation_using_Daily_News_as_the_Oracle.md)
-
-- [Direct Preference Optimization Using Sparse Feature-Level Constraints](2024年11月12日/Direct_Preference_Optimization_Using_Sparse_Feature-Level_Constraints.md)
-
-    - [翻译: 使用稀疏特征级约束的直接偏好优化](2024年11月12日/Direct_Preference_Optimization_Using_Sparse_Feature-Level_Constraints.md)
 
 - [Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
 
@@ -475,10 +467,6 @@
 - [Towards Evaluation Guidelines for Empirical Studies involving LLMs](2024年11月12日/Towards_Evaluation_Guidelines_for_Empirical_Studies_involving_LLMs.md)
 
     - [翻译: 走向涉及大型语言模型的实证研究评估指南](2024年11月12日/Towards_Evaluation_Guidelines_for_Empirical_Studies_involving_LLMs.md)
-
-- [Towards Low-bit Communication for Tensor Parallel LLM Inference](2024年11月12日/Towards_Low-bit_Communication_for_Tensor_Parallel_LLM_Inference.md)
-
-    - [翻译: 对于张量并行 LLM 推理的低比特通信的研究](2024年11月12日/Towards_Low-bit_Communication_for_Tensor_Parallel_LLM_Inference.md)
 
 - [Training Data for Large Language Model](2024年11月12日/Training_Data_for_Large_Language_Model.md)
 
@@ -1071,10 +1059,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: SpectraFM：调谐到恒星基础模型](2024年11月07日/SpectraFM_Tuning_into_Stellar_Foundation_Models.md)
 
-- [STAND-Guard: A Small Task-Adaptive Content Moderation Model](2024年11月07日/STAND-Guard_A_Small_Task-Adaptive_Content_Moderation_Model.md)
-
-    - [翻译: STAND-Guard：一款小型的任务自适应内容审核模型](2024年11月07日/STAND-Guard_A_Small_Task-Adaptive_Content_Moderation_Model.md)
-
 - [SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models](2024年11月07日/SVDQunat_Absorbing_Outliers_by_Low-Rank_Components_for_4-Bit_Diffusion_Models.md)
 
     - [翻译: SVDQunat：通过低秩分量吸收 4 位扩散模型中的异常值](2024年11月07日/SVDQunat_Absorbing_Outliers_by_Low-Rank_Components_for_4-Bit_Diffusion_Models.md)
@@ -1176,10 +1160,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Multi-Scale and Multimodal Species Distribution Modeling](2024年11月06日/Multi-Scale_and_Multimodal_Species_Distribution_Modeling.md)
 
     - [翻译: 多尺度和多模态物种分布建模](2024年11月06日/Multi-Scale_and_Multimodal_Species_Distribution_Modeling.md)
-
-- [NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
-
-    - [翻译: NeurIPS 2023 竞赛：保护隐私的联邦学习文档 VQA](2024年11月06日/NeurIPS_2023_Competition_Privacy_Preserving_Federated_Learning_Document_VQA.md)
 
 - [Number Cookbook: Number Understanding of Language Models and How to Improve It](2024年11月06日/Number_Cookbook_Number_Understanding_of_Language_Models_and_How_to_Improve_It.md)
 
