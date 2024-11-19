@@ -216,10 +216,6 @@
 
     - [翻译: JailbreakLens：从表示与电路的视角阐释越狱机制](2024年11月17日/JailbreakLens_Interpreting_Jailbreak_Mechanism_in_the_Lens_of_Representation_and_Circuit.md)
 
-- [Large corpora and large language models: a replicable method for automating grammatical annotation](2024年11月17日/Large_corpora_and_large_language_models_a_replicable_method_for_automating_grammatical_annotation.md)
-
-    - [翻译: 大型语料库与大型语言模型：一种实现自动语法标注的可复制之法](2024年11月17日/Large_corpora_and_large_language_models_a_replicable_method_for_automating_grammatical_annotation.md)
-
 - [MEMO-Bench: A Multiple Benchmark for Text-to-Image and Multimodal Large Language Models on Human Emotion Analysis](2024年11月17日/MEMO-Bench_A_Multiple_Benchmark_for_Text-to-Image_and_Multimodal_Large_Language_Models_on_Human_Emotion_Analysis.md)
 
     - [翻译: MEMO-Bench：针对人类情感分析的文本到图像及多模态大型语言模型的多重基准](2024年11月17日/MEMO-Bench_A_Multiple_Benchmark_for_Text-to-Image_and_Multimodal_Large_Language_Models_on_Human_Emotion_Analysis.md)
@@ -359,10 +355,6 @@
 - [Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash](2024年11月15日/Evaluating_Creativity_and_Deception_in_Large_Language_Models_A_Simulation_Framework_for_Multi-Agent_Balderdash.md)
 
     - [翻译: 评估大型语言模型的创造力与欺骗性：多智能体 Balderdash 的模拟框架](2024年11月15日/Evaluating_Creativity_and_Deception_in_Large_Language_Models_A_Simulation_Framework_for_Multi-Agent_Balderdash.md)
-
-- [Evaluating the role of `Constitutions' for learning from AI feedback](2024年11月15日/Evaluating_the_role_of_`Constitutions'_for_learning_from_AI_feedback.md)
-
-    - [翻译: 评估“宪法”于从人工智能反馈进行学习所起的作用](2024年11月15日/Evaluating_the_role_of_`Constitutions'_for_learning_from_AI_feedback.md)
 
 - [Experiences from Using LLMs for Repository Mining Studies in Empirical Software Engineering](2024年11月15日/Experiences_from_Using_LLMs_for_Repository_Mining_Studies_in_Empirical_Software_Engineering.md)
 
@@ -1755,10 +1747,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 多运动转换：用于人体运动预测的预训练模型](2024年11月04日/Multi-Transmotion_Pre-trained_Model_for_Human_Motion_Prediction.md)
 
-- [Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning](2024年11月04日/Provably_Transformers_Harness_Multi-Concept_Word_Semantics_for_Efficient_In-Context_Learning.md)
-
-    - [翻译: 可证明的 Transformer 利用多概念词语义来实现高效的上下文学习。](2024年11月04日/Provably_Transformers_Harness_Multi-Concept_Word_Semantics_for_Efficient_In-Context_Learning.md)
-
 - [QCG-Rerank: Chunks Graph Rerank with Query Expansion in Retrieval-Augmented LLMs for Tourism Domain](2024年11月04日/QCG-Rerank_Chunks_Graph_Rerank_with_Query_Expansion_in_Retrieval-Augmented_LLMs_for_Tourism_Domain.md)
 
     - [翻译: QCG-Rerank：旅游领域中在检索增强型大型语言模型里采用查询扩展的块图重排序](2024年11月04日/QCG-Rerank_Chunks_Graph_Rerank_with_Query_Expansion_in_Retrieval-Augmented_LLMs_for_Tourism_Domain.md)
@@ -1903,6 +1891,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: Cross-D Conv: 借助傅里叶变换操作实现的跨维度可转移知识库](2024年11月02日/Cross-D_Conv_Cross-Dimensional_Transferable_Knowledge_Base_via_Fourier_Shifting_Operation.md)
 
+- [Deep Multi-contrast Cardiac MRI Reconstruction via vSHARP with Auxiliary Refinement Network](2024年11月02日/Deep_Multi-contrast_Cardiac_MRI_Reconstruction_via_vSHARP_with_Auxiliary_Refinement_Network.md)
+
+    - [翻译: 借助带有辅助细化网络的 vSHARP 实现深度多对比度心脏 MRI 重建](2024年11月02日/Deep_Multi-contrast_Cardiac_MRI_Reconstruction_via_vSHARP_with_Auxiliary_Refinement_Network.md)
+
 - [Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models](2024年11月02日/Dictionary_Insertion_Prompting_for_Multilingual_Reasoning_on_Multilingual_Large_Language_Models.md)
 
     - [翻译: 字典插入提示应用于多语言大型语言模型的多语言推理](2024年11月02日/Dictionary_Insertion_Prompting_for_Multilingual_Reasoning_on_Multilingual_Large_Language_Models.md)
@@ -1926,6 +1918,26 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [NLP and Education: using semantic similarity to evaluate filled gaps in a large-scale Cloze test in the classroom](2024年11月02日/NLP_and_Education_using_semantic_similarity_to_evaluate_filled_gaps_in_a_large-scale_Cloze_test_in_the_classroom.md)
 
     - [翻译: NLP 与教育：借助语义相似度评估课堂大规模完形填空测试中的填空情况](2024年11月02日/NLP_and_Education_using_semantic_similarity_to_evaluate_filled_gaps_in_a_large-scale_Cloze_test_in_the_classroom.md)
+
+- [One Arrow, Many Targets: Probing LLMs for Multi-Attribute Controllable Text Summarization](2024年11月02日/One_Arrow,_Many_Targets_Probing_LLMs_for_Multi-Attribute_Controllable_Text_Summarization.md)
+
+    - [翻译: 一箭多标：探索大型语言模型实现多属性可控的文本摘要](2024年11月02日/One_Arrow,_Many_Targets_Probing_LLMs_for_Multi-Attribute_Controllable_Text_Summarization.md)
+
+- [On MCMC mixing under unidentified nonparametric models with an application to survival predictions under transformation models](2024年11月02日/On_MCMC_mixing_under_unidentified_nonparametric_models_with_an_application_to_survival_predictions_under_transformation_models.md)
+
+    - [翻译: 关于未识别非参数模型中的 MCMC 混合及其在变换模型下生存预测的应用](2024年11月02日/On_MCMC_mixing_under_unidentified_nonparametric_models_with_an_application_to_survival_predictions_under_transformation_models.md)
+
+- [PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment](2024年11月02日/PMoL_Parameter_Efficient_MoE_for_Preference_Mixing_of_LLM_Alignment.md)
+
+    - [翻译: PMoL：用于 LLM 对齐偏好混合的高效参数 MoE](2024年11月02日/PMoL_Parameter_Efficient_MoE_for_Preference_Mixing_of_LLM_Alignment.md)
+
+- [Swan and ArabicMTEB: Dialect-Aware, Arabic-Centric, Cross-Lingual, and Cross-Cultural Embedding Models and Benchmarks](2024年11月02日/Swan_and_ArabicMTEB_Dialect-Aware,_Arabic-Centric,_Cross-Lingual,_and_Cross-Cultural_Embedding_Models_and_Benchmarks.md)
+
+    - [翻译: Swan 和 ArabicMTEB：具备方言感知能力、以阿拉伯语为核心、跨语言及跨文化的嵌入模型与基准](2024年11月02日/Swan_and_ArabicMTEB_Dialect-Aware,_Arabic-Centric,_Cross-Lingual,_and_Cross-Cultural_Embedding_Models_and_Benchmarks.md)
+
+- [Transfer Learning for Finetuning Large Language Models](2024年11月02日/Transfer_Learning_for_Finetuning_Large_Language_Models.md)
+
+    - [翻译: 关于大型语言模型的微调之转移学习](2024年11月02日/Transfer_Learning_for_Finetuning_Large_Language_Models.md)
 
 - [Varco Arena: A Tournament Approach to Reference-Free Benchmarking Large Language Models](2024年11月02日/Varco_Arena_A_Tournament_Approach_to_Reference-Free_Benchmarking_Large_Language_Models.md)
 
