@@ -614,10 +614,6 @@
 
     - [翻译: 在商品硬件上进行大规模音乐 AI 模型的本地部署](2024年11月14日/Local_deployment_of_large-scale_music_AI_models_on_commodity_hardware.md)
 
-- [MagicQuill: An Intelligent Interactive Image Editing System](2024年11月14日/MagicQuill_An_Intelligent_Interactive_Image_Editing_System.md)
-
-    - [翻译: MagicQuill：一款智能互动式图像编辑系统](2024年11月14日/MagicQuill_An_Intelligent_Interactive_Image_Editing_System.md)
-
 - [MM-Eval: A Hierarchical Benchmark for Modern Mongolian Evaluation in LLMs](2024年11月14日/MM-Eval_A_Hierarchical_Benchmark_for_Modern_Mongolian_Evaluation_in_LLMs.md)
 
     - [翻译: MM-Eval：大型语言模型中现代蒙古语评估的分层式基准](2024年11月14日/MM-Eval_A_Hierarchical_Benchmark_for_Modern_Mongolian_Evaluation_in_LLMs.md)
@@ -707,10 +703,6 @@
 - [CLaSP: Learning Concepts for Time-Series Signals from Natural Language Supervision](2024年11月13日/CLaSP_Learning_Concepts_for_Time-Series_Signals_from_Natural_Language_Supervision.md)
 
     - [翻译: CLaSP：从自然语言监督中学习时间序列信号的概念](2024年11月13日/CLaSP_Learning_Concepts_for_Time-Series_Signals_from_Natural_Language_Supervision.md)
-
-- [CoCoP: Enhancing Text Classification with LLM through Code Completion Prompt](2024年11月13日/CoCoP_Enhancing_Text_Classification_with_LLM_through_Code_Completion_Prompt.md)
-
-    - [翻译: CoCoP：借助代码完成提示用 LLM 强化文本分类](2024年11月13日/CoCoP_Enhancing_Text_Classification_with_LLM_through_Code_Completion_Prompt.md)
 
 - [Code-mixed LLM: Improve Large Language Models' Capability to Handle Code-Mixing through Reinforcement Learning from AI Feedback](2024年11月13日/Code-mixed_LLM_Improve_Large_Language_Models'_Capability_to_Handle_Code-Mixing_through_Reinforcement_Learning_from_AI_Feedback.md)
 
@@ -812,10 +804,6 @@
 
     - [翻译: VLLM 安全悖论：越狱攻击和防御的双重轻松](2024年11月13日/The_VLLM_Safety_Paradox_Dual_Ease_in_Jailbreak_Attack_and_Defense.md)
 
-- [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](2024年11月13日/Toward_Democratized_Generative_AI_in_Next-Generation_Mobile_Edge_Networks.md)
-
-    - [翻译: 朝着下一代移动边缘网络中的民主化生成式 AI 迈进](2024年11月13日/Toward_Democratized_Generative_AI_in_Next-Generation_Mobile_Edge_Networks.md)
-
 - [Towards Optimizing a Retrieval Augmented Generation using Large Language Model on Academic Data](2024年11月13日/Towards_Optimizing_a_Retrieval_Augmented_Generation_using_Large_Language_Model_on_Academic_Data.md)
 
     - [翻译: 朝着在学术数据上使用大型语言模型优化检索增强生成的方向发展](2024年11月13日/Towards_Optimizing_a_Retrieval_Augmented_Generation_using_Large_Language_Model_on_Academic_Data.md)
@@ -827,10 +815,6 @@
 - [Trustful LLMs: Customizing and Grounding Text Generation with Knowledge Bases and Dual Decoders](2024年11月13日/Trustful_LLMs_Customizing_and_Grounding_Text_Generation_with_Knowledge_Bases_and_Dual_Decoders.md)
 
     - [翻译: 可信的大型语言模型：使用知识库和双解码器定制和扎根文本生成](2024年11月13日/Trustful_LLMs_Customizing_and_Grounding_Text_Generation_with_Knowledge_Bases_and_Dual_Decoders.md)
-
-- [UniMat: Unifying Materials Embeddings through Multi-modal Learning](2024年11月13日/UniMat_Unifying_Materials_Embeddings_through_Multi-modal_Learning.md)
-
-    - [翻译: UniMat：通过多模态学习统一材料嵌入](2024年11月13日/UniMat_Unifying_Materials_Embeddings_through_Multi-modal_Learning.md)
 
 - [VCBench: A Controllable Benchmark for Symbolic and Abstract Challenges in Video Cognition](2024年11月13日/VCBench_A_Controllable_Benchmark_for_Symbolic_and_Abstract_Challenges_in_Video_Cognition.md)
 
@@ -913,10 +897,6 @@
 - [OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
 
     - [翻译: OWLed：用于高效自动驾驶框架的离群值加权分层剪枝](2024年11月12日/OWLed_Outlier-weighed_Layerwise_Pruning_for_Efficient_Autonomous_Driving_Framework.md)
-
-- [Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
-
-    - [翻译: 面向问题的分割和检索：关于辅导对话的案例研究](2024年11月12日/Problem-Oriented_Segmentation_and_Retrieval_Case_Study_on_Tutoring_Conversations.md)
 
 - [PyGen: A Collaborative Human-AI Approach to Python Package Creation](2024年11月12日/PyGen_A_Collaborative_Human-AI_Approach_to_Python_Package_Creation.md)
 
@@ -1251,10 +1231,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
 2024年11月08日
 
-- [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](2024年11月08日/A_Picture_is_Worth_A_Thousand_Numbers_Enabling_LLMs_Reason_about_Time_Series_via_Visualization.md)
-
-    - [翻译: 一张图片胜过一千个数字：通过可视化使大型语言模型能够对时间序列进行推理](2024年11月08日/A_Picture_is_Worth_A_Thousand_Numbers_Enabling_LLMs_Reason_about_Time_Series_via_Visualization.md)
-
 - [Assessing Open-Source Large Language Models on Argumentation Mining Subtasks](2024年11月08日/Assessing_Open-Source_Large_Language_Models_on_Argumentation_Mining_Subtasks.md)
 
     - [翻译: 评估开源大型语言模型在论证挖掘子任务上的表现](2024年11月08日/Assessing_Open-Source_Large_Language_Models_on_Argumentation_Mining_Subtasks.md)
@@ -1274,10 +1250,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Autoregressive Models in Vision: A Survey](2024年11月08日/Autoregressive_Models_in_Vision_A_Survey.md)
 
     - [翻译: 视觉中的自回归模型：一项调查](2024年11月08日/Autoregressive_Models_in_Vision_A_Survey.md)
-
-- [Content Quality vs. Attention Allocation: An LLM-Based Case Study in Peer-to-peer Mental Health Networks](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
-
-    - [翻译: 内容质量与注意力分配：基于 LLM 的在点对点心理健康网络中的案例研究](2024年11月08日/Content_Quality_vs._Attention_Allocation_An_LLM-Based_Case_Study_in_Peer-to-peer_Mental_Health_Networks.md)
 
 - [Enhancing Cardiovascular Disease Prediction through Multi-Modal Self-Supervised Learning](2024年11月08日/Enhancing_Cardiovascular_Disease_Prediction_through_Multi-Modal_Self-Supervised_Learning.md)
 
@@ -1326,10 +1298,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Reasoning Robustness of LLMs to Adversarial Typographical Errors](2024年11月08日/Reasoning_Robustness_of_LLMs_to_Adversarial_Typographical_Errors.md)
 
     - [翻译: LLMs 针对对抗性排版错误的推理稳健性](2024年11月08日/Reasoning_Robustness_of_LLMs_to_Adversarial_Typographical_Errors.md)
-
-- [Recycled Attention: Efficient inference for long-context language models](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
-
-    - [翻译: 回收注意力：长上下文语言模型的高效推理](2024年11月08日/Recycled_Attention_Efficient_inference_for_long-context_language_models.md)
 
 - [Tell What You Hear From What You See -- Video to Audio Generation Through Text](2024年11月08日/Tell_What_You_Hear_From_What_You_See_--_Video_to_Audio_Generation_Through_Text.md)
 
@@ -1669,17 +1637,9 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 大型语言模型中的文本美学](2024年11月05日/Textual_Aesthetics_in_Large_Language_Models.md)
 
-- [The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare](2024年11月05日/The_Future_of_Intelligent_Healthcare_A_Systematic_Analysis_and_Discussion_on_the_Integration_and_Impact_of_Robots_Using_Large_Language_Models_for_Healthcare.md)
-
-    - [翻译: 智能医疗的未来：关于使用大型语言模型的机器人在医疗保健中的整合和影响的系统分析和讨论](2024年11月05日/The_Future_of_Intelligent_Healthcare_A_Systematic_Analysis_and_Discussion_on_the_Integration_and_Impact_of_Robots_Using_Large_Language_Models_for_Healthcare.md)
-
 - [TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection](2024年11月05日/TokenSelect_Efficient_Long-Context_Inference_and_Length_Extrapolation_for_LLMs_via_Dynamic_Token-Level_KV_Cache_Selection.md)
 
     - [翻译: TokenSelect：通过动态令牌级 KV 缓存选择实现大型语言模型的高效长上下文推理和长度外推](2024年11月05日/TokenSelect_Efficient_Long-Context_Inference_and_Length_Extrapolation_for_LLMs_via_Dynamic_Token-Level_KV_Cache_Selection.md)
-
-- [Towards Scalable Automated Grading: Leveraging Large Language Models for Conceptual Question Evaluation in Engineering](2024年11月05日/Towards_Scalable_Automated_Grading_Leveraging_Large_Language_Models_for_Conceptual_Question_Evaluation_in_Engineering.md)
-
-    - [翻译: 迈向可扩展的自动化评分：利用大型语言模型对工程中的概念性问题进行评估](2024年11月05日/Towards_Scalable_Automated_Grading_Leveraging_Large_Language_Models_for_Conceptual_Question_Evaluation_in_Engineering.md)
 
 - [λ-Tune: Harnessing Large Language Models for Automated Database System Tuning](2024年11月05日/λ-Tune_Harnessing_Large_Language_Models_for_Automated_Database_System_Tuning.md)
 
@@ -1841,21 +1801,33 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
 2024年11月03日
 
+- [A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services](2024年11月03日/A_Practical_and_Privacy-Preserving_Framework_for_Real-World_Large_Language_Model_Services.md)
+
+    - [翻译: 一个适用于现实世界中大型语言模型服务的实用且注重隐私保护的框架](2024年11月03日/A_Practical_and_Privacy-Preserving_Framework_for_Real-World_Large_Language_Model_Services.md)
+
+- [Are LLMs good pragmatic speakers?](2024年11月03日/Are_LLMs_good_pragmatic_speakers.md)
+
+    - [翻译: LLMs 称得上是出色的实用主义演说者吗？](2024年11月03日/Are_LLMs_good_pragmatic_speakers.md)
+
 - [ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model](2024年11月03日/ChatTracker_Enhancing_Visual_Tracking_Performance_via_Chatting_with_Multimodal_Large_Language_Model.md)
 
     - [翻译: ChatTracker：通过与多模态大型语言模型聊天来提高视觉跟踪性能](2024年11月03日/ChatTracker_Enhancing_Visual_Tracking_Performance_via_Chatting_with_Multimodal_Large_Language_Model.md)
-
-- [Context Parallelism for Scalable Million-Token Inference](2024年11月03日/Context_Parallelism_for_Scalable_Million-Token_Inference.md)
-
-    - [翻译: 用于可扩展的百万令牌推理的上下文并行性](2024年11月03日/Context_Parallelism_for_Scalable_Million-Token_Inference.md)
 
 - [DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models](2024年11月03日/DesignRepair_Dual-Stream_Design_Guideline-Aware_Frontend_Repair_with_Large_Language_Models.md)
 
     - [翻译: DesignRepair：使用大型语言模型的双流设计指南感知前端修复](2024年11月03日/DesignRepair_Dual-Stream_Design_Guideline-Aware_Frontend_Repair_with_Large_Language_Models.md)
 
+- [Donald Trumps in the Virtual Polls: Simulating and Predicting Public Opinions in Surveys Using Large Language Models](2024年11月03日/Donald_Trumps_in_the_Virtual_Polls_Simulating_and_Predicting_Public_Opinions_in_Surveys_Using_Large_Language_Models.md)
+
+    - [翻译: 唐纳德·特朗普在虚拟民意调查里：借助大型语言模型对调查中的公众意见进行模拟和预测](2024年11月03日/Donald_Trumps_in_the_Virtual_Polls_Simulating_and_Predicting_Public_Opinions_in_Surveys_Using_Large_Language_Models.md)
+
 - [EEE-Bench: A Comprehensive Multimodal Electrical And Electronics Engineering Benchmark](2024年11月03日/EEE-Bench_A_Comprehensive_Multimodal_Electrical_And_Electronics_Engineering_Benchmark.md)
 
     - [翻译: EEE-Bench：一个综合性的多模态电气与电子工程基准](2024年11月03日/EEE-Bench_A_Comprehensive_Multimodal_Electrical_And_Electronics_Engineering_Benchmark.md)
+
+- [Enhancing LLM Evaluations: The Garbling Trick](2024年11月03日/Enhancing_LLM_Evaluations_The_Garbling_Trick.md)
+
+    - [翻译: 提升 LLM 评估：乱序之法](2024年11月03日/Enhancing_LLM_Evaluations_The_Garbling_Trick.md)
 
 - [Eurekaverse: Environment Curriculum Generation via Large Language Models](2024年11月03日/Eurekaverse_Environment_Curriculum_Generation_via_Large_Language_Models.md)
 
@@ -1865,14 +1837,96 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 使用人工智能在 OSS-Fuzz 中修复安全漏洞](2024年11月03日/Fixing_Security_Vulnerabilities_with_AI_in_OSS-Fuzz.md)
 
+- [HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference](2024年11月03日/HOBBIT_A_Mixed_Precision_Expert_Offloading_System_for_Fast_MoE_Inference.md)
+
+    - [翻译: HOBBIT ：一个用于快速 MoE 推理的混合精度专家卸载系统](2024年11月03日/HOBBIT_A_Mixed_Precision_Expert_Offloading_System_for_Fast_MoE_Inference.md)
+
+- [LLMs and the Madness of Crowds](2024年11月03日/LLMs_and_the_Madness_of_Crowds.md)
+
+    - [翻译: LLMs 与群体的狂热](2024年11月03日/LLMs_and_the_Madness_of_Crowds.md)
+
 - [One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection](2024年11月03日/One_for_All_Multi-Domain_Joint_Training_for_Point_Cloud_Based_3D_Object_Detection.md)
 
     - [翻译: “一劳永逸”：基于点云的 3D 物体检测的多领域联合训练](2024年11月03日/One_for_All_Multi-Domain_Joint_Training_for_Point_Cloud_Based_3D_Object_Detection.md)
+
+- [RAGViz: Diagnose and Visualize Retrieval-Augmented Generation](2024年11月03日/RAGViz_Diagnose_and_Visualize_Retrieval-Augmented_Generation.md)
+
+    - [翻译: RAGViz：对检索增强生成进行诊断与可视化](2024年11月03日/RAGViz_Diagnose_and_Visualize_Retrieval-Augmented_Generation.md)
 
 - [RuAG: Learned-rule-augmented Generation for Large Language Models](2024年11月03日/RuAG_Learned-rule-augmented_Generation_for_Large_Language_Models.md)
 
     - [翻译: RuAG：用于大型语言模型的学习规则增强生成](2024年11月03日/RuAG_Learned-rule-augmented_Generation_for_Large_Language_Models.md)
 
+- [SQL Injection Jailbreak: a structural disaster of large language models](2024年11月03日/SQL_Injection_Jailbreak_a_structural_disaster_of_large_language_models.md)
+
+    - [翻译: SQL 注入越狱：大型语言模型的结构性灾祸](2024年11月03日/SQL_Injection_Jailbreak_a_structural_disaster_of_large_language_models.md)
+
 - [Teaching Models to Improve on Tape](2024年11月03日/Teaching_Models_to_Improve_on_Tape.md)
 
     - [翻译: 教导模型以优化磁带](2024年11月03日/Teaching_Models_to_Improve_on_Tape.md)
+
+- [Thinking Forward and Backward: Effective Backward Planning with Large Language Models](2024年11月03日/Thinking_Forward_and_Backward_Effective_Backward_Planning_with_Large_Language_Models.md)
+
+    - [翻译: 《思考前与后：借助大型语言模型实现有效的向后规划》](2024年11月03日/Thinking_Forward_and_Backward_Effective_Backward_Planning_with_Large_Language_Models.md)
+
+- [Towards Pedagogical LLMs with Supervised Fine Tuning for Computing Education](2024年11月03日/Towards_Pedagogical_LLMs_with_Supervised_Fine_Tuning_for_Computing_Education.md)
+
+    - [翻译: 朝着用于计算教育、具备监督微调功能的教学型大型语言模型迈进](2024年11月03日/Towards_Pedagogical_LLMs_with_Supervised_Fine_Tuning_for_Computing_Education.md)
+
+- [UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](2024年11月03日/UniGuard_Towards_Universal_Safety_Guardrails_for_Jailbreak_Attacks_on_Multimodal_Large_Language_Models.md)
+
+    - [翻译: UniGuard：致力于为多模态大型语言模型的越狱攻击打造通用安全护栏](2024年11月03日/UniGuard_Towards_Universal_Safety_Guardrails_for_Jailbreak_Attacks_on_Multimodal_Large_Language_Models.md)
+
+2024年11月02日
+
+- [A Deep Dive Into Large Language Model Code Generation Mistakes: What and Why?](2024年11月02日/A_Deep_Dive_Into_Large_Language_Model_Code_Generation_Mistakes_What_and_Why.md)
+
+    - [翻译: 深入探寻大型语言模型代码生成的错误：究竟是什么以及为何会这样？](2024年11月02日/A_Deep_Dive_Into_Large_Language_Model_Code_Generation_Mistakes_What_and_Why.md)
+
+- [AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?](2024年11月02日/AutoPT_How_Far_Are_We_from_the_End2End_Automated_Web_Penetration_Testing.md)
+
+    - [翻译: AutoPT：我们离端到端的自动化网络渗透测试还有多远？](2024年11月02日/AutoPT_How_Far_Are_We_from_the_End2End_Automated_Web_Penetration_Testing.md)
+
+- [Can Large Language Model Predict Employee Attrition?](2024年11月02日/Can_Large_Language_Model_Predict_Employee_Attrition.md)
+
+    - [翻译: 大型语言模型能否预测员工的流失情况？](2024年11月02日/Can_Large_Language_Model_Predict_Employee_Attrition.md)
+
+- [Can Multimodal Large Language Model Think Analogically?](2024年11月02日/Can_Multimodal_Large_Language_Model_Think_Analogically.md)
+
+    - [翻译: 多模态大型语言模型能否进行类比思考？](2024年11月02日/Can_Multimodal_Large_Language_Model_Think_Analogically.md)
+
+- [Combining Financial Data and News Articles for Stock Price Movement Prediction Using Large Language Models](2024年11月02日/Combining_Financial_Data_and_News_Articles_for_Stock_Price_Movement_Prediction_Using_Large_Language_Models.md)
+
+    - [翻译: 利用大型语言模型，将金融数据与新闻文章相结合来预测股票价格走势](2024年11月02日/Combining_Financial_Data_and_News_Articles_for_Stock_Price_Movement_Prediction_Using_Large_Language_Models.md)
+
+- [Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](2024年11月02日/Cross-D_Conv_Cross-Dimensional_Transferable_Knowledge_Base_via_Fourier_Shifting_Operation.md)
+
+    - [翻译: Cross-D Conv: 借助傅里叶变换操作实现的跨维度可转移知识库](2024年11月02日/Cross-D_Conv_Cross-Dimensional_Transferable_Knowledge_Base_via_Fourier_Shifting_Operation.md)
+
+- [Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models](2024年11月02日/Dictionary_Insertion_Prompting_for_Multilingual_Reasoning_on_Multilingual_Large_Language_Models.md)
+
+    - [翻译: 字典插入提示应用于多语言大型语言模型的多语言推理](2024年11月02日/Dictionary_Insertion_Prompting_for_Multilingual_Reasoning_on_Multilingual_Large_Language_Models.md)
+
+- [Diversidade linguística e inclusão digital: desafios para uma ia brasileira](2024年11月02日/Diversidade_linguística_e_inclusão_digital_desafios_para_uma_ia_brasileira.md)
+
+    - [翻译: 语言的多样性与数字的包容性：巴西人工智能所面临的挑战](2024年11月02日/Diversidade_linguística_e_inclusão_digital_desafios_para_uma_ia_brasileira.md)
+
+- [Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision](2024年11月02日/Efficient_Deep_Learning_Infrastructures_for_Embedded_Computing_Systems_A_Comprehensive_Survey_and_Future_Envision.md)
+
+    - [翻译: 关于嵌入式计算系统的高效深度学习基础设施：全面调研与未来展望](2024年11月02日/Efficient_Deep_Learning_Infrastructures_for_Embedded_Computing_Systems_A_Comprehensive_Survey_and_Future_Envision.md)
+
+- [GramSeq-DTA: A grammar-based drug-target affinity prediction approach fusing gene expression information](2024年11月02日/GramSeq-DTA_A_grammar-based_drug-target_affinity_prediction_approach_fusing_gene_expression_information.md)
+
+    - [翻译: GramSeq-DTA：一种融合基因表达信息的基于语法规则的药物 - 靶点亲和性预测手段](2024年11月02日/GramSeq-DTA_A_grammar-based_drug-target_affinity_prediction_approach_fusing_gene_expression_information.md)
+
+- [Interacting Large Language Model Agents. Interpretable Models and Social Learning](2024年11月02日/Interacting_Large_Language_Model_Agents._Interpretable_Models_and_Social_Learning.md)
+
+    - [翻译: 大型语言模型代理的相互作用。可解释的模型与社会学习](2024年11月02日/Interacting_Large_Language_Model_Agents._Interpretable_Models_and_Social_Learning.md)
+
+- [NLP and Education: using semantic similarity to evaluate filled gaps in a large-scale Cloze test in the classroom](2024年11月02日/NLP_and_Education_using_semantic_similarity_to_evaluate_filled_gaps_in_a_large-scale_Cloze_test_in_the_classroom.md)
+
+    - [翻译: NLP 与教育：借助语义相似度评估课堂大规模完形填空测试中的填空情况](2024年11月02日/NLP_and_Education_using_semantic_similarity_to_evaluate_filled_gaps_in_a_large-scale_Cloze_test_in_the_classroom.md)
+
+- [Varco Arena: A Tournament Approach to Reference-Free Benchmarking Large Language Models](2024年11月02日/Varco_Arena_A_Tournament_Approach_to_Reference-Free_Benchmarking_Large_Language_Models.md)
+
+    - [翻译: Varco Arena：一种针对大型语言模型进行无参考基准测试的竞赛式方法](2024年11月02日/Varco_Arena_A_Tournament_Approach_to_Reference-Free_Benchmarking_Large_Language_Models.md)
