@@ -1,0 +1,15 @@
+# 大型语言模型给开发者带来的挑战：基于 Stack Overflow 和 OpenAI 开发者论坛帖子的研究
+
+发布时间：2024年11月16日
+
+`LLM应用` `软件开发` `语言模型`
+
+> Developer Challenges on Large Language Models: A Study of Stack Overflow and OpenAI Developer Forum Posts
+
+# 摘要
+
+> 大型语言模型（LLMs）在诸如聊天机器人、医疗保健、教育、内容生成以及自动化支持系统等众多领域展现出非凡能力，因而广受青睐。但开发人员在实现、微调以及将这些模型融入实际应用时，遭遇了诸多难题。本研究通过剖析Stack Overflow和OpenAI Developer Forum上的社区互动情况，运用BERTopic建模来识别并归类开发人员的讨论，以此探究LLM开发人员面临的挑战。我们的分析在Stack Overflow上得出了九个挑战（如LLM生态系统与挑战、API使用、借助框架进行LLM训练），在OpenAI Developer Forum上得出了17个挑战（如API使用与错误处理、微调及数据集管理）。结果显示，开发人员常于Stack Overflow上寻求实现方面的指引，而OpenAI论坛则侧重于故障排查。尤为突出的是，API和功能问题在OpenAI论坛的讨论中占据主导，众多帖子需要多次回复，凸显了LLM相关问题的复杂性。我们发现LLM相关的查询通常难度颇高，有大量未解决的帖子（例如Stack Overflow上达79.03％）以及较长的响应时间，特别是像“Llama索引和GPU利用”以及“代理和工具交互”这类复杂主题。相较而言，像移动开发和安全这类成熟领域则有着更快的解决速度和更积极的社区参与度。这些发现表明，需要增强社区支持和提供针对性资源，助力LLM开发人员应对这个迅速发展领域不断变化的挑战。本研究为困难所在提供了见解，为未来的研究和工具开发铺平道路，以更好地支持LLM开发人员群体。
+
+> Large Language Models (LLMs) have gained widespread popularity due to their exceptional capabilities across various domains, including chatbots, healthcare, education, content generation, and automated support systems. However, developers encounter numerous challenges when implementing, fine-tuning, and integrating these models into real-world applications. This study investigates LLM developers' challenges by analyzing community interactions on Stack Overflow and OpenAI Developer Forum, employing BERTopic modeling to identify and categorize developer discussions. Our analysis yields nine challenges on Stack Overflow (e.g., LLM Ecosystem and Challenges, API Usage, LLM Training with Frameworks) and 17 on the OpenAI Developer Forum (e.g., API Usage and Error Handling, Fine-Tuning and Dataset Management). Results indicate that developers frequently turn to Stack Overflow for implementation guidance, while OpenAI's forum focuses on troubleshooting. Notably, API and functionality issues dominate discussions on the OpenAI forum, with many posts requiring multiple responses, reflecting the complexity of LLM-related problems. We find that LLM-related queries often exhibit great difficulty, with a substantial percentage of unresolved posts (e.g., 79.03\% on Stack Overflow) and prolonged response times, particularly for complex topics like 'Llama Indexing and GPU Utilization' and 'Agents and Tool Interactions'. In contrast, established fields like Mobile Development and Security enjoy quicker resolutions and stronger community engagement. These findings highlight the need for improved community support and targeted resources to assist LLM developers in overcoming the evolving challenges of this rapidly growing field. This study provides insights into areas of difficulty, paving the way for future research and tool development to better support the LLM developer community.
+
+[Arxiv](https://arxiv.org/abs/2411.10873)

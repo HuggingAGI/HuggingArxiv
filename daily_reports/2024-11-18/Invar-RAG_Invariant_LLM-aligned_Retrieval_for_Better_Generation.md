@@ -1,5 +1,5 @@
 # Invar-RAG：用于更好生成的不变的与大型语言模型对齐的检索
-发布时间：2024年11月11日
+发布时间：2024年11月16日
 
 `RAG`
 > Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation
