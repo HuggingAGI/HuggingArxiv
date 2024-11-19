@@ -62,10 +62,6 @@
 
     - [翻译: 借助大型语言模型，从科学文献里发掘那些被忽略的气候创新](2024年11月15日/Towards_unearthing_neglected_climate_innovations_from_scientific_literature_using_Large_Language_Models.md)
 
-- [VMID: A Multimodal Fusion LLM Framework for Detecting and Identifying Misinformation of Short Videos](2024年11月15日/VMID_A_Multimodal_Fusion_LLM_Framework_for_Detecting_and_Identifying_Misinformation_of_Short_Videos.md)
-
-    - [翻译: VMID：一个用于检测和识别短视频错误信息的多模态融合 LLM 框架](2024年11月15日/VMID_A_Multimodal_Fusion_LLM_Framework_for_Detecting_and_Identifying_Misinformation_of_Short_Videos.md)
-
 - [Xmodel-1.5: An 1B-scale Multilingual LLM](2024年11月15日/Xmodel-1.5_An_1B-scale_Multilingual_LLM.md)
 
     - [翻译: Xmodel-1.5：一款 10 亿规模的多语言大语言模型](2024年11月15日/Xmodel-1.5_An_1B-scale_Multilingual_LLM.md)
@@ -1145,10 +1141,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: LEGO-GraphRAG：用于设计空间探索的基于图的检索增强生成之模块化](2024年11月06日/LEGO-GraphRAG_Modularizing_Graph-based_Retrieval-Augmented_Generation_for_Design_Space_Exploration.md)
 
-- [Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks](2024年11月06日/Long-Form_Text-to-Music_Generation_with_Adaptive_Prompts_A_Case_of_Study_in_Tabletop_Role-Playing_Games_Soundtracks.md)
-
-    - [翻译: 具有自适应提示的长篇文本到音乐生成：桌面角色扮演游戏配乐的案例研究](2024年11月06日/Long-Form_Text-to-Music_Generation_with_Adaptive_Prompts_A_Case_of_Study_in_Tabletop_Role-Playing_Games_Soundtracks.md)
-
 - [M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
 
     - [翻译: M3SciQA：用于评估基础模型的多模态多文档科学问答基准](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
@@ -1300,10 +1292,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
     - [翻译: λ-Tune：利用大型语言模型进行自动化数据库系统调优](2024年11月05日/λ-Tune_Harnessing_Large_Language_Models_for_Automated_Database_System_Tuning.md)
 
 2024年11月04日
-
-- [A Comparative Analysis of Counterfactual Explanation Methods for Text Classifiers](2024年11月04日/A_Comparative_Analysis_of_Counterfactual_Explanation_Methods_for_Text_Classifiers.md)
-
-    - [翻译: 对文本分类器的反事实解释方法的比较分析](2024年11月04日/A_Comparative_Analysis_of_Counterfactual_Explanation_Methods_for_Text_Classifiers.md)
 
 - [Adaptive Length Image Tokenization via Recurrent Allocation](2024年11月04日/Adaptive_Length_Image_Tokenization_via_Recurrent_Allocation.md)
 
