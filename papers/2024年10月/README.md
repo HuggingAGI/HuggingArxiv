@@ -1,7 +1,7 @@
 # 2024年10月
 
-2024年10月11日
+2024年10月31日
 
-- [A Systematic Survey on Large Language Models for Algorithm Design](2024年10月11日/A_Systematic_Survey_on_Large_Language_Models_for_Algorithm_Design.md)
+- [Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters](2024年10月31日/Hidden_Persuaders_LLMs'_Political_Leaning_and_Their_Influence_on_Voters.md)
 
-    - [翻译: 关于算法设计的大型语言模型的系统调查](2024年10月11日/A_Systematic_Survey_on_Large_Language_Models_for_Algorithm_Design.md)
+    - [翻译: 《隐藏的说服者：LLM 的政治倾向及其对选民的影响》](2024年10月31日/Hidden_Persuaders_LLMs'_Political_Leaning_and_Their_Influence_on_Voters.md)

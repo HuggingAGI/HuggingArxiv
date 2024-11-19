@@ -1,5 +1,11 @@
 # 2024年06月
 
+2024年06月30日
+
+- [Towards Robust Speech Representation Learning for Thousands of Languages](2024年06月30日/Towards_Robust_Speech_Representation_Learning_for_Thousands_of_Languages.md)
+
+    - [翻译: 朝着实现数千种语言的稳健语音表示学习迈进](2024年06月30日/Towards_Robust_Speech_Representation_Learning_for_Thousands_of_Languages.md)
+
 2024年06月26日
 
 - [360$^\circ$REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System](2024年06月26日/360$^\circ$REA_Towards_A_Reusable_Experience_Accumulation_with_360°_Assessment_for_Multi-Agent_System.md)

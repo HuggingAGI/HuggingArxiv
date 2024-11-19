@@ -1915,6 +1915,14 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 大型语言模型代理的相互作用。可解释的模型与社会学习](2024年11月02日/Interacting_Large_Language_Model_Agents._Interpretable_Models_and_Social_Learning.md)
 
+- [LLM4PR: Improving Post-Ranking in Search Engine with Large Language Models](2024年11月02日/LLM4PR_Improving_Post-Ranking_in_Search_Engine_with_Large_Language_Models.md)
+
+    - [翻译: LLM4PR：借助大型语言模型提升搜索引擎的后排名](2024年11月02日/LLM4PR_Improving_Post-Ranking_in_Search_Engine_with_Large_Language_Models.md)
+
+- [MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration](2024年11月02日/MambaReg_Mamba-Based_Disentangled_Convolutional_Sparse_Coding_for_Unsupervised_Deformable_Multi-Modal_Image_Registration.md)
+
+    - [翻译: MambaReg：基于 Mamba 的解缠卷积稀疏编码，用于无监督的可变形多模态图像配准](2024年11月02日/MambaReg_Mamba-Based_Disentangled_Convolutional_Sparse_Coding_for_Unsupervised_Deformable_Multi-Modal_Image_Registration.md)
+
 - [NLP and Education: using semantic similarity to evaluate filled gaps in a large-scale Cloze test in the classroom](2024年11月02日/NLP_and_Education_using_semantic_similarity_to_evaluate_filled_gaps_in_a_large-scale_Cloze_test_in_the_classroom.md)
 
     - [翻译: NLP 与教育：借助语义相似度评估课堂大规模完形填空测试中的填空情况](2024年11月02日/NLP_and_Education_using_semantic_similarity_to_evaluate_filled_gaps_in_a_large-scale_Cloze_test_in_the_classroom.md)
@@ -1930,6 +1938,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment](2024年11月02日/PMoL_Parameter_Efficient_MoE_for_Preference_Mixing_of_LLM_Alignment.md)
 
     - [翻译: PMoL：用于 LLM 对齐偏好混合的高效参数 MoE](2024年11月02日/PMoL_Parameter_Efficient_MoE_for_Preference_Mixing_of_LLM_Alignment.md)
+
+- [Reasoning Limitations of Multimodal Large Language Models. A case study of Bongard Problems](2024年11月02日/Reasoning_Limitations_of_Multimodal_Large_Language_Models._A_case_study_of_Bongard_Problems.md)
+
+    - [翻译: 多模态大型语言模型的推理局限性。以 Bongard 问题为例展开研究](2024年11月02日/Reasoning_Limitations_of_Multimodal_Large_Language_Models._A_case_study_of_Bongard_Problems.md)
 
 - [Swan and ArabicMTEB: Dialect-Aware, Arabic-Centric, Cross-Lingual, and Cross-Cultural Embedding Models and Benchmarks](2024年11月02日/Swan_and_ArabicMTEB_Dialect-Aware,_Arabic-Centric,_Cross-Lingual,_and_Cross-Cultural_Embedding_Models_and_Benchmarks.md)
 
