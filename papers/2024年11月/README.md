@@ -2059,6 +2059,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
 2024年11月01日
 
+- [AAD-LLM: Adaptive Anomaly Detection Using Large Language Models](2024年11月01日/AAD-LLM_Adaptive_Anomaly_Detection_Using_Large_Language_Models.md)
+
+    - [翻译: AAD-LLM：借助大型语言模型的自适应异常检测](2024年11月01日/AAD-LLM_Adaptive_Anomaly_Detection_Using_Large_Language_Models.md)
+
 - [Active Preference-based Learning for Multi-dimensional Personalization](2024年11月01日/Active_Preference-based_Learning_for_Multi-dimensional_Personalization.md)
 
     - [翻译: 主动开展基于偏好的学习以实现多维个性化](2024年11月01日/Active_Preference-based_Learning_for_Multi-dimensional_Personalization.md)
@@ -2102,6 +2106,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation](2024年11月01日/CORAG_A_Cost-Constrained_Retrieval_Optimization_System_for_Retrieval-Augmented_Generation.md)
 
     - [翻译: CORAG：一个用于检索增强生成的受成本限制的检索优化系统](2024年11月01日/CORAG_A_Cost-Constrained_Retrieval_Optimization_System_for_Retrieval-Augmented_Generation.md)
+
+- [DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems](2024年11月01日/DARD_A_Multi-Agent_Approach_for_Task-Oriented_Dialog_Systems.md)
+
+    - [翻译: DARD：一种用于任务导向型对话系统的多智能体方法](2024年11月01日/DARD_A_Multi-Agent_Approach_for_Task-Oriented_Dialog_Systems.md)
 
 - [Defense Against Prompt Injection Attack by Leveraging Attack Techniques](2024年11月01日/Defense_Against_Prompt_Injection_Attack_by_Leveraging_Attack_Techniques.md)
 
@@ -2171,6 +2179,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 借助自集成提升视觉推理的泛化能力](2024年11月01日/Improving_Generalization_in_Visual_Reasoning_via_Self-Ensemble.md)
 
+- [Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage](2024年11月01日/Infant_Agent_A_Tool-Integrated,_Logic-Driven_Agent_with_Cost-Effective_API_Usage.md)
+
+    - [翻译: 婴儿代理：一种集成工具、由逻辑驱动且具有高性价比 API 使用的代理](2024年11月01日/Infant_Agent_A_Tool-Integrated,_Logic-Driven_Agent_with_Cost-Effective_API_Usage.md)
+
 - [InterTrans: Leveraging Transitive Intermediate Translations to Enhance LLM-based Code Translation](2024年11月01日/InterTrans_Leveraging_Transitive_Intermediate_Translations_to_Enhance_LLM-based_Code_Translation.md)
 
     - [翻译: InterTrans：借助传递性中间翻译提升基于 LLM 的代码翻译能力](2024年11月01日/InterTrans_Leveraging_Transitive_Intermediate_Translations_to_Enhance_LLM-based_Code_Translation.md)
@@ -2199,6 +2211,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 借助苏格拉底式引导采样来缓解 LLM 自我完善中的尾部收窄现象](2024年11月01日/Mitigating_Tail_Narrowing_in_LLM_Self-Improvement_via_Socratic-Guided_Sampling.md)
 
+- [MoD: A Distribution-Based Approach for Merging Large Language Models](2024年11月01日/MoD_A_Distribution-Based_Approach_for_Merging_Large_Language_Models.md)
+
+    - [翻译: MoD：一种基于分布来合并大型语言模型的方法](2024年11月01日/MoD_A_Distribution-Based_Approach_for_Merging_Large_Language_Models.md)
+
 - [MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction](2024年11月01日/MolCap-Arena_A_Comprehensive_Captioning_Benchmark_on_Language-Enhanced_Molecular_Property_Prediction.md)
 
     - [翻译: MolCap-Arena：语言增强分子属性预测的综合性字幕基准](2024年11月01日/MolCap-Arena_A_Comprehensive_Captioning_Benchmark_on_Language-Enhanced_Molecular_Property_Prediction.md)
@@ -2214,6 +2230,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Multi Modal Information Fusion of Acoustic and Linguistic Data for Decoding Dairy Cow Vocalizations in Animal Welfare Assessment](2024年11月01日/Multi_Modal_Information_Fusion_of_Acoustic_and_Linguistic_Data_for_Decoding_Dairy_Cow_Vocalizations_in_Animal_Welfare_Assessment.md)
 
     - [翻译: 在动物福利评估中，通过多模态的声学和语言数据信息融合来解码奶牛的发声](2024年11月01日/Multi_Modal_Information_Fusion_of_Acoustic_and_Linguistic_Data_for_Decoding_Dairy_Cow_Vocalizations_in_Animal_Welfare_Assessment.md)
+
+- [On the Exploration of LM-Based Soft Modular Robot Design](2024年11月01日/On_the_Exploration_of_LM-Based_Soft_Modular_Robot_Design.md)
+
+    - [翻译: 对于基于语言模型的软模块化机器人设计的探索](2024年11月01日/On_the_Exploration_of_LM-Based_Soft_Modular_Robot_Design.md)
 
 - [On the Opportunities of Large Language Models for Programming Process Data](2024年11月01日/On_the_Opportunities_of_Large_Language_Models_for_Programming_Process_Data.md)
 
@@ -2255,9 +2275,21 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: STEM-POM：评估语言模型于文档解析中的数学符号推理能力](2024年11月01日/STEM-POM_Evaluating_Language_Models_Math-Symbol_Reasoning_in_Document_Parsing.md)
 
+- [Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations](2024年11月01日/Synergistic_Interplay_of_Large_Language_Model_and_Digital_Twin_for_Autonomous_Optical_Networks_Field_Demonstrations.md)
+
+    - [翻译: 大型语言模型与数字孪生在自主光网络中的协同交互：现场演示](2024年11月01日/Synergistic_Interplay_of_Large_Language_Model_and_Digital_Twin_for_Autonomous_Optical_Networks_Field_Demonstrations.md)
+
 - [TabVer: Tabular Fact Verification with Natural Logic](2024年11月01日/TabVer_Tabular_Fact_Verification_with_Natural_Logic.md)
 
     - [翻译: TabVer：运用自然逻辑进行表格事实的验证](2024年11月01日/TabVer_Tabular_Fact_Verification_with_Natural_Logic.md)
+
+- [TaxaBind: A Unified Embedding Space for Ecological Applications](2024年11月01日/TaxaBind_A_Unified_Embedding_Space_for_Ecological_Applications.md)
+
+    - [翻译: TaxaBind：生态应用的统一嵌入空间](2024年11月01日/TaxaBind_A_Unified_Embedding_Space_for_Ecological_Applications.md)
+
+- [Text2Freq: Learning Series Patterns from Text via Frequency Domain](2024年11月01日/Text2Freq_Learning_Series_Patterns_from_Text_via_Frequency_Domain.md)
+
+    - [翻译: Text2Freq: 借由频域从文本中学习序列模式](2024年11月01日/Text2Freq_Learning_Series_Patterns_from_Text_via_Frequency_Domain.md)
 
 - [Token-level Proximal Policy Optimization for Query Generation](2024年11月01日/Token-level_Proximal_Policy_Optimization_for_Query_Generation.md)
 
