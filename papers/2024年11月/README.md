@@ -1,5 +1,31 @@
 # 2024年11月
 
+2024年11月19日
+
+- [A Review on Generative AI Models for Synthetic Medical Text, Time Series, and Longitudinal Data](2024年11月19日/A_Review_on_Generative_AI_Models_for_Synthetic_Medical_Text,_Time_Series,_and_Longitudinal_Data.md)
+
+    - [翻译: 关于合成医学文本、时间序列和纵向数据的生成式 AI 模型的综述](2024年11月19日/A_Review_on_Generative_AI_Models_for_Synthetic_Medical_Text,_Time_Series,_and_Longitudinal_Data.md)
+
+- [Instant Policy: In-Context Imitation Learning via Graph Diffusion](2024年11月19日/Instant_Policy_In-Context_Imitation_Learning_via_Graph_Diffusion.md)
+
+    - [翻译: 即时策略：借助图扩散的上下文内模仿学习](2024年11月19日/Instant_Policy_In-Context_Imitation_Learning_via_Graph_Diffusion.md)
+
+- [MLAN: Language-Based Instruction Tuning Improves Zero-Shot Generalization of Multimodal Large Language Models](2024年11月19日/MLAN_Language-Based_Instruction_Tuning_Improves_Zero-Shot_Generalization_of_Multimodal_Large_Language_Models.md)
+
+    - [翻译: mlan：基于语言的指令调优提升了多模态大型语言模型的零样本泛化性能](2024年11月19日/MLAN_Language-Based_Instruction_Tuning_Improves_Zero-Shot_Generalization_of_Multimodal_Large_Language_Models.md)
+
+- [Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?](2024年11月19日/Strengthening_Fake_News_Detection_Leveraging_SVM_and_Sophisticated_Text_Vectorization_Techniques._Defying_BERT.md)
+
+    - [翻译: 强化假新闻检测：借助 SVM 与精细的文本向量化技术。叫板 BERT？](2024年11月19日/Strengthening_Fake_News_Detection_Leveraging_SVM_and_Sophisticated_Text_Vectorization_Techniques._Defying_BERT.md)
+
+- [VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?](2024年11月19日/VidComposition_Can_MLLMs_Analyze_Compositions_in_Compiled_Videos.md)
+
+    - [翻译: VidComposition：多模态大型语言模型能否解析编译视频中的构图？](2024年11月19日/VidComposition_Can_MLLMs_Analyze_Compositions_in_Compiled_Videos.md)
+
+- [When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations](2024年11月19日/When_Backdoors_Speak_Understanding_LLM_Backdoor_Attacks_Through_Model-Generated_Explanations.md)
+
+    - [翻译: 当后门“开口”：借由模型生成的解释来洞悉 LLM 后门攻击](2024年11月19日/When_Backdoors_Speak_Understanding_LLM_Backdoor_Attacks_Through_Model-Generated_Explanations.md)
+
 2024年11月18日
 
 - [A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation](2024年11月18日/A_Code_Knowledge_Graph-Enhanced_System_for_LLM-Based_Fuzz_Driver_Generation.md)
@@ -150,10 +176,6 @@
 
     - [翻译: 《众多的力量：文化图像字幕的多智能体多模态模型》](2024年11月18日/The_Power_of_Many_Multi-Agent_Multimodal_Models_for_Cultural_Image_Captioning.md)
 
-- [Topology-aware Preemptive Scheduling for Co-located LLM Workloads](2024年11月18日/Topology-aware_Preemptive_Scheduling_for_Co-located_LLM_Workloads.md)
-
-    - [翻译: 针对共置的 LLM 工作负载的拓扑感知抢占式调度](2024年11月18日/Topology-aware_Preemptive_Scheduling_for_Co-located_LLM_Workloads.md)
-
 - [Transcending Language Boundaries: Harnessing LLMs for Low-Resource Language Translation](2024年11月18日/Transcending_Language_Boundaries_Harnessing_LLMs_for_Low-Resource_Language_Translation.md)
 
     - [翻译: 跨越语言的藩篱：借助大型语言模型实现低资源语言的翻译](2024年11月18日/Transcending_Language_Boundaries_Harnessing_LLMs_for_Low-Resource_Language_Translation.md)
@@ -200,10 +222,6 @@
 
     - [翻译: 关于视频语言基础模型的高效迁移学习](2024年11月17日/Efficient_Transfer_Learning_for_Video-language_Foundation_Models.md)
 
-- [Financial News-Driven LLM Reinforcement Learning for Portfolio Management](2024年11月17日/Financial_News-Driven_LLM_Reinforcement_Learning_for_Portfolio_Management.md)
-
-    - [翻译: 金融新闻驱动的大型语言模型强化学习在投资组合管理中的应用](2024年11月17日/Financial_News-Driven_LLM_Reinforcement_Learning_for_Portfolio_Management.md)
-
 - [ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](2024年11月17日/ForPKG-1.0_A_Framework_for_Constructing_Forestry_Policy_Knowledge_Graph_and_Application_Analysis.md)
 
     - [翻译: ForPKG-1.0：构建林业政策知识图谱及应用分析的框架](2024年11月17日/ForPKG-1.0_A_Framework_for_Constructing_Forestry_Policy_Knowledge_Graph_and_Application_Analysis.md)
@@ -244,10 +262,6 @@
 
     - [翻译: VersaTune：高效地微调多能力大型语言模型](2024年11月17日/VersaTune_Fine-Tuning_Multi-Ability_LLMs_Efficiently.md)
 
-- [VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?](2024年11月17日/VidComposition_Can_MLLMs_Analyze_Compositions_in_Compiled_Videos.md)
-
-    - [翻译: VidComposition：多模态大型语言模型能否解析编译视频中的构图？](2024年11月17日/VidComposition_Can_MLLMs_Analyze_Compositions_in_Compiled_Videos.md)
-
 - [ZeFaV: Boosting Large Language Models for Zero-shot Fact Verification](2024年11月17日/ZeFaV_Boosting_Large_Language_Models_for_Zero-shot_Fact_Verification.md)
 
     - [翻译: ZeFaV：助力大型语言模型实现零样本事实验证能力的提升](2024年11月17日/ZeFaV_Boosting_Large_Language_Models_for_Zero-shot_Fact_Verification.md)
@@ -277,10 +291,6 @@
 - [Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning](2024年11月16日/Learn_from_Downstream_and_Be_Yourself_in_Multimodal_Large_Language_Model_Fine-Tuning.md)
 
     - [翻译: 在多模态大型语言模型的微调过程中，既要从下游学习，也要保持自我特性。](2024年11月16日/Learn_from_Downstream_and_Be_Yourself_in_Multimodal_Large_Language_Model_Fine-Tuning.md)
-
-- [LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection](2024年11月16日/LLM-assisted_Physical_Invariant_Extraction_for_Cyber-Physical_Systems_Anomaly_Detection.md)
-
-    - [翻译: 用于网络物理系统异常检测的 LLM 辅助物理不变量提取](2024年11月16日/LLM-assisted_Physical_Invariant_Extraction_for_Cyber-Physical_Systems_Anomaly_Detection.md)
 
 - [Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model](2024年11月16日/Multi-Stage_Vision_Token_Dropping_Towards_Efficient_Multimodal_Large_Language_Model.md)
 
@@ -335,10 +345,6 @@
 - [Causal Time-Series Synchronization for Multi-Dimensional Forecasting](2024年11月15日/Causal_Time-Series_Synchronization_for_Multi-Dimensional_Forecasting.md)
 
     - [翻译: 用于多维预测的因果时间序列同步](2024年11月15日/Causal_Time-Series_Synchronization_for_Multi-Dimensional_Forecasting.md)
-
-- [CMATH: Cross-Modality Augmented Transformer with Hierarchical Variational Distillation for Multimodal Emotion Recognition in Conversation](2024年11月15日/CMATH_Cross-Modality_Augmented_Transformer_with_Hierarchical_Variational_Distillation_for_Multimodal_Emotion_Recognition_in_Conversation.md)
-
-    - [翻译: CMATH：用于对话中多模态情感识别的具备分层变分蒸馏的跨模态增强 Transformer](2024年11月15日/CMATH_Cross-Modality_Augmented_Transformer_with_Hierarchical_Variational_Distillation_for_Multimodal_Emotion_Recognition_in_Conversation.md)
 
 - [Compound-QA: A Benchmark for Evaluating LLMs on Compound Questions](2024年11月15日/Compound-QA_A_Benchmark_for_Evaluating_LLMs_on_Compound_Questions.md)
 
@@ -439,10 +445,6 @@
 - [Mitigating Sycophancy in Decoder-Only Transformer Architectures: Synthetic Data Intervention](2024年11月15日/Mitigating_Sycophancy_in_Decoder-Only_Transformer_Architectures_Synthetic_Data_Intervention.md)
 
     - [翻译: 减轻仅解码器的 Transformer 架构中的谄媚问题：采用合成数据进行干预](2024年11月15日/Mitigating_Sycophancy_in_Decoder-Only_Transformer_Architectures_Synthetic_Data_Intervention.md)
-
-- [mlan: language-based instruction tuning improves zero-shot generalization of multimodal large language models](2024年11月15日/mlan_language-based_instruction_tuning_improves_zero-shot_generalization_of_multimodal_large_language_models.md)
-
-    - [翻译: mlan：基于语言的指令调优提升了多模态大型语言模型的零样本泛化性能](2024年11月15日/mlan_language-based_instruction_tuning_improves_zero-shot_generalization_of_multimodal_large_language_models.md)
 
 - [Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting](2024年11月15日/Modification_Takes_Courage_Seamless_Image_Stitching_via_Reference-Driven_Inpainting.md)
 
@@ -850,10 +852,6 @@
 
     - [翻译: 通过大型语言模型的上下文知识检索来改进字素到音素的转换](2024年11月12日/Improving_Grapheme-to-Phoneme_Conversion_through_In-Context_Knowledge_Retrieval_with_Large_Language_Models.md)
 
-- [Is Cognition consistent with Perception? Assessing and Mitigating Multimodal Knowledge Conflicts in Document Understanding](2024年11月12日/Is_Cognition_consistent_with_Perception_Assessing_and_Mitigating_Multimodal_Knowledge_Conflicts_in_Document_Understanding.md)
-
-    - [翻译: 认知与感知是否一致？评估和减轻文档理解中的多模态知识冲突](2024年11月12日/Is_Cognition_consistent_with_Perception_Assessing_and_Mitigating_Multimodal_Knowledge_Conflicts_in_Document_Understanding.md)
-
 - [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](2024年11月12日/JanusFlow_Harmonizing_Autoregression_and_Rectified_Flow_for_Unified_Multimodal_Understanding_and_Generation.md)
 
     - [翻译: JanusFlow：协调自回归和整流流以实现统一的多模态理解和生成](2024年11月12日/JanusFlow_Harmonizing_Autoregression_and_Rectified_Flow_for_Unified_Multimodal_Understanding_and_Generation.md)
@@ -1013,10 +1011,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 在白盒语言模型的有监督微调中的主动隐私审计](2024年11月11日/On_Active_Privacy_Auditing_in_Supervised_Fine-tuning_for_White-Box_Language_Models.md)
 
-- [Persuasion with Large Language Models: a Survey](2024年11月11日/Persuasion_with_Large_Language_Models_a_Survey.md)
-
-    - [翻译: 大型语言模型的说服力：一项调查](2024年11月11日/Persuasion_with_Large_Language_Models_a_Survey.md)
-
 - [Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](2024年11月11日/Rapid_Response_Mitigating_LLM_Jailbreaks_with_a_Few_Examples.md)
 
     - [翻译: 快速响应：以几个实例减轻 LLM 的越狱问题](2024年11月11日/Rapid_Response_Mitigating_LLM_Jailbreaks_with_a_Few_Examples.md)
@@ -1086,10 +1080,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [CTC-Assisted LLM-Based Contextual ASR](2024年11月10日/CTC-Assisted_LLM-Based_Contextual_ASR.md)
 
     - [翻译: 基于 CTC 辅助的基于大语言模型的上下文语音识别](2024年11月10日/CTC-Assisted_LLM-Based_Contextual_ASR.md)
-
-- [EcoServe: Maximizing Multi-Resource Utilization with SLO Guarantees in LLM Serving](2024年11月10日/EcoServe_Maximizing_Multi-Resource_Utilization_with_SLO_Guarantees_in_LLM_Serving.md)
-
-    - [翻译: EcoServe：在 LLM 服务中以 SLO 保证实现多资源利用率最大化](2024年11月10日/EcoServe_Maximizing_Multi-Resource_Utilization_with_SLO_Guarantees_in_LLM_Serving.md)
 
 - [Epistemic Integrity in Large Language Models](2024年11月10日/Epistemic_Integrity_in_Large_Language_Models.md)
 
@@ -1246,10 +1236,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Enhancing Visual Classification using Comparative Descriptors](2024年11月08日/Enhancing_Visual_Classification_using_Comparative_Descriptors.md)
 
     - [翻译: 使用比较描述符增强视觉分类](2024年11月08日/Enhancing_Visual_Classification_using_Comparative_Descriptors.md)
-
-- [EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
-
-    - [翻译: EUREKHA：增强用于地下论坛中关键黑客识别的用户表示](2024年11月08日/EUREKHA_Enhancing_User_Representation_for_Key_Hackers_Identification_in_Underground_Forums.md)
 
 - [Fast Stochastic Subspace Identification of Densely Instrumented Bridges Using Randomized SVD](2024年11月08日/Fast_Stochastic_Subspace_Identification_of_Densely_Instrumented_Bridges_Using_Randomized_SVD.md)
 
@@ -1503,10 +1489,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: M3SciQA：用于评估基础模型的多模态多文档科学问答基准](2024年11月06日/M3SciQA_A_Multi-Modal_Multi-Document_Scientific_QA_Benchmark_for_Evaluating_Foundation_Models.md)
 
-- [Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?](2024年11月06日/Medical_Adaptation_of_Large_Language_and_Vision-Language_Models_Are_We_Making_Progress.md)
-
-    - [翻译: 大型语言和视觉语言模型的医学适应：我们正在取得进展吗？](2024年11月06日/Medical_Adaptation_of_Large_Language_and_Vision-Language_Models_Are_We_Making_Progress.md)
-
 - [Multi-Modal Intelligent Channel Modeling: A New Modeling Paradigm via Synesthesia of Machines](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
 
     - [翻译: 多模态智能信道建模：通过机器的联觉的一种新的建模范例](2024年11月06日/Multi-Modal_Intelligent_Channel_Modeling_A_New_Modeling_Paradigm_via_Synesthesia_of_Machines.md)
@@ -1682,10 +1664,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Extracting Unlearned Information from LLMs with Activation Steering](2024年11月04日/Extracting_Unlearned_Information_from_LLMs_with_Activation_Steering.md)
 
     - [翻译: 通过激活引导从大型语言模型中提取未学习的信息](2024年11月04日/Extracting_Unlearned_Information_from_LLMs_with_Activation_Steering.md)
-
-- [FactTest: Factuality Testing in Large Language Models with Statistical Guarantees](2024年11月04日/FactTest_Factuality_Testing_in_Large_Language_Models_with_Statistical_Guarantees.md)
-
-    - [翻译: FactTest：具有统计保证的大型语言模型中的真实性测试](2024年11月04日/FactTest_Factuality_Testing_in_Large_Language_Models_with_Statistical_Guarantees.md)
 
 - [Fair In-Context Learning via Latent Concept Variables](2024年11月04日/Fair_In-Context_Learning_via_Latent_Concept_Variables.md)
 
