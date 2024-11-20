@@ -740,10 +740,6 @@
 
     - [翻译: LLM2CLIP：强大的语言模型解锁更丰富的视觉表示](2024年11月13日/LLM2CLIP_Powerful_Language_Model_Unlocks_Richer_Visual_Representation.md)
 
-- [LogLLM: Log-based Anomaly Detection Using Large Language Models](2024年11月13日/LogLLM_Log-based_Anomaly_Detection_Using_Large_Language_Models.md)
-
-    - [翻译: LogLLM：使用大型语言模型进行基于日志的异常检测](2024年11月13日/LogLLM_Log-based_Anomaly_Detection_Using_Large_Language_Models.md)
-
 - [Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware Expert Selection](2024年11月13日/Lynx_Enabling_Efficient_MoE_Inference_through_Dynamic_Batch-Aware_Expert_Selection.md)
 
     - [翻译: Lynx：借由动态批量感知的专家选择达成高效的 MoE 推理](2024年11月13日/Lynx_Enabling_Efficient_MoE_Inference_through_Dynamic_Batch-Aware_Expert_Selection.md)
@@ -861,10 +857,6 @@
 - [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](2024年11月12日/JanusFlow_Harmonizing_Autoregression_and_Rectified_Flow_for_Unified_Multimodal_Understanding_and_Generation.md)
 
     - [翻译: JanusFlow：协调自回归和整流流以实现统一的多模态理解和生成](2024年11月12日/JanusFlow_Harmonizing_Autoregression_and_Rectified_Flow_for_Unified_Multimodal_Understanding_and_Generation.md)
-
-- [Knowledge Bases in Support of Large Language Models for Processing Web News](2024年11月12日/Knowledge_Bases_in_Support_of_Large_Language_Models_for_Processing_Web_News.md)
-
-    - [翻译: 知识基础支持用于处理网络新闻的大型语言模型](2024年11月12日/Knowledge_Bases_in_Support_of_Large_Language_Models_for_Processing_Web_News.md)
 
 - [Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing](2024年11月12日/Latent_Space_Disentanglement_in_Diffusion_Transformers_Enables_Precise_Zero-shot_Semantic_Editing.md)
 
@@ -1898,10 +1890,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models](2024年11月02日/Dictionary_Insertion_Prompting_for_Multilingual_Reasoning_on_Multilingual_Large_Language_Models.md)
 
     - [翻译: 字典插入提示应用于多语言大型语言模型的多语言推理](2024年11月02日/Dictionary_Insertion_Prompting_for_Multilingual_Reasoning_on_Multilingual_Large_Language_Models.md)
-
-- [Diversidade linguística e inclusão digital: desafios para uma ia brasileira](2024年11月02日/Diversidade_linguística_e_inclusão_digital_desafios_para_uma_ia_brasileira.md)
-
-    - [翻译: 语言的多样性与数字的包容性：巴西人工智能所面临的挑战](2024年11月02日/Diversidade_linguística_e_inclusão_digital_desafios_para_uma_ia_brasileira.md)
 
 - [Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision](2024年11月02日/Efficient_Deep_Learning_Infrastructures_for_Embedded_Computing_Systems_A_Comprehensive_Survey_and_Future_Envision.md)
 
