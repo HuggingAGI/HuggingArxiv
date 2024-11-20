@@ -426,10 +426,6 @@
 
     - [翻译: ForPKG-1.0：构建林业政策知识图谱及应用分析的框架](2024年11月17日/ForPKG-1.0_A_Framework_for_Constructing_Forestry_Policy_Knowledge_Graph_and_Application_Analysis.md)
 
-- [Framework for developing and evaluating ethical collaboration between expert and machine](2024年11月17日/Framework_for_developing_and_evaluating_ethical_collaboration_between_expert_and_machine.md)
-
-    - [翻译: 开发和评估专家与机器间道德协作的框架](2024年11月17日/Framework_for_developing_and_evaluating_ethical_collaboration_between_expert_and_machine.md)
-
 - [JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit](2024年11月17日/JailbreakLens_Interpreting_Jailbreak_Mechanism_in_the_Lens_of_Representation_and_Circuit.md)
 
     - [翻译: JailbreakLens：从表示与电路的视角阐释越狱机制](2024年11月17日/JailbreakLens_Interpreting_Jailbreak_Mechanism_in_the_Lens_of_Representation_and_Circuit.md)
@@ -1103,10 +1099,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
 2024年11月11日
 
-- [A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19](2024年11月11日/A_Domain-Agnostic_Neurosymbolic_Approach_for_Big_Social_Data_Analysis_Evaluating_Mental_Health_Sentiment_on_Social_Media_during_COVID-19.md)
-
-    - [翻译: 一种用于大社会数据分析的领域无关神经符号方法：评估 COVID-19 期间社交媒体上的心理健康情绪](2024年11月11日/A_Domain-Agnostic_Neurosymbolic_Approach_for_Big_Social_Data_Analysis_Evaluating_Mental_Health_Sentiment_on_Social_Media_during_COVID-19.md)
-
 - [A Text Classification Model Combining Adversarial Training with Pre-trained Language Model and neural networks: A Case Study on Telecom Fraud Incident Texts](2024年11月11日/A_Text_Classification_Model_Combining_Adversarial_Training_with_Pre-trained_Language_Model_and_neural_networks_A_Case_Study_on_Telecom_Fraud_Incident_Texts.md)
 
     - [翻译: 一个将对抗训练与预训练语言模型和神经网络相结合的文本分类模型：关于电信诈骗事件文本的案例研究](2024年11月11日/A_Text_Classification_Model_Combining_Adversarial_Training_with_Pre-trained_Language_Model_and_neural_networks_A_Case_Study_on_Telecom_Fraud_Incident_Texts.md)
@@ -1296,10 +1288,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data](2024年11月10日/Understanding_Scaling_Laws_with_Statistical_and_Approximation_Theory_for_Transformer_Neural_Networks_on_Intrinsically_Low-dimensional_Data.md)
 
     - [翻译: 用统计和近似理论理解关于内在低维数据的 Transformer 神经网络的缩放定律](2024年11月10日/Understanding_Scaling_Laws_with_Statistical_and_Approximation_Theory_for_Transformer_Neural_Networks_on_Intrinsically_Low-dimensional_Data.md)
-
-- [vTune: Verifiable Fine-Tuning for LLMs Through Backdooring](2024年11月10日/vTune_Verifiable_Fine-Tuning_for_LLMs_Through_Backdooring.md)
-
-    - [翻译: vTune：通过后门实现大型语言模型的可验证微调](2024年11月10日/vTune_Verifiable_Fine-Tuning_for_LLMs_Through_Backdooring.md)
 
 - [WDMoE: Wireless Distributed Mixture of Experts for Large Language Models](2024年11月10日/WDMoE_Wireless_Distributed_Mixture_of_Experts_for_Large_Language_Models.md)
 
@@ -1691,10 +1679,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 分类正确用于视觉语言预训练](2024年11月05日/Classification_Done_Right_for_Vision-Language_Pre-Training.md)
 
-- [CPEG: Leveraging Consistency Policy with Consensus Guidance for Multi-agent Exploration](2024年11月05日/CPEG_Leveraging_Consistency_Policy_with_Consensus_Guidance_for_Multi-agent_Exploration.md)
-
-    - [翻译: CPEG：利用具有共识指导的一致性策略进行多智能体探索](2024年11月05日/CPEG_Leveraging_Consistency_Policy_with_Consensus_Guidance_for_Multi-agent_Exploration.md)
-
 - [Deploying Multi-task Online Server with Large Language Model](2024年11月05日/Deploying_Multi-task_Online_Server_with_Large_Language_Model.md)
 
     - [翻译: 部署具有大型语言模型的多任务在线服务器](2024年11月05日/Deploying_Multi-task_Online_Server_with_Large_Language_Model.md)
@@ -1971,10 +1955,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 《思考前与后：借助大型语言模型实现有效的向后规划》](2024年11月03日/Thinking_Forward_and_Backward_Effective_Backward_Planning_with_Large_Language_Models.md)
 
-- [Towards Pedagogical LLMs with Supervised Fine Tuning for Computing Education](2024年11月03日/Towards_Pedagogical_LLMs_with_Supervised_Fine_Tuning_for_Computing_Education.md)
-
-    - [翻译: 朝着用于计算教育、具备监督微调功能的教学型大型语言模型迈进](2024年11月03日/Towards_Pedagogical_LLMs_with_Supervised_Fine_Tuning_for_Computing_Education.md)
-
 - [UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](2024年11月03日/UniGuard_Towards_Universal_Safety_Guardrails_for_Jailbreak_Attacks_on_Multimodal_Large_Language_Models.md)
 
     - [翻译: UniGuard：致力于为多模态大型语言模型的越狱攻击打造通用安全护栏](2024年11月03日/UniGuard_Towards_Universal_Safety_Guardrails_for_Jailbreak_Attacks_on_Multimodal_Large_Language_Models.md)
@@ -2119,6 +2099,10 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: CLIP-RT：从自然语言监督中习得语言条件下的机器人策略](2024年11月01日/CLIP-RT_Learning_Language-Conditioned_Robotic_Policies_from_Natural_Language_Supervision.md)
 
+- [CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation](2024年11月01日/CORAG_A_Cost-Constrained_Retrieval_Optimization_System_for_Retrieval-Augmented_Generation.md)
+
+    - [翻译: CORAG：一个用于检索增强生成的受成本限制的检索优化系统](2024年11月01日/CORAG_A_Cost-Constrained_Retrieval_Optimization_System_for_Retrieval-Augmented_Generation.md)
+
 - [Defense Against Prompt Injection Attack by Leveraging Attack Techniques](2024年11月01日/Defense_Against_Prompt_Injection_Attack_by_Leveraging_Attack_Techniques.md)
 
     - [翻译: 借助攻击技术抵御提示注入攻击](2024年11月01日/Defense_Against_Prompt_Injection_Attack_by_Leveraging_Attack_Techniques.md)
@@ -2155,13 +2139,25 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: FedDTPT：用于黑箱大型语言模型的联邦式离散且可转移的提示调优](2024年11月01日/FedDTPT_Federated_Discrete_and_Transferable_Prompt_Tuning_for_Black-Box_Large_Language_Models.md)
 
+- [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](2024年11月01日/Freeze-Omni_A_Smart_and_Low_Latency_Speech-to-speech_Dialogue_Model_with_Frozen_LLM.md)
+
+    - [翻译: Freeze-Omni：一款具备冻结 LLM 的智能且低延迟的语音到语音对话模型](2024年11月01日/Freeze-Omni_A_Smart_and_Low_Latency_Speech-to-speech_Dialogue_Model_with_Frozen_LLM.md)
+
 - [GameGen-X: Interactive Open-world Game Video Generation](2024年11月01日/GameGen-X_Interactive_Open-world_Game_Video_Generation.md)
 
     - [翻译: GameGen-X：交互式开放世界游戏视频的生成](2024年11月01日/GameGen-X_Interactive_Open-world_Game_Video_Generation.md)
 
+- [Generative Emotion Cause Explanation in Multimodal Conversations](2024年11月01日/Generative_Emotion_Cause_Explanation_in_Multimodal_Conversations.md)
+
+    - [翻译: 多模态对话中的生成式情感原因阐释](2024年11月01日/Generative_Emotion_Cause_Explanation_in_Multimodal_Conversations.md)
+
 - [GRS-QA -- Graph Reasoning-Structured Question Answering Dataset](2024年11月01日/GRS-QA_--_Graph_Reasoning-Structured_Question_Answering_Dataset.md)
 
     - [翻译: GRS-QA —— 图推理结构化问答的数据集](2024年11月01日/GRS-QA_--_Graph_Reasoning-Structured_Question_Answering_Dataset.md)
+
+- [How Effective Is Self-Consistency for Long-Context Problems?](2024年11月01日/How_Effective_Is_Self-Consistency_for_Long-Context_Problems.md)
+
+    - [翻译: 长上下文问题中，自我一致性的效果究竟如何？](2024年11月01日/How_Effective_Is_Self-Consistency_for_Long-Context_Problems.md)
 
 - [Identifying Implicit Social Biases in Vision-Language Models](2024年11月01日/Identifying_Implicit_Social_Biases_in_Vision-Language_Models.md)
 
@@ -2227,9 +2223,17 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: 视觉大型语言模型推理的相图：基于图像与指令交互的视角](2024年11月01日/Phase_Diagram_of_Vision_Large_Language_Models_Inference_A_Perspective_from_Interaction_across_Image_and_Instruction.md)
 
+- [Plentiful Jailbreaks with String Compositions](2024年11月01日/Plentiful_Jailbreaks_with_String_Compositions.md)
+
+    - [翻译: 丰富的字符串组合式越狱](2024年11月01日/Plentiful_Jailbreaks_with_String_Compositions.md)
+
 - [Privacy Risks of Speculative Decoding in Large Language Models](2024年11月01日/Privacy_Risks_of_Speculative_Decoding_in_Large_Language_Models.md)
 
     - [翻译: 大型语言模型里推测解码存在的隐私风险](2024年11月01日/Privacy_Risks_of_Speculative_Decoding_in_Large_Language_Models.md)
+
+- [ReSpAct: Harmonizing Reasoning, Speaking, and Acting Towards Building Large Language Model-Based Conversational AI Agents](2024年11月01日/ReSpAct_Harmonizing_Reasoning,_Speaking,_and_Acting_Towards_Building_Large_Language_Model-Based_Conversational_AI_Agents.md)
+
+    - [翻译: ReSpAct：致力于协调推理、表达和行动，以构建基于大型语言模型的会话式 AI 代理](2024年11月01日/ReSpAct_Harmonizing_Reasoning,_Speaking,_and_Acting_Towards_Building_Large_Language_Model-Based_Conversational_AI_Agents.md)
 
 - [Retrieval-enriched zero-shot image classification in low-resource domains](2024年11月01日/Retrieval-enriched_zero-shot_image_classification_in_low-resource_domains.md)
 
@@ -2239,9 +2243,21 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 
     - [翻译: ReverseNER：一个用于大型语言模型零样本命名实体识别的自生成示例驱动式框架](2024年11月01日/ReverseNER_A_Self-Generated_Example-Driven_Framework_for_Zero-Shot_Named_Entity_Recognition_with_Large_Language_Models.md)
 
+- [Rule Based Rewards for Language Model Safety](2024年11月01日/Rule_Based_Rewards_for_Language_Model_Safety.md)
+
+    - [翻译: 语言模型安全的基于规则的奖励](2024年11月01日/Rule_Based_Rewards_for_Language_Model_Safety.md)
+
 - [Self-Evolved Reward Learning for LLMs](2024年11月01日/Self-Evolved_Reward_Learning_for_LLMs.md)
 
     - [翻译: 针对大型语言模型的自我进化奖励学习](2024年11月01日/Self-Evolved_Reward_Learning_for_LLMs.md)
+
+- [STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document Parsing](2024年11月01日/STEM-POM_Evaluating_Language_Models_Math-Symbol_Reasoning_in_Document_Parsing.md)
+
+    - [翻译: STEM-POM：评估语言模型于文档解析中的数学符号推理能力](2024年11月01日/STEM-POM_Evaluating_Language_Models_Math-Symbol_Reasoning_in_Document_Parsing.md)
+
+- [TabVer: Tabular Fact Verification with Natural Logic](2024年11月01日/TabVer_Tabular_Fact_Verification_with_Natural_Logic.md)
+
+    - [翻译: TabVer：运用自然逻辑进行表格事实的验证](2024年11月01日/TabVer_Tabular_Fact_Verification_with_Natural_Logic.md)
 
 - [Token-level Proximal Policy Optimization for Query Generation](2024年11月01日/Token-level_Proximal_Policy_Optimization_for_Query_Generation.md)
 
@@ -2258,3 +2274,11 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [Towards Multi-Source Retrieval-Augmented Generation via Synergizing Reasoning and Preference-Driven Retrieval](2024年11月01日/Towards_Multi-Source_Retrieval-Augmented_Generation_via_Synergizing_Reasoning_and_Preference-Driven_Retrieval.md)
 
     - [翻译: 旨在通过协同推理与偏好驱动检索来达成多源检索增强生成](2024年11月01日/Towards_Multi-Source_Retrieval-Augmented_Generation_via_Synergizing_Reasoning_and_Preference-Driven_Retrieval.md)
+
+- [Unlocking the Archives: Using Large Language Models to Transcribe Handwritten Historical Documents](2024年11月01日/Unlocking_the_Archives_Using_Large_Language_Models_to_Transcribe_Handwritten_Historical_Documents.md)
+
+    - [翻译: 开启档案宝库：借助大型语言模型转录手写历史文献](2024年11月01日/Unlocking_the_Archives_Using_Large_Language_Models_to_Transcribe_Handwritten_Historical_Documents.md)
+
+- [V-LoRA: An Efficient and Flexible System Boosts Vision Applications with LoRA LMM](2024年11月01日/V-LoRA_An_Efficient_and_Flexible_System_Boosts_Vision_Applications_with_LoRA_LMM.md)
+
+    - [翻译: V-LoRA：一个高效且灵活的系统借助 LoRA LMM 推动视觉应用的发展](2024年11月01日/V-LoRA_An_Efficient_and_Flexible_System_Boosts_Vision_Applications_with_LoRA_LMM.md)
