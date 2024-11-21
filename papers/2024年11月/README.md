@@ -500,10 +500,6 @@
 
     - [翻译: 多阶段视觉标记丢弃：致力于打造高效的多模态大型语言模型](2024年11月16日/Multi-Stage_Vision_Token_Dropping_Towards_Efficient_Multimodal_Large_Language_Model.md)
 
-- [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](2024年11月16日/Understanding_Multimodal_LLMs_the_Mechanistic_Interpretability_of_Llava_in_Visual_Question_Answering.md)
-
-    - [翻译: 理解多模态 LLMs：Llava 在视觉问答中的机制可解释性](2024年11月16日/Understanding_Multimodal_LLMs_the_Mechanistic_Interpretability_of_Llava_in_Visual_Question_Answering.md)
-
 - [ViBe: A Text-to-Video Benchmark for Evaluating Hallucination in Large Multimodal Models](2024年11月16日/ViBe_A_Text-to-Video_Benchmark_for_Evaluating_Hallucination_in_Large_Multimodal_Models.md)
 
     - [翻译: ViBe：用于评估大型多模态模型幻觉情况的文本到视频基准](2024年11月16日/ViBe_A_Text-to-Video_Benchmark_for_Evaluating_Hallucination_in_Large_Multimodal_Models.md)
@@ -1848,10 +1844,6 @@ eq$ 准确性：揭开大型语言模型的冗长性补偿行为的神秘面纱]
 - [QCG-Rerank: Chunks Graph Rerank with Query Expansion in Retrieval-Augmented LLMs for Tourism Domain](2024年11月04日/QCG-Rerank_Chunks_Graph_Rerank_with_Query_Expansion_in_Retrieval-Augmented_LLMs_for_Tourism_Domain.md)
 
     - [翻译: QCG-Rerank：旅游领域中在检索增强型大型语言模型里采用查询扩展的块图重排序](2024年11月04日/QCG-Rerank_Chunks_Graph_Rerank_with_Query_Expansion_in_Retrieval-Augmented_LLMs_for_Tourism_Domain.md)
-
-- [RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation](2024年11月04日/RT-Affordance_Affordances_are_Versatile_Intermediate_Representations_for_Robot_Manipulation.md)
-
-    - [翻译: RT-Affordance：可供性是用于机器人操作的通用中间表示。](2024年11月04日/RT-Affordance_Affordances_are_Versatile_Intermediate_Representations_for_Robot_Manipulation.md)
 
 - [Scalable Efficient Training of Large Language Models with Low-dimensional Projected Attention](2024年11月04日/Scalable_Efficient_Training_of_Large_Language_Models_with_Low-dimensional_Projected_Attention.md)
 
