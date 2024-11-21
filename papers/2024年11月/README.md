@@ -228,10 +228,6 @@
 
     - [翻译: 在生产环境中由 LLM 驱动的对话系统的多轮意图分类里，实现准确性与效率的平衡](2024年11月19日/Balancing_Accuracy_and_Efficiency_in_Multi-Turn_Intent_Classification_for_LLM-Powered_Dialog_Systems_in_Production.md)
 
-- [CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs](2024年11月19日/CATCH_Complementary_Adaptive_Token-level_Contrastive_Decoding_to_Mitigate_Hallucinations_in_LVLMs.md)
-
-    - [翻译: CATCH：通过互补自适应令牌级对比解码来减轻 LVLMs 中的幻觉](2024年11月19日/CATCH_Complementary_Adaptive_Token-level_Contrastive_Decoding_to_Mitigate_Hallucinations_in_LVLMs.md)
-
 - [CodeXEmbed: A Generalist Embedding Model Family for Multiligual and Multi-task Code Retrieval](2024年11月19日/CodeXEmbed_A_Generalist_Embedding_Model_Family_for_Multiligual_and_Multi-task_Code_Retrieval.md)
 
     - [翻译: CodeXEmbed：适用于多语言和多任务代码检索的通用嵌入模型族](2024年11月19日/CodeXEmbed_A_Generalist_Embedding_Model_Family_for_Multiligual_and_Multi-task_Code_Retrieval.md)
@@ -1222,10 +1218,6 @@
 
     - [翻译: 大型语言模型是否有先见之明？使用每日新闻作为神谕进行持续评估](2024年11月12日/Are_LLMs_Prescient_A_Continuous_Evaluation_using_Daily_News_as_the_Oracle.md)
 
-- [Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
-
-    - [翻译: 具有资源受限设备的微型 Transformer 的高效联邦微调](2024年11月12日/Efficient_Federated_Finetuning_of_Tiny_Transformers_with_Resource-Constrained_Devices.md)
-
 - [Entropy Controllable Direct Preference Optimization](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
 
     - [翻译: 熵可控直接偏好优化](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
@@ -1371,10 +1363,6 @@
 - [Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data](2024年11月11日/Multi-Modal_Forecaster_Jointly_Predicting_Time_Series_and_Textual_Data.md)
 
     - [翻译: 多模态预测器：联合预测时间序列和文本数据](2024年11月11日/Multi-Modal_Forecaster_Jointly_Predicting_Time_Series_and_Textual_Data.md)
-
-- [Multimodal Structure-Aware Quantum Data Processing](2024年11月11日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
-
-    - [翻译: 多模态结构感知量子数据处理](2024年11月11日/Multimodal_Structure-Aware_Quantum_Data_Processing.md)
 
 - [Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning](2024年11月11日/Multi-Stage_Knowledge_Integration_of_Vision-Language_Models_for_Continual_Learning.md)
 
@@ -1794,10 +1782,6 @@
 
     - [翻译: 变压器如何解决命题逻辑问题：一种机制分析](2024年11月06日/How_Transformers_Solve_Propositional_Logic_Problems_A_Mechanistic_Analysis.md)
 
-- [Large Generative Model-assisted Talking-face Semantic Communication System](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
-
-    - [翻译: 大型生成模型辅助的说话人脸语义通信系统](2024年11月06日/Large_Generative_Model-assisted_Talking-face_Semantic_Communication_System.md)
-
 - [LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration](2024年11月06日/LEGO-GraphRAG_Modularizing_Graph-based_Retrieval-Augmented_Generation_for_Design_Space_Exploration.md)
 
     - [翻译: LEGO-GraphRAG：用于设计空间探索的基于图的检索增强生成之模块化](2024年11月06日/LEGO-GraphRAG_Modularizing_Graph-based_Retrieval-Augmented_Generation_for_Design_Space_Exploration.md)
@@ -2017,10 +2001,6 @@
 - [Multimodal Commonsense Knowledge Distillation for Visual Question Answering](2024年11月04日/Multimodal_Commonsense_Knowledge_Distillation_for_Visual_Question_Answering.md)
 
     - [翻译: 用于视觉问答的多模态常识知识蒸馏](2024年11月04日/Multimodal_Commonsense_Knowledge_Distillation_for_Visual_Question_Answering.md)
-
-- [Multi-modal deformable image registration using untrained neural networks](2024年11月04日/Multi-modal_deformable_image_registration_using_untrained_neural_networks.md)
-
-    - [翻译: 使用未训练的神经网络进行多模态可变形图像配准](2024年11月04日/Multi-modal_deformable_image_registration_using_untrained_neural_networks.md)
 
 - [Multi-Transmotion: Pre-trained Model for Human Motion Prediction](2024年11月04日/Multi-Transmotion_Pre-trained_Model_for_Human_Motion_Prediction.md)
 

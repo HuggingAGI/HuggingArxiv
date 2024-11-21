@@ -70,10 +70,6 @@
 
     - [翻译: Context-Aware Testing：大型语言模型模型测试的全新范式](2024年10月31日/Context-Aware_Testing_A_New_Paradigm_for_Model_Testing_with_Large_Language_Models.md)
 
-- [Deep Learning with HM-VGG: AI Strategies for Multi-modal Image Analysis](2024年10月31日/Deep_Learning_with_HM-VGG_AI_Strategies_for_Multi-modal_Image_Analysis.md)
-
-    - [翻译: 借助 HM-VGG 的深度学习：多模态图像分析的 AI 策略](2024年10月31日/Deep_Learning_with_HM-VGG_AI_Strategies_for_Multi-modal_Image_Analysis.md)
-
 - [Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs](2024年10月31日/Desert_Camels_and_Oil_Sheikhs_Arab-Centric_Red_Teaming_of_Frontier_LLMs.md)
 
     - [翻译: 《沙漠骆驼与石油酋长：围绕阿拉伯的前沿大型语言模型红队策略》](2024年10月31日/Desert_Camels_and_Oil_Sheikhs_Arab-Centric_Red_Teaming_of_Frontier_LLMs.md)
@@ -189,10 +185,6 @@
 - ['No' Matters: Out-of-Distribution Detection in Multimodality Long Dialogue](2024年10月31日/'No'_Matters_Out-of-Distribution_Detection_in_Multimodality_Long_Dialogue.md)
 
     - [翻译: “‘不’很关键”：多模态长对话中的分布外检测](2024年10月31日/'No'_Matters_Out-of-Distribution_Detection_in_Multimodality_Long_Dialogue.md)
-
-- [OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models](2024年10月31日/OCEAN_Offline_Chain-of-thought_Evaluation_and_Alignment_in_Large_Language_Models.md)
-
-    - [翻译: OCEAN：针对大型语言模型的离线思维链评估与对齐](2024年10月31日/OCEAN_Offline_Chain-of-thought_Evaluation_and_Alignment_in_Large_Language_Models.md)
 
 - [On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection](2024年10月31日/On_Learning_Multi-Modal_Forgery_Representation_for_Diffusion_Generated_Video_Detection.md)
 
@@ -336,30 +328,166 @@
 
 2024年10月30日
 
+- [ALISE: Accelerating Large Language Model Serving with Speculative Scheduling](2024年10月30日/ALISE_Accelerating_Large_Language_Model_Serving_with_Speculative_Scheduling.md)
+
+    - [翻译: ALISE：借助推测性调度加快大型语言模型服务](2024年10月30日/ALISE_Accelerating_Large_Language_Model_Serving_with_Speculative_Scheduling.md)
+
 - [A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment](2024年10月30日/A_little_less_conversation,_a_little_more_action,_please_Investigating_the_physical_common-sense_of_LLMs_in_a_3D_embodied_environment.md)
 
     - [翻译: 拜托，少些对话，多些行动：探究 3D 具身环境中 LLMs 的物理常识](2024年10月30日/A_little_less_conversation,_a_little_more_action,_please_Investigating_the_physical_common-sense_of_LLMs_in_a_3D_embodied_environment.md)
+
+- [A Simple and Effective Temporal Grounding Pipeline for Basketball Broadcast Footage](2024年10月30日/A_Simple_and_Effective_Temporal_Grounding_Pipeline_for_Basketball_Broadcast_Footage.md)
+
+    - [翻译: 一个针对篮球广播镜头的简单又有效的时间定位流程](2024年10月30日/A_Simple_and_Effective_Temporal_Grounding_Pipeline_for_Basketball_Broadcast_Footage.md)
 
 - [Automating Quantum Software Maintenance: Flakiness Detection and Root Cause Analysis](2024年10月30日/Automating_Quantum_Software_Maintenance_Flakiness_Detection_and_Root_Cause_Analysis.md)
 
     - [翻译: 实现量子软件维护的自动化：脆弱性检测与根本原因剖析](2024年10月30日/Automating_Quantum_Software_Maintenance_Flakiness_Detection_and_Root_Cause_Analysis.md)
 
+- [Carrot and Stick: Eliciting Comparison Data and Beyond](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
+
+    - [翻译: “胡萝卜加大棒”：获取比较数据及更多](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
+
+- [ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems](2024年10月30日/ChunkRAG_Novel_LLM-Chunk_Filtering_Method_for_RAG_Systems.md)
+
+    - [翻译: ChunkRAG：RAG 系统的全新 LLM-Chunk 过滤之法](2024年10月30日/ChunkRAG_Novel_LLM-Chunk_Filtering_Method_for_RAG_Systems.md)
+
+- [Commit: Online Groups with Participation Commitments](2024年10月30日/Commit_Online_Groups_with_Participation_Commitments.md)
+
+    - [翻译: 提交：带有参与承诺的在线群组](2024年10月30日/Commit_Online_Groups_with_Participation_Commitments.md)
+
+- [CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation](2024年10月30日/CORAL_Benchmarking_Multi-turn_Conversational_Retrieval-Augmentation_Generation.md)
+
+    - [翻译: CORAL: 为多轮对话的检索增强生成设立基准](2024年10月30日/CORAL_Benchmarking_Multi-turn_Conversational_Retrieval-Augmentation_Generation.md)
+
+- [Deep Learning and Machine Learning -- Natural Language Processing: From Theory to Application](2024年10月30日/Deep_Learning_and_Machine_Learning_--_Natural_Language_Processing_From_Theory_to_Application.md)
+
+    - [翻译: 深度学习与机器学习 -- 自然语言处理：由理论走向应用](2024年10月30日/Deep_Learning_and_Machine_Learning_--_Natural_Language_Processing_From_Theory_to_Application.md)
+
+- [Dynamic Strategy Planning for Efficient Question Answering with Large Language Models](2024年10月30日/Dynamic_Strategy_Planning_for_Efficient_Question_Answering_with_Large_Language_Models.md)
+
+    - [翻译: 关于大型语言模型高效问答的动态策略规划](2024年10月30日/Dynamic_Strategy_Planning_for_Efficient_Question_Answering_with_Large_Language_Models.md)
+
 - [Dynamic Uncertainty Ranking: Enhancing In-Context Learning for Long-Tail Knowledge in LLMs](2024年10月30日/Dynamic_Uncertainty_Ranking_Enhancing_In-Context_Learning_for_Long-Tail_Knowledge_in_LLMs.md)
 
     - [翻译: 动态不确定性排名：提升大型语言模型中长尾知识的上下文学习能力](2024年10月30日/Dynamic_Uncertainty_Ranking_Enhancing_In-Context_Learning_for_Long-Tail_Knowledge_in_LLMs.md)
+
+- [Eliciting Critical Reasoning in Retrieval-Augmented Language Models via Contrastive Explanations](2024年10月30日/Eliciting_Critical_Reasoning_in_Retrieval-Augmented_Language_Models_via_Contrastive_Explanations.md)
+
+    - [翻译: 借助对比解释在检索增强语言模型中激发批判性推理](2024年10月30日/Eliciting_Critical_Reasoning_in_Retrieval-Augmented_Language_Models_via_Contrastive_Explanations.md)
+
+- [Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval](2024年10月30日/Emotional_RAG_Enhancing_Role-Playing_Agents_through_Emotional_Retrieval.md)
+
+    - [翻译: 情感 RAG：借助情感检索提升角色扮演代理的能力](2024年10月30日/Emotional_RAG_Enhancing_Role-Playing_Agents_through_Emotional_Retrieval.md)
 
 - [End-to-End Ontology Learning with Large Language Models](2024年10月30日/End-to-End_Ontology_Learning_with_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型进行端到端的本体学习](2024年10月30日/End-to-End_Ontology_Learning_with_Large_Language_Models.md)
 
+- [Evaluating Cultural and Social Awareness of LLM Web Agents](2024年10月30日/Evaluating_Cultural_and_Social_Awareness_of_LLM_Web_Agents.md)
+
+    - [翻译: 对 LLM 网络代理的文化和社会意识进行评估](2024年10月30日/Evaluating_Cultural_and_Social_Awareness_of_LLM_Web_Agents.md)
+
+- [Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration](2024年10月30日/Explainable_Behavior_Cloning_Teaching_Large_Language_Model_Agents_through_Learning_by_Demonstration.md)
+
+    - [翻译: 可解释的行为克隆：借助示范学习教导大型语言模型代理](2024年10月30日/Explainable_Behavior_Cloning_Teaching_Large_Language_Model_Agents_through_Learning_by_Demonstration.md)
+
+- [From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents](2024年10月30日/From_Context_to_Action_Analysis_of_the_Impact_of_State_Representation_and_Context_on_the_Generalization_of_Multi-Turn_Web_Navigation_Agents.md)
+
+    - [翻译: 从上下文到行动：剖析状态表示与上下文对多轮网络导航代理泛化能力的影响](2024年10月30日/From_Context_to_Action_Analysis_of_the_Impact_of_State_Representation_and_Context_on_the_Generalization_of_Multi-Turn_Web_Navigation_Agents.md)
+
+- [GPT-4o reads the mind in the eyes](2024年10月30日/GPT-4o_reads_the_mind_in_the_eyes.md)
+
+    - [翻译: GPT-4o 能读懂眼神所传达的心思](2024年10月30日/GPT-4o_reads_the_mind_in_the_eyes.md)
+
+- [GWQ: Gradient-Aware Weight Quantization for Large Language Models](2024年10月30日/GWQ_Gradient-Aware_Weight_Quantization_for_Large_Language_Models.md)
+
+    - [翻译: GWQ：针对大型语言模型的梯度感知权重量化](2024年10月30日/GWQ_Gradient-Aware_Weight_Quantization_for_Large_Language_Models.md)
+
+- [HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language Models](2024年10月30日/HijackRAG_Hijacking_Attacks_against_Retrieval-Augmented_Large_Language_Models.md)
+
+    - [翻译: HijackRAG：针对检索增强型大型语言模型的劫持式攻击](2024年10月30日/HijackRAG_Hijacking_Attacks_against_Retrieval-Augmented_Large_Language_Models.md)
+
 - [IP-MOT: Instance Prompt Learning for Cross-Domain Multi-Object Tracking](2024年10月30日/IP-MOT_Instance_Prompt_Learning_for_Cross-Domain_Multi-Object_Tracking.md)
 
     - [翻译: IP-MOT：针对跨域多目标跟踪的实例提示学习](2024年10月30日/IP-MOT_Instance_Prompt_Learning_for_Cross-Domain_Multi-Object_Tracking.md)
+
+- [Large Language Models for Patient Comments Multi-Label Classification](2024年10月30日/Large_Language_Models_for_Patient_Comments_Multi-Label_Classification.md)
+
+    - [翻译: 用于患者评论多标签分类的大型语言模型](2024年10月30日/Large_Language_Models_for_Patient_Comments_Multi-Label_Classification.md)
+
+- [LEAF: Learning and Evaluation Augmented by Fact-Checking to Improve Factualness in Large Language Models](2024年10月30日/LEAF_Learning_and_Evaluation_Augmented_by_Fact-Checking_to_Improve_Factualness_in_Large_Language_Models.md)
+
+    - [翻译: LEAF：借助事实核查来增强学习与评估，以提升大型语言模型中的事实准确性](2024年10月30日/LEAF_Learning_and_Evaluation_Augmented_by_Fact-Checking_to_Improve_Factualness_in_Large_Language_Models.md)
+
+- [LLaMo: Large Language Model-based Molecular Graph Assistant](2024年10月30日/LLaMo_Large_Language_Model-based_Molecular_Graph_Assistant.md)
+
+    - [翻译: LLaMo：基于大型语言模型的分子图辅助工具](2024年10月30日/LLaMo_Large_Language_Model-based_Molecular_Graph_Assistant.md)
+
+- [Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall](2024年10月30日/Long$^2$RAG_Evaluating_Long-Context_&_Long-Form_Retrieval-Augmented_Generation_with_Key_Point_Recall.md)
+
+    - [翻译: Long$^2$RAG：通过关键点召回对长上下文和长格式的检索增强生成进行评估](2024年10月30日/Long$^2$RAG_Evaluating_Long-Context_&_Long-Form_Retrieval-Augmented_Generation_with_Key_Point_Recall.md)
+
+- [Mind the Gap: A Generalized Approach for Cross-Modal Embedding Alignment](2024年10月30日/Mind_the_Gap_A_Generalized_Approach_for_Cross-Modal_Embedding_Alignment.md)
+
+    - [翻译: 留意差距：跨模态嵌入对齐的通用之法](2024年10月30日/Mind_the_Gap_A_Generalized_Approach_for_Cross-Modal_Embedding_Alignment.md)
+
+- [Multi-modal Spatial Clustering for Spatial Transcriptomics Utilizing High-resolution Histology Images](2024年10月30日/Multi-modal_Spatial_Clustering_for_Spatial_Transcriptomics_Utilizing_High-resolution_Histology_Images.md)
+
+    - [翻译: 利用高分辨率组织学图像进行空间转录组学的多模态空间聚类](2024年10月30日/Multi-modal_Spatial_Clustering_for_Spatial_Transcriptomics_Utilizing_High-resolution_Histology_Images.md)
+
+- [Online Intrinsic Rewards for Decision Making Agents from Large Language Model Feedback](2024年10月30日/Online_Intrinsic_Rewards_for_Decision_Making_Agents_from_Large_Language_Model_Feedback.md)
+
+    - [翻译: 大型语言模型反馈下决策代理的在线内在奖励](2024年10月30日/Online_Intrinsic_Rewards_for_Decision_Making_Agents_from_Large_Language_Model_Feedback.md)
 
 - [On Positional Bias of Faithfulness for Long-form Summarization](2024年10月30日/On_Positional_Bias_of_Faithfulness_for_Long-form_Summarization.md)
 
     - [翻译: 论长文本摘要中忠实度的位置偏差](2024年10月30日/On_Positional_Bias_of_Faithfulness_for_Long-form_Summarization.md)
 
+- [PIP-MM: Pre-Integrating Prompt Information into Visual Encoding via Existing MLLM Structures](2024年10月30日/PIP-MM_Pre-Integrating_Prompt_Information_into_Visual_Encoding_via_Existing_MLLM_Structures.md)
+
+    - [翻译: PIP-MM：借助现有的 MLLM 结构，将提示信息预先融入视觉编码](2024年10月30日/PIP-MM_Pre-Integrating_Prompt_Information_into_Visual_Encoding_via_Existing_MLLM_Structures.md)
+
+- [Residual Multi-Task Learner for Applied Ranking](2024年10月30日/Residual_Multi-Task_Learner_for_Applied_Ranking.md)
+
+    - [翻译: 应用排名中的剩余多任务学习器](2024年10月30日/Residual_Multi-Task_Learner_for_Applied_Ranking.md)
+
+- [Retrieval-Augmented Generation with Estimation of Source Reliability](2024年10月30日/Retrieval-Augmented_Generation_with_Estimation_of_Source_Reliability.md)
+
+    - [翻译: 带有源可靠性估计的检索增强生成](2024年10月30日/Retrieval-Augmented_Generation_with_Estimation_of_Source_Reliability.md)
+
+- [Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach](2024年10月30日/Semantic_Enrichment_of_the_Quantum_Cascade_Laser_Properties_in_Text-_A_Knowledge_Graph_Generation_Approach.md)
+
+    - [翻译: 量子级联激光器文本特性的语义丰富 - 一种知识图谱生成途径](2024年10月30日/Semantic_Enrichment_of_the_Quantum_Cascade_Laser_Properties_in_Text-_A_Knowledge_Graph_Generation_Approach.md)
+
+- [Simulating User Agents for Embodied Conversational-AI](2024年10月30日/Simulating_User_Agents_for_Embodied_Conversational-AI.md)
+
+    - [翻译: 对具身会话式 AI 的用户代理进行模拟](2024年10月30日/Simulating_User_Agents_for_Embodied_Conversational-AI.md)
+
+- [Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?](2024年10月30日/Social_Science_Meets_LLMs_How_Reliable_Are_Large_Language_Models_in_Social_Simulations.md)
+
+    - [翻译: 社会科学遇上大型语言模型：大型语言模型在社会模拟中究竟有多可靠？](2024年10月30日/Social_Science_Meets_LLMs_How_Reliable_Are_Large_Language_Models_in_Social_Simulations.md)
+
+- [Survey of Cultural Awareness in Language Models: Text and Beyond](2024年10月30日/Survey_of_Cultural_Awareness_in_Language_Models_Text_and_Beyond.md)
+
+    - [翻译: 关于语言模型中文化意识的调研：涵盖文本及其他方面](2024年10月30日/Survey_of_Cultural_Awareness_in_Language_Models_Text_and_Beyond.md)
+
+- [Theoretical Investigations and Practical Enhancements on Tail Task Risk Minimization in Meta Learning](2024年10月30日/Theoretical_Investigations_and_Practical_Enhancements_on_Tail_Task_Risk_Minimization_in_Meta_Learning.md)
+
+    - [翻译: 关于元学习中尾部任务风险最小化的理论研究与实践增强](2024年10月30日/Theoretical_Investigations_and_Practical_Enhancements_on_Tail_Task_Risk_Minimization_in_Meta_Learning.md)
+
+- [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](2024年10月30日/TokenFormer_Rethinking_Transformer_Scaling_with_Tokenized_Model_Parameters.md)
+
+    - [翻译: TokenFormer：以令牌化模型参数重新审视 Transformer 的缩放](2024年10月30日/TokenFormer_Rethinking_Transformer_Scaling_with_Tokenized_Model_Parameters.md)
+
 - [Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models](2024年10月30日/Transferable_Ensemble_Black-box_Jailbreak_Attacks_on_Large_Language_Models.md)
 
     - [翻译: 针对大型语言模型的可转移集成黑箱越狱式攻击](2024年10月30日/Transferable_Ensemble_Black-box_Jailbreak_Attacks_on_Large_Language_Models.md)
+
+- [Vision-Language Models Can Self-Improve Reasoning via Reflection](2024年10月30日/Vision-Language_Models_Can_Self-Improve_Reasoning_via_Reflection.md)
+
+    - [翻译: 视觉语言模型能够借助反思来自我提升推理能力。](2024年10月30日/Vision-Language_Models_Can_Self-Improve_Reasoning_via_Reflection.md)
+
+- [VISUALCODER: Guiding Large Language Models in Code Execution with Fine-grained Multimodal Chain-of-Thought Reasoning](2024年10月30日/VISUALCODER_Guiding_Large_Language_Models_in_Code_Execution_with_Fine-grained_Multimodal_Chain-of-Thought_Reasoning.md)
+
+    - [翻译: VISUALCODER：以细粒度多模态思维链推理引导大型语言模型进行代码执行](2024年10月30日/VISUALCODER_Guiding_Large_Language_Models_in_Code_Execution_with_Fine-grained_Multimodal_Chain-of-Thought_Reasoning.md)
