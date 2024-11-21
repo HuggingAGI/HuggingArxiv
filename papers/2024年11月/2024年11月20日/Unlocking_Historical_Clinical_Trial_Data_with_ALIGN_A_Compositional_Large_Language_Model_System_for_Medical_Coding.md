@@ -1,0 +1,15 @@
+# 通过 ALIGN 解锁历史临床试验数据：医疗编码的组合式大型语言模型系统
+
+发布时间：2024年11月20日
+
+`LLM应用` `药物开发`
+
+> Unlocking Historical Clinical Trial Data with ALIGN: A Compositional Large Language Model System for Medical Coding
+
+# 摘要
+
+> 历史临床试验数据的再利用，在加速医学研究和药物开发方面潜力巨大。然而，互操作性面临挑战，尤其是医疗代码缺失的问题，阻碍了不同研究间有效的数据整合。虽然大型语言模型（LLMs）为无标签数据的自动编码提供了颇具前景的解决方案，但现有的方法在复杂编码任务中遭遇难题。我们推出了 ALIGN，这是一套新颖的基于组合式 LLM 的自动零样本医疗编码系统。ALIGN 遵循三步流程：（1）生成多样的候选代码；（2）对代码进行自我评估；（3）进行置信度评分和不确定性估计，以便人类推迟操作来确保可靠性。我们针对将 22 项免疫学试验中提取的药物术语协调为解剖治疗化学（ATC）代码，以及将病史术语协调为监管活动医学词典（MedDRA）代码的情况，对 ALIGN 进行了评估。ALIGN 表现优于 LLM 基线，同时具备可靠的部署能力。在 MedDRA 编码方面，ALIGN 在各个级别都达到了高精度，与 RAG 相当，且在最具体的级别表现卓越（HLGT 为 87 - 90％）。对于 ATC 编码，ALIGN 性能出众，特别是在较低层级（ATC 级别 4），总体准确率为 72 - 73％，常见药物的准确率为 86 - 89％，比基线高出 7 - 22％。ALIGN 基于不确定性的推迟操作将准确率提升了 17％，达到 90％的准确率，推迟率为 30％，显著提升了对不常见药物的处理效果。ALIGN 以 GPT-4o-mini 每个代码 0.0007 美元和 GPT-4o 每个代码 0.02 美元的成本高效达成目标，降低了临床应用的门槛。ALIGN 推动了临床试验数据的自动医疗编码，有助于增强数据的互操作性和可复用性，成为了改进临床研究和加速药物开发的有力工具。
+
+> The reuse of historical clinical trial data has significant potential to accelerate medical research and drug development. However, interoperability challenges, particularly with missing medical codes, hinders effective data integration across studies. While Large Language Models (LLMs) offer a promising solution for automated coding without labeled data, current approaches face challenges on complex coding tasks. We introduce ALIGN, a novel compositional LLM-based system for automated, zero-shot medical coding. ALIGN follows a three-step process: (1) diverse candidate code generation; (2) self-evaluation of codes and (3) confidence scoring and uncertainty estimation enabling human deferral to ensure reliability. We evaluate ALIGN on harmonizing medication terms into Anatomical Therapeutic Chemical (ATC) and medical history terms into Medical Dictionary for Regulatory Activities (MedDRA) codes extracted from 22 immunology trials. ALIGN outperformed the LLM baselines, while also providing capabilities for trustworthy deployment. For MedDRA coding, ALIGN achieved high accuracy across all levels, matching RAG and excelling at the most specific levels (87-90% for HLGT). For ATC coding, ALIGN demonstrated superior performance, particularly at lower hierarchy levels (ATC Level 4), with 72-73% overall accuracy and 86-89% accuracy for common medications, outperforming baselines by 7-22%. ALIGN's uncertainty-based deferral improved accuracy by 17% to 90% accuracy with 30% deferral, notably enhancing performance on uncommon medications. ALIGN achieves this cost-efficiently at \$0.0007 and \$0.02 per code for GPT-4o-mini and GPT-4o, reducing barriers to clinical adoption. ALIGN advances automated medical coding for clinical trial data, contributing to enhanced data interoperability and reusability, positioning it as a promising tool to improve clinical research and accelerate drug development.
+
+[Arxiv](https://arxiv.org/abs/2411.13163)

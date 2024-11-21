@@ -1,0 +1,15 @@
+# 探索用于面部属性识别的视觉语言模型，涵盖情绪、种族、性别和年龄
+
+发布时间：2024年10月31日
+
+`LLM应用` `图像分析` `面部识别`
+
+> Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age
+
+# 摘要
+
+> 用于识别种族、性别、年龄和情绪等面部属性的技术应用广泛，涵盖监控、广告内容、情感分析以及人口趋势与社会行为研究等领域。由于人类面部属性的复杂性，基于图像分析人口特征和面部表情面临诸多挑战。传统方法运用了卷积神经网络（CNNs）及其他多种深度学习技术，并基于大量有标签的图像集进行训练。尽管这些方法性能出色，但仍有提升空间。本文中，我们建议利用视觉语言模型（VLMs），如生成式预训练转换器（GPT）、GEMINI、大型语言和视觉助手（LLAVA）、PaliGemma 以及微软 Florence2 ，从含有人脸的图像中识别种族、性别、年龄和情绪等面部属性。诸如 FairFace、AffectNet 和 UTKFace 等各类数据集被用于评估解决方案。结果表明，VLMs 即便不优于传统技术，也颇具竞争力。此外，我们提出“FaceScanPaliGemma”——一个经过微调的 PaliGemma 模型，用于种族、性别、年龄和情绪的识别。结果显示，在种族、性别、年龄组和情绪分类方面，准确率分别达 81.1％、95.8％、80％和 59.4％，超越了 PaliGemma 的预训练版本、其他 VLMs 以及最先进的方法。最后，我们推出“FaceScanGPT”，这是一个 GPT-4o 模型，当图像中存在多个个体时，可使用为特定面部和/或身体属性的人设计的提示来识别上述属性。结果凸显了 FaceScanGPT 仅依靠提示就能驱动检测和识别任务，在检测诸如发型、服装颜色、姿势等个体属性方面具备出色的多任务处理能力。
+
+> Technologies for recognizing facial attributes like race, gender, age, and emotion have several applications, such as surveillance, advertising content, sentiment analysis, and the study of demographic trends and social behaviors. Analyzing demographic characteristics based on images and analyzing facial expressions have several challenges due to the complexity of humans' facial attributes. Traditional approaches have employed CNNs and various other deep learning techniques, trained on extensive collections of labeled images. While these methods demonstrated effective performance, there remains potential for further enhancements. In this paper, we propose to utilize vision language models (VLMs) such as generative pre-trained transformer (GPT), GEMINI, large language and vision assistant (LLAVA), PaliGemma, and Microsoft Florence2 to recognize facial attributes such as race, gender, age, and emotion from images with human faces. Various datasets like FairFace, AffectNet, and UTKFace have been utilized to evaluate the solutions. The results show that VLMs are competitive if not superior to traditional techniques. Additionally, we propose "FaceScanPaliGemma"--a fine-tuned PaliGemma model--for race, gender, age, and emotion recognition. The results show an accuracy of 81.1%, 95.8%, 80%, and 59.4% for race, gender, age group, and emotion classification, respectively, outperforming pre-trained version of PaliGemma, other VLMs, and SotA methods. Finally, we propose "FaceScanGPT", which is a GPT-4o model to recognize the above attributes when several individuals are present in the image using a prompt engineered for a person with specific facial and/or physical attributes. The results underscore the superior multitasking capability of FaceScanGPT to detect the individual's attributes like hair cut, clothing color, postures, etc., using only a prompt to drive the detection and recognition tasks.
+
+[Arxiv](https://arxiv.org/abs/2410.24148)

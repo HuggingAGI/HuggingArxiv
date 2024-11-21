@@ -1,0 +1,15 @@
+# VideoAutoArena：一个用于通过用户模拟来评估视频分析中大型多模态模型的自动化平台
+
+发布时间：2024年11月20日
+
+`LLM应用` `视频分析` `模型评估`
+
+> VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation
+
+# 摘要
+
+> 大型具备先进视频分析能力的多模态模型（LMMs）近来备受瞩目。然而，多数评估依赖于传统手段，像在 VideoMME 和 LongVideoBench 等基准中的多项选择题，这类方法往往难以达到捕捉现实世界用户复杂需求的深度。鉴于此限制，再加上视频任务人工标注成本高、速度慢，我们推出了 VideoAutoArena，这是受 LMSYS Chatbot Arena 框架启发的竞技场式基准，旨在自动测评 LMMs 的视频分析能力。VideoAutoArena 通过用户模拟生成开放式、自适应的问题，严格检验模型在视频理解方面的表现。该基准拥有自动化、可扩展的评估架构，融入了改良的 ELO 评级系统，便于在多个 LMMs 间进行公平且持续的对比。为验证我们的自动评判系统，我们借助精心筛选的一部分人工标注构建了“黄金标准”，表明我们的竞技场与人类判断高度契合，同时具备可扩展性。另外，我们引入了故障驱动的进化策略，逐步增加问题的复杂度，促使模型应对更具挑战性的视频分析场景。实验结果显示，VideoAutoArena 能有效区分最前沿的 LMMs，为模型的优势和有待改进之处提供了见解。为进一步优化评估，我们引入了 VideoAutoBench 作为辅助基准，由人工标注者在 VideoAutoArena 对战的子集中判定获胜者。我们使用 GPT-4o 作为裁判，将回答与这些人工验证的答案进行比较。总之，VideoAutoArena 和 VideoAutoBench 为在以用户为中心的视频分析中评估 LMMs 提供了一套经济高效且可扩展的框架。
+
+> Large multimodal models (LMMs) with advanced video analysis capabilities have recently garnered significant attention. However, most evaluations rely on traditional methods like multiple-choice questions in benchmarks such as VideoMME and LongVideoBench, which are prone to lack the depth needed to capture the complex demands of real-world users. To address this limitation-and due to the prohibitive cost and slow pace of human annotation for video tasks-we introduce VideoAutoArena, an arena-style benchmark inspired by LMSYS Chatbot Arena's framework, designed to automatically assess LMMs' video analysis abilities. VideoAutoArena utilizes user simulation to generate open-ended, adaptive questions that rigorously assess model performance in video understanding. The benchmark features an automated, scalable evaluation framework, incorporating a modified ELO Rating System for fair and continuous comparisons across multiple LMMs. To validate our automated judging system, we construct a 'gold standard' using a carefully curated subset of human annotations, demonstrating that our arena strongly aligns with human judgment while maintaining scalability. Additionally, we introduce a fault-driven evolution strategy, progressively increasing question complexity to push models toward handling more challenging video analysis scenarios. Experimental results demonstrate that VideoAutoArena effectively differentiates among state-of-the-art LMMs, providing insights into model strengths and areas for improvement. To further streamline our evaluation, we introduce VideoAutoBench as an auxiliary benchmark, where human annotators label winners in a subset of VideoAutoArena battles. We use GPT-4o as a judge to compare responses against these human-validated answers. Together, VideoAutoArena and VideoAutoBench offer a cost-effective, and scalable framework for evaluating LMMs in user-centric video analysis.
+
+[Arxiv](https://arxiv.org/abs/2411.13281)
