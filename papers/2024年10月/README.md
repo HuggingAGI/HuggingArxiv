@@ -491,3 +491,17 @@
 - [VISUALCODER: Guiding Large Language Models in Code Execution with Fine-grained Multimodal Chain-of-Thought Reasoning](2024年10月30日/VISUALCODER_Guiding_Large_Language_Models_in_Code_Execution_with_Fine-grained_Multimodal_Chain-of-Thought_Reasoning.md)
 
     - [翻译: VISUALCODER：以细粒度多模态思维链推理引导大型语言模型进行代码执行](2024年10月30日/VISUALCODER_Guiding_Large_Language_Models_in_Code_Execution_with_Fine-grained_Multimodal_Chain-of-Thought_Reasoning.md)
+
+2024年10月29日
+
+- [ADAM: An Embodied Causal Agent in Open-World Environments](2024年10月29日/ADAM_An_Embodied_Causal_Agent_in_Open-World_Environments.md)
+
+    - [翻译: ADAM：开放世界环境中的具身式因果智能体](2024年10月29日/ADAM_An_Embodied_Causal_Agent_in_Open-World_Environments.md)
+
+- [Automated Feedback in Math Education: A Comparative Analysis of LLMs for Open-Ended Responses](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
+
+    - [翻译: 数学教育中的自动化反馈：有关开放式回答的大型语言模型之比较分析](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
+
+- [Joint Extraction and Classification of Danish Competences for Job Matching](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
+
+    - [翻译: 丹麦工作匹配能力的联合提取与分类](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)

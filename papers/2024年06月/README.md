@@ -38,6 +38,12 @@
 
     - [翻译: WonderWorld：单图互动3D场景生成](2024年06月13日/WonderWorld_Interactive_3D_Scene_Generation_from_a_Single_Image.md)
 
+2024年06月10日
+
+- [AutoSurvey: Large Language Models Can Automatically Write Surveys](2024年06月10日/AutoSurvey_Large_Language_Models_Can_Automatically_Write_Surveys.md)
+
+    - [翻译: AutoSurvey：大型语言模型能够自动撰写调查问卷](2024年06月10日/AutoSurvey_Large_Language_Models_Can_Automatically_Write_Surveys.md)
+
 2024年06月03日
 
 - [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](2024年06月03日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)

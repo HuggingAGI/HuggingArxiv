@@ -594,6 +594,10 @@
 
     - [翻译: Safe + Safe = Unsafe？探究安全图像怎样被用于破解大型视觉语言模型](2024年11月18日/Safe_+_Safe_=_Unsafe_Exploring_How_Safe_Images_Can_Be_Exploited_to_Jailbreak_Large_Vision-Language_Models.md)
 
+- [SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory](2024年11月18日/SAMURAI_Adapting_Segment_Anything_Model_for_Zero-Shot_Visual_Tracking_with_Motion-Aware_Memory.md)
+
+    - [翻译: SAMURAI：为实现具有运动感知记忆的零样本视觉跟踪而对段任何模型进行调整](2024年11月18日/SAMURAI_Adapting_Segment_Anything_Model_for_Zero-Shot_Visual_Tracking_with_Motion-Aware_Memory.md)
+
 - [SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models](2024年11月18日/SayComply_Grounding_Field_Robotic_Tasks_in_Operational_Compliance_through_Retrieval-Based_Language_Models.md)
 
     - [翻译: SayComply：借助基于检索的语言模型，为现场机器人任务奠定操作合规性的基础](2024年11月18日/SayComply_Grounding_Field_Robotic_Tasks_in_Operational_Compliance_through_Retrieval-Based_Language_Models.md)
