@@ -1778,10 +1778,6 @@
 
     - [翻译: 有害 YouTube 视频检测：在线危害分类及 MLLMs 充当替代标注员](2024年11月06日/Harmful_YouTube_Video_Detection_A_Taxonomy_of_Online_Harm_and_MLLMs_as_Alternative_Annotators.md)
 
-- [How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis](2024年11月06日/How_Transformers_Solve_Propositional_Logic_Problems_A_Mechanistic_Analysis.md)
-
-    - [翻译: 变压器如何解决命题逻辑问题：一种机制分析](2024年11月06日/How_Transformers_Solve_Propositional_Logic_Problems_A_Mechanistic_Analysis.md)
-
 - [LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration](2024年11月06日/LEGO-GraphRAG_Modularizing_Graph-based_Retrieval-Augmented_Generation_for_Design_Space_Exploration.md)
 
     - [翻译: LEGO-GraphRAG：用于设计空间探索的基于图的检索增强生成之模块化](2024年11月06日/LEGO-GraphRAG_Modularizing_Graph-based_Retrieval-Augmented_Generation_for_Design_Space_Exploration.md)
@@ -2259,14 +2255,6 @@
 - [CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](2024年11月01日/CLIP-RT_Learning_Language-Conditioned_Robotic_Policies_from_Natural_Language_Supervision.md)
 
     - [翻译: CLIP-RT：从自然语言监督中习得语言条件下的机器人策略](2024年11月01日/CLIP-RT_Learning_Language-Conditioned_Robotic_Policies_from_Natural_Language_Supervision.md)
-
-- [CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation](2024年11月01日/CORAG_A_Cost-Constrained_Retrieval_Optimization_System_for_Retrieval-Augmented_Generation.md)
-
-    - [翻译: CORAG：一个用于检索增强生成的受成本限制的检索优化系统](2024年11月01日/CORAG_A_Cost-Constrained_Retrieval_Optimization_System_for_Retrieval-Augmented_Generation.md)
-
-- [DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems](2024年11月01日/DARD_A_Multi-Agent_Approach_for_Task-Oriented_Dialog_Systems.md)
-
-    - [翻译: DARD：一种用于任务导向型对话系统的多智能体方法](2024年11月01日/DARD_A_Multi-Agent_Approach_for_Task-Oriented_Dialog_Systems.md)
 
 - [Defense Against Prompt Injection Attack by Leveraging Attack Techniques](2024年11月01日/Defense_Against_Prompt_Injection_Attack_by_Leveraging_Attack_Techniques.md)
 

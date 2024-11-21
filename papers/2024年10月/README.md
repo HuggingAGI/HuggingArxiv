@@ -130,10 +130,6 @@
 
     - [翻译: JudgeRank：借助大型语言模型实现推理密集型重排序](2024年10月31日/JudgeRank_Leveraging_Large_Language_Models_for_Reasoning-Intensive_Reranking.md)
 
-- [Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](2024年10月31日/Language-Driven_Policy_Distillation_for_Cooperative_Driving_in_Multi-Agent_Reinforcement_Learning.md)
-
-    - [翻译: 在多智能体强化学习中，用于协同驾驶的语言驱动策略提炼](2024年10月31日/Language-Driven_Policy_Distillation_for_Cooperative_Driving_in_Multi-Agent_Reinforcement_Learning.md)
-
 - [Language Models can Self-Lengthen to Generate Long Texts](2024年10月31日/Language_Models_can_Self-Lengthen_to_Generate_Long_Texts.md)
 
     - [翻译: 语言模型能够自行延展从而生成长文本](2024年10月31日/Language_Models_can_Self-Lengthen_to_Generate_Long_Texts.md)
@@ -328,6 +324,10 @@
 
 2024年10月30日
 
+- [AI in Investment Analysis: LLMs for Equity Stock Ratings](2024年10月30日/AI_in_Investment_Analysis_LLMs_for_Equity_Stock_Ratings.md)
+
+    - [翻译: AI 在投资分析领域：用于股票评级的大型语言模型](2024年10月30日/AI_in_Investment_Analysis_LLMs_for_Equity_Stock_Ratings.md)
+
 - [ALISE: Accelerating Large Language Model Serving with Speculative Scheduling](2024年10月30日/ALISE_Accelerating_Large_Language_Model_Serving_with_Speculative_Scheduling.md)
 
     - [翻译: ALISE：借助推测性调度加快大型语言模型服务](2024年10月30日/ALISE_Accelerating_Large_Language_Model_Serving_with_Speculative_Scheduling.md)
@@ -347,10 +347,6 @@
 - [Carrot and Stick: Eliciting Comparison Data and Beyond](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
 
     - [翻译: “胡萝卜加大棒”：获取比较数据及更多](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
-
-- [ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems](2024年10月30日/ChunkRAG_Novel_LLM-Chunk_Filtering_Method_for_RAG_Systems.md)
-
-    - [翻译: ChunkRAG：RAG 系统的全新 LLM-Chunk 过滤之法](2024年10月30日/ChunkRAG_Novel_LLM-Chunk_Filtering_Method_for_RAG_Systems.md)
 
 - [Commit: Online Groups with Participation Commitments](2024年10月30日/Commit_Online_Groups_with_Participation_Commitments.md)
 
@@ -479,6 +475,10 @@
 - [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](2024年10月30日/TokenFormer_Rethinking_Transformer_Scaling_with_Tokenized_Model_Parameters.md)
 
     - [翻译: TokenFormer：以令牌化模型参数重新审视 Transformer 的缩放](2024年10月30日/TokenFormer_Rethinking_Transformer_Scaling_with_Tokenized_Model_Parameters.md)
+
+- [TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models](2024年10月30日/TOMATO_Assessing_Visual_Temporal_Reasoning_Capabilities_in_Multimodal_Foundation_Models.md)
+
+    - [翻译: TOMATO：对多模态基础模型的视觉时间推理能力进行评估](2024年10月30日/TOMATO_Assessing_Visual_Temporal_Reasoning_Capabilities_in_Multimodal_Foundation_Models.md)
 
 - [Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models](2024年10月30日/Transferable_Ensemble_Black-box_Jailbreak_Attacks_on_Large_Language_Models.md)
 
