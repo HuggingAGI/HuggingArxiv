@@ -110,6 +110,10 @@
 
     - [翻译: 《隐藏的说服者：LLM 的政治倾向及其对选民的影响》](2024年10月31日/Hidden_Persuaders_LLMs'_Political_Leaning_and_Their_Influence_on_Voters.md)
 
+- [In-Context LoRA for Diffusion Transformers](2024年10月31日/In-Context_LoRA_for_Diffusion_Transformers.md)
+
+    - [翻译: In-Context LoRA 应用于扩散 Transformer](2024年10月31日/In-Context_LoRA_for_Diffusion_Transformers.md)
+
 - [Instruction-Tuning Llama-3-8B Excels in City-Scale Mobility Prediction](2024年10月31日/Instruction-Tuning_Llama-3-8B_Excels_in_City-Scale_Mobility_Prediction.md)
 
     - [翻译: Instruction-Tuning 的 Llama-3-8B 在城市规模的移动性预测中表现卓越](2024年10月31日/Instruction-Tuning_Llama-3-8B_Excels_in_City-Scale_Mobility_Prediction.md)
@@ -454,6 +458,10 @@
 
 2024年10月29日
 
+- [$\textbf{EMOS}$: $\textbf{E}$mbodiment-aware Heterogeneous $\textbf{M}$ulti-robot $\textbf{O}$perating $\textbf{S}$ystem with LLM Agents](2024年10月29日/$\textbf{EMOS}$_$\textbf{E}$mbodiment-aware_Heterogeneous_$\textbf{M}$ulti-robot_$\textbf{O}$perating_$\textbf{S}$ystem_with_LLM_Agents.md)
+
+    - [翻译: $	extbf{EMOS}$: 具有 LLM 代理的具身感知异构多机器人操作系统](2024年10月29日/$\textbf{EMOS}$_$\textbf{E}$mbodiment-aware_Heterogeneous_$\textbf{M}$ulti-robot_$\textbf{O}$perating_$\textbf{S}$ystem_with_LLM_Agents.md)
+
 - [ADAM: An Embodied Causal Agent in Open-World Environments](2024年10月29日/ADAM_An_Embodied_Causal_Agent_in_Open-World_Environments.md)
 
     - [翻译: ADAM：开放世界环境中的具身式因果智能体](2024年10月29日/ADAM_An_Embodied_Causal_Agent_in_Open-World_Environments.md)
@@ -473,6 +481,10 @@
 - [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
 
     - [翻译: ContextIQ：一个基于多模态专家的情境广告视频检索系统](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
+
+- [Distinguishing Ignorance from Error in LLM Hallucinations](2024年10月29日/Distinguishing_Ignorance_from_Error_in_LLM_Hallucinations.md)
+
+    - [翻译: 区分 LLM 幻觉中的无知与错误](2024年10月29日/Distinguishing_Ignorance_from_Error_in_LLM_Hallucinations.md)
 
 - [Efficient Learned Query Execution over Text and Tables [Technical Report]](2024年10月29日/Efficient_Learned_Query_Execution_over_Text_and_Tables_[Technical_Report].md)
 

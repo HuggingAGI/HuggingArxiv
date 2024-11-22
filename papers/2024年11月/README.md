@@ -22,6 +22,10 @@
 
     - [翻译: 用于减轻极端水下领域视觉干扰的去雾辅助多速率多模态姿态估计框架](2024年11月21日/Dehazing-aided_Multi-Rate_Multi-Modal_Pose_Estimation_Framework_for_Mitigating_Visual_Disturbances_in_Extreme_Underwater_Domain.md)
 
+- [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](2024年11月21日/DINO-X_A_Unified_Vision_Model_for_Open-World_Object_Detection_and_Understanding.md)
+
+    - [翻译: DINO-X：用于开放世界中对象检测与理解的统一视觉模型](2024年11月21日/DINO-X_A_Unified_Vision_Model_for_Open-World_Object_Detection_and_Understanding.md)
+
 - [Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models](2024年11月21日/Do_I_Know_This_Entity_Knowledge_Awareness_and_Hallucinations_in_Language_Models.md)
 
     - [翻译: 我是否了解此实体？语言模型中的知识感知与幻觉](2024年11月21日/Do_I_Know_This_Entity_Knowledge_Awareness_and_Hallucinations_in_Language_Models.md)
@@ -299,6 +303,10 @@
 - [Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training](2024年11月20日/Hardware_Scaling_Trends_and_Diminishing_Returns_in_Large-Scale_Distributed_Training.md)
 
     - [翻译: 大规模分布式训练中的硬件缩放趋势与收益递减](2024年11月20日/Hardware_Scaling_Trends_and_Diminishing_Returns_in_Large-Scale_Distributed_Training.md)
+
+- [Hymba: A Hybrid-head Architecture for Small Language Models](2024年11月20日/Hymba_A_Hybrid-head_Architecture_for_Small_Language_Models.md)
+
+    - [翻译: Hymba：小型语言模型的混合头式架构](2024年11月20日/Hymba_A_Hybrid-head_Architecture_for_Small_Language_Models.md)
 
 - [I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception](2024年11月20日/I2TTS_Image-indicated_Immersive_Text-to-speech_Synthesis_with_Spatial_Perception.md)
 
