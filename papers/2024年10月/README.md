@@ -130,10 +130,6 @@
 
     - [翻译: 借助大型语言模型实现医学信息提取与查询生成](2024年10月31日/Leveraging_Large_Language_Models_for_Medical_Information_Extraction_and_Query_Generation.md)
 
-- [Leveraging LLMs for MT in Crisis Scenarios: a blueprint for low-resource languages](2024年10月31日/Leveraging_LLMs_for_MT_in_Crisis_Scenarios_a_blueprint_for_low-resource_languages.md)
-
-    - [翻译: 在危机场景中借助 LLMs 实现机器翻译：低资源语言的蓝图](2024年10月31日/Leveraging_LLMs_for_MT_in_Crisis_Scenarios_a_blueprint_for_low-resource_languages.md)
-
 - [LLM4Mat-Bench: Benchmarking Large Language Models for Materials Property Prediction](2024年10月31日/LLM4Mat-Bench_Benchmarking_Large_Language_Models_for_Materials_Property_Prediction.md)
 
     - [翻译: LLM4Mat-Bench：针对材料特性预测的大型语言模型基准](2024年10月31日/LLM4Mat-Bench_Benchmarking_Large_Language_Models_for_Materials_Property_Prediction.md)
@@ -470,10 +466,54 @@
 
     - [翻译: ADAM：开放世界环境中的具身式因果智能体](2024年10月29日/ADAM_An_Embodied_Causal_Agent_in_Open-World_Environments.md)
 
+- [Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents](2024年10月29日/Auto-Intent_Automated_Intent_Discovery_and_Self-Exploration_for_Large_Language_Model_Web_Agents.md)
+
+    - [翻译: Auto-Intent：针对大型语言模型网络代理的自动意图发现与自我探索](2024年10月29日/Auto-Intent_Automated_Intent_Discovery_and_Self-Exploration_for_Large_Language_Model_Web_Agents.md)
+
 - [Automated Feedback in Math Education: A Comparative Analysis of LLMs for Open-Ended Responses](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
 
     - [翻译: 数学教育中的自动化反馈：有关开放式回答的大型语言模型之比较分析](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
 
+- [Can Large-Language Models Help us Better Understand and Teach the Development of Energy-Efficient Software?](2024年10月29日/Can_Large-Language_Models_Help_us_Better_Understand_and_Teach_the_Development_of_Energy-Efficient_Software.md)
+
+    - [翻译: 大型语言模型能否助力我们更好地理解与教授节能软件的开发？](2024年10月29日/Can_Large-Language_Models_Help_us_Better_Understand_and_Teach_the_Development_of_Energy-Efficient_Software.md)
+
+- [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
+
+    - [翻译: ContextIQ：一个基于多模态专家的情境广告视频检索系统](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
+
+- [Efficient Learned Query Execution over Text and Tables [Technical Report]](2024年10月29日/Efficient_Learned_Query_Execution_over_Text_and_Tables_[Technical_Report].md)
+
+    - [翻译: 高效的针对文本和表格的学习查询执行 [技术报告]](2024年10月29日/Efficient_Learned_Query_Execution_over_Text_and_Tables_[Technical_Report].md)
+
+- [FinVision: A Multi-Agent Framework for Stock Market Prediction](2024年10月29日/FinVision_A_Multi-Agent_Framework_for_Stock_Market_Prediction.md)
+
+    - [翻译: FinVision：一个用于股票市场预测的多智能体框架](2024年10月29日/FinVision_A_Multi-Agent_Framework_for_Stock_Market_Prediction.md)
+
+- [GraphAide: Advanced Graph-Assisted Query and Reasoning System](2024年10月29日/GraphAide_Advanced_Graph-Assisted_Query_and_Reasoning_System.md)
+
+    - [翻译: GraphAide：先进的图形辅助查询与推理系统](2024年10月29日/GraphAide_Advanced_Graph-Assisted_Query_and_Reasoning_System.md)
+
 - [Joint Extraction and Classification of Danish Competences for Job Matching](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
 
     - [翻译: 丹麦工作匹配能力的联合提取与分类](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
+
+- [Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting](2024年10月29日/Reinforcement_Learning_for_Aligning_Large_Language_Models_Agents_with_Interactive_Environments_Quantifying_and_Mitigating_Prompt_Overfitting.md)
+
+    - [翻译: 强化学习用于让大型语言模型代理与交互式环境相适配：对提示过拟合进行量化与缓解](2024年10月29日/Reinforcement_Learning_for_Aligning_Large_Language_Models_Agents_with_Interactive_Environments_Quantifying_and_Mitigating_Prompt_Overfitting.md)
+
+- [Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN](2024年10月29日/Synergizing_LLM_Agents_and_Knowledge_Graph_for_Socioeconomic_Prediction_in_LBSN.md)
+
+    - [翻译: 通过协同 LLM 智能体与知识图谱来实现 LBSN 中的社会经济预测](2024年10月29日/Synergizing_LLM_Agents_and_Knowledge_Graph_for_Socioeconomic_Prediction_in_LBSN.md)
+
+- [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](2024年10月29日/Towards_Unifying_Understanding_and_Generation_in_the_Era_of_Vision_Foundation_Models_A_Survey_from_the_Autoregression_Perspective.md)
+
+    - [翻译: 在视觉基础模型时代实现理解与生成的统一：从自回归视角展开的一项调研](2024年10月29日/Towards_Unifying_Understanding_and_Generation_in_the_Era_of_Vision_Foundation_Models_A_Survey_from_the_Autoregression_Perspective.md)
+
+- [Understanding Synthetic Context Extension via Retrieval Heads](2024年10月29日/Understanding_Synthetic_Context_Extension_via_Retrieval_Heads.md)
+
+    - [翻译: 理解经由检索头实现的合成上下文扩展](2024年10月29日/Understanding_Synthetic_Context_Extension_via_Retrieval_Heads.md)
+
+- [Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images](2024年10月29日/Volumetric_Conditioning_Module_to_Control_Pretrained_Diffusion_Models_for_3D_Medical_Images.md)
+
+    - [翻译: 用于掌控 3D 医学图像预训练扩散模型的体积调节模块](2024年10月29日/Volumetric_Conditioning_Module_to_Control_Pretrained_Diffusion_Models_for_3D_Medical_Images.md)
