@@ -94,10 +94,6 @@
 
     - [翻译: 探索用于面部属性识别的视觉语言模型，涵盖情绪、种族、性别和年龄](2024年10月31日/Exploring_Vision_Language_Models_for_Facial_Attribute_Recognition_Emotion,_Race,_Gender,_and_Age.md)
 
-- [EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection](2024年10月31日/EZ-HOI_VLM_Adaptation_via_Guided_Prompt_Learning_for_Zero-Shot_HOI_Detection.md)
-
-    - [翻译: EZ-HOI：借助引导提示学习实现零样本 HOI 检测的 VLM 适配](2024年10月31日/EZ-HOI_VLM_Adaptation_via_Guided_Prompt_Learning_for_Zero-Shot_HOI_Detection.md)
-
 - [Failure Modes of LLMs for Causal Reasoning on Narratives](2024年10月31日/Failure_Modes_of_LLMs_for_Causal_Reasoning_on_Narratives.md)
 
     - [翻译: LLMs 于叙事因果推理方面的失败模式](2024年10月31日/Failure_Modes_of_LLMs_for_Causal_Reasoning_on_Narratives.md)
@@ -118,10 +114,6 @@
 
     - [翻译: Instruction-Tuning 的 Llama-3-8B 在城市规模的移动性预测中表现卓越](2024年10月31日/Instruction-Tuning_Llama-3-8B_Excels_in_City-Scale_Mobility_Prediction.md)
 
-- [Investigating Bias in Political Search Query Suggestions by Relative Comparison with LLMs](2024年10月31日/Investigating_Bias_in_Political_Search_Query_Suggestions_by_Relative_Comparison_with_LLMs.md)
-
-    - [翻译: 通过与大型语言模型（LLMs）的相对比较来探究政治搜索查询建议中的偏差](2024年10月31日/Investigating_Bias_in_Political_Search_Query_Suggestions_by_Relative_Comparison_with_LLMs.md)
-
 - [JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment](2024年10月31日/JEMA_A_Joint_Embedding_Framework_for_Scalable_Co-Learning_with_Multimodal_Alignment.md)
 
     - [翻译: JEMA：一个用于实现多模态对齐的可扩展协同学习的联合嵌入框架](2024年10月31日/JEMA_A_Joint_Embedding_Framework_for_Scalable_Co-Learning_with_Multimodal_Alignment.md)
@@ -129,10 +121,6 @@
 - [JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking](2024年10月31日/JudgeRank_Leveraging_Large_Language_Models_for_Reasoning-Intensive_Reranking.md)
 
     - [翻译: JudgeRank：借助大型语言模型实现推理密集型重排序](2024年10月31日/JudgeRank_Leveraging_Large_Language_Models_for_Reasoning-Intensive_Reranking.md)
-
-- [Language Models can Self-Lengthen to Generate Long Texts](2024年10月31日/Language_Models_can_Self-Lengthen_to_Generate_Long_Texts.md)
-
-    - [翻译: 语言模型能够自行延展从而生成长文本](2024年10月31日/Language_Models_can_Self-Lengthen_to_Generate_Long_Texts.md)
 
 - [Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing](2024年10月31日/Leveraging_Large_Language_Models_for_Code_Translation_and_Software_Development_in_Scientific_Computing.md)
 
@@ -403,10 +391,6 @@
 - [HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language Models](2024年10月30日/HijackRAG_Hijacking_Attacks_against_Retrieval-Augmented_Large_Language_Models.md)
 
     - [翻译: HijackRAG：针对检索增强型大型语言模型的劫持式攻击](2024年10月30日/HijackRAG_Hijacking_Attacks_against_Retrieval-Augmented_Large_Language_Models.md)
-
-- [IP-MOT: Instance Prompt Learning for Cross-Domain Multi-Object Tracking](2024年10月30日/IP-MOT_Instance_Prompt_Learning_for_Cross-Domain_Multi-Object_Tracking.md)
-
-    - [翻译: IP-MOT：针对跨域多目标跟踪的实例提示学习](2024年10月30日/IP-MOT_Instance_Prompt_Learning_for_Cross-Domain_Multi-Object_Tracking.md)
 
 - [Large Language Models for Patient Comments Multi-Label Classification](2024年10月30日/Large_Language_Models_for_Patient_Comments_Multi-Label_Classification.md)
 
