@@ -320,10 +320,6 @@
 
     - [翻译: 一个针对篮球广播镜头的简单又有效的时间定位流程](2024年10月30日/A_Simple_and_Effective_Temporal_Grounding_Pipeline_for_Basketball_Broadcast_Footage.md)
 
-- [Automating Quantum Software Maintenance: Flakiness Detection and Root Cause Analysis](2024年10月30日/Automating_Quantum_Software_Maintenance_Flakiness_Detection_and_Root_Cause_Analysis.md)
-
-    - [翻译: 实现量子软件维护的自动化：脆弱性检测与根本原因剖析](2024年10月30日/Automating_Quantum_Software_Maintenance_Flakiness_Detection_and_Root_Cause_Analysis.md)
-
 - [Carrot and Stick: Eliciting Comparison Data and Beyond](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
 
     - [翻译: “胡萝卜加大棒”：获取比较数据及更多](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
@@ -347,10 +343,6 @@
 - [Eliciting Critical Reasoning in Retrieval-Augmented Language Models via Contrastive Explanations](2024年10月30日/Eliciting_Critical_Reasoning_in_Retrieval-Augmented_Language_Models_via_Contrastive_Explanations.md)
 
     - [翻译: 借助对比解释在检索增强语言模型中激发批判性推理](2024年10月30日/Eliciting_Critical_Reasoning_in_Retrieval-Augmented_Language_Models_via_Contrastive_Explanations.md)
-
-- [Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval](2024年10月30日/Emotional_RAG_Enhancing_Role-Playing_Agents_through_Emotional_Retrieval.md)
-
-    - [翻译: 情感 RAG：借助情感检索提升角色扮演代理的能力](2024年10月30日/Emotional_RAG_Enhancing_Role-Playing_Agents_through_Emotional_Retrieval.md)
 
 - [End-to-End Ontology Learning with Large Language Models](2024年10月30日/End-to-End_Ontology_Learning_with_Large_Language_Models.md)
 
@@ -501,6 +493,14 @@
 - [Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting](2024年10月29日/Reinforcement_Learning_for_Aligning_Large_Language_Models_Agents_with_Interactive_Environments_Quantifying_and_Mitigating_Prompt_Overfitting.md)
 
     - [翻译: 强化学习用于让大型语言模型代理与交互式环境相适配：对提示过拟合进行量化与缓解](2024年10月29日/Reinforcement_Learning_for_Aligning_Large_Language_Models_Agents_with_Interactive_Environments_Quantifying_and_Mitigating_Prompt_Overfitting.md)
+
+- [SceneGenAgent: Precise Industrial Scene Generation with Coding Agent](2024年10月29日/SceneGenAgent_Precise_Industrial_Scene_Generation_with_Coding_Agent.md)
+
+    - [翻译: SceneGenAgent：借助编码代理实现精准的工业场景生成](2024年10月29日/SceneGenAgent_Precise_Industrial_Scene_Generation_with_Coding_Agent.md)
+
+- [Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving](2024年10月29日/Senna_Bridging_Large_Vision-Language_Models_and_End-to-End_Autonomous_Driving.md)
+
+    - [翻译: 塞纳：架起大型视觉语言模型与端到端自动驾驶之间的桥梁](2024年10月29日/Senna_Bridging_Large_Vision-Language_Models_and_End-to-End_Autonomous_Driving.md)
 
 - [Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN](2024年10月29日/Synergizing_LLM_Agents_and_Knowledge_Graph_for_Socioeconomic_Prediction_in_LBSN.md)
 

@@ -190,10 +190,6 @@
 
     - [翻译: Velocitune：一种用于持续预训练的基于速度的动态域重加权方法](2024年11月21日/Velocitune_A_Velocity-based_Dynamic_Domain_Reweighting_Method_for_Continual_Pre-training.md)
 
-- [XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation](2024年11月21日/XAgents_A_Framework_for_Interpretable_Rule-Based_Multi-Agents_Cooperation.md)
-
-    - [翻译: XAgents：一个用于实现可解释的基于规则的多智能体合作的框架](2024年11月21日/XAgents_A_Framework_for_Interpretable_Rule-Based_Multi-Agents_Cooperation.md)
-
 2024年11月20日
 
 - [AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations](2024年11月20日/AdaptAgent_Adapting_Multimodal_Web_Agents_with_Few-Shot_Learning_from_Human_Demonstrations.md)
@@ -2088,10 +2084,6 @@
 
     - [翻译: EMMA：用于自动驾驶的端到端多模态模型](2024年11月04日/EMMA_End-to-End_Multimodal_Model_for_Autonomous_Driving.md)
 
-- [Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast](2024年11月04日/Evaluating_the_Ability_of_Large_Language_Models_to_Generate_Verifiable_Specifications_in_VeriFast.md)
-
-    - [翻译: 评估大型语言模型在 VeriFast 中生成可验证规范的能力](2024年11月04日/Evaluating_the_Ability_of_Large_Language_Models_to_Generate_Verifiable_Specifications_in_VeriFast.md)
-
 - [Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval](2024年11月04日/Exploring_Optimal_Transport-Based_Multi-Grained_Alignments_for_Text-Molecule_Retrieval.md)
 
     - [翻译: 探索用于文本-分子检索的基于最优传输的多粒度对齐方式](2024年11月04日/Exploring_Optimal_Transport-Based_Multi-Grained_Alignments_for_Text-Molecule_Retrieval.md)
@@ -2397,10 +2389,6 @@
 - [E2E-AFG: An End-to-End Model with Adaptive Filtering for Retrieval-Augmented Generation](2024年11月01日/E2E-AFG_An_End-to-End_Model_with_Adaptive_Filtering_for_Retrieval-Augmented_Generation.md)
 
     - [翻译: E2E-AFG：一种用于检索增强生成且具备自适应过滤功能的端到端模型](2024年11月01日/E2E-AFG_An_End-to-End_Model_with_Adaptive_Filtering_for_Retrieval-Augmented_Generation.md)
-
-- [Emoji Attack: A Method for Misleading Judge LLMs in Safety Risk Detection](2024年11月01日/Emoji_Attack_A_Method_for_Misleading_Judge_LLMs_in_Safety_Risk_Detection.md)
-
-    - [翻译: “表情符号攻击”：一种于安全风险检测中误导法官大型语言模型的手段](2024年11月01日/Emoji_Attack_A_Method_for_Misleading_Judge_LLMs_in_Safety_Risk_Detection.md)
 
 - [Enhancing AAC Software for Dysarthric Speakers in e-Health Settings: An Evaluation Using TORGO](2024年11月01日/Enhancing_AAC_Software_for_Dysarthric_Speakers_in_e-Health_Settings_An_Evaluation_Using_TORGO.md)
 
