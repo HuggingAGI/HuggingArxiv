@@ -538,10 +538,6 @@
 
     - [翻译: LLM-IE：一个可借助大型语言模型实现生成式信息提取的 Python 包](2024年11月18日/LLM-IE_A_Python_Package_for_Generative_Information_Extraction_with_Large_Language_Models.md)
 
-- [Long-time Freeness in the Kicked Top](2024年11月18日/Long-time_Freeness_in_the_Kicked_Top.md)
-
-    - [翻译: 被踢陀螺的长时间自由状态](2024年11月18日/Long-time_Freeness_in_the_Kicked_Top.md)
-
 - [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](2024年11月18日/LP_Data_Pipeline_Lightweight,_Purpose-driven_Data_Pipeline_for_Large_Language_Models.md)
 
     - [翻译: LP 数据管道：专为大型语言模型打造的轻量级、目标驱动型数据管道](2024年11月18日/LP_Data_Pipeline_Lightweight,_Purpose-driven_Data_Pipeline_for_Large_Language_Models.md)
@@ -589,10 +585,6 @@
 - [Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts](2024年11月18日/Quantifying_Preferences_of_Vision-Language_Models_via_Value_Decomposition_in_Social_Media_Contexts.md)
 
     - [翻译: 在社交媒体情境下，借由价值分解来量化视觉语言模型的偏好](2024年11月18日/Quantifying_Preferences_of_Vision-Language_Models_via_Value_Decomposition_in_Social_Media_Contexts.md)
-
-- [Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models](2024年11月18日/Safe_+_Safe_=_Unsafe_Exploring_How_Safe_Images_Can_Be_Exploited_to_Jailbreak_Large_Vision-Language_Models.md)
-
-    - [翻译: Safe + Safe = Unsafe？探究安全图像怎样被用于破解大型视觉语言模型](2024年11月18日/Safe_+_Safe_=_Unsafe_Exploring_How_Safe_Images_Can_Be_Exploited_to_Jailbreak_Large_Vision-Language_Models.md)
 
 - [SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory](2024年11月18日/SAMURAI_Adapting_Segment_Anything_Model_for_Zero-Shot_Visual_Tracking_with_Motion-Aware_Memory.md)
 
@@ -835,10 +827,6 @@
 - [Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?](2024年11月15日/Information_Extraction_from_Clinical_Notes_Are_We_Ready_to_Switch_to_Large_Language_Models.md)
 
     - [翻译: 从临床笔记中进行信息提取：我们是否已准备好切换至大型语言模型？](2024年11月15日/Information_Extraction_from_Clinical_Notes_Are_We_Ready_to_Switch_to_Large_Language_Models.md)
-
-- [Infrared-Assisted Single-Stage Framework for Joint Restoration and Fusion of Visible and Infrared Images under Hazy Conditions](2024年11月15日/Infrared-Assisted_Single-Stage_Framework_for_Joint_Restoration_and_Fusion_of_Visible_and_Infrared_Images_under_Hazy_Conditions.md)
-
-    - [翻译: 在朦胧条件下，用于可见光和红外图像联合恢复及融合的红外辅助单阶段框架](2024年11月15日/Infrared-Assisted_Single-Stage_Framework_for_Joint_Restoration_and_Fusion_of_Visible_and_Infrared_Images_under_Hazy_Conditions.md)
 
 - [Instruction-Guided Editing Controls for Images and Multimedia: A Survey in LLM era](2024年11月15日/Instruction-Guided_Editing_Controls_for_Images_and_Multimedia_A_Survey_in_LLM_era.md)
 
