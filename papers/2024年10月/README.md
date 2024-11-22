@@ -234,10 +234,6 @@
 
     - [翻译: 扩大成员推理：大型语言模型上的攻击何时以及怎样才能成功](2024年10月31日/Scaling_Up_Membership_Inference_When_and_How_Attacks_Succeed_on_Large_Language_Models.md)
 
-- [SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation](2024年10月31日/SceneComplete_Open-World_3D_Scene_Completion_in_Complex_Real_World_Environments_for_Robot_Manipulation.md)
-
-    - [翻译: SceneComplete：用于机器人操作的复杂现实世界环境中的开放世界 3D 场景补全](2024年10月31日/SceneComplete_Open-World_3D_Scene_Completion_in_Complex_Real_World_Environments_for_Robot_Manipulation.md)
-
 - [Schema Augmentation for Zero-Shot Domain Adaptation in Dialogue State Tracking](2024年10月31日/Schema_Augmentation_for_Zero-Shot_Domain_Adaptation_in_Dialogue_State_Tracking.md)
 
     - [翻译: 对话状态跟踪中零样本领域适应的模式增强](2024年10月31日/Schema_Augmentation_for_Zero-Shot_Domain_Adaptation_in_Dialogue_State_Tracking.md)
@@ -344,10 +340,6 @@
 
     - [翻译: CORAL: 为多轮对话的检索增强生成设立基准](2024年10月30日/CORAL_Benchmarking_Multi-turn_Conversational_Retrieval-Augmentation_Generation.md)
 
-- [Deep Learning and Machine Learning -- Natural Language Processing: From Theory to Application](2024年10月30日/Deep_Learning_and_Machine_Learning_--_Natural_Language_Processing_From_Theory_to_Application.md)
-
-    - [翻译: 深度学习与机器学习 -- 自然语言处理：由理论走向应用](2024年10月30日/Deep_Learning_and_Machine_Learning_--_Natural_Language_Processing_From_Theory_to_Application.md)
-
 - [Dynamic Strategy Planning for Efficient Question Answering with Large Language Models](2024年10月30日/Dynamic_Strategy_Planning_for_Efficient_Question_Answering_with_Large_Language_Models.md)
 
     - [翻译: 关于大型语言模型高效问答的动态策略规划](2024年10月30日/Dynamic_Strategy_Planning_for_Efficient_Question_Answering_with_Large_Language_Models.md)
@@ -411,10 +403,6 @@
 - [Mind the Gap: A Generalized Approach for Cross-Modal Embedding Alignment](2024年10月30日/Mind_the_Gap_A_Generalized_Approach_for_Cross-Modal_Embedding_Alignment.md)
 
     - [翻译: 留意差距：跨模态嵌入对齐的通用之法](2024年10月30日/Mind_the_Gap_A_Generalized_Approach_for_Cross-Modal_Embedding_Alignment.md)
-
-- [Multi-modal Spatial Clustering for Spatial Transcriptomics Utilizing High-resolution Histology Images](2024年10月30日/Multi-modal_Spatial_Clustering_for_Spatial_Transcriptomics_Utilizing_High-resolution_Histology_Images.md)
-
-    - [翻译: 利用高分辨率组织学图像进行空间转录组学的多模态空间聚类](2024年10月30日/Multi-modal_Spatial_Clustering_for_Spatial_Transcriptomics_Utilizing_High-resolution_Histology_Images.md)
 
 - [Online Intrinsic Rewards for Decision Making Agents from Large Language Model Feedback](2024年10月30日/Online_Intrinsic_Rewards_for_Decision_Making_Agents_from_Large_Language_Model_Feedback.md)
 
