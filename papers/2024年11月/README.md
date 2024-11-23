@@ -256,10 +256,6 @@
 
     - [翻译: 分解并借助专家模型的偏好来提升多语言大型语言模型（MLLMs）的可信度](2024年11月20日/Decompose_and_Leverage_Preferences_from_Expert_Models_for_Improving_Trustworthiness_of_MLLMs.md)
 
-- [Disentangling Memory and Reasoning Ability in Large Language Models](2024年11月20日/Disentangling_Memory_and_Reasoning_Ability_in_Large_Language_Models.md)
-
-    - [翻译: 解析大型语言模型中的记忆与推理能力](2024年11月20日/Disentangling_Memory_and_Reasoning_Ability_in_Large_Language_Models.md)
-
 - [DMQR-RAG: Diverse Multi-Query Rewriting for RAG](2024年11月20日/DMQR-RAG_Diverse_Multi-Query_Rewriting_for_RAG.md)
 
     - [翻译: DMQR-RAG：针对 RAG 的多样化多查询重写](2024年11月20日/DMQR-RAG_Diverse_Multi-Query_Rewriting_for_RAG.md)
@@ -843,10 +839,6 @@
 - [TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection](2024年11月18日/TSINR_Capturing_Temporal_Continuity_via_Implicit_Neural_Representations_for_Time_Series_Anomaly_Detection.md)
 
     - [翻译: TSINR：借助隐式神经表示来捕获时间连续性，以实现时间序列异常检测](2024年11月18日/TSINR_Capturing_Temporal_Continuity_via_Implicit_Neural_Representations_for_Time_Series_Anomaly_Detection.md)
-
-- [Uncovering the role of semantic and acoustic cues in normal and dichotic listening](2024年11月18日/Uncovering_the_role_of_semantic_and_acoustic_cues_in_normal_and_dichotic_listening.md)
-
-    - [翻译: 探寻语义和声学线索在正常及双耳分听里的角色](2024年11月18日/Uncovering_the_role_of_semantic_and_acoustic_cues_in_normal_and_dichotic_listening.md)
 
 - [Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development](2024年11月18日/Zero-Shot_Automatic_Annotation_and_Instance_Segmentation_using_LLM-Generated_Datasets_Eliminating_Field_Imaging_and_Manual_Annotation_for_Deep_Learning_Model_Development.md)
 
@@ -1782,10 +1774,6 @@
 
     - [翻译: AutoProteinEngine：用于蛋白质工程中多模态自动机器学习的大型语言模型驱动的代理框架](2024年11月07日/AutoProteinEngine_A_Large_Language_Model_Driven_Agent_Framework_for_Multimodal_AutoML_in_Protein_Engineering.md)
 
-- [Best Practices for Distilling Large Language Models into BERT for Web Search Ranking](2024年11月07日/Best_Practices_for_Distilling_Large_Language_Models_into_BERT_for_Web_Search_Ranking.md)
-
-    - [翻译: 将大型语言模型提炼为 BERT 用于网络搜索排名的最佳实践](2024年11月07日/Best_Practices_for_Distilling_Large_Language_Models_into_BERT_for_Web_Search_Ranking.md)
-
 - [Beyond the Numbers: Transparency in Relation Extraction Benchmark Creation and Leaderboards](2024年11月07日/Beyond_the_Numbers_Transparency_in_Relation_Extraction_Benchmark_Creation_and_Leaderboards.md)
 
     - [翻译: 超越数字：关系抽取基准创建与排行榜的透明度](2024年11月07日/Beyond_the_Numbers_Transparency_in_Relation_Extraction_Benchmark_Creation_and_Leaderboards.md)
@@ -1853,14 +1841,6 @@
 - [PIAST: A Multimodal Piano Dataset with Audio, Symbolic and Text](2024年11月07日/PIAST_A_Multimodal_Piano_Dataset_with_Audio,_Symbolic_and_Text.md)
 
     - [翻译: PIAST：一个具有音频、符号和文本的多模态钢琴数据集](2024年11月07日/PIAST_A_Multimodal_Piano_Dataset_with_Audio,_Symbolic_and_Text.md)
-
-- [Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability](2024年11月07日/Position_Paper_On_Diagnostic_Uncertainty_Estimation_from_Large_Language_Models_Next-Word_Probability_Is_Not_Pre-test_Probability.md)
-
-    - [翻译: 关于大型语言模型诊断不确定性估计的立场文件：下一个词的概率不是预测试概率](2024年11月07日/Position_Paper_On_Diagnostic_Uncertainty_Estimation_from_Large_Language_Models_Next-Word_Probability_Is_Not_Pre-test_Probability.md)
-
-- [RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model](2024年11月07日/RT-Grasp_Reasoning_Tuning_Robotic_Grasping_via_Multi-modal_Large_Language_Model.md)
-
-    - [翻译: RT-Grasp：借助多模态大型语言模型实现机器人抓取的推理调整](2024年11月07日/RT-Grasp_Reasoning_Tuning_Robotic_Grasping_via_Multi-modal_Large_Language_Model.md)
 
 - [Seeing is Deceiving: Exploitation of Visual Pathways in Multi-Modal Language Models](2024年11月07日/Seeing_is_Deceiving_Exploitation_of_Visual_Pathways_in_Multi-Modal_Language_Models.md)
 
