@@ -254,10 +254,6 @@
 
     - [翻译: SuctionPrompt：借助视觉语言模型和简便的硬件设计实现带吸盘的视觉辅助机器人拣选](2024年10月31日/SuctionPrompt_Visual-assisted_Robotic_Picking_with_a_Suction_Cup_Using_Vision-Language_Models_and_Facile_Hardware_Design.md)
 
-- [Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model](2024年10月31日/Text-DiFuse_An_Interactive_Multi-Modal_Image_Fusion_Framework_based_on_Text-modulated_Diffusion_Model.md)
-
-    - [翻译: Text-DiFuse：一个基于文本调制扩散模型的交互式多模态图像融合框架](2024年10月31日/Text-DiFuse_An_Interactive_Multi-Modal_Image_Fusion_Framework_based_on_Text-modulated_Diffusion_Model.md)
-
 - [The NPU-HWC System for the ISCSLP 2024 Inspirational and Convincing Audio Generation Challenge](2024年10月31日/The_NPU-HWC_System_for_the_ISCSLP_2024_Inspirational_and_Convincing_Audio_Generation_Challenge.md)
 
     - [翻译: ISCSLP 2024 鼓舞人心且令人信服的音频生成挑战所采用的 NPU-HWC 系统](2024年10月31日/The_NPU-HWC_System_for_the_ISCSLP_2024_Inspirational_and_Convincing_Audio_Generation_Challenge.md)
@@ -442,10 +438,6 @@
 
 2024年10月29日
 
-- [$\textbf{EMOS}$: $\textbf{E}$mbodiment-aware Heterogeneous $\textbf{M}$ulti-robot $\textbf{O}$perating $\textbf{S}$ystem with LLM Agents](2024年10月29日/$\textbf{EMOS}$_$\textbf{E}$mbodiment-aware_Heterogeneous_$\textbf{M}$ulti-robot_$\textbf{O}$perating_$\textbf{S}$ystem_with_LLM_Agents.md)
-
-    - [翻译: $	extbf{EMOS}$: 具有 LLM 代理的具身感知异构多机器人操作系统](2024年10月29日/$\textbf{EMOS}$_$\textbf{E}$mbodiment-aware_Heterogeneous_$\textbf{M}$ulti-robot_$\textbf{O}$perating_$\textbf{S}$ystem_with_LLM_Agents.md)
-
 - [A Bayesian Approach to Harnessing the Power of LLMs in Authorship Attribution](2024年10月29日/A_Bayesian_Approach_to_Harnessing_the_Power_of_LLMs_in_Authorship_Attribution.md)
 
     - [翻译: 一种用于在作者归属方面发挥 LLMs 作用的贝叶斯方法](2024年10月29日/A_Bayesian_Approach_to_Harnessing_the_Power_of_LLMs_in_Authorship_Attribution.md)
@@ -498,6 +490,10 @@
 
     - [翻译: ContextIQ：一个基于多模态专家的情境广告视频检索系统](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
 
+- [Contextual Representation Anchor Network to Alleviate Selection Bias in Few-Shot Drug Discovery](2024年10月29日/Contextual_Representation_Anchor_Network_to_Alleviate_Selection_Bias_in_Few-Shot_Drug_Discovery.md)
+
+    - [翻译: 情境表示锚定网络用于缓解少样本药物发现中的选择偏差](2024年10月29日/Contextual_Representation_Anchor_Network_to_Alleviate_Selection_Bias_in_Few-Shot_Drug_Discovery.md)
+
 - [CurateGPT: A flexible language-model assisted biocuration tool](2024年10月29日/CurateGPT_A_flexible_language-model_assisted_biocuration_tool.md)
 
     - [翻译: CurateGPT ：一款灵活的语言模型辅助的生物编目工具](2024年10月29日/CurateGPT_A_flexible_language-model_assisted_biocuration_tool.md)
@@ -518,6 +514,10 @@
 
     - [翻译: 高效的针对文本和表格的学习查询执行 [技术报告]](2024年10月29日/Efficient_Learned_Query_Execution_over_Text_and_Tables_[Technical_Report].md)
 
+- [Embedding-based classifiers can detect prompt injection attacks](2024年10月29日/Embedding-based_classifiers_can_detect_prompt_injection_attacks.md)
+
+    - [翻译: 基于嵌入的分类器能够检测出提示注入攻击](2024年10月29日/Embedding-based_classifiers_can_detect_prompt_injection_attacks.md)
+
 - [Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models](2024年10月29日/Enhancing_Code_Annotation_Reliability_Generative_AI's_Role_in_Comment_Quality_Assessment_Models.md)
 
     - [翻译: 提升代码注释的可靠性：生成式 AI 在注释质量评估模型里的角色](2024年10月29日/Enhancing_Code_Annotation_Reliability_Generative_AI's_Role_in_Comment_Quality_Assessment_Models.md)
@@ -525,6 +525,10 @@
 - [Enhancing Financial Question Answering with a Multi-Agent Reflection Framework](2024年10月29日/Enhancing_Financial_Question_Answering_with_a_Multi-Agent_Reflection_Framework.md)
 
     - [翻译: 利用多智能体反射框架提升金融问题的回答能力](2024年10月29日/Enhancing_Financial_Question_Answering_with_a_Multi-Agent_Reflection_Framework.md)
+
+- [Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection](2024年10月29日/Fine-tuning_Large_Language_Models_for_DGA_and_DNS_Exfiltration_Detection.md)
+
+    - [翻译: 对大型语言模型进行微调以用于 DGA 和 DNS 数据泄露检测](2024年10月29日/Fine-tuning_Large_Language_Models_for_DGA_and_DNS_Exfiltration_Detection.md)
 
 - [Fine-Tuning LLMs for Code Mutation: A New Era of Cyber Threats](2024年10月29日/Fine-Tuning_LLMs_for_Code_Mutation_A_New_Era_of_Cyber_Threats.md)
 
@@ -538,9 +542,9 @@
 
     - [翻译: 傅里叶头：助力大型语言模型习得复杂概率分布](2024年10月29日/Fourier_Head_Helping_Large_Language_Models_Learn_Complex_Probability_Distributions.md)
 
-- [GraphAide: Advanced Graph-Assisted Query and Reasoning System](2024年10月29日/GraphAide_Advanced_Graph-Assisted_Query_and_Reasoning_System.md)
+- [Generating Realistic Tabular Data with Large Language Models](2024年10月29日/Generating_Realistic_Tabular_Data_with_Large_Language_Models.md)
 
-    - [翻译: GraphAide：先进的图形辅助查询与推理系统](2024年10月29日/GraphAide_Advanced_Graph-Assisted_Query_and_Reasoning_System.md)
+    - [翻译: 利用大型语言模型生成逼真的表格数据](2024年10月29日/Generating_Realistic_Tabular_Data_with_Large_Language_Models.md)
 
 - [IDEATOR: Jailbreaking VLMs Using VLMs](2024年10月29日/IDEATOR_Jailbreaking_VLMs_Using_VLMs.md)
 
@@ -554,9 +558,17 @@
 
     - [翻译: 丹麦工作匹配能力的联合提取与分类](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
 
+- [Large Language Models Based JSON Parser Fuzzing for Bug Discovery and Behavioral Analysis](2024年10月29日/Large_Language_Models_Based_JSON_Parser_Fuzzing_for_Bug_Discovery_and_Behavioral_Analysis.md)
+
+    - [翻译: 基于大型语言模型的 JSON 解析器模糊测试，用于错误发现与行为分析](2024年10月29日/Large_Language_Models_Based_JSON_Parser_Fuzzing_for_Bug_Discovery_and_Behavioral_Analysis.md)
+
 - [Learning and Unlearning of Fabricated Knowledge in Language Models](2024年10月29日/Learning_and_Unlearning_of_Fabricated_Knowledge_in_Language_Models.md)
 
     - [翻译: 语言模型里对虚构知识的学习与忘却](2024年10月29日/Learning_and_Unlearning_of_Fabricated_Knowledge_in_Language_Models.md)
+
+- [Let's Be Self-generated via Step by Step: A Curriculum Learning Approach to Automated Reasoning with Large Language Models](2024年10月29日/Let's_Be_Self-generated_via_Step_by_Step_A_Curriculum_Learning_Approach_to_Automated_Reasoning_with_Large_Language_Models.md)
+
+    - [翻译: 让我们逐步实现自我生成：大型语言模型自动推理的一种课程学习方式](2024年10月29日/Let's_Be_Self-generated_via_Step_by_Step_A_Curriculum_Learning_Approach_to_Automated_Reasoning_with_Large_Language_Models.md)
 
 - [Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach](2024年10月29日/Leveraging_LLMs_for_Hypothetical_Deduction_in_Logical_Inference_A_Neuro-Symbolic_Approach.md)
 
@@ -570,9 +582,25 @@
 
     - [翻译: MARCO：多智能体实时聊天的编排](2024年10月29日/MARCO_Multi-Agent_Real-time_Chat_Orchestration.md)
 
+- [MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding](2024年10月29日/MotionGPT-2_A_General-Purpose_Motion-Language_Model_for_Motion_Generation_and_Understanding.md)
+
+    - [翻译: MotionGPT-2：一个用于动作生成与理解的通用动作语言模型](2024年10月29日/MotionGPT-2_A_General-Purpose_Motion-Language_Model_for_Motion_Generation_and_Understanding.md)
+
+- [Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier](2024年10月29日/Multi-Class_Textual-Inversion_Secretly_Yields_a_Semantic-Agnostic_Classifier.md)
+
+    - [翻译: 多类文本反转竟悄然生成了一个语义无关的分类器](2024年10月29日/Multi-Class_Textual-Inversion_Secretly_Yields_a_Semantic-Agnostic_Classifier.md)
+
 - [Not All Languages are Equal: Insights into Multilingual Retrieval-Augmented Generation](2024年10月29日/Not_All_Languages_are_Equal_Insights_into_Multilingual_Retrieval-Augmented_Generation.md)
 
     - [翻译: 并非所有语言都平等：有关多语言检索增强生成的洞察](2024年10月29日/Not_All_Languages_are_Equal_Insights_into_Multilingual_Retrieval-Augmented_Generation.md)
+
+- [Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting](2024年10月29日/Online_Detecting_LLM-Generated_Texts_via_Sequential_Hypothesis_Testing_by_Betting.md)
+
+    - [翻译: 通过投注进行的顺序假设检验来在线检测 LLM 生成的文本](2024年10月29日/Online_Detecting_LLM-Generated_Texts_via_Sequential_Hypothesis_Testing_by_Betting.md)
+
+- [Preserving Pre-trained Representation Space: On Effectiveness of Prefix-tuning for Large Multi-modal Models](2024年10月29日/Preserving_Pre-trained_Representation_Space_On_Effectiveness_of_Prefix-tuning_for_Large_Multi-modal_Models.md)
+
+    - [翻译: 保留预训练的表示空间：论前缀调整对大型多模态模型的有效性](2024年10月29日/Preserving_Pre-trained_Representation_Space_On_Effectiveness_of_Prefix-tuning_for_Large_Multi-modal_Models.md)
 
 - [ProMoE: Fast MoE-based LLM Serving using Proactive Caching](2024年10月29日/ProMoE_Fast_MoE-based_LLM_Serving_using_Proactive_Caching.md)
 
@@ -581,6 +609,14 @@
 - [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](2024年10月29日/Protecting_Privacy_in_Multimodal_Large_Language_Models_with_MLLMU-Bench.md)
 
     - [翻译: 借助 MLLMU-Bench 保护多模态大型语言模型中的隐私](2024年10月29日/Protecting_Privacy_in_Multimodal_Large_Language_Models_with_MLLMU-Bench.md)
+
+- [PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation](2024年10月29日/PV-VTT_A_Privacy-Centric_Dataset_for_Mission-Specific_Anomaly_Detection_and_Natural_Language_Interpretation.md)
+
+    - [翻译: PV-VTT：一个聚焦隐私的数据集，用于特定任务中的异常检测与自然语言解释](2024年10月29日/PV-VTT_A_Privacy-Centric_Dataset_for_Mission-Specific_Anomaly_Detection_and_Natural_Language_Interpretation.md)
+
+- [RNA-GPT: Multimodal Generative System for RNA Sequence Understanding](2024年10月29日/RNA-GPT_Multimodal_Generative_System_for_RNA_Sequence_Understanding.md)
+
+    - [翻译: RNA-GPT：用于 RNA 序列理解的多模态生成体系](2024年10月29日/RNA-GPT_Multimodal_Generative_System_for_RNA_Sequence_Understanding.md)
 
 - [SceneGenAgent: Precise Industrial Scene Generation with Coding Agent](2024年10月29日/SceneGenAgent_Precise_Industrial_Scene_Generation_with_Coding_Agent.md)
 
@@ -629,6 +665,10 @@
 - [Training LLMs for Generating IEC 61131-3 Structured Text with Online Feedback](2024年10月29日/Training_LLMs_for_Generating_IEC_61131-3_Structured_Text_with_Online_Feedback.md)
 
     - [翻译: 训练大型语言模型，利用在线反馈来生成 IEC 61131-3 结构化文本](2024年10月29日/Training_LLMs_for_Generating_IEC_61131-3_Structured_Text_with_Online_Feedback.md)
+
+- [Uncertainty Quantification via Hölder Divergence for Multi-View Representation Learning](2024年10月29日/Uncertainty_Quantification_via_Hölder_Divergence_for_Multi-View_Representation_Learning.md)
+
+    - [翻译: 借助 Hölder 散度实现多视图表示学习中的不确定性量化](2024年10月29日/Uncertainty_Quantification_via_Hölder_Divergence_for_Multi-View_Representation_Learning.md)
 
 - [Understanding Synthetic Context Extension via Retrieval Heads](2024年10月29日/Understanding_Synthetic_Context_Extension_via_Retrieval_Heads.md)
 

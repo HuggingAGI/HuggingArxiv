@@ -22,10 +22,6 @@
 
     - [翻译: 用于减轻极端水下领域视觉干扰的去雾辅助多速率多模态姿态估计框架](2024年11月21日/Dehazing-aided_Multi-Rate_Multi-Modal_Pose_Estimation_Framework_for_Mitigating_Visual_Disturbances_in_Extreme_Underwater_Domain.md)
 
-- [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](2024年11月21日/DINO-X_A_Unified_Vision_Model_for_Open-World_Object_Detection_and_Understanding.md)
-
-    - [翻译: DINO-X：用于开放世界中对象检测与理解的统一视觉模型](2024年11月21日/DINO-X_A_Unified_Vision_Model_for_Open-World_Object_Detection_and_Understanding.md)
-
 - [Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models](2024年11月21日/Do_I_Know_This_Entity_Knowledge_Awareness_and_Hallucinations_in_Language_Models.md)
 
     - [翻译: 我是否了解此实体？语言模型中的知识感知与幻觉](2024年11月21日/Do_I_Know_This_Entity_Knowledge_Awareness_and_Hallucinations_in_Language_Models.md)
@@ -760,10 +756,6 @@
 
     - [翻译: 缓解上下文词嵌入中的性别偏差](2024年11月18日/Mitigating_Gender_Bias_in_Contextual_Word_Embeddings.md)
 
-- [Molecule Generation with Fragment Retrieval Augmentation](2024年11月18日/Molecule_Generation_with_Fragment_Retrieval_Augmentation.md)
-
-    - [翻译: 利用片段检索增强的分子生成](2024年11月18日/Molecule_Generation_with_Fragment_Retrieval_Augmentation.md)
-
 - [Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment](2024年11月18日/Moral_Persuasion_in_Large_Language_Models_Evaluating_Susceptibility_and_Ethical_Alignment.md)
 
     - [翻译: 在大型语言模型中的道德劝说：评估其敏感性与伦理一致性](2024年11月18日/Moral_Persuasion_in_Large_Language_Models_Evaluating_Susceptibility_and_Ethical_Alignment.md)
@@ -978,10 +970,6 @@
 
     - [翻译: EyeDiff：文本到图像的扩散模型提升了罕见眼病的诊断能力](2024年11月15日/EyeDiff_text-to-image_diffusion_model_improves_rare_eye_disease_diagnosis.md)
 
-- [Generative Agent Simulations of 1,000 People](2024年11月15日/Generative_Agent_Simulations_of_1,000_People.md)
-
-    - [翻译: 1000 人的生成式代理模拟](2024年11月15日/Generative_Agent_Simulations_of_1,000_People.md)
-
 - [HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun](2024年11月15日/HistoLens_An_LLM-Powered_Framework_for_Multi-Layered_Analysis_of_Historical_Texts_--_A_Case_Application_of_Yantie_Lun.md)
 
     - [翻译: HistoLens：一个由 LLM 驱动的历史文本多层分析框架——以《盐铁论》为例](2024年11月15日/HistoLens_An_LLM-Powered_Framework_for_Multi-Layered_Analysis_of_Historical_Texts_--_A_Case_Application_of_Yantie_Lun.md)
@@ -1033,10 +1021,6 @@
 - [MTA: Multimodal Task Alignment for BEV Perception and Captioning](2024年11月15日/MTA_Multimodal_Task_Alignment_for_BEV_Perception_and_Captioning.md)
 
     - [翻译: MTA：实现 BEV 感知与字幕的多模态任务对齐](2024年11月15日/MTA_Multimodal_Task_Alignment_for_BEV_Perception_and_Captioning.md)
-
-- [Patient-Specific Models of Treatment Effects Explain Heterogeneity in Tuberculosis](2024年11月15日/Patient-Specific_Models_of_Treatment_Effects_Explain_Heterogeneity_in_Tuberculosis.md)
-
-    - [翻译: 患者特异性的治疗效果模型阐释了结核病的异质性](2024年11月15日/Patient-Specific_Models_of_Treatment_Effects_Explain_Heterogeneity_in_Tuberculosis.md)
 
 - [PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse](2024年11月15日/PFML_Self-Supervised_Learning_of_Time-Series_Data_Without_Representation_Collapse.md)
 
@@ -1344,10 +1328,6 @@
 
     - [翻译: 熵可控直接偏好优化](2024年11月12日/Entropy_Controllable_Direct_Preference_Optimization.md)
 
-- [From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents](2024年11月12日/From_General_to_Specific_Utilizing_General_Hallucation_to_Automatically_Measure_the_Role_Relationship_Fidelity_for_Specific_Role-Play_Agents.md)
-
-    - [翻译: 从一般到具体：利用一般幻觉来自动测量特定角色扮演代理的角色关系保真度](2024年11月12日/From_General_to_Specific_Utilizing_General_Hallucation_to_Automatically_Measure_the_Role_Relationship_Fidelity_for_Specific_Role-Play_Agents.md)
-
 - [Generative AI in Self-Directed Learning: A Scoping Review](2024年11月12日/Generative_AI_in_Self-Directed_Learning_A_Scoping_Review.md)
 
     - [翻译: 生成式人工智能在自主学习中的应用：范围综述](2024年11月12日/Generative_AI_in_Self-Directed_Learning_A_Scoping_Review.md)
@@ -1433,10 +1413,6 @@
 - [DecoPrompt : Decoding Prompts Reduces Hallucinations when Large Language Models Meet False Premises](2024年11月11日/DecoPrompt__Decoding_Prompts_Reduces_Hallucinations_when_Large_Language_Models_Meet_False_Premises.md)
 
     - [翻译: DecoPrompt ：当大型语言模型遭遇错误前提时，通过解码提示能够减少幻觉。](2024年11月11日/DecoPrompt__Decoding_Prompts_Reduces_Hallucinations_when_Large_Language_Models_Meet_False_Premises.md)
-
-- [Edify 3D: Scalable High-Quality 3D Asset Generation](2024年11月11日/Edify_3D_Scalable_High-Quality_3D_Asset_Generation.md)
-
-    - [翻译: Edify 3D：可扩展的高品质 3D 资产生成](2024年11月11日/Edify_3D_Scalable_High-Quality_3D_Asset_Generation.md)
 
 - [Ética para LLMs: o compartilhamento de dados sociolinguísticos](2024年11月11日/Ética_para_LLMs_o_compartilhamento_de_dados_sociolinguísticos.md)
 
@@ -1761,10 +1737,6 @@
 - [GPT Semantic Cache: Reducing LLM Costs and Latency via Semantic Embedding Caching](2024年11月07日/GPT_Semantic_Cache_Reducing_LLM_Costs_and_Latency_via_Semantic_Embedding_Caching.md)
 
     - [翻译: GPT 语义缓存：借由语义嵌入缓存来降低 LLM 的成本与延迟](2024年11月07日/GPT_Semantic_Cache_Reducing_LLM_Costs_and_Latency_via_Semantic_Embedding_Caching.md)
-
-- [GPUVM: GPU-driven Unified Virtual Memory](2024年11月07日/GPUVM_GPU-driven_Unified_Virtual_Memory.md)
-
-    - [翻译: GPUVM: 由 GPU 驱动的统一虚拟内存](2024年11月07日/GPUVM_GPU-driven_Unified_Virtual_Memory.md)
 
 - [GUI Agents with Foundation Models: A Comprehensive Survey](2024年11月07日/GUI_Agents_with_Foundation_Models_A_Comprehensive_Survey.md)
 
@@ -2098,10 +2070,6 @@
 
     - [翻译: 唐纳德·特朗普在虚拟民意调查里：借助大型语言模型对调查中的公众意见进行模拟和预测](2024年11月03日/Donald_Trumps_in_the_Virtual_Polls_Simulating_and_Predicting_Public_Opinions_in_Surveys_Using_Large_Language_Models.md)
 
-- [EEE-Bench: A Comprehensive Multimodal Electrical And Electronics Engineering Benchmark](2024年11月03日/EEE-Bench_A_Comprehensive_Multimodal_Electrical_And_Electronics_Engineering_Benchmark.md)
-
-    - [翻译: EEE-Bench：一个综合性的多模态电气与电子工程基准](2024年11月03日/EEE-Bench_A_Comprehensive_Multimodal_Electrical_And_Electronics_Engineering_Benchmark.md)
-
 - [Enhancing LLM Evaluations: The Garbling Trick](2024年11月03日/Enhancing_LLM_Evaluations_The_Garbling_Trick.md)
 
     - [翻译: 提升 LLM 评估：乱序之法](2024年11月03日/Enhancing_LLM_Evaluations_The_Garbling_Trick.md)
@@ -2212,10 +2180,6 @@
 
     - [翻译: NLP 与教育：借助语义相似度评估课堂大规模完形填空测试中的填空情况](2024年11月02日/NLP_and_Education_using_semantic_similarity_to_evaluate_filled_gaps_in_a_large-scale_Cloze_test_in_the_classroom.md)
 
-- [One Arrow, Many Targets: Probing LLMs for Multi-Attribute Controllable Text Summarization](2024年11月02日/One_Arrow,_Many_Targets_Probing_LLMs_for_Multi-Attribute_Controllable_Text_Summarization.md)
-
-    - [翻译: 一箭多标：探索大型语言模型实现多属性可控的文本摘要](2024年11月02日/One_Arrow,_Many_Targets_Probing_LLMs_for_Multi-Attribute_Controllable_Text_Summarization.md)
-
 - [On MCMC mixing under unidentified nonparametric models with an application to survival predictions under transformation models](2024年11月02日/On_MCMC_mixing_under_unidentified_nonparametric_models_with_an_application_to_survival_predictions_under_transformation_models.md)
 
     - [翻译: 关于未识别非参数模型中的 MCMC 混合及其在变换模型下生存预测的应用](2024年11月02日/On_MCMC_mixing_under_unidentified_nonparametric_models_with_an_application_to_survival_predictions_under_transformation_models.md)
@@ -2266,10 +2230,6 @@
 
     - [翻译: 从信息理论视角剖析变分自编码器里的多模态集成](2024年11月01日/Analyzing_Multimodal_Integration_in_the_Variational_Autoencoder_from_an_Information-Theoretic_Perspective.md)
 
-- [AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations using Fine-tuned and Open-Source LLMs](2024年11月01日/AttackQA_Development_and_Adoption_of_a_Dataset_for_Assisting_Cybersecurity_Operations_using_Fine-tuned_and_Open-Source_LLMs.md)
-
-    - [翻译: AttackQA：开发并采用一个数据集，以借助微调的和开源的大型语言模型来协助网络安全操作](2024年11月01日/AttackQA_Development_and_Adoption_of_a_Dataset_for_Assisting_Cybersecurity_Operations_using_Fine-tuned_and_Open-Source_LLMs.md)
-
 - [Attention Tracker: Detecting Prompt Injection Attacks in LLMs](2024年11月01日/Attention_Tracker_Detecting_Prompt_Injection_Attacks_in_LLMs.md)
 
     - [翻译: 注意力追踪器：侦测大型语言模型中的提示注入式攻击](2024年11月01日/Attention_Tracker_Detecting_Prompt_Injection_Attacks_in_LLMs.md)
@@ -2281,10 +2241,6 @@
 - [CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](2024年11月01日/CLIP-RT_Learning_Language-Conditioned_Robotic_Policies_from_Natural_Language_Supervision.md)
 
     - [翻译: CLIP-RT：从自然语言监督中习得语言条件下的机器人策略](2024年11月01日/CLIP-RT_Learning_Language-Conditioned_Robotic_Policies_from_Natural_Language_Supervision.md)
-
-- [Defense Against Prompt Injection Attack by Leveraging Attack Techniques](2024年11月01日/Defense_Against_Prompt_Injection_Attack_by_Leveraging_Attack_Techniques.md)
-
-    - [翻译: 借助攻击技术抵御提示注入攻击](2024年11月01日/Defense_Against_Prompt_Injection_Attack_by_Leveraging_Attack_Techniques.md)
 
 - [Does GenAI Make Usability Testing Obsolete?](2024年11月01日/Does_GenAI_Make_Usability_Testing_Obsolete.md)
 
@@ -2385,10 +2341,6 @@
 - [Multi-Agent Large Language Models for Conversational Task-Solving](2024年11月01日/Multi-Agent_Large_Language_Models_for_Conversational_Task-Solving.md)
 
     - [翻译: 用于会话任务解决的多智能体大型语言模型](2024年11月01日/Multi-Agent_Large_Language_Models_for_Conversational_Task-Solving.md)
-
-- [Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models](2024年11月01日/Multi-expert_Prompting_Improves_Reliability,_Safety,_and_Usefulness_of_Large_Language_Models.md)
-
-    - [翻译: 多专家提示提升了大型语言模型的可靠性、安全性及有用性](2024年11月01日/Multi-expert_Prompting_Improves_Reliability,_Safety,_and_Usefulness_of_Large_Language_Models.md)
 
 - [On the Exploration of LM-Based Soft Modular Robot Design](2024年11月01日/On_the_Exploration_of_LM-Based_Soft_Modular_Robot_Design.md)
 
