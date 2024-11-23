@@ -558,6 +558,10 @@
 
     - [翻译: 利用小型语言模型集成提升上下文学习效果](2024年10月29日/Improving_In-Context_Learning_with_Small_Language_Model_Ensembles.md)
 
+- [Improving Performance of Commercially Available AI Products in a Multi-Agent Configuration](2024年10月29日/Improving_Performance_of_Commercially_Available_AI_Products_in_a_Multi-Agent_Configuration.md)
+
+    - [翻译: 提升多智能体配置下商用 AI 产品的性能](2024年10月29日/Improving_Performance_of_Commercially_Available_AI_Products_in_a_Multi-Agent_Configuration.md)
+
 - [Joint Extraction and Classification of Danish Competences for Job Matching](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
 
     - [翻译: 丹麦工作匹配能力的联合提取与分类](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
@@ -622,6 +626,10 @@
 
     - [翻译: RNA-GPT：用于 RNA 序列理解的多模态生成体系](2024年10月29日/RNA-GPT_Multimodal_Generative_System_for_RNA_Sequence_Understanding.md)
 
+- [Scaling LLM Inference with Optimized Sample Compute Allocation](2024年10月29日/Scaling_LLM_Inference_with_Optimized_Sample_Compute_Allocation.md)
+
+    - [翻译: 利用优化的样本计算分配来拓展 LLM 推理](2024年10月29日/Scaling_LLM_Inference_with_Optimized_Sample_Compute_Allocation.md)
+
 - [SceneGenAgent: Precise Industrial Scene Generation with Coding Agent](2024年10月29日/SceneGenAgent_Precise_Industrial_Scene_Generation_with_Coding_Agent.md)
 
     - [翻译: SceneGenAgent：借助编码代理实现精准的工业场景生成](2024年10月29日/SceneGenAgent_Precise_Industrial_Scene_Generation_with_Coding_Agent.md)
@@ -633,6 +641,10 @@
 - [Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving](2024年10月29日/Senna_Bridging_Large_Vision-Language_Models_and_End-to-End_Autonomous_Driving.md)
 
     - [翻译: 塞纳：架起大型视觉语言模型与端到端自动驾驶之间的桥梁](2024年10月29日/Senna_Bridging_Large_Vision-Language_Models_and_End-to-End_Autonomous_Driving.md)
+
+- [SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types](2024年10月29日/SG-Bench_Evaluating_LLM_Safety_Generalization_Across_Diverse_Tasks_and_Prompt_Types.md)
+
+    - [翻译: SG-Bench：评估大型语言模型在各类任务和提示类型中的安全泛化情况](2024年10月29日/SG-Bench_Evaluating_LLM_Safety_Generalization_Across_Diverse_Tasks_and_Prompt_Types.md)
 
 - [Standardization Trends on Safety and Trustworthiness Technology for Advanced AI](2024年10月29日/Standardization_Trends_on_Safety_and_Trustworthiness_Technology_for_Advanced_AI.md)
 
