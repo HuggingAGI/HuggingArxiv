@@ -42,10 +42,6 @@
 
     - [翻译: 由参与驱动的大型语言模型内容生成](2024年11月21日/Engagement-Driven_Content_Generation_with_Large_Language_Models.md)
 
-- [Evaluating the Robustness of Analogical Reasoning in Large Language Models](2024年11月21日/Evaluating_the_Robustness_of_Analogical_Reasoning_in_Large_Language_Models.md)
-
-    - [翻译: 对大型语言模型中类比推理的稳健程度进行评估](2024年11月21日/Evaluating_the_Robustness_of_Analogical_Reasoning_in_Large_Language_Models.md)
-
 - [FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression](2024年11月21日/FocusLLaVA_A_Coarse-to-Fine_Approach_for_Efficient_and_Effective_Visual_Token_Compression.md)
 
     - [翻译: FocusLLaVA：一种实现高效且有效视觉标记压缩的从粗到细的方法](2024年11月21日/FocusLLaVA_A_Coarse-to-Fine_Approach_for_Efficient_and_Effective_Visual_Token_Compression.md)
@@ -312,10 +308,6 @@
 
     - [翻译: InstCache：LLM 服务的预测缓存](2024年11月20日/InstCache_A_Predictive_Cache_for_LLM_Serving.md)
 
-- [Interactive and Expressive Code-Augmented Planning with Large Language Models](2024年11月20日/Interactive_and_Expressive_Code-Augmented_Planning_with_Large_Language_Models.md)
-
-    - [翻译: 利用大型语言模型的交互式且富有表现力的代码增强规划](2024年11月20日/Interactive_and_Expressive_Code-Augmented_Planning_with_Large_Language_Models.md)
-
 - [Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL](2024年11月20日/Leveraging_Prior_Experience_An_Expandable_Auxiliary_Knowledge_Base_for_Text-to-SQL.md)
 
     - [翻译: 借助先前经验：面向文本到 SQL 的可扩展辅助知识库](2024年11月20日/Leveraging_Prior_Experience_An_Expandable_Auxiliary_Knowledge_Base_for_Text-to-SQL.md)
@@ -473,10 +465,6 @@
 - [Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution](2024年11月19日/Contourlet_Refinement_Gate_Framework_for_Thermal_Spectrum_Distribution_Regularized_Infrared_Image_Super-Resolution.md)
 
     - [翻译: 用于热光谱分布正则化红外图像超分辨率的 Contourlet 细化门框架](2024年11月19日/Contourlet_Refinement_Gate_Framework_for_Thermal_Spectrum_Distribution_Regularized_Infrared_Image_Super-Resolution.md)
-
-- [CUE-M: Contextual Understanding and Enhanced Search with Multimodal Large Language Model](2024年11月19日/CUE-M_Contextual_Understanding_and_Enhanced_Search_with_Multimodal_Large_Language_Model.md)
-
-    - [翻译: CUE-M：借助多模态大型语言模型实现的上下文理解与增强搜索](2024年11月19日/CUE-M_Contextual_Understanding_and_Enhanced_Search_with_Multimodal_Large_Language_Model.md)
 
 - [DLBacktrace: A Model Agnostic Explainability for any Deep Learning Models](2024年11月19日/DLBacktrace_A_Model_Agnostic_Explainability_for_any_Deep_Learning_Models.md)
 
@@ -691,10 +679,6 @@
 - [Bi-Mamba: Towards Accurate 1-Bit State Space Models](2024年11月18日/Bi-Mamba_Towards_Accurate_1-Bit_State_Space_Models.md)
 
     - [翻译: Bi-Mamba：致力于实现精确的 1 位状态空间模型](2024年11月18日/Bi-Mamba_Towards_Accurate_1-Bit_State_Space_Models.md)
-
-- [CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset](2024年11月18日/CCExpert_Advancing_MLLM_Capability_in_Remote_Sensing_Change_Captioning_with_Difference-Aware_Integration_and_a_Foundational_Dataset.md)
-
-    - [翻译: CCExpert：借助差异感知集成与基础数据集增强多语言大型模型于遥感变化字幕方面的能力](2024年11月18日/CCExpert_Advancing_MLLM_Capability_in_Remote_Sensing_Change_Captioning_with_Difference-Aware_Integration_and_a_Foundational_Dataset.md)
 
 - [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](2024年11月18日/CCIS-Diff_A_Generative_Model_with_Stable_Diffusion_Prior_for_Controlled_Colonoscopy_Image_Synthesis.md)
 
@@ -1049,10 +1033,6 @@
 - [MTA: Multimodal Task Alignment for BEV Perception and Captioning](2024年11月15日/MTA_Multimodal_Task_Alignment_for_BEV_Perception_and_Captioning.md)
 
     - [翻译: MTA：实现 BEV 感知与字幕的多模态任务对齐](2024年11月15日/MTA_Multimodal_Task_Alignment_for_BEV_Perception_and_Captioning.md)
-
-- [Multi-Task Adversarial Variational Autoencoder for Estimating Biological Brain Age with Multimodal Neuroimaging](2024年11月15日/Multi-Task_Adversarial_Variational_Autoencoder_for_Estimating_Biological_Brain_Age_with_Multimodal_Neuroimaging.md)
-
-    - [翻译: 多任务对抗变分自编码器用于借助多模态神经成像来估算生物大脑年龄](2024年11月15日/Multi-Task_Adversarial_Variational_Autoencoder_for_Estimating_Biological_Brain_Age_with_Multimodal_Neuroimaging.md)
 
 - [Patient-Specific Models of Treatment Effects Explain Heterogeneity in Tuberculosis](2024年11月15日/Patient-Specific_Models_of_Treatment_Effects_Explain_Heterogeneity_in_Tuberculosis.md)
 
@@ -1634,10 +1614,6 @@
 
     - [翻译: KeyB2：对于使用大型语言模型进行长文档排名，选择关键块也很重要。](2024年11月09日/KeyB2_Selecting_Key_Blocks_is_Also_Important_for_Long_Document_Ranking_with_Large_Language_Models.md)
 
-- [Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval](2024年11月09日/Leveraging_Retrieval-Augmented_Generation_for_University_Knowledge_Retrieval.md)
-
-    - [翻译: 利用检索增强生成进行大学知识检索](2024年11月09日/Leveraging_Retrieval-Augmented_Generation_for_University_Knowledge_Retrieval.md)
-
 - [M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework](2024年11月09日/M-Longdoc_A_Benchmark_For_Multimodal_Super-Long_Document_Understanding_And_A_Retrieval-Aware_Tuning_Framework.md)
 
     - [翻译: M-Longdoc：用于多模态超长文档理解的基准和检索感知调整框架](2024年11月09日/M-Longdoc_A_Benchmark_For_Multimodal_Super-Long_Document_Understanding_And_A_Retrieval-Aware_Tuning_Framework.md)
@@ -1679,10 +1655,6 @@
 - [Autonomous Industrial Control using an Agentic Framework with Large Language Models](2024年11月08日/Autonomous_Industrial_Control_using_an_Agentic_Framework_with_Large_Language_Models.md)
 
     - [翻译: 使用具有大型语言模型的代理框架的自主工业控制](2024年11月08日/Autonomous_Industrial_Control_using_an_Agentic_Framework_with_Large_Language_Models.md)
-
-- [Autoregressive Models in Vision: A Survey](2024年11月08日/Autoregressive_Models_in_Vision_A_Survey.md)
-
-    - [翻译: 视觉中的自回归模型：一项调查](2024年11月08日/Autoregressive_Models_in_Vision_A_Survey.md)
 
 - [Enhancing Cardiovascular Disease Prediction through Multi-Modal Self-Supervised Learning](2024年11月08日/Enhancing_Cardiovascular_Disease_Prediction_through_Multi-Modal_Self-Supervised_Learning.md)
 
@@ -1954,10 +1926,6 @@
 
     - [翻译: DiffLM：通过扩散语言模型实现可控的合成数据生成](2024年11月05日/DiffLM_Controllable_Synthetic_Data_Generation_via_Diffusion_Language_Models.md)
 
-- [DroidSpeak: Enhancing Cross-LLM Communication](2024年11月05日/DroidSpeak_Enhancing_Cross-LLM_Communication.md)
-
-    - [翻译: DroidSpeak：增强跨大型语言模型通信](2024年11月05日/DroidSpeak_Enhancing_Cross-LLM_Communication.md)
-
 - [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](2024年11月05日/From_Medprompt_to_o1_Exploration_of_Run-Time_Strategies_for_Medical_Challenge_Problems_and_Beyond.md)
 
     - [翻译: 从 Medprompt 到 o1：对医疗挑战问题及其他的运行时策略的探索](2024年11月05日/From_Medprompt_to_o1_Exploration_of_Run-Time_Strategies_for_Medical_Challenge_Problems_and_Beyond.md)
@@ -2072,10 +2040,6 @@
 
     - [翻译: 语言模型和循环一致性用于自我反思的机器翻译](2024年11月04日/Language_Models_and_Cycle_Consistency_for_Self-Reflective_Machine_Translation.md)
 
-- [Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs](2024年11月04日/Leveraging_Vision-Language_Models_for_Manufacturing_Feature_Recognition_in_CAD_Designs.md)
-
-    - [翻译: 利用视觉语言模型进行 CAD 设计中的制造特征识别](2024年11月04日/Leveraging_Vision-Language_Models_for_Manufacturing_Feature_Recognition_in_CAD_Designs.md)
-
 - [Memory Augmented Cross-encoders for Controllable Personalized Search](2024年11月04日/Memory_Augmented_Cross-encoders_for_Controllable_Personalized_Search.md)
 
     - [翻译: 内存增强的交叉编码器用于可控的个性化搜索](2024年11月04日/Memory_Augmented_Cross-encoders_for_Controllable_Personalized_Search.md)
@@ -2095,10 +2059,6 @@
 - [See it, Think it, Sorted: Large Multimodal Models are Few-shot Time Series Anomaly Analyzers](2024年11月04日/See_it,_Think_it,_Sorted_Large_Multimodal_Models_are_Few-shot_Time_Series_Anomaly_Analyzers.md)
 
     - [翻译: 看到它，想到它，解决它：大型多模态模型是少样本时间序列异常分析器](2024年11月04日/See_it,_Think_it,_Sorted_Large_Multimodal_Models_are_Few-shot_Time_Series_Anomaly_Analyzers.md)
-
-- [Shortcut Learning in In-Context Learning: A Survey](2024年11月04日/Shortcut_Learning_in_In-Context_Learning_A_Survey.md)
-
-    - [翻译: 情境学习中的捷径学习：一项调查](2024年11月04日/Shortcut_Learning_in_In-Context_Learning_A_Survey.md)
 
 - [Sparsing Law: Towards Large Language Models with Greater Activation Sparsity](2024年11月04日/Sparsing_Law_Towards_Large_Language_Models_with_Greater_Activation_Sparsity.md)
 
@@ -2133,10 +2093,6 @@
 - [ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model](2024年11月03日/ChatTracker_Enhancing_Visual_Tracking_Performance_via_Chatting_with_Multimodal_Large_Language_Model.md)
 
     - [翻译: ChatTracker：通过与多模态大型语言模型聊天来提高视觉跟踪性能](2024年11月03日/ChatTracker_Enhancing_Visual_Tracking_Performance_via_Chatting_with_Multimodal_Large_Language_Model.md)
-
-- [DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models](2024年11月03日/DesignRepair_Dual-Stream_Design_Guideline-Aware_Frontend_Repair_with_Large_Language_Models.md)
-
-    - [翻译: DesignRepair：使用大型语言模型的双流设计指南感知前端修复](2024年11月03日/DesignRepair_Dual-Stream_Design_Guideline-Aware_Frontend_Repair_with_Large_Language_Models.md)
 
 - [Donald Trumps in the Virtual Polls: Simulating and Predicting Public Opinions in Surveys Using Large Language Models](2024年11月03日/Donald_Trumps_in_the_Virtual_Polls_Simulating_and_Predicting_Public_Opinions_in_Surveys_Using_Large_Language_Models.md)
 
