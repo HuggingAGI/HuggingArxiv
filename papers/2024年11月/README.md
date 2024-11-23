@@ -578,10 +578,6 @@
 
     - [翻译: MindForge：以心理理论赋能具身智能体，实现终身协作学习](2024年11月19日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
 
-- [Mitigating Perception Bias: A Training-Free Approach to Enhance LMM for Image Quality Assessment](2024年11月19日/Mitigating_Perception_Bias_A_Training-Free_Approach_to_Enhance_LMM_for_Image_Quality_Assessment.md)
-
-    - [翻译: 减轻感知偏差：一种无需训练即可增强 LMM 以用于图像质量评估的方法](2024年11月19日/Mitigating_Perception_Bias_A_Training-Free_Approach_to_Enhance_LMM_for_Image_Quality_Assessment.md)
-
 - [MLAN: Language-Based Instruction Tuning Improves Zero-Shot Generalization of Multimodal Large Language Models](2024年11月19日/MLAN_Language-Based_Instruction_Tuning_Improves_Zero-Shot_Generalization_of_Multimodal_Large_Language_Models.md)
 
     - [翻译: mlan：基于语言的指令调优提升了多模态大型语言模型的零样本泛化性能](2024年11月19日/MLAN_Language-Based_Instruction_Tuning_Improves_Zero-Shot_Generalization_of_Multimodal_Large_Language_Models.md)
@@ -1214,10 +1210,6 @@
 
     - [翻译: 构建值得信赖的人工智能：通过大型语言模型、本体论和逻辑推理实现透明的人工智能系统（TranspNet）](2024年11月13日/Building_Trustworthy_AI_Transparent_AI_Systems_via_Large_Language_Models,_Ontologies,_and_Logical_Reasoning_(TranspNet).md)
 
-- [Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?](2024年11月13日/Can_MLLMs_Guide_Weakly-Supervised_Temporal_Action_Localization_Tasks.md)
-
-    - [翻译: 大型语言模型（MLLM）能够指导弱监督的时间动作定位任务吗？](2024年11月13日/Can_MLLMs_Guide_Weakly-Supervised_Temporal_Action_Localization_Tasks.md)
-
 - [CLaSP: Learning Concepts for Time-Series Signals from Natural Language Supervision](2024年11月13日/CLaSP_Learning_Concepts_for_Time-Series_Signals_from_Natural_Language_Supervision.md)
 
     - [翻译: CLaSP：从自然语言监督中学习时间序列信号的概念](2024年11月13日/CLaSP_Learning_Concepts_for_Time-Series_Signals_from_Natural_Language_Supervision.md)
@@ -1241,10 +1233,6 @@
 - [DROJ: A Prompt-Driven Attack against Large Language Models](2024年11月13日/DROJ_A_Prompt-Driven_Attack_against_Large_Language_Models.md)
 
     - [翻译: DROJ：针对大型语言模型的提示驱动式攻击](2024年11月13日/DROJ_A_Prompt-Driven_Attack_against_Large_Language_Models.md)
-
-- [FinRobot: AI Agent for Equity Research and Valuation with Large Language Models](2024年11月13日/FinRobot_AI_Agent_for_Equity_Research_and_Valuation_with_Large_Language_Models.md)
-
-    - [翻译: FinRobot：使用大型语言模型进行股票研究和估值的人工智能代理](2024年11月13日/FinRobot_AI_Agent_for_Equity_Research_and_Valuation_with_Large_Language_Models.md)
 
 - [Leveraging LLMs for Predictive Insights in Food Policy and Behavioral Interventions](2024年11月13日/Leveraging_LLMs_for_Predictive_Insights_in_Food_Policy_and_Behavioral_Interventions.md)
 
@@ -1457,10 +1445,6 @@
 - [Script-Strategy Aligned Generation: Aligning LLMs with Expert-Crafted Dialogue Scripts and Therapeutic Strategies for Psychotherapy](2024年11月11日/Script-Strategy_Aligned_Generation_Aligning_LLMs_with_Expert-Crafted_Dialogue_Scripts_and_Therapeutic_Strategies_for_Psychotherapy.md)
 
     - [翻译: 脚本-策略对齐生成：将大型语言模型与专家精心制作的对话脚本和心理治疗策略相对齐以用于心理治疗](2024年11月11日/Script-Strategy_Aligned_Generation_Aligning_LLMs_with_Expert-Crafted_Dialogue_Scripts_and_Therapeutic_Strategies_for_Psychotherapy.md)
-
-- [SecEncoder: Logs are All You Need in Security](2024年11月11日/SecEncoder_Logs_are_All_You_Need_in_Security.md)
-
-    - [翻译: SecEncoder：于安全领域而言，日志便是您的全部所需。](2024年11月11日/SecEncoder_Logs_are_All_You_Need_in_Security.md)
 
 - [Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models](2024年11月11日/Semantic_Sleuth_Identifying_Ponzi_Contracts_via_Large_Language_Models.md)
 
@@ -2054,10 +2038,6 @@
 
 2024年11月03日
 
-- [A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services](2024年11月03日/A_Practical_and_Privacy-Preserving_Framework_for_Real-World_Large_Language_Model_Services.md)
-
-    - [翻译: 一个适用于现实世界中大型语言模型服务的实用且注重隐私保护的框架](2024年11月03日/A_Practical_and_Privacy-Preserving_Framework_for_Real-World_Large_Language_Model_Services.md)
-
 - [Are LLMs good pragmatic speakers?](2024年11月03日/Are_LLMs_good_pragmatic_speakers.md)
 
     - [翻译: LLMs 称得上是出色的实用主义演说者吗？](2024年11月03日/Are_LLMs_good_pragmatic_speakers.md)
@@ -2333,10 +2313,6 @@
 - [MoD: A Distribution-Based Approach for Merging Large Language Models](2024年11月01日/MoD_A_Distribution-Based_Approach_for_Merging_Large_Language_Models.md)
 
     - [翻译: MoD：一种基于分布来合并大型语言模型的方法](2024年11月01日/MoD_A_Distribution-Based_Approach_for_Merging_Large_Language_Models.md)
-
-- [MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction](2024年11月01日/MolCap-Arena_A_Comprehensive_Captioning_Benchmark_on_Language-Enhanced_Molecular_Property_Prediction.md)
-
-    - [翻译: MolCap-Arena：语言增强分子属性预测的综合性字幕基准](2024年11月01日/MolCap-Arena_A_Comprehensive_Captioning_Benchmark_on_Language-Enhanced_Molecular_Property_Prediction.md)
 
 - [Multi-Agent Large Language Models for Conversational Task-Solving](2024年11月01日/Multi-Agent_Large_Language_Models_for_Conversational_Task-Solving.md)
 

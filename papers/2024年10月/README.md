@@ -428,10 +428,6 @@
 
     - [翻译: 针对大型语言模型的可转移集成黑箱越狱式攻击](2024年10月30日/Transferable_Ensemble_Black-box_Jailbreak_Attacks_on_Large_Language_Models.md)
 
-- [Vision-Language Models Can Self-Improve Reasoning via Reflection](2024年10月30日/Vision-Language_Models_Can_Self-Improve_Reasoning_via_Reflection.md)
-
-    - [翻译: 视觉语言模型能够借助反思来自我提升推理能力。](2024年10月30日/Vision-Language_Models_Can_Self-Improve_Reasoning_via_Reflection.md)
-
 - [VISUALCODER: Guiding Large Language Models in Code Execution with Fine-grained Multimodal Chain-of-Thought Reasoning](2024年10月30日/VISUALCODER_Guiding_Large_Language_Models_in_Code_Execution_with_Fine-grained_Multimodal_Chain-of-Thought_Reasoning.md)
 
     - [翻译: VISUALCODER：以细粒度多模态思维链推理引导大型语言模型进行代码执行](2024年10月30日/VISUALCODER_Guiding_Large_Language_Models_in_Code_Execution_with_Fine-grained_Multimodal_Chain-of-Thought_Reasoning.md)
@@ -469,6 +465,10 @@
 - [Automated Feedback in Math Education: A Comparative Analysis of LLMs for Open-Ended Responses](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
 
     - [翻译: 数学教育中的自动化反馈：有关开放式回答的大型语言模型之比较分析](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
+
+- [BENCHAGENTS: Automated Benchmark Creation with Agent Interaction](2024年10月29日/BENCHAGENTS_Automated_Benchmark_Creation_with_Agent_Interaction.md)
+
+    - [翻译: BENCHAGENTS：借助代理交互进行自动基准创建](2024年10月29日/BENCHAGENTS_Automated_Benchmark_Creation_with_Agent_Interaction.md)
 
 - [Benchmarking LLM Guardrails in Handling Multilingual Toxicity](2024年10月29日/Benchmarking_LLM_Guardrails_in_Handling_Multilingual_Toxicity.md)
 
@@ -517,6 +517,10 @@
 - [Embedding-based classifiers can detect prompt injection attacks](2024年10月29日/Embedding-based_classifiers_can_detect_prompt_injection_attacks.md)
 
     - [翻译: 基于嵌入的分类器能够检测出提示注入攻击](2024年10月29日/Embedding-based_classifiers_can_detect_prompt_injection_attacks.md)
+
+- [Enhancing Adversarial Attacks through Chain of Thought](2024年10月29日/Enhancing_Adversarial_Attacks_through_Chain_of_Thought.md)
+
+    - [翻译: 借助思维链来强化对抗性攻击](2024年10月29日/Enhancing_Adversarial_Attacks_through_Chain_of_Thought.md)
 
 - [Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models](2024年10月29日/Enhancing_Code_Annotation_Reliability_Generative_AI's_Role_in_Comment_Quality_Assessment_Models.md)
 
@@ -673,6 +677,10 @@
 - [Understanding Synthetic Context Extension via Retrieval Heads](2024年10月29日/Understanding_Synthetic_Context_Extension_via_Retrieval_Heads.md)
 
     - [翻译: 理解经由检索头实现的合成上下文扩展](2024年10月29日/Understanding_Synthetic_Context_Extension_via_Retrieval_Heads.md)
+
+- [Unlearning as multi-task optimization: A normalized gradient difference approach with an adaptive learning rate](2024年10月29日/Unlearning_as_multi-task_optimization_A_normalized_gradient_difference_approach_with_an_adaptive_learning_rate.md)
+
+    - [翻译: 遗忘学习视作多任务优化：一种采用自适应学习率的归一化梯度差方法](2024年10月29日/Unlearning_as_multi-task_optimization_A_normalized_gradient_difference_approach_with_an_adaptive_learning_rate.md)
 
 - [Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images](2024年10月29日/Volumetric_Conditioning_Module_to_Control_Pretrained_Diffusion_Models_for_3D_Medical_Images.md)
 
