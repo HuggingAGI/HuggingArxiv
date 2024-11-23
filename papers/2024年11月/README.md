@@ -328,10 +328,6 @@
 
     - [翻译: extsc{Neon}：用于强化问答的新闻实体交互提取](2024年11月20日/Neon_News_Entity-Interaction_Extraction_for_Enhanced_Question_Answering.md)
 
-- [NewsInterview: a Dataset and a Playground to Evaluate LLMs' Ground Gap via Informational Interviews](2024年11月20日/NewsInterview_a_Dataset_and_a_Playground_to_Evaluate_LLMs'_Ground_Gap_via_Informational_Interviews.md)
-
-    - [翻译: NewsInterview：一个用于通过信息性访谈评估LLM基础差距的数据集和试验场](2024年11月20日/NewsInterview_a_Dataset_and_a_Playground_to_Evaluate_LLMs'_Ground_Gap_via_Informational_Interviews.md)
-
 - [Nonlinear Assimilation with Score-based Sequential Langevin Sampling](2024年11月20日/Nonlinear_Assimilation_with_Score-based_Sequential_Langevin_Sampling.md)
 
     - [翻译: 非线性同化结合基于分数的顺序朗之万采样](2024年11月20日/Nonlinear_Assimilation_with_Score-based_Sequential_Langevin_Sampling.md)
@@ -403,10 +399,6 @@
 - [Unleashing the Power of Large Language Models for Group POI Recommendations](2024年11月20日/Unleashing_the_Power_of_Large_Language_Models_for_Group_POI_Recommendations.md)
 
     - [翻译: 充分发挥大型语言模型在群组兴趣点推荐上的威力](2024年11月20日/Unleashing_the_Power_of_Large_Language_Models_for_Group_POI_Recommendations.md)
-
-- [Unlocking Historical Clinical Trial Data with ALIGN: A Compositional Large Language Model System for Medical Coding](2024年11月20日/Unlocking_Historical_Clinical_Trial_Data_with_ALIGN_A_Compositional_Large_Language_Model_System_for_Medical_Coding.md)
-
-    - [翻译: 通过 ALIGN 解锁历史临床试验数据：医疗编码的组合式大型语言模型系统](2024年11月20日/Unlocking_Historical_Clinical_Trial_Data_with_ALIGN_A_Compositional_Large_Language_Model_System_for_Medical_Coding.md)
 
 - [Utilizing Large Language Models to Synthesize Product Desirability Datasets](2024年11月20日/Utilizing_Large_Language_Models_to_Synthesize_Product_Desirability_Datasets.md)
 
@@ -645,10 +637,6 @@
 - [Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?](2024年11月19日/Strengthening_Fake_News_Detection_Leveraging_SVM_and_Sophisticated_Text_Vectorization_Techniques._Defying_BERT.md)
 
     - [翻译: 强化假新闻检测：借助 SVM 与精细的文本向量化技术。叫板 BERT？](2024年11月19日/Strengthening_Fake_News_Detection_Leveraging_SVM_and_Sophisticated_Text_Vectorization_Techniques._Defying_BERT.md)
-
-- [Training Bilingual LMs with Data Constraints in the Targeted Language](2024年11月19日/Training_Bilingual_LMs_with_Data_Constraints_in_the_Targeted_Language.md)
-
-    - [翻译: 训练目标语言中存在数据约束的双语语言模型](2024年11月19日/Training_Bilingual_LMs_with_Data_Constraints_in_the_Targeted_Language.md)
 
 - [Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues](2024年11月19日/Unlocking_State-Tracking_in_Linear_RNNs_Through_Negative_Eigenvalues.md)
 
@@ -1010,10 +998,6 @@
 
     - [翻译: 1000 人的生成式代理模拟](2024年11月15日/Generative_Agent_Simulations_of_1,000_People.md)
 
-- [Generative AI in Multimodal User Interfaces: Trends, Challenges, and Cross-Platform Adaptability](2024年11月15日/Generative_AI_in_Multimodal_User_Interfaces_Trends,_Challenges,_and_Cross-Platform_Adaptability.md)
-
-    - [翻译: 多模态用户界面中的生成式人工智能：其趋势、挑战与跨平台适应性](2024年11月15日/Generative_AI_in_Multimodal_User_Interfaces_Trends,_Challenges,_and_Cross-Platform_Adaptability.md)
-
 - [HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun](2024年11月15日/HistoLens_An_LLM-Powered_Framework_for_Multi-Layered_Analysis_of_Historical_Texts_--_A_Case_Application_of_Yantie_Lun.md)
 
     - [翻译: HistoLens：一个由 LLM 驱动的历史文本多层分析框架——以《盐铁论》为例](2024年11月15日/HistoLens_An_LLM-Powered_Framework_for_Multi-Layered_Analysis_of_Historical_Texts_--_A_Case_Application_of_Yantie_Lun.md)
@@ -1282,10 +1266,6 @@
 
     - [翻译: 利用高效自适应知识图谱学习实现基于连续 GNN 的边缘异常检测](2024年11月13日/Continuous_GNN-based_Anomaly_Detection_on_Edge_using_Efficient_Adaptive_Knowledge_Graph_Learning.md)
 
-- [Cut Your Losses in Large-Vocabulary Language Models](2024年11月13日/Cut_Your_Losses_in_Large-Vocabulary_Language_Models.md)
-
-    - [翻译: 于大词汇量语言模型中降低损失](2024年11月13日/Cut_Your_Losses_in_Large-Vocabulary_Language_Models.md)
-
 - [DART-LLM: Dependency-Aware Multi-Robot Task Decomposition and Execution using Large Language Models](2024年11月13日/DART-LLM_Dependency-Aware_Multi-Robot_Task_Decomposition_and_Execution_using_Large_Language_Models.md)
 
     - [翻译: DART-LLM：借助大型语言模型实现依赖感知的多机器人任务分解与执行](2024年11月13日/DART-LLM_Dependency-Aware_Multi-Robot_Task_Decomposition_and_Execution_using_Large_Language_Models.md)
@@ -1489,10 +1469,6 @@
 - [Large Language Model in Medical Informatics: Direct Classification and Enhanced Text Representations for Automatic ICD Coding](2024年11月11日/Large_Language_Model_in_Medical_Informatics_Direct_Classification_and_Enhanced_Text_Representations_for_Automatic_ICD_Coding.md)
 
     - [翻译: 大型语言模型在医学信息学中的应用：用于自动 ICD 编码的直接分类和增强的文本表示](2024年11月11日/Large_Language_Model_in_Medical_Informatics_Direct_Classification_and_Enhanced_Text_Representations_for_Automatic_ICD_Coding.md)
-
-- [LLM App Squatting and Cloning](2024年11月11日/LLM_App_Squatting_and_Cloning.md)
-
-    - [翻译: LLM 应用的抢占与克隆](2024年11月11日/LLM_App_Squatting_and_Cloning.md)
 
 - [LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models](2024年11月11日/LLM-Neo_Parameter_Efficient_Knowledge_Distillation_for_Large_Language_Models.md)
 
@@ -1842,10 +1818,6 @@
 
     - [翻译: PIAST：一个具有音频、符号和文本的多模态钢琴数据集](2024年11月07日/PIAST_A_Multimodal_Piano_Dataset_with_Audio,_Symbolic_and_Text.md)
 
-- [Seeing is Deceiving: Exploitation of Visual Pathways in Multi-Modal Language Models](2024年11月07日/Seeing_is_Deceiving_Exploitation_of_Visual_Pathways_in_Multi-Modal_Language_Models.md)
-
-    - [翻译: “看到即欺骗”：多模态语言模型中视觉通路的运用](2024年11月07日/Seeing_is_Deceiving_Exploitation_of_Visual_Pathways_in_Multi-Modal_Language_Models.md)
-
 - [Seeing Through the Fog: A Cost-Effectiveness Analysis of Hallucination Detection Systems](2024年11月07日/Seeing_Through_the_Fog_A_Cost-Effectiveness_Analysis_of_Hallucination_Detection_Systems.md)
 
     - [翻译: 《拨开迷雾：幻觉检测系统的成本效益剖析》](2024年11月07日/Seeing_Through_the_Fog_A_Cost-Effectiveness_Analysis_of_Hallucination_Detection_Systems.md)
@@ -2006,10 +1978,6 @@
 
     - [翻译: HtmlRAG：在 RAG 系统中，对于建模检索到的知识，HTML 比纯文本更好。](2024年11月05日/HtmlRAG_HTML_is_Better_Than_Plain_Text_for_Modeling_Retrieved_Knowledge_in_RAG_Systems.md)
 
-- [Layer-Adaptive State Pruning for Deep State Space Models](2024年11月05日/Layer-Adaptive_State_Pruning_for_Deep_State_Space_Models.md)
-
-    - [翻译: 用于深度状态空间模型的层自适应状态修剪](2024年11月05日/Layer-Adaptive_State_Pruning_for_Deep_State_Space_Models.md)
-
 - [Long Context RAG Performance of Large Language Models](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的长上下文 RAG 性能](2024年11月05日/Long_Context_RAG_Performance_of_Large_Language_Models.md)
@@ -2115,14 +2083,6 @@
 - [Multi-modal biometric authentication: Leveraging shared layer architectures for enhanced security](2024年11月04日/Multi-modal_biometric_authentication_Leveraging_shared_layer_architectures_for_enhanced_security.md)
 
     - [翻译: 多模态生物特征认证：利用共享层架构来增强安全性](2024年11月04日/Multi-modal_biometric_authentication_Leveraging_shared_layer_architectures_for_enhanced_security.md)
-
-- [Multimodal Commonsense Knowledge Distillation for Visual Question Answering](2024年11月04日/Multimodal_Commonsense_Knowledge_Distillation_for_Visual_Question_Answering.md)
-
-    - [翻译: 用于视觉问答的多模态常识知识蒸馏](2024年11月04日/Multimodal_Commonsense_Knowledge_Distillation_for_Visual_Question_Answering.md)
-
-- [Multi-Transmotion: Pre-trained Model for Human Motion Prediction](2024年11月04日/Multi-Transmotion_Pre-trained_Model_for_Human_Motion_Prediction.md)
-
-    - [翻译: 多运动转换：用于人体运动预测的预训练模型](2024年11月04日/Multi-Transmotion_Pre-trained_Model_for_Human_Motion_Prediction.md)
 
 - [QCG-Rerank: Chunks Graph Rerank with Query Expansion in Retrieval-Augmented LLMs for Tourism Domain](2024年11月04日/QCG-Rerank_Chunks_Graph_Rerank_with_Query_Expansion_in_Retrieval-Augmented_LLMs_for_Tourism_Domain.md)
 
@@ -2437,10 +2397,6 @@
 - [InterTrans: Leveraging Transitive Intermediate Translations to Enhance LLM-based Code Translation](2024年11月01日/InterTrans_Leveraging_Transitive_Intermediate_Translations_to_Enhance_LLM-based_Code_Translation.md)
 
     - [翻译: InterTrans：借助传递性中间翻译提升基于 LLM 的代码翻译能力](2024年11月01日/InterTrans_Leveraging_Transitive_Intermediate_Translations_to_Enhance_LLM-based_Code_Translation.md)
-
-- [Leveraging Large Language Models for Code-Mixed Data Augmentation in Sentiment Analysis](2024年11月01日/Leveraging_Large_Language_Models_for_Code-Mixed_Data_Augmentation_in_Sentiment_Analysis.md)
-
-    - [翻译: 借助大型语言模型实现情感分析中的代码混合数据增强](2024年11月01日/Leveraging_Large_Language_Models_for_Code-Mixed_Data_Augmentation_in_Sentiment_Analysis.md)
 
 - [LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language Models to Collaborative Filtering](2024年11月01日/LLM-KT_A_Versatile_Framework_for_Knowledge_Transfer_from_Large_Language_Models_to_Collaborative_Filtering.md)
 

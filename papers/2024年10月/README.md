@@ -138,10 +138,6 @@
 
     - [翻译: LLM4Mat-Bench：针对材料特性预测的大型语言模型基准](2024年10月31日/LLM4Mat-Bench_Benchmarking_Large_Language_Models_for_Materials_Property_Prediction.md)
 
-- [Matchmaker: Self-Improving Large Language Model Programs for Schema Matching](2024年10月31日/Matchmaker_Self-Improving_Large_Language_Model_Programs_for_Schema_Matching.md)
-
-    - [翻译: Matchmaker：用于模式匹配的可自我改进的大型语言模型程序](2024年10月31日/Matchmaker_Self-Improving_Large_Language_Model_Programs_for_Schema_Matching.md)
-
 - [Metamorphic Malware Evolution: The Potential and Peril of Large Language Models](2024年10月31日/Metamorphic_Malware_Evolution_The_Potential_and_Peril_of_Large_Language_Models.md)
 
     - [翻译: 变形恶意软件的演变：大型语言模型的潜力与风险](2024年10月31日/Metamorphic_Malware_Evolution_The_Potential_and_Peril_of_Large_Language_Models.md)
@@ -286,10 +282,6 @@
 
     - [翻译: TurtleBench：海龟几何中的可视化编程基准](2024年10月31日/TurtleBench_A_Visual_Programming_Benchmark_in_Turtle_Geometry.md)
 
-- [Unified Generative and Discriminative Training for Multi-modal Large Language Models](2024年10月31日/Unified_Generative_and_Discriminative_Training_for_Multi-modal_Large_Language_Models.md)
-
-    - [翻译: 针对多模态大型语言模型的统一生成式和判别式训练](2024年10月31日/Unified_Generative_and_Discriminative_Training_for_Multi-modal_Large_Language_Models.md)
-
 - [Using Large Language Models for a standard assessment mapping for sustainable communities](2024年10月31日/Using_Large_Language_Models_for_a_standard_assessment_mapping_for_sustainable_communities.md)
 
     - [翻译: 利用大型语言模型来构建可持续社区的标准评估映射](2024年10月31日/Using_Large_Language_Models_for_a_standard_assessment_mapping_for_sustainable_communities.md)
@@ -351,10 +343,6 @@
 - [End-to-End Ontology Learning with Large Language Models](2024年10月30日/End-to-End_Ontology_Learning_with_Large_Language_Models.md)
 
     - [翻译: 利用大型语言模型进行端到端的本体学习](2024年10月30日/End-to-End_Ontology_Learning_with_Large_Language_Models.md)
-
-- [Evaluating Cultural and Social Awareness of LLM Web Agents](2024年10月30日/Evaluating_Cultural_and_Social_Awareness_of_LLM_Web_Agents.md)
-
-    - [翻译: 对 LLM 网络代理的文化和社会意识进行评估](2024年10月30日/Evaluating_Cultural_and_Social_Awareness_of_LLM_Web_Agents.md)
 
 - [Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration](2024年10月30日/Explainable_Behavior_Cloning_Teaching_Large_Language_Model_Agents_through_Learning_by_Demonstration.md)
 
@@ -474,6 +462,10 @@
 
     - [翻译: 数学教育中的自动化反馈：有关开放式回答的大型语言模型之比较分析](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
 
+- [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](2024年10月29日/Beyond_Text_Optimizing_RAG_with_Multimodal_Inputs_for_Industrial_Applications.md)
+
+    - [翻译: 超越文本：以多模态输入优化 RAG 用于工业应用](2024年10月29日/Beyond_Text_Optimizing_RAG_with_Multimodal_Inputs_for_Industrial_Applications.md)
+
 - [Can Large-Language Models Help us Better Understand and Teach the Development of Energy-Efficient Software?](2024年10月29日/Can_Large-Language_Models_Help_us_Better_Understand_and_Teach_the_Development_of_Energy-Efficient_Software.md)
 
     - [翻译: 大型语言模型能否助力我们更好地理解与教授节能软件的开发？](2024年10月29日/Can_Large-Language_Models_Help_us_Better_Understand_and_Teach_the_Development_of_Energy-Efficient_Software.md)
@@ -482,9 +474,17 @@
 
     - [翻译: ContextIQ：一个基于多模态专家的情境广告视频检索系统](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
 
+- [CurateGPT: A flexible language-model assisted biocuration tool](2024年10月29日/CurateGPT_A_flexible_language-model_assisted_biocuration_tool.md)
+
+    - [翻译: CurateGPT ：一款灵活的语言模型辅助的生物编目工具](2024年10月29日/CurateGPT_A_flexible_language-model_assisted_biocuration_tool.md)
+
 - [Distinguishing Ignorance from Error in LLM Hallucinations](2024年10月29日/Distinguishing_Ignorance_from_Error_in_LLM_Hallucinations.md)
 
     - [翻译: 区分 LLM 幻觉中的无知与错误](2024年10月29日/Distinguishing_Ignorance_from_Error_in_LLM_Hallucinations.md)
+
+- [Dreaming Out Loud: A Self-Synthesis Approach For Training Vision-Language Models With Developmentally Plausible Data](2024年10月29日/Dreaming_Out_Loud_A_Self-Synthesis_Approach_For_Training_Vision-Language_Models_With_Developmentally_Plausible_Data.md)
+
+    - [翻译: 《大声追梦：基于发展合理数据训练视觉语言模型的自合成之法》](2024年10月29日/Dreaming_Out_Loud_A_Self-Synthesis_Approach_For_Training_Vision-Language_Models_With_Developmentally_Plausible_Data.md)
 
 - [Efficient Learned Query Execution over Text and Tables [Technical Report]](2024年10月29日/Efficient_Learned_Query_Execution_over_Text_and_Tables_[Technical_Report].md)
 
@@ -498,9 +498,25 @@
 
     - [翻译: GraphAide：先进的图形辅助查询与推理系统](2024年10月29日/GraphAide_Advanced_Graph-Assisted_Query_and_Reasoning_System.md)
 
+- [Improving In-Context Learning with Small Language Model Ensembles](2024年10月29日/Improving_In-Context_Learning_with_Small_Language_Model_Ensembles.md)
+
+    - [翻译: 利用小型语言模型集成提升上下文学习效果](2024年10月29日/Improving_In-Context_Learning_with_Small_Language_Model_Ensembles.md)
+
 - [Joint Extraction and Classification of Danish Competences for Job Matching](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
 
     - [翻译: 丹麦工作匹配能力的联合提取与分类](2024年10月29日/Joint_Extraction_and_Classification_of_Danish_Competences_for_Job_Matching.md)
+
+- [MARCO: Multi-Agent Real-time Chat Orchestration](2024年10月29日/MARCO_Multi-Agent_Real-time_Chat_Orchestration.md)
+
+    - [翻译: MARCO：多智能体实时聊天的编排](2024年10月29日/MARCO_Multi-Agent_Real-time_Chat_Orchestration.md)
+
+- [Not All Languages are Equal: Insights into Multilingual Retrieval-Augmented Generation](2024年10月29日/Not_All_Languages_are_Equal_Insights_into_Multilingual_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 并非所有语言都平等：有关多语言检索增强生成的洞察](2024年10月29日/Not_All_Languages_are_Equal_Insights_into_Multilingual_Retrieval-Augmented_Generation.md)
+
+- [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](2024年10月29日/Protecting_Privacy_in_Multimodal_Large_Language_Models_with_MLLMU-Bench.md)
+
+    - [翻译: 借助 MLLMU-Bench 保护多模态大型语言模型中的隐私](2024年10月29日/Protecting_Privacy_in_Multimodal_Large_Language_Models_with_MLLMU-Bench.md)
 
 - [Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting](2024年10月29日/Reinforcement_Learning_for_Aligning_Large_Language_Models_Agents_with_Interactive_Environments_Quantifying_and_Mitigating_Prompt_Overfitting.md)
 
@@ -514,9 +530,17 @@
 
     - [翻译: 塞纳：架起大型视觉语言模型与端到端自动驾驶之间的桥梁](2024年10月29日/Senna_Bridging_Large_Vision-Language_Models_and_End-to-End_Autonomous_Driving.md)
 
+- [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](2024年10月29日/SWE-Search_Enhancing_Software_Agents_with_Monte_Carlo_Tree_Search_and_Iterative_Refinement.md)
+
+    - [翻译: SWE-Search：借助蒙特卡罗树搜索和迭代改进来强化软件代理](2024年10月29日/SWE-Search_Enhancing_Software_Agents_with_Monte_Carlo_Tree_Search_and_Iterative_Refinement.md)
+
 - [Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN](2024年10月29日/Synergizing_LLM_Agents_and_Knowledge_Graph_for_Socioeconomic_Prediction_in_LBSN.md)
 
     - [翻译: 通过协同 LLM 智能体与知识图谱来实现 LBSN 中的社会经济预测](2024年10月29日/Synergizing_LLM_Agents_and_Knowledge_Graph_for_Socioeconomic_Prediction_in_LBSN.md)
+
+- [The Impact of Inference Acceleration Strategies on Bias of LLMs](2024年10月29日/The_Impact_of_Inference_Acceleration_Strategies_on_Bias_of_LLMs.md)
+
+    - [翻译: 推理加速策略对 LLMs 偏差所产生的影响](2024年10月29日/The_Impact_of_Inference_Acceleration_Strategies_on_Bias_of_LLMs.md)
 
 - [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](2024年10月29日/Towards_Unifying_Understanding_and_Generation_in_the_Era_of_Vision_Foundation_Models_A_Survey_from_the_Autoregression_Perspective.md)
 
