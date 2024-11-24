@@ -672,9 +672,17 @@
 
 2024年10月28日
 
+- [Asynchronous Tool Usage for Real-Time Agents](2024年10月28日/Asynchronous_Tool_Usage_for_Real-Time_Agents.md)
+
+    - [翻译: 实时代理的异步工具使用](2024年10月28日/Asynchronous_Tool_Usage_for_Real-Time_Agents.md)
+
 - [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](2024年10月28日/AutoRAG_Automated_Framework_for_optimization_of_Retrieval_Augmented_Generation_Pipeline.md)
 
     - [翻译: AutoRAG：优化检索增强生成管道的自动化框架](2024年10月28日/AutoRAG_Automated_Framework_for_optimization_of_Retrieval_Augmented_Generation_Pipeline.md)
+
+- [Calibrated Decision-Making through LLM-Assisted Retrieval](2024年10月28日/Calibrated_Decision-Making_through_LLM-Assisted_Retrieval.md)
+
+    - [翻译: 借助 LLM 辅助检索实现校准决策](2024年10月28日/Calibrated_Decision-Making_through_LLM-Assisted_Retrieval.md)
 
 - [Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'](2024年10月28日/Can_Language_Models_Replace_Programmers_REPOCOD_Says_'Not_Yet'.md)
 
@@ -708,6 +716,10 @@
 
     - [翻译: 预训练中，关键批量大小是如何缩放的？](2024年10月28日/How_Does_Critical_Batch_Size_Scale_in_Pre-training.md)
 
+- [NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates](2024年10月28日/NewTerm_Benchmarking_Real-Time_New_Terms_for_Large_Language_Models_with_Annual_Updates.md)
+
+    - [翻译: NewTerm: 对大型语言模型的实时新术语进行基准测试，且每年更新](2024年10月28日/NewTerm_Benchmarking_Real-Time_New_Terms_for_Large_Language_Models_with_Annual_Updates.md)
+
 - [Non-myopic Generation of Language Models for Reasoning and Planning](2024年10月28日/Non-myopic_Generation_of_Language_Models_for_Reasoning_and_Planning.md)
 
     - [翻译: 用于推理和规划的非短视语言模型生成](2024年10月28日/Non-myopic_Generation_of_Language_Models_for_Reasoning_and_Planning.md)
@@ -724,9 +736,21 @@
 
     - [翻译: 简单有效：图和大型语言模型于基于知识图谱的检索增强生成所起的作用](2024年10月28日/Simple_is_Effective_The_Roles_of_Graphs_and_Large_Language_Models_in_Knowledge-Graph-Based_Retrieval-Augmented_Generation.md)
 
+- [Sorting Out the Bad Seeds: Automatic Classification of Cryptocurrency Abuse Reports](2024年10月28日/Sorting_Out_the_Bad_Seeds_Automatic_Classification_of_Cryptocurrency_Abuse_Reports.md)
+
+    - [翻译: 甄别坏种子：加密货币滥用报告的自动分类](2024年10月28日/Sorting_Out_the_Bad_Seeds_Automatic_Classification_of_Cryptocurrency_Abuse_Reports.md)
+
+- [Towards Unifying Evaluation of Counterfactual Explanations: Leveraging Large Language Models for Human-Centric Assessments](2024年10月28日/Towards_Unifying_Evaluation_of_Counterfactual_Explanations_Leveraging_Large_Language_Models_for_Human-Centric_Assessments.md)
+
+    - [翻译: 朝着反事实解释的统一评估迈进：借助大型语言模型开展以人为本的评估](2024年10月28日/Towards_Unifying_Evaluation_of_Counterfactual_Explanations_Leveraging_Large_Language_Models_for_Human-Centric_Assessments.md)
+
 - [Transferable Post-training via Inverse Value Learning](2024年10月28日/Transferable_Post-training_via_Inverse_Value_Learning.md)
 
     - [翻译: 通过逆值学习实现可迁移的训练后优化](2024年10月28日/Transferable_Post-training_via_Inverse_Value_Learning.md)
+
+- [Zero-Shot Action Recognition in Surveillance Videos](2024年10月28日/Zero-Shot_Action_Recognition_in_Surveillance_Videos.md)
+
+    - [翻译: 监控视频中的零-Shot 动作识别](2024年10月28日/Zero-Shot_Action_Recognition_in_Surveillance_Videos.md)
 
 2024年10月15日
 
