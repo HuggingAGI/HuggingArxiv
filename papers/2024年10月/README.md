@@ -701,3 +701,9 @@
 - [Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models](2024年10月29日/Whose_ChatGPT_Unveiling_Real-World_Educational_Inequalities_Introduced_by_Large_Language_Models.md)
 
     - [翻译: 《Whose ChatGPT? 》：揭示大型语言模型引发的现实教育不平等](2024年10月29日/Whose_ChatGPT_Unveiling_Real-World_Educational_Inequalities_Introduced_by_Large_Language_Models.md)
+
+2024年10月15日
+
+- [A Phenomenological AI Foundation Model for Physical Signals](2024年10月15日/A_Phenomenological_AI_Foundation_Model_for_Physical_Signals.md)
+
+    - [翻译: 一种针对物理信号的现象学人工智能基础模型](2024年10月15日/A_Phenomenological_AI_Foundation_Model_for_Physical_Signals.md)

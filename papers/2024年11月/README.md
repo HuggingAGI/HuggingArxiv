@@ -1064,10 +1064,6 @@
 
 2024年11月14日
 
-- [Adopting RAG for LLM-Aided Future Vehicle Design](2024年11月14日/Adopting_RAG_for_LLM-Aided_Future_Vehicle_Design.md)
-
-    - [翻译: 将 RAG 应用于 LLM 辅助的未来车辆设计](2024年11月14日/Adopting_RAG_for_LLM-Aided_Future_Vehicle_Design.md)
-
 - [A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation](2024年11月14日/A_Hybrid_Artificial_Intelligence_System_for_Automated_EEG_Background_Analysis_and_Report_Generation.md)
 
     - [翻译: 一个用于脑电图背景自动分析与报告生成的混合式人工智能系统](2024年11月14日/A_Hybrid_Artificial_Intelligence_System_for_Automated_EEG_Background_Analysis_and_Report_Generation.md)
