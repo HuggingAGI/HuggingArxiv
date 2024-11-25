@@ -1154,10 +1154,6 @@
 
     - [翻译: 利用大型语言模型获取食品政策和行为干预方面的预测性见解](2024年11月13日/Leveraging_LLMs_for_Predictive_Insights_in_Food_Policy_and_Behavioral_Interventions.md)
 
-- [LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](2024年11月13日/LLM2CLIP_Powerful_Language_Model_Unlocks_Richer_Visual_Representation.md)
-
-    - [翻译: LLM2CLIP：强大的语言模型解锁更丰富的视觉表示](2024年11月13日/LLM2CLIP_Powerful_Language_Model_Unlocks_Richer_Visual_Representation.md)
-
 - [Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware Expert Selection](2024年11月13日/Lynx_Enabling_Efficient_MoE_Inference_through_Dynamic_Batch-Aware_Expert_Selection.md)
 
     - [翻译: Lynx：借由动态批量感知的专家选择达成高效的 MoE 推理](2024年11月13日/Lynx_Enabling_Efficient_MoE_Inference_through_Dynamic_Batch-Aware_Expert_Selection.md)
@@ -2221,10 +2217,6 @@
 - [STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document Parsing](2024年11月01日/STEM-POM_Evaluating_Language_Models_Math-Symbol_Reasoning_in_Document_Parsing.md)
 
     - [翻译: STEM-POM：评估语言模型于文档解析中的数学符号推理能力](2024年11月01日/STEM-POM_Evaluating_Language_Models_Math-Symbol_Reasoning_in_Document_Parsing.md)
-
-- [Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations](2024年11月01日/Synergistic_Interplay_of_Large_Language_Model_and_Digital_Twin_for_Autonomous_Optical_Networks_Field_Demonstrations.md)
-
-    - [翻译: 大型语言模型与数字孪生在自主光网络中的协同交互：现场演示](2024年11月01日/Synergistic_Interplay_of_Large_Language_Model_and_Digital_Twin_for_Autonomous_Optical_Networks_Field_Demonstrations.md)
 
 - [TabVer: Tabular Fact Verification with Natural Logic](2024年11月01日/TabVer_Tabular_Fact_Verification_with_Natural_Logic.md)
 
