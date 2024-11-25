@@ -244,14 +244,6 @@
 
     - [翻译: 全球安全可靠的大型语言模型挑战之赛道 1](2024年11月21日/Global_Challenge_for_Safe_and_Secure_LLMs_Track_1.md)
 
-- [GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI](2024年11月21日/GMAI-VL_&_GMAI-VL-5.5M_A_Large_Vision-Language_Model_and_A_Comprehensive_Multimodal_Dataset_Towards_General_Medical_AI.md)
-
-    - [翻译: GMAI-VL 与 GMAI-VL-5.5M：一个大型的视觉语言模型以及一个致力于通用医疗 AI 的综合多模态数据集](2024年11月21日/GMAI-VL_&_GMAI-VL-5.5M_A_Large_Vision-Language_Model_and_A_Comprehensive_Multimodal_Dataset_Towards_General_Medical_AI.md)
-
-- [GPT versus Humans: Uncovering Ethical Concerns in Conversational Generative AI-empowered Multi-Robot Systems](2024年11月21日/GPT_versus_Humans_Uncovering_Ethical_Concerns_in_Conversational_Generative_AI-empowered_Multi-Robot_Systems.md)
-
-    - [翻译: GPT 与人类：探寻对话式生成式人工智能驱动的多机器人系统中的伦理关切](2024年11月21日/GPT_versus_Humans_Uncovering_Ethical_Concerns_in_Conversational_Generative_AI-empowered_Multi-Robot_Systems.md)
-
 - [G-RAG: Knowledge Expansion in Material Science](2024年11月21日/G-RAG_Knowledge_Expansion_in_Material_Science.md)
 
     - [翻译: G-RAG：材料科学领域的知识拓展](2024年11月21日/G-RAG_Knowledge_Expansion_in_Material_Science.md)
@@ -2087,10 +2079,6 @@
 - [Fixing Security Vulnerabilities with AI in OSS-Fuzz](2024年11月03日/Fixing_Security_Vulnerabilities_with_AI_in_OSS-Fuzz.md)
 
     - [翻译: 使用人工智能在 OSS-Fuzz 中修复安全漏洞](2024年11月03日/Fixing_Security_Vulnerabilities_with_AI_in_OSS-Fuzz.md)
-
-- [HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference](2024年11月03日/HOBBIT_A_Mixed_Precision_Expert_Offloading_System_for_Fast_MoE_Inference.md)
-
-    - [翻译: HOBBIT ：一个用于快速 MoE 推理的混合精度专家卸载系统](2024年11月03日/HOBBIT_A_Mixed_Precision_Expert_Offloading_System_for_Fast_MoE_Inference.md)
 
 - [One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection](2024年11月03日/One_for_All_Multi-Domain_Joint_Training_for_Point_Cloud_Based_3D_Object_Detection.md)
 

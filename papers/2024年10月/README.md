@@ -372,10 +372,6 @@
 
     - [翻译: 社会科学遇上大型语言模型：大型语言模型在社会模拟中究竟有多可靠？](2024年10月30日/Social_Science_Meets_LLMs_How_Reliable_Are_Large_Language_Models_in_Social_Simulations.md)
 
-- [Survey of Cultural Awareness in Language Models: Text and Beyond](2024年10月30日/Survey_of_Cultural_Awareness_in_Language_Models_Text_and_Beyond.md)
-
-    - [翻译: 关于语言模型中文化意识的调研：涵盖文本及其他方面](2024年10月30日/Survey_of_Cultural_Awareness_in_Language_Models_Text_and_Beyond.md)
-
 - [Theoretical Investigations and Practical Enhancements on Tail Task Risk Minimization in Meta Learning](2024年10月30日/Theoretical_Investigations_and_Practical_Enhancements_on_Tail_Task_Risk_Minimization_in_Meta_Learning.md)
 
     - [翻译: 关于元学习中尾部任务风险最小化的理论研究与实践增强](2024年10月30日/Theoretical_Investigations_and_Practical_Enhancements_on_Tail_Task_Risk_Minimization_in_Meta_Learning.md)
@@ -938,6 +934,10 @@
 
     - [翻译: $	extit{谁发言很重要}$：剖析发言者的种族对仇恨分类的影响](2024年10月27日/$\textit{Who_Speaks_Matters}$_Analysing_the_Influence_of_the_Speaker's_Ethnicity_on_Hate_Classification.md)
 
+- [CodeRosetta: Pushing the Boundaries of Unsupervised Code Translation for Parallel Programming](2024年10月27日/CodeRosetta_Pushing_the_Boundaries_of_Unsupervised_Code_Translation_for_Parallel_Programming.md)
+
+    - [翻译: CodeRosetta：推动并行编程中无监督代码翻译的边界](2024年10月27日/CodeRosetta_Pushing_the_Boundaries_of_Unsupervised_Code_Translation_for_Parallel_Programming.md)
+
 - [Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs](2024年10月27日/Collaborative_Knowledge_Fusion_A_Novel_Approach_for_Multi-task_Recommender_Systems_via_LLMs.md)
 
     - [翻译: 协作知识融合：通过大型语言模型实现多任务推荐系统的全新方法](2024年10月27日/Collaborative_Knowledge_Fusion_A_Novel_Approach_for_Multi-task_Recommender_Systems_via_LLMs.md)
@@ -945,6 +945,10 @@
 - [Combining Domain-Specific Models and LLMs for Automated Disease Phenotyping from Survey Data](2024年10月27日/Combining_Domain-Specific_Models_and_LLMs_for_Automated_Disease_Phenotyping_from_Survey_Data.md)
 
     - [翻译: 将特定领域的模型与LLMs相融合，以实现从调查数据中对疾病表型的自动分析](2024年10月27日/Combining_Domain-Specific_Models_and_LLMs_for_Automated_Disease_Phenotyping_from_Survey_Data.md)
+
+- [Do LLM Personas Dream of Bull Markets? Comparing Human and AI Investment Strategies Through the Lens of the Five-Factor Model](2024年10月27日/Do_LLM_Personas_Dream_of_Bull_Markets_Comparing_Human_and_AI_Investment_Strategies_Through_the_Lens_of_the_Five-Factor_Model.md)
+
+    - [翻译: LLM 角色会憧憬牛市吗？借五因素模型对比人类与人工智能的投资策略](2024年10月27日/Do_LLM_Personas_Dream_of_Bull_Markets_Comparing_Human_and_AI_Investment_Strategies_Through_the_Lens_of_the_Five-Factor_Model.md)
 
 - [Exploring Capabilities of Time Series Foundation Models in Building Analytics](2024年10月27日/Exploring_Capabilities_of_Time_Series_Foundation_Models_in_Building_Analytics.md)
 
@@ -958,6 +962,10 @@
 
     - [翻译: 让大型语言模型做好说话的准备：语音生成的一种后期融合方式](2024年10月27日/Get_Large_Language_Models_Ready_to_Speak_A_Late-fusion_Approach_for_Speech_Generation.md)
 
+- [Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments](2024年10月27日/Guide-LLM_An_Embodied_LLM_Agent_and_Text-Based_Topological_Map_for_Robotic_Guidance_of_People_with_Visual_Impairments.md)
+
+    - [翻译: Guide-LLM：一种用于视障人士机器人引导的具身 LLM 智能体和基于文本的拓扑地图](2024年10月27日/Guide-LLM_An_Embodied_LLM_Agent_and_Text-Based_Topological_Map_for_Robotic_Guidance_of_People_with_Visual_Impairments.md)
+
 - [Implementation and Application of an Intelligibility Protocol for Interaction with an LLM](2024年10月27日/Implementation_and_Application_of_an_Intelligibility_Protocol_for_Interaction_with_an_LLM.md)
 
     - [翻译: LLM 交互可理解性协议的实施与应用](2024年10月27日/Implementation_and_Application_of_an_Intelligibility_Protocol_for_Interaction_with_an_LLM.md)
@@ -970,13 +978,33 @@
 
     - [翻译: 对于语言模型而言，水印强度与推测采样效率之间存在着不可避免的权衡。](2024年10月27日/Inevitable_Trade-off_between_Watermark_Strength_and_Speculative_Sampling_Efficiency_for_Language_Models.md)
 
+- [Is Moral Self-correction An Innate Capability of Large Language Models? A Mechanistic Analysis to Self-correction](2024年10月27日/Is_Moral_Self-correction_An_Innate_Capability_of_Large_Language_Models_A_Mechanistic_Analysis_to_Self-correction.md)
+
+    - [翻译: 大型语言模型是否天生具备道德自我纠正能力？关于自我纠正的机制分析](2024年10月27日/Is_Moral_Self-correction_An_Innate_Capability_of_Large_Language_Models_A_Mechanistic_Analysis_to_Self-correction.md)
+
 - [Language Models And A Second Opinion Use Case: The Pocket Professional](2024年10月27日/Language_Models_And_A_Second_Opinion_Use_Case_The_Pocket_Professional.md)
 
     - [翻译: 语言模型与第二意见的应用案例：袖珍专业人士](2024年10月27日/Language_Models_And_A_Second_Opinion_Use_Case_The_Pocket_Professional.md)
 
+- [LLM Robustness Against Misinformation in Biomedical Question Answering](2024年10月27日/LLM_Robustness_Against_Misinformation_in_Biomedical_Question_Answering.md)
+
+    - [翻译: LLM 在生物医学问答中抵御错误信息的能力](2024年10月27日/LLM_Robustness_Against_Misinformation_in_Biomedical_Question_Answering.md)
+
 - [Maintaining Informative Coherence: Migrating Hallucinations in Large Language Models via Absorbing Markov Chains](2024年10月27日/Maintaining_Informative_Coherence_Migrating_Hallucinations_in_Large_Language_Models_via_Absorbing_Markov_Chains.md)
 
     - [翻译: 保持信息的连贯性：利用吸收马尔可夫链来迁移大型语言模型中的幻觉](2024年10月27日/Maintaining_Informative_Coherence_Migrating_Hallucinations_in_Large_Language_Models_via_Absorbing_Markov_Chains.md)
+
+- [Malinowski in the Age of AI: Can large language models create a text game based on an anthropological classic?](2024年10月27日/Malinowski_in_the_Age_of_AI_Can_large_language_models_create_a_text_game_based_on_an_anthropological_classic.md)
+
+    - [翻译: 在人工智能时代，马林诺夫斯基的相关内容：大型语言模型能够依据一部人类学经典打造一个文本游戏吗？](2024年10月27日/Malinowski_in_the_Age_of_AI_Can_large_language_models_create_a_text_game_based_on_an_anthropological_classic.md)
+
+- [MedGo: A Chinese Medical Large Language Model](2024年10月27日/MedGo_A_Chinese_Medical_Large_Language_Model.md)
+
+    - [翻译: MedGo：一款中文医疗领域的大型语言模型](2024年10月27日/MedGo_A_Chinese_Medical_Large_Language_Model.md)
+
+- [Mind Your Step (by Step): Chain-of-Thought can Reduce Performance on Tasks where Thinking Makes Humans Worse](2024年10月27日/Mind_Your_Step_(by_Step)_Chain-of-Thought_can_Reduce_Performance_on_Tasks_where_Thinking_Makes_Humans_Worse.md)
+
+    - [翻译: Mind Your Step (by Step)：思维链可能会降低人类在思考后表现更差的任务上的性能](2024年10月27日/Mind_Your_Step_(by_Step)_Chain-of-Thought_can_Reduce_Performance_on_Tasks_where_Thinking_Makes_Humans_Worse.md)
 
 - [R^3AG: First Workshop on Refined and Reliable Retrieval Augmented Generation](2024年10月27日/R^3AG_First_Workshop_on_Refined_and_Reliable_Retrieval_Augmented_Generation.md)
 
@@ -989,6 +1017,10 @@
 - [Rethinking Data Synthesis: A Teacher Model Training Recipe with Interpretation](2024年10月27日/Rethinking_Data_Synthesis_A_Teacher_Model_Training_Recipe_with_Interpretation.md)
 
     - [翻译: 重新审视数据合成：一份附带解释的教师模型训练秘籍](2024年10月27日/Rethinking_Data_Synthesis_A_Teacher_Model_Training_Recipe_with_Interpretation.md)
+
+- [SPICEPilot: Navigating SPICE Code Generation and Simulation with AI Guidance](2024年10月27日/SPICEPilot_Navigating_SPICE_Code_Generation_and_Simulation_with_AI_Guidance.md)
+
+    - [翻译: SPICEPilot：借助人工智能指引，驾驭 SPICE 代码生成与仿真](2024年10月27日/SPICEPilot_Navigating_SPICE_Code_Generation_and_Simulation_with_AI_Guidance.md)
 
 - [Towards an LLM-Based Speech Interface for Robot-Assisted Feeding](2024年10月27日/Towards_an_LLM-Based_Speech_Interface_for_Robot-Assisted_Feeding.md)
 
@@ -1005,6 +1037,24 @@
 - [What Factors Affect Multi-Modal In-Context Learning? An In-Depth Exploration](2024年10月27日/What_Factors_Affect_Multi-Modal_In-Context_Learning_An_In-Depth_Exploration.md)
 
     - [翻译: 哪些因素会影响多模态的上下文学习？深度探究](2024年10月27日/What_Factors_Affect_Multi-Modal_In-Context_Learning_An_In-Depth_Exploration.md)
+
+2024年10月26日
+
+- [Enhancing Inflation Nowcasting with LLM: Sentiment Analysis on News](2024年10月26日/Enhancing_Inflation_Nowcasting_with_LLM_Sentiment_Analysis_on_News.md)
+
+    - [翻译: 利用 LLM 增强通货膨胀的即时预测：新闻情绪分析](2024年10月26日/Enhancing_Inflation_Nowcasting_with_LLM_Sentiment_Analysis_on_News.md)
+
+- [Generative AI in Health Economics and Outcomes Research: A Taxonomy of Key Definitions and Emerging Applications, an ISPOR Working Group Report](2024年10月26日/Generative_AI_in_Health_Economics_and_Outcomes_Research_A_Taxonomy_of_Key_Definitions_and_Emerging_Applications,_an_ISPOR_Working_Group_Report.md)
+
+    - [翻译: 《卫生经济学和结果研究中的生成式人工智能：关键定义和新兴应用的分类，ISPOR 工作组报告》](2024年10月26日/Generative_AI_in_Health_Economics_and_Outcomes_Research_A_Taxonomy_of_Key_Definitions_and_Emerging_Applications,_an_ISPOR_Working_Group_Report.md)
+
+- [Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play](2024年10月26日/Quantifying_Risk_Propensities_of_Large_Language_Models_Ethical_Focus_and_Bias_Detection_through_Role-Play.md)
+
+    - [翻译: 量化大型语言模型的风险倾向：借由角色扮演实现伦理关注与偏差检测](2024年10月26日/Quantifying_Risk_Propensities_of_Large_Language_Models_Ethical_Focus_and_Bias_Detection_through_Role-Play.md)
+
+- [RARe: Retrieval Augmented Retrieval with In-Context Examples](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
+
+    - [翻译: RARe：具有上下文示例的检索增强式检索](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
 
 2024年10月15日
 
