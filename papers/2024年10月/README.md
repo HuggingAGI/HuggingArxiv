@@ -356,10 +356,6 @@
 
     - [翻译: 大型语言模型反馈下决策代理的在线内在奖励](2024年10月30日/Online_Intrinsic_Rewards_for_Decision_Making_Agents_from_Large_Language_Model_Feedback.md)
 
-- [On Positional Bias of Faithfulness for Long-form Summarization](2024年10月30日/On_Positional_Bias_of_Faithfulness_for_Long-form_Summarization.md)
-
-    - [翻译: 论长文本摘要中忠实度的位置偏差](2024年10月30日/On_Positional_Bias_of_Faithfulness_for_Long-form_Summarization.md)
-
 - [PIP-MM: Pre-Integrating Prompt Information into Visual Encoding via Existing MLLM Structures](2024年10月30日/PIP-MM_Pre-Integrating_Prompt_Information_into_Visual_Encoding_via_Existing_MLLM_Structures.md)
 
     - [翻译: PIP-MM：借助现有的 MLLM 结构，将提示信息预先融入视觉编码](2024年10月30日/PIP-MM_Pre-Integrating_Prompt_Information_into_Visual_Encoding_via_Existing_MLLM_Structures.md)
@@ -445,10 +441,6 @@
 - [BENCHAGENTS: Automated Benchmark Creation with Agent Interaction](2024年10月29日/BENCHAGENTS_Automated_Benchmark_Creation_with_Agent_Interaction.md)
 
     - [翻译: BENCHAGENTS：借助代理交互进行自动基准创建](2024年10月29日/BENCHAGENTS_Automated_Benchmark_Creation_with_Agent_Interaction.md)
-
-- [Benchmarking LLM Guardrails in Handling Multilingual Toxicity](2024年10月29日/Benchmarking_LLM_Guardrails_in_Handling_Multilingual_Toxicity.md)
-
-    - [翻译: 对 LLM 防护栏处理多语言毒性的情况进行基准测试](2024年10月29日/Benchmarking_LLM_Guardrails_in_Handling_Multilingual_Toxicity.md)
 
 - [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](2024年10月29日/Beyond_Text_Optimizing_RAG_with_Multimodal_Inputs_for_Industrial_Applications.md)
 
