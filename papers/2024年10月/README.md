@@ -582,10 +582,6 @@
 
     - [翻译: 多类文本反转竟悄然生成了一个语义无关的分类器](2024年10月29日/Multi-Class_Textual-Inversion_Secretly_Yields_a_Semantic-Agnostic_Classifier.md)
 
-- [Natural Language Inference Improves Compositionality in Vision-Language Models](2024年10月29日/Natural_Language_Inference_Improves_Compositionality_in_Vision-Language_Models.md)
-
-    - [翻译: 自然语言推理增强了视觉语言模型的组合性](2024年10月29日/Natural_Language_Inference_Improves_Compositionality_in_Vision-Language_Models.md)
-
 - [Not All Languages are Equal: Insights into Multilingual Retrieval-Augmented Generation](2024年10月29日/Not_All_Languages_are_Equal_Insights_into_Multilingual_Retrieval-Augmented_Generation.md)
 
     - [翻译: 并非所有语言都平等：有关多语言检索增强生成的洞察](2024年10月29日/Not_All_Languages_are_Equal_Insights_into_Multilingual_Retrieval-Augmented_Generation.md)
@@ -629,10 +625,6 @@
 - [SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types](2024年10月29日/SG-Bench_Evaluating_LLM_Safety_Generalization_Across_Diverse_Tasks_and_Prompt_Types.md)
 
     - [翻译: SG-Bench：评估大型语言模型在各类任务和提示类型中的安全泛化情况](2024年10月29日/SG-Bench_Evaluating_LLM_Safety_Generalization_Across_Diverse_Tasks_and_Prompt_Types.md)
-
-- [SVIP: Towards Verifiable Inference of Open-source Large Language Models](2024年10月29日/SVIP_Towards_Verifiable_Inference_of_Open-source_Large_Language_Models.md)
-
-    - [翻译: SVIP：致力于实现开源大型语言模型的可验证推理](2024年10月29日/SVIP_Towards_Verifiable_Inference_of_Open-source_Large_Language_Models.md)
 
 - [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](2024年10月29日/SWE-Search_Enhancing_Software_Agents_with_Monte_Carlo_Tree_Search_and_Iterative_Refinement.md)
 
