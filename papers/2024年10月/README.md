@@ -1040,6 +1040,14 @@
 
 2024年10月26日
 
+- [AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models](2024年10月26日/AdaNeg_Adaptive_Negative_Proxy_Guided_OOD_Detection_with_Vision-Language_Models.md)
+
+    - [翻译: AdaNeg：借助视觉语言模型的自适应负代理引导式 OOD 检测](2024年10月26日/AdaNeg_Adaptive_Negative_Proxy_Guided_OOD_Detection_with_Vision-Language_Models.md)
+
+- [Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning](2024年10月26日/Adaptive_Video_Understanding_Agent_Enhancing_efficiency_with_dynamic_frame_sampling_and_feedback-driven_reasoning.md)
+
+    - [翻译: 自适应视频理解代理：借助动态帧采样和反馈驱动推理提升效率](2024年10月26日/Adaptive_Video_Understanding_Agent_Enhancing_efficiency_with_dynamic_frame_sampling_and_feedback-driven_reasoning.md)
+
 - [Enhancing Inflation Nowcasting with LLM: Sentiment Analysis on News](2024年10月26日/Enhancing_Inflation_Nowcasting_with_LLM_Sentiment_Analysis_on_News.md)
 
     - [翻译: 利用 LLM 增强通货膨胀的即时预测：新闻情绪分析](2024年10月26日/Enhancing_Inflation_Nowcasting_with_LLM_Sentiment_Analysis_on_News.md)
@@ -1055,6 +1063,10 @@
 - [RARe: Retrieval Augmented Retrieval with In-Context Examples](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
 
     - [翻译: RARe：具有上下文示例的检索增强式检索](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
+
+- [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](2024年10月26日/UniHGKR_Unified_Instruction-aware_Heterogeneous_Knowledge_Retrievers.md)
+
+    - [翻译: UniHGKR：统一的指令感知型异构知识检索器](2024年10月26日/UniHGKR_Unified_Instruction-aware_Heterogeneous_Knowledge_Retrievers.md)
 
 2024年10月15日
 
