@@ -1,0 +1,15 @@
+# 通过多 AI 反馈构建视频 - 文本数据集：推动视频大型语言模型实现从弱到强的偏好学习
+
+发布时间：2024年11月25日
+
+`LLM应用` `多模态` `视频问答`
+
+> Video-Text Dataset Construction from Multi-AI Feedback: Promoting Weak-to-Strong Preference Learning for Video Large Language Models
+
+# 摘要
+
+> 高质量的视频-文本偏好数据对多模态大型语言模型（MLLMs）的对齐极为关键。然而，现有的偏好数据十分稀缺。获取用于偏好训练的 VQA 偏好数据成本颇高，而且手动标注响应极不可靠，这可能致使配对质量低下。同时，由温度调整控制的 AI 生成的响应缺乏多样性。为应对这些问题，我们提出了一个高质量的 VQA 偏好数据集，名为“	extit{	extbf{M}ultiple 	extbf{M}ultimodal 	extbf{A}rtificial 	extbf{I}ntelligence 	extbf{P}reference Datasets in 	extbf{V}QA”（	extbf{MMAIP-V}），它通过从响应分布集采样，并运用外部评分函数进行响应评估来构建。此外，为充分利用 MMAIP-V 中的偏好知识并确保充分优化，我们提出了“	extit{	extbf{Iter}ative 	extbf{W}eak-to-	extbf{S}trong 	extbf{R}einforcement 	extbf{L}earning from 	extbf{AI} 	extbf{F}eedback for video MLLMs”（	extbf{Iter-W2S-RLAIF}），这是一个通过迭代更新参考模型并执行参数外推来逐步增强 MLLMs 对齐能力的框架。最后，我们在 VQA 评估中提出了无偏且信息完整的评估方案。实验表明，MMAIP-V 有益于 MLLMs 的偏好学习，Iter-W2S-RLAIF 充分挖掘了 MMAIP-V 中的对齐信息。我们坚信，基于 AI 反馈提出的自动 VQA 偏好数据生成管道能够极大地推动 MLLMs 对齐的未来工作。	extbf{代码和数据集可用} \href{https://anonymous.4open.science/r/MMAIP-V_Iter-W2S-RLAIF-702F}{MMAIP-V\_Iter-W2S-RLAIF-702F}。
+
+> High-quality video-text preference data is crucial for Multimodal Large Language Models (MLLMs) alignment. However, existing preference data is very scarce. Obtaining VQA preference data for preference training is costly, and manually annotating responses is highly unreliable, which could result in low-quality pairs. Meanwhile, AI-generated responses controlled by temperature adjustment lack diversity. To address these issues, we propose a high-quality VQA preference dataset, called \textit{\textbf{M}ultiple \textbf{M}ultimodal \textbf{A}rtificial \textbf{I}ntelligence \textbf{P}reference Datasets in \textbf{V}QA} (\textbf{MMAIP-V}), which is constructed by sampling from the response distribution set and using an external scoring function for response evaluation. Furthermore, to fully leverage the preference knowledge in MMAIP-V and ensure sufficient optimization, we propose \textit{\textbf{Iter}ative \textbf{W}eak-to-\textbf{S}trong \textbf{R}einforcement \textbf{L}earning from \textbf{AI} \textbf{F}eedback for video MLLMs} (\textbf{Iter-W2S-RLAIF}), a framework that gradually enhances MLLMs' alignment capabilities by iteratively updating the reference model and performing parameter extrapolation. Finally, we propose an unbiased and information-complete evaluation scheme in VQA evaluation. Experiments demonstrate that MMAIP-V is beneficial for MLLMs in preference learning and Iter-W2S-RLAIF fully exploits the alignment information in MMAIP-V. We believe that the proposed automatic VQA preference data generation pipeline based on AI feedback can greatly promote future work in the MLLMs alignment. \textbf{Code and dataset are available} \href{https://anonymous.4open.science/r/MMAIP-V_Iter-W2S-RLAIF-702F}{MMAIP-V\_Iter-W2S-RLAIF-702F}.
+
+[Arxiv](https://arxiv.org/abs/2411.16201)
