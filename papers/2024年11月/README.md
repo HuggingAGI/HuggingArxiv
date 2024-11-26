@@ -240,6 +240,10 @@
 
     - [翻译: 确保在多样化的应用场景中实现大型语言模型服务的公平性](2024年11月24日/Ensuring_Fair_LLM_Serving_Amid_Diverse_Applications.md)
 
+- [From Laws to Motivation: Guiding Exploration through Law-Based Reasoning and Rewards](2024年11月24日/From_Laws_to_Motivation_Guiding_Exploration_through_Law-Based_Reasoning_and_Rewards.md)
+
+    - [翻译: 从法律到动机：借由基于法律的推理与奖励引导探索](2024年11月24日/From_Laws_to_Motivation_Guiding_Exploration_through_Law-Based_Reasoning_and_Rewards.md)
+
 - [Generative Context Distillation](2024年11月24日/Generative_Context_Distillation.md)
 
     - [翻译: 生成式的上下文蒸馏](2024年11月24日/Generative_Context_Distillation.md)
@@ -251,6 +255,10 @@
 - [Leverage Task Context for Object Affordance Ranking](2024年11月24日/Leverage_Task_Context_for_Object_Affordance_Ranking.md)
 
     - [翻译: 借助任务上下文来对对象可供性进行排序](2024年11月24日/Leverage_Task_Context_for_Object_Affordance_Ranking.md)
+
+- [Modality Alignment Meets Federated Broadcasting](2024年11月24日/Modality_Alignment_Meets_Federated_Broadcasting.md)
+
+    - [翻译: 模态对齐与联邦广播的相遇](2024年11月24日/Modality_Alignment_Meets_Federated_Broadcasting.md)
 
 - [PIANIST: Learning Partially Observable World Models with LLMs for Multi-Agent Decision Making](2024年11月24日/PIANIST_Learning_Partially_Observable_World_Models_with_LLMs_for_Multi-Agent_Decision_Making.md)
 
@@ -268,9 +276,24 @@
 
     - [翻译: TransCompressor：为智能交通服务的、由 LLM 驱动的多模态数据压缩技术](2024年11月24日/TransCompressor_LLM-Powered_Multimodal_Data_Compression_for_Smart_Transportation.md)
 
+- [VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding](2024年11月24日/VaLiD_Mitigating_the_Hallucination_of_Large_Vision_Language_Models_by_Visual_Layer_Fusion_Contrastive_Decoding.md)
+
+    - [翻译: VaLiD：借由视觉层融合对比解码来缓解大型视觉语言模型的幻觉](2024年11月24日/VaLiD_Mitigating_the_Hallucination_of_Large_Vision_Language_Models_by_Visual_Layer_Fusion_Contrastive_Decoding.md)
+
 - [VersaTune: Harnessing Vertical Domain Insights for Multi-Ability LLM Supervised Fine-Tuning](2024年11月24日/VersaTune_Harnessing_Vertical_Domain_Insights_for_Multi-Ability_LLM_Supervised_Fine-Tuning.md)
 
     - [翻译: VersaTune：高效地微调多能力大型语言模型](2024年11月24日/VersaTune_Harnessing_Vertical_Domain_Insights_for_Multi-Ability_LLM_Supervised_Fine-Tuning.md)
+
+- [ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration](2024年11月24日/ZoomEye_Enhancing_Multimodal_LLMs_with_Human-Like_Zooming_Capabilities_through_Tree-Based_Image_Exploration.md)
+
+    - [翻译: ZoomEye：通过基于树的图像探索，为多模态大型语言模型增添类人缩放的能力](2024年11月24日/ZoomEye_Enhancing_Multimodal_LLMs_with_Human-Like_Zooming_Capabilities_through_Tree-Based_Image_Exploration.md)
+
+2024年11月23日
+
+- [A Survey on LLM-as-a-Judge](2024年11月23日/A_Survey_on_LLM-as-a-Judge.md)
+
+    - [翻译: A Survey on LLM-as-a-Judge
+关于 LLM 充当裁判的调研](2024年11月23日/A_Survey_on_LLM-as-a-Judge.md)
 
 2024年11月22日
 

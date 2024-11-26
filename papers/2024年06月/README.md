@@ -44,6 +44,12 @@
 
     - [翻译: AutoSurvey：大型语言模型能够自动撰写调查问卷](2024年06月10日/AutoSurvey_Large_Language_Models_Can_Automatically_Write_Surveys.md)
 
+2024年06月06日
+
+- [Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image](2024年06月06日/Flash3D_Feed-Forward_Generalisable_3D_Scene_Reconstruction_from_a_Single_Image.md)
+
+    - [翻译: Flash3D：实现从单张图像进行前馈式可泛化的 3D 场景重建](2024年06月06日/Flash3D_Feed-Forward_Generalisable_3D_Scene_Reconstruction_from_a_Single_Image.md)
+
 2024年06月03日
 
 - [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](2024年06月03日/Agent_Smith_A_Single_Image_Can_Jailbreak_One_Million_Multimodal_LLM_Agents_Exponentially_Fast.md)
