@@ -38,10 +38,6 @@
 
     - [翻译: 人工智能能为你的文章打分吗？对大型语言模型和教师在多维文章评分中的比较分析](2024年11月25日/Can_AI_grade_your_essays_A_comparative_analysis_of_large_language_models_and_teacher_ratings_in_multidimensional_essay_scoring.md)
 
-- [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](2024年11月25日/CATP-LLM_Empowering_Large_Language_Models_for_Cost-Aware_Tool_Planning.md)
-
-    - [翻译: CATP-LLM：助力大型语言模型实现成本感知的工具规划](2024年11月25日/CATP-LLM_Empowering_Large_Language_Models_for_Cost-Aware_Tool_Planning.md)
-
 - [Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](2024年11月25日/Chat2SVG_Vector_Graphics_Generation_with_Large_Language_Models_and_Image_Diffusion_Models.md)
 
     - [翻译: Chat2SVG：借助大型语言模型和图像扩散模型实现矢量图形生成](2024年11月25日/Chat2SVG_Vector_Graphics_Generation_with_Large_Language_Models_and_Image_Diffusion_Models.md)
@@ -74,10 +70,6 @@
 
     - [翻译: EnStack：一个用于强化源代码漏洞检测的大型语言模型集成堆叠框架](2024年11月25日/EnStack_An_Ensemble_Stacking_Framework_of_Large_Language_Models_for_Enhanced_Vulnerability_Detection_in_Source_Code.md)
 
-- [Finding Structure in Language Models](2024年11月25日/Finding_Structure_in_Language_Models.md)
-
-    - [翻译: 探寻语言模型里的结构](2024年11月25日/Finding_Structure_in_Language_Models.md)
-
 - [FineWeb-zhtw: Scalable Curation of Traditional Chinese Text Data from the Web](2024年11月25日/FineWeb-zhtw_Scalable_Curation_of_Traditional_Chinese_Text_Data_from_the_Web.md)
 
     - [翻译: FineWeb-zhtw：实现从网络中对繁体中文文本数据的可扩展整理](2024年11月25日/FineWeb-zhtw_Scalable_Curation_of_Traditional_Chinese_Text_Data_from_the_Web.md)
@@ -97,10 +89,6 @@
 - [Human-Calibrated Automated Testing and Validation of Generative Language Models](2024年11月25日/Human-Calibrated_Automated_Testing_and_Validation_of_Generative_Language_Models.md)
 
     - [翻译: 关于生成语言模型的人类校准式自动化测试与验证](2024年11月25日/Human-Calibrated_Automated_Testing_and_Validation_of_Generative_Language_Models.md)
-
-- [Information Extraction from Heterogeneous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation](2024年11月25日/Information_Extraction_from_Heterogeneous_Documents_without_Ground_Truth_Labels_using_Synthetic_Label_Generation_and_Knowledge_Distillation.md)
-
-    - [翻译: 利用合成标签生成与知识蒸馏，从无真实标签的异构文档中提取信息](2024年11月25日/Information_Extraction_from_Heterogeneous_Documents_without_Ground_Truth_Labels_using_Synthetic_Label_Generation_and_Knowledge_Distillation.md)
 
 - [Interpreting Language Reward Models via Contrastive Explanations](2024年11月25日/Interpreting_Language_Reward_Models_via_Contrastive_Explanations.md)
 
@@ -137,10 +125,6 @@
 - [MH-MoE:Multi-Head Mixture-of-Experts](2024年11月25日/MH-MoEMulti-Head_Mixture-of-Experts.md)
 
     - [翻译: MH-MoE:多头部的专家混合模式](2024年11月25日/MH-MoEMulti-Head_Mixture-of-Experts.md)
-
-- [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](2024年11月25日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
-
-    - [翻译: MindForge：以心理理论赋能具身智能体，实现终身协作学习](2024年11月25日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
 
 - [MixPE: Quantization and Hardware Co-design for Efficient LLM Inference](2024年11月25日/MixPE_Quantization_and_Hardware_Co-design_for_Efficient_LLM_Inference.md)
 
@@ -198,10 +182,6 @@
 
     - [翻译: SALOVA：在长视频分析中用于目标检索和路由的分段增强型长视频助手](2024年11月25日/SALOVA_Segment-Augmented_Long_Video_Assistant_for_Targeted_Retrieval_and_Routing_in_Long-Form_Video_Analysis.md)
 
-- [SAVEn-Vid: Synergistic Audio-Visual Integration for Enhanced Understanding in Long Video Context](2024年11月25日/SAVEn-Vid_Synergistic_Audio-Visual_Integration_for_Enhanced_Understanding_in_Long_Video_Context.md)
-
-    - [翻译: SAVEn-Vid：用于长视频情境中强化理解的协同式视听融合](2024年11月25日/SAVEn-Vid_Synergistic_Audio-Visual_Integration_for_Enhanced_Understanding_in_Long_Video_Context.md)
-
 - [Self-Generated Critiques Boost Reward Modeling for Language Models](2024年11月25日/Self-Generated_Critiques_Boost_Reward_Modeling_for_Language_Models.md)
 
     - [翻译: 自我生成的批评能够推动语言模型的奖励建模](2024年11月25日/Self-Generated_Critiques_Boost_Reward_Modeling_for_Language_Models.md)
@@ -244,6 +224,10 @@
 
     - [翻译: CodeXEmbed：适用于多语言和多任务代码检索的通用嵌入模型族](2024年11月24日/CodeXEmbed_A_Generalist_Embedding_Model_Family_for_Multiligual_and_Multi-task_Code_Retrieval.md)
 
+- [Debiasing Classifiers by Amplifying Bias with Latent Diffusion and Large Language Models](2024年11月24日/Debiasing_Classifiers_by_Amplifying_Bias_with_Latent_Diffusion_and_Large_Language_Models.md)
+
+    - [翻译: 利用潜在扩散和大型语言模型放大偏差以消除分类器的偏差](2024年11月24日/Debiasing_Classifiers_by_Amplifying_Bias_with_Latent_Diffusion_and_Large_Language_Models.md)
+
 - [Deciphering genomic codes using advanced NLP techniques: a scoping review](2024年11月24日/Deciphering_genomic_codes_using_advanced_NLP_techniques_a_scoping_review.md)
 
     - [翻译: 利用先进的 NLP 技术破译基因组代码：范围综述](2024年11月24日/Deciphering_genomic_codes_using_advanced_NLP_techniques_a_scoping_review.md)
@@ -279,6 +263,10 @@
 - [Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering](2024年11月24日/Text-Guided_Coarse-to-Fine_Fusion_Network_for_Robust_Remote_Sensing_Visual_Question_Answering.md)
 
     - [翻译: 用于鲁棒遥感视觉问答的文本引导式从粗到细融合网络](2024年11月24日/Text-Guided_Coarse-to-Fine_Fusion_Network_for_Robust_Remote_Sensing_Visual_Question_Answering.md)
+
+- [TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation](2024年11月24日/TransCompressor_LLM-Powered_Multimodal_Data_Compression_for_Smart_Transportation.md)
+
+    - [翻译: TransCompressor：为智能交通服务的、由 LLM 驱动的多模态数据压缩技术](2024年11月24日/TransCompressor_LLM-Powered_Multimodal_Data_Compression_for_Smart_Transportation.md)
 
 - [VersaTune: Harnessing Vertical Domain Insights for Multi-Ability LLM Supervised Fine-Tuning](2024年11月24日/VersaTune_Harnessing_Vertical_Domain_Insights_for_Multi-Ability_LLM_Supervised_Fine-Tuning.md)
 
