@@ -10,9 +10,21 @@
 
     - [翻译: MindForge：以心理理论赋能具身智能体，实现终身协作学习](2024年11月25日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
 
+- [NormXLogit: The Head-on-Top Never Lies](2024年11月25日/NormXLogit_The_Head-on-Top_Never_Lies.md)
+
+    - [翻译: NormXLogit: 头顶之处从不骗人](2024年11月25日/NormXLogit_The_Head-on-Top_Never_Lies.md)
+
 - [OASIS: Open Agent Social Interaction Simulations with One Million Agents](2024年11月25日/OASIS_Open_Agent_Social_Interaction_Simulations_with_One_Million_Agents.md)
 
     - [翻译: OASIS：针对一百万个代理的开放型代理社会交互模拟](2024年11月25日/OASIS_Open_Agent_Social_Interaction_Simulations_with_One_Million_Agents.md)
+
+- [OminiControl: Minimal and Universal Control for Diffusion Transformer](2024年11月25日/OminiControl_Minimal_and_Universal_Control_for_Diffusion_Transformer.md)
+
+    - [翻译: OminiControl：针对扩散 Transformer 的极简且通用的控制](2024年11月25日/OminiControl_Minimal_and_Universal_Control_for_Diffusion_Transformer.md)
+
+- [Towards Foundation Models for Critical Care Time Series](2024年11月25日/Towards_Foundation_Models_for_Critical_Care_Time_Series.md)
+
+    - [翻译: 朝着重症监护时间序列的基础模型进发](2024年11月25日/Towards_Foundation_Models_for_Critical_Care_Time_Series.md)
 
 2024年11月24日
 
@@ -23,6 +35,10 @@
 - [KBAlign: Efficient Self Adaptation on Specific Knowledge Bases](2024年11月24日/KBAlign_Efficient_Self_Adaptation_on_Specific_Knowledge_Bases.md)
 
     - [翻译: KBAda：在特定知识库上实现高效的自我适应](2024年11月24日/KBAlign_Efficient_Self_Adaptation_on_Specific_Knowledge_Bases.md)
+
+- [VersaTune: Harnessing Vertical Domain Insights for Multi-Ability LLM Supervised Fine-Tuning](2024年11月24日/VersaTune_Harnessing_Vertical_Domain_Insights_for_Multi-Ability_LLM_Supervised_Fine-Tuning.md)
+
+    - [翻译: VersaTune：高效地微调多能力大型语言模型](2024年11月24日/VersaTune_Harnessing_Vertical_Domain_Insights_for_Multi-Ability_LLM_Supervised_Fine-Tuning.md)
 
 2024年11月22日
 
@@ -82,10 +98,6 @@
 
     - [翻译: Geminio：联邦学习中的语言引导式梯度反转攻击](2024年11月22日/Geminio_Language-Guided_Gradient_Inversion_Attacks_in_Federated_Learning.md)
 
-- [GOT4Rec: Graph of Thoughts for Sequential Recommendation](2024年11月22日/GOT4Rec_Graph_of_Thoughts_for_Sequential_Recommendation.md)
-
-    - [翻译: GOT4Rec：用于序列推荐的思维图谱](2024年11月22日/GOT4Rec_Graph_of_Thoughts_for_Sequential_Recommendation.md)
-
 - [Harlequin: Color-driven Generation of Synthetic Data for Referring Expression Comprehension](2024年11月22日/Harlequin_Color-driven_Generation_of_Synthetic_Data_for_Referring_Expression_Comprehension.md)
 
     - [翻译: Harlequin：用于指称表达理解的由颜色驱动的合成数据生成](2024年11月22日/Harlequin_Color-driven_Generation_of_Synthetic_Data_for_Referring_Expression_Comprehension.md)
@@ -105,10 +117,6 @@
 - [mR$^2$AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](2024年11月22日/mR$^2$AG_Multimodal_Retrieval-Reflection-Augmented_Generation_for_Knowledge-Based_VQA.md)
 
     - [翻译: mR$^2$AG：针对基于知识的 VQA 的多模态检索-反思-增强式生成](2024年11月22日/mR$^2$AG_Multimodal_Retrieval-Reflection-Augmented_Generation_for_Knowledge-Based_VQA.md)
-
-- [OminiControl: Minimal and Universal Control for Diffusion Transformer](2024年11月22日/OminiControl_Minimal_and_Universal_Control_for_Diffusion_Transformer.md)
-
-    - [翻译: OminiControl：针对扩散 Transformer 的极简且通用的控制](2024年11月22日/OminiControl_Minimal_and_Universal_Control_for_Diffusion_Transformer.md)
 
 - [Open-Amp: Synthetic Data Framework for Audio Effect Foundation Models](2024年11月22日/Open-Amp_Synthetic_Data_Framework_for_Audio_Effect_Foundation_Models.md)
 
@@ -320,10 +328,6 @@
 
     - [翻译: 自然语言强化式学习](2024年11月21日/Natural_Language_Reinforcement_Learning.md)
 
-- [Next-Generation Phishing: How LLM Agents Empower Cyber Attackers](2024年11月21日/Next-Generation_Phishing_How_LLM_Agents_Empower_Cyber_Attackers.md)
-
-    - [翻译: 下一代网络钓鱼：LLM 代理怎样给网络攻击者提供助力](2024年11月21日/Next-Generation_Phishing_How_LLM_Agents_Empower_Cyber_Attackers.md)
-
 - [OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs](2024年11月21日/OpenScholar_Synthesizing_Scientific_Literature_with_Retrieval-augmented_LMs.md)
 
     - [翻译: OpenScholar：借助检索增强型语言模型来合成科学文献](2024年11月21日/OpenScholar_Synthesizing_Scientific_Literature_with_Retrieval-augmented_LMs.md)
@@ -486,14 +490,6 @@
 
     - [翻译: FastRAG：针对半结构化数据的检索增强式生成](2024年11月20日/FastRAG_Retrieval_Augmented_Generation_for_Semi-structured_Data.md)
 
-- [Hymba: A Hybrid-head Architecture for Small Language Models](2024年11月20日/Hymba_A_Hybrid-head_Architecture_for_Small_Language_Models.md)
-
-    - [翻译: Hymba：小型语言模型的混合头式架构](2024年11月20日/Hymba_A_Hybrid-head_Architecture_for_Small_Language_Models.md)
-
-- [I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception](2024年11月20日/I2TTS_Image-indicated_Immersive_Text-to-speech_Synthesis_with_Spatial_Perception.md)
-
-    - [翻译: I2TTS：具备空间感知的图像指示沉浸式文语转换合成](2024年11月20日/I2TTS_Image-indicated_Immersive_Text-to-speech_Synthesis_with_Spatial_Perception.md)
-
 - [InstCache: A Predictive Cache for LLM Serving](2024年11月20日/InstCache_A_Predictive_Cache_for_LLM_Serving.md)
 
     - [翻译: InstCache：LLM 服务的预测缓存](2024年11月20日/InstCache_A_Predictive_Cache_for_LLM_Serving.md)
@@ -623,10 +619,6 @@
 - [Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting](2024年11月19日/Automated_3D_Physical_Simulation_of_Open-world_Scene_with_Gaussian_Splatting.md)
 
     - [翻译: 通过高斯喷溅实现的开放世界场景的自动化 3D 物理模拟](2024年11月19日/Automated_3D_Physical_Simulation_of_Open-world_Scene_with_Gaussian_Splatting.md)
-
-- [Balancing Accuracy and Efficiency in Multi-Turn Intent Classification for LLM-Powered Dialog Systems in Production](2024年11月19日/Balancing_Accuracy_and_Efficiency_in_Multi-Turn_Intent_Classification_for_LLM-Powered_Dialog_Systems_in_Production.md)
-
-    - [翻译: 在生产环境中由 LLM 驱动的对话系统的多轮意图分类里，实现准确性与效率的平衡](2024年11月19日/Balancing_Accuracy_and_Efficiency_in_Multi-Turn_Intent_Classification_for_LLM-Powered_Dialog_Systems_in_Production.md)
 
 - [Can ChatGPT Overcome Behavioral Biases in the Financial Sector? Classify-and-Rethink: Multi-Step Zero-Shot Reasoning in the Gold Investment](2024年11月19日/Can_ChatGPT_Overcome_Behavioral_Biases_in_the_Financial_Sector_Classify-and-Rethink_Multi-Step_Zero-Shot_Reasoning_in_the_Gold_Investment.md)
 
@@ -788,10 +780,6 @@
 
     - [翻译: VILA-M3：借助医学专家知识强化视觉语言模型](2024年11月19日/VILA-M3_Enhancing_Vision-Language_Models_with_Medical_Expert_Knowledge.md)
 
-- [Visual Cue Enhancement and Dual Low-Rank Adaptation for Efficient Visual Instruction Fine-Tuning](2024年11月19日/Visual_Cue_Enhancement_and_Dual_Low-Rank_Adaptation_for_Efficient_Visual_Instruction_Fine-Tuning.md)
-
-    - [翻译: 通过视觉线索增强和双重低秩适应来进行高效的视觉指令微调](2024年11月19日/Visual_Cue_Enhancement_and_Dual_Low-Rank_Adaptation_for_Efficient_Visual_Instruction_Fine-Tuning.md)
-
 2024年11月18日
 
 - [A Combined Encoder and Transformer Approach for Coherent and High-Quality Text Generation](2024年11月18日/A_Combined_Encoder_and_Transformer_Approach_for_Coherent_and_High-Quality_Text_Generation.md)
@@ -940,10 +928,6 @@
 
     - [翻译: 为 ARC 挑战捕捉抽象的灵光一闪](2024年11月17日/Capturing_Sparks_of_Abstraction_for_the_ARC_Challenge.md)
 
-- [Debiasing Watermarks for Large Language Models via Maximal Coupling](2024年11月17日/Debiasing_Watermarks_for_Large_Language_Models_via_Maximal_Coupling.md)
-
-    - [翻译: 借助最大耦合为大型语言模型去除偏差水印](2024年11月17日/Debiasing_Watermarks_for_Large_Language_Models_via_Maximal_Coupling.md)
-
 - [Efficient Transfer Learning for Video-language Foundation Models](2024年11月17日/Efficient_Transfer_Learning_for_Video-language_Foundation_Models.md)
 
     - [翻译: 关于视频语言基础模型的高效迁移学习](2024年11月17日/Efficient_Transfer_Learning_for_Video-language_Foundation_Models.md)
@@ -971,10 +955,6 @@
 - [TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models](2024年11月17日/TS-LLaVA_Constructing_Visual_Tokens_through_Thumbnail-and-Sampling_for_Training-Free_Video_Large_Language_Models.md)
 
     - [翻译: TS-LLaVA：借助缩略图和采样来构建视觉标记，以用于无需训练的视频大型语言模型](2024年11月17日/TS-LLaVA_Constructing_Visual_Tokens_through_Thumbnail-and-Sampling_for_Training-Free_Video_Large_Language_Models.md)
-
-- [VersaTune: Fine-Tuning Multi-Ability LLMs Efficiently](2024年11月17日/VersaTune_Fine-Tuning_Multi-Ability_LLMs_Efficiently.md)
-
-    - [翻译: VersaTune：高效地微调多能力大型语言模型](2024年11月17日/VersaTune_Fine-Tuning_Multi-Ability_LLMs_Efficiently.md)
 
 - [VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](2024年11月17日/VL-Uncertainty_Detecting_Hallucination_in_Large_Vision-Language_Model_via_Uncertainty_Estimation.md)
 
@@ -1524,10 +1504,6 @@
 
     - [翻译: 用于小样本分类的高维多模态生物医学数据的统一贝叶斯表示](2024年11月11日/Unified_Bayesian_representation_for_high-dimensional_multi-modal_biomedical_data_for_small-sample_classification.md)
 
-- [UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts](2024年11月11日/UTMath_Math_Evaluation_with_Unit_Test_via_Reasoning-to-Coding_Thoughts.md)
-
-    - [翻译: UTMath：通过推理到编码思想的单元测试进行数学评估](2024年11月11日/UTMath_Math_Evaluation_with_Unit_Test_via_Reasoning-to-Coding_Thoughts.md)
-
 2024年11月10日
 
 - [Balancing Speed and Stability: The Trade-offs of FP8 vs. BF16 Training in LLMs](2024年11月10日/Balancing_Speed_and_Stability_The_Trade-offs_of_FP8_vs._BF16_Training_in_LLMs.md)
@@ -1657,10 +1633,6 @@
 - [FisherMask: Enhancing Neural Network Labeling Efficiency in Image Classification Using Fisher Information](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
 
     - [翻译: FisherMask：在图像分类中使用 Fisher 信息提高神经网络标注效率](2024年11月08日/FisherMask_Enhancing_Neural_Network_Labeling_Efficiency_in_Image_Classification_Using_Fisher_Information.md)
-
-- [Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
-
-    - [翻译: 利用高级歌曲描述符实现基于自然语言的音乐推荐](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
 
 - [Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving](2024年11月08日/Qwen2.5-32B_Leveraging_Self-Consistent_Tool-Integrated_Reasoning_for_Bengali_Mathematical_Olympiad_Problem_Solving.md)
 
@@ -2093,10 +2065,6 @@
 - [Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](2024年11月02日/Cross-D_Conv_Cross-Dimensional_Transferable_Knowledge_Base_via_Fourier_Shifting_Operation.md)
 
     - [翻译: Cross-D Conv: 借助傅里叶变换操作实现的跨维度可转移知识库](2024年11月02日/Cross-D_Conv_Cross-Dimensional_Transferable_Knowledge_Base_via_Fourier_Shifting_Operation.md)
-
-- [Deep Multi-contrast Cardiac MRI Reconstruction via vSHARP with Auxiliary Refinement Network](2024年11月02日/Deep_Multi-contrast_Cardiac_MRI_Reconstruction_via_vSHARP_with_Auxiliary_Refinement_Network.md)
-
-    - [翻译: 借助带有辅助细化网络的 vSHARP 实现深度多对比度心脏 MRI 重建](2024年11月02日/Deep_Multi-contrast_Cardiac_MRI_Reconstruction_via_vSHARP_with_Auxiliary_Refinement_Network.md)
 
 - [Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models](2024年11月02日/Dictionary_Insertion_Prompting_for_Multilingual_Reasoning_on_Multilingual_Large_Language_Models.md)
 

@@ -182,10 +182,6 @@
 
     - [翻译: 仓库层面的组合代码翻译与验证](2024年10月31日/Repository-Level_Compositional_Code_Translation_and_Validation.md)
 
-- [Responsibility-aware Strategic Reasoning in Probabilistic Multi-Agent Systems](2024年10月31日/Responsibility-aware_Strategic_Reasoning_in_Probabilistic_Multi-Agent_Systems.md)
-
-    - [翻译: 概率多智能体系统中的责任感知型战略推理](2024年10月31日/Responsibility-aware_Strategic_Reasoning_in_Probabilistic_Multi-Agent_Systems.md)
-
 - [Responsible Retrieval Augmented Generation for Climate Decision Making from Documents](2024年10月31日/Responsible_Retrieval_Augmented_Generation_for_Climate_Decision_Making_from_Documents.md)
 
     - [翻译: 用于气候决策的文档检索增强生成责任制](2024年10月31日/Responsible_Retrieval_Augmented_Generation_for_Climate_Decision_Making_from_Documents.md)
@@ -394,10 +390,6 @@
 
     - [翻译: ADAM：开放世界环境中的具身式因果智能体](2024年10月29日/ADAM_An_Embodied_Causal_Agent_in_Open-World_Environments.md)
 
-- [Advancing Agentic Systems: Dynamic Task Decomposition, Tool Integration and Evaluation using Novel Metrics and Dataset](2024年10月29日/Advancing_Agentic_Systems_Dynamic_Task_Decomposition,_Tool_Integration_and_Evaluation_using_Novel_Metrics_and_Dataset.md)
-
-    - [翻译: 推动智能体系统发展：基于新指标和数据集的动态任务分解、工具集成与评估](2024年10月29日/Advancing_Agentic_Systems_Dynamic_Task_Decomposition,_Tool_Integration_and_Evaluation_using_Novel_Metrics_and_Dataset.md)
-
 - [AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts](2024年10月29日/AmpleGCG-Plus_A_Strong_Generative_Model_of_Adversarial_Suffixes_to_Jailbreak_LLMs_with_Higher_Success_Rates_in_Fewer_Attempts.md)
 
     - [翻译: AmpleGCG-Plus：一种强大的对抗性后缀生成模型，能以更少的尝试次数和更高的成功率来破解大型语言模型（LLMs）。](2024年10月29日/AmpleGCG-Plus_A_Strong_Generative_Model_of_Adversarial_Suffixes_to_Jailbreak_LLMs_with_Higher_Success_Rates_in_Fewer_Attempts.md)
@@ -429,10 +421,6 @@
 - [CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning](2024年10月29日/CaStL_Constraints_as_Specifications_through_LLM_Translation_for_Long-Horizon_Task_and_Motion_Planning.md)
 
     - [翻译: CaStL：借助 LLM 翻译，将约束作为规范应用于长时程任务与运动规划](2024年10月29日/CaStL_Constraints_as_Specifications_through_LLM_Translation_for_Long-Horizon_Task_and_Motion_Planning.md)
-
-- [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
-
-    - [翻译: ContextIQ：一个基于多模态专家的情境广告视频检索系统](2024年10月29日/ContextIQ_A_Multimodal_Expert-Based_Video_Retrieval_System_for_Contextual_Advertising.md)
 
 - [Contextual Representation Anchor Network to Alleviate Selection Bias in Few-Shot Drug Discovery](2024年10月29日/Contextual_Representation_Anchor_Network_to_Alleviate_Selection_Bias_in_Few-Shot_Drug_Discovery.md)
 
