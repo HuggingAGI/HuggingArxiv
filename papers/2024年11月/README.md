@@ -1,5 +1,29 @@
 # 2024年11月
 
+2024年11月25日
+
+- [Information Extraction from Heterogeneous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation](2024年11月25日/Information_Extraction_from_Heterogeneous_Documents_without_Ground_Truth_Labels_using_Synthetic_Label_Generation_and_Knowledge_Distillation.md)
+
+    - [翻译: 利用合成标签生成与知识蒸馏，从无真实标签的异构文档中提取信息](2024年11月25日/Information_Extraction_from_Heterogeneous_Documents_without_Ground_Truth_Labels_using_Synthetic_Label_Generation_and_Knowledge_Distillation.md)
+
+- [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](2024年11月25日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
+
+    - [翻译: MindForge：以心理理论赋能具身智能体，实现终身协作学习](2024年11月25日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
+
+- [OASIS: Open Agent Social Interaction Simulations with One Million Agents](2024年11月25日/OASIS_Open_Agent_Social_Interaction_Simulations_with_One_Million_Agents.md)
+
+    - [翻译: OASIS：针对一百万个代理的开放型代理社会交互模拟](2024年11月25日/OASIS_Open_Agent_Social_Interaction_Simulations_with_One_Million_Agents.md)
+
+2024年11月24日
+
+- [CodeXEmbed: A Generalist Embedding Model Family for Multiligual and Multi-task Code Retrieval](2024年11月24日/CodeXEmbed_A_Generalist_Embedding_Model_Family_for_Multiligual_and_Multi-task_Code_Retrieval.md)
+
+    - [翻译: CodeXEmbed：适用于多语言和多任务代码检索的通用嵌入模型族](2024年11月24日/CodeXEmbed_A_Generalist_Embedding_Model_Family_for_Multiligual_and_Multi-task_Code_Retrieval.md)
+
+- [KBAlign: Efficient Self Adaptation on Specific Knowledge Bases](2024年11月24日/KBAlign_Efficient_Self_Adaptation_on_Specific_Knowledge_Bases.md)
+
+    - [翻译: KBAda：在特定知识库上实现高效的自我适应](2024年11月24日/KBAlign_Efficient_Self_Adaptation_on_Specific_Knowledge_Bases.md)
+
 2024年11月22日
 
 - [About Time: Advances, Challenges, and Outlooks of Action Understanding](2024年11月22日/About_Time_Advances,_Challenges,_and_Outlooks_of_Action_Understanding.md)
@@ -66,17 +90,9 @@
 
     - [翻译: Harlequin：用于指称表达理解的由颜色驱动的合成数据生成](2024年11月22日/Harlequin_Color-driven_Generation_of_Synthetic_Data_for_Referring_Expression_Comprehension.md)
 
-- [Information Extraction from Heterogenous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation](2024年11月22日/Information_Extraction_from_Heterogenous_Documents_without_Ground_Truth_Labels_using_Synthetic_Label_Generation_and_Knowledge_Distillation.md)
-
-    - [翻译: 利用合成标签生成与知识蒸馏，从无真实标签的异构文档中提取信息](2024年11月22日/Information_Extraction_from_Heterogenous_Documents_without_Ground_Truth_Labels_using_Synthetic_Label_Generation_and_Knowledge_Distillation.md)
-
 - [IRLab@iKAT24: Learned Sparse Retrieval with Multi-aspect LLM Query Generation for Conversational Search](2024年11月22日/IRLab@iKAT24_Learned_Sparse_Retrieval_with_Multi-aspect_LLM_Query_Generation_for_Conversational_Search.md)
 
     - [翻译: IRLab@iKAT24：利用多方面 LLM 查询生成的学习型稀疏检索服务于对话式搜索](2024年11月22日/IRLab@iKAT24_Learned_Sparse_Retrieval_with_Multi-aspect_LLM_Query_Generation_for_Conversational_Search.md)
-
-- [KBAda: Efficient Self Adaptation on Specific Knowledge Bases](2024年11月22日/KBAda_Efficient_Self_Adaptation_on_Specific_Knowledge_Bases.md)
-
-    - [翻译: KBAda：在特定知识库上实现高效的自我适应](2024年11月22日/KBAda_Efficient_Self_Adaptation_on_Specific_Knowledge_Bases.md)
 
 - [Large Multi-modal Models Can Interpret Features in Large Multi-modal Models](2024年11月22日/Large_Multi-modal_Models_Can_Interpret_Features_in_Large_Multi-modal_Models.md)
 
@@ -129,10 +145,6 @@
 - [Task-Aware Robotic Grasping by evaluating Quality Diversity Solutions through Foundation Models](2024年11月22日/Task-Aware_Robotic_Grasping_by_evaluating_Quality_Diversity_Solutions_through_Foundation_Models.md)
 
     - [翻译: 借助基础模型对质量多样性解决方案进行评估，实现任务感知的机器人抓取](2024年11月22日/Task-Aware_Robotic_Grasping_by_evaluating_Quality_Diversity_Solutions_through_Foundation_Models.md)
-
-- [Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot](2024年11月22日/Time_is_on_my_sight_scene_graph_filtering_for_dynamic_environment_perception_in_an_LLM-driven_robot.md)
-
-    - [翻译: 时间尽在掌握：LLM 驱动的机器人动态环境感知中的场景图过滤](2024年11月22日/Time_is_on_my_sight_scene_graph_filtering_for_dynamic_environment_perception_in_an_LLM-driven_robot.md)
 
 - [Universal and Context-Independent Triggers for Precise Control of LLM Outputs](2024年11月22日/Universal_and_Context-Independent_Triggers_for_Precise_Control_of_LLM_Outputs.md)
 
@@ -272,10 +284,6 @@
 
     - [翻译: LIBER：基于大型语言模型的终身用户行为建模模式](2024年11月21日/LIBER_Lifelong_User_Behavior_Modeling_Based_on_Large_Language_Models.md)
 
-- [Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings](2024年11月21日/Lightweight_Safety_Guardrails_Using_Fine-tuned_BERT_Embeddings.md)
-
-    - [翻译: 基于微调 BERT 嵌入的轻量级安全防护栏](2024年11月21日/Lightweight_Safety_Guardrails_Using_Fine-tuned_BERT_Embeddings.md)
-
 - [LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval](2024年11月21日/LLaVA-MR_Large_Language-and-Vision_Assistant_for_Video_Moment_Retrieval.md)
 
     - [翻译: LLaVA-MR：用于视频时刻检索的大型语言与视觉助手](2024年11月21日/LLaVA-MR_Large_Language-and-Vision_Assistant_for_Video_Moment_Retrieval.md)
@@ -316,10 +324,6 @@
 
     - [翻译: 下一代网络钓鱼：LLM 代理怎样给网络攻击者提供助力](2024年11月21日/Next-Generation_Phishing_How_LLM_Agents_Empower_Cyber_Attackers.md)
 
-- [OASIS: Open Agents Social Interaction Simulations on One Million Agents](2024年11月21日/OASIS_Open_Agents_Social_Interaction_Simulations_on_One_Million_Agents.md)
-
-    - [翻译: OASIS：针对一百万个代理的开放型代理社会交互模拟](2024年11月21日/OASIS_Open_Agents_Social_Interaction_Simulations_on_One_Million_Agents.md)
-
 - [OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs](2024年11月21日/OpenScholar_Synthesizing_Scientific_Literature_with_Retrieval-augmented_LMs.md)
 
     - [翻译: OpenScholar：借助检索增强型语言模型来合成科学文献](2024年11月21日/OpenScholar_Synthesizing_Scientific_Literature_with_Retrieval-augmented_LMs.md)
@@ -331,10 +335,6 @@
 - [PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation](2024年11月21日/PIORS_Personalized_Intelligent_Outpatient_Reception_based_on_Large_Language_Model_with_Multi-Agents_Medical_Scenario_Simulation.md)
 
     - [翻译: PIORS：基于具备多智能体医疗场景模拟的大型语言模型的个性化智能门诊接待服务](2024年11月21日/PIORS_Personalized_Intelligent_Outpatient_Reception_based_on_Large_Language_Model_with_Multi-Agents_Medical_Scenario_Simulation.md)
-
-- [RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks](2024年11月21日/RAG-Thief_Scalable_Extraction_of_Private_Data_from_Retrieval-Augmented_Generation_Applications_with_Agent-based_Attacks.md)
-
-    - [翻译: RAG-Thief：利用基于代理的攻击，从检索增强生成应用中大规模提取私有数据](2024年11月21日/RAG-Thief_Scalable_Extraction_of_Private_Data_from_Retrieval-Augmented_Generation_Applications_with_Agent-based_Attacks.md)
 
 - [Robust Detection of Watermarks for Large Language Models Under Human Edits](2024年11月21日/Robust_Detection_of_Watermarks_for_Large_Language_Models_Under_Human_Edits.md)
 
@@ -632,10 +632,6 @@
 
     - [翻译: ChatGPT 能克服金融领域的行为偏差吗？分类并重新思考：黄金投资中的多步骤零样本推理](2024年11月19日/Can_ChatGPT_Overcome_Behavioral_Biases_in_the_Financial_Sector_Classify-and-Rethink_Multi-Step_Zero-Shot_Reasoning_in_the_Gold_Investment.md)
 
-- [CodeXEmbed: A Generalist Embedding Model Family for Multiligual and Multi-task Code Retrieval](2024年11月19日/CodeXEmbed_A_Generalist_Embedding_Model_Family_for_Multiligual_and_Multi-task_Code_Retrieval.md)
-
-    - [翻译: CodeXEmbed：适用于多语言和多任务代码检索的通用嵌入模型族](2024年11月19日/CodeXEmbed_A_Generalist_Embedding_Model_Family_for_Multiligual_and_Multi-task_Code_Retrieval.md)
-
 - [Consistency Regularization for Complementary Clothing Recommendations](2024年11月19日/Consistency_Regularization_for_Complementary_Clothing_Recommendations.md)
 
     - [翻译: 关于互补服装推荐的一致性正则化](2024年11月19日/Consistency_Regularization_for_Complementary_Clothing_Recommendations.md)
@@ -743,10 +739,6 @@
 - [MERLOT: A Distilled LLM-based Mixture-of-Experts Framework for Scalable Encrypted Traffic Classification](2024年11月19日/MERLOT_A_Distilled_LLM-based_Mixture-of-Experts_Framework_for_Scalable_Encrypted_Traffic_Classification.md)
 
     - [翻译: MERLOT：一种基于蒸馏大型语言模型的专家混合式框架，用于实现可扩展的加密流量分类](2024年11月19日/MERLOT_A_Distilled_LLM-based_Mixture-of-Experts_Framework_for_Scalable_Encrypted_Traffic_Classification.md)
-
-- [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](2024年11月19日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
-
-    - [翻译: MindForge：以心理理论赋能具身智能体，实现终身协作学习](2024年11月19日/MindForge_Empowering_Embodied_Agents_with_Theory_of_Mind_for_Lifelong_Collaborative_Learning.md)
 
 - [MLAN: Language-Based Instruction Tuning Improves Zero-Shot Generalization of Multimodal Large Language Models](2024年11月19日/MLAN_Language-Based_Instruction_Tuning_Improves_Zero-Shot_Generalization_of_Multimodal_Large_Language_Models.md)
 
@@ -869,10 +861,6 @@
 - [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](2024年11月18日/LP_Data_Pipeline_Lightweight,_Purpose-driven_Data_Pipeline_for_Large_Language_Models.md)
 
     - [翻译: LP 数据管道：专为大型语言模型打造的轻量级、目标驱动型数据管道](2024年11月18日/LP_Data_Pipeline_Lightweight,_Purpose-driven_Data_Pipeline_for_Large_Language_Models.md)
-
-- [MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models](2024年11月18日/MAIRA-Seg_Enhancing_Radiology_Report_Generation_with_Segmentation-Aware_Multimodal_Large_Language_Models.md)
-
-    - [翻译: MAIRA-Seg：借助具有分割感知能力的多模态大型语言模型来强化放射学报告的生成](2024年11月18日/MAIRA-Seg_Enhancing_Radiology_Report_Generation_with_Segmentation-Aware_Multimodal_Large_Language_Models.md)
 
 - [Mechanism and Emergence of Stacked Attention Heads in Multi-Layer Transformers](2024年11月18日/Mechanism_and_Emergence_of_Stacked_Attention_Heads_in_Multi-Layer_Transformers.md)
 
@@ -1316,10 +1304,6 @@
 
     - [翻译: AstroMLab 3：凭借专门的 8B 参数大型语言模型，在天文学领域达成 GPT-4o 级别的性能](2024年11月13日/AstroMLab_3_Achieving_GPT-4o_Level_Performance_in_Astronomy_with_a_Specialized_8B-Parameter_Large_Language_Model.md)
 
-- [Building Trustworthy AI: Transparent AI Systems via Large Language Models, Ontologies, and Logical Reasoning (TranspNet)](2024年11月13日/Building_Trustworthy_AI_Transparent_AI_Systems_via_Large_Language_Models,_Ontologies,_and_Logical_Reasoning_(TranspNet).md)
-
-    - [翻译: 构建值得信赖的人工智能：通过大型语言模型、本体论和逻辑推理实现透明的人工智能系统（TranspNet）](2024年11月13日/Building_Trustworthy_AI_Transparent_AI_Systems_via_Large_Language_Models,_Ontologies,_and_Logical_Reasoning_(TranspNet).md)
-
 - [CLaSP: Learning Concepts for Time-Series Signals from Natural Language Supervision](2024年11月13日/CLaSP_Learning_Concepts_for_Time-Series_Signals_from_Natural_Language_Supervision.md)
 
     - [翻译: CLaSP：从自然语言监督中学习时间序列信号的概念](2024年11月13日/CLaSP_Learning_Concepts_for_Time-Series_Signals_from_Natural_Language_Supervision.md)
@@ -1590,10 +1574,6 @@
 
     - [翻译: 自我训练遇到一致性：通过一致性驱动的原理评估来改进大型语言模型（LLM）的推理能力](2024年11月10日/Self-Training_Meets_Consistency_Improving_LLMs'_Reasoning_With_Consistency-Driven_Rationale_Evaluation.md)
 
-- [WDMoE: Wireless Distributed Mixture of Experts for Large Language Models](2024年11月10日/WDMoE_Wireless_Distributed_Mixture_of_Experts_for_Large_Language_Models.md)
-
-    - [翻译: WDMoE：用于大型语言模型的无线分布式专家混合体](2024年11月10日/WDMoE_Wireless_Distributed_Mixture_of_Experts_for_Large_Language_Models.md)
-
 2024年11月09日
 
 - [Aquila-plus: Prompt-Driven Visual-Language Models for Pixel-Level Remote Sensing Image Understanding](2024年11月09日/Aquila-plus_Prompt-Driven_Visual-Language_Models_for_Pixel-Level_Remote_Sensing_Image_Understanding.md)
@@ -1681,10 +1661,6 @@
 - [Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
 
     - [翻译: 利用高级歌曲描述符实现基于自然语言的音乐推荐](2024年11月08日/Harnessing_High-Level_Song_Descriptors_towards_Natural_Language-Based_Music_Recommendation.md)
-
-- [Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
-
-    - [翻译: 将对象检测模态集成到视觉语言模型中，以增强自动驾驶代理。](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
 
 - [Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving](2024年11月08日/Qwen2.5-32B_Leveraging_Self-Consistent_Tool-Integrated_Reasoning_for_Bengali_Mathematical_Olympiad_Problem_Solving.md)
 

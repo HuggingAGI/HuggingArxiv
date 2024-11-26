@@ -162,10 +162,6 @@
 
     - [翻译: PARTNR：具身多智能体任务中规划与推理的基准](2024年10月31日/PARTNR_A_Benchmark_for_Planning_and_Reasoning_in_Embodied_Multi-agent_Tasks.md)
 
-- [Pseudo-Conversation Injection for LLM Goal Hijacking](2024年10月31日/Pseudo-Conversation_Injection_for_LLM_Goal_Hijacking.md)
-
-    - [翻译: 针对 LLM 目标劫持的伪对话注入](2024年10月31日/Pseudo-Conversation_Injection_for_LLM_Goal_Hijacking.md)
-
 - [RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models](2024年10月31日/RadFlag_A_Black-Box_Hallucination_Detection_Method_for_Medical_Vision_Language_Models.md)
 
     - [翻译: RadFlag：一种针对医学视觉语言模型的黑箱幻觉检测手段](2024年10月31日/RadFlag_A_Black-Box_Hallucination_Detection_Method_for_Medical_Vision_Language_Models.md)
@@ -359,10 +355,6 @@
 - [Retrieval-Augmented Generation with Estimation of Source Reliability](2024年10月30日/Retrieval-Augmented_Generation_with_Estimation_of_Source_Reliability.md)
 
     - [翻译: 带有源可靠性估计的检索增强生成](2024年10月30日/Retrieval-Augmented_Generation_with_Estimation_of_Source_Reliability.md)
-
-- [Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach](2024年10月30日/Semantic_Enrichment_of_the_Quantum_Cascade_Laser_Properties_in_Text-_A_Knowledge_Graph_Generation_Approach.md)
-
-    - [翻译: 量子级联激光器文本特性的语义丰富 - 一种知识图谱生成途径](2024年10月30日/Semantic_Enrichment_of_the_Quantum_Cascade_Laser_Properties_in_Text-_A_Knowledge_Graph_Generation_Approach.md)
 
 - [Simulating User Agents for Embodied Conversational-AI](2024年10月30日/Simulating_User_Agents_for_Embodied_Conversational-AI.md)
 
@@ -700,10 +692,6 @@
 
     - [翻译: 大型语言模型能否充当符号推理器？](2024年10月28日/Can_Large_Language_Models_Act_as_Symbolic_Reasoners.md)
 
-- [Can Large Language Models Replace Data Scientists in Clinical Research?](2024年10月28日/Can_Large_Language_Models_Replace_Data_Scientists_in_Clinical_Research.md)
-
-    - [翻译: 大型语言模型能在临床研究领域替代数据科学家吗？](2024年10月28日/Can_Large_Language_Models_Replace_Data_Scientists_in_Clinical_Research.md)
-
 - [Can Machines Think Like Humans? A Behavioral Evaluation of LLM-Agents in Dictator Games](2024年10月28日/Can_Machines_Think_Like_Humans_A_Behavioral_Evaluation_of_LLM-Agents_in_Dictator_Games.md)
 
     - [翻译: 机器能否像人类一样思考？对大型语言模型代理在独裁者博弈中的行为评估](2024年10月28日/Can_Machines_Think_Like_Humans_A_Behavioral_Evaluation_of_LLM-Agents_in_Dictator_Games.md)
@@ -763,10 +751,6 @@
 - [Flaming-hot Initiation with Regular Execution Sampling for Large Language Models](2024年10月28日/Flaming-hot_Initiation_with_Regular_Execution_Sampling_for_Large_Language_Models.md)
 
     - [翻译: 大型语言模型的火热启动及常规执行采样](2024年10月28日/Flaming-hot_Initiation_with_Regular_Execution_Sampling_for_Large_Language_Models.md)
-
-- [From Cool Demos to Production-Ready FMware: Core Challenges and a Technology Roadmap](2024年10月28日/From_Cool_Demos_to_Production-Ready_FMware_Core_Challenges_and_a_Technology_Roadmap.md)
-
-    - [翻译: 从酷炫的演示到可用于生产的 FMware：核心挑战与技术路线图](2024年10月28日/From_Cool_Demos_to_Production-Ready_FMware_Core_Challenges_and_a_Technology_Roadmap.md)
 
 - [Geo-FuB: A Method for Constructing an Operator-Function Knowledge Base for Geospatial Code Generation Tasks Using Large Language Models](2024年10月28日/Geo-FuB_A_Method_for_Constructing_an_Operator-Function_Knowledge_Base_for_Geospatial_Code_Generation_Tasks_Using_Large_Language_Models.md)
 
