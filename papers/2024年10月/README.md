@@ -280,14 +280,6 @@
 
     - [翻译: 一个针对篮球广播镜头的简单又有效的时间定位流程](2024年10月30日/A_Simple_and_Effective_Temporal_Grounding_Pipeline_for_Basketball_Broadcast_Footage.md)
 
-- [Carrot and Stick: Eliciting Comparison Data and Beyond](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
-
-    - [翻译: “胡萝卜加大棒”：获取比较数据及更多](2024年10月30日/Carrot_and_Stick_Eliciting_Comparison_Data_and_Beyond.md)
-
-- [Commit: Online Groups with Participation Commitments](2024年10月30日/Commit_Online_Groups_with_Participation_Commitments.md)
-
-    - [翻译: 提交：带有参与承诺的在线群组](2024年10月30日/Commit_Online_Groups_with_Participation_Commitments.md)
-
 - [CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation](2024年10月30日/CORAL_Benchmarking_Multi-turn_Conversational_Retrieval-Augmentation_Generation.md)
 
     - [翻译: CORAL: 为多轮对话的检索增强生成设立基准](2024年10月30日/CORAL_Benchmarking_Multi-turn_Conversational_Retrieval-Augmentation_Generation.md)
@@ -343,10 +335,6 @@
 - [PIP-MM: Pre-Integrating Prompt Information into Visual Encoding via Existing MLLM Structures](2024年10月30日/PIP-MM_Pre-Integrating_Prompt_Information_into_Visual_Encoding_via_Existing_MLLM_Structures.md)
 
     - [翻译: PIP-MM：借助现有的 MLLM 结构，将提示信息预先融入视觉编码](2024年10月30日/PIP-MM_Pre-Integrating_Prompt_Information_into_Visual_Encoding_via_Existing_MLLM_Structures.md)
-
-- [Residual Multi-Task Learner for Applied Ranking](2024年10月30日/Residual_Multi-Task_Learner_for_Applied_Ranking.md)
-
-    - [翻译: 应用排名中的剩余多任务学习器](2024年10月30日/Residual_Multi-Task_Learner_for_Applied_Ranking.md)
 
 - [Retrieval-Augmented Generation with Estimation of Source Reliability](2024年10月30日/Retrieval-Augmented_Generation_with_Estimation_of_Source_Reliability.md)
 
@@ -640,10 +628,6 @@
 
     - [翻译: 在大型语言模型时代，有关文本可信度信号自动可信度评估的调研](2024年10月28日/A_Survey_on_Automatic_Credibility_Assessment_of_Textual_Credibility_Signals_in_the_Era_of_Large_Language_Models.md)
 
-- [Asynchronous Tool Usage for Real-Time Agents](2024年10月28日/Asynchronous_Tool_Usage_for_Real-Time_Agents.md)
-
-    - [翻译: 实时代理的异步工具使用](2024年10月28日/Asynchronous_Tool_Usage_for_Real-Time_Agents.md)
-
 - [A Systematic Review of Machine Learning in Sports Betting: Techniques, Challenges, and Future Directions](2024年10月28日/A_Systematic_Review_of_Machine_Learning_in_Sports_Betting_Techniques,_Challenges,_and_Future_Directions.md)
 
     - [翻译: 关于体育博彩中机器学习的系统性综述：技术、挑战与未来走向](2024年10月28日/A_Systematic_Review_of_Machine_Learning_in_Sports_Betting_Techniques,_Challenges,_and_Future_Directions.md)
@@ -836,10 +820,6 @@
 
     - [翻译: RoBIn：一个基于 Transformer 的、用于借助机器阅读理解进行偏差风险推断的模型](2024年10月28日/RoBIn_A_Transformer-Based_Model_For_Risk_Of_Bias_Inference_With_Machine_Reading_Comprehension.md)
 
-- [SandboxAQ's submission to MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval](2024年10月28日/SandboxAQ's_submission_to_MRL_2024_Shared_Task_on_Multi-lingual_Multi-task_Information_Retrieval.md)
-
-    - [翻译: SandboxAQ 向 MRL 2024 多语言多任务信息检索共享任务的提交内容](2024年10月28日/SandboxAQ's_submission_to_MRL_2024_Shared_Task_on_Multi-lingual_Multi-task_Information_Retrieval.md)
-
 - [Semantic Component Analysis: Discovering Patterns in Short Texts Beyond Topics](2024年10月28日/Semantic_Component_Analysis_Discovering_Patterns_in_Short_Texts_Beyond_Topics.md)
 
     - [翻译: 语义成分分析：探寻短文本中超越主题的规律](2024年10月28日/Semantic_Component_Analysis_Discovering_Patterns_in_Short_Texts_Beyond_Topics.md)
@@ -929,10 +909,6 @@
 - [Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation](2024年10月27日/Get_Large_Language_Models_Ready_to_Speak_A_Late-fusion_Approach_for_Speech_Generation.md)
 
     - [翻译: 让大型语言模型做好说话的准备：语音生成的一种后期融合方式](2024年10月27日/Get_Large_Language_Models_Ready_to_Speak_A_Late-fusion_Approach_for_Speech_Generation.md)
-
-- [Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments](2024年10月27日/Guide-LLM_An_Embodied_LLM_Agent_and_Text-Based_Topological_Map_for_Robotic_Guidance_of_People_with_Visual_Impairments.md)
-
-    - [翻译: Guide-LLM：一种用于视障人士机器人引导的具身 LLM 智能体和基于文本的拓扑地图](2024年10月27日/Guide-LLM_An_Embodied_LLM_Agent_and_Text-Based_Topological_Map_for_Robotic_Guidance_of_People_with_Visual_Impairments.md)
 
 - [Implementation and Application of an Intelligibility Protocol for Interaction with an LLM](2024年10月27日/Implementation_and_Application_of_an_Intelligibility_Protocol_for_Interaction_with_an_LLM.md)
 
@@ -1031,10 +1007,6 @@
 - [RARe: Retrieval Augmented Retrieval with In-Context Examples](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
 
     - [翻译: RARe：具有上下文示例的检索增强式检索](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
-
-- [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](2024年10月26日/UniHGKR_Unified_Instruction-aware_Heterogeneous_Knowledge_Retrievers.md)
-
-    - [翻译: UniHGKR：统一的指令感知型异构知识检索器](2024年10月26日/UniHGKR_Unified_Instruction-aware_Heterogeneous_Knowledge_Retrievers.md)
 
 2024年10月15日
 
