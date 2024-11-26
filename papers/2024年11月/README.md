@@ -486,10 +486,6 @@
 
     - [翻译: FastRAG：针对半结构化数据的检索增强式生成](2024年11月20日/FastRAG_Retrieval_Augmented_Generation_for_Semi-structured_Data.md)
 
-- [Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training](2024年11月20日/Hardware_Scaling_Trends_and_Diminishing_Returns_in_Large-Scale_Distributed_Training.md)
-
-    - [翻译: 大规模分布式训练中的硬件缩放趋势与收益递减](2024年11月20日/Hardware_Scaling_Trends_and_Diminishing_Returns_in_Large-Scale_Distributed_Training.md)
-
 - [Hymba: A Hybrid-head Architecture for Small Language Models](2024年11月20日/Hymba_A_Hybrid-head_Architecture_for_Small_Language_Models.md)
 
     - [翻译: Hymba：小型语言模型的混合头式架构](2024年11月20日/Hymba_A_Hybrid-head_Architecture_for_Small_Language_Models.md)
@@ -905,10 +901,6 @@
 - [Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts](2024年11月18日/Quantifying_Preferences_of_Vision-Language_Models_via_Value_Decomposition_in_Social_Media_Contexts.md)
 
     - [翻译: 在社交媒体情境下，借由价值分解来量化视觉语言模型的偏好](2024年11月18日/Quantifying_Preferences_of_Vision-Language_Models_via_Value_Decomposition_in_Social_Media_Contexts.md)
-
-- [SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory](2024年11月18日/SAMURAI_Adapting_Segment_Anything_Model_for_Zero-Shot_Visual_Tracking_with_Motion-Aware_Memory.md)
-
-    - [翻译: SAMURAI：为实现具有运动感知记忆的零样本视觉跟踪而对段任何模型进行调整](2024年11月18日/SAMURAI_Adapting_Segment_Anything_Model_for_Zero-Shot_Visual_Tracking_with_Motion-Aware_Memory.md)
 
 - [SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models](2024年11月18日/SayComply_Grounding_Field_Robotic_Tasks_in_Operational_Compliance_through_Retrieval-Based_Language_Models.md)
 
@@ -1396,10 +1388,6 @@
 
     - [翻译: 将舌头与思想分离：激活修补揭示了 Transformer 中的语言无关概念表示](2024年11月13日/Separating_Tongue_from_Thought_Activation_Patching_Reveals_Language-Agnostic_Concept_Representations_in_Transformers.md)
 
-- [Sparse Upcycling: Inference Inefficient Finetuning](2024年11月13日/Sparse_Upcycling_Inference_Inefficient_Finetuning.md)
-
-    - [翻译: 稀疏升级利用：低效的推理微调](2024年11月13日/Sparse_Upcycling_Inference_Inefficient_Finetuning.md)
-
 - [Towards Optimizing a Retrieval Augmented Generation using Large Language Model on Academic Data](2024年11月13日/Towards_Optimizing_a_Retrieval_Augmented_Generation_using_Large_Language_Model_on_Academic_Data.md)
 
     - [翻译: 朝着在学术数据上使用大型语言模型优化检索增强生成的方向发展](2024年11月13日/Towards_Optimizing_a_Retrieval_Augmented_Generation_using_Large_Language_Model_on_Academic_Data.md)
@@ -1697,10 +1685,6 @@
 - [Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
 
     - [翻译: 将对象检测模态集成到视觉语言模型中，以增强自动驾驶代理。](2024年11月08日/Integrating_Object_Detection_Modality_into_Visual_Language_Model_for_Enhanced_Autonomous_Driving_Agent.md)
-
-- [LLM-PySC2: Starcraft II learning environment for Large Language Models](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
-
-    - [翻译: LLM-PySC2：用于大型语言模型的星际争霸 II 学习环境](2024年11月08日/LLM-PySC2_Starcraft_II_learning_environment_for_Large_Language_Models.md)
 
 - [Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving](2024年11月08日/Qwen2.5-32B_Leveraging_Self-Consistent_Tool-Integrated_Reasoning_for_Bengali_Mathematical_Olympiad_Problem_Solving.md)
 

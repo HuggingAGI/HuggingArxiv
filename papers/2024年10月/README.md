@@ -426,10 +426,6 @@
 
     - [翻译: 数学教育中的自动化反馈：有关开放式回答的大型语言模型之比较分析](2024年10月29日/Automated_Feedback_in_Math_Education_A_Comparative_Analysis_of_LLMs_for_Open-Ended_Responses.md)
 
-- [BENCHAGENTS: Automated Benchmark Creation with Agent Interaction](2024年10月29日/BENCHAGENTS_Automated_Benchmark_Creation_with_Agent_Interaction.md)
-
-    - [翻译: BENCHAGENTS：借助代理交互进行自动基准创建](2024年10月29日/BENCHAGENTS_Automated_Benchmark_Creation_with_Agent_Interaction.md)
-
 - [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](2024年10月29日/Beyond_Text_Optimizing_RAG_with_Multimodal_Inputs_for_Industrial_Applications.md)
 
     - [翻译: 超越文本：以多模态输入优化 RAG 用于工业应用](2024年10月29日/Beyond_Text_Optimizing_RAG_with_Multimodal_Inputs_for_Industrial_Applications.md)
