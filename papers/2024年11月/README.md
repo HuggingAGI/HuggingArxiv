@@ -6,6 +6,10 @@
 
     - [翻译: FREE-Merging：用于结合轻量级专家的模型的傅里叶变换](2024年11月25日/FREE-Merging_Fourier_Transform_for_Model_Merging_with_Lightweight_Experts.md)
 
+- [Geometry Distributions](2024年11月25日/Geometry_Distributions.md)
+
+    - [翻译: 几何分布](2024年11月25日/Geometry_Distributions.md)
+
 - [Probing the limitations of multimodal language models for chemistry and materials research](2024年11月25日/Probing_the_limitations_of_multimodal_language_models_for_chemistry_and_materials_research.md)
 
     - [翻译: 探索多模态语言模型于化学和材料研究中的局限性](2024年11月25日/Probing_the_limitations_of_multimodal_language_models_for_chemistry_and_materials_research.md)
@@ -1182,6 +1186,10 @@
 - [D-Flow: Multi-modality Flow Matching for D-peptide Design](2024年11月15日/D-Flow_Multi-modality_Flow_Matching_for_D-peptide_Design.md)
 
     - [翻译: D-Flow：用于 D 肽设计的多模态流匹配方案](2024年11月15日/D-Flow_Multi-modality_Flow_Matching_for_D-peptide_Design.md)
+
+- [Does Prompt Formatting Have Any Impact on LLM Performance?](2024年11月15日/Does_Prompt_Formatting_Have_Any_Impact_on_LLM_Performance.md)
+
+    - [翻译: 提示格式会对 LLM 性能产生影响吗？](2024年11月15日/Does_Prompt_Formatting_Have_Any_Impact_on_LLM_Performance.md)
 
 - [Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization](2024年11月15日/Enhancing_the_Reasoning_Ability_of_Multimodal_Large_Language_Models_via_Mixed_Preference_Optimization.md)
 

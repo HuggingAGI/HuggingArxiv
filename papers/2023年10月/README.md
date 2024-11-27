@@ -36,6 +36,12 @@
 
     - [翻译: 稀疏通用变压器](2023年10月11日/Sparse_Universal_Transformer.md)
 
+2023年10月06日
+
+- [Amortizing intractable inference in large language models](2023年10月06日/Amortizing_intractable_inference_in_large_language_models.md)
+
+    - [翻译: 大型语言模型中难以处理的推理的摊销](2023年10月06日/Amortizing_intractable_inference_in_large_language_models.md)
+
 2023年10月05日
 
 - [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](2023年10月05日/Fine-tuning_Aligned_Language_Models_Compromises_Safety,_Even_When_Users_Do_Not_Intend_To!.md)

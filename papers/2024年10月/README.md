@@ -992,6 +992,10 @@
 
     - [翻译: 自适应视频理解代理：借助动态帧采样和反馈驱动推理提升效率](2024年10月26日/Adaptive_Video_Understanding_Agent_Enhancing_efficiency_with_dynamic_frame_sampling_and_feedback-driven_reasoning.md)
 
+- [AI-Driven Cyber Threat Intelligence Automation](2024年10月26日/AI-Driven_Cyber_Threat_Intelligence_Automation.md)
+
+    - [翻译: 由 AI 驱动的网络威胁情报自动化](2024年10月26日/AI-Driven_Cyber_Threat_Intelligence_Automation.md)
+
 - [A Survey of Large Language Models for Arabic Language and its Dialects](2024年10月26日/A_Survey_of_Large_Language_Models_for_Arabic_Language_and_its_Dialects.md)
 
     - [翻译: 关于阿拉伯语及其方言的大型语言模型的一项调研](2024年10月26日/A_Survey_of_Large_Language_Models_for_Arabic_Language_and_its_Dialects.md)
@@ -1056,6 +1060,10 @@
 
     - [翻译: 图书馆学习并非如此：一次性“图书馆”的奇特情形](2024年10月26日/Library_Learning_Doesn't_The_Curious_Case_of_the_Single-Use_Library.md)
 
+- [Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks](2024年10月26日/Limitations_of_the_LLM-as-a-Judge_Approach_for_Evaluating_LLM_Outputs_in_Expert_Knowledge_Tasks.md)
+
+    - [翻译: 在专家知识任务中，将 LLM 作为评判者来评估 LLM 输出的方法存在局限性](2024年10月26日/Limitations_of_the_LLM-as-a-Judge_Approach_for_Evaluating_LLM_Outputs_in_Expert_Knowledge_Tasks.md)
+
 - [LLMs Can Evolve Continually on Modality for X-Modal Reasoning](2024年10月26日/LLMs_Can_Evolve_Continually_on_Modality_for_X-Modal_Reasoning.md)
 
     - [翻译: LLMs 能够在模态方面持续演进，以用于 X 模态推理](2024年10月26日/LLMs_Can_Evolve_Continually_on_Modality_for_X-Modal_Reasoning.md)
@@ -1067,6 +1075,10 @@
 - [Model Equality Testing: Which Model Is This API Serving?](2024年10月26日/Model_Equality_Testing_Which_Model_Is_This_API_Serving.md)
 
     - [翻译: 模型平等性测试：此 API 所服务的是哪个模型？](2024年10月26日/Model_Equality_Testing_Which_Model_Is_This_API_Serving.md)
+
+- [Optimizing Keyphrase Ranking for Relevance and Diversity Using Submodular Function Optimization (SFO)](2024年10月26日/Optimizing_Keyphrase_Ranking_for_Relevance_and_Diversity_Using_Submodular_Function_Optimization_(SFO).md)
+
+    - [翻译: 运用子模函数优化（SFO）来优化关键字排名，以达成相关性和多样性的目标](2024年10月26日/Optimizing_Keyphrase_Ranking_for_Relevance_and_Diversity_Using_Submodular_Function_Optimization_(SFO).md)
 
 - [Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play](2024年10月26日/Quantifying_Risk_Propensities_of_Large_Language_Models_Ethical_Focus_and_Bias_Detection_through_Role-Play.md)
 
@@ -1083,6 +1095,10 @@
 - [Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models](2024年10月26日/Rethinking_the_Uncertainty_A_Critical_Review_and_Analysis_in_the_Era_of_Large_Language_Models.md)
 
     - [翻译: 《重新思考不确定性：大型语言模型时代的批判性审视与分析》](2024年10月26日/Rethinking_the_Uncertainty_A_Critical_Review_and_Analysis_in_the_Era_of_Large_Language_Models.md)
+
+- [Semantic Feature Decomposition based Semantic Communication System of Images with Large-scale Visual Generation Models](2024年10月26日/Semantic_Feature_Decomposition_based_Semantic_Communication_System_of_Images_with_Large-scale_Visual_Generation_Models.md)
+
+    - [翻译: 基于语义特征分解的、配备大规模视觉生成模型的图像语义通信系统](2024年10月26日/Semantic_Feature_Decomposition_based_Semantic_Communication_System_of_Images_with_Large-scale_Visual_Generation_Models.md)
 
 - [Sequential Large Language Model-Based Hyper-Parameter Optimization](2024年10月26日/Sequential_Large_Language_Model-Based_Hyper-Parameter_Optimization.md)
 
