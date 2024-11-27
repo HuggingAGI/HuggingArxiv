@@ -14,6 +14,6 @@
 
 > Recent advances in language modeling have demonstrated significant improvements in zero-shot capabilities, including in-context learning, instruction following, and machine translation for extremely under-resourced languages (Tanzer et al., 2024). However, many languages with limited written resources rely primarily on formal descriptions of grammar and vocabulary.
   In this paper, we introduce a set of benchmarks to evaluate how well models can extract and classify information from the complex descriptions found in linguistic grammars. We present a Retrieval-Augmented Generation (RAG)-based approach that leverages these descriptions for downstream tasks such as machine translation. Our benchmarks encompass linguistic descriptions for 248 languages across 142 language families, focusing on typological features from WALS and Grambank.
-  This set of benchmarks offers the first comprehensive evaluation of language models' in-context ability to accurately interpret and extract linguistic features, providing a critical resource for scaling NLP to low-resource languages. The code and data are publicly available at url{https://github.com/al-the-eigenvalue/RAG-on-grammars}.
+  This set of benchmarks offers the first comprehensive evaluation of language models' in-context ability to accurately interpret and extract linguistic features, providing a critical resource for scaling NLP to low-resource languages. The code and data are publicly available at \url{https://github.com/al-the-eigenvalue/RAG-on-grammars}.
 
 [Arxiv](https://arxiv.org/abs/2411.15577)
