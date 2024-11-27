@@ -992,13 +992,73 @@
 
     - [翻译: 自适应视频理解代理：借助动态帧采样和反馈驱动推理提升效率](2024年10月26日/Adaptive_Video_Understanding_Agent_Enhancing_efficiency_with_dynamic_frame_sampling_and_feedback-driven_reasoning.md)
 
+- [A Survey of Large Language Models for Arabic Language and its Dialects](2024年10月26日/A_Survey_of_Large_Language_Models_for_Arabic_Language_and_its_Dialects.md)
+
+    - [翻译: 关于阿拉伯语及其方言的大型语言模型的一项调研](2024年10月26日/A_Survey_of_Large_Language_Models_for_Arabic_Language_and_its_Dialects.md)
+
+- [Chemical Language Model Linker: blending text and molecules with modular adapters](2024年10月26日/Chemical_Language_Model_Linker_blending_text_and_molecules_with_modular_adapters.md)
+
+    - [翻译: 化学语言模型连接器：借助模块化适配器实现文本与分子的融合](2024年10月26日/Chemical_Language_Model_Linker_blending_text_and_molecules_with_modular_adapters.md)
+
+- [DAWN-ICL: Strategic Planning of Problem-solving Trajectories for Zero-Shot In-Context Learning](2024年10月26日/DAWN-ICL_Strategic_Planning_of_Problem-solving_Trajectories_for_Zero-Shot_In-Context_Learning.md)
+
+    - [翻译: DAWN-ICL：针对零样本上下文学习的问题解决轨迹的战略规划](2024年10月26日/DAWN-ICL_Strategic_Planning_of_Problem-solving_Trajectories_for_Zero-Shot_In-Context_Learning.md)
+
+- [Demystifying Application Programming Interfaces (APIs): Unlocking the Power of Large Language Models and Other Web-based AI Services in Social Work Research](2024年10月26日/Demystifying_Application_Programming_Interfaces_(APIs)_Unlocking_the_Power_of_Large_Language_Models_and_Other_Web-based_AI_Services_in_Social_Work_Research.md)
+
+    - [翻译: 揭开应用程序编程接口（APIs）的神秘面纱：释放大型语言模型及其他基于网络的人工智能服务于社会工作研究的力量](2024年10月26日/Demystifying_Application_Programming_Interfaces_(APIs)_Unlocking_the_Power_of_Large_Language_Models_and_Other_Web-based_AI_Services_in_Social_Work_Research.md)
+
+- [EACO-RAG: Edge-Assisted and Collaborative RAG with Adaptive Knowledge Update](2024年10月26日/EACO-RAG_Edge-Assisted_and_Collaborative_RAG_with_Adaptive_Knowledge_Update.md)
+
+    - [翻译: EACO-RAG：具备自适应知识更新的边缘辅助与协作式 RAG](2024年10月26日/EACO-RAG_Edge-Assisted_and_Collaborative_RAG_with_Adaptive_Knowledge_Update.md)
+
+- [EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering](2024年10月26日/EfficientEQA_An_Efficient_Approach_for_Open_Vocabulary_Embodied_Question_Answering.md)
+
+    - [翻译: EfficientEQA：用于开放词汇具身问答的高效之法](2024年10月26日/EfficientEQA_An_Efficient_Approach_for_Open_Vocabulary_Embodied_Question_Answering.md)
+
 - [Enhancing Inflation Nowcasting with LLM: Sentiment Analysis on News](2024年10月26日/Enhancing_Inflation_Nowcasting_with_LLM_Sentiment_Analysis_on_News.md)
 
     - [翻译: 利用 LLM 增强通货膨胀的即时预测：新闻情绪分析](2024年10月26日/Enhancing_Inflation_Nowcasting_with_LLM_Sentiment_Analysis_on_News.md)
 
+- [Fast Best-of-N Decoding via Speculative Rejection](2024年10月26日/Fast_Best-of-N_Decoding_via_Speculative_Rejection.md)
+
+    - [翻译: 通过推测性拒绝来达成快速的最佳 N 解码](2024年10月26日/Fast_Best-of-N_Decoding_via_Speculative_Rejection.md)
+
+- [Fine-Tuning and Evaluating Open-Source Large Language Models for the Army Domain](2024年10月26日/Fine-Tuning_and_Evaluating_Open-Source_Large_Language_Models_for_the_Army_Domain.md)
+
+    - [翻译: 针对陆军领域的开源大型语言模型进行微调与评估](2024年10月26日/Fine-Tuning_and_Evaluating_Open-Source_Large_Language_Models_for_the_Army_Domain.md)
+
 - [Generative AI in Health Economics and Outcomes Research: A Taxonomy of Key Definitions and Emerging Applications, an ISPOR Working Group Report](2024年10月26日/Generative_AI_in_Health_Economics_and_Outcomes_Research_A_Taxonomy_of_Key_Definitions_and_Emerging_Applications,_an_ISPOR_Working_Group_Report.md)
 
     - [翻译: 《卫生经济学和结果研究中的生成式人工智能：关键定义和新兴应用的分类，ISPOR 工作组报告》](2024年10月26日/Generative_AI_in_Health_Economics_and_Outcomes_Research_A_Taxonomy_of_Key_Definitions_and_Emerging_Applications,_an_ISPOR_Working_Group_Report.md)
+
+- [Generative linguistics contribution to artificial intelligence: Where this contribution lies?](2024年10月26日/Generative_linguistics_contribution_to_artificial_intelligence_Where_this_contribution_lies.md)
+
+    - [翻译: 生成语言学对人工智能的贡献究竟何在？](2024年10月26日/Generative_linguistics_contribution_to_artificial_intelligence_Where_this_contribution_lies.md)
+
+- [GFlowNet Fine-tuning for Diverse Correct Solutions in Mathematical Reasoning Tasks](2024年10月26日/GFlowNet_Fine-tuning_for_Diverse_Correct_Solutions_in_Mathematical_Reasoning_Tasks.md)
+
+    - [翻译: GFlowNet 微调以实现数学推理任务中的多种正确解法](2024年10月26日/GFlowNet_Fine-tuning_for_Diverse_Correct_Solutions_in_Mathematical_Reasoning_Tasks.md)
+
+- [GiVE: Guiding Visual Encoder to Perceive Overlooked Information](2024年10月26日/GiVE_Guiding_Visual_Encoder_to_Perceive_Overlooked_Information.md)
+
+    - [翻译: GiVE：引导视觉编码器去察觉被遗漏的信息](2024年10月26日/GiVE_Guiding_Visual_Encoder_to_Perceive_Overlooked_Information.md)
+
+- [Learning from Response not Preference: A Stackelberg Approach for LLM Detoxification using Non-parallel Data](2024年10月26日/Learning_from_Response_not_Preference_A_Stackelberg_Approach_for_LLM_Detoxification_using_Non-parallel_Data.md)
+
+    - [翻译: 从响应而非偏好中学习：运用非并行数据为 LLM 解毒的斯塔克尔伯格式方法](2024年10月26日/Learning_from_Response_not_Preference_A_Stackelberg_Approach_for_LLM_Detoxification_using_Non-parallel_Data.md)
+
+- [LLMs Can Evolve Continually on Modality for X-Modal Reasoning](2024年10月26日/LLMs_Can_Evolve_Continually_on_Modality_for_X-Modal_Reasoning.md)
+
+    - [翻译: LLMs 能够在模态方面持续演进，以用于 X 模态推理](2024年10月26日/LLMs_Can_Evolve_Continually_on_Modality_for_X-Modal_Reasoning.md)
+
+- [Mask-based Membership Inference Attacks for Retrieval-Augmented Generation](2024年10月26日/Mask-based_Membership_Inference_Attacks_for_Retrieval-Augmented_Generation.md)
+
+    - [翻译: 基于掩码的针对检索增强生成的成员推理攻击](2024年10月26日/Mask-based_Membership_Inference_Attacks_for_Retrieval-Augmented_Generation.md)
+
+- [Model Equality Testing: Which Model Is This API Serving?](2024年10月26日/Model_Equality_Testing_Which_Model_Is_This_API_Serving.md)
+
+    - [翻译: 模型平等性测试：此 API 所服务的是哪个模型？](2024年10月26日/Model_Equality_Testing_Which_Model_Is_This_API_Serving.md)
 
 - [Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play](2024年10月26日/Quantifying_Risk_Propensities_of_Large_Language_Models_Ethical_Focus_and_Bias_Detection_through_Role-Play.md)
 
@@ -1007,6 +1067,22 @@
 - [RARe: Retrieval Augmented Retrieval with In-Context Examples](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
 
     - [翻译: RARe：具有上下文示例的检索增强式检索](2024年10月26日/RARe_Retrieval_Augmented_Retrieval_with_In-Context_Examples.md)
+
+- [Reasoning or a Semblance of it? A Diagnostic Study of Transitive Reasoning in LLMs](2024年10月26日/Reasoning_or_a_Semblance_of_it_A_Diagnostic_Study_of_Transitive_Reasoning_in_LLMs.md)
+
+    - [翻译: 是真正的推理还是看似推理？对 LLM 中传递推理的诊断性研究](2024年10月26日/Reasoning_or_a_Semblance_of_it_A_Diagnostic_Study_of_Transitive_Reasoning_in_LLMs.md)
+
+- [Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models](2024年10月26日/Rethinking_the_Uncertainty_A_Critical_Review_and_Analysis_in_the_Era_of_Large_Language_Models.md)
+
+    - [翻译: 《重新思考不确定性：大型语言模型时代的批判性审视与分析》](2024年10月26日/Rethinking_the_Uncertainty_A_Critical_Review_and_Analysis_in_the_Era_of_Large_Language_Models.md)
+
+- [Sequential Large Language Model-Based Hyper-Parameter Optimization](2024年10月26日/Sequential_Large_Language_Model-Based_Hyper-Parameter_Optimization.md)
+
+    - [翻译: 基于顺序大型语言模型的超参数优化](2024年10月26日/Sequential_Large_Language_Model-Based_Hyper-Parameter_Optimization.md)
+
+- [WindTunnel -- A Framework for Community Aware Sampling of Large Corpora](2024年10月26日/WindTunnel_--_A_Framework_for_Community_Aware_Sampling_of_Large_Corpora.md)
+
+    - [翻译: WindTunnel —— 一个针对大型语料库进行社区感知采样的框架](2024年10月26日/WindTunnel_--_A_Framework_for_Community_Aware_Sampling_of_Large_Corpora.md)
 
 2024年10月15日
 
