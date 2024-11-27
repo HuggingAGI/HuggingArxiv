@@ -2,17 +2,9 @@
 
 2024年11月25日
 
-- [Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey](2024年11月25日/Adapter-based_Approaches_to_Knowledge-enhanced_Language_Models_--_A_Survey.md)
-
-    - [翻译: 基于适配器的知识增强语言模型之法——一份调研](2024年11月25日/Adapter-based_Approaches_to_Knowledge-enhanced_Language_Models_--_A_Survey.md)
-
 - [Adaptive Circuit Behavior and Generalization in Mechanistic Interpretability](2024年11月25日/Adaptive_Circuit_Behavior_and_Generalization_in_Mechanistic_Interpretability.md)
 
     - [翻译: 关于自适应电路行为以及机械可解释性中的泛化](2024年11月25日/Adaptive_Circuit_Behavior_and_Generalization_in_Mechanistic_Interpretability.md)
-
-- [All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages](2024年11月25日/All_Languages_Matter_Evaluating_LMMs_on_Culturally_Diverse_100_Languages.md)
-
-    - [翻译: 所有语言皆重要：对涵盖多元文化的 100 种语言中的 LMMs 进行评估](2024年11月25日/All_Languages_Matter_Evaluating_LMMs_on_Culturally_Diverse_100_Languages.md)
 
 - [A Multi-agent Framework for Materials Laws Discovery](2024年11月25日/A_Multi-agent_Framework_for_Materials_Laws_Discovery.md)
 
@@ -37,14 +29,6 @@
 - [Can AI grade your essays? A comparative analysis of large language models and teacher ratings in multidimensional essay scoring](2024年11月25日/Can_AI_grade_your_essays_A_comparative_analysis_of_large_language_models_and_teacher_ratings_in_multidimensional_essay_scoring.md)
 
     - [翻译: 人工智能能为你的文章打分吗？对大型语言模型和教师在多维文章评分中的比较分析](2024年11月25日/Can_AI_grade_your_essays_A_comparative_analysis_of_large_language_models_and_teacher_ratings_in_multidimensional_essay_scoring.md)
-
-- [Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](2024年11月25日/Chat2SVG_Vector_Graphics_Generation_with_Large_Language_Models_and_Image_Diffusion_Models.md)
-
-    - [翻译: Chat2SVG：借助大型语言模型和图像扩散模型实现矢量图形生成](2024年11月25日/Chat2SVG_Vector_Graphics_Generation_with_Large_Language_Models_and_Image_Diffusion_Models.md)
-
-- [Context Awareness Gate For Retrieval Augmented Generation](2024年11月25日/Context_Awareness_Gate_For_Retrieval_Augmented_Generation.md)
-
-    - [翻译: 用于检索增强生成的上下文感知门](2024年11月25日/Context_Awareness_Gate_For_Retrieval_Augmented_Generation.md)
 
 - [CS-Eval: A Comprehensive Large Language Model Benchmark for CyberSecurity](2024年11月25日/CS-Eval_A_Comprehensive_Large_Language_Model_Benchmark_for_CyberSecurity.md)
 
@@ -74,10 +58,6 @@
 
     - [翻译: FineWeb-zhtw：实现从网络中对繁体中文文本数据的可扩展整理](2024年11月25日/FineWeb-zhtw_Scalable_Curation_of_Traditional_Chinese_Text_Data_from_the_Web.md)
 
-- [FinML-Chain: A Blockchain-Integrated Dataset for Enhanced Financial Machine Learning](2024年11月25日/FinML-Chain_A_Blockchain-Integrated_Dataset_for_Enhanced_Financial_Machine_Learning.md)
-
-    - [翻译: FinML-Chain：一个融合区块链的、用于强化金融机器学习的数据集](2024年11月25日/FinML-Chain_A_Blockchain-Integrated_Dataset_for_Enhanced_Financial_Machine_Learning.md)
-
 - [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](2024年11月25日/From_Generation_to_Judgment_Opportunities_and_Challenges_of_LLM-as-a-judge.md)
 
     - [翻译: 从生成到评判：LLM 充当裁判所面临的机遇和挑战](2024年11月25日/From_Generation_to_Judgment_Opportunities_and_Challenges_of_LLM-as-a-judge.md)
@@ -85,10 +65,6 @@
 - [Generating Out-Of-Distribution Scenarios Using Language Models](2024年11月25日/Generating_Out-Of-Distribution_Scenarios_Using_Language_Models.md)
 
     - [翻译: 利用语言模型生成分布外的场景](2024年11月25日/Generating_Out-Of-Distribution_Scenarios_Using_Language_Models.md)
-
-- [Human-Calibrated Automated Testing and Validation of Generative Language Models](2024年11月25日/Human-Calibrated_Automated_Testing_and_Validation_of_Generative_Language_Models.md)
-
-    - [翻译: 关于生成语言模型的人类校准式自动化测试与验证](2024年11月25日/Human-Calibrated_Automated_Testing_and_Validation_of_Generative_Language_Models.md)
 
 - [Interpreting Language Reward Models via Contrastive Explanations](2024年11月25日/Interpreting_Language_Reward_Models_via_Contrastive_Explanations.md)
 
@@ -122,10 +98,6 @@
 
     - [翻译: MarketGPT：开发用于对金融时间序列进行建模的预训练 Transformer（GPT）](2024年11月25日/MarketGPT_Developing_a_Pre-trained_transformer_(GPT)_for_Modeling_Financial_Time_Series.md)
 
-- [MH-MoE:Multi-Head Mixture-of-Experts](2024年11月25日/MH-MoEMulti-Head_Mixture-of-Experts.md)
-
-    - [翻译: MH-MoE:多头部的专家混合模式](2024年11月25日/MH-MoEMulti-Head_Mixture-of-Experts.md)
-
 - [MixPE: Quantization and Hardware Co-design for Efficient LLM Inference](2024年11月25日/MixPE_Quantization_and_Hardware_Co-design_for_Efficient_LLM_Inference.md)
 
     - [翻译: MixPE：针对高效 LLM 推理的量化与硬件协同设计](2024年11月25日/MixPE_Quantization_and_Hardware_Co-design_for_Efficient_LLM_Inference.md)
@@ -149,10 +121,6 @@
 - [OminiControl: Minimal and Universal Control for Diffusion Transformer](2024年11月25日/OminiControl_Minimal_and_Universal_Control_for_Diffusion_Transformer.md)
 
     - [翻译: OminiControl：针对扩散 Transformer 的极简且通用的控制](2024年11月25日/OminiControl_Minimal_and_Universal_Control_for_Diffusion_Transformer.md)
-
-- [Poster: Could Large Language Models Perform Network Management?](2024年11月25日/Poster_Could_Large_Language_Models_Perform_Network_Management.md)
-
-    - [翻译: 海报：大型语言模型能进行网络管理吗？](2024年11月25日/Poster_Could_Large_Language_Models_Perform_Network_Management.md)
 
 - [Predictive Power of LLMs in Financial Markets](2024年11月25日/Predictive_Power_of_LLMs_in_Financial_Markets.md)
 
@@ -189,10 +157,6 @@
 - [Towards Foundation Models for Critical Care Time Series](2024年11月25日/Towards_Foundation_Models_for_Critical_Care_Time_Series.md)
 
     - [翻译: 朝着重症监护时间序列的基础模型进发](2024年11月25日/Towards_Foundation_Models_for_Critical_Care_Time_Series.md)
-
-- [Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures](2024年11月25日/Unraveling_Arithmetic_in_Large_Language_Models_The_Role_of_Algebraic_Structures.md)
-
-    - [翻译: 探索大型语言模型中的算术：代数结构所起的作用](2024年11月25日/Unraveling_Arithmetic_in_Large_Language_Models_The_Role_of_Algebraic_Structures.md)
 
 - [UVLLM: An Automated Universal RTL Verification Framework using LLMs](2024年11月25日/UVLLM_An_Automated_Universal_RTL_Verification_Framework_using_LLMs.md)
 
