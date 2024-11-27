@@ -2,57 +2,13 @@
 
 2024年11月25日
 
-- [Blockchain Meets LLMs: A Living Survey on Bidirectional Integration](2024年11月25日/Blockchain_Meets_LLMs_A_Living_Survey_on_Bidirectional_Integration.md)
-
-    - [翻译: 区块链与大型语言模型的相遇：有关双向集成的实时调查](2024年11月25日/Blockchain_Meets_LLMs_A_Living_Survey_on_Bidirectional_Integration.md)
-
-- [CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers](2024年11月25日/CMAViT_Integrating_Climate,_Managment,_and_Remote_Sensing_Data_for_Crop_Yield_Estimation_with_Multimodel_Vision_Transformers.md)
-
-    - [翻译: CMAViT：融合气候、管理和遥感数据，借助多模型视觉转换器来估算作物产量](2024年11月25日/CMAViT_Integrating_Climate,_Managment,_and_Remote_Sensing_Data_for_Crop_Yield_Estimation_with_Multimodel_Vision_Transformers.md)
-
-- [Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](2024年11月25日/Efficient_LLM_Inference_with_IO-Aware_Partial_KV_Cache_Recomputation.md)
-
-    - [翻译: 借助 I/O 感知的部分 KV 缓存重新计算来达成高效的 LLM 推理](2024年11月25日/Efficient_LLM_Inference_with_IO-Aware_Partial_KV_Cache_Recomputation.md)
-
 - [FREE-Merging: Fourier Transform for Model Merging with Lightweight Experts](2024年11月25日/FREE-Merging_Fourier_Transform_for_Model_Merging_with_Lightweight_Experts.md)
 
     - [翻译: FREE-Merging：用于结合轻量级专家的模型的傅里叶变换](2024年11月25日/FREE-Merging_Fourier_Transform_for_Model_Merging_with_Lightweight_Experts.md)
 
-- [g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks](2024年11月25日/g3D-LF_Generalizable_3D-Language_Feature_Fields_for_Embodied_Tasks.md)
-
-    - [翻译: g3D-LF：适用于具身任务的可通用化 3D 语言特征场](2024年11月25日/g3D-LF_Generalizable_3D-Language_Feature_Fields_for_Embodied_Tasks.md)
-
-- [Human Motion Instruction Tuning](2024年11月25日/Human_Motion_Instruction_Tuning.md)
-
-    - [翻译: 人类动作指令的调整](2024年11月25日/Human_Motion_Instruction_Tuning.md)
-
-- [InTraGen: Trajectory-controlled Video Generation for Object Interactions](2024年11月25日/InTraGen_Trajectory-controlled_Video_Generation_for_Object_Interactions.md)
-
-    - [翻译: InTraGen：针对对象交互的轨迹控制视频生成](2024年11月25日/InTraGen_Trajectory-controlled_Video_Generation_for_Object_Interactions.md)
-
 - [Probing the limitations of multimodal language models for chemistry and materials research](2024年11月25日/Probing_the_limitations_of_multimodal_language_models_for_chemistry_and_materials_research.md)
 
     - [翻译: 探索多模态语言模型于化学和材料研究中的局限性](2024年11月25日/Probing_the_limitations_of_multimodal_language_models_for_chemistry_and_materials_research.md)
-
-- [SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE](2024年11月25日/SAR3D_Autoregressive_3D_Object_Generation_and_Understanding_via_Multi-scale_3D_VQVAE.md)
-
-    - [翻译: SAR3D：借助多尺度 3D VQVAE 实现自回归 3D 对象的生成与理解](2024年11月25日/SAR3D_Autoregressive_3D_Object_Generation_and_Understanding_via_Multi-scale_3D_VQVAE.md)
-
-- [Scaling Laws for Black box Adversarial Attacks](2024年11月25日/Scaling_Laws_for_Black_box_Adversarial_Attacks.md)
-
-    - [翻译: 黑箱对抗攻击的缩放定律](2024年11月25日/Scaling_Laws_for_Black_box_Adversarial_Attacks.md)
-
-- [ThreatModeling-LLM: Automating Threat Modeling using Large Language Models for Banking System](2024年11月25日/ThreatModeling-LLM_Automating_Threat_Modeling_using_Large_Language_Models_for_Banking_System.md)
-
-    - [翻译: ThreatModeling-LLM：利用大型语言模型为银行系统实现威胁建模自动化](2024年11月25日/ThreatModeling-LLM_Automating_Threat_Modeling_using_Large_Language_Models_for_Banking_System.md)
-
-- [Towards Precise Scaling Laws for Video Diffusion Transformers](2024年11月25日/Towards_Precise_Scaling_Laws_for_Video_Diffusion_Transformers.md)
-
-    - [翻译: 朝着视频扩散 Transformer 的精确缩放规律进发](2024年11月25日/Towards_Precise_Scaling_Laws_for_Video_Diffusion_Transformers.md)
-
-- [UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing](2024年11月25日/UniPose_A_Unified_Multimodal_Framework_for_Human_Pose_Comprehension,_Generation_and_Editing.md)
-
-    - [翻译: UniPose：一个用于人体姿态理解、生成与编辑的统一多模态框架](2024年11月25日/UniPose_A_Unified_Multimodal_Framework_for_Human_Pose_Comprehension,_Generation_and_Editing.md)
 
 2024年11月24日
 

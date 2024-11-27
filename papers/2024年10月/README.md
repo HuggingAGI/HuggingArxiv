@@ -996,6 +996,10 @@
 
     - [翻译: 关于阿拉伯语及其方言的大型语言模型的一项调研](2024年10月26日/A_Survey_of_Large_Language_Models_for_Arabic_Language_and_its_Dialects.md)
 
+- [Centaur: a foundation model of human cognition](2024年10月26日/Centaur_a_foundation_model_of_human_cognition.md)
+
+    - [翻译: Centaur：人类认知的基础模型](2024年10月26日/Centaur_a_foundation_model_of_human_cognition.md)
+
 - [Chemical Language Model Linker: blending text and molecules with modular adapters](2024年10月26日/Chemical_Language_Model_Linker_blending_text_and_molecules_with_modular_adapters.md)
 
     - [翻译: 化学语言模型连接器：借助模块化适配器实现文本与分子的融合](2024年10月26日/Chemical_Language_Model_Linker_blending_text_and_molecules_with_modular_adapters.md)
@@ -1048,6 +1052,10 @@
 
     - [翻译: 从响应而非偏好中学习：运用非并行数据为 LLM 解毒的斯塔克尔伯格式方法](2024年10月26日/Learning_from_Response_not_Preference_A_Stackelberg_Approach_for_LLM_Detoxification_using_Non-parallel_Data.md)
 
+- [Library Learning Doesn't: The Curious Case of the Single-Use "Library"](2024年10月26日/Library_Learning_Doesn't_The_Curious_Case_of_the_Single-Use_Library.md)
+
+    - [翻译: 图书馆学习并非如此：一次性“图书馆”的奇特情形](2024年10月26日/Library_Learning_Doesn't_The_Curious_Case_of_the_Single-Use_Library.md)
+
 - [LLMs Can Evolve Continually on Modality for X-Modal Reasoning](2024年10月26日/LLMs_Can_Evolve_Continually_on_Modality_for_X-Modal_Reasoning.md)
 
     - [翻译: LLMs 能够在模态方面持续演进，以用于 X 模态推理](2024年10月26日/LLMs_Can_Evolve_Continually_on_Modality_for_X-Modal_Reasoning.md)
@@ -1079,6 +1087,10 @@
 - [Sequential Large Language Model-Based Hyper-Parameter Optimization](2024年10月26日/Sequential_Large_Language_Model-Based_Hyper-Parameter_Optimization.md)
 
     - [翻译: 基于顺序大型语言模型的超参数优化](2024年10月26日/Sequential_Large_Language_Model-Based_Hyper-Parameter_Optimization.md)
+
+- [Uncertainty-Penalized Direct Preference Optimization](2024年10月26日/Uncertainty-Penalized_Direct_Preference_Optimization.md)
+
+    - [翻译: 不确定性受罚的直接偏好优化](2024年10月26日/Uncertainty-Penalized_Direct_Preference_Optimization.md)
 
 - [WindTunnel -- A Framework for Community Aware Sampling of Large Corpora](2024年10月26日/WindTunnel_--_A_Framework_for_Community_Aware_Sampling_of_Large_Corpora.md)
 
