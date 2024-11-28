@@ -10,9 +10,21 @@
 
     - [翻译: 用于上下文学习的课程演示选择](2024年11月27日/Curriculum_Demonstration_Selection_for_In-Context_Learning.md)
 
+- [FlexiBit: Fully Flexible Precision Bit-parallel Accelerator Architecture for Arbitrary Mixed Precision AI](2024年11月27日/FlexiBit_Fully_Flexible_Precision_Bit-parallel_Accelerator_Architecture_for_Arbitrary_Mixed_Precision_AI.md)
+
+    - [翻译: FlexiBit：适用于任意混合精度 AI 的全灵活精度位并行加速器架构](2024年11月27日/FlexiBit_Fully_Flexible_Precision_Bit-parallel_Accelerator_Architecture_for_Arbitrary_Mixed_Precision_AI.md)
+
+- [From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](2024年11月27日/From_Exploration_to_Revelation_Detecting_Dark_Patterns_in_Mobile_Apps.md)
+
+    - [翻译: 从探索走向揭示：检测移动应用中的暗黑模式](2024年11月27日/From_Exploration_to_Revelation_Detecting_Dark_Patterns_in_Mobile_Apps.md)
+
 - [GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](2024年11月27日/GATE_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation.md)
 
     - [翻译: GATE OpenING：评判开放式交错图像 - 文本生成的综合性基准](2024年11月27日/GATE_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation.md)
+
+- [Howzat? Appealing to Expert Judgement for Evaluating Human and AI Next-Step Hints for Novice Programmers](2024年11月27日/Howzat_Appealing_to_Expert_Judgement_for_Evaluating_Human_and_AI_Next-Step_Hints_for_Novice_Programmers.md)
+
+    - [翻译: Howzat？通过呼吁专家判断来评估针对新手程序员的人类和人工智能的下一步提示](2024年11月27日/Howzat_Appealing_to_Expert_Judgement_for_Evaluating_Human_and_AI_Next-Step_Hints_for_Novice_Programmers.md)
 
 2024年11月21日
 
