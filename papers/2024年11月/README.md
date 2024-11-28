@@ -2,75 +2,87 @@
 
 2024年11月27日
 
-- [ChatGPT as speechwriter for the French presidents](2024年11月27日/ChatGPT_as_speechwriter_for_the_French_presidents.md)
+- [An AI-Assisted Multi-Agent Dual Dialogue System to Support Mental Health Care Providers](2024年11月27日/An_AI-Assisted_Multi-Agent_Dual_Dialogue_System_to_Support_Mental_Health_Care_Providers.md)
 
-    - [翻译: ChatGPT 充当法国总统的演讲稿撰写者](2024年11月27日/ChatGPT_as_speechwriter_for_the_French_presidents.md)
+    - [翻译: 一个由人工智能辅助的多智能体双重对话系统，用于支持心理健康护理提供者](2024年11月27日/An_AI-Assisted_Multi-Agent_Dual_Dialogue_System_to_Support_Mental_Health_Care_Providers.md)
 
-- [Large Language Model-Brained GUI Agents: A Survey](2024年11月27日/Large_Language_Model-Brained_GUI_Agents_A_Survey.md)
+- [Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS](2024年11月27日/Beyond_Examples_High-level_Automated_Reasoning_Paradigm_in_In-Context_Learning_via_MCTS.md)
 
-    - [翻译: 大型语言模型驱动的 GUI 代理：一项调研](2024年11月27日/Large_Language_Model-Brained_GUI_Agents_A_Survey.md)
+    - [翻译: 超越示例：借助 MCTS 在上下文学习中的高级自动化推理模式](2024年11月27日/Beyond_Examples_High-level_Automated_Reasoning_Paradigm_in_In-Context_Learning_via_MCTS.md)
 
-- [Neutralizing Backdoors through Information Conflicts for Large Language Models](2024年11月27日/Neutralizing_Backdoors_through_Information_Conflicts_for_Large_Language_Models.md)
+- [Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation](2024年11月27日/Break_the_ID-Language_Barrier_An_Adaption_Framework_for_Sequential_Recommendation.md)
 
-    - [翻译: 通过信息冲突为大型语言模型消除后门](2024年11月27日/Neutralizing_Backdoors_through_Information_Conflicts_for_Large_Language_Models.md)
+    - [翻译: 打破 ID - 语言的壁垒：序列推荐的适配框架](2024年11月27日/Break_the_ID-Language_Barrier_An_Adaption_Framework_for_Sequential_Recommendation.md)
 
-- [R-MTLLMF: Resilient Multi-Task Large Language Model Fusion at the Wireless Edge](2024年11月27日/R-MTLLMF_Resilient_Multi-Task_Large_Language_Model_Fusion_at_the_Wireless_Edge.md)
+- [Can LLMs assist with Ambiguity? A Quantitative Evaluation of various Large Language Models on Word Sense Disambiguation](2024年11月27日/Can_LLMs_assist_with_Ambiguity_A_Quantitative_Evaluation_of_various_Large_Language_Models_on_Word_Sense_Disambiguation.md)
 
-    - [翻译: R-MTLLMF：无线边缘处的弹性多任务大型语言模型融合](2024年11月27日/R-MTLLMF_Resilient_Multi-Task_Large_Language_Model_Fusion_at_the_Wireless_Edge.md)
+    - [翻译: LLMs 能助力消除歧义吗？对各类大型语言模型在词义消歧方面的定量评估](2024年11月27日/Can_LLMs_assist_with_Ambiguity_A_Quantitative_Evaluation_of_various_Large_Language_Models_on_Word_Sense_Disambiguation.md)
 
-- [Training and Evaluating Language Models with Template-based Data Generation](2024年11月27日/Training_and_Evaluating_Language_Models_with_Template-based_Data_Generation.md)
+- [Deep Fourier-embedded Network for Bi-modal Salient Object Detection](2024年11月27日/Deep_Fourier-embedded_Network_for_Bi-modal_Salient_Object_Detection.md)
 
-    - [翻译: 利用基于模板的数据生成来训练和评估语言模型](2024年11月27日/Training_and_Evaluating_Language_Models_with_Template-based_Data_Generation.md)
+    - [翻译: 用于双模态显著目标检测的深度傅里叶嵌入网络](2024年11月27日/Deep_Fourier-embedded_Network_for_Bi-modal_Salient_Object_Detection.md)
+
+- [DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](2024年11月27日/DexDiffuser_Interaction-aware_Diffusion_Planning_for_Adaptive_Dexterous_Manipulation.md)
+
+    - [翻译: DexDiffuser：针对自适应灵巧操作的交互感知式扩散规划](2024年11月27日/DexDiffuser_Interaction-aware_Diffusion_Planning_for_Adaptive_Dexterous_Manipulation.md)
+
+- [Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding](2024年11月27日/Draft_Model_Knows_When_to_Stop_A_Self-Verification_Length_Policy_for_Speculative_Decoding.md)
+
+    - [翻译: 草案模型知晓何时停止：针对推测解码的自验证长度策略](2024年11月27日/Draft_Model_Knows_When_to_Stop_A_Self-Verification_Length_Policy_for_Speculative_Decoding.md)
+
+- [Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models](2024年11月27日/Emergence_of_Self-Identity_in_AI_A_Mathematical_Framework_and_Empirical_Study_with_Generative_Large_Language_Models.md)
+
+    - [翻译: AI 中自我认同的涌现：基于生成式大型语言模型的数学框架与实证研究](2024年11月27日/Emergence_of_Self-Identity_in_AI_A_Mathematical_Framework_and_Empirical_Study_with_Generative_Large_Language_Models.md)
+
+- [FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving](2024年11月27日/FastSwitch_Optimizing_Context_Switching_Efficiency_in_Fairness-aware_Large_Language_Model_Serving.md)
+
+    - [翻译: FastSwitch：优化公平感知的大型语言模型服务中的上下文切换效率](2024年11月27日/FastSwitch_Optimizing_Context_Switching_Efficiency_in_Fairness-aware_Large_Language_Model_Serving.md)
+
+- [InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks](2024年11月27日/InputSnatch_Stealing_Input_in_LLM_Services_via_Timing_Side-Channel_Attacks.md)
+
+    - [翻译: InputSnatch：借定时侧信道攻击于 LLM 服务里窃取输入](2024年11月27日/InputSnatch_Stealing_Input_in_LLM_Services_via_Timing_Side-Channel_Attacks.md)
+
+- [LLM-ABBA: Understand time series via symbolic approximation](2024年11月27日/LLM-ABBA_Understand_time_series_via_symbolic_approximation.md)
+
+    - [翻译: LLM-ABBA：借由符号近似来理解时间序列](2024年11月27日/LLM-ABBA_Understand_time_series_via_symbolic_approximation.md)
+
+- [MM-Path: Multi-modal, Multi-granularity Path Representation Learning -- Extended Version](2024年11月27日/MM-Path_Multi-modal,_Multi-granularity_Path_Representation_Learning_--_Extended_Version.md)
+
+    - [翻译: MM-Path：多模态、多粒度的路径表示学习 -- 扩展版](2024年11月27日/MM-Path_Multi-modal,_Multi-granularity_Path_Representation_Learning_--_Extended_Version.md)
+
+- [MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation](2024年11月27日/MotionCharacter_Identity-Preserving_and_Motion_Controllable_Human_Video_Generation.md)
+
+    - [翻译: MotionCharacter：可保持身份且运动可控的人类视频生成](2024年11月27日/MotionCharacter_Identity-Preserving_and_Motion_Controllable_Human_Video_Generation.md)
+
+- [MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement](2024年11月27日/MvKeTR_Chest_CT_Report_Generation_with_Multi-View_Perception_and_Knowledge_Enhancement.md)
+
+    - [翻译: MvKeTR：通过多视图感知和知识增强实现胸部 CT 报告生成](2024年11月27日/MvKeTR_Chest_CT_Report_Generation_with_Multi-View_Perception_and_Knowledge_Enhancement.md)
+
+- [Retrofitting (Large) Language Models with Dynamic Tokenization](2024年11月27日/Retrofitting_(Large)_Language_Models_with_Dynamic_Tokenization.md)
+
+    - [翻译: 利用动态标记化改造（大型）语言模型](2024年11月27日/Retrofitting_(Large)_Language_Models_with_Dynamic_Tokenization.md)
+
+- [SentiXRL: An advanced large language Model Framework for Multilingual Fine-Grained Emotion Classification in Complex Text Environment](2024年11月27日/SentiXRL_An_advanced_large_language_Model_Framework_for_Multilingual_Fine-Grained_Emotion_Classification_in_Complex_Text_Environment.md)
+
+    - [翻译: SentiXRL：一个用于复杂文本环境中多语言细粒度情感分类的先进大型语言模型框架](2024年11月27日/SentiXRL_An_advanced_large_language_Model_Framework_for_Multilingual_Fine-Grained_Emotion_Classification_in_Complex_Text_Environment.md)
+
+- [Topic Modeling and Sentiment Analysis on Japanese Online Media's Coverage of Nuclear Energy](2024年11月27日/Topic_Modeling_and_Sentiment_Analysis_on_Japanese_Online_Media's_Coverage_of_Nuclear_Energy.md)
+
+    - [翻译: 关于日本在线媒体对核能报道的主题建模与情感分析](2024年11月27日/Topic_Modeling_and_Sentiment_Analysis_on_Japanese_Online_Media's_Coverage_of_Nuclear_Energy.md)
+
+- [Towards Improved Objective Perceptual Audio Quality Assessment -- Part 1: A Novel Data-Driven Cognitive Model](2024年11月27日/Towards_Improved_Objective_Perceptual_Audio_Quality_Assessment_--_Part_1_A_Novel_Data-Driven_Cognitive_Model.md)
+
+    - [翻译: 向着改进客观感知音频质量评估迈进——第 1 部分：一种新型的数据驱动认知模型](2024年11月27日/Towards_Improved_Objective_Perceptual_Audio_Quality_Assessment_--_Part_1_A_Novel_Data-Driven_Cognitive_Model.md)
+
+- [Visual Adversarial Attack on Vision-Language Models for Autonomous Driving](2024年11月27日/Visual_Adversarial_Attack_on_Vision-Language_Models_for_Autonomous_Driving.md)
+
+    - [翻译: 针对自动驾驶中视觉语言模型的视觉对抗攻击](2024年11月27日/Visual_Adversarial_Attack_on_Vision-Language_Models_for_Autonomous_Driving.md)
+
+- [XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration](2024年11月27日/XR-MBT_Multi-modal_Full_Body_Tracking_for_XR_through_Self-Supervision_with_Learned_Depth_Point_Cloud_Registration.md)
+
+    - [翻译: XR-MBT：借助具有学习深度点云配准的自监督来实现 XR 的多模态全身跟踪](2024年11月27日/XR-MBT_Multi-modal_Full_Body_Tracking_for_XR_through_Self-Supervision_with_Learned_Depth_Point_Cloud_Registration.md)
 
 2024年11月22日
-
-- [A Reproducibility and Generalizability Study of Large Language Models for Query Generation](2024年11月22日/A_Reproducibility_and_Generalizability_Study_of_Large_Language_Models_for_Query_Generation.md)
-
-    - [翻译: 一项针对大型语言模型在查询生成方面的可重复性与泛化性的研究](2024年11月22日/A_Reproducibility_and_Generalizability_Study_of_Large_Language_Models_for_Query_Generation.md)
-
-- [BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence](2024年11月22日/BIP3D_Bridging_2D_Images_and_3D_Perception_for_Embodied_Intelligence.md)
-
-    - [翻译: BIP3D：为实现具身智能，架起二维图像与三维感知之间的桥梁](2024年11月22日/BIP3D_Bridging_2D_Images_and_3D_Perception_for_Embodied_Intelligence.md)
-
-- [Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion](2024年11月22日/Efficient_Pruning_of_Text-to-Image_Models_Insights_from_Pruning_Stable_Diffusion.md)
-
-    - [翻译: 高效修剪文本到图像的模型：从修剪稳定扩散中获得的启示](2024年11月22日/Efficient_Pruning_of_Text-to-Image_Models_Insights_from_Pruning_Stable_Diffusion.md)
-
-- [Exploring Large Language Models for Multimodal Sentiment Analysis: Challenges, Benchmarks, and Future Directions](2024年11月22日/Exploring_Large_Language_Models_for_Multimodal_Sentiment_Analysis_Challenges,_Benchmarks,_and_Future_Directions.md)
-
-    - [翻译: 探索用于多模态情感分析的大型语言模型：所面临的挑战、基准以及未来的发展方向](2024年11月22日/Exploring_Large_Language_Models_for_Multimodal_Sentiment_Analysis_Challenges,_Benchmarks,_and_Future_Directions.md)
-
-- [FTA generation using GenAI with an Autonomy sensor Usecase](2024年11月22日/FTA_generation_using_GenAI_with_an_Autonomy_sensor_Usecase.md)
-
-    - [翻译: 利用带有自主传感器用例的 GenAI 来生成 FTA](2024年11月22日/FTA_generation_using_GenAI_with_an_Autonomy_sensor_Usecase.md)
-
-- [Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning](2024年11月22日/Geminio_Language-Guided_Gradient_Inversion_Attacks_in_Federated_Learning.md)
-
-    - [翻译: Geminio：联邦学习中的语言引导式梯度反转攻击](2024年11月22日/Geminio_Language-Guided_Gradient_Inversion_Attacks_in_Federated_Learning.md)
-
-- [Harlequin: Color-driven Generation of Synthetic Data for Referring Expression Comprehension](2024年11月22日/Harlequin_Color-driven_Generation_of_Synthetic_Data_for_Referring_Expression_Comprehension.md)
-
-    - [翻译: Harlequin：用于指称表达理解的由颜色驱动的合成数据生成](2024年11月22日/Harlequin_Color-driven_Generation_of_Synthetic_Data_for_Referring_Expression_Comprehension.md)
-
-- [IRLab@iKAT24: Learned Sparse Retrieval with Multi-aspect LLM Query Generation for Conversational Search](2024年11月22日/IRLab@iKAT24_Learned_Sparse_Retrieval_with_Multi-aspect_LLM_Query_Generation_for_Conversational_Search.md)
-
-    - [翻译: IRLab@iKAT24：利用多方面 LLM 查询生成的学习型稀疏检索服务于对话式搜索](2024年11月22日/IRLab@iKAT24_Learned_Sparse_Retrieval_with_Multi-aspect_LLM_Query_Generation_for_Conversational_Search.md)
-
-- [Large Multi-modal Models Can Interpret Features in Large Multi-modal Models](2024年11月22日/Large_Multi-modal_Models_Can_Interpret_Features_in_Large_Multi-modal_Models.md)
-
-    - [翻译: 大型多模态模型能够阐释其自身内部的特征。](2024年11月22日/Large_Multi-modal_Models_Can_Interpret_Features_in_Large_Multi-modal_Models.md)
-
-- [Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](2024年11月22日/Lifelong_Knowledge_Editing_for_Vision_Language_Models_with_Low-Rank_Mixture-of-Experts.md)
-
-    - [翻译: 针对具有低秩混合专家的视觉语言模型的终身知识编辑](2024年11月22日/Lifelong_Knowledge_Editing_for_Vision_Language_Models_with_Low-Rank_Mixture-of-Experts.md)
-
-- [Measuring Bullshit in the Language Games played by ChatGPT](2024年11月22日/Measuring_Bullshit_in_the_Language_Games_played_by_ChatGPT.md)
-
-    - [翻译: 测量 ChatGPT 参与的语言游戏中的胡言乱语情况](2024年11月22日/Measuring_Bullshit_in_the_Language_Games_played_by_ChatGPT.md)
-
-- [MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs](2024年11月22日/MME-Survey_A_Comprehensive_Survey_on_Evaluation_of_Multimodal_LLMs.md)
-
-    - [翻译: MME-Survey：有关多模态 LLM 评估的全面调研](2024年11月22日/MME-Survey_A_Comprehensive_Survey_on_Evaluation_of_Multimodal_LLMs.md)
 
 - [mR$^2$AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](2024年11月22日/mR$^2$AG_Multimodal_Retrieval-Reflection-Augmented_Generation_for_Knowledge-Based_VQA.md)
 
@@ -79,46 +91,6 @@
 - [Open-Amp: Synthetic Data Framework for Audio Effect Foundation Models](2024年11月22日/Open-Amp_Synthetic_Data_Framework_for_Audio_Effect_Foundation_Models.md)
 
     - [翻译: Open-Amp：音频效果基础模型的合成数据框架](2024年11月22日/Open-Amp_Synthetic_Data_Framework_for_Audio_Effect_Foundation_Models.md)
-
-- [Optimized Vessel Segmentation: A Structure-Agnostic Approach with Small Vessel Enhancement and Morphological Correction](2024年11月22日/Optimized_Vessel_Segmentation_A_Structure-Agnostic_Approach_with_Small_Vessel_Enhancement_and_Morphological_Correction.md)
-
-    - [翻译: 优化血管分割：一种实现小血管增强与形态学校正的结构无关式方法](2024年11月22日/Optimized_Vessel_Segmentation_A_Structure-Agnostic_Approach_with_Small_Vessel_Enhancement_and_Morphological_Correction.md)
-
-- [Panther: Illuminate the Sight of Multimodal LLMs with Instruction-Guided Visual Prompts](2024年11月22日/Panther_Illuminate_the_Sight_of_Multimodal_LLMs_with_Instruction-Guided_Visual_Prompts.md)
-
-    - [翻译: Panther：以指令引导的视觉提示为多模态大型语言模型点亮视野](2024年11月22日/Panther_Illuminate_the_Sight_of_Multimodal_LLMs_with_Instruction-Guided_Visual_Prompts.md)
-
-- [Purrfessor: A Fine-tuned Multimodal LLaVA Diet Health Chatbot](2024年11月22日/Purrfessor_A_Fine-tuned_Multimodal_LLaVA_Diet_Health_Chatbot.md)
-
-    - [翻译: Purrfessor：一款经过微调的多模态 LLaVA 饮食健康聊天机器人](2024年11月22日/Purrfessor_A_Fine-tuned_Multimodal_LLaVA_Diet_Health_Chatbot.md)
-
-- [ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data](2024年11月22日/ScribeAgent_Towards_Specialized_Web_Agents_Using_Production-Scale_Workflow_Data.md)
-
-    - [翻译: ScribeAgent：借助生产规模的工作流数据迈向专业化网络代理](2024年11月22日/ScribeAgent_Towards_Specialized_Web_Agents_Using_Production-Scale_Workflow_Data.md)
-
-- [Task-Aware Robotic Grasping by evaluating Quality Diversity Solutions through Foundation Models](2024年11月22日/Task-Aware_Robotic_Grasping_by_evaluating_Quality_Diversity_Solutions_through_Foundation_Models.md)
-
-    - [翻译: 借助基础模型对质量多样性解决方案进行评估，实现任务感知的机器人抓取](2024年11月22日/Task-Aware_Robotic_Grasping_by_evaluating_Quality_Diversity_Solutions_through_Foundation_Models.md)
-
-- [The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges](2024年11月22日/The_Decoy_Dilemma_in_Online_Medical_Information_Evaluation_A_Comparative_Study_of_Credibility_Assessments_by_LLM_and_Human_Judges.md)
-
-    - [翻译: 在线医疗信息评估中的“诱饵困境”：关于 LLM 和人类评委可信度评估的比较研究](2024年11月22日/The_Decoy_Dilemma_in_Online_Medical_Information_Evaluation_A_Comparative_Study_of_Credibility_Assessments_by_LLM_and_Human_Judges.md)
-
-- [VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](2024年11月22日/VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_Core_Frame_Selection.md)
-
-    - [翻译: VideoEspresso：一个用于通过核心帧选择进行细粒度视频推理的大规模思维链数据集](2024年11月22日/VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_Core_Frame_Selection.md)
-
-- [VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models](2024年11月22日/VisGraphVar_A_Benchmark_Generator_for_Assessing_Variability_in_Graph_Analysis_Using_Large_Vision-Language_Models.md)
-
-    - [翻译: VisGraphVar：一个用于评估借助大型视觉语言模型进行图分析时的可变性的基准生成器](2024年11月22日/VisGraphVar_A_Benchmark_Generator_for_Assessing_Variability_in_Graph_Analysis_Using_Large_Vision-Language_Models.md)
-
-- [What Makes a Scene ? Scene Graph-based Evaluation and Feedback for Controllable Generation](2024年11月22日/What_Makes_a_Scene__Scene_Graph-based_Evaluation_and_Feedback_for_Controllable_Generation.md)
-
-    - [翻译: 究竟是什么造就了一个场景？基于场景图的可控生成的评估与反馈](2024年11月22日/What_Makes_a_Scene__Scene_Graph-based_Evaluation_and_Feedback_for_Controllable_Generation.md)
-
-- [Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models](2024年11月22日/Who_Can_Withstand_Chat-Audio_Attacks_An_Evaluation_Benchmark_for_Large_Language_Models.md)
-
-    - [翻译: 谁能够抵御聊天音频攻击？大型语言模型的评估基准](2024年11月22日/Who_Can_Withstand_Chat-Audio_Attacks_An_Evaluation_Benchmark_for_Large_Language_Models.md)
 
 2024年11月21日
 
