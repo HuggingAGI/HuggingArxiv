@@ -1,0 +1,15 @@
+# FlexiBit：适用于任意混合精度 AI 的全灵活精度位并行加速器架构
+
+发布时间：2024年11月27日
+
+`LLM应用` `加速器`
+
+> FlexiBit: Fully Flexible Precision Bit-parallel Accelerator Architecture for Arbitrary Mixed Precision AI
+
+# 摘要
+
+> 近期研究显示，大型语言模型（LLMs）能够运用低精度浮点（FP）量化，在维持原有模型精度的情况下达成高效率。特别是，近来的工作展现了像 FP6 和 FP5 这类非 2 的幂次精度的成效，以及 LLM 层对于低精度算术的不同敏感度，这促使在 LLMs 中采用包含非 2 的幂次精度的混合精度算术。虽说低精度在算法层面带来了低计算开销，然而受硬件限制（比如 NVIDIA H100 Tensor Core 中仅支持有限的 2 的幂次精度，像 FP8、16、32 和 64）影响，这些优势无法被充分发挥。另外，硬件计算单元被设定为支持标准格式（比如 FP8 的 E4M3 和 E5M2）。这种情况意味着每当有新的精度和格式出现，就需要重新设计硬件，从而导致利用新精度和格式时产生高额的硬件更换成本。所以，在本文中，我们提出了一种全新的加速器架构——FlexiBit，它能有效支持任意精度和格式的 FP 和 INT 算术。和之前的位串行设计不同，位串行设计虽也具备灵活性，但因其按位的时间处理特性而牺牲了性能，FlexiBit 的架构能够在避免计算单元未充分利用的情况下，对任何精度和格式进行位并行处理。FlexiBit 利用非 2 的幂次精度和格式的新能力，在针对云规模加速器的 FP6 中的 GPT-3 上，相较于类似 Tensor Core 的架构和最先进的位并行灵活精度加速器 BitFusion，每单位面积性能分别提升了 1.66 倍和 1.62 倍。此外，FlexiBit 架构的位并行特性使其性能/面积比最先进的位串行架构高出 3.9 倍。
+
+> Recent research has shown that large language models (LLMs) can utilize low-precision floating point (FP) quantization to deliver high efficiency while maintaining original model accuracy. In particular, recent works have shown the effectiveness of non-power-of-two precisions, such as FP6 and FP5, and diverse sensitivity to low-precision arithmetic of LLM layers, which motivates mixed precision arithmetic including non-power-of-two precisions in LLMs. Although low-precision algorithmically leads to low computational overheads, such benefits cannot be fully exploited due to hardware constraints that support a limited set of power-of-two precisions (e.g., FP8, 16, 32, and 64 in NVIDIA H100 Tensor Core). In addition, the hardware compute units are designed to support standard formats (e.g., E4M3 and E5M2 for FP8). Such practices require re-designing the hardware whenever new precision and format emerge, which leads to high hardware replacement costs to exploit the benefits of new precisions and formats. Therefore, in this paper, we propose a new accelerator architecture, FlexiBit, which efficiently supports FP and INT arithmetic in arbitrary precisions and formats. Unlike previous bit-serial designs, which also provide flexibility but at the cost of performance due to its bit-wise temporal processing nature, FlexiBit's architecture enables bit-parallel processing of any precision and format without compute unit underutilization. FlexiBit's new capability to exploit non-power of two precision and format led to 1.66x and 1.62x higher performance per area on GPT-3 in FP6 targeting a cloud-scale accelerator, compared to a Tensor Core-like architecture and a state-of-the-art bit-parallel flexible precision accelerator, BitFusion, respectively. Also, the bit-parallel nature of FlexiBit's architecture led to 3.9x higher performance/area compared to a state-of-the-art bit-serial architecture.
+
+[Arxiv](https://arxiv.org/abs/2411.18065)
