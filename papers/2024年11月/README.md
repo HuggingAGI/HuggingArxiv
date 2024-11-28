@@ -1,19 +1,5 @@
 # 2024年11月
 
-2024年11月25日
-
-- [FREE-Merging: Fourier Transform for Model Merging with Lightweight Experts](2024年11月25日/FREE-Merging_Fourier_Transform_for_Model_Merging_with_Lightweight_Experts.md)
-
-    - [翻译: FREE-Merging：用于结合轻量级专家的模型的傅里叶变换](2024年11月25日/FREE-Merging_Fourier_Transform_for_Model_Merging_with_Lightweight_Experts.md)
-
-- [Geometry Distributions](2024年11月25日/Geometry_Distributions.md)
-
-    - [翻译: 几何分布](2024年11月25日/Geometry_Distributions.md)
-
-- [Probing the limitations of multimodal language models for chemistry and materials research](2024年11月25日/Probing_the_limitations_of_multimodal_language_models_for_chemistry_and_materials_research.md)
-
-    - [翻译: 探索多模态语言模型于化学和材料研究中的局限性](2024年11月25日/Probing_the_limitations_of_multimodal_language_models_for_chemistry_and_materials_research.md)
-
 2024年11月24日
 
 - [Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks](2024年11月24日/Chain_of_Attack_On_the_Robustness_of_Vision-Language_Models_Against_Transfer-Based_Adversarial_Attacks.md)
@@ -24,21 +10,9 @@
 
     - [翻译: 利用先进的 NLP 技术破译基因组代码：范围综述](2024年11月24日/Deciphering_genomic_codes_using_advanced_NLP_techniques_a_scoping_review.md)
 
-- [Ensuring Fair LLM Serving Amid Diverse Applications](2024年11月24日/Ensuring_Fair_LLM_Serving_Amid_Diverse_Applications.md)
-
-    - [翻译: 确保在多样化的应用场景中实现大型语言模型服务的公平性](2024年11月24日/Ensuring_Fair_LLM_Serving_Amid_Diverse_Applications.md)
-
-- [From Laws to Motivation: Guiding Exploration through Law-Based Reasoning and Rewards](2024年11月24日/From_Laws_to_Motivation_Guiding_Exploration_through_Law-Based_Reasoning_and_Rewards.md)
-
-    - [翻译: 从法律到动机：借由基于法律的推理与奖励引导探索](2024年11月24日/From_Laws_to_Motivation_Guiding_Exploration_through_Law-Based_Reasoning_and_Rewards.md)
-
 - [Is 'Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning](2024年11月24日/Is_'Right'_Right_Enhancing_Object_Orientation_Understanding_in_Multimodal_Language_Models_through_Egocentric_Instruction_Tuning.md)
 
     - [翻译: “正确”真就正确吗？借助以自我为中心的指令调优来增强多模态语言模型中的对象定向理解](2024年11月24日/Is_'Right'_Right_Enhancing_Object_Orientation_Understanding_in_Multimodal_Language_Models_through_Egocentric_Instruction_Tuning.md)
-
-- [Leverage Task Context for Object Affordance Ranking](2024年11月24日/Leverage_Task_Context_for_Object_Affordance_Ranking.md)
-
-    - [翻译: 借助任务上下文来对对象可供性进行排序](2024年11月24日/Leverage_Task_Context_for_Object_Affordance_Ranking.md)
 
 - [M3-CVC: Controllable Video Compression with Multimodal Generative Models](2024年11月24日/M3-CVC_Controllable_Video_Compression_with_Multimodal_Generative_Models.md)
 
@@ -47,14 +21,6 @@
 - [SAGEval: The frontiers of Satisfactory Agent based NLG Evaluation for reference-free open-ended text](2024年11月24日/SAGEval_The_frontiers_of_Satisfactory_Agent_based_NLG_Evaluation_for_reference-free_open-ended_text.md)
 
     - [翻译: SAGEval：基于满意代理的无参考开放式文本的 NLG 评估前沿](2024年11月24日/SAGEval_The_frontiers_of_Satisfactory_Agent_based_NLG_Evaluation_for_reference-free_open-ended_text.md)
-
-- [Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering](2024年11月24日/Text-Guided_Coarse-to-Fine_Fusion_Network_for_Robust_Remote_Sensing_Visual_Question_Answering.md)
-
-    - [翻译: 用于鲁棒遥感视觉问答的文本引导式从粗到细融合网络](2024年11月24日/Text-Guided_Coarse-to-Fine_Fusion_Network_for_Robust_Remote_Sensing_Visual_Question_Answering.md)
-
-- [VersaTune: Harnessing Vertical Domain Insights for Multi-Ability LLM Supervised Fine-Tuning](2024年11月24日/VersaTune_Harnessing_Vertical_Domain_Insights_for_Multi-Ability_LLM_Supervised_Fine-Tuning.md)
-
-    - [翻译: VersaTune：高效地微调多能力大型语言模型](2024年11月24日/VersaTune_Harnessing_Vertical_Domain_Insights_for_Multi-Ability_LLM_Supervised_Fine-Tuning.md)
 
 2024年11月23日
 
