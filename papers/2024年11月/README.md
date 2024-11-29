@@ -2,29 +2,25 @@
 
 2024年11月27日
 
-- [Cross-modal Information Flow in Multimodal Large Language Models](2024年11月27日/Cross-modal_Information_Flow_in_Multimodal_Large_Language_Models.md)
+- [Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning](2024年11月27日/Challenges_in_Adapting_Multilingual_LLMs_to_Low-Resource_Languages_using_LoRA_PEFT_Tuning.md)
 
-    - [翻译: 多模态大型语言模型里的跨模态信息流](2024年11月27日/Cross-modal_Information_Flow_in_Multimodal_Large_Language_Models.md)
+    - [翻译: 运用 LoRA PEFT 调优让多语言 LLMs 适应低资源语言时所遭遇的挑战](2024年11月27日/Challenges_in_Adapting_Multilingual_LLMs_to_Low-Resource_Languages_using_LoRA_PEFT_Tuning.md)
 
-- [Curriculum Demonstration Selection for In-Context Learning](2024年11月27日/Curriculum_Demonstration_Selection_for_In-Context_Learning.md)
+- [COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models](2024年11月27日/COREval_A_Comprehensive_and_Objective_Benchmark_for_Evaluating_the_Remote_Sensing_Capabilities_of_Large_Vision-Language_Models.md)
 
-    - [翻译: 用于上下文学习的课程演示选择](2024年11月27日/Curriculum_Demonstration_Selection_for_In-Context_Learning.md)
+    - [翻译: COREval：一个用于评估大型视觉语言模型遥感能力的全面且客观的基准](2024年11月27日/COREval_A_Comprehensive_and_Objective_Benchmark_for_Evaluating_the_Remote_Sensing_Capabilities_of_Large_Vision-Language_Models.md)
 
-- [FlexiBit: Fully Flexible Precision Bit-parallel Accelerator Architecture for Arbitrary Mixed Precision AI](2024年11月27日/FlexiBit_Fully_Flexible_Precision_Bit-parallel_Accelerator_Architecture_for_Arbitrary_Mixed_Precision_AI.md)
+- [Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation](2024年11月27日/Enhancing_MMDiT-Based_Text-to-Image_Models_for_Similar_Subject_Generation.md)
 
-    - [翻译: FlexiBit：适用于任意混合精度 AI 的全灵活精度位并行加速器架构](2024年11月27日/FlexiBit_Fully_Flexible_Precision_Bit-parallel_Accelerator_Architecture_for_Arbitrary_Mixed_Precision_AI.md)
+    - [翻译: 提升基于 MMDiT 的文本到图像模型来生成相似主题](2024年11月27日/Enhancing_MMDiT-Based_Text-to-Image_Models_for_Similar_Subject_Generation.md)
 
-- [From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](2024年11月27日/From_Exploration_to_Revelation_Detecting_Dark_Patterns_in_Mobile_Apps.md)
+- [Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator](2024年11月27日/Is_my_Meeting_Summary_Good_Estimating_Quality_with_a_Multi-LLM_Evaluator.md)
 
-    - [翻译: 从探索走向揭示：检测移动应用中的暗黑模式](2024年11月27日/From_Exploration_to_Revelation_Detecting_Dark_Patterns_in_Mobile_Apps.md)
+    - [翻译: 我的会议总结好不好？借助多语言模型评估器来评估其质量](2024年11月27日/Is_my_Meeting_Summary_Good_Estimating_Quality_with_a_Multi-LLM_Evaluator.md)
 
-- [GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](2024年11月27日/GATE_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation.md)
+- [Wearable intelligent throat enables natural speech in stroke patients with dysarthria](2024年11月27日/Wearable_intelligent_throat_enables_natural_speech_in_stroke_patients_with_dysarthria.md)
 
-    - [翻译: GATE OpenING：评判开放式交错图像 - 文本生成的综合性基准](2024年11月27日/GATE_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation.md)
-
-- [Howzat? Appealing to Expert Judgement for Evaluating Human and AI Next-Step Hints for Novice Programmers](2024年11月27日/Howzat_Appealing_to_Expert_Judgement_for_Evaluating_Human_and_AI_Next-Step_Hints_for_Novice_Programmers.md)
-
-    - [翻译: Howzat？通过呼吁专家判断来评估针对新手程序员的人类和人工智能的下一步提示](2024年11月27日/Howzat_Appealing_to_Expert_Judgement_for_Evaluating_Human_and_AI_Next-Step_Hints_for_Novice_Programmers.md)
+    - [翻译: 可穿戴智能喉部让患有构音障碍的中风患者能够自然发声。](2024年11月27日/Wearable_intelligent_throat_enables_natural_speech_in_stroke_patients_with_dysarthria.md)
 
 2024年11月21日
 
@@ -35,10 +31,6 @@
 - [Assessment of LLM Responses to End-user Security Questions](2024年11月21日/Assessment_of_LLM_Responses_to_End-user_Security_Questions.md)
 
     - [翻译: 关于大型语言模型对终端用户安全问题响应的评估](2024年11月21日/Assessment_of_LLM_Responses_to_End-user_Security_Questions.md)
-
-- [Automated Generation of Code Debugging Exercises](2024年11月21日/Automated_Generation_of_Code_Debugging_Exercises.md)
-
-    - [翻译: 代码调试练习的自动生成](2024年11月21日/Automated_Generation_of_Code_Debugging_Exercises.md)
 
 - [Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding](2024年11月21日/Beyond_Training_Dynamic_Token_Merging_for_Zero-Shot_Video_Understanding.md)
 
@@ -68,21 +60,9 @@
 
     - [翻译: 对能力视角下的多模态大型语言模型进行评估与推进](2024年11月21日/Evaluating_and_Advancing_Multimodal_Large_Language_Models_in_Ability_Lens.md)
 
-- [FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data](2024年11月21日/FedMLLM_Federated_Fine-tuning_MLLM_on_Multimodal_Heterogeneity_Data.md)
-
-    - [翻译: FedMLLM：针对多模态异质性数据的联邦微调式 MLLM](2024年11月21日/FedMLLM_Federated_Fine-tuning_MLLM_on_Multimodal_Heterogeneity_Data.md)
-
 - [FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression](2024年11月21日/FocusLLaVA_A_Coarse-to-Fine_Approach_for_Efficient_and_Effective_Visual_Token_Compression.md)
 
     - [翻译: FocusLLaVA：一种实现高效且有效视觉标记压缩的从粗到细的方法](2024年11月21日/FocusLLaVA_A_Coarse-to-Fine_Approach_for_Efficient_and_Effective_Visual_Token_Compression.md)
-
-- [FoPru: Focal Pruning for Efficient Large Vision-Language Models](2024年11月21日/FoPru_Focal_Pruning_for_Efficient_Large_Vision-Language_Models.md)
-
-    - [翻译: FoPru：针对高效大型视觉语言模型的焦点剪枝](2024年11月21日/FoPru_Focal_Pruning_for_Efficient_Large_Vision-Language_Models.md)
-
-- [Forecasting Future International Events: A Reliable Dataset for Text-Based Event Modeling](2024年11月21日/Forecasting_Future_International_Events_A_Reliable_Dataset_for_Text-Based_Event_Modeling.md)
-
-    - [翻译: 预测未来国际事件：用于文本事件建模的可靠数据集](2024年11月21日/Forecasting_Future_International_Events_A_Reliable_Dataset_for_Text-Based_Event_Modeling.md)
 
 - [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](2024年11月21日/Freeze-Omni_A_Smart_and_Low_Latency_Speech-to-speech_Dialogue_Model_with_Frozen_LLM.md)
 
@@ -107,10 +87,6 @@
 - [Global Challenge for Safe and Secure LLMs Track 1](2024年11月21日/Global_Challenge_for_Safe_and_Secure_LLMs_Track_1.md)
 
     - [翻译: 全球安全可靠的大型语言模型挑战之赛道 1](2024年11月21日/Global_Challenge_for_Safe_and_Secure_LLMs_Track_1.md)
-
-- [G-RAG: Knowledge Expansion in Material Science](2024年11月21日/G-RAG_Knowledge_Expansion_in_Material_Science.md)
-
-    - [翻译: G-RAG：材料科学领域的知识拓展](2024年11月21日/G-RAG_Knowledge_Expansion_in_Material_Science.md)
 
 - [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](2024年11月21日/Insight-V_Exploring_Long-Chain_Visual_Reasoning_with_Multimodal_Large_Language_Models.md)
 
@@ -188,10 +164,6 @@
 
     - [翻译: 朝着富含上下文的自动化生物多样性评估迈进：从相机陷阱数据中获取由人工智能驱动的洞察](2024年11月21日/Towards_Context-Rich_Automated_Biodiversity_Assessments_Deriving_AI-Powered_Insights_from_Camera_Trap_Data.md)
 
-- [Understanding LLM Embeddings for Regression](2024年11月21日/Understanding_LLM_Embeddings_for_Regression.md)
-
-    - [翻译: 对用于回归的 LLM 嵌入的理解](2024年11月21日/Understanding_LLM_Embeddings_for_Regression.md)
-
 - [UnifiedCrawl: Aggregated Common Crawl for Affordable Adaptation of LLMs on Low-Resource Languages](2024年11月21日/UnifiedCrawl_Aggregated_Common_Crawl_for_Affordable_Adaptation_of_LLMs_on_Low-Resource_Languages.md)
 
     - [翻译: UnifiedCrawl：聚合 Common Crawl 以经济实惠地适配大型语言模型于低资源语言](2024年11月21日/UnifiedCrawl_Aggregated_Common_Crawl_for_Affordable_Adaptation_of_LLMs_on_Low-Resource_Languages.md)
@@ -199,10 +171,6 @@
 - [Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation](2024年11月21日/Unleashing_the_Potential_of_Multi-modal_Foundation_Models_and_Video_Diffusion_for_4D_Dynamic_Physical_Scene_Simulation.md)
 
     - [翻译: 挖掘多模态基础模型和视频扩散在 4D 动态物理场景模拟中的潜力](2024年11月21日/Unleashing_the_Potential_of_Multi-modal_Foundation_Models_and_Video_Diffusion_for_4D_Dynamic_Physical_Scene_Simulation.md)
-
-- [Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training](2024年11月21日/Velocitune_A_Velocity-based_Dynamic_Domain_Reweighting_Method_for_Continual_Pre-training.md)
-
-    - [翻译: Velocitune：一种用于持续预训练的基于速度的动态域重加权方法](2024年11月21日/Velocitune_A_Velocity-based_Dynamic_Domain_Reweighting_Method_for_Continual_Pre-training.md)
 
 2024年11月20日
 
