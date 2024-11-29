@@ -1,44 +1,18 @@
 # 2024年11月
 
-2024年11月27日
+2024年11月26日
 
-- [AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans](2024年11月27日/AdaVLN_Towards_Visual_Language_Navigation_in_Continuous_Indoor_Environments_with_Moving_Humans.md)
+- [NEMO: Can Multimodal LLMs Identify Attribute-Modified Objects?](2024年11月26日/NEMO_Can_Multimodal_LLMs_Identify_Attribute-Modified_Objects.md)
 
-    - [翻译: AdaVLN：致力于在有移动人类的连续室内环境中实现视觉语言导航](2024年11月27日/AdaVLN_Towards_Visual_Language_Navigation_in_Continuous_Indoor_Environments_with_Moving_Humans.md)
+    - [翻译: NEMO：多模态 LLMs 能否识别属性修改后的对象？](2024年11月26日/NEMO_Can_Multimodal_LLMs_Identify_Attribute-Modified_Objects.md)
 
-- [A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models](2024年11月27日/A_Pipeline_of_Neural-Symbolic_Integration_to_Enhance_Spatial_Reasoning_in_Large_Language_Models.md)
+- [Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey](2024年11月26日/Passive_Deepfake_Detection_Across_Multi-modalities_A_Comprehensive_Survey.md)
 
-    - [翻译: 一种能够增强大型语言模型中空间推理能力的神经符号集成管线](2024年11月27日/A_Pipeline_of_Neural-Symbolic_Integration_to_Enhance_Spatial_Reasoning_in_Large_Language_Models.md)
+    - [翻译: 关于被动式多模态深度伪造检测的全面调研](2024年11月26日/Passive_Deepfake_Detection_Across_Multi-modalities_A_Comprehensive_Survey.md)
 
-- [ChatRex: Taming Multimodal LLM for Joint Perception and Understanding](2024年11月27日/ChatRex_Taming_Multimodal_LLM_for_Joint_Perception_and_Understanding.md)
+- [RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model](2024年11月26日/RS-vHeat_Heat_Conduction_Guided_Efficient_Remote_Sensing_Foundation_Model.md)
 
-    - [翻译: ChatRex：驾驭多模态 LLM 达成联合感知与理解](2024年11月27日/ChatRex_Taming_Multimodal_LLM_for_Joint_Perception_and_Understanding.md)
-
-- [Overview of TREC 2024 Biomedical Generative Retrieval (BioGen) Track](2024年11月27日/Overview_of_TREC_2024_Biomedical_Generative_Retrieval_(BioGen)_Track.md)
-
-    - [翻译: TREC 2024 生物医学生成式检索（BioGen）赛道概览](2024年11月27日/Overview_of_TREC_2024_Biomedical_Generative_Retrieval_(BioGen)_Track.md)
-
-- [Politicians vs ChatGPT. A study of presuppositions in French and Italian political communication](2024年11月27日/Politicians_vs_ChatGPT._A_study_of_presuppositions_in_French_and_Italian_political_communication.md)
-
-    - [翻译: 《政治家与 ChatGPT：关于法意政治交流中的预设研究》](2024年11月27日/Politicians_vs_ChatGPT._A_study_of_presuppositions_in_French_and_Italian_political_communication.md)
-
-2024年11月21日
-
-- [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](2024年11月21日/Freeze-Omni_A_Smart_and_Low_Latency_Speech-to-speech_Dialogue_Model_with_Frozen_LLM.md)
-
-    - [翻译: Freeze-Omni：一款具备冻结 LLM 的智能且低延迟的语音到语音对话模型](2024年11月21日/Freeze-Omni_A_Smart_and_Low_Latency_Speech-to-speech_Dialogue_Model_with_Frozen_LLM.md)
-
-- [Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective](2024年11月21日/Knowledge_Graphs,_Large_Language_Models,_and_Hallucinations_An_NLP_Perspective.md)
-
-    - [翻译: 知识图谱、大型语言模型与幻觉：从自然语言处理的视角来看](2024年11月21日/Knowledge_Graphs,_Large_Language_Models,_and_Hallucinations_An_NLP_Perspective.md)
-
-- [Structure-Based Molecule Optimization via Gradient-Guided Bayesian Update](2024年11月21日/Structure-Based_Molecule_Optimization_via_Gradient-Guided_Bayesian_Update.md)
-
-    - [翻译: 释放基于结构的分子优化中梯度引导的强大力量](2024年11月21日/Structure-Based_Molecule_Optimization_via_Gradient-Guided_Bayesian_Update.md)
-
-- [Towards Context-Rich Automated Biodiversity Assessments: Deriving AI-Powered Insights from Camera Trap Data](2024年11月21日/Towards_Context-Rich_Automated_Biodiversity_Assessments_Deriving_AI-Powered_Insights_from_Camera_Trap_Data.md)
-
-    - [翻译: 朝着富含上下文的自动化生物多样性评估迈进：从相机陷阱数据中获取由人工智能驱动的洞察](2024年11月21日/Towards_Context-Rich_Automated_Biodiversity_Assessments_Deriving_AI-Powered_Insights_from_Camera_Trap_Data.md)
+    - [翻译: RS-vHeat：由热传导引导的高效遥感基础模型](2024年11月26日/RS-vHeat_Heat_Conduction_Guided_Efficient_Remote_Sensing_Foundation_Model.md)
 
 2024年11月20日
 
@@ -54,10 +28,6 @@
 
     - [翻译: 具有高宜人性设计提示的 AI 驱动代理在图灵测试中更有可能被误认为是人类。](2024年11月20日/AI-Driven_Agents_with_Prompts_Designed_for_High_Agreeableness_Increase_the_Likelihood_of_Being_Mistaken_for_a_Human_in_the_Turing_Test.md)
 
-- [An Evaluation-Driven Approach to Designing LLM Agents: Process and Architecture](2024年11月20日/An_Evaluation-Driven_Approach_to_Designing_LLM_Agents_Process_and_Architecture.md)
-
-    - [翻译: 一种设计 LLM 代理的评估驱动式方法：流程与架构](2024年11月20日/An_Evaluation-Driven_Approach_to_Designing_LLM_Agents_Process_and_Architecture.md)
-
 - [Are Large Language Models Memorizing Bug Benchmarks?](2024年11月20日/Are_Large_Language_Models_Memorizing_Bug_Benchmarks.md)
 
     - [翻译: 大型语言模型是否在对错误基准进行记忆？](2024年11月20日/Are_Large_Language_Models_Memorizing_Bug_Benchmarks.md)
@@ -69,10 +39,6 @@
 - [AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning](2024年11月20日/AutoMixQ_Self-Adjusting_Quantization_for_High_Performance_Memory-Efficient_Fine-Tuning.md)
 
     - [翻译: AutoMixQ：实现高性能且内存高效微调的自调整量化](2024年11月20日/AutoMixQ_Self-Adjusting_Quantization_for_High_Performance_Memory-Efficient_Fine-Tuning.md)
-
-- [BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](2024年11月20日/BALROG_Benchmarking_Agentic_LLM_and_VLM_Reasoning_On_Games.md)
-
-    - [翻译: BALROG：针对游戏中的智能体语言模型和视觉语言模型推理展开基准测试](2024年11月20日/BALROG_Benchmarking_Agentic_LLM_and_VLM_Reasoning_On_Games.md)
 
 - [CAFE A Novel Code switching Dataset for Algerian Dialect French and English](2024年11月20日/CAFE_A_Novel_Code_switching_Dataset_for_Algerian_Dialect_French_and_English.md)
 
@@ -94,18 +60,6 @@
 
     - [翻译: CryptoFormalEval：融合 LLMs 与形式验证，实现加密协议漏洞的自动检测](2024年11月20日/CryptoFormalEval_Integrating_LLMs_and_Formal_Verification_for_Automated_Cryptographic_Protocol_Vulnerability_Detection.md)
 
-- [Decompose and Leverage Preferences from Expert Models for Improving Trustworthiness of MLLMs](2024年11月20日/Decompose_and_Leverage_Preferences_from_Expert_Models_for_Improving_Trustworthiness_of_MLLMs.md)
-
-    - [翻译: 分解并借助专家模型的偏好来提升多语言大型语言模型（MLLMs）的可信度](2024年11月20日/Decompose_and_Leverage_Preferences_from_Expert_Models_for_Improving_Trustworthiness_of_MLLMs.md)
-
-- [DMQR-RAG: Diverse Multi-Query Rewriting for RAG](2024年11月20日/DMQR-RAG_Diverse_Multi-Query_Rewriting_for_RAG.md)
-
-    - [翻译: DMQR-RAG：针对 RAG 的多样化多查询重写](2024年11月20日/DMQR-RAG_Diverse_Multi-Query_Rewriting_for_RAG.md)
-
-- [DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving](2024年11月20日/DriveMLLM_A_Benchmark_for_Spatial_Understanding_with_Multimodal_Large_Language_Models_in_Autonomous_Driving.md)
-
-    - [翻译: DriveMLLM：自动驾驶中借助多模态大型语言模型实现空间理解的基准](2024年11月20日/DriveMLLM_A_Benchmark_for_Spatial_Understanding_with_Multimodal_Large_Language_Models_in_Autonomous_Driving.md)
-
 - [Energy-based generative models for monoclonal antibodies](2024年11月20日/Energy-based_generative_models_for_monoclonal_antibodies.md)
 
     - [翻译: 单克隆抗体的基于能量的生成模型](2024年11月20日/Energy-based_generative_models_for_monoclonal_antibodies.md)
@@ -126,10 +80,6 @@
 
     - [翻译: FASTNav：用于多点机器人导航的经过微调的自适应小型语言模型](2024年11月20日/FASTNav_Fine-tuned_Adaptive_Small-language-models_Trained_for_Multi-point_Robot_Navigation.md)
 
-- [FastRAG: Retrieval Augmented Generation for Semi-structured Data](2024年11月20日/FastRAG_Retrieval_Augmented_Generation_for_Semi-structured_Data.md)
-
-    - [翻译: FastRAG：针对半结构化数据的检索增强式生成](2024年11月20日/FastRAG_Retrieval_Augmented_Generation_for_Semi-structured_Data.md)
-
 - [InstCache: A Predictive Cache for LLM Serving](2024年11月20日/InstCache_A_Predictive_Cache_for_LLM_Serving.md)
 
     - [翻译: InstCache：LLM 服务的预测缓存](2024年11月20日/InstCache_A_Predictive_Cache_for_LLM_Serving.md)
@@ -137,10 +87,6 @@
 - [Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL](2024年11月20日/Leveraging_Prior_Experience_An_Expandable_Auxiliary_Knowledge_Base_for_Text-to-SQL.md)
 
     - [翻译: 借助先前经验：面向文本到 SQL 的可扩展辅助知识库](2024年11月20日/Leveraging_Prior_Experience_An_Expandable_Auxiliary_Knowledge_Base_for_Text-to-SQL.md)
-
-- [M2oE: Multimodal Collaborative Expert Peptide Model](2024年11月20日/M2oE_Multimodal_Collaborative_Expert_Peptide_Model.md)
-
-    - [翻译: M2oE：多模态协同专家肽模型](2024年11月20日/M2oE_Multimodal_Collaborative_Expert_Peptide_Model.md)
 
 - [Metacognition for Unknown Situations and Environments (MUSE)](2024年11月20日/Metacognition_for_Unknown_Situations_and_Environments_(MUSE).md)
 
@@ -150,41 +96,9 @@
 
     - [翻译: extsc{Neon}：用于强化问答的新闻实体交互提取](2024年11月20日/Neon_News_Entity-Interaction_Extraction_for_Enhanced_Question_Answering.md)
 
-- [Nonlinear Assimilation with Score-based Sequential Langevin Sampling](2024年11月20日/Nonlinear_Assimilation_with_Score-based_Sequential_Langevin_Sampling.md)
-
-    - [翻译: 非线性同化结合基于分数的顺序朗之万采样](2024年11月20日/Nonlinear_Assimilation_with_Score-based_Sequential_Langevin_Sampling.md)
-
 - [On the Way to LLM Personalization: Learning to Remember User Conversations](2024年11月20日/On_the_Way_to_LLM_Personalization_Learning_to_Remember_User_Conversations.md)
 
     - [翻译: 在实现 LLM 个性化的进程中：学会铭记用户对话](2024年11月20日/On_the_Way_to_LLM_Personalization_Learning_to_Remember_User_Conversations.md)
-
-- [PatentEdits: Framing Patent Novelty as Textual Entailment](2024年11月20日/PatentEdits_Framing_Patent_Novelty_as_Textual_Entailment.md)
-
-    - [翻译: PatentEdits：把专利新颖性表述为文本蕴含](2024年11月20日/PatentEdits_Framing_Patent_Novelty_as_Textual_Entailment.md)
-
-- [Patience Is The Key to Large Language Model Reasoning](2024年11月20日/Patience_Is_The_Key_to_Large_Language_Model_Reasoning.md)
-
-    - [翻译: 耐心乃大型语言模型推理之关键所在](2024年11月20日/Patience_Is_The_Key_to_Large_Language_Model_Reasoning.md)
-
-- [Quantum Kernel-Based Long Short-term Memory](2024年11月20日/Quantum_Kernel-Based_Long_Short-term_Memory.md)
-
-    - [翻译: 基于量子核的长短期记忆](2024年11月20日/Quantum_Kernel-Based_Long_Short-term_Memory.md)
-
-- [Retrieval-Augmented Generation for Domain-Specific Question Answering: A Case Study on Pittsburgh and CMU](2024年11月20日/Retrieval-Augmented_Generation_for_Domain-Specific_Question_Answering_A_Case_Study_on_Pittsburgh_and_CMU.md)
-
-    - [翻译: 关于特定领域问答的检索增强生成：以匹兹堡和卡内基梅隆大学为例的研究](2024年11月20日/Retrieval-Augmented_Generation_for_Domain-Specific_Question_Answering_A_Case_Study_on_Pittsburgh_and_CMU.md)
-
-- [Scaling Laws for Online Advertisement Retrieval](2024年11月20日/Scaling_Laws_for_Online_Advertisement_Retrieval.md)
-
-    - [翻译: 在线广告检索的缩放定律](2024年11月20日/Scaling_Laws_for_Online_Advertisement_Retrieval.md)
-
-- [SoK: A Systems Perspective on Compound AI Threats and Countermeasures](2024年11月20日/SoK_A_Systems_Perspective_on_Compound_AI_Threats_and_Countermeasures.md)
-
-    - [翻译: SoK：从系统视角看复合人工智能的威胁与对策](2024年11月20日/SoK_A_Systems_Perspective_on_Compound_AI_Threats_and_Countermeasures.md)
-
-- [SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs](2024年11月20日/SpecTool_A_Benchmark_for_Characterizing_Errors_in_Tool-Use_LLMs.md)
-
-    - [翻译: SpecTool：一个用于刻画工具使用型大语言模型错误的基准](2024年11月20日/SpecTool_A_Benchmark_for_Characterizing_Errors_in_Tool-Use_LLMs.md)
 
 - [Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning](2024年11月20日/Star-Agents_Automatic_Data_Optimization_with_LLM_Agents_for_Instruction_Tuning.md)
 
@@ -194,49 +108,13 @@
 
     - [翻译: 大型语言模型的信息安全认知](2024年11月20日/The_Information_Security_Awareness_of_Large_Language_Models.md)
 
-- [The Value of Information from Sell-side Analysts](2024年11月20日/The_Value_of_Information_from_Sell-side_Analysts.md)
-
-    - [翻译: 卖方分析师所提供信息的价值](2024年11月20日/The_Value_of_Information_from_Sell-side_Analysts.md)
-
-- [Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge](2024年11月20日/Tiny-Align_Bridging_Automatic_Speech_Recognition_and_Large_Language_Model_on_the_Edge.md)
-
-    - [翻译: Tiny-Align：于边缘处架起自动语音识别与大型语言模型之间的桥梁](2024年11月20日/Tiny-Align_Bridging_Automatic_Speech_Recognition_and_Large_Language_Model_on_the_Edge.md)
-
-- [Transforming the Hybrid Cloud for Emerging AI Workloads](2024年11月20日/Transforming_the_Hybrid_Cloud_for_Emerging_AI_Workloads.md)
-
-    - [翻译: 为新兴的 AI 工作负载变革混合云](2024年11月20日/Transforming_the_Hybrid_Cloud_for_Emerging_AI_Workloads.md)
-
-- [Understanding World or Predicting Future? A Comprehensive Survey of World Models](2024年11月20日/Understanding_World_or_Predicting_Future_A_Comprehensive_Survey_of_World_Models.md)
-
-    - [翻译: 是理解世界，还是预测未来？关于世界模型的全面综述](2024年11月20日/Understanding_World_or_Predicting_Future_A_Comprehensive_Survey_of_World_Models.md)
-
-- [Unification of Balti and trans-border sister dialects in the essence of LLMs and AI Technology](2024年11月20日/Unification_of_Balti_and_trans-border_sister_dialects_in_the_essence_of_LLMs_and_AI_Technology.md)
-
-    - [翻译: 在大型语言模型和人工智能技术的本质层面，实现巴尔蒂语和跨境姐妹方言的统一](2024年11月20日/Unification_of_Balti_and_trans-border_sister_dialects_in_the_essence_of_LLMs_and_AI_Technology.md)
-
-- [Unleashing the Power of Large Language Models for Group POI Recommendations](2024年11月20日/Unleashing_the_Power_of_Large_Language_Models_for_Group_POI_Recommendations.md)
-
-    - [翻译: 充分发挥大型语言模型在群组兴趣点推荐上的威力](2024年11月20日/Unleashing_the_Power_of_Large_Language_Models_for_Group_POI_Recommendations.md)
-
-- [Utilizing Large Language Models to Synthesize Product Desirability Datasets](2024年11月20日/Utilizing_Large_Language_Models_to_Synthesize_Product_Desirability_Datasets.md)
-
-    - [翻译: 借助大型语言模型来合成产品合意性的数据集](2024年11月20日/Utilizing_Large_Language_Models_to_Synthesize_Product_Desirability_Datasets.md)
-
 - [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](2024年11月20日/Video-RAG_Visually-aligned_Retrieval-Augmented_Long_Video_Comprehension.md)
 
     - [翻译: Video-RAG：视觉对齐的检索增强式长视频理解](2024年11月20日/Video-RAG_Visually-aligned_Retrieval-Augmented_Long_Video_Comprehension.md)
 
-- [WaterPark: A Robustness Assessment of Language Model Watermarking](2024年11月20日/WaterPark_A_Robustness_Assessment_of_Language_Model_Watermarking.md)
-
-    - [翻译: WaterPark：对语言模型水印的鲁棒性评估](2024年11月20日/WaterPark_A_Robustness_Assessment_of_Language_Model_Watermarking.md)
-
 - [When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training](2024年11月20日/When_Precision_Meets_Position_BFloat16_Breaks_Down_RoPE_in_Long-Context_Training.md)
 
     - [翻译: 当精度与位置相遇：BFloat16 在长上下文训练中突破 RoPE](2024年11月20日/When_Precision_Meets_Position_BFloat16_Breaks_Down_RoPE_in_Long-Context_Training.md)
-
-- [Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems](2024年11月20日/Writing_Style_Matters_An_Examination_of_Bias_and_Fairness_in_Information_Retrieval_Systems.md)
-
-    - [翻译: 写作风格至关重要：探究信息检索系统中的偏差与公平](2024年11月20日/Writing_Style_Matters_An_Examination_of_Bias_and_Fairness_in_Information_Retrieval_Systems.md)
 
 2024年11月19日
 
